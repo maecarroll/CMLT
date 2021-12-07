@@ -1,0 +1,3661 @@
+Tentative Grammar Description
+for the Guhu Samane language spoken in Morobe Province
+Written by Titus Gamudze, Tom Hadzata and Phil King
+November 2013
+Page 1
+
+Table of Contents
+License........................................................................................................................................6 Copyright.................................................................................................................................... 6 1. INTRODUCTION..................................................................................................................7 2 WRITING SYSTEM AND SOUNDS.....................................................................................8 3 NOUNS AND NOUN PHRASES...........................................................................................9
+3.1 Pronouns and Possessive Suffixes.................................................................................... 9 3.1.1 Normal Pronouns....................................................................................................... 9 3.1.2 Possessive Pronouns................................................................................................ 10 3.1.3 Possessive Suffixes.................................................................................................. 11 3.1.4 Reflexive Pronouns.................................................................................................. 11 3.1.5 Translation Issues for Pronouns............................................................................... 13
+3.2 Nouns.............................................................................................................................. 13 3.2.1 Singular and Plural Nouns....................................................................................... 14 3.2.3 Translation Issues for Singular and Plural Nouns.................................................... 15
+3.3 Adjectives....................................................................................................................... 15 3.3.1 Normal Adjectives....................................................................................................15 3.3.2 Comparatives........................................................................................................... 18 3.3.3 Translation Issues for Adjectives............................................................................. 19
+3.4 Numerals and Number-Marking..................................................................................... 19 3.4.1 Traditional Counting System................................................................................... 19 3.4.2 Other Quantity Words.............................................................................................. 20 3.4.3 Ordinal Numbers......................................................................................................21 3.4.4 Translation Issues for Numerals and Number Marking........................................... 22
+3.5 Demonstratives and Articles........................................................................................... 22 3.5.1 Articles..................................................................................................................... 22 3.5.2 Demonstratives.........................................................................................................23 3.5.3 Translation Issues for Articles and Demonstratives................................................. 24
+3.6 Basic Noun Phrase Structure.......................................................................................... 25
+Page 2
+
+3.6.1 Noun Phrase Examples............................................................................................ 25 3.6.2 Translation Issues for Noun Phrases........................................................................ 25 3.7 Possession....................................................................................................................... 25 3.7.1 Direct (Inalienable).................................................................................................. 25 3.7.2 Indirect (Alienable).................................................................................................. 26 4 POSTPOSITIONS.................................................................................................................27 4.1 Locative postpositions.................................................................................................... 27 4.2 Benefactive Postposition................................................................................................ 29 4.3 Instrumental Postposition............................................................................................... 29 4.2 Translation Issues for Postpositions................................................................................29 5 VERBS.................................................................................................................................. 30 5.1 Person and Number Marking..........................................................................................30 5.1.1 Subject Marking....................................................................................................... 30 5.1.2 Object Marking........................................................................................................ 30 5.1.3 Recipient Marking....................................................................................................31 5.1.4 Benefactive Marking................................................................................................31 5.2 Tense............................................................................................................................... 31 5.2.1 Examples.................................................................................................................. 31 5.2.2 Translation Issues Related to Tense......................................................................... 33 5.3 Aspect............................................................................................................................. 33 5.3.1 Continuous............................................................................................................... 33 5.3.2 Habitual.................................................................................................................... 34 5.3.3 Completed................................................................................................................ 35 5.3.4 Beginning................................................................................................................. 35 5.3.5 Summary of Aspect.................................................................................................. 36 5.3.6 Translation Issues Related to Aspect........................................................................36 5.4 Realis and Irrealis........................................................................................................... 36 5.4.1 Examples.................................................................................................................. 37 5.4.2 Translation Issues for Realis and Irrealis................................................................. 38 5.5 Serial Verbs..................................................................................................................... 39 5.5.1 Examples.................................................................................................................. 39 5.5.2 Translation Issues for Serial Verbs...........................................................................41 5.6 Medial Verbs (Verbs that Come in the Middle of a Sentence)........................................41
+Page 3
+
+5.6.1 Medial Verb Examples............................................................................................. 42 5.6.2 Translation Issues for Medial Verbs.........................................................................46 6 CLAUSES............................................................................................................................. 46 6.1 Transitive clauses............................................................................................................46 6.1.1 Examples.................................................................................................................. 46 6.1.2 Translation Issues for Transitive Clauses.................................................................47 6.2 Intransitive clauses..........................................................................................................47 6.2.1 Examples.................................................................................................................. 47 6.2.2 Translation Issues for Intransitive Clauses...............................................................49 6.3 Di-transitive clauses........................................................................................................49 6.3.1 Examples.................................................................................................................. 49 6.3.2 Translation Issues for Di-transitive Clauses.............................................................49 6.4 Semantic roles.................................................................................................................49 6.4.1 Agent........................................................................................................................ 49 6.4.2 Force.........................................................................................................................49 6.4.3 Experiencer.............................................................................................................. 50 6.4.4 Possessor................................................................................................................. 52 6.4.5 Location................................................................................................................... 52 6.4.6 Source / destination.................................................................................................. 53 6.4.7 Instrument................................................................................................................ 53 6.4.8 Accompaniment....................................................................................................... 54 6.4.9 Recipient.................................................................................................................. 54 6.4.10 Beneficiary............................................................................................................. 55 6.4.11 Patient.....................................................................................................................56 6.4.12 Translation Issues for Semantic Roles................................................................... 56 6.5 Time................................................................................................................................ 56 6.5.1 Words for Time........................................................................................................ 56 6.5.2 Temporal Phrases..................................................................................................... 58 6.5.3 Translation Issues for Time...................................................................................... 58 6.6 Manner............................................................................................................................ 58 6.7 Negative Clauses and Negation...................................................................................... 60 6.7.1 Examples.................................................................................................................. 60 6.7.2 Translation Issues for Negative Clauses.................................................................. 61
+Page 4
+
+7 SENTENCES........................................................................................................................ 62 7.1 Conjunctions................................................................................................................... 62 7.1.1 Examples.................................................................................................................. 62 7.1.2 Translation Issues Related to Conjunctions............................................................. 64 7.2 Commands (Imperative Sentences)................................................................................ 64 7.2.1 Examples.................................................................................................................. 64 7.2.2 Translation Issues Related to Commands................................................................ 66 7.3 Questions (Interrogative Sentences)............................................................................... 66 7.3.1 Yes-No Questions.....................................................................................................66 7.3.2 WH Questions.......................................................................................................... 67 7.3.3 Translation Issues for Questions.............................................................................. 69 7.4 Sentence Adverbs............................................................................................................69 7.5 Reason, Result, Purpose................................................................................................. 71 7.5.1 Reason and Result.................................................................................................... 71 7.5.2 Purpose and Result...................................................................................................71 7.5.3 Translation Issues for Reason, Result and Purpose..................................................72 7.6 Interjections.................................................................................................................... 73
+8 BEYOND THE SENTENCE................................................................................................ 74 8.1 Topic and Focus.............................................................................................................. 74 8.1.1 Examples.................................................................................................................. 74 8.1.2 Translation Issues Related to Topic and Focus........................................................ 76
+9. Residue................................................................................................................................. 76 10. Selected Texts..................................................................................................................... 77
+Page 5
+
+License
+(the permissions we give to everyone, in simple English):
+We are doing this work freely, to help our language community and others like it. We want to make sure that our community and others can benefit from my/our work. We give this permission for anyone to use this work, but only if they follow the rules of the “Creative Commons Non-Commercial Share Alike License”. In simple English, those rules are 1) Our names must appear on any copies of this work, so people know we were the ones who did it. 2) No one may use this work for making money in business, without my permission. 3) Anyone may build upon this work, but they must then share the resulting work the same way we are sharing.
+
+Copyright
+(who can give different permissions)
+
+All my/our contributions to materials listed below are Copyright “ Tom Hadzata” “TitusGamudze” “Phil King”. That means if someone wants permission to do something different from what it says above, they must ask this copyright holder.
+
+Signed by:
+
+Name: Titus Gamudze
+
+Language: Guhu Samane
+
+Province: Morobe, P.N.G
+
+Name: Tom Hadzata
+
+Language: Guhu Samane
+
+Province: Morobe, P.N.G
+
+Name: Phil King
+
+Language: English
+
+England
+
+The following works are covered by this form
+
+Description
+
+Contribution
+
+Tentative Grammar Description
+Text collection – written
+
+authors authors -
+
+Text collection - audio
+
+authors -
+
+Signatures
+
+Date
+
+Titus Gamudze,Tom Hadzata and Phil King
+Titus Gamudze, Tom Hadzata
+
+18-11-2013 18-11-2013
+
+Titus Gamudze, Tom Hadzata 18-11-2013
+
+Page 6
+
+1. INTRODUCTION
+Language name: Guhu Samane [ghs] Classification: Trans-New Guinea, Greater Binanderean Location of Language Group: Waria Valley, Bulolo District and Eipa,Huon District in Morobe Province and Papuan Waria in Oro Province of Papua New Guinea Dialect(s) represented in this description: Lower Waria (Central Dialect) Name(s) of contributor(s): Titus Gamudze, Tom Hadzata and Phil King Period during which this information was collected: 23-10-2013 to 20-11-2013 Location where most data has been collected: Ukarumpa, E.H.P The information in this paper is based on texts and examples collected during the Discover Your Language workshop. Several texts were recorded and then typed up. A few examples are at the end of this paper. Location of Guhu Samane language community:
+Page 7
+
+Close-up map of Guhu Samane language area
+2 WRITING SYSTEM AND SOUNDS
+The consonants in Guhu Samane are: b, dz, g, h, k, kh, m, n, ng, p, q, r, s, t, tt. dz is an affricate (made by putting the tongue on the roof of the mouth, then letting some air through as you pull the tongue away) and sounds the same as j in 'jungle' kh is also an afficate, made at the back of the mouth. q is a glottal stop, a sound made by stopping the air in the throat. r is a flap, made by quickly touching the tongue on the roof of the mouth. tt is a sound that is like t but with the tongue touching close to the teeth.
+Page 8
+
+The vowels in Guhu Samane are a, e, i, o and u. Each vowel can also be lengthened, making a difference to the meaning of the word. For example, dzo 'snake' and dzoo 'garden'.
+
+3 NOUNS AND NOUN PHRASES
+3.1 Pronouns and Possessive Suffixes Our pronouns are shown in the charts below.
+
+3.1.1 Normal Pronouns Normal pronouns are words like I, you and they, which stand in place of other noun phrases.
+
+1st person (1) = the speaker. English I, we 2nd person (2) = the listener. English you 3rd person (3) = neither the speaker nor the listener. English he/she/it/they
+Singular (sg) = just one person/thing. English I/he/she/it Plural (pl) = more than one. English we/they 1st person exclusive (1 exc) = the speaker and some other people, but not the listener. Tok Pisin mipela. 1st person inclusive (1 inc) = the speaker and the listener (and maybe other people too). Tok Pisin yumi.
+These are our normal pronouns, which are the same for subjects and objects.
+
+singular dual plural
+
+1st person 2nd person 3rd person 1st person 2nd person 3rd person 1st person inclusive 1st person exclusive 2nd person 3rd person
+
+Normal pronoun ana nii no naka nipe nopo napa
+nana
+nike noko
+
+English / Tok Pisin equivalent I you he, she ,it we two/ yumitupela / mitupela you two / yutupela they / tupela we / yumi
+we / mipela
+you / yupela they
+
+Page 9
+
+Example sentences using normal pronouns:
+
+Nana noko moori
+
+we
+
+they saw.TODAY
+
+'We just saw them'
+
+Nopo
+
+Baridzaho quba husi khautota.
+
+they. two Baridza.of for food cooked
+
+'They both cooked food for Baridza.'
+
+Noi habeseqi dzuube ma sagi khata
+
+qabitorai .
+
+he sit.and
+
+knife with arrow(lit.bow.son) sharpening
+
+'‎ He is sitting and sharpening an arrow with a knife.'
+
+3.1.2 Possessive Pronouns Possessive pronouns are the same as normal pronouns, but have the suffix -ho added.
+
+Possessive pronoun
+
+English / Tok Pisin equivalent
+
+singular 1st person naho
+
+my
+
+2nd person niho
+
+your
+
+3rd person noho
+
+his, her ,its
+
+dual
+
+1st person nakaho
+
+our/ bilong yumitupela
+
+2nd person nipeho
+
+your / bilong yutupela
+
+3rd person nopoho
+
+their / bilong tupelo
+
+plural
+
+1st person inclusive
+
+napaho
+
+our / bilong yumi
+
+1st person exclusive
+
+nanaho
+
+our / bilong mipela
+
+2nd person nikeho
+
+your / bilong yupela
+
+3rd person nokoho
+
+their
+
+Page 10
+
+Example sentences using possessive pronouns:
+
+Naho nane
+
+dzoo nome eetorai
+
+my elder.brother garden his.own making
+
+'‎ My elder brother is making his garden.'
+
+Note that dzoo nome means 'his own' garden. If it said dzoo noho it would mean he is making someone else's garden.
+
+Naho nane
+
+dzoo noho
+
+eetorai
+
+.
+
+my
+
+elder.brother garden his
+
+doing
+
+'M‎ y brother is making his (someone else's) garden.'
+
+Usually the possessive pronoun comes before the noun itself, but it can also come afterwards.
+
+noho dzoo
+
+/ dzoo noho
+
+he.of garden
+
+/ garden he.of
+
+'His garden'
+
+Some languages have different pronouns for the subject and object of the sentence. In English, I is used for the first person singular subject pronoun, and me is the first person singular object pronoun.
+Our language does not have different pronouns for subjects and objects.
+3.1.3 Possessive Suffixes A possessive suffix is a part at the end of a word showing whose it is. These are often used with words for family relationships or body parts (such as ear, eye, brother or father), rather than using a separate word.
+There are no examples of words with possessive suffixes in our language.
+3.1.4 Reflexive Pronouns Reflexive pronouns are words like myself and himself. They are used when the actor and patient refer to the same person.
+Reflexive pronouns are made by adding the suffix -mae to the normal pronouns, as shown in the table below.
+Page 11
+
+singula 1st person r
+2nd person 3rd person dual 1st person
+
+2nd person
+
+3rd person
+
+plural
+
+1st person incusive
+1st person exclusive
+2nd person
+
+3rd person
+
+Reflexive pronoun namae
+nimae nomae nakamae
+nipemae
+nopomae
+napamae
+nanamae
+nikemae
+nokomae
+
+English / Tok Pisin equivalent myself
+yourself himself, herself ,itself ourselves/ yumitupela yet yourselves / yutupela yet themselves / tupela yet ourselves / yumi yet
+Ourselves / mipela yet
+yourselves / yupela yet themselves / ol yet
+
+We can use reflexive pronouns, which add mae to the normal pronouns, when someone does something to themselves (for example, namae). However, we can also use the possessive pronoun with the -me suffix in the same situation. We can even use both the reflexive and the possessive pronoun. For example:
+
+ana namae sama
+
+teete
+
+I/me myself body
+
+hit
+
+'‎ I hit myself on the body'
+
+ana sama name
+
+teete
+
+I/me body my.own hit
+
+'I‎ hit my own body'
+
+Page 12
+
+ana namae sama
+
+name teete
+
+I/me myself body
+
+my.own hit
+
+'I myself hit my own body'
+
+3.1.5 Translation Issues for Pronouns We use pronouns more often than proper nouns in our normal stories. So sometimes when the English Bible uses somebody's name in every verse, we need to change several of them to pronouns. For example, in Genesis 1, it refers to God by name many times, but we need to use the pronoun sometimes.
+Guhu Samane has dual pronouns, but English does not, so if the Bible says 'they' or 'we', we need to decide if it is talking about two people or more than two people. For example, in Luke 24.13-35, every reference to the two people walking on the Road to Emmaus needs to use dual pronouns.
+Guhu Samane also has first person plural inclusive and exclusive forms (napa and nana), but English just has the word 'we'. So when we are translating the word 'we' we need to decide whether the speaker is including those he is speaking to or not. For example, in 2 Corinthians 1.3 when it refers to 'our' Lord, we need to use napa, because God is Lord of Paul and the Corinthians. But, when Paul talks about things that just happened to him and not the Corinthians in the following verses (such as 2 Cor. 1.8 'we were under great pressure') then we need to use the word nana. We can use the Tok Pisin Buk Baibel as a guide, by looking at whether they use mipela or yumi.
+
+3.2 Nouns Nouns are words that refer to people, places, objects, or more abstract things.
+We can test whether something is a noun in Guhu Samane by seeing if it meets the following criteria:
+1. nouns can usually be possessed by someone. So, if you think a word might be a noun, see if you can put noho 'his' before the word. If this sounds good as part of a sentence, it is probably a noun.
+2. nouns can usually have adjectives following them. So, if you think a word might be a noun, see if you can put words like qidza, 'good' or mina, 'big' after the word. If this sounds good as part of a sentence, it is probably a noun.
+3. nouns can usually have demonstratives after them. So, if you think a word might be a noun, see if you can put words like era after the word. If this sounds good as part of a sentence, the word is probably a noun.
+
+Page 13
+
+4. nouns cannot have tense suffixes. So, if you think a word might be a noun, but you can add the suffix -orai to mean something happened now or -ta to mean something that happened in the past, the word is probably not a noun.
+Consider three examples dzobi 'hunt', pesu 'underneath' and iiha.
+dzobi We can say noho dzobi qidza bagenoma 'his hunting was good', so dzobi passes the first two tests. We can also say dzobi era qidza 'this hunt was good', so it passes test three. We cannot say *dzobiorai or dzobita to mean 'hunted / hunting'. So, dzobi is a noun.
+pesu We can say noho pesu for someone who is underneath someone else. We can say pesu qidza, pesu mina, and pesu era. We cannot say *pesuorai for something happening now. Although we can say pesuta, this means 'at the underneath', it does not mean something happening in the past. So, pesu is a noun.
+iiha We cannot say *noho iiha, iiha qidza or iiha era. We can say iihata 'he chased' and iihorai 'is chasing'. So, iiha is not a noun, it is a verb.
+
+3.2.1 Singular and Plural Nouns In Guhu Samane there are no markers for singular and plural nouns. Most words are the same for singular and plural, for example: haa 'dog/dogs'; hoo 'pig/pigs', eebeke 'leaf / leaves'.
+
+However, some words for people do have different words for singular and plural. For example:
+
+khata 'son'
+
+khameto 'childen'
+
+abi 'man'
+
+maimane 'men'
+
+atapa 'woman'
+
+paimane 'women'
+
+Two of these words end with the suffix -mane which is also part of the word samane 'many'.
+
+Sometimes you can tell that a noun phrase is plural by repeating the adjective. For example:
+
+hoo mina 'a big pig'
+
+hoo mimi 'several big pigs'
+
+hoo mimi ma mami 'several really big pigs'
+
+hoo gasiqa 'a small pig'
+
+hoo gamisi 'several small pigs'
+
+hoo gamisimisi 'several very small pigs'
+
+hoo tasu 'an old pig'
+
+hoo tasutasu 'several old pigs'
+
+Sometimes there is a word n the noun phrase that shows whether the noun refers to one, a few or many things. For example:
+Page 14
+
+haa tena 'one dog'
+haa qesa 'some dogs' (less than 5) ee hoho 'a few trees' (less than 5. Hoho can only be used for trees, stones, people, and other things that naturally go in groups) haa samane 'many dogs' (more than 5)
+
+3.2.3 Translation Issues for Singular and Plural Nouns Since we do not have a difference between singular and plural nouns in Guhu Samane, we need to be careful when we translate plural nouns in English. Normally we can use a numeral or quantifier to show that something is plural.
+
+3.3 Adjectives
+
+3.3.1 Normal Adjectives Adjectives are words which describe a noun. Adjectives might describe the size, shape and colour of something, the age or feelings of a person, or the appearance of a place.
+
+Some English Adjectives are: big, small, round, square, triangular, red, blue, green, tall, short, young, old, happy, sad, stressed, relaxed, rocky, wet, dry, hot and cold. There are many more!
+
+These examples of adjectives in our language have different forms if they are describing singular or plural nouns:
+
+For singular nouns:
+
+For plural nouns:
+
+mina 'big'
+
+mimi 'big'
+
+hote 'short'
+
+homete 'short'
+
+khara 'long'
+
+kharamane 'long'
+
+gasiqa 'small'
+
+gamisi 'small'
+
+tasu 'old'
+
+tasutasu 'old'
+
+keba 'cold'
+
+kebakeba 'cold'1
+
+These words describe nouns but do not change when they are describing singular and plural nouns:
+eebekehaha 'green' (lit. leaf-fresh) dzunoma 'red' (lit. blood.has)
+1 This is also sometimes used for singular nouns.
+Page 15
+
+mutu 'hot' / mutunoma qupi 'black' / qupinoma 'black (person)' khabanoma 'white' mekenoma 'delicious (includes the taste of sugar and salt)'
+
+All the adjectives come after the noun they describe.
+
+Here are some example sentences:
+
+Eebeke
+
+mina
+
+dzunoma assi pesuta
+
+oorai
+
+.
+
+leaf
+
+big
+
+red
+
+bilum underneath.at stay
+
+'a‎ big red leaf is under the bilum.'
+
+Eebeke ebekeehaha kharamane eseri
+
+leaf
+
+green
+
+long.plural two
+
+'two long green leaves are on top of the bilum.'
+
+assi heta
+
+oorai
+
+bilum on.top.at stay
+
+Eebeke ebekeehaha gasiqa tei assiho saamata oorai
+
+.
+
+leaf
+
+green
+
+small one bilum.of near stay
+
+'‎ a small green leaf is near the bilum.'
+
+Ana
+
+oba
+
+mutu
+
+taatako .
+
+I
+
+water hot
+
+bathe.will
+
+'I‎ will bathe in hot water.'
+
+Sometimes the suffix -noma is used with an adjective that doesn't normally have it, when it is used as the main part of the sentence (that is, it is the predicate of the sentence). For example:
+
+Oba
+
+erai mutunoma
+
+water
+
+this hot
+
+T‎ his water is hot.
+
+Page 16
+
+Several adjectives can be used together, as a noun phrase:
+
+Abi
+
+tasu mina quranoma
+
+man
+
+old big fat
+
+‎A big old fat man
+
+In English, words like very and a bit can be used to describe the strength of an adjective. For example a book may be very interesting or a child may be a bit small.
+In Guhu Samane we use the suffixes -nipamu / -qipamu / -qapamu to make an adjective stronger, and the suffix -bariqa to make an adjective less strong:
+These are some examples:
+Tete erai kharanipamu
+Road this long.very
+'This road is very long'
+
+Noi abi minaqipamu He man big.very 'He is a very big (fat) man'
+
+Gura qerai mimiqapamu Yam that big.very 'That yam is very big'
+
+Haa erai qupibariqa dog this black.a.bit 'This dog is almost black'
+
+Page 17
+
+3.3.2 Comparatives In English, the size, shape or quality of things can be compared by using the marker –er on adjectives, or by using the word more with other adjectives. For example, Your dog is bigger than mine, he is more careful than I am.
+
+Below are some examples of how we compare things in our language. We add the suffix -ni onto the adjective, and have to explicitly compare the qualities of the two things. For example, to say 'I am long and he is short'.
+
+Anai kharani
+
+nii hote .
+
+I.am long/tall.than you short
+
+'I am taller and you are short.'
+
+Naho haai minani nihoi gasiqa .
+my dog big.than yours small
+'‎ My dog is bigger and your's is small'
+In English we can say that something is better than all other examples by using the marker – est at the end of an adjective, or by using the word most. These are called superlatives. For example, she is the most beautiful woman, Everest is the tallest mountain.
+In Guhu Samane we can say this by saying that someone is 'very tall' or 'very big'. For example:
+Anai abi khara qanga .
+I.am man long bad
+'‎ I am a very tall person'
+
+Anai abi kharakhara . I.am man longest '‎ I am the tallest person.'
+
+Naho hooi minaqipamu khata . my pig.is big.very son '‎ My pig is very very big'.
+Page 18
+
+Or, we can say that the quality of something is more than the quality for everything else. That is, something may be 'taller than everything else', or 'smaller than everything else'.
+
+naho kharai minarake
+
+riite
+
+oorai .
+
+my tallness big.than.all.that goes.beyond stay
+
+‎'I am taller than everybody.'
+
+Gotaraerai gotara minarahota gasiqanipamu . seed this seed out.of.all small.very ‎'This seed is smaller than all seeds.'
+
+3.3.3 Translation Issues for Adjectives When we find something in the Bible that says tallest, or biggest, or smallest,or highest we can say taller or smaller or bigger or higher than everything else: For example: Mat: 22:36 in English talks about the 'greatest commandment', so we can say:
+
+Banaita name, sinabidza minarahota ikai qesake riite
+
+oorai?
+
+Teacher my Law
+
+all.out.of which others beyond stay
+
+'Teacher, which law is greater than all the others?'
+
+3.4 Numerals and Number-Marking
+3.4.1 Traditional Counting System This is our traditional counting system:
+
+Number
+1 2 3 4 5 6
+Page 19
+
+Tok Ples
+tena eseri tapari Eserisa eseri Boto tena Boto tena ma sika
+
+English meaning (if there is one)
+Two and two One hand One hand and a small
+
+one
+
+7
+
+Boto tena ma sika One hand and two small
+
+eseri
+
+ones
+
+8
+
+Boto tena ma sika One hand and three small
+
+tapari
+
+ones
+
+9
+
+Boto tena ma sika One hand and two and
+
+eserisa eseri
+
+two small ones
+
+10
+
+Boto eseri
+
+Two hands
+
+20
+
+Abi tena
+
+One man
+
+We usually use our traditional numbers for the following numbers: 1, 2, 3, 4, 5. For other numbers we use samane 'many' or we use Tok Pisin / English numbers.
+
+Numerals usually come after the main noun. For example:
+
+Eebeke homete
+
+eseri assi
+
+nakuta oorai .
+
+leaf
+
+short.plural two bilum inside.at stay
+
+'‎ Two short leaves are in the bilum'
+
+3.4.2 Other Quantity Words Quantifiers are words like some, many, all, or a few in English, which do not tell us a specific number, but rather a general quantity.
+These are examples of the quantifiers in our language:
+
+Quantifier
+
+Meaning
+
+Example
+
+English translation
+
+qesa
+
+some (less than 5)
+
+haa qesa
+
+'some dogs'
+
+hoho
+
+a few (less than 5, and can only be used for trees, stones, people, and other things that naturally go in groups)
+
+ee hoho
+
+'a few trees'
+
+tenatena
+
+a few (literally one.one) abi tenantena tuumako
+
+'a few men will go'
+
+samane
+
+many (more than 5) haa samane
+
+'many dogs'
+
+huba ma dzage
+
+lots and lots
+
+patta huba ma dzage 'lots and lots of food'
+
+Page 20
+
+gaira minara
+
+a very large number all
+
+ee eraho mee oi gaira
+haa minara
+
+'this tree has a large amount of fruit'
+'all the dogs'
+
+3.4.3 Ordinal Numbers Ordinal numbers are used to show the order in a group of items, like first, second, third in English. In Guhu Samane we do not have ordinal numbers. Instead, we use words like front, after the front, and last, to show the order of something.
+
+Ana
+
+bosa
+
+baabe
+
+I
+
+front/first came
+
+‎'I came first (literally, 'front')'
+
+Ana
+
+oho
+
+saama baabe .
+
+I
+
+that
+
+after came
+
+'‎ I came after (the front one)'.
+
+Ana
+
+ipita
+
+I
+
+later
+
+'I‎ came later.'
+
+baabe came
+
+Ana
+
+musaqike baabe
+
+I
+
+last
+
+came
+
+'I came last.'
+
+Page 21
+
+Ordinal numbers are difficult to translate as we do not have them in our language. We can use a phrase like 'man number 3' for 'the third man'. Here are some examples of how we could translate some ordinal numbers:
+
+Rev. 9:13 ‘The sixth angel blew his trumpet’
+
+Angero dzare sikis noi suunome
+
+huiteta
+
+Angel number six he conch.shell.his blew.PAST
+
+'Angel number six blew his trumpet'
+
+Mark 14:41 ‘He came the third time’
+Noi tuuma baaomi qupi tapari naateta.
+He go came time three made.PAST
+'He went and came three times.'
+3.4.4 Translation Issues for Numerals and Number Marking We have already explained the difficulty of translating ordinal numbers (like first, second, third) in section 3.4.3.
+We often write numerals just by writing the symbol of the number rather than spelling out the number, which people find hard to read. For example, Joshua 4 has the heading:
+Oma 12ke tupu biireta
+Stone 12.FOC pile throw.PAST
+'They piled 12 stones'
+3.5 Demonstratives and Articles In English, an indefinite article tells us that an item is one of a set of things (for example, a car). A definite article tells us that we are supposed to know which member of the set it is (the car) or that it is the only one of its kind (the sun). Many PNG languages do not have articles, but some do.
+A demonstrative (often called a “pointing” word) points you towards the place where the people or things are. They might be near the person speaking (for example this dog), or somewhere away from the person who is speaking (for example that man), or in some other direction or place.
+3.5.1 Articles The closest thing in Guhu Samane to articles are the words te and o.
+Page 22
+
+Te functions like an indefinite article, when something new is being introduced that we do not know about: Bodza teeta abi tei qoridze haa nome dzeima masu dzobi tumata .
+time one.at man a got.up dog his.own leading cuscus hunt went '‎ At a certain time, a man got up and lead his dog to go hunt cuscus.'
+
+ee teho naga tree a.of hollow 'The hollow of a tree'
+
+O functions like a definite article, being used with things we have already been introduced to. We are not sure whether it should be classified as a definite article or a demonstrative. It always occurs with a suffix, usually either -i or -ke.
+
+Tuumomi haa noho masu teke iihami ,
+
+going.while dog his cuscus a
+
+chase.and
+
+'‎ They were going and his dog chased a cuscus and'
+
+masu oi atti tuuma ee teho nagake dzubami
+
+cuscus the flee go tree one.of hollow.in go.and
+
+'the cuscus fled into the hollow of a tree'
+
+no ee oke peite eenagata
+
+bariba
+
+moohimi
+
+he tree the climb tree.hollow.at peep.inside look.and
+
+'he (the man) climbed the tree and peeped inside'
+
+3.5.2 Demonstratives These are the demonstratives in the Guhu Samane language
+eraqara 'this (very close), era, 'this', qeqara 'that (very close)', qera 'that (near)', qemo, 'that (far)' peimo, 'that (high)' qomo, 'that (low)', apamo 'that (to the North)', atomo 'that (to the South)'
+Examples of demonstratives in sentences:
+
+Page 23
+
+Peni erai qupi. Pen this black 'This pen is black.'
+
+Eraqarata baabo this(close).at come.POLITE.COMMAND 'come closer'
+
+Abi qerai
+
+oosusu noma.
+
+Man that(near) beard has
+
+'That man has a beard.'
+
+Kharuba qemoi bagenoma. Banana that(far) good 'That(far) banana is good.'
+
+Abi atomoi
+
+abi qidza
+
+Man that (to the south) man good
+
+'That man to the south is a good man.'
+
+3.5.3 Translation Issues for Articles and Demonstratives Sometimes we could use different demonstratives in Guhu Samane, if we can find the positions on a map. Sometimes we don't know whether something is near, far, south or north and then we can use qemo, but other times we could try to find out and use other demonstratives like apamo and atomo.
+The other words we could use for compass directions are manoqomo 'East', manapamo 'West', manepeimo 'North', and maneqemo 'South'.
+
+Page 24
+
+3.6 Basic Noun Phrase Structure A noun phrase is a group of words that together describe a particular object, such as ‘those two big noisy dogs’ in English. Usually there is a common order for the different parts of speech in a noun phrase.
+3.6.1 Noun Phrase Examples Here are some examples of noun phrases in the usual order in our language:
+Haa mimi eseri qemo
+dog big(pl) two those
+'Those two big dogs.'
+
+Eebeke eebekeehaha kharamane eseri era
+
+Leaf green
+
+long(pl) two these
+
+'These two long green leaves.'
+
+The usual order of words in a noun phrase is:
+NOUN (colour adjective) (other adjective) (numeral / quantifier) (demonstrative)
+3.6.2 Translation Issues for Noun Phrases The order in Guhu Samane noun phrases is opposite to the order in English, so we need to remember to change the order around when we translate.
+3.7 Possession
+3.7.1 Direct (Inalienable) Direct possession is when a possessed noun has part of the word itself telling you who it belongs to, usually as a possessive suffix. For example, tew ‘my little brother’ in Awad Bing has the possessed noun te with a first person singular possessive suffix –w. Direct possession is usually used for nouns which have to belong to someone, such as body parts and family members. These kind of nouns are said to be inalienable. We did not find any examples of direct possession in Guhu Samane.
+
+3.7.2 Indirect (Alienable) Indirect possession is when you have one or more words that go with a possessed noun to show you who it belongs to, as in nanew aab ‘my house’ in Awad Bing. Often indirect
+Page 25
+
+possession is used for alienable nouns, which do not have to belong to someone (like house or car).
+In Guhu Samane all possession is indirect. Possession is shown by a -ho suffix attached to the possessor noun phrase. For example:
+
+POSSESSOR
+
+POSSESSED NOUN
+
+abiho
+
+dzoo
+
+man.of
+
+garden
+
+'Someone's garden'
+
+abi oho
+
+dzoo
+
+man that.of
+
+garden
+
+'That man's garden'
+
+ee teho
+
+naga
+
+tree one.of
+
+house
+
+'Hollow (lit. house) of a tree'
+
+In these cases the possessor should always come before the possessed noun.
+
+When -ho is used with a pronoun, sometimes it is acceptable to have the possessed noun before the possessor, for example:
+
+noho dzoo
+
+/ dzoo noho
+
+he.of garden
+
+/ garden he.of
+
+'His garden'
+
+Sometimes, the possessor suffix -me is used with pronouns to give a meaning like 'his own' or 'my own'. For example: Ana dzoo name tuumako I garden my.own go.will 'I will go to my (own) garden'
+Page 26
+
+No dzoo naho tuumako He garden my go.will 'He will go to my garden'
+No dzoo nome tuumako He garden his.own go.will 'He will go to his (own) garden'
+No dzoo noho tuumako He garden his go.will 'He will go to his (someone else's) garden'
+4 POSTPOSITIONS 4.1 Locative postpositions
+The postposition -ta attaches to nouns or noun phrases to show the location of something, or the time when something happened. For example: nesapota plane.field.at 'at the airstrip'
+bodza teeta time one.at 'at a certain time'
+The postposition -ta can also attach to certain locative nouns to show the position of something in relation to another object. These are shown in the table below:
+Page 27
+
+Locative noun
+
+Gloss
+
+Bisaqaputa / bisata middle.at
+
+nakuta
+
+inside.at
+
+heeta
+
+top.at
+
+dzagata saamata pesuta suheta qusuta sasata
+
+near.at beside.at under.at edge.at up on top.at outside.at
+
+Example
+
+Koo ee bisaqaputa oorai
+
+The spear is in the middle of a tree
+
+masu ee naga nakuta The cuscus is in the
+
+oorai
+
+hollow of the tree
+
+Koo ee heeta oorai
+
+The spear is on top of a tree (which is lying down)
+
+Koo ee dzagata oorai The spear is near the tree
+
+Koo ee saamata oo- The spear is beside a
+
+rai
+
+tree
+
+Koo ee pesuta oorai The spear is under a tree
+
+Koo ee suheta oorai The spear is at the end /edge of a tree
+
+Koo ee qusuta oorai The spear is up on top of an (upright) tree
+
+Koo naga sasata oo- The spear is outside
+
+rai
+
+the house
+
+However, sometimes the suffix -na is used instead with these locative nouns. In the first two examples below, the suffix -ta is used. The following two examples are similar, but require the suffix -na. We are not able to completely describe the difference between -ta and -na. It seems like when -na is used the sentence is not complete, whereas -ta can be used when the sentence is complete.
+
+Eebeke
+
+assi
+
+nakuta orai .
+
+leaf
+
+bilum inside.at stay
+
+‎'The leaf is inside the bilum.'
+
+Page 28
+
+Ana
+
+eebeke assi
+
+I/me
+
+leaf
+
+bilum
+
+'‎ I got the leaf inside the bilum.'
+
+nakuta aime . inside.at get
+
+Eebeke
+
+assi
+
+nakuna oke
+
+leaf
+
+bilum inside.at that
+
+'Give me the leaf inside the bilum.'
+
+ana moita . I/me give
+
+Ana
+
+eebeke assi
+
+nakuna oke aime .
+
+I/me
+
+leaf
+
+bilum inside.at that get
+
+‎'I got the leaf that was inside the bilum.'
+
+4.2 Benefactive Postposition The word quba occurs after a noun to show that it is a beneficiary, the person who something is done for:
+
+Nopo
+
+Baridzaho quba husi khautota.
+
+they. two Baridza.of for food cooked
+
+‎'They both cooked food for Baridza.'
+
+4.3 Instrumental Postposition The word ma is used after a noun to show it is an instrument, used to do something:
+
+Noi habeseqi dzuube ma sagi khata
+
+qabitorai .
+
+he sit.and
+
+knife with arrow(lit.bow.son) sharpening
+
+‎He is sitting and sharpening an arrow with a knife.
+
+4.2 Translation Issues for Postpositions In English, beneficiaries and instruments are shown by prepositions that come before the main noun ('for the man', 'with a knife'), but in Guhu Samane these words come after the noun as postpositions. We need to remember to put words like ma and quba in the correct place when we translate.
+
+Page 29
+
+5 VERBS
+5.1 Person and Number Marking
+5.1.1 Subject Marking Many languages have markers on the verb to show who or what the subject is.
+Guhu Samane does not have any subject markers on the verb.
+The subject must be a separate noun or noun phrase or pronoun unless it is clear from the context.
+For example, Ryan is mentioned as a noun in the first clause below, then 'his anger' noho dzauba is the subject as a noun phrase, then Ryan is the subject again as a pronoun, no, and then the subject is not mentioned at all for the last three verbs (iiha, tumaqi, teete), although Ryan is the subject of all of them. The subjects are shown in bold.
+
+SUBJ as NOUN
+
+Raieni
+
+roqobetemi
+
+Ryan
+
+surprise.and
+
+SUBJ as NOUN PHRASE
+
+noho dzauba
+
+peitemi
+
+his anger
+
+go.up
+
+SUBJ as PRONOUN
+
+no tanga aima Ben iiha tumaqi tanga .
+
+ma Beni buribaroke teete
+
+he stick took Ben chase went.and stick with Ben repeatedly hit
+
+‎Ryan got surprised and became angry he picked up a stick and went chasing Ben and hit him repeatedly.
+
+5.1.2 Object Marking Many languages also have markers on the verb to show who or what the object is.
+Guhu Samane does not have any object markers on the verb. The object always has to occur as a noun, or a noun phrase, or a pronoun.
+
+5.1.3 Recipient Marking Some languages have markers on the verb to show who or what the recipient is, for verbs where something is given to someone.
+Guhu Samane does not have recipient markers on the verb.
+
+Page 30
+
+5.1.4 Benefactive Marking Some languages have markers on the verb to show who or what the beneficiary is, when somebody does something for someone else. These are called benefactive markers.
+Guhu Samane does not have any benefactive markers on the verb.
+
+5.2 Tense
+5.2.1 Examples This table shows some of the suffixes in Guhu Samane which are attached to verbs at the end of sentences, and show when something happened, or will happen.
+There are four main tenses in Guhu Samane:
+• Regular past tense: something that happened before the last midnight (that is, yesterday or earlier).
+• Today's past tense (or recent past, or current tense): something that happened between last midnight and now.
+• Present tense: something happening now, or about to happen right now.
+• Future tense: something that has not happened yet.
+
+Suffix
+
+Meaning
+
+Examples
+
+-ta / -ata
+
+Regular past tense suffix, used for events that happened any time yesterday or before that.
+
+tuumata 'went' teeteta 'hit' hiireta 'said'
+
+moota 'saw'
+
+moiteta 'gave'
+
+eeteta 'made'
+
+No suffix / -ri
+
+Today's past tense2 (used tuume 'went (today)'
+
+for something that happened today) is shown teete 'hit (today)'
+
+by the suffix -ri (as in
+
+hiire 'said (today)'
+
+moori) or by the absence of
+
+another tense suffix (as in moori 'saw (today)'
+
+tuume or teete).
+
+2 The technical name for this is hodiernal tense. The regular past tense would then be called a non-hodiernal tense.
+
+Page 31
+
+-orai -bi
+-ko / -ako -aridzo Page 32
+
+moite 'gave (today)' eete 'made (today)'
+
+Present tense suffix, for something happening right now, and continuing.
+
+tuumorai 'going (now)' teetorai 'hitting (now)' hiirorai 'saying (now)'
+
+moorai / moqorai 'seeing (now)'
+
+moitorai 'giving (now)'
+
+eetorai 'making (now)'
+
+Present tense suffix used when an action is about to happen, or when it is viewed as a whole.
+
+tuusubi 'going / about to go' teesubi 'about to hit' hiibi 'about to speak'
+
+moohibi 'about to see'
+
+moisubi 'about to give'
+
+eesubi 'about to make'
+
+baasubi 'about to die'
+
+Most common future tense tuumako 'will go' suffix, used for something that someone intends to do. teetako 'will hit'
+hiibako 'will say' ***
+moorako 'will see'
+moitako 'will give'
+eetako 'will make'
+Future tense for something tuumaridzo 'will definitely go' someone will certainly do.
+teetaridzo 'will definitely hit'
+hiibaridzo 'will definitely say'
+
+mooraridzo 'will definitely see' moitaridzo 'will definitely give' eetaridzo 'will definitely make'
+5.2.2 Translation Issues Related to Tense In English, there is only one time for past tense, whereas Guhu Samane makes a difference between today's past tense, and past tense for yesterday and before that. So, when we are translating, we need to decide whether something happened just recently (and we should use today's past tense) or if it happened longer ago (and we should use the regular past tense). We also need to decide whether to use -orai or -bi for something happening in the present. For example, in John 14.2, 'I am going to prepare a place for you', it sounds best when we use tuusubi.
+5.3 Aspect Aspect has to do with the timing of an action or event itself, for example if it is continuing, completed, repeated, and so on.
+5.3.1 Continuous Continuous aspect describes an action or event that is viewed as carrying on at some point in time. For example, in Tok Pisin, mi ritim buk i stap or mi wok long ritim buk. In Guhu Samane, the suffix -ra before the tense suffix shows that something is continuous. For example, the suffix -orai shows that an action has continuous aspect as well as present tense: ana buku isaitorai I book am.reading 'I am reading a book' The suffix -orakoi shows that an action has continuous aspect as well as future tense: ana buku isaitorakoi I book will.be.reading 'I will be reading a book' We have not found a way of showing continuous aspect in the past tense with verbs at the end of sentences (final verbs).
+Page 33
+
+5.3.2 Habitual Habitual aspect describes an action or event that happens several times, whether in the past or the present. For example, in Tok Pisin, em i save ritim buk, or in English ‘he used to read books’ or ‘he often reads books’.
+
+There are at least two ways to show habitual aspect in Guhu Samane.
+
+1. We can use the word sani or saninoke to show that something happens habitually (regularly or over and over again).
+
+When sani is used, we also use the word keke 'always' as in this example:
+
+noi sani
+
+kopike
+
+keke
+
+muunorai
+
+he HABITUAL coffee.FOCUS always drinking
+
+He is always drinking coffee
+
+When we use saninoke, we do not need to use the word keke:
+
+noi saninoke patta muunorai he HABITUAL food eating ‎He is always eating food
+
+2. We can repeat the verb and use the final verb eete, to show something that happens habitually, as in these examples:
+
+noi kopike
+
+muune muuneke
+
+eetorai
+
+he
+
+coffee.FOCUS drink
+
+drink.FOCUS doing
+
+He always drinks coffee.
+
+noi ata
+
+teete
+
+teeteke
+
+eetorai
+
+he
+
+wife
+
+hit
+
+hit.FOCUS doing
+
+He is always hitting his wife.
+
+To show habitual actions in the past, we can use the word qaata 'stayed' after the verb.
+
+noi
+
+ago kopike
+
+keke muuna qaata
+
+he
+
+long.ago coffee.FOCUS always eat
+
+stayed
+
+H‎ e used to always drink coffee.
+
+Page 34
+
+5.3.3 Completed Completed aspect describes an action or event that is viewed as having finished. For example, in Tok Pisin, em i ritim buk pinis, or in English ‘he read a book’.
+We use the word ao to show completed aspect.
+Noi ao hoo toore
+he CMP pig shot.TODAY.PAST
+‎'He has (just) shot the pig.'
+
+Noi ao hoo toorota he CMP pig shot.PAST 'He had already shot the pig.'
+
+Noi ao hoo tobaridzo he CMP pig shoot.CERTAIN 'He can surely shoot a pig quickly'
+
+5.3.4 Beginning Beginning aspect describes an action or event that is viewed as starting. For example, in Tok Pisin, em i stat long ritim buk.
+
+We use the word sohoro to show something is starting.
+
+Noi naa sohoro hiire
+
+he song start
+
+said.TODAY.PAST
+
+'he started singing (today)'
+
+Noi naa sohoro hiireta
+
+he song start
+
+said.PAST
+
+'he started singing (yesterday or before)'
+
+Page 35
+
+Noi naa sohoro he song start 'he will start singing'
+
+hiibako say.FUTURE
+
+5.3.5 Summary of Aspect The table below shows examples of the different kinds of aspect in Guhu Samane:
+
+Aspect
+
+Example
+
+English translation
+
+Continuous
+
+Ana buku isaitorai 'I am reading a book'
+
+Habitual
+
+Ana saninoke buku 'I always read books' isaitorai
+
+Ana buku isaite isaiteke eetorai
+
+'I keep reading books'
+
+Completed
+
+Ana ao buku isaiteta 'I finished reading a book'
+
+Starting
+
+Ana buku sohoro isaite
+
+'I'm about to start reading a book'
+
+5.3.6 Translation Issues Related to Aspect English does not show aspect very clearly, so we need to find out which aspect to use from the context when we are translating, and make sure we use the correct aspect in each situation.
+
+5.4 Realis and Irrealis PNG languages often have a difference between realis and irrealis mode. Realis refers to the more real and certain events, while irrealis refers to possible or doubtful events.
+5.4.1 Examples Realis; The past tense suffixes -ta and -ri are used for events in the past that are real, for events that have actually happened.
+Irrealis: there are many suffixes that are used for irrealis events – things that might have happened, or did not happen, or could still happen. These suffixes are shown below:
+
+Page 36
+
+Suffix
+
+Meaning
+
+Examples
+
+NEGATIVES
+
+-ama
+
+Most general suffix for tuumaama something that did not happen. Can be used for habitual situations.
+
+-ara -idzara
+
+Something that did not tuumaara happen on one occasion, although it usually does.
+Something that is not tuumoraidzara happening
+
+CONDITIONALS
+
+-puko
+
+Something that might tuumapuko have happened, but did not happen.
+
+-quko
+
+Something that might happen, if someone does something.
+
+tuumaquko
+
+-qako IRREALIS -qu
+-rotahe
+
+?
+
+Something that might happen in the future (this is the most general irrealis suffix)
+
+tuumaqu
+
+Something someone wanted to do but was unable to (past tense,
+
+tuumarotahe
+
+Page 37
+
+Example sentences
+No nagapa tuumaama 'He did not go to the village' No hoo muunaama 'He does not eat pig' No nagapa tuumaara 'He did not go to the village (although he usually does)' No nagapa tuumoraidzara 'He is not going to the village'
+No nagapa tuumapuko 'If he had gone to the village (he would have)...' No nagapa tuumaquko 'If he goes to the village (he could)...'
+No nagapa tuumaqu 'He will/might go home'
+No nagapa tuumarotahe 'He wanted to go to the vil-
+
+-rorihe
+-qunihe OTHERS -aridzo
+
+includes the suffix -ta).
+
+Something someone wanted to do (today) but was unable to (today's past tense, includes the suffix -ri).
+
+tuumarorihe
+
+Something someone tuumaqunihe wants to do right now, but is unable to.
+
+Something someone tuumaridzo will certainly do.
+
+-puta
+[this is not really irrealis]
+
+Something that happened for a short amount of time
+
+tuumaputa
+
+lage, but...' No nagapa tuumarorihe 'He wanted to go the village (this morning), but...'
+No nagapa tuumaqunihe 'He wants to go to the village, but...'
+No nagapa tuumaridzo 'He will definitely go to the village' No dzoo tuumaputa... 'He went to the garden (and shortly afterwards left again)'
+
+5.4.2 Translation Issues for Realis and Irrealis We could use the suffix -ridzo at times when the English says something will 'surely' happen (when the Hebrew uses an infinitive absolute). Example-
+
+nii ee mee oke
+
+muunaquko, nii bodza oqata bataridzo.
+
+You tree fruit that
+
+eat.if
+
+you time that.on die.surely.will
+
+'If you eat the fruit of that tree you will surely die'
+
+We can use the suffix -puko when talking about something that could have happened but did not:
+
+Qoberoba name nii erata oorapuko noma naho baamu baatarori ( John 11: 21b)
+
+Lord
+
+my.own you here stay.if brother my not died.would
+
+'My Lord if you had been here my brother would not died'
+
+Page 38
+
+5.5 Serial Verbs Serial verbs mean two or more verbs that go together and that show closely related actions. Often both (or all) the verbs keep at least some of their basic meaning. The whole group of verbs acts as one unit and often the verbs in the group all have the same subject (and object). For example, the meaning of the English verb bring is expressed in many PNG languages with a serial verb meaning ‘(go) get come’.
+
+5.5.1 Examples In Guhu Samane, we have many serial verbs.
+
+In serial verb constructions, several verb roots can occur one after each other, and only the last verb has either a medial verb suffix or tense / aspect suffixes. The serial verb constructions are underlined in the examples.
+
+Here are some examples:
+
+Ana eegota aima tuumata
+
+I/me car took went.PAST
+
+‎I drove (took went) a car (only the final verb has regular past tense suffix)
+
+Koo biire baabo
+
+spear throw come.COMMAND
+
+‎Throw the spear! (only the final verb has the command suffix)
+
+no torouma
+
+tuumorai
+
+he run
+
+going.CTS
+
+He is running (only the last verb has the continuous aspect suffix)
+
+haa tate
+
+meeraridzo
+
+dog fall.down lie.will.CERTAIN
+
+T‎ he dog will certainly fall down and lie. (only the last verb has the 'definite' suffix)
+
+no tukuba qoridze
+
+he jump
+
+got.up
+
+I‎ jumped up and saw.
+
+moota saw.PAST
+
+Page 39
+
+In negative sentences, the negative particle comes before all the serial verbs. no te koo aima baabara he NEG spear took come.not H‎ e did not bring the spear.
+
+haa te
+
+tate
+
+meraara
+
+dog NEG fall.down lie.not
+
+‎The dog did not fall down and lie.
+
+These examples only show two or three verbs in a series. But we can have at least five or six serial verbs in a row together, as shown below. The object masu occurs before the first transitive serial verb.
+
+no tukuba qoridze masu moo aima muunata
+
+he jump got.up cuscus saw took ate.PAST
+
+H‎ e jumped up and saw a cuscus, took it and ate it.
+
+no masu moo tukuba qoridze aima dzoro muunata
+
+he cuscus saw jump got.up took cook ate.PAST
+
+'H‎ e saw a cuscus, jumped up, took it, cooked it and ate it.'
+
+In both of these examples, the separate actions shown by the serial verbs are considered part of one event.
+
+If we used medial verbs instead for some of the actions, it would suggest separate actions. Compare the following two examples:
+
+no tukuba qoridze masu moo aima muunata
+
+he jump got.up cuscus saw took ate.PAST
+
+'‎ He jumped up and saw a cuscus, took it and ate it.' (Using serial verbs, it is all one event)
+
+no tukuba qoridzeqi
+
+masu moo aima muunata
+
+he jump got.up.SAME.SUB.SIM cuscus saw took ate.PAST
+
+'‎ He jumped up, and (then) saw a cuscus, took it and ate it.' (With a medial verb, the jumping up is separated from seeing the cuscus).
+
+Page 40
+
+In longer sentences in natural text serial verbs and medial verbs both occur before the final verb. In the following example, serial verbs are underlined, medial verbs are double underlined, and the final verb is in bold.
+
+Abinaga eseri eegota aima tete iiha tuumomi
+
+people two car
+
+took road chase going.while.DIFF.SUB.SIM
+
+‎Two people were driving along the road in a car.
+
+nopoho nese hittemi
+
+nopo eegota aima tete sigi temu ma temuke
+
+they.2.of eye close.and.DIFF.SUB they.2 car took road side other with other
+
+‎and their eyes closed, and they made the car go from side to side on the road,
+
+biire tuumoqi
+
+perebata .
+
+throw going.while.SAME SUB.CTS turn.over.PAST
+
+‎and then while going they turned over.
+
+5.5.2 Translation Issues for Serial Verbs English does not have many serial verbs, and usually has quite short sentences without many verbs in them. In Guhu Samane we can have much longer sentences using many serial verbs, so we need to make sure we read a whole paragraph and translate it, rather than just translating one sentence at a time.
+
+5.6 Medial Verbs (Verbs that Come in the Middle of a Sentence) Many PNG languages with Actor, Patient, Verb (APV) (also known as subject, object, verb (SOV)) word order have two kinds of verbs. Final verbs almost always come at the end of a sentence and have their own set of markers for person, tense etc. Medial verbs are used earlier in the sentence and have their own markers that do not come on the final verbs. In this section we will discuss medial verbs.
+
+5.6.1 Medial Verb Examples Guhu Samane can have many medial verbs in a sentence before the final verb. Only the final verb has a tense marker on it, like the past tense suffix -ta. Medial verbs do not have tense suffixes like -ta or -ri.
+However, medial verbs often have the suffixes -mi or -qi when the next verb happens at the same time (the events are simultaneous), or the suffixes -mo and -qo when the next verb happens after the action of the first verb has finished (the events are sequential).
+
+Page 41
+
+When a story talks about something that has not happened yet, or may not ever happen, the medial verb suffixes -ma and -qa are used instead. We can call these irrealis medial verb suffixes.
+
+Suffix
+
+Meaning
+
+-mi
+
+'and at the same time' (and the next verb has a different subject)
+
+-qi
+
+'and at the same time' (and the next verb has the same subject)
+
+-mo
+
+'and afterwards' (and the next verb has a different subject)
+
+-qo
+
+'and afterwards' (and the next verb has the same subject)
+
+-ma
+
+'and' (and the next verb has a different subject, in irrealis situations)
+
+-qa
+
+'and' (and the next verb has the same subject, in irrealis situations)
+
+Here are some examples:
+
+VERBS HAVE DIFFERENT SUBJECTS: we come / they see; AND HAPPEN AT THE SAME TIME.
+
+nana baomi
+
+noko
+
+nana
+
+moota
+
+we coming.and.DIFF.SUB.SIM they
+
+we
+
+saw.PAST
+
+‎'While we were coming, they saw us.'
+
+VERBS HAVE THE SAME SUBJECT: we come AND we see; AND HAPPEN AT THE SAME TIME
+
+nana baoqi
+
+noko
+
+moota
+
+we coming.and.SAME.SUB.SIM them
+
+saw.PAST
+
+‎'While we were coming, we saw them.'
+
+VERBS HAVE DIFFERENT SUBJECTS: we come / they see; AND HAPPEN AFTER EACH OTHER.
+
+nana baomo
+
+noko
+
+nana
+
+moota
+
+we came.and.DIFF.SUB.SEQ they
+
+we
+
+saw.PAST
+
+'‎ After we came, they saw us.'
+
+Page 42
+
+VERBS HAVE THE SAME SUBJECT: we come AND we see; AND HAPPEN AFTER EACH OTHER.
+
+nana baoqo
+
+noko
+
+moota
+
+we came.and.SAME.SUB.SEQ them
+
+saw.PAST
+
+'‎ After we came, we saw them.'
+
+VERBS HAVE DIFFERENT SUBJECTS: we come / they see; AND HAPPEN IN IRREALIS SITUATIONS.
+
+nana baoma
+
+noko
+
+nana
+
+moorako
+
+we coming.and.DIFF.SUB.IRR they
+
+we
+
+see.FUTURE
+
+‎'While we are coming, they will us.'
+
+VERBS HAVE THE SAME SUBJECT: we come AND we see; AND HAPPEN IN IRREALIS SITUATIONS.
+
+nana baoqa
+
+noko
+
+moorako
+
+we coming.and.SAME.SUB.IRR them
+
+see.FUTURE
+
+‎'While we are coming, we will see them.'
+
+Here is a longer example in a natural text talking about a real situation. All the verbs are underlined, and the medial or final verb suffixes are in bold.
+
+Abinaga eseri
+
+eegota aima tete
+
+iiha tuumomi
+
+people two
+
+car
+
+took road chase going.while.DIFF.SUB.CTS
+
+‎Two people were driving along the road in a car.
+
+nopoho nese hittemi
+
+nopo eegota aima tete sigi temu ma temuke
+
+they.2.of eye close.and.DIFF.SUB they.2 car took road side other with other
+
+a‎ nd their eyes closed, and they made the car go from side to side on the road,
+
+biire tuumoqi
+
+perebata .
+
+throw going.while.SAME SUB.CTS turn.over.PAST
+
+a‎ nd then while going they turned over
+
+Page 43
+
+The following table shows the subjects for all the verbs in this sentence, and how the -mi and -qi markers show different subjects for the next subject.
+
+Subject Abinaga eseri 'Two men' (two men)
+(two men)
+nopoho nese 'their eyes'
+nopo 'they two' (they two)
+(they two)
+
+Verb
+
+Notes
+
+aima 'took'
+
+No medial verb suffix
+
+iiha 'chase'
+
+No medial verb suffix
+
+tuumomi 'went.and.DIFF.SUB.SIM'
+
+The medial verb suffix -mi tells us that the next verb happens at the same time, and has a different subject. The subject will change from the 'two men' to 'their eyes'.
+
+hittemi 'closed.and.DIFF.SUB.SIM'
+
+The medial verb suffix -mi tells us that the next verb happens at the same time, and has a different subject. The subject will change from 'their eyes' back to the two men.
+
+aima 'took'
+
+No medial verb suffix.
+
+tuumoqi
+
+The medial verb suffix -qi tells us that the
+
+next verb happens at the same time, and 'went.and.SAME.SUB.SIM' has the same subject. The subject will still
+
+be the two men.
+
+perebata. 'turned over'
+
+The regular past tense suffix -ta shows that this is a final verb, and the end of a sentence.
+
+Here is an example in a irrealis situation, in a text talking about what would happen if my house burned down.
+
+Naho naga qaitaquko ana roqobete tukuba qoridze mooqa
+
+my house burn.if
+
+I/me suprise jump get.up see.and.SAME.SUB.IRR
+
+‎If my house burn I would see it and jump up in surprise and
+
+Page 44
+
+ata ma khameto tukuto iiha paata qurasuhima
+
+wife and children wake chase outside go.down.and.DIFF.SUB.IRR
+
+wake my wife and children and chase them to go outside and
+
+a‎ na kira ma qaru hiire
+
+I/me shout and scream say
+
+I will shout and scream
+
+abi ma khata nana hobire oba gima baa eepa hisuma
+
+people
+
+we help water fetch come fire kill.and.DIFF.SUB.IRR
+
+‎and the people will come help get some water and put out the fire and
+
+ana namae
+
+qubasamane naname topotto paata biirako
+
+I/me myself
+
+belonging
+
+our
+
+throw
+
+outside throw
+
+I will throw our things outside.
+
+Sometimes there can be more than one final verb in a sentence when two things are happening at the same time to different groups of people. In this case, the connecting suffix -ni is added after the first final verb. Notice in the example below the first part of the sentence talks about two people helping an injured man to a car, and ends in the final verb tumata which has the regular past tense marker -ta. This is followed by -ni, and then the final part of the sentence talks about the action of other people at the same time (stealing belongings) and ends in the final verb aimata, again with the regular past tense -ta suffix.
+
+Qate eegota mainai nopoho ipita abi aima baoqi
+
+eegota mooqi
+
+then car other they.2.of later man took coming.and.SS.SIM car saw.and.SS.SIM
+
+‎'The other car coming after them had some people on it, they saw the car,
+
+eegota nokome
+
+puisire
+
+taaete
+
+qurateqi,
+
+car their.own
+
+stop
+
+climb.out
+
+go.down.and.SS.SIM
+
+‎they stopped their own car and climbed out from their car,
+
+ponedza
+
+apiapi ma khatatai qurateqi
+
+abi oko geqobatake moo,
+
+steering.wheel driver with daughter go.down.and.SS.SIM man leg broke.that saw
+
+t‎ he driver and his daughter went down and saw the man with the broken leg,
+
+Page 45
+
+aima kharikhari
+
+eete
+
+eegota
+
+nopometa tumatani
+
+took between.shoulders do
+
+car
+
+their.two.at went.and
+
+they took him between their shoulders to the car and went, AND/BUT
+
+abi qesai nopoho
+
+qubasamaneke guumeke aimata.
+
+man some they.2.of belonging
+
+stole
+
+took
+
+‎some other people stole their belongings.'
+
+5.6.2 Translation Issues for Medial Verbs Many sentences in Guhu Samane are much longer than in English, and use a lot of medial verbs. So, when translating from English to Guhu Samane it is important to read a whole paragraph and translate that paragraph naturally, rather than just translating one sentence at a time. When translating the Bible we should not just translate one verse at a time, but look at the whole paragraph.
+
+6 CLAUSES
+6.1 Transitive clauses Transitive clauses include a subject, a verb and an object.
+
+6.1.1 Examples Our usual word order for a transitive clause is SOV. Often (but not always) the suffix -i is added to the subject.
+
+Here are some examples:
+
+Abi tei
+
+sagi khata
+
+qabitorai
+
+man one arrow(lit.bow.son) sharpening
+
+‎A man is sharpening an arrow.
+
+Ana oba mutu tatako .
+
+I/me water hot bathe.will
+
+I‎ will bathe in hot water.
+
+Naho nane
+
+dzoo nome eetorai .
+
+my elder.brother garden his.own making
+
+M‎ y elder brother is making his garden.
+
+Page 46
+
+When clauses are joined together, often the subject can be left out, as in this example; No tanga aima Ben iiha tumaqi tanga ma Beni buribaroke teete . He stick took Ben chase went.and stick with Ben repeatedly hit H‎ e picked up a stick and went chasing Ben and hit him repeatedly
+6.1.2 Translation Issues for Transitive Clauses The usual order in English is Subject-Verb-Object, but our usual order is Subject-ObjectVerb. We need to make sure we use the correct Guhu Samane order when we are translating, not just copying the English order.
+6.2 Intransitive clauses Intransitive clauses contain a verb that usually cannot take an object. For example, he walked, he laughed, he jumped in English.
+6.2.1 Examples Here are some examples of intransitive clauses: no habese he sit ‎'he is sitting' no baate he die 'he died'
+epa qaite fire burn 't‎ he fire is burning'
+ee peite tree climb.grow '‎ the tree is growing'
+Page 47
+
+In commands the subject of intransitive verbs can be left out, as in:
+
+tuuma
+
+go
+
+'Go!'
+
+baaba
+
+come
+
+'Come!'
+
+Here are some examples of intransitive clauses with verbs of movement:
+
+Iihaike
+
+ana Kainantu tumaqako
+
+tomorrow.at I/me Kainantu go.will
+
+'Tomorrow I will go to Kainantu.'
+
+We did not find any differences between the subject of voluntary and involuntary actions. The noun phrase is the same whether the subject wants to do the action (eg. go) or does not want to (eg. die).
+
+Process verbs such as growing or ripening usually have the suffix -te at the end.
+
+Kharuba baanate
+
+banana ripened
+
+'The bananas ripened.'
+
+ee peite
+
+tree climb.grow
+
+'‎ the tree is growing'
+
+6.2.2 Translation Issues for Intransitive Clauses We have not yet thought of any translation issues for intransitive clauses.
+
+6.3 Di-transitive clauses Clauses that have both an object and a recipient are called di-transitive. An English example is: I gave the book to him.
+
+Page 48
+
+6.3.1 Examples This is our usual order for sentences that have recipients: Subject Recipient Object Verb.
+
+Usually, the recipient comes after the actor and before the noun that is given (the theme), and is marked with the suffix -ke. See further examples in section 6.4.9.
+
+RECIPIENT THEME
+
+Tom Tituske
+
+kharuba moite .
+
+Tom Titus.focus banana give
+
+Sometimes people who have married into the language area put -ke at the end of the recipient and the object at the same time, but this sounds funny!
+
+6.3.2 Translation Issues for Di-transitive Clauses We have not yet thought of any translation issues for ditransitive clauses.
+
+6.4 Semantic roles 6.4.1 Agent An agent deliberately makes an action or event happen. Eg. ‘Cain murdered his brother’
+We have not found any special marking to show that somebody is an agent, they are just the same as other actors.
+For example:
+Kaini nane nome teetemi baate.
+Cain brother his.own hit.and died
+'Cain hit his brother and he died.'
+
+6.4.2 Force A force makes an action happen but not deliberately. E.g. ‘the wind blew down Job’s house’
+We have not found any special marking for forces that is different from other actors. For example:
+Uuta ana huite
+wind me blew
+'The wind blew me.'
+
+Page 49
+
+6.4.3 Experiencer An experiencer does not control what happens, and they are not changed by what happens. They feel what happens with their senses or emotions. E.g. ‘Samuel heard the sheep’, ‘Jonah felt angry’ Here are some examples of sentences with experiencers in Guhu Samane. In these sentences the experiencer comes first, and then a noun for the stimulus, and then the verb eete 'makes' or teete 'hits'. Dzona mera teete Jonah hunger hit 'Jonah is hungry'
+Dzona dzaube eete Jonah anger makes 'Jonah is angry'
+Dzona dzaapa teete / Dzona dzaapa eete Jonah cold hit / Dzona cold makes 'Jonah is cold'
+Dzona atti eete Jonah fear makes 'Jonah is afraid'
+Anger can also be expressed using a possessed noun: Dzonaho dzauba peite Dzona.of anger goes.up 'Jonah is getting angry'
+These are some other ways of expressing hunger:
+Page 50
+
+Dzona mera qupadzome Jonah hunger heart.feel 'Jonah feels hungry'
+
+Dzona mera quba baate Jonah hunger for die 'Jonah is dying for hunger'
+
+Sometimes the experiencer and the stimulus can switch positions: Mera Dzona teete Hunger Jonah hit 'Jonah is hungry (lit. Hunger hit Jonah)'
+
+Verbs of perception (seeing, hearing, tasting etc.) use the same patterns as active clauses:
+
+Ana noo nokata
+
+I
+
+word heard
+
+'I heard the speech'
+
+Ana ee moota I tree saw 'I saw a tree'
+
+6.4.4 Possessor A possessor is someone who has something. E.g. ‘Joseph has a coat’ Possessors in Guhu Samane have the -ho suffix: Naho haa oorai my dog stay
+Page 51
+
+'I have a dog'
+
+6.4.5 Location A location is where an action or event takes place. E.g. ‘Eli slept in his bed’, ‘She found the coin under the table’
+
+Locations are shown in Guhu Samane with the suffix -ta.
+
+Eebeke ebekeehaha assi nakuta oorai
+
+Leaf green
+
+bilim inside.at stay
+
+'The green leaf is in the bilum'
+
+Naka nesapota nee bebe eeteta We(2) airstrip.at plane wait did 'We both waited for the plane at the airstrip'
+
+Several adverbs can be used to show the place where something happens (like 'here' or 'there' in English).
+
+manatota
+
+over there (far distant, manamanatota to the South)
+
+furthest over there (far distant, to the South)
+
+manapata
+
+over there (far distant, manamanapata to the North)
+
+furthest over there (far distant, to the North)
+
+maneqeta
+
+over there (distant) manemaneqeta
+
+furthest over there (distant)
+
+manepeita
+
+up over there
+
+manemanepeita
+
+furthest up over there
+
+manoqota
+
+down over there
+
+manomanoqota
+
+furthest down over there
+
+ota
+
+there (close)
+
+erata
+
+here
+
+qerata
+
+here (a bit further
+
+Page 52
+
+away)
+
+Several of these adverbs of place are the demonstratives with the suffix -ta added.
+6.4.6 Source / destination A source is where something moves from, a destination is where something moves to. E.g. ‘Abraham travelled from Ur (source) to Haran (destination)’ Sources are also shown using the suffix -ta. On the other hand, destinations have no suffix. Ana Ukarumpata baata I Ukarumpa.at came 'I came from Ukarumpa'
+
+Ana Ukarumpa baata. I Ukarumpa came 'I came to Ukarumpa'
+
+Abarahamu Urita qoridze Harani tuumata. Abraham Ur.at got.up Haran went 'Abraham got up from Ur and went to Haran'
+6.4.7 Instrument An instrument is used by someone to make something happen. E.g. ‘Jael killed Sisera with a tent peg’ ‘Saul attacked David with a spear’ We use the word ma after a noun to show that it is an instrument.
+
+Noi habeseqi dzuube ma sagi khata
+
+qabitorai .
+
+he sit.and
+
+knife with arrow(lit.bow.son) sharpening
+
+'‎He is sitting and sharpening an arrow with a knife.'
+
+Page 53
+
+Sauro koo
+
+ma Tabitike kotorota
+
+Saul spear
+
+with David spear.shot
+
+'‎ Saul speared David with a spear.'
+
+In sentences like this, we can also just show the instrument (the spear) in the verb:
+
+Sauro Tabitike kotorota
+
+Saul David
+
+spear.shot
+
+'‎Saul shot David (with a spear).'
+
+6.4.8 Accompaniment An accompaniment is someone who does something with someone else. E.g. ‘Moses went to Pharaoh with his brother.
+We use ma after the noun to show accompaniment.
+
+Abi tei haa ma nopo masu man one dog with they. two cuscus ‎ A‎ man went hunting cuscus with his dog.
+
+dzobi tumata . hunt went
+
+6.4.9 Recipient A recipient receives something from someone else. E.g. ‘The angel gave food to Elijah’
+Usually, the recipient in a sentence comes after the actor and before the noun that is given (the theme), and is marked with the suffix -ke.
+
+RECIPIENT THEME
+
+Tom Tituske
+
+kharuba moite .
+
+Tom Titus.focus banana give
+
+'‎ Tom gave Titus a banana.'
+
+Page 54
+
+RECIPIENT THEME
+
+Anake
+
+kharuba oke moitare
+
+.
+
+me.focus banana
+
+that give
+
+'G‎ ive ME that banana.'
+
+However, sometimes if the theme is being focused on, it can come before the recipient.
+
+THEME
+
+RECIPIENT
+
+kharuba tumena oke ana
+
+moitare
+
+banana
+
+back.at that
+
+I/me
+
+give
+
+‎'Give me THE BANANA THAT IS AT THE BACK'
+
+When the actor is in focus the theme may also come before the recipient.
+
+THEME RECIPIENT
+
+Tomuio
+
+kharuba Tituske moite .
+
+Tom.focus banana Titus.focus give
+
+'‎It was Tom that gave Titus a banana'
+
+6.4.10 Beneficiary A beneficiary is someone who benefits from an action done by someone else. E.g. ‘Dorcas made clothes for the children’
+We show beneficiaries with the suffix -ho and the word quba following the beneficiary.
+
+Nopo
+
+Baridzaho quba husi khautota.
+
+they. two Baridza.of for food cooked
+
+'‎ They both cooked food for Baridza.'
+
+Page 55
+
+6.4.11 Patient A patient is someone or something an action happens to. E.g. ‘John ate a locust’ The patient usually comes after the actor, but does not have any special marking. Abi oi hoo toore. man that.it pig shot '‎That man shot the pig.'
+
+6.4.12 Translation Issues for Semantic Roles We have not yet thought of any translation issues for semantic roles.
+
+6.5 Time
+6.5.1 Words for Time Here are some different words and expressions to show when something happened. Some of these, such as poiqa and iihai are adverbs of time.
+
+Guhu Samane
+
+English meaning
+
+poiqa
+
+now (includes any time today)
+
+iihai
+
+tomorrow
+
+iihai teemu
+
+day after tomorrow (literally, 'tomorrow the.other')
+
+dzuma teemu / dzuma peimo
+
+next week (literally, 'week the.other' / 'week up there')
+
+dzasidza teemu / dzasidza peimo
+
+next month (literally, 'month the.other' / 'month up there')
+
+tii teemu / tii peimo
+
+next year (literally, 'year the.other' / 'year up there')
+
+iipita
+
+later
+
+aruku
+
+yesterday
+
+abini
+
+day before yesterday(or any time in the recent past)
+
+dzuma qomo
+
+last week (literally, 'week down there')
+
+Page 56
+
+dzasidza qomo tii qomo sani keke oke keke bodza qesa
+
+last month last year always always often sometimes (literally, 'time some')
+
+Expressions for last week / next week show a way of thinking about time (a conceptualisation of time) in which we are going upwards as time goes on. Here are some example sentences using these words: Iihaike ana taunta tuumako Tomorrow I town.to go.will 'Tomorrow, I will go to town.'
+
+No taunta keke tuumore He town.to always goes 'He always goes to town'
+
+These are the words that describe different times of day and night:
+
+saunaba
+
+from dawn until the time when the sun is high in the sky
+
+ete bisa
+
+midday (literally, 'sun middle')
+
+surena
+
+tine when the sun is beginning to go down
+
+qupi kokotu
+
+dusk (beginning to get dark, but you can still see, literally 'dark partly')
+
+qupiba
+
+night
+
+saubapo
+
+midnight
+
+qupi qausu
+
+between 1am and 3am (literally, 'night stomach')i
+
+Page 57
+
+iihai motamota
+
+between 3am and 5am (literally, 'tomorrow giving.light')
+
+6.5.2 Temporal Phrases Usually, the suffix -ke is added to time words to show the time when something happened. For example, ana saunabake taun tuume I morning.in town went 'I went to town this morning' Sometimes, we can use the locative postposition -ta to make a temporal phrase to show when something happened. bodza teeta nana taun tuumako time one.at we town go.will 'At some time we will go to town' The suffix -ke is also used to show how long something happens for, such as staying somewhere for three days. No qupi taparike ota oota He nights three.for there stayed 'He stayed there for three nights'
+6.5.3 Translation Issues for Time We have not yet found any translation issues for time.
+6.6 Manner In Guhu Samane we have some adverbs of manner to show how something is done.
+
+For example:
+
+Dzohane kebanoke tuumorai
+
+John
+
+slowly
+
+walking.PRES.CTS
+
+Page 58
+
+'John is walking slowly' (literally, 'coldly', since keba is used as an adjective for cold things, e.g. patta keba 'cold food' abi keba 'cold man = corpse')
+
+Dzohane hairiamake toroume
+
+John
+
+slow.NEG ran.TODAY.PAST
+
+'John ran fast (today)'
+
+Some adverbs of manner have the suffix -ma 'with' at the end, attached to an adjective or noun, such as qangama 'badly', qidzama 'well', dzaubama 'angrily', oberama 'falsely', and hairama 'quickly'.
+noi qangama khaute he bad.with cooked
+'he cooked badly' (meaning quickly and everything in a mess) noi qangama tuume
+he bad.with walked 'he walked badly' (meaning quickly, or with a bad leg, for example)
+
+noi noo qidzama hiire he word good.with spoke 'He spoke well' (for example, he said something I agreed with)
+
+noi noo oberama hiire he word falsely spoke 'He spoke falsely' (did not speak clearly)
+
+We can use adverbs of degree (like nipamu) with these adverbs, to show how slowly someone walked, for example. If the adverb has the -ma suffix, then the word nipamu comes before the -ma suffix.
+
+Dzohane kebano nipamuke tuumorai
+
+John
+
+slowly very
+
+walking.PRES.CTS
+
+Page 59
+
+'John is walking very slowly'
+
+Noi qanga nipamuma tuume He badly very.with went 'He went very badly' (=very fast)
+
+6.7 Negative Clauses and Negation Negative clauses are those which include a meaning like no or not in English.
+
+6.7.1 Examples There are at least 3 ways to make negative statements in Guhu Samane:
+
+1. The negative particle -te is used to show something that did not happen. The verb takes the negative suffix -ra in this case. This is used for situations where the action was expected to happen, but it did not.
+
+ana te buku iisaitara
+
+I NEG book read.NEG
+
+'I did not read the book' (and I was supposed to)
+
+ana te Tom moorara
+
+I NEG Tom see.NEG
+
+'I didn't see Tom' (although I thought I would)
+
+2. The suffix -ma is added to the verb, but the particle te is not used. This can be used for any negative situation.
+
+Ana buku iisaitama
+
+I
+
+book read.NEG
+
+'I did not read the book'
+
+3. The negative particle bamu can be used:
+
+i) with the suffix -qu, for something that is not happening in the future (or that depends on something else happening),
+
+ana bamu buku iisaitaqu
+
+I NEG book read.will
+
+Page 60
+
+'I will not read the book'
+
+naho sama dzeubaquko ana bamu buku iisaitaqu
+
+I
+
+skin tired.if
+
+I NEG book read.will
+
+'If I am tired, I would not read a book'
+
+ii) with the verb suffix -rota for something that did not happen in the past
+
+naho sama dzeubapuko ana bamu buku iisaitarota
+
+I
+
+skin tired.if.PST I NEG book read.would
+
+'If I had been tired, I would not have read a book'
+
+Negative commands use the word eto, and the suffix -ino on the verb, as in these examples: eto kharuba muunaino NEG banana eat.COMMAND.NEG 'Do not eat the banana!'
+
+eto noo hiibaino
+NEG word talk.COMMAND.NEG
+'Do not talk'
+6.7.2 Translation Issues for Negative Clauses Guhu Samane makes a difference between situations where someone doesn't do something that they were supposed to do, and situations where someone just doesn't do something. English does not make this difference, so we need to decide in the context which kind of negative to use.
+For example, in Matt 21:30, one son says he will go to the field to work, but then he does not. In this case the particle te and suffix -ra should be used:
+noi te tuumara
+he NEG went
+'he did not go' (although he was expected to)
+The same would be true in 1 Samuel 13.8.
+Page 61
+
+7 SENTENCES
+7.1 Conjunctions
+7.1.1 Examples These are some of the joining words (conjunctions) in Guhu Samane:
+
+Conjunction
+
+English Gloss
+
+Meaning
+
+Example
+
+ma and
+
+Most general conjunction for joining two noun phrases
+
+ata ma khameto wife and children
+
+mae or
+
+Joins noun phrases that are alternatives
+
+Nii ti mae kofike muunaqu? You tea or coffee drink? 'Do you want to drink tea or coffee?'
+
+onihe but
+(or just -he as a suffix on a verb)
+
+Nii tike muunaqu mae kofike muunaqu? You tea drink or coffee drink? 'Do you want to drink tea or coffee?'
+Joins two sentences, ana noho naga tuumata onihe where the second sen- I his house went but tence is something you did not expect. noi te oota orara
+he NEG there stay.NEG 'I went to his house but he wasn't there' ana no moorihe no te ana mooraara I he saw.but he NEG I saw.NEG 'I saw him but he didn't see me'
+
+qate then
+oho therefore Page 62
+
+start of a clause or a sentence
+
+qate nii ikabetaqu then you how.about
+
+then how about you
+
+Goes between a
+
+Ana heme eete oho qubake
+
+qubake
+
+reason for something
+
+and the result.
+
+I ill
+
+make that.of for
+
+ana bamu baabaqu
+
+I not come.will
+
+'I am ill therefore I cannot come'
+
+onita so / therefore
+
+Goes between a reason and a result
+
+naho sama dzeube onita my skin tired so ana bamu iisaitaqu I not read 'I am tired so I won't read'
+
+-mi and. DIFF.SUB. SIM
+
+Suffix that occurs on medial verbs and means 'and at the same time' (and the next verb has a different subject)
+
+-qi and. SAME.SUB. Suffix that occurs on
+
+SIM
+
+medial verbs and
+
+means 'and at the
+
+same time' (and the
+
+next verb has the
+
+same subject)
+
+-mo and. DIFF.SUB. SEQ
+
+Suffix that occurs on medial verbs and means 'and afterwards' (and the next verb has a different subject)
+
+-qo and. SAME.SUB. Suffix that occurs on
+
+SEQ
+
+medial verbs and
+
+means 'and after-
+
+wards' (and the next
+
+verb has the same
+
+subject)
+
+Page 63
+
+7.1.2 Translation Issues Related to Conjunctions We need to remember to use conjunctions, even if English does not have conjunctions at the start of a sentence.
+
+7.2 Commands (Imperative Sentences)
+7.2.1 Examples Here are some examples of commands in Guhu Samane. The first column shows a normal command that you might use to tell someone to do something. The second column is a strong command that you might use with your child if they disobey you the first time you ask. The third column is a gentle command, encouraging someone to do something. The fourth column is a command that could be used to pass on someone else's desires, as in 'the doctor said you should eat'. We are not sure exactly what the difference is between the first and fourth columns, but perhaps the fourth column shows commands that are more definite, something like 'you must...'. The fifth column shows a form for a command to do something which should be repeated. This form has the suffix -orare, which includes the continuous aspect suffix -ra.
+
+1. Command 2. Strong com- 3. Gentle com- 4. Definite com- 5. Repeated / con-
+
+mand
+
+mand
+
+mand(?)
+
+tinuous command
+
+muuna
+
+muu
+
+'eat'
+
+'eat!'
+
+muuno '(please) eat'
+
+muunare 'you must eat'
+
+muunorare
+'you should always eat' (e.g. from this coconut tree)
+
+tuuma
+
+tuu
+
+'go'
+
+'go!'
+
+tuumo '(please) go'
+
+tuumare 'you must go'
+
+tuumorare
+'you should always go'
+
+teeta
+
+tee
+
+'hit'
+
+'hit!'
+
+teeto '(please) hit'
+
+teetare 'you must hit'
+
+teetorare
+'you should always hit' (e.g. sago)
+
+baaba 'come'
+
+baa 'come!'
+
+baabo '(please) come'
+
+baabare 'you must come'
+
+baorare
+'you should always come' (e.g. to visit me)
+
+moora 'look'
+
+moo 'look!'
+
+mooro '(please) look'
+
+moorare 'you must look'
+
+mooqorare 'you should always
+
+Page 64
+
+habesa
+
+habe
+
+'sit'
+
+'sit!'
+
+habeso '(please) sit'
+
+habesare 'you must sit'
+
+look'
+habeseqorare 'you should always sit'
+
+The same forms are used for first person, second person and third person commands: muuna eat '(you) eat!'
+
+napa muuna we(incl) eat 'let us eat!'
+
+noi muuna he eat 'let him eat'
+
+If there is no subject in the sentence, the command is addressed to the second person, you, either singular or plural. This is quite common.
+Commands can be made more polite by using qaate at the start of the sentence.
+
+7.2.2 Translation Issues Related to Commands Guhu Samane makes a difference between polite commands and strong commands, so we need to choose the correct type of command when we are translating Example of a definite command in
+Page 65
+
+Genesis 1: 3 Qaami Ohonga hee “dzadza biiranatare”.
+We might use different kinds of commands to translate: little girl get up (in the story of Jairus' daughter), Lazarus come out! (John 11), 'Get behind me Satan!' (Mark 8), 'Be still' Jesus talking to the storm in Mark 4, or 'come out' to unclean spirit in Mark 5.8.
+We can also make a difference between commands to keep doing something, or just do it one time. So we need to decide which type of command to use when we are translating something. Often the English is not clear, but the Greek may be clearer. In Greek present imperatives usually mean something should be repeated, whereas aorist imperatives are commands to do something once only.
+For example, pray for those persecuting you in Matt 5.44 is a present imperative – keep doing it.
+7.3 Questions (Interrogative Sentences) 7.3.1 Yes-No Questions Statements can be changed into yes-no questions just by changing the pitch of your voice when you speak, by making your voice go up at the start of the last verb.
+noi kharuba muune
+he banana ate
+'he ate a banana' (statement)
+noi kharuba muune?
+he banana ate
+'did he eat a banana?'
+We can show this in writing by putting a question mark at the end of the sentence.
+
+Yes-no questions can also have the question particle mae (or mae bamu) at the end:
+
+noi kharuba muune mae?
+
+he banana ate
+
+or
+
+'did he eat a banana, or?'
+
+noi kharuba muune mae bamu?
+
+Page 66
+
+he banana ate
+
+or not
+
+'did he eat a banana, or no?'
+
+This can even be a very short sentence, if we know who the subject is:
+
+muune mae?
+
+eat
+
+or
+
+'Did (you / he / she...) eat?'
+
+If we want to put stress on part of the sentence, we can use the suffix -ke or -io.
+
+no kharubake
+
+muune mae?
+
+he banana.FOCUS ate
+
+or
+
+'did he eat a banana, or (did he eat something else)?'
+
+noio
+
+kharuba muune mae?
+
+he.FOCUS banana ate
+
+or
+
+'did he eat the banana, or (was it someone else)?'
+
+7.3.2 WH Questions When we want to find out more than just ‘yes’ or ‘no’, in English we ask questions using question words such as Who? What? Which? How many? When? Where? How? Why? (People sometimes call these WH questions because most of these English question words start with wh.)
+Here are some examples of WH questions in Guhu Samane. Usually, the question word appears in the same place in the sentence as the thing that is being questioned. For example, if the question is about the object of a verb (e.g. 'what did he eat?') the question word quba apeke comes between the subject and the verb, or if the number is being questioned, the question word ikabete comes after the noun, in the usual place for a numeral or quantifier.
+
+no quba apeke muune? he for what eat? 'What did he eat?'
+oi quba ape? Page 67
+
+that for what 'What is that?'
+
+apei kharuba muune? who banana ate? 'Who ate the banana?'
+
+no kharuba ikako
+
+muune?
+
+he banana which(close) eat
+
+'Which of these bananas did he eat?' (used when the speaker, addressee. and bananas are all close together)
+
+no kharuba ikake
+
+muune?
+
+he banana which(far) eat
+
+'Which bananas did he eat?' (used when there is distance between the speaker and the addressee, or the speaker and the bananas, or the addressee and the bananas)
+
+no kharuba ikabeteke he banana how.many(recent) 'How many bananas did he just eat?'
+
+muune? eat
+
+no kharuba ikabeteko
+
+muune?
+
+he banana how.many(longer ago)
+
+eat
+
+'How many bananas did he eat (longer ago, but still today)?'
+
+no bodza apeta Page 68
+
+kharuba muune?
+
+he time what.at banana eat 'When did he eat a banana?'
+
+noi qubape qubako kharuba muune?
+
+he why for
+
+banana eat
+
+'Why did he eat the banana?'
+
+noi naane qubako kharuba muune?
+
+he why for
+
+banana eat
+
+'Why did he eat the banana?'
+
+no ikanomake eete kharuba muune?
+
+he how
+
+make banana eat
+
+'How did he eat the banana?' (This sentence can be used to question the manner someone used to eat something, maybe like a pig or a dog, or it can be used as a rebuke to question how somebody did something they should not have done, for example eating somebody else's banana.)
+
+7.3.3 Translation Issues for Questions In English the question word usually comes at the start of the sentence, whereas in Guhu Samane the question word comes at the right place in the sentence for the thing that is being questioned. We need to remember to put the question word in the right place, not just follow the English order.
+
+7.4 Sentence Adverbs 1. We use the sentence adverb kaqa to show something that might happen. This is like the word ating in Tok Pisin.
+
+no baabaqu
+
+kaqa
+
+he come.IRREALIS maybe
+
+'Maybe he will come'
+
+The word qai can also be added after the subject in these sorts of sentences, talking about something that might happen.
+
+Page 69
+
+ana qai toruoma tuumaqu
+
+kaqa
+
+I perhaps run
+
+go.IRREALIS maybe
+
+'Perhaps I will run'
+
+The word pore can also be used instead of qai, with a very similar meaning.
+
+ana pore toruoma tuumaqu
+
+kaqa
+
+I perhaps run
+
+go.IRREALIS maybe
+
+'Perhaps I will run'
+
+2. We use the adverb qahe in a sentence to try to get people to feel sympathetic to the speaker, something like 'unfortunately' in English. This is similar to tarangu in Tok Pisin.
+
+Noho haa qahe
+
+baate
+
+His dog unfortunately died.TODAY
+
+'Unfortunately, his dog just died'
+
+The adverb mina has a similar meaning but it can only be used for humans.
+
+Ana mina
+
+meera teete
+
+I unfortunately hunger hit
+
+'Unfortunately, I feel hungry'
+
+Mina can also be used as a noun, to call someone an unfortunate person.
+
+Mina,
+
+nii oorai?
+
+Unfortunate.one you staying
+
+'Are you there, unfortunate one?'
+
+7.5 Reason, Result, Purpose
+7.5.1 Reason and Result Here are some sentences that show a reason and a result in our language. We can either have the reason before the result or the reason after the result, both sound natural. However, in the second example it is as if the speaker is answering his own question 'Why am I happy?'.
+
+Page 70
+
+reason
+
+RESULT
+
+Ohonga ana hobiretaho qubako ana qaki eetorai
+
+Lord me helped
+
+therefore I happy am
+
+'The Lord helped me, so I am happy'
+
+RESULT
+
+reason
+
+Anai qaki eetorai, oi teho (quba)
+
+bahe Ohongai ana hobireta
+
+I happy am that one.of something because Lord I helped.PAST
+
+'I am happy. Why? Because the Lord helped me'
+
+7.5.2 Purpose and Result Here are some sentences that show a purpose and a result in our language. Usually, the purpose comes before the result. We use the word hiire 'said' to show something is a purpose clause.
+
+purpose
+
+RESULT
+
+Ana patta tumaetako hiire tauni tuuume
+
+I food buy.will said town went
+
+'To buy food, I went to town'
+
+purpose
+
+RESULT
+
+Naga gootako hiire ee dzote
+
+House build.will said tree cut
+
+'To build a house, I cut a tree'
+
+7.5.3 Translation Issues for Reason, Result and Purpose English, Hebrew and Greek usually all have the result first and then the purpose in a sentence, whereas Guhu Samane has the purpose first and then the result. So, we will often have to change the order of clauses in our sentences, when we are translating, to make sure it has the right meaning in Guhu Samane.
+
+For example, in Gen 50.20, the NIV says:
+
+RESULT
+
+purpose
+
+Page 71
+
+God turned it for good in order to save the lives of many people
+
+We need to change the order of the two clauses here so that the purpose comes first:
+
+purpose
+
+RESULT
+
+Ohonga abi samaneho qaraqara hobirako hiireqi oke burisi etemi qidza naateta
+
+God man many.of life
+
+help.will said
+
+that turn doing.and good made
+
+Sometimes the English Bible has several purposes for one result, and may go across more than one verse. In this case we need to bring all the purposes before the result, and join the verses together in our translation. For example, Genesis 1.17-18 says:
+17 He placed the lights in the sky (RESULT)
+to shine on the earth, (PURPOSE 1)
+18 to rule over the day and the night, and (PURPOSE 2)
+to separate light from darkness. (PURPOSE 3)
+And God was pleased with what he saw.
+
+This has three purposes after the result, and they are in verses 17 and 18. We need to join 17 and 18 together and put the purposes first in our translation:
+
+17-18 Nopoi ete ma qupike sopara eete
+
+(PURPOSE 2)
+
+they.2 sun and night govern make
+
+ttokake dzadza moiteqa (PURPOSE 1)
+
+ground light give.and
+
+eteba ma qupibake koridza biirorare (PURPOSE 3)
+
+day and night divide throw
+
+hiireqi
+
+said
+
+Ohongai nopoke qusu gootata motoqi (RESULT)
+
+Lord
+
+they.2 sky bone.at put.and
+
+moomi bagenoma naateta
+
+Page 72
+
+saw.and good
+
+made
+
+We need to remember to translate whole sentences, not just one verse at a time.
+When we see the word 'to' in English, or 'in order to', we need to remember that this could be a purpose and switch the order in Guhu Samane, and use the word hiire.
+
+7.6 Interjections The following words can be used as interjections to get someone's attention:
+
+maqoe
+
+polite interjection, for example to call your husband, or someone you respect
+
+Maqoe, baa naka tuumo Hey, come we.2 go 'Hey, come and we'll go!'
+
+idze
+
+interjection of surprise, for example
+
+Idze, noo erai meeni mae?
+
+when you hear something you did not expect, or incredible
+
+Wow, talk this true or
+
+'Wow, is this talk true?'
+
+ububu
+
+interjection of praise, for example when 'ububu, Ohonga dzoobe! you give praise and thanks to the Lord
+praise God thankyou
+'Praise, God thankyou'
+
+uuii
+
+interjection of victory, for example if uuii ana hoo kootore
+
+you spear a pig
+
+hooray! I pig speared
+
+'Hooray I speared the pig'
+
+8 BEYOND THE SENTENCE
+8.1 Topic and Focus Topic is what a sentence is about. The topic often comes as the first part in the sentence. Very often the subject of a sentence is also its topic, but not always. (For example, in English, in Those boys I had already seen, ‘those boys’ is topic and object, whereas ‘I’ is subject.) If the same topic continues in a number of sentences, the topic may not be there as a noun phrase, it may only show in the person markers on the verb.
+
+Page 73
+
+When some part of the sentence gets special stress, or emphasis, we call that focus. Something that is contrasted with something else is usually in focus, but contrasts are not the only things that get focused.
+English does not use special markers for focus. In an ordinary English sentence, the last element is usually in focus. If we want to focus on some other element, we stress it more, say it more loudly. (In the example bold type is used for stress.) For example:
+I didn’t see the accident. (Someone else did.)
+I didn’t see the accident. (Although you think I did.)
+I didn’t see the accident. (I only heard about it.)
+I didn’t see the accident. (But I saw the cars afterwards.)
+8.1.1 Examples In Guhu Samane, there are two markers related to topic and focus: -i and -ke.
+The suffix -i can only ever occur on the subject of a sentence, but not every subject has this suffix. The -i suffix is added at the end of the subject noun phrase. In natural texts, often subjects which are new topics have this marker, whereas topics that have already been introduced do not. For example, the first subject in a story normally has the marker -i.
+The suffix -ke cannot occur on the subject of a sentence, but can occur on the object or several other arguments in a sentence. This suffix often highlights what the sentence is focusing on. It is also used to highlight who an action is done for, the beneficiary.
+The use of these markers to show what is in focus, can be seen in the following questions:
+
+Apei
+
+kharuba Tom moite? Titus io
+
+kharuba Tom moite.
+
+Who.FOC banana Tom gave? Titus FOC banana Tom gave
+
+'Who gave Tom a banana? TITUS gave Tom the banana'
+
+Titus apeke kharuba moite?
+
+Titus Tomke kharuba moite.
+
+Titus who.FOC banana gave?
+
+Titus Tom.FOC banana gave
+
+'Who did Titus give a banana to? Titus gave TOM a banana.'
+
+Quba apeke
+
+Titus Tom moite? Titus kharubake Tom moite.
+
+Page 74
+
+For what.FOC Titus Tom gave? Titus banana.FOC Tom gave. 'What did Titus give Tom? Titus gave Tom a BANANA'
+
+These examples suggest that -i and -ke are suffixes used on the thing that the sentence is focusing on. If the thing is the subject of the sentence, -i or io is used. If the thing is the object or indirect object -ke is used.
+
+The following text shows an example of how these two suffixes relate to each other in a longer text. The noun phrases with -i or -ke are underlined in Guhu Samane, and written in capitals in the English translation:
+Bodza teeta abi tei qoridze haa nome dzeima masu dzobi tumata .
+time one.at man one got.up dog his.own leading cuscus hunt went
+‎At a certain time, A MAN got up and lead his dog to go hunt cuscus.
+
+Tuumomi haa noho masu teke iihami ,
+
+going.while dog his cuscus a
+
+chase.and
+
+‎They were going and his dog chased A CUSCUS and
+
+masu oi atti tuuma ee teho nagake dzubami
+
+cuscus that.it flee go tree one.of hollow.in go.and
+
+'THAT CUSCUS fled into THE HOLLOW OF A TREE'
+
+no ee oke peite eenagata
+
+bariba
+
+moohimi
+
+he tree that climb tree.hollow.at peep.inside look.and
+
+'he (the man) climbed THAT TREE and peeped inside'
+
+masui iikabesumi cuscus where.is.it? 'THE CUSCUS wasn't there, but'
+
+Page 75
+
+dzo mina tei eenaga
+
+ota oota .
+
+snake big one tree.hollow there was
+
+'‎ A BIG SNAKE was there in the hollow of the tree'
+
+Oomi no mooqi atti taaete was.there he saw.and flee climb.down ‎'so he climbed down and fled'
+
+haa
+
+nome
+
+dzeima nopo
+
+nagapa
+
+dog
+
+his.own
+
+leading they. two village
+
+'leading his dog, they both went to the village'
+
+tumata . went
+
+8.1.2 Translation Issues Related to Topic and Focus English does not have a marker to show focus, so we need to look at the sentence and the context to work out what is in focus, and make sure that our use of focus particles puts the focus on the correct element.
+
+9. Residue
+We are still unable to completely explain the use of the suffix -i on some subjects and -ke on some objects.
+We cannot yet explain the difference between the postpositions na and ta which occur after locative nouns.
+
+Page 76
+
+10. Selected Texts
+Here are some of the texts that we wrote during the Discover Your Language workshop and used to investigate grammatical features.
+A man went hunting.
+Abi tei dzobi tuumata.
+
+1.1 Bodza teeta abi tei qoridze haa nome dzeima masu dzobi tumata time one.at man one got.up dog his.own leading cuscus hunt went
+At a certain time a man got up and lead his dog to go hunt cuscus. 1.2 Tuumomi haa noho masu teke iihami , masu oi atti tuuma
+going.while dog his cuscus a chase.and cuscus that.it flee go
+
+ee teho nagake dzubami no ee oke peite eenagata bariba tree one.of hollow.in go.and he tree that climb tree.hollow.at peep.inside
+
+moohimi masui iikabesumi dzo mina tei eenaga ota oota .
+
+look.and cuscus where.is.it? snake big one tree.hollow there was
+
+They were going and his dog chased a cuscus and it fled in to the hollow of a tree, so he
+
+climb the tree and he peeped inside and the cuscus was not there - instead a big snake was
+
+there
+
+1.3 Oomi no mooqi atti taaete
+
+haa nome dzeima nopo nagapa
+
+was.there he saw.and flee climb.down dog his.own leading they. two village
+
+tumata . went so he climb down and flee, leading his dog.
+
+A man shoot the pig (each sentence describes a different picture) Abi tei hoo toorota.
+
+1 Abi tei sagi khata
+
+qabitorai .
+
+man one arrow(lit.bow.son) shapening
+
+A man is sharpening an arrow.
+
+2 Noi habeseqi dzuube ma sagi khata
+
+qabitorai .
+
+he sit.and knife with arrow(lit.bow.son) sharpening
+
+He is sitting and sharpening an arrow with a knife.
+
+Page 77
+
+3 Abi eseri sagi khameto
+
+qabitorai .
+
+man two arrows(lit.'bow.children') sharpening
+
+Two men are sharpening the arrows.
+
+4 Nopoi habeseqi dzuube ma sagi khameto
+
+nopome qabitorai .
+
+they/both sit.and knife and arrows(lit.'bow.children') their
+
+sharpening
+
+Both are sitting and sharpening their arrows with the knife.
+
+5 Abi tapari habeseqi sagi khameto
+
+nokome qabitorai .
+
+man three sit.and arrows(lit.'bow.children') their
+
+sharpening
+
+Three men are sitting and sharpening their arrows.
+
+6 Noko tenanateqi
+
+baura sama tenake eetorai .
+
+they come together.and work same one doing
+
+They come together and are doing one same thing.
+
+7 Abi tei sagi khata
+
+saisa
+
+naite .
+
+man one arrow(lit.bow.son) bowstring put.on
+
+A man is puting the arrow on the bowstring.
+
+8 Noi sagi khata
+
+saiisanaiteqi
+
+hoo toobako qupadzome .
+
+he arrow(lit.bow.son) bowstring.put on.and pig shot
+
+think
+
+He put an arrow on the bowsting and thinking to shot a pig.
+
+9 Abi tei hoo toobare sagi khata
+
+hoo bobote .
+
+man one pig shot
+
+arrow(lit.bow.son) pig aim/face
+
+A man is aiming a pig with an arrow.
+
+10 Noi ao hoo toobake bohibi .
+
+he is.has pig shot
+
+about
+
+He is about to shot the pig.
+
+11 Abi oi hoo toore .
+
+man that.it pig shot
+
+That man shot the pig.
+
+12 Noi ao hoo toore .
+
+he is.has pig shot
+
+He has shot the pig.
+
+13 Abi eerai hoo eserike toore .
+
+man this pig two shot
+
+This man shot two pig.
+
+14 Noi ao hoo eserike bodza tenata toore .
+
+he is.has pig two time one.same shot
+
+He has shoot two pigs at the same time.
+
+15 Atapa tei eepa dzagata habese oorai .
+
+women a fire near.to sit
+
+stay
+
+Page 78
+
+A women is sitting near the fire. 16 Noi habeseqi patta khautorai .
+she.is sit.and food cooking She is sitting and cooking the food.
+Bilum and leaves (each sentence describes a setup created by the teacher)
+Assi ma eebeke
+
+1 Eebeke ebekeehaha assi nakuta oorai .
+
+leaf green
+
+bilum inside.at stay
+
+a green leaf is in the bilum.
+
+2 Eebeke mina dzunoma assi pesuta
+
+oorai .
+
+leaf big red
+
+bilum underneath.at stay
+
+a big red leaf is under the bilum.
+
+3 Eebeke ebekeehaha kharamane eseri assi heeta oorai .
+
+leaf green
+
+long.plural two bilum on.top.at stay
+
+a two long green leaves are on top of the bilum.
+
+4 Eebeke ebekehaha gasiqa tei assiho saamata oorai .
+
+leaf green
+
+small one bilum.of beside stay
+
+a small green leaf is near the bilum.
+
+5 Assiho dzagata eebeke gasiqa tei oorai .
+
+bilum.of near.to leaf small one stay
+
+a small leaf is near the bilum.
+
+6 Assi eebekeho bisaqaputa oorai .
+
+bilum leaf.of
+
+middle.at stay
+
+bilum is in the middle of the leaves.
+
+7 Eebeke assike ngeroma oorai .
+
+leaf bilum.that go.around stay
+
+the leaves are surrounding the bilum.
+
+8 Eebeke hote tei assi nakuta oorai .
+
+leaf short one bilum inside.at stay
+
+One short leaf is in the bilum.
+
+9 Eebeke homete eseri assi nakuta oorai .
+
+leaf short.plural two bilum inside.at stay
+
+Two short leaves are in the bilum
+
+10 Eebeke hometemete
+
+leaf short.plural
+
+Many short leaves
+
+Page 79
+
+11 Eebeke ebekehaha khara
+
+leaf green
+
+long
+
+A long green leaf
+
+12 Eebeke ebekehaha kharakhara assi heeta oorai .
+
+leaf green
+
+longest
+
+bilum on.top.at stay
+
+The longest green leaf is on the bilum.
+
+13 Eebeke samane assi nakuta oorai .
+
+leaf many bilum inside.at stay
+
+Many leaves are in the bilum.
+
+Car turned over (a retelling of a video sequence) Eegota perebata
+
+1 Abinaga eseri eegota aima tete iiha tuumomi people two car took road chase going.while
+Two people were driving along the road in a car. 2 nopoho nese hittemi nopo eegota aima tete sigi temu ma
+they.2.of eye close.and they. two car took road side the.other and
+
+temuke the.other and their eyes closed, and they made the car go from side to side on the road, 3 biire tuumoqi perebata .
+
+throw going.while turn.over
+
+and then while going they turned over
+
+4 Perebami nopoho eegota iipigotai suuna naasumi dzagai heena
+
+over.turn.and they.2.of car back
+
+under make.and chest on.top
+
+naateta .
+
+did.at
+
+and the top of the car went under and the underneth of the car came on top
+
+5 Abi teemui tuuma sigita tatte oko geqobata .
+
+man the.other go
+
+distant fell leg broke
+
+the other man fall from the distance and broke his leg
+
+6 Qate eegota mainai
+
+nopoho ipita abi aima baoqi
+
+eegota
+
+then car the.other.was they.2.of later man took coming.and car
+
+mooqi saw.and
+
+Page 80
+
+The other car coming after them had some people on it
+
+7 eegota nokome puisire taaete qurateqi ,
+
+car
+
+their
+
+stop climb.out go.down.and
+
+They stoped their car and climed out from their car,
+
+8 ponedza
+
+apiapi ma khatatai qurateqi abi oko geqobatake moo
+
+steering.wheel driver and daugther go.down.and man leg broke.that saw
+
+,
+
+The driver and his daugther went down and saw the man with the broken leg
+
+9 aima kharikhari
+
+eete eegota nopometa tumatani ,
+
+took between.shoulders do car their.two.at went.and
+
+and took him between their shoulders to their car.
+
+10 abi qesai nopoho qubasamaneke guumeke aimata .
+
+man some they.2.of belonging
+
+stole
+
+took
+
+but some other people stole their belongings.
+
+11 Mai ma khatatai abi oko geqobatake aima pei eegotata
+
+father and daugther man leg broke.that took up car.at
+
+the father and the daugther took the man with broken to their car and went to the hospital
+
+12 motoqi aima maraseni naga tuumata .
+
+put.and took medicine house went
+
+13 Tuusumi abinaga qubasamane guumeke aimotake
+
+go.and people belonging
+
+stealing taking.at
+
+and the people stealing their things
+
+14 qaateqi nokoi kira ma qaru hiimi
+
+they shout and scream said.and
+
+left what they were stealing and shouted and screamed
+
+15 nopo noka abi qeta eetetake aima maraseni naga tuumata .
+
+they. two heard man injury make.do took medicine house went
+
+the two of them heard and took the injured man to the hospital.
+
+If my house burn (creative writing) Naho naga qaitaquko
+
+1 Naho naga qaitaquko ana roqobete tukuba qoridze mooqa
+
+my house burn.if
+
+I/me suprise jump got.up see.and
+
+If my house burn I would see it and jump up in surprise and wake my wife and children
+
+Page 81
+
+2 ata ma khameto wife and children.kids
+
+3 tukuto iiha paata qurasuhima ana kira ma qaru hiire
+
+wake chase outside down.and I/me shout and scream say
+
+and chase them to go outside I will shout
+
+4 abi ma khata nana hobire oba gima baa eepa hisuma ana namae
+
+people
+
+we help water fatch come fire kill
+
+I/me myself
+
+qubasamane naname topotto
+
+belonging
+
+our
+
+throw
+
+and the people will come help get some water and put out the fire
+
+5 paata biirako .
+
+outside throw
+
+and I will throw our things outside,
+
+6 esuma abi tatanga qesai baa ana hobire qubasamane aima paata
+
+do. and man strong some come I/me help belonging
+
+took outside
+
+biirako , throw Some strong man will help me get our things and throw it outside. 7 Esuhima qesai oba gima eepa hiitako
+do.and some water fatch fire put.will And some will fatch the water and put out the fire.
+
+Story of Dzurau and Paake (a traditional story) Pake ma Dzurauho noo kinisa
+
+1 Bodza teeta Dzurau ma Paake nasam Baridzaho quba husi khautota time one.at Dzurau and Paake uncle Baridza.of for food cooked
+. Once upon a time, Dzurau and Paake cooked food for uncle Baridza. 2 Nopo husi khauto bebe etomi nasami Baridza baaqi totaqike
+they. two food cooked wait doing uncle Baridza came.and other.side nopo paketoma tuumami , they. two went.around went.and While they were cooking food and waiting, uncle Baridza came and went around the other side of them.
+Page 82
+
+3 nopo moo qateqi patta nopome muuna qateqi Paakei hee ana
+
+they. two saw then.and food their
+
+eat
+
+then.and Paake said I/me
+
+eerata tuuma nasam saridzako hiireqi huusuma qura tumata .
+
+this go
+
+uncle meet.will said.and noise.with down went
+
+They saw that and they ate their food and then Paake said "I will go this way to meet
+
+Uncle", and went down noisly.
+
+4 Qate Dzurau hee ana erata nipake qohuba pesuta
+
+ato
+
+then Dzurau said I/me this. quietly wild.pitpit underneath.at to.the.south
+
+tuumako hiireqi tumata . go.will said.and went And Dzurau said "I will go to the south, quietly underneath the wild pitpit", he said and went. 5 oke eeteta oho qubake nopoho titirai tenata sutoqi temui
+that doing.at that therefore they.2.of headwater one.same join.and the.other.one
+
+qura tuusumi
+
+down go.and
+
+Because they did that, they both have the same head water, one goes down
+
+6.1 temui
+
+paha mainake ato
+
+tumata .
+
+the.other.one also different to.the.south went
+
+and the other one went a different way, to the south.
+
+6.2 Oqaio .
+
+that's.all
+
+that's all.
+
+Story of Ryan and Ben (retelling a drama acted in class). Raieni ma Beniho noo kinisa.
+
+1 Raieni nomenake habese oorami Beni seike noho tumeta baaqi
+
+Ryan unaware sit
+
+stay.and Ben quietly his back.at came.of
+
+noho iirita oba perebiremi , Raieni roqobetemi noho dzauba peitemi
+
+his on water poured.and
+
+Ryan surprise.and his angry go.up
+
+, no tanga aima Ben iiha tumaqi tanga ma Beni buribaroke teete . he stick took Ben chase went.and stick and Ben repeatedly hit
+Ryan was sitting unaware and Ben came quietly at his back and poured water on him, Ryan got surprised and became angry he picked up a stick and went chasing Ben and hit him repeatedly
+
+Page 83
+
+

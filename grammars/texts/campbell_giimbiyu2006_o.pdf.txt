@@ -1,0 +1,4543 @@
+A Sketch Grammar of Urningangk, Erre and Mengerrdji:
+the Giimbiyu languages of Western Arnhem Land
+Lauren Campbell
+Honours Thesis Department of Linguistics and Applied Linguistics
+University of Melbourne Submitted July 2006
+
+CONTENTS
+ACKNOWLEDGMENTS .................................................................................................................iv
+ABBREVIATIONS and CONVENTIONS ......................................................................................v
+MAPS ....................................................................................................................................................vi
+1. THE LANGUAGES AND THEIR SPEAKERS....................................................................7
+1.1. The Giimbiyu languages ....................................................................................................................7
+1.2. History ................................................................................................................................................8
+1.3. Previous Work ....................................................................................................................................9
+1.4. Sketch Grammar: scope and methodology.....................................................................................12
+1.5. Language Names ..............................................................................................................................12
+2. PHONOLOGY ..........................................................................................................................13
+2.1. Segmental phonemes........................................................................................................................13 2.1.1. Vowel contrasts and realisations ................................................................................................14 2.1.2. Mid-front rounded Vowel /oe/ ..................................................................................................14 2.1.3. /oe/ ~ /u/ speaker variation .........................................................................................................15
+2.2. Consonant contrasts and realisations.............................................................................................16 2.2.1. Geminate Stops ...........................................................................................................................16 2.2.2. Nasals...........................................................................................................................................17 2.2.3. Palatal Lateral /ly/ ......................................................................................................................18 2.2.4. Velar approximant /h/ ................................................................................................................19 2.2.5. Summary of Phoneme Distribution............................................................................................20
+2.3. Phonotactics .....................................................................................................................................22 2.3.1. Phonological structure of the word ............................................................................................22 2.3.2. Minimal Word and syllable ........................................................................................................22 2.3.3. Word-initial phonemes ...............................................................................................................22 2.3.4. Word-final phonemes..................................................................................................................23 2.3.5. Consonant clusters ......................................................................................................................24 2.3.6. Initial-consonant dropping..........................................................................................................28 2.3.7. Stress ............................................................................................................................................29
+2.4. Morpho-phonemics ..........................................................................................................................30 2.4.1. Pronominal prefix allomorphy: first person ..............................................................................30 2.4.2. Pronominal prefix allomorphy: 3m ya- / ye- ............................................................................31 2.4.3. ya- Haplology ..............................................................................................................................31 2.4.4. y:dj Alternation (or Haplology?)...............................................................................................32 2.4.5. k:h Alternation............................................................................................................................33 2.4.6. h:w Alternation............................................................................................................................34 2.4.7. Reduplication...............................................................................................................................35
+3. PARTS OF SPEECH ...............................................................................................................36
+3.1. Nominals ...........................................................................................................................................36 3.1.1. Nouns ...........................................................................................................................................36 3.1.2. Pronouns ......................................................................................................................................37 3.1.3. Demonstratives............................................................................................................................37 3.1.4. Interrogatives...............................................................................................................................37
+i
+
+3.2. Modifiers...........................................................................................................................................38 3.2.1. Adjectives ....................................................................................................................................38 3.2.2. Quantifiers ...................................................................................................................................38 3.2.3. Adverbs........................................................................................................................................38
+3.3. Verbs .................................................................................................................................................38
+3.4. Other Parts of Speech ......................................................................................................................39 3.4.1. Interjections .................................................................................................................................39 3.4.2. Conjunctions................................................................................................................................39 3.4.3. Semblative Particle irrar ‘like’ ..................................................................................................39 3.4.4. Enclitics .......................................................................................................................................39
+4. NOMINALS...............................................................................................................................40
+4.1. Nouns ................................................................................................................................................40 4.1.1. Noun Genders..............................................................................................................................40 4.1.2. Semantic and syntactic roles of arguments ...............................................................................44
+4.2. Pronouns...........................................................................................................................................44 4.2.1. Free Pronoun forms.....................................................................................................................45 4.2.2. Other Personal Pronouns: possessive and reflexive..................................................................47
+4.3. Demonstratives.................................................................................................................................48 4.3.1. Demonstratives ‘This’ and ‘That’ ..............................................................................................48 4.3.2. Spatial Demonstratives Forms....................................................................................................51 4.3.3. Functions of Demonstratives......................................................................................................52
+4.4. Interrogatives ...................................................................................................................................53
+4.5. Nominal Group.................................................................................................................................57
+5. MODIFIERS..............................................................................................................................59
+5.1. Adjectives..........................................................................................................................................59 5.1.1. Adjective Morphology ................................................................................................................59 5.1.2. Verb-like adjectives ....................................................................................................................60 5.1.3. Adjective Functions ....................................................................................................................60
+5.2. Quantifiers ........................................................................................................................................61
+5.3. Adverbs .............................................................................................................................................63 5.3.1. ‘Fast’ maha(-maha) ...................................................................................................................63 5.3.2. ‘slow’ wiyimerrU / wirriwirrimirrM ...........................................................................................63 5.3.3. ‘next to’ wuyoerrk .......................................................................................................................64 5.3.4. ‘Already’ arrwarl........................................................................................................................64
+6. VERBAL MORPHOLOGY....................................................................................................66
+6.1. Pronominal prefixes.........................................................................................................................66 6.1.1. Intransitive Prefixes ....................................................................................................................66 6.1.1.1. Singular bound pronouns: first, masculine and neuter subjects.....................................68 6.1.1.2. Singular bound pronouns: second, feminine and vegetable subjects.............................70 6.1.1.3. First and Second person plural prefixes...........................................................................74 6.1.1.4. Plural Third person prefixes mun- ...................................................................................74 6.1.1.5. Irregular intransitive verb: ‘go; come’.............................................................................74 6.1.2. Transitive Pronominal Prefixes..................................................................................................76 6.1.2.1. Transitive Subjects (Agents) ............................................................................................78 6.1.2.2. Objects ...............................................................................................................................79 6.1.2.3. A note on kinship verbs ....................................................................................................84 6.1.2.4. Irregular Transitive Prefixes.............................................................................................85
+ii
+
+6.1.3. Dative Objects .............................................................................................................................85 6.2. Valency..............................................................................................................................................87
+6.2.1. Transitiviser rru- .........................................................................................................................87 6.2.2. Reflexive suffix ...........................................................................................................................88 6.2.3. Reciprocal suffix .........................................................................................................................89 6.3. Tense, Mood and Aspect Marking (TAM) ......................................................................................90 6.3.1. Tense-marking: future and non-future.......................................................................................90 6.3.2. Negative Future ...........................................................................................................................91 6.3.3. Non-future Irrealis.......................................................................................................................91 6.3.4. Imperative ....................................................................................................................................93 6.4. Miscellaneous prefixes.....................................................................................................................94 7. SYNTAX.....................................................................................................................................96 7.1. Simple Sentences ..............................................................................................................................96 7.1.1. Adjuncts .......................................................................................................................................97
+7.1.1.1. General Locative Clitic: =emerr ......................................................................................97 7.1.1.2. ‘with’ =oengeny (instrumental).....................................................................................99 7.2. Copula sentences..............................................................................................................................99 7.3. Non-verbal predicates....................................................................................................................100 7.4. Negation..........................................................................................................................................102 7.5. Semblative phrases.........................................................................................................................104 7.6. Questions ........................................................................................................................................104 7.6.1. Information questions ...............................................................................................................105 7.6.2. Yes/no questions .......................................................................................................................105 7.7. Interjections....................................................................................................................................106 7.8. Complex sentences .........................................................................................................................106 7.8.1. Co-ordination and Conjunction ................................................................................................106 7.8.2. Serial verbs ................................................................................................................................109 7.9. Reciprocals .....................................................................................................................................110 REFERENCES.................................................................................................................................112 Appendix 1 ‘Give’ paradigm ....................................................................................................115
+iii
+
+ACKNOWLEDGMENTS
+I would like to thank Nick Evans, my supervisor, for giving me the opportunity to work on these languages. His boundless enthusiasm and constructive feedback have made this an exciting project to work on. I would also like to thank Bruce Birch for his support of this project, answering my many queries, giving valuable feedback throughout and for providing a good laugh when I needed one! I’m also grateful to Mark Harvey for sharing his views on the languages from his first hand experience with its speakers. Thanks also go to Beverly Prattico at the Victorian Government Reporting Service for helping translate Capell’s shorthand and to my aunt Heather for running around AIATSIS on my behalf. This sketch grammar has improved thanks to the many people at the Department of Linguistics who have offered valuable feedback on drafts and presentations, by discussing their own work on related languages and helping with phonetic analysis. Special mention goes to Isabel Bickerdike who has been a great friend and mentor from the beginning. I also need to thank my wonderfully supportive family and boyfriend, Enrique, who have proof-read and helped me throughout the year. I hope this work helps preserve the precious remaining knowledge of the Urningangk, Erre and Mengerrdji languages.
+iv
+
+ABBREVIATIONS and CONVENTIONS
+
+1 2
+3 A
+DIST E
+exc. f
+inc. IRR
+m M
+n NEG
+NP ns
+
+first person second person
+third person agent
+distal (demonstrative) Erre
+exclusive feminine gender
+inclusive irrealis
+masculine gender Mengerrdji
+neuter gender negative
+noun phrase non-singular
+
+O pl
+PROX RE
+RECIP REFL
+S sg
+TR U
+v //
+[] -
+= %%
+
+object plural
+proximal (demonstrative) realis
+reciprocal reflexive
+subject singular
+transitiviser Urningangk
+vegetable gender phonemic transcription
+phonetic transcription morpheme boundary
+enclitic boundary underlying form
+
+Format of Examples Examples will be laid out in the following format.
+
+Language Urningangk Erre Mengerrdji
+
+File name CU (Carroll Urningangk) CE (Carroll Erre) KH (Kinslow-Harris)
+
+The above is example number 90. The ‘M’ under the example number stands for Mengerrdji (U = Urningangk, E = Erre). The first line of text in italics is the language (parsed where morphemes known). The second line of text gives a morpheme by morpheme gloss of the language. The third line is a free English gloss. In general the free gloss is the sentence elicited by the field linguist. Where this is not accurate, a literal translation is given in brackets. Where this is my own, this is also noted in brackets. Any mistakes in transcription and glossing I take as my own. The fourth line gives the audio reference of the example, the file name, followed by the time code.
+
+The file names used here are the same as in the dictionary by Birch and can be accessed on the dictionary’s accompanying CD.
+
+v
+
+MAPS
+The following maps give an indication of the traditional lands where the Giimbiyu languages were spoken. Map 1 is an approximation of the language area adapted from Birch’s (2006:5) dictionary of Giimbiyu. Map 2 is adapted from Harvey (2002:xiv) and gives Aboriginally defined language boundaries of the Gaagudju, Giimbiyu and surrounding languages. Map 1 Languages of Western Arnhem Land (adapted from Birch, 2006:5)
+Darwin
+Map 2 Aboriginally defined language boundaries of the East Alligator River region (adapted from Harvey, 2002:xiv)
+vi
+
+1. THE LANGUAGES AND THEIR SPEAKERS
+1.1. The Giimbiyu languages
+The three languages to be described and analysed in this sketch grammar, Urningangk, Erre and Mengerrdji, are most commonly classified as the Giimbiyu family. Traditionally, the three languages were spoken around the East Alligator River area of Arnhem Land, Northern Australia. None of the three languages are now in active use.
+
+While little classificatory work has been done on these languages, they have been regarded as one of more than the twenty non-Pama-Nyungan language families of Northern Australia (see Ethnologue website). An alternative name used for the group is Mangerrian family (Djayhgurrnga and Singh, 1989). As will be seen throughout the grammar, Urningangk and Erre are more closely related than Mengerrdji, taking into consideration lexical cognates, inflections and pronouns. The classifications published by Wurm and Hattori (1981) acknowledge these relations, giving a sub-family classification to Erre and Urningangk. Figure 1-1 shows these relationships, giving the language names published by Wurm and Hattori in brackets.
+
+Figure 1-1
+
+Giimbiyu language family classifications
+Giimbiyu (Mangerrian)
+
+(Mangerric) Sub-family
+
+(Urninganggic) Sub-family
+
+Mengerrdji (Mangerr)
+
+Urningangk (Urningangg)
+
+Erre (Ere)
+
+The name Giimbiyu comes from the Gaagudju language, meaning ‘associated with the rock country’ and is the term the Gaagudju people used to refer to these languages and their speakers (Harvey, 2002).
+
+7
+
+The three Giimbiyu languages all share territory borders; Mengerrdji lies to the north, including the town of Oenpelli, Erre to the west and Urningangk to the east (see Map 2).
+
+Typologically, they are prefixing languages, with morphologically complex verbs. Verbs take pronominal prefixes and tense/aspect/mood marking (which can be incorporated with pronominal prefixes). There are four different noun genders: masculine, feminine, vegetable and neuter, which are inflected in pronominal prefixes on verbs and as gender prefixes on adjectives and demonstratives.
+
+Neighbouring languages of the Giimbiyu family include:
+
+• Gundjeihmi • Kunwinjku • Gaagudju • Amurdak
+
+Dialects of Bininj Gun-Wok
+
+Evidence of the influence of these neighbouring languages, and others from further afield, such as Iwaidja and Mawng, can be seen in lexical borrowings.
+
+1.2. History
+The Giimbiyu languages have fallen into disuse through the last century. For some time, one language owner of Urningangk, Jacob Nayinggul, has been acknowledged as the last speaker of that language. Other owners of the Giimbiyu languages retain language knowledge, but are not active users of these languages (p.c. Bruce Birch).
+
+The development of the town of Oenpelli seems to have been the most important factor in the decline of these languages. As buffalo shooters came into the area in the early 1900’s, bringing with them tobacco, tea and other goods, different patterns of migration began amongst the neighbouring peoples of the Mengerrdji. Oenpelli attracted various groups with its western goods and the chance of education for their children (Djayhgurrnga and Singh, 1989). Eventually, Oenpelli became a linguistically mixed community where Kunwinjku was the lingua franca. While there is little record of how this community was accommodated by the traditional land owners, it is reported that “most of these tribes [of
+
+8
+
+the Oenpelli area] are now extinct through tribal and ceremonial quarrels caused by intrusion and women stealing” (Djayhgurrnga and Singh, 1989:18).
+Another important factor that affected many groups of indigenous people at the turn of the century was the introduction of European diseases. This is likely to have contributed to the decline in the number of Giimbiyu speakers.
+1.3. Previous Work
+Previous research on the Giimbiyu languages has been limited, despite early beginnings. The first published references to the Giimbiyu people were in Baldwin Spencer’s Native Tribes of the Northern Territory of Australia (1914), in which he notes them as being the neighbouring people of the Gaagudju. While either the language family or individual languages within Giimbiyu have been referred to in many linguistic and anthropological works on Northern Australia, few have carried out in-depth research. The main linguistic works that precede this grammar are word lists and grammatical notes by Arthur Capell, audio recordings of speakers by Joy Harris and Peter Carroll and later by Mark Harvey, and most recently, a dictionary with phonological and grammatical notes compiled by Bruce Birch, on the basis of the above materials.
+a) Capell’s lists and grammatical notes Around the 1940’s-1950’s, Capell carried out work on many languages across the Top End, including Giimbiyu, compiling word lists as part of his Arnhem Land Vocabularies. In addition to these, field notes made by Capell (undated) give some grammatical insight into aspects of Urningangk. These notes remain unpublished, probably because it is quite difficult to discern exactly what Capell’s observations were. The vocabulary pages are typed and the grammatical notes are all hand-written. There are hand written comments and corrections throughout including many notes scribbled in personalised Pittman’s shorthand, other symbols and a few lines in Ancient Greek. There are also many Urningangk words and phrases with no glossing. These notes consist of 32 pages. Their basic content can be outlined as:
+9
+
+- Several pages of vocabulary, cited with a demonstrative or initial of a demonstrative (which indicates gender)
+- Lists of first person-inflected verbs - Notes working from Capell’s ‘Methods for recording Australian
+languages’, giving small, incomplete paradigms - Suggestions as to pronominal prefixes for intransitive and transitive verbs - A pronoun table listing singular, dual and plural forms and the observation
+that these pronouns double as possessives - Two un-glossed stories, one hand-written page each, which remain
+untranscribed, and give no indication of their content
+Comparisons with later recordings show a degree of inaccuracy and code-switching in these transcriptions. For example, the number ‘two’ in the word lists is clearly the Urningangk (and Erre) form ungkubak (transcribed by Capell as oŋgobag) and in verb paradigms it is written as uŋgɛgɛg, which more closely resembles the Mengerrdji form ungkekek. Some genders which Capell gives alongside nouns have been inflected differently in recorded sentences, in which case I have relied on the recordings. Verb citation forms are also problematic as they often lack arguments in the case of transitive verbs and often don’t resemble those given in recordings. Suggestions for prefixes have been a useful guide, but again recordings were either insufficient to be able to confirm Capell’s notes, or differing forms contradicted his observations. In this case, I have relied on the recordings as transcriptions can be verified for accuracy at least phonetically. The short narratives have been of little use as a transcription is still beyond me. Despite these drawbacks, these notes have been a valuable resource and a starting point for this sketch grammar.
+b) Audio Recordings Dating from the 1960’s to the early 80’s, recordings were made by Joy Kinslow-Harris, Peter Carroll and Mark Harvey with speakers of the three languages, and these will be used as the basis of this sketch grammar. These recordings were made working from the Linguistic Materials for Fieldworkers in Australia guide issued by the Australian
+10
+
+Institute of Aboriginal Studies (now AIATSIS). They consist of elicited words and sentences. Short stories are also recorded for Erre and Mengerrdji, with an English version recorded after, but the language versions are yet to be transcribed. A full transcription was beyond the time scale of this project.
+These recordings, principally those by Harris and Carroll, are the basis for the dictionary and this sketch grammar. Audio references are given underneath each numbered example (see §ABBREVIATIONS and CONVENTIONS for the layout of these references).
+c) The Dictionary Another important document drawn on in this sketch grammar is the dictionary of the three languages compiled by Bruce Birch, A First Dictionary of Erre, Mengerrdji and Urningangk: Stone Country Languages. Birch draws on the recordings of the three languages, as well as some words from Capell’s lists, where comparable forms were attested in the recordings. In a comprehensive introduction to the dictionary, Birch gives notes on the phonology, specifying a five vowel system that I follow here, and a consonant inventory. He also notes the consonant-final tendency and the distinctive consonant clusters of the languages as well as the pattern of deletion of initial consonants. In a few notes on the grammar, evidence for noun genders is presented citing adjective gender marking and the problematic cases of the gender of bumb ‘dog’ and wukku(k) ‘water’. Finally, free pronoun forms for the three languages are presented.
+d) Other notes In terms of other publications related to the Giimbiyu languages, Mark Harvey has drawn on his field experience with speakers of Giimbiyu to relate these languages to neighbouring languages within Western Arnhem Land. An entry in Dixon’s (2002) Australian Languages: their nature and development based on Harvey’s work addresses the pronoun system in Giimbiyu, classifying it as a ‘number segmentable system’. Harvey (1999) also comments on the phonology of these languages, positing a six vowel system and geminate stops.
+11
+
+1.4. Sketch Grammar: scope and methodology
+The goal of this sketch grammar is to piece together the primary data and the various observations on the Giimbiyu languages and expand on these where possible. The result is a sketch grammar with many short-comings due to the limited archived sources, but hopefully it will be useful in describing aspects and interesting differences of a hitherto little-known language family of the linguistically diverse Top End.
+
+I have drawn on Birch’s dictionary for transcriptions, using Toolbox software to sort the data and Praat and Elan to check transcriptions and do some transcriptions of sentences not transcribed for the dictionary. I have also translated the short-hand notes in Capell’s field notes in an effort to salvage his observations and use them to guide and check my own conclusions that are based on the recorded data.
+1.5. Language Names
+In part due to the lack of published work on the Giimbiyu languages, there is a plethora of different spellings of each language name in the scattered literature. Some of these are a result of the phonologisation of the names in different languages, such as Wurningak used in Bininj Gun-Wok1. The various spellings I have encountered include:
+
+Giimbiyu Urningangk
+Erre Mengerrdji
+
+Geimbiyu, Geimbio, Gimbi-yu Uningangk, Urningangg, Wurningak, Unigangk
+Erreh, Arra, Erei
+Mangerr, Mengerr, Mangeri, Mangarryu, Mangaridji, Mangerei, Mennagi.
+
+1 Bininj Gun-Wok has very few vowel-initial words, except interjections, and does not allow a final ngk cluster (Evans, 2003).
+12
+
+2. PHONOLOGY
+
+2.1. Segmental phonemes
+
+There are 18 consonant phonemes spread over five places of articulation in the Giimbiyu
+
+languages. There are five stops, five nasals, a tap, three laterals and four approximants.
+
+There are five vowels, with no distinction for length. The phonemes of the Giimbiyu
+
+languages are outlined in Table 2-1 and Table 2-2 below. The phonetic symbol (IPA) is
+
+given for each phoneme and the standard orthography is given in brackets where
+
+different.
+
+Table 2-1 Consonant phoneme inventory
+
+Short Stop Nasal Tap
+
+Bilabial b
+m
+
+Place of Articulation
+
+Alveolar d
+
+Retroflex Palatal
+
+ɖ (rd)
+
+ɟ (dj)
+
+n
+
+ɳ (rn)
+
+ɲ (ny)
+
+r (rr)
+
+Velar g (k)
+ŋ (ng)
+
+Lateral
+
+l
+
+Approximant
+
+w
+
+ɭ (rl) ɻ (r)
+
+ʎ (ly) j (y)
+
+ɰ (h)
+
+Table 2-2 Vowel phoneme inventory
+
+Front ɪ (i)
+ɛ (e)
+
+Central ə (œ)
+a
+
+Back u
+
+The inventories are similar to those of other languages in the area. Bininj Gun-Wok, to the east, has 22 consonant phonemes, with the additions of long stops and a glottal stop (Evans, 2003). Gaagudju, to the west, has 17 consonants and no glottal stop (Harvey, 2002). The velar approximant is the most distinctive of the phonemes, with respect to typical Australian phoneme inventories, though such phonemes feature in other languages of North Western Arnhem Land. There is a velar consonant in the Iwaidjan languages, but there is still uncertainty as to whether it is best described as an approximant or fricative (Birch, 2006).
+
+13
+
+Vowels and consonants will be discussed in turn, giving justification for their suggested phonemic status and comments on their phonetic realisation.
+2.1.1. Vowel contrasts and realisations There are five phonemic vowels in all three languages. While there seems to be varying length for all vowels, with longer vowels appearing in stressed syllables or monosyllabic words, this does not appear to be contrastive. All five vowels are attested in stressed and unstressed syllables in all three languages.
+
+Across the data, the vowel phonemes represent the following phonetic realisations:
+
+Phoneme
+/i/
+/e/
+/a/ /oe/
+/u/
+
+Phones
+[i] [ɪ]
+[e] [ɛ]
+[a]
+[œ] [ə] [u] [o]
+
+Example [ib:a] [ɪpak] [jewərɰ] [ɛwɛk] [aja] [wœrk] [aɟampərkak] [uŋkubak] [oɭ]
+
+/ibba/ /ibak/ /yewoerrh/ /ewek/ /aya/ /woerrk/ /adjamboerrkak/ /ungkubak/ /url/
+
+‘what’ ‘wallaroo’ ‘(1/3m) dream’ ‘all’ ‘here’ ‘Red Lily Lagoon’ ‘full moon’ ‘two’ ‘blood’
+
+CE7A1 17:57 CE6B3 28:06 CU7B3 12:20 CU8A2 10:29 CU8A2 02:55 CE7A2 16:57 CU7B3 28:14 CU8A1 26:57 CU7B1 08:06
+
+Alternative transcriptions of the three Giimbiyu languages have used a six vowel system, including a second back vowel, /o/. However, there do not seem to be any minimal pairs that distinguish this as a separate vowel from the high back vowel /u/, despite the range of phonetic realisation ranging from [u] to [o]. Hence, where previous transcriptions use this vowel, my transcription here uses /u/. For example, the pronoun ‘you (2sg)’ [nuwu] nuwu has alternatively been transcribed as now and no:wu.
+
+2.1.2. Mid-front rounded Vowel
+
+/oe/
+
+The mid-front rounded vowel is an unusual member of the vowel phoneme inventory. Its
+
+place in the vowel space seems to range from mid-front [œ]to shwa [ə]. This vowel
+
+14
+
+occurs in monosyllabic words, such as yoedj ‘naval’ and in the stressed syllable (and unstressed syllables) of polysyllabic words, e.g., moenoemoenoew ‘they’ (3pl pronoun).
+
+There are no minimal pairs for this phonemic vowel. The following pairs, however, show
+
+the near minimal pairs for /oe/ with the other four vowels.
+
+u/oe (U)
+
+[jawuɭɰa] yawúrlha
+‘ full’
+
+[jewər] yewóerrh ‘1/3m dream’
+
+e/oe (M)
+
+[jerakal] yérrakal ‘moon’
+
+[ujərp] uyóerrb ‘close’
+
+i/oe (M)
+
+[jiraɻ] yírrar ‘like’
+
+[ujərp] uyóerrb ‘close’
+
+a/oe (E)
+
+[uɳuŋkaɲ] úrnungkany ‘blue-tongued lizard’
+
+[ajakœɲmak] ayakóenymak ‘take out (IMP)’
+
+2.1.3. /oe/ ~ /u/ speaker variation While all vowel phonemes are attested in stressed and unstressed positions in all three languages, there is a level of speaker variation in articulation of the rounded vowels /oe/ and /u/. The following examples show differing frontedness of the rounded vowel by two different speakers of Urningangk.
+
+(1) [muwuɲumun] U muwu-ny-umun
+1pl.incIRR.S-go-du We two will go. CU8A2 10:02
+
+(2) [muwuɲœmœn] U muwu-ny-umun
+1pl.incIRR.S-go-du We two will go. CU8A2 10:19
+
+15
+
+Such variation is also seen in Urningangk speakers’ articulation of the neuter prefix un-, which varies to a more centralised [œn], eg, [œnjerewemp] un-ye-rre-wemb ‘the dog bit my hand’. Mengerrdji also give [œnbek] un-bek as the neuter inflected ‘good’.
+2.2. Consonant contrasts and realisations
+As is common in Australian languages, there does not appear to be a phonemic voicing contrast in any of the languages. In terms of phonetic realisation, consonants tend to be voiced word-initially (e.g. [buɲi] /bunyi/ ‘blind’) and voiceless word-finally, either as part of clusters (e.g. [bump] /bumb/ ‘dog’) or individually (e.g. [ɟiɟit] /djidjid/ ‘fish’). Inter-vocalically, consonants tend to be voiced, yet some cases of voiceless and phonetically long stops suggest the presence of geminate stops.
+2.2.1. Geminate Stops Stop phonemes contrast at five places of articulation. For most places of articulation it appears that there may be a geminate series of stops. Particularly convincing cases for geminate stops are the peripheral stops, velar and bilabial. Where there is a singleton/geminate contrast, the distinguishing feature can be length or devoicing. Geminate stops have been observed in other languages of Arnhem Land, such as Jawoyn (see Evans and Merlan, 2004) and Bininj Gun-wok (Evans, 2003). Birch (p.c.) transcribes geminates in the Giimbiyu dictionary, based on auditory perception, as well as acoustical analysis. Harvey (1999) also posits that there are geminates in these languages.
+A clear example of a phonetically long voiceless stop can be seen in the following spectrograph of the word ebberewer ‘stomach’ (KH320B02 01:28).
+16
+
+5000 Hz Frequency
+
+0 Hz
+
+Total duration 0.673225 seconds
+
+The following are potential contrasts of stop length for the peripheral places of articulation.
+
+b/bb [ibak]
+
+E
+
+íbak
+
+‘wallaroo’
+
+[ɛb:ɛɻɛwɛɻ] ebbérewer ‘belly’
+
+k/kk [gagut]
+
+U
+
+kákud
+
+crow
+
+[wuk:u] wúkku water
+
+There is variation between speakers and languages for these tokens. Some listed above as geminates were not as clear for some speakers as for others. Generally, length did not appear to be as important as voicing in distinguishing geminate stops.
+
+The issue of long and geminate stop contrasts is an area that clearly requires further research, in Giimbiyu as well as many non-Pama-Nyungan languages.
+2.2.2. Nasals There are five nasals apparent in Giimbiyu, which are common for Australian languages. All five occur word-medially and word-finally. Three nasals (bilabial /m/, alveolar /n/ and velar /ng/ also occur word-initially (see §2.2.5 for examples of distribution). It is important to recognise and contrast the alveolar, velar and bilabial nasals due to their semantic importance in the morphology. The following pairs show the nasal contrasts.
+
+17
+
+n/ng U
+n/rn UEM
+n/m E
+ng/ny U
+
+[inaŋ] inang ‘that.m’
+[ɟanaɲk] djananyk ‘woomera’
+[ŋanabar] nganabarr ‘buffalo’
+[ŋaŋank] ngangank
+‘I speak’
+
+[iŋaŋ] ingang ‘that.f’
+[jaɳa] yarna ‘3mO/1sgA.see’
+[ŋamamin] ngamamin ‘I am walking’
+[waɲaŋk] wanyangk ‘left’
+
+2.2.3. Palatal Lateral /ly/ The palatal lateral /ly/ is often hard to distinguish from a lateral palatal-cluster [lj] in the Giimbiyu data. This is further complicated by unusual realisation word-finally. I have included this phoneme in the inventory based on phonotactic and acoustic analysis.
+The palatal lateral only occurs word-finally in the data. As word-final clusters are common in these languages, this position does not confirm its status as a single phoneme. Word-medially, there are instances of the cluster /l/+/y/, and yet not word-finally. It is unlikely that the word-final form is a cluster, however, as the lateral plus semi-vowel cluster rarely occurs due to the sonority hierarchy (see §2.3.5).
+Spectrographic evidence also suggests [ʎ] is a single phoneme, although rapid speech in the recordings makes it hard to distinguish. Tokens of this sound are given by different speakers. One in particular realises the phoneme with fricative release phrase-finally, but not medially. Other speakers also tend to fricate phrase-finally, but not to the same extent.
+The pattern of frication differs from the cluster /lh/ in that [ʎ] shows voicing through the release, while in spectrograms of the cluster, the fricative is voiceless.
+
+18
+
+lh / ly
+lɰ / ʎ E
+
+[jɛwølɬ] yewoelh ‘he is dancing’ CE6B2 11:00
+
+[imiʎ] ~ [imiʎh] imily ‘he will give’ CE7A2 07:15
+
+YewoelhE
+
+ImilyE
+
+It can be seen that the voicing bar drops out in the last segment of yewoelh while voicing
+
+is maintained throughout the frication in the last segment of imily.
+
+2.2.4. Velar approximant /h/
+The posited velar approximant is the most distinctive phoneme in the Giimbiyu inventory given the relatively rare status of this phoneme in Australian languages. Birch (2006) argues for this consonant being a fricative. Although there is variation across speakers in the articulation according to the segment’s environment (i.e. from [ɰ] to [x]), I have found that frication only occurs word-finally. The following examples demonstrate this variation in realisation.
+
+inter-vocalic word-final in cluster
+word-final
+
+[ɰ]~[V:] [ɬ]
+[x] [ɰ]~[ɣ]
+
+maharlh ‘back’
+yewoelh ‘he is dancing’ warrh ‘flower’
+wurrih ‘man’
+
+[maɰaɭɬ] ~[ma:lɬ] CE6B1 07:15
+
+[jɛwœlɬ]
+
+CE6B2 11:00
+
+[warx]
+
+CE7A1 11:35
+
+[wurɪɰ] ~[wurɪɣ] CE6B2 14:10
+
+The transcriptions above were made from my hearing of the tokens and checked using spectrograms. Inter-vocalically, no frication can be heard and formants are maintained with lower intensity from the surrounding vowels. In fast speech, there is a tendency for speakers to omit the approximant, instead articulating a long vowel. Word-finally, frication is heard in clusters, the place of articulation being shaped by the first consonant, hence a lateral fricative is articulated following the alveolar lateral. Where the
+
+19
+
+approximant follows a vowel word-finally, the consonant is hard to hear. There is some speaker variation affecting whether voicing is carried on to the approximant.
+
+The approximant does not occur word-initially but does appear syllable initially and in simple or complex codas. A minimal pair from Erre shows a tap + approximant as a separate cluster to a word-final tap.
+
+rr/rrh E
+
+[war] warr
+‘inside’ CE7A1 25:35
+
+[warx] warrh2 ‘flower’ CE7A1 11:35
+
+Velar approximants and fricatives are not unprecedented in Australian languages (see Evans, 1995). Phonetic velar fricatives are articulated in Bininj Gun-Wok (see Evans 2003), however, these are lenited allophones of the velar stop /k/ that occur in certain phonological conditions. There is some evidence from Amurdak (Handelsmann, 1991) for a phonemic velar fricative, as well as in Tiwi, Mawng and Iwaidja (Evans, 1995). Some Pama-Nyungan languages such as Arrernte also posit a velar approximant (Breen and Pensalfini, 1999).
+
+The following pair of words demonstrates an inter-vocalic contrast between the velar stop and the approximant in Urningangk, proving the approximant is not merely the lenited form of a stop.
+
+h/k
+
+[mereɰenk]
+
+mérrehenk
+
+U
+
+‘camp’
+
+CU8A1 16:27
+
+[degenk]
+dékenk ‘up; above’ CU8A2 22:07
+
+2.2.5. Summary of Phoneme Distribution
+The following table gives examples from Urningangk3 showing the distribution of each phoneme. The relative frequency of phonemes will be further discussed in §2.3.
+
+2 Warrh may be a borrowing from Iwaidja (also in Amurdak see Handelsmann, 1991:6). 3 I draw examples from Urningangk as this language has a larger number of lexemes recorded in the dictionary. Words from the other two languages are used where there is no Urningangk token.
+20
+
+Phoneme a
+b
+d
+
+Word-initial
+[alambaɻak] alambarak ‘sweat’
+[paʈajaŋkaɭ] bardayangkarl ‘kangaroo’ [degenk] dekenk ‘above’
+
+rd
+
+-
+
+dj
+
+[ɟanaɲk]
+
+djananyk
+
+‘woomera’
+
+e
+
+[ewek]
+
+ewek
+
+‘all’
+
+h
+
+-
+
+i
+
+[id:a]
+
+idda
+
+‘who’
+
+k
+
+[kamum
+
+kamum
+
+‘old woman’
+
+l
+
+[lajkuruŋ]
+
+laykurrung
+
+‘boy’
+
+rl
+
+-
+
+m
+
+[maɰaɭɬ]
+
+maharlh
+
+‘back (bone)’
+
+n
+
+[nawureɲ]
+
+nawurreny
+
+‘rainbow’
+
+oe
+
+[œŋeɲ]
+
+oengeny
+
+‘with’
+
+rn
+
+-
+
+ny
+
+-
+
+ng
+
+[ŋalepemp]
+
+ngalebemb
+
+‘younger brother’
+
+rr
+
+-
+
+Intervocalic
+[piɾipiɾ] birribirr ‘fighting stick’ [ita] ida ‘who’ E (idakM, iddaU) [wuʈumpur] wurdumburr ‘upper arm’ [uɟuɳ] udjurn ‘white ochre’
+[ŋantaɰaɟ] ngandahadj ‘father’
+[ŋaɭaka] ngarlaka ‘many(m)’ [marwalandj] marrwalandj ‘echidna’ [maɭiwajk] marliwayk ‘digging stick’ [manɟumiɳ] mandjumirn ‘rock wallaby’ [menewer] menewerr ‘today; now’
+[uɳiŋaŋk] Urningangk language name [ŋalɰuɲaŋalɰuɲ] ngalhunyangalhuny ‘billy goat plum’ [uŋeŋk] ungengk ‘smoke’ [uʈiɾilil] urdirrilil
+
+Word-final
+[aɟa] adja ‘where; when’ amayahub ‘hide’ (Capell)
+[ɟurmut] djurrmud ‘straight’
+[maŋaɭˌmuʈ] mangarlmurd ‘wife’s mother’
+[ɟalakaɽaɟ] djalakaradj ‘fish spear’ [ele] ele ‘liver’
+[wuriɰ] wurrih ‘man’ [bunji] bunyi ‘blind’
+[alampaɽak] alambarak ‘sweat’ [ariwel] arriwel ‘no’
+[ankuɭ] ankurl ‘thick(m)’ [welem] welem ‘food’
+[pan] ban ‘earth’
+[ŋanemœnœ] nganemoenoe ‘we’ (1pl.exc)
+[inɟipirŋuɳ] indjibirrngurn ‘daytime’
+[weɲ] weny ‘woman’ [lajkuruŋ] laykurrung ‘boy’ [mawar] mawarr
+
+21
+
+r
+
+[rawamun]
+
+rawamun
+
+‘whistling kite’
+
+u
+
+[unɟiɾl]
+
+undjirrl
+
+‘red ochre’
+
+w
+
+[weɲ]
+
+weny
+
+‘woman’
+
+y
+
+[jalŋ]
+
+yalng
+
+‘sand’
+
+‘finger nail’ [uɽujp] uruyb ‘ghost gum’
+[ɽawamun] rawamun ‘whistling kite’ [ŋejen] ngeyen ‘cooked’
+
+‘bush turkey’
+[ɛb:ɛɻɛwɛɻ] ebberewer ‘stomach’ [lindu] lindu ‘horse’
+[anɟamuwuɟaw] andjamuwudjaw ‘blunt.v’
+[inɟeɣewej] indjeheywey ‘sun’
+
+2.3. Phonotactics
+
+2.3.1. Phonological structure of the word
+Unlike many Australian languages, Giimbiyu words can begin and end with either a consonant or a vowel. The tendency is for words to be consonant final. The number and complexity of word-final clusters is a distinctive characteristic of these languages. This may be the result of final vowel-dropping and resyllabification.
+
+2.3.2. Minimal Word and syllable
+
+The data contain words ranging from one syllable to seven. Most words in the data have
+
+many syllables. Syllables can have the following structures:
+
+• V(word-initially) a.mi.na
+
+‘go away’ U
+
+• VC (word-initially) urn.me.yoerr ‘hand; finger UE
+
+• CV
+
+a.mi.na
+
+‘go away’ U
+
+• CVC
+
+a.lam.ba.rak ‘sweat’
+
+UEM
+
+• CVCC (word-finally) a.le.bemb ‘small’
+
+U
+
+• CVCCC(one token) ma.li.yarrngk ‘possum’ U
+
+The minimal words attested in Giimbiyu are monosyllabic. The range of structures for
+
+these words includes:
+
+• VC • CVC • CVCC
+
+im ‘eye’ U weny ‘woman’ UE bumb ‘dog’ UEM
+
+2.3.3. Word-initial phonemes
+
+All vowels and most consonants are attested word-initially. The exceptions are the retroflex phonemes /rd/, /rl/, /rn/, the tap /rr/, the palatals /ny/, /ly/ and the velar approximant /h/. There are no consonant clusters attested word-initially.
+
+22
+
+Figure 2-1 Word-initial Phonemes
+
+b
+
+d
+
+m
+
+n
+
+r (rr) l
+
+w
+
+ɖ (rd) ɳ (rn)
+ɭ (rl) ɻ (r)
+
+ɟ (dj) ɲ (ny)
+ʎ (ly) j (y)
+
+g (k) ŋ (ng)
+ɰ (h)
+
+To give an indication of frequency of word-initial phonemes, Table 2-3 gives the percentage of dictionary head word entries for each phoneme.
+
+Table 2-3
+Stop Nasal Lateral Approximant Vowels
+
+Frequency of word-initial phonemes
+
+Bilabial b 2.6%
+
+Alveolar d 0.2%
+
+Palatal dj 2.1%
+
+m 19.8%
+
+n 3.1%
+
+l 1.1%
+
+w 12.6% i 11% e 0.2%
+
+y 11.4% oe 0.7% a 9%
+
+Velar k 2.8% ng 9%
+u 11%
+
+Total 7.7% 31.9% 1.1% 25.2% 32%
+
+The most common word-initial phonemes are vowels (high and low, rarely mid-vowels), followed by nasals (/m/) and then approximants. The most common place of articulation is bilabial and the least common alveolar. This conforms to phonotactic patterns observed in Australian languages (Hamilton, 1995). The articulator continuum outlined by Hamilton (1989; 1995) shows that syllable onsets are most frequently peripheral (labial or dorsal) and syllable codas are most commonly apical.
+Figure 2-2 Articulator Continuum
+Labial > Dorsal > Laminal > Apical Hence word initial (and thus syllable onset) consonants conform to this continuum. The exception is the high percentage of palatal consonants (mainly approximants) which would be expected more frequently in the coda position.
+
+2.3.4. Word-final phonemes
+All phonemes (some only once) are attested word-finally. To give an indication of each phoneme’s frequency in the word-final position, the percentages of each word-final phoneme (in the Urningangk word-list) were calculated. Mengerrdji and Erre show similar patterns.
+
+23
+
+Table 2-4
+Stop Nasal Lateral Rhotic Approx. Vowels
+
+Frequency of word-final phonemes
+
+Bilabial b 9.4%
+
+Alveolar d 5.4%
+
+Retroflex rd 0.4%
+
+Palatal dj 4.7%
+
+m 6.2%
+
+n 5.4%
+
+rn 1.3%
+
+ny 3%
+
+l 5.8%
+
+rl 3%
+
+ly 0.4%
+
+rr 8.2%
+
+w 1.7%
+
+r 1.1%
+
+y 2.1%
+
+i 1.9%
+
+e 2.8%
+
+oe 0.2% a 4.3%
+
+Velar k 17.6% ng 1.5%
+h 2.4% u 1.7%
+
+TOTAL 37.5% 17.4% 19.2% 8.2% 7.3% 10.9%
+
+Stops are by far the most common word-final segment. The phoneme with the highest frequency was the velar stop /k/. According to the Hamilton’s observations, this is a preferred second segment for (word-medial) clusters in Australian languages, but alveolar segments are usually preferred word-finally. As will now be seen in §2.3.5, this phoneme is often the final segment of word-final clusters and may be explained by final voweldropping.
+
+2.3.5. Consonant clusters
+One of the striking features of the Giimbiyu languages is the range and frequency of consonant clusters. While such clusters are not uncommon in neighbouring languages, most surprising in these languages is the number of word-final (tautosyllabic) clusters (consonant clusters within the same syllable, e.g., an.ye.lenydj, u.rnunym). A total of 31 different combinations are attested. Heterosyllabic clusters (comprising the coda of one syllable with the onset of the next) in an intra-morphemic position total 37 combinations. For the majority, these clusters conform to both the sonority hierarchy and the ‘articulator continuum’. The sonority hierarchy (Figure 2-3) orders phones according to their sonority from left (most sonorous) to right (least sonorous). The most sonorous phone is the nucleus of the syllable, therefore final clusters should be composed of consonants decreasing in sonority (Carr, 1993).
+Figure 2-3 Sonority Hierarchy
+a > e,o >i, u > approximants > rhotics > laterals > nasals > fricatives > voiced stops> voiceless stops
+
+The word bumb ‘dog’ can be used to demonstrate the hierarchy. The vowel is the nucleus and most sonorous element. The onset /b/ is a stop and clearly less sonorous. The final
+
+24
+
+cluster is ordered nasal /m/ followed by a stop /b/, which represents a decrease in sonority.
+
+While Hamilton focuses on heterosyllabic clusters, positing that clusters are composed of a segment from the right of the articulator continuum followed by one from the left, this seems to hold for word-final clusters. For example, a cluster that adheres to this continuum is me.le.benb ‘small(v)’, in which the final cluster is ordered apical alveolar nasal /n/ followed by the bilabial stop /b/.
+
+For the majority of cases, Giimbiyu final clusters follow these parameters. The extensive range of word-final clusters, both homorganic and heterorganic, is presented in Table 2-5. Clusters in violation of the sonority hierarchy are marked with an asterik (*).
+
+Table 2-5
+
+Nasal
+
++ stop
+
+Word-final (Tautosyllabic) Consonant Clusters
+
+Bilabial [mp] /mb/ [np] /nb/
+[ɲp] /nyb/
+
+Alveolar [nt] /nd/
+[ɳt] /rnd/
+
+Consonant 2 Retroflex
+[ɳʈ] /rnd/
+
+Palatal [ɲɟ] /nydj/ [nɟ] /ndj/
+
+Lateral
+
++ nasal + stop + nasal
+
+[ɲm]
+
+-
+
+/nym/4*
+
+[lp] /lb/
+
+-
+
+[ɭp] /rlb/
+
+-
+
+-
+
++ approx. -
+
+-
+
+Tap
+Stop Approx.
+
++ stop + nasal + lateral + approx.
++ stop
++ nasal + stop + lateral
+
+[rp] /rrb/ [rm] /rrm/
+-
+[ɖp] /rdb/* [jp] /yb/ -
+
+[rl] /rrl/ -
+-
+[dn] /dn/* [jl] /yl/
+
+-
+[ɭʈ] /rld/
+-
+-
+-
+
+-
+-
+-
+[ɭj] /rly/*
+-
+-
+
+Velar [ŋk] /ngk/ [nk] /nk/ [ɳk] /rnk/ [ɲk] /nyk/ -
+[ɭk] /rlk/ [lk] /lk/ [ɭŋ] /rlng/ [lŋ] /lng/ [ɭɰ] /rlh/* [lɰ] /lh/* [rk] /rrk/ [rŋ] /rrng/
+[rɰ] /rrh/* -
+-
+
+Examples:
+[melebenp] melebenb ‘small’
+
+[mɛdbɛɻɛwøɲp] medberewoenyb ‘red bush apple’ (Not in M)
+
+[maɻwalanɟ] marrwalandj ‘echidna’
+
+[ŋamaɭj]* ngamarly ‘I will go’
+
+Consonant 1
+
+4 This is attested once in the Harvey tapes.
+25
+
+[degenk] dekenk ‘above’
+[imilp] imilb ‘hit’
+[ŋanmankalk] nganmankalk ‘cheeky’
+[wikurp] wikurrb ‘spear’
+[wuɰedbərŋ] wuhedboerrng ‘dark’ (Once in U)
+[bump] bumb ‘dog’
+
+[wulumaɳk] wulumarnk ‘fat’
+[majaɭp] mayarlb ‘leaf’
+[jɛwølɬ] yewoelh ‘He is dancing’
+[ŋalkuɻurk] ngalkururrk ‘sister’
+[ŋaniŋkuɖb] nganingkurdb ‘short’
+[balant] baland ‘white man’ (Only example)
+
+[ɟanaɲk] djananyk ‘woomera’
+[maɰaɭɬ] maharlh ‘back’
+[jɛwørx] yewoerrh ‘dream’
+[uɻujp] uruyb ‘ghost gum’
+[muɰaɭŋ] muharlng ‘sun’ (M only)
+[anjeleɲɟ] anyelenydj ‘younger brother’
+
+[uɳuɲm]* urnunym ‘white paint’
+[munadpaɭk] munadbarlk ‘shore’ (Once in U&M)
+[jalŋ] yalng ‘sand’
+[wuɻinkarm] wurinkarrm ‘fire’
+[mɛjl] meyl ‘not’
+[bedn] bedn ‘ripe’ (Once in M)
+
+[enɟeŋk] endjengk ‘armpit’
+
+[unɟirl] undjirrl ‘red ochre’
+
+[uwunmaɳʈ] uwunmarnd ‘foot’
+
+[wenɟøɭʈ] wendjoerld ‘egg’ (E only)
+
+As can be seen, many clusters are stop-final, as the sonority hierarchy predicts. The velar stop is the most common and which is predicted by the articulator continuum. The unusual clusters here include nasal + nasal /ny.m/, stop + stop /rd.b/, stop + nasal /d.n/
+
+and lateral + approximant /ɭ.y/. While these coda clusters show stability or movement from right to left along the articulator continuum, they do not decrease in sonority.
+
+26
+
+Consonant 1
+
+Table 2-6 Intra-morphemic (Heterosyllabic) Consonant Clusters
+
+Nasal
+
++ stop
+
++ nasal
+
+Lateral
+
++ approx + stop
++ nasal
++ approx
+
+Tap Stop
+
++ stop + nasal +approx
++ stop
+
+Approx + approx
+
+Bilabial [np] /nb/ [ɲp] /nyb/ [mp] /mb/
+[nm] /nm/ [ɳm] /rnm/ [lp] /lb/ [ɭp] /rlb/ -
+[ɭw] /rlw/
+[rp] /rrb/ [rm] /rrm/ [rw] /rrw/
+[ɖp] /rdb/ [tp] /db/ [ɟp] /djb/ [ɖt] /rdd/ -
+
+Consonant 2 Alveolar [nt] /nd/
+[ɳʈ] /rnd/
+
+Palatal [nɟ] /ndj/ [ŋɟ] /ngdj/ [ɲɟ] /nydj/
+
+-
+
+[ɭʈ] /rld/
+
+-
+
+[nj] /ny/
+
+-
+
+-
+
+-
+
+-
+
+-
+
+[ɭj] /rly/
+
+[lj] /ly/
+
+-
+
+-
+
+-
+
+-
+
+-
+
+[rj] /rry/
+
+[ɻj] /ry/
+
+-
+
+[tɟ] /ddj/
+
+-
+
+-
+
+Velar [nk] /nk/ [ɳk] /rnk/ [ɲk] /nyk/ [ŋk] /ngk/ [nŋ] /nng/ [ɲŋ] /nyng/
+[ɭk] /rlk/ [lk] /lk/ [ɭŋ] /rlng/ [lŋ] /lng/ [ɭɰ] /rlh/ [lɰ] /lh/ [rk] /rrk/ [rŋ] /rrng/ [rɰ] /rrh/
+-
+[jɰ] /yh/
+
+All intervocalic intra-morphemic clusters (Table 2-6) occur across syllable boundaries and hence are made up of a coda plus an onset. Again, there are many stop-final clusters. The final consonants (the onset of the second syllable) are skewed to the peripheral articulators, which is also in accordance with the articulator continuum.
+
+All of these clusters, word-final and inter-vocalic, are limited to two consonants. There is only one three syllable cluster attested thus far in the data, maliyarrnk ‘possum’ in Urningangk. Given the consonant final pattern of the Giimbiyu languages, it has been suggested that older forms were in fact vowel final (Birch, 2006). This theory is supported by the adaptation of loan words such as baland ‘white man’ from balanda, a common form in Top End languages. This pattern is also observed in near cognate words from neighbouring languages. Birch gives the example of the word for ‘the barb of a sting-ray’s tail’ which is mankimanki in Iwaidja and mankimank in the Giimbiyu languages. Another lexical example of final vowel-dropping is the verb ‘talk’ attested in all three languages with the root -ngank (ya-ngank 3mS-talkEM, nga-ngank 1sgS-talkUEM),
+
+27
+
+which resembles the widespread root -nganki, attested in Iwaidja, Mawng and Daly River languages (p.c. Nick Evans).
+Further evidence for the vowel dropping theory lies in the pattern of only single consonant codas word-medially and complex codas word-finally. If vowels had been dropped, heterosyllabic clusters may have been re-syllabified creating tautosyllabic consonant clusters.
+Overall, 56% of the heterosyllabic clusters overlap with tautosyllabic clusters, with many nasal+nasal, stop+stop or approximant-final clusters not appearing word-finally. These omissions may be explained by the lack of a vowel to cue a second place of articulation.
+The current sample also shows word-final clusters that do not appear word medially, such as [ɲm] as in urnunym ‘white paint’, [jl] meyl ‘not’, [ɭp] mayarlb ‘leaf’ and [ɭʈ] wendjoerld ‘egg’. With a larger sample size, it would be expected that the overlap would increase, however the fact that so many clusters have been retained may be related to the observation that final consonants are less likely to lenite in Australian languages than other languages (Harrington et al., 2004).
+2.3.6. Initial-consonant dropping Various phonological changes appear to be taking place with the word-initial phonemes in certain conditions, particularly /ng/ but also /j/ and /w/ in homorganic CV combinations.
+On forms elicited in isolation, initial consonant dropping has been observed on a noun in Erre but not for the cognate in Mengerrdji or Urningangk. The citation form for ‘meat’ was given as angankenykerl while the non-clause initial form conserved the initial consonant, ngayen ngankenykerl ‘cooked meat’. This pattern of consonant deletion at the beginning of a phrase is also present in the neighbouring Bininj Gun-wok dialect, Gundjeihmi (Evans, 2003).
+Semi-vowels in homorganic syllables, i.e. yi- or wu- are also difficult to hear in the data, especially phrase-initially. Words like im ‘eye’ in Urningangk were only attested phrase-
+28
+
+initially. The near cognate in both Erre and Mengerrdji is yim suggests there may be an underlying initial consonant. The language name Urningangk has also been recorded as Wurningangk, showing a similar pattern of consonant-dropping.
+
+2.3.7. Stress Stress is difficult to determine from the limited recordings and rapid speech of long words (i.e., many syllables). For the present analysis, I am taking stress to be indicated by amplitude.
+
+The stress patterns of Giimbiyu appear to be complicated given the absence of a ‘typical word’. While disyllabic words are the norm for Australian languages (Evans, 1995), these only make up a small part of the Giimbiyu word list.
+
+Morpheme boundaries affect the allocation of stress. In mono-morphemic words, the
+
+primary stress tends to be on the left edge. Where there is no onset (i.e., the word is
+
+vowel-initial) the stress may be on the second syllable. Prefixes cannot take primary
+
+stress, thus the left edge of the root takes the stress where there is inflection. Four syllable
+
+words can also have the primary stress on the third syllable. The few examples of longer
+
+words usually have complex morphology and it is difficult to determine their stress
+
+patterns. Where known, I have marked morpheme boundaries with a hyphen (-), which
+
+also double as syllable boundaries.
+
+Syllables 2 3 4
+5 6
+7
+
+Stress Either syllable. Usually first in mono-morphemic First or second
+Mainly first or third for monosyllabic, first of root when if inflected with prefix
+Third syllable (first of root) ?
+First syllablewith onset
+
+Examples
+e.mérr, ne-wémb, úk.ku, rú.ru
+wúrr.ki.yidj ‘root’ ngan.kény.kerl ‘meat’ u-wál.yem ‘n-broken
+né.ya.mu.hoerr ‘children’ u.we.rréb.bel ‘floodplain’ wan.yan.bán.yank ‘left’ wí.yin.ka.rrak ‘honey’ ya-hé.ya.moek, ‘blow’ wun-yá.ngan.bidj ‘3m-bark’
+nga-mern-déb.bern.dak ‘1pl-paint’
+nga.ne-moe.nóe-wu.mun ‘we two’ in.dju-woe.lék.ka.woe.rre ‘3f-white’
+a.báng.ku.wil.da.wel.yem ‘four’
+
+29
+
+2.4. Morpho-phonemics
+At these preliminary stages of the morphological analysis I have observed some morphophonemic rules affecting pronominal prefixes and verb roots. There seems to be cases of haplology (where a repeated segment is deleted) and lenition. Some observations on instances of reduplication are also discussed in §2.4.7.
+2.4.1. Pronominal prefix allomorphy: first person The initial-consonant dropping discussed in §2.3.6 is also apparent in the pronominal prefixes, as well as lenition of these consonants. Generally, the prefixes nga- 1sgS and ngan- 1O are used throughout the data. In Urningangk, however, it appears that there is a tendency for allomorphs wa- and wan- to be used in some environments. Repetitions of the verb ‘give’ in the form ‘You gave it to me’ produce such allomorphy. The first form produced is nuwu wen-d-iU [2sg 1sgO-2sgA-give], where the initial consonant is coloured by the 2sg free pronoun, and the second is ngeyeh ngen-d-iU [1sg 1sgO-2sgA-give], where the velar approximant in the 1sg free pronoun allows for the ng initial consonant. Thus, this suggests the variation can be explained by the place of articulation of the preceding segment.
+
+Other examples are not so easily accounted for. For the following forms, where the word is attested in a phrase, the preceding word is given in brackets and an asterisk indicates that the form is phrase initial. This demonstrates that the variation is not merely a phrase initial tendency as was the case in some examples in §2.3.6.
+
+Erre
+
+Urningangk
+
+(3)
+
+*nga-rliying
+
+*wa-rliying
+
+1sgS-fall
+
+1sgS-fall
+
+(4)
+
+(bumb) an-ye-wemb (bumb) wan-ye-wemb
+
+1sgO-3mA-bite
+
+1sgO-3mA-bite
+
+(5)
+
+-
+
+(bumb) wan-y-arna
+
+1sgO-3mA-see
+
+(6)
+
+(nuwuk) ngan-ya- (nuwuk) wan-ya-ngoend
+
+ngoen-oemun
+
+1O-3mA-give
+
+1nsO-3mA-give-du
+
+(7) *an-yarn-iweyah-amun
+
+-
+
+1O-see-recip-du
+
+Mengerrdji (ngab) nga-rliying
+1sgS-fall (bumb) ngan-ye-wemb
+1sgO-3mA-bite -
+-
+-
+
+30
+
+These examples could be explained by a rule that in Urningangk the 1sgS allomorph wais used before a /ɭ/-verb root. In the case of the 1sgO prefixes, wan- is used before a 3mA prefix ya-5. There is also phonological variation affecting the first person object in Erre, yet not as consistently. Examples (4) and (7) suggest that the allomorph an- can be used before the 3mA ya-/ye-, however this does not occur in the similar environment of example (6).
+2.4.2. Pronominal prefix allomorphy: 3m ya- / yeThe third person masculine prefixes in the data are attested as ya- or ye-. Which one is used depends on the first vowel of the verb root. With two exceptions in Mengerrdji6, the ye- allomorph is used before a mid vowel (/e/ or /oe/) in the verb root, eg, ye-woelh ‘I dream about him’. The alternative ya- is used exclusively for high or low vowels (/i/, /a/ and /u/), eg, ya-hule ‘He is sick’.
+
+2.4.3. ya- Haplology
+Throughout the data there is a pattern of 3m ya-/ye- subject prefixes to be zero marked where their inclusion would result in duplication, *yaya. The verb ‘stand’, for example, has the root -yandj, as in nga-yandj ‘I stand’UE. The 3m prefix ya- can be seen in examples such as ya-ngank ‘He speaks (fast)’ when compared with nga-ngank ‘I speak (Erre)’. Example (8) shows the 3m-inflected form of the verb ‘stand’, demonstrating the zero pronominal marking.
+
+(8) Uwunbul
+
+adja meheb Ø-yandj.
+
+U
+
+%ya-yandj%
+
+old.man
+
+but still? 3mS-stand
+
+He is an old man, but he is still alive.
+
+CU8A2 26:00
+
+Hence, the underlying form would be %ya-yandj%. There are examples of this in all three languages.
+
+The same does not seem to be the case for 3m objects (also ya-/ye- in form) in Urningangk and Erre. In one example from these two languages (example (9)), the 3m
+5 There is also one instance of a wa- prefix in Erre wa-mab ‘I have something’, but this doesn’t follow the pattern in Urningangk. It is more likely that this is a variant form of the 3mO prefix ya-. See §6.1.2. There are no other examples that suggest that this is a common morphophonemic change. 6 Ye-wurlhe yerrakal ‘full moon’ KH320B18 00:47 and Bumb ye-kurrl? ‘Is your dog dead?’ KH320B22 00:58 were the only two examples to show this allomorph with the /u/ vowel in the root of the verb.
+31
+
+object prefix is overtly marked directly on the verb root, after the plural agent. The yeallomorph is used, avoiding complete reduplication at the root boundary.
+
+(9) Nuwuk mun-ye-yahab.
+
+U 3m
+
+3plA-3mO-bury
+
+They buried him.
+
+CU7B1 26:11
+
+The Mengerrdji form given for this phrase (see example (11)) appears to show a form of haplology and will be discussed in the next section.
+
+2.4.4. y:dj Alternation (or Haplology?) Verb roots beginning with y alternate with dj depending on the directly preceding pronominal prefix.
+
+The first scenario is where the prefix ends in a palatal stop. At such morpheme boundaries, the two palatal consonants are reduced to a palatal stop. The verb mentioned above, ‘stand’, is also attested with the full feminine intransitive prefix indj(a)-, giving the inflected form indjandj ‘She is standing’. One analysis of this phenomenon is that the y- has been ellipted, and the underlying form is %indj-yandj%. The alternative is that this is another case of haplology, assuming the prefix is vowel final (i.e., 3fS is indja-), and the underlying form is %indja-yandj%. In this case the sequence *dja-ya is disallowed and reduced to dja.
+
+Another environment for alternation of the y-initial root with dj- is when a nasal in the prefix directly precedes the root. The following pair of examples from Mengerrdji show the y-initial root with one prefix (example (10)), and the dj- root with a nasal in the prefix (example (11)).
+
+(10) Bumb ngankenykerl na-yahab. (11) Munoeny-Ø-djahab.
+
+M dog meat
+
+3m/3m-bury M 3plA-3mO-bury
+
+The dog buried the meat.
+
+They buried him.
+
+KH320B10 00:13
+
+KH320B10 00:05
+
+32
+
+In (11), the underlying verb form is %munoeny-ya-yahab%. The first morpho-phonemic process is that of haplology, thus it becomes %munoeny-Ø-yahab%. Finally the preceding palatal nasal conditions the y to harden to a stop, thus munoeny-Ø-djahab.
+
+The case of an inter-morphemic n-y combination only occurs between prefixes, such as the example in-ya-mab [3fO-3mA-have] ‘married man’ (lit. He has a woman). Thus, hardening from y to dj only applies at the verb root boundary.
+2.4.5. k:h Alternation While a near minimal pair in §2.2.4 showed that /k/ and /h/ are distinct phonemes, Erre shows they can vary in the following conditions.
+
+Erre
+
+/k/
+
+(12)
+
+ngan-kurl
+
+m-big
+
+(13)
+
+ngan-me-kanykule
+
+3fA-IRR-rub
+
+/h /
+an-ma-hurl v-?v-big
+ma-Ø-ma-hanykule 3vO-1sA-IRR-rub
+
+The examples above show that /k/ and /h/ are in morpho-phonemic variation. It would be expected, given the precedents of neighbouring languages, that the stop lenites to an approximant or fricative inter-vocalically7. In Erre, however, these sounds do not have a complementary distribution. There are examples of /k/ occurring in similar environments to those given for /ɰ/ above (i.e., a_a: yerrakal ‘moon’UEM and a_u: kakud ‘crow’UEM). The approximant is also attested in the environment given above (example (13)) for the stop, e_a, aweha ‘over there’. That said, it does not occur in these environments in any verbal forms. Thus a possible rule for this variation could be:
+a) k Ѝ h root-initially, after /a/
+Or b) h Ѝ k root-initially, after /e/ or a consonant
+
+The more likely case is a), given a tendency in the region and within these languages for lenition (see §2.3.6).
+
+7 This is the case in Amurdak and Bininj Gun-wok, particularly in the environment a_a.
+33
+
+2.4.6. h:w Alternation There is evidence in all three languages of Giimbiyu for allophonic variation between the velar approximant /ɰ/ and /w/ in verbal forms.
+
+‘be sick; suffer’ UE
+
+/h / ya-huleUE 3mS-sick
+
+/w/
+nga-wuleUE 1sgS-sick
+
+indju-wuleU 3fS-sick
+
+‘cut; cut off’ UEM
+
+un-ya-hanybarlUE 3nO-3mA-cut
+
+na-wanybarlU 3m/3m-cut
+
+ma-Ø-ma-hanybarlUE u-Ø-wanybarlM
+
+3vO-1sgA-IRR-cut
+
+3nO-1sgA-cut
+
+‘know’ U
+
+ya-Ø-hilU 3mO-1sgA-know
+
+u-rdu-wilU 3nO-2sgA-know
+
+There are no obvious conditions that clarify what determines which variant is used, yet consistent patterns of variation are demonstrated across the languages. All forms except one (mamahanybarlUE) suggest the approximant is used after the 3m prefix ya- in either the S or A position. Alternatively, verb roots preceded by the back vowel /u/ always seem to take the /w/ form. This root form also occurs after prefixes containing alveolar and velar nasals. The conditioning by the preceding vowel seems to be the more likely scenario, however, the nasal conditioning is doubtful.
+
+Another analysis of this alternation, given more verbal forms, may reveal mutation such as has been observed in Iwaidja (Evans, 1998; Pym and Larrimore, 1979). The few isolated cases of root alternation cited here (including those to be discussed in §2.4.4 and §2.4.5) do not demonstrate clear environments stimulating the phonological change and could be influenced by an underlying ‘big K’-like prefix. In Iwaidja, the underlying ‘big K’ causes root-initial consonants to harden.
+
+34
+
+2.4.7. Reduplication There is little systematic reduplication seen in Giimbiyu data. The ‘segmentable pronouns’ (to be discussed in §4.2.1) use some reduplication in forming the third person plural pronoun, moenoe-moenoew ‘they’. Some adverbs appear to reduplicate to show intensification, such as mahamaha ‘fast’ in Erre, also given as maha in Urningangk and Mengerrdji. There is one case of partial reduplication of an adjective in Mengerrdji. The adjective ang-kardamal-amal ‘m-long’ shows partial reduplication as compared with cognates in Erre and Urningangk. This may intensify the adjective, giving the sense ‘very long’. A few nouns also show reduplication. The word for ‘billy goat plum’(14) appears to repeat the segment ngalhunya, deleting the final vowel word-finally. (14) Ngalhunya-ngalhuny U ‘billy goat plum’
+CU8A1 24:10 This is also the case with the example cited in §2.3.5 of mankimank ‘barb of stingray’s tail’ that was compared with the Iwaidja cognate mankimanki.
+35
+
+3. PARTS OF SPEECH
+The three open word classes in Giimbiyu are nouns, verbs and adjectives. While verbs will be dealt with in one chapter (§6), the other two classes will be discussed along with smaller word classes under the functional headings of nominals (§4) and modifiers (§5). The following tree diagram shows the parts of speech with the open classes in bold and closed classes in italics.
+Parts of Speech
+
+Verbs
+
+Nominals
+
+Modifiers
+
+Nouns
+
+Pronouns Demonstratives Adjectives Quantifiers Adverbs
+
+Personal
+
+Interrogatives
+
+While many of these word classes do not fit neatly under the three functional chapter titles, they have been organised according to their most common function.
+3.1. Nominals
+Nominals in all three Giimbiyu languages can be divided into the sub-classes of noun, personal pronoun, demonstrative and interrogative. Adjectives, while often classified as a subclass of nominals, will be considered separately due to their many differing properties.
+3.1.1. Nouns The open word class of nouns is relatively simple in form. Nouns are neither inflected for class nor core cases, but are attested with locational and instrumental enclitics. Nouns are specified for one of four genders, which are inflected on dependent adjectives or demonstratives and in the pronominal prefixes on the verb: masculine, feminine, vegetable and neuter. The following are Urningangk examples of each gender.
+
+36
+
+Masculine wurrih
+‘white man’
+
+Feminine weny
+‘woman’
+
+Vegetable welem ‘food’
+
+Neuter yuwurrk ‘wind’
+
+The semantic principles governing membership of genders is hard to generalise. Some nouns (e.g., bumb ‘dog’) have been observed to switch between noun classes. While this is not unprecedented in languages that mark four genders, not many nouns have this property.
+
+3.1.2. Pronouns
+Personal pronouns in the Giimbiyu languages are presented as free pronouns (§4.2.1) or as bound pronouns that are integrated with the verbal morphology (§6.1). While the bound pronouns are obligatory, the free pronouns appear to be optional. Singular free pronouns have a separate form to non-singular pronouns. Generally, non-singular pronouns can be segmented into a person and optional number marker (dual, trial or unspecified plural suffix) based on a central ‘plural’ core morpheme. There is some variation across the three languages.
+
+Free form pronouns are invariant for core and possessive roles.
+3.1.3. Demonstratives Demonstratives can be divided into ‘this’ and ‘that’ demonstratives and spatial demonstratives; the former can be used both adnominally (e.g., inang wurrih ‘that man’) or pronominally (e.g., inang ‘that [man]’). All demonstratives distinguish between proximal and distal forms. As they are dependent on a noun, they are marked for one of the four genders. While Urningangk and Erre show great similarity across demonstratives, Mengerrdji shows some differences, such as the use of the determiner ‘one’ for distal demonstratives. They can also have a copula function in non-verbal clauses.
+3.1.4. Interrogatives There is a set of interrogatives that varies across the three languages. Interrogatives occur phrase-initially in information questions and act pronominally.
+
+37
+
+3.2. Modifiers
+The three word classes discussed in this chapter all have the primary function of modifying either nominals (adjectives and quantifiers) or verbs (adverbs).
+3.2.1. Adjectives Adjectives are predominantly used to modify an overtly marked noun or pronominal element. They can also act as predicates in verbless clauses. Like demonstratives, adjectives are inflected with a gender prefix showing agreement with the argument they modify. Though inflected for gender, adjectives do not inflect for number. Across the three languages the forms of the class prefixes show great similarity.
+3.2.2. Quantifiers Quantifiers are similar in function to adjectives as they act adnominally, yet generally numbers do not inflect for gender. They are also attested acting pronominally.
+3.2.3. Adverbs The few adverbs in the corpus show different form and function to other classes. They do not inflect for any referents of the verb but do appear to show reduplication in their form.
+3.3. Verbs
+Giimbiyu languages have complex verbal morphology. The slots I have identified on the verbal word include:
+(MISC) (Object) Subject (DIR)(IRR) (IO) root (REFL/RECIP) (number)/(IMP)
+Arguments must be marked on the verb. TAM marking may be marked as a prefix or by a separate portmanteau pronominal prefix. Imperative marking takes a different prefix and uses a word-final suffix. There is some evidence for reflexive and reciprocal suffixes but more data would be required to confirm these isolated observations.
+38
+
+3.4. Other Parts of Speech
+3.4.1. Interjections Interjections are single words that can consititute an entire utterance along. These are addressed in §7.7.
+3.4.2. Conjunctions Conjunctions include adja ‘and’ and arrangk ‘because’. The conjunction ‘and’ can conjoin nouns or phrases. These will be discussed in relation to their function in the syntax section (§7.8.1).
+3.4.3. Semblative Particle irrar ‘like’ The particle irrar links nouns to show similarity. This is discussed in relation to simple clauses in §7.5.
+3.4.4. Enclitics There are two enclitics attested, =emerr attaches to expressions of location, temporal and spatial, the other, =oengeny, functions as an instrumental enclitic. They are both prosodically integrated with the word they attach to. These enclitics generally attach to nouns or the right element of the nominal group. =emerr is also attested with citation forms of the adjectives ‘good’ and ‘bad’. This will be discussed in §7.1.1.
+39
+
+4. NOMINALS
+In this chapter I will discuss the nominal subclasses, outlining gender agreement issues, differences in form of the subclasses and the varying functions of these words. Finally, the idea of a ‘Nominal group’ will be discussed in §0.
+
+4.1. Nouns
+The open word class of nouns is relatively simple in form. Nouns are specified for one of four genders: masculine, feminine, vegetable and neuter. As a rule, nouns are monomorphemic, neither inflecting for gender nor case. The exception is the use of enclitics in some expressions of location and instrumentality. These will be discussed in relation to the nominal group.
+
+4.1.1. Noun Genders
+Giimbiyu has four genders that determine how nouns are tracked by adjectives, demonstratives and pronominal prefixes. Similar four class noun systems are widespread in Australian languages, particularly in Western Arnhem Land. In Giimbiyu there are no overt gender markers on the nouns themselves. Some common nouns from each gender do show initial syllables that resemble gender prefixes, such as manmuhu ‘tree’ and the vegetable gender prefix man- and ngankenykerl ‘meat’ and the masculine gender prefix (ng)an-, however, these are isolated examples. Table 4-1 shows a few words attested for each gender.
+
+Table 4-1 Noun genders
+
+Masculine wurrih (man), mandjawak (knife), ngankenykerl (meat), bumb (dog)
+
+Feminine weny (woman), indjeheywey (sun), inkuluwuk (young girl)
+
+Vegetable yikurrb (spear), wurrinkarrm (wood; fire), yim (eye)
+
+Neuter
+
+yalng (sand), baland (English language), yurnmiyoerr (hand; finger)
+
+Gender membership has been derived from the surrounding inflected forms of adjectives and bound pronouns.
+
+40
+
+It is difficult to distinguish semantic groups that lie neatly within these genders. Natural semantic genders are used, as in human males are masculine gender and female humans are feminine gender. One exception to this rule is the word neyamuhoerr ‘baby’ that is always masculine. This is also the case in Gaagudju (Harvey, 2002). The only nouns attested thus far in the feminine gender are human females and Capell has listed some animals as feminine. Drawing on Capell’s lists (which indicate the inflected demonstrative used with each noun), some generalisations about gender membership can be made, such as that most animals are masculine and most plants are vegetable. Other semantic groups such as body parts, natural features and weapons are spread across masculine, vegetable and neuter genders. According to Capell’s notes, for example, terms for facial features include arawirrm ‘hair’ (vegetable), yilihaw ‘forehead’ (neuter) and mangkar ‘cheek’ (masculine). Similar variation can be seen for natural land and weather features where inyah ‘rain’ is masculine while mirirrm ‘cloud’ is vegetable. These examples show that speakers had a clear concept of noun genders but the means by which they were derived has not been recorded.
+
+From these sketchy generalisations, noun gender membership in the Giimbiyu languages appears to be congruent with that of neighbouring languages. In Harvey’s (2002) grammar of Gaagudju, a language bordering both Erre and Urningangk country, he lists general semantic fields that fall within the four noun classes. I have compared these to Giimbiyu noun genders.
+
+Table 4-2 Gaagudju and Giimbiyu Noun Genders
+
+Gaagudju
+
+Giimbiyu
+
+I
+
+Human males, most animates,
+
+Human males, most animates, some
+
+[m] European material objects, rain. body parts, rain, moon, whirlwind,
+
+thunder
+
+II
+
+Human females, some animates Human females, some animates, sun
+
+[f]
+
+III
+
+Plants and their parts, weapons
+
+Plants and their parts, some weapons,
+
+[v]
+
+some body parts, fire
+
+IV
+
+Abstract entities, body parts, fire, Some body parts, geographical
+
+[n]
+
+geographical features, temporals. features, some trees.
+
+(adapted from Harvey, 2002:149)
+
+41
+
+These genders are normally inflected with prefixes such as (ng)an- on adjectives dependent on a masculine referent, e.g., an-biyamoeloel wurrih [m-good man] ‘good man’, and feminine referents are indicated by the prefix in-, e.g., weny in-biyamoeloel [woman f-good] ‘good woman’. (See §5.1.1 for full discussion of gender inflections on adjectives and §6.1 for pronominal prefixes on verbs).
+
+While gender will be discussed in relation to the parts of speech that inflect for it, Table 4-3 summarises the gender prefixes across these word classes.
+
+Table 4-3 Gender Inflections across word classes
+
+Adjectives
+
+Demonstratives S-prefixes
+
+IO
+
+m (ng)an-
+
+-n-
+
+ya-/ye-
+
+nu-
+
+f in-
+
+-ng-
+
+indja-
+
+yu-
+
+v man-
+
+-m-
+
+mandja-
+
+yu-
+
+n un-
+
+?
+
+u-
+
+-
+
+Some nouns are attested as with various genders in other languages from the western Top End (Evans, 1997; Harvey, 2002). There are three cases of this in the data in the use of ‘water’, ‘dog’ and ‘firewood’.
+
+In Mengerrdji, the word for ‘water’ wukkuk, seems to behave as neuter gender in most cases (as in the other languages), however in one utterance it seems to be vegetable gender.
+
+(15) Mandj-arniwarrk wukkuk.
+
+M 3vS-flow
+
+water
+
+The water is flowing.
+
+KH320B17 00:57
+
+(16) wukkuk un-Ø-yey M water 3nO-1sgA-drink
+[I] drink water KH320B04 00:32
+
+Example (15) has water in the semantic role of a feature of the landscape, which contrasts with sentence (16), where water is the object of drinking and is marked as neuter gender. Another example of vegetable inflection for water was in the expression for ‘full tide’ mandja-rliying8 wukkuk, again this would suggest the landscape reading of ‘water’. As being considered part of the landscape, water is referred to in the same class as trees and
+
+8 This verb root is homophonous with the verb ‘fall’. See examples (78), (79) and (80).
+
+42
+
+plants, i.e., the vegetable class. Evans makes similar observations for the agreement of ‘water’ in Kunwinjku (2003) . This does not seem to be the case in Urningangk, where ‘flowing’ takes the neuter prefix, u-rnimak. In Erre there are no examples of water as part of the landscape.
+
+Another example of gender ambiguity is the (usually) masculine noun bumb ‘dog’. In (17), the verb is inflected for a masculine object while the adjective is inflected for neuter gender. Example (18) clarifies the regular pattern of masculine inflection for bumb.
+
+(17) Bumb ya-Ø-mab
+
+wun-biyamoeloel.
+
+U dog 3mO-1sgA-have n-good
+
+I have a good dog.
+
+CU8A2 18:12
+
+(18) I-n-ang
+
+nuwu bumb wan-ye-wemb.
+
+U DEM-m-DEM 2sg dog 1sgO-3mA-bite
+
+Your dog bit me.
+
+CU8A2 21:42
+
+A masculine inflected form of the adjective ‘good’ appears elsewhere as an-biyamoeloel and a neuter object is also attested with the verb ‘have’ wu-mu-mab [3nO-IRR-have], confirming the analysis of these inflections. The utterance given in Erre and Mengerrdji both correspond to the inflections given above in Urningangk. It seems to be a regular rule that ‘dog’ inflects for masculine on verbs and neuter on adjectives.
+
+A further ambiguous case occurs with the vegetable noun wurinkarrm ‘fire’. The regular
+
+inflection for this noun is exemplified in example (19).
+
+(19) wurinkarrm ma-Ø-yenkadjem.
+
+E fire
+
+3vO-1sgA-extinguish
+
+I am putting out the fire.
+
+CE7A1 21:44
+
+(20) Wurinkarrm uw-ahan.
+
+U&E fire
+
+3nS-burn
+
+The fire is burning.
+
+CU7B3 20:00
+
+An intransitive phrase with ‘fire’ as the subject (E and U), example (20), inflects a neuter subject on the verb uw-ahan ‘burn’9. It is unclear why these examples should inflect differently.
+
+9 This is the only attested form of this verb, hence the morpheme boundaries are unconfirmed.
+43
+
+A common loan word across Arnhem Land, balanda, baland in the Giimbiyu languages, is also attested for different genders due to its polysemous meanings; it is inflected as masculine where there is a male human referent, i.e., a European man, and neuter when it refers to the English language.
+While there are not enough examples to propose a hypothesis as to why these changes occur, it is helpful to look to Mawng, where there are many circumstances under which nouns can change gender (Singer, unpublished). In the cases of the three Giimbiyu words given above, there may be issues of animacy playing a role in the allocation of gender. In the case of bumb, the neuter inflection may be related to a need to distinguish the dog as a less animate referent.
+4.1.2. Semantic and syntactic roles of arguments There appears to be no marking of core cases in the three languages of the Giimbiyu family. While extensive case-marking is common among Pama-Nyungan languages, neighbouring non-Pama-Nyungan languages have been noted to have few cases (eg, Ndjebbana, see McKay, 2000), indeed there are none in Iwaidja (p.c. Nick Evans). The limited case-marking in surrounding languages indicates location/direction, instrument and semblative roles. While semblative phrases use a separate particle in Giimbiyu (see §7.5), these languages draw on two enclitics that serve instrumental and general locational functions (see §7.1.1).
+4.2. Pronouns
+Personal pronouns in the Giimbiyu languages are divided into free pronouns and bound pronouns. While the bound pronouns are obligatory marked, the free pronouns appear to be optional. As bound pronominal prefixes are an integral part of verbal morphology, they shall be discussed in that chapter (§6.1).
+44
+
+4.2.1. Free Pronoun forms
+Free pronouns are a set of phonologically separate words that make a four-way person distinction in the singular: first person, second person, third person masculine and third person feminine. In the plural forms, there is no gender distinction in the third person pronouns. There is a single set of free pronouns as they do not inflect for case. When referring to core arguments, they seem to play an emphatic or disambiguating role.
+
+All pronouns given in the data of the three Giimbiyu languages are given in the table below. Table 4-4 also allows the close relationships between the three languages.
+
+Table 4-4 - Free Pronoun Forms
+
+Singular
+1. inc
+
+Dual ngarrk-amunU nuwu-ngeyehE ngarrk-umunM
+
+1. ngeyehUE exc ngabM
+
+2
+
+nuwuUEM
+
+3m nuwukUEM
+
+3f ngadjUEM
+
+ngane-moenoe-wumunUE ngard-bumunM ini-moenoe-wumunUE irr-bumunM moenoe-moenoe-wumunUE murr-bumunM
+
+Trial ngarr-ngundjE
+
+Plural ngarrhUM
+
+ngane-moenoe-wungundjE ngane-moenoewM
+
+ini-moenoe-wungundjUE
+
+ini-moenoeUM
+
+moenoe-moenoe-wungundjE moenoe-moenoew UEM
+
+While many languages of the region use a minimal/augmented pronoun system (e.g.,
+
+Bininj Gun-Wok (Evans, 2003), Ndjébbana (McKay, 2000), Gaagudju (Harvey, 2002)),
+
+the Giimbiyu languages do not adhere to this framework. This can be said as the first
+
+person inclusive form (i.e., the speaker and the hearer) is of the same form as any other
+
+dual pronoun. Plural forms of the Giimbiyu languages make many number distinctions
+
+including a trial form, and form what Dixon (2002:246) calls a ‘number-segmentable
+
+pronoun system’. Dixon lists the first and second person Giimbiyu forms (based on
+
+Harvey’s notes) as:
+
+1sg
+
+2sg
+
+ŋayg/ nu ŋab
+
+1n-
+
+1n-
+
+sg.inc s.exc
+
+ŋarrga- ŋani-
+
+2n-sg ini-
+
++pl
+-minu/ -mun
+
++du PL+wumun
+
++trial/ paucal
+-
+
+(Dixon, 2002:247)
+
+45
+
+The transcriptions given here are slightly different to what is in the data, notably the second singular pronoun (nuwu in my data) and the vowels given for the plural marker. The blank box left for trial forms should also be completed, with the trial suffix –ngundj. Focusing on the non-singular forms, I propose the following breakdown of the ‘segments’ of the pronoun system.
+
+1ns.inc
+
+1ns.exc 2ns 3ns
+
+Plural +du
+
++trial
+
+ngarr(ka)- ngane-
+
+ini- moenoe- moenoe -(w)umun/ -amun
+
+-(wu)ngundj
+
+There is some cross-linguistic variation, as indicated by variant forms above. Bracketed forms are used after vowels.
+
+There are quite a few pronominal forms not explained by the segment analysis. None of the Erre first person inclusive (1inc) forms contain the regular plural morpheme. The dual form is particularly different as it seems to combine the 1sg and 2sg pronouns rather than form a dual pronoun along the structural lines of the other languages10. Mengerrdji dual forms also omit the central plural morpheme.
+
+The dual and trial suffixes seen above are also used with bound pronouns, suffixing to the verb. These are attested for intransitive phrases, where the subject is dual or trial, and for transitive phrases where the object is dual or trial. There are no attested examples of dual or trial agents in the data.
+
+Giimbiyu also has separate number terms (see §5.2) which are often used in addition to the pronoun. For example:
+
+(21) I-n-ang
+
+ungkubak
+
+U DEM-m-DEM two
+
+Those two are fighting.
+
+CU7B1 30:13
+
+muny-uwoeny-oemun 3plS-fight-du
+
+10 The Iwaidja 1du.inc is also formed in this way (see (Pym and Larrimore, 1979)).
+46
+
+Amurdak also has such number markers, although Handelsmann suggests these have arisen recently through the incorporation of the number-marking enclitics (1991).
+
+4.2.2. Other Personal Pronouns: possessive and reflexive
+Free pronouns can also function as possessive pronouns. This is attested throughout the data in examples such as urnmeyoerr nuwuk ‘his hand’E and Imbibeberr ngeyeh bumb yahule ‘My dog died last night’U. There may be a possessive marker imang (E) or inang (U) that follows the pronoun. This is attested in isolation, giving the forms ngeyeh imang ‘mine’, nuwu imang ‘yours’ and nuwuk imang ‘his’ in Erre. Urningangk has the form ngeyeh inang ‘mine’ in isolation. Table 4-5 shows all the possessive forms attested in the data, in isolation or in phrases.
+
+Table 4-5 Possessive pronouns
+
+1sg ‘my …’ 1sg ‘mine’ 2sg ‘your …’ 2sg ‘yours’ 3m ‘his …’ 3m ‘his’ (pron) 3f ‘her …’ 3f ‘hers’
+
+Urningangk ngeyeh ngeyeh inang nuwu nuwuk nuwuk
+ngadj -
+
+Erre ngeyeh ngeyeh imang nuwu nuwu imang nuwuk nuwuk imang
+ngadj -
+
+Mengerrdji ngab nuwu nuwuk nuwuk
+ngadj yine ngadj
+
+While the Mengerrdji data has a form yine ngadj ‘hers’, all of the isolated Erre and the Urningangk forms appear to use a demonstrative with the pronoun to indicate possession. This might be demonstrated in phrases such as Inang nuwu bumb wanyewemb ‘Your dog bit me’U. It is unclear, however, what the function of the demonstrative is. It may be adnominal in the sense ‘That dog of yours’, or it may be this possessive construction seen in isolated forms. Not knowing the context of elicitation is also problematic in analysing these constructions given the gender inflections of demonstratives. It raises the question of whether imang is only used for possessions of vegetable gender and inang for masculine possessions. As will be seen in the demonstratives section (§4.3), distal demonstratives can also serve a copula function, giving a possible translation of these possessives as ‘that one is mine/yours/his/hers’. The Mengerrdji form appears to be based on the verb ‘sit’ which is also noted for a copula function (see §7.2).
+
+47
+
+There are some reflexive pronominal forms elicited in Erre in the Carroll recordings.
+
+Myself ngeyeh ngurlimang Yourself nungularra Herself ngadjularra
+
+CE7A1 14:29 CE7A1 14:45 CE7A1 15:24
+
+The function and usage of these pronouns is still uncertain as they were elicited in isolation and were not used in the few reflexive utterances in the data (see §6.2).
+
+4.3. Demonstratives
+The data suggests that demonstratives in the Giimbiyu languages are divided into at least proximal and distal forms. The ‘this’ and ‘that’ demonstratives are inflected for gender, while locative demonstratives ‘here’ and ‘there’ are unmarked. It is likely that there are more demonstrative forms not given in the data, as other languages of the region have shown a wide range of forms and functions (such as Bininj Gun-wok, see Evans, 2003).
+
+4.3.1. Demonstratives ‘This’ and ‘That’
+The limited data shows that demonstratives that act pronominally or adnominally are inflected for the noun class they describe. Urningangk and Erre show similar forms while Mengerrdji forms are quite different. The proximal set of demonstratives tends to show a reduplicated Cnasal+a form, where the nasal is determined by the gender of the referent. The nasals follow the pattern n- (masculine), ng- (feminine) and m- (vegetable). Table 4-6 shows the inflected demonstrative forms for proximal demonstratives in all three languages.
+
+Table 4-6 - Proximal demonstratives ‘This’
+
+Urningangk Erre Mengerrdji
+
+Masculine nana nana nangina
+
+Feminine nganga -
+
+Vegetable mama -
+
+Neuter adja -
+
+Example (22) is the only form confirmed with an audio recording. The other forms given above are taken from Capell’s notes on Urningangk. The Mengerrdji form will be discussed presently.
+
+48
+
+(22) nana djurra U PROX.m book
+This book CU8A1 34:53
+
+(23) weny nganga U woman PROX.f
+This woman Capell
+
+(24) welem mama U food PROX.v
+This food Capell
+
+(25) wukku U water
+This water Capell
+
+adja PROX.n
+
+It is unclear where the neuter demonstrative is derived from. It is only attested in Capell’s notes and not in sentence form. It is also homophonous with the interrogative ‘what’ and ‘when’ and the conjunctive particle ‘and’.
+
+The distal demonstratives show a different structure, but again the nasals for each gender follow the pattern /n/ masculine, /ng/ feminine and /m/ vegetable.
+
+Table 4-7 - Distal demonstrative ‘That’
+
+Masculine Feminine
+
+U inang
+
+ingang
+
+E inang
+
+ingang
+
+M ∅-yawam indj-awam nawi
+
+Vegetable imangk
+imang mangi
+-
+
+Neuter -
+-
+
+(26) i-n-ang U DEM-m-DEM.DIST
+That book CU8A1 34:59
+
+djurra book
+
+(27) Weny i-ng-ang U woman DEM-f-DEM.DIST
+That woman CU8A2 24:45
+
+(28) Nga-welmoek i-m-ang
+
+manmuhu (29) M-ang-i
+
+manmuhu
+
+E 1sg-climb DEM-v-DEM.DIST tree
+
+E v-DEM.DIST-i? tree
+
+I climb that tree.
+
+That tree over there.
+
+CE6B2 09:14
+
+CE7A1 17:49
+
+The forms in Erre and Urningangk are clearly related, with a structure i-N-ang(k), where the nasal N follows the pattern mentioned above. Capell notes the neuter distal demonstrative as iyaw once in a demonstrative paradigm, but this is not
+
+49
+
+followed up anywhere else and has not been recorded. In this paradigm, he also transcribes the vegetable demonstrative as mamang.
+
+The Mengerrdji forms are not related to the forms in Erre and Urningangk, but instead resemble the paradigm of the number ‘one’. While there is no attested masculine inflected form of ‘one’, the root -yawam appears to be the base of the demonstrative.
+
+Table 4-8 Determiner ‘One’
+Prefix
+Masc ØFem iVeg maNeut wu-
+
+Root -yawam (yawam)
+iyawam mayawam
+wuyam
+
+(30) Ø-yawam wurrih Ø-yih wurrngurnyak wurlanyngam=emerr.
+
+M 3m-one man 3mS-lie sleep
+
+cave=LOC
+
+That man lives in a cave (lit. that man lies down to sleep in a cave).
+
+KH321A01 01:05
+
+An interesting observation is that the prefixes used here more closely resemble the verbal prefixes than the adjective prefixes. It shall be seen in §5.1 that many adjectives are verblike. It appears that the number one is a verb (i.e., ‘be one’). This will be further discussed in §4.3.3.
+
+Additional demonstratives in Mengerrdji elicited in isolation for ‘this’ and ‘that’
+produced the following forms:
+(31) Nangina M This
+K-H320b28 00:22
+(32) Nawi M That
+K-H320b28 00:27
+
+50
+
+Interestingly, (31) appears to contain the distal root. The form in (32) was also recorded
+
+in Capell’s notes as an uninflected form, but in what appears to be a three-way
+
+distinction, i.e., proximal/medial/distal. In Capell’s hand written notes, three lines suggest
+
+this distinction. Here I reproduce Capell’s text in italics:
+
+Mama manbiri > v.this turtle Nana buwarde > m.this brolga Aidja igad > n.this billabong
+
+that iman > v.that inan > m.that inan etc m.that?
+
+nawi DIST nawi DIST
+
+The terms on the left are clearly the proximal ‘this’ forms given elsewhere in Capell’s notes. The ‘that’ forms seem to omit the final ‘ng’ attested elsewhere and show homophonous forms for masculine and neuter referents. The nawi we can assume to be a referent at a greater distance. Again hypotheses about demonstratives are very difficult to confirm or even guess when viewed with no context.
+
+4.3.2. Spatial Demonstratives Forms A range of spatial demonstratives are attested in the data. Proximal and medial demonstratives are attested in sentence form.
+
+Table 4-9 Spatial Demonstratives
+
+Proximal Medial
+
+U aya
+
+-
+
+E aya
+
+-
+
+M angaya awi
+
+‘here’/ ‘there’/ ‘over there’
+
+Distal -
+aweha nawiyah
+
+Moderately far unkumarl mardan11 unkumal mardan
+
+Far away unkumarl
+unkumarl unkumal
+
+The spatial demonstratives show similarity across languages.
+
+(33) Warly
+
+aya!
+
+E 2sg.come.IMP here
+
+Come here!
+
+CE6B2 08:57
+
+(34) Werlbirr
+
+angaya!
+
+M 2sg.return.IMP here
+
+Come back here!
+
+KH320B07 01:41
+
+11 Mardan is a cognate with Iwaidja ‘a little bit’ (p.c.Nick Evans). This may have the same function here.
+51
+
+(35) Ungkubak
+
+inyah nga-min aya.
+
+U two
+
+rain 1sg-sit here
+
+I will stay here two years.
+
+CU7B3 31:14
+
+There is a medial form in Mengerrdji, awi, which is reminiscent of the distal demonstrative nawi that was recorded in isolation. This appears to be incorporated into the distal form nawiyah and perhaps aweha.
+
+(36) Aladjimi
+
+awi
+
+M this.way??
+
+there
+
+There, this way.
+
+KH320B30 01:19
+
+(37) Nawiyah M Over there
+KH320B28 01:44
+
+(38) Aweha E Over there
+CE7A1 18:06
+
+While there is no distal form attested in Urningangk, the Erre form is very close to the Mengerrdji form, with slight phonological variation.
+
+The ‘distant’ and ‘moderately distant’ forms were given in isolation and thus it is difficult to determine their deictic dimensions, i.e., how comparatively ‘far away’ they refer to.
+
+Another deictic demonstrative in the Mengerrdji data, awayu, is used to indicate ‘this way is…’, with cardinal points (i.e., north, east). The cardinal point terms given in (39) and (40) are also cognates with Bininj Gun-wok.
+
+(39) Awayu kuyek M this.way east
+This way's east. KH320B21 00:17
+
+(40) Awayu kakbi M this.way north
+This way's north. KH320B21 00:12
+
+4.3.3. Functions of Demonstratives Some demonstratives in the Giimbiyu data can function adnominally, pronominally, as a copula verb or as a predicate. The following examples show the most common demonstrative functions attested in the data, in example (41) the demonstrative functions pronominally, and adnominally in example (42).
+
+52
+
+(41) I-n-ang
+
+Ø-yih
+
+wuhungarr=emerr
+
+U DEM-m-DEM.DIST 3mS-lie
+
+cave=LOC
+
+That man lives in a cave in the rocks.
+
+CU8A2 25:44
+
+undjenyngam. rock
+
+(42) Ya-Ø-hil
+
+i-n-ang
+
+U 3mO-1sgA-know DEM-m-DEM
+
+I know that man.
+
+CU7B3 10:02
+
+wurrih. man.
+
+Examples in questions display the predicate function (43) and the copula function (44) of demonstratives.
+
+(43) Ida i-n-ang? E who DEM-m-DEM
+Who's that? CE7A1 18:31
+
+(44) Yangarnarryik nuwu i-ng-ang
+
+weny?
+
+E cat
+
+2sg DEM-f-DEM woman
+
+Is your cat a female?
+
+CE7A1 00:55
+
+As was noted earlier, a proposed possessive construction combines a personal pronoun with a distal demonstrative. If this is the case, example (44) could also be glossed as a nominal group of noun+possessive construction and weny ‘woman’ as the predicate, with the sense ‘be female’. To clarify this matter, more examples of possessive constructions are required to determine how demonstrative gender can indicate the function it plays.
+
+4.4. Interrogatives12
+
+Interrogatives are not inflected for gender or case and almost always occur phrase-
+initially13. The interrogatives seen in the data are laid out in the following table.
+12 The class of words traditionally referred to as ‘interrogatives/indefinites’ has been contested in recent literature and criticised for the emphasis on the question role of these words. Alternative terms such as ‘ignoratives’ (Evans, 2003) and ‘epistememes’ (Mushin, 1995) have been used to refer to the class of words that include interrogatives, indefinite pronouns and negative indefinite pronouns. In addressing Australian languages in general, Evans notes that “most ignoratives exhibit triple polysemy between interrogative, indefinite pronoun, and negative pronoun senses.”(2003:273) While the possibility remains that this is also the case for Giimbiyu languages, the following words have only appeared in questions in the data. For this reason, I refer to them as ‘interrogatives’.
+
+53
+
+Table 4-10 Interrogatives
+Ontological Category Thing
+Place Time
+Method Quantity Person Cause
+
+Word ardja U adja E moeyibel M ibba UE ardja U adja E adjawoemoenum U adjawumim E aladjuminim M adja…angk E angkala M angkarladjam UE aladjoenoem M idda U ida E ibayuk EU wiyubiliyuk M
+
+Interrogative Sense ‘what?’
+‘where?’ ‘when?’
+‘how? ‘how many?’ ‘who? ‘why?’
+
+The forms above show more variation as between the Urningangk and Erre forms compared to the Mengerrdji forms, than in other areas of the grammar. There is no single interrogative with the same form across all three languages. However, some forms are still evidently closely related.
+
+a)
+
+‘what’
+
+adja/ardja, moeyibel and ibba
+
+The interrogative that replaces an ‘action’ can be expressed with a(r)dja, moeyibel or
+
+ibba. The first two of these is used in questions such as:
+
+(45) Ardja woenoem? U what 3mS.do
+What will he do? CU8A2 08:12
+
+(46) Moeyibel marram? M what 3fS.do
+What is she doing? KH320B30 00:10
+
+In such cases the interrogative is acting pronominally, replacing an argument that would be marked in a declarative utterance.
+
+13 This positioning may be evidence that interrogative pronouns can perform other functions, such as indefinite nouns. Evans (2003) notes that ignoratives tend to occur phrase initially when in an interrogative role and elsewhere for the indefinite roles.
+54
+
+Adja seems to be a core interrogative used as a base for other interrogative terms such as ‘when’ and ‘how’.
+
+Ibba is only attested in isolation in Urningangk and Erre, thus its function is unclear.
+
+b) ‘where’
+
+ardja/adja
+
+The ‘place’ interrogative a(r)dja is homophonous with the ‘action’ interrogative seen
+
+above. In this case the interrogative replaces the destination (goal) of the subject.
+
+(47) Ardja Ø-yah? U where 3mS-go
+Where has he gone? CU8A2 08:30
+
+c) ‘when’
+
+adjawoemoenum/adjawumin/aladjuminim
+
+The three languages’ forms of the ‘when’ interrogative vary slightly but seem to be based
+
+on a core interrogative adja seen earlier.
+
+(48) Adjawumim=emerr imi-rly?
+
+E when=LOC
+
+2sgIRRS-go
+
+When will you go?
+
+CE6B3 18:42
+
+(49) Aladjuminim=emerr imi-rly?
+
+M when=LOC
+
+2sgIRRS-go
+
+When will you go?
+
+KH320B20 00:36
+
+It is interesting to note that the interrogative here is used with the enclitic =emerr, which is often used with temporal expressions (eg, unkulukuy=emerr ‘tomorrow’). This shows that it is replacing the argument that would otherwise be present in a declarative utterance.
+
+d) ‘how’ adja…angk/angkala The interrogative for ‘method’ is unlike the others in the one sentence example given. In
+this Erre example, there appear to be two components to the interrogative, adja phrase-
+initially and angk phrase-finally.
+
+(50) Adja wuwum angk? E what 2sgS.do how
+How did you do it? CE7A1 18:42
+
+55
+
+The translation of ‘how’ attested in Mengerrdji was angkala, but this was not used in a question or any other utterance.
+
+Apart from its use in (50), angk appears to be another core morpheme like adja that forms a base interrogative.
+
+e) ‘how many’ angkarladjam/aladjoenoem The form for the interrogative questioning number, ‘how many?’, is angkarladjam in
+Urningangk and Erre and aladjoenoem in Mengerrdji.
+
+(51) Angkarladjam nuwu neyamuhoerr in-da-mab?
+
+E how.many
+
+2sg child
+
+3plO-2sgA-have
+
+How many children do you have?
+
+CE7A1 13:28
+
+(52) Angkaladjam neyamuhoerr in-da-mab moenoemoenoew?
+
+U how.many
+
+child
+
+3plO-2sgA-have 3pl
+
+How many children do you have?
+
+CU8A1 28:08
+
+(53) Aladjoenoem in-da-mab
+
+niyimuharr?
+
+M how.many
+
+3plO-2sgA-have child
+
+How many children do you have?
+
+KH320B27 00:48
+
+f) ‘who’
+
+idda/ida/idak
+
+The interrogative pronoun idda is used in both Urningangk and Erre to refer to people.
+
+Mengerrdji has the near cognate idak. The examples given in the data use this
+
+interrogative in front of a demonstrative to ask ‘Who is this?’. There is no verb required
+
+due to the copula function of the demonstrative.
+
+(54) Ida i-n-ang? E who DEM-m-DEMDIST
+Who's that? CE7A1 18:31
+
+56
+
+g) ‘why’
+
+ibayuk/wiyubiliyuk
+
+The interrogative for ‘cause’ is different in form to the other interrogative forms,
+
+although it may be related to ibba ‘what’. Again the Erre and Urningangk forms are close
+
+while the Mengerrdji is slightly different.
+
+(55) Ibayuk ngan-de-yeb? E&U why 1sgO-2sgA-hit
+Why did you hit me? CE7A2 12:55
+
+(56) Wiyubiliyuk ngan-de-yeb?
+
+M why
+
+1sgO-2sgA-hit
+
+Why did you hit me?
+
+KH320B32 01:46
+
+4.5. Nominal Group
+As has been widely discussed, the idea of a noun phrase is difficult to apply to Australian languages due to discontinuous terms and semantic and syntactic structural issues. It has been proposed that nominals are ‘apposed’ rather than grouped into a single noun phrase and draw on elements such as gender agreement rather than word order in linking related words (Heath, 1986). I follow Evans (2003) in addressing these elements as a ‘nominal group’.
+There are many utterances in Giimbiyu that contain no nominals at all, due to the marking of arguments on the verb. Pronominal prefixes only indicate the person, number and gender (in the third person singular) of the argument, thus it is useful to outline the possible elements that constitute overt and more detailed marking of arguments.
+The word classes that can act pronominally (in the absence of a noun) include personal pronouns, interrogative pronouns, demonstratives and some adjectives. Adnominal elements include demonstratives, possessive pronouns and adjectives, including quantifiers. The following nominal groups show some combinations attested in the data:
+
+57
+
+- Demonstrative + pronoun+ noun
+
+(57) I-n-ang
+
+nuwu
+
+bumb wan-ye-wemb.
+
+U DEM-m-DEM 2sgPOSS dog 1sgO-3mA-bite
+
+Your dog bit me.
+
+CU8A2 21:42
+
+- Noun … Adjective
+
+(58) Bumb ya-Ø-mab
+
+wun-biyamoeloel.
+
+E dog 3mO-1sgA-have n-good
+
+I have a good dog.
+
+CE7A1 34:43
+
+- Adjective + Quantifier
+
+(59) Ya-mab
+
+wun-biyamoeloel
+
+E 3mO-1sgA-have n-good
+
+I have two good [dogs].
+
+CE7A1 34:50
+
+ungkubak. two
+
+As these examples show, elements of the nominal group can occur in different orders and do not clearly equate to the functional headings of nominals and modifiers outlined in the grammar. Translation is therefore a problematic pursuit and the glosses given are bound to be inaccurate in capturing the functions of these words as conceived by Giimbiyu speakers. While I analyse words and word classes in how they relate to other elements of the phrase, an ‘apposition’ reading is a helpful approach to these languages.
+
+There are two enclitics that appear to attach to the nominal group. One, =emerr, marks a location in time or space and the other, =oengeny, marks instrumental function. The enclitics are prosodically integrated with the argument they relate to, attaching to the final word in the nominal group. As these enclitics attach to nominal groups to form adjuncts, they will be discussed in relation to the simple syntax in §7.1.1.
+
+58
+
+5. MODIFIERS
+In this chapter the elements that modify nominals and verbs will be addressed.
+
+5.1. Adjectives
+Adjectives are predominantly used to modify a nominal or alternatively can behave themselves as the sole overt constituent of a nominal group or as predicates in verbless clauses, as is the case in neighbouring languages (for example, Njebbana, see McKay, 2000).
+
+5.1.1. Adjective Morphology
+
+Adjectives are often, but not exclusively, marked with the gender prefix of the noun they
+
+modify. Some adjectives appear to be unmarked. Paradigms can be derived for certain
+
+adjectives, demonstrating the four gender prefixes. Unfortunately there are no complete
+
+recorded paradigms with all four forms. The following adjective paradigm, supplemented
+
+by Capell’s notes,14 comes from Urningangk:
+
+‘Good’
+Root M
+F
+V N
+
+-biyamoeloel an-
+in-
+manaun-
+
+an-biyamoeloel wurrih ‘a good man’ CU7B3 09:26
+weny in-biyamoeloel ‘a good woman’ CU7B3 09:41
+mana-wiamula Capell Bumb yamab un-biyamoeloel.15 ‘I have a good dog.’ CU8A2 18:12
+
+Across the three languages the forms of the gender prefixes show great similarity. The hypothesis of initial consonant dropping (§2.3.6) supports the patterns seen pandialectically. Note that the masculine/feminine nasals seen in the demonstrative gender agreements are not used in these prefixes.
+
+14 In Capell’s notes there is a vegetable form for good. 15 Note that the regular gender for dog is masculine. See discussion of this case in §4.1.1.
+59
+
+Table 5-1 - Gender Prefixes on Adjectives
+
+Class Masculine (m)
+
+Urningangk a(n)-
+
+Feminine (f) Vegetable (v)
+
+in-
+manme-
+
+Neutral (n)
+
+u(n)-
+
+Erre (ng)an-
+manean-ma-
+(w)un-
+
+Mengerrdji
+(ng)annge-
+i(n)-
+ma(n)mean-
+unwu-
+
+The adjectives that conform to these patterns account for the majority of those found in the data.
+
+5.1.2. Verb-like adjectives
+The masculine prefix predominantly seen is an-, sometimes headed by a velar nasal, i.e., ngan-. However, there are many examples of pronominal prefixes ye-/ya- occurring. The words for which comparative forms exist include ‘white’ and ‘one’ (M). It is possible that these forms are verbs or at least verb-like adjectives.
+
+(60) Ya-woelekkawoerre i-n-ang
+
+wadja. (61) Indju-woelekkawoerre weny
+
+E 3mS-white
+
+DEM-m-DEM 3mS.come U 3fS-white
+
+woman
+
+That white man is coming.
+
+White woman
+
+CE6B2 08:28
+
+CU7B3 08:41
+
+Other cases of ‘deverbal’ adjectives with frozen verbal morphology occur in Bininj Gunwok with colour adjectives (Evans, 2003), suggesting they were once verbs. With the number of word classes that can act predicatively, it is unclear if these colour examples in Giimbiyu are acting like verbs, are verbs or have retained verbal inflections but otherwise function as adjectives.
+
+5.1.3. Adjective Functions
+In their role as noun modifiers, adjectives use inflection, rather than syntactic positioning, to determine which noun they modify. Examples given in the paradigm above show the adjective in a different position in each case.
+
+60
+
+(62) Nuwuk irrwalik
+
+an-kardamal irrar
+
+U 3m
+
+teeth
+
+m-long
+
+like
+
+He has long teeth like a dog.
+
+CU8A2 19:57
+
+bumb. dog
+
+The above example shows both the inflected adjective, marking the masculine class of the noun irrwalik, and the ability of a nominal group to act as a predicate, taking the sense of the English verb ‘have’. This example could also be glossed as ‘His teeth are long, like a dog’s’, as the free pronoun form doubles as the possessive pronoun (see §4.2).
+
+The ability of an adjective to function pronominally can be seen in the polysemous senses of the word alebemb ‘small’ or ‘child’ in Urningangk. The adjectival sense is a cognate in both other languages (melebenbEM (vegetable class) were cited in the data).
+
+While quantifiers are themselves classified here as a type of nominal modifier, regular adjectives do not inflect number. That is, one dog or two dogs still has the same noun form.
+
+(63) Bumb ya-Ø-mab
+
+wun-biyamoeloel.
+
+E dog 3mO-1sgA-have n-good
+
+I have a good dog.
+
+CE7A1 34:43
+
+(64) Ya-Ø-mab
+
+wun-biyamoeloel
+
+E 3mO-1sgA-have n-good
+
+I have two good [dogs].
+
+CE7A1 34:50
+
+ungkubak. two
+
+The two examples above were elicited one after the other, allowing the speaker to ellipse the noun bumb (‘dog’).
+
+5.2. Quantifiers
+There are a number of quantifying expressions in Giimbiyu that specify numbers one to five, as well as relative quantities. Table 5-2 shows the quantifying expressions in the
+
+61
+
+data, with the number of times they were attested given in brackets. Gender is also given where useful.
+
+Table 5-2
+‘one’ 1
+‘two’ 2 ‘three’ 3 ‘four’ 4 ‘five’ 5 (one hand) ‘many’
+‘few’ ‘all’
+‘other’ ‘another’
+
+Quantifiers
+
+Urningangk wurrinyam (3)
+ungkubak (6) arlkurr (3) abangkuwildawelyem(2) Wurrinyam urnmeyoerr
+
+Erre wurrinyam (3)
+ungkubak (7) arlkurr (4) abangkuwildawelyem(2) Wurrinyam urnmeyoerr
+
+Mengerrdji iyawam (?)(1) mayawam (v)(1) wuyam (n)(1) ungkekek (7) woengoenydj (1) abangkunuwelyem(1) wuyam yurnmiyoerr
+
+ngarlaka (m)(1) inirlaka (2) munuwurlaka (3)
+-
+ewek(1) munyul (Capell) -
+-
+
+ngarlaka (m)(1) munuwurlaka (3)
+ewek (1)
+wurrinya (1)
+
+ngarlaka (m)(1)
+ngelebenb16 (m)(1) ewek (2)
+mayawk(1) alahay(1)
+
+From the table it can be seen that quantifiers ‘many’ and ‘few’ agree in gender with the noun they modify. ‘One’ is inflected in Mengerrdji (see table and (68) and (69)) while Erre and Urningangk appear to use a single form (perhaps a frozen neuter form) for different referents. While some forms were given in isolation the following examples show these patterns of inflection.
+
+(65) Ma-yawam yim
+
+M v-one
+
+eye
+
+One eye
+
+KH320B03 01:42
+
+(66) Wu-yam yurnmiyoerr M n-one hand
+Five (lit. one hand) KH320B27 00:29
+
+(67) Nga-rlaka wurrih U m-many men
+Many men CU8A1 27:58
+
+(68) Inimoenoe ini-rlaka
+
+U 2pl
+
+2-many
+
+Many (2pl)
+
+CU8A2 15:57
+
+Syntactically, the quantifiers can occur anywhere in the utterance. The determiner ewek tends to be phrase final.
+
+16 Also glossed elsewhere as ‘small’.
+62
+
+(69) Muwu-ny
+
+ewek.
+
+U 1pl.inc-go
+
+all
+
+We all (incl) will go.
+
+CU8A2 10:29
+
+5.3. Adverbs
+There are a small collection of adverbs, modifying the verb, in the data. These are clearly separated prosodic units and appear uninflected.
+
+5.3.1. ‘Fast’
+
+maha(-maha)
+
+The adverb ‘fast’ or ‘quickly’ is attested in all three languages as maha (reduplicated in Erre mahamaha).
+
+(70) Maha wa-rly
+
+wurrngank!
+
+M quickly 2sgS-go.IMP ??
+
+Come here quickly!
+
+KH320B07 01:47
+
+(71) Maha-maha ya-ngank. E quickly-REDUP 3mS-speak
+He talks too fast. CE6B2 01:29
+
+A second term in Mengerrdji, awuy, is given for ‘fast’ that has not been identified elsewhere.
+
+(72) Ya-ngank
+
+awuy.
+
+M 3mS-speak fast
+
+He talks too fast.
+
+KH320B05 00:52
+
+5.3.2. ‘slow’
+
+wiyimerrU / wirriwirrimirrM
+
+The word ‘slow’ is given in isolation in Capell’s lists in Urningangk and Mengerrdji. It is unclear whether this is an adjective or the adverb ‘slowly’. As the word does not appear to show inflection and there is evidence of reduplication in the Mengerrdji form, as there was in the adverb ‘fast’, I have put it in this word class. It is possible that this citation form also contains the enclitic =emerr, as the final syllable resembles this, and is not repeated in the reduplicated section of the Mengerrdji word.
+
+63
+
+5.3.3. ‘next to’ wuyoerrk
+Although the enclitic =emerr indicates the meaning ‘next to’ in its general use (see §7.1.1), another form wuyoerrk is also attested in Erre and Urningangk as performing this function. It is not an enclitic as it is phonologically a separate word. If it is assumed that the word has the same meaning and function in both of these languages, it can be said that this adverb can occur in various positions in the phrase. It is attested after the verb as well as after a noun.
+
+(73) Warlyim
+
+a-huwun-mak
+
+E steel.axe
+
+2IMP-put-IMP
+
+Put the axe next to the tree!
+
+CE7A2 18:28
+
+manmuhu tree
+
+wuyoerrk! next.to
+
+(74) Warlyim a-huwun-mak wuyoerrk, U steel.axe 2IMP-put-IMP next.to
+Put the axe next to the tree! CU8A2 25:07
+
+manmuhu=emerr! tree=LOC
+
+(75) Weny i-ng-ang
+
+indj-andj wuyoerrk
+
+U woman DEM-f-DEM.DIST 3fS-stand next.to
+
+That woman is standing next to the snake.
+
+CU8A2 24:45
+
+ngarrkoeny. snake
+
+This word is also attested as a pronoun with the sense ‘something that is close’ in Urningangk.
+
+5.3.4. ‘Already’ arrwarl The adverb arrwarl is attested in Urningangk and Erre, two tokens in Erre and one in Urningangk.
+
+(76) Arrwarl me-Ø-yeb wurinkarrm. U already 3vO-1sgA-hit fire
+I already put the fire out. CU8A2 07:32
+
+(77) Nuwuk arrwarl ya-ndayk.
+
+E 3m
+
+already 3mS-brake.in
+
+He already broke in [to the house].
+
+CE7A1 33:40
+
+64
+
+These tokens of arrwarl consistently appear before the verb. One explanation might be that it is based on the verb ‘go’ warly in a serial verb-type construction (see §7.8.2) where word order is more fixed. The Mengerrdji term used in these utterances was irrar, which is more commonly used to indicate similarity. (See §7.8.1 for discussion of this particle.)
+65
+
+6. VERBAL MORPHOLOGY
+The verbal word is made up of a pronominal prefixes, an optional tense marker, the verbal root and an optional number suffix or imperative marking. There is also some evidence for a directional prefix and reflexive and reciprocal suffixes. The structure of the verbal word is shown in Figure 6-1.
+Figure 6-1 The Verbal Word
+(MISC) + Pronominal Prefixes + (DIR) + (TAM) + (Indirect Object) +Verb Root + (REFL)/(RECIP)+(Number)/(IMP)
+As can be seen from the schema above, the minimal verbal word must contain a pronominal prefix complex and the verbal root. Pronominal prefixes will be discussed in §6.1 , followed by reflexive (§6.2) and reciprocal suffixes (§6.2.3). TAM markers will be addressed in §6.3 and miscellaneous prefixes, including the directional prefix will be covered in §6.4.
+6.1. Pronominal prefixes
+The Giimbiyu languages show pronominal prefixes as an obligatory part of the verbal word. Intransitive verbs have one argument, subject (S), which is marked before the verbal root and will be discussed in §6.1.1. Transitive verbs have two arguments, the subject (Agent) and the object (Object). §6.1.2 will discuss how these are combined to form transitive prefixes. There appears to be an additional set of prefixes that spans intransitive and transitive verbs, characterised by a prefix im- that will be addressed in §6.1.2.3.
+6.1.1. Intransitive Prefixes Intransitive verbs take one overt pronominal prefix. This normally accounts for the first slot in the verbal word. The second person, third feminine and third vegetable singular prefixes appear to have a different composition to the first, third masculine and third neuter prefixes. Two explanations for this difference are put forward, including a ‘long vs. short prefix form’ and a division into a prefix and intransitive marker combination. Table 6-1 shows the most common present tense prefixes across the three languages.
+66
+
+Allomorphs, irregular forms and tense forms will be discussed in relation to each referent.
+
+Table 6-1
+
+Intransitive Non-Future Pronominal Prefixes
+
+1.inc 1.exc 2
+3m 3f
+3v 3n
+
+Sg
+ngaindjaimbayaindjaimbamandjau(n)-
+
+Pl -
+mun-/ min-
+
+In regards to regular verbs, as opposed to suppletive verbs, the data has few extensive paradigms, hence the gaps in the table above. The most complete is the verb ‘be hot’.
+
+Table 6-2 Partial Intransitive paradigm 'be hot'
+
+1sg nga-hanyurndUE
+
+I am hot
+
+2sg indja-hanyurndE 3v mandja-hanyngurnUE
+
+You are hot The ashes are hot
+
+3n u-hanyurndU
+
+The coals are hot
+
+CU7B3 10:54 CE6B2 04:05
+CE6B2 04:22
+CU7B3 19:15 CE6B3 07:55
+CU7B3 20:18
+
+The following paradigm shows the great similarity across the three languages.
+
+Table 6-3- ‘fall’ (non-future tense)
+
+Person 1sg 2sg 3s.m
+
+Erre nga-rliying imba-rliying
+ya-rliying
+
+Urningangk wa-rliying
+imba-rliying ya-rliying
+
+Mengerrdji nga-rliying (nga-rru-wa-rliying)17
+ya-rliying
+
+(78) Manmuhu=emerr ya-rliying
+
+U Tree=LOC
+
+3mS-fall
+
+The child fell out of the tree.
+
+CU7B1 21:11
+
+neyamuhoerr. child
+
+17 This form comes from a different sentence than the E and U forms. It will be further discussed in §6.2.1.
+67
+
+(79) Wa-rliying. U 1sgS-fall
+I fell. CU8A2 21:23
+
+(80) Nuwu imba-rliying dekenk, U 2sg 2sgS-fall above
+You fell from a tree on top of me. CU8A2 26:24
+
+an-da-wawoelng. 1sgO-2sgA-on.top
+
+I shall now address the differences both within and across languages to determine the rules that govern this variation.
+
+6.1.1.1. Singular bound pronouns: first, masculine and neuter subjects
+The three subjects 1sg, 3m and 3n are represented by the prefixes nga-, ya- and u(n)respectively.
+
+a) First person (1sg)
+
+nga-
+
+The first person singular prefix nga- is a feature of non-Pama-Nyungan languages
+
+(Harvey, 2003) and is seen consistently throughout the data. Where this form does not
+
+occur, it seems that the verb root is vowel initial and that where two vowels are
+
+combined, the first vowel is dropped. Thus when the prefix nga- is combined with *-
+
+erndeyk ‘enter’, for example, the resulting form is ng-erndeyk ‘I entered’. The three
+
+occurrences of non-nga- first person singular prefixes in Erre would fit this hypothesis.
+
+However, there are insufficient paradigms to prove verb root boundaries for these
+
+examples.
+
+(81) Ngeyeh ng-ey. E 1sg 1sgS-cry
+I am crying. CE6B2 00:43
+(83) Nga-rliyidjdjindj ng-eyi. E 1sgS-on.side 1sgS-lie
+I am lying on my side. CE6B2 07:12
+18 This may be a loan from English ‘working’.
+
+(82) Ng-url-wurrki18-murrum E 1sgS-??-working-do
+I am working CE6B2 05:54
+
+68
+
+Table 6-4 shows the consistency throughout the Urningangk data in the use of the first person prefix.
+
+Table 6-4 Urningangk First Person Singular Intransitive Verbs
+
+English Gloss stand-up; be born; wake up fall camp stay; stand
+be hot go; come scratch skin speak be frightened climb shake be sick; suffer whistle cry sit
+
+Non-Future nga-woerrk wa-rliying
+nga-yandj
+nga-hanyurnd
+nga-mendji nga-ngank nga-rnimam nga-welmoek nga-wirridbib nga-wule nga-yanirr nga-yime nga-yin
+
+Future nga-ma-woerrk nga-m-ely nga-m-andj (close) nga-mi-yandj (distant) nga-ma-rly
+nga-m-in
+
+In the future tense (to be discussed in §6.3.1) there are a few exceptions to the use of the standard pronominal prefix. In Erre future forms there was only one instance of a ngaprefix occurring in the future tense (nga-m-ely ‘I will camp’), while two others showed the prefix form a-:
+
+(84) A-ma-wurlmi yiharrara. E 1sg-IRR-swim river
+I will swim in the river. CE7A2 18:53
+
+(85) A-ma-welmoek E 1sgS-IRR-climb
+I will climb. CE6B2 09:12
+
+Example (85) contrasts with the non-future form nga-welmoek ‘I climb’. As both of these forms appeared phrase-initially, it is difficult to determine if this is an allomorph or another example of sporadic consonant dropping discussed earlier in §2.3.6.
+
+In summary, the predominant first person pronominal prefix found was nga-. Variations of this prefix occurred in the future tense, where the form a- appears, presumably an allomorph of nga-.
+
+69
+
+b) Third person masculine (3m) yaThere is strong evidence to suggest that ya- is the masculine prefix in all three languages as well as the unmarked third person singular pronoun, elicited in English as ‘it’. 19 out of 22 intransitive phrases in the data showed this prefix. The allomorph ye- is used when there is a mid vowel in the verb root.
+
+(86) Ye-lewedji E 3mS-lie
+He is lying (telling a lie) CE6B3 00:19
+
+(87) Ye-woelh. E 3mS-dance
+He is dancing. CEB2 11:00
+
+The prefix is zero marked when %ya% is the initial syllable of the verb root, as was discussed in §2.4.3.
+
+(88) Uwunbul adja meheb ∅-yandj. U Old.man but still?? 3mS-stand
+He is old, but he's still alive. CU8A2 25:58
+
+c) Third Person Neuter (3n)
+
+u(n)-
+
+Neuter subject is attested in Urningangk and Mengerrdji as the prefix u-. In most
+
+examples the prefix was given as u- (three examples in U, one in M) and one example in
+
+Mengerrdji showed an allomorph un- (example (90)). This may be an irrealis or future
+
+form as there is no other apparent tense marker present
+
+(89) Wukku u-rnimak. U water 3nS-run
+The water is flowing. CU7B3 22:33
+
+(90) Wulumarnk un-ngularrudj.
+
+M fat
+
+3nS-melt
+
+The fat will melt [in the fire].
+
+KH320B16 01:12
+
+6.1.1.2. Singular bound pronouns: second, feminine and vegetable subjects
+
+The second person, feminine and vegetable subjects show a different structure to the three prefixes mentioned above. Second person and feminine prefixes take the homophonous forms indja-/imba- and vegetable subjects take the prefix mandja- (3v). It is unclear whether these are single morphemes or whether they can be segmented into two.
+
+70
+
+a) Second person (2sg)
+
+indja-/imba-
+
+The following examples show the two allomorphs for the second person subjects.
+
+Example (91) shows the inflected verb ‘sit; stay’ (as opposed to the first person singular
+
+form nga-yin). Example (92) shows the verb ‘fall’ (contrasting with nga-rliying [1sgS-
+
+fall] and ya-rliying [3m-fall]) inflected with the alternative second person prefix.
+
+(91) Nuwu indj-in. U 2sg 2sgS-sit
+You are sitting. CU7B1 18:17
+
+(92) Manmuhu=emerr imba-rliying.
+
+E tree=LOC
+
+2sgS-fall
+
+You fell from a tree.
+
+CE7A2 20:14
+
+It is still unclear what determines the use of the two allomorphs. Imba- is only attested with the verb ‘fall’ and the homophonous feminine prefix is attested with the verb ‘rise’. It may represent an alternative prefix that is used with a particular set of verbs rather than indicating any phonological or temporal distinction from the more frequently attested indja-.19
+
+One anomalous form occurs for the second person, not adhering to the above pattern with the verb ‘laugh’. In negative phrasing, it takes a second singular prefix ya-, homophonous with the third person singular masculine prefix. The other forms of ‘laugh’ adhere to the normal prefixes (nga-hoewoebberl ‘I am laughing’E, indj-oewoebberl ‘She is laughing’U).
+
+(93) Nuwu meyl ya-hoewoebberl (or yahoewoebberl)
+
+E 2sg NEG 2sgS?-laugh
+
+laughing
+
+You are not laughing.
+
+CE7A2 20:58
+
+An explanation for this form may be that it is a nominal form. A similar form was given in Mengerrdji, yahubberl, for the word ‘laugh’ in isolation. By this hypothesis, nominal forms may be used for an otherwise present-negative construction.
+
+The only future forms attested for the second person prefixes are for the verb ‘go’, which takes a different set of prefixes to be discussed in §6.1.1.5 and §6.3.
+
+19 Such alternative prefixes have been analysed in Umbugarla (see (Davies, 1989))
+71
+
+b) Third Feminine (3f)
+
+indja-/imba-
+
+Feminine prefixes are homophonous with the second person prefixes, displaying indja-
+
+and imba- subject forms.
+
+(94) Weny i-ng-ang
+
+indj-andj
+
+ngarrkoeny=emerr
+
+E woman DEM-f-DEM 3fS-stand snake=LOC
+
+The woman is standing next to the snake.
+
+CE7A2 17:56
+
+(95) Ngadj wukku indju-wule.
+
+U 3f
+
+water 3fS-suffer
+
+She is thirsty.
+
+CU7B1 11:27
+
+This last example shows a final vowel /u/ on the prefix. This is not attested elsewhere and is assumed to be related to the first vowel of the verb root.
+
+Imba- referring to feminine subject is only attested with the verb ‘rise’ in expressions for ‘east’. The following utterance is from Erre.
+
+(96) Iloerru mun-ya indjeheywey imba-mburrkangk, iloerru mun-ya
+
+E Some? 3plS-go sun
+
+3fS-rise
+
+some? 3plS-go
+
+indjeheywey indji-mini-ndayk.
+
+sun
+
+3fS-DIR20-go.down
+
+Some went east, some went west. (lit. Some went to where the sun rises, some went
+
+to where the sun goes down.)
+
+CE7A1 19:04
+
+Similar examples are attested in Urningangk and Mengerrdji with indjeheywey imb-ewel ‘east; sun rises’U CU8A1 01:19 and muharlng21 imba-yarrk ‘The sun is rising.’M KH320B21 00:26.
+
+c) Third Vegetable (3v) mandjaThere are a few potential cases of vegetable subjects attested in the data. One clear example is with the subject ‘ashes’, a noun given as vegetable gender in Capell’s notes.
+
+20 See discussion of this prefix in §6.4. 21 This is a cognate with Iwaidja muwarn (p.c. Nick Evans)
+72
+
+The prefix is mandja- and can be compared to the second person and first person forms indja-hanyurnd [2sg-be.hot] and nga-hanyurnd [1sg-be.hot].
+
+(97) Indjenkedj mandja-hanyurnd.
+
+U ash
+
+3vS-be.hot
+
+The ashes are hot.
+
+CU7B3 19:15
+
+Other cases of word-initial mandja- prefixes may also be intransitive verbal construction with vegetable subjects. As was discussed in relation to noun genders (§4.1.1) wukku(k) ‘water’ appears to inflect on the intransitive verb as a vegetable gender noun.
+
+(98) Mandja-rniwarrk wukkuk.
+
+M 3vS-flow
+
+water
+
+The water is flowing.
+
+KH320B17 00:57
+
+Other examples of this prefix with wukku(k) include ‘full tide’ mandja-rliying wukkuk (KH320B17 00:54), ‘winding path’ mandja-warrarrk wunkang (KH320B19 00:10) and ‘rotten wood’ wurinkarrm mendj-ewendj (CU8A1 21:23). Of these last two, ‘path’ is also given as neuter gender in Capell’s notes, but seems to inflect as a vegetable noun.
+
+As will be seen in the analysis of the transitive prefixes, the first parts of the intransitive pronominal prefixes correspond to the second and third person objects. The 3f, 3v and 3n prefixes also resemble the adjective gender inflections. That is, in- is used for second person and feminine objects and feminine adjectives and man-is used for vegetable objects and adjectives. The forms seen here may therefore represent ‘long’ prefix forms that only occur on subjects (S), i.e., with intransitive verbs. Long and short prefix forms are also observed in Gaagudju (Harvey, 2002). Harvey also notes many cases of homophony between second and feminine prefix forms. Alternatively, the prefixes could be analysed as two morphemes, in- and man- as the pronominal prefixes and dja- the intransitive marker that is no longer present in the 1sg, 3m and 3n forms. It is unclear what conditions produce the allomorph imba-. Further tokens are necessary to determine its function.
+
+73
+
+6.1.1.3. First and Second person plural prefixes
+The only plural prefixes attested for first and second person belong to the irregular paradigm ‘go; come’. This paradigm appears to draw on a different set of prefixes to those just discussed. This alternative, perhaps irrealis, set of prefixes will be discussed in §6.1.1.5.
+
+6.1.1.4. Plural Third person prefixes mun-
+
+There was no evidence to suggest the four noun genders are distinguished in plural
+
+pronominal prefixes. As in the free plural pronouns, a plural prefix mun- (or min-) is used
+
+and dual and trial forms are specified with a number suffix.
+
+(99) I-n-ang
+
+ungkubak mun-yuwuny-umun (100) Moenoemoenoew min-yoewoel.
+
+U DEM-m-DEM two 3plS-fight-du
+
+U 3pl
+
+3plS-dance
+
+Those two are fighting.
+
+They are dancing.
+
+CU7B1 30:13
+
+CU7B1 22:07
+
+(101) Moenoemoenoew wurrminyak moen-yi.
+
+U 3pl
+
+sleeping 3plS-lie
+
+They are lying asleep.
+
+CU7B1 22:46
+
+An irregular 3pl subject form appears with the verb ‘rise’ in Erre22.
+
+(102) Wurrih wedj-ewel wuhungarr. E man 3plS?-rise cave
+Men came out of the cave. CE6B2 10:16
+
+It is not clear if this is the correct glossing as there does not appear to be a plural prefix. This phrase also seems irregular in that there is no locative enclitic =emerr as otherwise tends to be present with locative clauses (see §7.1.1).
+
+6.1.1.5. Irregular intransitive verb: ‘go; come’
+The verb ‘go; come’ has the most attested forms for any intransitive verb in Urningangk, Erre and Mengerrdji. While the paradigm is incomplete, it includes non-singular forms for first inclusive and exclusive, second and third person referents. Table 6-5 shows the
+
+22 Note that this verb also took the irregular feminine prefix imba- in example (96).
+74
+
+attested forms for this verb; prefixes are given in bold, non-future forms in brackets and an asterisk indicates forms given as ‘come’.
+
+Table 6-5 Irrealis verb paradigm ‘go; come’
+
+1.Inc 1.Exc
+2
+3
+
+sg
+nga-ma-rlyUEM* (nga-ya E) imi-rlyUEM* (wa-rlyIMPUM*) imi-rlyUEM (yahUEM) (wadja E*) (wadjama M*)
+
+du
+
+tri
+
+muwu-ny-umunUEM ngungu-ny-ungunydjE
+
+-
+
+ngana-ny-angunydjE
+
+ini-ny-umunE
+
+-
+
+moenu-ny-umunE moenu-ny-ungunydjE
+
+pl muwu-nyUE -
+-
+(munu-nyU) (moenu-nyE) (mun-yaEM)
+
+These prefixes are derived on the assumption that the verbal root for singular forms is -
+
+rly and the non-singular root is -ny. The prefixes highlighted here may represent an
+
+irrealis set. Both future and non-future examples are attested for the 3m inflections. The
+
+example (103) shows regular non-future marking, however the future example (104) and
+
+counterfactual example (105), show the prefix imi- instead.
+
+(103) Ardja Ø-yah? U where 3mS-go
+Where has he gone? CU8A2 08:30
+
+(104) Nuwuk imi-rly. E 3sg 3sgIRR.S-go
+He will go. CE7A2 11:36
+
+(105) Lindu meyl imi-rly. E horse NEG 3mIRR.S-go
+The horse will not go. CE7A2 20:38
+
+As was discussed, the first person takes the regular prefix and indicates future with a separate morpheme, nga-ma-. The second singular and third person prefixes are homophonous, imi-.23
+
+* Forms marked with an astrix are ‘come’ forms. Nga-ma-rly and imirly are both cited for both ‘come’ and ‘go’. 23 Only masculine third person examples are attested in the data.
+75
+
+(106) Adjawoemoenum=emerr U where=LOC
+Where will you go? CU7B3 29:30
+
+imi-rly? 2sgIRR.S-go
+
+Like the free pronouns, these non-singular forms are constructed using a person prefix and a number suffix. Number suffixes (dual -umun and trial -ungunydj) attach to the verb root. The plural prefixes are:
+
+Table 6-6
+
+Non-singular irrealis prefixes
+
+1.Inc
+1.Exc 2 3
+
+muwu- UEM (dual and plural) ngungu - E (trial) ngana- E ini- E munu- E(and UM irrealis)
+
+It should also be noted that the 1exc prefix form given here (that is attested with a dual marker, ngana-) is similar to the Bininj Gun-wok form ngani-/ngane- (Evans, 2003).
+
+The paradigm of the verb ‘go’ has shown that the singular irrealis prefixes are quite different from the realis forms. If one looks to the third person plural forms both realis and irrealis in Table 6-5, the non-singular prefixes do not seem to display the same variation.
+
+While it appears that the singular prefixes can be divided into realis and irrealis sets, I am hesitant to name them as such. In looking at transitive verb prefixes (see §6.1.2), there are also instances of the prefix imi- in both realis and irrealis sentences (discussed in §6.1.2.3).
+6.1.2. Transitive Pronominal Prefixes It was shown in the previous section that the subject of an intransitive verb (S) must be marked. In a transitive sentence both participants, the subject (A) and the object (O), can be marked, however in some cases only one participant is overtly marked. While this is the case in other non-Pama-Nyungan languages, such as Dalabon (see Evans et al., 2001), Giimbiyu differs from these languages in which argument is omitted.
+
+76
+
+Where both arguments are singular and marked, the object prefix precedes the subject. Plural arguments seem to always be marked first. There is also evidence in the data for a separate set of dative or indirect (IO) pronominal prefixes. These will be discussed in §6.1.2.3.
+
+Table 6-7 shows the pronominal prefix forms for realis transitive sentences in the data. Given in square brackets are the factored prefixes which are often combined in the construction of the transitive form. Forms marked with an asterisk indicate those only attested with the suppletive verb ‘give’ (see appendix 1)
+
+Table 6-7 – Transitive Pronominal Prefixes
+
+Subject (A) Object (O) 1sg [ngan-] 2sg [i-] 3m [ya-/ye/Ø-] 3f [i(n)-] 3v [ma(n)-]
+3n [uw-/un-]
+1du [ngan-] 1tri [ngan-] 1pl [ngan-] 2pl [in-] 3pl [?]
+
+1 [Ø]
+i-U ya-UEM ye-UEM Ø-UEM i-U ma(n)-UE me-U (w)uw-U
+ya-E
+
+Singular
+
+2 [-dV-]
+
+3m [ya-/ye-]
+
+ngan-de-UEM ngan-
+
+wan-ya-U ngan-ye-M in-(yi)UE*
+
+-
+
+na-UM(rre)-E
+
+ne-UEM
+
+-
+
+in-ya-UM
+
+un-du-EM urdu-U an-d-U*
+
+man-ye-rre-E min-ye-rre-U man-ya-rra-M oen-ye-rre-UEM un-ya-UE unur-E urnar-M ngan-(ya)E*
+
+ngan-d-UE* -
+
+-
+
+ngan-(ya)U*
+
+in-(ye)UE*
+
+in-da-EM
+
+ne-(ye)UE*
+
+3f
+
+1
+
+[?]
+
+[ngen-]
+
+-
+
+-
+
+-
+
+-
+
+nga-rra-UEM ngen-E
+
+i-rra-U
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Plural
+
+2
+
+3
+
+[in-] [mun-]
+
+in-U* moen-UE*
+
+in-U* mun-UE
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+in-U* moen-UE*
+
+-
+
+moen-U*
+
+in-U* -
+
+-
+
+moen-UE*
+
+in-U* moen-E*
+
+77
+
+6.1.2.1. Transitive Subjects (Agents)
+
+Singular and plural agents seem to behave differently. Singular agent prefixes follow the
+
+object prefix. The few examples of plural agents suggest that the plural agent is either the
+
+only overtly marked argument (and the object is zero marked) or the object follows in the
+
+slot after the plural agent.
+
+a) Singular agents
+
+Of the singular agents, the first person subject is zero-marked. In example (107) the
+
+masculine object is the only overtly marked prefix.
+
+(107) Nuwuk ye-Ø-hanguy ngeyeh urnmeyoerr
+
+U 3m
+
+3mO-1sgA-hit 1sg hand
+
+I hit him with my hand.
+
+CU7B1 28:13
+
+It is a rare characteristic for languages of the area to omit the first person agent. While a pattern of omitting one of the arguments in 1/3 combinations is not unique to the Giimbiyu languages, the manner in which it is done, however, does differ from other languages that omit an argument. Evans, Brown and Corbett (2001) have shown that the opposite is the case in Dalabon, where in a ‘first person acting upon third person’ example, only the first person singular prefix (the same form as the first person intransitive prefix) is marked on the verb, and the third person object is left unmarked. This has also been observed in Bininj Gun-wok and other languages (Evans, 2003). Perhaps the inherent saliency of the first person (Chafe, 1987), lessens the need for overt marking. On the other hand, in the object role, an atypical role for the first person, overt marking is necessary.
+
+The second person subject appears to be –dV- although this appears not to be the case in negative clauses.
+
+(108) Ibayuk ngan-de-yeb? E why 1sgO-2sgA-hit
+Why did you hit me? CE7A2 12:55
+
+(109) Nga-rliying meyl ngan-ngar-mab.
+
+E 1sgS-fall
+
+NEG 1sgO-2sgA(neg)?-hold
+
+I fell because you didn't hold me.
+
+CE7A2 13:36
+
+78
+
+The agent form given in this last example remains unexplained. It will be further discussed in §6.3.2.
+
+Third person masculine agents are homophonous with their intransitive form ya-/ye-. The feminine takes the form nga-. There are no examples attested for vegetable or neuter nouns in the agent position.
+b) Plural agents The majority of plural agents (first, second and third person) show no object argument. 1pl agents are marked by ngen- (homophonous with the object form), 2pl agents are marked by in- (homophonous with the singular form) and third plural agents are marked by mun-/moen-. In one example where the object was overtly marked in combination with a plural agent, the object followed the agent.
+
+(110) Nuwuk mun-ye-yahab U 3sg 3plA-3mO-bury
+They buried him. CU7B1 26:11
+
+This seems an unusual example given the haplology process outlined in §2.4.3.
+6.1.2.2. Objects When acted upon by a singular agent, object prefixes distinguish person but do not clearly distinguish number. Number is then distinguished by suffixes. The object prefixes are presented in Table 6-8.
+
+Table 6-8
+
+Object prefixes with singular agents
+
+1 2 3m 3f 3v 3n 2/3 3m/3 3f/3
+
+ngan-/ngeni(n)yei(n)manuninne-(rre) nga-rre
+
+79
+
+a) First person objects The first person singular objects are represented by the prefix ngan-, a widespread form for non-Pama-Nyungan languages (Harvey, 2003). Allomorphs wan- (U) and occasionally an- (E) are attested, but are presumably lenited forms of the velar nasal (see §2.4.1). These variations can be seen in the forms given in each language for ‘The dog bit me’.
+wan-ye-wembU an-ye-wembE ngan-ye-wembM ‘The dog bit me.’
+The data also contains examples of this prefix occurring in combination with a second person singular subject ngan-de-yeb ‘You hit me’.
+
+b) Second person objects The few examples of second person objects show the allomorphs i- and in-. Examples (112) and (113) show the invariable prefix for singular and plural second person objects
+
+(111) Nuwu i-Ø-woerrh. U 2sg 2sgO-1sgA-dream
+I dreamed about you. CU7B3 12:29
+
+(112) Ngeyeh i-Ø-yi
+
+nuwu.
+
+E 1sg 2sgO-1sgA-give 2sg
+
+I gave it to you.
+
+CE7A2 07:06
+
+(113) Nuwuk in-Ø-ye
+
+inimoenoe
+
+E 3sg 2O-3mA-give 2pl
+
+He gave it to you, big mob.
+
+CE7A2 05:37
+
+It is interesting that in (111) the free pronoun given adds emphasis to the object of the verb, which has already been disambiguated by the prefix.
+
+c) Third person objects The third person singular objects bear the closest resemblance to the intransitive pronominal prefixes. This is the case for all four genders. Examples (114) and (115) show the masculine object. Example (116) shows the vegetable object.
+
+80
+
+(114) Nuwuk ye-Ø-hanguy ngeyeh urnmeyoerr
+
+U 3m
+
+3mO-1sgA-hit 1sg hand
+
+I hit him with my hand.
+
+CU7B1 28:13
+
+(115) Ngankenykerl Ø-Ø-yey
+
+ngan-malkerr.
+
+U meat
+
+3mO-1sgA-eat m-bad
+
+I ate bad meat.
+
+CU8A2 24:05
+
+(116) Ma-Ø-me-menge U 3vO-1sgA-IRR-sing
+I will sing a song CU7B1 15:19
+
+While the above examples employ a zero subject prefix on the verb, the use of free pronouns may help to disambiguate such a form (e.g., (114)). These examples show that the use of free pronouns is not obligatory and may be used for emphasis. In the case of example (116) there are no overt nominals, yet presumably it is understood that songs are vegetable gender and are the most likely object of the verb ‘sing’. Harvey (2002) observes that in Gaagudju, the verb ‘sing’ is a “prototypical cognate object verb” and “obligatorily prefixes for a Class III [vegetable gender] direct object” (p.339).
+
+d) 2/3 and 3/3 transitive argument combinations When combined with a third or second person singular agent, the ordering of the prefixes is object followed by subject. Example (117) gives the verb ‘bite’, where the vegetable object prefix precedes the masculine agent prefix.
+
+(117) Bumb man-ye-rre-wemb E dog 3vO-3mA-3/3-bite
+The dog bit my leg. CE6B3 27:03
+
+mahaweny leg
+
+Example (118) shows regular stacking of the two prefixes. Example (119), on the other hand, shows a slightly different construction.
+
+81
+
+(118) Ngeny in-ya-mab M woman 3fO-3mA-have
+Married man (Lit. He has a woman) KH320B11 01:14
+
+(119) wurrih Ø-nga-rra-mab. M man 3mO-3fA-3/3-have
+Married woman (lit. She has a man) KH320B11 01:14
+
+Example (119) is different in form from what might be expected, such as the reverse of the preceding example, *ya-in-. The feminine subject (attested by this single example) appears to be nga-, if the assumption is made that there is zero marking of the masculine object. Support for /ng/ signifying a feminine referent, as opposed to /n/, indicating a masculine referent, can be seen in the demonstratives, ing-ang ‘f-that’ and in-ang ‘mthat’. The morpheme nga- is also the third person feminine agent prefix in Mawng, Ilgar and Iwaidja.
+
+The morpheme -rre-/-rra- appears to be a 3/3 marker, located in the slot between the pronominal prefixes and the verb root. It only appears with examples of one third person referent acting upon another, yet not consistently (for example, it appears in examples (117) and (119) yet not in (118)). Both variant forms appear in all three languages.
+
+An exception to this factorised stacking of prefixes is the masculine third person acting upon another masculine third person and feminine on feminine. The masculine case appears to take a portmanteau prefix na-/ne- and the feminine i-.
+
+(120) Bumb ne-wemb ngarrkoeny U dog 3m/3m-bite snake
+The snake bit my dog. CU8A1 09:34
+
+(121) Bumb na-rre-wemb woerr ngarrkoeny. E dog 3m/3m-3/3-bite ?? snake
+A snake bit my dog. CE6B3 27:44
+
+(122) Nga-neyel
+
+i-rra-wak
+
+U 1sgS-mother 3f/3f-3/3-mother
+
+Mother's mother (lit. she who gave birth to my mother)
+
+CU7B3 05:38
+
+82
+
+e) Number marking of objects Dual and trial objects (attested for the first person) mark their number as a suffix on the verb (-umun dual, -ungundj trial). An additional suffix, -ngoen, is attested with these objects in the paradigm ‘give’ (see appendix 1), preceding the number slot, as can be seen in (123).
+
+(123) Nuwu ngan-d-oe-ngoen-oengunydj. E 2sg 1O-2sgA-give-1nsO-tri
+You gave it to us three. CE7A2 06:27
+It seems unlikely that the morpheme ngoen- is the verb root, only used with 1non-
+singular forms. I propose that it distinguishes the object as plural, given the prefix is the
+same form for singular and non-singular objects. Second and third person non-singular
+objects do not show this suffix. If these forms are distinguished (although many forms seem homophonous24), there may be a vowel change in the root. Acoustically, some
+plural forms appear to have a lower vowel in the root. For example:
+
+(124) Nuwuk ne-yi.
+
+E
+
+[neji]
+
+3sg 3/3-give
+
+He gave it to him.
+
+CE7A2 05:20
+
+(125) Nuwuk ne-y-e
+
+moenoemoenoe munu-rlaka
+
+E
+
+[nejɛ]
+
+3sg 3/3-give-plO 3pl
+
+He gave it to them, big mob
+
+CE7A2 05:45
+
+3pl.many
+
+The analysis of this verb is made difficult by the degree of variation in the verb root. The past tense root seems to be -yV with various allomorphs conditioned by surrounding
+
+vowels. Other phonological processes such as haplology and y-deletion (outlined in §2.4) also appear to play a role in clouding the underlying morphological form. Furthermore, suppletion in person marking on the verb ‘give’ is widespread in languages (Comrie, 2000) and the Giimbiyu languages seem to be no exception. However while Comrie has
+
+remarked on the 1/2 person as opposed to 3 person marking, the emphasis here seems to be on first person, particularly non-singular, objects.
+
+24 Indi is attested for both ‘You gave it to him’EU and ‘You gave it to them’E.
+83
+
+6.1.2.3. A note on kinship verbs There are a few kinship terms in the data that show verbal morphology. These kinship
+
+verbs include ‘father’, ‘mother’ and ‘sibling’ and support the morphological analysis of
+
+transitive verbs given above. These verbs take the form ‘be kin to’25.Example (126)
+
+shows the construction of the term ‘mother’s father’.
+
+(126) Nga-neyel
+
+in-ya-wahadj
+
+U 1sgO-mother? 3fO-3mA-father
+
+Mother’s father (lit. My mother, he fathered her.)
+
+CU7B3 05:14
+
+While the glossing of the first term nganeyel is tentative (given no other inflections are attested with this verb), the second term shows the ‘3m acting upon 3f’ prefixes analysed earlier in this chapter on the verb ‘A is father to O’.
+
+Another term for mother attested in Mengerrdji (and in the other two languages for ‘give birth’), also shows transitive morphology.
+
+(127) Nga-rra-wak M 3f/3m-3/3-give.birth
+Mother KH320B12 00:22
+The verb meaning ‘be sibling to’ is attested in E and M. It shows regular morphology in
+Erre (129) but unexpected inflection in Mengerrdji (128).
+
+(128) In-kurl i-rre-lenydj-umun M 3fS-big 3f/3f-3/3-sibling-du
+Elder sister (lit. big sister) KH320B12 00:04
+
+(129) nga-rre-lenydj E 3f/3m-3/3-sibling
+Younger sister CE6B2 16:04
+
+The Erre example would assume that the younger sister is that relation to a brother (i.e. 3f/3m). The Mengerrdji sister relationship is to another sister (thus 3f/3f prefix). The unexpected element in the M example is the dual suffix. This perhaps reflects the reciprocal relationship of being sisters (both feminine siblings) that is not the case in the E example.
+
+25 Such verbs have also been recorded in Kunwinjku/Mayali, Iwaidja and Ilgar (Evans, 2000).
+84
+
+Unfortunately, there are insufficient kin terms and glossing on those given to fully understand their functions.
+
+6.1.2.4. Irregular Transitive Prefixes As was seen in the intransitive paradigm ‘go’ and in some cases in the transitive paradigm ‘give’, there are some prefixes with the form im(i)- that tend to occur in irrealis constructions. Other verbs that show this prefix include: ‘eat’, ‘hit’, ‘steal’, ‘cut’ and ‘carry’. Table 6-9 summarises the prefixes attested with these verbs.
+
+Table 6-9 im- Pronominal Prefixes
+
+Object 2sg 3m
+3pl
+
+1sgA imi-
+imiime-yaima(ima-) imi-
+
+Verbs imily ‘give’
+imily ‘give’, imidj ‘eat’, imihanguy ‘hit’ imeyahab ‘steal’ imahanybarl ‘cut’ imangambM ‘carry(PRES)’, imakurlM ‘cook(PST)’ imily ‘give’
+
+The hypothesis that these are an irrealis set of prefixes is jeopardised by the form given in brackets in the table. These two verbs were elicited in realis sentences, one in the present tense, the other in the past tense. There is a possibility that the glossing is inaccurate and the forms are irrealis, given the trends of the other attested forms.
+
+6.1.3. Dative Objects
+Evidence from the paradigm for the verb ‘look for’ suggests this verb takes an indirect object (IO), which differs in form and position from the direct objects. IOs are marked in the slot directly before the verb root, while direct objects are generally marked before the agent and TAM slots.
+
+(130) Nga-neyel
+
+Ø -u-yu-wayay.
+
+U 1sg-mother 1sgA-IO-3fIO-look
+
+I'm looking for my mother.
+
+CU8A2 22:18
+
+The only attested forms of the indirect objects are in the table below.
+
+85
+
+Table 6-10 Dative Object Pronominal Prefixes
+
+2sg
+
+3m
+
+3f
+
+3v
+
+wu-
+
+nu-
+
+yu-
+
+yu-
+
+In addition to these dative pronominal prefixes, a separate prefix u- seems to precede these prefixes, indicating an indirect object. This has been marked as IO in example (130). This prefix is absent in the imperative form a-nu-wayay-ak! [2sgIMP-3mIOlook.for-IMP] ‘Look for it!’, instead showing the pronominal prefix seen in other imperatives in the first slot of the verbal word (see §6.3.4). The other examples that take indirect objects (attested with 1sg and 3pl subjects) display this u- prefix. Like regular transitive examples, the 1sg agent is zero marked, shown in example (130).26 In a form with a 3pl subject (example (131)), the u- prefix follows the subject prefix.
+
+(131) Moenoemoenoew muny-u-wu-wayay.
+
+U 3pl
+
+3plA-IO-2sgIO-look.for
+
+They are looking for you.
+
+CU7B1 22:55
+
+In an irrealis example with an indirect object, the initial IO u- prefix precedes the tense marker, and the IO itself follows it. This is demonstrated in example (132).
+
+(132) Nga-ma-rly nga-rrawak u-Ø-mi-yu-wayay M 1sgS-IRR-go 1sgS-mother IO-1sgA-IRR-3fIO-look
+I'll go and look for my mother. KH320B33 00:41
+
+Another isolated example that appears to take a dative object has a benefactive argument. While not specified, I presume the pronominal ‘it’ in the following example refers to welem ‘food’ which is vegetable gender.
+
+(133) Me-Ø-ma-wu-rne. E 3vO-1sgA-IRR-2sgIO-cook
+I will cook it for you. CE7A1 05:58
+
+26 While the subjects of verbs with indirect objects are often analysed as subjects (rather than agents), I have labelled them as agents as the first person is clearly unmarked when compared with the 3pl subject examples.
+86
+
+A final paradigm that does not show congruence with other verbs is the verb ‘do; say’. The following table summarises the forms across the three languages.
+
+Table 6-11
+
+Verb ‘do; say’
+Non-Future 2sg wuwoem U
+wuwum E 3m -
+
+3f
+
+marramM
+
+Future -
+woenoem U wumurrum E
+-
+
+Imperative uwuhum UE -
+
+While the valency of this verb is uncertain, the attested forms appear to contain IOs. Note that in similar positions, the second person form contains /w/, while the masculine examples contain /n/. It is unclear if this is merely due to the difference in tense, in which case the various forms give few clues as to their referents. A possible explanation for the use of indirect objects to refer to the semantic subject is the reallocation of arguments for interrogative phrasing. All of the forms given in the table are taken from questions, except the imperative form. In all uses of these forms, including the imperative, the focus is on what is being done or said, rather than the person doing or saying it.
+
+(134) Adja wuwum? E what 2sgS.say
+What did you say? CE6B2 02:12
+
+(135) Uwuhum! E 2sgS.say.IMP
+Say it! CE6B2 02:01
+
+Further examples are clearly required to understand the mechanics of this paradigm.
+
+6.2. Valency
+6.2.1. Transitiviser rruA morpheme identified as a possible transitiviser prefix occurs in two examples, one in Erre and the other in Mengerrdji. The transitiviser is used with an otherwise intransitive verb to add an argument, increasing the valency of the verb to two arguments. The prefix rru- is found with the verbs ‘fall’ and ‘talk’ in second person acting upon first person examples. ‘Fall’ is normally an intransitive verb. The location of where the person fell from is expressed as a separate noun with a locative enclitic (e.g., manmahu=emerr ‘from the tree). Example (137) gives an object of where the person fell, i.e., ‘on top of me’. The
+
+87
+
+verb ‘talk’ is usually intransitive. In an example specifying the hearer of the talking, the transitiviser is marked, yet not the additional argument. This token contrasts with the intransitive nga-ngank ‘I speak [Erre]’.
+
+(136) a-rru-ngank E 2sg-TR-speak.IMP
+‘Talk to me!’ CE6B2 01:42
+
+(137) Nuwu nga-rru-warliying, marrarumirdbard. M 2sg 1sgO?-TR-fall ??
+You fell from a tree on top of me. KH321A01 01:34
+
+While it may not be expected for the extra argument to be marked on the imperative word, it seems strange that the second person agent is not overtly marked in example (137).
+
+Other possible examples are in a word I have been unable to gloss in the Erre and Mengerrdji sentences ‘I dreamed about him’ but not in the Urningangk equivalent. This word is urrumilb (M) or urroemelb (E). It is possible that ‘dream’ is an intransitive verb that can be transitivised to include the object of the dreaming.
+
+It is also interesting to note the similarity in form of this prefix with the third person acting upon another third person prefix rra-/rre-, discussed in §6.1.2.
+
+6.2.2. Reflexive suffix
+The analysis of reflexives and reciprocals is still in its preliminary stages due to the few examples of these constructions. It appears that there is a suffix associated with reflexive actions, yet the suffix was not consistently used across all examples. A suffix -moeh is attested in Erre and Urningangk. The following examples show this suffix ((138)) contrasting with a non-reflexive form ((139)).
+
+(138) Nga-rndayoewoen-moeh E 1sg-wash-1REFL
+I washed myself. CE6B2 05:30
+
+(139) Neyamuhoerr nga-rra-rndayuwun
+
+E baby
+
+3fA-3/3-wash
+
+She washed the baby.
+
+CE6B2 05:17
+
+A similar form -meh is attested in Mengerrdji with the same (elicited) utterance.
+
+88
+
+(140) Nga-ma-rndayuwun-meh. M 1sg-?-wash-1REFL
+I washed myself. KH320B06 01:50
+A further example showing a shorter suffix -eh is used in the reflexive dual example of
+body-painting. In this case, the dual suffix comes after the reflexive suffix.
+
+(141) Muwu-ny-umun mu-rndebbern-eh-umun M 1plS-go-du IRR-paint-1REFL-du
+We two will paint ourselves. KH321A02 01:30
+In a Mengerrdji first person reflexive form, yet another suffix is attested, -dak, which
+may also perform a reflexive function. The following is the only example in the corpus.
+
+(142) Nga-ma-rly nga-me-rndebbern-dak M 1sgS-IRR-go 1sgS-IRR-paint-1REFL
+I will paint myself. KH321A02 01:22
+Of the reflexive utterances in Erre and Urningangk, only examples of washing oneself, not painting oneself, showed a suffix. In Mengerrdji, all forms showed a suffix -(m)eh. Interestingly, none of these utterances use the reflexive personal pronouns given in Erre (see §3.1.2).
+6.2.3. Reciprocal suffix Reciprocal constructions also showed much variation in the few examples attested in the data. There appear to be different syntactic structures used to convey reciprocity. One involves the use of a suffix, attaching directly to the verb and preceding any number suffixes, as was the case with reflexive structures. This suffix is attested in Erre and Urningangk. In Erre this suffix is -iweyah and in Urningangk it is -eweh.
+
+(143) Wan-yarn-eweh-amun U 1ns-see-1RECIP-du
+We saw each other CU8A2 28:44 (My transcription)
+
+(144) An-yarn-iweyah-amun. E 1ns-see-RECIP-du
+We saw each other. CE7A2 22:31
+
+89
+
+It should be noted that in Bininj Gun-wok, reflexives and reciprocals are also indicated by a suffix that directly follows the verb root (Evans, 2003). Evans also notes that the use of reciprocals is more common in BGW than in English, citing the example of ‘fighting [each other]’. There is one example in Urningangk and one in Mengerrdji of this verb, yet they do not appear to show the same inflections as the examples above.
+
+Other reciprocal constructions, using the verbs ‘paint’ and ‘fight’ will be discussed in §7.9.
+6.3. Tense, Mood and Aspect Marking (TAM)
+In Giimbiyu there seem to be different ways of marking tense. In some cases it appears there is a specific slot on the verbal complex that takes TAM marking. In other cases a different set of prefixes is used, that incorporates tense (see §6.1.1.5 and §6.1.2.3). Based on first person singular conjugations and a few other attested forms, it can be argued that there is indeed a slot on the verbal word that indicates future and negative past (past irrealis).
+
+While imperative forms are normally considered part of TAM marking, they will be discussed separately given that their form appears unrelated to the prefixes discussed here.
+6.3.1. Tense-marking: future and non-future For the majority of verbs, Giimbiyu does not overtly mark past/present tense differences, but does mark the future tense. The non-future, or realis tense, takes zero marking. The following examples draw on a polysemous verb with the meanings ‘be born’/ ‘stand-up’/ ‘wake-up’. The past tense example, (145), shows zero marking while the future example takes the most common irrealis prefix -ma-. Realis examples will not be marked except where tense is being discussed.
+
+(145) Nga-Ø-woerrk. U 1sgS-RE-born
+I was born. Capell
+
+(146) Nga-ma-woerrk. U 1sgS-IRR-wake
+I will wake up. Capell
+
+90
+
+While ma- is the most common future marker there are many allomorphs, suggesting the marker is in fact mV-. The vowel is often deleted before a vowel initial verbal root. Other allomorphs include me- which occurs before a /k/ or /ly/ in the verbal root. mu- is attested in Urningangk after a prefix un- (but not in E or M).
+
+A prefix mi- is attested with the verb ‘stand’ contrasting with the common irrealis form ma- and appears to signify distant future.
+
+(147) Aya nga-m-andj U here 1sgS-IRR-stand
+I will stay here two nights. CU7B3 29:01
+
+ungkubak two
+
+wurrminyak sleep
+
+(148) Ungkubak
+
+inyah nga-mi-yandj
+
+aya
+
+U two
+
+rain 1sgS-IRR.DIST-stand here
+
+I will stay here two years. (Lit. I will stay here two rains)
+
+CU7B3 31:09
+
+From the examples given it can be seen that the future marker is placed after the subject and object prefixes and before the verb root. In examples with the indirect object, the irrealis marker is placed before the indirect object (see §6.1.3)
+
+6.3.2. Negative Future From the few examples available, it appears that the irrealis prefixes convey the meaning of intention or perhaps possibility. Negated by a particle meyl, the same forms as were used for the future tense are used, conveying doubt or a prediction of non-actualisation. Note that the verb in example (149) below is the positive future form discussed in §6.3.1.
+
+(149) Lindu meyl imi-rly E horse NEG 3mIRRS-go
+The horse will not go. CE7A2 20:38
+6.3.3. Non-future Irrealis Non-future irrealis forms carry the meaning of counterfactuality or non-actualisation. In
+marking for this, the Giimbiyu languages show considerable variation. The negation is
+clearly indicated with a negative particle, yet there also seems to be inconsistency in the
+
+91
+
+pronominal prefixes that may contribute to the TAM marking, as in the above cases. In the transitive examples in the data, the second prefix, the agent, seems to be in an irregular form. The following examples show this variation.
+
+(150) Nuwu meyl wurinkarrm U(&E)2sg NEG fire
+You did not put the fire out. CU8A2 09:45
+
+ma-ngedj-enkadjem, 3vO-2sgIRR.A-extinguish
+
+arriwel. NEG
+
+(151) Ngerrl ma-narr-yankadj M NEG 3vO-2sgA.IRR-extinguish
+You did not put the fire out. KH320B32 00:08
+
+wurinkarrm. fire
+
+(152) Nga-rliying, meyl ngan-ngar-mab.
+
+E 1sgS-fall
+
+NEG 1sgO-2sgA.IRR-have
+
+I fell because you didn't hold me.
+
+CE7A2 13:36
+
+(153) Ngankenykerl meyl
+
+E meat
+
+NEG
+
+We have no meat.
+
+CE7A2 02:42
+
+nga-nar-mab. 1plA-IRR-have
+
+It may be the case that the bolded prefixes constitute a different set of prefixes incorporating modality. Such pronominal prefixes have also been observed in Kunbarlang (p.c. Isabel Bickerdike). However, while these examples show different prefixes from the realis forms, one intransitive non-future irrealis form shows no sign of counterfactuality, merely a negating particle before the realis verb.
+
+(154) Arriwel Ø-yah U NEG 3mS-go
+[The horse] is not going. CU8A2 27:07
+It should be noted that this appears to be a simple system of tense marking, and
+undoubtedly has neglected many details, due to the lack of data and speakers. In
+Verstraete’s (2005) work on mood marking in non-Pama-Nyungan languages, he notes
+that the majority of these languages display composite mood marking, which involves
+combining two slots on the verbal complex to determine mood; +/- irrealis prefix, plus a
+
+92
+
+tense marker. If this was ever the case in Giimbiyu, it is now difficult to prove from the remaining records of these languages. The imperative marking is the only attested marking that requires two slots.
+
+6.3.4. Imperative
+With the exception of a few common and suppletive verbs, imperative forms exhibit highly regular patterns. Imperative (singular) forms appear with an a- (perhaps pronominal) prefix attached to the verb root or IO, and a suffix –(m)ak both with intransitive and transitive verbs. The allomorph -mak appears after nasals, yet not consistently. In each case, we can assume the pronominal marking implies the second person subject. The form of the prefix is unrelated to the intransitive subject and transitive object prefix in-. Of the 24 different instances of imperatives (not including repetitions across the languages) 14 adhered to this pattern.
+
+(155) A-wurlmi-yak! E 2sgS.IMP-swim-IMP
+Swim! CE6B2 08:16
+
+(156) Alambarak a-rndayuwun-mak!
+
+E sweat
+
+2sgIMP-wipe-IMP
+
+Wipe the sweat [from my face]!
+
+CE6B1 16:59
+
+(157) A-nu-wayay-ak! M 2sgA.IMP-3.m.IO-look-IMP
+Look for it! KH320B08 01:40
+
+All three examples show the similar imperative marking. Example (157) incorporates the dative pronominal prefix.
+
+Of the irregular forms, two can be accounted for by their verb root already having a final consonant /k/. No examples exist that show a final velar plosive as part of their root and also take the imperative suffix. These irregular forms do have the prefix a-. The verbs that do not fit the pattern and are not /k/-final include the verbs: Werlbirr!M ‘return’, Wa(rly)!UE‘come/go’ and Wel!UE ‘give’. These verbs have already shown irregular forms (such as suppletive roots and uncommon prefixes).
+
+93
+
+TAM marking thus comes in various forms in Giimbiyu and cannot be clearly assigned to a single slot. Neither does it seem to use a composite mood marking system. The irrealis prefix mV- is attested as used with 1sg, 3v and 3n subject referents. This is located between the subject-object prefixes, but before the indirect object on the verbal word. A separate set of irrealis prefixes are attested for other forms. Imperative marking is realised most commonly by an a- pronominal prefix and -ak imperative suffix.
+6.4. Miscellaneous prefixes
+It is rare in the Giimbiyu languages for prefixes other than pronominal and TAM prefixes to occur on the verb root. This seems unusual in the context of non-Pama-Nyungan and particularly the neighbouring languages, although comparable to the Iwaidjan languages. Bininj Gun-wok has very complex verbal morphology that includes directional and valence-increasing prefixes and noun incorporation (see Evans, 2003:318). Gaagudju also has extensive directional prefixes and a system of co-verbs (see Harvey, 2002:209). Functions expressed by some of these prefixes are expressed through adverbs and the locational enclitic =emerr in the Giimbiyu languages. This certainly appears to be the most common way of expressing direction. There is some evidence, however, that directional and durative prefixes can occur in Giimbiyu as part of the verbal word.
+
+The directional prefix minoe-/mini- observed in the data seems to give the meaning of ‘further on’ or completion of movement when used with the verb yerndeyk ‘enter’27. This can be assumed by comparing the following two phrases.
+
+(158) Ngarrkoeny ye-rndeyk wurlanyngam=emerr.
+
+M snake
+
+3mS-enter stone=LOC
+
+The snake went under the stone.
+
+KH320B33 01:37
+
+27 This seems to be a polysemous verb also meaning ‘go in; enter’ and ‘go down’. Polysemy for such spatial morphemes has been noted by Wilkins and Evans, yet a verb with such polysemy is unusual. See (cited in Hendriks and McQueen, 1995)
+94
+
+(159) Ngarrkoeny ye-minoe-rndeyk
+
+M snake
+
+3mS-inside-enter
+
+The snake went in, under the stone.
+
+KH320B33 01:42
+
+umerrh down
+
+wurlanyngam=emerr. stone=LOC
+
+(159) gives more detail than (158)about the movement of the snake in respect to the rock. The prefix would appear to be supported by the word umerrh, which in isolation was translated as ‘down’. The allomorph mini- was seen in (96) in the form indji-mini-ndayk [3fS-inside-go.down] referring to where the sun goes down (i.e., west). Here the prefix also suggests completion of the movement.
+
+Another prefix encountered appears to carry a durative meaning. In the following example, one would assume that the verb ‘alive’ is intransitive and with a masculine referent would take the form *ya-hani. The form given took an additional prefix in the first slot of the verbal word, preceding the pronominal prefix.
+(160) Weheb un-ya-hani. E old.man still-3mS-alive
+He is still alive. CE7A2 19:48
+An alternative analysis is that this verb is in fact transitive, in which case the prefix un- is the neuter object prefix, giving a gloss for un-ya-hani as ‘3nO-3mA-have’.
+
+95
+
+7. SYNTAX
+The data available are all elicited words and short utterances. There are few complex sentences. Of the simple sentences available, the problems of elicitation may provide misleading evidence as to word order and arguments normally included in natural speech. In general, word order tends to be SOV, but there is a large degree of free word order displayed. In this chapter simple sentences, copula and non-verbal clauses will be discussed, followed by negation, the structure of questions, interjections and finally complex sentences.
+
+7.1. Simple Sentences
+
+As the verbal morphology indicates participants, the minimal sentence can be a single
+
+verb. Intransitive and transitive phrases are attested as single words or accompanied by
+
+their arguments. The presence of arguments seems to serve an emphatic role.
+
+Intransitive
+(161) Wa-rliying. U 1sgS-fall
+I fell. CU8A2 21:23
+
++ subject NP (162) Bumb ya-marlal. M dog 3mS-bark
+The dog is barking. KH320B22 01:46
+
+(163)
+
+Transitive
+
+(164) Ø-Ø-yeb. M 3mO-1sgA-kill
+I killed him. KH320B10 01:16
+
++ agent (165) Nuwu wen-d-i. U 2sgA 1sgO-2sgA-give
+You gave it to me. CU8A2 12:31
+
++object (166) Moen-yi ngeyeh. U 3plA-give 1sgO
+They gave it to me. CU8A2 14:40
+
++ agent + object (167) Ngeyeh nuwu imi-ly. U 1sgA 2sgO 1sgIRR.A-give
+I will give it to you. CU8A2 13:5
+
+96
+
+As in this last example, the majority of utterances with two nominal arguments tend to show the word order SOV.
+
+Where there is an adverb, it precedes the verb.
+
+(168) Mahamaha ya-ngank.
+
+E fast
+
+3mS-talk
+
+He talks too fast.
+
+CE6B2 01:29
+
+7.1.1. Adjuncts Adjuncts, including temporal and spatial and instrumental adjuncts, are employed using
+the enclitics =emerr and =oengeny.
+
+7.1.1.1. General Locative Clitic: =emerr
+The most common clitic attested in the three languages is =emerr, which has many functions. Primarily it is used to indicate direction of movement or location. It takes the meanings of ‘to’(170), ‘at’(170), ‘next to’(see (74)) and ‘from’(169), thus combining the functions of allative, ablative and locative. It is also used to locate things within the body ((173)).
+
+(169) Manmuhu=emerr imba-rliying.
+
+E tree=LOC
+
+2sgS-fall
+
+You fell from a tree.
+
+CE7A2 20:14
+
+(170) Nga-ma-rly wurlanyngam=emerr. M 1sS-IRR-go rock=LOC
+I will go to the rock KH320B33 01:04
+
+(171) Nga-me-ly yiharrara=emerr. E 1sgS-IRR-go river=LOC
+I will camp at the river. CE7A2 19:08
+
+(172) Manmuhu=emerr a-marndab-ak!
+
+U tree=LOC
+
+2sgIMP-tie-IMP
+
+Tie it on to the stick!
+
+CU7B1 25:46
+
+(173) Mekeyerrk wulngerrm=emerr mandj-arrwandj.
+
+U cold
+
+head=LOC
+
+3vS-cold?
+
+I have a cold in the head.
+
+CU7B1 12:18
+
+In this last example, it appears that the verb is intransitive, given the form of the prefix. See §6.1.1.2 for a discussion of these forms.
+
+97
+
+The clitic usually attaches to the noun that it relates to, however one example from Mengerrdji suggests that it attaches to the nominal group, rather than the noun. It has been classified here as an enclitic due to this example (174), in which emerr attaches to the second of two words referring to the location. It is still unclear what this second word, awala, means.
+
+(174) Niyimuharr ya-rliying
+
+M baby
+
+3mS-fall
+
+The child fell from the tree.
+
+KH320B08 00:24
+
+manmuhu tree
+
+awala=emerr. ??=LOC
+
+In phrases where there are two locative expressions, the enclitic only appears once.
+
+(175) I-n-ang
+
+Ø-yih
+
+wuhungarr=emerr,
+
+U DEM-m-DEM 3mS-sit
+
+cave=LOC
+
+That man lives in a cave in the rocks.
+
+CU8A2 25:44
+
+undjenyngam. rock
+
+It is also attested attaching to two adjectives in the citation form of ‘good’ (example (176)) and ‘bad’, although not in connected speech or as part of a noun phrase (example (177)).
+
+(176) Un-malkerr=emerr U n-bad=LOC
+Bad CU7B3 09:33
+
+(177) Ngankenykerl Ø-Ø-yey
+
+ngan-malkerr.
+
+U meat
+
+3mO-1sgA-eat m-bad
+
+I ate bad meat.
+
+CU8A2 24:05
+
+Emerr can also be used following a temporal noun to indicate a time. Both past and future examples are attested, yet not all expressions take the enclitic (‘yesterday’ is only attested unmarked). Seasons are also common examples of this.
+
+(178) Kunberrk=emerr E long.ago=LOC
+A long time ago CE6B3 19:11
+(180) Sister ngan-me-kanykule E Sister 3f/3m-IRR-rub
+Sister will rub it tomorrow. CE7A1 34:28
+
+(179) Unynguny=emerr U build.up=LOC
+Build-up season CU7B3 30:40
+unkulukuy=emerr. tomorrow=LOC
+
+98
+
+The irregular use of this enclitic, such as its usage on citation forms and not in all sentences, calls into question whether this clitic is obligatorily marked. Some sentences given by speakers at first omit the enclitic and include it on the final repetition given. For example, an Urningangk speaker in translating ‘get down from the rock’ gives the word for ‘rock’ phrase-finally in two repetitions; the first unmarked, undjenyngam (CU7B1 20:59), and the second marked, undjenygnam=emerr (CU7B1 21:02).
+
+7.1.1.2. ‘with’
+
+=oengeny (instrumental)
+
+The second enclitic attested serves an instrumental function and is attested in all three languages with ‘using a spear-thrower’. Not all examples of instruments show marking, as ‘I hit it with a stone’ does not show this or any instrumental marking.
+
+(181) Wikulb ma-Ø-ma-rndawurdb djananyk=oengey. E spear 3vO-1sgA-IRR-throw woomera=INSTR
+I will throw a spear using a spearthrower. CE7A1 28:52
+
+‘With fire’ examples do not show the word ‘fire’ as it appears elsewhere. Instead a word memoengey follows the verb. Perhaps this can be analysed as mem=oengey, with memsignifying fire as a weapon.
+
+(182) Nga-ma-rly miwurrb
+
+mem=oengey marrayankarl.
+
+E 1sgS-IRR-go hunt
+
+fire=INSTR kangaroo
+
+I will hunt kangaroo with fire.
+
+CE6B3 06:02
+
+7.2. Copula sentences
+There are few examples of copular constructions in the data.
+
+One verb that seems to act like a copular verb is ‘sit’. This verb has also been noted for its copula function in other Australian languages such as Wambaya (Nordlinger, 1998), and Martuthunira (Dench, 1995) along with other stance or existential verbs. Example (183) from Urningangk and (184) from Erre show masculine-inflected adjectives next to the verb ‘sit’, which functions as the existential verb in these utterances.
+
+99
+
+(183) An-bakak U m-wet
+He is wet. CU7B3 21:29
+
+Ø-yini. 3mS-sit
+
+(184) Ø-yeni ngan-mularrudj. E 3mS-sit m-alive
+He's still alive. CE6B3 25:40
+
+Example (185) from Mengerrdji shows the verb preceded by an interrogative.
+
+(185) Idak Ø-yini? M who 3mS-sit
+Who is that? KH320B29 00:09
+
+Another verb that may have a copula function is ngarrak, which is used with an adjective to mean ‘be cold’. As it is not attested with any other adjectives or in any other utterances, it does not seem versatile enough to be classified as a ‘copular’ verb at this stage.
+
+(186) Yirruk nga-rrak. E cold 1sgS-be.cold
+I am cold. CE6B2 03:49
+
+(187) Nuwu yirruk i-rrak. E 2sg cold 2sgS-be.cold
+You are cold. CE6B2 03:57
+
+7.3. Non-verbal predicates
+There are only a handful of non-verbal predicates attested in the data. They include one example of a noun with specific semantic properties that occurs in a verb-less clause, one instance of an inalienable possession (body part) expressed without the ‘have’ verb and one occurrence of an adjectival phrase that also appears to have no verb.
+
+(188) Uwunbul
+
+adja meheb Ø-yandj.
+
+U old.man
+
+but still?? 3mS-stand
+
+He is an old man, but he is still alive.
+
+CU8A2 26:00
+
+The term meaning ‘old man’ is the sole word in the first main clause of this utterance, and could therefore be interpreted as ‘He is an old man’.
+
+Other expressions of possession and ‘having’ in the data are expressed with the verb yamab ‘he has’. This verb is attested with objects such as children, dogs, unspecified
+
+100
+
+objects (‘it’) water and other people (in the ‘hold’ sense of the verb). Example (189) suggests that inalienable possessions such as body parts can be expressed without a ‘having’ verb, or alternatively, the adjective is functioning as the predicate, in which case a better gloss might be ‘His teeth are long like a dog’s.’
+
+(189) Nuwuk irrwalik an-kardamal
+
+U 3m
+
+tooth m-long
+
+He has long teeth like a dog.
+
+CU8A2 19:57
+
+irrar bumb. like dog
+
+A further example that supports this is given in (190). While the word order of the body part and the pronoun is reversed, patterns of free word order in the data suggest that this should have no significant affect on the meaning.
+
+(190) Inkulb nuwuk irrar mardayangkarl
+
+U face 3m
+
+like kangaroo
+
+His face is like a kangaroo's face.
+
+CU8A2 19:38
+
+The next example also presents an adjectival phrase where the referent is not overtly marked. Unlike the previous example, there is no free pronoun to disambiguate the referent.
+
+(191) Wurrinyam im bunyi.
+
+U One
+
+eye blind
+
+He is blind in one eye.
+
+CU7B1 09:56
+
+It is unclear how common non-verbal predicates are in the Giimbiyu languages. While a few examples of verb-less clauses are attested in the data, as given above, the ability of adjectives to act as predicates predicts there would be many noun + adjective clauses. It appears, however, that many of these examples are inflected with pronominal prefixes rather than gender prefixes as is the norm for adjectives, and have thus been classified here as verbs (see §5.1).
+
+101
+
+7.4. Negation
+There are two main negating particles used in Urningangk, Erre and Mengerrdji: arriwel and meyl. Generally, meyl is used adverbially, negating the predicate, and directly precedes the verb.
+
+(192) Nuwu meyl ma-ngedj-enkadjem. E 2sg NEG 3vO-2sgA?-extinguish
+You did not put the fire out. CE7A1 24:07
+Arriwel is the more flexible negative particle and has been glossed as ‘no’, ‘not’ and
+‘nothing’. It can function as an adjective, modifying (negating) the argument ((195) and
+(194)), it can act pronominally (i.e. ‘nothing’) and can be used as an interjection on its
+own. It is attested phrase initially (194) and finally (196).
+
+(193) Ngankenykerl arriwel
+
+U meat
+
+NEG
+
+[We have] no meat.
+
+CU8A2 19:02
+
+(194) Arriwel un-ya-hani. M NEG still-3mS-alive
+No, he's still alive. KH320B22 01:04
+
+(195) Nganemoenoewungunydj arlkurr ngana-ny-angunydj, nuwu arriwel.
+
+E 1tri.exc
+
+three 1ns.exc-go-tri
+
+2sg NEG
+
+We three will go, not you.
+
+CE7A2 11:21
+
+(196) Nuwu meyl wurinkarrm 2sg NEG fire You did not put the fire out. CU8A2 09:45
+
+ma-ngedj-enkadjem 3vO-2sgANEG-extinguish
+
+arriwel NEG
+
+Unexpectedly, there was one instance in Urningangk of arriwel acting adverbially. Note that the same phrase was elicited in Erre and Mengerrdji, both of which used the negative particle meyl.
+
+(197) Arriwel Ø-yah U NEG 3mS-go
+[The horse] is not going. CU8A2 27:07
+
+102
+
+While this last example seems to create some confusion for the Urningangk case, the following utterance uses both negative particles, meyl adverbially and arriwel modifying the noun, clarifying the role of each.
+
+(198) Arriwel wukkuk meyl M NEG water NEG
+He has no water. KH320B32 00:50
+
+un-ar-mab 3nO-3mA?-have
+
+Other particles that are assumed to be negative particles, but were only attested once in the corpus include madjudj in Erre (given in isolation), elamurm in Urningangk and amuyuk and ngerrl in Mengerrdji.
+
+(199) Nuwu elamurm indjoe-woebberl U 2sg NEG? 2sgS-laugh
+You are not laughing. CU8A2 27:34
+
+(200) Lindu amuyuk Ø-yah M horse NEG? 3mS-go
+The horse is not going KH320B02 00:00
+
+(201) Ngerrl man-arr-yankadj
+
+wurinkarrm.
+
+M NEG 3vO-2IRR.A?-extinguish fire
+
+You did not put the fire out.
+
+KH320B32 00:08
+
+The following table summarises the patterns of use of negative particles in the three languages. The number in brackets indicates the number of times the particle is attested in a phrase (not in isolation) in each function.
+
+Table 7-1 Giimbiyu negative particles
+
+NEG (adj)
+
+NEG (adv)
+
+NEG (interjection) NEG (noun) ‘nothing’
+
+U arriwel (1) arriwel (1) arriwel (1)
+
+-
+
+meyl
+
+(2)
+
+elamurm (1)
+
+E arriwel (1) meyl
+
+(5) -
+
+arriwel
+
+madjudj
+
+M arriwel (2) meyl
+
+(3) arriwel (1)
+
+arriwel
+
+amuyuk (1)
+
+ngerrl (1)
+
+While there is some variation across the languages the two negative particles that are common across Giimbiyu, arriwel and meyl, are used more frequently than the variations.
+
+103
+
+Further tokens of the alternative particles madjudj, elamurm and amuyuk are required to understand their function and how they differ from the dominant two terms.
+
+7.5. Semblative phrases
+The particle (y)irrar is attested in Urningangk, Erre and Mengerrdji and indicates similarity.
+
+(202) Nuwuk irrwalik an-kardamal irrar
+
+U 3m
+
+tooth m-long
+
+like
+
+He has long teeth like a dog.
+
+CU8A2 19:57
+
+bumb. dog
+
+(203) Ya-rnimak irrar lindu E 3m-run like horse
+He runs fast like a horse. CE7A2 04:39
+
+(204) Lirrwalik ang-kardamal-amal yirrar bumb. M teeth 3m-long-REDUP like dog
+He has long teeth like a dog. KH320B32 01:11
+
+There are only examples of irrar introducing a noun, however similar particles in Gaagudju are observed as also being able to introduce other phrases (Harvey, 2002).
+
+In Mengerrdji the only attested example of the particle irrar has the gloss ‘already’, serving an adverbial function. I am unsure if this is the correct glossing as there appears to be an irrealis marker although the free translation would suggest realis construction.
+
+(205) Ngab irrar ma-Ø-ma-yankadj
+
+wurinkarrm.
+
+M 1sg already? 3vO-1sgA-IRR-extinguish fire
+
+I've already put the fire out.
+
+KH320B30 00:23
+
+The Erre and Urningangk translations of the above utterance use a different adverb, arrwarl. This may be based on the realis form of the verb ‘go’ warl (see §6.1.1).
+
+7.6. Questions
+
+Questions can be divided into two types; information questions and yes/no questions.
+
+104
+
+7.6.1. Information questions
+Information questions are formed in Giimbiyu languages by using an interrogative pronoun in place of a questioned element of a statement. There are a number of interrogative pronouns (see §4.4). These are not inflected for gender or case and only occur phrase-initially.
+
+The most common interrogative form that occurred in the data (in Urningangk and Erre)
+
+is adja. The interrogative sense is used for the ontological categories of action and place.
+
+The following examples show that the verb yah can be used in statements and in
+
+questions.
+
+(206) Ardja Ø- yah? U where 3mS-go
+Where has he gone? CU8A2 08:30
+
+(207) Arriwel Ø-yah U NEG 3mS-go
+[The horse] is not going. CU8A2 27:07
+
+In example (206) the interrogative is used with an intransitive verb. The next example shows that it can also replace a necessary argument in a transitive construction.
+
+(208) Ardja wuwoem? U what 2sgS.do
+What are you doing? CU8A2 07:09
+Intonation patterns for information questions tend to have falling intonation over the
+whole phrase, thus with high intonation over the phrase initial interrogative. Of course,
+all questions in the data are elicited which may not accurately reflect normal intonation
+patterns.
+
+7.6.2. Yes/no questions Yes/no questions are signalled by rising intonation. The structure of the phrase would
+appear to be identical to a declarative phrase.
+
+105
+
+(209) Nuwu Baland
+
+un-du-wirrb28?
+
+E 2sg white.man 3nO-2sA-know
+
+Do you understand English?
+
+CE6B3 00:54
+
+We can assume that given declarative prosody, this phrase could also mean ‘You understand English.’
+
+7.7. Interjections
+The only interjections recorded for Giimbiyu are ‘yes’ and ‘no’. All examples were given in isolation in the following forms.
+
+Urningangk Erre Mengerrdji
+
+Yes
+
+No
+
+uke arriwel
+
+uke madjudj
+
+ukke arriwel
+
+The interjection ‘yes’ was also attested in Mengerrdji in the following utterance.
+
+(210) Ukke, uwiyew M yes true
+Yes, that's true. KH320B13 00:56
+
+‘True’ may also constitute a separate interjection. A similar token wiyew was also recorded in Urningangk by Capell.
+
+7.8. Complex sentences
+7.8.1. Co-ordination and Conjunction The small group of particles have syntactic functions of conjoining phrases. While these functions can also be achieved through juxtaposition, two words will be addressed here: adja ‘and; but’ and arrangk ‘because’.
+
+28 This verb is a possible cognate with Bininj Gun-wok burrbu- and Iwaidja wurrwu- ‘know’ (p.c. Nick Evans) and Kun-barlang burrbunj (p.c. Isabel Bickerdike).
+106
+
+a) adja ‘and; but’
+The particle adja is attested as the conjoining particle ‘and’ and perhaps ‘but’. It can conjoin nominals (211) or predicates (212). It is also homophonous with the interrogative pronouns ‘what?’ and ‘where?’
+
+(211) Bumb adja wurrih mun-yarna-mun mun-yene-werl man-yarna-meh M dog and man 3plS-see-du 3pl-sit-return 3plS?-see-REFL?
+The dog and the man saw each other. KH321A02 01:09 (my transcription)
+(212) Uwunbul adja meheb Ø-yandj. U old.man but still? 3mS-stand
+He is old, but he's still alive. CU8A2 25:58
+The particle can be used with a whole utterance phrase-initially, perhaps as a temporal
+conjunction.
+
+(213) Adja menerr bulikki ngan-yey. M and now beef 1pl?S-eat
+And now we eat beef. KH320B30 00:47
+b) arrangk ‘because’ Mengerrdji, unlike Erre (no examples are available for Urningangk), uses a particle
+arrangk to link a causal clause.
+
+(214) Ngab nga-rliying, arrangk M 1sg 1sgS-fall because
+I fell because you didn't hold me. KH320B33 00:02
+
+meyl ngan-ngar-mab. NEG 1sgO-2sgA.IRR-have
+
+(215) Nga-ma-rly Dawoen, arrangk
+
+M 1sgS-IRR-go Darwin
+
+because
+
+I'm going to Darwin because I'm very sick.
+
+KH320B33 01:12
+
+nga-kurrl. 1sgS-suffer
+
+c) Juxtaposition While clearly conjunction can be performed by the adja particle and causal relations can
+take the particle arrangk, there is evidence that clauses can be juxtaposed, as has been
+
+107
+
+noted in other Australian languages (Hale, 1976). According to the elicited phrase, the following examples have a causal relation.
+
+(216) Nga-rliying meyl ngan-ngar-mab
+
+E 1sgS-fall
+
+NEG 1sgO-2sgIRRA?-have
+
+I fell because you didn't hold me.
+
+CE7A2 13:36
+
+(217) Nga-wule
+
+ngankenykerl an-marrkerr
+
+E 1sgS-sick
+
+meat
+
+m-bad
+
+I am sick because I ate bad meat.
+
+CE7A2 17:16
+
+Ø-Ø-yey. 3mO-1sgA-eat
+
+The use of juxtaposition to adjoin clauses also seems to extend to instrumental complements. The next example shows there is no instrumental marking on the noun. While an instrumental enclitic has been observed in Erre, this is not present in Urningangk (see §7.1.1).
+
+(218) Manmuhu meneyek imi-lb.
+
+U stick
+
+later
+
+1sgAIRR-hit
+
+I will hit it with a stick.
+
+CU8A2 21:54
+
+Juxtaposition is also observed in adjoining comitative arguments, meaning ‘with’.
+
+(219) Bumb imi-rly
+
+marrayankarl.
+
+E dog 1sgS.IRR-go kangaroo
+
+I will hunt kangaroo with dogs.
+
+CE6B3 06:17
+
+In many cases the juxtaposition of clauses may signal a progression on the time-line. In the next example, the clauses may be semantically linked, the first needing to precede the second, or they may be juxtaposed in a purposive relationship, as the gloss suggests.
+
+(220) Wukkuk u-Ø-ma-mab,
+
+ma-Ø-ma-yankadj
+
+M water 3nO-1sgA-IRR-have 3vO-1sgA-IRR-extinguish
+
+I will get water to put out the fire.
+
+KH320B31 01:58
+
+wurinkarrm fire
+
+The alternative reading may be ‘I will get water, then I will put the fire out.’
+
+108
+
+7.8.2. Serial verbs
+There are a number of instances in the data where multiple verbs are used in the one utterance, yet it does not appear that different clauses are being juxtaposed. The verb ‘go’ occurs alongside the verbs ‘paint’ (example (221)) and ‘look for’ (example (222)).
+(221) Nga-ma-rly nga-me-rndebbern-dak M 1sgS-IRR-go 1sgS-IRR-paint-REFL
+I will paint myself. KH321A02 01:22
+(222) Nga-ma-rly nga-rrawak Ø-u-mi-yu-wayay M 1sgS-IRR-go 1sgS-mother 1sgA-IO-IRR-3fIO-look
+I'll go and look for my mother. KH320B33 00:41
+Note that ‘go + verb’ is a common future construction in Indo-European languages.
+
+The verb ‘go’ is also used along side the word miwurrb giving the meaning ‘go hunting’. As this word does not appear to inflect like other verbs, it may be a satellite noun that forms a phrasal verb.
+
+(223) Nga-ma-rly miwurrb
+
+mem=oengey marrayankarl.
+
+E 1sgS-IRR-go hunt
+
+fire=INSTR kangaroo
+
+I will hunt kangaroo with fire.
+
+CE6B3 06:02
+
+Another verb attested as occurring next to another verb in the same clause is the verb ‘sit’ that has already been noted for its ability to function as a copula/existential verb (see §7.2).
+
+(224) Uwunbbul
+
+adja un-ya-hani29
+
+M old.man
+
+but 3nO-3mA-burn
+
+He's old but he's still alive.
+
+KH321A01 01:51
+
+Ø-yeni 3mS-sit
+
+An interesting causal construction is attested with a verb, otherwise unattested elsewhere in the data, that takes the imperative marking, while the second takes future marking.
+
+29 Note the alternative glossing given for this example in §6.4.
+109
+
+(225) A-wuddj-ak U 2sgIMP-cause-IMP
+Make him go. CU8A2 27:17
+
+imi-rly 3mIRR.S-go
+
+7.9. Reciprocals
+There is no single, consistent construction observed for reciprocal utterances in the data. Some appear to display a suffix (as discussed in §6.2.3 also see (226) and (227)) while others show a syntactically longer and arguably ‘complex’ construction. There are reciprocal utterances recorded across the three languages for the verbs ‘see’ and ‘paint’. All of these were given in very fast speech, therefore I am not certain of the transcriptions. It appears that reciprocal structures may involve a single (dual-inflected) word in Urningangk, while in Mengerrdji they display a two part phrase. Erre demonstrated one case of each structure.
+
+‘Paint each other’ (226) Nubu-laning-koerlwoerl nubuling-moe-woerlwoerl30 E 2sgIO?-1sg?-return? 2sgIO-?-IRR-return?
+We two will paint each other CE7A2 23:07 (My transcription)
+
+(227) Uwu-len-berl
+
+uw-arndabbarn-ak,
+
+M 2sgIO-1sg?-return 2sgIO-paint-IMP/REFL
+
+We two will paint each other.
+
+KH321A02 01:40
+
+menek nga-wuyoerrb im-arndabbarn. later 1sg-close? 2sgIRR-paint
+
+‘See each other’ (228) Wan-yarn-eweh-amun
+U 1nsS-see-1RECIP-du We saw each other CU8A2 28:44
+(My transcription)
+
+(229) An-yarn-iweyah-amun
+E 1nsS-see-1RECIP-du We saw each other. CE7A2 22:31
+
+30 There are three repetitions of this phrase given by the speaker, the second is inaudible presumably due to difficulties in digitising analogue tapes. The first and last show some variation in the initial syllables (prefixes) of each word. I have used the last version for the analysis. My transcription of the first version is Nukunganeng-koerlwoerl angoelimoekoerlwoerl.
+110
+
+(230) Bumb adja wurrih mun-yarn-amun M dog and man 3pl-see-du
+The dog and the man saw each other. KH321A02 01:09 (My transcription)
+
+mun-yene-werl 3pl-sit-return
+
+man-yarna-meh 3pl?-see-REF?
+
+While many prefixes are unclear in these examples, some patterns can be seen. The examples that don’t show the suffix discussed in §6.2.3, i.e., examples (226), (227) and (230), perhaps contain elements that evoke reciprocity through the verb ‘return’, attested elsewhere as munanyberlwerl ‘they will return’.
+
+(231) I-n-ang
+
+ungkubak
+
+U DEM-m-DEM two
+
+Those two are fighting.
+
+CU7B1 30:13
+
+mun-yuwoeny-oemun. 3plS-fight-du
+
+(232) Wurrih ungkekek mun-yangarr-kuny-umun.
+
+M Man two
+
+3plS-??-fight-du
+
+Those two are fighting.
+
+KH320B11 00:11
+
+111
+
+REFERENCES
+Birch, B. (2006) A first dictionary of Erre, Mengerrdji, Urningangk. Gundjeihmi Aboriginal Corporation.
+Breen, G. and Pensalfini, R. (1999) Arrernte: A language with no syllable onsets. Linguistic Inquiry 30, 1-25.
+Carr, P. (1993) Phonology. Palgrave.
+Chafe, W. (1987) Cognitive constraints on information flow. In Coherence and Grounding in Discourse, Tomlin, R. S. ed. John Benjamins, Amsterdam.
+Comrie, B. (2000) Sum: "Give" and person suppletion. Linguist List, Visited 4/7/06, http://linguistlist.org/issues/11/11-1166.html#1.
+Davies, J. (1989) Umbugarla: a sketch grammar. In Department Russian and Language Studies. University of Melbourne, Unpublished honours thesis.
+Dench, A. (1995) Martuthunira : a language of the Pilbara Region of Western Australia, Vol. 125. Pacific Linguistics, Canberra.
+Dixon, R. M. W. (2002) Australian languages: their nature and development. Cambridge University Press, Cambridge.
+Djayhgurrnga, E. B. and Singh, J. N. (1989) The Languages of the People at Oenpelli. Ngoonjook Batchelor Journal of Aboriginal Education 2, 17-24.
+Evans, B. and Merlan, F. (2004) Stop Contrasts in Languages of Arnhem Land: from the perspective of Jawoyn, Southern Arnhem Land. Australian Journal of Linguistics 24, 185-224.
+Evans, N. (1995) Current Issues in the Phonology of Australian Languages. In The Handbook of Phonological Theory, Goldsmith, J. H. ed, pp. 723-761. Blackwells, Cambridge.
+Evans, N. (1997) Head and agreement classes in the Mayali dialect chain. In Nominal Classification in Aboriginal Australia., Vol. 37, Harvey, M. and Reid, N. eds, pp. 105-146. John Benjamins, Amsterdam.
+Evans, N. (1998) Iwaidja mutation and its origins. In Case, Typology and Grammar, Siewierska, A. and Song, J. J. eds, pp. 115-149. John Benjamins.
+Evans, N. (2000) Kinship verbs. In Approaches to the Typology of Word Classes, Vogel, P. M. and Comrie, B. eds, pp. 103-172. Mouton de Gruyter, Berlin, New York.
+Evans, N. (2003) Bininj Gun-Wok: A pan-dialectal grammar of Mayali, Kunwinjku and Kune, Vol. 1. Pacific Linguistics, Melbourne.
+112
+
+Evans, N., Brown, D. and Corbett, G. (2001) Dalabon pronominal prefixes and the typology of syncretism: a Network Morphology analysis. In Yearbook of Morphology, Booij, G. and Marle, J. v. eds, pp. 187-231. Klewer Academic Publishers, Great Britain.
+Hale, K. (1976) The adjoined relative clause in Australia. In Grammatical Categories in Australian Languages, Dixon, R. M. W. ed, pp. 78-105. AIAS, Canberra.
+Hamilton, P. (1989) Australian phonotactics and the internal structure of the place node. University of Toronto.
+Hamilton, P. (1995) Constraints and markedness in the phonotactics of Australian Aboriginal languages. In Graduate Department of Linguistics, pp. 380. University of Toronto, Toronto.
+Handelsmann, R. (1991) Towards a Description of Amurdak: a language of Northern Australia. In Department of Linguistics, pp. 116. University of Melbourne, Melbourne.
+Harrington, J., Butcher, A., Fletcher, J., Guzik, K. and Stephenson, L. (2004) Production, perception, sound change and the lexicon: evidence from consonant clusters. Paper presented at the German-French Summer School on "Cognitive and physical models of speech production, perception and perception-production interaction", Lubmin, Germany, 2004.
+Harvey, M. (1999) Place names and land-language associations in the Western Top End. Australian Journal of Linguistics 19, 161-195.
+Harvey, M. (2002) A Grammar of Gaagudju. Mouton de Gruyter, Berlin, New York.
+Harvey, M. (2003) Reconstruction of pronominals among the non-Pama-Nyungan languages. In The non-Pama-Nyungan languages of northern Australia: comparative studies of the continent's most linguistically complex region., Evans, N. ed, pp. 475-513. Pacific Linguistics.
+Heath, J. (1986) Syntactic and lexical aspects of nonconfigurationality in Nunggubuyu (Australia). Natural Language and Linguistic Theory 4, 375-408.
+Hendriks, H. and McQueen, J. eds (1995) Annual Report. Max Planck Institute for Phycholinguistics.
+McKay, G. (2000) Ndjebanna. In The handbook of Australian Languages, Vol. 5, Dixon, R. M. W. and Blake, B. J. eds, pp. 155-354. Oxford University Press.
+Mushin, I. (1995) Epistememes in Australian Languages. Australian Journal of Linguistics 15, 1-31.
+113
+
+Nordlinger, R. (1998) A grammar of Wambaya, Northern Territory (Australia), Vol. 140. Pacific Linguistics, Canberra.
+Pym, N. and Larrimore, w. B. (1979) Papers on Iwaidja Phonology and Grammar, Vol. 2. SIL-AAB, Darwin.
+Singer, R. (unpublished) Mawng Gender. In Department of Linguistics. University of Melbourne, Melbourne.
+Verstraete, J.-C. (2005) The semantics and pragmatics of composite mood marking: The non-Pama-Nyungan languages of northern Australia. Linguistic Typology 9, 223268.
+Wurm, S. A. and Hattori, S. (1981) Language Atlas of the Pacific Area Part 1. Australian Academy of the Humanitites in conjunction with the Japan Academy, Canberra.
+114
+
+Appendix 1 ‘Give’ paradigm
+Past forms, proposed roots in bold. Future and present forms are given in brackets.
+
+Object 1sg 1sg
+
+2sg ngen-d-i E U (ngan-me-ly EU)
+
+Subject 3m ngen-yi EU (ngane-yenEU)
+
+2pl in-ye-ngundj U
+
+3pl moen-yi E U
+
+2sg
+3m
+1du. (inc?) 1tri
+1pl 2pl 3pl
+
+i-yi E (imi-ly UE) (imi-ly EU) (imi-ly U) yi E (imi-ly U)
+
+in-d-i EU (in-mi-ly E) an-d-a-ngoen-oemun U
+ngan-d-oe-ngoen-oengundj E ngan-d-a-ngoen-oengundj U -
+in-d-i E
+
+in-yi EU (in-inyEU) ne-yi EU ngan-ya-ngoen-oemun E ngan-ya-ngoend U in-ye E U ne-ye EU
+
+in-yi U in-yoe-ngoen-oemunU
+in-yu-ngoen U in-ye U
+
+moen-yi U moen-ya-ngoen-oemun E moen-yoe-ngoen-oemun U moen-yoe-woen-ungundj U moen-yi E U moen-yiE
+
+There was much overlap between future and present tense forms elicited. As there is no distinction elsewhere in the data between these tenses, the overlap may be accounted for by confusion in the elicited phrases. There may be, however, a past/non-past distinction for this verb rather than the realis/irrealis distinction seen elsewhere.
+
+115
+
+
