@@ -1,0 +1,237 @@
+AMERINDIA n°21, 1996
+la langue ika ou arhuaco : PHONOLOGIE*
+Jon LANDABURU CNRS - CELIA et CCELA**
+1. La syllabe 1.1. L'accent
+Tous les mots ika ont un accent. Celui-ci se manifeste par un élévation de la fréquence sonore sur une aire déterminée et/ou un renforcement de l'intensité de la prononciation sur cette même aire. Comme cette aire a une position canonique dans la chaîne du mot (elle est située avant une aire, non accentuée, à la fin du mot), et comme ces deux aires sont structurellement analogues, nous pouvons appréhender la structure de ces aires et définir la syllabe comme espace de déploiement de cette structure. Nous pouvons aussi la définir comme unité métrique. Nous disons alors que l'accent ika se trouve normalement sur l'avant-dernière syllabe du mot. Il s'agit bien sûr de la règle
+* Cet article fait partie d'un ensemble dont la première partie "La langue ika ou arhuaco : Morphosyntaxe du noyau verbal de l'énoncé" a été publiée dans Amerindia Nº 17, 1992. Nous rappelons que la langue ika, de la famille linguistique Chibcha, est parlée par une dizaine de milliers de personnes, dans la Sierra Nevada de Santa Marta, massif montagneux colombien aux bords de la mer des Caraïbes.
+**Centro Colombiano de Estudios de Lenguas Aborígenes (CCELA), Universidad de los Andes, Apartado Aereo 4976, Santafe de Bogota , Colombie. Fax : (57-1) 281 57 71. Adresse électronique : jlandabu@uniandes.edu.co
+
+AMERINDIA n°21, 1996
+pour les mots polysyllabiques. Les monosyllabes sont normalement accentués et ce trait définit leur existence comme mot. Dans les mots de plus de trois syllabes, un accent secondaire peut apparaître. Il est alors normalement situé à deux syllabes de distance avant l'accent primaire. Nous avons ainsi : "kiNku'm´ya 'ni1 "il arrive", "uNk´s'ia "bracelet protecteur".
+Certains morphèmes grammaticaux monosyllabiques liés (clitiques, préfixes, suffixes) ne comptent pas comme syllabes métriques pour situer l'accent (ils ne comptent pas dans le calcul de la position canonique). Par ailleurs, pour indiquer des solidarités syntaxiques, il arrive que des mots se soudent en blocs dotés d'un seul accent primaire. Ex : ko'kuru 'kawa" il est rond" vs. ko"kuruk'awa "le rond".
+Nota bene : Dans les transcriptions phonétiques ou phonologiques de cet article, nous ne notons l'accent que quand il n'est pas en position canonique. Il est alors figuré par un accent graphique sur la voyelle : á, í, ó, etc.. Nous ne notons pas l'accent secondaire.
+1.2. Le cadre syllabique
+La structure syllabique de l'ika peut être représentée de la sorte : SYLLABE = ± Attaque+ Rime Attaque = + Consonne d'attaque ± consonne de transition Rime = + Voyelle nucléaire ± Consonne de fermeture syllabique.
+Consonne d'attaque, consonne de transition, voyelle nucléaire et consonne finale représentent des positions successives contenant chacune un seul élément pris dans les paradigmes suivants : • Consonne d'attaque (C1) : p,b,w,F,m,t,d,s,z,r,n,tS,dJ,y,S,k,g,h. • Consonne de transition (C2) : w,y. • Voyelle (V) : i,e,a,´,o,u. • Consonne de fermeture (C3) : ? , N , r, w, y. (? est l'occlusion glottale ; N est une consonne nasale à réalisation variable. cf. infra ).
+SYLLABE = ± (C1 ± C2) + V ± C3
+1 Les exemples en ika ou les unités de langue ika sont présentés en caractères gras. Ils sont alors normalement donnés en notation phonologique. Lorsqu'on veut présenter une notation phonétique, celle-ci apparaît entre crochets. En cas de nécessité, on utilise les barres obliques (/../) pour spécifier qu'il s'agit bien de notation phonologique.
+
+LANDABURU J. : La langue ika ou arhuaco : phonologie
+Par "consonne" nous entendons ici toute unité qui ne peut recevoir l'accent à elle seule. Distributionnellement, la formule le montre, la consonne est périphérique et marginale ; phonétiquement, c'est un contoïde.
+1.3. Types syllabiques
+La formule autorise les types syllabiques suivants effectivement réalisés2 : S= V : e.ma "celui-ci" ; a?.mi.a "femme" ; in´ "qui" ; o.ru "à l'envers" S= C1 + V : ma.ri "faim" ; gu.n´ "main" ; gá.k´.n´"ceinture" S= C1+ C2 +V : á.nu.gwe "âme" ; gwi.o.m´ "serpent" ; byú.k´.n´ "genou" ; mye.ri "miel" ; m´.ny´ "nuage" S= V + C3 : áy.k´.n´ "seul" ; ´N.zo.ri.wa "j'y vais" ; i?.ba "à deux" S= C1 + V+ C3 : kúr.k´.n´ "fuseau" ; sir.ta.m´ "météorite" ; pey.s´N "moudre" S= C1 + C2 + V + C3 : kwi?.ma.gwe "éclair" ; kwa?.ko.m´N "naître" ; sw´N "brûler"
+On voit que les différents types syllabiques peuvent apparaître indépendamment de la position de l'accent dans le mot.
+1.4. Types apparemment distincts
+Quelques mots comme trum´ "pomme de terre", trik´ "petit rapace sp." , isrwa "toponyme sp.", mawria, "larme", mrogwi "matin", drun´N "voler" pourraient suggérer la possibilité pour /r/ d'apparaître comme consonne de transition (C2), après la consonne initiale, sur le paradigme de /w/ et /y/. Sans nier qu'un processus de création d'une nouvelle consonne intermédiaire soit à l'oeuvre, la possibilité effective de pouvoir restituer une voyelle sous-jacente pas toujours identique à la voyelle centrale /´/ /turum´, ís´rwa, maw´ria, marogwi, durun´N/ et le caractère systématique de ce dernier phénomène quand il est immédiatement antérieur à la syllabe accentuée nous autorisent à maintenir le traitement de /r/ comme consonne C1.
+2 Dans les exemples suivants, la syllabe illustrant le type syllabique est soulignée. Les syllabes sont séparées par des points.
+
+AMERINDIA n°21, 1996
+Certaines réalisations comme : [í?Ngwi] "un", [í?N]"maïs", [ná?N] "moi" indiqueraient aussi la possibilité pour /N/ (dont [N] est allophone) de fonctionner comme centre de syllabe. En fait /N/ appartient bien à une autre syllabe que la voyelle antérieure interrompue par l'occlusion glottale, mais on peut la considérer comme une consonne finale d'une syllabe différente car on peut restituer devant /N/ une voyelle, la centrale /´/, assourdie et courte, éliminée par certains locuteurs, maintenue par d'autres. Sont effectivement attestés [í?´Ngwi], [í?´N], [ná?´N]. Cette voyelle centrale peut être aussi restituée dans des mots dans lesquels certaines syllabes sembleraient suivre le type: C1+V+C3. Ainsi les mots "étudier" ou "fendre du bois", respectivement prononcés [riBíN] et [biN] par certains, doivent être transcrits phonologiquement /riwí´N/ et /bí´N/, ce qui rend mieux compte de la prononciation d'autres locuteurs, des règles accentuelles et des propriétés morphophonologiques de ces radicaux verbaux.
+
+2. La voyelle nucléaire
+
+2.1. Oppositions entre phonèmes
+
+La rime de la syllabe ne contient qu'une voyelle, réalisation d'une des unités suivantes : i, e, a, ´, o, u. Ces voyelles peuvent être classées en plusieurs groupes formés à partir des traits différentiels présents dans les oppositions qui suivent, et à partir des propriétés manifestées dans les phénomènes de réalisation, de neutralisation et morphophonologiques. ouverte : a / non ouvertes : i, e, ´, o, u fermées : i, u / moyennes : e, o antérieures : i, e / non antérieures : ´, u, o, a postérieures : u, o / non postérieures : i, e, ´, a centrales : a, ´.
+Nous articulons ces classes dans le tableau suivant :
+
+FERMEES
+MOYENNES OUVERTES
+
+ANTERIEURES i
+e
+
+CENTRALES ´ a
+
+POSTERIEURES u
+o
+
+L'indépendance de ces 6 phonèmes ressort des oppositions suivantes : i vs.e : dJiw´ "lagune" ; dJew´ "neige" ; zi? "rouge" ; ze? "braise"
+
+LANDABURU J. : La langue ika ou arhuaco : phonologie
+i vs. ´ vs. u : nigiN "il travaille" ; n´giN "il vient" ; nugiN "il se trouve" i vs. o : tSeyrwa ni "il est homme" ; tSeyrwa no "est-il homme ?" i vs. a : dJwi "soleil" ; dJwa "sang" ; emi "ici" ; ema "celui-ci" e vs. o : dJe "eau" ; dJo? "queue" ; -se? "suffixe agentif" ; so "calebasse" e vs. ´ vs. u vs. a : gem´ "bois pour faire le feu" ; g´m´(sin´) "génération, fils" ; gum´ "bouteille" ; gam´ "nourriture" ´ vs. o : k´m´ "sommeil" ; kom´ "ongle" ; n´z´ya "tu manges" ; n´zoya "tu vas" ´ vs. a : k´k´ "dent" ; kak´ "père" ; k´m´yin "il dort" ; k´mayin "il dormit" o vs. a : zom´ "cuir, peau" ; zam´ "nourriture" o vs. u : ko "sperme" ; ku "pou" a vs. u : gak´N "bord" ; guk´N "apporter"
+2.2. Règles de réalisation
+a) le phonème /i/
+Se réalise fermé et tendu surtout sous l'accent. Sa variante la plus remarquable est le segment étiré et légèrement en retrait [È] après /y/ et avant /N/ (il s'agit d'un contexte très fréquent car signifiant d'une désinence verbale) : "Il entre" /tSón´yiN/ =[ tSón´JÈN] ; "il mangea" /gayiN/=[gaJÈN]. La prononciation de certains locuteurs tendrait à identifier cet allophone de /i/ avec un allophone fermé de /´/: [I]. Il n'est pas sûr qu'on puisse en effet distinguer clairement entre : "disant" /J´N/ = [JIN] et "il dit" /JiN/ = [JÈN]. La grammaire oblige en tout cas à distinguer entre {-´N}, morphème d'imperfectif, présent dans "disant", et {-iN}, morphème d'affirmation, présent dans "il dit".
+b) le phonème /e/
+Sous l'accent se réalise plus ouvert : [E] : "eau" /dJe/ = [dJE], "mon oncle" /n´tegwe/ = [nUttEgwe].
+c) le phonème /u/
+Réalisation assez fermée et tendue sous accent ou devant occlusion glottale.
+d) le phonème /o/
+Se réalise assez ouvert [ø] , sous accent et devant occlusion glottale :. "fougère" /mom´/ = [mømI] ; "arbre sp." /gag´rom´/ = [gAg\ømI] ; "arbre sp."/g´ro?n´/ =[g\ø?nI].
+e) le phonème /a/
+Réalisation normalement centrale. Prononciation plus d'avant et plus tendue devant occlusion glottale : [a?n´] "pierre". Prononciation postérieure
+
+AMERINDIA n°21, 1996
+après les vélaires /k/,/g/ et après la finale syllabique /N/."Piège" /katSo/ = [qAtSo] ; "intestin" /gasiru/ = [GAsi|u] ; "animal" /aná?nuga/ = [aná?nugA]. Prononciation postérieure et fermée en syllabe finale non accentuée, la réalisation se rapprochant alors d'une variante de /´/ : "centre" /b´kana/ = [b´khAnU ] ; "eux" /ik´Na/ = [ikhUNU ] .
+f) le phonème /´/
+A une réalisation très variable et très complexe. Le conditionnement de la variation est fonction du type syllabique, de la consonne qui précède et de la consonne qui suit. Les variantes sont : [´], [I], [¨],[U] .
+a) Contextes 1-
+En syllabe ouverte non finale et non suivie par une consonne renforcée (cf.infra : renforcement des consonnes) le timbre vocalique moyen [´] varie en accord avec les règles suivantes ordonnées : Règle 1 : Il s'ouvre si la consonne précédente est labiale ou vélaire ; il se ferme si celle-ci est apicale, laminale, palatale ou s'il s'agit de /r/ ou de #- (début de mot). Régle 2 : Le timbre vocalique, résultat de l'application de la règle antérieure, se referme si la voyelle est suivie par /tS/,/y/,/r/. Elle se referme aussi mais à un degré moindre si elle est suivie de /t/ ou /s/.
+Exemples3 - /´/ précédée d'une consonne labiale ou vélaire : [ mUna] "nombril"; [pUna] "auxiliaire de futur proche" ; [d´mUnUN] "se mouvoir"; [m´tSéy] "proche"; [UNm´sesUN] "se lever" ; [UNmUkAnUN] "gagner" ; [kap¨|o] "poussière"; [b´khAnU] "centre" [ikhUn´] "eux"; [khUB´ssa] "couché" [kI\am´] "frisson" ; [kItS´] "cafard" ; [zág´Ja] "voleur" ; [agItS´] "chair tendre"; - /´/ précédée d'une consonne apicale, laminale, palatale, /r/ ou #: [tIkiN] "à l'arrière" [azI\UN] "dessus"; [s´gUN] "il y a longtemps" ; [is´bín] "fourmilier"; [s´Ban´] "savane"; [na?z´nin] "il me semble"; [JI|´] "paresse"; [mUtt´|´] "sauterelle sp."; [a?m´!tS´JIn] "il souffre"; [¨\¨\I] "démangeaison"; [Isi] "gale".
+b) Contextes 2-
+3 On souligne, dans l'exemple, l'allophone de /´/
+
+LANDABURU J. : La langue ika ou arhuaco : phonologie
+En syllabe ouverte finale de mot ou devant une limite morphémique, le timbre vocalique de /´/ tend à se refermer et oscille de la position moyenne [´] à la position fermée [I] ou [¨] . La voyelle est même facilement assourdie si la syllabe n'est pas accentuée. Sous l'accent on voit apparaître des variétés tendues et fermées, labialisées si la consonne antérieure est labiale. Exemples - en fin de mot : [betS´] "agave" ; [naB´] "pomme sp." ; [tun´] "lèvres" ; [kUtt´] "pied" ; [a\umak´] "grand-père" ; [eytib´] "ancien" ; [p¨] "amer, strident"; [ iNgI] "un quelconque" ; [JI] "paresseux" - devant une coupure morphémique : [\e?m¨-sUN] "enrouler, tordre"; [a?p¨-sUN] "souffler" ; [imUn´-gwi] "une fois aussi"; [a?kI-sUN] "rechercher l'ombre, le frais"
+c) Contextes 3
+En syllabe ouverte suivie d'une consonne renforcée (cf. infra), la voyelle centrale se réalise très ouverte [U]. Ce timbre se referme légèrement si la consonne précédente est /tS/ ou /y/. Comme /a/ n'apparaît jamais en cette position, on peut aussi bien dire que l'opposition entre voyelles centrales /a/ et /´/ est neutralisée, [U] étant alors décrit comme la réalisation de l'archiphonème "voyelle centrale". Exemples : [nUggu] "sel"; [BUkkUN] "arracher" ; [mUssi] "puce"; [\e?mUssUN] "cacher"; [kUtt´] "pied" ; [Utti] "bouton(peau)" ; [J´kka] "celui-là"; [tS´kka] "vigoureux".
+d) Contextes 4
+En syllabe fermée par l'occlusion glottale, la situation est semblable à celle de la syllabe finale accentuée. Les réalisations sont tendues, assez fermées, et labialisées si la consonne antérieure est labiale. Exemples : [aB¨?] "cadet" ; [ap¨?ti] "enfoui" ; [t\I?|I] "déchiré".
+e) Contextes 5
+En syllabe fermée par consonne nasale, la situation est semblable à celle de la syllabe suivie d'une consonne renforcée. L'opposition /a/ vs./´/ se neutralise et on trouve normalement [U]. On trouve [´] après /y/ (allophone[J] ) ou après une voyelle. Exemples :
+
+AMERINDIA n°21, 1996
+[nakUN] "venir"; [gUN] "manger"; [aBUN] "accomplir" ; [kUmmUN] "dormir" ; [issUN] "coudre"; [nUnnUN] "être"; [naJ´N] "se promener" ; [zamaJ´N] "chanter"; [kwe´N] "danser"; [Undi] "alors".
+
+3. La consonne d'attaque
+
+3.1. Oppositions phonématiques
+
+D'entre les 18 consonnes qui constituent le paradigme de C1, il convient de retirer F, S, h, très rares et uniquement présentes dans des emprunts ou dans des mots à forte valeur expressive. On a ainsi : /F/: Firo "fil"( de l'espagnol "hilo"), Firi nik´N "frire"(de l'espagnol "fritar"), FuNku o huNku "jonc"(de l'espagnol:"junco"), uFaw´N "se moquer". /h/: hari "attention ! " huuF´ "expression de dégoût", hom´ "morve". /S/ : S´ "pet", S´wínuma "insecte fétide de la pomme de terre", S´p´t´ "champignon fétide".
+
+Les 15 consonnes restantes peuvent être classées en plusieurs groupes formés à partir des traits différentiels présents dans les oppositions qui suivent et à partir des classes que la langue manifeste dans diverses règles phonologiques et morphonologiques.
+obstruantes : p, b, t, d, s, z, tS, dJ, k, g. vs. sonantes: w, r, y, m, n. sonores : b, w, m, d, r, n, z, dJ, y, g. vs. sourdes : p, t, s, tS, k. nasales : m, n vs. orales : p, b, w, t, d, r, s, z, tS, dJ, y, k, g. labiales : p, b, w, m. apicales : t, d, r, n. laminales : s, z, tS, dJ, y. lamino-alveolares : s, z. lamino-palatales : tS, dJ, y. velaires : k, g.
+
+On peut articuler ces traits dans le tableau suivant :
+
+LABIALES
+
+sourdes
+
+p
+
+Obstruantes
+
+sonores
+
+b
+
+orales
+
+w
+
+Sonantes
+
+APICALE S
+t
+
+LAMINOALVEOLAIRES
+s
+
+LAMINOPALATALE
+S
+tS
+
+d
+
+z
+
+dJ
+
+r
+
+y
+
+VELAIRES k g
+
+LANDABURU J. : La langue ika ou arhuaco : phonologie
+
+nasales
+
+m
+
+n
+
+L'indépendance de ces 15 phonèmes ressort des oppositions suivantes. Nous ne présentons que les oppositions fondées sur un seul trait différentiel.
+
+1) obstruantes sonores
+b vs. p : biN "Combien ?" ; piN "tous" b vs. w vs. m: a?betS´N "affûter" ; a?wetS´N "arracher" ; a?metS´N "souffrir, supporter" b vs. d : biNdi "Combien ?" ; diNdi(N) "coude" b vs. z : buN "guêpe" ; zuN "ventre" b vs. dJ : bo? "hamac" ; dJo? "queue" b vs. g : bey "couper" ; gey "feu" d vs. t : du "bon" ; tu "sein" d vs. r : d´ "mal coupé" ; r´ '"bien cousu, serré" d vs. n vs. z : dan´N "aboyer" ; nan´N "être" ; zan´N "se produire" d vs. dJ vs. g : d´ "mal coupé" ; dJ´ "tordu" ; g´ "course" z vs. s : iz´N "enfant non baptisé" ; is´N "coudre, tisser" z vs. dJ vs. y vs. g : z´N "manger" ; dJ´N "neige" ; y´N "dire" ; (zam´) g´N "manger" dJ vs. tS : dJukwi "cuisse" ; tSukwi "souris" dJ vs. y : a?dJuna "il veut" ; a?yuna "ça a éclairci" dJ vs. g : dJwia "de jour" ; gwia "frère" g vs. k : ga? "message, mot" ; ka? "terre"
+
+2) obstruantes sourdes
+p vs. t vs. s : pa "couché" ; ta "véritable" ; sa "assis" p vs. tS : peyk´ "loin" ; tSeyk´ "dans le champ" p vs. k : p´ "amer" ; k´ "froid" t vs. s vs. tS vs.k : tey "plein" ; sey "nuit" ; tSey "champ" ; key "donc"
+
+3) sonantes orales
+w vs. r : maw´N "pleurer" ; mar´N "deviné" w vs. y : wariN "haut" ; yari "pourquoi?" r vs. y : r´N "léger" ; y´N "dire"
+
+4) sonantes nasales
+m vs. n : mari "affamé" ; nari "semblable" m vs. w : miNzarisiN "il a semé pour toi" ; wiNzarisiN "ils ont semé"
+
+n vs. r : n´N "être" ; r´N "léger".
+
+AMERINDIA n°21, 1996
+
+3.2. Règles de réalisation
+
+A. Ordres et points d'articulation
+
+Les apicales (t,d,r,n) se réalisent comme des apico-alvéolaires. Les laminales constituent un ordre complexe dont l'unicité apparaît dans certaines règles grammaticales. On les prononce avec la lame de la langue contre les alvéoles (s,z) ou contre la zone pré-palatale (tS,dJ,y). /r/ est réalisé comme vibrante simple [\]. Les vélaires sont assez postérieures : devant les voyelles centrales /a/ et /´/ elles se réalisent, surtout en zone orientale, presque comme des uvulaires : "dormir" /k´m´N/ = [qAmUN] ; "tronc" /gák´na/ = [GAq´na] "montagne" /dJirigak´/= [dJi\iGAk´]. Dans ces mêmes parlers orientaux, le phonème /g/, devant /e/ se palatalise : "il est couché" /a?gékw´ya/ = [a?gyékw´Ja].
+
+B. Séries ou modes d'articulation
+
+En général l'articulation de toutes les consonnes est assez tendue. Les sourdes non laminales / p, t, k /sont aspirées par certains locuteurs en début de mot, devant les voyelles fermées /´, u/ : "pourri" /p´k´na/ = [ph´kUnna] "frapper un métal" /pu?tes´N / = [phu?tesUN] ; "lèvres" /tun´/ = [thun´] ; "laurier sp." /t´kuroru]/ = [th´kku\o\u] ; "dent" /k´k´/ = [khUkkh´] ; "sorte de chamois" /kusar´/ = [khusa\I] ; "arbre"./k´N/ = [khUN]. Plus générale est l'aspiration de /k/ en syllabe finale ouverte. "Petit pois" /paroka/ = [pa\okha] ; "gens, indiens" /ik´/ = [ikh´] ; "mon père" /n´kak´/ = [n´kakh´] ; "grillon" /títiko/ = [títtikho] ; "sarigue" /ziNki/ = [ziNkhi] ; "où ?" /bek´/ = [bekh´].
+Les sonantes orales tendent aussi à une prononciation énergique. /w/ est normalement réalisé comme la fricative labiale sonore [B] : "viande" /wim´/ =[Bim´] ; "chaud" /wiwi/ = [BiBi] ; "beau-père" /wu?gwe/ =[Bu?gwe] ; "oeuf" /web´/ = [BebI]. Cette prononciation ne se relâche que devant /a/. Sa réalisation se rapproche alors de celle de la consonne de transition /w/. Certains locuteurs de Nabusimake prononcent alors clairement l'approximante [w] : "je tombe" /wa?rwa ní/ = [wa?\wa ní] ; "je regarde" /wa?kuwa/ = [wa?kuwa].
+/y/ est normalement réalisé comme la fricative lamino-prépalatale [J] (plus dorsale que le français "jaune") : "paresseux" /y´/=[JI] ; "tous" /yow/ = [Jow] ; "il voit" /tSw´ya/ = [tSw´Ja]. Comme pour /w/, seuls certains locuteurs de la région centrale relâchent cet effort de prononciation et font entendre au lieu de [J] , l'approximante palatale [y] (yod), mais seulement en initiale et
+
+LANDABURU J. : La langue ika ou arhuaco : phonologie
+devant /a/ et /´/. On peut entendre : "pourquoi?" /yari/ = [ya\i] ; "dire" /y´N/ = [y´N] ; "Plût à Dieu !" /yaki/ = [yaki] .
+C. Le renforcement consonantique
+Après une voyelle accentuée non ouverte (í-, ú-, ´!-), la consonne qui commence la syllabe suivante peut être renforcée jusqu'à être prononcée comme une véritable géminée (les occlusives maintiennent alors une retention variable entre l'implosion et l'explosion ; les fricatives allongent la durée de la friction). Plus un locuteur est âgé ou traditionnel et plus il observera cette règle. Les consonnes les plus communément renforcées sont, par ordre de fréquence :
+-g-: "il se trouve" /nugiN/ = [nuggiN] ; "il vient" /n´giN/ = [n´ggiN] ; "il fait" /nigiN/ = [niggiN] ; "large" /w´g´/ = [wUgg´] ; "chauve-souris" /yugu/ = [dJuggu]
+-k-: "vêtement" /m´k´/ = [mUkk´] ; "bouche" /k´k´/ = [kUkk´] ; "souris" /tSukwi/ = [tSukkwi] ; "été" /tiki/ = [tikki] .
+-t-: "nouveau" /abiti/ = [ abitti] ; "sac" /tutu/ = [tuttu] ; "pied" /k´t´/ =[ kUtt´]
+-s-: "fourmi" /is´/ = [iss´] ; "frapper" /tSus´N/ = [tSussUN] ; "coucher" /w´s´N/ = [BUssUN] ; "puce" /m´si/ = [mUssi] .
+Moins fréquent est le renforcement des nasales /n/ et /m/. Il se produit surtout avec les voyelles /u/ et /´/ : "plante sp. des hauteurs" /pun´/ = [punn´] ; "main" /gun´/ = [gunn´] ; "Est-il?" /n´no/ = [nUnno] ; "dormir" /k´m´N/ = [kUmmUN] ; "jaune" /tS´mi/ = [tSUmmi] ; "mouffette" /wakuma/ = [Bakumma].
+On trouve aussi, bien qu'encore plus rares, les renforcements de /w,tS,dJ,y/: "semence" /´wa/ = [UBBa],etc. Dans cette même position de nombreux locuteurs réalisent le phonème /r/ en le fricativisant : "dinde" /unture/ = [untu|e] ; "ventre" /gasiro/ = [gAsi|o], etc... Les renforcements décrits dans ce paragraphe sur /m,n,w,tS,dJ,y/ ne sont pas aussi compulsifs que ceux qui apparaissent avec /g,k,t,s/. Ils sont souvent utilisés à des fins expressives ou stylistiques.
+Le renforcement ne semble pouvoir avoir lieu qu'à l'intérieur du même morphème lexical et sous un accent en position canonique (avant-dernière syllabe). La présence du renforcement attesterait donc de l'appartenance de la consonne renforcée au même morphème lexical que la syllabe accentuée. C'est pourquoi nous avons pu distinguer [tSussUN] "frapper", correspondant à
+
+AMERINDIA n°21, 1996
+/tSus´N/ analysable morphologiquement en tSus-´N (frapper-imperfectif), de [tSus´N] "laisser" correspondant aussi selon une vision uniquement phonologique à /tSus´N/ mais analysable morphologiquement en tSu-s´N (laisser-faisant). On peut en effet avoir renforcement dans le premier cas, mais pas dans le second. On peut de même marquer une légère pause dans le second cas, pas dans le premier. Dans des mots composés ou dérivés, le renforcement apparaît après la syllabe accentuée de l'élément lexical principal même si cet accent est secondaire dans le mot. Ainsi : "fils" /g´m´sín´/ = [gU!mm´-sín´]; "époque d'été" /tikirig´N/ = [tíkki-\ígUN]. (On trouve aussi le renforcement, mais cette fois en initiale de syllabe accentuée, après les préfixes de possession nominale et les préfixes d'actance oblique k´-, ki-).
+4. La consonne de transition
+Entre la consonne d'attaque et la voyelle nucléaire, on ne saurait trouver qu'un des deux phonèmes /w/ et /y/ réalisé comme consonne approximante ou semi-vocalique [w], [j]. Exemples: "manioc" /irokw´/ ; "j'étais" /n´Nkwin/ ; "âme" /ánugwe/ ; "autre" /adJwa/ ; "voir" /tSw´N/ ; "noir" /twi/ ; "homme" /tSeyrwa/ ; "genou" /byúk´n´/ ; "miel" /myeri/ ; "nuage" /m´ny´/ ; "front" /tyuk´n´/ ; "diarrhée" /garya/.
+/w/ n'apparaît pas après une attaque labiale /p,b,m,w/. /y/ n'apparaît pas après une laminale palatale /tS,dJ,y /.Après /w/ consonne de transition on ne trouve pas les voyelles /u/ ou /o/. Après /y/ consonne de transition on ne trouve pas la voyelle /i/.
+5. La fermeture syllabique
+Dans le discours comme dans le lexique, la syllabe ouverte est bien plus fréquente que la syllabe fermée. Celle-ci se produit par la présence, après la voyelle nucléaire, d'une et d'une seule des unités suivantes : ?, N, r, w, y. 5.1. La fermeture par occlusion glottale
+L'existence phonématique de l'occlusion glottale ressort des nombreuses paires minimales où elle intervient :
+Exemples : /zi/ "ver" vs. /zi?/ "rouge" ; /ku/ "pou" vs. /ku?/ "il n'y a pas" ; /ga/ "excrément" vs. /ga?/ "message" ; /wam´/ "vapeur" vs. /wa?m´/ "dommage, préjudice"; /ko/ "sperme" vs. /ko?/ "plein" ; /a-/ prefixe verbal (actance primaire indéfinie) vs. /a?-/ prefixe verbal d'actance secondaire, etc..
+
+LANDABURU J. : La langue ika ou arhuaco : phonologie
+L'occlusion glottale peut apparaître en syllabe accentuée ou non, en fin de mot ou non : /kwi?ma/ "jeune homme"; /me?záno/ "te sens-tu ?"; /a?mía/ "femme". En fin de monosyllabe, la voyelle interrompue par la fermeture glottale crée un léger écho après cette fermeture, écho qui ne se produit pas si le mot est immédiatement suivi d'autres. Ainsi : [in´ no ?- bo?o] = "Qu'est-ce que c'est ?- (Un) hamac" vs. [bo? ni] = "C'est (un) hamac". Toute voyelle peut être suivie de l'occlusion, encore que la suite /´?/ soit rare et propre de certains locuteurs seulement : [n´?N] "moi" ; [aw´?N] 'grand' (parler de Donachuí). L'occlusion glottale peut apparaître en début de mot devant voyelle. Cette ocurrence n'est pas phonologique :[?a?mia] = /a?mia/.
+5.2. La fermeture par N
+/N/, consonne nasale variable, peut fermer une syllabe, accentuée ou non, en fin de mot ou non :
+1) Devant une consonne, /N/ tend à être réalisée homorganiquement au point d'articulation de cette consonne. Certains locuteurs la réalisent uniformément comme [N].
+- devant les labiales /p, b, m/, /N/ se réalise [m] : [nambo] = /naNbo/ 'condor' ; [UmmaBUN] =/´Nmaw´N/ "se mettre à pleurer". Par contre devant /w/ on n'a pas [m] mais [N], ce qui permet de maintenir la visibilité de la limite syllabique: /´Nw´/ = [UNBI] '"testicule" (une réalisation [UmBI] pourrait être découpée en [U.mBI], [U.mwI]).
+- devant les apicales /t,d,n/ et les laminales alvéolaires /s,z/, /N/ se réalise [n] : [nUndi] = /n´Ndi/ "moi + topicalisateur"; [kunsamI] = /kuNsam´/ "la tradition" ; [kUnz´Ba] = /k´Nz´wa/ "fruit".
+- devant les laminales palatales /tS, dJ/, /N/ se réalise comme la nasale palatale : [gUˆtSona] = /g´NtSona/ "souvenu".
+- devant les vélaires /k,g/, /N/ se réalise comme la nasale vélaire : [kUNkaBI] = /k´Nkaw´/ "banc, siège" ; [UNga\ia] = /´Ngaria/ "selle".
+2) Devant # (fin de mot), /N/ se réalise [N] après les voyelles /u/,/´/ ; [n] ou [N]après /i/ : [kUN] = /k´N/"arbre, bois" ; [gUN] = /g´N/"manger" ; [JÈN] ou [JÈn] = /yiN/"il dit" ; [nuggin] ou [nuggiN] = /nugin/"il se trouve".
+3) devant une voyelle, /N/ se réalise toujours comme [N]. L'apparition de cette réalisation entre voyelles indique qu'elle appartient à la syllabe antérieure. [N]
+
+AMERINDIA n°21, 1996
+n'est jamais consonne d'attaque. De fait on ne l'a trouvée que devant une limite morphémique.
+Exemples : /aruN´N/ = [a\uNUN] "penser" {aruN- (RVpenser)+ -´N (imperfectif)} ; /g´N´N/ = [GUNUN] "ruminer" {g´N- (ruminer)+ -´N (imperfectif)} ; /n´Num´/ = [nUNum¨] "mon oeil" {n´N- (mien) + um´ (oeil)} ; /buNow/ = [buNow] "file !" {buN- "filer" + -ou "impératif"}.
+C'est parce que les occurrences de [N] entre voyelles se produisent avant une limite morphémique qu'on ne l'a pas interprétée comme la réalisation d'un phonème /N/ en position C1, en opposition par exemple avec les nasales /m/ et /n/. De plus les réalisations de la voyelle centrale antérieure permettent d'interpreter la syllabe comme fermée et donc /N/ comme fermeture syllabique, en accord avec les règles présentées. La seule occurrence de /N/ que nous ayons trouvée et où la limite morphémique n'est pas apparente est [bisuN´] "nez". Il nous semble toutefois significatif que certains locuteurs prononcent [bisuN].
+Il est important de remarquer que tant pour le traitement de ce problème comme pour celui du renforcement consonantique la phonologie de l'ika ne saurait être complétée sans avoir recours à des données morphologiques et plus spécifiquement à la segmentation de la chaîne morphologique.
+Devant /N/, le paradigme vocalique diminue. Nous n'avons rencontré ni les voyelles moyennes /e/ et /o/, ni la voyelle ouverte /a/ (un seul contreexemple : /aNga/ "abeille, cire"). Comme on l'a indiqué plus haut, la centrale se réalise très ouverte : [U].
+5.3. La fermeture syllabique par /r/
+Contrairement aux deux consonnes antérieures, /r/ est aussi consonne d'attaque. Une syllabe fermée par /r/ peut être accentuée ou non. On ne l'a pas trouvée en fin de mot.
+Exemples : sirtam´ "météorite" ; kúrkan´ "fuseau" ; kortam´ "faucon sp."; markon´ "tortue" ; burburu "cartilage".
+On peut décider, contrairement à ce que nous avons posé plus haut que les groupes C1 + r réalisent un nouveau type syllabique et qu'il n'y a plus lieu de poser une voyelle assourdie intermédiaire (cf. supra.1.4. Types apparemment distincts), /r/ peut être alors vu aussi comme consonne de transition C2 et est, comme ici en C3, sur le même paradigme que /w/ et /y/.
+
+LANDABURU J. : La langue ika ou arhuaco : phonologie
+5.4. La fermeture par /y/ ou /w/.
+La réalisation de cette fermeture est assez vocalique, la liaison avec la voyelle nucléaire produisant une sorte de diphtongue finissant en [i$] ou [u*]. Bien qu'on puisse discuter de la nature vocalique ou consonantique de ces segments, nous avons préféré les inclure dans le paradigme de consonnes C3. Admettre une diphtongue et donc des noyaux vocaliques complexes est une hypothèse qui nous semble inutile surtout si l'on tient compte du fait qu'un tel noyau syllabique n'est jamais suivi d'une des autres consonnes de fermeture que nous avons vu. Il est plus simple de dire que l'ensemble des sonantes de la langue (plus l'occlusion glottale) apparaît en distension syllabique après une voyelle simple.
+Exemples : kumeyt´ "arc-en-ciel" ; gáys´n´ "jeune fille" ; ayk´n´ "seul" ; tSey "champ" ; say "hier" ; zeyzi "content" ; peyk´ "loin" ; owkw´ "impureté" ; owm´N "se baigner" ; sewkukwi "divinité sp. et anthroponyme" ; awwí?na "interdit" ; mowga "deux" ; powru "village". /y/ ou /w/ ne peuvent achever une syllabe dont la voyelle est i, ´, u. On n'a en effet trouvé que les séquences : ey, ay et ew, aw, ow.
+Note sur les semi-consonnes :
+Selon un point de vue qui irait au delà du cadre syllabique dans lequel on a voulu se restreindre ici parce qu'il nous a semblé le plus fécond pour décrire cette phonologie à ce niveau, on pourrait considérer qu'il existe une seule unité /u/ par delà l'opposition voyelle/consonne. Cette unité apparaîtrait : - à l'attaque, comme consonne C1, sous la forme consonantique [B] et [w], - comme consonne de transition C2, sous la forme semi-consonantique [w], - comme voyelle nucléaire sous la forme [u], - en position de fermeture syllabique sous la forme [u*].
+La morphophonologie confirme cette hypothèse en montrant de fréquents passages entre ces quatre formes. On n'a jamais deux fois cette même unité dans une même syllabe. Par contre dans des suites hétérosyllabiques les réalisations différentes de cette unité peuvent entrer en contact. La lecture correcte d'une graphie où l'on n'utiliserait que u pourrait être assurée par les deux règles suivantes : u doit être lu consonantique devant toute voyelle sauf u, doit être lu vocalique devant consonne,# ou u. En effet la séquence uu ne peut correspondre qu'à la suite hétérosyllabique [..u.w...]. Ces règles de lecture
+
+AMERINDIA n°21, 1996
+peuvent évidemment être interprétées comme les règles de réalisation d'un même phonème.
+Bien que la morphophonologie indique aussi une proximité entre /i/ et /y/, on ne saurait les réduire à une même unité phonologique. Leur distribution n'est pas en effet complémentaire.
+Note sur la fermeture syllabique expressive :
+Certaines expressions emphatiques s'achèvent par le segment fricatif vélaire expressif [x]. Ainsi : y´ "paresseux" peut devenir y´x "très très paresseux" ; m´ "lourd", m´x "très très lourd!". Comme dans le cas des segments F, S, h, qui apparaissent à l'attaque consonantique dans des contextes également expressifs (cf. 3.1), on considère x comme extérieur au système ici décrit.
+Note alphabétique :
+L'alphabet utilisé pour écrire l'ika dans nos textes et les articles consacrés à la grammaire, suit de près la notation phonologique avec les quelques modifications suivantes. Par rapport à la notation de l'A.F.I. suivie cidessus, les trois changements suivants interviennent : tS > ch, dJ > j, ´ > Á. Pour la nasale variable en fermeture syllabique (/N/), on écrit toujours n, la prononciation étant automatiquement conditionnée sauf dans le cas où ce phonème, devant voyelle et se prononçant alors [N], peut être confondu avec la consonne d'attaque /n/. Dans ce cas, assez rare, on écrit N (ainsi : bisuNÁ, aruNÁn].
+
+

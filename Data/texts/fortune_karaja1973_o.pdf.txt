@@ -1,0 +1,990 @@
+Gramática Karajá: um Estudo Preliminar em Forma Transformacional
+
+DAVID LEE FORTUNE
+
+0.
+
+As exigências de uma formulação da gramática Karajá 1 dentro de uma teoria moderna de
+
+lingüística salientam a necessidade de uma extensão da teoria transformacional na parte referente aos
+
+problemas, muito evidenciados em línguas indígenas. Não são satisfatoriamente solucionados em
+
+gramáticas elaboradas de acordo com nenhuma das teorias atuais. A extensão proposta neste trabalho
+
+proporciona um meio eficiente para lidar com o problema da concordância dentro do componente
+
+transformacional de uma gramática.
+
+É, portanto, necessário introduzir uma convenção nova, a de difusão. Ela distribui certas propriedades primitivas de um símbolo para outros símbolos dentro da locução verbal com que estes símbolos concordam.
+
+A língua Karajá apresenta a ocorrência de uma quantidade excepcional de concordâncias, como por exemplo, entre os pronomes e os verbos. A pessoa do pronome -- seja primeira, segunda ou terceira- é marcada às vezes até por quatro dos afixos do verbo.
+
+1.2 kai -boho te- winy- maha- teny te
+
+2a-PRO PL 2a-TR RV
+
+2a-ASP 2a-PL 2a-TPAS
+
+'Vocês todos continuamente o fizeram (lá).'
+
+As consoantes sublinhadas no verbo do exemplo número 1 marcam a concordância gramatical
+dos afixos com o pronome plural da segunda pessoa. O sentido de pessoa é marcado quatro vezes, e o
+número plural uma vez. A convenção necessária para produzir as formas de estrutura de superfície terá a seguinte manifestação: quando a regra transformacional é aplicada, a propriedade [2a pessoa] é copiada do
+pronome e colocada no verbo. Portanto nisto consiste a convenção diferente: todos os afixos do verbo recebem esta propriedade [2a pessoa] -- seja do pronome, do adverbial ou até mesmo do tempo do verbo.
+
+Esta convenção funciona bem para a sentence 1, pois neste caso todas as partes da frase verbal precisam desta propriedade de 2a pessoa, ou não-1a pessoa, para produzirem as realizações fonéticas
+próprias do léxico.
+
+2. jiarþ boho r- e- winy- wahã- r- eny- r- e 1ª-PRO PL TRL TR RV 1ª-ASP TRL PL TRL TPAS
+"Nós continuamente o fazíamos (lá)'.
+No exemplo número 2, a primeira pessoa manifesta a realização fonética numa única posição dentro da frase verbal. Neste caso, um outro tipo de concordância está sendo marcado nas mesmas posições onde a 2a pessoa é marcada na sentença número 1.
+A concordância agora é de direção. Para verbos de movimento é a direção da ação (i. e. de lá para cá, ou daqui para lá). Em outros verbos é o local da ação (i. e. aqui, ou em outro lugar). A concordância de direção translocativa substituiu, neste exemplo, o que apareceu como concordância de pessoa nos outros exemplos (terceira pessoa é zero (ou nulo) neste caso, mas nas outras pessoas a direção e a pessoa são ambas marcadas).
+
+3. kai -boho heto b- d -i- winy- mahã- b -d -eny-kre 2ª-PRO PL N 2ª CIS TR RV 2ª-ASP 2ª CIS PL FUT 'Vocês todos virão sempre para fazer uma casa'.
+Nota-se que no exemplo número 3, a segunda pessoa, a direção cislocativa, e o número plural são marcados simultaneamente entre os afixos de aspecto e tempo futuro -- todas copiadas de outras categorias pela regra transformacional de concordância e colocadas aqui.
+No decorrer deste trabalho inicia -se a apresentação com a estrutura frasal (EF): as regras do componente de base, acompanhadas pelos esclarecimentos necessários a cada regra. Cita-se, depois, um texto que exemplifica as sentenças básicas geradas pela base e transformadas pela aplicação das regras do componente transformacional em sentenças naturais como foram registradas eletronicamente. As regras transforma-cionais seguem logo após o texto. O terceiro componente da gramática, o léxico, consiste de três partes :
+1) Um léxico pequeno ilustrativo em que as palavras têm todos os traços significativos especificados;
+2) Um jogo de regras de redundância em que são especificados os Determinadores (DET), Pronomes (PRO), marcadores de tempo (TEM), e outras classes fechadas da língua;
+3) Um léxico mais amplo que tem apenas uma especificação parcial dos traços significativos.
+Praticamente todas as convenções para formulação ou conflação de regras utilizadas nesta gramática, são as que vem sendo desenvolvidas dentro desta teoria e estão na literatura transformacional3.
+
+1. ESTRUTURA FRASAL (COMPONENTE DE BASE).
+O sub-componente, estrutura frasal, é aqui gerado em etapas que estendem além do corpo em que foi baseado. Foi feito assim para possibilitar a geração de expressões vocais que não existem no corpo, mas ainda assim permaneceriam como sentenças da língua. Depois da explicação do símbolo inicial, segue a lista completa das regras da estrutura frasal.
+
+1.1. SENTENÇA #S#.
+A sentença é a cadeia inicial (escrita entre marcadores de limite#), de que todas as sentenças da língua são derivadas. Esta regra é reaplicada recursivamente para produzir qualquer cadeia de sentenças. Uma vez reaplicada #S##S# as regras de transformação iniciam as operações de encurtamento, eliminação de redundância, etc., ainda conservando a mesma informação, de modo relativamente não ambíguo. Há vários tipos de sentenças iniciais e sentenças seqüenciais no discurso de qualquer língua. Uma sentença inicial pode ser reduzida a uma interjeição, por exemplo, dependendo da situação ou ambiente não lingüístico para suprir os componentes de categoria implícitos mas não presentes realmente na fala.4 As sentenças de seqüência dependem transformacionalmente das sentenças anteriores. Próformas (pronomes, pró-verbos, pró-advérbios e outros substitutos ou sub-rogativos) são quase sempre obrigatórios na produção de sentenças de seqüência bem formadas.
+
+1. 2. REGRAS SUBSEQUENTES.
+
+1. S
+
+---> FN + NUC (ADV)
+
+2. NUC
+
+{ } FN + FV
+---> PRED EXIST
+
+3. FN 4. AFN
+
+---> (POS + N + AFN (S')) ---> (AF) PES + NUM + CAS
+
+5. AF
+6. PRED 7. FV 8. V 9. AFV 10. INTEN 11. ENF
+
+12. POS
+
+{ } 13. PRI
+14. SEG 15. TER 16. QUA
+
+17. ASP 18. RV 19. N 20. PES 21. NUM 22. ADV 23. DET
+
+}
+
+24. TEV
+
+25. CAS
+
+---> DET (CAUS) (CLAS) (QUANT)
+---> ADJ ---> V + ASP + TEV ---> RV (AFV) ---> (NEG) (INTEN) ---> ENF (le) ---> tyhy, hyy, ...
+{ }PRI
+---> SEG TER QUA
+{ }wa a ---> i
+ta
+--->SC
+
+1. 3. O ESCLARECIMENTO DAS REGRAS.
+R-l Esta regra afirma que uma sentença é reescrita como frase nominal (FN), mais núcleo (NUC),
+mais adverbial (ADV) facultativo. ADV é o símbolo para conjuntos de traços significativos sob substantivo pospositivo (+SPP) que
+são realizados como locativos (LOC) (wa-heto-ki '3na 1minha 2casa'), temporais (kau-ru 'ontem a noite'), advérbios (òsàna 'talvez'), atributivos (wàse 'como'), ou qualquer outro substituto para estes, como próadvérbios (kowa 'aí', kaki 'aqui').
+ADV também inclui [+Modal (MOD)] como iny 'desiderativo' ràki 'marcador de citações', heny 'preventivo'; e as direcionais [+DIR] como r 'lá, além (daqui)', e d'aqui (de lá)' que são colocadas na frase verbal (FV) pelas regras de concordância. É também fonte de [+ Pergunta (PER)], um traço que ocasiona perguntas do tipo que levam as respostas "sim" ou "não" Se se anexar os traços [+Abstrato (ABST)] ou Animado (ANI)], ocasiona os outros interrogativos.
+
+Estes adverbiais são assinalados no léxico de acordo com as categorias necessárias para os emparelhar.
+Talvez seja mais eficiente assinalar os poucos verbos que ocorrem em citações com referência ao encadeamento (ENCR). Isto, portanto, pode ser produzido por reaplicação simples da cadéia inicial.
+A postulação de pró-advérbios parece ser uma generalização bastante significante e justifica ainda mais o nódulo ADV nesta regra. O pró-advérbio kowa 'lá' facilmente substitui heto-ò 'para a casa', ou, na reaplicação recursiva de ADV ambos podem ocorrer numa relação apositiva (kowa, heto-ò 'la, para a casa'). A segunda locução especifica mais detalhadamente o lugar exato.
+R-2 Esta regra afirma que o núcleo é rescrito ou frase nominal mais frase verbal, predicado (PRED),
+ou uma categoria de existência (EXIST). Esta última inclui os verbos que não podem ocorrer com um objeto.
+O FN desta cadéia é a frase nominal objetiva. É o único caso permitido em regras da estrutura frasal, da reaparencia de um elemento que já apareceu uma vez como símbolo do lado esquerdo de uma regra.
+R-3 Frase nominal consiste de um símbolo possuidor, mais um sufixo nominal, mais uma sentença
+marcada com uma plica. Esta regra postula uma categoria facultativa de posse que permite, mais tarde, a inserção dos
+prefixos de posse, mas não a inserção de qualquer outra categoria depessoa. A justificativa para isso é que as regras de concordância (CON) não operam nos pronomes (PRO) de posse nem nos respectivos marcadores de plural (PL). É completamente distinta das outras categorias de pessoa. Esta categoria de posse é facultativa desde que, nem todos os substantivos possam ser possuídos.
+Pela postulação da categoria afixo nominal (AFN), é afirmada que as categorias pessoa (PES), número (NUM) e caso (CAS) são propriedades primitivas do substantivo. Estas propriedades são geradas uma só vez nas regras de estrutura frasal. Daí em diante, elas são copiadas do substantivo e sobrepostos nas categorias do verbo com que são concordantes. O S' é um símbolo postiço que indica o lugar de encadeamento de outras sentenças, nominalizações, etc.
+R-4 Afixo nominal é rescrito como outro afixo (AF) facultativo, mais pessoa, mais número, mais
+caso.
+R-5 Afixo é rescrito como um determinador (DET), mais um causativo (CAUS) facultativo, mais um
+clasificador (CLAS), mais um quantitativo (QUANT).
+R-6 É bem possível que o adjetivo (ADJ) eventualmente será melhor postulado como uma sentença
+reduzida. Neste caso, poderia ser encadeado com regras transformacionais. Aqui foram gerados pelas regras de base, para evitar as regras ponderosas, que seriam necessárias para o componente transformacional reduzi-los de sentenças.
+R-7 Existem várias alternativas para a ligação da categoria de direção (DIR). Poderia ser fixado à
+esquerda do verbo (V), mas também poderia ser introduzido entre o aspecto (ASP) e o tempo verbal
+
+(TEV). Seja onde for, inicialmente, ela é copiada e sobreposta nas outras posições onde potencialmente ocorre: a irmã esquerda do marcador de plural, que vem do substantivo pela regra de concordância; e a irmã esquerda de TEV. Até agora, não foi descoberta a que categoria pertence a direção, como propriedade primitiva. Visto que tem uma estrutura semântica profunda dando significados diferentes para as classes de verbos com que ela ocorre, é bem provável que é uma propriedade do verbo. Neste trabalho, foi considerada como parte da formação do ADV, sendo um traço significativo adicional para o advérbio. Foi considerada um símbolo complexo, sob ADV. É íntimamente ligada em função com os advérbios kaki 'aqui' e kowa 'ali', mas é diferente, sendo distinguida pelo traço + DIR que é único, mas não "ad hoc".
+Sendo que as regras de concordância afetam a forma eventual de todas as categorias à direita de regra 7, estas categorias são todas consideradas como símbolos complexos (SC) no fim das regras de estrutura frasal. Todas as restrições de co-ocorrência e sub-categorizaçao, portanto, serão tratadas dentro do léxico.
+R-8 Pela ligação, por esta regra, do negativo (NEG), intensificador (INTEN) e enfático (ENF) ao
+afixo verbal (AFV) postula -se uma categoria facultativa na qual não opera as regras de concordância.
+R - 9-11 Estas regras geram as três posições de afixos que potencialmente ocorrem dentro do AFV. Os
+morfemas õ 'negação verbal', le 'intensificador', e tyhy ou hyy 'enfático' podem todos ocorrer simultâneamente e, desde que sejam conjuntos fechados, são gerados aqui como símbolos terminais, ou seja, os morfemas.
+R - 12-16 Os possessivos (POS) são aqui escritos como símbolos terminais (veja também o comentário à
+regra 3) porque constitutem um conjunto pequeno e fechado da categoria de pessoa.
+R - 17-25 Nestas regras cada categoria é rescrita como um símbolo complexo. Por convenção um dos traços
+é idêntico ao nome da categoria. Por exemplo, para a identificação do morfema ke 'imperativo' que vem do TEV? SC, o conjunto de traços é [+ FUT + IMP].
+Este conjunto particular de traços é produzido pelo seguimento da árvore de redundância do TEV. As árvores se encontram no léxico ilustrativo de redundâncias (3.2.). Todos os tempos verbais se encontram neste conjunto fechado.
+Prosseguindo do nódulo mais alto da árvore até o morfema em baixo encontra-se a especificação completa de traços para cada membro do conjunto, ainda que alguns sejam redundantes.
+Árvore de Redundância para TEV
+
+1.4. TEXTO: 'como fazer farinha'. 1. þnyde, ti-my-bo r-a—wi-dàþ-ma-hã-r-e my a-r-elyy-kre. 2. iny oworu my r-a-ma-hã-r-e majòa-tarasa my.
+3. iny r-i-ta-ma-hã-r-e, idi ta, r-i-òka-ma-hã-r-e, òrana di.
+4. juhu kòri uri-le r-i-ujuhe-ma-hã-r-e majòa.
+5. idi ta r-i-òka-ma-hã-r-e. 6. r-i-òka my r-a-hu di ta, r-i-ruþ-ny-ma-hã-r-e, i-ruþ-dàþ-na ò, i-
+ruþ-ràbu-ny my. 7. i-ruþ-ràbu-ny my r-a-hu di ta, d-i-wy-ma-hã-d-e hãwo-ro ò tõdee
+r-i-tõdee-ny-kre my.
+8. owitxà-na di r-i-owitxà-ma-hã-r-e.
+9. r-i-owitxà-ma-hã-r-e r-a-hu di tahe, inatyhy my r-i-tàdi-ma-hã-re ijàre-na ò, heòty r-i-too-na ò.
+10. ijàre-na r-a-tòtee ò tahe, r-i-txiwi-ma-hã-r-e, majòa-nyde. 11. tai ta r-i-wi-ny-ma-hã-r-e may-rehe di le, sþ juhu òwòru-may-rehe
+di.
+
+1. 5. TRADUÇAO LIVRE. 1. Eu vou contar como é que a farinha de mandioca é feita. 2. Primeiro a gente tira a mandioca da roça. 3. Depois disto é ralada com um ralador. 4. Mas primeiro a casca é tirada 5. e depois é ralada. 6. Quando se termina de ralar é colocada na prensa para espremer o suco. 7. Quando isto esta terminado é levado à canoa para amolecer os pedagos. 8. É peneirada com a peneira. 9. Quando esso está terminado, só então é colocada na panela de torrar, em cima do fogo. 10. Então, depois de torrada, sai a farinha de mandioca. 11. É mexida agora com um facão. Originalmente era um facão de madeira.
+
+1.6. ANALISE DO TEXTO.
+Na seguinte análise as estruturas subjacentes são postuladas para cada uma das sentenças complexas. Seguem-se as sugeridas transformações aplicáveis na derivação da estrutura de superfície. As partes que são colocadas por transformações nas sentenças simples são sublinhadas e deixadas em branco.
+As partes implícitas (ou de contexto subsequente ou prévio) são colocadas entre parênteses.
+
+S1a Jiarþ ___ elyykre
+
+PRÓ
+
+RV TEV
+
+'Eu vou contar (relacionar)'
+
+S1b iny_wi__hã_e þnyde N DIR V ASP N 'A gente faz farinha de mandioca'
+Slc timybo(iny)_wi__hã__e þnyde N V ASP TEV N
+'Como é que a gente faz farinha de mandioca?'
+A sentença l compreende três sentenças simples na estrutura subjacente. A sentença lc é uma relativização ('como') da sentença 1b. Nesta relativização um conjunto de todos os elementos idênticos com os da sentença 1b são apagados. O resultado desta transformação é encadeado (ou encravado) dentro da sentença 1a com uma transformação (T-ENCR (my)) que funciona nesta língua como o encadeamento do infinitivo em português.
+As três sentenças simples passaram por certas outras transformações antes de atingir a forma de estrutura de superfície. Algumas destas são pronominalização, concordância (em pessoa, número, e direção) e o resultado também foi passivizado.
+
+S2a iny oworu my___hy___e gente roça ref para foi 'A gente foi para a roça'.
+
+S2b (iny) majòa ta-ra-sa--a gente mandioca tira 'A gente tirou mandioca'.
+A sentença matriz 2a recebe, por encadeamento a sentença 2b (Transformação -my - T-ENCR). Uma diferença é notada na forma do verbo resultante. É livre dos prefixos e sufixos que permanecem, por exemplo, no verbo da sentença 1b, encravados pela mesma transformação. O tema verbal tarasa é uma forma derivada com a estrutura [V + ABST + V] que supostamente é possibilitada numa gramática completa pelas regras de estrutura de morfema. Talvez teríamos que considerar as regras de concordância inaplicáveis caso sejam idênticas às categorias de tempo, número, pessoa e direção do verbo encravado e o verbo da matriz.
+A sentença 3 compreende duas sentenças simples conjuntadas por idi tá 'e após isto'. A sentença 3b só difere porque tem o sujeito idêntico apagado.
+A sentença 4 é apenas uma sentença simples. A entonação da última palavra indica que é uma reflexão tardia --fazendo explícita o que já era implícita. A entonação normal exige a colocação desta palavra antes do verbo.
+As partículas introdutórias indicam que a informação é fora da ordem seqüencial própria. Deve ter sido apresentado antes.
+A sentença 5 é uma repetição da 3b para restaurar a cronologia de eventos. É uma sentença simples.
+
+S6a (iny) majòa --ruy-ny-hþ e '(gente) mandioca espreme'
+
+S6b majòa
+
+ruþ
+
+ràbuny_
+
+'suco de mandioca seca'
+
+S6c iny __òka__ 'gente rala (mandioca)'
+
+S6d iny -ahu__ 'gente termina (ralação)'
+A sentença 6 compreende quatro sentenças simples: (c) é encravada no (d) e o resultado é conjuntado (CONJ) por uma transformação condicional (COND) ao resultado do encadeamento de (b) em (a). As sentenças (c-d) são colocadas à esquerda da sentença matriz (a-b) como também os outros encadearaentos classificados como T-COND. (i. e. sentenças com se, então, quando e porque).
+
+S7a (iny) ___ wy______hã___e hãwo-ro ò '(gente) carrega ASP TEV canoa-para-dentro'
+
+S7b tõdee ____ tõdeeny kre
+
+'pedaços
+
+amolece TEV'
+
+S7c _____òka____ 'tirar-suco'
+
+S7d __ ___ahu_ __ 'terminar'
+As sentenças 7c e 7d são idênticas em forma às sentenças 6c e 6d. A sentença matriz 7a difere num só aspecto de todas as analisadas até agora neste texto: os espaços em branco são preenchidos pelo cislocativo (CIS) (consequentemente o morfema d 'de lá para cá') que dá ao verbo o significado 'trazer' em vez de 'levar' que seria o significado com o traço translocativo [TRL].
+A sentença 7c é encravada na 7d, e o resultado precede a sentença matriz 7a que é conjuntada por infinitivação à sentença 7b.
+A sentença 8 é simples. Note a relação entre o tema verbal 'peneirar' e o substantivo 'peneira'. O sufixo na colocado na raiz verbal produz uma nominalização que tem sua fonte num nível mais-baixoque-sintaxe que não é considerado, dentro do escopo desta gramática. Ou ainda, ambos, o verbo e o tema nominal derivado são registrados no léxico e a relação entre os dois está perdida por enquanto. Talvez esta questão esteja relacionada à pergunta: onde fica a delimitação entre a morfologia e a sintaxe?
+
+9a. inatyhymy___ ____tàdi___hã___e ijàrena ò
+
+verdadeiramente colocar
+
+panela-para
+
+9b. heòty fogo
+
+_i-toona- ò torrador para
+
+9c. ____ ___owitxi__hã _e peneirar
+
+9d. ___ahu_ _ terminar
+A sentença 9 compreende quatro sentenças simples que seguem a estrutura das sentenças 6 e 7 no encadeamento de "quando + terminado + V" no início da sentença. Depois, a sentença matriz tem o que parece serem duas frases nominais, no caso locativo. A segunda frase nominal é realmente uma sentença reduzida, considerado um encadeamento de uma nominalização na sentença matriz.
+A concordância de pessoa e direção no verbo encravado distingue esta sentença reduzida de uma repetição da frase nominal com o caso locativo.
+A regra transformacional que produz este encadeamento exige que as duas frases nominais sejam iguais (no sentido de fazer referência à mesma localidade.).
+
+A sentença 10 compreende duas sentenças simples; 10b é encravada em 10a como uma sentença reduzida igual a 9b em 9a. As constituintes sofreram uma transforma ção que mudou sua ordem facultativamente. Isto é indicado pelas diferenças de entonação.
+
+11a (iny)__ __ _winy__hã_e mayrehe di le
+
+'(gente) mexe
+
+facão com mesmo'
+
+11b juhu___ ___ ___òwòru mayrehe di 'originalmente madeira facão com'
+A sentença 11 compreende duas sentenças simples; 11b consiste de um advérbio de tempo, mais uma frase nominal com um locativo. Tudo isto é conjuntado à 11a e depende dela para seu elemento verbal. Uma parte da frase nominal é idêntica à da matriz, e outra parte é diferente. O adverbial juhu 'originalmente' é único na sentença 11b e indica que é uma sentença reduzida, em vez de ser uma frase nominal repetida. O advérbio sofreu, no processo de conjunção, uma transformação de mudança de ordem.
+
+2. REGRAS TRANSFORMACIONAIS.
+2.1. LISTA DAS REGRAS. 1. T-CONJ (wyna) 'e' 2. T-CONJ (idi (ta(he)) 'e então' 3. T-ENCR (my) 4. T-COND 5. T-MUD-ADV 6. T-OBJ-PRO-CON 7. T-AP-SUJ 8. T-CON 9. T-REFLEX
+10. T-AP-PRO 11. T-PAS 12. T-PER-INT-REL 13. T-PER (sim-não) 14. T-PRO-ADV
+2.2. O ESCLARECIMENTO DAS REGRAS TRANSFORMACIONAIS. As seguintes regras são formuladas num formato-para-regras-transformacionais idêntico ao usado
+em Stockwell (e outros) (1968). É óbvio que todas as regras ainda não estão formuladas, mas foram incluídas, portanto, aquelas necessárias para a conjunção e encadeamento de vários tipos de sentenças -particularmente aquelas estruturas mais comuns da língua.
+Cada regra tem seu índice estrutural (IES) apresentado por colchetes classificadores; sua alteração estrutural (AE), constituído de apagamentos, anexações, ligações, mudanças de ordem, etc.; e sua condição (COND), restrições de igualdade, estrutura, opção, etc., da regra. Normalmente, incluem-se exemplos ilustrativos da operação com as árvores apropriadas.
+As regras deste componente são aplicáveis na ordem em que aparecem.
+T-CONJ (wyna) 'e'
+
+Regra: l IES: AE:
+COND
+
+FN S[FN ADV NUC] S[ADV NUC]
+
+1 23 4
+
+56
+
+apagar 3-4 ligar 2 à NUC inserir wyna como irmã esquerda de NUC 6
+
+3-4 = 5-6
+
+Exemplo:
+
+Belua, awile my ahãte wariòre wyna Belua, boa você está meu filho com. 'Você e meu filho estão bons, Belua'.
+
+Árvore
+
+Argumentos para o arranjo da regra:
+Esta regra precisa preceder as de concordância, senão a condição de que 3-4 seja igual a 5-6 não seria satisfeita.
+
+T-CONJ idi (ta(he)) 'e então')
+
+Regra: 2 IES:
+
+S[FN NUC] X S[FN NUC] 1 23 4 5
+
+AE:
+
+introduzir 3
+
+apagar 4
+
+COND:
+
+facultativo 1=4 5 deve ser subsequente em tempo a 2
+
+Exemplo:
+
+iny ritamahãre idi ta riòkamahãre 'A gente tira e depois rala'.
+
+Árvore
+
+T-ENCR (my) 'infinitive'
+
+Regra: 3 IES:
+
+S[FNNUC[FN FV]]S[FNNUC[FN FV]] S[FNNUC[FN FV]] 1 2 3 4 56 7 8 9
+
+AE:
+
+(a) ligar my como irmã direta a 6 e 9
+
+(b) Apagar todas as FN's dominadas por S que são iguais as
+
+FN's dominadas por NUC's de sentenças prévias.
+
+COND:
+
+obrigatório
+
+Exemplo:
+
+Juaõ ò marybeke tyyràti riwainykre my wadee biwahinyke my. 'Fale para João fazer uma carta para você mandar a mim!'
+
+T-COND ki 'se'
+
+Regra: 4 IES:
+
+S[FNNUC[FN FV]] S[FNNUC[FN FV]]
+
+1
+
+23
+
+4
+
+56
+
+AE:
+
+anexar [+COND], ki 'se', à 3
+
+COND:
+
+facultativo FV deve ter o traço[+IMP]
+
+Exemplo:
+
+ràkiràsþrenyõkeki, ka-ràbi arakre
+
+'Se nós não comermos, vou me embora daqui.'
+
+Árvore
+
+T-MUD-ADV Regra: 5 IES:
+AE:
+COND: Exemplo:
+
+FN NUC ADV [+ADV]
+[+MUD]
+Mudar ADV e colocar à esquerda do NUC: [+MUD]
+facultativo
+Kai awile my ahãte 'Você está bem'.
+
+Árvore
+
+T-OBJ-PRO-CON
+
+Regra: 6
+
+IES:
+
+X FNNUC[FN [V ASP TEV]] X
+
+l
+
+2 34 5
+
+AE:
+
+traços [+DET] de 2 são anexados a esquerda de 3
+
+COND:
+
+obrigatório 3 precisa ter o traço [+TRA]
+
+Exemplo:
+
+jiarþ arahetenykre
+
+Eu Eu-você bater-vou.
+
+'Eu vou bater em você'.
+
+Árvore
+
+T-AP-SUJ Regra: 7 IES:
+AE: COND: Exemplo:
+
+X FN X NUC[FN [V ASP TEV]] X
+
+l
+
+2 34 5
+
+apagar l
+
+facultativo
+
+riwinymahãre 'Ele faz algo habitualmente'.
+
+Árvore
+
+T-CON Regra: 8 IES:
+AE: COND:
+
+S[FN NUC[XFV [V ASP TEV] ADV]] [±PRO]
+l 234 5 6 7
+3 recebe os traços especificados em l, 6 e 7; isto é, 4, 5 e 6, todos recebem um conjunto completo dos traços copiados de l, 6 e 7.
+obrigatório
+
+Definição: A regra de concordância 5 é expressa em termos um pouco diferentes das outras regras. Em vez de formular várias regras para copiar os traços e colocá-los em outros lugares no verbo, tudo isto é feito por uma regra que inclui os ambientes. Uma árvore não é incluída para a difusão dos traços, pois a convenção que faz isso é de natureza única.
+A aplicação desta regra resulta na difusão dos traços para todas as partes da frase verbal, pois quando o emparelhamento é feito pelas regras fonológicas do conjunto de traços com o verbête do léxico, todas as categorias precisam do conjunto completo de traços para escolher a forma própria para cada morfema de concordância. Exemplos da aplicação da regra de concordância:
+Pela aplicação de T-CON ao marcador da frase que a segue, obtém-se a árvore seguinte. No processo de geração, o verbo winy 'fazer', foi escolhido ao acaso do léxico. TEV4 (uma abreviação para o conjunto de traços especifica tempo presente)6, a direção (DIR) translocativa (TRL), e o determinador (DET) DET-PRO-SEG foram também selecionados da mesma forma.
+Quando os traços [+SEG], [+TRL], [+TEV4] são anexados ao verbo, os espaços em branco são preenchidos e o resultado é:
+kai heto tewinytere 'Você está fazendo uma casa'.
++SEG Com o conjunto de traços +TRL obtém-se:
++TEV4 1. kai heto tewinytere
+você casa fazendo. 'Você está fazendo uma casa'. Pela alteração do traço DET para [+TER] , obtém-se; 2. tii heto riwinyreri. ele casa está fazendo. ’Ele está fazendo uma casa'. Pela alteração do [TEV4] para [TEV2] obtém-se:
+
+3. tii heto riwinykre Ele casa vai fazer. 'Ele vai fazer uma casa'.
+
+Com[TEV2] [+SEG], [PL], e [+CIS] obtém-se:
+
+4. kaiboho
+
+heto bàdiwinybàdenykre.
+
+vocês-todos casa vocês-vem-fazer-para-cá.
+
+'Vocês todos vão fazer uma casa para cá'.
+
+Com [TEV5], [+SEG], [+PL], [CIS] obtém-se:
+
+5. kaiboho
+
+heto tadiwinydenyde
+
+vocês-todos casa vocês-fizeram-casa-para-cá.
+
+'Vocês todos fizeram uma casa aqui'.
+
+T-REFLEX
+
+Regra: 9 IES:
+
+X FN X NUC [FN FV [V TEV]] X
+
+l
+
+2
+
+34
+
+AE: COND:
+
+apagar 2 e anexar [+ REFLEX] a 3
+1 = 2 (no sentido de referir a mesma coisa)7 3 tem o traço [+TRA]
+
+Exemplo:
+
+hãbu rexihetenyre 'O homem bateu-se'.
+
+Árvore
+
+T-AP-PRO Regra: 10 IES:
+AE: COND: Exemplo:
+
+X FN NUC X 12 3 4
+apagar 2
+facultativo
+heto tewinyteri 'Você está fazendo uma casa'.
+
+Árvore
+
+Nota:
+Uma vez aplicadas as regras de concordância, a pessoa e o número estão redundantes no verbo e existe então, a opção de apagamento do pronome pessoal.
+
+T-PAS
+
+Regra: 11 IES:
+
+FN NUC[FN FV [V[RV -X]]] X
+
+[+TRA]
+
+l2
+
+345
+
+AE:
+
+substituir o traço [+TRA] pelo traço [+PAS]
+
+anexar o traço [+CAUS]
+
+apagar 2
+
+COND:
+
+facultativo
+
+Exemplo:
+
+þnyde rawidàþre 'Farinha de mandioca é feita'.
+
+Árvore
+
+T-PER-INT-REL
+
+Regra: 12
+
+IES:
+
+X S[FN NUC ADV] S[FNNUC[FNFV[V ASP TEV]]]
+
+[+MUD]
+
+1 2 3 4 5 6 78 9
+
+AE:
+
+ligar os traços [+PER] [± ABST] [±ANIM]a 4
+
+COND:
+
+obrigatório
+
+Exemplo;
+
+Timybo iny þnyde riwinymahãre. 'Como é que a gente faz farinha de mandioca?'
+
+aõbo iny riwinyre 'O que é que o povo fez?'
+mobo riwinyre 'Quem fez isso? ' Árvore
+
+T-PER Regra: 13 IES:
+AE: COND: Exemplo:
+
+X S [FN NUC ADV] X
+
+[+PER]
+
+[+MUD]
+
+12
+
+3
+
+ligar 3 como irmã esquerda de 2 anexar o traço [-ANI] a 3
+
+facultativo
+
+kai aõbo makre 'Você vai?'
+
+Árvore
+
+T-PRO-ADV
+
+Regra: 14 IES:
+
+X S[FN NUC[FN FV[V ASP TEV] ADV] X]
+
+[+PRO]
+
+[+SPP]
+
+l
+
+2 34 5 6
+
+AE:
+
+Os traços de 1 são anexados a 6
+
+COND:
+
+obrigatório
+
+Exemplo:
+
+kai tewinyte wadeereny 'Você fez (alguma coisa) para nós'.
+
+Árvore
+
+3. LÉXICO.
+O léxico é dividido em três partes: regras de redundância, um pequeno léxico ilustrativo com os trços distintivos especificados, e um léxico mais completo que inclui temas derivados e outros itens morfemicamente complexos, alguns dos quais são derivados por transfomação. Os itens deste último léxico não são completamente especificados pelos respectivos traços. Incluem apenas alguns de categoria
+e alguns que distinguem verbos como [±TRA] etc., que possibilitam a geração das formas possíveis.
+
+3.1. REGRAS DE REDUNDÂNCIA.
+
+Redundância para a árvore [±DET]:
+
+[+DET] ? ? [±PRO]
+
+[+PRO] ? ? [±OBJ]
+
+[+OBJ]
+
+? ? [±FP ]
+
+[+FP ] [–FP ] [–TER] [–OBJ] [–PRI] [–SEG] [+TER] [+SEG] [+PRI]
+
+? ? [±REFLEX] ? ? [+TER] ? ? [±PAS] ? ? [±PRI] ? ? [±SEG] ? ? [±TER] ? ? [±POSJ ? ? [±POS] ? ? [±POS]
+
+Redundância para a árvore [TEV]:
+
+[+TEV] [+FUT] [–IMP] [+PROB]
+[–FUT] [–PRES] [–REM]
+
+? ? [±FUT] ? ? [±IMP] ? ? [±PROB] ? ? [+POT]
+? ? [±PRES] ? ? [±REM] ? ? [+REC]
+
+Nos nódulos terminais desta árvore ocorrem os símbolos terminais, ou seja, os morfemas.
+
+Redundância para a árvore [ADV]:
+
+[+ADV] [+DIR]
+
+? ? [±DIR] ? ? [±TRL]
+
+[–TRL] ? ? [±CIS]
+
+[–DIR]
+
+? ? [±MUD]
+
+[–MUD] ? ? [±MOD]
+
+[+MUD] ? ? [±QUAL]
+
+[–MOD] ? ? [±SPP]
+
+[–SPP]
+
+? ? [±PER]
+
+[+PER] ? ? [±ABST]
+
+[–ABST] ? ? [±ANI]
+
+[+SPP]
+
+? ? [±DAT]
+
+[–DAT] ? ? [±BEN]
+
+[–BEN] ? ? [±INSTR]
+
+[–INSTR] ? ? [±ACOM] [–ACOM] ? ? [+REF]
+
+[–REF]
+
+? ? [+GENT]
+
+[–GENT] ? ? [±TEM] [-TEM] ? ? [±LOC]
+
+[–LOC] ? ? [±ENCA]
+
+[+PER] ? ? [±NEG]
+
+Redundância para os temas derivados [DET] : [+DET] ? ? [+INTEN] [+DET] ? ? [+LIM] [+DET] ? ? [+CLAS]
+
+Redundância para [PES] a árvore [±SUJ] :
+
+[+PER] ? ? [±SUJ]
+
+[+SUJ]
+
+? ? [±SEG]
+
+[+SEG]
+
+? ? [±POT]
+
+[+POT] [–SUJ] [–FP] [-TER]
+
+? ? [±SEMI] ? ? [±FP] ? ? [±TER] ? ? [±PRI]
+
+3. 2. LÉXICO ILUSTRATIVO.
+
+Exemplos de Radicais Verbais (RV):
+[±TRA] wotenany 'esconder', tirany 'rastejar', ária 'contar'
+[±TR] àseny 'desatar', ahu 'destruir', irarytxyny 'espremer'
+[+PAS] brasa 'limpar', atariny 'inchar'
+[–TR] ahyloi 'vomitar', aaxiny 'amolecer', arybe 'falar'
+[–PAS] eòtany 'suspeitar', teyteny 'curar', owitxà 'peneirar'
+[+DEF] e 'procurar', orety 'costurar'
+[+DEF] [–TR] atxi (único) 'localizar-se em', atàþny 'fazer'
+[–TRE] ixixa 'acordar-se', se 'dançar, cair', hemyny 'chegar'
+[+REFLEX] [–TRE] xie 'evitar, afastar'
+[+HUM] [±TR] dy 'levar (gente)'
+[–HUM] [±TR] wy 'levar (coisas)'
+[+DEF] [–TER] tere 'endurecer', juxu 'derramar'
+[+LOC] [–TR] ha 'achar'
+
+Exemplos de Nomes Substantivos (N):
+[+SBC] [+ANI] [+HUM] [+GEN] hãbu 'man', hawyy 'mulher'
+[+SBC] [+SBCT] [–ANI] tyyràti 'livro'
+
+[+SBC] [+SBCT] [+ANI] [–HUM] ijòròsa 'cachorro'
+[+SBC] [–SBCT] [+ABST] bàde 'tempo, mundo'
+[+SBC] [–SBCT] [–ABST] suu 'terra, solo'
+[–SBC] [+ANI] [+HUM] Ijau 'nome de pessoa'
+[–SBC] [–ANI] [ –HUM] renowy 'nome de lugar'
+[–SBC] [+ANI] [+HUM] [+POS] [+TEP] labie 'avô'
+Tempo Verbal (TEV), Conjunto Fechado:
+[+FUT] [+IMP] ke 'imperativo'
+[+FUT] [–IMP] kre 'potencial'
+[+FUT] [+PROB] eke 'probabilidade'
+[–FUT] [+PRES] ere 'presente'
+[–FUT] [+REM] e 'passado remoto'
+[–FUT] [+REC] a 'passado recente'
+3.3. LÉXICO. Os verbos neste léxico são distintos das outras categorias visto que foram glosados em Português
+pela forma infinitiva. Foi desnecessário, portanto, incluir o traço [+V] para especificá-los. Os verbos que podem ocorrer em forma transitiva ou intransitiva sem irregularidades na conjugação têm o traço [±TRA]. Sendo este o traço mais comum, apenas os verbos de outras categorias são identificados por traços distintivos.
+Partículas e outros ítens com a exceção dos substantivos podem ser distinguidos normalmente pela respectiva glosa em português. Palavras de função que não tem outro significado são indicadas pela sua própria função.
+Radicais, temas, e derivados nominais não são especificados em termos de traços, pois nestes casos os traços parecem ser de estrutura profunda da semântica e estão implícitos na glosa.
+
+a aaxiny aàdòny aàxiny abe abirena abòròrò abuare abyny adedorani adedura aderana aderòna adi adòròtòhona ahadu ahana ahàriny ahi ahini ahiny ahirana aho ahohokþ ahola ahu ahylòi ajuròna alòsena anarþþ aõbina aõ aõbo aõherekibo
+
+LÉXICO, KARAJA-PORTUGUÊS
+sua (de você) amolecer estar deitado [-TR] amolecer café amante jacaré voltar partir arara (esp.) arara vermelha prostituta perfume mãe (de você) café da manhã mês fora [-TR] tratar muriçoca muriçoca (esp.) chorar (para homem) fezes lago lago grande lobo [±TR] acabar, destruir [-TR] vomitar cabaça prato festival guerra coisa [+PER] [-ABST] (interrogativo) por que
+
+aõherekiwe aõheretasþ aõkõ aõma aõmy aõmysþdàþ aõna aõnaaõna aõni aõnosõ aõtaxiny aõtxino aòwòny ara aria arybe asi asu atariny atàþny atxi aty awaru awi awiny axiò axiòti axiwera àbò àralahu àre àreàre àro àrò àròbi àrysa
+
+por que o que há? (negação) (hesitação) coisas [-TR] trabalhar abacaxi coisas monstro generoso apesar de qualquer lugar [-TR] subir cará contar [-TR] falar grama, capim bauba (esp. de árvore) [+PAS] inchar acontecer [+DEF] [-TR] localizar em derrubar cavalo bom cantar braço ombro pimenta onda tribo Kaiapó pedaços quebradinho quebrar rã macaco tribo Xavante
+
+àseny àsetere àtara àtora bàde bàde bàderaty bàdero bàdi bàdiu bàdòlee bàrò bàrure bàte be be beà beàti behyra benora beòra bera bero bina biòwa biri bisa biu biurasò biuwetòky biuyrina bo bohetu boho boo bosu botuny
+
+[+TR] desatar corrente colher peixe mundo sabedoria fruta campo mel floresta pirarucu dorso enxada você (o outro)
+[-TR] tornar-se água porto barrangueira cesto tucunaré ano água rio mau, ruim amigo periquito arara azul chuva manhã céu afastador de chuva (objeto) (partícula de interrogação) não sei (plural) seu pai (de você) disenteria juntar
+
+bòò bòre bòrò bòrò brasa bratu breoti brobure broreni browetya bròre bru bryby brybysi budòe budòeni buhã butu butxi byre dàà dàþ dàþbò debò debòna debòohona debòsohoji dee deei dei deiãsþ dejue dela denideni deõdàþnany deòdu
+
+sul comida planta vegetal arraia [+PAS] limpar prato esterno caracol, caramujo vaca no meio das costas veado (esp.) resina cinzas poeira veado (esp.) carneiro boto todo pote tapete meu filho (vocativo) (causativo)
+caçula mão, dedo arma junta seis carne filha penas de enfeite nariz peixe (esp.) irmão (mais velho) gordo [-PAS] emagrecer servo
+
+deòreru deòruty deòte dera dera deratyti deriò deròwy Deuxu dexi dexiò deysa deþ di dohodàþna dohodàþnaheto dori dò dòre dòròtò dòròtòijera du dy dyy e e eàlà ele eledàþ elehyny eny eòsa eòtany eri eri ery
+
+rede de pescar antebraço fila camisa ódio asa landi substituto Deus pulseira unha alegria (interjeição de assentimento) com conselho
+casa de conselhos porque isca papagaio língua saliva (agentivo (indicador do agente)) [±HUM] [±TR] levar cinza [-DEF] procurar tempo passado remoto [±TR] agradecer fôlego, respiração apressar descansar plural errar [-PAS] suspeitar [-TRE] tocar presente [-PAS] saber
+
+erydàþdu eryri erþ esõ esõde esu etehe etehõ exi exiòka exiraõ ha hayny haþseny hãbu hãju hãlàbu hãloeni hãloo hãlòe hãnie hãniehãbu hãretu hãriwa hãru hãwã hãwãhãkþ hãwãlò hãwò hãwydyra hãwyy hàkþna hàri he he heji
+
+professor macaúba (esp. de palmeira) irmã (de você) linha de costurar algodão lutar [-TRE] olhar buriti (reflexivo) cocar paciência [+LOC] [-TR] achar [±TR] abrir canoa [-TR] vasar homem paca sangue gato doméstico buraco jaguar galinha galo barbado (esp. de peixe) pacu (esp. de peixe) ciúme aldeia
+cidade colina canoa tatu peba mulher [-TR] reter feiticeiro (forma de hesitação) depois avançar
+
+heka hemylala hemyny heny heòty hera heri herina hete heto hety hety hetyny hewou hirari hire hoho hokuja hoòte howþ howþsy hõrõ hòny hòte hydyny hyna hþde hywe-ràbi i ia ibàree ibuare ibuny ibute ibutxu ibyny
+
+verbo (auxiliar) cobra [-TRE] chegar escapar, fugir fogo cozinhar [+PAS] casar cama [-TRE] bater casa cobertor comida cobrir seguinte menina gavião (negativo enfático) escutar [-DEF] [-TR] emprestar seio
+leite possessão [-DEF] [-TR] partir borduna [-PAS] encher vasilha sim lado esquerdo estar aqui cavar doce [±PAS] voltar [-PAS] soprar poucos apertado [-PAS] trocar
+
+ida idere idi ie iehehe iheruxe ihetxi ijadòma ijare ijarelàtþ ijasò ijasò ijata ijà ijàra ijàrena ijàti ije ije ijeradu ijeti ijohona ijoi ijoti ijõ ijò ijòrò ijòròsa ijòsiri ijòsiwi ijòta ijòtàbòna ijyy ikona ikotxiny ilàby inataõ
+
+ou [-PAS] cozinhar
+e, então [+DEF] procurar
+indisciplinado irmão mais novo antigamente moça lagarta
+casulo dança, espírito peixe banana bordo [-TR] correr farinha beira d'água [±TR] procurar botoque corredor lábio inferior lugar de conselho grupo de homens barranco (do rio) outro, próximo abertura raposa cachorro bigode assobio boca de cano porta estória último [-TRE] atravessar preto três
+
+inatxi inatyhy inaubiòwa iny iõhi iò iòde iòhò iòlò iòry iòwe irarytxyny iratàbòna iràbi iràbu irehe iretþhi iri irò irò iròdu iru irurehe iruriny iruþ iruyre iry ise isò isuisu isþ iteò iterany itobi itoruny itõdeny
+
+dois verdade quatro pessoas, nós comida para festa amigo bochecha fechar rei [-PAS] ir para [-PAS] alimentar-se [±TR] espremer tampa de lá secar longe, distante
+[-TRES] puxar abandonar, deixar comer (só carne) podre animal vivo arrastar escovar algo ralar cinco boca (dele) mãe (dele) vermelho sujo morada
+[±TR] enviar [-PAS] demandar, exigir
+[±TR] avisar, informar empurrar
+[±TR] amaciar
+
+ituede ituu itxeò itxere ityhy ityhydàþdu ityyra itþmyra iurariny iutxie iwebàse iweru iwyriny ixàby ixe ixihena ixityre ixiura ixiwouritere ixiwòte ixiwòtena ixixa ixiyràbule ixþ ixþju iyja iyla iyre jiarþ juu juwàta juwyra juxu jyra kaa kai
+
+[±TRA] esgotar molhado marcador de túmulo, cruz
+[-PAS] ver [-PAS] confiar, crer
+crente, cristão [±TR] descascar
+novo [±TR] promessa
+pesado redondo sopa [-PAS] rodar outra vez dançar desculpar outra vez colar aborrecimento desculpar refúgio [-TRE] acordar-se mesmo porco
+caboclo pequeno pequeno banda, lado, meio
+eu dente piranha sal [-DEF] [-TRE] derramar sal aquele você
+
+kaki kau kànau ke ki kia kie ko kobe kohe kori kowa kòte kre ku kþ kþna labie lahi lajirà lala lana late lau lawa lawahakþ lawò làdu làhà làma làsi làsina le lei lo loahi
+
+aqui ontem ontem ou anteontem (imperativo) em aquele é isto, fim em frente, antes (interjeição) sim você, último ali desejo futuro (morfema de chamar) (morfema de chamar)
+duvidoso avô avó irmão da mãe tipo de cesta irmã da mãe, ou do pai peixe cachorra contra camundongo rato canoa origem favor a pé jogo lugar de brincar (enfático) sucuri [-TR] entrar remédio
+
+lòbàròna lòròbàtò lòrulàdu lòti lòy lòynohõ lòysana luu lyy lþre maa mahãdu mahãduny mai maiti maixàmo masajua matuari mawa mawariòre may mayràbu mayrehe màrõra mo mohõ mona my mya myhþ myna myriwe myrõra myta mytytamytyta na
+
+semente, plantas periquito piloto pescoço peito gravata laço [+DEF] amar [-TRE] contar
+verde, azul fígado grupo [-PAS ] completar milho cana de açúcar arroz [-PAS ] assustar velho arma de fogo revolver faca foice facão mosquito [+PER] [+ANI] (interrogativo) larva medicina [+DEF] [-TR] obter manga
+(continuativo) pedra peixe pequeno mosquito urtiga [+DEF] [-TR] tremer [-TR] vir
+
+na na nadi nanany narehe narihi nawii nawiie ni nieru no nohewòru nohõ nohõti noijesa nonoe nore ny nyhe nyrþ obàryra obi obiu obu obuny oràko orety osehewe otàmany otàyny otxixa otxuruku owitxà owo oworu õ õ
+
+(nominalização) (determinativo) minha mãe [+PAS] chover chocar ovos remo pássaro ema nome dinheiro pênis rabo colar, animal de estimação ouvida flor nevoeiro camisa (verbalizador) dúbio senhor, ancião, homem jaguar vermelho [+DEF] [-TRE] ver [+PAS] churrasco [+DEF] chorar [+DEF] [+TR] nadar [+DEF] [-TR] esforçar-se [+DEF] costurar ema [+DEF] [-TR] levantar [-DEF] [-TR] fazer borboleta aranha, coruja peneirar pilão roça [-PAS] dar (sufixo de negação)
+
+õ õhi õhõtisana õhõtiny õri õrõ ò ò ò òbitiny òbiti òby òde òhã òhãri òhãru òhotibedu òhò òhò òhòny òlasi òlàdu òluò òluòni òlþre òmarurà òmyta òòby òòse òraru òraruna òreny òrera òrety òru òsana òsàna
+
+(artigo indefinido) comida para festa enfeite para a orelha [+DEF] [-TR] pensar anta [+DEF] [-TR] dormir [+DEF] esperar tronco de árvore, chifre para, por ajustar, endireitar reto [±DEF] [-TRE] completar bochecha tatu carrapato periogoso curandeiro [+DEF] [-TRE] abandonar, sair voar [+DEF] [-TRE] sair pequi inimigo enfeite para os lábios cedro
+óleo tatuagem feijão [+DEF] [-TR] falar sobre [+DEF] [-TR] voltar culpa, falta tabu [+DEF] brigar jacaré costura testa rosto talvez
+
+òta òtadu òteroti òti òtii òtity òtu òtuni òwari òwòna òwòru òwòru òwy ra rabinabina rade raheto rahy rahyna rajua ralàby raò rara raradòò rarajie rararesa rati ratisa ràbi ràbu ràki ràma ràsþ ràsþna reheny reroti
+
+espécie diferente flerte batata doce fumo [-TR] surpreender cerca tartaruga tartaruga pequena [-THE] seduzir escada f eiti ço árvore preço cabeça, sobrinha [±TR] arruinado cabelo enfeite para a cabeça lugar inabitado segura cabeça, travesseiro [-PAS] gritar genro [+DEF] [±TR] esperar urubu (esp.) árvore (esp.) urubu (esp.) urubu-rei cabeça [+DEF] [-TR] laço (de, genitivo) [-PAS] matar, assassinar citar fome [-PAS] comer
+alimento [±TR] voltar
+corda
+
+rirany riu ro ron rooreheny rora roro roxi ròte ròteny rua rube rue rui rurawo rure ruruna-ràbi ruruny ruruny ruu ruu ruuni ruxe ruxetòeny ry rybe rybeuni rybexi rynana ryri ryryry sa samo sàbeny sàmo sàny se
+
+[-TR] andar, caminhar caçar dentro de
+[+DEF] [-TR] dormir demorar
+[±TR] visitar, relativo ao sexo [±TR] furar [±PAS] comer [±TR] entrar, por
+fazer entrar [+DEF] [-TR] morder
+lágrima olhos [-TRA] mentir círculo perfuração lado direito [-TRE] esforçar-se [-TRE] reforçar calça noite melancia beleza [-PAS] penalizar boca, estrada, caminho palavra, discurso voz do espírito, eco saliva cadeira piranha preta chamar repetidamente [±TR] doer fruta de oiti [±TR] banhar pequeno [-PAS] imitar [-TRE] dançar
+
+sei seõny seriòre si sidàþ sihe sihòny sirany sira sira sohoji soruny sõ sõwe sòny sòbe su subàròrò sy syraru sþ sþbina ta ta ta tadi tai taina tamy tarawe tà tàbieny tàbò tàburu tàby tàbyhykþ
+
+gafanhoto [-TRE] duvidar
+criança de minha mãe ovo [-TRE] botar [-TR] tirar [-PAS] pentear [-DEF] ser difícil [±TR] zangar-se, tornar-se zangado pelo número um [-PAS ] ferir [±TR] queimar muitas [-TR] amadurecer (exclamação) terra, solo lama misturar lago
+lar, família
+triste [+TR] tirar, remover
+introduz, (conectivo) pronome de posse (dele mesmo) sua própria mãe e, então estrela para ele, por ele periquito cego crescer comida doce piolho pai (de você) grande
+
+tàdi tàdyny tàko tàlà tàmona tànyny tebò telesõ teòny teòsiny tere teriò tesewa teyteny tey teysa ti ti tii tiowotiny tirany titàka tiu tohouþ tõhewòru tore tori toritori toriwani tò tòeny tòera tòtee tòteeny tu tule tutyhyki
+
+[±TR] por [±TR] untar [±TR] molhar
+casco de tataruga lugar de parar explicar, esclarecer mão (de você) coração [-PAS] mandar sair [-PAS] demonstrativo, mostrar [+DEF] [-TRE] endurecer árvore (esp.) garfo [-PAS ] curar enseada felicidade osso [+PER] [+ABST] (interrogativo) ele [-TR] ajoelhar rastejar amarrar os pés quando nene rabo pirarara estrangeiro, estranho coruja, pequena tucano [±TR] chupar, comerdoces [±TR] recusar abóbora calor [±TR] esquentar aquele previamente mencionado também a propósito
+
+txi txioro txiò txua txudòera txutyty txuu txuu txþte ty ty tya tya tyhy tyni tyniny tyre tyti tyty tyyny tyyràti tyytyby tþre tþteny tþxi tþþraxiny u ubàròrò uberu ujàmo uladu umy umydela umyny uni uò
+
+estar localizado em tarde esperai (interjeição) [±TR] rachar cupim frio dente (de você) sol, dia estúpido, louco sementes pele, casca, vagina em cima de centro (superl ativo) uma viagem [±TR] viagem em cima terra seca liso [-PAS] vestir-se livro, escrita alma, pele velha
+verde, azul [-PAS] enrolar, amarrar
+cheio
+[-PAS] perguntar quando sombra temor bisbilhotice criança corpo, adulto irmão mais velho
+[-PAS] crescer fantasma, espírito
+[+DEF] [-TR] cheirar
+
+ura urasaha urena uri uri urihi urinimyò urile urimynodu uriny uritere urò uru urua uruny utxueny uwe uweju uwitxyna uwo wa wa wabere waha wahi waitue walabuu warini wariri waritidàþ wasiny wasi wasidu watxi watxini waura wawiò
+
+branco pomba sempre [-TRE] confundir livre, só porque [±TR] tentar um pouco só pobre [±TR] misturar proibição [-TRE] cruzar [+DEF] [-TR] morrer [+DEF] [-TR] morder [+DEF] escurecer [+DEF] [-TR] sorrir capivara enfeite para a orelha coador [+DEF] [-TR] voar pé possessivo (la pessoa) esquilo meu pai [-PAS] dar vinte (pés terminados) cabaça anhinga tamanduá [-PAS] negar [±TR] roubar escondido ladrão veado do campo cabra tucunaré (esp.) vinte (para o par de pés)
+
+waxi waxidu wàdàsi wàse we we webàse webàse wedu wehþtþ weluu were wereysana weriòò weryri weryrybò weryry wetxu wewena wii wii wiji wiji winy wiòwiò witxi witxi wiu wodàþ wolohara woma woo woràna woro wotàmony wotòeny
+
+anzol pescador fumar parecido [±TR] bater em volta, cintura, gordura redondo, oblongo largura dono
+estreito fundura um meio cinto fumar cachimbo intestino adolescente moço cativo reunião recíproco canção agora hoje [-PAS] fazer ambos os lados costela diferente canção barulho [±TR] latir machado, metal lugar das emoções pintura facial, urucu [-PAS] acender (fogo) ferir seriamente [-PAS] sentir pena para outro, lastimar
+
+woudò woudò wòtenany wy wy wydyna wyhy wylana wyna wyra wytese wytyresa xãwi xibure xie xiery xiwe xiwede y yhy ykara yla yni yràbu yràbu yse ywa ywiny yy þjiura þnyde þnyra þraxi
+
+parasita intestinal verme, lombriga esconder [-HUM] [±TR] pegar, carregar rápido regra, governo flecha meu tio e, mais verão, estação da seca viúva serpente (esp.) bastante, pare desejo, esperança [+REFLEX] [-TR] afastar-se porque oferta orgulho [-PAS] comer vento ódio pequeno [+DEF] ficar em pé [-PAS] guardar gentileza [-PAS] cocar, raspar jatobá [-PAS] consertar saia mandioca
+farinha de mandioca
+areia [-PAS] perguntar
+
+Convenções usadas neste trabalho. ABST ACOM ADJ ADV AE AF AFN AFV ANI AP ASP BEN CAS CAUS CIS CLAS CON COND CONJ CONT DAT DEF DET DIR EF ENCA ENCR ENF EXIST FN
+
+APÊNDICE
+abstrato acompanhamento adjetivo advérbio alteração estrutural afixo afixo nominal afixo verbal animado apagamento aspecto beneficiário caso causativo cis-locativo classificador concordância condicional conjunção continuativo dativo definido determinador direção, direcional estrutura frasal encaixante encadeamento enfático existência frase nominal
+
+FP FUT FV GEN GENT HUM IES IMP INSTR INT INTEN LIM LOC MOD MUD N NEG NOM NUC NUM OBJ PAS PER PES PL POS POT PRED PRES PRI PRO PROB
+
+falante igual ao paciente futuro frase verbal genérico genitivo humana índice estrutural imperativo instrumento partícula interrogativa intensivo limitativo locativo modal mudança da ordem sintática nome substantivo negativa nominativo núcleo número objeto passivo pergunta pessoa plural, pluralizador possessivo potencial predicado tempo presente primeira pronome probabilidade
+
+QUA QUAL QUANT R REC ref REF REFLEX REL REM RV S S' SBC SBCT SC SEG SEMI SPP SUJ T TEM TEP TEV TER TPAS TR TRA TRE TRL V X
+
+quarta qualitativo ou qualificador quantitativo regra tempo passado recente com referência a referência reflexivo relativização tempo passado remoto radical verbal sentença símbolo postiço substantivo comum substantivo enumerável símbolo complexo segunda semitransitivo substantivo pospositivo sujeito regra transformacional tempo, época, prazo termo de parentesco tempo verbal terceira tempo passado transitivo paradigma transitivo completo verbo transitivo em "e" translocativo verbo qualquer cadeia
+
+NOTAS
+
+1.
+
+A tribo Karajá mora hoje na Ilha de Bananal e nas margens do médio e baixo Rio Araguaia. Sua língua é por eles
+
+chamada iny rybe 'nossa fala', ou segundo outra derivação, 'a fala do povo, das pessoas'. Não é mutuamente inteligível com
+
+qualquer outra língua conhecida no Brasil ou em outro lugar. Havia pouco menos de novecentos falantes da língua, contados em
+
+1962-63, num recenseamento aproximado, em trinta e três aldeias, feito pelo autor. Este número inclui os subgrupos das tribos
+
+chamadas, na literatura, Javahe e Xambioa. Ambas variam apenas ligeiramente do dialeto principal no qual o presente estudo
+
+foi principalmente baseado.
+
+Aproximadamente oitenta por cento dos homens Karajá acima de dez anos de idade também falam o Português. Poucas das mulheres são bilíngües. Uma porcentagem maior (delas) entende algumas frases em Português, mas quase sempre responde em Karajá. As crianças aprendem primeiro, o Karajá, porque é a única língua falada normalmente em casa.
+
+O material previamente publicado sobre a língua Karajá consiste principalmente de umas poucas listas de palavras obtidas por antropólogos, médicos, soldados e outros curiosos. O melhor que encontrei foi do etnólogo Ehrenreich (1894) que reuniu um vocabulário bastante extenso (17 páginas) e fêz algumas observações gramaticais que são, contudo, de somenos importância para este estudo.
+
+Esta gramática está baseada num trabalho de campo efetuado sob os auspícios do Summer Institute of Linguistics.
+
+Numerosas viagens foram feitas à área indígena desde 1958. Aproximadamente cinqüenta textos diversos foram
+gravados em fita magnética e transcritos. A análise de trinta destes textos foi facilitada pelas concordâncias de palavras e morfemas organizados a partir de 2.000 sentenças num computador eletrônico, resultado de um projeto conjunto entre o Centro de Processamento de Dados e o Summer Institute of Linguistics na Universidade de Oklahoma, E. U. A., no laboratório de pesquisas em computadores. O projeto, dirigido pelos Drs. Joseph E. Crimes (S.I.L.) e Archie M. Kahan (Laboratório do Instituto de Pesquisas em Computadores) foi apoiado por uma verba da Fundação Nacional de Ciências (National Science Foundation), E.U.A. Os dados extendem-se, porém, muito além, visto incluírem o domínio da língua Karajá, alcançado pelo autor durante mais de 50 meses numa aldeia da referida tribo.
+
+Devo consignar um débito de agradecimento a vários de meus colegas do SIL que muito me auxiliaram no decorrer desta análise.
+
+2.
+
+A ortografia usada aqui baseia-se numa análise morfofonêmica. É usada como ortografia prática pelos Karajá,
+
+sendo desenvolvida para corresponder, tanto quanto possível, à ortografia da língua Portuguêsa.
+
+É facilmente conversível para uma transcrição fonética consoante com as normas dos alfabetos fonéticos. Utiliza-se, para este fim, o quadro abaixo e as regras concernentes de conversão que o seguem.
+
+Consoantes:
+
+b, d, t ( [t§]), k, tx ( [tš]), j, s, ([s~Ý]), x ([š]), l, r, h, w
+
+Vogais:
+
+i, y([ï]), u, E ([e]), à ([Ê]), o, e ([Æ~æ]), a, ò ([Í]).
+
+Vogais nasalizadas:
+
+i, þ õ, ã.
+
+Quando as distinções fonéticas estão em consideração, a transcrição fonética subjacente será usada para prevenir quaisquer ambigüidades potenciais.
+
+A nasalização é indicada de dois modos. Quando b ou d ocorrem antes de uma vogal nasalizada,, a nasalização da vogal seguinte é indicada escrevendo-se um m ou um n, respectivamente (isto corresponde ao alofone fonético que ocorre nestas
+posições e foi adotado para a ortografia prática por insistência dos Karajá alfabetizados). Em todas as outras posições, a nasalização das vogais é indicada por um til sobrescrito (æ, þ, õ, ã). O tratamento dual da nasalização reflete, de certo modo,
+o que acontece na ortografia da língua Portuguêsa.
+
+A vogal escrita E é extremamente rara. Possivelmente todas as ocorrências neste trabalho podem ser explicadas por uma regra, a seguir: se uma vogal ? ou æ fôr final num verbo, ou preceder um i num substantivo, será transformada em E. Talvez a intensidade e o sistema de ritmo e entonaçao que operam diferentemente para substantivos e verbos, possam explicar este fenômeno.
+
+Quatro símbolos necessitam de esclarecimento: t é implosivo; j e tx são africados sonoro e surdo; r é o flap.
+
+Na transcrição dos exemplos, o hífen separa morfemas, e o espaço separa palavras ou palavra mais clítico.
+
+3.
+
+Cf. Chomsky, '55, '57, '64, '65; Chomsky e Halle, '68; Postal, '62, '64; Fillmore, '63, '65, '66; Fodor e Katz,
+
+'64; Harris, '52; Katz e Postal, '64; Lees, '57; Bach, '64; para discussão em detalhe das convenções ortográficas.
+
+Talvez seja conveniente notar aqui as convenções mais básicas usadas neste trabalho.
+O operador de concatenação (+), indica símbolos distintos que formam uma cadeia. O hífen (-), é utilizado: dentro de regras de transformação para evitar conjunção ou ligação dos símbolos em ambos os lados dele ou dentro de colchetes para indicar a ausência de um traço significativo. O sinal de mais ou menos (±), indica que: um traço significativo é facultativo; existe uma escolha, no nódulo assim marcado, em árvores de redundância. As chaves { } indicam escolhas alternativas, como também vírgulas em regras de base. Os parênteses indicam opção da ocorrência de um ou outro símbolo. Os parênteses efetuam a conflação de duas regras. Por exemplo A? B e A? B +C podem ser reduzidas, usando-se parênteses, da seguinte maneira: A? B (C) -- para indicar que C é opcional. A seta (? ) indica a relação entre o símbolo à esquerda e o símbolo à direita da seta. O segundo é uma manifestação do primeiro. A fórmula A? B lê-se também: reescreve-se A como B.
+A seta dupla (=>), utilizada exclusivamente em regras transformacionais, indica a relação: "é derivado de". Por exemplo, A=>B deve ser lida: B é derivado de A.
+Os parênteses dentro de chaves abreviam mais ainda os conjuntos de regras parcialmente idênticos. A representação:
+
+C
+
+E(F)
+
+A
+
+B
+
+= A+ B
+
+D
+
+G
+
+indica, por exemplo, que as seis regras abaixo são incluídas na conflação A+ B.
+
+Há ainda a convenção de difusão cujo uso, para distribuir as propriedades de certos símbolos, é exemplificado e comentado neste trabalho.
+
+4.
+
+As regras não foram feitas ainda para reduções desta natureza – são omitidas, desta gramática, muitas outras regras
+
+secundárias (algumas primárias) que esperam pesquisa adicional.
+
+5.
+
+Esta regra foi apresentada numa palestra intitulada "A concordância gramatical na língua Karajá", no Congresso
+
+ALFAL de 1969, em São Paulo (Fortune 1969).
+
+6.
+
+Chomsky (1965) sugere que os traços talvez possam ser variáveis, expressos com números inteiros. Para cada tempo
+
+verbal, por exemplo, pode haver um número que emparelhe com as letras α, β ou χ das regras de concordância.
+
+7.
+
+Veja a referência à proposta de Lakoff na Conferência em La Jolla, Calif. (1969), citada em Stockwell, e
+
+outros (1968) pág. 186.
+
+NOTA DA REDAÇÃO
+Escrito para tese de Mestrado, este trabalho foi apresentado ao Departamento de Lingüística da Indiana University, Bloomington, Indiana, E. U. A., em 1970, tendo sido aprovado pelo mesmo. Reproduzimos aqui uma versão corrigida e amplificada.
+
+TRABALHOS MENCIONADOS
+
+BACH, EMMON 1964 -- "Subcategories in Transformational Grammars" em Lunt, H., redator, Proceedings of the Ninth International Congress of Linguists, pp. 672-678, Mouton, The Hague.
+
+CHOMSKY, NOAM
+1955 -- "Transformational Analysis" (Unpublished Ph. D. Dissertation), Microfilm na biblioteca do M. I.T., Cambridge, Massachusetts.
+1956 -- "Three Models for the Description of Language" reimpresso com correções em Readings in Mathematical Psychology, Vol. II, Luce, R. E., Busch, R. , e Galanter, E. redatores, New York.
+1957 -- Syntactíc Structures, Mouton, The Hague. 1958 -- "A Transformational Approach to Syntax" em Fodor, J. e Katz, J., redatores, 1964.
+
+1965 -- Aspects of the Theory of Syntax, M.I.T. Press, Cambridge, Massachusetts.
+EHRENREICH, PAUL 1894 -- "Die Sprache der caraya (Goyaz)" em Zeitschrift für Ethnologie, vol. 26, pp. 20-55.
+FILLMORE, C. J. 1963 -- "The Position of Embedding Transformations in a Grammar" em Word vol. 19, pp. 208-231. FODOR, J. e KATZ, J., redatores 1964 -- Structure of Language: readings in the philosophy of language, Englewood, New Jersey.
+FORTUNE, DAVID L. 1969 -- "A Concordância Gramatical na Língua Karajá", trabalho inédito, apresentado à Associação Lingüística e Filológica da América Latina, São Paulo, Brasil.
+GARVIN, PAUL L. 1970 -- "Moderation in Linguistic Theory" em Language Sciences, no 9, Indiana University, Research Center for the Language Sciences, Bloomington, Indiana.
+HARRIZ, ZELLIG S. 1952 -- "Discourse Analysis" em Language, vol. 38.
+KATZ, J. e POSTAL, P. M. 1964 -- An Integrated Theory of Linguistic Descriptions, M. I. T. Press, Cambridge, Massachusetts.
+KOUTSOUDAS, ANDREAS 1966 -- WritingTransformationalGrammars: AnIntroduction, McGraw Hill, Inc., New York.
+LEES, R. B. 1957 -- Resenha de Chomsky, Norm, Syntatic Structures" em Language, vol. 33, pp. 375-408.
+STOCKWELL, ROBERT P., SCHACHTER, PAUL e PARTEE, BARBARA HALL 1968 -- Integration of Transformational Theories on English Syntax, University of California Press, Los Angeles, California.
+
+

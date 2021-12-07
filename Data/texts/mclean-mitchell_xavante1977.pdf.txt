@@ -1,0 +1,5810 @@
+Aspectos da língua xavante
+Ruth McLeod & Valerie Mitchell
+Tradução de Mary Daniel
+PUBLICAÇÕES DA SIL
+CUIABÁ, MT 2003
+
+O presente volume, elaborado por Ruth McLeod e Valerie Mtchell, baseia-se nas análises lingüísticas de Eunice Burgess, Ruth McLeod e Joan Hall. É uma revisão da Gramática Pedagógica Xavante, preparada e mimeografada em 1971 por Nancy Thurmond e Ruth McLeod.
+REDATORA LORAINE IRENE BRIDGEMAN
+1a impressão 1977 2a impressão 1978 3a impressão 1980 4a impressão (eletrônica) 2003, (revisada e atualizada por Alec Harrison)
+Composto pela Sociedade Internacional de Lingüística Cuiabá, MT
+
+ÍNDICE
+INTRODUÇÃO Parte 1
+1 Fonemas, entonação, tom, intensidade 2 Verbo intransitivo ir/andar/mover-se 3 Verbos transitivos IIa 4 Verbos transitivos IIb 5 Verbos transitivos formas subordinadas 6 Verbos intransitivos formas dependentes 7 Parte 1 Mudanças fonológicas em temas nominativos
+Parte 2 Substantivos classe 1 8 Verbos -- Formas imperativas 9 Estativos 10 Verbos -- Formas negativas 11 Parte 1 Mudanças fonéticas automáticas
+Parte 2 Substantivos classe 2 12 Substantivos classes 3 e 4 13 Substantivos classes 5 e 6 14 Descritivos I, Prefixo pronominal relativo æ-,
+Equacionais 15 Pós posicionais 16 Verbos transitivos -
+Verbos ti, Verbos de tema múltiplo
+
+17 Objetos diretos 18 Descritivos II 19 Verbos intransitivos classes Ia e Ib 20 Verbos intransitivos classes Ic e Id 21 Verbos intransitivos classe Ie, Reflexivos, Formas imperativas 22 Orações relativas 23 Aspecto
+Parte 2
+A. DIVERSOS PONTOS GRAMATICAIS 1 Mudança de estado ou ser 2 Mudança de condição 3 Verbos compostos 4 Verbos complexos 5 O jussivo 6 O imperativo inclusivo 7 Notas sobre objetos indiretos e pós-posicionais 8 Comparação 9 Uso de na
+B. EXPRESSÕES ÚTEIS 1 Aprendizagem da língua 2 Termos referentes ao traba1ho
+
+3 Termos referentes ao tratamento médico
+C. VOCABULÁRIO 1 Partes do corpo 2 Termos de parentesco 3 Fases de desenvolvimento 4 Sistema de faixa etária 5 Comidas e animais comuns 6 Estativos 7 Locacionais 8 Re1acionantes dependentes 9 Pós-posicionais verbais 10 Horas e épocas 11 Numerais 12 Interjeições
+D. QUADROS VERBAIS GLOSSÁRIO
+
+INTRODUÇÃO
+1. Propósito da Gramática
+O propósito desta gramática é de facilitar a aprendizagem e o estudo da língua xavante para quem a desconhecer. Por ser compreensiva no seu alcance e apresentação de todo aspecto principal desta língua, a gramática proporciona ao estudante uma armação sobre a qual ele pode edificar, ao passo que seu conhecimento e domínio da língua forem crescendo, através de contatos com os Xavantes mesmos. Os dialetos da língua xavante variam até certo ponto entre si no que diz respeito ao léxico e uso. A presente Gramática é baseada no dialeto da região do Culuene.
+2. Uso da Gramática
+A gramática se divide em duas partes. A Parte 1 consiste em 23 lições, formando assim o corpo principal do texto. A Parte 2 contém quadros verbais, vocábulos adicionais, notas e exemplos de diversos pontos gramaticais, e um glossário de termos lingüísticos. Em geral, cada lição começa com uma pequena conversa-modelo em Xavante, seguida de vocabulário e uma explicação de determinados aspectos gramaticais da língua. Estão incluídos também exercícios de gramática e, em muitas lições, notas culturais que proporcionam informações de ordem geral sobre a vida dos Xavante. Recomendam-se os seguintes métodos de estudo para uso da Gramática em diversas situações e ocasiões. (a) Após completar as primeiras lições, o estudante verá a utilidade de revisá-las antes de empreender nova série de lições. Vale a pena fazer tal revisão depois de cada cinco ou seis lições. Desde o início, o estudante deve utilizar o que vai aprendendo nestas lições nos seus contatos com pessoas que falam Xavante. (b) Se o estudante estiver num local onde alguns dos Xavante falam português, será aconselhável, sobretudo nas fases iniciais da sua aprendizagem da língua xavante, que trabalhe com os ajudantes que maiores conhecimentos tiverem do português. Os ajudantes devem estar dispostos a corrigir a todo o momento a pronúncia e gramática do estudante, com muito ênfase na repetição e imitação oral dos exercícios, segundo o modelo acima referido; se o ajudante não mostrar tal disposição, o estudante deve animá-lo, mostrando seu próprio desejo de receber a necessária correção. (c) Numa situação monolingüe, ou em qualquer outra em que não se falar ou entender suficientemente o português para ser este fator de ajuda ao estudante, a Gramática será naturalmente de uso mais limitado. Fornecerá, contudo, informações que tornarão mais rápida a aprendizagem dos sons e das estruturas gramaticais da língua xavante. Seja qual for a situação ou ambiente de aprendizagem do estudante, e por mais limitado que seja seu vocabulário, deve a todo o momento falar a língua que está aprendendo. Isto não somente irá adiantar sua própria aprendizagem, como também animará os Xavante mesmos no sentido de lhe prestarem ajuda. Até o fim da segunda lição se encontra uma lista de diversas locuções práticas que serão úteis ao principiante em todo e qualquer ambiente de aprendizagem lingüística.
+
+3. Ortografia Convém elucidar certos aspectos da ortografia oficial da língua xavante.
+
+(a) Vogais e consoantes longas. Nesta língua certas palavras contêm sílabas de vogal longa, i.e., prolonga-se o som da vogal até duas vezes a duração das vogais normais. Há também consoantes longas, nas quais se prolonga o som igualmente.
+
+Comparam-se as seguintes palavras em Xavante:
+
+paadi – ‘tamanduá’ padi – ‘nome de homem’
+
+atto – ‘seu olho’ dato – ‘olho de uma pessoa’
+
+O prolongamento consonantal ocorre também entre duas palavras contíguas:
+
+du – ‘capim’
+
+duz zô – ‘para capim’
+
+Na forma escrita da língua xavante, contudo, não se indica a extensão dos sons, sendo a única exceção o prefixo pronominal pessoal da 1a pessoa singular ææ- no qual se manifesta sempre por escrita para evitar confusão com æ- prefixo pronominal pessoal da 3a pessoa do singular:
+
+ææmama – ‘meu pai’
+
+æmama – ‘o pai dele’
+
+A omissão de sinais ortográficos de prolongamento não apresenta problemas para os leitores xavante, de fato, facilita a escritura, embora possa criar confusões de leitura para quem não fala Xavante como língua materna. Todos os textos xavante apresentados nesta Gramática estão escritos com a ortografia atual, sendo a única exceção o prefixo pronominal pessoal da 1a pessoa singular ð-, que é representado nesta gramática com o símbolo ææ-. (Veja explicação acima.) Em benefício do principiante, porém, a extensão das vogais e consoantes é indicada através do uso de parênteses no caso de palavras que manifestam tal extensão, até a Lição 17. As palavras entre parênteses aparecem abaixo das palavras com vogal ou consoante longa, sendo indicada a extensão por duas vogais ou consoantes iguais:
+
+buru – ‘roça, jardim’ (buuru)
+
+æpano – ‘o braço dele’ (æpanno)
+
+(b) Oclusiva glotal. (V. Lição 1, chave de pronúncia.) Toda palavra escrita com vogal na posição inicial é pronunciada com uma pré-glotal, mesmo que não se indique por escrito.
+
+aibâ – 'homem' ('aibâ)
+
+i – 'cupim' ('i)
+
+(c) Vogais após consoantes nasalizadas. Toda vogal após m, n, mr ou nh inicial na sílaba é nasalizada mesmo que a nasalização não se indique por escrito.
+
+maræ – 'algo' (mãræ)
+
+te tinha – 'ele diz' (te tinhã)
+
+PARTE 1
+LIÇÃO 1
+Antes de começar esta lição, estude cuidadosamente a Introdução, sobretudo as seções 2 e 3.
+
+Os fonemas do Xavante e seus símbolos
+
+Consoantes
+
+Som
+
+Símbolo
+
+Som
+
+p
+
+p
+
+i
+
+t
+
+t
+
+e
+
+Ž
+
+'
+
+Æ
+
+b
+
+b
+
+a
+
+d
+
+d
+
+Í
+
+s
+
+s
+
+o
+
+z
+
+z
+
+u
+
+R
+
+r
+
+à
+
+w
+
+w
+
+Ê
+
+h
+
+h
+
+å
+
+m
+
+m
+
+æ
+
+n
+
+n
+
+ã
+
+š
+
+nh
+
+õ
+
+A nasalização é indicada por ~.
+
+Vogais Símbolo
+i e é a o ô u y â å æ ã õ
+
+Chave de pronúncia Vogais
+
+i
+
+pronuncia-se como em ‘tia’:
+
+ti
+
+flecha
+
+é
+
+pronuncia-se como em ‘pé’:
+
+æté
+
+aquilo que e novo
+
+a
+
+pronuncia-se como em ‘lá’:
+
+dato
+
+olho de uma pessoa
+
+o
+
+pronuncia-se como em ‘avó’:
+
+Quando prolongada, esta vogal se fecha ligeiramente
+
+oto
+
+agora
+
+ô
+
+pronuncia-se como em ‘avô’:
+
+tô
+
+de fato
+
+u
+
+pronuncia-se como em ‘tu’:
+
+su'u
+
+liso, ligeiro
+
+e
+
+pronuncia-se como em ‘você’:
+
+æte
+
+coisas, posses dele
+
+y
+
+pronuncia-se semelhantemente à vogal da palavra inglesa ‘just’ quando atônica:
+
+syryre di
+
+é pequeno
+
+(syryree)
+
+â
+
+pronuncia-se semelhantemente a vogal ‘a’ da locução inglesa 'a boy':
+
+aibâ
+
+homem
+
+Toda vogal nasalizada possui nasalização bem definida. Toda vogal após m, n, mr ou
+
+nh inicial na sílaba é nasalizada mesmo que a nasalização não se indique por escrito.
+
+Abre-se a pronúncia de e junto com a nasalização.
+
+momo
+
+onde
+
+damreme palavra
+
+(damreeme) língua
+
+aimro
+
+seu esposo(a)
+
+te nhono
+
+ele dorme
+
+(nhoono)
+
+Consoantes
+
+p,t
+
+quando iniciais na sílaba são mais aspirados que em português:
+
+pa'o
+
+banana
+
+tebe
+
+peixe comestível
+
+(teebe)
+
+'
+
+pronuncia-se como a interrupção na interjeição inglesa 'oh-oh':
+
+pi'õ
+
+mulher
+
+wa'wa
+
+piranha
+
+t,d
+
+pronuncia-se com a mesma posição da língua que em português:
+
+dato
+
+olho de uma pessoa
+
+s
+
+pronuncia-se como em português; em alguns ambientes com um pouco de fricção, por
+
+exemplo, antes da vogal i:
+
+te sabu ele vê
+
+(saabu)
+
+si'a
+
+frango (como em 'xícara', mas com menos fricção)
+
+z
+
+pronuncia-se como em 'zangado':
+
+zahadu mais tarde/ainda não/espera
+
+r
+
+pronuncia-se como em ‘caro’:
+
+buru
+
+roça
+
+(buuru)
+
+w
+
+antes da letra ‘i’ é pronunciado como o ‘w’ inglês, sem arredondamento dos lábios e
+
+com um pouco de fricção. Em outros ambientes não há fricção e os lábios se
+
+arredondam mais:
+
+æwi
+
+semente dele
+
+warazu estrangeiro
+
+h
+
+pronuncia-se como na palavra inglesa ‘ahead’ (i.e. -rr- português em frouxo)
+
+dahi
+
+osso de uma pessoa
+
+b, d, m, n, pronunciados como em português.
+
+nh
+
+(veja a observação sobre nasalização de vogais)
+
+Entonação
+As locuções declarativas têm entonação cadente, i.e., o tom ou nível da voz é mais baixo ao final da locução do que ao princípio. As locuções ativas descrevem uma configuração entonacional nível baixoalto-baixo. Cai o nível no marcador interrogativo e em princípios da pergunta; depois sobe e finalmente desce progressivamente até ao fim da pergunta:
+
+e niha
+
+Como?
+
+e momo te aimo
+
+Aonde você vai?
+
+O estudante aprenderá logo outras configurações entonacionais da língua xavante. Uma mãe, quando ralha com uma criança, por exemplo, usa entonação fortemente cadente. Uma mulher contando as mágoas e injustiças da sua vida emprega uma entonação da qual todo segmento termina num nível mais alto do que o anterior, etc.
+
+Tom vocálico Note-se que as vogais i, æ, y e u são pronunciadas com tom mais alto que as outras:
+
+da'upana
+
+substituto de uma pessoa
+
+dati'â
+
+mãe! tia! (vocativo)
+
+Duração enfática
+Para fins enfáticos, prolonga-se a penúltima sílaba de uma locução. Quanto mais prolongada a sílaba, maior a ênfase. Esta faceta difere do prolongamento mencionado na Introdução. Ocorrendo com mais freqüencia em palavras descritivas, não se indica normalmente em forma gráfica:
+
+romhâ di (romhââ)
+
+é longe
+
+(romhâââ di)
+
+é muito longe
+
+Intensidade
+1. A intensidade é previsível em palavras que contêm apenas vogais curtas (sílabas acentuadas sublinhadas).
+
+Em palavras de duas sílabas, a última sílaba é acentuada:
+
+pi'õ
+
+mulher
+
+pa'o
+
+banana
+
+Em palavras de três sílabas, o acento cai na primeira e na última sílaba:
+
+apito
+
+chefe
+
+uzapo
+
+abóbora
+
+Em palavras de quatro sílabas, o acento cai na segunda e na última sílaba:
+
+'watébrémi
+
+guri
+
+dawatasu
+
+barba
+
+2. As sílabas longas são sempre acentuadas. Há três tipos de sílaba longa: aquelas com vogal prolongada; aquelas com vogal mais i; e aquelas que terminam em consoante:
+
+wahi
+
+cobra
+
+aibâ
+
+(waahi)
+
+homem
+
+ubdâ
+
+capivara
+
+3. É acentuada a sílaba final de toda locução, a menos que seja o sufixo diminutivo -re:
+
+buru u (buuru)
+
+à roça
+
+4. Quando a última sílaba da palavra consiste no sufixo diminutivo -re, não é acentuada. A intensidade em tal caso é previsível da seguinte maneira:
+
+Em palavras de duas sílabas, o acento cai na primeira:
+
+sire (sæære)
+
+passarinho
+
+Em palavras de três sílabas, o acento cai na segunda:
+
+upure
+
+mosquinha
+
+Em palavras de quatro sílabas, o acento cai na primeira e na terceira:
+
+abazire
+
+linha, fio
+
+Pratiquem-se a conversa e os exercícios que seguem:
+
+— E rowå di. (roowåå)
+— Æhe, rowå di. (ææhe, roowåå)
+— E te æromhu.
+— Æhe, wa romhu. (ææhe)
+
+CONVERSA Tudo bem (com você)?
+Tude bem.
+Está trabalhando? Sim, estou trabalhando.
+
+e
+æhe (ææhe)
+rowå di (roowåå)
+te æromhu
+wa romhu
+
+VOCABULÁRIO palavra que introduz uma pergunta sim
+as coisas vão bem, bom, ótimo
+você está trabalhando estou trabalhando
+
+EXERCÍCIOS
+Tom Module o tom da voz na pronúncia das seguintes locuções. Escute bem o tom da voz do seu ajudante xavante:
+
+Alto-alto
+
+uhi
+
+feijão
+
+simhi
+
+garrafa
+
+pi'u
+
+classe de abelha
+
+Alto-baixo
+
+upa
+
+mandioca
+
+u'ã
+
+jabuti
+
+ti'a
+
+terra
+
+noni (nooni)
+
+Baixo-alto capacete
+
+wedehu
+
+Baixo-baixo-alto vara de madeira
+
+dadu
+
+estômago de uma pessoa marã u
+
+ao mato
+
+dahi
+
+osso de uma pessoa
+
+aihâ nhi
+
+carne de veado
+
+campeiro
+
+Pratique agora uma variedade de contrastes no modelo wa tisa 'eu o vejo':
+
+wedehu wa tisã
+
+vejo a vara
+
+utâ nhi wa tisã
+
+vejo a carne de anta
+
+aihâ nhi wa tisã
+
+vejo a carne do veado campeiro
+
+ai'uté wa tisã
+
+vejo o nenê
+
+abazi wa tisã
+
+vejo o algodão
+
+Duração vocálica Pratique o contraste entre vogais longas e curtas:
+
+ti'a
+
+terra
+
+wahi
+
+uma pessoa pequena
+
+ti'a (tææ'a)
+
+carrapato
+
+wahi (waahi)
+
+cobra venenosa
+
+padi
+
+nome de homem wedehu
+
+vara
+
+padi (paadi)
+
+tamanduá
+
+wede (weede)
+
+árvore
+
+Duração consonantal Pratique o contraste entre consoantes longas e curtas:
+
+dana
+
+mãe de uma
+
+dato
+
+olho de uma pessoa
+
+pessoa
+
+ana (anna)
+
+sua mão
+
+ato (atto)
+
+seu olho
+
+date
+
+posses de uma pati zô
+
+para tamanduá
+
+pessoa
+
+ate (atte)
+
+suas posses
+
+e tiha zô (tihaz zô)
+
+para que?
+
+NOTA CULTURAL
+Desde o início das pesquisas lingüísticas na sua tribo, os Xavante têm mostrado vivo interesse no ensino da sua língua a outras pessoas. Como em todo grupo humano, alguns deles captam com mais rapidez o intuito do principiante e se prontificam a ajudar-lhe. Em geral, os homens e as mulheres mais idosas são melhores ajudantes lingüísticos que os jovens por não hesitarem em corrigir os erros de quem aprende.
+
+LIÇÃO 2
+CONVERSA
+
+— E momo te aimo.
+— Buru u, wa mo. — E maræ zô, te aimo.
+— Upa zô, wa mo. (upaa)
+— We aimoræ su'u za. — A'âza, wa za tô we moræ su.
+
+Aonde vai? Vou à roça. Por quê? Vou por mandioca.
+Volte logo! 'Tá, volto logo mesmo.
+
+VOCABULÁRIO
+
+e momo e maræ zô
+e tiha zô (tihaz zô) aimoræ (aimooræ)
+buru (buuru)
+buru u (sem prolongamento vocálico)
+romhuri u
+rowahutuzéb u
+
+aonde? a que lugar? por quê? com que propósito? (fala masculina) por quê? com que propósito? (fala feminina) vá (imperativo)
+roça
+à roça
+ao trabalho ao lugar de ensino
+
+(roowahutuzéb)
+apito u (apitoo)
+Cuiabá u
+Batovi u 'ri tåme ('rææ)
+âi ba
+zô/sô
+õwa (õõwa) 'rææ baba ('rææ baba)
+upa zô (upaa)
+wa'rupré zô (wa' rupréé)
+mi
+mimi zô
+aihâ zô
+uhâdâ
+utâ zô
+aba (aaba)
+a'âza
+
+ao oficial
+a Cuiabá ao Batovi a casa
+à água, ao rio por ele, ela/em busca de/por isso lá
+pelas casas
+por mandioca, para buscar mandioca
+por milho, para buscar milho
+lenha por lenha, para buscar lenha por veado campeiro, para buscar veado campeiro anta por anta, para buscar anta a uma caçada, caçada, para caçar
+consentimento, aprovação
+
+oto
+
+agora
+
+we
+
+em direção a(o locutor), para cá
+
+GRAMÁTICA
+VERBOS
+Há na língua xavante duas classes principais de verbos, denominados "intransitivos" (Classe I) e "transitivos" (Classe II). No caso dos verbos intransitivos, é o sujeito (ator) quem experimenta ou sofre a ação; no caso dos verbos transitivos, a ação se destina ao objeto. Os verbos intransitivos mais comuns possuem tema diferente no caso do singular, dual e plural. (Note-se que na língua xavante é preciso indicar se duas (dual) ou mais (plural) pessoas completam ou sofrem a ação; tal regra se aplica tanto a verbos intransitivos quanto a transitivos.)
+
+VERBOS INTRANSITIVOS EM ORAÇÕES NÃO SUBORDINADAS
+
+São cinco as principais sub-classes de verbos intransitivos. Além destas, há verbos reflexivos e uns poucos verbos de tema múltiplo. Nesta lição é preciso decorar o seguinte paradigma do verbo intransitivo de tema múltiplo "ir/andar/mover-se" no seu uso em orações não subordinadas. Os temas aparecem sublinhados.
+
+1a
+
+wa mo
+
+Singular vou
+
+2a
+
+te aimo
+
+você vai
+
+3a
+
+te mo
+
+ele vai
+
+A 2a pessoa do verbo na língua xavante corresponde mais exatamente ao uso de você(s) em português e é portanto, traduzida desta forma na presente Gramática. Porém pode ser traduzido sem as formas da segunda pessoa em situações apropriadas.
+
+la
+
+wa wanem ni
+
+(waanem)
+
+2a
+
+te ane wa'wa
+
+Dual nós dois vamos
+vocês dois vão
+
+(annee waa'wa)
+
+3a
+
+te tineb zahuré
+
+(zahuuré)
+
+eles dois vão
+
+la
+
+wa ai'aba'ré ni
+
+(ai'aba'rén ni)
+
+Plural nós* (todos) vamos
+
+2a
+
+te ai'aba'réi wa'wa
+
+vocês* (todos) vão
+
+(waa'wa)
+
+3a
+
+te ai'aba'ré
+
+eles* (todos) vão
+
+* Quando os termos nós, vocês e eles aparecem nesta Gramática sem serem seguidos pelo termo dois, sempre significam "plural", isto é, "três ou mais".
+
+ni wa'wa zahuré
+
+indica a primeira pessoa não singular (dual e plural) indica a segunda pessoa não singular (dual e plural) indica a terceira pessoa do dual
+
+Note-se que a maior parte dos verbos intransitivos mais comuns é de tema múltiplo. Na Parte II desta Gramática muitos deles aparecem escritos por extenso, e é aconselhável ir aprendendo aos poucos estes verbos à margem do estudo regular das lições.
+NOTA CULTURAL
+Os homens da tribo fazem o trabalho pesado de capina e de queimada na roça. Ambos os sexos ajudam na plantação e colheita de arroz e feijão. As mulheres trazem mantimento da roça para uso diário. Só os homens costumam caçar, e se ausentam por vezes uma semana inteira na caça, cortando e assando a carne dos animais para consumo doméstico. Veja a Parte II desta Gramática para uma lista dos alimentos mais comuns da tribo xavante.
+
+Pratique os seguintes diálogos:
+E momo te aimo.
+Buru u, wa mo.
+E momo te ane wa'wa. (annee waa'wa)
+Buru u, wa wanem ni. (waanem)
+E momo te ai'aba'réi wa'wa. (waa'wa)
+Buru u, wa ai'aba'ré ni. (ai'aba'rén ni)
+E momo te mo.
+Buru u, te mo.
+E momo te tineb zahuré. (zahuuré)
+Buru u, te tineb zahuré. (zahuuré)
+E momo te ai'aba'ré.
+Buru u, te ai'aba'ré.
+
+EXERCÍCIOS
+Aonde você vai? Vou à roça. Aonde vocês dois vão? Nós dois vamos à roça. Aonde vocês vão? Vamos à roça. Aonde ele vai? Ele vai à roça. Aonde eles dois vão? Eles dois vão à roça. Aonde eles vão? Eles vão à roça.
+
+Faça substituição de outras locuções direcionais em lugar de buru u nestes modelos. V. exemplos no vocabulário.
+
+E maræ zô, te aimo.
+
+Por/para que você vai?
+
+Upa zô, wa mo. (upaa)
+
+Vou por (vou buscar) mandioca.
+
+E maræ zô, te ane wa'wa. (annee waa'wa)
+
+Por/para que vocês dois vão?
+
+Upa zô, wa wanem ni. (waanem)
+E maræ zô, te ai'aba'réi wa'wa. (waa 'wa)
+
+Upa zô, wa ai'aba'ré ni. (upaa) (ai'aba'rén ni)
+E maræ zô, te mo.
+
+Upa zô, te mo. (upaa)
+E maræ zô, te tineb zahuré. (zahuuré)
+
+Upa zô, te tineb zahuré.
+
+(upaa)
+
+(zahuuré)
+
+E maræ zô, te ai'aba'ré.
+
+Upa zô, te ai'aba'ré.
+
+Nós dois vamos por (vamos buscar) mandioca. Por/para que vocês vão? Vamos por (vamos buscar) mandioca. Por/para que ele vai? Ele vai por (vai buscar) mandioca. Por/para que eles dois vão? Eles dois vão por (vão buscar) mandioca. Por/para que eles vão? Eles vão por (vão buscar) mandioca.
+
+Faça substituição de outras locuções em lugar de upa zô nestes modelos. V. exemplos no vocabulário. VOCABULÁRIO DE APRENDIZAGEM
+
+e damreme (damreeme)
+e damreme uwaibaba
+
+É uma palavra da língua? (expressão útil na tentativa de lembrar e pronunciar novas palavras, etc.)
+É assim que a língua vai? (i.e., assim se diz em Xavante?)
+
+e ãne
+e niha æsisi (æsææsi)
+e maræ (maaræ)
+e tiha
+atãma nharæ (nhaaræ)
+apâ (appâ)
+duré
+
+É assim? Como é o nome dele/dela?
+O que é? Como se chama? (fala masculina) O que é? Como se chama? (fala feminina) diga devagar
+outra vez; repita; retorno
+outra vez; mais
+
+— E momo te aimo.
+— Âi ba, wa mo. — E zazahâ te za æ'upsõ.
+(zaazahâ) — Æhe, zazahâ wa za upsõ.
+(ææhe, zaazahâ)
+zazahâ (zaazahâ)
+piza'a (pizaa'a)
+abazipara (abazipaara) æsõtõzé æsõ'utu'u
+tãma ææna wapté (æænaa) ææmama wapté ææno
+æædub'rada (æædub'raada)
+
+LIÇÃO 3
+CONVERSA Aonde você vai? Vou ao rio. Você vai lavar roupa?
+Sim, vou lavar roupa.
+VOCABULÁRIO pano, roupa
+pratos, louça
+rede
+manta dele/dela camisa dele a/para ele/ela minha tia materna
+meu tio materno meu irmão caçula (fala masculina) minha irmã caçula (fala feminina) meu irmão mais velho (fala masculina) minha irmã mais velha (fala feminina)
+
+uhi
+piza
+sabui (IIa) (saabui)
+upsõi (IIa)
+wamroi (IIa) (waamroi)
+sum (IIa)
+prum (IIa)
+pawaptom (IIa) (paawaptom)
+wasi (IIa) (waasi)
+sõré (IIa) (sõõré)
+sawi (IIa) sapræ (IIa)
+
+feijão panela ver
+lavar varrer
+socar, bater despedaçar ajudar
+misturar (para construção da casa) fazer a massa ler, contar, classificar, arrumar
+cumprimentar, saudar atravessar, trocar, traduzir
+
+GRAMÁTICA
+VERBOS DA IIa CLASSE TRANSITIVOS - EM ORAÇÕES INDEPENDENTES
+São duas as sub-classes de verbos transitivos na língua xavante.
+Sub-Classe IIa
+Regra: O tema verbal permanece constante em toda a conjugação verbal (i.e. não se perde a sílaba final na 2a pessoa do singular quando em posição final de locução verbal). Na 2a pessoa do dual, ocorre wa'wa (marcador de 2a pessoa não singular).
+
+1a wa wasi (waasi)
+2a te æwasi (æwaasi)
+3a te wasi (waasi)
+1a wa wasi ni (waasi)
+2a te æwasi wa'wa (æwaasi waa'wa)
+3a te wasi zahuré (waasi zahuuré)
+1a wa wasi za'ra ni (waasi za'raa)
+2a te æwasi za'ra wa'wa (æwaasi za'raa waa'wa)
+3a te wasi za'ra (waasi)
+
+Singular misturo você mistura ele mistura
+Dual nós dois misturamos vocês dois misturam eles dois misturam
+Plural nós misturamos vocês misturam eles misturam
+
+Nota: za'ra indica pluralidade (exceto em verbos de tema múltiplo cujo tema é intrinsecamente plural. V. quadros verbais na Parte 2).
+Nota: æ- indica a 2a pessoa (sujeito) e é prefixado ao tema de verbos transitivos de todas as classes.
+Nota: Alguns verbos da sub-classe IIa possuem a consoante b ou a vogal i final que se perde quando em posição final de locução verbal. (As formas entre parênteses mostram que há prolongamento
+
+consonantal entre palavras na locução verbal. As regras que governam tais mudanças fonológicas automáticas aparecem na Lição 11 Parte 1.)
+Alguns dos verbos que se perdem o i final são: pibui, pi'rai, ropéi, sabui (V. exemplo abaixo), upsõi, wamroi, waibui
+
+1a wa sabu (saabu)
+2a te æsabu (æsaabu)
+3a te sabu (saabu)
+
+Singular vejo você vê ele vê
+
+1a wa sabu ni (saabun)
+2a te æsabui wa'wa (æsaabui)
+3a te sabu zahuré (saabuz zahuuré)
+1a wa sabu za'ra ni (saabuz za'raa)
+2a te æsabu za'ra wa'wa (æsaabuz za'raa waa'wa)
+3a te sabu za'ra (saabuz)
+
+Dual nós dois vemos vocês dois vêem eles dois vêem
+Plural nós vemos vocês vêem eles vêem
+
+Alguns dos verbos que se perdem o b final são: pawaptob (V. exemplo abaixo), prub, sub, uptob
+
+1a wa pawapto (paawapto)
+2a te æpawapto (æpaawapto)
+
+Singular eu lhe ajudo
+você lhe ajuda
+
+3a te pawapto (paawapto)
+
+ele lhe ajuda
+
+1a wa pawaptom ni (paawaptom)
+2a te æpawapto wa'wa (æpaawaptoo waa'wa)
+3a te pawaptob zahuré (paawaptob zahuuré)
+
+Dual nós dois lhe ajudamos vocês dois lhe ajudam eles dois lhe ajudam
+
+1a wa pawaptob za'ra ni (paawaptob za'raa)
+2a te æpawaptob za'ra wa'wa (æpaawaptob za'raa waa'wa)
+3a te pawaptob za'ra (paawaptob)
+
+Plural nós lhe ajudamos vocês lhe ajudam eles lhe ajudam
+
+Nota: A vogal final do tema de alguns verbos IIa é prolongada na 1a pessoa do dual, por exemplo sõré, sawi.
+
+NOTA CULTURAL
+Os Xavante manifestam grande curiosidade acerca das atividades de outras pessoas, e raros são os encontros não acompanhados da pergunta, "Aonde você vai?".
+As mulheres fabricam cestos para o transporte de crianças e comida. Os homens fazem arcos e flechas, esteiras, espanadores, flautas de cabaças, capacetes de penas e outros tipos de cestos. Todos fazem colares de sementes.
+EXERCÍCIOS
+
+E maræ te æ'upsõ. (maaræ)
+Zazahâ wa upsõ. (zaazahâ)
+
+O que você está lavando? Estou lavando roupa.
+
+E maræ te æ'upsõi wa'wa.
+
+(maaræ)
+
+(waa'wa)
+
+Zazahâ wa upsõ ni. (zaazahâ) (upsõn)
+
+O que vocês dois estão lavando? Nós dois estamos lavando roupa.
+
+E maræ te æ'upsõ za'ra wa'wa. (maaræ) (æ'upsõz za'raa waa'wa)
+Zazahâ wa upsõ za'ra ni (zaazahâ) (upsõz za'raa)
+
+O que vocês estão lavando? Nós estamos lavando roupa.
+
+E maræ te upsõ. (maaræ)
+Zazahâ te upsõ. (zaazahâ)
+
+O que ela está lavando? Ela está lavando roupa.
+
+E maræ te upsõ zahuré. (maaræ) (upsõz zahuuré)
+
+O que elas duas estão lavando?
+
+Zazahâ te upsõ zahuré. (zaazahâ) (upsõz zahuuré)
+E maræ te upsõ za'ra. (maaræ) (upsõz) Zazahâ te upsõ za'ra. (zaazahâ) (upsõz)
+
+Elas duas estão lavando roupa.
+O que elas estão lavando? Elas estão lavando roupa.
+
+Dominado a fundo este exercício, substitua outros itens léxicos:
+
+Æsõ'utu'u wa upsõ.
+
+Estou lavando a camisa dele.
+
+Æsõtõzé wa upsõ.
+
+Estou lavando a manta dele.
+
+E tiha te æsu. (fala feminina)
+
+O que você está socando?
+
+Aro wa su. (aaro)
+
+Estou socando arroz.
+
+E tiha te æsu wa'wa. (æsuu waa'wa)
+Aro wa sum ni. (aaro)
+
+O que vocês duas estão socando? Nos duas estamos socando arroz.
+
+E tiha te æsub za'ra wa'wa. (za'raa waa'wa)
+Aro wa sub za'ra ni. (aaro) (za'raa)
+
+O que vocês estão socando? Estamos socando arroz.
+
+E tiha te su. Uhi te su.
+
+O que ela está socando? Ela está socando feijão.
+
+E tiha te sub zahuré. (zahuuré)
+
+O que elas duas estão socando?
+
+Uhi te sub zahuré. (zahuuré)
+E tiha te sub za'ra. Uhi te sub za'ra.
+
+Elas duas estão socando feijão.
+O que elas estão socando? Elas estão socando feijão.
+
+— E momo te aimo.
+— Buru u, wa mo. — E buru ãma, te za æromhu. — Æhe. Buru ãma, wa za
+(ææhe)
+romhu. — Aibâ noræ hã e buru ãma
+(norææ)
+te za romhuri za'ra. — Æhe. Buru ãma, te za
+(ææhe)
+romhuri za'ra. — Mo oto aimoræ.
+— A'âza. Wa za mo. — Te za æromhuræ wå. — Wa za tô romhuri wå.
+
+LIÇÃO 4
+CONVERSA Aonde você vai? Vou à roça. Você vai trabalhar na roça? Sim. Vou trabalhar na roça.
+Os homems vão trabalhar na roça?
+Sim. Eles vão trabalhar na roça.
+Vá agora! 'Tá, eu vou. Você vai trabalhar bem. Vou trabalhar bem mesmo.
+
+za'ra buru ãma apito ãma
+
+VOCABULÁRIO indica a terceira pessoa do plural (três ou mais) na roça no lugar oficial (do oficial/chefe)
+
+apito ma ææmama ma
+aima
+'ri para ('rææ)
+aibâ aibâ noræ
+pi'õ pi'õ noræ (pi'õn noræ)
+za
+tô
+hã
+wetenhamri (wetenhaamri)
+mazasu
+wedeza
+si'õno (si'õõno) a'é (aa'é) 'manharæ (IIb)
+romhuri (IIb)
+ropta'a (IIb)
+
+a/para o oficial/chefe a/para meu pai a/para você na casa
+homem grupo de homens (dois ou mais) mulher grupo de mulheres (duas ou mais)
+indicador de futuro indicador de ação completa indicador enfático, introdutor de novo sujeito (sempre precedido de vogal longa) esteira
+espanador mesa, cadeira cesto sementes para fazer colares
+fazer trabalhar bater, martelar
+
+sapu'u (IIb) sapo'o (IIb) wapari (IIb) sa'wari (IIb) 'madâ'â (IIb) uwari (IIb) rosa'rata (IIb) wazâri (IIb) waihu'u (IIb) rob'ui'éré (IIb)
+
+furar cavar em busca de escutar, ouvir jogar fora/despejar olhar descascar feijão pensar capinar, sachar saber/poder escrever
+
+GRAMÁTICA VERBOS DA IIa CLASSE TRANSITIVOS - EM ORAÇÕES INDEPENDENTES
+Sub-Classe IIb Regra 1. Perde-se a sílaba final do tema verbal na 2a pessoa do singular quando em posição final de locução verbal. Na 2a pessoa do dual, ocorre 'wa e não wa'wa (marcadores de 2a pessoa não singular).
+
+1a wa rosa'rata (roosa'raata)
+2a te ærosa'ra (æroosa'ra)
+
+Singular penso
+você pensa
+
+3a te rosa'rata (roosa'raata)
+
+ele pensa
+
+1a wa rosa'rata ni (roosa'rata)
+2a te ærosa'rata 'wa (æroosa'rataa)
+3a te rosa'rata zahuré (roosa'rata zahuuré)
+1a wa rosa'rata za'ra ni (roosa'rata za'raa)
+2a te ærosa'rata za'ra wa'wa (æroosa'rata za'raa waa'wa)
+3a te rosa'rata za'ra (roosa'rata)
+
+Dual nós dois pensamos vocês dois pensam eles dois pensam
+Plural nós pensamos vocês pensam eles pensam
+
+Nota: Alguns verbos da sub-classe IIb se perdem a sílaba final também nas 1a e 3a pessoas do singular quando em posição final de locução verbal.
+
+Alguns dos verbos que se perdem a sílaba final também nas 1a e 3a pessoas são: 'madâ'â, 'manharæ, romhuri (V. exemplo abaixo), saprõni, sa'wari, wapari, wazâri
+
+1a wa romhu
+
+Singular trabalho
+
+2a te æromhu
+
+você trabalha
+
+3a te romhu
+
+ele trabalha
+
+1a wa romhuri ni 2a te æromhuri 'wa 3a te romhuri zahuré
+(zahuuré)
+1a wa romhuri za'ra ni (za'raa)
+2a te æromhuri za'ra wa'wa (za'raa waa'wa)
+3a te romhuri za'ra
+
+Dual nós dois trabalhamos vocês dois trabalham eles dois trabalham
+Plural nós trabalhamos
+vocês trabalham
+eles trabalham
+
+NOTA CULTURAL
+As mulheres lavam as roupas no rio, mas costumam lavar os pratos em casa. Quando o sabão está em falta, os Xavante recorrem ao método tradicional, uma espécie de espuma à base da casca interna do arbusto wedenhorõto.
+
+EXERCÍCIOS
+
+Pratique as seguintes séries de perguntas e respostas:
+
+E te æwazâ. (æwaazâ)
+
+Você está capinando?
+
+Æhe, wa wazâ. (ææhe) (waazâ)
+
+Sim, estou capinando.
+
+E te æwazâri 'wa.
+
+Vocês dois estão capinando?
+
+Æhe, wa wazâri ni. (waazâri)
+
+Sim, nós dois estamos capinando.
+
+E te æwazâri za'ra wa'wa.
+
+Vocês estão capinando?
+
+(æwaazâri za'raa waa'wa)
+Æhe, wa wazâri za'ra ni. (waazâri za'raa)
+
+Sim, todos estamos capinando.
+
+E te wazâ. (waazâ)
+Æhe, te wazâ. (waazâ)
+
+Ele está capinando? Sim, ele está capinando.
+
+E te wazâri zahuré. (waazâri zahuuré)
+Æhe, te wazâri zahuré. (wazâri zahuuré)
+
+Eles dois estão capinando? Sim, eles dois estão capinando.
+
+E te wazâri za'ra. (waazâri)
+Æhe, te wazâri za'ra. (waazâri)
+
+Eles estão capinando? Sim, eles todos estão capinando.
+
+Dominado este exercício, intercale a locução locativa buru ãma após o marcador interrogativo e. Então, introduza o marcador de aspecto futuro za antes do tema verbal. O novo exercício reza assim:
+
+E buru ãma, te za æwazâ.
+
+Você vai capinar na roça?
+
+Æhe, buru ãma, wa za wazâ.
+
+Sim, vou capinar na roça.
+
+Dominado a fundo o novo exercício, coloque ma tô "ação completa" no lugar de te za. O exercício assim modificado é como se segue:
+
+E buru ãma, ma tô æwazâ. (æwaazâ)
+
+Você capinou na roça?
+
+Æhe, buru ãma, wa tô wazâ.
+
+(ææhe)
+
+(waazâ)
+
+Sim, capinei na roça.
+
+Nota: ma não ocorre na 1a pessoa.
+
+Pratique o seguinte exercício:
+
+E te ærob'ui'é.
+Wa rob'ui'éré. (rob'ui'ééré)
+E te ærob'ui'éré 'wa. (ærob'ui'éréé)
+Wa rob'ui'éré ni.
+E te ærob'ui'éré za'ra wa'wa. (za'raa waa'wa)
+Wa rob'ui'éré za'ra ni. (za'raa)
+E te rob'ui'éré. (rob'ui'ééré)
+Te rob'ui'éré. (rob'ui'ééré)
+E te rob'ui'éré zahuré. (zahuuré)
+Te rob'ui'éré zahuré. (zahuuré)
+E te rob'ui'éré za'ra.
+Te rob'uiéré za'ra.
+
+Você está escrevendo? Estou escrevendo. Vocês dois estão escrevendo? Nós dois estamos escrevendo. Vocês estão escrevendo? Todos estamos escrevendo. Ele está escrevendo? Ele está escrevendo. Eles dois estão escrevendo? Eles dois estão escrevendo. Eles estão escrevendo? Eles estão escrevendo.
+
+Depois de dominar a fundo este exercício, modifique o modelo, introduzindo za e colocando ma tô, como no exercício anterior. (Talvez seja mais útil reescrever por completo os exercícios após a sua modificação.)
+
+Pi'õ te romhu.
+
+Apito ma, te romhu. (apitoo)
+
+Zazahâ te te tãma upsõ da, te romhu.
+
+(zaazahâ)
+
+(upsõd)
+
+— E momo te aimo.
+
+— Âi ba, wa mo.
+
+— E tiha zô, te aimo. (tihaz)
+
+— Zazahâ te upsõ da, wa mo. (zaazahâ) (upsõd)
+
+— E momo te aimo.
+
+— Buru u, wa mo, te romhuri da.
+— Mo oto aimoræ, romhuri da. (aimooræ)
+
+LIÇÃO
+5
+CONVERSA A mulher está trabalhando. Ela está trabalhando para o oficial.
+Para lavar roupa para ele, ela trabalha.
+Aonde você vai? Vou ao rio. Por/para que vai?
+Vou para lavar roupa.
+Aonde você vai? Vou à roça trabalhar. Vá trabalhar, pois.
+
+VOCABULÁRIO
+
+da
+
+relacionante dependente 'para'
+
+GRAMÁT ICA
+VERBOS TRANSITIVOS EM ORAÇÕES DEPENDENTES
+Um relacionante dependente, mais nova série de marcadores de pessoa, significa dependência. Nas orações dependentes, ocorre sempre o tema verbal integral. Tais orações podem figurar isoladamente
+
+como resposta a uma pergunta. Aparecem a seguir os paradigmas dos verbos 'trabalhar' e 'lavar' em orações dependentes.
+
+1a Te romhuri da, wa mo. 2a Romhuri da, te aimo. 3a Te te romhuri da, te mo.
+
+Singular Vou para trabalhar. Você vai para trabalhar. Ele vai para trabalhar.
+
+1a Wa te romhuri da, wa wanem ni. (waanem)
+
+Dual
+
+2a Romhuri aba da, te ane wa'wa.
+
+(romhurææ)
+
+(annee waa'wa)
+
+3a Te te romhuri zahuré da, te tineb zahuré.
+
+(zahuuréé)
+
+(zahuuré)
+
+Nós dois vamos para trabalhar. Vocês dois vão para trabalhar. Eles dois vão para trabalhar.
+
+Plural
+1a Wa te romhuri za'ra da, wa ai'aba'ré ni. (za'raa) (ai'aba'rén)
+
+2a Romhuri za'ra wa'aba da, te ai'aba'réi wa'wa.
+
+(za'raa waa'aba)
+
+(waa'wa)
+
+3a Te te romhuri za'ra da, te ai'aba'ré. (za'raa)
+
+1a Te upsõ da, wa mo. (upsõd)
+
+Singular
+
+2a Upsõ da, te aimo. (upsõd)
+
+Nós vamos para trabalhar. Vocês vão para trabalhar. Eles vão para trabalhar.
+Vou para lavar. Você vai para lavar.
+
+3a Te te upsõ da, te mo. (upsõd)
+
+Ela vai para lavar.
+
+1a Wa te upsõ da, wa wanem ni.
+
+(upsõd)
+
+(waanem)
+
+Dual
+
+2a Upsõi wa'aba da, te ane wa'wa. (waa'aba) (annee waa'wa)
+
+3a Te te upsõ zahuré da, te tineb zahuré.
+
+(upsõz zahuuréé)
+
+(zahuuré)
+
+Vou para lavar. Você vai para lavar. Ela vai para lavar.
+
+Plural
+1a Wa te upsõ za'ra da, wa ai'aba'ré ni. (upsõd za'raa) (ai'aba'rén)
+
+Nós vamos para lavar.
+
+2a Upsõ za'ra wa'aba da, te ai'aba'réi wa'wa.
+
+(upsõz za'raa waa'aba)
+
+(waa'wa)
+
+Vocês vão para lavar.
+
+3a Te te upsõ za'ra da, te ai'aba'ré. (upsõz za'raa)
+
+Elas vão para lavar.
+
+Nota: Em posição mediana na oração verbal, wa'wa se transforma em wa'aba e 'wa em aba, menos na forma imperativa do verbo.
+NOTA CULTURAL
+Os Xavante gostam muito dos animais, sobretudo dos cães de caça e das aves domésticas. Muitas famílias criam galinhas e porcos para fins culinários.
+
+EXERCÍCIOS Note-se que daqui em diante a extensão vocálica não será indicada na palavra æhe (ææhe).
+
+E romhuri da, te aimo. Æhe. Te romhuri da, wa mo.
+
+Você vai para trabalhar? Sim. Vou para trabalhar.
+
+E romhuri aba da, te ane wa'wa.
+
+(romhurææ)
+
+(annee waa'wa)
+
+Æhe. Wa te romhuri da, wa wanem ni. (waanem)
+
+Vocês dois vão para trabalhar? Sim, nós dois vamos para trabalhar.
+
+E romhuri za'ra wa'aba da, te ai'aba'réi wa'wa.
+
+(za'raa waa'aba)
+
+(waa'wa)
+
+Æhe. Wa te romhuri za'ra da, wa ai'aba'é ni. (za'raa) (ai'aba'rén)
+
+Vocês vão para trabalhar? Sim. Nós vamos para trabalhar.
+
+E te te romhuri da, te mo. Æhe. Te te romhuri da, te mo.
+
+Ele vai para trabalhar? Sim. Ele vai para trabalhar.
+
+E te te romhuri zahuré da, te tineb zahuré.
+
+(zahuuréé)
+
+(zahuuré)
+
+Æhe. Te te romhuri zahuré da, te tineb zahuré.
+
+(zahuuré)
+
+(zahuuré)
+
+Eles dois vão para trabalhar? Sim. Eles dois vão para trabalhar.
+
+E te te romhuri za'ra da, te ai'aba'ré. (za'raa)
+Æhe. Te te romhuri za'ra da, te ai'aba'ré. (za'raa)
+
+Eles vão para trabalhar? Sim. Eles vão para trabalhar.
+
+Dominado a fundo este modelo, substitua outros verbos e coloque ma tô e te za antes do tema verbal principal:
+
+E pawaptob da, ma tô æwamro.
+
+(paawaptob)
+
+(æwaamro)
+
+Você varreu para ajudar-lhe?
+
+Æhe, te pawaptob da, wa tô wamro.
+
+(paawaptob)
+
+(waamro)
+
+Sim. Varri para ajudar-lhe.
+
+E waihu'u da, te za æwapa. (æwaapa)
+
+Você vai escutar para saber?
+
+Nota Sintática
+As sentenças da língua xavante consistem fundamentalmente em sujeito mais predicado. A ordem das palavras depende do número de palavras e do enfoque da sentença:
+
+Aibâ te mo, buru u.
+
+O homem vai à roça.
+
+Buru u te mo.
+
+Ele vai à roça.
+
+Na segunda sentença não há sujeito substantivo declarado. Note-se a posição da locução locativa no início da sentença.
+
+Aibâ te mo, buru u.
+
+O homem vai à roça.
+
+Buru u te mo, aibâ hã. (aibââ)
+
+Ele vai à roça, isto é, o homem.
+
+A segunda sentença enfoque 'o homem'.
+
+Buru u te za mo. Awåpsi te za mo, buru u.
+
+O homem irá à roça. Amanhã ele vai à roça.
+
+Com a inclusão da palavra temporal 'amanhã' na segunda sentença, a locução locativa se transfere até ao fim da sentença.
+
+Alguns destes exemplos aparecem em lições anteriores. Na presente lição são apresentadas orações dependentes, como por exemplo:
+
+Te te sabu da, te mo. (saabud)
+
+Ele vai para vê-lo.
+
+Tal ordem é geralmente usada em resposta a perguntas:
+
+E maræ zô te mo.
+
+Por/para que ele vai?
+
+Te te sabu da, te mo. (saabud)
+
+Ele vai para vê-la.
+
+Inverte-se a ordem para iniciar uma conversa:
+Te za oto mo, te te sabu da. (saabud)
+
+Ele vai agora para vê-lo.
+
+O estudante deve prestar muita atenção à ordem sintática ao ouvir falar a língua.
+
+— E momo te aimo. — Batovi u, wa mo. — E maræ zô, te aimo. — Te dazabu da, wa mo. — Aimoræ wapsi, e te za æromhu. — Æhe, ææmoræ wapsi, wa za romhu.
+
+LIÇÃO
+6
+CONVERSA Aonde você vai? Vou ao Batovi. Por/para que vai? Vou para ver a gente. Quando for, você vai trabalhar? Sim, quando for, vou trabalhar.
+
+wamhã
+wapsi nherå we apâ (appâ) e niwa da-
+awå (aawå) awåpsi
+
+VOCABULÁRIO se/quando (futuro indefinido) já que/quando (passado) quando (futuro específico) mesmo que/ainda que esta direção de volta
+quando? (prefixo) eles/a eles/deles Refere-se geralmente às pessoas, mas pode significar animais ou coisas. amanhã
+quando for amanhã
+
+(aawåpsi)
+
+GRAMÁTICA
+VERBOS INTRANSITIVOS EM ORAÇÕES DEPENDENTES
+O tema verbal integral ocorre sempre em orações dependentes e é prefixado pela seguinte série de marcadores de pessoa:
+
+singular 1a ææ-
+
+dual wa(waa)
+
+plural wa(waa)
+
+2a ai-
+
+ai-
+
+ai-
+
+3a — (zero)
+
+—
+
+—
+
+O relacionante dependente segue ao verbo. Estude o seguinte paradigma do verbo 'ir/andar/mover-se' em orações dependentes (os marcadores de pessoa estão sublinhados). As formas singular, dual e plural de verbos de tema múltiplo pertencem à diversas classes verbais. Estas classes são enumeradas nas lições 19, 20, e 21. A forma plural deste verbo cabe na classe verbal intransitiva Ib, daí o acréscimo do marcador de classe si-.
+
+1a Ðmoræ wapsi, wa za romhu. 2a Aimoræ wapsi, wa za romhu. 3a Moræ wapsi, wa za romhu.
+
+Singular Quando for, vou trabalhar. Quando você for, vou trabalhar. Quando ele for, vou trabalhar.
+
+1a Wane wapsi, wa za romhu. (waanee)
+2a Ane wa'aba wapsi, wa za romhu. waa'aba)
+3a Neb zahuré wapsi, wa za romhu.
+
+Dual (annee
+
+Quando nós dois formos, vou trabalhar.
+Quando vocês dois forem, vou trabalhar.
+Quando eles dois forem, vou trabalhar.
+
+(zahuuréé)
+
+Plural
+
+1a Wasi'aba'réi wapsi, wa za romhu.
+
+Quando nós formos, vou trabalhar.
+
+(waasi'aba'réi)
+
+2a Ai'aba'réi wa'aba wapsi, wa za romhu.
+
+Quando vocês forem, vou trabalhar.
+
+(waa'aba)
+
+3a Si'aba'réi wapsi, wa za romhu.
+
+(za'raa) Quando eles forem, vou trabalhar.
+
+NOTA CULTURAL
+Antes de entrarem em contato com a civilização brasileira, os Xavante não usavam roupas, embora os homens fizessem uso de bainha de pênis. Os membros da tribo têm recebido a roupa com entusiasmo, pois esta os protege contra insetos, sol e friagem. Muitas mulheres fazem costura a mão, e algumas delas usam também máquina de costurar.
+
+EXERCÍCIOS
+
+Pratiquem o paradigma referido acima até dominar a fundo, depois estude o seguinte:
+
+E aimoræ wapsi, te za æromhu.
+
+Quando você for, vai trabalhar?
+
+Ðmoræ wapsi, wa za romhu.
+
+Quando eu for, vou trabalhar.
+
+E ane wa'aba wapsi, te za æromhuri 'wa.
+
+(annee waa'aba)
+
+(æromhurææ)
+
+Wane wapsi, wa za romhuri ni. (waanee)
+
+Quando vocês dois forem, ambos vão trabalhar?
+Quando nós dois formos, ambos vamos trabalhar.
+
+E ai'aba'réi wa'aba wapsi, (waa'aba)
+te za æromhuri za'ra wa'wa. (za'raa waa'wa)
+
+Quando vocês forem, vão trabalhar?
+
+Wasi'aba'réi wapsi, wa za romhuri za'ra ni.
+
+E moræ wapsi, te za romhu.
+
+(za'raa)
+
+Moræ wapsi, te za romhu.
+
+E neb zahuré wapsi, te za romhuri zahuré.
+
+(zahuuréé)
+
+(zahuuré)
+
+Neb zahuré wapsi, te za romhuri zahuré.
+
+(zahuuréé)
+
+(zahuuréé)
+
+E si'aba'réi wapsi, te za romhuri za'ra. Si'aba'réi wapsi, te za romhuri za'ra.
+
+Pratique agora a seguinte série de expressões:
+
+(wamhã 'quando' passado)
+
+Apâ ææmoræ wamhã, buru, wa tô sabu.
+
+(appâ)
+
+(buuru) (saabu)
+
+Apâ aimoræ wamhã, buru, ma tô æsabu. (æsaabu)
+
+Apâ moræ wamhã, buru, ma tô sabu. (saabu)
+
+Apâ wane wamhã, buru, wa tô sabu ni.
+
+(waanee)
+
+(saabun)
+
+Apâ ane wa'aba wamhã, buru,
+(annee waa'aba) ma tô æsabui wa'wa.
+(æsaabui waa'wa)
+
+Quando nós formos, vamos trabalhar. Quando ele for, vai trabalhar? Quando ele for, vai trabalhar. Quando eles dois forem, ambos vão trabalhar? Quando eles dois forem, ambos vão trabalhar.
+Quando eles forem, todos vão trabalhar? Quando eles forem, todos vão trabalhar.
+Quando voltei, olhei para a roça.
+Quando você voltou, olhou para a roça.
+Quando ele voltou, olhou para a roça.
+Quando nós dois voltamos, ambos olhamos para a roça. Quando vocês dois voltaram, ambos olharam para a roça.
+
+Apâ neb zahuré wamhã, buru, (zahuuréé)
+ma tô sabu zahuré. (saabuz zahuuré)
+
+Apâ wasi'aba'réi wamhã, buru,
+wa tô sabu za'ra ni. (saabuz za'raa)
+Apâ ai'aba'réi wa'aba wamhã, buru, (waa'aba)
+ma tô æsabu za'ra wa'wa. (æsaabuz za'raa waa'wa)
+Apâ si'aba'réi wamhã, buru,
+ma tô sabu za'ra. (saabuz)
+(wamhã se/quando (futuro indefinido))
+Buru u ææmoræ wamhã, wa za wazâ. (waazâ)
+Buru u aimoræ wamhã, te za æwazâ. (æwaazâ)
+Buru u moræ wamhã, te za wazâ. (waazâ)
+
+Buru u wane wamhã, wa za wazâri ni.
+
+(waanee)
+
+(waazâri)
+
+Buru u ane wa'aba wamhã,
+
+Quando eles dois voltaram, ambos olharam para a roça.
+Quando nós voltamos, todos olhamos para a roça.
+Quando vocês voltaram, todos olharam para a roça.
+Quando eles voltaram, olharam para a roça.
+Se eu for à roça, vou capinar. Se você for à roça, vai capinar. Se ele for à roça, vai capinar.
+Se nós dois formos à roça, ambos vamos capinar. Se vocês dois forem à roça, ambos vão capinar.
+
+(annee waa'aba) te za æwazâri wa'wa.
+(æwaazâri waa'wa)
+Buru u neb zahuré wamhã, (zahuuréé)
+te za wazâri zahuré. (waazâri zahuuré)
+Buru u wasi'aba'réi wamhã, wa za wazâri za'ra ni.
+(waazâri za'raa)
+Buru u ai'aba'réi wa'aba wamhã, (waa'aba)
+te za æwazâri za'ra wa'wa. (æwaazâri za'raa waa'wa)
+Buru u si'aba'réi wamhã, te za wazâri za'ra.
+(waazâri)
+
+Se eles dois forem à roça, ambos vão capinar.
+Se nós formos à roça, vamos capinar. Se vocês forem à roça, vão capinar.
+Se eles forem à roça, vão capinar.
+
+LIÇÃO
+7
+
+Parte 1
+As partes 1 e 2 desta lição tratam os substantivos. Na 1a parte, aparecem as regras e exemplos de mudança regular nos temas nominativos. Essas se dão sem referência às diversas classes de substantivos da língua xavante.
+
+A 2a parte descreve substantivos da classe 1. Aparecerão posteriormente os substantivos de outras classes.
+
+MUDANÇAS REGULARES EM TEMAS NOMINATIVOS
+
+1. Certos temas nominativos perdem a sílaba final em posição final da locução:
+
+Posição final da locução
+
+mimi zô
+
+por lenha
+
+mi
+
+lenha
+
+piro'o zô (pææro'o)
+
+pela borboleta
+
+piro (pææro)
+
+borboleta
+
+hu'u zô uzâne'å zô
+
+pela onça pintada pela abóbora
+
+hu uzâne
+
+onça pintada abóbora
+
+pu'u u
+
+à lagoa
+
+pu
+
+lagoa
+
+2. Certos substantivos perdem uma sílaba e a nasalização da vogal final. Note-se que quando a vogal perde a nasalização, não pode seguir a consoante nasal. Aparecem a seguir as resultantes mudanças vocálicas e consonantais:
+
+õ > o ou u
+
+nh > z
+
+ã>â å>é
+
+n >d
+
+Posição final da locução
+
+æætõmo zé di (zéé)
+æænomo zé di unhama u sinhama zô abazinheme zô
+
+me dói o olho
+me dói a barriga ao fogo pelo cascavel pelo cesto
+
+ææto
+æædu uzâ sidâ abazizé
+
+meu olho
+minha barriga fogo cascavel cesto (com tampa)
+
+3. Certos temas nominativos apresentam mudança da consoante final e prolongamento da penúltima vogal em posição final da locução, assim:
+
+a. Substantivos em que t et
+
+ante vogal oral > d ante vogal nasal > n
+
+åtå zô
+
+por uma pedra
+
+pati zô
+
+por um tamanduá
+
+wa'rata zô (waa'rata)
+æ'rata zô
+
+por um pente pelo avô dele
+
+ba'õtõ zô
+
+por uma menina
+
+si'õtõ zô
+
+pelo cesto
+
+Posição final da locução
+
+åne (ååne)
+
+pedra
+
+padi (paadi)
+wa'rada (waa'raada)
+æ'rada (æ'raada)
+ba'õno (ba'õõno)
+si'õno (si'õõno)
+
+tamanduá pente o avô dele menina cesto
+
+Exceção: Numa palavra, acrescenta-se uma penúltima sílaba em posição final da locução:
+
+utâ zô
+
+pela anta
+
+uhâdâ
+
+anta
+
+(uhââdâ)
+
+b. Substantivos em que p > b.
+
+Posição final da locução
+
+upure
+
+mosquinha
+
+ubu (uubu)
+
+mosca
+
+æsaripi ré
+
+possuindo suas asas
+
+æsaribi (æsariibi)
+
+suas asas
+
+4. Alguns substantivos não apresentam mudança consonantal, prolongando contudo a vogal da penúltima sílaba em posição final da locução:
+
+Posição final da locução
+
+wede na
+
+na árvore
+
+wede (weede)
+
+árvore
+
+aimama ma da'ubu a séré pa di waihârâ zô wa'æni zô
+
+para seu pai de cara branca cabelo comprido por papagaio por um pilão
+
+aimama (aimaama)
+da'ubu (da'uubu)
+aséré (assééré)
+waihârâ (waihâârâ)
+wa'æni (wa'ææni)
+
+seu pai cara seu cabelo papagaio pilão
+
+Note-se que em substantivos que precedem hã 'marcador de ênfase', perde-se qualquer prolongamento da penúltima vogal (mas em todo caso é longa a vogal final. V. lição 3 - vocabulário). Note-se também que não se aplicam as regras de mudança em posição mediana da locução:
+
+mi
+
+mimi zô
+
+mi hã
+
+(significado acima referido)
+
+uzâ
+
+unhama u
+
+uzâ hã
+
+åne (ååne)
+ubu (uubu)
+wede (weede)
+
+åtå zô upure wede na
+
+åne hã ubu hã wede hã
+
+5. Alguns temas nominativos que terminam em -baba mudam esta flexão para -wa, ao passo que outros que terminam em -aba mudam esta para -'wa em posição final da locução:
+
+æmaprebaba ma (æmapreebaba) si'ré'aba ma
+æsani'aba ma
+
+para o sogro dele
+para um membro da outra metade tribal para a cunhada/nora dele
+
+Posição final da locução
+
+æmaprewa (æmapreewa)
+
+o sogro dele
+
+si'ré'wa
+
+um membro da outra metade tribal
+
+æsani'wa
+
+a cunhada/nora dele
+
+6. Alguns temas nominativos apresentam mudança nh > s de consoante inicial quando esta ocorre com a 2a ou 3a pessoa do possessivo:
+
+æænhisi (æænhisi)
+
+meu nome
+
+asisi (assææsi)
+æsisi (æsææsi)
+æænhorõwa
+
+seu nome o nome dele minha casa
+
+asõrõwa (assõrõwa)
+
+sua casa
+
+æsõrõwa
+
+a casa dele
+
+Lembre-se: Tal mudança não afeta todos os temas substantivos com nh inicial:
+
+æænhi
+
+minha carne
+
+anhi (anhnhi)
+ænhi
+
+sua carne a carne dele
+
+7. Alguns temas nominativos apresentam mudança z > s de consoante inicial quando esta ocorre com a 2a ou 3a pessoa do possessivo:
+
+ææzéré
+
+meu cabelo
+
+aséré æséré
+
+seu cabelo o cabelo dele
+
+— Ðmama, e momo te aimo. (ææmaama)
+— Õwa, wa mo. (õõwa)
+— E maræ da, te aimo.
+— Atebe te sabu da, wa mo. (ateebe) (saabud)
+
+Parte 2 CONVERSA
+Meu pai, aonde você vai?
+Vou para lá.
+Por/para que? Vou ver sua tia paterna.
+
+æmama (æmaama)
+
+VOCABULÁRIO o pai dele
+
+æna
+æno
+æ'ra
+æ'rã
+æba
+æsib'rada (æsib'raada)
+æpara (æpaara)
+æmama amo
+ætebe (æteebe)
+æsihudu (æsihuudu)
+æsa
+æsõrõwa
+æpano (æpanno)
+æ'wa
+
+a mãe dele o irmão caçula dele, a irmã caçula dela o filho dele a cabeça dele o espinhaço dele a mão dele
+o pé dele
+o tio paterno dele a tia paterna dele
+o neto dele
+a comida dele a casa dele o braço dele
+o dente dele
+
+GRAMÁT ICA SUBSTANTIVOS É invariável a forma do substantivo na língua xavante, seja singular, dual ou plural. O número pode ser indicado
+(1) por numerais:
+
+aibâ maparane (2) pelo termo coletivo noræ:
+aibâ noræ
+
+dois homens um grupo de homens
+
+(3) pelo uso de um verbo em companhia do substantivo:
+
+aibâ te tineb zahuré
+
+os dois homens vão
+
+Há na língua xavante 6 classes de substantivos. Os substantivos da classe 1 se destacam por uma série
+
+de prefixos marcadores de pessoa que indicam posse. Todos os substantivos desta classe são
+
+possuídos obrigatóriamente, com exceção de buru 'roça' e ro 'terra', os quais podem ocorrer em
+
+forma não-possuída.
+
+Classe 1
+
+Esta classe abrange:
+a) todos os termos de parentesco: æna
+b) muitos termos de trato social: æhi'wa
+c) todos os membros e substâncias do corpo: æto
+d) determinados tipos de posse: æte æsõrõwa æsimizama
+
+a mãe dele
+membro do grupo mais velho que ele
+o olho dele
+as posses dele a casa dele o animal dele
+
+e) substantivos verbais intransitivos:
+æmoræzé æwatobrozé
+
+a ida dele a saída dele
+
+æsõtõzé æwaptã'ãzé
+
+a coisa-de-dormir (manta) dele o nascimento dele
+
+Nota: 1. V. na parte 2 desta Gramática os paradigmas completos dos temas verbais intransitivos irregulares que aparecem nos três substantivos verbais acima referidos.
+2. Note-se o sufixo nominalizador -zé
+
+3. Quando se usa um substantivo para indicar posse, não ocorrem os prefixos marcadores de pessoa:
+
+æmro
+Mi'éhé mro æwaptã'ãzé
+Mi'éhé wapta'azé
+
+a esposa dele a esposa de Mi'é o nascimento dele o nascimento do Mi'é
+
+(V. Lição 12 para nomes próprios)
+
+Apresenta-se a seguir um paradigma de substantivos da classe 1. Vem sublinhado o prefixo marcador de pessoa:
+
+1a ææmama (ææmaama)
+2a aimama
+3a æmama
+
+Singular meu pai
+seu pai o pai dele/dela
+
+1a wamama (waamaama)
+2a aimama 'wa (aimaamaa)
+3a æmama zahuré (zahuuré)
+1a wamama za'ra (waamama)
+2a aimama za'ra wa'wa (za'raa waa'wa)
+3a æmama za'ra
+
+Dual nosso pai (dois de nós) seu pai (dois de vocês)
+o pai deles (dois) Plural
+nosso pai (mais de dois de nós)
+seu pai (mais de dois de vocês) o pai deles (mais de dois)
+
+NOTA: 1. Neste paradigma os marcadores de dual e plural se relacionam com os prefixos marcadores de pessoa, i.e.
+
+æmama (æmaama)
+
+o pai dele
+
+æmama zahuré (zahuuré)
+
+o pai deles (2)
+
+æmama za'ra
+
+o pai deles (mais de 2)
+
+Note-se porém, que, conforme o contexto, tanto o dualizador quanto o pluralizador podem relacionar-se também com o substantivo:
+
+æmama zahuré (zahuuré)
+
+os (2) pais (tios) dele(s)
+
+æmama za'ra
+
+os (diversos) pais (tios) dele(s)
+
+2. Termos de parentesco de uma sílaba levam wa'wa na 2a pessoa do dual; os demais de uma sílaba apresentam 'wa.
+
+ana wa'wa (anaa waa'wa)
+
+sua mãe
+
+aimama 'wa (aimamaa 'wa)
+
+seu pai
+
+3. æ- da terceira pessoa se torna ti- quando o sujeito de 3a pessoa possui o objeto (ação do sujeito na sua própria posse):
+
+Æmama, wa tô sabu. (æmaama) (saabu)
+
+Vi o pai dele/dela.
+
+Timama, ma tô sabu. Æmama, ma tô sabu.
+
+Ele viu seu próprio pai. Ele viu o pai dele/dela (uma outra pessoa).
+
+NOTA CULTURAL
+Os termos de parentesco são usados com mais freqüência que os nomes próprios na cultura xavante. É interessante notar o trato usado na conversa acima referida: O pai diz, "sua tia paterna", em vez de "minha irmã." Os Xavante distingüem entre tios e tias dos lados paternos e maternos, e se morre a mãe de alguma criança, essa é muitas vezes criada por uma tia materna, chamada "mãe."
+
+Decore as seguintes expressões:
+ÆÆmama te sabu da, wa za mo. (saabud)
+
+EXERCÍCIOS Vou ver meu pai.
+
+Aimama te sabu da, wa za mo. Æmama te sabu da, wa za mo.
+
+Vou ver seu pai. Vou ver o pai dele.
+
+Wamama te sabu da, wa za mo. (waamama)
+
+Vou ver nosso pai.
+
+Depois de dominar a fundo estas expressões, substitua outros itens léxicais convenientes já aprendidos em lições anteriores, prestando muita atenção ao uso do marcador possessivo certo. Verifique seus exercícios com alguém que fala o Xavante como língua materna.
+
+LIÇÃO
+8
+
+— E romhuri da, te we aimo. — Æhe, te romhuri da, wa we mo.
+
+CONVERSA Você veio trabalhar? Sim, vim trabalhar.
+
+— Piza'a upsõ na. Tâibâ wapsi, ropru sa'wari.
+
+(upsõõ)
+
+(roopru sa'waari)
+
+Lave os pratos. Quando terminar, jogue fora o lixo.
+
+— A'âza.
+
+'Tá.
+
+ropru (roopru)
+tâibâ
+
+VOCABULÁRIO lixo, babugem, poeira
+terminado
+
+GRAMÁTICA
+FORMAS IMPERATIVAS DE VERBOS TRANSITIVOS
+Os imperativos transitivos são formados de duas maneiras.
+(1) Verbos transitivos que perdem uma sílaba quando em posição final de uma locução verbal (IIb) formam o imperativo da seguinte maneira. (Note-se que daqui em diante a extensão vocálica não será indicada nas palavras zahuré, wa'wa, za'ra e wa'aba. V. exemplos nos paradigmas verbais das Lições 3 e 6.)
+
+Romhuri. (romhuuri)
+Romhuri aba. (romhurææ)
+Romhuri za'ra wa'aba.
+
+Classe IIb Trabalhe! Trabalhem (vocês dois)! Trabalhem (todos)!
+
+Waihu'u. (waihuu' u)
+Waihu'u aba. (waihu'uu)
+Waihu'u za'ra wa'aba.
+
+Saiba (-o)! Saibam (-no) (vocês dois)! Saibam (-no) (todos)!
+
+Note-se que a penúltima vogal é longa na forma singular dos dois exemplos acima referidos. (2) Verbos transitivos sem perda de sílaba (IIa) formam o imperativo da seguinte maneira:
+
+Sabu na. (saabuu)
+Sabui wa'aba. (saabui)
+Sabu za'ra wa'aba. (saabuz)
+Pawapto na. (paawaptoo)
+Pawapto wa'aba. (paawaptoo)
+Pawaptob za'ra wa'aba. (paawaptob)
+Sawi na. (sawææ)
+Sawi wa'aba.
+
+Classe IIa Veja (isso)! Vejam (isso) (vocês dois)! Vejam (disso) (todas)! Ajude-lhe!
+Ajudem-lhe (vocês dois)! Ajudem-lhe (todos)! Cumprimente-o!
+Cumprimentem-no (vocês dois)!
+
+Sawi za'ra wa'aba.
+
+Cumprimentem-no (todos)!
+
+Note-se o uso de na precedido de vogal longa na formação do singular das três classes acima referidas.
+
+Aimoræ. (aimooræ)
+
+FORMA IMPERATIVA DO VERBO INTRANSITIVO IR/ANDAR/MOVER-SE Vá!/Vai!
+
+Ane wa'aba. (annee)
+
+Vão (vocês dois)!
+
+Ai'aba'réi wa'aba.
+
+Vão (todos)!
+
+Note-se, outrossim, a extensão da penúltima vogal do singular. (A Lição 21 trata a formação de outros imperativos intransitivos.)
+IMPERATIVOS NEGATIVOS
+A forma negativa de verbos transitivos e intransitivos é como segue:
+
+Romhuri tõ.
+
+Não trabalhe!
+
+Romhuri aba tõ. (romhurææ)
+
+Não trabalhem (vocês dois)!
+
+Romhuri za'ra wa'aba tõ.
+
+Não trabalhem (todos)!
+
+Sabu tõ. (saabut)
+
+Não olhe (isso)!
+
+Sabui wa'aba tõ. (saabui)
+
+Não olhem (isso) (vocês dois)!
+
+Sabu za'ra wa'aba tõ. (saabuz)
+
+Não olhem (isso) (todos)!
+
+Aimoræ tõ.
+Ane wa'aba tõ. (annee)
+
+Não vá! Não vão (vocês dois)!
+
+Ai'aba'réi wa'aba tõ.
+
+Não vão (todos)!
+
+Note-se a perda de extensão da penúltima vogal do singular quando ocorre dentro da locução verbal.
+
+IMPERATIVO SUAVE
+
+Forma-se um tipo imperativo mais suave através do uso de za com verbos:
+
+Te za æromhu.
+
+Trabalha!
+
+Te za æromhuri 'wa. (æromhurææ)
+
+Trabalham (vocês dois)!
+
+Te za æromhuri za'ra wa'wa.
+
+Trabalham (todos)!
+
+Te za we aimo.
+
+Vem cá!
+
+Te za we ane wa'wa. (annee)
+
+Vêm cá (vocês dois)!
+
+Te za we ai'aba'réi wa'wa.
+
+Vêm cá (todos)!
+
+(A forma negativa do imperativo suave é diferente do negativo do imperativo regular. É idêntica ao negativo independente, e será apresentada na Lição 10.)
+NOTA CULTURAL
+A forma imperativa é usada com mais frequência em determinadas situações de autoridade. Por exemplo, homens dirigindo outros homens no trabalho, homens falando com mulheres, e mulheres com os filhos. Os Xavante evitam o imperativo em outros ambientes por não quererem mostrar-se de autoritários. Não há um só chefe entre os Xavante. Os homens mais idosos agem como grupo no exercício de autoridade na tribo, sendo respeitadas e acatadas as suas sentenças.
+EXERCÍCIOS
+Após dominar a fundo os exemplos acima referidos, escreva e pratique o imperativo, tanto afirmativo quanto negativo, de outros verbos já introduzidos em lições anteriores.
+
+— E momo te aimo.
+— Buru u, wa mo.
+— E maræ zô te aimo.
+— Aro zô, wa mo. (aaroo)
+— E se ti, aro hã. (set) (aaroo)
+— Æhe. Se ti. (set)
+— E romhuture di, aiburu hã. (romhuturee)
+— Æhe. Romhuture di. (romhuturee)
+
+LIÇÃO
+9
+CONVERSA Aonde você vai? Vou à roça. Por/para que vai? Vou por (vou buscar) arroz.
+O arroz é saboroso?
+Sim. Tem bom sabor.
+Sua roça fica perto?
+Sim. Fica perto.
+
+di/ti
+õ
+romhuture di (romhuturee)
+romhâ di (romhââ)
+sa'åtå di (sa'åtåå)
+
+VOCABULÁRIO é/está/há/fica (estativo, indicador de natureza ou condição) negativo perto (espaço e tempo)
+longe (espaço e tempo)
+é/está grande
+
+syryre di (syryree)
+se ti (set)
+mram di
+hâ di (hââ)
+sé di
+wede (weede)
+åne (ååne)
+a'amo (aa'amo)
+bâdâ (bââdâ)
+se õre di (õree)
+baba di
+'masisi di ('masisææ)
+pire di (piree)
+wapure di (waapuuree)
+wå di (wåå)
+si'a
+
+é/está pequeno saboroso, delicioso com fome com frio doloroso árvore, madeira pedra lua sol não saboroso vazio, inexistente cheio pesado, importante, difícil leve, sem importância, fácil bom frango, galinha
+
+(sææ'a)
+si'a're (sææ'aa're)
+wapsã wedewara (wedewaara) ææ'rã ææpo're
+wa hã
+a hã
+ta hã wa noræ (waa)
+wa'ro di
+a di
+
+ovo de galinha
+cachorro caminhão
+minha cabeça minha orelha/ouvido eu você ele, ela nós (grupo)
+está fazendo calor branco
+
+GRAMÁTICA
+ESTATIVOS
+Indica-se o estativo pela palavra di/ti. (Ti é usada se a sílaba final da palavra descritiva termina em i, precedida de vogal dissimilar; em outros contextos aparece di.) A palavra que indica estativo aparece com (1) descritivos, (2) substantivos, (3) verbos. Torna-se negativa a declaração através da introdução da palavra õ antes do di.
+
+1. O ESTATIVO COM DESCRITIVOS (V. descritivos na Lição 14). É este o uso mais comum do estativo (V. vocabulário):
+
+se ti
+
+está saboroso
+
+(set)
+
+sei õ di / sei õre di
+
+não está saboroso
+
+hâ di (hââ)
+
+está frio
+
+hâ õ di
+
+não está frio
+
+(Note-se que em alguns casos o s inicial da palavra torna-se z quando precedido de substantivo):
+
+sé di (séé)
+ææba zé di (zéé)
+
+dói me dói o espinhaço
+
+se ti
+
+está saboroso
+
+(set)
+
+romhuri ze ti (zet)
+
+o trabalho é agradável
+
+A maior parte das construções estativas apresenta oportunamente prefixos marcadores de pessoa. O seguinte paradigma esclarece o uso destes prefixos:
+
+ææwa'ro di (ææwaa' roo)
+
+Estou com calor.
+
+aiwa'ro di (aiwaa' roo)
+
+Você está com calor.
+
+wa'ro di (waa'roo)
+
+Ele está com calor.
+
+wawa'ro di (waawaa' roo)
+
+Nós dois estamos com calor.
+
+aiwa'ro wa'aba di (aiwaa'roo)
+
+Vocês dois estão com calor.
+
+wa'ro zahuré di (waa'roo)
+
+Eles dois estão com calor.
+
+wawa'ro za'ra di (waawaa'roo)
+
+Estamos com calor.
+
+aiwa'ro za'ra wa'aba di (aiwaa'roo)
+wa'ro za'ra di (waa'roo)
+(ææwa'ro õ di) etc.
+
+Vocês todos estão com calor. Eles estão com calor. (não estou com calor) etc.
+
+A forma rowa'ro di, dada no vocabulário, é usada quando o sujeito (inanimado) não está declarado:
+
+E rowa'ro di. (roowaa'roo)
+
+Está quente?
+
+Piza'a hã e wa'ro di. (waa' roo)
+
+A panela está quente?
+
+Uns poucos estativos indicados na lista da Parte 2 desta Gramática não levam prefixo marcador de pessoa mas são usados com todas as pessoas do verbo:
+
+E hâ di. (hââ)
+Æhe, hâ di. (hââ)
+
+Você (eles, etc.) está com frio? Sim estou (estão, etc.) com frio.
+
+2. O ESTATIVO COM SUBSTANTIVOS
+
+Estude os seguintes exemplos:
+
+pi'õ ti (pi'õt)
+
+há mulheres
+
+aibâ di
+
+há homens
+
+wahi di (waahi)
+
+há cobras
+
+powawe di (poowawåå)
+
+há vacas
+
+upu di
+
+há moscas
+
+A sequência substantivo-mais-estativo ocorre infreqüentemente na qualidade de declaração positiva. É mais comum na forma negativa:
+
+pa'o õ di
+
+não há bananas
+
+â õ di
+
+não há água
+
+pi'õ õ di
+
+não há mulheres
+
+aibâ õ di Note-se a diferença entre:
+æmama õ di
+
+não há homens não é o pai dele
+
+mama õ di
+
+(ele não tem) pai
+
+3. O ESTATIVO COM VERBOS
+
+Quando se usa verbo com o estativo, aquele descreve a natureza, feição ou condição do sujeito. Estude o seguinte paradigma: (São facultativos os pronomes entre parênteses nos exemplos xavante; servem função enfática de pessoa.)
+
+(wa hã) te romhuri di
+
+sou trabalhador, sou aplicado
+
+(a hã) romhuri di
+
+você é trabalhador, é aplicado
+
+(ta hã) te te romhuri di
+
+ele é trabalhador, é aplicado
+
+Raramente aparece o verbo só. O uso mais comum de verbo com estativo é em companhia de modificador:
+
+(wa hã) te romhuri ze ti
+
+gosto de trabalhar
+
+romhuri ze ti
+
+você gosta de trabalhar
+
+te te romhuri ze ti
+
+ele gosta de trabalhar
+
+wa te romhuri ze ti
+
+nós dois gostamos de trabalhar
+
+romhuri zei wa'aba di
+
+vocês dois gostam de trabalhar
+
+te te romhuri ze zahuré di
+
+eles dois gostam de trabalhar
+
+wa te romhuri ze za'ra di romhuri ze za'ra wa'aba di
+te te romhuri ze za'ra di
+
+todos gostamos de trabalhar vocês todos gostam de trabalhar eles todos gostam de trabalhar
+
+(Note-se o uso de wa'aba em vez de aba na 2a pessoa do dual. É porque não há perda de sílaba no modificador zei precedente. Sem modificador, a forma aba teria sido usada com este verbo.)
+
+Estude também as formas seguintes:
+
+(wa hã) te se ti
+
+gosto (disso)
+
+se ti
+
+você gosta (disso)
+
+te te se ti
+
+ele gosta (disso)
+
+OU
+
+te se ti
+
+EXERCÍCIOS
+Pratique as formas estativas dadas nesta lição. Decore também outros estativos enumerados na Parte 2 desta Gramática.
+
+LIÇÃO
+10
+
+— E buru u, aimoræ õ di.
+— Ææmoræ õ di. Ææ'rã zé di. (zéé)
+
+CONVERSA Você não vai à roça? Não vou. A cabeça me dói.
+
+— Aimro bété, e buru u te mo.
+
+— Maze di. Buru u moræ õ di. Apito u te mo.
+
+(maazee)
+
+(apitoo)
+
+Seu marido (que tal seu marido), ele vai à roça?
+Não. Ele não vai à roça. Ele vai no oficial.
+
+— E te te romhuri da, te mo.
+
+Ele vai para trabalhar?
+
+— Maze di. Te te romhuri õ di za. (maazee)
+
+Não. Ele não pretende trabalhar. Só vai vêlo.
+
+Taré te te sabu da, te mo. (taaré) (saabud)
+
+sadanharæ (IIb)
+taré (taaré)
+mare di (maaree)
+maze di (maazee)
+
+VOCABULÁRIO pedir sem motivo especial, só
+não (fala masculina)
+não (fala feminina)
+
+VOCABULÁRIO FORMAS NEGATIVAS DE VERBOS TRANSITIVOS e INTRANSITIVOS
+
+1. Em orações independentes
+
+Para formar o negativo de verbos transitivos ou intransitivos em orações independentes, utiliza-se o tema verbal integral, seguido do negativo õ mais o estativo di. Os marcadores de pessoa são iguais aos usados com as formas dependentes dos verbos:
+
+Te romhuri õ di.
+
+Não estou trabalhando.
+
+Romhuri õ di.
+
+Você não está trabalhando.
+
+Te te romhuri õ di.
+
+Ele não está trabalhando.
+
+Wa te romhuri õ di.
+
+Nós dois não estamos trabalhando.
+
+Romhuri aba õ di. (romhurii)
+
+Vocês dois não estão trabalhando.
+
+Te te romhuri zahuré õ di.
+
+Eles dois não estão trabalhando.
+
+Wa te romhuri za'ra õ di.
+
+Nós não estamos trabalhando.
+
+Romhuri za'ra wa'aba õ di.
+
+Vocês não estão trabalhando.
+
+Te te romhuri za'ra õ di. Ææmoræ õ di. Aimoræ õ di. Moræ õ di.
+
+Eles não estão trabalhando. Não vou. Você não vai. Ele não vai.
+
+Waneb õ di. (waaneb)
+
+Nós dois não vamos.
+
+Ane wa'aba õ di. (annee)
+
+Vocês dois não vão.
+
+Neb zahuré õ di.
+
+Eles dois não vão.
+
+Wasi'aba'réi õ di. (waasi 'aba' réi)
+
+Não vamos.
+
+Ai'aba'rei wa'aba õ di.
+
+Vocês todos não vão.
+
+Si'aba'éi õ di. (si'aba'réi)
+
+Eles não vão.
+
+2. Em orações dependentes
+
+Nas formas negativas das orações dependentes de verbos transitivos ou intransitivos, o negativo õ precede imediatamente o relacionante dependente:
+
+Te waihu'u õ wamhã, wa za sadanha. Waihu'u õ wamhã, te za æsadanha.
+
+Se eu não sei, vou perguntar a ele. Se você não sabe, vai perguntar a ele.
+
+Te te waihu'u õ wamhã, te za sadanha.
+
+Se ele não sabe, vai perguntar a ele.
+
+Wa te waihu'u õ wamhã, wa za sadanharæ ni.
+Waihu'u aba õ wamhã, te za æsadanharæ 'wa. (æsadanharææ)
+Te te waihu'u zahuré õ wamhã, te za sadanharæ zahuré.
+
+Se nós dois não sabemos, vamos perguntar a ele.
+Se vocês dois não sabem, vão perguntar a ele.
+Se eles dois não sabem, vão perguntar a ele.
+
+Wa te waihu'u za'ra õ wamhã, wa za sadanharæ za'ra ni.
+Waihu'u za'ra wa'aba õ wamhã, te za æsadanharæ za'ra wa'wa.
+Te te waihu'u za'ra õ wamhã, te za sadanharæ za'ra.
+
+Se não sabemos, vamos perguntar a ele.
+Se vocês não sabem, vão perguntar a ele.
+Se eles não sabem, vão perguntar a ele.
+
+A única exceção é com o uso do relacionante dependente da 'para'. Neste caso ocorre o negativo tõ:
+
+'Ri tåme te mo, te te wapari tõ da. ('rii)
+
+Ele foi para casa para não escutar.
+
+Note-se que nas formas negativas do verbo não há distinção entre os aspectos completo (passado) e presente. O contexto comunica o significado. O uso de za, como na conversa acima referida, indica ação futura ou intencional.
+Note-se também que a vogal final de zahuré e za'ra não se prolonga antes do negativo õ. Isto constitui uma exceção à regra que diz respeito ao prolongamento em posição mediana de locução.
+
+NOTA CULTURAL
+Os Xavante adoram piadas e brincadeiras. Gostam de falar propositadamente errado e de elaborar exageros para chocar ou surpreender a gente em espírito festivo, além de pregar peças humorísticas e de imitar as outras pessoas. O desprezo se manifesta através de sarcasmo, e não de risadas.
+O uso idiomático de negativos pode expressar elogio ou louvar. Por exemplo, dizer sei õ 'saboroso não', quando uma comida é evidentemente deliciosa.
+
+EXERCÍCIOS
+
+Dominados a fundo os paradigmas acima referidos, elabore exercícios originais à base de verbos negativos em séries de perguntas e respostas:
+
+E aimoræ õ di.
+
+Você não vai?
+
+Ææmoræ õ di.
+
+Não vou.
+
+E ma tô æwapa. (æwaapa)
+
+Você o/a ouviu?
+
+Mare di. Te wapari õ di. (maaree) (waapari)
+
+Não o/a ouvi.
+
+LIÇÃO
+11
+Parte 1
+MUDANÇAS FONÉTICAS AUTOMÁTICAS
+
+Sílabas que terminam em i
+
+Algumas sílabas que terminam em i quando em final de locução, ocorrendo tais sílabas dentro de uma locução, dão-se as seguintes alterações (V. definição de locução no Glossário):
+
+1. Quando seguido de sílabas com d, z, ', n, p, s, ou t inicial, o i se assimila aquela letra tornando-se igual a ela.
+
+2. Quando seguido de sílabas com b, h, m, r ou w inicial, o i permanece constante:
+
+mudança de i
+
+i constante
+
+du da (dud)
+
+objetivo - grama, capim
+
+sabui bâ (saabui)
+
+você não o vê (mas deve vê-lo!)
+
+du zô (duz)
+
+por capim
+
+sabui hâ
+
+que você possa ver
+
+du ãma
+
+no capim
+
+dui ma
+
+para capim
+
+du na (dun)
+
+com capim
+
+duire
+
+capinzinho (dimin.)
+
+du si
+
+só capim
+
+dui wa
+
+no capim
+
+(dus)
+
+du té
+
+capim novo
+
+(dut)
+
+Note-se que no imperativo, perde-se o i final, prolongando-se a vogal anterior ante na, marcador da forma afirmativa singular dos verbos da classe IIa:
+
+sabu na (saabuu)
+
+Cuide (disso)!
+
+Sílabas que terminam em m
+
+Em sílabas deste tipo, as mudanças fonéticas são:
+
+Substituição do m por p antes das sílabas com s, t ou ' inicial:
+
+darop si
+
+só a terra da gente
+
+rop tép u
+
+à terra nova
+
+darop õ di
+
+não a terra da gente
+
+Note-se que antes da ', o m é por vezes substituído por um prolongamento da vogal anterior:
+
+ææpawapto'wa (ææpawaptoo'wa)
+
+aquele que me ajuda
+
+Realiza-se a mesma substituição se o m ocorre antes de sílaba com b, m, p ou w inicial:
+
+robaba di (roobabaa)
+
+está vazio
+
+ropoto'wa (roopoto'wa)
+
+criador da terra
+
+rowa'u (roowaa'u)
+
+vento
+
+O b/m permanece constante antes das sílabas com d, h, z, n ou nh inicial:
+
+rob da
+
+objetivo - terra
+
+rob zô
+
+por terra
+
+(algumas pessoas pronunciam rom da ou rom zô)
+
+romhâ di (romhôô)
+
+distante
+
+rom na
+
+com a terra
+
+romnhi
+
+carne
+
+Note-se que todas as alterações acima descritas ocorrem somente dentro de uma locução. Nenhuma consoante ou série de duas vogais ocorre em posição final de locução na língua xavante, com exceção de certas exclamações:
+
+nhi watoi!
+
+que pedacinho de carne!
+
+te 'rene tui!
+
+ele come depressa!
+
+— Æætebe, e 'wa te, umnhi'ã hã. ('wat)
+— Ææ'ra waptép te hã. E tiha da.
+— Taré te waihu'u da. (taaré)
+— Ate hã bété. — Æænhimnhi'ãsi õ di.
+
+Parte 2 CONVERSA
+Minha tia, de quem é o fuzil/arco?
+É de meu sobrinho. Por quê? Só para eu saber.
+E o seu? Não (tenho) fuzi1/arco.
+
+'wa
+e 'wa te mo
+e 'wa te ('wat)
+date
+date da (datee)
+wedeza
+
+VOCABULÁRIO quem quem vai? de quem é?
+posse de pessoa/gente para ser posse da gente/para a gente
+cadeira, mesa
+
+umnhi'ã umnhi’ãsi õ di æænhimnhi’ã ti du’wa
+
+arco, rifle 22
+nenhum fuzi1/arco (note-se perda da primeira sílaba –si em posição final de locução.) meu arco/fuzil (note-se perda da primeira sílaba um- na forma possuída) flecha capim alto/sapé
+
+GRAMÁTICA SUBSTANTIVOS
+Classe 2
+
+A maior parte dos substantivos na língua Xavante pertence à classe 2, sendo usado principalmente na sua forma não-possuída. Quando possuídos, estes substantivos levam os mesmos prefixos indicadores de possuidor e os mesmos indicadores de dual e plural que os dos substantivos da classe 1, mais o afixo –nhim-/-sim- que indica “posse”. Estude o seguinte paradigma, no qual o afixo –nhim-/-simaparece sublinhado:
+
+æænhip’ri
+
+minha casa
+
+asip’ri (assip’ri)
+æsip’ri
+
+sua casa a casa dele
+
+wanhip’ri (waanhip’ri
+
+nossa (2) casa
+
+asip’ri wa’wa (assip’rææ)
+æsip’ri zahuré (æsip’rææ)
+
+sua (2) casa a casa deles (2)
+
+wanhip’ri za’ra (waanhip’rææ)
+
+nossa (3 ou mais) casa
+
+asip’ri za’ra wa’wa (assip’rææ)
+æsip’ri za’ra (æsip’rææ)
+
+sua (3 ou mais) casa a casa dele (3 ou mais)
+
+Note-se que na construção interrogativa “De quem (é) a casa?”, omite-se o prefixo marcador de pessoa:
+
+E ‘wa sip’ri. (‘was)
+Æænhip’ri.
+
+De quem (é) a casa? (É) minha.
+
+Quando o prefixo marcador de pessoa é substituído por uma locução substantiva, usa-se –nhim- em vez de –sim-:
+
+E ‘wa sip’ri. (‘was)
+Æmama nhip’ri.
+
+De quem (é) a casa? (É) do pai dele.
+
+Watuhu nhip’ri.
+
+(É) do Watu.
+
+(V. nomes próprios na Lição 12.)
+
+NOTA CULTURAL
+Entre os Xavante a generosidade é considerada uma das virtudes mais louváveis. Ele exprimem seu agradecimento mediante a expressão “você é generoso.” O ato de pedir objetos pertencentes a algum parente é bem aceitável. Se um objeto for pedido, era dado mesmo à custa de sacrifícios. A falta de generosidade, ou a indisposição para compartilhar os bens com outras pessoas, é considerada defeito grave.
+
+EXERCÍCIOS
+Escreva um exercício por extenso, colocando por sua vez cada locução do paradigma acima referido no seguinte modelo:
+
+Æænhip’ri te te sabu da, te mo. (saabud)
+Asip’ri te te sabu da, te mo. (saabud)
+
+Ele vai para ver minha casa.
+Ele vai para ver sua casa. Etc.
+
+LIÇÃO
+12
+
+‘Ri hã wå di. E ‘wa te. (wåå) (‘wat)
+Dati’âhâ te. Ta hã ‘ri tede ‘wa.
+Romnhoré’wa te hã, bété. E mahata. (roowahutu’wat)
+— Õhõta te za.
+
+CONVERSA A casa é bonita. De quem é?
+É da minha tia. Ela é a dona da casa. E a casa da professora, onde fica?
+Olhe, é ali.
+
+e mahãta
+Te za
+ropoto’wa (roopoto’wa)
+danho’reptui’wa
+da’ra’wa (da’raa’wa)
+dapoto’wa
+dapawapto’wa (dapawaptoo’wa)
+rowahutu’wa (roowahutu’wa)
+romhuri’wa
+'ri tede'wa
+rowahutuzé
+
+VOCABULÁRIO onde (fica)? ele/ela fica/está em pé criador da terra
+guardador de gente genitor de prole
+criador de gente ajudador de gente
+a pessoa que ensina
+trabalhador dono de casa escola, igreja (lugar-de-ensino)
+
+(roowahutuzé)
+romhurizé
+wamrozé (waamrozzé)
+
+ferramenta (coisa-de-trabalho) vassoura (coisa-de-varrer)
+
+GRAMÁTICA
+SUBSTANTIVOS
+Classe 3 Os substantivos da classe 3 são verbais. Consistem num tema verbal transitivo mais sufixo nominalizador -'wa ou -zé. -'Wa indica agente (geralmente animado), -zé instrumento ou lugar (inanimado). Os substantivos da classe 3 não podem ser possuídos.
+
+Classe 4
+Os substantivos desta classe são nomes próprios e alguns termos de parentesco. Há duas sub-classes; a primeira consiste em nomes de pessoas e termos de parentesco. Estes substantivos não podem ser possuídos, mas podem ser possuidores. A posse é marcada por substantivo + h + vogal final do substantivo + posse:
+
+Babati
+
+Babatihi na
+
+mãe de Babati
+
+Mi 'é
+
+Mi'éhé mro na
+
+mãe da esposa de Mi'é
+
+bâdi
+
+bâdihi te
+
+posses do filho do irmão;
+
+posses de um neto (termo de
+
+afeto)
+
+oti
+
+otihi te
+
+posses da filha do irmão;
+
+posses de uma neta (termo de
+
+afeto)
+
+dati'â
+
+dati'âhâ te
+
+posses da mãe ou da tia materna (termo de afeto)
+
+A mesma construção é usada quando os substantivos desta sub-classe são seguidos de um elemento pós-posicional (V. Lição 15). A palavra pós-posicional substitui a posse:
+
+Babatihi u
+
+a Babati
+
+Mi'éhé me
+
+com Mi'é etc.,
+
+A sub-classe II consiste em topônimos. Estes não podem ser possuidores nem possuídos:
+
+Batovi, Cuiabá, Paraíso, etc.
+
+LIÇÃO
+13
+
+— Õhõta te nhamra adaba hã, hi'rãtitõ.
+
+(nhaamra)
+
+(hi'rãtæætõ)
+
+CONVERSA Olhe, a noiva está ajoelhada!
+
+— E 'wa simi'upté.
+— Æsõ'rebzu'wa nhimi'upté.
+— E 'wa hã, æsõ'rebzu'wa.
+— Æmama wapté hã, æsõ'rebzu'wa. Æsõ''rebzu, ma tô sada sanha.
+
+Por quem foi feita a pintura? A pintura é do artesão do colarinho dela. Quem é o artesão do colarinho dela? Seu tio materno é o artesão do colarinho. Ele fez o colarinho para ela.
+
+adaba
+dabasa
+æsõ'rebzu æsõ'rebzu'wa
+dasina damrozé
+sanhamri (IIb)
+te nhamra (nhaamra) æsimi'ui'éré (æsimi'ui'ééré) æsimiromhuri (isimiromhuuri)
+
+VOCABULÁRIO moça para quem se traz a caça; noiva caça trazida como dote antes da cerimônia de colarinho colarinho artesão e doador de colarinho dela casamento (cristão) trança ele/ela se senta
+a escritura feita por ele
+o trabalho feito por ele
+
+æsimiwede (æsimiweede)
+hi'rãtitõ æsimi'upté
+sada
+
+a medicação feita por ele
+de joelhos a pintura (em corpo) feita por ele para ela/ele
+
+GRAMÁTICA SUBSTANTIVOS
+Classe 5
+
+Os substantivos desta classe são formas verbais substantivadas. Consistem num tema verbal transitivo mais os prefixos marcadores de pessoa (como nas classes nominativos 1 e 2), mais o afixo -nhimi - / simi- "ação realizada por." Estude o seguinte paradigma:
+
+æænhimi'upté
+
+a pintura feita por mim
+
+asimi'upté æsimi'upté
+
+a pintura feita por você a pintura feita por ele
+
+wanhimi'upté
+
+a pintura feita por nós (2)
+
+asimi'uptéi wa'wa æsimi'upté zahuré
+
+a pintura feita por vocês (2) a pintura feita por eles (2)
+
+wanhimi'upté za'ra
+
+a pintura feita por nós (3 ou mais)
+
+asimi'upté za'ra wa 'wa æsimi'upté za'ra
+
+a pintura feita por vocês (3 ou mais) a pintura feita por eles (3 ou mais)
+
+Note-se que na construção interrogativa: "Por quem foi feito o trabalho?", é omitido o prefixo marcador de pessoa:
+
+E 'wa simiromhuri.
+
+Por quem (foi) feito o trabalho?
+
+(simiromhuuri)
+Æsimiromhuri. (æsimiromhuuri)
+
+O trabalho (foi) feito por ele.
+
+Quando o prefixo marcador de pessoa é substituído por uma locução nominativa, ocorre -nhimi- em vez de -simi-:
+
+E 'wa simiromhuri. (simiromhuuri)
+Æmama nhimiromhuri. (nhimiromhuuri)
+
+Por quem (foi) feito o trabalho? O trabalho (foi) feito pelo pai dele.
+
+Babatihi nhimiromhuri. (nhimiromhuuri)
+
+O trabalho (foi) feito pelo caçula.
+
+O sufixo -zé pode ser usado com substantivos da Classe 5. Assim sufixado o substantivo ganha o significado de "instrumento com que" se faz a ação:
+
+æænhimiwamrozé (æænhimiwaamrozzé)
+
+a coisa com o qual eu varro
+
+æænhimi'ui'érézé
+
+a coisa com o qual eu escrevo
+
+Classe 6
+
+Os substantivos desta classe são verbais. Consistem num tema verbal transitivo mais prefixos
+marcadores de pessoa (como nas classes nominativas 1, 2, e 5), mais o afixo si- "ação realizada por ela mesma" (reflexiva). Estude o seguinte paradigma, notando o prefixo æ- na 1a pessoa do dual e do plural:
+
+ææsi'upté
+
+a pintura de meu corpo (por mim)
+
+asi 'upte æsi'upté æwasi'upté
+
+a pintura de seu corpo (por você) a pintura do corpo dele (por ele) a pintura de nossos (2) corpos (por nós 2)
+
+asi'uptéi wa'wa
+
+a pintura de seus (2) corpos (por vocês 2)
+
+æsi'upté zahuré æwasi'upté za'ra
+
+a pintura dos (2) corpos deles (por eles 2)
+a pintura de nossos (3 ou mais) corpos (por nós 3 ou mais)
+
+asi'upté za'ra wa'wa æsi'upté za'ra
+
+a pintura de seus (3 ou mais) corpos (por vocês 3 ou mais)
+a pintura dos (3 ou mais) corpos deles (por eles 3 ou mais)
+
+O sufixo -zé pode ser usado também com substantivos da classe 6. Como no caso dos substantivos da classe 5, o significado do substantivo sufixado é "instrumento com que" se faz a ação:
+
+ææsi'upsõzé
+
+a coisa com o qual eu me lavo
+
+Note-se que são poucos os substantivos da classe 6.
+
+NOTA CULTURAL
+Tradicionalmente, para se formalizar um casamento entre os Xavante, a dabasa (presente de caça) deve ser apresentada aos pais da noiva. O noivo, junto com os irmãos e primos dele, sai para longe para caçar e trazer de volta muita carne, a qual é colocada numa grande cesta e levada pelo noivo à casa dos pais da noiva. O artesão e doador do colarinho, um tio materno, oferece os melhores pedaços de carne aos pais da noiva. Ele, por sua vez, leva a cesta para casa e distribui a carne, primeiro aos parentes e depois a outros que vierem pedir. Se este ato se realiza à tardinha, ele pinta a noiva na manhã seguinte com urucum e carvão e coloca ao pescoço dela três fitas em forma de trança. Estas são feitas de algodão; uma leva adjunta uma pena de papagaio verde-amarela e outra um dente de lontra, ficando a terceira sem adôrno. Depois de assim enfeitar a noiva, o artesão de colarinhos lhe prega um sermão acerca das suas responsibilidades matrimoniais. Após isto, a noiva sai de casa e se ajoelha numa esteira. Uma menina da outra metade da tribo, filha de algum tio materno, corre até ela, tira do seu pescoço os colarinhos, e os leva para casa para guardar. Assim termina a cerimônia. O marido, então, tem a liberdade de ficar com sua esposa todas as noites na casa dos pais dela, e após o nascimento do primeiro filho, passa a residir sempre com ela lá.
+
+E 'wa simiromhuri. Æænhimiromhuri.
+
+EXERCÍCIOS Por quem (foi) feito o trabalho? O trabalho (foi) feito por mim.
+
+Asimiromhuri hã, wå di.
+E 'wa simiromhuri. Wanhimiromhuri. Asimiromhuri 'wa hã, wå di.
+E 'wa simiromhuri. Wanhimiromhuri za'ra. Asimiromhuri za'ra wa'wa hã, wå di.
+
+O trabalho feito por você é bom.
+Por quem (foi) feito o trabalho? O trabalho (foi) feito por nós (2). O trabalho feito por vocês (2) é bom.
+Por quem (foi) feito o trabalho? O trabalho (foi) feito por nós (3 ou mais). O trabalho feito por vocês (3 ou mais) é bom.
+
+E 'wa simiromhuri. Æsimiromhuri. Æsimiromhuri hã, wå di.
+
+Por quem (foi) feito o trabalho? O trabalho (foi) feito por ele. O trabalho feito por ele é bom.
+
+E 'wa simiromhuri. Æsimiromhuri zahuré. Æsimiromhuri zahuré hã, wå di.
+
+Por quem (foi) feito o trabalho? O trabalho (foi) feito por eles (2). O trabalho feito por eles (2) é bom.
+
+E 'wa simiromhuri. Æsimiromhuri za'ra. Æsmiromhuri za'ra hã, wå di.
+
+Por quem (foi) feito o trabalho? O trabalho (foi) feito por eles (3 ou mais). O trabalho feito por eles (3 ou mais) é bom.
+
+Esreva seus próprios exercícios, baseando-se nos princípios apresentados nesta lição.
+
+— E maræ te za æ'uipra. — Zazahâ wa za uipra. — E niha hã zazahâ. — Zazahâ æhâpré. — E maræ da. — Ææ'ra uzazéb da.
+uipra (IIa) æté *æ'rada (æ'raada) æ'ratare (æ'rataare) æ'uzé (æ'uuzé) æpré æ'a æ'rãdâ *æsa'åne (æsa'ååne)
+
+LIÇÃO
+14
+CONVERSA O que você vai comprar? Vou comprar tecido. Como (i.e. de que cor) é o tecido? Tecido vermelho (lit. pele dele vermelho). Para quê? Para a roupa do meu filho.
+VOCABULÁRIO comprar aquilo que é novo aquilo que é velho
+aquilo que é velho
+aquilo que é verde/azul
+aquilo que é vermelho aquilo que é branco aquilo que é preto aquilo que é grande
+
+æsyryre
+æ'ruture (æ'rutuure)
+æwå
+*æwasédé (æwasééde)
+a'uwå
+
+aquilo que é pequeno aquilo que é curto
+aquilo que é bom aquilo que é mal/ruim
+Xavante; indígena de qualquer tribo
+
+warazu
+
+não-indígena
+
+supara (suupara)
+
+areia
+
+bâdâdi (bâbâdi)
+
+caminho
+
+uptabi ta noræ wa noræ æsu æpa *æsiptede (æsipteede) ã noræ õ noræ
+
+real, verdadeiro eles (grupo) nós (grupo) aquilo que é liso aquilo que é comprido aquilo que é forte
+esta gente/estas coisas (perto) aquela gente/aquelas coisas (longe)
+
+*Em alguns descritivos a consoante final se torna t, perdendo-se a extensão de qualquer vogal penúltima, quando a palavra é sufixada ou ocorre dentro de uma locução.
+
+GRAMÁTICA
+PREFIXO PRONOMINAL RELATIVO æ-
+O prefixo relativo æ- 'aquilo que' ocorre com descritivos e é usado para enfocar a descrição de um objeto, i.e., sua cor, condição, quantia ou tamanho.
+
+Comparem-se as formas seguintes:
+
+1. supara a (suupara)
+supara æ'a (suupara)
+2. 'ri za'åne ('ri zaååne)
+'ri æsa'åne ('ri æsa'ååne)
+
+areia branca areia que é branca uma casa grande uma casa que é grande
+
+3. bâdâdi té (bâdââdi)
+bâdâdi æté (bâdââdi)
+
+uma estrada/vereda nova uma estrada/vereda que é nova
+
+4. si'a ahâ na (sii'a ahââ)
+si'a hã, æ'ahâ (sii'a)
+
+muitos frangos/galinhas frangos/galinhas que são numerosos
+
+1. Note-se o uso de na com descritivo para indicar quantidade. Note-se também que na não ocorre em locuções que contêm o prefixo pronominal relativo æ-.
+2. Note-se em 2. acima que z se torna s em presença do prefixo æ-.
+
+DESCRITIVOS I
+Os descritivos modificam substantivos e outros descritivos, são usados também com o estativo (como se vê na Lição 9), e servem para modificar verbos (V. Lição 18). Na função de modificadores de
+
+substantivos e outros descritivos, especificam cor, tamanho, condição ou número, seguindo sempre o substantivo ou descritivo modificado:
+Descritivos modificadores de substantivos
+
+1. Wedewara pré te za.
+2. 'Ri za'åne hã, we di. ('rii)
+3. 'Ri té te za. ('rii)
+4. Si'a ahâ na wa tô uipra. (sææ'a ahââ)
+
+O caminhão vermelho está parado. A casa grande é bonita.
+(wåå) A casa nova fica em pé.
+Comprei muitas galinhas.
+
+Descritivos modificadores de outros descritivos
+
+Nesta função o descritivo modificador serve para intensificar ou diminuir uma característica, i.e., um
+objeto pode ser muito grande, menos bom, etc. Em tais construções o descritivo modificado é prefixado pelo pronome relativo æ-. Quando se indica quantidade, pode usar-se uma construção alternativa segundo a qual o æ- é omitido, sendo substituído por na:
+
+1. æpré pe (Wedewara æpré pe te za.)
+
+aquilo que é muito vermelho (O caminhão que é muito vermelho está parado.)
+
+2. æsa'åtå to
+
+aquilo que é realmente grande
+
+3. æsiptete prã
+
+aquilo que é menos forte
+
+4. æ'ahâ uptabi
+ou ahâ uptabi na
+
+muitíssimos muitíssimos
+
+Note-se o uso do negativo õ em construções pronominais relativas:
+
+1. com descritivos:
+
+æpré õ
+
+aquilo que não é vermelho
+
+æwå õ
+
+aquilo que não é bom
+
+2. com substantivos:
+
+æmama õ
+
+aquele que não tem pai ORAÇÕES EQUACIONAIS
+
+Estas são orações independentes que consistem num sujeito e seu complemento. O sujeito pode ser pronome, substantivo ou oração relativa. O complemento é substantivo. Estude os exemplos seguintes:
+
+Sujeito pronominal
+
+Complemento
+
+Wa hã A hã Ta hã
+
+Singular a'uwå a'uwå a'uwå
+
+sou Xavante você é Xavante ele é Xavante
+
+Wa noræ hã (waa)
+A noræ wa'wa hã
+Ta noræ hã (taa)
+Ã noræ hã
+Õ noræ hã
+
+Não-singular a'uwå
+a'uwå a'uwå
+a'uwå a'uwå
+
+nós somos Xavante
+vocês são Xavante eles são Xavante
+estes são Xavante aqueles são Xavante
+
+Wa zahuré (waa)
+A sahuré
+
+Dual a'uwå
+a'uwå
+
+nós dois somos Xavante vocês dois são Xavante
+
+Ta zahuré (taa)
+
+a'uwå
+
+eles dois são Xavante
+
+Note-se que a forma dual é usada só quando se enfatiza a dualidade. Em outros casos, se usa a forma não-singular tanto para o dual como para o plural.
+
+Sujeito nominativo
+
+Complemento
+
+Aibâ hã
+
+warazu
+
+O homem não é indígena.
+
+Si'a hã
+
+pi'õ
+
+(sii'a)
+
+O pintinho é galinha.
+
+Sujeito de oração relativa
+
+Complemento
+
+Aibâ æwa'ru hã (æwaa'ruu)
+æprédupté hã
+
+warazu a'uwå
+
+O homem que é alto não é indígena.
+Aquele que é o adoloscente é Xavante.
+
+EXERCÍCIOS
+
+Usando o material desta lição, formule exercícios dos tipos seguintes:
+1. perguntas acerca de tamanho, características, etc., dos objetos domésticos de uma casa xavante, etc.
+2. perguntas que utilizam orações equacionais.
+3. declarações (a) descritivas de diversos objetos. (b) com orações equacionais.
+Pratique estes exercícios, corrigindo quando preciso, com pessoas que falam Xavante como língua materna.
+
+LIÇÃO
+15
+
+— E momo te aimo. — Buru u wa mo. — E tiha zô. — Upa zô wa mo.
+(upaa) — E 'wa te asô 'madâ, 'ri hã. — Ææ'ra te ææzô 'madâ. — E 'wai me te aimo. — Apito ma romhuri'wai me wa mo.
+(apitoo)
+
+CONVERSA Aonde você vai? Vou à roça. Por/para que? Vou por mandioca.
+Quem está cuidando da casa para você? Meu filho está cuidando (para mim). Com quem você vai? Vou com o obreiro do chefe. (lit. o obreiro para o chefe)
+
+te nomro (noomro)
+te ti'â te za tipå'åzé
+warã (waarã)
+ai'uté
+
+VOCABULÁRIO ele/ela está deitado/a
+ele/ela leva, carrega (um objeto) ele/ela vai ficar triste lugar de reunião dos homens
+filhinho, criancinha
+
+GRAMÁTICA
+PÓS-POSICIONAIS
+Estas são palavras relacionadas com substantivos ou pronomes no que diz respeito a posição, direção, propósito, benefício, etc. por exemplo: ao homem, do homem, para o homem, a mim, de mim, para mim, etc. Pelo nome se infere que o elemento pós-posicional siga ao substantivo ou pronome a que se relaciona, i.e., o homem-a , mim-de, etc. Os pós-posicionais se dividem em três grupos:
+
+1. Pós posicionais que seguem somente a substantivos. Este grupo consiste em:
+
+u 'a' (direção)
+
+Buru u te mo.
+
+Ele vai à roça.
+
+Romhuri u te mo.
+
+Ele vai trabalhar.
+
+ba 'a' (direção)
+
+Usado somente com três substantivos:
+
+Âi ba te mo.
+
+Ele vai à água.
+
+Hâ ba te mo.
+
+Ele vai ao barracão dos solteiros.
+
+Warãi ba te mo.
+
+Ele vai ao lugar de reunião dos homens.
+
+ãna 'sem' Sabo ãna te upsõ.
+
+Ela está lavando sem sabão.
+
+2. Pós-posicionais que seguem os substantivos e pronomes. A maior parte dos pós-posicionais pertence a este grupo, apresentando a seguinte série de pronomes:
+
+ææ-
+
+1a pessoa do singular
+
+ai-
+
+2a pessoa do singular
+
+æ-
+
+3a pessoa do singular
+
+waai- . . . wa'wa/'wa æ- . . . zahuré
+
+1a pessoa do dual 2a pessoa do dual 3a pessoa do dual
+
+wa- . . . za'ra ai- . . . za'ra wa'wa æ- . . . za'ra
+
+1a pessoa do plural 2a pessoa do plural 3a pessoa do plural
+
+Seguem exemplos deste grupo:
+'rata 'perto', ao lado de, ao pé de'
+Tina 'rata te nhamra. (nhaamra)
+Æ'rata te nhamra. (nhaamra)
+
+Ele se senta aos pés de sua (própria) mãe.. Ele se senta perto dele.
+
+'rowi 'embaixo de, de baixo de'
+Â 'rowi te nomro. (noomro)
+Æ'rowi te nomro. (noomro)
+
+Fica embaixo da água. (peixe)
+Fica embaixo dela. (pintinho embaixo da galinha)
+
+tåme 'a' (direção) Usado somente com 'ri 'casa' ou seres animados.
+
+'Ri tåme te mo.
+
+Ele vai para casa.
+
+Æteme te mo.
+
+Ele vai a ele.
+
+wana 'antes (de)' (temporal)
+
+Aibâ wana te mo. Ææwana te mo.
+
+Ele vai antes do homem. Ele vai antes de mim (antes que eu).
+
+za'u/sa'u 'depois (de)' (temporal) Aibâ za'u te mo. Asa'u te mo.
+
+Ele vai depois do homem. Ele vai depois de você.
+
+3. Pós-posicionais que seguem a substantivos e pronomes e apresentam a mesma série de pronomes acima referida com exceção da 3a pessoa (singular, dual e plural), indicada por zero, tã- ou ti-. Este
+grupo consiste nos seguintes:
+
+ma 'a, para'
+
+Apito ma, te za romhu. Te za ææma romhu.
+
+Ele vai trabalhar para o chefe. Ele vai trabalhar para mim.
+
+Te za aima romhu.
+
+Ele vai trabalhar para você.
+
+Te za tãma romhu.
+
+Ele vai trabalhar para ele.
+
+wi 'de' Apito wi, te za ti'â. Te za ææwi ti'â. Te za aiwi ti'â. Te za tiwi ti'â.
+
+Ele vai levá-lo do chefe. Ele vai levá-lo de mim. Ele vai levá-lo de você. Ele vai levá-lo dele.
+
+zô/sô 'por' Upa zô te za mo. Te za we ææzô mo.
+
+Ele irá por mandioca. Ele irá por mim.
+
+Te za we asô mo. Te za we sô mo.
+
+Ele irá por você. Ele irá por ele.
+
+ãma 'em, por volta de, por causa de' Ai'uté ãma ma tô tipå'åzé. Ma tô ææ'ãma tipå'åzé. Ma tô ai'ãma tipå'åzé. Ma tô ãma tipå'åzé.
+
+Ele ficou triste por causa da criança. Ele ficou triste por causa de mim. Ele ficou triste por causa de você. Ele ficou triste por causa dele.
+
+zada/sada/da 'para (objetivo, propósito)' Æ'ra da, te za romhu. Te za ææzada romhu.
+
+Ele vai trabalhar para o filho dele. Ele vai trabalhar para mim.
+
+Te za asada romhu.
+
+Ele vai trabalhar para você.
+
+Te za sada romhu.
+
+Ele vai trabalhar para ele.
+
+Note-se que, nestes exemplos, da ocorre somente com substantivos.
+
+Estude os seguintes paradigmas:
+
+Wa za tãma waihu'u. (waihuu'u)
+Te za tãma æwaihu.
+
+Eu lhe farei saber. Você lhe fará saber.
+
+Te za tãma waihu'u. (waihuu'u)
+
+Ele lhe fará saber.
+
+Wa za tãma waihu'u ni.
+Te za tãma æwaihu'u 'wa. (æwaihu'uu)
+Te za tãma waihu'u zahuré.
+
+Nós dois lhe faremos saber. Vocês dois lhe farão saber. Eles dois lhe farão saber.
+
+Wa za tãma waihu'u za'ra ni. Te za tãma æwaihu'u z'ara wa'wa. Te za tãma waihu'u za'ra.
+Wa za aima rowasu'u. Wa za aima rowasu'u wa'wa. Wa za aima rowasu'u za'ra wa'wa.
+Wa za tãma rowasu'u. Wa za tãma rowasu'u zahuré. Wa za tãma rowasu'u za'ra.
+Te za ææma rowasu'u. Te za wama rowasu'u. Te za wama rowasu'u za'ra.
+Wa za aima rowasu'u ni. Wa za aima rowasu'u wa'aba ni. Wa za aima rowasu'u za'ra wa'aba ni. Wa za aima rowasu'u za'ra ni. Wa za aima rowasu'u za'ra wa'aba ni. Wa za aima rowasu'u za'ra wa'aba ni.
+
+Nós lhe faremos saber. Vocês lhe farão saber. Eles lhe farão saber.
+Eu direi a você. Eu direi a vocês dois. Eu direi a vocês.
+Eu direi a ele. Eu direi a eles dois. Eu direi a eles.
+Ele me dirá. Ele dirá a nós dois. Ele dirá a todos nós.
+Nós dois diremos a você. Nós dois diremos a vocês dois. Nós dois diremos a vocês. Nós diremos a você. Nós diremos a vocês dois. Nós diremos a vocês.
+
+Note-se que até aqui todos os exemplos dos marcadores de plural zahuré e za'ra com verbo têm tornado dual ou plural o sujeito do verbo. Ocorrendo um objeto indireito, porém, como nos paradigmas acima referidos, os marcadores podem referir-se ao sujeito, ao objeto indireito, ou a ambos simultâneamente conforme o contexto. Comparando-se os últimos dois paradigmas acima, por exemplo, é evidente que wa za aima rowasu'u za'ra wa'aba ni pode significar 'nós dois diremos a vocês todos' / 'nós todos diremos a vocês dois' / 'nós todos diremos a vocês todos'. Veja também as sentenças seguintes:
+
+Te za tãma waihu'u zahuré.
+
+Eles dois lhe farão saber. Ele lhes farão saber (a eles dois) Eles (dois) lhes farão saber (a eles dois)
+
+Te za wama rowasu'u za'ra.
+
+Ela dirá a nós. Eles dirão a nós dois. Eles dirão a nós.
+
+Note-se também que dentro da locução ocorre sempre o tema vérbal integral:
+
+Wa za aima romhu.
+
+Eu vou trabalhar para você.
+
+Wa za aima romhuri 'wa.
+
+Eu vou trabalhar para vocês dois.
+
+Wa za aima romhuri za'ra wa'wa.
+
+Eu vou trabalhar para vocês.
+
+Outros usos de pós-posicionais (a) com o estativo: ææma se ti aima se ti tãma se ti
+(b) com substantivos: ææma romhuri'wa
+aima romhuri'wa
+
+é-me saboroso/acho saboroso é-lhe saboroso/você acha saboroso é-lhe saboroso/ele acha saboroso
+o trabalhador para mim i.e., meu trabalhador (V. conversa) o trabalhador para você
+
+tãma romhuri'wa
+
+o trabalhador para ele
+
+V. Parte 2, num. 7, para nota acerca do uso de pós-posicionais com verbos intransitivos.
+NOTA CULTURAL
+Os Xavante constrõem nas suas roças casinhas em que se alojam e armazenam a colheita. Se as roças ficam longe da aldeia, as pessoas pernoitam lá com freqüência quando trabalham na roça. Durante a colheita de arroz, feijão ou milho, ficam lá às vezes dias seguidos; outras vezes, um grupo de mulheres vai lá por alguns dias para preparar a farinha de mandioca.
+EXERCÍCIOS
+Pratique os paradigmas acima apresentados. Invente novos paradigmas com outros verbos, verificando-os com pessoas que falam Xavante como língua materna.
+
+LIÇÃO
+16
+
+— E momo te aimo.
+
+CONVERSA Aonde você vai?
+
+— Apito u, wa mo. — E maræ zô.
+
+Vou ao chefe. Por/para quê?
+
+— A'é te tãma sõmri da, wa mo.
+— E maræ da.
+— Te te sõmri da, Cuiabá u. Te te ææma nharæ wa, wa za tãma tisõ.
+
+Vou dar-lhe colares de sementes.
+Para quê?
+Para ele dar (mandar) a Cuiabá. Por ele me ter dito para fazer assim, eu vou dá-los a ele.
+
+sõmri (ti) (IIb) wari (ti) (IIb) 'rui (ti) (IIa) åi (ti) (IIa) pari (ti) (IIb) põræ (ti) (IIb) nharæ (ti) (IIb) romhuri wa'â E niha æwa'â. rob'uiprazé (rob'uipraazé) uzi
+
+VOCABULÁRIO dar quebrar nozes mandar, ordenar romper com, quebrar apagar, borrar abanar falar salário, ordenado Qual é o preço? dinheiro
+lanterna elétrica
+
+(uuzi) buze (buuze) â ro'ore si sabadu na si
+(naa) unhamare (unhamaare) wa mahawi 'ma-
+a-
+
+cana de açúcar
+querosene só só aos sábados
+fósforos
+porque (relacionante dependente) de onde objeto ou quantidade indefinido (prefixo de tema verbal) muito, muitos (prefixo de tema verbal)
+
+GRAMÁTICA
+VERBOS PREFIXADOS COM ti-
+Estes são verbos transitivos de diversas classes. Nas pessoas 1a e 3a do singular, o tema verbal apresenta o prefixo ti- 'objeto ou quantidade definido.' Ti- não ocorre em formas negativas ou dependentes. Estude os paradigmas seguintes:
+
+wa za tãma tisõ te za tãma æsõ
+
+eu vou dá-lo a ele você vai dá-lo a ele
+
+te za tãma tisõ
+
+ele vai dá-lo a ele
+
+wa za tãma sõmri ni te za tãma æsõmri 'wa
+
+nós dois vamos dá-lo a ele vocês dois vão dá-lo a ele
+
+(æsõmrii)
+te za tãma sõmri zahuré wa za tãma sõmri za'ra ni te za tãma æsõmri za'ra wa'wa
+te za tãma sõmri za'ra
+
+eles dois vão dá-lo a ele todos vamos dá-lo a ele*
+vocês todos vão dá-lo a ele*
+eles todos vão dá-lo a ele*
+
+*Lembre-se de outros significados destas formas - V. lição anterior.
+
+wa tô tinha ma tô ænha
+
+eu disse você disse
+
+ma tô tinha
+
+ele disse
+
+wa tô nharæ ni
+ma tô ænharæ 'wa (ænharææ)
+ma tô nharæ zahuré
+
+nós dois dissemos vocês dois disseram
+eles dois disseram
+
+wa tô nharæ za'ra ni ma tô ænharæ za'ra wa'wa ma tô nharæ za'ra
+
+nós dissemos vocês disseram eles disseram
+
+Note-se que os prefixos de tema verbal 'ma- 'objeto ou quantidade indefinido', e a- 'muito, muitos' ocorrem com todas as pessoas do verbo, substituindo o ti- em verbos deste tipo. Assim wa za tãma tisõ 'eu vou dá-lo a ele' se torna wa za tãma 'manho 'eu vou dar alguma coisa a ele' ou wa za tãma anho 'eu vou dar muito a ele'. Note-se também a alteração de s para nh.
+
+VERBOS DE TEMA MÚLTIPLO
+Certos verbos transitivos, a maior parte do tipo ti-, apresentam três temas diferentes conforme a inclusão de um, dois ou mais objetos. Estude os paradigmas seguintes:
+
+âri (ti) (IIb) 'apanhar, levar, carregar, pegar, salvar (objeto singular)'
+
+wede wa za ti'â (weede)
+te za æ'â
+te za ti'â
+wa za âri ni
+te za æ'âri 'wa (æ'ârii)
+te za âri zahuré
+wa za wasiwi âri ni (waasiwi)
+te za asiwi æ'âri 'wa (æ'ârii)
+te za siwi ti'â
+
+eu vou levar o pau
+você vai levar o pau ele vai levar o pau nós dois vamos levar o pau vocês dois vão levar o pau
+eles dois vão levar o pau nós vamos levar o pau
+vocês vão levar o pau
+eles vão levar o pau
+
+mrami (ti) (IIb) 'apanhar, levar, carregar, pegar, salvar (objetos duais)
+
+wede wa za timra (weede) (tiimra)
+te za æmra
+
+vou levar dois paus você vai levar dois paus
+
+te za timra (tiimra)
+
+ele vai levar dois paus
+
+wa za mrami ni
+te za æmrami 'wa (æmramii)
+te za mrami zahuré
+
+nós dois vamos levar dois paus vocês dois vão levar dois paus
+eles dois vão levar dois paus
+
+wa za wasiwi mrami ni (waasiwi)
+te za asiwi æmrami ‘wa (assiwi æmramii)
+te za siwi timra (tiimra)
+
+vamos levar dois paus vocês vão levar dois paus eles vão levar dois paus
+
+waibui (Iia) ‘apanhar, levar, carregar, pegar, salvar (objetos plurais)’
+
+wede wa za waibu (weede)
+te za æwaibu
+
+vou levar os (3 ou mais) paus você vai levar os (3 ou mais) paus
+
+te za waibu
+
+ele vai levar os (3 ou mais) paus
+
+wa za waibu ni te za æwaibui wa’wa te za waibu zahuré
+
+nós dois vamos levar os (3 ou mais) paus vocês dois vão levar os (3 ou mais) paus eles dois vão levar os (3 ou mais) paus
+
+wa za wasiwi waibu ni (waasiwi waibun)
+te za asiwi æwaibui wa’wa (assiwi)
+
+vamos levar os (3 ou mais) paus vocês vão levar os (3 ou mais) paus
+
+te za siwi waibu
+
+eles vão levar os (3 ou mais) paus
+
+Note-se a inclusão do siwi ‘entre, juntos’ nas formas do plural, bem como a omissão do marcador de plural za’ra. Note-se também que o prefixo ti- ocorre na 3a pessoa do plural quando se usa siwi isoladamente. Se é enfatizado o fato de agirem muitas pessoas sobre o(s) objeto(s), inclui-se também za’ra. Comparem-se as formas seguintes com o primeiro paradigma do verbo âri o qual apresenta também objeto singular:
+
+wede wa za wasiwi âri za’ra ni
+
+vamos levar o pau
+
+te za asiwi æ’âri za’ra wa ‘wa
+
+vocês vão levar o pau
+
+te za siwi âri za’ra
+
+eles vão levar o pau
+
+(Outros exemplos de verbos de tema múltiplo são enumerados na Parte 2)
+
+NOTA CULTURAL
+A economia xavante continua essencialmente num nível de subsistência. O pagamento se faz geralmente em espécie sobretudo de gêneros hortícolas. Antigamente se usavam algodão fiado e blocos de urucum (para pintura do corpo) como pagamento de ubstant ou artigos recebidos. O dinheiro foi introduzido na economia através da venda de artefatos e o pagamento do trabalho realizado nos Postos Indígenas. Além disso, alguns homens da tribo trabalham a prazo curto nas fazendas da vizinhança com propósito de ganhar dinheiro.
+
+EXERCÍCIOS
+Decore as expressões apresentadas nesta lição. Então, utilizando os ubstantives e verbos enumerados no vocabulário, invente e pratique exercícios originais em forma de perguntas e respostas. Verifique sempre seus exercícios com alguém que fala o Xavante como ubstan ubstant.
+
+E maræ zô te we aimo. Te asabu da, wa we mo. E te za ææpawapto. Æhe. Wa za aipawapto. E ãhã na, te za ææpawapto. Æhe. Ãhãna, wa za aipawapto.
+ãhã na tane tô ãne azâri (Iib) ææpawapto’wa ææ’madâ’â’wa ææpoto’wa
+
+LIÇÃO
+17
+CONVERSA Por que você veio aqui? Para ver você, eu vim aqui. Você me ajudará? Sim. Eu lhe ajudarei. Você vai me ajudar agora? Sim. Vou lhe ajudar agora.
+VOCABULÁRIO agora assim mesmo assim, desta maneira bater aquele que me ajuda aquele que cuida de mim aquele que me deu vida
+
+GRAMÁTICA
+OBJETOS DIRETOS
+Os objetos diretos em forma de substantivo podem ocorrer antes, depois ou dentro da locução verbal. Quando precede a locução, o substantivo é de maior importância:
+
+E wapsã ma tô azâ.
+
+Ele deu pancadas no cachorro?
+
+E ma tô wapsã azâ. E ma tô azâ, wapsã hã.
+
+Ele deu pancadas no cachorro? Ele deu pancadas nele, isto é, no cachorro?
+
+(2) Os objetos diretos em forma de pronome são prefixados ao tema verbal transitivo. Estude os paradigmas seguintes, vendo especialmente os objetos diretos pronominais sublinhados. Note-se que não há objeto direto pronominal da 3a pessoa. Note-se, outrossim, que os marcadores de plural zahuré e za’ra podem relacionar-se ao sujeito, ao objeto direto ou aos dois simultaneamente, conforme o contexto:
+
+ma tô ææpawapto
+
+ele me ajudou
+
+ma tô aipawapto
+
+ele ajudou você
+
+ma tô pawapto
+
+ele lhe ajudou (ele)
+
+ma tô wapawapto ma tô aipawapto wa’wa ma tô pawaptob zahurê
+
+ele nos (2) ajudou ele ajudou vocês (2) ele lhes (2) ajudou (eles 2)
+
+ma tô wapawaptob za’ra ma tô aipawapto wa’wa ma tô pawaptob za’ra
+
+ele nos ajudou (todos) ele ajudou vocês (todos) ele lhes ajudou (todos eles)
+
+wa za aipawapto wa za aipawapto wa’wa wa za aipawaptob za’ra wa’wa
+
+eu ajudarei você eu ajudarei vocês (2) eu ajudarei vocês (todos)
+
+wa za aipawaptom ni
+
+nós dois ajudaremos você
+
+wa za aipawapto wa’aba ni
+
+nós dois ajudaremos vocês (2)
+
+wa za aipawaptob za’ra wa’aba ni ma tô ææpawapto* ma tô æwapawapto ma tô æwapawaptob za’ra
+
+nós dois ajudaremos vocês (todos) você me ajudou você nos (2) ajudou você nos ajudou (todos)
+
+etc.
+Note-se que, por motivo de fonética, æ- (marcador de 2a pessoa, sujeito) é omitido antes de ææ- ‘me’ (objeto), sendo, pois, o contexto somente que esclarece se o significado de ma tô ææpawapto é ‘ele me ajudou’ ou ‘você me ajudou.’
+
+NOTA CULTURAL
+Os Xavante aprendem, ainda em criança, a prestarem auxílio uns aos outros. As meninas aprendem logo a ajudar a mãe, trazendo água do rio e cestinhos de legumes da roça, socando arroz, e realizando as muitas outras atividades femininass designadas nessa cultura. Os irmãos mais novos delas devem ajudar o pai ou os irmãos mais velhos na roça.
+
+Pratique o seguinte exercício: E ma tô æsabu, aibâ hã. Æhe. Wa tô sabu. E ma tô æsabui wa’wa, aibâ hã. Æhe. Wa tô sabu ni. E ma tô æsabu za’ra wa’wa, aibâ hã. Æhe. Wa tô sabu za’ra ni.
+
+EXERCÍCIOS
+Você o viu, isto é, o homem? Sim. Eu o vi. Vocês dois o viram, isto é, o homem? Sim. Nós dois o vimos. Vocês todos o viram, isto é, o homem? Sim. Todos nós o vimos.
+
+Pratique agora o mesmo exercício, colocando outros ubstantives em lugar de ‘homem’. Depois substitua outros verbos em lugar de ‘ver.’
+
+Lembre-se também de praticar as formas com o objeto direto substantivo antes e dentro da locução verbal, como acima referido:
+
+E ma tô pi’õ pawapto.
+
+Ele ajudou a mulher?
+
+E pi'õ ma tô pawapto.
+
+Ele ajudou a mulher?
+
+etc.
+
+Usando os verbos sabui (IIa) 'ver' e wapari (IIb) 'ouvir, escutar', formule exercícios originais em forma de perguntas e respostas com objetos diretos pronominais:
+
+E ma tô ææzabu.
+
+Você me viu?
+
+Wa tô asabu. E ma tô æwazabu.
+
+Eu vi você. Você nos (2) viu?
+
+Wa tô asabui wa'wa.
+
+Eu vi vocês dois.
+
+etc.
+
+Note-se que em muitos verbos com s inicial no tema, o s se torna z quando os objetos diretos pronominais da 1a pessoa (singular, dual e plural) são prefixados ao tema verbal.
+
+LIÇÃO
+18
+
+CONVERSA
+
+— E momo te aimo.
+
+Aonde você vai?
+
+— Õwa wa mo. Æædub'rada te sabu da, wa mo.
+
+Vou para lá. Vou ver meu irmão maior.
+
+— Ãma aimoræ waré na za. Sabui wamhã, we aimoræ su'u za.
+
+Vá direto para lá. Quando o tiver visto, volte logo.
+
+— A'âza. Wa za we moræ su.
+
+'Tá. Volto logo.
+
+VOCABULÁRIO (1) modificadores que seguem sempre o tema verbal
+
+tete za'åtå
+
+firmemente, estreitamente diligentemente (trabalho)
+
+'rada/'rata
+
+primeiro
+
+pese
+
+muito, plenamente
+
+su'u
+
+logo
+
+u'âsi
+
+constantemente
+
+waré
+
+corretamente, diretamente
+
+prãi
+
+menos
+
+(2) descritivos de posição mutável awa'awi sa'åtå
+
+imediatamente rápido, ruidosamente
+
+ti'awibre siwa'ru sõ'awi pi'uriwi atãma
+(3) descritivos usados com na 'com' wå na
+syry na umro na su'u na ahâ na sa'åtå na
+
+em voz baixa indiscriminadamente abertamente secretamente devagar
+com bom, i.e., bem, corretamente, de forma certa pouco poucos suavemente, fácilmente, de modo macio muito muito, grande
+
+GRAMÁTICA DESCRITIVOS II - MODIFICADORES DE VERBO Há na língua xavante três tipos de descritivos que modificam verbos: 1. aqueles que seguem sempre o tema verbal. 2. os de posição mutável na sentença. 3. aqueles que se usam com na. V. vocabulário acima. 1. Descritivos que seguem sempre o tema verbal Tais descritivos, que ocorrem somente após tema verbal, são de dois tipos - aqueles que perdem sua sílaba final em presença da 2a pessoa do singular do verbo, e aqueles que nunca sofrem perda de
+
+sílaba. Nas primeiras lições desta Gramática saliente-se o fato de que, quando o verbo perde a sílaba final do singular, ocorre 'wa na 2a pessoa dual; e que, quando não há perda da sílaba final no tema singular, apresenta-se wa'wa como marcador de 2a pessoa no dual. Frisa-se também o fato de serem
+usados nas formas dependentes e imperativas os elementos correspondentes aba e wa'aba:
+verbo que perde sílaba final
+
+te æromhuri 'wa
+
+vocês dois trabalham
+
+romhuri aba
+
+trabalhem (vocês dois)!
+
+verbo sem perda de sílaba te æsabui wa'wa
+sabui wa'aba
+
+vocês dois vêem vejam (vocês dois)!
+
+Quando o descritivo segue o verbo, é o tipo de descritivo apresentado que determina a forma do marcador de 2a pessoa - se o descritivo perde sua sílaba final em presença da 2a pessoa do singular do verbo, ocorre 'wa na 2a pessoa do dual apesar de qualquer distinção de classe verbal; se o descritivo
+não perde a sílaba final, ocorre wa'wa sem restrição de classe verbal. Note-se que, para entrar esta regra em vigor, o descritivo sempre deve preceder imediatamente o marcador da 2a pessoa. (Lembrese que depois do marcador de plural za'ra o marcador da 2a pessoa é sempre wa'wa.) Compare os
+exemplos seguintes com os acima referidos:
+
+te æromhuri wå
+
+você trabalha bem
+
+te æromhuri wå wa'wa
+
+vocês dois trabalham bem
+
+romhuri wå wa'aba
+
+trabalhem bem (vocês dois)!
+
+te æsabui u'â te æsabui u'âsi 'wa
+sabui u'âsi aba
+
+você vê constantemente vocês dois vêem constantemente vejam constantemente (vocês dois)!
+
+Estude os exemplos seguintes: wa za moræ su
+
+irei depressa
+
+te za aimoræ su te za moræ su
+
+você irá depressa ele irá depressa
+
+Note-se que a forma integral su'u ocorre na 1a e na 3a pessoa do singular quando se empregam os marcadores de pessoa ææ- e ti- com o verbo. Esta é uma forma alternativa e parece colocar maior
+ênfase no sujeito do verbo:
+
+wa za ææmoræ su'u
+
+irei depressa
+
+te za aimoræ su
+
+você irá depressa
+
+te za timoræ su'u
+
+ele irá depressa
+
+wa za waneb su'u ni te za aneb su'u 'wa te za neb su'u zahuré
+
+nós dois iremos depressa vocês dois irão depressa eles dois irão depressa
+
+imperativo aimoræ su'u aneb su'u aba ai'aba'réi su'u aba
+
+vá depressa! vão depressa (vocês dois)! vão depressa (vocês todos)!
+
+Verifique outros descritivos do vocabulário 1 em paradigmas para ver quais deles perdem a sílaba final na 2a pessoa do singular. Sugerem-se, por exemplo, as seguintes combinações de verbo e descritivo
+como matéria de investigação:
+
+tété tete
+
+segure bem
+
+upsõ su'u romhuri za'åtå
+
+lave depressa trabalhe muito
+
+sõmri u'âsi
+
+dê constantemente
+
+(2) Descritivos de posição mudável na sentença
+
+Um descritivo é mais enfático em posição inicial da sentença do que em posição final. As seguintes sentenças apresentam alguns de tais elementos do vocabulário 2:
+
+Awa'awi te mo, aibâ hã.
+
+Ele foi imediatamente, isto é, o homem.
+
+Aibâ te mo awa'awi.
+
+O homem foi imediatamente.
+
+E awa'awi te za mo. Sa'åtå ma tô tãma tinha. Ma tô tãma tinha, sa'åtå.
+
+Ele irá imediatamente? Ele falou com ele em voz alta. Ele falou com ele em voz alta.
+
+Pratique os descritivos com os verbos seguintes: sõ'awi
+
+moræ, 'manharæ, wasu'u
+
+pi'uriwi ti'awimre
+
+"
+
+"
+
+"
+
+wasu'u, nharæ
+
+siwa'ru atãma
+
+upra, pisutu wasu'u, nharæ
+
+(3) Descritivos usados com na
+
+As sentenças seguintes exemplificam o uso de descritivos mais na na modificação de verbos. Note-se a posição mutável do descritivo com na:
+
+Syry na wa za tãma tisõ. Awåpsi wa za syry na tãma tisõ.
+
+Darei (um) pouco a ele. Amanhã darei (um) pouco a ele.
+
+Wa za tãma tisõ, syry na.
+
+Darei (um) pouco a ele.
+
+imperativo Syry na tãma sõmri. Syry na tãma sõmri aba. Syry na tãma sõmri za'ra wa'aba.
+
+Dê um pouco a ele! Dêem (vocês dois) um pouco a ele! Dêem (vocês todos) um pouco a ele!
+
+EXERCÍCIOS
+Além das sugestões acima referidas, formule também exercícios adicionais à base dos descritivos enumerados no vocabulário.
+
+LIÇÃO
+19
+
+— E 'wa te tiwawa. — Ææ'ra te tiwawa. — E tihai wa. — 'Rubu te, te tiwawa. — Ai'utépré hã, e a'a õ di oto.
+— Æhe. A'a õ di. Tãma rowå di oto.
+
+CONVERSA Quem está chorando?
+Meu filho está chorando.
+Por quê? (fala feminina)
+Por estar com sede, está chorando.
+A tosse do seu nenê melhorou? (lit. ele não tosse agora?)
+Sim. Ele não tosse mais. Ele (a) está bem agora (lit. Está bem com ele (a) agora.)
+
+sai (Ia) wawai (Ia) a'a (Ia) aihâ (Ib) aiprub (Ib) zahadu
+
+VOCABULÁRIO comer chorar tossir rir romper, quebrar ainda, mais tarde
+
+GRAMÁTICA
+VERBOS DA CLASSE I - INTRANSITIVOS
+Há cinco sub-classes de verbos da classe I, mais os que são verbos reflexivos e os de temas verbais múltiplos, todos eles intransitivos. Todo verbo intransitivo leva o marcador de pessoa ai- '2a pessoa' no singular, dual e plural, prefixado ao tema verbal. Tal prefixo ocorre com a forma positiva do verbo. As
+
+formas negativa e dependente levam os marcadores de pessoa enumerados na Lição 6, prefixados ao tema verbal integral.
+Sub-classe Ia
+Regra: 1. A seguinte série de marcadores de classe (sublinhados nos paradigmas a seguir) ocorre nas formas positivas (com exceção de toda 2a pessoa) de todos os verbos desta sub-classe.
+
+2. Alguns verbos perdem a última vogal ou consoante do tema em posição final de locução verbal; outros perdem a última sílaba do tema na 2a pessoa do singular somente em posição
+final de locução verbal:
+
+wa ææwawa
+
+estou chorando
+
+te aiwawa te tiwawa
+
+você está chorando ele está chorando
+
+wa wawawa ni te aiwawai wa'wa te tiwawa zahuré
+
+nós dois estamos chorando vocês dois estão chorando eles dois estão chorando
+
+wa wawawa za'ra ni te aiwawa za'ra wa'wa te tiwawa za'ra
+
+nós todos estamos chorando vocês todos estão chorando eles todos estão chorando
+
+(Este paradigma mostra a perda de vogal e consoante final do tema em posição final de locução verbal.)
+
+wa ææ'a'a
+
+tusso
+
+te ai'a te ti'a'a
+
+você tosse ele tosse
+
+wa wa'a'a ni te ai'a'a 'wa te ti'a'a zahuré wa wa'a'a za'ra ni te ai'a'a za'ra wa'wa te ti'a'a za'ra
+
+nós dois tossimos vocês dois tossem eles dois tossem todos tossimos vocês todos tossem eles todos tossem
+
+(Este paradigma verbal mostra a perda da última sílaba do tema na 2a pessoa do singular.)
+
+Nas formas negativas e dependentes não há marcadores de classe:
+
+ææwawa õ di
+
+não estou chorando
+
+aiwawa õ di
+
+você não está chorando
+
+wawa õ di
+
+ele não está chorando
+
+wawawa õ di aiwawai wa'aba õ di wawa zahuré õ di
+
+nós dois não estamos chorando vocês dois não estão chorando eles dois não estão chorando
+
+wawawa za'ra õ di aiwawa za'ra wa'aba õ di wawa za'ra õ di
+
+nós não estamos chorando vocês não estão chorando eles não estão chorando
+
+ææ'a'a õ di ai'a'a õ di
+
+não estou tossindo você não está tossindo
+
+a'a õ di
+
+ele não está tossindo
+
+wa'a'a õ di ai'a'a aba õ di a'a zahuré õ di
+
+nós dois não estamos tossindo vocês dois não estão tossindo eles dois não estão tossindo
+
+wa'a'a za'ra õ di ai'a'a za'ra wa'aba õ di a'a za'ra õ di
+
+nós não estamos tossindo vocês não estão tossindo eles não estão tossindo
+
+Sub-classe Ib
+
+Regra: O marcador de classe ai- é prefixado ao tema verbal em toda forma positiva da la e 3a pessoa:
+
+wa aihâ
+
+eu rio
+
+te aihâ
+
+você ri
+
+te aihâ
+
+ele ri
+
+wa aihâ ni te aihâ wa'wa te aihâ zahuré
+
+nós dois rimos vocês dois riem eles dois riem
+
+wa aihâ za'ra ni te aihâ za'ra wa'wa te aihâ za' ra
+
+nós rimos vocês riem eles riem
+
+Nas formas negativas e dependentes, o marcador de classe si- ocorre em toda 1a e 3a pessoa:
+
+ææsihâ õ di aihâ õ di sihâ õ di
+wasihâ õ di aihâ wa'aba õ di sihâ zahuré õ di
+wasihâ za'ra õ di aihâ za'ra wa'aba õ di sihâ za'ra õ di
+
+não estou rindo você não está rindo ele não está rindo
+nós dois não estamos rindo vocês dois não estão rindo eles dois não estão rindo
+nós não estamos rindo vocês não estão rindo eles não estão rindo
+
+EXERCÍCIOS
+
+Pratique exercícios baseados nos exemplos seguintes. Amplifique e altere as formas verbais, usando diversas pessoas, bem como as construções positivas, negativas e dependentes:
+
+E maræ wa, te tiwawa.
+
+Por que ele está chorando?
+
+Mrap te, te tiwawa. E maræ wa, te aiwawa. Ææpå'åzé te, wa ææwawa.
+
+Por estar com fome, ele está chorando. Por que você está chorando? Por estar triste, estou chorando.
+
+Pratique as formas dual e plural destes verbos. Complete então o seguinte paradigma:
+
+E zahadu asai õ di. Zahadu ææsai õ di.
+
+Você ainda não comeu? Ainda não comi.
+
+Note-se a variante na forma negativa do verbo 'chorar' acima. No verbo 'comer' a forma predileta do negativo parece manter o i final do tema antes da consoante glótica inicial do negativo.
+
+— E te asipi. — Æhe. Wa api. — E maræ na, te asipi.
+— Si'a na, wa api. — E uhi na, asipi õ di. — Si'a na si, wa api.
+api (Ic) apsaihuri (Ic) abzaihâi (Ic) mapari (Id) mazahâri (Id)
+
+LIÇÃO
+20
+CONVERSA Você está cozinhando. Sim. Estou cozinhando. O que está cozinhando? (lit. Com que está cozinhando?) Estou cozinhando (com) frango. Não está cozinhando feijão? Estou cozinhando somente frango.
+VOCABULÁRIO cozinhar roubar, furtar onda (movimento de água) esperar (usado com zô/sô) parar (movimento)
+
+Sub-classe Ic
+
+GRAMÁTICA VERBOS DE CLASSE 1 - INTRANSITIVOS cont.
+
+Regra 1. Os marcadores de classe am- (em toda 1a e 3a pessoa) e sim- (em toda 2a pessoa) são prefixados ao tema verbal no positivo. (No vocabulário acima aparecem sublinhados os marcadores de classe dos verbos do grupo Ic. V. na Lição 11, parte 1, uma revisão das regras que regem as mudanças fonéticas automáticas em sílabas que terminam em m.)
+2. No caso de alguns verbos há perda de vogal ou sílaba final do tema em posição final de
+
+locução verbal: wa api te asipi te api
+wa api ni te asipi wa'wa te api zahuré
+wa api za'ra ni te asipi za'ra wa'wa te api za'ra
+wa tô apsaihu ma tô asipsaihu ma tô apsaihu wa tô apsaihuri ni ma tô asipsaihuri 'wa ma tô apsaihuri zahuré wa tô apsaihuri za'ra ni ma tô asipsaihuri za'ra wa'wa ma tô apsaihuri za'ra
+
+eu cozinho você cozinha ele cozinha
+nós dois cozinhamos vocês dois cozinham eles dois cozinham
+todos cozinhamos vocês todos cozinham eles todos cozinham
+roubei você roubou ele roubou nós dois roubamos vocês dois roubaram eles dois roubaram nós roubamos vocês roubaram eles roubaram
+
+Nota: No primeiro paradigma acima, há perda de vogal final do tema, e no segundo perde-se a sílaba final do mesmo.
+
+Nas formas negativas e dependentes, os marcadores de classe são -nhim- (toda 1a pessoa) e -sim(toda 2a e 3a pessoa):
+
+æænhipi õ di
+
+não estou cozinhando
+
+asipi õ di
+
+você não está cozinhando
+
+sipi õ di
+
+ele não está cozinhando
+
+wanhipi õ di asipi wa'aba õ di sipi zahuré õ di
+
+nós dois não estamos cozinhando vocês dois não estão cozinhando eles dois não estão cozinhando
+
+wanhipi za'ra õ di asipi za'ra wa'aba õ di sipi za'ra õ di æænhipsaihuri õ di asipsaihuri õ di sipsaihuri õ di
+
+nós não estamos cozinhando vocês não estão cozinhando eles não estão cozinhando não roubei você não roubou ele não roubou
+
+wanhipsaihuri õ di asipsaihuri aba õ di sipsaihuri zahuré õ di
+
+nós dois não roubamos vocês dois não roubaram eles dois não roubaram
+
+wanhipsaihuri za'ra õ di
+
+nós não roubamos
+
+asipsaihuri za'ra wa'aba õ di sipsaihuri za'ra õ di
+
+vocês não roubaram eles não roubaram
+
+Sub-classe Id Regra: 1. O marcador de classe ma- ocorre em toda la e 3a pessoa, aparecendo -simi- em toda 2a
+pessoa do positivo.
+
+2. Há perda de sílaba final do tema em posição final de locução verbal:
+
+wa sô mapa
+
+espero por ele (o espero)
+
+te sô asimipa
+
+você o espera
+
+te sô mapa
+
+ele o espera
+
+wa sô mapari ni te sô asimipari 'wa te sô mapari zahuré
+
+nós dois o esperamos vocês dois o esperam eles dois o esperam
+
+wa sô mapari za'ra ni te sô asimipari za'ra wa'wa te sô mapari za'ra
+
+nós o esperamos vocês o esperam eles o esperam
+
+wa tô mazazâ ma tô asimizazâ ma tô mazazâ
+wa tô mazahâri ni
+
+parei você parou ele parou
+nós dois paramos
+
+ma tô asimizahâri 'wa ma tô mazahâri zahuré
+wa tô mazahâri za'ra ni
+
+vocês dois pararam eles dois pararam
+nós paramos
+
+ma tô asimizahâri za'ra wa'wa ma tô mazahâri za'ra
+
+vocês pararam eles pararam
+
+Nas formas negativas e dependentes, os marcadores de classe são -nhimi- (toda 1a pessoa) e -simi(toda 2a e 3a pessoa):
+
+æænhimizazâri õ di
+
+não parei
+
+asimizazâri õ di
+
+você não parou
+
+simizazâri o di
+
+ele não parou
+
+wanhimizahâri õ di asimizahâri aba õ di simizahâri zahuré õ di
+
+nós dois não paramos vocês dois não pararam eles dois não pararam
+
+wanhimizahâri za'ra õ di asimizahâri za' ra wa'aba õ di simizahâri za'ra õ di
+
+todos nós não paramos vocês todos não pararam eles não pararam
+
+Note-se que tanto na forma positiva quanto na negativa, o h (mazahâri) torna-se z no singular.
+
+EXERCÍCIOS
+Usando os verbos aprendidos nesta lição e a anterior, formule várias conversas simples. Empregue o maior número possível de construções verbais. Verifique sempre os resultados com alguém que fala xavante como língua materna.
+
+Aibâ te nhono, abazipara wa. Hâiwahâ te nhono. Æ'ra zama, te nhono, waptâ. 'Ri para, te tinhotõ zahuré. Sõtõ zahuré ré, pi'õ te romhu. Rowi te romhu.
+nhono ~ sõtõ ~ nhotõ (Ie) utu (Ie) wa'utu (Ie) si'madâ'â (reflex.) si'upsõi (reflex.) si'uza (reflex.) si'ubu (reflex.) si'apito (reflex.) siwasu'u (reflex.) rob'madâ'âzé da'uza abazipara wa
+
+LIÇÃO
+21
+NARRATIVA O homem está dormindo na rede. Ele está dormindo de tarde. O filho dele dorme também, na esteira. Ambos estão dormindo na casa. Enquanto eles dormem, a mulher trabalha. Ela está trabalhando lá fora.
+VOCABULÁRIO dormir levantar-se descansar olhar-se lavar-se vestir-se agasalhar-se tornar-se chefe falar de si mesmo espelho roupa da gente na rede
+
+waptâ 'ri para rowi barana abzuma zama ré
+
+esteira na casa lá fora de noite ao meio-dia também enquanto (relacionante dependente). V. nota na Parte 2, C, 8 sobre significado e uso.
+
+Sub-classe Ie
+
+GRAMÁTICA VERBOS DA CLASSE I - INTRANSITIVOS cont.
+
+Regra: 1. Na sub-classe Ie, os marcadores de classe wa- (1a pessoa dual e plural) e ti- (3a pessoa dual e plural) aparecem prefixados ao tema verbal na forma positiva.
+
+2. Alguns verbos perdem a sílaba final do seu tema em posição final de locução verbal, ao passo que outros sofrem perda desta sílaba somente na 2a pessoa do singular:
+
+wa za nhono
+
+vou dormir
+
+te za asõ
+
+você vai dormir
+
+te za nhono
+
+ele vai dormir
+
+wa za wanhotõ ni te za asõtõ 'wa te za tinhotõ zahuré
+
+nós dois vamos dormir vocês dois vão dormir eles dois vão dormir
+
+wa za wanhotõ za'ra ni te za asõtõ za'ra wa'wa te za tinhotõ za'ra
+
+nós vamos dormir vocês vão dormir eles vão dormir
+
+wa za udu te za ai'u te za udu
+wa za wa'utu ni te za ai'utu 'wa te za ti'utu zahuré
+
+eu me levantarei você se levantará ele se levantará
+nós dois nos levantaremos vocês dois se levantarão eles dois se levantarão
+
+wa za wa'utu za'ra ni te za ai'utu za'ra wa'wa te za ti'utu za'ra
+
+nós nos levantaremos vocês se levantarão eles se levantarão
+
+Ambos verbos perdem uma sílaba somente na 2a pessoa do singular. Veja bem as diferenças de tema nas formas singular e não singular dos dois verbos, bem como a alteração no tema da 2a pessoa (sing. e
+não sing.) do verbo 'dormir'.
+
+Nas formas negativas e dependentes não há marcadores de classe:
+
+æænhotõ õ di
+
+não estou dormindo
+
+asõtõ õ di
+
+você não está dormindo
+
+sõtõ õ di
+
+ele não está dormindo
+
+wanhotõ õ di asõtõ aba õ di sõtõ zahuré õ di
+
+nós dois não estamos dormindo vocês dois não estão dormindo eles dois não estão dormindo
+
+wanhotõ za'ra õ di asõtõ za'ra wa'aba õ di sõtõ za'ra õ di
+ææ'utu õ di ai'utu õ di utu õ di
+
+nós não estamos dormindo vocês não estão dormindo eles não estão dormindo
+não me levantei você não se levantou ele não se levantou
+
+wa'utu õ di ai'utu aba õ di utu zahuré õ di
+
+nós dois não nos levantamos vocês dois não se levantaram eles dois não se levantaram
+
+wa'utu za'ra õ di
+
+nós não nos levantamos
+
+ai'utu za'ra wa'aba õ di
+
+vocês não se levantaram
+
+utu za'ra õ di
+
+eles não se levantaram
+
+Outros exémplos de verbos da subclasse Ie aparecem na Parte 2.
+
+Verbos reflexivos 1. O tema de um verbo reflexivo é substantivo ou tema de verbo transitivo.
+
+2. Este tema é prefixado por si- 'reflexivo' em toda pessoa e forma do verbo.
+
+3. Os prefixos marcadores de pessoa que ocorrem com as formas negativas e dependentes de verbos intransitivos aparecem também nas formas positivas, negativas e dependentes dos verbos reflexivos:
+
+Estude os seguintes paradigmas do verbo 'olhar-se' nas formas positivas e negativas:
+
+wa ææsi'madâ
+
+ææsi'madâ'â õ di
+
+te asi'madâ
+
+asi'madâ'â õ di
+
+te si'madâ
+
+si'madâ'â õ di
+
+wa wasi'madâ'â ni te asi'madâ'â 'wa te si'madâ'â zahuré wa wasi'madâ'â za'ra ni te asi'madâ'â za'ra wa'wa te si'madâ'â za'ra
+
+wasi'madâ'â õ di asi'madâ'â aba õ di si'madâ'â zahuré õ di wasi'madâ'â za'ra õ di asi'madâ'â za'ra wa'aba õ di si'madâ'â za'ra õ di
+
+FORMAS IMPERATIVAS DE VERBOS INTRANSITIVOS
+Os verbos intransitivos que perdem uma sílaba em posição final de locução (V. regras das sub-classes Ia, Id e Ie) formam o imperativo da seguinte maneira:
+
+Asõtõ.
+
+Durma!
+
+Asõtõ aba.
+
+Durmam! (vocês 2)
+
+Asõtõ za'ra wa'aba.
+
+Durmam! (vocês todos)
+
+Ææzô asimipari. Ææzô asimipari aba. Ææzô asimipari za'ra wa'aba.
+
+Espere-me! Esperem-me! (vocês 2) Esperem-me! (vocês todos)
+
+Note-se a vogal longa do singular.
+
+Os verbos intransitivos sem perda de sílaba em posição final de locução (Ib e Ic) formam o imperativo da seguinte maneira:
+
+Asipi na.
+
+Cozinhe!
+
+Asipi wa'aba.
+
+Cozinhem! (vocês 2)
+
+Asipi za'ra wa'aba.
+
+Cozinhem! (vocês todos)
+
+V. a revisão dos imperativos negativos na Lição 8.
+EXERCÍCIOS Formule outras conversas simples à base dos verbos introduzidos nesta lição. Utilize o maior número de verbos possível, entre eles os imperativos afirmativo e negativo.
+
+LIÇÃO
+22
+
+— E 'wa te te æ'manharæ, si'õno hã.
+
+CONVERSA Por quem foi feito o cesto?
+
+— Te æ'manharæ.
+
+Foi feito por mim.
+
+— E 'wa te te æ'manharæ, wetenhamri hã.
+
+Por quem foi feita a esteira?
+
+— Ææmro te te æ'manharæ.
+
+Foi feita por meu marido.
+
+— E zahadu wisi õ di.
+— Æhe. Zahadu wisi õ di. Aibâ, zara u æsi'aba'ré hã, zahadu sihutu õ di.
+
+Ele não voltou ainda?
+Sim. Ele não voltou ainda. Os homens que atravessaram o rio ainda não voltaram.
+
+zara u zahadu wisi õ di sihutu õ di
+
+VOCABULÁRIO através do rio ainda, mais tarde ele não voltou eles não voltaram
+
+GRAMÁTICA ORAÇÕES RELATIVAS Tais orações modificam substantivos. Podem também aparecer isoladamente em resposta à perguntas. Orações relativas transitivas
+
+São identificadas por: 1. o pronome relativo æ- prefixado ao tema verbal transitivo integral. 2. os mesmos marcadores de pessoa que ocorrem com verbos transitivos em orações dependentes.
+
+Estude o paradigma seguinte: Te æ'manharæ, si'õno hã.
+Æ'manharæ, si'õno hã. Te te æ'manharæ, si'õno hã.
+Wa te æ'manharæ, si'õno hã. Æ'manharæ 'wa, si'õno hã.
+Te te æ'manharæ zahuré, si'õno hã.
+Wa te æ'manharæ za'ra, si'õno hã. Æ'manharæ za'ra wa 'wa, si'õno hã.
+Te te æ'manharæ za'ra, si'õno hã.
+
+Foi feito por mim, isto é, o cesto. Foi feito por você, isto é, o cesto. Foi feito por ele, isto é, o cesto.
+Foi feito por nós dois, isto é, o cesto. Foi feito por vocês dois, isto é, o cesto. Foi feito por eles dois, isto é, o cesto.
+Foi feito por nós, isto é, o cesto. Foi feito por vocês, isto é, o cesto. Foi feito por eles, isto é, o cesto.
+
+Notas: 1. Com verbos da classe IIb a vogal da penúltima sílaba do tema verbal se prolonga em posição final da locução.
+2. No plural acima, za'ra pode pluralizar o sujeito, o objeto ou ambos i.e., 'foi feito por nós todos...' ou 'foram feitos por nós todos...' ou 'foram feitos por nós dois...'
+Orações relativas intransitivas
+
+São identificadas por: 1. o pronome relativo æ- prefixado ao tema verbal intransitivo integral.
+
+2. seu uso restrito somente à 3a pessoa.
+
+Estude os seguintes exemplos: Aibâ, Cuiabá u æmoræ hã, zahadu we wisi õ di. Aibâ, Batovi u æwara hã, zahadu we wisi õ di.
+
+O homem que foi a Cuiabá, ainda não voltou. O homem que cavalgou até ao Batovi, ainda não voltou.
+
+Aibâ æwaptã hã, ma tô séptârâ. Aibâ æmoræ õ hã, te te romhuri õ di.
+
+O homem que caiu, ficou bom. O homem que não anda, não trabalha.
+
+Note-se que na oração relativa negativa não aparece di.
+
+CONJUNÇÕES SUBORDINATIVAS wa e te
+Estas duas conjunções significam 'porque'. Te é usado após modificadores de sensibilidade e emoção, e wa com outros modificadores e com verbos.
+
+Exemplos de 'te'
+
+'Rubu te, te tiwawa.
+
+Por estar com sede, ele está chorando.
+
+Mrap te, te tiwawa. Sahi te, we moræ õ di.
+
+Por estar com fome, ele está chorando. Por estar zangado, ele não vêm aqui.
+
+No negativo, te é substituido por wa: 'Rubu õ wa, wawai õ di.
+Exemplos de 'wa' Sõpru wa, ma tô tãma tisõ. Siptete wa, ma tô tidu. Moræ wa, ma tô sabu. Moræ õ wa, te te sabui õ di.
+
+Ele não está chorando porque não está com sede.
+Por ser generoso, ele o deu a ele. Por ser forte, ele o carregou. Por ter ido, ele o viu. Por não ter ido, ele não o viu.
+
+EXERCÍCIOS Escreva um exercício completo à base do seguinte modelo:
+A esteira foi feita por você?
+Sim, foi feito por mim.
+Usando os padrões dos exemplos de orações relativas intransitivas, formule outros exemplos, afirmativos e negativos. Utilize o maior número de verbos possíveis, verificando todos os exercícios com alguém que fala Xavante como língua materna.
+
+LIÇÃO
+23
+
+ASPECTO
+Esta última lição trata o importante assunto do aspecto na língua xavante. Desta vez não há conversação, vocabulário nem exercícios, pois são apresentados diversos paradigmas e exemplos por toda a lição à maneira de elucidação das diversas facetas do aspecto. Nas Partes 1 e 2 da lição serão analisadas respectivamente duas categorias de palavras aspectuais.
+Parte 1
+Marcadores de pessoa/aspecto
+Uma das categorias aspectuais abrange os marcadores de pessoa/aspecto wa/ma tô, wa/te, wa/te za, wa/ma e #/ma te, dos quais os primeiros três foram introduzidos nas primeiras lições desta Gramática. Daqui em diante, a forma não-la pessoa dos marcadores de pessoa/aspecto (p. ex., ma tô, te, etc.) será usada nas descrições, incorporando-se nos exemplos as formas da primeira pessoa.
+
+Uso de 'ma tô'
+Este marcador de pessoa/aspecto se refere a ação completa, indicando, portanto, algum acontecimento passado, seja este imediato ou remoto:
+
+1. Ahâmhâ ma tô mo, buru u. 2. Duréihã wa tô ææhâzé.
+
+Ontem ele foi à roça. Eu estive doente há muito tempo.
+
+Uso de 'te za' e 'te'
+Embora os Xavante possuam conceito de eventos passados (completos), presentes e futuros, não existem séries de marcadores que indiquem exclusivamente tempo passado, presente e futuro dos verbos. Enfoca-se a relação entre uma e outra ação antes que a categoria temporal de cada uma delas. O marcador de futuro za é usado, por exemplo, com referência a algo que irá acontecer amanhã, na semana que vem, etc., mas é usado também na narração de acontecimentos passados com referência às ações ainda por acontecerem dentro do contexto narrativo:
+
+1. Awå te za we wara, hâiwi hã.
+2. Kuluene ãma hã ma tô sada'ré te te 're u'åtå za'ra, wana noræ hã.
+Wesu na ma tô te te 're ubu za'ra.
+
+Amanhã o avião vai chegar.
+No Kuluene sempre faziam pão, isto é, nossas mães.
+Em folhas fortes o embrulhavam.
+
+Tawamhã te za pizari za'ra, sebre pese da. Tawamhã te za oto sani za'ra.
+
+Depois o viravam, para melhor cozinhá-lo. Depois, o retiravam.
+
+O trecho acima citado é tirado de uma narrativa sobre o antigo preparo do pão pelas mães xavante. Mostra como o marcador de futuro za é usado com referência a próxima ação no processo de cozinhar o pão, mesmo que a narrativa inteira se realize no contexto do passado.
+
+Da mesma maneira, não existe marcador que indique simplesmente tempo presente. Te é usado com referência a ações atuais, por exemplo, mas serve também para contar acontecimentos já passados que conforme os critérios do narrador, se relacionam estreitamente no tempo ou no contexto:
+
+1. E momo te aimo.
+
+Aonde você vai?
+
+Buru u wa mo. 2. Tahawa ææmama ma tô mo.
+
+Vou à roça. E assim meu pai morreu (lit. 'foi').
+
+Tâibâ oto. Æsisanawã noræ te sô ti'ry'ry.
+
+Terminado agora (morto o pai). Os parentes dele o lamentaram.
+
+(Trecho de uma narrativa.)
+
+Uso de 'ma'
+Ma marca resultado lógico ou esperado, a consequência infalível ou normal de alguma causa. Tal causa pode ser declarada no texto, ou simplesmente subentendida pelos ouvintes:
+
+— Ma'ãpé sô asõpré wa'aba, 'ri dawa u.
+
+Vá busca-la (lagartixa) dentro da casa!
+
+Tawamhã te sô tinhopré, te te sima 'ru za'ra wa.
+
+Depois disso a buscaram, pois se animaram uns aos outros.
+
+Tawamhã ma siwi tisã, apa hã. (Trecho de uma narrativa.)
+
+Depois disso, pois, a descobriram, isto é, a lagartixa.
+
+Uso de 'ma te'
+Ma te também indica resultado, mas de natureza menos certa ou obrigatória. A causa pode ser declarada ou não (por ser subentendida pelos ouvintes). Tal causa pode não ser especificada também
+
+por ser ignorada do narrador, mas o simples fato de empregar-se ma te já é indício da pressuposição de alguma causa:
+
+Toptâ, wahi ma te tisa.
+
+Uma cobra mordeu Toptâ.
+
+Ma te te paihi dupto.
+
+O braço dela inchou. (significado de te te dado na Parte 2)
+
+Nharinhare te sô mo, te te wa'ré da tiwi.
+
+Ela foi por Nharinha, para que lhe pusesse uma injeção contra (o veneno).
+
+Ma te paihi wasisi. Ætsé ma te tiwi ãma sõ'rã.
+
+Ela amarrou o braço.
+Ela fez uma barreira (torniquete) lá contra o veneno.
+
+(Trecho de uma narrativa.)
+
+Veja o contraste entre ma (na segunda sentença), indicando o resultado normal e lógico de mordida de cobra, e ma te (nas sentenças 4 e 5), indicando resultado muito menos certo ou obrigatório. O uso de ma te na primeira sentença mostra a existência de um motivo para o fato da cobra morder Toptâ, embora não seja explícito ainda. Mais adiante, a narrativa indica que Toptâ andava apanhando mangas de um monte no chão na ocasião de ser mordida pela cobra.
+
+Parte 2 A segunda categoria de aspecto abrange os marcadores que mostram classe de ação:
+(1) ação repetida, (2) ação contínua, e (3) ação não cumprida. Tais marcadores funcionam na qualidade de modificadores do verbo dentro de uma oração.
+
+1. Aspecto de ação repetida Nasi é usado com verbos transitivos e intransitivos para expressar ação repetida:
+
+wa nasi ropta'a te nasi æropta'a
+
+eu bato constantemente você bate constantemente
+
+te nasi ropta'a etc.
+
+ele bate constantemente
+
+wa nasi ne te nasi ane
+
+eu vou constantemente você vai constantemente
+
+te nasi ne
+
+ele vai constantemente
+
+wa nasi wanem ni etc.
+
+nós dois vamos constantemente
+
+Note-se que, quando nasi é usado com verbos de tema múltiplo, a forma dual do tema verbal ocorre no singular.
+
+Nasi é empregado também com os aspectos passado/realizado e futuro:
+
+Wa tô nasi ne.
+
+Eu ia constantemente.
+
+Wa za nasi ne. etc.
+
+Irei constantemente.
+
+Não aparecem exemplos de nasi com os marcadores de resultado lógico ma ou te.
+
+Note-se a ordem das palavras quando nasi ocorre em orações negativas ou dependentes:
+
+Nasi ææneb õ di.
+
+Não vou constantemente.
+
+Nasi te te ropta'a wamhã...
+
+Quando ele bate constantemente.....
+
+2. Aspecto de ação contínua
+A ação contínua na língua xavante abrange ações de duração variada. A seguir se vêem possíveis distinções a respeito de sua extensão: Ação habitual ou de duração indefinida, em contraste com ação de tempo limitado. A ação habitual ou de duração indefinida é marcada, em verbos transitivos, por te te 're ... mo/mono, e a de tempo limitado por te te ... mo/mono. Tais distinções (com exceção dos verbos de tema múltiplo) não são marcadas gramaticalmente no caso de todos verbos intransitivos, os quais aparecem já providos do marcador aspectual de ação contínua 're ... mo/mono; podem fazer-se, contudo, certas distinções acerca da duração de determinada ação na base do significado do verbo empregado. Um verbo do tipo de 'gritar' (apavorado), por exemplo, pode indicar um grito espontâneo e curto em determinado momento, ou pode igualmente significar o hábito que uma pessoa tem de gritar sempre que tem medo.
+
+No caso dos verbos intransitivos de tema múltiplo, a ação habitual ou de duração indefinida diferençiase da ação de tempo limitado, mediante, uso do tema verbal duplo em vez do singular com as formas singulares do verbo.
+
+Paradigmas e exemplos
+
+Verbos transitivos
+
+A ação habitual ou de duração indefinida
+
+B ação de tempo limitado
+
+wa te 're romhuri te 're æromhuri mo
+
+te te te 're romhuri
+
+wa wa te 're romhuri
+
+te
+
+'re æromhuri aba mo
+
+te te te 're romhuri zahuré etc. wa te 're romhuri wa tô te 're romhuri wa za te 're romhuri
+
+..sempre trabalhando
+sempre trabalho eu sempre trabalhava vou sempre trabalhar
+
+wa te te wå'å te æwå'åi mo te te te wå'å wa wa te wå'å te æwå'åi wa'aba
+mo te te te wå'å zahuré
+wa te te wå'å wa tô te wå'å wa za te wå'å
+
+te 're romhuri mono õ di
+
+nem sempre eu trabalho(ava)
+
+te wå'åi mono õ di
+
+…quebrando pedaços
+estou quebrando pedaços eu quebrava pedaços estarei quebrando pedaços eu não quebrava pedaços
+
+Note-se em B que o marcador de ação contínua te te ocorre com a 1a pessoa do singular somente no caso de ação 'presente.'
+
+…sempre cozinhar wa 're æænhipi te 're asipi mo te 're sipi wa 're wanhipi te 're asipi wa'aba mo te 're sipi zahuré etc.
+
+Verbos intransitivos
+
+wa tô 're æænhipi wa za 're æænhipi 're æænhipi mono õ di
+
+eu cozinhava sempre vou sempre cozinhar eu nem sempre cozinhava
+
+Note-se o uso do tema verbal integral em todas as formas, bem como o uso de mo em posição final de oração na segunda pessoa. Nas orações negativas e dependentes a forma completa mono ocorre após o tema verbal em toda pessoa do verbo.
+
+3. Aspecto de ação não cumprida
+Este aspecto emprega o marcador aré em companhia dos marcadores de pessoa/aspecto. Há três usos principais do aspecto de ação não cumprida na língua xavante:
+
+a. em oração independente, com o sentido de 'quase':
+
+Wa aré dârâ. Wa aré tæwæ.
+
+Quase morri. Quase o matei.
+
+b. em oração independente seguida de oração dependente, com sentido de 'em vão':
+
+Wa aré we mo, te asabu da.
+
+Vim ver você em vão.
+
+c. em oração independente após oração dependente com o sentido do tempo condicional do verbo em português:
+
+We moræ wamhã, te aré satõ.
+
+Se ele viesse, ele o mandaria embora.
+
+Sabo 'wa'âhã, wa aré hâ upsõ.
+
+Se tivesse sabão, eu teria lavado as roupas.
+
+Te po'o 'wa'âhã, wa aré ææsiwasu'u.
+
+Se eu o tivesse quebrado, teria confessado.
+
+Note-se que aré usado em companhia do relacionante dependente 'wa'âhã possui significado 'passado', ao passo que ganha em companhia do relacionante dependente wamhã significado 'futuro'.
+
+PARTE 2
+
+A. DIVERSOS PONTOS GRAMATICAIS
+
+1. Mudanças de estado ou ser
+
+A seguinte série de marcadores pronominais (sublinhados), mais si- 'reflexivo', é prefixada a temas nominativos para indicar mudança de estado ou ser.
+
+wa tô ææsi'apito
+
+eu me tornei chefe
+
+ma tô asi'apito
+
+você se tornou chefe
+
+ma tô si'apito
+
+ele se tornou chefe
+
+wa tô wasi'apito ni ma tô asi'apito wa'wa ma tô si'apito zahuré
+
+nós dois nos tornamos chefes vocês dois se tornaram chefes eles dois se tornaram chefes
+
+wa tô wasi'apito za'ra ni ma tô asi'apito za'ra wa'wa ma tô si'apito za'ra
+
+nós nos tornamos chefes vocês se tornaram chefes eles se tornaram chefes
+
+(a) wa tô ææwa'ru ma tô aiwa'ru ma tô tiwa'ru
+
+2. Mudanças de condição
+fiquei alto você ficou alto ele ficou alto
+
+wa tô wawa'ru ni ma tô aiwa'rui wa'wa ma tô tiwa'ru zahuré
+wa tô wawa'ru za'ra ni ma tô aiwa'ru za'ra wa'wa ma tô tiwa'ru za'ra
+(b) wa tô ææ'ubu a ma tô ai'ubu a ma tô ti'ubu a etc. ma tô tihâiwa pe
+
+nós dois ficamos altos vocês dois ficaram altos eles dois ficaram altos
+nós ficamos altos vocês ficaram altos eles ficaram altos
+fiquei de cara branca você ficou de cara branca ele ficou de cara branca o céu clareou (se desanuviou)
+
+3. Verbos compostos
+
+Compostos são aquelas construções verbais em que se empregam dois temas, o segundo deles em função de auxiliar. O tema integral ocorre com ambos verbos, mas os marcadores de pessoa aparecem somente com o primeiro (ou principal). Tais construções se usam quase sempre na forma negativa:
+
+ææmoræ waihu'u õ di
+
+não posso ir
+
+te romhuri waihu'u õ di
+
+não posso trabalhar
+
+4. Verbos complexos
+
+Verbos complexos são aquelas construções verbais em que se emprega um substantivo, mais tema verbal transitivo. O substantivo mais verbo funciona como uma só unidade, prefixando-se, portanto, o marcador da 2a pessoa ao substantivo e não ao verbo. Este obedece as regras da classe a que pertence. Tais construções podem ser empregadas nas formas positivas e negativas:
+
+ma tô æsadawa zama
+
+você seguiu as instruções dele
+
+sadawa zamaræ õ di
+
+você não seguiu as palavras/ instruções dele
+
+5. Jussivo
+Este termo se usa para designar o imperativo da 1a ou 3a pessoa, em contraste com o da 2a pessoa, o qual é mais comum na língua xavante. O jussivo é usado com verbos transitivos e intransitivos:
+
+te hâ'råne te te hâ'råne
+
+Transitivos que eu o beba (intenção enfática)
+que ele o beba
+
+wa te hâ'råne te te hâ'råne zahuré
+
+que nós dois o bebamos que eles dois o bebam
+
+wa te hâ'råne za'ra te te hâ'råne za'ra
+
+que nós o bebamos que eles o bebam
+
+ææwatobro watobro(re) wapusi
+
+Intransitivos que eu saia que ele saia que nós dois saiamos
+
+putsi wawairébé wairébé
+
+que eles dois saiam que nós saiamos que eles saiam
+
+Nota 1. Comparem-se estas formas jussivas com aquelas das orações dependentes e negativas. A única diferença é a ausência do relacionante dependente ou do negativo mais di.
+2. Mesmo nas formas singulares do jussivo, é curta a penúltima vogal.
+3. Na 3a pessoa do singular, o diminutivo -re é acrescentado às vezes ao tema verbal.
+
+6. Imperativo inclusivo
+O imperativo inclusivo é uma forma que implica também naquele que fala. Ocorre em verbos transitivos e intransitivos e emprega (1) os marcadores de 1a pessoa como nas construções dependentes e negativas (indicando inclusão de quem fala), e (2) os marcadores da 2a pessoa do singular, dual e plural, como nas formas regulares do imperativo (indicando as pessoas a quem se fala). (V. as regras do imperativo nas Lições 8 e 21.) Note-se que com verbos intransitivos de tema múltiplo, somente os temas verbais do dual e do plural são empregados no imperativo inclusivo. A seguir se vêem exemplos das formas inclusivas:
+
+wa te romhuri
+
+Vamos trabalhar! (trabalhemos você e eu!)
+
+wa te romhuri aba
+
+Vamos trabalhar! (trabalhemos vocês dois e eu!)
+
+wa te romhuri za'ra wa'aba
+
+Vamos todos trabalhar! (trabalhemos vocês todos e eu!)
+
+wanhipi na
+
+Vamos cozinhar!
+
+wanhipi wa'aba
+
+Vamos cozinhar!
+
+wanhipi za'ra wa'aba
+
+Vamos todos cozinhar!
+
+wane na wasi'aba'réi wa'aba
+
+Vamos embora! Vamos todos embora!
+
+7. Notas sobre objetos indiretos e pós-posicionais
+
+(a) com verbos transitivos
+Na Lição 15 são esclarecidos os usos mais comuns de pós-posicionais com objetos diretos. Além disso, o elemento causativo é expressado através do uso do objeto indireto com verbos transitivos:
+
+Te za tãma waihu'u. Te za ææma uprosi, romhuri hã.
+
+Ele o fará saber a ele. (lit. Ele saberá a ele/fará com que ele saiba.)
+Ele me fará terminar o trabalho. (lit. Ele terminará o trabalho a mim.)
+
+Wa za aima sabu.
+
+Eu o mostrarei a você. (lit. Eu verei a você/farei com que você veja.)
+
+(b) com verbos intransitivos
+Quando o objeto indireto ocorre com verbos intransitivos, os marcadores de dual e plural (que seguem ao tema verbal) podem relacionar-se com o sujeito, o objeto indireto ou ambos (como no caso de verbos transitivos), conforme o contexto:
+
+Te za tãma api zahuré.
+
+Eles dois vão cozinhar para ele. ou
+Ela vai cozinhar para os dois. ou
+Eles dois vão cozinhar para os dois.
+
+Com verbos de tema múltiplo, o número do sujeito é indicado pelo tema. Para dualizar ou pluralizar o objeto indireto, empregam-se os marcadores de dual e plural após o tema verbal completo. Os marcadores de pessoa (sujeito) apropriados ocorrem também prefixados ao tema completo. Note-se que em tais construções o prefixo ti- é o marcador de 3a pessoa:
+
+Wa za atåme mo.
+
+Irei a você.
+
+Wa za atåme ææmoræ 'wa.
+
+Irei a vocês dois.
+
+Wa za atåme ææmoræ za'ra wa'wa.
+
+Irei a vocês.
+
+Te za ætåme mo.
+
+Ele irá a ele.
+
+Te za ætåme timoræ zahuré.
+
+Ele irá aos dois.
+
+Te za ætåme timoræ za'ra.
+
+Ele irá a eles.
+
+8. Comparação
+
+Expressam-se da seguinte maneira as comparações entre estados ou condições de pessoas ou coisas:
+
+Ææma asyryre di.
+
+Você é menor que eu. (lit. a mim, você é pequeno)
+
+Tãma ææsyryre di.
+
+Eu sou menor que ele. (lit. a ele, eu sou pequeno)
+
+Aima wa'ru ti.
+
+Ele é mais alto que você. (lit. a você, ele é alto)
+
+9. Uso de na Conforme o contexto, na possui os significados seguintes:
+
+(a) mediante, por meio de, com, em, de
+
+Sib'ézém na, te hâiwazu.
+
+Ele o corta com uma faca.
+
+Bâdâdi na, te wara.
+
+Ele está correndo na vereda/pista.
+
+Wede na, ma waptãrã.
+
+Ele caiu da árvore.
+
+(b) sobre, acerca de, a respeito de Asimiromhuri na, wa za asadanha. Ææmoræ na, dama ææwasu'u wa'aba tõ za.
+
+Vou perguntar-lhe acerca do seu trabalho. Não fale às pessoas sobre minha partida.
+
+(c) quantidade Syry na, ææma sõmri. Da'ahâ na, te we ai'aba'ré.
+
+Dê-me um pouco. Muitas pessoas vêm.
+
+(d) é usado também com nomes Sabadu na, wa za mo. Babati na, æsisi hã.
+
+Vou no sábado. O nome dela é Babati.
+
+B. EXPRESSÕES ÚTEIS
+
+1. Aprendizagem da língua
+
+Aimreme waptui wamhã, te waihu'u õ di.
+
+Quando você fala depressa eu não entendo.
+
+Atamare ææma nharæ.
+
+Fale devagar.
+
+Ma'apé duré, ææma nharæ, te waihu'u da.
+
+Fale de novo, para eu aprender.
+
+Ãne ææma aimreme wamhã, e niha wa za aima tinha Quando você me diz isso (lit. quando suas
+
+asa.
+
+palavras a mim são assim), como devo
+
+responder?
+
+E niha te za ææzadanha.
+
+Como é que você me pergunta? (para obter a forma da 2a pessoa do verbo)
+
+Para averiguar o significado de novos verbos ou contextos, utilize perguntas dos tipos seguintes. Se, por exemplo, você acaba de ouvir o verbo ma tô pré'é, estas perguntas devem servir para fazer sair à tona algum significado do verbo que pode ser posteriormente verificado com outras pessoas:
+
+E maræ da, ma tô pré'é.
+
+Com que propósito ele fez pré'é?
+
+E maræ zô, ma tô pré'é.
+
+Por que ele fez pré'é?
+
+E maræ na, ma tô pré'é.
+
+Com que ele fez pré'é?
+
+E mame, ma tô pré'é.
+
+Onde é que ele fez pré'é?
+
+E niwa, ma to pré'é.
+
+Quando é que ele fez pré'é?
+
+Te te pré'é wamhã, e niha.
+
+Quando ele fez pré'é, como é que fez?
+
+Note-se que para utilizar a fala feminina, deve-se substituir a palavra maræ por tiha nos exemplos acima referidos.
+
+ti'ai wå ti'ai wasétére popanone hâtâra hâtâra 'rãpo Te za wazâ. Te za a're. Te za sapo'o.
+Te za tita. Te za suzâ. Te za 'mata. Te za simizu hâ. Te za pré'é. Te za ti'å. Te za tisu.
+Te za tinha.
+Te za upsõ.
+
+2. Termos referentes a trabalho
+(a) Agricultura terra boa terra ruim foice machado enxada Ele vai capinar. Ele vai plantar. Ele vai tirar/arrancar (mandioca, etc.) do chão. Ele vai colhê-lo. Ele vai cortá-lo (cacho de bananas). Ele vai cortar (cana de açúcar). Ele vai quebrar os talos. Ele vai debulhá-lo (arroz). Ele vai quebrá-la (espiga). Ele vai queimar a terra.
+(b) Geral
+Ele vai tecer (esteira). Ela vai tecer (cesto). Ela vai lavar roupa.
+
+Te za azapu'u. Te za sõ'u. U te za a'â. Te za hâ're. Te za hâibabaræ. Te za sa'ra, zazahâ hã. Te za hâsu'u. Te za 'ri.
+
+Ele vai furar miçangas. Ele vai enfiar miçangas. Ela vai carregar água. Ela vai costurar roupas. Ela vai remendar roupas. Ela vai estender roupas. Ela vai passar as roupas. Ele vai construir uma casa.
+
+3. Termos referentes a tratamento médico
+
+E niwa, ma aihâzé na'ra.
+
+Quando foi que sua doença começou?
+
+E niwa, ma tihâzé na'rata. E maræ æhâzé hã, ai'ra hã.
+
+Quando foi que a doença dele começou? Qual é a doença do seu filho?
+
+E mame te ãma sépu. Æ'uburõ te ãma toto.
+
+Onde lhe dói? (a ele/ela) O furúnculo dele está latejando.
+
+sãna u ti
+
+diarréia
+
+sãna wapru ti
+
+sangue nas fezes
+
+sãna 'ré di
+
+prisão de ventre
+
+ai'uté nhanarãpré æséi wapru æsé tédé
+
+vermes sangue na urina urina escassa
+
+æbutu zapu æ'uzapu
+
+pescoço duro colo duro
+
+sõ're 'ré zé di æ'a æwai'i æ'wazé ætopti æ'upsé æwai'u usi æ'wa're æwasudu æsadai'ré wapru danhirobo æwa'ré wa'ro di hâ di Ma tiwi tidupto. Ma simizu wå'å. Da'a'a wede u, wa we mo. Datõmo nhihâzéb u, wa we mo. Da'u'rézéb u, wa we mo. dawede 'wa
+
+garganta seca tosse soluço dor de dente terçol coceira inseto/bicho enterrado furúnculo ferida externa falta de fôlego, respiração difícil sangue na urina muco, resfriado dor interna quente, com febre frio Ficou inchado. Ele quebrou o osso do pulso. Vim por remédio para tosse. Vim por remédio para os olhos. Vim por ungüento. médico, enfermeira
+
+dawedezé
+wedenhi Sõmri. U'ré na.
+
+clínica
+remédio Engula! Passe!
+
+æ'rã æséré æsaihâ æpo're æbudu æsõ'udu æba æpå æsiri æte æza æpano æsimizu æsipo æhâ æpa æsé're æbâ æwasã
+
+C. VOCABULÁRIO
+1. Partes do corpo cabeça (dele) cabelo boca orelha, ouvido pescoço peito ombro, costas abdômen, barriga coração canela coxa braço punho unha mama, pele fígado bexiga pênis feto
+
+æwapru æsé æsu æhi æhâiba æto æsisi're æ'wa æwada æsisé æwaihi æwã ædu æna're æ'u æpara æpara dub'rã æpara hi æsib'rada æsipto æsiptõmo hi æsipo
+
+sangue urina suor osso corpo olho nariz dente queixo ombro costela cadeira intestinos traseiro nádega, anca pé dedo do pé osso do dedo do pé mão dedo osso do dedo unha do dedo
+
+æhânhibudu æpawapu æ'razé æ're æsãnahi æ'a'awai'o æsãna æpå'åzani
+æhi'rada æ'rada æmama æna ædub'rada
+æno
+æhidiba æhitébré æmama amo æmama wapté
+
+mamilo, bico pulmão útero vagina, ânus umbigo muco, catarro fezes, intestinos fôlego
+2. Termos de parentesco antepassados (dele), avô/avó falecido/a avô/avó pai mãe ærmão mais velho (de homem), irmã mais velha (de mulher) irmão caçula (de homem), irmã caçula (de mulher) irmã de homem irmão de mulher tio paterno tio materno
+
+ætebe æna wapté æmro æ'ra
+æsihudu
+æmaprewa æsa'õmo
+æsani'wa
+æsidaimama æ'ãrewa æsidana æ'ra wapté
+æsiniwæ si'ré'wa
+
+tia paterna
+tia materna
+marido, esposa
+filho/filha sobrinho/sobrinha (filho/a do irmão do hom.)
+neto/neta sobrinho/sobrinha (filho/a do irmão da mulher)
+sogro/sogra
+genro cunhado (marido da irmã do homem)
+nora cunhada (de mulher)
+cunhado (de mulher)
+cunhado (irmão da esposa do homem)
+cunhada (de homem)
+sobrinho/sobrinha (filho/a da irmã do homem ou da mulher)
+membro da mesma metade tribal
+membro da outra metade tribal
+
+Nota 1 - Primos: Os filhos do tio (ou tia) paterno de uma pessoa são chamados pelo mesmo termo de parentesco reservado para os irmãos desta (ædub'rada, etc.). Os filhos do tio (ou tia) materno de uma pessoa são reconhecidos como membros da outra metade tribal (si'ré'wa).
+Nota 2 - Metades tribais: O marido ou esposa de uma pessoa é sempre membro da outra metade da tribo. Os filhos são automaticamente membros da metade tribal a que pertence o pai deles.
+
+ai'utépré aibâ 'rare 'watébrémi ai'repudu 'ritéi'wa aibâ a'raté ai'uté pi'õ 'rare ba'õno azarudu adaba pi'õ
+
+3. Fases de desenvolvimento nenê recém-nascido criança (masculina) menino moço (adolescente) rapaz (iniciado) homem mãe pela primeira vez criança criança (feminina) menina moça (adolescente) moça (casada mas sem filhos) mulher
+
+4. Sistema de faixa etária
+Segundo a tradição xavante, os meninos de 4-14 anos de idade passam vários meses no alojamento dos solteiros, onde recebem instruções apropriadas dos homens da tribo. Todos aqueles que ingressam juntos são reconhecidos como membros da mesma faixa etária. As meninas de idade correspondente recebem a mesma designação de grupo que os meninos. Todo membro da tribo xavante pertence a um de oito grupos cronológicos e retém durante a vida inteira o nome do seu grupo. Cada cinco anos (aproximadamente) se realiza a cerimônia de iniciação num grupo. As instruções competentes são dadas pelos homens que pertencem ao grupo dois graus além do dos instruídos, existindo portanto uma relação especial entre os membros destes dois grupos. A idade de um Xavante pode ser calculada, grosso modo, à base da faixa etária a que ele pertence. (O ano de iniciação e os nomes dos respectivos grupos não coincidem, porém, em todos as aldeias xavante.) Quando o ciclo se completa, voltando ao nome do grupo inicial, a pessoa que pertence a este acrescenta ao seu nome grupal 'rada 'velho':
+
+åtåpab 'rada. O diagrama na página 195 mostra os nomes e a ordem das séries ou faixas etárias no sentido do movimento dos ponteiros do relógio:
+
+ai'rere palmeira
+
+hâtârã peixe
+
+Faixas Etárias
+tirowa carrapato
+
+åtåpa pedra
+
+abare'u pequi
+
+sada'ro sol bem quente
+
+nozâ'u milho
+
+anarowa fezes
+
+As outras pessoas que pertencem à mesma faixa etária são chamadas por um wasi'usu membro deste de:
+
+As pessoas que pertencem à faixa etária um grau acima são chamadas de: wahi'wa
+
+Os membros da faixa etária dois graus acima são chamados de:
+
+wanhohui'wa
+
+Os membros da faixa etária um grau abaixo são chamadas de:
+
+sinho'ra
+
+Os membros da faixa etária dois graus abaixo são chamados de:
+
+wanhimnhohu
+
+5. Comidas e animais comuns
+
+(a) Comida
+
+dasa
+
+comida de gente
+
+mra
+
+comida
+
+romnhi abaze nhi aihâ nhi utâ nhi powawå hâiwa'u uhi upa upazé mo'õni aro uzâne uzapo ub'rézeire ropæ pi'u pæ tiri pa'o mama buze wede'rã'uzé a'odo
+
+carne carne de caça carne de veado campeiro carne de anta leite feijão mandioca mandioca-brava cará arroz abóbora moranga melancia mel mel de abelha piu semente de palmeira banana mamão cana de açúcar frutas cítricas bocaiúva
+
+abare sé sada'ré wa'rupré nozâ
+aihâ uhâ uhâre ma'u si'a uhâbâ pozé pone uhâdâ padi patire u'ã wãrãhâbâ 'rure 'rawa powawå
+
+pequi palmito bolo milho milho
+(b) animais veado campeiro queixada caititu pato frango porco cervo veado mateiro anta tamanduá tamanduazinho jabuti tatu ratinho paca vaca
+
+pone'årebâ awaru wapsã wapsã tetere 'ro'ora 'ro'ore 'rubâ 'rupo'rere tebe pe'a pezapodo pehâire pe'a wa'wa aihâi'ré mohõni piro pidu da'u ubu zâmhupré
+
+ovelha cavalo cachorro gato bugio macaco (pequeno) rato coelho peixe peixe pacu matrinchão lambari piranha jacaré abelha borboleta mutuca piolho mosca formiga
+
+watasé ti'a wapsã'u ma wa'ritire sõté 'rada waihârâ 'rånhipré si'u wahi ap'é sizâ uibroi'wa
+
+mosquito carrapato pulga ema seriema arara arara vermelha papagaio periquito gavião cobra venenosa cobra inofensiva jibóia víbora
+
+6. Estativos
+Os estativos marcados de * são aqueles que não levam prefixo marcador de pessoa. (V. Lição 9.) Os estativos marcados de ** são aqueles que apresentam te 'porque'. Os demais apresentam wa. (V. Lição 22.)
+
+*
+
+a di
+
+*
+
+aptâ'â di
+
+branco cansado, com sono
+
+** hâtâ'â di
+
+ansioso
+
+* ** hâ di
+
+frio
+
+** hâzé di
+
+mreme pese di
+
+*
+
+pré di
+
+*
+
+pré ro'o di
+
+** pahi di
+
+rã di rætæ pese di
+
+*
+
+romhâ di
+
+*
+
+robzei õre di
+
+*
+
+ãwa ti
+
+hâ'â di
+
+hâi pese di
+
+* ** mram di
+
+** pipa di
+
+*
+
+pa di
+
+** på'åzé di
+
+*
+
+ra di
+
+* ** rowå di
+
+*
+
+romhuture di
+
+'rãdâ'â di
+
+'ré di
+
+*
+
+'rutu di
+
+doente tagarela vermelho rubro assustado, com medo limpo, branco pasmado distante infeliz deprimido, sombreado mal-humorado, escandalizado gordo faminto, com fome assustador, alarmante longo, comprido triste preto bom (inanimado) perto escuro seco curto
+
+*
+
+'rãi pese di
+
+*
+
+su'u di
+
+sib'uware di
+
+sõti di
+
+syryre di
+
+sapore di
+
+sahi ti
+
+** sawi di
+
+*
+
+sé di
+
+*
+
+tô ti
+
+*
+
+uzé ti
+
+wairob di
+
+wa'ru ti ** wå di
+
+** wa'a di
+
+* ** 'rubu di
+
+** 'ru ti
+
+'ro ti siptete di sõprub di
+
+cheio de frutas liso, macio fraco (animado) mesquinho pequeno baixo (altura) zangado amado, querido doloroso abafado, indistinto azul, verde solto alto bom preguiçoso sedento, com sede zangado, desejoso (conforme o contexto) podre forte generoso
+
+** siséb di sa'åtå di simi'å ti
+
+siti'ru ti
+
+* ** se ti
+
+*
+
+tete di
+
+to ti
+
+*
+
+uware di
+
+wa'ro di
+
+waihu'u pese di
+
+wasété di
+
+*
+
+wapti'i di
+
+'rowi 'rata nhisiwi/æsisiwi wa 're wa'wa nhiti/siti zarina
+
+embaraçado, tímido, acanhado grande aplicado, diligente zangado, mal-humorado delicioso, saboroso firme, justo feliz, contente fraco (inanimado) quente poderoso, sábio mau, feio, ruim molhado, úmido
+7. Locacionais embaixo de, debaixo (de), por baixo (de) perto (de) acima (de), por cima (de) em dentro (de) no meio (de) longe (de) atrás (de)
+
+nho'a nhowa ãme tame e mame e mahãta e momo õme ãma u
+
+na presença (de) diante, na frente (de) aqui lá, ali onde? (com verbos) onde? (com substantivos) aonde? (com verbos de movimento) lá, para lá em a, para
+
+ré
+sina
+hâ newa zô
+
+8. Relacionantes dependentes Usado com relação a (a) duas ou mais ações realizadas ao mesmo tempo por agentes diversos
+(b) duas ou mais ações realizadas ao mesmo tempo pelo mesmo agente
+dever, para poder
+indicador de eventos irrealizados
+para saber (descobrir)
+
+Moræ ré, wa to tisã. Ba'õno moræ ré, ma tô tina tisã. Moræ sina, te tiwawa. Oto wane na, æænhipi hâ. Moræ newa, te nhamra. We moræ zô, wa asadanha.
+
+Exemplos: Quando ele estava caminhando, eu o vi. Na ida a menina viu a sua mãe. Indo, ela chorava. Vamos agora para eu poder cozinhar. Parecia que ele tinha ido, (mas) ele está aqui. Estou perguntando para saber se ele já veio.
+
+9. Pós-posicionais verbais
+
+neza
+
+desejo
+
+'ruza
+
+promissório
+
+bâ
+
+obrigação ou dever não cumprido
+
+ate
+
+desejo irrealizado
+
+Te 'manharæ neza. Te te âri su'u bâ. Oro ææma sõmri 'ruza.
+Ææmoræ ate.
+si'a hârâ wi mararé abzuma hâiwahâ barana mara wa'wa ã bâtâ na ahâmhâ ahâmhâ amoi wa ahâmhâ amo na awå awå amo na romhuri amo na wahub 'rata wahub amo na
+
+Exemplos Quero fazê-lo. Ele não o apanhou logo (mas devia). (Por que) você não o deu a mim conforme sua promessa? Eu quis ir (mas não pude).
+10. Horas e épocas ao amanhecer, na madrugada madrugada meio-dia tarde noite meia-noite hoje (neste dia) ontem ante ontem ante ontem amanhã depois de amanhã evêm, semana passada ano passado (última época da seca) ano que vm
+
+a'åta'a wi tã pæni wa'wa ãhãna nimosi oto
+awa'awi aré apâsi a'â duréihã apto'oré (æ)wana (æ)sa'u
+misi maparane si'ubdatõ danhiptõmo bâ daparahi bâ
+
+no início da época das chuvas no meio da época das chuvas agora agorinha (há pouco) daqui em adiante (não usado isoladamente, usa-se sempre numa locução ou sentença) imediatamente anteriormente posteriormente, depois, mais tarde por enquanto há muito tempo daqui a muito tempo antes (dele) depois (dele)
+11. Numerais um/uma dois/duas (como os pés da ema) três dez (todos os dedos da mão) vinte (todos os dedos do pé)
+
+Os números empregados no sistema numérico xavante são: 1, 2, 3, 10, 20. Os números pares maiores que 2 são chamados mro pâ 'com esposa'. O conceito de 4 pode expressar-se como maparane si'uiwa
+
+na 'dois com suas esposas' ou mro pâ 'com esposa'; o segundo termo não especifica o número de pares, indicando somente que se trata de um número par.
+Os números ímpares acima de 1 são chamados æmro tõ 'aquele que perdeu a esposa'. O conceito de 3 pode expressar-se como si'ubdatõ 'três' ou æmro tõ 'aquele que perdeu a esposa'; o segundo termo não especifica número, indicando somente que se trata de um número ímpar.
+
+pra pe u u (com intonação subindo) té ma ma me ã ni'ã tô'ã oro mere zapre sipi tui a'âza âza
+
+12. Interjeições expressão de surpresa (masculina) expressão de surpresa (feminina) resposta quando alguém lhe chama o nome resposta à informação incrível exclamação de desprezo ou repugnância forma resumida de 'não' (mare di 'não') concordância simpatizante com quem fala negação de conhecimento (quem sabe? sei lá!) Tome aí! (dando uma coisa a outra pessoa) Olhe! Cuidado! Chega! Deixe disso! Basta! indica admiração e censura contradição expressão de surpresa, ligeira repreensão surpresa pela rapidez da realização concordância com uma ordem ou pedido recusa de uma ordem ou pedido
+
+ma'ãpé mo oto
+
+favor, (imperativo ligeiro) Vá!
+
+D. QUADROS VERBAIS
+
+Verbos de tema múltiplo - verbos transitivos
+Apresentam-se no seguinte quadro os verbos transitivos de tema múltiplo. É variável o tema, de acordo com o número (singular, dual, plural) do objeto da ação:
+
+si'õno ma tô ti'â
+
+ele levou o cesto
+
+si'õno ma tô timra si'õno ma tô waibu
+
+ele levou dois cestos ele levou vários cestos
+
+Em toda pessoa do singular, dual e plural, os verbos são regulares, seguindo as regras da classe verbal (indicada entre parênteses) a que pertencem. Note-se que muitos são verbos do grupo ti.
+
+Objeto singular
+
+Objeto dual
+
+Objeto Plural
+
+(ti) hiri (ti) sãræ
+
+(IIb) (ti) nomri (IIb) sa'ra
+
+(IIa)
+
+(IIb)
+
+simizusi (IIa) sa'ra
+
+(IIa)
+
+colocar, deixar colocar em pé
+
+(ti) âri
+
+(IIb) (ti) mrami (IIb) waibui (IIa)
+
+levar, apanhar
+
+(ti) mei (ti) sårå (ti) tari (ti) wæræ
+
+(IIa)
+
+wabzuri (IIb) sãmra (IIa)
+
+(IIb) (ti) zai (IIb) (ti) ræ (IIb) (ti) pãræ
+
+(IIa) séme (IIb) (IIa) sinaræ (IIb) (IIb) simro (IIa)
+
+jogar, atirar meter, colocar dentro colher matar
+
+(ti) duri (ti) 'råne
+
+(IIb)
+
+'wapéi (IIa) 'wasari (IIb)
+
+(IIb) (ti) si
+
+(IIa) huri
+
+(IIb)
+
+levar, carregar comer
+
+azâri (IIb) 'wanherå (IIa)
+
+ahâri (IIb) hâ
+
+(IIa)
+
+'waza (IIa) suwa (IIb)
+
+bater, golpear cozinhar em brasas
+
+Verbos de tema múltiplo - - verbos intransitivos
+O seguinte quadro apresenta os temas dos verbos intransitivos de tema múltiplo. É variável o tema, de acordo com o número (singular, dual, plural) do sujeito da ação. Já que o verbo 'ir/andar' foi apresentado plenamente nas primeiras lições desta Gramática, é omitido dos paradigmas completos que seguem ao quadro.
+
+Sujeito singular moræ wara
+
+Sujeito dual neb asamroi
+
+Sujeito Plural ai'aba'ré sisa're
+
+ir correr
+
+zab ~ sab
+
+aima'wara
+
+aimasam
+
+ficar em pé, de pé
+
+nhamra ~ sãmra
+
+aimasisi
+
+asimroi/ubumro
+
+sentar-se, ficar
+
+ãzé
+
+zasi ~ ãza
+
+asisi
+
+entrar
+
+watobro
+
+pusi
+
+wairébé
+
+sair, emergir
+
+nomro
+
+da'wa ou za'wari
+
+daba'wara
+
+deitar-se
+
+wisi
+
+aimasisi
+
+aihutu
+
+chegar
+
+waptãrã
+
+waptãrã
+
+rere'e
+
+cair, nascer
+
+correr wa wara te aiwa te wara
+wa asamro ni te asamroi wa'wa te asamro
+wa wasisa're te asa'rei wa'aba mo te sisa're
+ficar em pé wa za te asa te za
+wa aima'wara ni te aima'wara 'wa te aima'wa
+wa aimasam ni
+
+Paradigmas
+ææwara õ di aiwara õ di wara õ di
+wasisamroi õ di asamroi wa'aba õ di sisamroi zahuré õ di
+wasisa'rei mono õ di asa'rei wa'aba mono õ di sisa'rei mono õ di
+ææzab õ di asab õ di sab õ di
+wasima'wara õ di aima'wara aba õ di sima'wara õ di
+wasimasab õ di
+
+te aimasa wa'wa te aimasa sentar-se wa nhamra te asã te nhamra
+wa aimasisi ni te aimasisi 'wa te aimasisi zahuré
+wa asimro ni te asimroi wa'wa te asimro
+entrar wa tô ãzé ma tô asé ma tô ãzé
+wa tô wazasi ni ma tô azasi 'wa ma tô ãza/tizasi zahuré
+
+aimasa wa'aba õ di simasab õ di
+æænhamra õ di asãmra õ di samra õ di
+wasimasisi õ di aimasisi aba õ di simasisi zahuré õ di
+wasisimroi õ di asimroi wa'aba õ di sisimro õ di
+ææzébré õ di asébré õ di sébré õ di
+wazasi õ di azasi aba õ di zasi õ di
+
+wa tô asisi ni ma tô asisi 'wa ma tô asisi
+emergir, sair wa tô watobro ma tô aiwato ma tô watobro
+wa tô wapusi ni ma tô aipusi 'wa ma tô tipusi zahuré
+wa tô wawairébé ni ma tô aiwairébé 'wa ma tô wairé
+deitar-se wa nomro te ano te nomro
+wa waza'wari ni te asa'wari 'wa te da'wa
+
+wanhisisi õ di asisisi aba õ di sisisi õ di
+ææwatobro õ di aiwatobro õ di watobro õ di
+wapusi õ di aipusi aba õ di pusi zahuré õ di
+wawairébé õ di aiwairébé aba õ di wairébé õ di
+æænomro õ di anomro õ di nomro õ di
+waza'wari õ di asa'wari aba õ di sa'wari õ di
+
+wa daba'wara ni te asimi'wara 'wa te daba'wara
+chegar wa tô wi ma tô aiwi ma tô wi
+wa tô aimasisi ni ma tô aimasisi 'wa ma tô aimasisi zahuré
+wa tô aihutu ni ma tô aihutu 'wa ma tô aihutu
+cair, nascer wa tô waptãrã ma tô aiwaptã ma tô waptãrã
+wa tô waptã'ã ni ma tô aiwaptã'ã 'wa
+
+wanhimi'wara õ di asimi'wara aba õ di simi'wara õ di
+ææwisi õ di aiwisi õ di wisi õ di
+wasimasisi õ di aimasisi aba õ di simasisi zahuré õ di
+wasihutu õ di aihutu aba õ di sihutu õ di
+ææwaptã'ã õ di aiwaptã'ã õ di waptã'ã õ di
+wawaptã'ã õ di aiwaptã'ã aba õ di
+
+ma tô tiwaptã'ã zahuré
+
+waptã'ã zahuré õ di
+
+wa tô warere'e ni ma tô airere'e 'wa ma tô rere
+
+warere'e õ di airere'e aba õ di rere'e õ di
+
+Outros exemplos de verbos intransitivos da Classe Ie
+
+estar suspenso, pender
+
+wa da'o
+
+ææza'o õ di
+
+te asa'o
+
+asa'o õ di
+
+te da'o
+
+sa'o õ di
+
+wa waza'o ni te asa'o wa'wa te tiza'o zahuré
+
+waza'o õ di asa'o wa'aba õ di sa'o zahuré õ di
+
+wa amnhatã ni te amnhatã 'wa te amnhatã
+
+wanhimnhatã õ di asimnhatã õ di simnhatã õ di
+
+cagar, defecar wa tô sasuru ma tô asasu
+
+ææzasu'u õ di asasu'u õ di
+
+ma tô sasuru
+wa tô wazasu'u ni ma tô asasu'u 'wa ma tô sasu'u zahuré
+wa tô wazasu'u za'ra ni ma tô asasu'u za'ra wa'wa ma tô sasu'u za'ra morrer, desmaiar wa tô dârâ ma tô atâ ma tô dârâ
+wa tô wadâ'â ni ma tô atâ'â 'wa ma tô tidâ'â zahuré
+wa tô wadâ'â za'ra ni ma tô atâ'â za'ra wa'wa ma tô tidâ'â za'ra
+vomitar wa so'oro ma aso'o
+
+sasu'u õ di
+wazasu'u õ di asasu'u aba õ di sasu'u zahuré õ di
+wazasu'u za'ra õ di asasu'u za'ra wa'aba õ di sasu'u za'ra õ di
+æædâ'â õ di atâ'â õ di dâ'â õ di
+wadâ'â õ di atâ'â aba õ di dâ'â zahuré õ di
+wadâ'â za'ra õ di atâ'â za'ra wa'aba õ di dâ'â za'ra õ di
+æænho'o'o õ di aso'o'o õ di
+
+ma so'oro
+wa wanho'o'o ni ma aso'o'o 'wa ma tinho'o'o zahuré
+wa wanho'o'o za'ra ni ma aso'o'o za'ra wa'wa ma tinho'o'o za'ra
+
+so'o'o õ di
+wanho'o'o õ di aso'o'o aba õ di so'o'o zahuré õ di
+wanho'o'o za'ra õ di aso'o'o za'ra wa'aba õ di so'o'o za'ra õ di
+
+GLOSSÁRIO
+Estativo Palavra que descreve um estado ou condição.
+
+Locução
+
+Em Xavante, uma só palavra ou sequência da palavras que funciona como uma unidae gramatical.
+
+Locução
+
+upa
+
+mandioca
+
+upa zô
+
+por mandioca
+
+wa sabu ni
+
+nós dois vemos
+
+upa wa sabu ni
+
+Duas locuções nós dois vemos a mandioca
+
+Possessão alienável Usado com referência a objetos possuídos facultativamente:
+
+'ri æænhib'ri
+
+casa minha casa
+
+Predicado A parte da sentença que contém a ação e que, portanto, modifica o sujeito.
+
+Relacionante dependente Palavra que vincula uma oração dependente à oração principal de uma sentença.
+
+Núcleo ou parte essencial de uma palavra.
+
+Tema
+
+~ Usa-se este símbolo entre formas alternativas de uma palavra ou suas partes. A escolha de uma ou outra variante depende do prefixo marcador de pessoa com que ocorre.
+
+

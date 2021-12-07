@@ -1,0 +1,3477 @@
+ROGÉRIO VICENTE FERREIRA
+LÍNGUA MATIS: ASPECTOS DESCRITIVOS DA MORFOSSINTAXE
+Dissertação apresentada ao Departamento de Lingüística do Instituto de Estudos da Linguagem da Universidade Estadual de Campinas como Requisito parcial para obtenção do título de Mestre em Lingüística. Orientador: Prof. Dr. Angel H. Corbera
+UNICAMP - IEL Campinas - 2001
+
+2
+
+FICHA CATALOGRÁFICA ELABORADA PELA BIBLIOTECA IEL - UNICAMP
+
+F413L
+
+Ferreira, Rogério Vicente Língua Matis: aspectos descritivos da mofossintaxe / Rogério Vicente Ferreira. - - Campinas, SP: [s.n.], 2001.
+Orientador: Angel H. Corbera Mori Dissertação (mestrado) - Universidade Estadual de Campinas, Instituto de Estudos da Linguagem.
+1. Língua Matis. 2. Língua indígena - Morfologia. 3. Língua indígena - Sintaxe. 4. Língua indígena - Pano. I. Corbera Mori, Angel H. II. Universidade Estadual de Campinas. Instituto de Estudos da Linguagem. III. Título.
+
+3 BANCA EXAMINADORA
+________________________________________________________________ Prof. Dr. Angel H. Corbera Mori - orientador ________________________________________________________________ Profa. Dr a. Lucy Seki ________________________________________________________________ Profa. Dr a. Marília Faco Soares ________________________________________________________________ Prof. Dr. Wilmar d’Angelis
+Campinas, 02 de março de 2001.
+
+4
+
+5
+AGRADECIMENTOS Agradeço primeiramente a Deus, por toda saúde e ânimo dispensados a mim para poder realizar este trabalho. Agradeço ao professor Waldemar Netto pelo incentivo e por toda a oportunidade que me deu durante a graduação, fator que contribuiu para o desenvolvimento dessa pesquisa. Sou grato à minha família, em especial, à minha esposa e filho. À minha esposa pois, nos momentos difíceis, esteve sempre ao meu lado, e ao meu filho que, mesmo sem poder entender, deu-me forças para continuar e mostrou-me que “tudo vale a pena se a alma não é pequena”. Agradeço aos meus professores do IEL. Por meio de seus cursos pude compreender melhor esse mundo lingüístico. Também agradeço, em particular, à profa. Lucy Seki, que aconselhou-me e ajudou-me em vários momentos. Agradeço aos professores Dra. Lucy Seki, Dra. Charlotte, Dra. Marília Facó e Dr. Wilmar D’Angelis, examinadores das bancas de qualificação e defesa, que dispensaram valiosa leitura e contribuição à esta dissertação. Ao Prof. Dr. Angel H. C. Mori tenho mais que agradecimentos a fazer, pois teve paciência e dedicação ao me orientar. Agradeço pelos seus conselhos e, acima de tudo, por acreditar no meu trabalho. Também sou grato pela amizade que durante esse período demonstrou à minha pessoa. Agradeço à FUNAI de Atalaia do Norte que me recebeu e colaborou, na medida do possível, com meu trabalho. Em particular, ao chefe de posto Lucinho, que me recebeu em sua casa e me levou todas as vezes, sem exitar, à aldeia Matis. Pela sua ajuda como intérprete nas duas primeiras viagens aos Matis.
+
+6
+
+7
+À CAPES (Coordenadoria de Aperfeiçoamento ao Pessoal de Ensino Superior) sou grato pela bolsa de estudo, pois sem ela não teria sido possível realizar esta pesquisa. E, finalmente, sou grato ao povo Matis, que me recebeu em suas casas, me ensinando sua língua. Em particular, gostaria de agradecer ao Binan e ao Ivan, os quais me ajudaram imensamente, mesmo sem entender o significado do meu trabalho. Sua colaboração e ensino me ajudaram a compreender um pouco a língua Matis, sendo que hoje posso dizer: bˆda kimo dadenpa nukun bˆrakit ‘Muito obrigado, meus amigos’.
+
+8
+
+9
+SUMÁRIO
+INTRODUÇÃO ......................................................................................................... 19 I FAMÍLIA, POVO E LÍNGUA MATIS ............................................................................. 25
+1.1 FAMÍLIA PANO................................................................................................... 1 1.1 FAMÍLIA PANO................................................................................................. 27 1.2 POVO MATIS .................................................................................................... 28 1.3 LÍNGUA MATIS................................................................................................. 30 II UM QUADRO GERAL DA FONOLOGIA DA LÍNGUA MATIS........................................... 33 III CLASSES GRAMATICAIS EM MATIS ......................................................................... 39 3.1.1 CLASSES ABERTAS........................................................................................ 41 3.1.1.1 NOMES....................................................................................................... 41 3.1.1.2 VERBOS ..................................................................................................... 60
+3.1.1.2.1 Tempo.......................................................................................... 60 A) Tempo Passado................................................................................ 60 B) Tempo Não-Passado ....................................................................... 62
+3.1.1.2.2 Aspecto ....................................................................................... 63 3.1.1.2.3 Modo............................................................................................ 67 3.1.1.2.4 Derivação Verbal........................................................................ 74 3.1.1.2.5 Interrogação ................................................................................ 77 3.1.1.3 ADJETIVO................................................................................................... 79 3.1.1.3.3 Reduplicação dos Adjetivos ........................................................ 83 3.1.1.3.4 Sufixo {-kit} ................................................................................ 84 3.1.1.3.5 O adjetivo numa construção sintática.......................................... 85
+3.1.3.5.1 Adjetivos em função predicativa ........................................... 86 3.1.1.4 ADVÉRBIO ................................................................................................. 87
+3.1.1.4.1 Advérbios de Tempo ................................................................... 88 3.1.1.4.2 Advérbios de Lugar ..................................................................... 89 3.1.1.4.3 Advérbios de Modo ..................................................................... 89 3.1.1.4.4 Advérbios de Intensidade ............................................................ 90
+
+10
+
+11
+3.1.2 CLASSES FECHADAS ..................................................................................... 91 3.1.2.1 PRONOMES ................................................................................................ 91
+3.1.2.1.1 Pronomes Demonstrativos........................................................... 95 3.1.2.1.2 Pronomes Reflexivos................................................................... 97
+3.1.2.1.3 Pronomes Possessivos ........................................................... 98 3.1.2.1.4 Pronomes Interrogativos...................................................... 101 3.1.2.2 Numerais....................................................................................... 107 3.1.2.3 Quantificadores............................................................................. 108 IV CONSIDERAÇÕES SOBRE A SENTENÇA E A MARCAÇÃO DO CASO ERGATIVO............... 111 4.1 Ordem básica da língua Matis ...................................................................... 113 4.1.1 A Ordem dos constituintes na sentença ..................................................... 115 4.2 Marcação do caso ergativo ........................................................................... 118 4.2.1 Os alomorfes do morfema de ergatividade................................ 119 4.2.2 Sistema Pronominal cindido ...................................................................... 121 4.2.3 Classes de verbos e seu efeito sobre o caso ergativo................................ 122 4.2.4 Valência verbal como determinante da marcação do caso ergativo 126 4.2.5 Distribuição da marca de caso ergativo no sintagma nominal .................. 127 CONCLUSÃO ......................................................................................................... 131 REFERÊNCIAS BIBLIOGRÁFICAS ...................................................................... 164
+
+12
+
+13
+RESUMO
+Esta dissertação apresenta uma descrição morfossintática da Língua Matis, pertencente à família Pano. O trabalho está dividido da seguinte forma: a) introdução, na qual apresentamos uma discussão sob a importância da pesquisa em línguas indígenas, como se iniciou o projeto em questão, o embasamento teórico utilizado, e informações sobre o povo e a língua Matis; b) nesta dissertação não nos detivemos na análise fonológica. Assim, decidimos apresentar os quadros fonológicos, baseando-nos no trabalho de Spanghero (2000); c) numa terceira parte de nosso trabalho descrevemos as classes de palavras em Matis. Os critérios utilizados para descrição das classes de palavras foram baseados nos propostos por Schachter (1985) e Givón (1984); d) na quarta parte apresentamos algumas considerações sobre a sintaxe, principalmente no que se refere à ordem dos constituintes. Tratamos também da marcação de caso ergativo, para tanto, utilizamos como fonte teórica o artigo de Dixon (1979).
+Ao passarmos por estas quatro partes podemos ter uma visão geral sobre a língua Matis, principalmente no que se refere à classe de palavras e à sintaxe.
+Palavras-Chave: Morfossintaxe, Línguas indígenas, Família Pano e Língua Matis.
+
+14
+
+15
+ABREVIAÇÕES, SIGLAS E SÍMBOLOS
+1. ................................primeira pessoa 2..............................segunda pessoa 3..............................terceira pessoa abl. .............................ablativo abs..............................absolutivo aprox. .........................aproximação ass. .............................assertivo ator .............................ator atrib............................ atributivo benef. .........................benefactivo caus. ...........................causativo cicl. ............................cíclico col. .............................coletivo com. ...........................comitativo cont. ...........................contável cop. ............................cópula des..............................desiderativo dim. ............................dimensão dir...............................direcional enf. .............................enfático ep.. .............................epentético erg. .............................ergativo freq.............................freqüentativo hab. ...........................habitual inc. .............................inconcluso im. ..............................imperfectivo imp. ............................imperativo instr. ...........................instrumental intens..........................intensificador qdd. ............................quantidade inter. ........................... interrogativo lit................................literalmente loc. .............................locativo mod. ..........................modo n.pass. ........................não-passado neg. ............................negação nzdor ..........................nominalizador part. ............................partícula pass. im. .....................passado imediato pass.rec ......................passado recente pass.rem. ....................passado remoto poss. ...........................possessivo O ................................objeto
+
+16
+
+17
+Qu-.............................partícula inter. recip. ..........................recípocro refl..............................reflexivo sw...............................switch-refence rel. ..............................relativo rest. . ..........................restritivo sg. ..............................singular temp. ..........................temporal vbzdor ........................verbalizador ? .................................não se sabe significado do morfema
+
+18
+
+19
+INTRODUÇÃO O estudo das línguas indígenas no Brasil vem ao encontro da necessidade do conhecimento e documentação das mesmas. No Brasil existem, aproximadamente, 180 línguas indígenas. Por um período de tempo os estudos destas línguas estiveram restritos aos missionários protestantes e católicos. Sabe-se que, atualmente, há um número considerável de pesquisadores de várias instituições acadêmicas trabalhando com as mais diversas famílias e troncos lingüísticos. Assim, os primeiros passos já foram dados e, segundo Seki (2000: 286), “a Lingüística Indígena experimentou um grande desenvolvimento no Brasil nos últimos 20 anos. Houve um aumento quantitativo e qualitativo na produção acadêmica relacionada às línguas indígenas e na formação de pesquisadores para o trabalho de investigação dessas línguas, e cresceu consideravelmente o número de línguas estudadas em maior ou menor grau.” No que se refere à questão indígena no Brasil, sabe-se que muito ainda está por ser feito. Porém, nas duas últimas décadas ela recebeu uma maior atenção, quer por parte do governo, quer por parte dos pesquisadores em geral, possivelmente pelo fato dos indígenas passarem a ter uma maior representabilidade no cenário nacional. Atualmente, a preocupação com a perda das línguas e das culturas indígenas, bem como a extinção de vários povos, trouxe ao meio acadêmico a responsabilidade em se “tentar preservar” o que ainda resta dos índios no território nacional.
+
+20
+Expor alguns aspectos da língua Matis, em forma de dissertação, foi dar o primeiro passo para conhecermos um pouco dessa língua. O desafio nunca é pequeno e nem simples, quer seja ele uma descrição ou uma discussão teórica qualquer. Ao estarmos defronte a indivíduos que possuem uma língua e cultura, percebemos que o desafio aumenta e ultrapassa as fronteiras da lingüística.
+Enfim, ao concluirmos essa dissertação, pudemos perceber que, além das descobertas que fizemos ao tentar entender a morfologia da língua, o importante, também, foi entender um pouco dos sentimentos, das lutas e dos desafios que o povo Matis tem em mãos.
+Objetivo O objetivo dessa dissertação é descrever aspectos da morfossintaxe da língua Matis.
+O estudo tem sua importância na medida em que notamos uma carência de estudos, no lado brasileiro, da família lingüística Pano. Hoje, encontramos algumas pesquisas sendo desenvolvidas dentro desta família, mas ainda há muito a ser realizado.
+O objetivo é explicar a organização e o funcionamento das formas lingüísticas da língua Matis, descobrindo e verificando o mecanismo que esta língua utiliza para funcionar como meio de comunicação entre os seus falantes.
+A ênfase desse trabalho é, antes de mais nada, tratar das classes de palavras e de como elas se agrupam para constituir unidades maiores. Assim, identificamos e descrevemos as unidades mórficas e estabelecemos as classes de palavras.
+Metodogia do trabalho de Campo A pesquisa de campo foi realizada com base em princípios descritos em obras como
+as de Samarin (1967) e de Kibrik (1977), dentre outros. A coleta de dados foi realizada
+
+21
+através de questionários previamente elaborados, tendo também como fonte de apoio o “guidelines” elaborado por Payne (1997).
+Os dados foram coletados em duas viagens, durante o período do mestrado. Para a coleta de dados utilizamos um gravador digital Sony e 5 mini disk de 75min. Visto que foram realizadas viagens anteriores ao programa de pós-graduação, o trabalho de campo realizado no período de 1998 a 2000 teve como objetivo específico confirmar dados anteriores, como também ampliá-los, utilizando a metodologia de trabalho de campo aprendida no curso ‘Metodologia de Trabalho de Campo’ (IEL, UNICAMP). Também serviram como fontes de consulta o artigo de Dixon (1979) sobre ergatividade, e os três volumes de Language typology and syntatic description (Shopen, 1985).
+Os dados coletados foram gravados e transcritos, permitindo-nos elaborar hipóteses e confirmá-las in loco. Tendo retornado à Campinas analisamos mais detalhadamente os dados, o que resultou em uma análise prévia da morfologia e, após elaborarmos novas hipóteses, tivemos um segundo encontro com o informante. Esta dissertação é, portanto, o resultado dessa investigação. No entanto, resta-nos muitas outras questões a serem resolvidas e muitas pesquisas de campo. Dessa forma, este trabalho é um primeiro passo para compreendermos o funcionamento da língua Matis.
+Metodologia Teórica Dado que nenhuma descrição pode ser feita sem que haja uma base teórica
+direcionando a análise, esta dissertação privilegia um determinado modelo teórico. Este modelo teórico norteará não somente a descrição a ser feita como também será o ponto de apoio para a interpretação e explanação dos dados.
+Há sempre teorias que tentam explicar os fenômenos lingüísticos, ou seja, há várias teorias lingüísticas que procuram dar conta dos problemas que as línguas do mundo
+
+22
+apresentam. Ressaltam-se duas correntes teóricas, a funcionalista e a formalista. De acordo com Croft (1991:17) é mais difícil avaliar metodologias diferentes que avaliar duas teorias que usam a mesma metodologia. Para esse autor, “two theories that are the same methodology essentially view the same facts in the same way and have the same sorts of explanatory goals in mind.”
+Para Foley & VanValin (1984), a diferença entre as duas correntes teóricas baseiase em dois pontos: a) de um ponto de vista formal “a language is a ‘set of structural descriptions of sentences, where a full structural description determines the sound and meaning of a linguistic expression” (Chomsky, 1977:81), dessa forma, ela se preocupa fundamentalmente com o conjunto de estruturas entre as quais podem ser estabelecidas relações regulares, como também, busca enfocar os traços universais da língua, em particular, a sintaxe, tendo como alicerce a organização em torno da sentença. Essa corrente teórica relaciona-se com a chamada Gramática Gerativa, que tem as suas origens nos trabalhos teóricos do lingüista americano Noam Chomsky; b) a outra corrente teórica, a funcional, inclui as áreas centrais como fonologia, morfologia, sintaxe e semântica dentro da análise em geral, levando em consideração o funcionamento da língua dentro de uma interação social.
+A análise do Matis seguirá a orientação funcionalista, considerando quatro pontos básicos: “(1) a system of verbal semantics and argument functions; (2) a morphosyntactic system; (3) a pragmatic system including notions such as illocutionary force, presupposition, topicality, and definiteness; an (4) a system of social norms governing different kinds of speech events and activities” (Foley & Van Valin, 1984:14).
+
+23 Para esse tipo de abordagem seguiremos essencialmente o marco teórico que aparece em trabalhos como os de Foley and Van Valin (1984), Comrie (1989), Dik (1978), Dixon (1994) e Givón (1984), autores considerados pela literatura como funcionalistas.
+
+24
+
+25
+I
+FAMÍLIA, POVO E LÍNGUA MATIS
+
+26
+
+27
+1.1 FAMÍLIA PANO
+A família lingüística Pano é constituída por vinte e oito línguas, cujos falantes habitam as regiões fronteiriças do Brasil, Peru e Bolívia. No Brasil os falantes de línguas dessa família estão concentrados nos estados do Amazonas e Acre. No Amazonas são faladas três línguas Pano: Matis, Matses (Mayoruna) e Marubo, enquanto que no Acre está concentrado o maior número de línguas desta família: Kaxinawá, Katukina, Shanenawá, Nukuiní, Poyanáwa, Jamináwa, e Yawanáwa.
+Diversos lingüistas vêm trabalhando com línguas Pano, e alguns deles têm produzido trabalhos relacionados com dissertações e teses como, por exemplo, Paula (1992) sobre a língua Poyanáwa, Aguiar (1988 e 1994) sobre a língua Katukina (Pano), Costa (1992 e 2000) sobre a língua Marubo, Camargo (1991) sobre a língua Caxinawa, Carvalho (1992) sobre a língua Matses, Cândido (1998) sobre a língua Shanenawá e Spanghero (2000) sobre a língua Matis. Além destes tipos de trabalhos encontramos artigos produzidos por esses pesquisadores, como também por outros, como é o caso de Loos (1999), Spanghero (1999), entre outros.
+Um fato que nos chama a atenção é que todos esses trabalhos são recentes, indicando que o estudo sobre as línguas desta família lingüística faladas no Brasil está despertando interesse entre os lingüistas.
+Trabalhos mais antigos sobre línguas Pano foram realizados no Peru e na Bolívia. Tais estudos focalizaram a questão histórico-comparativa, e foram realizados por membros do Instituto Linguístico de Verano (ILV), como Shell (1975) e Loos (1975), e por pesquisadores do Centro de Investigación de Lingüística Aplicada (CILA) da Universidade Mayor de San Marcos (cf. d'Ans, 1970, 1973).
+
+28 Em estudos sobre a classificação das línguas faladas na América do Sul, Greenberg (1987), d'Ans et alii (1973) e outros têm levantado a hipótese de um provável tronco PanoTakanâ1, hipótese que ainda precisa de maiores estudos.
+1.2 POVO MATIS
+A língua Matis é falada, aproximadamente, por 210 indivíduos (Ferreira, 1996)2. A área utilizada pelos Matis é uma faixa que se estende do médio Ituí, passando pelo alto Coari (afluente da margem direita do Ituí), no Vale do Javari (AM). O primeiro contato com a língua foi realizado em 1979, quando a lingüista Rute Wallace de Paula coletou uma lista de 300 palavras. Em seu relatório apresentado à FUNAI identificou a língua Matis como pertencente à família Pano, com base numa comparação com as línguas Marubo e Mayoruna.
+O nome ‘Matis’ ocorreu devido à história do contato, pois o povo se auto denominava [mates], que significa ‘gente’. Os funcionários da frente de contato compreendiam ‘Matis’ e, dessa forma, ficaram conhecidos como tais. Em nossas pesquisas de campo verificamos que a auto denominação é ‘dexan mirikibo’, ou seja, os Mirikibo da Cabeceira. O nome Matis, muitas vezes, traz confusão, pois são confundidos com os Mayorunas, que se auto-denominam ‘Matses’. Isto faz com que muitos pensem que são um só grupo. No entanto, discutir se os dois grupos foram um só grupo, ou se uma língua é dialeto da outra, já seria um tema para uma nova dissertação.
+Segundo o Centro Ecumênico de Documentação Indígena (CEDI, 1990), o povo Matis estava dividido em três pequenas aldeias. Contudo, em um levantamento realizado
+1 Pode-se encontrar trabalhos sobre o tronco Pano-Takana em Swadesh (1959) e Suarez (1988). 2 Levantamento feito in loco, durante o período de pesquisa no Museu Goeldi (1995-97).
+
+29
+por nós em 1999, encontramos um único agrupamento. Esta mudança se deu, principalmente, por incentivo da Fundação Nacional do Índio (FUNAI), pois com um único agrupamento tornar-se-ia mais viável o acompanhamento médico e o acesso até o grupo.
+Erikson (1994) relata que, até a década de 60, os Matis eram desconhecidos e confundidos com os Marubo, seus parentes. Em 1974, a FUNAI instalou um posto de atração no Rio Ituí. Durante dois anos os Matis apenas retiraram machados, espelhos e alimentos da casa isolada na floresta. Os primeiros contatos entre homens brancos e Matis ocorreram em 1976. Por volta de 1983, os sobreviventes do contato não passavam de 87 indivíduos, sendo que, anteriormente, estimava-se que o grupo fosse constituído por cerca de 280 pessoas. Esta brusca queda demográfica os afetou fortemente acarretando, por exemplo, a perda de alguns mitos, os quais eram contados somente pelos velhos, como também, uma forte desagregação de seus rituais, como o da “tatuagem”3.
+Os Matis ainda mantêm sua técnica agrícola, que consiste na derrubada da mata e limpeza do terreno a fogo. Produzem banana, mandioca, milho, abacaxi e outras colheitas tradicionais. Usam zarabatanas com quatro metros de comprimento para pequenas caças, como macacos e pássaros, e usam o arco e flecha para capturar outros animais de porte, como porcos do mato, por exemplo. Moram em duas grandes casas comunitárias, com teto de folhas de palmeira. Quanto ao sistema Matis de parentesco, os membros da sociedade se dividem em dois grupos de casamento (Erikson, 1991).
+Hoje o grupo está crescendo demograficamente devido aos cuidados médicos que lhes são dispensados. O contato dos índios com os não-indígenas é restrito, limitando-se, na aldeia, somente a pesquisadores e funcionários da FUNAI. São poucos homens que saem
+3 O ritual da tatuagem, no qual os jovens tatuam listas em seus rostos e fazem um desenho geométrico em seus braços, é feito no período da puberdade.
+
+30
+da aldeia até a cidade mais próxima, quando isso ocorre, normalmente é para realizar trocas comerciais. Com isso, no máximo quatro indivíduos se comunicam em português, podendo, dessa forma, serem os Matis caracterizados como um grupo monolíngüe.
+1.3 LÍNGUA MATIS
+Quanto aos trabalhos de pesquisa realizados sobre os Matis, até o momento, encontram-se os de antropologia, feitos por Philippe Erikson, que publicou vários artigos e dois livros sobre questões antropológicas. O seu trabalho de maior expressão trata da revitalização do ritual conhecido como "Mariwin". Durante o ritual, dois homens representam uma entidade, o Mariwin, a qual tem a incubência de aplicar castigos por meio de surras de varas. Outro ponto forte de sua pesquisa é o papel que a tatuagem representa dentro do contexto cultural Matis.
+Os trabalhos de lingüística vêm sendo realizados por Spanghero, e focalizam a fonologia da língua. A pesquisadora publicou alguns artigos e escreveu uma dissertação versando sobre a fonologia da língua, defendida em 2000, no Instituto de Estudos da Linguagem (UNICAMP).
+Encontramos, ainda, mais duas pesquisas que se referem ao povo Matis. A primeira é referente à biologia, desenvolvida por um pesquisador da Universidade do Amazonas, que investiga uma substância extraída de uma espécie de sapo, utilizada em um ritual de purificação. Nesse ritual, um indivíduo aplica a substância extraída do sapo no ante-braço, e esta lhe provoca vômitos incontroláveis. A segunda pesquisa, realizada por uma antropóloga americana, refere-se a um estudo comparativo com relação ao plantio dos povos de língua Pano, na qual o Matis está inserido.
+
+31
+MAPA
+Povo Matis
+
+32
+
+33
+II QUADRO GERAL DA FONOLOGIA DA LÍNGUA MATIS
+
+34
+
+35 A fonologia da língua Matis foi descrita por Spanghero (2000), em forma de dissertação de mestrado, apresentada na UNICAMP/IEL. Neste trabalho adotaremos alguns resultados apresentados pela autora, em relação à fonologia do Matis. Abaixo demonstramos os fonemas da língua. Consoantes: a língua Matis apresenta 13 fonemas consonantais, como podemos observar a seguir.
+2.1 Quadro de Fonemas Consonantais
+
+Modo/Ponto
+Oclusiva Nasal Africada Tepe
+Fricativa Aproximante
+
+Bilabial p b
+m
+
+Alveolar Pós-alveolar
+
+t d
+
+n
+
+ts
+
+tS
+
+Palatal
+
+Velar k
+
+s
+
+S
+
+w4
+
+j
+
+Em relação às vogais, a língua Matis apresenta 7 fonemas, apresentados no quadro abaixo:
+
+4 Os segmentos [w] e [j] foram considerados por Spanghero como fonemas /w/ e /j/ dentro de uma perspectiva linear. No entanto, quando tratado numa perspectiva não-linear, podem ser derivados a partir das vogais /u/ e /i/, respectivamente, sendo inerpretados como [w] e [j] de acordo a posição que ocupam na estrutura silábica da língua.
+
+36 2.2 Quadro de Fonemas Vocálicos
+
+Fechada Meio fechada Meio aberta Aberta
+
+Anterior i
+e
+
+Central ˆ
+
+Posterior u
+
+o ´
+
+a
+
+2.3 Estrutura Silábica
+Os padrões silábicos encontrados na língua Matis são V, VC, CV e CVC. Todos estes padrões ocorrem tanto na posição pré-tônica quando na tônica, sendo que o padrão mais recorrente é CV. O padrão V ocorre em início e final de palavra, e em monossílabos encontramos as seguintes ocorrências: /i/, /ˆ/ e /u/.
+
+Exemplos:
+
+V → /i/ ‘arraia’
+
+/ i.mu/ ‘verde’
+
+/u/
+
+‘lá’
+
+VC → /ak.tSun/ ‘espirro’
+
+CV → /wa.pa/ ‘cachorro’ CVC → /ma.tes/ ‘gente’
+As consoantes que ocupam o Ataque da sílaba são as obstruintes e as nasais. As que ocupam a Coda da sílaba são apenas as obstruintes /t, k, s, S/ e a nasal /n/. O núcleo silábico
+
+37 é ocupado pelas vogais apresentadas abaixo. Assim, o molde da estrutura silábica da língua é:
+Com relação à sílaba ainda temos as questões de silabificação e das seqüências ambivalentes, porém, não há razão para nos determos nelas. Este assunto foi abordado por Spanghero (2000) em sua dissertação de mestrado, no capítulo: “A estrutura silábica do Matis” (p.43-65).
+
+38
+
+39
+III CLASSES GRAMATICAIS EM MATIS
+
+40
+
+41
+3.1 ESTABELECIMENTO DAS CLASSES GRAMATICAIS Segundo Schachter, as palavras estão distribuídas em classes gramaticais. Assim,
+“all languages make a distinction between open and close parts-of-speech classes.” (1985:04).
+Segundo Seki (2000), ao estabelecer as classes de palavras necessita-se levar em consideração três pontos: a) “as classes de palavras não são um fim em si, mas um meio de operar a descrição; b) as classes não são estabelecidas a priori, ou separadamente da gramática da língua, mas através de um processo contínuo de idas e vindas do todo para as partes e destas para o todo; c) embora as classes sejam designadas como termos tradicionais, o estabelecimento das mesmas, bem como das subclasses envolvidas, não se faz com base em critérios nocionais nem em referência aos equivalentes mais próximos da língua intermediária, mas com base em critérios morfológicos, gramaticais e de outros níveis, relevados pelos fatos da própria língua” (p. 53). Os critérios apresentados acima, por Seki, são aqueles nos quais nos baseamos para definirmos as classes gramaticais na língua Matis. Estas classes serão caracterizadas tendo em vista elementos que façam parte de um inventário que pode ser tanto limitado quanto ilimitado. Trataremos primeiramente dos itens pertencentes às classes abertas, ou seja, nomes, verbos, adjetivos e advérbios. Com relação às classes fechadas serão considerados os pronomes, os numerais e os quantificadores.
+3.1.1 CLASSES ABERTAS
+3.1.1.1 NOMES Como já foi citado acima, os Nomes constituem uma classe aberta. Os critérios
+utilizados para identificá-los são morfológicos (marcadores de caso, gênero e número), sintáticos e semânticos.
+
+42 3.1.1.1.1 Critérios Morfológicos
+Em Matis, os itens considerados como Nomes recebem a marcação morfológica de caso e número.
+A - Marcação de caso
+Segundo Anderson (1985), os marcadores de caso indicam o papel sintáticosemântico do SN ao qual se prendem. Em Matis o nome é sufixado pelo marcador de caso, havendo três tipos de sufixos que ocorrem estritamente com os nomes.
+Ergativo (erg.): {-n}
+Absolutivo (abs): -Ø
+comitativo (com)5: {-bˆt}
+A seguir veremos a descrição dos sufixos e seus alomorfes.
+1) O caso Ergativo é marcado pelo morfema {-n} e seus alomorfes respectivos: {-an}, que ocorre depois de /t/ e /n/, e {-Sun}, que ocorre depois de /S/ e /k/. A marca ergativa {n} também pode aparecer na função genitiva, instrumental e locativa. Esse mesmo tipo de ocorrência encontra-se em outras línguas da família Pano. No entanto, ainda não sabemos se se trata de um mesmo morfema em funções diferentes ou se são morfemas diferentes (ver 1 a., 1b., 1c.)
+O ergativo ocorre quando o Nome aparece como núcleo do sintagma nominal, com a função de agente numa construção sintática com verbo transitivo.
+5 Ainda falta-nos investigar melhor o caso comitativo. Até o momento estamos considerando-o como marca de caso, mas há a dúvida se não poderia estar funcionando como uma posposição. Não responderemos esta questão nesta dissertação, pois será alvo de uma futura investigação.
+
+43
+
+(1)
+
+a) kamun -an takada -Ø pe -a
+
+-S
+
+onça -erg. galinha -abs. comer -pass. im. - 3 ‘A onça comeu galinha’
+
+b) papi -n kamun -Ø is -a
+
+-S
+
+homem -erg. onça -abs. ver -pass.im. -3 ‘O homem viu a onça’
+
+c) atSuwˆS -Sun awat -Ø pe -a
+
+-k
+
+todos -erg. anta -abs. comer -pass.im. – ? ‘Todos comeram a anta’
+
+1a) Como foi dito, o morfema ergativo {-n}6 é usado também para indicar as funções de genitivo e instrumental (ver também seção 3.1.2.1.3). O genitivo se caracteriza pela relação estabelecida entre nomes. Um nome será o núcleo da construção, enquanto que o outro será o modificador desse núcleo, obtendo-se, dessa forma, a relação determinante-determinado. A relação modificador-núcleo ocorre geralmente em línguas com ordem OV (Greenberg, 1966). Esta relação, colocada por Greenberg, é confirmada na língua Matis, pois a mesma possui a ordem OV. Assim, encontramos as seguintes construções:
+(2)
+
+6 Na função genitiva, instrumental e locativa não encontramos o alomorfe {Sun}, como ocorre com o caso ergativo. Como citado, somente encontramos o alomorfe {-an}.
+
+44
+
+a) mariwˆn -an matSo mariwˆn -gen. cabeça ‘máscara do mariwˆn’
+
+b) kamun -an taˆ
+
+onça
+
+-gen. pata
+
+‘A pegada da onça’
+
+c) wapa -n ina cachorro -gen. rabo ‘O rabo do cachorro’
+
+d) rogeriu -n Subu rogério -gen. casa ‘A casa do Rogério’
+
+Conjuntamente ao caso genitivo encontramos a sufixação do morfema {-a}, o qual pode afixar-se a formas já marcadas pelo possessivo {-n}. Até o momento não sabemos qual é a função desse morfema, observamos, no entanto, que o seu uso sempre está restrito a pergunta- resposta de um enunciado do tipo do exemplo (a) e (b). (3) a) Siko -n -a tonkate
+Chico -gen. -3 espingarda ‘É a espingarda do Chico (Lit. A espingarda pertence ao Chico)’
+
+45
+
+b) Pergunta: awˆtse nekit ‘De quem é isso? (Referindo-se ao caderno)’
+
+Qu
+
+isso
+
+Resposta: rogerio-n
+
+-a ‘O caderno pertence a mim’7
+
+Rogério-gen. -3
+
+1b) O morfema{-n} em função instrumental. Por exemplo:
+
+(4)
+
+a) tSianpi -bo -n Sotko -n mˆS -te -Ø pˆS -e
+
+-k
+
+menina -col. -erg. machado -instr. queimar -nzdor rachar -n.pass. -decl. ‘As meninas racham a lenha com o machado’
+
+b) ˆ -n -bi du´ -n nami -Ø te -t
+
+-e -k
+
+1 -erg. -sg. faca -instr. carne cortar -cortar8 -n.pass. -decl. ‘Eu corto a carne com a faca’
+
+c) ˆ -Ø -bi são paulo -no aviaon -an kuan -e
+
+-k
+
+1 -abs. -sg. são paulo -loc. avião ‘Eu vou para São Paulo de avião’
+
+-instr. ir -n.pass. -decl.
+
+1c) O morfema {-n} em função locativa. Quando o referente está próximo ao interlocutor a marca será {-n}, se o referente estiver distante do locutor, a marca será {-no}, sendo que ambos os morfemas indicam “em direção à”. Por exemplo:
+
+7 A resposta sempre será [X-n-a ], se o objeto for pertencente a outro intelocutor, sendo X o possuidor. Se o objeto pertencer a 2 ou 3 pessoas, a resposta será [Y X-n -a ], sendo Y o objeto.
+
+46 (5)
+
+a) Sico -Ø awˆ -n maˆ -n
+
+kuan -a
+
+-S
+
+Sico -abs. 3 -gen.. roça -loc. ir -pass.im. -3
+
+‘Chico foi para roça dele’
+
+b) ˆ -n -bi nuku -n Subu -no
+
+1 -erg. -sg. 1
+
+-gen. casa -loc.
+
+‘Eu vou para minha casa’
+
+kuan -e -k ir -n.pass. -decl.
+
+c) papi -bo -Ø tsate -n tsad -e -k homem -pl -abs. banco -loc. sentar -n.pass. -decl. ‘Os homens estão sentados no banco’
+
+- se o interlocutor estiver se referindo ao lugar de onde se partiu, isto é, ‘vindo de’, acrescenta-se ao locativo {-no} o ablativo{-wˆS}, por exemplo:
+
+d) tabatinga -no -wˆS
+
+ˆ -Ø -bi lancha -n tSo -e -k
+
+tabatinga -loc. -abl. 1 -abs -sg. lancha -instr. vir -n.pass. -decl.
+
+‘Eu venho de lancha de Tabatinga’
+
+2) O caso absolutivo não tem marca morfológica realizada foneticamente. Dessa forma, optamos em representá-lo por -Ø. Este caso ocorre quando o Nome está numa posição nuclear do sintagma nominal, em função de paciente de verbos transitivos ou de sujeito de verbos intransitivos. (6)
+
+47
+
+a) kamun -Ø uS -e
+
+-k
+
+onça -abs. dormir -n. pass. -decl. ‘A onça está dormindo’
+
+b) tSidabo -Ø nes
+
+-a
+
+-S
+
+mulher -abs. banhar -pass.im. -3 ‘A mulher tomou banho’
+
+c) ˆ -n -bi atsa
+
+-Ø kodoka -e
+
+1 -erg. -sg. mandioca -abs. ‘Eu cozinho mandioca’
+
+cozinhar
+
+-n.pass.
+
+3) O caso comitativo, também conhecido como associativo, é marcado pelo bˆt, o qual
+
+pode se afixar quando for um pronome e ser livre quando for um nome, tal item expressa acompanhamento.
+Pode-se ocultar a primeira pessoa do singular quando o caso comitativo estiver sufixado a um nome próprio (ver exemplo 7(b) em comparação ao 7(a)). Esse tipo de uso da língua é opcional, no entanto, se os sujeitos forem qualquer outro pronome mais um nome próprio, não é possível ocultar o pronome. Nesse caso, será necessário sufixar o morfema {-bˆt} a qualquer um dos agentes, sendo que o caso comitativo ocorre sempre
+
+preso ao participante que está na primeira posição. Por exemplo: (7)
+
+a) tumi bˆt -Ø
+
+ˆ -Ø -bi abad -e
+
+-k
+
+tumi com. -abs 1 -abs. -sg. correr ‘O Tumi e eu corremos’
+
+-n.pass. -decl.
+
+48
+
+b) tumi -bˆt -Ø abad -e
+
+-k
+
+tumi -com. -abs correr -n.pass. -decl. ‘O Tumi (e eu) corremos’ (Lit. eu com o Tumi corremos)
+
+c) mi -bˆtan bina -n awat p -e -k 2 -com.A bina -erg anta comer -n.pass. -decl. ‘Você e o Binan comem anta.’
+
+d) tumi –bˆtan
+
+iva -n Subu Se
+
+-a
+
+-S
+
+tumi -com.A iva -erg. casa ‘Tumi e o Ivam construiram a casa’
+
+construir -pass.im. -3
+
+B - Marca de coletivo
+O marcador de coletivo {-bo} também nos ajuda a delimitar o nome, no entanto, ele tem sua ocorrência somente com itens lexicais caracterizados semanticamente como [+humano], como em:
+
+(8) a) bakuˆ ‘criança’ → bakuˆbo ‘crianças’
+
+bakuˆ -bo -Ø nes -a
+
+-S
+
+criança -col. -abs. banhar -pass.im. -3
+
+‘As crianças banharam’
+
+49
+
+c) tSidabo ‘mulher’ → tSidabobo ‘mulheres’
+
+tSidabo -bo -n tSitonkete -Ø
+
+Sik -e
+
+-k
+
+mulher -col. -erg. calça ‘As mulheres lavam as calças’
+
+-abs lavar -n.pass. -decl.
+
+- Se o item lexical for semanticamente [- humano] a língua utilizará itens lexicais que
+
+indicam número para expressar a pluralidade (seção 3.23). No entanto, não é necessário
+
+nenhuma marca de concordância no item pluralizado. Exemplos:
+
+(9)
+
+a) papibo -n awat -Ø epapa
+
+tonk -a -S
+
+homem -erg. anta -abs. número 1 ‘O homem matou uma anta’
+
+matar -pass.im. -3
+
+b) rogeriu mene -ta tSapa
+
+rogeriu dar
+
+-imp. peixe
+
+“Dê para o Rogério dois peixes”
+
+dabˆtpa -Ø número 2 -abs
+
+Além desses marcadores considerados como inerentes aos Nomes em Matis, a categoria lexical Nome pode, também, receber a marca de enfático {-tapa} e ocorrer em processo de reduplicação, como veremos a seguir.
+
+50 C -Marcador de ênfase
+
+O marcador enfático {-tapa9} e seu alomorfe {-dapa} podem ocorrer tanto com os Nomes quanto com os adjetivos. A variação alomórfica é condicionada pela fronteira do radical ao qual o morfema será afixado, como: (10)
+
+a) {-tapa} ocorre sempre depois de t, S e k;
+
+- munukit -tapa -Ø pakad -a
+
+-S
+
+dançarino -enf. -abs cair ‘O dançarino caiu’
+
+-n.pass. -3
+
+- marepˆt -tapa -n iwˆtSitSo
+
+-Ø pe -a
+
+-S
+
+cutia -enf. -erg. pau (tipo de) -abs comer -pass.im. -3 ‘A cutia comeu o pau’
+
+b) {-dapa} ocorre sempre depois de n,
+
+- unkin -dapa -Ø abad -a
+
+-S
+
+porco -enf -abs correr -pass.im. -3 ‘O porco correu, mesmo’
+
+9 Na realização do morfema {-tapa} e seus alomorfes, segundo Spanghero (2000), “existe um processo de apagamento da vogal /a/ no final do sufixo enfático, junto aos adjetivos e nomes. Spencer (1996) argumenta que este tipo de processo de apagamento vocálico é muito comum na fala casual. Nestes casos, então, a vogal /a/ é apagada na última sílaba da palavra. ” (p.102).
+
+51
+
+c) /-dapa/ [-Rapa] ocorre sempre entre vogais.
+
+- dunu -dapa -n ˆ -Ø -bi pe -a
+
+-S
+
+cobra -enf. -erg. 1 -abs. -sg. ‘A cobra me mordeu’
+
+comer. -n.pass. -3
+
+- tSawa
+
+-dap -Ø mun -e -k
+
+queixada -enf. -abs gritar -n.pass. -decl. ‘A queixada faz barulho’
+
+d) Reduplicação Os nomes, como outras classes, também sofrem processos de reduplicação. A
+reduplicação serve para indicar intensificação. Até o momento de nossas pesquisas não pudemos diferenciar o motivo pelo qual os falantes ora reduplicam para fazer a intensificação, ora utilizam o intensificador kimo (ver. seção 3.2.3). Exemplos: (11) a) madu -madu -n -dapa
+nú -nú -gen. -enf ‘sem roupa mesmo’
+b) Sapu -Sapu algodão -algodão ‘algodão bem fofinho’
+
+52
+
+c) dada -dada -wit caça -caça -rest. ‘só tem caça mesmo’
+
+Podemos notar que a reduplicação também ocorre com os adjetivos. Esse processo é mais
+
+produtivo com os adjetivos que indicam cores. Por exemplo:
+
+(12)
+
+a) bidi
+
+-bidi
+
+-pa
+
+estampado -estampado -enf.
+
+‘todo estampado’
+
+b) Sin
+
+-Sin
+
+amarelo -amarelo ‘todo amarelo’
+
+3.1.1.1.2 Critérios Sintáticos
+Sintaticamente os Nomes ocorrem como núcleo de um sintagma nominal, ocupando a função de sujeito de uma sentença (argumento externo) ou a função de objeto (direto e indireto), situação em que é argumento interno de verbos transitivos.
+Em Matis, o sujeito de uma sentença com verbo transitivo codifica A, marcado por {-n} ‘marca de caso ergativo’. O objeto (O) de um verbo transitivo e o sujeito (S) de uma sentença com verbo intransitivo não recebem nenhuma marca, dessa forma, optamos em representar a não realização fonética do caso absolutivo por Ø (como já dito acima na seção 3.1.1.1.1). Vejam-se os exemplos a seguir:
+
+53
+
+(13)
+
+a) wapa -n sinkuin -Ø tSe -a
+
+-S10
+
+cachorro -erg. banana -abs. comer -pass.im. -3 ‘O cachorro comeu a banana’
+
+b) wapa -Ø uS
+
+-a
+
+-S
+
+cachorro –abs. dormir -pass.im. -3 ‘O cachorro dormiu’
+
+3.1.1.1.3 Critério Semântico
+Segundo Givón (1984: 56) “nouns tend to be most time-stable phenomena coded in the lexicon”, ou seja, indica coisas, ou seres que fazem parte do mundo de uma comunidade lingüística. Seundo o critério nocional os nomes em Matis podem ser agrupados em:
+
+(14)
+
+10 Esta marca de concordância ocorre somente em sentenças no tempo passado, ela
+
+concorda sempre com o sujeito da oração. Para que fique mais claro segue abaixo dois
+
+exemplos :
+
+ˆ -n -bi txatxa -Ø pe -a
+
+-k
+
+1 -erg -sg buriti -abs comer -pass.rec. - decl
+
+‘Eu comi buriti’
+
+nekid -an txatxa -Ø pe -a
+
+-S
+
+aquele -erg. buriti -abs comer -pass.rec. -3
+
+‘Aquele comeu buriti’
+
+Resta-nos compreender melhor a função do morfema {-k}. Não estamos convencidos que ele esteja atuando como uma marca de concordândia, como ocorre com o {-S}.
+
+54
+
+a) Entidade bˆda isamadap iSa
+b) Temporal11 tanu imut uStokin
+c) Concreto di matsu tonkate
+d) Animado i wa tSawa wesnit
+
+‘beleza’ ‘feiura’ ‘saboroso’
+‘dia’ ‘noite’ ‘amanhã’
+‘rede’ ‘panela’ ‘espingarda’
+‘arraia’ ‘escorpião’ ‘queixada’ ‘mutum’
+
+11 Estas palavras podem funcionar também como advérbios.
+
+55
+
+e) Humano
+papi tSitSi maSku Sanu
+
+‘rapaz’ ‘vovó’ ‘irmão mais velho’ ‘cunhada mais nova’
+
+3.1.1.1.4 Derivacionais
+Os nomes podem ser formados a partir de outras categorias, como verbo (deverbais) e a partir dos próprios nomes (denominais).
+
+a) Deverbais
+
+Um Nome pode ser derivado a partir de um verbo por meio de sufixos deverbalizadores, processo que é denominado ‘nominalização’. Segundo Comrie (1991), a nominalização significa “turning something into a noun’’. Em Matis, os sufixos nominalizadores são {-kit} ‘agentivo’ e {-te} ‘instrumentativo’.
+
+1) O morfema {-kit}
+
+(14)
+
+a) kodoka
+
+-kit
+
+cozinhar -nzdor
+
+korokakit ‘cozinheiro (lit. aquele que cozinha)’
+
+56
+
+b) ˆ -n -bi atsa
+
+-Ø kodoka -i
+
+1 -erg. -sg mandioca -abs. cozinhar -n.pass. ‘Eu cozinho a mandioca’
+
+c) kodoka -kit -an atsa
+
+-Ø pe
+
+-a
+
+-S
+
+cozinhar -nzdor -erg. mandioca -abs. comer -pass.im. -3 ‘O cozinheiro comeu mandioca’
+
+d) kodoka -kit -Ø uS -e
+
+-k
+
+cozinhar -nzdor -abs. dormir -n.pass. -decl. ‘O cozinheiro dorme’
+
+d) ˆ -n -bi kodoka -kit
+
+datonkete -Ø mene -a
+
+-k
+
+1 -erg. -sg. cozinhar -nzdor camisa -abs. dar -pass.im. -decl. ‘Eu dei camisa para o cozinheiro’
+
+2) O morfema {-te}
+
+O morfema {-te} deriva nomes com a característica [-humano]. Semanticamente
+
+esses nomes podem ser interpretados como instrumentativos, ou seja, “objeto que serve
+
+para alguma coisa”. Por exemplo:
+
+(15)
+
+a) pitka -te
+
+‘lanterna’
+
+iluminar -instrum.
+
+rogeriu -n pˆtka -te
+
+ˆ -Ø -bi mene -a
+
+57 -S
+
+Rogério -erg. iluminar -instrum. ‘Rogério me deu a lanterna’
+
+1 -abs. -sg. dar -pass.im. -3
+
+b) tuban -te assar -instrum.
+
+‘forno’ (Lit. assador)
+
+mariu -n nu -ki matSi tuban -te -Ø
+
+bet -Sun 12 -bo -S
+
+mariu -erg. 1 -pl. farinha assar -instrum. -abs dar -? -pass.rec. -3 ‘Mário comprou forno de farinha para nós’
+
+c) kodokakodoka -kit kodoka -te
+
+‘cozinhar’ ‘cozinheiro’ ‘cozinha (lit. lugar de cozinhar)’
+
+b) Nomes derivados de nomes O sufixo {-wit} ‘restritivo’ deriva nomes a partir de uma base nominal.
+1) Restritivo O morfema {-wit}, ao sufixar-se a uma base nominal, traz ao contexto dessa base
+uma delimitação, que podemos traduzir como ‘só’ ou ‘somente’. Ele se sufixa aos nomes e
+
+12 O morfema {-Sun}, que ocorre sufixado ao verbo, pode estar execercendo a função de benefactivo, como
+ocorre em outras línguas da família Pano, no entanto, não podemos fazer tal afirmação para a língua Matis, visto que em nosso corpora encontramos apenas duas ou três ocorrências. Com isso, optamos por deixar uma interrogação quanto a sua função.
+
+58
+adjetivos. Em alguns casos o falante pode optar em usar o item lexical epapa ‘numeral (1)’, com a intenção de delimitação ‘só, sozinho’. Exemplos: (16) a) Subu -wit abi
+casa -rest. existir ‘Há só casa (não tem pessoas)’
+
+b) ˆ -n -bi atsa -wit -Ø menan -e
+
+-k
+
+1 -erg. -sg. mandioca -rest. -abs. plantar -n.pass. -decl. ‘Eu planto só mandioca’
+
+c) wesnit -wit is -nu mutun -rest ver -desider. ‘Eu vi só mutum’
+
+d) nawa epapa -Ø txo -a
+
+-S
+
+não-índio 1 número -abs. vir -pass.im. -3 ‘O não-índio voltou sozinho’
+
+3.1.1.1.5 Composição
+A formação de uma palavra pode dar-se pela junção de dois ou mais elementos. Esse processo de formação de palavras chama-se composição. Encontramos, até agora, a combinação de dois ou mais elementos, do tipo: Nome + Verbo; Nome + Adjetivo e Nome + Nome. Nas composições N+V e N+A, o item localizado à esquerda determina a
+
+59
+
+categoria lexical do composto, com execeção da formação N+N, o qual terá como
+
+determinante o item lexical à direita (ver exemplo 17 (c)).
+
+(17)
+
+(a) N+V N
+
+abudapa + kudek
+
+‘Trovão’
+
+céu
+
+escutar
+
+bakuˆ + usunek
+
+criança
+
+colocar
+
+‘Grávida’
+
+(b) N + A N kapˆt + tSimu jacaré preto
+kapˆt + wasa jacaré branco
+
+‘Jacaré-açu’ ‘Jacaré-branco’
+
+(c) N + N N atsa + tompi macaxeira inseto
+
+‘largata’
+
+dada + tSitSo corpo folha de palmeira
+
+‘coquinho’
+
+tonkate + ˆSˆ espingarda semente
+
+‘Cartucho de espingarda’
+
+60
+
+dadawate + wˆSpo
+
+‘Caneta’
+
+escrita
+
+perna
+
+3.1.1.2 VERBOS
+Segundo Schachter (1985:9) “Verbs is the name given to the parts-of-speech class in which occur most of the words that express actions, processes, and the like”, definição essa dada sob critérios semânticos. Sintaticamente, os itens considerados como verbos operam como núcleo do predicado. Categorias morfologicamente típicas de verbos são as flexões de tempo, modo e aspecto. Os verbos em Matis podem ser formados também a partir de processos derivacionais, como a verbalização, que ocorre a partir de bases nominais e verbalização deverbal, formação a partir de bases verbais.
+3.1.1.2.1 Tempo Os tempos verbais reconhecidos na língua Matis são dois: tempo-não-passado e
+tempo passado, este último dividindo-se em tempo passado imediato, tempo passado recente e tempo passado remoto.
+A) Tempo Passado
+Os sufixos -a, -bo e -bonda ocorrem no verbo e estão ligados à linha temporal em que a ação ocorre. Os falantes utilizam-se de itens lexicais do tipo nebi ‘agora’, uxtokin ‘ontem’ e inden ‘muito tempo’ ou ‘antigamente’ como referência do momento da ação. - Passado Imediato
+O Passado Imediato é marcado pelo sufixo {-a}, o qual indica um acontecimento ou ação ocorrida no exato momento da enunciação. Por exemplo:
+
+61
+
+(18)
+
+a) ˆ -n -bi i
+
+-Ø tSe -a
+
+-k
+
+1 -erg. -sg. arraia -abs comer -pass.im. ‘Eu comi arraia’
+
+-decl.
+
+b) mi -Ø -bi uS -a
+
+-k
+
+2 -abs. -sg. dormir -pass.im. ‘Você dormiu’
+
+-decl.
+
+c) nebi kimo wapa -n nami -Ø pe
+
+-a
+
+-S
+
+agora intens. cachorro -erg. carne -abs. comer -pass.im. -3 ‘Agora mesmo, o cachorro comeu a carne’
+
+- Passado Recente
+
+O Passado Recente é marcado pelo sufixo {-bo} que indica uma ação passada.
+
+Exemplos:
+
+(19)
+
+a)
+
+nu -ki -Ø tSo -bo
+
+1 -pl. -abs vir -pass.rec. ‘Nós chegamos (hoje mesmo)’
+
+b) ˆ -n -bi tSatSa -Ø pe -bo 1 -erg. -sg. buriti -abs comer -pass.rec. ‘Eu comi buriti’
+
+62
+
+c) rosana -n nuku -n dadawate -Ø bet -bo
+
+-S
+
+rosana -erg. 1 -poss. caderno -abs. pegar -pass.rec. -3 ‘Rosana pegou meu caderno’
+
+- Passado Remoto
+
+O Passado Remoto é representado pela sufixação do morfema {-bonda}. Ele é
+
+usado para expressar uma ação realizada a algum tempo, sendo que esse tempo, para o
+
+falante, excede ao tempo expresso pelo morfema {-bo}.
+
+(20)
+
+a)
+
+kidipi -n mates -Ø tanawa -bonda -S
+
+Fillipe -erg. matis -abs. saber ‘Filippe sabia falar matis’
+
+-pass.rem. -3
+
+b) inden lucinhu -n
+
+ˆ -Ø -bi is -bonda -S
+
+antigamente lucinho -erg. 1 -abs. -sg. ver -pass.rem. -3 ‘O Lucinho me viu antigamente (faz tempo)’
+
+Até o momento podemos observar que a língua tem, claramente, três tempos passados, e que, além dos sufixos, são utilizados também advérbios temporais para uma maior especificidade com relação ao espaço temporal da ação realizada.
+
+B) Tempo Não-Passado
+
+Postulamos que a distinção do tempo em Matis é entre passado e não-passado. Optamos por assim descrever pois não existe um sufixo que faça distinção entre o tempo
+
+63
+
+presente e o tempo futuro, os quais só serão explicitados por meio de um contexto
+
+discursivo ou pelos advérbios ou sintagmas adverbiais, como amanhã, depois de amanhã,
+
+daqui a um dia.
+
+O tempo não-passado é marcado pelo morfema {-e}, que pode ocorrer com dois
+
+alomorfes: como /e/, quando a raiz verbal terminar em consoantes /t/, /k/ e /x/, e como
+
+alomorfe /i/, quando a raiz verbal terminar em vogal, com exceção de /e/; nesse caso,
+
+ocorrerá a fusão das vogais.
+
+Exemplos:
+
+(21)
+
+a)
+
+rogeriu -n datonkete -Ø Sik -e
+
+-k
+
+Rogério -erg. camisa -abs. lavar -n.pass. -decl. ‘Rogério lava roupa’
+
+b)
+
+tSidabo -n -bi wesnit -Ø kodoka -i
+
+mulher -erg. -sg. mutum -abs. cozinhar -n.pass. ‘Eu cozinho arraia’
+
+c)
+
+setkeS madiwin -Ø tSo -i
+
+-k
+
+amanhã mariwin -abs. vir ‘Amanhã, o Mariwin virá’
+
+-n.pass. -decl.
+
+3.1.1.2.2 Aspecto
+Os sufixos {-kin}, {-an}, {-wa} e {-tsen} podem ser considerados como marcadores de aspecto verbal.
+
+64 A) Imperfectivo
+O sufixo{-kin} parece estar exercendo a função imperfectiva, como em : (22) a) manki -n awat -Ø koroka -kin
+manki -erg. anta -abs. cozinhar -imperf. ‘Maki está cozinhando a anta’
+
+b) ˆ -Ø -bi matses -an Subu -no kuan -kin nuku -n awin sinan -e
+
+-k
+
+1 -abs. -sg. matis -poss. casa -loc. ir -sw 1 -poss. esposa pensar -n.pass. -decl. ‘Eu estou indo para aldeia, estou com saudades da minha esposa’
+
+Em Mayoruna, uma língua aparentada do Matis, o morfema {-kin} “indica que os eventos são diferentes, no entanto os referentes dos sujeitos são idênticos.” (Harriet Fields, 1973:288). Não temos certeza dessa função em Matis. No entanto, em algumas sentenças, o morfema {-kin} parece estar desempenhando uma função semelhante à que ocorre na língua Mayoruna. No exemplo 23 notamos que os eventos são diferentes, mas os sujeitos são os mesmos. Assim, diante desse dado, podemos levantar a hipótese de que o morfema {-kin} possa ser uma marca de Switch-Refence, algo comum nas línguas da família Pano. No entanto, não iremos abordar essa questão neste trabalho, mas é um ponto importante a ser considerado para futuras investigações. Como não possuímos grande quantidade de dados dessa natureza, não podemos afirmar se realmente esta seja uma outra função do morfema {-kin} na língua Matis. (23)
+
+65 a) ˆ -n -bi kapo -kin Sawˆ -Ø bed -e -k
+1 -erg. -sg. andar -sw. jabuti -abs. pegar -n.pass. -decl. ‘Peguei o jabuti enquanto eu caminhava’
+
+b) iwi -n pakˆt -kin ma -ted -a
+
+-S
+
+pau -erg. cair -sw. cabeça -cortar -pass.im. -3 ‘Quando o pau caiu, cortou a cabeça dele (Lit. o pau caindo, o pau cortou a cabeça dele)’
+
+B) Freqüentativo
+
+O morfema {-an} indica uma ação constante ou freqüentativa. Sua ocorrência é
+
+antes do morfema de tempo.
+
+(24)
+
+a)
+
+pi
+
+-an -e
+
+-k
+
+defecar -freq. -n.pass. -decl.
+
+‘Defecava constantemente’
+
+b)
+
+dunu -Ø pe -an -e
+
+-k
+
+cobra -abs. morder -freq. -n.pass. -decl.
+
+‘A cobra sempre morde’
+
+c)
+
+duˆ -Ø te -an -e
+
+-k
+
+faca -abs. cortar -freq. -n.pass. -decl. ‘A faca sempre corta’
+
+66
+
+C) Cíclico O morfema {-wa} não se sufixa à raiz verbal, mas sempre após o tempo verbal.
+Sua função é de indicar retorno à ação verbal expressa. Traduzimos como ‘de novo/novamente’. Por exemplo: (25)
+
+a)
+
+ˆ -n -bi is -bo
+
+-wa
+
+1 -erg. -sg. ver -pass.rec. -cicl. ‘Eu já vi de novo’
+
+b)
+
+ˆ -Ø -bi uS
+
+-a
+
+-wa
+
+1 -abs. -sg. dormir -pass.im. -cicl. ‘Eu dormi de novo’
+
+c)
+
+ˆ -Ø -bi txo -wa -nu mi -n -bi 13onk -e
+
+-wa
+
+1 -abs. -sg. vir -cicl. -des. 2 -erg. -sg. falar -n.pass. -cicl. ‘Quando eu voltar novamente, você fala de novo’
+
+D) Inconcluso O morfema {-tsen} sufixa-se imediatamente à raiz verbal, indicando que uma ação
+quase foi realizada, mas não se concretizou. Por exemplo: (26)
+13 Podemos verificar que em Matis o verbo falar tem as características de transitividade, visto que pede um sujeito ergativo.
+
+67 a) ta- mak -tsen -bo -S
+pé- pisar -inc. -pass.rec. -3 ‘ele quase pisou’
+
+b) nan -tsen -a -S morrer -inc. -pass.im. -3 ‘ele quase morreu’
+
+c) pe -tsen -bo
+
+-S
+
+morder -inc. -pass.rec. -3
+
+‘ela (cobra) quase mordeu’
+
+3.1.1.2.3 Modo
+Como marcadores de modo encontramos os sufixos {-ta} ‘imperativo’, {-nda} ‘imperativo negativo’, {-nu} ‘desiderativo’, {-k} ‘declarativo’, {-men} ‘negativo (tempo não-passado) e {-ma} ‘negativo (tempo passado)’. A seguir exemplificaremos cada um deles. A) Imperativo
+O modo imperativo é marcado pelo sufixo {-ta} quando em sentenças afirmativas, e por {-enda} quando em sentenças negativas, como se vê a seguir:
+- Imperativo afirmativo (27)
+
+68
+
+a) mi -kui14 tSatSa -Ø
+
+bet -tan
+
+-ta
+
+2 -pl. buriti -abs. pegar -dir. ‘Peguem buriti!’
+
+-imp.
+
+b) dani -n uman -Ø tSaka -wa -ta Dani -erg. mingau -abs moder -cil. -imp. ‘Dani, faça mingau! (lit. Dani, mastigue a pupunha)’ 15
+
+c) mi -Ø -bi kuak -ta 2 -abs. -sg escutar -imp. ‘Escute!’
+
+- Imperativo Negativo
+
+(28)
+
+a) ak
+
+-enda
+
+beber - imp.neg.
+
+‘Não beba!’
+
+b) ed
+
+-enda
+
+entrar -imp.neg.
+
+‘Não entre!’
+
+14 Os pronomes de 1 e 2 pessoas do plural não recebem a marca ergativa, existe uma cisão ( ver seção 4.2.2). 15 A presença do sufixo cíclico {-wa} no verbo morder é para dar o sentido de várias mordidas. Com isso,
+poderíamos traduzir por ‘mastigar’, e numa tradução menos literal como ‘o ato de fazer o mingau’.
+
+69 c) miS -enda
+mexer -imp.neg. ‘Não mexa!’
+Além destes imperativos encontramos um outro tipo que é realizado pela ausência de uma marca morfológica, mas que indica um tipo de ordem. No exemplo (29 (a)) o falante está afirmando que está se retirando, neste caso, ele está como que dando uma ordem a si próprio. No caso do exemplo (29 (b)) o falante está ordenando que todos se retirem junto com ele, sendo isso expresso através do pronome pessoal ou não. Por exemplo: (29) a) ˆ -Ø -bi kuan
+1 -abs. -sg. ir ‘Eu já vou!’
+b) kuan ir ‘ Vamos ou vá!’
+
+b) tSididiS
+
+is
+
+passarinho ver ‘Veja(m) o pássaro!’
+
+70 - Desiderativo
+O morfema {-nu} ocorre sufixado ao verbo indicando ‘desejo de’. Quando há a presença do desiderativo não é necessário a presença do pronome na sentença. Dessa forma, podemos encontrar orações sem a manifestação fonética do pronome. Por exemplo: (32) a) rogeriu -n dadawate -Ø mene -nu kek
+rogerio -erg. caderno -abs. comprar -des. part.disc. ‘O Rogério vai comprar caderno para mim porque desejo (ele disse)’
+
+b) atsa
+
+-wit -Ø pe -nu
+
+mandioca -rest. -abs. comer -des.
+
+‘(Eu) quero comer só macaxeira’
+
+c) nu -ki dabˆt -Sun pão -Ø be
+
+-nu kuan
+
+1 -pl dois -erg.
+
+pão -abs. comprar -des. ir
+
+‘Nós dois vamos comprar pão.’
+
+O morfema desiderativo {-nu} não ocorre com os sufixos de negação {-men} e {-ma}. Dessa forma, para expressar não quero, usa-se pimen ‘negativo’. Por exemplo: (33)
+
+71 ˆ -n16 -bi pe -nu pimen 1 -erg. -sg. comer -des. neg. ‘Eu não quero comer’
+
+- Declarativo
+
+O morfema {-k} ocorre sufixado sempre após a marca de tempo. Em outros estudos sobre línguas Pano os autores consideraram o k como integrante do morfema de tempo.
+Nós optamos em segmentar o k dos morfemas de tempo {-e}, {-a}, {-bo} e {bonda}, o que não encontramos em outros trabalhos sobre línguas da família Pano. Até o momento não temos certeza da função exata que o k excerce na sentença, estamos optando por considerá-lo como uma marca declarativa. Segundo Palmer (1986), ‘sentenças declarativas ocorrem quando o falante expressa sua opinião, visto que dessa forma julga o que diz como verdade.” Como em Matis, os Tuyuca, povos da região amazônica - Brasil (in Palmer, 1986:27), marcam as sentenças declarativas por meio do sufixo {-wi} obrigatoriamente na raiz verbal. Dessa forma, tanto na língua Tuyuca quanto na língua Matis, as sentenças declarativas são marcadas. (34)
+
+a) ˆ -Ø -bi tabatinga -no kuan -a
+
+-k
+
+1 -abs. -sg. Tabatinga -loc. ir ‘Eu fui para Tabatinga’
+
+-pass.im. -decl.
+
+16 Podemos notar o uso do caso ergativo mesmo que não haja um objeto expresso. Ver seção 4.1.
+
+72
+
+b) mi -∅ -kui munud -e
+
+-k
+
+2 -abs. -pl. dançar -n.pass. -decl.
+
+‘Vocês vão dançar’
+
+c) ˆnden lucinhu -∅ tSimoi nan -tsen -bonda -k antes Lucinho -abs. ter doença morrer -inc. -pass.rem. -decl. ‘Um tempo atrás, o Lucinho quase morreu’
+
+- Negativo
+
+Os sufixos que indicam negação concordam com o tempo em que a sentença está
+
+expressa. Assim, temos {-men} para tempo não-passado e {-ma} para tempo passado.
+
+Estes morfemas não se sufixam a nomes, pronomes, adjetivos e advérbios, somente a
+
+verbos. Exemplos:
+
+- Sufixo {-men}
+
+(30)
+
+a) natsikin mi -n -bi
+
+pe -e
+
+-men
+
+Qu-
+
+2 -erg. -sg.
+
+comer -n.pass. -neg.n.pass.
+
+‘Por quê você não come?’
+
+b) ˆ -Ø -bi nˆtan uS -e
+
+-men
+
+1 -abs. -sg. dia dormir -n.pass. -neg.n.pass. ‘Eu não durmo de dia.’
+
+73
+
+c) Sotko -Ø Sek
+
+-e
+
+-men
+
+machado -abs. amolar -n.pass. -neg.n.pass. ‘O machado não está amolado’
+
+d) ˆ -n -bi awin -wa -i
+
+-men
+
+1 -erg. -sg. mulher -vzdor -n.pass. -neg.n.pass. ‘Eu não tenho esposa’
+
+- Sufixo {-ma} (31)
+
+a) ˆ -Ø -bi kuak -a
+
+-ma
+
+1 -abs. -sg. ouvir ‘Eu não ouvi’
+
+-pass.im. -neg.pass.
+
+b) ˆ -n -bi pe -a
+
+-ma
+
+1 -erg -sg. comer -pass.im. -neg.pass. ‘Eu não comi’
+
+c) nara kanu mi -Ø -bi uS -a
+
+-ma
+
+Qu- ?
+
+2 -abs. -sg. dormir -pass.im. -neg.pass.
+
+‘Por quê você não dormiu?’
+
+74 3.1.1.2.4 Derivação Verbal
+No estágio atual de nossa pesquisa atentaremos somente para a formação de verbos a partir de nomes e a partir de verbos. Dessa forma, verificamos a formação de causativo, recíproco, reflexivo e repetitivo.
+
+- Formação de verbos a partir dos nomes
+
+Neste processo encontramos somente o sufixo {-wa}, que deriva um verbo a partir
+
+de nomes e adjetivos. Por exemplo:
+
+(35)
+
+dada
+
+‘desenho/figura’
+
+a) dada -wa –e
+
+‘desenha/escreve’
+
+desenho -vbzdor -n.pass.
+
+bˆnˆ
+
+‘esposo’
+
+b) tsuda mi -n -bi bˆnˆ -wa -e
+
+Qu- 2p -erg. -sg. esposo -vbzdor -n.pass. ‘Com quem você vai casar’
+
+waka
+
+‘água’
+
+c) mi -n -bi ˆ -Ø -bi waka -wa -i
+
+2 -erg. -sg. 1 -abs. -sg. água -vbzdor -n.pass. ‘Você me molhou’
+
+75
+
+bˆra
+
+‘bom’
+
+d) sidney ˆ -Ø -bi bˆda -wa -e
+
+sidney 1 -abs. –sg. bom -vbzdor -n.pass. O Sidney é bom para mim’ (Lit. Sidney ser bom para mim)
+
+- Formação a partir de verbos
+Um verbo pode servir de base para formar outro verbo. Dessa forma, derivam-se verbos causativos, reflexivos e recíprocos.
+a) Causativo: o causativo forma-se por meio do sufixo {-me}, como em: (36) a) is -me -k
+ver -caus. -decl. ‘mostrando (Lit. ‘fazer ver’)’
+
+b) is -me -ta ver -caus. -imp. ‘mostre! (Lit. ‘faça ver’)’
+
+c) tSianpi -n tSuma -Ø pe -me -a
+
+-S
+
+menina -erg. macaco -abs comer -caus -pass.im. -3 ‘A menina alimenta (fazer comer) o macaco’
+
+d) ˆ -n -bi mi -Ø -bi tsidukin tanawa -me -bonda -k
+
+1 -erg. -sg. 2 -abs. -sg. andar ‘Eu ensinei você a andar’
+
+saber -caus. -pass.rem. –decl.
+
+76
+
+b) Reflexivo: para derivar verbos reflexivos usa-se o sufixo {-ad}, que ocorre
+
+imediatamente à direita da raiz verbal. Em (37(a)) a construção é não reflexiva, e os
+
+exemplos (b), (c) e (d) são reflexivos.
+
+(37)
+
+a) iva -n ˆ -Ø -bi Sotko -n ta- dˆd -a
+
+-S
+
+Ivan -erg. 1 -abs. -sg. machado -instr. pé- cortar -pass.im. -3 ‘O Ivan cortou meu pé com machado’
+
+b) ˆ -Ø -bi ˆ -ben ta- dˆd -ad -e
+
+-k
+
+1 -abs. -sg. 1 -refl. pé cortar -refl. -n.pass. -decl.
+
+‘Eu mesmo corto meu pé’
+
+c) ˆ -Ø -bi ta- dˆd -ad -a
+
+-k
+
+1 -abs. -sg. pé- cortar -refl. -pass.im. -decl. ‘Eu me cortei’
+
+d) bˆuS a -ben -Ø pe -ad -a
+
+-S
+
+bˆuS 3 -refl -abs. morder -refl. -pass.im. -3
+
+‘BˆuS mordeu a ele mesmo’
+
+c) Recíproco: O sufixo que indica reciprocidade em Matis é {-nan}, e se liga imediatamente à raiz verbal. Por exemplo: (38)
+
+77
+
+a) papi -bo -Ø tSui
+
+-nan -e
+
+-k
+
+homem -col. -abs. conversar -recip. -n.pass. -decl. ‘Os homens conversam entre si’
+
+b) tSianpi -Ø kues -nan -e
+
+-k
+
+menina -abs. bater -recip. -n.pass. -decl. ‘As meninas batem uma nas outras’
+
+c) tSianpi -Ø iwi -dapa -n kues -nan -e
+
+-k
+
+menina -abs. pau -enf. -instr. bater -recip. -n.pass. -decl. ‘As meninas se batem com pau’
+
+Ainda, com relação aos sufixos verbais, temos o morfema interrogativo e a incorporação, que é realizada por prefixação à base verbal.
+
+3.1.1.2.5 Interrogação
+
+Em uma oração interrogativa a marca de interrogação polar {-da} vem sufixada à raiz verbal, como podemos ver a seguir:
+
+(39)
+
+a) rogero bina -n tSawa -Ø
+
+pe
+
+-e
+
+-da
+
+rogério bina -erg porco -abs. comer -n.pass. -interr. ‘Rogério, o Binan está comendo porco?’
+
+78
+
+b) bina rogero -Ø kuan -e
+
+-da
+
+bina rogério -abs. ir
+
+-n.pass -interr.
+
+‘Binan, o Rogério vai embora?’
+
+3.1.1.2.6 Incorporação
+
+Os itens não verbais, que normalmente são incorporados aos verbos, são as partes do
+
+corpo ou itens relacionados ao parentesco. O processo ocorre da seguinte forma: mantêm-se
+
+a primeira sílaba do item lexical que será incorporado, e esta se incorpora a raiz verbal. Em
+
+nossos dados encontramos este tipo de processo somente em verbos como ‘bater’, ‘pisar’,
+
+‘cortar’, ‘torcer’ e ‘espetar’. Por exemplo:
+
+(40)
+
+a) bˆdu bˆ- pun -kin olho- espetar -im. ‘espetando o olho’
+
+‘olho’
+
+b) taˆ
+
+‘pé’
+
+ta- toSke -e
+
+-k
+
+pé- torcer -n.pass. -decl. ‘torce o pé’
+
+c) ˆ -Ø -bi ˆ -ben ta- dˆd -ad -e -k
+
+1 -abs. -sg. 1 -refl. ‘Eu mesmo corto meu pé’
+
+pé cortar -refl. -n.pass. -decl.
+
+79
+
+d) mˆkˆn mˆ- ama -i mão- bater -n.pass. ‘bate com a mão’
+
+‘mão’
+
+e) ˆ -Ø -bi mˆ- tˆd -e -k
+
+1 -abs. -sg. ‘eu me corto’
+
+mão- cortar -n.pass. -decl.
+
+3.1.1.3 Adjetivo
+
+Jespersen17 (1924) considera que os adjetivos podem ser diferenciados de nomes
+
+pelo fato de eles denotarem uma única propriedade. Wierzbicka (1980) também aponta que
+
+uma das cruciais diferenças semânticas entre nomes e adjetivos é que o primeiro sugere um
+
+grande número de propriedades, enquanto que o último designa uma única propriedade.
+
+Assim, a função primária do adjetivo é a de modificador de nomes.
+
+(41)
+
+a)
+
+dada nowa -dapa
+
+homem gordo -enf.
+
+‘O homem gordo’
+
+b)
+
+tSianpi -n tukun -tsˆk -Sun atsa -Ø pe -e
+
+-k
+
+menina -erg. pequena -intens. -erg. mandioca -abs. comer -n.pass. -decl. ‘A menina pequena come mandioca’
+
+17 Os autores citados nesta seção foram consultados por meio de Bhat (1994), Dixon (1977) ou Oliveira (1995) . Por essa razão não constam na bibliografia.
+
+80
+
+Os adjetivos podem ser modificados pelo quantificador kimo. O sufixo enfático
+
+{-tapa} e seus alomorfes {-dapa} e {-pa} ocorrem tanto com nomes, como pudemos ver na
+
+seção 3.1.1.1.1, quanto com os adjetivos . Por exemplo:
+
+(42)
+
+a) itis
+
+‘quente’
+
+itis -tapa
+
+‘quente mesmo’
+
+quente -enf
+
+itis -tapa kimo
+
+quente -enf intens.
+
+são paulo pat
+
+pi
+
+-men
+
+‘quente mesmo’ itis -tapa nˆbi -n
+
+são paulo igual cop. -neg.n.pass. quente -enf aqui -loc. ‘São Paulo não é igual aqui, aqui é quente’
+
+b) kasi kasi -dapa magra -enf.
+
+‘magro’ ‘magro mesmo’
+
+kasi -dapa kimo magra -enf intens.
+
+‘muito magra mesmo’
+
+gabrieu kasi -dapa -n pe -men gabrieu magro -enf. -erg. comer -neg.n.pass. ‘O Gabriel é magro porque não come’
+
+81 3.1.1.3.1 Tipos Semânticos
+
+Os tipos semânticos propostos por Dixon (1977) serão aqui utilizados para delimitarmos a ocorrência da categoria adjetiva em Matis, os quais referem-se à dimensão, propriedade física, propensões humanas, idade, cor, valor e velocidade.
+
+- Dimensão: (43) a) kasi b) Sunu
+
+‘magro’ ‘alto’
+
+c) tuku d) nowa
+
+‘baixo’ ‘grande/largo’
+
+- Propriedade Física: (44) a) iwˆdap b) Sakat c) tSot
+
+‘pesado’ ‘leve’ ‘terra/mole’
+
+d) itis e) waduS f) widˆn
+
+‘quente’ ‘frio/gelado’ ‘duro’
+
+- Propensão Humana: (45) a) bˆda
+
+‘generoso/bondoso’
+
+82
+
+c) dene
+
+‘feliz’
+
+- Idade: (46) a) Sˆni b) paSa c) dadasibo f) matSo g) buntak h) tSianpi
+
+‘velho(a) (para inanimado)’ ‘novo(a) (para inanimado)’ ‘velho (animado)’ ‘velha (animado)’ ‘moço’ ‘moça, garota’
+
+- Valor: (47) a) bˆda b) isama
+- Cor: (48) a) wasa c) wisu d) umu e) pˆt f) Sin g) ˆmu
+
+‘bom’ ‘imprestável’
+‘cinza/branco’ ‘preto’ ‘tipo de azul’ ‘vermelho’ ‘amarelo’ ‘verde’
+
+83
+
+Para o tipo semântico ‘velocidade’ não encontramos nenhuma palavra que fosse
+
+tipicamente adjetiva, sendo que as encontradas são caracteristicamente adverbiais (ver.
+
+seção 3.4.1), pois sempre estão modificando o verbo. Por exemplo:
+
+(49)
+
+a) bˆSkatap
+
+‘lento’
+
+bˆSkat kuanek
+
+‘anda devagar’
+
+bˆSkat-tsˆk kuanek
+
+‘anda muito devagar’
+
+b) widan
+
+‘rápido’
+
+widan-dapa kuanek
+
+‘anda rápido’
+
+widan-dapa kimo kuanek ‘anda muito rápido’
+
+Além desses tipos semânticos apresentados acima, Bhat (1994) acrescenta, a partir de Dixon (1991)18, mais três tipos: dificuldade, qualificação e similaridade, os quais não exploramos nesse trabalho.
+
+3.1.1.3.2 Reduplicação dos Adjetivos
+Com relação à reduplicação na categoria adjetival, apenas os itens do tipo semântico cor aparecem reduplicados. Quando a língua utiliza-se desse processo significa que o objeto que está sendo modificado é de uma única cor: o barco, por exemplo, não tem uma parte branca, mas é todo branco. (48)
+
+18 Dixon, R. M..W (1991) A new approach to english grammar on semantic principles. Oxford : Oxford Universitiy Press.
+
+84
+
+a) Sin -Sin
+
+ikit
+
+amarelo -amarelo cor ‘amarelo forte’
+
+b) wisu -wisu -dapa escuro -escuro -enf. ‘preto’
+
+d) nawa
+
+wisu -wisu -dap
+
+não-índio escuro -escuro -enf
+
+‘O não-índio é preto’
+
+3.1.1.3.3 Sufixo {-kit}
+
+O morfema {-kit}, quando sufixado a uma base verbal, irá nominalizá-la. Com isso,
+
+pode exercer dois papeis: agentivo (ver seção 3.1.1.1.4) ou atributivo. Nesta seção veremos
+
+itens em posição atributiva. Exemplos:
+
+(50) muS-
+
+‘queimar’
+
+a) Subu muS -kit
+
+casa queimar -atrib. ‘casa (que foi) queimada’
+
+tSamoab) sinkuin tSamoa -kit
+banana assar -atrib. ‘Banana assada’
+
+‘assar’
+
+85
+
+munut-
+
+‘dançar’
+
+c) kanamari munud -kit -tapa
+
+kanamari dançar -atrib. -enf
+
+‘O Kanamari é dançarino’
+
+3.1.1.3.4 O adjetivo numa construção sintática
+Em um sintagma Nominal o adjetivo modifica o núcleo nominal, ocorrendo posposto a ele. Quando houver um intensificador, ele vai posposto ao adjetivo. Por exemplo: (51) a) tSianpi bˆda
+menina bonita ‘A menina bonita’ [N A ]SN
+
+b) tSianpi tuku kimo menina baixa intens. ‘A menina muito baixa’ [N A int.]SN
+
+c) tSianpi Sunu bˆda kimo menina grande bonita intens. ‘A menina grande muito bonita’ [N A A int.]SN
+
+86
+
+d) [ nawa puku nowa -dapa -n ]SN awat -Ø pe -a
+
+-k
+
+não-índio barriga grande -enf -erg. anta -abs. comer - pass.im. -?
+
+‘O branco de barriga grande (barrigudo) comeu a anta’
+
+e) nawa
+
+-n [ nami paSa -Ø ] SN pe -a
+
+-S
+
+não-índio -erg. carne crú -abs. ‘O branco comeu carne crua’
+
+comer -pass.im. –3.
+
+f) [tSianpi bˆda -Ø ]SN uS
+
+-e
+
+-k
+
+menina bonita -abs. ‘A menina bonita dorme’
+
+dormir -n.pass. -?
+
+3.1.3.4.1 Adjetivos em função predicativa
+Em uma construção sintática os adjetivos podem exercer função predicativa. Em Matis, quando esta função está em tempo não-passado, não existe uma marca que indica a relação copulativa. No entanto, quando a sentença estiver no tempo passado, encontra-se o copulativo {ik-}, que recebe as marcas flexionais de tempo, aspecto e modo, como qualquer verbo principal. Exemplos: (52) a) nebi maSakete wasa -dap
+hoje cabelo branco -enf. ‘Hoje, o cabelo (é) branco’
+
+87
+
+b) inden maSakete -Ø wisu ik
+
+-bonda
+
+-S
+
+antes cabelo -abs preto cop. -pass.dis.
+
+-3
+
+‘Antes, o cabelo era preto’
+
+c) agenor -Ø inden bˆda ik -bonda -S agenor -abs. antes bom cop. -pass.rem. -3 ‘Antigamente, o Agenor era bom’
+
+3.1.1.4 ADVÉRBIO
+Os advérbios aproximam-se da classe adjetival, principalmente no que refere à função de atuarem como modificadores. Para Bhat (1994:67) “the diference between adjetives and adverbs, concerning the kind of lexical items that they modify, gets reflected in the fact thar they represent different semantic prototypes in language in whitch they form distinct categories.”
+Em Schachter (1985:20) encontramos uma definição funcional do advérbio. Para ele, os advérbios funcionam como “modifiers of verbs, adjetives, or other adverbs”. Ainda, há alguns advérbios que podem modificar uma sentença, ou seja, ter como um escopo um constituinte. Dessa forma, é possível uma definição mais ampla de advérbios. Podemos dizer, nas palavras de Schachter, que os ‘adverbs functions as modifiers of constituents other than nouns.’ (op.cit: 20).
+Em Matis os advérbios também funcionam como modificadores de verbos, adjetivos e dos próprios advérbios. Os itens considerados como advérbios podem ser modificados pelos quantificadores kimo ‘muito, em grande tamanho’ e dadenpa ‘muito, em grande quantidade’ (ver seção 3.1.2.3). Também podem receber o sufixo {-tsˆk} ‘intensificador’, o
+
+88 qual é exclusivo ao advérbio. A seguir, apresentamos uma breve descrição dos tipos de advérbios encontrados.
+
+3.1.1.4.1 Advérbios de tempo
+
+Os advérbios temporais são utilizados quando é necessário fazer uma referência
+
+mais precisa de quando se passou o acontecimeto. O uso desse tipo de advérbio se dá em
+
+correlação com a marca de tempo do verbo, visto que a distinção entre passado recente e
+
+remoto, algumas vezes, só é entendida com o auxílio do advérbio. Uma outra característica
+
+deles é terem como escopo a sentença ou somente o SV. Quando o escopo é a sentença,
+
+preferencialmente ocorrem no início dela. No entanto, podem também ocorrer em outras
+
+posições, tanto pré-verbalmente, quanto pós-verbalmente.
+
+Exemplos:
+
+(53)
+
+a)
+
+uStokin19 mi -n -bi nami -Ø pe
+
+-bo
+
+-k
+
+ontem 2 -erg. -sg. carne -abs. comer -pass.rec. –decl. ‘Ontem, você comeu carne’
+
+b) setkiaS ˆ -Ø -bi nun -e -k amanhã 1 –abs. -sg. nadar -n.pass. -decl. ‘Amanhã eu vou nadar’
+
+19 Esta é a posição preferencial, no entanto, podemos deslocá-lo para o fim da sentença, não havendo
+problemas de interpretação.
+
+89
+
+c) tumi -Ø intSiS -ma -tsˆk kuan -a
+
+-S
+
+tumi -abs. quente -neg. -enf. sair -pass.im. -3 ‘O Tumi saiu bem cedo (manhãzinha)’
+
+3.1.1.4.2 Advérbios de lugar
+
+Este tipo de advérbio faz referência ao lugar, sendo sua posição sempre pré-verbal. O único item que ocorre entre ele e o verbo é o intensificador kimo, que o modifica.
+
+(54)
+
+a) ˆ -Ø -bi mˆduk abad -a
+
+-k
+
+1 -abs. -sg. longe ‘Eu corri para longe’
+
+correr -pass.rec. –decl.
+
+b) mi -Ø -bi nˆ -tsˆk abad -e
+
+-k
+
+2 -abs. -sg. aqui -enf. correr -n.pass. –decl. ‘Você corre aqui (perto de mim)’
+
+c) são paulo mˆdu kimo são paulo longe intens. ‘São Paulo é muito longe’
+
+3.1.1.4.3 Advérbios de Modo
+Segundo Givón (1984:77), os advérbios de modo tendem a modificar o significado do verbo, por exemplo:
+
+90 (55) a) ˆ -n -bi bˆSka -tsˆk pe -e -k
+1 -erg. -sg. devagar -enf. correr -n.pass. -decl. ‘Eu comi lentamente’
+
+b) uStokin mi -Ø -bi buˆt abad -a
+
+-k
+
+ontem 2 -abs. -sg. rápido correr -pass.im. -decl. ‘Ontem, você correu rápido’
+
+c) iva -n bˆSka -tsˆk onk -e
+
+-k
+
+iva -erg. lento -enf. falar -n.pass. ‘O Ivan fala devagar.’
+
+-decl.
+
+3.1.1.4.4 Advérbios de Intensidade
+
+Estes advérbios têm como escopo o sintagma verbal, o próprio advérbio, como
+
+também os adjetivos. Os intensificadores são kimo ‘muito’, referindo-se à qualidade, e
+
+dadenpa ‘muito’, referindo-se à quantidade’. Exemplos:
+
+(56)
+
+a) dadasibo -Ø tSonod -e
+
+-k dadenpa
+
+Sakak -e -men
+
+velho -abs. trabalhar -n.pass. -decl. intens.qdd. cansar -n.pass. -neg.n.pass. ‘O velho trabalha muito (todos os dias ou toda hora), mas não se cansa.’
+
+b) kanamadi -bo -Ø munud -e
+
+-k
+
+kimo
+
+Kanamadi -col. -abs. dançar -n.pass. -decl. muito
+
+‘Os Kanamari dançam muito (intensamente)’
+
+91
+
+c) kanamadi -bo -Ø munud -e
+
+-k
+
+dadenpa kimo
+
+kanamadi -col. -abs. dançar -n.pass. -decl. intens.qdd. muito
+
+‘Os Kanamari dançam muito bem’
+
+d) ˆ -n -bi radio -Ø buˆt kimo kuak -nu
+
+1 -erg. -sg. radio -abs. alto 'Eu vou ouvir o rádio muito alto '
+
+muito ouvir -des.
+
+3.1.2 CLASSES FECHADAS
+As classes fehadas ‘contain a fixed and usually small number of member words, which are the same for all the speakers of the language, or the dialect’ (Robins, 1964:230). Ainda, segundo Schachter (1985), nas línguas do mundo pode-se encontrar doze ou mais tipos de classes fechadas. Em Matis temos os pronomes, os numerais e os quantificadores.
+3.1.2.1 PRONOMES
+Nesta seção trataremos dos pronomes pessoais, demonstrativos, reflexivos, possessivos e interrogativos. Os pronomes pessoais em Matis não são livres, como ocorre em outras línguas Pano, mas atuam como bases presas, conjuntamente com os morfemas de número {-bi} ou {-ki ~ -kui}. Segundo Loos (1999), os pronomes de forma livre ocorrem quando indicam A e S, no entanto, quando aparecem presos, têm a função de objeto indireto. Por exemplo: /ˆan ‘I’ (form free), /ˆ/-ki ‘me-to’(bound form) (op. cit. p.235 língua Isconawa). No quadro abaixo observa-se a ocorrência dos pronomes livres nas
+
+92
+
+línguas Cashinawa, Katukina e Marubo. Comparando-se com Matis, em (58), verificamos
+
+que os pronomes pessoais não ocorrem livremente.
+
+(57)
+
+Cashinawa (Peru)
+
+Katukina Pano (Acre)
+
+Marubo (AM)
+
+Abs./Erg.
+
+Abs./Erg.
+
+Abs./Erg.
+
+1sg.
+
+en/ean
+
+ˆa/ˆan
+
+»µa/µ»å)
+
+2sg
+
+min/mian
+
+mia
+
+»mia/mi»å)
+
+3sg.
+
+----/jatun
+
+1pl.
+
+nun/nukun
+
+haa hatu/atun
+
+-----»nukµ/nu»kµ)
+
+2pl.
+
+man/matun
+
+kuyusha
+
+»mato/ma»tu)
+
+3pl.
+
+jabu/jabun
+
+matu/matun
+
+-----
+
+Os pronomes pessoais em Matis são formados pelos marcadores ˆ-, mi- e nu-, conjuntamente com os sufixos {-bi}, {-ki} e {-kui}, indicando singular e plural, respectivamente. Observando o quadro de exemplo (59) verificamos que a marca do caso ergativo ocorre entre a marca de pessoa e número. Dessa forma, podemos supor que a ocorrência do caso absolutivo esteja também nessa mesma posição. (58)
+
+Pess. 1sg. ˆ-
+2sg. mi-
+
+caso absolutivo -Ø
+-Ø
+
+Núm. -bi
+-bi
+
+1pl. nu-
+
+-Ø
+
+-ki
+
+2pl. mi-
+
+-Ø
+
+-kui
+
+Sintaticamente os pronomes podem ocupar as posições argumentais A, S, O e OI; se os singulares estiverem em posição de A, os mesmos serão sufixados pela marca -n do caso
+
+93
+
+ergativo. Já os plurais não recebem esta marca, pois há uma cisão com relação a ergatividade no sistema pronominal pessoal.
+
+(59)
+
+Pess. Caso Ergativo Núm.
+
+1sg. ˆ-
+
+-n
+
+-bi
+
+2sg. mi-
+
+-n
+
+-bi
+
+1l. nu-
+
+----
+
+-ki
+
+2l. mi-
+
+----
+
+-kui
+
+Como foi dito acima, os pronomes pessoais podem ocupar as posições de sujeito de sentenças transitivas (A), sujeito de sentenças intransitivas (S) e objeto (O). Visto que a língua possui um sistema ergativo/absolutivo (exploraremos mais o caso ergativo na seção 5.1), a marca de caso ocorrerá sufixada ao pronome, como vimos no quadro acima, antes da marca de número, diferentemente dos nomes, nos quais o caso ergativo vem sufixado sempre na fronteira lexical à direita.
+Pronomes pessoais em posição de A, comparados com os de posição de S ou O: (60)
+
+a) ˆ -n -bi tSatSa -∅ pe -a
+
+-k
+
+1 -erg. -sg buriti -abs. comer -pass.im. -decl. ‘Eu comi buriti’
+
+b) ˆ -Ø -bi uS -a
+
+-k
+
+1 -abs. -sg dormir -pass.im. -decl. ‘Eu dormi’
+
+94 c) mi -n -bi ˆ -Ø -bi waka -wa -e
+2 -erg. -sg 1 -abs. -sg. água -vbzdor -n.pass. ‘Você me molhou’
+
+d) unkin -Ø abad -a
+
+-S
+
+porco -abs. correr -pass.im. -3 ‘O porco correu’
+
+e) unkin -an atsa
+
+-Ø pe -a
+
+-S
+
+porco -erg. mandioca -abs. comer -pass.im. -3 ‘O porco comeu a mandioca’
+
+Como foi dito, existe uma cisão entre os pronomes pessoais singulares e plurais. Verificamos que em posição de A os pronomes recebem a marca de caso –n, diferentemente de S e O. No caso da 1a e 2a pessoas do plural, não há a presença da marca ergativa, quando estão em posição de A. Dessa forma, o que diferencia os pronomes plurais com relação à posição de S e O será a posição sintática em que se encontram. Em nossos dados encontramos os pronomes de 1a e de 2a pessoas do singular variando sua posição na oração, ora na primeira posição, o que é comum na língua, ora na segunda posição (ver exemplo 61 (a)); já os pronomes plurais sempre ocorrem na primeira posição, e quando os encontramos na segunda posição, eles estarão na função paciente. No entanto, sentenças como 61 (b) são consideradas agramaticais pelos falantes. (61)
+
+95
+
+a) sinkuin -dapa -Ø mi -n -bi tSe20 -e
+
+-k
+
+banana -top. -abs. 2 -erg. -sg. comer -n.pass. -decl. ‘Você come banana’
+
+a) nu -ki awat -Ø pe -a
+
+-k
+
+1 -pl anta -abs. comer -n.pass. -decl.
+
+‘Nós comemos anta’
+
+b) *awat nuki peak 21 ‘Nós comemos anta’
+
+3.1.2.1.1 Pronomes Demonstrativos
+Os pronomes demonstrativos possuem uma característica semelhante aos nomes. Segundo Anderson e Keenan (1985), estes tipos de pronomes ocupam posições semelhantes aos nomes por terem uma natureza dêitica. Assim, “[…] demonstrative pronouns (such as English this, that, these, and those) as well as full NPs wich are specified by demonstrative adjectives (with or without additional locative deictic specification, as for example this card, or those men over there) are clearly enough deictic […]” (op.cit. 263)
+Podemos verificar que os demonstrativos nekit ‘esse’, nˆkit ‘isso’ e ukit ‘aquilo’ mostram-nos claramente sua natureza dêitica, pois são derivados do advérbio de lugar, mas o pronome demonstrativo akit ‘aquele’ não é derivado de uma base adverbial (62 (b)). Exemplos: (62)
+
+20 Este tipo de verbo é usado quando se trata de certos tipos de alimentos, como mole, granulado, etc. 21 Esta sentença não é aceita pelos falantes. Normalmente eles a corrigem invertendo a ordem, colocando o
+pronome em primeira posição.
+
+96
+
+a) ne- -kit → nekit ‘esse’
+
+alí- -nzdor
+
+nekit -bo -n tSawa -Ø pe -a
+
+-S
+
+esse -col. -erg. queixada -abs. comer -pass.im. -3 ‘Esses (aqui) comeram a queixada’
+
+b) nˆ- -kit → nˆkit ‘isso’
+
+aqui- -nzdor nˆkit mi -n -a
+
+isso
+
+2 -poss. –pertence a
+
+‘Isso pertence a você’
+
+c) u- -kit →
+
+ukit ‘aquilo ou aquele (lá, se está distante)’
+
+lá- -nzdor
+
+ukit -an tSawa -Ø pe -a
+
+-S
+
+aquele -erg. anta -abs. comer -pass.im. -3 ‘Aquele (alí, com certa distância) comeu a anta’
+
+d) a -kit →. 3 -nzdor akit uS -e -k
+
+akit ‘aquele’
+
+aquele dormir -n.pass. -decl. ‘Aquele (lá, não longe) está dormindo’
+
+97 3.1.2.1.2 Pronomes Reflexivos
+
+O pronome reflexivo em Matis é formado pelo sufixo {-ben}. Segundo Shachter
+
+(1985: 27) esses tipos de pronomes “are interpreted as coreferential with another nominal,
+
+usually the subject, of the sentence or clause in which they occur”. Atentando-nos a isso,
+
+encontramos as seguintes ocorrências:
+
+(63)
+
+a) ˆ -n -ben -bi anbi nami -Ø pe -e
+
+-k
+
+1 -erg. -refl. -sg. 1p.erg carne -abs. comer -n.pass. –decl. ‘Eu mesmo que como anta’
+
+b) mi -ben -bi mi -Ø -bi ta- dˆd -ad -a
+
+-S
+
+2 -refl. -sg. 2 -abs -sg. pé- cortar -refl. -pass.im. -3 ‘Você mesmo que se cortou’
+
+c) dani -Ø a -ben ta -dˆd -ad -bo
+
+-S
+
+dani -abs. 3 -refl. pé -cortar -refl. -pass.rec.
+
+-3
+
+‘Dani cortou o pé dela mesma’
+
+d) nawa -Ø a -ben tonka -ad -a
+
+-S
+
+não-índio -abs. 3 -refl. atirar -ref. -pass.im. -3 ‘O não-índio se matou ou matou a si mesmo’
+
+98 3.1.2.1.3 Pronomes Possessivos
+
+Os pronomes possessivos ocorrem na locução antecedendo o possuidor, e vêm sufixado pelo morfema de posse {-n}. Este morfema é o mesmo que ocorre com os nomes. Encontramos um problema referente à segmentação ou não da marca de pessoa. Levantamos, portanto, duas hipóteses. (i): o pronome é segmentável. Dessa forma, teríamos no conjunto que forma o pronome possessivo: [Marca de Pessoa + Número + Morfema possessivo].
+
+Por exemplo:
+
+(64)
+
+a)
+
+1
+
+b) singular 2
+
+c)
+
+3
+
+d)
+
+1
+
+e) plural 2
+
+f)
+
+3
+
+Pessoa numia-
+numia-
+
+Núm. -ku ---wˆ
+-ki -tso -to
+
+Poss. -n -n -n
+-n -n -n
+
+Em relação à marca de número, o que nos fez propor a segmentação do quadro acima foi a semelhança com os pronomes pessoais de 1a e 2a pessoas do plural, os quais possuem {-ki} e {-tso}22. Levantamos, então, algumas questões: será que realmente são marcas de número? Se são, por quê para cada pessoa há um sufixo específico? Infelizmente não podemos responder tais questões nesta dissertação, deixando as respostas para uma futura investigação.
+
+22 Este sufixo ocorre em pronomes de segunda pessoa do plural quando o mesmo está em uma posição benefactiva, por exemplo :
+ˆnbi datonkete darenpa mitso meneak
+eu camisa muitas para vocês dei ‘Eu dei muitas camisas para vocês’
+
+99
+
+Esta forma de segmentação se diferenciaria das demais línguas da família Pano. Os pronomes, segundo cada pesquisador das línguas abaixo representadas, não são segmentados. Apresentamos, a seguir, um quadro dos pronomes possessivos das línguas Cashinawa (Susan Montag, 1981) , Wariapano e Shipibo-Konibo (Pilar Valenzuela, 1998), Mayuruna (Harriet Kneend, 1979) e Marubo (Raquel G. R. Costa, 1992).
+
+(65)
+
+singular plural
+
+Mayuruna kon
+mitsan aton
+nokin nokin ----
+
+Marubo Cashinawa
+
+ün
+
+en
+
+min
+
+min
+
+an
+
+javen
+
+nukun nukun
+
+matun matun
+
+atovun jatun/jabun
+
+Wariapano nojkon min jawen
+non mibon jajton
+
+Shipibo-K. nokon min jawen
+non maton jaton
+
+Hipótese (ii): poderíamos seguir o padrão das línguas Pano e não segmentá-lo. No entanto, essa segunda hipótese se complica, na medida em que parece realmente existir uma segmentação. Resta-nos, portanto, compreender a função dos prováveis morfemas {-ku}, {-wˆ}, {-ki}, {-tso} e {-to}. Para a exemplificação dos dados decidimos não segmentar o pronome possessivo23, o que não indica que estejamos ou não de acordo com qualquer uma das hipóteses. Como dito acima, é preciso um melhor estudo sobre esta questão. Abaixo segue o quadro dos pronomes sem segmentação:
+
+(66)
+
+a) 1
+
+Pessoa nuku
+
+Possessivo -n
+
+b) 2
+
+mi
+
+-n
+
+c) 3
+
+awˆ
+
+-n
+
+d) 1pl
+
+nuki
+
+-n
+
+e) 2pl
+
+mitso
+
+-n
+
+f) 3pl
+
+ato
+
+-n
+
+23 Necessita-se de um estudo mais detalhado dos pronomes possessivos.
+
+100
+
+a) ˆ -Ø -bi [nuku -n Subu -no -wˆS]SN tSo -a
+
+-k
+
+1 -abs. -sg
+
+1 -poss casa -loc. -abl.
+
+‘Eu venho da minha casa’
+
+vir -pass.im -decl.
+
+b) mi -n awin -an awat -Ø kodoka -e 2 -poss. esposa -erg. anta -abs cozinhar -n.pass. ‘Tua esposa cozinha anta’
+
+c) awˆ -n datonkete 3 -poss. camisa ‘Camisa (é) dele’
+
+d) maria -n [nuki -n datonkete -Ø ]SN Sik -a
+
+-S
+
+Maria -erg. 1 -poss. roupa -abs. ‘Maria lavou as nossas roupas’
+
+lavar -pass.im. -3
+
+e) maria -n [mi -tso
+
+-n
+
+datonkete -Ø]SN Sik -a
+
+-S
+
+Maria -erg. 2 -benfact. -poss. roupa ‘Maria lavou roupas para vocês’
+
+-abs. lavar -pass.im. -3
+
+f) ato -n -a matSi tubante 3 -poss. -3 farinha forno ‘O forno de farinha é deles’
+
+101 3.1.2.1.4 Pronomes Interrogativos
+Os pronomes interrogativos são empregados na formulação de perguntas, quer sejam diretas ou indiretas. Encontramos quatro formas básicas de perguntas Qu-: {tsu-}, {awˆ-}, {mi-}, {mis-} e {na-}. Estas formas são combinadas com os sufixos {-tsi}, {-da} e {-de}, que determinam o tipo específico da pergunta, com exceção do Qu- {na-}, o qual pode também combinar com os sufixos de tempo, aspecto e modo. Abaixo podemos observar a ocorrência desses pronomes.
+
+(67) awˆ- ‘que’ a) awˆ -tsi ‘que, o que? (não se sabe quais objetos serão lavados, por exemplo: se a
+camisa, se a calca, etc.).
+
+awˆ -tsi mi -n -bi Sik -e Qu- -inter. 2 -erg. -sg. lavar -n.pass. ‘O que você vai lavar?’
+
+b) awˆ -da ‘qual?/o que?’ (não se sabe qual objeto será lavado, por exemplo: se será um barco, se será uma roupa, etc.).
+
+awˆ -da mi -n -bi Sik -e Qu -inter. 2 -erg. -sg. comer -n.pass. ‘Com que você vai lavar?’
+
+c) awˆ -n -da é utilizado em perguntas referentes a modo, e está em função adverbial.
+
+awˆ -n
+
+-da atalaia -no kuan -e
+
+Qu -modo -inter. atalaia -loc. ir ‘Como (você) vai para Atalaia?
+
+-n.pass.
+
+102
+
+d) awˆ -de é usado em perguntas que se referem a lugar, em função adverbial,
+
+ocorrendo sempre em sentenças de verbos intransitivos. awˆ -de mi -Ø -bi kuan -e
+
+Qu -inter. 2 -abs. -sg. ir ‘Onde você vai?’
+
+-n.pass.
+
+mi- ‘onde’ mida, mintsi e minotsi são usados em perguntas referentes a lugar; no entanto, cada um possui sua função dêitica na sentença.
+(68) a) mi -da é usado quando se está perto do local (visível). Sua função é de advérbio de lugar. mi -da mi -n Subu Qu -inter. 2 -poss. casa ‘Onde é tua casa?’
+
+b) mi -n -tsi é usado quando o local é próximo (não visível).
+
+mi -n -tsi mi -n
+
+Subu24
+
+Qu -loc -inter 2 -poss. casa ‘Qual é a tua casa?
+
+24 Neste contexto xubu não significa casa, mas lugar.
+
+103 b) mi -no -tsi é usado quando o local se encontra em uma distância longínqua.
+mi -no -tsi mi- -n Subu Qu -loc25 -inter. 2 -poss. casa ‘Onde você mora? R.: São Paulo.
+d) mi -wˆS -ta é empregado quando o falante desconhece a origem da ação, como por exemplo, quando a pessoa está ouvindo algo, mas não sabe de onde vem o barulho. mi- -wˆS -ta onk -e Qu- -abl. -? falar -n.pass. ‘Onde está a conversa?’
+
+e) mi -tsi é usado quando há uma idéia seletiva.
+
+mi -tsi mi- -n
+
+awin
+
+Qu- -inter 2 -poss. esposa
+
+‘Qual é tua esposa?’
+
+mis- ‘Qu- ’
+(69) a) mis -te -tsi indica quantidade.
+mis -te -tsi mi -n papi Qu -qdd. -inter. 2 -poss. filho
+
+25 O -no Direcional refere-se a um lugar distante. Neste caso, me perguntavam onde eu morava, sabendo que não era um lugar próximo.
+
+104 ‘Quantos filhos tem?’ b) mis -te -n -tsi : ao sufixar {-n} ‘dimensão’ o significado passa à ‘qual tamanho?’ mis -te -n -tsi mi -n papi Qu -qdd. -tam. -inter. 2 -poss. filho ‘Qual o tamanho do teu filho?’
+
+c) mis -te -konˆS -tsi é relacionado à questão temporal.
+
+mis -te -konˆS -tsi mi -Ø -kui kuan -e
+
+Qu -qdd. -temp. -inter. 2 -abs. -pl. ir Quando vocês irão embora?
+
+-n.pass.
+
+c) mis -te -de -ta mis -te -de -ta uSˆ txo -e Qu - qdd. -? -? lua vir -n.pass. ‘Quantos meses faltam para você voltar?’
+
+e)
+
+mis -pade -n -tsi
+
+mis -pade -n -tsi
+
+mi -n -bi pe -e
+
+Qu -hora de -erg. -inter. 2 -abs. -sg. comer -n.pass.
+
+‘Qual a ‘hora’ que você vai comer?’26
+
+26 Neste exemplo o informante quer saber exatamente a hora do dia em que irá comer. Em nenhum momento ele usaria essa sentença para dúvida com relação ao dia, mês, ano, etc da partida.
+
+105 mis -pade -ta duk -e Qu -? -enf. dormir -n.pass. 'Como vou dormir?’
+
+tsu- refere-se apenas a pessoas ou algo personificado. Dessa forma, pode receber caso
+
+ergativo, possessivo e comitativo.
+
+(70)
+
+a) tsu -tsi
+
+‘quem?’
+
+tsu -tsi nes -a
+
+-S
+
+Qu- -inter banhar -pass.im. -3 ‘Quem tomou banho?’
+
+b) tsu -n -tsi tsu -n -tsi pe -a
+
+‘quem?’ -S
+
+Qu- -erg. -inter comer -pass.im. -3 ‘Quem comeu?’
+
+c) tsu -bˆt -tsi
+
+‘com quem?’
+
+tsu -bˆt -tsi mi -Ø -bi kuan -e
+
+Qu- -com. -inter 2 -abs. -sg. ir ‘Com quem você vai embora?’
+
+-n.pass.
+
+As perguntas que se referem a causa são feitas por meio do morfema {na-}, o qual não ocorre isoladamente, estando sempre sufixado por outros morfemas. As formações
+
+106
+
+encontradas em nossos dados são nada kek, nada kanu, natsi kek e natsi kekin. Abaixo
+
+apresentamos os exemplos com uma possível segmentação:
+
+Exemplos:
+
+(71)
+
+a) na -da kek27 mi -Ø -bi uS
+
+-a
+
+-ma
+
+Qu- -interr. ?
+
+2 -abs -sg. dormir -pass.im. -neg.pass.
+
+‘Por quê você não dormiu?’
+
+b) na -da kanu mi -n -bi datonkete -Ø men -e Qu -interr. ? 2 -erg. -sg. camisa -abs. dar -n.pass. 'Por quê você vai dar a camisa?' (lit. Para quem você deseja dar a camisa?)
+
+c) na -tsi
+
+kek awin
+
+ba -ma
+
+-S -tapa
+
+Qu -interr. ? mulher cop. -neg.pass. -3 -enf.
+
+'Por quê está sem mulher?'
+
+d) na -da kekin mi -n -bi pe -e -men
+
+Qu -interr. ?
+
+2 -erg -sg. comer -n.pass. -neg.n.pass.
+
+'Por quê você não está comendo?'
+
+27 Até o momento não sabemos ainda o significado desse item, mas se compararmos os exemplos (a), (b), (c) e (e) verificamos que há marcas de tempo e aspecto. Com isso, fica a questão se ele é ou não um verbo auxiliar.
+
+107 3.1.2.2 Numerais
+
+A língua Matis possui palavras para números de um até cinco, sendo que a
+
+contagem é feita utilizando-se os dedos. Os falantes podem indicar o número dez (10) com
+
+a somatória de cinco dedos mais cinco dedos, o que seria o mesmo que dizer duas mãos.
+
+Dessa forma, o grupo pode contar até vinte, utilizando os dedos das mãos e dos pés.
+
+Quando a quantidade não for especificada, e estiver acima da contagem de cinco, é usado o
+
+quantificador dadenpa. Hoje, alguns que são falantes bilingües se valem do sistema
+
+numérico nacional (brasileiro). Os numerais são:
+
+(72)
+
+a)
+
+epapa
+
+1
+
+b)
+
+dabˆtpa
+
+2
+
+c)
+
+mˆkan antantet
+
+3
+
+d)
+
+mˆkantet
+
+4
+
+e)
+
+mˆkan atSˆwˆStet
+
+5
+
+f)
+
+mˆkan dadenpa
+
+acima de 5
+
+O número 6 é expresso pela combinação da palavra mão mais o polegar, e o número
+
+7 é expresso por meio da combinação da mesma palavra mais o item que se refere ao
+
+número dois. Por exemplo:
+
+(73)
+
+a) mˆkan maSopa ˆkˆkitbˆt
+
+6
+
+mão polegar mais
+
+b) mˆkan ˆkˆkit dabˆtpa
+
+7
+
+mão mais dois
+
+108
+
+Estes dois números, 6 e 7, foram estabelecidos a partir de uma discussão com a
+
+população, se seria possível formá-los ou não, mas não faz parte da numeração básica do
+
+grupo.
+
+No sintagma os numerais modificam o SN, ocorrendo pospostos a ele, como
+
+podemos observar abaixo:
+
+(74)
+
+a) tSuna epapa -Ø ivan mene -a
+
+-S
+
+porco número 1 -abs. Ivan dar -pass.im. -3 ‘(Ele) deu para o Ivan um porco.’
+
+b) unkin dabˆtpa abi porco número 2 existir ‘Há dois porcos’
+
+3.1.2.3 Quantificadores
+
+Em Matis encontramos os seguintes quantificadores: (75)
+
+a) dadenpa ‘muito, em grande quantidade’ (pode ser usado para contável ou não)
+
+b) kimo
+
+‘muito’ (nunca ocorre como contável)
+
+c) dabˆtsˆk ‘pouco (contável)’
+
+d) papitsˆk ‘pouco (não contável)’
+
+109
+
+Os quantificadores, segundo Schachter (1985), consistem de modificadores de
+
+nomes que indicam quantidade. No entanto, em Matis, estes mesmos itens podem funcionar
+
+modificando o adjetivo, o verbo e o advérbio. Eles têm funções diferentes dependendo da
+
+sua posição sintática, isto é, se ocorrerem pospostos ao nome terá a função de
+
+quantificador. Exemplos:
+
+(76)
+
+a) waka –n i
+
+dadenpa ‘muitas arraias no rio’
+
+rio -loc. arraia muito
+
+b) ˆ -n -bi waka papitsˆk -Ø ak -nu 1 -erg. -sg. água pouco -abs. beber -des. ‘Eu quero beber pouca água’
+
+Se ocorrerem após o advérbio e/ou adjetivo, sua função será de intensificador: (77)
+
+c) rogero Subu -no sorvete iSa
+
+kimo ik -bonda -S
+
+Rogério casa -loc. sorvete gostoso muito cop. -pass.rem. -3 ‘Na casa do Rogério o sorvete era muito gostoso.’
+
+Após um verbo e um advérbio também funcionam como intensificadores: (78) a) i -Ø -bˆ buˆt kimo abad -e -k
+1 -abs. -sg. rápido muito correr -n.pass. -decl. ‘Eu corri muito rápido’
+
+110
+
+b) dadasibo -Ø tSonod -e
+
+-k dadenpa Sakak -e -men
+
+velho -abs. trabalhar -n.pass. -decl. muito cansar -n.pass. -neg.n.pass. ‘O velho trabalha muito (todos os dias) sem se cansar.’
+
+Seguindo autores como Schachter (1985) e Givón (1984), entre outros, pudemos descrever as classes de palavras na língua Matis, e assim, distinguimos as classes de palavras em abertas: nome, verbo, adjetivo e advérbio, e em fechadas: pronomes, numerais e quantificadores.
+O capítulo a seguir apresentaremos o comportamento sintático das sentenças simples da língua Matis, focalizando a marcação do caso ergativo. Não trataremos de sentenças complexas, pois esse tipo de construção necessita de estudos mais detalhados.
+
+111
+IV CONSIDERAÇÕES SOBRE A SENTENÇA E A MARCAÇÃO DO CASO ERGATIVO
+
+112
+
+113 Neste capítulo discutiremos a ordem dos constituintes e a marcação do caso ergativo na língua Matis. A explicação sobre ergatividade será feita baseada, principalmente, em Dixon (1979).
+4.1 Ordem Básica da Língua Matis
+Segundo Greenberg (1963), as línguas têm várias ordens sintáticas possíveis; no entanto, somente uma é dominante nas línguas naturais. Em Matis encontramos as ordens28 AOV, OAV e AVO em construções com verbos transitivos, e SV e VS em construções com verbos intransitivos, sendo que apenas uma pode ser considerada a ordem dominante. Em estudos com verbos transitivos predomina a ordem AOV, e nos intransitivos, SV é a predominante.
+Em outras línguas Pano a mudança dessa ordem básica envolve a topicalização. Não temos evidências, até o momento, se a topicalização em Matis é realizada pela mudança de ordem dos constituintes.
+Na língua Matis as raízes verbais seguem o mesmo padrão das outras línguas da família lingüística Pano. Segundo Loos (1999: 243), nas línguas dessa família ‘Verb roots are inherenttly intransitive (‘to sleep’), reflexive (‘to sit down’), transitive (‘to eat’) or ditransitive (‘to give’)’. Quanto a estes tipos encontramos:
+Intransitivos: (79)
+28 No capítulo anterior optamos em exemplificar utilizando a ordem AOV, considerada básica . Essa opção decorre do fato de não sabermos o motivo pelo qual existe a mudança de ordem, se é uma forma de se topicalizar ou se existe um outro motivo. Dessa forma, os exemplos foram utilizados sempre na ordem AOV.
+
+114
+
+a)
+
+wapa -Ø uS -e
+
+-k
+
+cachorro -abs. dormir -n.pass. –decl. ‘O cachorro dorme’
+
+b)
+
+kamun -Ø abad -e
+
+-k kimo
+
+onça -abs. correr -n.pass. -? muito
+
+‘A onça corre muito’
+
+Transitivos:
+
+(80)
+
+a)
+
+wapa -n nami -Ø pe -a
+
+-k
+
+cachorro -erg. carne -abs. comer -pass.im. –decl.
+
+‘O cachorro come carne’
+
+b)
+
+papi -n unkin -Ø tonk -a
+
+-S
+
+homen -erg. porco -abs. atirar -pass.im. -3
+
+‘O homem atirou (matou) um porco’
+
+Ditransitivos
+
+(81)
+
+a)
+
+mariu -n datonkete -Ø mi -Ø -tso men -e
+
+-k
+
+mario -erg. camisa -abs. 2 -abs. -ben. dar -n.pass. -decl.
+
+‘Mário deu camisa para vocês’
+
+b)
+
+Siku -n di ˆ -Ø -bi bet -Sun -bo
+
+-S
+
+Chico -erg. rede 1 -abs. -sg. dar -benef. -pass.rec. -3 ‘Chico comprou rede para mim’
+
+115 4.1.1 A Ordem dos constituintes na sentença
+
+Como já dito anteriormente, a ordem principal na língua é AOV ou SV; no entanto, é possível encontrarmos outras ordens como AVO, OAV ou VS. Porém, no caso de orações transitivas não encontramos a ordem OVA. Não podemos afirmar, no momento, quais as implicações que há sobre o significado quando ocorre uma mudança de ordem entre o sujeito e o objeto. Quando o verbo pede um terceiro argumento (OI), prioritariamente ocorrerá precedendo o verbo. Assim, podemos encontrar as seguintes construções:
+
+- Orações do tipo A O V (82) 29
+
+a) papi -n
+
+tSawa -Ø tonka -e
+
+homem -erg. queixada -abs. matar -n.pass. ‘O homem mata a queixada.’
+
+b) mi -n -bi txawa -Ø pe
+
+-a
+
+-k
+
+2 -erg. -sg. queixada -abs. comer -pass.im. –decl.
+
+´Você comeu a queixada.’
+
+- Orações com três argumentos
+Temos visto que nas orações de dois argumentos a ordem básica possível é A O V. Quando tivermos mais um elemento na sentença, como por exemplo OI, notamos que se colocará, preferencialmente, adjacente ao verbo, mas sendo também possível encontrá-lo
+
+29 Em qualquer uma das orações é possível inverter a ordem AO, sem que se perca o sentido da sentença, mas este tipo de ocorrência é efetivamente baixo dentro dos dados coletados.
+
+116
+
+entre A e O, ocorrendo raramente posposto o verbo. Com isso, parece-nos que OI pode se posicionar em qualquer lugar na sentença, menos na 1a posição, pois não encontramos, em
+
+nossos dados, nenhuma vez ocupando esta posição OI A (O) V. Exemplos:
+
+(83)
+
+A
+
+O
+
+Oi
+
+V
+
+a) mario -n datonkete -Ø ˆ -Ø -bi bed -a
+
+-k
+
+mario -erg. camisa -abs. 1 -abs. -sg. comprar -pass.im. -decl. ‘Mário comprou camisa para mim.’
+
+A
+
+Oi
+
+O
+
+V
+
+b) mi -n -bi ˆ -∅ -bi asuca -Ø bet
+
+-Sun
+
+2 -erg. -sg. 1 -abs -sg. açucar -abs. comprar -ben. ‘Você compra açúcar para mim’
+
+A
+
+O
+
+V
+
+c) ˆ -n -bi datonkete -Ø bed -a
+
+Oi -k mi -Ø -bi
+
+1 -erg. -sg. camisa -abs. pegar -pass.im. -decl. 2 -abs. -sg. ‘Eu peguei a camisa para você’
+
+- Orações do tipo SV ou VS
+
+(84)
+
+S
+
+V
+
+a) wapa -Ø uS -a
+
+-k
+
+cachorro -abs. dormir -pass.im. -decl. ‘O cachorro dormiu’
+
+117
+
+V
+
+S
+
+b) abad -e
+
+-k
+
+awat -Ø
+
+correr -n.pass. -decl. anta -abs.
+
+‘A anta corre’
+
+Na presença de um locativo ou intrumentativo a ordem preferida é SV. Contudo, é possível encontrarmos a ordem inversa VS, como em (85 (b)). Comparam-se também (85 (a)) e (84 (b)):
+
+(85)
+
+S
+
+Loc.
+
+V
+
+a) ˆ -Ø -bi tSora -n uS -a
+
+-k
+
+1 -abs. -sg. chão -loc. dormir -pass.im. -decl.
+
+‘Eu dormi no chão’
+
+S
+
+V
+
+b) papi -bo -Ø nun -e
+
+Loc. -k waka -n
+
+rapaz -pl -abs. nadar -n.pass. –ass. rio -loc.
+
+‘Os homens nadam no rio’
+
+S
+
+Instr.
+
+V
+
+c) iva -Ø nunte -n kuan -a
+
+-S
+
+iva -abs. canoa -instr. ir -pass.im. -3 ‘O Iva foi embora com a canoa’
+
+118 4.2 Marcação do Caso Ergativo
+Nesta seção trataremos da marcação dos casos ergativo/absolutivo em Matis, característica partilhada por outras línguas da família Pano.
+Segundo Dixon (1979), a marcação desses casos se caracteriza pela sua escolha em relação às orações transitivas e intransitivas. Segundo o autor, em uma construção sintática podem se considerar três relações sintático-semânticas.
+Sujeito da intransitiva: S Sujeito da transitiva: A Objeto da transitiva: O
+São estas relações que irão diferenciar uma língua nominativa/acusativa de uma língua ergativa/absolutiva. Essas relações podem ser esquematizadas como se segue:
+
+nominativo: A e S
+
+ergativo:
+
+A
+
+vs acusativo: O vs absolutivo: S e O
+
+A função S geralmente é morfologicamente não marcada nas línguas, pelo fato das orações intransitivas apresentarem somente um argumento externo. Dessa forma, não é preciso diferenciá-lo dos outros constituintes. Já em línguas do tipo ergativo/absolutivo o absolutivo é, geralmente, o termo não marcado.
+Em línguas do tipo nominativo/acusativo o termo marcado é o acusativo. A partir dessas observações, como já se pôde verificar em várias passagens desta dissertação, podemos descrever a língua Matis como sendo do tipo morfologicamente
+
+119 ergativo/absolutivo. A ergatividade nesta língua é marcada pelo morfema {-n} ‘marca de ergativo’. O absolutivo ocorre sem marca alguma, sendo representado por ∅. Exemplos: (86)
+a) tuma -n awat -Ø koroka -e Tuma -erg anta -abs. cozinhar -n.pass. ‘Tuma cozinha a anta’
+
+b) uStokin tumi -n unkin -Ø tonk -a
+
+-S
+
+ontem tumi -erg. porco -abs. matar -pass.im. –3 ‘Ontem, Tumi matou o porco’
+
+c) papi -Ø uS
+
+-e
+
+-k dukek
+
+homem -abs dormir -n.pass. -? deit. ‘O homem dorme (pendurado)’
+
+d)
+
+abad -e
+
+-k bina -Ø
+
+correr -n.pass. -decl. Bina -abs.
+
+‘Binan corre’
+
+4.2.1 Os alomorfes do morfema de ergatividade
+O morfema {-n} ‘ergativo’ possui alomorfes condicionados pelas terminações finais das raízes nominais: - se a raiz nominal terminar em vogal ela receberá o sufixo {-n};
+
+120
+
+(87) a) Saˆ b) tSitSi c) tSidabo
+
+Saˆ –n tSitSi –n tSidabo -n
+
+‘jabuti’ ‘vó por parte de mãe’ ‘mulher’
+
+- quando a raiz terminar em consoante oclusiva alveolar /t/ ou em consoante nasal /n/,
+
+será sufixado o alomorfe {-an};
+
+(88) a) awat30
+
+awat –an
+
+‘anta’
+
+b) wesnit
+
+wesnit –an
+
+‘mutun’
+
+c) wanpan wanpan -an
+
+‘barata’
+
+d) kaStadun kaStadun -an
+
+‘lacraia’
+
+quando a raiz terminar em uma consoante fricativa palatal /S/ ou oclusiva velar /k/, se
+
+sufixará o alomorfe {-Sun}.
+
+(89) a) atSˆwˆS
+
+atSˆwˆS -Sun
+
+‘todos’
+
+atSuwˆS -Sun awat kodoka -e
+
+todos -erg. anta ‘Todos cozinham anta’
+
+cozinhar -n.pass.
+
+30 Este é um processo fonológico no qual o fonema /t/ se transforma em [R] entre vogais, em fronteira morfológia. Segundo Spanghero, “Em um processo de Tapping , /t/ e /d/ são pronunciados como [R] em
+fronteira morfológica, entre vogais. O resultado dessa mudança é uma pronúncia com uma duração mais curta, ou seja, um rápido tap. Assim, quando um sufixo for iniciado por uma vogal, a raiz terminada em /t/ se torna [R]. (2000: 96)”
+
+121
+
+b) a -ben -tsˆk -Sun ak -a
+
+-k
+
+3 -rest. -intens. -erg. beber -pass.im. –decl. ‘Só ele bebeu’
+
+c) ˆ -ben -tsˆk -Sun anbi pe -a
+
+-k
+
+1 -rest. -intens. -erg. 1p. erg. comer -pass.im. –decl. ‘Só eu comi’
+
+4.2.2 Sistema Pronominal cindido
+Encontramos uma cisão no sistema pronominal, como podemos notar no exemplo (90). Se observarmos (90 (a)) verificamos, como já dito anteriormente, que há a inclusão do morfema de caso ergativo {-n} logo após a marca de primeira pessoa. Isto ocorre por ser sujeito de uma sentença de verbo transitivo. No entanto, na sentença (90 (b)) o mesmo pronome não está marcado pelo morfema de caso ergativo, por ser sujeito de uma sentença de verbo intransitivo. Se compararmos com as sentenças (90 (c) e (d)), notaremos que o pronome de primeira pessoa do plural não recebe nenhuma marca de caso, quer seja sujeito de sentenças de verbos transitivos ou intransitivos, isto também se aplica ao pronome de segunda pessoa do plural. Assim, vemos que existe uma cisão entre os pronomes 1sg. e 2 sg. em relação aos de 1pl. e 2 pl. A regra não se aplica à terceira pessoa, visto que ela só é expressa se for por meio dos demonstrativos. Pronomes Pessoais (90)
+
+122
+
+a) ˆ -n -bi tSatSa -Ø pe -a
+
+-k
+
+1 -erg. -sg. buriti -abs. comer -pass.im. –decl. ‘Eu comi buriti’
+
+b) ˆ -Ø -bi 1 -abs -sg. ‘Eu dormi’
+
+uS
+
+-a
+
+-k
+
+dormir -pass.im. –decl.
+
+c) nu -ki tsari -Ø pe
+
+-e
+
+-k
+
+1 -pl. milho -abs. comer -n.pass. –decl.
+
+‘Nós falamos matis’
+
+d) nu -ki uS -a
+
+-k
+
+1 -pl. dormir -pass.im. –decl. ‘Nós dormimos’
+
+4.2.3 Classes de verbos e seu efeito sobre o caso ergativo
+
+Se compararmos os dados (91 a, b, c) notamos que são verbos que semanticamente
+
+não possibilitariam ao experenciador ter algum tipo de controle; no entanto, em Matis,
+
+parece-nos que o experimentador possui tal controle, pois o mesmo vem sendo marcado
+
+pelo caso ergativo.
+
+Exemplos:
+
+(91)
+
+a) ˆ -n -bi uk
+
+-a
+
+-k
+
+1 -erg. -sg. vomitar -pass.im. –decl. ‘Eu vomitei’
+
+123 b) mi -n -bi sinan -e -k
+2 -erg -sg. pensar -n.pass. -decl. ‘Você pensa (tem saudades)’
+
+c) mi -n -bi manak -a
+
+-k
+
+2 -erg -sg. sonhar -pass.im. -decl.
+
+‘Você sonhou’
+
+Agora, se comparmos com verbos como ‘ter fome’, ‘ter sede’, ‘ter sono’ e ‘ter frio’,
+
+que também implicam em não-controle da ação, os sujeitos, neste caso, o experimentador,
+
+não está sendo marcado pelo caso ergativo. Com isso, poderíamos afirmar que temos uma
+
+cisão motivada pela natureza semântica do verbo. Por exemplo:
+
+(92)
+
+a) mi -Ø -bi iken -e
+
+-k sakak -e
+
+-k
+
+2 -abs -sg. ter frio -n.pass. -decl. tremer -n.pass. -decl.
+
+‘Você tem frio e treme’
+
+b) mi -Ø -bi
+
+pekas -e -k
+
+2 -abs -n.p.ass. ter fome -n.pass. -decl.
+
+‘Você está com fome’
+
+c) ˆ -Ø -bi Sema -e 1 -abs -sg. ter sede -n.pass. ‘Eu estou com sede’
+
+124
+
+Pudemos ver que há uma divisão entre tipos de verbos intransitivos, na língua
+
+Matis, mas não podemos, até o momento, afirmar que exista uma divisão entre intransitivos
+
+ativos e estativos, como ocorre em outras línguas, inclusive, na família Pano. Na língua
+
+Marubo a cisão é condicionada pela natureza semântica do verbo. Segundo Costa (1994),
+
+“el Marubo diferencia los verbos de la seguinte forma: (a) verbos transitivos activos, como
+
+beber, rallar, lavar; incluyéndose en esta clase verbos de conocimientos, como pensar, ver,
+
+oír, contar, que envuelven um participante Experimentador y que, por extensión metafórica,
+
+tambien son considerados activos; (b) verbos intransitivos activos, que indican acción,
+
+movimento, o cambio de posición, como cantar llorar, correr, bailar, caer, levantarse,
+
+sentarse; (c) verbos intransitivos estáticos, como morir, dormir, doler, incluyéndose aquí los
+
+verbos que indican posición del cuerpo, (..) e sentimiento o sensación (..). (1994: 207)”.
+
+Dessa forma, em Marubo, a natureza semântica do verbo que se determinará o caso
+
+ergativo, pois tem-se dois subtipos de S, com verbos intransitivos ativos, Sa, e com verbos
+
+estativos, So. Os verbos classificados por Costa como ativos e estativos não funcionam da
+
+mesma forma na língua Matis. Por exemplo, o verbo dançar condiciona a marca de
+
+ergatividade (ver 91 (a)), enquanto que em Marubo não condiciona a marca ergativa (ver exemplo 91 (b)31). Em relação aos outros verbos necessita-se, ainda, de uma investigação
+
+mais detalhada, para sabermos o quanto a língua Matis diverge ou não das outras línguas da
+
+família Pano. Por exemplo:
+
+(93)
+
+a) kanamadi -n munut -Sun tSawa -Ø pe -e
+
+-k
+
+kanamari -erg. daçar -sw queixada -abs. comer -n.pass. -decl. ‘O kanamari dança, depois vai comer queixada’
+
+31 Exemplo extraído do artigo de Costa (1984, p. 216)
+
+125 b) mia Ramaka) sµ mi) mu') nuai
+tu-ABS ahora modo 2S a bailar PRES ‘Tu estás bailando ahora (en eses instante)’
+
+c) ˆ -Ø -bi noman -e -k 1 -abs -sg. cantar -n.pass. -decl. ‘Eu canto’
+
+d) mi -Ø -bi abad -a
+
+-k
+
+2 -abs -sg. correr -pass.im. -decl.
+
+‘Você correu’
+
+Dependendo da natureza de alguns verbos como ‘crer’, ‘dizer’ e ‘decidir’, os quais
+
+pedem, normalmente, um SN + humano, estes verbos determinam se o ‘participante’ pode
+
+funcionar como controlador ou agente. Para verbos do tipo ‘morder’ e ‘ver’ podem ocorrer
+
+tanto com SN (+ humano ou animado). Dessa forma, Dixon propõe uma escala de
+
+potencialidade para os agentes, sendo que os elementos mais à esquerda terão a
+
+probabilidade de funcionar mais como agente, enquanto que os elementos mais à direita
+
+funcionam mais como pacientes.
+
+12
+
+3 Nomes Próprios
+
+Humanos
+
+animados
+
+Nomes Comuns
+
+Probabilidade de funcionar como um agente transitivo
+
+Em Matis a primeira e segunda pessoas do plural estariam mais à direita dentro da escala proposta por Dixon, diferentemente da língua Cashinawa (família Pano), a qual ele
+
+126 considera que os SNs ocupam o meio da escala, pelo fato dos sistemas nominativo/acusativo e ergativo/absolutivo estarem superpostos.
+
+4.2.4 Valência verbal como determinante da marcação do caso ergativo
+
+Hipotetisamos que a marcação de caso é regida pela valência verbal; no entanto,
+
+faltam-nos dados mais específicos que possam nos ajudar a comprovar essa hipótese. Ao
+
+compararmos dois tipos de sentenças, as quais possuem o mesmo verbo, mas que em uma
+
+delas a valência do verbo é [+ transitivo], vemos que o sujeito (A) recebe a marca ergativa
+
+((94 (a)), já na sentença (94 (b)), na qual o verbo passa a ter uma valência [- transitivo]
+
+devido à marca de reflexivo, vemos que o sujeito (S) não recebe a marca ergativa.
+
+Exemplos:
+
+(94)
+
+a) ˆ -n -bi awat -Ø pe -a
+
+-k
+
+1 -erg. -sg. anta ‘Eu comi anta’
+
+-abs. comer -pass.im. -decl.
+
+b) bˆuS -Ø a -ben pe -ad -a
+
+-S
+
+BˆuS -abs. 3 -refl morder -refl. -pass.im. -3
+
+‘BˆuS mordeu a si próprio.’
+
+c) iva -n ˆ -Ø -bi Sotko -n ta- dˆd -a
+
+-S
+
+iva -erg. 1 -abs. -sg. machado -instr. pé- cortar -pass.im. -3 ‘O Ivan me cortou o pé com o machado’
+
+127
+
+d) Sotko -n ˆ -Ø -bi ta- dˆd -ad -e
+
+-k
+
+machado -instr. 1 -abs -sg. pé- cortar -refl. -n.pass. -decl. ‘Eu me cortei com o machado’
+
+4.2.5 Distribuição da marca de caso ergativo no sintagma nominal
+
+Como pudemos observar nesta dissertação, a marca do caso ergativo ocorre sufixada
+
+ao nome, o qual funciona como sujeito de sentença de verbo transitivo. A marca se sufixará
+
+após o último morfema sufixado a raiz nominal. Nos pronomes a marca ergativa ocorre
+
+após a marca de pessoa, com exceção dos pronomes plurais, que não recebem a marca
+
+ergativa. Dessa forma, em estruturas simples do sintagma nominal encontraremos as
+
+seguintes realizações:
+
+(95)
+
+a) [kamun -an]SN nami -Ø pe -a
+
+-k
+
+onça -erg. carne -abs. comer -pass.im. -decl.
+
+‘A onça comeu carne’
+
+b) [atSˆwˆS -Sun]SN tsadi -Ø
+
+se -e
+
+-k
+
+todos -erg. milho -abs. plantar -n.pass. -decl. ‘Todos os Matis plantam milho’
+
+b) [ˆ -n -bi]SN nami -Ø pe -a
+
+-k
+
+1 -erg. -sg. carne -abs. comer -pass.im. -decl. ‘Eu comi carne’
+
+128
+
+c) [mi -n -bi]SN Subu -Ø Se
+
+-a
+
+-k
+
+2 -erg. -sg. casa -abs. construir -pass.im. -decl. ‘Você construiu a casa’
+
+Para construções com sintagmas nominais complexos a marca ergativa ocorre em cada elemento do sintagma. Exemplos:
+
+(96)
+
+a) [nawa -bo -n são paulo -no -wiS -Sun]SN pete -Ø dadenpa bed -e
+
+-k
+
+não-índio -col. -erg. s. paulo -loc. -dir. -erg. comida -abs. intens. comprar -n.pass. -decl. ‘Os brancos de São Paulo compram muita comida’
+
+b) [vitoria -bˆt -an mi -n -bi]SN bolo -Ø pe
+
+-a
+
+-k
+
+vitoria -com -erg. 2 -erg. -sg. ‘Você e a Vitória comeram o bolo’
+
+bolo -abs. comer -pass.im. -decl.
+
+Quando o sintagma contém uma construção genitiva a marca ocorre junto ao elemento possuído:
+
+(97)
+
+a) [mi -n awin -an a -ben -tsˆk -Sun]SN tSikon -Ø Se -e
+
+-k
+
+2 -poss mulher -erg. 3 -rest. -int. -erg. palha -abs. tecer -n.pass. -decl. ‘Tua esposa tece a palha’
+
+129
+
+b) [tumi -n tSianpi -n]SN sinkuin -Ø pe -e
+
+-k
+
+tumi -poss. menina -erg. banana -abs. comer -n.pass. -decl. ‘A filha do Tumi come banana.’
+
+Neste capítulo pudemos observar como funciona a ordem dos constituintes na língua Matis. No entanto, precisamos investigar melhor a possível influência da variação da ordem no significado, verificar se a topicalização é realmente feita pela ocupação da 1a posição na sentença, ou se as marcas morfológicas como, por exemplo, as que consideramos enfáticas {-tapa} e seus alomorfes, são uma outra forma de marcar a topilalização, ou mesmo se há uma outra forma de se realizar esse processo, quer seja morfológico ou mesmo sintático. Visto que houve um grau elevado de dificuldade na compreensão dos questionamentos junto ao informante, esperamos que em um trabalho posterior estas questões possam ser resolvidas.
+Também observamos que a marcação de caso é importante na língua Matis, para o reconhecimento de seus constituintes, e que não somente neste capítulo, mas nos anteriores, a forma nasal {-n} e seus aloformes possuem funções importantes na formação dos itens lexicais, nas mais diversas categorias.
+
+130
+
+131
+CONCLUSÃO Este trabalho é, antes de mais nada, uma descrição geral das classes de palavras na língua Matis. Baseando-nos em Schachter (1985), Givón (1984) e outros, pudemos observar a distribuição das classes de palavras e estabelecer as classes gramaticais (abertas e fechadas) e suas categorias. Dessa forma, pudemos ter uma visão geral do seu comportamento na língua e, diante disso, classificá-las. A língua Matis não apresenta uma morfologia com recursos complexos, como ocorre em outras línguas do mundo, mas uma morfologia rica, se compreendermos por rica o seu funcionamento na língua. Alguns pontos nos chamam a atenção, como a categoria verbal, principalmente no que se refere à marca de tempo, aspecto e modo. Quanto às classes fechadas encontramos, nos pronomes, principalmente no que se refere aos interrogativos, uma série de combinações, as quais precisam ser melhor investigadas. Quanto aos pronomes pessoais, observamos que há a possibilidade de ocorrer uma segmentação, porém, até o momento, não pudemos decidir por segmentá-lo ou não. Quanto à sintaxe, pudemos observar que o sistema de marcação de caso caracteriza a língua Matis como pertencente ao sistema ergativo/absolutivo. Resta-nos compreender se há ou não um sistema cindido na língua. Observamos que os verbos têm influência sobre o experimentador, o qual irá receber ou não a marca de caso, dependendo do tipo de verbo da
+
+132
+sentença. Se estamos tratando com um tipo de valência verbal é, entre outras, uma questão que será respondida em investigações posteriores.
+Esperamos que ‘Os aspectos descritivos da morfossintaxe da língua Matis’ posssam vir a colaborar para com as investigações de outras línguas da família Pano, visto que elas se aproximam fonologicamente, morfologicamente e sintaticamente, e também que esta pesquisa venha contribuir para a teoria da linguagem em geral.
+
+133
+ANEXO I
+
+134
+
+135
+LISTA DE SWADESH
+CORPUS DE 200 PALAVRAS DA LÍNGUA MATIS (PANO)
+
+Léxico Português-Matis
+Água Amarelo Amolado Andar/Caminhar Animal Ano Aquele Aqui Arder / Queimar Areia Árvore Asa Atrás Barriga Bater Beber
+
+waka Sin SekakaponˆiS badi akit nˆ kukmasi iwi pˆi ukˆ puku kuesak-
+
+Boca Bom Branco Brincar Cabeça Cabelo Caçar Cachorro Cair do alto Cair estando no chão Caminho Cantar Carapanã (pernilongo) Carne Casca Cavar Certo Céu Cheio (estar cheio) Cheiro Chifre Chupar Chuva
+
+136 ˆSak bˆda wasa tSukewamaSo maSakete kapowapa pakattunkibai nomanbiuS nami mˆi menanbˆda abuk kubutpiSi país tSiSwe
+
+Cinco Cinza (resto de fogueira) Coçar Com Comer Contar Coração Corda de rede Corda de arco Corda em geral Correr (singular) Correr (plural) Cortar Costurar Cozinhar Criança / Menino Curto Dançar Dar Deitar (na rede) Deitar (no chão) Dente Dentro
+
+137 mikˆn atSˆwˆS tet tsismapuk Sˆkˆtkabˆtan ~ bˆta- ~ bˆtpemisteta winte ditebete buku nai abattSabadde-/ te- / nakte-/ dˆr-/ kapˆSkˆkunkodokapapi tuku munutmenduksukuatSita et-
+
+Dez Dia Dizer Dois Dormir Empurrar com a mão Enrrolado Escovar Espetar Esposa Esse Esses Este/isto Estrela Eu (erg./abs.) Falar Ficar em pé Fígado Flecha Flor Floresta Fogo
+
+138 mˆkˆn atSˆwˆS dabˆtpa nˆtˆn tSuwidabˆtpa uSmˆamaSuinanmakudek toSkaawin nekit nekitbo nˆkit wispa ˆnbi/ˆbi onknidek / nita takua pia iwiwa nawˆ muSte
+
+Folha Frio (ter frio) Fruto Fumaça Furar Gelado Gente Gordura Grama Grande Gritar / Chamar Grosso Homem Inchar Ir Irmã (mais nova) Irmã (mais velha) Irmão (mais novo) Irmão (mais velho) Joelho Jogar Lá /alí
+
+139
+iwi podo ikentSitSo puSute toskawaduS mates pobˆt wesin Sunu tSuknoa dada/papi bidiskai kuantSibi tSutSu maSku butSi danbˆdu neu
+
+Lago Lavar Ligar (aparelho) Limpar Língua Longe Longo/Comprido Lua Lutar Mãe Mão Marido Matar Mau Medo Montanha Morder Morrer Muito (intensidade) Muito (quantidade) Mulher Nadar Não
+
+140 tSan Sikkuˆtmeta bidiskai ana mˆdu Sunu uSˆ amai ani / tita mˆkˆn bˆnˆ akbˆda pemen dakutukumuduk penankimo dadenpa tSidabo nunpemen
+
+Não (existir) Nariz (ponta/ estremidade) Negro / Preto Noite / Escuro Nome Nós Novo Nuvem Olho Onde Orelha Osso Outro Ouvir Ovo Pai Para Pássaro Pau / Vara Pé Pedra Peixe
+
+141
+bama dˆSan wisu imˆt anˆ nuki paSa kuˆin bˆdu mira papuSan wispo wˆtsi kuaktu mama -n ~-an tSididiS kueste taˆ maSaS tSapa
+
+Pele Pena Pequeno Perna Perto Pesado Pescoço Podre Poeira Por quê Pouco Quatro Quê? / O quê? Quem? Quente Rabo Rachar Raiz Respirar Rio Rir Saber Sal
+
+142
+bittsi Sakete tuku pudunte nˆtsˆk iwˆdap tetun pisidap duduk natsikek papitsˆk / dabˆtsˆk mˆkˆn antantet awˆda tsuntsi itis ina posibisunku anpuSuttSˆSˆ dentanawabata
+
+Saliva Sangue Secar Segurar Seio Semente Sentar Serpente Sol Soprar Sujo Terra Todos Trabalhar Três Tripa Úmido Veia Velha Velho Velho (coisa) Vento Verde
+
+143 ektSun imi kudune/beta Suma uSˆ tsatdunu tanu buSkawisudap tSot atSˆwˆS tSonotmˆkˆn tet puku waka podkodak punu matSo dadasibo Sini aiun ˆmu
+
+Vermelho Vestuário (camisa) Viver (não está morto) Voar Você (erg./abs.) Voltar Vomitar
+
+144 pˆt datonkete amaimen kapominbi / mibi tSouk-
+
+Léxico Matis - Português
+-n~-an abatabu akakakit amai amaimen ana ani / tita anmakutanpuSutanˆ atSˆwˆS awin awˆda awˆun badi bai bama bata bidiskabidiska-
+
+Para Correr Céu Beber Matar Aquele Lutar Viver (não está morto) Língua Mãe Escovar Respirar Nome Todos Esposa Quê? / O que? Vento Dia Caminho Não (existir) Sal Inchar Limpar
+
+bittsi biuS bˆda bˆda bˆda pemen bˆdu bˆnˆ bˆt butSi buSkai dabˆtpa dada dadasibo dadempa dakutdanbˆdu datonkete de-/ te- / nakte-/ dˆr-/ kapˆSdenditebete / buku duduk dukdunu
+
+146 Pele Carapanã (pernilongo) Bom Certo Mau Olho Marido Com Irmão (mais velho) Soprar Dois Homem Velho Muito (quantidade) Medo Joelho Vestuário (camisa) Cortar Rir Corda p/ rede e p/ o arco Poeira Deitar (na rede) Serpente
+
+dˆSan ektSun badi etibisunku ikenimi imˆt ina itis iwi iwi podo iwiwa iwˆdap kapokapokapokimo kodokakuakkuankubutkudukueskueste
+
+147
+Nariz (ponta/ estremidade) Saliva Ano Dentro Raiz Frio (ter frio) Sangue Noite / Escuro Rabo Quente Árvore Folha Flor Pesado Andar/Caminhar Caçar Voar Muito (intensidade) Cozinhar Ouvir Ir Cheio (estar cheio) Secar Bater Pau / Vara
+
+kukkˆkunkuain kuˆtmeta mama masi mates matSo maSakete maSaS maSku maSo menmenanmikˆn atˆwˆS tet minbi / mibi mida misteta mˆamamˆdu mˆi mˆkˆn mˆkˆn antantet
+
+148 Arder / Queimar Costurar Nuvem Ligar (aparelho) Pai Areia Gente Velha Cabelo Pedra Irmão (mais novo) Cabeça Dar Cavar Cinco Você (erg./abs.) Onde Contar Empurrar Longe Casca Mão Quatro
+
+mˆkˆn atSˆwˆS dabˆtpa mˆkˆn tet munutmuSte nami nannatsikek nawˆ nenˆnekit nekitbo nidniS nomannowa nˆ nuki nˆkit nunnˆtsˆk onkpaís pakat-
+
+149 Dez Três Dançar Fogo Carne Morrer Por quê Floresta Jogar Segurar Esse Esses Ficar em pé Animal Cantar Grosso Aqui Nós Este/isto Nadar Perto Falar Chifre Cair do alto
+
+papi papitsˆk / dabˆtsˆk papuSan paxa pepepemen pia pisidap piSi pobˆt pospudunte pˆi puku punu pˆt puSute sukuattakua tanawatanu taˆ tetun
+
+150 Criança / Menino Pouco Orelha Novo Comer Morder Não Flecha Podre Cheiro Gordura Rachar Perna Asa Barriga Tripa Vermelho Fumaça Deitar (no chão) Fígado Saber Sol Pé Pescoço
+
+toskatoSkatsattsismapuk tsuntsi tu tuku tuku tSan tSapa tSibi tSidabo tSididiS tSitSo tSiStSotSonottSot tSuitSuktSukewatSutSu tSˆSˆ
+
+151 Furar Espetar Sentar Cinza Quem? Ovo Curto Pequeno Lago Peixe Irmã (mais nova) Mulher Pássaro Fruto Chupar Voltar Trabalhar Terra Dizer Gritar / Chamar Brincar Irmã (mais velha) Rio
+
+u ukukˆ ukumuduk ˆmu ˆnbi/ˆbi uSˆSak ußˆ ˆßˆ waduS waka waka podkodak wapa wasa we wesin winte wispa wispo wisu wisudap wˆtsi Sakete
+
+152 Lá /alí Vomitar Para lá longe Montanha Verde Eu (erg./abs.) Dormir Boca Lua Semente Gelado Água Úmido Cachorro Branco Chuva Grama Coração Estrela Osso Negro / Preto Sujo Outro Pena
+
+SekaSikSin Sini Sita SuinSˆkˆtkaiSuma Sunu
+
+153 Amolado Lavar Amarelo Velho (coisa) Dente Enrrolado Coçar Seio Grande / Longo/Comprido
+
+154
+ANEXO II
+FOTOS
+
+155
+
+156
+Os Matis ainda caçam com zarabatana ‘tidinte’ e pia - tawa ‘arco e flecha’. Fora a atividade de caça, os homens são os responsáveis pela roça, fabricação de canoas e preparo da farinha.
+
+157
+
+158
+tSinpibo ‘meninas’ Uma das atividades das
+mulheres é buscar água para cozinhar, como vemos na foto ao lado. Em nenhum momento o homem realizará essa atividade. Elas também carregam a caça, fazem os artezanatos, cozinham e cuidam da casa.
+
+159
+
+160
+Papibo ‘crianças’. As crianças pequenas normalmente brincam na areia, enquanto os maiores brincam de caçar.
+
+161
+
+162 SUMMARY
+This dissertation presents a morphosyntactic description of the “Matis” language, pertaining to the Pano family. The dissertation is divided into the following sections: a) introduction, in which we present a discussion about the importance of research the indigenous languages, how the project in question began, the fundamental theory used and information about the people and the Matis language; b) in this dissertation we did not detain ourselves to phonological analysis. Therefore, we decided to present the phonological tables based on the work of Spanghero (2000); c) in the third part of our work, we describe the classes of words in Matis. The criteria used for describing the classes of words were based on those proposed by Schachter (1985) and Givón (1984); d) in the fourth part, we present some considerations about the syntax, mainly what is refered to the order of the constituents. We have also described the ergative case using as a theoretical source the article written by Dixon (1979).
+As we look through these four parts, we can have a general view of the language "Matis", specially in relation to its class of words and syntax.
+Key-words: Morphosyntatic, Indian Languages, Pano Family, Matis Language.
+
+163
+
+164
+REFERÊNCIAS BIBLIOGRÁFICAS AGUIAR, Maria Sueli de (1988) Elementos de descrição sintática para uma gramática
+do Katukina. Dissertação de Mestrado em Lingüística. Campinas: UNICAMP. ---------- (1994) Análise descritiva e teórica do Katukina-Pano. Tese de Doutorado em
+lingüística, Campinas: UNICAMP. BAUER, L. (1988) Introducing linguistic morphology. Edinburgh: Edinburgh
+University Press. BLAKE, Barry J. (1994) Case. Cambridge: Cambridge University Press. BHAT, D.N.S. (1994) The adjetival category. Amsterdam: John Benjamins Publishing
+Company. BYBEE, Joan L. (1985) Morphology. Amsterdam/Philadelphia: John Benjamins Publish
+Company. CAMARGO, Eliane. (1987) Esquisse linguistique sur le kasinawa, langue de le famille
+Pano. D.E.A. Paris: Université de Paris-Sorbonne. --------- (1991) Phonologie, Morphologie et Syntaxe: Étude Descriptive de le Langue
+Caxinawa (Pano). Tese de Doutorado. Paris: Universidade Paris IV. CARVALHO, Carmen T.D. (1992) A decodificação da estrutura frasal em Matses
+(Pano). Rio de Janeiro: UFRJ. CÂNDIDO, Claucia V. (1998) Aspectos fonológicos da língua Shanenawá (Pano).
+Dissertação de Mestrado. Campinas: UNICAMP.
+
+165 CEDI, (1991) Povos indígenas do Brasil. CHOMSKY, Noam (1977) Essays on form and interpretation. New York: North-
+Holland COMRIE, Bernard. (1976) Aspect. Cambridge: Cambridge University Press. ---------- (1989) Language universals and linguistic typology. Oxford: Basil Backwell. COMRIE, Gerard & SMITH , Norval. (1977) Lingua Descriptive Studies:
+questionnarie. Lingua 42:1-72 COSTA, R. G. R. (1994) Manifestaciones de la ergatividad en Marubo (Pano). In: II
+Jornadas de Lingüística Aborigen, Argentina: Universidad de Buenos Aires. pp 205-223. ----------- (1997) Aspects of ergativity in Marubo (Panoan). Journal of Amazonian Linguistics. Pittisburg: Ptisburg University Press. V.2, n. 1, p.50-103. ----------- (1992) Padrões rítmicos e marcação de caso em Marubo (Pano). Dissertação de Mestrado, Rio de Janeiro: UFRJ. ---------- (2000) Aspectos da fonologia Marubo (Pano): Uma Visão Não-Linear. Tese de Doutorado em lingüística. Rio de Janeiro: UFRJ. CROFT, William (1990). Typology and Universals. Cambridge: Cambridge University Press. ----------- (1991) Syntactic categories and grammatical Relations. Chicago: Chicago University Press.
+
+166 CUNHA, C.M. (1993) A morfossintaxe da língua Arara (Pano) do Acre. Recife:
+Universidade Federal de Pernambuco. d’ANS, André-Marcel (1970) Materiales para el estudio del grupo lintüistico Pano.
+Lima: CILA-UNMSM. d’ANS, André-Marcel et alii (1973) Problemas de classificación de lenguas No-andinas
+em el Sul-este Peruano. Lima: CILA-UNMSM. DIK, Simon C. (1978). Functional Grammar. Amsterdam: Holland Publishing
+Company. ----------- (1997). The Theory of Functional Grammar. New York: Mouton de Gruyter. DIXON, R.M.W. (1977) Where have all the adjetives gone? Studies in Language
+1(1):19-80. ----------. (1979) Ergativity. Language 55 (1) 59-138 -----------. (1994) Ergativity. Cambridge: Cambridge University Press. DIXON, R. M. W. and AIKHENVALD, Alexandra Y. (1999) The Amazonian
+Languages. Cambridge: Cambridge University Press. DORIGO, C. T. Las marcas del tiempo y aspecto en la lengua Matsés (Pano) Actas de
+las Segundas Jornadas de lingüística Aborigen. Buenos Aires: Unversidad de Buenos Aires.p.235-249 ERIKSON, Philippe (1991) Ritual dos Matis, Revista Horizonte Geográfico, ano 4, no 16.
+
+167 --------- (1996) El Selo dos Anciãos. Marcas do corpo e desmarcação étnica entre os
+Matis da Amazônia. Leuven: Peerters.
+---------- (1994) A Onomástica Matis é Amazônica? In: E. Viveiros de Castro & CUNHA, M. Carneiro da (Ed.), Amazônia: etnologia e história indígena. São Paulo: USP/FAPESP. p.245-252
+--------- (1994) Kirinkobaon Kirika (“Gringos Books”): An Annotated Panoan Bibliography, Supplément 1 au no 19 d´amerindia. Paris: Association d’Ethnolinguistique Amérindienne.
+--------- (1998) La Griffe des Aïeux. Paris: Éditions Peeters.
+FERREIRA, Rogério V. (1999). Aspectos da ergatividade na língua Matis. (ms)
+FERREIRA, Vitória Regina Spanghero. Língua matis (pano): uma análise fonológica. Dissertação de mestrado, Campinas, UNICAMP.
+FIELDS, Harriet (1973). Una identificación preliminar de los sufijos indicadores de referencia em mayoruna. Estudios Pano III. Lima: I.L.V. p.285-311
+FOLEY, W. (1986) The Papuan Languages of New Guinea. Cambridge: Cambridge University.
+FOLEY, Willian A. and VAN VALIN, Robert D., Jr. (1984) Functional Syntax and Universal Grammar. Cambridge: Cambridge University Press
+GIVON, Talmy (1984) Syntax: a functional-typological introduction. Vol. I Amsterdan/Philadelphia: John Benjamins.
+
+168 GREENBERG, Joseph (1966) Some Universals of Grammar with Particular Reference
+of the Order of Meaningful Elements. In: J.H. Greenberg (ed.) Universals of Language, New York: The MIT Press pp. 73-113.
+--------- (1987) Language in the Americas. Stanford: Stanford University Press.
+HACKEN, P. (1994) Defining morfology: A principled approach to determinig the boudaries of compunding, derivation, and inflection. Zürich: Georg Olms Verlag.
+JACOBSON, Willian H. (1967) Swith-reference in Hokan Coahuitecan. In: Hymes, Dell (ed.) Studies in South-western ethnolinguistics. The Hague: Mouton, pp. 238-63
+JESPERSEN, O. (1924) The philosophy of grammar. London: George Allen and Unwin Ltd.
+KIBRIK, A. E. (1977) The Methodology of field investigations in Linguistics. The Hague: Mouton.
+KRAUSS, Michael (1992) The word’s language in crisis. In: Language. Vol. 68 (1): pp. 4-10.
+KNEELAND, H. (1979) Lecciones para el aprendizaje del idioma mayoruna. Lima: I.L.V..
+LOOS, Eugene E. (1975) Rasgos sintáticos-fonémicos en la historia lingüística de los idiomas de la familia pano. Linguística e Indigenismo Moderno de América. Lima: IEP, p. 181-4
+--------. (1976) Estudios Panos V: Verbos Perfomativos. Peru: Ministerio de Educacion/ILV
+
+169 --------. (1999) Pano. In: R. M. W. Dixon and, Alexandra Y. Aikehenvald (ed.) The
+Amazonian Languages. Cambridge: Cambridge University Press. p. 226-250
+MELATTI, Júlio César (1981) Povos Indígenas no Brasil, Vol. 5, Javari. São Paulo: C.E.D.I.
+MONTAG, Susan. (1981) Diccionario Cashinahua. Peru: Ministerio de Educacion/ILV
+NASCIMENTO, M. do 1990. Teoria gramatical e mecanismos funcionais do uso da língua. D.E.L.T.A., vol. 6, n. 1, pp. 83-98.
+NEVES, Maria H. de Moura 1997. A Gramática funcional. São Paulo: Martins Fontes.
+ORTEGA, S.V. (1990) Fundamentos de morfología. Madrid: ed. Síntesis,.
+PAULA, Aldir Santos de (1992) Poyanáwa. A língua dos índios da aldeia Barão: aspectos fonológicos e morfológicos, 132pp. Dissertação de Mestrado: Universidade Federal de Pernambuco, Recife.
+PAULA, Ruth Wallace de Garcia (1979). Relatório de viagem. PIA Ituí, 1979. Referese à pesquisa lingüística realizada no PIA Ituí, no período de 24/02/79 a 22/03/79. Brasília, 16/05/79 Encaminhado por Ruth W. de Garcia Paula, Pesquisador A Lingüística - ao Chefe da DE/DGPC através do Memo 186/79/DGPC, de 17/05/1979.
+PALMER, Frank R. (1986) Mood and modality. Cambridge: Cambridge University Press.
+PAYNE, Thomas E. (1997) Describing Morphosyntax. A guide for field Linguistics. Cambridge, Mass.: MIT Press
+
+170 PAYNE, Doris L. (1990) Amazonian Linguistics: Studies in Lowland South American
+Languages. Austin: University of Texas Press.
+ROBINS, R. H. (1964) General Linguistics: an introductory survey. London: Longmans, Green.
+SCHACHTER, Paul (1985) Parts-of-speech systems. In: Shopen, Timothy (ed.) Language typology and syntactic description, pp.3-61. Cambridge: Cambridge University Press.
+SEKI, Lucy (2000) A Lingüística Indígena no Brasil. D.E.L.T.A., v. 15 no. Especial. EDUC: São Paulo, p. 257-90
+SHELL, Olive A. (1975) Estudios Panos III: Las lenguas Pano y su Reconstrucción. 1a ed. Lima: ILV, SLP. no 12
+SHOPEN, T (Ed.) (1985) Language Typology and Syntatic Description, Vol. I, II e III, Cambridge: Cambridge University Press.
+SPARING-CHAVÉZ , Margarethe W. (1998) Interclausal Reference in Amahuaca. In: Derbyshire, Desmond C. and Pullum, Geoffrey K. Handbook of Amazonian Languages, v. 4, 443-83. New york/Berlim: Mouton de Gruyter.
+SPANGHERO, Vitória R. (1999) Aspectos da fonologia do Matis (Pano). Anais do Estudos Lingüísticos XXVII. Bauru-SP: Universidade do Sagrado Coração. p. 708712
+SUÁREZ, Jorge A. (1988) Estudios sobre Lenguas Indígenas Sudamericanas. Bahía Blanca – Argentina: Universidad Nacioanl del Sur
+
+171 SWADESH, Morris (1959) Mapas de classificación lingüística de México y las
+Américas. In: Cuadernos del Instituto de Historia, Serie Antropológica, n. 8. México.
+VALENZUELA , Pilar (1998ª) El morfema de ergatividad en Shipibo-Conibo. Actas del II Congresso Nacional de Investigaciones Linguísticos-Filológicas. T. II: 217245. Lima: Universidad de Palma.
+WIERZBICKA, A. (1980) The case for case. Ann Arbor: Karoma
+
+

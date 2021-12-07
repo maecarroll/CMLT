@@ -1,0 +1,601 @@
+PAPIA 21(1), p. 9-22, 2011. ISSN 0103-9415
+DIFFERENT HISTORIES, DIFFERENT RESULTS: THE ORIGIN AND DEVELOPMENT OF TWO AMAZONIAN LANGUAGES1
+Ana Suelly Arruda Câmara Cabral Universidade de Brasília/CNPq asacc@unb.br
+Abstract: Tupinambá, a member of branch III of the TupiGuarani linguistic family of the Tupi linguistic stock (Rodrigues 1984/ 1985) is – in so far as it is known – the only Brazilian indigenous language that has had an important role in the development of two Amazonian languages, namely Kokáma/ Omágua and Amazonian Língua Geral or Nheengatú. These are two languages that originated in contact situations and, even though having Tupinambá in common as a source language, have become typologically different in several aspects due to the peculiarities of the social histories of their speakers. With regard to Kokáma/Omágua, there are three concurring hypotheses on its origin: (a) it is simply another language of the Tupi-Guarani genetic family, (b) it is a descendant of the Amazonian Língua Geral, or (c) it developed from contact between speakers of Tupinambá and speakers of other languages, including an Arawakan one, and is not the continuity of any particular language. With regard to the Amazonian Língua Geral, some scholars treat it as a creole language, but to others it is a continuation of Tupinambá spoken outside the indigenous villages, subjected to external influences over the course of time. In this paper I present arguments in favor of the different development possibilities of both Kokáma/Omágua and Amazonian Língua Geral, taking into account aspects of
+1 I am thankful to Gabriel Antunes de Araujo and Margarida Petter for having invited me to present a paper on Amazonian languages and linguistic contact at the 5th ABECS meeting, as well as to Prof. Aryon D. Rodrigues for his criticism and suggestions, which was particularly important for me since he is the most well versed scholar of the linguistic history of the Tupi stock of languages.
+
+10
+
+ANA SUELLY ARRUDA CÂMARA CABRAL
+
+the social history of the respective speakers, as well as lexical and grammatical features of each of the two languages.
+Keywords: Kokama/Omágua, Nheengatú, Languages in Contact
+
+Introduction
+The native languages of Brazil that in historical times have exerted more influence on other languages native or not were undoubtedly Tupinambá and Old Tupi, two very akin languages belonging to sub-branch III of the southern branch of the Tupi-Guarani linguistic family (Rodrigues 1985, 1986, 1993, 2000). The influence of these on other languages and the geographical extension of such influence is comparable to that of Latin, taking into consideration not only its territorial expansion, but also the replacement of other languages by it and even the influence exerted by its classical form on the western languages and in the terminologies of the arts and sciences.
+Spoken in the first century of the colonization of Brazil along about one third of the Atlantic coastline, extending from São Paulo – where Old Tupi was established – and Rio de Janeiro until Maranhão and Pará, with extensions into the lower Tocantins – the domain of Tupinambá (Rodrigues 1985, 1986, 1993, 1996; Bettendorf 1910), these two languages were the only indigenous ones learned by the European colonizers (Portuguese, French, Dutch) that settled in Brazil in the first times of colonization. For some time these languages have survived undisturbed in the most distant native villages, as reported by Bettendorf (1910) for the Tupinambá living in the middle 17th century on the lower Tocantins River one month of canoe travel from Belém do Pará.
+Both languages, Old Tupi and Tupinambá, have survived also in the mission-villages and small towns of mestizos, but under increasing interference of Portuguese and of some other languages, indigenous or African, brought to live together. Thereby they have become the main means of communication in the south and in the north of the Portuguese colonial domains, what has caused each of them to be called in Portuguese Língua Geral or general language.
+Rodrigues was the first historical linguist to describe in technical terms the main linguistic changes underwent by the Tupinambá language when it became the language of metizos. Some of these changes have been detached by Frederico Edelweiss (1969). From both Línguas Gerais, only the Língua Geral Amazônica is still alive. At the second half of the nineteenth century this Língua Geral came to be called Nheengatú, and nowadays its speakers refer to it as Ingatú. Nheengatú is spoken mainly by indigenous populations
+
+DIFFERENT HISTORIES, DIFFERENT RESULTS: the origin...
+
+11
+
+which have adopted it as their first language. These are the cases of the Baré and of various Baníwa communities (originally speakers of Aruak languages), but it is also spoken by native speakers of other Amazonian languages and it is still a “língua franca” on the low and high Negro river and its tributaries.
+The different names which the original language of the Tupinambá Indians has received over the last four centuries correspond roughly to its main different phases (from the language spoken by the Tupinambá people before the arrival of the Europeans to the present day Nheengatú language). Although the history of Nheengatú had started by the transmission of the Tupinambá language to the first generation of children born from the mixed marriages of Tupinambá women with European descendants, as claimed by Rodrigues, and since then it has underwent different types of interference from Brazilian Portuguese and from various native languages spoken across the wide area where the Tupinambá functioned also as a língua franca, its transmission has never been interrupted.
+Tupinambá has also been active in the development of an intriguing type of language to which it contributed with the main vocabulary, but whose grammar does not reflect its Tupi-Guaranian grammar. This language is known since the seventeenth century as the language of the Kokáma and Omágua tribes. The first 16th century chronicles located the Kokáma on the Coca river in Perú and the Omágua from the mouth of the Napo river to the mouth of the Santo Antonio do Içá river in Brazil. Tupinambá Indians have been reported to have reached Chachapoyas west of the Huallaga river (on the Central Cordillera in Peru) at the beginning of the sixteenth century (cf. Diogo Nunes 1540; Porro 1992). This indicates that the Amazon river up to its headwaters has been a Tupinambá route of migration since pre-historical times. This fact would also explain the participation of the Tupinambá language in the development of the Klokáma/Omágua language.
+Rodrigues (1984/1985) has raised the hypothesis that the Kokáma/ Omágua language would have been the result of contact between speakers of the Tupinambá language and speakers of an Aruák language. Cabral (1995), based on Thomason e Kaufman (1988), has compared Kokáma/Omágua with the Tupinambá language in lexical, phonological, morphological, and syntactic perspectives, and the results of her comparison confirmed Rodrigues’ hypothesis of a non-genetic origin for the Kokáma/Omágua language, as the main principles underlying the comparative method are to be considered.
+Old Tupi and Tupinambá are therefore very important for the studies of language contacts and their nature and effects, as well as the reaching of their linguistic results. Especially the Amazonian Língua Geral is a precious source of knowledge on how languages can change, since it is well documented along about four centuries. There are several vocabularies of the 17th, 18th, 19th, and 20th centuries and some grammatical sketches and texts that cover
+
+12
+
+ANA SUELLY ARRUDA CÂMARA CABRAL
+
+about 400 years of its history. The conjugation of these three kinds of data is crucial for a diagnosis of the kind of language resulting in each situation of contact and about its origin, whether genetic or not, as required by the pertinent analytic model of Thomason and Kaufman (1988).
+In this article I discuss aspects of the two cases of languages developed from Tupinambá: the Amazonian Língua Geral and the Kokáma/Omágua language. I will argue that although Tupinambá has had a fundamental role in the development of the two languages, the social context in which these languages have developed were different in various aspects, what has counted for the different linguistic results (cf. Thomason and Kaufman 1988).
+The comparison will add a new insight strengthening the idea that the Amazonian Língua Geral is a modified version of the Tupinambá language which has underwent strong reductions since the time it was spoken by the Tupinambá Indians, but that its transmission has never been interrupted (cf. Rodrigues 1959, 1986, 1996).
+On the other hand, the comparison will contribute to the demonstration that Kokáma/Omágua cannot be considered the continuity of the Tupinambá language, nor the continuity of any other single language. It is a language whose origin is non genetic, if the main principles underlining the Comparative Method have to be considered.
+
+Grammatical comparison
+I will begin by contrasting the personal systems of Amazonian Língua Geral (17th and 20th centuries) and Kokáma/Omágua against the personal system of Tupinambá.
+
+Some general considerations
+According to Rodrigues (1981, 1990) the personal system of Tupinambá consisted in three series of pronouns – emphatic (series I), dependent (series II), and ergative (series III) – and three series of personal prefixes – subjective (series IV), accusative (series V), and co-referential (series VI). The three series of pronouns and the series of subjective and co-referential prefixes distinguish inclusive and exclusive first person, but only these two series of prefixes have a form for the third person. The two series of emphatic and dependent pronouns have two forms each for inclusive first person for distinguishing the further inclusion of a focal 3rd person. Rodrigues (1981, 1990) has presented the following componential matrix for the meaning of such pronouns:
+
+DIFFERENT HISTORIES, DIFFERENT RESULTS: the origin...
+
+13
+
+Foc al 3 +
+
+Opposition between Speaker and Hearer
+
++
+
+_
+
+Speaker
+
+Addressee
+
+isé
+
+ené
+
+yané
+
+oré
+
+pe/e)
+
+asé
+
+The personal system of Tupinambá as presented by Rodrigues (1981) is the following (1 = speaker, 2 = addressee, 3 = focal 3rd person, 4 = non focal 3rd person):
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+VI
+
+1
+
+‘I’
+
+isé
+
+syé
+
+a-
+
+wi-
+
+1+3
+
+‘we (excl.)’ oré
+
+oré
+
+oro-
+
+oro-
+
+2
+
+‘you sg.’
+
+ené
+
+né
+
+yepé ere- oro-
+
+e-
+
+2+3±4
+
+‘you pl.’
+
+pe/e)
+
+pé peyepé pe- opo-
+
+pe-
+
+1 + 2 ± 4 ‘we (incl.)’ yané yané
+
+ya-
+
+ya-
+
+1 + 2 + 3 ‘we (incl.)’
+
+asé
+
+asé
+
+Series III and V occur with transitive verbal stems, series III codifying a 2nd person agent when the patient is a 1st person and series V codifying a 2nd person patient when the agent is 1st person; series VI marks the co-reference of the argument of an intransitive verb (in the gerund mood) with the subject of the main clause; series IV codifies the subject of intransitive verbs and that of the transitive ones when the object is 3rd person; series II codifies the object of 1st person in the indicative I mood when the subject is of 2nd person, but also objects of 1st and 2nd persons in the same mood when the subject is of 1st person; this same series codifies also the possessor in nominal constructions and the subject of nominal intransitive predicates as well as of verbal ones when in the indicative II mood, and also the complement of a postposition; finally, series I occurs as syntactic arguments – subjects and objects – and is frequently used emphatically.
+Let’s now see the pronominal system of the Amazonian Língua Geral in the second half of the 17th century (Bettendorf’s manuscript grammar), using the same matrix for better contrasting it with that of Tupinambá:
+
+I
+
+II
+
+III
+
+IV
+
+V VI
+
+1
+
+'I'
+
+ixé
+
+xé
+
+–
+
+a-
+
+–
+
+13
+
+'we (excl.)'
+
+–
+
+oré
+
+– ore- ~ oro-
+
+–
+
+2
+
+'you sg.'
+
+indé ndé
+
+–
+
+ere-
+
+oro- –
+
+23
+
+'you pl.'
+
+peñé pé
+
+–
+
+pe-
+
+opo- –
+
+12
+
+'we (incl.)' yandé yandé –
+
+ya-
+
+–
+
+123
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+3
+
+aé
+
+i-
+
+–
+
+o-
+
+–
+
+14
+
+ANA SUELLY ARRUDA CÂMARA CABRAL
+
+The system of six personal series was reduced to four series by the elimination of the ergative and the co-referential series. The examples of intransitive verbs in the gerund mood are inflected by the prefixes of series IV and not more by those of series VI, as may be seen in the following table:
+
+Tupinambá Amaz. Língua Geral
+
+1 wit-ekó-Bo aicobo
+
+‘and I am’ (‘estando eu’)
+
+2 e-ykó-Bo ereicobo, ou eicobo ‘and you sg are’ (‘estando você’)
+
+12 ja-ykó-Bo yaicobo, or 13 oro-ykó-Bo oroicobo
+
+‘and we are’ (‘estando nós’)
+
+23 pe-ykó-Bo peicobo
+
+‘and you pl are’ (‘estando vocês’)
+
+3 o-ykó-Bo oicobo
+
+‘and he is’ (‘estando ele’)
+
+Rodrigues Bettendorf (ms., 2nd half of the 17th century) (1981)
+
+The author of the manuscript grammar of the Amazonian Língua Geral indicates that the co-referential prefix of the 2nd person was yet in usage, but in alternation with the prefix of series IV. He indicates also that forms for the 1st inclusive and 1st exclusive were used one for the other.
+Rodrigues (1981) describes for Tupinambá a personal paradigm inflected for the dative case with two alternative forms, one with the suffix -Be and the other with -Bo. The Amazonian Língua Geral in the second half of the 17th century had only the forms with -Bo:
+
+Tupinambá
+Dative iséBe, iséBo, syéBe,
+syéBo oréBe, oréBo enéBe, enéBo, néBe,
+néBo pe/e)me, pe/e)mo yanéBe, yanéBo
+aséBe, aséBo
+
+Amazonian Língua Geral Dative ixébo
+
+LGA 2008 (Cabral, ms)
+Dativo ixéw
+
+orébo indébo
+
+oréw indéw
+
+penhébo iandébo
+–
+
+penhéw iandéw
+–
+
+Lets consider now the 19th variety of Língua Geral Amazônica, as it was described by Couto de Magalhães (1876):
+
+DIFFERENT HISTORIES, DIFFERENT RESULTS: the origin...
+
+15
+
+I
+
+II
+
+III
+
+IV
+
+V
+
+VI
+
+1
+
+ixé ~ xé
+
+–
+
+a-
+
+–
+
+13
+
+–
+
+–
+
+–
+
+–
+
+2
+
+indé, iné, or né
+
+–
+
+(e)re-
+
+–
+
+–
+
+23
+
+peñé ~ pe’e)
+
+–
+
+pe-
+
+–
+
+–
+
+12
+
+–
+
+–
+
+ya-
+
+–
+
+123
+
+iandé, or iané
+
+–
+
+–
+
+3s
+
+a’é
+
+–
+
+o-
+
+–
+
+3p
+
+aitá
+
+–
+
+o-
+
+As already seen the six personal series of Tupinambá had been reduced to four by the end of the 17th century. In the 19th century series I and II have merged and series V has completely disappeared, so that only two series were present. Even in Tupinambá there were only minimal differences between series I and II, the major of them being the one for the 2nd person plural, namely pe/e) in series I and pé in series II. Already in the 17th century the distinction between inclusive and exclusive 1st person was weakened, the one being used for the other and in the 19th century only one of them survived, namely the old inclusive. As to the dative forms Couto de Magalhães states that “in some places the dative is expressed by a final u: ixéu ‘to me’, indéu ‘to you sg.’, etc.”
+
+♀
+
+The data so far presented make it clear that the changes undergone by the
+
+pronominal system of Tupinambá in the course of three centuries were typical
+
+reductionist and simplifying changes that occurred progressively along several
+
+generations.
+
+Let’s now proceed to the pronominal system of Kokáma/Omágua, which, differently from Tupinambá and Amazonian Língua Geral, distinguishes forms for the 1st and 3rd persons in the speech of men (♂) from those in the speech of women ( , marked with an asterisk):
+
+Series I
+
+Series II
+
+?♂
+
+♀?
+
+?♂
+
+♀?
+
+1
+
+ta
+
+*etse ta
+
+*tsa, ts, tx (_i, j)
+
+2
+
+ene
+
+*ene
+
+na, n
+
+12
+
+ini
+
+ini
+
+13
+
+tana
+
+*penu tana
+
+*penu
+
+23
+
+epe
+
+epe, p
+
+3s
+
+uri,
+
+*aj ra, r
+
+*ja, j
+
+ura
+
+3p
+
+rana
+
+*inu rana
+
+*inu
+
+Only five pronominal forms of Kokáma have Tupinambá as a source: etse from Tupinambá isé, éne from Tupinambá ené ‘2’, íni from Tupinambá
+
+16
+
+ANA SUELLY ARRUDA CÂMARA CABRAL
+
+jané ‘12’, épe from Tupinambá pé ‘23’, and áj from Tupinambá a’é ‘that (about which I am speaking)’. The other forms are not Tupian and the distinction between men’s and women’s apeech is not a feature of Tupinambá. Some TupiGuaranian languages, those of branch VI, such as Kayabí, distinguish biological gender, but only in the 3rd person. Like Tupinambá and most Tupian languages, Kokáma distinguishes inclusive 1st person from exclusive 1st person, but the forms for the exclusive are not of Tupinambá origin. Another feature of the Kokáma personal system is the distinction between series I and II, which does not depend on any morphosyntactic conditioning, but has to do with the position of the pronoun in the sentence: Kokáma sentences are basically SVO and alternatively OSV; when S is not preceded by another word, it occurs in its long, series I form, otherwise the short, series II form occurs; the same is true for O, which occurs in its short, series II form, when not followed by any other word, and otherwise appears in its long, series I form:
+
+(1)týma ra
+
+tséta txýpy
+
+not
+
+3♂
+
+wish price
+
+‘he does not accept the price’
+
+(2)kújka yatíra-n
+
+n(a) ukwáta
+
+there further-nlz
+
+2
+
+pass
+
+‘there, further on, pass the canoe!’
+
+yára canoe
+
+(3)týma ra
+
+íkwa ra
+
+not
+
+3♂
+
+know 3♂
+
+‘he does not know what to do’
+
+jaúki do
+
+Amazonian Língua Geral has reduced to two the six series of personal markers of Tupinambá, but has maintained the series of inflectional prefixes that mark the subjects of intransitive and transitive verbs. There was only one change in the original conditioning of the prefixes that marked exclusively third person objects in the transitive verbs, which now occur independently of the person the object (and of the subject). Kokáma, on the other hand, has no inflectional prefixes, but only particles as personal markers, some of them with reduced phonological forms according to their position in the phrase. Most of the pronominal forms have one or two syllables and tend to loss their accent and to fuse phonetically with the following word.
+Comparing the differences between the personal markers of the Nheengatú spoken on the middle and upper Rio Negro and those of Kokáma with the markers of Tupinambá it is clearly seen that the Nheengatú forms are
+
+DIFFERENT HISTORIES, DIFFERENT RESULTS: the origin...
+
+17
+
+derivable from those of Tupinambá by processual changes, whereas in the case of Kokáma there is no evidence for the continuity of a preceding system, but only for a radical change of one system by another, with complications explainable only by a break in the transmission of one language and its admixture with other, typologically differing languages.
+In the case of Nheengatú it may be seen that the changes have started basically in the mestizo contexts in which Tupinambá has become a widespread language that was called Língua Geral (cf. Rodrigues 1996). The Tupinambá spoken in those contexts was showing already in its first documents the nature and the directions of the changes that came to characterize the Amazonian Língua Geral in the 17th century. Such changes were intensified with the expansion of this language over an extension of nearly 8,000 kilometers (from Maranhão and eastern Pará to the Brazilian borders with Peru and Colombia), along which it became the first language of many and a lingua franca for a majority of Indians of distinct ethnical and linguistic origins, as well as of descendants of Africans and Europeans (Rodrigjues, 1996). These changes have resulted in Nheengatú, the modern version of old Tupinambá, now spoken mainly in the area of the middle and upper Rio Negro and its tributaries.
+In contrast with Nheengatú, the Kokáma/Omágua language, already in the first documents in which it was recorded, when compared with the Tupi-Guaranian languages under the light of the historical comparative method, does not stand a genealogical examination. It does not show systematic correspondences of any of its linguistic subsystems with the corresponding ones in the languages of the Tupi-Guarani family as prescribed by the genetic methodology (Meillet 1924, Thomason & Kaufman 1988, Hock 1991, Campbell & Poser 1992). Although there are no documents for Kokáma/ Omágua before the 17th century, the oldest documents in this language are sufficient for showing that it is not a continuation of Tupinambá, the language that was the source of about 60% of its basic vocabulary (but not of its phonological and morphophonemic rules) and of a very small part of its syntactic structures (Cabral 1995).
+The changes in the Amazonian Língua Geral have been predominantly of a simplifying nature and show that there was a reduction of the original subsystems, but with the preservation of the basic properties of such subsystems. There were also restructurations of a complicating nature (Cabral and Rodrigues, forthcoming), but few grammatical and lexical replacements (except for nouns and verbs from Portuguese and referring entities and actions unknown in the original culture of the speakers of Tupinambá). The following is an example of simplification with preservation of the original morphemes and structure in contrast with what has happened in Kokáma/Omágua, in which most of the structural changes were radical and without the conservation of the original morphemes.
+
+18
+
+ANA SUELLY ARRUDA CÂMARA CABRAL
+
+(4) Tupinambá A’é o-je-juká that 3-refl-kill ‘he kills himself’
+
+(5) ALG 17th century A’é o-je-juká that 3-refl-kill
+
+(6) Nheengatú 2008 A’é u-ju-juká 3 3-refl-kill ‘he kills himself ’ (Cabral, ms.)
+
+(7) Kokáma/Omágwa
+Uri umanu-ta-ka
+3♂ die-caus-refl
+‘he (♂) kills himself’
+Examples 4-6 show that there was no change from Tupinambá to Nheengatú in the verbal structure in the indicative mood with a stem derived by the reflexive prefix. After 400 years Amazonian Língua Geral maintains the same pattern – personal prefix for subject-reflexive object prefix-verbal root –, even though it has merged the reflexes of the Proto-Tupi-Guarani reflexive *je- and reciprocal *jo-, for which the only form ju- has prevailed. But this kind of fusion has occurred also in the history of other Tupi-Guranían languages, such as Zo’é, Guajá, and Ka’apór (cf. Cabral & Magalhães, 2004). In Kokáma/Omágua however there is no structural correspondence between its verbal forms and those of the Tupi-Guaranian languages. Another example shows clearly that Kokáma-Omágua is quite different from Tupi-Guarani. The form uri for the subject of 3rd person in male speech is a particle and not a part of the verbal word, in which the category of person, differently from what happened in the Tupi-Guarani languages, is not marked. The Tupinambá verb juká ‘to kill’ did not survive in Kokáma, even though the same stem is present in all Tupi-Guaranian languages in view of its importance, both semantic (to kill in general, humans and non humans) and grammatical (the most telic and active verb). The Kokáma/Omágwa speakers have learned and retained the form umanu for ‘to die’, but have not understood its internal
+
+DIFFERENT HISTORIES, DIFFERENT RESULTS: the origin...
+
+19
+
+structure (o- 3rd person subject + manõ ‘to die’ + º ‘indicative mood’) meaning ‘he dies’ or ‘he has died’. They have not learned the grammar of Tupinambá and have taken its complex words as pure roots subject to new derivations by categorical morphemes of their original languages. It is so that o-manõ-º was taken as an unanalysable stem to which derivational morphemes unknown in Tupinambá, such as causative -ta and reflexive -ka, were added. Note that in Tupinambá the morpheme for simple causative was the prefix mo- (alongside with a comitative causative ero- ~ ro-), which occurred with intransitive verbal stems as well as with adjectival and nominal stems. In Nheengatú it is the only causative prefix and combines only with adjectival stems, but maintaining the Tupi-Guaranian morphological pattern. As to the causativization of verbal stems Nheengatú recurs now to the verb -muñã ‘to do, to make’ (from Tupinambá mojaN ‘to make’), a development that interestingly runs parallel with the Portuguese causative constructions with fazer, as in fazer correr ‘to cause to run’, fazer matar ‘to cause to kill’, and so on.
+In several papers (Cabral 1995, 2000, 2007; Cabral & Rodrigues 2003) we have shown that the Kokáma and Omágua have learned the Tupinambá language imperfectly so that among them this language was not normally transmitted from one generation to the next one, as evidenced by the fact of not having recognized the Tupinambá internal structure of the words and of having added different morphology coming from one or more other languages. The transmission of Tupinambá was interrupted in a social context in which speakers of other languages have only partially changed to Tupinambá. As emphasized by Thomason & Kaufman what is transmitted from one generation to the next under normal conditions is a whole language and not parts of it. In the case of the Kokáma and Omágua no language particular language was wholly transmitted.
+The Kokáma/Omágua language has also grammatical morphemes of Arawakan origin, as already noted by Rodrigues (1985, 1986) and demonstrated with additional data by Cabral (1995). Some Arawakan lexical items in the basic vocabulary and some Arawakan grammatical patterns (Cabral & Viegas, forthcoming) strengthen the hypothesis that speakers of an Arawakan language have had a fundamental participation in the development of Kokáma/Omágua in contact with the Tupinambá and possibly with representatives of other Tupian peoples (cf. Cabral 2007).
+We have argued that the Kokáma/Omágwa language has emerged in a contact situation in which speakers of languages genetically and typologically different from Tupinambá have had to learn this language, but without the conditions for a full learning. Thomason & Kaufman (1988) have added to the typology of languages in contact a further type that, like pidgins, creoles, and mixed languages, has developed in multilingual contexts resulting in a new language which is not the continuation of any of those present in such
+
+20
+
+ANA SUELLY ARRUDA CÂMARA CABRAL
+
+contexts. This type of language is what Thomason & Kaufman have called abrupt creole, a type that, differently from traditionally known creoles, have developed without having had a pidgin stage. This is the linguistic type to which Kokáma/Omágua more properly belongs.
+
+Some final remarks
+The aim of this paper has been to bring together linguistic evidences showing that Kokáma/Omágua and Amazonian Língua Geral are two quite distinct types of language even though both have developed in contact situations of Tupinambá with speakers of other genetically and typologically different languages in northern Brazil in the 16th and 17th centuries. Amazonian Língua Geral is a language that has received continuously external influences along more than 300 hundred years, but has not lost its main genetic properties that identify it as a Tupi-Guaranian language. Differently from it, KokámaOmágua is a language that cannot be classified genetically because it was developed under adverse conditions that did not assured the genetic transmission of a language. Another aim of the paper has been to call attention to the role of the languages Tupinambá and Old Tupi as sources of new languages and to their great importance for the theories of language change, that for South America have more commonly taken into consideration only the creoles of Afro-European basis and the results of contact between Quechua and Spanish, such as the Media Lengua (cf. Appel & Muysken 1987).
+
+References
+Appel, René and Pieter Muysken. 1987. Language contact and bilingualism. London: Eduard Arnold.
+Bettendorff, Pe. João Felipe. [1910] 1990. Crônica dos Padres da Companhia de Jesus no Estado do Maranhão. Belém: Fundação Cultural do Pará/Secretaria de Estado da Cultura.
+_____. s. d. Grammatica da lingua geral do Brazil com um diccionario dos vocabulos mais uzuaes para a intelligencia da dita lingua. Ms. 69 of the University of Coimbra.
+Cabral, Ana Suelly A. C. 1995. Contact induced language change in Western Amazon: the non-genetic origin of the Kokáma language. Ph.D. dissertation, University of Pittsburgh, PA.
+_____ 2000. Algumas observações sobre a história social da Língua Geral Amazônica. In: Maria do Socorro Simões. (org.), Memória e comunidade: entre o rio e a floresta. Belém: Gráfica da Universidade Federal do Pará, p. 103-129.
+
+DIFFERENT HISTORIES, DIFFERENT RESULTS: the origin...
+
+21
+
+_____ 2007. New observations on the constitution of Kokáma/Omágua: a language of the boundary Brazil, Peru, and Colombia. In: Leo Wetzels. (org.), Symposium on languages and cultures in the Andean/Amazonian border. Amsterdam: CNWS Publications, p. 365-379.
+______ and Aryon Dall’igna Rodrigues. 2003. Evidências de crioulização abrupta em Kokáma? Papia, Revista Brasileira de Estudos Crioulos e Similares, 13:180-186.
+Cabral, A. S. A. C.; Marina Maria Silva Magalhães. 2004. Contribuição aos estudos comparativos da família Tupi-Guarani. In: Atas do II Encontro Nacional do Grupo de Trabalho de Estudos da Linguagem do Centro-Oeste, Goiânia. II Encontro Nacional do Grupo de Trabalho de Estudos da Linguagem do Centro-Oeste. Brasília: Universidade de Brasília. p. 62-68.
+Campbell, Lyle, and William Poser. 1992. Methods for establishing relationships among languages: a historical survey with object lessons for today’s practice. (Unpublished ms.).
+Edelweiss, Frederico G. 1969. Estudos tupis e tupi-guaranis. Rio de Janeiro: Livraria Brasiliana Editora.
+Hock, H. H. Principles of Historical Linguistics. Berlin: Mouton de Gruyter. 1991.
+Meillet, Antoine. 1924. La méthode comparative en linguistique historique. Copenhagen, Klinsick.
+Magalhães, J. V. Couto de. 1876. O selvagem. Rio de Janeiro: Typographia da Reforma.
+Porro, Antônio. 1992. As crônicas do Rio Amazonas: tradução, introdução e notas etnohistóricas sobre as antigas populações indígenas da Amazônia. Petrópolis, RJ: Vozes.
+Rodrigues, Aryon Dall’Igna. 1959. Contribuição para a etimologia dos brasileirismos. Revista Portuguesa de Filologia 9:1-54.
+______. 1981. A estrutura do Tupinambá (ms).
+_____. 1984-1985. Relações internas na família lingüística Tupi-Guarani. Revista de Antropologia 27/28:33-53.
+_____. 1986. Línguas brasileiras: para o conhecimento das línguas indígenas. São Paulo: Loyola.
+_____. 1990. You and I = neither you nor I: the personal system of Tupinamba. In: Doris L. Payne (org.), Amazonian linguistics: studies in lowland South American Languages, p. 393-405. Austin: University of Texas Press.
+_____. 1993. Línguas indígenas: 500 anos de descobertas e perdas. Ciência Hoje 95:20-26.
+_____. 1996. As línguas gerais sul-americanas. Papia, Revista Brasileira de Crioulos de Base Ibérica 4:6-18.
+
+22
+
+ANA SUELLY ARRUDA CÂMARA CABRAL
+
+———— 2000. Hipótese sobre as migrações dos três subconjuntos meridionais da família Tupi-Guarani. Atas do II Congresso Nacional da ABRALIN, CD-ROM. Florianópolis: Universidade Federal de Santa Catarina, p. 1596-1605.
+Thomason, S. G. & T. Kaufman. 1988. Language contact, creolisation, and genetic linguistics. Los Angeles: University of California Press.
+
+Recebido em: 19/05/2009 Aceito em: 26/10/2009
+
+

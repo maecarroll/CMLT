@@ -1,0 +1,694 @@
+COSTA: FONOLOGIA DO NHANDEWA-GUARANI PAULISTA-PARANAENSE
+
+75
+
+LIAMES 3 - pp. 75-95, Primavera 2003
+
+Consuelo de Paiva Godinho Costa 1
+Fonologia do Nhandewa-Guarani Paulista-Paranaense
+ABSTRACT
+This is a phonological study about the Nhandewa-Guarani language, spoken by indigenous communities in São Paulo and northern Paraná states (Southern Brazil). This text is divided in four sections: firstly, I discuss on Nhandewa name and history, furthermore to consider the religious nomadism and the route as far as the actual territorial fixation. The second part presents the phonetic inventory and proposes a phonological interpretation. The third deals with a discussion about the interpretation proposed and the last one contains a discussion about the fundamental opposition of the languages. KEYWORDS Guarani Language; Nhandewa Guarani Dialect; Phonology; Nasalization.
+RESUMO
+O presente trabalho é um estudo sobre a fonologia da língua Nhandewa-Guarani, falada por comunidades indígenas do estado de São Paulo e norte do estado do Paraná. A introdução trata brevemente questões étnicas e históricas destas comunidades, as migrações religiosas e o percurso até a fixação nas áreas atuais. A segunda seção do texto traz o inventário dos fones vocálicos e consonantais encontrados na língua e uma discussão da análise do sistema fonológico da língua proposto. Nas seções 3 e 4 apresenta-se a proposta da sistematização da fonologia do Nhandewa-Guarani com base no funcionamento de cada segmento no sistema e nas oposições fundamentais da língua. PALAVRAS-CHAVE Língua Guarani; Dialeto Nhandewa-Guarani; Fonologia; Nasalização.
+1. INTRODUÇÃO
+O Nhandewa-Guarani é uma língua do tronco lingüístico Tupi falada em seis comunidades indígenas no sul-sudeste brasileiro: Laranjinha e Pinhalzinho, no Paraná, e Nimuendaju, Itariri, Piaçaguera e Bananal, no estado de São Paulo2. Estas áreas foram formadas a partir de migrações religiosas, em busca da ‘Terra sem Males’. A marchas a
+1
+Doutoranda em Lingüística. Orientador: Prof. Dr. Wilmar da Rocha D’Angelis. IEL-UNICAMP.
+2
+É necessário destacar que o dialeto Nhandewa que trato aqui não é o mesmo Nhandewa-Guarani falado no Paraguai, no sudoeste do Paraná ou em Santa Catarina.
+3
+Ver, por exemplo, Clastres, H. (1978).
+
+76
+
+LIAMES 3
+
+caminho do mar3, bastante comuns entre os grupos Guarani, eclodiram entre os Nhandewa do baixo Iguatemi no final do século XIX e começo do XX. Nessas ocasiões, iniciaram-se as peregrinações de partes da comunidade Nhandewa, que habitava o sul de Mato Grosso do Sul, em direção à costa leste, rumo a Ywy marãe’y)wa, a Terra sem Males. Várias dissidências nas levas, escravidão e muitas mortes por fome e por doenças levaram alguns grupos a interromper a marcha e fixar-se em diversos locais ao longo do percurso. Por volta de 1912, o etnólogo alemão Curt Nimuendaju, que desde 1905 vivia com os Nhandewa no antigo Araribá e era funcionário do SPI4, tenta, em vão, reunir todos os grupos nesta área que, mais tarde, receberia seu nome. Este é um brevíssimo relato de como se formaram as atuais áreas Nhandewa-Guarani em São Paulo e Paraná5. Hoje, o ‘complexo interdependente’ das seis aldeias Nhandewa-Guarani, onde vivem cerca de 570 pessoas, mantém uma rede de relações que incluem casamentos, mudanças temporárias, visitas a parentes, produção e comércio de artesanato e outras.
+Conheci os Nhandewa paulista-parananeses em 1998, quando fomos convidados, pela comunidade do Posto Nimuendaju, a fazer um estudo lingüístico da variedade Guarani falada nestas áreas. Em 2003, concluí o texto chamado ‘Nhandewa aywu’, um estudo da fonologia do Nhandewa-Guarani. Neste artigo, que é um panorama do texto de 2003, procuro mostrar em quais pontos o nosso tratamento para a fonologia de uma língua Guarani oferece alternativas de interpretação em relação aos tratamentos que vêm sendo dados para o sistema fonológico destas línguas.
+
+2. FONOLOGIA: INVENTÁRIO FONÉTICO E QUADRO FONOLÓGICO
+
+Fones vocálicos
+
+Orais
+
+i
+
+ˆ
+
+µu
+
+eå
+
+o
+
+E
+
+ç
+
+a
+
+Nasais
+
+i) ˆ) µ) u)
+
+e) å)
+
+o)
+
+E)
+
+ç)
+
+a)
+
+Quadro Fonológico das vogais
+
+Orais
+
+i
+
+ˆ
+
+u
+
+Eaç
+
+Nasais
+i) ˆ u) E) a) ç)
+
+4
+Serviço de Proteção aos Índios, extinto em 1967 e substituído pela FUNAI.
+5
+Encontramos em Nimuendaju (1987) um relato detalhado da história destas comunidades indígenas.
+
+COSTA: FONOLOGIA DO NHANDEWA-GUARANI PAULISTA-PARANAENSE
+
+77
+
+Fones consonantais
+
+Bilabial
+
+surda
+
+p
+
+Plosiva
+
+sonora
+
+Nasal
+
+m
+
+Pré-nasalizada
+
+mbÉ
+
+Tap
+
+Fricativa
+
+surda Africada
+sonora
+
+surda Labializada
+sonora
+
+Aproximante
+
+w
+
+Labiodental
+
+Dental/ Alveolar
+t
+
+Palatal Velar k
+
+Glotal /
+
+g
+
+M
+
+n
+
+¯
+
+N6
+
+n dÉ nÉdÉZ NÉg NÉgÉw
+
+R
+
+v
+
+s
+
+tÉs
+
+tÉS
+
+nZÉ kÉw
+
+gÉw
+
+V
+
+jÂ
+
+Quadro fonológico das consoantes
+
+Obstruinte p t ts tS k
+
+Soante
+
+mb nd R j Â
+
+kw / w
+
+3. SISTEMATIZAÇÃO DA FONOLOGIA
+Dentre os tratamentos que têm sido dados à fonologia de dialetos Guarani, muitos são relativamente falhos, principalmente, por dois motivos: os quadros fonológicos são “inchados” por material fonético e apresentam lacunas quanto a elementos fonológicos relevantes, tratados como fonéticos. A nossa interpretação é uma tentativa de, por um lado, eliminar os excessos fonéticos e, por outro, preencher as lacunas do quadro fonológico.
+Passamos por várias tentativas de sistematização para a fonologia do NhandewaGuarani, até chegarmos àquela resumida nos quadros acima. Destas tentativas, uma primeira análise agrupou os sons consonantais como no quadro abaixo:
+6 O segmento [N] só aparece antes de oclusivas velares, quando essas são antecedidas por vogais nasais.
+
+78
+
+LIAMES 3
+
+Obstruintes
+
+pt
+
+k kw / g gw
+
+Soantes
+
+ts tS
+
+dZ
+
+mb nd R
+
+Ng jÂ w
+
+Esta sistematização não se mostrou produtiva, pois divide as obstruintes em quatro
+níveis diferentes (oclusivas surdas e sonoras; africadas surdas e sonoras) sem, no entanto,
+acarretar uma divisão efetiva entre classes de sons que operem juntas em processos
+fonológicos, por exemplo. Além disso, esta divisão gera uma “série” que possui somente um elemento - /dZ/ - o que, numa sistematização, não é completamente impossível, mas
+pouco esperado, se levarmos em conta princípios como a simetria. Adiante veremos que o segmento [dÉZ] é analisado como realização do glide /j/, selecionada para onset silábico cujo núcleo é vogal oral. Para onset cuja sílaba possui núcleo nasal temos [¯].
+Também reavaliamos a presença do segmento [g] no quadro fonológico e decidimos por sua retirada com base na relação fonética com os fonemas /k/ e /Â/. Verificamos que a realização, anotada por nós como [g] intervocálico, de fato correspondia a uma realização variante do fonema aproximante /Â/. Esta variação fica explícita quando o segmento ocorre entre duas vogais baixas, como em [adZÉ a»Âa] “eu corto”. Nestes casos, a aproximante
+tem realização clara, inclusive, atestada em análise espectrográfica. Outro indício para a relação entre /Â/ e [g] são os exemplos usados por Nimuendaju para uma “mudança”
+observada no Apapocuva7 em relação ao /g/ de línguas Tupi, como o Tupinambá.
+Transcrevo abaixo um trecho de Nhandewa aywu, Costa (2003:32), para comodidade. Nele,
+apresentei e comentei os exemplos de Nimuendaju para a suposta mudança fonológica no
+Apapocuva:
+
+6- Mudança da última sílaba átona. Uma das diferenças entre as línguas do ramo Tupi e do ramo Guarani é a ausência, nas últimas, de sílabas finais átonas presentes nas línguas Tupi, como já apontou Aryon Rodrigues8 , em casos como porang(a ) → porã. Assim, no ramo Guarani as palavras são acentuadas, geralmente, na última sílaba.
+
+7
+Apapocuva é como Curt Nimuendaju chama um dos grupos ascendentes dos Nhandewa-Guarani paulista-paranaenses.
+8
+Rodrigues.
+9
+Com acento na sílaba que se segue ao sinal (‘).
+
+COSTA: FONOLOGIA DO NHANDEWA-GUARANI PAULISTA-PARANAENSE
+
+79
+
+É bem verdade que existem as posposições e sufixos átonos. Estes, quando combinados com as palavras oxítonas, resultam palavras fonológicas paroxítonas, como: porã “bonito” + nda-iry (negação) = na+po’rã+iry9 “não bonito, feio” tetã “cidade” + gwi (posposição de origem “de”) = te’tã+gwi “da cidade”.
+Além disso, existe na língua um grupo de palavras que podem ser confundidas com paroxítonas; são aquelas em que, ao invés do apagamento da última sílaba átona, o que se nota é uma mudança nesta sílaba, como nos exemplos10:
+
+G.a.: oga “ : coga “ : añang “ : coang
+
+casa roça “diabo” agora
+
+Apc. : óy “ : cóy “ : añãy “ : coãy
+
+Ao usar a representação “y” no lugar em que no Guarani Antigo (e também no Tupi) encontramos um “g”, Nimuendaju confirma nossa sugestão de que “g” fosse, de fato, realização variante da aproximante /Â/. Esta interpretação nos chama a atenção para uma questão: por que todas as codas consonantais presentes no Tupi desapareceram nas palavras correspondentes em (Nhandewa) Guarani, exceto as codas que continham o segmento /g/, que sofreram uma “mudança”, ao invés de desaparecer completamente?
+A coda silábica ser formada, de fato, por um segmento aproximante poderia ser a explicação para a sua permanência, já que as codas “oclusivas” caíram, enquanto as aproximantes permaneceram. Existe, pois, a possibilidade de que, no Tupi e Guarani Antigo, o som fosse uma aproximante, como me sugeriu D’Angelis. Veja-se o que escreve Edelweiss sobre o tema:
+“O g neste caso não apenas existiu, mas ainda existe entre os guaranis de hoje, como tivemos ocasião de verificar. Apenas é muito suave, quase que só expresso por um movimento do queixo.” (1969:81).
+Nas entrevistas com os falantes, registrei os termos correspondentes aos exemplos dados por Nimuendaju como apresentados na terceira coluna da tabela seguinte:
+
+Guarani Antigo G.a.: oga “ : coga “ : añang
+
+Apapocuva11 Apc.: óy “ : cóy “ : añãy
+
+Nhandewa [»çµ] ~ [»çwµ] [»kçµ]~[»kçwµ] [a») ¯a])
+
+Português casa roça “diabo”
+
+“ : coang
+
+“ : coãy
+
+[kç»‚aµ) ]) ~[kç»‚aN) ] agora
+
+Estas evidências nos sugerem interpretar a série das aproximantes do NhandewaGuarani (j, w, Â) como contrapartes não-silábicas das vogais (i, u, ˆ), respectivamente. Nos
+
+10
+Exemplos de Nimuendaju (1987:22).
+11
+Exemplos de Nimuendaju (1987:22).
+
+80
+
+LIAMES 3
+
+exemplos apresentados por Nimuendaju, grafa-se com y, que é o grafema usado para representar a ‘sexta vogal’ do Guarani, a central alta /ˆ/, do que podemos supor que Nimuendaju não ouvia uma coda consonantal neste lugar, mas sim, uma aproximante
+correspondente dela.
+Com esta interpretação, percebemos que não devemos tratar palavras como “óy” e
+“kóy” como dissilábicas paroxítonas, mas como monossilábicas oxítonas, com sílaba travada
+por aproximante. Isto tem conseqüências para a interpretação do padrão silábico (que
+admitiria também o padrão CVG), mas torna o padrão acentual mais coerente e homogêneo.
+A divisão das soantes também não se mostrou completamente produtiva nesta primeira
+análise. Elas são divididas em dois grupos, um formado pelas oclusivas pré-nasalizadas e
+outro que reúne as aproximantes e o tap num único nível. Quanto à classe das prénasalizadas, uma análise mais acurada dos dados mostrou que [Ng] só ocorre na juntura de vogal nasal com consoante dorsal - /k/ ou /(g)w/ - o que sugere seu caráter fonético e implica sua retirada do quadro fonológico. Em outras palavras, [Ng] nunca ocorre, por exemplo, em início de palavra, onde [mb] e [nd] são possíveis.
+Uma segunda análise, então, foi elaborada a partir da tentativa de resolução dos problemas da primeira, deixando de fora do quadro tanto [g] como [Ng]:
+
+Obstruinte surda p t ts tS k kw /
+
+sonora
+
+dZ
+
+gw
+
+Soante
+
+mb nd R j Â w
+
+Esta interpretação possui a vantagem de separar os fonemas consonantais em dois
+grupos bastante simétricos: obstruintes e soantes. Porém, uma série de apenas duas
+obstruintes sonoras continua assimétrica no sistema.
+A análise mais acurada dos dados apontou para uma distribuição complementar de [dZ] e [j]: [dZ] só ocorre em onset e [j] somente em coda na sílaba12 . Para o Tupi, Anchieta13
+escreve, por exemplo, Iucâ, Ajucâ, etc, para “matar”, termos que em Nhandewa são realizados [dZÉ u»ka], [adZÉ u»ka].
+Considerando-se também a relação de /j/ com [¯], nossa decisão foi por considerar /j/ como um fonema que possui três diferentes realizações: [j] em coda silábica; [dZ] em onset silábico seguido de vogal oral e [¯] em onset silábico seguido de vogal nasal. Reforçam
+esta hipótese dados correspondentes em outros dialetos como, por exemplo, em Guarani
+paraguaio, ñotý, “plantar” e a correspondente em Nhandewa-Guarani, djaty. A relação entre [¯] e /j/ é observada, por exemplo, na pronúncia de verbos do tipo areales (verbos transitivos diretos, que seguem o paradigma de flexão em {a-}, {ere-}, etc, como é o caso de [a») tsÉ E]) “eu saio”)14 . Para estes verbos, o marcador de primeira pessoa do plural inclusivo se realiza como {dZÉ a-} - dja - em contexto oral, como é o caso de djagwata [dZÉ agwa»ta] “nós
+
+12
+A abordagem fonológica desse trabalho não é a da Fonêmica. Por comodidade, no entanto, empregamos vez ou outra, as expressões “alofone”, “alofonia” e “distribuição complementar”.
+13
+Anchieta (1595:17v-19v).
+14
+A terminologia “areales”, “aireales” e “xendales” para classificação dos verbos é de uso no ensino gramatical do Paraguai. (Wilmar D’Angelis - comunicação pessoal).
+
+COSTA: FONOLOGIA DO NHANDEWA-GUARANI PAULISTA-PARANAENSE
+
+81
+
+andamos”, enquanto em contexto nasal, como no caso do verbo [a¯) im) un) o»‚ /o]‚ ‘reunir-se’,
+a primeira pessoa do plural inclusiva (nós, incluindo o interlocutor), terá o marcador de pessoa {dZÉ a-} realizado como [¯a-) ]. Isto pode ser verificado em [dZÉ a«a # ¯a¯) im) un) o»‚ / o#ma]‚) ‘nós vamos nos reunir’ cuja forma fonológica é /ja«a # ja + jimbundç/ç # mba/. Para ãtse) “eu saio”, a forma correspondente à primeira pessoa do plural inclusiva é [¯a») tÉsE]) “nós saímos”. Também para o verbo endu “escutar” temos a conjugação para a primeira pessoa do plural inclusiva: [¯a)«nE#) ¯E)» nÉdu] “nós escutamos”, segmentada como {¯a)»nÉdE} “nós” + {dZÉ a-} ‘flexão verbal de pessoa’ + {-E)»nÉdu} “escutar”.
+Com relação ao [gw], percebemos que, por várias vezes, palavras correspondentes às que, no Nhandewa, tínhamos anotado com o som [gw] - como gwawira [gwawi»Ra] “gabiroba”; gwãpuru) [gw)a)pu»)R)u)] “jabuticaba”; ãgwã [a») gw)a)] que marca futuro15; etc. – eram grafadas por outros autores com w, às vezes com v e ainda com u, ou õ, como é o caso de Anchieta. Por exemplo, Nimuendaju (1987:153) escreve ‘vapuru)’ para “jabuticaba” [gw)a)pu») R)u)], em Nhandewa - e grafa como uembé o termo para [gwE»mbE] que é um tipo de cipó (1987: 31). Os professores índios, em nossos encontros, escreveram primeiramente
+‘ãwã’, para marcar futuro. O Pe. Anchieta escreve esta mesma partícula como aõáma, Gregores e Suárez (1967:143, 177) grafam haNwa.¤)
+Além disso, por diversas vezes em campo, ao transcrever os dados nas entrevistas com os falantes, anotamos estas palavras e algumas outras ora com gw,ora com w: [wãpu») Ru]) ; [gwawi»Ra]; [ogweRe»kç ]~ [oweRe»kç ] “ele tem”.
+Todas estas evidências apontam para a possibilidade de considerar-se o som [gw]
+como uma variante do fonema aproximante /w/. Esta interpretação nos permite sistematizar
+os fonemas consonantais do Nhandewa-Guarani num quadro fonológico de consoantes
+bastante simétrico. Assim, chegamos a uma produtiva interpretação funcional da fonologia
+do Guarani e desafiadora para as análises dos outros dialetos desta língua e de outras
+línguas Tupi-Guarani:
+
+Obstruinte p t ts tS k
+
+Soante
+
+mb nd R j Â
+
+kw / w
+
+Podemos considerar, com alguma certeza, que a lacuna no sistema que se observa acima poderia ser preenchida com certa eficiência pelo fonema /h/, que desapareceu quando este dialeto do Guarani eliminou a série fricativa. O /h/ ficou sem lugar no sistema fonológico do Nhandewa, uma vez que não é soante, embora ele fosse a contraparte da oclusiva glotal. Na reacomodação da fonologia, /h/ foi eliminado, o que resultou em assimetria no sistema. Por isso mesmo, pode ou poderia vir a ser motivo de novas acomodações e mudanças.
+
+As Consoantes Obstruintes
+
+As obstruintes do Nhandewa-Guarani são: a bilabial surda /p/, a dental surda /t/, a velar surda /k/, a glotal ///, a labializada surda /kw/ e as africadas surdas /ts/ e /tS/. As
+
+15
+Anchieta (1595:19) descreve ãgwâ como infinitivo futuro: “infinitiuo futuro. Iucâ aõáma”. Montoya (1640:15) também descreve como infinitivo futuro “haver de ...” e grafa hâgûâmâ. Gregores e Suárez (1967:143) o traduzem como “in order that”.
+
+82
+
+LIAMES 3
+
+obstruintes oclusivas /p/, /t/, /k/, /kw/, e /// não apresentaram nenhuma restrição de ocorrência com vogais, tanto orais quanto nasais. A oclusão glotal é, reconhecidamente, um fonema presente nas línguas do Tronco Tupi. Os segmentos africados /tsÉ / e / tSÉ /: a separação histórica, dentro do tronco Tupi, entre dois ramos lingüísticos a partir de um Proto-Guarani e um Proto-Tupi (com ancestral comum, o Proto Tupi-Guarani) é evidenciada por correspondências entre fonemas resultantes de mudanças fonológicas que ocorreram em algum momento da história destas línguas. Talvez um dos melhores exemplos de mudanças fonológicas como estas seja a ocorrência, na grande maioria das línguas do ramo Guarani, do fonema /h/, onde no ramo Tupi encontra-se /s/.
+Avançando um pouco mais na linha histórica destas línguas, observamos que o dialeto Nhandewa paulista-paranaense eliminou o fonema /h/ completamente e as ocorrências de /s/ que haviam ficado em algumas formas cristalizadas do ramo Tupi, são realizadas, no Nhandewa como a africada /tsÉ /. Sobre estes fonemas escreve Curt Nimuendaju:
+
+“ (...)La c tiene sonido sibilante delante de la e, i, y. La c cedilla (ç) también es sibilante delante de la a, o, u. Esta sibilante, tanto en paraguayo como en los dialectos Kayguá suena suave como la th inglesa; en los Apapokuva suena áspera, como la tz alemana (isso é, como /ts/). Aparece desagradablemente áspera en la conversación y denuncia al Apapokuva apenas abra la boca para hablar. Lo mismo sucede con la ch, que debe pronunciarse mucho más fuerte que la correspondiente sibilante paraguaya, en forma semejante a una tsch alemana. (isso é, como /tS/)”16
+
+As observações de Nimuendaju confirmam as colocações feitas anteriormente sobre o segmento africado /tÉs/ e também nos sugerem usar a mesma interpretação para o segmento /tÉS/: o fonema que, nos antigos dialetos do Guarani, realizava-se como /S/,
+fricativa pós-alveolar surda, no Apapocuva (e no Nhandewa-Guarani de SP e norte do PR) realiza-se como o segmento africado /tÉS/, fato que pode ser notado nos exemplos:
+
+Guarani Antigo (Montoya)17 Che Tubichá Chêbe
+
+Nhandewa-Guarani de SP
+e norte do PR [tÉSE»E]
+[tuwi» tÉSa] [tÉSE»wµ]
+
+Português
+“eu” “grande” “para mim”
+
+A mudança é verificada também em casos de empréstimo lexical, como nos termos emprestados do português [tÉSika)mi»)tÉså)] “minha camisa” e [tÉSiRˆ)«mbÉ aka» tÉSuRu]
+“minha criação (cachorro)”.
+O que o Nhandewa-Guarani fez foi eliminar completamente uma série obstruinte
+[+contínua], ou seja, a série fricativa. Como o fez? Eliminando o fonema /h/ e “assimilando” as restantes fricativas /s/ e /S/ ao conjunto das obstruintes [–contínuas] (ainda que foneticamente [ts] e [tS] tenham um contorno [+–contínuo], fonologicamente são
+descontínuas) e /v/ ao conjunto das aproximantes, passando a /w/.
+
+16
+Nimuendaju (1978:41). As observações entre parênteses e os negritos são meus. 17 Montoya ([1640:4 e 10]1993: 72 e 78).
+
+COSTA: FONOLOGIA DO NHANDEWA-GUARANI PAULISTA-PARANAENSE
+
+83
+
+A baixa ocorrência das fricativas já havia sido notada pelos jesuítas na língua geral de base Tupi, falada na costa do Brasil, nos primeiros séculos de colonização:
+
+“Nesta lingoa do Brasil não ha f. l. s. z. rr. dobrado nem muta com líquida, vt cra, pra &
+c. Em lugar do s. in principio, ou médio dictionis serue, ç. Com zeura, vt Aço, çatâ.”
+Anchieta (1595:1)18 Se fizermos um quadro comparativo das ocorrências dos segmentos /tÉs/ e /tÉS/,
+notaremos tanto a ausência do segmento /tÉs/ com a vogal alta /i/ e também com sua correspondente nasal /i/) , quanto à numerosa ocorrência de /tSÉ / com esta vogal e a simétrica ausência de /tÉS/ com /ˆ/ e /ˆ/) , o que aponta para um processo de neutralização:
+O segmento /tsÉ /, ao formar sílaba com /i/, sofre palatalização, por influência da vogal anterior alta, e resulta numa neutralização, isto é, tanto /tÉs/ quanto /tÉS/, diante de /i/, se realizam como [tSÉ i]. No caso de sílabas formadas com a vogal central /ˆ/ a língua elege [tsÉ ].
+Além de segmentos fonologicamente relevantes, os africados /tÉs/ e /tÉS/ são marcas
+dialetais dos Nhandewa, “(...) y denuncia al Apapokuva apenas abra la boca para
+hablar”.19
+
+A variação entre [s] e [ts]: Rodrigues (1945:341-345), tratando as diferenças fonéticas entre o Tupi e o Guarani, destacou uma mudança fonológica no que se convencionou chamar de Proto-Tupi-Guarani, quando esta língua se ramificou em Proto-Tupi e Proto-Guarani: quase todas as ocorrências do fonema /s/ (que se mantiveram e ainda se mantêm no Tupi Moderno) foram substituídas, no ramo Guarani, pelo fonema /h/. Especificamente no Nhandewa paulista-paranaense o fonema /h/ desapareceu:
+
+/s/ (Proto-Tupi) → /h/ (Guarani) → Ø (Nhandewa-Guarani)
+
+De fato, o segmento /s/, reconhecidamente um fonema no Tupi e no Tupinambá, é
+pouco registrado no Guarani Antigo e nos dialetos Guarani da atualidade. Apesar disso,
+algumas realizações de /s/ permaneceram nas línguas Guarani e estas, em Nhandewa,
+passando pelo processo fonológico que eliminou a série das fricativas, foram convertidas em /ts/, como é o caso de /sˆ/ “mãe”, no Avanheém, realizada em Nhandewa como [tÉsˆ].
+No dialeto Nhandewa-Guarani falado nas comunidades de São Paulo e norte do Paraná
+não se registram o fonema /h/. Todas as ocorrências de /h/ correspondentes em outros dialetos Guarani, no Nhandewa são ∅ (como em[ho»/a], [ç»/a] “cair”; [kwE»hE], [kwE»E] “ontem”). Além disso, quase todas as ocorrências de /s/ encontradas em outros dialetos Guarani, são realizadas no Nhandewa como [ts]. O quadro a seguir relaciona
+exemplos desta mudança fonológica:
+
+18 Anchieta não faz a distinção entre som e letra. Quando Anchieta diz que não tem “s” ele está se referindo ao som [S] que ra o valor fonético da letra “s” no português de seu tempo.
+19 Nimuendaju (1978:40).
+
+84
+Tupi(nambá)
+kwarasy asab ambyasy kwese
+
+LIAMES 3
+
+Guarani (“geral”) kwarahy aha ambyahy kwehe
+
+NhandewaGuarani20 kwaray aa ambyay kweé
+
+Português
+“sol” “eu vou” “fome” “ontem”
+
+O Nhandewa-Guarani conserva realizações de /s/ em dois itens lexicais somente: [tagwa«tçsapu»kaj] ‘gavião sapucai’21 e [sa»)dZÉ u] que é um nome próprio22 . Isto se não considerarmos os empréstimos lingüísticos e outras possibilidades descartadas por terem sido pronunciadas com [s] somente pelo falante que residiu em área onde se fala o Mbyá (outro dialeto Guarani). A contagem das ocorrências dos fones apontou seis ocorrências de itens lexicais com [s], das quais somente as duas mencionadas acima podem ser consideradas “autênticas”.
+
+A labializada /kw/: em línguas Tupi-Guarani, a plosiva velar /k/ possui uma forma simples e um segmento complexo labializado correspondente /kw/23 . Este fenômeno foi descrito
+por vários (se não todos) os autores que se dedicaram às línguas desta família. Vários são
+os pares mínimos e análogos que permitem evidenciar tais segmentos complexos como fonologicamente relevantes na língua. Alguns exemplos: [kwE] “coletivo” e [kE] “dormir”; [kwa»a] “saber” e [ka»/a] “mato”.
+Os segmentos labializados possuem uma articulação primária (dorsal) e uma articulação
+secundária (labial). Na interpretação de Clements e Hume (1995), esta articulação secundária
+está subordinada, na representação hierárquica dos traços distintivos, ao nó Ponto de V (V-Place)24 .
+
+20 Em parte, esta também é a situação do Mbyá. 21 O termo sapukai, que é também o verbo “gritar”, quando registrado na forma verbal, é realizado [tÉsapu»kaj], o que também aponta para o fato de [s] ser uma variante de /ts/. Outra ocorrência do termo ‘sapukai’, por outro falante, mostrou que, também neste caso, a fricativa alveolar surda se realiza como o segmento africado [tÉs], como pôde ser verificado em espectrograma. 22 Que, coincidentemente, é o nome do falante entrevistado nesta ocasião, que residiu em Barragem,
+aldeia onde se fala Mbyá, majoritariamente. 23 No caso de outras línguas, que possuem a velar /g/, também é registrada a labializada /gw/. Não é
+o caso do Nhandewa, que apresenta a aproximante velar /Â/ onde em outras línguas Tupi encontra-se “g”. Neste caso, como argumentamos em 1.5, a correspondente labializada é a aproximante /w/, que tem a variante [gw].
+24
+Que, por sua vez, está subordinado ao nó Ponto de C. Este, é dependente do nó Cavidade Oral e
+CO é ligado à Raiz.
+
+COSTA: FONOLOGIA DO NHANDEWA-GUARANI PAULISTA-PARANAENSE
+
+85
+
+Consoantes Soantes
+
+As oclusivas pré-nasalizadas: As línguas do Tronco Tupi geralmente apresentam, em seu sistema fonológico, uma série de segmentos de contorno (foneticamente, oclusivas com contorno nasal): /mbÉ /, /nÉd/, /NgÉ / e /NÉgÉw/. As pré-nasalizadas /NgÉ / e /NÉgwÉ /, presentes em outras línguas Tupi, no dialeto Nhandewa-Guarani são realizações fonéticas da velar surda /k/ e da labiovelar /kw/, respectivamente, com ambiente nasal a sua esquerda.
+Os segmentos daquela série são tratados, na literatura, em geral, como oclusivas pré-nasalizadas. Algumas abordagens as consideram como nasais pós-oralizadas (que assimilam a oralidade da vogal à sua direita), outras como realizações fonéticas de /b/, /d/, /g/. O que temos observado é que o “papel” desta série de consoantes pré-nasalizadas nos processos fonológicos de línguas como o Nhandewa-Guarani é mais relevante do que se pensava.
+Estes segmentos não permitem um tratamento simplificado na fonologia, pois possuem valores opostos de um mesmo traço: são, simultaneamente, nasais e orais, soantes e obstruintes.
+Autores como Piggott (1992, 1996), nos moldes da Fonologia Autossegmental, interpretam os segmentos pré-nasalizados como ‘oclusivas soantes’, através das geometrias de segmentos “complexos”, com duas bordas polares em uma só raiz: [+nasal] e [-nasal].
+Outros autores, como Kiparsky (1985), preferem considerá-los consoantes pós-oralizadas, que são consoantes nasais subjacentes que recebem espalhamento da oralidade vocálica a sua direita.
+A interpretação aqui assumida é que a fase nasal nestes segmentos é o resultado de uma regra de implementação fonética (seguindo Piggott neste ponto), aplicada para garantir a soanticidade a um elemento que possui oclusão completa no trato oral. Estes segmentos pré-nasalizados /mbÉ / e /nÉd/ precisam garantir a soanticidade, justamente, para contrastar com segmentos completamente oclusivos /p/ e /t/ constituindo, assim, a oposição fundamental das consoantes em Nhandewa-Guarani.
+
+Os segmentos nasais e sua relação com os pré-nasalizados: Desde os primeiros estudos
+sobre as pré-nasalizadas no Tupi Antigo, percebeu-se que esta série de segmentos se dividia em dois grupos distintos: /mb, nd/ de um lado e /Ng, Ngw/ de outro. O grupo /mb/, /nd/ só ocorre em início de sílaba (podendo ocorrer em início de palavra) ao passo que /Ng/, /Ngw/ nunca ocorrem em início de palavra. No caso do Guarani, tanto do antigo quanto do contemporâneo, as consoantes nasais em coda na sílaba desapareceram25. Remeto à
+apresentação da nossa proposta de interpretação para a harmonia nasal do Nhandewa-
+Guarani (Costa, 2003: 82-108). Seu fundamento está no desaparecimento das codas nasais
+que originaram as atuais vogais nasais no Nhandewa e, imagino, também em outros dialetos
+Guarani. Tratemos, então, cada um destes dois grupos.
+
+25 De fato, o “ramo” Guarani suprimiu todas as codas em sílabas CVC presentes no Tupi. Assim, por exemplo, a forma Tupi ‘tub’ “pai” em Guarani tem o correspondente ‘tu’; ‘jaguar’ “cachorro”, em Guarani ‘jagua’. Este assunto é tratado em Rodrigues (1945). Havia também um dialeto observado por Anchieta que fazia o mesmo: o Tupi de São Vicente.
+
+86
+
+LIAMES 3
+
+Os pré-nasalizados /mÉb/ e /nÉd/ e a alternância com os nasais plenos: Há um conhecido processo fonológico nas línguas Tupi em que os elementos da série de oclusivas pré-nasalizadas alternam-se com os elementos da série das consoantes plenamente nasais. Esta alternância é condicionada pelo “ambiente” nasal ou oral. Se a vogal à direita for nasal, o fonema realiza-se como [m] (ou [n]) e se a vogal for oral o fonema vai se realizar como [mÉb] (ou [nd]).
+Observamos a existência de pares de termos que evidenciam a relação dos segmentos condicionados pela nasalidade do ambiente. A separação dos morfemas está representada por (-):
+
+[mbÉ a»/E] “o que, coisa” [mç-) »mÉbç] “jogar” [nÉda-ç»kµ-jRˆ] “sem chuva” [nÉde-dÉZu»ru] “sua boca” [¯a)«nÉde-£ tuwi»tÉSa] “nosso chefe”
+
+[ma)»/E]) “olhar” [ma»)mç‚ ] “onde?” [na-) pç‚»Rå-) jR) ˆ) )] “não bom, ruim, feio” [ne-) pE)»tˆ‚] “seu fumo” [¯a)«nE-) Ra»)mçj‚ ‚] “nosso avô”
+
+Observe-se particularmente a alternância de [nÉd] Ú[n] nos três últimos pares de exemplos, tanto no prefixo de negação - [ndÉ a] Ú [na]) - como no pronome de 2ª pessoa do singular [nde] ~ [ne)] e de 1ª pessoa do plural inclusiva - [¯a)»nÉdE] Ú [¯a)»nE]) .
+Por vezes, pode-se usar uma variante por outra, o que notamos em diálogos com os professores bilíngües Nhandewa: mboapy ou moapy “três”; Mbatitirõ ou matitirõ “roupa”. A substituição parece ser “livre” quando não se trata de uma distinção de significado (ou seja, quando não existem formas alternantes, oral x nasal, com significados distintos). Esta substituição nunca ocorreria em casos como mba’e “coisa” e mã’e) “olhar”.
+Esta interpretação considera que, em Nhandewa-Guarani, os fonemas são /mb/ e /nd/ . Eles se realizam como [mb] (ou [nd]) diante das vogais orais e como [m] (ou [n]) diante das vogais nasais. Assim, as formas [m] e [n] são realizações dos fonemas /mb/ e /nd/ em ambiente nasal.
+A eleição de /mb/ e /nd/ - e não de [m] e [n] – como fonemas é mais produtiva para nossa análise, por derivar realizações [m] e [n] de /mb/ e /nd/, por espalhamento nasal. Temos mais argumentos em favor de que se derive as nasais plenas das pré-nasalizadas do que em favor de derivar-se realizações [mb] e [nd] de /m/ e /n/. A escolha contrária, corrente na literatura, talvez se deva “a um certo ‘preconceito’ – pelas dificuldades dos modelos em lidar com segmentos de contorno - de tomar as mais ‘simples’ como fonemas. Também um preconceito de quem vê as línguas a partir da sua própria”, nas palavras de D’Angelis. São pertinentes, neste sentido, algumas considerações de Trubetzkoy no seu texto A Fonologia Atual26.
+Não é inovação nossa a proposição de que as pré-nasalizadas sejam os fonemas (e as nasais plenas suas derivadas); veja-se a interpretação de Mattoso Câmara Jr. (1959) para o Proto-Jê.
+
+26 Trubetzkoy (1981:21-22).
+
+COSTA: FONOLOGIA DO NHANDEWA-GUARANI PAULISTA-PARANAENSE
+
+87
+
+A favor da análise de [m] e [n] como derivados de /mb/ e /nd/ temos pontos como a questionável pós-oralização: para considerarmos [mb] e [nd] como resultado de alteração nas nasais plenas /m/ e /n/ pela vogal oral, teríamos que considerar um controverso traço [–nasal] ativo. Além disso, ao caso do Guarani, não é possível aplicar-se uma proposta como a de D’Angelis (1998) para o Kaingang, já que, diferentemente desta língua, o Guarani tem o fenômeno da harmonia nasal, sendo as obstruintes transparentes a este processo, o que impede que se postule um caráter ativo do nó SP (Soft Palate) às vogais para, com isso, fazê-las oralizar parcialmente a consoante nasal precedente.
+O espalhamento de nasalidade é uma boa interpretação para que realizações [m] e [n] sejam derivadas de /mb/ e /nd/. Trabalhos como os de Piggott e Rice, além de D’Angelis (1998), mostraram a relação entre soanticidade e nasalidade, o que nos permitiu interpretar as pré-nasalizadas como soantes.
+Ainda é importante destacar a alternância observada entre a nasal palatal [¯] e o segmento africado palatal [dÉZ] (que têm uma clara relação pelo ponto de articulação). Observa-se aí o mesmo padrão, de modo que a nasal [¯] ocorre com vogais nasais e a africada [dÉZ] ocorre com vogais orais.
+
+Os pré-nasalizados velares: encontramos, com freqüência, dois segmentos complexos prénasalizados com articulação velar em Nhandewa-Guarani, [NgÉ ] e [NgÉ wÉ ], que são formados por um processo morfofonológico de vozeamento das oclusivas surdas /k/ e /kw/.
+Este processo, que resulta na criação de um segmento pré-nasalizado através do vozeamento na consoante velar seguinte, já existia no Tupi, como foi apontado por José de Anchieta, em 1595:
+
+“C. sem zeura, ou, que qui, que eh o mesmo, comummente se muda em, ng. Precedendo, m.n. ou til, como nesta composição dos verbos neutros cõmo. vt aicô. Amoingó, aquêr. Amonguêr, quiâ, aimonguiâ. Item noutras dições compostas, vt Aîn, catu, composto, aingatú, airumô, airumóngatúu, amanô, amanóngatú, ainupã, ainupãngatú, etc.” 27
+
+Em Nhandewa-Guarani existem dados que apontam para o mesmo tipo de interpretação, como, por exemplo, [poR‚ aN) ga»tu] = [po‚ »Ra]) + [ka»tu] “muito bom”.Além deste, outros dados do Nhandewa-Guarani sugerem que se dê a mesma interpretação também para o segmento [NgÉ wÉ ]. Em contexto oral tem-se:
+[ˆwˆ»kwa] “sepultura” de ‘ˆwˆ’ “terra” + ‘kwa’ “buraco”
+
+Já em contexto nasal encontra-se: [pet) ˆ»)NgÉ wÉ a] “cachimbo” de ‘pE») tˆ’) “fumo” + ‘kwa’ “buraco”
+
+27 Anchieta (1595: 4). Uma “versão” para o uso corrente: “/k/ comumente se muda em [Ng] quando é precedido por /m/, /n/ ou vogal nasal, como nesta composição dos verbos (...) Idem em outras locuções, como Ayn + katu = ayngatu”.
+
+88
+
+LIAMES 3
+
+Registramos ainda, ainda, a palavra [tSÉ Japˆ»‚NgÉ wÉ a] “meu nariz”, cuja relação com os termos acima é notada: /apˆ¯/ “ponta do nariz28 ” + /kwa/ “buraco”.
+Esta pré-nasalização seria produzida pelo vestígio de uma consoante nasal que,
+historicamente, esteve presa à raiz da palavra, herança das línguas ascendentes do Tronco Tupi, em casos como: [po»RaN) g-a] no Tupi e o termo correspondente em Guarani Moderno /po»RaN/.
+Sendo assim, pode-se sugerir que os segmentos pré-nasalizados formados com a plosiva velar [g] – vozeamento de /k/ - são diferentes dos segmentos fonológicos prénasalizados /mbÉ / e /nÉd/. Os segmentos velares não são pré-nasalizadas subjacentes no
+sistema fonológico da língua, mas resultado de um processo morfofonológico.
+
+A variação entre [v], [w] e [V]: Observamos uma variação entre os sons [V], [v] e [w].
+Optou-se por eleger /w/ como fonema e os demais como suas variantes, uma vez que [w] é o único que ocorre tanto com vogais orais quanto com nasais, realizando-se como [w]) - ou [M] - no segundo caso.
+A variação ocorre entre falantes, não se descartando a possibilidade da influência de outros dialetos Guarani ou mesmo do Português. Como exemplo, a palavra /wE»wE/ “voar”, um falante pronuncia [VE»VE], e outro, [vE»vE].
+Estas variações parecem ser, até certo ponto, variações de ordem sociolingüística,
+motivadas talvez pela idade do falante, contato dialetal e bilingüismo.
+Outros exemplos desta variação são:
+
+[ko»wa] e [ko»Va] “isto, coisa” [tuwi»tÉSa] e [tuVi»tÉSa] “chefe, grande” [va»ka], [wa»ka] e [Va»ka] “vaca”
+
+Em ambiente nasal, observam-se dois tipos de ocorrência diferentes: (1) uma aproximante [w]) – que varia, em alguns casos com a nasal lábio-dental [M]– ou (2) realiza-se como [Nw]) . No primeiro caso, por várias vezes anotamos “m” ou “w)”, porém, não poderia ser [m] sendo também arredondado. São exemplos desta relação entre os dois sons:
+1) Txeé “eu” + wy “para” = txewy [tSE»wˆ] “para mim”; pee) “vocês” + wy = pemy) [pE») mˆ]) “para vocês”. 2) O termo Nhandewa para “canjica”, registrado ora como [kami)ndÉZu] ora como [kaw)i)ndÉZu].
+A variação, em ambiente nasal, entre [w]) e [Nw]) , é evidenciada pelo par gwavira “gabiroba” e w)a)pur) u) ) ~ Nwa) pu)ru) “jabuticaba”29.
+
+28 Aqui me baseio na forma escrita dada por Silveira Bueno (1982:50) de quem tomo a etimologia
+“Apynha: a ponta do nariz”. 29 Uma interpretação alternativa, neste caso, seria considerar /w/ e /V/ como dois fonemas. Se
+considerada esta possibilidade, o fonema /V/ - que alternaria com [v] em ambiente oral - corresponderia, em ambiente nasal, a [M] (que não seria arredondado, mas lábio-dental, já que seria uma realização de /V/ e não de /w/ e o fonema /w/, velar, - que alternaria com [gw] em ambiente oral - se realizaria como [w]) ou [Ngw)] em contexto nasal. Esta alternativa, no entanto, está interditada por nossa interpretação do
+sistema fonológico do Nhandewa, apresentada acima.
+
+COSTA: FONOLOGIA DO NHANDEWA-GUARANI PAULISTA-PARANAENSE
+
+89
+
+O tap /R/: O segmento /R/ faz parte da fonologia do Nhandewa-Guarani. Ele aparece, na sílaba, sempre em posição de onset, em início e meio de palavra, como em:
+
+rery [Re»£Rˆ] “nome” rowai [Rç»waj] “o outro lado, além” awati pororo [aVa«tipçRç»Rç] “milho de pipoca” piri [pi»Ri] “tabôa, junco” ywyra [µwµ»Ra] “árvore”
+
+/R/ foi também registrado na forma /R/) nasalizada (foneticamente), em casos de palavras nasais. Ex: põra) [pç»‚Rå) ]) “belo”, nap) orairy) [nap) ç»‚Rå) j‚ R‚ ˆ‚ ]‚ “feio”, wa’) er) ã [Va/) E»)Ra) ]) “futuro”.
+Em contexto de fala rápida ele é facilmente confundido com a consoante nasal /n/. O próprio Nimuendaju registrou n em várias realizações de /R/ nasalizado. Há mesmo um
+tópico que ele dedica à “mudança” de r em n, no capítulo ‘Dialeto’ do seu livro30 .
+
+Vogais
+
+Seguindo o modelo proposto por Clements e Hume (1995) para as alturas vocálicas, podemos agrupar, foneticamente, os sons vocálicos do Nhandewa-Guarani em estudo em quatro conjuntos segundo a altura vocálica, como abaixo:
+
+Aberto 1 Aberto 2 Aberto 3
+
+i/ˆ/µ/u -
+
+e/o/å + -
+
+E/ç
+
+a
+
+-
+
++
+
++
+
++
+
++
+
++
+
+Estamos consideramos um sistema de duas alturas vocálicas (alta e baixa) que combinam com três diferentes pontos de articulação (anterior, central e posterior). O sistema fonológico vocálico do Nhandewa-Guarani é composto por: alta anterior, /i/; alta central, /ˆ/; alta posterior, /u/; baixa anterior, /E/; baixa central, /a/; baixa posterior, /ç/ . Optou-se por eleger como fonemas as médias-baixas / E/ e /ç/, no lugar das médias /e/ e / o/ por dois motivos: (1) são as vogais que aparecem em sílabas acentuadas, tanto orais quanto nasais e (2) o uso destas vogais mais abertas é identificado pelos falantes como diferença relevante em relação a outros dialetos Guarani.
+Ocorre um processo de neutralização entre as alturas vocálicas nas sílabas pré-tônicas. A neutralização entre /E/ e /i/ costuma ocorrer nas sílabas átonas mais afastadas da sílaba acentuada, nunca nas que são imediatamente vizinhas ao acento:
+[tSÉ ime»mbÉ ˆ] “meu filho” versus [tSÉ e»/awˆ] “meu cabelo”.
+
+30 Nimuendaju (1987:21).
+
+90
+
+LIAMES 3
+
+Os professores índios, na ocasião das convenções lingüísticas que fizemos, não
+aceitaram como boas na língua as formas escritas com i, para palavras como “txi memby”.
+Nestes casos, a grafia escolhida foi “txe memby”. Uma variação fonética de altura vocálica ocorre entre os pares [E] e [e], [ç] e [o]. Em
+posição tônica, a vogal é sempre a mais aberta, [E/E)] ou[ç/ç)]. Nas sílabas átonas31 a ocorrência pode ser tanto da variante mais fechada quanto da mais aberta. Neste sentido,
+foram registrados dados que possuíam variação de altura das vogais nestas posições.
+
+[tSÉ imE»)mbÉ ˆ]~[tSÉ ime»)£mbÉ ˆ]~[tSÉ ime»)mbÉ ˆ] “meu filho” (dito por mulher); [pçRç»Rç]~[poR£ ç»Rç]~[poRç»Rç] “milho de pipoca“ (awatipororo).
+
+Registramos outra variação vocálica, condicionada pelo ponto de articulação da consoante em sílaba CV, formada com a vogal central alta /ˆ/: as consoantes velares ocorrem com a variante [µ] e as demais consoantes ocorrem com [ˆ].
+A oposição nasal versus oral é considerada subjacente e fundamental entre as vogais
+nesta língua. A seguir temos alguns pares mínimos e análogos orais x nasais em Nhandewa-
+Guarani32 .
+
+Orais
+pyta “ficar” tupa “cama” kwa “buraco” puru’a “gravidez” mba’e “coisa, o que” oke “ele dorme” tape “caminho” kutxa “colher” kutxa “colher” (r)eta “coletivo não-pessoa” txira’y “meu filho” dito por homem kywy “irmão (da mulher)” pota “querer, gostar” atxa “machado”
+
+Nasais
+py)tã “vermelho”33 tu)pã “trovão, clima”
+kwã “dedo” pur) u’) ã “umbigo” mã’ e) “olhar” ok) e) “porta” tã)pe) “tipo de pássaro” kutxãti ) “garfo”
+kunhã “mulher” tet) ã “cidade” txira’) yi) ) “meu dente” ky’) y)i) “pimenta” por) ã) “bonito, bom” ãt) ã) “duro”
+
+31 Tanto as pré-tônicas quanto as poucas pós-tônicas encontradas na língua, que privilegia as oxítonas.
+32 A representação da nasalidade, nesta listagem, é fonética. 33 É sabido que o espectro das cores é dividido diferentemente em cada cultura. O termo pyt) ã engloba as
+cores que, em português, denominamos de vermelho, rosa, vinho, além de alguns tons de roxo. Outros tons de roxo são classificados como u)u), termo que também engloba azul e preto.
+
+COSTA: FONOLOGIA DO NHANDEWA-GUARANI PAULISTA-PARANAENSE
+
+91
+
+4. DISCUSSÃO DA INTERPRETAÇÃO: OPOSIÇÕES FUNDAMENTAIS DA LÍNGUA
+
+Discutiremos inicialmente as possíveis interpretações para a oposição fundamental entre consoantes. Entre vogais, obviamente, não se coloca a discussão de soantes x obstruintes, sendo nasal x oral a oposição fundamental.
+
+Oposição Oral x Nasal
+
+Os fenômenos de nasalidade do Nhandewa paulista-paranaense são o ponto crucial da fonologia desta língua. A harmonização nasal permite que um autossegmento nasal, que parece ser «herança» de um segmento nasal que esteve, historicamente, presente em línguas ancestrais, se espalhe para os sons vizinhos, chegando a nasalizar todo o sintagma, em alguns casos. O fato de, nas línguas Guarani, os segmentos oclusivos serem transparentes a este espalhamento, sem bloqueá-lo, coloca questões como ‘a quê esta nasalidade está ligada?’ ou ‘a quais outros traços a nasalidade se associa, para que seja possível o espalhamento nasal na forma com que ele se dá?’
+Nestas línguas, a harmonização nasal é exatamente o que inviabiliza a oposição nasal x oral entre consoantes. Todos os segmentos sonoros (vozeados) são passíveis de nasalização34 . Mais que isso, também oclusivas surdas podem ser (pré-) nasalizadas e vozeadas. Por exemplo: [ku»¯a)] “mulher” +[»kwE] “coletivo” =[ku¯a)»NgwE] “mulherada”.
+Distingue-se, no entanto, uma nasalidade que é fonética e uma nasalidade que é fonológica. A nasalidade presente nas vogais tônicas e nas consoantes pré-nasalizadas / mb, nd/ é fonológica. É fonética a nasalidade presente nas realizações nasais [m,n,¯,N], nas realizações pré-nasalizadas [nÉdÉZ, NÉg, NÉgÉw35 ], no tap [R]36 , nas aproximantes e em vogais átonas. As consoantes plenamente nasais [m, n] são realizações superficiais das pré-nasalizadas /mb/ e /nd/. A nasal palatal [¯] é realização superficial de /j/ com contexto nasal à direita e a pré-nasalizada velar [Ng] é realização superficial de /k/ ou /Â/ com contexto nasal à esquerda37 .
+Por ora, podemos considerar que, nesta língua, a oposição nasal x oral não parece ser produtiva entre as consoantes, como o é entre as vogais. Descartamos esta oposição nas consoantes, pois grande parte dos segmentos consonantais possui realizações orais e nasais, de acordo com o ambiente, o que é resultado do complexo processo de harmonização nasal da língua.
+Isto nos deixa a hipótese de que a oposição soante x obstruinte deva ser a oposição fundamental entre as consoantes nessa língua.
+
+34 De fato, todos os segmentos soantes, o que nos remete diretamente à tradicional associação entre o traço
+nasalidade e o traço soanticidade, que já estava presente em SPE como regra de redundância e continuou a ser assim considerada pela Fonologia Autossegmental, ao subordiná-los ao mesmo nó. Ver Chomsky e Halle (1968), D’Angelis (1998, 2001), Piggott (1992).
+35 Casos como a realização de pe)ty) “fumo” + kwa “buraco” como [pet) ˆ») NgwÉ a] “cachimbo”. 36 Por ex. [pç»‚Ra) )]. 37 /pç»Ra) + ka»tu / = [pçR‚ a‚ N) ga»tu] “realmente belo”.
+
+92 Oposição Soante x Obstruinte
+
+LIAMES 3
+
+A definição de soante em SPE é a seguinte: “Sonorants are sounds produced with a vocal tract cavity configuration in which spontaneous voicing is possible; obstruents are produced with a cavity configuration that makes spontaneous voicing impossible.”38
+
+Não temos nenhum problema em classificar as oclusivas, africadas e labializada surda (p, t, k, /, tÉs, tÉS, kw) como elementos obstruintes. Entretanto, a classificação das consoantes pré-nasalizadas /mb/ e /nd/, como soantes ou obstruintes, nos coloca o problema da presença de um contorno nasal (soante) no segmento oclusivo (obstruinte).
+A ocorrência de duas “fases” nos segmentos pré-nasalizados nos deixa três possibilidades de interpretação: ou são obstruintes (pois há obstrução no trato oral), ou são simultaneamente obstruintes soantes (já que possuem as duas fases) ou, ainda, são soantes (já que há passagem livre do ar no trato nasal, permitindo vozeamento espontâneo).
+
+1ª hipótese de classificação quanto à soanticidade:
+
+Obstruintes Soantes
+
+surdas sonoras39 R, j, Â, w
+
+p, t, k, /, tÉs, tÉS, kw mÉb, nÉd,
+
+Se a qualidade de soanticidade é atribuída ao elemento que não possui nenhuma obstrução no trato oral, podemos deduzir que não existem semi-soantes: ou temos um elemento que possui obstrução ou um elemento que não possui nenhuma obstrução. Assim, se um elemento é semi-soante e semi-obstruinte, logo, ele é obstruinte. Qualquer grau de obstrução já contraria a definição de soanticidade por caráter articulatório: não possuir obstrução. Considerando que não existe semi-soanticidade, as pré-nasalizadas seriam interpretadas como obstruintes.
+Este procedimento nos deixa com um sistema fonológico no qual as soantes são somente o tap, as aproximantes e as vogais. Isto é um problema para a análise fonológica do Guarani? Parece-me que sim. O comportamento de /mb/ e /nd/, como alvos de nasalização, os coloca numa classe natural com /R/ e com as aproximantes.
+Levamos em conta, porém, a regra de implementação fonética de Piggott (1992). Essa regra possibilita que se realize como soante um elemento que também possui oclusão oral completa. A fase nasal é a forma de “garantir’ a soanticidade, uma implementação fonética, que resulta em um segmento complexo pré-nasalizado, uma consoante obstruinte que soa.
+
+38 Chomsky and Halle ([1968]1995:302). 39 As ausências, nesse e nos demais quadros, das consoantes nasais e das pré-nasalizadas [nÉdÉZ, NÉgÉw], assim como da vela [g], se explicam por seu caráter fonético.
+
+COSTA: FONOLOGIA DO NHANDEWA-GUARANI PAULISTA-PARANAENSE
+
+93
+
+Seguindo Piggott (op. cit.), nossa opção, neste caso, é considerar o traço soanticidade como fonológico, sujeito a regras e princípios de implementação fonética, via gestos articulatórios.
+
+2ª hipótese de classificação quanto à soanticidade
+
+Obstruintes Obstruintes-soantes Soantes
+
+p, t, k, /, tÉs, tÉS, kw
+mbÉ , ndÉ R, j, Â, w
+
+Esta interpretação seria “aceitável” se seguíssemos a concepção de Piggott que considera a existência de obstruintes que soam. No entanto, este parece ser um recurso classificatório daquele autor, que inutiliza o emprego de uma oposição distintiva bem estabelecida e de uso quase universal. Ademais, não permite agrupar as pré-nasalizadas em uma classe natural com outros fonemas que são alvos de espalhamento nasal.
+Nenhuma das hipóteses é completamente satisfatória para a interpretação do funcionamento do sistema fonológico. Entretanto, a já citada regra de Implementação Fonética parece apontar um caminho viável: de todas, a interpretação que nos traz menor quantidade de problemas é considerar as pré-nasalizadas como soantes, que se opõem a obstruintes. Ou melhor, são elementos que são pré-nasalizados, justamente, para se oporem a elementos obstruintes, o que gera a oposição soanticidade x obstrução. O critério da classificação será, digamos, mais acústico que articulatório. Disto resultou nossa proposta de interpretação para o sistema fonológico consonantal:
+
+Obstruintes Soantes
+
+p, t, k, /, tÉs, tÉS, kw mÉb, nÉd, R, j, Â, w
+
+Nossa proposta de interpretação para o sistema fonológico consiste, então, na oposição soante / obstruinte entre as consoantes. Seguindo a regra de implementação fonética, consideramos as consoantes pré-nasalizadas como elementos que possuem uma fase nasal para garantir vozeamento espontâneo, o que faz com que elas se oponham a elementos obstruintes no sistema.
+Entre as vogais, a oposição principal é oral / nasal.
+
+5. CONCLUSÕES
+Nosso tratamento para a fonologia do Nhandewa-Guarani paulista-paranaense levou em conta os processos fonológicos e discutiu o funcionamento do sistema, o que tornou possível apresentar um quadro fonológico composto por 13 segmentos consonantais, sete obstruintes que se opõem a seis soantes e uma lacuna. Consideramos que esta posição vazia foi deixada, possivelmente, pela eliminação do fonema /h/ do sistema. Além disso, apresentamos um quadro fonológico vocálico que em parte se aproxima do tradicionalmente visto na bibliografia, de seis vogais, embora tenhamos assumido apenas duas alturas onde, freqüentemente, propõem-se três.
+
+94
+
+LIAMES 3
+
+Finalmente, além das questões sobre a fonologia do Nhandewa-Guarani, levantaram-se questões sobre a própria fonologia do Tupi.
+
+______________________________ REFERÊNCIAS BIBLIOGRÁFICAS
+ANCHIETA, José de, Pe. (1990). Arte de Gramática da lingoa mais usada na costa do Brasil. Ed. Facsimilar à de 1595. São Paulo: Loyola.
+CHOMSKY, Noam & HALLE, Morris. (1968). The sound pattern of English. N.Y.: Harper & Row.
+CLASTRES, Hélène. (1978). Terra Sem Mal: o profetismo Tupi-Guarani. S.P.: Editora Brasiliense.
+CLEMENTS, G.N. & HUME, Elisabeth V. (1995). The internal organization of speech sounds. In J. Goldsmith (org.). The Handbook of Phonological Theory, p. 245-306. Cambridge, Mass.: Blackwell.
+COSTA, Consuelo de Paiva G. (2002). Nasalização em Nhandewa-Guarani. Atas do I Encontro Internacional do Grupo de Trabalho sobre Línguas Indígenas da ANPOLL, t. 1: 403-412. Belém: Editora Universitária UFPA.
+_____.(2003). Nhandewa aywu. Dissertação de Mestrado em Lingüística. Campinas, S.P.: IEL-UNICAMP.
+D’ANGELIS, Wilmar da Rocha. (1998). Traços de modo e modos de traçar geometrias: línguas Macro-Jê & Teoria fonológica. Tese de Doutorado em Lingüística. Campinas, SP: IEL– U N I C A M P.
+EDELWEISS, Frederico G. (1947). Tupis e Guaranís – Estudos e Etnonímia e Lingüística. Salvador: Publicações do Museu da Bahia.
+_____.(1958). O Caráter da Segunda Conjugação Tupi e o Desenvolvimento Histórico do Predicado Nominal nos Dialetos Tupi-Guaranis. Salvador: Universidade da Bahia.
+_____.(1969). Estudos Tupis e Tupi-Guaranis. RJ: Livraria Brasiliana Editora.
+GREGORES, E. & J. SUÁREZ. (1967). A description of colloquial Guaraní. The Hague: Mouton.
+GUASCH, P. Antonio, S.I. (1981). Diccionario Castellano-Guaraní y Guaraní-Castellano. 5ª edição. Assunción: Loyola.
+KIPARSKY, P. (1985). Some consequences of Lexical Phonology. Phonology Yearbook 2: 85-138.
+LONG PENG (2000). Nasal harmony in three south American languages. IJAL 66 (1):76-97.
+MELIÀ, Bartomeu. (1992). La Lengua Guarani del Paraguay. Historia, Sociedad y Literatura. Madrid: Editorial Mapfre.
+MONTOYA, Antonio Ruiz de. (1993). Arte de la Lengua Guarani (1640) [fac-similar]. Introdução e notas: Bartomeu Melià. Transcrição atualizada: Antonio Caballos. Asunción: CEPAG.
+NIMUENDAJU, Curt. (1987). As lendas de criação e destruição do mundo como fundamentos da religião dos Apapocúva-Guarani. Trad. Charlotte Emmerich & Eduardo B. Viveiros de Castro. Editora Hucitec/USP: São Paulo.
+PIGGOTT, G.L. (1992). Variability in feature dependency: the case of nasality. Natural Language and Linguistic Theory, 10:33-77.
+_____.(1996). Implications of consonant nasalization for a Theory of Harmony. Canadian Journal of Linguistics 2: 141-74.
+
+COSTA: FONOLOGIA DO NHANDEWA-GUARANI PAULISTA-PARANAENSE
+
+95
+
+RODRIGUES, Aryon Dall’igna. (1945). Fonética Histórica Tupi-Guarani: Diferenças fonéticas entre o Tupi e o Guarani. Arquivos do Museu Paranaense IV. Curitiba.
+_____.(1986). Línguas brasileiras. Para o conhecimento das línguas indígenas. São Paulo: Loyola.
+
+RODRIGUES, Daniele M. Grannier. (1990). Fonologia do Guarani Antigo. Campinas: Editora da UNICAMP.
+
+TRUBETZKOY, N.S. (1969 ) [1939]. Principles of Phonology. Translated by M. Baltaxe. Berkeley: University of California Press. Capítulos traduzidos por Wilmar da Rocha D’Angelis. Campinas: IEL – UNICAMP, 1996.
+_____.(1981). [1933]. A Fonologia Atual. In: M. Dascal (org.) Fundamentos Metodológicos da Lingüística. Vol. 2: 15-35. Campinas: Edição do autor.
+
+Recebido: 01/09/2003 Aceito: 17/12/2003
+
+

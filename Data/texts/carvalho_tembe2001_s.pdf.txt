@@ -1,0 +1,4956 @@
+1
+MÁRCIA GORETTI PEREIRA DE CARVALHO
+SINAIS DE MORTE OU DE VITALIDADE? MUDANÇAS ESTRUTURAIS NA LÍNGUA TEMBÉ
+Contribuição ao estudo dos efeitos de contato lingüístico na Amazônia Oriental
+Dissertação submetida ao Curso de Mestrado em Letras, do Centro de Letras e Artes da Universidade Federal do Pará, como parte dos requisitos para a obtenção do Grau de Mestre em Letras – Lingüística.
+Professora Dra. Ana Suelly Arruda Câmara Cabral (Orientadora)
+
+2
+UNIVERSIDADE FEDERAL DO PARÁ Belém — 2001
+AGRADECIMENTOS
+A Deus, criador e mantenedor de toda vida. A meus pais e a meu irmão, pelo amor, carinho, incentivo e paciência inestimáveis e acolhedores. Aos Tembé que contribuíram com esta dissertação, em especial, Elias e Porútu pela paciência durante as horas de gravação e ao ensinar-me a sua língua e sobre o seu povo. A minha professora-orientadora Dra. Ana Suelly Arruda Câmara Cabral, pelo saber compartilhado, pela paciência na elaboração desta dissertação e pelo carinho de mãe na dedicação a ensinar-me, e à sua família que ao longo desses anos passei a amar como minha família. Ao professor Dr. Aryon Dall’Igna Rodrigues pelas inestimáveis observações e ensinamentos sobre os fenômenos encontrados nas línguas Tupí-Guaraní e nas línguas indígenas brasileiras em geral, e por viver em plenitude o significado de ‘ser mestre’. Ao professor Dr. Eric Hamp, pelas importantes e inesquecíveis aulas que dele recebi sobre línguas obsolescentes, quando esteve em Belém para o I Encontro Internacional do GTLI, organizado por minha orientadora, Ana Suelly Arruda Câmara Cabral, em colaboração com o Prof. Aryon D. Rodrigues. Às professoras Dras. Sarah Grey Thomason e Jane Hill, que tão prontamente forneceram-me alguns de seus trabalhos de fundamental importância para esta dissertação e pela atenção dispensada nas correspondências por e-mail. Agradeço especialmente a Dra. Sarah Grey Thomason pelo acesso ao seu livro recém publicado, de onde extraímos valiosos ensinamentos para esta dissertação. Aos meus colegas, que ao longo do curso se transformaram em amigos, em especial, Cristina Caldas, Gene Carreira, Jessiléia Eiró, Lucivaldo Costa e Tabita Silva, assim como a Fábio Bonfim Duarte.
+
+3
+À Hilma Celeste Alves Melo, responsável pela Biblioteca do Curso de Mestrado em Letras da UFPA e a sua equipe pela ajuda referente a normas técnicas.
+À FUNAI, na pessoa de Francisco Potiguar, pelo apoio dado no contato com os índios.
+
+SUMÁRIO
+
+RESUMO ............................................................................................................ 5
+
+ABSTRACT ........................................................................................................ 6
+
+ABREVIATURAS .............................................................................................. 7
+
+1. INTRODUÇÃO .............................................................................................. 8
+
+2. ALGUMAS CONSIDERAÇÕES SOBRE O POVO E A LÍNGUA ......... 11
+
+2.1 A língua Tembé e os seus falantes ............................................................. 11
+
+2.2 Breves notícias sobre a localização geográfica e sobre a realidade
+
+12
+
+sociolingüística dos Tembé ........................................................................
+
+3. LÍNGUAS EM CONTATO, INTERFERÊNCIA LINGÜÍSTICA E
+
+16
+
+OBSOLESCÊNCIA DE LÍNGUAS ..............................................................
+
+3.1 Considerações gerais ................................................................................. 16
+
+3.2 Sobre falantes terminais ............................................................................. 16
+
+3.3 Motivações para mudanças em línguas obsolescentes ............................... 19
+
+3.4 Hipóteses sobre o desenvolvimento estrutural de línguas em estado 20
+
+terminal ......................................................................................................
+
+3.5 Mecanismos de mudanças induzidas por contato e resultados de atrito .... 22
+
+3.6 Aculturação como sinal de longevidade .................................................... 25
+
+3.7 Um modelo teórico de morte de línguas ................................................... 26
+
+3.8 Conclusão ................................................................................................... 27
+
+4. MUDANÇAS ESTRUTURAIS OCORRIDAS E EM PROCESSO NA 29
+
+LÍNGUA TEMBÉ ........................................................................................
+
+4.1 Introdução .................................................................................................. 29
+
+4.2 Comparação gramatical de dados de falantes de quatro grupos distintos, 30
+
+segundo o grau de proficiência na língua nativa ........................................
+
+4.2.1 Flexão relacional ............................................................................. 30
+
+4
+4.2.2 Flexão nominal ................................................................................ 32 4.2.2.1 Flexão relacional dos nomes plenos ............................... 32 4.2.2.2 Flexão casual .................................................................. 38 4.2.2.2.1 O caso locativo ................................................ 38 4.2.2.2.2 O caso argumentativo ...................................... 40 4.2.2.2.3 O caso translativo ........................................... 46 4.2.2.3 Os pronomes ................................................................... 49 4.2.2.4 Os demonstrativos .......................................................... 51
+4.2.3 Descritivos ...................................................................................... 54 4.2.3.1 O caso translativo nos descritivos .................................. 56
+4.2.4 Verbos transitivos e intransitivos não descritivos ........................... 57 4.2.4.1 Verbos transitivos e intransitivos no modo imperativo .. 62 4.2.4.2 Verbos posicionais .......................................................... 62
+4.2.5 Observações adicionais sobre pronomes da série I e II .................. 65 4.2.6 Indicativo II ..................................................................................... 66 4.3 Conclusão ................................................................................................... 70 5. INTERFERÊNCIA DO PORTUGUÊS NO TEMBÉ ................................. 72 5.1 Introdução .................................................................................................. 72 5.2 Análise de dois textos Tembé ................................................................... 72 5.2.1 Texto I ............................................................................................ 72
+5.2.1.1 Interferência do Português na fala de um índio Tembé 82 do grupo 2.........................................................................
+5.2.2 Texto II ........................................................................................... 89 5.2.2.1 Interferência do Português na fala de um índio Tembé 106 do grupo 1.........................................................................
+5.3 Conclusão .................................................................................................. 108 6. CONCLUSÃO ................................................................................................ 110 REFERÊNCIAS BIBLIOGRÁFICAS ............................................................. 114 ANEXO ............................................................................................................... 119
+
+5
+RESUMO
+Esta dissertação tem como principal objetivo apresentar uma análise de dados da língua Tembé (família Tupí-Guaraní) para fundamentar uma discussão preliminar sobre o estado atual da vitalidade dessa língua. A análise se apóia em orientações teóricas e metodológicas construídas a partir de estudos realizados sobre línguas obsolescentes por DORIAN (1973, 1977, 1980) e CAMPBELL & MUNTZEL (1989), no modelo teórico proposto por SASSE (1992) sobre morte de línguas, assim como nos princípios mais gerais da teoria das línguas em contato e nas abordagens teórico-metodológicas de questões mais estritamente relacionadas com as mudanças lingüísticas em línguas ameaçadas de extinção, propostos por THOMASON (2001). Os resultados obtidos com a presente dissertação mostram, entre outras coisas, que, apesar das várias mudanças já ocorridas e em processo na língua Tembé, as quais a têm transformado em uma língua mais analítica e com padrões sintáticos mais simples do que as línguas mais conservadoras da família Tupí-Guaraní, o Tembé continua a mostrar sinais de muita vitalidade, estando a sua continuidade dependente sobretudo de uma política que estimule o uso da língua nativa.
+
+6
+ABSTRACT
+This dissertation seeks to present an analysis of linguistic data from the Tembé language (Tupí-Guaraní family), in order to establish a preliminary discussion of the present state of the language’s vitality. The analysis takes, as its base, theoretical and methodological orientations from studies on obsolescent languages by DORIAN (1973, 1977, 1980) and CAMPBELL & MUNTZEL (1989), the theoretical model of language death proposed by SASSE (1992), and also more general principles of language contact theory and theoretical and methodological approaches proposed by THOMASON (2001) (for issues more closely related to linguistic changes in endangered languages). The results of the study, at hand, reveal that the various changes which have already taken place in Tembé, and those which are currently in progress, have transformed it into a more analytical language with simpler syntactic patterns than the most conservative languages in the Tupí-Guaraní family. However, this study also clearly shows that, despite these changes, Tembé continues to display signs of great vitality, and now depends on adequate policies stimulating native language use.
+
+7
+
+ABREVIATURAS
+
+Agent Arg Aten Atest.rem
+Caus CCom CPrepos Dat
+
+agentivo argumentativo atenuativo atestado pelo locutor e passado remoto causativo causativo comitativo causativo prepositivo dativo
+
+Dub
+
+dubitativo
+
+estar.em.mov estar.em.movimento
+
+Erg
+
+ergativo
+
+Enf Gen Ger Ind.II
+
+enfático genuíno gerúndio indicativo II
+
+Infer
+
+inferência
+
+Int Intens
+
+intencional intensivo
+
+Imin
+
+iminente
+
+Loc manut.
+
+locativo manutenção
+
+Neg
+
+negação
+
+Nom
+
+nominalizador
+
+Perf
+
+perfectivo
+
+Pl
+
+plural
+
+Prosp próx. Ref Rel
+Rep Trans Retr R1
+R2
+R3 R4
+1 2 3 12
+13
+23 1corr
+2corr
+3corr 12corr
+13corr
+23corr
+: =
+
+prospectivo próximo reflexivo relativizador
+repetição translativo retrospectivo prefixo relacional de contigüidade prefixo relacional de nãocontigüidade prefixo relacional correferencial prefixo relacional genérico e humano primeira pessoa do singular segunda pessoa do singular terceira pessoa primeira pessoa do plural inclusiva primeira pessoa do plural exclusiva segunda pessoa do plural primeira pessoa do singular correferencial segunda pessoa do singular correferencial terceira pessoa correferencial primeira pessoa plural inclusiva correferencial primeira pessoa do plural exclusiva correferencial segunda pessoa do plural correferencial duplicação composição
+
+8
+1. INTRODUÇÃO
+“Language death is as melancholy as its label, a culturally devastating loss to every speech community whose language dies and a loss to the scholarly community too. Every loss of a language deprives us of a window into the human mind and the human spirit; every language that dies deprives us of a unique repository of human experience and thought.”1
+Sarah Grey Thomason (2001, p. 223)
+1 “Morte de língua é tão melancólico quanto seu nome, uma perda culturalmente
+devastadora para cada comunidade da língua cuja língua morre e uma perda para a comunidade científica também. Cada perda de uma língua nos priva de uma janela na mente humana e no espírito humano; cada língua que morre nos priva de um repositório único da experiência e pensamento humanos”
+
+9
+Esta dissertação tem como principal objetivo apresentar uma análise de dados da língua Tembé para fundamentar uma discussão preliminar sobre o estado atual da vitalidade dessa língua. O Tembé tem sido ameaçado de forma mais aguda desde o início do século passado, com a intensificação do contato de seus falantes com os moradores das cidades vizinhas, que tem levado muitos índios Tembé a deixar de lado a língua nativa para adotar o Português como língua única ou principal.
+O presente estudo foi beneficiado por orientações teóricas e metodológicas encontradas nos trabalhos de DORIAN (1973, 1977, 1980) e CAMPBELL & MUNTZEL (1989) sobre línguas ameaçadas de extinção e no modelo teórico proposto por SASSE (1992) sobre morte de línguas, assim como nos princípios mais gerais da teoria das línguas em contato e nas abordagens teórico-metodológicas de questões mai estritamente relacionadas com as mudanças lingüísticas em línguas ameaçadas de extinção, propostos por THOMASON (2001).
+O capítulo 2 da dissertação contém considerações sobre o povo Tembé e sua língua. O capítulo 3 contém uma apreciação resumida dos trabalhos dos quais lançamos mão para referência tanto metodológica quanto teórica. O Capítulo 4 traz uma comparação de dados lingüísticos de seis falantes do Tembé de idades distintas e com graus diferenciados de proficiência lingüística. Essa comparação visa a mostrar, através da fala de três gerações distintas, as mudanças estruturais já ocorridas no Tembé, assim como as mudanças em processo, tendo como referência para essa comparação línguas mais conservadoras da família Tupí-Guaraní, como o Tupinambá (ANCHIETA, 1990 [1595]; FIGUEIRA, 1687 [1621, 1678]; RODRIGUES, 1953, 1981, 1996, 2000a, 2000b, 2001) e o Asuriní do Tocantins (VIEIRA, 1993, 1994; CABRAL, 1997, 1998, 2000a, 2000b, 2001b). O capítulo 5 analisa dois textos em Tembé, um dos quais consiste em uma conversa telefônica estabelecida entre falantes da segunda variedade mais conservadora do Tembé. O outro texto é um relato feito por um falante da variedade mais conservadora, narrando a história de sua vida. Os resultados da análise ilustram a natureza e o grau da interferência do Português no Tembé, assim como fornecem indicações dos tipos de mecanismos atuantes nessa interferência. Com base nos resultados das análises desenvolvidas sobre os dados empíricos nos capítulos 4 e 5, formulam-se, no capítulo 6, as primeiras considerações sobre o estado atual da vitalidade da língua Tembé. Os resultados mostram, entre outras coisas, que, apesar das
+
+10
+várias mudanças já ocorridas e em processo, as quais a têm transformado em uma língua mais analítica e com padrões sintáticos mais simples do que as línguas mais conservadoras da família Tupí-Guaraní, o Tembé continua a mostrar sinais de muita vitalidade, estando a sua continuidade dependente sobretudo de uma política que estimule o uso da língua nativa.
+Os dados que fundamentaram este estudo foram coletados junto a falantes nativos do Tembé, em Belém, Estado do Pará, em diversas visitas deles a esta cidade de 1999 a 2001. O material coletado compreende 26 horas de gravação, em fita cassete, de palavras isoladas, frases, conversas, inclusive conversas telefônicas2 e narrativas.3 Colaboraram com este estudo vários índios Tembé, tanto homens quanto mulheres, de diferentes faixas etárias. Contudo, contribuíram de forma mais sistemática os amigos Porútu Tembé, Tina’í Tembé, Mi’í Tembé, Elias Tembé, Emídio Tembé e Elaine Tembé.
+2 Todas as conversas telefônicas foram gravadas com autorização prévia dos falantes.
+
+11
+2. ALGUMAS CONSIDERAÇÕES SOBRE O POVO E A LÍNGUA 2. 1 A língua Tembé e os seus falantes
+Como é bastante conhecido na literatura lingüística, o Tembé é uma língua da família Tupí-Guaraní e, desde o trabalho de RODRIGUES (1985), é referida como um dos membros do subconjunto IV dessa família lingüística4. A língua Tembé é também identificada na literatura lingüística e antropológica como uma das duas variedades do Tenetehára, e as diferenças lingüísticas observáveis entre dados do Tembé e dados da outra variedade, o Guajajára, indicam que elas são variedades muito próximas. Entretanto, algumas variedades do Tembé aparentam ser mais conservadoras5, em alguns aspectos, do que o Guajajára (manutenção do caso argumentativo, uso da segunda pessoa plural objeto), mas em outros aspectos o Guajajára parece ser mais conservador (uso da marca ergativa, uso do indicativo II). sutherland
+3 Os dados encontram-se no banco de dados dos projetos Pesquisa e descrição da Língua Jo’é, coordenado por Ana Suelly Arruda Câmara Cabral (UFPA) e Línguas Tupí-Guaraní da Amazônia Oriental, coordenado por Aryon D. Rodrigues (LALI-UnB). 4As outras línguas incluídas por RODRIGUES (1985) nesse subconjunto são o Tapirapé, o Avá-Canoeiro, o Asuriní do Tocantins, o Parakanã, o Suruí e o Guajajára. 5 Ver CABRAL (2000a).
+
+12
+A documentação publicada sobre a língua Tembé consiste em vocabulários coletados por NIMUENDAJÚ (1914), HURLEY (1931) e RICE (1934). Outro vocabulário, acompanhado da primeira coletânea de textos em Tembé, foi escrito no início do século passado pelo índio Tembé Cyriaco Baptista e publicada em 1932 por Emil Snethlage. BOUDIN contribuiu com o seu fundamental dicionário em dois volumes, um Tembé-Português (1966), e o outro Português-Tembé (1978). O primeiro trabalho descritivo que traz informações mais detalhadas especificamente sobre aspectos da gramática Tembé é a dissertação de mestrado “Análise gramatical das orações da língua Tembé”, de DUARTE (UnB, 1997). Nesse trabalho, Duarte descreve aspectos das orações independentes, das orações no modo gerúndio e das orações temporais, assim como discute alguns aspectos da fonologia do Tembé e das principais diferenças entre o sistema fonológico que pode ser depreendido dos dados atuais dessa língua e o sistema fonêmico depreensível dos dados registrados por Boudin. A dissertação de EIRÓ (UFPA, 2001) apresenta uma análise segmental do Tembé e mostra diferenças fonéticas e fonológicas que podem ser observadas entre falantes de diferentes gerações na atualidade. Há ainda três artigos sobre aspectos gramaticais da língua Tembé, dentre os quais dois são de autoria de DUARTE, “Ordem dos constituintes na língua Tembé” (2000) e “Negação frásica na língua Tembé” (2001) , e um de autoria de CARVALHO, “Mudanças estruturais em processo em Tembé” (2001).
+2.2 Breves notícias sobre a localização geográfica e sobre a realidade sociolingüística dos Tembé
+Os Tenetehára6 foram primeiramente localizados no Maranhão, no início da colonização da região do Alto Pindaré7 (WAGLEY & GALVÃO, 1955; CEDI, 1985).
+6BOUDIN (1966, p. 258) diz que a designação Tenetehára significa “a gente, os índios em geral e mais especialmente os índios Tembé e Guajajára”. 7BETTENDORFF (1990 [1910]) menciona a respeito dos Guajajáras:
+Tem estes Guajajaras de bem serem muito preguiçosos e pouco valentes, serem mui inconstantes e grandes fujões, porque a cada passo tornam a fugir para os seus mattos...não há dúvidas que um dos meios para entrete-los e affeiçoa-los a ficar e estar com os Padres, é ensina-los a tocar algum instrumento para suas folias em dias de suas festas em que fazem suas procissões e dansas, levando deante de si a imagem da Virgem
+
+13
+Essa denominação é referente, na realidade, a dois grupos indígenas, os Tembé e os Guajajára, cuja separação definitiva pode ter-se dado há aproximadamente 150 anos. Segundo informações contidas em NIMUENDAJÚ (1914), HURLEY (1928) e WAGLEY & GALVÃO (1955), os Tembé teriam saído da região do Pindaré rumo aos rios Alto Gurupí, Capim e Guamá por volta do ano de 1850. O nome Tembé, cuja forma fonética corresponde à palavra para ‘lábio de gente’ em Tupinambá e na Língua Geral Amazônica, é muito provavelmente um nome dado aos índios pelos brasileiros da região que com eles comercializavam, como sugerem DODT (1981 [1873]), NIMUENDAJÚ (1914) e HURLEY (1928), entre outros.
+Os Tembé se dividem atualmente em dois grupos: aqueles que habitam o alto rio Guamá8, a sudeste do Pará e os que habitam as margens do rio Gurupí9, na divisa dos estados do Pará e do Maranhão10. Somente parte desses últimos, cerca de 80 indivíduos, ainda falam a língua nativa, embora o grau de proficiência não seja uniforme entre eles. Das seis aldeias atuais, somente em uma delas, a aldeia Tekoháw, utiliza-se o Tembé na comunicação do dia-a-dia.
+Vários Tembé têm consciência da situação atual de sua língua nativa e a vêem criticamente, como mostra o depoimento de Porútu:
+‘Se eu tivesse um negócio desse aqui [gravador] pra falá com as crianças, pra gravá botar, eu ia gravá.
+Tem uma índia lá, não sei o nome, que diz: -- Pra que que tu fala kurý, pra que?
+Senhora Nossa, cantando alternativamente: Tupá cý angaturama, Santa Maria Christo Yára.(BETTENDORFF [1910] 1990, p. 272, apud CABRAL 2000b, p. 126-127) 8 Os Tembé do rio Guamá, segundo dados da FUNAI relativos à estrutura de atendimento na área da saúde, estão distribuídos nas seguintes aldeias: na Sede, onde vivem 97 indivíduos, em Itúaçu onde vivem 40 indivíduos, em Pirá com 20 Tembé, em Frasqueira com 18, em São Pedro com 131, em Tawarí com 16, em Itaputyré com 10 e em Jacaré com 40, totalizando 357 habitantes. 9 Os Tembé do Gurupí estão distribuídos nas seguintes aldeias: Sede ou P. I. Canindé com 100 habitantes, Pedra de Amolar com 58, Rabo de Mucura com 38, Cajueiro com 45, Tekoháw ou Aldeia Nova com 188 e Sapucaia com 4, totalizando cerca de 400 índios. A Aldeia Nova (Tekoháw) é a que mais cresce, atraindo índios de outras aldeias. 10 Embora os dois blocos tenham pouco contato entre si, as reservas são contíguas e têm como limite comum o rio Gurupí.
+
+14
+Eu digo: -- Tu acha ruim? Se tu vai achá ruim, tu é que sabe. Deixa que eu me viro com minha família, depois tu vai achá ruim se te chamare. Tu é índio ou não? Aí tu vai te achá ruim se chega um branco e diz: -- Tu é um índio? E tu responde: -- Sou. Aí o branco diz: -- Como é que se chama isso? E tu não vai sabê. É o que falo pra eles, tem muito índio metido com branco aqui mesmo em Belém. Aqui mesmo em Belém, se eu visto uma roupa boa assim, parece que eu não sou índio, mas se topá com um parente que eu sei, aí ele diz ‘Rapaz, tu é índio’. Respondo: -- Eu sou. Aí ele diz ‘Num parece!’. Aí falá, eu sei bem a língua. Mas, quando chega um turista, um branco lá, e diz: -- Queria falá com um índio Tembé. [Responde um índio:] Ah!, tô aqui. [O branco diz:] --Rapaz, eu vim pegá uns dados de cultura, de língua. Essas coisas aí [diz Porútu]. Aí o índio diz: -- Me desculpe, eu não sei. Aí o branco pergunta: -Não tem nenhum Tembé que sabe falá sobre a cultura? Pintura, essas coisas [diz Porútu]. --Tem [responde o outro Tembé]. Aí me chamam: --Porútu, vem aqui! Tem um pessoal que qué falá contigo. Aí digo: --Mas não foi pra falá comigo, pra falá com Tembé. Os Tembé saíram, me deixaram sozinho, que eu conversava a língua, depois o microfone podia ir para o outro que não entende, por isso saíram e me deixaram só. Aí eu disse sobre a cultura e sobre a dança. Falava em Português e dizia na língua. Tudo isso eu falei. É isso que eu fico com vergonha, se meu próprio parente, assim de sangue mesmo, falo pra eles: --Rapaz, tu pensa que tu é branco, tu não é nem branco nem
+
+15
+índio, tu nem entende o que o branco tá falando, e tu nem entende o que o índio fala, o que tu é? Tu é gente, mas tu num sabe se tu é branco ou índio. Tu dizê qui tu é branco, quando fô pra falá branco tu num sabe. Tu dizê qui é índio, quando fô pra falá tua cultura tu num sabe. O que é que tu é? Aí fica como Teneteharán´ [‘falso Tenetehára’].
+Nas demais aldeias, faz-se mais uso do Português, especialmente as gerações das faixas etárias abaixo de quarenta anos. Entre os Tembé do Gurupí há também muitos que, além da língua nativa e do Português, falam ou entendem a língua dos Ka’apór, seus vizinhos, e/ou a língua dos Guajajára. Há vários casamentos entre índios Tembé e índios Ka’apór e alguns entre índios Tembé e Guajajára.
+Quanto ao grau de proficiência na língua nativa, segundo o cruzamento de informações fornecidas por várias lideranças Tembé com os resultados da comparação por nós realizada dos dados de diferentes informantes, podem ser identificados, pelo menos, seis grupos distintos, de acordo com o grau de proficiência de seus falantes, na aldeia Tekoháw.
+O primeiro grupo (grupo 1) é o que possui um conhecimento mais conservador do Tembé e é também o que usa a língua nativa em situações mais diversas, sendo constituído de adultos acima de 50 anos. O segundo grupo (grupo 2) é também constituído de adultos com alto grau de proficiência na língua nativa, embora não dominem, como os indivíduos do grupo 1, parte do léxico original referente a determinados domínios (sistema de parentesco, partes do corpo humano, nomes de plantas e animais e objetos culturais tradicionais). Os indivíduos desse grupo têm idade entre 30 e 49 anos e fazem uso mais intenso de empréstimos do Português. O terceiro grupo (grupo 3) é constituído de indivíduos de diferentes faixas etárias, mas não acima de 35 anos, que falam uma versão menos conservadora do Tembé e fazem mais uso do Português do que da língua nativa. O quarto grupo (grupo 4) é constituído de indivíduos de diferentes faixas etárias que aprenderam o Tembé como segunda língua, ou que não tiveram a oportunidade de aprendê-lo perfeitamente. Vários dos Tembé desse grupo aprenderam o Tembé já no final da adolescência. O quinto grupo (grupo 5) é constituído
+
+16
+de indivíduos que entendem o Tembé, mas não o falam, apenas produzem frases e conhecem material lexical. Finalmente, o sexto grupo (grupo 6) é constituído de indivíduos que conhecem apenas palavras do Tembé. Os grupos 4, 5 e 6 são constituídos de indivíduos de diferentes faixas etárias.
+Essa primeira divisão feita em função do grau de proficiência da língua Tembé será aperfeiçoada no futuro, quando tivermos a oportunidade de realizar uma pesquisa de campo que permita a obtenção de mais dados da realidade sociolingüística dos habitantes do Tekoháw e de outras aldeias em que o Tembé ainda é falado.
+A grande maioria dos adultos Tembé não é alfabetizada nem em Português, nem na língua nativa. Embora a língua Tembé seja ensinada em algumas escolas, esse ensino não parece estar contribuindo de forma efetiva para o fortalecimento do uso da língua nativa. O Tembé já deixou de ser falado na reserva do Guamá e em algumas aldeias do Gurupí, acentuando-se cada vez mais as probabilidades de redução do seu uso.
+3. LÍNGUAS EM CONTATO, INTERFERÊNCIA LINGÜÍSTICA E OBSOLESCÊNCIA DE LÍNGUAS
+3.1 Considerações gerais O crescente número de línguas ameaçadas de extinção em várias partes do
+mundo11 tem aumentado a preocupação de vários estudiosos, lingüistas, sociolingüistas e antropólogos em encontrar soluções que possam bloquear processos de morte de línguas. Entre os lingüistas, aumenta também a preocupação com o diagnóstico do grau de vitalidade de línguas ameaçadas, bem como a preocupação com os efeitos da interferência lingüística, com a natureza das mudanças e com os mecanismos envolvidos nessas mudanças.
+11 No Brasil, onde os casos de línguas extintas durante os últimos séculos foram alarmantes (RODRIGUES, 1993a, 1993b), verifica-se no momento uma grande preocupação em encontrar soluções que possam controlar a situação de forte ameaça que afeta a vitalidade da maioria das 180 línguas existentes, e que são faladas por pequenos grupos, em situações de contato nas quais o Português encontra-se em processo já avançado de predomínio sobre a língua indígena.
+
+17
+De particular interesse para o conhecimento científico sobre interferência lingüística, sobre os mecanismos envolvidos nesse tipo de interferência e sobre as implicações dessas mudanças no processo de obsolescência de línguas são os trabalhos de HAAS (1968), DORIAN (1973, 1977, 1980, 1981), HILL (1973, 1978, 1980, 1983, 1989), GAL (1979), CAMPBELL (1976, 1985), THOMASON & KAUFMAN (1988), MITHUN (1989), CAMPBELL & MUNTZEL (1989), HAMP (1989), SASSE (1992) e THOMASON (2001). Alguns desses trabalhos foram de fundamental importância para a presente dissertação, e sobre eles teceremos algumas considerações a seguir.
+3.2 Sobre falantes terminais DORIAN (1973, 1977, 1980, 1981) tem mostrado através de sua pesquisa junto
+a falantes do Gaélico escocês do leste de Sutherland, entre outras coisas, a existência de um contínuo de proficiência em comunidades terminais, a importância do julgamento de falantes nativos sobre o grau de conhecimento de outros falantes, assim como fenômenos lingüísticos característicos das línguas em declínio. Em seu trabalho de campo com falantes do Gaélico em fase terminal (1973), por exemplo, Dorian descobriu diferenças marcantes entre o Gaélico dos falantes fluentes mais velhos e o dos mais jovens, observando entre esses últimos reduções e perdas em certas áreas da gramática. Em seu trabalho de 1977, chama a atenção para os problemas que podem ser encontrados pelo pesquisador em uma comunidade de língua terminal. Nesse último trabalho, DORIAN (1977, p. 23) levanta a seguinte questão: “Como o pesquisador pode julgar a intacticidade e a completude da versão da língua que ele obtém dos seus informantes?”. Para essa autora, se há mais de um falante, o investigador pode ser capaz de comparar uma versão com a outra, mas isso nem sempre é possível, e o caso mais problemático é aquele em que há um único último falante, caso em que nenhuma comparação é possível. DORIAN (1977) chama a atenção para a observação feita por Haas de que a língua, tal qual representada pelo último falante isolado, é “um mero remanescente do que a língua deve ter sido quando muitos falantes usaram-na enquanto seu único meio de comunicação” (HAAS, 1968, apud DORIAN, 1977, p. 23-24). Essa suposição de Haas equivale à idéia de que qualquer língua que continua a ser falada por
+
+18
+apenas poucas pessoas exibirá uma forma muito reduzida quando comparada com a mesma língua em uma comunidade lingüística rica. Dorian observa, contudo, que exceções ocorrem quando uma língua morre tendo seus últimos falantes sido monolingües durante toda sua vida, como ocorreu com o Tasmânio e com a língua Yahi na Califórnia.
+No seu estudo do Gaélico, desenvolvido durante 11 anos, Dorian testou a hipótese de Haas em uma comunidade de língua terminal, em que existia um contínuo de proficiência que ia da fluência total até às mais escassas habilidades necessárias para a comunicação em uma língua em processo de extinção, e detectou três tipos de falantes: a) os que eram mais fluentes em Gaélico do que em Inglês; b) os que eram fluentes em ambas, bilíngües habilidosos; c) os que se fazem entender em um Gaélico imperfeito, embora sintam-se mais à vontade em Inglês.
+Dorian observou ainda que esses últimos, ‘os semi-falantes’, são os que constituem o maior problema para o trabalho de campo, quando se trata de língua em extinção, uma vez que o pesquisador precisa saber quão representativos e confiáveis são os seus dados, já que esses dados precisam ser manejados com cuidado na escrita da gramática e na reconstrução da história lingüística, tendo em conta que se distanciam das versões mais conservadoras da língua. Preocupada com a validade do julgamento de proficiência da própria comunidade e com a importância desse julgamento para o lingüista, Dorian desenvolveu um trabalho junto a falantes do Gaélico escócês do leste de Sutherland em uma comunidade no leste da e observou em uma certa família a existência de níveis diferenciados de proficiência: B.R., uma septuagenária fluente na língua; A.R., o filho mais velho de B.R., considerado fluente na língua pela sua lealdade, uma vez que quando as circunstâncias permitem, ele fala Gaélico; e a sua irmã J.R., apenas um ano mais nova, que prefere falar Inglês. Dorian observou que seria mais provável que a comunidade estivesse respondendo mais à maior lealdade à língua de A.R. do que à sua maior proficiência, quando o julgavam fluente em comparação a sua irmã. Dorian testou então a habilidade dos falantes de idades variadas, apresentandolhes 115 frases em Inglês para tradução em Gaélico. Os resultados da pesquisa mostraram que, em alguns aspectos significantes, A.R. tem uma performance mais
+
+19
+parecida com a da mãe do que com a da irmã. Porém, em outros aspectos, Dorian ressalta que a habilidade de A.R. ao falar Gaélico não é a mesma habilidade de sua mãe. Nenhum dos filhos sabia a flexão de plural vocativo e enquanto a mãe apresentou 100% de mudanças morfofonêmicas obrigatórias no vocativo, A.R. mostrou apenas 17% e J.R., 57%. Contudo, segundo DORIAN (1977, p. 26), os resultados gerais indicam uma diferença pronunciada entre o Gaélico de A.R. e aquele de sua irmã J.R.12, estando a maior diferença na realização do plural. Dos dezessete plurais irregulares de substantivos testados, B.R. tinha na memória todos eles, A.R., 15 e J.R., apenas 9. Das 16 raízes de verbos irregulares, B.R. e A. R. lembravam-se de todas e J.R., de 13. A flexão condicional de primeira pessoa singular altamente irregular falta no discurso de J.R., que a substitui por uma construção analítica, mas isso aparece sem falha no discurso de B.R. e A.R.. Similarmente J.R. regulariza o futuro colocando a flexão predominante na primeira pessoa do singular, e isso nem a mãe, nem seu irmão fizeram.
+Ao analisar os aspectos em que o Gaélico de J.R. difere do de seu irmão, Dorian observa o seguinte: 1) falta de uma opção estilística (imperativo negativo, passivo); 2) substituição de uma construção analítica por uma sintética (preposição conjugada, primeira pessoa condicional); 3) nivelamento analógico (plural de substantivo, raízes verbais, condicional, futuro).
+Para Dorian apenas um desses fenômenos parece ter significância para o julgamento de proficiência. Este seria o caso (3) em que B.R. e A.R. claramente têm uma performance enquanto J.R. tem outra. O uso de uma construção analítica para o condicional na primeira pessoa do singular também constitui um caso de nivelamento analógico, porque todas as outras pessoas do condicional, ambas singular e plural, são formadas analiticamente no Gaélico escocês do leste de Sutherland.13
+12 Embora nem A.R. nem J.R. tenham usado a forma mais conservadora da passiva, as passivas do primeiro eram superiores às da sua irmã, pois ele sabia e usava ambos os verbos finitos disponíveis com os quais a passiva pode ser formada e não havia elementos constituintes da passiva faltando. Por outro lado, J.R. usou apenas um dos verbos finitos e duas vezes faltou uma preposição necessária na formação da passiva. De 6 em cada 7 exemplos, a escolha de A.R. da ordem da palavra para pronomes-objetos concorda com a escolha conservadora dos falantes mais velhos como sua mãe. A.R. controlou duas conjunções menos comuns que não foram fornecidas ou foram fornecidas incorretamente pela sua irmã e usou duas das três formas disponíveis da negativa imperativa, e J.R. apenas uma.
+13Analisando a performance dos 3 falantes no que diz respeito ao nivelamento analógico, o padrão que surge é, segundo Dorian, impressionante: 1) plurais de substantivo nivelados analogicamente (oportunidades : 17)
+
+20
+3.3 Motivações para mudanças em línguas obsolescentes HILL (1980) distingue dois tipos de motivações de mudanças atestadas nas
+línguas obsolescentes, chamados por ela de ‘atos internos de criação’ e ‘atos de recepção’. Os atos de criação corresponderiam às mudanças internas na estrutura de uma língua obsolescente, as quais não estariam relacionadas com a influência da língua dominante. Por outro lado, os ‘atos de recepção’, corresponderiam às mudanças estruturais atestadas ou em processo em línguas moribundas que podem ser resultado de influências da língua dominante. HILL (1983, p. 269) contribui com a idéia de que “morte ou processo de morte de uma língua é geralmente diagnosticado não apenas pela evidência de redução na variedade paradigmática, perda de vocabulário e outras manifestações internas, mas também por reduções no alcance de contextos funcionais nos quais uma língua pode ser usada”. Nesse sentido, Hill mostra que uma língua obsolescente deixa de ser falada no contexto familiar e resiste em contextos de rituais.
+HILL (1989) traz importantes contribuições sobre as funções sociais da relativização em línguas obsolescentes e não-obsolescentes, e mostra que em línguas como o Mexicano, uma língua Uto-Azteca falada no México Central, redução de relativização é decorrente do papel da codificação de solidariedade. Se por um lado, como observa Hill, muitas estratégias são retidas em línguas em fase de extinção, por outro lado são distribuídas através de duas variedades de uma mesma língua.
+
+B.R. 1 A.R. 2 J.R. 8
+
+2) raízes de verbo niveladas analogicamente (oportunidades :16 )
+
+B.R. -
+
+A. R. -
+
+J.R. 3
+
+3)condicional da primeira singular nivelado analogicamente ( oportunidades: 5)
+
+B.R. - A .R. -
+
+J.R. 5
+
+4) primeira singular futuro nivelada analogicamente (oportunidades: 5)
+
+B.R. - A.R. -
+
+J.R. 5
+
+Mas isso não está confinado ao Gaélico escocês do leste de Sutherland representado por aqueles que a
+
+comunidade designa como falantes menos que fluentes. Isso pode ser, segundo DORIAN (1973), uma
+
+mudança em progresso em toda a comunidade de Embo. Entretanto, o ‘upsurge’ repentino do
+
+nivelamento analógico no discurso de J.R., quando comparado com aquele do seu irmão um ano mais
+
+velho, parece realmente ser uma característica definidora do seu status de semi-falante.
+
+21
+3.4 Hipóteses sobre o desenvolvimento estrutural de línguas em estado terminal CAMPBELL & MUNTZEL (1989), baseados em dados lingüísticos e histórico-
+sociais de um significante número de línguas em estado terminal, inclusive de línguas já extintas, propõem hipóteses sobre o desenvolvimento estrutural característico dessas línguas. As línguas focalizadas por esses autores diferem uma das outras no que diz respeito ao ponto da escala de obsolescência em que se encontram. Algumas dessas línguas ainda possuem falantes plenamente competentes (FPC), outras possuem apenas falantes imperfeitos (FI), há ainda outras que possuem apenas semi-falantes fracos (SFF), e, finalmente, há aquelas em que os falantes só lembram algumas palavras e frases isoladas (FL).
+Campbell e Muntzel (p. 181-186) discutem casos de línguas nas quais o conhecimento lingüístico dos falantes correspondem a um contínuo de proficiência (CP), que vai do (FPC) ao (SFF) ou ao (FL) e apontam diferentes tipos de situações de morte de língua -- morte súbita, morte radical, morte gradual e morte de baixo para cima:
+a) “Morte súbita” . Os falantes (quase todos ou todos) morrem ou são exterminados. Neste caso não há um estado de obsolescência para se investigar estruturalmente e por isso está fora da investigação dos autores. b) “Morte radical” . A perda da língua é rápida e geralmente decorrente da repressão política severa, freqüentemente acompanhada de genocídio. Na morte radical, os falantes deixam de falar a língua nativa como uma estratégia de sobrevivência. c) “Morte gradual”. De acordo com Campbell e Muntzel, muitos dos casos de línguas em extinção se associam ao tipo de morte gradual, no qual há um estágio intermediário de bilingüismo, em que a língua dominante vem a ser empregada por um número crescente de indivíduos em um número crescente de contextos, nos quais a língua nativa era anteriormente usada. Nesse tipo de morte, a situação é caracterizada por um contínuo de proficiência determinado pela idade, no qual as gerações mais novas têm uma proficiência maior na língua dominante e aprendem a língua obsolescente de forma imperfeita. 14
+14 Campbell e Muntzel citam alguns termos relativos à discussão sobre morte gradual, usados por diversos autores em abordagens distintas do processo de morte gradual de uma língua: aprendizado imperfeito,
+
+22
+d)“Morte de baixo para cima”. Neste tipo de situação de morte de uma língua, o repertório de registros estilísticos sofre um atrito de baixo para cima, chamado de padrão do tipo ‘latinate’, isto é, “a língua é perdida primeiro em contextos de intimidade familiar e mantida apenas em contextos de rituais” de alta importância (HILL,1983, p. 269).
+A partir da análise das características das diversas situações em que uma língua em processo de extinção se encontra, Campbell e Muntzel identificam tipos de mudanças na estrutura destas línguas. Para os autores, enquanto algumas manifestações de mudanças parecem naturais e aptas a serem disseminadas, outras parecem ser menos naturais.15
+Com respeito às mudanças estruturais identificáveis nas línguas em processo de extinção, Campbell e Muntzel observam que “a predição mais óbvia que se pode fazer a respeito de línguas terminais é a de que é muito provável que experimentem um certo montante de mudanças em todos os componentes de sua estrutura: fonológico, morfológico, sintático, semântico e lexical”. Mas, segundo eles, “é muito difícil predizer a natureza precisa das mudanças que podem ocorrer.” (CAMPBELL & MUNTZEL, 1989, p. 186). Esses autores também apresentam exemplos de vários tipos de mudanças, esperadas ou previsíveis, e chamam a atenção para o fato de que parece existir uma tendência de formas marcadas serem substituídas por formas menos marcadas.
+Campbell e Muntzel citam ainda casos de variabilidade e de outras irregularidades que ocorrem nas estruturas das línguas quando se encontram em processo de extinção. Segundo esses autores, casos de variabilidade podem ser encontrados quando algumas regras, que eram obrigatórias na língua nativa, podem vir a ser aplicadas opcionalmente, ser perdidas ou mostrar substituições quando a língua nativa se encontra em processo de obsolescência.
+Finalmente, os autores mostram, através de exemplos de diferentes línguas em fase de extinção, que a morte das línguas pode ser acompanhada de algum grau de redução morfológica, sintática e estilística.
+aprendizado parcial, código restrito, semi-falante, último falante, falante pré-terminal ou terminal, bilingües passivos, língua híbrida, bilingüismo intermediário, interlíngua e crioulização em reverso. 15 Os autores fazem uso de suas largas experiências com uma variedade de línguas em extinção para ilustrar algumas dessas mudanças.
+
+23
+3.5 Mecanismos de mudanças induzidas por contato e resultados de atrito THOMASON (2001) dedica um capítulo do seu livro aos resultados de atrito e
+outro aos mecanismos de mudanças induzidas por contato, os quais foram para nós altamente esclarecedores de assuntos estritamente relacionados com a presente dissertação. Nessa obra, Thomason discute sete dos mecanismos de mudança lingüística induzida por contato -- code-switching, alternância de código, familiaridade passiva, negociação, estratégias de aquisição de segunda língua, aquisição de primeira língua por bilíngües e mudança por decisão deliberada --, os quais, de acordo com essa autora, operam independentemente ou em combinação para produzir mudanças induzidas de todos os tipos. THOMASON (2001, p. 270) faz a esse respeito a importante observação de que:
+“First, it’s important to recognize that our chances of tracking the full course of any linguistic change, from the first speaker’s initial innovation to the spread of the innovation throughout a speech community, range from slim to none. In practice, even the most sophisticated sociolinguistic methods---and modern methods of studying ongoing change are very sophisticated indeed---cannot begin tracking a change until the change is already well under way.”16
+Dos sete mecanismos discutidos por Thomason, dois são de maior interesse para o presente trabalho, code-switching e alternância de código, razão pela qual nos restringiremos a resumir o que é dito sobre eles. Um importante alerta feito por Thomason é o de que não existem restrições bem estabelecidas em nenhum mecanismo
+16 “Primeiro, é importante reconhecer nossas chances de rastrear o curso completo de qualquer mudança língüística, da inovação inicial do primeiro falante para a difusão da inovação pelo discurso da comunidade, variando do slim para nenhum. Na prática, mesmo os métodos sociolingüísticos mais sofisticados -- e métodos modernos de estudar futuras mudanças são realmente muito sofisticados -- não podem começar rastreando uma mudança até que a mudança já esteja bem estabelecida.”
+
+24
+de interferência, especialmente em code-switching. Este mecanismo é por ela definido como:
+‘The use of material from two (or more) languages by a single speaker in the same conversation. By implication, ‘the same conversation’ means that all the other participants also speak, or at least understand, both (or all) the languages.” (THOMASON, 2001, p. 132)17
+Segundo THOMASON (p. 132), fortes afirmações têm sido feitas sobre a relação entre code-switching e mudanças induzidas por contato. Nesse sentido, em um extremo estariam autores que negam a conexão entre os dois, os quais dizem que elementos envolvidos em code-switching nunca se transformam em empréstimos, e, no outro extremo, estariam aqueles que acreditam que esse fenômeno é o único mecanismo, através do qual morfemas estrangeiros são incorporados em uma língua. Para Thomason (p.133), existem evidências sólidas de transição entre code-switching e interferência permanente, e como exemplo disso cita o caso do Árabe Marroquino, estudado por HEATH (1989). Como observa THOMASON (p.133), achados como nomes e marcas discursivas resultados de code-switching não são tão surpreendentes, mas esses elementos são também tipos comuns de empréstimos, o que constitui uma concordância que dificilmente pode ser explicada como coincidência. Thomason mostra-se favorável à idéia de que mesmo que code-switching não seja um fator universal em mudança induzida por contato, é, sem dúvida, um elemento importante em muitos casos de interferência lexical e estrutural.
+Thomason também discute vários dos critérios usados para distinguir empréstimo de code-switching, mas sua principal conclusão é a de que code-switching é certamente um mecanismo principal para a interferência via empréstimo, isto é, na qual a aprendizagem imperfeita não desempenha um papel significativo (p. 103).
+Um outro mecanismo de mudança induzida, largamente discutido por Thomason, é o mecanismo de alternância de código, que segundo essa autora tem em comum com o mecanismo de code-switching o fato de que ambos consistem na alternância de código de duas ou mais línguas pelo mesmo falante (p. 136). Contudo,
+17 ‘O uso de material de duas (ou mais) línguas por um simples falante na mesma conversa. Por implicação, ‘mesma conversa’ significa que todos os outros participantes também falam, ou pelo menos entendem, ambas (ou todas) as línguas.”
+
+25
+como enfatizado por THOMASON, diferentemente deste último mecanismo, alternância de código não ocorre na mesma conversação com o mesmo falante (p. 136). Thomason observa, ainda, que esse fenômeno, além de ocorrer em contextos nos quais uma língua é usada em casa e outra no trabalho, é também comum nos casos de obsolescência de uma língua, quando um dos últimos falantes fluentes dessa língua fala com os demais falantes fluentes que restaram em uma dada comunidade, mas falam a língua dominante com as demais pessoas.
+No que diz respeito ao atrito, Thomason o define como um processo gradual no qual uma língua retrocede à medida que perde falantes, domínios e por último, estrutura. Trata-se, de acordo com Thomason, da perda de material lingüístico que não é substituído por material novo, material fonológico, morfológico ou sintático, assim como material da estrutura do discurso. Thomason observa que analisar dados de uma língua moribunda apresenta dificuldades especiais, por causa das diferentes fontes de inovação, nem todas as quais têm relação com o processo de morte de língua. THOMASON (p. 228-229) cita alguns tipos típicos de atrito, como (a) redução de alternâncias governadas por regras por meio da generalização analógica de uma das variantes; (b) fusão ou eliminação de categorias morfossintáticas; (c) tendência a substituir construções morfologicamente complexas por construções analíticas; (d) perda de construções sintáticas complexas; e (e) empréstimo, tanto de estrutura quanto de léxico. Entretanto, Thomason (p. 229) observa que como outras línguas, as línguas moribundas sofrem mudanças internas independentemente de atrito. Ela observa também que muitos processos que são comuns em situações de línguas moribundas são também comuns em situações de contato, nas quais não há línguas moribundas (p. 230). Um dos exemplos dados por Thomason de mudanças comuns a várias situações é a perda lexical em certos domínios, que como enfatiza essa autora, ocorrem em todas as línguas do mundo através dos tempos, embora a perda drástica de elementos lexicais seja conhecida apenas em casos de morte de línguas. Finalmente, empréstimo, incluindo empréstimo pesado, é também comum em várias situações de contato. Mas, segundo Thomason, atrito seria o único tipo de mudança exclusiva de situações de morte de língua (p.230).
+
+26
+3.6 Aculturação como sinal de longevidade Eric Hamp, que tem estudado sinais de saúde em várias línguas na Europa
+ameaçadas de extinção, tem observado, entre muitas outras coisas, que é importante distinguir casos particulares, quando se fala em morte de uma dada língua. Ao comparar o conhecimento de diferentes informantes do Arvanìtika, HAMP (1989) observa que:
+‘It appears that the repair or disrepair of the phonology is not a sign of incipient death as such. Rather, it seems that convergence, or loss, in the phonology reflects the ongoing result of contact, the kind of phenomenon that characterizes a Sprachbund over centuries and millennia. Perhaps the result here is hastened, plausibly by virtue of decreasing numbers of speakers in a sharply curtailed network as the social conditions for language transfer and death set in’ (HAMP, 1989, p.201)18
+Por outro lado, observa que o que se vê é simplesmente mais fenômenos de contato, sob condições possivelmente não usuais, e que, paradoxalmente, isso significa que quanto mais interferência de contato nós vemos - dentro de limites - mais ajustamento, adaptação, longevidade e saúde podemos esperar. Hamp faz ainda lembrar que nunca devemos subestimar os efeitos benignos de contato ou aculturação. Para esse autor, deve mesmo ser argüido, em uma veia diferente, que a aculturação pode também representar adaptação para a sobrevivência.
+3.7 Um modelo teórico de morte de línguas SASSE (1992, apud THOMASON 2001, p. 225), propõe um modelo teórico de
+morte de línguas, com base no trabalho de Dorian sobre o Gaélico escocês do leste de Sutherland e com base no seu próprio trabalho sobre o Arvanìtika. Como observado por THOMASON (2001, p. 225), “Sasse does not claim that his model is valid for all cases
+18 ‘Parece que a restauração ou a desordem da fonologia não é um sinal de morte incipiente como tal. Ao invés disso, parece que convergência, ou perda na fonologia reflete o resultado do contato em processo, o tipo de fenomeno que caracteriza um Sprachbund por séculos e milênios. Talvez o resultado aqui seja acelerado, plausivelmente em virtude do número decrescente de falantes em uma rede muito reduzida quando as condições sociais para a transferência e morte (de línguas) se instalam’ (HAMP, 1989, p.201).
+
+27
+of language death, but rather urges that other cases be compared with these two in light of the model’s predictions”.19
+As principais predições feitas por Sasse são: (a) a má distribuição do uso das línguas em contextos multilíngues leva à pressão sobre a população minoritária, desenvolvendo-se, então, uma atitude negativa em relação ao grupo minoritário, o que culmina com a decisão de abandonar a língua; (b) os eventos históricos ditam a restrição da língua da comunidade a diferentes domínios, e a missão analítica é, então, a de saber quem fala qual língua, com quem e quando. Isso aumenta os níveis de bilingüismo entre os membros do grupo minoritário e, depois de ser estigmatizada a língua, os falantes se tornam mais proficientes na outra língua. Passam, então, a evitar a transmissão da língua para as crianças, como parte das decisões de abandonar a língua nativa, o que pode levar à ruptura definitiva da transmissão da língua nativa ou à aprendizagem incompleta dessa língua pelas gerações mais novas. Os membros da comunidade podem reter conhecimento residual da língua em poucos domínios (apud THOMASON, 2001, p.226).
+Thomason ressalta ainda as conseqüências lingüísticas do processo de morte de uma língua, propostas por Sasse, como a perda do léxico, que ocorre em primeiro lugar, e, se os domínios são novos, haverá falha em desenvolver um léxico para domínios nos quais a língua do grupo majoritário é exclusivamente usada. Segue-se então o aumento de empréstimos com o passar do tempo e, quando mais falantes tornam-se bilingües, mais fluentes passam a ser na língua majoritária (p. 226). Thomason enfatiza a idéia de Sasse de que, mesmo enquanto a língua minoritária é usada regularmente em domínios apropriados, continuará adquirindo traços da língua majoritária, sofrerá simplificação estrutural, perdendo traços que não são recuperáveis. Uma vez interrompida a transmissão da língua para as crianças, o resultado lingüístico previsível é uma redução patológica na fala dos semi-falantes. No estágio final, se a língua minoritária continuar a exercer funções sociais ou religiosas, o conhecimento dela será provavelmente restrito a palavras e a frases não analisáveis (p. 226).
+19 “Sasse não afirma que este modelo é válido para todos os casos de morte de língua, mas por outro lado acentua que outros casos sejam comparados com estes dois à luz das predições do modelo”.
+
+28
+3.8 Conclusão Com esta dissertação pretendemos contribuir com novos dados para a discussão
+sobre as mudanças lingüísticas em línguas indígenas brasileiras que sofrem ameaça de extinção. Os trabalhos publicados no Brasil nessa área tiveram provavelmente como precursor SWADESH (1948), mas poucos foram os trabalhos publicados e estudos desenvolvidos nessa área desde então. Um desses trabalhos é a tese de doutorado de CAVALCANTE (UNICAMP, 1987), na qual a autora mostra que, no Kaingáng do Paraná, se manifesta
+“um bom (provavelmente normal) monitoramento da realização fonética, ao passo que o Kaingáng de São Paulo apresenta um monitoramento menos preciso. A causa dessa diferença no monitoramento da produção fonética pode ser associada à situação de franca obsolescência em que se encontra o dialeto paulista: os poucos falantes que subsistem numa comunidade, cujos membros em sua grande maioria agora só falam o Português, língua que eles mesmos têm de usar para falar com a maioria, têm consideravelmente reduzidas suas oportunidades de ouvir a língua nativa e, conseqüentemente, dispõem de pouca retroalimentação (feed-back) para controlar eventuais desvios articulatórios, os quais, nessas circunstâncias, tendem a avolumar-se e a ampliar-se”. (CAVALCANTE, 1987, p.128129)
+Com a presente dissertação, pretendemos ainda fundar os primeiros alicerces para um trabalho futuro, que não só aprofunde as questões aqui levantadas, mas que também contribua para que a língua Tembé não seja referida no futuro próximo como mais uma língua indígena brasileira extinta.
+
+29
+4. MUDANÇAS ESTRUTURAIS OCORRIDAS E EM PROCESSO NA LÍNGUA TEMBÉ
+4.1 Introdução Neste capítulo são comparados dados de seis falantes do Tembé: um falante do
+grupo 1, com conhecimento lingüístico mais conservador, Elias Tembé (E.), com idade aproximada de 55 anos; um falante do grupo 2, com conhecimento lingüístico também conservador, porém de geração mais nova que a do primeiro, Porútu Tembé (P.), com 36 anos de idade; dois falantes do grupo 3, Tina’í Tembé (T.) e Elaine Tembé (El.), com idade entre 25 e 30 anos, e com um conhecimento menos conservador da língua nativa do que os indivíduos dos grupos 1 e 2; e dois falantes do grupo 4, Mi’í Tembé (M.) e Emídio Tembé (Em.), também com idade entre 25 e 30 anos e menos proficientes na língua do que Tina’í e Elaine. Destes últimos, M. aprendeu o Tembé imperfeitamente, já quando adulta.
+Tomando como base o conhecimento existente sobre as línguas Tupí-Guaraní mais conservadoras, será mostrado que, além de reduções e outros tipos de mudanças ocorridas na morfossintaxe do Tembé ao longo de sua história, fato que o torna mais inovador do que outras línguas Tupí-Guaraní do mesmo subconjunto IV, várias outras mudanças encontram-se em processo, e algumas delas são atestadas exclusivamente na fala das gerações mais novas, as que fazem menos uso da língua nativa e/ou que aprenderam imperfeitamente o Tembé ou, ainda, que têm sofrido influência de falantes imperfeitos. Os aspectos gramaticais focalizados neste capítulo são a flexão relacional, a flexão casual, a flexão pessoal e a flexão modal. Os resultados dessa comparação serão usados na discussão final desta dissertação sobre os tipos de mudança ocorridos no Tembé, os mecanismos envolvidos nessas mudanças e as implicações dessas mudanças para a vitalidade da língua.
+
+30
+4.2 Comparação gramatical de dados de falantes de quatro grupos distintos, segundo o grau de proficiência na língua nativa
+4.2.1 Flexão relacional A flexão relacional encontrada nas línguas Tupí-Guaraní tem sido considerada
+como um dos traços morfossintáticos mais arraigados de sua gramática. Segundo RODRIGUES (1981, 1996, 2000a), os prefixos relacionais são aqueles que marcam relações de dependência e contigüidade sintática entre um determinante e o elemento por este determinado.20
+Na língua Tembé, como em toda língua da família Tupí-Guaraní, os temas dividem-se em relativos e absolutos21. Os primeiros incluem nomes possuíveis, verbos e posposições e os segundos compreendem os nomes que podem ser possuídos apenas eventualmente, como os que significam ‘céu’, ‘estrela’, ‘água’, entre outros. Os temas relativos dividem-se por sua vez em duas classes de acordo com a sua ocorrência com o alomorfe r- ou com o alomorfe º- do prefixo relacional R1.
+Como nas demais línguas irmãs, os temas da classe I do Tembé recebem o alomorfe º- do prefixo R1 quando precedidos imediatamente pelo seu determinante. Os temas dessa classe podem por sua vez ser divididos em duas subclasses de acordo com a sua ocorrência com alomorfes específicos dos prefixos relacionais R2 e R4. O prefixo R2 sinaliza no tema que o determinante deste não forma consigo uma unidade sintática e o prefixo R4 sinaliza no tema que o determinante deste é genérico e humano; já os temas da classe II recebem o alomorfe r- do prefixo R1 quando formam com os seus respectivos determinantes uma unidade sintática, podendo também ser divididos em subclasses distintas, como ocorre com os temas da classe I, de acordo com a sua ocorrência com os alomorfes dos prefixos R2 e R4, específicos dessa classe. O prefixo R3 indica que o determinante de um tema é correferente com o sujeito, mas
+20 CABRAL (2000b, p. 234) observa que os prefixos relacionais da família Tupí-Guaraní constituem um dos seus traços mais arraigados, “presentes na grande maioria das formas morfossintáticas, não havendo uma só língua Tupí-Guaraní que não distinga duas classes morfológicas de temas, com base na ocorrência desses temas com alomorfes de um dos prefixos relacionais.” 21 Ver CABRAL (2000b).
+
+31
+diferentemente dos demais relacionais só possui alomorfes fonologicamente condicionados.22
+Os dados dos Tembé que contribuíram com esse estudo revelam que a flexão relacional é um dos traços gramaticais que mais têm resistido a mudanças. Contudo, no que diz respeito ao jogo de relacionais, observa-se que tem havido redução de alomorfes, essencialmente do prefixo R4, mas isto na fala de indivíduos do grupo 4. O quadro abaixo apresenta o jogo de relacionais, ilustrando a divisão de temas do Tembé em classes e subclasses distintas.
+
+QUADRO I - Classes de temas: Prefixos relacionais do Tembé (adaptado de RODRIGUES, 1981)
+
+Classe I
+
+R1 R2 R3
+
+R4
+
+a) º- i-
+
+º-
+
+-namí ‘orelha’; -/á ‘cabelo’; -katú
+
+‘ter.bondade’; -pukú ‘ter.comprimento’; -hó
+
+‘ir’
+
+b) º- i-
+
+º-/m -pó ‘mão’; -pÈ! ‘pé’;
+
+Classe II
+
+a) r- ~ t- o- ~ u- t-
+
+n-
+
+~ w-
+
+b) r- ~ h-
+
+t-
+
+n-
+
+c) r- h-
+
+--
+
+-a/È!r ‘filho.de.homem’; -úw ‘pai’
+-e/ó ‘ser.doido’, -atá ‘fogo’, -akú ‘ter.quentura’, -uÈ! ‘sangue’, -urÈ! ‘ser.alegre’, -ehá ‘olho’; -ér ‘nome’ -etá ‘ter.muitos’, -upí ‘por’, -esák ‘ver’
+
+d) r- h-
+
+º-
+
+-u/È!w ‘flecha’, -ahÈ! ‘ter.dor’
+
+e) r- h-
+
+V-> º- -apé ‘caminho’; -ekúj ‘cuia’, -epotÈ! ‘fezes’!
+
+Classe III
+
+-- -- --
+
+-- Èwák ‘céu’; pit´w´! ‘bem-te-vi’
+
+O uso dos relacionais na fala de indivíduos dos grupos 1/2 e 3/4 será contrastado nas secções seguintes que tratam da flexão própria de cada classe de palavra.
+
+22 Neste estudo, representamos os relacionais chamados por RODRIGUES (1981) de contíguo, não contíguo, correferencial e genérico e humano, respectivamente como R1, R2, R3 e R4, de acordo com
+
+32
+4.2.2 Flexão nominal Os nomes do Tembé podem ser divididos em três subclasses de acordo com
+critérios morfológicos e semânticos. A subclasse dos nomes plenos, a subclasse dos pronomes, e a subclasse dos demonstrativos.
+
+4.2.2.1 Flexão relacional dos nomes plenos Apenas os nomes plenos relativos recebem prefixos relacionais, e essa
+característica os associa aos verbos, posposições e descritivos. Exemplos que ilustram o uso de relacionais nos nomes na fala dos grupos 1 e 2 (os que detêm um conhecimento mais conservador do Tembé) são dados a seguir:
+Classe I
+Subclasse a
+Prefixo R1 1) hé º-namí-´
+1 R1-orelha-Arg ‘minha orelha’ (P.)
+Prefixo R2 2) i-namí-´
+R2-orelha-Arg ‘orelha dele’ (P.)
+
+Prefixo R3
+
+3) o-monohók u-namí-´
+
+3-cortar
+
+R3-orelha-Arg
+
+‘ele cortou sua própria orelha’ (E.)
+
+CABRAL (2000b).
+
+33
+Prefixo R4 4) º-namí-´
+R4-orelha-Arg ‘orelha de gente’ (P)
+Subclasse b
+Prefixo R1 5) hé º-pÈ!-´
+1 R1-pé- Arg ‘meu pé’ (E.)
+Prefixo R223 6) i-pÈ!-´
+R2-pé- Arg ‘pé dele’ (P.)
+Prefixo R3 7) o-monohók u- pÈ!-´
+3-cortar R3-pé-Arg ‘ele cortou seu próprio pé’ (E.)
+Prefixo R4 8) mÈ!-´
+R4.pé-Arg ‘pé (genérico)’ (P.)
+Classe II
+Subclasse a Prefixo R1
+23 Outra língua do ramo VIII, o Jo’é (Cabral, em comunicação pessoal) desenvolveu uma subclasse da classe 1 em que os elementos relativos passaram a ser marcados pelos alomorfes º- dos relacionais 1), 2), e 3)‘genérico’. Outros tipos de deslocamentos de elementos de uma subclasse para outra ocorreram
+
+34
+
+9) hé r-a/È!r-´
+
+1
+
+R1-filho.de.homem-Arg
+
+‘meu filho’ (E.)
+
+Prefixo R2
+10) t-a/È!r-´ R2-filho.de.homem-Arg ‘ filho dele’ (P.)
+
+Prefixo R3
+
+11) o-peték
+
+w- a/È!r-´
+
+3-bater.com.as.mãos R3-filho.de.homem-Arg
+
+‘ele bateu no seu próprio filho’ (P.)
+
+Prefixo R4
+12) t- a/È!r-´ R4-filho.de.homem-Arg ‘ filho de homem’ (E.)
+
+Subclasse b
+
+Prefixo R1
+13) hé 1
+
+r-e/ú R2-ter.doidice
+‘eu sou doido’ (P.)
+
+Prefixo R2
+
+14) h-e/ú R2-ter.doidice
+
+a/é-´* ele-Arg
+
+‘ele é doido (P.)
+
+também em outras línguas deste ramo, como o Emérillon (ver COUCHILI, MAUREL & QUEIXALÓS, 2000) e o Wayampí (ver GRENAND, 1989).
+
+35
+
+Prefixo R3
+
+15) u-kwáw 3-saber
+
+w- e/ú-háw-´ R3- ter.doidice-Arg
+
+‘ele sabe de sua doidice’ (P.)
+
+Prefixo R4
+
+16) t-e/ú
+
+ma/é-´*
+
+R4-ter.doidice Rel-Arg
+
+‘ o que é doido’ (P.)
+
+Subclasse c
+
+Prefixo R1
+17) né 2
+
+r-u/È!w-´* R2-flecha-Arg
+‘ sua visão’ (P.)
+
+Prefixo R2
+18) h-u/È!w-´* R2-flecha-Arg ‘flecha dele’ (P.)
+
+Prefixo R3
+19) w-u/È!w-´* R3-flecha-Arg ‘sua própria flecha’ (P.)
+
+Prefixo R4
+
+20) a-zúr kwéj te-kó
+
+ka/á-º r-upí a-esák º-u/È!w-´*
+
+1-vir Perf 1corr-estar.em.mov mato-Arg R1-por 1-ver R4-flecha-Arg
+
+‘eu vinha pelo mato e vi uma flecha’ (P.)
+
+36
+Subclasse d
+
+Prefixo R1
+21) né 2
+
+r-esák-háw-´* R2-ver-Nom-Arg
+‘sua visão’ (P.)
+
+Prefixo R2
+22) h-esák-háw-´* R2-ver-Nom-Arg ‘visão dele’ (P.)
+
+Prefixo R3
+23) w-esák-háw-´* R3-ver-Nom-Arg ‘sua própria visão’ (P.)
+
+Prefixo R4
+24) t-esák-háw-´* R4- ver-Nom-Arg ‘visão de gente’ (P.)
+
+Subclasse e
+Prefixo R1 25) hé r-apé-º
+1 R1-caminho-Arg ‘meu caminho’ (P.)
+
+Prefixo R2
+26) h-apé-º R2-caminho-Arg ‘caminho dele’(E.)
+
+37
+
+Prefixo R3
+
+27) w-er-ekó
+
+w-apé-º
+
+3-CCom-estar.em.mov R3-caminho-Arg
+
+a/é-´
+
+no
+
+esse-Arg Rep
+
+‘ele tem seu próprio caminho’ (P.)
+
+Prefixo R4
+28) a-zúr 1-vir
+
+te-kó
+
+º-pé-º
+
+r-upí
+
+1corr-estar.em.mov R4-caminho-Arg R1-por
+
+‘eu estava vindo por um caminho’ (E.)
+
+Algumas das diferenças que distinguem a fala de indivíduos dos grupos 1 e 2 da dos grupos 3 e 4 são as seguintes:
+
+Os falantes dos grupos 3 e 4 usam o R2 em nomes, em contextos nos quais os falantes dos grupos 1 e 2 usam o R4 :
+
+29)
+
+grupos 3 e 4
+
+i-pÈ h-uwá h-ehá
+
+‘pé dele’
+
+por
+
+‘bochecha dele’ por
+
+‘olho dele’
+
+por
+
+mÈ!´ t-uwá t-ehá
+
+grupos 1 e 2
+‘pé (genérico e humano)’ ‘bochecha (genérico e humano)’ ‘olho (genérico e humano)’ (M.)
+
+Há, contudo, alguns temas que continuam a ocorrer com o prefixo R4 na fala dos grupos 3 e 4, como é o caso da palavra para ‘comida’:
+
+30) t-emi/ú i-apó-hár
+
+´!è Mi/í´
+
+R4-comida R2-fazer-Agent é Mi/í´
+
+‘o fazedor de comida é Mi/í’ (M.)
+
+31) h-emi/ú R2-comida
+‘comida dele’ (M.)
+
+20) hé r-emi/ú 1 R1-comida
+‘minha comida’ (M.)
+
+Uma outra mudança foi atestada, mas exclusivamente no grupo 4, que é o uso do R2 ou de um dêitico em lugar do esperado R3:
+
+38
+
+32) i-hÈ!
+
+u-aihú-katú i-memÈ!r-´
+
+w´
+
+R2-mãe 3-amar-Intens R2-filho(a).de.mulher-Arg Pl
+
+‘as mães amam muito os seus filhos’ (M)
+
+33) wá elas
+
+º-mén
+
+u-hém u-úr kwéj
+
+R1-marido 3-sair 3-vir Perf
+
+º-irú-ramo R1-companheiro-Trans
+
+‘elas foram com os maridos delas’ (M.)
+
+No mais, a flexão relacional continua altamente produtiva nos nomes, na fala dos indivíduos dos quatro grupos mencionados acima.
+
+4.2.2.2 Flexão casual Os nomes plenos compartilham com os demonstrativos o caso locativo -pe ~
+-me e com esses últimos e com os pronomes independentes, o caso argumentativo -a ~ -º. O primeiro é um caso locativo geral, o único sobrevivente dos três outros casos propriamente locativos que são reconstruíveis para o proto-Tupí-Guaraní: o locativo pontual *-pe ~ * -Èpe ~ *-me ~ *-Ème, o locativo difuso *-Bo ~ *-ÈBo e o locativo situacional *-i ~ *-j.24
+
+4.2.2.2.1 O caso locativo
+Os alomorfes do caso locativo em Tembé têm distribuição idiossincrática.
+Embora temas terminados por consoante nasal recebam o alomorfe -me e os temas
+terminados por consoante oral recebam o alomorfe -pe, ambos os alomorfes ocorrem
+24 Segundo RODRIGUES (2000a, p. 67), no Tupinambá, os casos locativos têm por função indicar a “locação tanto no espaço quanto no tempo”. O locativo pontual “indica um lugar ou um momento delimitado”, enquanto que o locativo difuso “indica um lugar ou um tempo não delimitado”. O caso locativo situacional “indica situação em referência a uma parte de um todo (como ‘veio nos meus calcanhares’ ou ‘está em baixo do banco’).” Ainda segundo RODRIGUES (2000a, p. 67), um outro caso locativo, o caso translativo, “expressa uma mudança de estado físico ou social”.
+
+39
+em temas terminados por segmentos vocálicos, que no Tembé são todos orais. Os casos em que temas terminados por segmentos vocálicos são flexionados pelo alomorfe -me são aqueles em que o segmento vocálico era em estágio anterior da história da língua associado à nasalidade25. Contudo, mesmo depois da perda de nasalidade vocálica, continuaram a ocorrer os antigos alomorfes que ocorriam seguindo segmentos nasais26.
+Exemplos que mostram a alomorfia referente ao caso locativo na fala de indivíduos dos grupos 1 e 2 são:
+
+34) a/é-´ w´ u-kér pé ze-mo-katú-há-pe
+
+w´
+
+esse-Arg Pl 3-dormir lá Refl-Caus-ter.bondade-Nom-Loc Pl
+
+‘eles dormiram lá no hospital’ (E.)
+
+35) /È!-´
+
+u-pupúr
+
+zapépo-pe
+
+água-Arg 3-ferver
+
+panela-Loc
+
+'a água está fervendo na panela' (E.)
+
+36) a/é-´
+
+u-/ár kwéj tuzúk-pe
+
+esse-Arg 3-cair Perf lama-Loc
+
+‘ela caiu na lama’ (P.)
+
+37) pirá-º
+
+w´ w-ikó
+
+w´
+
+peixe-Arg Pl 3-estar.em.mov Pl
+
+'os peixes vivem na água' (P.)
+
+/È!-pe água-Loc
+
+38) uru-hém oro-hó 13-sair 13-ir
+
+uré r-ekó-háw-pe 13 R1-estar.em.mov-Nom-Loc
+
+‘nós chegamos ao nosso lugar’ (E.)
+
+25 Como será mostrado mais adiante, a alomorfia historicamente condicionada à nasalidade é também característica de outros morfemas.
+26 Isso é o que ocorre na fala de indivíduos dos grupos 1 e 2.
+
+40
+
+39) re-zÈwÈ!r re-hó
+
+ipó
+
+2-voltar 2-ir
+
+Infer
+
+pÈháwteahÈ! muito.cedo
+
+hé r-´pÈ!j-me 1 R1-casa-Loc
+
+‘você vai voltar cedo para minha casa’ (P.)
+
+40) h-etá
+
+t-atá-º
+
+sé t-´pÈ!j-meÚ
+
+R2-ter.muitos R4-fogo-Arg aqui R4-casa-Loc
+
+‘tem fogo nesta casa’ (E.)
+
+Por outro lado, os falantes dos grupos 3 e 4, mais particularmente do grupo 4, usam com muita freqüência o alomorfe -pe em flutuação com o alomorfe -me 27:
+
+41) hé 1
+
+r-´pÈ!j-pe
+
+~
+
+R1-casa-Loc
+
+‘em minha casa’
+
+r-´pÈ!j-me R1-casa-Loc
+‘em minha casa’ (M.)
+
+42) a-há
+
+Santare)j)-pe
+
+1-ir
+
+Santarém-Loc
+
+‘eu vou para Santarém’ (M.)
+
+4.2.2.2.2 Caso argumentativo O caso argumentativo, que tem como função habilitar um nome ou um verbo
+como argumento (RODRIGUES, 2000b, p. 68), tem tido o seu uso enfraquecido a tal ponto que pode ser definitivamente apagado em um futuro próximo, mesmo nas variedades mais conservadoras do Tembé.28 CABRAL (2000a) mostrou que a distribuição dos alomorfes do morfema do caso argumentativo em Tembé está condicionada à presença de uma consoante ou de uma vogal no final da raiz, bem como à qualidade da vogal:
+27 Foram observadas na fala de falantes dos grupos 1 e 2 raras instâncias do uso do alomorfe -pe em contextos nos quais o alomorfe esperado é -me (ver p. , exemplo ). 28 Ver CABRAL (2000a).
+
+41
+
+QUADRO II - DISTRIBUIÇÃO DOS ALORMOFES DO CASO
+
+ARGUMENTATIVO
+
+temas com consoante
+final hé r-úw-´ hé r-´pÈ!z-´
+
+glossa
+‘meu pai’ ‘minha casa’
+
+hé r-ér-´ Èwák-´ ´m´!n-´ i-kám-´ né º-´k´!N-´
+
+‘meu nome’ ‘céu’ ‘chuva’ ‘seio dela’ ‘cabeça de você’
+
+temas com i, e29, È, u, ou o final hé º-tí-´ ihé-´
+
+glossa
+‘meu nariz’ ‘eu’
+
+hé º-hÈ!-´ ‘minha mãe’ hé º-zurú-´ ‘minha boca’ hé º-pó-´ ‘minha mão’
+
+temas com a, e ou ´ final
+awá-º t-ehá-º
+sawa/é-º kuz´!-º
+
+glossa
+‘pessoa’ ‘olho de gente’ ‘macho’ ‘fêmea’
+
+(CABRAL, 2000a, p. 99)
+
+Em outras línguas Tupí-Guaraní, como o Tupinambá e o Asuriní do Tocantins, o caso argumentativo30, bem como os casos locativos, flexionam tanto raízes nominais quanto raízes verbais, mas no Tembé esses casos estão hoje restritos aos nomes e constituem critérios para distingui-los das demais classes flexionáveis. Exemplos de temas flexionados pelo caso argumentativo na fala de indivíduos dos grupos 1 e 2 são dados a seguir nas funções de sujeito (exs. 43, 52), de objeto direto (exs. 44, 50), de objeto de posposição (ex. 45), de possuidor (ex. 46), de possuído (exs. 47, 49, 51, 53) e de núcleo de predicado essivo (ex. 48):
+
+43) zawár-´
+
+u-er-ekó
+
+cachorro-Arg 3-CCom-estar.em.mov
+
+‘(o) cachorro tem rabo’ (E.)
+
+u-wáz-´ R3-rabo-Arg
+
+44) pé-´ pe-zupí
+
+pirá-º
+
+no
+
+23-Arg 23-descamar peixe-Arg Rep
+
+‘vocês descamam peixe’ (P.)
+
+29 Observamos que apenas os nomes plenos terminados em e com até duas sílabas recebem o alomorfe -´.
+30 Como demonstrado por CABRAL (2000a), línguas de todos os 8 ramos da família Tupí-Guaraní mantêm reflexos do caso argumentativo *-a do proto-Tupí-Guaraní, e em línguas de pelo menos três ramos, esse morfema flexiona também raízes nominais descritivas e verbais, como são os casos do Guaraní antigo (ramo I), do Tupinambá (ramo III), e do Asuriní do Tocantins (ramo IV).
+
+42
+
+45) a-monó pirá-º hé º-kÈwÈ!r-´ 1-mandar peixe-Arg 1 R1-irmão-Arg
+
+º-pé R1-para
+
+‘eu entreguei o peixe ao meu irmão’ (E.)
+
+46) u-esák ma/é-º º-k´N! -wér-´
+
+º-pé
+
+r-upí
+
+3-ver bicho-Arg R1-osso-Retr-Arg R4-caminho R1-por
+
+‘ele viu osso de bicho pelo caminho’ (P.)
+
+47) h-etá R2-ter.muitos
+
+Tembé-º
+
+º-ÈwÈ!-´
+
+Tembé-Arg R1-terra-Arg
+
+‘existe terra de Tembé’ (E.)
+
+48) izé-´ i-hÈ!-´ 1-Arg R2-mãe-Arg
+‘eu sou mãe’ (E.)
+
+49) hé 1
+
+r-´pÈ!z-´ R1-casa-Arg
+‘minha casa’ (P.)
+
+50) u-zapó ÈwÈ-kwár-´ 3-fazer terra-buraco-Arg ‘ele faz buraco’ (E.)
+
+51) n´!ne hé º-kÈháw-´ Neg 1 R1-rede-Arg
+‘não é minha rede’ (P.)
+
+52) zawár-´
+
+u-manó
+
+cachorro-Arg 3-morreu
+
+‘o cachorro morreu’ (P.)
+
+53) zané-´ ti-kÈtí
+
+né º-pó-´
+
+kwéj
+
+12-Arg 12-cortar 2 R1-mão-Arg Perf
+
+‘nós cortamos sua mão’ (E.)
+
+É importante ressaltar que, nas variedades mais conservadoras, o morfema -´ freqüentemente deixa de ser pronunciado em fala rápida. Isso ocorre, como colocado por CABRAL (2000a), nas seguintes situações:
+
+43
+
+a) quando o tema por ele flexionado é seguido por uma palavra com vogal átona inicial:
+
+54) hé r-azÈ!r(-´)
+
+o-hém kwéj
+
+1 R1-filha.de.homem(-Arg) 3-sair Perf
+
+‘minha filha saiu’ (E.)
+
+55) hé º-mén(-´)
+
+u-úr kwéj
+
+1 R1-marido(-Arg) 3-vir Perf
+
+‘meu marido veio’ (P.)
+
+56) aikó u-pÈhÈ!k hé º-ze/éN-háw(-´) º-ikó
+
+wé sé wé na/é-´
+
+aqui 3-pegar 1 R1-falar-Nom(-Arg) 3corr-estar.em.mov ainda aqui ainda não é?
+
+‘eles estão aqui gravando a minha fala, não é?’ (P.)
+
+b) quando a palavra seguinte começa com /r/:
+
+57) hé º-zurú(-´) r-ehé
+
+kó karaíw-´ º-k´N! -wér-´
+
+sé
+
+1 R1 -boca(-Arg) R1-a.respeito.de este branco-Arg R1-cabeça-Retr-Arg aqui
+
+‘este gravador aqui na minha boca’ (P.)
+
+CABRAL (2000a) observa ainda que a não realização do morfema -´ nas situações acima apontadas é possível porque a única função para os nomes é a de argumento, e sendo este o caso, a marca -´ torna-se redundante, o que possibilita a sua queda.
+Quanto ao caso argumentativo na fala dos indivíduos dos grupos 3 e 4, verificase que a antiga marca -´ não é mais funcional. Contudo, quando os nomes encontram-se antes de silêncio são pronunciados eventualmente com uma vogal /´/ final átona, mas não mais analisável:
+
+58) ihé-(´) 1-(Arg)
+
+né r-úw-(´) 2 R1-pai-(Arg)
+
+‘eu sou seu pai’ (M.)
+
+44
+59) ihé-(´) né º-hÈ!-(´) 1-(Arg) 2 R1-mãe-(Arg) ‘eu sou sua mãe’ (Em.)
+
+60) né º-ak´N! -(´) 2 R1-cabeça-(Arg)
+‘é sua cabeça’ (Em.)
+
+61) a-esák né r-úw-(´) 1-ver 2 R1-pai-(Arg)
+‘eu vejo seu pai’ (M.)
+
+Há ainda uma outra situação em que um nome pode ser pronunciado com um schwa final. Trata-se das construções equativas, nas quais os dois nomes podem opcionalmente ser pronunciados com um [´*] final:
+
+62) i-ma/é-ahÈ!-ma/é-(´) R2-Rel-ter.doença-Rel-(Arg)
+
+Mi/í-(´) Mi/í-(Arg)
+
+‘o doente é Mi’í’ (M.)
+
+Nos demais casos, os nomes não apresentam essa vogal em suas formas fonológicas, a menos que sejam seguidos por uma pausa:
+
+63) n´!m né r-úw u-hém u-úr kwéj Neg 2 R1-pai 3-chegar 3-vir Perf
+‘não foi seu pai que veio chegando’ (M.)
+
+64) a-nup´! né º-ak´!N
+
+kwéj
+
+1-bater 2 R1-cabeça Perf
+
+‘eu bati na sua cabeça’ (Em.)
+
+65) né º-po! na i-katú-j 2 R1-mão Neg R2-ter.bondade-Neg
+‘sua mão é feia’ (T. )
+
+45
+
+66) Jési w-erúr
+
+p´!n hé-we
+
+Jési 3-trazer pano 1-Dat
+
+‘Jéssi trouxe roupa para mim’ (M.)
+
+É importante salientar que um fenômeno análogo foi atestado no Suruí, uma outra língua Tupí-Guaraní. Monserrat (Notas de trabalho de campo, apud CABRAL 2000a) observa que “entre os Suruí mais velhos, o morfema -a encontra-se plenamente vigente, tanto após temas terminados por consoante, quanto após temas terminados por vogal, exceto quando a vogal final é /a/. Já os mais jovens não usam o caso argumentativo após vogais e glides”, mas tendem a pronunciar um glide vocálico com o timbre [´] em temas terminados por sons não-vocálicos:
+
+wainóm ~ wainóm´ tukán ~ tukán´ wyratíN ~ wyratíN´ óƒ~ ó´
+
+‘beija-flor’ ‘tucano’ ‘garça’ ‘casa’
+
+Monserrat observa ainda, entre outras coisas, que os Suruí mais jovens estendem o glide [´] para formas que não poderiam ter historicamente o sufixo -a :
+
+u/ár´ upáw´ ném´ aesá´
+
+‘caiu’ ‘acabou’ ‘fedido’ ‘vi’
+
+Um outro fato interessante a ser observado é o de que tanto no Suruí quanto no Tembé, o desaparecimento do caso argumentativo está relacionado a falantes de gerações mais novas, com maior domínio do Português e que já substituem a língua materna pelo Português na maioria das situações comunicativas.
+
+46
+4.2.2.2.3 O caso translativo No Tembé, como ocorre no Tupinambá (RODRIGUES, 1996, 2000a, 2001), o
+caso translativo -ramo ~ -amo é comum a nomes de um modo geral e a descritivos (ver secção 4.2.3.1), e como proposto por RODRIGUES (2000a) tem a função básica de marcar um estado atingido por um processo:
+
+67) uasir-wér palha-Retr
+
+a-dapó º-manakúr-ramo 1-fazer R4-cesto-Trans
+
+‘eu fiz da palha um cesto’ (T.)
+
+68) a-zapó pirá-k´N-wér-´ 1-fazer peixe-osso-Retr-Arg
+
+º-piná-ramo R4-anzol-Trans
+
+'eu fiz de uma espinha de peixe um anzol' (P.)
+
+69) a-dapó 1-fazer
+
+ma/é r-áw-ér bicho R1-pluma-Retr
+
+º-´k´Nhá-ramo R4-cocar-Trans
+
+‘eu fiz das penas um cocar’ (T.)
+
+O caso translativo do Tembé se aproxima em vários aspectos do caso instrumental do Russo, o qual, como observa JAKOBSON (1990 [1936]), possui possibilidades de variação de significado contextual, sem que este fato interfira no status periférico do papel atribuído à entidade em termos do enunciado onde ele se insere. Assim, como em Russo, o caso translativo do Tembé pode significar:
+
+a) alguma manipulação da ação: o instrumento:
+
+70) a-wiáj
+
+ÈwÈ!
+
+1-cavar terra
+
+º-tikurupé-ramo R4-enxada-Trans
+
+‘eu cavei a terra com enxada’ (El.)
+
+47
+71) izé-´ uru-muír r´!m º-takÈhé-º º-irú-ramo 1-Arg 2-rasgar Imin R4-faca-Arg R1-companheiro-Trans ‘eu vou rasgar você com a faca’ (E.)
+
+72) izé-´ uru-ziwÈ!r r´!m º-u/È!w-´
+
+º-irú-ramo
+
+1-Arg 2-furar Imin R4-flecha-Arg R1-companheiro-Trans
+
+‘eu vou furar você com a flecha’ (E.)
+
+73) a-zuká pirá-º º-piná-º
+
+º-irú-ramo
+
+1-matar peixe-Arg R4-anzol-Arg R1-companheiro-Trans
+
+‘eu matei peixe com anzol’ (P.)
+
+b) uma função passageira ou funcional da entidade31:
+
+74) w-ikó
+
+awá- ramo
+
+3- estar.em.mov macho-Trans
+
+'ele se faz de homem' (P.)
+
+75) pazé- ramo a-ikó
+pajé-Trans 1-estar.em.mov 'eu estou na qualidade de pajé' (E.)
+
+76) u-dapó
+
+kunumí-ramo
+
+3-fazer
+
+menino-Trans
+
+'ele age como criança' (Em.)
+
+O uso do morfema translativo ilustrado pelos exemplos acima corresponde à fala dos falantes proficientes dos grupos 1 e 2, assim como do grupo 3. Na fala de indivíduos do grupo 4 é comum o uso de -ramo com o significado de ‘com’. É muito provável que essa mudança tenha começado a ocorrer a partir de construções com a palavra irú ‘companheiro’ flexionada pelo caso translativo, pois mesmo na fala de falantes proficientes já ocorre redução da forma irúramo para íramo. Exemplos de M. são dados a seguir:
+
+48
+
+77) dané ti-hém da-dúr kwéj t-urÈ!w
+
+íramo
+
+12
+
+12-sair 12-vir Perf R4-ter.alegria com
+
+‘nós saímos com alegria’ (M.)
+
+78) a-muNáj 1-cortar
+
+pirá º-takÈhé-ramo peixe R4-faca-Trans
+
+‘eu cortei o peixe com a faca’ (M.)
+
+79) a-esák apitáw h-áw-é-ramo
+
+1-ver
+
+urubu R2-pena-Retr-com
+
+‘eu vi urubu com pena’ (M.)
+
+80) a-dapó-kár
+
+u-pitá hé º-rú-ramo
+
+1-fazer-CPrepos 3-ficar 1 R1-companheiro-Trans
+
+‘eu a faço ficar comigo’ (M.)
+
+81) pé pe-de/éN hé 23 23-falar 1
+
+º-rú-ramo R1-companheiro-Trans
+
+‘vocês falam comigo’ (M.)
+
+Cabral, em comunicação pessoal, observa que provavelmente foi esse mesmo caminho que levou a mudança do caso translativo do Tupinambá ao status de posposição na Língua Geral Amazônica, ou seja, as construções em que o caso translativo flexionava a palavra -iru-) ramo) ‘companheiro’ foram reduzidas a irúmo:
+
+82) awá irúmo tahá né re-ikó
+
+putári?
+
+quem com Q
+
+2 2-estar
+
+querer
+
+‘com quem você quer estar?’ (MAGALHÃES, 1876, p. 56)
+
+31 Essa é a função que corresponde ao que RODRIGUES (2000a) define como função de complemento predicativo que os nomes adquirem quando flexionados pelo sufixo translativo em Tupinambá, exemplificados por ‘meu tio é o chefe’ ou ‘nós o escolhemos como/para chefe’.
+
+49
+
+83) xa-ikó
+
+putári né irúmo
+
+1-estar
+
+querer 2
+
+com
+
+‘eu quero estar com você’ (MAGALHÃES, 1876, p. 56)
+
+No Ka’apór, uma mudança similar pode ter sido a fonte para a posposição -namõ ‘com’:
+
+84) hé 1
+
+º-páj º-namõ ihé a-hó tá
+
+R1-pai R1-com 1
+
+1-ir IMN
+
+‘eu vou com meu pai’ (Cabral, notas de trabalho de campo)
+
+85) ihe‚
+
+i -namõ
+
+a-watá tá
+
+té
+
+1SG NCNT-com 1SG-andar IMIN VER
+
+‘eu ia andar com eles’ (SILVA, 2001, p.12 )
+
+86) arahã
+
+jané r-amõj tá
+
+i-namõ
+
+u-hém jé
+
+nesse tempo 1PL CNT-avô ASS NCNT-com 3-sair DISQUE
+
+‘nesse tempo nossos avós saíram com ele’ (SILVA, 2001, p. 66)
+
+4.2.2.3 Os pronomes O Tembé possui duas séries de pronomes. A série II ocorre unicamente
+precedendo o elemento por ele determinado (nome, descritivo, posposição ou verbo) e formando com este uma unidade sintática. Os elementos dessa série codificam o objeto de transitivo, o sujeito de intransitivo descritivo no modo indicativo I, o sujeito de intransitivo não-descritivo no indicativo II, o possuidor e o complemento de uma posposição. Os pronomes da outra série, a série I, são sintaticamente independentes e seu uso é opcional em várias situações (ver também DUARTE, 1997).
+
+50
+
+QUADRO III - PRONOMES DO TEMBÉ
+
+Pessoas 1
+
+Série I izé, ihé ~ hé
+
+Série II hé
+
+2
+
+ené ~ né
+
+né
+
+12(3)
+
+zané, dané zané, dané
+
+13
+
+uré/oré
+
+uré/oré
+
+23
+
+pé
+
+pé
+
+Os pronomes independentes, além de serem flexionados pelo caso argumentativo (ver exemplos 44, 48 e 53 acima), possuem morfologia flexional própria, com o caso morfológico dativo -we ~ -me. Exemplos de pronomes flexionados pelo caso dativo são:
+
+87) a-há karaíw-´ mÈtér-ramo a-há te-kó
+
+h-urÈ!w-eté
+
+1-ir branco-Arg R4.meio-Trans 1-ir 1corr-estar.em.mov R2-ter.alegria-Gen
+
+karaíw-´ hé-we w´ branco-Arg 1-Dat Pl ‘eu estava indo para o meio dos brancos e os brancos estavam felizes comigo' (E.)
+
+88) izé-´ a-zepinatík
+
+pé-me
+
+1-Arg 1-pescar
+
+23-Dat
+
+‘eu pesquei para vocês’ (P.)
+
+89) o-monó pakó-´
+
+kwéj zané-we
+
+3-dar banana-Arg Perf 12-Dat
+
+‘ele deu banana para nós’ (P.)
+
+90) a-monó pakó-´
+
+kwéj né-we
+
+1-dar banana-Arg Perf 2-Dat
+
+‘eu dei banana para você’(P.)
+
+Os falantes dos grupos 3 e 4, em particular os do grupo 4, tendem a substituir o dativo pela posposição -upé ~ -pé, antes usada apenas na terceira pessoa i-zupé ‘para ele’. Na fala desses falantes, por analogia a essa forma, começa a se estender o uso da
+
+51
+
+posposição -pé ~ -upé, associada ao caso semântico ‘dativo’, para as formas pronominais, o que contribui mais ainda para o enfraquecimento da morfologia casual do Tembé.
+
+91) a-dapó-kár
+
+t-emi/ú
+
+kwéj ihé né º-upé
+
+1-fazer-C.Prepos R4-comida Perf 1 2 R1-para
+
+‘eu a fiz fazer comida para você’ (M.)
+
+92) a-monó pirá hé 1-mandar peixe 1
+
+º-kÈwÈ!r º-pé R1-irmão R1 -para
+
+‘eu entreguei o peixe ao meu irmão’ (Em.)
+
+93) a-dapó-kár
+
+t-emi/ú kwéj ihé dé º-upé
+
+1-fazer-Cprepos R4-comida Perf 1
+
+2 R1-para
+
+‘eu a fiz fazer comida para você’ (Em.)
+
+Rodrigues, em comunicação pessoal, informou que nos registros do Tupinambá há uma alternância no uso do dativo e da posposição -supé com o pronome da primeira pessoa singular, e que esta oscilação pode ser um sinal de mudança na família como um todo, e não algo exclusivo do Tembé. Contudo, mesmo sendo essa flutuação um sinal de mudança em processo na própria família Tupí-Guaraní, no Tembé é na fala de indivíduos do grupo 4 que temos verificado a quase total substituição do caso morfológico pela posposição -upé ~ -pé.
+
+4.2.2.4 Os demonstrativos O Tembé possui um conjunto de dêiticos que indicam a proximidade/visibilidade
+de algo em relação ao falante e/ou ao ouvinte, e alguns desses dêiticos indicam também a posição quando se trata de pessoa, animal ou objeto. Neste conjunto há também dêiticos que, além de indicarem proximidade, visibilidade e posição, podem funcionar
+
+52
+como locativos. No quadro a seguir são apresentados os demonstrativos reunidos até o presente, a partir dos dados fornecidos por E. e P.32:
+
+QUADRO IV- DEMONSTRATIVOS
+
+próx. do próx. do próx. do falante ouvinte falante e
+do ouvinte
+
+longe do mais visível falante e do de um
+ouvinte
+
+posição
+
+/´!N
+
++
+
+kó
+
+kwéj
+
+aikwéj
+
+wán a/é amó
+
++
+
+‘sentado’
+
++/-
+
++
+
++
+
++/-
+
++
+
+-
+
+‘em
+
+movimento’
+
++/-
+
++
+
++/-
+
++/-
+
++/-
+
++/-
+
+No quadro acima +/- significa que há dupla possibilidade, por exemplo, +/visível significa que algo ou alguém pode ou não estar visível.
+
+94) /´!N Ka/apór-´ o-/´N! sé º-iní este Ka’apór-Arg 3-sentar aqui 3corr-estar.sentado
+
+Suelly-pÈ!ri Suelly-com
+
+kapitão capitão
+
+Itarená Itarená
+
+º-pé-hár-´ R1-em-Nom-Arg
+
+‘este Ka’apór que está sentado aqui (na casa de) Suelly é chefe em Itarená’ (P.)
+
+95) kó tatú esse tatú
+
+r-wáz-´
+
+º-pé-kwér-uhú-ma/é-´
+
+R1-rabo-Arg R1-casca-Retr-Intens-Rel-Arg
+
+‘esse é casco grande de rabo de tatu’ (P.)
+
+32 O sistema de demonstrativos identificado até o presente é ainda incompleto e será mais trabalhado no futuro.
+
+53
+
+96) kwéj kuz´!-º
+
+u-tÈpir! º-ikó
+
+aquela mulher-Arg 3-varrer 3corr-estar.em.mov
+
+‘aquela mulher está varrendo’ (E.)
+
+97) aikwéj héa/ú-´
+
+w-ikó
+
+aquela mulher.velha-Arg 3-estar.em.mov
+
+zané-we a/é-´
+
+no
+
+12-Dat esse-Arg Rep
+
+héa/ú-pukú-´
+
+Ruriwáw r-emirikó-´
+
+mulher.velha-ter.comprimento-Arg Ruriwáw R1-esposa-Arg
+
+‘aquela mulher que está velha para nós (agora), ela, mulher velha comprida, mulher
+
+de Lourival.’ (E.)
+
+98) /´!N-´ ni/í rihí amó º-tÈnehém-º
+
+kwéj a/é-´
+
+este-Arg Neg ainda outro R1-encher-Ind.II Perf esse-Arg
+
+‘este ainda não (está cheio), esse outro já está cheio.’ (P.)
+
+Alguns demonstrativos suprem a ausência de pronomes de terceira pessoa em Tembé:
+
+99) a/é-´ ela-Arg
+
+u-úr kwéj hé º-hÈ!-ramo 3-vir Perf 1 R1-mãe-Trans
+
+‘ela veio como minha mãe’ (P.)
+
+100) a-r-ekó
+
+pakó-´
+
+wán
+
+1-CCom-estar.em.mov banana-Arg eles
+
+‘eu dei banana para eles’ (P.)
+
+º-upé R1-para
+
+101) wán n-úw-´ u-aihú-katú u-a/Èr-´
+
+wán no
+
+eles R1-pai-Arg 3-gostar-Intens R3-filho.de.homem-Arg eles Rep
+
+‘o pai deles gosta muito de seus filhos’ (P.)
+
+O demonstrativo a/é, bem como os nomes plenos contáveis, podem ser pluralizados pela partícula w´:
+
+54
+
+102) a/é-´
+
+w´ u-úr
+
+kwéj
+
+esse-Arg Pl
+
+3-vir
+
+Perf
+
+u-kÈ!m-háw-´
+
+º-irú-ramo
+
+R3-ter.água-Nom-Arg R1-companheiro-Trans
+
+‘eles vieram molhados’ (P.)
+
+Na fala de indivíduos dos grupos 3 e 4, tem sido observada a eliminação de indicações posicionais no uso dos demonstrativos.
+
+103) /´!N este
+
+o-re-kó 3-CCom-estar-em-mov ‘este ele trouxe consigo (M.)
+
+104) /´!N este
+
+da-re-kó 12-CCom-estar-em-mov ‘este trouxemos conosco’ (M.)
+
+No exemplo acima, /´!N indicava uma criança que, na ocasião, estava em pé.
+
+4.2.3 Descritivos Os descritivos formam uma classe de palavras distinta da dos verbos
+propriamente ditos por não receberem prefixos pessoais. A classe dos descritivos difere também da classe dos nomes por necessitar de nominalização para funcionar como argumento (SEKI, 2000; CABRAL, 2000a). Os descritivos não têm morfologia própria, compartilham os prefixos relacionais com os nomes possuíveis, os verbos e as posposições (exemplos 105-114); como os verbos, podem ser causativizados e como os nomes, recebem o caso translativo.
+Alguns exemplos de descritivos flexionados por relacionais são dados a seguir:
+Classe I Subclasse a
+
+55
+
+Prefixo R1
+
+105) wÈrá-º
+
+º-pukú
+
+pássaro-Arg R1-ter.comprimento
+
+‘pássaro comprido’ (P.)
+
+Subclasse b
+Prefixo R2
+106) i-pukú
+R2-ter.comprimento
+‘ele é comprido’ (P.)
+
+Classe II Subclasse b Prefixo R1
+
+107) né-´ r-e/ó-háw-´
+
+º-irú-ramo
+
+2-Arg R1-ter.doidice-Nom-Arg R1-companheiro-Trans
+
+‘você está com doidice’ (E.)
+
+Prefixo R2
+
+108) h-e/ó
+
+a/é-´
+
+R2-ter.doidice esse-Arg
+
+‘esse é doido’ (E.)
+
+Prefixo R3
+109) u-kwáw w-e/ó-háw 3-saber R3-ter.doidice-Nom ‘ele sabe da sua doidice’ (M.)
+
+Prefixo R4
+
+110) n a-esák-pitík t-e/ó-ma/é-´
+
+rihí
+
+Neg 1-ver-Aten R4-ter.doidice-Rel-Arg ainda
+
+56
+‘eu ainda não vi nenhum doido’ (E.)
+
+Subclasse c
+Prefixo R1
+111) Tenetehár-´ r-etá Tenetehár-Arg R1-ter.muitos ‘existem muitos Tenetehára’ (P.)
+
+Prefixo R2
+
+112) h-etá
+
+teté a/ú
+
+R2-ter.muitos Enf Intens
+
+‘existem muitos mesmo’ (T.)
+
+Subclasse d
+Prefixo R1
+113) hé r-ahÈ! 1 R1-ter.dor ‘eu estou com dor’ (M.)
+
+Prefixo R2
+
+114) h-ahÈ!
+
+º-ikó
+
+R2-ter.dor 3corr-estar.em.mov
+
+‘ela tem dor’ (El.)
+
+4.2.3.1 O caso translativo nos descritivos Os descritivos, assim como os nomes, são flexionados pelo morfema casual
+translativo, e, assim flexionados, correspondem a um atributo (ou estado passageiro) do sujeito da oração principal (ver RODRIGUES, 2000a):
+
+57
+
+115) né 2
+
+re-hém
+
+re-dúr kwéj t-urÈ!w-ramo
+
+2-[sair]chegar 2-vir Perf R4-ter.alegria-Trans
+
+‘tu chegaste feliz’ (M.)
+
+116) pé 23
+
+pe-dúr kwéj pé 23-vir Perf 23
+
+n-´kÈ!m-ramo R1-ter.água-Trans
+
+‘vocês vieram molhados’ (Em.)
+
+117) a/é u-hém esse 3-chegar
+
+u-úr kwéj º-demomÈ!k º-irú-ramo 3-vir Perf R1-ter.tristeza R1-companheiro-Trans
+‘ele chegou triste’ (M.)
+
+118) dané 12
+
+ti-hém da-dúr kwéj t-urÈ!w
+
+º-irú-ramo
+
+12-sair 12-vir Perf R4-ter.alegria R1-companheiro-Trans
+
+‘nós chegamos alegres’ (M.)
+
+As mudanças observadas com respeito aos relacionais nos nomes são as mesmas observadas com respeito aos descritivos (ver secção 4.2.2.1).
+
+4.2.4 Verbos transitivos e intransitivos não descritivos Os verbos transitivos e intransitivos não-descritivos são flexionados por prefixos
+pessoais no modo indicativo I (ver também DUARTE, 1997).
+
+QUADRO V -PREFIXOS PESSOAIS
+
+Pessoas
+1 2 12(3) 13 23 3
+
+Série III
+aere- ~ reda- ~ ti-
+urupeu- ~ o- ,w-
+
+58
+Essas marcas ocorrem nos verbos transitivos apenas quando o objeto é uma terceira pessoa:
+Exemplos de verbos intransitivos não descritivos no indicativo I:
+
+119) a-há brazír-pe
+
+ti/í
+
+1-ir Brasília-Loc enfim
+
+‘eu fui à Brasília’ (E.)
+
+120) a-/ín 1-estar.sentado ‘eu estou sentado’ (Em.)
+
+121) a-kér
+
+kwéj
+
+1-dormir Perf
+
+‘eu já dormi’ (P.)
+
+122) dawár
+
+u-manõ
+
+cachorro 3-morreu
+
+‘o cachorro morreu’ (T.)
+
+123) da-da/i/ó kwéj 12-chorar Perf
+‘nós já choramos’ (M.)
+
+Exemplos de verbos transitivos com objeto de terceira pessoa no indicativo I:
+124) uré uru-pih´!m 13 13-beliscar ‘nós o beliscamos’ (M.)
+
+59
+
+125) ihé a-pih´!m te
+
+amó
+
+1 1-beliscar Gen outro
+
+‘eu belisco o outro’ (M)
+
+Na fala de E., P. e T. o prefixo pessoal ti- flutua livremente com o prefixo da-, o que mostra que o antigo condicionamento da ocorrência do morfema ti- da família TupíGuaraní – o primeiro só nos verbos transitivos e o segundo só nos intransitivos – (RODRIGUES & CABRAL, 2001) já não existe.
+126) ti-hém da-zúr kwéj 12-sair 12-vir Perf ‘nós viemos’ (E.)
+127) da-hém da-zúr kwéj 12-sair 12-vir Perf ‘nós viemos’ (E.)
+Ainda com respeito aos verbos transitivos no modo indicativo I, quando o sujeito é 1 ou 13 e o objeto é 2, os verbos recebem apenas o prefixo pessoal uru- que codifica o objeto, mas quando o sujeito é 1 ou 13 e o objeto é 23, o verbo entra em composição com o morfema pu- ‘gente’ que coocorre com os prefixos pessoais a- e uru- (CABRAL, 2001):
+
+128) (izé-´) uru-esák wihéno
+
+(1-Arg) 2-ver
+
+Rep
+
+‘eu vou te ver de novo’ (E.)
+
+129) (izé-´) uru-peték (1-Arg) 2-bater
+‘eu bati em você’ (E.)
+
+130) (uré-´) uru-zuká=putár (13-Arg) 2-matar=querer ‘nós queremos te matar’ (P.)
+
+60
+131) uru-pu-esák kwéj mehé ti/í 13-23-ver Perf quando enfim ‘nós vimos vocês naquele dia’ (P.)
+
+132) a-pu-aihú 1-23-gostar ‘eu gosto de vocês’ (E.)
+
+Na fala de Em. e M. observa-se o uso a-pu quando a forma esperada é uru-pu:
+133) uré a-pu-pih´!m 13 1-23-beliscar ‘nós beliscamos vocês’ (Em.)
+
+134) uré a-pu-pih´!m 13 1-23-beliscar ‘nós beliscamos vocês’ (M.)
+Quando o objeto é uma primeira pessoa e o sujeito uma segunda pessoa, o objeto é marcado por meio de pronomes pessoais da série II e o verbo recebe o prefixo R1. Nessa combinação de agente e paciente, o sujeito é marcado pelo pronome pé e pode, por ênfase, coocorrer com o pronome pessoal da série I:
+
+135) (pé-´) (23-Arg)
+
+hé º-m´z´né pé 1 R1-empurrar Erg
+
+‘vocês me empurraram’ (P.)
+
+136) (né-´) hé º-m´z´né
+
+pé
+
+(2-Arg) 1 R1-empurrar Erg
+
+‘você me empurra’ (E.)
+
+137) (né-´) hé º-mumÈ!j pé no (2-Arg) 1 R1-apertar Erg Rep
+‘você me aperta’ (E.)
+
+61
+
+138) (pé-´) uré º-m´z´né
+
+pé
+
+(23-Arg) 13 R1-empurrar Erg
+
+‘vocês nos empurraram’ (P.)
+
+O pronome pé tende a desaparecer da fala de indivíduos dos grupos 3 e 4, enquanto continua plenamente ativa na fala dos indivíduos dos grupos 1 e 2.
+Finalmente, quando o objeto é uma primeira ou uma segunda pessoa e o sujeito uma terceira pessoa, o predicado é construído da mesma forma quando o objeto é de primeira e o sujeito de segunda (Pro R1-verbo), mas sem o pronome pé seguindo o verbo. Entretanto, na fala de indivíduos dos grupos 3 e 4, o pronome ergativo é eventualmente usada quando o objeto é de primeira ou segunda e o sujeito de terceira pessoa:
+
+139) a/é hé º-m´d´né
+
+pé
+
+esse 1
+
+R1-empurrar Erg
+
+‘ele me empurrou’ (M.)
+
+140) a/é ur(é) º-pih´!m
+
+pé
+
+esse 13
+
+R1-beliscar Erg
+
+‘ele nos belisca’ (Em.)
+
+141) a/é uré esse 13
+
+º-peték pé R1-bater Erg
+
+‘ele bate em nós’ (El.)
+
+142) a/é dané r-esák
+
+esse 12
+
+R1-ver
+
+‘ela nos vê’ (T.)
+
+62
+4.2.4.1 Verbos transitivos e intransitivos no modo imperativo O modo imperativo continua ativo nos grupos 1, 2, 3 e 4. Como nas demais
+línguas da família, nesse modo o verbo recebe os prefixos e- ‘2’ e pe- ‘23’:
+143) e-há 2-ir ‘vá!’ (E.)
+144) pe-kutúk 23-furar ‘furem-no!’ (P.)
+145) e-/ú dó 2-comer Neg ‘não coma!’ (M.)
+146) e-duká dó 2-matar Neg ‘não mate!’ (T.)
+
+4.2.4.2 Verbos posicionais Os prefixos da série V do Tembé são te- ‘1’, re- ‘2’, za- ‘12’, ru- ‘13’, pe- ‘23’,
+º- ‘3’. Esses prefixos ocorrem com alguns verbos de postura, cujo sujeito é correferente com o sujeito do verbo principal e marcam o processo ou estado expresso por esse último como estando em progresso:
+
+-iní ‘estar.sentado’
+
+147) izé-´ a-ma/é=/ú
+
+te-iní
+
+1-Arg 1-caça=comer 1corr-estar.sentado
+
+‘eu estou comendo sentado’ (P.)
+
+63
+
+148) né
+
+ere-ma/é=/ú re-ní
+
+2
+
+2-caça=comer 2corr-estar.sentado
+
+‘você está comendo sentado’ (T.)
+
+149) zané-´ za-ma/é=/ú
+
+za-ní
+
+12-Arg 12-caça=comer 12corr-estar.sentado
+
+‘nós estamos comendo sentados’ (E.)
+
+150) uré-´ uru-ma/é=/ú ru-ní 13-Arg 13-caça=comer 13corr-estar.sentado ‘nós estamos comendo sentados’ (El.)
+
+151) pé-´ pe-ma/é=/ú pe-ní 23-Arg 23-caça=comer 23corr-estar.sentado ‘vocês estão comendo sentados’ (E.)
+
+152) a/é-´
+
+u-ma/é=/ú º-iní
+
+esse-Arg 3-caça=comer 3corr-estar.sentado
+
+‘ele está comendo sentado’ (P.)
+
+-/úm ‘estar.em.pé’
+153) izé-´ a-ma/é=/ú te-/´!m 1-Arg 1-caça=comer 1corr-estar.em.pé ‘eu estou comendo em pé’ (P.)
+
+154) né ere-ma/é=/ú re-/´!m 2 2-caça=comer 2corr-estar.em.pé ‘você está comendo em pé’ (El.)
+
+155) zané-´ za-ma/é=/ú za-/´!m 12-Arg 12-caça=comer 12corr-estar.em.pé ‘nós estamos comendo em pé’ (E.)
+
+64
+
+156) uré-´ uru-ma/é=/ú
+
+ru-/´!m
+
+13-Arg 13-caça=comer
+
+13corr-estar.em.pé
+
+‘nós estamos comendo em pé’ (P)
+
+157) pé-´ pe-ma/é=/ú pe-/´!m 23-Arg 23-caça=comer 23corr-estar.em.pé ‘vocês estão comendo em pé’ (E)
+
+158) a/é u-ma/é=/ú
+
+º-/´!m upé w´
+
+esse 3-caça=comer 3corr-estar. em.pé
+
+‘ele está comendo em pé’ (El.)
+
+-ekó ‘estar.em.mov(imento)’
+
+159) izé-´ a-ze/éN te-kó
+
+1-Arg 1-falar
+
+1corr-estar.em.mov
+
+‘eu estou falando (em movimento)’ (E.)
+
+160) né-´ ere-ze/éN re-ekó
+
+2-Arg 2- falar
+
+2corr-estar.em.mov
+
+‘você está falando (em movimento)’ (P.)
+
+161) zané za-ze/éN za-ekó 12 12- falar 12corr-estar.em.mov
+‘nós (incl.) estamos falando (em movimento)’ (E.)
+
+162) uré-´ uru-ze/éN ru-ekó 13-Arg 13- falar 13corr-estar.em.mov
+‘nós (excl.) estamos falando (em movimento)’ (E.)
+
+65
+
+163) pé-´ pe-ze/éN pe-kó 23-Arg 23- falar 23corr-estar.em.mov ‘vocês estão falando (em movimento)’ (P.)
+
+164) a/é u-de/éN
+
+º-ekó
+
+esse 3- falar
+
+3corr-estar.em.mov
+
+‘ele está falando (em movimento) ’ (T.)
+
+Os prefixos desta série não são mais usados por falantes do grupo 4.
+
+4.2.5 Observações adicionais sobre pronomes da série I e II Nesta dissertação postula-se a existência de dois conjuntos de pronomes
+pessoais, um de pronomes da série I e outro de pronomes da série II, embora as diferenças fonológicas entre as formas das duas séries sejam mínimas. A existência dessas duas classes de pronomes se fundamenta na ocorrência de algumas formas pessoais de uma série em contextos sintáticos em que não foram observadas as formas correspondentes do outro paradigma. Apenas as formas izé, ihé que codifica a primeira pessoa do singular do conjunto de pronomes independentes pode funcionar como enfático (ex. 165), como sujeito de descritivos (ex. 166) e como um dos elementos de construções equativas (ex. 167), enquanto que apenas hé ocorre como objeto de verbo transitivo (ex. 168), embora na fala de indivíduos do grupo 4 haja uma flutuação de hé com ihé quando se trata de objeto de posposição ou de possuidor ( exs. 169 e 170).
+165) (izé-´) a-há te-kó (1-Arg) 1-ir 1corr-estar.em.mov ‘eu estou indo embora’ (E.)
+166) izé-´ hé r-urÈ!w-eté 1-Arg 1 R1-ter.alegria-Gen ‘eu tenho alegria’ (E.)
+
+66
+
+167) ihé º-kapamóno-ma/é
+
+1
+
+R1-caçar-Rel
+
+‘eu sou caçador’ (M.)
+
+168) pé-´ hé º-m´z´né
+
+pé
+
+23-Arg 1
+
+R1-empurrar Erg
+
+‘vocês me empurraram’ (E.)
+
+169) kó
+
+n´!m
+
+esse Neg
+
+ihé º-hÈ!
+
+1
+
+R1-mãe
+
+‘esta não é minha mãe’ (M.)
+
+170) a/é hé º-hÈ!
+
+esse 1
+
+R1-mãe
+
+‘ela é minha mãe’ (M.)
+
+4.2.6 Indicativo II O modo indicativo II, assim chamado por RODRIGUES (1953) para referir uma
+variedade de indicativo encontrada no Tupinambá, ocorria nessa língua quando uma circunstância era anteposta a um predicado com sujeito de primeira ou de terceira pessoa. Nesse modo, o verbo não recebia prefixos pessoais, mas prefixos relacionais. Se o determinante do verbo formasse com este uma unidade sintática, o verbo recebia o prefixo R1, caso contrário, o verbo recebia o prefixo R2. No Tupinambá, o verbo era flexionado ainda pelo sufixo do modo indicativo II, que tinha nessa língua dois alomorfes: o alomorfe -i que ocorria em temas terminados em consoantes e o alomorfe -w em temas terminados por vogais.
+No Tembé, o modo indicativo II ainda continua ativo, mas já com ocorrência restringida. Além de ocorrer apenas quando o sujeito é de terceira pessoa, só é acionado se o predicado for afirmativo, como será mostrado mais adiante. Em Tembé, o sufixo do modo indicativo tem os alomorfes -n e -º, o primeiro ocorrendo em temas terminados por vogal e o segundo em temas terminados em consoante:
+
+67
+Verbos intransitivos não-descritivos:
+
+171) a/é esse
+
+r-upí hé º-´n´!m-´
+
+i-hó-n
+
+pé-pe a/é
+
+R1-por 1 R1-parente-Arg R2-ir-IndII lá-Loc esse
+
+‘por isso meu parente foi lá, por isso, assim’ (E.)
+
+r-upí nazewé R1-por assim
+
+172) sé h-ekó-n
+
+hé º-kÈwÈ!r-´
+
+aqui R2-estar.em.mov-Ind.II 1 R1-irmão-Arg
+
+‘ aqui está meu irmão’ (P.)
+
+173) sé hé aqui 1
+
+º-kÈwÈ!r-´
+
+r-ekó-n
+
+R1-irmão-Arg R1-estar.em.mov-Ind.II
+
+‘aqui meu irmão está’ (P.)
+
+174) sé º-wí aqui R1-de
+
+i-hém-º R2-sair-Ind.II
+
+‘daqui ele saiu’ (P.)
+
+175) né 2
+
+º-rú-ramo
+
+º-zÈwÈ!r-º
+
+R1-companheiro-Trans R1-voltar-Ind.II
+
+‘com você ele voltou’ (P.)
+
+176) né º-rú-ramo 2 R1-companheiro-Trans
+
+u-kér 3-dormir
+
+‘com você ele dorme’(P.)
+
+177) né º-rú-ramo
+
+o-hó
+
+2 R1-companheiro-Trans 3-ir
+
+‘com você, ele foi’ (E.)
+
+178) né º-rú-ramo
+
+u-/áw
+
+p´
+
+2 R1-companheiro-Trans 3-estar.deitado Ger
+
+‘com você ele tá deitado’(P.)
+
+179) né º-rú-ramo
+
+u-apÈ!k º-iní
+
+2 R1-companheiro-Trans 3-sentar 3corr-estar.sentado
+
+‘com você ele está sentado’ (P.)
+
+68
+Verbos transitivos:
+
+180) sé aqui
+
+i-zuká-n R2-matar-Ind-II
+
+‘aqui ele o matou’ (P.)
+
+181) º-takÈhé-º º-irú-ramo
+
+i-monohók-º
+
+R4-faca-Arg R1-companheiro-Trans R2-cortar-Ind.II
+
+‘com a faca ele o cortou’ (P.)
+
+182) a/é r-upí u-me/é kwehé esse R1-por 3-olhar Atest.rem
+‘por isso ele olhou’ (Atest.rem) (E.)
+
+183) º-takÈhé-º º-irú-ramo
+
+u-zaikáw
+
+wÈrá-º
+
+R4-faca-Arg R1-companheiro-Trans 3-cortar.em.pedaços madeira-Arg
+
+‘com faca ele cortou madeira’ (P.)
+
+184) º-takÈhé-º º-irú-ramo
+
+u-monohók
+
+R4-faca-Arg R1-companheiro-Trans 3-cortar
+
+‘com a faca ele o cortou’ (P.)
+
+185) pé-pe lá-Loc
+
+n
+
+o-hó-j
+
+Neg 3-estar.em.mov-Neg
+
+‘lá ele não foi’ (P.)
+
+Apesar de o indicativo II ser ainda bastante usado por falantes dos grupos 1 e 2, algumas vezes ocorre o indicativo I quando o modo esperado é o indicativo II:
+
+186) kó-pe o-hó r´!m roça-Loc 3-ir Imin ‘pra roça ele vai’ (P.)
+Predicados nesse modo são negados por meio das mesmas estratégias usadas na negação de predicados no modo indicativo I ou por meio na partícula ni/í. Exemplos do indicativo II na fala de falantes proficientes do grupo 1 são:
+
+69
+
+187) º-pé-´ R4-caminho-Arg
+
+r-upí R1-por
+
+n
+
+u-ikó-j
+
+Neg 3-estar.em.mov-Neg
+
+‘pelo caminho não está’ (P.)
+
+188) pé-pe lá-Loc
+
+ni/í o-hó kwéj rihí Neg 3-ir Perf ainda ‘lá, ele ainda não foi’ (P.)
+
+189) kó-wi ni/í º-zÈwÈ!r ipó rihí roça-de Neg 3-voltar Infer ainda ‘da roça ele ainda não voltou’ (P.)
+Nos dados disponíveis de falantes dos grupos 3 e 4 foram encontradas, de forma não sistemática, construções no indicativo II. Os exemplos abaixo ilustram o não acionamento do modo indicativo II, mesmo existindo as condições necessárias para a sua realização:
+
+190) Santarej) )-pe
+
+o-hó
+
+Santarém-Loc
+
+3-ir
+
+‘para Santarém ele vai’ (M.)
+
+191) Santarej) )-pe
+
+i-hó-n
+
+Santarém-Loc
+
+3-ir-Ind.II
+
+‘para Santarém ele vai’ (M.)
+
+192) Santarej) )-pe
+
+o-hó
+
+Santarém-Loc
+
+3-ir
+
+‘para Santarém ele vai’ (M.)
+
+193) ka/á-pe
+
+i-hó-n
+
+mato-Loc
+
+3-ir-Ind.II
+
+‘para o mato ele vai’ (T.)
+
+194) ka/á mato
+
+r-upí R1-por
+
+o-hém 3-sair
+
+u-úr kwéj 3-vir Perf
+
+70
+‘pelo mato, ele veio saindo’ (T.)
+
+4.3 Conclusão Neste capítulo procuramos mostrar, por meio da comparação de dados
+lingüísticos de falantes de diferentes grupos Tembé, distintos pelo grau de proficiência e pelo grau de uso da língua nativa, algumas mudanças estruturais já realizadas em alguns desses grupos, assim como várias mudanças que se encontram em processo, em todos os grupos comparados ou em grupos particulares.
+Procuramos também mostrar, quando houve oportunidade, algumas mudanças já ocorridas no Tembé como um todo, tendo por referência algumas das línguas mais conservadoras da família Tupí-Guaraní, como o Tupinambá e o Asuriní do Tocantins. No quadro abaixo resumimos as mudanças observadas na comparação dos quatro grupos de Tembé:
+
+QUADRO VI - MUDANÇAS ESTRUTURAIS OBSERVADAS NA FALA
+
+DOS QUATRO GRUPOS DE TEMBÉ
+
+Grupo 1e2
+
+manut. do Ind
+
+caso Arg II
+
++
+
++/-
+
+manut. do caso Loc
++
+
+manut. de R3
++
+
+manut. de R4
++
+
+manut. de pé ‘Erg’
++/-
+
+manut. do caso Trans
++
+
+3
+
+-
+
+-
+
+-
+
++
+
++/-
+
+-
+
++/-
+
+4
+
+-
+
+-
+
+-
+
++/-
+
++/-
+
+-
+
+-
+
+A maioria das mudanças observadas em Tembé correspondem à perda de estrutura, como são os casos de perdas de flexão identificadas nos grupos 3 e 4, a perda dos casos argumentativo e locativo, do indicativo II, e as mudanças em processo que podem levar ao desaparecimento definitivo dos relacionais R3 e R4 e do caso translativo.
+Historicamente o Tembé já sofreu várias mudanças que tornaram a estrutura morfossintática de suas palavras mais simples do que a de línguas mais conservadoras
+
+71
+da família. Mas esse processo de simplificação continua, agora motivado por causas externas diretamente ligadas à situação de contato em que vivem seus falantes com a sociedade regional falante do Português. Embora redução de estrutura não seja um tipo de mudança exclusivo de línguas que vivem uma situação de atrito, no caso do Tembé as reduções constatadas têm sido motivadas essencialmente pela situação de atrito em que o povo que fala essa língua vive.
+Todas as perdas citadas acima que implicam em redução estrutural correspondem também à perda de categorias morfossintáticas -- casos morfológicos, prefixos de relação, subcategoria modal.
+Uma das mudanças em processo atestadas, a que tem levado o antigo sufixo -ramo ‘caso translativo’ ao status de posposição, pode ser resultado tanto de atrito, quanto da influência do Português ‘com’, mas contando fortemente para essa mudança a própria semântica do translativo, que também incluía, originalmente, os significados de companhia e implemento.
+Por outro lado, com exceção dessa última mudança, nenhuma das demais mudanças parecem tornar o Tembé mais próximo do Português, exceto no que diz respeito à substituição de palavras morfologicamente complexas por construções analíticas.
+Finalmente, as mudanças observadas parecem ser todas simplificadoras e a maioria delas parece resultar de processos de nivelamento analógico, como tem ocorrido com a substituição do caso dativo pela posposição -pé ~ -upé, que tem como modelo a terceira pessoa (ver secção 4.2.2.3 acima). É também caso de nivelamento analógico a redução do sistema relacional, assim como a eliminação definitiva do indicativo II, tendo por modelo o padrão [circunstância predicado] comum à terceira pessoa.
+
+72
+5. INTERFERÊNCIAS DO PORTUGUÊS NO TEMBÉ
+5.1 Introdução Neste capítulo mostraremos instâncias da interferência do Português na fala de
+falantes proficientes do Tembé e faremos algumas observações sobre a natureza e dimensão dessa interferência, assim como sobre o que ela pode representar como ameaça para o desaparecimento dessa língua. O primeiro texto consiste nas instâncias da fala de Porútu Tembé (grupo 2), em uma conversa telefônica estabelecida entre ele e X (um outro falante de Tembé, aqui não identificado). O segundo texto é parte de um relato feito por Elias Tembé (grupo 1) sobre a história de sua vida. Todas as instâncias do Português que se entrelaçam com a língua Tembé nos dois textos serão destacadas por meio de negrito.
+
+5.2 Análise de dois textos Tembé
+5.2.1 Texto I Conversa telefônica entre Porútu e X (não identificado), gravada em Belém, em
+9 de agosto de 2001 (uma linha pontilhada entre exemplos corresponde a instâncias da fala de X, aqui omitidas)
+
+1)
+
+a/é kó u-pÈhÈ!k hé º-ze/éN-háw-´ º-ikó
+
+w´
+
+esse aqui 3-pegar 1 R1-falar-Nom-Arg 3corr-estar em.mov Pl
+
+w´ sé
+
+w´ na/é´
+
+Pl
+
+aqui
+
+Pl
+
+não é?
+
+‘aqui elas estão pegando minha fala, não é?’
+
+2)
+
+a-ze/éN te-kó
+
+sé
+
+né º-irú-ramo
+
+1-falar 1corr-estar.em.mov aqui 2
+
+R1-companheiro-Trans
+
+‘eu estou falando aqui com você’
+
+73
+
+3) só que só que
+
+ma/é ma/é só º-purakÈ!-há-pe coisa coisa só R4-trabalhar-Nom-Loc
+
+agora
+
+/´!N
+
+agora
+
+este
+
+‘só que agora eu trabalho’
+
+4) a-ze/éN te-/´!m
+
+né º-irú-ramo
+
+ma/é sé
+
+1-falar 1corr-estar.em.pé 2 R1-companheiro-Trans coisa aqui
+
+‘eu estou falando (em pé) com você aqui’
+
+5) hé º-zurú-´ r-ehé
+
+kó karaíw-´ º-k´N! -wér-´
+
+sé
+
+1 R1-boca-Arg R1-a.respeito.de esse branco-Arg R1-cabeça-Retr-Arg aqui
+
+‘com esse gravador aqui na minha boca’
+
+6) hé º-zurú-´ r-ehé
+
+kó karaíw-´ º-k´N! -wér-´
+
+sé
+
+1 R1 -boca-Arg R1-a.respeito.de esse branco-Arg R1-cabeça-Retr-Arg aqui
+
+‘com esse gravador aqui na minha boca’
+
+7) sé hé º-zurú-´ r-ehé aqui 1 R1 -boca-Arg R1 -a.respeito.de
+‘na minha boca’
+
+8) a/é r-upí ke a-pu/é
+
+no wé n a-puta!r-i
+
+esse R1-por que 1-declarar Rep ainda Neg 1-querer-Neg
+
+pe-hó p´! 23-ir Ger
+
+pe-rahá pé º-puh´N! -´ 23-levar 23 R1-remédio-Arg
+
+‘por isso eu não quero declarar que vocês vão levar remédio de vocês’
+
+9)
+
+pe-ze/éN Vilma º-irú-ramo
+
+e-ze/éN
+
+23-falar Vilma R1-companheiro-Trans 2-falar
+
+enfermeiro enfermeiro
+
+º-irú-ramo R1-companheiro-Trans
+
+74
+
+no
+
+hé º-puh´N! -´
+
+te/é no
+
+ro-hó r´!m ?
+
+Rep
+
+1 R1-remédio-Arg à toa Rep
+
+13-ir Imin
+
+‘vocês falam com a Vilma. Fale com o enfermeiro novamente! (sobre) meu
+
+remédio: nós vamos (falar)’
+
+10) nazewé ikón
+
+sé
+
+w´ a/é
+
+assim quando aqui Pl
+
+esse
+
+r-upí R1-por
+
+ro-hó r´!m ´m´! a/é r-upí ro-hó 13-ir Imin apatia esse R1-por 13-ir
+
+r´!m´ Imin
+
+‘assim, quando nós formos falar (com ela) por isso (por causa do remédio),
+
+por isso nós vamos (falar com ela)’
+
+11) º-puh´N! -´
+
+te/é no eré
+
+wán
+
+R4-remédio-Arg à toa Rep 2.dizer eles
+
+º-upé R1-para
+
+‘você diz (sobre o) remédio para eles novamente, à toa’
+
+----------------------------------------
+
+12) re-nó re-ikó
+
+agora aipó te/é no aipó
+
+2-ouvir 2.corr-estar.em.mov agora Infer à toa Rep Infer
+
+re-ze/éN no
+
+2-falar
+
+Rep
+
+‘você está ouvindo agora ? você fala novamente’
+
+13) ma/é-háw pra quê pe-ze/éN moh´!N-/ú pra quê ? pra quê 23-falar R4.remédio-tomar
+‘para que vocês falam que vão tomar remédio?’
+
+14) ma/é r-ehé
+
+kurÈ! pé
+
+te/é
+
+por que R1-a.respeito.de agora lá
+
+à toa
+
+‘por que agora?’
+
+---------------------------------------
+
+15) agora kwéj w´ no kwéj re-ze/éN tÈrÈtÈ!kahÈ no agora aquele Pl Rep aquele 2-falar ainda Rep
+
+75
+‘então aqueles, você fala novamente’
+
+16) aipó kwéj a-ze/éN né-we no aipó Infer aquilo 1-falar 2-Dat Rep Infer ‘provavelmente eu falo aquilo para você’
+
+17) Babá u-ze/éN no na Babá 3-falar Rep Neg
+
+pe-monó=kwáw pé
+
+º-´k´N! -´
+
+23-dar=saber
+
+23
+
+R1-cabeça-Arg
+
+‘Babá falou para vocês. Não vão encasquetar a cabeça de vocês com isso’
+
+18) pe-ze-mu-katú-kár-´ 23-Ref-Caus-ter.bondade-CPrepos-Arg ‘vocês se tratam, não é?
+
+nué ? não é?
+
+----------------------------------------
+19) n u-pÈtá=kwáw ni amó pit´í a/í Neg 3-ficar=saber nem outro um Aten ‘não vai ficar nenhum outro?’
+
+20) n u-pÈtá=kwáw ni pit´í a/í né Neg 3-ficar=saber nem um Aten né? ‘não fica nenhum, né?’
+----------------------------------------
+21) a/é mehé a-há r´!m ihé-´ no huhu esse quando 1-ir Imin 1-Arg Rep huhu‚ ‘assim eu vou de novo, huhu)’
+
+76
+
+22)
+
+huhu
+
+huhu‚
+
+hu‚hu‚!
+
+----------------------------------------
+
+23) u-páw
+
+sé
+
+º-wí nehé a-pÈhÈ!k hé
+
+3-terminar aqui R1-de Int
+
+1-pegar 1
+
+º-passage a-há r´!m R1-passage 1-ir Imin
+
+ihé-´ no 1-Arg Rep
+
+‘quando terminar (d)aqui, eu vou pegar minha passagem’
+
+----------------------------------------
+24) pois é então zó kwéj! na/é´ zó kwéj e zó pois é então só isso não é só isso e só
+pÈhawé nehé amanhã Int ‘pois é, então só isso, não é? só isso e amanhã...’
+
+25) zé
+
+pe-hó=putár za-há r´!m nehé pe-liga hé-we
+
+diz que 23-ir=querer 12-ir Imin Int 23-liga 1-Dat
+
+‘diz que vocês querem ir, se nós formos, vocês ligam para mim’
+
+26) pÈháw=eté-ahÈ! noite=Gen-Intens ‘de manhã bem cedo’
+----------------------------------------
+
+27) então a/é-´ então esse-Arg ‘então é isso’
+
+77
+----------------------------------------
+28) não não mas oito horas mehé nove horas mehé não não mas oito horas quando nove horas quando ‘não não, mas quando for oito horas, quando for nove horas’
+
+29) mas então a-liga r´!m pé-me mas então 1-liga Imin 23-Dat ‘mas então, eu vou ligar para vocês’
+
+30) pÈháw nehé seis horas sé
+
+a-monó
+
+º-passage
+
+noite Int seis horas aqui 1-mandar R4-passagem
+
+pé-me zó nehé ou n´!ne 23-Dat só Int ou não
+‘(de)noite, às seis horas aqui, eu mando passagem para vocês ou não?’
+
+----------------------------------------
+31) sete horas mehé a-liga pé pé-me sete horas quando 1-liga lá 23-Dat ‘quando (for) sete horas eu ligo para vocês aí’
+
+32) pra pra
+
+saber se pe-hó r´!m ou
+
+saber se 23-ir
+
+Imin ou
+
+‘para saber se vocês vão ou não’
+
+33) a-kwáw r´!m ou pe-hó r´!m 1-saber Imin ou 23-ir Imin ‘eu vou saber ou vocês vão’
+
+n´!ne não
+
+34) ou n´!ne na/é´? ou não não é ‘ou não, não é ?’
+
+78
+
+35) kón quando
+
+pÈháw
+
+nehé sé
+
+a-monó º-passage
+
+de noite Int
+
+aqui 1-mandar R4-passagem
+
+pé-me
+
+nehé ou n´!ne
+
+23-Dat
+
+Int ou não
+
+‘quando for de noite aqui eu mando a passagem para vocês ou não’
+
+36) sete horas mehé nehé sete e meia mehé a-liga r´!m pé-me sete horas quando Int sete e meia quando 1-ligar Imin 23-Dat
+
+nehé a-kwáw r´!m pe-hó r´!m ru/ú ou n´!ne
+
+Int
+
+1-saber Imin 23-ir Imin Dub ou não
+
+‘quando for sete horas, quando for sete horas e meia, eu ligo para
+
+vocês para saber se vocês vão, será? ou não’
+
+37) na/é´ ? ou n´!ne hé º-N´!n´n pe-ikó
+
+ipó
+
+não é? ou não 1 R1-enganar 23-estar.em.mov Infer
+
+‘não é? ou não? vocês podem estar me enganando’
+
+38) o-hó r´!m ah é ? pé pe-kwáw
+
+3-ir Imin ah é?
+
+23 23-saber
+
+‘ele vai , ah é? vocês sabem’
+
+----------------------------------------
+
+39) e depois tekó
+
+u-kwáw nehé
+
+e depois a gente 3-saber Int
+
+‘e depois a gente vai saber’
+
+----------------------------------------
+
+40) pÈháw sete horas mehé nehé de noite sete horas quando Int ‘de noite, quando for sete horas’
+
+79
+
+41) a-ze/éN né º-irú-ramo
+
+eu
+
+1-falar 2 R1-companheiro-Trans eu
+
+’ eu falo com você, eu’
+
+42) e-monó j-upé
+
+eré a-/ú a-/´!m
+
+sé
+
+2-mandar R2-para vá 1-comer 1-estar.em.pé aqui
+
+‘mande para ele, vá, eu estou comendo em pé’
+
+43) u-pÈhÈ!k r´!m o-hó ma/é-´ º-chapa zó
+
+3-pegar Imin 3-ir
+
+coisa-Arg R4-chapa só
+
+‘ele só vai só pegar a coisa, a chapa’
+
+44) zó u-pÈhÈ!k r´!m o-hó segunda-feira mehé só 3-pegar Imin 3-ir segunda-feira quando ‘só vai pegar quando for segunda-feira’
+
+45) pé º-pÈhÈ!k-háw-´ lá R4-pegar-Nom-Arg
+
+ti/í enfim
+
+‘lá, lugar de pegar, enfim’
+
+----------------------------------------
+
+46) i-/í
+
+doutor ma/é-pe
+
+pé ti/í i-/í doutor
+
+3-dizer doutor coisa-Loc lá enfim 3-dizer doutor
+
+ma/é karaíw-´ kuz´!-´
+
+segunda-feira ere-úr sé nehé
+
+coisa branco-Arg mulher-Arg segunda-feira 2-vir aqui Int
+
+‘o doutor disse, para a coisa (para o enfermeira), lá ele disse, enfim, o doutor,
+
+a coisa, a mulher branca. Segunda-feira você vem aqui’
+
+47) e-monó 2-mandar
+
+i-zupé a-/í
+
+né-we izé-´
+
+R2-para 1-dizer 2-Dat 1-Arg
+
+‘mande para ele, eu digo para você’
+
+80
+
+----------------------------------------
+
+48) n Neg
+
+u-ze/éN hé 3-falar 1
+
+º-rú-ramo R1-companheiro-Trans
+
+‘ele não falou comigo’
+
+----------------------------------------
+
+49) n´!ne n
+
+a-há-j izé-´
+
+não Neg 1-ir-Neg 1-Arg
+
+‘não, eu não fui’
+
+----------------------------------------
+
+50) n´!ne não
+
+º-consulta ? R4-consulta?
+‘não é consulta?’
+
+----------------------------------------
+51) zó a-pÈhÈ!k r´!m só 1-pegar Imin ‘eu só vou pegar’
+52) e-hó º-chapa pé ma/é-´ e-pÈhÈ!k 2-ir R4-chapa lá coisa-Arg 2-pegar ‘vá pegar a chapa!’
+
+53) i-/í pé ti/í que n a-há-j n a-há-j 3-dizer lá enfim que Neg 1-ir-Neg Neg 1-ir-Neg
+kwéj mehé hé-we w´ ti/í Perf quando 1-Dat Pl enfim ‘eles disseram lá enfim por(que) eu não fui, eu não fui (pegar) para mim’
+
+81
+
+54) a/é r-upí que esse R1-por que
+
+a-zúr 1-vir
+
+sé kurÈ! aqui agora
+
+‘por isso que eu vim aqui agora’
+
+55) ma/é te a-esák r´!m a-ikó
+
+pé-pe
+
+coisa Gen 1-ver
+
+Imin 1-estar.em.mov lá-Loc
+
+‘eu teria visto a coisa, (se) eu estivesse lá’
+
+56) zé a-ikó
+
+pé-pe kwehé
+
+wé
+
+se 1-estar.em.mov lá-Loc Atest-rem ainda
+
+‘se eu estivesse lá’
+
+57) ti-ze-mu-´i´íw 12-Ref-Caus-ter.ruindade ‘nós iríamos discutir’
+
+----------------------------------------
+
+58) então zó kwéj nehé zó kwéj pÈháw então só isso Int só isso noite
+
+a-ze/éN né º-irú-ramo
+
+nehé mas sete horas mehé nehé
+
+1-falar 2 R1-companheiro-Trans Int mas sete horas quando Int
+
+‘então é só isso, é só isso; de noite eu falo com você, mas quando for sete horas’
+
+59) a-kwáw r´!m 1-saber Imin
+
+pé º-hó-háw-´ 23 R1-ir-Nom-Arg
+
+‘eu quero saber da ida de vocês’
+
+----------------------------------------
+
+60) aipó h-ekó-n
+
+pé-pe joelma então
+
+Infer R2-estar.em.mov-Ind.II lá-Loc joelma então
+
+‘provavelmente ela está lá, Joelma, então’
+
+82
+
+61) tá bom então adepois e-ma/é=/ú-katú
+
+e-hó º-zemomík
+
+tá bom então adepois 2-caça=comer-Intens 2-ir R1-ter.tristeza
+
+‘tá bom, então, depois você vai comer bem, você vai triste’
+
+62) e-hó n a-putár-i
+
+re-atá
+
+2-ir Neg 1-querer-Neg 2-andar
+
+‘você vai (e) eu não quero que você ande’
+
+----------------------------------------
+
+63) m´r´!
+
+zaweté
+
+porque assim
+
+‘porque é assim’
+
+5.2.1.1 Interferência do Português na fala de um índio Tembé do grupo 2 Antes de qualquer discussão sobre a natureza, a dimensão e os mecanismos
+relacionados com a presença de elementos do Português no Tembé no texto acima, é necessário enfatizarmos que neste estudo interferência é concebida como sendo possível em todos os subsistemas lingüísticos, podendo ser de diferentes naturezas e podendo ocorrer por meio de diferentes mecanismos (ver THOMASON & KAUFMAN, 1988; THOMASON, 2001).
+Os itens lexicais do Português encontrados no texto em Tembé acima são: (a) nomes de profissão como enfermeiro e doutor, de objetos como passagem e chapa, de dias da semana, como segunda-feira, de numerais cardinais como os encontrados em nomes de horas, sete horas, sete e meia, oito horas e nove horas, de ordinais, como no nome da semana segunda-feira, e os nomes próprios Joelma, Babá e Vilma; (b) um pronome pessoal eu; (c) os advérbios de tempo então, agora e depois, os de intensidade só, somente e apenas e o de negação não; (d) a conjunção adversativa mas, a aditiva e, a alternativa ou e a temporal quando; (e) a expressão interrogativa pra que?; (f) o
+
+83
+marcador de discurso não é? (g) a expressão de surpresa ah é? (h) a construção de aprovação ou afirmação está bom; e (i) os verbos ligar, saber e enganar.
+As palavras enfermeiro e doutor têm como correspondentes em Tembé purupuh´!moNóma/é´ ‘o que coloca remédio em gente’ ou puh´!moNóhár´ ‘o colocador de remédio’, mas as palavras do Português para referir essas duas categorias sociais são usadas no texto em lugar dos nomes descritivos da língua nativa. Não há correspondentes na língua indígena para os numerais ordinais, os nomes acima de dois, os nomes da semana, os nomes próprios, assim como nomes de objetos alheios à cultura Tembé como chapa (de raios X) e passagem (de ônibus, de avião). Esses são nomes portugueses que já fazem parte do léxico do Tembé.
+As palavras agora, depois e apenas/só/somente são usadas no texto, embora o Tembé possua partículas que correspondem, em parte, aos seus significados: zó ‘apenas, só, somente’, kó ‘aqui, agora’ e mehé ‘depois, quando, durante, se’. O equivalente em Tembé da palavra então é o demonstrativo a/é flexionado no caso locativo, a/é-pe. Por outro lado, não existem em Tembé partículas equivalentes a e, mas, e ou, as quais já são usadas regularmente pelos Tembé em todos os tipos de fala natural, embora tenham baixa freqüência em sentenças elicitadas.
+Em Tembé um significado próximo ao da expressão está bom! é o do descritivo i-katú /R2 -ter.bondade/. No que diz respeito à expressão não é?, não há construção nativa equivalente. As partículas que ocorrem em perguntas têm funções epistêmicas, como ra/é ‘não-atestado pelo falante e passado’e ipó ‘Inferencial’ (CABRAL, 1999). Finalmente, o verbo saber aparece no texto em lugar do esperado kwáw ‘saber’, mas ligar ‘fazer uma ligação telefônica’, por outro lado, não tem equivalente em Tembé.
+Uma das perguntas que podem ser feitas sobre a presença desses elementos do Português no texto acima é: quais as conseqüências da presença desses elementos para a integridade do Tembé, para a sua vitalidade e continuidade? Note-se que com respeito aos nomes de elementos da cultura branca, como números, dias da semana, passagem e chapa, esses são casos de empréstimos já bem estabelecidos, que provavelmente foram adotados sem que os falantes bilingües tivessem criado nomes equivalentes em sua língua para referi-los.
+Entretanto, a presença de nomes como enfermeiro e doutor pode ser devida ao fato de que o interlocutor de Porútu, que é tão bilingüe em Tembé quanto ele,
+
+84
+encontrava-se, na ocasião, na Casa do Índio de Icoaraci, o lugar para onde vão os índios doentes e onde são acompanhados por médicos e enfermeiros. É possível que o contexto em que a conversa telefônica se desenvolveu tenha favorecido o uso dessas palavras. No que diz respeito ao uso dos advérbios do Português, em lugar dos equivalentes na língua nativa, uma das explicações possíveis é que o uso dos primeiros sejam instâncias de code-switching, já que em outros textos e também em sentenças elicitadas ocorrem as palavras equivalentes da língua nativa. Exemplos do texto acima serão usados para ilustrar os pontos discutidos nesta secção e a numeração original de cada exemplo será mantida.
+
+Palavras e expressões da língua nativa equivalentes a palavras e expressões do Português:
+
+apenas, só, somente:
+
+3)
+
+só que ma/é ma/é só º-purakÈ!-há-pe
+
+só que coisa coisa só R4-trabalhar-Nom-Loc
+
+agora /´!N agora este
+‘só que agora eu trabalho’ .
+
+58) então zó kwéj nehé zó kwéj pÈháw então só isso Int só isso noite
+
+a-ze/éN né º-irú-ramo
+
+nehé mas sete horas mehé nehé
+
+1-falar 2 R1-companheiro-Trans Int mas sete horas quando Int
+
+‘então é só isso, é só isso; de noite eu falo com você, mas quando for sete
+
+horas’
+
+agora:
+12) re-nó 2-ouvir
+
+re-ikó 2corr-estar.em.mov
+
+agora aipó te/é agora Infer à toa
+
+no aipó Rep Infer
+
+re-ze/éN no
+
+2-falar
+
+Rep
+
+‘você está ouvindo agora ? você fala novamente’
+
+85
+
+35) pé-pe kwehé
+
+a-ikó
+
+a/é-´
+
+mehé a-purakÈ!
+
+lá-Loc Atest-rem 1-estar.em.mov esse-Arg quando 1-trabalhar
+
+FUNAI º-pupé kurÈ! FUNAI R1-para agora
+‘faz tempo, quando eu estava lá, agora eu trabalho na FUNAI’ (E.)
+
+depois:
+
+39) e depois tekó
+
+u-kwáw nehé
+
+e depois a gente 3-saber Int
+
+‘e depois a gente vai saber’
+
+O uso das conjunções e, ou e mas podem estar caminhando para o status de empréstimo. Então e tá bom, por outro lado, consistem, muito provavelmente, em instâncias de code-switching, ocorrendo esporadicamente na fala dos Tembé. Quanto a não é?, é muito provável que seja um elemento já cristalizado no léxico da língua nativa. Trata-se de um marcador discursivo com altíssima freqüência no Português regional. A conjunção que parece ocorrer na fala dos Tembé enquanto uma instância de code-switching. O caso do verbo saber encontrado no texto é, sem dúvida, uma instância de code-switching; note-se que a parte da sentença em Português que contém esse verbo foi imediatamente substituída pelo equivalente em Tembé, como reproduzido abaixo:
+
+32) pra saber se
+
+pe-hó r´!m ou n´!ne
+
+pra saber se
+
+23-ir Imin ou não
+
+‘para saber se vocês vão ou não’
+
+33) a-kwáw r´!m ou pe-hó r´!m 1-saber Imin ou 23-ir Imin ‘eu quero saber ou vocês querem ir’
+
+86
+O verbo ligar (‘fazer uma ligação telefônica’), que não tem equivalente em Tembé, diferentemente do verbo saber, já é um empréstimo bem estabelecido. As palavras telefone, telefonema, ligar, ligação, cartão telefônico, todas relacionadas com o verbo ligar, são nomes também já adotados pelos Tembé. O verbo ligar passou a receber a morfologia verbal Tembé, e se comporta como um verbo da língua. O mesmo ocorre com o verbo do Português enganar que já é parte do léxico do Tembé. O fato de o verbo ligar não ter sido adaptado à fonologia original da língua nativa, indica que a lateral alveolar do Português já faz parte do sistema fonológico do Tembé, embora sons como esse sejam encontrados apenas em empréstimos.
+28) não,não mas oito horas mehé nove horas mehé não, não mas oito horas quando nove horas quando ‘não, não, mas quando for oito horas, quando for nove horas...’
+
+25) zé
+
+pe-hó=putár za-há r´!m nehé pe-liga hé-we
+
+diz que 23-ir=querer 12-ir Imin Int 23-liga 1-Dat
+
+‘diz que vocês querem ir, se nós formos, vocês ligam para mim’
+
+Quanto às expressões para que? e está bom, muito provavelmente, trata-se de instâncias de code-switching, pois não há indicações de que em outras situações discursivas os Tembé usem essas formas ao invés dos equivalentes em sua língua nativa.
+
+13) ma/é-háw pra quê ?
+
+pra quê pra quê
+
+pe-ze/éN moh´!N-/ú 23-falar R4.remédio-tomar
+
+‘para que vocês falam que vão tomar remédio?’
+
+61) tá bom então adepois e-ma/é=/ú-katú
+
+e-hó º-zemomík
+
+tá bom então adepois 2-caça=comer-Intens 2-ir R1-ter.tristeza
+
+‘tá bom, então, depois você vai comer bem, você vai triste’
+
+O exemplo abaixo foi extraído do texto encontrado na secção 5.2.2:
+
+87
+
+i-katú R2-ter.bondade ‘está bom/bem’ (E.)
+A palavra n´!ne do Tembé é muito provavelmente um antigo empréstimo do Português, o qual já substituiu definitivamente a negação de constituintes topicalizados que em outras línguas Tupí-Guaraní é feita por partículas cognatas de *ruã, como em Tupinambá, ruã (RODRIGUES, 1953 ), em Jo’é, ruã (Cabral, notas de trabalho de campo) e em Kamayurá, ruej) (SEKI, 2000).
+
+n´!ne né r-úw-´
+
+u-hém u-úr kwéj
+
+não 2 R1-pai-Arg 3-sair 3-vir Perf
+
+‘não foi seu pai que chegou’ (P.)
+
+n´!ne hé r-´pÈ!z-´ não 1 R1-casa-Arg
+‘não é minha casa’ (P.)
+
+No texto há também instâncias de n´!ne que equivalem a outros usos da partícula ‘não’ do Português, o que fortalece mais ainda a idéia de que essa palavra seja realmente um antigo empréstimo do Português.
+
+32) pra pra
+
+saber se pe-hó r´!m ou
+
+saber se 23-ir
+
+Imin ou
+
+‘para saber se vocês vão ou não’
+
+n´!ne não
+
+Outro fato interessante a ser destacado é o nome descritivo para gravador de som, que em Tembé é traduzido como ‘cabeça de branco’. Note-se que, embora as palavras sejam da língua nativa, o uso da palavra cabeça é similar ao uso dado à palavra cabeça em Português para ‘cérebro, memória’:
+
+5) hé º-zurú-´ r-ehé
+
+kó karaíw-´ º-k´N! -wér-´
+
+sé
+
+88
+1 R1 -boca-Arg R1-a.respeito.de esse branco-Arg R1-cabeça-Retr-Arg aqui ‘esse gravador aqui na minha boca’
+
+Uma outra construção que pode ter-se desenvolvido em Tembé por causa da
+
+influência do Português é o uso do caso translativo com o significado de com:
+
+2) a-ze/éN te-kó
+
+sé né º-irú-ramo
+
+1-falar 1corr-estar.em.mov aqui 2 R1-companheiro-Trans
+
+‘eu estou falando aqui com você’
+
+41) a-ze/éN né º-irú-ramo
+
+eu
+
+1-falar 2 R1-companheiro-Trans eu
+
+‘eu falo com você, eu’
+
+Como já foi observado no capítulo 4, secção 4.2.2.2.3, tanto na língua dos Ka’apór, vizinhos dos Tembé, assim como na Língua Geral Amazônica, houve um desenvolvimento similar do antigo caso translativo em posposição com o significado de com. É possível que a mudança que está em andamento em Tembé tenha por um lado sido influenciada pelo com do Português, embora com seja uma preposição e -ramo tenha sido originalmente um sufixo.
+
+89
+5.2.2 Texto II
+A história de Elias (trecho de um relato gravado durante várias vindas de Elias Tembé a Belém)
+
+1) ihé º-kwaharér-´
+
+mehé kwehé
+
+a-há karaíw-´
+
+mÈtér-ramo
+
+1 R1-ser.criança-Arg quando Atest-rem 1-ir branco-Arg R4.meio-Trans
+
+‘quando eu era menino, faz tempo, eu fui no meio dos brancos’
+
+2) a-purakÈ!
+
+kwehé
+
+a-há te-kó
+
+karaíw-´
+
+mÈtér-ramo
+
+1-trabalhar Atest-rem 1-ir 1corr-estar.em.mov branco-Arg R4.meio-Trans
+
+‘eu tinha ido trabalhar, faz tempo, no meio dos brancos’
+
+3) sé º-ma/é-´
+
+amoeté
+
+aqui R4-coisa-Arg longe
+
+Tenetehár-´ Tenetehár-Arg
+
+wá
+
+º-kutÈ!ri
+
+a-mopukwáw
+
+esses R1-outro.lado 1-amansar
+
+‘aqui, coisa (índio) longe, do outro lado dos Tenetehára eu amansei’
+
+4) kwehé
+
+amó Tenetehár-´
+
+w´ ro-hó sé Belém º-kupé-kutÈ!ri
+
+Atest-rem outro Tenetehár-Arg Pl 13-ir aqui Belém R1-costas-outro.lado
+
+‘faz tempo, outros Tenetehára, nós fomos para o outro lado de trás de Belém’
+
+5)
+
+Belém i-kupé-kutÈri
+
+kwehé
+
+ro-hó ro-kó
+
+Belem R1-costas- outro.lado
+
+Atest-rem 13-ir 13corr-estar.em.mov
+
+‘para o outro lado de trás de Belém nós estávamos indo’
+
+6)
+
+upáw kezeté kwehé
+
+ro-hó sé kó Canindé-wár-´
+
+todos juntos Atest-rem 13-ir aqui este Canindé-Nom-Arg
+
+º-irú-ramo
+
+no
+
+R1-companheiro-Trans
+
+Rep
+
+‘todos juntos, faz tempo, nós fomos com esta turma toda do Canindé’
+
+7)
+
+a/é-pe
+
+kwehé amó Tenetéhar-´
+
+wá
+
+º-pÈ!ri
+
+zepé
+
+esse-Loc Atest-rem outro Tenetéhar-Arg esses R1-com antes
+
+kwehé ro-hó no kwéj Èriwhú-waj
+
+Èriwhú-waj
+
+Atest-rem 13-ir Rep Perf rio.grande-outro.lado rio.grande-outro.lado
+
+90 ‘lá, faz tempo, com os Tenetehára nós íamos antes do outro lado do rio grande’
+
+8)
+
+kwehé
+
+ro-hó amó Tenetehár-´
+
+Atest-rem 13-ir outro Tenetehár-Arg
+
+‘faz tempo, nós fomos (com) outro Tenetehára’
+
+9)
+
+uru-mopukwáw kwehé
+
+ro-hó pé-pe w´
+
+13-amansar
+
+Atest-rem 13-ir lá-Loc Pl
+
+‘nós fomos amansá-los lá’
+
+10) ihé º-kwaharér-´ 1 R1-ser.criança-Arg
+
+mehé a/é mehé kwehé quando esse quando Atest-rem
+
+na
+
+hé r-emirikó-j
+
+rihí
+
+Neg 1 R1-esposa-Neg ainda
+
+‘quando eu era criança, quando eu ainda não tinha esposa’
+
+11) a-há kwehé
+
+a/é mehé
+
+1-ir Atest-rem esse quando
+
+‘eu fui, faz tempo, nesse tempo’
+
+12) kwehé
+
+hé º-hÈ!-´
+
+u-manó hé º-wí u-k´zÈ!m
+
+Atest-rem
+
+1 R1-mãe-Arg 3-morrer 1 R1-de 3-sumir
+
+‘faz tempo minha mãe morreu, sumiu de mim’
+
+13) kwehé
+
+hé º-hÈ!-´
+
+hé º-wí
+
+Atest-rem 1
+
+R1-mãe-Arg 1
+
+R1-de
+
+‘faz tempo minha mãe (sumiu) de mim’
+
+14) nazewé zó
+
+kwehé hé r-úw-´
+
+hé r-úw-´
+
+kwehé
+
+assim somente Atest-rem 1 R1-pai-Arg 1 R1-pai-Arg Atest-rem
+
+u-k´zÈ!m a/é r-upí kwehé upáw r-upí ru-h´!
+
+ru-h´!j
+
+3-sumir esse R1-por Atest-rem tudo R1-por 13-espalhar 13-espalhar
+
+‘assim, faz tempo, meu pai, meu pai sumiu por aí, faz tempo, por todo lado nós fomos’
+
+15) ro-hó nazewé zó hé r-ekÈ!/Èr-´
+
+no
+
+13-ir assim
+
+só 1 R1-irmão.mais.velho-Arg Rep
+
+91
+
+Nelson no
+
+o-hó kwehé upáw kwehé
+
+Nelson Rep
+
+3-ir Atest-rem tudo Atest-rem
+
+‘assim nós fomos todos, só meu irmão Nelson foi’
+
+16) uru-h´!j
+
+uru-h´!j
+
+uru-há kwehé
+
+tekó
+
+sé
+
+13-espalhar 13-espalhar 13-ir Atest-rem gente aqui
+
+º-pé=apó
+
+º-pé-´
+
+no
+
+R4-caminho=fazer R4-caminho-Arg Rep
+
+‘nós fomos assim, (meu irmão mais velho, Nelson) nós fomos espalhando gente
+
+aqui, fazendo picada’
+
+17) ÈarÈwÈ-hár-´ carro-Nom-Arg
+
+r-apé-º
+
+a-apó p´! no
+
+R1-caminho-Arg 1-fazer Ger Rep
+
+‘fazendo estrada ‘
+
+18) kwehé karaíw-´
+
+mÈtér-ramo
+
+a-há kwehé sé
+
+Atest-rem branco-Arg R4.meio-Trans 1-ir Atest-rem aqui
+
+amó karaíw-´ outro branco-Arg
+‘faz tempo no meio dos brancos eu fui (no meio de) outros brancos’
+
+19) amó t-ekó-háw-pe
+
+no pé karaíw-´
+
+outro R2-estar.em.mov-Nom-Loc Rep lá
+
+branco-Arg
+
+wá esses
+
+n-ekó-háw-pe R1-estar.em.mov-Nom-Loc
+‘em outro lugar, na cidade dos brancos’
+
+20)
+
+a-há kwehé
+
+Altamira r-upí
+
+kwehé
+
+a-há no
+
+1-ir Atest-rem Altamira R1-por Atest-rem 1-ir Rep
+
+‘eu fui por Altamira, faz tempo’
+
+21)
+
+pé º-wí
+
+a-há
+
+lá R1-de 1-ir
+
+no
+
+a-há pé-pe
+
+Rep 1-ir lá-Loc
+
+Itaitú-pe
+
+kwehé a-há no º-pé=apó
+
+p´¤
+
+no
+
+Itaituba-Loc Atest-rem 1-ir Rep R4-caminho=fazer Ger ‘de lá eu fui para Itaituba, faz tempo fazendo (picada)’
+
+92 Rep
+
+22)
+
+pé º-wí
+
+a-há kwehé
+
+pé (o)zakaré zakaré-záw-pe
+
+lá
+
+R1-de 1-ir Atest-rem lá (o) jacaré jacaré-lugar.de-Loc
+
+‘de lá eu fui, lá para Jacareacanga’
+
+23) ma/é coisa
+
+t-ekó-háw-pe
+
+no a-há kwehé
+
+R2-estar.em.mov-Nom-Loc Rep 1-ir Atest-rem
+
+t-ekó-háw-pe
+
+no
+
+R2-estar.em.mov-Nom-Loc
+
+Rep
+
+‘para a aldeia eu fiu, faz tempo, para a aldeia de Humaitá’
+
+Humaitá-pe Humaitá-Loc
+
+24) a/é esse
+
+mehé kwehé
+
+kurÈ! a-zÈwÈ!r tu´!
+
+quando Atest-rem agora 1-voltar Ger
+
+‘nessas circunstâncias, faz tempo, logo eu voltei’
+
+25) a/é esse
+
+mehé kwehé
+
+na hé r-emirikó-j
+
+quando Atest-rem Neg 1 R1-esposa-Neg
+
+‘assim, faz tempo, eu ainda não tinha esposa’
+
+rihí ainda
+
+26) na Neg
+
+hé r-emirikó-j
+
+kwehé
+
+a/é
+
+mehé
+
+1
+
+R1-esposa-Neg Atest-rem esse quando
+
+‘eu ainda não tinha esposa, faz tempo, nessa época’
+
+rihí ainda
+
+27) kwehé
+
+a-zÈwÈ!r kurÈ!
+
+Atest-rem
+
+1-voltar agora
+
+‘faz tempo eu tinha voltado logo’
+
+28) a-r-ekó 1-CCom-estar.em.mov
+
+kwehé kuz´!-º Atest-rem mulher-Arg
+
+karaíw-´ karaíw-´
+
+kuz´!-º
+
+branco-Arg branco-Arg mulher-Arg
+
+‘faz tempo eu tinha mulher branca’
+
+93
+
+29) kwehé Atest-rem
+
+a-r-ekó 1-CCom-estar.em.mov
+
+hé r-emirikó-´ 1 R1-esposa-Arg
+
+kwehé
+
+karaíw-´
+
+kuz´!-º!
+
+Atest-rem
+
+branco-Arg
+
+mulher-Arg
+
+‘faz tempo eu tinha esposa, faz tempo, era mulher branca’
+
+30) pé º-wí
+
+no
+
+a-há kwehé
+
+Santarém-pe
+
+lá R1-de Rep 1-ir Atest-rem Santarém-Loc
+
+‘de lá eu fui para Santarém’
+
+31) kwehé a-há no zautí-pe-kwér-´
+
+wá
+
+º-pÈ!ri
+
+Atest-rem 1-ir Rep jaboti-Loc-Retr-Arg esses R1-com
+
+a-purakÈ! kwehé 1-trabalhar Atest-rem ‘faz tempo eu fui trabalhar com a polícia’
+
+32) a-há Santarém Cuiabá r-apé-º
+
+no pé-pe
+
+1-ir Santarem Cuiabá R1-caminho-Arg Rep lá-Loc
+
+a/é mehé kwehé pé-pe a-ikó esse quando Atest-rem lá-Loc 1-estar.em.mov
+‘eu estava indo lá, (no) caminho de Santarém-Cuiabá’
+
+33) kurÈ! agora
+
+a-zÈwÈ!r kwehé
+
+a-zÈwÈ!r kwehé
+
+tu´!
+
+1-voltar Atest-rem 1-voltar Atest-rem Ger
+
+Santarém Cuiabá
+
+º-wí
+
+Santarém Cuiabá
+
+R1-de
+
+‘agora eu voltei, faz tempo, eu estava voltando (por) Santarém-Cuiabá’
+
+34)
+
+no a-zúr Taitúbi-pe
+
+kurÈ!
+
+Rep 1-vir Taituba-Loc agora
+
+‘eu vim de novo para Itaituba agora’
+
+35) pé-pe
+
+kwehé
+
+a-ikó
+
+mehé a-purakÈ!
+
+lá-Loc Atest-rem 1-estar.em.mov quando 1-trabalhar
+
+FUNAI º-upé
+
+kurÈ!
+
+94
+
+FUNAI R1-para
+
+agora
+
+‘lá, faz tempo, quando eu estava trabalhando na FUNAI, naquele momento’
+
+36) a/é mehé kwehé kwehé a-ikó
+
+pé-pe pé
+
+esse quando Atest-rem Atest-rem 1-estar.em.mov lá-Loc lá
+
+kairaíw-´
+
+a- purakÈ!
+
+branco-Arg 1-trabalhar
+
+p´! i-pú/È! kwehé hé r-emirikó-´ Ger 3-dizer Atest-rem 1 R1-esposa-Arg
+
+hé-we za-há né º-´n´!m-´
+
+wán n-eko-háw-pe
+
+1-Dat 12-ir 2 R1-parente-Arg esses R1-estar.em.mov-Nom-Loc
+
+‘nesse tempo, faz tempo, faz tempo, eu estava lá trabalhando, ela disse, minha
+
+esposa, para mim, nós vamos, para o lugar de seus parentes’
+
+37)
+
+i-/í
+
+kwehé
+
+hé r-emirikó-´ hé-we
+
+3-dizer Atest-rem 1 R1-esposa-Arg 1-Dat
+
+‘ela disse, faz tempo, minha esposa para mim’
+
+38) a/é mehé kwehé hé r-emirikó-´
+
+kurÈ!
+
+esse quando Atest-rem 1 R1-esposa-Arg agora
+
+hé r-a/È!r-´
+
+kwehé kurÈ! hé r-azÈ!r-´
+
+1 R1-filho.de.homem-Arg Atest-rem agora 1 R1-filha.de.homem-Arg
+
+‘então, faz tempo, minha esposa, meus filhos, faz tempo, minhas filhas’
+
+39) a/é mehé kwehé
+
+a-zÈwÈ!r tu hé
+
+esse quando Atest-rem 1-voltar Ger 1
+
+º-´n´!m-´ R1-parente-Arg
+
+wán n-ekó
+
+ka/á-pe
+
+esses R1-estar.em.mov mato-Loc
+
+‘nesse tempo, faz tempo, eu estava voltando (e) meus parentes estavam no mato’
+
+40) a-ikó
+
+a-ikó
+
+sé kurÈ!
+
+1-estar.em.mov 1-estar.em.mov aqui agora
+
+Canindé-º r-ehé
+
+a-ikó
+
+Canindé-Arg R1-a.respeito.de 1-estar.em.mov
+
+a-zÈwÈ!r 1-voltar
+
+kwehé
+
+hé r-emirikó-´ kwehé
+
+Atest-rem 1 R1-esposa-Arg Atest-rem
+
+hé r-erúri
+
+sé hé º-´n´!m-´
+
+1 R1-trazer aqui 1 R1 -parente-Arg
+
+wá
+
+º-pÈ!ri
+
+eles R2-com
+
+95
+‘eu já estava aqui em Canindé, eu já estava voltando, faz tempo (com) minha esposa me trouxe para junto de meus parentes’
+
+41) i-katú
+
+kurÈ! a-atá te-ko:kó
+
+kó r-upí
+
+R2-ter.bondade agora 1-andar 1corr-estar.em.mov:estar.em.mov este R1-por
+
+karaíw-´ branco-Arg
+
+mÈtér-ramo
+
+zó
+
+no
+
+R4 .meio-Trans somente Rep
+
+a/é r-upí esse R1-por
+
+‘está bom, agora, eu estou andando por aqui, pelo meio dos brancos, só por aqui’
+
+42) hé-we i-katú
+
+né
+
+1-Dat R2-ter.bondade né
+
+‘para mim tá bom, né?’
+
+43) amó-Nwér-´ wán º-upé ru/ú i-katú
+
+aipó
+
+outro-Retr-Arg esses R1-para Dub R2-ter.bondade Infer
+
+nazewé zó
+
+hé º-´n´!m-´
+
+w´
+
+assim somente 1 R1-parente-Arg Pl
+
+‘não tenho certeza se tá bom para os meus parentes’
+
+44) no Rep
+
+hé r-aihú=katú
+
+a-ikó
+
+1 R1-gostar=ter.bondade 1- estar.em.mov
+
+na/é´ hé r-aihú=katú não é? 1 R1-gostar=ter.bondade
+
+zapewé ainda
+
+‘(meus parentes) até que gostam de mim, não é?
+
+45) hé º-hó-háw-wer-´
+
+wan º-wí
+
+no
+
+1 R1-ir-Nom-Retr-Arg eles R1-de
+
+Rep
+
+‘minha ida (separação) deles novamente’
+
+46) e-hó zó i-/í
+
+hé-we no zipí
+
+2-ir Neg 3-dizer 1-Dat Rep antes
+
+‘não vá mais! disse para mim’
+
+47) e-hó zó i-/í
+
+hé-we w´ zipí
+
+2-ir Neg 3-dizer 1-Dat Pl antes
+
+96 ‘não vá mais! disseram para mim’
+
+48) ma/é-háw ere-hó r´!m no mÈtér-´ porque 2-ir Imin Rep R4.meio-Arg
+‘para que você vai (para o) meio de gente?’
+
+49) kwehé
+
+re-hó re-ikó
+
+uré º-wí no
+
+Atest-rem 2-ir 2corr-estar.em.mov 13 R1-de Rep
+
+i-/í
+
+hé-we w´ a/é r-upí
+
+3-dizer 1-Dat Pl esse R1-por
+
+‘faz tempo você tinha ido de nós, ele disse para mim, por isso...’
+
+50) na
+
+hé º-hó-háw-ér-i
+
+Neg 1
+
+R1-ir-Nom-Retr-Neg
+
+‘não teve minha vontade de ir’
+
+51) a-há 1-ir
+
+r´m zapé wán º-wí no Imin em vão eles R1-de Rep
+‘eu ia deles de novo’
+
+52) hé º-pÈ/á
+
+hé r-a/È!r-´
+
+wán
+
+1 R1-pensar 1 R1-filho.de.homem-Arg eles
+
+n-ehé R1-a.respeito.de
+
+hé r-azÈ!r-´
+
+r-ehé
+
+hé r-emininó-´
+
+1 R1 -filha.de.homem-Arg R1-a.respeito.de 1 R1-neto-Arg
+
+‘eu penso neles, em meu filho, em minha filha, em meu neto’
+
+53) wán n-ehé
+
+hé º-pÈ/á
+
+eles R1-a.respeito.de
+
+1 R1-pensar
+
+‘neles, eu pensei’
+
+54) a/é r-upí n
+
+a-há=kwáw
+
+esse R1-por Neg 1-ir=saber
+
+º-hó-w´!m-háw-i
+
+nazewé
+
+R1 -ir-Prosp-Nom-Neg assim
+
+nazewé na
+
+hé
+
+assim
+
+Neg 1
+
+97 ‘por isso eu não posso ir, assim não haverá minha ida’
+
+55) a-ikó
+
+kó r-upí zó
+
+a-ikó
+
+r´!m kurÈ!
+
+1- estar.em.mov aqui R1-por somente 1-estar.em.mov Imin agora
+
+‘agora eu só vou estar por aqui’
+
+56) amó mehé a-zemomík
+
+am´!n-´
+
+outro quando 1-ter.tristeza chuva-Arg
+
+w-anóN º-ikó
+
+a-zemomík
+
+te-kó
+
+3-trovejar 3corr-estar.em.mov 1-ter.tristeza 1corr-estar.em.mov
+
+‘tem vez que eu fico triste(quando) está trovejando’
+
+57) a-zemomík am´!n-´ a-inú kó
+
+a-inú am´!n-´ w-anóN
+
+1-ter.tristeza chuva-Arg 1-escutar aqui 1-escutar chuva-Arg 3-trovejar
+
+‘eu escuto a chuva aqui e fico triste, eu escuto a chuva trovejar’
+
+58) a-zemomík a-ma/énukwáw hé º-hÈ!-´
+
+r-ehé
+
+1-ter.tristeza 1-lembrar
+
+1 R1-mãe-Arg R1-a.respeito.de
+
+hé r-úw-´ r-ehé
+
+nazewé a-ikó
+
+r´!m
+
+1 R1-pai-Arg R1-a.respeito.de assim 1-estar.em.mov Imin
+
+ihé-´ nehé no
+
+1-Arg Int
+
+Rep
+
+‘eu fico triste, eu lembro da minha mãe, do meu pai, assim eu vou estar
+
+novamente’
+
+59) a-ítÈk 1-deixar
+
+r´!m hé r-a/È!r-´
+
+aipó
+
+Imin 1 R1 -filho.de.homem-Arg Infer
+
+ihé-´ 1-Arg
+
+nehé no
+
+a/é t-up´!
+
+hé º-pÈ/á-pe
+
+Int Rep esse 1corr-estar.deitado 1
+
+R1-fígado-Loc
+
+‘eu vou deixar meu filho, provavelmente, então, dentro de mim(deitado)’
+
+zipí antes
+
+60) kón
+
+am´!n-´
+
+no a-inú
+
+a-zemomík nazewé
+
+quando chuva-Arg Rep 1-escutar 1-ter.tristeza assim
+
+‘assim quando a chuva (cai) eu escuto (e) fico triste’
+
+98
+
+61) kwehé
+
+a-ikó
+
+Atest-rem 1- estar.em.mov
+
+ma/é-´ hé º-hÈ!-´Náw-´
+
+he´/ú=pukú-´
+
+coisa-Arg 1 R1-mãe-pseudo-Arg mulher.velha=ter.comprimento-Arg
+
+‘faz tempo, coisa, minha madrasta, mulher velha comprida’
+
+62) o-monó-kár kwehé
+
+u-ze/éN º-ikó
+
+hé-we
+
+3-dar-CPrepos Atest-rem 3-falar 3corr-estar.em.mov 1-Dat
+
+‘mandou dar para mim, faz tempo, eu estava falando’
+
+63) a/é mehé kwehé
+
+kurÈ!
+
+a-zúr te-kó
+
+esse quando Atest-rem agora 1-vir 1corr-estar.em.mov
+
+‘nesse tempo, faz tempo, logo eu estava vindo’
+
+64) sé sé hé º-hÈ!-´Náw-´
+
+r-aké
+
+hé º-hÈ!-´
+
+aqui aqui 1 R1-mãe-falsa-Arg R1-perto 1 R1-mãe-Arg
+
+‘aqui perto de minha madrasta, (a comadre) de minha mãe’
+
+65) kwehé hé º- hÈ!-´
+
+º-kumár-´
+
+hé r-úw-´ º-kupár-´
+
+Atest-rem 1 R1-mãe-Arg R1-comadre-Arg 1 R1-pai-Arg R1-compadre-Arg
+
+‘faz tempo, a comadre de minha mãe, o compadre do meu pai’
+
+66) kwehé
+
+no aikwéj hé´/ú
+
+w-ikó
+
+zané-we a/é-´
+
+no
+
+Atest-rem Rep aquela mulher.velha 3-estar.em.mov 12-Dat esse-Arg Rep
+
+‘faz tempo aquela mulher que está velha para nós’
+
+67) hé´/ú=pukú-´
+
+Ruriwáw r-emirikó-´
+
+mulher.velha=ter.comprimento-Arg Ruriwáw R1-esposa-Arg
+
+‘a mulher velha, esposa de Lourival’
+
+68) a/é esse
+
+r-upí a-ze/éN te-kó
+
+a/é
+
+R1-por 1-falar
+
+1corr-estar.em.mov
+
+esse
+
+mehé quando
+
+hé º-hó-háw-ér-´ 1 R1-ir-Nom-Retr-Arg
+
+‘por isso eu estou falando, nesse tempo (de) minha ida’
+
+99
+
+69) sé hé r-ekó-háw-´ aqui 1 R1-estar.em.mov-Nom-Arg
+
+º-wí ma/é-´ R1-de coisa-Arg
+
+hé º-pÈ/á
+
+º-´n´!m-ramo
+
+nehé
+
+1 R1-pensar R1-parente-Trans Int
+
+‘aqui do meu lugar, coisa, eu vou pensar como parente’
+
+70) nazewé zó
+
+té
+
+ihé º-´n´!m-´
+
+i-pÈ/á
+
+assim somente mesmo 1 R1-parente-Arg 3-pensar
+
+‘assim,mesmo meu parente pensa’
+
+71) hé 1
+
+º-´n´!m-´
+
+w´ n-ehé
+
+nazewé zó
+
+i- pÈ/á
+
+R1-parente-Arg Pl R1-em.relação.a assim somente 3-pensar
+
+hé r-ehé
+
+a/é w´ no
+
+1 R1-a.respeito.de esse Pl Rep
+
+‘em relação aos meus parentes eles pensam em mim’
+
+72) amó n-ehé
+
+a-zemomík
+
+kwehé
+
+ihé º-´n´!m-´
+
+outro R1-em relação.a 1-ter.tristeza Atest-rem 1 R1-parente-Arg
+
+w´ n-ehé
+
+wán n-ehé
+
+Pl R1-em relação.a eles R1-a.respeito.de
+
+‘eu fiquei triste por causa de meus outros parentes’
+
+73) a/é mehé akwéj amó hé º-´n´!m-´
+
+sé ma/é-´
+
+esse quando aqueles outro 1 R1-parente-Arg aqui coisa-Arg
+
+‘naquele tempo, aqueles outros meus parentes aqui’
+
+74) karaíw-´ wá n-ekó-háw-´
+
+no a/é r-upí
+
+branco-Arg eles R1-estar.em.mov-Nom-Arg Rep esse R1-por
+
+kwehé
+
+kwehé
+
+aikwéj nazewé rihí
+
+Atest-rem Atest-rem aquela assim
+
+ainda
+
+‘os brancos no lugar deles, por isso, faz tempo, aqueles ainda assim’
+
+75) n
+
+a-ikó-j
+
+karaíw-´ no pú-´
+
+r-upí
+
+Neg 1-estar.em.mov-Neg branco-Arg Rep gente-Arg R1-por
+
+uru-ikó
+
+ma/é-´ ru-purakÈ!
+
+p´!
+
+100
+13-estar.em.mov coisa-Arg 13-trabalhar Ger ‘eu não estou entre gente branca, nós estamos trabalhando’
+
+76) a/é esse
+
+karaíw-´ branco-Arg
+
+purumutar i-katú
+
+amar
+
+R2-ter.bondade
+
+agora agora
+
+n´!n kurÈ! karaíw-´ u-me/é purú=me/é
+
+w-erahÈ!
+
+Neg agora branco-Arg 3-olhar gente=olhar
+
+3-querer
+
+‘gostava de gente,estava bom, agora o branco não quer olhar para a gente’
+
+77) o-me/é h-éahÈ!
+
+karaíw-´
+
+3-olhar R2-olho.raivoso branco-Arg
+
+pú-´
+
+r-ehé
+
+w´
+
+gente-Arg R1-a.respeito.de Pl
+
+‘olha com raiva os brancos, para a gente’
+
+78) a/é r-upí karaíw-´
+
+z-apó-hár-´
+
+zané º-upé
+
+esse R1-por branco-Arg
+
+R2-fazer-Nom-Arg 12 R1-para
+
+‘por isso o branco é malfeitor para nós’
+
+79) e-me/é kwéj
+
+o-hó a/é-pe
+
+ti/í
+
+no
+
+2-olhar aquela 3-ir aí-Loc enfim Rep
+
+‘olha, aquela vez que eles forem aí’
+
+80) ma/é karaíw-´
+
+r-ekó-há-pe
+
+coisa branco-Arg R1-estar.em.mov-Nom-Loc
+
+‘no lugar dos brancos’
+
+81) upáw akwéj u-zeapÈapÈ!-kár
+
+º-ikó
+
+karaíw-´
+
+todos aqueles 3-queimar-C.Prepos 3corr-estar.em.mov branco-Arg
+
+p´! a/é-pe Baí-´
+
+r-upí
+
+w´
+
+Ger ali-Loc Bahi-Arg R1-por
+
+Pl
+
+‘todos aqueles estavam se queimando ali, pela Bahia’
+
+82) ri/í enfim
+
+no nazewé zó
+
+té
+
+a/é r-upí hé º-´n´!m-´
+
+Rep assim somente mesmo esse R1-por 1 R1-parente-Arg
+
+i-hó-n
+
+pé-pe a/é r-upí nazewé
+
+3-ir-Ind.II lá-Loc esse R1-por assim
+
+‘por isso, enfim, meu parente foi por aí assim’
+
+101
+
+83) hé º-muranuháw-´
+
+pé-me a-mumi/ú te-kó
+
+amoté
+
+1 R1-pensamento-Arg 23-Dat 1-contar 1corr-estar.em.mov de.longe
+
+‘meu pensamento a respeito de vocês eu estou contando de longe’
+
+84) w-inú hé º-ze/éN-háw-´ kó r-upí Ana Suelly 3-escutar 1 R1-falar-Nom-Arg aqui R1-por Ana Suelly
+
+r-upí kurÈ!
+
+nazewé
+
+R1-por agora assim
+
+‘ele escuta minha fala por aqui, na casa de Ana Suelly, assim’
+
+85) e-ze/éN i-/í
+
+r´!m a-momi/ú r´!m Ana Suelly-pe
+
+2-falar 3-dizer Imin 1-contar Imin Ana Suelly-Loc
+
+‘fale! ela dirá, eu vou contar lá na Ana Suelly’
+
+86) ma/é té kurÈ! i-/í
+
+r´!m i-zupé a/é
+
+que Gen agora 3-dizer Imin 3-para ele
+
+no i-ze/éN-eté-háw-´
+
+nazewé amó-´
+
+o-zeukajú=katú
+
+Rep R2-falar-Gen-Nom-Arg assim outro-Arg 3-tratar=bem
+
+‘o que agora ele diz mesmo para ele? o outro tratava bem, (com) a fala dele assim’
+
+87) Ana karaíw-´
+
+kuz´!-º
+
+karaíw-´ pú-´
+
+r-ehé
+
+Ana branco-Arg mulher-Arg branco-Arg gente-Arg R1-a.respeito.de
+
+‘Ana, a mulher branca, com respeito à gente’
+
+88) o-hém ´!N´ r-´pÈ!j 3-sair Ana R1-casa
+
+º-wí R1-de
+
+‘ele vem à casa de Ana’
+
+89) úr sé amoamo Tenetehár-´
+
+úr sé
+
+3.vir aqui sempre Tenetehár-Arg 3.vir aqui
+
+‘ele vem aqui sempre, Tenetehára vem aqui’
+
+90) w´ zipí no ma/é me/éN-atú
+
+pú-´
+
+r-ehé
+
+Pl antes Rep coisa
+
+olhar-ter.bondade gente-Arg R1-a.respeito.de
+
+‘primeira coisa olha bem para a gente’
+
+102
+
+91) no n u-me/é=hahÈ!=kwáw pú-´
+
+r-ehé
+
+Rep Neg 3-olhar=raiva=saber gente-Arg R1-a.respeito.de
+
+‘ela não pode olhar com raiva para gente’
+
+92) no h-urÈ!w-eté
+
+pú-´
+
+º-upé
+
+Rep R1-ter.alegria-Gen
+
+gente-Arg R1-para
+
+‘ela é alegre com a gente’
+
+93) a/é zó kwéj a-ze/éN nazewé
+
+aipó
+
+isso só aquilo 1-falar assim
+
+Infer
+
+‘provavelmente é só isso o que eu digo, assim’
+
+94) hé º-ma/énukwáw tÈ!zúj hé º-hÈ!-´
+
+r-ehé
+
+kurÈ!
+
+1 R1-lembrar
+
+helás 1 R1-mãe-Arg R1-a.respeito.de agora
+
+‘mas o que lembrar sobre minha mãe agora’
+
+95) ma/ézeweté a-esák hé º-hÈ!-´
+
+kurÈ!
+
+como
+
+1-ver 1 R1-mãe-Arg agora
+
+‘como eu vejo minha mãe agora?’
+
+96) hé º-ma/énukwáw zepé hé r-úw-´
+
+r-ehé
+
+1 R1-lembrar
+
+ainda 1 R1-pai-Arg R1-a.respeito.de
+
+‘eu lembro ainda de meu pai’
+
+97) no Rep
+
+nazewé zó
+
+té
+
+no ma/ézewé
+
+assim somente mesmo Rep como
+
+zó
+
+no
+
+só mesmo Rep
+
+a-esák r´!m 1-ver Imin
+
+kurÈ! n
+
+a-esák=kwáw h-urÈ!w
+
+agora Neg 1-ver=saber R2-ter.alegria
+
+‘assim somente como eu vou ver agora, eu não posso vê-lo alegre’
+
+98) na/é´ kón
+
+a-k´zÈ!m izé-´ nehé
+
+não.é quando 1-sumir 1-Arg Int
+
+‘não é?quando eu sumir’
+
+103
+
+99) no Rep
+
+a/é mehé zó
+
+za-esák
+
+esse quando somente 12-ver
+
+ru/ú
+
+aipó nehé ou n´!ne
+
+Dub
+
+Infer Int
+
+ou Neg
+
+‘então nós veremos talvez, ou não’
+
+100) a/é hé r-úw-´
+
+kwéj kwehé w-ikó
+
+esse 1 R1-pai-Arg aquele Atest-rem 3-estar.em.mov
+
+nazewé a/é-´
+
+no
+
+na/é´ a/é
+
+assim esse-Arg Rep
+
+não é esse
+
+‘então, meu pai, aquele, faz tempo estava assim, não é?’
+
+101) hé º-toa/ú
+
+te-kó:kó
+
+ihé-´ no
+
+1 R1-ter.velhice 1corr-estar.em.mov:estar.em.mov 1-Arg Rep
+
+‘eu estou bastante velho agora, eu’
+
+102) a/é mehé kwehé hé º-hÈ-´
+
+u-k´zÈm hé º-wí
+
+esse quando Atest-rem 1 R1-mãe-Arg 3-sumir 1 R1-de
+
+‘nesse tempo, faz tempo, minha mãe sumiu de mim’
+
+103) hé r-úw-´
+
+no nazewé nazewé zó
+
+a-ikó
+
+r´!m
+
+1 R1-pai-Arg Rep assim assim somente 1-estar.em.mov Imin
+
+‘(como) meu pai eu vou estar assim’
+
+104) hé r-a/Èr-´
+
+wán º-upé hé r-emininó-´ wán º-upé
+
+1 R1-filho.de.homem-Arg eles R1-para 1 R1-neto-Arg eles R1-para
+
+hé r-emininó-´ w´ nazewé 1 R1-neto-Arg Pl assim
+‘meus filhos, para eles, meus netos, para eles, meus netos, assim...’
+
+105) zané r-apé-´
+
+pit´í zó
+
+té
+
+pit´í zót
+
+né r-apé-´
+
+12 R1-caminho-Arg um somente mesmo um somente 2 R1-caminho-Arg
+
+‘nosso caminho é um só, um só é seu caminho’
+
+104
+
+106) tekó w-atá º-ikó
+
+kwéj r-upí h-etá
+
+gente 3-andar 3corr-estar.em.mov aquele R1-por R2-ter.muitos
+
+zané r-apé-´
+
+kwéj r-upí wá t-atá-háw-´
+
+ka/á-º
+
+r-upí
+
+12 R1-caminho-Arg aquele R1-por eles R4-fogo-Nom-Arg mato-Arg R1-por
+
+‘a gente estava andando por aquele (lugar), havia muita gente por aquele nosso caminho,o
+
+incêndio deles pelo mato’
+
+107) wá t-atá-háw-´
+
+zané r-apé-´
+
+pit´í zó
+
+eles R4-fogo-Nom-Arg 12 R1-caminho-Arg um somente
+
+‘o incêndio deles, nosso caminho, só um’
+
+té mesmo
+
+108) tekó gente
+
+u-manó a/é-´
+
+zané r-apé-´
+
+3-morrer esse-Arg 12
+
+R1-caminho-Arg
+
+‘gente morreu pelo nosso caminho’
+
+r-upí R1-por
+
+109) pit´í zó
+
+zané r-apé-´
+
+aipó
+
+a/é
+
+um somente 12
+
+R1-caminho-Arg
+
+Infer
+
+isso
+
+r-upí u-me/é kwehé R1-por 3-olhar Atest-rem
+‘só um, nosso caminho, provavelmente por isso ele olhou, faz tempo’
+
+110) a-há karaíw-´ mÈtér-amo a-há te-kó
+
+kurÈ! wé té
+
+1-ir branco-Arg R4.meio-Trans 1-ir 1corr-estar.em.mov agora ainda Gen
+
+karaíw-´
+
+w´
+
+branco-Arg Pl
+
+‘eu estava indo pelo meio dos brancos, eu estava indo naquele momento’
+
+111) hé-we hé r-úw-´
+
+º-zÈwÈ!r kwehé
+
+hé r-emirikó-´
+
+hé r-erúr
+
+1-Dat 1 R1-pai-Arg R1-voltar Atest-rem 1 R1-esposa-Arg 1 R1-trazer
+
+‘para mim meu pai voltou faz tempo, e minha mulher me trouxe’
+
+112) w´ sé hé º-´n´!m-´
+
+w´ Tekoháw-pe
+
+Pl aqui 1 R1-parente-Arg Pl Tekoháw-Loc
+
+‘aqui, (para) meus parente, no Tekoháw’
+
+105
+
+113) a/é r-upí a-ikó
+
+a-ikó
+
+kó r-upí
+
+isso R1-por 1-estar.em.mov 1-estar.em.mov aqui R1-por
+
+kurÈ! hé º-´n´!m-´
+
+wán mÈtér-ramo
+
+agora 1 R1-parente-Arg eles R4.meio-Trans
+
+‘por isso eu estou, eu estou por aqui, agora e meus parentes (também) no meio deles’
+
+114) n
+
+a-kwáw kwehé Tenetehár-´ º-ze/éN-háw-´
+
+w´ rihí
+
+Neg 1-saber Atest-rem Tenetehár -Arg R1-falar-Nom-Arg Pl ainda
+
+‘faz tempo eu ainda não sabia a fala dos Tenetehára’
+
+115) zó só
+
+karaíw-´ zé
+
+º-ze/éN-háw-´
+
+a-kwáw zé
+
+branco-Arg diz que R1-falar-Nom-Arg 1-saber diz que
+
+‘só a fala dos brancos eu sabia, disque’
+
+116) kwehé
+
+a-kwáw
+
+Atest-rem 1-saber
+
+te-kó
+
+rihí zó
+
+a-zÈwÈ!r
+
+1corr-estar.em.mov ainda somente 1-voltar
+
+‘faz tempo, eu ainda sabia, eu voltei’
+
+117) kwehé sé hé º-´n´!m-´
+
+mÈté-pe
+
+kurÈ! a-ze/éN
+
+Atest-rem aqui 1 R1-parente-Arg R4.meio-Loc agora 1-falar
+
+‘faz tempo aqui no meio de meus parentes, agora eu falo’
+
+118) kwehé
+
+hé º-´n´!m-´
+
+hé º-irú-ramo
+
+Atest-rem 1 R1-parente-Arg 1 R1-companheiro-Trans
+
+kurÈ! n a-kwáw wá agora Neg 1-saber eles
+
+º-ze/éN-háw -´ R1-falar-Nom-Arg
+
+kwehé
+
+kwehé
+
+kurÈ!¤
+
+Atest-rem Atest-rem agora
+
+‘faz tempo, meus parentes, comigo, eu não sabia a fala deles, faz tempo,
+
+faz tempo agora’
+
+119) a/é-´ esse-Arg
+
+u-/ár ihé 3-cair 1
+
+º-k´!N-pe
+
+kurÈ!
+
+R1-cabeça-Loc agora
+
+‘então ela caiu na minha cabeça (a língua) agora’
+
+106
+
+120) ihé º-´n´!m-´
+
+wá º-ze/éN-háw-´
+
+kurÈ!¤ né re-kwáw
+
+1 R1-parente-Arg eles R1-falar-Nom-Arg agora 2 2-saber
+
+ru/ú
+
+né º-hÈ!-´ u-ze/éN-´
+
+i-/í kwehé
+
+Dub
+
+2 R1-mãe 3-falar-Arg
+
+3-dizer Atest-rem
+
+‘a fala deles, de meus parentes, agora, você sabe, talvez sua mãe falasse, ele dizia, faz
+
+tempo’
+
+121) hé º-hÈ!-´Náw-´
+
+kwehé º-ikó
+
+no
+
+1 R1-mãe-pseudo-Arg Atest-rem 3corr-estar.em.mov Rep
+
+hé-we 1-Dat
+
+zipí né º-kwaharér-´
+
+mehé re-hó m´r´zew´! né-´ re-kwáw
+
+sempre 2 R1-ser.criança-Arg quando 2-ir como
+
+2-Arg 2-saber
+
+ma/é-´
+
+uré
+
+coisa-Arg 13
+
+º-ze/éN-´ kurÈ! R1-falar-Arg agora
+
+‘minha madrasta, faz tempo, estava sempre (dizendo) para mim: -- quando você era
+
+criança, como você sabia nosso falar’
+
+5.2.2.1 Interferência do Português na fala de um índio Tembé do grupo 1 Há no texto de E. nomes próprios como Nelson, Rurival, Ana Suelly, os
+topônimos Belém, Altamira, Itaituba, Humaitá, Santarém, Cuiabá, o nome da instituição governamental que se ocupa dos índios, FUNAI, assim como os nomes papai, comadre e compadre. Os nomes próprios do Português têm-se fixado no Tembé enquanto empréstimos, assim como os topônimos, muitos dos quais são de origem indígena, mas não Tembé ou Ka’apór, como são os casos de Humaitá, Cuiabá e Itaituba. Palavras como comadre e compadre que não têm correspondentes exatos na língua nativa, constituem empréstimos, já bem estabelecidos, inclusive tendo sido adaptados à fonologia da língua indígena como kupár´ e kumár´. Os exemplos abaixo foram retirados do texto do Elias Tembé e mantêm a numeração original:
+
+65) kwehé
+
+hé º-hÈ!-´
+
+º-kumár-´ hé r-úw-´ º-kupár-´
+
+Atest-rem 1 R1-mãe-Arg R1-kumár-Arg 1 R1-pai-Arg R1-kumpár-Arg
+
+‘faz tempo, a comadre de minha mãe, o compadre do meu pai’
+
+Alguns nomes próprios, foram adaptados à fonologia do Tembé, como o próprio nome Elias [irí´] e Lourival [ruriBáw].
+
+107
+
+67) hé´/ú=pukú-´
+
+Ruriwáw r-emirikó-´
+
+mulher.velha=ter.comprimento-Arg Ruriwáw R1-esposa-Arg
+
+‘a mulher velha, esposa de Lourival’
+
+85) e-ze/éN i-/í
+
+r´!m a-momi/ú r´!m Ana Suelly-pe
+
+2-falar 3-dizer Imin 1-contar Imin Ana Suelly-Loc
+
+‘fale! ela dirá, eu vou contar lá na Ana Suelly’
+
+A instância da palavra papai é certamente um caso de code-switching, uma vez que a palavra para pai na língua nativa é de alta freqüência na fala dos falantes do Tembé em geral, como pode ser visto no texto acima. Note-se que os topônimos emprestados são encaixados nas estruturas nativas e recebem a morfologia apropriada, como qualquer elemento da classe a que se associam:
+
+30) pé º-wí
+
+no
+
+a-há kwehé
+
+Santarém-pe
+
+lá R1-de Rep 1-ir Atest-rem Santarém-Loc
+
+‘de lá eu fui para Santarém’
+
+A conjunção quando que aparece no texto em lugar de mehé, que equivale a quando em Tembé, como nas demais instâncias de quando no texto em questão, trata-se de uma instância de code-switching.
+
+60) kón
+
+am´!n-´
+
+no
+
+a-inú
+
+a-zemomík nazewé
+
+quando chuva-Arg Rep
+
+1-escutar 1-ter.tristeza assim
+
+‘assim quando a chuva (cai) eu escuto (e) fico triste’
+
+Registramos também uma instância da palavra agora, cujo uso começa a ser cada vez mais freqüente na fala dos Tembé, assim como da forma na/é´ ‘não é?’ que tem penetrado no Tembé com as mesmas funções discursivas do Português, uma marca usada tanto para chamar a atenção do ouvinte com respeito ao que diz o locutor, quanto para insistir sobre uma concordância por parte do ouvinte em relação ao que é dito:
+
+76) a/é esse
+
+karaíw-´ branco-Arg
+
+purúmutar amar
+
+i-katú R2-ter.bondade
+
+agora agora
+
+108
+
+n´!n kurÈ! karaíw-´
+
+u-me/é
+
+purú=me/é w-erahÈ!
+
+Neg agora branco-Arg 3-olhar
+
+gente=olhar 3-querer
+
+‘gostava de gente, estava bom, agora o branco não quer olhar para a gente’ (E.)
+
+44) no Rep
+
+hé r-aihú=katú
+
+a-ikó
+
+1 R1-gostar=ter.bondade 1- estar.em.mov
+
+na/é´ hé r-aihú=katú não é? 1 R1-gostar=ter.bondade
+
+zapewé ainda
+
+‘(meus parentes) até que gostam de mim, não é?
+
+5. 3 Conclusão Os objetivos deste capítulo foram mostrar instâncias de prováveis
+interferências do Português em dois textos orais de falantes do Tembé, que fazem uso de variedades mais conservadoras dessa língua, e fazer algumas observações sobre a natureza e dimensão dessa interferência, assim como sobre o que elas podem representar como ameaça para a vitalidade e a continuidade da língua nativa. Neste capítulo, além disso, pretendeu-se encontrar indicações dos prováveis mecanismos por meio dos quais a interferência do Português tem ocorrido.
+Os resultados das análises dos dois textos mostram que nomes que referem elementos culturais do branco, verbos que exprimem processos (no sentido genérico do termo) relacionados com o conhecimento dos brancos, assim como partículas adverbiais, conjunções coordenadas e um marcador discursivo já constituem empréstimos do Português bem estabelecidos na língua Tembé. Pelo menos um marcador discursivo do Português já se estabeleceu como empréstimo, o não é? ( na/é´ ?) em Tembé. Por outro lado, advérbios temporais e conjunções subordinadas tendem a se estabelecer no léxico da língua nativa, por meio de code-switching.
+Quanto às instâncias de code-switching identificadas, todas elas são intrasentenciais. Por outro lado, há indicações de que algumas das mudanças que já ocorreram no Tembé podem ter sido resultado de influência de padrões funcionais e estruturais do Português, mas não exclusivamente resultantes dessa influência.
+
+109
+Uma comparação dos resultados obtidos na análise dos dois textos mostra também que o falante mais idoso é que menos faz uso de code-switching e o que usa menos empréstimos do Português. Contudo, há a possibilidade de que o tipo de discurso e o próprio contexto em que as falas ocorreram possam ter determinado uma maior ou menor ocorrência de code-switching e de empréstimo.
+6. CONCLUSÃO
+
+110
+Um dos primeiros resultados obtidos por meio do presente estudo aponta para a existência de um contínuo de proficiência observado entre os habitantes de Tekoháw, ao longo do qual falantes proficientes se distinguem de falantes com conhecimento menos proficientes, e estes de falantes imperfeitos, os quais, por sua vez, se distinguem de pessoas que entendem, mas não falam o Tembé. No final desse contínuo estão aqueles que conhecem apenas algumas palavras dessa língua. Contínuos como esse são típicos de contextos de línguas em fase terminal (DORIAN 1973, 1977, 1980; MITHUN, 1989; CAMPBELL, 1976, 1985; CAMPBELL & MUNTZEL, 1989; THOMASON, 2001; entre outros).
+Por outro lado, mesmo sendo esse contínuo identificado na aldeia de Tekoháw, os falantes proficientes, os quais, segundo depoimento de Porútu (2001), são aproximadamente umas 30 pessoas, falam uma língua plena, apesar de todas as mudanças sofridas e em processo nessa língua e dos quase quatrocentos anos de contato de seus falantes com falantes nativos do Português e com outras línguas Tupí-Guaraní, como o Ka’apór e a Língua Geral Amazônica, ou com línguas de outras origens genéticas, como é o caso do Canela (família Jê do tronco Macro-Jê) falado no Maranhão.
+No que diz respeito às mudanças estruturais observadas no Tembé, tanto as mudanças já concretizadas, quanto as mudanças em processo, os resultados do estudo revelam que todas elas têm implicado em perda de material morfológico, o que tem simplificado a estrutura morfológica das palavras e os padrões morfossintáticos da gramática Tembé.33 Por outro lado, as mudanças observadas, apesar de simplificadoras, um tipo de mudança que segundo THOMASON (2001) é típico de atrito, não têm contribuído para tornar o Tembé mais parecido com a língua dominante. Por outro lado, as reduções ocorridas no Tembé têm, de certo modo, tornado essa língua mais próxima da língua dos Ka’apór, seus vizinhos. Mas, pelo menos com respeito a um importante traço, o Tembé tem se tornado mais parecido com o Português e com o Ka’apór, pois a sua tendência tem sido tornar-se cada vez mais analítico.
+Quanto à presença de elementos lexicais e estruturais do Português no Tembé, os resultados das análises apresentadas no capítulo 5 mostram que os empréstimos do
+33 THOMASON (2001, p. 310), ao comentar sobre mudanças que simplificam a gramática, observa que, “embora os lingüistas históricos acreditem que uma mudança que simplifica a gramática em um lugar
+
+111
+Português são essencialmente nomes de elementos culturais dos brancos que não têm equivalentes na cultura indígena, assim como marcadores discursivos e conjunções. Esses últimos implicam também em mudanças estruturais, como é o caso da conjunção e. Todos esses elementos podem ter entrado no Tembé por meio de code-switching. THOMASON (2001) observa que a inserção de palavras que não têm equivalentes na língua receptora é especialmente comum em code-switching “as is lexical borrowing of such words.” Para Thomason, interferência estrutural pode também resultar de codeswitching, como é o caso da presença da conjunção and do Inglês nas sentenças do Maori.34
+Por outro lado, vários dos elementos do Português encontrados nos textos analisados e que não têm ocorrência sistemática, alguns dos quais seguidos de autocorreção, são aqui interpretados como instâncias de code-switching, e esses casos podem ilustrar a possibilidade de os elementos do Português, que têm na atualidade o status de empréstimo em Tembé, terem entrado inicialmente na língua nativa por meio de code-switching.
+Alguns casos de mudanças estruturais em processo no Tembé podem ter sido, pelo menos em parte, resultado de convergência, como é o caso da mudança em processo que envolve a reinterpretação da palavra companheiro flexionada no caso translativo como uma posposição, com o significado de ‘com’ (‘implemento’ e ‘companhia’). CAMPBELL & MUNTZEL (1989) chamam a atenção para o fato de que, em alguns casos, pode ser difícil distinguir algumas mudanças que são decorrentes do processo de morte de uma língua das conseqüências de outros mecanismos de mudança em línguas em contato com outras línguas. Segundo esses autores, no caso do Pipil, por exemplo, wan ‘com’ era originalmente um substantivo relacional, estruturalmente funcionava como uma raiz de substantivo, e podia receber prefixos pronominais possessivos - nu-wan ‘comigo’, mu-wan ‘contigo’. Contudo, como mostram eles, wan,
+possa complicá-la em outro lugar, isso não necessariamente acontece, e existem exceções em todas as línguas, não apenas em línguas moribundas.” 34 A explicação dada por Thomason a substituição em processo é “...apparently because the simple English co-ordinating construction with and is so much easier to use than the much more complex Maori system of co-ordination. And there is evidence that this English feature is connected with ongoing change in Maori, as the Maori preposition me ‘with’ expands its range of usage to converge with the use of and in English” (Tradução: “ ...aparentemente porque a simples construção de coordenação do Inglês com e é muito mais fácil usar do que o sistema de coordenação mais complexo do Maori. E existe evidência que este traço do Inglês está conectado com mudanças futuras em Maori, como a preposição me ‘com’ expande seu âmbito de uso para convergir com o uso do e em Inglês”) (THOMASON, 2001, p. 136).
+
+112
+assim como ocorreu com outros substantivos relacionais, não é mais marcado por prefixos possessivos e tornou-se uma preposição como a preposição ‘con’ do Espanhol.
+
+nin nemi nu-chan ti-se:n-nemi-t
+
+wan se: nu-amiguh
+
+here I-am my-house we-together-are-pl with a my-friend 'here I am at my house, sitting together with my friend'35 (CAMPBELL &
+MUNTZEL, 1989, p.195 )
+
+Para esses autores, pode-se suspeitar que essa mudança nos substantivos relacionais foi influenciada pelo Espanhol. Entretanto, eles consideram que existem mudanças completamente paralelas como as que aconteceram em dialetos do Nahuatl, línguas irmãs do Pipil, que mostram a dificuldade de distinguir mudanças induzidas pelo contato com uma outra língua das mudanças relacionadas à situação de morte de uma língua.
+Retornando ao caso translativo do Tembé, provavelmente várias motivações teriam contribuído para a mudança do seu status gramatical. Por um lado, há a possibilidade de convergência com o Português e/ou com o Ka’apór e, por outro lado, há a possibilidade dessa mudança ter sido também resultado de atrito.
+Comparando os resultados do presente estudo com as predições feitas por SASSE (1992) com respeito à morte de línguas, podemos dizer que algumas delas se confirmam no caso do Tembé, enquanto que outras se mantêm apenas parcialmente. Assim, o caso do Tembé oferece indicações adicionais de que a má distribuição do uso das línguas em contextos multilingües leva à pressão sobre a população minoritária. Por outro lado, não se confirma, por meio do caso do Tembé, o desenvolvimento de uma atitude negativa do grupo minoritário, que culminaria com a decisão de abandonar a língua. Mesmo que continuem a existir atitudes negativas dos Tembé em relação ao uso da língua nativa, cresce cada vez mais entre os do Tekoháw a consciência de que o conhecimento da língua nativa é de grande importância na luta por seus direitos enquanto índios.
+
+35 ‘aqui eu estou em minha casa, sentado junto com meu amigo’
+
+113
+Uma outra predição do modelo de Sasse se confirma: é a de que os eventos históricos ditam a restrição da língua da comunidade a certos domínios, o que leva ao aumento dos níveis de bilingüismo entre os membros do grupo minoritário e às decisões de abandonar a língua nativa, com a quebra da transmissão da língua nativa para as gerações mais novas. A comunidade Tembé do Guamá muito provavelmente viveu esse processo, como também outras comunidades Tembé situadas no Alto Gurupí. Outra predição que se confirma no caso do Tembé é a de que os membros da comunidade podem reter conhecimento residual da língua em poucos domínios. Esse é o quadro da reserva do Guamá e de algumas aldeias do Gurupí.
+Os resultados do presente estudo mostram também que a maioria das mudanças estruturais observadas têm sido resultado de nivelamentos analógicos, mesmo no caso da mudança que tem afetado o caso translativo, pois o morfema original vem-se tornando mais parecido com as várias posposições do Tembé.
+Finalmente, os resultados do presente estudo mostraram que, se por um lado, a gramática do Tembé já se encontra bastante simplificada, em comparação com as línguas mais conservadoras da família, na fala dos falantes proficientes, o Tembé é uma língua plena, cheia de vitalidade, estando sua continuidade dependente de condições políticas e sociais que favoreçam a sua longevidade.
+Embora com sua gramática reduzida, a língua Tembé resiste e, no ponto em que as mudanças chegaram, parece que a língua Tembé tem mais chance de sobreviver da forma em que se encontra na atualidade, por estar mais analítica e com um número balanceado de empréstimos do Português. Essas características podem, dessa forma, corresponder a sinais de longevidade. Eric Hamp (em comunicação pessoal, outubro de 2001) observou que uma língua é como um camaleão, que muda de cor para sobreviver às adversidades do meio ambiente. É possível, então, que a língua Tembé tenha, em parte, se modificado para poder sobreviver, desafiando os múltiplos fatores que têm conspirado, ao longo de séculos, para o seu desaparecimento.
+Referências Bibliográficas
+
+114
+ANCHIETA, J. de. Arte de grammatica da lingua mais usada na costa do Brasil. Coimbra, 1595. Edições fac-similares: Leipzig: Teubner, 1876; Rio de Janeiro: Biblioteca Nacional, 1933; São Paulo: Anchietana, 1946; Salvador: Universidade Federal da Bahia, 1980; Salvador: Universidade Federal da Bahia, 1981; São Paulo: Loyola, 1990.
+BETTENDORFF, Pe. J. F.. Crônica dos Padres da Companhia de Jesus no Estado do Maranhão. Belém: Fundação Cultural do Pará/ Secretaria de Estado da Cultura, 1990 [1910].
+BOUDIN, M. H. Dicionário de Tupí-Moderno. São Paulo: Faculdade de Filosofia, Ciências e Letras de Presidente Prudente, 1966.
+______. Dicionário de Tupí-Moderno (dialeto Tembé-Ténêtéhar do alto rio Gurupí). São Paulo: Conselho Estadual de Artes e Ciências Humanas, 1978. 2 v.
+CABRAL, A. S. A. C. Prefixos Relacionais no Asuriní do Tocantins. Moara, Belém, n. 8, p.7-24, jul./dez. 1997.
+______. Aspectos da marcação de caso no Asuriní do Tocantins. In: I ENCONTRO NACIONAL DA ANPOLL, 13, Campinas, 1998. Anais....Campinas: UNICAMP, 1998.
+______. Particules Épistémiques de la Famille Linguistique Tupí-Guaraní. In: Guentchéva, Z.; Landaburu, J. (orgs.). Enonciation médiatisée et les sources du savoir. Paris: PEETERS, 1999. No prelo.
+______. Observações sobre a história do morfema -a na família Tupí-Guaraní. In Queixalós, F. (org.). Des noms et des verbs en Tupí-Guaraní, état de la question. Cayenne: IRD, 2000a. p. 63-74.
+______. Algumas observações sobre a história social da Língua Geral Amazônica. In: Simões, M. do S.. Memória e Comunidade: Entre o rio e a floresta. Belém: Gráfica Universitária/UFPA, 2000b p. 103-129.
+______. O desenvolvimento da marca de objeto de segunda pessoa plural em TupíGuaraní. In: Cabral, A. S. A. C; Rodrigues, A. D. (orgs.). Estudos sobre línguas indígenas. Belém: Gráfica da UFPA, 2001a. p.117-146.
+______. Prefixos relacionais na família Tupí-Guaraní. In: Soares, M. E. (org). Boletim da ABRALIN. Fortaleza: Imprensa Universitária/UFC, 2001b, n. 25, p. 233-262.
+CAMPBELL, L. The last Lenca. International Journal of American Linguistics, n. 42, p. 73-78. 1976.
+______. The Pipil language of El Salvador. Berlin: Mouton, 1985.
+
+115
+CAMPBELL, L.; MUNTZEL, M. C. The structural consequence of language death. In: Dorian, N. C. (org.). Investigating obsolescence: studies in language contraction and death. Cambridge: Cambridge University Press, 1989. p. 181-196.
+CARVALHO, M. G. P. Mudanças estruturais em processo em Tembé. In: I ENCONTRO INTERNACIONAL DO GTLI DA ANPOLL, Belém, 2001. Actas...Belém: Universidade Federal do Pará, 2001. No prelo.
+CAVALCANTE, M. P. Fonologia e morfologia da língua Kaingáng: o dialeto de São Paulo comparado com o do Paraná. 1987. 144 f. Tese (Doutorado em Lingüística) Curso de Pós-graduação em Lingüística, Universidade Estadual de Campinas, Campinas.
+COUCHILI, T.; MAUREL, D.; QUEIXALÓS, F. Classes de lexèmes en Emérillon. 2000. No prelo.
+DODT, G. Descrição dos rios Parnaíba e Gurupí. In: Coleção Reconquista do Brasil(Nova Série). Belo Horizonte: Livraria Itatiaia Editora Limitada 1981 [1873]. v.38.
+DORIAN, N. C. Grammatical change in a dying dialect. Language, n. 49, p. 413-38, 1973.
+______. The problem of the semi-speaker in language death. International Journal of the Sociology of Language, n.12, p. 23-32, 1977.
+______. Linguistic lag as an ethnic marker. Language in Society, n. 9, p. 33-41, 1980.
+______. Language death: the life cycle of a Scottish Gaelic dialect. Philadelphia: University of Pennsylvania, 1981.
+DUARTE, F. B. Análise Gramatical das orações da língua Tembé. 1997. 85 f. Dissertação (Mestrado em Lingüística) - Curso de Pós-graduação em Lingüística, Instituto de Letras da Universidade de Brasília, Brasília.
+______. Ordem de constituintes na língua Tembé. In: COLÓQUIO DE ESTUDOS LINGÜÍSTICOS DO PROGRAMA DE PÓS-GRADUAÇÃO DO MESTRADO EM LETRAS DA UNIVERSIDADE FEDERAL DE JUIZ DE FORA, Juiz de Fora, 2000. Anais.... Juiz de Fora: Universidade Federal de Juiz de Fora, 2000. ______. Negação frásica na língua Tembé. In: I ENCONTRO INTERNACIONAL DO GTLI DA ANPOLL, Belém, 2001. Actas...Belém: Universidade Federal do Pará, 2001. No prelo.
+EIRÓ, J. G. Contribuição à análise fonológica da Língua Tembé. 2001. 70 f. Dissertação (Mestrado em Lingüística) - Curso de Pós-graduação em Letras, Universidade Federal do Pará.
+
+116
+FIGUEIRA, L. Arte de grammatica da lingua brasilica. Lisboa: M. Deslandes, 1687. (Reedição fac-similar. Leipzig: Teubner, 1678).
+GAL, S. Language shift: social determinants of linguistic change in bilingual Austria. New York: Academic Press, 1979.
+GRENAND, F. Dictionnaire Wayãpí-Français, Lexique Français-Wayãpi (Guyanne française). Paris: Peeters/SELAF, 1989.
+HAAS, M. R. The last words of Biloxi. In: International Journal of American Linguistics, n. 34, p. 77-84, 1968.
+HAMP, E. P. On signs of health and death. In: Dorian, N. C. (org.). Investigating obsolescence: studies in language contraction and death. Cambridge: Cambridge University Press, 1989. p. 197-210.
+HEATH, J. From code-switching to borrowing: a case study of Moroccan Arabic. London: Kegan Paul International, 1989.
+HILL, J. H. Subordinate clause density and language function. In: Corum, Smith-Stark & Weiser, 1973.
+______. Language death, language contact and language function. In: Corum, SmithStark & Weiser, 1978.
+______. Language death in Uto-Aztecan. In: THE CONFERENCE ON UTOAZTECAN LINGUISTICS. Anais... Albuquerque, 1980. Manuscrito.
+______. Language death in Uto-Aztecan. In: International Journal of American Linguistics, n. 49, p. 258-276, 1983.
+______. The social functions of relativization in obsolescent and non-obsolescent languages. Dorian, N. C. (org.), Investigating obsolescence: studies in language contraction and death. Cambridge: Cambridge University Press, 1989. p. 149-166.
+HURLEY, J. Nos sertões do Gurupí. Belém,1928.
+______. Vocabulário Tupí-Português falado pelo Tembé dos rios Gurupí e Guamá do Pará. Revista do Museu Paulista, São Paulo, v. 17, p. 323-351. 1931.
+JAKOBSON, R. On Language. Cambridge/London: Harvard University Press, 1990 [1936]. p. 332-385.
+MAGALHÃES, J. V. C. de. O Selvagem. Rio de Janeiro: Typographia da Reforma, 1876.
+
+117
+MITHUN, M. The incipient obsolescence of polysynthesis: Cayuga in Ontario and Oklahoma. In: Dorian, N. C. (org.). Investigating obsolescence: studies in language contraction and death. Cambridge: Cambridge University Press, 1989. p. 243-257.
+MONSERRAT, R. M. F. Suruí: notas de trabalho de campo. Manuscrito.
+NIMUENDAJÚ, C. Vocabulários da Língua Geral do Brasil nos dialetos dos Manajué do rio Ararandéu, Tembé do Acará Pequeno e Turiwara do rio Acará Grande, Estado do Pará. Zeitschrift für Ethnology. v. 46, p. 615-618. Berlin, 1914.
+______. Mapa etno-histórico de Curt Nimuendajú. Rio de Janeiro: IBGE,1981.
+RICARDO, C. A. (Coordenador-Geral). Povos Indígenas no Brasil: Sudeste do Pará (Tocantins). v. 8. São Paulo: CEDI (Centro Ecumênico de Documentação e Informação), 1985.
+RICE, F. J. D. O idioma Tembé (Tupi-Guarany). Journal de la Société des Américanistes, Paris, v. 26, 1934.
+RODRIGUES, A. D. Morfologia do verbo tupi. Letras .Curitiba n. 1, p. 121-152, 1953.
+______. Estrutura do Tupinambá , 1981. Manuscrito.
+______. Relações internas na família lingüística Tupí-Guaraní. Revista de Antropologia. São Paulo, n. 27/28, p. 33-53, 1985.
+______. Línguas indígenas: 500 anos de descobertas e perdas. Ciência Hoje, v. 16, n. 95, p. 20-26, 1993a.
+______. Línguas indígenas: 500 anos de descobertas e perdas. D.E.L.T.A, São Paulo, v. 9, n. 1, p. 83-103, 1993b.
+______. Argumento e predicado em Tupinambá. Boletim da Associação Brasileira de Lingüística. Maceió, v. 19, p. 6-18, 1996.
+______. Sobre a natureza do caso argumentativo. In: Queixalós, F. (org.), Des noms et des verbs en Tupí-Guaraní, état de la question, Cayenne: IRD, 2000a. p. 63-74.
+______. Caso em Tupí-Guaraní, particularmente em Tupinambá. In: CONGRESSO DA ANPOLL, 13, Niterói, Síntese 2000. Anais.... Niterói: ANPOLL, 2000b.
+______. Alguns problemas em torno da categoria lexical verbo em línguas Tupí-Guaraní. In: Cabral, A. S. A. C; Rodrigues, A. D. (orgs.). Estudos sobre línguas indígenas. Belém: Gráfica da UFPA, 2001. p.87-100.
+RODRIGUES, A. D.; CABRAL, A. S. A. C. Revendo a classificação interna da família Tupí-Guaraní. In: I ENCONTRO INTERNACIONAL DO GTLI DA ANPOLL, 1, Belém, 2001. Actas...Belém: ANPOLL, 2001. No prelo.
+
+118
+SASSE, H.-J. Theory of language death. In: Brenzinger (ed.), 1992. p. 7-30.
+SEKI, L. Gramática Kamaiurá: uma língua Tupí-Guaraní do Alto Xingu. Campinas: Editora da UNICAMP, 2000.
+SILVA, T. F. de. Classes Verbais e algumas questões pragmáticas em Ka’ apór. 2001. 79 f. Dissertação (Mestrado em Lingüística) - Curso de Pós-graduação em Letras, Universidade Federal do Pará, Belém.
+SNETHLAGE, E. H. Worte und texte der Tembé-Indianer. Aufgezeichnet von Cyriaco Batista (Tembé). Revista del Instituto de Etnología, Universidad Nacional de Tucumán, v. 2, p. 347-393, 1932.
+SWADESH, M. Notas sociológicas sobre as línguas obsolescentes. Boletim de Filologia, Rio de Janeiro, n. 8, ano II, p. 195-211, out./dez. 1948.
+THOMASON, S. G. Language Contact: An Introduction. Edinburgh: Edinburgh University Press, 2001.
+THOMASON, S. G.; KAUFMAN, T. Language Contact, Creolization, and Genetic Linguistics. Berkeley: University of California Press, 1988.
+VIEIRA, M. D. O fenômeno de não-configuracionalidade na língua Asuriní do Trocará: um problema derivado da projeção dos argumentos verbais. 1993. Tese (Doutorado em Lingüística) - Curso de Pós-graduação em Lingüística, Universidade Estadual de Campinas, Campinas.
+______. Os parâmetros da configuracionalidade e da projeção e a língua Asuriní do Trocará. Revista Latinoamericana de Estudios Etnolingüísticos, Lima, v. 8, p. 135-50, 1994.
+WAGLEY, C.; GALVÃO, E. Os índios Tenetehára: Uma cultura em transição. Rio de Janeiro: Ministério da Educação e Cultura, 1955.
+
+119
+ANEXO
+
+120
+Localização das áreas Tembé
+mapa do CIMI (1985) modificado
+nº 48 acima, à esquerda, Reserva Indígena do Guamá nº 48 acima, à direita, Reserva Indígena do Alto Turiaçú
+
+

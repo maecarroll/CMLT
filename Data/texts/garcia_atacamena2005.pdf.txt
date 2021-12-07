@@ -1,0 +1,792 @@
+PEYRÓ GARCÍA: ESTRUCTURAS GRAMATICALES EN EL GLOSARIO
+
+25
+
+LIAMES 5 - pp. 25-42, Primavera 2005
+
+Miguel Peyró García (Universidad de Sevilla, España)
+Estructuras gramaticales en el Glosario de la Lengua Atacameña (1896)
+ABSTRACT: The Glosario de la Lengua Atacameña [A Glossary of Atacaman Language] is the most complete inventory of Atacaman or Kunza materials recorded during the last steps of this extinct Andean language, in the last few years of the XIX century. The study of a great amount of morphological complex items that can be found in its pages, allows us to reconstruct some derivative and inflectional structures of this almost unknown language. KEYWORDS: Atacameño (Atacaman); Kunza, Morphology; Lexicography in the XIX Century.
+RESUMEN: El Glosario de la Lengua Atacameña constituye hasta la fecha el inventario más completo
+de materiales lingüísticos del atacameño o kunza, recogidos a finales del siglo XIX, en las últimas etapas de esta extinta lengua andina. El estudio de un buen número de elementos morfológicamente complejos presentes en sus páginas nos permite reconstruir algunas estructuras derivativas y flexivas de esta lengua, todavía escasamente conocida. PALABRAS CLAVE: Atacameño; Kunza; Morfología; Lexicografía del siglo XIX.
+INTRODUCCIÓN
+El atacameño o kunza1 es una lengua andina hoy extinguida, hablada hasta principios del siglo XX por las comunidades indígenas de los valles y los oasis del salar de Atacama. Durante el siglo XIX esta lengua se habló en todo el Norte Grande chileno, incluidas las regiones de Tocopilla, Mejillones y Antofagasta, con la excepción de la costa al suroeste2.
+1
+El glotónimo kunza (escrito originalmente cunza) es una creación del ingeniero chileno Francisco San Román (Carvajal, 1989) sobre la construcción indígena kun-sa ‘nuestro’ (nosotros+GEN), y mantenida desde entonces en la bibliografía etnográfica y lingüística con esta ortografía (con <z> por /s/). Los atacameños de hoy reivindican el nombre kunza como el término propio para designar la lengua de sus antepasados. Se trata, pues, de un neologismo ‘indigenista’, inducido en pleno proceso de aculturación.
+2
+Esta zona era presumiblemente el área de los controvertidos changos, cuya lengua Bresson (1876) consideraba araucano (también modernamente d’Ans 1977), y que posiblemente no hayan constituido una única comunidad, ni hayan tenido una sola lengua.
+
+26
+
+LIAMES 5
+
+Los escasos datos históricos que poseemos sobre el atacameño amplían notablemente su importancia demográfica según retroceden en el tiempo. Los estudios toponímicos indican una antigua extensión de la lengua —o de la influencia de sus hablantes— también por amplias zonas de la puna argentina (Jujuy, Salta, posiblemente Catamarca) y del suroeste boliviano.
+La extinción del atacameño es consecuencia directa de la brutal política de “extirpación” emprendida por las autoridades coloniales españolas durante el siglo XVIII: el corregidor de Atacama Francisco de Argumániz dispone en 1777 la absoluta prohibición del uso de la lengua en todos los ámbitos, incluido el familiar, bajo pena de terribles castigos físicos (Hidalgo, 1984: 221-230).
+Las primeras políticas indigenistas de las repúblicas de Bolivia y Chile no alterarán este proceso acelerado de desaparición, al que contribuirán de modo determinante las nuevas condiciones socioeconómicas de sus hablantes: la dispersión y el trabajo semiesclavo en la nueva industria del salitre. Si en 1839 D’Orbigny estimaba todavía el número de los hablantes de atacameño en casi dos mil, en la provincia de Antofagasta, apenas sesenta años más tarde, en 1896, Vaïsse, Hoyos y Echeverría cuentan ya sólo “dos docenas”, sobreviviendo en condiciones de vida miserables en los oasis de Atacama (Vaïsse et al, 1896: 10). En 1910, Echeverría y Reyes da la lengua por extinguida (Chamberlain, 1911: 465).
+
+MATERIALES PARA EL ESTUDIO DEL ATACAMEÑO
+Pocos son los documentos que se disponen hoy para el análisis del atacameño. Quedan por inventariar y sacar a la luz los diversos esbozos de gramáticas que posiblemente se pergeñaron en época colonial y con posterioridad, durante el tiempo en que la lengua estaba todavía viva (Von Buchwald, 1922). Así el atacameño se cataloga generalmente en los actuales inventarios de lenguas sudamericanas como una lengua extinta de estructura prácticamente desconocida, con vagas intuiciones sobre su sistema morfológico de composición, deducidas de la forma de sus topónimos. En 1993 Gilberto Sánchez Cabezas, en su discurso de ingreso en la Academia Chilena de la Lengua, describía el estado actual del conocimiento de la lengua de esta somera forma: “El material disponible no permite conocer con certeza la estructura del atacameño. Puede presumirse que era de tipo aglutinante y polisintético. Las traducciones que se han intentado de los textos son —nos parece— poco exactas” (Sánchez, 1993: 4).
+La fuente principal para el estudio de esta lengua es casi exclusivamente lexicográfica. Se trata de los vocabularios bilingües elaborados por viajeros que recorrieron la región en la segunda mitad del siglo XIX, inventarios realizados en pleno proceso de extinción de la lengua, de muy desigual envergadura y calidad: Rodulfo Philippi (Viage al desierto de Atacama, 1860) recoge 60 palabras; Johann von Tschudi (Reisen durch Süd-Amerika, 1869), 41 palabras; André Bresson (Le désert d’Atacama et Caracoles, 1875), 23 palabras; T. H. Moore (Vocabulaire de la langue atacameña, 1877), 140 palabras; Francisco San Román (La lengua de los naturales de Atacama, 1890), 148 palabras; Aníbal Echeverría y Reyes (Noticias sobre la lengua atacameña, 1890), 239 palabras; Emilio Vaïsse, Félix Hoyos
+
+PEYRÓ GARCÍA: ESTRUCTURAS GRAMATICALES EN EL GLOSARIO
+
+27
+
+y Aníbal Echeverría y Reyes (Glosario de la lengua atacameña, 1896), unas 1100 palabras3. En contados casos estos compendios incluyen algunas frases completas (Tschudi, 1869; San Román, 1890).
+Además de estos vocabularios, las siguientes fuentes resultan de utilidad para el conocimiento del atacameño:
+— Los documentos coloniales sobre los pueblos de Atacama. Desde las primeras noticias de la existencia de esta lengua por parte de los conquistadores4, hasta las disposiciones lingüísticas del siglo XVIII, que informan de la distribución geográfica de los hablantes. En este mismo apartado hay que incluir de manera destacada los inventarios onomásticos de las partidas de bautismo y de los padrones de indios (Lehnert, 1996, 1999).
+— La toponimia prehispánica de la región (Nardo, 1957; Strube, 1959; País 1976, entre otros). Su estudio es necesariamente un terreno abonado a la controversia y a la libre interpretación, toda vez que desconocemos en gran medida el antiguo panorama lingüístico de esta área. Numerosas referencias etnográficas del período colonial siguen sin poder asociarse hoy a una realidad cultural o lingüística definida (“chango”, “camanchaca”, “lipe”, “diaguita”, “cacán”, entre otros). Los elementos toponímicos autóctonos que no parecen tener correlatos en otras lenguas mejor conocidas son asignados según el criterio de cada investigador tanto al atacameño como a alguna de sus hipotéticas lenguas vecinas. Así por ejemplo el supuesto afijo -ao, presente en Sumalao, Aquinao, Toconao, era un elemento “cacán” para Schuller (1908: 77) y atacameño para Vaïsse, Hoyos y Echeverría (1896: 12).
+— Los cantos en atacameño repetidos hasta la actualidad en ocasión de las fiestas anuales de limpieza de los canales (talatur) en localidades como Peine, Socaire o Caspana (Mostny et al, 1954; Barthel, 1959; Rodríguez, 1991; Matus, 1995). Los actuales atacameños desconocen el significado de las palabras de estas canciones —“algunos saben el texto parcialmente de memoria y lo recitan sin saber lo que significa” (Mostny et al, 1954: 86) —, palabras que seguramente se hallan ya muy alteradas. La mayoría de estos términos no se puede localizar en otras fuentes, y presenta además una clara estructura fonológica española.
+— La huella léxica del atacameño en el español chileno nortino, estudiada a principios del siglo XX por Echeverría y Reyes (1900, 1934), y modernamente por Bahamonde (1978), Rodríguez (1980) y Rodríguez Véliz y Araya (1980, 1981). Debe incluirse aquí el extenso ámbito de la fitonimia regional (Philippi, 1860; Munizaga y Gunckel, 1958; Gunckel, 1967; Villagrán et al, 1998).
+
+3 No incluimos aquí la obra de R. Schuller (Vocabulario y nuevos materiales para el estudio de la lengua de los indios lican-antai, 1908), que se limita a recopilar los vocabularios de Philippi, Tschudi, Moore, San Román y Echeverría y Reyes, añadiendo nuevos datos de los padrones de indios.
+4 La primera referencia en el capítulo VIII de la Crónica de los reinos de Chile de Jerónimo de Vivar (1558): “es lengua por sí”.
+
+28
+
+LIAMES 5
+
+CARACTERÍSTICAS DE LOS VOCABULARIOS Y OBJETO DE ESTE ESTUDIO
+
+Los vocabularios atacameños que hemos mencionado son todos bilingües y están organizados a partir de las unidades léxicas de las lenguas occidentales propias de sus autores (español, alemán, francés). Contrastan así con otros trabajos lexicográficos del hemisferio, como el exhaustivo diccionario yagán de Bridges (1933), organizados sobre campos léxico-nocionales nativos. En este diccionario, por ejemplo, podemos encontrar numerosos términos indígenas para los que no hay un correlato directo en inglés, o que se corresponden con diversas palabras inglesas no directamente relacionadas para la semántica de esta lengua. Pero los vocabularios atacameños, organizados sobre los campos léxicos europeos, presentan en todo momento palabras relacionadas biunívocamente con lemas claros y distintos de los léxicos occidentales. En pocas ocasiones hay un término atacameño al que se haga corresponder más de una palabra europea y, cuando esto sucede, nos encontramos ante claros casos de homonimia en la lengua indígena o en su transcripción5.
+El estudio del léxico de una lengua a partir de diccionarios de estas características — donde se adivina el clásico procedimiento de hacer traducir a los propios nativos bilingües una lista de términos europeos previamente seleccionados— conlleva grandes problemas. El fundamental es sin duda la dificultad de recomponer a partir de este tipo de datos las estructuras autóctonas de ordinación léxica, y en general las categorías nocionales expresadas en la lengua. No podemos saber, como tantas veces se ha señalado en el estudio de obras de este tipo, si el término ofrecido para un objeto determinado, identificado por los europeos con una palabra concreta, es el nombre que los hablantes nativos dan a esa clase específica de objetos tal como los europeos la han establecido, o a todo un tipo más amplio de cosas en el que incluyen a esa clase, o incluso si es el nombre de una variedad especial señalada en ese momento por el encuestador (por ejemplo, con un color determinado, o con una característica accidental concreta). Del mismo modo los sistemas de deícticos se adaptan forzosamente a la organización espacio-temporal occidental.
+Pero, por otro lado, este tipo de vocabularios ofrece también una involuntaria ventaja, no tanto para el trabajo lexicológico como para el análisis morfológico, en el caso de que estemos tratando con lenguas suficientemente sintéticas. A diferencia de un diccionario organizado sobre bases léxicas autóctonas, un trabajo de estas características no expone estrictamente un inventario de lexemas aislados, sino que incluye frecuentemente —por la necesidad de encontrar equivalencias semánticas aceptables— construcciones morfológicas complejas, que implican la presencia de otros elementos derivativos y flexivos. Estas construcciones se presentan en estos diccionarios de manera compacta, como “palabras independientes” de la lengua, supuestos dobletes nativos de los lexemas europeos, pero un estudio comparativo muestra con facilidad su estructura compleja. La detección de las marcas morfológicas no léxicas que aparecen de forma más o menos recurrente permite, por un lado, llegar a depurar el elemento léxico original y, por otro lado, lo que aquí nos interesa más, llegar a saber algo de las estructuras gramaticales de la lengua.
+
+5 Vaïsse et al. (1896): <ckacktchi> ‘pescado’ y ‘bueno, agradable’.
+
+PEYRÓ GARCÍA: ESTRUCTURAS GRAMATICALES EN EL GLOSARIO
+
+29
+
+Éste es precisamente el objeto de este estudio. Hemos analizado las entradas del diccionario de Emilio Vaïsse, Félix Hoyos y Aníbal Echeverría y Reyes Glosario de la lengua atacameña (en adelante citado como VHE), publicado en Santiago de Chile en 1896 con un preámbulo de Rodolfo Lenz, con diferencia la obra más extensa y detallada de las conservadas, y hemos intentado detectar marcas morfológicas comunes. En un segundo paso, la aparición de determinadas marcas con determinados temas nos lleva a poder formular una hipótesis sobre las categorías léxicas existentes en la lengua, categorías que se distinguirían no sólo por estas posibilidades de afijación morfológica, sino también por su comportamiento sintáctico dentro de la frase, un aspecto que podemos analizar a partir de la observación de la estructura de los nombres compuestos y de elementos fraseológicos.
+
+NOTAS SOBRE LAESTRUCTURAFONOLÓGICA
+Para el establecimiento de los distintos morfos es necesario contar previamente con un conocimiento de los segmentos distintivos de la lengua. Es difícil llegar a formular un modelo definitivo de la estructura fonológica del atacameño a partir de los materiales que son objeto de nuestro estudio, porque se trata de documentos de la etapa terminal de la lengua y porque no tenemos datos de la procedencia de los distintos informantes, lo que nos impide reconocer con claridad los casos de variación dialectal. Y también porque la transcripción de términos es bastante asistemática —incluso dentro de la misma obra— y los errores tipográficos de las ediciones originales más que visibles (ostensibles en los errores de escritura de las palabras europeas correspondientes).
+VHE presentan breves descripciones articulatorias de algunos segmentos de la lengua, en concreto los que en su trabajo aparecen en posición inicial de palabra. Así explican las realizaciones que representan por <a>, <b>, <ck>, <h>, <i>, <l>, <m>, <n>, <p>, <pp>, <s>, <t>, <tt>, <tch> e <y>. En el texto del diccionario aparecen además otras letras: <e>, <ñ>, <o>, <r>, <u>, <v>, y también <â> en el grupo <aâ> (<aâya>, <baâlatur>).
+Independientemente de los problemas en las caracterizaciones de algunas unidades, que Rodolfo Lenz en su breve prólogo a este glosario intenta clarificar, se advierte la alternancia no relevante de varios de estos signos.
+En el inventario vocálico —en este trabajo formalmente idéntico al sistema español— se observa la oscilación entre <a> y <o> en varios casos, como en <ckolam> ~ <ckalam[a]> ‘perdiz’, <ara> ~ <aro> ‘lugar de’. También alternan <ao>, <au> y <u> en posición final de palabra: <ckarao> ~ <ckarau> ~ <ckaru> ‘costilla’.
+El sistema consonántico parece ser más reducido de lo que se infiere de la lista de grafemas de VHE. En concreto <b> y <p> alternan no sólo en situación intervocálica (lo que reflejaría la previsible sonorización de /p/ en este contexto), como en <ckapur> ~ <ckabur> ‘grande’, sino también al parecer en otras posiciones (<peter> ~ <beter> ‘camino’). En algunos casos parece describirse un tránsito de [b] a [w], como un paso más allá dentro del proceso de sonorización de la bilabial: <ckabur> ~ <caur> ‘grande’ (VHE), <baltchar> (VHE) ~ <ualcher> (Philippi 1860) ‘malo’.
+
+30
+
+LIAMES 5
+
+Los dobletes <p> / <pp> y <t> / <tt> que establecen VHE alternan en numerosos ejemplos sin variación de significado: <hata> ~ <hatta> ‘ayer’, <ckuta> ~ <ckutta> ‘sal’, <ckepar> ~ <ckeppar> ‘faja, cinturón’, <palama> ~ <ppalama> ‘tres’.
+<v> parece ser una variante para la representación de la bilabial oclusiva, de acuerdo a la convención ortográfica castellana: <kavatur> ~ <kapatur> ‘crecer’, <[lack]tulva> ~ <tulba> ‘campo’.
+Un caso interesante es el valor asignado a la letra <h> en VHE y posiblemente en los otros vocabularios en que se utiliza. VHE describen este signo de la siguiente manera: “pronúnciase siempre aspirada, como en francés, en hêtre, hibou”. Pero en francés no hay fonema “aspirado” alguno. Lenz, en su introducción a esta obra, advierte este sinsentido y corrige: “deberá indicarse (...) que la h corresponde a la h del inglés”.
+Para llegar a establecer qué es lo representado por <h> es necesario primeramente observar las posiciones en que aparece. Este signo siempre se encuentra en posición prevocálica inicial de palabra. En los raros casos en que aparece en posición media se suele escribir tras un guión, siempre en palabras compuestas (<h> es el comienzo del segundo término), o tras oclusivas sordas (<at-halpa> ‘gallina’, <balt-hitur> ‘correr’, <ckalck-haltur> ‘huero’). Proponemos considerar <h> como una oclusiva glotal /// previa a la vocal inicial de palabra, similar a lo que sucede en otras lenguas (oclusiva glotal inicial prevocálica obligatoria en mongol antiguo, en meroítico, parcialmente en árabe...) al parecer para mantener en posición inicial una estructura silábica canónica CV. En favor del carácter oclusivo está su definición originaria como “h francesa” (que implica en la escritura de esta lengua la conservación de la vocal del artículo ante otra vocal, manteniendo una contigüidad vocálica entre elementos de sílabas distintas que en ocasiones se suele considerar cercana acústicamente al “saltillo” glotal) y su aparición siempre a continuación de oclusivas sordas en las raras ocasiones en que no se encuentra en posición inicial (<at-halpa>). También es significativa en esta misma dirección la transcripción con <h> de préstamos lingüísticos originalmente con /k/ y /q/ (oclusivas velar y glotal): <halur> < esp. calor, <haalar> ‘estrella’ < quechua qullur (la evolución /q/ > /// aparece también documentada en numerosas lenguas). Respecto a su posición regular como inicial de palabra hay algunas anotaciones explícitas en VHE: “hara: en combinación [quiere decir en posición no inicial] pierde la h aspirada”. Por otro lado, es frecuente la representación con <h> de la glotal /// en otras descripciones de lenguas sudamericanas realizadas en la misma época (Viegas, 2001: 109). Para nuestro propósito, que excluye las cuestiones concretas de realización articulatoria, proponemos el siguiente inventario distintivo mínimo6:
+
+(1)
+
+vocales:
+
+a, e, o, i, u
+
+glides:
+
+j, w
+
+consonantes: /, p, k, t, c (=tS), s, m, n, ñ (=≠), l, r
+
+6
+Salvo en casos de especial dificultad en el reconocimiento de la forma original en VHE o en otros vocabularios, utilizamos a partir de aquí nuestro sistema de transcripción. En el análisis gramatical de los ejemplos se usan las siguientes convenciones: ABS = absolutivo, Adj = adjetivo, COM = comitativo, DET = determinativo, GEN = genitivo, N = nombre, SG = singular, PL = plural.
+
+PEYRÓ GARCÍA: ESTRUCTURAS GRAMATICALES EN EL GLOSARIO
+
+31
+
+GÉNERO Y NÚMERO
+
+El atacameño expresa el género mediante composición, con dos opciones: masculino y femenino. El masculino es la alternativa no marcada. El femenino se señala mediante la composición con el nombre likaw / likan ‘mujer, esposa’:
+
+(2)
+
+ia
+
+‘él’
+
+pani / pawna ‘niño’
+
+— likaw-ia
+
+‘ella’
+
+— likan-pawna ‘niña’
+
+pani / pawna ‘niño’ — pani-likaw
+
+sali
+
+‘hermano’ — sali-likaw
+
+‘niña’ ‘hermana’
+
+Las determinaciones de número son singular, plural, y posiblemente dual. El singular no está representado por ningún morfo específico. El plural se marca mediante la afijación de kot:
+
+(3) i-a ica sema kepi
+
+‘él’ ‘otro’ ‘uno’ ‘ojo’
+
+— i-kot-a — ica-kot-a — sema-kot-a — kepi-kot-a
+
+‘ellos’ ‘otros’ ‘unos’ ‘ojos’
+
+El elemento kot podría ser considerado como un elemento léxico en lugar de un afijo morfológico, y entonces estaríamos ante un nuevo caso de composición nominal, si nos fijamos en los ejemplos en que aparece como base para la afijación de nuevas marcas flexivas:
+
+(4) kot-kol
+COM
+
+‘con ellos’
+
+kot-ak-sa-ja (VHE: <ckotack-saya>) PL yo GEN DET
+
+‘míos’
+
+Algunos ejemplos reflejan la posibilidad de expresar el plural mediante reduplicación:
+
+(5) <aïke> (Philippi,1860) <ackiu> (VHE)
+
+‘oreja’ — <ckaickai>(VHE)
+
+‘orejas’
+
+‘pluma’ — <ackiu-ackiu> (VHE) ‘plumas’
+
+Determinada evidencia parece señalar otra forma de marcación de la pluralidad, mediante alternancia vocálica interna y posible prefijación de s-:
+
+32
+
+LIAMES 5
+
+(6)
+
+<ckenni> (VHE) ‘uña’ — <sckina> (VHE) <khin> (Philippi, 1860) ‘uñas’
+
+<ckénia> (VHE) ‘diente’ — <sckene> (VHE)
+
+‘dientes’
+
+Obsérvese que ambos ejemplos, que aparecen como lemas distintos en VHE, para adaptarse a la organización léxica española, parecen constituir en realidad una sola unidad en atacameño (identidad entre ‘uñas’ y ‘dientes’): <ckénia> = <ckenni> + -a (marca de absolutivo).
+La existencia de una marca de dual se podría deducir de otros ejemplos hallados. Según esta evidencia, el morfo de dual sería un sufijo -i.
+
+(7) <nan> (VHE) <sale> (Philippi, 1860)
+
+‘pierna’ — <nanni> (VHE) ‘hermano’ — <saali> (VHE)
+
+‘piernas’ ‘mellizos’
+
+La cuestión del dual en atacameño resulta necesariamente controvertida, dada la escasez de materiales disponibles. En la reflexión sobre el tema habría que tener en cuenta que el numeral ‘dos’ parece ser un préstamo del aymara (atacameño poja < aymara paja), lo que podría interpretarse como una antigua preferencia por la expresión de este número mediante afijos gramaticales.
+
+SISTEMA DE CASOS
+
+Podemos reconocer las siguientes marcas de caso en atacameño:
+
+Absolutivo
+
+Se advierten determinadas terminaciones comunes en el léxico que son reemplazadas en ocasiones por (otras) marcas de caso específicas, y que se mantienen siempre en posición final de palabra cuando aparecen afijos derivativos. Las más frecuentes, con algunos ejemplos:
+
+(8) -a
+
+ak-a ‘yo’, cem-a ‘tú’, i-a ‘él’
+
+-aw
+
+kan-aw ‘anciana’, kar-aw ‘costilla’, kun-aw ‘miedo’, lik-aw ‘mujer’, pic-aw
+
+‘hermano’, cinkon-aw ‘torbellino’, coc-aw ‘arbustito parecido al boj’
+
+-mur /ak-a-mur ‘leña’, /ak-aw-mur ‘bastón’, /ak-mur ‘rebenque’, loj-mur ‘redondo’,/u-mur ‘fuego’
+
+-ri
+
+/oj-ri ‘tierra’, //im-ri ‘hígado’, paj-ri ‘mosquito’, saj-ri ‘lluvia’, tu-ri ‘casa’
+
+-ur
+
+tan-ur ‘estiércol’, tap-ur ‘tarde’, tuk-ur ‘búho’, jukit-ur ‘ahijada’
+
+-ir
+
+tsim-ir ‘nieve’, kap-ir ‘zurdo’, kac-ir ‘chicha de maíz’
+
+-ma
+
+pala-ma ‘tres’, lalak-ma ‘aurora’, /ur-ma ‘tonto’, /oni-ma ‘incendio’
+
+PEYRÓ GARCÍA: ESTRUCTURAS GRAMATICALES EN EL GLOSARIO
+
+33
+
+Genitivo
+
+(9) -sa
+
+ak-a ‘yo’
+
+—
+
+ak-sa-(ja) ‘(el) mío’
+
+i-a ‘él’
+
+—
+
+i-sa
+
+‘de él’
+
+kun-a ‘nosotros’ —
+
+kun-sa ‘nuestro’
+
+siki-ri <Sickiri> (apellido) — siki-sa <Siquisa> (apellido y topónimo)
+
+Comitativo
+
+(10) -kol
+
+ak-a ‘yo’ — ak-kol ‘conmigo’ kot-a‘ellos’ — kot-kol ‘con ellos’
+
+VHE, al organizar el glosario sobre la base de las palabras “independientes” del español, ofrecen <ckol> como equivalente atacameño de con. Estos mismos autores proponen, en otro lugar de su trabajo, que la forma kolakuntur (<ckolackuntur> en su grafía), traducida por ‘ensartar’, estaría formada a partir de una base kol.
+
+Adlativo
+
+(11) -ps koko i mutu /alpa likan paka tu-ri
+DERIVACIÓN
+
+‘espalda’ —
+
+‘él’
+
+—
+
+‘arriba’ —
+
+‘delante’ —
+
+‘pueblo’ —
+
+‘llanura’ —
+
+‘casa’ —
+
+koko-ps
+
+‘atrás’
+
+i-ps
+
+‘a él’
+
+mutu-ps
+
+‘norte’
+
+/alpa-ps
+
+‘adelante’
+
+likan-ps
+
+‘querencia’
+
+paka-ps-[ladis] ‘sur’
+
+tu-ps VHE: ‘casa’ (‘a casa’?)
+
+Agentivo
+
+La marca -sant- funciona como un afijo de ambigua ubicación en el índice flexiónderivación. Podemos considerarlo un afijo flexivo, de caso agentivo, en el siguiente ejemplo:
+
+(12) i ‘él’ — i-sant-a ‘por él’
+
+En otros ejemplos recogidos lo encontramos como un afijo derivativo nominal:
+
+(13) kun-aw ‘miedo’ — kun-sant-a
+
+‘diablo’ (el que provoca miedo)
+
+34 Conversivo
+
+LIAMES 5
+
+Derivaciones reversivas o antonímicas vinculada al morfo -s- se deducen de los siguientes ejemplos de VHE:
+
+(14) <panckitur> <iticku> <ckoicktur> <backnitur>
+
+‘preñar’ ‘quién’ ‘alegrarse’ ‘montar’
+
+— <pantchastur> ‘abortar’ — <itisacka> ‘ninguno’ — <ckoickstur> ‘aborrecer’ — <baasnatur> ‘descargar’
+
+Despectivo
+
+El elemento -car aparece vinculado a raíces adjetivales, aportando un sentido despectivo o conmiserativo: bakcar ‘pobre, huérfano’, balcar ‘malo, desgraciado’, kwicar ‘crudo’, sekscar ‘oscuro’, sirbicar ‘desagradable’, akacar ‘perezoso, holgazán’. Cuando la secuencia -car aparece en nombres no se registra este sentido despectivo, lo que estaría en favor de la existencia de una clase léxica adjetiva específica. Ejemplo: kelcar (N) ‘verdad’.
+
+Intensificador
+
+La intensificación se expresa mediante la reduplicación de la primera sílaba del lexema, en un procedimiento bien conocido en otras lenguas del mundo:
+
+(15) /onima ‘fuego’ — /o-/o-nima /onar ‘mucho’ — /o-/onar
+
+‘incendio’ ‘muchísimo’
+
+Temporal
+
+El morfo -nu aparece en construcciones adverbiales temporales:
+
+(16) aiks poj-a
+
+deíctico prox. — a-nu
+
+‘así’
+
+— iks-nu
+
+‘dos’
+
+— poj-nu
+
+‘ahora, hoy’ ‘entonces’ ‘segundo’
+
+Verbalizador
+
+La marca -tur aparece en la mayoría de los términos atacameños traducidos como verbos. En algunos casos disponemos de ejemplos nominales relacionados, que nos permiten observar las reglas de afijación de este elemento. En determinados casos podemos advertir matices causativos e instrumentales vinculados al propio proceso de verbalización.
+
+PEYRÓ GARCÍA: ESTRUCTURAS GRAMATICALES EN EL GLOSARIO
+
+35
+
+(17) /ampi harnero7 balt-a cap-ur /ebiw-ma /el-a kun-aw lalak-ma lupajn-ir mulsin /oj-ri /oni-ma toj-ur tusu-ne tutu pank[t]i ko-ri kapak-a tokn-a tan-ur tsim-ir kap-ur
+
+‘medicina’ —
+
+‘criba’
+
+—
+
+‘era para trillar’ —
+
+‘zorro’
+
+—
+
+‘suspiro’
+
+—
+
+‘mentira’
+
+—
+
+‘miedo’
+
+—
+
+‘aurora’
+
+—
+
+‘bola’
+
+—
+
+‘muerte’
+
+—
+
+‘tierra’
+
+—
+
+‘fuego’
+
+—
+
+‘humareda’ —
+
+‘baile’
+
+—
+
+‘pezón’
+
+—
+
+‘feto’
+
+—
+
+‘gordo’
+
+—
+
+‘rico’
+
+—
+
+‘piedra’
+
+—
+
+‘estiércol’ —
+
+‘nieve’
+
+—
+
+‘grande’
+
+—
+
+/ampi-tur ‘curar’
+
+’arna-tur ‘cribar, harnear’
+
+balt-(a)-tur ‘trillar’
+
+cap-(a)-tur ‘robar’
+
+/ebiw-tur ‘suspirar’
+
+/el-(a)-tur ‘mentir’
+
+kun-(a)-tur ‘tener miedo’
+
+lalak-tur
+
+‘amanecer’
+
+lupajn-(a)-tur ‘rodar’
+
+mulsin-tur ‘morir’
+
+/oj-tur
+
+‘enterrar’
+
+/on-(a)-tur ‘quemar’
+
+toj-tur
+
+‘humear’
+
+tusu-tur
+
+‘bailar’
+
+tutu-tur
+
+‘mamar’
+
+panki-tur ‘preñar’
+
+ko-ri-tur
+
+‘engordar’
+
+kapk-(i)-tur ‘hacerse el rico’
+
+tokn-(a)-tur ‘apedrear’
+
+tan-(a)-tur ‘defecar’
+
+tsim-(i)-tur ‘nevar’
+
+kap-(a)-tur ‘crecer’
+
+Causativo / factitivo
+
+La forma -n(a)-, con valor causativo, precede inmediatamente al verbalizador -tur en diversos ejemplos registrados:
+
+(18) cak-o lula-ma pot-or tek-a kilir lok-tur
+
+‘[trigo] pelado’ —
+
+‘ruido, trueno’ —
+
+‘alud’
+
+—
+
+‘frío’
+
+—
+
+‘ratón’
+
+—
+
+‘arder’
+
+—
+
+cak-na-tur lula-n-tur pot-(u)-n-tur tek-na-tur kili-n-tur lock-(u)-n-tur
+
+‘despegar’ ‘sonar, tronar’ ‘vomitar’ ‘enfriar’ ‘roer’ ‘encender’
+
+Con esta marca aparecen numerosos casos de verbalizaciones de onomatopeyas o ideófonos, lo que sigue implicando una función causativa (cfr. español hacer chuf-chuf.): liplip-na-tur ‘relampaguear’, cekcek-na-tur ‘provocar comezón’, taktak-na-tur ‘cacarear’.
+La forma -kun- aparece también en algunos ejemplos con un significado factitivo:
+
+7
+Palabra del español para referirse a una especie de criba.
+
+36
+
+(19)
+
+cej
+
+‘nombre’
+
+kut-a ‘sal’
+
+/ar-a‘alojamiento’
+
+LIAMES 5
+— ce-kun-tur — kut-kun-tur — /ar-(i)-kun-tur
+
+‘bautizar’ ‘salar’ ‘descansar’
+
+PRONOMBRES PERSONALES
+
+El glosario registra algunas de las distintas formas casuales de los pronombres personales. Las formas que documenta son las siguientes:
+
+(20) ak-a ak ak-sa
+
+‘yo’ “me” ‘mío’
+
+kun-a ‘nosotros’ kun-sa ‘nuestro’
+
+ce-ma cen-ki cen-sa cen-kol
+
+‘tú, vos’ “te” ‘tuyo’ ‘contigo’
+
+ci-me ‘vosotros, ustedes’
+ci-sa ‘vuestro’ cin-kol ‘con vosotros’
+
+a-ja / i-a
+
+‘él’
+
+i-sa
+
+‘de él’
+
+i-sima
+
+“al”
+
+i-sant-a
+
+‘por él’
+
+a-ps / i-ps
+
+‘a él’
+
+(i)-kota
+
+‘ellos’
+
+(i)-kot-ca
+
+“a los”
+
+<kits>
+
+“suyo”
+
+kot-kol
+
+‘con ellos’
+
+La 3ª persona de plural cuenta con dos bases en oposición deíctica: a- es la forma de proximidad e i- la de lejanía, sin distinción de género.
+Las marcas de caso son las mismas que hemos estudiado previamente en los nombres, pero debemos hacer las siguientes observaciones:
+La forma que en VHE aparece como <kits> debería ser *kot-s(a) para ser identificada con la estructura regular de genitivo, tal como se esperaría de su traducción.
+En los nombres registrados en el glosario de VHE no hemos encontrado marcas que puedan ser consideradas de acusativo o dativo. Entre los pronombres personales encontramos cuatro formas, ak-Ø, cen-ki, i-sima e (i)-kot-ca, traducidas por VHE como “me”, “te”, “al” y “a los”, que sugerirían los morfos cero, -ki, -sima y -ca para marcar estas funciones. Pero consideramos que los ejemplos no son suficientes para una asignación precisa, dada además la ambigüedad de los equivalentes españoles. El problema del acusativo en atacameño continúa abierto en todas sus posibilidades, incluyendo la de una estructura ergativa.
+
+PEYRÓ GARCÍA: ESTRUCTURAS GRAMATICALES EN EL GLOSARIO
+
+37
+
+DETERMINACIÓN
+
+Se observa la presencia de una marca determinativa -ja, que parece derivar de la forma del deíctico 3ª persona singular i-a ‘él, ese’ (con el afijo -a de absolutivo). La formación del determinativo a partir del deíctico / demostrativo es un proceso bien conocido en las lenguas europeas. La marca determinativa en atacameño aparece siempre en posición final de palabra. La oposición i-a (pronombre personal) (escrito <ía> o <ia> en VHE) — ja (demostrativo) (escrito <ya> o <ia>) se organiza posiblemente sobre un índice gradual, y las opciones concretas deben haberse marcado en la lengua mediante la presencia o no de un acento de palabra propio (del mismo modo que sucede con las formas él / el del español).
+Un aspecto interesante sobre la determinación es el que aporta el breve inventario de Philippi (1860). Este autor escribe todas las palabras españolas del vocabulario en forma determinada, lo que podría indicar que en su mayoría fueron planteadas así a los informantes nativos. En Philippi la determinación aparece en ocasiones con la marca deíctica i- en posición inicial de palabra. Estos casos son:
+
+(21) Philippi
+
+VHE
+
+<ikhepe> ‘los ojos’ — <ckepe> ‘ojo’ <ipata> ‘la madre’ — <patta> ‘madre’ <itica> ‘el padre’ — <tickan> ‘padre’
+
+En el vocabulario que analizamos la determinación se ignora como categoría específica, y su marca se trata como parte del lexema.
+En ocasiones se han propuesto caracterizaciones bastante extrañas, a nuestro juicio, de la marca de determinación. Basándose en la forma ak-a i-a (yo+ABS él+ABS), textualmente yo - él, traducida en español por yo soy (él), Siarez (2004) deduce que ia sería la forma para la 1ª persona singular de un presunto verbo copulativo atacameño (el elemento soy de la traducción española). Identificada así esta secuencia, el análisis de otras composiciones en las que también aparece da lugar a pintorescos resultados. Así en su propuesta de una interpretación para el topónimo Michilla esta autora asegura: “vendría de la palabra mitchi, gato, puma, y de ya, soy. En este caso, el significado sería “soy gato” o “soy puma” (Siarez, 2004: 2). Indudablemente la traducción correcta —y mucho más lógica desde todos los puntos de vista— de mici-ja sería sencillamente ‘el gato’ o ‘el puma’.
+
+NUMERALES
+Los numerales pueden aparecer con las mismas marcas que encontramos en el resto de los nombres, más el afijo ordinal. Las formas atestiguadas en el glosario son:
+
+38 (22)
+1
+2 3 4 5 6 7 8 9
+
+LIAMES 5
+
+se-ma
+poj-a 20 pala-ma calp-a *mutsu-ma mical-a coj-a cola-ma tekar-a
+
+10 su-ci
+
+11 su-ci ta se-ma
+
+(10 + 1)
+
+12 su-ci ta poj-a
+
+(10 + 2)
+
+13 su-ci ta pala-ma (10 + 3)
+
+15 su-ci ta *mutsu-ma (10 + 5)
+
+16 su-ci ta mical-a (10 + 6)
+
+su-ci ta su-ci
+
+(10 + 10)
+
+21 su-ci ta su-ci se-ma (10 + 10 + 1)
+
+30 su-ci pala-ma
+
+(10 x 3)
+
+49 su-ci calp-a tekar-a (10 x 4 + 9)
+
+50 su-ci *mutsu-ma (10 x 5)
+
+60 su-ci mical-a
+
+(10 x 6)
+
+90 su-ci tekar-a
+
+(10 x 9)
+
+100 /aras 101 /aras se-ma se-ma 200 /aras poj-a 300 /aras pala-ma 400 /aras calp-a 500 /aras *mutsu-ma 600 /aras mical-a 700 /aras coj-a 800 /aras cola-ma 900 /aras tekar-a 1000 /aras su-ci
+
+(100 x 1 + 1) (100 x 2) (100 x 3) (100 x 4) (100 x 5) (100 x 6) (100 x 7) (100 x 8) (100 x 9) (100 x 10)
+
+El nombre para ‘cinco’ ofrece las formas <mutusma>, <mustuma> y <mutsuma> en VHE y <mutsma> en Philippi (1860) y Bresson (1875).
+Como se observa, dos numerales yuxtapuestos se multiplican, y unidos por la partícula ta se suman. En las series de tres elementos yuxtapuestos los dos primeros se multiplican y el tercero se suma. En todas las series el numeral mayor precede al menor.
+La marca para la formación de numerales ordinales es -tin (formas documentadas: palan-tin ‘tercero’, calpa-tin ‘cuarto’).
+
+CLASES DE PALABRAS
+En función de los sistemas de afijación y de la estructura de la frase nominal, proponemos que las categorías léxicas del atacameño son: verbo, nombre, adjetivo y posiblemente adverbio (si consideramos el temporal –nu como un derivativo), con el añadido de un conjunto heterogéneo de partículas.
+
+PEYRÓ GARCÍA: ESTRUCTURAS GRAMATICALES EN EL GLOSARIO
+
+39
+
+El verbo es la clase menos documentada en los materiales disponibles analizados aquí. Algunas oraciones más o menos completas recogidas en algunos de los glosarios del siglo XIX parecen mostrar marcas flexivas verbales, de persona o tal vez de tiempo-aspecto, modalidad. Pero es tan escasa la documentación de que disponemos sobre este particular, que declinamos aquí la posibilidad de esbozar siquiera un modelo hipotético de estos sistemas. Parece claro que, como señalamos en el apartado sobre la determinación, la estructura copulativa se realiza mediante yuxtaposición, al menos en la forma no marcada en cuanto a tiempo-aspecto.
+Creemos posible deslindar una clase nominal y una clase adjetival a partir de la distribución de algunos afijos — véase el apartado sobre el morfema despectivo, que aparece sólo con lexemas de significado adjetival — y sobre todo, sintácticamente, por la posición que ocupan ambos tipos de palabras en la frase nominal.
+En estas construcciones el elemento modificador precede al nombre que constituye el núcleo cuando se trata de otro nombre, y sucede al nombre nuclear si se trata de un adjetivo. Esquemáticamente y con algunos ejemplos:
+
+(23) N—N (núcleo)
+
+/alur tjempja calor tiempo
+
+‘tiempo de calor’
+
+pici pani hermano hijo
+
+‘sobrino’
+
+N — Adj /alar kapur (núcleo) estrella grande
+
+‘estrella grande, lucero’
+
+puri tama agua caliente
+
+‘agua caliente’
+
+Por último, la categoría que, siguiendo la tradición descriptiva de otras lenguas, denominamos aquí “partículas” incluye un buen número de elementos conectivos y adverbiales de diversa función, generalmente de estructura monosilábica, que se caracterizan por la imposibilidad de afijación de otros morfemas: ta ‘y’, be ‘sí’. Se trata así en realidad de una clase no léxica.
+
+A MODO DE CONCLUSIÓN
+Hemos señalado sólo algunas de las posibles marcas morfológicas de la lengua atacameña, aquéllas que hemos podido detectar con cierta seguridad en el Vocabulario que nos ha ocupado. Este estudio constituye pues sólo una pequeña aportación a una necesario trabajo colectivo de mayor envergadura, que deberá analizar de modo similar a como se ha hecho aquí los otros documentos hoy accesibles sobre la lengua. Decisivas investigaciones en esta dirección se están realizando ya (Adelaar, 2004). Del cotejo de
+
+40
+
+LIAMES 5
+
+todos estos materiales surgirá un día un modelo suficientemente acabado sobre el sistema gramatical atacameño, que nos permitirá por fin caracterizar tipológicamente esta lengua y ubicarla en el universo lingüístico andino.
+
+____________________ BIBLIOGRAFÍA CITADA
+
+ADELAAR, W.F. (2004). The languages of the Andes. Cambridge: Cambridge University Press.
+BAHAMONDE, M. (1978). Diccionario de voces del norte de Chile. Santiago: Nascimento [Antofagasta: Universidad Católica del Norte, 1998].
+BARTHEL, T.S. (1959). Ein Frühlungsfest der Atacameños. Zeitschrift für Ethnologie, Berlín, vol. 84 [El agua y el festival de primavera entre los atacameños. Allpanchis, Cuzco, vol. 28, (1986) p. 147-184].
+BRESSON, A. (1875). Le désert d’Atacama et Caracoles (Amérique du Sud). Le Tour du Monde, París, vol. 29: 321-352.
+BRIDGES, T. (1933). Yamana-English. A dictionary of the speech of Tierra del Fuego. Ed. de F. HESTERMANN y M. GUSINDE. Mödling: Missionsdruckerei St. Gabriel [Ushuaia: Zagier y Urruty, 1987].
+CARVAJAL, H. (1989). Algunas referencias sobre la lengua de los diaguitas chilenos. Logos, La Serena, vol. 1: 1-11.
+CASTRO, V. (2001). Atacama en el tiempo. Territorios, identidades, lenguas (Provincia El Loa, II Región). Anales de la Universidad de Chile, Santiago, vol. 13: 27-70.
+CHAMBERLAIN, A.F. (1911). On the Puelchean and Tsonekan (Tehuelchean), the Atacameñan (Atacaman) and Chonoan, and the Charruan linguistic stocks of South America. American Anthropologist 13: 458-471.
+d’ANS, A. M. (1977). Chilueno ou arauco, langue des Changos du nord du Chili. Ameríndia 2: 135-138.
+D’ORBIGNY, A. (1839). L’homme Américain consideré sous ses rapports phisiologiques et moraux [Voyage dans l’Amérique méridionale. Vol. IV]. París: Pitois-Levrault [El hombre americano considerado en sus aspectos fisiológicos y morales. Buenos Aires: Futuro, 1944].
+ECHEVERRÍA Y REYES, A. (1890). Noticias sobre la lengua atacameña. Santiago: Nacional. _____.(1900). Voces usadas en Chile. Santiago: Elzeviriana. _____.(1934). Jerga usada por los delincuentes nortinos. Concepción: El Águila.
+GUNCKEL, H. (1967). Fitonimia atacameña, especialmente cunza. Revista de la Universidad del Norte, Antofagasta, vol. 30: 1-38; y Revista de la Universidad Católica de Chile, Santiago, vol. 52: 3-81.
+HIDALGO, J. (1984). Descomposición cultural de Atacama en el siglo XVIII: lengua, escuela, fugas y complementariedad ecológica. En Simposio Culturas Atacameñas, p. 221-249. Antofagasta: Universidad del Norte.
+LEHNERT, R. (1996). Coquina: un calificativo desconocido. Hombre y Desierto, Antofagasta, vol. 10: 71-77.
+_____.(1999). Evolución de los nombres atacameños en el Libro de Varias Ojas de la Parroquia de Chiuchiu, 1611-1698. Boletín de Filología, Santiago, vol. 37(1): 659-668.
+
+PEYRÓ GARCÍA: ESTRUCTURAS GRAMATICALES EN EL GLOSARIO
+
+41
+
+MATUS DE LA PARRA, A.I. (1993/1994). El ceremonial de la limpia de canales en Caspana. Revista Chilena de Antropología, Santiago, vol. 12: 65-86.
+
+MOORE, T.H. (1878). Vocabulaire de la langue atacameña. II Congrès International des Américanistes. Luxembourg, 1877. Luxemburgo, vol. II: 44-70.
+
+MOSTNY, G.; JELDES, F. y GONZÁLEZ, R. (1954). Peine, un pueblo atacameño. Santiago: Universidad de Chile [Publicaciones del Instituto de Geografía 4].
+
+MUNIZAGA, C. y GUNCKEL, H. (1958). Notas etnobotánicas del pueblo atacameño de Socaire, o etnobotánica de Socaire. Santiago: Universidad de Chile [Publicaciones del Centro de Estudios Antropológicos 5].
+
+NARDI, R.L. (1957). Toponimia cunza en la Argentina. Revista Geográfica Americana, Buenos Aires, diciembre 1957, p. 178-180.
+
+PAÍS, F. (1976). La toponimia cunza en Catamarca. En Hacia un estudio general de la toponimia catamarqueña e hispanoamericana. Catamarca, p. 101-121.
+
+PHILIPPI, R.A. (1860). Viage al desierto de Atacama, hecho de orden del Gobierno de Chile. Halle: Anton.
+
+RODRÍGUEZ, G. (1980). Efectos del sustrato en el español atacameño. Boletín de Filología, Santiago, vol. 31: 419-427.
+______.(1991). The Talatur: Ceremonial chant of the Atacama people. En M. R. KEY (ed.). Language change in South American Indian languages,p. 181-192 Filadelfia: University of Pennsylvania Press.
+
+RODRÍGUEZ, G., VÉLIZ, M.O. y ARAYA, A. (1980). Particularidades del español atacameño. Estudios Filológicos, Valdivia, vol. 15.
+______.1981). Particularidades lingüísticas del español atacameño (II). Estudios Filológicos, Valdivia, vol. 16.
+
+SAN ROMÁN, F. J. [y MAGLIO, B.] (1890). La lengua de los naturales de Atacama. Santiago: Gutenberg [Áncora, Santiago, vol. 3 (1966): 76-88].
+
+SÁNCHEZ CABEZAS, G. (1993). Estado actual de las lenguas aborígenes de Chile. Boletín de la Academia Chilena de la Lengua, vol. 71.
+
+SCHULLER, R. (1908). Vocabulario y nuevos materiales para el estudio de la lengua de los indios lican-antai (atacameños) - calchaquí. Santiago: Cervantes.
+
+SIAREZ, E. (2004). Toponimia likan antay. Santiago: Serindígena.
+
+STRUBE, L.E. (1959). Toponimia de Chile septentrional, Norte Chico y Norte Grande. La Serena: Publicaciones del Museo y Sociedad Arqueológica de La Serena, vol. 10.
+
+VAÏSSE, E.F.; HOYOS, F. y ECHEVERRÍA Y REYES, A. (1896). Glosario de la lengua atacameña. Santiago: Cervantes.
+
+VIEGAS, P. (2001). Evidencias de la relación genética lule-vilela. LIAMES, Campinas, vol. 1: 107-126.
+
+VILLAGRÁN, C.; CASTRO, V.; SÁNCHEZ, G.; ROMO, M.; LATORRE, C. y HINOJOSA, F. (1998). Etnobotánica del área del Salar de Atacama (Provincia El Loa, región de Antofagasta, Chile). Estudios Atacameños, San Pedro de Atacama, vol. 16: 7-106.
+
+42
+
+LIAMES 5
+
+VON BUCHWALD, Otto. (1922). Análisis de una gramática atacameña. Boletín de la Academia Nacional de Historia, Quito, vol. 5: 292-301.
+
+VON TSCHUDI, J.J. (1869). Reisen durch Süd-Amerika. Leipzig: Brockhaus, 5 vols. [vocabulario en vol. V, p. 77].
+
+Recebido: 20/03/2005 Revisto: 15/06/2005 Aceito: 30/07/2005
+
+

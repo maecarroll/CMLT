@@ -1,0 +1,518 @@
+O SISTEMA PROSÓDICO PANCHAPAKURA DE DEMARCAÇÃO LEXICAL (COM UMA BIBLIOGRAFÍA DAS LÍNGUAS CHAPAKURA)
+
+Geralda Angenot-de Lima & Jean-Pierre Angenot Universidade Federal de Rondônia, CEPLA
+
+1. A estrutura silábica do lexema Nas línguas, todas isolantes, da família Chapakura, qualquer enunciado é exclusivamente constituído por lexemas independentes, nocionais ou gramaticais, não sendo atestados nem afixos nem clíticos (Angenot & Ferrarezi 1997; Lima Angenot 1997a).
+Como um lexema Chapakura é sempre monossílabo ou dissílabo, ou seja Ω → # (σ) σ #, a constituição de, por exemplo, um enunciado trissílabo, Ñ σ σ σ Ñ, permitiria a primeira vista três leituras arbitrárias:
+
+- uma seqüência de 3 lexemas monossílabos:
+
+#σ#σ#σ#
+
+- uma seqüência de 1 lexema dissílabo e de 1 lexema monossílabo: # σ σ # σ #
+
+- uma seqüência de 1 lexema monossílabo e de 1 lexema dissílabo: # σ # σ σ #.
+
+Com o intuito de coibir tal arbitrariedade, as línguas Chapakura apresentam um critério de segmentação morfológica automática (‘parsing’) dos enunciados nos seus lexemas constitutivos, que elimina a possibilidade de leituras equivocadas. Esse critério, meramente fonotático, atua independentemente do suporte de um eventual conhecimento morfo-semântico prévio do enunciado par parte do ouvinte. Para identificar a seqüência exaustiva dos lexemas de uma frase da qual se desconhece o significado, basta aplicar à risca a Regra de Demarcação Lexical Automática:
+
+‘Insere um limite de lexema após cada sílaba pesada de um enunciado pronunciado no registro fonoestilístico maxiarticulado’
+
+ou seja,
+
+0 → # / V{˘, C} −−−− / Registro maxiarticulado
+
+Consideremos, por exemplo, o enunciado Oro Mon articulado sem pausas [kawpi˘na˘/onjowin/ahop|], que é constituído de 20 sons distribuídos em 8 sílabas. A aplicação da regra de demarcação lexical estabelece que a única segmentação morfológica possível é: [kaw pi˘ na˘ /on jowin /ahop|]. Esta interpretação automática pelo ouvinte, seja ele falante ou não da língua, independe do fato de ele saber que esta locução significa ‘o jacaré devorou o macaco prego’, cuja tradução literal é: ‘comer - completamente - passado - masculino - macaco prego (macho) - jacaré (neutro)’.
+A regra de Demarcação Lexical decorre do seguinte sistema unificado Panchapakura de restrições fonotáticas dos lexemas que rege as possíveis estruturas silábicas dos lexemas dissílabos e monossílabos:
+
+150
+
+ANGENOT-DE LIMA & ANGENOT
+
+(a) um lexema dissílabo é necessariamente constituído pela seqüência de uma sílaba
+leve e de uma sílaba pesada. A sílaba leve é sempre do tipo [CV( ] e a sílaba pesada é sempre do tipo [CVC], [CV˘] ou [CVV]9 ;
+
+(b) um lexema monossílabo é necessariamente constituído por uma sílaba pesada dentre os três tipos acima descritos.
+
+Portanto, de um lado, nunca podem ocorrer seqüências de duas sílabas leves ∗[ CV( CV( ], e, de outro lado, duas sílabas pesadas sucessivas atestam sempre uma seqüência de dois lexemas e não lexemas dissílabos como
+
+[ CV˘ # CV˘ ], [ CV˘ # CVC ], [ CVC # CV˘ ], [ CVC # CVC ]
+
+e nunca
+
+[ *CV˘CV˘ ], [ *CV˘CVC ], [ *CVCCV˘ ], [ *CVCCVC ],
+
+que não existem nessas linguas. Os seguintes exemplos Miguelenho ilustram as representações arbóreas
+permitidas nas línguas Chapakura:
+
+U
+
+U
+
+U
+
+U
+
+σσ
+
+σ
+
+σ
+
+σ
+
+σ
+
+μ μμ
+
+μ
+
+μμ
+
+μμ
+
+μμ
+
+m a( »w iè n m a( »w iè ˘
+
+‘urucum’
+
+‘roubar’
+
+(2a)
+
+(2b)
+
+»p iè / ‘dançar’
+(2c)
+
+»p i è˘ ‘espinho’
+(2d)
+
+O fator demarcativo do lexema é, portanto, o peso silábico, uma vez que uma sílaba pesada caracteriza sempre o final de um lexema, ao passo que uma sílaba leve caracteriza sempre a primeira sílaba de um lexema dissílabo.
+Como foi dito, a regra de demarcação lexical funciona incondicionalmente apenas nas pronúncias maxiarticuladas. A identificação de certos lexemas, que são facilmente observáveis com pronúncia hiperarticulada, pode ser mascarada em enunciados pronunciados em registros casuais e hipoarticulados quando pode ocorrer um encurtamento da duração vocálica ou uma fusão de lexemas monossílabos. Isso acontece cada vez que o primeiro de uma seqüência de dois lexemas tem uma vogal longa e que o segundo inicia-se com uma oclusão glotal, de acordo com a regra (2):
+
+(2)
+
+# C Vα˘ # C Vβ{˘, C} #
+
+→ # C V(α # C Vβ{˘, C} #
+
+→ # Cβ{˘, C} # / registros casuais
+
+O SISTEMA PROSÓDICO PANCHAPAKURA
+
+151
+
+Em Moré, por exemplo, as realizações fonoestilísticas da seqüência de lexemas ‘referente’ + ‘masculino’ sofrem as seguintes mudanças sucessivas em função do decréscimo da formalidade e do acréscimo da velocidade de fala: Lento / Formal: [ »kxa˘ »/çn ] → Menos lento˘ [ »kxa »/çn ] → Normal: [ »kxçn ].
+Para garantir a identificação individual de todos os lexemas subjacentes de um enunciado, é portanto necessário recorrer ao controle da pronúncia deste mesmo enunciado no registro fonoestilístico hiperarticulado. Com efeito, esse registro não permite qualquer encurtamento vocálico da sílaba acentuada nen fusão de lexemas monossílabos.
+Ao contrário, nos registros médio e hipoarticulados, pode haver encurtamento vocálico e fusão de lexemas monossílabos, o que desarticula a relação simétrica entre o número de lexemas coincidisse e o de palavras fonológicas. Como a aplicação da regra (2) é recursiva e atua de modo regressivo, a realização fonética de uma única palavra fonológica na pronúncia casual pode chegar a conter a até três lexemas, i. e., palavras morfológicas, como mostra o seguinte exemplo Moré que significa ‘o passarinho do feiticeiro’ (literalmente: passarinho + CONECTIVO + REFERENTE + MASCULINO + feiticeiro):
+
+[ »pat6| »tSi˘ »kXa˘ »/çn /i»kxat| ]
+
+[ »pat6| »tSi˘ ka n /i»kx at| ]
+
+[ »pat6| »tSi˘ »kXçn /i»kxat| ]
+
+[ »pat6| ti kn
+
+/i»kxat| ]
+
+[ »pat6| tSi »kXç˘ [ »pat6| tS´ »kXç˘
+
+/i»kx at| ] /´»kx at| ]
+
+Realização fonética maxiarticulada de: 5 palavras morfológicas (lexemas) = 5 palavras fonológicas Regra de encurtamento vocálico → 5 palavras morfológicas (lexemas) = 4 palavras fonológicas Regra de fusão lexical → 4 palavras morfológicas (lexemas) = 4 palavras fonológicas Regra de encurtamento vocálico → 4 palavras morfológicas (lexemas) = 3 palavras fonológicas
+
+2. A estrutura prosódica do lexema 2.1. Os parâmetros acústicos da prosódia Os três parâmetros físico-acústicos da prosódia são a duração, a altura melódica e a intensidade, respectivamente calculáveis em milissegundos, em hertz e em decibéis.
+Contudo, um estudo lingüístico da prosódia nunca pode proceder de uma interpretação direta dos dados objetivos mas exige sempre uma estilização das formas acústicas brutas. É sempre necessário extrair a informação útil escondida na forma de onda que é ligada às instruções lingüísticas, e dispensar o resto.
+É bem conhecido que os parâmetros acima citados são interdependentes e que, para um estudo lingüístico, os fenômenos prosódicos devem ser objeto de uma análise pluriparamétrica. A melodia e a intensidade, por exemplo, são perceptualmente indissociáveis. Como observa Rossi et al. (1981:80), ‘Intensité et hauteur sont si intimement liés que, sur le plan psychoacoustique, les modulations
+
+152
+
+ANGENOT-DE LIMA & ANGENOT
+
+d’intensité sont le plus souvent intégrées comme des modulations tonales’. Além de afetar consideravelmente o reconhecimento auditivo dos contornos melódicos, um acréscimo de intensidade terá como conseqüência causar um reforço da perceptibilidade da freqüência fundamental (Di Cristo 1985:474). É legítimo afirmar que os ouvintes não dissociam sistematicamente os diferentes parâmetros que o compõem e percebem um sinal prosódico como um fenômeno global. Assim, a percepção de uma proeminência acentual não é vinculada à sensação precisa da emergência repentina de tal parâmetro particular, mas procede da detecção de uma ‘mise en relief’, da impressão de um acréscimo da massa tonal em um ponto determinado da corrente sonora.
+Os foneticistas da escola francesa de Aix-en-Provence, criada por Faure e Rossi, notabilizaram-se pelas suas pesquisas no campo da prosódia. Entre eles, Di Cristo (1985) elaborou um método de estilização prosódica particularmente refinada. Partindo do fato conhecido de que o sinal da fala veicula simultaneamente variáveis condicionadas e variáveis independentes, ele procedeu na eliminação das primeiras para destacar as últimas que são as únicas que refletem os comandos lingüísticas, isto é, a competência do falante. Seu método de estilização pluriparamétrica dos traçados objetivos fornecidos pelos detectores de melodia, de intensidade e de duração consiste em eliminar as variações microprosódicas intrínsecas (inerentes aos segmentos) e co-intrínsecas (devidas à coarticulação) e, sobretudo, em converter perceptualmente as configurações acústicas. Isso compreende uma aplicação hierarquizada de diferentes limiares psicoacústicos, tais como os limiares diferenciais de freqüência, duração e intensidade, e limiares de glissando de freqüência e de intensidade.
+É, obviamente, necessário analisar prévia e separadamente os diferentes parâmetros físicos que constituem o sinal prosódico, para ter condições de interpretar a natureza de suas diversas interações.
+A interpretação dos dados acústicos brutos observáveis nos gráficos (curvas de onda, de intensidade, de freqüência) deve, portanto, obedecer a fatores de ponderação perceptuais. De acordo com Rossi et al. (1981), os principais são os seguintes:
+(a) o limiar de percepção do ‘loudness’ corresponde a uma diferença de no mínimo 3 decibéis (dB) de intensidade entre vogais vizinhas. Geralmente, mede-se o pico de amplitude de cada vogal. Em caso de modulação descendente, as medições são realizadas no primeiro terço das curvas e em caso de modulação ascendente no segundo terço;
+(b) o limiar de percepção do ‘pitch’ corresponde a no mínimo 6% de diferença em hertz (Hz) ou a um semi-tom de diferença de altura melódica entre vogais vizinhas. As medições são realizadas na parte estável das curvas de freqüência, a qual corresponde aos 2/3 das vogais;
+
+O SISTEMA PROSÓDICO PANCHAPAKURA
+
+153
+
+(c) o limiar de percepção da duração corresponde a 25% de diferença de tempo em milissegundos entre vogais com duração maior que 100 ms, e a, no mínimo, 30 ms entre vogais com duração menor que 100 ms.
+Enfim, alerta Di Cristo (1985:24) é indispensável, para uma filtragem perceptual correta, não esquecer-se de levar em consideração a linha de declinação de F0 (‘downdrift’), que acompanha a emissão de um enunciado. Contrariamente ao que se pensou durante muito tempo, a linha de declinação da freqüência fundamental não é um simples produto do desempenho (‘performance’) mas tem um importante valor fonológico. O estudo de Breckenridge & Liberman (1977) sobre diversas línguas não tonais, como o inglês, esclareceu que o papel fonológico da declinação não se restringe apenas às línguas tonais, como as da família Bantu (Angenot 1981). De acordo com esses autores, a altura das sílabas que constituem uma frase é percebida comparativamente à suas posições na linha de declinação. Demonstraram experimentalmente que se temos duas vogais consecutivas de mesmo F0, é de esperar-se, em conseqüência do efeito deste ‘downdrift’, que a segunda vogal seja ouvida mais alta que a primeira, apesar de ambas terem a mesma altura acústica: ‘This series of experiments established that there is a perceptual analog to the declination effect; an intonation peak which is in fact equal in pitch (sic) to a preceding peak often sounds higher (p. 33)’. A declinação como elemento constitutivo do código lingüístico constitue um critério importante na nossa interpretação lingüística da proeminência acentual dos lexemas das línguas Chapakura.
+Para realizar as medições prosódicas desta pesquisa, utilizamos o sistema informatizado WINCECIL v. 2.1b, elaborado pelo Summer Institute of Linguistics, no qual uma placa sonora SOUND BLASTER serve de conversor analógico-digitalanalógico desse sistema, integrado ao WINDOWS 95. O cálculo da freqüência fundamental em hertz que propicia, vem vantajosamente acompanhado da conversão perceptual em semi-tons. Embora ajudem, as filtragens perceptuais parciais do WINCECIL não são obviamente suficientes para permitir uma interpretação direta dos dados numéricos fornecidos.
+Como exemplo, a figura 01 apresenta a análise acústica do lexema [kxu(»si@˘ ] ’peito’, mostrando as curvas de onda, de intensidade, de mudanças segmentais e de altura.
+
+154
+
+ANGENOT-DE LIMA & ANGENOT
+
+figura 01
+As vogais deste lexema apresentam as seguintes medições acústicas:
+
+Decibeis (Db) Escala relativa ‘Loudness’ Hertz (Hz) Semi-tons ‘Pitch’
+Milissegundos (Msc) Duração
+
+[ u$ ] 13 2 átono 168 40.3 baixo
+125 breve
+
+[ » i^ ˘ ] 36 1
+tônico 193-159 43.2-39.2 descendente = tonema alto
+353 longo
+
+Para a transcrição fonética dos dados, necessariamente menos precisa que medições
+físicas (uma imprecisão que, aliás, não prejudica, uma vez que serve apenas para
+estudos lingüísticos e não microacústicos), os sinais diacríticos adotados são os do
+Alfabeto Fonético Internacional, ou seja, [ ˘ ] para a duração longa, [ ( ] para a duração extra-breve, [ @ ] para o acento tonal de altura (‘pitch’) e [ » ] para o acento tônico de intensidade (‘stress/ loudness’).
+Assim, por exemplo, na palavra [kxu(»si@˘ ] ’peito’, a primeira vogal [ u( ] é breve, átona e tonal baixa e a segunda vogal [ »i@˘ ] é longa, tônica (‘stress’ acentuada) e tonal alta (‘pitch’ acentuada).
+
+O SISTEMA PROSÓDICO PANCHAPAKURA
+
+155
+
+2.2. Resultados da análise prosódica As duas tabelas seguintes sintetizam os resultados de nossa análise prosódica efetuada com 300 cognatos de cinco línguas Chapakura (Miguelenho, Moré, Kuyubi, Oro Mon, Oro Win).
+Na primeira tabela, está feita, para cada língua, uma distinção entre as palavras dissílabas cujo ‘onset’ da primeira sílaba é uma oclusão glotal, e as cujo ‘onset’ da primeira sílaba é outra consoante. Essa dicotomia justifica-se pela constatação da fragilidade diacrônica das sílabas leves iniciadas por oclusão glotal.
+
+Miguelenho Moré Kuyubi Oro Mon Oro Win Panchapakura
+
+# / ---# C --# / ---# C --# / ---# C --# / ---# C --# / ---# C --# / ---# C ---
+
+INTENSIDADE dB
+V $ VC / V: $ 21.1 25.6 21.3 21.8 14.0 28.5 17.4 26.0 11.8 21.1 13.1 21.4 19.5 24.3 23.3 27.0 14.2 13.7 14.0 12.6 16.1 22.6 17.8 21.7
+
+VALORES MÉDIOS
+
+ALTURA
+
+ST
+
+V $ VC / V: $
+
+V$
+
+39.7 40.8
+
+122
+
+39.5 40.4
+
+118
+
+40.0 42.6
+
+150
+
+40.0 42.4
+
+141
+
+42.5 43.8
+
+126
+
+44.1 43.8
+
+127
+
+40.0 40.1
+
+110
+
+47.7 40.3
+
+99
+
+46.0 46.4
+
+121
+
+45.8 45.4
+
+113
+
+41.6 42.7
+
+125
+
+43.4 43.0
+
+119
+
+DURAÇÃO
+
+ms
+
+VC $ V: $
+
+156
+
+239
+
+141
+
+246
+
+239
+
+422
+
+230
+
+388
+
+205
+
+322
+
+217
+
+271
+
+155
+
+151
+
+183
+
+247
+
+160
+
+298
+
+187
+
+307
+
+179
+
+300
+
+Na segunda tabela, esta diferenciação está desconsiderada e foi calculada a média geral dos dois contextos, com e sem oclusiva glotal inicial:
+
+Miguelenho Moré Kuyubi Oro Mon Oro Win Panchapakura
+
+geral geral geral geral geral geral
+
+INTENSIDADE dB
+V $ VC / V: $ 21.2 23.7 15.7 27.2 12.4 21.2 21.4 25.6 14.1 13.1 16.9 22.1
+
+VALORES MÉDIOS
+
+ALTURA
+
+ST
+
+V $ VC / V: $
+
+V$
+
+39.6 40.6
+
+120
+
+40.0 42.5
+
+145
+
+43.3 43.8
+
+126
+
+43.8 40.2
+
+99
+
+45.9 45.9
+
+118
+
+42.5 42.6
+
+122
+
+DURAÇÃO
+
+ms
+
+VC $ V: $
+
+148
+
+242
+
+234
+
+404
+
+211
+
+296
+
+153
+
+171
+
+272
+
+183
+
+303
+
+Nas tabelas acima, a proeminência acentual de intensidade, expressa em decibéis, ou de altura, expressa em semi-tons, tem seus valores numéricos destacados em
+
+156
+
+ANGENOT-DE LIMA & ANGENOT
+
+caracteres negritos. Os ‘plateaux acentuais’ (Teles 1995), seja de intensidade ou de altura, têm seus valores numéricos destacados em caracteres itálicos.
+A interpretação fonológica correta de um ‘plateau’ acentual exige um comentário. Um ‘plateau’, formado por acentos equivalentes, não é diretamente observável num gráfico de dados acústicos, pois, é, por natureza, o produto de uma filtragem psicoacústica de nivelamento baseado nos limiares de percepção acima descritos. Contudo, é necessário uma segunda filtragem psicoacústica, ou seja, a correção perceptual do efeito da declinação (‘downdrift’) para que um ‘plateau’ possa ser interpretado lingüisticamente de modo satisfatório. Com efeito, quando dois acentos sucessivos se tornaram equivalentes em decorrência da primeira ponderação dos limiares de percepção, o segundo desses acentos deve ser reinterpretado fonologicamente como proeminente, em decorrência da segunda ponderação do efeito da declinação. Naturalmente, considerada de um ponto de vista processual, uma proeminência manifestada na segunda sílaba de um ‘plateau’ não deixa de ser um indício de enfraquecimento desta proeminência. Poderíamos dizer que, diacronicamente, uma proeminência em final de ‘plateau’ constitui o primeiro estágio de um processo de mudança acentual. Sincronicamente, fazemos uma distinção terminológica entre uma modalidade ‘resistente’ de proeminência acentual quando está localizada fora de ‘plateau’ e uma modalidade ‘frágil’ quando está localizada em final de ‘plateau’.
+Os resultados apresentados nas tabelas acima confirmam experimentalmente a existência de uma escala decrescente de preservação da proeminência acentual na sílaba pesada do lexema Protochapakura, em diversos pontos da qual se situam as atuais línguas descendentes.
+As tabelas acima revelam a seguinte escala e conservadorismo decrescente:
+(a) em Moré, a proeminência acentual do Protochapakura, que integra a intensidade e a altura, manteve-se sempre e inequivocamente na sílaba pesada na sua modalidade ‘resistente’, tanto nos contextos específicos como globalmente;
+(b) em Kuyubi, a altura maior é preservada na modalidade ‘frágil’, globalmente e quando o ‘onset’ do lexema não é uma oclusiva glotal, enquanto que se manteve na sua versão ‘resistente’, quando o ‘onset’ do lexema é uma oclusão glotal. A intensidade maior manteve-se na sua versão ‘resistente’ em todos os contextos;
+(c) em Miguelenho-Wanham, a situação é inversa à do Kuyubí. É a intensidade maior que é preservada na modalidade ‘frágil’, globalmente e quando o ‘onset’ do lexema não é uma oclusiva glotal, enquanto que se manteve na sua versão ‘resistente’, quando o ‘onset’ do lexema é uma oclusão glotal. Quanto à altura maior, manteve-se na sua modalidade ‘resistente’, globalmente e quando o ‘onset’ do lexema é uma oclusão glotal, enquanto que é preservada na modalidade ‘frágil’ quando o ‘onset’ do lexema não é uma oclusiva glotal;
+
+O SISTEMA PROSÓDICO PANCHAPAKURA
+
+157
+
+(d) em Oro Win, a proeminência acentual do Protochapakura, que integra a intensidade e a altura, é preservada na sua modalidade ‘frágil’, tanto nos contextos específicos como globalmente;
+(e) em Oro Mon, a intensidade maior manteve-se na sua versão ‘resistente’ em todos os contextos, como em Moré e Kuyubí. Quanto à altura maior, ela é preservada na sua modalidade ‘frágil’, quando o ‘onset’ do lexema é uma oclusão glotal. Globalmente e quando o ‘onset’ do lexema não é uma oclusiva glotal, a altura maior é localizada inesperadamente na primeira sílaba leve dos lexemas, e não na segunda sílaba pesada como o Protochapakura e as demais línguas atuais. Tal metátese da altura constitui a manifestação mais evolutiva do sistema acentual do lexema.
+Em conclusão, podemos examinar os resultados das médias calculadas pelo conjunto das línguas Chapakura, que denominamos Panchapakura. Naturalmente, stricto sensu, trata-se de uma ficção, na medida em que não poderia existir nenhuma língua Panchapakura. Contudo, utilizamos o termo Panchapakura lato sensu para designar um conjunto de caraterísticas tipológicas compartilhadas pelas línguas da família Chapakura, ou, como aqui, para um perfil estatístico de nossos resultados. Essa reserva sendo formulada, podemos observar que a proeminência acentual do Protochapakura, que integra a intensidade e a altura, manteve-se na sílaba pesada em Panchapakura. No que tange à intensidade, manteve-se na sua modalidade ‘resistente’, globalmente e em todos os contextos. No que tange à altura, manteve-se também na sua modalidade ‘resistente’, quando o ‘onset’ do lexema é uma oclusão glotal, mas é preservada na sua modalidade ‘frágil’, globalmente e quando o ‘onset’ do lexema não é uma oclusão glotal.
+3. Conclusões Nas línguas Chapakura, a acentuação dos lexemas é dedutível do peso silábico - o único fator prosódico com papel fonológico nessa família lingüística. Portanto, o acento não é fonológico por ser previsível. Pela sua não-contrastividade, o acento lexical das línguas Chapakura assemelha-se ao papel do acento de intensidade em francês. Como é redundante, podemos considerar que, ao nível lexical, a acentuação, tanto de intensidade como de altura, contribui como um reforço perceptual do peso silábico na tarefa da demarcação da palavra fonológica e morfológica no registro fonoestilístico maxiarticulado.
+
+158
+
+ANGENOT-DE LIMA & ANGENOT
+
+ESCALA DE CONSERVADORISMO
+DECRESCENTE DA ACENTUAÇÃO PROTOCHAPAKURA (1)
+MORÉ
+
+Contexto
+/ −−− C −−−
+
+MÉDIA
+
+(2) KUYUBI
+
+/ −−− C −−−
+
+MÉDIA
+
+(3) MIGUELENHO
+(4) ORO WIN
+(5) ORO MON
+
+/ −−− C −−− MÉDIA / −−− C −−− MÉDIA / −−− C −−− MÉDIA
+
+PANCHAPAKURA
+
+/ −−− C −−− MÉDIA
+
+Tabela de síntese
+
+PARÂMETRO ACÚSTICO
+
+MODALIDADE DE
+
+PROEMINÊNCIA
+
+ACENTUAL DO LEXEMA
+
+SÍLABA SÍLABA
+
+LEVE
+
+PESADA
+
+INTENSIDADE
+ALTURA INTENSIDADE ALTURA INTENSIDADE ALTURA INTENSIDADE
+ALTURA INTENSIDADE ALTURA INTENSIDADE ALTURA INTENSIDADE
+ALTURA INTENSIDADE ALTURA INTENSIDADE ALTURA INTENSIDADE
+ALTURA INTENSIDADE ALTURA INTENSIDADE ALTURA INTENSIDADE
+ALTURA INTENSIDADE ALTURA INTENSIDADE ALTURA
+INTENSIDADE
+ALTURA INTENSIDADE ALTURA INTENSIDADE ALTURA
+
+−
+− − − − − −
+− − − − − −
+− − − − − −
+− − − − − −
+− − resistente − resistente
+−
+− − − − −
+
+resistente
+resistente resistente resistente resistente resistente resistente
+resistente resistente
+fraca resistente
+fraca resistente
+resistente fraca fraca fraca
+resistente fraca
+fraca fraca fraca fraca fraca resistente
+fraca resistente
+− resistente
+−
+resistente
+resistente resistente
+fraca resistente
+fraca
+
+O SISTEMA PROSÓDICO PANCHAPAKURA
+
+159
+
+Referências bibliográficas I. Bibliografia exaustiva sobre as línguas Chapakúra Angenot, Geralda de Lima 1995a Levantamento sociolingüístico dos falantes da língua Moré em Monte Azul,
+Bolívia, CEPLA Working Papers in Amerindian Linguistics, Série ‘Documentos de Trabalho’. Angenot, Geralda de Lima 1995b Subsídios para a glotocronologia lexicoestatística da família Chapakura, CEPLA Working Papers in Amerindian Linguistics, Série ‘Documentos de Trabalho’. Angenot, Geralda de Lima 1997a Fonotática e Fonologia do Lexema Protochapakura, Guajará-Mirim, Brasil: Universidade Federal de Rondônia, Dissertação de Mestrado, 185 pp. Angenot, Geralda de Lima 1997b Documentação da língua Miguelenho-Wanyam: Arquivos acústicos, CEPLA Working Papers in Amerindian Linguistics, Série ‘Documentos de Trabalho’, 500 pp. Angenot, Geralda de Lima 1997c Documentação da língua Kuyubi: Arquivos acústicos, CEPLA Working Papers in Amerindian Linguistics, Série ‘Documentos de Trabalho’, 500 pp. Angenot, Geralda de Lima 1997d Documentação da língua Oro Win: Arquivos acústicos, CEPLA Working Papers in Amerindian Linguistics, Série ‘Documentos de Trabalho’, 500 pp. Angenot, Geralda de Lima 1997 Documentação da língua Moré: Arquivos acústicos, CEPLA Working Papers in Amerindian Linguistics, Série ‘Documentos de Trabalho’, 180 pp. Angenot, Geralda de Lima 1997f Corpus Moré: 3500 énoncés analysés, Aix-en-Provence: Ecole Doctorale de Lettres et Sciences Humaines de l’Université de Provence, Mimeo. Angenot-de Lima, Geralda em prep.Le rôle de l’intono-syntaxe pour la levée de l’ambigüité en moré, langue isolante à ordre syntaxique flexible, Aix-en-Provence: Ecole Doctorale de Lettres et Sciences Humaines de l’Université de Provence. Angenot, Geralda de Lima & Michela A. Ribeiro 1997 Dicionário Português-Wanham e Léxico Português- Wanham, [2.100 vocábulos], CEPLA Working Papers in Amerindian Linguistics, Série ‘Documentos de Trabalho’, 134 pp.
+
+160
+
+ANGENOT-DE LIMA & ANGENOT
+
+Angenot, Geralda de Lima & Luciana F. Dos Santos 1995 ‘O peso silábico como um traço tipológico de demarcação lexical na língua
+Kuyubi’, Anais da 47a Reunião Anual da SBPC, São Luís, Maranhão. Angenot, Geralda de Lima & Luciana F. Dos Santos 1997 Léxico Português- Kuyubi e Kuyubi-Português, CEPLA Working Papers in
+Amerindian Linguistics, Série ‘Documentos de Trabalho’. Angenot, Geralda de Lima & Jean-Pierre Angenot 1995 ‘O peso silábico, um traço tipológico de demarcação lexical em línguas
+indígenas isolantes’, Anais da 2a Reunião Especial da SBPC, Cuiaba, Mato Grosso, Resumo. Angenot, Geralda de Lima & Jean-Pierre Angenot 1996 ‘O peso silábico como um traço tipológico de demarcação lexical nas línguas isolantes Moré (Chapakura) e Yuhúp (Makú)’, XI Encontro Nacional da ANPOLL, GT Línguas Indígenas, João Pessoa, Paraíba, Resumo. Angenot, Geralda de Lima & Jean-Pierre Angenot 1997 ‘A reconstrução do peso silábico e da acentuação lexical em Protochapakura’, in: Anais da IIIa Jornada de Linguistica Aborigen, Buenos Aires, Argentina, maio de 1997, 10 pp. Angenot, Geralda de Lima, Jean-Pierre Angenot & Towa Sae Paray 1997 Dicionário Português-Moré e Léxico Moré-Português, [3.800 vocábulos], CEPLA Working Papers in Amerindian Linguistics, Série ‘Documentos de Trabalho’, 500 pp. Angenot, Jean-Pierre 1995 Documentação da língua Moré: Notas de Fonética e de Fonêmica, CEPLA Working Papers in Amerindian Linguistics, Série ‘Documentos de Trabalho’. Angenot, Jean-Pierre & Geralda Angenot-de Lima 2000 ‘Sobre a reconstrução do Protochapakura’, in: H. van der Voort & S. van de Kerke (eds.) Indigenous Languages of Lowland South America, Contributions to the 49th International Congress of Americanists in Quito 1997, Leiden: CNWS. Angenot, Jean-Pierre & Geralda Angenot-de Lima em prep.Essai de Reconstruction du Proto-Chapakura. Angenot, Jean-Pierre & Celso Ferrarezi Jr. 1997 A descoberta de línguas 100% isolantes: a família Chapakura da Amazônia, in: Anais da IIIa Jornada de Linguistica Aborigen, Buenos Aires, Argentina, maio de 1997, 10 pp. Anonymous n.d.b. Vocabulário Jarú e Urupá (298 itens), Material inédito da Comissão Rondon, Rio de Janeiro: Museu do Índio, Doc. s/n (Caderneta No. 3) 22 pp.
+
+O SISTEMA PROSÓDICO PANCHAPAKURA
+
+161
+
+Anonymous n.d.d. Vocabulário Uomo (95 itens), Material inédito da Comissão Rondon, Rio
+de Janeiro: Museu do Índio, Doc s/n, 28 pp. Anonymous n.d.e. Vocabulários dos Uomos, Aroá, Macuráp e Purua, (29 itens para cada
+língua), Material inédito da Comissão Rondon, Rio de Janeiro: Museu do Índio, Doc s/n, 32 pp. Anonymous n.d.f. Tabela com vocabulários de 9 línguas (29 itens cada), Material inédito da Comissão Rondon, Rio de Janeiro: Museu do Índio, Doc s/n, 3 pp. Barboza de Faria, J. n.d.a. Vocabulário Pacanóvas, Jaru, Urupá e Uomo (723 itens), Publicações da Comissão Rondon, 76, Rio de Janeiro: Museu do Índio, 22 pp. Becker-Donner, Etta 1955 ‘Notizen über einige stämme an den rechten Zuflússen des Rio Guaporé’, Archiv für Völkerkunde, 10:275-343. Vienna [Pakaanóva 326-7] Becker-Donner, Etta n.d. Vokabular der Pakanovo-Sprache, Museum fur Völkerkunde, Vienna. [Pakaanóva] Cardús, José 1886 Las misiones franciscanas entre los infieles de Bolivia, Barcelona. [Napeka, Chapakura, Itene] Chamberlain, Alexander Francis 1910 ‘Sur quelques familles linguistiques peu connues ou presque inconnues de l’Amérique du Sud’, Journal de la Societé des Americanistes de Paris, 7:179-202 Chamberlain, Alexander Francis 1912 ‘The linguistic position of the Pawumwa Indians of South America’, American Antrhropologist, 14:632-5. Créqui-Montfort, G de & Paul Rivet 1913 ‘Linguistique bolivienne, La famille linguistique Chapakura’, Journal de la Societé des Américanistes de Paris, 10:119-71. Everett, Daniel L. 1990 ‘A structural comparison of Arawan and Chapakuran: evidence for a genetic classification?’, paper read at Boulder, Colorado, [Comparative] Everett, Daniel & Barbara Kern 1996 The Wari’ language of western Brazil (Pacaas Novos), London: Routledge. Ferrarezi Jr., Celso 1997 Ouvindo as histórias de Touá Saê: Mitos e lendas da Nação Moré, Guajará-Mirim: CEPLA Working Papers in Amerindian Linguistics, Série ‘Documentos de Trabalho’.
+
+162
+
+ANGENOT-DE LIMA & ANGENOT
+
+Hanke, Wanda n.d. ‘Notas lingüísticas del idioma Huanyan’, apud Montaño Aragón, La Paz,
+Bolívia. [Kabishi, Miguelinho] Haseman, J. D. 1912 ‘Some notes on the Pawumwa Indians of South America’, American
+Anthropologist, 14, 2:333-49 Hervas Y Panduro, Lorenzo 1800 Catálogo de las lenguas de las naciones conocidas... (Vol. 1: Lenguas y
+naciones americanas). Leigue Castedo, Luis 1957 El Itenez salvaje, La Paz: Ministerio de Educación, Colección de Etnografía
+y Folklore, 3, 184 pp. Loukotka, Chestmir 1950 ‘La parenté des langues du bassin de la Madeira’, Língua Posnaniensis,
+2:123-44. Poznán. Loukotka, Chestmir 1963 ‘Documents et vocabulaires inédits de langues et de dialectes sud-
+américains’, Journal de la societé des Américanistes de Paris, 17:137-72. [Abitana 19, Kumaná, Yaru 20] MacEachern, Margaret R., Barbara Kern & Peter Ladefoged 1997 ‘Wari’ phonetic structures’, The Journal of Amazonian Languages, 1:5-29. Maeda, Cláudia Teles (em preparação para 1997 Aspectos da estrutura fonética do Oro Ew, língua da família Chapakura: uma abordagem acústica, UNIR: dissertação de Mestrado. Métraux, Alfred 1940 ‘Los indios chapakura del oriente boliviano’, in: Anales del Instituto de Etnografía Americana, Tomo 1, Universidad Nacional de Cuyo, Mendoza, Argentina. Müller, Diocelma 1995 Aspectos da Fonética e da Fonêmica da língua Moré ( família Chapakura), Dissertação de Mestrado, Florianópolis: Universidade Federal de Santa Catarina. Nimuendaju, Curt 1925 ‘As tribos do Alto Madeira’, Journal de la Societé des Américanistes de Paris, 17:137-72. [Torá 148-57, Urupá 158-9] Nimuendaju, Curt n.d. Documentos inéditos, principalmente vocabulários, Arquivos microfilmados do Museu Nacional do Rio de Janeiro, 5pp. [Chapakura s.3:f.9/17, Pawumwa s.3:f.9/17, Napeka s.3:f17; Abitana f.21]
+
+O SISTEMA PROSÓDICO PANCHAPAKURA
+
+163
+
+Nimuendajú, Curt & E. de Valle Bentes 1923 ‘Documents sur quelques langues peu connues de l’Amazonie’, Journal de
+la Societé des Américanistes de Paris, 15:215-22. [Torá 217, 222, Urupá 222] Nimuendajú, Curt 1925 ‘As tribos do Alto Madeira’, Journal de la Societé des Américanistes de Paris, vol 17:137-172. Nordenskiöld, Erland n.d. ‘Vocabulário Huanyam, Rio Guaporé’, Archives of Professor Paul Rivet, Paris. [Wanyam] Orbigny, Alcide Dessalines d’ 1839 L’homme américain de l’ Amérique méridionale’, 2 vols, Paris. [Chapakura 164, Itene 168-9, Nape 168] Rydén, Stig 1958 Los indios Moré, Notas etnográficas, Ministério... La Paz 71 pp. [Moré] Pauly, Antonio 1928 Ensayo de etnografia americana, Viajes y exploraciones, Buenos Aires. [Chapakura 168-9, Nape 168] Rondon, Cándido M. da Silva & João Barbosa de Faria 1948 Glossário Geral das tribus silvícolas do Mato Grosso e outros da Amazônia e do Norte do Brasil, Rio de Janeiro: Publicação do Conselho Nacional de Proteção aos Índios, 266 pp. [Jarú, Urupá, Uómo, Pakaanóva 203-10] Sheldon, Steven Neil n.d. Pacas Novas: Formulário dos vocabulários padrões, Arquivos da UNICAMP, Campinas, 9 pp. [Pakaanóva] Snethlage, Emil Heinrich 1935 ‘Nachrichten über die Pausernaa-Guarayu, die Siriono am Rio Baurés und die San Simonianes in der Nähe der Serra San Simón’, Zeitschrift für Ethnologie, 67:278-93. [Sansimoniano] Snethlage, Emil Heinrich 1937 Atiko y, Meine Erlebnisse bei den Indianern des Guaporé, Berlín. [Itene 369, Itoreauhip 31-69, Abitana, Kumaná, Kabixi], BN [980.1, 5.671a] Snethlage, Emil Heinrich n.d. Informações sobre Abitana-Wanyam, Ms. [Abitana, Wanyam] Teza, Emilio 1868 Saggi inediti di lingue americane, Appunti bibliografici, Annali delle Universitá Toscane, (Parte prima: scienze neologiche) 1.10:117-43. Pisa. [Mure text only, Rocorona].
+
+164
+
+ANGENOT-DE LIMA & ANGENOT
+
+II. Bibliografia sobre prosódia: Angenot, Jean-Pierre 1981 ‘A note on downdrift, low raising, and downstep’, in: J.-P. Angenot, G.L.
+Istre, J.J. Spa & P. Vandresen (eds.) Studies in Pure Natural Phonology and related Topics, Florianópolis: UFSC Working Papers in Linguistics An International Series. Breckenridge, J. & M. Liberman 1977 The declination effect in perception, [Mimeo], Bell Laboratories Publ. Di Cristo, Albert 1985 De la Microprosodie à l’Intonosyntaxe, [2 tomes], Aix-en-Provence: Publications de l’Université de Provence. Rossi, Mario, Albert Di Cristo, Daniel Hirst, Philippe Martin & Yukihiro Nishinuma 1981 L’Intonation, de l’Acoustique à la Sémantique, Etudes Linguistiques de l’Institut de Phonétique d’Aix-en-Provence 25, Paris: Klincksieck. Teles, Iara Maria 1995 Atualização fonética da proeminência acentual em Baníwa-Hohodene: Parâmetros físicos, [Dissertação doutoral], Florianópolis: Universidade Federal de Santa Catarina.
+
+

@@ -1,0 +1,327 @@
+Uma proposta de classificação interna das línguas da família pano
+Lincoln Almir Amarante Ribeiro* Universidade Estadual de Goiás
+Universidade Federal de Minas Gerais
+Resumo Este artigo propõe uma classificação interna para línguas da Família Pano. Obtivemos a classificação usando 34 línguas que dispõem de dados na literatura. Os dados foram reunidos em um grupo com 302 conjuntos de “cognatos”. Nos dados, usamos o Método de Inferência Bayesiano com o algoritmo de Monte-Carlo. Consideramos cada elemento dos conjuntos obtidos como um “alelo” de um “caractere” que é representado pelo significado ao qual pertence aquele conjunto. Obtivemos, assim, a seqüência de caracteres de cada língua e aplicamos o referido método matemático de obtenção da árvore. O resultado é uma classificação interna puramente lingüística das línguas Pano. Palavras-chave: Lingüística Histórica; Línguas Pano; Métodos Cladísticos; Classificação Interna.
+Abstract In this work we propose an internal classification of the Pano family. The classification was obtained using 34 languages with data available in the literature. Data was grouped into 302 sets of “cognates”. In this data we used the Bayesian Inference Method with the Monte Carlo algorithm. We consider each element of the set as an “allele” of a “character” represented by the meaning to which it belongs. We obtained in this way the character sequence of each language and we then applied the
+* Graduado em Engenharia Civil (1969), Mestrado em Física (1973) e Doutorado em Física (1979). Todos pela UFMG. Atualmente integra o Grupo de Investigação Científica de Línguas Indígenas da Universidade Estadual de Goiás.
+157
+
+mathematical method to obtain the trees. The results points to a purely linguistic classification of Pano languages. Key words: Historical Linguistics; Pano Languages; Cladistic Methods; Internal Classification.
+Résumé Cet article propose une classification interne pour les langues de la famille "Pano". Nous avons obtenus cette classification en utilisand trente-quatre langues que disposent les donnés en la litéracture. Ces donnés là ont été réunis dans un groupe avec troicents-deux ensembles de "cognates". Dans les donnés, nous nous utilisons de la méthode d' inference "bayesian", avec algorithme de Monte-Carlo. On considere chaque élément des ensembles obtnenus avec un "alelo" d'un "caracter" donc est representé pour le signifié pertinente à cet ensemble. Nous avons obtenus, donc, la séquence de caractères de chaque langue et nous aplicons tel méthode mathématique d'obtention de l'arbre. Le résultat est une classification interne exclusivemente linguistique des langues "Pano". Mots-clé: Linguistique historique; Langues Pano; Méthodes Cladistiques.
+Introdução
+A classificação é peça fundamental em qualquer estudo científico. Independente do tipo de investigação, a primeira idéia que ocorre a um pesquisador, que dispõe de um número significativo de dados, é a de elaborar uma classificação que sistematize e simplifique o objeto de seu estudo. Não poderia ser diferente nos estudos relativos às línguas, pois, tão logo a Lingüística se constituiu como ciência, classificações taxonômicas influenciadas por métodos biológicos foram elaboradas para as línguas do mundo. Devido à grande diversidade de línguas faladas nas Américas, muitos foram os estudos dedicados à classificação das línguas desse continente e, em especial, das línguas da família Pano.
+É neste contexto que se insere o presente artigo cujo objetivo é apresentar uma proposta de classificação interna para a Família Pano feita a partir da compilação de dados supostamente confiáveis de 34 línguas dessa família e, ainda, da aplicação de métodos tradicionais da Lingüística Histórico-Comparativa na distribuição dos dados em 302 conjuntos “cognatos”. Nessa tarefa, não foi suposta a existência prévia de subgrupos.
+158
+
+Os conjuntos foram obtidos através do uso de listas de Swdesh (1950) de 100 itens e, portanto, foram extraídos do chamado vocabulário básico (e não cultural) com equivalência semântica entre as línguas.
+Uma vez obtidos os conjuntos cognatos, aplicou-se o Método Cladístico de Inferência Bayesiano combinado com o algoritmo de Monte-Carlo sem, contudo, fazer uso de matrizes de distâncias. As matrizes utilizadas foram de seqüências de caracteres. Para assim proceder, considerou-se cada elemento dos 302 conjuntos obtidos como um “alelo” de um “caractere” que foi representado pelo significado ao qual pertence aquele conjunto. Registrou-se, então, a seqüência de caracteres de cada língua e aplicou-se o método matemático de obtenção da árvore. Disso resultou uma classificação interna das línguas Pano que, ressalte-se, foi obtida por métodos puramente lingüísticos.
+Preliminares
+Desde a época de Darwin (1871), acredita-se que a evolução das línguas e das espécies ocorre de maneira paralela bem como a demonstração de que esse fenômeno se desenvolve mediante um processo gradual. De fato, processos biológicos fundamentais de evolução como, por exemplo, a cladogênese, a seleção, a flutuação aleatória e a mutação têm análogos lingüísticos (Pagel 2000). Isto é, assim como as espécies estão sujeitas à seleção natural, as línguas estão sujeitas à seleção social. Os processos de flutuação aleatória e mutação atuam nos “linguemas” da mesma maneira que nos genes (Croft 2000). E o que é mais fundamental: do mesmo modo que as linhagens biológicas separam-se e divergem em árvores de famílias, também as línguas devem se comportar.
+Naturalmente, todo esse paralelismo indica que: a) tanto a Biologia Evolucionária quanto a Lingüística Histórica buscam respostas para questões semelhantes; b) que ambas as ciências encontram as mesmas dificuldades e c) que, muitas vezes (como no presente estudo, aliás), costumam usar métodos semelhantes para se chegar a uma solução de problema.
+Muitas línguas naturais se agrupam em famílias geneticamente relacionadas. De acordo com a Lingüística Histórica, um grupo é geneticamente relacionado lingüisticamente se: a) todas as línguas desse
+159
+
+grupo foram em alguma época do passado uma só língua; b) esta língua comum do passado (chamada protolíngua) transformou-se nas diversas línguas do grupo; c) essa transformação foi realizada por meio da transmissão de L1 (a criança adquire sua primeira língua através do contato com os adultos de sua comunidade lingüística).
+Assim, acredita-se que as línguas possam ser descritas por uma estrutura evolucionária hierárquica na forma de uma árvore, ou seja, uma representação gráfica da evolução do grupo de línguas a partir do ancestral comum mais próximo. As línguas dão nomes aos ramos da árvore enquanto os nós internos indicam os ancestrais comuns. O nó de partida é freqüentemente denominado de raiz. Um nó é rotulado como “pai” de outro nó se está situado imediatamente acima na hierarquia e mais próximo da raiz. Nós “irmãos” são aqueles que compartilham o mesmo nó “pai”. O nó que está conectado a todos os nós mais baixos na hierarquia é chamado de “ancestral”. A raiz é a ancestral de todos os nós. Notemos que o desenho, ou seja, a representação gráfica de uma árvore na Lingüística assim como na Biologia é o de uma árvore invertida. A linguagem de árvores foi introduzida no meio científico por Schleicher (1861).
+Um aumento da ênfase no contato lingüístico tem desafiado a validade do modelo de árvores como uma descrição satisfatória para o relacionamento genético entre línguas. Já no passado visões diferentes para a evolução das línguas naturais — entre elas, o modelo de ondas de Schmidt (1872) — questionaram essa visão e deram origem à ciência da Dialetologia. Mais recentemente, Dixon (1997) criticou a validade do modelo em certas circunstâncias. Apesar disso, o tratamento da classificação de línguas por meio de árvores continua tendo muita aceitação nos trabalhos de descrição de sua evolução histórica.
+A família Pano
+A família etnolingüística conhecida como Pano1 possui 34 línguas conhecidas, com cerca de 40.000 falantes. Ocupa juntamente com várias etnias de outras famílias, uma vasta área de forma aproximada de um quadrilátero cujos lados são limitados pelos paralelos
+1 Quanto à origem do nome, segundo Tessman (1999), Pano provavelmente significa ‘Tatu gigante’ (Priodontes Maximus).
+160
+
+3° S e 14° S e pelos meridianos 72° W e 64° W. Esse quadrilátero se situa na região amazônica boliviana, brasileira e peruana. A família Pano recebeu essa denominação devido ao nome de um dos seus membros, hoje extinto: o Panobo ou Wariapano. Como comumente ocorre com as populações indígenas, esses povos ocupam sempre áreas contíguas às margens de rios. Assim, do Norte para o Sul, ocupam áreas que vão do Rio Amazonas ao alto Madeira e Beni; de Oeste para Leste, vão do Ucayali até as cabeceiras do Javari, Juruá e Purus. Rodrigues (1986), em sua clássica apresentação das línguas indígenas brasileiras, afirma que as línguas Pano são faladas no sul e oeste do Estado do Acre, na parte ocidental de Rondônia e no norte do Amazonas, entre os Rios Juruá e Javari. Para esse autor, as línguas Pano não estão enquadradas em nenhum tronco e são meramente membros de uma família lingüística. Para maiores informações sobre essa família, ver Fabre (2005).
+Classificações das Línguas Pano: Trabalhos Prévios
+Diversas tentativas foram feitas para classificar as línguas da família Pano por vários estudiosos, tais como lingüistas, missionários, naturalistas, etnólogos, entre outros. As tentativas de classificação são de dois níveis: a) o das classificações das línguas pano quando inseridas no conjunto das línguas sul-americanas, no conjunto das Línguas da América e no conjunto das línguas do mundo; b) o das classificações internas da família Pano, propriamente dita.
+Aparentemente, a primeira menção aos povos de línguas Pano na literatura foi feita por Martius (1867) que apresenta um glossário de línguas brasileiras, fazendo referência aos Maxoruna, Mayoruna (Doméstica e Fera), Caripuná, Culino, Pano, entre outros. O glossário dessas línguas apresentado em Martius se constituiu no primeiro glossário de línguas da família Pano. Entretanto o nascimento “oficial” da família etnolingüística Pano é marcado pelo trabalho de Raoul de la Grasserie (1888) apresentado no VII Congresso Internacional dos Americanistas, em Berlim. Esse trabalho considerou o Pano como uma família lingüística autônoma composta pelas seguintes línguas: Conibo, Pacavara, Caripuna, Culino, Maxuruna, Mayoruna domesticada e Mayoruna selvagem.
+161
+
+Em termos de classificação, quer seja num contexto de línguas mundiais ou sul-americanas, quer seja no interior da família Pano, a primeira classificação foi feita pelo antropólogo norte-americano Brinton (1891). Este pesquisador aumentou o número de línguas citadas por Grasserie (1888) de sete para 18 línguas, colocando-as no grupo que denominou de Sul-Americanas do Atlântico. São elas: Barbudos, Callisecas, Canawaris, Caripunas, Cashibos, Chamicuros, Cochivuinas, Conibos, Culinos, Jaunaves, Mayorunas, Maxorunas, Panos, Pacaguaras, Remos, Sensis, Setibos e Sipibos.
+Logo na seqüência, Crequi-Monfort & Rivet (1913) adicionaram as línguas Pano faladas na Bolívia às classificações anteriores. Chamberlain (1913), outro antropólogo, publicou nova classificação que permaneceu como modelo por muitos anos até ser substituída pela proposta de Rivet & Tastevin (1921) e Rivet & Tastevin (1924) que incluía 77 famílias, dentre elas a Pano. Nesses trabalhos, Rivet & Tastevin dividiram a família Pano segundo sua área geográfica de ocupação em três grupos. O primeiro grupo, com aproximadamente 29 línguas, habita a região dos rios Amazonas e Ucayali; o segundo, com 4 línguas, a área do Rio Inamberi e o terceiro, com 6 línguas, a região dos rios Beni, Madre de Dios, Mamoré e Madeira.
+Em Schmidt (1926), há uma distribuição das línguas da família também em três grupos, embora sejam diferentes dos de Rivet & Tastevin (1921, 1924). Para Schmidt, existiam os grupos do Norte, com 10 línguas; o grupo do Centro, com 2 línguas e o grupo do Sul, com dois subgrupos: o do Leste, com 5 línguas e do Oeste, com 3 línguas.
+Loukotka (1944) distribuiu as línguas geograficamente nos três grupos de Rivet & Tastevin, com alguma diferença no número de línguas. No grupo do Norte, por exemplo, há 22 línguas ao invés das nove propostas pelos autores. Posteriormente, Rivet & Loukotka (1952) elaboraram uma nova classificação na qual enumeram 108 famílias incluindo a Pano.
+Mason (1950) classifica as línguas Pano em três grupos: o Central, o do Sudoeste e o do Sudeste, incluindo uma grande quantidade de línguas.
+McQuown (1955) classifica as línguas Pano em três grandes subdivisões, do mesmo modo que Rivet & Loukotka, denominadas Pano
+162
+
+Central, Sul-Ocidental e Sul-Oriental. O grupo Central tem 71 línguas e os do Sul-Ocidental e Sul-Oriental, 7. As classificações de Mason (1950) e McQuown (1955) são praticamente idênticas.
+Embora muito questionadas, as classificações mais usadas atualmente são as elaboradas por Greenberg (1956) e Swadesh (1964). Na classificação do primeiro, encontram-se três grandes divisões para a América do Sul. Uma delas é o Ge-Pano-Caribe que tem entre seus phyla constitutivos o Macro-Pano que, por sua vez, inclui a família TacanaPano. Swadesh (1964) utilizou um método glotocronológico com listas de 100 palavras de vocabulário básico e formou agrupamentos de acordo com sua teoria. Também colocou as línguas Pano no grupo PanoTacana. Refazendo a classificação apresentada anteriormente, Greenberg (1987) incluiu a família Pano no Pano-Takana, um subgrupo do MacroPano.
+Todas essas classificações da família Pano padecem de alguns defeitos crônicos e a maioria apresenta problemas sérios. Em primeiro lugar, chama a atenção o enorme número de nomes de povos que habitam as regiões de interesse do Brasil, do Peru e da Bolívia. Esse número é incompatível com os relatos de pessoas que estiveram nas regiões e de pesquisadores de órgãos (governamentais ou não governamentais) que lidam com a questão indígena. Isso leva a concluir que essa abundância de nomes é devida a equívocos que serão aqui relatados.
+Muitos dos nomes que aparecem nas classificações são sinônimos, ou seja, são nomes atribuídos por pessoas diferentes para o mesmo povo. Existem nomes que são dados ao povo por “brancos”, por outros povos ou que são auto-atribuídos. Por exemplo, os Kaxinawá são assim denominados pelos “brancos” brasileiros, mas são chamados de Cashinahua pelos Peruanos e, ainda, de huni kuĩ por si mesmos.
+Também é costume colocar na classificação um clã de um povo como se fosse uma nação. Colocam-se também nomes de povos que não são de língua Pano, na classificação dessa família. Há também relatos de tribos “desaparecidas” que podem não passar de fruto da imaginação de seringueiros ou mesmo dos próprios índios.
+Para os lingüistas, a situação ainda é mais caótica, pois é comum se confundir a etnia com a língua dos falantes e daí resultar uma
+163
+
+classificação que seria étnica e, às vezes, até mesmo geográfica, ao invés de lingüística. Além disso, a maioria das classificações (senão todas), na falta de avaliação lingüística, baseia-se exclusivamente na situação geográfica dos povos.
+Outras classificações
+Shell (1965) apresentou uma proposta de classificação interna das línguas Pano baseando-se no método histórico-comparativo. Em sua proposta, essa autora utilizou as inovações compartilhadas e o resultado é mostrado na Figura 1, abaixo.
+Figura 1: Árvore genealógica da Família Pano proposta por Shell (1965).
+LINCOLN, FIGURAS E TABELA
+Amahuaca Cashinahua Sharanahua
+Chacobo Shipibo-Conibo Capanahua Cashibo
+Utilizando um método glotocronológico, d’Ans (1973) tentou reclassificar as línguas Pano que eram até então subdivididas, conforme já descrito anteriormente, em Pano Central, Sul-Ocidental e SulOriental. Nesse trabalho, d’Ans aventou a hipótese de que os chamados Pano Sul-Ocidentais eram, na realidade, fruto de postulações errôneas de interpretação de fontes antigas e que, além disso, as subdivisões em Central e Sul-Oriental eram classificações meramente geográficas. Tentando contornar esse problema, o autor subdividiu a família Pano em Pano Ucayalino, Pré-Andino, das Cabeceiras, Beniano e do Norte. Como se pode notar a seguir, essa proposta de classificação infelizmente não incluía as línguas Pano faladas no Brasil.
+164
+
+Classificação das Línguas Pano: d’Ans (1973).
+I. PANO UCAYALINO A. UCAYALINO A 1. Shipibo-Conibo a. Shipibo b. Conibo 2. Capanahua a. Capanahua B. UCAYALINO B a. Panavarro b. Shetebo c. Wariapano
+II. PANO PREANDINO a. Cashibo b. Cacataibo
+III. PANO DE LAS CABECERAS A. ISCONAHUANO a. Isconahua B. AMAHUACANO a. Amahuaca C. CASHINAHUANO a. Cashinahua D. PANO-PURUS a. Yaminahua b. Sharanahua c. Marinahua d. Chaninahua e. Mastanahua f. Yahuanahua
+IV. PANO BENIANO a. Chacobo b. Pacaguara
+V. PANO DEL NORTE a. Mayoruna
+165
+
+Dentre as classificações citadas na literatura, a que talvez mais se aproxime de uma classificação puramente lingüística é aquela proposta por Loos (1999). Nesse trabalho, o autor apresenta uma tabela que classifica as línguas Pano em quatro subgrupos: o subgrupo Yaminawa, o Chacobo, o Capanawa e o de línguas não agrupáveis, conforme se pode constatar na seqüência a seguir.
+Classificação das Línguas Pano: Loos (1999).
+The Yaminawa subgroup 1 Yaminawa 2 Amawaca 3 Kashinawa/Honikoin 4 Sharanawa/Shanindawa/Chandinawa/Inonawa/Marinawa 5 Yawanawa 6 Chitonawa 7 Yoranawa/Nawa/Parquenawa 8 Moronawa 9 Mastanawa
+The Chakobo subgroup 10 Chakobo 11 +Arazaire 12 +Atsawaka 13 +Yamiaka 14 Katukina/Kamannawa/Waninnawa 15 Pakawara
+The Kapanawa subgroup 16 Kapanawa/Pahenbakebo 17 Shipibo/Konibo/Xetebo 18 +Remo 19 Marubo 20 +Wariapano/Panobo/Pano 21 Iskonawa 22 +Kanamari/Taverí/Matoinahã
+166
+
+Ungrouped languages
+23 Kashibo/Kacataibo/Komabo 24 +Kulino 25 Karipuná 26 Kaxariri 27 Matses/Mayoruna 28 +Nokamán 29 +Poyanáwa 30 +Tuxinawa
+
+A classificação de Loos (1999) apresenta vários pontos positivos e é considerada, pelo autor do presente artigo, a melhor classificação das línguas Pano feita até o momento.
+Finalizando esta citação das classificações da família Pano disponíveis na literatura, faz-se referência à proposta de Valenzuela (2003) que não apresenta novidades com relação às anteriores, sendo apenas uma combinação linear das propostas já citadas, conforme se pode verificar abaixo.
+
+Classificação das Línguas Pano: Valenzuela (2003).
+
+Purus
+
+Yaminawa, Sharanawa, marinawa, Chitonawa, Yoranawa, Moronawa, Chaninawa, Mastanawa e Yawanawa.
+
+Southern
+
+Chcobo, Pacahuara, Karipuna, Kaxarari e Katukina.
+
+Ucayali Northern Western/Preandine
+
+Shipibo-Conibo, Capanawa e Wariapano. Matsés, Matis, Korubo, Mayae Kulina-Pano. Cashibo, Nocaman.
+
+Southwesten
+
+Yamiaka, Atsawaka e Arazaire.
+
+Segundo Valenzuela (2003), a inclusão das línguas Marubo, Remo, Isconahua e Kaxarari no grupo Ucayali precisa ainda ser demonstrada, assim como é necessária a separação do Amahuaca das outras línguas do grupo Purus.
+167
+
+Materiais e comparação
+Para a classificação apresentada neste artigo foram usados dados das seguintes línguas: Amawaka (Hyde 1980); Arara (Cunha 1993; Lanes 2000); Arazaire (Shell 1965); Atsawaka (Shell 1965); Chácobo (Zingg 1998); Isconawa (Loos; Loos 1971); Kanamari (Chandless 1886; Leidtke 1965); Kapanawa (Loos: Loos 1998); Kapishto (Jakway 1975); Karipuna (Grasserie 1888; Hanke 1849; Rivet 1910); Katukina (Barros 1987; Aguiar 1988; 1994; Lanes 2000); Kashibo (Shell 1987); Kaxarari (Pickering 1973; Lanes 2000; Souza 2004); Kaxinawa (Abreu 1914; Montag 1981; Camargo 1991); Kulina (Martius 1867; Shell 1965; Fleck: Ferreira 2005); Marubo (Costa 1992; 1998; 2000); Mastanawa (Loos 1976); Matis (Ferreira 2001; 2005; Spanghero 2000; 2005); Matsés (Kneeland 1979; Lanes 2000; Carvalho 1992; 1994; 2001; Fleck 2003); Nokaman (Shell 1965; Tessman 1999); Nukini (Okidoi 2004; Aguiar 2004); Pakawara (Shell 1965); Panobo (Parker 1992); Poyanawa (Paula 1992; Lanes 2000); Remo (Carvalho 1929; Loos 1974); Shanenawa (Cândido 1998; 2004); Sharanawa (Scott 2004); Shipibo (Eakin 1991; Loriot et alli 1993; Valenzuela 2000); Tuxinawa (Carvalho 1929); Xitonawa (Lord 1996); Yamiaka (Rivet 1910; Shell 1965); Yaminawa (Eakin 1991; Lanes 2000); Yawanawa (d”Ans 1972; Lanes 2000; Paula 2004); Yora (Faust 1984; Lord 1996).
+De posse desses dados, partiu-se para a efetuação da comparação, isto é, para a determinação dos conjuntos de “cognatos”. A lista de palavras utilizada nessa empreitada contém 100 itens e foi organizada por Swadesh (1950). Os itens foram mantidos na língua inglesa visando resguardar o significado original das palavras escolhidas pelo autor da lista. Isso porque se entende que, sendo o método baseado em comparações léxicas, é necessário que os significados das palavras não mudem ou não se apresentem dúbios. Afinal, como se tem visto, são recorrentes os estudos em que, inadvertidamente, os pesquisadores que utilizam a lista de Swadesh em seus trabalhos de campo, ao “traduzirem-na” para sua língua materna, se esquecem de que “erros de tradução” podem se propagar com facilidade. É comum, por exemplo, o pesquisador traduzir a palavra ash como “cinza” (pó, resíduos da combustão de certas substâncias), mas ao coletar o dado correspondente a tal significado na língua pesquisada, ocorrer de seu informante fornecer-lhe outro significado, no caso, aquele
+168
+
+relativo à “tonalidade” (cor). Diante disso, parece fundamental manter a lista de itens para comparação na língua de origem de Swadesh.
+É preciso notar vários pontos que diminuem a chance de ocorrência de equívocos ao se contar cognatos na presente análise. Em primeiro lugar, o que está sendo chamado aqui de “cognato” é, na realidade, um “cognato aparente”. Isso porque estão sendo considerados somente itens que apresentam semelhança fonológica. Assim, não há como, embora se tente evitar esse procedimento, considerar como cognatas verdadeiras, palavras semelhantes por chance, empréstimos, resultados de universais ou de patologias verbais (por exemplo, tabus), entre outros. Entretanto, é preciso ressaltar que recorrer-se-á, sempre que possível, à reconstrução do Proto-Pano efetuada por Shell (1965) e também às prescrições de Gudschinsky (1956), já que a comparação histórica é a única forma segura de garantir uma relação genética.2
+O Método
+Filogenia é a origem e evolução de um conjunto de organismos, usualmente de espécies. No caso da Lingüística, as espécies são, naturalmente, as línguas. Uma espécie é chamada, na análise cladística, de táxon. A tarefa da Sistemática (ciência que cuida das classificações) é determinar as relações de ancestralidade entre os táxons (que podem representar espécies biológicas ou línguas vivas ou extintas).
+Em essência, o objetivo do estudo da Sistemática consiste em, dado um conjunto de táxons, determinar sua árvore filogenética. Um táxon é, na Biologia, um conjunto de genes; na Lingüística, um conjunto de significados. Os diversos alelos do gene são, na Lingüística, os conjuntos de cognatos para um determinado significado. Um caráter tem valor 1 para um par de línguas e para um dado significado, se as formas nas duas línguas para esse significado forem cognatas e 0 em caso contrário. Por exemplo, para as línguas Shanenawa (táxon 1), Yawanawa (táxon 2), Kapanawa (táxon 3) e Shipibo (táxon 4) o significado ‘canoa’ tem as formas: ♣a♣u, ♣a♣u, nunti e nunti, respectivamente. Já para o
+2 Como o conjunto de “cognatos” ocupa um volume de páginas muito grande, incompatível com o tamanho deste artigo, propõe-se que aqueles que tiverem interesse em obter a lista de “cognatos” entrem em contato com o autor nos endereços eletrônicos: almir.bh@terra.com.br ou glicli_ueg@yahoo.com.br.
+169
+
+significado ‘cabeça’, as formas são iguais a mapu em todas as quatro línguas. Dessa maneira, têm-se três conjuntos de cognatos que serão denominados A, B, C, com ♣a♣u, nunti e mapu, respectivamente. Isso é mostrado na Tabela 1, a seguir:
+
+Tabela 1: Exemplo de matriz de caracteres.
+
+SIGNIFICADO
+COGNATOS
+Shanenawa Yawanawa Kapanawa Shipibo
+
+Canoa AB 10 10 01 01
+
+cabeça C 1 1 1 1
+
+Utilizando-se todos os significados da lista de 100 itens, foi possível classificar 302 conjuntos de cognatos que podem ser dispostos em uma matriz como a da Figura 1. Essa é uma matriz de 34 colunas e 302 linhas ou um conjunto de 10.268 números que podem ser 1 ou 0. É essa matriz que representa os dados de trabalho apresentado neste artigo. Cada linha da matriz representa uma língua e cada coluna representa um caráter (nesse caso, um conjunto de cognatos). As seqüências de 1’s e 0’s para cada língua são análogas às seqüências de genes das espécies biológicas. Os métodos baseados em caracteres usam esses dados diretamente sem ter que convertê-los previamente em distâncias.
+O método mais popular para se determinar a árvore filogenética do conjunto de táxons representados pela matriz obtida é o de Máxima Verossimilhança (doravante, MV) de inferência da filogenia. É um método estatístico usado para fazer inferências a respeito dos parâmetros da distribuição de probabilidades básicas de ocorrência de um conjunto de dados.
+O método MV avalia uma hipótese a respeito de uma árvore evolucionária em termos da probabilidade de que o modelo proposto e a árvore sugerida como solução expliquem os dados observados. A premissa básica diz que a árvore escolhida é aquela que, com a maior probabilidade, explica os dados observados. Assim, é preciso usar um modelo mais complicado que não será descrito aqui em detalhes por sua complexidade matemática, a saber, o General Time Reversible Model (GTR). Este modelo leva em conta o caráter específico de cada mudança
+
+170
+
+e permite taxas de variações distintas para cada caráter, ou seja, permite uma taxa de variação para as palavras diferentes no tempo.
+Como já foi dito, a melhor maneira de se determinar todas as possíveis árvores de um conjunto de táxons é usar o método MV. Entretanto, o número de possíveis topologias de árvores que deve ser determinado cresce exponencialmente com o número de táxons. Por exemplo, para cada 7 táxons, há 945 árvores possíveis sem raiz. Para cada 10, cerca de 2 milhões e para os 34 táxons aqui citados, cerca de 17 bilhões de árvores. Isso é inviável computacionalmente. Os atuais processadores não têm velocidade suficiente para processar tais números de táxons. Por isso, foi usada a inferência bayesiana da filogenia calculando as árvores de acordo com sua distribuição de probabilidades posterior. Este método é baseado no teorema de BAYES, que relaciona a probabilidade posterior de uma árvore com a sua probabilidade anterior que, na prática, admite que todas as árvores tenham probabilidades idênticas. Entretanto, até mesmo calcular analiticamente a probabilidade posterior é inviável. Pode-se, no entanto, usar o método de Monte Carlo para gerar um conjunto de árvores para as quais a distribuição de freqüências é uma aproximação da probabilidade posterior. Este é o método usado para determinar a árvore de consenso.
+Resultados e Conclusões
+Para aplicar o método de Máxima Verossimilhança da evolução com inferência bayesiana da filogenia para as línguas Pano foi usado o modelo de restrition site com caracteres binários de evolução implementado em MRBAYES (versão 3.0) por Huelsenbeck & Ronquist (2001). Este programa permite estados de caracteres com freqüências diferentes.
+Os parâmetros do modelo, incluindo a matriz de taxas de variação, comprimentos dos ramos e o parâmetro gama foram estimados a partir dos dados. Usando o procedimento de inferência bayesiana, foi possível gerar 10.000.000 de árvores, mas para assegurar que as amostras consecutivas fossem independentes, somente 10.000 árvores foram amostradas dessa distribuição, produzindo um tamanho efetivo de amostragem de 1000 árvores. A árvore de consenso resultante dessa distribuição é mostrada na Figura 2, a seguir.
+171
+
+Figura 2: Árvore Genealógica das línguas Pano.
+
+Amawaka
+
+Kashibo
+1.00
+Nokaman
+0.91
+Shipibo
+0.78
+Kapanawa
+0.60
+Panobo
+
+Isconawa
+0.61
+Kaxinawa
+
+Nukini
+0.99
+Remo
+
+Kanamari
+
+0.56
+
+1.00
+
+Katukina
+
+0.96
+
+Marubo
+
+Mastanawa
+0.71
+Tuxinawa
+
+Yora
+0.53
+Sharanawa
+
+0.99 0.65
+
+Shanenawa
+
+0.98
+Arara
+0.79
+Yawanawa
+
+Xitonawa
+0.63
+Yaminawa
+
+Kaxarari
+0.66
+Poyanawa
+
+Atsawaka
+
+0.56
+
+1.00
+
+Arazaire
+
+0.51
+
+Yamiaka
+
+Karipuna
+0.67
+Chacobo
+0.85
+Pakawara
+0.1
+
+1.00
+Kulina
+0.55
+
+1.00
+Matis
+
+Kapishto Matses
+
+172
+
+Em princípio, o que se pode notar é a consistência da topologia da árvore com muitos agrupamentos que são tradicionais entre os estudiosos de línguas Pano. Entretanto, alguns detalhes devem ser observados.
+Primeiramente, línguas denominadas Katukina, Kanamari, Kulina, Karipuna e Arazaire são também vistas como pertencentes a outras famílias de línguas indígenas brasileiras e peruanas. Entretanto, não há dúvidas, pelos vocabulários disponíveis, de que sejam línguas Pano, sendo, dessa forma, comparáveis às demais. Para resolver o problema da nomenclatura, propõe-se que doravante essas línguas tenham suas denominações básicas seguidas do termo ‘Pano’: Katukina Pano, Kanamari Pano, e assim por diante. Isso tornará mais fácil a sua distinção das homônimas pertencentes a outras famílias.
+A língua Shipibo é a mesma conhecida tradicionalmente na literatura como Shipibo-Conibo. De igual maneira, nomeou-se simplesmente Cashibo, a língua tradicionalmente conhecida como Cashibo-Cacataibo.
+Investigações mais acuradas podem confirmar a hipótese de que o Nukini e o Remo possam ser a mesma língua, pois em 99% das árvores, ambas as supostas línguas aparecem juntas. Ademais, é sabido que os Remo se autodenominavam Nukini.
+O Cashibo e o Nokaman provavelmente são dialetos, pois aparecem em 100% das árvores em um mesmo agrupamento. Isso reforça a hipótese levantada por Gordon (2005) de que essas línguas podem ter sido dialetos. Valenzuela (2000) coloca as duas línguas no grupo Oeste/Pré-andino e também suspeita que o Atsawaka e o Yamiaka sejam nomes para a mesma língua. De fato, na proposta de classificação aqui apresentada, também essas supostas línguas aparecem juntas em 100% das árvores. Assim sendo, talvez não seja demais levantar a hipótese de que as três línguas - Atsawaka, Arazaire e Yamiaka – sejam, na realidade, variantes dialetais de uma mesma língua. Valenzuela (2000) as coloca no Grupo Sudoeste.
+O Marubo e o Katukina Pano aparecem unidos em 96% das árvores. Em conformidade com Gordon (2005), que aponta a inteligibilidade entre ambas as línguas, também aqui nascem suspeitas de que essas duas línguas sejam muito próximas ou talvez até mesmo
+173
+
+dialetos uma da outra. Acrescente-se que, como o Kanamari partilha 100% das árvores com as duas línguas referidas e, ainda, seus falantes viviam próximos aos do Katukina, também se vislumbra a possibilidade de que o Katukina Pano e o Kanamari Pano possam ser a mesma língua.
+Outra afirmação interessante sobre parentescos de línguas Pano é feita por Fleck (2003). Para esse autor, os Kapishto e o Matsés seriam provavelmente dialetos. Os resultados na Figura 2 mostram que essas línguas figuram juntas em 100% das árvores, o que leva a crer que ou são a mesma língua ou, no mínimo, dialetos uma da outra.
+De modo geral, vários subgrupos da classificação exposta na Figura 2 estão presentes em outras classificações. Por exemplo, o Subgrupo IV-1 corresponde àquele chamado por d’Ans (1973) de subgrupo Pano Beniano. O Grupo III é denominado pelo mesmo autor como Pano das Cabeceiras, enquanto o III-2-2-2 é chamado de Pano Purus. O Subgrupo II-2 é o Pano Ucayalino de d’Ans (1973) e o Subgrupo IV-1, o Pano do Norte. O grupo III é o grupo Purus de Valenzuela (2000), o subgrupo IV-3 o subgrupo Sul dessa autora. O subgrupo I-2 é o grupo do Uacayali, o subgrupo IV-1 o do Norte, o subgrupo I-1 o Oeste/Preandino e o subgrupo IV-2 o Sudoeste da mesma autora. Os Subgrupos IV-2 e IV-3 formam o Grupo do Chácobo de Loos (1999). O subgrupo II-2-2-2 também se identifica com o subgrupo do Yaminawa de Loos (1999), exceto pela presença do Amawaka e do Kaxinawa. É um tanto inesperada a presença do Poyanawa e do Kaxarari no mesmo subgrupo, embora com somente 66% de presença nas árvores. Essas duas últimas línguas, à parte alguma semelhança no léxico, partilham uma inovação caracterizada pelo processo de transformação da fricativa retroflexa na glotal (♣ > h) e da álveo-palatal na glotal (Σ > h). Este é, porém, um argumento muito fraco para uma subclassificação, já que se trata de uma mudança fonológica bastante comum nas línguas naturais. Notemos a posição isolada do Amawaka. Nos nossos dados, esta posição não resulta de uma diferença léxica relevante em relação às outras línguas; isso ocorre porque cada uma das outras línguas compartilha com ela um pouco de seu vocabulário básico.
+Seria como, se em termos de léxico, a língua Amawaka fosse a melhor representante das línguas Pano. Valenzuela (2000) já havia advertido para o fato de que o Amawaka deveria ser tratado
+174
+
+separadamente do grupo Purus e d’Ans (1973) a classificou isoladamente. O empréstimo entre línguas é análogo à transferência horizontal de genes na Biologia, ou seja, à hibridização. Quando ocorrem muitas dessas transferências ou empréstimos aparecem sinais de que o modelo de árvores não se aplica. O gráfico que relaciona as línguas ou as espécies contém estruturas reticuladas. Testou-se o programa com significados que são, por consenso, tidos como empréstimos de outras línguas para as da família Pano, mas não surgiu qualquer estrutura reticulada. Além do mais, a topologia das árvores com e sem os empréstimos permaneceu a mesma. Disso conclui-se que, no estudo das línguas Pano aqui apresentado, os empréstimos não causaram problemas. O mesmo se dá com a semelhança por chance.
+De qualquer forma, o próximo passo para melhorar essa classificação será usar caracteres não lexicais, tais como gramaticais e aspectos fonológicos de cada língua. Quando constroem árvores de espécies, os biólogos usam dados genéticos de múltiplos loci, bem como dados morfológicos e comportamentais. Os resultados de qualquer uma das fontes de dados podem ser validados se comparados a outras fontes. Da mesma maneira, inconsistências entre fontes podem ajudar a esclarecer anomalias históricas ou problemas com o modelo. Pelas mesmas razões, dados morfológicos e fonológicos devem ser incorporados à análise. É o que se pretende fazer em trabalhos futuros. Por ora, apresenta-se a sistematização dos resultados obtidos no estudo classificatório das línguas Pano, tal como mostrado na Figura 2 e a seguir.
+Classificação Interna das Línguas Pano.
+Grupo I Amawka Grupo II
+Subgrupo II-1 Kashibo Nokaman Subrupo II-2 Shipibo Kapanawa Panobo
+175
+
+Grupo III Subgrupo III-1 Iskonawa Kaxinawa Subgrupo III-2 Subgrupo III-2-1 Nukini Remo Subgrupo III-2-2 Subgrupo III-2-2-1 Kanamari Katukina Marubo Subgrupo III-2-2-2 Mastanawa Tuxinawa Yoranawa Sharanawa Shanenawa Arara Yawanawa Xitonawa Yaminawa Subgrupo III-2-3 Kaxarari Poyanawa
+Grupo IV Subgrupo IV-1 Kapishto Matsés Kulina Matis Subgrupo IV-2 Atsawaka Arazaire Yamiaka Subgrupo IV-3 Karipuna Chacobo Pakawara.
+176
+
+Para finalizar, ressalte-se o fato de não se ter utilizado, neste texto, nomes de acidentes geográficos ou regiões onde os falantes residem. Entretanto, comparando-se essa classificação com as anteriores é possível dar nomes aos diversos grupos, o que se espera que seja feito pelos leitores.
+Não há dúvidas de que essa proposta de classificação poderá levantar questionamentos, mas não há meios de evoluir cientificamente se não houver esse tipo de manifestação. Assim, antecipam-se alguns problemas que certamente poderão ser levantados como, por exemplo, a ausência de uma raiz (a árvore não apresenta uma raiz da protolíngua). Por isso, até o momento, nada se pode afirmar a respeito do desenvolvimento inicial das línguas Pano. É preciso ressaltar, ainda, que somente uma classificação final, feita com base em aspectos fonológicos e morfossintáticos, poderá resultar em uma classificação definitiva dessas línguas – obviamente, se isso for possível.
+Agradecimentos
+É preciso fazer um agradecimento especial ao Prof. EUGENE LOOS (SIL) por ter colocado à disposição, de forma irrestrita e muito gentil, todos os dados lexicais e gramaticais de grande parte das línguas aqui analisadas.
+Referência bibliográfica
+— ABREU, J. C. 1914. de. Rã-txa hu-ni-ku-i®. A língua dos Caxinauás do Rio Ibuacú Afluente do Murú. 2ª ed. Rio de Janeiro: Prefeitura de Tarauacá; Sociedade Capistrano de Abreu. — AGUIAR, M. S. 1988. Elementos de Descrição Sintática para uma Gramática do Katukina. Dissertação de Mestrado em Lingüística. Campinas: Universidade Estadual de Campinas. — _____. 1994. Análise Descritiva e Teórica do Katukina Pano. Tese de Doutorado. Campinas: Universidade Estadual de Campinas. — _____. 2004. Aprender Nukini. Rio Branco: Secretaria de Estado de Educação do Acre. — BARROS, L. 1987. A Nasalização Vocálica e Fonologia Introdutória à Língua Katukina (Pano). Dissertação de Mestrado. Campinas: Universidade Estadual de Campinas.
+177
+
+— BRINTON, D. G. 1891. The American race: a Linguistic Classification and Etnographic Description of the Native Tribes of North and South America. New York: N.D.C. Hodges. — CAMARGO, E. 1991. Phonologie, Morphologie et Syntaxe: Étude Descriptive de le Langue Caxinawa (Pano). Tese de Doutorado. Paris: Universidade Paris IV. — CÂNDIDO, G. V. 1998. Aspectos Fonológicos da Língua Shanenawá (Pano). Dissertação de Mestrado. Campinas: Universidade Estadual de Campinas. — _____. 2004. Descrição Morfossintática da Língua Shanenawa (Pano). Tese de Doutorado. Campinas: Universidade Estadual de Campinas. — CARVALHO, B. 1929. Breve Notícia sobre os Indígenas que Habitam na Fronteira do Brasil com o Peru. Anexo Especial, N. 2, p. 301-332. — CARVALHO, C. T. D. 1992. A Decodificação de Estrutura Frasal em Matsés (Pano). Dissertação de Mestrado. Rio de Janeiro: Universidade Federal do Rio de Janeiro. — _____. 1994. Las Marcas de Tiempo y Aspecto en la Lengua Matsés (Pano). Actas de las Segundas Jornadas de Lingüística Aborigen, p. 23549. — _____. 2001. Fonologia Matsés: uma Análise Baseada em Restrições. Tese de Doutorado. Rio de Janeiro: Universidade Federal do Rio de Janeiro. — CHANDLESS, W. 1866. Ascent of the River Purus. Journal of the Royal Geographical Society, N. 7, p. 221-242. — CHAMBERLAIN, A. F. 1913. Linguistic Stocks of South American Indians, with Distribution Map. American Antropologist, Vol. XV. Washington, American Antropologic Association, p. 236-247. — COSTA, R. G. R. 1988. Aspects of Ergativity in Marubo (Panoan). The Journal of Amazonian Languages, N. 1, p. 50-103. — _____. 1993. Padrões Rítmicos e Marcação de Caso em Marubo (Pano). Dissertação de Mestrado em Lingüística. Rio de Janeiro: Universidade Federal do Rio de Janeiro. — _____. 2000. Aspectos da Fonologia Marubo (Pano): uma Visão NãoLinear. Tese de Doutorado em Lingüística. Rio de Janeiro: Universidade Federal do Rio de Janeiro. — CREQUI-MONFORT, G.; RIVET, P. 1913. Linguistique Bolivienne. Le Museon (Louvain), Vol. XIV, p. 19-78 — CROFT, W. 2000. Explaining Language Change — An Evolucionary Approach. Singapore; Longman Linguistics Library; Pearsons Education Ltd. — CUNHA, C. M. 1993. A Morfossintaxe da Língua Arara (Pano) do Acre. Dissertação de Mestrado. Recife: Universidade Federal de Pernambuco.
+178
+
+— d’ANS, A. M. 1973. Reclasificación de las Lenguas Pano y Datos Glotocronológicos para la Etnohistoria de la Amazonía Peruana. Revista del Museo Nacional, N. 39, 19, p. 349-369 — ________. 1972. Léxico Yaminahua (Pano). Documento de Trabajo nº1, Universidad Mayor de San Marcos, Lima. — DARWIN, C. 1871. The Descent of Man. London, Murray. — DIXON, R. M. W. 1997. The Rise and Fall of Languages. Cambridge; Cambridge University Press. — EAKIN, L. 1991. Lecciones para el Aprendizaje del Idioma Yaminahua. Documento de Trabajo, N. 22. Lima, Peru, Instituto Lingüístico de Verano. — FABRE, A. 2005. Diccionario etnolingüístico y guia bibliográfica de los Pueblos indígenas sudamericanos. PANO-TAKANA. Disponível em: http://butler.c.c.tut.fi/~fabre/BookInternetVersion/Alkusivu.html. — FAUST, N. 1984. Parquenahua Word List. Mimeo. — FERREIRA, R. V. 2001. Língua Matis: Aspectos Descritivos da Morfossintaxe. Dissertação de Mestrado. Campinas: Universidade Estadual de Campinas. — _____. 2005. Língua Matis (PANO): uma Descrição Gramatical. Tese de Doutorado. Campinas; Universidade Estadual de Campinas. — FLECK, D. W. 2003. A Grammar of Matses. Tese de Doutorado. Houston: Rice University. — FLECK, D. W.; FERREIRA, R. V. 2005. Language in the Mayoruna subgroup of the Panoan Family. Mimeo. — GORDON, R. G. Jr. (ed.). 2005. Ethnologue: Languages of the World, Fifteenth edition. Dallas, SIL International. Online Version: http://www.ethnologue.com/. — GRASSERIE, R. de la. 1888. De la Famille Linguistique Pano. Actas del VII Congreso Internacional de Americanistas, Berlín, p. 438-450 — GREENBERG, J. 1956. The General Classification of Central and South American Languages. Men and Cultures: Selected Papers of the 5th International Congress of Anthropological and Ethnological Sciences, Philadelphia. — _____. 1987. Language in the Américas. Stanford: Stanford University Press. — GUDSCHINSKY, S.C. 1956. The ABC’s of Lexicostatistics (Glottochronology). Word 12, p. 175-210 — HANKE, W. 1849. Algumas Vozes do Idioma Karipuna. Arquivos, Coletânea de Documentos para a História da Amazônia, N. 10, Manaus, p. 5-12. — HYDE, S.Y. 1980. Diccionario Amahuaca. Serie Lingüística Peruana, N.7. Yarinacocha, Instituto Lingüístico de Verano.
+179
+
+— HUELSENBECK, J. P.; RONQUIST, F. MRBAYES: Bayesian inference of phylogeny. Bioinformatics, N. 17, 2001. p. 754-755 — JAKWAY, M. Comparative List of Common Words in Indigenous Languages of the Jungle. Datos Etno-Lingüísticos, N. 4, 1975. — KNEELAND, H. 1979. Lecciones Para el Aprendizaje del Idioma Mayoruna. Documento de Trabajo, 14. Yarinacocha, Peru, Instituto Lingüístico de Verano, — LANES E. J. 2000. Mudança Fonológica em Línguas da Família Pano. Dissertação de Mestrado. Rio de Janeiro: Universidade Federal do Rio de Janeiro. — LEIDTKE, M. 1965. Lista de palavras do Canamari do Feijó. Mimeo. — LOOS, E. E. 1974. Lista de Palabras y Frases para Estudios Comparativos en el Idioma Remo. Información de Campo, N. 210a. — _____. 1976. Materiales para Estúdios Comparativos de la Família Pano: Frases y Textos del Dialecto Mastanahua. Datos Etno-Lingüísticos, 48. Lima, Peru, Instituto Lingüístico de Verano. — _____. Pano. In R.M.W. Dixon & D.Y.Aikhenvald (eds). 1999. The Amazonian Languages. Cambridge: Cambridge University Press. — LOOS, E. E.; LOOS, B. H. 1998. Diccionario Capanahua-Castellano. Serie Lingüística Peruana, 45. Yarinacocha, Instituto Lingüístico de Verano. — _____. 1971. Palabras y Frases del Idioma Isconahua. Información de Campo, N. 111b. — LORD, M. A. 1996. Word list of Chitonawa, Yora, Yaminahua, Sharanahua. Mimeo. — LORIOT, J.; LAURIAULT, E.; DAY, D. 1993. Diccionario ShipiboCastellano-Shipibo. Serie Lingüística Peruana, 31. Lima, Peru, Instituto Lingüístico de Verano. — LOUKOTKA, C. 1944. Sobre la Classificación de las Lenguas Indígenas de la América del Sul. Atas do Congresso Internacional de Americanistas, N. 26, Madrid, p. 411-415. — MASON, J. A. 1950. The Languages of South American Indians. Handbook of South American Indians. Bureau of American Ethnology, Bulletin 143, V. 6, p. 501-570. — MONTAG, S. 1981. Diccionario Cashinahua. Tomo II. Lima, Instituto Lingüístico de Verano. — McQUOWN, N. A. 1955. Indigenous Languages of Latin America. American Anthropologist, V. 57, p. 501-570. — MARTIUS, C. F. P. VON. 1867. Beiträge zur Ethnographie und Sprachenkunde Amerika’s zumal Brasiliens. Zur Sprachenkunde. Wörtersammlung Brasilianischer Sprachen, Glossaria Linguarum Brasiliensium, Glossarios de Diversas Línguas e Dialectos, que fallao os
+180
+
+Indios no Imperio do Brazil. Vol. II. Wiesbaden: Dr. Martin Sändig OHG. — MONTAG, S. 1981. Diccionario Cashinahua. Tomos I e II. Lima: Instituto Lingüístico de Verano. — OKIDOI, A. 2004. Descrição Fonológica Preliminar da Língua Indígena Nukini-Pano. Monografia de Final de Curso de Bacharelado em Letras. Goiânia: Universidade Federal de Goiás. — PAGEL, M. 2000. Maximum-Likelihood Models of Glottochronology and for Reconstructing Linguistic Phylogenies. In C. Renfrew; A. McMahon & L. Trask (eds.), Time Depth in Historical Linguistics. Cambridge, The McDonald Institute for Archaeological Research, p. 413-439. — PARKER, S. G. 1992. Datos del Idioma Huariapano. Documento de Trabajo, 24. Yarinacocha, Ministerio de Educación e Instituto Lingüístico de Verano. — PAULA, A. S. 1992. Poyanáwa. A língua dos Índios da Aldeia Barão: Aspectos Fonológicos e Morfológicos. Dissertação de Mestrado. Recife: Universidade Federal de Pernambuco. —______. 2004. A Língua dos Índios Yawanawa do Acre. Tese de Doutorado. Campinas: Universidade Estadual de Campinas. — PICKERING, W. 1973. Vocabulário Kaxarari. Série Lingüística, N. 1. Lima, Peru: Instituto Linguistico de Verano, p. 63-66. — RIVET, P. 1910. Sur Quelques Dialectes Panos peu Connus. Journal de la Société des Américanistes, N. 7, p. 221-242. — ______. ; TASTEVIN, R. P. 1921. Les Tribus Indiennes des Bassins dus Purús et des Rérions Limitrophes. La Geographie, Vol. XXXV. Paris, p. 449-482. — ______. 1924. Les Dialectes Pano du Haut Jurua et du Purús. Actas del XX Congreso Internacional des Americanistes III. Rio de Janeiro, p. 227-278 — ______.; LOUKOTKA, Č. 1952. Langues de l”Amérique du Sud et des Antilles. Les Langues du Monde, 9 édition, Paris, Champion, p. 10991160. — RODRIGUES, A. D. 1986. Línguas Brasileiras: para um Conhecimento das Línguas Indígenas. São Paulo: Loyola. — SCHLEICHER, A. 1861. Compendium der Vergleichenden Grammatik der Indogermanischen Sprachen: Kurzer Abriss einer Lautund Formenlehre der Indogermanischen Ursprache. Weimar: Hermann Böhlau. — SCOTT M. 2004. Vocabulario Sharanahua Castellaño. Lima, Peru, Instituto Lingüístico de Verano. — SCHMIDT, J. 1872. Die Verwandtschaftsverhältnisse der Indogermanischen Sprachen. Weimar, s/ed.
+181
+
+— SCHMIDT, P. W. 1926. Die Sprachfamilien und Sprachenkreise der Erde. Heidelberg, CalrWinters’s Universitäts-Buchhandlung. — SHELL, O. A. 1965. Estudios Panos III: las Lenguas Pano y su Reconstrucción. Serie Lingüística Peruana, N. 12, 2 ed. Lima, Instituto Lingüístico de Verano. — ______. 1987. Vocabulario Cashibo-Cacataibo. Serie Lingüística Peruana, N. 23. Yarinacocha: Instituto Lingüístico de Verano. — SOUSA, G. C. 2004. Aspectos da Fonologia da Língua Kaxarari. Dissertação de Mestrado. Campinas: Universidade Estadual de Campinas. SPANGHERO, V. R. F. 2000. Língua Matis (Pano): Análise Fonológica. Dissertação de Mestrado. Campinas, Universidade Estadual de Campinas. — ______. 2004. Estudo Lexical da Língua Matis. Subsídios para um Dicionário Bilingüe. Tese de Doutorado. Campinas: Universidade Estadual de Campinas. — SWADESH, M. 1964. Afinidades de las Lenguas Ameríndias. Akten des 34 Internationalen Amerikanisten Kongress, p. 729-739. — ______. 1950. Salish International Realshionships. International Journal of American Linguistics, N.16, p. 157-167. — TESSMANN, G. 1999. Los Indios del Perú Nororiental. Trad. Gunda Wierhake. Quito: Abyayala. — VALENZUELA, P. M. 2000. Transitivity in Shipibo-Konibo Grammar. PhD Dissertation. Oregon: University of Oregon.
+182
+
+NORMAS PARA APRESENTAÇÃO DE TEXTOS
+A revista Investigações aceita os seguintes tipos de contribuição: artigos inéditos, ensaios bibliográficos e resenhas críticas nas duas áreas de estudo: Teoria literária e Lingüística. Os trabalhos submetidos a Investigações devem ser enviados em disquete, digitados em espaço 1.5, tipo 12, letra Arial, alinhamento justificado, em programa Word-forWindows 98 (ou outro mais recente), sem formatação, além de parágrafo e em três vias impressas. Deve ser colada, no disquete, uma etiqueta contendo o nome e instituição do autor, além do título do trabalho. Duas das vias impressas devem vir sem informação que identifique a autoria. O disquete não será devolvido ao autor, que deve manter seu texto em arquivo para as eventuais modificações sugeridas pelos pareceristas. Em folha à parte, devem vir o título, endereço completo, filiação a instituições de ensino ou pesquisa, cargo, titulação, telefone, fax e e-mail do autor.
+As “Notas” devem ser digitadas ao fim de cada página, numeradas a partir de 1. Se houver nota referente ao título, esta recebe asterisco e não numeração. As notas não devem ser utilizadas para referência bibliográfica. As referências devem ser feitas no corpo do trabalho segundo o exemplo: ...como diz Preti (1991: 43)...; referências após citação: (Preti 1991:43); no caso de paráfrase (cf.: Preti 1991:43). Nunca usar idem, ou idem, ibidem. Para ênfase usar itálico e não sublinhar.
+“Tabelas”, “gráficos”, “desenhos”, “quadros” e “árvores” devem ser encaminhados, também separadamente, em versão impressa, pronta para ser fotografada, em laser/ink jet ou tinta nanquim. Devem ser numerados e ter título. Apenas as iniciais do título deve estar em maiúsculas.
+183
+
+“Resumo” “Abstract” “Résumé” devem ser digitados em tipo 11, letra Arial, espaço Simples, alinhamento Justificado, com cerca de 100 palavras (no máximo), em português, inglês e francês. Devem, ainda, ser seguidos de, no máximo, quatro palavras-chave nas línguas citadas. Recomenda-se que os mesmos sejam revistos por falantes nativos dos respectivos idiomas.
+Referências bibliográficas: digitar a expressão REFERÊNCIAS BIBLIOGRÁFICAS. Os autores devem estar em ordem alfabética, sem numeração das entradas e sem espaço entre as referências. O principal sobrenome de cada autor é seguido de vírgula e do nome e sobrenomes. O nome de outros autores, quando houver, ou dos organizadores da obra de onde for retirado o artigo, precedem o sobrenome. Os títulos de livro, coletânea ou revista devem vir em itálico. Na segunda entrada de um mesmo autor, seu nome é substituído por um traço de 5 toques. A data identificadora da obra deve vir entre pontos, após o nome do autor (outras datas relevantes no final da entrada). Mais de uma obra de um autor no mesmo ano, devem ser identificadas por letras a, b, c, etc. após a data.
+Exemplos: — D'ANGELIS, Wilmar da Rocha. 2002. Sistema fonológico do português: rediscutindo o consenso. D.E.L.T.A. 18(1):1-24. — CÂMARA JR., J. Mattoso. 1977. Introdução às línguas indígenas brasileiras. Rio de Janeiro: Livro Técnico. — GUMPERZ, John J. 1986. Interactional sociolinguistics in the study of schooling. In: Jenny Cook-Gumperz, ed. The Social Construction of Literacy. Cambridge: Cambridge University Press, pp.45-68.
+Anexos: caso existam, devem ser colocados depois das referências bibliográficas, precedidos da palavra Anexo. Para anexos que constituam textos originais já publicados, enviar em formato final para ser fotografado e incluir referência bibliográfica completa, bem como permissão de editores para reprodução.
+184
+
+Investigações detém o "copyright" dos trabalhos a ela submetidos, exceto nos casos em que estiver impresso o contrário. Os trabalhos publicados em Investigações só podem ser reeditados (livro, coletâneas etc) com expressa autorização do Corpo Editorial desta Revista. Os trabalhos submetidos à Revista Investigações não podem, sob hipótese alguma, ser retirados depois de iniciado o processo de avaliação. Tamanho: ARTIGO: até 10.000 palavras. Se contiver gráficos ou anexos, o conjunto não deve ultrapassar 25 páginas. ENSAIO BIBLIOGRÁFICO: até 6.000 palavras. RESENHA: até 3.600 palavras. Endereço: Os textos submetidos deverão ser enviados para: Investigações: Lingüística e Teoria Literária. Programa de PósGraduação em Letras da Universidade Federal de Pernambuco, Centro de Artes e Comunicação, 1º andar, Cidade Universitária. 50.670-901 Recife-PE. Tel: (81) 2126.8767 Fax: (81) 2126.8767 e-mail: ancovieira@yahoo.com.br
+185
+
+186
+
+PUBLICAÇÕES DO PROGRAMA DE PÓSGRADUAÇÃO EM LETRAS DA UFPE EM 2006
+— CAVALCANTI, Ildney; CORDIVIOLA, Alfredo; SANTOS, Derivaldo dos (orgs.). Fábulas da iminência: ensaios sobre literatura e utopia. — DIONÍSIO, Ângela Paiva; FALCONE, Karina; VIEIRA, Anco Márcio Tenório. O Caminho se faz caminhando: 30 anos do Programa de PósGraduação em Letras da UFPE (1976-2006). — ______. VIEIRA, Anco Márcio Tenório et ali. O Caminho se faz caminhando: anais do evento 30 anos do Programa de Pós-Graduação em Letras da UFPE. — FARIAS, Sônia Lúcia Ramalho de. O Sertão de José Lins do Rego e Ariano Suassuna: espaço regional, messianismo, cangaço.. — LIRA, José. Emily Dickinson e a poética da estrangeirização. — LOPES, Iveuta de Abreu. Cenas de letramentos sociais. — PINTO, Abuêndia Padilha. Tópicos em cognição e linguagem.
+187
+
+INFORMAÇÕES GRÁFICAS
+
+FORMATO
+
+16 x 23 cm
+
+TIPOLOGIA
+
+Kuenst480 BT
+
+PAPEL
+
+MIOLO: pólen 80 g/m2 CAPA: Triplex 250 g/m2
+
+Montado e impresso na oficina gráfica da
+
+Editora Uni vers itár ia
+
+UFPE
+
+Rua Acadêmico Hélio Ramos, 20 - Várzea Recife | PE CEP: 50.740-530 Fax: (0xx81) 2126.8395
+Fones: (0xx81) 2126.8397 | 2126.8930 www.ufpe.br/editora edufpe@nlink.com.br editora@ufpe.br
+
+188
+
+

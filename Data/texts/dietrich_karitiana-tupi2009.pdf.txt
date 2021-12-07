@@ -1,0 +1,532 @@
+Correspondências fonológicas e lexicais entre Karitiána (Arikém, Tupí) e Tupí-Guaraní
+Wolf Dietrich1
+Resumo
+Neste artigo apresentamos uma comparação lexical do Karitiana, língua da família Arikém, com formas reconstruídas para o Proto-Tupí e para o Proto-Tupí-Guaraní, e com formas de línguas Tupí-Guaraní e do Mawé, visando contribuir para a consolidação da hipótese de um Proto-Tupí, do qual essas três famílias se desenvolveram, identificando novos cognatos do Karitiána com as demais famílias comparadas. Os dados do Karitiána provêm, em parte, de coleta própria do autor e, em parte, do dicionário publicado por Landin.
+Palavras-chave: Proto-Tupí, Karitiána, Tupí-Guaraní, Mawé, comparação lexical.
+Abstract
+This paper presents a lexical comparison of the Karitiána language of the Arikém family with reconstructed forms of Proto-Tupí and Proto-Tupí-Guaraní, as well as with single TupíGuaraní languages and Mawé, as a contribution to consolidate the Proto-Tupí hypothesis. This study also aims at contributing with new cognate sets involving Karitiána and the other families compared. The Karitiána data come in part from my own field work, and in part from Landin’s dictionnary.
+Keywords: Proto-Tupí, Karitiána, Tupí-Guaraní, Mawé, lexical comparison.
+1. Introdução
+Um dos passos necessários na reconstrução do Proto-Tupí consiste no estudo histórico-comparativo do Karitiána, língua da família Arikém do tronco Tupí, com as demais línguas desse tronco. Neste artigo apresentamos uma comparação lexical que traz contribuições adicionais para a hipótese de relações genéticas do Karitiána com o Proto-Tupí-Guaraní2. Os dados que fundamentam este trabalho foram recolhidos no Centro Karitiána de
+1 Universität Münster. 2 Não aplicamos uma grafia estritamente fonológica, mas seguimos as tradições ortográficas existentes. Em consequência disso temos algumas grafias duplas: <c> = <ts>, <ch> = <t>, <ž> = <>, <y> = <>, <> = <’>. Empregam-se as seguintes abreviações: ** Proto-Tupí (PT), * ProtoTupí-Guaraní (PTG), Am: Amondava, An: Anambé (do Cairari), Ap: Apiaká, AC: Avá Canoeiro, Ar: Araweté, AsT: Asuriní do Tocantins, AsX: Asuriní do Xingu, Em: Emérillon, GCh: Guaraní do Chaco (Chiriguano), Gj: Guajá, Guar: Guaraní Paraguaio, Gyo: Guaráyo, K: Karitâna, Kb: Kayabí, Kh: Kawahíb (Uru-eu-uau-uau), Km: Kamaiurá, Kp: Ka’apór, Kw: Kaiowá/Kaiwá, L: Landin 2005, M: (Sateré-)Mawé, Par: Parintintín, Si: Siriôno, Tb: Tupinambá, Te: Tenetehára-Tembé, Tp: Tapirapé, Way: Wayãpi, Xt: Xetá, Yu: Yuki, Zo: Zo’é.
+
+Correspondências fonológicas e lexicais entre Karitiána (Arikém, Tupí) e Tupí-Guaraní
+Porto-Velho, capital de Rondônia, em Outubro de 2004. Comparamos nossa pequena lista de lexemas Karitiána com lexemas contidos no único dicionário Karitiána existente, o breve dicionário Karitiána-Português de Landin (L), publicado pela primeira vez em 1983 e republicado em 2005. Este dicionário (Landin 2005) contém, nas páginas 6-32, a parte Karitiána-Português. Nas páginas 33-55 encontra-se um dicionário alfabético Português-Karitiána, muito incompleto, que para na forma tor- (pág. 55). Continua com um léxico ideológico Português-Karitiána, por tópicos, nas páginas 56-84. Na lista a seguir indicamos pela letra L a forma e/ou o significado dado por Landin para cada lexema. Nossos dados de campo confirmam, em geral, os de Landin; só em poucos casos podemos oferecer precisões adicionais com respeito aos dados de Landin.
+As particularidades fonéticas salientes do Karitiána foram, por um lado, o alongamento e quase reduplicação das vogais acentuadas e, por outro lado, a realização não-explodida das oclusivas finais. Não entramos aqui nos detalhes da fonética Karitiána. De qualquer forma, estes fenômenos não se manifestam na transcrição fonológica de Landin.
+2. Lista de cognatos Karitiána e Tupí-Guaraní
+Os cognatos são mencionados na ordem alfabética das correspondências semânticas portuguesas. Os trabalhos de Rodrigues (2005 e 2007) sobre o tronco Tupí como um todo são a base para o estabelecimento dos cognatos. Nossa intenção foi a de oferecer cognatos de 27 línguas Tupí-Guaraní suficientemente documentadas graças às pesquisas realizadas até o presente. O número impressionante de teses de doutorado e de mestrado terminadas recentemente aumentou muito os nossos conhecimentos de línguas TupíGuaraní antes não descritas3. Agregamos à documentação das línguas TupíGuaraní os cognatos encontrados no Sateré-Mawé, que sozinho forma uma família linguística do tronco Tupí, próxima do Tupí-Guaraní.
+A comparação dos cognatos efetuada no interior do Tupí-Guaraní mostra certos desvios semânticos previsíveis em línguas naturais. Estas mudanças semânticas se explicam geralmente pela natureza dos objetos
+3 Porém, a documentação não é suficiente para todas as línguas. Os vocabulários disponíveis não permitem verificar os cognatos em todos os casos. Esta situação explica as lacunas existentes na lista de cognatos a seguir. Alguns cognatos podem existir só marginalmente como arcaísmos (veja-se o exemplo de PTG *inĩ ‘rede’) ou ser limitados a um determinado estilo. Em alguns casos propomos cognatos Karitiána–Tupí-Guaraní sem que nos seja possível reconstruir a forma correspondente do Proto-Tupí.
+26 | Revista Brasileira de Linguística Antropológica | Vol. 1 , n. 2 | Dez. 2009
+
+Wolf Dietrich
+
+designados pelos lexemas. Neste sentido é normal que uma mesma palavra, no curso da história, possa passar da designação do produtor, por exemplo “abelha”, à do produto, o “mel”, como é o caso no primeiro exemplo da lista a seguir. Também pode se restringir o significado de um lexema que designa um objeto completo a uma parte dele, como por exemplo de ‘rosto’ à ‘testa’ (veja-se abaixo “rosto”), de ‘água’ à ‘chuva’ (veja-se “água”). As divergências semânticas são particularmente grandes no campo das designações de relações de parentesco, sobretudo quando dependentes do sexo e da idade do falante.
+
+Em alguns casos, a correspondência não se dá entre palavras inteiras nas línguas comparadas, mas só em parte delas, em uma determinada língua. Nestes casos o elemento cognato aparece em negrito.
+
+abelha
+
+K eet, L ‘tipo de abelha’, **ewt, *eir-, Guar, Mb, Gyo eir-u; Guar eíra, Gyo eiry ‘mel’; GCh eiru ‘inseto, abelha’, ei ‘mel’, Xt ejró ‘abelha (tipo)’, Mb ei ‘abelha, mel’, Si irao ‘abelha, mel’, Tb eir-uβa, AsT ehit, eirop; Tp, Km eit ‘mel’, Kb tataeit; eit ‘mel’; Kp, AC eir ‘mel’, Par hehir, heir-apo’a, Ap ehirúwa, Te he’yr ‘mel’, AsX ehira ‘mel’, An e ‘mel’, Gj ha’ira ‘mel’, Way eila-lu, Em eil ‘mel’, kaeil ‘abelha’. M awi’a hy ‘mel’.
+
+água
+
+K e ‘chuva’, ** ‘água’, * ‘água’. Tb, AC, AsT, Kb, Km, Gj ’y; Kw, Guar, An, AsX, Kp y, GCh, Way ýy, y, Em , Par yhy, -y, Mb -y, Tp hy, Ap ýa, Am, Kh yhýa, Xt hadaj, Si i, -i, Yu i. M y’y.
+
+aldeia
+
+K so-syp, **tap ‘teto’, *taβ ‘aldeia’. Tb táβ-a ‘aldeia’, ta-péra ‘casa abandonada’, < ta-pwér-a, Guar (Montoya: ta.b ‘aldeia’), Km tap, Tp tam, AC etam (?), AsT eta-wet ‘morada abandonada’, Kb taperet ‘casa abandonada’; Te taw ‘aldeia’, táwa’i ‘aldeia pequena’, taper ‘aldeia abandonada’, tawer-pe-har ‘morador de aldeia abandonada’, tawer-ihár-a ‘morador de aldeia abandonada, visagem, fantasma’, Way, Em ta..
+
+árvore
+
+K’ep, **kp, *β. M yp. Km ’p, AsT y’yp, Kb ’yp, Par ’yw(-a), Ap, Am, Kh ýwa, Way -w, wla, Em wla ‘madeira’, Kp myra, AC ()wra, Gj, Si, Yu ira; AsX ywyra, An wrã, Ar iwirã, Tp hywyrã, AsT wra ‘madeira’, Mb ’yvyra, Te, Kw, Guar yvyra, GCh, Gyo yvýra, Xt awýra.
+
+Dez. 2009 | Vol. 1 , n. 2 | Revista Brasileira de Linguística Antropológica | .27
+
+Correspondências fonológicas e lexicais entre Karitiána (Arikém, Tupí) e Tupí-Guaraní
+
+avô
+
+K omyj, L ‘mãe do pai [mulher falando]’, ‘pai da mãe’
+
+[homem falando], **amõj ‘avô’, *-amõj ‘avô’, Tp, Mb,
+
+Kw, Guar, Gyo -amõi ‘avô’, ‘antepassado distante’, Par
+
+-amonh ‘parente de homem e mulher’; ascendente: ‘avô’,
+
+‘bisavô’, ‘tio-avô’, descendente: ‘neto, neta’, ‘sobrinho,
+
+sobrinha’; Tb, Kb -amỹj-a, Km -amỹj, GCh -amỹi, Ar, Kp,
+
+Kh, Te, Zo -amũj, Si -amẽj, An, Way amũ, Em -am AsT
+
+-ymyn ‘velho, antigo’, Xt mỹj. M -amũ ‘tio’.
+
+banhar-se
+
+K oty ‘tomar banho’, **acuk, *j-acuk, Tb jasuk, Yu iásu, Si tjásu, Gyo jatsu, Km ja’uk, Kb, AC jauk, AsX aok, AsT sahók, Par jahug, Kp jahug, Am dahog, Gj juhú, Tp tãok, Guar jahu (Montoya yahu.g), Xt dæw, GCh, Way jáu, Em zaug; M atuk.
+
+beber
+
+K ’y ‘comer, queimar (v.t.)’, L se’y ‘beber’, **ku, *u ‘engolir, comer, beber’, *u ‘beber (água)’, Par, Kb, Km, Am, Kh, Kw, Guar, M y’u; Tp yho, AC u, GCh. Gyo (á-)u, Kp, An u, AsX y’o,Way u, Em kau, Gj wy’u.
+
+cabeça
+
+K ’o, **a, *a, a-ka ‘osso da cabeça, crânio’, Kb ’a, Kb, Km, Par, Ap, AC, Te, Em aka, Zo aka [ahkja], M aka, Am, Kh akãã, AsT akýng, Tp ãkyg, AsX akyn, Mb, Kw, Guar, Way akã, Xt, GCh, Gyo ãka, Si -ãnki,Yu ãnkia, An akỹwa, Ar ãti.
+
+cabelo, pelo
+
+K sop, osop, **ap, *aβ, *-aβ, M sap, ’asap, Tb áβa, Guar ’áva, Kw ’ávy, Mb, Ar ’a, Ap áwa, Xt, GCh, Gyo, Way -a, Em akaala, Kp ha, Gj h-a, Si, Yu ra ‘pelo’, Am, Kh βi), Km, Kb, Tp ’ap, Par ’av, Te aw, AsT, AC -ap, An, AsX
+awa.
+
+cair
+
+K ’ot, **kat, *ar, Tb, Par, Te, Kp ’ar, Km, Kb, AsT, AsX,
+
+Zo, M, ’at, AC r, Ap ’an, Am ãn, Kh, An ã, Tp han, Kw,
+
+Guar, Mb ’a, GCh, Gyo, Si -a, Gj al, Way a, Em ã().
+
+caminho
+
+K pa, **ape, **pe, *-ape, *pe ‘trilha, caminho’; Km, AsT, AC -ape, Tb, Te pe, -ape, Kb, AsX, Way, Em, Kp pe, Ar -epe, An pa, Tp -ãpe, Am, Kh pehéi), Kw, Mb, Guar -ape, GCh -ápe, Gyo -áper, péry, Si ráe.
+
+casa (veja-se ‘reunir-se’)
+
+28 | Revista Brasileira de Linguística Antropológica | Vol. 1 , n. 2 | Dez. 2009
+
+chegar
+cipó colar
+comer cozido cupim dente dentro
+
+Wolf Dietrich
+K otam, L otãm, **acem, *w-acem, Si kwasẽ, Tb guasem, AsT wahém, AC –, Par vahem, Kb waẽm, Tp wãem, Te wehem, Zo hem (?, poderia ser um reflexo de **tem, *tsem ‘sair’, An, AsX –, Guar guahẽ, Kw wahẽ, Mb vaẽ, GCh wãẽ, Gyo guaẽĩ ‘acudir, vir’ (arcaísmo),Way wãẽ, Em wae, Kp –, Gj wehẽ ‘nascer’.
+K tepy, L teppy, **tpo, *tpo; M yrypo, Par yhypo, Kb yypo, Guar ysypo, Mb ytypo, Xt atpó, GCh ysýpo, Gyo ycýpo, Si isío, Kp sypo, Tp hyypa, AC po, AsX vypa, Km epo tsi, Way po.
+K mbo’et, L mõ’et, **mo’t, *mo’r, Tb mo’ýra, Gyo mbo’yr, po’yr, Guar mbo’y, GCh mbóy, póy, Km mo’r ‘contas’, Ap ipo’ra, Par mbo’yr, po’yr, AsT, Kb mo’yt, po’yt ‘conta, colar de gente’, Tp mahyt, AC pora, Te pu’y, AsX mo’ýra, mo’y rowy, Kp pu’yr, Way mo’ ‘contas’, Em alppo’l, Gj p’ir.
+K pyt’y (‘assertivo’ + ’y ‘comer’); **ku, *u, Tb, Kw, Guar, Mb, Kb, Par, Te, Am, Kh, An, Ar, Kp, Zo, Gj, M ’u, Ap úa, AsT, AsX ‘o, Tp ho, GCh, Gyo, Si, Yu, AC, Way, Em u.
+K hip ‘assar’, **wp, *jβ, Tb, Gyo, Guar, GCh, AC, Way, Kp jy, Guar (Montoya) jy.b, Mb jy-kue ‘cozido’, Par jyv ‘cozinhar bem (a carne)’, Te jyw, AsT sypáp ‘assar bem’, Xt ád.
+K gyp-y; L ypy, **kupi, *kupi’i; Guar, Mb, Par, Te, Km, Kp kupi’i, AsT kopi’i, Ar kop, AsX kopi, AC kupi, Gyo, GCh kupíi, Way kupĩ’ĩ, M upi’a.
+K nhõnh, **tãj, com reflexo alveolar-palatal [] < /t-/ diante de vogais posteriores; *-ãj, M ãj. Tb –ãi-a, Xt, Kw, Guar, Mb, GCh, Gyo, Kp, AC -ãi, Way -ãi, -ãỹ, -ã’ỹ, Yu -aãi, Si rẽj, AsT -oj, An -ỹj, Tp -ỹj, AsX -ỹa, Ap ãã, Am, Kh ahãã, Zo -hãj, -ahãj, Ar -ĩ, Gj ‘ĩa, ahãj.
+K pip, **ppe. *ppe.Guar, AsT, Kb, Tp, AC, AsX pype, Mb pype ‘junto com’, Gyo, GCh, Par pýpe, Tb, Way pupe, Em pope, An ppa, Kp (jywĩ).
+Dez. 2009 | Vol. 1 , n. 2 | Revista Brasileira de Linguística Antropológica | .29
+
+Correspondências fonológicas e lexicais entre Karitiána (Arikém, Tupí) e Tupí-Guaraní
+
+dizer
+
+K ’a, *’e (forma do Proto-Tupí ainda não reconstruída). Tb, Kw, Mb, Guar, AsT, Par, Te, Kb, Km, Way, M ‘e, Em ()e, ()i, Kp –, GCh, Si, AC e (Yu hu, Gj ĩ < e’ẽ), Tp ã-he,-e hi.
+
+dor, mal (fazer) K oti, **at, *-at Mb -at Gyo -átsy, Xt -ad, Tb, Guar -asy, GCh -ásy (dialeto Ava), -áhy (dial. do Içoço), AsT, Te, AsX, Kp, Gj -ahy, Par -ahy, -ahi ‘doer; intensidade, rápido, com força’, Ar -ahi, Kb, AC, Km,Way, Em -a Tp -ãy ‘zangado’. M h-aty.
+
+dormir
+
+K kat, **kjet, *kjer. Tb, Te ker, Kp ker, kwer; Em kel, Gyo kje, AsT, Tp, Km, M ket, Zo kit, Par kir, Am, Kh tir, Kb set, Kw, Mb, Guar, GCh, Way ke, Ar te, An ka; Xt do.
+
+espinho
+
+K hy, L ‘pau com espinhas’, **wu ‘espinho’, *ju; An, Kp, Ky, Tb, Guar, Gyo ju ‘espinho’, Xt jo, AsX du, GCh júu, Mb juu ‘agulha, espinho’, Par juhu, AC ju-ati, juw; AsT soo-wa, Te tsu, su; Si tju, Way jũ, Em iñõ; M hu.
+
+filho (de homem) K ’it ‘filho/filha de homem’, ’et ‘filho/filha de mulher’, **at, *-ar. AsT -a’ýt, -a’ýra, Tb, AC, Ap -a’ýra, Kb, Par, Te, Kp -a’yr, Gyo -á’yr, Km -a’yt, Tp -ãhyt, Kw, Mb, Guar -a’y, Ar ai, GCh -áy, Way -á, Em -al; M -a’ýr-u.
+
+flor
+
+K ewosiit, **pott, *-βotr. Tb, AC potýra, Te, Kp putyr,
+
+Em ba’e-potl, Gj mtr, An ma’a-puti, Gyo pótyr, Par
+
+potyr ‘florescer’, Ap epotýra, Am, Kh ypotýra, AsX yfotýra,
+
+ywyra potýra, AsT ywotéra, ywotýt ‘flor (ainda na árvore)’,
+
+Tp hywatýt ‘flor (de fruto)’, patýt ‘flor (de árvore)’, Km
+
+potyt, Ar ipoti, Kw, Mb, Guar yvoty, poty; GCh, Way póty,
+
+Yu húti, Si úti, M poht.
+
+fogo
+
+K iso, **atja, *-ata ‘fogo’. Tb, Kw, Guar, AC, AsX, Ap,
+
+Zo, Kp tata, Mb, AsT, Kb, Te, Am, Kh, Km, Gj t-ata,
+
+Gyo, Par, Way, Em t-áta, GCh, Si, Yu táta, Xt táta (só em
+
+composição), Tp ãtã, Ar, An tatã. M arja.
+
+folha
+
+K ep esap, L epesap; **epw, *-oβ ‘folha’. Tb -oβ-a, Kb, An -owa, AC -ow, AsT, Tp -ap, Km -op; Kw, Mb, Guar -o-gue ‘folha solta da árvore’, Ar ka’a-n-a-we, GCh, Kp, Way -o, Em kaa l-o, Gj -óa, Si ro, (Yu kia, Ap, AsX ka’a); M h-op.
+
+30 | Revista Brasileira de Linguística Antropológica | Vol. 1 , n. 2 | Dez. 2009
+
+Wolf Dietrich
+
+fruta
+
+K epe’o, L epe’o, kina ’o; **a, *a, *βa ‘fruto de árvore’. Tb yβa, Kw, Guar, AsT, Way ‘a, yva, AsX i’a, ywyra ’a. Kp ma’e-ywa, Mb, Te, Km ’a, GCh, Gyo, AC a, Kb y’wa, Tp ihã.
+
+fumaça
+
+K i-a ‘fumaça, perfume, cheiro’, **ti ‘fumaça’, *ti ‘fumaça, branco’. Guar tata-tĩ, GCh t-atã-ti, Mb, AC, AsT tata-ting, Te tata-ti, Kb, AsX tata-ti, Mb t-ata-tĩ, Ap, Km, Em t-ata-si, Gyo tata-chĩ, Yu tatá-chi, Si tata-śĩ, Am, Kh tata-tĩa, Way atã-sĩ, Kp tata takanĩ.
+
+fuso
+
+K sysỹn, *c-e’ỹ. Gyo tsẽỹ, Kb e’ym, Te he’ỹm, Tp ehym, Kp
+
+y’ym, Guar he’ỹ, GCh ẽy, é, Tb y’ým-a Way ỹ, Em m.
+
+grande (aumentativo) K tyy (sg.), onyt (pl.), **atu, *utu. Mb -(r)utu, Gyo -ucu, Tb, Guar -(r)usu, Kw, Guar guasu, GCh -úsu, guásu (dial. Ava), guáhu (dial. do Içoço), Si rusu, Te, An, Ar -uhu, AsT -ohó, AsX -ohu, Kb -uu, Way -u, -ulu, -usu, AC, -uru, Kp ker-uhũ, Tp -o(o), Par -(au)hu. M wato.
+
+irmã menor (de mulher) K kypeet, **kpt, *kpr. Te kypy’ýr, AsX kypy’ýra, Gyo kypýyr, Km kp’t, Tp kypyhyt, Kw, Mb, Guar kypy’y, Way kp; Tb pyky’ýra, GCh pýky, pykýy, AsT pyky’yt, AC pkr, M hypytyt.
+
+irmão (de mulher) K keet ‘irmão/primo mais novo do homem’, **kpwt ‘irmão da mulher’, *kβr. Tb kyβýra, AsX kywyra, Guar, Mb kyvy, GCh, Way kývy; AsT, Kb, Tp, Km, Em kywyt, AC, Te kwr, Gyo kývyr, Kp ywyr, Par kuvyr, An kw, Gj kywy-xa’a.
+
+lua
+
+K oti, **wat, *jat. M waty. Mb jaty, Gyo játsy, Tb,
+
+Kw, Guar jasy, GCh jásy (dial. Ava), jáhy (dial. do Içoço),
+
+An, Kp jahy, Te zahy, AsT sahýa, Gj jahýa, Am, Kh dahý,
+
+AsX dahý, Zo dzahý, Ar jahi/dahi, Kb, AC, Km, Way ja,
+
+Em za, Tp tãy.
+
+mãe
+
+K ti, **t, *t. Mb ty, Gyo tsy, í-ty ‘3-mãe, su mãe’, Tb,
+
+Kw, Guar, GCh sy, Si, Yu si, Te, AsX, An, GCh (dial. do I
+
+çoço) hy, Ar hi, Kp hy (não se usa, prefere-se mãi, < Port.),
+
+AsT hyké, AC, Tp, Kb, Par, Way, Em y, Gj hi. M ty.
+
+Dez. 2009 | Vol. 1 , n. 2 | Revista Brasileira de Linguística Antropológica | .31
+
+Correspondências fonológicas e lexicais entre Karitiána (Arikém, Tupí) e Tupí-Guaraní
+
+mão marido morrer
+mosca mutum nariz
+nascer nome nós (excl.)
+
+K py, **po, *po. M, Tb, Xt, Kw, Mb, Guar, GCh, Gyo, AC, Te, An, Kb, Par, Am, Kh, Way, Em, Kp, Gj po, Tp pa, AsT ma, -pa, Si o, Yu oo.
+K man, **men, *men. Tp, AsT, AC, Te, Kb, Km, Em men, Mb, GCh, Way mẽ, Kp – , Gyo me(r), Tb, Kw, Guar ména, Gj men-a.
+K pop ‘morto, morrer’, **pap ‘morrer’, *paβ ‘morrer muitos, acabar-se’. M pap ‘morrer muitos’, Tb paβ, pa, Te paw, Kw, Guar, Mb, Gyo, Way, Em pa, Kb pa ‘terminar, acabar, findar’, AsT, AsX, Km, Kp pap ‘acabar’, ‘totalmente’, Par pav, Tp pam ‘concluir’, ‘aspecto completivo’, Ar pã, Gj pãj, ma; Si ha, -a, Yu há.
+K mãrãm, *meruβ. AsT merop, Km meirup, Tb, Kb, Te, Ar meru, Xt, Gyo méru, Kw, Mb, Guar mberu, GCh, Si, Par mbéru, Yu béru, Way mélu, Em bélu, Kp merũ.
+K misỹ ‘pássaro tipo mutum’, **mtũ ‘mutum’, *mtũ. Guar, AC, Kb, Par, Km, Zo mytũ; Gyo, Way mỹtũ, Kp mytun, mytũ, Ap mutũ, Ar, An mitũ, Si mitõ, Te mtu.
+K -õpi ‘ornamento do nariz’, -õpiop ‘(orifício do) nariz’, **ãpj ‘nariz’, *ãpj ‘ponta do nariz. AsT apyj ‘ponta do nariz’, AC, Kb, Km apỹj, Mb apyĩ ‘parte exterior de narina’, AsX apya, apya-kwat, Par apynh ‘nariz’, apyingwar ‘narina’, Tb apy-nguára, Guar apy-ngua, GCh apỹ-wa, Tp apỹi-wan ‘narinas’, Way apyĩ-ngwa, Gyo apỹi-nguar, Te ap-ngwar, Am, Kh apỹa, Kp ampũi, Gj japijawỹ, Yu ãngua, Si ã ‘nariz’, ãngi ‘narinas, ventas’.
+K yt, cf. **ut, **wut, **ur, **jur ‘vir’. Tb jur, Par jor, -ur, Te zur, Si tju, Kb ‘ur, jot‚ AC jur, Kp jur, tur, Km ut, jot, AsX ut, ur, AsT ot, at, tot, Kw, Mb, Guar, GCh, Gyo, Yu ju, Way (j)o, uu, Em ul, Gj u, ju. M ’ut.
+K s-at, **et, *-er. Tb, Guar, Am, Kh, Ap -éra, AC, AsX -era, Gyo, Par, Te, Kp -er, Em -el, Tp, Km, M s-et, AsT -et, -éra, Mb -éry, GCh, Way -e, -ée, Si re.
+K yta ‘nós exclusivo’, **orje/**orjo- ‘nós exclusivo’, *ore-, *oro-. Kw, Guar ore, ro-, Tb, Mb, AsT, Kb, Par, AsX, Km
+
+32 | Revista Brasileira de Linguística Antropológica | Vol. 1 , n. 2 | Dez. 2009
+
+olho
+ouvir ovo
+pai
+pé pedra
+pegar
+
+Wolf Dietrich
+ore, oro-, AC ore, ore-, Way ole, olo-, Em ole, olone, GCh, Gyo óre, ro-, Te ure, ure-, Si ure, Yu úri, ur-, Xt áre, Tp are, are-, Gj are, ari-, An ura, Kp –, M uru-to.
+K aso ‘rosto’, **eta ‘olho’, *-eta. Mb -eta, Gyo -éca, Tb, Kw, Guar -esa, GCh -ésa (dialeto Ava), -éha (dialeto do Içoço), AC, Kb, Ap, Km, Way, Em -ea, Tp -ẽã, AsT, AsX, Te, Kp -eha, Xt maha, Ar -ehã, Par -ea-kwar, Am -akwára, Kh -ea-kwára, Si, Yu résa, M -eha, ha.
+(veja-se ‘saber’)
+K s-ypi (opogako sypi ‘ovo de galinha’), **-upia, *-upia. Tb, Kw, Mb, Guar, AC, Kb, Par, Te, Km, Way, M -upi’a, Em bae-l-upi, GCh, Gyo -upía, AsT, AsX -opi’á, Tp -opihã, Ar dzapá, An -upi’ã, Am, Kh hupia, Kp pi’a. Xt pi-róro, M h-upi’a.
+s-yp ‘pai’, ‘primo (filho do irmão [mulher falando])’, **-up ‘pai’, *-uβ, Tb -uβ, Par -uv, AC, Kb -uw, Te -u(w), Km -up, AsT, Tp -op, AsX -oa, roa, Kw, Mb, Gyo, An, Way, Zo -ú, Guar -ú, -úva, GCh, Em -u, Yu -u, Si -ru, Kp pai, ru, Gj r-úa.
+K pi, **p, *p ‘pé, fundo’, M, Tb, Kw, Guar, GCh, Gyo, Mb, AsT, Te, An, AsX, Km, Way, Em, Kp, py, Ar pi, Am, Kh pýa, Tp my, AC p, Si -i, Yu i-sã.
+K iso (só em composição): iso pãm ‘pedra para moer’, iso ky’ep ‘pedra para afiar’, **wita ‘pedra’, *ita, Tb, Kw, Guar, Mb, AC, AsT, Ar, Kb, Ap, Am, Kh, Te, Km, Gj, Kp ita, Xt, GCh, Gyo, Yu, Si íta; Par -ita ‘duro’, ita-ky ‘pedra’, AsX ita-ky ‘pedra de amolar’, Tp, An itã, Ar tã, Way –.
+K pitik ‘arrumar, aprontar’, **ptk ‘pegar, segurar’, *pck, M pytyk, Tb pysyk ‘apanhar, pegar o que foge’, GCh pýsy, pýse (dial. Ava), Guar pyhy ‘segurar, apanhar’, pysy ‘prisão’, Kb pyyk ‘apertar, segurar, agarrar, pegar’, Te, Km, Kp pyhyk ‘apanhar’, ‘casar-se’, AsT pyhy(k), AsX pyhýk(a), Par, Em pyhyg, Kw, An, Gj pyhy, Ar pihi, GCh (dial. do Içoço) (ái-)py, Mb -py (aparece em composições com objetos incorporados, cf. jopy, juruvipy, e na voz recíproca jopy), Tp pyyk, Way pýy, AC je-pyk, Si ísi, Yu hísi-si.
+Dez. 2009 | Vol. 1 , n. 2 | Revista Brasileira de Linguística Antropológica | .33
+
+Correspondências fonológicas e lexicais entre Karitiána (Arikém, Tupí) e Tupí-Guaraní
+
+peixe
+
+K ip, *i-pira. M, Tb, Kw, Mb, Guar, Gyo, AC, Ap, Te, Am, Kh, Gj, M pira, Km, Kp (i)pira, AsT, Kb, AsX ipira, Tp hipirã, An pirã, Xt pirãj, GCh, Par píra, Yu híra, Si síra, Way pila, ipila, Em píla.
+
+pena (de flecha), asa K papy ‘pena de flecha barbatana’, **pepo, *pepo ‘asa, pena’, Tb, Kw, Mb, Guar, AC, Te, Par, Am, Kh, Km, M pepo, An pepu, GCh, Gyo, Way, Em pépo, Xt pépa, AsT, Tp, Ar pepá, Gj popo, Si (h)eo; Kp pypo, Ap n-pipóa. M pepo ‘asa’.
+
+pequeno
+
+K ‘ĩn ‘pequeno’, L si’ĩ ‘pequeno (sg.)’, it’ĩn ‘pequeno (pl.)’, *ti’ ĩ ‘pequeno’ (forma ideofônica, protosemantismo), Kw, Guar michĩ, Par tu’ĩ, Ap suin, Tb, Mb mirĩ (cf. **mirĩ, *mirĩ), Gj miti-ka’ ĩ.
+
+pesado
+
+K pyti, **pocj, *pocj. Gyo pocj, Tb posyj, Guar, Par pohýi, Am, Kh po(h)j, Km, Way powj, Em pod, Kp puhýi, Gj paháj; Mb, Kb poj, AC poj,pj, An puh AsT, AsX pohój, Tp poój, GCh póy, Yu ehúsi, Si úsi, M potj.
+
+pescoço
+
+K hyt, L hyto, **wut, *(a)jur, Tb (a)júra, AC ajur, Te azu, Kb jut, Par jur, Guar ajúra, Mb aju’y, Xt dadú, GCh,
+Gyo,Yu áju, Si átju, AsT sot, se sóra ‘meu pescoço’, AsX ora, Tp tot, Km ajut; (An jurupy, Ar a(d)dop, Em alp), M hut’p.
+
+piolho
+
+K gep, **kp, *kβ, Tb, Am, Kh kýβa, AsX kywa, AC, Te kyw, Par kyv, AsT, Tp, Km kp, Mb, Guar, Gyo, An, Em, Kp, Gj ky, Ar iwi-ti, GCh, Way ky, kýy, Si, Yu ki, M p.
+
+podre
+
+K nãm, **rem/ **nem ‘podre’/*nem, *rem, M nem, Tb nem, néma ‘fedor, mau cheiro’, Guar, Si ne ‘fedorento, fétido’, Mb ne ‘carne podre’, GCh (chẽ-)ne, ĩ-ne, Gyo (che-) rẽ, i-nẽ, AC, Tp, AsT, Kb, Par, Te, Zo nem ‘apodrecido e fedido’, Km -rem, Way nẽ, -ẽ, Kp nem ‘o que/quem exala um mau cheiro’.
+
+porta
+
+K akãn ‘aldeia Karitiána’, **ekwen ‘casa-boca’, ‘porta’, *oken, Tb okéna, Guar, Mb okẽ, Xt õki, GCh -õke, õke, (Kb ‘okwat (< ‘o(k) ‘casa’ + kwat ‘orifício’, AC oka-kwára), Te uken, -ruken, Tp aken, Kp hukwen, huken, Gyo -oquienda, AsT, Par, Way –, M oken-’ypy.
+
+34 | Revista Brasileira de Linguística Antropológica | Vol. 1 , n. 2 | Dez. 2009
+
+Wolf Dietrich
+
+praça (de aldeia) K akot ‘junto’, ako ‘lugar para reunir-se’, ‘muito junto’, **ekwat ‘praça de aldeia’, *okar, Gyo, Par okar, Km okar-ip, Tb okára ‘terreiro, rua praça’, Tp akan ‘casa dos homens’, AsT, Em okat, Guar oka ‘pátio, rua, exterior’, Mb ’oka, GCh óka, Xt óka ‘aldeia’, Way óka ‘casa’, Kb ukat, Te ukar, Kp kar ‘espaço na frente da casa’.
+
+puxar
+
+K atej ‘puxar, arrancar’, **ekj ‘puxar’, *ekj, Gyo c-ekýi, Tb s-ekýi, Si, Yu siki, Guar h-ekýi ‘tirar, sacar, extrair’, Mb, AC, Kb, Par, Km -ekyi ‘puxar, desatar, arrancar’, AsT, Te ekíj, Tp ikyj ‘tirar’, Kp hykýi ‘puxar, pescar com linha, aspirar, inalar’; GCh -éki (dial. Ava), -éky (dial. do Içoço), Way -ekýi ‘apanhar’; Xt ájk, AsX a-žekýi, AsT a-sekýi ‘morrer’ (no sentido de um antigo *a-je-ekýi ‘desatar-se, escapar-se (da vida)’?), M -ekyj.
+
+quente
+
+K oky, **akjup, *akuβ, Tb -akuβ, Kb, Par -akuv, Ap -akúa ‘sangue’, AC, Km, M -akup, AsT, AsX -akóp, Am, Kh -akoβ, Tp -ãkop, Kw, Mb, Guar, Xt, Te, An, Kp, Gj -aku, GCh, Gyo, Way, Em -áku, Si ráku, iáku, Yu iáku.
+
+rabo
+
+K s-ypoj , **uwaj ‘rabo’, *-uwaj, Tb s-oβáj-a, Kw, Guar, Mb -uguái, Gyo -úguai, GCh -úwai, Te -uáj, Kb -ai, wai, AsX wai, Km (u)waj, Way tuwaj, waj, AC, Kp -uwái, AsT -owaj, Par gwaja, Tp -owãj, Ar hawãj, An awãja, Am waháje, Kh gwahãje, Gj -awaj, Si rokoj, skoj, M -uwaj-po.
+
+rede
+
+K ere-m, **ẽri ‘rede’, *inĩ, M yni, Tb inĩ, AC, Km ini,
+
+Guar antigo ini, Guar moderno conservado em ini-mbe,
+
+-eni-mbe (< ini + pe ‘chato, plano’) ‘cama, catre’; Gyo inĩ,
+
+GCh ĩni, Tp ini, Way ini (arcaismo), Ar ni-hã, Mb, AsT,
+
+Kb, Par, Te, Kp –.
+
+remédio
+
+K pho ‘melhorar (intr.)’, **poca/ **pota ‘remédio’, *poca, Gyo põcã, Tb poçanga, moçanga, Te pohang, AsT pohang, pohong, Par moha, poha, AsX mohya, Guar pohã, Mb poã, moã, GCh põa, mõa, mpõa, Kp puhã, Kb fua, mua, An, Gj puhỹ, Km hoa, Way mo’ã, po’ã, Em moa, Tp mahy, M poha.
+
+respirar
+
+K õ-pis ‘respiração’, **ptu ‘respirar’, *ptu ‘respiração’, Tb pytu-cem ‘respirar’ < pytu + cem ‘sair’, AsT, AsX
+
+Dez. 2009 | Vol. 1 , n. 2 | Revista Brasileira de Linguística Antropológica | .35
+
+Correspondências fonológicas e lexicais entre Karitiána (Arikém, Tupí) e Tupí-Guaraní
+
+pytohem, Tp tepyto-werot ‘proporcionar-se hálito’, ‘respirar’ (cf. tepyto-ekýj ‘suspirar com força’, tepyto-hak ‘descansar’), Te ptu-hem, GCh pytũ-e, pytú-e ‘respirar’, Way ptũ-ekýi (< ptu ‘respiração’ + -ekýi ‘puxar’), Mb, Guar, Kb, Par, Km pytu, Kp –, M i-pyhu.
+
+reunir-se (lugar para se reunir) K ak-o L, **ekw ‘casa’, *-ok ‘casa’, Km, Kp -ok, Kb -’ok , Te -uk (em composições), Gyo -óyg, -og, Tb, Way -óka, AsX -aka, AsT -ang-a, Ar -aj, Yu -t-ai, Par, Am, Kh -onga; Kw, Guar, Ap -óga, Mb -o, GCh -o, -óo Tp, AC – (-etym), Xt – (tápuj), An – (t-ap), Em – (t-apdž), Si – (-entã), Gj – (-ipá).
+
+roça
+
+K a, **ko/** ke ‘roça’, *ko, M, Tb, GCh, Gyo, An,
+
+Kb, Par, Km, Way, Em, Gj, Si ko, Kw, Mb, Guar ko-kue
+
+‘plantação, plantio’, Tp, AsT ka, AsX kaa, Ap koa, Am, Kh
+
+ko-pea, Ar kapite, Kp ku-pixa.
+
+rosto
+
+K s-ypo ‘olho’, **epwa ‘rosto’, *-oβa, M -ewa, Tb s-oβ-a, Kw, Mb, Guar, Par -ova ‘rosto’, GCh, Gyo, Way, Em -ówa, AsT, Kb, Km -owa, Gj -awa, Te, Kp -uwa, Ar -uwã, Tp awã ‘testa’ (ao passo que ‘rosto’ é ẽã-kwan ‘órbita do olho’ em Tapirapé), Si ruba, Yu ruba ‘testa’.
+
+saber (de um fato) K sondyp, L sonyp, **entup ‘ouvir’, *-enuβ ‘ouvir’, Tb -enduβ, Kb, Par -enuv ‘escutar’, AsT -enóp ‘ouvir’, AsX -endóp; Tp inop, AC, Km -anup; Kw, Guar h-endu, Mb, An -endu, GCh -éndu, Gyo c-éndu ‘ouvir, escutar’, Yu sẽndu, Si tjandu, Am ẽndu, Kh ãndu, Ar enu, Way εnu, Em indu, Gj nũ, M entup.
+
+seio
+
+K nõm, **kam ‘seio’, *kam, Mb, Gyo, Si kã, AC, Par, Km,
+
+Em kam, Tb, Guar, Ap káma, Am, Kh kãmã, Xt kã-mo-ha,
+
+GCh kam-by, Te kam-by, Way kam- ‘teta (de animal’),
+
+Kp kam-by, i-am-by ‘seios, leite’, AsT kom, Tp kym, An
+
+km
+
+sentar
+
+K mbíika, **apk, *apk ‘sentar-se’, *apk-aβ ‘onde sentarse, banco’, M apyk ‘sentar’, Tb apyk-áβ-a, AsT, AC, Kb, AsX, Km apk ‘sentar-se’, apk-ap ‘banco’, Te apkaw, Par ‘apykav ‘cadeira, banco’, Tp ãpk-ãwa, Guar apyka, GCh, Way apýka, Em apg, Kp wapyk, Gj wapy, An aap.
+
+36 | Revista Brasileira de Linguística Antropológica | Vol. 1 , n. 2 | Dez. 2009
+
+Wolf Dietrich
+
+sol
+tatu terra, solo tio paterno tronco tu, você urina, líquido ver, olhar vermelho
+
+K o ‘dia inteiro’, o-kp (<o-ok ‘dia quente’) ‘sol’, **wat ‘sol’, *kwar, AC kwar, Kb, Km kwat, Tp kwan, Par, Am, Kh kwara ‘sol’, kwar-ahy ‘luz do sol’, Tb kwar-asy, AsT, AsX, Kw, Mb, Guar, Te, Gj kuar-ahy, Ar kar-ahi, GCh kuar-ásy (dial. Ava), kwar-áy (dial. do Içoço), An kor-ah, Gyo – (áry ‘(luz do) sol’, áry r-ácy ‘calor do sol’), Ap – (ara ‘(luz do) sol’), kwar-ay ‘calor do sol’, Way, Em kwaláy, Kp warahy (kwarahy arcaismo), Si, Yu, M –.
+K sosy, **ta(j)tu, *tatu, M sahu, Tb, Kw, Guar, Mb, AC, Te, Kb, Par, Kp tatu, Ap tatu-sĩa, Tp tãto, Ar, AsT tató, Xt, GCh, Gyo, Way tátu, Gj tatúa.
+K ej-epi [edje’pi], L ejo ‘chão’, **pw, *β, Kw, Guar, Mb, Par yvy, Tb yβy, Tp, AC, AsT, Te, An, Kb, Km, Em, Kp w, Am, Kh, Ap yβý, Xt, GCh, Gyo, Way ývy, Si íbi, Ar ibi, Gj wy.
+K sysĩn ‘tio, irmão mais novo do pai (da mulher)’, *tutr ‘tio materno (da mulher)’, Tb tutýr-a, Te, Par, Gyo tutyr, AC tutyr ‘sogro’, Km tutt, Kb tuwyr, AsT, Tp totýt, Guar, Mb, An tuty, GCh túty, Way tt
+K epe ‘árvore’, **kp ‘tronco’, *p ‘parte inferior do tron-co’, M pi-a, Tb, Mb, Guar, AsT, Kb, Te ypy ‘origem, começo, raíz, fundamento’, Par ypy(r), GCh, Gyo ýpy, Way ýpy ‘antepassados’, Em idp, Tp (a)py ‘primeiro, antes’, Kp –.
+K ãn, **en ‘tu’, *en-e, M en, AsT, Kb, Km ene, AC ene, ne-, AsX ende, Tb inde, Kw, Guar, GCh, Gyo, Si, Par, Kp nde, Mb ndee, Yu, Em de, Way (e)ne, An ne, Am, Kh nehe, Tp ane, Gj nijã.
+K si ‘urina’, **t *t ‘urina, líquido’, Tb, Guar, GCh, Gyo, AsT, AC, Ar, Te, Way t ‘urina, líquido’, M s.
+K typ ‘achar’, **cup ‘ver’, *cuβ ‘visitar, achar’, Tb jo-çuβ, Guar ant. hu.b ‘achar’, Guar mod. ju-hu ‘achar, encontrar’, GCh pó-u ‘visitar’, Gj (conservado na partícula n-aha’u-j ‘não encontrado’), Way –.
+K sõm, *pta/*pita, Tb pytáa, GCh, Gyo pỹta; Kb pita ‘marrom’, Te pitãng, Way pitã, pilã. A forma pir-a pode
+
+Dez. 2009 | Vol. 1 , n. 2 | Revista Brasileira de Linguística Antropológica | .37
+
+Correspondências fonológicas e lexicais entre Karitiána (Arikém, Tupí) e Tupí-Guaraní
+
+ter-se formado a partir do cruzamento de pta com pire ‘pele’, já que Montoya (1640), para o Guaraní antigo, documenta pitang ‘pele corada’ e pirã ‘corado, acendido’. Kp pirã, Te piráng, AsT piróng ‘vermelho’, Tp piryg, Si rãj, rẽj, tãj, tẽj (Am βãngahim, Kh βãngahĩ).
+
+vespa
+
+K op ‘marimbondo, vespa’, **kap ‘vespa’, *kaβ, Tb káβa, AC, Te kaw, AsT, Kb, Km kap ‘marimondo, caba’, Xt, Guar, Par káva, Mb kavy, Gyo káu, GCh kaw-ẽe (cf. Montoya 1640, cabeçẽ ‘avispa parda’), An kã, Way kaa, Em, Kp ka ‘abelha (n. genérico’), M ap.
+
+vir (veja-se ‘nascer’)
+
+3. Questões de método
+
+O estudo das relações genéticas entre várias línguas pressupõe a comparação sistemática dos fonemas destas línguas; tarefa penosa, mas necessária para não cairmos na armadilha das soluções fáceis. Isto bem se sabe desde os tempos dos primeiros indo-europeístas do séc. XIX. Pode ser útil darmos um só exemplo que, à primeira vista, é satisfatório com respeito a vários fatores: o da inicial /h/-, que corresponde regularmente a Proto-TupíGuaraní **/w/, e o da vogal /a/ de Karitiána han ‘falar’, que corresponde a **/e/. Mas nesse exemplo, como se verá em seguida, apresentam-se problemas: a forma do Karitiána não tem reflexo nem da oclusiva glotal //, nem da vogal da segunda sílaba, e o -n final não corresponde ao reflexo previsível, regular, que seria -.
+
+falar
+
+K han, **wee, *jee, M we’e ‘ser sábio’, Tb nhe’e ‘falar’, Kb, Km je’e, Par nhi’i, Te ze’e, AsX e’e, AC je, AsT se’eng, An ji’ẽ, Kp je’ẽ, Kw, Guar ñe’ẽ, Mb ñe’ẽ
+‘fala, som’, ‘gritar, cantar, emitir som’, GCh, Gyo ñẽẽ, Si tjẽ, Yu jẽ, Tp teheg, Way jẽẽ ‘cantar, gritar (um animal)’, Gj ĩ.
+
+Não há evidência para explicar as irregularidades mencionadas com respeito à palavra han em Karitiána. Por isso han não pode ser considerado cognato de **wee. Alguns dos exemplos apresentados como cognatos anteriormente (§ 2.) não se correspondem em todos os detalhes, mas apenas são propostos para discussões posteriores (‘morder’, ‘sentar’, ‘mosca’, ‘pai’, ‘vermelho’, ‘correr’, ‘tio’, por exemplo).
+
+38 | Revista Brasileira de Linguística Antropológica | Vol. 1 , n. 2 | Dez. 2009
+
+Wolf Dietrich
+Em outros casos observam-se paralelismos em diferentes línguas aparentadas que não se podem atribuir a evoluções regulares. Os fenômenos paralelos, porém, não são simplesmente casuais, mas obedecem a outras atitudes dos falantes, como a atitude criadora, que também segue certas regras fônicas. Trata-se de correspondências ideofônicas ou proto-semânticas. Eis aqui um exemplo que nos parece elucidativo:
+K penereg ‘sapatear, saltar’, Guar: Montoya 1640: “perereg ‘batir las alas el ave; ... Aperereg guitecóbo hecábo ‘ando loco en su busca’ ...”, Guar moderno perere ‘sacudir-se, bater as asas (a galinha, por exemplo)’, Te pererek, Par piririg ‘separar-se (a pele do corpo, a ramela dos olhos’), Mb pirirĩ ‘faiscar’, Gyo piríri ‘faiscar’, AsT pereperek ‘peidar muito’, Way pelele ‘bater as asas, estremecer, tremer’, Kp piririk ‘piscar’.
+Neste caso não tem sentido reconstruirmos uma forma **prrk, que corresponderia a Karitiána penereg, porque o fundamento do protosemantismo é a “imitação” fonética de um conceito semântico. A isso não se aplicam as chamadas leis fonéticas. O reflexo de **prrk em Proto-TupíGuaraní seria idêntico à base do Proto-Tupí; porém, todas as línguas TupíGuaraní têm o tipo perereg ou piriri, pirirĩ.
+4. Correspondências fonológicas
+Apresentamos aqui as correspondências fonológicas entre o ProtoTupí, o Karitiána e o Proto-Tupí-Guaraní. Esboçamos também as mudanças fonéticas realizadas, a partir do Proto-Tupí-Guaraní, nas diferentes línguas Tupí-Guaraní. Estas são exemplificadas na lista anterior de cognatos. As evoluções fonológicas realizadas posteriormente em algumas línguas TupíGuaraní são indicadas como possibilidades, não realizadas nas línguas mais conservadoras.
+4.1. Consoantes
+**p-/**-p- — p-/-p-/ — *p-/*-p- > -/p/ **pap ‘morrer’ – K pop ‘morto, morrer’ – *paβ ‘morrer muitos, acabar-se’; **ape, **pe – K pa – *ape *pe ‘trilha, caminho’; **p- K p- – *p ‘pé, fundo’; **pčk ‘pegar, segurar’ – K pitik – *pck.
+**-p — -p (-m em contexto nasal) — *-β (> -/w/, -/p/, -/m/ > [])
+**pap ‘morrer’ – K pop – *paβ ‘morrer muitos, acabar-se’; **kp ‘árvore’ –
+Dez. 2009 | Vol. 1 , n. 2 | Revista Brasileira de Linguística Antropológica | .39
+
+Correspondências fonológicas e lexicais entre Karitiána (Arikém, Tupí) e Tupí-Guaraní
+K ‘ep – *β; **ap ‘cabelo’ – K sop, osop – *aβ, *aβ; **kap ‘vespa’ – K op ‘vespa, marimbondo’ – *kaβ; *meruβ – K mãrãm ‘mosca’.
+**p — p — *p **pepo – K papy – *pepo ‘asa, pena’; **kpt ‘irmã menor de mulher’ – K kypeet – *kpr; **apk – K mbíika, mika L ‘sentar’ – *apk ‘sentar’; **kp ‘tronco’ – K epe ‘árvore’ – *p ‘parte inferior do tronco’.
+**pw — p — *β > /w/ **epwa ‘rosto’ – K s-ypo ‘olho’ – *-oβa ‘rosto’; **epw – K ep esap, L epesap – *-oβ ‘folha’; **pw ‘terra’ – ej-epi – *β; **kpwt ‘irmão da mulher’ – K keet ‘irmão(do homem)’ – *kβr.
+**t-/**-t- — s (j diante de vogais posteriores) — *t (> /t/ > /č/, diante de vogal anterior)
+**mtũ ‘mutum’ – K misỹ ‘pássaro tipo mutum’ – *mtũ; **tãj ‘dente’ – K nhõnh – *-ãj; **wita ‘pedra’ – K iso (só em composição) – *ita; K sõm ‘vermelho’ – *pta‘vermelho’.
+**-t — -t — *-r (> -/t/ > [Ø]) **ewt – K eet, L ‘tipo de abelha’ – *eir; **kat – K ’ot – *ar ‘cair’; **et ‘nome’ – K s-at – *-er; **ut/ **wut – K yt – *ur/*jur ‘vir’
+**t — s ( diante de vogal anterior + nasal) — *t
+**ta(j)tu ‘tatu’ – K sosy – *tatu; **ti ‘fumaça’ – K nhi-a ‘fumaça, perfume, cheiro’ – *ti ‘fumaça, branco’; **t – K si ‘urina’ – *t ‘urina, líquido’; K õ-pis ‘respiração’, **ptu ‘respirar’, *ptu ‘respiração’; **tap ‘teto’ – K so-syp – *taβ ‘aldeia’.
+**c-/**-c- — t-/-t-/ — *c-/*-c- (> /ts/ > /s/ > /h/ > []) **acuk – K oty ‘tomar banho’ – *j-acuk; *cr-k ‘correr, fluir, escorregar’ – K tet-tet ‘correr’; **co – K tat ‘ir’ L – *co; **pocj – K pyti ‘pesado’ – *poci ; K atot ‘levar’ – *r-aco.
+40 | Revista Brasileira de Linguística Antropológica | Vol. 1 , n. 2 | Dez. 2009
+
+Wolf Dietrich
+**c — t (/h/ diante de vogal arredondada) — *c **acem ‘chegar’ – K otam, L otãm – *wacem; **poca ‘remédio’ – K pho ‘melhorar (intr.)’ – *poca.
+**č-/**t- č- — t-/-t- — *č/*-č- (> /s/ > /h/ > []) **acem – K otam, otãm L ‘chegar’ – *tem ‘sair’; **ač – K oti ‘dor’ – *-at; **aču – K ty; tyy (sg.), onyt (pl.) L ‘grande’ – *watu; **wat – K oti ‘lua’ – *jatsy; **č – K ti ‘mãe’ – *t ; **tuk’u – K *’očok > otok ‘morder’ – *čuu; **čpo – K tepy ‘cipó’ – *čpo; **pčk ‘pegar, segurar’ – K pitik – *pck.
+**č — s — *č **eča ‘olho’ – K aso ‘rosto’ – *-eča.
+**k — k — *k **kpwt ‘irmão da mulher’ – K keet ‘irmão/primo mais novo do homem’ –*kβr; **kpt ‘irmã menor de mulher’ – K kypeet – *kpr; **apk – K mbíika, mika L ‘sentar’ – *apk ‘sentar’.
+**kj — k — k (kj diante de /e/) (> /č/ > /s/) **akjup – K oky – *akuβ ‘quente’; **kjet – K kat – *kjer ‘dormir’.
+**k —  — * **kp – K ’ep – *β ‘árvore’; **ku – K ’y ‘comer’ – *u, **kat – K ’ot – *ar ‘cair’, **tuku – K otok – *tuu ‘morder’.
+**kw — k — *k **ekw ‘casa’ – K ak-o ‘lugar para reunir-se, muito junto’ – *ok ‘casa’, **ekwat ‘praça de aldeia’ – K akot ‘junto’ – *okar; **ekwen ‘casa-boca’, ‘porta’ – K akãn ‘aldeia Karitiána’ – *oken.
+** —  — * **a ‘frita’ – K epe’o, L epe’o, kina ’o – *a; **a ‘cabeça’ – K ’o – *a,
+Dez. 2009 | Vol. 1 , n. 2 | Revista Brasileira de Linguística Antropológica | .41
+
+Correspondências fonológicas e lexicais entre Karitiána (Arikém, Tupí) e Tupí-Guaraní
+a-ka ‘osso da cabeça, crânio’; **at ‘filho de homem’ – K ’it ‘filho/filha de homem’, ’et ‘filho/filha de mulher’ – *-ar; **-upia – K s-ypi – *-upia ‘ovo’.
+**k —  (/n/ diante de vogal arredondada + /m/) — *k **kupI ‘cupim’ – K gyp-y; L ypy – *kupi’i; **kam ‘seio’ – K nõm – *kam; **ko/** ke ‘roça’ – K a – *ko; **kp ‘piolho’ – K gep – *kβ; **kap ‘vespa’ – K op ‘marimbondo, vespa’ – *kaβ.
+**m-/**-m-/**-m — m-/-m-/-m — *m-/*-m- (> m-/-m-, mb-/-mb- em contexto oral)/*-m
+**men – K man – *men ‘marido’; **mtũ ‘mutum’ – K misỹ – *mtũ; **mo’t – K mbo’et, L mõ’et – *mo’r ‘contas, colar’; **amõj ‘avô’ – K omyj, L ‘mãe do pai [mulher falando]’, ‘pai da mãe’ [homem falando] – *-amõj ‘avô’; **rem/ **nem ‘podre’ – K nãm ‘fedido’, *nem, *rem ‘fedido’.
+**n-/**-n — n-/-n — *n-/*-n **nem ‘podre’ – K nãm ‘fedido’, *nem ‘fedido’; **en ‘tu, você’ – K ãn – *en-e; **men – K man – *men ‘marido’.
+**- — - — *- **pota ‘remédio’ – K pho ‘melhorar (intr.)’ – *poca – K i-a ‘fumaça, perfume, cheiro’ – *ti ‘fumaça, branco’.
+**w- — - — *kw**wat ‘sol’ – K o’dia inteiro’, o-kp (<o-ok ‘dia quente’) ‘sol’ – *kwar.
+**w — h — *j **wp – K hip ‘assar’ – *jβ ‘cozinhar, cozido’; hy – **wu ‘espinho’ – *ju; **wut ‘pescoço’ – K hyt, L hyto – *(a)jur.
+**r-/**-r- — r-/-r- — *r-/-r- (/n/ em contexto nasal)
+42 | Revista Brasileira de Linguística Antropológica | Vol. 1 , n. 2 | Dez. 2009
+
+Wolf Dietrich
+**ẽri ‘rede’ – K ere-m – *inĩ. **rj — t — *r
+**orje/**orjo- ‘nós exclusivo’ – K yta ‘nós exclusivo’ – *ore-, *oro-.
+**-j — -j — *-j **ekj ‘puxar’ – K atej ‘puxar, arrancar’ – *ekj: **pocj ‘pesado’ – K pyti – *pocj; **uwaj ‘rabo’ – K s-ypoj – *-uwaj; **tãj – K nhõnh, com reflexo alveolar-palatal [] < /t-/ diante de vogais posteriores – *-ãj ‘dente’.
+
+4.2. Vogais
+No vocalismo confirmam-se geralmente as mudanças encadeadas observadas por Rodrigues (1999:111-112, 2005:44). O sistema das vogais é idêntico em Proto-Tupí e em Proto-Tupí-Guaraní:
+i u
+eao
+Com respeito ao Karitiána observamos as seguintes mudanças: **a > o, **e > a, **i é a única vogal que se mantém, **o > , ** > i, e, **u > . Em consequência disso, o sistema vocálico Karitiána tem cinco vogais orais e cinco vogais nasais:
+
+i -
+
+ĩ  -
+
+e ao
+
+ẽãõ
+
+As mudanças regulares das vogais orais do Proto-Tupí ao Karitiána e ao Proto-Tupí-Guaraní são evidenciadas a seguir. Não se mencionam aqui as possíveis mudanças realizadas em várias línguas Tupí-Guaraní, em parte também as mudanças em cadeia.
+**a — o — *a
+
+**amõj ‘avô’ – K omyj – *-amõj; **acuk – K oty ‘tomar banho’ – *j-acuk; – K osop ‘cabello, pelo’ – *’a; **kat – K ’ot ‘cair’ – *’ar; **akjup – oky ‘quente’ – *aku; **ač – oti ‘dor’ – *-at ; **a – K ’o ‘fruta’ – *’a ‘fruta’; **wač – K oti ‘lua’ – *jat; *a-r-asar – K atot ‘levar’; **ta(j)tu – K sosy – ‘tatú’ *tatu.
+
+Dez. 2009 | Vol. 1 , n. 2 | Revista Brasileira de Linguística Antropológica | .43
+
+Correspondências fonológicas e lexicais entre Karitiána (Arikém, Tupí) e Tupí-Guaraní
+**e — a — *e **pepo – K papy ‘pena de flecha, barbatana’ – *pepo ‘pena, asa’; **pe – K pa ‘caminho’ – *pe; *’e ‘dizer’ – K ’a ‘dizer’; **-epw ‘folha’ – K (ep) e-sap – *-oβ (com/o/ como reflexo da –p labializada do **pw;**kjet – K kat ‘dormir’ – *kjer; **men – K man ‘marido’ – *men; *merup ‘mosca’ – K maram; *-er – K sat ‘nome’; **acem – K otãm ‘chegar’ – *w-acem ‘chegar’.
+**o —  — *o **amõj ‘avô’ – K omyj; **čpo – K tepy ‘cipó’ – *čpo; **po – K py ‘mão’ – *po; **pocj – K pyti ‘pesado’ – *pocj; **pepo ‘pena, asa’ – K papy ‘barbatana’ – **pepo.
+** — i — * **ppe – K pip ‘dentro’ – *ppe; **pott – K ewosiit ‘flor’ – *otr ‘flor’; **wač – K oti ‘lua’ – *jat; **ts – K ti ‘mãe’ – *ts; **apk – K mbiika ‘sentar’ – *apyk-a, ‘banco’; **p – K pi ‘pé’ – *p; **pw– K ejepi ‘solo, terra’ – *; K sysi)n ‘tio paterno (m. falando)’ – *tutr ‘tio materno’ (m. falando).
+** — e — * **kp – K ’ep ‘árvore’ – *’; K tet-tet ‘correr’ – *cr-k ‘correr, fluir, escorregar’; **-a’t ‘filho’ – K’et ‘filho, filha’ (mulher falando)’ – **-a’r ‘filho’; **kpt ‘irmã menor’ – K kypeet ‘irmã menor (m. falando)’– *kpr; **t, ‘urina’ – K se ‘líquido’ – **t; **kp – K gep ‘piolho – *kb; **pw – K ejepi ‘terra’ –*.
+**u — — *u **wu – K hy ‘pau com espinhos’ – *ju ‘espinho’; **u – K ’y ‘comer, beber’ – *u; **atsu – K ty; tyy ‘grande’ – **-uču; **-upia – K sypi ‘ovo’ – *-upia; **ut ‘vir’ – K yt ‘nascer’ *ur; *-u – K s-yp ‘pai; primo (filho do irmão) (mulher falando)’, **ta(j)tu – K sosy *tatu; **kupi – K gypy ‘cupim’ – *kupi’i; K sysi)n ‘tio paterno (m. falando)’ – *tutr ‘tio materno’ (m. falando).
+44 | Revista Brasileira de Linguística Antropológica | Vol. 1 , n. 2 | Dez. 2009
+
+Wolf Dietrich
+5. A flexão relacional
+A flexão relacional dos nomes Tupí-Guaraní (t- para a forma neutra, s- para a 3p predicativa, r- para a contiguidade do atributo com seu centro determinado) em Karitiána tem o reflexo s- generalizado e, por isso, lexicalizado, já que a flexão relacional não existe em Karitiána. Qualquer que seja a origem da consoante s- inicial, chama a atenção a sua aparição em quase todos os cognatos Tupí-Guaraní com flexão relacional. Não aparece em ‘avô’ (omỹj), ‘dente’ (nhõnh), ‘filho’ (’it, ’et), ‘olho’ (aso), ‘lugar para se reunir’ (ako). **t-, s-, r- — s — *t-, s-, r-
+**ap, *’a – K s-op ‘cabello, pelo’; **epwa ‘rosto’ – K s-ypo ‘olho’ *-oβa ‘rosto’; **epw – (ep) es-ap ‘folha (de árvore)’ – *o‘folha’; *-uβ ‘pai’ – K s-yp ‘pai’; **-upia – K s-ypi ‘ovo’; **et – K sat ‘nome’ – *-er; **uwaj ‘rabo’ – K s-ypoj – *-uwaj.
+Obras que serviram de fontes de dados para o presente estudo:
+Almeida, Antônio, Irmãzinhas de Jesus e Luíz de Paula. 1983. A língua Tapirapé. Rio de Janeiro: Xerox.
+Alves, Juliana Ferreira. 2008. Fonética e fonologia da língua Araweté. Uma nova contribuição, Dissertação de mestrado, Universidade de Brasília.
+(Anônimo). 1943. Diccionario Portuguez-Brasiliano e Brasiliano-Portuguez. Reimpressão integral da edição de 1795, ordenada e prefaciada por Plinio M. da Silva Ayrosa, Revista do Museu Paulista 18: 19-322.
+(Anônimo). 1952. Vocabulário na língua Brasílica. 1 (A-H), 2ª ed. revista por Carlos Drumond, São Paulo: USP. (Boletim no. 137); 2 (I-Z). 1953 (Boletim no. 164).
+Betts, La Vera. 1981. Dicionário Parintintin-Português, Português-Parintintin, Brasília: SIL.
+Borges, Mônica Veloso. 2006. Aspectos fonológicos e morfossintáticos da língua Avá-Canoeiro, Tese de doutorado, Universidade Estadual de Campinas.
+Boudin, Max H. 1978. Dicionário de tupi moderno (Dialeto tembé-ténêtéhara do alto do rio Gurupi), 2 vols. São Paulo: Conselho Estadual de Artes e Ciências Humanas.
+Dez. 2009 | Vol. 1 , n. 2 | Revista Brasileira de Linguística Antropológica | .45
+
+Correspondências fonológicas e lexicais entre Karitiána (Arikém, Tupí) e Tupí-Guaraní
+Brandon, Frank e Albert Graham. 1983. Dicionário bilingue sateré-português, português-sateré. Versão preliminar, 2 (ms.).
+Cabral, Ana Suelly A. C. 1998. A propósito das oclusivas sonoras do Jo’é, Moara 9: 53-71.
+Cabral, Ana Suelly A. C. e Aryon Dall’Igna Rodrigues. 2003. Dicionário da língua Asuriní do Tocantins, Belém: UFPA/IFNOPAP – Brasília: UnB/IL/ LALI.
+Cardoso, Valéria Faria. 2008. Aspectos morfossintáticos da língua Kaiowá (Guaraní), Tese de doutorado, Universidade Estadual de Campinas.
+Comité Hable Guaraní. 1996. Ñaneñẽe-rru. Diccionario Guaraní-Castellano, Castellano-Guaraní, Charagua (Santa Cruz, Bolivia): Hable Guaraní (Guaraní do Chaco, Chiriguano).
+Dietrich, Wolf. 1986. El idioma chiriguano. Gramática, textos, vocabulario. Madrid: Instituto de Cooperación Iberoamericana.
+Dooley, Robert A. 2006. Léxico Guarani: Dialeto Mbyá. Introdução, esboço gramatical, léxico. Cuiabá: SIL.
+Everett, Caleb. 2006. Patterns in Karitiána: Articulation, Perception, and Grammar, Ph.D. dissertation, Rice University.
+Grenand, Françoise.1989. Dictionnaire wayãpi-français. Lexique françaiswayãpi. Paris: Peeters/SELAF.
+Hoeller, P. Fray Alfredo. 1932. Guarayo-Deutsches Wörterbuch, Guarayos (Santa Cruz de la Sierra, Bolivia) – Hall (Tirol): Verlag der Missionsprokura der P.P. Franziskaner.
+Jensen, Cheryl. 1998. Comparative Tupí-Guaraní Morphosyntax. In Derbyshire, Desmond C. and Geoffrey K. Pullum (eds.), Handbook of Amazonian Languages, vol. 4, Berlin-New York: Mouton de Gruyter, p.487-613.
+Julião, Maria Risolêta Silva. 1993. A língua dos índios do Rio Cairari, Dissertação de mestrado, Universidade Federal do Pará.
+Julião, Maria Risolêta Silva. 2005. Aspects morphosyntaxiques de l’anambe, Toulouse: Université de Toulouse-Le Mirail. Tese de doutorado.
+Kakumasu, James Y. e Kiyoko Kakumasu (comp.). 2007. Dicionário por tópicos Kaapor-Português. Cuiabá: SIL Brasil. Edição online.
+Landin, David. 1984. An Outline of the Syntactic Structure of Karitiána Sentences. In: Dooley, Robert A. (red.), Estudos sobre línguas Tupí do Brasil, Brasília: SIL, 219-254 (Série Linguística no. 11).
+Landin, David. 2005. Dicionário e léxico Karitiána-Português, 2a ed. Cuiabá: SIL.
+46 | Revista Brasileira de Linguística Antropológica | Vol. 1 , n. 2 | Dez. 2009
+
+Wolf Dietrich
+Magalhães, Marina Maria Silva. 2007. Sobre a morfologia e a sintaxe da língua Guajá (Família Tupí-Guaraní), Tese de doutorado, Universidade de Brasília.
+Neiva Praça, Walkíria. 2007. Morfossintaxe da língua Tapirapé, Tese de doutorado, Universidade de Brasília.
+Nicholson, Velda. 1982. Breve estudo da língua Asuriní do Xingu. Brasília: SIL. Padua, Alexandre Jorge (2007. Contribuição para a fonologia da língua Apiaká
+(Tupí-Guaraní), Dissertação de mestrado, Universidade de Brasília. Rodrigues, Aryon D. e Wolf Dietrich. 1997. On the Linguistic Relationship
+between Mawé and Tupí-Guaraní, Diachronica XIV.2:265-304. Rose, Françoise. 1999-2000. Eléments de phonétique, phonologie et
+morphophonologie de l’émérillon (teko), Mémoire de D.E.A., Université Lumière, Lyon II. Rose, Françoise. 2003. Morphosyntaxe de l’émérillon, langue Tupí-Guaraní de Guyane française, Thèse de doctorat, Université Lumière, Lyon II. Sampaio, Wany Bernardete de Araujo. 1997. Estudo comparativo sincrônico entre o Parintintin (Tenharim) e o Uru-eu-uau-uau (Amondava), Dissertação de Mestrado, Universidade Estadual de Campinas. Schermair, P. Fr. Anselmo. 1957. Vocabulario Sirionó-Castellano, Innsbruck: Srachwissenschaftliches Seminar der Universität Innsbruck. Schermair, P. Fr. Anselmo. 1962. Vocabulario Castellano-Sirionó, Innsbruck: AMŒ. Seki, Lucy. 2000a. Aspectos diacrônicos da língua Kamaiurá (Tupí-Guaraní), In: Staib, Bruno (dir.), Linguistica Romanica et Indiana. Festschrift für Wolf Dietrich zum 60. Geburts-tag. Tübingen: Gunter Narr, 565-581. Seki, Lucy. 2000b. Gramática do Kamaiurá, língua Tupí-Guaraní do Alto Xingu. Campinas: UNICAMP – São Paulo: Imprensa Oficial. Storto, Luciana. 2002a. Algumas categorias funcionais em Karitiána, In: Cabral, Ana Suelly A. C. e Aryon D. Rodrigues (orgs.), Atas do I Encontro Internacional do Grupo de Trabalho sobre Línguas Indígenas da ANPOLL, vol. I. Belém: EDUFPA, p.151-164. Storto, Luciana. 2002b. Dicionário preliminar Karitiana-Português-Inglês: um produto do processo de educação e manutenção da cultura entre os Karitiana, In: Cabral, Ana Suelly A. C. e Aryon D. Rodrigues (orgs.), Atas do I Encontro Internacional do Grupo de Trabalho sobre Línguas Indígenas da ANPOLL, vol. I. Belém: EDUFPA, p.165-176. Trinidad Sanabria, Lino. 2002. Gran diccionario Avañe’ẽ ilustrado guaranícastellano, castellano-guaraní. Buenos Aires: Ruy Díaz.
+Dez. 2009 | Vol. 1 , n. 2 | Revista Brasileira de Linguística Antropológica | .47
+
+Correspondências fonológicas e lexicais entre Karitiána (Arikém, Tupí) e Tupí-Guaraní
+Vasconcelos, Eduardo Alves (2008), Aspectos fonológicos da língua Xetá, Dissertação de mestrado, Universidade de Brasília.
+Villafañe, Lucrecia. 2004. Gramática yuki: lengua tupí-guraní de Bolivia, Tucumán: Universidad Nacional de Tucumán: Ediciones del Rectorado.
+Weiss, Helga, E. (compiladora). 2005. Dicionário Kayabí-Português, com um Glossário, Português-Kayabí. Brasília: SIL.
+Referências
+Landin, David. 2005. Dicionário e léxico Karitiána-Português, 2a ed. Cuiabá: SIL.
+Rodrigues, Aryon. 1999. Tupí, In Dixon, R.M.W. e Alexandra Y. Aikhenvald (eds.), The Amazonian Languages. Cambridge: Cambrige University Press, 107-124.
+Rodrigues, Aryon. 2005. As vogais orais do Proto-Tupí, In: Rodrigues, Aryon D. e Ana Suelly A. C. Cabral (orgs.), Novos estudos sobre línguas indígenas. Brasília: UnB, 35-46.
+Rodrigues, Aryon. 2007. As consoantes do Proto-Tupí, In: Cabral, Ana Suelly A. C. e Aryon D. Rodrigues (orgs.), Línguas e Culturas Tupí, vol. I. Campinas: Nimuendajú – Brasília: LALI/UnB, 167-203.
+48 | Revista Brasileira de Linguística Antropológica | Vol. 1 , n. 2 | Dez. 2009
+
+

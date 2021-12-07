@@ -1,0 +1,8321 @@
+-- LE,JC.UAS DE$PAI Y A q A *
+S
+
+[inside front cover]
+
+LENGUAS DE PANAMA
+TOMO lii
+U N A GRAMATICA PEDAGOGICA DEL WAUNANA
+(Primera Patte)
+preparado bajo la dirección del
+lingüista Reinaldo Binder
+Hna. Micaela Sánchez A. Hna. Olga Castro G.
+de La Compañía Misionera del Sagrado Corazón de Jesús
+lnstituto Nacional de Cultura Dirección del Patrimonio Histórico
+lnstituto Lingüístico de Verano
+República de Panamá
+
+Es propiedad 0 1977
+- Instituto Lingüístico de Verano
+Instituto Nacional de Cultura República de P a n a d
+Ninguna parte de esta publicación puede ser reproducida total o parcialmente sin autorizaci6n escrito del propietario.
+LENGUAS DE PANAMA, TOMO III, U N A GRAMATICA PEDAGOGICA DEL WAUNANA
+
+INTRODUCCION
+Este trabajo, aunque se le ha dado el "pomposo" título de
+Gramática Pedagógica, no intenta ser n i un método para aprender woun meu (waunana) en ocho días, n i la contestación a
+todo lo que se quisiera saber acerca de la lengua, sino más
+bien es un estudio preliminar que aún l e falta mucho para estar completo.
+Ciertamente que al iniciar este trqbaio pensamos en escribir una gramática pedagógica dirigida a facilitarles a las personas interesadas el aprendizaje de las formas más comunes de conversar, pero poco a poco fuimos viendo que nosotras mismas necesitábamos analizar y profundizar más en la lengua waunana antes de poder realizar nuestro propósito. Por eso creemos que este estudio puede servir de base para una verdadera gramática pedagógica.
+No obstante, esperamos que tanto los modelos presentados al principio de las lecciones, como las explicaciones y eiercicios sean una pauta para el aprendizaje y un estudio y conocimientos más profundos de la lengua.
+El método de estudio que se ha seguido también ha sido
+un tanto variado. Primeramente se pensó en i r presentando conversaciones cortas que comunmente se dan entre nuestra gente, y a partir de ellas i r explicando la estructura de la lengua, pero pronto nos dimos cuenta que em irnposible en razón de todas las dificultades que iban surgiendo al mismo tiempo; por l o que decidimos continuar desde nuestro conocimiento de las partes fundamentales de la gramática buscando modelos que confirmaran lo que queríamos en forma progresiva.
+Todo este estudio hubiera sido imposible sin tanta ayuda como hemos recibido. La atención constante del lingüista Reinaldo Binder quien ha trabajado durante seis anos con los
+
+4
+
+Lenguas de Panamá
+
+waunanas de Panamá y que ha hecho numerosas investigaciones sobre ellos, nunca podrá ser suficientemente valorada; él ha sido para nosotras l a verdadera "gramática viviente". La gran ayuda del indígena Chindía Pena quien no ha escatimado esfuerzos ni medios para explicarnos su lengua. Y la inestimable ayuda del consultor Sr. Stephen H. Levinsohn, del Instituto LingUístico, que con sus ensefianzas y correcciones a la vez que con su ánimo y paciencia ha hecho que llegáramos a la
+conclusión de este trabajo. Así como la ayuda tan generosa y
+las facilidades para la realización de este estudio, ofrecidas por todos los miembros del lnstituto Lingüístico, bajo los auspicios de l a Dirección de Patrimonio Histórico del lnstituto Nacional de Cultura.
+
+Hna. Micaela Sánchez A. Hna. Olga Castro G.
+
+NOTAS DEL EDITOR
+
+Hace cerca de seis afios, aproximadamente en la misma fecha en que mi familia y yo fuimos a vivir entre los waunanas de Panamá, las Hermanas Olga Castro y Micaela Sánchez empezaron a trabajar en Pichimá, una comunidad waunana en la desembocadura del río San Juan en la región del chocó colom-
+biano. Sin embargo, no fue hasta el afio de 1974 cuando
+conocimos, por primera vez, a las Hermanas en la ciudad de Panamá, y desde entonces comenzó un intercambio de correspondencia que ha mantenido entre nosotros una relación de mutuo beneficio.
+
+E l presente trabajo es el resultado de la oportunidad más
+reciente de colaboración de las Hermanas con nosotros, durante
+un laboratorio de IingUística de dos meses, llevado a cabo
+bajo los auspicios del Instituto Lingüístico de Verano, entidad
+coordinada por la Dirección de Patrimonio Histórico del Insti-
+tuto Nacional de Cultura.
+
+Este trabajo se inició después de la primera entrevista
+
+con el asesor, Sr. Stephen H. Levinsohn, quien sugirió el
+
+proyecto de una gramática pedagógica. Bajo su directión y
+
+con muestras de algunas
+
+pedagógicas recién ~ u b l i c a -
+
+das, las Hermanas llegaron al formato básico que se usa en
+
+cada una de las lecciones. Confeccionaron un esquema
+
+detallado de los temas que deseaban presentar en este trabajo,
+
+y estudiaron cada mafiana con el Sr. Chindía Pena, hablante
+
+waunana del poblado de Chitola, Darién, quien ¡es facilitó los
+
+ejemplos, frases y diálogos necesarios para que ilustraran los
+
+diferentes temas en la gramática. Yo les asesoraba en cuanto
+
+a preguntas sobre puntos gramaticales y conforme fueron desar-
+
+rollando los temas me encargué de escribir las reglas y el
+
+análisis de las mismas, las cuales fueron adoptadas por las
+
+Hermanas e incorporadas en este trabajo.
+
+6
+
+tenguas de Panamá
+
+Intentamos especialmente en las primeras lecciones, introducir suficientes detalles para que el estudiante alcance un conocimiento general de la lengua, pero no tantos como para que se desanime en el estudio. En cambio las explicaciones de las Últimas lecciones son más amplias, pues se supone que el estudiante ya haya obtenido una orientación general, l a cual le permita estudiar los sistemas gramaticales más a fondo sin perder su perspectiva.
+Como se ha notado en la introducción, este trabajo no pretende ser completo, ya que hay muchas partes de la gramá-
+tica que n i siquiera se mencionan. Más bien, es un estudio
+preliminar, que presenta solamente las formas más básicas de conversar. N o obstante, esperarnos que sirva como curso introductorio al idioma waunana.
+Cabe mencionar aquí que con pocas excepciones, este
+trabajo utiliza las reglas de escritura del idioma que resultaron de una conferencia llevada a cabo en 1973, sobre la orto-
+grafía waunana, a la cual asistieron lingüistas de varias misiones y representantes waunanas. Sin embargo, quiero aclarar que tanto las reglas como las mismas letras son provisionales, ya que la decisión final sobre la ortografía waunana está en manos del Ministerio de Educación.
+Reinaldo Binder Instituto Lingüístico
+
+CONTENIDO DE LAS LECCIONES
+
+Lección 1 Lección 2
+
+Acento en general
+- Sonido de la vocal A
+Sonido de la consonante c'
+- Verbos auxiliares chirh- y h ~ -en presente
+
+Sonido de la vocal intermedia 6
+
+Sonido de la consonante ch al f i n a l de palabra
+
+7 Sonido de la consonante
+
+Verbos auxiliares &A-,
+
+6, sj'-, E-, q'uErA- (generalidades)
+
+- - El sufiio -m
+~ronombres~nterro~ativcotsani y jüg
+
+Terminación de los sustantivos en woun meu
+
+Pronombres ~ersonalesy adietivos posesivos (generalidades)
+
+Orden de las palabras en la oración (generalidades)
+
+Lección 3
+
+Vocales largas
+Sonido de la consonante t'
+g Sonido de la consonante al final de palabra y de sílaba
+Sonido de la vibrante simple r y la vibrante múltiple rr E l verbo ma- ' i r ' en presentelpasado, futuro (singular)
+- Las posposiciones haar, -g, jam
+
+Lección 4
+
+Sonido de la semi-vocal w Sonido de la vocal intermedia
+- Pronombres personales (más
+E l verbo wet- ' i r ' en presente,
+
+pasado,
+
+futuro (plural)
+
+Lección 5 Lección 6
+
+Sonido de la vocal intermedia ü
+Repaso de la vocal -A
+i Sonido de la - Morfema de finalidad -g N -a_-
+
+Repaso de la vocal intermedia G
+
+Sonido de la vocal intermedia
+
+Tiempos de los verbos en
+
+-k Y plural)
+El sufijo
+
+-jee (habitual)
+
+- El morfema d'ii (a~kpafíamiento)
+
+pasado,
+
+futuro (singular
+
+Lección 7 Sonido de la consonante -d en posición final
+
+8
+
+Lenguas de Panamá
+
+Sonido de m en posición final Vibrante mntiple rr Oraciones interrogativas (su división) Sujeto implícito en la oración
+- Oraciones negativas -ba- y c'aba- (su formación)
+
+Lección 8
+
+Oclusivas sonoros y sordas en posición final
+
+Oraciones imperativas (su formación)
+
+-e,-* lmperativos con phi
+
+lmperativos de los verbos irregulares
+
+Los sufi{os
+
+-$,
+
+(aspectos que atladen al imperativo)
+
+lmperativos con sujeto explícito
+
+- Lección 9 lmperativos formados con -naa lmperativos formados con -baad - - - -E) Imperativos con distintos aspectos (indicador -mí, -hur,
+
+Lección 10 Repaso de la vocal intermedia 5
+Oraciones imperativas negativ&(su formación) lmperativos de los verbos irregulares Cambios morfofonológicos de raíces al afladir los sufijos
+del imperativo
+Lección 11 Repaso del sonido de la vocal intermedia ii
+Uso de los pronombres y partículas interrogativas Los numerales La forma hagá
+-- La partícula -ta
+
+Lección 12 E l concepto de "querer" expresado por las distintas formas de
+- - - c18si, c18chcg, c16chc'a
+E l concepto de "no querer" ~iferenciasentre las distintas formas de "querer" y "no querer"
+Lección 13 Aumentativos y diminutivos de los sustantivos Singular y pluml de los sustantivos Estudio de los sustantivos (formación de los nombres compuestos)
+
+Lección 14 E l caso instrumental
+Formación del caso instrumental Usos del caso instrumental
+Lección 15 Los verbos auxiliares (su composi~ión)
+Verbos auxiliares en cuanto al género Verbos auxiliares con aspecto de movimiento
+
+Lección 16 Los verbos auxiliares (continuación) Formación del plural en el tiempo presente Formación de otros tiempos distintos del presente
+
+LOS SONIDOS DEL WOUN MEU
+
+CONSONANTES
+
+- - - - - - - - - - b-ila-b-ial-a-lv-eo-lar-p-al-at-al -v-ela-r - -g-lot-al-
+
+sonoras b
+
+d
+
+9
+
+Oclusivas
+
+P
+
+t
+
+sordas
+
+aspiradas p'
+
+t'
+
+c (qu)
+
+h
+
+c' (q'u)
+
+simple
+
+r
+
+Vibrantes
+
+múltiple rr
+
+nasales m
+
+n
+
+fricativas/
+
+S
+
+ch
+
+i
+
+líquidas w
+
+I
+
+Y
+
+l. Las consonantes.
+A. Las oclusivas.
+. - 1 Sonoras.
+Se diferencian con sus correspondientes espafblas en que en woun meu siempre se mantienen como oclusivas, y por l o tanto su pronunciación es fuerte, mientras que en castellano se fricativizan cuando ocurren en medio de vocales. Por ejemplo, "dedo" (la d en espanol es dental, pero entre vocales se con-
+. - vierte en incrdental; en woun meu, la d siempre se mantendrá
+alveolar)
+
+1O
+
+Lenguas de Panamá
+
+2. Sordas.
+
+e,> a)
+
+5 tienen la misma pronunciación que en espanol.
+
+i,gJ b) Las sordas aspiradas e', f .
+
+se pronuncian como
+
+las mismas en inglés, aunque la aspiracion es más fuerte.
+
+c) En woun meu existe una oclusiva glotal que se representa por h ; su pronunciación sería parecida al sonido que se emite
+al tratar de levantar algo pesado y que supone un gran esfuerzo, dejando escapar el aire, pero a la vez manteniendo la tensión de la glotis. En woun meu, no comienza ninguna palabra con
+- vocal sino con h, evitando así el omitir letras incluso en con-
+versaciones.
+
+d ) Las oclusivas sonoras y sordas pueden ocurrir en posición final de silaba, manteniendo siempre su mismo valor (punto de articulación), aunque todas se vuelvan sordas.
+
+B. Las vibrantes.
+En woun meu existe una vibrante simple y otra vibra'nte múltiple.
+l . Simple.
+
+La vibrante simple r se suele pronunciar como la r intervocálica del espatlol, auGue es muy afectada por el ambiente en que ocurre:
+
+- - a) Cuando es seguida por una consonante alveolar (S, t, t',
+
+d, ch) cambia al sonido [ d 1 retenida.
+
+m
+
+m
+
+Ejemplo: c'aar sim --, c'aad sim 1 'está pegándose'
+
+b) Cuando es seguida por cualquier otra consonante, se
+- pronuncia con una soltura vocálica parecida a la vocal im o e.
+
+En el caso de que la vocal que precede la r sea nasal,
+
+ésta también se pronuncia como una vibrante nasal n; y en los
+ambientes a) y b) arriba indicados, se convierte en Üna -n
+- retenida y una n con soltura nasal respectivamente.
+
+-+ Ejemplo: p'flar sim
+
+p'flan sim 1 'está cerrándose'
+
+Los sonidos del woun meu
+
+11
+
+2. Múltiple.
+La vibrante múltiple
+
+tiene el sonido que en español.
+
+C. Las contfnuas.
+1. Nasales.
+Las consonantes m y n se pronuncian como en espaflol. Estas pueden ocurrir eñpozción final de sílaba sin cambiar el sonido (no así en español), excepto cuando l a m va delante de
+w, convirtiéndose en velar y cambiando a [ i) 1,
+
+2. Fricativas africadas.
+- - a) s y i tienen el mismo sonido que en espanol.
+b) ch en posición inicial de sílaba tiene el mismo sonido
+que enespanol; en posición final de sílaba se pronuncia como
+-sh inglesa y se convierte en fricativa.
+
+3. Líquidas.
+
+a)
+
+La
+
+semivocal
+
+w
+
+tiene
+
+el
+
+mismo sonido aue hu
+
+en
+
+"hueco" -
+
+,:
+
+puede ocurrir con to&s las vocales menos c&. " ; 1
+
+b) La semivocal y tiene el mismo sonido que la y inglesa o
+la i latina en español.
+c) -I tiene el mismo sonido que en español.
+
+11. Las vocales.
+A. Orales.
+En woun meu hay 16 vocales: 10 orales y 6 nasales.
+- Entre las 10 omles se encuentran las 5 espatlolas: -a 'e-'i,o, -u; - -e, - - A y otros sonidos intermedios: a, 8, h.
+Las vocales que ocurren en posición intermedia se indican usando diéresis ( " ) sobre la vocal.
+La A es una vocal propia del woun meu. Para emitine,
+la lenguadebe mantenerse en la misma posición que cuando se
+
+12
+
+Lengvas de Panamó
+
+pronuncia la u espa~ola, pero con la diferencia de que los
+labios no siguen redondeados sino que pasan a la posición de
+la -i.
+
+B. Nasales.
+
+- - - Las vocales a, 5, o, u, A pueden ser nasalizadas a,
+
+8, Y, 8, U,
+
+X y a&rgados
+
+aa, ee,
+
+ii, E, uu, AA,
+
+e
+tia, i?e, Ci,
+
+- - - - - - - - m, u ~ , - - - m - - -;A.
+
+VOCALES
+
+posterior
+
+anterior central no-redonda redonda
+----------------e------------
+
+Orales
+
+altas
+
+.I .
+
+intermedias e
+
+medias
+
+e
+
+.A .
+
+U
+
+A
+
+O
+
+G
+
+o
+
+baja
+
+-a
+I
+
+x
+
+u
+
+B
+
+o
+
+baia
+
+O
+
+l . Diálogo (saludos más comunes entre los waunanas).
+
+l a J u ~pai huspaji?
+l b MA hjiu haspajim.
+
+'Cómo amaneció?' 'Amanecí bien.'
+
+2a J u ~pai chiri?
+2b MA h'iu chir~m.
+3a JUg pai h ~ ? 3b MA h;ZU hrn, p ~ j U ?
+
+'Cómo está?' (hombre)
+'Estoy bien. ' (hombre)
+' 'Cómo está? (mujer)
+'Estoy bien. (mujer) Y Ud. 3'
+
+4a Jag pai n ~ ?
+4b HXu Mm.
+
+'Cómo están Uds.?'
+' 'Estamos bien.
+
+5a JUg ph put jUjU c'U? 5b Put jajU c'am.
+
+'Cómo? Está lavando
+' ropa?
+. 'Estoy lavando(la) '
+
+6a Jag pUar t ' h b ~ t c'ac'a c'U?
+6b Maar t ' h b ~ t c'ac'a c'am.
+
+'Cómo? Están Uds.
+tejiendo cesto?'
+. 'Estarnos tejiendo(lo) '
+
+7a Ya r n ~maag h8c1a chir~rn. 7b Ya r n ~maag h8c1a h ~ m . & Ya r n ~mam,
+
+'Ya me quiero ir. '
+(hombre)
+'Ya me quiero ir. '
+(mu jer)
+'Ya me voy.'
+
+14
+
+Lenguas de Panamá
+
+En woun meu existe una forma general de saludar que puede ser usada para cualquier persona, y otras formas específi-
+cas según el sexo (ver 2 y 3), aunque a veces el saludo sea
+simplemente el afirmar lo que ve que está haciendo la persona a la que se dirije.
+Para despedirse sólo manifiestan el deseo de irse, o afirman que se van.
+Il. Pronunciación.
+En woun meu no existe ni el mismo número de consonantes
+ni de vocales que en espanol, y también el punto de articulación de muchas & ellas es distinto. A l o largo de las lecciones
+iremos presentando las diferencias.
+A. Acento. En woun meu generalmente cuando la palabra
+termina en consonante, e/ acento cae en la Última sílaba; y cuando la palabra termina en una sola vocal, el acento cae en la penúltima síiaba. En las oraciones, la última de las palabras lleva el acento.
+Para setlalar las excepciones a estas reglas, usaremos la
+tilde ( ' ) del castellano.
+B. Sonidos. En esta lección aparecen los sonidos vocálicos:
+- - 8, e, 7, A, h, aa y el sonido consonántico c',
+distintos del &tellano. Tero<ólo nos vamos a ocupar de? y
+-c'. Los demás sonidos los iremos practicando y presentando a
+través & las siguientes lecciones.
+La vocal A. La pronunciación de esta vocal es una de las más
+difíciles para las petsonas de habla e s p ~ o l a . Para la emisión del sonido A, la lengua debe mantenerse en la misma posición que cuando-se pronuncia la "u" española, pem con la diferencia de que los labios no siguen redondeados sino que pasan a
+la posición & la vocal i" epaüola.
+La tendencia es siempre la de cambiar la lengua a la vez
+que los labios. Para evitar esto hay que mantener la tensión de la lengua hacia atrás y los labios relajados.
+
+Gramática Waunana
+
+15
+
+Ejercicio 1
+Practicar el sonido A, despues de haber escuchado al hablante nativo, y siguiendo Tus indicaciones dadas.
+
+Mantenga la tensión de la lengua hacia atrirs y cambie solamente la ~osiciánde los labios.
+Eiercicio 2
+. Pmcticar el sonido A, después ¿e haber escuchado al hablante
+nativo, pero a partir & la vocal espaflola " i"
+
+Mantenga los labios en posición relajada de la vocal i mientras l a lengua cambia hacia atrás. Repita varias veces-sin mover los labios; cambie solamente la lengua.
+
+Ejercicio 3
+
+Rqetir *u&
+
+del hablcmte nativo las siguientes palabras.
+
+hh-
+
+'estar' (mujer)
+
+h ~ r r ~ m'está, estoy' (mujer )
+
+h ~ c ' a 'lavar'
+
+hui
+
+'mujer'
+
+chirhm 'estoy'
+
+j ~ c h - 'poner huevo'
+
+shs~rr 'sonido de serruchar'
+
+p~abarpXimhu ch~ rnh P" chh
+
+'dejar' 'bótalo' 'este es' 'vomitar'
+' yo'
+'usted' 'hilo, soga'
+
+. La consonante c'. Referirse al cuadro de consonantes (ver
+"Sonidos", sección oclusivas-sordas)
+
+Ejercicio 4
+
+Repetir después del hablante nativo las siguientes palabras.
+
+c'ani
+
+'qué'
+
+16
+
+Lenguas de Panamá
+
+c'od c'ap' igc'a jap c'ochag c'usarr
+
+'famil iar' 'correr' 'quieto' 'quiero' 'cuchara'
+
+hiuc'abá jemc'ut hooc'ap'idc'aju
+C~UC'U
+
+'ríase' 'juguete' 'mirar' 'trabajaré' 'sin'
+
+Reglas de nasalización.
+
+En woun Hieu existen muchos pares mínimos en los cuales la Única diferencia es la nasalización de alguna vocal. Para
+marcarla se usa el signo ( - ) como en el portugués; aunque las
+vocales nasales que son predecibles por su ambiente fonológico no necesitan signo:
+
+- 1. Vocales que siguen una consonante nasal (m-, n) siempre
+resultan nasalizadas. Nótese que s i ocurre una r o rr después de esta vocal, aquellas también mantienen sus cambia-alofónicos
+(ver lección 3).
+
+Ejemplo:
+
+ma honee mor morr
+
+'va'
+'alegre'
+'cuerpo'
+' isla'
+
+= [m?]
+= [ ?png- 1
+=I 1
+= L mp.rl
+
+- 2. Vocales que preceden una consonante nasal (m, -n) son
+nasales, y no hay que marcarlas.
+
+Ejemplo: ham s im
+
+'ellos' 'está'
+
+= [?gm 1
+= Cslrnl
+
+3. En una secuencia de vocales, todas son orales o nasales,
+de modo que basta marcar la primera vocal de la secuencia, sabiendo que la nasalidad corre a las demás.
+
+Ejemplo:
+
+t'au hxihbeur qluTuu
+
+'totuma'
+'descansar'
+' conejo'
+'cal lado'
+
+= [t1gy1 = E h ~1 i
+= [7i.yt$l
+= [khjy- 1
+
+(e,- - - 4. La nasalidad corre a través de los IÍmites de la sÍlaba
+hacia delante o hasta que encuentre una oclusiva t, c, h,
+
+Gramática Waunana
+
+17
+
+etc.) o africada (ch), s í que hay que marcar la nasalidad de
+sílabas separadas pGéstas, s i es que son ambas nasales. En
+caso de que la palabra no tenga oclusiva ni africada, es sufi-
+ciente marcar sólo la primera síiaba nasal de l a palabra, pues
+las siguientes por regla son también nasales.
+
+Ejemplo:
+
+hihirc'u hac'tiraa c'Usimarau
+
+'sucio' 'malo'
+'nosotros'
+
+= í,ma&y 1
+
+Nota: En el caso de sílabas nasales reduplicadas, se ha mantenido el signo ( ), aún cuando por esta regla no sería necesario.
+
+Ejemplo: s8sUii 'blando' = [ ~ s p1i
+
+5. Hay un caso en que la nasalización de la vocal es resultado
+de apócope de un morfema. Según esto, -ma 'interrogativo' se pierde y queda la vocal que la precede =aliza& y acentuada. Como las terminaciones que así resultan. son comunes,
+= para no tener un doble signo ( ), se acostumbra marcar sola. mente la nasalización
+
+Ejemplo: Jügajirna? / Jagajr? Deg sima? / Deg s i ?
+
+'Cómo fue?' 'Está en casa?'
+
+Nota: Se ve l a preferencia de algunos waunanas de marcar
+- más nasales de las convenientes. Las reglas dan una base para
+el uso mínimo de l a ( ), usarla más de lo indicado arriba no está mal, pero lingüísticamente no es necesario.
+
+Ejercicio 5
+
+. Repetir las palabras después del hablante nativo, teniendo en
+cuenta las reglas de nasalización
+
+i%pai
+paUag jurr
+jac'un
+haspaj i
+
+'p'idag jeb nemc'or
+h~ic'a h ~j imr
+
+c'aai hiwaag c'uchag
+surr paar
+
+caosi
+q'ueu huur
+maar
+
+18
+
+Lenguas de Panamá
+
+Ejercicio 6
+
+Repetir los siguientes pares mínimos después del hablante nativo.
+
+p'uag p'oag
+
+'soplar' 'hierba'
+
+p ' i d q 'trabajo' p1iClag 'estrella'
+
+horjim Iprendiót h ~ r j i m 'oyó8
+
+hiwaag 'para raspar' hiwaag 'para criar'
+
+baaujem 'encuentra' baauiem 'crece'
+iuur h í 'guerra' juurjim 'se burló'
+har sirn ' a l l í está' har sim 'está datlado'
+
+-t'urt'Ur
+
+'regresar de haber hecho algo' 'olla de barro'
+
+tag
+
+'no más'
+
+ctittig di 'trampa de pescado'
+
+III. Notas gramaticales.
+
+En las frases presentadas como modelo en esta lección,
+. - las palabras c h i r m 'estoy' (hombre), y h ~ m'estoy' (mujer),
+son verbos auxiliares
+
+Para el uso de los verbos auxiliares hay que tener en
+
+cuenta ciertas diferencias. E l auxiliar c h i r ~ - sólo se usa para
+
+referirse al hombre, mientras que el aux-
+
+-h ~ -sólo se usa
+
+para referirse a la mujer.
+
+Existen además otros verbos auxiliares que serán presentados en otras lecciones (ver lección 15).
+
+Ejercicio 7
+Repetir después del hablante nativo las frases de saludo al principio de la lección y memorizarlas.
+
+Gramática Waunana
+
+19
+
+Ejercicio 8
+Después de memorizar e l diálogo escribir las siguientes frases.
+1. Cómo está?
+(hombre)
+
+(muier)
+
+2. Estoy bien.
+
+(hombre) (mu jer)
+
+3. Cómo amaneció?
+
+4. Amanecí bien.
+
+5. Ya me quiero ir. 6. Ya me voy.
+
+(hombre) (muier)
+
+20
+
+Lenguas de Panamá
+
+IV. Vocabulario.
+Sustant ivos
+chh c'od c'usarr jemc'ut mor
+Verbos
+chirhm
+haspaj im
+h~m hhrrm hérc'amaag
+- mam
+pha
+Varios
+
+'hilo' 'pariente' 'cuchara' 'juguete'
+' cuerpo'
+'estoy' (hombre) 'amaneció' 'estoy' (mujer) 'anda' 'querer, bregar' 'para ir' 'me voy' 'dejar'
+'bien' 'cómo'
+' yo'
+'tú'
+
+l . Diálogo (algunas preguntas que suele hacer l a gente cuando va a visitar).
+
+l a PA c'ani jag chiríl?
+
+'Qué está haciendo Ud.?'
+(a hombre)
+
+l b PA c'ani jdg h ~ ?
+
+'Qué está haciendo Ud.?' (a mujer)
+
+l c MA chinchorr c'a c h i r ~ m . 'Yo estoy tejiendo chin-
+chorro. '
+
+I d MA p'iejab wau h ~ m .
+
+'Yo estoy cocinando
+(haciendo comida). '
+
+2a Hich c'ani j8g s i ?
+2 b Hich d 8 h ~ asim.
+
+'Qué está haciendo él
+(ella)?'
+' E l (ella) está pescando.'
+
+3a PA haai c'ani jag s i ? 3b MA haai t'ach c'8 sim.
+
+'Qué hace su papá?'
+'Mi papá está comiendo.'
+
+4 a PA had c'ani jag s i ? 4b MA had put ja sim.
+
+'Qué hace su mamá?'
+'Mi mamá está lavando la
+ropa. '
+
+5 a Paar c'ani jag n ~ ? 5 b Matir hesap p'a n ~ m .
+
+'Qué hacen Ucls.?'
+' Nosotros estamos escri-
+biendo.'
+
+6 a Hamach c'ani jag n ~ ? 'Qué hacen ellos?' 6 b Hamach chojo p ' m i nhm. 'Ellos están moliendo cai'ía.'
+
+22
+
+Lenguas de Panamá
+
+7a Chaain c'ani jtig n . ~ ? 7b Chaain j8r jemc'a nAm.
+
+'Qué hacen los nifios?'
+'Los niflos están jugando en el río.'
+
+Ejercicio 1
+Repetir varias veces, después del hablante nativo, cada una de las frases del diálogo.
+
+Eiercicio 2
+Contestar a cada pregunta del diálogo hecha por el hablante nativo, con la respuesta leída, hasta al canzar una cierta fluidez, fijándose más en la entonación que en los sonidos por separado, que en sucesivas lecciones se irán practicando.
+
+Il. Pronunciación.
+
+A. Sonido de la vocal intermedia ti.
+
+Para emitir este sonido, se coloca la lengua hacia atrás
+como para pronunciar la -u.
+
+Ejercicio 3
+
+--- Pasar de la vocal o
+
+u lentamente con voz continua.
+
+Eiercicio 4
+- Repetir el ejercicio anterior y en la transición de la o a la
+-u, buscar el sonido intermedio en la escala.
+
+Gramática Waunana
+
+23
+
+Ejercicio 5
+Repetir el ejercicio anterior, deteniendo la voz después de cada posición.
+o-8-u
+
+Eiercicio 6
+
+Leer las siguientes palabras después del hablante nativo.
+
+Wp8d
+h8c18
+hoplOg
+h¿¿clarii
+
+'banano' 'miedo' 'iguana'
+'despacio'
+
+por clOjim c'Or p8d
+
+' cabeza'
+'comió'
+' 1 lano'
+'puedo'
+
+B. Sonido de la consonante ch.
+En woun meu el sonido consonántico [ch 1, se da en dos
+posiciones, al principio y final de sílaba.
+1. La ch al principio de sílaba tiene el mismo sonido que
+la "cht' erespanol.
+Ejemplo: chaai 'nino'; chadcha 'cierto!' chojo 'cana'; chi 'el' (artículo)
+
+2. La [ch 1 al final de sílaba tiene el sonido de "sh" en
+inglés. Para emitir este sonido, pronúnciese la "ch" espanola con voz continua hasta lograr alargarla con soltura fricativa.
+- Ejemplo: hich 'él' se pronuncia como - hish hamach 'ellos' se pronuncia como hamash
+
+Ejercicio 7
+
+Repetir después del hablante nativo las siguientes palabras.
+
+chaai chir~m choio chi
+
+ni^'
+'estoy'
+' cana'
+'61'
+
+joch¿¿g jopcha nachamm chinch8rr
+
+'ají'
+'1 igero! '
+'primero'
+'chinchorro'
+
+Gramática Waunana
+
+25
+
+Algunas veces ambos verbos se pueden usar en tercera penona del singular.
+
+2. E l auxiliar s7 puede referirse a personas, animales y
+cosas en la tercerapersona del singular, aunque en algunos casos se puede usar en segunda persona.
+
+Ejemplo:
+
+Chaai bie sim. D i btfpl¿! sim. Saac c'5 sim.
+
+'El nifio está llorando.'
+'La casa es blanca.'
+'El perro está comiendo.'
+
+en 3. El auxiliar nA puede referine a personas, animales y
+cosas, Únicamente plural.
+
+Ejemplo:
+
+Maar jabon perhau nAm.
+Maar p'idc'a n ~ m . Ham jemc'a nAm.
+
+'Estamos comprando
+jabón. ' 'Estamos trabajando. '
+'Están jugando.'
+
+4. E l auxiliar ~ U & A puede referine a personas o cosas a
+las cuales el hablante quiere expresar cariíío o para el tamano diminutivo de las cosas. Se usa con nifios o cosas muy pequefias, y con personas muy ancianas; también con adjetivos como "bonito", "balsudol', colores, etc.
+
+Ejemplo:
+
+Chaai dam h i u q1uSrÁ? Hüdh~anbie q'uer~m.
+
+'Está bien el chichi?' 'La abuela está llorando.'
+
+Nota: Este auxiliar se encuentra mucho más en la forma q'uit~m.
+
+B. E l sufijo -m.
+
+E l sufijo -m es usado al final de todo verbo indepen-
+diente que vayaen forma declarativa.1
+
+Ejemplo: MA &O jOi h ~ m . MA hesap p'~-chir~m.
+
+'Yo estoy sacando agua.' 'Yo estoy escribiendo.'
+
+' Las personas de habla espanola tienen que evitar la tendencia a pronvn-
+ciar "n" en lugar de "m" al final de palabra; para ello ciérreme bien
+los labios al final de la palabra.
+
+26
+
+Lenguas de Panamá
+
+C. Pronombres interrogativos c'ani y jUg.
+
+Existen dos temas en woun meu que expresan la interro-
+- gación, c'a- y jEi- y que sirven de base para los pronombres
+
+interrogaGos.
+. 1. Derivados de c'a-
+
+- a. Para personas: c'ai 'quién'
+
+Ejemplo: C'ai jaig s i ?
+
+'Quién esta ahi ?'
+
+- b. Para cosas: c'ani 'qué'
+Ejemplo: C'ani jUg chiri?
+
+'Qué está haciendo Ud.?'
+
+2. Derivados de jo-. Varias formas interrogativas de carácter adverbial, tales como :
+
+j~wüi
+iaS
+iam
+
+'cuándo'
+'' cdóómndoe' '
+
+(Estas formas interrogativas se estudiarán más adelante.)
+
+D. Terminación de los sustantivos.
+
+En woun meu todo sustantivo acaba en vocal, pero en el lenguaie hablado ésta generalmente se pierde. Sin embargo es
+
+preciso saber la forma completa de las palabras para usarlas
+- cuando se afiade el sufiio direccional ( g )o los instrumentales
+(-2, -E, -au).
+
+Ejemplo: t'utlap(a)
+
+' hacha'
+
+cach( i)
+
+'oreja'
+
+pagar (a, i) p'Gbdr(8)
+
+'guacamayo' 'pueblo'
+
+h~d(a)
+
+'mamá'
+
+E. Pronombres personales y adjetivos posesivos. Las formas usadas para los pronombres personales y los
+
+Gramática Waunana
+
+27
+
+adjetivos posesivos son las mismas, aunque para ambos éstos varían en algunos casos.
+Ejemplo: MA p~ had haar mam.
+yo su mamá donde voy
+'Yo voy donde su mamá.'
+PA mA had haar mam.
+Ud. mi mamá donde va
+'Ud. va donde mi mamá.'
+
+F. Orden de palabras en la oración.
+
+En woun meu el orden de las palabras en la oración generalmente es : sujeto, complemento, verbo. Las que son
+. preposiciones en espanol van después de la palabra a la que se
+refieren en woun meu Los adjetivos posesivos, demostrativos,
+etc., van delante & las palabras que rnodif,ican.
+
+Ejemplo: Sujeto
+
+Compl emento
+
+Verbo
+
+MA had
+mi mamá
+
+PUt ropa
+
+-¡ti sim. está lavando
+
+'Mi mamá está lavando l a ropa.'
+
+Su jeto
+
+Compl emento
+
+MA
+YO
+
+p~ naamjGi su tío
+
+'Yo voy donde su tío.'
+
+haar don&
+
+Verbo
+mam. voy
+
+Ejercicio 10
+
+A la pregunta dada escribir la respuesta que esté faltando, bien
+
+sea la del hombre o la de la muier.
+
+) PA c'ani jag chirií?
+
+'Qué está haciendo Ud.?'
+
+PA c'ani jag h ~ ?
+
+28
+
+Lenguas de Panamá
+
+1 . M A he~app'a chir~m.
+
+' 'Yo estoy escribiendo.
+
+2. MA put jCI h ~ m .
+
+'Yo estoy lavando la ropa.'
+
+3. MA jabon perhau h ~ m .
+
+'Yo estoy comprando jabón. '
+
+4. MA ier jemc'a chir~m.
+
+'Estoy jugando en el río,'
+
+5. M A choj6 P ' A A ~ h ~ m .
+
+'Yo estoy moliendo cana.'
+
+6. M A d o h ~ ac h i r ~ m .
+
+'Yo estoy pescando.'
+
+7. MA do j8i h ~ m .
+
+'Yo estoy sacando agua.'
+
+8. MA hasp'it j ~ rh ~ m .
+
+'Yo estoy buscando chapul !
+
+Ejercicio 11 A la pregunta dada escribir las respuestas que sean posibles, siguiendo el vocabulario presentado al final de la lección.
+Hich c'ani jag s i ? 'Qué está haciendo él/ella?'
+
+Gramática Waunana
+
+29
+
+Ejemplo: Hich hgsap p'U sim. ' E l está escribiendo.'
+
+Hich put jti sim.
+
+'Ella está lavando.'
+
+Ejercicio 12 Traducir las frases en castellano o en woun meu según convenga.
+
+2. 3. 4. Maar jabon perhau nhm. 5. Maar hssap p'a nhm,
+6.
+
+'Estarnos jugando en el río.'
+.' ' Estamos buscando chapul
+'Estamos sacando agua.'
+
+Ejercicio 13
+Traducir a woun meu las siguientes frases que responden a l a pregunta dada.
+Hamach c'ani jag n ~ ? 'Qué hacen e l los/el las?'
+1. E l los están moliendo cafia.
+
+2. Ellas están lavando la ropa.
+
+3. Ellos están bien.
+
+30
+
+Lenguas de Panamá
+
+4. Ellos están pescando.
+
+5. Ellas están cortando cana.
+
+6. Ellos están iugando en el río.
+
+Ejercicio 14
+
+Cambiar el pronombre ~ e n o n a l(y por tanto el verbo) a la frase dicha por el hablante nativo.
+
+Hablante nativo: MA put perhau chirnm.
+'Estoy comprando ropa. '
+
+Hablante nativo: PA
+
+Alumno :
+
+PA put perhau chirnm.
+'Tú estás comprando ropa.'
+
+Hablante nativo: H i
+
+Alumno:
+
+H i put perhau sim.
+'El está comprando jabón.'
+
+Usar de la misma forma la siguiente frase en singular y plural:
+MA pa jnraa hnm. 'Yo estoy buscando madera.'
+
+IV. Vocabulario.
+Sustant ivos
+chinchorr (a) choia
+$0
+haai (a)
+
+'chinchorro'
+' cana'
+'agua' 'papá'
+
+Gramática Waunana
+
+31
+
+hasp'it (a) had (a)
+...hesap (a)
+ler p'ieiab (a) put( i )
+Verbos
+-c'a
+c'o-
+doh~aja1A i jemc'ajOiphhiperhaupea-
+Varios
+clan i hamach ( i) hich ( i) j6yaa j~raa
+
+'chapul' 'mamá' 'papel' 'abaio' (en el río) 'comida'
+' ropa'
+'tejer' 'comer' 'pescar' 'lavar' 'buscar' 'jugar' 'sacar agua' 'moler'
+' comprar'
+'escribir'
+'qué' 'ellos, su'
+'él, SU'
+'sacando agua' 'buscando'
+
+[32]
+
+l. Diálogo (preguntas y respuestas que se dan corrientemente cuando se encuentran dos personas).
+
+PA jarnag rna?
+
+' A donde va Ud.?'
+
+M ~ c hhdd haar marn; p ~ j a ? 'Voy donde mi mamá; y Ud.?'
+MA p~ naamjoii haar rnam. 'Voy donde su tío! (de él,
+tuyo)
+MA maach haai haar rnam. 'Voy donde nuestro padre.'
+
+MA pdar c'a haar mam.
+
+'Voy donde vuestra hija.' (de el los)
+
+M ~ c ht'achdo6g mam.
+
+'Voy a mi sembrado.'
+
+MA p~ diig marn.
+
+'Voy a su casa.'
+
+M ~ c hdurrag marn.
+
+'Voy a mi tierra.'
+
+MA Darienag rnam.
+
+'Voy al Darién.'
+
+Ejercicio 1
+Repetir varias veces, después del hablante nativo, cada una de las frases del diálogo.
+
+Il. Pronunciación.
+A. Vocales largas.
+En woun meu cualquiera de las vocales orales o nasales pueden ser largas y se representan escribiendo una doble vocal
+- (por ejemplo, aa).
+Las vocales largas en contraste con las vocales cortas
+puede ser la única y mínima diferencia entre dos palabras. De
+
+34
+
+Lenguas de Panamá
+
+ahí la importancia de cuidar su pronunciación porque de e l l o depende el cambio de sentido o significado. N o consiste en pronunciar dos vocales, sino en alargar el sonido de l a primera.
+
+Ejercicio 2
+
+Repetir después del hablante nativo, las siguientes palabras.
+
+p 'aarp'ar-
+
+' cerrar'
+'pegar' (con el pufio)
+
+c'od c'ood
+maar mar
+
+'familia' 'tortuga'
+' nosotros'
+'arriba'
+
+heeu hZu
+
+'coger' 'piel'
+
+B. Sonido de l a consonante t'.
+
+Ejercicio 3
+
+Repetir después del hablante nativo, las siguientes palabras (referirse al cuadro de consonante (sonidos A-2a) para su pronunciación).
+
+tlUojim t'ach t1oopt'Ur
+
+'mató' 'plátano' 'rajar' 'olla de barro'
+
+nemt'ud hit'ee t'ut'ap t'eerjú
+
+'avispa'
+'para'
+'hacha'
+' damagua'
+
+Ejercicio 4
+
+Repetir después del hablante nativo, las siguientes palabras
+
+(referirse al cuadro de consonante (sonidos A-2a) para su pro-
+
+nunciación ).
+
+tUu
+
+' 'cuidado!
+
+tatj68i
+
+'abuelo'
+
+t ' h b ~ t 'cesto'
+
+put
+
+' ropa'
+
+t'hbat' Uap
+
+'quedar' 'soplador'
+
+Gramática Waunana
+
+35
+
+. C. Sonido de l a consonante g
+En woun meu la consonante oclusiva sonora g al final de palabra se oye como sorda, y también cuando preCede a otra consonante.
+
+Eiercicio 5
+
+Repetir después del hablante nativo las siguientes palabras.
+
+Posición final
+
+jamag deg c'oog durrag mhg
+
+'para dónde' 'en la casa' 'para comer' 'para adentro' 'así'
+
+Seguida de consonante
+
+jUg pai jzgt'eu-
+
+' cómo' ' roto'
+
+c'ap' igtarrau 'corramos'
+
+c'bchag nhm 'quieren'
+
+c hhg ag chamhg
+- iug
+c'aug peraag
+
+'pesa do'
+'éste'
+' cómo'
+'saber'
+'para vender'
+
+hagt'a c'ap'igbá
+
+'todavía'
+' corra'
+
+hocag t ' h n ~ m 'tengo miedo'
+
+p' idag p5m 'mucho traba jo'
+
+Nota: La consonante g, al final de sílaba o palabra, se escri-
+
+birá siempre g, ya
+
+mantiene su distinción con c, aunque
+
+en esta posic%n las dos son sordas (véase la lecció; 8).
+
+D. Sonido de r Y rr.
+En woun meu hay dos fonemas vibrantes: simple ( r ) y
+múltiple ( rr). En espafiol hay ciertos casos en que la-vibrante
+simple tiene sonido de mcltiple; por ejemplo, "rata", "honrado", "Israel", pero en woun meu no ocurre lo mismo; la vibrante
+- simple ( r ) nunca se pronuncia como múltiple.
+- La vibrante simple ( r ) tiene varios alófonos, es decir
+varias pronunciaciones según el ambiente en que se encuentre:
+1 , En posición media de palabra se pronuncia como -r
+simple espanola.
+
+36
+
+Lenguas de Panamá
+
+Ejemplo : c'aram durag
+
+' camarón'
+'largo'
+
+Excepción: Cuando l a vocal que precede a l a r es nasal, l a
+nasalidad corre a través de la -r, cambiando ésta a vibrante
+nasal.
+
+Ejemplo: p'araag
+
+'para cerrar' (la pronunciación sería parecida a p'anaag)
+
+2. En
+
+- final de sílaba la r tiene una soltura vocálica
+
+parecida a las vocales -i y -e.
+
+Ejemplo:
+
+h8pur (i)
+p'ur (i)
+jiir(i)
+j ~(ri)
+
+'armadillo' 'rojo' 'alzar' 'buscar'
+
+poor(e) mar ( e ) jaer (e) paar (e )
+
+'mono' 'arriba' 'hurgar' 'vosotros'
+
+Cuando l a vocal que precede a la r final es alta o intermedia,
+- l a soltura es alta ( i ) . Cuando la Vocal que precede a la r
+final es baja o medTa, l a soltura es media ( e ) .
+
+altas intermedias
+medias baja
+
+Vocales
+
+.I .
+e
+
+A
+
+U
+
+XO
+
+e
+
+a
+
+a
+
+Soltura
+I
+e
+
+Excepciones:
+
+1. Cuando l a vocal que l a precede es nasal, tanto l a
+vibrante como l a soltura sale nasal.
+
+Ejemplo:
+
+nemc16r 'culebra' (la pronunciación es parecida a nemc16n7')
+
+Gramática Waunana
+
+37
+
+2. Cuando la r es se-guida por una sílaba que comienza por
+
+- - 5 consonante alveol& (-S, -n, t, t',
+
+- ch), la 'r se conviette en
+e
+
+- una oclusiva sonora retenida ( d ) .
+
+Ejemplo: por t'eeg
+
+'duro de cabeza' (se pronunciaría
+p6d t'eeg, donde la d es retenida y sonora, como en inglés)
+
+En este ambiente s i la vocal que precede a la -r es
+- también nasal, la r se convierte en una -n.
+Ejemplo: jUr sim --, jun sim 'está torcido'
+.1 r seguida de consonante alveolar [ d 1
+
+per naajim beer c h i r ~ m beur sim saar t ' ~ n ~ m poor deebá
+
+(ped naajim)
+( beed c h i r ~ m )
+(beud sim)
+( saad t ' h n ~ m )
+(pood deebá)
+
+- 2. r precedida por nasal y seguida de alveolar [ n l
+
+domer sim har n m t'Xr t ' h n ~ m he& chuc'um paar daq1uBr
+
+(domen sim)
+( han n ~ m ) ( t'Xn t ' h n ~ m ) ( hmn chuc'um)
+(paan daq'unr)
+
+III. Notas gramaticales.
+
+A. E l verbo ma- 'ir'.
+
+En woun meu, muchos de los verbos tienen una forma para el singular y otra para el plural. Entre los verbos de movimiento está: ma 'ir', usado por lo general en singular para los tiempos p=ente, pasado y futuro.
+
+Ejemplo:
+
+mam majim maiú
+
+'vas, va' 'fui, fuiste, fue' 'iré, irás, irá'
+
+38
+
+Lenguas de Panamá
+
+. B. Las posposiciones (equivalentes a las preposiciones en espaftol )
+
+En español se indican los caos y las relaciones locativas con preposiciones, pero en woun meu no es así, sino que se expresan por sufijos o palabras posposicionales a los sustantivos
+o pronombres que modifican ,
+
+Ejemplo: r n ~had haar Darienag
+
+'donde mi mamá' 'hacia el Darién'
+
+En esta lección aparecen las posposiciones : haar 'allí,
+- - donde' y el sufiio -g 'hacia, a, para' (direccional).
+
+- haar 'allí, donde' tiene sentido locativo mientras que el
+sufijo -g 'hacia, a, para' tiene sentido direccional. Para usar el sufiio -g hay que tener en cuenta la nota gramatical D. de la lección-2.
+
+Ejercicio 6 A la pregunta PA jamag ma? 'Para dónde va Ud..?'
+en woun meu las siguientes respuestas.
+1. Voy al sembrado.
+
+escribir
+
+2. Voy a Panamá.
+
+3. Voy a su casa.
+
+4. Voy donde su abuela.
+
+5. Voy donde mi mamá.
+
+Gramática Waunana
+
+39
+
+Ejercicio 7
+
+Dar una respuesta oral para las siguientes preguntas.
+
+1. PA baurrh~an jamag ma? 'Para dónde va su madrustra?'
+
+2. PA chaaijwi jamag ma? 'Para dónde va su suegro?'
+
+3. Chaai jamag ma?
+
+'Para dónde va el nino?'
+
+4. Hich jamag ma?
+
+'Para dónde va él (ella)?'
+
+Ejercicio 8
+
+Emparejar las palabras de la izquierda con las de la derecha, cuidando el género, número y sentido.
+
+m~ haai p~ had rn~
+
+...put ja sim
+ler jemc'a sim hich t1achdo8g mam
+
+hich
+
+hAu n ~ m
+
+PA
+
+m ~ c htatjüüi haar mam
+
+haap pla chirh
+
+IV. Vocabulario.
+Sustantivos
+baurrhoan (a) baurrji%i (a ) c'a c'od (a) chaaijai (a) di durr (a) hadhuan (a ) haig naamjiSoi (a ) p'aauh~an(a) t'achdo tat jo¿(ia)
+
+' madrastra'
+'padrastro'
+'hi ja'
+'familia' 'suegro'
+' casa'
+'tierra' 'abuela' 'yerno, nuera' 'tío' 'suegra' 'platanal' 'abuelo'
+
+40
+Verbos ma-
+Varios -agt 9 haar iamag m~ch(i)
+
+Lenguas de Panamá
+'hacia' 'donde1 'a donde1 'mi, yo'
+
+l . Diálogo.
+l a Paar jamag wetú?
+1 b Maar h6p8d hawaan wgtum.
+
+'Uds., para dónde van?'
+'Vamos a traer banano.'
+
+2a Ham jamag wZtÚ? 2b Ham choj6 p ' ~ a nwetum.
+
+'Ellas, para dónde van?'
+' E l las van a rozar caña.'
+
+3a PA had jamag m a j i ? 3b MA had dojoyaan majim.
+
+'Para dónde fue su
+' mamá?
+'Mi mamá fue a sacar
+agua .'
+
+4a Chaain jamag w Z t j i ?
+
+'Para dónde fueron los niRos?'
+
+4b Chaain hasp'it j ~ r a a nwetjim. 'Los niños fueron a
+buscar chapul.'
+
+Ejercicio 1
+Repetir varias veces, despu& del hablante nativo, cada una de las frases del diálogo.
+
+I l. Pronunciación.
+A. El sonido de w.
+Se pronuncia como la "hu" en español, de las siguientes
+al abras: huevo, huitoto, hueso, hueco, pero puede ocurrir - con todas las vocales menos con la u.
+
+42
+
+Lenguas de Panamá
+
+Ejercicio 2
+
+Repetir varias veces después del hablante nativo, las siguientes palabras.
+
+woun wa jap'a werbaajem warp'aa waujú
+
+'indio'
+'bonito'
+'se acuesta'
+' lejos'
+'hará'
+
+w ~ j i m 'pegó' paawai 'cuando prendió' t'umwe 'todo' hiec'awie 'habiendo hablado'
+
+e . B. Sonido de l a vocal intermedia
+Este sonido es intermedio entre l a "i" y "e" espaflolas; para emitirlo practicar los siguientes ejercicios.
+
+Eiercicio 3
+
+--- Pasar de la vocal e
+
+i lentamente y con voz cont'ínua, y
+
+- en l a transición d e l a e Ü la i buscar en la escala el sonido
+intermedio.
+
+Ejercicio 4
+. .. Repetir el eiercicio de arriba, deteniendo la voz después de
+cada posición e-e-I
+
+Ejercicio 5
+
+Repetir después del hablante nativo, las siguientes palabras.
+
+.."..ljee..r
+
+'boa' 'en el río'
+
+leeu- 'pedir'
+
+t'etleu hap'ep wet jim
+
+'ruido de gotas de agua' 'mariposa' 'fueron'
+
+Gramática Waunana
+
+43
+
+III. Notas gramaticales.
+A. Pronombres personares.
+Los pronombres personales usados como sujeto de verbos intransitivos o como complemento de un verbo transitivo, son los siguientes:
+
+m~
+PA hi maar paar ham
+
+'yo, me' 1'teúl,, etell'a, lo, la'
+'nosotros, nosotras, nos'
+'VOSOr~os, vosotras, os'
+'ellos, ellas, los, las'
+
+B. E l verbo wet- 'ir'.
+Es l a forma plural del verbo 'ir' (ver la lección 3 ) , y se da en los tiempos presente, pasado y futuro (ver l a lección 6).
+
+'ir'
+
+Presente
+
+Pretérito
+
+singular plural
+
+mum wetum
+
+majim wet jim
+
+Cuadro 2
+
+Futuro
+ma jÚ wet jú
+
+Ejercicio 6
+
+Escribir en woun meu las respuestas a la pregunta: Paar jamag
+wetú? 'Uds., para dónde van?'
+
+Ejemp lo :
+
+Nosotros cana rozar vamos.
+
+su jeto
+
+c:ornplemento vetbo
+
+(fijarse en el orden de las palabtus en l a oración)
+
+44
+
+Lenguas de Panamá
+
+1. Nosotros vamos a sacar agua.
+
+2. Nosotros vamos a buscar chapul.
+
+3. Nosotros vamos a lavar ropa.
+
+4. Nosotros vamos a pescar.
+
+5 . Nosotros vamos a pasear.
+
+Ejercicio 7
+Escribir la palabra que falta en el espacio en blanco.
+A. 1. MA p~ diig
+fui
+2. Ham mA htidh~anhaar
+fueron
+3. Hich jer jemc'aan fue
+4. Ptiar arroz perhaaun
+fueron
+5. PA h¿jp$ddoi
+fuiste
+6. Maar choja p ' h ~ i n fuimos
+
+Grarnática Waunana
+
+B. 1.
+
+. Darienag rnarn
+
+YO
+2.
+nosotros
+
+choja p ' ~ a nweturn.
+
+3.
+el la
+
+p'asien rnajirn.
+
+4. uds.
+
+rnn tat jo¿i haar wetiirn.
+
+5.
+tú
+
+d o h ~ a nrnajirn.
+
+6.
+el los
+C. 1. PA
+mi
+
+t'ach perhaaun wet jirn.
+
+-
+
+rna rna
+
+donde
+
+2. Hich
+mi
+
+suegra
+
+donde
+
+3. MA
+nuestro
+
+abuelo
+
+don de
+
+4. PUar
+SU
+
+hija
+
+donde
+
+5. Harn
+vuestra
+
+nuera
+
+donde
+
+6. Maar
+tu
+
+rnu jer
+
+donde
+
+45
+majirn. rnajirn.
+rnajirn. wetjirn. wetjirn. wztjirn.
+
+Eiercicio 8
+Contestar oralmente a las preguntas del hablante nativo, cada vez usando uno de los sustantivos presentados en la lección.
+Hablante nativo: PClar jClrnag wStG? 'Para dónde van Uds.?'
+
+46
+
+Lenguas de Panamá
+
+Al umno :
+
+Maar hoptid hawaan wztum.
+
+' Nosotros vamos a ' traer banano.
+
+Hablante nativo: "papachina"
+
+Al umno:
+
+Maar hachin hawaan wztum.
+
+Hablante nativo: "piña"
+
+Alumno:
+
+Maar piej~ hawaan wetum.
+
+IV. Vocabulario.
+
+Sustantivos
+
+hachin heeur mod hepur mod hichc'um rnod
+iep pedau pÍe jU sUrr t'Ug jU
+
+'papachina' 'carne de guagua' (conejo)
+'carne de arrnadillo'
+'carne de guatín' (fieque)
+' cangrejo'
+'maíz' 'pifia' 'venado' 'caimi to'
+
+Verbos
+
+majim wzt jim wetum
+
+'fui, fuiste, fue' 'fuimos, fuisteis, fueron' 'vamos, vais, van'
+
+Varios
+
+ham
+hi
+jamag maar
+ptiar
+
+'el los'
+'él'
+'para dónde'
+'nosotros'
+'Uds.'
+
+l . Diálogo.
+
+1. Hedaraawe mA p ' i i d ~ j i mm ~ c h
+p'idag haar maag hat'ee.
+
+'Me levanté de madru-
+gada para i r a mi
+trabajo. '
+
+2. MA estudie c h i r ~ mwajap'a
+. p'aag
+
+'Estudio para escribir
+bien. '
+
+3. MA heeur rnod c'oog beeiim.
+
+'Vine para comer
+conejo. '
+
+4. T'ach peraag t'u jierram.
+
+'Cortaron plátano para vender.'
+
+5. MA jerag hhhrbajim p'etjo
+. huag
+
+. 'Bajé a l río para
+cargar guabas '
+
+6. Mua h5pGd waibeejim p~ dXi
+. deephyaag
+
+'Traigo bananos para mandar con Ud.'
+
+7 . P ' A A ~ ~ Óchi choia p'ieg hat'ee. 'Muela para meter l a
+cana! '
+
+8. Hich c'ap'ig majim saac wAag
+hat'ee.
+
+'El se fue corriendo
+para pegarle a l
+perro. '
+
+9. MA piyolc'au pk!rhaujim
+chincht~rr c'aag.
+
+'Compré piola para
+tejer chinchorro. '
+
+10. Jap do marag biec c'aag hhu
+sierr~m.
+
+'La canoa está buena para viajar río arriba.'
+
+11. Baaudí weeujim p'atc'on
+haclaag.
+
+'Abrió el baúl para guardar la plata.'
+
+48
+
+Lenguas de Panamá
+
+Ejercicio 1
+Repetir varias veces, después del hablante nativo, cada una de las frases del diálogo.
+Il. Pronunciación.
+A. E l sonido de l a vocal intermedia ti.
+Se asemeja a l sonido vocálico del inglés americano en
+las palabras : "up", "of" , "about". Para emitirlo hay que man-
+tener la lengua en la posición de l a vocal o, pero los labios
+- pasan a la posición de l a vocal e, sin mover l a lengua.
+
+Eiercicio 2
+
+Pronunciar después del hablante nativo, las siguientes palabras.
+
+c'ar harrdaddjü c'am sasüu c'am hahad c'aag
+' 5jaaaU
+.b..la..a..a..p..rla.
+lalais c'a-
+
+'sonando como tabla' 'eructar' 'sonido de hachar' 'sonido de cepillar' 'gritar' 'calle larga' (en el río) 'blanco' 'una hormiga grande' 'estornudar'
+
+B. Repaso de l a vocal A.
+- Referirse a l a lección 2, para repasar el sonido de l a vocal A.
+Ejercicio 3
+
+Repetir después del hablante nativo, las siguientes palabras.
+
+j ~ r - 'buscar' waidh- 'subir' - C ' A A ~ 'gente' b ~ r - 'picar fruta' (pájaro) t ' ~ b ~ 'tcesto'
+
+t1r\rrc'a- 'cortar'
+
+p~ ~ t 'Uad.' (enfático)
+
+t ' ~ n ~ m 'hays
+
+C~A
+
+'cuerda'
+
+WAA sim 'está alumbrando'
+
+Gramática Waunana
+
+49
+
+III. Notas nramaticales.
+- A. El morfema de finalidad -a -aaa.
+- El morfema de finalidad g 'para', tiene el efecto de
+alargar la raíz con que ocurre.
+- - - Ejemplo: rna- ' i r ' + -g --+ maag 'para i r '
+
+- (-e, - - S i la vocal de la raíz del verbo es media 0, h ), la
+adición de -g -aag, no solamente la alarga, sino que a la
+
+vez la cambia a IaTocal baja que le corresponde.
+
+- - Ejemplo: c'o- 'comer' + -g + c'oog 'para comer'
+
+- - --+- p - 'mandar' + -g
+
+padig 'para mandar'
+
+S i l a vocal de la raíz del verbo es alta ( i , u, A ) la
+
+- - - - adición de -g -aag, no la alalga sino la convierte a la
+
+- k, secuencia
+
+%,
+
+2.
+
+Ejemplo:
+
+-WA- 'pegar' - p'i'm- eter'
+
+- - + -g -,wAag 'para pegar'
+
++ -g- +
+
+'para meter'
+
+S i la forma -aag ocurre con raíces que terminan en consonante, la vocal deaquel las no varía.
+
+Ejemplo: a
+
+'para buscar'
+
+Ejercicio 4
+
+-ARadir a las raíces de los verbos el morfema de finalidad
+-g_ -aag, siguiendo las reglas dadas en las notas gramaticales;
+para elloreferirse al cuadro de vocales en el apéndice.
+
+1. ma- ' i r '
+
+'para i r '
+
+2. p'ti3. c'0-
+
+'escribir'
+' comer'
+
+'para escribir' 'para comer'
+
+4. per- 'vender'
+
+'para vender'
+
+50
+
+Lenguas de Panamá
+
+5. phi-
+6.w~-
+
+'mandar'
+' pegar'
+
+'para mandar' 'para pegar'
+
+7. p'y-
+
+'meter'
+
+'para meter'
+
+8. hau- 'coger'
+
+'para coger'
+
+9. hoo- 'ver'
+
+'para ver'
+
+Ejercicio 5
+
+Completar los espacios en blanco, usando el verbo con el morfema de finalidad.
+
+1. c'a- 'coser'
+
+Chi c h ~deebá
+2. c'o- 'comer'
+
+para coser
+
+C'usarr phr hat'á
+3. d o h ~ a -'pescar'
+
+para comer
+
+Hi chinchorr c'a sim para pescar
+
+4. wie- 'consumir'
+
+Ham c h o j ~P ' A A ~ nAm miel para consumir
+
+5. jemc'a- 'jugar'
+MA p~ diig mam
+para jugar
+
+6. hau- 'traer'
+
+hi5pi5d para traer
+
+Gramática Waunana
+
+51
+
+7. nem p'a- 'cazar'
+Hi durrag wetjim sllrr para cazar
+Ejercicio 6
+Traducir a woun meu en singular y plural las siguientes frases, usando los verbos de los ejercicios anteriores.
+l a Yo me voy.
+1 b Ellos se van.
+2a Ud. está escribiendo. 2b Uds. están escribiendo. 3 a E l está comiendo.
+3 b Nosotros estamos comiendo.
+4a Yo me fui. 4b Uds. se fueron.
+5 a Ud. l o está vendiendo.
+5 b Nosotros l o estamos vendiendo.
+6 a E l está pegando. 6 b Uds. están pegando.
+7a Ella está cogiendo. 7 b Ellas están cogiendo.
+
+IV. Vocabulario.
+Sustantivos
+baaud í
+iap (a )
+p'atc'on (a)
+p'et ja
+p'idag (a)
+Verbos
+biec c'ac'ap'ig-
+
+'baúl' 'potro' 'plata' 'guaba' 'trabajo'
+'viajar'
+' correr'
+
+52
+- deepfii
+hac'ah~~rbahuap'iidhp'i-
+- t'u-
+waibee weeu-
+Varios
+hedaraawewa jap'a-
+
+Lenguas de Panamá
+'mandar' 'guardar' 'bajar'
+' cargar'
+' 1 evantarse'
+'meter' 'cortar' 'traer' 'abrir'
+'de madrugada' 'bien'
+
+Diálogo.
+1 a PA t'ach c'5 s i ? 1 b MA t'ach c'8 c h i r ~ m .
+2a Pifar t'ach c'8 n ~ ? 2b Maar t'ach c'8 nAm.
+3 a PA t'ach c 1 8 i i ? 3b MA t'ach c'oiim.
+4a H i t'ach c'ojT? 4b H i t'ach c16jim. 4 c H i hich hifd haar
+t'ach c18jim.
+5 a C'ani c t 5 j i ?
+5 b Hifwarr &i h8p8d
+pijrn c'8jim.
+6 a C'ani chi hemc'ooin marim di haar ddjierrá?
+6 b Ham dobX~rdojierram.
+7a PA c'ani wau h ~ ? 7b MA homdau wau h ~ m .
+
+'Está Ud. comiendo?' 'Yo estoy comiendo.'
+'Están U&. comiendo?' 'Estamos comiendo.'
+'Ud. comió?' 'Yo comí.'
+'El comió?' ' E l comió.' 'El comió donde su mamá.'
+'Qué comió?' 'Comió bastante pescado y
+banano. '
+'Qué tomaron los hombres en la casa de arriba?'
+' 'El los tomaron biche.
+'Qué está haciendo Ud.?' 'Estoy haciendo envuelto.'
+
+54
+
+Lenguas de Panamá
+
+8a J6pcha haju c'ai?
+8b PA nau j8pcha ct8jCí'
+
+'Estará pronto?'
+'Pronto comerá Ud !
+
+9 Ham dohZZjurau.
+
+'El los tomarán toda la
+noche.'
+
+10 Mag gaaimua nan ham
+qluZch h~lspajurau.
+
+'Por eso mafíana ellos
+' amanecerán borrachos.
+
+Ejercicio 1
+Repetir varias veces, después del hablante nativo, cada una de las frases del diálogo.
+
+Il. Pronunciación.
+
+A. Repaso de la vocal 8. Referirse a la lección 2, para repasar el ;onirk, de la
+vocal intermedia -6.
+
+Eiercicio 2
+
+Repetir después del hablante nativo, las siguientes palabras.
+
+dic'uug
+~'00s
+C'W
+
+'hacia la orilla de la casa' 'para hundir' 'para comer'
+
+huu t'hn~rn 'está en llamas'
+
+h6 t ' ~ n ~ m 'está acabado'
+
+hoo d ~ n ~ m'está parado'
+
+burr-
+
+' caer'
+
+borr-
+
+'tapar'
+
+horr
+
+'lo visto'
+
+nemt'ud ot' ¿di t'oop-
+
+'avispa' 'toldo' Irajar'
+
+Gramática Waunana
+
+55
+
+h~pur p6 r
+Peor
+-clur c'Or c'oor-
+Put p5d p'ot
+
+'armadillo'
+' cabeza'
+'mono'
+' despuést
+'1 lano'
+'pelar'
+'ropa' 'puedo' '(sonido de) pegar'
+
+B. Sonido de la vocal h . Para poder llegar a pronunciar la vocal intermedia X, es
+-.. 2, a. necesario practicarla en relación con las demás vocales $S-
+teriores y centrales, es decir: A, A,
+
+Ejercicio 3
+
+--- Pasar de la vocal a
+
+A (ver el eiercicio para pronunciar A
+
+en l a lección 1 ), lentamente con voz contínua; y en la transi-
+
+ción, buscar en la escala los sonidos intermedios ¿yi h ; h es
+
+- un sonido más baio que la A :
+
+-
+
+e
+
+-
+
+Eiercicio 4
+Repetir el ejercicio anterior, haciendo escalas intermedias pero siempre con voz contínua:
+
+a
+
+---
+
+a
+
+---
+
+..
+A --m
+
+A
+
+Ejercicio 5
+
+Repetir el ejercicio anterior, deteniendo la voz después de
+
+cada posición :
+
+a.. a..
+
+a
+
+a
+
+56
+
+Lenguas de Panamá
+
+Nota: Todos estos ejercicios deben ser repetidos con y después del hablante nativo.
+
+Ejercicio 6
+
+Pronunciar después del hablante nativo, las siguientes palabras.
+
+c'ar
+
+'a veces'
+
+c'ir
+
+'sonando como tabla'
+
+b;\
+
+'pie'
+
+PA
+
+'Ud.'
+
+hahaa haag haha¿ haag hXc'aag h~c'aag
+
+'gritar' 'gritar' (gente)
+' creer' ' lavar'
+
+waag nem wg¿i whfi sim WAA sim
+
+' cavar'
+'muy hueco' 'está hueco' 'está alurpbrando'
+
+harr hdrr hiirr hhrrhm
+
+'Ilevar'
+'eructar' 'chontaduro' 'es, soy' (mujer)
+
+.I I I Notas gramaticales.
+
+A. Tiempos de los verbos.
+
+En woun meu los tiempos del verbo están expresados por sufijos que se unen a los temas verbales y las personas están indicadas por pronombres personales.
+
+1. Tiempo presente. Para expresar el presente del verbo,
+es preciso usar un presente progresivo que se forma con la raíz de un verbo más el auxiliar.
+
+Ejemplo: MA t'ach cG chirnm.
+Hi hiec'a sim.
+
+'Yo estoy comiendo.'
+'El est6 hablando.'
+
+Gramática Waunana
+
+57
+
+2. Tiempo pretérito. Se expresa añadiendo a la raíz del
+- verbo sufijos que indican que la acción ya se realizó: -jim
+para el singular y -jierram para el plural.
+
+Ejemplo: MA t'ach c'ojim.
+Ham t'ach c'oiierram.
+
+'Yo comí'
+'El los comieron. '
+
+3. Tiempo futuro. Se expresa con sufijos que indican que
+-. - la acci.ón. está. por realizarse: -[u para el singular y
+para el plural.
+
+Ejemplo: Hi nan b'eejú.
+PUar nan beejumu.
+
+'El vendrá mañana.'
+' 'Uds. vendrán manana.
+
+Nota: Recuérdese que el sufijo -m no se usa en las formas interrogativas, sino en las declara3vas (con excepción del futuro).
+
+Ejemplo:
+
+Hi deg si'? Hi deg sim. Hi deg síejú?
+
+'Gtá en casa?'
+' E l está en casa.' 'El estará en casa?'
+
+- B. Morfema indicador de aspecto habitual. E l s ~ fjoi -je -jee unido a las raíces verbales expresa la idea de una acción F e se ejecuta habitualmente.
+
+-k l. La forma corta
+
+ocurre siempre antes de los sufijos
+
+-m 'declarativo' y -ma 'interrogativo'. En éste segundo caso,
+
+. sesuele oir jB en l u i r de jema (véase la lección 1: Reglas
+de nasalización )
+
+Ejemplo:
+
+Pua nagch6 dooig? Mua doojem. Mua chan &a haajem.
+
+'Ud. toma guarapo?'
+'Yo tomo. '
+'Yo no torno.'
+
+-k 2. La forma larga
+
+ocurre en toda otra combinación de
+
+morfemas.
+
+Ejemplo: C'oojeejim.
+
+'Yo comía.'
+
+- - Nota: Recuérdese que el morfema -je --jee hace alargar la
+
+58
+
+Lenguas de Panamá
+
+vocal de la sílaba que la precede (véase la lección 5: Mor-
+fema de finalidad).
+
+-E -& 3. El sufijo
+
+más 'pretérito', indica una acción
+
+habitual en tiempo pasado.
+
+Ejemplo: C'oojeejim.
+
+' 'Yo comía. (habitual mente)
+
+Nota: La persona de habla espanola debe darse cuenta de que
+- en espanol el modo habitual y el tiempo presente tienen la
+misma forma, mientras que en woun meu, se indican con -je
+-jee y con la construcción de verbo auxiliar respectivame$e.
+
+Ejemplo: C'oojem. C'o sim.
+
+'(El) come (habitualmente).'
+'(El) está comiendo.'
+
+. C. El morfema bii
+
+En woun meu, con el morfema 'con', se expresa una relación de compaflia entre dos cosas o penonas. Este puede usarse después de la primera o segunda de las cosas o peisonas a quienes se refiere y siempre lleva el acento de la frase.
+
+Ejemplo:
+
+HGpGd hawarr UAi c'ojim.
+Hopod dhi hawarr c'oiirn.
+
+'Comió bananos con
+' pescado.
+'Comió bananos con
+pescado. '
+
+Nótese que aunque di\¡ ocurm entre dos palabras y se pueda traducir corno "y" (coordinada) en espanol: "Comió bananos y pescado." Sin embargo, dii mantiene su relación de companía. En woun meu l a coorKaciÓn se puede expresar también con una coniunción (como en espanol), pem entre frases, no entre palabras.
+
+Cuando una o dos de las cosas o personas a las que se
+refiere dhi, se sobreentienden por el contexto, no es necesario
+nombrariasexpresamente, y el uso de - diii con una de ellas o
+-dhi solo, es suficiente.
+
+Ejemplo: Hhhi dhi beejim.
+D X ~beijú?
+
+'(El) vino con la esposa.'
+'(Tú) vendrás (conmigo)?'
+
+Gramática-Waunana -
+
+59 - -., -
+
+Ejercicio 7
+
+Llenar los espacios en blanco con las palabras apropiadas, teniendo en cuenta el orden de palabras en l a oración propio del woun meu.
+
+1. Hich 'El fué donde su abuelo.'
+
+majim.
+
+2. Ham baaur
+
+'Ellos están pescando sábalo.'
+
+3.
+
+. P ' A A ~h ~ pjúa c'ai
+
+' 'Nosotros (~osiblemente)amaneceremos moliendo cana.
+
+-----
+
+-- -
+
+4. MA
+
+mam.
+
+'Voy al otro lado.'
+
+5. PA chinchorr 'Ud. está tejiendo chinchorro.'
+
+6. Ptfar 'Uds. tomarán toda la noche.'
+
+7.
+
+dOb~~r
+
+'Ellos están buscando biche.'
+
+8. MA
+
+jemc'aan mam.
+
+'Yo voy a jugar con los ninos.'
+
+Ejercicio 8
+
+Contestar oralmente a las siguientes preguntas hechas por el hablante nativo.
+
+1. Jag pai h~spaji'?
+
+'Cómo amaneció?'
+
+2. PA jarnag ma?
+
+'A dónde va Ud.?'
+
+60
+
+Lenguas de Panamá
+
+3. PA had jamag ma?
+
+'A dónde va su mamá?'
+
+4. Ham jamag wetjierra?
+
+'Para dónde se fueron ellos?'
+
+5. C'ani hamau perhaujierrá? 'Qué compraron ellos?'
+
+6. W i nan K 6 j u c'ai?
+
+'Vendrá él mañana?'
+
+7. Pnar dobii~ri ~ nr ~ ? 'Uds. están buscando biche?'
+
+Ejercicio 9 Traducir a woun meu el siguiente diálogo.
+1a Cómo amaneció? 1 b Amanecí bien; y Ud.?
+2a Para dónde va? 2b Voy a cargar banano.
+3a Su hija va con Ud.? 3b Ella va conmigo.
+4a Ya se va?
+' 4b Si, ya me voy; adiós pues.
+
+Ejercicio 10
+Traducir a woun meu las siguientes frases, cuidando de escribir
+-dXi en el lugar conveniente.
+1. Estoy comiendo guagua y banano.
+
+2. El comió carne de guatín y maíz.
+
+3: Mi mamá y yo fuimos donde mi abuela.
+
+Gramática Waunana
+
+61
+
+-
+
+4. Mi mamá, mi tia y yo haremos envueltos.
+
+-
+
+-
+
+---
+
+--
+
+5. La maestra y los nitlos fueron a traer papachina.
+
+IV. Vocabulario.
+Sustant ivos
+dOb'lhr (a) htiwarr hemc'ooin (a) homdau
+Verbos
+c'aidowau-
+Varios
+dXi hi s jopcha mag gaaimua marim nan nau q'uech sípla
+
+'biche' 'pescado' 'hombres' 'envuelto'
+' dormir'
+'tomar, beber' 'hacer'
+'con' 'hoy' 'pronto' 'por eso' 'de arriba'
+' matlana'
+'ahora'
+'borrachos '
+'sabroso'
+
+[62]
+
+l . Diálogo. l a PA c'a deg sT? 1 b MA c'a deg sirn.
+2a PA c'a deg c'aba si?
+2b Deg c'aba sim.
+
+'Está su hija en l a casa?'
+'Mi hija está en la casa.'
+'No está su hija en la casa? '
+'No está en la casa.'
+
+3a H i hujarr iemc'aba s i ? 3b Hujarr jemc'aba sim.
+
+'Ella no está jugando en el patio?'
+'Na está jugando.'
+
+4a Jam si' magan? 4b C'augbam.
+
+'Dónde está entonces?' 'No sé.'
+
+5 a H8$d hawaan rnabajr?
+5 b Hop8d hawaan rnabajim.
+5 c Mabajim.
+
+'No fue a traer banano?' 'No fue a traer banano.' 'No fue.'
+
+'Cuando vendrá?'
+'No regresará pronto. '
+
+7a Chaain c'aiba n ~ ? 7b Ham c'aiba nAm.
+
+'Los ninos no están dormidos?'
+'Ellos no están dormidos.'
+
+8 a T'umwe reunion hee hiec'aba jierrá?
+
+'No hablamn todos en la
+' reunión?
+
+64
+
+Lenguas de Panamá
+
+8b T'umwe reunion hee hiec'aba jierram.
+
+'Todos no hablaron en la
+reunión. '
+
+Ejercicio 1
+
+Repetir varias veces, después del hablante nativo, cada una de las frases del diálogo.
+
+I I. Pronunciación.
+
+A. La d en posición final.
+
+Ver la sección "Sonidos", nota A, número l.
+
+Ejercicio 2
+
+Repetir después del hablante nativo, las siguientes frases, man-
+- teniendo la d final como consonante alveolar, pero sorda.
+
+hopod hawaan p'adnaan c'od den c'ood p8m podbam
+
+'a cargar banano' 'padres' 'mi familia' 'tortuga grande' 'no puedo'
+
+B. La m en posición final.
+
+Ejercicio 3
+
+Repetir después del hablante nativo, las siguientes palabras.
+
+jam sim mabajim hhrrhm n~m c'aram
+
+' dónde'
+'está'
+'no fue' 'es, soy' (mujer) 'están' 'cama6n1
+
+di dam
+chir~m p6m ham h~m mam
+
+'casita' 'estoy' (hombre) 'grande, bastante' 'ellos'
+'estoy' (mujer )
+' voy'
+
+C. Vibrante múltiple rr en posición final.
+Ejercicio 4
+Repetir después del hablante nativo, las siguientes palabras.
+
+Gramática Waunana
+
+huj ~ r r doq'uierr hawarr MS ~ r r
+
+'en el patio' 'desembocadura' 'pescado' 'sonido de serruchar'
+
+burrborrharr-
+
+65
+'caer' 'tapar'
+' Ilevar'
+
+IIl. Notas gramaticales.
+
+A. Oraciones interrogativas.
+
+. Las oraciones interrogativas son de dos clases tanto en
+español como en, woun meu
+1. Las que usan las partículas y pronombres interrogativos (ver la lección 3,III.C y la lección l l ) , y por l o tanto piden
+información o explicación.
+
+Ejemplo: PA c'ani jttg chiri? 'Qué está haciendo Ud.?'
+Chinchorr c'a chir~rn. 'Estoy tejiendo chinchorro.'
+
+La entonación de la voz baja al final de la oración interrogativa.
+
+2. Las que carecen de partícula o pronombre interrogativo,
+
+y que esperan una respuesta simplemente afirmativa o negativa.
+
+Ejemplo: PA nan béTu?
+HXhx.
+
+' ' Vendrá Ud. maflana? 'No. '
+
+Nan bb%bam.
+
+'No vengo mañana.'
+
+La entonación de la voz al final de la oración interrogativa es alta.
+
+B. El sujeto implícito.
+
+Cuando en la conversación es sobreentendido el sujeto, no es necesario nombrarlo en cada frase.
+
+Ejemplo: PA c'ani piSrhaujÍ?
+Hawarr perhau jim.
+
+'Qué compró Ud.?'
+' 'Compré pescado.
+
+Hi jemc'a sy?
+Jemc'aba sim.
+
+' E l está jugando?'
+' N o está jugando.'
+
+66
+
+Lenguas de Panamá
+
+C. Oraciones negativas.
+
+Se forman anadiendo a la raíz del verbo el sufijo nega-
+- tivo -ba-.
+
+Ejemplo:
+
+- Hi chojo jaba sim.
+Hi jer domeza s i ?
+
+'No está chupando cana.' 'No está banándose abajo en el río?'
+
+La forma -daba- que también expresa negación, está compuesta
+
+por el derivativo c'a- y el sufijo -ba-. Es común que c'a-
+
+- sirva de raíz p a r a x sufijo negativoyba-, en caso de
+
+no
+
+haya verbo principal en la oración.
+
+Ejemplo:
+
+MA c'a deg c'aba sim.
+Ham jer c'aba nhm.
+
+'Mi hija no está en la
+casa. '
+'Ellos no están abajo en el río.'
+
+Ejercicio 5
+
+Cambiar a negativas, las siguientes oraciones afirmativas. (Recuérdese el orden de palabras en woun meu: sujeto, complemento, verbo).
+
+1. MA nan
+
+. be: jú
+
+yo manana vendré
+
+'Yo no vendré manana.'
+2. Hi hujtirr jemc'a sim.
+
+'Ella no está jugando en el patio.'
+3. Ham deg nhm.
+-
+'Ellos no están en la casa.'
+
+Gramática Waunana
+
+67
+
+4. Paar t'ach pSm haujierram.
+-
+'Uds. no comparon bastante plátano.'
+
+5. Maar doq'uiijar hee ct8jierram.
+
+'No comimos en el otro lado.'
+6. PA nan hIp8ddo hee p'idc'ajú.
+'No trabajará mañana en su sembrado.' 7. Ham choj6 P ' A A ~ nhm.
+
+'Ellos no están moliendo cana.'
+8. Hi hich hadhtran haar c'oon wetjim.
+'No fue a comer donde su abuela.'
+9. Maar nan mos gaai jopjurau.
+'Mañana no arrimaremos a la playa.'
+10. Hi p'iejab wau h ~ m .
+
+'Ella no le hace l a comida.'
+
+68
+
+Lenguas de Panamá
+
+Ejercicio 6
+
+El siguiente es un ejercicio oral de substituciones de palabras.
+
+A. Cambiar la frase del hablante nativo, de afirmativa a negativa.
+
+Ejemplo: Hablante nativo: Hi hujarr jemc'a sim.
+
+'Está jugando en el patio.'
+
+Alumno :
+
+Hi hujarr jemc'aba sim.
+
+1. Hablante nativo: Nau Blanca p'iejab waujú.
+
+Alumno :
+
+'Ahora Blanca va a hacer comida.'
+
+2. Hablante nativo: MA pe heeuiim.
+
+Alumno :
+
+'Cogí maíz.'
+
+3. Hablante nativo: T'ach t'ujierram.
+
+Al umno:
+
+'Cortaron plátano.'
+
+4. Hablante nativo: Hhhin t'hbht c'a nhm.
+
+Al umno :
+
+'Las mujeres están tejiendo canastos.'
+
+5. Hablante nativo: Maar p'idc'a nAm.
+
+Alumno :
+
+'Estamos trabajando.'
+
+B. Cambiar el tiempo de los verbos según las indicaciones
+del hablante nativo.
+
+Ejemplo: Hablante nativo: Hi hujarr jemc'a sim.
+
+(pasado
+
+Alumno :
+
+H i hujtirr jemc'ajim.
+
+Gramática Waunana
+
+69
+
+1. Hablante nativo:
+Alumno:
+
+Blanca p'iejtlb wauiú.
+( presente)
+
+2. Hablante nativo: MA pS heeujim.
+
+Alumno:
+
+( futuro)
+
+3. Hablante nativo: T'ach t'ujierram.
+
+Al umno :
+
+( presente)
+
+4. Hablante nativo: Hhhin t ' h b ~ t c'a nhm.
+
+Alumno:
+
+( pasado )
+
+5. Hablante nativo: Maar p'idc'a nAm.
+
+Alumno:
+
+( futuro)
+
+C. Cambiar la frase dicha por e l hablante nativo, de singular a ~ l u r a l .
+
+Ejemplo: Hablante nativo: H i huiarr iemc'a sim.
+
+Alumno :
+
+Ham hujarr jemc'a nAm.
+
+Hablante nativo: Blanca p'iejab wauiú.
+
+Alumno :
+
+Blanca p'iejtlb wau jurau.
+
+1. Hablante nativo: MA p2 heeuiim.
+Alumno :
+2. Hablante nativo: PA t'ach t'ujim.
+Alumno:
+3. Hablante nativo: Hhhi t ' h b ~ t c'a sim.
+Alumno :
+4, Hablante nativo; MA p'idc'a sim.
+Alumno :
+
+70
+
+Lenguas de Panamá
+
+IV. Vocabulario.
+Sustant ivos
+c'aram ( a ) c'ood (a) de9 (a ) doq'uierr (a) hujarr (a ) mas (a )
+Verbos
+borrburrc'augbam harrheeu-
+-ia-
+IOP t'u-
+Varios
+gaai hxhx magan t'umwe
+
+' camarón'
+'tortuga' 'en la casa' 'bocana' (desembocadura) 'en el patio' 'playa'
+'tapar' 'caer' 'no sé'
+' Ilevar' 'coger' (maíz)
+'chupar, comer fruta' 'arrimar' 'cortar'
+'en' 'no' 'entonces' 'todos'
+
+LECCION 8
+
+l. Diálogo.
+l a Cristina, rnau pidú jopcha!
+2b C'ant'ee hagá?
+
+'Cristina, venga acá ligero!'
+'Para qué?'
+
+2 a Jaig jupbá! Som hoom ct6chag h ~ m .
+
+'Siéntese ahí! Quiero ver su chaquira.'
+
+2b Magan hoobarí! Hooimh sí'? 'Vea, pues! Está bonita?'
+
+3a Heera, hooimh sirn. Marag deebaphi !
+3b Warag perhat'at!
+
+'Sí, está bonita! Dénosla
+a nosotras!'
+'Mejor compren Uds. !'
+
+4a P'atc'on chuc'urn. 4b T'hbht peraag c'abat!
+5 a Wisiguir hawaan rnatarrau. 5 b HeGubaadet!
+
+'No tenemos plata.' 'Te jan canastos para vender!
+' 'Vamos a traer güérregue!
+'Vayan, pues!'
+
+Ejercicio 1
+Repetir varias veces, después del hablante nativo, cada una de
+las frases del diálogo.
+1l. Pronunciación. A. Oclusivas sonoras v sordas en ~osiciónfinal.
+- - - , Las oclusivas tanto sonoras ( & g) como sordas ( p, t c)
+pueden ocurrir en posición final de silaba o palabra. Como
+
+72
+
+Lenguas de Panamá
+
+hemos visto anteriormente (ver "Son idos", B. 4), las oclusivas
+
+sonoras se convierten en sordas en posición final, perdiendo por
+
+tanto su contraste de sonoridad. Sin embargo, no por eso se
+
+identifican con las sordas, sino que mantienen unas diferencias
+
+mínimas y que varían un poco según el hablante. Por lo
+
+general, las oclusivas sordas se oyen precedidas de un "pito"
+
+de aire (aspiración) antes de su articulación, mientras que en
+
+las oclusivas sonoras, éste no se oye. Lo cual se ~ o d r í aindicar
+
+k,2, - - por
+
+ic, donde la j representa la aspiración.
+
+Siempre que haya duda en la identificación de una oclusiva en posición final, basta con pedir al hablante nativo la forma direccional (con -g) para oirla claramente.
+
+Ejercicio 2
+
+Repetir después del hablante nativo, las siguientes palabras.
+
+p'iejab iap
+jeb
+PP
+chib sTp-
+
+'comida' 'piragua'
+'t ierra'
+'cangrejo'
+'oveja' 'sabor'
+
+hab tarap
+c'od p'otp8d Put
+
+'uno' 'trampa'
+'pariente' 'pegar' '(no) poder'
+' ropa'
+
+p'agp'ac
+
+'pagar' 'vaca'
+
+jamag 'a dónde' jamac 'hamaca'
+
+Ejercicio 3
+Escuchar las palabras del ejercicio anterior dichas por el hablante nativo, tratando de identificar la consonante final.
+
+111. Notas gramaticales.
+A. Oraciones impetwtivas.
+. En el diálogo anterior hay varias oraciones en forma im-
+perativa cuyos verbos están subrayados (ver arriba) En woun meu, las oraciones imperativas generalmente no
+
+Gramática Waunana
+
+73
+
+llevan sujeto explícito (más adelante veremos en qué casos lo
+pueden Ilevar), y el verbo va a l final de l a oración.
+
+1. Formación del modo imperativo. E l singular se forma
+aftadiendo el sufijo -bá a l a raíz del verbo, y se acentúa
+- siempre para distinguirlo de -ba-, el sufijo de negación.
+
+Ejemplo: CE-bá!
+
+'Coma!'
+
+- C'8ba sim.
+
+' N o está comiendo.'
+
+Jemc'ab-á!
+- P ~ c hdi haar ctapigbá!
+
+'Juegue!' 'Corra a su casa!'
+
+- P'iejab waubá!
+
+'Haga comida!'
+
+E l plural se forma afiadiendo el pluralizador -tlX a l imperativo
+
+- singular, aunque muchas veces l a X es o m i t i d a 7
+
+Ejemplo: Wajap h ~ r b a t ' ~ !
+
+'Oigan bien! '
+
+Hujarr jemc'abat!
+
+'Jueguen en el patio!'
+
+2. En los imperativos de los verbos transitivos, el comple-
+
+-fi mento puede ser sustituído por la ~ a r t í c u l a
+. (pronombre personal )
+
+'lo, le, la'
+
+Ejemplo:
+
+Barbafi!
+- Hi?sap hee pntibapXi!
+
+'Bótelo!'
+' 'Escribalo en el cuaderno!
+
+- E l plural se forma andiendo el pluralizador t'X al singular.
+
+Ejemplo: BarbapXit!
+
+' 'Bótenlo!
+
+3. Existen cuatro verbos, cuyas formas imperativas son irre-
+gulares.
+
+Ejemplo:
+
+Peta!
+Petat !
+PidÚ: / Piduri!
+Pidut!
+
+'Vaya!'
+'Vayan! ' (de - ma- )
+'Venga!'
+' - 'Vengan! (de bk3)
+
+74
+
+Lenguas de Panamá
+
+DA~A~sT! Dhnhisit!
+Hat'á!
+Hat'at !
+
+'Párese! '
+'Párense!' (de dhnhi sim )
+- 'Traiga!'
+' 'Traigan! (de hau )
+
+4. E l sufijo -rí se puede anadir al imperativo de los verbos
+regulares, dando a l a acción del verbo el aspecto de insistencia en el mandato. Este sufijo no tiene plural.
+
+Ejemplo:
+
+P'iidhbarí! Jopai habarí! C'aibarí!
+
+'Levántese (de una vez)!'
+'Apúrese (de una vez) !'
+'Duérmase (de una vez)!'
+
+A veces se emplea esta forma de imperativo después de haber
+usado l a simple.
+
+Ejemplo:
+
+Jupbá, jupbá, jupbarí ! 'Siéntese, siéntese,
+siéntese de una vez!'
+
+E l sufijo -hí o -yím se afíade a los verbos irregulares, dando
+a l verbo e ~ m i s m o ~ s p e c tqoue - r í a los verbos regulares. Estos sufi jos no tienen plural.
+
+Ejemplo:
+
+Pidurihí!
+Petahí !
+Petayím!
+
+'Venga (ya) !'
+'Vaya (de una vez)!'
+'Vaya (de una vez)! '
+
+5. Las oraciones imperativas a veces llevan sujeto explícito:
+
+a. en contextos de consejo.
+
+Ejemplo:
+
+Parau ham hiy;\A nhm heirju!
+
+'Uds. escucharán l o que
+el los están hablando! '
+
+b. en sentido de regano o indicando una contradicción
+
+de l o que alguien dijo anteriormente.
+
+Ejemplo : Paade hoobat!
+PA& harbá!
+
+' 'Miren Uds. !
+'Gcuche Ud. !'
+
+Gramática Waunana
+
+75
+
+Eiercicio 4
+
+Formar el imperativo singular y plural de los siguientes verbos.
+
+Singular
+
+Plural
+
+1 . h ~ c ' a - ' lavar'
+
+2. h ~ r -
+
+'oir'
+
+3. jeeu-
+
+'preguntar'
+
+4. pee-
+
+'pintar'
+
+5. jaau-
+
+'avisar1
+
+6. t'hba-
+
+'quedarse'
+
+7. jup-
+
+'sentarse'
+
+8. p'iidh- 'levantarse'
+
+9. hoo-
+
+'ver'
+
+10. c'aigper- 'ayudar'
+
+Ejercicio 5
+
+Formar el imperativo singular y plural de los siguientes verbos
+transitivos, de acuerdo con l a nota gramatical A, número 2.
+
+Ejemplo : buap- Iquebrar1
+
+BuapbapXi!
+
+'Bótelo! '
+
+.1 buap-
+
+'quebrar'
+
+2. per-
+3. do-
+
+'vender'
+' tomar'
+
+76
+5. bar-
+6. p'a7. su-
+8. t'w-
+.....
+9. IAAU-
+
+Lenguas de Panamá 'botar' 'escribir' 'chuzar' 'matar' 'secar' (reguero)
+
+Formar el imperativo singular y plural de los verbos irregulares.
+
+Singular
+
+Plural
+
+l a Vaya!
+
+1 b Vayan!
+
+2a Venga!
+
+2 b Vengan!
+
+3 a Párese!
+
+3 b Párense!
+
+4a Traiga!
+4b Traigan!
+
+Ejercicio 7
+
+Formar el imperativo de los siguientes verbos, de acuerdo con la nota gramática1 A, número 4.
+
+Ejemplo : c'o- 'comer'
+
+Ct6barí ! 'Coma de una vez:'
+
+'comer'
+
+Gramática Waunana
+
+77
+
+2. p'iidh- 'levantarse'
+
+3. c'ai-
+
+'dormir'
+
+4. hhhrba- 'bajar'
+
+5. waidh- 'subir'
+
+Eiercicio 8
+Traducir a woun meu las siguientes frases.
+1. Lave l a ropa! 2. Cómaselo! 3. Párese! 4. Siéntese (de una vez): 5. Cosan las parumas! 6. Córnanselo! 7. Párense: 8. Siéntense (de una vez)!
+
+IV. Vocabulario.
+Sustantivos hooimh som
+- Verbos dee Hat'á hoo-
+IUPPetá perPidÚ
+Varios heera iaig
+j'5p c ha
+mau
+
+'bonita'
+'chaquiru'
+'dar'
+'Traiga! '
+'ver' 'sentarse'
+'Vaya! '
+'vender'
+' 'Venga!
+'sí'
+'ahí ' 'ligero'
+'acá'
+
+[78]
+
+l. Diálogo. 1. Hablante 1:
+
+PidÚ, Carlos, Cristina t'hrhat'am;! 'Venga, Carlos; vaya a llamar a Cristina!'
+
+2. Hablante 2: Ya maach chojd p'hyaan wetú? 'Ya vamos a moler cana?'
+
+3. Hablante 1: Heera, choia p'hyaan wetum. 'Sí, vamos a moler.'
+
+4. Hablante 2:
+
+Cristina, ph hadau p~ t'Xr sim;
+c'aigperbamí !
+'Cristina, su mamá le llama; vaya a
+ayudar1e! '
+
+5. Hablante 1: Chojd p'hhibahut !
+'Vengan a moler caña!'
+
+6. Hablante 1: Cristina, h6t t'orrp'em j+caarr haupidú!
+'Cristina, pronto, traiga la lena: '
+
+7. Hablante 1: Carlos, choia p'ibá, choj6 p'iiiaa!
+'Carlos, meta la caña, siga metiéndola:'
+
+8. Hablante 1:
+
+Paach haai d'ii chojd p ' ~ ~ i n a a t !MA
+hatdau horaan mam.
+'Uds., sigan moliendo con su papá: Yo voy a atizar el fogón.'
+
+80
+
+Lenguas de Panamá
+
+9. Hablante 1: Hhhya, ph ya mam c'6si hh? 'Amiga, ya quiere irse Ud.?'
+
+10. Hablante 3: Ya mh mam. 'Yo ya me voy.'
+11. Hablante 1: Nagch? &?baje: 'Quédese para tomar guarapo!'
+
+12. Hablante 3: Magnhm magan clojeq'uim.
+
+Ejercicio 1
+
+'Está bien, entonces voy a quedarme a
+beber. '
+
+Repetir varias veces, después del hablante nativo, cada una de las frases del diálogo.
+.II Notas gramaticales.
+
+A. E l indicador de as~ecto-mi 'ir'.
+
+En las oraciones imperativas, cuando la acción requerida debe i r en la dirección opuesta del que habla, se usa el indi-
+- cador de aspecto -mi 'ir', anadido al sufijo de imperativo.
+
+Ejemplo :
+
+C'aigperbamí !
+Choj8 p'hhibamí!
+Put jabamí !
+
+'Vaya a ayudar!' 'Vaya a moler cana!' 'Vaya a lavar ropa!'
+
+- El plural se forma anadiendo el pluralizador t'ñ.
+
+Ejemplo:
+
+C'tiibamit! Jemc'abamit!
+Domerbamit !
+
+'Vayan a dormir!'
+'Vayan a jugar! '
+'Vayan a banarse!'
+
+B. E l indicador de aspecto -hur 'venir'.
+En las oraciones imperativas cuando l a acción requerida debe ir en la dirección del que habla, se usa el indicador de
+
+Gramática Waunana
+
+81
+
+aspecto -h- ur 'venir', anadido al sufijo de imperativo.
+
+Ejemplo:
+
+Choja p'hbahur! T'ach cl¿ibahur! Pa t'hapbahur!
+
+'Venga a rozar cana!' 'Venga a comer!' 'Venga a cortar el palo!'
+
+En la forma~ióndel plural, se pierde la -r antes del plumli-
+
+- za&r t'ñ.
+
+Ejemplo: Chojd pl~bahut! 'Vengan a rozar cana!'
+
+T'ach c'obahut.
+
+'Vengan a comer!'
+
+Pa t'hapbahut !
+
+'Vengan a cortar el palo!'
+
+- C. E l indicador de aspecto je.
+
+A veces cuando uno va a dejar a la persona con la que
+está hablando, ésta le expresa el deseo de que se quede toda-
+-E vía para realizar una acción, usando el indicador de aspecto unido al imperativo. Este sufijo es usado más específicamente con verbos como: "tomar", "comer", "hablar" y "jugar", aunque podría ser usado con otros, dependiendo del contexto
+de la conversación.
+- El plural se forma anadiendo el pluralizador -tlX al im-
+perativo singular.
+
+Ejemplo:
+
+T'ach clGbaje!
+Masat dobaje ! NagchG d8bajet !
+
+'Quédese para comer!' 'Quédese para tomar masato!' 'Quédense para tomar guarapo!'
+
+P. E l sufijo -naa.
+
+Para expresar la continuación o duración de la acción
+- imperativa, se puede anadir a la raíz del verbo el sufiio -naa.
+
+Ejemplo:
+
+C'apignaa! HiyZnaa h¿iclarii!
+
+'Siga corriendo!' 'Siga conversando pero &S
+suavecito! '
+
+E l plural se forma con el pluralizador -tlX.
+
+Ejemplo : C'apignaat!
+
+'Sigan corriendo!'
+
+Jap hlud~naat m~chdeu 'Sigan arrastrando e l potro
+
+iaaubarm haar!
+
+hasta donde yo diga!'
+
+82
+
+Lenguas de Panamá
+
+E. Los sufijos -baa y -de.
+
+E l sufijo -baa, indicador de pasos o cambios de acción, más -&4/-d2 'perfectivo' (ver la lección 12, nota C.3), unido a la r z z de un verbo principal se puede usar con sentido imperativo. En este caso el imperativo tiene el aspecto de cumplir una acción para llegar a un estado o lugar nuevo.
+
+Ejemplo:
+
+Waid~baad! H~~rbaad! Monaaubaad!
+
+'Suba!' (hasta arriba) 'Bájese!' (hasta el suelo) 'Aliéntese! (del todo)
+
+- Estos imperativos se pluralizan, afiadiendo t'X a la forma
+completa de los sufijos de aspecto baade.
+
+Ejemplo : HeriiubaadSt!
+H ~ ~ r b a a d!e t
+
+'Váyanse! (de viaje) 'Bájense!' (de una vez)
+
+F. E l sufijo -qluim.
+
+En la Última oración del diálogo aparece este sufijo: Magnhm magan dojeq'uim. 'Está bien, éntonces voy a quedarme a beber.' Este no es indicador de imperativo, sino de una acción que se va a realizar inmediatamente o en un lugar muy cercano. Sólo es usado en la primera persona del singular y plural; puede ser afiadido directamente a l a raíz del verbo o
+- ir después de -baade.
+
+Ejemplo:
+
+M A saac perhauq'uim. Doh~abaade~~uim.
+
+'Voy a comprar un perro.' (ahora mismo) 'Voy a pescar.' (ahora mismo)
+
+Ejercicio 2
+- Afladir al imperativo singular y plural el sufijo -mi 'vaya a'.
+
+Singular
+
+Plural
+
+Ejemplo : C'apigbá! 'Corra! '
+
+C'apigbamí!
+
+C'apigbamit !
+
+1. Jemc'abá! 'Juegue!'
+
+2 ~ -3a del sufijo --de se pierde al formar el imperativo singular.
+
+Gramática Waunana
+
+83
+
+' 2 , Perhat'á! 'Compre!
+
+3. Daumerbá! 'Escóndase!'
+
+4. Jupbá!
+
+'Siéntese!
+
+5. C'aigperbá! 'Ayúdeme!'
+
+6. H ~ r b á ! 7. C'Gbá! 8. Domerbá! 9. Dobá!
+
+'Oiga!'
+' 'Coma! 'Báflese :' 'Beba! '
+
+Eiercicio 3
+- Afladir al imperativo singular y plural el sufijo -hur 'venga'.
+
+Singular
+
+Plural
+
+. ' 1 Jemc'abá! 'Juegue!
+
+2. Perhat'á! 'Compre! '
+
+3. Daumerbá!
+
+4. Jupbá! 5. C'abá!
+
+'Siéntese!'
+'Teja! '
+
+6. C'obá!
+
+'Coma!'
+
+' 7. H~c'abá! 'Lave!
+
+8. Hoobá!
+
+' 'Vea!
+
+9. Jk%ubá!
+
+'Pregunte!
+
+10. P' idc'abál 'Trabaje!
+
+84
+
+Lenguas de Panamá
+
+Ejercicio 4
+
+Formar el imperativo singular y plural de los siguientes verbos, de acuerdo con las notas gramaticales en la sección C.
+
+Singular
+
+Plural
+
+Ejemplo: do-
+
+'tomar'
+
+1. c'0-
+
+'comer'
+
+2. jemc'a-
+
+'jugar'
+
+3. hiec'a4. bTe-
+
+'conversar'
+' llorar'
+
+Ejercicio 5
+
+Formar el imperativo singular y plural con sentido continuativo
+
+de los siguientes verbos de acuerdo con las notas gramaticales
+
+en l a sección D.
+
+~i'ngular
+
+Plural
+
+1. c'apig-
+
+' correr'
+
+2. hiyXii-
+
+' conversar'
+
+3. h8reu-
+
+' descoser'
+
+4. domer-
+
+'banar'
+
+5. heudh-
+
+'arrastrar'
+
+Eiercicio 6
+
+Formar el imperativo singular y plural de los siguientes verbos
+de acuerdo con las notas gramaticales en la sección E.
+
+Singular
+
+Plural
+
+1. hig-
+
+'ir, sal ir '
+
+2. ha-
+
+' hacerse'
+
+Gramática Waunana
+
+85
+
+3. c'hi4. haber-
+
+' caer'
+(plural-cosas)
+'sal ir'
+
+5. baudh- 'brincar'
+- 6. c'ap' ig 'correr'
+
+Ejercicio 7
+Traducir a woun meu las siguientes frases.
+1 . Vaya a ayudar:
+
+2. Venga a comprar!
+
+3. Quédese para comer!
+
+4. Siga corriendo!
+
+5. Salga! (de una vez)
+
+6. Vayan a jugar:
+
+7. Vengan a moler cana:
+
+--
+
+- - -- -
+
+8. Quédense para jugar!
+
+86
+
+Lenguas & Panamá
+
+9. Sigan conversando!
+
+10. Al iéntese! (del todo)
+
+I V . Vocabulario.
+Sustantivos
+hat (O) masat (a ) nagcho
+Verbos
+caigperhhhrbaheudhh i y Z hah8rmonaaut'hapt'Xrwaidh-
+Varios
+magnhm t'orrp'em
+
+' leila'
+'chicha' 'guarapo'
+'ayudar' 'bajar' 'arrastrar'
+' conversar'
+'atizar' 'alentarse' 'cortar' (palo)
+'Ilamar'
+'subir'
+'está bien' Iraja da'
+
+l . Diálogo.
+
+1 . Hoob daumerm!
+
+' N o se esconda!'
+
+2. Hoob brem!
+3 a Pidú, hoob jUig t'hbam! 3 b MA c'aigp%bá!
+
+'No llore!'
+' 'Venga, no se quede ahí ! ' 'Ayúdeme!
+
+4a Ddi deg hausiubá!
+4b Hoob jap hee hausium!
+
+'Ponga el canalete en la
+casa !' ' ' N o l o pongas en el potro!
+
+5 a Paar c'ani j@ n i ?
+5 b Pidut, hoob jemc'amiet,
+
+'Qué hacen Uds. ?'
+'Vengan, no jueguen,
+apúrense! '
+
+6 a PUar p'iejab waujú!
+6 b Hoob hGpGd c'oormiet,
+: hachin joobat
+
+'Uck. harán la comida!' 'No pelen los bananos,
+' cocinen papachina!
+
+7 a T'ut'ui di heegar sim.
+7 b Hoob jUg pa t'hapmiet! 7 c ChamX t'hapbat'ñ!
+
+' E l machete está debajo
+de la casa.'
+'No corten éste palo!' 'Corten este!'
+
+Eiercicio 1
+Repetir varias veces, después del hablante nativo, cada una de las frases del diálogo.
+
+88
+
+Lenguas de Panamá
+
+Il. Pronunciación.
+e. A. Repaso de la vocal intermedia
+Referirse a la lección 4 para la emisión de este sonido.
+
+Ejercicio 2
+
+Repetir varias veces después del hablante nativo, las siguientes palabras.
+
+Db%aje!
+den
+hed hG pierr
+wetum perhaujim pedau qluer deneu beejú phchdeu barchejú hideu dennaan
+S~UC'~
+
+' 'Quédese para tomar! ' de'
+'cada día' 'vamos, van'
+'compró'
+'maíz'
+' hoia' ' de'
+'vendré'
+'Ud. '
+'1 legaré' 'sentido de permiso' (dejarle)
+'los papás' 'mentira'
+
+IIl. Notas gramaticales,
+
+A. Oraciones imperativas negativas.
+
+- 1. E l singular se forma usando la partícula negativa hoob
+- - y affadiendo a la raíz del vetbo el sufiio m -mi.
+
+Ejemplo: Hoob d¿ijtiig hausium! 'No ponga el canalete al1í!'
+Hoob deg mua h¿ibZrm! 'No salga de l a casa!'
+
+- 2. E l plural se forma aiíadiendo el pluralizador -tlX al im- perativo negativo -mie.
+
+Ejemplo : Hoob pa t1hapmiet'X! Hoob t'hbamiet!
+
+'No corten el palo!' 'No se queden!'
+
+Gramática Waunana
+
+89
+
+- 3. La negación hoob se puede usar o no, casi indistinta-
+mente, aunque el no usarla indica una llamada de atención sobre la acción del verbo.
+
+Ejemplo :
+
+T'ep c'uappim !
+Hoob t'ep c'uappim!
+
+'(Cuidado) no vaya a regar (la comida) el plato!' ' N o vaya a regar (la comida) el plato!'
+
+4. Los verbos que son irregulares en sus imperativos posi-
+tivos forman sus imperativos negativos con su raíz verbal regular.
+
+Ejemplo:
+
+Hoob mam: Hoob wetmiet'.
+Hoob be& :
+Hoob b s m i e t !
+
+'No vaya!'
+' 'No vayan!
+'No venga!' 'No vengan!'
+
+Cambio morfofonológico. Cuando la raíz del verbo termina en
+
+- tivo negativo -m
+
+vocal, l a forma singular del imperami se afíade directamente. Cuando termina
+
+en consonante,se a s e una a antes del mismo. En el caso
+
+de que termine con r, se puede afíadir el imperativo negativo
+- directamente, o desp& de una a.
+
+Ejemplo: Hoob p'am ( i ) !
+
+e-) 'No escriba!' (de
+
+e-) Hoob jupam!
+
+'No se siente'. (de &-)
+
+' Hoob perm! / Hoob peram! ' N o venda! (de
+
+La forma plural del imperativo negativo, -miet8" se anade
+
+directamente a toda raíz de verbo sin cambios.
+
+Ejemplo : Hoob p'amiet'ñ!
+
+' ' N o escriban!
+
+Hoob jupmiet!
+
+' N o se sienten!'
+
+B. Imperativos con sufi jos de futuro.
+A veces personas con alguna clase de autoridad pueden
+usar un tiempo futuro con sentido de mandato imperativo.
+
+90
+
+Lenguas de Panamá
+
+Ejemplo:
+
+PA p'asien majú, mamh nacha p ~ c hchoj6 p'hhiphe.. l SIUr 1 .
+'Irás a pasear, pero primero rozarás cafia!'
+
+Parau ham hiyitA nAm hurjú! 'Uds. escucharán l o que ellos están hablando:'
+
+~ j e r c i c h3
+
+Formar el imperativo negativo y afirmativo, singular y plural de los siguientes verbos.
+
+cqjn~t'hbahombaudh-
+-sir-
+dee
+
+'comer'
+' esperar'
+'quedarse' 'mo jane' 'brincar' 'tocar'
+' dar'
+
+p'aarwerp~abTewaidhh~~rbah~c'ahíphi ha-
+
+'cerrar' 'dejar'
+' llorar'
+'subir' 'ba jar'
+' lavar'
+'conversar'
+
+Ejercicio 4
+
+Cambiar las siguientes frases de imperativo positivo en impera-
+
+tivo negativo:
+
+1. MA c'aigpiirbá!
+
+' AyÚ deme! '
+
+2. Jaig jupbá: 3. Hiuc'abat ! 4. Hujarr jemc'abat: 5. Hausiubá!
+
+'Siéntese ahí:'
+' 'Ríanse!
+'Jueguen en el patio!'
+'Pongalo! '
+
+6. Chaai daumerbá:
+
+'Esconda al niflo:'
+
+7. Hobehaad! 8. P'atc'on hac'abat f.
+
+'Salga!' 'Guarden la plata!'
+
+Eiercicio 5
+Formar el presente, pasado y futuro afirmativo y negativo; y también el imperativo afirmativo y negativo de los siguientes verbos.
+
+Gramática Waunana
+
+91
+
+presente pasado
+
+Forma afirmativa :
+1. perhau- 'comprar'
+singular:
+plural :
+
+--
+
+2. p'idc'a- 'trabajar'
+singular:
+
+plural :
+
+3. iemc'a- 'jugar'
+singular:
+
+plural :
+
+4. c'a- 'teier'
+singular:
+
+plural :
+
+futuro imperativo
+
+Forma negativa:
+5. perhau- 'comprar'
+singular:
+plural : 6. p'idc'a- 'trabajar'
+singular:
+plural:
+
+92
+
+Lenguas de Panamá
+
+presente
+7. jemc'a- 'jugar'
+singular:
+plural :
+8. c'a- 'tejer'
+singular:
+plural :
+
+pasado
+
+futuro
+
+imperativo
+
+Ejercicio 6
+
+Formar los siguientes imperativos (repaso de las lecciones ante-
+
+riores).
+
++e corriente
+
++-k +-E
+
+1. c'O- 'comer'
+
+singular:
+
+plural:
+
+plural:
+3. do- 'beber'
+singular: plural:
+4. joo- 'cocinar'
+singular: plural :
+
+Gramática Waunana
+
+93
+
+- corriente +-piii
+
+5. pla- 'escribir'
+singular:
+
+plural :
+6. c'a- 'coser' singular:
+
+plural :
+
+7. c'o- 'comer'
+singular: plural:
+8. jemc'a- 'jugar'
+singular: plural :
+9. do- 'beber'
+singular: plural :
+10. joo- 'cocinar'
+singular:
+plural :
+
+94
+
+Lenguas de Panamá
+
+11. pta- 'escribir'
+singular: plural :
+12. c'a- 'coser'
+singular: plural :
+
+13. c'o- 'comer'
+singular: plural :
+14. b%- 'ven ir'
+singular:
+plural : 15. ma- 'ir'
+singular: plural:
+16. joo- 'cocinar'
+singular:
+plural :
+
+Gramática Waunana
+
+95
+
+hau- 'coger' singular: plural :
+c'a- 'coser' singular: plural :
+
+I V . Vocabulario. Sustantivos
+
+deg ( a ) &i(i )
+tlep (e)
+t'ut'ui ( ¡,a)
+
+'en l a casa' 'canalete'
+'plato' 'machete'
+
+Verbos
+bÍec'oorc'uapdaumerJopai habat! t'hbahausÍu-
+
+' l lorar'
+'pelar' (banano) 'derramar, regar' 'esconderse' 'Apúrense!' 'quedarse' 'poner'
+
+Varios
+
+chamÁ
+
+'este'
+
+[96]
+
+l. Diálogo. l a C'aita jaig s i ?
+1 b HUor chuc'um.
+
+'Quién está ahí ?'
+'N o hay nadie. '
+
+2 a Magan c'ai c!ticlGr c'a?
+2 b C'augba haba! 3 a PA jnwtii beeiT? 3 b Norr b5"e'jim.
+
+'Entonces quién está haciendo bulla?'
+' N o sé!'
+'Cuándo vino Ud.?' 'Vinimos ayer.'
+
+4 a Jüg pai si' p~ c'od?
+4b HXU sim.
+
+'Cómo está su pariente?' 'Está bien.'
+
+5 a PA c'ai &Ai n ~ r r a j i ? 5 b M ~ c hnaam dAi.
+
+'Con quién andaba?'
+' 'Con mi hermano.
+
+6 a Jawüi wet nA?
+6 b C'aai t'arjup naawie.
+
+'Cuándo se irán?'
+'Pasando tres dras. '
+
+7 a C'ani haubeeji?
+
+'Qué trajo?'
+
+7 b Hapc'ajba numí pantalon hab. 'Dos parumas y un
+' pantalón.
+
+8 a C'arr j'eeu n ~ ?
+8b Q'uer iayap jGu nAm.
+
+'Cuánto cuesta?'
+(Cuánto piden Uds. ?)
+' 'Cutsta cuatro pesos.
+(Pedimos cuatro pesos.)
+
+98
+
+Lenguas de Panamá
+
+9 a Jam perhauií'? 9 b Buenaventura hee.
+
+'Dónde los compró?'
+' 'En Buenaventura.
+
+10a Chi ja p~ den hagá?
+10b ChamX.
+
+'Cuál es el suyo?' 'Este.'
+
+Eiercicio 1
+Repetir varias veces, después del hablante nativo, cada una de las frases del diálogo.
+
+Il. Pronunciación.
+
+A. Re~asodel sonido de la vocal intermedia d. Referirse a la lección 4 para la emisión de este sonido.
+
+Ejercicio 2
+
+Pronunciar después del hablante nativo, las siguientes palabras:
+
+c'ür
+hdrr-
+d¿d¿j¿ic'am
+S ~ S Ü cU'am
+h¿ih¿i¿¿c'aag
+jtidr
+vapla
+..d..e..ep.iirr
+lalals c'am
+
+'sonando como tabla' 'eructar' 'sonido de hachar' 'sonido de cepil lar' 'gritar' 'congo' (una hormiga grande) 'blanco' 'lo mandado' 'estornudando'
+
+Notas gramaticales.
+
+A. Uso de los pronombres y partículas interrogativas.
+En espanol, los pronombres "qué", "cuál" y "quién", son usados tanto en forma interrogativa como declarativa; y Únicamente por la entonación o su función en la frase se conoce s i
+son interrogativos o relativos. En woun meu, no ocurre así; las formas interrogativas nunca son usadas n i en frases declara-
+
+Gramática Waunana
+
+99
+
+- - tivas n i relativas. Los pronombres c'ai 'quién', c'ani 'qué' y
+chi jtfg 'cuál' son interrogativos y no pueden usarse de otra forma.
+Lo mismo se puede decir de algunas partículas con carácter
+- - adverbial como son : jdw8i 'cuándo', jag 'cómo', jam 'dónde', - c'arr 'cuánto'; Únicamente se usan en forma interrogativa.
+Nota: Para los pronombres y partículas interrogativas, ver tam-
+bién las lecciones 2 y 7.
+
+B. Los numerales.
+
+En el diálogo al principio de la lección aparecen varios numerales. En woun meu, e l sistema antiguo de contar, basado en las manos y los pies, se ha dejado de usar, con excepción de los numerales uno a l cinco; del cinco en adelante, se usan los mismos que en espanol.
+
+Ejemplo:
+
+dau hab dau numí dau t'ar j0p dau jayap dau j a ~ b
+seis siete
+
+'uno'
+' dos'
+'tres'
+'cuatro'
+' cinco'
+'seis'
+'siete'
+
+La partícula dau no se usa con los numerales españoles;
+
+tampoco se usa cuañdo e l adjetivo numeral va acompañado de
+
+un nombre. En woun meu, el numeral sigue siempre a l a
+
+palabra que modifica, no la precede como en espanol.
+
+Ejemplo:
+
+- Hiasap q'uer numí.
+Hoor jayap naajim.
+
+.' 'D- os pesos (billetes) ' 'Había cuatro personas.
+
+C. La torma haaá.
+
+En la frase númeyo 10 del diálogo: Chi jag p~ den
+
+- - hagá? 'Cuál es. el suyo?', aparece l a forma hagá. Esta
+
+forma está com~uestade l a raíz del verbo auxiliar -ha más el
+
+-o, - norninalizador Abstracto
+
+y se utiliza, sin ningún otro
+
+verbo, para frases cortas basadas en pronombres y partículas
+
+1 O0
+
+Lenguas de Panamá
+
+interrogativas :
+
+Ejemplo:
+
+C'an hagá? C'ai den hagá? Jawtii hagá?
+
+'Qué es?' 'De quién es?' 'Cuándo es?'
+
+- La forma hagá es fonológicamente una clítica. La última
+sílaba de la palabra que la precede lleva el acento de la
+frase, y esto hace que tienda a perderse la oclusiva glotal -h
+- de la forma hagá. Por ejemplo, la frase C'an hagá? se oye
+muchas veces como C'ánaga. Siempre lleva la entonación baja
+de las frases con pronombres o partículas interrogativos.
+
+D. La particula -ta.
+
+En la primera frase del diálogo: C'aita jaig si'? 'Quién está ahí?' aDarece la ~ a r t í c u l a-ta. Esta ~ a r t í c u l aenfática se usa exteniivamente en conversazón y en' textos de fipo explicativo, anadiéndose a la palabra más importante de la
+o frase que expresa la información nueva o clave de una pre-
+gunta situición, por l o que su uso también depende m"cho del énfasis o significado que el que habla quiera darle a una u
+otra palabra en la frase. Así en el ejemplo: Chi woun
+jñgadauta iñsiujierram. 'Fue con bejuco que amarraron al hombre.', el que habfa senala que fue precisamente con beiuco, aunque también se podría decir:. Chi wountaTgadau
+. . jñsi'ujier.ram, sefialando, en este caso, que fue precisamente
+al hombre al que amarraron.
+
+Como se puede ver por los eiemplos anteriormente dados,
+
+se traduce como la frase raiada del espanol.
+
+- Ejemplo : Nemc'orta deg hoberjim.
+
+'Fue una culebra la
+
+- D i q'uer heeta hoojim.
+
+que salió en casa.' 'Fue en el techo donde
+
+l o vieron.'
+
+Ejercicio 3
+Traducir a woun rneu las siguientes preguntas,
+
+Gramática Waunana
+
+101
+
+1. Quién está escribiendo?
+
+2. Cuán& lavó la ropa?
+
+3. Cuánto cuesta el perro?
+
+4. Quién está jugando con el nino?
+
+--
+
+--
+
+5. Cuándo irá a pescar?
+
+6. Quién tejió este canasto?
+--
+7. Dónde los compró?
+
+8. Cuál es el suyo? 9. Qué trajo?
+
+Ejercicio 4
+Contestar por escrito a las preguntas del ejercicio anterior,
+dando una respuesta para cada una.
+
+102
+
+Lenguas de Panamá
+
+Ejercicio 5
+
+Emparejar la respuesta con la pregunta que le corresponde.
+
+.1 Jag pai haspaj Í ?
+\ 2. PA jamag ma?
+3. PA c'ani c'o chirh?
+
+M A h e u r mod h8p8d dXi
+t'ach c'o chir~m.
+MA haai haar mam.
+HBsap q'uer jayap je3u
+
+4. C'arr j a u n ~ ? 5. JawGi wSt n ~ ? 6. PA c'ani pBraag haubk%jÍ? 7. Paar jamag wetú?
+8. Chi ja p~ dAn hagá? 9. C'aita jdig si'?
+
+C'tiaj ju~lb naawie.
+MA hachin haubeejim.
+Maar h8pSd hawaan wetum.
+Hüür chuc'um. ChamÁ.
+
+IV. Vocabulario.
+
+Sustantivos
+c'aai hapc'a ida
+
+' Idi*a ' paruma'
+
+h6or (a )
+
+'gente, personas'
+
+nemc'6r (i, o ) 'culebra'
+
+¿irii (a)
+
+-'t congo'
+
+Verbos
+- c'aug ..lhe...i.e.b..*ue.-r.-
+lala1 c'a-
+
+'saber' 'salir' 'pedir' 'estornudar'
+
+Varios
+btip¿' i c'ai c'arr
+chi ja
+hab jam
+jaGi
+iayap norr numí t'arjdp
+
+'blanco' 'quién' 'cuánto' 'cuál' 'uno' 'dónde' 'cuándo'
+'cuatro '
+'ayer'
+' dos'
+'tres'
+
+l . Diálogo. 1 a Jtig pai haspaji? 1 b MA hhu haspaiirn.
+
+'Cómo amaneció?' 'Amanecí bien.'
+
+2a Norr r n ~beem c'tichag h ~ a j i mmamÁ p5d beebajim.
+
+'Ayer quise venir, pero
+no pude. '
+
+3 a PA c'ani perhaum c'&i h ~ ? 'Qué quiere comprar?'
+. 3b Hapc'a jua perhaum c'osi h ~ m 'Quiero comprar
+parurna. '
+
+4a C'an q'uiir perhaum c'tisi h ~ ? 'Qué color quiere comprar?'
+
+4 b Mua m ~ c hhat'ee hapc'aj~a chi p'xichta perhaum c16si h~m.
+
+'Quiero comprar una paruma negra para
+mí. '
+
+5 MA c'a hapc'ajua perhaum
+c'bsi sim.
+
+'Mi hija quiere c ~ m prar una paruma.'
+
+6 a Hirua hapc'ajba chi plXich c16si haju c'ai?
+6 b HXhh, hapc'ajtia chi plXich hig map'a sim.
+6 c Hirua chi p'urta c'osi sim.
+
+'Quiere ella una parurna negra?'
+'No, no quiere una paruma negra.'
+'Ella quiere una roja.'
+
+104
+
+Lenguas de Panamá
+
+7 ChamÁ mA hat'ee waiap'a sim.
+
+'Esta es buena para
+mí. '
+
+8 a MA c'aau mAg hapc'ajua
+c'ochc'aba sim. 8 b Hi hat'ee chamÁ nem pom
+sim.
+
+'Mi hija no quiere
+' esta paruma.
+'Esta es grande para ella.'
+
+9 a Parau c'ani perhaum c'osi n~?
+9 b Marau b5rrjoctai t185d &i
+perhaum c'osi nAm.
+
+'Ud., qué quieren
+comprar?
+'Queremos comprar cobija y toldo.'
+
+10a Chi t r G d c'arr jeeu n ~ ? 10 b HEsap q'uer jayap jK6u nAm.
+
+'Cuánto vale el toldo?' 'Cuesta cuatro
+balboas. '
+
+11 Nem parhapag sim,
+
+'Está muy caro.'
+
+12 Marau perhau map'a nAm.
+
+' N o l o queremos
+comprar. '
+
+13a Jag bErrjE b¿¿p1Gsim c'arr
+leeu ....s n ~ ? 13 b HEsap ql&r tlarjUp jk3u nAm.
+
+'Esa cobija blanca cuanto cuesta?'
+.' 'Cuesta tres balboas
+
+14a Chi b¿krjoc'ai f i r r c h a s i ?
+14b HXhX s T hagpierraa q'uit~m.
+
+'Es grande l a cobiia?'
+' 'No, es mediana.
+(ni grande, n i chica)
+
+15a MA chaisiu borrjOclai
+perhaum cr6si haju c'ai?
+
+'Querrá mi cuíiada comprar una cobija?'
+
+Gramática Waunana
+
+105
+
+15 b Murua hilurwGin perhaum
+c'ochag t ' ~ n ~ hmaaiem.
+16 Nan ham beejurau.
+
+'(Cuando) yo o í decir así, tenía muchas ganas de
+comprarla. '
+'Manana ellos vendrán.
+
+Ejercicio 1
+Repetir varias veces, después del hablante nativo, cada una de las frases del diálogo.
+
+Notas gramaticales.
+
+A. E l concepto de "querer".
+El deseo de "querer" o "querer hacer algo" en woun meu
+. se puede expresar de tres maneras,segÚn la formación de la
+frase verbal
+
+- 1. Una frase verbal compuesta de: a) raíz del verbo más el sufijo -m declarativo;
+
+- b) raíz de deseo c'üsi- ; - - - c) un verbo auxiliar: chi-, h ~ - ,,-S:
+-n-.
+
+e-- - q'ue- o
+
+Ejemplo:
+
+MA mam c'osi chir~m. PA hapc'a jua perhaum
+c'8si h ~ a j i m .
+MA hadhuan Gnhe
+perhaum c'osi sim. Marau benhe perhaum
+c'osi naajim.
+
+'Quiero ir.'
+'Ud. quería comprar
+una paruma.'
+'Mi abuela quiere
+remedio. ' 'Nosotros quisimos
+' comprar remedio.
+
+Una frase verbal formada Dor:
+- - a) raíz del verbo más el iufiio -m declarativo;
+b) raíz de c'6ch- 'deseo' más t%minalizador ~ -- g -ag
+
+- - - - - - n- (ver la lección 5);
+c) verbo auxiliar: chi-, h ~ - , si'-, q'ui-
+
+q'ue-,
+
+106
+
+Lenguas de Panamá
+
+Ejemplo:
+
+Mua hoom c16chag chir~m.
+MA htidhtian benhd
+perhaum c16chag t'hn~m. Marau t'ut'ui perhaum c'Uchag naajim. Chaai domeram c'ochag q'uerajim.
+
+'Quiero ver.'
+'Mi abuela tiene
+muchas ganas de
+' comprar remedio.
+'Queríamos comprar un machete.'
+. ' E l nino quería nadar.'
+(estaba con ganas. .)
+
+3. Una frase verbal formada por:
+
+a) raíz del verbo más -m 'declarativo';
+
+- b) raíz de c16ch- 'deseo' más el sufijo - d a 'verbalizador'. Se usa en forma afirmativa o negativacomo cual-
+
+quier verbo regular.
+
+c) súfijo del tiempo que corresponda o un verbo auxiliar:
+
+- - 9, chi-, h ~ - , -n-,
+
+t ' ~ n - , etc.
+
+Ejemplo: Biem c16chc'ajim.
+
+'Quiso Ilorar.'
+
+BGm c16chc'abajim.
+
+' N o quiso venir.'
+
+MA doh~anmam c'6chc1a
+chir~m.
+
+.' 'Quiero ir a pes-
+car
+
+Marau perhaum c'6chc1a t'hnaa jim.
+
+'Nosotros queríamos
+comprar .'
+
+4. Podría existir otra cuarta forma para expresar deseo, en
+
+tiemp. o
+
+pretérito
+.
+
+o
+
+habitual :
+
+-o a) raíz de verbo más -m 'declarativo ';
+b) raíz de deseo c'üsi c16chag;
+
+C) el auxiliar ha-;
+
+d) sufijo indicador de estado perfectivo -de-, o el sufiio
+
+-k, habitual
+
+o ninguno de los dos;
+
+e) la terminación del tiempo correspondiente del verbo.
+
+Ejemplo : C'Gm c16si haadejim. C'Gm c'üsi haajem,
+
+'Llegó a querer comer.' (se puso queriendo comer) 'Quiere comer.' (habitualmente)
+
+Gramática Waunana
+
+107
+
+C'Gm c'8chag haadeiim.
+
+'Le di8 mucha hambre, llegó a querer comer.' (se puso con ganas de comer)
+
+Nota: Esta forma cuarta de expresar deseo se podría usar con
+
+- c'8chc1a pero sin el auxiliar hb- y con la
+
+-baa&.
+
+Ejemplo : C'8chc'abaaddjim.
+
+'Se puso a querer.'
+
+B. E l concepto "no querer".
+
+Aunque "no querer" se puede expresar en woun meu con c'achc'a más el sufiio negativo -bar sin embargo existe una construcción verbal con el sentidov& "no querer" :
+
+1. Raíz del verbo; 2. Raíz map'a- 'no querer' ; 3. Verbo auxiliar.
+Ejemplo: BG map'a chir~m.
+Hoo map'a t'~naajim.
+
+'No quiero venir.' 'No querían ver.'
+
+C. Diferencias entre las distintas formas de "querer" y
+"no querer".
+- Aunque existen diferencias gramaticales entre las tres
+formas de "querer" (la raíz de c'8si es addjetival, la de c'achag es nominalizada, y la de c'achc'a es verbalizada), su contenido
+semántica se entiende mejor a partir de los morfemas co-
+ocurrentes en la frase verbal.
+- - 1. Las tres formas deben ser seguidas de un verbo auxiliar,
+pero c'osi no aparece con t'~nnm, el auxiliar que indica una identificación más profunda a una condición o estado (ver l a
+lección 15). De manera aue c'8si re~resentaun deseo menos
+profundo y desarrollado que las otras dos formas (el comienzo del deseo; mientras que ciachag y c'bchc'a con tl~nAm, indican
+.. .' - que la persona ha llegado ya a un estado de "tener muchcs
+iat-tas" E l uso del iñtensificador nern 'mu,y,-mucho' mece-
+diendo l a forma nominalizada y la verbalizada, pero no la
+
+108
+
+Lenguas de Panamá
+
+adjetival, Ejemplo:
+
+también confirma esa diferencia.
+
+C1&i sim.
+
+' 'Quiere. (en los primeros
+
+momentos de sentir deseo)
+' (Nem) c16chag t'hn~m. 'Tiene (muchas) ganas.
+.' (Nem) c16chc'a t'hn~m. 'Está queriendo (mucho)
+
+2. La forma verbalizada c16chc'a además tiene el sentido de
+
+acción. Se usa cuando la persona está buscando,en forma
+
+activa, la manera de satisfacer su deseo.
+
+Ejemplo: B a m c16chc'ajim.
+
+' 'Quiso venir.
+
+- 3. E l uso de formas perfectivas reafirma el sentido de
+acción de c'6chcta. Así, c'6si y c16chag son acompaffados de
+haa-, el indicador de cambio de condición o estado, mientras
+- - que c'6chcta es seguido de baa-, el indicador de pasos y
+
+cambios de acción.
+
+Ejemplo:
+
+C'üsi haadejim. C'achag haadejim.
+
+'Se puso queriendo. '
+' 'Se puso con ganas.
+
+C'ochc'abaadejim.
+
+'Se puso a querer.'
+
+4. Cuando las tres raíces de querer aparecen con auxiliares
+
+que pueden ser usados con todas, es más difícil notar diferencias
+
+en la traducción, aunque real mente existan como se ha expli-
+
+cado anteriormente.
+
+Ejemplo : C'6si chir~m.
+
+' 'Estoy queriendo.
+
+C16chag chir~m. 'Estoy (con) ganas.'
+
+Ct8chc'a chirm.
+
+'Estoy queriendo.' (algo y
+
+buscando cómo conseguirlo)
+
+- 5. En las formas negativas "no querer.", no hay tanta
+variedad. La forma map'a con verbo principal, parece ser la más común, mientras c'6chc1aba- parece ser más enfática.
+
+Ejemplo:
+
+BG6 rnap'a chir~m. B a m c'6chctaba chir~m.
+
+'No quiero venir.'
+' N o quiero venir.'
+(de ninguna forma)
+
+Gramática Waunana
+
+109
+
+No obstante, cuando "no querert' se usa en el sentido de
+- "no querer a otro", la forma map'a se usa con hoo- y parece
+ser la más fuerte de las dos.
+
+Ejemplo: PA hoo mapla chir~m. PA c'achc'aba chir~m.
+
+'Le odio a Ud.' 'No le quiero a Ud.'
+
+Ejercicio 2 A. Contestar por escrito a la siguiente pregunta:
+PA c'ani perhaum c'osi chirÁ? 'Qué quiere comprar?'
+
+1 . Yo quiero comprar una paruma.
+
+2. Quiero comprar un machete.
+
+3. Quiero comprar carne de guagua.
+
+4. Quiero comprar pescado.
+
+5 . Quiero comprar chaquira roja.
+
+6. Quiero comprar remedio.
+
+7. Quiero comprar una escopeta.
+
+110
+
+Lenguas de Panamá
+
+B. Repetir el mismo ejercicio de arriba, dialogándolo con el
+hablante nativo.
+Ejercicio 3 A. Contestar por escrito a l a siguiente pregunta:
+PA c'ani c'8m c'ochag h ~ ? 'Qué quiere comer?'
+
+1 . Quiero comer banano.
+
+2. Quiero comer papachina.
+
+3. Quiero comer arroz. 4. Quiero comer camarón.
+
+5. Quiero comer caimito.
+
+6. Quiero comer envuelto.
+
+7. Quiero comer piangua.
+
+B. Repetir el mismo eiercicio de arriba, dialogándolo con el
+hablante nativo.
+
+Gramática Waunana
+
+11 1
+
+Eiercicio 4
+
+A. Contestar por escrito a l a siguiente pregunta:
+
+Hi c'ani c'ochc'aji?
+
+'Qué quería él?'
+
+1. E l quería jugar en el río.
+
+2 . Quería tejer chinchorro.
+
+3. Quería pescar. 4. Ella quería lavar l a ropa.
+
+5 . Quería i r donde su mamá.
+
+6. Quería rozar cana.
+
+7. Quería tomar chicha.
+
+B. Repetir el mismo eiercicio de arriba, dialogándolo con el
+hablante nativo.
+
+112
+
+Lenguas de Panamá
+
+Ejercicio 5 A. Contestar por escrito al siguiente ejercicio:
+1. PA jemc'a map'a chirÁ? 'Ud. no quiere jugar?'
+Quiero jugar.
+
+N o quiero jugar.
+
+2. PA t'ach c'om c'osi chirh?
+'Quiere comer? '
+Quiero comer.
+N o quiero comer.
+
+3. PA hapc'aj~a chi p'Xich perhaum c'osi h ~ ?
+'Quiere comprar una paruma negra? Quiero comprar una paruma negra.
+No quiero comprar una paruma negra.
+
+Gramática Waunana
+
+113
+
+4. PA hadhuan haar mam c'osi chirh?
+'Quiere i r donde su abuela?'
+Sí, quiero i r donde mi abuela.
+
+No, no quiero i r donde mi abuela.
+
+B. Repetir el mismo eiercicio de arriba, dialogándolo con el hablante nativo.
+
+IV. Vocabulario.
+Sustant ¡vos
+benhe b3rrjoc'~i chais ( i ) p' isoo q'urir (a)
+Verbos
+c'bihiec'a-
+map'a (+ auxil iar)
+pod-
+Varios
+dXrrc ha hagp ierraa hxhñ mamÁ parhepag p'urii p'xich ( i )
+
+'remedio'
+' cobi ja' ' cunada'
+'p iangua' 'color, clase'
+'querer' 'hablar' 'no querer' 'poder'
+'gran de' 'mediano' 'no' 'pero' 'caro' 'rojo'
+'negrol
+
+[114]
+
+1. Monólogo. 1 a Chi perhaumie barchejim; hirua nemc'ar perhaum
+c'osi siejim.
+' 'El comprador Ilegó; él quería comprar culebras.
+1 b Anselmoon nemc'ar p~rmieu.
+'Anselmo es buen cogedor de culebras.'
+1 c Anselmoon hirig chi hiwam t'arjop perjim.
+'Anselmo l e vendió tres vivas.'
+2a Chaig pai barchetarr mA hayau.
+'El que llegó hace poquito es mi papá.'
+2 b Hichdeu motorr panamaam waibeijim.
+'El trajo un motor de Panamá.'
+2 c Hich pai chi p'eerjem hajim.
+'El era el motorista.'
+3 a Maar p'idag heemua barcheewgi, maach hadhtianau
+h ~ e u rmod hGpGd $3 joojim.
+'Cuando vinimos de nuestro trabajo, nuestra abuela cocinó carne de guagua y banano.'
+3 b Jootarr nem stpag syejim. 'Lo que cocinó estaba sabroso.'
+
+116
+
+Lenguas de Panamá
+
+4a Ham hamach nemiiir t'hajem wai nhm, jaTg hoo paraa haag. 'Ellos tienen cuidandero de sus siembras para que esté
+viéndolas ahí. '
+4b Maagwai nemjilr t'um harg hee t'hnaajem. 'Por eso toda l a siembra está limpia.'
+5 a Benc'hhnau b i n h i qu'¡¡r c'apan c'ap'h sim.
+'El brujo conoce muchas clases de remedios.'
+5 b Hirua c'a mor machag q'uñr c'ap'an monaaujem.
+'El cura muchas clases de enfermedades.'
+6 a Chaai dam bTe t'hnaajim.
+' 'El nifiito estaba llorando.
+6 b B i p88ma syejim moq'uit p8m wai srewüi.
+' 'Estaba barrigón porque tenía mucha lombríz.
+Ejercicio 1
+Repetir varias veces, después del hablante nativo, cada una de las frases del monólogo.
+II. Notas gramaticales.
+A. Modificaciones del sustantivo. Estas modificaciones van siempre después del sustantivo al
+que se refieren, y aunque fonológicamente forman una sola palabra con aquel ya que llevan el acento de la frase, sin embargo gramaticalmente son dos palabras distintas y se escriben separadas.
+1. Aumentativos y diminutivos. En woun meu se usan dos formas que pueden seguir a los sustantivos tanto singulares
+
+Gramática Waunana
+
+117
+
+como plurales, dando idea de aumento o disminución de tamafio.
+
+El morfema p8m(a) aumenta el tamafio o l a cantidad de
+las cosas.
+
+Ejemplo :
+
+hat'tlrr pom chaai p?m chaain pom
+
+'gallina grande' 'niño grande' 'bastantes niños'
+
+El morfema dam(a) hace las cosas más pequetías.
+
+Ejemplo:
+
+di dam p'iejab waumie darn saac dam
+
+' casita'
+'cocinerita' 'perrito'
+
+2. Plural de los sustantivos. E l número singular o plural
+de un sustantivo se indica de varias maneras en woun meu. Solamente ciertas palabras con referencia a personas y a algunos animales exhiben formas singulares y plurales; las demás palabras tienen una sola forma, y el número se conoce por el contexto general, o por las formas verbales o adjetivales que indican el número.
+
+Los sustantivos que se pueden pluralizar son de cuatro clases :
+a) Los que terminan en r o rr y cuya terminación se reem-
+- plaza por n para formar eT plural.
+
+1) Los que terminan en -- peer:
+
+c'apeer
+
+' compañero'
+
+daupeer
+
+1 -loven'
+
+--+ c'apeen
+-+ daupen
+
+mepeer
+
+'demonio'
+
+mepeen
+
+do bad peer 'los de la desembo- + do bad peen
+
+cadura del San Juan'
+
+2 ) Los que terminan en i(r) (que se refieren a los términos
+
+..".. de parentesco de la familia):
+
+1001 ( r )
+
+'viejo, esposo'
+
+hhhi (r )
+
+'mujer, esposa'
+
+chaai (r)
+
+'nifio'
+
+4 jGin
++ h~in
+-+ chaain
+
+Nota: Los waunanas de los afluentes suelen pronun-
+- ciar la forma singular sin r .
+
+118
+
+Lenguas de Panamá
+
+- 3 ) Los que terminan en -pierr, que indican persona de alguna localidad:
+
+pichmapierr dochaarpierr dosrgpierr siepierr
+
+'pichimaseno' 'el san juaneno' 'el del afluente' 'eberá'
+
++ pichmapien
++ dochaarpien + di&Ygpien
+-* siepien
+
+4) ,Los que terminan en -r-r:
+
+hawarr hat 'arr
+
+'pescado'
+Igal l ina'
+
+negorr
+
+'moreno'
+
+---+ hawaan hat'aan -i negodn
+
+b ) Los que terminan en -mie, a los cuales se afíade -n para formar el plural yel' refieren a gente. Las formas con -mie que se refieren a los espíritus, no se pueden pluralizar.
+
+c'ap'igmie beermie
+
+'corredor' (uno que corre) 'contador'
+
+-t c'ap'igmien
++ beermien
+
+c ) Los que terminan con otra consonante y cuya forma
+- plural se indica por el sufiio -naan:
+
+1 ) Los que se refieren a las razas:
+
+juran p'i;ich
+
+'cuna'
+' neg rol
+
+-+ jurannaan -+ phichnaan
+
+2) Los que son préstamos del espanol y se refieren al oficio al que se dedica la persona:
+
+p'ad misioner plataner
+
+'padre' (sacardote) --+ p'adnaan
+
+'misionero'
+
+-+ misionernaan
+
+'platanero'
+
++ platanernaan
+
+3 ) Los que se refieren a los que tienen el mismo apellido:
+
+Membach Pena
+
+'Membache'
+' Pena'
+
++ Membachnaan
+-+ Penanaan
+
+Gramática Waunana
+
+119
+
+4) Otros:
+c'cls
+
+'marrano' -+
+
+*(No existe una forma singular.)
+
+clUsnaan dennaan* 'padres'
+
+d) Los que tienen forma plural irregular:
+
+saa c wou n h~an h~wan
+
+'perro' 'indio' 'vieja' 'joven'
+
+j saaquien
+j wounaan
+j huanaan
+-+ hgwanaan
+
+Nota: Las palabras que tienen forma plural son pocas pero muy comunes. Los ejemplos que se han dado son casi el total
+de las palabras (menos las de las clasificaciones (a. 3.) y (c. 3.),
+y se deben de aprender como vocabulario.
+
+B . Estudio de los nombres.
+
+En woun meu los nombres se componen de muy distintas maneras :
+.1 Dos o más sustantivos:
+
+jap q'u8u q'uVr machag j& di jua por
+
+'punta de canoa' 'rabia'
+' cueva'
+'mufteca'
+
+(canoa-nariz ) (cara de dolor) (tierra-casa ) (mano-cabeza )
+
+2. Reduplicación de una o más sílabas de un nombre:
+
+t'ut'ui
+ho"cancan
+bu cbu c q'ueq'ueman
+
+'machete'
+1 'garganta'
+'Iab beujah' O'
+
+(t'u- 'cortar')
+(-ho'cuel lo')
+(sin sentido particular)
+
+- 3. Raíz de veho más sufijo nominalizante -mie 'personas' :
+
+perhaumie
+
+'el comprador'
+
+- (perhau 'comprar')
+
+put jamie
+
+'la lavandera'
+
+( ~ -jCti- 'lavar ropa')
+
+120
+
+Lenguas de Panamá
+
+c'uc'amie domie hiec'amie
+
+'el luchador' 'el bebedor' 'el hablador'
+
+(c'uc'a- 'luchar') (do- 'tomar') (hiec'a- 'hablar')
+
+- 4. Raíz de verbo más C ' A A ~ 'gente':
+
+büpC ' A A ~ benc'hhn rnorc'h~n
+
+'hombre blanco'
+' curandero'
+' du eno'
+
+(btip'ti 'blanco') (benhe 'remedio') (=cuerpo')
+
+5. Un nombre más -ja 'superficie plana, pasaje, expansión':
+
+juaja
+hedja
+caai jti
+
+'palma de la mano' (iua 'mano')
+
+'cielo' 'cal le'
+
+(-a (hed 'luna') ' cal le')
+
+- 6. Sustantivo más -jo 'fruto, árbol frutal':
+
+p'etjo cho t'tlg j6
+
+'(frutodel)guamo',etc.
+' cana'
+'caimito'
+
+( e t 'guamo')
+' (cho cana')
+- ( E g 'caimito')
+
+- 7. Nombre del cultivo más do 'plantación':
+
+t'achdo
+
+'platanal'
+
+- (t'ach 'plátano')
+
+htipoddo
+
+' 'banana1
+
+(hopod 'banano')
+
+arrosdo
+
+'arrozal'
+
+- (arros 'arroz')
+
+- 8. Sustantivo más chu 'liquido':
+
+pach6 dau cho
+
+'savia de árbol'
+' lágrima'
+
+(pa 'árbol')
+- (dau 'o 10')
+
+-h - 9. Raíz de verbo más los sufijos
+
++ m (habitual más
+
+declarativo):
+
+chi p'eerjem 'el piloto' (el que maneja habitualmente)
+chi perhaujem 'el comprador' (el que compra habitualmente)
+
+(*r-
+
+'manejar')
+
+(perhau- 'comprar')
+
+Gramática Waunana
+
+121
+
+- 10. Raíz de verbo m& sufijo nominalizante -tarr:
+
+podtarr
+
+'el que pudo'
+
+(e- ['poder')
+
+t'utarr domertarr
+
+'el que cortó' 'el que b a ~ ó '
+
+(t'u- cortar')
+- (domer 'banar')
+
+- 11. Raíz de adjetivo o verbo más -g -ag nominaiizador.
+
+Este es un sufijo muy usado en wounmeu
+
+lo que se le va
+
+a dedicar una atención especial.
+
+El sufijo -g -ag se usa para formar nominativos abstrac-
+
+- tos de las raíc& de adjetivos 0 vehos. La forma -g se usa - después de raíces terminadas con r o m:
+
+parr- 'grueso' + (chi) parrg 'el grosor'
+
+- c'ur- 'malo, feo'
+
+(chi) c'org 'maldad, fealdad'
+
+La forma -a-g se usa en todo otro cclso:
+
+p'id- 'trabajar' + p'idag
+
+'trabajo'
+
+sTp (a) 'sabroso' -+ srpag
+
+'sabrosura'
+
+- - Cuando la raíz termina en S, se cambia ésta a ch antes
+de aftadir el sufiio -a_p:
+
+c'& (i) 'querer' + c'Uchag
+
+'ganas'
+
+pes (e) 'caliente' jpechag
+
+'calor'
+
+- - Aunque las palabras formadas con -g -ag tienen carác-
+
+ter de sustantivo, se usan con frecuencia en una descripción
+
+para indicar una calidad más intensa:
+
+di5 pese
+
+'agua tibia'
+
+do pechag 'agua caliente'
+
+Para aumentar aún más la intensidad, se puede usar antes
+- de la palabra, la partícula nern 'cosa':
+Do nem pechag sim. 'El agua está muy caliente.'
+
+Muchas veces la vocal final del morfema no se quita por apócope, sino que se usa con sentido atributivo, y se ve clara-
+
+1 22
+
+Lenguas de Panamá
+
+- mente la relación con el uso de la forma haga:
+
+Nem pechaga!
+
+' 'Está muy caliente!
+
+Ejercicio 2
+Formar el plural de las siguientes palabras:
+
+1. daupeer
+
+Il.oven'
+
+2. c'omie
+
+'comilón'
+
+3. haeur 4. di
+
+'guagua'
+' casa'
+
+5. chaai
+
+'nino'
+
+6. carpinter
+
+'carpintero'
+
+7. juran
+
+'cuna'
+
+8. c'tis
+
+'marrano'
+
+9. ddh~amie 10. jap
+
+'pescador'
+' champa'
+
+Ejercicio 3
+Transformar a singular, las siguientes palabras:
+
+1. h n ~ i n
+
+'mujeres'
+
+2. mepeen
+
+'demonios'
+
+3. p'xichnaan 'negros'
+
+4. hat'aan
+
+'gal linas'
+
+Gramática Waunana
+
+123
+
+5. Togromapien 'togoromase~os'
+
+6. jooin
+
+'viejos, esposos'
+
+7. beermien
+
+'contadores'
+
+8. misionernaan 'misioneros'
+
+9. negGn
+
+'morenos'
+
+Ejercicio 4 (aumentativos y diminutivos)
+
+A. Formar el aumentativo de las siguientes palabras:
+
+1. jap
+
+'potro'
+
+2. saac
+
+'perro'
+
+3. b i
+
+'barriga'
+
+4. h¿¿p8d
+
+'banano'
+
+5 . hawarr
+
+'pescado'
+
+7. h6or 8. hatdau
+
+'gente'
+'lena'
+
+B. Formar el diminutivo de las siguientes palabras:
+
+1. chaai
+
+'nino'
+
+2. h ~ a n
+
+'vieja'
+
+3. saac
+
+'perro'
+
+4. mis
+
+'gato'
+
+124
+
+Lenguas de Panamá
+
+5 . joomie
+7. di 8. jap
+
+'cocinera' 'comilón'
+' casa'
+'potro'
+
+Eiercicio 5
+Formar sustantivos de las siguientes raíces verbales con el sufijo
+
+.1 c'ap' íg- 'correr'
+
+'el corredor'
+
+2. p'idc'a- 'trabajar'
+
+'el trabajador'
+
+3. pa t'u4. put ja-
+
+'tumbar palo' 'lavar ropa'
+
+'el tumbador'
+'la lavandera'
+
+5. c'uc'a- 'luchar'
+
+'el luchador'
+
+6. doh~a- 'pescar'
+
+'el pescador'
+
+7. nem p'a- 'cazar'
+
+'el cazador'
+
+8. domer- 'nadar'
+
+'el nadador'
+
+9. do-
+
+'beber'
+
+'el bebedor'
+
+10. jemc'a- 'jugar'
+
+'el jugador'
+
+Eiercicio 6
+- Traducir al castellano lar 'siguientes frases de acuerdo con el
+número 10 de la lección (raíz verbal + -tarr):
+
+1. p'idc'atarr
+
+Gramática Waunana
+
+1 25
+
+2. perhautarr 3. ddmeflarr 4. watarr 5 . pa t'htarr 6. podbatarr
+
+Ejercicio 7 Traducir al castellano las siguientes frases de acuerdo con el
+- número 9 de l a lección (raíz verbal + -jem ):
+1. chi p'eerjem 2. chi perhaaujem 3. chi t'hajem 4. chi peerjem 5. chi p'tiarjem
+
+IV. Vocabulario.
+Sustant ¡vos
+barchetarr (a) b e n c ' h ~ n( a ) benh;
+clamor machag (a )
+chi perhaumie chi p'eerjem (a) moq'uit (a) nemi;lr (a) p~rmie
+
+'el que llegó'
+' curandero'
+'remedio'
+'enfermedad'
+'el comprador'
+'el inotorista'
+' lombriz'
+'sembrados'
+' cogedor'
+
+1 26
+q'ui'ir ( a ) t'hajem (a) Verbos
+Varios bi pSima chaig pai harg hee syp'a
+
+Lenguas de Panamá
+' clases'
+'cuidandero'
+'llegar' 'cocinar'
+'es muy barrigón' 'hace poco' 'en limpio' 'sabroso'
+
+l . Monólogo.
+l a Hichdeu bec'tir hab t'ajirn t'ereu.
+1 b Puuyau hgeur c'oi jirn.
+1 c Nernt'udiu duriuta c'aajern.
+1 d Jhgadau tarapich jñ jierrarn.
+
+'El mató una perdiz con
+la escopeta .'
+'Raspó la guagua con la puya!
+'La avispa pica con el
+aguijón .'
+'Amarraron el trapiche con bejuco.'
+
+2a C'oodau hi hee hoddmia c'aahauiirn.
+
+'La tortuga mordió el gusano con la boca.'
+
+2b C'umau hich jebdí p~awie, do doon rnajirn.
+2 c Saaq'uiu hichc'urn h~udee
+c'ap'igjirn.
+
+' E l tigre,habiendo dejado
+su cueva, fue a beber
+agua. '
+' E l perro corrió detrás
+del guatín.'
+
+3 a Sisiwiiu t'ach b ~ srim.
+3 b Saaqluiu nernec rnod c'8 sirn.
+
+'El periquito está picando
+el plátano.'
+' E l perro está comiéndose
+la carne.'
+
+4a Charnhhu rnA burrtarr hag
+. hit'urrn~g
+4b Chamhhu hag nemjau.
+
+'Este es el barranco en el cual caí.'
+'Este es un gavilán.'
+
+128
+
+Lenguas de Panamá
+
+5 a C'ayiu hawarr hauji?
+. Eufrasinoou
+
+'Quién compró pescado?'
+' 'Eufrasino.
+
+5 b Chi jagua hgeur baaujy?
+Cham~gua.
+
+'Cuál de ellos consiguió (cazó) l a guagua?'
+'Este. '
+
+5 c C'ani h ~ r r j i ? Nemchaairau.
+
+'Qué voló?' 'Un pájaro.'
+
+5 d C'ani bepj i ?
+
+'Qué enterró (algo)?'
+
+Saaq'uiu bepji'm.
+
+'El perro enterró (algo).
+
+Ejercicio 1
+
+Repetir varias veces, después del hablante nativo, cada una de las frases del monólogo.
+
+.II Notas gramaticales.
+
+A. E l caso instrumental.
+
+El caso instrumental en woun meu se complica mucho, no
+. sólo por sus muchas formas sino también por sus varios usos tan
+distintos del espaflol
+
+1 . Formación del caso instrumental. Para formar el caso
+instrumental, es preciso saber l a forma básica del sustantivo a l cual se le afladirá (ver vocabulario en el apéndice). La vocal final de todo sustantivo no es algo que siempre se puede adivinar por su forma fonólogica, aunque hay unas tendencias generales; sólo se sabrá a l pedir la forma instrumental o direccional del sustantivo. (Cuando se elabore un diccidnario en woun meu, los sustantivos aparecerán con su vocal final en párentésis. Por ejemplo: sip'in (a) 'anzuelo'; moc (o) 'piedra'.)
+
+a) Generalizaciones y reglas sobre palabras que terminan en consonante. Estas palabras forman el caso instrumental afladiendo a la vocal final de su forma básica, el instru-
+mental -u-.
+
+Gramática Waunana
+
+1 29
+
+1) Un gran número de palabras tienen la vocal final de
+
+su forma básica igual a l a vocal principal de la Última
+
+- sílaba, o terminan en una a.
+
+-+ Ejemplo : hap'ep
+
+hap'epeu
+
+' mariposa'
+
+nemc16r j nemc'6rou
+
+'culebra'
+
+Nota: La vocal final será oral o nasal según las reglas
+de nasalización (ver la lección 1).
+
+- -. - 2 ) Toda palabra que termina en ch tiene la vocal final
+de su forma básica como i
+
+E jemplo : bach
+
+bachiu
+
+'clase de tortuga'
+
+3 ) Con cualquier otra al abra, la vocal final de su
+forma básica no se sabe por la forma fonética de la raíz.
+
+Ejemplo:
+
+chi naam
+
+chi naamhu
+
+c'aram -+ c'aramau
+
+pagar
+
+j pagariu
+
+'el mayor'
+' camarón'
+'guacamayo'
+
+4) En las palabras cuya sílaba final tiene vocal larga,
+
+ésta se convierte en corta al formar el caso instrumental
+
+s i la consonante final es una -r .
+
+E jemplo : c'apeer + c'aperau
+
+'amigo'
+
+pUar
+
+jpUrau
+
+'Uds.'
+
+v . b) Reglas para palabras que terminan con semivocal Las
+palabras que terminan con la semivocal y, se escriben
+con i en su forma sencilla, conforme a 70s patrones
+siláb7cos de woun meu. cuando a esas palabras se les unade el caso instrumental, la i se transforma en la
+semivocal -y.
+
+1) Palabras que tienen la vocal de la sílaba final corta,
+- - ariaden una i después de la y y antes del instrumen-il -u.
+
+Ejemplo :
+
+t'ut'ui c'ai do¡
+
+-+ t'ut'uyiu
+-+ c'ayiu
+j ddyiu
+
+'machete' Iquién1 'canalete'
+
+1 30
+
+Lenguas de Panamá
+
+2 ) Palabras que tienen larga l a vocal de l a sílaba final,
+
+- anaden una a después de la -y, y antes del instrumental
+-'U.
+
+Ejemplo: jaai
+
+-+ jaayau
+
+'esposo'
+
+..e...
+1001
+
+--, j c y a u
+
+'viejo'
+
+c.) Reglas para palabras que terminan con la semivocal u (w).
+
+Cuando la palabra termina en vocal más u, l a forma del
+
+caso instrumental es -a, l a cual se a n a d e a l a raíz sin
+
+otro cambio. En estos casos e l acento cambia de l a
+
+- vocal antes de la u hacia l a u.
+
+Ejemplo: dau
+
+--. daua Cda'ual
+
+'oio'
+
+meu
+
+--, meua [ me'ua 1 'lengua'
+
+d ) Reglas para palabras que terminan en vocal.
+
+1) Las palabras que terminan en vocal simple,
+
+antes de aííadir el instrumental -u-.
+
+Ejemplo: pa
+
+--+ paau
+
+bX
+
+-+ bAiCu
+
+'palo' 'pie'
+
+la alargan
+
+2 ) Las palabras que terminan en ia, ie, o ua aííaden el
+
+- instrumental -u directamente. ( ~ r a c e n t oeñestas formas
+
+cambia a l a -a l )
+
+Ejemplo:
+
+jua choclatia
+
+juau
+
+[ ju'au 1 'mano'
+
+choclatiau E choclati'au 1
+
+'chocolatillo'
+
+Nota: En l a forma simple, l a primera vocal de la Última sílaba lleva el acento. Esto es contrario a las reglas del espaííol, pero conforme a las reglas waunanas.
+
+2. Usos del caso instrumental. Hay tres usos de la forma del caso instrumental.
+
+a ) E l caso instrumental como en espanol.
+
+Ejemplo:
+
+Hawarr sip'inau t'oojim.
+
+- 'Mató el pescado con
+el anzuelo.'
+
+Gramática Waunana
+
+131
+
+b) Como suieto de verbos transitivos. En woun meu cuando el sujeto de l a frase es transitivo, generalmente se marca éste con el caso instrumental, distinguiéndolo así del complemento :
+Ejemplo: Chaayau hichc'um hoojim. ' E l nifio vió el fieque.'
+
+J a y a u magjim: -MA
+d o h ~ a nmam.
+
+'El viejo dijo: -Yo
+voy a pescar.'
+
+Hay algunas excepciones para esta regla:
+
+1) Cuando la frase verbal tiene un verbo auxiliar, se
+puede usar el sujeto con o sin el caso instrumental:
+
+Ejemplo: Chaayau h ~ srim. Chaai hur sim.
+
+' E l nifio está oyendo.'
+
+En el primer caso, el suieto está relacionado al verbo
+
+principal "oír, está oyendo"; en el segundo está rela-
+
+cionado al auxiliar "está": es más bien una descripción
+
+". de l a condición del nino que literalmente se podría
+traducir: "el nino está en el acto de oír
+
+2 ) Se puede emplear un sustantivo sin marcarlo con ins-
+trumental cuando el sentido es obvio por el contexto, o cuando la interpretación natural es el sentido que uno quiere comunicar.
+
+Ejemplo: MA colaau perjim.
+Chaai barphi jim.
+
+'Vendí l a canasta.'
+'El nifío lo botó.'
+
+Nota : Estos ejemplos se podrían interpretar como : "alguien vendió mi canasta1' y "alguien botó al nifio", pero no sería la interpretación natural.
+
+c) Para construcciones atributivas. Las frases que tienen un complemento que es equivalente a l suieto (es decir, es l a misma persona o cosa), no usan un verbo como "ser" en espanol, sino que utilizan el caso instrumental en una de las dos palabras.
+
+. Ejemplo: MAAUchi c ' A ~ . Juan R ilotou I Wilio bencl~~nau.
+
+'E- ste es el camino.'
+'Ese es el ~ i l o t o . '
+- 'Wilio es brujo.'
+
+132
+
+Lenguas de Panamá
+
+Se debe notar que el uso del caso instrumental en a) y b), muchas veces no se distingue. Más bien, el concepto "sujeto de verbo transitivo" y "agente instrumental", es para el waunana un solo concepto. Esto se ve en las frases donde la traducción puede ser ambigua:
+
+Ejemplo :
+MA nemc'oriu c'aajim.
+
+'Fui mordido por una culebra.' 'Una culebra me mordió.'
+
+Ejercicio 2
+
+Formar una frase en woun meu, con cada uno de los verbos transitivos presentados más abajo:
+
+1. t'u2. t'oo-
+3. hau-
+4. perhau-
+5. jaau-
+6. hausyu7. c'aa8. c'ap'ig9. monaau10. c'0-
+11. di12. joo-
+13. hur-
+14. hoo-
+15. per16. bar17. seerba18. b ~ r -
+
+'cortar' 'matar' 'coger' 'comprar' 'avisar' 'poner' 'picar, morder' 'correr' 'curar' 'comer' 'beber'
+' cocinar'
+'oír' 'ver' 'vende;' 'botar' 'freir' 'picar fruta' (pájaros)
+
+Ejercicio 3
+
+Formar el instrumental de las siguientes palabras de acuerdo con las reglas dadas:
+
+1. haai(a) 2. haig (o) 3, cach ( i )
+
+'papá' 'yerno' 'oreja'
+
+Gramática Waunana
+
+133
+
+4. claram(a) 5. nemc16r(o)
+6. homdau
+7. pagar(¡)
+8. poor(a) 9. mepeer(a)
+10. had(a)
+11. haplep(e)
+12. c'a 13. c h ~
+14. hotdau
+15. por(8)
+16. p18b8r(S) 17. pabi;
+18. paar(a)
+
+'camarón' 'culebra' 'envuelto' 'guacamayo' 'mono' 'demonio' 'mamá'
+' mariposa'
+'hija' 'hilo'
+'1 e ~ a '
+' cabeza'
+'pueblo' 'árbol'
+'Uds. '
+
+Ejercicio 4
+Traducir a woun meu las siguientes frases.
+1. Este es mi hermano mayor.
+2. Areo es cuentista. 3. Esto es carne de guagua.
+4. Este es el nino. 5. E l comprador es mi papá.
+
+Eiercicio 5 Completar las siguientes frases con el instrumental.
+1. p'atc'on(a) 'plata'
+
+Perol el-perol con-plata
+
+haujim. compré
+
+2. noweeu 'aguja'
+
+H ~ ~ i r a uhosigdí la-mu jer el -cesto con-la-aguja
+
+c'a siejim.
+tejía
+
+1 34
+
+Lenguas de Panamá
+
+3. nemq1uierr(a) 'colmillo'
+
+Benc'hhnau
+
+el-bruio
+
+con-el-colmil lo
+
+. monaaupjiijim
+le-curó
+
+4. motorr (o) 'motor'
+
+con-motor
+
+mh mam.
+YO VOY
+
+5 . t'er (e) ,'escopeta'
+
+Hamach
+
+ellos
+
+con-escopeta
+
+nem p'a jierram. cazaron
+
+Eiercicio 6
+
+Contestar oralmente a las preguntas siguientes hechas por el hablante nativo.
+
+1. C'ayiu h ~ w a r r haujT? 2. C'ai juig s i ?
+3. C'ai b e i j i ?
+4. C'ayiu jaaujT ? 5 . C'ayiu t k b ~ tc'aji? 6. C'ai mor mas sT?
+
+'Quién compró el pescado?'
+'Quién está ahí ? '
+'Quién vino?'
+' Quién avisó?'
+'Quién tejió el canasto?'
+'Quién está enfermo?'
+
+IV. Vocabulario.
+Sustantivos
+b3c16r(8 ) c'um (a) dur(i ) h i t ' u r m ~ g(h,a) hodomie jebdí jzgad (a ) nemchaii (r) (a) nemec mod(o)
+
+'perdíz' 'tigre' 'cola, aguijón' 'barranco' 'gusano' 'cueva' 'beiuco' 'pájaro' 'carne'
+
+Gramática Waunana
+
+1 35
+
+nemjau
+nemt'ud ( i )
+PuuYa
+sisrw í tarapich (i)
+tl&(e)
+Verbos
+baau-
+bep-
+b~rc'Uih~rr-
+ix-
+Varios
+
+'gavilán' 'avispa1 'puya' 'periquito' 'trapiche' 'escopeta1
+'conseguir' 'enterrar' 'picar' (fruta)
+' raspar1
+'volar' 'amarrar'
+'detrás de'
+
+[136]
+
+. Verbos auxiliares
+. En woun meu los verbos auxiliares pueden expresar muchos
+aspectos que no se encuentran en los verbos auxil iares del espa~iol Por tanto para su mejor comprensión y uso, hemos visto necesario dividir el tema en dos partes. En la primera, trataremos de las formas singulares del presente y de los distintos aspectos expresados por los verbos auxiliares, mientras que en la segunda
+estudiaremos las formas plurales del presente y otros tiempos.
+Los verbos auxiliares se podrían clasificar de distintas maneras según los aspectos que indican o según su formación. En este estudio se van a considerar en cuanto al género y en cuanto a movimiento.
+l. Verbos auxiliares en cuanto al género.
+A. Verbos auxiliares que mantienen un doble aspecto.
+1. Por sus mismas raíces enfocan :
+a) La persona protagonista de la acción o descripción, indicando su género.
+b) La misma acción o descripción, indicando la duración o intensidad de la misma.
+2. Por cambios morfológicos pueden indicar: a) Acciones y condiciones transitorias (verbo "estar" en espafiol ) b) Estados y cualidades permanentes (verbo "ser" en espan01 )
+B. Las raíces verbales aue ~ u e d e nmarcar un doble aspecto.
+
+138
+
+Lenguas de Panamá
+
+- -t'h
+-s'i-
+
+Enfoque sobre l a acciÓn/condiciÓn, o sobre l a participación de alguien en l a misma.
+
+-...
+
+1
+
+- 1 -chi-
+q'ue-
+
+- q'ui-
+
+Enfoque sobre l a penono: su género o estimación por parte del interlocutor.
+
+1 . Diferencias entre t ' ~ -Y si-.
+
+Su diferencia principal está en l a duración o intensidad de l a acción o estado. Esto se ve claramente en su uso con descripciones de l a naturaleza:
+
+Ejemplo:
+
+P'O p'ua sim.
+P'U p'ua t ' h n ~ m .
+
+'Está soplaindo el viento.' (en este momento)
+.' 'Hay vendaval (tormenta de
+viento)
+
+En cuanto a su uso en acciones o condiciones de personas,
+
+l a diferencia está en el grado en que se dan:
+
+Ejemplo: Hiuc'a sim.
+
+' 'Está riéndose.
+
+Hiuc'a t ' h n ~ m . 'Está "toteándose de l a risa".'
+
+(está riéndose casi hasta el
+
+punto de haber perdido el
+
+control)
+
+Jichc'a sim.
+
+'Tiene frío.' (siente frío)
+
+J'ichc'a t ' ~ n ~ m . 'Está muriéndose de frío.'
+
+2. Diferencias entre h ~ y- chi-.
+
+Son las raíces femenina y masculina respectivamente, que por l o general se usan en primera y segunda persona en concordancia con el género de l a persona a l a que se refiere.
+
+Ejemplo: Hombre a mujer: PA hXu h ~ ?
+
+'Estás bien?'
+
+Mujer a hombre: HXU h ~ m ;p ~ i a ? 'Bien y tú?'
+
+Hombre :
+
+Mhja h'Xu c h i r ~ m . 'Yo también.'
+
+--
+
+-G-ra-m-ática Waunana
+
+1 39
+
+La característica principal de ambas raíces es que indican compasión, lástima o el querer mucho a l a persona o cosa a l a que se refiere, aunque a veces se usan con ninos o cosas muy chiquitas, o con personas bastante ancianas.
+Refiriéndose a personas se usa para describir condiciones emocionales, económicas o de salud; refiriéndose a cosas, para describir cual idades de be1leza y fineza.
+- La principal diferencia entre -q'u-e- y q'ui- es que l a
+primera se usa en l a descripción de acciones o estados transitorios, mientras que l a segunda se usa con cualidades o estados permanentes.
+
+Ejemplo : Chaai bi'e q'uer~m.
+Hooimh q ' u i t ~ m .
+MA dau h a p ' ~q~'uer~m.
+
+'El nino está llorando.'
+(pobreci to) 'Es bonito.' 'Yo estoy pobre.' (en el momento)
+
+- Aunque como se ha indicado más arriba chi- y h ~ s-e
+-- suelen usar en primera y segunda persona, y si-, t ' ~ - , q'ue- " - q'ui- en tercera persona, sin embargo el conFeptode persona
+no es algo que los verbos auxiliares lleven en sí, por tanto
+todos se pueden usar en todas las personas con excepción de
+s Í - que no es usado en primera persona.
+
+Ejemplo: PA hXu chirÁ? PA h;<u s Í ?
+
+'Está Ud. bien?' 'Está Ud. bien?'
+
+MA hhu c h i r ~ m . MA por machag c h i r ~ m .
+MA por machag sim. MA por machag t ' ~ n ~ m .
+
+'Estoy bien. '
+'Estoy con dolor de
+cabeza. '
+'Me duele l a cabeza.
+'Estoy (sufriendo un
+tiempo de) dolor de
+cabeza. '
+
+140
+
+Lenguas de Panamá
+
+PA c'a monac'a h ~ ?
+/v'\onac'a h ~ m .
+PA c'a monac'a q1u:rÁ?
+Monac'a q'uer~m.
+
+'Tu niKa está (femenino)
+alentada?'
+'(Elia) está alentada. '
+'Tu niña (pobrecita,
+querida) está alentada?'
+'Está alentada (mi
+querida niña). '
+
+C. Estados transitorios y permanentes.
+A las cinco raíces verbales consideradas anteriormente, se les pueden añadir morfemas indicadores de acciones y estados transitorios o permanentes, equivalentes a "estar" y "ser" en espaP¡ol, como se puede ver en la siguiente gráfica:
+
+1 / / / TRANSITORIO e PERMANENTE
+
+acción o estado transitorio (del momento)
+
+acción o estado transitorio, pero
+-- que no pasa en
+el momento larga duración, mayor intensidad
+
+cualidad o estado permanente
+
+Es conveniente notar, como se ve en l a g- ráfica,- q.ue
+t ' h n ~ mtiene una sola forma, ya que no es algo n i totalmente transitorio, ni totalmente permanente.
+También en la gráfica se puede apreciar que n i todas las formas transitorias n i todas las permanentes siguen un mismo
+
+Gramática Waunana
+
+141
+
+patrón. E l modelo distinto de formación quedaría explicado
+por la siguiente gráfica:
+
+Raíz
+
+Aspecto
+
+Tiempo
+
+Transitorio
+
+Permanente
+
+Presente
+
+Otro
+
+si-
+
+9
+
+rr*
+
+h~-
+chir
+q'~G-/q'~i-
+
+-
+
+A
+
+a* *
+
+t
+
+Factativo m
+
+* E l fonema rr hace que la vocal que lo precede se alargue
+fonéticamente, pero al ser re decible la vocal larga en esta - - posición, no es necesario escribirla. La i antes de rr, al
+resultar muy difícil su pronunciación, se convierte en la se-
+- cuencia fonética i e (por ejemplo: syerr~m).
+**Los tiempos no presentes se presentarán en la siguiente lección.
+
+II. Verbos auxiliares con aspecto de movimiento.
+Hay tres auxiliares que indican movimiento, y dos que indican inmovilidad.
+
+A. Verbos de movimiento.
+- l . A - . Este es un verbo andativo; indica estado de
+caminar o moverse a pie. Se usa para la acción propia de estar andando, o de estar o participar en algún trabajo por un tiempo, siendo la manera de ir o de realizar ese trabajo a pie, es decir sin uso de ningún vehículo.
+
+Ejemplo:
+
+Saac j ~ rnArrAm. Reunion hee n ~ r r ~ m . Nem c'ai n ~ r r ~ m .
+
+'Anda buscando el perro.'
+'Anda en la reunión.'
+'Anda gateando. '
+
+142
+-----+..------.....---
+
+Lenguas de Panamá
+--m
+
+-
+
+2. i r - . Este verbo indica el aspecto de andar o caminar
+en algú~vehículo. Puede referirse a penonas que andan en algún vehículo o al mismo vehículo, incluyendo vehículos de tierra, aire, y agua. A veces se extiende a animales que nadan y vuelan.
+
+Ejemplo : Avión c'htaa jErr8m. Carro hee jorr6m. Badag jorrom. Hawarr p8m bar j8rr6m.
+
+' E l avión anda bajito.'
+'Anda en carro.'
+'Anda abajo. ' (en piragua)
+'Está (anda) llegando un
+pescado grande.' (que se ve en el agua)
+
+3. hur-. Tiene el aspecto de venida o acercamiento al interIocTor. Esta es la misma raíz de aspecto que la que se usa con los imperativos (ver la lección 9).
+
+Ejemplo: Noseg hurum. P'idag hee hurum.
+P'idag heemua hurum.
+
+'Viene un aguacero.' 'Viene al trabajo! (donde estoy yo trabajando)
+' 'Viene del trabajo. (no
+estaba yo en el trabajo)
+
+B. Verbos de inmovilidad.
+
+- 1. d ~ n - . Su aspecto es "estar parado". Puede referirse a
+personas o cosas, y se aplica a descripciones de cosas verticales.
+
+Ejemplo: PabX durag dhnhm.
+
+' E l árbol es alto.'
+
+D i pom d ~ n ~ m .
+
+'Una casa grande está.'
+
+(parada)
+
+D i heegar hoo d~nhm. 'Está (parado) debajo de
+
+D i naar jTu dhnhm.
+
+la casa.'
+' E l humo de la casa
+
+está (parado) echando y
+
+saliendo hacia arriba.'
+- 2. wej- werj-. Tiene el aspecto de "algo suspendido en
+
+el aire o en el agua". Se usan para cosas colgadas o amarra-
+
+das, también para animales o cosas suspendidas en el aire o
+
+agua sin que nadie las sostenga.
+
+------
+
+-
+
+Gramática Waunana
+
+1 43
+
+Ejemplo : Jap bar wej6m. Jamac jiir wejom. Chaai jamac hee hoo wejorn.
+
+'La piragua está.' (arrimada) 'La hamaca está alzada.' (y colgando)
+' E l nino está (suspendido)
+en la hamaca.'
+
+Mawarr p8m bar wei¿im.
+
+'Ha llegado un pescado
+' grande. (y está flotando
+sin moverse en el agua)
+
+Aunque la formación del tiempo presente de estos verbos
+no es exactamente igual que la de los verbos de género, sin
+embargo la regla para formar el tiempo presente de cualquier
+- verbo auxiliar (con excepción de wej-) es la siguiente:
+a) Raíz del verbo auxiliar;
+b) S i es verbo de género, anadir el morfema de aspecto
+transitorio o permanente;
+c) Vocal para el tiempo presente:
+- 1) s i la vocal de la raíz es no redondeada, 6 t a será A;
+2) s i la vocal de la raíz es redondeada, ésta será
+la reduplicación de la misma.
+- d) m factativo.
+
+Raíz
+t 'A
+sT/ sie
+hh
+chi q'ue /q'u i nArr e1.. orr hur d~n
+
+Aspecto de permanencia
+n
+g / rr
+r /t
+g*
+
+wei
+
+Vocal del tiempo presente
+
+Factativo
+
+v/redupI icación
+
+m
+
+O
+
+1 44
+
+Lenguas de Panamá
+
+*Se podrían considerar las consonantes finales de los verbos de movimiento como el equivalente a los indicadores de aspecto de permanencia en los verbos de género, pero como no tienen contrastes de aspecto, se tratan aquí como parte de l a raíz.
+
+Eiercicio 1
+- - Completar las frases con sim o t ' ~ n ~smegún l a traducción
+castellana.
+
+1. Hi hiuc'a
+
+'Se niuere de risa.'
+
+2. H i honee
+
+'Está alegre.'
+
+3. Dap'Egc'a
+
+'Se muere de sueno.'
+
+4. H8cag
+
+'Tiene miedo.'
+
+5. Maach por machaga 6. Maach por machc'a 7. Pechag
+
+'Tengo dolor de cabeza.'
+'Me muero de dolor de
+cabeza. '
+'Hace un calor tremendo.'
+
+8. Doqluierr plUas dau meurrc'a
+
+'La bocana está brava.'
+
+9. Noseg t'eeg 10. P'a p'ua
+
+. 'Unaguacerofuerte.'
+'Está soplando viento.'
+
+Ejercicio 2 Traducir a castellano las siguientes frases.
+1. pechag t ' h n ~ m
+
+Gramática Waunana
+
+1 45
+
+2. pechag sim
+
+3. noseg che sim
+
+4. noseg che t ' h n ~ m
+
+5 . h i honee t ' h n ~ m
+
+6. jkhag sim
+
+7. dap15gc'a sim
+
+Ejercicio 3
+Traducir a woun meu las siguientes frases como repaso de los
+- - verbos chirh- y h ~ - .
+l a Una mujer preguntándole a otra: "Qué estás haciendo?"
+lb La mujer responde: "Estoy cosiendo una paruma."
+2a Un hombre preguntándole a una mujer: "Cómo estás?" 2b La mujer responde: "Estoy bien."
+3a Un hombre preguntándole a otro hombre: "Estás pescando
+mucho? "
+3b E l hombre responde : "Estoy pescando bastante."
+4a Una mujer preguntándole a un hombre: "Estás recogiendo arroz? 'I
+" 4b E l hombre responde: "No, no estoy recogiendo arroz.
+
+1 46
+
+Lenguas de Panamá
+
+Ejercicio 4
+. Completar las frases con q ' u i t ~ mo q'uer~msegún la traducción
+dada
+1. MA hhplAi chi nacharam q'u8u nasu 'Mi hermana la mayor es nata.'
+2. Chaai mor mas ' E l nino está enfermo.'
+3. Chi hapcaj~a p'urii 'La paruma es roja.'
+4. Hiin bj;rX~ ' E l es chiquito.'
+5. MA dau hap'hh
+' Estoy pobre. '
+6. HadhUan b7e
+'La abuela está llorando.'
+7. Di bdp'a
+'La casa es blanca.'
+
+Ejercicio 5
+- - Completar las frases con sim o slerr~m.
+1. MA haai deg 'Mi papá está en la casa.'
+2. PA h h p ' ~ ichi nacharam q'u8u j6ii
+'Su hermana la primera es narigona.'
+
+Gramática Waunana
+
+1 47
+
+3. Jtig woun c'aigba
+'Ese hombre es muy malo.'
+4. M A ~iap nem c h ~ g a g
+'Ese potro está muy pesado.'
+5 . Jüg daupeer nem p'ip'irag
+'Esa joven es muy trabajadora.'
+6. Jag hhhi c'useuc'a
+'Esa mujer es perezosa.'
+7. MA naamjai dó
+'Mi tío está tomando. '
+8. D i büp'ü c'aba 'La casa no es blanca.'
+
+Eiercicio 6
+
+Completar las frases con c h i r ~ mchithm o h ~ mh ~ r r ~ m :
+
+-- -.- l . Mhhn nem hocaaga
+
+(hombre)
+
+'Yo soy muy miedoso.'
+
+2. MA durag c'aba
+
+. (mujer)
+
+'Yo no soy alta.'
+
+3. PA C ' U S ~ U ~
+
+. p'idc'aag (mujer)
+
+' 'Ud. es perezosa para el trabaio.
+
+*A 4. MA q'uiir mor chig pai
+
+. (hombre)
+
+' 'Estoy disgustado.
+
+1 48
+
+Lenguas de Panamá
+
+5 . MA h ~ t'U~r ci'a c ' a p ' ~ 'Mi esposa sabe hacer cerámica.'
+
+. (muier)
+
+6. PA monaau
+'Está Ud. alentado?'
+7. MA p~ dXi meurrc'a
+'Estoy bravo con Ud.'
+
+? (hombre)
+. (hombre)
+
+Ejercicio 7
+Traducir a woun meu las siguientes frases.
+l . Anda comiendo de casa en casa. 2. Anda en el colino. 3. Anda buscando el perro. 4. Anda buscando camarón. 5. Anda en l a escuela.
+
+Ejercicio 8
+Traducir a castellano las siguientes frases.
+1. H A A ~howarr i ~ rnArrAm. 2. MA chaai p'idag hee nArrAm. 3. H i do d ~ r b a nArrAm. 4. Hopod hua nArrAm. 5. Hat pog nArrAm.
+
+Ejercicio 9
+Traducir a woun meu las siguientes frases.
+1, E l potro anda agua abajo.
+2. El avión va alto.
+
+Gramática Waunana
+
+1 49
+
+3. Anda en barco. 4. E l anda en motor. 5. E l motor anda cerca.
+
+Ejercicio 10
+Traducir a castellano las siguientes frases.
+1 . Nemiau c'htaa PrGm. 2. MA naam pesquerr hee i8rrEm. 3. Baaur bar iGrr8rn. 4. Marag jorrom. 5. Avión c'htaa jordm.
+
+Ejercicio 11
+- - - Completar las frases con hur-, dhn- o wei- según la traducción.
+1. Noseg
+'Viene el aguacero.'
+2. H i jer hoo ' E l está parado abajo por el río.'
+3. Nemchaai di pa gaai 'El nido está (suspendido) en el árbol.'
+'Viene el río crecido.'
+5. C'um pa hXr 'El tigre está (parado) en el árbol.'
+
+1 50
+
+Lenguas de Panamá
+
+IIl. Vocabulario.
+Sustantivos
+h;jplhi( i ) machag (a) noseg (a pechag (a p'Uas dau
+Varios
+bhrh
+C'US~U~
+c'htaa
+chlag
+dap16q'ue(+ auxiliar)
+heegar heemua honee q'uzu jOi i q'ueu nasu
+
+'hermana' 'dolor' 'aguacero' 'calor' 'olas'
+'chiquito' 'perezoso' 'baiito' 'pesado' 'tener sueKo' 'debaio' 'del' 'alegre' 'narigón' 'nato'
+
+. Verbos auxiliares (continuación1
+
+1. Formas ~luralesde los verbos auxiliares en isresente.
+Se pueden formar cuatro grupos según la manera de pluralización que usa la raíz, aunque esta división no corresponde exactamente a la división según su aspecto semántico
+(ver la lección 15).
+A. Verbos auxiliares que toman la raíz plural n-.
+
+Los que para el plural toman la raíz plural n-, seguida
+
+por el indicador del tiempo presente A (perdiendo7a raíz del
+
+singular) pertenecen a los verbos de género de aspecto transi-
+
+.- torio: sT-,
+transitzos
+
+h~-, con
+
+ec=heip-ciony.
+
+t'~n-. Así
+de qluZr
+
+los que
+
+verbos auxiliares se pluraliza de otra
+
+manera), pierden su contraste en el plural.
+
+Ejemplo: Deg sim. Deg nAm.
+
+'Está en casa.' 'Están en casa.'
+
+Mua hoo chir~m. 'Yo estoy viendo! (masculino) Marau hoo n ~ m . 'Nosotros estamos viendo.'
+
+Pua c'6si h ~ ?
+
+'Tú quieres?' (femenino)
+
+Parau c'tisi n ~ ? 'Uds. quieren?'
+
+Meurrc'a t'nn~m. Meurrc'a n ~ m .
+
+'Está enojado.' (hasta el
+. punto de no controlarse)
+' Están enojados '
+
+B. Verbos auxiliares que toman el morfema plural -jF'd.
+
+Los que forman el plural anadiendo el morfema de pluralidad
+-eson los verbos de género de aspecto permanente: sierr-, h~rr-,
+. - - chit- y q'uit- además del de movimiento iorr-. De manera aue
+los verbos de género mantienen su c o n t r a s t e son de aspecto permanente.
+
+152
+
+lenguas de Panamá
+
+Ejemplo:
+
+Avión hooba c h i t ~ m . J ~ c ' A A ~av~ióun hooba
+
+chitivdm.
+
+'Nunca he (mascul ino) visto un avión.' (lit.: Estoy sin ver un avión.) 'Esos no han visto
+un avión. '
+
+Dau t'eeg sierr~m. Dau t'eeg sierrjeern.
+
+'Es arisco.' *
+'Son ariscos. '
+
+Jap hee jorrorn. Jap hee i8rr+m.
+
+'Anda en piragua.' 'Andan en piragua.'
+
+C. Verbos auxiliares aue toman el ~ r e f i i o~ l u r a lwZ-.
+- Los que forman el plural anadiendo el prefiio we- a su
+raíz, son los verbos de movimiento: nArr- y hur-. La raiz
+- - - - hur- cambia a -dur- al ponerle el prefijo we-.
+
+Ejemplo: Q'uichag hee nhrrhm.
+
+'Anda en la oscuridad.'
+
+Q'uichag hee w e n ~ r r ~ m .'Andan en la oscuridad. '
+
+Degag hurum. Degag wedurum.
+
+'Viene a casa.' 'Vienen a casa.'
+
+D. Verbos auxil iares que toman formas especiales para el plural.
+
+Los que tienen formas especiales para el plural son tres:
+
+1. Los de aspecto de inmovilidad tienen una forma especial
+más tl~nnm.
+
+2. El de género de aspecto transitorio q'uzr- tiene una sola
+forma especial.
+
+Ejemplo:
+
+Di pom dnn~m. Di pom dhnhnhid t'hnhm.
+
+'Está (parada) una casa
+grande. '
+'Están (paradas) unas
+' casas grandes.
+
+Jap bar wejom.
+Jap bar h ~ i dt'hn~m.
+Chaai jasm q1uGrm.
+Chaai jeisG durrum.
+
+'La piragua está.' (arrimada) 'Las piraguas están.' (arrimadas)
+'El nino tiene hambre.'
+'Los ninos tienen hambre.'
+
+Gramática Waunana
+
+153
+
+3. A veces es el adjetivo o verbo principal el que lleva la
+pluralidad; en estos casos las formas plurales de d m ~ my
+w8Pm se pierden y Únicamente se usa t'hn~m. Así es que a
+veces también lleva el aspecto de estar parado o inmóvil.
+
+Ejemplo: Pabh durag dhnhm. PabX bbibar t'hn~m.
+
+'El árbol está (parado)
+alto. '
+'Los árboles están altos
+' (0 largos).
+
+Cubirr d i jiir wejom. Cubdrr di. jijirar t'hn~m.
+
+#El nido del rnochilero
+está colgado.' (inmóvil) 'Los nidos de mochilero
+' están colgados.
+
+La gráfica siguiente muestra los grupos de verbos auxiliares según su pluralización. Los verbos están escritos en forma conjugada en singular y plural como para servir de lista de comparación.
+
+Catfgoría semantica
+1 Acción Estado Transitorio
+
+Forma singular
+] sim
+m t'hn~m
+
+Forma plural
+
+Resumen de
+Se pierde su contraste por sustitución de la
+sola forma -n-.
+
+2 Cualidad Estado Permanente
+
+sierr~m hhrrm chit~m q'uit~m
+
+Movimiento j5rr3m
+
+srerrjeem
+hhrrieem
+chit j e i m
+qtuitji%m
+.lo..rrl.e..e..m
+
+Mantienen su contraste
+por la adición del
+- sufijo -jed.
+
+3
+
+nhrrhm
+
+Movimiento hurum
+
+wen~rr~m wedurum
+
+- Arraden el prefijo w3.
+
+4
+
+dhnhm
+
+Inmovilidad wgjom
+
+Compasión q'uerhm
+
+d ~ n ~ n t~'hnihdm
+
+hhid t'hn~m
+
+Formas especiales.
+
+durrum
+
+-
+
+154
+
+Lenciuas de Panamá
+
+fi Nota: La combinación que se encuentra en formas como
+- chitjeem, se pronuncia como la t aspirada (t'), y hay cierta
+preferencia entre los waunana pG escribir ;'t aunque se pierde
+la división rnorfológica.
+
+Ejemplo: chitjZ6m = chit1e6m tatjodi = tat'ooi
+
+'estoy' 'abuelo' (papá viejo)
+
+II. Otros tiempos distintos del presente.
+Además de los sufi ios indicadores de tiempo que se pueden
+usar con cualquier verbo regular (ver la lección 6 ) , los verbos auxi liares hacen distinción entre tiempo presente y cualquier
+otro tiempo.
+Los verbos auxiliares se pueden dividir en cuatro grupos
+- según se marque la raíz para tiempo no presente (ver la lección
+1 de verbos auxiliares formación del tiempo presente)
+
+A. Raíces a las aue se affade a.
+
+Raíces a las que se aflade a para formar tiempo no pre-
+
+sente, son todas las raíces singulares con excepción de cuatro.
+- ... Incluyen la raíz plural durr.
+
+s i / srerr
+
+lorr
+
+h~ / h ~ r r
+
+n~rr
+
+chir / chit
+
+hur
+
+qtu8r / q'uit
+
+durr (plural)
+
+Ejemplo:
+
+Deg siejim.*
+Año hab naawie, haap
+. p'a c'ap'~ h ~ r rjau
+Carris siirwai, h ~ r i m ~ q'uitaajem.**
+D'dh~a jGrraaieejim.** Degag hurajim.
+. Monac'a durraju
+
+'Estaba en casa.'
+'Dentro de un aflo
+' sabré cómo escribir.
+'Es bonito escuchar cuando toca l a flauta.'
+' 'Andaba pescando.
+'Vino a la casa,'
+'Estarán alentados. '
+
+Gramática Waunana
+
+155
+
+Nota :
+- es .- *La a seguida de i, se pronuncia como e. Es decir, l a secuencia ia fonéticamese ie. En este trabajo aparece ie, que por l o tanto hace dif*icil la identificación del morfema a, indicador & tiempo no presente. Sin embargo, éste es el Unico caso donde la secuencia i e representa la combinación cuya segunda parte es realmente u% a.
+
+**La doble vocal aa en estas formas resulta de su posición
+
+&- ante N
+
+(ver la lección 6).
+
+B. Raíces aue rerminan con -n.
+- - Raíces que terminan en n, anadiendo doble aa, son:
+
+Ejemplo :
+
+H6or jayap naajim.
+. C'AAU t'hnaajim.
+D i heegar d ~ n ajaÚ
+
+'Había cuatro personas. '
+'Tenía fiebre.'
+' Estarán (parados) debajo
+de la casa.'
+
+C. Raíces aue terminan con -iee.
+
+- La partícula raíz ha sigue las formas plurales que terminan con --p.
+
+sierr ji%h~rrjG-
+
+..". q'uitjee-
+el..orrlee-
+
+chit j G -
+
+Ejemplo: Pogc'a nem dap sierrjk% hajim, pogc'a daii
+
+- - q'uitj'ee hajim.
+'Algunos eran grandes, algunos chiquitos.'
+
+-- Hedaar & h ~ a j o r r j a haajem.
+'Andan pescando por l a noche.' (habitualmente)
+
+156
+
+Lenguas de Panamá
+
+D. La forma irregular wei-.
+. Hay una sola forma irregular, w-kJ
+Ejemplo : (presente) Jamac jiir wejom.
+
+(otro)
+
+Jamac jiir wejoojim.
+
+'La hamaca está
+gu indada. '
+'La hamaca
+estaba guindada. '
+
+Hay que recordar que para formar los tiempos pretérito y
+
+futuro de los verbos auxiliares, hay que aiíadir el sufiio del
+
+tiempo que queremos formar a la raíz de tiempo no presente.
+
+- -+ Ejemplo: sTe- (raíz de tiempo + -jim
+
+siejim 'estaba'
+
+no presente)
+
+Eiercicio 1
+
+Formar el plural de las siguientes frases.
+
+1. MA hapc'ajba c'a h ~ m .
+2. MA chaai iemc'a sim. 3. Bamseu nem pom sim. 4. C'ani jüg chiri? 5. Hi choj8 joba sim.
+6. Ma map'a chir~m. 7. Mam c18chag h ~ m . 8. Hoob p ' i i d ~ m ; p~ mor mas sim.
+
+'Estoy cosiendo una
+paruma. '
+'Mi nino está jugando.'
+'La pava es grande.' 'Qué estás haciendo?'
+.' 'Ella no está chupando
+caiía 'No quiero ir.' 'Tengo ganas de ir.' 'No te levantes que estás enfermo.'
+
+Eiercicio 2
+
+Formar el plural de las siguientes frases.
+
+1. Jag htiwan nem p'ip'irag
+. sierr~m
+
+'Ese joven es muy
+. trabajador '
+
+2. M A A n~em h6cag h ~ r r ~ m .
+
+'Soy muy miedosa.'
+
+3. PA C ' U S ~ U ~c h i t ~ m p'idc'aag.
+
+'Ud. es perezoso para el trabajo.'
+
+Gramática Waunana
+
+157
+
+4. Badag jorGm.
+5. Avión c ' ~ t a a jorGm.
+6. H i meu meraa q'uit~m. 7. Jüg hhhi c'aigba srerr~m. 8. Doi b¿pl¿i q'uit~m.
+
+' 'Anda abajo. (en
+piragua ) 'El avión anda bajito.' 'Ella es muda.'
+'Esa mujer es mala.'
+'El canalete es blanco.'
+
+Ejercicio 3
+
+Formar el plural de las siguientes frases.
+
+1. H i p'idag hee nArrAm.
+
+' E l anda en su trabajo.'
+
+2. MA chaai hurum. 3. MA pa t'uturwie hurum.
+4. H i dGq1u3j8r nArrAm.
+
+'Mi niño viene.'
+'Vengo de derribar un
+árbol. '
+' E l anda al otro lado.'
+
+5. Motorrou jorrom.
+
+' E l anda en motor.'
+
+Ejercicio 4
+
+Formar el plural de las siguientes frases.
+
+1. Chaai bre q'ugr~m.
+
+'El nino está llorando.'
+
+2. D i pom &n~m. 3. Jarnac jiir wgjorn. 4. Chi woun hoo d ~ n ~ m .
+
+'Una casa grande esta.' (parada)
+'La hamaca está alzada.' (y colgando)
+'El indio está.' (parado)
+
+5. Nemchaai di jiir w3jEm.
+
+'El nido del pájaro está
+' colgado.
+
+Ejercicio 5
+Cambiar a tiempo no presente (pretérito o futuro) las siguientes
+frases (ver la sección I .A de esta lección).
+
+158
+
+Lenguas de Panamá
+
+1 . H A A ~hawarr phau sim.
+2. MA durag c'aba chir~m. 3. PA hapc'aj~a c'a h ~ ? 4. Jap biec c'aag hAu sierr~m.
+5. Jemc'ut hooimh q'uit~m. 6. Daupeer t'eerju j ~ rnArrAm.
+7. H&r c'apan mam c'ochag t'hn~m.
+8. T'ut'ui di heegar sim.
+
+'La mujer está destri-
+' pando pescado.
+'Yo no soy alto.' 'Estás cosiendo?' 'La canoa está buena
+' para viajar.
+'El juguete es bonito.'
+. 'La joven anda buscando
+damag ua '
+'Mucha gente quiere ir.'
+'El machete está debajo de la casa.'
+
+Ejercicio 6
+
+Cambiar a tiempo no presente (pretérito o futuro) las siguientes
+frases (ver la sección l.B de esta lección).
+
+1. Saaq'uien di heegar nAm.
+
+'Los perros están debajo
+de la casa.'
+
+2. Doh~am c'ochag t'hn~m.
+
+'Tenía ganas de i r a pescar.'
+
+3. Pac'aar hee q'ueq'ueman pos t ' ~ n ~ m .
+
+'En la raíz del árbol hay muchas abeias.'
+
+4. Deeu hamach t'um haig
+t'hn~m.
+
+'Otra vez todos están ahí.'
+
+5. BXjaau pai c'tii d~nhm.
+
+'Está durmiendo parado!
+
+Ejercicio 7
+Cambiar a tiempo no presente (pretérito o futuro) las siguientes
+frases (ver la sección I .C de esta lección).
+
+Gramática Waunana
+
+159
+
+1. Chi t'eerju chaain dam.
+dasfi q'uit jGm.
+2. JElc'hhn c'ai c'od c'apan
+sierrjb3m.
+3. J E l c ' ~ n c'odnaanan hXuu
+hhrrjeem.
+4. C'urpim hedaram magwe
+bie j6rr j e h .
+
+'Las darnagüitas son
+estrechas .'
+'Esa familia es muy
+' numerosa.
+'Las mujeres de esa fa-
+milia son muy bonitas.'
+'Las casangas aún de noche cantan volando.'
+
+Ejercicio 8
+
+Cambiar a tiempo no presente (pretérito o futuro) las siguientes
+frases (ver la sección l. D de esta lección).
+
+1. D&ig baujiu wepm.
+
+'La quebrada está
+crecida. '
+
+2. Peric higuir q'uEr hee
+
+'El perico está guindado
+en el cogollo del
+amargo (palo). '
+
+I I l. Vocabulario.
+Sustantivos
+carris (a) cubdrr (a ) c'~umie
+c'urp im( i)
+do baujiu
+dosig (a ) hTguir (i) pac'aar (a) peric (a) qluGq'uGman (a)
+
+'flauta' 'mochilero' 'fiebre' 'casanga' (pájaro) 'crecida' (río) 'quebrada' 'palma de amago' 'raíz' 'perico' 'abeja'
+
+1 60
+q'u7chag (a ) q'uiir(a) Varios bA jaau das3 deeu POS
+
+Lenguas de Panamá
+'oscuridad' 'cogollo, cara'
+'de pie' 'estrecho' 'otra vez' 'algún tipo de agrupación'
+
+- A. Vocabulario woun meu es~anol.
+
+babaaubaaudí
+baaur (a )
+bach ( i ) barnseu barbarbapXi barchebarchetarr(a) baurr (a ) baurrhuan ( a ) baurrj85i (a ) bapc'hhn (a ) bapla beerbeeur b ~ ~ bc'a~ e
+
+'moler' (maíz) 'encontrar, hallar' 'baúl' 'sábalo' 'tortuga' 'pava' 'botar' (una cosa) 'bótalo' 'llegar' 'el que llegó'
+' hiiastro'
+'madrastra'
+'padrastrol
+'hombre blanco' 'blanco' 'contar' (números) 'podrido'
+'balido del venado'
+
+b8c16r(o) 'perdiz'
+
+beijú
+
+'vendrá'
+
+bzjurau
+
+'vendrán'
+
+benc'hhn (a ) 'curandero'
+
+benhe
+
+' remedio'
+
+bep-
+
+'enterrar'
+
+b i pZm(a) 'barrigón'
+
+biec c'a- 'viajar'
+
+bie-
+
+'1 lorar'
+
+bon-
+
+'tapar'
+
+b l r rjZclai bun-
+
+'cobija'
+' caer'
+
+b~r-
+
+'picar fruta' (pájaros)
+
+bXrXpai
+
+'un poquito'
+
+bzhr ja
+
+'nada'
+
+bx
+
+"pie'
+
+bXqluierr (a ) 'YUCQ'
+
+bXt'X
+
+'bajito'
+
+caai ia
+cach ( i )
+
+'calle' 'oreja'
+
+caidis (a)
+
+'tarima'
+' COCO'
+
+c'a
+c'a-
+c'ai ( i)
+
+'hija' 'tejer, coser, hacerse, ponerse' 'quién'
+
+c' aigba c'ajap'a c'a jeeu c'a ida
+
+'malo' 'quieto'
+' cansado'
+'ropa'
+
+162
+
+Lenguas de Panamá
+
+c'amonachag
+
+'enfermo'
+
+c'ani
+
+'qué'
+
+clapan (a) c'apeer (a)
+
+'bastante'
+' compaflero'
+
+c'ap'ig-
+
+'correr'
+
+c'ap'igmie
+
+'corredor, el
+
+que corre'
+
+c'ar c'aram (a)
+
+'a veces'
+' camarón'
+
+c'at'á-(+auxil iar) 'engordar'
+
+(personas)
+
+c'au
+
+' manteca'
+
+c'aug-
+
+'saber, aprender'
+
+c'ai-
+
+'dormir1
+
+c'aai
+
+'día'
+
+c¿'rc¿llri
+
+'sonando como
+
+tabla'
+
+c'od (a)
+
+'pariente'
+
+c'ood (a)
+
+'tortuga'
+
+c'oog
+
+'para comer'
+
+c'oojeejim 'comía' (habitual mente)
+
+c'oo jem 'come' (habitualmente)
+
+c'oor-
+
+'pelar'
+
+- c'dchag
+c'Oi
+
+'ganas' 'raspar'
+
+c'dsi hac'¿j-
+c'ojim clojú
+c'3¿j-
+
+'querer1 'comer'
+'comi ' ' comeré'
+'hundir'
+
+c'Or (af6 ) 'llano'
+
+c'uap-
+
+'derramar'
+
+c'um (a) 'tigre'
+
+c'ur
+
+'después de'
+
+clusarr(a) 'cuchara'
+
+C'
+
+'perezoso'
+
+c'bch pai 'por un rato'
+
+C'US ( i )
+
+'marrano'
+
+c'hdau
+
+'camino1
+
+c ' ~ ~ u m i e 'fiebre'
+
+chaai (a ) chadcha chaig pai chai jV6i ( a ) cham~g(a ) chi chi ja chinchorr (a)
+
+'nino' 'cierto' 'hace poco' 'suegro' 'éste' 'el' (artículo) 'cuál' 'chinchorro'
+
+chir~m chiwaar (a) chojd
+C~UC'U
+chuchq1u8u
+C~A
+ch~gc h ~agg
+
+'estoy' 'banano maduro'
+' cafla'
+'sin' 'codo' 'hilo, soga' 'vomitar1 'pesado'
+
+dam (a) daq'uiir daucho daumerdaupeer (a) deedeepXi-
+
+' pequeno'
+'delante' 'lágrima' 'esconderse' 'joven' 'dar' 'mandar'
+
+deg (a ) den ( E ) dennaan (a ) di
+di dam(a)
+dic'uug
+
+'en l a casa'
+'de' 'padres' (progenitores) 'casa' 'casita' 'hacia l a orilla de l a casa'
+
+Gramática Waunana
+
+163
+
+domerdonnaan do do-
+do nau diiba-
+diibhr (a ) &do j0
+dohee jurau diih~a-
+
+'banar'
+
+dii( i )
+
+'borrachos' 'agua'
+
+do jiermm
+&j¿ji-
+
+'beber, tomar'
+
+doq'uierr (a )
+
+'charco en el río'
+
+doq'uii jar(a)
+
+'no toma'
+
+dubpXi-
+
+'biche'
+
+durag (a )
+
+'hacedora de "postres'' dur(i)
+
+líquidos'
+
+durrag
+
+'tomarán todo la noche' dhi
+
+'pescar'
+
+firrcha
+
+'canalete' 'tomaron' 'sacar agua' 'desembocadura' 'al otro lado del río' 'meterlo' 'largo' 'cola, aguijón' 'hacia adentro' 'con' 'g ronde'
+
+gaai
+
+'en'
+
+haai (a )
+
+'papá'
+
+haajem
+
+'es, soy, dice' (habi-
+
+tual mente)
+
+haar (a)
+
+'dónde'
+
+haaunaan(a ) 'enfermo'
+
+hac'aar (a) 'alma'
+
+hachin(a) 'papachina'
+
+hagdauj5
+
+'iguales'
+
+hagpierraa 'mediano'
+
+hagt'a
+
+'todavía'
+
+hahaa c'a- 'gritar'
+
+hahabdo
+
+'uno por uno'
+
+ham (a)
+
+'el los'
+
+hamach(i) 'el los'
+
+hapc'a jua hapl;p (e)
+
+'parurna'
+' mariposa'
+
+harg hee 'en limpio, en la
+
+Iuz'
+
+harrhasp'it (a)
+
+'1 levar'
+' 'chapul
+
+hat'á
+
+'coja'
+
+hau-
+
+'coger (cualquier
+cosa) '
+
+ht!a¡h~an(a ) h a a r j a i (a ) hab (a ) habac'ai (i) hac'ahac'arag (a) had (a ) hadee hadhuan(a) haig harhaspahaspa jurau hawarr (a ) h¿¿hC¿ci 'ahürrhed hedaar (a) hedciraawe hedja heegar heeuhemc'boin (a )
+
+'tía' 'tío' 'uno 'otro' 'guardar' 'feo' 'mamá'
+'extender' (la cola) 'abuela' 'yerno'
+' donar'
+'amanecer' 'amanecerán' 'pescado' 'gritar' (gente) 'eructar' 'día, luna, mes' 'por la noche' 'de madrugada' 'cielo'
+' debajo'
+'cogera (maíz)
+' hombres'
+
+164
+
+Lewuas de Panamá
+
+hep'emc'oi ( i ) 'hermano'
+
+hooim~
+
+'bonito'
+
+heuh8c1a-
+heeur (e) hapur ( i ) hlsap (a ) hsudee h8wan(a )
+
+'piel' 'querer, bregar' 'guagua' (conejo) 'armadil lo' 'papel' 'detrás de'
+' joven'
+
+hUor hat horhatdau h~tpa-
+
+'gente' 'atizar'
+'lena'
+'engordar' (animal es, personas) 'salir' 'garganta'
+
+Hewandam(a) heera
+hi
+hich ( i ) hichclum(a)
+
+'Dios'
+'sí '
+'él' 'él'
+'guat ín, Reque'
+
+'acabar' (plural)
+' despacio'
+'miedo'
+'gusano'
+'1 iviano'
+
+hideu sTuhiec pRihiec'ahiec'aar
+
+'dejar' 'mandar razón' 'hablar' 'barba'
+
+'banano' 'iguana' 'triste' 'prender,
+
+hierrmua hiewá
+
+'desde adentro' (hacia afuera) 'hijo'
+
+hujarr (a ) huu (+auxiliar)
+
+encender' 'patio' 'estar en llamas'
+
+hit'ee
+hit'urm~g(a )
+
+'para' 'barranco'
+
+hurrh~c'a-
+
+'volar'
+'lavar' (platos)
+
+hiuc'a-
+
+'reir'
+
+h~m
+
+'estoy' (mujer)
+
+hiur(i) hiyhA ha-
+
+'nuevo' 'conversar'
+
+hhrrhm h ~(a)~ i
+
+'SOY' (mujer) 'mujer'
+
+hich mag(a) hihTrclu
+
+'así' 'sucio'
+
+- h ~c'aa~r (ai)
+h ~ ~ r(ba)a
+
+'muchachita' 'bu jara
+
+I
+
+his( i )
+
+'hoy'
+
+hhhh
+
+'no! '
+
+homdau
+
+'envuelto'
+
+hhi-
+
+'descansar'
+
+honee
+
+'al egre'
+
+hhr
+
+'encima'
+
+hoo-
+
+'ver'
+
+hoo- (+ auxiliar) 'estar sentado,
+
+hxc'ah k r (it)
+
+'creer'
+' chontaduro,
+
+parado'
+
+pijiguá, pixbaí'
+
+hooc'a-
+
+'mirar'
+
+'bien'
+
+jajayapdo
+¡am (a
+jamac (a )
+kv (a )
+iar (a
+
+'de cuatro en cuatro' 'dónde' 'hamaca'
+'potro'
+'poci llo'
+
+jayap (a)
+jaiag (a )
+iaig (i)
+iamag (a )
+
+'cuatro' 'lavar' 'cómo' 'ahí' 'a dónde'
+
+Gramática Waunana
+
+165
+
+jasoo
+
+' hambre'
+
+jtiwai iemc'a-
+
+'cuándo'
+' jugar'
+
+jab (e) j~bdí
+
+'t ierra'
+' cueva'
+
+jEgtlEu
+i.e..p (2)
+le jeeu-
+
+'roto'
+'congreio'
+'boa'
+'pedir, rogar,
+
+preguntar, valer
+
+(precio)'
+
+'aba jo' (donde
+
+el río)'
+
+j i irhau-
+
+'alzar, levantar'
+
+.-i7chag ( a )
+ligc'ajTgpir
+
+'frío' 'robar'
+' dedo'
+
+jrgpir p'orrd~a 'nudillos'
+
+~.C l g q ' u a u
+
+' dedo'
+
+100-
+iIOa-P-
+¡a
+j.8..c.h8g (a)
+101-
+jopai haba jopcha
+j uadag (a )
+juaheu juajti
+juap6r ( 6 )
+IUP-
+juran (a )
+jbur-
+.-
+- 1' jhgad (a ) jhch-
+
+'cocinar' 'arrimar' 'chupar, comer fruta' 'como, parecido' 'ají' 'sacar' 'apúrese'
+' l igero'
+'antebrazo' 'dorso de l a mano' 'palma de l a mano' 'mufíeca' 'sentarse' 'cuna' 'burlane' 'buscar' 'amarrar' 'bejuco' 'poner huevos'
+
+maach (i)
+maag
+maar (a )
+mag nAm magan majim mam mamh mar
+masat (a )
+mau mee-
+mepeer (a )
+meu
+
+'nuestro' 'para i r ' 'nosotros' 'está bien' 'entonces' 'fue' 'voy' 'pero' 'arriba' 'chicha' 'acá' 'morir' 'demonio'
+' lengua'
+
+meumeraa meurrc'amocdau mod(o)
+- monaau
+moq'uit (a)
+mor (a )
+morc'~
+morr ( a) mos (a )
+mh
+m ~ c (hi )
+(a)
+
+'mudo' 'estar bravo' 'piedra' 'carne' 'alentarse' 'lombríz'
+' cuerpo'
+'duefio' 'isla' 'playa' 'yo' 'mi, yo' 'éste'
+
+na naam ( A )
+
+'antes'
+'hermano o hermana mayor'
+
+naamh~an(a ) naamjai(a)
+nacharam( a )
+
+'tía' 'tío' 'primero'
+
+166
+nag cho nan (u) nau nawe negorr(6) nem (e) nemc'or (o, i) nemc'arg
+
+Lenguas de Panamá
+
+'guarapo' 'maflana' 'ahora' 'antes de que' 'moreno' 'grande, cosa' 'culebra' 'muy bravo'
+
+nemchaai(r,a ) nemec mod (o) nemjau nemjGr(i,a) nemt'ud (i, u) numí
+
+'pá jaro' 'comida de carne' 'gavilán' 'sembrados' 'avispa' 'dos' 'de dos en dos' 'están'
+
+Papaawai
+paar (a ) pabh pacho
+pagar (ir a ) pamaar (a ) paq'uer (8) parherraa
+parh~pag(a ) pari i
+parrg püchdhpechag peta ~eda~ perperhauperhaumie
+
+'prender' 'cuando prendió' 'Uds.'
+' 'árbol
+'savia de árbol' 'guacamayo' 'flor' 'hierba' 'barato'
+' caro'
+'vacio' 'el grosor' 'encogerse' 'cal iente' 'vaya' 'maíz' 'vender'
+' compmr' ' comp mdor'
+
+pidG pierr pierr (a)
+piudau
+pye ja
+POOr (a ) poorbau poordagbau p6d pom (a ) por( 8)
+puf.(¡) P" phap ~ c(hi ) p~chdeu pnrmie
+
+'venga' 'cada' 'habitante de algún
+lugarv-eno)
+'brazo' 'p iíía'
+'mono' 'arana' 'mico' 'poder' 'grande, bastante' 'cabeza' 'ropa'
+'Ud. '
+'de jar' 'su'
+'lld. '
+'cogedor'
+
+p'aauh~an(a) p'ac (a) P'%p'asienp'atc'on (a ) p'eeriem
+p'et j6
+
+'suegra' 'vaca' 'pagar' 'pasear' 'plata' 'el que maneja, motorista' 'guaba'
+
+p1iCJag(a ) p'idc'ap'idc'amie
+p ' i e j ~ l b( a ) p'iidh-
+p' ip' irag (a)
+p ' isoo
+p'ot-
+
+'trabajo' 'trabajar'
+''trabajador'
+comida' 'levantarse' 'trabajador' 'p iangua'
+'pegar'
+
+Gramática Waunana
+
+167
+
+p'zbor (6) p'uaP'UP'UP p'ur, p'urii
+P'U p'uag (a)
+
+'pueblo' 'soplar' 'brillante' 'rojo'
+'viento' 'pasto'
+
+plUas (a )
+P'A-
+p'hhi-
+p'i;ich(i)
+
+'mar'
+'rozar, Iimpiar'
+'moler (cana), torcer'
+'negro'
+
+queena
+
+'companeros'
+
+q'ueena q'ueeuraa
+ci'ue- q'uiq' uech
+q'uer (e)
+
+'companeros' 'tarde' 'estar' 'borrachos' 'hoia'
+
+- Q'U -
+
+q'uigdau q'uieq'uiir qluiirjl]ga (a) q'uiuu
+
+'nacido' 'pajarear' 'clase, cara, color' 'idea' 'callado'
+
+saac ( i ) saarseuc'asiepierr (a) sim sisii
+
+'perro' 'pelar' (naranja) 'mentir' 'emberá' 'está1 'estar' 'solamente'
+
+si'p'a sisTw.í som(a ) s ~ l si~ i
+SU-
+sl]rr(a)
+SASA~~
+
+'sabroso' 'periquito'
+' chaquira'
+'blando'
+' chuzar'
+'venado' 'sonido de serruchar'
+
+t a t j ~ o(ia) turap (a)
+
+'abuelo' 'trampa'
+
+1 tarapich (i) tOu
+
+'trapiche' 'cuidado!'
+
+t'ach (i) t'achdo tlap'ur(i ) t1arjl]p (a) t'au t'e- (a t'eerjú
+t'ep (e)
+
+'plátano' 'platanal' 'táparo' (una fruta) 'tres' 'totuma' 'duro' 'damagua' 'plato'
+
+tlGr(G) tletleu
+t'oopt'6jim
+t1S¿3d(o)
+t'ut'umwe
+
+' escopeta'
+'ruido de gotas de agua' 'rajar' ( l e ~ a ) 'murió' 'toldo' 'tumbar' 'todo'
+
+168
+t'ut'ap (a) t'ut'ui (i) t'uapt'uap (a) t'cig ja t'or (i)
+
+Lenguas de Panamá
+
+'hacha' 'machete' 'barrer' 'soplador' 'caimito'
+'01 la de barro'
+
+t'~ajem t'hapt'hbat'h bht ( A ) t ' ~ r(rA ) t'hrrdd ti)
+
+'cuidandero' 'cortar' (con hacha) 'quedarse' 'cesto' 'estero' 'chamba, lago, laguna'
+'1 lamar'
+
+-wa
+wa waibedwaidhwa jap'a warp, warp'aa warre wauwau jú weeuwerbaajem werpha-
+
+'O'
+' cobar'
+'traer' 'subir' 'bueno'
+'l e jos'
+'de una vez' 'hacer' 'hará'
+' 'abrir
+'se acuesta' 'dejar'
+
+~et-
+wetjim w2t j ierram wetjú wetmie wetú wetum
+woun (a )
+w~jim
+w Arc (a ) WAA (+ auxiliar) w Z (+ auxiliar)
+
+' i r ' (plural ) 'f ueron' 'fueron' 'irán' 'ciempiés' 'van' 'vamos, van' 'cholo, indio' 'pegó' 'hueco del piso' 'estar alumbrando' 'tener hueco'
+
+B. Raíces verbales.
+
+-ba - baau
+bai-
+barbarchebaudhbaaubeer-
+
+'moler' (maíz) 'encontrar, ha1lar' 'coger' (tumbar para
+coger fruta) 'botar' (una cosa)
+'1 legar'
+'brincar' 'criar' 'contar' (números) 'venir'
+
+bepbibisc'abiec c'abirbieborrbuapburrb~rb~rba-
+
+'enterrar' 'rozar' (movimiento de) 'viajar'
+'desgranar'
+'1 lorar'
+'tapar' 'quebrar'
+' caer'
+'picar fruta' (pájaros) 'machucar'
+
+'hervir'
+
+Gramática Waunana
+
+1 69
+
+c'a-
+
+'tejer, coser,
+
+hacerse, ponerse'
+
+c'aa-
+
+'picar, morder'
+
+c'aar-
+
+'pegarse'
+
+c'aigper-
+
+'ayudar'
+
+c'ap'ig-
+
+'correr'
+
+c ' a p ' ~ ha-
+
+'saber'
+
+c'at'a- (+auxiliar) 'engordarl(persona
+
+- c'at'a jemer-
+c'aug
+
+'revolcarsel(en I d
+'saber, aprender'
+
+c'ai-
+
+'dormir'
+
+c1aic'6rc'a-
+
+'sonar'
+
+c'oor-
+
+Ipelar1 (guineo)
+
+c'clic'bp-
+c'bt'ar-
+c'bt'argc'osi hac'& c'uac'uapc'uc'aclUurc'hi-
+
+'raspar' 'cortar' (frutas, personas) 'cortar troza' (con hacha) 'cortar varias trozas' 'querer' 'comer' 'botar' 'derramar' 'luchar' 'ahumar' 'caer' (cosas-plural)
+
+chachche-
+
+I - 'pesar'
+
+chhg
+
+'1 lover, caer, Ilegar'
+
+'vomitar'
+
+dá haba-
+dap'5gc1adauc'anpadaumerd8dÜ j8deedeepXidich-
+
+'demorar' 'tener sueflo' 'despertar' 'esconderse' 'hachar' (sonido de) 'dar' 'mandar' 'pasar'
+
+domer-
+do-
+do hhreu-
+&jjoi-
+dubpXi-
+dhnhu-
+dhrba-
+
+'banar' 'tomar, beber' 'barrer con chinchorro' 'sacar agua' 'meterlo' 'pararse' 'cruzar'
+
+heerpa-
+heeuhlc'ahlreu-
+
+'ver' (comiendo con los ojos) 'coger' (maíz) 'querer, bregar' 'desatar sogas, deshacer, descoser' 'amanecer'
+
+hiec phihiec'a-
+hig (+ auxiliar)
+hinhiuc'ahiyhA ha-
+
+'mandar razón' 'hablar' 'necesitar' 'hacer' 'reir' 'conversar'
+
+1 70
+
+Lenguas de Panamá
+
+'contar (cuentos),
+
+mezquinar'
+
+hoc'oo-
+
+'perderse'
+
+hom- (+ auxil iar) 'estar mojado'
+
+hoo-
+
+'ver'
+
+hoo- (+ auxiliar) 'estar sentado'
+
+hoo mapia-
+
+'odiar'
+
+hooc'a-
+
+'mirar'
+
+hat h6rhotpa-
+
+- 'atizar'
+'engordar' (an i
+
+mal es, personas)
+
+haber-
+
+'salir'
+
+hoc'a-
+
+'acabar' (plural)'
+
+h5r-
+
+'prender, encen-
+
+der'
+
+hur- (+ auxil iar)'venirl(raíz auxiliar) huu (+ auxiliar) 'estar en Ilamas'
+
+hupdh-
+
+'flotar'
+
+hur-
+
+'oir'
+
+hurr-
+
+'volar'
+
+jaai haujaau-
+ia-
+jemc'ajebh hajggdh-
+.-ji irhau-
+.."1~g~ ' a -
+Itlr-
+
+'casarse' (tomar esposo) 'decir, avisar' 'lavar' 'jugar' 'sonar' 'romper' (globos, ollas) 'pedir, rogar, preguntar, valer (precio)' 'levantar, alzar' 'robar' 'sembrar'
+
+'cocinar' 'arrimar'
+'chupar, comer fruta' 'manchar' 'sacar' 'sentatse' 'ponerse' (ropa) 'burlarse' 'buscar' 'amarrar' 'poner huevos' 'destripar'
+
+-ma
+magreume-
+mee-
+
+' i r ' (singular) 'desbaratar' 'pelar' (pina, papaya, zapal lo) 'morir'
+
+meermeuc'aar haumeurrc'amonaaumor machpa-
+
+'esconder' (una cosa) 'cantar' 'estar enojado' 'alentarse' 'enfermar'
+
+'esperar'
+
+) nhrr- 'andar, caminar' (raíz auxiliar)
+
+Gramática Waunana
+
+171
+
+Pap8chd~pedpeeperperhau-
+POSI '
+
+'prender' 'encogerse' 'pelar' (animal) 'pintar' 'vender1 'comprar'
+'cortar' (lena)
+
+podp~ap~rhaup~~rba-
+pAi-
+
+'poder' 'dejar'
+' coger'
+'rodar, correrse,
+revol carse' 'echar'
+
+p'aa-
+p'agp'aiplap'aarp'Urp'eerP'g-
+p'ehaup' idc'a-
+
+'quemarse' 'pagar' 'tender1 'escribir' 'cerrar' 'pegar' (con el p u ~ o ) 'manejar' 'recoger' 'juntar y recoger' 'trabajar'
+
+p' ierr-
+
+'coger (arroz), arrancar (pina)' 'levantarse' 'meter' 'regar' 'secarse (un árbol sembrado), soplar' 'untar' 'rozar' 'moler' (cana)
+
+- Q'U -
+
+- q'u& q'ui-
+q' u%
+
+'estar' 'pajarear'
+
+q'uñr cl~/ruc'a- 'disgustarse'
+
+q'urirjuq'uiirq' ui-
+
+'pensar' 'privane1
+
+saar-
+SÜSEU-
+seerbasigt'~-
+sir-
+
+'pelar1 (naranja) 'cepil lar' (madera) 'freir' 'enjuagar, frotarse las manos'
+' tocar'
+
+sis7e-
+siu -
+soor-
+
+'estar' 'empujar' 'dejar' 'pelar' (papachina, cana, yuca) 'chuzar'
+
+1 72
+
+Lenguas de Panamá
+
+t'aabat'oop, t'orrpt'orrp'et'Clot'u-
+t'uap-
+
+'nacer, parir' 'rajar' (lefla) 'partir' (coco) 'matar' 'tumbar, cortar' (personas, animales, palos) 'barrer'
+
+-t' - t' a-
+t' ad
+u' ap-
+t ' bat'-gt'"r-
+
+'sumergir' (algo) 'cuidar' 'reventar' (soga) 'cortar' (con hacha) 'quedarse' 'llenar, escopeta'
+'Ilamar'
+
+- wa-
+waau waibeiwai- (+ auxiliar) waidhwarrwau-
+
+'cobar' 'madurar' 'traer' 'tener' 'subir'
+'Ilevar'
+'hacer'
+
+weeu-
+
+v 'abrir'
+
+werp a-
+
+'dejar'
+
+WZ~-
+
+'ir' (plural)
+
+wie-
+
+'consumir'
+
+WA-
+
+'pegar'
+
+WAA- (+ auxil iar) 'estar alumbrando'
+
+w%- (+ auxiliar) 'tener hueco'
+
+Gramática Waunana
+
+173
+
+. C. Reaionalismos
+
+alentarse biche bocana bregar colino chamba champa chapul chaquira
+chinchorro cholo
+chontaduro
+damagua emberá
+entenado, a envuelto
+guatín güérregue
+huitoto
+masato neque papachina
+paruma piangua
+piiiguá piola
+pocillo
+
+'restablecerse, reponerse' (Pequeno Larousse) 'bebida fermentada hecha de cana de azúcar' 'desembocadura de un río' (Pequeno Larousse) 'luchar con trabajos o dificultades' (Pequeño Larousse) 'platanal ; plantío de coles pequeñas' (Pequeno Larousse) 'lago, laguna' 'piragua, potro' 'grillo' 'cuentas de vidrio y otros adornos que se tejen en
+collar' (vocablo quechua) 'red parecida al trasmallo, pero más grande' 'indio; nombre comúnmente usado por los mestizos latinos
+- - para referirse a los indígenas o a los campesinos'
+'pixbae, pifá, pijiguá; (chontaruro palma americana Pequeño Larousse)
+'petate (estera) hecho de corteza'
+'indígena de l a familia lingüística chocó; palabra emberá para "indio".
+'m. y f . alnado' (Pequeno Larousse); 'hijastro'
+'bollo; preparado de maíz molido, envuelto en hoja de
+b ijado'
+- 'conejo pintado' (roedor anfibio de América Pequeno
+Larousse) 'árbol de l a familia de las mimosáceas cuyo fruto es
+l a guama' (Pequeno Larousse) 'fleque, animal roedor' 'chunga; palma cuyo tronco está cubierto de espinas, y
+sus hojas se usan en cestería' (también güéguerre) 'grupo de indígenas que se encuentran en l a frontera
+colombo-pewana' 'especie de mazamorra de maíz' (Pequeno Larousse)
+- ver guatín
+'raíz tubércula parecida al name o a la papa, cuyo tallo es parecido a l platanillo'
+'manta, especie de falda de la mujer waunana' 'concha de mar, parecida a l a ostra pero más pequefia;
+también se l e llama "mansita"'
+- ver chontaduro
+'cuerda delgada usada para tejer redes' 'taza, jícara para el chocolate' (Pequeno Larousse)
+
+174
+Puya rozar toteane troza
+
+Lenguas de Panamá
+'instrumento cortante parecido al machete' 'limpiar una tierra de maleza' 'reventar' (Pequeflo Larousse) 'tronco aserrado para hacer tablas' (Pequeno Larousse)
+
+Gramática Waunana
+
+175
+
+D. Bibliografía.
+
+AraÚz, Reina Torres de. La Cultura Chocó (Estudio Etnológico e
+Histórico). Centro de investigaciones antropológicas, Universidad de Panamá, Panamá, 1966.
+
+AraÚz, Reina Torres de. Darién: Etnología de una Región Histórica.
+lnstituto Nacional de Cultura, Panamá, 1975.
+
+Arosemena, Marcia A. de. 'El rito mágico de la "Chicha Cantada" entre los Chocoes.' En Hombre y Cultura, Tomo 11,
+No. 3, Panamá, 1972.
+' Binder, Ronald y Kathleen. 'Fonología Waunana. En Lenguas de
+Panamá, Tomo 1, Panamá, 1974.
+
+Binder, Ronald. Thematic Linkage in Waunana Discourse. manuscrito no publicado.
+
+Binder, Ronald. Reglas para Escribir Woun Meu. manuscrito no pub1icado.
+' Dolrnatoff, Reichel Gerardo. Notas Etnográficas sobre l o s Indios del
+. Chocó.' En Revista Colombiana de Antropología,
+Vol. IX, Bogotá, 1961
+
+Faust W.,
+
+Norma. Gramática Cocama: Lecciones Para el Aprendizaie del Idioma Cocama. Serie Lingüística Peruana, No. 6, Instituto Lingüístico, Perú, 1972.
+
+García-Pelayo, Ramón y Gross. Pequeno Larousse Ilustrado. Ediciones Larousse, 8a. tirada, 1972.
+
+Levinsohn, Stephen H. Una Gramática Pedagógica del lnga (primera parte). lnstituto LingUístico, Ministerio de Gobierno, Colombia, 1974.
+
+Loewen, Jacob Abram. Waunana Grammar: A Descriptive Analysis. microfiche, Univenity of Washington, 1954.
+
+Wassén, Henry. 'Apuntes Etno-históricos Chocoanos.' En Hombre y
+Cultura, Tomo 1, No. 2. Universidad de Panamá,
+Panamá, 1963.
+
+Wass8n, Henry y Holmer, N i l s M. Estudios Chocoes. Etnografiska
+Museet. Gotemborg, 1963.
+
+[blank]
+
+l ntroducción
+
+3
+
+Notas del Editor
+
+5
+
+Contenido de las lecciones
+
+7
+
+Los sonidos del woun meu
+
+9
+
+Lecciones 1- 1 6
+
+13
+
+Apéndices
+
+- A. Vocabulario woun meu espafiol
+
+161
+
+.B Raíces verbales
+
+168
+
+C. Regionalisrnos
+
+1 73
+
+D . Bibliografía
+
+1 75
+
+Impreso en Panamá en la Editora de La Nación
+
+[inside back cover]
+
+[back cover]
+
+

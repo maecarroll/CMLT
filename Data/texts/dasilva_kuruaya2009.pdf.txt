@@ -1,0 +1,3396 @@
+Disponível para download em http://www.etnolinguistica.org/tese:silva-2009b
+
+UNIVERSIDADE FEDERAL DO PARÁ CENTRO DE LETRAS E ARTES
+CURSO DE MESTRADO EM LETRAS
+ELISSANDRA BARROS DA SILVA
+ESTRUTURAS FONÉTICAS E FONOLÓGICAS DE VOGAIS E CONSOANTES DA LÍNGUA KURUAYA
+Belém – PA 2009
+
+Dados Internacionais de Catalogação-na-Publicação (CIP) – Biblioteca do ILC/ UFPA-Belém-PA
+____________________________________________
+Silva, Elissandra Barros da
+Estruturas fonéticas e fonológicas de vogais e consoantes da língua Kuruaya. / Elissandra Barros da Silva; orientadora, Gessiane de Fátima Lobato Picanço. ---- 2009.
+Dissertação (Mestrado) – Universidade Federal do Pará, Centro de Letras e Artes, Curso de Mestrado em Letras, Belém, 2008.
+1. Índios da América do Sul – Brasil - línguas. 2. Índios línguas. 3. Língua Tupi-Guarani. I. Título.
+CDD-20.ed.498 ___________________________________________
+
+UNIVERSIDADE FEDERAL DO PARÁ CENTRO DE LETRAS E ARTES
+CURSO DE MESTRADO EM LETRAS
+ELISSANDRA BARROS DA SILVA
+ESTRUTURAS FONÉTICAS E FONOLÓGICAS DE VOGAIS E CONSOANTES DA LÍNGUA KURUAYA
+Dissertação submetida ao Curso de Mestrado em Letras, da Universidade Federal do Pará, como requisito parcial para obtenção do título de Mestre em Lingüística. Orientadora: Dra. Gessiane L. Picanço.
+Belém – PA 2009
+
+A Comissão Julgadora dos trabalhos de Defesa de Dissertação de Mestrado, em sessão pública realizada em 09 de março de 2009, considerou a candidata Elissandra Barros da Silva aprovada.
+____________________________________________________________ DRA. GESSIANE LOBATO PICANÇO – Presidente Universidade Federal do Pará
+____________________________________________________________ DENNIS ALBERT MOORE – Membro Museu Paraense Emílio Goeldi
+____________________________________________________________ MARÍLIA DE NAZARÉ FERREIRA - Membro Universidade Federal do Pará
+____________________________________________________________ CARMEN LÚCIA REIS RODRIGUES – Suplente Universidade Federal do Pará
+
+AGRADECIMENTOS
+A realização de um trabalho é sempre um conjunto de esforços, uma teia que se constrói em torno de um objetivo e cuja confecção envolve muitas pessoas. Embora não me seja possível nomear cada uma delas quero dizer-lhes que agradeço todo o apoio, incentivo, amizade e compreensão que me devotaram.
+Agradeço, sobretudo, ao povo Kuruaya, em especial aos meus informantes Maria Xipaia e Alberto Curuaia. Estas duas pessoas são, para mim, um exemplo de vida, resistência e luta. Agradeço à Maria Xipaia pelas longas tardes de conversas, histórias, cantigas e alegria. Saiba que seu riso espontâneo e sincero ecoará eternamente em minha mente. A Alberto Curuaia agradeço por ter compartilhado comigo sua trajetória de vida, recordações de batalhas e tristezas que me permitiram compreender que sofrimento e força podem coexistir com doçura, humildade e afeto. Não me esquecerei de sua franqueza e atenção, de seu sorriso contido e de nossas conversas, sempre regadas com o “Xingu” que tanto gostavas. Obrigada por terem compartilhado comigo sua língua, suas lembranças, suas vidas...
+Faltam-me as palavras para agradecer à minha família. Vocês foram e são meu esteio e minha força. Agradeço principalmente aos meus pais, que muitas vezes, mesmo sem entender minhas escolhas, oportunizaram que eu viesse a concretizá-las. Obrigada por vocês existirem!
+À alguém que há anos preenche minha vida e meu coração. Obrigada por ter ficado ao meu lado, sei que ainda temos muitos caminhos a trilhar!
+
+Agradeço a minha orientadora Gessiane Picanço pelo conhecimento compartilhado, profissionalismo, críticas, sugestões e desafios, além do exemplo, dedicação e, principalmente, paciência e compreensão nos momentos em que, por diversos motivos, faltavam-me forças para continuar. Meu muito obrigada também a professora Carmen Rodrigues por ter sido quem primeiro me possibilitou contato com os estudos de línguas indígenas e também pela sensibilidade e amizade.
+Agradeço a Dennis Moore e Sebastian Drude pelo apoio e generosidade, coisas que sempre buscamos, mas que poucos têm a capacidade de dar.
+Ao amigo e colega Almir Gomes, por tudo que você fez e faz. Nossa amizade independe dos rumos de nossas vidas, dos caminhos escolhidos e da distância, porque “nós nos merecemos”, lembra? Conto com você sempre!
+Aos amigos da Reserva Técnica de Lingüística do Museu Goeldi: Ana Carolina Alves, Antonia Fernanda Nogueira, Ellison Cleyton, Elizabeth Santos, Fernanda Oliveira, Geiva Picanço, Rosileide Gomes e Thiago Vital. Em muitos momentos vocês foram meu alento, mesmo quando os risos escondiam corações aflitos e mentes cansadas. Obrigada por terem me acompanhado nessa jornada!
+Aos professores do Mestrado em Lingüística da UFPA, principalmente à Abedelhak Razky, Eulália Toscano e Marília Ferreira pela dedicação e entusiasmo demonstrados. Aprendi muito com vocês!
+Aos meus amigos Alessandro Galvão, Ângela Fabíola e Marília Freitas pelos risos, desabafos, conversas na madrugada, apoio mútuo e amizade, que acredito sincera e duradoura. Vocês são o “bônus” que obtive nesse curso!
+
+Finalmente, agradeço o apoio financeiro da CAPES, através da bolsa a mim concedida; ao CNPq (processo 485570/2007-6) e ao CNPq/FAPESPA, que financiam os projetos “Estruturas Fonéticas e Fonológicas de Línguas Indígenas” e “Universais Fonéticos: Uma Investigação dos Sons de Sete Línguas Indígenas Brasileiras”, coordenados pela Dra. Gessiane Picanço e aos quais esta pesquisa está vinculada; ao Museu Paraense Emílio Goeldi, pelo apoio técnico, material e também financeiro; e a Universidade Federal do Pará – Campus de Altamira, pelo apoio logístico durante a pesquisa de campo.
+
+Ao povo Kuruaya, em especial, a Alberto Curuaia (in memorian) e
+Maria Xipaia.
+
+RESUMOː Neste trabalho apresentamos um dos poucos e, talvez, últimos registros feitos com falantes de uma língua quase extinta: a língua Kuruaya, família Mundurukú, tronco Tupi. Ele tem por objetivo apresentar uma análise da fonologia segmental da língua, com enfoque nas propriedades acústicas utilizadas para distinguir vogais e consoantes na língua. Há alguns trabalhos anteriores (Costa 1998; Picanço 2005; Mendes 2007) que também já abordaram a fonologia segmental do Kuruaya, mas este estudo difere dos outros em dois aspectos importantes. Primeiro, ele oferece uma análise das propriedades fonéticas desses segmentos fonológicos, estudo com o qual a língua ainda não contava. Segundo, as propostas anteriores apresentam várias divergências e lacunas com relação à composição e distribuição de segmentos vocálicos e consonantais. Essa discussão é retomada aqui, para a qual apresenta-se várias evidências fonéticas e fonológicas que ajudam a definir quais unidades segmentais são melhor interpretadas como contrastivas no inventário de Kuruaya, e quais seriam melhor analisadas como variantes alofônicas de outros segmentos.
+Palavras-chaveː Lingüística– Descrição de Línguas – Fonética Acústica – Fonologia
+
+ABSTRACTː This work presents one of the rare and, maybe, the last registers made with native speakers of an almost extinct language: Kuruaya language, Mundurukú linguistic family, Tupi stock. The objective is to present a segmental phonological analysis from the language, with emphasis in the acoustic approach to distinguish vowels and consonants from the language. There are early works (Costa 1998; Picanço 2005; Mendes 2007) which also already approached the segmental phonology of Kuruaya; however this study differs from others in two important aspects. First, it offers an analysis of the phonetic structures from the phonological segments, sort of study never done to this language. Secondly, the earlier works have many divergences and gaps regarding the composition and distribution of vowels and consonants. This particularly work presents several evidences of the phonetics and phonology that help to define which segments could be contrastive in the Kuruaya inventory , and which ones could be analyzed as allophones.
+Keywords: Linguistics – Description of languages - Acoustic Phonetics – Phonology.
+
+LISTA DE FIGURAS
+Figura 1.1 Mapa da área de localização histórica do povo Kuruaya........................26 Figura 1.2 Área regularizada da T.I. Kuruaya...........................................................27 Figura 2.1 Dispersão das vogais orais para (AK).....................................................61 Figura 2.2 Dispersão das vogais orais para (MX)....................................................62 Figura 2.3 Triângulo das vogais orais para (AK)......................................................66 Figura 2.4 Triângulo das vogais orais para (MX)......................................................67 Figura 2.5 Dispersão das vogais nasais para (AK)..................................................71 Figura 2.6 Dispersão das vogais nasais para (MX)..................................................72 Figura 2.7 Triângulo das vogais nasais para (AK)....................................................78 Figura 2.8 Triângulo das vogais nasais para (MX)...................................................79 Figura 2.9 Triângulo da dispersão das vogais orais e nasais para (AK)...................80 Figura 2.10 Triângulo da dispersão das vogais orais e nasais para (MX).................80 Figura 3.1 Forma em wav de [ipi], /ipi/ ‘chão, barro’..................................................89 Figura 3.2 Forma em wav de [ubi], /obi/ ‘boca’..........................................................89 Figura 3.3 Espectrograma de [putip̚ ], ‘peixe’.............................................................92 Figura 3.4 Espectrograma do segmento [atʃi], da palavra [apatʃi] ‘jacaré’.................94
+
+Figura 3.5 Espectrograma de [itʃip̚ ] ‘amargo, azedo’.................................................94 Figura 3.6 Espectrograma de [idʒikʼ], ‘lamparina, luz’...............................................95 Figura 3.7 Espectrograma de [titi], ‘rio’......................................................................96 Figura 3.8 Forma em wav de [idʒi], ‘veado’.............................................................101 Figura 3.9 Forma em wav de [kidʲap̚ ], ‘casa’...........................................................102 Figura 3.10 Forma em wav de [ɛdɔ], ‘ele comeu’....................................................104 Figura 3.11 Forma em wav de [ðadɛ], ‘porco’ – (AK)..............................................110 Figura 3.12 Forma em wav de [ðadɛ], porco’ – (MX)..............................................110 Figura 3.13 Forma em wav de [tɐ̃nẽ], rato’ – (AK)...................................................111 Figura 3.14 Forma em wav de [tɐ̃nẽ], rato’ – MX....................................................112 Figura 3.15 Espectograma da palavra [tĩŋ], fumaça’...............................................118 Figura 3.16 Espectrograma da palavra [kĩn], ‘beiju’................................................118 Figura 3.17 Espectrograma da palavra [itĩm], ‘bom, bonito’....................................119 Figura 3.18 Espectrograma da palavra [kusi], ‘babaçu’...........................................125 Figura 3.19 Espectrograma da palavra [iʃɛ], ‘banha’...............................................125 Figura 3.20 Espectrograma da palavra [ðaʃa], ‘fogo’...............................................126
+
+LISTA DE TABELAS
+Tabela 2.1 Média e D.P. das vogais orais do Kuruaya.............................................64 Tabela 2.2 Média e D.P. das vogais nasais do Kuruaya..........................................73 Tabela 2.3 Média e D.P. das vogais orais e nasais do Kuruaya para (AK)..............74 Tabela 2.4 Média e D.P. das vogais orais e nasais do Kuruaya para (MX).............76 Tabela 3.1 Inventário fonêmico das consoantes segundo Costa (1998)..................84 Tabela 3.2 Inventário fonêmico das consoantes segundo Picanço (2005)..............84 Tabela 3.3 Diferenças entre as análises de Costa (1998) e Picanço (2005)...........85 Tabela 3.4 Proposta defendida para o inventário fonêmico das consoantes do Kuruaya.................................................................................................................85 Tabela 3.5 Exemplos para o inventário das consoantes do Kuruaya postulado neste trabalho............................................................................................86 Tabela 3.6 Medidas da duração (em ms) das oclusivas surdas [p, t, k] e sonoras [b, d] em seqüências CVC........................................................................ 90 Tabela 3.7 Medidas da duração (em ms) da parte oclusiva e fricativa de [tʃ] na palavra [apatʃi], ‘jacaré’................................................................................97 Tabela 3.8 Medidas da duração de [ʃ] e [t] nas palavras [iʃɛp̚ ], ‘gordo’ e [putip̚ ], ‘peixe’...........................................................................................................97
+
+Tabela 3.9 Medições do tempo de fricção de [dʒ] e [dʲ] entre vogais......................103
+Tabela 3.10 Média e desvio padrão de F1, F2 e F3 para a vogal média anterior das palavras [ðadɛ], ‘porco’ e [tɐ̃nɛ]̃ ‘rato’ – (AK)........................................108
+Tabela 3.11 Média e desvio padrão de F1, F2 e F3 para a vogal média anterior das palavras [ðadɛ], ‘porco’ e [tɐ̃nɛ]̃ ‘rato’ – (MX).......................................108
+
+SUMÁRIO
+INTRODUÇÃO 0.0 Introdução.....................................................................................................15 0.1 Sobre os informantes e a coleta de dados....................................................16 0.2 Metodologia utilizada.....................................................................................19 0.3 Estrutura do trabalho.....................................................................................21
+CAPÍTULO I: O POVO E A LÍNGUA KURUAYA 1.0 Introdução......................................................................................................23 1.1. Sobre o povo Kuruaya...................................................................................23 1.2 A língua Kuruaya...........................................................................................29
+CAPÍTULO II: ESTRUTURA FONÉTICA E FONOLÓGICA DAS VOGAIS DO KURUAYA 2.0 Introdução.......................................................................................................33 2.1 Inventário vocálico do Kuruaya segundo Costa (1998) e Picanço (2005)........................................................................................................34 2.2 Qualidade vocálica..........................................................................................36 2.3 Distribuição das vogais....................................................................................42 2.3.1 Vogais Orais....................................................................................................42 2.3.1.1 Oposição entre os fonemas vocálicos orais do Kuruaya...............................49 2.3.2 Vogais Nasais..................................................................................................53 2.4 Análise acústica dos segmentos vocálicos do Kuruaya..................................57
+
+2.4.1 Materiais e métodos.........................................................................................59 2.4.2 Análise acústica das vogais orais do Kuruaya................................................60 2.4.2.1 Conclusões.....................................................................................................68 2.4.3 Análise acústica das vogais nasais do Kuruaya..............................................69 2.4.3.1 Conclusões....................................................................................................81
+
+CAPÍTULO III: ESTRUTURA FONÉTICA E FONOLÓGICA DAS CONSOANTES
+
+DO KURUAYA
+
+3.0 Introdução........................................................................................................83
+
+3.1 Inventário dos segmentos fonéticos consonantais do Kuruaya.......................87
+
+3.1.1 Oclusivas.........................................................................................................87
+
+3.1.1.1 Oclusivas surdas x sonoras............................................................................88
+
+3.1.1.2 Realização das consoantes oclusivas surdas...............................................91
+
+3.1.1.3 Realização das consoantes oclusivas sonoras.............................................98
+
+3.1.1.3.1 Um caso especial: /d/ diante de vogais orais........................................99
+
+3.1.1.3.2 Um caso especial: /d/ diante de vogais nasais...................................106
+
+3.1.2. Nasais............................................................................................................116
+
+3.1.2.1
+
+Um caso especialː /n/ em posição de coda.........................................121
+
+3.1.3. Fricativas........................................................................................................124
+
+3.1.4. Lateral............................................................................................................127
+
+3.1.5. Aproximantes.................................................................................................129
+
+3.1.6. Conclusões ...................................................................................................132
+
+CONSIDERAÇÕES FINAIS.....................................................................................144 REFERÊNCIAS BIBLIOGRÁFICAS .......................................................................145
+
+15
+INTRODUÇÃO
+0.0 Introdução
+Este estudo apresenta um dos poucos e, talvez, últimos registros feitos com falantes de uma língua quase extinta: a língua Kuruaya, família Mundurukú, tronco Tupi. Por ser uma língua que está desaparecendo torna-se mais importante, e urgente, sua documentação, tanto para futuros estudos lingüísticos como para a própria preservação da identidade do povo Kuruaya.
+Nosso trabalho tem por objetivo apresentar uma análise da fonologia segmental da língua, com enfoque nas propriedades acústicas utilizadas para distinguir vogais e consoantes em Kuruaya. Há alguns trabalhos anteriores (Costa 1998; Picanço 2005; Mendes 2007) que também já abordaram a fonologia segmental do Kuruaya, mas este estudo difere dos outros em dois aspectos importantes. Primeiro, ele oferece uma análise das propriedades fonéticas desses segmentos fonológicos, estudo com o qual a língua ainda não contava. Segundo, as propostas anteriores apresentam várias divergências e lacunas com relação à composição e distribuição de segmentos vocálicos e consonantais (vide capítulos II e III, respectivamente). Essa discussão é retomada aqui, para a qual apresenta-se várias evidências fonéticas e fonológicas que ajudam a definir quais unidades segmentais são melhor interpretadas como contrastivas no inventário de Kuruaya, e quais seriam melhor analisadas como variantes alofônicas de outros segmentos.
+
+16
+O restante desta dissertação está organizado da seguinte forma. No Capítulo I faremos um breve histórico do povo e daremos algumas informações acerca da classificação da língua. No capítulo II discutimos a estrutura fonética e fonológica das vogais da língua e apresentamos evidências para uma análise diferenciada daquela proposta por Costa (1998). O capítulo III é dedicado ao estudo da estrutura fonética e fonológica das consoantes, a partir do qual apresentamos os argumentos que nos levaram a postular um inventário para a língua composto por 17 segmentos consonantais. Na Conclusão ressaltamos os pontos mais relevantes de nossa análise e a importância desta para o conhecimento do Kuruaya e das línguas Tupi, de uma forma geral.
+0.1 Sobre os informantes e a coleta dos dados
+Os dados que apresento aqui foram coletados em duas etapas: (i) em Altamira, no mês de novembro de 2006, período em que coletei listas de palavras, sentenças e algumas poucas narrativas em Kuruaya, dados com os quais obtive uma visão geral da fonologia da língua; (ii) também em Altamira, no início de março de 2007, ocasião em que a coleta dos dados destinava-se à análise acústica de vogais e consoantes. Nessas duas ocasiões pude contar com o apoio de algumas instituições. São elas: a Capes, da qual fui bolsista; a Área de Lingüística do Museu Paraense Emílio Goeldi, que me forneceu todo o apoio financeiro e material para a viagem de campo; e a UFPA, campus de Altamira, cuja estrutura física me foi disponibilizada durante toda minha permanência naquele local.
+
+17
+É importante ressaltar que a coleta de dados deste trabalho se deu com informantes diferentes dos trabalhos anteriores, cujos autores trabalharam com Maria de Lurdes Curuaia e Paulo Curuaia. Nas duas ocasiões em que viajei à Altamira trabalhei com o casal Maria Xipaia e Alberto Curuaia, cujas origens são especificadas a seguir.
+Alberto Curuaia (AK) tinha, no período da coleta de dados, aproximadamente 85 anos. Ele é filho do primeiro casamento da índia kuruaya Karirá, que depois foi companheira de Paulo Curuaia, com quem passou a morar nas proximidades de Altamira. Paulo Curuaia foi um dos últimos falantes fluentes da língua Kuruaya, falecido em 2006.
+Alberto Curuaia relembra que saiu da aldeia com 8 ou 10 anos, período em que sua mãe foi residir nas proximidades da cidade de Altamira. A partir dessa época a língua usada no cotidiano passou a ser o português. Ele recorda que compreendia bem o que a mãe falava, mas que costumava responder em português, assim como seus irmãos. A convivência com a mãe durou até sua adolescência, mas o espaço de utilização da língua restringia-se às canções entoadas por ela, e às ordens que esta dava aos filhos em língua materna. Após a morte de sua mãe Karirá e o seu casamento com Maria Xipaia, Alberto Curuaia continuou a ter contato com o padrasto, Paulo Curuaia. As visitas que estes faziam entre si, bem como à Maria de Lurdes Curuaia e Emília Curuaia, também falantes do Kuruaya, passaram a ser o único espaço de utilização da língua.
+Nestas visitas Alberto Curuaia estava sempre acompanhado de sua esposa, Maria Xipaia (MX), em cujo registro de nascimento consta a data de 19 de abril de 1928, que ela mesma afirma tratar-se de uma data aproximada. Maria Xipaia é filha
+
+18
+de Kiripoko Curuaia e seu Bitata Xipaia. Ela é conhecedora de três línguas: o português, que adotou ao mudar-se para a cidade; o Xipaya, do qual é uma das últimas falantes; e o Kuruaya, que aprendeu com a mãe – que era Kuruaya – e também no convívio com outros índios kuruaya. Maria viveu na aldeia Xipaya até a juventude, período em que conviveu também com índios kuruaya e pode aprender um pouco da língua destes.
+Maria Xipaia e Alberto Curuaia se conheceram na cidade de Altamira, época em que os dois já tinham adotado o português como língua do cotidiano. Eles relatam que, apesar de ambos saberem o Kuruaya, não tinham o hábito de falar essa língua, mesmo entre si. Somente tempos depois, ao freqüentarem as residências de Paulo Curuaia, Maria de Lurdes Curuaia e Emília Curuaia, que falavam fluentemente a língua, é que o casal passou novamente a interessar-se pelo Kuruaya. Nesses encontros, lembra Alberto Curuaia, era possível compreender o que era dito pelos outros Kuruaya, mas a fluência geralmente era comprometida e, freqüentemente, Alberto Curuaia e Maria Xipaia recorriam ao português para referirem-se à coisas ou situações que não mais conseguiam expressar em Kuruaya.
+O casal possuía no início da pesquisa pouca fluência em Kuruaya, mas passaram a recordar mais e mais a língua. Isso ocorreu, em parte, pelo incentivo dado com nossa pesquisa, mas principalmente pelo interesse e o esforço pessoal tanto de Maria Xipaia quanto de Alberto Curuaia. Embora estes não tivessem fluência na língua, as palavras recordadas por Alberto Curuaia e Maria Xipaia indicam que não há diferenças extremas entre o Kuruaya falado por ambos e aquele utilizado por Maria Curuaia e Paulo Curuaia – falantes fluentes de Kuruaya – e
+
+19
+reportado nos trabalhos de Costa (1998), Picanço (2005) e Mendes (2008). Palavras como ‘peixe’, ‘melancia’ e ‘gente’ eram produzidas igualmente como [putip̚ ], [waraki] e [idʒip̚ ], tanto por Alberto Curuaia e Maria Xipaia quanto por Maria Curuaia e Paulo Curuaia.
+Entre as pequenas diferenças poderíamos relatar que Alberto Curuaia e Maria Xipaia produzem a fricativa [z] em alternância com a interdental [ð] e a lateral [l], como em ‘fogo’ [zaʃa] [ðaʃa] [laʃa], enquanto nos trabalhos com os dados de Paulo e Maria Curuaia, realizados por Costa (1998) e Picanço (2005), somente a alternância entre [ð] e [l] foi observada. Diferenças como essas, contudo, não diminui a importância desses informantes para a pesquisa sobre a língua, tanto que, desde 2006, quando coletei os primeiros dados em Altamira, foi notório o avanço deste casal no sentido de relembrar a língua, o que pode ser comprovado pelos pequenos diálogos em Kuruaya que os dois começam a estabelecer e pelas narrativas e canções em Kuruaya coletadas com os mesmos. Infelizmente, os avanços obtidos pelo casal foram interrompidos no dia 15 de junho de 2008, com o falecimento de Alberto Curuaia na cidade de Altamira.
+0.2 Metodologia utilizada
+A realização dessa dissertação compreende três momentos distintos: (i) leituras bibliográficas ii) coleta e transcrição dos dados (iii) análise dos dados e medições acústicas.
+Na pesquisa bibliográfica procuramos identificar os estudos realizados sobre o Kuruaya a fim de conhecer os aspectos lingüísticos já abordados. Estes estudos
+
+20
+são referidos ao longo de nosso trabalho, ora reforçando aspectos por nós observados; ora servindo como partida para o levantamento de discussões acerca de determinados fenômenos lingüísticos encontrados na língua, mas ainda não descritos anteriormente.
+A coleta de dados foi realizada em duas etapas: novembro de 2006 e março de 2007. Na primeira etapa foram utilizados dois questionários, com nomes de animais, plantas, partes do corpo, parentesco e verbos. A idéia era coletar a maior quantidade de termos possíveis, a fim de obter uma visão geral sobre a fonologia da língua. Esses dados foram transcritos foneticamente e separados em pares mínimos e/ou análogos, o que nos permitiu a identificação dos fonemas do Kuruaya, confirmando e/ou refutando as análises anteriores de Costa (1998), Picanço (2005) e Mendes (2008).
+A segunda etapa objetivou a coleta de dados para medições acústicas, mas as séries gravadas especificamente para esse fim foram perdidas durante o trabalho de campo. Por isso as medições aqui apresentadas são baseadas em palavras isoladas, retiradas das listas anteriormente gravadas, mas, sempre que possível, apresentam os sons sob análise no mesmo ambiente fonético. Selecionamos séries em que os fonemas vocálicos estavam localizados em sílabas fechadas do tipo CVC, sempre entre consoantes oclusivas, o que facilita a identificação das propriedades acústicas das vogais (ver detalhes no capítulo II). Como o Kuruaya possui sete qualidades vocálicas orais /i, ɨ, o, ɛ, ɔ, a/, cada vogal teve sua série repetida 20 vezes, obtendo-se um total de 280 repetições, sendo 140 com cada falante. O mesmo procedimento foi adotado para a verificação da série de vogais nasais.
+
+21
+Nas duas etapas as gravações foram feitas com gravador do tipo Hi-Md e microfone de cabeça unidirecional. Posteriormente os dados foram digitalizados com o auxilio do programa SonicStage, no qual convertemos os arquivos da amostras para o formato wav.
+As séries selecionadas foram analisadas acusticamente no programa Praat (www.praat.org), que nos permite obter a média dos dois primeiros formantes: F1 e F2, cujos números fazem referência a altura e posição da língua, respectivamente. Os valores e gráficos com os resultados dessas medições são apresentados no Capítulo II, quando tratamos das propriedades acústicas das vogais do Kuruaya.
+0.3 Estrutura do trabalho
+Essa dissertação, intitulada “Estruturas Fonéticas e Fonológicas das Vogais e Consoantes da Língua Kuruaya” é composta pela presente Introdução, cujo objetivo é apresentar as informações gerais sobre o povo e a língua Kuruaya, as especificidades dos informantes, a coleta de dados, a metodologia desenvolvida e a estrutura do trabalho.
+Os três capítulos seguintes constituem o corpo do trabalho, são eles: Capítulo I, que trata das informações históricas sobre o povo Kuruaya, apresenta a língua, sua classificação e os estudos já realizados sobre a mesma.
+No Capítulo II descrevemos os fonemas vocálicos da língua. Nele retomamos a discussão sobre o número de fonemas vocálicos do Kuruaya e apresentamos evidencias que apontam para a existência de seis qualidades vocálicas na língua, a
+
+22
+saber, /i, ɨ, o, ɛ, ɔ, a/. Também contrastamos vogais orais e nasais e apresentamos a dispersão acústica dessas vogais na língua.
+O Capítulo III trata da descrição das consoantes do Kuruaya. Partimos dos pontos divergentes entre as análises de Costa (1998) e Picanço (2005) sobre o inventário consonantal da língua para discutir questões relacionadas com a produção dos segmentos consonantais do Kuruaya. Assim, apresentamos uma revisão do inventário consonantal do Kuruaya, uma vez que propomos um número de fonemas consonantais que difere dos inventários anteriores. As justificativas para o inventário por nós proposto são apresentadas neste capítulo.
+No último capítulo, destinado às Considerações Finais do trabalho, discorremos acerca das conclusões obtidas a partir dos capítulos anteriores e também ressaltamos a importância de nosso trabalho para o conhecimento da língua Kuruaya e das línguas Tupi, de forma geral.
+Por fim, apresentamos nossas Referências Bibliográficas, sobre as quais se alicerçam as informações aqui contidas e que também podem servir como fonte de estudo para aqueles que se interessarem em conhecer um pouco mais sobre a língua Kuruaya e/ou aprofundar-se nos estudos sobre a descrição de línguas indígenas.
+
+23
+CAPÍTULO I
+O POVO E A LÍNGUA KURUAYA
+1.0 Introdução Este capítulo aborda a história do povo Kuruaya desde os primeiros contatos,
+registrados por viajantes e pesquisadores que encontraram esse povo às margens dos rios Iriri e Curuá. Após descrevermos um pouco a história desse povo trataremos da língua Kuruaya, apresentando os trabalhos já realizados sobre esta. O objetivo é mostrar o que já foi estudado sobre a língua e ressaltar a necessidade de novos estudos sobre a mesma.
+1.1 Sobre o povo Kuruaya Os Kuruaya são citados pela primeira vez, segundo Nimuendajú (1948), entre
+1682 e 1685, época em que Gonçalves Paes de Araújo, que viveu junto com estes índios, chegou ao Xingu com alguns portugueses indo em direção às terras dos Jurunas.
+Nimuendajú (1948) relata que em 1750 o padre jesuíta de origem alemã, Roque Hunderfund, navegou o baixo rio Xingu, passando por missões já existentes
+
+24
+naquele trecho, como Vieiros e Souzel Velho. Nesse trajeto o Padre descreveu o contato que teve com índios Xipaya e Kuruaya.
+Um relatório sobre a situação precária vivida pelos índios na região do Xingu, entre eles os Kuruaya, feito em 1863 por Francisco Araújo Brusque, então presidente da Província do Grão-Pará, é citado por Nimuendajú (1948), assim como um ataque empreendido pelos Kuruaya contra seringueiros no rio Jamanchim, e também ataques que índios Kayapó e Mundurukú realizaram em 1885 contra índios Kuruaya.
+Apesar dos ataques históricos empreendidos pelos índios Mundurukú aos Kuruaya, estes são citados por Nimuendajú (1930) como os “Mundurukú do Xingu”, em uma referência as semelhanças entre esses dois povos. Costa (1998) relata que os próprios índios Kuruaya afirmam que eles e os Mundurukú já formaram um único povo, que falava a mesma língua. Patrício (2000, p. 50) coletou em entrevista com um índio Kuruaya a seguinte declaração: “Parte dos Mundurucu atravessou o Jamanchim e se instalou no Curuá (...) os Mundurucu são o mesmo Curuaia, mudaram o nome devido o rio Cururu, Mundurucu, igual a nós por causa do rio Curuá, é a mesma língua”. Também em nossa pesquisa ouvimos Alberto Curuaia relatar o parentesco próximo com os Mundurukú. Entretanto, apesar de tais relatos indicarem uma origem comum desses dois povos, hoje as diferenças entre o povo Mundurukú e o Kuruaya vão desde aspectos culturais até a própria língua.
+Patrício (2000) afirma que Karl von Steinen (1942) na expedição exploratória do Xingu, em 1841; Príncipe Adalbert da Prússia (1977), na expedição de 1849; e Henry Coudreau (1977) na expedição exploratória do rio Tapajós em 1895 – 1896, mencionam os Kuruaya dentre as etnias que viviam entre os rios Xingu e Tapajós.
+
+25
+A pesquisadora Emília Snethlage (1910a, 1910b), então ligada ao Museu Paraense Emílio Goeldi, foi guia de uma expedição exploratória nos rios Xingu e Tapajós, época em que teve contato com índios Xipaya e Kuruaya. Mais tarde, em 1913, ao retornar ao local, fez novamente contato com os Xipaya e Kuruaya (Snethlage, 1930). Já Nimudenjú (1930) informa que, no período compreendido entre 1916 e 1919, quando realizou trabalhos de campo nos rios Xingu, Iriri e Curuá, os índios Kuruaya viviam no baixo e médio Xingu, ao lado dos Xipaya e Juruna.
+Entre as décadas de 40, 50 e 60 pouco se teve notícia dos índios Kuruaya. Em um trabalho que descreve a situação dos índios brasileiros no século XX, formulado por antropólogos como Gertrude Dole, Darcy Ribeiro e Kietzman (1967), os Kuruaya integram a lista de povos extintos, ao lado de outras etnias como Xipaya e Amanayé, que mais tarde vão ressurgir e reivindicar seus direitos como índios.
+Contudo, fontes históricas como Nimuendajú (1930, 1948) e Snethlage (1910a, 1910b) indicam que os Kuruaya, historicamente, sempre viveram na região em que se localizam hoje. As migrações ocorriam devido aos constantes conflitos, mas eram sempre empreendidas na área próxima aos rios Iriri e Curuá, como demonstra a área demarcada pelo quadrado no mapa abaixo.
+
+26 Figura 1.1: Mapa da área de localização histórica do povo Kuruaya
+Fonte: Patrício (2000) A terra indígena Kuruaya passou pelo processo de identificação em 1985. O
+parecer nº 067 e a portaria nº 550/92 indicam que a essa terra possui 19.450 hectares e fica localizada na margem direita do rio Curuá, subafluente da bacia do Xingu, próxima da Reserva Indígena do Xingu, onde vivem várias etnias indígenas. Recentemente, o Instituto de Terras do Pará (ITERPA) elaborou a cartografia da Terra Indígena Kuraya, cujas dimensões e limites podem ser visualizados no mapa seguinte.
+
+Figura 1.2: Área regularizada da T.I. Kuruaya
+
+27
+LEGENDA: Limite Municipal Hidrografia T.I. Kuruaya (regularizada)
+
+Fonte: Base Cartográfica da FUNAI – Altamira (2008)
+Parte dos Kuruaya vivem aldeados na área regularizada acima. Nela está localizada a aldeia Cajueiro, onde vivem, segundo a FUNAI – Regional de Altamira – aproximadamente 180 índios Kuruaya, destes a maioria crianças.
+Parte dos Kuruaya que vivem hoje aldeados na aldeia Cajueiro moravam na cidade de Altamira; outros moravam com os índios Munduruku, com os quais mantêm parentesco próximo; ou com os Kamayurá, cujas terras são próximas dos rios Iriri e Curuá, região historicamente habitada pelos Kuruaya.
+Embora muitos índios Kuruaya tenham ido morar na reserva é na cidade de Altamira que encontramos o maior número de Kuruaya, aproximadamente 12 famílias, constituídas pela união de Kuruaya com Xipaya, Juruna e não-índios. Os
+
+28
+Kuruaya residentes na cidade estabelecem contato freqüente com os Kuruaya que vivem na aldeia, sendo constantemente visitados por estes e, em menor proporção, costumam visitar os “parentes” na reserva. Os índios da cidade são chamados de “citadinos”, cuja definição é dada por Patrício (2000, p. 02):
+O índio citadino é o indivíduo que não mais vive na aldeia ou nunca viveu, e mora na cidade onde a organização social difere do aldeado. Seu território na cidade pode corresponder ao bairro ou ainda apenas a um pequeno espaço, onde têm como vizinhos familiares e outros indivíduos não-indígenas. Na cidade nem sempre é possível reeditar sua cultura com a freqüência em que se faz na aldeia, devido à descontinuidade territorial. Esses indivíduos vivem e trabalham na cidade desenvolvendo atividades diversas, não tendo quase nenhuma diferença em relação ao restante da população. Apesar disso, mantém sua identidade e pontos de ligação com seus locais de origem, neste caso, as aldeias.
+Os Kuruaya da cidade enquadram-se perfeitamente na definição de Patrício para índios citadinos. Os mais velhos são “índios puros”, forma usada por eles para se referir àqueles que não possuem “mistura”, ou seja, não são fruto do casamento de índios com não-índios. Os mais jovens são fruto do relacionamento de índios Kuruaya com Xipaya ou não-índios, e estão totalmente inseridos no cotidiano da cidade. Muitos filhos e netos de Kuruaya e Xipaya deixaram de ser registrados com o sobrenome indígena – escolha dos próprios índios – como uma forma de evitar o preconceito por parte dos não-índios. Esta atitude agravou a perda da identidade indígena desses povos.
+Contudo, recentemente, um movimento inverso começou a ser percebido na Regional de Altamira: o registro maior de crianças com o sobrenome Kuruaya. Alguns fatores contribuíram para essa mudança, entre os quais: a necessidade dos
+
+29
+índios citadinos de serem reconhecidos e terem os mesmos direitos que os índios aldeados; os programas governamentais nas áreas de saúde e educação destinados exclusivamente aos índios e seus comprovados descendentes; a valorização do grupo e das tradições indígenas pelos próprios índios.
+
+1.2 A língua Kuruaya
+O Kuruaya, juntamente com o Mundurukú, forma a família Mundurukú, classificada por Nimuendajú (1948) e Rodrigues (1958a, 1958b) como pertencente ao tronco Tupi. O organograma abaixo, baseado na proposta de Rodrigues (1958a), mostra o tronco Tupi, suas respectivas famílias e a localização da língua Kuruaya.
+
+Tupi
+
+Tupi- Arikém Gurani
+
+Aweti
+
+Juruna
+
+Mawé
+
+Mondé Puroborá Munduruku Ramarama Tupari
+
+Kuruaya Munduruku
+
+Demonstrando os avanços na descrição de diversas línguas indígenas, novas pesquisas apontam para diferentes sub-divisões dentro do tronco Tupi. Drude e Meira (cf. Drude, 2006 e no prelo) mostram evidências que corroboram a existência de um ramo do Tupi que Drude e Meira chamam de "Mawetí-Guarani". Este compreende as famílias Tupi-Gurani, Awetí e Sateré-Mawé e já foi sugerido anteriormente por Rodrigues (cf. Rodrigues, 1984/85 e Rodrigues e Dietrich, 1997). O trabalho de Meira e Drude aponta para um agrupamento interno destas três
+
+30
+famílias dentro do ramo "Mawetí-Guaraní". Estudos de Galúcio e Gabas Jr. (2002) também destacam evidências do agrupamento genético entre duas famílias do tronco Tupi: Ramarama e Puruborá.
+Os primeiros trabalhos publicados sobre a língua Kuruaya são das décadas de 20 e 30 e constituem-se do estudo de Nimuendajú, composto por um vocabulário e algumas frases, em que este afirma que o Kuruaya seria o “Mundurukú do Xingu”, referindo-se à proximidade entre essas duas línguas. Há também as listas de Snethlage (1910a e 1921), constituídas por vocabulários e anotações sobre a cultura material deste povo.
+Em 1995, Almeida e Silva realizaram o trabalho de conclusão de curso intitulado “Os índios Kuruaya”, ao qual não tivemos acesso. Em nossa pesquisa bibliográfica identificamos uma dissertação de mestrado elaborada por Costa (1998), cujo título é “Fonologia da Língua Kuruaya”. O trabalho apresenta uma visão geral sobre a fonologia da língua, baseada na fonêmica clássica que descreve os fonemas da língua a partir de uma perspectiva articulatória. A dissertação trata das vogais e consoantes do Kuruaya, nela o autor também discute os padrões silábicos da língua e faz algumas considerações sobre a morfofonologia, tom e acento, sem, no entanto, aprofundar-se nesses aspectos.
+Há também dois trabalhos de conclusão de curso cujo enfoque é a comparação entre as línguas Mundurukú e Kuruaya, todos na Universidade Federal do Pará. O primeiro, de Moraes (1999), denomina-se “Comparação entre as línguas da família Mundurukú: Mundurukú e Kuruaya”, o segundo foi elaborado por Santos (2002) e é intitulado “Estudo Comparativo entre as línguas Mundurukú e Kuruaya”.
+
+31
+Patrício apresentou ao Departamento de Antropologia da Universidade Federal do Pará, em 2000, sua dissertação de mestrado intitulada “Índios de verdade: O caso dos Xipaia e Kuruaia em Altamira-PA”. Este trabalho trata das etnias Xipaya e Kuruaya, enfocando os índios citadinos. Nele é apresentada uma análise do processo de migração pelo qual passaram tais etnias, além de ser reconstruída a Etno-história desses índios, sua organização social e identidades étnicas no contexto atual. Ele traz importantes relatos de índios como Paulo Curuaia e Maria de Lurdes Curuaia, ambos falecidos em 2006.
+Em 2002 Costa publicou um artigo na Revista Moara intitulado “Fonologia Segmental da Língua Kuruaya” em que apresenta uma análise dos fonemas consonantais diferente daquela proposta por ele em sua dissertação (1998), como veremos no Capítulo III.
+No ano de 2005, Picanço defendeu a tese “Mundurukú: Phonetics, Phonology, Synchrony, Diachrony”. Nela a autora discorre sobre aspectos da fonologia Kuruaya, comparando-os com o Mundurukú. Outra comparação foi feita por Mendes (2007) em sua dissertação de mestrado, cujo título é “Comparação Fonológica do Kuruaya com o Mundurukú”, defendida no Instituto de Letras da Universidade de Brasília. Neste trabalho, que segue o método histórico-comparativo, o autor compara as consoantes, vogais e padrões silábicos do Mundurukú e Kuruaya. Vários aspectos propostos por esse autor para Kuruaya são também contestados aqui.
+Apesar dos trabalhos realizados, o Kuruaya é uma língua altamente ameaçada. Durante nosso trabalho identificamos apenas três falantes conhecidos da língua: Alberto Curuaia (Nãj), Maria Xipaia e Emília Curuaia (Kirinanpãn). Os dois primeiros são o casal informante de nossa pesquisa, cujas especificidades foram
+
+32
+descritas na introdução desse trabalho, o terceiro é Emília Curuaia, que já se encontrava bastante debilitada quando iniciamos nossa pesquisa, o que impossibilitou a coleta de dados com a mesma. Até 2006 eram cinco os falantes do Kuruaya, mas Paulo Curuaia e Maria de Lurdes Curuaia (Payá) faleceram naquele ano, enquanto Emília Curuaia faleceu no início de 2008. Alberto Curuaia, cujos dados foram fundamentais para esse trabalho, faleceu na etapa final de nossa pesquisa, em junho de 2008. Maria Xipaia continua residindo em Altamira, mas ficou muito abatida com o falecimento de seu companheiro e não tem demonstrado interesse em continuar os trabalhos com a língua Kuruaya.
+
+33
+CAPÍTULO II
+ESTRUTURA FONÉTICA E FONOLÓGICA DAS VOGAIS DO KURUAYA
+2.0 Introdução Os sistemas vocálicos das línguas do mundo podem variar em quantidade e
+qualidade de vogais. Maddieson (1984) informa que a partir dos dados do Phonological Segment Inventory Database (UPSID) - banco de dados com informações sobre os inventários de 317 línguas, e que tem sido usado para investigar hipóteses e tendências universais das línguas do mundo – é possível fazer generalizações sobre o conteúdo e a estrutura de inventários fonológicos de diferentes línguas. Tendo como base o UPSID, Maddieson (1984, p.126) afirma que o menor número de vogais por língua é três, sendo que apenas 5,7% das línguas possuem esse inventário mínimo, como Mura, Gugu-Yalanji e Alabama.
+No outro extremo temos aproximadamente 4,1% das línguas com um inventário máximo de vinte e quatro vogais, entre as quais estão o Hunzib e o Khmer. O sistema composto por cinco vogais é mais freqüente nas línguas, estando presente em 21,5% destas. Quanto à qualidade, o sistema mais freqüente é aquele composto por cinco qualidades de vogais, ocorrendo em 30,9% das línguas. Conforme dados do UPSID, em uma língua com cinco vogais geralmente estão
+
+34
+presentes /a, ɛ, i, ɔ, u/, o que ocorre em um quarto das línguas descritas no banco de dados. Maddieson (1984, p.128) destaca que duas em três línguas do mundo têm de 5 a 7 qualidades vocálicas, seguido daquelas que distinguem 10 qualidades de vogais.
+Em termos numéricos, a língua Kuruaya possui um sistema de dez vogais: seis vogais orais, /i, ɛ, ɨ, a, o, ɔ/, e quatro nasais, / ĩ, ɛ,̃ ã, õ/. Com relação à qualidade vocálica, a língua distingue somente seis qualidades: [i, ɛ, a, ɨ, o, ɔ].
+Nosso objetivo nesse capítulo é descrever o sistema fonológico das vogais do Kuruaya sob um ponto de vista fonético. Primeiro consideraremos brevemente os estudos já realizados sobre a fonologia da língua, mais especificamente Costa (1998) e Picanço (2005), e o que estes propõem para o inventário de vogais do Kuruaya. Em seguida, apresentaremos uma análise acústica das vogais, cujos resultados são confrontados com essas propostas.
+2.1 Inventário vocálico do Kuruaya segundo Costa (1998) e Picanço (2005)
+O estudo de Costa (1998) sugere um inventário fonêmico para o Kuruaya composto por cinco vogais orais e quatro nasais, conforme exposto em (01).
+
+35
+
+(01)
+
+Inventário fonêmico do Kuruaya segundo Costa (1998)
+
+a. Vogais
+
+Anteriores Centrais Posteriores
+
+Altas
+
+iĩ
+
+ɨ
+
+Médias
+
+eẽ
+
+oõ
+
+Baixas
+
+aã
+
+Já a proposta de Picanço (2005) apresenta um inventário fonêmico formado por seis vogais orais e quatro nasais, como em (02).
+
+(02)
+
+Inventário fonêmico do Kuruaya segundo Picanço (2005)
+
+a. Vogais
+
+Anteriores Centrais Posteriores
+
+Altas
+
+iĩ
+
+ɨ
+
+oõ
+
+Médias
+
+eẽ
+
+ɔ
+
+Baixas
+
+aã
+
+A diferença entre as duas propostas é o acréscimo que Picanço (2005) faz do fonema /ɔ/ ao inventário das vogais orais do Kuruaya. Segundo Costa (1998, p. 24)
+
+36
+“(...) dentre as realizações fonéticas da média posterior, [o] ocorre em flutuação com [u], o alofone [ɔ] ocorre em sílaba tônica e em pretônica se na tônica ocorrer [ɔ].”
+As duas análises também se distinguem quanto à representação da vogal média anterior. Costa (1998, p. 24) considera como fonema a vogal média alta /e/, explicando que esta varia livremente entre [e] e [ɛ] em sílaba átona, enquanto em sílaba tônica somente [ɛ] ocorre; Picanço (2005) considera fonema a vogal média baixa /ɛ/. A qualidade das vogais da língua Kuruaya é demonstrada abaixo.
+
+2.2 Qualidade vocálica
+
+As qualidades vocálicas defendidas neste trabalho para o Kuruaya são seis, representadas abaixo acompanhadas de exemplos da língua.
+
+(03)
+
+/i/
+
+[i]
+
+/takip/ /odipi/ /waraki/
+
+‘quente’ ‘avó’
+‘melancia’
+
+(04)
+
+/ɛ/
+
+[ɛ]
+
+/ɛtʃɛtɛk/ /korapɛpɛ/
+/bokɛ/
+
+‘puxar’ ‘facão’ ‘3. pes. (ele, dele)’
+
+(05)
+
+/ɨ/
+
+[ɨ]
+
+/ɛliptɨp/ /opɨ/
+/oʃɛdikɨ/
+
+‘folha de tabaco’ ‘coluna’
+‘sonolento’
+
+(06)
+
+/a/
+
+[a]
+
+(07)
+
+/o/
+
+[o]
+
+(08)
+
+/ɔ/
+
+[ɔ]
+
+/ɛkap/ /toropa/ /adõka/
+/ɛkop/ /ɛtʃɛpo/ /lɛko/
+/ibɛpɔt/ /itɔtɔ/ /darakɔ/
+
+37
+‘passar’ ‘bacuri’ ‘roça’
+‘descer’ ‘vai deitar’ ‘macaco cuaba’
+‘filhote’ ‘enrugado’ ‘saracura’
+
+A proposta a seguir é semelhante àquela apresentada em Picanço (2005), que trata as vogais [o] e [ɔ] como contrastivas. Assim, considerando o número total, identificamos dez fonemas vocálicos – seis vogais orais / i, ɨ, o, ɛ, ɔ, a/ e quatro nasais / ĩ, õ, ɛ,̃ ã / – , conforme demonstrado em (09). Observe em (09.a) que a vogal média /o/ é tratada, fonologicamente, como uma vogal alta posterior. A opção pela classificação de /o/ como uma vogal alta posterior e não como uma média posterior, como fez Costa (1998, p. 24), é discutida em detalhes na seção 2.3.2, quando tratarmos da dispersão das vogais orais da língua.
+
+38
+
+(09)
+
+Proposta adotada neste trabalho para as vogais da língua Kuruaya
+
+a. Vogais orais
+
+Anteriores Centrais Posteriores
+
+Altas
+
+i
+
+ɨ
+
+o
+
+Médias
+
+ɛ
+
+ɔ
+
+Baixas
+
+a
+
+b. Vogais nasais
+
+Anteriores Centrais Posteriores
+
+Altas
+
+ĩ
+
+õ
+
+Médias
+
+ɛ̃
+
+Baixas
+
+ã
+
+A língua Kuruaya possui um sistema bastante simétrico sob o ponto de vista do Princípio da Dispersão Vocálica proposto por Liljencrants e Lindblom (1972). Os autores explicam que há uma tendência natural nas línguas do mundo, quando se trata de vogais, destas se dispersarem de maneira uniforme e com máxima distinção. Isso significa que o espaço acústico das vogais é preenchido
+
+39
+
+primeiramente nos seus pontos mais extremos, ou seja, formando-se um sistema triangular /i/, /a/ e /u/, para só então ser preenchido nas posições intermediárias; assim, se a língua possuir cinco fonemas vocálicos, tenderá a preencher os espaços intermediários com vogais médias como / e /, / ɛ /, / o /, / ɔ /.
+
+No exemplo (10) temos um típico sistema triangular, formado por três vogais /i, u, a/ que ocupam os pontos máximos do espaço acústico. No exemplo (11) temos um sistema composto por cinco vogais, o qual inclui o sistema triangular do exemplo anterior mais as vogais médias / ɛ / e / ɔ /.
+
+(10)
+
+(11)
+
+i
+
+u
+
+i
+
+u
+
+ɛ
+
+ɔ
+
+a
+
+a
+
+Se considerarmos a proposta de Costa (1998), o sistema fonêmico do Kuruaya teria uma dispersão como a apresentada em (12) abaixo. Nesse caso, a região medial estaria equilibrada com a oposição entre as médias anterior /e/ e posterior /o/, mas haveria uma lacuna no sistema da língua referente ao local de realização da vogal alta posterior, representada pelo quadrado em (12). Isso porque Costa considera somente cinco fonemas vocálicos. Já na proposta apresentada aqui, defende-se a inclusão de “ɔ” como fonema, conforme já havia sido observado em Picanço (2005; vide também seção 2.3.1 para evidências em favor dessa análise). Isso também permite analisar o Kuruaya como um sistema que segue a
+
+40
+
+tendência trans-lingüística de dispersão máxima das vogais, apresentando um equilíbrio tanto na região alta, na qual “i” se opõe a “o”, quanto na medial, onde “ɛ” se opõe a “ɔ”. A análise acústica das vogais da língua também demonstra que a dispersão das vogais orais do Kuruaya tende à produção da vogal /o/ em uma altura mais elevada; isso será tratado mais adiante na seção 2.4.2.
+
+(12) Proposta de Costa (1998)
+
+i
+
+ɨ
+
+e
+
+o
+
+a
+
+(13) Proposta deste trabalho
+
+i
+
+ɨ
+
+o
+
+ɛ
+
+ɔ
+
+a
+
+A proposta que defendemos aqui é a apresentada em (13), comprovada também através da análise acústica. Nela o sistema vocálico da língua aparece equilibrado, com uma correspondência simétrica entre vogais anteriores e posteriores. Assim, se na região alta percebemos a oposição entre /i/ e /o/, na região medial do sistema fonêmico das vogais do Kuruaya há oposição entre a média anterior /ɛ/ e a posterior /ɔ/.
+Costa (1998, p.24) classifica a vogal /e/ como média, opondo-se à vogal posterior /o/. O autor explica que em Kuruaya a vogal média /e/ varia livremente entre [e] e [ɛ] em sílaba átona, enquanto em sílaba tônica somente [ɛ] ocorre. Picanço (2005) também identificou a alternância entre [e] e [ɛ], mas não especifica os contextos de tal variação, acrescentando que não há em Kuruaya evidências para a distinção entre [e] e [ɛ]. Na dispersão acústica das vogais, que apresentaremos em
+
+41
+
+2.3, [ɛ] aparece opondo-se à [ɔ]. A distribuição de [ɛ] nos diferentes padrões silábicos da língua, sua maior freqüência e também a oposição de [ɛ] à [ɔ] no sistema fonêmico do Kuruaya foram os fatores que nos levaram a marcar como fonema a vogal média /ɛ/.
+
+Com relação às vogais nasais, demonstradas em (9b) acima e retomadas em (15), observa-se que a língua Kuruaya não apresenta oposição oral x nasal para todas as vogais, conforme descrito por Costa (1998), Picanço (2005) e constatado em nossa pesquisa.
+
+(14) Vogais orais
+
+/i/
+
+/ɨ/
+
+/o/
+
+/ɛ/
+
+/ɔ/
+
+/a/
+
+(15) Vogais nasais
+
+/ĩ/
+
+/õ/
+
+/ɛ/̃ /ã/
+
+A série de vogais nasais do Kuruaya, em (15), é menor que a das vogais orais, no que se verifica novamente que o Kuruaya segue os padrões translingüísticos. O fato do número de vogais nasais ser menor do que o de orais é algo comum nas línguas do mundo. Maddieson (1984) ressalta que nos inventários fonológicos das vogais o número de nasais é sempre menor ou igual ao de orais, mas nunca maior. Uma explicação para esse fato seria a de que as vogais nasais, do ponto de vista diacrônico, teriam surgido a partir do ambiente de vogais orais em contexto nasal (RUHLEN, 1975; WRIGHT 1986 apud MAEDA 1993). Maddieson (1984, p. 127) também afirmar ser a nasalidade a característica secundária de maior
+
+42
+ocorrência das vogais, uma vez que, uma em cada cinco línguas apresenta esse tipo de marca.
+2.3 Distribuição das vogais
+2.3.1 Vogais Orais
+De acordo com Ladefoged (1982), articulatoriamente, as vogais orais são produzidas com o palato mole levantado, o ar passando somente pela cavidade oral. Conforme a altura da língua, podemos classificar as vogais em altas, médias e baixas. Embora vogais altas como [i], [ɨ] e [u] apresentem variação de altura, elas são sempre produzidas com o dorso da língua em uma posição mais elevada, próxima ao palato. Já nas médias, como [ɛ] e [ɔ] há um abaixamento do corpo da língua; e nas baixas, como [a], a língua encontra-se em posição de repouso. As vogais também podem ser descritas como anteriores, centrais ou posteriores, de acordo com a posição da língua, se mais avançada ou recuada em direção a parte frontal da boca. Além disso, o arredondamento dos lábios também é relevante para a caracterização das vogais, que podem ser classificadas em arredondadas, como [o] e [u] e não arredondas como [ɛ] e [i].
+Para a fonologia, esses segmentos, se contrastivos, podem ser analisados através de traços distintivos, conforme Chomsky e Halle (1968). No caso das vogais esses traços referem-se, do ponto de vista articulatório, aos movimentos nas dimensões horizontal e vertical do articulador dorso da língua e ao arredondamento dos lábios, e compreendem duas possibilidades (ou seja, trata-se de um sistema binário), que podem ser representadas pelos sinais + (mais) ou – (menos). Com
+
+43
+base nisso, os traços relevantes para distinguir as vogais do Kuruaya são apresentados em (16). Esses traços fazem referência à altura [±alto], [± baixo] e posição [± posterior] da língua, bem como ao arredondamento dos lábios [± arredondado]. A opção pela distribuição dos traços apresentada abaixo é baseada nos estudos de Kenstowicz (1993), que classifica as vogais “ɨ” e “a” como + posterior e – arredondada. Além disso, consideramos também a divisão apresentada por Picanço (2005, p.23) para o Mundurukú, língua próxima ao Kuruaya, em que a autora atribui os traços + posterior e – arredondado a vogal “a”. Nesse sentido, as seis vogais da língua Kuruaya – as altas, anterior /i/, central /ɨ / e posterior / o /; as médias, anterior / ɛ / e posterior /ɔ/; e a baixa central /a/ – apresentam os seguintes traços constitutivos.
+
+(16) Traços das vogais em Kuruaya
+
++ alta - alta
+
+- posterior
+i ɛ
+
++ posterior
+
+- arredondada ɨ
+
++ arredondada o
+
+a
+
+ɔ
+
+Quanto à distribuição das vogais orais, a vogal baixa /a/ e as altas /i/ e /ɨ/ apresentam apenas um fone [a, i, ɨ], respectivamente, que podem formar sílaba isoladamente (17), (20) ou com consoante (18), (19), (21), (22), (23), (24), (25), sempre ocupando a posição de núcleo de sílaba.
+
+44
+
+• /a/
+
+[a] (17) (18) (19)
+
+[akip] [haj] [marɛw]
+
+/akip/ /aj/ /marɛo/
+
+‘piolho’ ‘preguiça’ ‘morcego’
+
+• /i/
+
+[i] (20) (21) (22)
+
+[ihi] [putip̚ ] [mapiri]
+
+/ ihi / /potip/ /mapiri/
+
+‘macaco da noite’ ‘peixe’ ‘piranha’
+
+• /ɨ/
+
+[ɨ] (23) (24) (25)
+
+[pɨj] [ɛñ ɐ̃pɨrik̚̚ ] [pɨt]
+
+/ pɨj / /ɛdãpɨrik/ /pɨt/
+
+‘cobra’ ‘moquear’ ‘longe’
+
+A vogal média anterior /ɛ/ pode ser realizada como [e] ou [ɛ] nos mais variados ambientes. Assim, na palavra ‘passar’ teríamos as seguintes possibilidades quanto à pronúncia da vogal média anterior: [ɛkap̚ ] ~ [ekap̚ ]. Apesar da possibilidade de alternância entre [e] e [ɛ] observamos que na fala espontânea os informantes
+
+45
+dessa pesquisa tendiam a pronunciar com mais freqüência a forma [ɛ], embora sempre aludissem à possibilidade do emprego da outra variante. Somente diante do glide /j/ a alternância entre essas duas formas não era possível, sendo utilizada somente a variante [e]. Em (26) sistematizamos a ocorrência de [e] diante do glide e em (27) nos demais ambientes.
+
+(26) / ɛ / (27) / ɛ /
+
+[e] / __ [ j ] [ɛ ~ e] / n.d.a.
+
+[wej]
+
+/wɛj/
+
+[ɛtʃejo] ~ [etʃejo] /ɛtʃɛjo/
+
+‘perna ‘bebe’
+
+Na região posterior o Kuruaya possui duas vogais: a média /ɔ/ e a alta /o/. A vogal /o/ pode ser realizada livremente como [o] ou [u], como demonstrado nos dados (28), em que as vogais [o] e [u] alternam-se em início de palavra. Nesse contexto vale ressaltar que embora seja possível e aceitável pelos falantes o emprego do [o] no início da palavra, estes tendem a utilizar a forma [u].
+
+(28) / o /
+
+[o ~ u]
+
+[utaðap̚ ] ~ [otaðap̚ ]
+
+/otalap/
+
+‘sobrancelha’
+
+[uba] ~ [oba]
+
+/oba/
+
+‘braço’
+
+Em (29) temos exemplos de alternância livre entre [o] e [u] em outros contextos.
+
+46
+
+(29) / o /
+
+[o ~ u]
+
+[putip] ~ [potip]
+
+[karurɛ] ~ [karorɛ]
+
+/potip/
+
+‘peixe’
+
+/karorɛ/
+
+‘taboca’
+
+Quanto à vogal média posterior /ɔ/, esta é realizada como [ɔ], como pode ser observado em (30)ː
+
+(30) / ɔ /
+
+[ɔ ]
+
+[ðadɛtɔ]
+
+/ladɛtɔ/
+
+‘catitu’
+
+[hɔj]
+
+/ɔj/
+
+‘espinho’
+
+Costa (1998, p. 24) fala de uma alternância entre [o] e [ɔ], em que o segundo somente ocorreria em posição tônica, ou em sílaba pré-tônica quando na tônica houvesse [ɔ]. Para Costa (p. 36), o acento em Kuruaya recai, invariavelmente, na última sílaba do vocábulo, não havendo, por isso, necessidade de acentuá-la. Esse fato parece ser verdadeiro, entretanto, ele não é determinante no uso de “o” e “ɔ”. Em nossa pesquisa observamos que a ocorrência de [ɔ] não está limitada à sílaba tônica, podendo ocorrer em qualquer posição, conforme demonstrado nos exemplos (31)-(36) abaixo. Esses casos mostram que a sílaba tônica pode ser ocupada tanto por [o] quanto por [ɔ]. Nos dados (31), (32) e (33), [o] e [ɔ] opõem-se em sílabas não acentuadas; já em (34), (35) e (36), vemos que essa mesma oposição ocorre
+
+47
+
+também em sílabas acentuadas. Esses casos nos fornecem a evidência necessária para uma análise na qual /o/ e /ɔ/ são fonologicamente distintos.
+
+(31) [hɔ⎆ʔi] [h̃ũnɐ⎆̃ mɐ]̃
+
+/ɔ⎆ʔi/ /odã⎆mã/
+
+‘taboca (da grossa)’ ‘forno de torrar farinha’
+
+(32) [ẽnɐp̃ iɔ⎆ro] [aju⎆ru]
+
+/ɛdãpiɔ⎆ro/ /ajo⎆ro/
+
+‘alisar’ ‘raposa’
+
+(33) [tɔkɔrɔ⎆rõŋ] [turu⎆pa]
+
+/tɔkɔrɔ⎆roŋ/ /toro⎆pa/
+
+‘cigarra’ ‘bacuri’
+
+(34) [bɔ⎆rɔ] [uru⎆ru]
+
+/bɔ⎆rɔ/ /oro⎆ro/
+
+‘onda’ ‘guariba’
+
+(35) [⎆hɔj] [⎆poj]
+
+/⎆ɔj/ /⎆poj/
+
+‘espinho’ ‘jabuti’
+
+(36) [dara⎆kɔ] [ðɛ⎆ko]
+
+/dara⎆kɔ/ /lɛ⎆ko/
+
+‘saracura’ ‘macaco cuaba’
+
+48
+
+Em se tratando da ocorrência de [ɔ], [o] e [u] em Kuruaya, podemos notar a alternância seguinteː
+
+(37) / ɔ /
+
+[ɔ ~ o]
+
+[darakɔ] ~ [darako] /darakɔ/
+
+‘saracura’
+
+[bɔrɔ] ~ [bɔro]
+
+/bɔrɔ/
+
+‘onda’
+
+/o/
+
+[o ~ u]
+
+[ajuru] ~ [ajoro]
+
+/ajoro/
+
+[turu’pa] ~ [toropa] /toropa/
+
+‘raposa’ ‘bacuri’
+
+Não nos foi possível determinar a causa exata desse fenômeno,1 mas, em
+
+princípio, as observações ilustradas em (37) parecem sugerir a seguinte alternância
+
+[ɔ]
+
+[o], [o]
+
+[u], esquematizada em (38). A seta marca a direção única da
+
+mudança, de uma vogal mais baixa para uma mais alta. Essa direção também indica
+
+que não é permitido em Kuruaya [ɔ] ser realizado como [u] ou, contrariamente, [o]
+
+ser realizado como [ɔ], fatos que podem ser comprovados fonologicamente,
+
+conforme discutido acima. Isso nos permite concluir que quando há alternância entre
+
+[o] e [u], ou [ɔ] e [o], temos sempre o fonema subjacente /o/ para o primeiro par, e
+
+/ɔ/, para o segundo.
+
+(38)
+
+Média
+
+o
+
+Alta
+
+u
+
+Baixa
+
+ɔ
+
+Média
+
+o
+
+1 Durante a fase final de nossa pesquisa Alberto Curuaia faleceu. A esposa dele, Maria Xipaia, estava bastante abalada com o fato, o que nos impediu de coletar mais dados sobre esse fenômeno.
+
+49
+Uma hipótese preliminar para o fenômeno seria em termos de um ajuste vocálico no qual o contraste entre a região posterior parece estar caminhando em direção à neutralização. Isso já é verificado em Mundurukú, a língua-irmã de Kuruaya (PICANÇO 2005), que possui um sistema com somente cinco vogais, /i, e, ´, a, o/, e nenhum contraste entre “o” e “ɔ”. Picanço observa que, embora haja uma variação livre entre [o] e [u], há alguns casos em que só [o] ocorre; seria importante verificar se esses casos correspondem ao [ɔ] de Kuruaya, pois essa ausência de alternância pode ser ainda um reflexo da realização originária.
+Outra observação é que essa mudança, de mais baixa para mais alta, segue o Princípio da Dispersão Vocálica, pois a neutralização está indo em direção ao ponto mais extremo do espaço acústico, e não o contrário. Se “o” se tornar “u” e “ɔ” se tornar “o”, a língua incluiria em seu sistema uma dispersão máxima – isto é, o sistema triangular de [i, a, u]. Contudo, haveria um desequilíbrio na região medial, preenchido pelas médias [ɛ] e [o], o que tornaria o Kuruaya um sistema aparentemente assimétrico, isso porque na região anterior também ocorre uma flutuação entre [ɛ] e [e], o que demonstra que esses sons tendem a incorporar-se, o que equilibraria novamente o sistema.
+2.3.1.1 Oposição entre os fonemas vocálicos orais do Kuruaya
+A identificação dos fonemas em Kuruaya ocorre também pela relação de oposição que estes estabelecem entre si. Nos dados abaixo procuramos mostrar essa oposição em ambientes idênticos, o que nem sempre foi possível devido à limitação dos dados. Em tais casos, estabelecemos a oposição entre os segmentos
+
+50
+
+vocálicos em ambientes análogos. De uma forma ou de outra, os exemplos nos dão evidência suficiente para apoiar a análise proposta aqui, onde seis vogais orais são postuladas para a língua.
+
+(39) /a/ - /i/ [ibɛða] [ibɛðit]
+
+/ibɛla/ /ibɛlit/
+
+‘semente’ ‘flor’
+
+(40) /a/ - /ɛ/ [mara] [marɛ]
+
+/mara/ /marɛ/
+
+‘milho’ ‘mamão’
+
+(41) /a/ - /ɨ/ [apaj] [pɨj]
+
+/apaj/ /pɨj/
+
+‘imbaúba’ ‘cobra’
+
+(42) /a/ - /o/ [ɛkap̚ ] [ɛkop̚ ]
+
+/ɛkap/ /ɛkop/
+
+‘passar’ ‘descer’
+
+51
+
+(43) /a/ - /ɔ/ [itatawmɐ̃] [itɔtɔ]
+
+/itatawmã/ ‘cego’
+
+/ itɔtɔ/
+
+‘enrugado’
+
+(44) /ɛ/ - /i/ [awarɛ] [awari]
+
+/awarɛ/ /awari/
+
+‘ariranha’ ‘bebida fermentada’
+
+(45) /ɛ/ - /ɨ/ [ipɛrɛk̚ ] [ẽnɐp̃ ɨrik̚ ]
+
+/ipɛrɛk/
+
+‘amarelo’
+
+/ ɛdãpɨrik̚ / ‘moquear’
+
+(46) /ɛ/ - /o/ [itɛdɛ] [ɛtudo]
+
+/itɛdɛ/ /ɛtodo/
+
+‘ali’ ‘trazer’
+
+(47) /ɛ/ - /ɔ/ [itɛtɛ] [itɔtɔ]
+
+/ itɛtɛ / / itɔtɔ/
+
+‘largo’ ‘enrugado’
+
+52
+
+(48) /i/ - /ɨ/ [itit] [itɨp̚ ]
+
+/itit/
+
+‘molhado’
+
+/itɨp/
+
+‘está amargo’
+
+(49) /i/ - /o/ [akip] [ikorɔ]
+(50) /i/ - /ɔ/ [itɔtɔ] [titi]
+
+/akip/ /ikorɔ/
+
+‘piolho’ ‘liso’
+
+/ itɔtɔ/ / titi /
+
+‘enrugado’ ‘água’
+
+(51) /ɨ/ - /o/ [pɨj] [poj]
+
+/ pɨj / / poj /
+
+‘cobra’ ‘jabuti’
+
+(52) /ɨ/ - /ɔ/ [ẽnãtɨkʻ] [pitɔkʼ]
+
+/ ɛdãtɨk / / pitɔk /
+
+‘furar’ ‘soluçar’
+
+53
+
+(53) /o/ - /ɔ/ [ɛkop̚ ] [tɔp̚ ]
+
+/ ɛkop/ / tɔp /
+
+‘desce (ordem)’ ‘flecha dele’
+
+Na seção seguinte, passaremos à investigação do contraste oral-nasal encontrado nas vogais do Kuruaya.
+
+2.3.2 Vogais Nasais
+
+Segundo Ladefoged (1982), na realização articulatória de uma vogal nasal, o véu palatino encontra-se abaixado, possibilitando que parte da corrente de ar escape através do nariz; esse abaixamento do véu palatino é o que caracteriza a nasalização de um segmento. O Kuruaya possui uma série de quatro vogais nasais /ĩ/, /ɛ/̃ , /ã/, /õ/ que estão ilustradas, respectivamente, em (54), (55), (56) e (57)ː
+
+(54)
+
+/ĩ/
+
+[ĩ]
+
+/tĩtĩʔa/
+
+‘maracá’
+
+(55)
+
+/ɛ/̃
+
+[ẽ]
+
+/tɛʔ̃ a/
+
+‘quarto de animal’
+
+(56)
+
+/ ã/
+
+[ɐ̃ ]
+
+/okãʔa/
+
+‘seio’
+
+(57)
+
+/õ/
+
+[ õ]
+
+/õŋʔa/
+
+‘joelho’
+
+54
+
+Os fonemas vocálicos nasais representados acima opõem-se distintivamente com as vogais orais da língua, conforme demonstrado nos pares (58), (59), (60), e (61).
+
+(58)
+
+/i/ - /ĩ/
+
+[titi]
+
+[tĩtĩʔa]
+
+/ titi / /tĩtĩʔa/
+
+‘água’ ‘maracá’
+
+(59)
+
+/ɛ/ - /ɛ/̃
+
+[iehɛ]
+
+[ɛh̃ ̃ɛ]̃
+
+/iɛhɛ/ /ɛhɛ/̃
+
+‘leve’ ‘osga’
+
+(60)
+
+/a/ - /ã/
+
+[ðaj]
+
+[ð̃ɐj̃ ]
+
+/ðai/
+
+‘arco’
+
+/ðãj/
+
+‘dente’
+
+(61)
+
+/o/ - /õ/
+
+[oko]
+
+[õkõ]
+
+/oko/ /okõ/
+
+‘minhas costas’ ‘minha língua’
+
+55
+As nasais /ã/ e /ĩ/ possuem apenas a realização fonética [ɐ̃] e [ĩ], respectivamente, conforme demonstrado nos exemplo (62), (63) e (64) para [ɐ̃] e (65), (66) e (67) para [ĩ].
+
+•
+
+/ã/
+
+[ɐ]̃
+
+(62)
+
+[pɐ̃w̃ ɐ̃]
+
+/pawã/
+
+‘banana’
+
+(63)
+
+[w̃ ɐ̃jbuða]
+
+/wãjbula/
+
+‘macaco da noite’
+
+(64)
+
+[w̃ẽð̃ɐj̃ ]
+
+/wɛlãj/
+
+‘castanha’
+
+•
+
+/ĩ/
+
+[ĩ]
+
+(65)
+
+[ãrĩ̃ katʃo]
+
+/ãrĩkatʃo/
+
+‘rápido’
+
+(66)
+
+[kɐ̃ð̃ĩpa]
+
+/kalĩpa/
+
+‘araçá’
+
+(67)
+
+[ẽw̃ ĩ]
+
+/ɛwĩ/
+
+‘pau d’arco’
+
+56
+
+Já as vogais /õ/ e /ɛ/̃ possuem duas formas de realização cada. A nasal /õ/ pode ser produzida livremente na região posterior como [õ] ou [ũ], como demonstrado em (68) e (69).
+
+•
+
+/õ/
+
+[õ~ũ]
+
+(68)
+
+[ĩtʃõrɛ] ~ [ĩtʃũrɛ]
+
+/ itʃõrɛ /
+
+‘torto’
+
+(69)
+
+[w̃ẽtũtũʔa] ~ [w̃ẽtõtõʔa] /wɛtõtõʔa/
+
+‘coração’
+
+Também a nasal /ɛ/̃ apresenta dois fones, [ẽ] e [ɛ]̃ , em flutuação, conforme (70) e (71).
+
+•
+
+/ ɛ̃ /
+
+[ɛ̃ ~ ẽ ]
+
+(70)
+
+[tɛʔ̃ a] ~ [tẽʔa]
+
+/ tɛʔ̃ a /
+
+‘morto’
+
+(71)
+
+[ðaʃa mĩẽ] ~ [ðaʃa mĩɛ]̃ / laʃa miɛ̃ /
+
+‘brasa’
+
+As vogais orais e nasais do Kuruaya também podem ser distintas considerando-se suas características acústicas. Tais características são tratadas no tópico seguinte.
+
+57
+2.4 Análise acústica dos segmentos vocálicos do Kuruaya
+A fonética acústica tem-se dedicado essencialmente à análise das propriedades físicas dos sons da fala e às correspondências entre traços acústicos e elementos dos sistemas fonológicos das línguas. Uma análise acústica consiste em observar correlatos acústicos básicos que podem servir como pistas para os falantes distinguirem os sons de uma língua. No caso das vogais esses correlatos podem ser de diversos tipos, tais como freqüência fundamental, especialmente relevante em línguas que fazem uso de tons; freqüência de formantes, utilizada para distinguir as várias qualidades vocálicas; intensidade, que é importante na distinção de acento; e duração, que é o correlato acústico principal em línguas que diferenciam vogais curtas de vogais longas. Às vezes vários correlatos são utilizados ao mesmo tempo para sinalizar algum contraste na fonologia; por exemplo, uma vogal acentuada é tipicamente marcada através de freqüência fundamental elevada, maior intensidade e duração mais longa (LADEFOGED, 1971).
+O estudo acústico apresentado aqui é restrito à demonstração das diferentes qualidades vocálicas; questões como acento e tom na língua (COSTA 1998, PICANÇO 2005), embora importantes, ficarão para pesquisa futura. Para isso a análise seguirá Ladefoged (2001, p. 39), que diz que no caso dos sons vocálicos, a qualidade das vogais produzidas por um determinado falante pode ser descrita a partir da freqüência dos formantes.
+Ladefoged (2001) chama de formantes as ressonâncias que ocorrem no trato vocal. Como este possui uma configuração bastante complexa, as ressonâncias ocorrem em diferentes faixas de freqüência e cada vogal, por sua vez, possui um conjunto de faixas de freqüência particular. Desta forma, para melhor representar as
+
+58
+vogais de uma língua precisa-se dos valores médios das freqüências dos primeiros formantes, em particular o primeiro, segundo e terceiro formantes (ou F1, F2, F3, respectivamente). Esses valores, por sua vez, podem variar de acordo com o falante, uma vez que o tamanho do trato vocal é o responsável pelo fato de homens, mulheres e crianças produzirem os mesmos segmentos vocálicos em diferentes faixas de freqüência (LADEFOGED, 2001). Os informantes deste trabalho são de sexos distintos, um homem e uma mulher, por isso os resultados mais adiante serão apresentados separadamente, já que há uma variação nos valores obtidos com a medição de F1 e F2 para os dois falantes.
+Ainda segundo Ladefoged (2001) Os dois primeiros formantes, F1 e F2, são os que melhor sinalizam a altura e posição da língua no momento da produção do segmento vocálico, sob um ponto de vista acústico. A altura da língua é obtida através da medição do primeiro formante (F1); enquanto sua posição na boca é dada pelo segundo formante (F2). Os valores de F1 são inversamente proporcionais à altura da língua, desse modo, vogais baixas possuem valores de F1 mais elevados, enquanto as vogais altas apresentam valores menores. Já o segundo formante está associado à posição de anterioridade e posterioridade da língua; observa-se, nesse caso, um valor de F2 mais elevado para as vogais anteriores, e que vai diminuindo progressivamente conforme as vogais sejam centrais ou posteriores. Através dos dados obtidos com as medições desses dois formantes é possível descrevermos o grau de dispersão de determinado som vocálico, identificando sua realização dentro de um espaço acústico em determinada língua.
+
+59
+2.4.1 Materiais e Métodos
+Todos os dados desse trabalho foram coletados com Alberto Curuaia, homem, filho de índios Kuruaya; e sua esposa, Maria Xipaia, mulher, filha de índios Kuruaya e Xipaya.2 Na época da coleta eles tinham em torno de 85 anos.
+A coleta dos dados ocorreu durante os períodos de novembro de 2006 e março de 2007. As gravações foram realizadas com gravador HI-MD Sony, modelo MZ-NHU e microfone de cabeça unidirecional. Posteriormente o material foi digitalizado com o auxílio do programa Sonic Stage, utilizado para converter a gravação realizada em files para o formato wav. Os trechos escolhidos para a análise acústica foram recortados com a utilização do programa Audacity 3.2 e analisados em outro programa, o Praat, um programa elaborado para análises acústicas e que pode ser adquirido gratuitamente na internet no endereço www.praat.org. Através dele pudemos encontrar os valores de F1 e F2 para as vogais, que medem, respectivamente, a altura e a posição de produção desses fonemas. Os valores encontrados foram lançados no Excel, para análise estatística e geração dos gráficos aqui apresentados.
+Para a análise procuramos selecionar palavras em que as vogais aparecessem em ambiente idêntico. Assim, os fonemas vocálicos analisados estão sempre em sílabas fechadas do tipo CVC, em que C representam consoantes oclusivas surdas. Para cada qualidade de vogal temos uma média de 20 repetições. Os resultados dessa análise acústica das vogais da língua são apresentados nos tópicos seguintes.
+2 As especificidades dos informantes dessa pesquisa foram tratadas na Introdução do presente trabalho.
+
+60
+2.4.2 Análise acústica das vogais orais do Kuruaya
+Para a produção de um segmento vocálico oral faz-se necessário que este seja articulado com o véu palatino elevado, o que impede que o ar proveniente dos pulmões passe para a cavidade nasal. Na fonética acústica é possível determinar a qualidade de uma vogal, como vimos no item anterior, a partir da medição dos três primeiros formantes. F1 e F2 correspondem, no plano articulatório, respectivamente, a altura da língua e sua posição dentro da cavidade oral. Já F3 tem relação com as características individuais do trato vocal do falante e também sofre influência particular do contexto consonantal. Segundo Ladefoged:
+There is a better correlation between the degree of backness and the distance between the first two formants, which are far apart in front vowels and close together in back vowels. Furthermore, the distance between the two formants decreases in the front vowels, a fact that fits the traditional articulatory descriptions. (1993, p. 196)
+
+Assim, para a mensuração da dispersão das vogais orais no espaço acústico da língua Kuruaya selecionamos a série seguinte, seguindo os critérios descritos no item anterior:
+
+/i/
+
+[i]
+
+/potip/
+
+‘peixe’
+
+/ɛ/
+
+[ɛ]
+
+/ɛtʃɛtɛk/
+
+‘puxar’
+
+/ɨ/
+
+[ɨ]
+
+/itɨp/
+
+‘está amargo’
+
+61
+
+/a/
+
+[a]
+
+/tɛkat/
+
+‘dele’
+
+/o/
+
+[o]
+
+/ɛkop/
+
+‘descer’
+
+/ɔ/
+
+[ɔ]
+
+/tɔp/
+
+‘flecha dele’
+
+A análise da série acima nos permitiu elaborar os seguintes gráficos, que demonstram a dispersão das vogais orais da língua para Alberto Curuaia (AK) e Maria Xipaia (MX).
+
+Figura 2.1: Dispersão das vogais orais para AK. Média de 20 repetições para [i], [ɨ] [ɛ] e [a] e 15 repetições para [o] e [ɔ].
+
+Dispersão das Vogais Orais - AK
+
+F2 3000 2750 2500 2250 2000 1750 1500 1250 1000 750
+aeiɨoɔ
+
+500 200 300 400 500 600 700 800 900
+
+F1
+
+No gráfico de AK observamos que as vogais centrais [ɨ] e [a] encontram-se em sua região de distribuição prototípica, ocupando um espaço equivalente em
+
+62
+
+termos de F2, que gira em torno de 1650 Hz para [ɨ] e 1580 Hz para [a] segundo Ladefoged (1996). A média [ɔ] é realizada em uma região mais central, se comparada com a alta [o], mas ainda não tão central quanto [ɨ] e [a]. Em relação à altura (i.e., F1), [ɔ] é compatível com a média anterior [ɛ]. Observe que o espaço de produção de [ɔ] e [o] não se mistura, sendo a primeira realizada principalmente entre 500 e 600 Hz e a segunda entre 400 e 500 Hz. Além disso, percebemos que a vogal [o] é produzida em uma zona abaixo da alta anterior [i], mas bem próxima da vogal alta anterior [ɨ].
+
+O gráfico seguinte mostra como a dispersão acústica das vogais orais da língua ocorre segundo os dados de MX. Observe que os resultados para esse falante são comparativamente semelhantes aos resultados obtidos no gráfico anterior, no que todas as seis qualidades vocálicas identificadas ocupam espaços acusticamente distintos.
+
+Figura 2.2: Dispersão das vogais orais para MX. Média de 20 repetições para [i], [ɨ] [ɛ] e [a] e 12 repetições para [o] e [ɔ].
+
+Dispersão das Vogais Orais - MX
+
+F2 3000 2750 2500 2250 2000 1750 1500 1250 1000 750
+aeiɨoɔ
+
+500 200 300 400 500 600 700 800 900
+
+F1
+
+63
+No gráfico de MX a vogal alta anterior [i] é produzida em uma região mais anterior do que em AK. Se compararmos as vogais centrais [a] e [ɨ], podemos observar novamente que a vogal central baixa [a] e a alta [ɨ] ocorrem em uma região central relativamente definida. Do mesmo modo, as médias anterior [ɛ] e posterior [ɔ] possuem altura equivalente, localizando-se abaixo da média alta [o]; esta por sua vez está localizada em uma região mais baixa que a alta anterior [i], mas ainda equivalente com a produção da alta central [ɨ]. Observa-se também no gráfico de MX que as vogais posteriores [o] e [ɔ] não divergem tanto na dimensão anterior-posterior (i.e., valores de F2), como ocorreu com o primeiro falante.
+Comparando os dois gráficos, podemos observar que a vogal alta [i] é produzida em uma zona mais anterior no gráfico de MX em comparação com o de AK. As centrais [ɨ] e [a] estão, no gráfico de AK, em regiões equivalentes, enquanto que em MX a vogal central baixa [a] é mais anterior que a alta [ɨ]. Em AK a média anterior [ɛ] tem sua produção mais dispersa, indo desde uma zona anterior até um ponto mais central, próxima ao local de produção das centrais [ɨ] e [a]. Já nos dados de MX, embora a média anterior [ɛ] tenha sua dispersão mais posterior do que a anterior [i], seu espaço de distribuição não se confunde com o das vogais centrais, como em AK. Além disso, as vogais posteriores [o] e [ɔ], que no gráfico da dispersão de AK aparecem em zonas de produção distintas, em MX tendem a apresentar uma aproximação maior na altura. Os valores das médias das vogais orais, juntamente com os desvios padrão, são apresentados na Tabela 2.1.
+
+64
+
+Tabela 2.2 Média e desvio padrão das vogais orais do Kuruaya
+
+Média
+
+AK
+
+MX
+
+Desvio
+
+F1
+
+F2
+
+Padrão
+
+F3
+
+F1
+
+F2
+
+357,41 2051,64 2878,24 383,51 2447,36
+
+i
+
+21,82 94,49
+
+95,91 18,28 76,19
+
+540,33 1737,60 2638,45 592,44 2152,52
+
+ɛ
+
+22,31 93,27 106,58 43,89 86,57
+
+387,96 1579,51 2358,32 407,44 1611,59
+
+ɨ
+
+34,82 124,93 97,91 33,20 110,97
+
+698,33 1575,88 2431,85 698,67 1856,00
+
+a
+
+35,02 70,28 157,45 61,05 76,18
+
+440,20 823,68 2257,93 490,56 1036,72
+
+o
+
+28,20 47,72
+
+99,01 20,55 98,99
+
+534,93 1166,04 2293,28 591,36 1048,72
+
+ɔ
+
+23,68 49,35 190,56 47,09 104,08
+
+F3
+3016,31 70,91
+2811,22 140,93 2741,00 73,78 2745,79 113,63 2865,62 110,25 2925,26 128,79
+
+Observando os valores de F1, correspondente à altura das vogais, constatamos que estes são, no geral, mais elevados para MX, em comparação com os valores obtidos para AK. A única exceção é a vogal central baixa [a], que apresenta valores de F1 equivalentes para os dois informantes. Contudo, se considerarmos o desvio padrão de F1 para as vogais orais, constatamos que os valores de produção de F1 para AK e MX tendem a cruzar-se.
+Ainda com relação à altura (F1), os valores de AK e MX demonstram que as vogais médias – anterior [ɛ] e posterior [ɔ] –, possuem uma altura equivalente, sendo 540,33 Hz (D.P 22,31) para AK e 592,44 Hz (D.P 43,89) para MX. Se compararmos a altura das vogais [ɔ] (AK= 534,93Hz D.P 23,68Hz; MX=591,36Hz D.P. 47,09Hz) e [o] (AK= 440,20Hz D.P 28,20Hz; MX=490,56Hz D.P. 20,55Hz), observamos que, tanto nos dados de AK quanto nos de MX, elas se separam por aproximadamente 100 Hz.
+
+65
+Embora a vogal posterior [o] seja realizada pelos dois informantes em uma zona mais baixa que a vogal anterior alta [i] (AK= 440,20Hz; MX= 490,56), sua produção é próxima a da alta central [ɨ] (AK= 387,96Hz; MX= 407,44), o que não compromete sua qualidade. A realização de [o] em um ponto mais elevado do espaço acústico, tornando possível a oposição [i] – [o] e [ɛ] – [ɔ], verificada na dispersão das vogais orais, nos levou a classificar tal vogal como alta. No gráfico da dispersão vocálica observamos que AK produz as vogais posteriores [o] e [ɔ] em regiões claramente distintas (F1 = [o] 440,20 Hz; [ɔ] 534,93Hz / D.P. = [o] 28,20 Hz; [ɔ] 23,68Hz). Contudo, a produção dessas vogais por MX é realizada em uma região muito próxima (F1 = [o] 490,56 Hz; [ɔ] 591,36Hz / D.P. = [o] 20,55 Hz; [ɔ] 47,09Hz). Entretanto, os dados de F1 para estas vogais demonstram que também MX as distingue, uma vez que seus valores médios não se cruzam, mesmo se considerarmos o desvio padrão. Quanto a vogal baixa central /a/, esta encontra-se em sua região prototípica, em torno de 700 Hz (D.P. = AK 35,06Hz; MX 61,05Hz) para os dois informantes.
+O fator mais relevante a ser observado nos dados acima diz respeito à posição da língua, indicada por F2. Em AK o valor médio de F2 para a vogal [ɔ] indica que esta é um pouco mais anterior que a vogal [o] (F2 = [o] 823,68 Hz; [ɔ] 1166,04Hz / D.P. = [o] 47,72 Hz; [ɔ] 49,35Hz). Já em MX os valores de F2 para as vogais [o] e [ɔ] são equivalentes (F2 = [o] 1036,72 Hz; [ɔ] 1048,72Hz / D.P. = [o] 98,99 Hz; [ɔ] 104,08Hz), estando próximos daquele obtido com as medições do F2 da vogal [ɔ] para AK.
+Os valores obtidos com a medição de (F2) para a vogal [ɛ] (AK= 1732,60Hz D.P 93,27Hz; MX=2152,52Hz D.P. 86,57Hz), indicam que esta é realizada em uma
+
+66
+
+zona mais posterior do que a anterior /i/ (AK= 2051,64Hz D.P 94,49Hz; MX=2447,36Hz D.P. 76,19Hz), repetindo o fenômeno que ocorre com a sua contraparte posterior /ɔ/, ou seja, ambas tendem a direcionar-se para um ponto mais ao centro do espaço acústico. As centrais [a] e [ɨ] comportam-se de maneira distintaː para AK os dados de F2 indicam que elas são realizadas em região semelhante (AK= [a] 1575,88Hz D.P. 70,28Hz / [ɨ] 1579,51Hz D.P. 124,93Hz), enquanto nos dados de MX a central [a] aparece mais anterior (MX= [a] 1856,00Hz D.P. 76,18Hz), comparando-a com [ɨ] (MX= [ɨ] 1611,59Hz D.P. 110,97Hz) e opondo-a aos dados de AK (AK= [a] 1575,88Hz D.P. 70,28Hz / [ɨ] 1579,51Hz D.P. 124,93Hz). A partir dos valores médios obtidos com a medição de F1 e F2 nas séries de AK e MX, anteriormente apresentadas, elaboramos os gráficos abaixo que representam o triângulo das vogais, formado a partir dos vocóides [a], [i] e [u], que correspondem aos pontos mais extremos do espaço acústico da língua. Nas figuras a seguir podemos visualizar melhor as diferenças de produção dos segmentos vocálicos entre os dois informantes.
+
+Figura 2.3: Triângulo das vogais orais para AK, obtido a partir dos valores médios de (F1) e (F2) nas medições das vogais [i], [ɛ], [ɨ], [a], [o] e [ɔ]. Média de 20 repetições para cada vogal.
+
+F2 3000 2750 2500 2250 2000 1750 1500 1250 1000 750
+
+i
+
+ɨ
+
+ɛ
+
+a
+
+o ɔ
+
+500 200 300 400 500 600 700 800 900
+
+F1
+
+67
+
+Figura 2.4: Triângulo das vogais orais para MX, obtido a partir dos valores médios de (F1) e (F2) nas medições das vogais [i], [ɛ], [ɨ], [a], [o] e [ɔ]. Média de 20 repetições para cada vogal.
+
+F2 3000 2750 2500 2250 2000 1750 1500 1250 1000 750
+
+i
+
+ɨ
+
+o
+
+ɛ
+
+ɔ
+
+a
+
+500 200 300 400 500 600 700 800 900
+
+F1
+
+No gráfico de AK observamos que a realização das vogais [ɛ], [ɨ] e [ɔ] está compreendida no interior do triângulo, ou seja, distribuem-se pelo centro do espaço acústico da língua. No gráfico de MX ocorre um fenômeno diferente, em que a vogal [ɨ] é realizada no limite da zona compreendida pelo triângulo, enquanto as médias [ɛ] e [ɔ] estão fora dessa zona. Nesse gráfico as vogais [o] e [ɔ] distinguem-se somente pela altura.
+A análise acústica também nos permite confirmar as características das vogais do Kuruaya que, de acordo com sua distribuição no espaço acústico da língua, possuem seis qualidades distintas, sendo assim classificadas:
+
+68
+
++ alta - alta
+
+- posterior
+
++ posterior
+
+- arredondada + arredondada
+
+i
+
+ɨ
+
+o
+
+ɛ
+
+a
+
+ɔ
+
+2.4.2.1
+
+Conclusões
+
+A média dos formantes obtida com a análise acústica das vogais orais da língua nos permite concluir que, de fato, o Kuruaya possui seis segmentos vocálicos distintos em seu espaço acústico, [i, ɛ, ɨ, a, o, ɔ], e a análise fonológica (seção 2.3.1) nos permite afirmar que todas estas são contrastivas, /i, ɛ, ɨ, a, o, ɔ/. Os dados também demonstram que a divisão desses segmentos em anteriores [i,ɛ], centrais [ɨ,a] e posteriores [o,ɔ].
+
+O sistema do Kuruaya é equilibrado, estando a média anterior [ɛ] e a posterior [ɔ] opondo-se em uma mesma altura de realização. Quanto às vogais altas, estas ocupam espaços distintos sendo, em termos de altura, [i] > [ɨ] > [o]. A vogal posterior [o] é classificada aqui como [+ alta] em virtude de sua realização acústica, cuja dispersão e medições de F1 constataram ser a vogal [o] em torno de 100Hz mais alta que as médias [ɛ] e [ɔ].
+
+69
+2.4.3 Análise acústica das vogais nasais do Kuruaya
+Articulatoriamente, para a produção das vogais nasais há o abaixamento do véu palatino, permitindo a passagem do ar pela cavidade nasal, porém não há obstrução da passagem de ar através do trato oral por nenhum dos articuladores.
+Conforme Cagliari (1977) com o abaixamento do véu palatino é criado um acoplamento de tubos de ressonância, o que faz com que o som da fala chegue até nossos ouvidos como um som vocálico nasal. Ainda segundo o autor, as cavidades nasais funcionam como câmara de ressonância acoplada e são responsáveis por um amortecimento geral do espectro (principalmente de F1). Elas são responsáveis também pelo aumento da largura de banda dos formantes e outros efeitos secundários relativos à envoltória do som sobre o qual o efeito do ressonador acoplado se sobrepõe.
+O principal efeito do acoplamento de tubos de ressonância é a modificação do espectro da vogal na região de F1, como conseqüência desse fator vogais baixas como [a] podem ter seu F1 diminuído como efeito da introdução de formantes extras (ressonâncias), que podem alargar a largura de banda do primeiro formante (Ohala, 1975; Delvaux 2001). Outro fator que pode causar alteração no valor de F1 dessas vogais é a influência de um anti-formante (anti-ressonância) na região entre F0 e F1.
+Stevens (2000) afirma que quando o véu palatino encontra-se elevado na cavidade nasal pode-se estimar freqüências nasais naturais em torno de 500 e 2000 Hz, o que justifica o Formante nasal (também conhecido como murmúrio nasal) de consoantes nasais em torno de 500 Hz. No caso das vogais, a nasalidade atua de forma mais complexa. Assim, segundo Delvaux (2001) e Stevens (2000), podemos
+
+70
+
+esperar da análise acústica de uma vogal nasal que as ressonâncias nasais não tenham padrão único para todas as vogais; que o nível de energia dos formantes seja menor do que o das vogais orais; e que as vogais nasais tenham maior duração do que sua contraparte oral.
+
+Em 2.2.2 vimos que o Kuruaya possui quatro vogais nasais: ã, ɛ,̃ ĩ, õ. Para demonstrar como tais vogais estão distribuídas no espaço acústico, bem como comparar tal espaço com o da produção das vogais orais da língua, fizemos a medição dos três primeiros formantes. Para a medição dos valores de F1, F2 e F3 dessas vogais trabalhamos com os dados coletados com os dois informantes, AK e MX.
+
+Na seleção dos dados, tal qual fizemos com as vogais orais, procuramos aqueles em que as nasais estivessem em um mesmo contexto. Contudo, não conseguimos encontrar dados suficientes de nasais em um mesmo ambiente para todas as vogais nasais, por isso a série seguinte possui dois ambientes distintos: final de palavra em sílaba do tipo CṼ, no caso de [ĩ, ɐ̃, õ]; e final de sílaba CṼ seguido por sílaba CV, no caso de [ɛ]̃ . Em todos os dados, a vogal nasal em análise ocorre sempre antecedida por uma consoante oclusiva. A série utilizada para a medição dos valores das vogais nasais foi a seguinte:
+
+/ĩ/
+
+[ĩ]
+
+/kĩ/
+
+‘beiju’
+
+/ ɛ̃ /
+
+[ ɛ̃ ]
+
+/tɛʔ̃ a/
+
+‘morto’
+
+71
+
+/ã/
+
+[ ɐ̃ ]
+
+/porakã/
+
+‘dois’
+
+/õ/
+
+[õ]
+
+/okõ/
+
+‘língua’
+
+Após a medição dos valores de F1 e F2 das vogais nasais na série acima elaboramos os gráficos que demonstram a dispersão das vogais nasais do Kuruaya para AK e MX. O gráfico abaixo é o da dispersão das vogais nasais para AK.
+
+Figura 2.5: Dispersão das vogais nasais para AK. Média de 20 repetições para cada vogal.
+
+Dispersão das Vogais Nasais - AK
+F1 2400 2200 2000 1800 1600 1400 1200 1000 800 600 400
+200
+
+300
+
+400 ĩ
+
+F2
+
+500
+
+õ
+
+ã
+
+600
+
+ẽ
+
+700
+
+800
+
+No gráfico de AK observamos, de forma geral, uma tendência das vogais nasais da língua de terem sua produção direcionada mais para o centro do espaço
+
+72
+
+acústico. Assim, vamos ter um F2 prototípico para a nasal central [ɐ̃], enquanto as anteriores [ĩ] e [ɛ]̃ tendem a ter sua produção distribuída de um ponto mais anterior até próximo ao centro do espaço acústico, embora esse movimento seja mais acentuado em [ɛ]̃ do que em [ĩ]. Um efeito análogo ocorre com a nasal posterior [õ], cuja dispersão abrange desde uma área mais posterior, em torno de 750 Hz, até próximo ao centro do espaço acústico.
+
+Quanto à altura das vogais nasais, indicada por F2, apenas a nasal anterior [ĩ] tem sua realização concentrada em pontos próximos, em torno de 400 Hz as demais têm valores de F1 mais variáveis, dirigindo-se ao centro do espaço acústico. Dessa forma, a nasal central [ɐ]̃ é realizada em uma área que vai desde uma posição baixa [ã] até uma mais elevada [ə̃], enquanto as nasais [ɛ]̃ e [õ] tendem a ser produzidas em uma zona mais baixa. Efeito análogo pode ser observado no gráfico abaixo, que mostra a dispersão das vogais nasais da língua para MX.
+
+Figura 2.6: Dispersão das vogais nasais para MX. Média de 20 repetições para as vogais [ɐ̃], [ĩ] e [õ] e 14 repetições para [ɛ]̃ .
+
+3000
+
+2500
+
+Dispersão das Vogais Nasais - MX
+
+F2
+
+2000
+
+1500
+
+1000
+
+500
+
+ãĩõẽ
+
+0 200 300 400 500 600 700 800 900
+
+F1
+
+73
+
+No gráfico acima podemos notar que a vogal nasal alta [ĩ] tem um espalhamento maior, se comparado com os dados de AK para a mesma vogal. Tal qual no gráfico de AK há uma tendência das vogais serem distribuídas em uma área mais ao centro do espaço acústico. Em termos de F2, observa-se, de uma forma geral, que as vogais nasais em MX tendem a ser realizadas em uma região mais anterior do que em AK. As diferenças entre a produção das vogais nasais por AK e MX podem ser visualizadas na tabela 2.2 abaixo, que apresenta os valores médios e o desvio padrão dos três primeiros formantes das vogais nasais.
+
+Tabela 2.2 Média e desvio padrão das vogais nasais do Kuruaya
+
+Média
+
+AK
+
+MX
+
+Desvio
+
+F1
+
+F2
+
+Padrão
+
+F3
+
+F1
+
+F2
+
+401,26 2100,05 2994,23 369,10 2251,95
+
+ĩ
+
+24,73 71,90 153,57 39,49 191,78
+
+537,93 1895,02 2616,36 575,74 2181,16
+
+ɛ̃
+
+48,89 114,09 219,67 36,04 105,65
+
+554,29 1454,16 2542,50 691,76 1663,72
+
+ɐ̃
+
+48,03 84,09 199,51 78,11 78,06
+
+518,84 958,40 2748,64 548,49 1038,37
+
+õ
+
+38,24 130,30 200,80 78,32 131,18
+
+F3
+2924,22 122,31 2957,75 108,73 2869,39 142,85 3034,57 203,89
+
+Nos resultados acima os valores de F1 para as vogais nasais indicam que a vogal anterior [ĩ] é realizada em uma região mais alta por MX (369,10Hz, D.P 39,49) do que por AK (401,26Hz, D.P 24,73). Contudo, o inverso ocorre com as demais vogais nasais, cuja distribuição no espaço acústico de AK é, em média, realizada em um ponto mais alto do que em (MX). Se considerarmos o desvio padrão das nasais com relação ao F1 constatamos que somente a nasal [ɐ̃] tem sua distribuição diferenciada para os dois informantes ([ɐ]̃ AK= 554,29Hz; D.P. 48,03Hz / MX= 691,76Hz; D.P. 78,11) sendo produzida em uma área mais baixa por MX (691,76Hz)
+
+74
+
+do que por AK (554,29Hz). A nasal anterior [ɛ]̃ é realizada levemente abaixo da nasal posterior [õ] segundo as médias dos dois informantes ([ɛ]̃ AK= 537,93Hz; MX= 575,74Hz / [õ] AK= 518,84Hz; MX= 548,49Hz). Contudo, elas passam a ter uma altura equivalente se considerarmos o desvio padrão dessas nasais ([ɛ]̃ AK= 48,89Hz; MX= 36,04Hz / [õ] AK= 38,24Hz; MX= 78,32Hz). Os dados obtidos com as medições do F2 das vogais nasais demonstram que, em média, tais vogais são mais anteriores em MX ([ĩ] 2251,95Hz; [ɛ]̃ 2181,16Hz; [ɐ̃] 1663,72Hz; [õ] 1038,37Hz) do que em AK ([ĩ] 2100,05Hz; [ɛ]̃ 1895,02Hz; [ɐ]̃ 1454,16Hz; [õ] 958,40Hz).
+
+Considerando que a oposição oral x nasal é distintiva em Kuruaya faz-se necessário, então, observar se tais vogais se distinguem também com relação a sua distribuição no espaço acústico da língua. Para isso comparamos os valores obtidos com as medições de F1 e F2 das vogais orais e nasais para os dois informantes. As séries medidas são as mesmas usadas para a verificação do espaço acústico para as vogais orais e nasais. Os resultados são apresentados nas tabelas abaixo.
+
+Tabela 2.3 Média e desvio padrão das vogais orais e nasais do Kuruaya para AK AK
+
+Média
+
+Vogais Orais
+
+Média
+
+Vogais Nasais
+
+Desvio Padrão
+i ɛ
+a o
+ɔ
+
+F1
+
+F2
+
+F3
+
+357,41 21,82 540,33 22,31
+698,33 35,02
+440,20 28,20 534,93
+23,68
+
+2051,64 94,49
+1737,60 93,27
+1575,88 70,28
+823,68 47,72 1166,04
+49,35
+
+2878,24 95,91
+2638,45 106,58
+2431,85 157,45
+2257,93 99,01
+2293,28
+190,56
+
+Desvio Padrão
+ĩ ɛ̃
+ɐ̃ õ
+
+F1
+
+F2
+
+F3
+
+401,26 24,73 537,93 48,89
+554,29
+48,03
+518,84
+38,24
+
+2100,05 71,90
+1895,02 114,09
+1454,16
+84,09
+958,40
+130,30
+
+2994,23 153,57 2616,36 219,67
+2542,50
+199,51
+2748,64
+200,80
+
+75
+A comparação entre os valores das vogais orais e nasais para AK demonstra que há uma diferença no espaço de dispersão das mesmas. O que é nitidamente observado nos valores de F1, principalmente os da vogal baixa central, cuja produção oral ([a] = 698,33Hz) é em torno de 70Hz mais baixa do que sua contraparte nasal ([ɐ̃] = 554,29Hz), já incluso o desvio padrão (D.P. = [a] 35,02Hz; [ɐ]̃ 48,03Hz). A realização da vogal média anterior é equivalente para vogais orais e nasais ([ɛ] = 540,33Hz; [ɛ]̃ = 537,93Hz); já no caso da vogal alta anterior, a versão oral [i] é levemente mais alta (357,41Hz) do que a nasal [ĩ] (401,36Hz), mesmo considerando-se o desvio padrão (D.P= [i] 21,82Hz; [ĩ] 24,73Hz).
+No caso da vogal alta posterior podemos observar que os valores da oral [o] (440,20 Hz) em termos de F1 são claramente distintos daqueles da nasal [õ] (518,84Hz), sendo a diferença entre eles em torno de 78Hz, o que diminui para 12,20 Hz se considerarmos o desvio padrão (D.P= [o] 28,20Hz; [õ] 38,24Hz). É comum, nesse caso, que a vogal nasal seja realizada em uma região mais baixa do que a oral. Além disso, se considerarmos que temos duas vogais orais posteriores [o] e [ɔ] e apenas uma nasal posterior [õ], podemos perceber que a distribuição de [õ] espalha-se pela área de dispersão das orais [o] e [ɔ], ou seja, abrange desde um ponto mais baixo até um mais elevado, daí a realização do F1 em [ɔ] (534,93Hz; D.P. 23,68Hz) ocorrer em uma região equivalente a de [õ] (518,84Hz; D.P. 38,24Hz).
+Os valores de F2 nos dados de AK demonstram que não há grande diferença entre a produção de vogais orais e nasais, apenas uma tendência das nasais serem realizadas em uma área mais ao centro do espaço acústico, como vimos no gráfico da dispersão destas. Contudo, pelo desvio padrão constatamos que o espaço acústico das vogais orais e nasais da língua possui uma grande área de interseção
+
+76
+em termos de F2. Abaixo temos a comparação das medições das vogais orais e nasais para (MX).
+
+Tabela 2.4 Média e desvio padrão das vogais orais e nasais do Kuruaya para MX MX
+
+Média
+
+Vogais Orais
+
+Média
+
+Vogais Nasais
+
+Desvio Padrão
+i ɛ
+a o
+ɔ
+
+F1
+
+F2
+
+F3
+
+383,51 18,28 592,44 43,89 698,67 61,05 490,56 20,55 591,36 47,09
+
+2447,36 76,19
+2152,52 86,57
+1856,00 76,18
+1036,72 98,99
+1048,72 104,08
+
+3016,31 70,91
+2811,22 140,93 2745,79 113,63 2865,62 110,25 2925,26 128,79
+
+Desvio Padrão
+ĩ ɛ̃
+ɐ̃ õ
+
+F1
+
+F2
+
+F3
+
+369,10 39,49 575,74 36,04 691,76 78,11 548,49 78,32
+
+2251,95 191,78 2181,16 105,65 1663,72 78,06 1038,37 131,18
+
+2924,22 122,31 2957,75 108,73 2869,39 142,85 3034,57 203,89
+
+Os dados da tabela acima demonstram que (MX) tende a produzir sons vocálicos orais e nasais em uma equivalente, o que pode ser constatado observando os valores de F1. A única exceção são as vogais posteriores [o] e [õ], que possuem valores de F1 mais distantes ([o] 490,56Hz; D.P. 20,55Hz / [õ] 548,49Hz; D.P. 78,32Hz), contudo, se considerarmos o desvio padrão para tais vogais constatamos que há entre elas pontos de interseção. Isso ocorre porque, tal qual em AK, a vogal nasal [õ] espalha-se pela área de dispersão das orais [o] e [ɔ] ([o] 490,56Hz; D.P. 20,55Hz / [ɔ] 591,36Hz; D.P. 47,09Hz).
+Quanto ao F2, a nasal alta anterior [ĩ] é realizada em um ponto mais central (2251,95Hz; D.P. 191,78Hz) comparando-a com sua contraparte oral [i] (2447,36Hz; D.P. 76,19Hz), embora elas apresentem ponto de interseção quando consideramos
+
+77
+o desvio padrão. Já a vogal baixa central [a] é nitidamente mais anterior quando oralizada, em torno de 1856Hz; e mais central quando em sua forma nasal, aproximadamente 1663Hz. A diferença entre elas continua mesmo se considerarmos o desvio padrão, que é de aproximadamente 45Hz.
+No geral, os dados acústicos revelam que a nasalização em Kuruaya tem um certo efeito sobre a altura das vogais. De acordo com Beddor (1983, p. 99), há uma tendência nas línguas do mundo para vogais nasais exibirem diferenças de altura em relação às suas contrapartes orais: vogais altas são abaixadas e vogais baixas são elevadas sob o efeito da nasalização. Parece ser esse o padrão em Kuruaya: ambos informantes produziram a vogal alta anterior nasal [ĩ] com uma altura mais baixa que a correspondente oral [i]; o mesmo ocorre para a vogal nasal /ã/ que nos gráficos nas figuras (X) e (Y) ocupam uma região que vai em direção ao centro.
+Nas tabelas 2.3 e 2.4 analisadas acima verificamos que a principal alteração na produção de um segmento nasal é percebida em termos de F1. Isso ocorre porque é uma característica da nasalização o enfraquecimento do pico do primeiro e formante (F1) e o relativo reforço no espectro por volta dos 250 Hz, além da proeminência das baixas freqüências espectrais da vogal nasal, a qual tipicamente tem maior largura de faixa e amplitude mais baixa do que as contrapartes orais (MAEDA, 1982, 1993). Essa tendência é observada em Kuruaya nas vogais altas, uma vez que os dois informantes produziram as vogais nasais altas [ĩ] e [õ] em uma altura mais baixa que a correspondente oral [i].
+Contudo, quando observamos os dados relativos à produção da vogal baixa notamos que somente nos dados de AK essa tendência é mantida, pois há uma diminuição dos valores de F1 para a nasal [ɐ]̃ (554,29Hz) em relação a sua
+
+78
+contraparte oral [a] (698,33Hz), o que indica que a [ɐ̃] é mais alta que [a]. Já a altura de produção da baixa central em MX é equivalente para a vogal oral [a] (698,67Hz; D.P. 61,05Hz) e a nasal [ɐ̃] (691,76Hz; D.P. 78,11Hz).
+Abaixo apresentamos um gráfico da dispersão das vogais nasais do Kuruaya a partir dos valores médios dos dois informantes. Os gráficos foram gerados com base nos números apresentados nas tabelas 2.4 e 2.5 e correspondem aos resultados obtidos para AK e MX.
+
+Figura 2.7: Triângulo das vogais nasais para AK, obtido a partir dos valores médios de (F1) e (F2). Média de 20 repetições para cada vogal.
+
+F2 3000 2750 2500 2250 2000 1750 1500 1250 1000 750
+
+ĩ
+
+ɛ̃
+
+ã
+
+õ
+
+500 300 350 400 450 500 550 600 650 700
+
+F1
+
+79
+
+Figura 2.8: Triângulo das vogais nasais para MX, obtido a partir dos valores médios de (F1) e (F2). Média de 20 repetições para as vogais [ɐ]̃ , [ĩ] e [õ] e 14 repetições para [ɛ]̃ .
+
+F2 3000 2750 2500 2250 2000 1750 1500 1250 1000 750
+ĩ
+
+ɛ̃
+
+õ
+
+ã
+
+500 300 350 400 450 500 550 600 650 700 750
+
+F1
+
+Em 2.7 e 2.8 temos a síntese dos resultados médios obtidos para as vogais nasais. A diferença entre a produção das nasais por AK e MX, já observada anteriormente, fica mais nítida quando olhamos tais gráficos. Notamos, por exemplo, que MX produz a nasal “ã” em uma região claramente mais baixa do que a produzida por AK. Além disso, o espalhamento das nasais pelo espaço acústico em 2.8 – que trata dos dados de MX – é visivelmente maior do que para AK, demonstrado em 2.7., quando observamos uma tendência das vogais nasais dirigirem-se mais ao centro do espaço acústico.
+Também podemos comparar a distribuição das vogais orais e nasais para cada informante, o que é feito em 2.9 e 2.10, que apresentam a síntese dos valores médios das vogais orais e nasais para AK e MX, respectivamente. Os dados são os mesmos já apresentados, mas dessa vez sobrepostos em um único gráfico.
+
+80
+
+Figura 2.9: Triângulo da dispersão das vogais orais e nasais para AK, obtido a partir dos valores médios de (F1) e (F2) das vogais orais e nasais.
+
+2250
+
+F2
+
+2000
+
+1750
+
+1500
+
+1250
+
+1000
+
+750
+
+i
+
+ĩ
+
+ɨ
+
+ɛ̃ ɛ
+
+ã
+
+o
+
+ɔ
+
+õ
+
+a
+
+500 300 350 400 450 500 550 600 650 700 750
+
+F1
+
+Em 2.9 observamos que o efeito da nasalização atua sobre o F1 elevando a vogal baixa [a] e abaixando as altas [i] e [o]. Seria esperado que sob o efeito da nasalidade as vogais fossem produzidas mais ao centro do espaço acústico, mas as vogais anteriores [ĩ] e [ɛ]̃ fogem a essa regra, pois sob o efeito da nasalidade passam a ser produzidas em uma região ainda mais anterior do que suas contrapartes orais. Na figura acima temos os dados de MX.
+
+Figura 2.10: Triângulo da dispersão das vogais orais e nasais para MX, obtido a partir dos valores médios de (F1) e (F2).
+
+F2
+
+2500
+
+2250
+
+2000
+
+1750
+
+1500
+
+1250
+
+1000
+
+750
+
+500 300
+
+i
+
+ĩ
+
+350
+
+ɨ
+
+400
+
+450
+
+o
+
+500
+
+ɛ̃ɛ
+
+õ
+
+550
+
+ɔ
+
+600
+
+650
+
+a
+
+ã
+
+700
+
+750
+
+F1
+
+81
+Nos dados de MX, em 2.10, observamos que, quanto ao F2, de uma forma geral, a nasalização provoca a retração das vogais anteriores, o que leva a uma centralização do inventário fonético da língua em comparação ao das vogais orais. A nasalização parece não atuar sobre a vogal alta anterior, uma vez que sob seus efeitos a produção da vogal é realizada em uma área ainda mais alta, comparando-a com a da produção da vogal oral, e opondo-se aos dados de AK, para quem a nasalização abaixa as vogais altas, como vimos anteriormente. A nasalização também provoca uma pequena elevação da vogal central baixa e da média anterior, como observado em 2.10.
+2.4.3.1 Conclusões
+A medição das vogais nasais da língua nos permite concluir que há quatro segmentos nasais distintos quanto ao espaço acústico [ĩ, ɛ,̃ ɐ̃, õ]. Observamos que a nasalização provoca diferenças no espaço acústico preenchido por vogais orais e nasais na língua, sendo que alguns aspectos devem ser considerados: de modo geral, AK tende a produzir as vogais nasais mais ao centro do espaço acústico; enquanto em MX essa produção tende a ser mais anterior. Enquanto AK, sob o efeito da nasalidade, apresenta uma acentuada elevação na produção da vogal central baixa, essa elevação é pouco significativa nos dados de MX. A alta posterior [õ] comporta-se de forma semelhante em AK e MX, isto é, há um abaixamento dessa vogal sob o efeito da nasalidade. Além disso, em AK esse fenômeno é acompanhado pela produção de F2 mais ao centro do espaço acústico, comparando-se com a parte oral, enquanto para MX não há variação significativa em termos de F2.
+
+82
+Outro ponto a se ressaltar é quanto à vogal posterior [õ]. Tal vogal compensa a aparente assimetria das vogais nasais da língua, uma vez que o sistema das vogais orais é simétrico e que não há, como vimos no início deste capitulo, uma contraparte nasal para todas as vogais orais. Assim, a nasal [õ] distribui-se pelo espaço de produção equivalente ao das orais [o] e [ɔ] - o que não compromete sua qualidade e/ou classificação como uma vogal alta - equilibrando o sistema da língua. Assim, podemos postular um inventário fonêmico para a língua Kuruaya composto por seis vogais orais e quatro vogais nasais, como demonstrado a seguirː
+
++ alta - alta
+
+- posterior
+
++ posterior
+
+- arredondada + arredondada
+
+/i/ /ĩ/
+
+/ɨ/
+
+/o/ /õ/
+
+/ɛ/ /ɛ/̃
+
+/a/ /ã/
+
+/ɔ/
+
+83
+CAPÍTULO III
+ESTRUTURA FONÉTICA E FONOLÓGICA DAS CONSOANTES DO KURUAYA
+3.0 Introdução Neste capítulo veremos a estrutura fonética e fonológica das consoantes em
+Kuruaya. Em nossa análise retomaremos algumas considerações feitas na tese de Picanço (2005) e nas dissertações de Costa (1998) e Mendes (2007). Com isso acreditamos ser possível apresentar confirmações, ampliações ou mesmo uma nova leitura dos fenômenos lingüísticos abordados, e agora revistos, a partir dos novos dados coletados e das contribuições da fonética acústica. Tais discussões serão abordadas na seção 3.1, onde tratamos do inventário fonético dos segmentos consonantais do Kuruaya. Antes, porém, faz-se necessário conhecer as propostas fonológicas para o sistema consonantal da língua, apresentadas por Costa (1998), que é a mesma seguida por Mendes (2008), e Picanço (2005).
+Em 3.1, a seguir, temos o inventário fonêmico das consoantes do Kuruaya segundo Costa (1998), para quem o inventário consonantal da língua constitui-se por dezoito consoantes. Em 3.2 segue o inventário postulado por Picanço (2005), composto por dezessete consoantes.
+
+84
+
+Tabela 3.4 Inventário fonêmico das consoantes segundo Costa (1998)
+
+Bilabial Interdental Alveolar Palatal
+
+Velar Glotal
+
+Oclusivas
+
+pb
+
+t
+
+d
+
+k
+
+ʔ
+
+Africadas
+
+tʃ
+
+dʒ
+
+Fricativas
+
+ðS
+
+ʃ
+
+h
+
+Nasais
+
+m
+
+n
+
+ŋ
+
+Vibrante
+
+r
+
+Aproximantes
+
+w
+
+j
+
+Tabela 3. 5 Inventário fonêmico das consoantes segundo Picanço (2005)
+
+Labial
+
+Alveolar
+
+Palatal
+
+Velar
+
+Glotal
+
+Oclusivas
+
+pb
+
+t
+
+d
+
+tʃ
+
+k
+
+Nasais
+
+m
+
+n
+
+ŋ
+
+Fricativas
+
+s
+
+ʃ
+
+Lateral
+
+l
+
+Aproximantes
+
+w
+
+r
+
+j
+
+ʔ
+
+h
+
+As análises de Costa (1998) e Picanço (2005) apresentam algumas diferenças quanto às consoantes do Kuruaya. A distinção entre as duas análises se dá em relação à consoante africada /dʒ/ e a fricativa interdental /ð/, presentes no quadro fonêmico proposto por Costa. O fonema /dʒ/ é analisado como alofone de /d/ na tese de Picanço. A autora explica que há um processo de alofonia em que [dʒ]
+
+85
+ocorre sempre diante de [i]. Quanto à interdental /ð/, presente no quadro fonêmico de Costa, Picanço descreve-a como um alofone de /l/.
+
+Tabela 3.6 Diferenças entre as análises de Costa e Picanço
+
+Costa (1998)
+
+Picanço (2005)
+
+/ dʒ / Africada alveopalatal
+
+[dʒ] Alofone de /d/
+
+/ ð / Fricativa interdental
+
+[ ð ] Alofone de /l/
+
+Os dados coletados durante nossa pesquisa nos permitiram postular o seguinte inventário para as consoantes da língua Kuruaya, que tal qual concebemos aqui, possui dezessete fonemas consonantais.
+
+Tabela 3.4 Proposta defendida para o inventário fonêmico das consoantes do
+
+Kuruaya
+
+Labial
+
+Alveolar
+
+Palatal
+
+Velar
+
+Glotal
+
+Oclusivas
+
+pb
+
+t
+
+d
+
+tʃ
+
+k
+
+Nasais
+
+m
+
+n
+
+ŋ
+
+Fricativas
+
+s
+
+ʃ
+
+Lateral
+
+l
+
+Aproximantes
+
+w
+
+r
+
+j
+
+ʔ
+
+h
+
+Os fatores que nos levaram a postular o inventário apresentado na tabela 3.4 serão discutidos no item 3.1, adiante. Na tabela 3.5, abaixo, temos os fonemas apresentados acima, ilustrados com exemplos da língua.
+
+86
+
+Tabela 3.5 Exemplos para o inventário das consoantes do Kuruaya postulado neste trabalho
+
+[]
+
+//
+
+GLOSA
+
+p
+
+[wa⎆pa]
+
+/wa⎆pa/
+
+‘remédio’
+
+b
+
+[ẽnɐ̃ɛ⎆ba]
+
+/ɛdãɛ⎆ba/
+
+‘acender’
+
+t
+
+[o⎆ta]
+
+/o⎆ta/
+
+‘meu olho’
+
+d
+
+[⎆da]
+
+/⎆da/
+
+‘um’
+
+k
+
+[karu⎆rɛ]
+
+/karo⎆rɛ/
+
+‘taboca da fina’
+
+ʔ
+
+[kura⎆ʔa]
+
+/kora⎆ʔa/
+
+‘machado’
+
+m
+
+[ma⎆ra]
+
+/ma⎆ra/
+
+‘milho’
+
+ŋ
+
+[⎆lã̃ ŋ]
+
+/⎆lãŋ/
+
+‘fezes’
+
+n
+
+[ãȷ⎆̃kõn]
+
+/ajkon/
+
+‘banco’
+
+tʃ
+
+[tʃa⎆wap̚ ]
+
+/tʃa⎆wap/
+
+‘comida’
+
+s
+
+[isa⎆ðɔ]
+
+/isa⎆lɔ/
+
+‘aracu’
+
+l
+
+[ðari⎆wa ~ lari⎆wa ]
+
+/lari⎆wa/
+
+‘mucura’
+
+ʃ
+
+[ða⎆ʃa ~ la⎆ʃa]
+
+/la⎆ʃa/
+
+‘fogo’
+
+h
+
+[i⎆hi]
+
+/i⎆hi/
+
+‘macaco-da-noite’
+
+r
+
+[kua⎆ra]
+
+/koa⎆ra/
+
+‘caranguejo’
+
+w
+
+[awa⎆rɛ]
+
+/awa⎆rɛ/
+
+‘ariranha’
+
+j
+
+[a⎆waj]
+
+/a⎆waj/
+
+‘cará, inhame’
+
+87
+No inventário acima aparecem somente os sons consonantais que fazem parte da fonologia da língua. Contudo, o Kuruaya apresenta em seu inventário fonético uma quantidade maior de sons, que foram o ponto inicial para a descrição de seu sistema fonológico. Estes sons são, tradicionalmente, descritos de acordo com o ponto e o modo de articulação em que são realizados, como veremos a seguir.
+3.1 Inventário fonético dos segmentos consonantais do Kuruaya
+3.1.1 Oclusivas
+As consoantes oclusivas formam um grupo de segmentos consonantais produzidos com o maior grau de obstrução da corrente de ar. Segundo Ladefoged (2001), elas são caracterizadas por uma fase de oclusão que resulta de um período em que o ar está “preso” no trato vocal; e por uma explosão de energia, “burst”, que ocorre no momento da soltura, após a oclusão. Este burst aparece no espectograma como um pico de energia, curto em duração, após o período de silêncio, sendo mais visível para as oclusivas surdas do que para as sonoras. A língua Kuruaya apresenta um conjunto de seis consoantes oclusivas /p, b, t, d, tʃ, k/, que são distintas considerando-se o ponto em que se dá a oclusão e a ausência /p, t, tʃ, k/ ou presença /b, d/ do vozeamento.
+
+88
+
+3.1.1.1
+
+Oclusivas surdas x sonoras
+
+Oclusivas sonoras são acusticamente caracterizadas pela vibração das cordas vocais e um burst extremamente curto, enquanto as oclusivas surdas são representadas por um longo período de silêncio, seguido de um burst bem mais perceptível, comparando-o com o das oclusivas sonoras.
+
+As figuras 3.1 e 3.2 abaixo ilustram a realização de consoantes oclusivas em posição intervocálica (VCV) em Kuruaya. Nelas (a) indica o início da oclusão, ou seja, marca o ponto de início do fechamento do trato vocal, enquanto (b) assinala a explosão (burst). Esse espaço representa a duração da consoante em análise.
+
+A figura 3.1 ilustra um caso típico de realização de uma oclusiva surda em Kuruaya, nesse caso a bilabial [p]. O ponto (a) assinala o início da oclusão da consoante. Observe que o vozeamento da vogal anterior não é imediatamente interrompido, havendo ainda um curto período de vibração, cujo final é indicado pela seta na figura. Após esse período, há um espaço que se assemelha a uma linha reta; esse espaço é o resultado da ausência de vibração das cordas vocais requerida para a produção de oclusivas surdas.
+
+89 Figura 3.1 Forma em wav de [ipi], /ipi/ ‘chão, barro’.
+
+(a)
+
+(b)
+
+Já em 3.2, que corresponde à realização da oclusiva sonora [b], observa-se que a vibração das cordas vocais é mantida durante toda a duração da oclusão, compreendida entre (a) e (b).
+Figura 3.2 Forma em wav de [ubi], /obi/ ‘boca’.
+
+(a)
+
+(b)
+
+O principal correlato acústico utilizado para a distinção entre oclusivas surdas e sonoras é a duração da oclusão (LADEFOGED, 1996) – que é o período correspondente aos pontos (a) e (b) nas figuras acima: oclusivas surdas tendem a ter uma oclusão maior do que oclusivas sonoras. Essa duração foi medida para as
+
+90
+oclusivas [p, t, k, b, d] em Kuruaya nas seguintes palavras: ‘filhote’ [ibɛpot̚̚ ], em que medimos a oclusão de [p] e [b]; ‘peixe’ [putip̚ ], ‘chamar’ [ɛdot̚ ], ‘dele’ [tɛkat̚ ], em que medimos a duração das consoantes [t, d, k], respectivamente. Ao todo medimos 10 amostras para cada oclusiva. Os resultados são apresentados na tabela 3.6, que compara a duração das oclusivas surdas [p, t] com suas contrapartes sonoras [b, d], além da medição da duração de [k], que em Kuruaya não possui sua contraparte vozeada [g].
+
+Tabela 3.6 Medidas da duração (em ms) das oclusivas surdas [p, t, k] e sonoras [b, d] em seqüências CVC. Total de 10 repetições para cada oclusiva.
+
+[p]
+
+[t]
+
+[k]
+
+[b]
+
+[d]
+
+Média
+
+211
+
+201
+
+201
+
+144
+
+132
+
+Desvio padrão
+
+22.1
+
+19.0
+
+23.1
+
+16.6
+
+26.5
+
+Os dados mostram que a duração da oclusão pode variar. De modo geral, enquanto as oclusivas surdas têm duração acima de 200 ms, a duração das sonoras não ultrapassa os 145 ms. Entre as oclusivas surdas a maior duração é a da bilabial [p], enquanto a alveolar [t] e a velar [k] têm medidas equivalentes; no grupo das oclusivas surdas, a bilabial [b] tem duração maior que a alveolar [d]. Contudo, se considerarmos o desvio padrão teremos apenas dois grupos: as surdas [p, t, k] e as sonoras [b, d]. Opondo surdas x sonoras temos que a bilabial surda [p] tem 67 ms de duração a mais que a bilabial sonora [b]; enquanto que a alveolar [t] tem duração superior a sua contraparte sonora [d] em 56 ms.
+
+91
+
+3.1.1.2
+
+Realização das consoantes oclusivas surdas
+
+As consoantes oclusivas surdas do Kuruaya /p, t, k/ são realizadas como plenas [p, t, k] em início de sílaba, ou seja, em sua produção há total obstrução da passagem de ar, sem vibração das cordas vocais, mas ao se desfazer a oclusão, o ar sai bruscamente provocando uma espécie de plosão, característica das consoantes explodidas. Em (72), (73) e (74) temos exemplos de oclusivas explodidas surdas.
+
+(72) /p/ /pɨj/ /parawa/
+
+[pɨj] [parawa]
+
+Glosa ‘cobra’ ‘arara vermelha’
+
+(73)
+
+/t/ /takip/
+
+/toj/
+
+[takip̚ ] [toj]
+
+‘quente’ ‘sangue’
+
+(74)
+
+/k/ /korɛkorɛ/
+
+/kodɛpa/
+
+[kurɛkurɛ] [kudɛpa]
+
+‘sapo’ ‘pássaro bico de agulha’
+
+As oclusivas surdas /p, t, k/, quando em declive de sílaba, são realizadas como os fones não-explodidos [p̚ , t̚ , k̚ ]. Na produção de fones oclusivos nãoexplodidos também ocorre a obstrução da passagem de ar, mas sem a abertura repentina dessa obstrução, o que faz com que não haja a plosão de ar, que ocorre nos fones oclusivos explodidos. As oclusivas não-explodidas do Kuruaya, [p̚ , t⍾, k̚ ], são apresentadas nos exemplos (75), (76) e (77), respectivamente.
+
+(75) /p/
+
+[p̚ ] /potip/ /ɛkop/
+
+(76) /t/
+
+[t̚ ] /ɛdot/ /lat/
+
+(77) /k/
+
+[k̚ ] /ipɛrɛk/ /ɛdãpɨrik/
+
+92
+
+[putip̚ ] [ɛkop̚ ]
+[ɛdot̚ ] [ðat̚ ]
+[ipɛrɛk̚ ] [ẽnɐp̃ ɨrik̚ ]
+
+Glosa ‘peixe’ ‘descer’
+‘chamar, vir’ ‘escorpião’
+‘amarelo’ ‘moquear’
+
+Acusticamente, a realização de consoantes oclusivas é caracterizada por um período de silêncio acompanhado de um burst, que marca o momento da explosão do som, como vimos nas figuras (3.1) e (3.2) acima. No caso de oclusivas não explodidas, como [p̚ , t̚ , k̚ ] temos apenas um período de silêncio, que pode ou não suceder uma pequena vibração, como ilustrado na figura 3.3 para a palavra ‘peixe’, [putip̚ ].
+Figura 3.3 Espectrograma de [putip̚ ], ‘peixe’.
+
+(a)
+
+(b) (c)
+
+93
+Na figura 3.3, (a) marca o momento da explosão (burst) de [p] na sílaba inicial e (b) marca o momento da explosão de [t], na segunda sílaba. Por serem sons surdos o burst dessas consoantes é antecedido por um período de silêncio, que aparece na onda sonora quase como uma linha reta. Em seguida, (c) indica o momento em que os lábios se fecham para a realização do som não-explodido [p̚ ]; há uma pequena vibração – reflexo da mudança gradual de vozeamento da vogal precedente para ausência de vozeamento na produção de [p] – seguida por um período de silêncio, uma vez que nos sons não-explodidos não ocorre a plosão que origina o burst.
+A língua Kuruaya possui ainda outro fonema oclusivo: trata-se da consoante palatal explodida surda [tʃ], que é comumente classificada como uma africada. A consoante oclusiva [tʃ] tem uma característica que a difere das outras oclusivas, anteriormente descritas. Em sua produção ocorre uma mudança gradativa de oclusiva para fricativa, uma vez que o segmento [tʃ] é formado pela seqüência dos fones oclusivo [t] e fricativo [ʃ]. Essa seqüência pode ser visualizada na figura 3.4., em que (a) marca o início da oclusão; o espaço entre (a) e (b) corresponde ao componente oclusivo [t] da africada [tʃ] e (b) e (c) correspondem ao componente fricativo.
+
+94 Figura 3.4 Espectrograma do segmento [atʃi], da palavra [apatʃi] ‘jacaré’.
+
+(a)
+
+(b)
+
+(c)
+
+Em Kuruaya a contraparte vozeada de [tʃ] não possui valor distintivo, ou seja, não é fonema. Assim, [dʒ] só ocorre como alofone de [d], como discutiremos adiante. Mesmo assim, podemos comparar sua estrutura acústica com a de [tʃ]. Para isso, escolhemos as palavras [itʃip̚ ], ‘amargo, azedo’ e [idʒik̚ ], ‘lamparina, luz’, em que os sons sob análise encontram-se entre vogais [i], em sílabas fechadas do tipo CVC. As diferenças acústicas entre [tʃ] e [dʒ] podem ser observadas nas figuras 3.5 e 3.6, respectivamente.
+
+Figura 3.5 Espectrograma de [itʃip̚ ] ‘amargo, azedo’.
+
+257 (ms)
+
+52 (ms)
+
+(a)
+
+(b) (c)
+
+95
+
+Figura 3.6 Espectrograma de [idʒikʼ] , ‘lamparina, luz’.
+184 (ms)
+
+59 (ms)
+
+(a)
+
+(b) (c)
+
+Nas figuras acima (a) indica o início da oclusão, (b) o princípio da fricção e (c) o começo da vogal. Observando-as, notamos que em 3.5 podemos visualizar claramente o momento do burst, indicado por (b), pois trata-se de uma consoante surda. Em 3.6 há uma vibração continua da onda sonora, entre (a) e (b), que depois se transforma em uma fricção. Essa vibração continua torna o burst mais difícil de ser identificado. Quanto a duração, a consoante [tʃ] é relativamente mais longa, realizada em cerca de 309 ms no exemplo acima, enquanto [dʒ] fica em torno de 243 ms, totais resultantes da medição dos períodos correspondentes aos pontos (a) e (c). A duração maior da consoante [tʃ] é esperada, uma vez que, como vimos na tabela 3.5, oclusivas surdas têm maior duração do que suas contrapartes sonoras. Contudo, o tempo de fricção de [tʃ] é de 52 ms, menor do que o de [dʒ], que é de 59 ms. Também podemos comparar as características acústicas da oclusiva palatal [tʃ] com as da oclusiva alveolar [t], representada na figura 3.7, em que temos [titi], ‘rio’.
+
+96
+Figura 3.7 Espectrograma de [titi] ‘rio’.
+188 (ms)
+
+(a)
+
+(b)(c)
+
+Em 3.7 (a) indica o início da oclusão do segundo [t], (b) o começo do burst e (c) o início da vogal. Não há, nesse caso, fricção, como observamos em 3.5; o intervalo entre (b) e (c) é o que chamamos de Voice Onset Time (VOT) – o período compreendido entre o momento em que a consoante é explodida e o momento em que o vozeamento da vogal é iniciado (LADEFOGED, 1996) – o qual não foi incluído neste estudo. Comparando as figuras 3.5 e 3.7 podemos notar que a duração da oclusiva alveolar [t] é de 188 ms, bem inferior aos 257 ms de duração da oclusiva palatal [tʃ]. A duração é um dos fatores que nos levaram a classificar [tʃ] como uma oclusiva, uma vez que, embora tal consoante seja formada, foneticamente, por uma parte oclusiva e outra fricativa, a porção oclusiva de [tʃ] é maior que a fricativa, como demonstrado em 3.7, em que temos os valores médios da duração (em ms) da parte oclusiva e fricativa de [tʃ] na palavra ‘jacaré’ [apatʃi], em que foram medidas 15 repetições.
+
+97
+
+Tabela 3.7 Medidas da duração (em ms) da parte oclusiva e fricativa de [tʃ] na palavra [apatʃi], ‘jacaré’. Total de 15 medições.
+
+[t]
+
+[ʃ]
+
+[t] +[ʃ]
+
+Média
+
+232,05
+
+41,85
+
+273,90
+
+Desvio padrão
+
+14,93
+
+5,44
+
+10,96
+
+Na tabela 3.7 temos que a média da duração do tempo de oclusão de [t] é 190,20ms maior que a média do tempo de fricção de [ʃ], o que mostra que o componente oclusivo de [tʃ] prevalece na produção desse segmento consonantal. Em 3.8 apresentamos uma tabela em que são apresentados os valores médios da produção de [ʃ] e [t] nas palavras [iʃɛp̚ ], ‘gordo’ e [putip̚ ], ‘peixe’. Para a construção da tabela medimos 20 repetições para cada consoante.
+
+Tabela 3.8 Medidas da duração de [ʃ] e [t] nas palavras [iʃɛp̚ ], ‘gordo’ e [putip̚ ], ‘peixe’. 20 medições para cada consoante.
+
+[ʃ]
+
+[t]
+
+Média
+
+217,48
+
+201,57
+
+Desvio padrão
+
+17,58
+
+19,03
+
+Ao compararmos os valores da tabela 3.7 e 3.8 observamos que o tempo de friccao de [ʃ] na oclusiva [tʃ] (41,85ms) é bem inferior ao apresentado para esta consoante na tabela 3.8 (217,48ms). Já o tempo de oclusão de [t] no segmento [tʃ]
+
+98
+
+(232,05ms; D.P. 14,93) assemelha-se ao de [t] (201,57ms; D.P. 19,03) na tabela acima, o que comprova ser [tʃ], foneticamente, um segmento predominantemente oclusivo. Em (78) apresentamos a ocorrência de [tʃ] em dados da língua.
+
+(78) / tʃ / /tʃawap/ /tʃoʔa/
+
+[tʃawap̚ ] [tʃoʔa]
+
+‘comida’ ‘morro’
+
+3.1.1.3
+
+Realização das consoantes oclusivas sonoras
+
+As consoantes oclusivas sonoras do Kuruaya são sempre explodidas. Tal qual ocorre com as oclusivas surdas, há em sua produção total obstrução da passagem de ar. Contudo, no caso das oclusivas sonoras a passagem do ar ocorre com vibração das cordas vocais, ao contrário do que acontece com as oclusivas surdas. Na língua Kuruaya apenas as oclusivas surdas [p] e [t] possuem a sua contraparte sonora, no caso, [b] e [d], conforme exemplos (80) e (81).
+
+(80) /b/ /bajo/ /baro/
+
+[bajo] [baro]
+
+‘pai’ ‘coruja’
+
+(81) /d/ /darakɔ/ /da/
+
+[darakɔ] [da]
+
+‘saracura’ ‘um’
+
+99
+A oclusiva sonora [b] ocorre sempre em ápice de sílaba e não possui outro alofone, já a oclusiva [d] tem várias particularidades, cujas características merecem um tópico à parte.
+3.1.1.3.3 Um caso especial: /d/ diante de vogais orais
+A consoante /d/ possui uma realização distinta das demais oclusivas. Picanço (2005) afirma que em Kuruaya [d] é realizado como a africada [dʒ] somente diante de [i], como em [kadʒi] ‘sol’, por exemplo. Já Costa (1998, p. 17) e Mendes (2007, p. 22) tratam [d] e [dʒ] como fonemas distintos, alegando que estes também podem ocorrer diante de outras vogais. Para reforçar essa tese Mendes (2007, p. 313) apresenta dados como [kidʒap̚ ], ‘casa’; [weidʒɨ], ‘nós, nos (incl.)’; [otʃidʒe], ‘nós, nos (excl.)’ e [eidʒi], ‘vocês’, em que somente o último caso não ocorre diante de vogal diferente de [i].
+Mendes (2007, p. 23, 31, 56) também apresenta as formas /kidʒap/ ‘casa’ e /kidap/ ‘abrigo’ como palavras distintas. No entanto, está claro que não há diferença alguma entre essas duas formas, uma vez que ambas fazem parte do mesmo campo semântico, ao lado de termos como “moradia” e “lar”, e certamente trata-se do mesmo morfema. Nesse caso, o que o autor apresenta como palavras distintas são, na verdade, mais uma prova da variação existente entre [dʒ] e [d]. A proposta defendida aqui é a de que /d/ possui os alofones [dʒ], [d] e [dʲ], cuja ocorrência obedece à seguinte regraː [dʒ] ocorre sempre sucedido pela vogal [i]; quando o [i]
+3 Os dados apresentados por Mendes foram retirados do trabalho de Costa (1998) e do acervo do Laboratório de Linguística Indígena da Universidade de Brasília.
+
+100
+antecede /d/ temos [dʲ]; nos outros casos temos sempre [d]. Essa hipótese justifica os exemplos apresentados por Mendes (2007), os principais referidos acima, uma vez que em todos eles tal regra pode ser constatada. A formalização dessa regra pode ser observada em (82), (83) e (84).
+
+(82)
+
+/d/
+
+(83)
+
+/d/
+
+(84)
+
+/d/
+
+[d] / ___V -[i]
+
+[ðadɛ] [ɛdot̚ ]
+
+/ladɛ/ /ɛdot/
+
+‘porco’ ‘chamar’
+
+[dʒ] / __ [i]
+
+[idʒi] [wadʒi]
+
+/idi/ /wadi/
+
+‘veado’ ‘lua’
+
+[dʲ] / [i] __
+
+[kidʲap̚ ] [idʲutʃɛ]
+
+/kidap/ /idutʃɛ/
+
+‘casa’ ‘aqui’
+
+A palatalização de /d/ quando antecedido pela vogal [i], observado em (84), não é uma especificidade somente do Kuruaya. Lacerda-Guerra (2004) identificou esse fenômeno na língua Suruí, falada pelos índios de Rondônia. Assim, para corroborar nossa tese sobre a distribuição do fonema /d/ - conforme dados (82), (83) e (84) – em Kuruaya, embasamo-nos no fato de que sons fricativos são possíveis de ser descritos observando-se seu tempo de fricção. Dessa forma, podemos reconhecer acusticamente uma consoante fricativa pela ocorrência de intervalos de constrição que, diferentemente das oclusivas, são preenchidos com ruídos e não com silêncio. Esse ruído é o resultado da turbulência da corrente de ar passando
+
+101
+
+pelo estreitamento entre os articuladores, o que pode ser observado no espectrograma pela presença de um padrão de ruído aperiódico, especialmente nas freqüências mais altas, que varia, dependendo do ponto de articulação da consoante fricativa em questão (LADEFOGED, 1996).
+
+Assim, o espectograma de sons como [dʒ], constituídos por uma parte oclusiva e outra fricativa, deve apresentar uma vibração constante da onda sonora, pois se trata de sons vozeados; um pequeno burst, que marca a realização de [d], seguido por um período de fricção – momento de realização de [ʒ]. A área sombreada nas figuras abaixo representa o tempo de fricção da consoante [dʒ] nas palavras [idʒi] ‘veado’ e [kidʒap] ‘casa’, respectivamente. Na figura 3.8 a vibração da onda sonora é realizada entre os pontos (a) e (b); o burst é indicado pela seta e coincide com o ponto (b), que também assinala o início da fricção de [ʒ], que vai até (c), onde tem início a vogal [i].
+
+Figura 3.8 Forma em wav de [idʒi], ‘veado’.
+
+71 (ms)
+
+(a)
+
+(b)
+
+(c)
+
+102
+Em 3.9, abaixo, é possível determinar o início da vibração (a) e o da fricção (b), mas o burst é mais difícil de ser identificado. Se compararmos 3.9 com 3.8 teremos que o tempo de fricção – localizado entre (b) e (c) – é consideravelmente menor na figura 3.9.
+Figura 3.9 Onda acústica e espectrograma de [kidʲap̚ ], ‘casa’.
+32 (ms)
+
+(a)
+
+(b) (c)
+
+Em 3.9 não temos uma africada plena como em 3.8. Há uma fricção muito leve observada entre a linha pontilhada e (c), diferente do tipo de fricção observada na figura 3.8. Além disso, observe que os formantes F1, F2 e F3 (marcados pelas setas à direita) aparecem relativamente definidos nessa região, uma estrutura bastante semelhante à estrutura de formantes observada na vogal [i] precedente (setas à esquerda). Isso demonstra que há um efeito co-articulatório produzido em decorrência da produção da vogal anterior [i]. A configuração assumida pela língua para [i], ou seja, próxima ao palato, é mantida até depois que [d] é solto, dando a impressão auditiva de uma africada plena [dʒ], mas que, na verdade, trata-se de uma alveolar levemente palatalizada, representada por [dj].
+
+103
+
+Para mostrar as diferenças na realização de [dʒ] e [dʲ] medimos o tempo de fricção dessas consoantes em seus ambientes de ocorrência:
+
+a. [dʒ] entre vogais [i], como em [idʒi], ‘veado’; b. [dʒ] seguido por [i] e precedido por outra vogal, como em [kadʒi], ‘sol’; c. [dʲ] precedido por [i] e sucedido por outra vogal, como em [kidjʒap], ‘casa’.
+
+A tabela 3.9 apresenta os valores médios das medições do tempo de fricção de [dʒ] e [dʲ] nessas palavras, para cada uma delas temos uma média de vinte repetições, divididas entre os dois informantes, totalizando 60 repetições.
+
+Tabela 3.9 Medições do tempo de fricção de [dʒ] e [dʲ] entre vogais. Total de 60
+
+repetições.
+
+(AK)
+
+(MX)
+
+[idʒi] [kadʒi]
+
+[kidʲap̚ ]
+
+[idʒi] [kadʒi]
+
+[kidʲap̚ ]
+
+Média
+
+72
+
+60
+
+35
+
+72
+
+61
+
+29
+
+Desv. Pad.
+
+2.0
+
+1.0
+
+5.1
+
+1.0
+
+3.0
+
+7.0
+
+Na tabela acima observamos que [dʒ] possui um tempo de fricção maior quando realizado entre vogais [i]. Este tempo diminui um pouco quando a consoante é antecedida por outra vogal, no caso [a], sendo a queda no tempo de fricção equivalente nos dados dos dois informantes. Quando [dʒ] é realizado sucedido pela vogal [a] e antecedido por [i] o tempo de fricção cai pela metade tanto em (AK) quanto em (MX). Nesses casos, não temos a consoante africada [dʒ], mas somente um efeito co-articulatório produzido pela vogal [i]. Assim, o que Costa (1998) e Mendes (2008) argumentam ser uma africada – quando diante de vogais diferentes
+
+104
+de [i] – seria, na realidade, a consoante alveolar palatalizada [dʲ], uma vez que a ocorrência da africada [dʒ] esta condicionada à presença do [i].
+Outra comparação necessária é a da produção de [dʒ] com a do [d] pleno, a fim de observar se em Kuruaya este é realizado com algum tipo de fricção. A figura 3.10 mostra a produção de [d] na palavra [ɛdɔʔ], ‘ele comeu’. Nela o princípio da oclusão é marcado por (a) e o momento do burst é assinalado por (b), seguido pela realização da vogal [ɔ]. A linha pontilhada indica a curva formada por F2, indo de uma região mais alta, requerida por [d], para uma região mais baixa, para a produção de [ɔ]. Há uma transição de F2 mais acentuada logo no início da vogal, o que parece sugerir que essa consoante é produzida com uma articulação mais retraída, digamos pós-alveolar. Isso pode estar relacionado à observação feita por Picanço (2005) de que há uma variante de [d] em Kuruaya que tende a ser mais posterior, podendo ser realizado até mesmo como um som retroflexo [ɖ]. Infelizmente, não será possível aprofundar-nos nessa discussão devido à insuficiência de dados com relação à ocorrência de [d] nos mais diversos ambientes.
+Figura 3.10 Forma em wav. de [ɛdɔʔ] ‘ele comeu’
+155 (ms)
+
+(a)
+
+(b)
+
+105
+Em 3.10 o burst é quase que seguido imediatamente pelo início da vogal, como se trata da oclusiva alveolar plena [d] não há qualquer indício de fricção, como ocorre em 3.8 e 3.9. Assim, podemos concluir que a produção de [dʒ] em Kuruaya ocorre somente diante da vogal alta anterior, como conseqüência da palatalização (ou africação) da oclusiva alveolar [d] quando sucedida pela vogal [i]. Com essa palatalização a oclusiva alveolar [d] passa a ser produzida como uma africada alveopalatal, sendo articulada na parte anterior da língua e tocando o palato duro. Ladefoged (1996) destaca que há dois momentos distintos na produção de uma consoante africada: na fase inicial da produção os articuladores produzem uma obstrução completa na passagem da corrente de ar através da boca e o véu palatino encontra-se levantado (como nas oclusivas). Na fase final dessa obstrução (quando se dá a soltura da oclusão), ocorre uma fricção decorrente da passagem central da corrente de ar (como nas fricativas). Essas fases podem ser observadas claramente nas figuras 3.8 e 3.9.
+Assim, podemos concluir que, em Kuruaya, a ocorrência da africada palatal [dʒ] somente é possível diante de [i], como demonstrado pelas medidas de seu tempo de fricção; quando a consoante [d] vem antecedida por [i] e seguida por uma outra vogal ocorre um efeito de co-articulação que faz com que a consoante alveolar seja produzida levemente palatalizada, como [dʲ]. Um fator que comprova a influência de [i] no efeito fricativo de [dʒ] é que este não ocorre em Kuruaya se não for antecedido sucedido por [i], nesses casos, temos sempre a oclusiva plena [d], o que comprova ser [dʒ] somente um alofone do fonema /d/, cuja distribuição obedece aos contextos já especificados e que são reapresentados em (85).
+
+(85)
+
+/d/
+
+/d/
+
+/d/
+
+[d] / ___V - [i]
+
+[ðadɛ] [ɛdot̚ ]
+
+/ladɛ/ /ɛdot/
+
+106
+‘porco’ ‘chamar’
+
+[dʒ] / __ [i]
+
+[idʒi] [wadʒi]
+
+/idi/ /wadi/
+
+‘veado’ ‘lua’
+
+[dʲ] / [i] __
+
+[kidʲap̚ ] [idʲutʃɛ]
+
+/kidap/ /idutʃɛ/
+
+‘casa’ ‘aqui’
+
+3.1.1.3.4 Um caso especial: /d/ diante de vogais nasais
+Além dos alofones [d], [dj] e [dʒ], a consoante oclusiva /d/ apresenta, na língua Kuruaya, os alofones [n] e [ɲ], que ocorrem somente diante de vogal nasal. Nos trabalhos anteriores sobre a língua Kuruaya, aos quais tivemos acesso, - Costa (1998, 2002), Picanço (2005) e Mendes (2007) – [d] e [n] são tratadas como fonemas distintos. Os autores também descrevem a ocorrência de [ɲ] diante da vogal [i].
+Picanço chama atenção para o fato da distinção entre [d] e [n] não ser clara, enfatizando a necessidade de estudos mais aprofundados no assunto. A autora ressalta que não possui evidências suficientes para afirmar que /d/ e /n/ contrastam em ambientes orais. De acordo com Picanço (2005, p. 170)ː
+Likewise, /d/ and /n/ are neutralized to [n] in nasalised contexts; they are classified here as independent phonemes, but at this point of the investigation I cannot present strong evidence that they contrast in oral contexts. Like /d/, /n/ also has a palatal allophone [ɲ] before /i/.
+
+107
+
+A partir da problemática levantada pela autora procuramos descrever a distribuição das consoantes alveolares [d] e [n] em Kuruaya. Contudo, não encontramos pares mínimos em que tais consoantes estivessem em oposição tanto diante de vogal oral quanto nasal. Em Costa (1998, p. 13)4, no item que trata do contraste entre as consoantes quanto ao ponto de articulação, são apresentados dados que, segundo o autor, comprovariam a oposição entre [d] e [n]5. Esses dados são reproduzidos em (86) e (87), tal qual no trabalho de Costa:
+
+(86) ⎆
+
+/d/ : /n/⎆
+
+/ðade/⎆ /tane/
+
+‘porco’ ⎆ ‘rato’
+
+(87) ⎆
+
+/d/ : /n/⎆
+
+/odoðit/⎆ /onebit/
+
+‘meu tio’ ‘meu neto’
+
+Os dados de apresentados por Costa também foram coletados durante nossa pesquisa e sua transcrição é apresentada a seguirː
+
+(88)
+
+[d] : [n] ⎆ [ðadɛ] ⎆
+
+[tɐñ ɛ]̃
+
+/ðadɛ/⎆ /tadɛ/̃
+
+‘porco’ ⎆ ‘rato’
+
+(89) ⎆
+
+[d] : [n] ⎆
+
+[odoðitʼ]⎆ [õnɛb̃ it̚ ]
+
+/odolit/⎆ /odɛb̃ it/
+
+‘meu tio’⎆ ‘meu neto’
+
+4 Discutimos apenas dados de Costa, uma vez que Mendes usou os dados do autor para seu estudo comparativo e nos trabalhos de Picanço aos quais tivemos acesso não há dados que oponham [d] e [n]. 5 Nos exemplos (81) e (82) as transcrições são as mesmas adotadas por Costa.
+
+108
+
+Observando as transcrições fonéticas que fizemos dos pares utilizados por Costa (1998) para a oposição entre [d] e [n], constatamos que [d] somente ocorre diante de vogal oral; enquanto [n] aparece diante de vogal nasal. Assim, para verificar se essa distribuição – [d] diante de vogal oral e [n] de nasal – era procedente, nosso primeiro passo foi averiguar a qualidade da vogal nos dados apresentados pelo autor. Para tanto, fizemos a medição acústica dos três primeiros formantes para a vogal média anterior nas palavras ‘porco’ e ‘rato’. No total, realizamos 30 medições, distribuídas igualmente entre os dados de AK e MX. Os resultados são apresentados nas tabelas abaixo:
+
+Tabela 3.10 Média e D.P. de F1, F2 e F3 para a vogal média anterior das palavras [ðadɛ], ‘porco’ e [tɐ̃nɛ]̃ ‘rato’ – (AK).
+(AK)
+
+ɛ
+
+ɛ̃
+
+F1
+
+F2
+
+F3
+
+F1
+
+F2
+
+F3
+
+Média
+
+569,25 1873,37 2590,60 597,92 1898,05 2561,04
+
+Desvio Padrão 24,44 55,88
+
+60,42 26,87 74,81 138,76
+
+Tabela 3.11 Média e desvio padrão de F1, F2 e F3 para a vogal média anterior das palavras [ðadɛ], ‘porco’ e [tɐ̃nɛ]̃ ‘rato’ – (MX).
+(MX)
+
+ɛ
+
+ɛ̃
+
+F1
+
+F2
+
+F3
+
+F1
+
+F2
+
+F3
+
+Média
+
+571,90 2159,73 2776,73 572,82 1962,97 2899,41
+
+Desvio Padrão 51,80 59,40 136,28 15,71 118,97 120,88
+
+109
+Vimos no capítulo anterior, quando tratamos das características acústicas das vogais do Kuruaya, que os valores dos formantes são muito similares para a vogal média anterior oral [ɛ] e nasal [ɛ]̃ . Nas tabelas 3.10 e 3.11 acima essa característica da língua é novamente identificada, uma vez que AK e MX apresentam valores equivalentes para a vogal média anterior oral e nasal.
+Se compararmos os dados das tabelas acima com os obtidos com a medição das séries para vogais orais e nasais no Capítulo II, notaremos que somente o F2 da vogal nasal de MX apresenta alteração. A média obtida para o F2 da vogal nasal anterior na tabela 2.3 foi de 2181,16 Hz, enquanto na tabela 3.11 esse valor cai para 1962,97Hz, o que indica que tal vogal está sendo produzida, no segundo caso, em uma região mais anterior, como ocorre nos dados de AK (F2= 1898,05). Essa diferença é decorrente da influência da consoante que precede a vogal: no primeiro caso tínhamos uma oclusiva [d], no segundo, a nasal [n].
+No caso da língua Kuruaya somente os dados obtidos com a medição acústica dos formantes não são suficientes para determinar a nasalidade ou não da vogal. Contudo, outras pistas acústicas podem ser utilizadas a partir da observação das figuras 3.11 e 3.12, em que temos o espectograma da palavra ‘porco’, [ðadɛ], para AK e MX. Nelas, as linhas verticais marcam os limites dos segmentos fonéticos, enquanto as setas apontam para os formantes na área de produção da vogal anterior [ɛ]. A transição da consoante [d] para a vogal é facilmente identificada e assinalada na figura pela linha vertical após as setas.
+
+110 Figura 3.11 Forma em wav. de [ðadɛ] ‘porco’ – AK.
+
+ð
+
+a
+
+d
+
+ɛ
+
+Figura 3.12 Forma em wav. de [ðadɛ] ‘porco’ - MX.
+
+ð
+
+a
+
+d
+
+ɛ
+
+111
+Nas figuras 3.11 e 3.12 observamos que os formantes da vogal [ɛ] são claramente definidos, embora sejam mais fortes no espectro de MX do que no de AK. Além disso, a transição da consoante para a vogal é bem marcada, uma vez que a consoante que antecede [ɛ] é a oclusiva [d]. Espera-se que a transição entre sons nasais não seja tão clara, uma vez que consoantes nasais, tais quais as vogais, também apresentam formantes, como o observado nas figuras 3.13 e 3.14, abaixo, em que temos o espectograma de [tɐñ ɛ]̃ , ‘rato’.
+Figura 3.13 Forma em wav. de [tɐñ ɛ]̃ , ‘rato’ - AK.
+
+t
+
+ɐ̃
+
+n
+
+ɛ̃
+
+112 Figura 3.14 Forma em wav de [tɐ̃nɛ]̃ ‘rato’ – MX.
+
+t
+
+ɐ̃
+
+n
+
+ɛ̃
+
+Em 3.13 e 3.14 é difícil identificar os formantes, pois estes não são tão definidos no espectro das vogais nasais, diferentemente do que ocorre com as orais. Também a transição da consoante nasal [n] para a vogal não é tão clara, uma vez que os ciclos da vogal parecem seguir o mesmo formato da consoante anterior, diferente do que temos em 3.12 e 3.13 em que o início do ciclo da vogal [ɛ] é bem marcado em relação à consoante precedente [d].
+Também no espectograma correspondente à produção de sons nasais temos uma distribuição mais difusa da energia, o que pode ser constatado observando as figuras acima, principalmente o terceiro formante da área correspondente à produção da vogal nasal [ɛ]̃ . Assim, podemos concluir que nos dados fornecidos por Costa em (86) temos uma vogal anterior oral e outra nasal, ou seja, [ðadɛ] ‘porco’ e [tɐñ ɛ]̃ ‘rato’.
+
+113
+
+Ao tratar do bloqueio da nasalização em Kuruaya o autor afirma que “as consoantes /p, t, k, ʔ, c, s, ʃ/ impedem a passagem da nasalização, enquanto as consoantes /w, y, ð, r, h/ não fazem esse tipo de bloqueio” (Costa, 1998, p. 29). Em nota de rodapé, na mesma página, o autor afirma que “não há dados disponíveis com as outras consoantes em contexto nasal para se averiguar se elas bloqueiam ou não a nasalização”, o que nos permite concluir que Costa não encontrou exemplos de [d] diante de vogal nasal, dessa forma, não poderíamos ter *[ðadɛ]̃ no lugar de [ðadɛ].
+
+Em (86) retomamos os dados de Costa (1998), que apresenta as formas /odoðit/, ‘meu tio’ e /onebit/ ‘meu neto’ como exemplos de oposição entre /d/ e /n/. Costa (1998, pags. 21, 28, 31) e Mendes (2008, p.34) apresentam a forma [õn], /õn/, como sendo ‘eu’ em Kuruaya. Assim, seria de esperar que em ‘meu tio’ no lugar da oclusiva alveolar [d] ocorresse a nasal alveolar [n]. Na realidade a 1ª pessoa do singular é marcada pela forma [o-], seguida pela oclusiva alveolar [d], se logo depois vier uma vogal oral, como em (90); ou pela nasal alveolar [n], se esta vier acompanhada de vogal nasal, como em (91).
+
+(90)
+
+[o-doðit̚̚ ]
+
+(91) [õ-nɛb̃ it]
+
+‘meu tio’ ‘meu neto’
+
+Em (90) e (91) temos uma importante evidência da alofonia entre as consoantes [d] e [n], uma vez que o exemplo mostra que em Kuruaya o morfema de 1ª. pessoa do singular ‘o-‘ pode vir acompanhado das consoantes [d] ou [n], de
+
+114
+
+acordo com a vogal seguinte. Mais exemplos dessa alternância são apresentados a seguir.
+
+(92) [o-dɔ] [o-dat] [o-dɛdʒi]
+
+‘1ª.p.sing. comer’ ‘1ª.p.sing. receber’ ‘1ª.p.sing. cuspir’
+
+(93)
+
+[õ-nẽnɐp̃ ɐñ ]⎆
+
+[õ-nõm]
+
+‘1ª. p. sing. correr’⎆ ‘1ª.p. sing. dar’
+
+Outro aspecto que evidencia a alternância entre as consoantes alveolares [d] e [n] é o fato delas terem comportamento semelhante. Os fones [d] e [dʒ] não ocorrem em contexto nasal. Mesmo Costa (1998) e Mendes (2005), que os consideram como fonemas distintos, não apresentam ocorrências destes diante de vogal nasal. No caso de [ɲ], Costa (1998, p. 20) afirma que este é um alofone de [n] que só ocorre diante de [i]. Contudo, em nosso trabalho identificamos a ocorrência de [ɲ] em outros ambientes diferentes desse descrito pelo autor. Em (94) temos alguns desses casosː
+
+(94) [ĩɲɐ̃sipak]
+
+⎆ ‘formiga’⎆
+
+.
+
+[ĩɲɐ̃mõŋ] [w̃ ĩɲẽmupi]
+
+‘cheio’ ‘besouro rola bosta’
+
+115
+
+Nos dados em (94) [ɲ] ocorre em ambientes distintos daquele especificado por Costa. Contudo, todas as ocorrências de [ɲ] encontradas são antecedidas por [i], tal qual foi constatado nas ocorrências de [dʒ], o que nos permite concluir que ambos obedecem à mesma regraː [dʒ] e [ɲ] só são realizados quando sucedidos por [i]; quando a vogal [i] os antecede não temos palatais plenas, mas um efeito de palatalização provocado por essa vogal, cuja característica palatal é transferida para tais consoantes, que passam a ser produzidas como [dʲ] e [nʲ]; demais ambientes temos sempre [d] e [n], respectivamente. A partir disso tudo, podemos formular as seguintes regras para a alofonia do fonema /d/ː
+
+(95)
+
+/d/
+
+[d] / ___V - [i]
+
+[ðadɛ]
+
+/ladɛ/
+
+‘porco’
+
+(96)
+
+/d/
+
+[dʒ] / __ [i]
+
+[kadʒi]
+
+/kadi/
+
+‘sol’
+
+(97)
+
+/d/
+
+[dʲ] / [i] __
+
+[kidʲap̚ ]
+
+/kidap/
+
+‘veado’
+
+(98)
+
+/d/
+
+[n] / ___Ṽ - [ĩ]
+
+[tɐñ ɛ]̃
+
+/tadɛ/̃
+
+‘rato’
+
+(99)
+
+/d/
+
+[ɲ] / __ [ĩ]
+
+[ĩɲĩ]
+
+/idĩ/
+
+‘rede’
+
+(100)
+
+/d/
+
+[nʲ] / __ [ĩ]
+
+[ĩɲɐ̃mõŋ] /idãmõŋ/
+
+‘cheio’
+
+Concluindo, em Kuruaya o fonema /d/ possui os alofones [d], [dʒ], [dʲ], [n], [ɲ] e [nʲ] distribuídos entre os contextos acima especificados, todos realizados em ápice de sílaba.
+
+116
+Considerando que [n] é alofone de /d/ em ataque de sílaba em ambiente nasal, uma pergunta emerge: será que Kuruaya não contrasta [n] enquanto fonema, assim como contrasta /m, ŋ/? A discussão a seguir enfoca essa questão, argumentando que a nasal alveolar [n] que ocorre em posição de coda não pode ser interpretada como a forma superficial do fonema /d/, devendo portanto ser considerada um fonema independente mas que, assim como a nasal velar /ŋ/, tem sua distribuição restrita à posição de coda silábica. As especificidades da ocorrência dessa consoante nesse contexto serão discutidas no item 3.1.2, a seguir.
+3.1.2 Nasais
+Para sua produção, os sons nasais requerem a adição de ressonância na cavidade nasal. O velum encontra-se abaixado, deixando a cavidade nasal aberta. Simultaneamente, a cavidade oral é totalmente obstruída. Ladefoged (2001b) afirma que o ar não precisa realmente sair pelo nariz para um som ser nasal. Basta que o véu palatino esteja abaixado de tal forma que as ressonâncias das cavidades nasais afetem o som.
+Articulatoriamente, para a produção das nasais ocorre um fechamento completo da cavidade oral com o ar escapando pela cavidade nasal. Essas consoantes são caracterizadas acusticamente pela vibração das cordas vocais, pouca amplitude (em relação às vogais) e presença reduzida dos formantes mais altos.
+Segundo Ladefoged (1995) as consoantes nasais possuem, normalmente, um primeiro formante centrado sobre 250Hz; um segundo em 2500Hz e um terceiro em
+
+117
+3000Hz. Ladefoged ressalta ainda a existência de pistas acústicas evidentes que podem ser observadas no caso das consoantes nasais. Trata-se da mudança clara no espectrograma no momento de formação da obstrução articulatória. Essa mudança é decorrente do movimento de junção dos lábios no caso da nasal [m]; ou do toque da coroa da língua nos alvéolos, no caso do [n].
+Outra característica das consoantes nasais é que estas, tais quais as vogais, apresentam formantes cuja estrutura é similar, diferenciando-se, no entanto, pelo fato dos formantes das nasais apresentarem bandas mais fracas e suas freqüências dependerem das características de ressonância das cavidades nasais, que variam entre os indivíduos.
+Há três consoantes nasais que ocorrem em posição de coda em Kuruaya: [m], [n] e [ŋ]. Destas, somente [m] e [n] são observadas em posição de ataque de sílaba; [ŋ] só é encontrada na coda e [n] foi analisada anteriormente como alofone de /d/. Antes de entrarmos na questão se as nasais alveolar e velar são contrastivas ou não, essas consoantes são ilustradas nas figuras 3.15, 3.16 e 3.17 abaixo, que trazem os espectrogramas das palavras [tĩŋ] ‘fumaça’; [itĩm] ‘bom, bonito’ e [kĩn] ‘beiju’. Elas foram selecionadas por ocorrerem em um mesmo contexto: sílaba fechada final do tipo CVC, em que a primeira consoante é uma oclusiva seguida pela vogal alta anterior, além disso, a nasal sob análise apresenta-se em posição de coda.
+
+118 Figura 3.15 Espectograma da palavra [tĩŋ] ‘fumaça’.
+
+[t] [ĩ]
+
+[ŋ]
+
+Na
+
+t
+
+ĩ
+
+ŋ
+
+Figura 3.16 Espectrograma da palavra [kĩn] ‘beiju’
+
+k
+
+ĩ
+
+n
+
+119 Figura 3.17 Espectrograma da palavra [itĩm] ‘bom, bonito’.
+
+i
+
+t
+
+ĩ
+
+m
+
+Nas três figuras, acima, podemos notar que a transição da vogal para a consoante nasal é mais visível se observarmos o segundo formante no espectograma que, em geral, é mais difuso se comparado com o da vogal. Comparando a região de realização de [m] na figura 3.17 com a das nasais [ŋ] e [n] observamos que a região do segundo e terceiro formantes estão dissipadas, o que não ocorre com o das outras consoantes, onde eles estão bem definidos.
+Os estudos anteriores sobre a língua Kuruaya – Costa, Picanço e Mendes – apresentam um grupo de três consoantes nasais, [m, n, ŋ], cuja distribuição é explicada por Costa (1998, p. 20) nos seguintes termosː
+As nasais /m,n/ apresentam cada uma dois alofonesː [m, n] em aclive de sílaba e [m̚ , n̚ ] em declive de sílaba. A nasal /n/ apresenta ainda o alofone [ɲ] diante de [i]. Já a nasal [ŋ] apresenta apenas um fone [ŋ] em declive de sílaba.
+
+120
+Nossa pesquisa também aponta a existência de três consoantes nasaisː a bilabial /m/, a alveolar /n/ e a velar /ŋ/. Enquanto /m/ possui uma distribuição regular, podendo ocorrer tanto em ápice de sílaba (101) ou posição de coda (102), as nasais /n/ e /ŋ/ têm sua ocorrência limitada à posição de coda, como em (103) e (104).
+
+(101)
+
+[maradʒi] [kũmarataja]
+
+/maradi/ /kumarataja/
+
+‘cana-de-açúcar’ ‘gengibre’
+
+(102)
+
+[irẽ̃ m] [w̃ĩɲɛm̃ ]
+
+/irẽm/ /widɛm̃ /
+
+(103)
+
+[õnɛñ ɐ̃pɐñ ]⎆ [ãȷk̃ õn]
+
+/odɛd̃ ãpãn/⎆ /ajkõn/
+
+‘verde’ ‘onça’
+‘correr’⎆ ‘banco’
+
+(104)
+
+[mɔrõ̃ ŋ]⎆ [ð̃õŋ]
+
+/mɔroŋ/⎆ /lõŋ/
+
+‘espécie de sapo’⎆ ‘pulga’
+
+Em (102), (103) e (104) demonstramos a oposição entre [m], [n] e [ŋ] em posição de coda, e no item 3.1.1 apresentamos a alofonia existente entre [d] e [n], explicando que [n] ocorre sempre diante de vogal nasal enquanto [d] ocorre diante de vogal oral. Contudo, não podemos afirmar que a alofonia entre [d] e [n], que ocorre em ápice de sílaba, se estenda também a posição de coda. Em nossos dados encontramos poucos exemplos da ocorrência de [n] nessa posição e, mesmos estes, não são suficientes para que possamos checar todas as possibilidades. Assim, o
+
+121
+que apresentamos a seguir é a hipótese mais provável para a ocorrência de [n] nessa posição..
+
+3.1.2.1
+
+Um caso especialː a ocorrência de /n/ em posição de coda
+
+A ocorrência de [n] não é determinada pela nasalidade ou oralidade da vogal precedente. Assim como no caso da nasal velar [ŋ], ilustrado em (105), [n] também pode co-ocorrer tanto com vogais orais quanto com as nasais, como nos exemplos em (106).
+
+(105)
+
+[ð̃õŋ] ⎆ [utʃetajbiŋ]
+
+/lõŋ/ ⎆ /otʃetajbiŋ/
+
+(106)
+
+[karin] ⎆ [ãȷk̃ õn]
+
+/karin/⎆ /ajkõn/
+
+‘pulga’⎆ ‘aprender’
+‘mucuim’⎆ ‘banco’
+
+Se em aclive de sílaba não há oposição entre [d] e [n], o mesmo não ocorre em (105), em que temos [n] em posição de coda diante de vogal oral ou nasal, o que sugere ser essa consoante, nessa posição, um fonema distinto. Dessa forma, as distribuições de [n] e [ŋ] são iguais, ou seja, restritas à posição de declive de sílaba, podendo ser sistematizadas como em (107), (108) e (109)ː
+
+122
+
+(107)
+
+/d/
+
+(108)
+
+/n/
+
+/ŋ/ (109)
+
+[n] / ___Ṽ
+
+[tɐñ ɛ]̃ [pĩnɐ]̃
+
+/tadɛ/̃ /pidã/
+
+‘rato’ ‘anzol’
+
+[n] / __ #
+
+[ð̃õŋ] ⎆
+
+/lõŋ/ ⎆
+
+[utʃetajbiŋ] /otʃetajbiŋ/
+
+‘pulga’⎆ ‘aprender’
+
+[ŋ] / __ #
+
+[karin] ⎆ [ãȷk̃ õn]
+
+/karin/⎆ /ajkõn/
+
+‘mucuim’⎆ ‘banco’
+
+Diferente da nasal velar, para a qual não há nenhuma evidência de uma possível regra de alofonia com outro fonema da língua, e cuja distribuição deve, portanto, ser considerada mais restrita (i.e, posição de coda), a nasal alveolar parece ter tido sua distribuição afetada pelo fenômeno de nasalidade. Sincronicamente, os fones [d, dʒ, dj] só ocorrem precedendo vogais orais, enquanto que [n, ɲ, nj] precedem vogais nasais ou nasalisadas. Essa distribuição aponta para uma análise na qual esses segmentos são tratados como alofones de um fonema, aqui representado por /d/. Se houve, em algum período anterior da língua, um contraste entre /d/ e /n/ em aclive de sílaba, este teria sido neutralizado nessa posição pela influência da nasalização. Mas no caso da ocorrência de [n] em posição de declive de sílaba, a qualidade oral ou nasal da vogal não interfere, conforme discutido acima, o que sugere que parte de sua autonomia enquanto fonema foi mantida, porém de forma restrita, como no caso da nasal velar.
+
+123
+
+Já com relação a [b] e [m], o contraste entre estas é observado em ápice de sílaba, embora em um ambiente específico: diante de vogal oral. Os pares em (110) e (111) mostram que tanto [b] quanto [m] podem preceder vogais orais e são, portanto, contrastivas.
+
+[barot̚ ] (110) [ðabia]
+
+/barot/ /labia/
+
+‘coruja’ ‘formiga tucandeira’
+
+[mara] (111) [maruða]
+
+/mara/ /marola/
+
+‘milho’ ‘algodão’
+
+No entanto, esse contraste é neutralizado diante de vogal nasal, onde somente [m] ocorre, uma observação já feita anteriormente por Costa (1998) e Picanço (2005) e comprovada aqui também.
+
+(112)
+
+[ð̃õmɐ⎆̃ ] [kɐ̃mĩkɐm̃ ĩ]
+
+/lomã/ /kamĩkamĩ/
+
+‘cobra grande’ ‘maracujá’
+
+Há claramente um comportamento irregular das oclusivas sonoras /b, d/ em Kuruaya. Para uma explicação histórica envolvendo essa irregularidade, ver Picanço (2005).
+
+124
+
+3.1.3 Fricativas
+
+Quando não há obstrução completa da passagem do ar, mas uma constrição tão estreita a ponto de forma a gerar uma turbulência de ar auditiva, a maneira de articulação é denominada de fricativa. As fricativas são, segundo Ladefoged (1996), caracterizadas pela passagem do ar através de um canal estreito, geralmente criado pela aproximação da língua com uma parte fixa da cavidade bucal, como os alvéolos ou o palato. Para Kente & Red (1992) pode-se identificar uma fricativa pela formação de uma constrição estreita em algum ponto no trato vocal; pelo desenvolvimento de fluxo de ar turbulento e pela geração de ruído turbulento. Essas consoantes têm duração de ruídos relativamente longa e é esse longo intervalo de energia aperiódica que as distingue como uma classe de sons.
+
+No caso da língua Kuruaya identificamos, foneticamente, três consoantes fricativasː a alveolar [s], a palatal [ʃ] e a interdental [ð]. A fricativa [ð] é realizada em Kuruaya como alofone de /l/, por isso suas características serão discutidas no tópico 3.1.4. A ocorrência das consoantes fricativas é limitada a ápice de sílaba, e suas realizações fonéticas são demonstradas em (113), (114) e (115).
+
+(113)
+
+[sirak̚ ] [isaðɔ]
+
+‘goma de tapioca’ ‘peixe piau’
+
+(114)
+
+[ðaʃa] [ʃɛp̚ ]
+
+‘fogo’ ‘gordura’
+
+(115)
+
+[wiðaða] [waði]
+
+‘areia’ ‘meu chapéu’
+
+125
+Os fonemas fricativos do Kuruaya /s/ e /ʃ/ são surdos e não possuem sua contraparte sonora. Suas características acústicas podem ser observadas nos espectrogramas abaixo, em que temos as palavras [kusi] ‘babaçu’ e [iʃɛ] ‘banha’.
+Figura 3.18 Espectrograma da palavra [kusi], ‘babaçu’.
+
+k
+
+u
+
+s
+
+i
+
+Figura 3.19 Espectrograma da palavra [iʃɛ], ‘banha’.
+
+i
+
+ʃ
+
+ɛ
+
+126
+Note nas figuras 3.18 e 3.19 que o intervalo de som que marca a produção das fricativas [s] e [ʃ] é formado por um ruído turbulento que marca uma energia aperiódica, o que é característica de consoantes fricativas surdas. No caso de fricativas sonoras seria esperada uma vibração quase periódica das pregas vocais, além de um ruído menos intenso do que o da fricativa surda. Kent & Read (1992) destacam que as fricativas se distinguem das demais classes de sons por apresentarem uma duração relativamente longa de ruído. Segundo o autor a duração intrínseca do ruído varia conforme o lugar de articulação, isto é, quanto mais posterior for a fricativa, maior será sua duração.
+Podemos comparar a produção da fricativa surda [s], figura 3.18, com a da fricativa interdental [ð], que ocorre foneticamente na língua, como discutiremos no item 3.1.4. Abaixo temos o espectrograma da palavra [ðaʃa], ‘fogo’.
+Figura 3.20 Espectrograma da palavra [ðaʃa], ‘fogo’.
+
+ð
+
+a
+
+ʃ
+
+a
+
+127
+A onda sonora correspondente a zona de produção da fricativa surda [s] distingui-se sensivelmente daquela correspondente a fricativa interdental [ð]. Em [s] temos uma onda aperiódica, enquanto que em [ð] ela é semi-periódica. Também a transição entre os formantes é distintaː enquanto a transição da fricativa [s] para a vogal é bem marcada, o mesmo não ocorre entre a fricativa [ð] e a vogal seguinte, em que há uma transição gradual da onda sonora.
+
+3.1.4 Lateral
+
+Sons laterais são produzidos, articulatoriamente, com o ar escapando lateralmente. Eles possuem propriedades semelhantes às vogais, tais como padrões de formantes bem definidos, e partilham características das consoantes oclusivas (Kent and Read, 2002). Em Kuruaya identificamos a lateral [l], também descrita por Picanço (2005), para quem essa consoante tem a característica de variar foneticamente entre a lateral [l] e a interdental [ð].
+
+Nos dados de AK e MX encontramos também a fricativa sonora [z], ocorrendo em flutuação com [ð] e [l]. Esse fenômeno não foi observado nos estudos anteriores (COSTA 1998, PICANÇO 2005 E MENDES 2008), nos quais a coletada de dados foi realizada com outros informantes, diferentes de AK e MX. Em (116) apresentamos exemplos dessa alternância.
+
+(116) [isaðɔ] [isazɔ] [isalɔ] [ibiðap̚ ] [ibizap̚ ] [ibilap̚ ɔ]
+
+/isalɔ/ /ibilap/
+
+‘peixe piau’ ‘bigode’
+
+128
+Mesmo que a variação entre [ð], [z] e [l] seja possível para AK e MX, ela parece ser, fundamentalmente, influência do português, uma vez que não há indícios diacrônicos para postularmos a existência de um [z] em Kuruaya. Assim, nosso trabalho se deterá na análise da alofonia entre [ð] e [l].
+Costa (1998, p. 19) trata a interdental [ð] como um fonema e afirma que “o fonema /ð/ apresenta dois alofonesː [ð] em sílaba tônica e [l] em variação livre com [ð] nos outros ambientes; a lateral não ocorre diante de vogal anterior”. Também observamos a alternância entre [l] e [ð] em Kuruaya, que pode ser observada nos dados em (117).
+
+(117)
+
+[ðariwa ~ lariwa] [waði ~ wali] [isaðɔ ~ isalɔ]
+
+/lariwa/ /wali/ /isalɔ/
+
+‘mucura’ ‘meu chapéu’ ‘aracu’
+
+Os alofones [l] e [ð] assimilam a nasalidade da vogal adjacente, por esse motivo eles são realizados como [l]̃ e [ð̃] em contexto nasal, como em (119).
+
+(119)
+
+[lũ̃ mɐ̃lõ̃ ⎆~ ð̃ũmɐ̃lõ̃ ] [w̃ɛl̃ ɐ̃ ̃ĩ ~ w̃ɛð̃ ̃ɐ̃ĩ ]
+
+/lomalõ/ /wɛlãi/
+
+‘espingarda’ ‘castanha’
+
+Picanço (2005) observou que a ocorrência de [l] era mais freqüente em ambiente nasal, o que não foi observado para AK e MX, cuja produção de [l] e [ð] varia livremente tanto em ambiente oral quanto nasal. .
+
+129
+
+3.1.5 Aproximantes
+
+Para Abercrombie (1967, p. 50) sons aproximantes são aqueles produzidos por uma aproximação aberta dos articuladores, com passagem de ar central, de modo que nenhum barulho ou fricção seja produzido. Por essas características, fazem parte do inventário fonêmico do Kuruaya as aproximantes /w, j, r, ʔ, h/.
+
+(120)
+
+/w/
+
+/wɛ/ /obɨkiw/
+
+‘capivara’ ‘falta de sorte’
+
+(121)
+
+/j/
+
+/jotop/ /akaj/
+
+‘marido’ ‘cajá’
+
+(122)
+
+/r/
+
+/ariɛ/ /ipɛrɛk/
+
+‘lagarta’ ‘amarelo’
+
+(123)
+
+/ʔ/
+
+/ʔip/ /putipʔa/
+
+‘pau, árvore’ ‘pescada’
+
+(124)
+
+/h/
+
+/iɛhɛ/ /ihi/
+
+‘leve’ ‘macaco da noite’
+
+Como já relatado por Picanço (2005), em Kuruaya segmentos +sonorantes assimilam a nasalidade, por isso as aproximantes do Kuruaya [w, j, r, ʔ, h] são realizadas, respectivamente, como [w̃, ȷ,̃ r,̃ ʔ̃, h̃] em contexto nasal.
+
+130
+
+(125)
+
+[w̃ ]
+
+[w̃ ĩɲẽm] [ɛñ ɐ̃w̃ɐ̃rɐ̃m]
+
+‘onça’ ‘afastar’
+
+(126)⎆
+
+[ȷ]̃ ⎆
+
+[ð̃ɐ̃ȷ]̃ ⎆ [ukɐ̃ȷð̃ i]
+
+⎆ ‘dente’ ‘tucupi’
+
+(127)⎆
+
+[r]̃ ⎆
+
+[irɐ̃ ̃m]⎆ [ĩw̃ɛr̃ ɛ̃ m̃ ]
+
+‘preto’⎆ ‘inchado’
+
+(128)⎆
+
+[ʔ̃]⎆
+
+[w̃ɛð̃ ̃ɐ̃ʔ̃ĩ]⎆ [w̃ɛʔ̃ ̃ã]
+
+‘castanheira’ ⎆ ‘morrer’
+
+(129)⎆
+
+[h̃]⎆
+
+[ɛh̃ ̃ɛ]̃ ⎆
+
+‘osga’⎆
+
+A ocorrência das aproximantes do Kuruaya é variávelː /w/ e /j/ ocorrem tanto em ápice de sílaba quanto em posição de coda, como em (120) e (121); enquanto /r, ʔ, h/ estão restritas a posição de ápice silábico. Além disso, a consoante [r] não ocorre em inícios de palavras, enquanto /h/, embora fonologicamente também não ocorra em início de palavra, pode ocorrer nessa posição opcionalmente, se a palavra for iniciada por vogal, como em (130).
+
+(130)
+
+[hɔʔi ~ ɔʔi] [huʔa ~ uʔa] [heðip̚ ~ eðip̚ ]
+
+/ɔʔi/ /oʔa/ /ɛðip/
+
+131
+‘taboca’ ‘cabeça’ ‘cigarro’
+
+Fenômeno semelhante ocorre em Mundurukú e é descrito por Picanço (2005, pág. 82) da seguinte formaː
+Phonologically, the laryngeal approximant /h/ is restricted to medial position but may optionally occur word-initially if the initial syllable is underlyingly onsetless ( ). Word-medially /h/ occurs only between identical (reduplicated) vowels, except in reduplication with a fixed vowel /e/ in Have-constructions, which forces /h/ to occur between different vowels.
+A ocorrência de /h/ descrita por Picanço para o Mundurukú parece ser a mesma que encontramos em Kuruaya, pois, como observamos nos dados (124), (129) e (130), a aproximante /h/ só ocorre em início de palavra quando esta é iniciada por uma vogal, como em (130); e sua ocorrência em sílaba interna é sempre realizada entre vogais idênticas, como demonstrado em (124) e (129).
+As aproximantes [w] e [j] são glides, isto é, segmentos ambivalentes que podem ser fonologicamente interpretados em algumas línguas como vogais e em outras línguas como consoantes. São também segmentos assilábicos, que coocorrem com um segmento silábico (TRASK, 1996). Acusticamente, a estrutura dos formantes dos glides [w] (120) e [j] (121) é semelhante ao das vogais altas [u] e [i], respectivamente. A língua Kuruaya proíbe a combinação de glide [w] e vogal [o] e de [j] e vogal [i] na mesma sílaba.
+
+132
+
+(131)
+
+/w/
+
+/wɛ/ /obɨkiw/
+
+‘capivara’ ‘falta de sorte’
+
+(132)
+
+/j/
+
+/jotop/ /akaj/
+
+‘marido’ ‘cajá’
+
+Além da variante [w̃] em contexto nasal, o glide /w/ possui ainda os fones [w, β], que se alternam livremente em aclive de sílaba (133), mas em declive somente ocorre [w], como em (134).
+
+(133)
+
+[wɛ ~ βɛ] [waʔɛ ~ βaʔɛ]
+
+/wɛ/ /waʔɛ/
+
+‘capivara’ ‘cuia’
+
+(134)
+
+[odetʃaw] [ubɨkiw]
+
+/odɛtʃaw/ /obɨkiw/
+
+‘capivara’ ‘falta de sorte’
+
+3.1.6 Conclusões
+Com a análise das estruturas fonéticas das oclusivas pudemos classificá-las em dois gruposː as explodidas [p], [b], [t], [d], [tʃ], [k] e as não explodidas [p̚ ], [t ̚ ], [k ̚ ], que são alofones de seus pares explodidos, totalizando 6 fonemas oclusivosː /p/, /b/, /t/, /d/, /tʃ/, /k/.
+
+133
+
+Em nosso trabalho mostramos que em Kuruaya [dʒ] é apenas um alofone de [d], diferentemente do postulado por Costa (1998), para tanto, apresentamos evidências fonéticas que corroboram nossa análise. Além disso, o sistema de alofonia apresentado aqui para a consoante /d/ é complexo, uma vez que ela possui ainda os alofones [dʲ], [d], [n] e [ɲ], distribuídos entre contexto oral - [dʲ], [d], [dʒ] – e nasal - [n] e [ɲ].
+
+No grupo das nasais, vimos que dos fonemas /m/, /n/ e /ɲ/, apenas o primeiro ocorre em ápice de sílaba, estando /n/ e /ɲ/ restritos a posição de coda, ressaltando que em Kuruaya /n/ somente é contrastivo nessa posição. Diante de vogal nasal [n] é alofone de /d/, como vimos em 3.1.1.
+
+Nas fricativas mostramos que o Kuruaya possui apenas as desvozeadas /s/ e /ʃ/, que ocupam somente a posição de ápice silábico. Além disso, a língua possui uma consoante lateral /l/ que pode ser realizada, livremente, como a fricativa [ð] ou a lateral [l]. No grupo das aproximantes temos as consoantes /w/, /j/, /r/, /ʔ/, /h/.
+
+As discussões aqui apresentadas nos permitiram concluir que a língua Kuruaya possui, de fato, 17 fonemas consonantais, a saberː
+
+Oclusivas Nasais Fricativas Lateral Aproximantes
+
+Labial pb
+m
+w
+
+Alveolar
+
+t
+
+d
+
+n
+
+s
+
+l
+
+r
+
+Palatal
+
+Velar
+
+tʃ
+
+k
+
+ŋ
+
+ʃ
+
+Glotal
+
+j
+
+ʔ
+
+h
+
+134
+CONSIDERAÇÕES FINAIS
+O objetivo desse trabalho foi o de analisar a fonologia segmental da língua, com enfoque nas propriedades acústicas que distinguem vogais e consoantes em Kuruaya. Acreditamos que as discussões ora apresentadas tenham conseguido cumprir, mesmo que parcialmente, tal propósito. Falamos “parcialmente” porque sabemos que muito mais há a ser estudado, aspectos como tom e acento, por exemplo, não foram objeto desse estudo e podem influenciar no comportamento dos segmentos fonéticos e/ou fonêmicos da língua.
+As análises aqui discutidas apresentam bons argumentos para pontos até então polêmicos, como a distinção fonêmica entre /o/ e /ɔ/, que aqui mostramos tratar-se, verdadeiramente, de fonemas distintos; ou a dúvida sobre a distinção fonêmica entre [d] e [dʒ] postulada por Costa (1998) e Mendes (2008), que aqui vimos tratar-se apenas de alofones de /d/.
+Contudo, um dos maiores méritos desse trabalho é ter conseguido registrar uma língua que, sabemos, está praticamente extinta, o que torna a relevância desse estudo ainda maior.
+
+135
+REFERÊNCIAS BIBLIOGRÁFICAS
+ABERCROMBIE, D. Elements of general phonetics. Edinburgh University Press, 1967.
+ALMEIDA, L. B. A. de; SILVA, L. M. de O. Os Índios Kuruaya. 1995. Trabalho de Conclusão de Curso (Graduação) – Centro de Letras e Artes, Universidade Federal do Pará, Belém, 1995
+BEDDOR, P. S. Phonological and phonetic effects of nasalization on vowel height. 1983. Tese (Doutorado) - University of Minnesota, Minnessota, 1983.
+CAGLIARI, L. C. An experimental study of nasality with particular reference to Brazilian Portuguese. 1977. Tese (Doutorado) - University of Edinburgh, Edinbugh,1977.
+CHOMSKY, N.; HALLE, M. The Sound Pattern of English. Nova York: Harper & Row, 1968.
+COSTA, R. N. V. Fonologia da Língua Kuruaya. 1998 65 f. Dissertação (Mestrado em Lingüística) – Centro de Letras e Artes, Universidade Federal do Pará. Belém: UFPA, 1998.
+_______. Fonologia Segmental da Língua Kuruaya. Revista Moara, Belém, v.17, p. 85-101, 2002.
+DRUDE, S., On the position of the Awetí language in the Tupí family. In: W. DIETRICH e H. SYMEONIDIS (Ed.). Guaraní y "Mawtí-Tupí-Guaraní". Estudios históricos y descriptivos sobre una familia lingüística de América del Sur. Berlin & Münster: LIT Verlag, 2006, p.11-45
+_______. (no prelo) Awetí in relation with Kamayurá. In: B. FRANCHETTO (Ed.). O Alto Xingu. Uma Sociedade Multilingüe. Rio de Janeiro.
+GALUCIO, A. V. e N. GABAS JR., 2002. Evidências para o agrupamento genêtico Karo-Puroborá, Tronco Tupí. In: 17° Encontro Nacional da ANPOLL, 2002, Gramado, 2002.
+KENT, R.; READ, C. The Acoustic Analysis of Speech. San Diego: Singular, 1992.
+LADEFOGED, P. Preliminaries to Linguistics Phonetics. Chicago: The University of Chicago Press, 1971.
+_______. A course in phonetics. Los Angeles: University of California, 1982.
+_______. Elements of Acoustic Phonetics. Chicago: The University of Chicago Press, 1996.
+
+136
+_______. A Course in Phonetics. Boston: Heinle &Heinle, 2001(a).
+_______. Vowels and Consonants: An introduction to the sounds of languages. Los Angeles: University of California, 2001(b).
+LACERDA-GUERRA, M. Aspects of Suruí Phonology and Phonetics. 2004. Dissertação (Mestrado em Lingüística) – Universidade Livre de Bruxelas. Bélgica: ULB, 2004.
+LILJENCRANTS, J.; LINDBLOM. B. Numerical simulation of vowel quality systems: the role of perceptual contrast. Language, [s.l.], v. 48, p. 839-862, 1972.
+MADDIESON, I. Patterns of Sounds. Cambridge: Cambridge University Press, 1984.
+MENDES, D.G.J. Comparação Fonológica do Kuruáya com o Mundurukú. 2008, 66f. Dissertação (Mestrado em Lingüística) – Departamento de Lingüística, Português e Línguas Clássicas – LIP, Universidade de Brasília. Brasília: UNB, 2008.
+MORAES, V.L.O. Comparação entre as línguas da família Mundurukú: Mundurukú e Kuruaya. 1999, 50 f. Trabalho de Conclusão de Curso (Graduação em Letras) - Universidade Federal do Pará. UFPA: 1999.
+NIMUENDAJÚ, C. Zur Sprache der Kuruaya-Indianer. Journal de la Societé des Américanistes, [s.l.], v. 22, p.317-345, 1930.
+_______. Tribes of the Lower and Midle Xingu River. In. STEWARD, Julian H. (Ed.). Handbook of South American Indians. New York: Cooper Square Publishers, 1948. v. 3.
+PATRÍCIO, M. M. Índios de verdade: o caso dos Xipaia e Curuaia em Altamira Pará. 2000. 134f. Dissertação (Mestrado em Antropologia) - Centro de Filosofia e Ciências Humanas, Universidade Federal do Pará, Belém, 2000.
+PICANÇO, G. L. Mundurukú: Phonetics, Phonology, Synchrony, Diachrony. 2005. 410f. Tese (Doutorado) - University of Britsh, Columbia, 2005.
+RODRIGUES, A. D. Die Klassifikation des Tupi-Sprachstammes. In: INTERNATIONAL CONGRESS OF AMERICANISTS, 32. Proceedings Copenhagen: J. Y., 1958a. p. 679-684.
+_______. Classification of Tupi-Guarani. International Journal of American Linguistics, v. 24, p. 231-234. 1958b.
+_______. 1984/85. Relações internas na família lingüística Tupí-Guaraní. Revista de Antropologia, 27/28(n.33-53).
+RODRIGUES, A. D. I. e W. DIETRICH, 1997. On the linguistic relationship between Mawé and Tupí-Guaraní. Diachronica, XIV(n.2): 265-304.
+
+137
+SANTOS, M.M. Estudo comparativo entre as línguas Munduruku e Kuruaya. 2002. 35 f. Trabalho de Conclusão de Curso. (Graduação em Letras ) - Universidade Federal do Pará. UFPA: 2002.
+SNETHLAGE, E. A travessia entre o Xingu e o Tapajoz. Boletim do Museu Paraense Emílio Goeldi, Belém, v. 7, 1910a.
+__________. Zur Ethnographie der Chipaya und Curuahé. Zeitschrift fur Ethnologie, Berlin, v. 42, 1910b.
+__________. Die Indianerstamme am mittleren Xingú. Im besonderen die Chipaya und Curuaya. Zeitschrift fur Ethnologie, Berlin, v. 52/53, p. 395-427, 1921.
+STEVENS, K. Acoustic phonetics. London: MIT Press, 2000.
+TRASK, R. L. A dictionary of phonetics and phonology. London: Routledge, 1996.
+
+

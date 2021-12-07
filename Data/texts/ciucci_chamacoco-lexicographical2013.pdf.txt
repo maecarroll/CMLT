@@ -1,0 +1,235 @@
+Luca Ciucci
+Chamacoco lexicographical supplement I#
+1 Introduction
+Chamacoco is a language spoken by about 1600 people, whose traditional territory stretched over the Paraguayan Chaco along the river Paraguay in the department of Alto Paraguay. Along with Ayoreo, it is the only living language of the Zamucoan family. To these languages one should add Ancient Zamuco, an extinct language spoken in the XVIII century by some Zamucoan tribes present in the Jesuit missions of Chiquitos (Bolivia). Chamacoco has two dialects: Ebitoso and Tomaraho. Here I will only refer to the Ebitoso dialect, spoken by the vast majority of the Chamacoco people.1 A research project aiming at the description of the Zamucoan family started in 2007 at Scuola Normale di Pisa under the direction of Pier Marco Bertinetto, one of its goals being a scientifically oriented Chamacoco grammar on which I am currently working (on this project, see Ciucci 2011).
+The purpose of the present contribution is to systematize some lexical materials collected during my fieldwork. I will only report so far non documented words or words whose complete paradigm is not provided in Ulrich & Ulrich (2000) and Ciucci (2013), with respect to which the present work should be regarded as complementary. This is intended to be the first of a series of contributions for the preparation of a scientific Chamacoco dictionary which will also include the complete paradigms reported in the quoted works.
+# I would like to express my gratitude to Emanuele Saiu for his useful suggestions. I am the only responsible for all mistakes or inaccuracies which the present work may contain. 1 The Tomaraho dialect is currently under investigation by the colleague Tracey Carro Noya, with whom I established a scientific collaboration.
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+2 Previous lexicographical contributions
+I will not provide here a complete bibliography on Chamacoco, which can be found in Fabre (2007) or Ciucci (2013). I will only mention the previous lexicographical contributions on the language. The first studies on the Chamacoco lexicon are due to Boggiani (1894), whose investigation represented, in his intention, the beginning of a larger research project (Boggiani 1894: 80). Regrettably, this project found an abrupt end when he was murdered under mysterious circumstances in the Chaco. The remaining lexical materials were posthumously published by Loukotka (Boggiani 1929). Other collections of words are in Baldus (1927: 44-49), Baldus (1932) and Belaieff (1937). Sušnik (1957a: 114-169), (1957b: 127-143) and (1970) are collections of sentences and vocabulary sorted by topic. They provide many data, but the transcription criteria are often obscure and the lexical search is difficult, because exception made for Sušnik (1957b: 114-169) - the words are not reported in alphabetical order. A common problem in all the above mentioned contributions is the lack of coherent lemmatization criteria and of morphological information. The first scientifically up-to-date work on the Chamacoco lexicon is the dictionary by Ulrich & Ulrich (2000). It has a Chamacoco – Spanish and a Spanish – Chamacoco section. In the former, the authors provide the paradigm of most words and employ lemmatization criteria that will also be adopted here (i.e. the third person singular for verbs and possessable nouns, and the full-form singular for nominals; see below for details). In the Ulrich & Ulrich (2000) dictionary there is, however, a crucial difference between verbs and nominal elements, because the authors report the complete paradigm of each verb, but data concerning nouns and adjectives are often incomplete. Sequera (2009) is a collection of verbal paradigms, most of which had already been reported in Ulrich & Ulrich (2000). Anderson & Harrison (2010-2013) is a trilingual “talking dictionary” (Chamacoco – English – Spanish). It is an interesting contribution, but it contains many translation and transcription mistakes. There are no clear lemmatization criteria and there are no accurate morphological glosses, so that it is impossible to know which form of the word is reported.2 Surprisingly, the authors do not cite Ulrich & Ulrich (2000), whose transcription criteria are used in the talking
+2 For instance, different forms of the same word mostly have the same translation and gloss.
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+dictionary, although not always correctly.3 As already said, here I only refer to the Ebitoso dialect. On the Tomaraho dialect, see Sequera & Ñuhwỹt Fretes (2011) and Ñuhwỹt Fretes, Sequera & Carro Noya (2013).
+3 Transcription criteria
+I will use here, with few adaptations, the transcription system established by Ulrich & Ulrich (1989), which is employed in most published Ebitoso texts.4 For an explanation of the transcription system, see Ulrich & Ulrich (2000) and Ciucci (2013).5
+Ulrich & Ulrich transcribe initial /ts/ with <s>, which can also indicate /s/ wordinitially. I will follow this use here too, but, in order to avoid ambiguities, I will underline <s> in the rare cases where it corresponds to /s/ word-initially.
+The presence of word-final laryngealization will only be indicated when it serves to distinguish a minimal pair, typically in many feminine singular base-forms.
+Vowel nasality is a suprasegmental feature and will only be indicated when no nasal consonant is present in the word root, or when the vowel follows (or precedes) a nonnasal consonant which could block nasal spread to the right (or to the left), such as, e.g., /k/ and /s/, but not /ɹ/ (<r>), which never blocks nasal spread.
+If a phonological segment can drop, it will be indicated between parenthesis. In Chamacoco there is free alternation between /d/ and /l/ in word-initial context (for instance in the reflexive person, see below). In such cases, I will only provide the form I have most frequently observed on the field, although the other variant is also possible.
+3 Nor are Ciucci (2009) and Ciucci (2010) mentioned, which are not only easily available online, but are also the first scientific studies on Chamacoco morphology and might help to improve the morphological glosses. 4 There is also another transcription system, established by the Paraguayan anthropologist Guillermo Sequera, which is mostly used for Tomaraho. 5 In the case of Poorzosht ‘God’, I have decided to change the transcription by Ulrich & Ulrich, who preferred to write it as Porrosht in order to respect the wishes of the indigenous people (Rosemary Ulrich, personal communication), who were probably used to write Porrosht before the introduction of Ulrich & Ulrich’s transcription system.
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+4 Lemmatization criteria, morphological glosses and other conventions
+In the Chamacoco – English section, I will provide the inflectional paradigm of each word. The analysis and systematization of the paradigms is based on Ciucci (2009) for verbs, Ciucci (2010) for possessive inflection, and Ciucci (2013), which is a description of the inflectional morphology in the whole Zamucoan family (Ayoreo, Chamacoco and Ancient Zamuco).
+Chamacoco nouns are divided into possessable and non-possessable. The former have prefixes by means of which they agree with their possessor. In the third person they present a difference between reflexive and non-reflexive third person. The former is coreferent with the subject and will be called ‘reflexive person’ (rfl), while the latter will simply be referred to as ‘third person’ (3).
+There is no difference between nouns and adjectives in suffixation. For this reason, both will be referred to as ‘nominals’ (n). Nominals inflect for gender (masculine and feminine), number (singular and plural) and form (base-form, full-form or indeterminate-form). The base-form typically expresses the predicative function. The full-form and the indeterminate-form are both to be found in argumental position, but the latter refers to a non-specific referent. The (masculine) singular full-form is used as the lemmatized item. When it is not documented, the singular base-form will be taken as lemmatized item. For each nominal, I will provide the base- and full-form inflection.
+If the nominal is a possessable noun, the lemmatized form will be the third person, which will be glossed as third person for reasons of simplicity, even though (due to the idiosyncrasy of the Chamacoco morphology) it coincides with the second person. In all cases, I will provide the complete possessive inflection (PI), preserving the suffixation of the lemmatized form. Whenever no indication about the inflection of a nominal is given, the word should be intended as uninflectable.
+For reasons of clarity, the masculine and feminine forms will occasionally be provided in different entries. In such cases, the corresponding feminine or masculine form of the word will be provided, if possible, in third person full-form at the end of each entry.
+Verbs will be indicated with ‘v’. Chamacoco verbs present neither tense nor aspect, but show a realis/irrealis opposition in the third person. The third person realis is chosen as the lemmatized form. I will provide the complete inflection of each verb, with the exception of the third person plural and the greater plural of the first person
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+inclusive, which are straightforwardly derived from the third person and the first person inclusive, respectively.
+I will only report the forms actually documented during my fieldwork, even though sometimes it would be easy to add further forms of the given paradigm, based on the morphological rules explained in Ciucci (2013).
+When nominals and verbs present one or more variants, they will be cited in the lemmatized form after the word inflection. If a given word is also found in Ulrich & Ulrich’s dictionary, this is indicated by [U]. Occasionally, I will refer to words not reported in the present contribution, but whose inflection is shown in Ulrich & Ulrich (2000).
+Finally, when possible, I will provide the likely Ayoreo cognate.6 The abbreviations employed in the present contributions are reported below.
+5 Abbreviations
+anat. = anatomy AY = Ayoreo bf = base-form f = masculine ff = full-form fp = feminine fs = feminine singular gf = generic form if = indeterminate-form m = masculine mar. = maritime med. = medicine [m/f] = epicene [m/f]p = epicene plural [m/f]s= epicene singular
+6 The Ayoreo data employed here come from Higham et al. (2000), Barrios, Bulfe & Zanardini (1995) and from fieldwork by Pier Marco Bertinetto and the present author. Sušnik (1970) is the first attempt to compare Ayoreo and Chamacoco. For a scientific morphological comparison of these languages, see Ciucci (2013).
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+mp = masculine plural ms = masculine singular n = nominal p = plural PI = possessive inflection rfl = 3rd person reflexive s = singular [U] = cf. Ulrich & Ulrich (2000) v = verb var = variant
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+6 Bibliographical references
+Anderson, Gregory D.S. and K. David Harrison 2010-2013. Chamacoco Talking Dictionary. Living Tongues Institute for Endangered Languages. <http://chamacoco.talkingdictionary.org>. Last consulted: 20/09/2013.
+Baldus, Herbert 1927. Os Indios Chamacocos e a sua língua. Revista do Museu Paulista 15/2. 5-68.
+Baldus, Herbert 1932. Beiträge zur Sprachenkunde der Samuko-Gruppe. Anthropos 27. 361-416.
+Barrios, Armindo, Domingo Bulfe & José Zanardini 1995. Ecos de la selva. Ayoreode Uruode. Asunción: Centro de estudios Antropológicos de la Universidad Católica.
+Belaieff, Juan 1937. El vocabulario chamacoco. Revista de la Sociedad Científica del Paraguay 4/1. 10-47.
+Boggiani, Guido 1894. I Ciamacoco. Conferenza tenuta in Roma alla Società Geografica Italiana il giorno 2 giugno 1894 ed in Firenze alla Società Antropologica il 24 dello stesso mese. Roma: Società Romana per l’Antropologia.
+Boggiani, Guido 1929. Vocabolario dell’idioma Ciamacoco. Apuntes póstumos de Guido Boggiani, compilados y redactados por Cestmír Loukotka. Anales de la Sociedad Científica Argentina CVIII. 149-175 and 227-241.
+Chase-Sardi, Miguel 1987. Derecho consuetudinario chamacoco. Asunción: Asociación Indigenista del Paraguay.
+Ciucci, Luca 2009. Elementi di morfologia verbale del chamacoco. Quaderni del Laboratorio di Linguistica della Scuola Normale Superiore 8 n.s.
+<http://linguistica.sns.it/QLL/QLL09/Ciucci.pdf>
+Ciucci, Luca 2010. La flessione possessiva del chamacoco. Quaderni del Laboratorio di Linguistica della Scuola Normale Superiore 9,2 n.s.
+<http://linguistica.sns.it/QLL/QLL10/Ciucci_chamacoco.pdf> Ciucci, Luca 2011. L’amico di D’Annunzio e la tribù perduta: in Sudamerica alla
+ricerca dei confini di Babele. Normale. Bollettino dell’associazione normalisti XIV, 1-2. 23-28. <http://www.sns.it/scuola/associazioni/normalisti/bollettino/archivio/1112XIVn12/> Ciucci, Luca 2013. Inflectional morphology in the Zamucoan languages. Ph.D. Thesis. Scuola Normale Superiore di Pisa. Italy.
+7
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+Fabre, Alain 2007. Diccionario etnolingüístico y guía bibliográfica de los pueblos indígenas sudamericanos. Edición electrónica.
+<http://www.ling.fi/Entradas%20diccionario/Dic=Zamuco.pdf>
+Higham, Alice, Maxine Morarie & Greta Paul 2000. Ayoré-English dictionary. Sanford, FL.: New Tribes Mission. 3 vols.
+Ñuhwỹt Fretes, Rodolfo, Guillermo Sequera & Tracey Carro Noya 2013. Atybicha Akylio Bebyrpe. Diccionario Cultural Tomárãho. Manuscript.
+Sušnik, Branislava J. 1957a. Estructura de la lengua chamacoco-ebitoso (con fraseario del dialecto Ebitoso). Boletín de la Sociedad Científica del Paraguay y del Museo Andrés Barbero, Etnolingüística I.
+Sušnik, Branislava 1957b. Estudios Chamacocos. In Boletín de la Sociedad Cientifica del Paraguay y del Museo Andrés Barbero I, Etnografía 1.
+Sušnik, Branislava 1970. Chamacocos. Diccionario etnografico. Asunción: Museo Etnográfico “Andrés Barbero”.
+Sušnik, Branislava 1972. Familia Zamuko. Čhamakoko – Ayoweo. Asunción: Museo Etnográfico “Andrés Barbero”.
+Ulrich, Matthew & Rosemary Ulrich 1989. Analisis de fonología del chamacoco. Manuscript.
+Ulrich, Matthew & Rosemary Ulrich 2000. Diccionario Ɨshɨro (Chamacoco) – Español / Español – Ɨshɨro (Chamacoco). Misión Nuevas Tribus Paraguay: Asunción.
+8
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+7 Chamacoco – English
+aatwolta n.3.fs.ff ‘scab, crust (anat.)’, aatwole (3.fp); Var: atwolta; PI: paatwolta (1s), aatwolta (2s/3), daatwolta (rfl). Compound of aat (3.ms.ff) ‘body’ + wolta (3.fs.ff) ‘hat’.
+ahamich n.3.ms.ff ‘feast’, ahamiyo (3.mp), ahamɨk (3.ms.bf); PI: pahamich (1s), ahamich (2s/3), dahamich (rfl). [U]
+aharrza n.3.fs.ff ‘vagina (anat.)’, ahɨr (3.fp); IP: paharrza (1s), aharrza (2s/3), laharrza (rfl); hmat(a) aharrza ‘palm of the hand’; pohor aharrza ‘wood knot’; nemest aharrza ‘wood knot of the table’. Cf. AY ajãro (3.fs.ff) ‘center, midst’ or ugoro (fs.ff) ‘knot that projects from tree/post’. [U]
+ahworrza n.3.fs.ff ‘chin’, ahwor / ahwore (3.fp), ahworˀ (3.fs.bf); PI: pahworrza (1s), ahworrza (2s/3), lahworrza (rfl). Cf. AY: ajugoro (3.fs.ff) ‘chin; under the chin’. [U]
+ahwosht n.3.ms.ff ‘word’, ahwos (3.ms.bf), ahwoso (3.mp) ‘words, language’; PI: pahwosht (1s), ahwosht (2s/3), lahwosht (rfl); Poorzosht Ahwoso ʻBibleʼ; Mar(o) ahwoso ‘Spanish language’; Nort õr ahwoso ‘English language’; Wɨs ahwoso ‘Portuguese language’; Ɨshɨr(o) ahwoso ‘Chamacoco language’; Ɨbɨtoso õr ahwoso / Ɨbɨtos(o) ahwoso ‘Ebitoso dialect’. [U]
+ajɨch n.3.ms.ff ‘flatulence, fart’; PI: pajɨch (1s), ajɨch (2s/3), dajɨch (rfl). Var: ajɨt. Cf. AY: acadi (3.ms.ff) ‘flatulence; intestinal gas’. [U]
+ajɨrmɨt n.ms.ff ‘jealous’, ajɨrmo (mp), ajɨrmɨk (ms.bf), ajɨrmɨta (fs.ff), ajɨrme (fp), ajɨrmɨˀ (fs.bf). [U]
+ajɨta n.3.fs.ff ‘penis’, aje (3.fp); PI: pajɨta (1s), ajɨta (2s/3), dajɨta (rfl). Cf. AY: aquedo (3.fs.ff). [U]
+9
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+akɨlt n.3.ms.ff ‘companion, friend’, akɨle (3.[m/f]p) / akɨlo (3.mp), akɨlak (3.ms.bf); PI: pakɨlt (1s), akɨlt (2s/3), lakɨlt (rfl). [U]
+ak�r̃ t n.3.ms.ff ‘hair’, ak�r̃ e / ak�r̃ o (3.mp), ak�r̃ ak (3.ms.bf); PI: pak�r̃ t (1s), ak�r̃ t (2s/3), dak�r̃ t (rfl). Cf. AY: acãrai (3.ms.ff) ‘hair’, acãrac (3.ms.bf). [U]
+arhmich n.3.ms.ff ‘shoulder’, arhmiyo (3.mp), arhmɨk (3.mp); PI: parhmich (1s), arhmich (2s/3), narhmich (rfl). Var: ahɨrmich. [U]
+arpich n.3.ms.ff ‘bed’, arpo / arpɨlo (3.mp), arpɨk (3.ms.bf); PI: parpich (1s), arpich (2s/3), darpich (rfl). [U]
+ãrrza n.3.fs.ff ‘ear’, ãr (3.fp), ãrˀ (3.fs.bf); PI: pãrrza (1s), ãrrza (2s/3), nãrrza (rfl). Cf. AY: angorone (3.fs.ff) ‘ear’. [U]
+ashtũrc n.3.ms.ff ‘rope, string’, ashtũro (3.mp); PI: pashtũrc (1s), ashtũrc (2s/3), dashtũrc (rfl). [U]
+atsɨkɨta n.3.ms.ff ‘buttock (anat.); stern (mar.)’, atsɨkɨ (3.fp); PI: patsɨkɨta (1s), atsɨkɨta (2s/3), datsɨkɨta (rfl). [U]
+behetɨsht n.ms.ff ‘type of black climbing plant’ (Guaraní: guembepi), behetɨso (mp), behetɨs (ms.bf). [U]
+bertɨt n.ms.ff ‘green’, berto (mp), bertɨta (fs.ff), berte (fp), bertɨˀ (fs.bf). From Spanish verde ‘green’.
+chiihla v.3 1. ‘to choose’; 2. ‘to advance the clock’, tiihla (1s), aahla (2s), chiihla (3), yiihla (1pi), oyiihla (1pe), aahlalo (2p), ochiihla (3p), liihla (3.irls); tiihla orta ‘I advance the time’.
+chukwẽr v.3 ‘to seed, to sow’, tukwẽr (1s), ekwẽr (2s), chukwẽr (3), yukwẽr (1pi), oyukwẽr (1pe), ekwẽrlo (2p), ochukwẽr (3p), lukwẽr (3.irls).
+10
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+chɨrok v.3 ‘to order, to command; to stimulate, to encourage’, tɨrok (1s), erok (2s), chɨrok (3), yɨrok (1pi), oyɨrok (1pe), eroklo / erokɨlo (2p), ochɨrok (3p), dɨrok (3.irls). Var: sɨrok (3). Cf. AY: chiroc (v.3) ‘to command’.
+dechɨrtɨta n.fs.ff ‘umbrella; beach umbrella, parasol’, dechɨrte (fp), dechɨrtoˀ / dechɨrtɨˀ (fs.bf).
+dekɨtɨt n.ms.ff ‘person’, dekɨto (mp), dekɨtɨta (fs.ff), dekɨte (fp). Tish dekɨto osiyer ‘I meet two people’. The word is mostly used in the indeterminate-form: Nahu dekɨtiyoho? Who are these people?
+dekũrc n.3.ms.ff ‘stepfather’, dekũrak (3.ms.bf); PI: deka / pekũrc (1s), ekũrc (2s), dekũrc (3/rfl). Deka is an irregular form only used for the 1S-person.
+dukwẽrc n.ms.ff ‘rope’, dukwẽro (mp), dukwẽrak (ms.bf).
+dɨtuta n.fs.ff ‘competent, skilled, trained’, dɨtuwe / dɨtu (fp), dɨtuˀ (fs.bf). Var: dɨtɨta. Masculine: ditɨt. [U]
+dɨtɨt n.ms.ff ‘competent, skilled, trained’, dɨtuwo / dutuwo (mp), dɨtɨk (ms.bf). Feminine: dɨtuta. [U]
+ebich n.3.ms.ff ‘in front of; entrance’; PI: pebich (1s), ebich (2s/3), debich (rfl). Owa de yok pebich ‘you are in front of me’, teychɨm debich ‘he looks in front of himself’.
+ehmurc n.3.ms.ff ‘courage’, PI: pehmurc (1s), ehmurc (2s/3), nehmurc (rfl).
+epɨta n.3.fs.ff ‘shot, throw’, epe / epɨ (3.fp); IP: pepɨta (1s), epɨta (2s/3), depɨta (rfl).
+erent n.ms.ff ‘sand’, ereno (mp). From Spanish arena ‘sand’.
+erihit n.3.ms.ff ‘footwear’, eriho / erihyo (3.mp); Var: erihich; IP: perihit (1s), erihit (2s/3), derihit (rfl).
+11
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+etan n ‘hard’. Cf. AY: etoi (ms.ff) ‘hard’.
+etɨbich n.3.ms.ff ‘neck’, etɨbiyo (3.mp); PI: petɨbich (1s), etɨbich (2s/3), detɨbich (rfl). Cf. AY: etabi (3.ms.ff) ‘neck’, etabit (3.ms.bf).
+ichalarrza n.3.fs.ff ‘nappy’, ichalar / ichalare (3.fp), ichalarˀ / ichalaroˀ (3.fs.bf); PI: pichalarrza (1s), atsalarrza (2s), ichalarrza (3), datsalarrza (rfl). Var: ichak(a)larrza, ɨchalarrza.
+ihĩts�t̃ n.3.ms.ff ‘hole’, ihĩtsõ / ihĩtsẽ (3.mp), ihĩtsãk (3.ms.bf); PI: pihĩts�t̃ (1s), ahãts�t̃ (2s), ihĩts�t̃ (3), nahãts�t̃ . Var: ihĩtsĩt, iĩts�t̃ . [U]
+iikut n.3.ms.ff ‘top of head, skullcap’, iiku (3.mp), iikɨk (3.ms.bf); PI: piikut (1s), eykut (2s), iikut (3), deykut (rfl). Var: ihikut / ihikɨt. [U]
+iibɨt n.3.ms.ff ‘water container’, iibo (3.mp); PI: piibɨt (1s), eeybɨt (2s), iibɨt (3), deeybɨt (rfl). [U]
+iibɨta n.3.fs.ff ‘liver’, iibɨ (3.fp), iibɨˀ (3.bf); PI: piibɨta (1s), eeybɨta (2s), iibɨta (3), deeybɨta (rfl). Cf. AY: abito (3.fs.ff) ‘liver’.
+iimo n.3.mp ‘mourning, feelings of grief’; PI: piimo (1s), eeymo (2s), iimo (3), neeymo (rfl). [U]
+iisɨt n.3.ms.ff ‘relative’, iiso (3.mp), iis (3.ms.bf); PI: piisɨt (1s), eysɨt (2s), iisɨt (3), deysɨt (rfl). Feminine: iitɨta. Cf. AY: iguiosi (3.ms.ff), iguios (3.ms.bf) ‘relative’. [U]
+iitɨta n.3.fs.ff ‘relative’, iite (3.fp), iito (3.fs.bf); PI: piitɨta (1s), eytɨta (2s), iitɨta (3), deytɨta (rfl). Masculine: iisɨt. Cf. AY: iguioto (3.fs.ff) ‘relative’.
+kalapɨta n.fs.ff ‘bottle’, kalape (fp), kalapɨˀ (fs.bf). This word tends to be replaced by boteylta (fs.ff), from Spanish botella ‘bottle’.
+kamɨt n.fs.ff ‘bed’, kamo (mp), kamɨk (ms.bf). Var: okamɨt. From Spanish cama ‘bed’. [U]
+12
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+kos n ‘swollen, inflated’. [U] kushẽrpɨt n.ms.ff ‘fishhook’, kushẽrpo (mp), kushẽrpɨk (ms.bf). [U] kushiĩt n.ms.ff ‘liar’, kushiĩyo (mp), kushiĩyak (ms.bf), kushiĩta (fs.ff), kushiĩ (fp).
+[U] lotɨbich n.ms.ff ‘bone’, lotɨbiyo. monɨhnt n.ms.ff ‘story, tale, myth’, monɨhne / monɨhno (mp), monɨhnak (fs.bf). [U] nimpyo n ‘clean’. From Spanish limpio ‘clean’. hmart n.ms.ff ‘egg’, hmaro / hmare (mp), hmarak (ms.bf). See also: webɨt. [U] hnatsɨkɨta n.fs.ff ‘louse’, hnatsɨke (fp), hnatsɨkɨˀ (fs.bf). [U] ochɨpamɨt n.ms.ff ‘belt of caraguata’, ochɨpamo (mp), ochɨpamɨk (ms.bf). Cf. AY:
+pamoi (gf.ms.ff) ‘woven belt worn by older Ayoré men’. [U] ohot n.3.ms.ff ‘father-in-law’, oho (3.[m/f]p), ohok (3.ms.bf); PI: pohot (1s), ohot
+(2s), ohot (3), lohot (rfl). Feminine: ohota. [U] ohota n.3.fs.ff ‘mother-in-law’, oho (3.[m/f]p), ohoˀ (fs.bf); PI: pohota (1s), ohota
+(2s), ohota (3), lohota (rfl) ‘mother-in-law’. Masculine: ohot. Cf. AY: ejo (3.fs.ff) ‘mother-in-law’. ohɨrc n.3.ms.ff ‘stolen item’, ohɨriyo (3.mp), ohɨrk (3.ms.bf); PI: pohɨrc (1s), ohɨrc (2s/3), dohɨrc (rfl). Cf. AY: oridi (3.ms.ff) ‘stolen item’, orit (3.ms.bf). [U] okoynɨkɨta n.fs.ff ‘harpoon’, okoynɨke (fp), okoynɨkoˀ / okoynɨkɨˀ (fs.bf). [U] oot n.3.ms.ff ‘weapon’, oolo (3.mp), ook (3.ms.bf); PI: poot (1s), oot (2s/3), doot (rfl). [U]
+13
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+õrht n.3.ms.ff ‘fabric, cloth’, orhẽ / orhõ (3.mp), orã(k) (3.ms.bf); PI: põrht (1s), õrht (2s/3), nõrht (rfl). [U]
+oterc n.3.ms.ff ‘anus, buttock’, otero / oteriyo (3.mp), oterk (3.ms.bf); PI: poterc (1s), oterc (2s), loterc (rfl). [U]
+owit n.3.ms.ff ‘roasted meat’, owiye / owiyo (3.mp), owiyak (3.ms.bf); IP: powit (1s), owit (2s/3), dowit (rfl). Cf. AY: uguheyai (3.ms.ff) ‘meat roasted over a fire’, uguheyac (3.ms.bf). [U]
+owuhlta n.fs.ff ‘person who weeps, who is afflicted’, owuhle ([m/f]p), owuhla. Var: owɨhlta / owhlta ([m/f]s.bf). Masculine: owɨt. [U]
+owɨt n.ms.ff ‘person who weeps, who is afflicted’, owuhlo (mp), owuhle ([m/f]p), owɨk (ms.bf), owuhlak (ms.bf), owuhla ([m/f]s.bf), Var: ow(ɨ)hlo (mp), ow(ɨ)hle ([m/f]p), ow(ɨ)hla ([m/f]s.bf). Feminine: owuhlta. Cf. AY: ugoi (ms.ff) ‘one who cries, one who weeps’. [U]
+owɨta n.fs.ff ‘stream, torrent, creek’, owe (fp), owaˀ (fs.bf).
+poshɨkɨnta n.fs.ff ‘banana’, poshɨkɨne (fp), poshɨkɨneˀ (fs.bf). Var: poshkɨnta. [U]
+piitsɨt n.ms.ff ‘ash’, piitso / piitse (mp), piitsak (ms.bf). Cf. AY: puchucurui (ms.ff) ‘ash, from fire’. [U]
+pɨlotɨt n.ms.ff ‘indigenous war leader’, pɨloto (mp), pɨlotɨk (ms.bf). See Chase-Sardi (1987: 29-36).
+pɨta n.fs.ff ‘box’, pɨˀ (fs.bf), pɨ (fp). Cf. AY: pie (fs.ff) ‘container’.
+sahat v.3 ‘to copulate, to have sex with’, tahat (1s), ahat (2s), sahat (3), yahat (1pi), oyahat (1pe), ahatlo / ahatɨlo (2p), otsahat (3p), lahat (3.irls).
+sapik v.3 ‘to shut up’, tapik (1s), apik (2s), sapik (3), yapik (1pi), oyapik (1pe),
+14
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+apiklo (2p), otsapik (3p), lapik (3.irls).
+sewɨt n.ms.ff ‘hunger’, sewɨt (ms.bf). AY: chaguhei (gf.ms.ff) ‘hunger’.
+tatsa v.3 ‘to carry, to bring the load of someone’, takatsa (1s), atsa (2s), tatsa (3), yatsa (1pi), oyatsa (1pe), atɨlo (2p), otatsa (3p), tatsa (3.irls). Var: tatse. Bu atsa eych ‘bring the load of your father’. Uhu otatse yok ‘Let them carry my load’.
+tɨmehe v.3 ‘to depend (on), to follow’, tɨkɨmehe (1s), emehe (2s), tɨmehe (3), yɨmehe (1.pi), oyɨmehe (1.pe), emehelo (2p), otɨmehe (3p), otɨmehe (3.irls). Tɨkɨmehe deeych ‘I follow the sun’. Tɨmehe Poorzosht ‘He follows God’. Cf. AY: timininga (v.3) ‘to follow with one’s eyes’.
+uhũrc n.3.ms.ff 1. ‘load, burden’ 2. ‘hump’, uhũrk (3.ms.bf), urhũwo (3.mp) ‘load, burden’, ũrhõ (3.mp) ‘hump’; IP: puhũrc (1s), ehẽrc (2s), uhũrc (3), nehẽrc (rfl). [U]
+ukult n.ms.ff ‘dust’, ukulo (mp). [U]
+ukushiĩt n.3.ms.ff ‘deception, deceit, lie’, ukushiĩye / ukushiĩyo (3.mp), ukushiĩyak (3.ms.bf); IP: pukushiĩt (1s), ekushiĩt (2s), ukushiĩt (3), dekushiĩt (rfl).
+ukut n.3.ms.ff ‘lower abdomen’; PI: pukut (1s), ekut (2s), ukut (3), lekut (rlf). [U]
+upweych n.3.ms.ff ‘vomit’, upwelo (3.mp), upwey (3.ms.bf); IP: pupweych (1s), apweych (2s), upweych (3), dapweych (rfl). See also: ɨpweych. Cf. AY: ipogaidi (3.ms.ff) ‘vomit’, ipogait (3.ms.bf).
+urkɨt n.3.ms.ff ‘hammock’, urko / kurkulo (3.mp), urkɨk (3.bf); IP: purkɨt (1s), erkɨt (2s), urkɨt (3), derkɨt (rfl), kurkɨt (gf). Var: urkich. [U]
+uturbɨt n.3.ms.ff ‘makeup, cosmetic, paint’, uturbo (3.mp), uturbɨk (3.ms.bf); PI: puturbɨt (1s), eturbɨt (2s), uturbɨt (3), deturbɨt (rfl). Var: ɨtɨrbich. Properly: ‘hematite used to make red paint’ (Sušnik 1970: 97). [U]
+15
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+uuhnt n.3.ms.ff ‘necklace’, uuhnak (3.ms.bf), uuhno / uuhne (3.mp); PI: puuhnt (1s), eehnt (2s), uuhnt (3), neehnt (rfl). [U]
+uuta n.fs.ff ‘horn’, uu (fp), uuˀ (fs.bf). Cf. AY: ue (fs.ff) ‘horn of animal’. [U]
+webɨt n.ms.ff ‘egg’, webo (mp). From Spanish huevo ‘egg’. The original Chamacoco word for ‘egg’ is hmart (ms.ff).
+wɨsht n.ms.ff ‘blue’ (colour), wɨso (mp), wɨsh (ms.bf), wɨshta (fs.ff), wɨshɨ (fp), wɨshɨˀ (fs.bf).
+yɨtorc n.ms.ff ‘male prostitute’, yɨtoro (mp), yɨtorok / yɨtorak (ms.bf). Feminine: yɨtorrza. On this word, see also Sušnik (1970: 149).
+yɨtorrza n.fs.ff ‘prostitute’, yɨtore / yɨtor (fp), yɨtorˀ / yɨtoroˀ (fs.bf). Cf. Sušnik (1970: 149). Masculine: yɨtorc.
+ɨbihich n.3.ms.ff ‘cry, shout’, ɨbihyo (3.mp); Var: ɨbihit; PI: pɨbihich (1s), ebihich (2s), ɨbihich (3), debihich (rfl). [U]
+ɨbɨta n.3.fs.ff ‘place where one sits; (at the) bottom (of), (at the) corner (of)’ ɨbɨ / ɨbe (3.fp), ɨbɨˀ (3.fs.bf); PI: pɨbɨta (1s), ebɨta (2s), ɨbɨta (3), lebɨta (3). [U]
+ɨhɨrbich n.3.ms.ff ‘urine’, ɨhɨrbo (3.mp), ɨhɨrap (3.ms.bf); PI: pɨhɨrbich (1s), ehɨrbich / eherbich (2s), ɨhɨrbich (3), dehɨrbich (rfl). Cf. AY: erubi (3.ms.ff), erup (3.ms.bf) ‘urine’.
+ɨhɨrmɨt n.3.ms.ff ‘eldest son, first child’, ɨhɨrmɨk (3.ms.bf); PI: pɨhɨrmɨt (1s), ehermɨt / ehɨrmɨt (2s), ɨhɨrmɨt (3), dehermɨt / dehɨrmɨt (rfl).
+ɨhɨrpɨta n.3.fs.ff 1. ‘bladder (anat.)’, 2. ‘toilet’, ɨhɨrpɨ / ɨhɨrpe (3.fp), ɨhɨrpɨˀ (3.fs.bf); PI: pɨhɨrpɨta (1s), ehɨrpɨta / eherpɨta (2s), ɨhɨrpɨta (3), dehɨrpɨta / deherpɨta (rfl). Compound of ɨhɨrap (3.ms.bf) ‘urine’ (see ɨhɨrbich) + pɨta (fs.ff) ‘box, container’. Cf. AY: erupie (3.fs.ff) ‘urinary bladder’, compound of erup (3.ms.bf) ‘urine’ + pie (fs.ff) ‘container’. [U]
+16
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+ɨhɨrrza n.3.fs.ff ‘waist (anat.)’, ɨhɨ (3.fp). PI: pɨhɨrrza (1s), eherrza (2s), ɨhɨrrza (3), deherrza (rfl). Cf. AY: ira (3.fs.ff) ‘waist, at the back’.
+ɨjich n.3.ms.ff ‘path’, ɨjiyo (3.mp), ɨjɨk (3.ms.bf); Var: ɨjɨch. PI: pɨjich (1s), ejich (2s), ɨjich (3), dejich (rfl). Cf. AY: uguhi (3.ms.ff), uguc (3.ms.bf). [U]
+ɨjɨrmɨt n.3.ms.ff ‘panties, pants; diaper’, ɨjɨrmo (3.mp); PI: pɨjɨrmɨt (1s), ejɨrmɨt (2s), ɨjɨrmɨt (3), dejɨrmɨt (rfl). [U]
+ɨkɨrĩt n.3.ms.ff ‘life’, ɨkɨrĩyo (3.mp), ɨkɨrĩk (3.ms.bf); PI: pɨkɨrĩt (1s), ekɨrĩt (2s), ɨkɨrĩt (3), dekɨrĩt (rfl). Var: ɨkɨrĩch. Cf. AY: ucuecaringuei (3.ms.ff) ‘life’.
+ɨlchɨtɨt n.ms.ff ‘eel’, ɨlchɨte / ɨlchɨto (mp), ɨlchɨtak (ms.bf). [U]
+ɨlehet n.3.ms.ff ‘face’, ɨlaho (3.mp); PI: pɨlehet (1s), elehet (2s), ɨlehet (3), delehet (rfl). [U]
+ɨljarrza n.3.fs.ff ‘pocket’, ɨljer / ɨljere / ɨljar / ɨljare (3.fp), ɨljarˀ (3.fs.bf); IP: pɨljarrza (1s), aljarrza (2s), ɨljarrza (3), daljarrza (rfl). [U]
+ɨlotich n.3.ms.ff ‘tear’, ɨlote / ɨloto (3.mp); PI: pɨlotich (1s), elotich (2s), ɨlotich (3), delotich (rfl). Cf. educadi (3.ms.ff) ‘tear’, educat (3.ms.bf).[U]
+ɨlɨbɨcha n.3.fs.ff ‘coin’, ɨlɨbe / ɨlɨbɨ (3.fp), ɨlap (3.fs.bf); PI: pɨlɨbɨcha (1s), elɨbɨcha (2s), ɨlɨbɨcha (3), delɨbɨcha (rfl). [U]
+ɨlɨpɨta n.3.fs.ff ‘lens’, ɨlɨpe (3.fp) ‘eyeglasses’, ɨlɨpɨˀ (3.fs.bf); PI: pɨlɨpɨta (1s), elɨpɨta (2s), ɨlɨpɨta (3), delɨpɨta (rfl). Var: ɨlɨpta. Compound of ɨle (3.fp) ‘face, eyes’ + pɨta (fs.ff) ‘box, container’ (see Ciucci 2013: 398). Cf. AY: edo (3.fs.ff) ‘eye’, edodie (3.fp.ff) ‘eyes, face’; pie (fs.ff) ‘container’. [U]
+ɨmahata n.3.fs.ff ‘enemy’, ɨmehe (3.fp), ɨmahaˀ (3.[m/f]s.bf); PI: pɨmahata (1s), amahata (2s), ɨmahata (3), namahata (rfl). Masculine: ɨmehet. Cf. AY: umajoto (3.fs.ff) ‘enemy’.
+17
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+ɨmatɨt n.ms.ff ‘old’, ɨmato / ɨmate (mp), ɨmatak (ms.bf), ɨmatɨta (fs.ff), ɨmate (fp), ɨmatɨˀ (fs.ff). [U]
+ɨmehet n.3.ms.ff ‘enemy’, ɨmahaˀ (3.[m/f]s.bf), ɨmaho / ɨmahatso (3.mp); PI: pɨmehet (1s), amehet (2s), ɨmehet (3), namehet (rfl). Feminine: ɨmahata. Cf. AY: umajosõri (3.ms.ff) ‘enemy’. [U]
+ɨmɨrich n.3.ms.ff ‘order, request’, ɨmɨre / ɨmɨro / ɨmɨrno (3.mp); PI: pɨmɨrich (1s), ɨmɨrich (2s), ɨmɨrich (3), ɨmɨrich (rfl). Var: ɨmɨrc. [U]
+ɨmɨs�r̃ c n.3.ms.ff ‘godfather’, ɨmɨs�r̃ o / ɨmɨsũro (3.mp), ɨmɨs�r̃ ˀ / ɨmɨs�r̃ (a)k (3.ms.bf); PI: pɨmɨs�r̃ c (1s), emɨs�r̃ c (2s), ɨmɨs�r̃ c (3), nemɨs�r̃ c (rfl). Feminine: ɨmɨtɨta. Cf. AY: imejñusõri (3.ms.ff) ‘stepfather’.
+ɨmɨtɨta n.3.fs.ff ‘godmother’, ɨmɨte (3.fp), ɨmɨtoˀ (3.fs.bf); PI: pɨmɨtɨta (1s), emɨtɨta (2s), ɨmɨtɨta (3), nemɨtɨta (rfl). Var: ɨmɨsũrrza. Masculine: ɨmɨs�r̃ c. Cf. AY: imejñuto (3.fs.ff) ‘stepmother’.
+ɨnermich n.3.ms.ff ‘temple (anat.)’, ɨnermo / ɨnermiyo (3.mp), ɨnermɨk (3.ms.bf); PI: pɨnermich (1s), enermich (2s), ɨnermich (3), nenermich (rfl). [U]
+ɨnɨmich n.3.ms.ff ‘gesture’, ɨnɨmiyo (3.ms); PI: pɨnɨmich (1s), enɨmich (2s), ɨnɨmich (3), nenɨmich (rfl). [U]
+ɨhnes�r̃ c n.3.ms.ff ‘widowed father’, ɨhnes�r̃ o / ɨhnesũro (3.mp), ɨhnes�r̃ ˀ / ɨhnes�r̃ k (3.ms.bf); IP: pɨhnes�r̃ c (1s), ahnes�r̃ c (2s), ɨhnes�r̃ c (3), nahnes�r̃ c (rfl). [U]
+ɨpweych n.3.ms.ff ‘vomit’, ɨpwelo (3.mp), ɨpwey (3.ms.bf); IP: pɨpweych (1s), epweych (2s), ɨpweych (3), depweych (rfl). See also: upweych. Cf. AY: ipogaidi (3.ms.ff) ‘vomit’, ipogait (3.ms.bf). [U]
+ɨrmich n.3.ms.ff ‘jaw’, ɨrmiyo (3.mp), ɨrmɨk (3.ms.bf); PI: pɨrmich (1s), ermich (2s), ɨrmich (3), nermich (rfl). [U]
+18
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+ɨrnonto n ‘round, circular’. From Spanish redondo ‘round, circular’. �r̃ tɨta n.3.fs.ff ‘injection (med.)’, �r̃ te (3.fp), �r̃ toˀ (3.fs.bf); IP: p�r̃ tɨta (1s), ẽrtɨta (2s),
+�r̃ tɨta (3), nẽrtɨta (2s). ɨshɨbɨhlt n.ms.ff ‘fog’, ɨshɨbɨhlo (mp), ɨshɨbɨhlak (ms.bf). ɨstɨriit n.3.ms.ff ‘tiredness, fatigue’, ɨstɨriiyo (3.mp); PI: pɨstɨriit (1s), estɨriit (2s),
+ɨstɨriit (3), lestɨriit (rfl); pɨstɨriit sẽhi yok ‘I am tired’ (lit. ‘my tiredness wipes me out’); tuu pɨstɨriiyo pako ‘I relax’ (lit. ‘I make my tiredness calm’. Var: ɨshtɨrit. ɨteẽch n.3.ms.ff ‘bed, mattress’, ɨteẽlo / ɨteẽno (3.mp), ɨteẽk (3.ms.bf); PI: pɨteẽch (1s), eteẽch (2s), ɨteẽch (3), deteẽch (rfl). [U] ɨterc n.3.ms.ff ‘part of the leg between hip and knee, thigh’, ɨterk (3.ms.bf), ɨtero (3.mp); PI: pɨterc (1s), eterc (2s), ɨterc (3), deterc (rfl). Cf. AY: etarudi (3.ms.ff) ‘thigh’, etarut (3.ms.bf). [U] ɨtɨrbich see uturbɨt.
+19
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+8 English - Chamacoco
+abdomen, lower: ukut advance the clock (to): chiihla afflicted, person who is: owɨt anus: oterc ash: piitsɨt banana: poshɨkɨnta bed: arpich, kamɨt, ɨteẽch belt of caraguata: ochɨpamɨt Bible: Poorzosht ahwoso (also spelled: Porrosht ahwoso) bladder (anat.): ɨhɨrpɨta blue: wɨsht bone: lotɨbich bottle: kalapɨta bottom, at the bottom of: ɨbɨta box: pɨta bring the load of someone (to): tatsa burden: uhũrc buttock (anat.): atsɨkɨta, oterc carry (to): tatsa Chamacoco language: Ɨshɨr(o) ahwoso child, first: ɨhɨrmɨt chin: ahworrza choose (to): chiihla circular: ɨrnonto clean: nimpyo climbing plant, type of: behetɨsht cloth: õrht coin: ɨlɨbɨcha command (to): chɨrok companion: akɨlt
+20
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+competent: dɨtɨt container: pɨta. copulate (to): sahat corner, at the corner of: ɨbɨta cosmetic: uturbɨt, ɨtɨrbich courage: ehmurc creek: owɨta crust (anat.): aatwolta cry: ɨbihich deceit: ukushiĩt deception: ukushiĩt depend on (to): tɨmehe diaper: ɨjɨrmɨt dust: ukult ear: ãrrza Ebitoso dialect: Ɨbɨtoso õr ahwoso / Ɨbɨtos(o) ahwoso eel: ɨlchɨtɨt egg: hmart, webɨt encourage (to): chɨrok enemy: ɨmehet English language: Nort õr ahwoso entrance: ebich eyeglasses: ɨlɨpɨta fabric: õrht face: ɨlehet fart: ajɨch father, widowed: ɨhnes�r̃ c father-in-law: ohot fatigue: ɨstɨriit feast: ahamich feelings of grief: iimo fishhook: kushẽrpɨt flatulence: ajɨch fog: ɨshɨbɨhlt follow (to): tɨmehe
+21
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+footwear: erihit friend: akɨlt gesture: ɨnɨmich godfather: ɨmɨs�r̃ c godmother: ɨmɨtɨta green: bertɨt hair: ak�r̃ t hammock: urkɨt hard: etan harpoon: okoynɨkɨta head, top of: iikut hole: ihĩts�t̃ horn: uuta hump: uhũrc hunger: sewɨt in front of: ebich inflated: kos injection (med.): �r̃ tɨta jaw: ɨrmich jealous: ajɨrmɨt liar: kushiĩt lie: ukushiĩt life: ɨkɨrĩt liver: iibɨta load: uhũrc louse: hnatsɨkɨta makeup: uturbɨt, ɨtɨrbich mattress: ɨteẽch meat, roasted: owit mother-in-law: ohota mourning: iimo myth: monɨhnt nappy: ichalarrza neck: etɨbich necklace: uuhnt
+22
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+old: ɨmatɨt order: ɨmɨrĩch order (to): chɨrok paint: uturbɨt, ɨtɨrbich palm of the hand: hmat(a) aharrza panties: ɨjɨrmɨt pants: ɨjɨrmɨt parasol: dechɨrtɨta path: ɨjich penis: ajɨta person: dekɨtɨt place where one sits: ɨbɨta pocket: ɨljarrza Portuguese language: Wɨs ahwoso prostitute: yɨtorrza prostitute, male: yɨtorc relative: iisɨt request: ɨmɨrĩch rope: ashtũrc, dukwẽrc round: ɨrnonto sand: erent scab (anat.): aatwolta seed (to): chukwẽr sex (to have): sahat shot: epɨta shoulder: arhmich shout: ɨbihich shut up (to): sapik skilled: dɨtɨt skullcap: iikut son, eldest: ɨhɨrmɨt sow (to): chukwẽr Spanish language: Mar(o) ahwoso stepfather: dekũrc stern (mar.): atsɨkɨta
+23
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+stimulate (to): chɨrok stolen item: ohɨrc story: monɨhnt stream: owɨta string: ashtũrc swollen: kos tale: monɨhnt tear: ɨlotich temple (anat.): ɨnermich thigh: ɨterc throw: epɨta tiredness: ɨstɨriit toilet: ɨhɨrpɨta torrent: owɨta trained: dɨtɨt umbrella: dechɨrtɨta urine: ɨhɨrbich vagina (anat.): aharrza vomit: upweych, ɨpweych waist (anat.): ɨhɨrrza war leader: pɨlotɨt water container: iibɨt weapon: oot weeps, person who: owɨt wood knot: aharrza, pohor aharrza word: ahwosht
+24
+
+

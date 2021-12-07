@@ -1,0 +1,230 @@
+Luca Ciucci
+Elementi di morfologia verbale del chamacoco
+1 Introduzione* Il chamacoco è una lingua indigena del Chaco Boreale parlata da circa 1600 persone, stanziate
+prevalentemente in Paraguay nel dipartimento dell’Alto Paraguay.1 Secondo la classificazione tradizionale apparterrebbe alla famiglia delle lingue zamuco, insieme allo zamuco di Chomé, descritto dai Gesuiti nel XVIII secolo (Chomé 1958), e all’ayoreo.
+Figura 1: Collocazione geografica del chamacoco * È mio desiderio ringraziare Matthew e Rosemary Ulrich senza i quali il progetto di cui fa parte questo lavoro non
+sarebbe stato possibile. Questo articolo è basato su materiali presentati al convegno “Italo-Americana. Linguisti italiani e lingue native del Sud America” (Pisa, 26 giugno 2009) e al workshop “The Amazonian Fringe” (Nijmegen, 2-3 luglio 2009), integrati poi con dati raccolti durante i miei studi sul campo. 1 Per maggiori dettagli si veda Fabre 2007.
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL.8 2009
+Il chamacoco, come l’ayoreo, è una lingua considerata in pericolo dall’UNESCO (v. Crevels & Adelaar 2006/07) e potrebbe quindi scomparire nel giro di poche generazioni, sotto la pressione di lingue culturalmente dominanti come il castigliano ed il guaranì.
+Il presente articolo ha lo scopo di fornire un breve sunto della morfologia verbale del chamacoco ed è parte di un lavoro in fieri ben più ampio che ha come fine sia la stesura di una grammatica del chamacoco, sia un’indagine dei rapporti genetici che intercorrono tra le lingue zamuco; pertanto, in questa prospettiva, ci si concentrerà per ora sugli elementi più significativi del sistema verbale del chamacoco, tralasciando la maggior parte delle irregolarità, di cui si darà conto in altra sede, e mostrando alcuni degli indizi morfologici che si potrebbero annoverare tra le prove della parentela fra le lingue zamuco; si fornirà infine una proposta di classificazione dei verbi del chamacoco, che tenga conto dell’intera famiglia linguistica.2
+I dati sul chamacoco impiegati per questo studio provengono essenzialmente dal dizionario di Ulrich & Ulrich (2000): sul verbo, tali studiosi hanno effettuato un lavoro di raccolta sistematica molto preciso, come ho avuto modo di constatare personalmente una volta giunto sul campo, controllando e – all’occorrenza – ampliando i loro dati; la mia indagine in Paraguay con i parlanti del chamacoco ha avuto luogo tra agosto ed ottobre 2009; qui si seguiranno i criteri di trascrizione proposti dagli Ulrich.
+2 Oltre al summenzionato dizionario, che non si limita ovviamente ai soli verbi, bisogna segnalare l’esistenza di un’altra opera (Sequera 2009) dedicata invece, questa sì, esclusivamente alla morfologia verbale; essa si configura – per l’impostazione che le dà l’autore – come una mera e semplice raccolta di paradigmi verbali del chamacoco. È da segnalare l’ampiezza della ricerca, condotta indipendentemente da quella degli Ulrich; proprio per questo viene anche impiegato un diverso sistema di trascrizione. Non mi sono tuttavia servito di quest'opera se non per qualche sporadico confronto, giacché i dati sul verbo che vi si trovano, nel loro complesso, erano stati resi disponibili agli studiosi già molto tempo prima della sua pubblicazione, grazie proprio al lavoro degli Ulrich, i cui dati io stesso ho potuto di persona verificare ed ampliare. Anche se non sono stati direttamente impiegati per questo studio, sul chamacoco non si può fare a meno di segnalare, tra gli altri, i lavori di Boggiani (1894), che è stato il primo studioso di questa etnia, Baldus (1932) e Sušnik (1957); quest’ultimo conterrebbe spunti interessanti, ma purtroppo, a causa dell’oscurità dello stile e della terminologia adoperati, risulta di scarsa utilità.
+2
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL.8 2009
+2 La struttura verbale del chamacoco
+Così come l’ayoreo (v. Bertinetto 2009), anche il chamacoco è una lingua flessiva; in ambito verbale il chamacoco, come l’ayoreo, è una lingua tenseless, poiché esiste un solo tempo verbale coincidente con il paradigma dell’Indicativo, unico modo esistente, con la sola eccezione – diacronicamente importantissima, come si vedrà in seguito (§3 e §5) – di alcune tracce fossili di un Non Indicativo.
+Figura 2: Struttura morfologica del verbo chamacoco
+In Figura 2 è schematizzata la morfologia di un verbo del chamacoco: il suo nucleo è costituito da una radice, in genere preceduta da una vocale suscettibile di mutare a seconda della persona; poiché radice e vocale formano il tema del verbo, si chiamerà quest’ultima ‘vocale tematica’. L’espressione della persona è veicolata da uno o due prefissi oppure, talvolta alternativamente, da un suffisso. In casi sporadici può chiudere la struttura verbale un suffisso che modifica il significato lessicale del verbo e che si chiamerà ‘suffisso lessicale’. In seguito si analizzeranno questi elementi e si constaterà che, all’infuori della radice, nessuno di essi è presente in ogni forma verbale.
+In (1) si osserva una prima, concreta, applicazione dello schema in Figura 2: la prima persona singolare è formata dal tema verbale preceduto da un prefisso (t-, tak-, tok-, tuk- o tɨk-). (1) a. t-ɨ-bɨtehe (1SG ‘vendere a buon prezzo’)
+b. tak-a-tskɨr (1SG ‘lottare’) c. tok-o-rmɨhɨ (1SG ‘ungere’) d. tuk-u-rka (1SG ‘dondolare’) e. tɨk-ɨ-tɨrâha (1SG ‘sputare’)
+3
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL.8 2009
+Tra questi prefissi si deve effettuare una distinzione tra l’allomorfo t- e gli altri (tak-, tok-, tuk- e tɨk-), che sono affini per struttura, essendo formati da /t/, da una vocale e da /k/; si designerà questo gruppo di allomorfi con tVk-; la vocale, indicata con V che corrisponde in genere a /a/, /o/, /u/ o /ɨ/, dipende essenzialmente dalla vocale tematica. Non è chiara la relazione tra t- e tVk-: quasi sicuramente sono allomorfi non in distribuzione complementare, perché non si riscontra alcuna differenza significativa del contesto fonetico in cui sono impiegati; esiste una sola limitazione: non è mai attestato tVk- davanti a radice verbale iniziante con /k/ (2).
+(2) a. t-e-kshehe (1SG ‘tagliare, rompere’) cf. ch-e-kshehe (3SG) b. t-u-kwer (1SG ‘torcere’) cf. ch-u-kwer (3SG)
+Benché non sia sempre possibile stabilire se un verbo avrà tVk- o t-, la possibilità di trovare l’uno o l’altro dipende per lo più dalla classe flessiva, come si vedrà in seguito (§4).
+La seconda persona non ha invece alcun prefisso: è espressa dal solo tema verbale e in essa può verificarsi un mutamento della vocale tematica (cf. (1)).3
+(3) a. Ø-e-bɨtehe (2SG ‘vendere a buon prezzo’) b. Ø-a-tskɨr (2SG ‘lottare’) c. Ø-o-rmɨhɨ (2SG ‘ungere’) d. Ø-e-rka (2SG ‘dondolare’) e. Ø-e-tɨrâha (2SG ‘sputare’)
+La terza persona è quella che presenta la maggiore varietà morfologica e dal modo in cui è formata dipende la classe del verbo, come si vedrà in seguito (§4); per ora basti anticipare che la sua struttura morfologica non comprende un numero determinato di elementi: in genere è costituita dal tema e da un prefisso consonantico (4a); in alcuni verbi il prefisso può mancare e si esprime solo con il tema verbale (4b); in altri manca addirittura la vocale tematica e la terza persona corrisponde alla radice verbale: (4c).
+(4) a. t-e-sher (1SG), Ø-e-sher (2SG), ch-e-sher (3SG ‘pescare’)
+3 Su tale mutamento, interessante dal punto di vista diacronico, si tornerà in seguito (§5)
+4
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL.8 2009
+b. tuk-u-mo (1SG), Ø-a-mo (2SG), Ø-u-mo (3SG ‘dormire / vedere’) c. tɨk-ɨ-hnɨr (1SG), Ø-a-kahnɨr (2SG), Ø-Ø-kahnɨr (3SG ‘valutare’)
+La quarta persona presenta, come molte lingue circonvicine, una distinzione tra una forma inclusiva ed una esclusiva: la quarta persona inclusiva si forma con il prefisso y- seguito dal tema verbale (5); se alla forma inclusiva si premette o- si ottiene quella esclusiva (5).
+(5) a. ch-i-behe (3SG ‘cambiare’), y-i-behe (PL.INCL), o-y-i-behe (1PL.ESCL) b. t-e-eychɨ (3SG ‘cantare’), y-e-eychɨ (1PL.INCL), o-y-e-eychɨ (1PL.ESCL)
+La clusività, ossia la distinzione tra quarta persona inclusiva ed esclusiva, è un elemento presente in molte lingue circonvicine, come il guaranì,4 ma non è attestata né in zamuco (6a) (v. Chomé 1958) né in ayoreo (6b), che hanno una sola forma per la quarta persona.
+(6) a. zamuco: ch-i-mecê-re (3SG ‘amare’); ai-mecê-co (1PL) b. ayoreo: ch-e-do (3SG ‘criticare’); y-e-do-go (1PL)
+Il chamacoco probabilmente aveva in origine un sistema verbale ridotto a sole quattro persone: la quarta persona esclusiva (v. supra), la quinta persona e la sesta persona non sono infatti morfologicamente autonome, ma si formano a partire da altre.
+Per formare la quinta persona si aggiunge il suffisso -lo alla seconda, come si vede, ad es., dal fatto che entrambe le persone condividono gli stessi mutamenti vocalici:
+(7) a. ch-ɨ-nâha (3SG ‘agire con forza’), e-nâha (2SG), e-nâha-lo (2PL) b. t-a-tskɨr (3SG ‘lottare’), a-tskɨr (2SG), a-tskɨr-lo (2PL)
+Il suffisso -lo ha dunque un significato di plurale con la quinta persona; in altri casi indica però un gran numero di elementi: si aggiunge -lo alla quarta persona inclusiva, dove emerge dunque un contrasto tra un ‘noi’ con pochi referenti e un ‘noi’ che invece ne ha molti.
+4 A livello storico la distinzione inclusivo-esclusivo ha origine in Sudamerica, in quanto è stata introdotta per la prima volta nelle grammatiche dell’Aymara e del Quechua sud-peruviano ad opera dei missionari del XVI secolo (Crevel & Muysken 2005).
+5
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL.8 2009
+(8) a. y-i-chew (1PL.INCL ‘noi (pochi) scriviamo’) b. y-i-chew-lo (1PL.INCL ‘noi (molti) scriviamo’) c. o-y-i-chew (1PL.ESCL ‘noi scriviamo’) d. *o-y-i-chew-lo
+Come si nota in (8d), alla quarta persona esclusiva, morfologicamente più marcata, non si può aggiungere -lo e con tale persona non si ha pertanto alcuna distinzione tra ‘pochi’ e ‘molti’; la stessa cosa vale per i pronomi personali: si hanno due pronomi di quarta persona inclusiva: eyok ‘noi (pochi)’ e eyok-ɨ-lo5 ‘noi (molti)’, ma solo uno di quarta persona esclusiva: ôryok. Benché la differenza tra ‘molti’ e ‘pochi’ non sia presente alla quinta persona del verbo, la ritroviamo espressa ancora una volta per mezzo del morfema -lo con i pronomi di olak ‘voi pochi’ e olak-ɨ-lo ‘voi molti’. Questa opposizione tra ‘molti’ e ‘pochi’, con pronomi o verbi che siano, non la si trova né in zamuco né in ayoreo.6
+Così come la quinta, anche la sesta persona si forma a partire dalla corrispondente singolare, vale a dire con il prefisso la o- più la terza persona:
+(9) a. ch-ɨ-nâha (3SG ‘agire con forza’), o-ch-ɨ-nâha (3PL) b. t-a-tskɨr (3SG ‘lottare’), o-t-a-tskɨr (3PL)
+Anche nello zamuco di Chomé ed in ayoreo la sesta persona è formata dalla terza persona preceduta dal pronome ore ‘essi’ (10), parola che trova un suo corrispondente nel pronome ôr del chamacoco, che invece si trova inglobato nel verbo.
+(10) a. zamuco: ch-i-mechêre (3SG.IND ‘amare’), ore ch-i-mechêre (3PL.IND) b. ayoreo: ch-a-ca (3SG ‘piantare’), ore ch-a-ca (3PL)
+Alla quarta persona esclusiva e alla sesta, il verbo viene ad assumere, in genere,7 una doppia prefissazione, giacché tali persone non dispongono di
+5 In eyokɨlo, così come in olakɨlo (v. infra), tra la radice pronominale e il suffisso, si inserisce la vocale neutra /ɨ/ allo scopo di evitare un nesso consonantico; si tratta di un fenomeno di riaggiustamento molto comune in chamacoco, specialmente in morfologia verbale con il medesimo suffisso -lo: es. arhɨm (2SG ‘negare’), arhɨm-ɨ-lo (2PL).
+6 Risulta comunque interessante, per vederne la comune origine, confrontare i summenzionati pronomi del chamacoco con yoque/uyoque (1PL) e uaque (2PL) dell’ayoreo, nonché con i più antichi uyoc (1PL) e uguac (2PL) dello zamuco di Chomé.
+7 Dico in genere, perché – come si è notato poco sopra (es. (4)) – la terza persona può non avere
+6
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL.8 2009
+un’autonomia morfologica; per formare entrambe si impiega il medesimo prefisso o-, che sarebbe meglio chiamare prefissoide, data l’origine da ôr ‘essi’, certa almeno per quanto riguarda la sesta persona.8
+Si tratta dell’unico caso di doppia prefissazione per ora riscontrato nella morfologia verbale del chamacoco; tra gli affissi flessivi si devono inoltre distinguere o- e -lo da tutti i restanti: mentre questi sono indispensabili per poter costruire una forma verbale morfologicamente compiuta, o- e -lo formano nuove persone a partire da altre già esistenti; inoltre questi due elementi sono complementari, nel senso che non possono mai essere usati entrambi sulla stessa forma verbale: come si è visto in (8), data una quarta persona inclusiva come yichew, si può formare o-yichew e yichew-lo, ma non *o-yichew-lo.
+Esistono in chamacoco alcuni suffissi (-ap e -po)9 che modificano il significato lessicale del verbo e che si chiameranno ‘suffissi lessicali’; qui si esce dalla morfologia flessiva e si entra nel dominio della morfologia derivativa: essi seguono la radice verbale e (nel caso il verbo sia alla quinta persona) il suffisso personale -lo. Anzi, è proprio la presenza di quest’ultimo che, inserendosi tra la radice e il suffisso lessicale, permette di identificarlo, rivelando il confine morfologico di due elementi altrimenti difficili da distinguere. Il suffisso -po, ad esempio, ha il significato di ‘un’altra volta’ e segnala un’iterazione dell’azione; in taâchpo ‘ritornare’ (11b) l’azione è ripetuta nel verso opposto rispetto a quella del verbo modificato taâcha ‘arrivare’ (11a). Suffissi di questo tipo, sebbene fonologicamente diversi da quelli del chamacoco, sono attestati anche in ayoreo (11c) (v. Ciucci 2007/08), dove hanno un impiego molto più esteso e si riconoscono per seguire i suffissi
+prefisso; in tal caso si impiega solo o- : es. kahnɨr (3SG ‘valutare’), o-kahnɨr (3PL). 8 In sincronia si tratta dello stesso elemento avente due funzioni diverse, ragion per cui si può pensare
+che siano venuti a convergere due elementi prima distinti, ma non si può offrire alcuna certezza al riguardo. Lo stesso prefissoide ôr lo si può osservare nel pronome ôryok (1PL.ESCL), se raffrontato con yok (1SG) ed eyok (1PL.INCL); non si può fare a meno confrontare ôr- impiegato per la quarta persona esclusiva con il pronome di quarta persona esclusiva ore del guaranì: ciò suggerirebbe che la scissione clusiva non sia originaria della famiglia zamuco. 9 Segnalando l’esistenza di questi suffissi, bisogna dire che risultano essere impiegati molto raramente e che per il momento non ne sono attestati altri all’infuori di -ap e -po; nonostante ciò la loro importanza deriva dal fatto che si tratterebbe dell’unico meccanismo di morfologia derivativa finora attestato con il verbo del chamacoco. Tali suffissi meritano ulteriori indagini.
+7
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL.8 2009
+di quarta e quinta persona (rispettivamente -go e -yo in (11c)).
+(11) a. taâcha ‘arrivare’: tokaâcha, aâcha, taâcha, oyaâcha, yaâcha, aach›-lo, otaâcha
+b. taâchpo ‘ritornare’: takaâch-po, aâch-po, taâch-po, oyaâch-po, yaâch-po, aach›-l-po,10 otaâch-po
+c. ayoreo: yica-ji, baca-ji, chica-ji, yica-go-ji, uaca-yo-ji, ore chica-ji ‘viaggiare’
+3 Il Non Indicativo
+In chamacoco, accanto all’Indicativo, esistono anche tracce fossili di un Non Indicativo; questo modo si trova solo alla terza persona (e dunque anche alla sesta) di alcune classi verbali (v. infra). In tali casi, circoscritti entro confini morfologici che si delineeranno in seguito, sarebbe dunque espressa l’opposizione – mancante nel resto della morfologia verbale – tra realtà, espressa dall’Indicativo, e irrealtà, espressa appunto dal Non Indicativo. Questo modo si impiega quando si hanno dubbi sull’effettivo svolgimento dell’azione indicata dal verbo o quando l’azione non viene svolta, cioè nelle frasi negative.
+(12) a. Wɨchi hno tɨr Baya ‘Egli va a Bahía Negra’ b. Wɨchi sehe do tɨr Baya ‘Egli vuole andare a Bahía Negra’
+In (12a)11 non vi sono dubbi sul fatto che il soggetto si reca effettivamente a Bahía Negra, pertanto si impiega hno, terza persona dell’Indicativo del verbo ‘andare’; in (12b) si esprime solo l’intenzione del soggetto di andare a Bahía Negra: si ignora quindi se l’azione avrà mai luogo nella realtà e si impiega do terza persona del Non Indicativo del verbo hno ‘andare’.12
+10 In aach›lpo, la cancellazione di /o/ del suffisso -lo è dovuta a motivi fonetici che saranno trattati in altra sede.
+11 L’esempio è proposto da Ulrich & Ulrich (2000: 13); il corsivo è mio. Il verbo hno ‘andare’ impiegato in tale esempio è irregolare, ma ben si presta al mio scopo.
+12 I verbi, secondo una convenzione stabilita dagli Ulrich e di cui avrò modo di confermare la validità nella mia proposta di classificazione (§4), si lemmatizzano indicandone la forma di terza persona, ovviamente dell’Indicativo.
+8
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL.8 2009
+(13) a. s-ɨ-tɨtêra (3SG.IND) ‘medir, probar’ ---> d-ɨ-tɨtêra (3SG.NON-IND) b. ch-e-kshehe (3SG.IND) ‘cortar’---> l-e-kshehe (3SG.NON-IND) c. s-a-hmûr (3SG.IND) ‘querer, amar’ ---> n-a-hmûr (3SG.NON-IND) d. t-o-kole (3SG.IND) ‘salir’ ---> Ø
+Il Non Indicativo si forma, in genere, sostituendo il prefisso di terza persona con d-/l-, che in inizio di parola sono varianti libere (13a-b),13 oppure con n- se il verbo ha un elemento nasale nella radice che dunque assimila il prefisso (13c). La negazione della terza persona del verbo si forma premettendo la particella ye al Non Indicativo seguito, in genere, da pe; dati i verbi in (13), si avrà così: ye dɨtɨtêra-pe, ye lekshehe-pe e ye nahmûr-pe. Il verbo riportato a titolo esemplificativo in (13d) ha solo l’Indicativo e dunque tale modo svolge anche le funzioni che in altri verbi sono riservate al Non Indicativo: pertanto la negazione di tokole è ye tokol-pe.14 La sesta persona del Non Indicativo si ottiene, secondo quanto già osservato per l’Indicativo, premettendo o- alla terza persona dello stesso modo; per i verbi in (13) si ha dunque o-dɨtɨtêra, olekshehe e o-nahmûr.15
+Se un verbo presenta una nasalizzazione nella radice, generalmente forma il Non Indicativo per mezzo del prefisso n- (13c), tuttavia, per quanto si è potuto constatare durante le indagini sul campo, in quest’ambito vi sono tendenze generali molto forti nei parlanti, mai regole ferree; talvolta, dunque, la nasalizzazione di d-/l- in n- ad opera della radice nasale può venir meno. All’interno di questa tendenza ve ne è un’altra: se tra gli elementi nasali della radice e il prefisso si frappone un elemento occlusivo, il prefisso sarà in genere d-/l-, ma non n-; ciò perchè l’occlusione blocca l’espansione della nasalizzazione dalla radice ai prefissi.
+13 Come scrivono gli Ulrich (2000: 13): “Este intercambio libre de d y l es preferencialmente individual de estilo y no tiene significación gramatical”; la libera alternanza tra [l] e [d] in inizio di parola non è esclusiva del verbo, cf. ad es. data vs. lata ‘madre’; deych vs. leych ‘padre’.
+14 Il fatto che la particella negativa pe formi una sola parola grafica e fonologica con il verbo, non deve ovviamente ingannare, in quanto pe è una particella enclitica che non fa parte della morfologia verbale e si può trovare anche unita ad altre parti del discorso come nomi e aggettivi. Tali particelle negative si usano, ovviamente con l’Indicativo, anche per negare le altre persone.
+15 Per la negazione della sesta persona vale quanto già detto a proposito della terza.
+9
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL.8 2009
+(14) a. ch-u-kshâha (3SG.IND); d-u-kshâha (3SG.NON-IND) ‘riempire’ b. s-a-ts›r (3SG.IND); l-a-ts›r (3SG.NON-IND) ‘sgridare’ c. s-e-kwêr (3SG.IND); d-e-kwêr (3SG.NON-IND) ‘allattare’
+Un fenomeno analogo lo si ritrova anche in ayoreo, dove, ad es., tra i nominali, il suffisso plurale maschile della forma piena -(o)de diviene -(o)ne qualora nella radice sia presente un elemento nasale: dato jnum-i (‘terra’) si ha il plurale jnum-one (‘terre’); tuttavia, il plurale di tamoco-i (‘cane’) è tamocode (‘cani’) invece di *tamocone, perché l’occlusiva velare sorda si interpone tra l’elemento nasale della radice e il suffisso, impedendo la nasalizzazione di quest’ultimo (v. Bertinetto 2009).
+4 Una proposta di classificazione
+In questa sezione si avanzerà una nuova proposta di classificazione per il verbo del chamacoco; il punto di partenza è Ulrich & Ulrich (2000:12) in cui si propone di classificare il verbo in base alla forma di terza persona che viene anche impiegata per la lemmatizzazione. Un indubbio vantaggio è costituito dal fatto che, per la varietà dei modi in cui si forma la terza persona, è più facile risalire da questa alle altre forme del paradigma che non viceversa. La prima distinzione da effettuare è tra i verbi che formano la terza persona con un prefisso consonantico e quelli che invece ne sono privi; tali verbi apparterranno rispettivamente alla prima e alla seconda macroclasse.
+La prima macroclasse, alla quale si assegnano dunque i verbi con prefisso consonantico alla terza persona, comprende la maggior parte dei verbi del chamacoco ed è molto più regolare rispetto alla seconda, che ha un numero molto minore di verbi, ma una possibilità molto più alta di osservarvi irregolarità o subregolarità. Se la prima macroclasse è il centro della morfologia verbale del chamacoco, la seconda ne è, per così dire, la periferia.
+In base a quanto detto finora, data una radice verbale, del suo paradigma non 10
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL.8 2009
+è possibile stabilire a priori: 1) come si forma la terza persona; 2) se la prima persona avrà come allomorfo t- o tVk- (es. (1) e (2)) ; 3) se è morfologicamente attiva un’opposizione tra la Indicativo o Non Indicativo alla terza persona. Una tassonomia efficiente deve consentire di prevedere il comportamento del paradigma rispetto a queste tre incognite. Per quanto riguarda il punto (1), la difficoltà è superata prendendo come punto di riferimento proprio la terza persona.
+Nella prima macroclasse, quindi laddove dove sono presenti i verbi morfologicamente prototipici, la terza persona si può formare con i prefissi ch-, s-/sh-, t-, d-/l-, n- e y-.16 Si può operare una divisione in due classi: una prima formata dai verbi in ch- e in s- e una seconda formata dai verbi in t- e dai verbi in d-/l-, n- e y- (che per comodità si chiameranno ‘verbi in d-’).17 I verbi in che in s- (15) condividono le stesse proprietà morfologiche:18 nella maggior parte dei casi hanno l’allomorfo t- alla prima persona, mentre – senza eccezione alcuna – presentano sempre una distinzione tra Indicativo e Non Indicativo.
+(15) a. ch-ɨraha ‘capire, conoscere’ tɨraha, eraha, chɨraha, yɨraha, oyɨraha, erahalo; dɨraha (NON-IND)
+b. s-atɨr ‘devolver’ tatɨr, atɨr, satɨr, oyatɨr, yatɨr, atɨrlo, otsatɨr; latɨr (NON-IND)
+(16) a. t-aak ‘mangiare’ takaak, aak, taak, oyaak, yaak, aakɨlo, otaak b. d-ebuhu (l-ebuhu) ‘vivere’ takabuhu, ebuhu, debuhu, oyebuhu, yebuhu, ebuhulo, odebuhu c. l-ota (d-ota) ‘giocare’ tokota, ota, lota, oyota, yota, otɨlo, olota d. n-ɨna ‘ringraziare’ tɨkɨna, ena, nɨna, oyɨna, yɨna, enɨlo, onɨna e. y-ana ‘ridere’ tɨkina, ana, yana, oyina, yina, anɨlo, oyana
+16 Mentre, come si è visto in nota (13), d- e l-, sono varianti libere all’inizio di parola, s- e sh- sono allomorfi in distribuzione complementare; s- diviene infatti sh- se la vocale tematica è /i/ o /u/: cf. sehek ‘dividere’ vs. shiyokôr ‘fare’; per questo d’ora in poi, riferendosi ai verbi in s-, ci si riferirà anche a quelli in sh-. Il prefisso s- è realizzato foneticamente come [ts]; nel caso dei verbi, tale fono, è trascritto dagli Ulrich con <s> in inizio di parola e con <ts> all’interno di parola, per cui tra la terza persona satɨr e la sesta otsatɨr (es. (15)) non si verifica alcun mutamento fonetico, ma solo un mutamento di convenzioni grafiche.
+17 Volendo, ci si potrebbe spingere oltre fino a ripartire questi verbi in quattro sottoclassi: verbi in ch-, verbi in s- (nella prima classe); verbi in t- e verbi in d- (nella seconda classe), v. Tabella 1 (infra).
+18 Al punto che per alcuni verbi di questa classe sono attestati entrambi i prefissi come chowa o sowa ‘mostrare’; non si notano casi di oscillazioni analoghe con altri prefissi.
+11
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL.8 2009
+I verbi della seconda sottoclasse, ossia quelli in t- e in d-, condividono proprietà speculari a quelli della prima: hanno per lo più tVk- alla prima persona19 e non fanno mai distinzione – anche qui senza eccezioni – tra Indicativo e Non Indicativo. Risulterà immediatamente evidente la scarsa resa funzionale del prefisso t- alla prima persona dei verbi in t- (16a), che risulta identica alla terza persona: cf. es. t-akashɨm (1SG ‘aiutare’) vs. t-akashɨm (3SG ‘aiutare’).20 Si può dunque ipotizzare che per eliminare tale ambiguità sia stata posta un’inserzione -Vk- dando luogo a uno degli allomorfi tVk-; da qui l’innovazione si sarebbe poi diffusa ad altri verbi, sia ad alcuni in ch- e s-, che però sono da considerare eccezioni, sia a quelli in d-; nonostante il loro esiguo numero, si può pensare che tVk- si sia diffuso in tutti i verbi in d-, perché questi, analogamente ai verbi in t-, non distinguono tra Indicativo e NonIndicativo come fanno i verbi in ch- e s-. Inoltre, la mancanza di opposizione tra Indicativo e Non Indicativo, che si ha con i verbi in d-, è spiegata dal fatto che i prefissi d-, l- e n- sono, in ultima analisi, prefissi di Non Indicativo21; dunque, si tratterebbe di forme di Non Indicativo che, per accidenti storici a noi ignoti, hanno preso il posto dell’Indicativo. Si potrebbero interpretare questi dati anche in maniera alternativa, ipotizzando cioè che per i verbi ‘in dentale’ (ossia in t- e d-) Indicativo e Non Indicativo coincidano: in tal caso non sarebbe quindi esatto affermare che tali verbi sono privi del Non Indicativo; semmai questo non ha forma indipendente.
+Una divisione in classi basata sul prefisso di terza persona permette di: (1) prevedere con buona probabilità, talvolta con certezza assoluta, se è impiegato t- o tVk- alla prima persona; (2) stabilire, senza possibilità di errore, se il verbo
+19 Con i verbi in t- vi è una forte probabilità di avere tVk- alla prima persona, mentre con i verbi in d(che comunque sono meno numerosi) si ha sempre tVk-.
+20 Questa ambiguità è in qualche modo ‘necessaria’, perché t-a-kashɨm è un verbo in t- e come tale dovrebbe avere tVk- alla prima persona: si deve tuttavia ricordare che, come osservato in §1, es. (2), tVk- non si trova mai davanti a radice verbale iniziante con /k/, come appunto -kashɨm.
+21 Anche per questo si sono chiamati, per comodità, verbi in d-; per quanto riguarda il prefisso y-, l’unico verbo finora attestato ad averlo è yana (16e): sarà opportuno in futuro capire qualcosa di più sulle origini di questo verbo; per il momento mi è sembrato più opportuno accostarlo a questo gruppo caratterizzato da vari prefissi (l-, d- e n-), ma da un numero esiguo di verbi, piuttosto che ai verbi in t-: nel qual caso sarebbe venuta meno la coerenza interna di una delle sottoclassi portanti della morfologia verbale del chamacoco.
+12
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL.8 2009
+
+distingue tra Indicativo e Non Indicativo alla terza persona.
+
+PRIMA MACROCLASSE: verbi con prefisso consonantico alla terza persona
+
+SECONDA MACROCLASSE: verbi senza prefisso consonantico alla terza persona
+
+PRIMA CLASSE
+prima sottoclasse: verbi in ch-
+
+seconda sottoclasse: verbi in s(s-, sh-)
+
+SECONDA CLASSE
+
+terza sottoclasse: verbi in t-
+
+quarta sottoclasse: verbi in d(d-, l-, n- e y-)
+
+TERZA CLASSE:
+
+QUARTA CLASSE:
+
+verbi in vocale verbi in radice
+
+Tabella 1: proposta di classificazione per i verbi del chamacoco.
+
+La maggior parte dei verbi appartiene alle prime tre sottoclassi indicate in Tabella 1; a livello di macroclassi, la tassonomia qui proposta consente di poter stabilire con buona probabilità la prototopicità morfologica di un verbo (se appartiene alla prima macroclasse) o, viceversa, la possibilità di trovarvi irregolarità o subregolarità (se appartiene alla seconda macroclasse). Qui, tra i verbi privi di prefisso alla terza persona, si deve effettuare un’ulteriore distinzione tra quelli che alla stessa persona hanno la vocale tematica (‘verbi in vocale’ (17a)) e quelli che ne sono privi e si riducono alla sola radice verbale (‘verbi in radice’ (17b)).
+(17) a. Ø-iyem ‘esperar’ tɨkiyem / tiyem, anem, iyem, oyiyem, yiyem, anemlo, oyem; seem (NON-IND)
+b. Ø-Ø-keytkêr (keytikêr) ‘hablar’ tɨkitkêr, ekîtkêr, keytkêr, oyikitkêr, yikitkêr, ekitkêrlo, okeytkêr; keytkêr (NON-IND)
+I verbi della seconda macroclasse in genere hanno tVk- come prefisso di prima persona;22 i verbi in vocale hanno sempre una distinzione tra Indicativo e Non Indicativo, che risulta assente nei verbi in radice. Non si affronteranno qui le specifiche subregolarità di questi gruppi verbali, ma se ne possono notare alcune in (17). Si osservi, ad esempio, la seconda persona di iyem, ossia anem,23
+
+22 La possibile alternativa tra tɨkiyem e tiyem alla prima persona, così come la forma di sesta persona oyem, sono dovuti a fenomeni fonetici e non morfologici, per cui non se ne tratterà in questa sede.
+23 E quindi anche la quinta persona, morfologicamente dipendente dalla seconda e che pertanto condivide questa subregolarità non attestata, per il momento, in altre classi verbali.
+13
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL.8 2009
+in cui si passa da /j/ a /n/; anche la forma del Non Indicativo seem è anomala rispetto a quanto osservato finora, sia perché la vocale tematica dovrebbe essere la stessa dell’Indicativo, sia per il prefisso s- che si trova solo con i verbi di questa classe. Si noti parimenti, in (17b), il monottongamento di /ej/ dalla terza persona24 al resto del paradigma. Tali fenomeni non sono esclusivi dei verbi in questione, ma si ripropongono anche in altri verbi appartenenti alla stessa classe.
+5 Il verbo del chamacoco nel contesto linguistico zamuco
+La classificazione proposta in §4 facilita la comparazione all’interno della famiglia linguistica zamuco. Anche in ayoreo, ad esempio, è conveniente ordinare i verbi prendendo come punto di riferimento la terza persona (v. Ciucci 2007/08). La morfologia verbale dell’ayoreo (18), in prefissazione, è meno articolata rispetto a quella del chamacoco; mentre in chamacoco si possono individuare vari gruppi (verbi in ch-, in s-, in t-) aventi all’incirca la stessa importanza numerica, in ayoreo i rapporti sono molto più sbilanciati: la maggior parte dei verbi ha prefisso ch- alla terza persona e corrisponde ai verbi in ch- e in s-, ossia alla prima classe di verbi del chamacoco (18a-b).
+In ayoreo troviamo poi verbi in t- a cui si possono facilmente trovare corrispondenti in chamacoco (18c), (19): curiosamente però, mentre in ayoreo si ha un numero molto ristretto di verbi in t-, in chamacoco formano una delle sottoclassi numericamente più cospicue.
+La ripartizione in ‘classi verbali’ dell’ayoreo, trova il suo completamento con un piccolo gruppo di verbi senza prefisso né vocale tematica alla terza persona, corrispondenti appunto ai verbi in radice del chamacoco (18d).
+(18) a. ch-i-raja (ay.) ‘conoscere’: yiraja, baraja, chiraja, yirajago, uacarajago, ore chiraja cf. chamacoco ch-ɨraha ‘conoscere’
+b. ch-a-tire (ay.) ‘restituire’: yatire, batire, chatire, yatirego, uacatireyo, ore chatire cf. chamacoco s-atɨr ‘restituire’
+24 E quindi anche dalla sesta, dipendente dalla terza.
+14
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL.8 2009
+
+c. t-a-que (ay.) ‘mangiare’: yaque, baque, taque, yajo, uacacho,
+
+ore taque
+
+cf. chamacoco t-aak ‘mangiare’
+
+d. Ø-Ø-catecâri (ay.) ‘parlare’: yicatecâri, bacatecâri, catecâri, yicatecâcoi,
+
+uacacatecâchoi, ore catecâri cf. chamacoco keyt(i)kêr ‘parlare’
+
+(19) a. tagu / taque (ay. 3SG ‘mangiare’) cf. tew / taak (ch. 3SG ‘mangiare’) b. tangari (ay. 3SG ‘ascoltare’) cf. têr (ch. 3SG ‘ascoltare’) c. terachu (ay. 3SG ‘cantare con la paca’) cf. teeychɨ (ch. 3SG ‘cantare’) d. tere (ay. 3SG ‘orinare’) cf. tɨrh (ch. 3SG ‘orinare’) e. tibagui (ay. 3SG ‘visitare’) cf. tekɨrɨhɨ (ch. 3SG ‘visitare’) f. tibidi (ay. 3SG ‘chiamare’) cf. tɨbi (ch. 3SG ‘chiamare’) g. tibite (ay. 3SG ‘gridare’) cf. tɨbich (ch. 3SG ‘gridare’) h. toria (ay. 3SG ‘rubare’) cf. tohɨr / torha (ch. 3SG ‘rubare’)
+
+In ayoreo, dunque, al centro del sistema troviamo i verbi in ch-, alla periferia i verbi in t- e i verbi in radice; in ayoreo manca un’opposizione tra Indicativo e Non Indicativo alla terza persona, ma si può confrontare il chamacoco con lo zamuco descritto da Chomé; in questa lingua è documentato un modo per l’espressione dell’irrealtà che corrisponde al Non Indicativo del chamacoco.
+Quando Chomé descrive lo zamuco tale modo verbale è ancora presente in tutte le persone. Questo Non Indicativo (così lo chiameremo) dello zamuco aveva gli stessi impieghi delle tracce di Non Indicativo che si trovano in chamacoco. Chomé (1958: 143 ssg.) non si rende conto di avere a che fare con un modo che esprime l’irrealtà, ma parla genericamente di futuro e di forme verbali derivate dal futuro, le quali – come si può osservare – hanno sempre a che fare con l’irrealtà. Dato, ad esempio, il verbo ‘amare’, la terza persona del presente indicativo si forma con il prefisso ch- (18a), mentre il corrispettivo futuro25 si forma con il prefisso d- e il suffisso -ri (18c); Chomé parla dunque di futuro, mentre oggi, rianalizzando gli scritti di Chomé, diremmo piuttosto che il futuro si formava aggiungendo -ri al Non Indicativo; il Non Indicativo di terza persona si otteneva dunque sostituendo il prefisso dell’Indicativo con d-: esattamente come in chamacoco. Fatto ancora più interessante, per negare il verbo (al presente), secondo Chomé (1958: 151) si usa il futuro, tolto però il
+25 Vale la pena ricordare che, trattandosi di futuro, non si può, ovviamente, avere alcuna certezza circa l’effettivo svolgimento dell’azione e questo è quello che conta per comprendere l’impiego dei due diversi modi dello zamuco di Chomé. In questo breve excursus sul Non Indicativo dello zamuco si considera solo la terza persona, l’unica che qui interessa per la comparazione con il chamacoco.
+15
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL.8 2009
+suffisso -ri, (ca è la particella negativa): attualizzando il tutto, ciò equivale a dire che per la negazione del verbo si deve impiegare (come in chamacoco) il Non Indicativo.
+(18) a. presente indicativo: ch-imecêre ‘egli ama’ (3SG) b. negazione: ca d-imêcêre ‘egli non ama’ (3SG) c. futuro: d-imecêre-ri ‘egli amerà’ (3SG)
+Ricapitolando, in questa famiglia linguistica, doveva esistere originariamente, oltre all’Indicativo, anche Non Indicativo, attestato in Chomé e di cui resta ancora qualche elemento in chamacoco. Alcune classi, però, non hanno il Non Indicativo: all’interno di una di queste si ha la sottoclasse dei verbi in t-, che ha dei corrispondenti anche nello zamuco del XVIII secolo; da Chomé infatti si apprende dell’esistenza di un gruppo di verbi «que hacen la 3a persona en t no radical» (Chomè 1958: 141), ossia con prefisso t- alla terza persona. Tra questi vi è tac (3SG.IND ‘mangiare’, cf. (19a)), che viene menzionato in un passo molto significativo: «Los que hacen la 3a de presente singular con t non radical [es. tac], para el futuro [i.e. Non-Indicativo], [...] la 3a es como la de singular. tac... come. [...] taqueri... comera.» (Chomé 1958: 149). Affermare che alla terza persona dei verbi in tdello zamuco di Chomé non esiste alcuna differenza (in prefissazione) al presente e al futuro, significa affermare, in base a quanto detto finora, che i verbi in t-, anche in zamuco, alla terza persona non hanno alcuna opposizione tra Indicativo e Non Indicativo; i verbi in t- dello zamuco avevano il Non Indicativo alle altre persone, ma non alla terza, ossia l’unica che in chamacoco avrebbe mantenuto anche il Non Indicativo. Dunque, la mancanza di forme specifiche di Non Indicativo per i verbi in tdel chamacoco deve avere origini molto antiche, sicuramente, come possiamo evincere dalla grammatica di Chomé, è molto anteriore al collasso del Non Indicativo che si è verificato nelle lingue zamuco.
+Nella morfologia verbale del chamacoco vi sono molti altri elementi dai quali emergono analogie strutturali con le altre lingue zamuco; riservandomi di trattare più approfonditamente la questione in un prossimo lavoro, vorrei concludere osservando più da vicino la seconda persona. In ayoreo (v. Ciucci 2007/08) la vocale tematica si mantiene in genere inalterata in tutto il
+16
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL.8 2009
+paradigma (19a-c), ma se è una vocale alta, ossia /i/ o /u/, diviene /a/ alla
+seconda e alla quinta persona (19d-e).
+(19) a. y-a-ca, b-a-ca, ch-a-ca, y-a-cago, uac-a-cayo, ore ch-aca ‘piantare’ b. y-e-do, b-e-do, ch-e-do, y-e-dogo, uaqu-e-do-yo, ore ch-e-do ‘criticare’ c. y-o-jare, b-o-jare, ch-o-jare, y-o-jaco, uac-o-jacho, ore ch-o-jare ‘annusare ’ d. y-i-go, b-a-go, ch-i-go, y-i-gogo, uac-a-goyo, ore ch-i-go ‘dire’ e. y-u-ga, b-a-ga, ch-u-ga, y-u-gago, uac-a-gayo, ore ch-u-ga ‘cucire’
+Lo stesso fenomeno si verifica anche in chamacoco, dove la vocale tematica
+generalmente non cambia (20a-c), ma se si tratta di una vocale alta (/i/-/i:/, /ɨ/-/ɨ:/, /u/-/ u:/)26 diviene /a/-/a:/ o /e/-/e:/ alla seconda e alla quinta persona. Con il caveat
+che in chamacoco il funzionamento del vocalismo è più complesso di quello
+dell’ayoreo e presenta maggiori eccezioni, entrambe le lingue sono accomunate
+dal fatto che una vocale tematica chiusa muta sistematicamente alla seconda e alla quinta persona.27
+(20) a. sapur (sapuru) ‘chiedere’: t-a-pur, a-pur, s-a-pur, oy-a-pur, y-a-pur, a-purlo, ots-a-pur; l-a-pur (NON-IND)
+b. chenshehe ‘togliere’: t-e-nshehe, e-nshehe, ch-e-nshehe, oy-e-nshehe, y-e-nshehe, e-nshehelo, och-e-nshehe; n-e-nshehe (NON-IND)
+c. sontew ‘trattenere’: t-o-ntew, o-ntew, s-o-ntew, oy-o-ntew, y-o-ntew, o-ntewlo, ots-o-ntew; n-o-ntew (NON-IND)
+d. chiita ‘servire bibite’: t-ii-ta, aa-ta, ch-ii-ta, oy-ii-ta, y-ii-ta, aa-tɨlo, och-ii-ta; d-ii-ta (NON-IND)
+e. chuuna ‘sentirsi’: tuk-uu-na, ee-na, ch-uu-na, oy-uu-na, y-uu-na, ee-nɨlo, och-uu-na; n-uu-na (NON-IND)
+f. tɨbich ‘gridare’: tɨk-ɨ-bich, e-bich, t-ɨ-bich, oy-ɨ-bich, y-ɨ-bich, e-bichlo, ot-ɨ-bich
+Con quest’ultimo esempio si intende mostrare due eccezioni alla seconda
+persona, che meriteranno un ulteriore approfondimento in futuro: come si vede
+26 In chamacoco è presente anche una vocale centrale alta [ɨ] (impiegata anche come vocale neutra, v. nota 5) che non si trova in ayoreo; non se ne hanno attestazioni neppure nello zamuco di Chomé. In chamacoco, a differenza dell’ayoreo, la lunghezza vocalica può avere valore distintivo; la quantità vocalica si mantiene inalterata in tutto il paradigma verbale e per il resto non ha in genere alcuna rilevanza nei mutamenti vocalici alla seconda e alla quinta persona.
+27 In chamacoco i possibili mutamenti di vocale alla seconda persona non si limitano a quelli accennati sopra; qui, con l’intento di sottolineare che tale comportamento è analogo a quello dei verbi dell’ayoreo, si segnalano i fenomeni riscontrati con più frequenza, che sono anche i più affini all’ayoreo.
+17
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL.8 2009
+in (21) i verbi iim e îya hanno forme di seconda persona irregolari in base a quanto detto finora.
+(21) a. iim (3SG ‘abbandonare’) ---> m-oym (2SG) b. îya (3SG ‘accompagnare’) ---> m-êya (2SG)
+Il mutamento della vocale è spiegabile con il fatto che la vocale tematica sia alta; si può supporre che m- sia un prefisso, tuttavia la seconda persona non dovrebbe averne. Si può trovare un argomento a sostegno osservando che in ayoreo la seconda persona ha il prefisso b-: per es. b-a-ga (2SG ‘cucire’), che diviene m- quando il verbo ha una radice nasalizzata (proprio come nei verbi in (21)): per es. m-a-côra (2SG ‘cadere’). Quindi m- potrebbe essere effettivamente analizzabile come un antico prefisso di seconda persona non più esistente in chamacoco e mantenutosi in poche eccezioni: non si tratta che di un’ipotesi, ma si deve aggiungere il fatto che in chamacoco vi sono anche altri verbi, tra quali ad esempio ii (3SG ‘andare in cerca’) che presentano forme come b-ey (2SG ‘andare in cerca’), che sono sì eccezioni, ma proprio per questo possono trovare una loro spiegazione in diacronia.
+6 Bibliografia essenziale
+BALDUS Herbert 1932. Beiträge zur Sprachenkunde der Samuko-Gruppe. Anthropos 27. 361-416.
+BERTINETTO Pier Marco 2009. Ayoreo (Zamuco). A grammatical sketch. Quaderni del Laboratorio di Linguistica della Scuola Normale Superiore 8 n.s.
+BERTINETTO Pier Marco, Luca CIUCCI & Gabriella Enrica PIA (in stampa). Inquadramento storico, etnografico e linguistico degli Ayoreo del Chaco. In corso di stampa in una miscellanea in memoria di Edoardo Vineis.
+BOGGIANI Guido 1894. I Ciamacoco. Conferenza tenuta in Roma alla Società Geografica Italiana il giorno 2 giugno 1894 ed in Firenze alla Società Antropologica il 24 dello stesso mese. Roma: Società Romana per l’Antropologia.
+CHOMÉ P. Ignacio 1958 [1745 ca.]. Arte de la lengua Zamuca. Présentation de Suzanne Lussagnet. Journal de la Société des Américanistes de Paris 47.
+18
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL.8 2009
+121-178. CIUCCI Luca 2007/08. Indagini sulla morfologia verbale nella lingua ayoreo.
+Quaderni del Laboratorio di Linguistica della Scuola Normale Superiore 7 n.s. CREVELS, Mily & Wilhelm F. H. ADELAAR 2000/06. South America. UNESCO Red Book of Endangered Languages. University of Tokyo. On- line version available at: <http://www.tooyoo.l.u-tokyo.ac.jp/archive/RedBook/SAmerica/SA_index.cgi> CREVELS Mily & Pieter MUYSKEN 2005. Inclusive-exclusive distinctions in the languages of central-western South America. In Filimonova 2005. 313-339. FABRE Alain 2005. Diccionario etnolingüístico y guía bibliográfica de los pueblos indígenas sudamericanos. Edición electrónica. Online. URL: <http://butler.cc.tut.fi/~fabre/BookInternetVersio/Alkusivu.html> FILIMONOVA Elena (ed.) 2005. Clusivity. Typology and case studies of the inclusive-exclusive distinction. Amsterdam/Philadelphia: John Benjamins Publishing Company. HIGHAM Alice, Maxine MORARIE & Greta PAUL 2000. Ayoré-English dictionary, 3 tomos. Sanford, FL.: New Tribes Mission. SEQUERA Guillermo 2009. Yxyr poruwo awóso jewo 1.000. Conjugación de 1.000 verbos en ocho tiempos ybytóso. Asunción: Centro de Estudios Antropológicos de la Universidad Católica de Asunción (CEADUC). Biblioteca Paraguaya de Antropología 69. SUŠNIK Branislava J. 1957. Estructura de la lengua chamacoco-ebitoso (con fraseario del dialecto Ebitoso). Boletín de la Sociedad Científica del Paraguay y del Museo Andrés Barbero, Etnolingüística I. ULRICH Matthew & Rosemary ULRICH 2000. Diccionario ɨshɨro (chamacoco) - español, español - ɨshɨro (chamacoco). Asunción: Misión a Nuevas Tribus.
+19
+
+

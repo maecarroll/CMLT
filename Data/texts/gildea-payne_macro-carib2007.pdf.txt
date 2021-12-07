@@ -1,0 +1,3732 @@
+Bol. Mus. Para. Emílio Goeldi. Ciências Humanas, Belém, v. 2, n. 2, p. 19-72, mai-ago. 2007
+Is Greenberg’s “Macro-Carib” viable? É viável a hipótese “Macro-Carib” de Greenberg?
+Spike GildeaI Doris PayneII
+Abstract: In his landmark work Language in the Americas, Greenberg (1987) proposed that Macro-Carib was one of the major low-level stocks of South America, which together with Macro-Panoan and Macro-Ge-Bororo were claimed to comprise the putative Ge-Pano-Carib Phylum. His Macro-Carib includes the isolates Andoke and Kukura, and the Witotoan, PebaYaguan, and Cariban families. Greenberg’s primary evidence came from person-marking paradigms in individual languages, plus scattered words from individual languages collected into 79 Macro-Carib ‘etymologies’ and another 64 Amerind ‘etymologies’. The goal of this paper is to re-evaluate Greenberg’s Macro-Carib claim in the light of the much more extensive and reliable language data that has become available largely since 1987. Based on full person-marking paradigms for Proto-Cariban, Yagua, Bora and Andoke, we conclude that Greenberg’s morphological claims are unfounded. For our lexical comparison, we created lexical lists for Proto-Cariban, Proto-Witotoan, Yagua and Andoke, for both Greenberg’s 143 putative etymologies and for the Swadesh 100 list. From both lists, a total of 23 potential cognates were found, but no consonantal correspondences were repeated even once. We conclude that our greatly expanded and improved database does not provide sufficient evidence to convince the skeptic that the Macro-Carib hypothesis is viable.
+Keywords: Greenberg. Long-range linguistics relationship. Cariban. Bora-Witotoan. Andoke. Peba-Yaguan. Resumo: No seu trabalho referencial Language in the Americas, Greenberg (1987) propôs que Macro-Carib seria um dos troncos
+lingüísticos importantes da América do Sul, o qual combinaria com os troncos Macro-Pano e Macro-Ge-Bororo para formar o suposto filo Ge-Pano-Carib. Seu Macro-Carib inclui as línguas isoladas Andoke e Kukura e as famílias Witoto, Peba-Yagua e Caribe. A principal evidência de Greenberg veio de paradigmas de marcação de pessoa em línguas individuais e também de palavras de línguas individuais coletadas em 79 ‘etimologias’ de Macro-Carib, e mais 64 ‘etimologias’ de Ameríndio. A meta deste artigo é reavaliar a proposta Macro-Carib de Greenberg à luz dos dados lingüísticos mais extensivos e confiáveis que se tornaram disponíveis em grande parte a partir de 1987. Baseados em paradigmas pessoais completos de Proto-Caribe, Yagua, Bora e Andoke, concluímos que as afirmações de Greenberg sobre morfologia não podem ser sustentadas. Para nossa comparação lexical, criamos listas lexicais para Proto-Caribe, Proto-Witoto, Yagua e Andoke, tanto para as 143 etimologias criadas por Greenberg quanto para a lista de 100 palavras de Swadesh. No total, encontramos 23 cognatos potenciais das duas listas. Contudo, nenhuma correspondência consonantal foi repetida. Concluímos que nosso banco de dados expandido e aperfeiçoado não fornece evidência suficiente para convencer o cético de que a hipótese Macro-Carib seja viável. Palavras-chave: Greenberg. Parentesco lingüístico remoto. Família Karib. Bora-Witotoan. Andoke. Peba-Yagua.
+I University of Oregon. Department of Linguistics. Eugene, Oregon, USA (spike@uoregon.edu). II University of Oregon. Department of Linguistics. Eugene, Oregon, USA and SIL International (dlpayne@uoregon.edu).
+19
+
+Is Greenberg’s “Macro-Carib” viable?
+INTRODUCTION
+In his landmark work Language in the Americas, Greenberg (1987) proposed that Macro-Carib was one of the major low-level stocks of South America, which together with Macro-Panoan and Macro-Ge-Bororo were claimed to comprise the putative Ge-Pano-Carib Phylum.1 His Macro-Carib includes the isolates Andoke and Kukura, and the Witotoan, Peba-Yaguan, and Cariban families. The conclusions in Greenberg (1987) have been roundly criticized, by some for perceived methodological shortcomings (Campbell, 1988; Goddard, 1990; Matisoff, 1990; Rankin, 1992; Dixon, 1997), by others for the poor quality of the data on which he based his claims (to Campbell, Goddard and Rankin, add Chafe, 1987; Adelaar, 1989; Berman, 1992; Kimball, 1992). Greenberg’s defenses have been largely methodological (Greenberg, 1989) and theoretical (Greenberg, 2000).
+The goal of this paper is to re-evaluate Greenberg’s Macro-Carib claim in the light of fresh data that has become available largely since 1987. We take seriously Rankin’s (1992, p. 329-30) suggestion, that the search for putative grammatical and lexical correspondences should be conducted by individuals with specialized knowledge in at least one of the languages (or families) in question. Payne has substantial field experience with both Yagua (Peba-Yaguan) and Panare (Cariban), as well as some familiarity with the recent Witotoan primary literature; Gildea is a specialist in the Cariban language family, having conducted field work with 15 Cariban languages and having published comparative work since 1993. We agree completely with Greenberg (1987, p. X): “All sources are imperfect. It is simply that some are more imperfect than others.” In this paper, we offer sources that are orders of magnitude less imperfect than those that were available to Greenberg when he formed his hypotheses. In the next section, we turn to a brief review of the materials that allow us to claim this empirical advantage.
+OUR DATABASE
+In re-evaluating his hypothesis, we review not only the forms Greenberg presents in his 1987 work, but the sources indicated below. In two instances we rely on data from single languages (Andoke, Yagua), but for terminological ease we will frequently refer to four families (Andoke, Peba-Yaguan, Witotoan, Cariban). We do not consider Kukura at all, thanks to Nimuendajú’s (1932) revelation it this is not a real language. Nimuendajú found no indication of the (current or prior) existence of such a group in his trips to the area, and argues that the explorer who collected the original ‘Kukura’ list was deceived and that his word list actually contained 15 items of badly pronounced (‘ausgesprochenem’) Guarani, one item that was the Ofayé word for ‘black’, and the rest were made-up ‘phantasierte’. Witotoan: There are six known Witotoan languages, located primarily in southern Colombia and Northern Peru between
+the Putumayo and Caquetá Rivers, though some small family groups have apparently recently migrated into Brazil. Aschmann (1993) reconstructs Proto-Witotoan (PW), observing that the two sub-branches Bora-Muinane (BM) and Huitoto-Ocaina (HO) each reconstruct conclusively, and that while less robust, Proto-Witotoan reconstructs
+1 While it is not the purpose of this paper to evaluate more than the Macro-Carib hypothesis, we wish to clarify that we do not subscribe to Greenberg’s ‘Ge-Pano-Carib’ hypothesis. To date, no solid research suggests that Panoan (or the Tacanan family, which does reconstruct with Panoan into Proto-Pano-Tacanan) has an affiliation with Ge, Cariban, Peba-Yaguan, Andoke, or Witotoan languages. Indeed, the hypothesis that Cariban, Tupian, and Jê languages might form a phylum is more promising (Rodrigues, 1985; Salzano et al., 2005).
+20
+
+Bol. Mus. Para. Emílio Goeldi. Ciências Humanas, Belém, v. 2, n. 2, p. 19-72, mai-ago. 2007
+“to the author’s satisfaction in spite of the lower demonstrated cognate count” (Aschmann, 1993, p. 2). We have also consulted Thiesen and Weber (to appear), Thiesen and Thiesen (1998), Burtch (1983), and Leach (1969). Andoke: Andoke is located on the Aduche River, a tributary of Caquetá in Colombia. In 1908 there were some 10,000 Andoke (Landaburu, 1979), but the group currently numbers around 600 with only 50 monolinguals. Despite some earlier claims that Andoke was Witotoan, Aschmann (1993) considers it an isolate. Data for this study come from Landaburu (1979, 1992), Landaburu and Pineda (1984), and personal communication with Jon Landaburu. Peba-Yaguan: Yagua is the only Peba-Yaguan language which has received substantive documentation. Today there are some 3,000 to 4,000 Yagua speakers scattered in small settlements mostly along affluents of the lower Napo, upper Amazon, and Yavarí Rivers. Rivet (1911a, b) found short word lists for Peba (now extinct) and Yagua; and for Yameo (also extinct) some short religious texts dating from the 1600s. From these materials he compiled a Peba-Yagua word list and some grammatical morphemes clearly linking the three languages, but the data are highly incomplete, and a serious attempt at reconstructing Proto-Peba-Yaguan has not yet been undertaken.2 For this study we rely on Yagua data from Powlison (1995), Payne and Payne (1990), and Thomas Payne and Doris Payne’s field notes. Cariban: Geographically, Cariban languages are found mostly north of the Amazon River, from just west of Maracaibo to the eastern Guianas. Additionally, a few Cariban groups are found well south of the Amazon in the Xingu region, and one cluster of dialects was once spoken in southeastern Colombia on the Upper Vaupés, Yarí, and lower Caquetá Rivers; moribund Karihona is still found in this region. However, migration of Cariban groups to southeastern Colombia must have occurred within the last 500 years, as Karihona appears to be very closely related to Tiriyo (Meira, 2000a, p. 20). Data on Cariban are far more extensive than on the other language families: in addition to more articles and grammars than we can list here, we have the benefit of a rich history of comparative work, especially Girard (1971); Mattéi Muller and Henley (1990); Mattéi Muller (1994, 2002); Gildea (1998, 2003); Meira (2000a-b, 2002); Meira and Franchetto (2005); Meira, Gildea and Hoff (to appear). Additionally, we were able to utilize an exciting new tool, Sérgio Meira’s computerized Cariban Toolbox databases (Meira, 2006), which enabled us to generate a number of new Proto-Cariban reconstructions to use as comparanda. In contrast to such sources, Greenberg appears to have relied primarily on older, less-reliable wordlists that were the basis for the deeply flawed Cariban reconstructions in the Goeje (1946)3 and Durbin and Seijas (1973),4 or fragmentary materials such as those gathered by Rivet (1911a, b).
+2 Peba and Yameo materials are extremely limited, impeding serious comparative work. 3 Cf. Girard (1971) for a scathing review of all earlier comparative work on Cariban, and of many of the older sources; we endorse
+the intellectual content of these criticisms. 4 The body of Durbin’s comparative Cariban work is hopelessly flawed, cf. Gildea (1998, p. 7), Meira (2000a, p. 10), and the sources cited
+therein. Durbin and Seijas (1973) ostensibly reconstruct phonology and some lexical items to “Proto-Hianocoto”, but as Meira (2000a, p. 15) points out, the various “language” names that are compared are attested as Karihona clan names. The apparent divergence of these “languages” indicates the weakness of the transcriptions by the sources, and the 1973 “reconstructions” should be set aside in favor of the more reliable synthesis of modern and older Karihona data offered in Meira (2000a).
+21
+
+Is Greenberg’s “Macro-Carib” viable?
+
+THE PHONOLOGICAL SYSTEMS
+Tables 1 and 2 present the distinctive consonant and vowel segments in the four groups. Cariban and Witotoan segments are based on reconstructed proto-languages. Peba-Yaguan is based on a single modern representative of the family, Yagua, and the isolate Andoke is also based on modern data.
+
+Table 1. Consonant inventories in all four groups. Proto-Cariban (Meira & Franchetto, 2005)
+
+*p
+
+*t
+
+*k
+
+*m
+
+*n
+
+*w
+
+*r
+
+*j
+
+Yagua (Payne & Payne, 1990)
+
+p
+
+t
+
+k
+
+s
+
+ʧ
+
+m/mb
+
+n/nd
+
+w
+
+r
+
+j
+
+Proto-Witotoan (Aschmann, 1993)
+
+*p
+
+*t
+
+*k
+
+*ʔ
+
+*ʔp
+
+*ʔt
+
+*ʔk
+
+*ʔx
+
+*b
+
+*d(r)
+
+*dz
+
+*g
+
+*β
+
+*x
+
+*m
+
+*n
+
+Andoke (Landaburu, 1979)
+
+p
+
+t
+
+k
+
+ɸ
+
+s
+
+h
+
+m/b
+
+n/d
+
+ɲ
+
+h
+
+r
+
+ʒ
+
+Table 2. Vowel inventories in all four groups. Proto-Cariban (Meira & Franchetto, 2005)
+
+*i
+
+*ɨ
+
+*u
+
+*e
+
+*ô
+
+*o
+
+*a no distinctive length, tone, nasality, or glottalization
+
+Yagua (Payne & Payne, 1990)
+
+i
+
+ɨ
+
+u
+
+e
+
+o
+
+a
+
+distinctive length, tone, nasality no distinctive glottalization
+
+Proto-Witotoan (Aschmann, 1993)
+
+*i
+
+*ï
+
+*e
+
+*a
+
+*o
+
+distinctive tone, nasality
+
+Andoke (Landaburu, 1979)
+
+i/ĩ
+
+ɨ
+
+u
+
+e/ẽ
+
+ə/ǝ̃
+
+o/õ
+
+a/ã
+
+ʌ
+
+ɒ
+
+distinctive tone (H/L), glottalization
+
+no distinctive length
+
+9 oral vowels, 5 nasal vowels
+
+In a first inspection, the systems are not obviously similar in degree of elaboration. Consonants vary from 8 distinctive consonants in Proto-Cariban (PC) to 16 in Proto-Witotoan (PW). Vowels and syllable features are dramatically more differentiated, with only 7 vowels in PC, 5 in PW but with distinctive tone and nasality, 9 oral and 5 nasal vowels in Andoke but with distinctive tone and glottalization, and 6 in Yagua but with distinctive tone, nasality, and length. Note also the parallel allophonic alternation of nasals with voiced or orally-released nasal stops in Andoke and Yagua (both due to denasalization before oral vowels), rampant palatalization in Yagua and Bora-Witotan (and in individual Cariban languages, undone in the
+
+22
+
+Bol. Mus. Para. Emílio Goeldi. Ciências Humanas, Belém, v. 2, n. 2, p. 19-72, mai-ago. 2007
+reconstructions we consider here), and the possible areal features in Witotoan, Yagua and Andoke of both tone and nasalization in vowels.5
+Until such time as regular correspondences can be established, the recognition of superficial resemblances (potential cognates) will have to allow similar segments rather than requiring segmental identity (but see Rankin (1992) for an especially cogent discussion of the risks of this procedure). If in fact these four groups all descend from a single common ancestor, we will need to understand the specific mechanisms by which so many segmental and suprasegmental distinctions have been created or lost. Along with an understanding of these mechanisms will come the ability to better recognize cognates whose similarity has potentially been obscured by the many sound changes.
+In the remainder of this paper, we compare modern grammatical and lexical information, based on our new compilations of data, including modern additions to Greenberg’s etymologies and the Swadesh 100 basic word list. We hope to reduce the possibility of encountering chance resemblances in the lexicon by eliminating comparison of individual languages in the Cariban and Witotoan families, where we utilize reconstructed forms as the comparanda. We similarly restrict ourselves to reconstructed Proto-Cariban grammar; since there is no comparable reconstruction for Witotoan, we utilize Thiesen and Weber (to appear) comprehensive grammar of modern Bora. At each stage, we sift through the possible cognates and correspondences and offer our assessment of the likelihood that any of them provide a good match. We pay special attention to the grammatical correspondence that Greenberg (1987) and Rankin (1992) both consider among the most important for demonstrating the genetic unity of the putative Ge-Pano-Carib grouping — the prefix paradigm of i- ‘1’, a- ‘2’, and iʔ- ‘3’. Of course, an absence of positive evidence will not ‘disprove’ Greenberg’s hypothesis (cf. Greenberg, 2000), any more than Greenberg’s discovery of a few resemblances has ‘proven’ it. But regardless, we hope that other comparativists will be able to put the data we compile to profitable future use, as well.
+We have to confess that despite our continued skepticism of the Macro-Carib hypothesis, and our tepid view of the strength of any cognates or series of correspondences surfacing in our new data, the question does not seem entirely closed. That is, there appear to be some (tenuous) hints of some repeated patterns in the data, at least some of which may merit additional investigation.
+THE GRAMMATICAL EVIDENCE
+Most studies that discuss the kind of evidence necessary to demonstrate genetic relationship focus on the importance of idiosyncratic grammatical behavior of the sort that is unlikely to be borrowed, and that hence can be taken as evidence for shared retention from a shared proto-language. The importance of such evidence is one point on which Greenberg and his detractors agree, cf. Greenberg (1957, p. 37-8; 1987, p. 30; 1989, p. 108-9); Campbell (1988, 2003, p. 268-70); Rankin (1992); Dixon (1997, p. 22). After a quick initial survey of typological features in the grammar of all four groups, we review the status in Macro-Carib of the idiosyncratic personal prefix sets utilized by Greenberg (1987, p. 45ff) to argue for (among other units) the existence of the Ge-Pano-Carib macro-phylum, and then we examine some other domains in which idiosyncratic grammar might be used to link the four groups together. In all these domains, we find no evidence in favor of the Macro-Carib construct.
+5 Dixon (1997, p. 16) reports that tones are among the easiest phenomena to diffuse through contact; Dixon and Aikhenvald (1999, p. 8) consider the presence of /ɨ/ and nasality in vowels to be phonological features of an Amazonian linguistic area. See Payne (2001) for comments on the preliminary nature of these claims.
+23
+
+Is Greenberg’s “Macro-Carib” viable?
+
+All four groups present several features frequent in the Amazonian region: they are polysynthetic, mostly head-marking, and the same pronominal forms that mark the possessor on nouns are also found as one of the bound or cliticized pronominal paradigms marking core arguments of clauses. They also have the order Genitive-Noun, and all have postpositions as well. All four groups use nominalization as a major strategy for creating subordinate clauses, and in at least Bora of the Witotoan family, this appears to be essentially the only strategy (Thiesen and Weber, to appear). Aside from these potential areal tendencies, we see fewer matches: main clause alignment systems are nominative-accusative (Andoke, Witotoan, Yagua) and Inverse (Proto-Cariban), with minor patterns of split intransitivity in Cariban and Yagua (T. Payne, 1987). Though all four groups use nominalization for subordination, they do not show the same patterns of argument marking in nominalized subordinate clauses: Cariban treats the S and O as possessor of the nominalized verb (hence, an absolutive patterning); but Andoke, Bora and Yagua remain thoroughly nominative-accusative in their treatment of arguments within nominalized subordinate clauses; this is because their possessive forms are identical to those of the nominative pronominal forms in main clauses (Tables 3 and 4).
+Leaving out the Cariban family, the other three groups show well-developed grammatical noun classification systems, each with a large set of classifying morphemes that almost certainly derive from noun roots; these systems are discussed for Yagua in Payne (1986, 1987), and in Seifart (2005) for Miraña (Witotoan). Payne (1987) also makes a cogent argument for such classifier systems as a feature of a northwest Amazon linguistic area (also Aikhenvald, 2001, p. 168; and Seifart and Payne, 2007). There is a large, productive class of lexical numbers in Yagua and Witotoan, whereas Cariban has only a few.
+
+PERSON-MARKING ON NOUNS AND VERBS
+Dixon (1997, p. 22) suggests that complete personal paradigms (free pronominal or affixal) can provide among the “surest indicators of a genetic relationship.” We begin with the exposition and consideration of our data, followed by a discussion of Greenberg’s claims. The full array of person markers in all four groups is laid out in Tables 3, 4 and 5: Table 3 displays the possessive forms, Table 4 the intransitive subject forms (which are also the transitive subject forms in Yagua, Andoke and Bora), and Table 5 shows the unique person-markers reconstructed for transitive verbs in the Cariban family. We include certain forms in Andoke and Bora that double as classifiers and as (parts of) argument markers.
+
+Table 3. Possessive prefix sets. Person 1 1DL 1PL 1+2 2 2DL 2PL 3
+3DL 3PL COREF
+
+PC *u=j-
+*kɨ*ô=j
+*i-
+*tɨ-
+
+Andoke o-/noka-/naha-/hẽkə̃-/nikə-̃ ʌ-, ó-, o-/ya-, ni-/õ
+ə̃-/kə-̃
+
+Bora tha(ʔ)=
+mɛ(ʔ)= ti(ʔ)=
+-ːpɛ/-tʂɛ -mɯ ‘whom’
+i(ʔ)=
+
+Yagua raj= náa̰ j̰́ = nṵ́uj̰́ = wuṵ ̰j= hij= sá̰ań̰ da= hirjej= sa=/ra=
+naa̰ ̰nda= rij= híj=
+
+24
+
+Bol. Mus. Para. Emílio Goeldi. Ciências Humanas, Belém, v. 2, n. 2, p. 19-72, mai-ago. 2007
+
+In considering the forms in Table 3, there are almost no candidates for even superficial resemblance, except that PC
+*u=j- ‘1’ and Andoke o- ‘1’ both involve back rounded vowels; the PC *kɨ- ‘1+2’ and the Andoke ka- ‘1+2’ both involve a voiceless velar stop; the PC *i- ‘3’, Bora i(ʔ)- ‘Coref’, and Yagua hiy- ‘Coref’ all involve the high front vowel.
+In Tables 3 and 4, the Andoke and Bora third person forms also have classifying functions. In Bora certain classifiers
+are used on verbs for topical (continuous) third person subjects (Thiesen and Weber, p. 200): -ːpɛ ‘3SgM’, -tsɛ̀ ‘3SgF’, -tshi ‘M’, -phɨ ‘F’, - ̀mɛ ‘AnPl’, -tsʰɨ ‘child’, -nɛ̀ ‘Inanimate general’. Andoke classificatory argument markers are ʌ- ‘Inan. nature’, ó- ‘Inan.goods’, o-/ya- ‘Masc’, ni-/õ- ‘Fem’. Interestingly, -mɯ́ -tshi/-mɯ́-phɨ show up as part of 1DL free pronouns, but also as suffix complexes on verbs for 3DL continuous/topical subjects.
+
+Table 4. S-marking in all four groups (affix and clitic forms).
+
+Person
+
+PC
+
+Andoke
+
+SA
+
+So
+
+1
+
+*wɨ-
+
+*u=j-
+
+1DL
+
+S o-/no-
+
+1PL
+
+1+2
+
+*kɨt-
+
+*kɨ-
+
+2
+
+*mɨ-
+
+*ô=j-
+
+2DL
+
+ka-/naha-/he-̃
+
+2PL
+
+kə-̃ /nikə̃-
+
+3
+
+*nɨ-
+
+*n-i-
+
+ʌ-, ó-, o-/ya-, ni-/õ-
+
+3DL
+
+3PL COREF
+
+ə̃-/kə-̃
+
+Bora S o=
+mɛ=/ma= mɛ=/mamɛ=/ma=
+ɯ= mɛ=/ma= mɛ=/ma=
+-ːpɛ/-tʂɛ
+- ̀mɛ i=
+
+Yagua
+
+SA raj=
+
+So =raj
+
+ná̰á̰j=
+
+naa̰ ̰j
+
+nuṵ́ j̰́ =
+
+nuṵ j̰
+
+wuṵ ̰j=
+
+=wṵṵj
+
+hij= saá̰ ́n̰ da=
+
+=hij sá̰án̰ da
+
+hirjej=
+
+hirjej
+
+sa=/ra= naa̰ n̰ da=
+
+=níí/=rà na̰an̰ da
+
+rij=
+
+=rij
+
+híj=
+
+=jù
+
+Considered comparatively, the forms in Table 4 are largely the same as in Table 3, except that Bora has a different set of first and second person markers, and both Proto-Cariban and Yagua present extra forms due to the split in intransitive clause marking. Here we see four first-person markers with surface similarities across the groups: PC *u=j- ‘1SO’ and Andoke o- ‘1S’ are joined by PC *wɨ- ‘1SA’ and Bora o- ‘1S’; PC *kɨ- ‘1+2SO’ and Andoke ka- 1PLS/A remain as in Table 3.
+
+Table 5. (Pre-) Proto-Cariban personal prefixes in transitive clauses.
+
+1A-3O *t-i-
+
+(3A)1Oa *u=j-
+
+2A-3O *m-i-
+
+(3A)2O *ô=j-
+
+1+2A-3O *kɨt-i-
+
+(3A)1+2O *k-
+
+3A3O *n=i-
+
+1A2O/2A1O *k-
+
+a It is unclear whether the (3A) meaning is part of the meaning of the clitics (given that the same forms occur on intransitive verbs, nouns and postpositions) or is simply implied when the prefix occurs on a transitive verb.
+
+The additional PC form added in Table 5 does not yield any additional superficial similarities. Superficial inspection of these Tables leads to the clear conclusion that they provide no evidence for any particular relationship amongst
+
+25
+
+Is Greenberg’s “Macro-Carib” viable?
+these language groups. The specific Ge-Pano-Carib correspondence proposed by Greenberg (1987, p. 45ff, 274, 277, 279) — i- ‘1’, a- ‘2’ and i- ‘3’ (with this latter form showing evidence of a consonant between the prefix and the root) — is simply not attested in our data.
+Greenberg’s evidence for reconstructing the putative Macro-Carib first-person *i- is limited to the palatalizing effect of the first-person forms ta- (Muinane, BM) and ra- (Yagua — the form is raj-, see Tables 3 and 4), plus the undocumented assertion (p. 274) that “In the Carib languages generally, i- is the first person singular possessive, the subject of intransitive verbs, and the object of verb forms in which a third person acts on the first person.” The Yagua form explicitly does end with j- in Payne and Payne’s and Powlison’s Yagua data, but for Cariban Greenberg has apparently mistaken the *j- ‘relational’ prefix that follows the *u- first person prefix (and which occurs in a number of other locations, cf. below) as part of the general Cariban first-person morpheme. While Thiesen and Weber (to appear, p. 209) give ta as the 1st person singular possessive pronoun for Bora (BM), their data show that it has a palatalizing effect on at least some subsequent bound morphemes. For the closely-related dialect Miraña, Seifart (2005, p. 52) gives taj as the 1st singular possessive form.6
+Greenberg (1987, p. 278) already acknowledges that the second person a- is limited to the Cariban family, and in fact, a reasonably large number of modern Cariban languages do present second person forms in a- (enough that Gildea (1998) actually reconstructs *a- ‘2’ to Proto-Cariban). However, Meira and Franchetto (2005) demonstrate the need to reconstruct a vowel *ô(most likely representing an unrounded mid vowel, either [ə] or [ʌ]), which Gildea (1998) did not have available in the phonemic inventory he inherited from Girard (1971). Meira, Gildea and Hoff (to appear) point out that the correspondence pattern for the second-person prefix is more consistent with correspondences adduced by Meira and Franchetto in support of this new vowel, and thus they change the reconstruction to *ô- ‘2’, with a- ‘2’ being a later development in a small subset of the languages.
+While Greenberg (1987, p. 46) explicitly asserts the existence of “the i-/a-/i- pattern” in Macro-Carib, he provides evidence of the third-person forms in only one language, Pemón: i-paruči ‘his sister’, i-t-enna ‘his hand’. He goes on to speculate that the origin of the form *it- ‘3’, which precedes vowels, is as a remnant of a much older alternation of third person *i- before consonants and *t- before vowels, with a later reanalysis of the t- as part of the stems, to be followed by analogical extension of the i- to the t- forms. This is certainly a coherent story, and it appears to gather strength when a parallel pattern is asserted for languages in Bolivia, Central America and North America; however, it is not consistent with the comparative evidence internal to the Cariban family. First, an ablaut pattern inherited across the family indicates that the third person form *i- (with no intervening element) was already in place preceding vowels by the time of Pre-ProtoCarib (Meira, Gildea and Hoff, to appear). The ablaut pattern generated by *i- ‘3’ on vowel-initial stems occurs in nouns, verbs and postpositions, in a geographically and genetically diverse representation of the family. In contrast, the *it- prefix is found only on vowel-initial possessed nouns, and this only in languages within the immediate environs of Venezuela. Gildea (2003) takes the limited geographical and morphological distribution of this form as evidence for its innovative status, listing this as an innovation common to his proposed Venezuelan Branch of the family.
+The reconstruction of the i- ‘1’, a- ‘2’ and i- ‘3’ person paradigm was so important to Greenberg’s classification that he presented it in a privileged position in Chapter 2, and reprised it in Chapter 5; and in his otherwise uniformly
+6 Thiesen and Weber (to appear) claim that Bora ta(ʔ) palatalizes the following consonants only in some morphemes; consonants are also often palatalized after /i/. Thus, it should be noted that Bora 2nd person tiʔ and 3rd person iʔ have palatalizing effects on certain following morphemes; examples (5) and (6).
+26
+
+Bol. Mus. Para. Emílio Goeldi. Ciências Humanas, Belém, v. 2, n. 2, p. 19-72, mai-ago. 2007
+
+negative review of Greenberg’s grammatical evidence, Rankin (1992, p. 340-1) suggested that this correspondence deserved further investigation. But as we have just seen, it turns out that modern data not only fail to reveal similarities between the four groups of the putative Macro-Carib stock, but they also fail to sustain what once appeared to be among the strongest evidence for the putative Ge-Pano-Carib grouping.
+OTHER IDIOSYNCRATIC GRAMMATICAL FEATURES
+Given the generally accepted importance of idiosyncracies to demonstrating genetic relationship, we now consider some typologically idiosyncratic grammatical features from Cariban, Peba-Yaguan, and Witotoan that might be useful heuristics for probing distant genetic relationship. As it turns out, none of these features are common to the four groups of the putative Macro-Carib stock, but we include the information in order to facilitate future comparative research for anyone who seeks to demonstrate genetic connections with these languages.
+The first is the Cariban ‘Relational’ prefix, which occurs on vowel-initial roots. It is seen in the Proto-Cariban prefix sets as the *j- following the first and second person possessive, SO and O prefixes. The Relational prefix also occurs between two words in certain tight two-word constituents, marking a vowel-initial second element (which is also the head) in possessor-possessed, object-verb, and object-postposition sequences (Gildea, 1998, p. 85, 113, for data from many Cariban languages). Etymologically, the first and second-person markers in Cariban come from free pronouns,7 hence the relational prefix occurs only with these two persons and with free NP dependents, but not with the other person-markers. In essence, the relational prefix apparently only shows that the preceding noun phrase is a governed complement. Thus, for example, if a NP preceding the possessed noun is not the possessor, the relational prefix does not occur, but instead, the personal possessive prefix does. As illustration, consider the following possessive examples from Hixkaryana (1a-c; Gildea’s field notes) and Panare (2a-c; Doris and Thomas Payne’s field notes). For Hixkaryana, the noun ohtʃe ‘medicine’ is possessed by the second person proclitic (1a), the third person free pronoun noro (1b), and the third person prefix (1c). Note the presence of the relational prefix in 1a-b, but not in 1c. For Panare, the noun əwa ‘nose’ is possessed by the second person proclitic (2a), the third person distal free pronoun kən (2b), and the third person prefix (2c). Again, the presence of the relational prefix is clear in (2a-b); the third person prefix, tj- (2c) appears as though it might contain the relational prefix as well, but this form is, in fact, a reflex of the Proto-Venezuelan *it- ‘3’ (reconstructed by Gildea, 2003, as discussed in ‘Person-marking on nouns and verbs’ – the same metathesis is found in several Venezuelan languages).
+
+(1) a. o=j-ohtʃe 2-REL-medicine ‘your medicine’
+
+b. noro j-ohtʃe
+
+3
+
+REL-medicine
+
+‘his/her medicine’
+
+c. Ø-ehtʃe 3-medicine ‘his/her medicine’
+
+(2) a. a=j-əwa-n 2-REL-nose-POSD ‘your nose’
+
+b. kən j-ə́wa-n
+
+3
+
+REL-nose-POSD
+
+‘his/her nose’
+
+c. tj-əwa-n 3-nose-POSD ‘someone’s nose’
+
+7 For the most recent reconstructions, see Meira, Gildea and Hoff (to appear).
+
+27
+
+Is Greenberg’s “Macro-Carib” viable?
+
+There is nothing similar to the Relational prefix in the Witototan, Andoke, or Peba-Yaguan languages. Compare the Yagua forms in (3) and (4), noting that no extra prefix occurs on ‘cloth’ in third person forms, whether or not an NP possessor immediately precedes it.
+Yagua does not allow vowel-initial word structures,8 but initial syllables beginning with h are ‘weak’ in the sense that the vowel of the syllable may be elided in fast speech (resulting in hC initial clusters), and an h onset to an initial short syllable is invariably deleted when a short-syllable clitic or prefix is added. Here we chose the closest structural examples possible to those in (1) to show that Yagua lacks a relator-type element between a possessor and following governing head.
+
+(3) a. rahjej raj-haj 1SG-cloth ‘my cloth’
+
+b. hihjej hij-haj 2SG-cloth ‘your cloth’
+
+c. Tomasa haj
+
+Tomasa haj
+
+Tom
+
+cloth
+
+‘Tom’s cloth’
+
+d. sahaj sa-haj 3SG.ANIM-cloth ‘his/her cloth’
+
+(4) a. sa-haj
+
+Tomasa
+
+3SG.ANIM-cloth Tom
+
+‘Tom’s cloth’
+
+Like Cariban, Bora shows tight constituency between an NP possessor and its following possessed head, demonstrated in the case of Bora by palatalization, resyllabification, vowel harmony, and tone processes. But there is nothing resembling the relational prefix intervening between a possessor and the possessed noun specifically for first or second person (5a-b) and (6a) as opposed to bound third persons (5c); or between free NP possessors and their following heads (6b-c):9
+
+(5) a. tʰaʔhja tʰaʔ=hà my=house ‘my house’
+
+b. tihja ti=hà 2-house ‘your house’
+
+c. ìʔhja ìʔ=hà̹ 3=house ‘his/their/self’s house’
+
+(6) a. tʰa=́ oːʔí-ːpj̘ ʰɛ̀ 1SG=dog-SgM ‘my dog’
+
+b. áːnɯ́
+
+oːʔí-ːpj̘ ʰɛ̀
+
+his.PROX
+
+dog-SgM
+
+‘his (proximate possessor) dog’
+
+c. tíːp̘ɛ́ his ‘his dog’
+
+oːʔí-ːpj̘ ʰɛ̀ dog-SG.M
+
+8 In Powlison’s (1995) 600-page Yagua-Spanish dictionary, the only vowel-initial Yagua word is the interjection ṵhṵ́. 9 Thus, though a palatalization effect is evident for first person in Yagua (3a), there is no evidence of a morphologically distinct palatalizing
+element for only first and second person in Bora (5a) or with certain other consonant-initial nouns. (See note 6 above regarding palatalization idiosyncracies in Bora).
+28
+
+Bol. Mus. Para. Emílio Goeldi. Ciências Humanas, Belém, v. 2, n. 2, p. 19-72, mai-ago. 2007
+
+The Relational prefix is typologically unusual, so any two languages with a potentially cognate relational prefix pattern would, more likely than not, be genetically related; but the pattern of using the relational prefix only for first and second person bound prefixal forms would make an even stronger case for genetic relationship. Rodrigues (1994) claims to have found such a pattern in the Cariban, Macro-Jê and Tupían families, and for Cariban languages, this exact pattern is confirmed with a reconstruction at the level of Proto-Cariban (see also Meira, Gildea and Hoff, to appear).10 But in the other putative Macro-Carib groups, there is no sign of anything like the Cariban Relational prefix. It does not escape our attention that in Yagua all but one 1st and 2nd person form end in /j/ (Tables 3 and 4). But an argument against analyzing this /j/ as a frozen remnant of a relational prefix is the fact that the pronominal enclitic forms (which double as free pronouns just with addition of stress) retain this same /j/ element – even when there is no following governing head.
+Three additional idiosyncracies present themselves from Cariban. First, there is a group of 10 to 15 reconstructible transitive verbs that require an idiosyncratic t- ‘3’ prefix in the imperative and when nominalized. We illustrate a few of the surprising cases of t- ‘3’ from Tiriyó in example (7), and in Table 6, we give a list of all the potentially reconstructible verbs that present this unusual prefixation (in any Cariban language).
+
+(7) Surprising cases of t- ‘3’ for Tiriyó [t]ənə ‘eat meat’ (Meira, 1999, p. 220).
+
+t-ənə-i_mə
+
+‘s/he would eat/have eaten (meat)’
+
+t-ənə-kə!
+
+‘eat it (meat)!’
+
+ootɨ ənə-kə!
+
+‘eat your meat food!’
+
+t-ənə-se_wae
+
+‘I want to eat it (meat)’
+
+j-otɨ ənə-se_wae
+
+‘I want to eat my meat food’
+
+Table 6. The Proto-Cariban t-adding transitive verbs. Reconstructible forms
+
+*[tɨ]wô *[t]ônô *[tɨ]pɨ *[tɨ]kapɨ *[tɨ]rɨ *[t]ok̂ u *[tɨ]kɨ *[tɨ]jô
+
+‘shoot, kill’ ‘eat meat’ ‘bathe O’ ‘weave’ ‘do, make’ ‘eat flour, bread’ ‘grate manioc’ ‘cook, boil’
+
+Weakly attested, potentially not reconstructible
+
+*[t]ôwɨ *[tɨ]papo *[tɨ]pôtɨ *[t]urô *[tɨ]ma *[tɨ]mɨ
+
+‘take/pull out/away’ ‘throw out’ ‘gather fruit’ ‘light fire’ ‘fell tree, farm’ ‘give’
+
+Second, a prefix w- occurs on selected nonfinite forms of a small subset of reconstructable intransitive roots and all detransitivized verb stems. We illustrate with the verb əturu ‘talk’ in Tiriyó: the finite forms in (8a) present no w-, whereas the nonfinite forms in (8b) present the w-. Like the Relational Prefix, this w- prefix remains robust in some
+
+10 Rodrigues uses the term ‘Relational prefix’ also for morphemes that we consider to be third person markers; our claims regarding typological uniqueness are limited to the forms described in this section.
+
+29
+
+Is Greenberg’s “Macro-Carib” viable?
+
+modern languages, but is lost altogether in others (although sometimes it is preserved in allomorphy in personal prefix paradigms). The range of nonfinite forms in which it occurs differs from language to language, but it is widespread enough in the family that it will certainly reconstruct with some important relationship to at least the verbs and prefixes given in Table 7.
+
+(8) The presence and absence of w- in Tiriyó (Meira, 1999, p. 323, 292, 246-7).
+
+a. Inflections without w-
+
+b. Inflections with w-
+
+əturu-kə
+
+‘talk!’
+
+ji-w-əturu-Ø
+
+‘my talking’
+
+t-əturu
+
+‘I talked’
+
+ji-w-əturu-to
+
+‘(for) my talking’
+
+m-əturu
+
+‘you talked’
+
+w-əturu-nə
+
+‘talking’
+
+k-əturu
+
+‘we (incl) talked’
+
+tɨ-w-əturə-en
+
+‘who will talk’
+
+n-əturu
+
+‘s/he talked’
+
+tɨ-w-əturə-e
+
+‘talked’
+
+Table 7. The Reconstructible Proto-Cariban w-adding intransitive morphemes. Brackets indicate phonological material found only in certain conjugations and/or only in certain languages.
+
+*[wɨ]tô[mo]̂ *[wɨ]ka[ti] *[w]eti
+
+‘go’ ‘say’ ‘dwell, be2’
+
+*[w]ot̂ epɨ *[w]om̂ o[̂ mɨ] *a[p]
+
+‘come1’ ‘enter’ ‘be1, say’
+
+*[w]e*[w]ôte*[w]ômôkɨ
+
+‘Reflexive’ ‘Reciprocal’ ‘come2’
+
+Third, an object-nominalizing prefix *n- occurs between the transitive verb root and the possessive person-marking prefixes, which, in this case, uniquely indicates A of the verb. We illustrate with Panare examples: in (9a), the second person prefix indicates the O of the nominalized verb; in (9b), the same prefix precedes n-, now refering to the A of the verb. This prefix is idiosyncratic in two ways: (i) all other nominalizers in the family are suffixes, and (ii) only in this nominalization does the notional A possess a derived noun. Gildea (1998, p. 128ff) reconstructs this form and function to Proto-Cariban; Gildea (1994) compares this idiosyncratic grammatical behavior with a parallel (and potentially cognate) form in the Tupi-Guaranian family.
+
+(9) a. a-j-ɨkɨtə-hpə 2-Rel-cut-Perfect.Inferential ‘your having been cut’
+
+a-n-ɨkɨtə-hpə 2-O.Nzr-cut-Perfect.Inferential ‘the one that you have cut’
+
+Again, none of these potential sources of shared idiosyncracy yield matches in the rest of the putative Macro-Carib grouping.
+The final arguably idiosyncratic piece of grammar we discuss here is the morphological complexity found in numerals in Witotoan and in Yagua: both present a vegisimal-decimal numeral system, in which noun classifiers are required to occur as affixes. In certain lower numerals, the classifiers look almost ‘infix-like’ because they are followed by a required number suffix. Further, both languages likely have (had) singulative, dual, and plural suffixes occurring as the final element of numbers for ‘one’, ‘two’, and ‘three’ (as well as in higher numerals, though the patterns of the number suffixes vary between the languages for the higher numerals; see Payne, 2007). In Yagua
+
+30
+
+Bol. Mus. Para. Emílio Goeldi. Ciências Humanas, Belém, v. 2, n. 2, p. 19-72, mai-ago. 2007
+
+(11a-c), the probable singular suffix is not productive and is attested only with the number ‘one’, particularly making the classifier look infix-like. Bora (10a-c) has a masculine-feminine distinction in animate classifier and number suffixes, which Yagua lacks.
+
+(10) Bora numerals ‘one’ through ‘three’ with selected classifiers (Thiesen and Weber, to appear).
+
+a. tsha-̀ nɛ̀
+
+tshaː̀ -phi -t̹sɛ̀
+
+one-CL.GENERAL
+
+one-CL.AN.SG-FEM.SG
+
+‘one item’ (class unspecified)
+
+‘one feminine animate item’
+
+b. mì-ɲɛ-́ ːkhɯ̀ɯ two-CL.GENERAL-DL.INAN ‘two items’
+
+míː-t̹hɛ-́ phɨ̀ɨ́ two-CL.AN.PL-DL.FEM ‘two feminine animate items’
+
+c. phá-phìʔt̹shɯ́ː-nɛ-̀ βa all-piled.up-CL.GEN-PL.QNT ‘three items’
+
+phá-phìʔts̹ hɯ́ː-mɛ̀-βà all-piled.up-CL.AN-PL.QNT ‘three feminine animate items’
+
+(11) Yagua numerals ‘one’ through ‘three’ with selected classifiers.
+
+a. ta-ra-kɨɨ
+
+t-ḭ-kii
+
+one-CL.GEN-SG(?)
+
+one-CL.ANIM-SG(?)
+
+‘one item’ (class unspecified)
+
+‘one animate item’
+
+b. na̰-́ ra-hṵ́y two-CL.GEN-DL ‘two items’
+
+na̰-́ nṵ-hṵ́y/ndá-nṵ-hṵ́y two-CL.AN.SG-DL ‘two animate items’
+
+c. mṵḿ ṵ-ra-́ mḭy three-CL.GEN-PL ‘three items’
+
+mṵṵ́ ́-way three-CL.AN.PL ‘three animate items’
+
+Though this pattern is interesting and perhaps somewhat unusual in giving rise to the appearance of infixes, as discussed in Payne (2007), the shared pattern of apparent infixation across Yagua and Bora do not show any potentially cognate morphemes. As such, the pattern is possibly due to borrowing or calquing of structure; contact between these groups was almost certain, at least during the time of the rubber boom (though the contact was probably not always friendly; cf. Chaumeil (1983) for discussion of the geography of Yagua migrations).
+We were unable to find examples of numbers in our Andoke materials, and the much simpler numeral system in Cariban is completely unrelated, both in forms and structure. Indeed, Cariban completely lacks classifiers of the sort found in the Western Amazon region, and at best only has genitive classifiers (Carlson and Payne, 1989) which are not used in numeral expressions.
+
+31
+
+Is Greenberg’s “Macro-Carib” viable?
+This concludes our brief discussion of the lack of idiosyncratic grammatical evidence for the putative connection between the four Macro-Carib groups. We acknowledge that the absence of evidence for a connection may be somewhat unsatisfying because, as pointed out by Greenberg (1957, p. 38), even when languages are related, “Such indications of historical connection founded on morphological irregularities of form and combinability may not always be found.” Thus, our failure to encounter shared idiosyncracies in these four or five phenomena does not in itself disprove a hypothesis of relationship. We turn now to the primary evidence given in Greenberg’s method, that of the lexicon.
+LEXICAL COGNATES AND CORRESPONDENCES
+METHODOLOGICAL CONCERNS
+Much ink has been spilled about the dangers of Greenberg’s method, one of which we reprise here: when one simply compares individual lexical items from individual languages, the danger of finding similar forms and meanings increases simply due to chance. It is for this reason that the comparative method consolidates all early hypotheses by proceeding from the bottom up, reconstructing branches and then comparing the reconstructed forms for each branch to arrive at the reconstruction for the next level. Ultimately (as recommended by Greenberg, 1957, p. 40-1), the goal should be to reconstruct the proto-forms for any families that one wants to compare, and then to consider those proto-forms to be the primary comparanda. While Greenberg (1987) does not use this method, he implicitly endorses it again in his (1989) response to Campbell’s (1988) negative review. Campbell demonstrated that one can readily encounter examples in Finnish that are as consistently similar as any language in Greenberg’s sample in their match to Greenberg’s Penutian etymologies (both lexical and grammatical). In doing this, Campbell illustrates an inherent risk in relying on superficial similarity in both form and meaning as a tool for determining genetic relationship. The conclusion Campbell draws from the Finnish example is that Greenberg’s method is not sufficiently rigorous, as had Greenberg encountered these Finnish data in a wordlist from a language of the Americas, his method would have categorized it with Penutian.
+Greenberg’s (1989, p. 111-12) response is to argue that Campbell made a fundamental error by considering Finnish data in isolation, and that had the Finno-Ugric family been included in the entire database, Greenberg’s method would have clearly identified the entire family as separate from Amerind. After reprising the relationship between Finnish, Estonian, and Hungarian, he concludes: “It is a group at this level that should be compared with Amerind, and once more the distinction is obvious. The large majority of Campbell’s forms do not even make it to Hungarian.”
+This argument is striking in that it suggests the importance of prior knowledge about the linguistic families that are being compared; had Greenberg not been familiar with Finno-Ugric, this type of response would not have been possible. Yet Greenberg entered into his comparison of the languages of the Americas without specialist knowledge of any of the families. As a result, his response does not increase the credibility of his overall conclusions. Even more striking is the question that even a specialist in our situation must ask: what if Finnish were an isolate, like Andoke, or the sole well-documented member of a tiny family where the other members are extinct, like Yagua within Peba-Yaguan? If knowledge of (and comparable data from) the rest of the Finno-Ugric family is a prerequisite for the exclusion of Finnish from Penutian, how are we to seek out arguments for the exclusion of Andoke and Peba-Yaguan from Macro-Carib?
+32
+
+Bol. Mus. Para. Emílio Goeldi. Ciências Humanas, Belém, v. 2, n. 2, p. 19-72, mai-ago. 2007
+Andoke, in particular, appears in many fewer of Greenberg’s Macro-Carib etymologies than Campbell’s Finnish forms do in the Penutian etymologies.
+We are forced to the conclusion that in order to test claims of long-range relationship with lexical evidence, prior reconstruction of the lexicon in each family is imperative. As such, our comparanda for the Cariban and Witotoan families are only reconstructed forms. We cannot offer parallel reconstructed forms for Peba-Yaguan because the necessary comparative work has not been carried out, and our preliminary efforts lead us to fear that the older sources in which Peba and Yameo are attested are both too limited and too phonetically unreliable to ever allow a firm reconstruction. To the extent that untimely extinction of the rest of the family leaves us with extensive, reliable data from only one member, we must raise the standards of evidence in order to reduce the likelihood of encountering chance resemblances.
+As such, we follow the more conservative requirements for similarity: “similarity of form must be complete similarity. Put rather brutally, if the front halves of two forms are similar, but the back halves aren’t, then the forms are not similar.” (Harrison, 2003, p. 219, emphasis in original). We also eliminate potentially cognate short forms, as recommended by Campbell (2003, p. 274):
+Monosyllabic CV or VC forms may be true cognates, but they are so short that their similarity to forms in other languages could also easily be due to chance. Likewise, if only one or two segments of longer forms are matched, then chance remains a strong candidate for the explanation of the similarity. Such forms will not be pursuasive; the whole word must be accounted for. (See Ringe, 1992, for mathematical proof).
+We therefore limit our claims of potential cognacy to forms that share multiple points of articulation and have similar syllable structure; we do consider some cases where the form in one language presents one syllable more or less than the forms in the other languages, but in the absence of a morphological explanation for this difference, we construct nil correspondences for these ‘extra’ syllables.
+Even having taken such precautions, we acknowledge the danger inherent in seeking superficial similarities among modern lexical items from Andoke and Yagua as compared to reconstructed Witotoan and Cariban forms; we are comparing words which, even if they are cognate, are separated by thousands of years of independent language change. The more distant an actual genetic relationship may be, the more divergent we must be prepared for the phonological correspondences to be. For instance, such actual cognates as English wheel and Sanskrit cakra ‘wheel’ would never be recognized as similar by a non-specialist (Campbell, 2003, p. 267), whereas such non-cognates as Spanish que [ke] ‘what’ and Nepali ke ‘what’, or English want and Yagua wat̰ a [wan̰ ta] ‘want, desire’ present surface similarities that one might confidently (and falsely) identify as evidence of relationship. Hence, we take the additional step required by the comparative method (Harrison, 2003, p. 219) of trying to establish repeated regular sound correspondences across our pool of potential cognates. To the extent that a given correspondence recurs, we will take this as strengthening the case for relatedness (Campbell, 2003 p. 266); to the extent that many correspondences recur, we will start to get excited about potential genetic relatedness.
+NEW ‘MACRO-CARIB’ LEXICAL COMPARISONS
+In order to test the Macro-Carib hypothesis, we compiled an extended Swadesh word list (Appendix 1, available for download at <http://hdl.handle.net/1794/5560>), and we sought to provide more complete and modern forms for all of Greenberg’s proposed Macro-Carib etyma, both the 79 that he lists unique to Macro-Carib and the additional
+33
+
+Is Greenberg’s “Macro-Carib” viable?
+
+64 items in his “Proto-Amerind Dictionary” for which a Macro-Carib etymon was proposed (Appendix 2, available for download at <http://hdl.handle.net/1794/5560>).11
+In examining the lexical data that we have gathered together, we identified some 41 possible cognate sets. Of these, we discarded 18 without listing possible correspondences, 13 because there was only one possible consonantal correspondence (most of these were monosyllabic morphemes) and 5 because the semantic distance between the forms was too great to reconcile with the exploratory nature of a work like this.12 These forms are listed in Table 8.
+
+Table 8. The 18 rejected candidates for possible cognate sets. Only one plausible consonantal correspondence
+
+Andoke
+
+Cariban
+
+Yagua
+
+ndúú ‘kill’ (by blowgun or
+
+—
+
+—
+
+throwing, do witchcraft)
+
+-ɲesidiákʌ ‘eyebrow’a
+
+*ônu-ru ‘eye’ *ône ‘see’
+
+ndíj ‘see, know’, hun̰ uj̰́ ‘see, look, watch, show’
+
+—
+
+—
+
+nḭ́nṵ ‘tree’ -nṵ ‘CL.pole, person’
+
+—
+
+*ônu-ru ‘eye’
+
+nḭsíj ‘eye’
+
+—
+
+—
+
+pḭ́ [pʷí]̰ ‘son’ (vocative)
+
+—
+
+*pe-rɨ ‘forehead’
+
+mo,̰́ moó̰ ̰́ ‘forehead’
+
+-də/-ta ‘tree.Cl’
+
+*jutu ‘forest’
+
+toó ‘forest’
+
+(continues)
+Bora-Witotoan
+BM *gɨ́xɨ-(nї) ‘kill’ HO *()ne(ʔ)-() ‘kill’
+—
+**(aї)me-nai-() ‘stick’
+— BM *gai-ppi ‘man’ BM *tsaa-ppi ‘man’ B pií ‘body’ — ? *taї-(má̰a̰ʔḭ) ‘forest’ O tjaá ́βo ‘forest’ tjamä á ń ʔin ‘forest, jungle’
+
+-ʌ́to- ‘Desiderative’ (verbal suffix) -tai ‘head’
+—
+— tii
+
+*(CV)te ‘Desiderative’ (postposition) *pu-tupô ‘head’
+PC *toŵ inô ‘one’ PT *təinjə ‘one’
+*[wɨ-]tô[mô] ‘go’
+*[t]ɨrɨ ‘make, put’
+
+wat̰ á ‘want’ —
+
+Hr oìakaide ‘want’ heruìde ‘want’
+—
+
+ta-́ ra-kɨɨ (with general classifier + SG?), tḭ́kií ‘one (animate)’ **ta() ‘one’ (< ta-i-̰ kɨɨ)
+
+hḭtá ‘arrive’
+-tanḭy ‘make, cause’ -ta ‘transitivizer’
+
+B -te ‘movement’ (verbal suffix)
+Hr -ta ‘causative’ B -tsho ‘causative’
+
+11 Sometimes we were not able to find forms in our own sources anything like the forms he offered, other times we found similar forms but with differing transcriptions/translations, and yet other times the matches were good between our fresh data and the forms Greenberg presents.
+12 In this decision, we explicitly differentiate our methodology from Greenberg’s, who accepts more semantic latitude in his potential cognates. While it is true that attested change does produce cognates with ranges of meanings comparable to the rejected forms, we are uncomfortable with the necessity to assume such meaning change in order to relate specific forms, and then to base our potential case for relationship on such assumptions.
+
+34
+
+Bol. Mus. Para. Emílio Goeldi. Ciências Humanas, Belém, v. 2, n. 2, p. 19-72, mai-ago. 2007
+
+Table 8. The 18 rejected candidates for possible cognate sets.
+
+peɒ-i ‘red’
+
+?*t-a(k)pi-re ‘red’
+
+—
+
+Too great a semantic distance
+
+BM *tḯ-ppai-ne ‘red’
+
+(finished)
+
+Andoke
+
+Cariban
+
+Yagua
+
+Bora-Witotoan
+
+—
+
+*tawô ‘inside’
+
+tawó ‘woven bag’
+
+—
+
+—
+
+PT *mɨ(tʃ)a ‘long/far’
+
+mʷɨ̰tya ‘nothing, free, gift’
+
+*míta-(ne) ‘many’
+
+—
+
+*pɨta ‘sole of foot’
+
+mṵndá ‘thigh’
+
+—
+
+-domĩ ‘hand’
+
+*[t-]ɨrɨ, utu ‘give’
+
+tíij ‘grab, throw, yank, pull’
+
+BM *(mé)-ʔot́ tsɨɨ́ ‘hand’
+
+—
+
+*potɨ-rɨ ‘beak’
+
+hṵmur̰ ú ‘beard’
+
+—
+
+a The apparent nasal correspondence is semantically compromisedː cf. ɲesid ‘brow?, hair?’ + iáka ‘eye’ (the latter attested in the tables, the former presumed).
+
+The remaining 23 candidates were treated like true cognates: all consonantal correspondences were extracted, as seen in Table 9. Anytime one form has more syllables than another, this necessarily creates a correspondence between a segment (in the longer form) and nil (represented as Ø in the correspondence from the shorter form).
+
+Table 9. Consonantal correspondences in the 23 potential cognates.
+
+Correspondences
+
+Andoke
+
+Cariban
+
+Yagua
+
+(1) -- : -- : k : *g -- : -- : n : *n
+(2) -- : -- : k : *g -- : -- : mb : *b
+(3) -- : -- : w : *g -- : -- : k : *k -- : -- : nd : *n
+(4) ɲ : *n : n : -ʔ : *n : n : --
+(5) -- : -- : m : *Ø -- : -- : k : *x -- : -- : nd : *n
+(6) -- : -- : k : *x -- : -- : nd : *n
+(7) -- : *p : p : --- : *r : rj : --
+(8) -- : *w : h/w/p : -- : *p : p : --- : *t : Ø/y : --
+(9) -- : *p : p : --- : *p : p : --
+
+—
+
+—
+
+—
+
+—
+
+ka̰an̰ ṵ́ ‘bow’ kambohu ‘rope’
+
+—
+
+—
+
+wá-ndakíí ‘hot’
+
+ɲoʔ̃ ĩ ‘earth’ *nono ‘earth’
+
+nṵnij̰ ‘garden, field’
+
+—
+
+—
+
+muḱ̰ andíi ‘earth’
+
+—
+
+—
+
+koondij ‘snake’
+
+—
+
+—
+
+púrji- ‘closed’ pirjej (Vintr) ‘close [road, tube]’
+
+—
+
+*wɨpɨtô ‘descend’
+
+hapu/wapu- ‘low, short’
+
+pupa̰y ‘go down’
+
+—
+
+*pipi ‘older brother’ pḭpḭ ́ ‘brother’
+
+(continues) Bora-Witotoan BM *gáínїḯ-ga ‘arrow’ **(i)gai(̈ bai)̈ ‘rope’ BM*(gań ókóó-ne) ‘hot’ — **xáéniʔ̰̈ -xḛ ‘earth’ BM *xíinime ‘snake’ — — —
+
+35
+
+Is Greenberg’s “Macro-Carib” viable?
+
+Table 9. Consonantal correspondences in the 23 potential cognates.
+
+Correspondences
+
+Andoke
+
+Cariban
+
+Yagua
+
+(10) -- : *p : p : --- : *r : r : --
+(11) -- : *m : w : --- : *m : m : --
+(12) -- : *Ø : (h) : --- : *w : w : --- : *t : nd : --
+(13) (Ø) : *w : w : -(Ø) : *r : t : --
+(14) d : *Ø : h : -m : *m : m : -Ø : *r : t : --
+(15) -- : *Ø : -- : *ts -- : *m : -- : *m -- : *r : -- : *n
+(16) -- : Ø : n : Ø -- : *m : m : m -- : *t : t : d -- : *r : Ø : Ø
+
+—
+
+*pa-rɨ ‘grandchild’
+
+pir̰ á ‘infant, child’
+
+—
+
+*[w-]ômô[mɨ] ‘enter’ wimṵ́ ‘inside (of)’
+
+—
+
+*wetɨ/*watô ‘feces’ (hu)̰ wun̰ di ‘feces’
+
+(tii) ‘woman’ *wôrɨti ‘woman’ -domĩ ‘hand’ *ômija-rɨ ‘hand1’
+*amo-rɨ ‘hand2’
+
+wá-tu-rá ‘woman w/o children’ wa-́ tu-rṵj́ ‘woman w/ children’
+homṵtú ‘hand’
+
+—
+
+*mure ‘child’
+
+—
+
+—
+
+*mota-rɨ ‘shoulder’ nṵmṵto ‘shoulder’
+
+(17) -- : *p : m : -—
+-- : *t : nd :--
+
+*petɨ ‘thigh’
+
+mun̰ da ‘thigh’
+
+(18) -- : Ø : n : --
+
+-- : *p : m : --
+
+—
+
+-- : *t : t : --
+
+(19) -- : *t : ʔ :(Ø): --
+
+-- : *p :(m): *p
+
+—
+
+-- : *t :(Ø): *ʔt
+
+(20) -- : *p : (m): **m — -- : *r :(Ø): **(n)
+
+(21) -- : *t : -- : *t
+
+—
+
+-- : *kp/m : *pp : --
+
+-- : *r : -- : *n
+
+(22) -- : *k : h : *k
+
+-----
+
+-- : *t : t : *(tt)
+
+(23) -- : *p : p : b
+
+-----
+
+-- : *t : tʃ : *d
+
+*pɨta ‘sole’
+
+nṵ́mṵtú ‘foot’
+
+*(e)tipotɨ ‘hair’
+
+(-mṵ ‘CL:feather’)
+
+*paru ‘water2’
+PC*t-a(k)pi-re ‘red’ PT *t-a:mi:-re ‘red’
+
+(-mṵ́ ‘river’) —
+
+*akôtô ‘cut’
+
+hootá ‘peel’
+
+*apôti ‘seize’
+
+pṵ́tʃa ‘take, knock down’ púṵ ̰tʃij́ ‘take (by force?)’
+
+(finished) Bora-Witotoan — — — — —
+BM *tsɨ́ɨ-me-ne ‘child’
+Hr emod́ o ‘back’
+—
+— HO *iʔ̈ po-ʔti(̈ )‘head hair’ **m(oon)ai ‘river’ BM *tí-̈ ppai-ne ‘red’
+BM*ki-́ (tti)̈ , ‘cut’ Hr ɨbade ‘buy’
+
+36
+
+Bol. Mus. Para. Emílio Goeldi. Ciências Humanas, Belém, v. 2, n. 2, p. 19-72, mai-ago. 2007
+
+The correspondences were then tabulated, so that we could see if the same correspondences came up in multiple possible cognates. When we compared all 4 families, we encountered 48 consonantal correspondences, 17 labial, 5 velar, and 26 coronal. However, not a single correspondence occurs even once – much less multiple times – in all 4 languages. We do have some attested correspondences with gaps that might be collapsible into a single correspondence, such as the bilabial nasals for ‘hand’, ‘child’, and ‘shoulder’ in (12):
+
+(12)
+
+Andoke
+
+PC
+
+PW
+
+m
+
+m
+
+---
+
+---
+
+m
+
+m
+
+---
+
+m
+
+m
+
+m
+
+m
+
+m
+
+Yagua m --m
+m
+
+‘hand’ ‘child’ ‘shoulder’
+‘hand, child, shoulder’
+
+It is only by collapsing correspondences with gaps that we would be able to construct even one correspondence set attested in all 4 families. As such, we conclude that our much more extensive lexical evidence provides no support for Greenberg’s Macro-Carib hypothesis.
+However, it is also possible to seek correspondences between subsets of the four families, in search of stronger possibilities of trilateral or bilateral relationship. Andoke appears the least in the 23 potential cognates, so we excluded Andoke and compared the remaining three families. We encountered 46 consonantal correspondences, 17 labial, 5 velar, and 24 coronal. This time, 8 of the correspondences have a form in all 3 families, but once again, no full correspondence is repeated multiple times unless we collapse correspondences, and only the three /m/ correspondences seen in (12), removing Andoke, the leftmost column, seem clear candidates for such a collapse. We conclude that the lexical evidence does not support even the weaker trilateral hypothesis.
+Finally, we made three bilateral comparisons: Witotoan with Yagua, Witotoan with Cariban, and Cariban with Yagua. In considering the first two bilateral comparisons, there is little to make the heart beat faster: for Witotoan with Yagua, we find 22 correspondences, only 4 attested in 2 or more potential cognates; for Witotoan with Cariban, we find 18 correspondences, with only 3 attested in 2 or more potential cognates. However, when we consider the Cariban and Yagua correspondences, the possibility of a closer relationship between Carib and Yagua cannot be discarded out of hand: of the 21 correspondences, 7 (fully one third) have multiple attestations.
+REGARDING THE WORD WITOTO
+One lexical item of note in our data is the PC reconstruction *wɨtoto ‘person’ — which is of course striking given the name ‘Witoto’ for some of the (non-Cariban) Witotoan peoples (often spelled ‘Huitoto’ or ‘Uitoto’). However, there is no evidence that this is a viable cognate across Proto-Witotoan and Proto-Cariban (much less Proto-PebaYaguan) groups. It is not an autonym within the Witotoan languages and Aschmann (1993) does not reconstruct such a word for PW or for either branch of the family. Rather, he reconstructs PW *()mḯnaï for ‘people’. In 1921 Preuss wrote that “Uitoto” was not a word of the Uitoto language, but rather was the name used by Cariban speakers with reference to their enemies (Preuss, 1921, p. 160-161). Instead of suggesting genetic relatedness, the fact that this name has been applied to Colombian peoples either suggests probable contact between Cariban speakers and those who are known as Witotoan peoples, or that the first explorers who ‘named’ the Witotos were travelling
+
+37
+
+Is Greenberg’s “Macro-Carib” viable?
+with Cariban (for example Karihona, guides); that is ‘Witoto’, ‘Uitoto’, or ‘Huitoto’ were terms used by outsiders. Though of course *wɨtoto could have spread via an intermediary group that had contact with Cariban speakers, the fact that it is not found as a term for other non-Cariban groups (Tupian, Saliban, etc.) perhaps suggests more direct contact between Cariban speakers and Witotoan groups.
+CONCLUSION
+The goal we set out with leads only to frustration: one cannot prove a negative, but in seeking to test Greenberg’s Macro-Carib hypothesis with more reliable modern data, we have been unable to turn up sufficient data to convince the skeptic that the hypothesis is correct. The pronominal data adduced by Greenberg did not hold up when considering modern sources, and the search for shared grammatical idiosyncracies yielded no results. The lexical data were similarly unkind to the hypothesis: Andoke and Witotoan did not share many potential cognates with Cariban or Yagua, leaving only Cariban and Yagua with any prospects at all of further relatedness. With this in mind, one potentially fruitful direction for future research would be to return to the original Yameo and Peba materials from which Rivet extracted his wordlists, in search of more and better materials to reconstruct Peba-Yagua lexicon and grammar. With the expanded time-depth that would be represented by reconstructed forms, we would be able to better ascertain whether the Proto-Peba-Yagua forms would retain their surprising degree of correspondence to Proto-Cariban, or whether (like the Finnish forms in the dispute between Campbell and Greenberg) the apparent similarity seen in forms from a single language would fade as sister languages come more clearly into focus.
+As we have seen, the four families considered in this paper are geographically localized in the northern Amazon region, from west of the Putumayo-Caquetá river region, to the eastern Guianas. Three groups, Andoke, Peba-Yaguan and Witotoan, are found primarily in and to the west of the Putumayo-Caquetá region; and a small handful of Cariban languages are known to have been in this region. The modern geographical proximity itself leaves open the possibility that some of the arguable lexical similarities could be the result of contact and borrowing-if not just chance similarities.
+In working towards our first goal, which is more limited in scope, we have also worked towards a second goal with less limited aspirations: we have compiled a database of state-of-the-art reconstructions (created for Cariban, collected from Aschmann, 1993, for Witotoan) and reliable modern forms (for Yagua and Andoke), and we have contributed to what we hope will be a continuing discussion about the kinds of evidence that might one day allow a more convincing proposal of genetic relationships between these languages and other language(s) of the Americas.
+ACKNOWLEDGMENTS
+This work would not have been possible without the support of NWO grant No 235-70-002, Leiden University, Radboud Universiteit Nijmegen, University of Oregon, Universidade Federal do Pará, Museu Paraense Emílio Goeldi, CNPq, and SECTAM-PA, which jointly financed the meetings in 2003, 2004 and 2005 that stimulated us to pursue this research topic; thanks also to the Research Centre for Linguistic Typology, La Trobe University, where Gildea was a fellow during much of his contribution to this paper, and to Alexandra Aikhenvald for comments and stimulating discussion. Additionally, we thank David Young for data entry, and Jon Landaburu who provided us with unpublished lexical information from Andoke. We owe an enormous debt of gratitude to Sérgio Meira for
+38
+
+Bol. Mus. Para. Emílio Goeldi. Ciências Humanas, Belém, v. 2, n. 2, p. 19-72, mai-ago. 2007
+furnishing us with his Toolbox databases, which included individual lexical collections from 20 Cariban languages plus a comparative database with preliminary collections of cognates. Without these databases, we could not have even proposed most of the Proto-Cariban reconstructions we offer here. Some errors in data and/or analysis will certainly be found by future researchers — we are solely responsible for the errors.
+REFERENCES
+ADELAAR, Willem. Review of Language in the Americas, Joseph Greenberg, 1987. Língua, n. 78, p. 249-255, 1989. AIKHENVALD, Alexandra. Areal diffusion, genetic inheritance, and problems of subgrouping: a North Arawak case study. In: AIKHENVALD, Alexandra; DIXON, R. M. W. (Eds). Areal Diffusion and Genetic Inheritance. Cambridge: Cambridge University Press, 2001. p. 167-194. ASCHMANN. Richard. Proto Witotoan. Dallas: Summer Institute of Linguistics and University of Texas at Arlington, 1993. BERMAN, Howard. A comment on the Yurok and Kalapayu data in Greenberg’s Languages in the Americas. International Journal of American Linguistics, Chicago, v. 58, p. 230-233, 1992. BURTCH, Shirley (compiler). Diccionario huitoto murui. Serie Lingüística Peruana, 20. Yarinacocha: Ministerio de Educación and Instituto Lingüístico de Verano, 1983. 2 v. 262, 166 p. CAMPBELL, Lyle. Review of Language in the Americas, Joseph Greenberg, 1987. Language, n. 64, p. 591-615, 1988. CAMPBELL, Lyle. How to show languages are related: Methods for distant genetic relationship. In: JOSEPH, Brian; JANDA, Richard (Eds.). The Handbook of Historical Linguistics. Oxford: Blackwell Publishing, 2003. p. 262-282. CARLSON, Robert; PAYNE, Doris L. Genitive classifiers. In: ANNUAL PACIFIC LINGUISTICS CONFERENCE, 4, 1989, Eugene. Proceedings… Eugene: University of Oregon, 1989. p. 87-119. CHAFE, Wallace. Review of language in the Americas, Joseph Greenberg, 1987. Current Anthropology, Chicago, n. 28, p. 652-653, 1987. CHAUMEIL, J-P. Historia y migraciones de los yagua de finales del Siglo XVII hasta nuestros días. Lima: Centro Amazónico de Antropología y Aplicación Práctica, 1983. DIXON, R. M. W. The Rise and fall of languages. Cambridge: Cambridge University Press, 1997. DIXON, R. M. W; AIKHENVALD, Alexandra Y. Introduction. In: DIXON, R. M. W.; AIKHENVALD, Alexandra Y. (Eds.). The Amazonian Languages. Cambridge: Cambridge University Press, 1999. p. 1-21. DURBIN, Marshall; SEIJAS, Haydée. Proto-Hianacoto: Guaque-Carijona-Hianacoto Umaua. International Journal of American Linguistics, v. 39, n.1, p. 22-31, 1973. GILDEA, Spike. The Cariban and Tupí-Guaraní object nominalizing prefix. Lingüística Tupí-Guaraní/Caribe. Revista Latinoamericana de Estudios Etnolingüísticos, Lima, v. 8, p. 163-177, 1994. GILDEA, Spike. On Reconstructing Grammar: comparative Cariban Morphosyntax. Oxford: Oxford University Press, 1998. GILDEA, Spike. The Venezuelan branch of the Cariban language family. Amérindia, n. 28, p. 7-32, 2003. GIRARD, Victor. Proto-Carib phonology. 1971. Thesis (Ph.D.) - University of California, Berkeley, 1971. GODDARD, Ives. Review of Language in the Americas, Joseph Greenberg, 1987. Linguistics, n. 28, p. 556-558, 1990. GOEJE, Claudius Henricus de. Études linguistiques Caraïbes. Verhandelingen van de Koninklijke Akademie van Wetenschappen, afdeeling letterkunde, nieuwe reeks 49 (2), deel X, n. 3, Amsterdam: Johannes Müller, 1946. GREENBERG, Joseph. Essays in linguistics. Chicago: University of Chicago Press, 1957.
+39
+
+Is Greenberg’s “Macro-Carib” viable?
+GREENBERG, Joseph. Language in the Americas. Stanford: Stanford University Press, 1987. GREENBERG, Joseph. Classification of American Indian languages: A reply to Campbell. Language, n. 65, p. 107-114, 1989. GREENBERG, Joseph. The concept of proof in genetic linguistics. In: GILDEA, Spike (Ed.). Reconstructing Grammar: comparative linguistics and grammaticalization. Amsterdam: John Benjamins, 2000. p. 161-175. HARRISON, S. P. On the limits of the comparative method. In: JOSEPH, Brian; JANDA, Richard (Eds.). The Handbook of historical linguistics. Oxford: Blackwell Publishing, 2003. p. 213-43. KIMBALL, Geoffrey. A critique of Muskogean, “Gulf”, and Yukian material languages in the Americas. International Journal of American Linguistics, Chicago, v. 58, n. 4, p. 447-501, 1992. LANDABURU, Jon. La langue des Andoke (Amazonie colombienne). Paris: SELAF, 1979. LANDABURU, Jon. La predicación en la lengua andoque y parámetros de utilidad para una tipología de la predicación. Bogotá: CCELA; Universidad de los Andes, 1992. p. 155-171. (Memorias 2, Lenguas Aborígenes de Colombia). LANDABURU, Joan; PINEDA, Roberto. Tradiciones de la Gente del Hacha: mitología de los indios Andoques del Amazonas. Bogotá: Instituto Caro y Cuervo, 1984. LEACH, Ilo. Vocabulario Ocaina. Yarinacocha, Peru: ILV, 1969. (Serie Lingüística Peruana 4). MATISOFF, James. On megalocomparison. Language, n. 66, p. 109-120, 1990. MATTÉI MULLER, Marie-Claude. Diccionario ilustrado Panare-Español, indice Español-Panare. Caracas: Comisión Quinto-Centenário, 1994. MATTÉI MULLER, Marie-Claude. Pemono: eslabón perdido entre mapoyo y yawarana, lenguas caribes ergativas de la Guayana noroccidental de Venezuela. Amérindia, Paris, n. 28, p. 33-54, 2002. MATTÉI MULLER, Marie-Claude; HENLEY, Paul. Los Tamanaku: su lengua, su vida. San Cristobal: Universidad Católica del Táchira, 1990. MEIRA, Sérgio. A Grammar of Tiriyó. 1999. Thesis (Ph.D. Linguistics) - Rice University, 1999. MEIRA, Sérgio. A Reconstruction of Proto-Taranoan: phonology and morphology. Munich: LINCOM Europa, 2000a. MEIRA, Sérgio. The accidental intransitive split in the Cariban family. In: GILDEA, Spike (Ed.). Reconstructing grammar: comparative linguistics and grammaticalization theory. Amsterdam: John Benjamins, 2000b. p. 201-230. MEIRA, Sérgio. A first comparison of pronominal and demonstrative systems in the Cariban language family. In: CREVELS, Milly; KERKE, Simon van der; VOORT, Hein van der; MEIRA, Sérgio. Current studies in South American languages. Leiden: Research School of Asian, African, and Amerindian Studies (CNWS), 2002. p. 255-275. (Indigenous Languages of Latin America (ILLA) series, v. 3). MEIRA, Sérgio. Comparative Cariban Database. 19 Toolbox databases, with lexical and grammatical data on 18 Cariban languages, plus preliminary cognate sets for 442 lexical and grammatical items, 2006. (unpublished personal database). MEIRA, Sérgio; FRANCHETTO, Bruna. The southern Cariban languages and the Cariban family. International Journal of American Linguistics, Chicago, v. 71, n. 2, p. 127-192, 2005. MEIRA, Sérgio; GILDEA, Spike; HOFF, B. J. On the origin of ablaut in the Cariban family. International Journal of American Linguistics. (to appear). NIMUENDAJÚ, Curt. A propos des indiens Kukura du Rio Verde (Brèsil), Journal de la Société des Américanistes, n. 24, p. 187-9, 1932. PAYNE, Doris L. Aspects of the grammar of Yagua: a typological perspective. 1985. Thesis (Ph.D.) - UCLA, 1985. PAYNE, Doris L. Noun classification in Yagua. In: CRAIG, Colette. Noun classes and categorization. Amsterdam: John Benjamins, 1986. p. 113-131.
+40
+
+Bol. Mus. Para. Emílio Goeldi. Ciências Humanas, Belém, v. 2, n. 2, p. 19-72, mai-ago. 2007
+PAYNE, Doris L. Noun classification in the Western Amazon. Language Sciences, v. 9, n. 1, p. 21-44, 1987. PAYNE, Doris L. Review of Amazonian Languages. Language, n. 77, p. 594-598, 2001. PAYNE, Doris L. Source of the Yagua nominal classification system. In: SEIFART, Frank; PAYNE, Doris (Eds.). International Journal of American Linguistics, Chicago, v. 73, n. 4, p. 447-473, October 2007. PAYNE, Doris L. PAYNE, Thomas E. Yagua. Handbook of Amazonian Languages, Berlin: Mouton de Gruyter, n. 2, p. 249- 474, 1990. PAYNE, Thomas. Pronouns in Yagua discourse. International Journal of American Linguistics, Chicago, v. 53, n. 1, p. 1-21, 1987. PAYNE, Thomas. The Twins stories: participant coding in Yagua narrative. Berkeley: University of California Press, 1993. (Univ. of Califórnia Publications in Linguistics, 120). POWLISON, Paul. Nijyami Niquejadamusiy - May Niquejadamuju, May Niquejadamusiy - Nijyami Niquejadamuju. (Diccionario Yagua – Castellano, Castellano-Yagua). Lima: Ministerio de Educación, ILV, 1995. (Serie Lingüística Peruana 35). PREUSS, Konrad Theodor. Religion und mythologie der Uitoto. Göttingen: Vandenhoeck & Ruprecht, 1921. RANKIN, Robert. Review of Greenberg, 1987. International Journal of American Linguistics, Chicago, v. 58, p. 324-51, 1992. RINGE, Donald. On calculating the factor of chance in language comparison. Transactions of the American Philosophical Society, n. 82, p. 1-110, 1992. RIVET, Paul. Affinités du Miránya. Journal de la Société des Américanistes, Paris, n. 8, p. 117-131, 1911a. RIVET, Paul. La Famille linguistique Peba. Journal de la Société des Américanistes, Paris, n. 8, p. 172-206. 1911b. RODRIGUES, Aryon Dall’Igna. Evidence for Tupí-Carib relationships. In: KLEIN, Harriet E.; STARK, Louisa R. (Eds.). South American Indian languages: retrospect and prospect. Austin: University of Texas Press, 1985. p. 371-404. RODRIGUES, Aryon Dall’Igna. Grammatical affinities among Tupí, Carib and Macro-Jê: Unpublished manuscript. Brasília: Universidade de Brasília, 1994. SALZANO, Francisco M.; HUTZ, Mara H.; SALAMONI, Sabrina P.; ROHR, Paula; CALLEGARI-JACQUES, Sidia M. Genetic support for proposed patterns of relationship among lowland South American languages. Current Anthropology, Chicago, v. 46, n. 1, p. 121-129, 2005. Suppl., December. 2005. SEIFART, Frank. The Structure and use of shape-based noun classes in Miraña. (North West Amazon). [S. l.]: Max Planck Institute, 2005. (Series in Psycholinguistics, 32). SEIFART, Frank; PAYNE, Doris (Eds.). Nominal Classification in the North West Amazon: Issues in Areal Diffusion and Typological Characterization. International Journal of American Linguistics, Chicago, v. 73, n. 4, p. 381-7, October 2007. THIESEN, Wesley; THIESEN, Eva. Diccionario Bora-Castellano; Castellano-Bora. Yarinacocha: ILV, 1998. (Serie Lingüística Peruana 46). THIESEN, Wesley; WEBER, David. Bora Grammar. Dallas: SIL Publications. (to appear).
+Recebido: 10/10/2006 Aprovado: 01/06/2007
+41
+
+Is Greenberg’s “Macro-Carib” viable?
+APPENDIX 1. The Swadesh 100 list for Proto-Cariban, Andoke, Yagua, and Proto-Witotoan.
+Appendix 1 presents Swadesh 100 word lists for Proto-Cariban, Andoke, Yagua, Proto-Witotoan and its two sub-branches Proto-Huitoto-Ocaina and Proto-Bora-Muinane. Here we are interested in exploring the maximum number of possible cognates - both for our immediate purposes and for future comparative work that we may not envision at the moment. We are explicitly not trying to compile a table that might be useful for glottochronological or lexicostatistical calculations. As such, this table is not restricted to only the most commonly used forms (which would be difficult to discover in any case for proto-languages), but rather represents a table of forms within which cognates may be sought. Throughout the Appendix, hyphens indicate morphemic divisions.
+All Proto-Cariban forms in this Appendix are reconstructed by Spike Gildea for this paper, except the pronouns (reconstructed by Meira, 2002). Where a Proto-Cariban form is not readily reconstructible, we sometimes offer reconstructions to lower-level groups or branches, again (with the exception of ProtoTaranoan) by Spike Gildea: Proto-Taranoan (PT: Akuriyó, Karihona, Tiriyó; Meira, 2000), Proto-Parukotoan (PPar: Hixkaryana, Waiwai and Katxúyana), Proto-Pekodian (PPek: Bakairi, Arara, Ikpéng), Proto-Pemón (PPem: Kapón [Akawaio, Patamuna, Ingarikó], Pemón [Arekuna, Kamarakoto, Taurepán] and Makushi), and Proto-Venezuelan (PV, a tentative subgrouping given in Gildea (2003), modified by Mattéi Muller (2002): Kapón, Pemón, Makushi, Panare, †Tamanaku, Mapoyo/Yabarana, and possibly Ye’kwana, †Kumanagoto, and †Chaima). Note that the Venezuelan Branch is a hypothesis that has not been well-substantiated, and as such, even though we expect that PV reconstructions should represent valid historical forms, the label PV may not stand the test of time. Our Proto-Carib forms are indicated by a single asterisk with no further marking. These reconstructions are somewhat tentative, as they are based on incomplete cognate sets, with few reconstructions for intermediate groupings; however, they do follow the most recent developments in our collective understanding of Proto-Carib phonology (especially Meira and Franchetto, 2005) and morphology (especially Meira, Gildea and Hoff, to appear). The data that inform our reconstructions come from cognate sets published in Meira and Franchetto (2005), plus additional forms found in Meira’s unpublished comparative Cariban Toolbox database (Meira, 2006). We recognize that all these reconstructions will remain suspect until publication of the cognate sets upon which they are based, and also that they will doubtless need (we hope, minor) adjustments as the body of rigorous comparative work on the family increases.
+Our Andoke data for any of Greenberg’s proposed Macro-Carib etymons (both in Appendix 1 and Appendix 2) were provided by Jon Landaburu in personal communication, from his field notes. All other Andoke forms are from Landaburu (1979, 1992) and Landaburu and Pineda (1984).
+Unless otherwise specified, our Peba-Yaguan is all Yagua, compiled by Doris Payne. Forms are usually taken from Powlison’s (1995) dictionary, but re-written in a generally phonemic form with a few exceptions noted below. In some cases, where Powlison’s data differ from Doris and Thomas Payne’s data (particularly for vowel length), the Paynes’ data are used. Conventions for writing the Yagua data in this table follow the IPA with the following qualifications (cf. D. Payne (1985), Payne and Payne (1990), T. Payne (1993), for further information on Yagua phonology): • /j/ at the end of a word has a very lenis pronunciation. /j/ after a consonant reflects either full metathesis of a
+syllable-final /j/ with that consonant, or palatalization of the consonant.
+42
+
+Bol. Mus. Para. Emílio Goeldi. Ciências Humanas, Belém, v. 2, n. 2, p. 19-72, mai-ago. 2007
+
+• Accute accent over a vowel indicates high pitch (best analyzed as high tone). For Yagua, a tilde under a vowel indicates phonemic nasalization (for other languages we have followed the IPA convention of writing nasalization over vowels, but for typographical clarity, we have opted for this for Yagua).
+• /n/ has allophones [n] before phonemic nasal vowels, and [nd] before phonemic oral vowels. /m/ has allophones [m] before phonemic nasal vowels, and [mb] before phonemic oral vowels. The allophones are written explicitly in this table.
+• Payne and Payne (1990) analyze Yagua as having six phonemic vowels:
+
+i
+
+ɨ (or ɯ)
+
+u
+
+e
+
+o
+
+a
+
+Powlison analyzes Yagua as having only 5 vowels, so his dictionary does not distinguish between /i/ and /ɨ/ (/ɨ/ is always fronted to /i/ in the vicinity of /j/ and [ɨ] under any analysis is not as frequent as [i]). As a result, the following Yagua list generally has /i/ and /ɨ/ collapsed; we have written /ɨ/ only in those cases where D. Payne is certain of the distinction. Additionally, tone sandhi is common in Yagua, such that the same root might bear multiple tone patterns, depending on the surrounding morphemes. Where possible, in this table we use the tone patterns found on the root in isolation.
+A Yagua inalienably possessed noun [inalien] always has a nominal or pronominal possessor (the system of prefixes is the same as for alienably possessed nouns). If a possessed noun begins with /hV/, the vowel can vary in nasalization and quality depending on the form of the possessive prefix. Wa- (variant ha- ?) is a Yagua derivational prefix for abstract qualities. It is broken off in Appendix 1, even though sometimes it might be a synchronically well-frozen part of a word (certain other Yagua entries are also morphologically complex).
+Our Proto-Witotoan is Aschmann’s (1993) reconstruction; a double asterisk ** indicates Aschmann’s reconstruction for Proto-Witotoan, while BM plus * indicates his reconstruction for the Bora-Miraña branch and HO plus * indicates his reconstruction for the Witoto-Ocaina branch. Witotan elements in parentheses indicate that Aschmann found the material in more than one language of the (sub-)family but it was not sufficiently attested across all languages of the (sub-)family such that he was able to reconstruct it. These data were entered by David Young. For Witotoan data, /ï/ is high back unrounded, in contrast with /ɨ/, high central unrounded.
+Numbers in Column 1 of the following table correspond to Swadesh numbers. For cross-referencing purposes, following the English gloss in column 2, we include in parentheses the numbers from Aschmann’s (1993) Witoto etyma.
+
+43
+
+Is Greenberg’s “Macro-Carib” viable? 44
+
+APPENDIX 1. The Swadesh 100 list for Proto-Cariban, Andoke, Yagua, and Proto-Witotoan.
+
+001 I (200)
+
+002
+
+YOU (201) [THOU]
+
+Andoke oʔə ha
+
+Cariban
+*oŵ ɨ-rô
+*ômô-rô *om̂ -jamo ‘2COL’
+
+Yagua raj híj
+
+ka003 WE (205)
+
+004 THIS (256)
+
+ɲé-ʔbo
+
+dí-ʔbo ‘that’ 005 THAT (257) i-ʔbo ‘yon’
+
+006 WHAT (259)
+
+*kɨnmo-̂ rô ‘1INCL’ *kɨwɨ-rô ‘1INCL’ *kɨC-jamo ‘1INCL.Col’ *apina ‘1Exc’
+
+wúṵ ̰́j [PL.INCL]
+
+*(t)on̂ ɨ ‘Inan’
+
+hij
+
+*(t)or̂ ô ‘Inan’
+
+*môtjô ‘Anim’
+
+*mot̂ j-jamo ‘Anim.Col’
+
+*môrô ‘Inan’
+
+ru
+
+*mon̂ ɨ ‘Inan’
+
+*môkɨ-rô ‘Anim’
+
+*môk-jamo ‘Anim.Col’
+
+PT *ətɨ PT *ətɨna
+
+nút̰ ju
+
+Proto-Witotoan P-BM
+
+**(k)oõ -̃ xe(ʔe) *oó (-xéʔe)
+
+**õ-xe(ʔe)
+
+*iḯ̈ (-xeʔ́ e)
+
+**kii-()
+
+*mïḯʔ-ai [PL] *miʔ̈ -tsi [M.DL] *mïʔ-pɨ [F.DL]
+*xíneé *xi(xɨ)
+
+**kiʔi-()
+
+*xe(ʔ)é-ne
+
+xínɨ́xɨ́ ɨɨ-ná
+
+007 WHO (258)
+
+*ônok̂ ɨ
+
+tʃḭ
+
+??**(b)õ()
+
+?*ka(aiteʔ́ a)-xaa*mḯ(ʔa)-xa
+
+008 NOT (260)
+
+PT *taike *pɨra
+
+nḛ́é,̰ -tja, -ta
+
+**(ta)ʔãĩ́-ne *(-tї), *tsá?aa-́ (ne)
+
+009 ALL (261) 010 MANY (262)
+
+*ômerô
+
+tḭit̰ ah̰́ ṵ
+haŕ jíj; cf. mʷɨ̰tya ‘nothing; free, gift’
+
+((p)airiї̈ -kin̈ e), *pamere, *pa-nee-(re)
+*míta-(ne), (gíraá -́ me) (tsíítї), (ɨʔnáʔo)
+
+011 ONE (181)
+
+*toŵ inô
+
+ʌ-ʌ́hʌmã
+
+*atjôkô(nô)/(ne)
+
+012 TWO (182) ‘with this also’
+
+tá-ra-kɨɨ (with general classifier + SG?)
+nda-́ ra-hṵ́j (with general classifier)
+
+**ta()
+
+*tsaane
+
+**menai()
+
+*mííneé ́kkïḯ
+
+013 BIG (220)
+
+PT *tɨkatɨne ‘fat’ PT *mɨ(tʃ)a ‘long/far’ *-imô ‘Augmentative’
+
+háa̰ ̰́mu-̰ kaa̰ ̰́, há̰á̰mṵ ‘inanimate’, haá̰ ̰́mjḭj ‘adult, person; big, fat’, nij̰ - ‘fat’; cf. mʷɨt̰ ya ‘nothing; free, gift’
+
+*mita-ne *giraa-ne *kee-(pi)-ne (bókki-̈ ne)
+
+(continues) P-HO *kõẽ *õ(ẽ)
+*bí-haẽ ̃ *bi-ʔe
+*dziʔ̈ *bṍ
+(hã́ã́tiʔ)
+*ta(he) (mena) (hana)
+
+APPENDIX 1. The Swadesh 100 list for Proto-Cariban, Andoke, Yagua, and Proto-Witotoan.
+
+Andoke
+
+Cariban
+
+Yagua
+
+-mə̃kə̃014 LONG (263)
+
+PT *mɨ(tʃ)a ‘long/far’ haḿ ḭrjij [complex?]; cf. mʷɨt̰ ya ‘nothing; free, gift’
+
+Proto-Witotoan P-BM *kaá ḿ e(-βe)-ne
+
+(continues) P-HO *a(́ d)e
+
+015 SMALL (221)
+
+PT *pitʃa ‘little1’ PT *akɨi ‘little2’ ?*pitikô
+
+pasíij
+
+?**()ki()
+
+*nomɨ-(nɨ-nɨ), (áxáítso-ne- (kiβi) gayi)̈ , (aý a-́ gayï), (áirá-ne-́ gayï), (ïʔxeń e-́ gayï), (cǒ ʔxï), (ḯḯgḯyïïi)
+
+Bol. Mus. Para. Emílio Goeldi. Ciências Humanas, Belém, v. 2, n. 2, p. 19-72, mai-ago. 2007 45
+
+tii 016 WOMAN (40)
+
+PT *noːtʃa[mo] *wôriti
+
+017 MAN (39)
+
+yóʔhʌ
+
+hʌ́ihʌi 018 PERSON (41)
+
+*wok̂ ɨrɨ *wɨtoto
+
+019 FISH (138) 020 BIRD (127)
+
+*kana PT *torono
+
+iɲ̃ õ 021 DOG (101) 022 LOUSE (143)
+
+*akôrô *kaikuti
+*(w)ajamô
+
+023 TREE (152)
+BRANCH
+
+-pé ‘selva’
+
+PT *epɨ ‘trunk’
+
+-də, -ta ‘tree.Cl’ *wewe/jeje
+
+-dṍka
+
+PT *ipəri ‘branch1’ *ekata ‘branch2’ *apo-̂ rɨ ‘arm’
+
+024 SEED (159)
+
+-kápə ‘seedpod’ *op̂ ɨ(-tɨpô)
+
+(cf. -pə ‘belly, *a-tɨpô
+
+pod’)
+
+*a-rɨ
+
+*on̂ a-tɨpô
+
+wá-tu-rá ‘woman w/o children’ **-gaï wá-tu-ruj̰́ ‘woman w/ children’ wá-tuj
+wa-́ nṵ
+
+nih̰ jaa̰ ̰mḭ́ (nij̰ -ha̰am̰ ḭ́j) ‘fat/3SG.animateperson’
+
+**()mḯnaï
+
+kíwá̰ wíitʃej
+
+nḭmbjíí
+
+**xı̈̅ʔko
+
+*gai-ge (mɨ́ámḯna-́ ge)
+*gai-ppi *tsaa-ppi *mɨ́amḯnaa
+(táaβa), (amoó b́ e) (xéeḯ ), (koomɨ́ko), (cě ʔréï) (xḯkko), (ooʔííbe)
+
+ndudnḭ́ (possibly ndundnḭ́) nín̰ ṵ
+
+*gaá iniʔo, *gai(ʔtex́ ɨ) ?**(ai)̈ me() *ḯme-ʔe
+
+-tii ‘CL.extremity.of.branch/ antenna/insect-paw’
+
+ha-tandíí
+
+*battso-́ (), (neé b́ aba) (painéβa-ï)
+
+(dï-goï) (mimi) *ïʔí (komḯni)̈
+*hı̈ʔ̅ ko *amẽ́na
+(naiβini)
+
+APPENDIX 1. The Swadesh 100 list for Proto-Cariban, Andoke, Yagua, and Proto-Witotoan.
+
+Andoke
+
+Cariban
+
+Yagua
+
+025 LEAF (153)
+
+*jare
+
+naẃ̰ ḭ
+
+-ɲeko 026 ROOT (158)
+
+*mitɨ
+
+hṵ́nṵtij
+
+027 BARK (264)
+
+*pitupô ‘bark, skin’ haj
+
+028 SKIN (31)
+
+029
+
+FLESH/MEAT (265)
+
+-tasi ‘skin,
+
+*pitupô ‘bark, skin’
+
+leather, cover’
+
+*punu ‘flesh / body’
+
+haj sawij
+
+Proto-Witotoan P-BM
+*(ɨ́na)-ʔáamɨ, (-xḯḯʔoó) (mɨ́ɨ́їmї)
+
+(continues) P-HO
+
+*ba(i)(k)ké-(ʔeke) *ba(́ i)(k)keé, (-tane)
+
+*(koo)-mɨ́ɨ́ʔo, (ḯmeʔ́ e)́ , *(?-aǰḯe)-mɨ́ɨ́ʔo
+
+*(iaá ́be) (me)́ -ʔmɨ́ɨʔe(é)
+
+?*()niʔgaï
+
+*eé ḱ oó, *doo-́ (xeʔe), *(táí)- *(daihíʔka)
+
+do, (atsímї)
+
+*õʔã́-(tї)
+
+*õʔã́-(ĩhĩ)
+
+Is Greenberg’s “Macro-Carib” viable? 46
+
+030
+
+BLOOD (33, 266)
+
+-dusé
+
+031 BONE (32) 032 EGG (268)
+
+033
+
+GREASE/FAT (267)
+
+-tanə́ -had́ ə kẽ́iʌ, tubã
+
+*munu-ru
+*j-ôtîpî-rî *pumo *katɨ
+
+nun̰ da
+
+**tї-xe(̃ ʔe)
+
+ndúú
+hiwandá
+nḭj- ‘fat’, níndií ‘prepared fat for eating’, raatjeja ‘soup fat’
+
+*tḯḯ-(xeʔ́ e) *tḯḯ-(ppaiko)
+*baḱ kïḯ *ííʔyḯї *dḯїrїba
+
+*tïhẽ́
+*hḯ *pa(de), *pa(ihĩ)
+
+-si ‘horn, thorn, *retɨ-rɨ 034 HORN (269) point’
+
+035 TAIL (121)
+
+-nətá ‘tail, stern’
+
+*arokɨ ‘tail, penis’
+
+-ɲefʌ 036 FEATHER (270)
+
+*apôri-rɨ PPek *aroko
+
+tuj̰ uroó
+mus̰ íj
+mṵ́ hasíj ‘hair, small feather’, nḭpya ‘wing’
+
+**(m)óka(x)їʔto *(óka)-(x)ítto (iyaá ́betto)
+
+?**(ib)oʔoo
+
+(ííboʔo), (boǵ aa)́ , (gagáaí́ βe)
+
+?**(ga?a)pe ‘fly-3’
+
+*ɨ́ʔxɨɨ-ne, *x-ne ‘feather’
+
+?*(mo)́ kaї(to) (oʔoo) *()pod́ o
+
+037
+
+HAIR (10; 243)
+
+-kabe ‘head hair’
+
+*(e)tipotɨ-rɨ
+
+hasíj -mu ‘CL:feather’ yg-P
+
+*ɨʔ́ xɨɨ-ne ‘body hair’ *nígaï-xɨɨne ‘head hair’ *nígaї-(ko) ‘head hair’
+
+(tapã́ĩ́hĩ) ‘body hair’ *їʔpoʔtї()‘head hair’
+
+APPENDIX 1. The Swadesh 100 list for Proto-Cariban, Andoke, Yagua, and Proto-Witotoan.
+
+Andoke
+
+038 HEAD (8)
+
+-tai
+
+FOREHEAD (9) -tud́ u
+
+039 EAR (7)
+
+-bei
+
+040 EYE (6)
+
+-aḱ ʌ / -ʔákʌ -ɲesidiákʌ ‘eyebrow’
+
+Cariban *pu-tupô *pe-rɨ *pana-rɨ *on̂ u-ru
+
+Yagua
+
+Proto-Witotoan P-BM
+
+hṵnó̰
+
+*nígaї
+
+mó,̰ moó̰ ̰́
+
+*ḯmɨko
+
+tuwaá̰ ̰j
+
+??**()po
+
+*nḯxï-mɨɨʔo
+
+nḭsíj hun̰ ut̰́ ja̰á̰ possibly from ‘protect, watch over, ‘heart, pulse’?
+
+*(me)-ʔáaǰ́ ïï
+
+(continues)
+P-HO (otó-kї) (otó-kї) (hepo) *ohí-(tï)
+
+Bol. Mus. Para. Emílio Goeldi. Ciências Humanas, Belém, v. 2, n. 2, p. 19-72, mai-ago. 2007 47
+
+041 NOSE (5) 042 MOUTH (2)
+
+-pəta -ɸí
+
+SALIVA
+
+*oŵ na-rɨ *mɨta-rɨ
+*ot̂ aku ‘saliva’
+
+-koń ĩ 043 TOOTH (4)
+
+*(j)o-̂ rɨ
+
+044 TONGUE (1) -sonə
+
+*nuru
+
+045 CLAW (271)
+
+-dʌka 046 FOOT (29)
+
+*pupu-ru PT *htôpu ‘heel’ *pu(pu)-tôpu ‘heel’
+(foot’s stone) *pɨta ‘sole’
+
+047 KNEE (27)
+
+-kodoí
+
+PT *(w)ereːna *ôtjôkumu-ru
+
+-domĩ 048 HAND (22)
+
+*om̂ ija-rɨ *amo-rɨ
+
+049
+
+BELLY (244, 272)
+
+-pə ‘belly, pod’ PT, Ap *waku-ru ?*(e)wenɨ ?*wetVpu
+
+nṵrṵ́ṵ hṵtoó ́ -hṵ (inalien) hṵríí ‘saliva’
+ha̰a̰ndá
+ndaatʃíj haŕ oosíj
+nṵḿ ṵtú
+
+**topo-(ʔo) **(-)po(e)
+
+*tḯxї-ʔ, *tḯxї-ʔ(exї) *íiʔ-xї
+
+*topo *poe
+
+**po(e)-no-() ‘saliva’
+??**iiʔ-gi()
+
+*xḯï-(rɨ) *xïï-(ní-ba) ‘saliva’
+*ííʔ-gáí-neé ‘tooth-finger,? *(me)́ -ííʔga(́ xɨɨ́)
+
+??*pó(e)(no-hĩ) ‘mouthliquid’
+*iʔtiʔ-to
+
+??**()pe **()-(k)aї-(be)
+
+*(me)́ -ʔnɨ́xɨ-
+*(me)́ -ʔóttsɨ́-gai-mɨ́ɨʔo *(atsi)-ʔóttsɨ́-gai-mɨ́ɨʔo
+
+*(h)ĩyḯʔpe
+(onó-k(aї)be)
+
+*(mé)-ttḯ-ʔaaáí
+
+*eʔyḯ-()
+
+handasíj
+homut̰ ú vi-niteli (Peba- Rivet)
+pḭ́jetʃuuj ‘stomach’ púnij̰ ej̰ ‘stomach, belly’ wumṵ́ ‘stomach, belly, entrails (inalien), interior’; tana̰síj ‘bird stomach’
+
+**xeʔbae-()aї **xebae
+
+*(mé)-mɨ́mo-() (xóoń oga, xeé ń oga) ‘shin’
+*(me)́ -ʔóttsɨɨ́
+*(me)́ -íiʔba(́ ї) (xɨ́ɨbїї) ‘belly’
+*(me-́ ke)-máččo-(ї) mać ̌cǒ -(xota) ‘stomach’
+
+(kainї-kї)
+*onõї
+hebae, *(he)baegoї()
+
+Is Greenberg’s “Macro-Carib” viable? 48
+
+APPENDIX 1. The Swadesh 100 list for Proto-Cariban, Andoke, Yagua, and Proto-Witotoan.
+
+050 NECK (13)
+
+Andoke -ɲekə̃́i -ɲeé ‘breast’
+
+051 BREAST (15)
+
+Cariban
+*pɨmɨ-rɨ
+*manatɨ-rɨ PT *tʃutʃu ‘milk’
+
+Yagua
+
+Proto-Witotoan P-BM
+
+hṵtunuw̰ uṵ́ ̰
+
+(ked́ áaʔ́ ɨ), (meḱ éttïʔi)
+
+nduutúuj ‘chest, thorax’
+
+**mo(̃ ʔpai)naï
+
+nduutundí ‘chest, sternum’, hit̰ ja̰á̰ ‘woman’s
+
+(-ha̰á̰ = ‘liquid’ classifier)
+
+breast’,
+
+‘chest, breast, teat’; pene ‘breast’ **xebae-gaї
+
+(Yagua-Rivet)
+
+‘chest’
+
+*(mé)-mḯppaine
+*(mé)-ppɨ́ɨï-xɨ ‘chest’ *(xɨ́ɨbïïga, kḯïdïï) ‘chest’ mɨ́ɨ(kko)ʔo ‘chest’
+
+052
+
+HEART (GUTS) (34)
+
+*oŵ anô
+
+haatʃíj, hun̰ ut̰́ jaa̰ ̰́ [hun̰ uy̰ ‘live’]
+
+?**ko()
+
+*(kḯïdïï) *(mé)-xɨ́ɨbїї
+
+053 LIVER (273) -tú 054 DRINK (274)
+baʔi 055 EAT (275)
+056 BITE (276)
+
+*ôre *woku-ru (N) *on̂ ɨrɨ (V)
+*[t-]on̂ ô ‘eat meat’ *[t-]ôku ‘eat bread’ *aku ‘eat nuts’ *on̂ apɨ ‘eat fruit’ *ôt-ôku ‘eat’ (v.intr)
+*ôteka
+
+suka̰tju,́ hṵwatu
+
+??**(ʔg)an(oxi) *(me)́ -íʔgá-né
+
+hatú ‘drink’ (V)
+
+**xido
+
+hatoó ́ ‘go to drink in other
+
+location’
+
+tuutuú ‘drink’ (V used with children)
+
+*ado, (ádїkḯnї)
+
+himjḭ́j ‘eat’ mṵtʃḛé j̰́ ‘suck’
+
+**d(o)ʔ ‘eat meat’ **goĩ̃ (ne) ‘eat fruit’
+
+*doo-́ (ʔ) ‘eat meat’ *geéne ‘eat fruit’ *macč ̌o
+
+sandó ‘bite, give electric shock’; sṵ́uj̰ , suṵ m̰ jṵtúuj ‘chew, bite’; toj ‘bite and take in pieces’
+
+*ɨɨʔdo, (dɨgḯkkї) (denókko), (dɨ́geʔxḯkï)
+
+057 SEE (277) 058 HEAR (278) 059 KNOW (279) 060 SLEEP (280)
+061 DIE (281)
+
+*on̂ e
+*ot̂ a PT *waːrə (postp) *putu (Vtr)
+*wônɨkɨ ‘sleep1’ *wetu(mɨ) ‘sleep2’ PT *apəepɨ PPar *wajipɨ
+
+ndíj ‘see, know’ hun̰ uj̰́ ‘see, look at, watch, show’
+
+tuwaa̰ t̰ ʃú ndaá t́ ja
+
+**gaka
+
+híítuuj má̰j
+ndiíj
+
+*aittḯmɨ(ɨɨ́té), (mɨ́ɨkkї) (dḯxїḯ), (їḯxe)
+*geébo *gaaxá(-kï) (piiβet́ e)
+*kïga
+*gɨxɨ́-βe (cě é ́me)
+
+(continues) P-HO
+*mõnoï *(he)baegoї() ‘chest’
+*kome(kї)
+(banoh́ i) (hido)́
+*dїʔ-(te) *()tõ() ‘eat fruit’ *goĩ̃ ‘eat fruit’ *ain̈ ĩ́
+*kaká (áka)
+(i)nḭ̈́
+(dzїí)
+
+APPENDIX 1. The Swadesh 100 list for Proto-Cariban, Andoke, Yagua, and Proto-Witotoan.
+
+Andoke 062 KILL (282)
+
+Cariban
+*(t)wô(nô) ‘kill, shoot’ PT *pɨnə[pɨ]
+
+Yagua
+
+Proto-Witotoan P-BM
+
+nduú ́ ‘kill by blowgun or
+throwing; do witchcraft to someone’; huwáj ‘hit, fight, kill’; hántjuunuw̰ aj̰ ‘kill, torment’; mṵ́nṵ ‘kill, allow to die’
+
+*gɨ́xɨ-βé-tso *gɨ́xɨ-(nї) (gáikkaá o) (gáїїїʔaŕ o)
+
+(continues) P-HO *()ne(ʔ)-()
+
+063 SWIM (283)
+
+064
+
+FLY (284) FLY (141)
+
+065 WALK (285)
+
+PT *werewere (N) ‘go with wings’
+*[w-]ot̂ epɨ ‘come1’ *[w-]ômok̂ ɨ ‘come2’ *[wɨ-]to[̂ mô] ‘go’
+
+nṵnḭ́j
+
+** íʔ̰ tḯ
+
+ratje ‘stretch, arrange, heal, fly’; ?**(gaʔa)pe
+
+hiḭ́ ‘fly’ (V)
+
+---
+
+nurṵ́ ‘fly sp.’ (N)
+
+**gïnikaï (N)
+
+rupʷíij
+
+*ïttsï
+*gaʔape (gaaméne) (gíinixa), (ééteba), (tsїïʔéï), (naʔba) (N)
+*g̈ e, (tadḯʔkї), (rixákko), (peé)
+
+*їʔї
+(pee) (daiʔi) --*(їní)kї (N)
+*maká(di)
+
+Bol. Mus. Para. Emílio Goeldi. Ciências Humanas, Belém, v. 2, n. 2, p. 19-72, mai-ago. 2007 49
+
+066 COME (286)
+
+067
+
+LIE [DOWN] (287)
+
+*[w-]ôtepɨ ‘come1’ *[w-]om̂ ok̂ ɨ ‘come2’
+
+hṵníj̰ tirjó,̰ tírjo̰
+
+068 SIT (288)
+
+069 STAND (289)
+
+070 GIVE (290)
+
+yi-kə̃́-ẽĩ ‘Give him something!’
+
+071 SAY (291)
+
+PT *ewai ereuta Hixk, Mak
+n-aun, n-aumu Tiriyo nawoːmɨ-i ‘stand up’ Karinya-Sur
+
+mas̰ á
+nuúm̰ béésumij̰ ‘stand up’ (hasumḭy = ‘go up, ascend’), nuḿ̰ béeś ij
+
+*utu ‘give, put’ *[t-]ɨrɨ ‘make, do, give, put’ PPar *[tɨ-]mɨ *ekarama ‘gift O (with something)’ *arama ‘put away’
+*[w-]ka[ti] ‘say1’, *a(p) ‘be1, say2’ PV *tarô ‘say3’
+
+sa̰á̰j
+hṵut̰ aj́ , nik̰ ee ‘talk’
+
+*tsaá-(pé), (náʔxɨʔe)
+*(tsḯo)-kїnї (áaḱ a-ne) *(to)́ -g(ɨ́)ḯ-kkїnḯ *kagaá í́ -(βe) *(ak)ïї-kkїnї *kaʔts(її)βe *(čai)ʔts(ii)βe ?*(gaameń e) *(í)xo(k)ḯḯβe
+*akkї (ex́ ekkaǰ́ o, ex́ ekkaí go)
+
+(bíʔ-te), (a, e, i, aihi)
+*naiʔtai *hiʔ-(te)
+
+*xїїb(aí )ge *neé, (iʔxḯβa)
+
+Is Greenberg’s “Macro-Carib” viable? 50
+
+APPENDIX 1. The Swadesh 100 list for Proto-Cariban, Andoke, Yagua, and Proto-Witotoan.
+
+Andoke
+
+Cariban
+
+Yagua
+
+ĩɒ̃ 072 SUN (64)
+
+*weyu *titi ‘sun2’
+
+hinjḭ́; wana (Peba-Rivet) raitarra (Yameo-Rivet)
+
+Proto-Witotoan P-BM *kóoxɨ́-e(ppi) nїʔï-ba
+
+DAY (67)
+póʔdəə̃ 073 MOON (65)
+
+(‘sun’)
+PT *nunnə *nunô
+
+hṵnda runda
+wṵhjḛḛj (= wṵj + haaj ‘our + father’) hanḭmjṵrí,̰ harimjun̰ ḭ́
+
+*koó xɨɨ́
+*peḱ ko-́ e(ppi) nïʔї-ba
+
+074 STAR (66)
+
+*tirikô
+
+hun̰ daritʃíj [Contains root for ‘day’? Some (mild?) taboo on referring to stars with this word?]
+
+?**()ʔkoʔdo()
+
+*mɨ́ɨ́kḯrї-gai
+
+dúʔu 075 WATER (48)
+
+*tuna
+
+ha̰á̰ (also = ‘CL.liquid’)
+
+**no-̃ ()
+
+*nḯ-ppaiko [water-liquid]
+
+də-́ i 076 RAIN (62)
+
+ɸisi
+
+077
+
+STONE (73, 251, 55)
+
+078 SAND (74)
+ɲoʔ̃ ĩ 079 EARTH (72)
+CLOUD (247) 080 [CLOUDS AT
+REST]
+
+*konopo *top̂ u
+*saka(w) *samutu *nono ‘earth’
+*kapurutu
+
+ruṵ́ ḿ̰ ṵrá (N) ruṵ ̰mbondá
+há-witʃṵ́ ra-́ witʃṵ́ wandanjṵ́ ‘species of stone’, ‘cascajo’
+tḭ́tʃaa̰ ̰,́ sintjatḭ́ ‘sand for polishing blowguns’(from sintja ‘polish blowgun’)
+muḱ̰ andíi, mṵ́ko, muḱ̰ i -ko (CL.earth), nun̰ ḭy ‘garden, field’
+nuw̰ atʃíj ‘cloud, smoke’ raṕ urjehéj ‘storm clouds’ waḱ andahuukii ‘quiet clouds’
+
+**nõ-xĩ
+
+*nííxa-ba [water-?]
+
+**goti ‘stone, *gíitsi-ba
+
+rapids’
+
+(neǵ ai-(ne)-ї)
+
+(gíítsïï) ‘pebbles’ ?**(k)onigïĩʔĩ *(xíí)né-gai-yḯ-?-ai
+
+**xáénïʔ̰ -xẽ *xíínï-xɨ
+
+**xi(moo)ʔpiʔo
+
+(áimoó -́ ppai(ʔ)o) (βaaḯmeítḯne ottso)
+
+(continues) P-HO (hiʔtoḿ a) (neé ń a)
+*móna
+*pї()
+*oʔkoʔ́ to
+*(haї-)no-̃ hĩ [?-waterliquid] *nõ-(kї) *no-̃ (hĩ) (nopḯ-kї) (gotíʔ-kї)
+??* (koni) dzїїʔ(ї̰)
+*aenïʔ̰ -ẽ *aenїʔ̰ -doẽ ̃
+(hiʔpíʔo)1
+
+Bol. Mus. Para. Emílio Goeldi. Ciências Humanas, Belém, v. 2, n. 2, p. 19-72, mai-ago. 2007 51
+
+APPENDIX 1. The Swadesh 100 list for Proto-Cariban, Andoke, Yagua, and Proto-Witotoan.
+
+Andoke
+
+Cariban
+
+Yagua
+
+081 SMOKE (59)
+
+nuw̰ atʃíj ‘cloud, smoke’ naẃ̰ atʃij ‘cloud, smoke; fragrance, smell’ hiindawatʃíj híindáj = ‘fire’
+
+Proto-Witotoan P-BM
+
+**xi(moo)ʔpiʔo
+
+(aí moó ́-ppai(ʔ)o) (ottsoї)
+
+082 FIRE (56)
+
+ʌʔpa
+
+*wepeto *mapoto
+
+híindáj
+
+*kḯḯxi-̈ gai (kotsííbai)
+
+083 ASH (57)
+POWDER, DUST (372)
+
+084
+
+BURN (VINTR) (292)
+
+085 PATH (85)
+
+?*wôreiCV
+*jatu (Vintr) *uk(w)a (Vtr) *ôtema(-rɨ)
+
+puṕ uhurú hiru, huru
+
+**xaé ́nї̰ʔ-()
+
+piisijḛ́j; píísiij ‘iron’ (V); ‘burn’, rúpaj ‘burn, light (a fire)’, nut̰ ʃa ‘burn completely (Vtr)’
+
+man̰ tjá nṵ́
+
+**(na)xї̰
+
+*báí-giíxï
+*pa-́ giixї *(xííni)̈ -giixї
+*(xїgatso) (mɨrai-βe) (áiiβétso) (kat́ sїʔxaḱ o)
+*xïḯ-()
+
+086
+
+MOUNTAIN
+(293)
+
+dedai
+
+*(w)ɨpɨ
+
+‘mountaintop’
+
+087 RED (294)
+
+peɒ-i ‘red’
+
+PT *t-aːmiː-re ?*t-a(k)pi-re
+
+paʔ 088 GREEN (295)
+
+089 YELLOW (296)
+póʔte-i 090 WHITE (226)
+
+*t-a(re)mutu-ne PT *kananamano
+
+mus̰ íj
+ruú náj̰ wá-randa ‘reddish’ wa-́ rannda ‘reddish’ wa-́ ranndapó ‘reddish’ haatjá ‘raw, immature’ suń ṵ ‘blue, green’ wa-́ sunṵ́, wá-sunun̰ á̰j wa-́ sunun̰ díí sunundííwaj ‘be anemic, palid’
+há-paru, wa-́ paru paŕ uuj ‘become ?**(o)te(te) gray, white’ pupá
+
+*gáxïḯ *kaḿ e-(βo)-gax́ ï *baá ïḯ *kaḿ e-(βo)-ʔbaá ї *tḯ-ppai-ne cf. ‘blood’
+*aittḯβá-ne
+*gíí(-giβa)-ne *gí(-kká)-ne-(ḯβḯ) *tsɨ́tsɨɨ--ne
+
+(continues) P-HO (hiʔpííʔo)
+(idaí -kї) *aenї̰ʔhiβod́ a
+?*tḯ(do)(p)e(ta) *nahї̩(to)
+*hĩãї(̰ hĩ) *mokó-() *boda (ote-de-te)
+
+APPENDIX 1. The Swadesh 100 list for Proto-Cariban, Andoke, Yagua, and Proto-Witotoan.
+
+Andoke uɒ-i 091 BLACK (227) tí-pʌdə̃
+
+Cariban ?*t-puru-me/ke
+
+Yagua
+wa-́ ndaku wá-nṵku
+
+Proto-Witotoan P-BM
+
+?**(xi)ʔtї-()
+
+*kḯβe-ne (bat́ tїne)
+
+(finished) P-HO *hiʔtḯʔ-()
+
+092 NIGHT (68) 093 HOT (223) 094 COLD (222)
+
+*koko ?*atu(NV)
+atono *t-ɨnotɨ-me
+
+nṵ́poorá
+wa-́ ndakíí wa-́ nik̰ ií wá-nṵkií wa-́ nó̰ ‘lukewarm, hot’
+kanṵwṵ wá-kanṵwṵ́ súndoo
+
+*pekko
+*áígookko-́ né (peé ́meβako-ne) (gań oḱ óo-́ ne, gánékóo-́ ne)
+*tsїḯko (dáɨ́ʔkoo)́
+
+*naï() *doti(-de-te)
+
+095 FULL (297)
+
+mír̰ janṵ, muŕ̰ janú, panuh̰ ó (thing), póoń jṵ (animal or person), mṵtʃanit̰ ʃḭ́ ‘full person/animal’, hit̰ om̰ a̰ ‘be full, be enough’
+
+*gaʔape-né *(tsane) gaʔ́ ap(e)(k)kïnḯ-né (gáíttóokï)
+
+096 GOOD (224)
+
+*kure
+
+saḿ wḭj, sámuj̰ , saḿ wɨ̰ ‘pretty, ?**(e)mea(́ d)e good, clean, beautiful, delicious’, rántjeé ‘good, pleasing, suited, suitable’, wá-seé ‘straight, true, right, correct, good’
+
+*imí-ne *imí-(gayï) *(ɨ́mɨáa)́ -ne
+
+(made)
+
+Is Greenberg’s “Macro-Carib” viable? 52
+
+097 NEW (298) 098 ROUND (299)
+099 DRY (300) 100 NAME (301)
+
+PT *kaenano *ôtetɨ
+
+wá-ndi ‘new, recent’, hṵj́ -, wṵj- [prefix] ‘new, recent’
+
+wá-tato̰ ‘round, circular’ wa-́ tṵṵnṵ́ ‘round’ wá-tuuríij ‘round, spherical’
+
+?**(i)paї
+
+hiikań da ‘dry branch’ wa-́ ndsa [cluster due to vowel deletion between two alveolars] wa-́ sá, wa-́ ssa,́ wá-tsá susaá̰ ̰́ ‘dry sth.’ (V) wíirú, wúdnṵ (probably wúndnṵ), wúnṵ ‘dry, powdery; ruined’
+
+hit̰ já
+
+**maime
+
+*béʔe-ne
+?*(ékɨ́i) (-tɨɨrɨ, -teerɨ, -tɨɨre) *(pá(i)geβeʔ́ roï) *pá(tte)́ ï (píígai-ne) (aŕ aaβeń e) (daá ŕ ɨ-ne)
+*meme
+
+(ikoípoї) ?*(hã́ʔ)ta(pe-́ dete)
+*mame
+
+Bol. Mus. Para. Emílio Goeldi. Ciências Humanas, Belém, v. 2, n. 2, p. 19-72, mai-ago. 2007
+APPENDIX 2. Greenberg’s Macro-Carib etymologies compared with modern data.
+This Appendix lists all Greenberg’s (1985) proposed Macro-Carib etymologies, divided into two parts. Part I contains just those putative Macro-Carib forms that he did not propose also extended to Proto-Amerind. Part II contains putative Macro-Carib forms that he believed did pertain to the Proto-Amerind etymologies. For each proposed etymon, Greenberg’s data is given in the first row in bold italics. Our ‘modern’ data is given in the second row. Numbers in the first column refer to Greenberg’s Macro-Carib etyma numbers. We continue to be interested in offering the maximum number of possible cognates, so again, we have sought to put as many forms as possible in each cell of the table. We are not concerned by repetition of forms in the table, as these rows do not represent putative cognates, but only a selection of forms within which cognates may be sought.
+Occasionally we have listed specific Witotoan language forms (particularly when Aschmann (1993) has no relevant reconstruction): B = Bora, M = Muinane, O = Ocaina, Hp = Nɨpode Huitoto, Hn = Mɨnɨca Huitoto, Hr = Murui Huitoto. Additional sources consulted in such cases are Burtch (1983) for Murui Huitoto (Hr), Leach (1969) for Ocaina (O), and Thiesen and Thiesen (1998) for Bora (B).
+53
+
+APPENDIX 2.1. The Macro-Carib etymologies.
+
+Andoke
+
+Cariban
+
+Peba-Yaguan ətenua
+
+Proto-Witotoan
+
+(continues)
+
+Is Greenberg’s “Macro-Carib” viable? 54
+
+1 ANT 2 BEAUTIFUL 3 BEHIND 4 BLACK 5 BOW 6 BRANCH 7 BREAST 8 BUTTOCKS
+
+-da (Cl)
+ɸəʔɲe-i -tã́
+
+*iraka, PPar *tukuyi, *kɨjawôko, juku, mɨkakô
+*kuule, kure, kxura all: ‘good’ *kure
+?*(n)mapu(nu)
+
+Mekorom, maɣeneng
+
+uɒ-i tí-pʌnə̃
+
+?*t-puru-me/ke mekoro <Eng negro Bak. t-əmɨguɨ-ne
+
+pãha-̃ se ‘arrow’ ĩ-kə̃
+
+*taku *wɨrapa-rɨ
+
+-nṍka; -də, -ta ‘tree.Cl’
+-ɲeé
+
+ipolire, porirə, pəli PT *ipəri-rɨ
+manate, mangu, emane
+*manatɨ-rɨ PT *tʃutʃu ‘milk’
+
+-nə̃dé
+
+*pupɨtɨkɨ
+
+hat́ ḭ ‘army ant’, hít̰ yiinṵ́ ‘ant sp.’ “sitaracuy”, nuɲ̰ ṵ́ ‘large black ant w. painful bite’, taṕ ṵɲṵ ‘ant sp. similar to isula, army ant’
+saḿ ḭj, sámṵj- ‘beautiful, good’ mowe mut̰ a̰as̰ á, hus̰ íj ‘behind’, -mo-̰́ wa ‘in front of’ (< mó̰ ‘forehead + -wa ‘in, along’) [michalay]
+wá-ndaku, wá-nṵku
+kaa̰ n̰ ṵ́ ‘bow’, haá ́tʃitya̰á,̰ ruweé ́, ruweeroó all: ‘arrow’
+-tii ‘CL.branch’
+nduutuú j ‘chest, thorax’, hit̰ ja̰á̰ ‘female breast, chest, teat’ (cf. -ha̰á̰ ‘CL.liquid’) teli tíndiy, tundiy ‘buttocks’
+
+BM *píime(ba), HO *(dakḯ-goї)
+xarooga
+?**(e)mea(́ d)e ‘good’ moi-, muun BM *(tsatsíi), *(-βї) ‘at’; Hp/Hn/Hr -mo ‘at’ (Aschmann, 1993); BM *ḯmɨko ‘forehead’
+mukohørike, mokoreti, mokorø all: ‘blue’ ?**(xi)ʔtї-() BM *kḯβe-ne (báttïne) HO *hiʔtḯ-()
+tɨkuiña, otaki ‘arrow’ **tï(); BM *táí-tḯḯbo-ga; HO ?*k(oe)- ti(̈ ) all: ‘my bow’. **tï(); BM *gáínїḯ-ga, *tïïbó-(ga); HO *(kaníʔta) all:‘arrow’ iforo ?**(aї)me() ‘tree’ **(aї)me-nai-() ‘stick’ mono, monoɨ, omonyhy, munia ‘milk’, monnø **mo(̃ ʔpai)naї ‘woman’s breast’
+tirao Hr moil̃ lɨ iduraɨ,̃ O haɲä á ́nhun, B déjuu
+
+Bol. Mus. Para. Emílio Goeldi. Ciências Humanas, Belém, v. 2, n. 2, p. 19-72, mai-ago. 2007 55
+
+APPENDIX 2.1. The Macro-Carib etymologies.
+
+9 CHEEK
+
+Andoke -kʌta (jaw)
+
+Cariban paxo, ipæpok *peta
+
+10 CHEST
+
+-tú-ta-nə̃
+
+11 CLOSE (V)
+
+y-ʌ-a-diko (Ciérralo!)
+
+*puropɨ-rɨ
+apu, ot-apu-raz, apuru *apuru (Vtr)
+
+12 DEER 13 DOG 14 DREAM 15 EARTH 16 ENTER
+
+peʔtoʌ toʔbeõ ĩĩīɲõ
+yóʔkoi kə̃ʔéi
+
+*kaha, kosari, [coze], kxose-ka
+*(wɨ)kapawu, *karijakô, kosô, PV *waikini
+okori, kule, jeki
+peru, weroro (< Sp. perro) *kaikuti ‘jaguar’ *akôrô ‘jaguar’
+nik, [gu-enequi-az] both: ‘sleep’
+*wônɨkɨ ‘sleep1’ *wetu(mɨ) ‘sleep2’
+
+nõ he ɲõʔĩ
+dia-to nõ yi-ẽʔíḭ (yi-a-tõ ‘go underwater’)
+
+*nono
+eta, ida, ta all: ‘inside’ *[w-]ômô(mɨ) ‘enter’ *tawô ‘inside’
+
+(continues)
+
+Peba-Yaguan
+
+Proto-Witotoan
+
+fa’xon
+
+may̰ á
+
+upeko ‘neck’
+
+mex-pikua, bagoo’ja, ogob
+
+hṵtunṵwṵú ̰ ‘neck’, nduutúuj ‘chest, thorax’
+
+**xebae-gaï
+
+ipua
+
+puŕ ji- ‘closed’, pirjej (Vintr) ‘close [road, Hr ɨbaìde; O booʔtu, dʒabooko;
+
+tube]’, ‘become cloudy’, puŕ jee (Vintr)
+
+B áβoʔjaḱ o, kábeeʔáko all: ‘close’
+
+‘close [road, tube]’, ‘become cloudy [sky]’,
+
+‘close eyes’
+
+[göhsu], kyto, kiddo, keto, xoo’tjo
+
+háná̰riy
+nḭmbjíí ‘dog, jaguar’; kań o̰, kádnó̰ ‘tigrillo’
+
+??**()kï(); BM *níiβï-gai, *xiíbai; HO *kïʔto
+høku ‘dog, jaguar’, eikø, oko, ho’xo **xḭ̈ʔko ‘dog, jaguar’
+
+neka-ide, no’xaajǒ
+
+híítuuj ‘sleep’
+
+BM *kïga ‘sleep’;
+
+maj̰́ ‘sleep’
+
+HO *(i)nḭ̈́ ‘sleep’
+
+ma̰rjiḭ s̰ a ‘dream (v.)’ (historically complex)
+
+muḱ̰ andíi ‘earth’, nṵniy̰ ‘garden, field’
+wimṵ́ ‘inside, inside of’, nduú ́ ‘shoot/hunt by blowgun, blow’
+
+jinioxee, injuhe, na;aaxo, nanexe **xáeń iʔ̰̠̈ -xḛ
+du ‘penetrate’ ?**(ka)pai() ‘pierce’, ?**(t)aiʔ̈ de ‘dig’, **poonoʔ ‘blow’; B boó, buuú ́βe ‘penetrate’
+
+APPENDIX 2.1. The Macro-Carib etymologies.
+
+(continues)
+
+Is Greenberg’s “Macro-Carib” viable? 56
+
+17 EVENING
+EXCREMENT
+18
+19 EYE 20 FAT (OIL)
+21 FOOT 22 FOREHEAD 23 GIVE
+
+Andoke
+
+Cariban
+
+Peba-Yaguan
+
+Proto-Witotoan
+
+nejejma hʌʔpʌʌ́
+umahe-hëh ‘I defecate’ -ɲé ‘feces, entrails’ o-maʔ̃ i-i ‘I defecate’
+
+*koko ‘night’, *kok-mamɨ ‘nightfall (v.int)’
+*wetɨ/*watô ‘feces’, *weka ‘defecate’
+
+ñuwa nṵṕ oorá
+dometjina ‘latrine’ (hṵ)wṵdi ‘feces’, kina̰j ‘defecate’
+vi-nimi-ši, we-nin-se
+
+naɨɨo ‘night’ BM *pekko, HO *naï ‘night’
+namee, ma-name, nemu, nemoon’in Hr nemuìe; O numö onhin; B name all: ‘excrement’
+tha-njemi ‘forehead’
+
+-ákʌ/ -ʔákʌ ‘eye’ *ônu-ru -ɲesidiákʌ ‘eyebrow’
+
+nḭsíj ‘eye’, hṵnṵ́tjaa̰ ̰́ ‘eye’ (from ‘protect, BM *í̈mɨko,
+
+watch over?’), mó̰, móo̰ ̰́ ‘forehead’
+
+HO *(otó-kï) ‘forehead’
+
+kehə ‘oil’
+
+kwi, kwihi, kwahihi ‘oil’
+
+kẽ́iʌ,
+
+*katɨ ‘fat (N)’
+
+nḭj- ‘fat’ (adj.),
+
+tubã
+
+nín̰ dií ‘fat, lard’ (n.),
+
+raatjeja ‘soup grease’ (n.)
+
+BM *dḯїrїba ‘grease’; HO *pa(de), *pa(ihĩ)
+
+*tapu ‘heel’, utapo ‘footprint’, idebu
+
+ko-itebo, etaiboi, topuuxo ‘heel’
+
+-dʌka
+
+*pupu-ru
+
+nṵḿ ṵtú ‘foot’, haŕ oosíj ‘heel’
+
+PT *htôpu ‘heel’
+
+*pu(pu)-tôpu ‘heel’ (foot’s
+
+stone)
+
+*pɨta ‘sole’
+
+BM *(mé)-ttḯ-ʔaaáí, HO *eʔyḯ-() both: ‘foot’
+
+mwɔ, (vi-)mo
+
+tha-iimi, (me-)mi, ʔɨme ‘face’
+
+-tud́ u
+
+*pe-rɨ
+
+mó̰, moó̰ ̰́
+
+BM *ïḿ ɨko
+
+yi-kə̃́-ẽ-ĩ ‘give him something!’
+
+i ‘put’, ï(rï) ‘put, give’
+
+i
+
+*utu ‘give, put’, *[t-]ɨrɨ sa̰aj̰́ ‘give’, baj ‘put, put away, guard’, tohá ‘make, do, give, put’, PPar ‘put’ *[tɨ-]mɨ ‘give’, *ekarama ‘gift (Vtr)’, *arama ‘put away (Vtr)’
+
+BM *akkï, HO *hiʔ-(te) both: ‘give’
+
+24 GO
+
+ta-boe ‘he goes’ he-̃ ə̃-ka ‘go!’ *[wɨ-]tô[mô]
+
+hijá ‘go’, rupʷíij ‘walk’
+
+pe(-ku) ‘go!’, me-pei, yfo ‘let’s go’ BM *(pee)́ ‘walk’
+
+Bol. Mus. Para. Emílio Goeldi. Ciências Humanas, Belém, v. 2, n. 2, p. 19-72, mai-ago. 2007 57
+
+APPENDIX 2.1. The Macro-Carib etymologies.
+
+25 GRAND-
+FATHER
+
+Andoke ǰapitah yoʔtapʌ
+
+Cariban apitsi *tamo(ko)
+
+Peba-Yaguan ha̰pá ‘(his/her) grandfather’
+
+26 HAND
+
+-domĩ
+
+*ñali, ji-njadi, [entzarri], ui-ñatore *ômija-rɨ, *amo-rɨ
+
+vi-niteli (Peba) homṵtú
+
+27 HEAVY 28 HOT
+
+yore yore (ideophone)
+páʔ-mõno-̃ i
+
+29 HOUSE
+
+-pəko
+
+30 HUSBAND1
+
+-kɒ
+
+31 HUSBAND2
+
+ameʔne, amunine, t-eeme *amôti-ma/-ne
+*uka ‘burn (v-tr)’ *uk(w)a ‘burn’ (Vtr) *jatu ‘burn’ (Vintr) ?*atu(NV) ‘hot’ (A?)
+eka ‘sit’, aga ‘seat’, kə ‘stay’ PT *ewai ‘sit1’, *erew-ta/ma ‘sit2’ wane *nɨjo/*mɨjo ‘husband’ *wok̂ ɨrɨ ‘man’ *ino *nɨjo/*mɨjo
+
+híin- ‘heavy’
+wa-́ ndakíí, wá-nḭkií, wa-́ nṵkií all: ‘hot’ wa-́ nó̰ ‘lukewarm, hot’, hinjḭ́ ‘sun’, piisijḛj́ ‘burn’, píísiij ‘iron, burn’ ruṕ aj ‘burn, light (a fire)’ nut̰ ʃa ‘burn completely (Vtr)’
+-ho ‘CL:place’, mas̰ á ‘sit’
+wanũ ‘men’, rai-wano ‘my husband’ wa-́ nṵ ‘man’, raj-wanṵ ‘my husband’
+
+32 LARGE
+
+mə(ks)nio-həh
+ĩʔõ(-mə̃kə-̃ ‘long’)
+
+*moonomi, mon-me ‘thick’, [hu-emanupi-aze] ‘grow’
+
+PT *mono ‘large’, *-imô ‘Augmentative’ *atɨta/*anɨta ‘grow’, *tɨpɨti-ma ‘thick’
+
+ha̰a̰mḭ́j, há̰a̰ḿ u,̰ -kɨ, -kɨ́ɨ, -ko̰o̰ ‘big, large, fat (inanimate)’
+
+Proto-Witotoan
+pathoa Hr usuma, O uuʔto, B taʔdíu, taʔdíjo
+
+(continues)
+
+BM *(mé)-ʔot́ tsɨɨ́, HO *onoï̃ mee ‘weight’, maaji ‘weight’
+BM *(békkï-ne), *(pátïïkḯ-ne) ‘heavy’
+kogoro, ‘aigukunu, [äocke] ‘sun’
+BM *aí́ gookkó-né, (peé ḿ eβako-ne), (gánókoó -́ ne, gáneḱ oó -́ ne) all: ‘hot’; BM *koó xɨ́-e(ppi), nïʔї-ba, HO *(hiʔtóma), *(néeń a) all: ‘sun’; BM *(xïgatso), (mɨrai-βe), (aí iβétso), (kat́ sïʔxáko) all:’burn’ ha, xa, (mee-)ha, ixa, -ko
+**xop(o) ‘house’
+
+BM *gai-ppi, *tsaa-ppi, HO *ïʔí all: ‘man’
+inuj, iñi, oonna
+BM *áíxiḯ̈ , *taxɨ, *áí-tax́ ɨɨ́ ‘my husband’; HO *ïn̰ i
+moni, aamon both: ‘grow’
+BM *mita-ne, *giraa-ne, *kee-(pi)-ne, (bókkïne) all: ‘big’
+
+APPENDIX 2.1. The Macro-Carib etymologies.
+
+33 LEG1
+
+Andoke -pənə̃
+
+Cariban
+ite, či ‘foot’ *pupu-ru ‘foot’ *pɨta ‘sole’
+
+Peba-Yaguan nduuseé ́ ‘lower leg’
+
+(continues)
+Proto-Witotoan
+(mex-)tea ‘foot’, idɨ, (mex-)tia, ɨdaɨ ‘foot’ **(ї)dzaʔkai(do) ‘leg’; BM *(mé)-ttḯ -ʔaáí; HO *eʔyḯ-() both: ‘foot’; BM *(me-́ (i)tooinóxɨ) ‘shin’
+
+34 LEG2
+
+-pənə̃
+
+*pupu-ru ‘foot’ *pɨta ‘sole’ ?*pôre(-pɨ/pa) ‘leg’
+
+wi-mana
+mud̰ á ‘upper leg’ nṵ́mut̰ ú ‘foot’
+
+oemana
+BM *(me-́ kkḯbaá), *(ídї) ‘thigh’, *(xóónoga, xeé ń oga) ‘shin’
+
+Is Greenberg’s “Macro-Carib” viable? 58
+
+35 LICK
+
+ʌ-a-baʔ̃ a ‘lick/suck it’
+
+36 LIGHTNING
+
+dúʔdə ‘I thunder’
+
+*ame
+
+me
+
+imere ‘thunder, lightning’, malajere mørury ‘thunder’, imemuru
+
+PT *manan manan ‘lightning’
+
+ráa̰ ̰ndujaa̰ r̰ a,́ ra̰án̰ duurja (n.), ndanṵjá,̰ handuuyá̰ (v.), ruṵ ẃ̰ atarja ‘thunder’ (n.), huw̰ ataj ‘thunder’ (v.)
+
+bor(-ide)
+??**(n)ame(); BM *(námï-ba), *(roríʔko); HO *ameʔ̰́ yo
+
+37 MAKE
+
+a-kə,̃ ʌ-a-ti
+
+38 MAN
+
+yóʔhʌ
+
+39 MONKEY1
+
+úɒ (howler)
+
+40 MONKEY2
+
+*[t-]ɨrɨ, PPem *kupô
+
+ne ‘be occupied with’, nane, nene hiwaá j ‘make’, ndiká̰ ‘occupy’
+
+tama ‘boy’ *wôkɨrɨ ‘man’
+
+atin
+wá-nṵ ‘man’, ndee-nṵ́ ‘boy, son’, pḭ́ ‘son’ (vocative)
+
+*arimi ‘howler monkey’ *itjo ‘monkey (species?)’
+
+nymni ‘howler monkey’
+kadna,̰́ kanna̰,́ nu̯nṵ́ all: ‘howler monkey’ amu
+mṵkṵj́ a rawiɲéj ‘monkey (sp.)’, mut̰́ ʃoó [multiple other species names]
+
+(me-)ne, nuu
+Hr fɨnode; O nuu; B meénu all: ‘make’
+thimae, tieme
+BM *gai-ppi, *tsaa-ppi; HO *ïʔí
+nome ‘howler monkey’
+**io, (name) ‘howler monkey’ homa, ame
+**io; BM *(name), *(ío, íyo); HO *(io iyo) all: ‘howler monkey’; BM *(tʃoyíyi), *kïʔdʒíba; Hp (hóma) all: ‘cebus (capuchin) monkey’
+
+Bol. Mus. Para. Emílio Goeldi. Ciências Humanas, Belém, v. 2, n. 2, p. 19-72, mai-ago. 2007 59
+
+APPENDIX 2.1. The Macro-Carib etymologies.
+
+Andoke
+
+Cariban
+
+41 MOON1 42 MOON2 43 MOUTH 44 NEPHEW 45 NOSE 46 NOW
+
+póʔdəə̃
+
+póʔdəə̃
+mətʲewi ‘lip’ -ɸí ‘mouth’ -noé ‘lip’
+opitu -sepo ‘sister’s child’
+
+*nuuna, *nunuø
+*nunô PT *nunnə
+j-emtala, mtar, mda
+*mɨta-rɨ *ôtipi-rɨ ‘lip’ *potɨ-rɨ ‘beak, point’
+poito, paito ‘son-in-law’
+
+-pəta nĩɒp̃ ʌ-kə̃ə̃
+
+*onali, j-enari, unari
+*ôwna-rɨ ereme, erome, erome all: ‘today’
+?*amenarô
+
+47 OUT
+
+-ɸʌdi
+
+48 PENIS
+
+-di
+
+49 PERSON
+
+hʌí hʌi
+
+opengo, enpen *arokɨ ‘penis, tail’
+(-komo ‘Pl’) *wɨtoto ‘person’, *karipona ‘person’, *-komo ‘collective’
+
+Peba-Yaguan aremane, alimane, remelane, arremelen wuh̰ jḛej̰ (< wṵj-haaj ‘our-father’) hanim̰ jṵrḭ́, harimjṵnḭ́, mḭ́rjantukíi ‘full moon’
+hinjḭ́ ‘sun’
+
+Proto-Witotoan
+
+(continues)
+
+BM *pékkó-e(ppi), nïʔï-ba; HO *pï() ‘moon’
+
+nəhna, nẽna ‘sun’ HO *(nééna) ‘sun’
+
+hut̰ óó ‘mouth’, híínduj ‘lower lip’, hun̰ dáj **(-)po(e) ‘upper lip’
+
+pḭ́ ‘son’ (voc.), rá̰nḭ ‘nephew’ (voc.), ndeenuw̰ ítʃi̯ ‘nephew of sibling of same sex as ego’, handtʃá̰ ‘nephew’ y-niru, vi-nerro nur̰ uṵ́ ̰ errama
+
+Hr enaìse, komoma; O ooho, huʔtóoḿ ̈a; B beébe all: ‘nephew’
+**topo(-ʔo)
+
+ndíívjee, ndííjee both: ‘today, now’, ndííjeerundá ‘today’, wáɲṵma̰ ‘right now’, hijú ‘here’
+mans ‘go out’ ma̰síj ‘go out(side)’, mbiimú ‘outside’
+hapwe, wi-pinši haṕ ʷḭ ‘penis’
+komolej nih̰ ja-̰ mʷḭ, nih̰ ja̰m-waj
+
+Hr biruì, bimonado ‘today’; O buroóʔ ‘today, now’; B íʔjahtʃííhju, íhkjoóhɨ all: ‘today’; Hr ha(a), haiβe; O haj́ , náʔá; B íihju all: ‘now’
+maña(-ha) ‘go outside’
+Hr hino ‘outside’; O haaun ‘go’, xoon̈u ‘outside’; B peé ‘go’, aá tʃi, ihtʃi ‘outside’
+?**(ib)oʔoo ‘tail’; BM *(naḿ éʔo) ‘penis’
+komoene ‘people’, kome ‘person’
+**()mïʔnaï
+
+APPENDIX 2.1. The Macro-Carib etymologies.
+
+(continues)
+
+50 PIERCE 51 RAIN 52 RED 53 RIB 54 ROAST
+
+Andoke ʌ-a-yɒʌá
+də-́ i peɒ-i -sodi y-ʌ-a-ɸaʔ́a
+
+Cariban
+
+Peba-Yaguan
+
+po, pə, axpe *atpo, PT *toreka, ?*puka nur̰ eesíij ‘make hole in, pierce’
+
+*konopo
+t-apire, t-apide ?*t-a(k)pi-re PT *t-a:mi:-re korori, čurari *awo-tɨ
+*puru, *purô
+
+tomara rṵ́ṵ́mṵra,́ rṵṵmbondá (n.), hṵ́mṵ ‘rain’ (v.)
+rúuná̰j ‘red’; wá-randa, wa-́ rannda both: ‘reddish’
+wíha̰
+rujẽ ‘fry’ rótʃu, handá, hanṵ́, hánsuṵ ̰j
+
+Proto-Witotoan
+fefo ?**(ka)pai() ‘pierce’, ?**(t)aïʔde ‘dig’, **poonoʔ ‘blow’; B boo,́ buuú ́βe both: ‘penetrate’ tomonahi ‘rainy season’ **nõ-ciʔ ‘rain’
+texbueʔno, me-tibani, BM *tḯ-ppai-ne
+kiraike (sg.), kiraie (pl.) Hr kɨraìofe; O faʔtííʔfi; B mɨ́howa Rui Hr ruide; O dʒoou; B waʔha
+
+Is Greenberg’s “Macro-Carib” viable? 60
+
+55 ROPE
+
+pã́se
+
+kapuja, kabuja, kabuia
+*ôwa(-rɨ) ‘rope’ *ôkôju ‘snake’
+
+oʔkaape kaḿ buhṵu,̰ káwuhuṵ ̰ (Spanish borrowings) **(i)gaï(baï)
+
+56 RUN
+
+a-tõ-eɲ̃ ẽ
+
+ta-kane, ta-kani, ekanumi
+
+*ekatu(mɨ)
+
+siíj, siitʃíj
+
+ekain-ite ‘walk fast’
+BM *ïge, (tadḯʔkï); HO *maka(́ di) all: ‘walk’
+
+57 SHADOW 58 SHORT
+
+kaʔhʌi tofitu tõʔɸi-i
+
+amali-li, t-imue-re *amore-rɨ, *ôkatu
+*tɨntɨ-tʲô
+
+manaide
+
+hṵ́ntu, nuṕ̰ ohot́ u, kanṵwṵ
+
+Hr hɨfokoɨ̀; B naaβ́ e both: ‘shade, shadow’
+
+tapuse
+
+hápuu, waṕ uu, hinrjú all: ‘short’, ta-́ puu-see ?**()ki() ‘small’; ‘one piece manioc, one stick, small tree, pencil’ BM *baá ́ʔrí-ne(-ḯβḯ) ‘short’; HO *ih̰ á̰ ‘short’
+
+59 SHOULDER -saʔɸʌʔdi
+
+mootali, e-motari, umata vi-omote, namatɔ
+
+*mota-rɨ
+
+num̰ ṵto ‘shoulder’
+
+emodo ‘back’
+HO *(mé)-xḯxɨ-ba(ï); Hr emod́ o ‘back’ (Aschmann, 1993)
+
+Bol. Mus. Para. Emílio Goeldi. Ciências Humanas, Belém, v. 2, n. 2, p. 19-72, mai-ago. 2007 61
+
+APPENDIX 2.1. The Macro-Carib etymologies.
+
+60 SPEAK
+
+Andoke ʌ-a-hʌʌ́
+
+Cariban ura, j-uro ?*ot̂ -uru ‘talk, converse’
+
+Peba-Yaguan hṵut̰ áj ‘say’, nik̰ ee ‘talk’
+
+61 SPIDER
+
+todə dɒdə
+
+*mojoti, *tjawaraka(ru)
+
+tetiu títju, tútitju
+
+62 STEAL 63 STONE 64 SUN 65 SWAMP 66 THIGH 67 TIE (V)
+68 TODAY
+
+ʌ-a-ɸə ‘steal it!’ ɸisi
+ĩɒ̃
+ʌ-kaḱ ʌ ‘pool’ oḱ ẽ́si ‘lake’
+-pã yi-ya-a-ṍpã́se ‘tie it!’ ñeahpə nĩɒp̃ ʌ
+
+mona, maname, mərə PT *aminôpɨ
+
+paranú
+
+*topu, taho, toxu *tôpu
+winai ‘day’, uanu ‘sunlight’, ano- ‘day’
+
+tao ‘mountain’
+há-witʃu,̰́ rá-witʃṵ́ ‘stone’, wandanjṵ́ ‘type of stone, cascajo’, toó ‘wilderness, forest’
+ini, iñi, wana
+
+*weju ‘sun1’ *titi ‘sun2’ *awatinɨ ‘sunlight’
+
+hinjḭ́ ‘sun’; wana (Peba, Rivet, 1911); raitarra (Yameo, Rivet, 1911)
+
+*(š)akoro ‘scum’, ikalitao, ikulipato, kuliža
+
+wa-kada- ‘swamp’
+
+peti, i-piti, petti *petɨ mɨ, mi, mẽ ?*(m)ômô
+
+mṵdá ‘thigh’, nduuséé ‘lower leg’ pitu, putu
+
+?*amenarô
+
+nibia ndíívjee, ndííjee both: ‘today, now’, ndííjeerundá ‘today’
+
+Proto-Witotoan
+uʔuriiBM *xïïb(aí )ge, *neé, (iʔxḯβa)
+
+(continues)
+
+BM *paá ga-xɨ, *paagá-(jï), (xíímoʔ́ ai), (ííkkoxɨ), (doʔgá-xɨ); HO *(hebekï-goï)
+meri-de, muuro
+Hr merɨde; O muuro; B nani
+tahihë
+**goti-; (nopḯ-kï) ‘stone’
+
+BM *kóoxɨ́-e(ppi), *nїʔї-ba; HO *(hiʔtóma), *(neé ń a) all: ‘sun’; HO *moń a ‘day’ ikare
+BM *(ípá)-káa-xa-(neba), *káa-(mɨ); HO *kïné-bї ‘swamp’
+ma-pateri ‘lower leg’ BM *(me-́ kkḯbaa)́ ,*ídї ma, maɨBM *tsíttsï,*doʔxɨ́n(ї)
+Hr biruì, bimonado ‘today’; O burooʔ́ ‘today, now’; B íʔjahtʃííhju, íhkjoóhɨ ‘today’; Hr ha(a), haiβe; O háj, naʔ́ á; B íihju all: ‘now’
+
+APPENDIX 2.1. The Macro-Carib etymologies.
+
+(continues)
+
+Andoke 69 TOMORROW úʔnə̃ka
+
+Cariban
+
+Peba-Yaguan
+
+koropo, kokoro, kogorone
+
+?*koropo
+
+tarimjṵsij, tamjṵsiy
+
+Proto-Witotoan
+bexkore ‘morning’, pekore, ukoro
+Hr ɨco ‘tomorrow’, hitɨramo dɨbemona ‘morning’; O uuro, haʔíʔi ‘tomorrow’ B péhkoré ‘tomorrow’
+
+70 TOOTH
+
+-kónĩ
+
+*je *(j)ô-rɨ
+
+e ha̰a̰ndá
+
+??**iiʔ-gi-()
+
+doapa, hodeefah both: ‘forest’
+
+tapasej; toha, tox both: ‘forest’
+
+71 TREE
+
+oʔdeɸʌ
+
+*wewe/*jeje ‘tree’
+
+‘forest’
+
+*jutu ‘forest’
+
+-də/-ta ‘tree.Cl’ PT *epɨ ‘trunk’
+
+toó ‘forest’
+
+BM *báxïḯ; HO ?*taї-(má̰a̰ʔḭ) both: ‘forest’
+
+Is Greenberg’s “Macro-Carib” viable? 62
+
+72 TWO
+
+ʌ-ʌh́ ʌmã (lit. ‘with this also’)
+
+meni ‘twin’ *atjôkô(nô)/(ne)
+
+nomoira, naramue
+anda-/anra-/nda- plus classifier, plus dual suffix -huy = ‘two’ paŕ inas̰ íj ‘twin’
+
+minoke, minjekə, mena, inama, hanama
+B -khɯ̀ ‘dual’ (Thiesen & Weber) (Note: Witotoan numbers include classifiers)
+
+73 UNDER
+
+ẽesi-ka, -kə-̃ ka
+
+popo, poxpo both: ‘low’, po ‘come down’, paapo ‘descent’
+
+popo ‘earth’
+
+paa ‘low’, baaβi, bu- ‘to sink’
+
+*ôpinô, *wɨpɨtô ‘descend’ mṵ́kandíi, mṵ́ko, múk̰ i all: ‘earth’, -ko ‘CL. **xáénïʔ̰̠ -xẽ ‘earth’; earth’, (ha/wa)pu- ‘low, short’, pupãy ‘go BM *gií-ne, *baaŕ i ‘low, down, descend’ down’
+
+74 VAGINA
+
+-yáta
+
+*eni ‘vase’ (‘interior, sheath’)
+*ôrɨ mueke, mogo, momoki ‘wait for’
+
+tátʃij ‘vulva’
+
+iani
+Hr moìfo mate ‘aguarde’
+
+75 WAIT
+
+a-doat́ o-se
+
+*mômôku
+
+nut̰ uj
+
+Hr sedade ‘wait, guard’, okuìride ‘wait’, eenote ‘guard’; O urooho ‘wait’, fooɲo ‘guard’; B teʔme ‘wait, guard’, ɨhtso ‘wait’, metéʔmene ‘hope’, pikjo ‘guard’
+
+Bol. Mus. Para. Emílio Goeldi. Ciências Humanas, Belém, v. 2, n. 2, p. 19-72, mai-ago. 2007 63
+
+APPENDIX 2.1. The Macro-Carib etymologies.
+
+76 WAX 77 WHITE 78 WISH
+79 WOMAN
+
+Andoke pəda póʔte-i
+-ʌ́to- (verbal suffix)
+tii
+
+Cariban
+
+Peba-Yaguan
+
+moropo, morombe
+t-amune, amona *t-a(re)mutu-ne PT *kananamano
+*(CV)te ‘Desiderative (postposition)’ puiti ‘wife’, i-witi ‘my wife’ *wôrɨti ‘woman1’ *pɨtɨ ‘wife’ PT *noːtʃa[mo] ‘woman2’
+
+hṵtṵ ‘wax’, mara ‘mash’
+pupá ‘white’, ha-́ paru, wa-́ paru paŕ uuj ‘become gray, white’ ruũ ̃j ‘Desiderative suffix’ -rṵj́ ‘Desiderative’, wa̰tá ‘want’
+watoa, wato, huitarynia
+wa-́ tuj, wa-́ tu-rá ‘woman w.out children’, wá-tu-ruj̰́ ‘woman w. children’
+
+Proto-Witotoan mara ‘gummy’
+
+(finished)
+
+mone-ide ‘clear’ ?**(o)te(te) ‘white’
+iraine Hr oìakaide, heruìde; O xamaá ́ro; B imiĺ le wahju, kaaẃ a all: ‘want’
+
+**-gaï
+
+APPENDIX 2.2. Greenberg’s Amerind etymologies with a Macro-Carib component.
+
+Amerind Macro-C Andoke
+
+Cariban
+
+Peba-Yaguan
+
+1
+
+ABOVE1
+
+HEAD
+
+tai ‘head’ -tai
+
+*pu-tupô ‘head’
+
+saj ‘head, hair’ hasíj ‘hair, feather’
+
+-epoi, epo, -po
+
+2
+
+ABOVE2
+
+ABOVE
+
+-tai ‘head’
+
+*pu-tupô ‘head’ *kawô ‘high’
+
+hun̰ ó̰ ‘head’, náw̰ áj ‘above’, hḭjú ‘above’
+
+erexko ‘be angry’, rɨwo, əire ‘fierce’
+
+4 ANGRY
+
+ANGRY
+
+wań ṵndínu,̰ suŕ a-, súro̰ all: ‘strong’, níker̰ já ‘angry, fierce’, hṵnda- ‘strong (drink)
+
+apo:-ri, j-apa-ri, j-ape
+
+7
+
+ARM1
+
+ARM
+
+-nṍka ‘arm,
+
+*apô-rɨ
+
+hand, branch’
+
+haseé ‘lower arm’, nṵtʃa̰á̰ ‘upper arm’
+
+pui, obwi, epu
+
+9 ARRIVE
+
+COME
+
+*[w-]ôtepɨ ‘come1’ *[w-]ômok̂ ɨ ‘come2’
+
+hṵníj̰ ‘come’, hit̰ á ‘arrive’, hḭtó̰ ‘arrive at other place, reach’
+
+(continues)
+Proto-Witotoan aite ‘high’, aise ‘high’ **kai(), **(k)aime afei-ne, ipo, ooʔfo ‘head’ BM *nígaï; HO *iʔ̈ po-(gï) ‘head’
+riie, rɨino ‘strong’
+Hp haɨ̀aɨ̀re, rɨire ‘strong’
+ko-ipai ??**(o)nãїʔk()
+bi Hp ride ‘arrive’, bite ‘come’; O faara ‘arrive’, aa, uu, aaji all: ‘come’; B tsaá ‘come’, -wa ‘ventive suffix’
+
+APPENDIX 2.2. Greenberg’s Amerind etymologies with a Macro-Carib component.
+
+(continues)
+
+Is Greenberg’s “Macro-Carib” viable? 64
+
+Amerind 12 ASK1 15 BACK1 31 BELLY3
+32 BELLY4
+33 BITE1 40 BLOOD1 43 BODY1
+
+Macro-C
+WISH TAIL CHEST
+BELLY
+EAT BLOOD BODY
+
+Andoke
+
+Cariban
+
+-akə, axke -nətá ‘tail, stern’ *arokɨ ‘tail, penis’
+
+-tú-ta-nə̃ ‘chest’ -ɲeé ‘breast’
+
+mate, matir, matiri
+*puropɨ-rɨ ‘chest’, *ôwanô ‘heart, chest’
+utevui, ido-re ‘chest’, ida, eta ‘inside’
+*tawô ‘inside’ PT, Ap *waku-ru ?*(e)wenɨ ?*wetVpu
+
+baʔi
+-dusé -odə ‘body (animal)’
+
+e:ka, eku, oku ‘eat bread’
+*ot̂ eka ‘bite’ *[t-]on̂ ô ‘eat meat’ *[t-]ôku ‘eat bread’ *aku ‘eat nuts’ *on̂ apɨ ‘eat fruit’ *ôt-oku ‘eat’ (Vintr)
+menu, munu, umane *munu-ru
+?*jamun
+
+Peba-Yaguan
+
+Proto-Witotoan
+
+amaseo ‘greedy’, basei
+
+miče, meǰe
+
+num̰ beeríj ‘want, request’, nḭrṵj́ , rúj̰ , wá̰at̰ á all: ‘want, wish, desire’, himbjeendahaachḭ́ ‘glutton’ (from himjíj̰ ‘eat’)
+
+Hr oìakaide, heruìde both: ‘want, desire’, hɨkade ‘request’, hɨkanote ‘ask’; O xamáaŕ o ‘want, desire’, xobaá ́ʔo ‘request’, íínm̈o, ónhun ‘desire’, hoʔxaaxa ‘ask’; B imílle wahju, kaáwa
+all: ‘want, desire’
+
+kaj
+
+nduń ṵ, rundi ‘behind, back’, rúnṵ ‘hill, ?**(ib)oʔoo; back’, ruń dii ‘behind, back’, mus̰ íj ‘tail’ BM *(bógáa), *(gagááíβe);
+HO *(oʔoo) all: ‘tail’
+
+mtʲa
+
+pene ‘breast’ (Yagua, Rivet)
+
+**mo(̃ ʔpai)naï ‘woman’s breast’, **xebae-gaï ‘chest’
+
+odoh
+
+tawó ‘woven bag’, wṵmṵ́, puń dee ‘belly’ nduutuú j ‘chest, thorax’, nduutundí ‘chest, sternum’, hḭtja̰á̰ (-haa̰ ̰́ = ‘liquid’ classifier) ‘chest, breast, teat’, -mṵsíj ‘in, of’, num̰ beé ́ ‘inside of, in the middle of’, wimṵ́ ‘inside, inside of’
+himjíj ‘eat’, sandó, súṵ j̰ both: ‘bite’, sṵ́ṵ́mjṵtúuj ‘chew’
+
+**xeʔbae-()aï, **xebae ‘belly’; Hp fenaɨ̀, hebe ‘belly’; O gax́ otja ‘stomach’, gáah́ o ‘belly’; B meʔ́ báuú ‘belly’, kemáhtʃou ‘stomach’
+me-ikoe ‘bite’, eka ‘feed’, kaɨ ‘gnaw’, ʔooxo, oxooxa ‘food’ **d(o)ʔ ‘eat meat’, **gõĩ(ne) ‘eat fruit’; BM *ɨɨʔdo ‘bite’, *éeḱ oó, *doó-(xeʔe), *(taí)-do all: ‘flesh, meat’; HO *aїnĩ́ ‘bite’, *(daihíʔka), *õʔã́-(tї), *õʔã́-(ĩhĩ) all: ‘flesh, meat’
+
+mɔna nun̰ da
+wṵ́
+
+**tї-xẽ(ʔe)
+(mex-)pi, abɨ
+Hp abɨ; O xoonü ; B meh́ pií
+
+Bol. Mus. Para. Emílio Goeldi. Ciências Humanas, Belém, v. 2, n. 2, p. 19-72, mai-ago. 2007 65
+
+APPENDIX 2.2. Greenberg’s Amerind etymologies with a Macro-Carib component.
+
+(continues)
+
+Amerind Macro-C Andoke
+
+49 BREAK
+
+CUT
+
+53 BROTHER
+
+BROTHER
+
+55 CALL1
+
+CALL
+
+Cariban akete, ako:to ‘cut down’ *akôtô ‘cut’
+pipi, pïri ‘younger brother’, pepe ‘older brother’ *pipi ‘older brother’
+añiki, añek PPar *anikɨ apoi, apwi, apue
+
+Peba-Yaguan
+
+Proto-Witotoan kaita, koaiti, kodʔa
+
+wṵut̰ á ‘break’, hootá ‘peal’, pat́ a ‘break’, mat̰ íj ‘break’, róotjá ‘break, yank’, haruṵ́ j̰ ‘cut’, jṵnsijḛ́j ‘cut’, hun̰ ṵ ‘cut trees’
+rai-puipuin, pwɨ̃ĩ (voc.)
+
+BM ?*ga-́ (βḯrḯḯko), *gá-(ʔdaʔɨ́nї), *kí(ttї), *kí-(ʔdaʔɨ́nї), *kí-(βïḯxkʰї) all: ‘cut’
+
+pip̰ ḭ́ ‘brother (of man or woman)’, pḭ́ [phonetically pʷí]̰ ‘son’ (voc.)
+nḭkee ‘talk’
+
+Hp ɨio ‘brother of woman’, amarede ‘(of a woman) to have a brother’; O onaam̈a ‘older brother’, uʔxaá ḿ a ‘younger brother’; B pií ‘body’
+nokoj ‘invite him!’
+BM *xїїb(aí )ge ‘say’
+iba, upa both: ‘buy’
+
+57 CARRY1
+
+TAKE
+
+60 CHEW
+
+TOOTH
+
+*arô ‘take, carry’ *apôti ‘seize’
+
+kone -kónĩ ‘tooth’
+
+*(j)ô-rɨ
+
+pa:rɨ, par both: ‘grandchild’, par ‘nephew’
+
+haráa̰ j̰ ‘take person along, carry’, hijata Hr ɨbade ‘buy’ ‘guide, take’, pṵt́ ʃa ‘take, knock down’, pṵ́ṵtʃíj ‘take (possibly by force)’, pṵú ̰rjḭ́ ‘take’, hur̰ íj ‘grab’
+
+ixiana, oxana
+
+ma-ɣynieng
+
+ha̰an̰ dá ‘tooth’, sandó ‘bite, give electric ??**iiʔ-gi-() ‘tooth’;
+
+shock’, suṵ m̰ jut̰ uú j, sṵ́uj̰ both: ‘chew, BM *ííʔ-gaí-neé ‘tooth-finger-?’, *ɨɨʔdo
+
+bite’, toj ‘bite and take in pieces’
+
+‘chew’
+
+porii
+
+63 CHILD3
+
+CHILD
+
+-sepo ‘sister’s *pa-rɨ ‘grandchild’ child’
+
+pir̰ á ‘infant, child’, pit̰ ʃíj ‘little grandchild, nephew, son (voc.)’, poó ‘sister, niece, female cousin (voc.)’, potʃíj ‘girls (voc.)’, ndee ‘small’, ndee-nṵ́ ‘male child’
+
+B pií ‘body’; pítʃohpa ‘traditional naming and baptism ceremony for child’
+
+69 COLD1
+
+COLD
+
+i:sana, ti-sano-le, susano-ri *atono, *t-ɨnotɨ-me
+
+sanora, sanehe ‘rainy season’ kanṵwṵ, wá-kanuw̰ ṵ́ súndoo ‘cold’
+
+BM *tsїḯko, (daɨ́ ́ʔkoo)́ ‘cold’; HO *doti(-de-te) ‘cold’
+
+APPENDIX 2.2. Greenberg’s Amerind etymologies with a Macro-Carib component.
+
+(continues)
+
+Is Greenberg’s “Macro-Carib” viable? 66
+
+Amerind 72 COME 81 DIE3
+91 DRY2 97 EARTH4 104 EYE 108 FEATHER1 109 FEATHER2 110 FINGER1
+
+Macro-C
+COME DIE
+HARD EARTH EYE HAIR FEATHER ONE
+
+Andoke
+
+Cariban
+
+pa-nænæu ‘he comes’, i-na-poa ‘he came’
+
+*[w-]ot̂ epɨ ‘come1’ *[w-]ômôkɨ ‘come2’
+
+PT *apəepɨ PPar *wajipɨ
+ti-ana-le, jaʔna ‘hardness’
+*akɨpɨ
+
+nono, noro
+
+ɲõʔĩ
+
+*nono
+
+doa
+
+-ákʌ, -ʔákʌ ‘eye’ *ônu-ru -ɲesidiákʌ ‘eyebrow’
+
+ipot, ipotu, pot ‘feather’
+
+-ɲehẽ ‘hair, fur’ -kabe ‘(head)hair’
+byweh ‘he flies’
+
+*(e)tipotɨ-rɨ ‘hair’ *apôri-rɨ ‘feather1’ PPek *aroko ‘feather2’
+*apôri-rɨ ‘feather1’ PPek *aroko ‘feather2’
+
+Peba-Yaguan ana (Yameo)
+rupʷíij ‘walk’, hun̰ ḭ́j ‘come’
+ndɨi ndiíj
+hiikań da ‘dry branch’, wá-ndsa [clusters from vowel deletion between two alveolars], wása,́ wá-ssá, wá-tsa,́ susa̰á ̰́ ‘(to) dry sth.’, wíiru,́ wud́ nṵ (probably wúndnṵ), wuń ṵ ‘dry, powdery, ruined’, kúwaj ‘hard’, suŕ a- ‘hard’, surá̰ ‘get.hard’ nuñ ĩ mṵ́kandíi, múk̰ o, mṵḱ i all: ‘earth’, -ko ‘CL.earth’, nṵnḭy ‘garden, field’
+nḭsíj ‘eye’, hun̰ ṵ́tjaa̰ ̰́ ‘eye’ (possibly from ‘protect, watch over’)
+popɛjty ‘feather’
+hasíj ‘hair, feather’, -mu ‘CL:feather’
+
+Proto-Witotoan
+BM *tsaá-(pe)́ , (náʔxɨʔe); HO *(bíʔ-te), *(a, e, i, aihi) dʔɨi HO *(dzïí) ane-de ‘to harden’ BM *(dáaŕ ɨ-ne)
+enerwe, enie, noynae, nanyny **xaé ń ḭ̠̈ʔ-xẽ ‘earth’ etoj BM *(me)-ʔááǰїї; HO *ohí-(tï)
+ifatie, ifatre, ofotar BM *ɨ́ʔxɨɨ-ne; HO *їʔpo-ʔtï()‘head hair’ abukwa, ibbe, pee ‘fly’
+
+-ɲefʌ
+
+*(e)tipotɨ ‘hair’
+tinki, tinkini, tegina, teukon *toŵ inô
+
+nip̰ ya ‘wing’
+tiki, tikilo, tekini
+tá-ra-kɨɨ (with general classifier + SG?), tḭ́kií ‘one (animate)’
+
+?**(gaʔa)pe ‘fly’; BM *mɨ́ʔxɨɨ-ne
+**ta()
+
+Bol. Mus. Para. Emílio Goeldi. Ciências Humanas, Belém, v. 2, n. 2, p. 19-72, mai-ago. 2007 67
+
+APPENDIX 2.2. Greenberg’s Amerind etymologies with a Macro-Carib component.
+
+Amerind 111 FINGER2 113 FIRE2 120 FOOT1
+
+Macro-C
+FINGER TREE
+LEG
+
+Andoke
+(ka-)tsi-dome (dome = ‘hand’)
+-domĩ
+koitse
+ʌʔpa ‘fire’, oʔdeɸʌ ‘forest’ -də/-ta ‘tree.Cl’ pa
+-dʌka ‘foot’ -pənə̃ ‘leg’
+
+Cariban
+*ômija-rɨ ‘hand1’ *amo-rɨ ‘hand2’
+*wepeto ‘fire1’ *mapoto ‘fire2’ *wewe/*jeje ‘tree’
+upu ‘foot’, upe *pupu-ru ‘foot’ *pu(pu)-tôpu ‘heel’ (foot’s stone) *pɨta ‘sole’ ?*pôre(-pɨ/pa) ‘leg’
+
+Peba-Yaguan
+haná̰ ‘finger’, homut̰ ú ‘hand’ iguntia híindáj ‘fire’, híipuú ́ ‘wood’, nṵ ‘CL: pole, tree, person’
+nuḿ̰ ṵtú ‘foot’
+
+(continues) Proto-Witotoan ma-ugtsi ‘hand’, [dau-tseh], (tha-)usi both: ‘my hand’
+BM *(me)́ -ʔot́ tsɨɨ́; HO *onõï ‘hand’
+ogode ‘plant’ HO *(idaí -kï)
+eɨba ‘foot’ BM *(mé)-ttḯ-ʔaaaí; HO *eʔyḯ-() ‘foot’
+
+127 GO2
+
+GO
+
+he-̃ ə̃-ka ‘go !’
+
+uten, wto(m), etamete, s-itamana ‘he arrives’ itamue
+
+*[wɨ-]tô[mô]
+
+hit̰ á ‘arrive’
+
+mori, mori ‘clean’
+
+maringre ‘healthy, good’, marĩ-neea
+
+Hr haìde ‘go’; O haaun ; B peé ‘go’, -te ‘verbal movement suf.’
+imine, imino, mari, mano-dʔe ‘healed’, mare
+
+132 GOOD3
+
+GOOD
+
+134 GUTS1
+
+GUTS
+
+*kure ‘good’
+
+-kəɲetaə ‘intestines’ -ɲé ‘feces, entrails’ -tura ‘stomach’ -pə ‘belly, pod’
+
+*wakulu ‘stomach, intestines’, waku
+PT, Ap *waku-ru ‘guts’ ?*(e)wenɨ ?*wetVpu
+
+mis̰ á ‘heal, get better’,
+
+?**(e)mea(́ d)e
+
+saḿ wḭj, saḿ ṵj, saḿ wɨ̰ ‘pretty, good,
+
+clean’,
+
+rántjeé ‘good, suitable’, wá-seé ‘right,
+
+correct, good’, kanṵwu-̰ ‘healthy, fresh,
+
+comfortable’
+
+buo
+
+(maɣ-)bohu, ga-buhgu, hebego
+
+piíj̰ etʃuuj ‘stomach’, puń ḭjej̰ ‘stomach, belly’, wumṵ́
+‘interior, inside, stomach, intestines’ [/mu/ could be related to the general locative –mu]
+
+**xeʔbae-()aї, **xebae both: ‘belly’
+
+APPENDIX 2.2. Greenberg’s Amerind etymologies with a Macro-Carib component.
+
+Amerind Macro-C Andoke
+
+139 HAND3
+
+GIVE
+
+-domĩ ‘hand’
+
+140 HARD1
+
+Cariban
+
+Peba-Yaguan
+
+*utu
+
+ti
+
+*utu ‘give, put’, *[t-]ɨrɨ tii ‘CL.extremity.of.branch/antenna/ ‘make, do, give, put’, insect-paw’, tíij ‘grab, throw, yank, PPar *[tɨ-]mɨ ‘give’ pull’, saa̰ j̰́ ‘give’,
+homut̰ ú ‘hand’
+
+čøra, søra
+
+súra-, suŕ u- ‘hard’, surá̰ ‘get.hard’
+
+wo ‘hit, kill’, we, ipo(-ke) ‘kill!’
+
+Proto-Witotoan
+
+(continues)
+
+BM *akkï; HO *hiʔ-(te) both: ‘give’; BM *(me)́ -ʔot́ tsɨɨ́; HO *onõï both: ‘hand’
+
+keriire-ide ‘strong’ fa, pa
+
+155 KILL
+
+KILL
+
+164 LEAF3
+
+LEAF
+
+165 LEG
+
+LEG
+
+*[t-]wô[no]̂ ‘shoot, kill’ PT *pɨnə[pɨ] ‘kill’
+
+uma
+
+*jare
+
+ka-dekkhe ‘foot’
+
+-dʌka ‘foot’
+
+*pupu-ru ‘foot’ *pu(pu)-tôpu ‘heel’
+(foot’s stone) *pɨta ‘sole’ ?*pôre(-pɨ/pa) ‘leg’
+
+huwaj́ ‘hit, fight, kill’, hántjuunuw̰ a̰j BM *gɨ́xɨ-βe-́ tso, *gɨ́xɨ-(nї); HO
+
+‘kill, torment’, mún̰ ṵ ‘kill, allow to
+
+*()ne(ʔ)-()
+
+die’, ndúú ‘kill by blowgun or throwing,
+
+do witchcraft’
+
+mi
+
+aame, ibe, ame
+
+ná̰wḭ
+
+BM *(ɨ́na)-ʔaá mɨ, (mɨ́ɨ́їmї)
+
+take, me-taxki
+
+nduuseé ́ ‘lower leg’, mṵdá ‘upper leg’, núm̰ ṵtú ‘foot’
+
+**(ï)dzaʔkai(do) ‘leg’
+
+167 LIP
+
+MOUTH
+
+(ka-)fi -ɸí
+
+ipi, epi both: ‘lip’
+*ot̂ ipi-rɨ ‘lip’ *potɨ-rɨ ‘beak’, *mɨta-rɨ ‘mouth’
+
+ipe, po
+hut̰ oó ́ ‘mouth’, -hṵ ‘mouth (inalien)’, hiduy ‘lower lip’, hṵday ‘upper lip’
+
+(me-)he, me-ehe, ofwe, poi, fue
+**po(e) ‘mouth’, **po(e)-(i)ni(ba) ‘lip’
+
+Is Greenberg’s “Macro-Carib” viable? 68
+
+170 LONG1
+
+LONG
+
+-mək̃ ə̃- ‘long’ ĩʔo-̃ ‘large’
+
+ari ‘large’ PT *mɨ(tʃ)a ‘long/far’
+
+ha̰á ̰́mṵ-ka̰á̰ ‘long’ (‘big-duration’), -ki ‘high, long’
+
+are ‘long, high, far’, arə ‘large, long’ BM *káaḿ e(-βe)-ne
+
+175 MAKE1
+
+BUILD
+
+i-tooitihe ‘he builds’
+tii
+
+itɔ, idu ‘make’
+*[t-]ɨrɨ, PPem *kupô -tanĩy ‘make, cause’, -ta ‘transitivizer’
+
+tu Hr -ta; B -tsho both: ‘causative’
+
+APPENDIX 2.2. Greenberg’s Amerind etymologies with a Macro-Carib component.
+
+(continues)
+
+Bol. Mus. Para. Emílio Goeldi. Ciências Humanas, Belém, v. 2, n. 2, p. 19-72, mai-ago. 2007 69
+
+Amerind Macro-C Andoke
+
+180 MANY1
+
+FILL
+
+186 MEAT4
+
+MEAT
+
+187 MOON1
+
+MOON
+
+itsy
+pody póʔdəə̃
+
+192 MOUTH2
+
+MOUTH
+
+202 OLD
+
+OLD
+
+Cariban ali, ar, ara, arї ‘contents’, t-ori-g ‘many’, t-ure-eke ‘many’ *arɨ-rɨ ‘seed, contents’
+otɨ, i-ote ‘game’ -oti *otɨ ‘meat food’
+PT *nunnə *nunô
+*etipi-rɨ ‘lip’ *potɨ-rɨ ‘beak’, *mɨta-rɨ ‘mouth’
+
+Peba-Yaguan
+raj́ uu ‘many, full’, haŕ jíj ‘many’, mʷɨ́t̰ ya ‘nothing, free, gift’
+sawij ‘meat, flesh’, tʃaá̰ ̰́ ‘breast meat of bird’
+wṵhjeḛ j̰ (= wuj̰ -haaj ‘our-father’), hanḭmjṵrí,̰ harimjun̰ ḭ́
+hum̰ urú ‘beard’, hṵtoó ́ ‘mouth’, -hṵ ‘mouth (inalien)’ año ndimit̰ ju, rijḭtju ‘old (n.)’, taa̰ r̰ ij ‘old’, -po ‘old, rotten’
+
+Proto-Witotoan orui ‘be full’, rahu ‘many’
+*míta-(ne) ‘many’
+ičira, uatɨ BM *(atsímï)
+fodjoome, podomo BM *pékkó-e(ppi), nïʔï-bá, *pï()
+ma-ɣyo, me-kuai ‘chin’, (meex-)kaa ‘beard’, (ama-)əko ‘beard’, koæ, hoe BM *xïkk(e)’(ai); HO *(aimákï) both: ‘beard’
+onaa ‘older’ Hr hakaìe ‘old thing’, eiroma ‘old person’; O uroohun ‘old thing’, haʔíín- ‘old (person)’; B tsuú ́kaá ́ ‘old (thing)’, keeḿ e ‘old (person)’
+
+203 ONE1
+
+ONE
+
+205 PAIN
+
+BAD
+
+*teñi
+*tôwinô PT *təinjə anhi ‘evil’, anɨ:ikɨ ‘sickness’, t-one
+
+tomeulaj ta-́ ra-kɨɨ (‘one’ +CL:general+SG?)
+
+tsanere, thanere, dane, dama ‘alone’, daamu, [zähzähma] **ta()
+
+juno ‘devil’, ana ‘pain’
+
+ana ‘devil, hoani
+
+huń̰ ará ‘painful’, nṵwadaj́ ‘hurt’ (v.i), hṵndííwaa̰ ̰́ ‘get sick’
+
+Hr isire ‘painful’, heamona ‘bad day’, heare ‘badness’, ɨrarede ‘have bad health’; O aʔtíʔo ‘pain’, uú ŕ a ‘bad(ness)’; B aβje, kimoó β́ e ‘pain’, ímítjú
+‘bad(ness)’
+
+APPENDIX 2.2. Greenberg’s Amerind etymologies with a Macro-Carib component.
+
+(continues)
+
+Amerind Macro-C Andoke
+
+Cariban
+
+Peba-Yaguan
+
+Proto-Witotoan
+
+nahua ‘river’, naʔa ‘rainy season’, nowa hanoj ‘water’, now(h)ə, ainoe, no(h)owi ‘river’
+
+208 RAIN
+
+RAIN
+
+də-́ i ‘rain’ dúʔu ‘water’
+
+*kanopo ‘rain’ *tuna ‘water’
+
+rṵú ̰ḿ ṵrá (n), ruṵ ̰mbondá ‘rain’, ha̰á̰ ‘water’, naw̰ á ‘big river’
+
+**nõ-() ‘water’, **no-̃ xĩ ‘rain’, BM *nííxa-ba ‘water-?’, HO *nõ-(kï) ‘rain’, *(haï-)no-̃ hĩ [?-water-liquid]
+
+[peaih]
+
+t-api-re, t-api-de
+
+Is Greenberg’s “Macro-Carib” viable? 70
+
+209 RED 211 RIVER2 212 ROAD1 220 SEE1 221 SEE2 229 SING
+
+RED RIVER ROAD SEE KNOW DANCE
+
+peɒ-i ‘red’ otõa -se
+
+PT *t-aːmiː-re ?*t-a(k)pi-re
+
+ruú naj̰́ ‘red’, wa-́ randa, wá-rannda, wa-́ BM *tḯ-ppai-ne ranndapó all: ‘reddish’
+tee, tjaau, tiahe
+
+*tuna ‘water1’ *paru ‘water2’
+
+-mṵ́ ‘river’, na̰wá ‘big river’ nɔn, nou
+
+Hr ille ‘small river’, imani ‘big river’; O maanü , tjaau ‘river’, B mooá , teeʔ́ i ‘river’
+naahon
+
+*ôtema(-rɨ) ‘path’
+ene, enë, anu ‘eye’, o:nu ‘eye’ *ônu-ru ‘eye’ *ône ‘see’
+
+nṵ́ nuwa:tø ‘mirror’, nutẽ ‘look at’
+
+Hr naɨ, iso, arɨ, hesorie; O naahon, -ho, -ʔto; B huúβa, ulleh́ ɨ́hto
+ono ‘know’
+
+ndíj ‘see, know’
+
+BM *aittḯmɨ(ɨɨ́te)́ , (dḯxïḯ) both: ‘see’,
+
+hṵnṵ́j ‘see, look at, watch, show’, nḭsíj *(me)-ʔááǰïï ‘eye’; HO *ohí-(tї) ‘eye’
+
+‘eye’, hun̰ ṵ́j ‘see, look at, watch’
+
+wano ‘I know’
+*warô ‘know’ (Postp) *putu ‘know’ (Vtr)
+
+ndáat́ ja ‘know’, nḭ́jṵj ‘learn’, saŕ a ‘discover, learn, find’, hṵnṵ́j ‘see, look at, watch’
+
+uiño ‘learn’ **gaka ‘know’
+
+seje súuj ‘sing like rooster or monkey’
+
+se
+BM *mattsí-βa, (gań íkkameí ); HO *(doʔte) all: ‘sing’; Hr saìte ‘dance’
+
+Bol. Mus. Para. Emílio Goeldi. Ciências Humanas, Belém, v. 2, n. 2, p. 19-72, mai-ago. 2007 71
+
+APPENDIX 2.2. Greenberg’s Amerind etymologies with a Macro-Carib component.
+
+Amerind Macro-C Andoke
+
+235 SLEEP1
+
+SLEEP
+
+Cariban *wônɨkɨ ‘sleep1’ *wetu(mɨ) ‘sleep2’
+
+Peba-Yaguan
+nɛ ‘hammock’
+hún̯ ij̰ ‘hammock’, niɲ̰ ṵ́ ‘hammock arms’
+
+*mure, moni, imeri ‘small’
+
+Proto-Witotoan inu, ko-ina, ønu BM *kïga; HO *(i)nḭ̈́
+mæni, mene ‘child, son’
+
+(continues)
+
+237 SMALL
+
+CHILD
+
+*mure ‘child’ PT *pitʃa ‘little1’ PT *akɨi ‘little2’ ?*pitikô ‘small’
+
+ndee ‘small, little’, ndee-nṵ́ ‘male child’, BM *tsɨ́ɨ-me-ne, *(gaí-píí)-tsɨ́ɨ́; HO
+
+ndee-tu ‘female child’
+
+*(kiβĩ)
+
+240 ROPE1
+
+SNAKE
+
+248 SUN1
+
+FIRE
+
+kono ‘rope’ pã́se ‘rope’
+ʌʔpa ‘fire’
+
+okon, okoj, okej
+*ôkôju ‘snake’ PT *ewa ‘rope2’
+
+koli, koni
+koondiy ‘snake’, kabuhuu, kaẃ uhuṵ ,̰ kabohu ‘rope’
+
+ole-ole ‘flame’, iri(ipo) ole ‘fireplace’, t-u:ri ‘torch’
+
+konega, konahə both: ‘rope’ BM *xíinime ‘snake’; **(i)gai(̈ bai)̈ ‘rope’
+ole
+
+*wepeto ‘fire1’ *mapoto ‘fire2’ PT *turi ‘torch’
+
+híindaj́ ‘fire’, kiwarjá ‘fire, flames’, s ‘light’, hinjí ‘sun’; wana (Peba Rivet); raitarra (Yameo Rivet) both: ‘sun’
+
+BM *kḯḯxї-gai, (kotsííbai) ‘fire’, *koó xɨ́e(ppi) nïʔї-ba ‘sun’
+
+253 TESTICLE
+
+TESTICLE
+
+-hádə ‘egg, testicle’ -di ‘penis’ -pã́d ‘semen, sperm’
+
+wi-miasel
+*om̂ u(-ru) ‘scrotum, him̰ jisíj, him̰ jéj ‘testicle’ testicle’
+
+256 TONGUE1
+
+TONGUE
+
+-sonə
+
+-iñiiko *nuru
+
+onesi, ɔneči ndaatʃíj ‘tongue’
+
+ka-moesse, ga-moto both: ‘penis’ BM *(nameʔo), *(xɨ́ɨttïʔï); Hp moda all: ‘penis’
+mee-nixigua, me-nehekoa ??**()pe
+
+APPENDIX 2.2. Greenberg’s Amerind etymologies with a Macro-Carib component.
+
+Amerind Macro-C Andoke
+
+Cariban itu, itua
+
+Peba-Yaguan toha, to:, tɔx
+
+259 TREE1
+
+FOREST
+
+oʔdeɸʌ ‘forest’ *jutu ‘forest’ -də, -ta ‘tree.Cl’
+
+toó ‘forest’
+
+Proto-Witotoan atikø, xatike, atsaitto
+
+(finished)
+
+Hr hasikɨ, taɨsɨki ‘forest’; O tjaá ́βo ‘forest’, tjam̈aá ń ʔin ‘forest, jungle’; B i ‘forest’
+
+260 TREE2
+
+TREE
+
+264 WATER1
+
+WATER
+
+-də, -ta ‘tree.Cl’ *wewe/*jeje ‘tree’ PT *epɨ ‘trunk’
+
+ne:nɔ, nɨɨnu nḭ́nṵ ‘tree’, -nṵ ‘CL.pole, person’
+
+dúʔu
+
+*tuna ‘water1’
+
+ha̰á̰ ‘water’, -mu,̰́ naw̰ á ‘big river’
+
+*paru ‘water2’
+
+i-mæ, ymaana, amena, amuunna, anaina
+**(aї)me-nai-() ‘stick ?**(aї)me() ‘tree’; BM *bax́ їḯ ‘forest, bush’; *(ɨna)-ʔaá mɨ ‘tree leaf’ maaño ‘wet’, (h)iman(i) ‘river’, maanu ‘river, sea’
+**m(oon)ai, **tae ‘river’
+
+Is Greenberg’s “Macro-Carib” viable? 72
+
+

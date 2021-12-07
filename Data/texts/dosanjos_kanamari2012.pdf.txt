@@ -1,0 +1,1577 @@
+LIAMES 12 - pp. 123-156, Primavera 2012
+Zoraide dos Anjos1 (Universidade Federal de Rondônia)
+Fonologia Katukina-Kanamari
+ABSTRACT: The aim of this work is to show the phonological description of Katukina-Kanamari (known as simply “Katukina”), a language spoken by some 2200 people in the state of Amazonas, Brazil. This paper treats variation in vowel segments and diphthongs, phonemic distribution at the syllable level, and some morphophonological processes like allomorphy and procliticization. KEYWORDS: Descriptive linguistics; Phonology; Amazonian languages; Katukina family; Katukina-Kanamari.
+RESUMO: Este trabalho tem por objetivo apresentar a descrição fonológica da língua KatukinaKanamari (brevemente Katukina) falada por cerca de 2200 pessoas no estado do Amazonas, Brasil. A variação entre segmentos vocálicos longos e ditongos, a distribuição do fonema no âmbito da sílaba, os processos morfofonológicos de alomorfia e procliticização são alguns dos aspectos que serão tratados nesse artigo. PALAVRAS CHAVE: Linguística descritiva; Fonologia; Línguas amazônicas; Família Katukina; Língua Katukina-Kanamari.
+0. INTRODUÇÃO
+Esse artigo está dividido em duas partes. Na primeira delas, apresentam-se algumas das classificações propostas anteriormente para a família linguística Katukina e nossa proposta de classificação interna na qual se conta a existência de duas línguas: Katawixi (provavelmente extinta) e Katukina-Kanamari. A descrição fonológica da língua Katukina, tratada na segunda parte do artigo, versa sobre: fonemas consonantais e vocálicos; estrutura silábica; distinção entre vocábulo fonológico e palavra gramatical; correlatos fonéticos do acento; aspectos da morfofonologia.
+1. CLASSIFICAÇÃO
+O termo “Katukina” representa, nesse trabalho, uma pequena família composta, por três variedades linguísticas supostamente diferenciadas o suficiente para merecer a denominação de “línguas”: Katukina, Kanamari, e Katawixi (Rivet 1920, Loukotka 1949, 1963; Tovar 1961).
+1 Doutora em Linguística pela Vrije Universiteit Amsterdam (Países Baixos). Professora adjunta da Universidade Federal de Rondônia, Campus Guajará-Mirim - Mestrado em Ciências da Linguagem.
+
+124
+
+LIAMES 12
+
+Uma hipótese de parentesco genético entre a família Katukina e a língua isolada da Amazônia peruana Harakmbut ou Amarakaeri é defendida por Adelaar (2000). Nessa proposta, o autor faz um comparação lexical entre o dialeto Kanamari e o Harakmbut na qual identificou cerca de cinquenta cognatos com diferentes graus de correspondência. Contudo, essa proposta não inseria dados da língua Katawixi e do Katukina do Biá.
+Todavia, em seu artigo de 2007, Adelaar apresentou a comparação das formas cognatas do Harakmbut e do Katawixi e Katukina-Kanamari com o objetivo de posicionar o último dentro do conjunto que chama de Harakmbut-Katukina. Nesse trabalho, o autor utiliza dados recolhidos pelo viajante Nantterer e pelo missionário Constantin Tastevin. Dessa forma, novas perspectivas de análise comparativa estão abertas sobre essa família até agora estritamente brasileira.
+A família Katukina, segundo Loukotka (1963) – que baseia sua classificação nas informações de Tastevin (1920b) e Paul Rivet (1920) – é composta por oito línguas que estão divididas em línguas do sul e do norte:
+
+Quadro 1. classificação da família Katukina segundo Loukotka
+
+Línguas do Sul
+
+Língua do Norte
+
+Catuquina ou Wiri-dyapá Canamari Parawa ou Hon-dyapá Tucundiapa ou Mangeroma Bendiapa Tawari ou Kadekili-dyapa ou Kayarára Buruá
+
+Catauxi ou Catosé ou Hewadie ou Katawishi ou Quatausi
+
+Os próprios índios identificam, dentro de sua sociedade, segmentos que podem assimilar-se a clãs, cuja denominação genérica é dyapa, e da qual se desconhece se reflete ou não algum tipo de subdivisão linguística. Com base no registro dos dyapa feito por Tastevin para classificar os grupos de índios Katukina e Kanamari de acordo com sua localização geográfica, Loukotka inferiu, erroneamente, que cada dyapa possuía uma língua distinta. Convém salientar que embora o trabalho do padre Tastevin considere que há diferenças entre o Katukina e o Kanamari, o que resulta da subdivisão em diferentes dyapa é uma distribuição geográfica.
+Por conseguinte, a organização da família Katukina proposta por Loukotka não deve ser considerada uma classificação linguística propriamente dita. Contudo, a separação entre línguas do sul e do norte, proposta por ele, deveria levar-nos a observar mais atentamente o Katawixi, que parece ser mais distante das outras variedades dentro da família.
+A segunda classificação a ser analisada sobre a família Katukina é a apresentada por Rodrigues (1986: 79) que diz: “Suas línguas são (ou foram) faladas no sudoeste do Amazonas, nos altos cursos dos rios Juruá, Jutaí e Javarí. Presentemente falam línguas desta família pelo menos os Katukina do rio Biá (afluente do Jutaí), os Txunhuã-djapá entre o Jutaí e o Jandiatuba e os Kanamari do Juruá, do Xeruâ, do Tarauacá, do Itacoaí e do Jutaí”. Rodrigues apresenta essa situação com base nos dados recolhidos pelo ornitólogo Von Spix, em 1840, que consistem em uma lista de vocábulos da língua Katukina, publicada por Martius (1863).
+
+ANJOS: FONOLOGIA KATUKINA-KANAMARI
+
+125
+
+Diferentemente de Loukotka, Rodrigues baseia-se em critérios linguísticos para classificação da família Katukina, observando os materiais linguísticos existentes.
+Apresentaremos, então, uma proposta de reorganização da classificação das línguas da família, baseando-nos nas observações feitas durante nossos trabalhos de campo (2003-2009), nas observações de Francesc Queixalós (2003-2008) linguista que estuda essa família desde os anos 90, bem como nas considerações feitas por Tastevin (1911-1932).
+Concluímos que as línguas dessa família são duas: Katukina, composta pelas variedades Kanamari (incluindo Tyohon dyapa) e Katukina do Biá e Katawixi, provavelmente já extinta.
+Tastevin incluía os Tyohon dyapa entre os clãs Kanamari, e relatava que viviam na bacia do Jutaí, mais ao oeste, no rio Itewahy, afluente do Jawary e do Jandiatuba, tributários do rio Juruá (sic). Entretanto, ele não fornece dados sobre a língua falada por eles. As informações mais recentes são de que um grupo de Tyohon dyapa foi contactado em 2001 pela expedição da FUNAI liderada por Sidney Possuelo na região entre os rios Jutaí e Jandiatuba. Trata-se de um grupo dominado pelos Kanamari que lhes presta serviços em troca de comida e roupas. Não são considerados índios isolados pelos funcionários da FUNAI, pois mantêm contato com a sociedade não índia por meio dos Kanamari que lhes fornecem ferramentas e alimentos vindos das cidades próximas.
+Tastevin já afirmava em 1920 (1920a) que ao se falar em Kanamari e Katukina do Biá não falamos de duas línguas, mas sim de duas variedades de uma mesma língua: “La langue de ces Katukína est essentiellement la même que celle des Kanamarí avec certaines particularités dialectales qui s’expliquent aisément par leur isolement”.
+Nossas observações no campo e nossas análises dos dados línguísticos confirmam plenamente essa afirmação. Em julho de 2005, devido a problemas de transporte, cerca de trinta índios Kanamari do alto Jutaí ficaram na aldeia Katukina Boca do Biá por aproximadamente dois meses. Os Katukina do Biá dizem que essa foi a primeira vez que viram os Kanamari do Jutaí. Embora de ambos os lados fosse um fato reconhecido a existência de algumas diferenças, basicamente lexicais, todos admitiam que a comunicação entre os dois grupos ocorria de forma natural. Nesse trabalho serão mencionados alguns dos traços fonológicos, gramaticais, discursivos e lexicais que nos permitem afirmar a condição de dialetos da mesma língua no que diz respeito às até hoje chamadas de língua Katukina e língua Kanamari. Outrossim, há uma forte presunção, com base nas nossas observações no campo, de que o Tyohon dyapa seja uma sub-variedade do dialeto Kanamari. Em síntese, na suposição de que haja hoje em algum lugar da Amazônia falantes de Katawixi, consideramos que a família Katukina é composta por duas línguas, dando a mais importante delas em termos demográficos a denominação de Katukina-Kanamari, ou, simplesmente, Katukina. Dessa língua, a variedade Katukina é falada no rio Biá (Anjos: 2005), enquanto a variedade Kanamari é falada principalmente nos cursos dos rios Juruá, Japurá, Xeruã, Itaquaí e Jutaí (Ribeiro et al.:1989, Lima e Py-Daniel 2002).
+A situação, para a maioria dos grupos, é de contato permanente ou semi-permanente com a sociedade nacional, com exceção de alguns grupos arredios ou isolados (cabeceiras do Pentiaquinho, afluente do Ituí; cabeceiras do rio Branco, afluente do Itaquaí; igarapé Kanamari, afluente do Arama; cabeceiras dos Jandiatuba e Jutaizinho; FUNAI e CEDI-ISA).
+
+126
+
+LIAMES 12
+
+Podemos dizer que há duas diferenças significativas entre as duas variedades no que se refere aos aspectos fonológicos. A primeira delas é a existência da variação livre dos ditongos fonéticos [ai], [oi], [ei], [au], [ou] respectivamente, com as vogais longas altas [i:] e [u:] na variedade Katukina do Biá. O dialeto Kanamari não apresenta essa variação, tendo apenas as realizações longas das vogais altas. Por outro lado, em oposição a essas vogais altas estão os ditongos fonológicos /ai/, /oi/, /ei/, /au/, /ou/. A segunda diferença identificada é a sonorização do fonema /k/ em fronteira de morfema. No dialeto Kanamari esse é produzido como o fone [g] o que não é observado no Katukina do Biá.
+No nível lexical também observamos diferenças, visto que não há correspondência total entre os vocábulos das duas variantes, pois nos inventários lexicais encontramos tanto uma série de vocábulos idênticos assim como vocábulos totalmente diferentes. Podemos dizer que, em média, entre cada dez palavras, uma não apresenta correspondência.
+Tendo como base as correspondências e diferenças encontradas nos nível fonológico e lexical, concluímos que Kanamari e Katukina do Biá são dialetos de uma mesma língua, que agora chamaremos de Katukina-Kanamari.
+Em seguida, apresentaremos a análise fonético-fonológica da língua Katukina que está dividida em quatro seções. Na primeira seção, denominada Fonemas, trataremos dos segmentos consonantais e vocálicos apresentando suas oposições fonológicas e respectivas manifestações fonéticas.
+Em Estrutura silábica, segunda seção, trabalharemos com os ambientes organizadores dos fonemas que, nessa língua, são a sílaba e o vocábulo fonológico. No que se refere à sílaba, apresentaremos, primeiramente, o resumo da estrutura silábica e o inventário dos padrões silábicos. Em seguida, demonstraremos quais são as consoantes que ocupam posição de ataque silábico, as que ocupam a posição de coda e as vogais que ocupam a posição de núcleo. Demonstraremos as realizações fonéticas das consoantais e vocálicas.
+No que se refere à palavra, apresentaremos as diferenças existentes entre palavra gramatical e palavra fonológica e trataremos especificamente do processo fonológico de sandhi.
+Na terceira seção, que é destinada ao acento, trataremos de seus correlatos fonéticos.
+A última seção desse artigo é dedicada à apresentação dos processos morfofonológicos que são a alomorfia dos prefixos pessoais e do sufixo intransitivizador e a cliticização dos sufixos -na, -nin e -hi.
+
+2. FONEMAS
+2.1. Consoantes
+Os fonemas consonantais, composto por doze segmentos, estão organizados em dois subsistemas: o primeiro é formado pelos segmentos [-soantes] e o segundo pelos segmentos [+soantes], como podemos observar nos quadros seguintes:
+
+ANJOS: FONOLOGIA KATUKINA-KANAMARI
+
+127
+
+Quadro 2. Fonemas consonantais
+
+[-soante] [+soante]
+
+[-voz] [+voz] [+nasal] [-nasal]
+
+Labial p b m
+
+Alveolar t d n l
+
+Palatal tS dZ ø
+
+Velar k
+
+Laringal h
+
+Quadro 3. Fones consonantais
+
+Quadro fonético consonantal2
+Labial Lábiovelar
+Oclusiva p b
+
+Alveolar td
+
+Pósalveolar
+
+Retroflexo
+
+Nasal
+
+m
+
+Fricativa
+
+Africada
+
+Lateral
+
+Aprox.
+
+w
+
+n
+tS dZ ñ
+
+Palatal ø j
+
+Velar
+k k| N
+
+Glotal ? h
+
+Os segmentos obstruintes estão divididos pelo traço [voz]. Verificamos a existência de fonemas obstruintes [-voz] e [+voz], sendo que /p/, /t/, /tЀ/, /k/, /h/ são [-voz] enquanto /b/, /d/ e /dЋ/ são [+voz]. No que se refere ao ponto de articulação, os segmentos obstruintes distribuem-se em cinco pontos: labial, alveolar, palatal, velar e laringal.
+Os segmentos do subsistema [+soante] contrastam pelo traço de nasalidade. Dessa
+forma, temos segmentos soantes [+nasal] e [-nasal], sendo que /m/, /n/ e // são [+nasal]
+enquanto e /l/ é [-nasal]. Os fonemas soantes [+nasal] distribuem-se em três pontos de articulação: labial, alveolar e palatal, respectivamente, /m/, /n/ e /ْ/. O segmento soante [-nasal] é a consoante lateral alveolar /l/.
+
+A seguir ilustramos as oposições entre os fonemas consonantais.
+
+(1) p/b /pa:da/ /ba:da/ /u:ba/ /kupa/
+(2) t/d /tu֊3/ /du֊/ /ti:ti/ /ti:di/
+
+[pa:⎆da] [ba:⎆da] [o:⎆ba] [koh ⎆pa]
+
+‘cuia’ ‘catipuru’ ‘tabaco’ ‘paxiubinha’
+
+[⎆tõ֊] [⎆dõ֊] [ti:⎆ti] [ti:⎆di]
+
+‘cesto’ ‘peixe(sp)’ ‘lavar’ ‘atravessar’
+
+2
+Utilizamos os símbolos do Alfabeto Fonético Internacional - IPA (1996). 3 Os símbolos K e ֊ representam os arquifonemas em posição de coda silábica. Ver seção 4:
+Estrutura silábica.
+
+128
+(3) tЀ/dЋ /tЀa֊/ /dЋa֊/ /kamudЋa/ /amutЀa/
+
+LIAMES 12
+
+[⎆tЀã֊] [⎆dЋã֊] [kamu⎆dЋa] [amu⎆tЀa]
+
+‘sol’ ‘caminho’ ‘macaco barrigudo’ ‘fugir’
+
+(4) t/tЀ
+/tu:/ /tЀu:/
+/kitana/ /kitЀana/
+
+[⎆to:] [⎆tЀo:] [kita⎆na] [kitЀa⎆na]
+
+‘descansar’ ‘pupunha’ ‘socó’ ‘gato do mato’
+
+(5) d/dЋ /da֊/ /dЋa֊/
+/pa:da/ /pa:dЋa/
+
+[⎆dã֊] [⎆dЋã֊] [pa:⎆da] [pa:⎆dЋa]
+
+‘caminho’ ‘caçar’ ‘cuia’ ‘‘tamanduá’’
+
+(6) m/n
+
+/makuna/
+
+[maku⎆na] ‘cará’
+
+/nukunana/ [nokuna⎆na] ‘tucunaré’
+
+/uamulѝ/ [wamo⎆ևѝ] ‘matrinxã’
+
+/uanama/
+
+[wana⎆ma] ‘macaco mambira’
+
+(7) n/ْ /na֊/ /ْa/
+/mana/ /maْa/
+
+[⎆nã֊] [⎆ْa] [ma⎆na] [ma⎆ْa]
+
+‘carapanã’ ‘seio’ ‘procurar’ ‘coisa grande’
+
+(8) n/l /nu:lѝ/ /lu:bѝ/ /manulѝ/ /malѝ/
+
+[no:⎆ևѝ] [ևu:⎆bѝ] [mano⎆ևѝ] [ma⎆ևѝ]
+
+‘macaco zogue-zogue’ ‘ir’ ‘mosca’ ‘tatu’
+
+(9) i/ѝ
+/bili/ /bѝlѝ/
+/bakti/ /baktѝ/
+
+[bi⎆li] [bѝ⎆lѝ] [bak⎆ti] [bak⎆tѝ]
+
+‘estar limpo’ ‘ter preguiça’ ‘estar longe’ ‘ser ruim’
+
+(10) dЋ/ْ /dЋa֊/ /ْa/ /uadЋa/ /aْa/
+
+[⎆dЋã֊] [⎆ْa] [wa⎆dЋa] [a⎆ْa]
+
+“caçar’’ ‘‘seio’’ ‘‘lua’’ ‘‘mulher’’
+
+ANJOS: FONOLOGIA KATUKINA-KANAMARI
+
+129
+
+(11) b/u
+
+/bamaK/
+
+[ba⎆mak⍾] ‘pacu’
+
+/uanama/
+
+[wana⎆ma] ‘macaco mambira’
+
+/bibiK bibiK/ [bi⎆bik⍾ bibik⍾] ‘trovejar’
+
+/bi:uiK/
+
+[bi:wik⍾]
+
+‘chupar’
+
+(12) u/i /uѝ / /iѝ/
+/maui/ /maia֊/
+
+[⎆wѝ] [⎆jѝ] [ma⎆wi] [ma⎆jã֊]
+
+‘querer’ ‘interrogativo’ ‘preguiça’ ‘parentes’
+
+(13) d/l /du:ha֊/ /lu:bѝ/
+/ku:di/
+/u:li/
+
+[du:⎆hã֊] [ևu:⎆bѝ] [ko:⎆di] [o:⎆ևi]
+
+‘descer’ ‘ir’ ‘tomar banho’ ‘corda’
+
+(14) b/m
+
+/bala/
+
+[ba⎆ևa]
+
+‘caça’
+
+/malѝ/
+
+[ma⎆ևѝ]
+
+‘tatu’
+
+/babѝdЋѝ/ [babѝ⎆dЋѝ] ‘carauaçu’
+
+/amѝ/
+
+[a⎆mѝ]
+
+⎆⎆macaco parauacu’
+
+(15) k/h
+/ki:/ /hi:ua֊/ /baku֊/
+/mahuki/
+
+[⎆ki:] [hi:⎆wã֊] [ba⎆kõ֊] [maho⎆ki]
+
+‘cabeça’ ‘chamar’ ‘dedo da mão’ ‘avisar’
+
+2.2. Vogais
+
+O sistema vocálico é composto por oito fonemas como podemos observar nos quadros seguintes:
+
+[+alto]
+
+Quadro 4. Fonemas vocálicos
+
+Palatal
+
+Velar
+
+[-labial] [+labial]
+
+i i:
+
+µ µ:
+
+u u:
+
+[-alto]
+
+a a:
+
+130
+
+LIAMES 12
+
+Quadro 5. Fones Vocálicos orais breves e longos
+
+Palatal
+
+Alto
+
+i i:
+
+Velar
+
+[+labial] [-labial]
+
+u u:
+
+µ µ:
+
+ei
+
+ou
+
+Baixo
+
+E Ei ai
+
+ u a a: au
+
+Quadro 6. Fones vocálicos nasais breves e longos
+
+Palatal
+
+Velar [+labial]
+
+Alto
+
+i ) i:)
+
+u) u):
+
+õu) e)i
+
+E) E)i
+
+) u) )
+
+Baixo [-labial]
+
+ãi )
+
+a) ãu)
+
+Os traços duração e abertura subdividem o sistema vocálico. No que se refere ao
+traço duração, temos quatro fonemas breves que se opõem a quatro fonemas longos. Os segmentos vocálicos breves identificados são: /i/4, /ѝ/, /u/, /a/ e os segmentos longos são: /i:/, /ѝ:/, /u:/, /a:/.
+Observemos os espectrogramas das palavras /ka:ki/ ‘cair’, /kapaju/ ‘mamão’, /tЀu:/ ‘pupunha’, /tЀu/ ‘imperativo’, /i:tЀu֊/ ‘arco’ e /ikau/ ‘chorar’ para analisarmos a duração
+das vogais longas e breves.
+
+4 Como veremos mais adiante, na seção 2.3.1, as vogais altas /i/ e /u/ realizam-se como os glides [w] e [j] em posição de ataque silábico.
+
+ANJOS: FONOLOGIA KATUKINA-KANAMARI
+
+131
+
+Figura1. Espectrograma do vocábulo /ikau/ ‘chorar’
+
+Figura 2. Espectrograma do vocábulo /i:tЀu֊/ ‘arco’
+Nas palavras /ikau/ ‘chorar’ e /i:tЀu֊/ ‘arco’, /i/ e /i:/ têm, respectivamente, 076 e 198 milésimos de segundo de duração.
+
+132
+
+LIAMES 12
+
+Figura 3. Espectrograma do vocábulo /tЀu/ ‘exortativo’
+
+Figura 4. Espectrograma do vocábulo /tЀu: / ‘pupunha’
+No par /tЀu/ ‘imperativo’ e /tЀu:/ ‘pupunha’ as vogais /u/ e /u:/ tiveram a seguinte duração: /u/, 092 milésimos de segundo e /u:/ 211 milésimos de segundo.
+
+ANJOS: FONOLOGIA KATUKINA-KANAMARI
+
+133
+
+Figura 5. Espectrograma do vocábulo /kapaiu / ‘mamão’
+
+Figura 6. Espectrograma do vocábulo /ka:ki / ‘quebrar’
+Notamos que nas palavras /ka:ki/ ‘quebrar’ e /kapaiu/ ‘mamão’ a duração das vogais, em milésimos de segundo, /a:/ e /a/ é, respectivamente, 201 e 097.
+Tendo como base esses exemplos, podemos concluir que a duração de uma vogal longa corresponde à duração de duas vogais breves.
+
+134
+
+LIAMES 12
+
+As vogais em Katukina constrastam dois graus de abertura. Como vogais [+alto] temos /i/, /ѝ/ e /u/ e como [-alto] a vogal /a/. O contraste de abertura aqui descrito aplica-se
+tanto para os fonemas breves quanto para suas contrapartes longas.
+Em relação ao ponto de articulação, as vogais são palatais ou velares. Identificamos como vogais palatais /i/ e /i:/ e como vogais velares /ѝ/, /ѝ:/, /u/, /u:/, /a/, /a:/.
+No que se refere à protusão dos lábios, temos fonemas [+labial] e [-labial]. Classificamos /ѝ/, /ѝ:/, /a/, /a:/ como segmentos [-labial] e /u/, /u:/ como [+labial].
+Em seguida, apresentamos as oposições fonológicas vocálicas:
+
+(16) i/i: /i/ /i:/
+(17) ѝ/ ѝ: /wѝ/ /wѝ:lѝ/
+(18) u/u: /tЀu/ /tЀu:/
+(19) a/a: /wapa֊/ /wa:pa֊/
+(20) i/u /i/ /u/
+(21) u/ѝ /pu/ /pѝ/
+(22) i/ѝ /baKti/ /baKtѝ/
+(23) ѝ/a /bѝK/ /baK/
+
+[⎆i]
+
+‘dente’
+
+[⎆i:]
+
+‘pé’
+
+[⎆wѝ] [w:⎆ևѝ]
+
+‘querer’ ‘garganta’
+
+[⎆tЀo] [⎆tЀo:]
+
+‘exortativo’ ‘pupunha’
+
+[wa⎆pã֊] [wa:⎆pã֊]
+
+‘marí’ ‘ter fome’
+
+[⎆i]
+
+‘pé’
+
+[⎆o]
+
+‘beber’
+
+[⎆pu] [⎆pѝ]
+
+‘ovo’ ‘comer’
+
+[bak⍾⎆ti] [bak⍾⎆tѝ]
+
+‘perto’ ‘ruim’
+
+[⎆bѝk⍾] [⎆bak⍾]
+
+‘fazer’ ‘ser bom’
+
+Foram identificados também os ditongos fonológicos /ui/, /ai/ e /au/ que ilustramos nos exemplos seguintes:
+
+(24) /ui/
+
+/uuika֊/
+
+[woi⎆kã֊]
+
+‘remar’
+
+/tЀauabuiK/ [tЀawa‫⎆ܒ‬boik⍾] ‘comer’
+
+/puiK/
+
+[⎆poik⍾]
+
+‘descascar’
+
+/hui/
+
+[⎆hoi]
+
+‘ser muito’
+
+ANJOS: FONOLOGIA KATUKINA-KANAMARI
+
+135
+
+(25) /ai/
+
+/uai/
+
+[⎆wai]
+
+‘vespa’
+
+/paiku/
+
+[pai⎆ko]
+
+‘pai’
+
+/kaiKna/ [kaik⍾⎆na] ‘macaco mambira’
+
+/dauaika֊/ [dawai⎆kã֊] ‘cair’
+
+(26) /au/ /uauK/ /taukala/ /ikau/ /bauhi/
+
+[⎆waok⍾] [taoka⎆a] [i⎆kao] [bao⎆hi]
+
+‘chegar’ ‘galinha’ ‘chorar’ ‘pajé’
+
+Ressaltamos que esses ditongos fonológicos não variam com as vogais longas [+alto] /i:/ e /u:/ como podemos observar nos exemplos seguintes:
+
+(27) i:/ui /pi:/ /pui/
+
+[⎆pi:] [⎆poi]
+
+‘espinho’ ‘pêlo’
+
+(28) i:/ai /hi:K/ /hai/
+
+[⎆hi:k⍾] [⎆hai]
+
+‘ver’ ‘carne’
+
+(29) u:/au
+/tu:K/ /tauKdЋa/
+
+[⎆tu:k⍾]
+
+‘limpar’
+
+[tauk⍾⎆dЋa] ‘lugar’
+
+(30) u:/ai /tЀu:/ /tЀai/
+
+[⎆tЀu:] [⎆tЀai]
+
+‘pupunha’ ‘ser cumprido’
+
+3. ESTRUTURA SILÁBICA
+Nesta parte do capítulo, trataremos dos ambientes organizadores dos fonemas que, nessa língua, são a sílaba e o vocábulo fonológico.
+No que se refere à sílaba, apresentaremos, primeiramente, o resumo da estrutura silábica e o inventário dos padrões silábicos. Em seguida, demonstraremos quais são as consoantes que ocupam posição de ataque silábico, quais as que ocupam a posição de coda e as vogais que ocupam a posição de núcleo.
+No que se refere à palavra, mostraremos as diferenças existentes entre palavra gramatical e palavra fonológica e trataremos especificamente do processo fonológico de sandhi.
+
+136 3.1. Distribuição dos fonemas
+
+LIAMES 12
+
+Podemos representar a estrutura silábica por meio da fórmula geral (C1) V1 (V2) (C2), na qual V é o elemento constituinte do núcleo silábico, que pode ser simples V1, ou complexo V1V2; C1 representa a consoante em posição de ataque silábico; e C2 representa a consoante que ocupa a posição de coda silábica.
+Os padrões silábicos identificados foram: V, VV, CV, CVV, VC, VVC, CVC, CVVC como
+podemos observar nos exemplos seguintes:
+
+V (31) /ikau/ (32) /puaku/ (33) /tuu/
+
+[i⎆kao] [poa⎆ko] [to⎆Бo]
+
+‘chorar’ ‘remo’ ‘outro’
+
+VV (34) /i:ku/ (35) /u:ba/ (36) /dai:/
+
+[i:⎆ko] [u:⎆ba] [da⎆Бi:]
+
+‘olho’ ‘tabaco’ ‘carregar’
+
+CV (37) /matuli/ (38) /kamudЋa/
+
+[mato⎆ևi]
+
+‘louro preto’
+
+[kamu⎆dЋa] ‘macaco barrigudo’
+
+CVV (39) (40) (41)
+
+/taukala/ /ki:dai/ /hѝ:dЋa/
+
+[taoka⎆ևa] [ki⎆dai] [hѝ:⎆dЋa]
+
+‘galinha’ ‘cabelo’ ‘macaco prego preto’
+
+VC (42) /a֊/ (43) /tiuK/
+
+[⎆ã֊] [ti⎆ѐk⍾]
+
+‘perna’ ‘saber’
+
+VVC (44) (45) (46)
+
+/i:֊/ /auK/ /u:֊/
+
+[⎆i:֊] [⎆auk⍾] [⎆u:֊]
+
+‘piranha’ ‘buraco’ ‘sapo(sp)’
+
+CVC (47) (48) (49) (50)
+
+/hi:pa֊/ /uakaK/ /baK/ /mu֊/
+
+[hi:pã֊] [wa⎆kak⍾] [⎆bak⍾] [⎆mõ֊]
+
+‘cobra’ ‘abacaxi’ ‘ser bom’ ‘tio’
+
+ANJOS: FONOLOGIA KATUKINA-KANAMARI
+
+137
+
+CVVC (51) /mi:֊/ (52) /na:tu:K/ (53) /ti:֊hi/ (54) /mi:daiK/
+
+[⎆mi:֊] [na:⎆tu:k⍾] [ti:֊⎆hi] [mi:⎆daik⍾]
+
+‘estômago’ ‘cará’ ‘descer’ ‘neta’
+
+3.1.1. Ataque
+
+Todas as consoantes ocupam a posição de ataque silábico, como podemos observar nos exemplos que seguem:
+
+(55) /p/ /piia/ /wa:pu/
+
+[pi⎆ja] [wa:⎆po]
+
+‘homem’ ‘pronto’
+
+(56) /t/ /tu:li/ /ita/
+
+[tu:⎆ևi] [i⎆ta]
+
+‘cesto de cipó’ ‘lenha’
+
+(57) /tЀ/ /tЀѝkѝ/ /batЀi/
+
+[tЀѝ⎆kѝ] [ba⎆tЀi ]
+
+‘morrer’ ‘veado’
+
+(58) /k/ /kauadЋu/ [kawa⎆dЋo] ‘coati’ /ualikama/ [waևika⎆ma] ‘capivara’
+
+(59) /b/ /ba:da/ /ubaua/
+
+[ba:⎆da] [oba⎆wa]
+
+‘catipuru’ ‘par’
+
+(60) /d/ /du֊/ /pa:da/
+(61) /dЋ/ /dЋuku/ /hѝ:dЋa/
+
+[⎆dõ֊] [pa:⎆da]
+[dЋo⎆ko] [hѝ:⎆dЋa]
+
+‘peixe(sp)’ ‘cuia’
+‘pedra’ ‘macaco mambira’
+
+(62) /m/
+/mimi/ /kamudЋa/
+
+[mi⎆mi] [kamo⎆dЋa]
+
+‘sangue’ ‘macaco barrigudo’
+
+(63) /n/ /na:tЀi/ /buni/
+
+[na:⎆tЀi] [bo⎆ni]
+
+‘milho’ ‘furar’
+
+138
+(64) /ْ/ /ْa/ /maْa/
+(65) /l5/ /lu:bѝ/ /wa:lu/
+(66) /h/ /hai/ /mahuki/
+(67) /u/ /uili/ /maui/
+(68) /i/ /ialiku֊/ /kapaiu/
+
+[⎆ْa] [ma⎆ْa]
+[ևo:⎆bѝ] [wa:ևu]
+[⎆hai] [maho⎆ki]
+[wi⎆ևi] [ma⎆wi]
+[jaևikõ֊] [kapa⎆jo]
+
+LIAMES 12
+‘seio’ ‘coisa grande’
+‘ir’ ‘papagaio’
+‘carne’ ‘avisar’
+‘queixada’ ‘preguiça’
+‘jaraqui’ ‘mamão’
+
+Ressaltamos que, em Katukina-Kanamari, a ocorrência de ataques complexos não é permitida.
+
+Realizações em posição de ataque
+Os fonemas [-soante] /p/, /b/, /t/, /d/, /tЀ/, /dЋ/ e /h/ realizam-se, respectivamente, como os fones labial [p] e [b], alveolar [t] e [d], palatal [tЀ] e [dЋ] e laringal [h]:
+
+(69) /p/ → /pa֊/ /wa:pu/
+(70) /t/ → /tu֊/ /i:takѝ/
+(71) /tЀ/ → /tЀu:/ /kitЀana/
+
+[p] [⎆pã֊] [wa:⎆pu]
+[t] [⎆tõ֊] [i:ta⎆kѝ]
+[tЀ] [⎆tЀu:] [kitЀa⎆na]
+
+‘braço’ ‘estar pronto’
+‘cesto’ ‘pedra’
+‘pupunha’ ‘gato doméstico’
+
+(72) /h/ → /hѝ:ha֊/ /wiha֊/
+
+[h]
+[hѝ:⎆hã֊] [wi⎆hã֊]
+
+‘ser forte’ ‘terminar’
+
+5 Destacamos que essa é a única ocorrência do fonema /l/ em início de palavra identificada em nossa base de dados.
+
+ANJOS: FONOLOGIA KATUKINA-KANAMARI
+
+139
+
+(73) /b/ →
+/baK/ /wadЋuba/
+
+[b] [⎆bak⍾] [wadЋu⎆ba]
+
+‘ser bom’ ‘abano’
+
+(74) /d/ → /da֊/ /pa:da/
+(75) /dЋ/ → /dЋa֊/ /ka:dЋu/
+
+[d] [⎆dã֊] [pa:⎆da]
+[dЋ] [⎆dЋã֊] [ka:⎆dЋo]
+
+‘caminho’ ‘cuia’
+‘caçar’ ‘jacaré’
+
+O fonema obstruinte velar /k/ realiza-se, em ataque silábico, como o fone [k]:
+
+(76) /k/ →
+/kapaju/ /diwaku֊/
+
+[k] [kapa⎆jo] [diwa⎆kõ֊]
+
+‘mamão’ ‘miçanga
+
+No ataque silábico, as vogais altas periféricas /u/ e /i/ realizam-se, respectivamente, como o fone aproximante labiovelar [w] e como o fone aproximante palatal [j]:
+
+(77) /u/ → /uapa֊/
+/mukaua]
+
+[w] [wa⎆pã֊] [moka⎆wa]
+
+‘marí’ ‘espingarda’
+
+(78) /i/ → /ialiku֊/
+/kapaiu]
+
+[j] [jaևi⎆kõ֊] [kapa⎆jo]
+
+‘jaraqui’ ‘mamão’
+
+A lateral /l/ realiza-se como o fone lateral retroflexo [և] em ataque silábico como podemos observar nos exemplos a seguir:
+
+(79) /l/ → /lu:bѝ/ /dЋili dЋili/
+
+[և]
+
+[ևu:⎆bѝ]
+
+‘ir’
+
+[dЋi⎆ևi dЋi⎆ևi] ‘periquito’
+
+No caso dos fonemas [+nasal] /m/, /n/, /ْ/ observamos que esses se realizam, respectivamente, como o fone labial [m], alveolar [n] e palatal [ْ] em posição de ataque
+silábico:
+
+(80) /m/ → [m]
+
+/mimina/
+
+[mimi⎆na] ‘mulher branca’
+
+/tЀulumidaK/ [tЀoևomi⎆dak⍾] ‘umbigo’
+
+(81) /n/ → /nukula֊/
+/kanalu/
+
+[n] [noko⎆ևã֊] [kana⎆ևo]
+
+‘queixo’ ‘desenho, letra’
+
+140
+(82) /ْ/ /ْa/ /maْa/
+
+LIAMES 12
+
+→ [ْ] [⎆ْa] [ma⎆ْa]
+
+‘seio’ ‘coisa grande’
+
+Sílabas sem ataque podem, opcionalmente, realizar-se como oclusão glotal. Vejamos alguns exemplos:
+
+(83) [‘Бi:]
+
+~
+
+[⎆i:]
+
+‘pé’
+
+(84) [Бu:⎆ba]
+
+~
+
+[u:⎆ba]
+
+‘tabaco’
+
+(85) [to⎆Бo]
+
+~
+
+[to⎆o]
+
+‘outro’
+
+3.1.2. Coda
+
+Em coda silábica observamos que podem ocorrer somente consoantes [-aproximante]. Deste grupo, tanto /p/, /t/, /tЀ/, /k/, /b/, /d/, /dЋ/, /h/ quanto os fonemas [+soante] /m/, /n/, /ْ/ e /l/ têm um só representante fonético. Em nossa proposta, a vogal alta que figura como
+segundo elemento de um ditongo integra-se ao núcleo e não à coda. Nos segmentos [-soante] /p/, /t/, /tЀ/, /k/, /b/, /d/, /dЋ/, /h/ notamos que a neutralização
+afeta além do ponto de articulação, o traço [voz]. As consoantes desse grupo sempre
+realizam o traço [-voz] e o ponto velar. Igualmente, nos segmentos [+soante] /m/, /n/, /ْ/ observamos a ocorrência da
+neutralização do ponto de articulação. Os segmentos desse grupo também são
+neutralizados em favor do ponto dorsal.
+Temos, então, dois arquifonemas na posição de coda: K que representa os fonemas
+֊ [-soante] e que representa os fonemas [+ soante].
+
+Realizações em posição de coda
+
+No que se refere ao arquifonema K esse realiza-se como fone velar não explodido6 [k⍾]:
+
+/K/
+
+(86) /uakaK/
+
+→
+
+(87) /hi:K-na/ →
+
+(88) /tauKdЋa/ →
+
+(89) /ki:dapaK/ →
+
+[wa⎆kak⍾] [hi:k⍾⎆na] [taok⍾⎆dЋa] [ki:da⎆pak⍾]
+
+‘abacaxi’ ‘ver’ ‘lugar’ ‘roupa’
+
+֊ Com referência ao arquifonema (ou seja, o subsistema dos segmentos soantes em
+posição de coda silábica), esse se realiza como fone nasal velar [֊]:
+
+6 Nesta seção sobre realizações, só será ilustrado o fenômeno em questão.
+
+ANJOS: FONOLOGIA KATUKINA-KANAMARI
+
+141
+
+/֊/
+
+(90) /pa֊/
+
+→ [⎆pã֊]
+
+‘braço’
+
+(91) /du֊/
+
+→ [⎆dõ֊]
+
+‘peixe (sp)’
+
+(92) /mi:֊/
+
+→ [⎆mi:֊]
+
+‘estômago’
+
+(93) /udЋa֊ka/ → [udЋã֊⎆ka] ‘fruta amarga’
+
+Convém ressaltar que, a neutralização das consoantes nasais, tendo como realização
+um som dorsal pode ser encontrada em certos dialetos do espanhol.7 Frisamos ainda que, em fala rápida, K e ֊ podem ser apagados em final de palavra:
+
+/K/ (94) /uakaK/ (95) /du:K/
+/֊/
+(96) /pa֊/ (97) /i:֊/
+
+→ [wa⎆kak⍾] ~
+
+→ [⎆do:k⍾]
+
+~
+
+→ [⎆pã֊]
+
+~
+
+→ [⎆i:֊]
+
+~
+
+[wa⎆ka] [do:]
+[⎆pã] [⎆i:]
+
+‘abacaxi’ ‘defecar’
+‘braço’ ‘piranha’
+
+3.1.3. Núcleo
+
+Todas as vogais podem constituir um nucleo silábico simples como podemos observar nos exemplos que seguem:
+
+(98) (99) (100) (101)
+
+/ba/ /bi/ /pu/ /bѝK/
+
+[⎆ba] [⎆bi] [⎆po] [⎆bѝk⍾]
+
+‘folha’ ‘pus’ ‘ovo’ ‘fazer’
+
+Os núcleos complexos têm a seguinte formação:
+
+(1) segunda posição do núcleo ocupada pela segunda parte de uma vogal longa (anotada V:):
+
+(102) (103) (104) (105)
+
+/ua:pa/
+/ki:ua/ /u:ma֊/ /uѝ:lѝ/
+
+[wa:⎆pa] [ki:⎆wa] [u:⎆mã֊] [wѝ:⎆ևѝ]
+
+‘cachorro’ ‘paca’ ‘árvore, pau’ ‘garganta’
+
+(2) vogal /a/ seguida das vogais [+alto] /i/ e /u/ (anotada: VV (vogal-vogal)):
+
+(106) /ki:dai/ (107) /taukala/
+
+[ki:⎆dai] [tauka⎆ևa]
+
+‘cabelo’ ‘galinha’
+
+7 De acordo com Piñeros (2007: 150-153), nos dialetos do espanhol falados nas cidades de Caracas e na Cidade do Panamá, encontra-se processo de neutralização semelhante ao identificado em KatukinaKanamari.
+
+142
+
+LIAMES 12
+
+(3) sequência das vogais [+alto] /u/ e /i/ sempre na ordem velar-palatal (anotada: VV (vogal - vogal)):
+
+(108) /uuika֊/ (109) /numui/
+
+[wui⎆kã֊] [no⎆mui]
+
+‘remar’ ‘piau’
+
+Realizações em posição de núcleo
+
+Nesta sub-seção apresentaremos as realizações fonéticas das vogais, estabelecendo a diferença entre as realizações dos núcleos silábicos simples e complexos. Primeiro apresentamos as realizações dos núcleos simples e dos núcleos complexos e teceremos alguns comentários.
+As vogais altas /i/ e /u/ apresentam um amplo leque de variação livre na escala de abertura. Representamos o espaço existente entre [i] a [ϯ] e [u] e [ѐ] como um contínuo de variação, pois não identificamos nenhuma realização preferencial. Assim, utilizamos uma linha vertical para ligar as realizações que abrangem o grau de abertura:
+
+(110) /i/ /pukuni֊/ → [pokѐ⎆ni֊] ~ ... ~ [pѐko⎆nϯ֊]
+
+‘paxiubão’
+
+(111) /u/ /talu/ →
+
+[ta⎆lu] ~ .... ~ [ta⎆lѐ]
+
+‘lençol’
+
+No que se refere às vogais longas, estas apresentam ditongação: a primeiro parte pode percorrer todos os graus de abertura:
+
+(112KATBIA) /i:/ /i:ku/ →
+
+[i:⎆ko] ~ [ei⎆ko] ~ [ϯi⎆ko] ~ [ai⎆ko]
+
+‘olho’
+
+(113KATBIA) /u:/ /u:ma֊/→ [u:⎆mã֊] ~ [ou⎆mã֊] ~ [ѐu⎆mã֊] ~ [au⎆mã֊]
+
+‘árvore’
+
+(1) no núcleo palatal, a ditongação se realiza pela variação no grau de abertura da primeira parte da vogal longa criando um ditongo decrescente:
+
+/i:/ /i:ku/ → ... ~ [ѐi⎆ko] ~ [oi⎆ko]
+
+‘olho’
+
+(2) além do processo de ditongação exemplificado em (112), no núcleo velar, a realização longa pode ser feita como um monotongo com grau de abertura variável:
+
+/u:/ /u:ma֊/ → ~ [o:⎆mã֊] ~ [ѐ:⎆mã֊] ‘árvore’
+
+É importante salientar que a ditongação opcional dos núcleos longos é uma inovação diacrônica exclusiva do dialeto do Biá. O dialeto Kanamari mantém intacta a realização uniforme desses núcleos.
+
+ANJOS: FONOLOGIA KATUKINA-KANAMARI
+
+143
+
+Uma sequência de vogais representando um núcleo longo distingue-se de uma sequência de vogais breves idênticas e heterossilábicas. No último caso, insere-se uma oclusão glotal entre as duas vogais. Observemos os exemplos seguintes:
+
+(114) [to⎆Бo] (115) [da⎆Бã֊] (116) [da⎆Бi:]
+
+‘outro’ ‘sair’ ‘carregar’
+
+Codas silábicas que não são preenchidas pelos arquifonemas citados anteriormente, têm, de forma opcional, como ocorrência o fone fricativo glotal [h]. Vejamos alguns exemplos:
+
+(117) [ba‫⎆ܒ‬tЀi]
+
+~
+
+(118) [ko‫⎆ܒ‬pa]
+
+~
+
+(119) [pi:⎆da‫]ܒ‬
+
+~
+
+(120) [pio⎆ևѝ‫~ ]ܒ‬
+
+(121) [hi:‫⎆ܒ‬na] ~
+
+(122) [bo:‫⎆ܒ‬tЀã֊] ~
+
+(123) [ْada‫⎆ܒ‬gõ֊] ~
+
+[ba⎆tЀi] [ko⎆pa] [pi:⎆da] [pio⎆ևѝ‫]ܒ‬ [hi:⎆na] [bo:⎆tЀã֊] [ْada⎆gõ֊]
+
+‘veado’ ‘paxiubinha’ ‘onça’ ‘caju’ ‘arraia’ ‘aranha’ ‘cobra cipó’
+
+Concluímos que as vogais (breves ou longas) em sílabas desprovidas de coda são produzidas, de forma opcional, com ensurdecimento8.
+Outra característica da realização das vogais é sua nasalização em sílabas com coda ocupada pelo arquifonema nasal. Apresentamos alguns exemplos das realizações nasais.
+
+(124) /i/ /pukuni֊/ →
+
+(125) /u/
+
+/du֊/
+
+→
+
+(126) /a/
+
+/ki:ta֊/
+
+→
+
+(127) i:
+
+/i:֊/
+
+→
+
+(128) u:
+
+/u:֊/
+
+→
+
+[poko⎆ni֊] ‘paxiubão’
+
+[⎆dõ֊]
+
+‘peixe (sp)’
+
+[ki:⎆tã֊]
+
+‘dormir’
+
+[⎆i:֊]
+
+‘piranha’
+
+[⎆õ:֊]
+
+‘sapo (sp)’
+
+Não foram encontradas realizações nasais para as vogais dorsais /ѝ/ e /ѝ:/ e /a:/, pois não há sílabas fechadas com o arquifonema nasal em que essas vogais figurem.
+
+8 Daqui por diante representaremos a realização ensurdecida das vogais da seguinte forma: [vh].
+
+144
+
+LIAMES 12
+
+Salvo as lacunas apontadas, o quadro de segmentos nasais é semelhante ao dos segmentos orais (veja página 7).
+
+4. VOCÁBULO FONOLÓGICO
+
+Para definir o vocábulo fonológico dessa língua, consideraremos, inicialmente, as ocorrências de palavras simples, constituídas de um só morfema, que apresentam uma ou mais sílabas sendo uma delas tônica, que sempre está na última posição.
+No âmbito da palavra sem estrutura morfológica interna, no qual coincidem o vocábulo fonológico e o vocábulo gramatical, encontramos vocábulos monossilábicos, dissilábicos e trissilábicos.
+Nos vocábulos monossilábicos, encontram-se todos os tipos de sílabas como podemos observar nos exemplos seguintes:
+
+V (129) /u/ (130) /i/
+V: (131) /i:/
+
+[⎆o]
+
+‘beber’
+
+[⎆i]
+
+‘dente’
+
+[⎆i:]
+
+‘pé’
+
+CV (132) /ma/ (133) /po/
+
+[⎆ma] [⎆po]
+
+‘fígado’ ‘ovo’
+
+CV: (134) /tЀu:/
+CVV (135) /pui/ (136) /hai/
+
+[⎆tЀo:]
+[⎆poi] [⎆hai]
+
+‘pupunha’
+‘pêlo’ ‘carne’
+
+VC (137) /a֊/ (138) /uK/
+
+[⎆ã֊] [⎆ѐk⍾]
+
+‘perna’ ‘produzir’
+
+V:C
+
+(139) /i:֊/
+
+[⎆i֊]
+
+‘piranha’
+
+VVC (140) /auK/
+
+[⎆aok⍾]
+
+‘buraco’
+
+CVC (141) /mu֊/ (142) /haK/
+
+[⎆mõ֊] [⎆hak⍾]
+
+‘tio’ ‘casa’
+
+ANJOS: FONOLOGIA KATUKINA-KANAMARI
+
+145
+
+CV:C (143) /mi:֊/
+
+[⎆mi:֊]
+
+‘estômago’
+
+CVVC (144) /uaik/
+
+[⎆waik⍾]
+
+‘música’
+
+No caso da sílaba V:, a palavra /i:/ ‘pé’ foi o único monossílabo identificado. Quanto às sílabas com vogais longas fechadas, ressaltamos que estas só foram encontradas em palavras monossilábicas como podemos observar nos exemplos que seguem:
+
+(145) /u:֊/ (146) /i:֊/
+
+[⎆u֊] [⎆i :֊]
+
+‘sapo (sp)’ ‘piranha’
+
+Vocábulos de tipo V:C com as vogais /a:/ e /ѝ:/ não foram identificados assim como palavras no padrão VC com a vogal /ѝ/. Concluí-se que, com exceção da vogal breve /a/, nenhuma sílaba com núcleos formados por vogais dorsais é fechada. Uma possível
+explicação seria que a combinação entre um núcleo longo dorsal e uma coda dorsal não é
+permitida.
+No que se refere aos monossílabos de tipo V1V2C identificamos, até o momento, o seguinte exemplo:
+
+(147) /auK/
+
+[⎆aok⍾]
+
+‘buraco’
+
+Nos vocábulos dissilábicos, encontramos as seguintes combinações9:
+
+V ---V.CV
+V.CVC V.CVVC
+
+Quadro 7. Padrões silábicos em vocábulos dissilábicos
+
+VV ---VV.CV/ VV.CVV VV.CVC VV.CVVC
+
+CV CV.V CV.CV
+CV.CVC CV.CVVC
+
+CVV CVV.CV CVV.CVV
+CVV.CVC CVV.CVVC
+
+CVVC CVVC.CV ----
+-------
+
+Salientamos que a ocorrência do padrão CV:C fora da última sílaba do vocábulo foi identificado somente em dois exemplos: /ti:֊ . hi/ ‘descer’ e /ki:֊ . hi/ ‘voltar’. Encontramos o padrão CVVC vocábulos somente nos vocábulos dissilábicos /tauK . dЋa/ ‘lugar’ e /kaiK . na/
+‘macaco guariba’.
+Identificamos, também de forma pouco comum, o encontro de vogais em limite de sílaba, como na sequência CV.V /uѝ . a/ [wѝ⎆a] ‘cotia pequena’.
+
+9 A notação VV utilizada no quadro das combinações silábicas, representa os núcleos silábicos complexos anotados como V: e VV.
+
+146
+
+LIAMES 12
+
+Quanto aos vocábulos trissilábicos, constatamos que, embora existam lacunas, os encontros de sílabas correspondem às mesmas possibilidades encontradas nos padrões dos vocábulos dissilábicos: CV:.CV.CVC /ma:.pi.ka֊/ ‘escutar’; V:.CV.CV /i:.ta.kѝ/ ‘trabalhar’, CV:.CV.CV /hu:. ki. tЀa/ ‘soluço’; VV.CV.CVVC /tЀa . ua. boiK/ [tЀa . wa. ⎆boik⍾] ‘comer’ e V:.CV. CV:C /u:.mi.ti:K/ ‘escurecer’.
+Existem cerca de dez vocábulos com mais de três sílabas na língua. A maioria têm como combinação silábica CV.CV.CV.CV, como nos exemplos: /nu.ku.na.na/ ‘tucunaré’ e / ua.pi.ka.lѝ/ ‘boto cor de rosa’. Entretanto, acreditamos que estes sejam historicamente combinações de mais de um morfema, que, todavia, não podem ser segmentados sincronicamente.
+
+5. ACENTO
+Nesta seção trataremos do acento e de suas características fonéticas. Como podemos observar nos exemplos seguintes, a intensidade (Figura 7) e a altura (pitch) (Figura 8) coincidem na última sílaba:
+Figura 7. Intensidade e altura no vocábulo /i:tЀu֊/ ‘arco’
+
+ANJOS: FONOLOGIA KATUKINA-KANAMARI
+
+147
+
+Figura 8. Intensidade e altura no vocábulo /manati/ ‘ontem’
+
+Figura 9. Intensidade e altura no vocábulo /pi:ka֊/ ‘deitar’
+A constância da altura é sempre na última sílaba dos vocábulos, mesmo quando a intensidade não esteja nessa sílaba como podemos observar nos vocábulos /buni/→[bo‫⎆ܒ‬ne] ‘furar’ e /hѝ:ma֊/→[hѝ:⎆mã֊] ‘pegar’:
+
+148
+
+LIAMES 12
+
+Figura10. Intensidade e altura no vocábulo /buni/ ‘furar’
+
+Figura11. Intensidade e altura no vocábulo /hѝ:ma֊/ ‘pegar’
+
+Tendo em vista que os sufixos são desprovidos de acento próprio, seu acréscimo às raízes verbais e nominais faz como que o acento do vocábulo fique na última sílaba da palavra fonológica. Dessa forma, a sufixação não causa alterações no padrão acentual como podemos verificar nos exemplos seguintes nos quais apresentamos raízes verbais e nominais em sua forma básica seguida pela associação de sufixos:
+
+ANJOS: FONOLOGIA KATUKINA-KANAMARI
+
+149
+
+(148a) /ki:ta֊/ dormir ‘(Ele) dorme’
+
+→ [ki:⎆tã֊]
+
+(148b) /ki:ta֊-ni֊/ dormir-DUR ‘(Ele) está dormindo’
+
+→ [ki:tã֊⎆ni֊]
+
+(149a) /mimi/ sangue ‘O sangue’
+
+→ [mi⎆mi]
+
+(149b) /mimi-uK/ sangue-VRBLZ ‘Sangrar’
+
+→ [mimi⎆ѐk⍾]
+
+(150a) /pi:da/ onça ‘A onça’
+
+→ [pi:⎆da]
+
+(150b) /pi:da-pa/ onça-VRBLZ ‘Agir como onça’
+
+→ [pi:da⎆pa]
+
+Concluímos essa subseção relembrando que o correlato básico do acento é a altura e que a tonicidade encontra-se na última sílaba dos vocábulos. Consideramos, então, que o acento é previsível na língua.
+
+6. FRASE FONOLÓGICA
+
+Em Katukina-Kanamari cada palavra fonológica é provida de um acento. Entretanto, quando palavras fonológicas estão justapostas no nível da frase fonológica, ao lado de uma realização com um acento para cada palavra, encontramos na fala mais rápida a realização da seqüência com apenas um acento na última sílaba do conjunto:
+
+(151) [ki: ⎆tã֊ dormir ‘Eu durmo’
+
+a⎆dѝ] 1SNG
+
+→ [ki:ta:⎆dѝ]
+
+(152) [dado: ⎆hi i⎆di:k⍾=tЀo] → correr, fugir 2SNG=EXORT ‘Corra você!’
+
+[dado:hi:di:k⍾⎆tЀo]
+
+Nas construcões gramaticais apresentadas acima, observamos a ocorrência do fenômeno de sandhi que ocorre obedecendo às seguintes regras:
+
+150
+
+LIAMES 12
+
+Regra 1: perda da oclusão nasal ֊
+
+֊ → ø/((__ )pal.fon.(...)pal.fon.)frasefon.
+
+[ki: ⎆tã֊ a⎆dѝ]
+
+→
+
+[ki: ⎆ta a⎆dѝ]
+
+Regra 2: acento atribuído à última sílaba da frase fonológica
+
+((...σ!)pal.fon.(... σ!) ) pal.fon. frasefon. →
+
+[ki: ⎆tã֊ a⎆dѝ]
+
+→
+
+((... σ)pal.fon.(... σ!))pal.fon.)frasefon. [ki:ta a⎆dѝ]
+
+Regra 3: fusão de vogais idênticas (duas vogais idênticas heteros-silábicas tornam-se tautossilábicas)
+
+σ
+
+σ
+
+σ
+
+((...Vi)pal.fon.( Vi...)pal.fon.)frasefon.’!...
+
+[ki:ta a⎆dѝ]
+
+→
+
+((...Vi)pal.fon.(Vi....)pal.fon.)frasefon. [kiitaa⎆dѝ]
+
+Como foi dito anteriormente10, o arquifonema do subsistema [-soante] em posição de coda é realizado como o fone velar não explodido [k⍾]. Entretanto no dialeto Kanamari, quando a raiz é associada a um morfema iniciado por consoante vozeada ou por vogal esse arquifonema é realizado como o fone velar sonoro [g] como podemos observar nos exemplos seguintes:
+
+(153KAN) (154KAN) (155KAN)
+
+haK-ba
+
+→
+
+casa-plano
+
+‘telhado’
+
+[hag⎆ba]
+
+ْadaK-u֊ → cobra-cipó ‘cobra cipó’
+
+[ْada‫⎆ܒ‬gõ֊]
+
+hi-duK-ni֊
+
+ualapi →[i-dug⎆ni֊ waևa⎆pi]
+
+1SNG-pegar-DUR fruta (sp)
+
+‘Eu estou pegando fruta’
+
+A sonorização do arquifonema obstruinte não foi identificada em Katukina do Biá. Concluímos que na sonorização do arquifonema [-soante] /K/, no dialeto Kanamari observa-se a ocorrência de sandhi externo (cf. exemplos (153-154)) e interno (cf. exemplo (155)) que ocorre obedecendo as seguintes regras:
+
+K→ g/ __ {+,#} [+voz]
+
+10 Na seção 2.4.1 Realizações em posição de coda.
+
+ANJOS: FONOLOGIA KATUKINA-KANAMARI
+
+151
+
+7. MORFOFONOLOGIA
+
+A segunda parte desse capítulo é dedicada à apresentação dos processos morfofonológicos nos dialetos Katukina do Biá e Kanamari. Identificamos dois processos dessa natureza: (i) alomorfia e (ii) procliticização que serão apresentados nas sub-seções seguintes.
+
+7.1. Alomorfia
+
+Um morfema com realizações fonéticas diferentes é o sufixo instransitivizador que apresenta três alomorfes: -i, -k, -hiK. A seleção das formas é condicionada pelo último fonema da raiz verbal ao qual o sufixo em questão é associado. Quando o morfema verbal termina em K, utiliza-se o alomorfe i-:
+
+(156KAN) haK-i flechar-INTRNZ ‘Eu me furei’
+
+adѝ 1SNG
+
+(157) Kupa
+
+hi:K-i
+
+Kopa
+
+ver-INTRNZ
+
+‘Kopa viu a si mesmo’
+
+A ocorrência do alomorfe -hik foi identificada em dois ambientes. No primeiro deles, a raiz verbal termina com o arquifonema das consoantes [+nasal], isto é, ֊ como podemos observar nos exemplos seguintes:
+֊ _ -hiK
+
+(158) tupuha֊-hiK soprar-INTRNZ ‘Você soprou’
+
+idi:K 2SNG
+
+(159) uaikma֊-hiK
+
+dЋa
+
+furar-INTRNZ
+
+rijú
+
+‘O rijú furou’
+
+Enquanto que no segundo ambiente, a raiz verbal tem como último fonema uma vogal (com execeção da vogal alta dorsal /u/):
+
+(160KAN) (161KAN)
+
+kѝni-hiK
+
+adѝ
+
+morder-INTRNZ 1SNG
+
+‘Eu mordi a mim mesma’
+
+hi-tuhi:K
+
+ikubalama-hiK-ni֊ Maio֊
+
+1SNG-ver
+
+mirar-INTRNZ-DUR Mayon
+
+‘Eu vi Mayon mirando nele mesmo’
+
+Quando o último fonema da raiz verbal é a vogal dorsal /u/, o alomorfe do sufixo intransitivizador identificado é -k:
+
+(162) t u u pu-k
+
+nѝK
+
+outro comer-INTRNZ
+
+grupo
+
+‘As pessoas comeram outrém’
+
+(163) uu-k
+querer, gostar-INTRNZ ‘Eu gosto de mim’
+
+adѝ 1SNG
+
+152
+
+LIAMES 12
+
+Concluímos que os alomorfes do morfema intransitivizador, isto é, -i,-k,-hik estão em distribuição complementar cujo condicionamento segue as regras seguintes:
+
+/-hik/→K __-i Vu __-k V≠ u __-hik ֊ __ -hik
+
+Doravante utilizaremos a forma -hik que acreditamos ser a forma arcaica desse morfema para representar o sufixo intransitivizador.
+
+7.2. Procliticização
+
+Há dois grupos de clíticos em Katukina. O primeiro deles tem como função marcar tempo, aspecto e modalidade nos eventos. Enquanto que o segundo grupo, que trataremos nessa subseção, é constituído pelos clíticos -na=, -hi= e -nin=.11
+Essas três formas clíticas apesar de serem gramaticalmente ligadas ao nome (-na= e -hi=) ou ao verbo (-ni֊=) que os antecede, realizam-se fonologicamente ligando-se ao elemento que os sucede.
+Observemos os exemplos (164) e (165) nos quais o proclítico -ni֊= precede os verbos uѝ “querer” e baK “ser bom” que funcio-nam como núcleo sintático de construções verbais auxiliares:
+
+(164FQ) Oui-na= bѝhѝK-ni֊= uѝ kuia Owi fazer-MDP querer caiçuma ‘Owi quer fazer caiçuma’
+
+(165) ki:ta֊-ni֊= baK dormir-MDP ser bom ‘(Ele) dormiu muito’
+
+Nas construções auxiliares apresentadas nos exemplos (164) e (165), o clítico -ni֊= está gramaticalmente ligado ao verbo subordinado que o precede, isto é, bѝhѝK “fazer” em (164) e ki:ta֊ “dormir” no exemplo (165). Todavia, -ni֊= realiza-se fonologicamente ligado ao verbo auxiliar:
+
+(164’) [O⎆wi nabѝ⎆hѝk⍾ (ni֊⎆wѝ)pal.fon. ko⎆ja]
+(166’) [ki: ⎆tã֊ (ni֊⎆bak⍾) ] pal.fon.
+-Ni֊= liga-se prosodicamente ao elemento que o sucede, isto é, o núcleo da construção, ou seja, o verbo auxiliar uѝ “querer” em (164’) e baK “ser bom” no exemplo (166’) e forma com esses verbos uma palavra fonológica.
+
+11 Para uma descrição detalhada dos clíticos -na=, -hi= e -ni֊= consultar Anjos (2011).
+
+ANJOS: FONOLOGIA KATUKINA-KANAMARI
+
+153
+
+Nas construções cujos núcleos são um verbo divalente, um nome alienável ou uma posposição, o argumento interno do núcleo é marcado com caso estrutural. Essa marcação é feita com o uso do clítico -na=. Assim como -ni֊=, -na= realiza-se prosodicamente ligado ao elemento núcleo na construção, como podemos observar nos exemplos abaixo, nos quais um verbo divalente (167), um nome inalienável (168) e uma posposição (169) são núcleo da construção e têm como argumento interno um nome marcado com caso:
+
+(167) ua:pa-na= ti:
+
+taukala
+
+cachorro-ERG matar
+
+galinha
+
+‘O cachorro matou a galinha’
+
+[wa:⎆pa (na⎆ti:)pal.fon. tauka⎆ևa‫]ܒ‬
+(168) Kupa-na= ubatЀaua Kopa-GEN esposa ‘A esposa do Kopa’
+
+[ko‫⎆ܒ‬pa (naobata⎆wa)pal.fon.]
+
+(169) Iaku-na=
+
+katѝ Dyulaidi
+
+Yako-OBJPOSP
+
+SOC2 Zoraide
+
+‘Zoraide está com o Yako’
+
+[ja⎆ko (naka⎆tѝ)pal.fon. dЋuևai⎆di]
+
+O terceiro clítico em que observamos o processo de procliticização é -hi=. Sua função é indicar que o nome ao qual se associa representa um grupo de elementos. Apesar de sintaticamente estar ligado ao sintagma nominal que o precede, esse clítico realiza-se prosodicamente associado ao nome nѝk “grupo” que o sucede como é possível observar nos exemplos seguintes:
+
+(170) tЀѝkѝ
+
+ha-tu-hi=
+
+morrer
+
+3SNG-filha-COL
+
+‘As filhas dele morreram’
+
+nѝK grupo
+
+[tЀѝ⎆kѝ ha⎆tЀo (hi⎆nѝk⍾)pal.fon.]
+
+(171) dadu:hi
+
+itЀalu-hi=
+
+correr, fugir mulher-COL
+
+‘A mulherada fugiu’
+
+nѝK grupo
+
+[dado: ⎆hi itЀa⎆ևo (hi⎆nѝk⍾) ] pal.fon.
+
+Observamos nos exemplos acima que apesar de -hi= estar ligado sintaticamente ao nome que o precede, ou seja, tu “filha” em (170) e itЀalu “mulher” no exemplo (171) prosodicamente procliticizasse ao elemento que o sucede, isto é, o nome nѝK “grupo” formando com esse uma palavra fonológica.
+
+154
+
+LIAMES 12
+
+Nos testes realizados com os falantes do Katukina, a inserção de uma pausa entre os clíticos -na=, -hi=, -ni֊= e o elemento que os precedem é sempre aceita. Todavia, quando a pausa ocorre entre os clíticos e os elementos que os sucedem, os falantes sistematicamente corrigem a pronúncia produzindo o clítico associado ao elemento que o sucede.
+
+CONSIDERAÇÕES FINAIS
+Neste artigo tratamos, inicialmente, das classificações propostas anteriormente para a família linguística Katukina e incluímos nossa proposta de classificação interna na qual constatamos a existência de duas línguas: Katawixi (provavelmente extinta) e Katukina-Kanamari.
+A segunda parte do trabalho foi dedicada à apresentação da descrição fonético-fonológica do Katukina. Foram identificados doze fonemas consonantais: /p/, /t/, /tЀ/, /k/, /h/, /b/, /d/, /dЋ/ que compõem o sub-grupo [-soante] e /m/, /n/, /ْ/, /l/ que compõem o sub-grupo [+soante]. As consoantes obstruintes estão subdivididas pelo traço [voz] ao passo que as soantes subdividem-se pelo traço nasalidade.
+Oito fonemas vocálicos foram identificados: /i/, /i:/, /ѝ/, /ѝ:/, /u/, /u:/, /a/, /a:/. Esses fonemas subdividem-se pelos traços duração e abertura. Convém pontuar, também, a existência dos ditongos fonológicos /ui/, /ai/ e /au/ que se opõem fonologicamente às vogais longas [+alto] /i:/ e /u:/.
+No que se refere à estrutura silábica do Katukina foram identificados os padrões V, VV, CV, CVV, VC, VVC, CVC, CVVC. Em relação à realização dos fonemas nas posições de ataque, coda e núcleo silábico, notou-se que: (i) na posição de ataque, as vogais altas /u/ e /i/, realizam-se, respectivamente, como os fones [w] e [j]; (ii) na posição de coda foi identificada a neutralização tanto dos segmentos [-soante] quanto dos [+soante]. No caso dos segmentos [-soante] neutralizam-se tanto o ponto de articulação como o traço [voz]. Esses segmentos são realizados como o fone velar não explodido [k⍾]. No caso dos segmentos [+soante], a neutralização do ponto de articulação ocorre em favor do ponto dorsal. Tais segmentos são realizados como o fone nasal velar [֊]; (iii) na posição de núcleo, ressalta-se a ampla variação das realizações das vogais breves /i/ e /u/ no que diz respeito à escala de abertura assim como a ditongação das vogais longas /i:/ e /u:/, processo identificado somente no dialeto Katukina do Biá.
+O acento é previsível na língua sendo que intensidade e altura coincidem na última sílaba dos vocábulos.
+Por fim, descreveram-se dois processos morfofonológicos observados na língua. O primeiro deles é a alomorfia do sufixo intransitivizador -hik que é condicionada pelo último fonema da raiz verbal ao qual esse sufixo está associado. O segundo processo trata da procliticização dos clíticos -na=, -hi= e -nin=. Esses sufixos apesar de estarem ligados sintaticamente ao nome que os antecede, realizam-se prosodicamente ligando-se ao elemento que os sucede.
+
+ANJOS: FONOLOGIA KATUKINA-KANAMARI
+
+155
+
+REFERÊNCIAS BIBLIOGRÁFICAS
+
+ADELAAR, Willem (2000) Propuesta de un Nuevo vínculo genético entre dos grupos lingüísticos indígenas de la amazonía occidental: harakmbut y katukina. In Luis Miranda (ed.). Actas del I Congresso de Lenguas Indígenas de Sudamérica, tomo II, pp. 219-236. Lima: Universidad Ricardo Palma.
+_____.(2007). Ensayo de classificación del Katawixi dentro del conjunto Harakmbut-Katukina. In Andrés Romero-Figueroa; Ana Fernández Garay; Ángel Corbera Mori (coords.). Lenguas indígenas de América Del Sur: Estuddios descriptivo-tipológicos y sus contribuciones para la lingüística teórica,pp.159-169. Caracas: Universidad Católica Andrés Bello.
+BLEVINS, Juliette (1995). The Syllable in Phonological Theory. In John A. Goldsmith (ed.). The Handbook of Phonological Theory, pp. 206-244. Oxford: Blackwell.
+
+DOS ANJOS, Zoraide (2005a). A língua Katukina. Caderno do simpósio de Letras: múltiplos olhares, pp. 13-25. Goiânia: Universidade Federal de Goiás.
+_____.(2005b). Fonologia Katukina (dialeto Katukina do Biá). Dissertação de mestrado. Brasília: Universidade de Brasília.
+_____.(2011). Fonologia e Gramática Katukina-Kanamari. Utrecht: LOT Publishers
+KATAMBA, Francis (1989). An introduction to phonology. London: Longman.
+
+LIMA, Deborah; PY-DANIEL, Victor (2002). Levantamento etnoecológico das áreas indígenas Kanamari do Médio Juruá e Katukina rio Biá: relatório final. BRASÍLIA: FUNAI/PPTAL.
+
+LOUKOTKA, C‹estmír (1949). Sur quelques langues inconnues de l’Amérique du Sud. Lingua Posnaniensis 1: 53-82.
+_____.(1963). Documents et vocabularies inédits de langues et de dialects sudaméricains. Journal de la Société des Américanistes 52: 7-60.
+_____.(1968). Classification of South Amercian Indian languages. Los Angeles: Latin American Center, University of California Press.
+MARTIUS, Karl Friederich Philip von (1863). Glossaria linguarum brasiliensium: Glossarios de diversos lingoas e dialectos, que fallao os índios no império do Brazil. Wörtersammlung brasilianischer Sprachen. Erlangen: Druck Von Junge & Sohn.
+
+ODDEN, David (2005). Introducing Phonology. Cambridge: Cambridge University Press.
+
+PIKE, Kenneth L. (1947). Phonemics: a Technique for Reducing Language to Writing. Ann Arbor: University of Michigan Press.
+PIÑEROS, Carlos Eduardo (2007). The phonology of nasal consonants in five spanish dialects. In Fernando Martínez-Gil; Sonia Colina (eds.). Optimality-Theoretic Studies in Spanish Phonology, pp. 146-171. Amsterdam: John Benjamins Publishing Company.
+
+RIBEIRO, Adelina Vilma Marques et al. (1989). Elementos de fonologia Kanamari. Cadernos de Estudos Linguísticos 16: 123-141.
+RIVET, Paul (1920). Les Katukina, etude linguistique. Journal de La Société dês Américanistes 12: 83-89.
+RODRIGUES, Aryon Dall’Igna (1986). Línguas Brasileiras. Para o conhecimento das línguas indígenas. São Paulo: Edições Loyola.
+
+SELKIRK, Elisabeth (1982). The Syllable In Harry van der Hulst; Noval Smith (eds.). The structure of phonological representations (part II), pp. 337-383. Dordrecht: Foris Publications.
+
+156
+
+LIAMES 12
+
+TASTEVIN, Constantin (1920a). Vocabulaire Katawixi et Marawa. Manuscritos dos Arquivos da Congregação do Santo Espirito. Chvelly-Larue.
+_____.(1920b). Le fleuve Juruá (Amazonie). La Géographie, t. XXXIII (1), janeiro, pp. 1-23. _____.(1928). O “Riozinho da Liberdade”. La Géographie, t. XLIX (3/4), pp. 205-215. _____.(s.d). Lexique Katukina. Musée de l’Homme. Paris. [Ms.] _____.(s.d.). Vocabulaire comparé arawak/pano/katukina. Musée de l’Homme. Paris. [Ms.]. _____.(s.d). Lexique katawishi/katukina. Musée de l’Homme. Paris. [Ms.].
+
+TOVAR, Antonio (1961). Catálogo de las lenguas de América del Sur. Buenos Aires: Editorial Sudamérica.
+
+TROUBETZKOY, N. S. (1970). Principles de Phonologie. Paris: Librairie C. Klincksieck.
+
+Recebido: 3/2/2012 Versão revista: 18/6/2012 Aceito: 30/7/2012
+
+

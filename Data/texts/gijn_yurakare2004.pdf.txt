@@ -1,0 +1,351 @@
+Number in the Yurakaré noun phrase*
+Rik van Gijn
+University of Nijmegen
+
+1. Introduction
+The category of number is often underestimated. In many languages, however, at closer inspection, it poses many diﬃculties. In Yurakaré — an unclassiﬁed language spoken in central Bolivia by approximately 2500 speakers — there is a basic opposition between a marked form =w and the absence of that marker. At ﬁrst sight, it is not really clear what these two forms mean. They both seem to mean ‘singular’ in some contexts and ‘plural’ in others. In this paper I will try to come to an analysis with stable meanings for these two forms.
+
+2. The problem
+
+Consider the following data:
+
+(1) a. shunñe -Ø1 ‘man’ b. ewete =w ‘broom’ c. sibbë -Ø ‘house’ d. tomete =w ‘arrow’
+
+shunñe =w2 ‘men’ ewete =w ‘brooms’ sibbë -Ø ‘houses’ tomete -Ø ‘arrows
+
+In (1) we see all logical possibilities for the distribution patterns of -Ø and =w. Looking at these data, how can we establish the meaning of the enclitic =w versus its absence? The patterns of (1) are schematized in Table 1.
+I will try to connect Table 1 with Table 2 below, which is Corbett’s (2000: 80) summary of Jackendoﬀ’s (1991) classiﬁcation of nominal semantic categories. I will argue for an analysis where the marker =w indicates [+internal structure], while its absence means [−internal structure] or ‘unspeciﬁed’. Boundedness is indicated on modiﬁers, as will become clear.
+In Table 1, nouns of type I form the largest group, this is the ‘normal’ case.
+
+Linguistics in the Netherlands 2004 21 (2004), 69–79. issn 0929–7332 / e-issn 1569–9919 © Algemene Vereniging voor Taalwetenschap
+
+70 Rik van Gijn
+
+Table 1. Patterns of marking singular and plural3
+
+Type number Example
+
+Singular
+
+I
+
+shunñe
+
+-Ø
+
+II
+
+ewete
+
+=w
+
+III
+
+sibbë
+
+-Ø
+
+IV
+
+tomete
+
+=w
+
+Plural
+=w =w -Ø -Ø/=w4
+
+Section
+3 4 5 6
+
+Table 2. Semantic categories of noun phrase (Jackendoﬀ 1991)
+
+Feature values
+
+Category
+
+Yurakaré-category
+
++bounded, −internal structure +bounded, +internal structure −bounded, −internal structure −bounded, +internal structure
+
+individuals groups substances aggregates
+
+singulars inherently plurals inherently singulars plurals
+
+I will refer to these nouns as count nouns (cf. Section 3). I call the nouns of type II ‘inherently plural nouns’ (cf. Section 4) and nouns of type III ‘inherently singular nouns’ (cf. Section 5). Section 6, ﬁnally, deals with ‘hybrid’ nouns, that have some characteristics of type II nouns, and some of type III nouns.
+
+3. Count nouns
+
+Count nouns, by far the largest group, are obligatorily marked for plural with the enclitic =w. In terms of Jackendoﬀ (1991): individuals [+bounded, −internal structure] when singular, aggregates [−bounded, +internal structure] when plural. As can be seen in example (2), nouns of this class can denote humans, non-human animates (all animates are in this group), or inanimates:
+
+(2) a. shunñe ‘man’ shunñe b. dyaya ‘mosquito’ dyaya c. pojore ‘canoe’ pojore
+
+=w ‘men’ =w ‘mosquitos’ =w ‘canoes’
+
+Quantifying elements that imply a plurality obligatorily trigger the plural marker, as can be seen in the following examples:5
+
+(3) a. lëshie shunñe
+
+=w
+
+two man
+
+=pl
+
+‘two men’
+
+b. bëmë
+
+yee
+
+=w
+
+much/many woman =pl
+
+‘many women’
+
+(*lëshie shunñe) *(two man
+
+(*bëmë
+
+yee)
+
+*(much/many woman
+
+When a noun phrase is plural, elements modifying the head noun can be marked for distributive or collective. Understanding this will facilitate our
+
+Number in the Yurakaré noun phrase 71
+
+understanding of some of the other phenomena that we will see. The collective marker -ima on a modiﬁer indicates that the quality or quantity expressed by the modiﬁer applies to the group as a bounded whole rather than to each member individually. The distributive marker -uma has exactly the opposite eﬀect: it indicates that the quality or quantity expressed by the modiﬁer applies to each member individually rather than to the group as a whole. These diﬀerences can be illustrated with the following examples:
+
+(4) a. b.
+
+palanta matat -ima =w banana big -col =pl ‘a big bunch of bananas/*big bananas’ palanta matat -uma =w banana big -dst =pl ‘big bananas/*a big bunch of bananas’
+
+In example (4a), the marker -ima forces the interpretation of a bunch of bananas, while -uma in (4b) forces the interpretation where the bananas are viewed as separate entities. The marking of modiﬁers for collective or distributive is optional. In terms of the features of Jackendoﬀ (1991), speciﬁed above, -ima adds boundedness to an aggregate, making it a group:
+
+(5) aggregate
+
+> group
+
+[−bounded, +internal structure] > [+bounded, +internal structure]
+
+We might hypothesize that =w indicates [+internal structure], -ima then indicates [+bounded], and -uma is an overt marker for [−bounded]. I will come back to this hypothesis below in Section 5.
+
+4. Inherently plural nouns
+
+There are a number of nouns that always carry the plural marker =w, even when they denote singular objects. I will argue that the entities that these nouns refer to are in fact seen as things that are composed of smaller parts, i.e. having internal structure. The group of inherently plural nouns includes body parts, some tools, ornaments and hair. Some examples are given in Table 3.
+When these objects are modiﬁed, the modiﬁer will in most cases carry the
+
+Table 3. Examples of inherently plural nouns
+
+Yurakaré
+
+English
+
+Yurakaré
+
+bannaw tewwew wishwiw ewetew
+
+arm foot tail broom
+
+puptaw meyetew tenchew simpatiw
+
+English
+fan earring necklace braid
+
+72 Rik van Gijn
+collective marker. Note that whether or not these nouns denote conceptually plural entities has no bearing on the number marking of the NP (-Ø vs. =w):
+(6) matat -ima ti- bana =w6 big -col 1sg- arm =pl ‘my big arm/my big arms’
+These inherently plural nouns act like the bunch of bananas in example (4a) above. For instance, ewetew ‘broom’ consists of small twigs tied together around a stick; puptaw ‘fan’ are feathers tied together; earrings and necklaces are also composed of smaller parts such as pieces of wood, iron, beads, etc; and a braid is hair tied together. Less prototypically inherently plural are nouns like bannaw ‘arm’, and wishwiw ‘tail’. An arm and a tail consist of several bones. Other body parts that are inherently plural, such as pishishiw ‘lower leg’ and bolembolew ‘lower arm’ also have more than one bone. A noun like oteta ‘hip’ consists of one bone and is a normal count noun rather than an inherently plural noun. On the other hand, shishta ‘ﬁnger or toe’, an entity which consists of several bones, is not seen as having internal structure, but as an individual entity lacking internal structure.
+More generally speaking it is hard to ﬁnd criteria where Yurakaré-speakers draw the line between individuals and groups on the one hand, and groups and aggregates on the other. The distinction between groups and substances can also be problematic. Examples of this are shuppëw ‘urine’ and dyarru ‘maize or manioc beer’, which are seen as inherently plural.7 Psycholinguistic experiments should be carried out in order to shed some light on this issue. Nevertheless, there does seem to be a separate category of groups in Yurakaré.
+5. Inherently singular nouns
+The nouns of this type are always grammatically singular. They never take the plural marker =w and they do not trigger plural verbal agreement either. Nouns that are in this class are among others typical mass nouns (i.e. substance-like things), scenery, some body parts, tools and utensils, crops, as well as other categories. Examples are in Table 4, Spanish loanwords are in italics.
+These semantic types do not seem to have anything in common with each other. There are some semantic patterns that emerge, but we will see that we can not predict the nouns that fall into this class on purely semantic grounds. I will discuss each semantic type and we will see that almost every semantic pattern that can be observed has exceptions.
+First of all, ‘semantic’ mass nouns generally fall into the class of inherently singular nouns (top left column in Table 4). With semantic mass nouns I mean nouns that refer to concepts that ﬁt the canonical idea of what a mass is: an
+
+Number in the Yurakaré noun phrase 73
+
+Table 4. Inherently singular nouns according to semantic type
+
+1. masses
+
+2. scenery
+
+3. body parts
+
+samma asuja sëjsë awaryente
+
+water sugar grease alcohol
+
+püü puyni lëtëmë mororo
+
+road sun jungle hill
+
+perente dyukku meyye unti
+
+forehead buttocks ear nose
+
+4. utensils, artifacts
+
+5. crops
+
+6. other
+
+kuchilu werta shoshto martillu
+
+knife basket comb hammer
+
+ñowwo winnu shilli korre
+
+manioc pepper maize tobacco
+
+sibbë ëshshë bishmita libru
+
+house stone cigarette book
+
+unbounded substance without internal structure (cf. the feature model of Jackendoﬀ 1991 outlined above). There are, however, nouns denoting canonical masses that fall into the category of inherently plural nouns, like dyarru ‘maize or manioc beer’ and shuppëw ‘urine’ (cf. above).
+When we look at nouns denoting scenery, it often concerns nouns that are uniquely referring, like puyni ‘sun’ or lëtëmë ‘jungle’. Other nouns can be said to be canonically uniquely referring. For instance roads and hills are not uniquely existing entities, but they can be said to be unique to a village or a certain area. In Spanish conversation the Yurakaré generally do not speak about ‘a road’ or ‘a hill’, but ‘the road’ and ‘the hill’.
+As for the body-parts, the list includes concepts that prototypically come in pairs, like meyye ‘ears’, dyukku ‘buttocks’. There are also concepts in this class that are prototypically singular, like, perente ‘forehead’, unti ‘nose’. However, there are also body parts that prototypically come in pairs that belong to another class, like the inherently plural nouns bannaw ‘arm’, tewwew ‘foot’. One might argue that feet and arms are not really symmetrical pairs and they perform separate functions, but there are also examples such as the following:
+
+(7) a. lëtta pullë one testicle ‘one testicle’
+
+b. lëshie pullë =w two testicle =pl ‘two testicles’
+
+Testicles prototypically come in pairs, just as ears do. Still, speakers distinguish between singular and plural with testicles, and not with ears. This again shows that, although there seems to be some semantic transparency, it does not allow us to predict class membership.
+There are many utensils or artifacts in this class. However, as we have seen, there are also tools in the inherently plural class, like ewetew ‘broom’ puptaw ‘fan’. There seems to be no principal reason to classify ewetew ‘broom’ as an inherently plural noun, and werta as an inherently singular noun. This again
+
+74 Rik van Gijn
+
+shows that class membership is lexically determined. The crops in this class are relatively small crops that grow inside a contain-
+ing element (e.g. shilli ‘maize’, winnu ‘chilipepper’). For instance bananas grow in bunches and they are in the count noun class. Corbett (2000: 80), following Jackendoﬀ (1991), mentions that the size of the component parts may have something to do with whether nouns referring to them distinguish singular and plural forms. The larger the size of the component parts, the more likely it is they are treated as individual entities, the smaller the component part, the more likely it is that they are not individually distinguished. Although this is generally true for Yurakaré, a noun like arush ‘rice’ (from Spanish arroz) can nevertheless be pluralized.
+A ﬁnal remark that can be made is that there are many loanwords in this class, like kuchilu ‘knife’, machitu ‘machete’, katcha ‘ax’, martillu ‘hammer’, libru ‘book’. Although certainly not all loanwords are in this class, it may be the case that more recent loanwords generally fall into this class. An in-depth study of the history of the Yurakaré and loanwords in the area is necessary to give a decisive answer on this matter.
+In short, the general semantic tendencies mentioned here are neither necessary nor suﬃcient criteria for predicting whether a noun falls into the class of inherently singular nouns or not. It may be that there once existed meaning-related criteria to deﬁne nouns as belonging to the class of inherently singular nouns, but nowadays this choice is largely lexically determined, and should be learned. The fact that the system is gradually being lost — younger speakers tend to lose the class-distinctions, due to the inﬂuence of Spanish — may be a result of this.
+Chierchia (1998: 55) mentions the non-availability of plural morphology as one of the deﬁning characteristics of mass nouns. Furthermore, he claims that, although there are semantic aspects to mass nouns, it is eventually a lexically determined matter. This can be illustrated by the following English data (Chierchia 1998: 56):
+
+(8) a. b. c. d.
+
+shoes vs. clothes vs. coins vs. carpets vs.
+
+footwear clothing change carpeting
+
+In the mass examples (to the right) the atoms are backgrounded, made unimportant. This could also be the case with Yurakaré inherently singular nouns. Still, many nouns in the in this class can be counted without problems:
+
+(9) a. b.
+
+lëtta kabu one soap ‘one piece of soap’ liwi biskotcho three bread
+
+Number in the Yurakaré noun phrase 75
+
+‘three pieces of bread’
+
+This is not problematic for the mass-analysis either. For English, Allan (1980) established that mass and count are lexically determined preferences that can be recategorized by syntactic environments, like in ‘two coﬀee’ in English, and that these countability preferences are gradual.
+Within the group of inherently singular nouns in Yurakaré, there seems to be such a diﬀerence in countability preference. Nouns like kabu ‘soap’ in (9a) and biskotcho ‘bread’ in (9b) can apparently also mean ‘piece of soap’ and ‘piece of bread’, respectively. When modiﬁers of nouns like kabu or biskotcho are marked with -ima, the result is similar to that of plural NPs:
+
+(10) a. b.
+
+lëtt -ima kabu one -col soap ‘one package of soap (containing several pieces)’ lëtt -ima biskotcho one -col bread ‘one bag of bread’
+
+Some nouns, particularly substances, are less countable. They need the collective marker -ima on an modifying element, which yields the interpretation of ‘a bounded body of the mass X’. This conﬁrms the analysis of -ima as a binder (cf. Table 5):
+
+(11) a. b.
+
+lëtt -ima asuja one -col sugar ‘one bag of sugar’ lëtt -ima samma one -col water ‘one lake or river’
+
+Table 5. The meaning of -ima
+
+category features
+
+aggregate substance
+
+−bnd, +int’l. struct. −bnd, −int’l. struct.
+
++ima
+> >
+
+category
+group individual
+
+features
++bnd, +int’l struct. +bnd, −int’l struct.
+
+Modiﬁers of inherently singular artifacts also often carry the marker -ima.
+
+(12) a. b.
+
+lëtt -ima werta one -col basket ‘one basket’ matat -ima kuchilu big -col knife ‘a big knife’
+
+76 Rik van Gijn
+It is not very clear how the idea of boundedness should apply to these nouns. There are two possible analyses. One is that these artifacts are of the type kabu, in the sense that they consist of smaller atoms (e.g. several pieces of liana in the case of ‘basket’, a blade and a handle in the case of ‘knife’). The other possible analysis is that the nouns in (12) are like asuja and samma in the sense that the literal translations of (12) would be ‘one piece of basketry’ and ‘one piece of cutting material’, respectively. Again, psycholinguistic experiments should be carried out in order to investigate the way these entities are conceptualized.
+Taking the data of this section into consideration, we can conclude that the absence of the plural marker =w within this class does not precisely indicate lack of internal structure, since in plural environments (e.g. with a plural quantiﬁer) the plural marker still does not appear. In those cases, the absence of the plural marker means ‘unspeciﬁed for number’. The interpretation of the number of the complete NP then depends on the syntactic environment.
+
+6. ‘Hybrid’ nouns
+
+It is questionable whether we are dealing with a separate class of hybrid nouns, or whether these are simply inherently plural nouns with some deviant tendencies. Hybrid nouns act exactly like inherently plural nouns when referring to singular concepts. The diﬀerence becomes apparent in plural contexts, where hybrid nouns have a strong tendency to have zero marking for number on the NP and to trigger singular verb agreement. Examples are clothing items like ossow ‘traditional shirt’, tarapu (from Spanish trapo ‘blanket, cloth’), and types of arrows like tometew and turumaw.
+We can explore a similar line of reasoning to explain the appearance of the plural marker in singular contexts as we did with the inherently plural nouns of Section 4. Clothing items used to be made of several pieces of inner bark of a tree, thumped together at the rims. From this collection of pieces of inner bark, clothing items were made (cf. Richter 1930: 391). Arrows are pieces of wood glued or tied together, and can therefore be analyzed as collectives. And indeed elements modifying these nouns are mostly marked with -ima for collective. Again, we do not have to adapt the meaning of the enclitic =w to be able to account for occurrences in singular environments. Now consider the following examples:
+
+(13) a. b.
+
+tomete dula -Ø
+
+arrow make -3
+
+‘He made arrows.’
+
+së
+
+=ja bëjta -y kamisa bëmë
+
+1sg:prn =s see -1sg:s shirt much/many
+
+‘I see many shirts.’
+
+Number in the Yurakaré noun phrase 77
+
+In (13) we see that the conceptually plural nouns are not only unmarked for plural, they trigger singular (zero) object agreement on the verb as well. This indicates that these nouns are grammatically singular.
+There is no absolute grammatical rule that tells us when these nouns are and when they are not marked for plural, but there is a tendency that the higher the quantity, and the more unspeciﬁc the quantity, the more chance there is that these nouns are zero marked. This tendency is schematized in Table 6.
+
+Table 6. Tendencies in plural marking of hybrid nouns
+
+Quantiﬁer
+
+Number marking
+
+lëtta (1) lëshie (2), liwi (3), lëpsha (4) bëmë (many), no quantiﬁer
+
+=w =w/-Ø -Ø/=w
+
+I have not encountered singular encodings of the inherently plural nouns of Section 4, but it is quite possible that these nouns can in some circumstances be grammatically singular in plural contexts as well.8 There is, however, a strong preference of hybrid nouns to be encoded as grammatically singular in indeﬁnite plural contexts, which is absent in inherently plural nouns. Some speakers even disallow plural encoding of these nouns in these contexts.
+Chierchia (1998: 69) claims that the crucial diﬀerence between plural count nouns and mass nouns is that, “while atomic structure is foregrounded in a count noun (in that, by deﬁnition, it’s extension singles out a set of atoms), such a structure, though present also in a mass noun, is present in it only implicitly in that the lexical entry is not directly associated with atoms.”
+Without going into the discussion about what exactly is the meaning of mass, this backgrounding of atoms may be the semantic eﬀect of the absence of the plural marker in hybrid nouns as well, metaphorically extending the idea of mass to these nouns. The fact that a noun like ewetew ‘broom’ does not show the behavior of hybrid nouns is because, while people usually possess several arrows and shirts or trousers, people usually only have one broom, or maybe two. This makes it less natural to talk about ‘brooming’ than ‘arrowing’.
+
+7. Conclusion
+Let us go back to the initial question of the article. How can we explain the facts in example (1) above, here repeated as (14)?
+
+78 Rik van Gijn
+
+(14) a. b. c. d.
+
+shunñe -Ø ewete =w sibbë -Ø tomete =w
+
+‘man’ ‘broom’ ‘house’ ‘arrow’
+
+shunñe ewete sibbë tomete
+
+=w ‘men’ =w ‘brooms’ -Ø ‘houses’ -Ø ‘arrows
+
+We have seen that we can explain all occurrences of the enclitic =w as a marker of [+internal structure]. When used in singular contexts, this marker is added to nouns that denote entities that consist of smaller, identiﬁable parts.
+The interpretation of the absence of this enclitic depends on lexical features (some nouns simply cannot take the plural marker). Syntactic contexts can disambiguate, such as the presence of quantiﬁers. We can analyze nouns that never take the plural marker as mass nouns if we see mass as a lexically determined category (albeit based on semantics).
+Hybrid nouns often behave like mass nouns in plural contexts. The semantic eﬀect of this is that the focus is on the collective class rather than the individual objects, much in the same way as English mass nouns ‘furniture’, ‘basketry’ and ‘clothing’.
+
+Notes
+* I would like to thank Mily Crevels, Katharina Haude, Helen de Hoop, Pieter Muysken and an anonymous reviewer for comments on earlier drafts of this paper. 1. I do not assume the zero marker to be an actual morpheme. It is rather an opposition of the presence versus the absence of a morpheme. I use the symbol Ø for reasons of clarity only. The same holds for the Ø-markers in Table 1. 2. I consider the plural marker to be an enclitic because it usually appears on the ﬁnal element of the noun phrase, independently of the order of elements within the NP:
+shuyulë yee =w vs. yee shuyulë =w beautiful woman =pl woman beautiful =pl ‘beautiful women’ The elements to the left of the ﬁnal element are optionally marked for plural as well, but the minimally marked word is the rightmost element. 3. Whether nouns of the type numbers II, III, and to a lesser extent IV (cf. Section 6) are plural or singular, can only be indicated by context or quantiﬁcational elements. 4. Both forms occur; we are dealing with a tendency, not an absolute rule, cf. Section 6. 5. Abbreviations used: 1 ﬁrst person; 3 third person; col collective; dst distributive; pl plural; s subject; sg singular. 6. Some nouns lose their gemination when aﬃxed. 7. The plural nature of dyarru may have something to do with the fact that there is visible internal structure: pieces of manioc root or maize. Shuppëw is harder to explain. It might have something to do with drops of urine, or it might be that urine is seen as the product of several actions of urinating. The verb ‘to urinate’ is a verbalization (i-shupë) which literally means to have urine.
+
+Number in the Yurakaré noun phrase 79
+8. Plural count nouns can in some circumstances behave like mass nouns, with the eﬀect of backgrounding the atoms, e.g. decheche-Ø too [collect-3 bone] ‘She was collecting bone’, meaning several. The frequency of this construction, as well as the combinatory possibilities with quantiﬁers diﬀers from these hybrid nouns. These constructions are probably related, however.
+References
+Allan, Keith (1980) ‘Nouns and countability’. Language 56, 541–567. Chierchia, Gennaro (1998) ‘Plurality of mass nouns and the notion of ‘semantic parameter’.
+In: Susan Rothstein, ed., Events and grammar. Dordrecht: Kluwer. Pp.53–103. Corbett, Greville G (2000) Number. Cambridge: Cambridge University Press. Jackendoﬀ, Ray (1991) ‘Parts and boundaries’. Cognition 41, 9–45. Richter, Hans (1930) ‘Kleidung, Schmuck, Bemahlung und Tatuierung der Yuracare-
+Indianer in Nordost-Bolivien. Erdball IV, 390–396.
+
+

@@ -1,0 +1,613 @@
+Pier Marco Bertinetto
+How the Zamuco languages dealt with verb affixes
+(to appear, in revised form, in Word Structure)
+The purpose of this paper is to offer a plausible reconstruction of the verb inflection paradigms of two genetically related Zamuco languages (Ayoreo and Chamacoco), whose patterns present several points of interests. In particular, one of the two paradigms exhibits a striking violation of a robust generalization concerning affix order, dictating that Person-markers should precede Number-markers, irrespective of their position in relation to the root. Careful analysis of the historical data provides a plausible solution to this puzzle.1
+1 Historical, sociolinguistic and genetic background.
+The Zamuco family consists nowadays of only two languages: Ayoreo and Chamacoco. It was presumably confined to a fairly small population even in the past and the number of languages must not have been significantly larger than it is now. The ethnonym ayorei MS (ayoréode FS, ayoré, FS, ayoredie FP) means ‘(real) person’, as opposed to the outsiders, just as the word ɨshɨr (as the Chamacoco call themselves) does. The Ayoreo (ca. 3800 people according to Ethnologue or 4500 according to Fabre 2007) are quite remarkable in that they are the only ethnic group in the Chaco area that has not yet entirely surrendered to Western culture. Although most of them now live in permanent communities originally built around a mission in rural environments (with the exception of a settlement in Santa Cruz de la Sierra), there are still two or three small – presumably too small to last – and virtually non-contacted groups continuing the traditional nomadic life in North-East Paraguay. The Ayoreos’ level of integration within the surrounding culture is, altogether, rather low. The Chamacoco (between 1600 and 1800 people) are, in comparison, somewhat more
+1 This paper was written when the author was visiting the Leipzig Institut für Evolutionäre Anthropologie of the Max Plank Gesellschaft (March-April 2010). The author would like to thank Luca Ciucci and Livio Gaeta for their useful remarks.
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL.9,1 2010
+integrated, although the majority of them still live in rural communities on their ancestral land.
+The Ayoreo’s traditional territory used to extend (southward) from the area East of Santa Cruz de la Sierra in Bolivia (Gran Chiquitanía) to the Northern Paraguayan Chaco and (eastward) from río Grande to río Paraguay. The population is more or less equally spread out between Bolivia and Paraguay. The Chamacoco used to occupy – and most of them still live in – the easternmost portion of the Paraguayan Northern Chaco, bordering the river Paraguay. The traditional Zamuco territory is a savannalike grassland, with scattered trees and drought-resistant undergrowth. The climate is subtropical, with a dry season in winter and abundant rain in the summer. There are reasons to suppose, based on anthropological findings, that these tribes moved to the Chaco area from the inner Amazonian region, presumably under pressure from hostile populations. In any case, due to their nomadic life and the need to compete for natural resources, they used to have unfriendly relations with all their neighbors and even among themselves. Indeed, they were regarded (especially the Ayoreo) as frightful and fierce warriors. In keeping with this, they had strictly endogamic habits, which explains their anthropological and linguistic alterity with respect to the other ethnic groups of the area. Even their blood characteristics single them out (at least the Ayoreo, cf. Salzano et al. 1978) as a quite separate group with respect to the rest of the South American population.
+The Chamacocos began to have peaceful relationships with the Hispano-American culture well before the end of the XIX Century, whereas the Ayoreos began to surrender little before the middle of the last century, due to United States evangelical missionaries. The contact history is, however, much longer (Combès 2009). The first news about Zamuco populations date from the XVI century, when the “conquistadores” penetrated the Chaco area. Towards the end of the XVII century, the Jesuits managed to bring different ethnic and linguistic groups into fortified missions in the Chiquitanía. In 1724 the mission of San Ignacio de Samucos was founded in the Bolivian Chaco. The exact location of this reduction is nowadays unknown; it had to be abruptly abandoned in 1745. The French-speaking Jesuit Ignace Chomé – born in what was then the French Flanders –was in that reduction until the end and wrote a very valuable grammar (Arte de la lengua Zamuca, published by Lussagnet 1958) concerning a language quite close to Modern Ayoreo.
+Virtually all Ayoreos are fluent speakers of their language, which is used on a daily basis. This is also true of the Chamacocos, to the extent that they still live in their own
+2
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL.9,1 2010
+
+communities. Despite this, many words belonging to the traditional culture begin to be poorly understood even by people of the intermediate age groups. Most males, except for elderly people, have at least some knowledge of spoken Castillan; some are even considerably fluent. Women may also be fluent, although this is less frequent among them. Children now receive some school education in Castillan, so it is to be foreseen that bilingualism will rapidly increase. Some Chamacocos can even use Guarani, in addition to Castillan, for communication purposes.
+
+2 On the relation between Ayoreo and Chamacoco.
+One notable similarity between Ayoreo and Chamacoco consists in the fact that both languages are fusional, although surrounded by highly agglutinating languages. Actually, there are structural hints inviting the hypothesis that the Zamuco languages might have had an agglutinating structure in the past, but their present structure singles them out as strikingly different in their areal context.
+Despite this, and despite tight geographical proximity, Ayoreo and Chamacoco share no more than 30% of their lexicon, according to independent calculations by the present author and his collaborator Luca Ciucci, on the one side, and Matthew and Rosemarie Ulrich (the authors of a valuable Castillan – Chamacoco dictionary (Ulrich & Ulrich 2000), on the other side [pers. comm.]). Rather than in their lexicon, Ayoreo and Chamacoco resemble each other in morphology and syntax. As shown by Ciucci (2007/08), for instance, many Ayoreo irregular verbs have a strict equivalent in Chamacoco. Consider the following list of 3s verb forms (actually, as detailed in the following sections, Ayoreo presents the same for for both singular and plural in the third person):
+
+(1) Some Ayoreo irregular third person verb inflections and their Chamacoco cognates
+
+Ayoreo
+
+Chamacoco
+
+‘eat’
+
+tac
+
+taak
+
+‘steal’
+
+toría
+
+torha
+
+‘shout’
+
+tibidi
+
+tɨbi
+
+‘die’
+
+toi
+
+toy
+
+‘walk’
+
+dic
+
+dɨrk
+
+‘smile’
+
+cãna
+
+yana
+
+‘sleep’
+
+mo
+
+umo
+
+‘go’
+
+jno
+
+hno
+
+3
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL.9,1 2010
+To understand this, one should keep in mind that the regular 3s/p inflection in Ayoreo consists of the prefix chV- (where V stands for “thematic vowel”; see the next section). Some verbs, however, as shown in (1), present an irregular 3s/p inflection and, significantly, this irregularity often finds an almost identical correspondence in Chamacoco. Actually, in the latter language things are different, for chV- is just one of the most common 3s inflections, together with sV- and tV-. The last form of the prefix is indeed attested in the above list; thus, not all these examples should be regarded as irregular in Chamacoco. However, even the Chamacoco regular tV-inflected forms in (1) show an important, and cross-linguistically not infrequent, theoretical point: namely, what looks like an irregularity in a given language (Ayoreo) might have been a regularity at a preceding stage, as shown by another genetically related language (Chamacoco). Summing up, (1) demonstrates two things: (a) some Ayoreo irregular forms have an almost identical regular Chamacoco equivalent; (b) some forms that are irregular in both languages look very much alike.
+The morphological similarity shown in (1), as well as quite a number of others that will not be discussed here, suggest that Ayoreo and Chamacoco must have had a common ancestor, despite the considerable divergence of their respective vocabularies. This observation is strengthened by the anthropological datum concerning the existence, in both communities, of seven clans with very similar names, which used to regulate the marriage habits (Fischermann 1988).
+3 Ayoreo and Chamacoco verb morphology.
+In the rest of this paper, the main features of Ayoreo and Chamacoco verb inflection will be analysed, with special regard to the issue of affix combination and order. On the assumption that the two languages are genetically connected, the aim will be to reconstruct the main features of Ancient Zamuco’s verb morphology.
+The following scheme presents the structure of the Zamuco verb. The two components “mobile syllable” and “lexical syllable” will be dealt with in sect. 5. Both are optionally present in Ayoreo, but only the second one can be found in Chamacoco:
+pers.-prefix – them. vowel – root (– mobile-syll.) – plur. suffix (= lexical-syll.)
+Overlooking minor details, a typical Ayoreo verb presents the following personal inflections (in orthografic transcription). It should be noted that Ayoreo, as well as
+4
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL.9,1 2010
+
+Chamacoco, has no tense specification. The Zamuco languages are tense-less, although they present another inflectional paradigm that differs from the one given in (2) on modal grounds. Here follows the basic paradigm, called Indicative in Bertinetto (2009):
+
+(2) Ayoreo verb paradigm
+
+1s
+
+y/ñV-
+
+2s
+
+ba/ma-
+
+3s/p
+
+chV-
+
+1p
+
+y/ñV-
+
+2p
+
+uaca-
+
+ROOT ROOT ROOT ROOT ROOT
+
+-go /ngo -yo /ño
+
+The 3p is identical to the 3s. When the context requires disambiguation, the 3p pronoun ore precedes the verb (e.g. chayo ‘s/he runs / (they) run’, ore chayo ‘they run’). In a number of cases there are alternative morphemes – separated by a slash in (2) – whose selection depends on nasal harmony. This feature will not be further discussed here. “V” stands for what might be called “thematic vowel”, which depends on the verb’s root-initial vowel. Ayoreo has five vowels: /i e a o u/. If the verb’s root begins with a consonant, the default thematic vowel is /i/. The other most frequent thematic vowels are /a u/. When the thematic vowel is one out of /i u/, the 2s- and 2pprefixes show up as ba/ma and uaca, with the prefix vowel overwriting the root-initial vowel (needless to say, when the root-initial vowel is /a/, there is no way to check which of the two vowels is preserved). For instance:
+
+(3) ‘to say’
+
+y-i-go, b-a-go, ch-i-go, y-i-go-go, uac-a-go-yo
+
+‘to sew’
+
+y-u-ga, b-a-ga, ch-u-ga, y-u-ga-go, uac-a-ga-yo
+
+‘to plant’ y-a-ca, b-a-ca, ch-a-ca, y-a-ca-go, uac-a-ca-yo
+
+‘to follow’ ñ-a-ño, m-a-ño, ch-a-ño, ñ-a-ño-ngo, uac-a-ño-ño
+
+‘to point out’ ñ/y-i-ngo, m/b-a-ngo, ch-i-ngo, ñ/y-i-ngo-ngo,
+
+uac-a-ngo-ño.
+
+If, by contrast, the thematic vowel is one out of /e o/, it is preserved in the whole paradigm:
+
+5
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL.9,1 2010
+
+(4) ‘untie’ ‘lift’
+‘criticize’ ‘disperse’ ‘send’
+
+ñ-e-jnu, m-e-jnu, ch-e-jnu, ñ-e-jnu-ngo, uaqu-e-jnu-ño ñ-e-nga=me, m-e-nga=me, ch-e-nga=me, ñ-e-nga-ngo=me, uaqu-e-nga-ño=me (=me: INGLOBATED ADPOSITION ome) y-e-do, b-e-do, ch-e-do, y-e-do-go, uaqu-e-do-yo ñ-o-jne, m-o-jne, ch-o-jne, ñ-o-jne-ngo, uac-o-jne-ño y-o-re=ji, b-o-re=ji, ch-o-re=ji, y-o-re-go=ji, uac-o-re-yo=ji (=ji: INGLOBATED LOCATIVE ADPOSITION iji).
+
+This suggests the following vowel-strength hierarchy: | e o > a > i u |. The typical Chamacoco verb presents instead the following inflectional paradigm (Ciucci 2009):
+
+(5) Chamacoco verb paradigm
+
+1s
+
+tV(k)-
+
+ROOT
+
+2s
+
+e/a-
+
+ROOT
+
+3s
+
+ch/s/t…V-
+
+ROOT
+
+1p/INCL
+
+yV-
+
+ROOT
+
+1p/EXCL
+
+o-yV-
+
+ROOT
+
+2p
+
+e/a-
+
+ROOT
+
+-lo
+
+3p
+
+o-ch/s/t…V-
+
+ROOT
+
+It should be remarked that the above paradigm only presents the most frequently used affixes. Depending on the specific conjugation, different choices are made. For instance, depending on the verb, the 1s-prefix can be tV- or tVk- and the 2s- and 2pprefix alternates between e- and a-. The 3s-prefix is particularly liable to variation. The consonant preceding the thematic vowel can be ch/s/t/sh/d/l/n/y; in addition, with a minor class of irregular verbs, the prefix is absent altogether, and the 3s begins directly with the root (either with the thematic vowel V- or without it, if the root is consonant-initial). Here follow a few examples:
+
+(6) ‘understand’ tɨraha, eraha, chɨraha, yɨraha, oyɨraha, erahalo, ochɨraha
+
+‘deliver’
+
+tatɨr, atɨr, satɨr, oyatɨr, yatɨr, atɨrlo, otsatɨr
+
+‘eat’
+
+takaak, aak, taak, oyaak, yaak, aakɨlo, otaak
+
+‘live’
+
+takabuhu, ebuhu, debuhu, oyebuhu, yebuhu, ebuhulo, odebuhu
+
+‘thank’
+
+tɨkɨna, ena, nɨna, oyɨna, yɨna, enɨlo, onɨna.
+
+6
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL.9,1 2010
+
+As (2) and (5) show, Ayoreo and Chamacoco present both prefixes and suffixes in their verbal inflectional paradigm and their mutual relation will be the main focus of the present discussion. There are, however, important differences between the two languages, namely:
+Chamacoco presents a richer person paradigm, with the clusivity split in 1p and the number split in the third person;
+Ayoreo presents suffixes in both 1p and 2p, whereas Chamacoco does so only in 2p;
+The Chamacoco paradigm is transparent, for its only suffix carries functional load by providing the contrast between 2s vs. 2p; by contrast, 1s and 1p present a different prefix and thus do not need any suffix;
+Ayoreo is less transparent because, as (2) shows, only the 1p-suffix carries functional load, while the 2p-suffix is functionally superfluous, at least in the most regular conjugation (but see below for further details on this), since the 2s- and 2pprefixes are different anyway.
+A first look at the overall structure of the verb paradigm of the two Zamuco languages suggests that this system must have developed by combining two independently motivated types of morpheme: personal affixes (i.e. prefixes), minimally distinguishing 1, 2 and 3, and number affixes (i.e. suffixes), minimally distinguishing singular from plural forms. It is unlikely that the plural prefixes were originally identical to the independent pronouns, for otherwise the suffixes would not have been needed. The following prospect compares the personal pronouns of Ayoreo and Chamacoco, as contrasted with the language described by Chomé in his XVIII Century’s grammar:
+
+(7) Personal pronouns of past and present Zamuco languages
+
+Chomé’ Zamuco Ayoreo
+
+1s
+
+uyu
+
+(u)yu
+
+2s
+
+ugua
+
+ua
+
+1p/INCL
+
+uyoc
+
+yoc
+
+1p/EXCL
+
+---
+
+---
+
+2p
+
+uguac
+
+uac
+
+3p
+
+ore
+
+ore
+
+Chamacoco yok owa eyok õryok olak õr / wɨr
+
+7
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL.9,1 2010
+The 3s is missing because in Zamuco – as in many languages of the world – there is no dedicated 3s pronoun: the Zamuco languages use, for this purpose, the singular demonstrative pronoun as declined for gender. The underlined characters in (7) show which phonemes, in each language, overlap with the personal prefixes of the respective verb inflection. Altogether, the overlapping is not exceedingly large. Of special interest for this discussion is the situation of the plural persons. The 1p overlap is limited to the glide /y/, which is however also present in 1s and therefore nondistinctive (the Chamacoco’s 1p/E will be addressed below). As for the 2p, apart from the /a/ phoneme which is also present in 2s and thus non-distinctive, there is a striking overlap between personal pronouns and verb person prefixes in Chomé’s Zamuco and Ayoreo. The convergence of these two languages is not surprising, considering what was said in sect. 1; Chomé’s Zamuco may be regarded as a predecessor of Modern Ayoreo, although it possibly reflected the language of a specific tribe, which might not have a direct descendent in our times.
+If, however, the overlap to be observed between 2p-pronouns and 2p-prefixes of Chomé’s Zamuco and Ayoreo was an original feature, one would be faced with the following problem: why does Ayoreo exhibit its 2p-suffix in the verb paradigm, considering that the prefix would have been perfectly able in itself to distinguish 2s from 2p? One possible answer could be that the suffix has been redundantly added. However, the Chamacoco situation suggests a different view, for in that language the 2p-suffix is not at all redundant, but rather carries its own functional load. It thus looks like a better candidate to be an original, rather than an acquired feature.
+In any case, the structural similarities between Ayoreo and Chamacoco are striking enough to suggest a parallel evolution from a common ancestor. The following section will detail the hypothesis.
+4 A possible evolution.
+The most plausible hypothesis is the following, whose justification will be provided below. One may assume that the Ancient Zamuco verb paradigm presented the structure in (8), where the greek letters stand for different person affixes (prefixes and suffixes):
+8
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL.9,1 2010
+
+(8) Ancient Zamuco basic verb paradigm
+
+1s
+
+α- ROOT
+
+2s
+
+β- ROOT
+
+3s
+
+γ- ROOT
+
+1p/INCL
+
+δ- ROOT
+
+1p/EXCL
+
+α- ROOT
+
+-φ
+
+2p
+
+β- ROOT
+
+-ψ
+
+The first element to be justified concerns the list of morphologically specified persons. Considering that the 1p clusivity split is fairly frequent in the languages of the area, one should consider this an original feature, at least as a starting assumption. This entails that Ayoreo lost it, as opposed to Chamacoco acquiring it. Similarly, since 3p is lacking in other languages of the area (cf. Guarani), it sounds reasonable to suppose that it was absent in the original paradigm. This entails that Chamacoco acquired it, as opposed to Ayoreo losing it. It should be underlined, however, that these two assumptions do not have the same strength. As the following discussion will show, the evidence suggesting the original absence of the 3p morphological specification is more compelling than the evidence concerning the original presence of the 1p clusivity split.
+As for the personal markers, the above schema is based on the hypothesis that one and the same prefix was used for 1s and 1p/E on the one hand, 2s and 2p on the other hand. Actually, as a matter of principle the 1s-prefix might equally have been shared by 1p/I, rather than 1p/E. In the lack of explicit evidence (and considering the non absolutely converging typological data) this paper adopts the latter option, which takes into account the prevailing typological tendency, as indicated by Daniel (2005). Fortunately, this choice does not have any important consequence for the reasoning developed below (see also the Appendix).
+The Chamacoco system might have developed through the following stages:
+
+(9) Chamacoco: evolution of the person markers
+
+A.
+
+1s
+
+α- ROOT
+
+2s
+
+β- ROOT
+
+3s
+
+γ- ROOT
+
+1p/INCL
+
+δ- ROOT
+
+1p/EXCL
+
+α- ROOT
+
+-φ
+
+9
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL.9,1 2010
+
+2p
+
+β- ROOT
+
+-ψ
+
+B.
+
+1s
+
+ε ROOT
+
+C.
+
+1p/EXCL
+
+α- ROOT
+
+D.
+
+1p/EXCL
+
+µ-α- ROOT
+
+3p
+
+µ-γ- ROOT
+
+Stage A exhibits the situation in Ancient Zamuco, as already shown in (8). At stage B, Chamacoco introduced a different marker for 1s. This broke the symmetry of the system and entailed the possibility of dropping the 1p/E-suffix at stage C, for this was no more functionally motivated. As a kind of compensation, however, at stage D a sort of pre-prefix was added to 1p/E. Finally, again at stage D an apparently identical preprefix was added to 3s in order to create a new morphologically specified person, thus adding 3p to the paradigm.
+The respective timing of the two stage-D changes cannot be determined, for they are not obviously related to each other. It is important to observe, however, that the introduction of 3p as an independent form must have been an innovation, since in the Chamacoco possessive markers’ system (consisting of prefixes attached to nouns) there is no obligatory marking of 3p. The 3 possessive prefix is used for both singular and plural, and the 3p independent pronoun is only added – just as in Ayoreo – for the purpose of disambiguation. Two further observations confirm the relatively late introduction of the 3p morphological specification. First, the 3p pronoun is the only possessive marker (in both Ayoreo and Chamacoco) not taking the shape of a prefix. Second, even the use of the 3p pre-prefix of the Chamacoco’s verb paradigm is not compulsory. All these points prove the lower degree of grammaticalization of the whole complex of Chamacoco 3p markers.
+Another important observation concerns the one and only extant verbal suffix of Chamacoco, having the shape -lo as shown in (5). As it happens, -lo is also used as a plural marker in other cases related to the Chamacoco person system (Ciucci 2009). Again, two points should be considered. First, Chamacoco presents a paucal vs. nonpaucal split in the 1p/I independent pronoun: eyok ‘we/INCL (few)’ and eyokɨlo ‘we/INCL (many)’ (Ulrich & Ulrich 2000). Although in this case -lo is not, technically speaking, a plural marker, for eyok is also a plural (although a paucal plural),2 it will not go unnoticed that eyokɨlo adds somehow to the idea of plurality with respect to
+
+2 Actually, eyok should be considered an unmarked form. When there is no need to emphasize the contrast between few and many, it is used as a general 1p/I marker.
+10
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL.9,1 2010
+eyok. The second strictly related point concerns the possible usage of the -lo suffix in the 1p/I of the verbal paradigm whenever the paucal vs. non-paucal contrast needs to be emphasized: cf. yichew ‘we/INCL (few) write’ vs. yichewlo ‘we/INCL (many) write’ (as opposed to oyichew ‘we/EXCL write’, *oyichewlo ‘we/EXCL (many) write’).
+The picture presented in (9) does not make any claim about the relative timing of the adjunction of the o-pre-prefix in 1p/E vis-à-vis 3p. The one thing that should be taken for granted is that the latter was a late innovation. But the ultimate question is: where does this pre-prefix come from? An appealing hypothesis is that it is an instance of morpheme borrowing form the Guarani 1p/E pronoun (ore) and verb inflectional prefix (ro-): cf. (ore) roke ‘we/EXCL are sleeping / slept’ in Bolivian Chaco Guarani (Dietrich 1986, Bertinetto 2006).3 This does not necessarily imply that the clusivity split within the Chamacoco 1p was imported from Guarani. This split might be, as here surmised, an original feature of the Zamuco languages; the borrowing might have occurred in order to counterbalance the loss of the 1p/E-suffix, in order to emphasize the contrast with 1p/I. However, the alternative scenario, whereby the clusivity split resulted from language contact between Chamacoco and Guarani (leaving Ayoreo, as well as Chomé Zamuco, totally unaffected), cannot be ignored. Should this be the case, the very acquisition of the clusivity split in Chamacoco should be regarded as an innovation with respect to the other Zamuco languages and the appropriate modification should be made in the scheme in (8).4
+The above-suggested etymology of the Chamacoco o-pre-prefix is, however, not the only one that comes to mind. Another possible etymology connects it to the 3p independent pronoun õr (cf. Ayoreo’s and Chomé Zamuco’s ore). Should this be the correct interpretation, one should then imagine a different temporal schema. The independent pronoun õr was at some point inglobated into the paradigm in order to create the new morphological contrast between 3s and 3p. Once the innovation was stabilized, this o- morphome (in Aronoff’s sense) was re-used to strengthen the endangered clusivity distinction in 1p (or, alternatively, to introduce it). Although this scenario cannot be excluded, the details mentioned above, concerning the later
+3 Thanks are due to Luca Ciucci for this suggestion. 4 The clusivity feature appears to be particularly liable to areal spread, as several papers in Filimonova (2005) observe, and as also summarized in the concluding remarks by this editor (“Clusivity crosslinguistically: Common trends and possible patterns”). Significantly, this is explicitly mentioned in the contributions referring to the area were the Zamuco languages are spoken (Crevels & Muysken 2005, Sakel 2005).
+11
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL.9,1 2010
+
+acquisition of the 3p verbal affix, suggest that it should not be considered as the most likely hypothesis.
+As a last possibility, one might entertain the hypothesis that the apparently identical o-pre-prefixes of 1p/E and 3p have different origins. The former might have been imported from Guarani, while the latter might indeed have stemmed from the inglobation of the 3p pronoun. The formal identity of the these two elements might thus be purely accidental, although it might have fed, in the course of time, a morphological reanalysis by the native speakers.5
+As for Ayoreo, the evolution of the verb paradigm might have developed in the following way:
+
+(10) Ayoreo: evolution of the persons markers
+
+A.
+
+1s
+
+α- ROOT
+
+2s
+
+β- ROOT
+
+3s
+
+γ- ROOT
+
+1p/INCL
+
+δ- ROOT
+
+1p/EXCL
+
+α- ROOT
+
+-φ
+
+2p
+
+β- ROOT
+
+-ψ
+
+B.
+
+1p
+
+α- ROOT
+
+-φ
+
+2p
+
+ε- ROOT
+
+-ψ
+
+Assuming the picture in (8), as reproduced in stage A, one should merely point out the disappearance of the clusivity contrast at stage B, together with the introduction of a different 2p-prefix, which breaks the symmetry of the singular / plural correspondences. The relative timing of the two changes cannot be determined. Needless to say, the very existence of the first change, namely the disappearance of the clusivity split, is a hypothesis. Should the latter split have been a matter of morphological borrowing by Chamacoco, rather than an original Zamuco feature, the picture in (10) – as well as in (8) – should be corrected accordingly.
+The interesting thing, in any case, is that the symmetry-breaking events that occurred in Chamacoco and Ayoreo involved a different set of persons: 1s vs. 1p/E in
+
+5 The decomposable structure of the 1p/E- and 3p-prefix might superficially resemble the phenomenon of person markers reduplication, as described by Van der Voort (2009). The situation is, however, very different: the prefix is not a replica of the pre-prefix, for the two elements must combine in order to identify the intended person.
+12
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL.9,1 2010
+
+Chamacoco, 2s vs. 2p in Ayoreo. This has all the appearance of a purely accidental development, but at the same time lends further credit to the existence of a common ancestral phase for the two languages. It would otherwise be difficult to understand how the two systems could be equally asymmetric on the whole, and with precisely this accidental divergence in the detail.
+
+5 Two remaining questions
+Two questions remain to be discussed. The first one concerns the puzzling survival of the Ayoreo 2p-suffix, whose presence is not justified by the picture provided above. The second question concerns a problem of affix order, which is the specific topic of the present journal issue.
+
+As noted above, the Ayoreo 2p-suffix is at first sight not functionally motivated, for the distinction with respect to the 2s would be safeguarded anyway by the different prefixes resulting from the symmetry-breaking change of stage B in (10). If one takes a closer look, however, at the Ayoreo verb inflection paradigm, things stand out as significantly different. The important feature to consider is the mechanism of so-called “mobile syllables” (Bertinetto 2009), to be observed in Ayoreo but totally absent in Chamacoco.
+As it happens, a number of syllables may appear in the singular forms of Ayoreo verbs and disappear in the plural forms. In discending order of frequence, they are: -re, -se, -que, -te, -gu, -si, -ru, -di, -ra, -ro, -su. A few of them also exist as independent morphemes, although it is impossible to ascertain whether they have the same etymology, for the mobile syllables – as opposed to their independent morpheme equivalents – appear to be semantically opaque. This is in itself a relevant difference with respect to the inglobated adpositions shown in (4), whose meaning is perfectly transparent (e.g., ome conveys dative or instrumental meaning). Here follow some examples:
+
+(11) ‘collect fruit’ yi-guisa-re, ba-guisa-re, chi-guisa-re, yi-guisa-co (*go),
+
+uaca-guisa-cho (*yo)
+
+‘to shout’ yi-bi-te, ba-bi-te, ti-bi-te, yi-bi-co (*go), uaca-bi-cho (*yo)
+
+‘sell’
+
+ñẽ-ra, mẽ-ra, tẽ-ra, ñẽ-co (*ngo), uaquẽ-cho (*ño).
+
+13
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL.9,1 2010
+
+In contrast to the behavior of inglobated adopositions in (4), the mobile syllables in (11): (i) are only present in the singular forms, rather than in the whole paradigm; (ii) they bring about a modification of the plural suffixes, as shown by the parentheses in (11).6 The latter point suggests a likely solution to this puzzle. Whatever the actual contribution of the mobile syllables to the lexical meaning might have been, at some point they must have fused with the plural suffixes. Thus, the specific allomorph of the plural suffixes is itself a marker, pointing out that the root-final syllable of the singular persons has been deleted. Considering that in most cases, for any given root, only one of the various mobile syllables is lexically exploited, the native speaker is almost always able to reconstruct the complete root from either one of the plural persons. The few cases where the speaker might be in doubt – namely, those where two mobile syllables may be at stake – are easily disambiguated by context redundancy. The last example in (11) is particularly interesting because it presents the mobile syllable –ra which is instead definitely part of the root ôra in the following example:
+
+(12) ‘throw’
+
+ñõ-ra, mõ-ra, tõ-ra, ñõ-ra-ngo, uacõ-ra-ño
+
+Thus, one and the same syllable may or may not be mobile. But even more important is the fact that the shape of the plural suffixes is affected by the mobile syllable’s shape. In (13a-b) the 2p-suffix is not -cho but -so, evidently to keep a trace of the mobile-syllable’s consonant. Something similar is to be observed with other mobile syllables, as in (c), where -que (/ke/) brings about -jo (/ho/) instead of -co (in addition, the irregular inflection of 3s should be pointed out):
+
+(13) (a) ‘to chew’ yi-ga-se, ba-ga-se, chi-ga-se, yi-ga-co, uaca-ga-so
+
+(b) ‘to remove’
+
+ya-se, ba-se, cha-se, ya-co, uaca-so
+
+(c) ‘to walk’ y-i-ri-que, b-a-ri-que, ø-di-que, y-i-ri-jo, uac-a-ri-cho
+
+This proves that the plural-suffix substitution mechanism did indeed arise as the result of phonetic fusion, whereby the root-final syllable was integrated with the following suffix, sometimes leaving tangible traces of its original phonetic content (see
+
+6 Incidentally, as the last example in (10) shows, with mobile syllables the nasal harmony spread is blocked by the very nature of the intervening consonant.
+14
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL.9,1 2010
+
+Bertinetto 2009 for further details). The evidence provided here is compelling enough to explain the seeming paradox of the preservation of the 2p-suffix in Ayoreo, despite its apparent lack of functional justification. The presence of this suffix is in fact very functional, in that it helps the speaker to identify the lexical identity of the given form.
+
+The second and last point to consider, as announced at the beginning of this section, is a matter of affix order. It has been claimed that there is an overwhelming universal tendency, such that Person-markers precede Number-markers and, crucially, this order is maintained irrespective of the position of the lexical root (Trommer 2003; Mayer 2009). This being the case, the Chamacoco verb paradigm appears to yield a striking violation of this universal tendency. The offending case is 3p, as shown in (14) reproducing (5):
+
+(14) Chamacoco verb paradigm
+
+1s
+
+tV(k)-
+
+ROOT
+
+2s
+
+e/a-
+
+ROOT
+
+3s
+
+ch/s/t…V-
+
+ROOT
+
+1p/INCL
+
+yV-
+
+ROOT
+
+1p/EXCL
+
+o-yV-
+
+ROOT
+
+2p
+
+e/a-
+
+ROOT
+
+-lo
+
+3p
+
+o-ch/s/t…V-
+
+ROOT
+
+As can be seen, in the Chamacoco 3p forms the number-marker (o-) precedes the person-marker (-ch-/s/t…). By contrast, 1p/E does not constitute a violation, because the pre-prefix (o-) is not a number-marker in that case. How should this violation be explained? An immediately obvious indication stems from the discussion in section 4. If indeed the 3p-affix is a relatively late innovation, the affix order violation appears to be easily explained. The 3p marker was added to an already established paradigm and the easiest way to integrate it was to host it at the margins of the form. It is, thus, an instance of late grammaticalization. In any case, the optionality of the 3p o-pre-prefix, pointed out in section 4, suggests that this innovation was never completely integrated into the paradigm, possibly as a kind of therapeutic reaction against an innovation conflicting with the universal tendency.
+
+15
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL.9,1 2010
+
+6 Appendix
+As noted in section 4, it is not possible to ascertain whether the 1s-prefix was shared in Ancient Zamuco by 1p/I or by 1p/E. In the present paper, a choice was made in favor of the latter option. Should the former option be selected, however, the argumentation should be modified as follows. The scheme in (9b) is the modified version of (9):
+
+(9b) Chamacoco: evolution of the persons markers (Alternative version)
+
+A. 1s
+
+α- ROOT
+
+2s
+
+β- ROOT
+
+3s
+
+γ- ROOT
+
+1p/INCL
+
+α- ROOT -φ
+
+1p/EXCL
+
+δ- ROOT
+
+2p
+
+β- ROOT -ψ
+
+B. 1s
+
+ε
+
+C. 1p/INCL
+
+α- ROOT
+
+D. 1p/EXCL
+
+µ-δ- ROOT
+
+3p
+
+µ-γ- ROOT
+
+At stage B, Chamacoco introduced a different 1s-marker, thus breaking the symmetry of the system. This entailed the loss of the 1p/I-suffix at stage C, for it was no longer functionally required. The latter change was followed, at stage D, by the introduction of a sort of pre-prefix on 1p/E, with the purpose of emphasizing the endangered contrast with 1p/I. Stage D also features the adjunction of the same preprefix to 3s, thus adding 3p as a new morphologically specified person. The relative timing of these two changes cannot be defined.
+
+7 Bibliographical references
+Bertinetto, Pier Marco (2006). On the Tense-Aspect system of Bolivian Chaco Guaraní, in Wolf Dietrich (ed.), Guaraní y ‘Mawetí-Tupí- Guaraní’. Estudios históricos y descriptivos sobre una familia lingüística de América del Sur, Münster, LIT. 105-167.
+
+16
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL.9,1 2010
+Bertinetto, Pier Marco (2009). Ayoreo (Zamuco). A grammatical sketch, Quaderni del Laboratorio di Linguistica della Scuola Normale Superiore 8 n.s. (on-line version).
+Chomé, Ignace. cf. Lussagnet. Ciucci, Luca (2007/08). Indagini sulla morfologia verbale nella lingua ayoreo,
+Quaderni del Laboratorio di Linguistica della Scuola Normale Superiore 7 n.s. (online version). Ciucci, Luca (2009). Elementi di morfologia verbale del Chamacoco, Quaderni del Laboratorio di Linguistica della Scuola Normale Superiore 8 n.s. (on-line version). Combès, Isabelle (2009). Zamucos, Cochabamba, Instituto de Misionología. Crevels, Mily & Muysken, Pieter (2005). Inclusive-exclusive distinctions in the languages of central-western South America, in Filimonova (ed.) 2005. 313-339. Daniel, Michael (2005). Understanding inclusives, in Filimonova (ed.) 2005. 3-48. Dietrich, Wolf (1986). El idioma chiriguano. Gramática, textos, vocabolario, Madrid, Instituto de Cooperación Iberoamericana. Fabre, Alain (2007). Los pueblos del Gran Chaco y sus lenguas. Cuarta parte: Los zamuco, Suplemento Antropológico, Asunción, Paraguay, 42(1): 271-323 (last web up-dating: December 2008). Filimonova, Elena (ed.) (2005). Clusivity, Typology and case studies of the inclusiveexclusive distinction, Amsterdam, Benjamins. Fischermann, Bernd (1988). Zur Weltsicht des Ayoréode Ostboliviens, Bonn, Rheinischen Friedrich-Wilhelms-Universität. Lussagnet, Suzanne (ed.) (1958). Ignace Chomé. Arte de la lengua zamuca (17381745), Journal de la Société des Américanistes de Paris, 47: 121-79. Mayer, Thomas (2009). On the asymmetry of person and number marking. (Paper presented at the Workshop on Asymmetries and Universals in Honour of Frans Plank, Schloss Freudental, May 24, 2009). Sakel, Jeanette (2005). Development of an inclusive-exclusive distinction. A possible loan scenario in Mosetenan, in Filimonova (ed.) 2005, 359-379. Salzano, F.M. & Pages, F. & Neel, J.V. & Gershowitz, H. & Tanis, R.J. & Moreno, R. & Franco, M.H.L.P. (1978). Unusual blood genetic characteristics among the Ayoreo Indians of Bolivia and Paraguay, Human Biology, 50: 121-136.
+17
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL.9,1 2010
+Trommer, Jochen (2003). The interaction of morphology and affix order, Yearbook of Morphology, 2002: 283-324.
+Ulrich, Matthews & Ulrich, Rosemarie (2000). Diccionario ɨshɨro (Chamacoco) – Español / Español – ɨshɨro (Chamacoco), Asunción, Misión Nuevas Tribus Paraguay.
+Van der Voort, Hein (2009). Reduplication and repetition of person markers in Guaporé isolates, Morphology, 19: 263-286.
+18
+
+

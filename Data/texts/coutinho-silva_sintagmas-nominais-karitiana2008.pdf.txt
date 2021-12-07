@@ -1,0 +1,4320 @@
+UNIVERSIDADE DE SÃO PAULO FACULDADE DE FILOSOFIA, LETRAS E CIÊNCIAS HUMANAS
+DEPARTAMENTO DE LINGÜÍSTICA PROGRAMA DE PÓS-GRADUAÇÃO EM SEMIÓTICA E LINGÜÍSTICA
+THIAGO COUTINHO-SILVA
+Aspectos dos Sintagmas Nominais em Karitiana: A Quantificação Universal
+São Paulo 2008
+
+UNIVERSIDADE DE SÃO PAULO FACULDADE DE FILOSOFIA, LETRAS E CIÊNCIAS HUMANAS
+DEPARTAMENTO DE LINGÜÍSTICA PROGRAMA DE PÓS-GRADUAÇÃO EM SEMIÓTICA E LINGÜÍSTICA
+Aspectos dos Sintagmas Nominais em Karitiana: A Quantificação Universal
+THIAGO COUTINHO-SILVA
+Dissertação apresentada ao Programa de PósGraduação em Semiótica e Lingüística Geral do Departamento de Lingüística da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo, para a obtenção do título de Mestre em Letras.
+Orientador: Profa Dra. Luciana Raccanello Storto
+São Paulo
+
+2008
+Folha de aprovação
+Thiago Coutinho-Silva
+Aspectos dos Sintagmas Nominais em Karitiana: A Quantificação Universal
+Dissertação de mestrado apresentada ao Programa de Pós-Graduação em Semiótica e Lingüística Geral da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo para obtenção do título de mestre.
+Aprovado em:
+Banca examinadora
+________________________________________ Professora Dra. Luciana Storto – orientadora
+________________________________________ Professora Dra. Esmeralda Negrão (titular)
+________________________________________ Professora Dra. Bruna Franchetto (titular)
+________________________________________ Professor Dr. Angel Corbera Mori (suplente)
+_________________________________________ Professor Dr. Marcelo Ferreira (suplente)
+
+_________________________________________ Professor Dr. Marcia Santos Duarte de Oliveira Gostaria de dividir a dedicatória deste trabalho em duas partes;
+a primeira, é à Dona Jesu;
+
+a segunda, é para todas as pessoas que não tiveram as mesmas oportunidades que eu tive, e sabe lá Deus quantas delas eram tão (ou mais) competentes e/ou merecedoras do que eu.
+Em primeiro lugar, agradeço Especialmente ao “Lado negro da Força”:
+à Suzi Lima, amiga de parque D. Pedro, tramas da ZL [só quem é sabe!], Star Wars, quadrinhos, cinema, música, moda, pizza do Japa e idéias perigosas; ao Julio Barbosa, amigo de arquibancada, viagens abstratas [e viva a teoria X-barra!], pretenso “Ponte Preta” [se liga véi, o título cai melhor em mim!] e de um grande coração; a Minha Orientadora Luciana Storto, por acreditar em mim e me guiar nesta jornada que resulta em um primeiro passo à maturidade acadêmica [espero!]; aos Karitianas, em especial a Inacio, Cladiana, Luis Carlos, Elivar, Nelson, Claudio e muitos outros por me ajudar a entender algumas coisinhas em Karitiana; aos professores do departamento de linguística da FFLCH-USP, pela ótima formação que me forneceram – qualquer contra-exemplo existente em meus trabalhos, assumo como de minha responsabilidade. Gostaria de agradecer em especial a três professores: Esmeralda Negrão, Ivani Viotti e Marcos Lopes, que foram decisivos pela minha escolha pela pesquisa linguística; à professora Ana Müller pela oportunidade de iniciar uma pesquisa;
+Agradeço especialmente à Professora Tele Porto Ancona Lopez e ao professor Marcos Moraes por me mostrar como é maravilhoso investigar. Também agradeço ao pessoal do IEB, com o qual convivi e aprendi muito no período em que pesquisei/ trabalhei por lá. Em especial agradeço ao Denis; ao Marcelo Ferreira – quem admiro como pesquisador; ao Uli Sauerland pela paciência de discutir meus dados comigo; ao Jairo Nunes por me ajudar a clarear minhas idéias; ao secretários/amigos/salvadores do departamento: Érica Flávia, Robson e Ben-Hur; aos colegas e amigos dos cursos de pós: Rita, Marcus, Juliana, Rafael, Sonia, Lidia e Nize; aos muitos colegas e amigos que colecionei em congressos e viagens à 'coisas afins'. Em especial a Luisandro Mendes; ao pessoal da UFAL, UFSC, UnB, UFPR,Unicamp, UFMG, UFPE, etc. Não direi nome por nome, pois faço amizade fácil e a
+
+lista aqui é bem grande; à Fernanda – amiga e par nas danças pela vida; ao Acauam – grande amigo e irmão para os conhecimentos acadêmicos e além-academia; à Aika - peça chave de tudo isso; à Melody – minha irmã oriental; ao Tatá – amigo (no sentido pleno da palavra); à família, em especial a Maria e a Sarah; à Vanessa – companheira de debates sobre as pessoas e as artes; ao professor Eduardo Navarro, por me introduzir nos temas indígenas; aos Professores Julio Groppa e Zé Sergio, por me ensinar a sempre re-calcular a realidade;
+Não tão menos especial, agradeço: à turma do Tio Gel: Cris, Venega, Digão, Vitão, Zé da Poli, Pegattore, Du negão, Bosinho, Marília, Bow, Laisa, Carol, Pri, Rafa Caell e especialmente ao Dr. Geraldo Leite, pelos ensinamentos sobre a vida; aos amigos da graduação: Lucius, Marcelo, Camilão, Fezão, Fezinha, Fefis, Enxaqueca, Fabito, Jarbas, Lud entre outros; ao pessoal da infância: Carol, Meninão, Virão, Pepê, Dollinha, Rafa, Daniel, Negão, Plic, o pessoal da Sociedade Amigos de Vila Guilhermina e todos que não coloco o nome por questão de espaço e não de esquecimento; ao pessoal do Outback: “vem comigo que eu tenho um plano”;
+ao CNPq por financiar meu trabalho; à mim mesmo, por estar aqui agora.
+
+“Uma genuína teoria da linguagem humana tem de satisfazer duas condições: “adequação descritiva” e “adequação explicativa”. (...) Há uma séria tensão entre essas duas tarefas de pesquisa. A procura da adequação descritiva parece levar a uma complexibilibade e a uma variedade sempre maiores que de sistemas de regras, ao passo que a procura de adequação explicativa exige que a estrutura da lígua seja, em grande parte, invariante. É essa tensão que tem quase sempre fixado as pautas de pesquisa.” (Chomsky,1998:24)
+RESUMO COUTINHO-SILVA, Thiago. Aspectos dos Sintagmas Nominais em Karitiana: A Quantificação Universal. Dissertação (mestrado) – Faculdade de Filosofia, Letras e Ciências Humanas, Universidade de São Paulo, São Paulo, 2008.
+De uma maneira geral, este trabalho tem como objetivos descrever e analisar alguns aspectos dos Sintagmas Nominais em Karitiana. Primeiramente, retomamos as discussões de Müller, Storto e Coutinho-Silva (2006a,b) e Sanchez-Mendes (2007) acerca da quantificação em Karitiana e descrevemos o comportamento do suposto quantificador Universal: akatyym, propondo que em Karitiana exista um processo específico de 'quantificação' que não pode ser tratado como quantificação nominal ou adverbial conforme descrito em Bach et al (1995), pois o que nossa análise tanto do ponto de vista morfossintático, quanto do ponto de vista semântico aponta é que NP+akatyym é uma sentença relativa com núcleo interno, e sua suposta força quantificacional de Universal pode ser justificada como uma característica das relativas livre de núcleo interno que ao interpretar semanticamente seus núcleos nominais internamente ao CP, gera uma operação que tem como resultado semântico uma denotação de entidade plural máxima ou completa (cf. Grosu & Landman, 1998). Além disso, este trabalho analisa alguns fatos inter-relacionados dentro do Sintagma Nominal: analisamos as estruturas demonstrativas, mostrando que elas também são melhor analisadas como sentenças relativas e
+
+propomos uma descrição e análise dos pronominais em Karitiana tanto do ponto de vista da Morfologia Distribuída, seguindo os trabalhos de Ritter e Harley (1998), Hanson, Harley e Ritter (2000) e Harley e Ritter (2002) para a composição da geometria de traços no paradigma dos pronomes pessoais na língua, quanto dos recursos envolvidos na ligação e co-denotação (Büring, 2005).
+Por fim, apontamos que a não existência de um item lexical específico para a Quantificação Universal Nominal, de pronomes demonstrativos e de uma efetiva morfologia de número nos pronomes pessoais corroboram a hipótese de não existência da categorial funcional DP nos nominais em Karitiana proposta por Müller, Storto & Coutinho-Silva (2006a,b).
+Palavras-chaves: Karitiana; sintagma nominal; relativização; sintaxe.
+ABSTRACT COUTINHO-SILVA, Thiago. Aspects of Noun Phrases in Karitiana: Universal Quantification. Dissertation (master) – Faculdade de Filosofia, Letras e Ciências Humanas, Universidade de São Paulo, São Paulo, 2008.
+In a general aspect, this work has as its goals to describe and analyze some aspects of the Karitiana Noun Phrases. First, we take up again the discussions from Müller, Storto & Coutinho-Silva (2006a,b) and Sanchez-Mendes (2007), on Karitiana’s quantification, and we describe the behaviour of the alleged universal quantifier: akatyym, proposing that, in Karitiana, there is a specific ‘quantificational’ process that cannot be treated as noun ou adverbial quantification as described in Bach et al (1995), since what our analysis shows from the morphossyntactic, as well as the semantic point of view, is that NP +akatyym is a internalheaded relative clause, and its alleged Universal quantificational force can be justified as a characteristic of the internal-headed free relatives, that, as it interprets its nominal heads semantically DP-internally, generates an operation which has as its semantic result a denotation of plural maximum or complete entity (cf. Grosu & Landman, 1998). Besides, this
+
+work analyzes a few interesting facts correlated within the Noun Phrase: we analysed the demonstrative structures, showing that they are best analyzed as relative clauses, and we propose a description and an analysis of the Karitiana pronouns from both the Distributed Morphology point of view, following the works of Ritter & Harley (2002), for the feature geometry composition for the person pronouns paradigm, and also of the resources involved in binding and co-denotation (Büring, 2005).
+At last, we point that the non-existance of a specific lexical item for universal quantification of nominals, of demonstrative pronouns and of an effective number morphology in the personal pronouns corroborate the hypothesis of non-existance of the functional category DP in the Karitiana nouns, as proposed by Müller, Storto & CoutinhoSilva (2006a,b).
+Keywords: Karitiana, noun phrases, relativization, syntax.
+
+Índice
+
+0. Introdução
+
+1
+
+0.1 Fontes dos dados
+
+2
+
+0.2 A língua Karitiana
+
+3
+
+Capítulo 1
+
+4
+
+1. Quantificação Universal em Karitiana
+
+4
+
+1.1 Objetivos
+
+4
+
+1.2 Dados
+
+5
+
+1.3 Bases teóricas/ background
+
+6
+
+1.3.1 Tipos de quantificação em Karitiana
+
+6
+
+1.3.2 Background: Entre a quantificação-A e a
+
+7
+
+quantificação-D
+
+1.4 O comportamento sintático dos quantificadores
+
+8
+
+e a sua distribuição
+
+1.5 A distribuição dos quantificadores em Karitiana
+
+20
+
+1.6 Akatyym versus kandat e keerep
+
+23
+
+1.7 Uma morfossintaxe para akatyym
+
+25
+
+1.7.1 Aka – verbo?
+
+26
+
+1.7.2 Tyym – partícula subordinadora
+
+28
+
+1.8 Outros possibilidades do uso do akatyym 'todos'
+
+31
+
+1.9 Qual o tipo de sentença é NP+akatyym?
+
+34
+
+1.10 Relativas em Karitiana
+
+37
+
+1.10.1 Background acerca das sentenças relativas
+
+41
+
+1.10.2 Estruturas com akatyym
+
+44
+
+1.11 Conclusões
+
+53
+
+Capítulo 2
+
+55
+
+2. Fenômenos satélites a akatyym
+
+55
+
+2.1Demonstrativos em Karitiana
+
+55
+
+2.1.1 Introdução
+
+55
+
+2.1.2 Background
+
+56
+
+2.1.3 Dados
+
+57
+
+2.1.4 Primeira Análise
+
+59
+
+2.1.5 A morfossintaxe dos Demonstrativos
+
+61
+
+2.1.6 Aka – verbo auxiliar
+
+63
+
+2.1.7 Estatuto Sintático dos PCs
+
+67
+
+2.1.8 Conclusões
+
+73
+
+2.2 Pronomes pessoais
+
+74
+
+2.2.1 Introdução
+
+74
+
+2.2.2 Sobre uma listagem de participantes
+
+75
+
+2.2.3 Sobre o papel do ta e do i na composição dos
+
+78
+
+pronomes 'plurais'
+
+2.2.4 A terceira pessoa i
+
+80
+
+2.2.5 Conclusões
+
+82
+
+2.3 i e ta e a ligação em Karitiana
+
+83
+
+2.3.1 Background
+
+83
+
+2.3.3 Reflexivos de longa distância e orientação
+
+87
+
+2.3.4 Anáfora orientada para o sujeito
+
+88
+
+2.3.5 Uma anáfora orientada para o anti-sujeito?
+
+90
+
+2.3.6 i e Ta: pronomes relativos?
+
+92
+
+2.3.7 Conclusões
+
+94
+
+Capítulo 3
+
+95
+
+3.1 Considerações Finais
+
+95
+
+4. Referências Bibliográficas
+
+96
+
+Abreviações e Glosas
+
+ADV ARG AspP aux CFO conec CP D decl fut MD N nfut nmlzr OBJ obl posp part PC pl Q QP NP VP Spec IP sg dupl REL 3anaf 2p SUJ tr.
+
+Advérbio Argumento Sintagma Aspectual auxiliar Construção de foco do objeto conectivo Sintagma complementizador Determinante declarativa futuro Morfologia Distribuída Nominal não futuro nominalizador Objeto oblíquo posposição particípio Posição do Corpo plural Quantificador Sintagma Quantificacional Sintagma Nominal Sintagma Verbal Posição de Especificador Sintagma de Tempo singular duplicação (sentença) Relativa terceira pessoa anafórica segunda pessoa do plural Sujeito (posição) traço
+
+sub 1pp.in vblz 1s 2 3
+
+subordinador primeira pessoa do plural inclusiva verbalizador primeira pessoa do singular segunda pessoa do singular terceira pessoa
+
+Aspectos dos Sintagmas Nominais em Karitiana: A Quantificação Universal
+0. Introdução Este trabalho tem como objetivos: (i) descrever o comportamento do suposto
+quantificador Universal em Karitiana: akatyym, (ii) propor uma análise para NP+akatyym que satisfaça suas exigências sintáticas e leituras semânticas observadas, (iii) discutir alguns fenômenos associados às possibilidades de ocorrência de akatyym na língua e (iv) propor uma análise geral que satisfaça as evidências empíricas da língua e as exigências teóricas correntes sobre o assunto.
+Este trabalho está dividido em três capítulos: No primeiro capítulo, retomamos as discussões de Müller, Storto e Coutinho-Silva (2006a,b) e Sanchez-Mendes (2007) acerca das características dos nominais e dos processos de quantificação na língua Karitiana e propomos que nesta língua existe um processo específico de 'quantificação' que não pode ser tratado como quantificação nominal ou adverbial, pois o que nossa análise final aponta é que NP+akatyym é uma sentença relativa com núcleo interno, e sua suposta força quantificacional de Universal pode ser justificada como uma característica das relativas livres de núcleo interno que, ao interpretar semanticamente seus núcleos nominais internamente ao CP, geram uma operação que tem como resultado semântico uma denotação de entidade plural máxima ou completa. No segundo capítulo, nosso objetivo é descrever e analisar fatos lingüísticos envolvidos diretamente com o comportamento dos nominais em Karitiana. Este capítulo está dividido em três partes: na primeira é feito um esboço de como os nomes são ancorados deiticamente em Karitiana e assim, mostrando que não há pronomes
+1
+
+demonstrativos nesta língua, mas no lugar destes há uma estrutura que se assemelha a uma sentença relativa restritiva. Na segunda parte, analisamos o paradigma pronominal da língua Karitiana a partir das propostas de geometria de traços de Ritter e Harley (1998), Hanson, Harley e Ritter (2000) e Harley e Ritter (2002) no framework da Morfologia Distribuída, a fim de constatar se a ausência de pluralidade proposta por Müller, Storto e Coutinho-Silva (2006a,b) para os pronominais pode ter um tratamento mais adequado dentro da MD1. Além disso, baseados nos trabalhos sobre binding (Chomsky (1981) e Büring (2005)), apontamos que as partículas ta- e i- que exercem de antemão o papel de reflexivo (anafórico) e pronome, respectivamente, e também possuem muitas outras funções na língua, como a de reflexivo de longa distância e também parecem marcar fonologicamente vestígio movidos junto a akatyym, com a finalidade de 'apontar' qual argumento (ergativo ou absolutivo) está sendo operado semanticamente. Por fim, será discutida a existência ou não de categorias funcionais nos nominais em Karitiana, a partir do que, a princípio, parece um problema para o tratamento do item akatyym nesta língua.
+No terceiro capítulo os resultados deste trabalho são sumarizados.
+0.1 Fontes dos dados Este trabalho possui as seguintes fontes primárias de dados :
+(a) Dados coletados por Müller, Storto e Coutinho-Silva (2005, 2006 e 2007); (b) Dados gravados por Storto (2008): (a) Claudiana e (b) Nelson; (c) Dados coletados em viagem de campo a Porto Velho (fev. 2008); (d) Dados coletados por Coutinho-Silva (set. 2008).
+Além destas fontes, foram utilizados alguns exemplos retirados de trabalhos sobre a
+1 É importante lembrar que os pronomes são tratados tradicionalmente na literatura como DPs, e como possuem distinção de número, e um inventário restrito de formas, uma análise destes itens lexicais pode ser muito esclarecedora no que diz respeito à estrutura dos nominais.
+2
+
+língua Karitiana e sobre o assunto, cujas fontes são referidas por nome do autor e data do trabalho. 0.2 A língua Karitiana
+Karitiana é a única língua sobrevivente da família Arikém (Tronco Tupi), falada atualmente por aproximadamente 330 pessoas, que vivem numa reserva indígena demarcada, localizada a 95 km ao sul de Porto Velho, no estado de Rondônia, Brasil (Storto, comunicação pessoal).
+3
+
+1. Quantificação Universal em Karitiana
+1.1 Objetivos Este capítulo tem como principal objetivo descrever e analisar a quantificação
+Universal em Karitiana, estabelecendo sua natureza e comportamento tanto do ponto de vista sintático, quanto semântico a fim de discutir as implicações dos fatos empíricos encontrados frente à literatura corrente sobre o assunto.
+A quantificação Universal em Karitiana é expressada basicamente pela palavra akatyym, traduzida inicialmente como 'todos', a qual encontra-se em distribuição complementar sintática e semântica com outros quantificadores e operadores na língua.
+Embora seja possível uma análise dos dados que possa sugerir que o item lexical akatyym seja um quantificador nominal, algumas características morfossintáticas e semânticas sugeridas pelas teorias correntes sobre o assunto apontam para uma outra classificação para akatyym. Assim, este trabalho examina os possíveis desenvolvimentos analíticos dos fatos encontrados em Karitiana envolvidos com o item lexical akatyym, a fim de atingir uma descrição satisfatória e, ao mesmo tempo, uma análise razoável que esteja em consonância com os modelos teóricos utilizados.
+Inicialmente, desenvolvemos uma análise que sugere que este item seja um quantificador, o qual aparenta ser um operador de universalidade, pois enquanto todos os outros quantificadores em Karitiana são estritamente adverbiais e operam sempre com o argumento evento da sentença, como aponta Sanchez-Mendes (2007), akatyym só forma constituinte e opera com nominais. Contudo, ao aprofundarmos a análise pelo ponto de vista morfossintático, percebemos que talvez essa não seja a melhor análise para este item, tanto do ponto de vista sintático, quanto semântico.
+4
+
+A partir desta dissemelhança com o que a literatura trata como canônicos operadores de universalidade, uma análise morfossintática é desenvolvida com a finalidade de atestar a hipótese de que o item lexical akatyym é uma sentença relativa de núcleo interno. Dessa maneira, tratando akatyym como uma sentença relativa com núcleo interno, a suposta força quantificacional de Universal pode ser justificada como uma característica das relativas livres de núcleo interno que ao interpretar semanticamente seus núcleos nominais internamente ao CP, gera uma operação que tem como resultado semântico uma denotação de entidade plural máxima ou completa.
+
+1.2 Dados
+
+Os dados que serão utilizados neste trabalho são dados de quantificação tais como
+
+os apontados nos exemplos abaixo:
+
+'Quantificação' com nominal:
+
+1. Taso akatyym nasoko'it eremby
+
+taso
+
+akatyym ø-na-soko'i-t
+
+homem todos 3-decl-amarrar-nfut
+
+'Todos os homens amarraram a(s) rede(s)'
+
+eremby rede
+
+Quantificação adverbial (kandat 'muito'):
+
+2. Kandat taso naokyt boroja
+
+kandat taso
+
+ø-na-oky-t
+
+boroja
+
+muito homem 3-decl-matar-nfut cobra
+
+'Muitos homen(s) matam a(s) cobra(s).'
+
+Quantificação adverbial (keerep 'sempre'):
+
+3. Taso naoky tykat boroja keerep.
+
+taso
+
+ø-na-oky
+
+ty-ka-t
+
+boroja keerep
+
+homem 3-decl-matar aux-PC-nfut cobra sempre
+
+5
+
+'O(s) homen(s) sempre matam a(s) cobra(s)'.
+Coutinho-Silva (2006) aponta que os processos de quantificafição em Karitiana são basicamente adverbiais. Embora neste trabalho o tema não seja amplamente desenvolvido, é apontado que exemplos como o em (1) acima são diferentes em vários aspectos dos exemplos (2) e (3). Sanchez-Mendes (2008) aponta que em Karitiana a quantificação é estritamente adverbial. Porém, como Coutinho-Silva (2006) já havia observado e será desenvolvido nas seções seguintes deste trabalho, akatyym 'todos' comporta-se de maneira bem diferente dos quantificadores como keerep 'sempre' e kandat 'muito', pois apenas para os últimos, o comportamento paralelo aos advérbios na língua é evidente.
+1.3 Bases teóricas/ background Na descrição do comportamento dos quantificadores em Karitiana, foram utilizados
+os trabalhos de Partee et al. (1987), Jelinek (1995), Vieira (1995), Evans (1995), Bittner (1995), entre outros.
+Como base para as propostas estruturais desenvolvidas para a língua Karitiana, foram utilizados os trabalhos de Storto (1999), Coutinho-Silva (2005a,b 2006a,b), Müller, Storto e Coutinho-Silva (2006a,b) e Sanchez-Mendes (2007 e 2008).
+1.3.1 Tipos de quantificação em Karitiana Como já apontado, o objetivo deste capítulo é entender o comportamento do
+suposto quantificador2 akatyym 'todos' – um forte candidato a quantificador-D(eterminante) - em contraste com outros quantificadores em Karitiana : keerep 'sempre' e kandat 'muito'.
+Propostas como as de Barwise and Cooper's (1981 apud Vieira, 1995) apontavam
+2 Embora o desenvolvimento deste trabalho aponte que akatyym não seja um quantificador de fato, temporariamente o trataremos desta maneira.
+6
+
+que todas as línguas possuem uma "essencial quantificação de NP", porém trabalhos sobre quantificação como os de Partee . (1987), Jelinek (1995), Vieira (1995), Evans (1995), Bittner (1995) entre outros, embasados em dados de línguas até então poucos estudadas sobretudo, avançam num sentido contrário, apontando o processo de quantificação adverbial como o mais comum nas línguas naturais.
+1.3.2 Background: Entre a quantificação-A e a quantificação-D Foi no artigo "Quantification: A Cross-Linguistic Perpective" de Partee et al. (1987)
+que pela primeira vez foi levantada a hipótese de que as línguas naturais apresentam a quantificação nominal e adverbial como possibilidades disponíveis aos seus sistemas, em detrimento da afirmação de que havia a necessidade de todas as línguas possuirem quantificação nominal enquanto que a quantificação adverbial seria opcional. Este artigo funda um grande debate sobre o assunto, e foi a partir deste debate que a expressão Aquantifier (do inglês 'Adverbial quantifier' - quantificador adverbial) foi cunhada pela primeira vez em contraponto aos chamados D-quantifiers (do inglês Determiner quantifier - quantificador determinante). Nesta divisão, Partee . (1987) e posteriormente Bach et al. (1995) colocam que palavras e expressões podem ter funções quantificacionais bem próximas, porém ter um comportamento diferente em relação a:
+(i) o tipo de constituinte sobre o qual podem (ou devem) operar; (ii) o comportamento sintático; (iii) o escopo; (iv) a seleção ou não de um determinado constituinte.
+Essa separação tem como intenção, como apontam Bach . (1995), realizar um estudo em que não apenas se realizasse uma investigação sobre NPs com determinantes do tipo 'every' - estes já exaustivamente estudados pela tradição filosófica e lingüística - mas
+7
+
+também aquilo que Lewis (1975) chamou de "adverbs of quantification" (advérbios da quantificação), como 'quantificadores flutuantes' e quantificadores realizados via afixos verbais e também via auxiliares.
+O esclarecimento do comportamento dos quantificadores em geral, via material sintático e semântico, tem como objetivo prático questionar a proposta de Barwise and Cooper (1981) de que a quantificação nominal é universal nas línguas naturais e também averiguar 'todos' os possíveis meios pelos quais as línguas naturais expressam quantificação (latu sensu).
+Visto isso, os quantificadores a serem analisados em Karitiana são:  kandat 'muito'  keerep 'sempre'3  akatyym 'todo(s)'
+
+1.4 O comportamento sintático dos quantificadores e a sua distribuição
+
+Primeiramente, ao observarmos um pequeno número de exemplos, o suposto
+
+quantificador akatyym apresenta um comportamento bem diferente dos quantificadores
+
+kandat e keerep. Vejamos os exemplos:
+
+4. Kandat taso naokyt boroja
+
+kandat taso
+
+ø-na-oky-t
+
+boroja
+
+muito homem 3-decl-matar-nfut cobra
+
+'Muitos homens matam as cobras.'
+
+O quantificador kandat do exemplo (4), também aparece em outras posições dentro da sentença sem que sofra comprometimento da gramaticalidade: 5. Taso naokyt kandat boroja 6. Taso naokyt boroja kandat.
+3 Keerep em alguns contextos pode significar 'antigamente'.
+8
+
+E mesmo sendo utilizado em posições diferentes, o quantificador kandat tem a denotação voltada para a sentença, sendo possível a leitura dada na tradução no exemplo (4) ou as apontadas abaixo em (7), (8) e (9) devido ao processo de quantificação do evento denotado pelo verbo: 7. 'Os homens matam muitas cobras'. 8. 'Os homens muito matam cobras'
+(O(s) homen(s) mata(m) cobra(s) muitas vezes) 9. 'Muitos homens matam muitas cobras'4.
+
+Da mesma maneira, o quantificador keerep do exemplo (10), abaixo, também
+
+aparece em outras posições dentro da sentença sem que sofra comprometimento da
+
+gramaticalidade, pois a língua Karitiana permite outras ordens para os seus constituintes
+
+(11-13):
+
+10. Taso naoky tykat boroja keerep.
+
+taso
+
+ø-na-oky
+
+ty-ka-t
+
+boroja keerep
+
+homem 3-decl-matar aux-PC-nfut cobra sempre
+
+'Os homens sempre matam as cobras'.
+
+11. Naoky tykat keerep boroja taso. 12. Keerep naoky tykat boroja taso. 13. Naoky tykat boroja taso keerep.
+
+Independentemente da ordem dos constituintes apresentada (ex.10-13), a leitura de
+'Os homens sempre matam as cobras' - dada na tradução em (10) - pode ser mantida. Além
+4 Como veremos adiante, Sanchez-Mendes(2008) argumenta que os quantificadores em Karitiana operam apenas sobre eventos, ou seja o objeto de quantificação é o predicado verbal. Assim, a leitura proposta em (8) e (9) não é fruto de quantificação direta do kandat 'muito' sobre o nominal boroja 'cobra' ou sobre o nominal taso 'homem' (4-7), ela é decorrente da reduplicação de eventos que ao pluralizar o evento do verbo -oky- 'matar' pragmaticamente refere-se a mais de uma cobra, e não a repetição do evento ao mesmo indivíduo. Também é possivel a leitura apresentada em (10) onde tanto o argumento interno quanto o argumento externo parecem sobre pluralização decorrente do mesmo quantificador kandat, fato este que reforça a idéia de que estes quantificadores adverbiais operam sobre a sentença inteira.
+9
+
+disso, outras leituras são possíveis como (14) e (15)5: 14. 'Sempre os homens matam as cobras'. 15. 'Os homens matam sempre as cobras'.
+Como podemos observar nos exemplos de (4) à (6) e de (10) à (13), kandat e keerep podem ocupar diversas posições na estrutura sentencial. Storto (1999) ao testar os movimentos dos constituintes dentro da sentença mostra que os advérbios se adjungem à esquerda em projeções máximas ou a direita das sentenças. Assim, uma sentenças matriz do tipo SVO em Karitiana permitem três posíveis posições para os advérbios: antes do sujeito, entre o verbo e o objeto e depois do objeto.
+Storto (1999, 2003) descreve Karitiana como uma língua verbo-final, a qual apresenta movimento obrigatório do verbo principal para a segunda posição da sentença matriz. Existe uma distribuição complementar entre sentenças matriz e encaixadas em relação à posição do verbo. As sentenças matriz são verbo-iniciais (VOS, VSO) ou têm o verbo na segunda posição (SVO, OVS). As sentenças subordinadas são invariavelmente verbo-finais (OSV, SOV). O movimento do verbo na sentença raiz está associado à presença de concordância e tempo, que nunca estão presentes em sentenças dependentes (Storto 1999, 2003).
+Storto (1999) descreve dois tipos de estruturas básicas possíveis em Karitiana: a arcaica (SOV), pouco utilizada e mais comum em narrativas, e a contemporânea (OVS), estrutura (16) abaixo, amplamente usada no diálogo do dia-a-dia:
+5 Quanto a estas possíveis leituras apresentadas das sentenças (entre outras) e a relação destas com os itens como kandat e keerep ,uma investigação mais refinada sobre o escopo dos quantificadores adverbiais precisa ser feita, o que não é o objetivo deste trabalho.
+10
+
+16. ordem do SV (Storto 1999)
+
+VP ru
+
+V'
+
+Sujeito
+
+ru
+
+OBJ
+
+Verbo
+
+Desta maneira, a possibilidade de uma sentenças matriz do tipo SVO em Karitiana
+
+permitir três posíveis posições para os advérbios, como apontado pos Storto (1999), é
+
+oriunda do fato dos advérbios se adjungirem a projeções máximas e as sentenças matrizes
+
+desta língua projetarem pelo menos duas projeções máximas funcionais, o IP e o CP,
+
+vejamos a estrutura em (17) abaixo:
+
+17.
+
+CP
+
+eu
+
+SPEC
+
+C'
+
+ei
+
+C
+
+IP
+
+eu
+
+VP
+
+I
+
+ei
+
+V'
+
+SPEC
+
+ei
+
+OBJ
+
+V
+
+Esse desdobramento das categorias funcionais na sentença acontece da seguinte maneira: o verbo gerado em Vº se move para o núcleo Iº e posteriormente para o núcleo de C. Dados estes movimentos, a adjunções são possíveis entre o verbo e o objeto6 (advérbio adjunto em VP ou IP), exemplo e estrutura (18) abaixo, na primeira posição da sentença,
+6 Digo entre o verbo e o objeto já na estrutura superficial, linerarizada.
+11
+
+exemplo e estrutura (19) ou na posição final da sentença (advérbio adjunto a CP a direita7) exemplos e estruturas (20) e (21):
+
+18. Naoky tykat keerep boroja taso
+
+CP
+
+ei
+
+C' ei
+
+C
+
+IP
+
+ru
+
+tu
+
+Iºi
+
+C AdvP IP
+
+ty
+
+g4
+
+g
+
+Vºv
+
+Iº na- keerep I'
+
+g
+
+g
+
+ru
+
+-oky tykat
+
+VP
+
+Iº
+
+ty
+
+g
+
+V'
+
+NP
+
+ti
+
+ty 4
+
+NP Vº taso
+
+4
+
+g
+
+boroja tv
+
+7 No CP o advérbio pode se adjungir à esquerda (25) ou direita (26), enquanto que nas outras projeções máximas ele só pode se adjungir a esquerda (cf. Storto 1999).
+12
+
+19. Keerep naoky tykat boroja taso
+
+CP
+
+ri
+
+AdvP
+
+CP
+
+4 ei
+
+keerep
+
+C' ei
+
+C
+
+IP
+
+ru
+
+g
+
+Iºi
+
+C
+
+I'
+
+ty
+
+g ru
+
+Vºv
+
+Iº na- VP
+
+Iº
+
+g
+
+g
+
+ty
+
+g
+
+-oky tykat V' NP
+
+ti
+
+ty 4
+
+NP
+
+Vº taso
+
+4
+
+g
+
+boroja tv
+
+13
+
+20. Naoky tykat boroja taso keerep
+
+CP
+
+ri
+
+CP ei
+
+AdvP 4
+
+C' keerep ei
+
+C
+
+IP
+
+ru
+
+g
+
+Iºi
+
+C
+
+I'
+
+ty
+
+g ru
+
+Vºv
+
+Iº na- VP
+
+Iº
+
+g
+
+g
+
+ty
+
+g
+
+-oky tykat V' NP
+
+ti
+
+ty 4
+
+NP
+
+Vº taso
+
+4
+
+g
+
+boroja tv
+
+14
+
+21. Taso naoky tykat boroja keerep.
+
+CP
+
+ri
+
+CP
+
+AdvP
+
+ei 5
+
+NPs
+
+C' keerep
+
+4 ei
+
+Taso C
+
+IP
+
+ru
+
+g
+
+Iºi
+
+C
+
+I'
+
+ty
+
+g ru
+
+Vºv
+
+Iº na- VP
+
+Iº
+
+g
+
+g
+
+ty
+
+g
+
+-oky tykat V' NP
+
+ti
+
+ty g
+
+NP
+
+Vº ts
+
+4
+
+g
+
+boroja tv
+
+Como podemos observar nos dados acima, da estrutura (18) à (21), o auxiliar imperfectivo tykat não ocupa uma posição dentro do IP. Para Storto (1999) quando o verbo passa por IP, ele forma um núcleo complexo com o item gerado em Iº (estrutura (22a), abaixo), e é todo esse núcleo complexo que se move para o núcleo de CP (estrutura (22b), abaixo). Assim, nenhum item aparece entre o verbo e o auxiliar:
+
+15
+
+22.
+
+a.
+
+IP
+
+g
+
+I'
+
+ry
+
+VP
+
+I
+
+ty fh
+
+V' SUJ Vv I
+
+ty
+
+O
+
+tV
+
+b. CP
+
+ti
+
+SPEC
+
+C'
+
+ti
+
+C
+
+IP
+
+ty
+
+g
+
+Iw
+
+I'
+
+ty
+
+ty
+
+V
+
+I
+
+VP I
+
+g
+
+tw
+
+Logo, sentenças como (23) e (24) abaixo são agramaticais pois o advérbio não pode estar entre o verbo principal e o auxiliar, pois eles formam um único constituinte: 23. *Taso naoky keerep tykat boroja 24. *Naoky keerep tykat taso boroja
+
+Além da restrição apontada acima, Storto (1999) aponta mais uma posição não permitida para advérbios, que é entre o sujeito movido para a primeira posição da sentença e o verbo. A autora justifica a agramaticalidade de sentenças deste tipo, exemplos (25) e (26) abaixo, como uma violação da relação estrutural mantida entre o sujeito e o verbo (ambos movidos) que ao ocupar a posição de especificador do CP e núcleo do CP, respectivamente, estão na chamada configuração spec-head, apontada na estrutura (27). 25. *Taso kandat naokyt boroja 26. *Taso keerep naoky tykat boroja.
+
+16
+
+27. Configuração spec-head:
+
+CP
+
+ri
+
+SPEC
+
+C'
+
+ei
+
+Cº
+
+IP
+
+HEAD
+
+Nesta relação spec-head, como podemos observar acima, temos uma projeção intermediária (C') e esta não sendo uma projeção máxima não está apta a adjunções.
+Assim, como outros quantificadores kandat 'muito' e keerep 'sempre' aparecem nas mesmas posições que os advérbios e são aptos a selecionar o argumento evento da sentença8 podemos chamá-los de Quantificadores-A (cf. proposto em Partee et al.,1987).
+Embora exista esta possibilidade de variação na posição do advérbio, SanchezMendes (2008) aponta que estes itens, independente do local onde estão alocados no interior da sentença, atuam sempre sobre o verbo, quantificando sobre eventos de forma não redundante com os marcadores pluracionais.
+Assim, sentenças com kandat, por exemplo, a autora conclui que a referência a muitas entidades é sempre uma possibilidade enquanto que a leitura de muitos eventos é uma obrigatoriedade, vejamos o seguinte exemplo e os contextos apropriados para o seu uso em (28) abaixo:
+
+8 Sanchez-Mendes(2008) aponta que os quantificadores Adverbiais em Karitiana sempre operam sobre o argumento evento da sentença, e em alguns casos de leitura em que os argumentos parecem estar quantificados são na verdade frutos indiretos da quantificação do evento verbal, a qual ao imprimir na sentença uma iteratividade ou pluralidade permite leituras plurais dos nominais.
+17
+
+28. Sojxaaty kyynt nakapon taso kandat.
+
+Sojxaaty queixada
+
+kyynt em
+
+ø-naka-pon-ø
+
+taso
+
+DECL-atirar-NFUT homem
+
+kandat muito
+
+‘Um número indefinido de homens atirou em um numero indefinido de
+
+queixadas muitas vezes’
+
+(Sanchez-Mendes, 2008)
+
+Contextos apropriados:
+
+‘Os homens atiraram nas queixadas muitas vezes’
+
+‘Muitos homens atiraram nas queixadas muitas vezes’
+
+‘Os homens atiraram em muitas queixadas muitas vezes’
+
+‘Muitos homens atiraram em muitas queixadas muitas vezes’
+
+Porém, como apontado, contextos nos quais os argumentos seriam quantificados
+
+enquanto que o evento denotado pelo verbo não, o uso da sentença (28) não é possível:
+
+Contextos inapropriados:
+
+*‘Muitos homens atiraram uma vez nas queixadas’
+
+*‘Os homens atiraram uma vez em muitas queixadas’
+
+*‘Muitos homens atiraram uma vez em muitas queixadas’
+
+(Sanchez-Mendes, 2008)
+
+Já o suposto quantificador akatyym 'todos' não possue este leque de possibilidades,
+
+tanto de posições quanto de leituras, tal como observamos nos exemplos abaixo (29-33):
+
+29. Taso akatyym nasoko'it eremby
+
+taso
+
+akatyym ø-na-soko'i-t
+
+eremby
+
+homem todos
+
+3-decl-amarrar-nfut rede
+
+'Todos os homens amarraram a rede' '*Os homens amarraram todas as redes'
+'*Todos os homens amarraram todas as redes.'
+
+18
+
+30. Taso nasoko'it eremby akatyym
+
+taso
+
+ø-na-soko'i-t
+
+eremby akatyym
+
+homem 3-decl-amarrar-nfut rede
+
+todos
+
+'Os homens amarraram toda(s) a(s) rede(s)' '*Todos os homens amarraram as redes' '*Todos os homens amarraram todas as redes'.
+
+No exemplo (29), a única leitura possível é 'todos os homens amarraram as redes',
+
+pois o akatyym só pode quantificar o nominal imediatamente á sua esquerda taso 'homem',
+
+da mesma maneira que em (30), o akatyym só pode quantificar o nominal imediato a sua
+
+esqueda eremby 'rede', e assim o leque de leituras atestado com os quantificadores keerep e
+
+kandat não são possíveis. É importante lembrar que o exemplo (29) também nos traz uma
+
+evidência de antemão: akatyym não pode pertencer ao mesmo grupo que kandat e keerep,
+
+simplesmente porque ele pode ocupar uma posição proibida para advérbios (de (25) à
+
+(27)): entre o sujeito e o verbo movidos para o início da sentença.
+
+Agora vamos observar outras ordens e combinações em sentenças com akatyym.
+
+31. *Akatyym nasoko'it eremby
+
+akatyym todos
+
+ø-na-soko'i-t
+
+eremby
+
+3-decl-amarrar-nfut rede
+
+'Todos amarraram a rede'
+
+32. *Akatyym taso nasoko'it eremby
+
+akatyym taso
+
+ø-na-soko'i-t
+
+eremby
+
+todos
+
+homem 3-decl-amarrar-nfut rede
+
+'Todos os homens amarraram a rede'
+
+33. *Taso nasoko'it akatyym eremby
+
+taso
+
+ø-na-soko'i-t
+
+akatyym eremby
+
+homem 3-decl-amarrar-nfut todos
+
+rede
+
+'Todos os homens amarraram a rede'
+
+19
+
+No exemplo (31), akatyym aparece em uma posição argumental típica de sujeito sem o NP sobre o qual poderia/deveria incidir. A agramaticalidade deste sentença nos aponta as seguintes informações: akatyym não pertence à categoria dos nominais e não pode ocupar uma posição de argumento quando está sem um nominal.
+Já em (32) e (33) ao tentarmos outras possíveis possições para akatyym na sentença o que resulta são sentenças agramaticais. No exemplo (32), mesmo existindo os dois nominais, taso 'homem' e eremby 'rede' nas posições argumentais, a sentença continua agramatical, reforçando a idéia de que akatyym possui uma forte restrição na sua posição dentro da sentença – isto é, ele só deve ocorrer em uma posição item quantificado. E por fim, no exemplo (33), a sentença sendo agramatical estando akatyym à direita de um verbo e, sabendo que akatyym só pode operar sobre o constituinte imediatamente à sua esquerda” concluimos que não apenas ele possui restrição quanto à sua posição, mas também quanto o tipo de item sobre o qual ele pode operar. Concluímos que esse item não forma constituinte com categorias não-nominais, pois como observado nos exemplos gramaticais em (29) e (30) akatyym só pode selecionar nominais.
+Assim, como demonstrado acima, akatyym 'todos' tem algumas restrições que se mostram interligadas: akatyym só pode operar sobre o constituinte que aparece imediatamente à sua esquerda e esse constituinte tem que ser do tipo [+nominal]; o uso deste item lexical fora destas condições só se realiza em alguns casos bens restritos, que são tratados mais adiante na seção 1.8, os quais aparentam apresentar movimento de partes dos constituintes formados com akatyym.
+1.5 A distribuição dos quantificadores em Karitiana O exemplo (29) também pode nos dar uma pista sobre a natureza de akatyym, pois
+levando em conta o movimento de nominais para a primeira posição da sentença (sentença 20
+
+e estrutura no exemplo (21)) e a restrição de adjunção entre o sujeito em spec de CP e o verbo movido para o núcleo de CP (exmplos (25) e (26)) podemos imaginar duas possibilidades: que taso+akatyym formam um único constituinte nesta posição, estrutura. (34.a), ou ocupa uma outra posição argumental na sentença [nota] (34.b), vejamos:
+
+34. Taso akatyym nasoko'it eremby
+
+a.
+
+CP
+
+ei
+
+XPs 6
+
+C' ru
+
+taso akatyym CP
+
+IP
+
+6
+
+g
+
+nasoko'it
+
+I'
+
+ei
+
+VP
+
+I
+
+ei
+
+g
+
+V' ru
+
+XP tv g
+
+NP
+
+Vº
+
+ts
+
+4
+
+g
+
+eremby
+
+tv
+
+21
+
+.b
+
+XP
+
+ei
+
+XPs 6
+
+CP ti
+
+taso akatyym
+
+C' ru
+
+CP
+
+IP
+
+6g
+
+nasoko'it
+
+I'
+
+ei
+
+VP
+
+I
+
+ei
+
+g
+
+V' ru
+
+XP tv g
+
+NP
+
+Vº
+
+ts
+
+4
+
+g
+
+eremby
+
+tv
+
+Conforme observado até o momento (exemplos (29) e (30)), akatyym só pode ser pós-nominal e sua operação quantificacional só tem escopo sobre o nominal localizado imediatamente à sua esquerda9:
+
+35. taso
+
+akatyym
+
+homem 'todas' cf. ex. (29)
+
+36. eremby akatyym
+
+rede
+
+'todas' cf. ex. (30)
+
+Tal comportamento sugere a seguinte estrutura para este suposto quantificador:
+9 Outras possibilidade do suposto quantificador akatyym serão analisadas na próxima seção.
+22
+
+37. NP + akatyym
+Ou melhor:
+38. [XP [NP N] X]
+Como podemos perceber, akatyym não possui as características dos quantificadores em Karitiana, os quais são estritamente adverbiais na maneira em que se adjungem sintaticamente. Isto sugere, portanto, que existam duas classes de 'quantificadores' em Karitiana os adverbiais de um lado e o akatyym do outro.
+1.6 Akatyym versus kandat e keerep Como foi colocado na seção 1.2.1, até o final dos anos 80, os estudos lingüísticos –
+baseados na tradição filosófica – direcionavam suas pesquisas sobre quantificação nos itens que atuavam principalmente sobre entidades, ou seja nominais. Porém, a partir de Lewis (1975) outros tipos de quantificadores passaram a ser – de pouco em pouco – contemplados pelos estudos lingüísticos e filosóficos. Assim, itens como: advérbios, afixos verbais, verbos auxiliares e estruturas compostas (entre outros itens) passaram a ser contemplados pelos trabalhos sobre quantificação10.
+Bach . (1995) colocam que palavras e expressões podem ter funções quantificacionais bem próximas, porém ter um comportamento diferente em relação a:
+(v) o tipo de constituinte que podem (ou devem) operar
+10 Podemos tomar como referência dessa preocupação que visa uniformizar a descrição e análise de palavras e expressões que exercem ou possuem operação de natureza quantificacional os trabalhos que resultaram no livro 'Quantification in Natural Languages'. Ao observarmos a literatura acerca da quantificação nas línguas naturais, podemos perceber que o objeto de estudo dos semanticistas e lógicos formais foi reformulado, e a partir da década de 90, praticamente todos os trabalhos de grande impacto acerca da quantificação passaram a (re)considerar outras formas de quantificar em seus trabalhos, além das bem-estudas pelas tradição (sabidamente a quantificação sobre nominais).
+23
+
+(vi) o comportamento sintático (vii) o escopo (viii) a seleção ou não de um determinado constituinte.
+Ao observar as descrições e (pré)análises realizadas até o momento acerca dos quantificadores kandat 'muito' e keerep 'sempre' e de akatyym 'todos', podemos sumarizar: Kandat 'muito':
+i. segundo Mendes-Sanchez (2008) quantifica sempre sobre eventos verbais; ii. Pode se adjungir a VP, IP e CP; iii. independentemente de onde se adjunge, sempre tem escopo sobre a sentença e iv. não seleciona nominais. Keerep 'sempre': i. segundo Mendes-Sanchez (2008) quantifica sempre sobre eventos verbais; ii. Pode se adjungir a VP, IP e CP; iii. independentemente de onde se adjunge, sempre tem escopo sobre a sentença e iv. não seleciona nominais. Akatyym: i. apenas opera com nominais ii. sempre acompanha um nominal em posição argumental; iii. tem escopo local e iv. pode selecionar qualquer nominal em posição argumental.
+Tal Tratamento de akatyym até o momento (traduzido até então por 'todo(s)'), analisado frente à proposta de Bach et al. (1995), que dicotomiza os quantificadores entre os adverbiais e os determinantes, sugere que esse item seja um quantificador-D. Porém, como veremos a seguir uma outra hipótese se mostra mais promissora.
+24
+
+Müller, Storto e Coutinho-Silva (2006a,b) propõem que akatyym na verdade não é um quantificador, mas uma expressão formada por um argumento, um verbo e uma partícula subordinadora: 39. ARG aka-tyym
+ARG aux-sub
+Como desenvolvimento dessa proposta, Coutinho-Silva (2006) apresenta paralelos com outras estruturas, trazendo exemplos da língua Karitiana – a fim de checar a possibilidade de se tratar akatyym como algo composto (um sentença, por exemplo).
+Para discutir esta possível hipótese de tratar akatyym como uma sentença, iremos inicialmente, apresentar os diversos usos das pretenças partes de akatyym: o verbo aka(ser/ estar) e em seguida, o item tyym é observado na língua em diversos casos: com função de 'também', como 'subordinador ('então', 'quando' e 'se')' e em um caso especial que combinado com outra partícula, pode ser traduzido como '(o) mesmo'.
+1.7 Uma morfossintaxe para akatyym Como já apontado, Müller, Storto e Coutinho-Silva (2006a,b) propõem que
+akatyym na verdade não é um quantificador, mas uma expressão formada por um argumento, um verbo e uma partícula subordinadora (exemplo (39) repetido abaixo como (40)): 40. ARG aka-tyym
+ARG aux-sub
+As próximas seções avaliam os usos encontrados na língua para os itens que participam na construção morfossintática proposta em (40).
+25
+
+1.7.1 Aka – verbo? Como podemos observar nos exemplos a seguir, aka é um auxiliar utilizado como
+cópula (exemplos de (41) até (43)), ou como auxiliar junto a sentenças finitas – e, no caso, é ele quem recebe as flexões de tempo e concordância (exemplos (44), (45) e (46)). Aka como cópula:
+
+41. Inácio na-aka-t y-sat
+
+Inácio ø-na-aka-t
+
+y-sa-t
+
+I.
+
+3-decl-aux-nfut 1s-nome.conc.abs
+
+'Meu nome é Inácio' (Storto, dic.)
+
+42. Õwã naakat ipyhiridnat.
+
+õwã
+
+ø-na-aka-t
+
+i-pyhiridna-t
+
+menino 3-decl-aux-nfut part-rápido-conc.abs
+
+'O menino é rápido'
+
+43. João naakat sara'idnat
+
+João ø-na-aka-t
+
+sara'idna-t
+
+J.
+
+3-decl-aux-nfut Cansado-conc.abs
+
+'O João está cansado'
+
+'Aka' Como auxiliar:
+
+44. ‘ejepo (naakat)
+
+i’ot
+
+‘ejepo (ø-na-aka-t) i-’o-t pedra 3-decl-aux-nfut part-cair-conc.abs
+(A) pedra caiu.
+
+45. João (naakat) ipon sojxaaty kyn
+
+J. (ø-na-aka-t) i-pon-ø
+
+sojxaaty kyn
+
+J. 3-decl-aux-nfut part-atirar-conc.abs queixada posp
+
+João atirou na queixada.
+
+26
+
+Até mesmo em sentença em que o aka seria uma cópula, ele pode aparecer como
+
+verbo auxiliar:
+
+46. [Y'it 'ipi'y] naakat tyy iakat
+
+y’it ‘ip<i>’y
+
+na-aka-t
+
+tyy i-aka-t
+
+1-filho peixe-VH-comer decl-aux-nfut alto part-ser-nfut
+
+'(Aquele) meu filho que comeu o peixe é alto'
+
+Além disso, aka é encontrado na estruturas demonstrativas (47-49) (as quais serão
+tratadas no Capítulo 2 adiante):
+47. Dibm nakatari [ony taso aka] dibm ø-naka-tat-i ony taso aka amanhã 3-decl-ir-fut aquele homem ? ‘Aquele homem irá amanhã’
+
+48. [Ony sojxaaty aka] kyn nakapon João
+
+ony sojxaaty aka kyn ø-naka-pon-ø
+
+João
+
+aquele porco ? em 3-decl-atirar-nfut João
+
+‘João atirou naqueles porcos (visível)’
+
+49. [Ma sojxaaty aka] kyn nakapon João
+
+ma
+
+sojxaaty aka kyn ø-naka-pon-ø
+
+João
+
+aquele porco ? em 3-decl-atirar-nfut João
+
+‘João atirou naqueles porcos (em movimento)'
+
+Como observados nos exemplos (41-46) aka é um verbo. O que corrobora essa afirmação é a presença de morfologia de tempo e concordância junto a este item. Storto (2008) descreve estas construções onde a cópula aka seleciona um complemento oracional na forma de uma mini-oração que tem como núcleo um nome, um adjetivo nominalizado ou um verbo intransitivo nominalizado, exemplos do (36) ao (39). Desta maneira, o núcleo nominal, adjetival ou verbal da mini-oração é o predicador, aquele que seleciona
+
+27
+
+semanticamente o argumento que se torna sujeito da oração. A nominalização se dá via adição do prefixo i-, glosado como particípio por Storto (1999). A minioração nominalizada é marcada pelo sufixo -t/-o que a autora descreve como concordância absolutiva. Ela chama estas construções de sentenças copulares.
+As únicas funções deste item (aka) listadas fora destes contextos em que ele aparece certamente como um verbo são nas estruturas dos demonstrativos, exemplos de (47) até (49) e nas 'construções quantificacionais' (akatyym).
+Levando em conta o comportamento do aka nos exemplos até agora apontados (exemplos (31) até (49)), duas possibilidades parecem plausíveis: a do 'aka ser um verbo em todos os contextos em que aparece, ou talvez, ser um verbo em apenas alguns contextos, e tendo em vista os exemplos de demonstrativos, o aka poderia também ser um Determinante (cf. Storto (1999)) – o que no caso apontaria a existência de dois itens aka homofônicos, mas com funções diferentes (essa última possibilidade será descartada ao tratarmos da estrutura dos demonstrativos mais adiante no capítulo 2).
+1.7.2 Tyym – partícula subordinadora Já o item 'tyym' parece possuir diversas funções, as quais aparentam ser subdivisões
+de dois grandes grupos: por um lado, opera anexado aos verbos, com função de conectivo entre sentenças, adicionando a estes muitas vezes, informações aspectuais e temporais; por outro, aparece ligado aos argumentos nominais atribuindo a eles a noção de inclusão ou identidade.
+Como conectivo sentencial, podemos observar os seguintes exemplos:
+28
+
+50. Yn nasoko'i tyym ataotam
+
+yn ø-na-soko'i
+
+tyym
+
+1s 3-decl-amarrar conec.imp
+
+'Eu estou amarrando e você chega'
+
+a-ta-otam-ø 2s-decl-chegar-nfut
+
+51. [A-yry tyym] yjxa naokyj
+
+[a-yry tyym] yjxa
+
+ø-na-oky-j
+
+2-chegar conec. 1pp.incl 3-decl-matar-fut
+
+'Quando você chegar, nós vamos matar'
+
+52. [A-otam tyym] ytajy{ t boryt yta
+
+[a-otam tyym] yta-jy{ -t
+
+boryt
+
+2-chegar conec. 1pp.incl-?-? sair
+
+'Se você chegasse, nós sairíamos'
+
+yta 1pp.inc
+
+Em todos os casos, como podemos observar, tyym aparece junto ao verbo da sentença subordinada. Como aponta Storto (1999), sentenças subordinadas em Karitiana não possuem flexão de tempo. A única projeção possível, acima de VP, nestas sentenças é AspP; e o tempo da sentença subordinada está vinculado [indiretamente ao da sentença principal] via conectivo – que relaciona aspectualmente os eventos expressados nas duas sentenças. Tyym provavelmente é um destes conectivos e ocupa o núcleo de AspP.
+
+Na sentença abaixo, exemplo (53), podemos observar uma ocorrência curiosa de
+
+tyym. Ele ocorre numa sentença onde já existe um subordinador:
+
+53. Aki tykiri naka'at bypitap tyym
+
+a-ki
+
+tykiri ø-naka-'a-t
+
+bypit-a-p
+
+tyym
+
+isto-existir (assim) se
+
+3-decl-fazer-nfut longe-vblz-nmlzr então
+
+'Se a gente não faz assim, então vai ter mais morte' (Storto, ms)
+
+Nesse caso, tyym parece se articular com o subodinador 'tykiri' afim de gerar uma leitura específica de implicação lógica. Também, podemos observar ocorrências de tyym
+
+29
+
+como:
+'também': 54. Ahorot tyym tepy
+ahorot tyym tepy assim também cipó 'Assim também (é) o cipó'
+
+55. Opok pojo{ ngo naakat ikit tyym
+
+opok pojo{ ngo ø-na-aka-t
+
+i-ki-t
+
+tyym
+
+branco
+
+3-decl-aux-nfut part-existir-conc.abs também
+
+'Os brancos (= estrangeiros) também são gente'
+
+(Storto, dic)
+
+56. Paserety tyym naka-'y-t epesap
+
+pase)re)ty tyym
+
+ø-naka-'y-t
+
+epesap
+
+gafanhoto também 3-decl-comer-nfut folha
+
+'O gafanhoto também come as folhas'
+
+(Storto, dic)
+
+E como 'mesmo':
+
+57. Tarak tarak ka-horot tatyym naakat oot 'oot
+
+tarak tarak
+
+ka-horot ta-tyym
+
+ø-na-aka-t
+
+oot 'oot
+
+martin pescador este-como 3anaf-também 3-decl-aux-nfut Socor
+
+'O martin pescador é o mesmo (pássaro) que o socor'
+
+(Storto, dic)
+
+Este parelelo entre aka e tyym em outros contextos parece fortalecer os indícios iniciais de Müller, Storto e Coutinho-Silva (2006a,b) de que akatyym de fato não seja um canônico quantificador-D e sim um constituinte sentencial.
+Ao tratarmos akatyym como uma estrutura complexa algumas questões aparecem como:
+(i) qual o tipo de sentença é 'NP+akatyym'? (ii) como a relação se dá estruturalmente entre o nominal e a 'sentença' akatyym a fim
+do resultado ser algo de natureza argumental?
+
+30
+
+(iii) como essa sentença gera uma leitura similar a quantificação Universal? As próximas sessões têm como objetivo, desenvolver uma análise para akatyym a
+fim de responder as três perguntas acima. Nossa hipótese inicial é de que este item seja um sentença relativa (um tipo específico de subordinação) que pode gerar uma leitura semântica idêntica a de um quantificador Universal.
+
+1.8 Outras possibilidades do uso do akatyym 'todos'
+
+Além dos exemplos gramaticais envolvendo o suposto quantificador akatyym
+
+apontados nos exemplos (29) e (30), repetidos abaixo como (58) e (59) – os quais
+
+chamaremos de posições default argumentais –, também podemos encontrar em Karitiana
+
+outras estruturas envolvendo o item lexical akatyym, as quais chamarei de movimento do
+
+constituinte completo, exemplos (60) e (61) e movimento de parte do constituinte,
+
+exemplos (62) e (63):
+
+a) argumentos quantificados em posição default:
+
+58. Nasoko'it eremby taso akatyym
+
+ø-na-soko'i-t
+
+eremby taso
+
+akatyym
+
+3-decl-amarrar-nfut rede
+
+homem todos
+
+'Todos os homens amarraram a rede'
+
+59. Nasoko'it eremby akatyym taso
+
+ø-na-soko'i-t
+
+eremby akatyym taso
+
+3-decl-amarrar-nfut rede
+
+todos
+
+homem
+
+'Os homens amarraram toda(s) a(s) rede(s)'
+
+b) Movimento do constituinte completo:
+
+60. Taso akatyym nasoko'it) eremby
+
+taso
+
+akatyym ø-na-soko'i-t
+
+homem todos
+
+3-decl-amarrar-nfut
+
+'Todos os homens amarraram a rede'
+
+eremby rede
+
+31
+
+61. Eremby akatyym nasoko'it taso
+
+eremby akatyym ø-na-soko'i-t
+
+taso
+
+rede
+
+todos
+
+3-decl-amarrar-nfut homem
+
+'Os homens amarraram toda(s) a(s) rede(s)'
+
+c) Movimento de parte do constituinte:
+
+62. Taakatyym nasoko'it eremby taso
+
+ta1-akatyym ø-na-soko'i-t
+
+eremby
+
+eles-todos 3-decl-amarrar-nfut rede
+
+'Todos os homens amarraram a rede'
+
+taso1 homem
+
+63. Iakatyym nasokoo 'it eremby taso
+
+i2-akatyym ø-na-soko'i-t
+
+eremby2 taso
+
+elas-todas11 3-decl-amarrar-nfut rede
+
+homem
+
+'Os homens amarraram toda(s) a(s) rede(s)'
+
+Em (60) e (61), podemos observar que os constituintes completos taso akatyym
+
+'todos os homens' e eremby akatyym 'toda(s) (a) rede(s)', respectivamente, se moveram para
+
+a primeira posição da sentença. Estes exemplos de akatyym 'todo' parecem corroborar a
+
+idéia de que esse suposto quantificador só seleciona argumentos nominais, o que poderia
+
+sugerir sua classificação como quantificador-D (cf. Partee . 1987), diferente dos
+
+quantificadores como keerep 'sempre' e kandat 'muito'. Além disso, o nominal movido foi
+
+justamente aquele que está sofrendo o efeito quantificacional de akatyym. Desta maneira,
+
+podemos imaginar o seguinte movimento do constituinte NP+akatyym (cf. as estruturas
+
+em (34a) e (34b), página 19:
+
+60'. [Taso akatyym]3 nasoko'it eremby t3
+
+taso
+
+akatyym ø-na-soko'i-t
+
+eremby ø
+
+homem todos
+
+3-decl-amarrar-nfut rede
+
+tr.
+
+'Todos os homens amarraram a rede'
+
+11 Em Karitiana não há concordância de gênero, e esse recurso foi utilizado na glossa como meio de reforçar a ligação entre o argumento interno do verbo (eremby 'rede') e o iakatyym. Essa ligação é estabelecida pela forma 'i' que possui direcionamento para o anti-sujeito, como será esmiuçado mais adiante.
+32
+
+61'. [Eremby akatyym]4 nasoko'it t4 taso
+
+eremby akatyym ø-na-soko'i-t
+
+ø taso
+
+rede
+
+todos
+
+3-decl-amarrar-nfut tr. homem
+
+'Os homens amarraram toda(s) a(s) rede(s)'
+
+Como já vimos anteriormente, Karitiana é uma língua cujos nominais podem permanecer na posição onde supostamente foram gerados na estrutura profunda e nominais em relação de concordância com o verbo movido podem ocupar a primeira posição da sentença, supostamente no spec de CP – fato corroborado pela possibilidade de adjunção a uma posição mais a esquerda (adjunção a projeção máxima CP) e de proibição de adjunção entre este nominal movido para a primeira posição e o verbo no núcleo de C – devido a relação espec-head. Porém, o movimento que observamos em (60') e (61') não pode ser da mesma natureza dos outros sujeitos movidos para a primeira posição da sentença, pois como podemos observar, enquanto em (58') o que foi movido (taso akatyym) necessariamente tem que ser o sujeito da sentença e, já em (59') o que foi movido (eremby akatyym) necessariamente tem que ser o objeto da sentença. Logo, NP+akatyym quando movido para a primeira posição (na estrutural superficial) da sentença ocupa alguma posição estruturalmente acima do CP (cf. estrutura (b), exemplo 34, página 19), e o movimento para esta posição pode ser resultado de um movimento aberto para um posição de checagem em forma lógica.
+Já em (62) e (63) akatyym aparece na primeira posição sentencial separado dos nomes que quantifica, enquanto esses permanecem in situ. A relação de akatyym com taso 'homem' e eremby 'rede' é estabelecida através das partículas ta- e i-, respectivamente. Dada a possibilidade de movimento de uma única parte destes constituintes (NP+akatyym), podemos concluir que estas sentenças possuem o seguinte movimento , exemplo (62') e (63'):
+
+33
+
+62'. [Taakatyym]6 nasoko'it eremby [taso t6 ]
+
+ta1-akatyym ø-na-soko'i-t
+
+eremby taso1
+
+eles-todos 3-decl-amarrar-nfut rede
+
+homem
+
+'Todos os homens amarraram a rede'
+
+63'. [Iakatyym]7 nasoko'it [eremby t7 ] taso
+
+i2-akatyym ø-na-soko'i-t
+
+eremby2 taso
+
+elas-todas12 3-decl-amarrar-nfut rede
+
+homem
+
+'Os homens amarraram toda(s) a(s) rede(s)'
+
+1.9 Que tipo de sentença é NP+akatyym? Chierchia (2000) aponta que uma oração relativa mais o núcleo nominal constituem
+um sintagma nominal e podem por isso ocorrer nas posições canônicas em que são possíveis as ocorrências de sintagmas nominais. Ao observarmos os exemplos apresentados até o momento (em especial os exemplos (53-56), logo acima) parece não haver dúvida de que akatyym seleciona um argumento nominal e com ele forma um constituinte único, o qual também parece ser nominal. Quantos aos exemplos (57) e (58), acreditamos que podem ser analisados da mesma forma, adicionando alguns detalhes previstos nas teorias correntes acerca de sentenças relativas.
+Para (62) e (63) que chamamos de 'movimento de parte do constituinte', podemos observar os seguintes fatos: os argumentos verbais estão preenchidos em suas posições default e taakatyym e iakatyym não podem ser meros adjuntos sentenciais ou nominais. Se eles fossem adjuntos sentenciais, poderiam se adjungir a qualquer projeção máxima gerada em sentenças temporais (no caso, VP, IP e CP), como outros adjuntos e advérbios, por exemplo kandat (4-6) e keerep (10-13), o que não acontece, como aponta os exemplos (64) e (65) abaixo. Se fossem adjuntos nominais, não permitiriam a extração da relativa como
+12 Em Karitiana não há concordância de gênero, e esse recurso foi utilizado na glossa como meio de reforçar a ligação entre o argumento interno do verbo (eremby 'rede') e o iakatyym. Essa ligação é estabelecida pela forma 'i' que possui direcionamento para o anti-sujeito, como será esmiuçado mais adiante.
+34
+
+será apontado a seguir.
+
+64. *Nasoko'it taakatyym eremby taso
+
+ø-na-soko'i-t
+
+ta1-akatyym eremby taso1
+
+3-decl-amarrar-nfut todos-eles rede
+
+homem
+
+'Todos os homens amarraram a rede'
+
+65. *Nasoko'it iakatyym eremby taso
+
+ø-na-soko'i-t
+
+i2-akatyym eremby2 taso
+
+3-decl-amarrar-nfut elas-todas13 rede
+
+homem
+
+'Os homens amarraram toda(s) a(s) rede(s)'
+
+Além dos casos em que parte do constituinte (taakatyym ou iakatyym) são movidos
+
+para a primeira posição da sentença (62) e (63), também podemos obvervar apenas mais
+
+uma posição que estes itens podem ocupar (estando com ta- e -i) que é a sua posição
+
+default, estando o complexo nominal todo in situ, exemplos de (66) à (68):
+
+66. Nasoko'it eremby taso taakatyym
+
+ø-na-soko'i-t
+
+eremb2 taso1
+
+ta1-akatyym
+
+3-decl-amarrar-nfut rede
+
+homem todos-eles
+
+'Todos os homens amarraram a rede'
+
+67. Nasoko'it taso eremby iaakatyym
+
+ø-na-soko'i-t
+
+taso1
+
+eremby2 i2-akatyym
+
+3-decl-amarrar-nfut homem rede
+
+elas-todas
+
+'Os homens amarraram toda(s) a(s) rede(s)'
+
+68. ?Nasoko'it eremby iaakatyym taso
+
+ø-na-soko'i-t
+
+eremby2 i2-akatyym taso1
+
+3-decl-amarrar-nfut rede
+
+elas-todas homem
+
+'Os homens amarraram toda(s) a(s) rede(s)'
+
+13 Em Karitiana não há concordância de gênero, e esse recurso foi utilizado na glossa como meio de reforçar a ligação entre o argumento interno do verbo (eremby 'rede') e o iakatyym. Essa ligação é estabelecida pela forma 'i' que possui direcionamento para o anti-sujeito, como será esmiuçado mais adiante.
+35
+
+A partir dos últimos exemplos apresentados, proponho a seguir qual seria a estrutura do akatyym no caso em que aparece combinado com um nominal; os casos onde aparece ta+akatyym e i+akatyym, estão representados em (1.9).
+Se akatyym seleciona um argumento nominal e com ele formam um outro elemento nominal, podemos imaginar as seguintes estruturas possíveis: 69. Relativa adjungida ao Nominal:
+
+NP
+
+tu
+
+NP
+
+REL
+
+ru
+
+N'
+
+tu
+
+Nº
+
+70.Relativa Complemento do Nominal:
+
+NP
+
+tu
+
+N'
+
+ru
+
+Nº
+
+REL
+
+Ao avaliarmos os dados apresentados até aqui, a estrutura (70) se apresenta como uma melhor alternativa analítica do que a estrutura (69), pelo fato de que se akatyym fosse uma adjunção ao NP haveria dois grandes problemas acerca da ligação entre o nominal
+
+36
+
+núcleo e os pronominais ligados a ele, pois não haveria condições necessárias de controle
+
+dos sujeitos acessíveis (taso 'homem' no exemplo abaixo) sobre itens i- ou ta- e a
+
+acessibilidade destes ao sujeito estaria comprometida, como vemos abaixo em (71):
+
+71.
+
+NP
+
+tp
+
+NP ru
+
+REL 6
+
+N' i/ta1--akatyym
+
+tu
+
+N°
+
+g
+
+*Taso1
+
+Para a ligação ocorrer com sucesso, nesta relação de co-denotação, o sujeito acessado por i- ou ta- precisa estar ocupando necessariamente uma posição hierárquica superior à do pronominal com o qual co-denota, como veremos a seguir14.
+Antes de avaliar qual estrutura é mais viável no que diz respeito à adequação descritiva e teórica, faremos um breve levantamento sobre o tratamento de sentenças relativas em Karitiana.
+1.10 Relativas em Karitiana Storto (1999) argumenta que há pelo menos dois tipos de sentenças relativas em
+Karitiana: as de núcleo interno (72) e as de núcleo externo (73). A autora argumenta que a existência destes dois tipos de relativas é confirmada pelo seguinte fato: com verbos que marcam seu objeto com a marca de oblíquo, podemos ter a marca tanto no objeto da
+14 Mais adiante no capítulo dois, trataremos em maior detalhe estas questões envolvendo binding theory.
+37
+
+principal (sujeito da relativa) quanto na relativa inteira, que é o caso do núcleo externo (72), ou só na relativa, que é o caso das relativas com núcleo interno (73).
+
+72. Relativa de núcleo interno:
+
+AspP
+
+rp
+
+Sosy (O)
+
+Asp'
+
+tatu
+
+rp
+
+VP
+
+Asp
+
+ri
+
+g
+
+VP
+
+ajxa (S) ti-oky (V)
+
+ei
+
+vocês matar (CFO)
+
+tO
+
+tV
+
+73. Relativa com núcleo externo:
+
+AspP
+
+rp
+
+operador vazio15
+
+Asp'
+
+rp
+
+VP
+
+Asp
+
+ri
+
+g
+
+VP
+
+ajxa (S) ti-'y (V)
+
+ei
+
+você matar (CFO)
+
+tO
+
+tV
+
+15 Para Storto 1999, esse operador tem como função intermediar a relação direta, visivelmente observável entre o NP da sentença matriz e a sentença relativa. Assim, o operador (dentro da relativa) e o NP relativizado (na sentença matriz) possuem o mesmo index.
+38
+
+A estrutura básica das sentenças relativas é exatamente igual àquela apontada como
+
+estrutura sintática para língua Karitiana (exemplo (16) página 10). Porém, como aponta
+
+Storto (1999) as sentenças subordinadas (incluindo as relativas) não recebem marcas de
+
+tempo e concordância, projetando apenas uma categoria funcional: AspP (Aspect Phrase),
+
+local para onde o verbo se move formando um núcleo complexo16. Os exemplos (74) e (75)
+
+são exemplos com movimento do objeto para a periferia esquerda da sentença, e nestes
+
+casos o verbo recebe a marca ti- que aparece apontando a existência de foco no objeto.
+
+74. Ypyso'ooton yn sosy ajxa tiokyty mynda
+
+y-py-so'oot-on
+
+yn [sosy ajxa
+
+1s-assert-??-nfut 1s tatu
+
+2p
+
+'Eu gradualmente vi o tatu que vocês mataram'
+
+'Eu gradualmente vi vocês matarem o tatu'
+
+ti-oky]-ty CFO-matar-obl
+
+mynda lentamente
+
+(Storto, 1999)
+
+75. Ypyryohitin yn 'ipity an ti'yt
+
+Y-pyr-ohit-in
+
+yn
+
+1s-assert-pescar-nfut
+
+1s
+
+'Eu pesquei o peixe para você comer'/
+
+'Eu pesquei o peixe que você comeu'.
+
+'ip-ity
+
+[an
+
+peixe-obl
+
+2
+
+ti-'y]-t CFO-comer-obl
+
+(Storto, 1999)
+
+Tanto em (74) quanto em (75) há uma coisa em comum na análise de Storto, 1999: tanto o que ela chama de relativa de núcleo interno, quanto a relativa de núcleo externo parecem possuir uma mesma estrutura profunda:
+
+16 Como já foi apontato em Storto (1999), Karitiana é uma língua que possui movimento de núcleo a núcleo, e assim formando núcleos complexos entre o 'material' movido e material local do alvo do movimento.
+39
+
+76.
+
+AspP
+
+rp
+
+Asp'
+
+rp
+
+VP
+
+Asp
+
+ri
+
+g
+
+VP ei
+
+ajxa (S) ø vocês
+
+Sosy/Op
+
+oky
+
+Tatu
+
+matar
+
+Tomando como base as estruturas propostas em Storto (1999), exemplos (72) e (73), poderíamos sugerir que 'NP+akatyym' possui a seguinte estrutura Superficial:
+
+77. Taso akatyym 'todo(s) o(s) homen(s)'
+
+AspP
+
+ri
+
+Asp'
+
+ru
+
+VP
+
+Asp
+
+ty ty V' NP Vºi Aspº
+
+g
+
+4g
+
+g
+
+Vº taso aka- -tyym
+
+g ti
+
+Como argumentos a favor desta estrutura podemos ressaltar o fato (de) Karitiana ser uma língua que possui movimento de núcleo a núcleo, assim o elemento movido se
+40
+
+funde à esquerda do elemento da posição alvo, formando assim um núcleo complexo. Esse fenômeno parece ser exatamente o observado no exemplo acima (77), onde o verbo se move para Asp, e lá se adjungindo a tyym – razão pela estamos analisando tyym como o núcleo de uma relativa.
+1.10.1 Background acerca das sentenças relativas As sentenças relativas se manifestam de muitas maneiras. Segundo Downing
+(1978:378 apud de Vries (2002)) uma caracterização sintática universal das sentenças relativas é impossível. Isso apenas pode ser feito em termos semânticos. De acordo com Downing, existe a correfêrencia, entre termos dentro e fora das sentenças relativas, e a asserção - a relativa é uma asserção sobre um NP relativo. Ela aponta uma outra característica mais geral, que seria a modificação, a qual de Vries não utiliza devido seu alto grau de generalidade.
+De Vries acredita que duas propriedades são essenciais das sentenças relativas e elas são tanto semânticas, quanto sintáticas por natureza. Primeiro, a sentença relativa é subordinada, e segundo, a sentença relativa é conectada em torno da sentença por um constituinte pivô.
+O pivô é o constituinte semanticamente compartilhado pela sentença matriz e pela sentença relativa. Essa propriedade definida é mais forte que apenas correferência. Além disso, de Vries (2002) aponta uma terceira propriedade universal das sentenças relativas, que é o fato do papel temático e do sintático que o constituinte pivô exerce na sentença relativa serem, em princípio, independentes dos papéis fora da relativa. 78. The mouse that I caught _ yesterday was angry. (de Vries 2002:15)
+'O rato que eu peguei ontem estava bravo'.
+41
+
+O vazio na relativa representa "mouse" e ambos possuem papéis semânticos e
+
+sintáticos independentes. Ele ainda lembra que as línguas naturais podem restringir o
+
+número de papéis temáticos internos disponíveis ao elemento pivô.
+
+Grosu & Landman (1998) propõem que construções relativas podem ser
+
+organizadas dentro de uma escala que tem como referência a importância que os materiais
+
+internos e externos ao CP possuem na construção da significação da construção como um
+
+todo. A escala proposta por eles tem como extremos estruturas nominais simples de um
+
+lado e CPs simples do outro. Vejamos a representação disto na escala:
+
+Tabela 1
+Simples XPs 1
+
+Tipo externo Apositivas
+2
+
+Restritivas 3
+
+Tipo interno
+
+Maximadoras simples CP
+
+4
+
+5
+
+Grosu & Landman (1998)
+
+Sendo assim, temos em posições argumentais: (i) XPs simples, (ii) XPs com Relativas Apositivas, cujo significado é construído em sua maior parte pelo significado do XPs com pouca participação do significado da Relativa (Apositiva), (iii) XPs com relativas restritivas, cuja contribuição na denotação é simétrica entre o XP e a Relativa envolvida, (iv) Relativas Maximadoras, que não se combinam com o núcleo nominal via intersecção, mas sim recebem desse a informação do 'tipo' (sortal) de entidade com a qual deve operar.
+Um dos primeiros trabalhos a analisar a natureza do aparente 'significado' Universal das Relativas Livres foi o de Jakobson (1995). Ela argumenta que o aparente 'significado' Universal das Relativas Livres vem do fato de que elas denotam uma entidade plural máxima (Maximal plural entity). Sua proposta parte da análise dos elementos relativos (os pronomes relativizadores e as 'lacunas' (gaps), por exemplo) como resultado de movimentos Wh- e algumas operações semânticas ao invés de tratá-los como NPs
+
+42
+
+comuns. Podemos citar como exemplos deste tipo de relativa:
+79. I ate what he cooked. 'Eu comi o que ele cozinhou'.
+80. I'll read whatever he tells me to read. 'Eu irei ler o que ele me falou para ler'.
+81. I'll read whatever book(s) he tells me to read. 'Eu irei ler os livros que ele me falou para ler'.
+Grosu & Landman (1998) seguindo a análise de Bianchi (1995) e Kayne (1994) (entre outros) sugerem a seguinte operação de movimento para explicar as relativas que chamam de Maximadoras: o elemento relativizado é gerado dentro da relativa e é movido para Spec de CP. Desta posição, o núcleo nominal é movido para fora do CP, para uma posição no NP dominante. Assim, na estrutura superficial, o núcleo nominal é fonologicamente realizado enquanto as cópias dentro do CP relativo são fonologicamente apagadas. Grosu & Landman (1998), a partir das propostas de Carlson (1977a, 1977b) e Heim (1987) (apud Grosu & Landman 1998) apontam os seguintes mecanismos para sentenças relativas, exemplo (82), abaixo:
+82. (a) Eu levei os livros que estavam sobre a mesa (b) Eu levei os livros que estavam (d many livros) sobre a mesa. (c) Eu levei os livros (d many livros) that estavam (d many livros) sobre a mesa.
+Para a sentença em (82 (a)) acima, temos (82 (b)) como estrutura inicial; podemos notar que '(d many livros)' foi gerado nesta posição, enquanto que em (82 (c)) temos o que seria o movimento para Spec de CP. E é no alvo deste primeiro movimento – Spec de CP –
+43
+
+que o NP vai sofrer a operação de maximação. Após a operação de maximação o NP 'livros' se moveu para o núcleo de NP, as cópias '(d many livros)' do Spec de CP e da posição inicial são apagadas (deletadas), mantendo-se apenas a cabeça da cadeia dos movimentos.
+A partir destas informações acerca das estruturas relativas, o que podemos falar sobre NP+akatyym?
+
+1.10.2 Estruturas com akatyym Partindo da proposta de Grosu & Landman (1998) utilizando a estrutura de
+NP+akatyym, em (77), podemos sugerir a seguintes estrutura superficial:
+
+83. Taso akatyym 'todos os homens'
+
+NP ty
+
+N' ru
+
+N
+
+AspP (CP)
+
+ty ty
+
+NPs Nº ts Asp'
+
+g
+
+g
+
+ru
+
+taso- -ø VP
+
+Asp
+
+ty ty V' NP Vºi Aspº
+
+g
+
+gg
+
+g
+
+Vº ts aka- -tyym
+
+g ti
+
+44
+
+O que corrobora o movimento do NP para o especificador de AspP e depois
+
+para N° é a existência dos seguintes exemplos:
+
+84. Nasoko'it [ony eremby akatyym] taso
+
+ø-na-soko'i-t
+
+ony
+
+eremby aka-tyym taso
+
+3-decl-amarrar-nfut Adv[PC] rede
+
+aux-sub homem
+
+'Os homens amarraram todas aquelas redes'
+
+85. Nasoko'it [eremby ony akatyym] taso
+
+ø-na-soko'i-t
+
+eremby ony
+
+aka-tyym taso
+
+3-decl-amarrar-nfut rede
+
+Adv[PC] aux-sub homem
+
+'Os homens amarraram todas aquelas redes'
+
+86. Ony taakatyym nasoko'it eremby taso.
+
+ony
+
+ta-aka-tyym ø-na-soko'i-t
+
+eremby taso
+
+Adv[PC] eles1-aux-sub 3-decl-amarrar-nfut rede2 homem1
+
+'Todos aqueles homens amarraram as redes'
+
+87. Ony iakatyym nasoko'it eremby taso.
+
+ony
+
+i-aka-tyym ø-na-soko'i-t
+
+eremby taso
+
+Adv[PC] eles2-aux-sub 3-decl-amarrar-nfut rede2 homem1
+
+'Os homens amarraram todas aquelas redes'
+
+No exemplo (84) e (85) ony aparece adjungido a AspP, e no primeiro caso, temos eremby 'rede' dentro do AspP na sua posição de Spec, já no segundo, temos eremby fora de AspP ocupando uma posição dentro do NP dominante. Vejamos as estruturas:
+
+45
+
+84'. Nasoko'it [ony eremby akatyym] taso
+
+CP
+
+ei
+
+C'
+
+ei
+
+C
+
+IP
+
+ru
+
+g
+
+II ty
+
+C
+
+I'
+
+g ti
+
+VV
+
+I
+
+g
+
+g
+
+na- VP
+
+I
+
+ti g
+
+-soko'i- -t
+
+V'
+
+NP tI
+
+ty
+
+4
+
+NP
+
+V
+
+taso
+
+ty g
+
+N' tV
+
+ri
+
+N
+
+AspP
+
+ty ri
+
+N AdvP
+
+AspP
+
+g4
+
+ru
+
+ø ony NPS
+
+Asp'
+
+5
+
+ty
+
+eremby VP Asp
+
+ty ty
+
+V' NP VV Asp
+
+g
+
+gg
+
+g
+
+V
+
+tS aka- -tyym
+
+g
+
+tV
+
+46
+
+85'.Nasoko'it [eremby ony akatyym] taso
+
+CP
+
+ei
+
+C'
+
+ei
+
+C
+
+IP
+
+ru
+
+g
+
+II ty
+
+C
+
+I'
+
+g ti
+
+VV
+
+I
+
+g
+
+g
+
+na- VP
+
+I
+
+ti g
+
+-soko'i- -t
+
+V'
+
+NP tI
+
+ty
+
+4
+
+NP
+
+V
+
+taso
+
+ty g
+
+N' tV
+
+ri
+
+N
+
+AspP
+
+ty ri
+
+NPS N AdvP
+
+AspP
+
+5 g4
+
+ru
+
+eremby -ø ony NP
+
+Asp'
+
+g
+
+ty
+
+tS
+
+VP Asp
+
+ty ty
+
+V' NP VV Asp
+
+g
+
+gg
+
+g
+
+V
+
+tS aka- -tyym
+
+g
+
+tV
+
+Em (86) e (87) observamos que o Adjunto ony se moveu junto com a parte do constituinte movido, e isso só seria possível sob duas condições: (i) este item ser adjunto a projeção máxima AspP; (ii) o NP gerado dentro da relativa ter executado um movimento extra AspP permanecendo em alguma posição do NP dominante, exatamente como previsto por Grosu & Landman (1998). Vejamos as estruturas abaixo:
+
+47
+
+86'.[Ony taakatyym]Q nasoko'it eremby [taso tQ].
+
+CP
+
+wi
+
+AspPQ
+
+CP
+
+ri
+
+rp
+
+AdvP AspP
+
+C'
+
+4 ry
+
+ei
+
+ony NP Asp'
+
+C
+
+IP
+
+g
+
+5 ru
+
+g
+
+ta akatyym II ty
+
+C
+
+I'
+
+g
+
+to
+
+VV
+
+I
+
+na- VP
+
+I
+
+g
+
+g
+
+ti
+
+g
+
+-soko'i- -t
+
+V'
+
+NP tI
+
+ty ty
+
+NP V
+
+N'
+
+4
+
+g
+
+ty
+
+eremby tV
+
+N AspP
+
+ty 4
+
+NPS N tQ
+
+g
+
+g
+
+taso ø
+
+48
+
+87'.[Ony iakatyym]Q nasoko'it [eremby tQ] taso.
+
+CP
+
+wi
+
+AspPQ
+
+CP
+
+ri
+
+rp
+
+AdvP AspP
+
+C'
+
+4 ry
+
+ei
+
+ony NP Asp'
+
+C
+
+IP
+
+g
+
+5 ru
+
+g
+
+i akatyym II ty
+
+C
+
+I'
+
+g
+
+ti
+
+VV
+
+I
+
+na- VP
+
+I
+
+g
+
+g
+
+ti g
+
+-soko'i- -t
+
+V'
+
+NP tI
+
+ty
+
+4
+
+NP
+
+V taso
+
+ty g
+
+N' tV
+
+ri
+
+N
+
+AspP
+
+ty NPS N 5g eremby ø
+
+5 tQ
+
+Este movimento do elemento pivô para o núcleo do NP dominante não é condição necessária em Karitiana, pois como aponta Storto (1999) esta língua permite que os constituintes permaneçam in situ, independente das relações que os constituintes possuem
+
+49
+
+frente a núcleos e outro elementos da sentença. O único movimento 'necessário' dentro das relativas maximadoras é o movimento para Spec de AspP – local exclusivo, onde acontece a operação de maximação.
+Em consonância com a análise de Grosu & Landman (1998), observamos que a leitura universal nas sentenças com akatyym é o resultado da interpretação (em alguns casos nula fonologicamente) da expressão nominal no Spec de CP, na qual o 'tipo' do nominal é interpretado em relação ao restante da relativa, vejamos o exemplo com eremby 'rede', em (88) abaixo:
+
+88.
+
+NP
+
+ty
+
+N' qu
+
+N
+
+AspP (CP)
+
+ty
+
+tp
+
+NPs Nº
+
+ts
+
+Asp'
+
+5g
+
+6
+
+tu
+
+eremby -ø
+
+MAX(eremby)
+
+VP Asp
+
+ty ty V' NP Vºi Aspº
+
+g
+
+gg
+
+g
+
+Vº
+
+ts aka- -tyym
+
+g ti
+
+Para este tipo de relativa, sempre há este movimento do NP para CP (AspP na nossa proposta), onde ocorre a interpretação maximadora; e se o NP ficasse in situ na sentença
+
+50
+
+relativa, não seria possível essa leitura. Por este motivo, mesmo no exemplo (84) acima, eremby 'rede' provavelmente deve estar ocupando a posição de Spec de AspP.
+A operação de maximação apontada acima dentro da estrutura (88) acontece da seguinte maneira: 89. Max({‹|x|, eremby, x›:eremby(x) e akatyym(x)})
+E assim para eremby akatyym teremos: 90. Eremby aka-tyym
+'as redes que estão'.
+O núcleo complexo AsP (aka+ tyym 'verbo ser+Aspº') se articula com o evento da sentença principal. Asp é o núcleo que vai recortar a denotação do que está sendo predicado como existente (o 'ser', ou o que 'é/são') transformando aquilo denotado pelo NP em algo específico, dentro de um evento 'pontual', definido no tempo e no espaço. Assim, no caso de (88) não se fala de tudo o que é rede, mas tudo o que é rede dentro de limites espaço-temporais.
+Assim, em (88) o evento (e) – evento definido pela sentença matriz – existe uma entidade 'x' tal que 'x' é eremby 'rede' em (e) e apenas estas redes deste evento (e) são relevantes na construção da informação do sentença matriz. E esta entidade (rede(s) no caso) 'x' tem uma cardinalidade 'n', que devem ser o total das entidades eremby 'redes' envolvidas em (e).
+Então 'n' é a cardinalidade de 'x', definida pela quantidade máxima dos tipos eremby 'rede' pertencentes ao evento (e).
+Na fórmula em (89), |x| indica uma cardinalidade para 'x' e essa cardinalidades é definida pelo número máximo de entidades eremby 'rede(s)' em akatyym 'que estão'¹ ('x' pertencentes ao conjunto eremby contidos em akatyym).
+51
+
+A maximação gera um conjunto unitário contendo a cardinalidade da soma máxima de redes 'que estão'.
+Como apontado por Müller, Storto e Coutinho-Silva (2006a,b) os nominais em Karitiana são neutros para número, podendo denotar tanto entidades singulares quanto entidades plurais. Imaginando um mundo onde apenas existisse quatro redes, a palavra eremby poderia denotar: onde 'r' são indivíduos 'rede'ː
+91. eremby:{r1},{r2},{r3},{r4},{r1+r2}, {r1+r3}, {r1+r4}, {r2+r3}, {r2+r4}, {r3+r4}, {r1+r2+r3}, {r1+r2+r4}, {r2+r3+r4},{r1+r3+r4} e {r1+ r2+r3+ r4}.
+A máximação seleciona a denotação onde o maior número de entidades estão presentes e exclui todas as restantes. Por exemplo, imaginando uma situação em que se ve um homem amarrando as três redes existentes dentro de uma casa, poderíamos dizer:
+92. Taso nasokõ'it eremby
+Esta sentença pode significar: (i) que o homem amarrou uma rede (pelo menos), (ii) algumas delas (duas no caso) ou (iii) todas elas (as três).
+assim, eremby 'rede'pode denotar:
+92'. eremby:{r1}, {r2}, {r3}, {r1+r2}, {r1+r3}, {r2+r3} ou{r1+r2+r3}. 52
+
+Enquanto que, se for utilizado akatyym na sentença, a denotação apenas será a contendo o número máximo:
+93. Taso nasokõ'it eremby akatyym
+esta sentença pode significar (no contexto proposto acima) apenas 'o homem amarrou todas as redes'.
+A denotação de eremby 'redes' (+ akatyym) neste caso só pode ser:
+93'. eremby:{r1+r2+r3} Como foi mostrado, a maximalização resntringe o conjunto de entidades denotadas
+pelo NP ao conjunto unitário contendo o seu número máximo (se existir um) para o evento (e) definido pela sentença matriz.
+1.11 Conclusões Como foi mostrado, NP+akatyym tem uma morfossintaxe que sugere fortemente se
+tratar de uma sentença relativa, ao invés de um canônico quantificador-D. Sua leitura semelhante a de Universalidade é uma característica encontrada em sentenças Relativas nas línguas naturais como aponta de Vries (2002).
+O NP relativo é sempre gerado internamente a AspP (dentro da sentença relativa), sofre necessariamente movimento para Spec de AspP, onde ocorre o a maximação, e possivelmente para fora da relativa, embora sua interpretação semântica sempre aconteça dentro da relativa (cf. Grosu & Landman, 1998).
+E por fim, podemos ressaltar que este tipo de relativa Maximadora em Karitiana 53
+
+pode se movimentar por inteiro para a primeira posição da sentença matriz, como também pode mover apenas o complemento do NP dominante (AspP no caso) e a ligação entre NP e relativa se dá através dos itens i- e ta-, que serão discutidos no próximo capítulo (seção 2.3).
+54
+
+2. Fenômenos satélites a akatyym
+Este capítulo tem como objetivo descrever e analisar alguns 'fenômenos' lingüísticos envolvidos com os nominais em Karitiana, os quais estão relacionados diretamente com as chamadas relativas maximadoras, analisadas do capítulo 1.
+Primeiramente, analisamos como em Karitiana os nominais são ancorados deiticamente. Mostramos que não há pronomes dêiticos em Karitiana, mas no seu lugar para a ostensão há uma estratégia estrutural que se assemelha a uma sentença relativa restritiva.
+Em seguida, apresentamos um esboço sobre os pronomes em Karitiana, a fim de corroborar a hipótese de que os nominais em Karitiana são neutros para número. Por fim, apontamos que as partículas ta- e i-, as quais exercem de antemão o papel de reflexivo (anafórico) e pronome, também possuem outras funções na língua, como a de reflexivos de longa distância e também parecem marcar fonologicamente vestígio movidos junto a akatyym, com a finalidade de 'apontar' qual argumento (ergativo ou absolutivo) está sendo operado semanticamente.
+2.1 Demonstrativos em Karitiana
+2.1.1 Introdução
+Os demonstrativos são tradicionalmente tratados como pronomes que podem assumir função de determinantes, contendo, especialmente, informações sobre localidade, posicionamento em relação aos participantes do discurso e referencialidade (cf. Büring 2007). Em Karitiana, podemos verificar a existência de “demonstrativos” em sentenças
+55
+
+como as encontradas nos exemplos de (94) até (96).
+
+94. Dibm nakatari [ony taso aka]
+
+dibm ø-naka-tat-i ony taso
+
+aka
+
+amanhã 3-decl-ir-fut aquele homem ?
+
+‘Aquele homem irá amanhã’
+
+95. [Ony sojxaty aka] kyn nakapon João
+
+ony sojxaty aka kyn ø-naka-pon-ø
+
+João
+
+aquele porco ? posp 3-decl-atirar-nfut João
+
+‘João atirou naqueles porcos (visível)’
+
+96. [Ma sojxaty aka] kyn nakapon João
+
+ma
+
+sojxaty aka kyn ø-naka-pon-ø
+
+João
+
+aquele porco ? posp 3-decl-atirar-nfut João
+
+‘João atirou naqueles porcos (em movimento)'
+
+Müller, Storto & Coutinho-Silva (2006a,b) apontam que a função expressa por demonstrativos como este, esse e aquele em português é realizada de outra forma em Karitiana. Nesta língua, apontam os autores, os demonstrativos não são pronomes ou qualquer tipo de material que simplesmente seleciona nominais, mas parecem ser sentenças subordinadas.
+A favor desta análise, este trabalho argumenta que a “função demonstrativa” em Karitiana é efetivamente realizada por uma sentença relativa, e não por um pronome ou determinante, ao contrário do que tem sido amplamente observado em muitas línguas.
+
+2.1.2 Background
+
+Segundo Büring (2007) a classe dos pronomes pode ser identificada nas línguas naturais a partir de seu 'status ontológico'. Características como pessoa, tempo, localidade e
+56
+
+(in)definitude são verificáveis no mapeamento de suas funções. Além disso, pronomes definidos podem dividir-se entre os demonstrativos e os não-demonstrativos. Os nãodemonstrativos por sua vez, podem dividir-se entre reflexivos e não reflexivos, como é o caso do inglês (reflexivos: herself, ourselves; versus não-reflexivos: (s)he, our)).
+Para os pronomes demonstrativos, Büring (2007) aponta a existência de pelo menos duas características que os diferenciam dos pronomes não-demonstrativos:
+
+(i) especificação de distância (próximo/distante) do nominal 'indicado' em relação as pessoas do discurso e (ii) uma forte sensibilidade para ostensões extralinguísticas pelos falantes (uso amplo do pronome acompanhado por uma indicação gestual). Demonstrativos parecem ser 'referenciais indiretos', pois são dependentes do contexto.
+
+2.1.3 Dados
+
+Em Karitiana, podemos verificar a existência de “demonstrativos” em sentenças
+
+como as encontradas nos exemplos de (97) até (101), abaixo. Já os exemplos de (102) até
+
+(106) são agramaticais e serão analisados na seção seguinte.
+
+97. Naponpon ony sojxaty aka kyn õwã
+
+ø-na-pon-pon-ø
+
+ony sojxaty aka kyn õwã
+
+3-decl-atirar-dupl-nfut aquele porco ? posp criança
+
+'A crianca atirou naquele queixada'
+
+98. Ho kop aka naakat bep’ywa
+
+ho
+
+kop aka ø-na-aka-t
+
+bep'ywa
+
+aquele (em cima) copo ? 3- decl-aux-nfut vidro
+
+Aquele (lá em cima) copo é de vidro
+
+57
+
+99. jab kop aka naakat bep’ywa
+
+ja{ kop aka ø-na-aka-t
+
+bep'ywa
+
+esse copo ? 3-decl-aux-nfut vidro
+
+'Este copo (aqui) é de vidro'
+
+100. Ka kop aka naakat bep’ywa
+
+ka kop aka ø-na-aka-t
+
+bep'ywa
+
+este copo ? 3-decl-aux-nfut vidro
+
+'Este copo (aqui) é de vidro'
+
+101. Ma sojxaty aka kyn nakapon João
+
+ma
+
+sojxaty aka kyn ø-naka-pon-ø
+
+João
+
+aquele porco ? em 3-decl-atirar-nfut João
+
+'João atirou naqueles porcos (em movimento)'
+
+102. *Ka kop naakat bep’ywa
+
+ka kop ø-na-aka-t
+
+bep'ywa
+
+este copo 3-decl-aux-nfut vidro
+
+'Este copo aqui (com idicação gestual é gramatical)'
+
+103. *Ma sojxaty kyn nakapon João
+
+ma
+
+sojxaty
+
+aquele porco
+
+kyn ø-naka-pon-ø
+
+João
+
+em 3-decl-atirar-nfut João
+
+'João atirou naqueles porcos (em movimento)'
+
+104. *Kop aka naakat bep’ywa
+
+kop aka ø-na-aka-t
+
+bep'ywa
+
+copo ? 3- decl-aux-nfut vidro
+
+'Este copo aqui (apontando)'
+
+58
+
+105. *Ony naponpon sojxaty aka kyn õwã
+
+ony ø-na-pon-pon-ø
+
+sojxaty aka kyn õwã
+
+aquele 3-decl-atirar-dupl-nfut porco ? posp criança
+
+'A crianca atirou naquele queixada'
+
+106. *Ony kop naakat bep'ywa
+
+ony kop ø-na-aka-t
+
+bep'ywa
+
+aquele copo 3-decl-aux-nfut vidro
+
+'Aquele copo é de vidro' (com indicação gestual é gramatical)
+
+A partir destes exemplos, desenvolvemos possíveis análises, nas seções seguintes.
+
+2.1.4 Primeira Análise
+
+Como apontado nos exemplos de (97) até (101), o que poderíamos chamar de "demonstrativos" em Karitiana possue a forma invariável apresentada abaixo em (107).
+
+107. [posição/situação da entidade – nominal –AKA]
+
+Ao observarmos a estrutura apresentada em (107), podemos destacar nos demonstrativos em Karitiana as seguintes características apresentadas por Büring (2007) em um único item lexical: a “posição/situação da entidade” (doravante PC [Posição do Corpo]) possue a referência de localidade, especificando a distância (em relação ao centro de referência, que é construído contextualmente em torno das pessoas do discurso – Falante e Ouvinte), e a acessibilidade dos participantes do discurso (em especial a visibilidade), tal como pode ser visto em todos os exemplos gramaticais apresentados acima de (97) até (101).
+A partícula pós-nominal aka parece não contribuir para essa informações, pois se
+59
+
+observarmos nos exemplos acima, todas as informações típicas de demonstrativos são apresentadas pelo item lexical PC, embora seja necessária a presença de aka para o licenciamento destas "estruturas demonstrativas", como podemos observar em (102) e (103).
+Storto (1999) aponta que os sintagmas demonstrativos teriam seus núcleos à direita em Karitiana17, propondo a seguinte estrutura para os demonstrativos:
+108. [aux. situação – nominal – Det]
+Como podemos observar acima, Storto (1999) analisa aka como o núcleo do que seria um pronome demonstrativo. Porém, como apontado em Coutinho-Silva e Storto (2005) os nominais em Karitiana não apresentam nenhum material funcional que possa ser identificado como o responsável por informações como (in)definitude ou número, o que levou a uma reconsideração do estatuto dos nominais na língua. Müller, Storto e CoutinhoSilva (2006a,b) retomam esse debate apontando que os demonstrativos, como a quantificação universal, são estruturas alternativas do tipo subordinada. Reforçando esta idéia de que os demonstrativos em Karitiana são estruturas compostas, podemos ressaltar (como já analisado no Capítulo 1) que aka é um verbo 'existencial' que também é amplamente utilizado como auxiliar. Aqui surge a pergunta: seriam duas formas homófonas? A priori, consideraremos aka um único lexema. Assim, na próxima seção, uma análise da função de cada item dentro desta estrutura será realizada a partir do pressuposto que os demonstrativos são 'uma sentença' com a finalidade de encontrar um melhor tratamento para estes itens em Karitiana.
+17 Storto (1999) aponta que Karitiana é uma língua com núcleo essencialmente a direita, idéia dessenvolvida a partir da análise das estruturas verbais, e sendo assim, apostando em uma simetria entre as categorias verbal e nominal, ela sugere que os nominais também possuem seus núcleos a direita.
+60
+
+2.1.5 A morfossintaxe dos Demonstrativos Como apontado acima, o demonstrativo apresenta a seguinte estrutura:
+109. [PC – nominal –AKA] Foram listados os seguintes itens (PC) que apontam informações acerca da(s)
+entidade(s) indicada(s): posição do corpo, presença ou não de movimento e a (im)possível visibilidade, vejamos a tabela (110): 110.
+
+PC
+
+Status
+
+Especificação visibilidade
+
+Especificação Distinção
+
+do
+
+de
+
+de
+
+status
+
+visibilidade número
+
+ka ma kahy
+
+Movimento
+
+caminhando
+Qualquer movimento
+
+visível
+
+ony
+
+default
+
+default
+
+jab
+
+Parado
+
+sentado
+
+hyp
+
+deitado
+
+hop
+
+Em pé
+
+default vísivel
+
+Visível com animais
+
+a
+
+Não
+
+ari
+
+especificados
+
+Não especificados
+
+Visível com singular
+
+animais
+
+plural
+
+O uso destes posicionais (PC) é atestado em dois casos: (i) quando o demonstrativo é acompanhado pelo nominal e pelo aka, (exemplos de (97) até (101) e (ii) quando os
+61
+
+posicionais (PC) aparecem acompanhados de uma indicação gestual (ostensão, via dêixis)
+
+no momento de enunciação, exemplos (111), (112) e (113) abaixo, e os chamados
+
+posicionais, neste caso, podem ser traduzidos como: 'este', 'aquele' e 'lá'.
+
+111. Ja{ naakat y'it
+
+ja{
+
+ø-na-aka-t
+
+y-‘it
+
+PC [vendo, escutando, sentado] 3-decl-aux-nfut 1-filho
+
+'Este (default ou andando) é meu filho'
+
+Contexto: apontando para alguém.
+
+112. Ony hoto ijeky
+
+ony
+
+Hot-o i-jeky
+
+PC [em pé/sentado/deitado] Aux-? part-bochecha
+
+'A bochecha daquele lá'.
+
+Contexto: apontando para alguém.
+
+113. Ka naakat y'it
+
+ka
+
+ø-na-aka-t
+
+y-‘it
+
+PC [andando, vendo] 3-decl-aux-nfut 1-filho
+
+'Este (default ou andando) é meu filho'
+
+Contexto: apontando para alguém.
+
+Os exemplos acima sugerem que se de alguma maneira a ostensão em Karitiana
+
+fosse exercida por pronome demonstrativo, e este ocupando uma posição de núcleo
+
+nominal, o forte candidato seria um dos posicionais listados (99) e não o aka, devido o sua
+
+maior quantidade de conteúdo semântico identificado por Büring (2007) como típico de
+
+pronome demonstrativo. Porém, seria inexplicável o porque deste posicionais (PC) não
+
+poderem simplesmente se combinar com nominais, sendo possível apenas o seu
+
+licenciamento sintático quando acompanhado também do aka.
+
+62
+
+2.1.6 Aka – verbo auxiliar
+
+Como já foi apontado no Capítulo 1, e exemplificado nos exemplos a seguir, aka
+
+além de ocorrer na “expressão quantificadora universal”, exemplo (114), é um auxiliar
+
+utilizado como cópula, exemplo (115), ou como auxiliar junto a sentenças finitas – e no
+
+caso, é ele quem recebe as flexões de tempo e concordância exemplos (116) e (117).
+
+114. Sojxaaty akatyym (kyn) naponpon õwã
+
+sojxaaty aka-tyym
+
+(kyn) ø-na-ponpon-ø
+
+queixada aux-sub [todo] posp 3-decl-atirar-dupl-nfut
+
+'A(s) criança(s) atirou/atiraram em Todas as queixadas'.
+
+õwã criança
+
+Cópula:
+
+115. Inácio na-aka-t y-sat
+
+Inácio ø-na-aka-t
+
+y-sat
+
+I.
+
+3-decl-aux-nfut 1s-nome
+
+Meu nome é Inácio (Storto, dic.)
+
+Como auxiliar:
+
+116. 'ejepo (naakat) i'ot
+‘ejepo (ø-na-aka-t)18 i-’ot pedra 3-decl-aux-nfut part-cair
+(A) pedra caiu.
+
+117. Y'it 'ipi'y naakat tyy iakat
+
+[y’it ‘ip<i>’y]
+
+ø-na-aka-t
+
+tyy i-aka-t
+
+1-filho peixe-VH-comer 3-decl-aux-nfut alto part-aux-nfut
+
+'(Aquele) meu filho que comeu o peixe é alto'
+
+Como observados nos exemplos de (114) até (117) aka é um verbo. O que confirma
+
+isso é a presença de morfologia de tempo e concordância nestes items quando nas
+
+sentenças matriz.
+
+Se retomarmos os exemplos de (94) até (96), podemos observar que a sentença se
+
+18 Alguns constituintes da sentença que estão entre parênteses podem ser omitidos na fala natural.
+
+63
+
+torna agramatical quando o aka é retirado, vejamos os exemplos de (118) à (120)19:
+
+118. *Dibm nakatari
+
+ony taso
+
+dibm ø-naka-tat-i ony taso amanhã 3-decl-ir-fut aquele homem
+
+‘Aquele homem irá amanhã’
+
+119. *Ony sojxaty
+
+kyn nakapon
+
+João
+
+ony sojxaty aquele porco
+
+kyn ø-naka-pon-ø
+
+João
+
+em 3-decl-atirar-nfut João
+
+‘João atirou naqueles porcos’
+
+120. *Ma sojxaty
+
+kyn nakapon
+
+João
+
+ma
+
+sojxaty
+
+aquele porco
+
+kyn ø-naka-pon-ø
+
+João
+
+em 3-decl-atirar-nfut João
+
+‘João atirou naqueles porcos’
+
+Assim, podemos concluir que aka não só acrescenta algum tipo de informação a um
+
+dado nominal já combinado com um demonstrativo, mas faz parte de alguma maneira da
+
+própria estrutura demonstrativa.
+
+Müller, Storto & Coutinho-Silva (2006a,b) apontam que a função expressa por
+
+demonstrativos como este, esse e aquele em português é indicada de outra forma em
+
+Karitiana. Expressões do português como aquele homem ou aquele(s) porcos(s) que
+
+indiscutivelmente são Sintagmas Nominais são traduzidas por orações subordinadas que
+
+equivalem a homem/porco que está lá ou porcos que estão se movendo, como ilustrado nos
+
+exemplos de (121) até (123), abaixoː
+
+121 Ony taso aka
+
+Homem que está lá.
+
+122. Ony sojxaaty aka Porcos que estão lá (vendo).
+
+123. Ma sojxaaty aka Porcos que estão lá se movendo.
+
+19 Como já apontado, estas sentenças podem ser gramaticais se utilizadas junto a indicação gestual em contextos específicos.
+64
+
+Os autores apresentam as seguintes evidências para classificar os demonstrativos
+
+em Karitiana como orações subordinadas, e não como sintagmas nominais simples:
+
+(i) o fato de aka ser um produtivo verbo auxiliar e ocorrer na última posição da
+
+sentença, sem flexão de concordância ou tempo, como acontece em todas as
+
+sentenças subordinadas em Karitiana;
+
+(ii) o fato de que estas construções demonstrativas (especiais) exigirem morfologia (os
+
+posicionais listados na tabela em (110)) que codifica informações como a posição
+
+do corpo, distância do “argumento relativizado” e seu possível movimento, é
+
+encontrada ocorrendo de forma semelhante em um estreito paradigma em todos os
+
+predicados progressivos na língua, ou em alguns casos, também possue um estrito
+
+paralelo com (alguns) verbos auxiliares.
+
+A análise de Müller, Storto & Coutinho-Silva (2006a,b) propõe que os
+
+demonstrativos em Karitiana não são pronomes ou qualquer outro tipo de material que
+
+simplesmente seleciona nominais, mas são sentenças subordinadas. Além da evidências
+
+acima listadas para identificar os demonstrativos em Karitiana como sentenças, podemos
+
+acrescentar a existência de exemplos onde podemos constatar a presença de diferentes
+
+auxiliares além de aka, como kii nos exemplos (124) e (125, agramatical seguindo o
+
+paradigma do comportamento do aka) e agit nos exemplos (128) e (129, também
+
+agramatical seguindo o paradigma do comportamento do aka), vejamos:
+
+124. Dibm nakahori ari õwã kii
+
+dibm ø-naka-hor-i
+
+PC
+
+amanhã 3-decl-ir[pl]-fut aquele [pl]
+
+Aquelas crianças vão amanhã.
+
+õwã
+
+kii
+
+criança aux [pl]
+
+65
+
+125. *Dibm nakatari ari õwã kii
+dibm ø-naka-tar-i PC amanhã 3-decl-ir-fut aquele [pl]
+Aquelas crianças vão amanhã.
+
+õwã
+
+kii
+
+criança aux [pl]
+
+126. *Dibm nakahori a õwã aka
+
+dibm ø-naka-hor-i
+
+PC
+
+õwã
+
+aka
+
+amanhã 3-decl-ir[pl]-fut aquele [sg] criança aux
+
+'Aquelas crianças vão amanhã.'
+
+127. Dibm nakatari a õwã aka
+
+dibm ø-naka-tar-i PC
+
+õwã
+
+aka
+
+amanhã 3-decl-ir-fut Aquele [sg] criança Aux
+
+'Aquela criança vai amanhã.'
+
+128. Dibm nakahori ari õwã agit
+
+dibm ø-naka-hor-i
+
+PC
+
+õwã
+
+agit
+
+amanhã 3-decl-ir[pl]-fut aquele [pl] criança aux [pl]
+
+'Aquelas crianças vão amanhã'.
+
+129. *Dibm nakatari ari õwã agit
+
+dibm ø-naka-tar-i PC
+
+õwã
+
+agit
+
+amanhã d3-ecl-ir-fut aquele [pl] criança aux [pl]
+
+'Aquelas crianças vão amanhã'.
+
+Como poderíamos explicar estes incopatibilidade dos auxiliares 'marcados' de uma certa maneira para número dentro destes ambientes determinados para singular ou plural? (exemplos de (124) até (129)). Storto (1999) aponta que língua Karitiana possui alguns casos de supleção verbal: como não há flexão de número no paradigma verbal e também nenhuma estratégia nominal para determinar pluralidade, alguns verbos possuem duas formas lexicais oriundas de raízes diferentes para predicar ações envolvendo entidades
+66
+
+plurais ou singulares. Como por exemplo o verbo 'ir:' -tat- (singular) e -hot- (plural). Em Karitiana, há outros auxiliares como -kii- e -agi- (ambos auxiliares e verbos de ligação para entidades plurais). Nos exemplos acima, podemos observar que a Estrutura demonstrativa se manteve mesmo sendo comutado aka por kii e agit (verbos da mesma natureza), o que reforça a hipótese de que a função demonstrativa em Karitiana é realizada por algum tipo de estrutura subordinada do tipo relativa20.
+
+2.1.7 Estatuto Sintático dos PCs Como podemos observar no exemplo (105) repetido abaixo como (130), o item
+lexical PC não pode ocupar qualquer posição na sentença, sendo necessário que esteja a esquerda do nominal a qual marca posição e acessibilidade, o que nos permite concluir que forma um constituinte, como apresentado em (109).
+
+130. *Ony naponpon sojxaty aka kyn õwã
+
+ony ø-na-pon-pon-ø
+
+sojxaty aka kyn õwã
+
+aquele 3-decl-atirar-dupl-nfut porco aux posp criança
+
+A crianca atirou naquele queixada
+
+Assim, podemos esperar que o item lexical PC ocupe uma das seguintes posições na estrutura da sentença relativa:
+
+20 Chamo esta estrutura de Sentença Relativa devido ao fato de ser uma sentença que ocupa posições argumentais.
+67
+
+131. Complemento do VP
+
+NP
+
+ty
+
+N'
+
+ty
+
+N AspP
+
+tu
+
+Asp'
+
+ru
+
+VP
+
+Asp
+
+ty
+
+ty
+
+V' NP V°v Asp°
+
+ty
+
+g
+
+g
+
+PC V
+
+aka
+
+ø
+
+g
+
+tv
+
+Neste caso, o PC teria de ser capaz de ocupar uma posição argumental, o que não poderia ser um problema, pois como podemos observar em (111), (112) e (113) ele o faz sem tornar a sentença agramatical. Porém, nestes casos, o posicional parece estar nominalizado, diferente dos PCs convencionais que se comportam como algum tipo de Advérbio marcador (principalmente) de espacialidade nas estruturas demonstrativas frequentes em Karitiana.
+
+132. Adjunto do VP
+
+NP
+
+ty
+
+N'
+
+ty
+
+N
+
+AspP
+
+tu
+
+Asp'
+
+ei
+
+VP
+
+Asp
+
+ty
+
+ty
+
+PC VP
+
+V°v Asp°
+
+ty
+
+g
+
+g
+
+68
+
+V' NP aka
+g V
+g tv
+
+Se considerarmos PC uma espécie de Advérbio, teríamos que considerar a
+
+possibilidade dele se adjungir a qualquer projeção máxima (VP ou AspP no caso). Neste
+
+caso, podemos encontrar os seguintes exemplos em Karitiana:
+
+133. Ony taakatyymq nasoko'it eremby taso tq
+
+PC
+
+ta-aka-tyym
+
+ø-na-soko'i -t
+
+eremby taso
+
+aqueles anaf[s]-aux-sub 3-decl-amarrar-nfut rede
+
+homem
+
+'Todos aqueles homens amarraram a rede'
+
+134. Ony iakatyymw nasoko'it eremby tw taso.
+
+PC
+
+i-aka-tyym
+
+ø-na-soko'i -t
+
+eremby taso
+
+aqueles anaf[ns]-aux-sub 3-decl-amarrar-nfut rede
+
+homem
+
+'Os homens amarraram todas aquelas redes'
+
+Assim, estes exemplos parecem possuir a seguinte estrutura abaixo (135), na qual o
+
+ony só poderia estar adjungido a AspP:
+
+69
+
+135.
+
+CP
+
+wo
+
+AspPq 5
+
+C' ri
+
+ony iakatyym C
+
+IP
+
+ru
+
+to
+
+Ii
+
+C°
+
+tu g
+
+I' to
+
+VPv
+
+I° na-
+
+VP
+
+I
+
+g
+
+g
+
+ru
+
+g
+
+soko'i
+
+-t
+
+V'
+
+NP
+
+ti
+
+ru g
+
+NP 5
+
+V° taso g
+
+eremby tq tv
+
+Assim, no caso dos exemplos (133) e (134), acreditamos que o ony foi gerado dentro do AspP da relativa maximadora, e que no momento da extração e movimendo do akatyym, ele se movel junto para a primeira posição da sentença por ser um adjunto do item movido. Também encontramos exemplos como os abaixo em (136) e (137), os quais aparentam ter a estrutura em (138):
+
+136. Nasoko'it
+
+[ony eremby akatyym] taso
+
+ø-na-soko'i -t
+
+PC
+
+eremby aka-tyym taso
+
+3-decl-amarrar-nfut aquele rede
+
+aux-sub homem
+
+O homem amarrou todas aquelas redes.
+
+70
+
+137. Nasoko'it
+
+[eremby ony
+
+akatyym] taso
+
+ø-na-soko'i -t
+
+eremby PC
+
+aka-tyym taso
+
+3-decl-amarrar-nfut rede
+
+aquele aux-sub homem
+
+'O homem amarrou todas aquelas redes'
+
+138. [ony eremby akatyym]
+
+NP
+
+ty
+
+N'
+
+ty
+
+N AspP
+
+g
+
+ty
+
+PC AspP
+
+tu
+
+Asp'
+
+ru
+
+VP
+
+Asp
+
+ty
+
+ty
+
+V' NP V°v Asp°
+
+g
+
+g
+
+g
+
+V
+
+aka
+
+ø
+
+g
+
+tv
+
+No exemplo (136) o NP envolvido na Relativização estaria no Spec de AspP e a no exemplo (137), este NP estaria em alguma posição dentro do NP dominante. Vale lembrar que em (137) o NP gerado dentro da relativa se move obrigatoriamente para Spec de AspP, e posteriormente pode se mover para fora da relativa por ser uma relativa do tipo Maximadora, como apontamos no capítulo anterior. Assim, acreditamos que nas relativas das estruturas demonstrativas, o que temos é o NP in situ, onde foi gerado.
+Corroborando nossas espectativas, ao substituir o PC por qualquer Adjunto de localidade, a sentença se mantém gramatical, como nos exemplos (139) e (141). Podemos notar nos exemplos abaixo, este tipo de estrutura relativa parece ser menos rígida e
+
+71
+
+cristalizada do que as Maximadoras, pois também permitem a substituição do verbo aka
+
+por outros verbos auxiliares, como agit e ki (verbos supletivos plurais paralelos a aka)
+
+como podemos observar nos exemplos de (139) até (141):
+
+139. São Paulo pip jo{ nso agit/ki naakat ise'at
+
+São Paulo pip jo{ nso agit/ki
+
+ø-na-aka-t
+
+ise'a-t
+
+SP.
+
+posp mulher aux[pl]/aux[pl] 3-decl-aux-nfut part-bonito-nfut
+
+'As mulheres (que) estão em São Paulo são bonitas'.
+
+140. Ari jo{ nso ki naakat ise'at
+
+Ari jo{ nso ki
+
+ø-na-aka-t
+
+i-se'a-t
+
+PC[aqueles [pl] aux[pl]] 3-decl-aux-nfut part-bonito-nfut
+
+'(Aquelas) mulheres (que) estão ali são bonitas'.
+
+141. Prédio pip jo{ nso ki/aka naakat ise'at
+
+prédio pip jo{ nso ki/aka
+
+ø-na-aka-t
+
+i-se'a-t
+
+prédio posp mulher aux[pl]/aux[sg] 3-decl-aux-nfut part-bonito-nfut
+
+'(Aquela(s)) mulher(es) que (estão/está) no prédio são/é bonita(s)'.
+
+Assim podemos propor a seguinte estrutura para os "demonstrativos" em Karitiana:
+
+72
+
+142. [Ony jo{ nso aka] 'aquela mulher'
+
+NP
+
+ty
+
+N'
+
+ty
+
+N AspP
+
+g
+
+ty
+
+ø PC AspP
+
+g
+
+tu
+
+Ony
+
+Asp'
+
+ru
+
+VP
+
+Asp
+
+ty
+
+ty
+
+V' NP V°v Asp°
+
+g 4g
+
+g
+
+V jo{ nso aka
+
+ø
+
+g
+
+tv
+
+Diferente das relativas maximadoras, que o nominal relativizado após ser gerado sofre movimento obrigatório para Spec de AspP, os nominais das sentenças relativas demonstrativas permanecem obrigatoriamente in situ, se articulando com o elemento vazio existente no núcleo de NP. Este fato é observável pela agramaticalidade de sentenças como *jonso ony aka, agramaticalidade oriunda do não movimento no nominal núcleo da relativa.
+
+2.1.8 Conclusões
+
+Como foi demonstrado, Karitiana não possue pronomes demonstrativos, mas no lugar destes possui uma estratégia sentencial – o uso de relativas - para gerar o efeito demostrativo com as características apontadas por Büring (2007) para itens deste tipo.
+Como conseqüência da primeira conclusão, a hipótese levantada por Müller, Storto & Coutinho-Silva (2006a,b) de que em Karitiana não há projeção funcional nos nominais é
+73
+
+fortalecida, pois tradicionalmente os demonstrativos são 'acomodados' estruturalmente pelas teorias correntes dentro de uma projeção funcional do NP.
+
+2.2 Pronomes pessoais
+
+2.2.1 Introdução
+
+A língua Karitiana possui um rico sistema pronominal que dispõe basicamente de seis pronomes e uma anáfora. Estes pronomes estão distribuídos da seguinte maneira: duas formas para o singular, três para o plural e uma terceira pessoa indistinta quanto a número, tabela (143).
+O paradigma dos pronomes em Karitiana é o seguinte:
+
+Tabela 143:
+Pronomes yn an i yjxa yta ajxa i
+
+pessoas/número 1s 2s 3s 1pl (inclusivo) 1pl (exclusivo) 2pl 3pl
+
+Müller, Storto e Coutinho-Silva (2006a,b) propõem que os nominais em Karitiana são todos neutros para número. Para o paradigma pronominal, com formas plurais e que poderia se configurar como um contra-exemplo, eles argumentam que esses pronomes 'plurais' são na verdade o resultado de uma composição sem qualquer marca morfológica de plural que signifique “mais de um”. Assim, os pronomes ditos plurais são uma espécie de listagem de participantes, tabela (144).
+
+74
+
+Tabela 144:
+Pronomes yn an i yjxa yta
+ajxa i
+
+morfologia y+n a+n i y+i+ta y+ta
+a+i+ta i
+
+pessoas
+
+significado
+
+1s
+
+eu + participante21
+
+2s
+
+você + participante
+
+3
+
+outro (não participante)
+
+1pl (inclusivo) eu+outro(s)+anafórico
+
+1pl
+
+eu+anafórico
+
+(exclusivo)22
+
+2pl
+
+você+outro(s)+anafórico
+
+3
+
+outro
+
+Muller, Storto e Coutinho-Silva (2006)
+
+Como podemos observar na tabela (144), a morfologia dos pronomes sem dúvida sugere que eles são o resultado de uma composição. Porém, nesta abordagem não fica claro qual seria a contribuição da forma anafórica de terceira pessoa ta- ou o pronome de terceira pessoa i na composição dos pronomes 'plurais'.
+Esse capítulo tem como meta o refinamento da proposta de Müller, Storto e Coutinho-Silva (2006a,b) para o pronomes em Karitiana. Inicialmente, mostramos que a denotação dos pronomes 'plurais' não decorre de uma simples listagem de seus participantes e depois discutimos o papel da anáfora de terceira pessoa ta e do pronome de terceira pessoa i incorporados nos pronomes plurais de primeira pessoa exclusiva e inclusiva e na segunda pessoa .
+
+2.2.2 Sobre uma listagem de participantes
+
+Explorando o fato de que as primeiras pessoas do plural não se referem a um grupo
+de falantes (propriamente dito), mas sim a um falante e outro, ou mais outros, Ritter e
+21 Participante do discurso, ou seja [+falante] ou [+ouvinte], em oposição a não-pessoa do discurso. 22 Chamo de pronome de primeira pessoa do plural inclusivo, aquele que inclui o ouvinte na sua denotação.
+Já o pronome de primeira pessoa exclusivo, é marcado por uma ruptura de identidade com o ouvinte, sendo este excluído da denotação.
+75
+
+Harley (1998) apontam que pronomes em algumas línguas são 'construídos' a partir do contraste apenas nas pessoas participantes da enunciação. Como base para essa proposta, as autoras apontam a existência de muitas línguas que normalmente não marcam morfologicamente distinção de número ou gênero. Para esse tipo de língua, Ritter e Harley (1998) desenvolveram uma análise dentro da morfologia distribuída que constrói a denotação do quadro de pronomes a partir apenas das possíveis combinações na subgeometria de um nó responsável pelos traços de participantes da enunciação.
+Segundo Harley e Ritter (2002), a morfologia , diferente da sintaxe e da fonologia, ainda não possui uma representação universal, salvo a tipologia de Greenberg (1963 apud Harley e Ritter 2000), que a partir da observação de padrões comuns nas línguas naturais postulou uma lista de Universais e dentre eles, chamava a atenção para uma organização sistemática de traços de pessoa, gênero e número.
+Paramentadas com as propostas da Morfologia Distribuída e observando diversos trabalhos sobre universais na fonologia, a intenção dos trabalhos de Ritter e Harley (1998), e Harley e Ritter (2002) é de atestar e estabelecer uma representação Universal eficiente para as línguas naturais. Da lista de Universais de Greenberg (1963), elas salientam: Universal 21: Se o verbo concorda em gênero com o Sujeito ou o Objeto, ele concorda em número. Universal 36: Se a língua tem gênero, ela têm número. Universal 37: Há mais gênero no singular que no plural. Universal 45: Se existe distinção de gênero no plural do pronome, então existe também no singular.
+A partir desses Universais, elas perceberam: (i) a dependência da marcação de gênero da marcação de número;
+76
+
+(ii) o singular é menos marcado que o plural; (iii) e se a forma mais marcada possue contraste de um morfema dependente, provavelmente possuirá da forma menos marcada. A partir desses fatos, elas propõem a seguinte representação Universal:
+145. Expressão Referencial
+
+Participante (pessoa)
+
+Individuação (não-pessoa)
+
+Falante Destinatário
+
+Grupo Mínimo CLASSE (Gênero) Animado Inanimado/ Neutro
+
+Masc.
+
+Fem
+
+Segundo Harley Ritter (2002), em teoria, pode existir uma língua com geometria de pessoa sem geometria de número, pois ambos são traços da 'Expressão Referencial' (Participante e Individuação), e portanto são independentes e de status semelhante na composição de pronomes, mas não pode existir língua sem geometria de pessoa, pois uma língua não existe sem falantes e ouvintes, estrutura (145), acima.
+Por exemplo, uma língua pode ser composta pelos traços dependentes do nó Participante (Falante e Ouvinte) mais o nó de Individuação (que seria o traço da nãopessoa). Vale notar que o traço de individualização não é especificado para número, pois só se torna especificado no caso de ser ativado um dos traços dependentes: o traço Grupo (para entidades plurais) ou Mínimo (para entidades singulares), assim, uma não-pessoa sem a ativação destes traços seria neutra (sem especificação para número).
+
+77
+
+Ao observarmos a proposta oferecida no paradigma pronominal de Müller, Storto e Coutinho-Silva (2006a.b), especialmente a análise morfológica dada na tabela 2 (coluna 4), algumas questões surgem sobre a composição dos participantes nos pronomes 'plurais': (i) Porque yixa tem em sua morfologia y+i+ta (1+3+ta) se a primeira pessoa inclusiva do plural diz respeito à inclusão do ouvinte na referência do pronome? Se o caso fosse uma listagem simples de participantes, era de se esperar então que a primeira pessoa inclusiva do plural tivesse a seguinte forma: *y+a+ta (1+2+ta). (ii) Porque a segunda pessoa do 'plural' ajxa tem o i (terceira pessoa) na sua composição? Se na primeira pessoa exclusiva a forma é simplesmente y+ta (1+ta), por que a segunda pessoa não é simplesmente *a+ta (2+ta)? (iii) O que impede que a terceira pessoa possua uma forma plural via composição com o ta?
+2.2.3 Sobre o papel do ta e do i na composição dos pronomes 'plurais'
+A noção de plural destes pronomes não tem como fonte a listagem de participantes, mas é gerada pela anáfora ta que tem, entre outras funções nesta língua, a de reflexivo ou recíproco. Ela parece repetir o item nominal que a precede, criando a idéia de “mais que um” por meio de uma contabilização extensional simples:
+146. x+ta (anafórico) = x + x'
+O que corrobora esta hipótese estrutural em (146) é o fato da primeira pessoa exclusiva do plural yta, não incluir o morfema i, o que nos permite concluir que em todos estes pronomes ditos plurais, o responsável pela 'leitura plural' é o ta, e que o i deve possuir
+78
+
+uma outra função na composição destes pronomes. Deste modo, para o i parece restar uma única função: a de “abrir” a denotação
+construída entre o pronome Participante e a anáfora ta. Ou seja, se o morfema i não aparecesse, as denotações dos pronomes yjxa (1p-inclusiva) e ajxa (2p) seriam mais restritas quanto a quem esses pronomes se referem, respectivamente, suas leituras seriam (1+1') e (2+2') o que significaria um coro de falantes na primeira inclusiva e de ouvintes na segunda.
+Assim, podemos explicar a existência do i no pronome de segunda pessoa do plural que, a rigor, para ser plural não precisa do i mas só do ta. O i está ali presente para ampliar a denotação do pronome de 2ª pessoa do 'plural' para além de ouvintes, pois sem ele o pronome (*ata) iria denotar apenas ouvintes - uma platéia de pessoa presentes na ato de enunciação (o que não ér necessário).
+Tal problema não existe com yta (1p-exclusiva), porque as 1ªs pessoas do plural não se referem a grupo de falantes, mas sim um falante porta-voz e outro, ou mais outros constituidos de uma mesma identidade.
+Assim, a denotação da primeira pessoa do plural exclusiva e da segunda do plural em Karitiana são as seguintes: 147.
+y+ta = eu+anáfora ( outros como 'eu') a+i+ta = você+outros quaisquer com algum tipo de identidade com o(s) ouvinte(s)+anáfora
+A mesma explicação pode ser estendida a 1ª pessoa inclusiva do plural (yjxa). O pronome de terceira pessoa i está presente no lugar do pronome de segunda pessoa a (o qual se esperava com a proposta de listagem de participantes) para que a leitura deste pronome não seja: Eu+você+anáfora pois, neste caso a anáfora ta retomaria uma espécie
+79
+
+de dual (gerando pares de primeira e segunda pessoa) ou retomaria um grupo com uma primeira (y) e um grupo de ouvintes (a+ta). Logo, a denotação da primeira pessoa inclusiva (a mais genérica) é a seguinte: 148.
+y+i+ta = eu+ outros quaisquer (não necessariamente pessoa do discurso)+ anáfora
+2.2.4 A terceira pessoa i
+Com a análise aqui proposta para a composição dos pronomes em Karitiana, resta apenas uma pergunta: por que a terceira pessoa não possui um pronome 'plural' *i-ta?
+Se retornarmos à proposta de geometria de traços morfológicos para a Expressão Referencial de Ritter e Harley (1998) na estrutura (145), podemos perceber que o nó de Individuação (correspondente à não-pessoa) tem como característica acionar os traços de número das Expressões Referenciais. Para o singular o traço Mínimo é acionado e para o plural, o traço Grupo.
+A partir do trabalho de Hanson (1999) sobre a aquisição dos pronomes, Hanson, Harley e Ritter (2000) (doravante HHR) buscam as formas menos marcadas, e assim, levantam evidências para traços universais default e também discutem as possibilidades acerca da subespecificação. Contrastando 10 trabalhos sobre cerca de 6 línguas diferentes, elas apontam para uma uniformidade no que diz respeito ao primeiro pronome adquirido: ou a 1ª pessoa do singular, ou a 3ª pessoa do singular (neutra/ inanimada). A 2ª pessoa sempre é adquirida posteriormente à 1ª pessoa, e o singular também sempre aparece anterior ao plural, e assim concluem que no nó participante, o default é a primeira pessoa (Falante), no nó individualização o default é o singular (Mínimo) e no nó Classe, o default é o neutro inanimado, pois estes são os que aparecem primeiramente na fala das crianças.
+80
+
+Quanto à possibilidade de variação na ordem da aquisição, elas apontam que
+
+mesmo mantendo uma hierarquia de dependência dos traços, a ordem em que esses nós são
+
+acionados pode variar a partir do input na aquisição, ou seja, das expressões lingüísticas
+
+que a criança ouve, e o que nunca pode acontecer é um traço dependente ser acionado
+
+antes do seu nó superior. Por exemplo, uma criança pode adquirir tanto o traço de
+
+Participante, quanto o de Individuação (pois ambos são irmão e independentes sobre a
+
+Expressão referencial, o que não pode acontecer, é a aquisição de traços dependentes de
+
+outros, como por exemplo, não é possível a aquisição dos traços que indicam número
+
+(Grupo ou Mínimo) antes de ter sido adquirido o nó anterior de Individuação (não-pessoa).
+
+A maneira que determinados nós controlam seus dependentes é semelhante à geometria
+
+proposta pela fonologia - a única 'restrição' na aquisição é que as formas mais marcadas
+
+não podem aparecer antes das formas menos marcadas.
+
+Como não assumimos a hipótese de traço default de HHR 2000, o nó de
+
+Individuação pode possuir 4 combinação lógicas – da mesma maneira que foi proposto
+
+com o nó Participante para línguas sem número e gênero.
+
+Para o nó Individuação teríamos as seguintes possibilidades entre M-ínimo
+
+(singular) e G-rupo (plural):
+
+149.
+
+a.
+
+b.
+
+c.
+
+d.
+
+I
+
+I
+
+I
+
+I
+
+ty
+
+g
+
+g
+
+MG
+
+M
+
+G
+
+Considerando essas quatro possibilidades, podemos dizer que numa língua como o português por exemplo, seria acionado em I o traço Mínimo com um pronome singular e seria acionado um traço Grupo com um pronome plural como em (149b) e (149c). A
+81
+
+possibilidade encontrada em (149a) em que os dois traços (Mínimo e Grupo) são acionados, é um caso impossível por ser ambíguo, enquanto que (149d) pode ser considerado um caso neutro, pois não aciona nenhum dos traços de I.
+Levando em conta que o pronome i em Karitiana é usado tanto em contextos claramente singulares como plurais (como podemos observar abaixo em (150) e (151), é plausível considerá-lo um pronome neutro para número (cf. Müller, Storto e CoutinhoSilva (2006)) como representado no esquema em (149d) acima.
+150. Dibm nakatari i dibm ø-naka-tar-i i amanhã 3-decl-ir-fut ele Ele vai amanhã
+151. Dibm nakahori i dibm ø-naka-hor-i i amanhã 3-decl-ir.pl-fut ele Eles vão amanhã.23 Logo, como a terceira pessoa é neutra para número, não se faz necessária a
+existência de um pronome de terceira pessoa 'do plural' pois a forma i serve tanto para a referência de entidades singulares como plurais.
+2.2.5 Conclusões Embora os pronomes yta, yjxa e ajxa tenham a 'noção' de plural em suas
+denotações, essa noção não é proveniente de um traço [plural] expresso especialmente através de um morfema, mas sim de uma composição estrutural entre os pronomes que vai além de uma simples listagem de participantes.
+23 Em Karitiana alguns verbos (três registrados) possuem duas raízes verbais: uma para argumentos singulares e outra para argumentos plurais.
+82
+
+Essa análise dos pronomes em Karitiana parece confirmar a hipótese de que os nominais em Karitiana são neutros para número (cf. Müller, Storto e Coutinho-Silva (2006a.b)), embora não via listagem de participantes.
+2.3 i e ta e a ligação em Karitiana
+Esta seção analisa as relações de ligação (e correferência) entre argumentos nominais na língua Karitiana, e para tal, faremos uso da Binding Theory, inicialmente desenvolvida em Chomsky (1981, 1986) e que vem sofrendo grandes modificações devido aos desafios colocados por dados encontrados através das línguas naturais.
+Binding Theory pode ser definida, grosso modo, como o conjunto de condições envolvidas na co-ocorrência de diferentes tipos de nominais cobertos ou descobertos.
+2.3.1 Background Chomsky (1981) observa certos padrões de comportamentos nos nominais em
+situação de co-ocorrência, e a partir destes padrões observou uma distribuição em três grupos regidos por princípios inter-relacionados. No caso, os nominais são distribuídos da seguinte maneira:
+(i)Anáforas (reflexivos e recíprocos): nominais referencialmente dependentes de um antecedente na mesma sentença, com o qual marca traços gramaticais semelhantes, como por exemplo número e/ou gênero. (ii)Pronomes: nominais que precisam ser livres em seus domínios locais e/ou possuir referência disjunta. (iii)Expressões referenciais: nominais que precisam ser livres de ligação.
+83
+
+Esta distribuição de princípios inter-relacionados, resultou nas seguintes generalizações para os nominais nas línguas naturais: Princípio A, Princípio B e Princípio C, respectivamente. Estes Princípios podem ser definidos basicamente da seguinte maneira:
+Princípio A = Uma anáfora precisa estar ligada na sua categoria de governo. Princípio B = Um pronome precisa estar 'livre' na sua categoria de governo. Princípio C = Uma expressão referencial precisa estar livre em qualquer lugar.
+Além dos fatos de co-ocorrência e correferência, podemos perceber um importante papel de mais duas 'condições' as quais são chamadas de c-comando e de domínio. Ao observar o comportamento das anáforas no interior das sentenças, Chomsky (1981) percebeu que havia uma relação assimétrica entre uma anáfora (ligada) e um nominal: estes item possuem certas restrições de posição, ou seja, neste caso uma anáfora sempre precisa ser c-comandada por seu antecedente. Como podemos observar nos esquemas abaixo (140 e 141), c-comandar significa que dentro da teoria X-barra um item α ccomanda um item β quando ocupa posição hierárquica superior e acessível a esse item, Chomsky (1981) define da seguinte maneira:
+
+152. α c-comanda β se e somente se α não é dominado por β e todo sintagma γ que domina α também domina β.
+
+153. XP
+
+ty
+
+γ
+
+α
+
+ty β
+
+141.
+
+XP
+
+ty
+
+γ
+
+X'
+
+ty αβ
+
+84
+
+Se observarmos os exemplos abaixo, podemos constatar uma distribuição
+
+complementar entre o pronome i e a anáfora ta, pois em um dado domínio apresentado nas
+
+sentenças abaixo (154), o pronome não pode estar ligado a nenhuma expressão referencial
+
+(pelo menos não dentro de um determinado ambiente), enquanto a anáfora deve estar
+
+necessariamente ligada a um antecedente, exemplo (155) (cf. Princípios A e B da teoria de
+
+Binding):
+
+154. Taso naokyt iota
+
+taso1
+
+ø-na-oky-t
+
+i*1/2-ota
+
+homem 3-decl-matar-nfut 3-amigo
+
+‘[O homem]i machucou seu(s) *i /j amigo(s)’
+
+(o homem machucou o(s) amigo(s) dele(s) – de outra pessoa) (Storto, 2007)
+
+155. Taso naokyt taota
+
+Taso1 ø-na-oky-t
+
+ta1/*2-ota
+
+homem 3-decl-matar-nfut 3anaf-amigo
+
+‘[O homem]i machucou seu(s) i /*j amigo(s)’
+
+(o homem machucou seu(s) próprio(s) amigo(s)) (Storto, 2007)
+
+Apresentando os dados acima, podemos concluir que i e ta estão em distribuição complementar, o primeiro regido pelo Princípio B da teoria de binding e o segundo pelo Princípio A. Porém, como observado em Storto (1999), a língua Karitiana permite um grande leque de possibilidades de ordens de seus constituintes nas sentenças sem alteração (substancial) de seu significado ou efeito de gramaticalidade. Dessa forma, a sentença em (155) pode ser realizada com as seguintes ordens de seus constituintes:
+
+156. a) OVS: Taota naokyt taso b) VOS: Naokyt taota taso c) VSO: Naokyt taso taota (Storto, 2007)
+85
+
+Storto (2007) diz que não há ambigüidade sobre quem é o sujeito e quem é o objeto quando o ta ocorre nas sentenças principais já que o antecedente hierárquico é sempre o sujeito e a anáfora ocorre apenas em posição de objeto. Em (144c) parece não haver problema para a teoria de binding, pois a anáfora ta ocupa uma posição hierárquica mais baixa do que a expressão referencial taso 'homem' com a qual co-refere e assim, sob seu comando e por outro lado, taso se configura como acessível para a anáfora. Porém, como podemos explicar a gramaticalidade de (144a) e (144b)?
+
+Embora os exemplos (156a) e (156b) pareçam ir de encontro às definições de c-
+
+comando dada em X acima, podemos partir da observação de Storto (2007) de a anáfora ta
+
+só ocorre na posição objeto, o que sugere que as relações e condições necessárias para
+
+ligação de pronominais em Karitiana se realizam em um estágio anterior aos movimentos
+
+em (156), ou seja, os exemplos de (154) até (156) possuem invariavelmente a seguinte
+
+estrutura profunda:
+
+157.
+
+CP
+
+rp
+
+SPEC
+
+C'
+
+ro
+
+C
+
+IP
+
+g
+
+g
+
+na-
+
+I'
+
+ru
+
+VP
+
+I
+
+ri g
+
+V'
+
+NP -t
+
+ri
+
+4
+
+NP
+
+V° taso1
+
+g
+
+g
+
+ta1-ota
+
+-oky-
+
+Assim, movimentos associados a leituras específicas, como posições de tópico e
+
+86
+
+foco (ou diferentes escopos) resultam nas seguintes estruturas superficiais:
+
+158. SVO: OVS: VOS: VSO:
+
+[CP TasoS [C' naokytV [IP [VP [V' ta1-ota tV] tS1] tV]]] [CP Ta-otaS [C' naokyt [IP [VP [V' tO1 tV] taso1]tV]]] (foco no objeto) [CP [C' NaokytV [IP [VP [V' ta1ota tV] taso1] tV]]] [CP [C' Naokyt [IP taso [VP [V' ta1ota tV]tS1]tV]]]
+
+Como podemos ver, se o controle e a ligação dos pronominais são checados em estrutura profunda, o c-comando é pertinente as posições estruturais onde os itens foram gerados.
+
+2.3.3 Reflexivos de longa distância e orientação
+
+Além de simples pronome e anáfora, i e ta, respectivamente, parecem exercerem a função de reflexivos de longa distância. Em algumas línguas a Teoria de Binding encontrou problemas para definir o domínio de ligação entre pronominais e seus antecedentes. É o caso de línguas que possuem os chamados reflexivos de longa distância. Esses reflexivos tanto podem se comportar como típicos reflexivos se ligando em um dado domínio, quanto podem buscar o seu co-referente fora deste domínio, contrariando o princípio A da Teoria de Binding.
+A anáfora ta em Karitiana possui essa característica, pois como podemos ver, ela aparece em uma sentença encaixada podendo estar ligada com um NP bem distante (147):
+
+87
+
+159. Taso naokyt job nso opokot taso'oot tykiri
+
+Taso ø-na-oky-t
+
+j)onso
+
+homem2 3-decl-matar-nfut mulher1
+
+opok-ot inimigo- obl
+
+'O homem matou a mulher quando ele viu o inimigo'
+
+ta-so’oot tykiri 3anaf*1/2-ver quando
+(Storto, 2007)
+
+Como podemos observar no exemplo (159) acima, a ligação do ta cruza um NP imediato (o objeto da principal) e tem como correferência o NP sujeito da sentença principal. Dada esta ligação com o sujeito, extrapolando a 'barreira' do NP imediado, é possível que ta em Karitiana, além de reflexivo, seja um reflexivo de longa distância.
+Uma característica muito comum nos reflexivos de longa distância é a presença de orientação na ligação, atestado no exemplo em (159).
+
+2.3.4 Anáfora orientada para o sujeito Um parâmetro comum nas línguas, que vem sendo atestado na Teoria de Binding é
+a orientação de alguns pronomes para determinados itens na sentença. Três tipo de orientação são bem conhecidas da literatura: a orientação para o sujeito, a orientação para o anti-sujeito e a logoforicidade (cf. Büring 2005).
+Esse padrão nos sugere que ta, além das funções de anáfora, também possui a função de reflexivo de longa distância, o qual tem como orientação o sujeito da sentença. Nos casos em que ta é um reflexivo de longa distância, ele não possui indexação com um determinado item, neste caso, ta parece ser uma variável com uma informação de restrição de referencialidade – no caso, a de correferência com um sujeito.
+Para os exemplos (161) e (162), em que a anáfora parece não se comportar como o esperado, ligando-se com o objeto, é importante lembrar que nestas sentenças, temos presente um morfema causativo, o que sugere '2 agentes' na sentença: o agente causador e o agente propriamente dito, que no caso, é o objeto:
+88
+
+161. Tagok jo{ nso amang tuki'oot nampa'irat João Marcelo
+
+[ta1/2/3-gok
+
+jo{ nso1 amang
+
+3anaf-macaxeira mulher plantar
+
+tyki’oot] ø-na-m-pa'ira-t
+
+João2 Marcelo3
+
+enquanto 3-decl-caus-aborrecer-nfut J.
+
+M.
+
+Enquanto a mulher estava plantando a macaxeira (dela, do João ou do Marcelo), Marcelo fez João
+
+ficar bravo (Storto, 2007)
+
+162. Tati õwã okoot tuki'oot nampa'irat João Marcelo
+
+[ta1/2/3-ti
+
+õwã1
+
+okoot tyki’oot]
+
+3anaf-mãe criança morder enquanto
+
+ø-na-m-pa’ira-t
+
+João2 Marcelo3
+
+3-decl-caus-embravecer-nfut J.
+
+M.
+
+Enquanto a criança mordia a mãe (dela, do João ou do Marcelo), o Marcelo fazia o João ficar bravo
+
+(Storto, 2007)
+
+Dessa maneira a sentença (161) se traduziria por algo do tipo: “O Marcelo fez o João embravecer” . Dessa maneira, este caso especial em que objetos de verbos com o morfema causativo podem se ligar ao reflexivo não parece ser um contra-exemplo para o ta ser analisado como um reflexivo de longa distância orientado para o sujeito.
+Como podemos observar, a anáfora de terceira pessoa ta segue um padrão de posições que conseguem 'buscar' referência. A partir dos exemplos de (158) até (162), onde são analisadas as posições ocupadas pelo ta - em construções possessivas e como argumento e suas possíveis ligações – podemos ressaltar três pontos acerca do comportamento da anáfora ta:
+(i) a anáfora ta está em algum tipo de distribuição complementar com o pronome i (pelo menos no que diz respeito a possibilidade de referência fora do discurso) e
+(ii) parece existir uma ordem estrutural, na qual a anáfora só pode localizar a referência em itens que estão hierarquicamente mais altos que ela:
+
+163. Suj. da Principal – Obj. da Principal – Suj. da subordinada – Obj. da subordinada.
+
+[+
+
+Hierarquia
+
+-]
+
+89
+
+(iii) O item que liga o ta deve ser sujeito (do ponto de vista sintático) ou agente (do ponto de vista semântico).
+Considerando as características listadas acima, podemos definir duas explicações para o comportamento desta anáfora: (i) a ligação estar baseada nos princípios da Teoria de Binding, porém a acessibilidade e o controle são checados na estrutura profunda, e não na Superficial, pois são possíveis diferentes ordens superficiais para as sentenças, como apontado em (156) e (ii) analisar o ta como uma anáfora de longa distância voltada para o sujeito.
+
+2.3.5 Uma anáfora orientada para o anti-sujeito?
+
+Em Karitiana, há um fato interessante, em estruturas possessivas há uma
+
+distribuição entre o uso de ta e i como possuidor. Vejamos:
+
+164. João nakahit tati õwãty
+
+João1 João
+
+ø-naka-hi-t
+
+ta1/*2-ti
+
+õwã2-ty
+
+3-decl-dar-nfut 3anaf-mãe criança-obl
+
+'João deu a criança para a mãe dele (mãe do João)'.
+
+165. João nakahit iti õwãty
+
+João1 João
+
+ø-naka-hi-t
+
+i*1/2-ti
+
+3-decl-dar-nfut 3-mãe
+
+õwã2 -ty criança-obl
+
+'João deu o menino para a mãe dele (mãe do menino)'.
+
+166. Taota atakahit Mariaty João
+
+ta1/*2-ota
+
+a-taka-hi-t
+
+Maria2-ty
+
+3anf-amigo ?-decl-dar-nfut Maria-obl
+
+João1 João
+
+João deu [em casamento] a Maria para o amigo dele/*dela
+
+90
+
+167. Iota atakahit Mariaty João
+
+i*1/2/3-ota 3-amigo
+
+a-taka-hi-nfut Maria2-ty ?-decl-dar-nfut Maria-obl
+
+João1 João
+
+João deu [em casamento] a Maria para o amigo dela/*dele
+
+Enquanto o ta possui orientação para o sujeito, podemos observar que o item i,
+
+parece também poder ser usado como anáfora, e neste caso ele possui orientação para o
+
+anti-sujeito. Karitiana possui duas anáforas?
+
+Embora, esse i pareça estar se ligando como uma anáfora, é importante lembrar que
+
+Karitiana não possui Concordância do tipo construído na relação Spec X Núcleo de Agr e,
+
+sendo assim, as relações de ligação nesta língua acontecem na estrutura profunda, antes de
+
+qualquer movimento, e assim, o domínio local é definido, tendo como fronteira o Sujeito:
+
+168. (cf. 166).
+
+IP
+
+g
+
+I'
+
+ru
+
+VP
+
+I
+
+ri g
+
+V'
+
+NP [fronteira do domínio]
+
+ri
+
+g
+
+NP
+
+V° João1
+
+g
+
+g
+
+ta1-ota
+
+Se o Domínio local é definido dessa maneira, qualquer NP (não sujeito) que ccomande i fora dessa fronteira, pode estar ligado com ele:
+
+91
+
+169. (cf. 167)
+
+IP
+
+g
+
+I'
+
+ru
+
+VP
+
+I
+
+ei
+
+VP
+
+PP
+
+ri 5
+
+V'
+
+NP Maria2-ty
+
+ri
+
+g
+
+NP
+
+V° taso1
+
+g
+
+g
+
+I2-ota
+
+Embora esse i pareça estar em distribuição complementar com o ta, na verdade não passa de um pronome, regido pelo princípio B.
+
+2.3.6 i e Ta: pronomes relativos?
+
+Além de anáfora e pronome (obedecendo ao princípio A e B, respectivamente, da
+
+Teoria de Binding) e de reflexivo de longa distância (ta) – orientado para o sujeito –, ta e i
+
+aparecem em um terceiro contexto já apontado anteriormente: as estruturas relativas
+
+Maximadoras . Vejamos os exemplos (170) e (171)abaixo:
+
+170. [Taakatyym]6 nasoko'i)t eremby taso t6
+
+ta1-akatyym na-soko'i-t
+
+eremby taso1
+
+eles-todos decl-amarrar-nfut rede
+
+homem
+
+'Todos os homens amarraram a rede'
+
+92
+
+171. [Iakatyym]7 nasoko'i)t eremby t7 taso
+
+i2-akatyym na-soko'i-t
+
+eremby2 taso
+
+elas-todas24 decl-amarrar-nfut rede
+
+homem
+
+'Os homens amarraram toda(s) a(s) rede(s)'
+
+A primeira vista, parece razoável analisar estes itens como pronomes ocupando o que seria a posição de um pronome relativo tipo Wh-, porém como apontam os exemplos abaixo, podemos constatar a existência de pronomes Wh- (morã ou morãmon) diferentes de i e ta, e além disso, podemos observar que em relativas livres o que temos como elemento relativo é o próprio pronome Wh-, vejamos:
+
+172. Ypyso’oot hãraj)an morã João so’oot hãraj)amty
+y-py-so'oo-t hãrajan morã João so'oot hãrajamty 1-assert-gostar-nfut ? Wh- João Gostar-obl
+'Eu gosto de que/quem o João gosta'
+
+173. *Ypyso’oot hãraj)an i/ta João so’oot hãraj)amty
+
+y-py-so'oot hãrajan i/ta
+
+João so'oot hãrajamty
+
+1-assert-gostar- nfut 3/3anf João gostar-obl
+
+'Eu gosto de que/quem o João gosta'
+
+Assim, acreditamos que a hipótese mais interessante para a descrição do ta e do i
+das sentenças maximadoras nos exemplos (170) e (171), é a de que eles são traços que
+podem ou não ser ativados, e a sua ativação está vinculada com a necessidade de marcação
+da origem da geração do item akatyym, a fim de não gerar ambigüidades acerca de com
+qual item esta relativa está operando. Quanto a escolha de ta ou i no preenchimento
+fonológico é o resultado da combinação da orientação destes itens, sujeito e anti-sujeito,
+respectivamente, com a posição estrutural e o papel temático recebido pelo NP dominante
+24 Em Karitiana não há concordância de gênero, e esse recurso foi utilizado na glosa como meio de reforçar a ligação entre o argumento interno do verbo (eremby 'rede') e o iakatyym. Essa ligação é estabelecida pela forma 'i' que possui direcionamento para o anti-sujeito, como será esmiuçado mais adiante.
+93
+
+e sua relativa. Dessa maneira, o fato do NP dominante ocupar a posição de sujeito (recebendo o papel de agente) a forma i é bloqueada, cabendo apenas a forma ta (compatível com sujeitos) preencher esta posição. O mesmo acontece com com um NP numa posição de não sujeito, apenas compatível com a forma i. 2.3.7 Conclusões
+Embora em Karitiana várias ordens de palavras sejam possíveis, a Teoria de Binding é atestável, tendo em conta que a indexação, o c-comando e a 'definição' de domínio são resolvidos em Estrutura Profunda (OVS ou SOV, de acordo com Storto, 1999), permitindo que na Estrutura Superficial (SVO, OVS, VOS e VSO)as sentenças apresentem ordens que aparentemente não satisfazem aos princípios esperados.
+O pronome ta em Karitiana funciona tanto como uma anáfora simples, quanto como um reflexivo de longa distância; nas relativas Maximadoras, o i e o ta que aparecem são traços ativados, ligados com o NP movido para o NP dominante (em cadeia, na estrutura profunda da sentença).
+94
+
+3.1 Considerações Finais
+Como foi mostrado, NP+akatyym tem uma morfossintaxe que sugere se tratar de uma sentença relativa, ao invés de um canônico Quantificador-D. Sua leitura de Universalidade é uma característica encontrada em sentenças Relativas nas línguas naturais como aponta de Vries (2002). O NP relativo é sempre gerado internamente a AspP, mas sofre necessariamente movimento para Spec de AspP e possivelmente para fora da relativa, embora sua interpretação semântica sempre aconteça dentro da relativa (cf. Grosu & Landman, 1998).
+Karitiana não possui pronomes demonstrativos, mas no lugar destes possui uma estratégia sentencial – o uso de relativas - para gerar o 'efeito demostrativo' com as características apontadas por Büring (2007) para itens deste tipo.
+Embora os pronomes (yta, yjxa e ajxa) tenham a 'noção' de plural em suas denotações, esta noção não é proveniente de um traço [plural] – um morfema –, mas sim de uma composição estrutural entre os pronomes que vai além de uma simples listagem de participantes.
+Por fim, apontamos que a não existência de um item lexical específico para a quantificação Universal nominal, de pronomes demonstrativos e de uma efetiva morfologia de número nos pronomes pessoais corroboram a hipótese de não existência da categorial funcional DP nos nominais em Karitiana proposta por Müller, Storto & Coutinho-Silva (2006a,b).
+95
+
+4. Referências Bibliográficas
+AJÍBÓYÈ, O. J. (2005) “Topics in Yorùbá Nominal Expressions” Phd Thesis. The University Of British Columbia. November.
+BACH, E.,JELINEK, e., KRATZER, A. & PARTEE, B. (1995) “Introduction”Quantification in Natural Languages. Netherlands: Kluwer,1-11.
+BERNSTEIN, J. (2001) "The DP Hypothesis: Identifying Clausal Properties in the Nominal Domain". In M.R. Baltin & C. Collins (eds), The Handbook of Contemporary Syntactic Theory: 536-561
+BITNER, Maria. (1995) “Quantification in Eskimo: A Challenge for Compositional SEmantics”In: Kratzer & Partee et al.(eds.), Quantification in Natural Languages. Netherlands: Kluwer,59-80..
+BÜRING, Daniel. (2005) “Binding Theory” Cambridge Textbooks in Linguistics. Cambridge.
+BÜRING,Daniel.(2007)“Pronouns”http://semanticsarchive.net/Archive/Dg4YzMwY/burin g.HSK.pronouns.07.pdf. Acessado dia 02/06/2007.
+CHIERCHIA, G. (1998) “Reference to kinds across languages”. Natural Language Semantics n. 6, p. 339-405.
+CHIERCHIA, G. (2003) “Semântica”. Campinas: Ed. da UNICAMP; Londrina: EDUEL.
+CHUNG, S. (2000) “On reference to kinds in Indonesian”. Natural Language Semantics, n. 8, p. 157-171.
+COUTINHO-SILVA, Thiago. (2005) “Singular X Plural em Karitiana”. In: 53º Seminário de Gel, 2005, São Carlos. Resumos do 53º Seminário do GEL, 2005. v. 1. p. 572-573.
+COUTINHO-SILVA, Thiago. (2007) “A geometria de traços nos pronomes pessoais em karitiana” In:V Congresso Internacional da Abralin, Belo Horizonte, MG.
+COUTINHO-SILVA, Thiago. ; STORTO, L.(2005) . “O Sintagma Nominal em Karitiana”. In: 13º Simpósio Internacional de Iniciação Científica USP/CNPq, 2005, São Paulo. 2005 13º Simpósio Internacional de Iniciação Científica USP. v. 13º.
+de VRIES, Mark. (2002) "The Syntax of Relativization". Netherlands:LOT.
+GIL, David. (1987). “Definiteness, Noun Phrase Configurationality, and the Coutn-Mass Distiction”. in: REULAND, E. J. & ter MEULER. A. The represatation of (in)definiteness. Cambridge, Massachussets; London, England: The MIT Press. P.254-269.
+GROSU, Alexander & LANDMAN, Fred. (1998) "Strange Relatives of Third Kind". In: Natural Languages Semantics 6: Netherlands, 125-170.
+96
+
+HAEGEMAN, L. (1994) "Introduction to Government an Binding Theory" (2ª edição).
+
+HARBERT, Wayne. (1995) "Binding Theory, Control and pro" In: Government and binding theory and the minimalist program : principles and parameters in syntactic theory. ed.Gert Webelhuth. Oxford, UK; Cambridge, Mass. : Blackwell, 179-234.
+
+HANSON, Rebecca, Heidi HARLEY e Elizabeth RITTER. (2000). "Underspecification and Universal Defaults for person and number features". In: Proceedings of the Canadian Lingusitics Association,UofTWPL.
+
+HARLEY, Heidi (1994). "Hug a Tree: Deriving the Morpho-syntactic Feature Hierarchy." MIT Working Papers in Linguistics 21: 289-320.
+
+HARLEY, Heidi e Elizabeth RITTER (1998) “Meaning in morphology: A featuregeometric analysis of person and number”.GLOW 20, Tilburg, The Netherlands.
+
+HARLEY, Heidi e Elizabeth RITTER (2002). "Structuring the Bundle: a universal Morphosyntactic feature geometry". In H. Weise and H. Simon, eds., Pronouns, Elsevier Press.
+
+HARLEY, Heidi, and Rolf NOYER (1999). "State-of-the-Article: Distributed Morphology." Glot 4.4: 3-9.
+
+HARLEY, Heidi e Elizabeth RITTER (2002). "Person and Number in Pronouns: a FeatureGeometric Analysis". In: Language 78 (3):482-526.
+
+EVANS, Gareth. (1980) "Pronouns". Linguistic Inquiry,Vol.11, number 2, 337-362.
+
+EVANS, Nick. (1995) “A-Quantifiers and Scope in Mayali” In: Kratzer & Partee et al. (eds.), Quantification in Natural Languages. Netherlands: Kluwer, 207-270.
+
+JELINEK, Eloise. (1995) "Quantification in Straits Salish". In: Kratzer & Partee et al. (eds.), Quantification in Natural Languages. Netherlands: Kluwer, 487-540.
+
+KRATZER, Angelika. “The Event Argument and the Semantics of Verbs”. Dezembro de
+
+2002.
+
+(manuscritos
+
+do
+
+Capítulos
+
+1,
+
+2,
+
+3
+
+e
+
+4.)
+
+http://semanticsarchive.net/Archive/GU1NWM4Z/ (acessado dia 21/05/2006).
+
+MÜLLER, A.P. (2001) “Genericity and the denotation of common nouns in Brazilian Portuguese”. In: WEERLE, Adam; KIM, Ji-Young (Ed.). The semantics of underrepresented languages in the Americas, UMOP. Amherst, MA: GLSA, The University of Massachusetts.. p. 72-80.
+MÜLLER, A.P., STORTO, L. & COUTINHO, T. (2006a). “Number and the Count-Mass
+
+97
+
+Distinction in Karitiana”. WSCLA Proceedings 11. Vancouver, Canada. Pgs. 122-135. MÜLLER, A.P., STORTO, L. & COUTINHO, T. (2006b). Número e a Distinção ContávelMassivo em Karitiana. Revista da ABRALIN, vol. V, números 1 e 2. Pgs. 185-213. RAPOSO, Eduardo. (1992) "Teoria da Gramática. A faculdade da Linguagem". Caminho, Coleção Universitária, Lisboa. SANCHEZ-MENDES, L. (2005) “Variação semântica: pluracionalidade e quantificação”. Trabalho apresentado no Simpósio de Iniciação Científica da USP – SICUSP, USP, São Paulo. SANCHEZ-MENDES, L. (2007). “Quantificação Adverbial em Karitiana” Trabalho apresentado na ABRALIN 2007. Belo Horizonte. STORTO, L. (1999) “Aspects of Karitiana grammar”. Massachussetts Institute of Technology. (tese de doutorado). STORTO, L. (2003). “Interactions between verb-movement and agreement in Karitiana” (Tupi Stock). Revista Letras 60, 411-433. STORTO, L. 2007 “Um argumento de terceira pessoa não especificado para número” (manuscrito). VIEIRA, M. D. (1995) “The Expression of Quantificational notions in Asurini do Trocará: Evidence Agaisnt The Universality of Determiner Quantification” In: Kratzer & Partee et al. (eds.), Quantification in Natural Languages. Netherlands: Kluwer, 701-720.. WILHELM, A. (2005) “Bare Nouns in Dëne Suliné“. Talk presented at SULA-3, Buffalo, USA.
+98
+
+

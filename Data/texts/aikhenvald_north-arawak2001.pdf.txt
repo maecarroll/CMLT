@@ -1,0 +1,817 @@
+7
+Areal Diffusion, Genetic Inheritance, and Problems of Subgrouping: A North Arawak Case Study
+Alexandra Y. Aikhenvald
+1. Introduction
+1.1. THE PROBLEM OF LINGUISTIC SUBGROUPINGS
+To establish subgroupings within a language family one needs to recognize 'a set of changes common to a particular subgroup which has occurred between the period of divergences of the family as a whole and that of the subgroup in question' (Greenberg 1953: 49). The shared changes should be significant and fairly unusual, not the sorts of changes that recur all over the world and could well have happened independently in each of the languages (e.g. palatalizing a velar consonant next to a front vowel). Note that the criterial features must be shared innovations. If a number of languages within a given family share retentions from the proto-language this does not require a period of shared development and does not constitute evidence for subgrouping. Shared loss (e.g. loss of a system of possession markers, pronominal suffixes, or tense inflections) is also not a good criterion for subgrouping. What may be significant is the way the loss is replaced; if each of the languages loses tense inflection on verbs but then makes reference to time through an innovated system of auxiliaries (with the auxiliaries being cognate in form) then this shared innovation does provide evidence for their constituting a subgroup.
+If two languages show certain similarities one must decide whether these are
+I am grateful to all my teachers of the Arawak languages—Candido, Graciliano, Olivia, lovino, and lose Brito (Tariana); Humberto Baltazar and Pedro Angelo Tomas (Warekena); the late Candelario da Silva (Bare); Afonso, Albino, and loao Fontes, Celestino da Silva and Cecilia and Laureano da Silva, lanuario Paiva and the late Mardlia Rodrigues (Baniwa); and to Raimunda Palikur (Palikur). Special thanks go to R. M. W. Dixon, to Silvana and Valteir Martins, to Elias and Lenita Coelho, and to Diana and Harold Green.
+
+168 Alexandra Y. Aikhenvald
+due to chance (or to universal tendencies of sound symbolism) or to borrowing in a contact situation, or to genetic inheritance. It is only the last kind of similarity that can provide evidence for subgrouping.
+The kinds of similarities that may provide evidence for subgrouping include sharing a whole series of structural changes—such as a series of phonological shifts, unusual patterns of analogical restructuring, common development of a morphological construction, and especially common morphological and lexical innovations. As Greenberg (1953: 54) pointed out, 'the mere counting of the number of cognates shared, without attention to morphological or phonological evidence and without consideration of the general distribution of each form for its bearing on the question of innovation, is a relatively crude method which disregards much relevant evidence'.
+The problem of subgrouping is exceptionally difficult in the context of Amazonian languages, due to frequent migrations and language contacts which resulted in extensive borrowing and grammatical change. The latter means restructuring of grammar in agreement with areally spread patterns, reinterpreting existing morphemes, and introducing new morphology (often by grammaticalizing lexical items).
+The Amazon basin comprises around three hundred languages which include around fifteen language families and a fair number of isolates. Six major linguistic families spoken there are Arawak, Tupi, Carib, Pano, Tucano, and Je; among the most well-known smaller families are Maku, Bora-Witoto, Harakmbet, Arawa, and Guahibo.
+Since all the major language families are highly discontinuous, so that the language map of South America resembles a patchwork quilt where half a dozen colours appear to be interspersed at random, this produces a linguistic situation unlike those found in the other parts of the world, creating unusual and extraordinary difficulties for distinguishing between similarities due to genetic retention and those due to areal diffusion. This poses particular problems for the recognition of subgroups within the major families.
+Languages of Amazonia share a number of structural features, enough to be considered a large linguistic area, which includes several distinct subareas (cf. Payne 1990). Features of the Amazonian' linguistic type are summarized in Aikhenvald and Dixon (1998). Quite a few grammatical phenomena are shared by some but not all Amazonian languages. Among such phenomena are phonological tones, evidentiality, lack of rhotic or lateral phoneme, complex classifier systems, and nominative-accusative patterns. Instead, they can be detected as characteristic of several unrelated languages in certain regions, and can help to establish areal characteristics of each of these. The Amazon can be compared to a set of Chinese boxes of linguistic areas and subareas, included within each other. The distribution of these traits indicates, for instance, that there are sufficient reasons to consider the area covering north-eastern Peru and adjacent regions of Colombia, Brazil, and Venezuela a linguistic 'subarea' (see §4.1 and §4.3). One of
+
+A North Arawak Case Study 169
+the dangers for a student of Amazonian languages lies in a number of shared monosyllabic morphemes spread all over the continent (see Payne 1990), e.g. negative ma or na, oblique case -ri or -li, -ne, possessive -ri, -ni, or -i, subordinate or relative marker -ka, or ka-, valency changing -ta, -ka, -sa, -na, or -ma, etc. For these morphemes, it is hard to determine whether their spread is due to borrowing, genetic affinity, diffusion of any sort, or just coincidence. See Aikhenvald (2002). Shared innovations can often be interpreted as the result of areal diffusion once speakers of a language migrate into a certain linguistic area.
+The main purpose of this chapter is to analyse the problem of subgrouping within the Arawak language family, geographically the most extensive in South America. There is by now hardly any doubt as to the limits of the family, and one can 'easily' discern a smallish archaic 'nucleus' of Proto-Arawak grammar and lexicon (§2). However, individual languages spoken in separate (but often quite close) locations show an amazing degree of structural and formal divergence in the area of grammatical morphemes, even if they share 50%, 60%, or even 70-80% lexicon. The shared morphology hardly goes beyond the archaic 'nucleus' reconstructable for Proto-Arawak. A number of Arawak languages spoken to the north of the Amazon are looked at from this point of view in §3.
+The differences between languages spoken in distinct locations can in many cases be explained by convergence with neighbouring languages that are not genetically related. However, this may happen in different ways partly depending on the sociolinguistic situation and the way languages 'treat' foreign material; in other words, whether they favour actual borrowing or not (cf. Sapir 1921:196-7). The core of this chapter lies in the two case studies in §4 for which §2 and §3 provide a background.
+In §4.1 I discuss restructuring of an Arawak language under areal pressure without lexical borrowing. Tariana, spoken in the linguistic area of the Vaupes basin (on the border between Colombia and Brazil) and known for its obligatory multilingualism due to linguistic exogamy, underwent drastic restructuring under areal pressure from the genetically unrelated Tucano languages. There is a strong cultural inhibition against lexical borrowing which is viewed as 'mixing languages'. Thus, the areal influences involve just the calquing of Tucano patterns.
+In §4.2 I consider a rather different case—that of Resigaro, now spoken in north-eastern Peru. Resigaro has been restructured beyond recognition under pressure from genetically unrelated languages of the Bora-Witoto family, all of whose speakers are bi- or trilingual. There are no inhibitions about any type of borrowing; as a result, loans into Resigaro include 'core' and 'non-core' lexicon, some pronouns, and bound nominal morphology.
+At the same time, Resigaro shares around 60% lexicon with Tariana and with Baniwa, an Arawak language which shares a large number of cognates with Tariana but is spoken outside the Vaupes area. These features can be attributed to the fact that Tariana, Tucano, Baniwa, Bora-Witoto, and Resigaro are all spoken in a larger linguistic area. There are also a number of shared
+
+170 Alexandra Y. Aikhenvald
+innovations between Tariana, Baniwa, and Resigaro which may point to a period of common development. This agrees with the information (albeit scarce) which we have concerning the recent migrations of Resigaro, Bora, Ocaina, and Witoto from Colombia to Peru. It is possible that Tariana, Baniwa, and Resigaro did form a subgroup at one time; however, massive borrowing and areal diffusion from the dominant languages has contributed to 'obscure' the actual subgrouping. In all these cases, we have little, if any, idea about the time depth of language contact; we suspect that the depth of Tariana-Tucano contact must have been fairly shallow.
+The ultimate explanation for this lies in the existence of a limited stock of genetically inherited morphemes, overlaid by vast influxes of areally diffused patterns, due to intensive and prolonged contact with neighbouring languages. A similar case can be made for some other families within the North Amazon, for example, the Maku language family (§5).
+This example from South America shows how massive multilingualism and language contact under distinct sociolinguistic conditions result in different kinds of restructuring of language systems.
+2. The Arawak family
+2.1. GENERAL FACTS ABOUT THE FAMILY
+Languages of the Arawak family are spoken in at least six locations south of the Amazon, and in over eleven locations in the north (see the list of Arawak languages in Aikhenvald i999b). This family spans four countries of Central America—Belize, Honduras, Guatemala, Nicaragua—and eight of South America—Bolivia, Guyana, French Guiana, Suriname, Venezuela, Colombia, Peru, Brazil (and formerly Argentina and Paraguay). There are about forty living Arawak languages. The genetic unity of Arawak languages was first recognized by Father Gilij in 1783, three years before Sir William Jones's famous statement about Indo-European (see Aikhenvald i999b for further details). The recognition of the family was based on a comparison of pronominal cross-referencing prefixes in Maipure, a now extinct language from the Orinoco Valley, and Moxo from Bolivia. Gilij named the family Maipure. Later, it was 'renamed' Arawak by Brinton (1892) after one of the most important languages of the family, Arawak (or Lokono), spoken in the Guianas. This name gained wide acceptance during the following decades (see Aikhenvald i999b). The limits of the family were established by the early twentieth century.
+Comparative and historical studies of the Arawak family have a long history. The first truly scientific reconstruction of Proto-Arawak phonology—over two hundred lexical items and a few grammatical morphemes—was published by Payne (1991). However, his tentative subgrouping of Arawak languages—which is based on lexical retentions, rather than on innovations—remains open to debate.
+
+A North Arawak Case Study 171
+Reconstruction, internal classification, and subgrouping of Arawak languages are still a matter for discussion.1
+2.2. WHAT WE KNOW ABOUT PROTO-ARAWAK
+There is a common Arawak morphological nucleus shared by all or almost all languages. See §2.2.1. Common Arawak lexicon is discussed in §2.2.2.
+Arawak nouns preserve more common Arawak categories than do verbs. In most cases, nouns are also simpler than verbs, and more nouns than verbs can be reconstructed for the proto-language.
+In reconstructing Proto-Arawak morphology and lexicon, it is difficult to go beyond the common 'nucleus' outlined here since most other categories differ greatly in their realization and in their meaning.
+2.2.1. Common Arawak grammar
+All Arawak languages are predominantly head-marking, polysynthetic to varying extents, and predominantly agglutinating, with some fusion. There are no case markers for core syntactic functions (but see §4.1 and Aikhenvald i999b). They are mostly suffixing with only a few prefixes. Prefixes are rather uniform across the family, while suffixes are not. Free morphemes often get grammaticalized as bound morphemes (e.g. adpositions become applicative markers, and verbal roots become aspect markers; see Aikhenvald i999b). This creates difficulties for reconstructing morphology.
+Arawak languages south of the Amazon ('South Arawak') have amore complex predicate structure than those north of the Amazon ('North Arawak') (see Aikhenvald i999b). This difference may be due to areal diffusion since most Arawak and non-Arawak languages of south Amazonia are more polysynthetic than those in the north.
+The common Arawak archaic 'nucleus' consists of (a) cross-referencing affixes and personal pronouns, (b) gender, (c) number, (d) possession markers on nouns, (e) attribution and negation. There is also one shared suppletive form (see f). Other categories show different marking (see discussion in Aikhenvald i999b).
+(a) CROSS-REFERENCING AFFIXES. Cross-referencing affixes are cognate across the family—see Table i, and Aikhenvald (i999b: 88). All the verbs are divided into transitive, active intransitive, and stative intransitive. Suffixes or enclitics are used to cross reference O/SQ. Prefixes are used for cross-referencingA/Sa and possessor (unlike Tupi and Carib languages where the possessor is the
+1 The putative studies of Arawakan' by Matteson (1972), Noble (1965), Oliver (1989), and others are deeply flawed. Unfortunately, these have been adopted as the standard reference for the classification of Arawak languages, especially among anthropologists, archaeologists and geneticists, influencing ideas on a putative proto-home and migration routes for 'Proto-Arawakan' (cf. Tovar and de Tovar 1984).
+
+172 Alexandra Y. Aikhenvald
+
+TABLE i. A/Sa/possessor prefixes and O/S0 suffixes/enclitics
+
+prefixes
+
+suffixes
+
+person
+i
+2
+3nf 3f 'impersonal' dummy O/SQ non-focused A/Sa
+
+«g
+
+Pi
+
+nu- or to- wa-
+
+(P)i-
+
+(h)i-
+
+n-, i-
+
+na-
+
+thu-, ru-
+
+na-
+
+pa-
+
+-
+
+-
+
+-
+
+i- /(a-?)
+
+-
+
+«g
+
+Pi
+
+-na, -te
+
+-wa
+
+-pi
+
+-hi
+
+-n, -i
+
+-na
+
+-thu, -ru, -u
+
+-na
+
+-
+
+-
+
+-ni
+
+-
+
+-
+
+-
+
+same as O/S0). The Proto-Arawak morphological split-ergativity marked with cross-referencing affixes involves the following:
+A = Sa—cross-referencing prefixes
+O = S0—cross-referencing suffixes or enclitics
+The form of the first person pronoun nu- vs. to.- provides a division of languages into Ta-Arawak in the Caribbean (Lokono, Guajiro, Anun, Taino) and the rest (known as Nu-Arawak).
+A four-person system can be reconstructed for Proto-Arawak. A prefix for non-focused or indefinite possessor and A/Sa is found mostly in the languages north of the Amazon, e.g. Palikur i-wan-ti (iNDF-arm-NPOSs) 'an arm', i-nar-ti 'a mother' (Green and Green 1972: 52), Baniwa i-hwida-Ji 'a head'. However, the prefix i- may well be a shared archaism rather than an innovation (cf. the nominalizing prefix i- in Waura, spoken south of the Amazon in Xingu park). Exclusive/inclusive is atypical (see §4.2, on Resigaro).
+(b) GENDER. Most Arawak languages distinguish two genders—masculine and feminine—in cross-referencing affixes, in personal pronouns, in demonstratives, and in nominalizations (e.g. Palikur amepi-yo 'thief (woman), amepiye 'thief (man)', Tariana nu-phe-ri 'my elder brother', nu-phe-m 'my elder sister'). Typical pronominal genders are feminine and non-feminine. No genders are distinguished in the plural. The markers go back to ProtoArawak third person singular cross-referencing: feminine -(r)u, masculine -(r)i (see Aikhenvald i999b: 83-4 for further details). A number of languages also have complicated systems of classifiers (Aikhenvald i994c). Unlike genders, these show great diversity from one language to another in semantics and form and appear to have developed on the level of individual languages.
+
+A North Arawak Case Study 173
+(c) NUMBER. All Arawak languages distinguish singular and plural; plural is optional (unless the referent is human), with the markers: *-na/-ni 'animate/human plural', *-pe 'inanimate/animate non-human plural'.
+(d) POSSESSION. Nouns divide into inalienably and alienably possessed. Inalienably possessed nouns include body parts, kinship nouns, and a few other nouns, e.g. house, louse. In some North Arawak languages deverbal nominalizations belong to this class. Both types of possession are marked with prefixes (A/Sa). INALIENABLY POSSESSED NOUNS have an 'unpossessed' form (called 'absolute' by Payne 1991: 379) marked with the suffix *-tfi or *-hV, e.g. Pareci no-tiho 'my face', tiho-ti '(someone's) face' (Rowan and Burgess 1979: 79); Baniwa nu-hwida 'my head', i-hwida-Ji (iNDF-head-NPOSs) 'someone's head'. ALIENABLY POSSESSED NOUNS take one of the suffixes *-ne/ni, *-te, *-re, *-i/-e (Payne 1991: 378), or *-na. These suffixes are also used as nominalizers.
+(e) ATTRIBUTION AND NEGATION. Most Arawak languages have a negative prefix ma- and an attributive-relative prefix ka-, e.g. Piro ka-yhi (ATTR-tooth) 'having teeth', ma-yhi (NEG-tooth) 'toothless' (Matteson 1965: 119), Bare kawiti-w (ATTR-eye-F) 'a woman with good eyes', ma-witi-w 'a woman with bad eyes, blind'.
+(f) SHARED IRREGULAR FORMS OF THE NOUN'HOUSE'. Most Arawaklanguages show irregular alternations between cognate non-possessed and possessed forms of the word 'house'. These are either (i) different stems: *pe 'house: non-possessed' (either with a non-possessed marker *-tfi, or without it), *pana/i 'house: possessed' (Payne 1991: 408), as in Waurapai, -pina, Palikur pai-t, gi-vin (his-house); or (ii) vowel alternations: *pan(i) 'non-possessed', *-pana 'house of, as in Warekena pani-fi, pane, Bare phani, -bana, Baniwa pan-Ji, -pana, Tariana pani-si, -pana, Resigaro panii-tsi, -paanu/ paana and others.
+2.2.2. Common Arawak lexicon
+The common Arawak lexicon (cf. Payne 1991) includes mostly nouns. There are quite a few body parts, fauna, flora, and artefacts, e.g. *maka 'hammock', frequently grammaticalized as a classifier for stretched things (borrowed into many European languages as a word for 'hammock'). Only a few verbs can be reconstructed since most verb roots are monosyllabic and have undergone numerous phonological changes, e.g. *kau 'arrive' (Payne 1991: 394), *pi(da) 'sweep', *po 'give', or *da 'give' (the latter could have given rise to Tariana, Baniwa, Piapoco -a 'give, say, go'). The reliable disyllabic verbal reconstructions are *(i)ya 'cry', *kama 'be sick, die', *itha 'drink', *ara 'fly', *kema 'hear, understand', *kiba 'wash', *nika 'eat', *dima 'stand' (and possibly *kika 'dig'). In the history of individual languages a thematic syllable (often of the same origin as a valency changing affix) is often added to a monosyllabic root and gets fused with it, obscuring
+
+174 Alexandra Y. Aikhenvald
+the reconstruction. Most languages have just the numbers 'one' (PAr *pa-; also used to mean 'someone, another') and 'two' (PAr *(a)pi and *yama: Payne 1991).
+Lexical items reconstructable as synonyms are scattered within the family; they can hardly give any information as to subgrouping. For instance, two terms for 'fish' can be reconstructed for Proto-Arawak: *kopaki is found in Terena, Waura, Yawalapiti, and Pareci south of the Amazon and in Baniwa, Tariana, Achagua, Piapoco, and Wapishana north of the Amazon, while *hima is found in Chamicuro, Campa, and Ignaciano south of the Amazon, and in Lokono, Guajiro, Palikur, and Yavitero north of the Amazon. The term *(a)pi 'two' is found in Ignaciano, Moxo, Campa, and Aputina south of the Amazon, and in Palikur, Yavitero, Piapoco, and Bare north of the Amazon, while the other term for 'two', *yama, is found in Waura and Yawalapiti south of the Amazon, and in Achagua, Yucuna, Tariana and Baniwa north of the Amazon.
+3. Arawak languages north of the Amazon: grammatical and lexical comparisons
+Arawak languages spoken in eleven distinct locations in northern Amazonia (see Map 2 in Aikhenvald 19993) are: Wapishana, Palikur, Achagua, Piapoco, Yucuna, Baniwa, Tariana, Warekena, Bare, Bahwana, and Resigaro.
+Table 2 shows shared vocabulary percentages between these languages, as well as vocabulary shared with Guajiro (spoken on the Guajiro Peninsula on the
+TABLE 2. Shared vocabulary percentages
+Tariana 77-80 Baniwa 55 52-6 Resigaro 56 53 48 Piapoco 43 50 45 47 Yucuna 53 53 39 72 43 Achagua 41 41 27 30 30 28 Bare 32 36 26 25 25 24 36 Warekena 33 32 35 30 36 29 39 39 Bahwana 33 30 26 30 30 25 29 22 33 Palikur 35 35 34 32 24 30 35 29 31 43 Wapishana
+28 27 25 25 30 25 33 31 33 34 30 Pareci 22 23 20 22 21 2O 22 17 21 30 23 25 Ignaciano 30 26 20 26 17 24 22 25 29 34 24 3i 29 Inapari
+25 23 21 2O 25 23 29 24 23 23 24 20 16 17 Guajiro
+*Baniwa of Icana (also known as Baniwa-Kurripako) is a dialect continuum. All the dialects are mutually intelligible and share 90-95% vocabulary and most grammar; the figures in Table 2 reflect the average number of cognates. The closest dialect to Tariana is that of Hohodene.
+
+A North Arawak Case Study 175
+Caribbean coast) and with three languages spoken in southern Amazonia— Pared, Inapari, and Ignaciano. These percentages were calculated on the basis of Swadesh's hundred-word list, as well as a standardized list of 375 words used by the Summer Institute of Linguistics (see Huber and Reed 1992, Allin 1975, and Aschmann 1993). The results obtained were basically the same, thus indicating that the 'core' vs. 'non-core' vocabulary distinction is not crucial for Arawak languages (cf. similar results for Australian languages: Dixon, this volume, and for Papuan languages: Comrie, p.c.). Shared vocabulary indicates some connection between Tariana, Baniwa, Resigaro, Piapoco, Yucuna, and Achagua. However, all the Arawak languages spoken north of the Amazon display significant differences in grammatical forms and categories.
+All the North Arawak languages preserve a certain amount of the common Arawak morphological 'nucleus'. Cross-referencing suffixes (Table i and (a) in §2.2.1) is where the languages differ most: Baniwa, Warekena, and Bahwana have a full set of cross-referencing suffixes and prefixes and preserve the Arawak splitergative pattern, while Wapishana, Achagua, Yucuna and Piapoco use suffixes only for third person. Of these, only Piapoco is split-ergative. Bare, Resigaro, and Tariana have no cross-referencing suffixes, and no split-ergativity of the Arawak type. Baniwa and Piapoco share one innovation in cross-referencing suffixes: Baniwa innovated third person singular masculine -ni, feminine -nu; and Piapoco innovated third person singular -ni (cf. PAr *-ni 'dummy O/SQ' in Table i). Piapoco is unusual in that it lost second person plural i-, replacing it with second person singular pi- and a plural marker -cue. It lost the word-initial r- in subject cross-referencing third person masculine singular *ri-, feminine *ru-, which give i- and u- respectively, since there are no rhotics or laterals in word-initial position. Baniwa also has elements of fluid S marking.
+North Arawak languages show considerable divergence in most grammatical categories. For instance, classifiers vary considerably; the differences in other categories are discussed in Aikhenvald (2002). The number of cognates in classifiers is shown in Table 3. In calculating cognates we do not consider gender markers and feminine and masculine classifiers which contain Proto-Arawak gender markers found in all the languages.
+Numeral classifiers are found everywhere except Piapoco, Bare, and Wapishana. In Yucuna, Achagua, Bahwana, and Warekena there are only numeral classifiers. Tariana, Baniwa, Resigaro, and Palikur have noun classes, while verbal classifiers are found just in Tariana, Baniwa, and Palikur (see Aikhenvald 199413). Possessive classifiers are found in Tariana and in Baniwa (where they are restricted to predicative possession). Tariana and Resigaro are the only Arawak languages of the region to use classifiers with demonstratives, while Palikur is unique in having locative classifiers (see the typological parameters set out in Aikhenvald 2oooa).
+Most classifiers shared by more than two languages typically have cognates in Arawak languages south of the Amazon, e.g. Baniwa -na/-ne, -nay 'vertical objects, mammals', Tariana -na 'vertical objects', Achagua -na 'four-legged animals',
+
+176 Alexandra Y. Aikhenvald
+
+TABLE 3. Number of cognates in classifiers in North Arawak
+
+Tariana (over 60 classifiers in the language)
+
+31
+
+Baniwa (44)
+
+5
+
+7
+
+Resigaro (56)
+
+5
+
+5
+
+0
+
+Yucuna ( 8 )
+
+5
+
+5
+
+3
+
+2
+
+Achagua (12)
+
+o
+
+o
+
+o
+
+o
+
+o
+
+Warekena (6)
+
+4
+
+3
+
+2
+
+1
+
+2
+
+o
+
+Bahwana (20)
+
+1
+
+1
+
+2
+
+o
+
+o
+
+o
+
+o
+
+Palikur (12)
+
+Yucuna -na 'mammal, tree', Bahwana -na 'long' (bottle, pineapple)', cf. Arawak south of the Amazon Yawalapiti -na 'vertical objects', or Baniwa, Tariana -pi 'long thinnish objects'; cf.Waura -pi 'linear', Terena, Pareci -hi 'long, thin objects', Baure -pi 'long objects', Ignaciano -pi 'long and thin objects', Amuesha -py 'long objects' (PAr *-pi 'long thin objects' from *api 'snake'). See Aikhenvald (2002) for further examples.
+Thus, apart from the common Proto-Arawak 'nucleus', even languages which are lexically close share very few grammatical cognates. As a result, grammatical categories and their marking can hardly be used as a basis for subgrouping since they probably developed on the level of individual languages. In the next section we show how two Arawak languages north of the Amazon—which share a considerably high percentage of common lexicon—underwent restructuring of different kinds under different areal influences.
+4. Case-studies in restructuring north of the Amazon
+Drastic differences in morphology and grammatical structure between lexically close languages can often be explained by convergence with neighbouring genetically unrelated languages. Languages differ with respect to how they 'treat' loans: some favour the borrowing of actual forms, and some do not.
+The two case studies in this section represent the two extremes. In §4.11 discuss restructuring without any loans. Tariana spoken in the multilingual Vaupes basin underwent influence from Tucano languages, following Tucano-type grammaticalization paths and developing new morphology to match the categories found in Tucano. There is a cultural inhibition against lexical loans in the TarianaTucano speaking area.
+In §4.2 I consider restructuring with heavy borrowing. Resigaro, dominated by Bora-Witoto languages for a long time, has borrowed quite a few 'core' and 'noncore' vocabulary items, grammatical markers, and a pronoun. Its grammatical system was restructured under Bora-Witoto influence.
+Tariana, Baniwa, and Resigaro share a number of innovations; there are also a few structural similarities between Resigaro-Bora-Witoto, on the one hand, and
+
+A North Arawak Case Study 177
+Tucano-Tariana and Baniwa on the other. These features may be indicative of areal diffusion in the past. Thus, evidence in favour of old diffusion areas helps obscure the genetic relationships among languages.
+4.1. RESTRUCTURING WITHOUT LEXICAL BORROWING: TARIANA
+4.1.1. General remarks
+The Vaupes basin in north-west Amazonia is a linguistic area, with a convincing number of structural features shared by languages from two genetically unrelated families—Tariana (Arawak) and East Tucano (see Map 13 in Aikhenvald i999c). These features are not found in Arawak languages spoken outside the area, and thus can be considered as diagnostic for areal diffusion. In some cases we are able to establish the direction of diffusion (see Sorensen 1967, Jackson 1974,Aikhenvald 19963, b, i999b, c). Baniwa is an Arawak language which shares quite a few lexical cognates with Tariana (see Table 2) but it is spoken outside the Vaupes region. It is instructive to compare Tucano, Tariana, and Baniwa.
+Tariana is spoken in a very peculiar linguistic situation of obligatory multilingualism of the Vaupes basin, dictated by the principles of linguistic exogamy ('those who speak the same language with us are our brothers, and we do not marry our sisters'). The distinctive feature of the Vaupes linguistic area is the absence of lexical borrowings due to a strong cultural inhibition: 'language mixing'viewed in terms of lexical loans is condemned as culturally inappropriate, and is tolerated only as a 'linguistic joke'.
+East Tucano languages spoken in the Vaupes basin are structurally and formally very similar. They share from 60% to 90% vocabulary (see Sorensen 1967 on the East Tucano linguistic type). However, whether this East Tucano profile is due to areal diffusion patterns or to the common genetic origin of East Tucano languages remains a problem which goes beyond the scope of the present discussion. (Solving this problem would involve a full reconstruction of Proto-East Tucano and its comparison with Proto-West Tucano and ProtoTucano.)
+The Tucano influence on Tariana phonology, grammatical structure, syntax, discourse organization, and semantics has been discussed at length in Aikhenvald (19963, i999b). Some of the points are illustrated in §4.1.2. The 'time depth' of the Vaupes area is discussed in §4.1.3. In §4.1.41 present evidence in favour of the existence of a larger linguistic area comprising the Icana and the Vaupes basins.
+4.1.2. Tucano influence on Tariana
+Areal diffusion from East Tucano to Tariana involves:
+(a) emergence of new categories present in East Tucano but absent fromArawak, e.g. case-marking connected with topicality and the use of just one locative case, evidentials, verb compounding, and switch-reference;
+
+178 Alexandra Y. Aikhenvald
+
+TABLE 4. Grammatical relations in Tariana, Tucano, and Baniwa
+
+Languages
+
+Head or dependent marking
+
+Ergative or accusative
+
+Tucano
+
+accusative
+
+Tariana
+
+head and dependent
+
+traces of split S, but basically accusative
+
+Baniwa
+
+head
+
+split S, some fluid S
+
+Grammatical relations making
+cross-referencing
+and core cases
+cross-referencing
+
+TABLE 5. Core cases in Tariana and in the Tucano languages
+
+Grammatical function Discourse status
+
+Tariana
+
+nouns
+
+pronouns
+
+subject (A/S)
+
+non-focused
+
+-0
+
+focused
+
+-ne/-nhe
+
+non-subject (non A/S) non-topical -0
+
+-na
+
+topical
+
+-naku, -nuku
+
+Tucano
+
+nouns pronouns
+
+-0
+
+-pe
+
+-0
+
+-re
+
+-re
+
+(b) structural levelling of Tariana to agree with East Tucano syntactic structures and discourse techniques, and also obsolescence and subsequent loss of some categories that are not present in East Tucano languages.
+As the result of diffusion, the typological profile of Tariana and the ways grammatical relations are marked are much more similar to the Tucano languages than to Baniwa—see Table 4.
+Table 5 shows striking structural similarities in the core-case marking in Tariana, and in the Tucano languages. The forms are completely different (Tariana topical non-subject marker -naku/-nuku is most probably cognate with Baniwa locative case -naku).
+The classifier system in Tariana also underwent restructuring to accord with Tucano patterns. Baniwa has a large closed system of forty-four classifiers, while Tariana has sixty plus a potentially unlimited set of repeaters (Aikhenvald i994b). Tucano has a similar set. Tariana and Baniwa share only thirty-one classifiers(see Table 3); some of the Baniwa classifiers 'survive' in Tariana only as derivational affixes.
+Unlike in Baniwa, classifiers in Tariana and Tucano are used with demonstratives and in possessive constructions, as in (i) and (2) below. Baniwa uses genders marked on demonstratives; classifiers are only used in predicative possession, as
+
+A North Arawak Case Study 179
+
+in (3). Examples (i) and (2) illustrate structural isomorphism between Tariana and Tucano; the interlinear glosses are the same.
+
+(1) Tucano ati-wi'i
+
+numio-ya-wi i
+
+(2) Tariana ha-panisi DEM:INAN-HOUSE 'a woman's house'
+
+inaru-ya-panisi woman-POSS-HOUSE
+
+(3) Baniwa hliehe
+
+panti inasu
+
+DEM+NF
+
+house woman
+
+'This house is (a) woman's.'
+
+i-dza-dapana
+INDF-POSS-CL:HAB
+
+Along similar lines, the system of oblique cases in Tariana was restructured following the Tucano model—see Table 6.
+Other areas of morphosyntax which underwent a particularly strong Tucano impact are possession marking (see Aikhenvald 19990,19963), verb compounding (see Aikhenvald 2ooob), evidentiality and tense, constituent order and the obligatory use of overt noun phrases, switch-reference, complementation techniques, and discourse markers.
+The constituent order in Tariana and Tucano is verb-final. In Baniwa and most other Arawak languages of the area it is either verb-medial or verb-initial. Most
+
+TABLE 6. Oblique cases in Tariana, Tucano and Baniwa
+
+Meanings Tariana Tucano Baniwa
+
+Reflexes of Baniwa markers in Tariana
+
+Locative: general Locative: on surface of
+
+-riku -naku
+
+-riku 'derivational suffix', -riku-se 'different subject switch-reference marker' -naku, -nuku 'topical non-subject'
+
+Directional -se
+
+-pi
+
+-hre
+
+'locative'
+
+Ablative
+
+-te
+
+-se 'locative' corresponds to both Baniwa -hre or -fe by phonological rules
+
+Perlative
+
+none
+
+-wa
+
+-wa derivational suffix, e.g.
+
+kada-wa 'get dark'
+
+Comitative/ -(i)ne instrumental
+
+-me'ra
+
+no case: adposition inai 'with'
+
+-(i)ne'wiiti
+
+Double case marking
+
+locative co- occurs with topical non-subject marker Ta -nuku, Tu -re
+
+only locative cases co- occur
+
+i8o Alexandra Y. Aikhenvald
+North Arawak languages—like most other South American Indian languages— avoid sentences with two full noun phrases, especially when one of them is a free pronoun. Free pronouns are mainly restricted to emphatic function. In contrast, Tariana—similarly to Tucano languages—makes wide use of free pronouns. Also like the Tucano languages, Tariana has a well-developed system of switch-reference (same subject or different subject) in subordination.
+However, it would be wrong to say that Tariana has absolutely no loans from Tucano, or any other neighbouring language (see discussion and examples of the rare loans from Tucano in Aikhenvald 19993). Tucano influence on Tariana involves mostly calquing of patterns, sometimes accompanied by grammatical accommodation, that is, 'syntactic deployment of a native morpheme on the model of a phonetically similar morpheme in the diffusing language' (that is, the language which is the source of diffusion), as illustrated by Watkins (this volume) for the possible extension of native morpheme -she- in Ionic Greek to mark iterative imperfective under the influence of the morpheme with the same shape in Hittite and Luvian. For instance, Tucano and other Tucano languages use -ya as a marker of imperative. Tariana has a phonologically similar morpheme -ya 'emphatic' which is used on imperative verbs. Similarly, Tucano has the marker -ri used for commands with a tinge of a 'warning' (make sure you don't fall). Tariana has a relativizer -ri used in a wide variety of functions (this morpheme goes back to Proto-Arawak) which is also used in commands, with a similar meaning (seeAikhenvald (2002) for further discussion). 'Grammatical accommodation' of this sort can be explained by the fact that the native morphemes which undergo extension under Tucano influence do not sound as foreign, and so their existence does not go against the prohibition against borrowing and 'language mixing'.
+4.1.3. The time depth of the Vaupes linguistic area
+There are reasons to believe that the Vaupes is a relatively young area. Tariana and East Tucano languages have probably been in contact for no more than about four hundred years. The settlement of East Tucano tribes on the Vaupes goes back somewhat further (cf. Nimuendaju 1982: 169-70). The other reasonably welldescribed linguistic areas of the world, e.g., the Balkans, Eastern Arnhem Land in Australia (see Heath 1978,1981), Mesoamerica (Campbell, Kaufman, and SmithStark 1986), South Asia (Masica 1976), and the linguistic areas of North America north of Mexico (Sherzer 1976), such as the north-west coast, are considerably older than this.
+As I have argued elsewhere (Aikhenvald 19960), a study of types of Tariana place names shows that two of these types are predominantly monolingual— 'historical' names which refer to places where the Tariana used to live in the remote past, and 'mythological' names which refer to the adventures of characters in origin myths. In contrast, place names which refer to actual dwelling sites are multilingual, and are usually calqued into several languages. Even when
+
+A North Arawak Case Study 181
+
+TABLE 7. Properties shared by languages of the Icana-Vaupes
+
+Vaupes
+
+Icana
+
+Properties shared
+
+East Tucano Tariana Baniwa
+
+pitch accent
+
+yes
+
+topic advancing
+
+yes
+
+derivation
+
+possessive classifiers yes
+
+possessive -ya- to
+
+yes
+
+which classifiers are
+
+attached
+
+classifiers with
+
+yes
+
+demonstratives
+
+several types of
+
+yes
+
+classifiers
+
+yes
+
+yes
+
+yes
+
+yes
+
+yes
+
+yes (with
+
+possessive
+
+predicates)
+
+yes
+
+yes
+
+yes
+
+yes
+
+yes
+
+yes
+
+Outside this area
+
+Piapoco Warekena Bare
+
+yes
+
+no
+
+no
+
+no
+
+no
+
+no
+
+no
+
+no
+
+no
+
+no
+
+no
+
+no
+
+'historical' places also have names in languages other than Tariana they are never caique translations from one language into another. These properties of 'historical' and 'mythological' place names, unexpected in an environment of obligatory multilingualism, suggest that the Tariana might have arrived in the Vaupes from a mostly monolingual context, and that they have adopted multilingualism fairly recently.
+4.1.4. I^ana-Vaupes as a linguistic area?
+We can now look at the larger area consisting of the Icana and the Vaupes basins. Besides cultural similarities widespread across this area, there are a number of linguistic properties shared by Baniwa and the languages of the Vaupes discussed above, but absent from other North Arawak languages. Table 7 summarizes these properties. Only one of these properties—pitch accent—is also shared by Piapoco (which is lexically close; see Table 2).
+According to the Tariana origin stories, they came to the Vaupes from a tributary of the Icana river, probably the Aiary, where they lived together with the Baniwa (and where Baniwa is still spoken; see Aikhenvald 19963, i999c).
+The existence of structural and even formal similarities shared by Tariana, Tucano languages, and Baniwa—but absent from Arawak languages of the area— indicates a certain amount of diffusion in an area which goes beyond the Vaupes into the basin of Icana and its tributaries. It is impossible to decide whether Tariana and Baniwa share a relatively high percentage of morphemes and lexicon due to areal diffusion or to genetic affinity, or to both.
+
+i82 Alexandra Y. Aikhenvald
+4.2. RESTRUCTURING WITH LEXICAL BORROWING: RESIGARO
+Resigaro is a highly endangered language now spoken by just a few people in the far north-eastern corner of Peru in Puerto Isango and Brillo Nuevo, on the river Yaguasyacu, a tributary of Ampiyacu (which flows into the Amazon at Pebas) (Allin 1975, Loukotka 1968: 137). All the speakers of Resigaro have as their main language Bora and/or Ocaina (from the Bora-Witoto family). The linguistic situation is that of unilateral diffusion from Bora to Resigaro. (Little can be said about the diffusion from Ocaina, since there are no data available.)
+The Bora-Witoto family consists of two main branches: Bora-Muinane and Witoto-Ocaina. A phonological and lexical reconstruction of Proto-Bora-Witoto has been published by Aschmann (1993). Grammatical information on Bora comes from Thiesen (1996), and on Witoto from Minor and Loos (1963) (also see Wise (1999) and references therein). Almost nothing is known about Ocaina. Grammatical and lexical data on Resigaro come from Allin (1975) (there are some additional data in Rivet and de Wavrin (1951)).
+The information about the history of Bora, Resigaro, Witoto, and Ocaina is extremely scanty (see the overview in Allin 1975: 3-5). Whiffen (1915) encountered them on the banks of Japura (Caqueta) to the north of the Cahuinari in Colombia. Even at that time the Resigaro were a minority (of 1,000 people, while the Bora had about 15,000 people). Presumably, they then moved from that location—which is notably closer to the Icana-Vaupes area than their modern one— further south to Peru. The Map shows the current location of Resigaro and their location according to Whiffen (1915) (the likely direction of their migration is indicated with an arrow).
+Lexical borrowings from Bora are discussed in §4.2.1, and the borrowed grammar in §4.2.2. Resigaro shares a high percentage of lexicon with Tariana and with Baniwa (see §4.3).
+4.2.1. Lexical borrowings in Resigaro
+Resigaro shows a large number of loans from Bora. A lexical comparison of 100 'core vocabulary' items and of 218 non-core items between Resigaro and Bora and Witoto shows that about 24% are loans.
+Table 2 showed the shared lexicon between Resigaro and a number of other Arawak languages. Notably, the lexical percentage between Bora and Resigaro (approximately 24-6%) is the same or slightly higher than that between Resigaro and Palikur (26%), Pareci (25%), Ignaciano (20%), Inapari (20%), or Guajiro (21%). Allin (1975) even classified Resigaro as related to Bora. However, Table 2 shows that Resigaro shares over 50% with Tariana and with Baniwa.
+Lexical loans contain a few verbs and body parts, plus words for 'fish', 'hill', etc. (As I will show in §4.2.2, nouns denoting body parts are systematically borrowed as classifiers.) Some examples of 'core' vocabulary borrowed from Bora into Resigaro are given below.
+
+MAP. Geographical distribution of Arawak and Tucano languages discussed in this chapter
+
+184 Alexandra Y. Aikhenvald
+(i) Resigaro -e?hepe 'teeth', Muinane Witoto iipe, Proto-Witoto *pe (cf. PAr *nene; note Resigaro -onene 'front teeth');
+(ii) Resigaro dmoogi 'fish', Bora amoope, Proto-Bora-Muinane *am66be (cf. PAr *kopaki, Tariana, Baniwa kuphe, Piapoco cubdi).
+Examples of non-core loans include
+(a) NATURAL PHENOMENA, e.g.
+(i) Resigaro kochiivu 'wind', Bora khtty?e-pa., Proto-Bora-Muinane *kiixeba (cf. Achagua, Piapoco kauli, Tariana, Baniwa kare);
+(ii) Resigaro tee?i 'river', Bora thee-?i, Proto-Bora-Muinane *tee-?i (cf. PAr *huni 'water, river', Tariana, Baniwa, Piapoco uni 'water, river');
+(b) names for INSECTS and ANIMALS, e.g. (i) Resigaro heete 'fly', Bora eethepa, Proto-Bora-Muinane *eeteba (Tariana, Baniwa pupu, Piapoco pulederi); (ii) Resigaro paagdu 'spider', Bora padwdji (Allin 1975), Proto-Bora-Muinane *pdaga-xi (Aschmann 1993:139) (Achagua, Piapoco, Baniwa, Tariana e:ni); (iii) Resigaro ho?bu 'capybara', Bora ohbd (Allin 1975), Proto-Bora-Muinane ?oba (Aschmann 1993:137) (Tariana hemasiere); (iv) Resigaro piime 'ant', Bora piimyebd, Muinane <f>iimo, Proto-BoraMuinane *piimeba (Aschmann 1993:139) (Tariana has many terms for 'ant', none of which is a cognate with this form in Resigaro);
+(c) ARTEFACTS, e.g.
+(i) Resigaro madni?umi'mask', Bora mdhnii, Proto-Bora-Muinane mdd?nii (?imo) (Aschmann 1993:143) (Tariana, Baniwa -maka 'classifier: clothlike').
+In all these cases the direction of loans is from Bora to Resigaro, and not the other way round. This is confirmed by the existence of Proto-Bora-Muinane and sometimes Proto-Bora-Witoto forms (see Aschmann 1993).
+Resigaro sa- 'one' was borrowed from Bora tsa (cf. PAr *pa- whose reflexes are found in Tariana and Baniwa), and migaa- 'two' was borrowed from Bora mijiee/mihaa-CL (cf. PAr *-yama).
+Earlier materials (collected by de Wavrin, possibly, in the early 19305: see Rivet and de Wavrin 1951: 238, Loukotka 1968:137) contain different forms, of an Arawak origin, for numbers 'one'—Resigaro 'apa(ba)pene', cf. PAr *pa—and 'two'— Resigaro 'e(i)tza:mo, itsa(a)m3, cf. PAr *yama (the other Proto-Arawak term for 'two', *(a)pi, is unrelated). This may indicate either that the Resigaro borrowed the Bora numbers after the 19305, or that de Wavrin collected his data from another dialect of Resigaro (probably now extinct).
+4.2.2. Borrowed grammar in Resigaro
+Resigaro phonology has been influenced by Bora in the following ways:
+
+A North Arawak Case Study 185
+(a) Resigaro has two phonological tones (high and low), just like Bora (most other Arawak languages do not have tones);
+(b) there is a phonemic glottal stop, like Bora, Ocaina, and Witoto but unlike most Arawak languages north of the Amazon;
+(c) Resigaro has the syllable structure (C1)V(C2) with only h and ? in C2 position (similarly to Bora, Ocaina, and Witoto, but unlike Arawak).
+Bora influence on Resigaro grammar involves the emergence of new categories found in Bora but atypical of an Arawak language and expressed with borrowed morphemes (see A below); and structural levelling of Resigaro and Bora which involves the calquing of categories (see B).
+A. BORROWED MORPHEMES: NOMINAL MORPHOLOGY AND PRONOUNS. Borrowed bound morphemes include one pronoun, number markers, classifiers, and oblique cases. The independent pronouns and cross-referencing prefixes in Resigaro (where they are mostly used to mark A/Sa and possessors of inalienably possessed nouns) are compared to Bora in Table 8 (data from Allin 1975: 116-17, Thiesen 1996: 33; borrowed morphemes are in bold type). Borrowing of a pronominal form is quite unusual (though attested elsewhere—see Campbell 1997).
+
+TABLE 8. Pronouns in Resigaro and in Bora
+
+Resigaro
+
+Bora
+
+pronouns
+
+prefixes
+
+pronouns
+
+prefixes (poss) prefixes (subject)
+
+isg
+
+no
+
+no-
+
+00
+
+ta-
+
+2Sg
+
+phu, pha
+
+P-
+
+3sgm
+
+tsu, tsd
+
+gi-
+
+uu
+
+di-
+
+diibye
+
+i-,
+
+dddi-
+
+3«gf
+
+ted, ted
+
+do-
+
+diille
+
+line du m fa-musi
+
+f-/_h
+
+mee
+
+me-
+
+me-
+
+val- elsewhere
+
+line du f fa-mupi
+
+lexc du m muu-musi
+
+rnuu-
+
+muhtsl
+
+lexc du f muu-mupi
+
+muhpi
+
+2dum
+
+ha-musi
+
+hu-, i-
+
+d-muhtsi amu?d-
+
+me-
+
+2duf
+
+ha-mupi
+
+d-muhpi
+
+3du m
+
+na-musi
+
+n/_h
+
+diitye-tsi adfije-
+
+3duf
+
+na-mupi
+
+na-
+
+diitye-pi
+
+line
+
+fa?a,fu,fa f/ua-
+
+mee
+
+me-
+
+me-
+
+lexc
+
+muu-?a, muu -
+
+muuha
+
+2pl
+
+ha-?a, hu
+
+i- (imperative) dmuuha amu?d-
+
+me-
+
+3P1
+
+na-?a, hnd
+
+na-
+
+dlitye, adtye adflje-
+
+186 Alexandra Y. Aikhenvald
+Unlike most other Arawak languages but like the Bora-Witoto group, Resigaro has inclusive versus exclusive opposition in first person non-singular, and dual number. The first person exclusive pronoun muu?a has been borrowed from Bora, and subsequently reanalysed as consisting of a prefix muu- and a particle -?a, following the analogy of other non-singular pronouns, such as na-?a 'third person plural' and/a-?a 'first person inclusive'. The dual markers feminine -mupi, masculine -musi (also from Bora) combine with muu- reanalysed as a bound form. Unlike other pronouns, the first person exclusive has no corresponding prefix used with nouns and with verbs.
+Resigaro borrowed dual number markers used with human nouns (m. -musi, f. -mupi), with body parts and with classifiers, and also the marker for animate plural (Resigaro,Bora -mu) (Allin 1975:164 and Thiesen 1996:123-9).
+Resigaro and Bora have masculine and feminine distinctions in the first, second, and third person dual, but not in the plural. This typologically rare pattern is a feature of Bora and most Witoto languages which diffused into Resigaro (see Aikhenvald 2oooa: 246, 387).
+The Bora influence on the Resigaro CLASSIFIERS involves borrowing of bound morphemes and grammaticalization of borrowed free morphemes as classifiers. Semantic and formal principles of noun classification in Resigaro are very similar to those in Bora, Witoto, Tucano, and Tariana (see §4.4). While two genders are distinguished in verbal cross-referencing, classifiers are used with demonstratives, numerals, and adjectival modifiers, and on head nouns as singulative markers (Allin 1975:153ff.).
+Bora has over four hundred classifiers (Thiesen 1996: 102). Resigaro has around fifty-six (Allin 1975:154 ff.); only eight or nine of these have an etymology in Arawak languages (mostly Baniwa); and thirty-six have been borrowed from Bora. These fall into three groups.
+(a) CLASSIFIERS WHICH CORRESPOND TO BOUND MORPHEMES IN BORA.
+Twenty of the borrowed classifiers are used only as classifiers in Bora. They categorize nouns in terms of their shape and form, e.g. (i) Resigaro -gu 'long and flat', Bora -kwad (classifier which appears in
+words for 'finger', 'toe'), Proto-Bora-Muinane -gai (Aschmann 1993: 131); (ii) Resigaro -hi'round and flat', Bora -ji'round, elongated, circular, like a disc' (Thiesen 1996:102), e.g. Resigaro hipo-hi 'earth (a combination of a reflex of the PAr *hipa-y and a classifier), Bora iijiti-ji, Proto-Bora-Muinane xiim-xi (Aschmann 1993:134); (iii) Resigaro -hu 'long and flat, horizontal', Bora -i?khi, -iixi (Aschmann 1993: 135), Proto-Bora-Muinane -axi (Aschmann 1993: 135); (iv) Resigaro -i 'stick-like', Bora -i, Proto-Bora-Muinane -i (Aschmann 1993:140);
+
+A North Arawak Case Study 187
+(v) Resigaro -kd 'classifier for thick stick', Bora -ko 'classifier for sticklike objects' (Thiesen 1996:102).
+(b) CLASSIFIERS WHICH CORRESPOND TO BOUND AND TO FREE MORPHEMES IN BORA. A few specific classifiers are used as classifiers and as nouns in Bora, and only as classifiers in Resigaro. A classifier of a Bora origin is attached to a noun of Arawak origin, e.g. (i) Resigaro classifier -mi 'canoe' in hiitd-mi 'canoe' (cf. Bare isa, Achagua iida, Tariana ita(-whya), Baniwa ita, Piapoco ida, Yucuna hiita 'canoe') also used as a classifier in Bora: -mi 'canoe, other transport' (Thiesen 1996:102), and as a root in Bora mti-ne 'canoe' (cf. Proto-Bora-Muinane *mit-ne: Aschmann 1993:136); (ii) Resigaro classifier -?aami 'leaflike', cf. Resigaro singulative apdnd?aami'leaf (from apdnu 'leaves', PAr *pana 'leaf: Payne 1991: 410), Bora (-)hddmi 'leaf-like, leaf, Muinane dame, Proto-Bora-Muinane (ina)-?dami (Aschmann 1993:140) 'leaf.
+(c) CLASSIFIERS WHICH CORRESPOND TO FREE MORPHEMES IN BORA AND WITOTO. Resigaro classifiers which correspond to free nouns in Bora include four body parts, the word for 'village' and a few nouns which refer to natural phenomena ('uninhabited part of the jungle', 'honey', 'day, period of day', 'cotton', 'path' and 'field'). Some attach to an item of Arawak origin with the same semantics and are also used as agreement markers with numbers and classifiers, e.g. (i) Resigaro -?osi'classifier: hand', singulative -ke-?osi'hand' (Resigaro -ke from PAr *kapi: Payne 1991); Bora hojtsit 'hand', Proto-BoraMuinane -?6xtsii'hand'; (ii) Resigaro -tu?d 'classifier: foot', singulative -hii?pd-tu?d (Resigaro -hii?pu, with u > d is a regular morphophonological process) from PAr *kihti-ba (cf. Tariana, Baniwa hip a), Bora tuhad 'foot', ProtoBora-Muinane -ttt-?adi'foot' (Aschmann 1993:132); (iii) Resigaro -kuba 'leg', cf. Mirana khihpad (Huber and Reed 1992:25) in Resigaro -iphi-kuba 'leg', -hii?pd-kuba 'leg'; where iphi is cognate with Tariana -phi-na and Achagua -hui 'upper leg, thigh', from PAr *boki (Payne 1991: 421).
+Others occur with a 'dummy' root te (from Bora te/tee (Thiesen 1996: 34) 'something mentioned before'), e.g.
+(iv) Resigaro -bahu 'uninhabited part of the jungle' in te-bahu 'uninhabited part of the jungle' (cf. Bora bdju-pajie 'bush': Allin 1975: 508), pdxii, Proto-Bora-Witoto *bdxii (Aschmann 1993:140);
+(v) Resigaro te-bake 'root', Bora bdjkyee (Allin 1975: 509), pdxkhyee, Muinane bako- (Aschmann 1993: 140), Proto-Bora-Muinane *ba(i)(k)ke (Aschmann 1993:140).
+
+i88 Alexandra Y. Aikhenvald
+One classifier, -koomi Village', used with Resigaro paniitsi 'house' (from PAr *pani 'house'), as in panii-tsi-mu-koomi (house-NPOSS-PLCL:VILLAGE) 'village', also occurs with the dummy root te, as in te-koomi 'village'. It has been borrowed from Bora coomii, Proto-Bora-Muinane koomii (Aschmann 1993:135). The classifiers of groups (a) and (b) must have been borrowed as bound morphemes, while classifiers of the group (c) were most probably borrowed as free morphemes and then grammaticalized as classifiers. This extensive borrowing of classifiers in almost all the semantic fields can be explained by their role in discourse: once the referent is established it is referred to with a classifier, so that classifiers appear to be more frequent in discourse than nouns themselves. In a number of Amazonian languages— including Tucano, Arawak, and Bora-Witoto (see Aikhenvald 2oooa: 287)— a full noun is almost always omitted from a noun phrase: classifiers are used instead. As a result, classifiers are more frequent in discourse than full nouns. Three of the seventeen oblique case markers in Resigaro borrowed from Bora are -ma?'without', from Bora -ma 'without', -gi 'instrumental', from Bora -ri 'instrumental' (Thiesen 1996: 96; from Proto-Bora-Muinane *-ri: Aschmann 1993:152), and -ke 'dative' (also 'while') (Allin 1975: 238),from Bora -ki 'purposive' (Thiesen 1996: 96).
+B. STRUCTURAL LEVELLING: BORA INFLUENCE ON RESIGARO VERBAL MORPHOLOGY AND SYNTAX. The verbal morphology of Resigaro has been restructured to fit the dominant Bora patterns; however, there is no evidence of direct borrowing of morphemes. Table 9 illustrates the structural matching of Bora tense distinctions onto Resigaro; the actual morphemes in Resigaro have cognates in other Arawak languages. Resigaro pronouns and nominal morphology underwent restructuring with the borrowing of free and bound morphemes. In contrast to nominal morphology, the verbal morphology of Resigaro has been restructured to fit the dominant Bora patterns, with hardly any borrowing of morphemes.
+
+TABLE 9. Tense in Bora and Resigaro
+
+Tense
+
+Bora
+
+Resigaro Cognates in Arawak
+
+remote past -pe or lengthening of final vowel -?pe
+
+recent past -ne/hne
+
+-mi
+
+future
+
+-iikyel-nl-i
+
+-va
+
+Tariana -ka-pe 'habitual', Baniwa -ka-pe 'remote past' cf. Baniwa -mi 'past' cf. Baniwa -wa 'incomplete'
+
+A North Arawak Case Study 189
+4.3. PROPERTIES SHARED BY TARIANA, BANIWA, RESIGARO, TUCANO, AND
+BORA-WITOTO
+Table 2 shows that Resigaro shares a high percentage of lexicon with Tariana (55%) and with Baniwa (52-6%). A number of grammatical morphemes are also shared with Tariana and with Baniwa, but not with other Arawak languages.
+The following oblique case markers in Resigaro have cognates with Tariana and/or with Baniwa:
+(i) Resigaro -nee 'with' (Allin 1975: 252), Tariana -(i)ne 'instrumental'; Baniwa adposition -inai 'with';
+(ii) Resigaro -giko 'in' (Allin 1975: 276), Baniwa -riku 'locative', Tariana -riku 'derivational suffix' (note that g in Resigaro regularly corresponds to r in other Arawak languages),
+(iii) Resigaro -ipe 'in front of, Tariana, Baniwa verb and adposition -pe 'be in front, in front'.
+Resigaro, Tariana and Baniwa share a marker of remote past (see Table 9), and a nominalizer -mi (Allin 1975:111). Baniwa interrogative particles hapha and -pha are cognates to Resigaro interrogative particle kapha. Both Tariana and Resigaro use the suffixes -se and -the (Allin 1975: 117) on distal demonstratives, where Resigaro th is a regular correspondent of Tariana s.
+A number of lexemes are shared exclusively by Tariana, Baniwa, and Resigaro, e.g. Resigaro hee?ko 'day', Tariana, Baniwa hekwapi 'day'; Resigaro -ddpee (Allin !975: H6) 'sing', Tariana, Baniwa -rapa 'sing, dance'; Resigaro poo?gi 'oven', Tariana, Baniwa puari 'oven'; Resigaro patshd-nu? 'wet', Tariana, Baniwa putfa 'wet'; Resigaro va?nu 'command', Tariana, Baniwa -wana 'call, order'.
+A few items are shared just by Resigaro and Tariana, e.g. Resigaro epiitshi 'axe', Tariana episi 'axe'; Resigaro keddvii? 'red', Tariana kemwiki 'snuff (powder which is reddish in colour).
+These shared morphemes may be indicative either of some genetic relationships between Tariana, Baniwa, and Resigaro, or areal diffusion (possibly prior to the Resigaro migration into Peru).
+Bora-Witoto-Resigaro share a number of features with the languages of the Vaupes (Tariana and Tucano), but not with Baniwa. These include nominative-accusative profile, the use of classifiers with demonstratives, and the use of classifiers as individualizing and singulativizing markers (cf. Allin 1975:151, Thiesen 1996: 122). These features could be indicative of some areal diffusion between the languages of the Vaupes and Bora-Witoto-Resigaro linguistic areas. I mentioned in §4.2 that Bora, Witoto, and Resigaro groups were located on the Caqueta river over eighty years ago much closer to the Vaupes (the putative migration is shown on the Map). Thus, in the past Resigaro was much closer to the Vaupes than it is now. The similarities may be due either to older contacts between these languages, or to shared independent contacts between the Tucano
+
+190 Alexandra Y. Aikhenvald
+languages with Bora-Witoto and Resigaro, on the one hand, and with Tariana, on the other hand. In any case, we cannot decide whether Tariana, Resigaro, and Baniwa share a largish number of lexical (and also grammatical) morphemes due to areal diffusion, or to genetic affinity, or an interaction of both.
+5. Final remarks
+The divergences between Arawak languages spoken north of the Amazon make it almost impossible to go beyond very low-level subgroupings, such as TarianaBaniwa.
+There is definitely not enough evidence to justify taking all the North Arawak languages to be a genetic group. The ultimate explanation for this lies in the existence of a limited stock of genetically inherited morphemes, overlaid by vast influxes of areally diffused patterns, due to intensive and prolonged contacts with neighbouring languages.
+In many cases languages show a high percentage of shared lexicon but differ significantly in terms of their grammatical morphemes. This is the case with Tariana, Baniwa, Achagua, and Piapoco. While Tariana and Baniwa are spoken within distinct subareas of the large linguistic area of the Icana-Vaupes basin, Piapoco and Achagua (which are now in close contact) belong to a different area. In this case, the different areal diffusion patterns could be assumed to have obscured the erstwhile subgrouping.
+The number of lexical and grammatical cognates depends on how languages get restructured within distinct linguistic areas. Tariana and Resigaro illustrate contact-induced language change in different sociolinguistic situations. Tariana, the only Arawak language spoken in the Vaupes area dominated by East Tucano groups, illustrates a drastic restructuring of grammar without any borrowings of morphemes. In contrast, Resigaro, the only Arawak language spoken among the Bora and Witoto groups, combines restructuring with an unusually large amount of borrowed free and bound nominal morphemes and at least one pronoun.
+Additional structural similarities between the languages of the Icana-Vaupes area (Tariana, Baniwa, and the East Tucano) and Bora-Witoto-Resigaro may be indicative of older contacts.
+The example of Resigaro, Tariana, and Baniwa shows that languages—which still show some evidence of their common origin—can be restructured beyond recognition. This is especially dramatic in the case of Resigaro where even bound morphemes get borrowed. However, since Resigaro,Tariana, and Baniwa also share a number of forms as well as structural features, it is impossible to decide whether their similarities are ultimately due to a common genetic origin, or are the result of a long-term coexistence with each other in one linguistic area, or both.
+It is known that 'extensive and prolonged contact, as it is frequently found in areas long settled by speakers of the same language, may cause considerable difficulties for the historical linguist', making it 'next to impossible to classify dialects
+
+A North Arawak Case Study 191
+in terms of their genetic relationship' (Hock 1991: 447). In the case of the Arawak languages in the North Amazon, their extensive and prolonged contact with genetically unrelated languages has obscured the subgrouping—to a different extent in different sociolinguistic situations of multilingualism.
+Other language families north of the Amazon face similar problems. East Tucano languages share numerous features in common which distinguish them from West Tucano; however, it is not at all clear whether this is due to the fact that East Tucano languages have been spoken in the Vaupes linguistic area for a long time, or that they are indeed a genetic subgroup. The same holds for the similarities between Bora-Muinane and Witoto languages. At present, we cannot decide whether strong similarities between Witoto languages are due just to the fact that they form a genetic subgroup, or are partially conditioned by other factors, such as areal diffusion (or parallel development).
+In one case areal diffusion patterns have even obscured the actual genetic relationships. The Maku languages spoken near the Upper Rio Negro and in the Vaupes area share a number of lexical morphemes—all of which are monosyllabic—and some parts of pronominal paradigms with their putative relatives, Nadeb and Shiriwe, spoken on the Middle Rio Negro; their grammars show drastic differences. There are two equally valid possibilities: either the Maku languages constitute an old family obscured by areal diffusion; or they constitute a relic of an old linguistic area where we cannot distinguish old borrowings from genetic inheritance (see Martins and Martins 1999). The ways in which these languages developed make it impossible to decide whether their similarities are due to intensive areal diffusion or to the fact that they formed a closely related subgroup, or both.
+According to one hypothesis, the Arawak languages spread from the Orinoco headwaters, which has been suggested as one of the places where agriculture developed. This punctuation could have given rise to the emergence of the Arawakfamily. Subsequent periods of minor punctuation (such as the move of the Tariana to 'join' the Tucano groups on the Vaupes; or the contact between Resigaro and BoraWitoto), and of intermediate equilibrium periods, contributed to the areal diffusion of patterns and forms, which has helped to obscure the original genetic relationships.
+However, in many cases we do not have enough information on exactly what areal influences come from where (as in the case of Achagua, Piapoco or Yucuna, or Palikur: we simply have no information about what languages might have become extinct in these regions).
+Thus, numerous migrations and long equilibrium processes followed by intermittent punctuations contribute to the difficulties encountered by those who want to distinguish genetic inheritance from areal diffusion in Amazonia (cf.Dixon 1997).
+References
+AIKHENVALD, A. Y. i994a. 'Grammatical relations in Tariana', Nordic Journal of Linguistics 17.201-17.
+
+192 Alexandra Y. Aikhenvald
+AIKHENVALD, A. Y. i994b. 'Classifiers in Tariana', Anthropological Linguistics 36.407-65. 1994C. 'Classe nominal e genero em linguas Aruak', Boletim do museu paraenseEmilio
+Goeldi 10.137-259. i995a. Bare. Languages of the World: Materials 100. Munich: Lincom Europa. i995b. 'Person marking and discourse in North Arawak languages', Studia Linguistica
+49-153-9519963. 'Areal diffusion in north-west Amazonia: the case of Tariana', Anthropological
+Linguistics 38.73-116. i996b. 'Words, phrases, pauses and boundaries: evidence from South American
+Indian Languages', Studies in Language 20.487-517. i996c. 'Multilingual and monolingual placenames in Tariana', Names: A Journal of
+Onomastics 44.272-90. 1998. 'A Grammar of Warekena', pp. 215-439 of Handbook of Amazonian Languages,
+vol. 4, edited by D. C. Derbyshire and G. K. Pullum. Berlin: Mouton de Gruyter. i999a. Tariana Texts and Cultural Context. Lincom Europa Language Materials 7.
+Munich: Lincom Europa. i999b. 'The Arawak Language Family', pp. 65-105 of Dixon and Aikhenvald (1999). 1999C. 'Area! diffusion and language contact in the Icana-Vaupes area, north-west
+Amazonia', pp. 385-415 of Dixon and Aikhenvald (1999). 2oooa. Classifiers: A Typology of Noun Categorization Devices. Oxford: Oxford
+University Press. 2ooob. 'Area! typology and grammaticalization: the emergence of new verbal
+morphology in an obsolescent language', pp. 1-37 of Reconstructing Grammar: Comparative Linguistics and Grammaticalization, edited by Spike Gildea. Amsterdam: John Benjamins.
+2002. Language Contact in Amazonia. Oxford: Oxford University Press. 2003. A grammar of Tariana, from northwest Amazonia. Cambridge: Cambridge University Press. and DIXON, R. M. W. 1998. 'Evidentials and area! typology: a case study from Amazonia', Language Sciences 20.241-57. and GREEN, D. 1998. 'Palikur and the typology of classifiers', Anthropological Linguistics 40.429-80. ALLIN, T. R. 1975. 'A grammar of Resigaro'. Ph.D. dissertation, University of St Andrews, UK. ASCHMANN, R. P. 1993. Proto-Witotoan.Arlington: Summer Institute of Linguistics and the University of Texas. BARNES, J. 1999. 'Tucano', pp. 207-26 of Dixon and Aikhenvald (1999). BRINTON, D. G. 1892. 'Studies in South American native languages', Proceedings of the American Philosophical Society 30.45-105. CAMPBELL, L. 1997. 'Amerindian personal pronouns: a second opinion', Language 73.339-51. , KAUFMAN, T, and SMITH-STARK, T. 1986. 'Meso-America as a linguistic area', Language 62.530-70. DIXON, R. M. W. 1997. The Rise and Fall of Languages. Cambridge: Cambridge University Press. and AIKHENVALD, A. Y. 1999. Editors of The Amazonian Languages. Cambridge: Cambridge University Press. GREEN, H., and GREEN, D. 1972. Surface Structure of Palikur Grammar. Brasilia: Summer Institute of Linguistics.
+
+A North Arawak Case Study 193
+GREENBERG, J. H. 1953.Essays in Linguistics.Chicago: The University of Chicago Press. HEATH, J. 1978. Linguistic Diffusion in Arnhem Land. Canberra: Australian Institute of
+Aboriginal Studies. 1981. 'A case of intensive lexical diffusion', Language 57.335-67.
+HOCK, H. H. 1991. Principles of Historical Linguistics. 2nd edition. Berlin: Mouton de Gruyter.
+HUBER, R. Q., and REED, R. B. 1992. Comparative Vocabulary. Selected Words in Indigenous Languages of Colombia. Santafe de Bogota: Asociacion Institute Linguistico de Verano.
+JACKSON, J. 1974. 'Language identity of the Colombian Vaupes Indians', pp. 50-64 of Explorations in the Ethnography of Speaking, edited by R. Bauman and J. Sherzer. Cambridge: Cambridge University Press.
+LOUKOTKA, C. 1968. Classification of South American Indian Languages. Los Angeles: Latin American Studies Centre, UCLA.
+MARTINS, S. A., and MARTINS, V. 1999. 'Makii', pp. 251-68 of Dixon and Aikhenvald (1999). MASICA, C. P. 1976. Defining a Linguistic Area: South Asia. Chicago: University of Chicago
+Press. MATTESON, E. 1965. The Piro (Arawakan) Language. Berkeley and Los Angeles: University of
+California Press. 1972. 'Proto-Arawakan', pp. 160-242 of Comparative Studies in Amerindian Languages,
+edited by E. Matteson, A. Wheeler, R L. Jackson, N. E. Waltz, and D. R. Christian. The Hague: Mouton. MINOR, E. E., and Loos, E. E. 1963. 'The structure and contexts of Witoto predicates in narrative speech', pp. 37-66 of Studies in Peruvian Indian Languagesi. SIL Publications in Linguistics 9. Norman: Summer Institute of Linguistics and University of Oklahoma. NIMUENDAJU, C. 1982. Textos indigenistas.Sao Paulo: Ed. Loyola. NOBLE, G. K. 1965.'Proto-Arawakan and its descendants', International Journal of American Linguistics 31:3, part II. OLIVER, J. R. 1989. "The Archaeological, Linguistic and Ethnohistorical Evidence for the Expansion of Arawakan into Northwestern Venezuela and Northeastern Colombia'. Ph.D. dissertation, Univeristy of Illinois. PAYNE, DAVID L. 1985. "The genetic classification of Resigaro', International Journal of American Linguistics 51.222-31.
+1990. 'Some widespread grammatical forms in South American languages', pp. 75-88 of Doris Payne (1990).
+1991. 'A classification of Maipuran (Arawakan) languages based on shared lexical retentions', pp. 355-499 of Handbook of Amazonian Languages, vol. 3, edited by D. C. Derbyshire and G. K. Pullum. Berlin: Mouton de Gruyter. PAYNE, DORIS L. 1990. Editor of Amazonian Linguistics. Studies in Lowland South American Indian Languages.University of Texas Press: Austin. RAMIREZ, H. 1992. Le Bahuana, une nouvelle langue de la famille Arawak. Chantiers Amerindia. Supplement i to no. 17 ofAmerindia, Paris.
+1997. Afala Tukano dos Yepa-masa, vol. i. Gramatica. Manaus: Inspetoria Salesiana. RIVET, P., and WAVRIN, R. de. 1951. 'Un nouveau dialecte Arawak: le Resigaro', Journal de la
+Societe des Americanistes de Paris 40.203-38. ROWAN, O., and BURGESS, E. 1979. Parecis Grammar. Arquivo Linguistico. Brasilia: Summer
+Institute of Linguistics. SAPIR, E. 1921. Language: An Introduction to the Study of Speech. New York: Harcourt, Brace,
+
+194 Alexandra Y. Aikhenvald
+and World. SEKI, L, and AIKHENVALD, A. Y. Forthcoming. 'Proto-Arawak of Xingu'. SHERZER, J. 1976. An Areal-Typological Study of American Indian Languages North of Mexico.
+North-Holland Linguistic Series 20. Amsterdam: North-Holland. SORENSEN, A. P., JR. 1967. 'Multilingualism in the northwest Amazon', American
+Anthropologist 69.670-84 (reprinted as pp. 78-93 of Sociolinguistics: Selected Readings, edited by J. B. Pride and J. Holmes. Harmondsworth: Penguin 1972). THIESEN, W. 1996. Gramdtica del Idioma Bora. Serie Linguistica Peruana 38. Yarinacocha, Pucallpa: Institute Linguistico de Verano. TOVAR, A., and LARRUCEA DE TOVAR, C. 1984. Catdlogo de las lenguas de America del Sur. Madrid: Editorial Credos. WHIFFEN, T. W. 1915. The North-West Amazonas: Notes of Some Months Spent among Cannibal Tribes. London. WILSON, P. J. 1992. Una description preliminar de la gramatica del Achagua (Arawak). Bogota: Summer Institute of Linguistics. WISE, M. 1999. 'Small language families and isolates in Peru', pp. 307-40 of Dixon and Aikhenvald (1999). ZAMPONI, R. 2003. Maipure. Munich: Lincom Europa.
+
+

@@ -1,0 +1,563 @@
+Fonêmica Xerente
+RINALDO DE MATTOS
+Missão Novas Tribos do Brasil
+
+(Publicação Anterior: 1973 – "Fonêmica Xerente" em Série Lingüística, vol. Nº 1, Summer Institute of Linguistics, Brasília, D.F., pp. 79-100.)
+
+0. INTRODUÇÃO.
+Há cerca de 500 falantes da língua Xerente que vivem espalhados num total de sete aldeias, localizadas entre os rios Tocantins e Sono, no Estado de Goiás.
+Com exceção de algumas mulheres idosas e de crianças com idade inferior a sete anos, mais ou menos, todos falam o Português além da própria língua.
+O material para este trabalho foi colhido no período de 1964-1966 de vários membros da tribo, na maioria homens, dentre os quais o principal foi Anjo dos Santos. A análise foi feita sob a orientação do Instituto Lingüístico de Verão.
+
+1. A SÍLABA.
+Há treze padrões silábicos: seis são considerados como básicos e sete como resultantes da perda de vogal em construções gramaticais.
+A língua Xerente está atualmente numa fase de mudança em que há muita perda de vogal. Uma ligeira comparação com o Xavante, a língua mais semelhante ao Xerente, revela muitos exemplos, como os seguintes:
+
+XAVANTE we:de bëdë:di sipesedi dæhadì dapÍtÍŽwa wedehu dapa:ra Žì:dì
+
+XERENTE wde bdëdi sæpsedi dhadì daptÍkwa wdehu dapra kdì
+
+'árvore' 'caminho' 'cheio' 'como' 'criador'
+'pau' 'pé' 'pedra'
+
+Esta perda complica muito os padrões silábicos, resultando em séries de consoantes em seguida.
+
+1.1. Padrões silábicos.
+
+V
+
+apa
+
+VC
+
+ap.kre
+
+CV
+
+dapa
+
+'calango' 'buraco' 'fígado'
+
+1
+
+CCV CVC CCVC
+
+krawa tëb.di sæ.prub.di
+
+'paca' 'novo'
+'quebrado'
+
+1.2. Padrões resultantes da perda de vogal em construções gramaticais.
+
+VCC CCCCV CCCCCV CVCC CCVCC CCCVCC
+
+wa za azb sõ krsrõwa krbrbì sadabr.kõdi krkoddakr.prë krdab sõ
+
+'eu vou te dar' 'morar' 'falar' 'não ter' 'espécie de macaco' 'dar a alguém'
+
+Um padrão silábico pode ser resultante de perda de vogal e ainda conformar-se aos padrões básicos.
+
+CVC
+
+kër.kõdi
+
+'não pegar'
+
+CCVC
+
+tbet wara
+
+'o peixe está fugindo'
+
+Entre consoantes dentro da sílaba, há uma transição vocálica em qualidade central [Ê]. Entre duas consoantes sonoras e entre uma consoante sonora e outra surda a transição é sonora. Entre consoantes intersilábicas, esta transição não ocorre.
+
+sæpsedi wde sbæka wap.sã
+
+[sæphsedi] [wÊde] [sÊmæka]
+[wapsã]
+
+'está bem cheio' 'árvore' 'cinzas' 'cachorro'
+
+Para facilitar a escrita fonética nos exemplos, daqui em diante não se registrará a transição mas sim a divisão silábica quando vem entre consoantes.
+
+1.3. Somente as sílabas CV e CCV encontram-se como palavras monossilábicas em isolado. As sílabas que terminam em consoantes e as que começam com vogal não se encontram em posição final antes de pausa.
+
+1.4. A sílaba tônica é sempre a última da palavra.
+
+[pa'di] [da'pra] [pse'di]
+
+'tamanduá' 'pé' 'é bom'
+
+Nos casos onde a vogal final se perde ou está em processo de se perder, a sílaba tônica é a nova sílaba última.
+
+[mãto watÍ'brÍ] ou [mãto wa'tÍbr] [kuta'bi]
+
+'ele saiu' 'realmente'
+
+2
+
+[kutabi + di] ––> [ku'tabÊdÊ]
+
+'é real'
+
+2. OS FONEMAS. Há dez fonemas consoantais e quatorze vocálicos.
+
+2.1. As consoantes.
+
+OCLUSIVA CONTÍNUA VIBRANTE
+
+ORAL NASAL SONORA SURDA
+
+Labial p b w
+
+Alveolar t d z s r
+
+Velar k
+
+Glotal h
+
+Há duas séries de oclusivas: orais e nasais. As oclusivas orais são surdas e se pronunciam em três pontos de articulação: labial /p/, alveolar /t/, e velar /k/. Todas elas têm uma variante ligeiramente aspirada [ph, th, kh].
+[ph] ocorre precedendo a vogal /i/. [th] ocorre precedendo as vogais /i, u/. [kh] ocorre precedendo as vogais /i, e, ë, ë/. Em outras posições não são aspiradas. A velar /k/ tem uma variante sonora [g] que ocorre em flutuação com [k] seguindo a vogal [æ].
+
+/dapa/ /kupi/ /date/ /wati/ /ture/
+/kuba/ /tÍki/ /ke/ /kë/ /kë/ /tækwa/
+
+[dapa] [kuphi]
+[date] [wathi] [thurè] [kuba] [tÍkhi] [khe] [khë] [khë] [tægwa] ou [tækwa]
+
+'fígado' 'espécie de peixe' 'perna' 'apertar' 'menino' 'canoa' 'pássaro preto' 'mel' 'serrar' 'água' 'nome indígena'
+
+As oclusivas nasais são sonoras e se pronunciam em três pontos de articulação: labial /b/ e alveolar /d/. /b/ tem uma variante oral [b] que ocorre no início de sílabas que contem vogais orais, e uma variante nasal [m] que ocorre no início de sílabas que contêm vogais nasais em posição final da sílaba. Ex:
+
+/kuba/ /bbate/ /bdëdi/
+
+[khuba] [bbate] [bdëdi]
+
+'canoa' 'tapioca' 'caminho'
+
+3
+
+/bã/ /brã/ /tÍb.di/
+
+[mã]
+[mœã] [tÍmdi]
+
+'ema' 'mato' 'pegajoso'
+
+/d/ tem uma variante oral [d] que ocorre no início de sílabas que contêm vogais orais, uma variante nasal [n] que ocorre no início de sílabas que começam com vogais nasais, e uma variante semivogal nasalizada [þ] que ocorre no final da sílaba.
+
+/dadi/
+/da.dkë/ /dÎzë/ /dbãzi/ /ækwad.ba/ /dadÎd.tÍ/
+
+[dadi]
+[dadkhë] [nÎÁë] [nmãÁi] [ækwaþba] [danÎþtÍ]
+
+'ventre' 'morto' 'milho'
+'onde' 'certo' 'língua'
+
+Embora na análise aqui apresentada [d], [n] e [þ] sejam considerados como variantes do fonema /d/, a questão de perda de vogais mais uma vez complica a situação. Numa seqüência [nÔCV], se a vogal perdida é uma nasalizada, o som n permanece, mas agora não faz parte de uma sílaba com vogal nasalizada, mas sim oral, e o padrão resultante é [nCV]. Ao mesmo tempo, numa seqüência [dVCV] onde se perde a primeira vogal, o padrão resultante é [dCV] e não há mais distribuição complementar entre [n] e [d], mas sim contraste. Não obstante, na maioria dos exemplos, a distribuição de [n] e [d] é ainda complementar (Veja acima).
+
+/da.dkë/ /da.dka/ /dhadì/
+
+[da.dkhë] [da.nka] [nhanì]
+
+'morto' 'cães' 'como'
+
+Há duas séries de contínuas: sonoras e surdas. As contínuas sonoras se pronunciam em dois pontos de articulação: labial /w/, e alveolar /z/. A labial é uma semi-vogal lábio-velar [w].
+
+/wa/ /dakwa/ /wrë/
+
+[wa] [dakwa] [wrë]
+
+'lua' 'dente' 'anu'
+
+A alveolar é uma fricativa retroflexada [Á] quando ocorre no início da sílaba, e uma semi-vogal palatal oral, quando ocorre no final da sílaba.
+
+/daza/
+/zraku/ /kwazë/ /kazte/ /ætÍzti/
+
+[daÁa] [Áraku] [kwaÁë] [kayte] [ætÍythi]
+
+'coxa' 'para o outro lado do rio' 'dubitativo' 'teu' 'estou alegre'
+
+As contínuas surdas se pronunciam em dois pontos de articulação: alveolar /s/ e glotal /h/. A alveolar é uma fricativa retroflexada [À].
+
+4
+
+/dasa/ /wasi/ /sire/ /wapsã/ /karÍs.kõdi/
+
+[daÀa] [waÀi] [Àirè] [wapÀã] [karÍÀkÎdi]
+
+'alimento' 'estrela' 'passarinho' 'cachorro' 'não há arroz'
+
+A glotal é uma fricativa com a mesma configuração de lábios e língua como a vogal que segue. É surda na maioria dos exemplos, mas às vezes entre vogais é sonora e até em certas palavras está se perdendo na fala dos jovens.
+
+/hu/ /wahu/
+
+[hu] [wahu] ou [waÃu]
+
+'neblina' 'época da seca'
+
+/pahidi/
+
+[pahidi] ou [pa.i.di]
+
+'com medo' (fala dos jovens)
+
+Há uma vibrante alveolar sonora que é um 'flap' retroflexado [Â].
+
+/rÍb.wa/
+
+[ÂÍmwa]
+
+'gordura'
+
+2.2. As vogais. Há catorze vogais, nove orais e cinco nasalizadas.
+
+ORAIS Alta Média Baixa
+
+Anterior
+i e ë
+
+Central
+à ë a
+
+Posterior
+u o Í
+
+NASAIS
+
+Alta
+
+æ
+
+ø
+
+Baixa
+
+ì
+
+ã
+
+Î
+
+As vogais posteriores são arredondadas, e as demais não-arredondadas.
+
+/i, à, u/ são vogais altas fechadas
+
+/padi/ /wakdà/
+
+[padi] [wakdà]
+
+'tamanduá bandeira' 'preto'
+
+/du/
+
+[du]
+
+'capim'
+
+/e, ë, o/ são vogais médias fechadas. /e/ tem uma variante alta aberta [è] que ocorre seguindo /r/. /ë/ é pronunciado entre a posição central e posterior na boca [Ê7]. /o/ tem uma variante alta, aberta [î] que ocorre seguindo /s/ e /z/ na fala rápida.
+
+/duze/ /ture/ /kë/
+
+[duÁe] [turè] [kÊ7]
+
+'cana' 'menino' 'água'
+
+5
+
+/bãto wi/ /bbæzo/
+
+[mãto wi] [mmæÁî]
+
+'ele chegou' 'buscar lenha'
+
+/ë, Í/ são vogais baixas, fechadas, e /a/ é vogal baixa aberta.
+
+/ætë / /wara/ /krÍ/
+
+[ætë] [wara] [krÍ]
+
+'novo' 'correr' 'cigarra'
+
+As vogais nasalizadas /æ, ã, ø/ têm as mesmas posições como as vogais orais. /ì/ e /Î/ são médias abertas, com posição da língua no caso de /ì/ entre a de /e/ e /ë/, e no caso de /Î/ entre /o/ e /Í/.
+
+3. DISTRIBUIÇÃO DOS FONEMAS.
+
+3.1. Vogais. As vogais se dividem em quatro classes pela ocorrência em sílabas:
+
+I
+
+II
+
+III
+
+IV
+
+Cv1
+
+Cv2C
+
+V3
+
+V4C
+
+CCV1 CCCV1 CCCCV1
+
+CCV2C CCCV2C CV2CC
+
+CCCCCV1
+
+CCV2CC
+
+Classe l - consiste de todas as vogais e ocorrem nas sílabas abertas.
+
+/prdu/ /pãræ/ /æpe/ /së/ /dapkì/ /këzad.kà/ /kë/
+/ka/
+/tã/
+/zu/ /køwa/ /waæzo/ /rÍ/ /kakÎ/
+
+'mutuca' 'matar' 'o melhor' 'espírito de pássaro' 'coração' 'boto' 'água' 'você' 'chuva' 'trairá' 'lá' 'em busca de mim' 'coisas' 'jatobá'
+
+Classe 2 - consiste de todas as vogais menos /o/ e ocorrem nas sílabas fechadas.
+
+6
+
+/az.sib.kri/ /æ.dæb.kri/ /tped.prë/ /tëb.di/ /dìs.kbìsi/ /ad.krzàt wara/ /zëb.hu/ /sub.zar.kÎdi/ /kãb.resi/ /kup.krdã/ /køb.resi/ /tÍp.kÎdi/ /æbÎr.kÎdi/
+Classe 3 - consiste de /æ, a, ã/ e ocorre nas sílabas V.
+/æpa/ /apa/ /ãrë/
+Classe 4 - consiste de /æ, a/ e ocorre nas sílabas VC.
+/æt.kërkÎdi/ /ap.kre/
+
+'sua casa' 'minha casa' 'espécie de peixe' 'novo' 'comer repetidamente' 'o cascudo está correndo' 'formiga' 'não há cavalos' 'somente este' 'taboca' 'somente aquele' 'cego' 'não vou'
+'meu fígado' 'calango' 'não'
+'não peguei' 'buraco'
+
+3.2. Consoantes. A distribuição das consoantes em sílabas apresenta um quadro muito confuso, mais uma vez por causa de perdas de vogais. Pelo critério único de distribuição, nas sílabas se encontram pelo menos vinte classes de consoantes, a maioria das quais não tem nada sistemático na composição. Por outro lado, se deixarmos de lado, os casos onde reconhecemos que houve perda de vogal, a classificação tem muito mais ordem, cabendo em quatro lasses:
+
+Classe l - consiste de todas as consoantes, que ocorrem nas sílabas C V, C C V, C C V, CVC.
+
+C1V /apa/
+/tã/ /kë/ /kuba/ /dadi/ /køwa/ /zu/
+
+'calango' 'chuva' 'água' 'canoa' 'ventre' 'lá' 'trairá'
+
+C1CV /prë/ /tbe/ /kri/ /bru/ /drÎ/ /wrë/ /zraku/
+
+'vermelho' 'peixe' 'casa' 'roça' 'coco'
+'anu' 'para a outra margem'
+
+7
+
+/së/ /huku/ /rÍ/
+
+'espírito de pássaro' 'onça' 'coisas'
+
+CC1V /tpeka/ /ktëka/ /dakka/ /tbe/ /kdë/ /dakwa/ /to sza/ /psedi/ /shu.wde/ /krawa/
+
+'peixinho' 'gado' 'tosse' 'peixe' 'anta' 'dente' 'não obstante' 'é bom' 'pau d'arco' 'paca'
+
+/srã/
+/dahrë/ /rbëta/
+C1VC /pëd.kwa/ /tÍp.kÎdi/ /kup.krdã/ /bab.tãdi/ /dås,kbìsi/ /wab.sõ/ /zëb.huprë/ /sub.zari/ /daheb.zu/ /rÍb.krã/
+
+'morro' 'grito' 'ferro'
+'nome de clã' 'cego' 'taboca' 'afilhado' 'comer' 'dar-nos' 'formiga' 'cavalo' 'roubo' 'fruta'
+
+Classe 2 - consiste de /p, k, b/ que ocorrem em posição inicial das sílabas C2C3VC4. Ex:
+
+/sæ.prub.di/ /krib si/ /brãb.di/
+
+'quebrado' 'somente casas' 'estar com fome'
+
+Classe 3 - consiste de /r, b, w/ que ocorrem em segunda posição das sílabas C2C3VC4.:
+
+/krib.si/ /ækwad.ba/ /wa to kbã.dëkë/
+
+'somente casas' 'certo' 'eu vi as coisas'
+
+Classe 4 - consiste de /p, b, d, s, z/ que ocorrem em posição final das sílabas VC4, C1VC4 e C2C3VC4.
+
+/wap.sã/
+/ab.bë/ /æ.kwad.ba/ /karÍs.ka/ /az.kdë/
+
+'cachorro' 'homem' 'certo' 'arroz branco' 'criança'
+
+Quanto aos demais padrões silábicos, quando há mais de duas consoantes em seguinda, como ... CCV, CCCVC, CCCCV, CCCCCV, é muito comum encontrar /t/ na primeira posição porque é um morfema que ocorre em construções verbais.
+
+/bã to tktikrë/
+
+'emagreceu'
+
+8
+
+/bã to rÍtbba/ /bã to tprÍ/
+
+'ficou vazio' 'queimou'
+
+Também é comum encontrar /kr/ porque é o morfema 'continuativo' nas construções gramaticais.
+
+/adut krhërë/ /tahãt krbrìbì/
+
+'ainda está gritando' 'ele está falando'
+
+Além destes dois casos, a ocorrência parece fortuita devido à perda de vogais.
+
+/tadÍrit krdbrõ/
+
+'eles estão andando bem'
+
+4. LISTA VOCABULAR.
+Português
+a, em agua agüentar, pegar, sustentar aí alguns amarelo andar (lª—pessoa sing.)
+animal, bicho ano (verão) anta apertar aquele aqui arco areia arremessar, jogar árvore asa atar, amarrar ave, pássaro barriga (humana) beber boca boiar
+
+Transcrição Fonêmica
+/-wa/
+/kë/
+/sapari/
+/tazi/ /dÎkwab.dÎræ/ /æptë/ /kræbÎræ/ /rÍb.siwabdãræ/ /wahu/
+/kdë/
+/wati/
+/tahã/ /todbì/ /wakrÍwde/ /tkaztbÎrã/ /bì/ /wde/ /æsdarbi/ /æpahi/ /kbãwasisi/
+/si/
+/dadi/ /zekredì/ /æsdawa/ /këbdãwawi/
+
+Transcrição Fonetica
+[-wa]
+[kë]
+[sapa'ri]
+[ta'zi] [nÎkwam.nÎ'ræ] [æ'ptë] [kræmÎ'ræ] [rÍm.siwamnã'ræ] [wa'hu]
+[kdë]
+[wa'ti]
+[ta'hã] [to'nmì] [wakrÍ'wde] [tkay.tmÎ'rã] [mì] [wde] [æsda'rbi] [æpa'hi] [kmãwasi'si]
+[si]
+[da'di] [zekre'nì] [æsda'wa] [këmnãwa'wi]
+
+9
+
+bom (é bom) bosque, mato branco brincar cabeça cabelo caçar cachorro cair caminho canoa cantar
+carne casa casca cavar céu cheio (bem cheio) cheirar chifre chupar
+chuva cinza cobra com comer como comprido contar
+coração corda correr (água) correto, certo cortante, afiado cortar coser, costurar costas
+
+/psedi/
+/brã/ /ærã/ /dasihëzu/
+/dakrã/
+/dazahi/
+/krsasari/
+/wap.sã/
+/wap.tãrã/
+/bdëdi/
+/kuba/ /dadÍkre/ /ædæ/ /kri/ /æhë/ /wdehë/ /kwakre/
+/hewa/ /sæpsedi/ /sdabræbæ/ /æku/ /wap.sÍ/ /tã/ /sbæka/ /ab.kë/ /-rë/ /kbìsi/ /dhadì/ /paki/ /kbãbrÎbÎdÎ/ /dapkì/ /wdedrÎ/ /wara/ /ækwad.ba/ /kwapsedi/ /shë/ /kë/ /sapuku/ /kazapuku/
+/dabdãwa/
+10
+
+[pse'di] [mrã] [æ'rã] [dasihë'zu] [da'krã] [daza'hi] [krsasa'ri]
+[wap'sã] [wap.tã'rã] [bdë'di] [ku'ba] [danõ'kre]
+[æ'næ] [kri] [æhë] [wde'hë] [kwa'kre] [he'wa] [sæpse'dæ] [sda'mræmæ] [æ'ku] [wap'sõ]
+[tã] [smæ'ka] [am'kë] [-rë] [kmì'si] [nha'nì] [pa'ki] [kmãmrÎmÎ'nÎ] [da'pkì] [wde'nrÎ] [wa'ra] [ækwaþ'ba] [kwapse'di] [shë] [kë] [sapu'ku] [kazapu'ku] [damnã'wa]
+
+curto dar
+delgado, fino dente dia direito dizer, falar dois dormir e ele eles em embotado (faca), cega empurrar entranhas, tripas, intestinos erva, capim, grama esfregar espesso, grosso esposa esquerda estar deitado estar em pé, ficar em pé estar sentado este estreito, apertado estrela eu falar, dizer fígado necha flor
+fogo folha frio fruta
+
+/krtureki/ /sÎbræ/ /ktikrëdi/ /dakwa/ /awì/ /bdë/ /dadbære/ /wasku/ /brbì/ /pÍdkwadì/ /dadÎtÎ/ /kãtÍ/ /arë/ /tahã/ /tadÎræ/ /-kre/ /kwatÎdi/ /sasisi/
+/daddã/
+/du/ /bbakrë/ /saktÎdi/ /dabrÎ/ /dadbæke/ /dadÎbrÎ/ /sab.dã/
+/dadãbrã/
+/kãhã/
+/kuzkidi/
+/wasi/
+/wa/ /brì/ /dapa/
+/ti/ /rÍb.dærdã/ /kuzë/
+/hesu/
+/hëdi/ /rÍb.krã/
+11
+
+[krturè'ki] [sÎ'mræ] [ktikrë'di] [da'kwa] [a'wì] [bdë] [danmærè] [was'ku] [mrmë] [pÍnkwa'nì] [danÎ'tÎ] [kã'tÍ] [a'rë] [ta'hã] [tanÎ'ræ] [-kre] [kwatÎ'di] [sasi'si]
+[da'nnã]
+[du] [bba'krë] [ saktÎ'di] [da'mrÎ] [ danmæke] [danÎ'mrÎ] [sam'nã]
+[danã'mrã]
+[kã'hã]
+[kuzki'di]
+[wa'si]
+[wa] [mrì] [da'pa]
+[ti] [rÍm.næ'rnã] [ku'zë]
+[he'su]
+[hë'di] [rÍm'krã]
+
+fumaça fumo, tabaco furar garra, unha gelo golpear, bater gorduras, banha grande homem inchar jacaré lagoa largo, amplo lavar limpar língua liso longe lua lutar, brigar macaco machado mãe mandioca mão mar marido mau menino, criança milho montanha, morro, monte, morder morno, quente morrer muito
+
+/sbædazë/ /waræ/ /sapuku/ /dadækbÍ/ /këkukdì/ /kbãrÍwæ/ /rÍb.wa/ /sawrëdi/ /ab.bë/ /dahepÍtÍ/ /kuz.hë/
+/pku/ /pÍki/ /dakup.sÎ/ /dakbudæ/ /dadÎd.tÍ/ /skupsedi/ /rÍb.hëdi/ /wa/ /dasikwapë/ /krÍ/ /sbæzapu/ /dazëpar.kwa/ /kupa/ /dadæpkra/ /këpÍrë/ /dabrÎ/ /kudìdi/ /as.kdë/ /dÎzë/ /srã/
+/sari/
+/wapudi/
+/dadkëda/ /saktìzawrë/
+12
+
+[smæda'zë] [wa'ræ] [sapu'ku] [danæ'kbÍ] [këku'knì] [kmãrÍ'wæ] [rÍm'wa] [sawrë'di] [am'bë] [dahepÍ'tÍ] [kuy'hë]
+[pku] [pÍ'ki] [dakup'sÎ] [dakbu'næ] [danÎþ'tÍ] [skupse'di] [rÍm.hë'di]
+[wa] [dasikwa'pë] [krÍ] [smæza'pu] [dazëpa'rkwa] [ku'pa] [danæp'kra] [këpÍ'rë] [da'mrÎ] [kunì'di] [ay'kdë] [nÎ'zë] [srã]
+[sa'ri]
+[wapu'di]
+[dadkë'da] [saktìza'wrë]
+
+mulher nadar não nariz negro, preto noite nome nós novo nuvem olho onça onde o que orelha osso
+outro ouvir ovo pai panela (de barro) papagaio pau, pauzinho pé pedra peito peixe pele pena, pluma pensar pequeno perna perto pesado pescoço pessoa, gente
+
+/pikÎ/ /zëribi/ /ãrë/ /dadkre/ /waktàdi/ /bãra/ /dadæsizë/ /wadÎræ/ /ætë/ /az.dãka/ /datÍ/ /huku/ /dbãzi/ /bãræ/ /dadpÍkre/ /æhi/ /rÍb.hi/ /ækabÎ/ /dawapari/ /-kre/ /daptÍkwa/ /piza/ /wa/ /wdehu/
+/dapra/ /kdì/ /dadÎkdÎ/ /tbe/
+/dahë/ /æsdarbi/ /dakbãsibãzusi/ /dub.krtureki/
+/dazda/ /rÍb.krtureki/ /predi/ /dabdu/ /akwì/
+13
+
+[pi'kÎ] [zëri'bi] [ã'rë] [da'nkre] [waktà'di] [mã'ra] [danæsi'zë] [wanÎ'ræ] [æ'të] [ay.nã'ka] [da'tÍ] [hu'ku]
+[nmã'zi] [mã'ræ] [danpÍ'kre] [æ'hi] [rÍb'hi] [æka'mÎ] [dawapa'ri]
+[-kre] [daptÍ'kwa] [pi'za]
+[wa]
+[wde'hu]
+[da'pra] [knì] [danÎ'knÎ] [tbe]
+[da'hë] [æsda'rbi] [dakmãsimãzu'si] [dum.krturè'ki] [da'zda] [rÍm.krturè'ki] [pre'di]
+[dab'du] [a'kwì]
+
+piolho pó, poeira podre, estragado porque poucos puxar quando quatro queimar quem rabo rachar raiz raspar, cocar redondo respirar reto rio rir saber sal saliva sangue se seco semente sol soprar sujo temer, ter medo terra todos três tu um úmido, molhado
+
+/ædu/ /tkaz.zazu/ /krÍz.ti/ /tadìdbå/ /wabræreki/ /kwadæ/ /dbãzi/ /skwad.pse/ /sarÎræ/ /dÎkwa/ /æbë/ /kapÍkÍ/ /-pa/ /kawazëri/ /saptÍdi/ /dapkìzadæ/ /wab.huz.ti/
+/kë/ /dasæsiri/ /dawaz.huku/ /kekwarã/ /æsdarë/ /dawapru/ /-wa/ /krëdi/ /rÍb.zë/ /bdë/ /sakuri/ /hetub.di/ /pahidi/
+/tka/ /kburë/ /brìpradì/ /ka-/ /sbæsi/ /wab.tkidi/
+14
+
+[æ'du] [tkay.za'zu] [krÍy'ti] [tanì'nmì] [wamrærè'ki] [kwa'næ] [nmã'zi] [skwaþ'pse] [sarÎ'ræ] [nÍ'kwa] [æ'bë] [kapÍ'kÍ] [-pa]
+[kawazë'ri] [saptÍ'di] [dapkìza'næ] [wam.huy'ti ]
+[kë] [dasæsi'ri] [daway.hu'ku]
+[kekwa'rã] [æsda'rë] [dawa'pru]
+[-wa] [krë'di] [rÍm'zë] [bdë]
+[saku'ri]
+[hetum'di]
+[pahi'di]
+[tka] [kburë] [mrìpradå] [ka-] [smæ'si] [wam.tki'di]
+
+velho vento ver verde verme, minhoca vermelho vir viver voar voltar, dar volta vomitar vós
+
+/wawìdi/ /rÍwakku/
+/kbãdëkë/ /ækuzërã/ /az.ktëdrã/ /prëdi/ /bdæ bõri/ /krdbrÎbdÎ/
+/ssakre/
+/az.pëkrìwa/ /dadÎkkÍ/ /kadÎræ/
+
+[wawì'di] [rÍwa'kku]
+[kmãdëkë]
+[ækuzë'rã] [ay.ktë'nrã] [prë'di] [mnæ mÍræ] [krnmrÎ'mnÎ]
+[ssa'kre]
+[ay.pëkrì'wa] [danÎ'kkÍ] [kanÎ'ræ]
+
+NOTAS
+1. Para facilitar a escrita fonética, o símbolo /r/ é usado para representar o som [Â].
+2 /o/ é uma vogal muito rara, ocorrendo em poucas palavras.
+3 Uma ligeira comparação dos exemplos de sílabas CCV em Xerente com o Xavante ou outras línguas Jê, indica que até muitas destas palavras historicamente perderam uma vogal, mas estas perdas são bem estabelecidas em Xerente atualmente. Provavelmente, as únicas combinações de consoantes nas sílabas CCV que não resultam de perda de vogal são as das classes 2 e 3.
+
+15
+
+

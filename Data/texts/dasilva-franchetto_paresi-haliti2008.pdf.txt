@@ -1,0 +1,1114 @@
+Fonologia da língua paresi-haliti: descrição e análise Glauber Romling da SILVA - Mestrando em Lingüística (UFRJ - CNPq) glauberomling@yahoo.com.br. Telefones: 2573-1899, 8841-0161 Bruna FRANCHETTO –Professor Associado (UFRJ-CNPq) bfranchetto@yahoo.com.br. Telefones: 2557-1477 RESUMO
+Este artigo apresentai (i) uma descrição fonético-fonológica do Paresi-Haliti (família arawak) distribucional em item e arranjo, baseada no modelo de K. Pike (1947) e (ii) uma análise processual da palatalização e coronalização consonantais, segundo o modelo autossegmental de Clements e Hume (1995). Palavras-chave: Línguas Indígenas, Línguas Arawak do Sul, Fonologia, Geometria de Traços.
+ABSTRACT This paper presents (i) a distributional phonetic-phonological description of the Paresi-Haliti (Arawak family) item and arrangement, based on K.Pike (1947); and (ii) a processual analysis of the consonantal palatalization and coronalization, in accord to Clements & Hume autosegmental model. Key words :Indigenous Languages, Southern Arawak Languages, Phonology, Features Geometry.
+1.Introdução: informações sociolingüísticas e etnográficas sobre a língua paresi A língua paresi é falada em cerca de quarenta aldeias, no Estado de Mato Grosso,
+somando 1649 pessoas (ISA, 2007). Os Paresi, que se auto-denominam Haliti (gente, povo), estão divididos em cinco subgrupos étnicos: Kozarene, Waimare, Kaziniti, Warare e Kawali. Esta divisão tem como base distintos territórios originários (CANOVA, 2003). A primeira incursão de bandeirantes nas terras paresi foi liderada por Antônio Pires de Campos no último
+
+quartel do século XVII (COSTA, 1985). A dispersão do povo paresi em pequenas aldeias e em um território relativamente
+extenso e descontínuo teve um impacto sociolingüístico até hoje não estudado. Há variantes diatópicas, uma minoritária (em áreas próximas à fronteira com a Bolívia) e outra majoritária, no restante da região, além de variantes geracionais (SILVA, 2006). Boa parte da população é, hoje, bilíngüe, aprendendo a língua materna antes do contato com a língua portuguesa, que se dá geralmente entre os 10 e os 13 anos de idade. As mulheres mais velhas não têm um domínio incipiente do Português.
+1.2.Trabalhos anteriores sobre o Paresi-Haliti Drude (1995) em Observações para Servir para uma Ortografia do Wajmare, variante
+minoritária, chama a atenção para problemas fonológicos subjacentes às propostas ortográficas existentes para fins de produção de cartilhas para a alfabetização na língua materna. Rowan & Burgess,, em 1979 apresentam, sem levar em conta o condicionamento variacional diatópico, um primeiro estudo sistemático do Paresi, abrangendo as unidades do discurso, construções sintáticas, morfologia e fonologia, anexando duas narrativas transcritas no alfabeto por eles proposto para o processo de alfabetização. Rowan (1961) apresenta uma representação fonêmica, sem distinção entre variantes, o que resulta em sérios problemas descritivos. Há trabalhos esparsos sobre línguas da família arawak, tais como, Apurinã (FACUNDES, 2000), Baré (OLIVEIRA, 1993), Enawenê-nawê (REZENDE, 2003), Tariana (AIKHENVALD, 1999 e 2003), Wapixana (SANTOS, 2006) e Kinikinau (SOUZA, 2008). Em etnologia, há um número bem menor de trabalhos (COSTA, 1985; HILL & SANTOSGRANERO, 2002).
+O autor deste artigo apresentou, em 2005, uma descrição preliminar da fonética e da fonologia do Paresi-Haliti, levando em conta as variações diatópicas (SILVA, 2005); em 2006,
+
+tratou de uma proposta para a representação fonológica das líquidas (SILVA, 2006); e, em 2007, ofereceu uma primeira proposta para o processo de palatalização e coronalização (SILVA, 2007), segundo o modelo da fonologia autossegmental (CLEMENTS & HUME, 1995).
+1.3. Trabalho de campo e corpus. De 2004 a 2006, foram realizadas quatro viagens para a cidade de Barra do Bugres,
+Mato Grosso, de uma semana cada uma, em que trabalhamos com dois consultores do sexo masculino. Em 2007-2008, passamos dois meses na aldeia Formoso (Hohako)ii. O material coletado e gravado contém 8 horas de listas vocabulares, entra as quais se inclui o Formulário dos Vocabulários Padrões para Estudos Comparativos Preliminares nas Línguas Indígenas Brasileiras (Museu Nacional, Divisão de Antropologia, Setor Lingüístico, 1960, com 341 itens ) e 12 horas de narrativas míticas de um velho xamã paresi. Para a base de dados foram utilizados os softwares ToolBox, Econv, Elan, Transcriber, Lexique Pro e Phonology Assistant. Os dados foram gravados em MD e digitalizados em WAV para uma análise acústica por meio de programas como o PRAAT.
+2. A descrição fonêmica Os procedimentos aqui adotados foram propostos por Pike (1947) que considera o
+fonema como a menor unidade do sistema fonológico, sendo que a troca de um pelo outro elemento (fonema) acarreta mudança de significado. Os alofones estão em distribuição complementar.
+2.1. As consoantes
+
+Plosiva Nasal Tepe Fricativa
+Aproximante Lat. Aprox.
+Africada
+
+Bilabial  
+ 
+
+Dental 
+
+Alveolar 
+ 
+
+ 
+
+Tabela 1: fones consonantais em Paresi-Haliti
+
+Pós-alveolar  
+
+Palatal 
+
+
+Velar 
+
+Glotal 
+
+O quadro de fones consonantais em Paresi tem 26 segmentos. Não há  em seu inventário e sua contraparte vozeada é restrita a poucos exemplos. Observa-se um vasto quadro de fones palatalizados. [ e , que ocorrem após [] ou [j]; já [] e [] ocorrem antes de []Com exceção dos fones [, não há contrapartes vozeadas, o que é bastante recorrentenas línguas da família arawak (AIKHENVALD, 1998: 76). Segundo Aikhenvald, a fricativa bilabial [ é encontrada somente em Chiriana, mas como podemos constatar, ainda que com poucos exemplos, o fone é encontrado em Paresi. [] é bastante presente, apesar de não figurar nos comentários de Aikhenvald, que registra a sua ocorrência apenas em Apurinã, Wapixana, Añun, Baniwa do Içana, Tariana e Baniwa. Souza (2008) inclui este fone no inventário da língua Kinikinau, outra língua arawak meridional. O Paresi conta com duas africadas, assim como na maioria das línguas arawak do sul.
+
+2.1.1 Pares mínimos e análogos para as consoantes
+
+Abaixo mostramos o contraste dos segmentos foneticamente similares em Paresi:
+
+  
+
+'seriema' 'ele leva'
+
+  
+
+'seco' 'ele coça'
+
+ 
+
+'mandioca'
+
+ 
+
+'um dia'
+
+
+
+'faca'
+
+  
+
+'mãe' 'beneficiário'
+
+  'maritaca branca'  'centopéia'
+
+  
+
+'sapo' 'pequi'
+
+  'aquisição'  'comprador'
+
+// //  'ontem'  'tem rede'
+
+
+
+'casa'
+
+  
+
+'algo comprido' 'algo líquido'
+
+  'matador'  'ele mata isto'
+
+  
+
+'instante' 'mel'
+
+  
+
+'pai' 'mãe'
+
+2.1.2 Fonemas consonantais
+
+Plosiva Nasal Tepe Fricativa
+Aproximante Lat. Aprox.
+Africada
+
+Bilabial  
+ 
+
+Dental 
+
+Alveolar   
+ 
+
+Palatal 
+
+Tabela 2: fonemas consonantais em Paresi-Haliti
+
+Velar 
+
+Glotal 
+
+Como já apresentado na Tabela 1, [p] não consta na série das oclusivas em Paresi, pois o processo de debucalização p > f > h, amplamente atestado nas línguas arawak, tanto sincronicamente quanto diacronicamente, tem no Paresi seu estágio final. Isso se confirma dada a grande incidência da glotal fricativa em formas que no Proto-Arawak correspondem à oclusiva bilabial surda, como por exemplo */pi-/ “segunda pessoa do singular” e */kopa/ 'peixe' (RAMIREZ, 2001), que em Paresi são, respectivamente, /hi-/ e /ko.ha.tse/.
+
+Diacronicamente, as oclusivas são instáveis, como atesta Aikhenvald (1999: 76) para o Yawalapiti. A oclusiva bilabial vozeada ocorre em poucos casos, em empréstimos
+
+([6, ‘chapéu’ e 6’pimenta’) e em termos de parentesco ([, pai). A
+
+bilabial fricativa desvozeada também ocorre em pouquíssimos casos: 'mão
+
+direita', 'dia','ontem'. Como a maioria das línguas
+
+arawak, o Paresi apresenta uma consoante palatalizada fonêmica, o /.
+
+A plosiva velarocorre apenas em um classificador que denota 'superfície' . O
+
+mesmo classificador encontra respaldo no Proto-Arawak *koa. (RAMIREZ, 2001) Por ora, a
+
+inserimos no sistema, mas com essa ressalva.
+
+ 'água'
+
+
+
+'lagoa'
+
+água - CL:superfícieiii
+
+2.1.3 Padrões silábicos e a interpretação de j e w
+
+O Paresi é uma língua de padrão (C)V. As seqüências vocálicas vogal-glide [aj], [ej],
+
+[oj], [uj], [aw] e [ow] são interpretadas como núcleos complexos, ocupando uma posição V.
+
+Não há consoantes em coda silábica nem em ataque complexo. As vogais longas, que ocorrem
+
+em poucas palavras, ainda representam um problema de análise não resolvido. Abaixo seguem
+
+alguns exemplos para cada padrão:
+
+CV [
+
+'ontem'
+
+ 
+
+'você mata isto' 'ele chega'
+
+V
+
+[
+
+'pai'
+
+Os falantes aceitam os grafemas y e w em posição de ataque silábico na ortografia, em uma sílaba CV ,como em yane 'ele vai' e awa 'espera!', mas não os aceitam em borda de sílaba, como em *haytsene 'você mata isto', *kawka 'ele chega', *aykoliti 'dente' e *awlo 'papagaio', preferindo grafias como haitsene, kaoka, aikoliti e aolo, o que capta a intuição
+
+sobre natureza sumamente vocálica dessas seqüências. As seqüências [ e são interpretadas
+como constituindo sílabas CV. Uma boa evidência para essa interpretação é a alternância entre o glide palatal e a fricativa dental, que só ocorre em posição intervocálica como ataque de uma sílaba CV:  ~  'este'  ~  'ele disse'
+
+Outro argumento é o fato de o glide palatal ser alofone da fricativa dental no processo
+
+morfofonológico em que / realiza-se após [i, j]em fronteira de morfema. Processos
+
+morfofonológicos têm como output somente elementos do sistema, ou seja, /j/ é uma
+
+consoante do Paresi. Além disso, as seqüências jV e wV mostram poucas restrições quanto à
+
+vogal que as constitui. Nas línguas naturais, em uma sílaba CV, a priori, quaisquer C podem
+
+ocorrer com quaisquer V de uma língua. A tabela abaixo mostra as ocorrências em Paresi:
+
+Seqüências
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tabela 3: seqüências glide-vogal em Paresi-Haliti
+
+As únicas restrições são para a vogal [u] e as meio-abertas, que já são raras com quaisquer outras consoantes. Isso fala a favor da interpretação dos glides como consoantes. Segundo Kenstowicz (1997), tais seqüências, quando produtivas em certas línguas, como no caso do inglês, tendem a conter as aproximantes no quadro consonantal. Em Kinikinau (SOUZA, 2008), uma língua arawak meridional, essas seqüências são muito recorrentes, levando a autora a considerá-las também como consoantes.
+Em Paresi, raízes que se iniciam por vogais prefixam apenas uma consoante como pronome pessoal:
+
+[aj.k'u.li.-ti] dente -N.POSS [n-aj.k'u.-li] 1- dente -CL:ARRED
+
+'dente' 'meu dente'
+
+Já em raízes que se iniciam por consoante, uma sílaba CV é concatenada como prefixo
+
+de pessoa:
+
+[hi.~ Ju. - ti] pescoço - N.POSS [nu - hi~.Jo] 1 - pescoço
+
+'dente' 'meu dente'
+
+O mesmo ocorre com raízes iniciadas pelas aproximantes [j] e [w], o que as
+
+caracteriza como consoantes em posição de ataque de sílaba:
+
+[wa.ha.ka.no.4e] macaco [no - wahakanu4i-Si] 1 - macaco - POSS.
+
+'macaco' 'meu macaco'
+
+Por fim, as seqüências, como as em negrito [ e , 'não' e 'criança', respectivamente, foram interpretados como sílabas do tipo CV em que as consoantes têm o nódulo vocálico preenchido devido ao espraiamento progressivo dos traços da vogal antecedente.
+
+2.2 As vogais O quadro de fones vocálicos em Paresi está apresentado na Tabela abaixo:
+
+Alta Não-tensa Média-alta Média-baixa Não-tensa
+Baixa
+
+Vogais breves
+
+anterior central posterior
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tabela 4: fones vocálicos em Paresi-Haliti
+
+Vogais longas
+
+anterior central posterior
+
+
+
+
+
+
+
+
+
+
+
+
+
+O quadro de fones vocálicos em Paresi conta com vogais breves e longas, assim como na maioria das línguas arawak. Nas breves, as posições não-tensas, para as vogais altas e a baixa, são preenchidas. Apenas as vogais breves não-tensas têm contraparte nasal, com exceção de []. Vogais não-tensas e a média-baixa posterior não ocorrem alongadas. Para a média-baixa anterior há apenas um caso atestado no nosso corpus. Alocamos a vogal baixa no campo das anteriores com respaldo em medições acústicas. Não fizemos medições acústicas de longas ou nasais, mas mesmo assim estendemos a classificação de anterior para a vogal baixa nessas contrapartes.
+
+2.2.1 Pares mínimos e análogos das vogais
+
+Observe-se os contrastes, aqui exemplificados, para as vogais do Paresi:
+
+
+
+ 'cobra'
+
+
+
+'instante breve'
+
+  
+
+'homem paresi' 'mulher paresi'
+
+  
+
+'saliva 'chifre'
+
+  
+
+'osso' 'urucum'
+
+  
+
+'casca para jacá' 'sarar'
+
+  
+
+'árvore' 'saudação'
+
+2.2.2 Fonemas vocálicos
+
+Concluindo a descrição das vogais do Pareci, apresentamos abaixo o seu sistema fonológico:
+
+alta média-alta
+baixa
+
+anterior   
+
+Tabela 5: fonemas vocálicos em Paresi-Haliti
+
+posterior 
+
+O Paresi tem quatro vogais fonêmicas, acrescentado uma vogal ao típico padrão trivocálico arawak. As coronais // contrastam em altura; contrasta com as demais em labialidade. Uma questão que se interpõe é a escolha de // em lugar depara a representação fonológica. É certo que uma escolha triangular / seria mais simétrica, mas iria de encontro aos fatos verificados pelas medições acústicas, em que as vogais arredondadas do sistema mostram-se mais baixas que suas correspondentes em altura anteriores. Além disso, como veremos em 2.2.4, [u] ocorre somente antes de // ou [], enquanto [o] ocorre nos demais contextos.
+
+2.2.3 A interpretação das vogais nasais, das vogais longas e das vogais não-tensas
+
+O Paresi não têm vogais nasais nem longas fonêmicas, o que vai de encontro ao que
+
+ocorre em outras línguas arawak.
+
+As vogais nasalizam-se somente em dois ambientes: (i) antes de consoantes nasais ou
+
+(ii) quando vizinhas à consoante glotal /h/:
+
+    
+
+'mão direita' 'jenipapo'
+
+A nasalização, no entanto, é bastante variável, havendo muitas palavras, mesmo nos
+
+dois contextos supracitados, em que não ocorre:
+
+
+
+'osso'
+
+
+
+'(nome de um dos sub-grupos paresi)'
+
+As vogais longas são restritas a poucas palavras. Ocorrem, geralmente, em posição
+
+pré-tônica na penúltima sílaba de palavras com duas sílabas. Não há pares mínimos que as
+
+atestem como fonológicas:
+
+ 
+
+'tucano' 'água'
+
+Por fim, as vogais não-tensas são alofones, respectivamente de / em posição átona final.
+
+2.2.4 Assimilação total e harmonia vocálica
+
+Dois processos ocorrem nas vogais em Paresi: assimilação total e harmonia vocálica.
+
+No primeiro processo, /a/ realiza-se como [e] antes de sílaba com a vogal /e/. Cremos que este
+
+seja um processo morfofonológico restrito à fronteira de morfemas:
+
+
+
+'ele corre'
+
+ 'ele está correndo'
+
+O segundo processo, a harmonia vocálica, aplica-se a /e/ e /o/. /e/ realiza-se como [i]
+
+quando antes de sílaba com vogal /i/, e /o/ realiza-se como [u] quando antes de sílaba com /i/
+
+ou [u]. Nos dois casos, há o alteamento das vogais:
+
+/e/ realiza-se como [i] antes de sílaba com vogal [i]
+
+/n – ime - Ti/
+
+[n - imi - Si]
+
+'meu capim'
+
+1 – capim - POSS
+
+/o/ realiza-se como [u] antes de sílaba com vogal [i, u]
+
+/no – tsima4e - ni/
+
+[nu – tSime4i - ni]
+
+'minha poeira'
+
+1 – poeira - POSS
+
+/no – kohatse - 4i/
+
+[nu – kuhatsi - di]
+
+'meu peixe'
+
+1 – peixe - POSS
+
+3 A fonologia autossegmental: palatalização e coronalização A escolha da Geometria de Traços nos permite expressar generalizações em termos
+processuais que são de difícil formulação em um modelo taxonômico do tipo item-e-arranjo. Os modelos teóricos podem diferir, dentre outras coisas, quantos aos traços que assumem e quanto ao que se propõem representar. Quanto aos traços, o modelo de Chomsky & Halle (1968), por exemplo, assim como alguns modelos não-lineares, adotam em seu inventário o
+
+traço [lateral], que é necessário para distinguir os segmentosl/ (HALL, 2007: 320), embora esses dois segmentos possam diferir em termos do traço [contínuo], como é o caso em Paresi. Isso dispensa o traço [lateral] e fala a favor de um modelo que não o tenha. Na figura abaixo temos a proposta de Clements & Hume (1995), que representa consoantes e vogais por um mesmo conjunto de traços:
+
+X
+
++-aproximante
+
+raiz +-sonorante
+
+LAR
+
+Cav. Oral +-vocóide
+
+[+-gl.constr.]
+
+[+-contínuo]
+
+[+-gl. n-constr.]
+
+Ponto-de-C
+
+[+-vozeado]
+
+[coronal]
+
+[labial]
+
+[+-anterior]
+
+[dorsal]
+
+[+-distribuído]
+
+Voc
+
+Ponto-de-V
+
+[labial]
+
+abertura
+
+[dorsal]
+
+[coronal]
+
+aberto
+
+[+-anterior]
+
+[+-distribuído]
+
+Modelo de Geometria de Traços de Clements & Hume (1995)
+
+Os princípios que norteiam o modelo são os seguintes: (i) regras fonológicas agem como uma única operação; (ii) a organização em traços é universalmente determinada; (iii) elementos idênticos adjacentes são proibidos (Obligatory Contour Principle – OCP); (iv) linhas de associação ligando dois elementos em uma camada j a dois elementos em uma
+
+camada k não podem se cruzar (No-Crosssing Constraint – NCC). Os processos fonológicos são representados em termos de associação e desligamento de traços ou nós-de-classe.
+A Geometria de Traços representa palatalização e coronalização de maneiras distintas. A palatalização configura-se como o espraiamento de traços de um Ponto-de-V para o Pontode-V de outro segmento; a coronalização, também chamada de promoção, é a cópia ou desligamento do Ponto-de-V de um segmento e seu posterior espraiamento para o Ponto-de-C de outro ou do mesmo segmento.
+
+3.1 Palatalização e coronalização
+
+Os processos fonológicos e morfofonológicos de palatalização e de coronalização de
+
+consoantes são bastante produtivos na língua paresi, como em Enawenê-nawê (EN), uma
+
+língua arawak meridional muito próxima do Paresi (Rezende, 2003). Em EN, /k/ se realiza
+
+como  após //A palatalização é tomada como um processo intermediário à
+
+coronalização, em que o nódulo [coronal] se espraia para o Ponto-de-V da consoante, tendo a
+
+seguinte representação:
+
+x
+
+
+
+x
+
+k'
+
+r
+
+r
+
+Ponto-de-C
+
+Voc Ponto-de-V
+
+Voc Ponto-de-V
+
+[dorsal]
+
+[coronal]
+
+[-anterior]
+
+[+distribuído]
+
+Patalização em Enawenê-Nawê (Rezende, 2003: 105)
+
+Em um segundo passo, ocorre a coronalização. Segundo Rezende (2003: 107), "...a
+
+articulação menor da consoante foi (é) desligada e copiada sob o seu Ponto-de-C, substituindo
+
+sua articulação principal".
+
+O Wapixana, uma língua arawak setentrional, também apresenta um processo de
+
+palatalização. Santos (2006: 47) utiliza-se da Geometria de Traços para a formalização do
+
+processo em que  realiza-se como após /:
+
+x
+
+
+
+x
+
+
+
+r
+
+r
+
+Ponto-de-C
+
+Ponto-de-C
+
+Voc Ponto-de-V
+
+Voc Ponto-de-V
+
+[labial]
+
+[coronal]
+
+[-anterior]
+
+Patalização em Wapixana (Santos, 2006: 47)
+
+No Paresi, palatalização e coronalização ocorrem em processos fonológicos e morfofonológicos, mas não necessariamente como processos intermediários. O ambiente que engatilha os processos tem de ser composto pelos traços [coronal, -anterior], ou seja, [i] ou núcleos complexos com [j]. Os segmentos-alvo são: em processos fonológicos,  / /, /ive, em processos morfofonológicos, / e /. Veremos que a direção dos processos não é um divisor de águas. O que importa é a natureza do processo, se palatalização ou coronalização, ligada ao domínio da sílaba, se inter-silábico ou intra-silábicov.
+O primeiro deles, palatalização, ocorre somente de uma sílaba para a outra, espraiando
+
+[coronal, -anterior] para um Ponto-de-V vazio; o segundo, coronalização, por sua vez, ocorre
+
+somente dentro da mesma sílaba, ou seja, Ponto-de-V [coronal, -anterior] se espraia
+
+diretamente para Ponto-de-C [coronal] não especificado para [anterior].
+
+Comecemos com os processos fonológicos que afetam as consoantes não-coronais: /
+
+/, // /w/ e. O último dado de cada conjunto exemplifica o contexto que não
+
+engatilha o processo em exame:
+
+[i,j]_____
+
+[hi.b'a.be.46]
+
+'teu papel'
+
+[a.ba]
+
+'pai'
+
+[i,j]_____   
+
+'dente' 'peito' 'muito'
+
+[i,j]_____
+
+[ti.a.lo]
+
+'grávida'
+
+[Si.a.Si]
+
+'jabuticaba'
+
+[ka.a.k6]
+
+'ontem'
+
+[i,j]_____   
+
+'não' 'curto'
+
+[i,j]_____
+
+
+
+'sangue'
+
+
+
+'lua'
+
+
+
+'dois'
+
+[] [[i,j]_____
+
+[wi.w'a.ha.ka.no.4e.Ta] 'nosso macaco'
+
+[wa.ha.ka.no.4e]
+
+'macaco'
+
+As consoantes não-coronais passam a palatalizadas após segmento [coronal, -anterior].
+
+Não são coronalizadas, pois possuem Ponto-de-C especificado: para [labial]
+
+epara [dorsal]. Há espraiamento dos traços de Ponto-de-V da vogal para Ponto-de-V
+
+da consoante:
+
+σ
+
+σ
+
+núcleo
+
+x
+
+[i, j]
+
+r
+
+ataque x
+r
+
+ 
+
+Ponto-de-C
+
+Voc Ponto-de-V
+
+Voc Ponto-de-V
+
+[coronal]
+
+[-anterior]
+
+Patalização de não-coronais em Paresi ocorre somente inter-silabicamente
+
+Nas coronais, ainda em processos fonológicos, os segmentos-alvo
+
+são: /:
+
+
+
+ 
+
+‘ele está voando’ ‘água’
+
+/ realiza-se como [] após segmento [coronal, -anterior] via espraiamento de Pontode-V da vogal para Ponto-de-V da consoante. A palatalizada *seria uma forma intermediária. Franchetto (1995: 75), ao falar da palatalização em Kuikuro (Karib), faz uso de formas abstratas palatalizadas. A autora assim explica os processos e : "Temos como primeiro passo comum a todos os segmentos, a palatalização da consoante, ou seja, a criação de uma consoante com articulação coronal secundária (C), via espraiamento do nó coronal da vogal antecedente...". Segue-se o espraiamento dos traços de Ponto-de-V da consoante para Ponto-de-C da mesma,
+
+ou seja, uma coronalização ou promoção. Em Paresi, a coronalização tem sempre como alvo
+
+um Ponto-de-C [coronal] não especificado para [anterior] e sempre ocorre intra-
+
+silabicamente, ao contrário da palatalização. Essa segunda etapa dá origem à nasal palatal.
+
+σ
+
+σ
+
+núcleo
+
+x
+
+
+
+ataque x
+
+
+
+r
+
+r
+
+Ponto-de-C (2)
+
+Voc
+
+Voc
+
+[coronal]
+
+Ponto-de-V
+
+(1)
+
+Ponto-de-V
+
+[coronal]
+
+[-anterior]
+
+(1) Patalização e (2) Coronalização em Paresi
+
+
+  
+
+‘cabeça’ ‘pequeno’ ‘ele bebe’
+
+σ
+
+σ
+
+núcleo
+
+x
+
+
+
+ataque x
+
+
+
+r
+
+r
+
+[+voz]
+
+Ponto-de-C
+
+Voc
+
+Voc
+
+[coronal]
+
+Ponto-de-V
+
+Ponto-de-V
+
+[+anterior]
+
+[coronal]
+
+[-anterior]
+
+O Ponto-de-C, especificado para [anterior], trava a coronalização
+
+Neste caso, ocorre apenas a palatalização. A coronalização é travada pois o alvo é especificado para [+anterior]. Essa é a única consoante do sistema com o traço [vozeado] especificado. As línguas arawak geralmente não distinguem seus segmentos por esse traço. Em muitos sistemas arawak, [vozeado] é distintivo apenas em um par de segmentos. Em Enawenê-nawê (REZENDE, 2003), os únicos segmentos com contraparte vozeada são as oclusivas alveolares /t, d/. Em Paresi, então, o segmento sub-especificado seria a contraparte vozeada de /t/ no sistema. Um argumento a favor da proximidade deé a variação livre em contexto átono final entre os dois fones nas falas dos mais velhos  ~ 'borboleta'.
+A base para nossa escolha pela representação subespecificada reside na própria natureza e na representação dos segmentos. Halle & Clements (1983. p.83 apud HALL, 2007, p.319) definem [contínuo] da seguinte maneira: “Continuants are formed with a vocal tract configuraton allowing the airstream to flow through the midsagittal region of the oral
+
+tract”. Dessa maneira, conforme Hall (2007: 319), segmentos [+contínuo] incluem fricativas,
+
+róticas, vogais e glides, enquanto os [-contínuo] incluem oclusivas, nasais (por conta da
+
+região médio-sagital) e laterais aproximantes como //, o que seria justamente o contrário do
+
+encontrado nas estruturas arbóreas subespecificadas do Paresi, em que consideramos
+
+como [-contínuo] ecomo [+contínuo].
+
+Nossa análise não é incongruente, pois, segundo Hall (2007, p.333): “...other
+
+controversial question is whether or not flaps likeare plus or minus [continuant], i.e, the
+
+definition of [continuant] is problematic for languages in which laterals behave as
+
+[+continuant]”. Isso nos mostra que o valor do traço [contínuo] dependerá de seu
+
+comportamento no sistema. Em Paresi, temos uma proximidade entre, o que nos faz
+
+acreditar que o tepe comporta-se como um segmento [-contínuo], tal qual d/se
+
+distingue de, pois contém o traço [+vozeado] especificado, que não caracteriza /l/. No
+
+entanto,deve conter o traço [+contínuo], para se distinguir de Abaixo temos um
+
+quadro com os traços especificados dos três segmentos:
+
+ 
+
+
+[contínuo] -
++
+
+[coronal] +
++ +
+
+[anterior] +
++ +
+
+[vozeado] +
+
+
+[] [ho.l6]
+
+'brinquedo'' 'borduna'
+
+σ núcleo
+x r
+Voc Ponto-de-V [coronal] [-anterior]
+
+ [+voz]
+
+σ ataque
+x
+r Ponto-de-C
+Voc Ponto-de-V
+
+
+[coronal] [+anterior]
+
+A coronalização não se aplica pelo fato de /l/ ser especificado para [anterior].
+
+Nos dois processos abordados em seguida, por serem regressivos, ocorre apenas a
+
+coronalização intra-silábica:
+
+
+
+
+
+'vocês têm medo'
+
+
+
+'eu estou sujo'
+
+
+
+'criança'
+
+σ
+
+ataque x
+
+
+
+Núcleo
+
+x
+
+
+
+r
+
+r
+
+Ponto-de-C
+
+Voc
+
+[coronal]
+
+Voc
+
+Ponto-de-V
+
+Ponto-de-V
+
+[coronal]
+
+[-anterior]
+
+Coronalização ou promoção em Paresi. Ocorre intra-silabicamente.
+
+/
+
+Na africada, note-se que os traços se espraiam somente para a raiz não especificada
+
+para anterior:
+
+  
+
+‘amarelo’ ‘ele está deitado’ ‘liso'
+
+σ
+
+ataque 
+
+
+
+Núcleo  x
+
+r
+
+r
+
+r
+
+Cav. Oral
+
+Cav. Oral
+
+Ponto-de-C
+
+[-cont]
+
+Ponto-de-C
+
+[+cont]
+
+[coronal]
+
+[coronal]
+
+Voc
+
+[+anterior]
+
+Voc
+
+Voc
+
+Ponto-de-V
+
+Ponto-de-V
+
+Ponto-de-V
+
+[coronal]
+
+[-anterior] Coronalização ou promoção em Paresi. Ocorre intra-silabicamente
+
+Nos processos morfofonológicose os segmentos-
+
+alvo são  e ], respectivamente. Nesses processos, o output deve ser um elemento do
+
+sistema:
+
+   
+2 - vermelho
+
+‘vermelho` ‘você está vermelho’
+
+ 
+1-TOP 
+1-sentar-VBLZ
+
+‘eu` ‘eu sento’
+
+ 3 - ir  2 - ir
+ 2-FOC  2-sentar-VBLZ
+
+‘ele vai’ ‘você vai’
+‘você’ ‘você senta’
+
+σ
+
+σ
+
+núcleo
+
+x
+
+
+
+ataque x
+
+
+
+r
+
+r
+
+Ponto-de-C
+
+Voc
+
+Voc
+
+[coronal]
+
+Ponto-de-V
+
+(1)
+
+Ponto-de-V
+
+(2)
+
+[coronal]
+
+[-anterior]
+
+(1) Patalização e (2) Coronalização em Paresi
+
+σ
+
+σ
+
+Núcleo
+
+ataque
+
+
+
+
+
+r
+
+r
+
+r
+
+[i, j]
+
+Cav. Oral
+
+Cav. Oral 
+
+Ponto-de-C
+
+[-cont] Ponto-de-C [+cont]
+
+[coronal]
+
+[coronal]
+
+Voc
+
+[+anterior]
+
+Voc
+
+(2)
+
+Voc
+
+Ponto-de-V
+
+Ponto-de-V
+
+Ponto-de-V
+
+[coronal]
+
+(1)
+
+[coronal]
+
+[-anterior]
+
+[-anterior]
+
+(1) Palatalização e (2) Coronalização. (2) se espraia para Ponto-de-C [uanterior].
+
+4 Conclusão Em Paresi, os traços [coronal, -anterior] em Ponto-de-V de [i, j] sempre se espraiam
+para Ponto-de-V vazio de outra sílaba ou, quando na mesma sílaba, para Ponto-de-C não especificado para [anterior]. Trata-se de dois processos: palatalização, em que Ponto-de-V se espraia para Ponto-de-V, e coronalização, em que Ponto-de-V se espraia para Ponto-de-C. O domínio da sílaba determina qual dos dois processos ocorre: palatalização somente intersilabicamente e coronalização somente intra-silabicamente. A coronalização não se aplica a Ponto-de-C já especificado para [anterior].
+Já demonstramos como os segmentos // interagem com esses processos. Falta-nos dar uma explicação para
+O segmento /t/ tem todas as condições para ser palatalizado. Sabemos queé um elemento do sistema e que ocorre após outras vogais, além de contrastar em pares mínimos. No entanto, na grande maioria dos dados [] ocorre após [i], o que nos dá bons subsídios para dizermos que , após [i,j]seja a realização palatalizada do fonema //. Isso tornaria a nossa generalização mais robusta, já que se aplicaria a todos os segmentos consonantais da língua. Somente a palatalização ocorreria e não a coronalização, já que Ponto-de-C de // é marcado para [coronal, +anterior]. Sabe-se que a marcação é um correlato para a resistência à modificação (Hume & Tserdanelis, 2002).
+Os únicos dados em que a regra não se aplica são aqueles onde está presente o sufixo de aspecto continuativo -ita e a palavra para arco,Vale observar que, em ambos os casos, a sílaba em que reside a consoante alvo é acentuada. Quanto ao sufixo -ita, a sua concatenação à raiz muda a posição do acento sistematicamente:'ele anda'  'ele está andando'. Essa exceção poderia ser explicada se considerarmos a acentuação ou níveis prosódicos mais altos, domínios de análise ainda não suficientemente explorados.
+
+5 Referências Bibliográficas
+AIKHENVALD, A. Y. (1999). “The Arawak Language Family”. In: DIXON, R.M.W. AIKHENVALD, A. Y. (Eds.) (1999) The Amazonian Languages. Cambridge University Press. Cap. 3. p. 65-103; AIKHENVALD, A.Y. (2003). A Grammar of Tariana. CANOVA, L. (2003). Os doces bárbaros: imagens dos índios Paresi no contexto da conquista portuguesa em Mato Grosso (1719-1757). (Mestrado) Programa de Pós-Graduação em História, Cuiabá, UFMT; CHOMSKY & HALLE. (1963). The Sound Pattern of English. Harper & Row Publishers. CLEMENTS, G. N. & HUME, E. (1995) “The Internal Organization of Speech Sounds”. In: GOLDSMITH, J. (Ed.) (1995) The Handbook of Phonological Theory. Oxford: Blackwell Publishers. Cap. 7, p. 245-306; COSTA, R.M. (1985) Cultura e Contato: um Estudo da Sociedade Paresi no Contexto das Relações Interétnicas. (Mestrado) PPGAS/ Museu Nacional/ UFRJ. DRUDE, S. (1995) Observações para Servir para uma Ortografia do Waimare (inédito); FACUNDES, S. (2000) The Language of the Apurinã People of Brazil (Maipure/Arawak). PhD em Lingüística. New York. Buffalo University; FRANCHETTO, B. (1995) “Processos Fonológicos em Kuikuro: uma Visão AutoSegmental”. In: Estudos Fonológicos das Línguas Indígenas Brasileiras. WETZELS, L. (Org.) (1995). Rio de Janeiro: Editora UFRJ. p. 53-84; HALL, T. A. (2007) Segmental features. In: The cambridge handbook of phonology. DE LACY (org.). Cambridge: Oxford University Press. HUME, E. & TSERDANELIS, G. Labial Unmarkedness in Sri Lankan Portuguese Creole. In: LingBuzz http://ling.auf.net/lingBuzz/545-0902; ISA. Amazônia brasileira 2007: programa áreas protegidas da Amazônia/ MMA. ISA. 2007. OLIVEIRA (1993). Uma descrição do Baré (Arawak)-UFSC. PIKE, Kenneth. (1947). Phonemics: a technique for reducing languages to writing.SIL RAMIREZ, H.. (2001) Línguas Arawak da Amazônia Setentrional. EDUA, Manaus. REZENDE, U. (2003) Fonética e fonologia da língua Enawene-nawe: uma abordagem preliminar. Mestrado em Lingüística. UFRJ. SILVA, Glauber Romling da. (2007). Língua Paresi-Haliti (Arawak): primeiros resultados ABRALIN 2007 – UFMG - Belo Horizonte ; __________, Glauber Romling da. (2006) Fonologia da Língua Paresi-Haliti ( Arawak ): um problema de representação fonológica Apresentação- XXVIII Jornada de Iniciação Científica da UFRJ. Rio de Janeiro; __________, Glauber Romling da. (2005). Fonologia Preliminar da Língua Pareci ( Aruak ) Apresentação -XXVII Jornada de Iniciação Científica da UFRJ – Rio de Janeiro. ROWAN, O. (1961). Phonemic Statement of Paresi, SIL; ROWAN, O. (1979). Parecis Grammar, SIL; SAGEY, E. (1986). The representation of features and relations in nonlinear phonology. PhD, MIT. SANTOS, M. (2006). Uma gramática do wapixana (Aruák) – aspectos da fonologia, da morfologia e da sintaxe. Tese de doutorado em Lingüística. UNICAMP. SANTOS-GRANERO. The Arawakan Languages Histories. SOUZA, I. (2008). Koenukoe emo'u: a língua dos índios kinikinau. Tese de doutorado em Lingüística. UNICAMP.
+
+i Agradeço à Professora Yonne Leite pelos preciosos comentários que permitiram a finalização deste artigo. Quaisquer erros ou omissões são de minha inteira responsabilidade. ii Agradeço ao povo paresi-haliti das comunidades do Hohako (Formoso) e Korehete (JM) pela hospitalidade com que me receberam em minhas viagens de campo, em especial a Antonio Zonizare, Justino Zomozokae, Geovani
+Kezokenaece, Angelina Naizokaero, Genivaldo Zezokaece, Adavilson Zonizokie, Dona Agostinha, Manezinho,“abebe” Kezokero, João Titi Akonozokae e Maria Mulata Zoloizakaero além de todos os outros que contribuíram para o
+aprendizado de sua língua. iii As abreviações utilizados neste artigo são: CL 'classificador', FOC 'foco', 1 'primeira pessoa do singular', 2 'segunda
+pessoa do singular, 'VBLZ 'verbalizador', POSS 'possuído', N.POSS 'não possuído'. iv Mais adiante justificaremos a escolha de uma consoante subespecificada /4, d/. v Agradeço Elsa Gomez-Imbert por salientar a importância do domínio da sílaba para a análise dos processos
+fonológicos em Paresi.
+
+

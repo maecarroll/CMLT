@@ -1,0 +1,1303 @@
+ANDRÉ LUIZ FARIA
+
+ORDEM ORACIONAL E MOVIMENTO DE CLÍTICO DE SEGUNDA POSIÇÃO EM KAYABI (FAMÍLIA TUPIGUARANI)
+
+Dissertação
+
+apresentada
+
+ao
+
+Departamento de Lingüística do
+
+Instituto de Estudos da Linguagem da
+
+Universidade Estadual de Campinas
+
+como requisito parcial para a obtenção
+
+do título de Mestre em Lingüística.
+
+Orientadora: Profª Drª Maria Filomena Sandalo Spatti de Sá Porto
+
+UNICAMP
+Instituto de Estudos da Linguagem 2º semestre de 2004
+
+ANDRÉ LUIZ FARIA
+ORDEM ORACIONAL E MOVIMENTO DE CLÍTICO DE SEGUNDA POSIÇÃO EM KAYABI (FAMÍLIA TUPI-GUARANI)
+UNICAMP Instituto de Estudos da Linguagem
+2º semestre de 2004
+
+~ U~III)AOE
+
+HTMAKD~A~(~~
+
+v
+
+EX
+
+TOMBO BCI b02."~~
+
+PROC. 'b-bb-o~
+
+cO 000
+
+PREÇO '1(\){\
+DATA ~~
+
+N4lCPD
+
+-t\~~ ~(t 3/\~~~
+
+FICHA CATALOGRÁFICA ELABORADA PELA
+BIBLIOTECA IEL -UNICAMP
+
+F2250
+
+Faria, André Luiz. Ordem oracional e movimento de clítico de segunda posição em
+Kayabi (Família Tupi-Guarani) I André Luiz Faria. - Campinas, SP : [s.n.],2004.
+Orientadora: Prof. Dfl. Maria Filomena Spatti Sandalo.
+Dissertação (mestrado) - Universidade Estadual de Campinas,
+Instituto de Estudos da Linguagem.
+1. Língua Kayabi. 2. Clíticos. 3. Clíticos de segunda posição. 4. Ordem oracional sintagmática. I. Sandalo, Maria Filomena Spatti. 11. Universidade Estadual de Campinas. Instituto de Estudos da Linguagem. 111.Título.
+
+-
+BANCA EXAMINADORA
+
+ilorT)enaSpatti Sândalo de Sã Porto (UNlCAMP) v (Orientadora)
+
+Praf. Or. Angel Humberto Corbera Mori ( UNlCAMP)
+
+Profa. Ora. Luciana Ranccanello Storto (USP)
+
+Profa. Ora. Maria Bernadete Marques Abaurre (UNlCAMP)
+
+Este exen1plar c li redação final da tese
+
+deÜ~n(iida P{)~otu:
+
+~i:
+
+~c-
+
+--------
+
+!,. !~~,ldora <-'m
+
+/t1)',j '\ i"t"~"
+
+\
+
+! ,I.t,
+
+p
+
+BIBLIOTECA CENTRAL
+-SEÇÃO ClRCULANTE
+
+À Selma Maria Faria, meu maior amor.
+
+* O ponto de vista cria o objeto. SAUSSURE
+** Todo ponto de vista é a vista de um ponto. Ler, significa reler e compreender, interpretar. Cada um lê com os olhos que tem. E interpretar a partir de onde os pés pisam. Para entender como alguém lê, é preciso saber como são seus olhos e qual é a sua visão de mundo. Isso faz da leitura sempre uma releitura. LEONARDO BOFF
+*** Encontrei hoje em ruas, separadamente, dois amigos meus que se haviam zangado um com o outro. Cada um me contou a narrativa de por que se haviam zangado. Cada um me disse a verdade. Cada um me contou as suas razões. Ambos tinham razão. Não era que um via uma coisa e outro outra, ou que um via um lado das coisas e outro um outro lado diferente. Não: cada um via as coisas exatamente como se haviam passado, cada um as via com um critério idêntico ao do outro, mas cada um via uma coisa diferente, e cada um, portanto, tinha razão. Fiquei confuso desta dupla existência da verdade. FERNANDO PESSOA
+
+AGRADECIMENTOS
+Uma vez me disseram que os agradecimentos deveriam ser escritos numa tarde chuvosa. No calor do Rio de Janeiro, isso não foi possível. Então, logo de início, saibam que estes agradecimentos foram escritos numa tarde de 35º C; e apresentarão, portanto, um pouco do calor carioca.
+Este trabalho teve início no Museu Nacional do Rio de Janeiro sob a orientação da Profa Dra Marcia Maria Damaso Vieira, que me iniciou no estudo das línguas indígenas brasileiras. Por isso, dedico, em primeiro lugar, esta pesquisa a ela, cujas idéias sempre brilhantes, hoje, fazem parte, de alguma forma, do meu pensar.
+Ao ingressar na UNICAMP, tive a sorte de ser amparado pela Profa Dra Maria Filomena Spatti Sandalo (minha orientadora), cuja seriedade e precisão (paciência e insistência – nos últimos momentos) foram as molas mestras para a elaboração desta dissertação. Nesse período, passei a conhecer (e a aprender) a sintaxe gerativa por meio de sua orientação segura e amiga.
+Agradeço também à professora Profa Dra Luciana Storto que leu as primeiras versões deste trabalho e fez observações super pertinentes que
+
+contribuíram muito para a consecução deste trabalho. Além das observações, me ensinou a coletar e a pensar os dados lingüísticos a partir de dados secundários.
+Agradeço à Profa Dra Charlotte Galves pelas criteriosas observações e pelas válidas críticas ao meu trabalho, além das sugestões (bibliográficas e de ordenação das seções), por ocasião do exame de qualificação desta pesquisa.
+Agradeço ainda à minha banca examinadora – convocada em período de férias –, que aceitou participar deste trabalho com tanta boa vontade e dedicação.
+A lista só se completa com os nomes de alguns professores dos meus tempos de graduação na UFRJ: Carlos Alexandre Gonçalves Vivório, Emmanuel Santos, Humberto Menezes, Mônica Rio Nobre, Mônica Figueiredo, Maria Eugenia Duarte, Violeta Virginia Rodrigues, Vera Lúcia e, em especial, a professora Maria Emília Barcellos da Silva. Estes professores me proporcionaram os meios para que eu pudesse seguir a difícil vida acadêmica. Estou certo de que as marcas que eles me inseriram permanecerão para sempre em minha carreira e, principalmente, em minha vida.
+Agradeço ainda:
+
+Aos professores Jairo Nunes, Ingedore Koch, Angel Humberto Corbera Mori, Maria Bernadete Abaurre pelas indicações bibliográficas valiosas, pela leitura de alguns trabalhos iniciais e, principalmente, pelos ensinamentos durante o meu curso de mestrado na UNICAMP. Aos colegas de curso: Sílvia Regina, Norma, Zenaide, Gladys, Gianni, Nazarete pelos momentos de alegria e cumplicidade.
+Ao Centro Nacional de Pesquisa (CNPq) pela concessão da ajuda financeira, por meio de uma bolsa, responsável por parte da realização desta pesquisa.
+Ao casal Eli e Raul pela amizade e por tudo que fizeram por mim durante a minha permanência em Campinas.
+Esses agradecimentos, finalmente, se enceram com os nomes daqueles que, de uma forma ou de outra, me deram o suporte emocional adequado para a realização dessa dissertação. Assim, agradeço também:
+À Anariam Alves Silva pela descoberta, no supermercado Sendas, aos 7 anos de idade, apenas de short e camiseta. Além disso, agradeço a ela e aos familiares pelo apoio a todas as minhas decisões e pala confiança em minha capacidade intelectual.
+
+À Ângela Maria de Serpa Pinto e Carvalho,
+Aos professores da Escola Municipal Professor Lourenço Filho, principalmente, às três figuras luminares da minha jornada: Ângela Maria de Serpa Pinto e Carvalho, Maria Virtudes Arosa e Marirosa David Jorge, pelo apoio, compreensão e amor.
+À amiga do coração Jaqueline Peixoto pelas manhãs, tardes, noites e madrugadas (e não foram poucas!) de ajuda e leitura de algumas as versões. Se este não fosse um trabalho dessa natureza, lhe faria uma declaração de amor. Mas acho que é permitido repetir a célebre e conhecida frase: “amigo é coisa pra se guardar do lado esquerdo do peito, dentro do coração”.
+Aos amigos inesquecíveis de infância (Morro dos Macacos) e, outros...nem tanto: Alessandra, Ana Lourdes, Babi, Éderson, Esdras, Henrique (Cacá), Jean, Kátia Mery, Pathrycia (Paty), Patrícia Terezinha (Teuza), Saulo, Simone, Tatiana Vivório (Tataia), Tatiana (Tati), Vânia.
+Aos meus irmãos: Anderson, Wilson, Willian, Ana Paula, Felix e Luiz Fernando pelo sangue que nos mantêm unidos por onde andarmos, neutralizando, assim, a distância espacial que nos separam uns dos outros.
+
+À Selma Maria Faria, minha mãe, pelo forte sentimento que sinto, e que nem a linguagem (meu objeto de estudo) consegue exprimir com um mínimo de exatidão.
+
+ÍNDICE DE TABELAS
+
+NÚMERO
+
+p.
+
+1: Sistema pessoal/pronominal kayabi ...................................................... 12
+
+2: Afixos verbais que indicam negação ..................................................... 41
+
+ABREVIATURAS
+
+2P ACUS ADV Cl Co conc CP EVID excl f FOC GU incl INFL m MPR
+N(v) – i nar NEG Nego – NEGP NOM OBV pl PPs SC sg SIL SN SPEC T TE VP Xo XP
+
+segunda posição caso acusativo advérbio clítico núcleo do complementizador concordância sintagma complementizador evidencial 1a pessoa do plural exclusiva feminino foco gramática universal 1a pessoa do plural inclusiva flexão masculino marca de passado recente complexo da negativa em Kayabi forma narrativa negação núcleo da negação Sintagma negacional caso nominativo obviativo plural sintagma posposicional serbo-croata singular Summer Institute of Linguistic sintagma nominal especificador tempo partícula interrogativa; terminação de enfoque Sintagma verbal núcleo sintagma periférico
+
+RESUMO
+O kayabi (família Tupi-Guarani) é, aparentemente, uma língua de ordem livre, uma vez que todos os tipos de ordem são atestados. Constatou-se, todavia, que a variação na ordem dos constituintes oracionais parece obedecer a certas restrições, dependendo, dentre outras coisas, da forma verbal envolvida. Nas construções declarativas, em que o verbo ocorre com flexão de pessoa, a variação na ordem é menos restrito do que nas construções denominadas narrativas, em que o verbo vem desprovido de flexão pessoal, e somente os tipos SOV e OSV são permitidos. Além disso, verificou-se que o kayabi apresenta clíticos de segunda posição, os quais estão intimamente relacionados com as restrições das ordens dessa língua. Em vista desses fatos, discuto a possibilidade de estes clíticos sofrerem movimento sintático, com base nos pressupostos teóricos da gramática gerativa.
+Palavras-chave: língua Kayabi, clíticos, clíticos de segunda posição, ordem oracional sintagmática.
+
+ABSTRACT
+Kayabi language (Tupi-Guarani family) is, at first sight, a free word order language, since all kinds of word order are attested. Nevertheless, we show that the variation in the order of the sentence constituents obey certain restrictions, depending on, from among others, the verbal form involved. In declarative constructions, in which the verb is marked by person inflection, the order variation is less restrict than the constructions named narratives, which the verb is not marked by person inflection, and only SOV and OSV are allowed. Moreover, it also shows that kayabi has second position clitics and we discuss an analysis of second position clitics, in which to these clitics undergo syntactic movement, based on the gerative grammar theoretical framework.
+Keywords: kayabi language, clitics; second position clitics, word order sentence.
+
+ÍNDICE GERAL
+
+ÍNDICE DE TABELAS
+
+xi
+
+ABREVIATURAS
+
+xii
+
+RESUMO
+
+xiii
+
+ABSTRACT
+
+xiv
+
+INTRODUÇÃO
+
+1
+
+CAPÍTULO 1: BREVE HISTÓRICO DA A CULTURA KAYABI 4
+1.1 – O povo................................................................................4 1.2 – A língua..............................................................................6
+
+CAPÍTULO 2: O SISTEMA PRONOMINAL
+
+10
+
+2.1 – Prefixos pessoais e pronomes livres..................................10
+
+2.2 – Pronomes livres do Kayabi são clíticos de 2P....................17
+
+CAPÍTULO 3: A VARIAÇÃO DA ORDEM EM KAYABI
+
+23
+
+3.1 – Uma palhinha sobre estrutura oracional e movimento.....23
+
+3.2 – A ordem oracional em Kayabi............................................26 3.2.1 – OSV: uma ordem marcada.......................................28 3.2.2 – a ordem VSO............................................................30 3.2.3 – SOV: a ordem básica................................................31
+
+CAPÍTULO 4: OS CLÍTICOS DE SEGUNDA POSIÇÃO
+
+33
+
+4.1 – A proposta de Progovac (1996).........................................33 4.2 - As interrogativas................................................................38
+
+4.3 – A negação..........................................................................40
+
+CONSIDERAÇÕES FINAIS
+
+45
+
+REFERÊNCIAS BIBLIOGRÁFICAS
+
+47
+
+INTRODUÇÃO
+Terei por objetivo, nesta dissertação, apresentar um estudo formal de aspectos da gramática da língua Kayabi, tais como a ordem oracional básica dessa língua, tendo em vista a constatação da existência dos pronomes clíticos de segunda posição. Especificamente, minha hipótese é a suposição de que no Kayabi os pronomes clíticos envolvam movimento de clítico para o núcleo do sintagma complementizador. Para dar conta do objetivo deste trabalho, adotarei os pressupostos teóricos da Gramática Gerativa, não assumindo por ora, qualquer linha dentro das várias abordagens desse quadro.
+Assumo a definição de clítico de Spencer (1991)1, segundo a qual os clíticos são os elementos que compartilham, de um lado, certas propriedades de palavras e, de outro, certas propriedades de afixos flexionais. Em outras palavras, pode-se dizer que são formas que se assemelham a uma palavra, mas que não podem aparecer sozinhas em um enunciado, sendo fonologicamente dependentes de um hospedeiro. Tem-se descrito, dentro da classe dos clíticos, uma classe de clíticos especiais. Tais elementos não aparecem em posição inicial da sentença, mas somente depois de um elemento não-clítico (acentuado) que
+1 O texto original é o que se segue: “Clitics are elements which share certain properties of fully fledged words, but which lack the independence usually associated with words. In particular, they can’t stand alone, but have to be attached phonologically to a host. This makes them look a little like affixes, in particular, inflectional affixes.” (Spencer, 1991:350).
+
+2
+ocupa a primeira posição da sentença. Em conseqüência dessa característica, são chamados de clíticos de segunda posição ou de clíticos de Wackernagel2.
+A análise de clíticos tem se dado por meio de diversos enfoques dentro do gerativismo: (a) sintático; (b) fonológico-sintático; (c) prosódico3.
+Este texto aborda sobre clíticos de 2P em Kayabi a partir de uma perspectiva
+sintática. Note, entretanto, que este trabalho é apenas um exercício de análise
+e formulação de hipóteses a partir de dados publicados sobre a língua em
+questão.
+É sabido que os povos indígenas no Brasil e no mundo
+desaparecem a cada dia. No entanto, cabe ressaltar tal lembrança, a qual não
+poderia ficar ausente em um trabalho lingüístico dessa natureza. Na verdade,
+os motivos desse desaparecimento estão relacionados a fatores econômicos,
+culturais e, principalmente, histórico-políticos. Um mínimo de conhecimento da
+História do Brasil é suficiente para entender a crise generalizada que atinge as
+populações indígenas.
+Em vista disso, estudos como o da presente dissertação fazem-se
+necessários, em primeiro lugar, para a comunidade lingüística, já que, como
+2 Os clíticos de segunda posição também são conhecidos na Literatura Lingüística de clíticos de Wackernagel (em homenagem a Jacob Wackernagel, estudioso segundo o qual formulou alguns princípios sobre clíticos, em 1892, na celebre obra Uber ein Gesetz der Indogermanischen Wortstellung) ou, em alguns casos, de Lei de Wackernagel (Wackernagel’s Law), visto que em algumas línguas os elementos clíticos não aparecem em posição inicial da sentença, ocorrendo apenas depois de um elemento não clítico – normalmente acentuado, mas não necessariamente – que ocupa a primeira posição na sentença. Parte dessa definição encontra-se em HALPERN (1995:14-15). “It has long been noted that stressless words of these categories often have to appear in a position near the beginning of the clause, either in a position which a nonclitic element of the same category couldn’t occupy at all or would only optionally occupy, a point already in the air before Wackernagel’s seminal demonstration (1892) of this point (...) Wackernagel (1892) is generally associated with the first of these, and hence the label Wackernagel’s Law is often used to describe the tendency of clitics to appear in this position.
+
+3
+trabalho teórico, servirá para confirmar ou infirmar, no futuro, as hipóteses aqui levantadas sobre os clíticos e, em segundo, para os Kayabi, que se servirão indiretamente deles, uma vez que poderão analisar as partes constitutivas de sua língua, quando estiverem aprendendo a modalidade escrita.
+Os dados a serem analisados provêm do material organizado pelo Summer Institute of Linguistic (SIL), coletados em um período de 28 anos (1970-1998) pelas lingüistas Dobson e Weiss (Cf. Referencias Bibliográficas desta dissertação). O material organizado pelo SIL compreende uma gramática, listas de verbos e textos.
+Esta dissertação compõe-se de quatro capítulos. O primeiro apresenta breves considerações sobre o povo e a língua Kayabi. No segundo, é feita a descrição do sistema pronominal dessa língua. Consta do terceiro capítulo a análise da variação da ordem em Kayabi. Alguns argumentos em favor de uma hipótese de movimento dos clíticos do Kayabi, por substituição, serão apresentados no quarto capítulo.
+Espera-se que as conclusões desta dissertação possam servir de fonte para futuros trabalhos, contribuindo, dessa forma, para o avanço dos estudos em línguas indígenas brasileiras e, mais particularmente, para a descrição da língua Kayabi.
+3 Para maiores esclarecimentos, remeto o leitor à coleção organizada por HALPERN, Aaron & ZWICKY, Arnold (1996).
+
+4
+CAPÍTULO 1: BREVE HISTÓRICO DA A CULTURA KAYABI
+Até o presente momento, a língua Kayabi tem sido pouco estudada, principalmente, no que se refere aos aspectos de sua gramática. A fim de entender com mais precisão esta língua, apresentamos um breve histórico sobre esse povo e sua língua.
+1.1 – O Povo
+“Tudo que se sabe dos Cajabis é que são bravios e indómitos e habitão a margem do Paranatinga acima do Salto. São inimigos dos Bakairis”4.
+Conta uma tradição que o povo Kayabi era dos mais guerreiros e indomáveis na época da Colonização Brasileira. Todos que ameaçassem a segurança do grupo e invadissem seu território pereceriam nas pontas de suas lanças e nas astes de seus machados. Além disso, acredita-se que os kayabi eram adeptos à antropofagia, prática muito comum entre algumas tribos indígenas, segundo GRÜNBERG (2004).
+Hoje, no entanto, a antropofagia não é mais uma característica desses índios, cuja documentação é bastante escassa, sendo encontrada
+4 Apud WEISS (1998:6)
+
+5
+apenas, segundo Weiss (1998), “em crônicas de viagens e expedições, além de relatórios de funcionários do governo do Mato Grosso, que mencionam relatos ouvidos de terceiros”. Essa escassez de documentação5 não está restrita aos Kayabi, mas à maioria dos povos indígenas que fala suas línguas bem antes de nós, embora só tenham sido reconhecidas na Constituição de 1988. Ainda que nosso conhecimento seja panorâmico, antropólogos, lingüistas e missionários têm lutado “com unhas de dentes” para preservar o povo e a cultura indígenas. Graças a Tupã!
+Em vista desses fatos, “Tampouco podemos esperar respostas seguras da Lingüística, pois estamos longe de esgotar as tarefas de descrição, comparação e classificação das línguas indígenas, que são básicas à reconstrução histórica. (...) Tudo somado, é possível dizer que vivemos em uma ilha de conhecimento rodeada por um oceano de ignorância. Sabemos menos do que deveríamos, mas felizmente ainda podemos saber mais. Para avançar cumpre fazer as perguntas certas”6
+Com uma população de aproximadamente 1300 pessoas, segundo censo realizado por Helga WEISS (1998), os Kayabi habitam às margens dos rios Teles Pires, Verde, Arinos, Rio dos Peixes até o rio Peixoto. Esses lugares foram disputados pelos apiaká, munduruku, baikarí, beiço-de-pau, entre outros, em constantes conflitos pelos domínios da terra e pelo monopólio de pedras,
+5 Essa escassez de documentação tem sido minimizada principalmente por estudos antropológicos, realizados no Brasil e no exterior por renomados pesquisadores. Para maiores informações sobre tal informação, remeto o leitor a GRÜNBERG (2004:251-299) 6 FAUSTO, Carlos. Os índios antes do Brasil. Rio de Janeiro, Jorge Zahar, 2000.
+
+6
+usadas principalmente na fabricação de machados. Os sérios desentendimentos com os seringueiros resultaram em migrações para áreas diferentes do seu habitat tradicional.
+Por terem sido desterrados de seu território tradicional na década de 50/60, “hoje os kayabi lutam pela recuperação de suas terras ancestrais e pela recuperação de, pelo menos, parte desta perda.”
+Uma vez que o processo de transferência não foi consensual entre os Kayabi, o grupo se dividiu. Parte foi levada para o Xingu, ficando a outra parte no local de origem. A vontade de retornar ao local de origem sempre permaneceu viva no coração daqueles que foram transferidos para o Xingu, segundo confissão feita por alguns kayabi ao antropólogo Eduardo Galvão (apud GRÜNBERG, 2004:252).
+1.2 – A Língua
+Segundo RODRIGUES (1986), a língua kayabi pertence à família Tupi-Guarani, oriunda do tronco lingüístico Tupi. O Tupi-Guarani é uma das sete famílias lingüísticas (e mais três isoladas) que pertencem ao tronco Tupi, segundo a classificação de RODRIGUES (1986). Essa família lingüística soma vinte e uma línguas, sendo o Kayabi uma delas.
+O crescente conhecimento do Português pelos índios Kayabi se deve à convivência com a sociedade envolvente, à escola (ensino em
+
+7
+Português), ao rádio e à televisão, já presentes em algumas aldeias e postos. Entretanto, a maioria dos Kayabi se comunica, ainda, em sua língua. Algumas crianças, porém, não aprendem mais a falar o Kayabi. Alguns falam ou entendem uma ou mais línguas indígenas de etnias diferentes. Os velhos, todavia, falam pouco o Português, uma das razões pelas quais, em grande parte, a liderança passou aos jovens bilíngües. As mulheres, especialmente as alfabetizadas em Português, desempenham um papel mais especializado como enfermeira, professora7.
+Em termos descritivos, e seguindo os moldes estritamente estruturalistas, muitos trabalhos foram escritos a respeito dessa língua. A pesquisadora que tem mais trabalhos publicados sobre a língua Kayabi – e talvez a principal porta-voz dessa língua em termos lingüísticos – é Dobson Rose, que inicia seus estudos sobre essa língua por volta dos anos setenta. Outro nome que pode ser destacado é o da lingüista Helga Weiss, que também inicia seu trabalho sobre a língua e povo Kayabi na década de setenta, publicando alguns trabalhos em co-autoria com Dobson Rose.
+Em 1970, essas duas autoras publicam Kayabi clauses types, um trabalho inédito, arquivado no SIL, na Funai de Brasília e no Museu Nacional do Rio de Janeiro. Em 1972, Helga Weiss publica Kayabi verbs; em 1983, Dobson publica Pronomes relativos Kayabi; em 1977, kayabi texts; Kayabi locational
+7 A respeito de mulheres da própria tribo trabalhando como professora é um fato novo e revolucionário em se tratando da cultura indígena. Isto se deve, em grande parte, ao trabalho que lingüistas sérios vêm fazendo ao longo destes últimos anos, com a construção de listas de vocábulos (na língua indígena e no português), gramáticas e até mesmo de dicionários.
+
+8
+deictics, 2 Kayabi texts with free translation; em 1976, Kayabi texts with free translation; e Repetição em Kayabi; em 1988, Aspectos da língua Kayabi; em 1997, Gramática prática com exercícios da língua Kayabi; em 1998, Weiss defende sua tese de doutorado, em que compila um pequeno dicionário da língua kayabi; em julho de 2004, o Instituto Socioambiental (ISA) lança o livro Os Kaiabi do Brasil Central: história e etnografia, obra escrita na década de 60, como dissertação, pelo antropólogo Georg Grünberg.
+Com base nos pressupostos teóricos da Gramática Gerativa, iniciase, no final da década de 90, o estudo da ordem oracional dessa língua, no projeto "A natureza das categorias substantivas e das categorias funcionais: um estudo voltado para as línguas indígenas brasileiras", no Museu Nacional do Rio de Janeiro, sob a orientação de Marcia Maria Damaso Vieira. Desse estudo, resultaram os seguintes trabalhos: (a) O problema da ordem básica da língua Kayabi (Faria, 1999) e (b) Os clíticos de segunda posição do Kayabi (Faria, 2000). Mais recentemente, Gomes (2002)8 defende sua dissertação de mestrado, na qual chama a atenção para alguns aspectos gramaticais do Kayabi, parte deles – como os clíticos, por exemplo – encontrados em Faria, 1999. A diferença fulcral entre o trabalho de Gomes (2002) e o de Faria (2004), portanto, se estabelece segundo a posição teórica assumida. Aqui acredito que, no Kayabi, há movimento de verbo para Comp e, quando há presença de
+8 Gomes, Nataniel dos Santos (2002). Observações sobre aspectos gramaticais do Kayabi: variação da ordem e clíticos de 2a posição. Dissertação de Mestrado, UFRJ.
+
+9
+complementizador, o clítico passa para a terceira posição, ficando clítico e complementizador adjacentes.
+Por tudo que foi descrito até agora, mesmo que panoramicamente, constata-se a necessidade de analisar os fenômenos lingüísticos apontados/descritos em outros trabalhos sobre a língua Kayabi. Na realidade, iremos trabalhar aqui com uma parte desses fenômenos: os clíticos. Conseqüentemente, esta pesquisa implica a investigação de fenômenos relativos à sintaxe (ordem dos constituintes da língua).
+Assim, descreveremos, no próximo capítulo, o sistema pronominal desta língua; capítulo este que abrirá caminho para a discussão da variação da ordem, no capítulo subseqüente. O último capítulo aborda clíticos de 2P.
+
+10
+CAPÍTULO 2: O SISTEMA PRONOMINAL
+Meu objetivo neste capítulo é fazer uma descrição do sistema pronominal do Kayabi, além de mostrar uma classe de pronomes que pode ser interpretada como clíticos de segunda posição. Assim como no Serbo-Croata, a língua em estudo apresenta algumas características que atestam a existência de tais clíticos, como, por exemplo, a exigência de um constituinte antes do sujeito pronominal. Em decorrência disso, descrevo este sistema, dando maior ênfase às formas agregadas aos verbos.
+2.1 – Prefixos pessoais e pronomes livres
+Segundo GALÚCIO (2001), três classes de palavras são marcadas por afixos pronominais em línguas Tupi: a classe dos substantivos, dos relacionadores e dos verbos. Esse sistema, segundo a análise feita por WEISS (1998), comportaria uma série de pronomes livres e uma série de prefixos pronominais.
+Dependendo da classe de palavras a que são afixados, os prefixos pessoais desempenham diferentes funções, tais como marcação de posse em construções possessivas, como se vê em ((1) (a;b)); concordância com o sujeito no verbo como em (2), respectivamente, havendo uma co-ocorrência
+
+11
+obrigatória entre os prefixos pessoais e pronomes livres, ou seja, uma forma livre e uma forma prefixada ao verbo.
+
+(1a)
+
+a. je-py
+
+meu pé
+
+b. ne-py
+
+seu pé
+
+c. gã-py
+
+pé dele
+
+d. ore-py
+
+nosso pé (excl.)
+
+e. jane-py
+
+nosso pé (incl.)
+
+f. pẽ-py
+
+pé de vocês
+
+g. ‘gã-py
+
+pé deles
+
+(1b)
+
+a. te-py
+
+b. e-py
+
+c. o-py
+
+d. oro-py
+
+e. jare-py
+
+f. peje-py
+
+g. o-py
+
+o meu próprio pé o seu próprio pé o pé dele próprio o nosso próprio pé (excl.) o nosso próprio pé (incl.) o pé de vocês próprios o pé deles próprios
+
+(2) kasurua
+
+je
+
+cachorro
+
+eu
+
+Bati no cachorro
+
+a-nupã eu-bater
+
+ko EVID
+
+12
+Assumo que prefixos pessoais são marcas de concordância neste momento, mas é óbvio que este ponto precisa de maior investigação, uma vez que formas livres e formas afixais não estão em distribuição complementar.
+Seja como for, não vou me deter na apresentação da classe dos substantivos e dos relacionadores, uma vez que isso me desviaria dos objetivos principais desta dissertação e, para que isso não aconteça, me centrarei na classe dos verbos9.
+A seguir, apresento a tabela com os prefixos pronominais e com os pronomes livres da língua Kayabi.
+
+Tabela 1: Sistema pessoal/pronominal Kayabi10
+
+PESSOAS
+1sg 2sg
+3sg
+1pl.Incl 1pl.Excl 2pl
+3pl
+
+PREFIXOS PESSOAIS
+aere-
+o-
+sa-/sioropẽ-
+o-
+
+PRONOMES LIVRES DE 2P
+je ene m/m ‘ğa m/f kĩa f/m ẽẽ f/f kyna jane ore ene m ‘ğã f wã
+i
+
+9 Existe um subconjunto de pronomes dentro dessa classe de prefixos pessoais de 1a e 2a pessoas que, às vezes, se apresentam como pronomes livres e como prefixos. 10 Esta é uma simplificação da tabela que Weiss (1998) apresentou, contendo cinco colunas, cada qual dividida em duas séries (A e B). Esta redução foi realizado com o intuito de facilitar o leitor e, pelos objetivos desta dissertação, a redução não implica maiores dados à tabela original da autora. Sei, no entanto, que a tabela que Dobson apresenta
+
+13
+Assumindo que estamos diante de concordância, podemos dizer que o Kayabi é uma língua que reflete marcação de caso nominativo-acusativo no sistema de concordância com o verbo, sem marcação explícita do sintagma11. Nesse tipo de marcação de caso, o sujeito do verbo transitivo e o sujeito do verbo intransitivo formam juntos uma categoria, marcada no verbo por meio de concordância, opondo-se ao objeto do verbo transitivo, que não recebe marca especial. A união do sujeito intransitivo e do sujeito transitivo em uma só categoria são o que se chama de nominativo, ao passo que a inclusão de objeto em uma categoria à parte é o que se chama de acusativo. Compare, abaixo, as sentenças do Russo (língua reconhecidamente incorporada no padrão nominativo-acusativo, com a diferença de que caso é marcado no sintagma) com as sentenças do Kayabi12.
+
+(5) Andrei
+
+ljubit
+
+Andrei
+
+ama
+
+André ama Natasha
+
+Natash-u Natasha-ACUS
+
+pode estar expressando outros fatos lingüísticos, como marcação de caso, fato que não será abordado aqui. Vale ressaltar que pronomes livres de 2P estão sendo entendidos como clíticos, que serão analisados mais adiante. 11 Assume-se aqui esta perspectiva com base no fato de que as formas clíticas e as formas livres não parecem estar em distribuição complementar. 12 Note que, com segunda posição, parece haver um padrão distinto de caso/concordância, uma vez que, quando a sentença envolve sujeito de segunda posição, o objeto é marcado no verbo. São comuns casos de cisão envolvendo a segunda posição em algumas línguas indígenas. Ver Sândalo (2002).
+
+o-jerejerepa
+
+ene
+
+3-virar-nar
+
+2sg
+
+Você vira muito a canoa
+
+Yara Canoa
+
+14
+
+(6) Natash-a Natasha-NOM Natasha partiu
+
+uxodit I-partir
+
+(7) a-esak je Ene
+
+ko
+
+eu-ver Eu Você MPR
+
+Eu vi você
+
+(8) te-‘aw-a
+
+je
+
+meu-meu
+
+Eu
+
+mesmo-mn
+
+Eu cortei meu cabelo
+
+a-monok Eu-cortar
+
+(9) kasurua
+
+je
+
+cachorro
+
+eu
+
+Bati no cachorro
+
+(10) ere-tym você-plantar Você planta
+
+a-nupã eu-bater
+
+ko EVID
+
+(11) iar-iwats
+
+kia
+
+Barco-alto
+
+Ele
+
+Ele vê um avião
+
+w-esak Ele-ver
+
+(12) tayao-a
+
+ore
+
+Porco-mn
+
+Nós
+
+Nós comemos o porco
+
+oro- ‘u Nós-comer
+
+Listo abaixo exemplos de verbos intransitivos, ilustrando cada um dos prefixos pessoais e prefixos da tabela 1.
+
+15
+
+(13) a-yao
+
+je
+
+eu-respirar Eu
+
+Eu respiro
+
+(14) ere-apik Você-sentar Você senta
+
+(15) w-ata
+
+kia
+
+ele-caçar
+
+ele
+
+Ele caça
+
+(16) u-‘a
+
+kia
+
+Ele-cair
+
+ele
+
+Ele cai
+
+(17) so-jo-nome’u jane nós-OBV-dizer nós Nós contamos ao outros sobre nós
+
+(18) o-jo-maŋwai
+
+wã
+
+eles-OBV-cortar eles
+
+Um deles cortou o outro
+
+(19) a-ju-e-ro-jepimi
+
+wã
+
+eles-OBV-conc-mergulhar Eles
+
+Eles mergulharam com os outros
+
+16
+
+(20) ka’i
+
+kia
+
+macaco
+
+ele
+
+O macaco dormiu
+
+o-se ele-dormir
+
+Como se pode observar no exemplo (20) acima, um nome pode co-ocorrer com um pronome livre referindo-se ao sujeito, ocorrendo, neste caso, apenas uma mudança na ordem dos constituintes da oração. Observe também que mesmo com a presença do nome, nem o pronome nem o prefixo podem ser omitidos.
+O comportamento dos verbos transitivos é semelhante ao dos verbos intransitivos no que diz respeito à co-referência entre sintagmas nominais e prefixos pessoais, isto é, um nome pode co-ocorrer com um pronome co-referente.
+Os verbos descritivos, de acordo com Dobson (1972, 1988), expõem uma pessoa, um lugar ou uma situação. Ao contrário dos verbos intransitivos e transitivos, o grupo dos descritivos exige apenas prefixo pessoal, sendo, portanto, o pronome livre opcional na sentença. Os prefixos, neste caso, correspondem ao paradigma dos pronomes livres aparecendo, no entanto, cliticizado à raiz verbal. Compare os exemplos que se seguem:
+
+(21) je-mara’ne
+
+je
+
+eu-estar com raiva eu
+
+Eu estou com raiva
+
+17
+
+(22) jane-pirakup
+
+jane
+
+nós-estar com calor nós
+
+Estamos com calor
+
+(23) jane-pirakup nós-estar com calor Estamos com calor
+
+(24) ‘gã-opei
+
+‘gã
+
+ele-estar com sono ele
+
+Ele está com sono
+
+2.2 – Pronomes livres do kayabi são clíticos de 2P
+Grande parte dos trabalhos desenvolvidos em sintaxe, mais especificamente nas línguas indígenas brasileiras, aborda a questão da ordem oracional. Em contrapartida, nem sempre essa abordagem leva em conta critérios científicos rígidos, e com um referencial teórico coerente e elegante que dê conta dos dados observados.
+Dessa maneira, o fato de boa parte dos trabalhos descritivos em línguas indígenas considerar apenas o critério de freqüência no estabelecimento da ordem oracional básica de uma língua suscitou minha curiosidade a respeito das restrições das ordens possíveis na língua Kayabi, enumeradas por DOBSON & WEISS (1970). Na verdade, eu queria saber se essas restrições tinham a ver
+
+18
+com a natureza dos elementos, ora nominal ora pronominal, encontrados na segunda posição.
+A hipótese era a de que a ordem OSV estabelecida como básica em Kayabi era uma ordem derivada. Pensar nessa hipótese, entretanto, não foi difícil, visto que observamos que essa ordem, nas construções narrativas, refletia uma estrutura com deslocamento para a esquerda, ao passo que, nas construções declarativas, a ordem OSV seria derivada por um mecanismo que deslocava o objeto para a posição de foco. Por esse prisma, as ordens possíveis em Kayabi seriam explicadas da seguinte maneira: (a) a ordem VSO, restrita apenas ao contexto de negação, deslocaria o verbo para a posição de foco; e (b) SOV seria a ordem subjacente, uma vez que por meio dela seria possível explicar as outras ordens pelo movimento do objeto e do verbo para a posição de foco, respectivamente.
+Assim, a nossa hipótese foi confirmada quando mostramos que o critério de freqüência para o estabelecimento da ordem básica de uma língua não é sempre o mais indicado. É preciso determinar uma ordem básica subjacente, que nem sempre é a mais freqüente, por meio da qual é possível derivar os outros tipos de ordem mediante mecanismos de movimento, conforme postula a Gramática Gerativa.
+A seguir, encontram-se as conclusões que a pesquisa permitiu chegar.
+
+19
+Segundo minha análise, o que se chama pronomes livres na língua Kayabi são, na verdade, clíticos de 2P. Assim fazendo, podemos obter algumas generalizações sobre a ordem oracional desta língua.
+Primeiramente, pode-se observar que a ordem oracional varia de acordo com a natureza do elemento que ocorre em 2ª posição: se nominal ou pronominal. Assim, quando sujeito e o objeto são expressos por sintagmas nominais, constata-se sempre o tipo SOV, como ilustra o dado abaixo:
+
+(25) miara
+
+moa ´u
+
+onça
+
+cobra comer
+
+A onça comeu a cobra
+
+Por outro lado, quando o sujeito é expresso por um pronome e, o objeto é expresso por um sintagma nominal ou por um pronome de 3a pessoa, obtém-se os tipos OSV ou VSO, sendo o primeiro tipo de uso mais freqüente.
+
+(26) Y´wa
+
+je
+
+fruta
+
+Eu
+
+Eu quebrei a fruta
+
+a-ka 1-quebrar
+
+(27) a-ka
+
+je
+
+1-quebrar
+
+eu
+
+Eu quebrei o ovo
+
+Upi´a ovo
+
+Os dados observados indicam que os elementos pronominais de 1a e 2a pessoas, “erroneamente” classificados por Dobson (1976b) de pronomes
+
+20
+livres – haja vista não ter separado as construções em que sintagmas nominais de sujeitos e objetos estão envolvidos daquelas em que o sujeito de 1a e 2a pessoas é expresso por um pronome clítico –, são, na verdade, clíticos de 2a posição ou de Wackernagel13. Isto é, são clíticos especiais que precisam ocupar a 2a posição na sentença após um sintagma ou núcleo.
+É justamente a natureza clítica dos pronomes de 2a posição que pode explicar as restrições da ordem observadas por DOBSON que serão apresentadas e discutidas mais adiante. Sendo clíticos de 2a posição, eles não podem ocupar a 1a posição na oração.
+Em segundo lugar, constata-se, pela observação dos dados, que a ordem VSO, com verbo na forma negativa, é justificada da mesma maneira que as outras, envolvendo um sujeito pronominal, isto é, ele deve ocupar a 2a posição, quando é pronominal. Quando o sujeito é um SN, ele precede o verbo na forma negativa, como ilustra o exemplo (28):
+
+(28) Yokyra
+
+n-a-tyku´ar-i
+
+sal
+
+neg-3-dissolver-neg
+
+O sal não está dissolvendo
+
+Note-se ainda que, se o sujeito for pronominal, mas houver focalização de um adjunto, o verbo negativo não vai aparecer na 1a posição da sentença.
+
+13 Ver nota 3, p. 18 desta dissertação.
+
+21
+
+(29) Aman-ipe
+
+je
+
+Chuva-em
+
+eu
+
+Eu não vim na chuva
+
+n-o-jor-i neg-1-vir-neg
+
+A exigência da ocorrência de um constituinte (sintagma ou núcleo) antes do sujeito pronominal é, então, justificada pela natureza clítica de 2a posição dos pronomes de 1a, 2a e 3a pessoas.
+Em resumo, pode-se dizer que, neste capítulo, procurei apresentar evidências para comprovar que há “pronomes especiais” no Kayabi, que diferem das línguas indígenas brasileiras dessa família. Observe os dados de SEKI (2000:69;73) sobre a língua Kaiamurá.
+
+(30) i-poryaup
+
+je
+
+upe
+
+3-ter pena
+
+1sg
+
+dat
+
+Tenho pena dele
+
+(31) Ne=katu-em 2sg=bom-Imper/Neg Não seja bom
+
+Note-se que há um clítico que se cliticiza pela direita ao núcleo com o qual forma um constituinte sintático. O aparecimento desse clítico na posição mais à direita da estrutura oracional levanta suspeita de um movimento sintático, em que o que está em jogo é a focalização do constituinte em causa.
+Embora essa análise seja possível, vale ressaltar que SEKI (2000) não tinha em seu horizonte de preocupação os clíticos de segunda posição. Seu
+
+22
+trabalho é descritivo, isto é, descreve os principais aspectos/fatos da gramática Kaimaurá. A qualidade de seu trabalho permite levantar hipóteses teóricas sobre a gramática da língua, mas, devido a própria natureza descritiva do trabalho, não permite a comprovação dessas hipóteses, necessitando posterior comprovação, por meio de pesquisas realizadas em outras línguas da mesma família.
+Assim, este capítulo serve de suporte para o capítulo seguinte, uma vez que a descrição da ordem oracional está diretamente relacionada com a natureza (clítica ou não) de tais pronomes. Portanto, como se verá, ele será de suma importância para discussão que farei dos clíticos de segunda posição no capítulo 4.
+
+23
+CAPÍTULO 3: A VARIAÇÃO NA ORDEM EM KAYABI
+Meu objetivo neste capítulo é mostrar que a ordem básica da língua Kayabi é SOV e que os tipos OSV e VSO são derivados por movimento do verbo e do objeto. Na realidade, essa variação na ordem dos constituintes oracionais depende, entre outras coisas, da forma verbal envolvida. Em vista disso, pretende-se discutir as seguintes questões: (i) o estabelecimento da ordem oracional básica; (ii) a derivação dos outros tipos de ordem a partir da ordem básica; e (iii) os pronomes de 1a, 2a e 3a pessoas, analisados como clíticos de 2P, os quais serão discutidos como mais detalhe no próximo capítulo.
+Antes, porém, passemos a descrição da estrutura oracional que estamos considerando como escopo desta dissertação.
+3.1 - Uma “palhinha” sobre estrutura oracional e movimento
+A explicação para a variação na ordem existente em uma língua pode ser devida a mecanismos sintáticos. Assim, por exemplo, para se saber se houve ou não movimento do verbo e de seus argumentos, observa-se a posição dos advérbios, da negação e dos quantificadores em relação a esses constituintes.
+
+24
+O inglês e o francês diferem entre si quanto à ordem dos verbos em relação aos advérbios. No francês, o verbo precede o advérbio e, no inglês, ao contrário, o verbo segue o advérbio. Postula-se, em vista disso, que o advérbio (geralmente de modo) ocupa uma posição fixa na oração, que é de adjunção ao VP. Sendo assim, se o verbo ou seus argumentos ocorrem antes do advérbio, é sinal de que eles foram movidos de sua posição de base de dentro de VP. Entretanto, se o verbo e seus argumentos ocorrem após o advérbio, é sinal de que eles não foram deslocados para fora do VP, isto é, eles permanecem em sua posição de base. Caso o verbo apareça depois do advérbio, a sentença se torna agramatical, como se vê no exemplo abaixo:
+
+(1) Jean embrasse souvent Marie
+
+S V Adv. O
+
+Jean beijar, 3sg freqüentemente Marie
+
+Jean beija Marie freqüentemente
+
+(2) * Jean souvent embrasse Marie
+
+O fato de que em francês o verbo aparece antes do advérbio constitui evidência de que ele foi movido para alguma categoria funcional fora de VP.
+No inglês, como o verbo ocorre após o advérbio, é sinal de que ele permaneceu in situ.
+
+25
+
+John often kisses Mary
+
+S Adv. V O
+
+John freqüentemente beijar, 3sg Mary
+
+John freqüentemente beija Mary
+
+Em relação ao modelo de Princípios e Parâmetros, a flexão (INFL) era composta por dois traços: aspecto e tempo. POLLOCK (1989) propõe a transformação desses conjuntos de traços nas categorias concordância (AGR) e tempo (T), aumentando as posições estruturais disponíveis e defendendo a existência de mais uma categoria funcional: NegP.
+A posição da negação também é usada por Pollock como teste que evidencia projeções funcionais fora do VP. Se a negação é gerada à direita de INFL (em uma posição Neg que domina VP) e o verbo ocorre a sua esquerda, é sinal de que ele foi movido. Esse é o caso do Francês:
+
+Jean (ne) embrasse pas Marie Jean (neg.) beijar, 3sg neg. Marie Jean não beija Marie
+
+Em Inglês, por outro lado, o verbo lexical ocorre à direita da negação. Esse fato é evidência de que o verbo lexical não se move em sintaxe aberta:
+
+26
+John does not kiss Mary John aux. Neg. beijar, 3sg Mary John não beija Mary
+3.2 – A ordem oracional em Kayabi
+A ordem oracional da língua kayabi é, aparentemente, livre, uma vez que todos os tipos de ordem são atestados (OSV, SOV, VSO, OVS14). Com esta mesma impressão, DOBSON & WEISS (1970) e DOBSON (1988) descreve a ordem dessa língua com base na abordagem estruturalista, enumerando as restrições da ordem nos dados que observou. Levando em consideração o critério de freqüência, a ordem OSV é estabelecida como básica na análise da autora.
+Pelos dados investigados, a ordem OSV é, realmente, a mais proeminente em termos estatísticos, seguida pela ordem VSO, conforme atestado por DOBSON & WEISS. O tipo SOV é, porém, o menos freqüente.
+Para estabelecer a ordem básica do kayabi, a pesquisadora enumera — sem maiores explicações — quatro restrições básicas que a ordem do kayabi apresenta: (a) nenhum pronome pode iniciar uma oração; (b)
+14 A afirmação de que a ordem básica da língua é livre é de DOBSON & WEISS (1970), mas, como se verá no decorrer do trabalho, esse fato não é comprovado. Isso porque as ordens SVO e VOS não são atestadas e, só é encontrado um dado da ordem OVS. Este fato ficará mais claro na seção 3.2.3, em que se estabelece a ordem básica da língua kayabi.
+
+27
+somente sujeitos pronominais podem seguir o verbo; (c) quando um elemento periférico (ou adjunto) inicia a oração, a ordem é sempre XP SOV; e (d) quando o verbo se encontra na forma negativa, a ordem da sentença será sempre VSO. A seguir, apresentam-se os dados cujas restrições de Dobson se referem:
+
+(6) * Je Eu Eu te vi
+
+Ene a-esak Você 1-ver
+
+(7) a-esak 1-ver Eu o vi
+
+je
+
+kia
+
+eu
+
+ele
+
+(8) a´e
+
+pype
+
+Je
+
+aquilo dentro
+
+eu
+
+Eu o vi dentro daquilo
+
+´ga n-esan-i ele rel.-ver-FOC
+
+(9) n-u-esan-i
+
+‘gã
+
+Neg-3-ver-neg
+
+eles
+
+Eles não viram a onça
+
+miara onça
+
+Com base nas observações de Dobson sobre a ordem oracional básica do kayabi, perceberam-se alguns contra-exemplos que parecem refutar a hipótese da autora sobre a ordem básica e suas restrições na ordenação dos constituintes dessa língua. Mostrarei, aqui, todavia, que OSV é melhor caracterizada como sendo uma ordem derivada. Passo, agora, a tais evidências.
+
+28
+3.2.1. OSV: uma ordem marcada
+
+Os dados investigados revelam que a ordem OSV seguida pela ordem VSO são as mais freqüentes em kayabi. O tipo SOV também ocorre, mas com menor freqüência do que os outros dois. Constatou-se, porém, que apesar de ser a mais proeminente em termos estatísticos, OSV é uma ordem marcada pragmaticamente, porque é a ordem que sempre ocorre em resposta a perguntas em que o objeto é interrogado, o que leva a crer que a 1ª posição da oração, nesses casos, é reservada à informação nova. [os dados aqui utilizados foram extraídos de DOBSON e WEISS (1970) e DOBSON (1988)].
+
+(10) ma’já
+
+te
+
+´ga
+
+O que
+
+INT
+
+ele
+
+O que ele está fazendo?
+
+w-apo 3-fazer
+
+(11) Yrupema
+
+‘gã
+
+Cesta
+
+ele
+
+Ele está fazendo cesta
+
+w-apo 3-fazer
+
+Há, em kayabi, duas formas verbais distintas observadas nas orações independentes. A primeira, denominada por DOBSON (1988) de forma declarativa, caracteriza-se por conter no verbo prefixos referentes ao sujeito quando o objeto é de 3ª pessoa, como mostram os dados (10) e (11) acima. Nessas construções, o verbo permanece com a mesma marcação morfológica, independente do tipo de ordem que ocorrer. A segunda construção,
+
+29
+denominada de forma narrativa, caracteriza-se por ter o verbo transitivo desprovido de formas pessoais, como ilustra o exemplo (12):
+
+(12) Kyna
+
+Kujãmuku´ia jukaú
+
+SOV
+
+Ela
+
+jovem
+
+matar
+
+Ela matou uma jovem
+
+Observe-se que, nas formas narrativas15, quando a ordem é OSV, o verbo vem precedido por uma marca de objeto de 3ª pessoa -i. Compare os exemplos (12) e (13):
+
+(13) Majawera
+
+ra’yra wã
+
+viúva
+
+filha
+
+elas
+
+Elas mataram a filha da viúva
+
+i-jukaú16 3-matar
+
+OSV
+
+Um tipo de construção como (13), também verificado em outras
+línguas da mesma família, como o Tupinambá (Cf. Lemos Barbosa, 1956),
+parece caracterizar uma estrutura com deslocamento para a esquerda, isto é,
+uma estrutura em que o objeto nominal aparece deslocado, o verbo é marcado
+por um morfema. Podemos sugerir, então, que a ordem OSV em kayabi reflete
+uma estrutura com deslocamento para a esquerda nas formas narrativas. No
+15 “... o relato de eventos que realmente aconteceram, ou que as pessoas imaginam ter acontecido, por exemplo, o evento das lendas; e a narração de não-eventos, os quais abrangem descrições de participantes, cenários e informação colateral”. (Dobson, 1988:91) 16 O estatuto dessa marca de objeto é obscuro para mim no momento devido à falta de dados mais precisos. A dúvida que se coloca, no entanto, é a de que se é uma marca de foco e se há alguma relação com as estruturas negativas. Na qualificação desse texto, a professora Luciana Storto, mencionou que este –i pode ser um cognato de –ti, que aparece em outras línguas como o Karitiana. Para ela, essa marca seria focalização tanto no Karitiana como em algumas línguas da família Tupi-Guarani. Veja também a esse respeito GALUCIO (2002).
+
+30
+caso das formas declarativas, a ordem OSV seria derivada por um mecanismo que desloca o objeto para a posição de foco, já que é uma ordem que parece ocorrer apenas quando o objeto está focalizado.
+
+3.2.2. A ordem VSO
+
+A ordem VSO também é bastante freqüente em kayabi. Não é possível, porém, estabelecer VSO como ordem básica, já que é restrita a certos contextos, como, por exemplo, a estruturas negativas.
+
+(14) n-u-esan-i
+
+‘gã miara
+
+VSO
+
+Neg-3-ver-neg
+
+eles onça
+
+Eles não viram a onça
+
+Em kayabi, quando algum elemento, que não seja o sujeito ou o objeto, ocorre em 1ª posição na sentença, o verbo recebe uma morfologia especial (sufixo –i), se o seu sujeito for de 3ª pessoa. DOBSON denomina esse tipo de estrutura de construção de foco.
+
+(15) a´e
+
+pype
+
+isso
+
+em
+
+Dentro daquilo, eu o vi
+
+je
+
+ga-n esag-i
+
+SOV
+
+Eu
+
+o
+
+ver-ENF
+
+Note-se, contudo, que o verbo na forma negativa não pode ocorrer nas construções de foco como em (15). Tal fato parece indicar que nas
+
+31
+estruturas negativas do kayabi a ordem VSO é obtida mediante o deslocamento do verbo para uma posição de foco.
+3.2.3. SOV: a ordem básica
+A ordem SOV é atestada em kayabi, tanto nas construções declarativas quanto nas construções narrativas, mas é menos freqüente17 do que OSV e VSO. Ela parece ser pragmaticamente não-marcada, sendo a ordem verificada nas construções em que um constituinte que não seja o sujeito, o objeto ou o verbo é focalizado.
+Ao se estabelecer que a ordem subjacente em Kayabi é SOV, é possível explicar a ocorrência das ordens alternativas OSV e VSO. Estas seriam derivadas de SOV por um mecanismo que desloca, respectivamente, o objeto e o verbo para a posição de foco à esquerda da oração.
+Em vista de todas essas observações acerca da ordem da língua Kayabi, pode-se concluir que a proposta de DOBSON & WEISS (1970) para o estabelecimento da ordem básica da língua em estudo, com base no critério de freqüência, não explica as restrições da ordem dos constituintes na língua investigada. Postulou-se, então, SOV como a ordem básica subjacente, uma vez que mecanismos de deslocamento dos constituintes para a esquerda da oração permitem dar conta da existência dos tipos OSV e VSO.
+17 Do material secundário analisado, aproximadamente 85 sentenças, encontram-se apenas 17 orações com a ordem SOV, um total de 20%, portanto.
+
+32
+Além disso, segundo o quadro atual da gramática gerativa, o parâmetro do núcleo determina a ordem dos elementos dentro do sintagma (cf. COOK, 1996). Assim, o núcleo de um sintagma pode ocorrer à esquerda ou à direita do seu complemento. Dessa forma, as línguas são divididas em núcleo final ou núcleo inicial, e a posição do núcleo em relação ao seu complemento é especificada só uma vez para todos os sintagmas. Por isso, a variação de ordem verificada entre as línguas é, então, determinada pelo parâmetro do núcleo.
+Pode-se dizer, então, que o kayabi é uma língua de núcleo final dentro dos sintagmas verbal, adposicional e nominal, o que explica a tendência universal observada em GREENBERG (1963) de que as línguas SOV têm posposições ao invés de preposições. Assim, o que ocorre fora desse padrão é derivado por regras de deslocamento. Observe o exemplo a seguir com posposições.
+
+(16) je-upe te-je-upe gã-upe o-je-upe ka’a-rupi ‘gã o-i mata-para ele 3-ir
+
+para mim para mim mesmo para ele para ele mesmo ele foi para a mata
+
+33
+CAPÍTULO 4: OS CLÍTICOS DE 2P EM KAYABI
+Este capítulo aborda os clíticos de 2P do Kayabi a partir da perspectiva de Progovac (1996).
+4.1 – A proposta de Progovac (1996)
+Em artigo publicado em APPROACHING SECOND – second position clitics and related phenomena, Ljiljana Progovac (1996) defende que clíticos de 2P no Serbo-Croata surgem como resultado de um processo de adjunção. Nesse contexto, a autora aponta fatores sintáticos nos dados dessa língua com a finalidade de atestar as três questões que levanta: (a) a segunda posição é Comp; (b) há movimento sintático dos clíticos para Comp; e (c) há determinadas restrições aos elementos que agregam os clíticos.
+De início, a lingüista analisa a possibilidade de adjunção à direita dos clíticos. Para isso, toma como base o fato de os clíticos dessa língua seguirem os elementos em C/Spec de CP (como em 6 e 7); a impossibilidade dos clíticos de preceder ou ser interrompidos por elementos adjungidos à IP (como em 8 e 9). Os elementos adjungidos à IP, como os advérbios, por exemplo, seguem os clíticos no Serbo-Croata, para que as frases sejam gramaticais (como em 10 e 11).
+
+34
+(6) Stefan tvrdi [da = mu = ga = je Petar porlonio] Stefan claims that him it AUX Peter given
+“Stefan claims that Peter has given it to him as a present”
+(7) Koga = je Stefan zbunio whom AUX Stefan confused
+“Who did Stefan confuse?”
+(8) * Da = li = mozda = mu = ga = je Goran dao? that Q maybe him it has Goran given
+Has Goran perhaps given it to him?
+(9) * Ko = li = koga = je predstavio? who Q whom has introduced
+“Who has introduced whom?”
+(10) Da = li = mu = ga = je mozda Goran dao?
+(11) * Da mozda = li = mu = ga = je Goran dao?
+Para dar conta das orações absolutas, segundo Progovac os clíticos permanecem em Comp e outros constituintes se movem para Comp/Spec de CP. Por outro lado, nas subordinadas, os clíticos anexam-se ao complementizador. A pesquisadora, entretanto, reconhece, no caso das orações matrizes não-interrogativas, uma aparente divergência, já que, se em tais orações, a primeira posição é ocupada por Spec de CP, como lidar com a dupla possibilidade para o lugar dos clíticos?
+
+35
+
+(12) [ NP Anina sestra ] = im nudi cokoladu
+
+Ana’s sister
+
+them offers chocolate
+
+“Ana’s sister is offering them chocolate”
+
+(13) [ NP Anina = im sestra ] nudi cokoladu Ana’s them sister offers chocolate
+
+Analisando-se os exemplos acima, não teríamos dificuldade em afirmar que o SN Anina sestra em (11) se move para Spec de CP, a fim de agregar o clítico em Comp. J á em (12), argumentar em favor do movimento é, no mínimo, complexo, já que o clítico se encontra depois da primeira palavra “acentuada”, que não parece ser um constituinte que se move para Spec de CP. Os exemplos acima resumem a visão clássica em relação aos clíticos de 2P em SC, que podem tanto aparecer depois de um constituinte (critério sintático) quanto da primeira palavra acentuada (critério prosódico). Entretanto, o que se tem alegado em relação a esse sistema misto potencial do SC é que a 2P viola o princípio mais elementar da GU – dependência de constituinte – , argumentando-se tanto fonológica quanto sintaticamente em relação à posição dos clíticos.
+Essa visão mista dos clíticos de 2P é abalada quando se observam pronomes possessivos e adjetivos que se comportam como constituintes nessa língua, podendo deslocar-se para o núcleo nominal ou para perguntas QU-. Observe os exemplos: (14) Anina/mladja/ova dolazi sestra
+Ana’s/younger/this comes sister “Ana’s /the younger/ this sister is coming”
+
+36
+
+(15) Cija/koja dolazi sestra? whose/which comes sestra
+“Whose/which sister is coming?”
+Nos exemplos (13) e (14) acima, pode-se observar que tanto ova quanto koja são vistos como constituintes que podem se mover para Spec de CP. Em vista disso, espera-se que possessivos e adjetivos têm a propriedade de agregar clíticos em Comp.
+Em seguida, a autora questiona a motivação do movimento em SC: se é determinado pelo acento (natureza fonológica) ou pela estrutura (natureza sintática). Assim, analisa dois vocábulos não-acentuados – a preposição ga e o complementizador da – que, se vistos apenas por motivação fonológica, não agregariam clíticos nessa língua. Essa regra, no entanto, é quebrada, uma vez que da é o hospedeiro de clíticos mais freqüente.
+
+(16) Na sto =ga ostavi on table it leave
+“Leave it on the table”
+
+(17) *Na =ga sto ostavi on it table leave
+
+(18) Da =me slucajno
+
+ne pozivas?
+
+that =me by-any-chance not invite
+
+“Are you trying to say that you are inviting me?”
+
+(Sarcástico)
+
+37
+A explicação dada é a seguinte: da que está em Comp se adjunge ao clítico para lhe apoiar. Já as preposições não se movem para fora dos PPs. Em vista disso, conclui-se que apenas os elementos que podem se mover para Comp ou Spec de CP (ou são gerados em Comp) podem agregar os clíticos.
+Finalmente, a autora contrapõe duas estruturas com vocábulos acentuados, seguidos de clíticos, a fim de atestar as restrições dos elementos que agregam os clíticos. Mais uma vez nota que a motivação fonológica não é suficiente para explicar a agramaticalidade de (19), já que roditelji é um vocábulo acentuado. Por isso, segundo a autora, a possibilidade de movimento de um sintagma (para Spec ou núcleo de CP) na sintaxe acarretará na possibilidade dele hospedar um clítico. Se movimento não for sintático, a única maneira dele hospedar o clítico é ser gerado em Comp, como acontece com o complementizador da.
+
+(19) [NP Roditelji uspesn-ih
+
+studenat-a] =su =se razisli
+
+parents successful-GEN students-GEN have self dispersed
+
+“The parents of successful students dispersed.”
+
+(20) *Roditelji =su =se uspesnih studenata razisli
+
+Em síntese, poder-se-ia dizer que o trabalho de Progovac levanta importantes argumentos sintáticos em favor da adjunção dos clíticos à Comp no Serbo-Croata, visto que se tenta unificar sintaxe e prosódia. A relação que se faz da proposta da autora com os dados do Kayabi está no fato de que tanto no Serbo-Croata quanto no Kayabi os clíticos de 2P precisam de um hospedeiro a
+
+38
+sua esquerda. Naquele há a particularidade de os clíticos poderem se apoiar a um palavra não acentuada, fato que não parece ser evidenciado neste. A fim de atestar tal possibilidade no Kayabi, seria necessário conhecimento da prosódia da língua, o que não foi possível realizar devido a razões já descritas acima. Portanto, pensar os dados do kayabi sob a hipótese da adjunção é uma possibilidade, que avaliaremos a seguir.
+4.2 – As interrogativas em Kayabi Quando a partícula TE, que hipotetizamos ser um complementizador, ocorre, os clíticos estudados deixam de ocupar a segunda posição, como pode ser observado nos dados abaixo. Compare (1), (2) e (3) e (3), (4), (5), (6) e (7) abaixo.
+
+(1) Y´wa
+
+Je
+
+Fruta
+
+Eu
+
+Eu quebrei a fruta
+
+a-ka 1-quebrar
+
+(2) Y´wa
+
+ere
+
+Fruta
+
+Eu
+
+Você (tu) quebrou a fruta
+
+a-ka 1-quebrar
+
+39
+
+(3) a-esak 1-ver Eu o vi
+
+Je
+
+Kia
+
+Eu
+
+Ele
+
+(4) Mã
+
+Te
+
+Ere
+
+Qual
+
+INT
+
+2sg
+
+Qual você faz?
+
+Apora´e Fazer
+
+(5) Ma´apa
+
+Te
+
+Ere
+
+Onde
+
+INT
+
+2sg
+
+Onde você ouviu o grito do macaco?
+
+Ka´i je´ega Grito do macaco
+
+(6) Ma´ja
+
+Te
+
+´ga
+
+O que
+
+INT
+
+Ele
+
+O que ele está fazendo?
+
+Wapo 3-fazer
+
+(7) Mamu
+
+Te
+
+´ga
+
+o-ì
+
+Por que
+
+INT
+
+Ele
+
+3-ir
+
+Por que (que) ele vai?
+
+Como vemos em (1) – (3), o clítico ocorre em segunda posição, mas, em (4) – (7), quando TE está presente, o clítico passa para a terceira posição, aparentemente. Em todos os casos o complementizador e o clítico aparecem adjacentes. Portanto, os clíticos podem estar adjungidos a Comp, como propõe Progovac. Outra possibilidade de análise para os dados seria como caso de movimento por substituição para Co. Para decidirmos entre as duas possibilidades, necessitamos da presença dos advérbios nas orações
+
+40
+subordinadas. Se nesta língua puder existir um advérbio entre o complementizador e o clítico, significa que o clítico está em uma posição mais alta, ou seja, em Co. Portanto, se isso for verdade, teremos a seqüência te+adv+cl (nas subordinadas) e cl+adv (nas matrizes), o que traria evidência para uma análise de movimento por substituição.
+Como não encontramos em dados publicados nenhum caso de advérbio ou qualquer outro constituinte interferindo entre o complementizador e o clítico, acreditamos, neste momento, que a análise de Progovac pode ser aplicada ao kayabi.
+Entretanto não foi feito trabalho de campo. O fato de não termos encontrado casos de advérbios entre o complementizador e o clítico pode ser apenas uma lacuna acidental de trabalhos publicados, sendo, portanto, neste momento, um exercício de análise. Futuros trabalhos devem tentar verificar nossa hipótese de trabalho.
+4.3 – A negação
+A ordem das estruturas oracionais negativas em Kayabi é VSO. Dependendo da pessoa e do tipo de verbo, ocorrem regras morfofonêmicas,
+
+41
+permanecendo, no entanto, a disjunção n (V)- -i18, que indica negação nesta língua.
+A tabela 2 abaixo apresenta o sistema negativo assim como os prefixos de sujeito, seguida de exemplos.
+
+Tabela 2: Afixos verbais que indicam negação (DOBSON, 1988:47)
+
+Pessoa
+1s 2s 3s 1p (trans) 1p (intrans) 1pe 2p
+
+Classe 1 na- -i nere- -i no- -i ni- -i
+
+Eventiva Classe 2/3 na- -i nere- -i nu(e)- -i ni- -i
+
+noro- -i nepe- -i
+
+naru- -i nepe- -i
+
+Estativa
+naje- -i nene- -i ni- -i
+-i nore- -i nepe- -i
+
+(8) Nuesagi
+
+´ga
+
+ja´wapinima
+
+neg-ver-neg
+
+ele
+
+Onça pintada
+
+Ele não viu a onça pintada
+
+18 Segundo Dobson (1988:48), “o elemento negativo nao o corre na forma verbal de enfoque”. A negação de
+
+predicados nominais e posposicionais é dada pelas formas na arui: (i) na je-ma’e arui agamu; tradução intelinear:
+
+neg 1-meu neg este
+
+‘Este não é meu’
+
+42
+
+(9) Niapoì
+
+jane
+
+japepoa
+
+neg-fazer-neg
+
+nós
+
+potes
+
+Nos não fazemos potes de barro
+
+(10) Najero´yì
+
+je
+
+neg-ser-neg
+
+eu
+
+Eu não estou com febre
+
+Sugiro para a análise dos dados do Kayabi que há movimento do verbo para Comp ou outro Xo na periferia esquerda da sentença, como, por exemplo, Nego, nos casos das negativas na ordem VS(O). Isso porque quando o verbo está na forma negativa, pode-se observar sempre a ordem VS(O) se o sujeito tem natureza pronominal. Se o sujeito for NP, tem-se SV ou VS, isto é, estará ocupando aquela categoria funcional que hospeda o verbo.
+Vale ressaltar que o movimento de verbo para Comp não é um fato surpreendente em línguas tronco Tupi-Guarani e, portanto, há a possibilidade de o verbo poder subir para além de C. Em karitiana (Tupi), por exemplo, o verbo sempre é alçado para Comp nas matrizes, segundo STORTO (1999).
+Observe mais alguns dados das negativas do kayabi:
+
+(13) n-a-esa-i
+
+Je
+
+neg-ver-neg
+
+Eu
+
+Não vejo a canoa
+
+Iar-a barco
+
+43
+
+(14) n-a-u-i-ete
+
+Kia
+
+neg-comer-neg-muito ele
+
+Ele não toma remédio amargo
+
+Moa-row-a Remédio amargo
+
+(15) n-o-poro-juka-i
+
+kia
+
+neg-spec-matar-neg ele
+
+Ele não mata as pessoas
+
+(16) n-i-pytu’e-i
+
+Ene
+
+yara
+
+neg-caber-neg
+
+2a
+
+canoa
+
+A sua canoa não cabe muito
+
+Levantamos, então, a hipótese de que, em Kayabi, temos, nas negativas o verbo em Co e os clíticos adjungidos a Comp, segundo à hipótese de Progovac. Novamente aqui necessitaríamos de advérbios para comprovação da hipótese. Será interessante, também, observar negativas em orações subordinadas.
+Se houver algum elemento topicalizado/focalizado ou uma conjunção em primeira posição, não se obtém a ordem VS(O) nas estruturas negativas.
+Nota que a negação ocorre em frente ao verbo. Este elemento pode ser analisado como estando no Spec de CP, mas ainda não dispomos de dados.
+
+44
+
+(17) A’e-re
+
+U’ywa
+
+n-o-pog-i
+
+ee
+
+Então
+
+Espingarda Neg-3-disparar-neg Contra ele
+
+Então a espingarda não disparou contra ele
+
+(18) Ama-ipe
+
+Je
+
+Chuva-em
+
+Eu
+
+Na chuva, eu não venho
+
+n-o-jor-i neg-1-vir-neg
+
+Como anteriormente dito, se o clítico é, pois, adjungido à C, não será possível separar o verbo e o clítico por um advérbio.
+
+45
+CONSIDERAÇÕES FINAIS
+Abordamos ao longo deste trabalho algumas características sintáticas (mais especificamente os fatos relacionados à ordem oracional dos constituintes oracionais e aos clíticos de 2P) da língua kayabi. Na realidade, essa língua apresenta, aparentemente, ordem livre, já que atestamos diversas ordens. Entretanto, estabelecemos SOV como a ordem básica, e as ordens OSV e VSO como derivadas por movimento do objeto e do verbo, respectivamente.
+Para isso, inicialmente, descrevemos concisamente o sistema pronominal dos Kayabi, a fim de entender como era (é) o comportamento desses pronomes, quando estão agregados às diversas construções verbais dessa língua. Dessa análise, observamos que o Kayabi apresenta alguns “pronomes especiais” (clíticos), que sempre aparecem em segunda posição.
+Em seguida, identificamos SOV como a ordem básica, visto que é uma ordem neutra pragmaticamente e é encontrada em contexto de enfoque. Como estamos adotando os pressupostos teóricos da gramática gerativa, descartamos a análise de DOBSON (1970) em relação à derivação da ordem de uma língua por meio de sua freqüência. Assumimos, pois, uma ordem básica (SOV) e ordens derivadas (OSV e VSO) por movimento.
+Por último, sugerimos que a análise de PROGOVAC (1996) para os clíticos do Kayabi. Segundo esta análise o clítico se adjunge à Comp. Vale
+
+46
+ressaltar que esse trabalho é apenas um exercício especulativo e hipotético, uma vez que trabalhamos com dados secundários. Para que o estudo e as hipóteses aqui levantadas tenham mais validade, será necessário fazer trabalho de campo. A nossa contribuição, portanto, é de mostrar este fenômeno em uma língua indígena brasileira, apontando para o fato de que ainda há muito que se estudar (descrever e analisar) em línguas indígenas brasileiras.
+
+47
+REFERÊNCIAS BIBLIOGRÁFICAS
+* SAUSSURE, F. (1916). Curso de Lingüistica Geral. Rio de Janeiro:Cultrix. ** BOFF, Leonardo (1997). A águia e a galinha: uma metáfora da condição humana. Petrópolis: Vozes. *** PESSOA, Fernando (1987). Obras completas. São Paulo: Brasiliense.
+ANDERSON, Stephen (1996) How to put clitics in their place, or why the best account of second position phenomenon may be something like the optimal one. The Linguistic review 13.
+BALTIN, Mark (1982). A landing site theory of movement rules. Linguistic Inquiry 13.
+COOK,V. J. e NEWTON, Mark (1996). Chomsky universal grammar: an introduction. Cambridge Press.
+DOBSON, Rose e WEISS, Helga (1970). Kayabí clauses types. Brasília: SIL
+DOBSON, Rose (1972). Kayabi verbs. Brasília: SIL. _____________ (1976a). Kayabi texts with free translation. Brasília: SIL. _____________ (1976b). Repetição em Kayabi. Brasília: SIL. _____________ (1977a). Kayabi texts. Brasília: SIL. _____________ (1977b). Kayabi locational deitics. Brasília: SIL. _____________ (1977c). 2 texts with free translation. Brasília: SIL. _____________ (1988). Aspectos da língua kayabí. Brasília: SIL. _____________ (1997). Gramática pratica com exercícios da língua Kayabi. Brasília: SIL.
+FARIA, André Luiz (1998). O problema da ordem básica em Kayabi. VIII Congresso da Assel-Rio.
+
+48
+FARIA, André Luiz (1999). A ordem oracional na língua Kayabi. Trabalho apresentado nas Jornadas de Iniciação Científica da UFRJ. Rio de Janeiro /ms/
+FARIA, André Luiz (2000). Aspectos gerais da língua Kayabi (Tupi-Guarani). Relatório final das atividades desenvolvidas na vigência da Bolsa de Iniciação Científica (CNPq/PIBIC), concedida entre julho de 1997 a março de 2000.
+FAUSTO, Carlos (2000). Os índios antes do Brasil. Jorge Zahar.
+GALÚCIO, A. V. (2001). The morphosintax of Mekens (Tupi). University of Chicago. PhD Dissertation.
+GALÚCIO, A. V. (2002). O prefixo i- em Tupi: morfema antipassivo vs marcador pronominal incorporado. Atlas do I Encontro Internacional do Grupo de Trabalho sobre Línguas Indígenas da ANPOLL, Belém: UFPA, tomo I, p. 274-287.
+GOMES, Nataniel dos Santos. Observações sobre aspectos gramaticais do Kayabi: variação da ordem e clíticos de 2a posição. Dissertação de Mestrado, UFRJ.
+GREENBERG, J. H. (1963). “Some Universals of Grammar with Particular Reference to the Order of Meaningful Elements”, em Greeberg, J. H. (ed.), Universals of Language, The MIT Press, Cambridge, Massachusetts.
+GRÜNBERG, Georg (2004). Os kayabi do Brasil Central: história e etnografia. São Paulo: Instituto Socioambiental.
+HALPERN, Aaron (1995). On the placement and morphology of clitics. CSLI Publication.
+HALPERN, Aaron & ZWICKY, Arnold (1996). Approaching second position clitics and related phenomena. CSLI Publication.
+LEMOS BARBOSA, Pe. (1956). Curso de tupi antigo. Rio de Janeiro: Livraria São José.
+POLLOCK, J. Y. (1989) “Verb moviment, universal grammar, and the structure of IP”, Linguistic Inquiry, pp. 365-424, vol. 20
+PROGOVAC, Ljiljana (1996). “Clitics in Serbo-Croatian: Comp as the Second Position”, em HALPERN, Aaron & ZWICKY, Arnold (1996). Approaching second position clitics and related phenomena. CSLI Publication.
+ROBERTS, Taylor (1997). The optimal second position in Pashto. In MIT
+
+49
+Working Papers in Linguistics 30 ⎯ Papers at the Interface.
+RODRIGUES, Aryon Dall’Igna. (1986). Línguas brasileiras: para o estudo das línguas indígenas. Loyola. São Paulo.
+SCHUTZE, Carson (1997). The prosodic structure of Serbo-Croatian function words ⎯ Papers at Interface.
+SANDALO, Maria Filomena Spatti (2002).
+SEKI, Lucy (2000). Gramática do Kaiamurá: língua Tupi-Guarani do Alto Xingu. Campinas: editora da UNICAMP e Imprensa Oficial de São Paulo.
+STORTO, Luciana (1999). Aspects of Karitiana Grammar. MIT Ph.D dissertation.
+WEISS, Helga (1998). Para um dicionário da língua Kayabi. Tese de doutorado. São Paulo: USP.
+
+

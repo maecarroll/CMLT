@@ -1,0 +1,3497 @@
+THE SOUTHERN CARIBAN LANGUAGES AND THE CARIBAN FAMILY1
+Sérgio Meira and Bruna Franchetto
+In all existing classiﬁcations of the Cariban language family, the southernmost languages—Kuikuro, Arara-Ikpeng, and Bakairi—have always been assumed to form a single sub-branch, usually called the “southern branch.” In this paper, we examine this assumption using the comparative method. From eight Cariban languages (the three southern languages plus ﬁve others, maximally distant in the family), we compiled 146 cognate sets which were used to ﬁnd sound correspondences and to propose reconstructions of Proto-Cariban phonemes on the basis of which shared innovations could be found. The ﬁnal result is that Bakairi and Arara-Ikpeng do seem to belong together, but not Kuikuro, which is apparently an independent sub-branch by itself. When a Swadesh list was used to examine vocabulary retention, we again found that Kuikuro does not seem to be closer to Bakairi and Arara-Ikpeng than to any other Cariban sub-branch. In our conclusion, we discuss some consequences for current theories concerning the original homeland of Cariban-speaking peoples.
+[Keywords: Cariban, comparative method, South America, classiﬁcation, reconstruction]
+1. Introduction. In the most recent classiﬁcations proposed for the Cariban language family (one of the largest South American families, with several dozen languages spoken in Brazil, the three Guianas, Venezuela, and Colombia), the southernmost languages—Arara-Ikpeng, Kuikuro, and Bakairi—are often lumped together in one group (Derbyshire 1999, Kaufman 1994, and Durbin 1977). Only Girard (1971) does not place them in a single
+1 We thank the CNPq (National Council for Scientiﬁc and Technological Development in Brazil), the DoBeS (Dokumentation bedrohter Sprachen) Program of the Volkswagen-Stiftung, and the KNAW (Royal Netherlands Academy of Arts and Sciences) for ﬁnancial support. We thank Desmond Derbyshire, Spike Gildea, Marie-Claude Mattei Muller, and Frantomé Pachêco for sharing their data and expertise with us and for reading earlier versions of this paper. Abbreviations used are: 1 = ﬁrst-person marker, 2 = second-person marker, 3 = third-person marker, 3r = third-person reﬂexive marker, circ.nzr = circumstance nominalizer, col = collective, comit = comitative, excl = exclusive, imper = imperative, inan = inanimate, instr = instrumental, intr = intransitive, liq = liquid (locative: ‘in water’), n = noun, neg = negation, pos = possession marker, pst = past, pres = present, ptcp = participial, tr = transitive, v = verb, voc = vocative. Language abbreviations are: PC = Proto-Cariban, Yu = Yukpa, Ti = Tiriyó, Hk = Hixkaryana, Mk = Makushi, Pn = Panare, Bk = Bakairi, Ik = Ikpeng, Kk = Kuikuro.
+Afﬁliations for the authors of this paper are: Meira—KNAW/Leiden University, Museu Paraense Emilio Goeldi, and Max Planck Institute for Psycholinguistics; Franchetto— Museu Nacional, Universidade Federal do Rio de Janeiro.
+[IJAL, vol. 71, no. 2, April 2005, pp. 127–92] ç 2005 by The University of Chicago. All rights reserved. 0020–7071/2005/7102–0001$10.00
+127
+
+128
+
+international journal of american linguistics
+
+branch, since he did not suggest any further internal structure for his 14 small subgroups. The data on which these classiﬁcations are based are usually from quite unreliable, often old (nineteenth-century) sources. The possibility of errors, as some of the authors acknowledge, is quite high.
+The familiarity of one of the authors (B. Franchetto) with Kuikuro and the initial contact of the other author (S. Meira) with Bakairi led to doubts about the plausibility of placing the southern languages in a single sub-branch. Thanks to the recent publication of better and richer data (Souza 1993 on Arara, Campetela 1997 and Pachêco 1997; 2001 on Ikpeng, and our own work on Kuikuro and Bakairi), it is now possible to evaluate more precisely the degree of relatedness between the southern languages so as to present better arguments for or against a “southern branch.” This is the main objective of the present work.
+The ﬁrst step in assessing the plausibility of the southern branch hypothesis is determining which changes are shared by the three southern languages. However, the only reconstruction of Proto-Cariban phonology that uses the historical-comparative method (Girard 1971) is based on unreliable data, especially with respect to the southern languages. We therefore decided to carry out a preliminary reconstruction of Proto-Cariban segments by comparing cognates from the three southern languages with ﬁve northern languages: Yukpa, Tiriyó, Hixkaryana, Makushi, and Panare. These languages were chosen with two criteria: (a) degree of independence—they are clearly not closely related within the family and have been placed in different subgroups in all extant classiﬁcations; (b) availability of lexical data—for all of the languages, we had either ﬁrsthand ﬁeld data (Yukpa, Tiriyó) or good descriptive sources (Hixkaryana: Derbyshire 1965; 1979; 1985; Makushi: Abbott 1991, Amodio and Pira 1996, MacDonell 1994; Panare: Muller 1994). As a ﬁrst approach to the lexical proximity between these languages, the cognates found in Swadesh’s 100-term list were counted and tabulated. After that, the reconstruction of Proto-Cariban segments was used to determine which changes had to be posited for the southern languages. These changes were then compared to assess the possibility that at least some of them were shared.
+We have concluded that there are some arguments to posit a subgroup that comprises Bakairi and Arara-Ikpeng, but not Kuikuro. The latter, together with its co-dialects (Matipu, Kalapalo, Nahukwa), should be seen as forming an independent sub-branch within the Cariban family.
+2. The southern languages: a brief introduction. The ﬁrst encounters between European explorers and speakers of Cariban languages took place along the coast of Venezuela and the Guianas and the islands of the Caribbean in the seventeenth and eighteenth centuries. Because of this, and also
+
+southern cariban languages
+
+129
+
+given the initial pattern of European colonization (along the coasts), the Cariban family was initially believed to extend exclusively to the north of the Amazon River. It is, in fact, in this region that most of its languages are spoken today, and presumably also when the ﬁrst Europeans came to South America.
+We owe to Karl von den Steinen, a nineteenth-century German ethnologist, the discovery of Cariban languages in central Brazil. He published a description of Bakairi (Steinen 1886:335–53; 1892) and word lists of “Nahuquá,” his term for the group of dialects spoken along the eastern sources of the Xingu River in central Brazil (1894:525–27). He also mentioned other Cariban groups: the Apiaká of the Tocantins River,2 now extinct (1894:399– 401), to which, he claimed, Bakairi is closely related (based on Ehrenreich’s then-unpublished materials), and the Yarumá, who lived close to the Suyá, a Jê (non-Cariban) group (1894:118, 155).
+Paul Ehrenreich collected in the lower Tocantins a list of 125 Apiaká words, which he published with some notes on pronunciation and grammar (1895:168–76). Fritz Krause (1936) published more information on the Yarumá, based on the materials brought to Germany by Karl von den Steinen’s cousin, Wilhelm, who accompanied him on his ﬁrst two expeditions (1884, 1887), and on materials later gathered by Herrmann Meyer, who went to the Xingu area in 1896 and in 1899 and collected Yarumá words with the help of “Arikuanako-Nahuquá,” “Yamarikumá-Nahuquá,” and “Calapalú” informants. (“Nahuquá,” obviously Steinen’s term, and “Calapalú” are clearly the names of other Cariban-speaking groups; even today, there are Nahukwa and Kalapalo in the Upper Xingu basin.) Krause located the Yarumá in the area to the east and southeast of the Culuene River, between the Xingu and the Araguaia rivers. He compared Yarumá, Apiaká of the Tocantins River (based on Ehrenreich’s materials), the various Nahuquá dialects, and Bakairi (based on Steinen’s material) and concluded that there was a close linguistic relationship between Yarumá and Apiaká, and a more distant relationship with the “Nahuquá dialects.”
+Initial results from ethnoarchaeological and ethnolinguistic research among the Upper Xingu Caribans (Heckenberger 1996; 2001a; 2001b and Franchetto 2001) suggest that, up to the ﬁrst half of the eighteenth century, the Culuene River separated the Caribans to the east from the large Arawak villages near the sources of the Xingu River to the west. It is possible that Cariban groups from the east crossed the Culuene and forced the Arawak groups to move north and west. These Cariban newcomers would have later become the present-day Upper Xingu Caribans (divided into four subgroups:
+2 The Apiaká of the Tocantins River, a Cariban group, should not be confused with the Apiaká of the Tapajós River, a Tupian group.
+
+130
+
+international journal of american linguistics
+
+Kuikuro, Kalapalo, Nahukwa, Matipu). Other Cariban groups would have given rise to the Yarumá-Apiaká, occupying the areas where they were subsequently found by Meyer.3
+At the beginning of the twentieth century, the Yarumá disappeared from the area between the Upper Xingu and the Araguaia rivers, and the Apiaká from the Tocantins River, because of epidemics and attacks by other groups— Caribans from the Culuene River (the Kalapalo; cf. Basso 1995), and non-Caribans (the Suyá, a Jê group). There still may be, among the present-day Suyá, descendents from captive Yarumá (Pierre Menget, personal communication).
+As shown in ﬁgure 1, the following Cariban languages are found to the south of the Amazon:
+(a) Kuikuro (/kuhi·kugu/ ~ kuj·kugu/, from /kuhi ekugu/ ‘true kuhi’, a kind of ﬁsh), with its close co-dialects Kalapalo, Nahukwa, and Matipu, has approximately 500 speakers (900 if the speakers of its co-dialects are included) in the Upper Xingu area, in the Brazilian state of Mato Grosso.
+(b) Arara-Ikpeng. Arara (/´·\a\´/ ‘macaw’, a Portuguese—originally Tupi—word), spoken by 200 people in the central part of the state of Pará, and Ikpeng (/ik·peN/, previously known as Txikão /tSi·kãw$ /), with 350 speakers on the Xingu Reservation in the state of Mato Grosso, are quite close linguistic varieties, a borderline case between languages and dialects.
+(c) Bakairi (/bakaj·\i/; etymology unknown), the southernmost language, has 900 speakers in two small reservations (Bakairi and Santana) to the southwest of the Xingu Reservation in the state of Mato Grosso. In each reservation, a different dialect is spoken. The differences between them are considerable, though not sufﬁcient to prevent mutual intelligibility.
+The Bakiari are the same people whose language Steinen described in 1892. Kuikuro and its co-dialects are clearly a continuation of Steinen’s “Nahuquá” (one of their subgroups is still called “Nahukwa”). Arara and Ikpeng are presumably either a continuation of, or languages closely related to, Meyer’s Yarumá and Ehrenreich’s Apiaká, which means that, according to Steinen and to Krause, they should be closer to Bakairi than to Kuikuro.
+
+3 To this group of languages should probably be added Pimenteira (Martius 1867; cf. Girard 1971:177–79), an extinct language once spoken in east central Brazil. Despite the poor transcription, a certain number of southern Cariban features can be found (compare the words in table 19 with, e.g., titti ‘sun’, müngrü ‘blood’, soi, zui ‘tree, wood’).
+
+southern cariban languages
+
+131
+
+Fig. 1.—Current location of the southern Cariban languages.
+There are different dialects of all the languages in question. The data in this study represent the Kuikuro, Ikpeng, and Eastern Bakairi dialects. Table 1 presents the distinctive segments of these three varieties. The liquid l is an interesting feature in table 1. It exists as a distinctive segment only in the southern languages (although there are cases of two vibrants, e.g., r vs. r j, in Hixkaryana, Waiwai, and Katxuyana, there are no northern languages with an l distinct from r). This fact seems at ﬁrst to bring the three southern languages together.
+3. The Swadesh list. As a ﬁrst step in the comparison of the southern and northern languages, we present in table 2 the results of the cognate counts in the standard 100-term Swadesh list. Similar terms were considered cognate when they at least partially agreed with the correspondences discussed in 4 below. There is an inevitable degree of subjectivity in the choices, so it
+
+132
+
+international journal of american linguistics
+
+TABLE 1 Summary of the Segmental Phonologies of the Southern Cariban Languages
+
+Bakairi
+
+Vowels:
+
+i
+
+I
+
+u
+
+e ´o
+
+a
+
+(distinctive nasality)
+
+Ikpeng
+
+i
+
+I
+
+u
+
+e
+
+o
+
+a
+
+Kuikuro
+
+i
+
+I
+
+u
+
+e
+
+o
+
+a
+
+(distinctive nasality)
+
+Consonants:
+
+ptk
+
+bdg
+
+sS
+
+h
+
+zJ
+
+m n ˆ1
+
+r
+
+l wj
+
+pt k g2
+tS
+mn N r l
+wj
+
+pt
+
+k
+
+dj
+
+s ts g h
+
+mn ˆN
+
+l w
+
+1 Preliminary analyses suggest that Bakairi ˆ is an allophone of j, conditioned by a subsequent nasal vowel. It is also possible that s, J, and h are allophones (h being followed by o or u, J by i, and s by the other vowels), since the counterexamples are apparently few and doubtful.
+2 Pachêco (2001:28–31) does not explicitly mention g as a distinctive segment in Ikpeng. However, in
+his work, there are many examples with g in what appears to be phonemic transcription (e.g., ogoy ‘snake’,
+the ﬁrst-person duel inclusive preﬁx ugw-, etc.). Even minimal pairs seem to exist: the ﬁrst-person preﬁxes
+on active and stative intransitive verbs are consistently k- and g-. We therefore assume g to be a distinctive
+segment.
+
+is possible that other specialists might disagree with our cognacy assessments. In order to allow our readers to evaluate the data themselves, we present the full list of terms, with our cognacy choices, in Appendix A.
+As might be expected, certain terms do not have exact correspondents in Cariban languages (e.g., swim and ﬂy are simply ‘go by water’ or ‘bathe’ and ‘go by air’; skin and bark are usually the same word; we has an inclusive and an exclusive translation). It would be possible to eliminate these terms or to replace them with other elements from the Cariban lexicon; however, here we decided to keep the original meanings for methodological reasons. As a consequence, the skin and bark cognate sets are practically identical, and swim and ﬂy often have the same stem as go. For we, the exclusive (1+3) form was chosen instead of the inclusive (1+2) one.
+The results given in table 2 are suggestive, but not conclusive, since the numbers are relatively close, with no obvious, clear-cut differences. There seems to be greater proximity between Hixkaryana and Tiriyó (and also Makushi), and perhaps between Bakairi and Ikpeng, since these two languages share more cognates with each other than with other languages;
+
+SHORT
+
+southern cariban languages
+
+133
+
+TABLE 2 Cognate Percentages Found in the Swadesh 100-Term List
+
+tiriyó hixkaryana makushi panare bakairi ikpeng kuikuro
+
+yukpa 41
+36 38 33 35 30 33
+
+tiriyó
+56 57 50 47 44 49
+
+hixkaryana
+49 47 41 37 43
+
+makushi
+48 46 38 46
+
+panare
+43 38 47
+
+bakairi
+50 49
+
+ikpeng 47
+
+The southern languages are in boldface.
+
+but the numbers are so close that no deﬁnitive conclusion can be drawn. The afﬁnity with Kuikuro is even weaker: there are as many shared cognates between Kuikuro and Bakairi as between Kuikuro and Tiriyó, and even fewer between Kuikuro and Ikpeng. The three southern languages do not seem to form a clear-cut group.
+4. The correspondences. Before considering the correspondence sets, two factors in comparative Cariban phonology need to be mentioned.
+(a) Syllable reduction. As Girard (1971:88–97) has already mentioned, it often happens in the Cariban family that word-medial CV syllables are reduced and even lost. Gildea (1995) provides a good cross-Cariban description of the phenomenon. First, the vowel (usually I or u) is lost, thus creating a word-internal consonant cluster. If the ﬁrst consonant is an obstruent, it undergoes debuccalization (loss of place features), so that the cluster becomes a glottal cluster (?C or hC); if the ﬁrst consonant is nasal, it becomes homorganic with the following consonant. Finally, the reduced consonant is dropped, usually with compensatory lengthening of the preceding vowel. The process is thus: *CVCVCV > *CVCCV > CV?CV, CVhCV (obstruents) or *CVNVCV > CVNCV (nasals; NC homorganic). A frequent result of this is the synchronic existence of reduced and nonreduced allomorphs of the same morphemes, conditioned by the form of the following sufﬁxes or clitics (cf. Meira 1999 for a Tiriyó case study).
+(b) Ablaut. Cariban vowel-initial stems can, under certain circumstances (e.g., the presence of certain preﬁxes like k- ‘ﬁrst-person inclusive’ or t‘third-person reﬂexive’), change their initial vowels. The most typical pattern involves e and o (e.g., Hixkaryana enu-ru ‘his eyes’, k-onu-ru ‘our eyes’) or e and ´ (e.g., Bakairi enu ‘his eyes’, k-´nu ‘our eyes’), but a ~ o or a ~ ´ are also attested in some languages (e.g., in Tiriyó, when the following syllable
+
+134
+
+international journal of american linguistics
+
+contains an o or an ´: apoto ‘his helper’, k-opoto ‘our helper’; ak´mi ‘his younger brother’, k-´k´mi ‘our younger brother’). There are also a few cases of e ~ o alternation in noninitial position (e.g., the Hixkaryana purpose-ofmotion sufﬁx -so ~ -Se).
+The diachronic causes and conditionings of syllable reduction and ablaut are not known. Syllable reduction, though probably related to the stress system (roughly: unstressed syllables tend to reduce), presents enough contradictory cases, even in individual languages, to make the search for clear generalizations a daunting task for future research. The same is true for ablaut: despite some promising common, cross-Cariban features, the conditioning factors may change from language to language, as well as the affected stems. In this study, we therefore treat cases of syllable reduction (e.g., glottal stops or fricatives unexpectedly corresponding to obstruents) or ablaut (e-forms occurring instead of o-forms or vice versa) as language-speciﬁc unpredictable idiosyncrasies; all attempts to provide general diachronic explanations for their occurrences are left for future research.
+In the following sections, the correspondences found in the available data are listed and discussed. The correspondences were divided into groups according to their degree of similarity. A few of them are intermediate between groups: *n24 and *r21, with one and the same cognate set (tongue), could arguably be placed with the *n’s or the *r’s. The choice is, in such situations, somewhat arbitrary. Since, however, the deviant status of the correspondence is always mentioned in the discussion, there is no danger of missing information.
+In each section, the correspondences are listed in tables with a standard format: putative reconstruction, reﬂexes in the various languages, and list of examples (cognate sets). It is usually easy to decide where a given cognate set belongs. In some cases, however, this could not be done unambiguously, due to the absence of some reﬂexes (e.g., dry, which has only two cognates, could be assigned to *n4, *n8, *n10 –*n16). In such cases, the ambiguous cognate set is usually assigned to the correspondence with the largest number of examples. If several possibilities still remain (e.g., for dry, *n8, *n13, *n15), then the ﬁrst one is arbitrarily chosen (i.e., *n8).
+4.1. Obstruents. With respect to obstruents, Bakairi stands out by virtue of its distinctive series of voiced consonants. In the other southern languages, voiced obstruents are usually allophones of their voiceless counterparts (with the apparent exception of Ikpeng g). In the rest of the family, distinctive voiced obstruents occur only sporadically.
+Let us ﬁrst consider the correspondences in table 3, all reconstructible as *p. At ﬁrst glance, the number of correspondences is surprisingly
+
+SHORT
+
+southern cariban languages
+
+135
+
+TABLE 3 Correspondences Reconstructible as Proto-Cariban *p
+
+PC Yu Ti Hk Mk Pn Bk Ik Kk
+
+examples
+
+*p1
+
+p p h p p w w h about/erg, ear, fruit,
+
+grandson, mouth-2, navel,
+
+neck, seize, thigh, tip/beak, wife
+
+*p2
+
+p W p p w w h stingray
+
+*p3
+
+p h ? ?w w
+
+mountain
+
+*p4
+
+p W ?p
+
+h toucan
+
+*p5
+
+p h p p p p h arrow-1, peccary, piranha,
+
+toad, water-2
+
+*p6
+
+p W p p p p h shaman
+
+*p7
+
+p p h p p W w/m h ﬁnd, ﬂesh/meat, know
+
+*p8
+
+W(:) h
+
+p p h arrow-2
+
+*p9
+
+W(:) h p ? W W h egg
+
+*p10 p W(:) h p
+
+p/b p/w W neg
+
+*p11 w p h p p b p p bone, pst.pos
+
+*p12 p p p p p h p p hair
+
+*p13 p p(/h) h ? ? h p h stone, circ.nzr, foot-1
+
+*p14 p p h p p h p h roast, caus
+
+*p15
+
+p
+
+p
+
+? ? p p h rain
+
+*p16 p p h p p W p h bathe, skin/bark
+
+*p17
+
+p
+
+p
+
+p p W p W bring, come, (foot-2)
+
+*p18 W p h ? ? W p h sky
+
+*p19 h h h (?) h W p W armpit
+
+*p20 h h h p h W
+
+W ﬁre, (foot-2)
+
+large; however, most of them result from syllable reduction in the different languages.
+The main correspondences are *p1 and *p5, which are in complementary distribution: *p1 occurs word-internally and *p5 occurs word-initially (note that, in examples like ear or wife, *p1 occurs stem-initially but not wordinitially, since these words are always possessed and thus always have a person-marking preﬁx; the *p5 examples, on the other hand, are nonpossessible
+
+136
+
+international journal of american linguistics
+
+or nonpossessed forms that occur without preﬁxes, so that *p5 does occur word-initially). Consequently, both correspondences can be reconstructed as *p. This *p becomes h in Hixkaryana and Kuikuro, w intervocalically in Bakairi and Ikpeng, and is preserved as p in the other languages.
+The remaining correspondences can also be ascribed to *p, with the following remarks:
+(a) *p2–p4 are identical to *p1, except in Hixkaryana, Makushi, and Panare, in which there was syllable reduction.4
+(b) *p6, *p8, *p9, and *p15 –*p17 are also identical to *p5, except for the cases of syllable reduction (note, e.g., the Kuikuro W in *p17, indicating reduction of the ﬁnal syllable of bring, but not in *p15 and *p16, since the relevant syllables in rain and bathe were conserved); in *p7, there is also Bakairi W, which occurs before u and (unstressed) o, thus suggesting that the expected reﬂex w was absorbed by it (*wu$ru$ > u$ru$ ‘meat’, *iwo > io ‘ﬁnd’), and Ikpeng m, which can be attributed to contact nasalization (*punu > *pnu > mnu; cf. also *komo > Nmo in the discussion of *k below); in *p19 and *p20, syllable reduction occurred everywhere, except in one language (Ikpeng in *p19, Makushi in *p20).5
+(c) *p11 unexpectedly has p in Kuikuro and b in Bakairi; if one notes that the other languages have consonant clusters (tp, ?p, hp, tSh), this fact can be used as a conditioning factor: Kuikuro preserves the original *p (and Bakairi changes it into b instead of w) if it is part of a consonant cluster. This may also explain the unexpected w in Yukpa. Bakairi p/b and Ikpeng p/w in *p10 (neg) also result from the fact that the negative morpheme, itself a reducing morpheme (with forms like pIra, pra, pa, and ba), can be added to stems that can also undergo reduction, thus creating various environments for the initial consonant (sometimes part of a cluster, sometimes intervocalic, etc.); Kuikuro W indicates unconditional reduction of the ﬁrst syllable. In *p15, Bakairi p instead of w may also result from an earlier consonant cluster (cf. Np in the Ikpeng cognate koNpo ‘rain’).
+4 For *p4 (toucan), it may be better to assume that there are two parts to this word: an initial element kIja-, cognate across the family, and a second element kwe/ke/ ?ke vs. poko, not always cognate. In this case, *p4 is only valid for languages that have a reﬂex of the element poko.
+5 Note that, in *p20 (ﬁre), the p in Makushi apo? does not correspond to the initial p in Bakairi peto, as one might think at ﬁrst. This initial p is the normal development of a word-initial *w (see 4.4). Since Makushi ? corresponds to the ﬁnal syllable to, Makushi p must correspond to a W between the e and the t in Bakairi peto (i.e., the medial syllable *po was reduced to W in Bakairi). This would explain the intervocalic voiceless t in peto, instead of the regular voiced d (see the discussion of *t below): this t was part of a consonant cluster and thus not really intervocalic (a possible historical path: *wepoto > *wepto > *pepto > *pehto > peto).
+
+southern cariban languages
+
+137
+
+(d ) In *p18, besides syllable reduction in Yukpa, the expected Bakairi reﬂex w has apparently fused with the following u (as in *p7); *kapu > *kawu > kau.
+(e) In *p12–*p14, there is an unexpected Bakairi reﬂex h. With respect to stone in *p13, Bakairi tuhu is probably not cognate; there is, in fact, a better candidate: t´u ‘large waterfall’ (also the name of a place with big rocks), which parallels the case of *kapu mentioned in (d): *tôpu > *t´wu > t´u. With respect to the other words in *p13 and *p14, one may note that, in all cases, the following vowel is o or u, and the *p was part of a consonant cluster resulting from the reduction of the preceding syllable; if this cluster was *hp, then one could posit a *hpo, *hpu > ho, hu change in Bakairi (foot-1: *hpu > hu; circ.nzr: possibly *-topo > *-tpo > *-hpo > -ho; hair: *hpo > *ho > hu [assimilation to the ﬁnal u]: for caus, note the more regularly derived allomorph -o < *-wo < -po, and also the existence of longer causative sufﬁxes in some languages, like Katxuyana -mespo and Wayana -nehpo, with clusters). The same would presumably be true for roast, but in this case, there is so far no independent evidence of an earlier hp cluster.
+With respect to the southern languages, we observe one possible shared change in Bakairi and Ikpeng (*p > w / V—V) and one independent change in Kuikuro (*p > h). Word-initially, *p is retained in Bakairi and Ikpeng. In Bakairi, *p > p, b if it was part of a Proto-Cariban consonant cluster (apparently p from *np or *pr, as in *p15 and *p8, and b from *tp, as in *p11; but there are too few examples to test these possibilities). The *p > h change has also affected Hixkaryana, but the considerable differences between Hixkaryana and Kuikuro indicate that this is a case of parallel development. Bakairi has also undergone independent changes: *wu, (unstressed) *wo > u, o, *hpu, *hpo > hu, ho.
+Tuning now to table 4, note that the main correspondence *k1 is an identity correspondence, immediately reconstructible as *k. All remaining correspondences can also be assigned to *k, with the following comments:
+(a) *k3, *k4, and *k7 exemplify cases of syllable reduction. In *k3, the Panare and Makushi k ~ ? alternation comes from the fact that some, but not all, forms of the stems in question have undergone syllable reduction. (For Bakairi pogu ~ woku, see 4.4 below.)
+(b) Panare tS in *k2 probably results from palatalization of a *kj sequence: *kIjapoko > *kjapoko > *tSapoko > tSopoko.
+(c) *k5 may exemplify many (four) independent cases of syllable reduction. But it is also possible that the ﬁnal ku was an independent
+
+138
+
+international journal of american linguistics
+
+TABLE 4 Correspondences Reconstructible as Proto-Cariban *k
+
+PC Yu Ti Hk Mk Pn Bk Ik Kk
+
+examples
+
+*k1
+
+k k k k k k k k agouti, cloud, dog/jaguar, ﬁsh,
+
+good, high, night, rain, sky,
+
+toucan (ﬁnal syllable)
+
+*k2
+
+k k k tS
+
+k toucan (ﬁrst syllable)
+
+*k3
+
+k k k(/?) k/? g k k drink (n), horseﬂy
+
+*k4 k/W k(/W) k ? ? g k k about/erg, who
+
+*k5
+
+k WW
+
+W W k son
+
+*k6
+
+k(/W) k k k k/g k/g k imper, instr, say
+
+*k7
+
+k k k k ? g k k comit, two
+
+*k8
+
+k k k k k g g k ﬂea, grease/fat, man, snake, tail,
+
+wasp
+
+*k9
+
+k k k k k k g k liq.in, saliva, we(incl)
+
+*k10 k k k k k W k/N k col
+
+*k11 k k k
+
+k k g sleep
+
+*k12 k k k k k
+
+ts bite
+
+*k13 k k k ? k/? k g ts urine
+
+*k14
+
+k k k k W W W peccary
+
+*k15 k k k k
+
+kN
+
+star
+
+element which was incorporated into the stem only in some languages. (Notice that some languages seem to have both a stem that ends in ku and one that does not: e.g., Kuikuro mu ‘man’s son’ and muku ‘woman’s son’.) (d ) In *k6, besides syllable reduction in Tiriyó (imper, but not say or instr), there is synchronic k ~ g alternation in Bakairi and Ikpeng, conditioned by the environment (cf. (e) below). (e) *k8 shows words with g in both Bakairi and Ikpeng; in all cases, the g is intervocalic. This correspondence thus illustrates intervocalic voicing in these two languages. The cases in which the languages disagree in voicing have plausible explanations. In *k3, *k4, and *k7 , Bakairi g is regular and Ikpeng k occurs word-ﬁnally; one can suggest that the following vowel was lost in Ikpeng (syllable reduction) with consequent loss of the voicing environment. In *k9 and *k13,
+
+southern cariban languages
+
+139
+
+Ikpeng g is regular and Bakairi k can be seen as the reﬂex of a previous consonant cluster, resulting from the loss of the stem-ﬁnal vowel (urine: *i-Jiku-ru > *i-Jikru > i-Jiku; saliva: *j-edaku-ru > *j-edakru > j-edaku—note that, in both cases, the usually obligatory possessive sufﬁx -ru no longer occurs; for liq.in, Bakairi k corresponds to the clusters kw or hk in the other languages; in we(incl), Bakairi k is word-initial). In *k15 (star), Bakairi k is not readily explainable; but it may be that the Bakairi word Simuk´ is only partially cognate (cf. ( j) below). In *k1, agouti has intervocalic k instead of g in both Bakairi and Ikpeng; a plausible explanation is early syllable reduction, generating a kr cluster (*akuri > *akri > Bakairi, Ikpeng aki; cf. Waiwai akri ‘agouti’).6 Also in *k1, dog/jaguar has k in Ikpeng (no Bakairi cognate is attested); for this case, however, we can ﬁnd no obvious explanation. (f ) In *k10, besides syllable reduction in Bakairi, there is synchronic k ~ N alternation in Ikpeng (kom ‘collective’ becomes Nmo when the preceding morpheme ends in a vowel). (g) In *k11, Kuikuro g instead of k can certainly be ascribed to the voicing effect of the preceding nasal consonant (Kuikuro g is an allophone of k, found after nasals). (h) In *k12 and *k13, Kuikuro ts is the result of palatalization caused by the preceding i; this rule is still active synchronically in Kuikuro (Franchetto 1995:72). (i ) In *k14, the ﬁnal syllable ko, ke is entirely absent in the southern languages. This is probably not a case of syllable reduction, since these languages never lose ﬁnal syllables (unlike Panare and Makushi). A more probable hypothesis is that this ﬁnal syllable is an independent element which became part of the word in the northern languages. ( j) In *k15, Ikpeng ﬁnal N is unexpected. Note that Bakairi Simuk´ has an intermediate syllable mu, apparently without counterpart in the northern cognates; it might correspond to the ﬁnal N in Ikpeng, in which case the ﬁnal ko, k´ of the other languages was simply lost in Ikpeng (reﬂex W, not N). The similarity between Bakairi Simu- and Ikpeng tIriN improves if one considers the Western Bakairi form Sirimuk´, with Sirimu-.
+6 As an anonymous reviewer pointed out, another possible explanation is borrowing. Words for ‘agouti’ have apparently frequently been borrowed in South America (cf. hãkuri in Karajá, a Macro-Jê language of central Brazil). In the Cariban family, however, cognate forms are found everywhere; if they are loanwords, either their borrowing followed complicated patterns or it was very old, perhaps preceding Proto-Cariban. It is even possible that the original word was genuinely Cariban (‘agouti’ is included in Rodrigues’ list of possible Tupi-Cariban cognates; see Rodrigues 1985:388). The history of this word must therefore be treated with caution, but it seems best not to eliminate it from the list of Cariban cognates without further evidence.
+
+140
+
+international journal of american linguistics
+
+Apparently, Proto-Cariban *k was conserved without important changes in most languages (being sometimes lost via syllable reduction and sometimes voiced by a preceding nasal consonant). The most important change was *k > g / V—V in Bakairi and in Ikpeng; the cases of synchronic intervocalic k in these languages can be seen as reﬂexes of earlier consonant clusters (see table 5).
+The ﬁrst correspondence in table 5, *t1, is an identity correspondence and can thus be immediately reconstructed as *t. Note that *t1 is always followed by non-front vowels (a, o, u, ´, I). In *t2, Kuikuro d can be attributed to voicing due to the preceding n (and Ikpeng r occurs intervocalically; see below). Disregarding syllable reduction, responsible for the W’s in Bakairi and Ikpeng and for the glottal stop in Makushi, *t3 and *t5 are identical to *t1. In *t4, the only difference is Yukpa k; since there is only one example (water-1), it seems more sensible to assume that Yukpa added an extra noncognate element to this word, which would allow *t4 to be also ascribed to *t. It is also possible to add *t6 and *t7 to this group: note that Hixkaryana tS occurs mostly before e (= [e] ~ [i]: hear, wife; forest is a possible noncognate), a palatalizing vowel, and that the W’s and glottal segments (?, h) represent cases of syllable reduction. As for *t8, it may belong to this group, but the reﬂexes of the ﬁnal syllable in Ikpeng and Bakairi are ambiguous: the ﬁnal rI may correspond to the tI found in the northern languages, but it might also derive historically from the possessive sufﬁx -rI (cf. the Hixkaryana cognate).
+The next four correspondences (*t9–*t14) are characterized by voiced segments in Bakairi (d ) and Ikpeng (r). Since these segments always occur intervocalically, it seems possible to ascribe these correspondences to *t, presupposing that it was voiced intervocalically in Bakairi and Ikpeng (the cases of Ikpeng t are synchronically word-ﬁnal and can be explained, like word-ﬁnal k discussed above, by assuming the loss of an original ﬁnal vowel, still preserved in Bakairi). Notice that, in the cognates considered here, there are no cases of intervocalic Ikpeng t, and the Bakairi cases can be attributed to earlier clusters, still present in some languages: in *t15, for instance, the cluster was probably *wt; in *t16, it was probably *pt < *putu—cf. Tamanaku putu ‘to know’—or maybe also *wt, in case the syllable *pu had already become *wu (cf. the discussion of *p above);7 also in *t5 (ﬁre), there apparently was an earlier *pt (see n. 5 above). In *t15 and *t16, there are also cases of syllable reduction and palatalization in the other languages (tS in Hixkaryana, tj in Panare); aside from this, these correspondences ﬁt well together with *t9–*t14. It is also possible to add *t17 –*t19 (noting, in passing, the cases of palatalization and syllable reduction in the northern
+7 In this case, the change *(u)putu > *(u)ptu > *uhtu or *u?tu or *uwtu > utu ‘know’ has resulted in a minimal pair with the stem udu ‘give’ (cf. give); e.g., n-utu ‘he knew, learned’ vs. n-udu ‘he gave’.
+
+long
+
+southern cariban languages
+
+141
+
+TABLE 5 Correspondences TRAecBoLnEst5r—ucotnibtilneuaeds Proto-Cariban *t
+
+PC Yu Ti Hk Mk Pn Bk Ik Kk
+
+examples
+
+*t1
+
+tt
+
+t
+
+t t t t t 3r, armpit, bird, circ.nzr, foot-2,
+
+grandfather, horseﬂy, stone,
+
+tip/beak
+
+*t2
+
+t
+
+t
+
+t t t t/r d mouth-1
+
+*t3
+
+tt
+
+t
+
+t t t/W t/W t circ.nzr
+
+*t4
+
+kt
+
+t
+
+tt
+
+W? t water-1
+
+*t5
+
+tt
+
+t
+
+? tt
+
+t ﬁre
+
+*t6
+
+Wt
+
+tS
+
+? h W t W bone
+
+*t7
+
+Wh
+
+t
+
+? h t t W pst.pos
+
+*t8
+
+t
+
+t
+
+t ? W? W? t breast
+
+r? r?
+
+burn (intr), give, go
+
+*t9
+
+tt
+
+t
+
+t t d r t mouth-2, person (ﬁrst syllable),
+
+woodpecker
+
+*t10
+
+t
+
+t
+
+t
+
+? t d r t person (ﬁnal syllable), what, worm
+
+*t11
+
+t
+
+t
+
+tS
+
+t t j d r t hear
+
+*t12 t t/W tS W ? d t W hair
+
+*t13
+
+t
+
+?/W t d t t liana
+
+*t14 W t
+
+t ?(/W) ?(/t) d t
+
+t excrement, grease/fat, name (ﬁnal syllable), thigh
+
+*t15
+
+t t/? ? t r t house
+
+*t16
+
+W(:) t
+
+t
+
+t
+
+W know
+
+*t17
+
+t
+
+t
+
+tS
+
+? h d r ts forest
+
+*t18
+
+W/t S
+
+? d r dz root/vein
+
+*t19
+
+W/t tS W ? d t ts wife
+
+*t20
+
+t
+
+t
+
+t
+
+t t d l t saliva
+
+*t21
+
+W s W j J t t spider, shaman
+
+*t22
+
+s
+
+S
+
+s W S tS t stingray
+
+*t23
+
+S tS t sun-2 (last syllable), we(excl)-2
+
+*t24
+
+s/j/W s/S s/W s/tS s/z t t/s ptcp
+
+*t25
+
+S
+
+j
+
+j s/j s/j z j/t/r t mother
+
+142
+
+international journal of american linguistics
+
+TABLE 5—continued
+
+*t26 s W
+
+s
+
+s s z r t two
+
+*t27 s W
+
+s
+
+s tS z r t name (middle syllable)
+
+*t28 s s
+
+s
+
+s ss
+
+t otter, sand
+
+*t29
+
+s
+
+t
+
+s
+
+t
+
+jacu bird
+
+*t30
+
+SW
+
+s
+
+s s S tS d daughter
+
+*t31
+
+W s W ? J t W corn
+
+*t32
+
+S
+
+s
+
+S
+
+s
+
+St
+
+star
+
+*t33
+
+s
+
+s
+
+s tS S tS s ﬂea
+
+*t34
+
+S
+
+s
+
+S
+
+s s S/J tS g sun-2 (ﬁrst syllable), urine
+
+languages) if we notice that the major difference, Kuikuro ts (dz after a nasal), always occurs after i (there is still a synchronic morphophonological rule in Kuikuro which changes t’s and k’s into ts’s when preceded by i’s; cf. Franchetto 1995:72). In *t20, only Ikpeng l is surprising; it may be better to consider the Ikpeng term noncognate. Therefore, *t9–*t20 (the “leniting” or “voicing” group) can be reconstructed as *t.
+The next correspondences, *t21–*t34, represent a more complicated case. They relate fricatives and affricates in the northern languages (and also in Bakairi) to t’s in Kuikuro (and, in some cases, also in Ikpeng). Based on them, Girard proposed Proto-Cariban *c (possibly *[tS] or *[ts]). However, the overwhelming majority of the cases of *c occur in palatalizing environments (before i: *t21–*t23, *t29–*t33; before e: *t24, *t25, *t27). In some cases, the palatalizing vowel occurs in some, but not all, cognates (e.g., urine in *t34, in which the palatalizing i occurs only in Bakairi and Kuikuro; it seems possible to reconstruct *i and propose that the u’s in the northern languages result from assimilation to the ﬁnal u). Only in *t26 (two) and *t28 (otter; sand may not be a true cognate set) does it clearly precede the vowel a, thus contrasting with some occurrences of *t1 (cf., e.g., grandfather). But two cases are not really enough to be signiﬁcant, especially when compared to the others. Although it may be possible to use them to reconstruct *c as a proto-segment with a low functional load, it seems simpler to propose that these are exceptional cases (derived from, e.g., *ti: *tiaro ‘otter’ > Kuikuro tago, saro in the others; or from *it; *itaro > tago, with the i having been dropped before the appearance of the synchronic rule i + t > its in Kuikuro).8 Unless new data appear that support Girard’s *c, it
+8 With respect to two, it should be mentioned that a reciprocal preﬁx az- ~ as- ~ ´s- may be involved which, in some of its allomorphs, occurs with the palatalizing vowel e (es-, et-).
+
+LONG
+
+southern cariban languages
+
+143
+
+seems more plausible to reconstruct only *t. That would make Proto-Cariban a language without fricatives or affricates. Note, in *t33, the only case of Kuikuro s in table 5: sike (elsewhere, there is only ti, as in, e.g., tihagi ‘stingray’); this is unexpected enough to suggest, in the absence of other cases, the possibility of external inﬂuence from another Cariban language.
+The evolution of Proto-Cariban *t was relatively complex. It underwent palatalization and reduction in many northern languages and also in Bakairi. In Kuikuro, it was preserved in all positions (except in bone, where it was lost via syllable reduction). In Bakairi and Ikpeng, *t was preserved wordinitially and word-ﬁnally and also in consonant clusters; intervocalically, it was lenited to d in Bakairi and r in Ikpeng. Note that the cluster *wt became wr in Ikpeng (i.e., *w had the effect of a vowel) but t in Bakairi (i.e., *w had the effect of a consonant). Assuming that *wt > Ikpeng wr is a more recent change, it would be possible to claim that the intervocalic lenition of *t is an innovation shared by Ikpeng and Bakairi. It can be suggested that, as a ﬁrst step, *t became *d, which was conserved as such in Bakairi but changed into r in Ikpeng. In all languages except Kuikuro, *t fricativized when followed by a front vowel (e, i ), presumably via palatalization: *t > *t j > ts, tS, s, S. . . . In Ikpeng, fricativization occurred only with a following i; an e apparently had no special effect, since in the only example (name), there was no palatalization but rather the regular lenition to r caused by the intervocalic environment. In Bakairi, there was palatalization: before i, J occurs intervocalically (spider, shaman) and S word-initially (stingray, ﬂea; in sun-2, the second S appears to be the result of assimilation to the ﬁrst S ) or in consonant clusters (as in daughter); z occurs before a and e (the s ~ z alternation in ptcp—the participial sufﬁx—is not yet well understood). Of all these changes, only fricativization before i might be an innovation shared by Ikpeng and Bakairi (*t > tS /—i in Ikpeng, and possibly *t > *tS > S/#— i, J / V— i in Bakairi). However, in the languages of the world, cases of palatalization and fricativization before i occur frequently; such changes could also have occurred independently in Bakairi and in Ikpeng.
+4.2. Nasals. The bilabial nasal consonant *m has a relatively simple development in the Cariban family, as can be seen in table 6. All correspondences in table 6 can be derived from a single Proto-Cariban *m, with the following remarks:
+(a) the cases of n ([n], [N]) and W in the northern languages result from syllable reduction (so, e.g., *m7 can be added to *m2).
+(b) *m2 and *m1, different only in Bakairi (w vs. m), are in complementary distribution: m (*m1) occurs word-initially and w (*m2) intervocalically, so that they can both be reconstructed as *m; the cases of Bakairi word-internal *m (you and neck in *m1, *m5, *m6, *m8 –*m11) can mostly be seen as resulting from earlier consonant clusters: in you,
+
+144
+
+international journal of american linguistics
+
+PC *m1
+*m2 *m3 *m4 *m5 *m6 *m7 *m8 *m9 *m10 *m11
+
+TABLE 6 Correspondences Reconstructible as Proto-Cariban *m
+
+Yu Ti Hk Mk Pn Bk Ik Kk
+
+examples
+
+m m m m m m m W jacu bird, neck, spider, that (inan), worm, you
+
+m m m m w m W breast, grandfather, root/vein m m m m m w m m path
+
+m m m m m W m W egg, blood, wasp
+
+W m m n [N] m m m W louse, song
+
+m mm
+
+m m m son, sieve
+
+m n [N] m n [N] m w m W
+
+W n [N] m n [N] n [N] m m W
+
+m m m m m mm ˆ
+
+m n [ˆ]
+
+n ˆ mm ˆ
+
+W m/(n) m n n W m n
+
+father col scrotum hand, dry daughter, mouth-1
+
+from *mr (cf. Ikpeng omro ‘you’); in neck, also from *mr, via reduc-
+tion of the stem-ﬁnal syllable (*i-wImI-rI > *i-wIm-rI > i-wImI; note that the usually obligatory possessive sufﬁx -rI does not occur on this word), which is probably also true for *m5 and *m9 (e.g., scrotum: *emu-ru > *em-ru > emu; cf. Ikpeng g-em-ru); in *m6, Bakairi m in son reﬂects an earlier *mm cluster (cf., e.g., Tiriyó ji-mmuku); in *m8 (col), *km or *Nm (cf. Ikpeng kom ~ Nmo); in *m10 (hand), *mj (cf. Ikpeng i-mja-rI). (c) *m3 differs from *m2 only in Kuikuro, in which the m (instead of W) seems to result from an intermediary consonant cluster (cf. the Ikpeng cognate anma; see also the discussion of *ô40 in 4.5 below). (d ) *m6 can, it seems, be assimilated to *m1, with Kuikuro m being preserved because of a consonant cluster (son) or indicating a loanword
+(sieve; see below).
+(e) in *m10, Panare ˆ reﬂects palatalization after e (a change with synchronic effects in the morphophonology); Kuikuro ˆ in *m9 and *m10 reﬂects palatalization after i (also synchronically attested), assumed
+to have occurred before the loss of intervocalic m (which would ex-
+plain why the reﬂex here is not W); Kuikuro n in *m11 can be attributed to syllable reduction.
+(f ) Bakairi W in *m11 apparently comes from total syllable reduction; in *m4, however, it is more probable that *m ﬁrst became *w (as in *m2),
+
+southern cariban languages
+
+145
+
+which was absorbed by an adjacent u (either following it, as in blood unu, or preceding it, as in wasp ´gu$´$) or o (egg). For egg, note that Steinen (1892:13) has the form i-mo-ru in nineteenth-century Bakairi, from which the modern form can be derived: i-mo-ru > *i-wõ-ru > j-õru$, with the possession-marking sufﬁx -ru becoming part of the stem.
+Thus, Proto-Cariban *m was preserved as such in most languages (except for cases of syllable reduction). In Ikpeng, it was always preserved. In Kuikuro, it was almost always lost, except when it was part of a consonant cluster (including *mm, as in son) or after i, where it became ˆ. The only exception, sieve (Kuikuro manage), has, in addition to the unexpected initial m, an irregular intervocalic n instead of the expected N; we suggest that it was borrowed, probably from another Cariban language. In Bakairi, *m was retained word-initially and in consonant clusters, and changed into w (like *p) in intervocalic positions.
+Thus, Kuikuro and Bakairi have both eliminated some *m’s, though these changes are actually quite different: in Bakairi, *m > w / V—V, with w > W if the second V is u; in Kuikuro, *m > W / #—V. There is no obvious way these two changes could be seen as a shared innovation.
+The correspondences in table 7 show a number of irregularities and deviations. Nevertheless, there are three groups that can be used to begin our analysis: *n1–*n4, *n5–n12, and *n13–*n21. In the ﬁrst group, the Bakairi reﬂex is r, with nasalization of the adjacent vowels; in the second group, it is n; and in the third group, W. We now examine each group in detail.
+In the second group (*n5 –*n12), there is a consistent Bakairi reﬂex n. In almost all cases, there are consonant clusters in at least one other language: for nose, Ikpeng g-eNna-n, Hixkaryana k-owna-rI; for we (excl), Ikpeng tSimna; for moon, Tiriyó nunn´. For eye and blood, the situation is similar to neck in the discussion of *m above: the possession marker -ru, usually obligatory in Bakairi, does not occur in these examples, which suggests that there were *nr clusters (eye: *enu-ru > *en-ru > enu; *unu-ru > *unru > unu), still preserved in the Ikpeng cognates eN-ru and i-mIN-ru. For drink (v), there is no possession marker, but the ﬁnal syllable rI (cf., e.g., Tiriyó w-enIrI, Makushi enIrI) plays the same role: *m-enIrI > *m-enrI > m-enI (cf. Ikpeng m-eNgrI-t). Only for bring (Bakairi ene-k´) is there no previous consonant cluster, as far as we can see. With this one exception, Bakairi n is apparently always the reﬂex of a putative Proto-Cariban *n in consonant clusters.
+Looking now at the third group (*n13–*n21), we see a number of W reﬂexes in Bakairi. They are not always the same, however: sometimes there is a nasal vowel (ear: i-wãta-rI: corn: ãJi; liana: Sied$ ´; leave (tr): m-i´$; breast: i-wã-rI) and sometimes there isn’t (sleep: IkI-lI; rain: kop´; see:
+
+146
+
+international journal of american linguistics
+
+TABLE 7 Correspondences Reconstructible as Proto-Cariban *n
+
+PC
+
+Yu Ti Hk Mk Pn Bk Ik Kk
+
+examples
+
+*n1
+
+n
+
+n
+
+n
+
+n
+
+n r~ N N/ˆ bee/honey, ﬁsh, water-1
+
+*n2
+
+W
+
+n
+
+n
+
+n
+
+W r~ n N ﬂesh/meat
+
+*n3
+
+n
+
+n
+
+n
+
+n
+
+n r~ r~ N earth (ﬁnal syllable)
+
+*n4
+
+n
+
+ˆ
+
+ˆ r~ n N piranha
+
+*n5
+
+n
+
+n
+
+n
+
+n
+
+W
+
+n N N eye
+
+*n6
+
+r
+
+n
+
+n
+
+n
+
+n N N blood
+
+*n7
+
+n
+
+n
+
+n
+
+n
+
+n N W drink (v)
+
+*n8
+
+n
+
+n
+
+n
+
+n
+
+W
+
+n n n dry, nose, sieve
+
+*n9
+
+n n [ˆ] n
+
+n
+
+n
+
+nn
+
+we (excl)-1, -2
+
+*n10
+
+n
+
+n
+
+n ˆ n n N bring
+
+*n11
+
+n
+
+nn
+
+n
+
+n n n moon (ﬁnal syllable)
+
+*n12
+
+k
+
+n
+
+n
+
+n n N moon (ﬁrst syllable)
+
+*n13
+
+n
+
+n
+
+n
+
+n n W(/~) n N ear, sleep
+
+*n14
+
+n
+
+n
+
+ˆ
+
+ˆ W n N see
+
+*n15
+
+n
+
+n
+
+n
+
+ˆ W~ n n corn, liana
+
+*n16
+
+j
+
+n
+
+n
+
+n n W~ n N leave(tr)
+
+*n17
+
+n
+
+n
+
+n
+
+W W~ N N breast
+
+*n18
+
+j
+
+n
+
+n n W N N rain
+
+*n19
+
+n [ˆ] ˆ
+
+n
+
+W
+
+ˆ/N husband
+
+[ˆ/n]
+
+*n20
+
+n
+
+n
+
+*n21
+
+n [ˆ] ˆ
+
+*n22
+
+r
+
+n
+
+n W W W N earth (ﬁrst syllable)
+
+n n W W W peccary
+
+n n? W?
+
+m W bird
+
+*n23
+
+n
+
+n
+
+n
+
+n
+
+l n navel
+
+*n24
+
+n? r? ˆ
+
+n
+
+ˆ
+
+l
+
+l N tongue
+
+m-e-tai; husband: u-so). Note that in the cases without nasal vowels, the following stops (k, p, t, s) are voiceless: as we showed in 4.1 above, this indicates that they result from previous clusters. We thus suggest that an earlier *n was dropped but failed to cause vowel nasalization because it was
+
+southern cariban languages
+
+147
+
+part of a consonant cluster (sleep: *InkI-lI > IkI-lI: rain: *konp´ > kop´; cf. the Ikpeng cognates InkI-lI and koNpo). Note that these are not the same clusters mentioned in the previous paragraph: if we compare these cases, it seems that the *n is preserved in sonorant clusters (*nr, *wn, *mn) but dropped in stop clusters (*nk, *np) or even in obstruent clusters, if one admits the same solution for husband (assuming *u-nso > u-so; for the s, cf. the discussion of *j in 4.4). Judging from the Ikpeng cognates, the point of articulation of the nasal consonant was not always dental: it apparently was *n in sleep but *N in rain. (Incidentally, it is not necessary to posit *N for the cases of *nr discussed in the preceding paragraph, since the Ikpeng reﬂex Nr does not contrast with nr; in fact, it would seem that Nr is simply the synchronic morphophonological result of having n and r form a cluster in Ikpeng: n + r § Nr.) For the cases with a nasal vowel, we propose intervocalic *n loss (breast: *i-wana-rI > i-wã-rI; ear: *i-wanata-rI > i-wãta-rI; leave (tr): *m-in´ > m-ı´$ $; liana: *Sined´ > Sıe$ $d´; corn: *anaJi > ãJi).9 For see, we propose the development *m-enen-tai > *m-e$n-tai (intervocalic n loss) > m-en-tai > m-e-tai (nasal cluster simpliﬁcation); cf. the Ikpeng cognate stem eneN in eneN-lI.
+Turning ﬁnally to the ﬁrst group, we see that its most striking feature is that all examples have two syllables. Apparently, an intervocalic *n in a bisyllabic word was not dropped but rather changed into r + nasalization of the surrounding vowels, as if the word wanted to retain its bisyllabicity.10 The only exception is leave (tr), in *n16: it was apparently bisyllabic (*m-in´), but its n was dropped instead of changing to r. Note, however, that, as a verb stem, ıe$ $ can take several tense-aspect-mood sufﬁxes, often resulting in words with more than two syllables; if the *n had been lost in the longer forms, it could have spread to the bisyllabic ones through paradigmatic leveling. Another possibility is that the verb stem in question had extra syllables in the past (notice that some of the cognates are longer: cf. Makushi nImI-u-ja, Hixkaryana mI-nom-no).
+Thus, it is possible to explain the Bakairi reﬂexes by assuming a single Proto-Cariban *n. Most of the unexpected reﬂexes in the other languages can
+9 Forms with intervocalic n’s are actually attested in Steinen (1892), the earliest Bakairi source: in-uana-l ‘Weibliche Brust’ (‘female breast’ [1892:10; hyphens added]); m-ino-ráki ‘zurücklassen, lassen’ (‘leave’ [1892:128]); sinéta, zinéta ‘Liane’ (‘liana’ [1892:51]), anázi, anáhi, ara1hi ‘Mais’ (‘corn’ [1892:46]).
+10 Stress is another possible conditioning factor. Since Bakairi stress falls regularly on the
+penultimate mora (i.e., on the penultimate syllable if the ﬁnal syllable is CV, otherwise on
+the ﬁnal syllable), it always precedes the *n in the words of the ﬁrst group, but not in those of
+the third group. This stress hypothesis would differ from the bisyllabicity hypothesis with re-
+spect to longer words (for a *CVCVnV word, the former would yield CVCVrV, since stress
+precedes the *n, while the latter would predict CVCVV, since the word is not bisyllabic). Un-
+fortunately, no such cognates have been found thus far.
+
+148
+
+international journal of american linguistics
+
+also be explained. The ˆ’s in Panare and Hixkaryana (and also in Kuikuro) are always adjacent to i’s or e’s and can thus be attributed to palatalization,
+with one exception: in *n7 (drink(v)), the Panare reﬂex is n, despite the adjacent e and i (aˆ-eni-?ka ‘not drinking it’). Notice, however, the ﬁnal syllable rI in cognates from other languages (Tiriyó w-enIrI, Makushi enIrI, Ikpeng m-eNgrI-t), which may have protected the *n in Panare. Yukpa k in *n12 is certainly unexpected; it probably reﬂects an extra, noncognate element (like the k in *t4 [see 4.1]; note that k(a)-initial words in Yukpa are more frequent than in other languages). In blood (*n6), Yukpa r, though unexpected, is clearly not a noncognate element; we suggest assimilation to the r in the
+possession-marking sufﬁx -ru.
+Most cases of loss of *n (i.e., W) are examples of syllable reduction. However, Panare W occurs in a number of cases for which syllable reduction is not a plausible explanation. In nose (*n8), the W is perhaps the normal development of a *wn cluster (*wn > w). In ﬂesh/meat (*n2), the ﬁnal syllable *nu may have been a possession-marking sufﬁx like *-rI, either originally (a sufﬁx -nI ~ -nu is attested in some languages) or via reanalysis (since *-rI > -n in Panare [see 4.3], a ﬁnal *nu might plausibly have been reinterpreted
+as a sufﬁx); this sufﬁx might then be dropped in certain forms (the Panare
+cognate pu-to is in absolute, nonpossessed form, indicated by the sufﬁx -to).
+In eye (*n5), a possible explanation is that the ﬁnal vowel *u was lost by syllable reduction and the now stem-ﬁnal *n fused with the possessive sufﬁx -n
+(i.e., *j-onu-ru > *j-on-n > j-o-n). In breast (*n17), the middle syllable is totally absent; it may be that Panare ma? is only partially cognate, if at all. Finally, earth (*n20) is a difﬁcult case: not only is the initial n lost in Panare but there is an extra ﬁnal N in Ikpeng. Looking at other languages, we ﬁnd an irregular r in Wayana ro and Waiwai ro:wo (both ‘earth, land’), for
+example, suggesting that the history of this word is complicated. The evo-
+lution of the initial consonant—and therefore its loss in Panare—is clearly
+exceptional.
+In Kuikuro, the regular development of *n is obviously N (except when preceded by i, where ˆ occurs, as in, e.g., bee-honey). The few exceptions have plausible explanations. For instance, in sieve (*n8), Kuikuro manage is irregular not only because of its n (instead of N) but also because of its initial m, which should have been dropped (see discussion of *m above), and because of its ﬁnal e instead of the regular i (see discussion of *e in 4.5). These
+three facts make it very likely that manage is a borrowing which entered the language after the *m > W, *n > N, and *e > i changes had been completed. Elsewhere, Kuikuro n reﬂects a previous cluster: in nose (*n8), the n in u-inata-gi can be compared to the wn in Hixkaryana k-owna-rI and to the Nn in Ikpeng g-eNna-n; in moon (*n11), corresponding to the n in Nune, one ﬁnds Tiriyó nn in nunn´. The W in peccary (*n21), which corresponds to W’s
+
+southern cariban languages
+
+149
+
+in the other southern languages, suggests that the ﬁnal syllables (Tiriyó njeke, Hixkaryana ˆko, etc.) were actually independent, noncognate elements.
+The Ikpeng reﬂexes are, in general, N when next to a vibrant, and n elsewhere. In fact, when intervocalic, the reﬂex is almost always n (ear, liana, leave (tr), see, corn, bring, piranha), with two exceptions: breast (imaNarI, apparently contrasting with ear: i-wana-n) and ﬁsh (kaNa).11 There are also two cases of N that are not adjacent to a vibrant: bee/honey ( paNmomtSi ‘bee sp.’, with paN- cognate and -momtSi an independent word; cf. mum-tSi ‘head (possessed)’) and rain (koNpo). For bee/honey, the N may be a consequence of compounding; for rain, however, no such explanation is available.
+Finally, there are a few exceptional correspondences. The ﬁrst one, *n23 (navel), has l (or W?) in Ikpeng and n, instead of N, in Kuikuro. This latter development suggests that a cluster may have been involved. In fact, the possession-marking sufﬁx *-rI (> Ikpeng -n) is conspicuously absent in Ikpeng (but present in other languages, like Hixkaryana k-honu-ru); one could then posit *i-won(I)-rI > *i-won-rI > i-wolI as an explanation. Interestingly, *n24 (tongue) seems to agree with navel: Ikpeng and Bakairi l (i-lu, o-lu) corresponds to cognates having *n and *r (or reﬂexes thereof ) in other languages: Tiriyó i-nore, Kuikuro u-Nugu, Panare j-iNo-n. This suggests that, under certain circumstances, an *nr cluster may evolve in Ikpeng into either Nr or l. This apparently contrasts with the cases in the second group (*n5– *n12), in which *nr gave rise to Ikpeng Nr. Should tongue and navel be seen as idiosyncratic cases or should a different nasal sound be reconstructed? Considering that tongue and navel do not agree (their Kuikuro reﬂexes are different), it seems best, for the time being, to consider them as idiosyncratic cases in search of an explanation (like earth above). Finally, *n22 (bird) includes an apparent case of metathesis (compare Tiriyó tonoro and Hixkaryana torono) and a cognate with surprising vowels (Ikpeng talim). The Ikpeng word is deviant enough that it seems better to consider it noncognate.
+Let us now summarize the rather lengthy discussion of the correspondences in table 7. One can assume a single Proto-Cariban nasal segment *n and a number of conditioned changes to explain most of the correspondences. There are, however, some problematic cases: breast, ﬁsh, bee/honey and rain (with the unexpected Ikpeng reﬂex N), tongue and navel (unexpected reﬂexes in the southern languages, in apparent contrast to patterns from the second group of correspondences). Given that these cases do not agree among themselves, it seems better, all things considered, to reconstruct only one segment, *n. In 4.1 above, we concluded that only one dental *t should be
+11 Note that Ikpeng kaNa means ‘kingﬁsher’ (a bird), not ‘ﬁsh’.
+
+150
+
+international journal of american linguistics
+
+reconstructed, since the exceptional cases were too few to give much support
+to another proto-sound (e.g., Girard’s *c). We use the same argument here
+for *n, though, given the exceptional cases and the number and intricacy of
+the changes and environments in the evolution of *n, our level of certainty
+is lower. It may be that further research will lead to the reconstruction of more
+nasals.
+Proto-Cariban *n had a complex history. Interestingly, the most impres-
+sive changes have taken place in the southern languages. In Kuikuro, *n
+regularly became N, except in clusters (note that sieve, with initial m and intervocalic n, must be a borrowing). In Bakairi, *n was conserved only
+when it was part of a sonorant cluster (*nr, *nn, *mn); in stop clusters (np,
+nk), it disappeared without a trace. Intervocalically, it caused the nasaliza-
+tion of the adjacent vowels, became r in bisyllabic words (or perhaps when
+preceded by stress), and disappeared in longer words (or when not preceded
+by stress). In Ikpeng, *n was conserved intervocalically, except in kaNa ‘kingﬁsher’ (in the ﬁsh set) and in i-maNarI ‘her breast’ (breast). It became N when followed by r, and in the exceptional cases koNpo ‘rain’ (rain) and paN-momtSi ‘bee sp.’ (bee/honey).
+The *n > N change in Ikpeng and Kuikuro occurred in different environments. It might still be possible to argue for a partially shared innovation
+(if, for instance, the *n > N change occurred in two phases: ﬁrst intervocalically, in both Kuikuro and Ikpeng, and then in other noncluster environ-
+ments, only in Kuikuro). A similar claim might be made for Bakairi and
+Ikpeng, with respect to the evolution of *nr clusters (e.g., in eye or blood): in both languages, a *nu-ru sequence was reduced to *n-ru, which then be-
+came Ikpeng N-ru and Bakairi nu, while Kuikuro maintained the vowel. Both claims are somewhat dubious: there is so far no reason to suppose that the
+evolution of Kuikuro N had two phases, and it is not clear that the reduction of nu-ru occurred in the above order (it could have been *nu-ru > *Nu-ru > Ikpeng N-ru, in which case it would be easier to say that the ﬁrst part was shared by Ikpeng and Kuikuro —*n > N— rather than by Ikpeng and Bakairi). Therefore, despite the remaining problems in the reconstruction of
+Proto-Cariban *n, the observed patterns do not seem to lend any further sup-
+port to the southern branch hypothesis.
+4.3. Flaps and liquids. In the northern languages, there is usually only
+one ﬂap (written here as r, realized as \, «, or », depending on the language and on the phonological environment) and no liquids. Some languages have two ﬂaps, one the palatalized version of the other (e.g., r [\] and r j [\j] in Hixkaryana and Waiwai). But only in the southern languages can a true liq-
+uid be found (l, apparently, like Russian l, more dorsal than the canonical
+[l]). This fact seems, at ﬁrst, to argue in favor of a southern group.
+
+southern cariban languages
+
+151
+
+TABLE 8 Correspondences Involving Liquids and Flaps
+
+PC
+
+Yu Ti Hk Mk Pn Bk Ik Kk
+
+examples
+
+*r1
+
+rrr
+
+r r g arrow-1, jacu bird, good, toad
+
+(middle syllable), water-2
+
+*r2
+
+r r r r n r r g cassava, horseﬂy, otter
+
+*r3
+
+r rj r
+
+r r g song
+
+*r4
+
+r r r r n r n g pos, toad (ﬁnal syllable)
+
+*r5
+
+r r r r n W n/r g tail, take, arrow-2
+
+*r6
+
+r r rW
+
+n g ﬁnd
+
+*r7
+
+r rj r n r n g stingray, sieve
+
+*r8
+
+r rj r ˆ W W g agouti
+
+*r9
+
+r rj
+
+n
+
+r
+
+bat
+
+*r10
+
+rrr
+
+r n r m g leaf
+
+*r11
+
+WWr
+
+r W r r g i, we (incl)
+
+*r12
+
+WWr
+
+r n W r g you
+
+*r13
+
+W
+
+r rj r
+
+Wr
+
+star
+
+*r14
+
+r r r W W W W comit
+
+*r15
+
+W W/r r W n r n s daughter
+
+*r16
+
+r r W r n W t W woman
+
+*r17
+
+rrr
+
+r W W/r r
+
+l roast, neg
+
+*r18
+
+r W r W W r l drink(v)
+
+*r19
+
+r r rj r ˆ r r
+
+l liver
+
+*r20
+
+rrr
+
+r ˆ l l s fruit
+
+*r21
+
+n? ˆ n ˆ l l N/g tongue
+
+r?
+
+*r22
+
+rr
+
+*r23
+
+rr
+
+r
+
+l
+
+l ash
+
+r l l g vagina
+
+The ﬁrst two correspondences in table 8, *r1 and *r2, can be put together, since the only difference between them is the absence of Panare and Yukpa cognates in *r1. The result is one correspondence with eight examples, immediately reconstructible as Proto-Cariban *r. Note that this *r became a velar fricative (g) in Kuikuro and a nasal (n) in Panare (with loss
+
+152
+
+international journal of american linguistics
+
+of the following vowel: *rV > n). It is possible to assign *r3–*r9 to *r, assuming that: (a) Ikpeng n results from the same kind of *rV > n change found in Panare (but apparently limited, in Ikpeng, to stem-ﬁnal position); (b) Hixkaryana r j only occurs before e (corresponding to e or i in other lan-
+guages); and (c) the W’s are the result of syllable reduction. Panare ˆ instead of n in *r8 (agouti) can be seen as a case of palatalization, caused by the following i before it disappeared: *akuri > *akun(i) > akuˆ. Also, *r10 can be attributed to *r, except for the unexpected Ikpeng reﬂex m, which might
+result from (irregular) assimilation of an earlier *n < *r to the following p. In *r11–*r14, there are more W’s, often from syllable reduction; in some cases, however, they seem to indicate that a certain syllable was not part of the origi-
+nal stem (e.g., the ﬁnal r´, ro in *r11 and *r12, for which a plausible etymology is an “emphatic” particle r´ ~ ro, found in almost all Cariban languages, frequently used to reinforce pronouns like i, we (incl), or you; the same par-
+ticle may also have become the ﬁnal syllable of comit (*r14) in Tiriyó, Hixkaryana, and Makushi). Except for that, *r11–*r14 can certainly be seen as cases of *r. In *r15, the only surprising reﬂex is Kuikuro s in the possessionmarking sufﬁx -sI (instead of the regular -gI). Since -sI exists as a sufﬁx, independently of -gI, it may be that an earlier -gI was here replaced by -sI, which would allow *r15 to be seen as a case of *r. Finally, *r16 shows an unexpected t in Ikpeng. Noticing, however, that Ikpeng t and r are in morphophonological variation (t’s become r’s intervocalically; see also the discussion of *t in 4.1
+above), we propose that, after the loss of the following vowel, the preceding
+*r, no longer intervocalic, was turned into a t by analogy.
+The remaining correspondences, however, do not seem easily reducible
+to *r. In the northern languages, there is no serious problem (Hixkaryana r j occurs after e; the W’s indicate syllable reduction; Panare ˆ instead of n occurs in palatalizing environments). But the southern languages, even ex-
+cluding the syllable-reduction W’s, show a number of different correspondences: r/W:r:l (*r17–*r19), l:l:s (*r20), l:l:N/g (*r21), l:?:l (*r22), and l:l:g (*r23). In some cases, there possibly were *n-r or *r-r sequences that might lead to the irregular reﬂexes (*n-r: tongue in *r21, also mentioned in *n24 above; drink (v) in *r18; *r-r: vagina in *r23; liver in *r19; maybe also ash in *r22). However, it is not clear why these *n-r sequences do not have the same reﬂexes as those in *n5 and *n6. Moreover, roast, neg, and fruit have no *n-r/*r-r sequences. It is therefore difﬁcult to interpret these
+correspondences: Are they borrowings? Noncognates? Different proto-pho-
+nemes? In the absence of more data, it seems best to leave this question open.
+With respect to the hypothesis of a southern branch, we observe that the
+only clearly reconstructible change is *r > Kuikuro g, not shared by the other southern languages. There does not seem to be a single correspondence that
+could be reconstructed as *l; in fact, there does not seem to be any way to
+
+LONG
+
+southern cariban languages
+
+153
+
+relate the l’s in the southern languages so as to explain them as the result of a shared innovation. If Kuikuro is left out, the cases of r : r (*r1–*r3, *r11, *r19) and l : l (e.g., *r20, *r21, *r23, and maybe *r22) suggest the possible existence of *r and *l in a putative Proto-Bakairi-Ikpeng. Since there are only a few examples, this *l is at best a preliminary hypothesis. We can say that the available data lend some support to the idea of a Bakairi-Ikpeng branch (*l as a shared innovation, to be veriﬁed in the future with more Bakairi-Ikpeng cognates), but not to the idea of a southern branch (Kuikuro l looks like an independent phenomenon).
+4.4. Glides. Let us turn now to the correspondences involving labial and palatal glides (w, j). There is some overlap with vowel correspondences: w sometimes corresponds to u, and j to i. This is usually the result of syllable reduction: sequences like CVwVCV and CVjVCV may evolve into CVwCV and CVjCV by vowel loss, thus creating Vw and Vj sequences that are sometimes analyzed as simple diphthongs, Vu and Vi.
+The best correspondence in table 9, *w1, can be reconstructed as *w. In *w2, we observe that the reﬂex u is the result of vowel loss (syllable reduction) on the syllable *wI, so that *w2 can also be ascribed to *w, as can *w3 and *w4, noting that: (a) the u’s are part of diphthongs that result from syllable reduction (*VwV > *Vw = Vu), and apparently also Ikpeng m (*VwV > *Vw > Vm); and (b) Tiriyó W is adjacent to the vowel o, a very plausible environment for the loss of an earlier w (the sequence wo is not attested synchronically in Tiriyó). Bakairi W appears to be the regular reﬂex of *w.
+In *w5–*w10, there is apparently an independent correspondence, judging by the Bakairi reﬂex p (also found, in two cases, in Ikpeng). The differences found in the other languages can be explained: Tiriyó W in *w9 occurs before an o, already mentioned as a plausible environment for w loss; the parenthetical w in Hixkaryana is actually from the closely related Katxuyana language (which has wosu ‘grass, ﬁeld’), placed here because there is no cognate term in Hixkaryana. Tiriyó m in *w10 is quite unexpected and is best attributed to an extra, noncognate element; the same is probably true for Tiriyó j in *w7.12
+12 Note Bakairi p/w in *w7 (drink (n)), which is not, at least synchronically, a case of alternation; here, there are two possible cognates: pogu ‘porridge’ and woku ‘my drink’, both of which might ﬁt. Comparing woku to other person-marked forms (oku ‘your drink’, e-oku ‘his drink’, k-oku ‘our drink’), one sees that the initial w is not part of the stem; rather, it is a ﬁrst-person marker, from Proto-Cariban *u, not *w. Pogu, on the other hand, is a nonpossessed term, with the p that would be expected as the reﬂex of word-initial *w. It may be that pogu was etymologically the nonpossessed form of oku, the meaning ‘porridge’ being a later innovation. Notice that the voiced stop g is also the regular reﬂex of Proto-Cariban *k intervocalically, unlike the irregular k in woku. It may be that only one of these two forms is really cognate. In any case, however, the development of *w would be regular: either W intervocalically or p word-initially.
+
+154
+
+international journal of american linguistics
+
+PC *w1 *w2 *w3 *w4 *w5 *w6 *w7 *w8 *w9 *w10 *w11 *w12 *w13 *w14 *w15 *w16
+
+TABLE 9 Correspondences Involving Labial Glides
+
+Yu Ti Hk Mk Pn Bk Ik Kk
+
+examples
+
+w w w w w W w/o W excrement, house, shoot, sun-1
+
+w w u u u u u ui
+
+u
+
+u
+
+u m W arrow-1
+
+Ww
+
+W m W liq.in
+
+w w w w w p p W woman
+
+w w w w w p p W bee/honey
+
+j w w u p/w w W drink(n)
+
+w
+
+p/w w W ax
+
+W (w)
+
+p w W ﬁeld/grass
+
+wm w Wwp
+
+W ﬁre
+
+w w ww
+
+p? p? high
+
+W W(:) w u w W N W nose
+
+w w w j j s j W tree/wood
+
+w W W W u u W person
+
+W W w W W W W mountain
+
+wh
+
+s w W woodpecker
+
+There are thus two groups, *w (*w1–*w4) and *w5–*w10, differing basically in their Bakairi reﬂexes (W and p, respectively). It is possible to argue that they are basically in complementary distribution: *w occurs most often
+word-internally, while the examples in *w5–*w10 are mostly word-initial. For instance, shoot and excrement (in *w1) are obligatorily preceded by person-marking preﬁxes, so that their initial consonants are always in inter-
+vocalic position. Sun-1, a free, nonpossessible stem in which the *w is word-
+initial, was placed in *w1 by default, since it lacks a Bakairi cognate; if one is ever found, we expect it to be p-initial, with sun-1 ending up in the *w5– *w10 group. In *w2, an intervocalic environment is also quite plausible, as in Yukpa awI (although the cognates from the other languages in our study begin with w or u, a vowel preceding this w or u is not uncommon in the
+remaining languages of the family, as in Kari’na a:u, Katxuyana owI, Apalaí IwI; see *a in 4.5 below). In *w3 and *w4, the *w is again word-internal. The *w5–*w10 cases, on the other hand, involve word-initial *w’s in non-personmarked forms. There is even synchronic alternation between p and w in the
+cases of stems that can be possessed, with the nonpossessed (preﬁxless)
+
+LONG
+
+southern cariban languages
+
+155
+
+form having p and the possessed (preﬁxed) form having w (e.g., ax: Bakairi pI ‘ax’, I-wI-rI ‘my ax’). The same alternation was observed in the reconstruction of *p (see 4.1), suggesting that, in Bakairi, stems beginning with *p and *w were confused: both origins lead to the same alternation pattern. Note that there seem to be no monomorphemic words beginning with w in Bakairi, with the exception of postpositions (e.g., w´g´ ‘about, on’); particles (war´ ‘thus, also’), which are phonologically dependent on the preceding word; the word wariri ‘small anteater sp.’, a possible borrowing;13 and the ﬁrst-person preﬁx w-, which probably reﬂects Proto-Cariban *u- (also synchronically attested as a ﬁrst-person preﬁx in Bakairi).
+Consequently, *w1–*w4 and *w5–*w10 can be reconstructed as a single *w. It is possible to add *w11 (high) if one considers the unexpected p’s in Ikpeng and Kuikuro not to be cognate: in fact, it seems that only the initial element ka is cognate across the family. The ﬁnal p in Ikpeng Ikap is apparently the essive element -p ‘as, in the quality of ’, a general denominalizer attested elsewhere in the language; in Kuikuro kapehe, the ﬁnal element pehe is sufﬁciently anomalous to be noncognate.14 Ikpeng N in *w12 could also be explained as the regular development of *w in a *wn cluster; if, despite the absence of other examples, we accept this, then *w12 can also be added to *w.
+On the other hand, *w13–*w16 are irregular correspondences that need to be explained. It is semantically plausible that *w13 (tree/wood) and *w16 (woodpecker) are related, but notice that the reﬂexes are not always the same. It is possible that not all words in these sets are really cognate. In *w14 and *w15, there are so many W’s that the *w is more probably part of a noncognate element—an extra *w(I)—rather than the result of syllable reduction.
+There are no good arguments here in favor of the southern branch hypothesis. The loss of *w in all cases in Kuikuro is different from the loss of intervocalic *w in Bakairi. If Kuikuro *w had been lost ﬁrst intervocalically, and only later word-initially, we might be able to argue that this ﬁrst phase could have been shared with Bakairi; however, there is thus far no evidence that this was the case. Even between Ikpeng and Bakairi, there does not seem
+13 In support of the idea that Bakairi wariri was a borrowing, we may cite data from non-Cariban languages (brought to our attention by an anonymous reviewer), such as Karajá wariri ‘anteater’, Proto-Jê *pat ‘anteater’ (Davis 1966:22), Xavante pa:di ‘anteater’, all languages of the Macro-Jê family. However, it must be said that similar forms also occur in other Cariban languages (e.g., Katxuyana warisI ‘anteater’, Wayana arisi-psik ‘small anteater’); the borrowing history of this word is not yet clear.
+14 In some languages, more than one word for ‘high’ is attested; note Tiriyó kae and kaw´, the former apparently archaic. It may be that various locative or directional elements (a perlative -( j )e and a locative -w´, -wo are elsewhere attested; see Meira 2000:80 and Derbyshire 1999:42) were added to an initial stem ka, which may be cognate with the initial syllable of kapu ‘sky’.
+
+156
+
+international journal of american linguistics
+
+TABLE 10 Correspondences Involving Palatal Glides
+
+PC
+
+Yu Ti Hk Mk Pn Bk Ik Kk
+
+examples
+
+*j1
+
+jjjj
+
+j
+
+W j W louse
+
+*j2
+
+j j (i )W j
+
+W W W shaman
+
+*j3
+
+Wj
+
+j ( j) W j W hand
+
+*j4
+
+W/i j
+
+j
+
+W/J j s spider (middle syllable)
+
+*j5
+
+j
+
+j
+
+j (tS)W
+
+W(:) toucan
+
+*j6
+
+(W)i j (W)i W (W)u j W snake
+
+*j7
+
+jjjj
+
+j
+
+W W W bone, father, tooth
+
+*j8
+
+j
+
+W
+
+W W W burn
+
+*j9
+
+j
+
+j
+
+j
+
+j
+
+j/W W W dj armpit
+
+*j10
+
+tS (W)i j (W)i W
+
+W sun-1
+
+to have been any common developments, since Ikpeng, unlike Bakairi, did not lose *w in any environment but rather changed it only word-ﬁnally (to m). As for the Bakairi confusion of *p and *w, the two Ikpeng cognates differ: woman and bee/honey have p, suggesting that Ikpeng also confused *p and *w, but ax, drink (n), and ﬁeld/grass have w, mitigating such confusion. We conclude that there are no good arguments in favor of any groupings here.
+The palatal glide j is curiously rare in clearly cognate words (see table 10). It is very frequent in some allomorphs of the person-marking preﬁxes (e.g., Tiriyó ´j- ‘2’, Bakairi j- ‘1’, Hixkaryana oj- ‘2’), where it may be the reﬂex of an older “linker” or “relator preﬁx” j-, marking a dependency relation between the stem on which it occurs and the preceding term (another word, or a person-marking preﬁx; see Gildea 1988:105 for details). A similar preﬁx is posited by Rodrigues for the Tupi-Guarani languages (see Jensen 1998:502 on the linking preﬁx r-). In fact, in the j-initial examples of table 10 (*j7–*j9), the j may also be a remnant of this relator preﬁx.
+The various cognate sets show slight deviations from a general pattern. Despite these differences, the overall similarities make the hypothesis of a single *j more plausible than suggesting a number of independent segments that occurred only in one or two words each. Note the following:
+(a) There were several cases of fortition: Kuikuro s in spider (*j4), dj in armpit (*j9), Yukpa tS in sun-1 (*j10).
+(b) Tiriyó and Makushsi i in snake (*j6) and sun-1 (*j10) result from *jV > *j reduction, with *j analyzed as i when it is the second element of
+
+LONG
+
+southern cariban languages
+
+157
+
+a diphthong. Bakairi u in snake suggests that the ﬁnal syllable was *ju (> je [ji] in Hixkaryana by assimilation).15 (c) In shaman (*j2), Makushi has W, but the preceding i (instead of the I found in its cognates) probably reﬂects assimilation to the original *j (e.g., *Ij > i ). (d ) In hand (*j3), one may propose an *mj cluster, conserved in Ikpeng, simpliﬁed to m in Yukpa and Bakairi, and assimilated to nj, ˆ in Tiriyó, Makushi, Panare, and Kuikuro. (e) The cases of Ikpeng W are usually morpheme-initial (*j7–*j9), in which the j, as was pointed out above, may actually reﬂect a relator preﬁx. Ikpeng may simply have lost this preﬁx in these cases. (The Ikpeng cognate for father may actually have retained this *j in its irregular ﬁrst-person form I-rojmI, if the ro is assumed to be an intrusive element. One possible source for it is the ﬁrst-person pronoun uro: *uro j(I)mI > *u-ro-jmI > I-rojmI.) In *j2 (shaman), however, the lost *j is not morpheme-initial.
+The reconstruction of a single *j for all the above correspondences would make it possible to propose an innovation shared by Kuikuro and Bakairi: the loss of *j in all environments. Nevertheless, the small number of examples and the sometimes irregular Kuikuro reﬂexes lower the plausibility of this shared innovation. It is at best a weak and questionable argument in favor of the hypothesis of a southern branch.
+4.5. Vowels. As Girard (1971:79) pointed out, the reconstruction of Proto-Cariban vowels is often difﬁcult due to the many cases of irregular, unpredictable assimilation of a vowel (especially a central vowel) to another vowel in the same word. We note such cases as they occur.
+As can be seen in table 11, there are a number of cognates that support the reconstruction of the Proto-Cariban vowel *a. The ﬁrst correspondence (*a1) is immediately reconstructible as *a; *a2–*a6 can also be seen as reﬂexes of *a, with the following remarks:
+(a) In *a2, there is one a-initial form (Yukpa awI); all the others have no initial vowel. As discussed in 4.4, there are, in some languages not considered here, other ﬁrst-person pronouns with an initial vowel,
+15 In spider, Tiriyó i might also reﬂect Proto-Cariban *j (*mojoti > *mojosi > *mojoi > *moji > moi ). But it would be necessary to posit an *oi > *i simpliﬁcation for which there are no other Tiriyó examples. It may be better to assume that *j was lost (perhaps when surrounded by identical vowels, for which spider is the only example) and that the two o’s coalesced (e.g., *mojoti > *mojosi > *moosi > *mooi > moi ). Similarly, Bakairi J might reﬂect the original *j (*mojoti > *moji > moJi ), but since most *j’s have W reﬂexes in Bakairi, it seems better to assume the same for spider by deriving J from *t (e.g., *mojoti > *mojosi > *moosi > *mosi > moJi ).
+
+158
+
+international journal of american linguistics
+
+TABLE 11 Correspondences Reconstructible as Proto-Cariban *a
+
+PC
+
+Yu Ti Hk Mk Pn Bk Ik Kk
+
+examples
+
+*a1
+
+a a a a a a a a agouti, armpit, breast,
+
+burn(intr), comit, corn, ear, ﬁsh,
+
+foot-2, grandfather, grease/fat,
+
+hand, hear, high, jacu bird, leaf,
+
+liq.in, mouth-1, mouth-2, nose,
+
+neg, path, saliva, seed, shaman,
+
+sieve, sky, water-1, water-2,
+
+we(excl)-1, we(excl)-2
+
+*a2
+
+a W W W W W W Wi
+
+*a3
+
+a a a a a e a a louse
+
+*a4
+
+aa a o
+
+a a toucan
+
+*a5
+
+aao o aa
+
+a otter
+
+*a6
+
+´ a a a a a a two
+
+*a7
+
+a a a a a a a i bite, seize, take
+
+*a8
+
+aaa
+
+a e e i say, grandson
+
+*a9
+
+a a e a a e a i bee/honey
+
+*a10
+
+eae
+
+a ae
+
+i ﬁre
+
+*a11 a e o a a e e i mother
+
+*a12
+
+a
+
+a a e a W liana
+
+*a13
+
+a
+
+a a W tail
+
+e.g., Apalaí IwI, Katxuyana and Waiwai owI, Karihona ´wI, and Kari’na a:u and Waimiri-Atroari awI, with the same a as in Yukpa. Gildea (1998), in considering that the vowels other than a (i.e., I, o) could result from vowel reduction or assimilation, reconstructed *aas a ﬁrst-person preﬁx; Meira (2002), using a similar argument, proposed *awI as the Proto-Cariban ﬁrst-person pronoun; the W’s thus represent many cases of vowel loss.16 (b) Bakairi e in *a3 can be seen as resulting from the inﬂuence of a preceding *j (louse: *ajamI > *aemI > emI).
+16 An anonymous reviewer has suggested that the Yukpa initial *a might be a reﬂex of this ﬁrst-person preﬁx added to a ﬁrst-person pronoun *wI; this would explain the *a2 correspondence not as vowel loss, in many languages, but as the result of a morphological process (addition of a preﬁx). This is not impossible; but the reconstruction of Proto-Cariban *a- also is somewhat speculative (*a- is not the most frequent ﬁrst-person preﬁx), which complicates the issue. We prefer to leave this possibility open for further research.
+
+southern cariban languages
+
+159
+
+(c) In *a4, Panare o can be attributed to assimilation (the two following syllables have o’s); in *a5, the same may be true for the o’s in Hixkaryana and Makushi.
+(d ) The Tiriyó long ´: in *a6 (two) is the result of the loss of intervocalic *tS (< *t), a well-attested historical change in Tiriyó. Meira (2000:31), using Tiriyó ´:k´n´ and Karihona s´k´n´-r´ ‘two’, reconstructs *´tS´k´n´ for the Proto-Taranoan sub-branch. The a’s in the other languages suggest that there was assimilation: the original word had probably one *a and one *´ (= *ô; cf. *o below), with *a > *ô in Taranoan languages and *ô > *a in the others. From this cognate set, it is not clear which of the two ﬁrst vowels was *a and which was *ô (i.e., *ôtakô or *atôkô). If, however, we consider this word as derived from the comitative postposition *akô(rô), the most plausible reconstruction becomes *ôt-akô, with the reﬂexive/reciprocal preﬁx (i.e., ‘with each other’ = ‘as a pair’ = ‘two’). The ﬁnal elements, -n´/-nI, -ko, can be related to collective/plural markers.
+The *a7–*a11 group is more difﬁcult to interpret. These correspondences have several instances of e or related vowels (Kuikuro i derives from *i or *e; see below). In *a8 and *a11 (and maybe *a10), it looks as if the southern languages had *e, while the northern languages have (mostly) *a. However, in *a7 , only Kuikuro has i (< *e),17 and in *a9 Ikpeng has a. All these cases probably reﬂect one of the types of Cariban ablaut (discussed at the beginning of 4), a problem left for future research. They are listed in *a simply because there are more a’s in the reﬂexes, but it is possible that both a- and e- forms will eventually be reconstructed (cf., e.g., in bee/honey, Tiriyó wan´ ‘honey’ and i-weni ‘its honey, its sweetner, that which makes it sweet’). For say, in *a8, there are cases of synchronic allomorphy between ka and ke (e.g., Wayana ka ‘say’ becomes ke in the present: wI- ‘1’ + ka + -ja ‘pres’ + -i ‘evid’ § wIkei ‘I say, I am saying’); it is possible to hypothesize that the ke allomorph was extended to all environments in some languages.
+The two last correspondences are problematic cases. In *a12 (liana), there seem to be extra, noncognate elements (ke in Panare; possibly mi in Tiriyó); the history of this word is therefore not regular. In *a13 (tail), Kuikuro W depends on considering the i in i-goko-gu to be only a person marker; if, however, it were also part of the stem, it could be yet another case of ablaut (as in *a7–*a11).
+17 One possible explanation for Kuikuro i in *a7 (bite) is that the second i corresponds to a second *e in the stem, and not to the ﬁnal *a (compare Kuikuro itsi to Yukpa eseka). In this case, Kuikuro would have lost the last syllable, and its ts would reﬂect *t, not *k (*eteka > itsi ).
+
+160
+
+international journal of american linguistics
+
+The idea of a southern group would receive support if *a8, *a10, and *a11 represent a shared innovation (*a > e in the southern languages). However, as we saw, these are problematic cases involving the (not yet well understood) Cariban ablaut. It seems best to assume that Proto-Cariban *a was conserved relatively intact in the daughter languages (except in the cases of assimilation), which thus gives no support to family-internal subgrouping.
+The main correspondence in table 12, *e1, can automatically be reconstructed as *e. All the other correspondences can also be ascribed to *e, with the following remarks:
+(a) The variant forms in *e3 represent synchronic ablaut (see the beginning of 4): there are e- and ´-initial forms of the stem in question in Tiriyó and in Bakairi, corresponding regularly to e- and o-initial forms in Ikpeng and to e- and i-initial forms in Kuikuro. The two Panare vowels in *e4 also seem to be synchronic ablaut forms (attested for one of the stems: scrotum amu ‘nonpossessed’, j-Imu-n ‘possessed’). The details in Panare are often difﬁcult to establish, because the ablaut patterns interact with the complex (and mostly undescribed) rules of Panare morphophonology.
+(b) Panare i in *e2, *e5, and *e6, o in *e8, a in *e9, *e11, and *e20, and ´ in *e14 are probably also dependent on the details of Panare morphophonology and their interaction with the ablaut pattern; the same is likely true for Makushi i in *e2.
+(c) The (unknown) details of Yukpa morphophonology will also, we hope, explain the o in *e6 and *e23, the a in *e9, and perhaps the I in *e15 (though, in the latter case, assimilation to the I in the following syllable seems more probable).
+(d ) In *e7 , Tiriyó W reﬂects the fusion of the two e’s in the stem after the loss of the intermediate fricative (*etetI > *etSetI > e:tI); Hixkaryana o is unexpected, but it is possible that at least one of the morphemes in question (name) contains a reﬂexive/reciprocal preﬁx (*et-etI > *etS-etI) which may have had, in the past, morphophonological effects on the following vowel (e/o ablaut; note that the reﬂexive/reciprocal preﬁx on verb stems always takes the o-form of the stem in Hixkaryana, as in os-oˆe ‘to see oneself, to be seen’, from eˆe / oˆe ‘to see’). The only alternative would be to suppose a less plausible assimilation of an original *o to the initial *e in all the other languages.
+(e) Kuikuro e in *e12 (sieve) represents yet a third irregularity (aside from the initial m and the intervocalic n) by virtue of which this word can be singled out as a borrowing.
+(f ) In *e13, Tiriyó i apparently results from assimilation to the ﬁrst i in the stem; the same can be said about Makushi i in *e12.
+
+southern cariban languages
+
+161
+
+TABLE 12 Correspondences Reconstructible as Proto-Cariban *e
+
+PC Yu Ti Hk Mk Pn Bk Ik Kk
+
+examples
+
+*e1
+
+e e e e e e e i bite, bring (middle syllable),
+
+drink(v), dry, excrement, knee,
+
+piranha, see, song (middle syllable),
+
+sun-1, thigh, woodpecker
+
+*e2
+
+e e e e(/i ) e(/i ) e a i bring (ﬁrst syllable), tree/wood
+
+*e3
+
+´/e e e
+
+´/e o/e e/i song (ﬁrst syllable)
+
+*e4
+
+e e e e a/I e e i scrotum, daughter
+
+*e5
+
+eee e
+
+i e e i name (ﬁrst syllable), bat
+
+*e6
+
+oee e
+
+i e e i fruit (ﬁrst syllable), liver (ﬁrst
+
+syllable)
+
+*e7
+
+e W o e e e e i name (middle syllable), ptcp
+
+*e8
+
+e e e e o e e i eye
+
+*e9
+
+a e e e a/e e e i instr
+
+*e10
+
+ee
+
+e e e W i hand
+
+*e11
+
+ee e a
+
+W W ﬁnd
+
+*e12
+
+ee i
+
+e W e sieve
+
+*e13
+
+i e e W e W i stingray
+
+*e14
+
+eoo e
+
+´ e e i nose
+
+*e15
+
+Iee e
+
+e i i i fruit (middle syllable)
+
+*e16
+
+eee e
+
+e i i i hear
+
+*e17
+
+ee
+
+W
+
+e
+
+i ash
+
+*e18
+
+ee
+
+I I i arrow-2
+
+*e19
+
+eee e
+
+W e e u? liver (ﬁnal syllable)
+
+*e20 e W a W I/a W W W path
+
+*e21
+
+eeo e
+
+W e W i saliva
+
+*e22
+
+e
+
+e
+
+Ii
+
+this (inan)
+
+*e23
+
+oe
+
+a/I e i i vagina
+
+(g) In *e14, Tiriyó o is not a mere consequence of synchronic ablaut (which, in this language, has the form e ~ ´, not e ~ o), since this pattern does not affect the term at hand, o:na ‘nose’. However, it is pos-
+sible that o:na did, in the past, follow the ablaut pattern, with forms
+
+162
+
+international journal of american linguistics
+
+like *´una ~ *euna (cf., e.g., Hixkaryana owna ~ ewna ‘nose’), from which *´u > o by assimilation, with the o form replacing both the *´u and the *eu forms (another possibility is that the Tiriyó alternation might have been, as in Hixkaryana, *ouna ~ *euna, with *ouna > o:na replacing *euna; but see the discussion of *o below). (h) In *e15 and *e16, the i’s in Bakairi and Ikpeng (and probably Bakairi i in *e22 and Ikpeng i in *e23) are unexpected: they cannot be explained by ablaut, since they occur word-internally. For fruit, there may have been inﬂuence from related terms (there often are words like Tiriyó eperu ‘fruit’, epI ‘tree, trunk’, epu ‘post, pole, mast’, which could exert inﬂuence on each other’s pronunciation). For the others, however, no such explanation is readily available. (i ) In general, W’s represent syllable reduction (e.g., regular *re > n in Panare and Ikpeng in *e13, and in Ikpeng in *e12; see 4.3). The loss of the ﬁnal syllable in Ikpeng and Kuikuro in *e11 is irregular, as is also the loss of the initial *e in Ikpeng in *e10. ( j) In *e18 (arrow-2), the I’s in Bakairi and Ikpeng are quite irregular. It may be, however, that this stem used to take the possession-marking sufﬁx -rI, which could have inﬂuenced the stem-ﬁnal e: *i-pIre-rI > Ikpeng i-prI > Bakairi i-pI. (k) In *e19 (liver), Kuikuro u is quite unexpected. It may be an indication that the word in question (u-tilu) is not a cognate; but it may also be the reﬂex of a separate morpheme (e.g., the possession-marking sufﬁx *-ru). (l ) In *e20 (path), the ﬁrst two vowels apparently underwent languagespeciﬁc assimilations; compare Hixkaryana asama, Yukpa osema, and Makushi e?ma, Tiriyó e:ma (both apparently from *etSema). Apparently, this word lost the middle syllable in the three southern languages (the n in Ikpeng may be a remnant of that syllable: *asema > *asma > anma).
+With respect to the plausibility of a southern branch, the development of Proto-Cariban *e does not generate any new arguments. In Kuikuro, *e became i in all environments, but no corresponding change occurred regularly in Bakairi or in Ikpeng; in these languages, as in most other Cariban languages, *e was simply preserved as such. There are thus no shared innovations.
+The vowel i is relatively rare in Cariban languages (although it occurs in the high-frequency third-person preﬁx i- ‘3’). The number of cognates involving i is therefore rather low (see table 13).
+The examples in *i1–*i5 are the best candidates for reconstruction as *i (note that, in Hixkaryana, [i] and [e] are realizations of e), with the following remarks:
+
+LONG
+
+southern cariban languages
+
+163
+
+TABLE 13 Correspondences Reconstructible as Proto-Cariban *i
+
+PC Yu Ti Hk Mk Pn Bk Ik Kk
+
+examples
+
+*i1
+
+e i e i W i i i agouti, liana, star, sun-2, we(excl)-2
+
+*i2
+
+W i W j i i i i forest
+
+*i3
+
+iW
+
+ii
+
+i root/vein
+
+*i4
+
+i W u/i W i i i stingray
+
+*i5
+
+i W W W i W i shaman (ﬁnal syllable)
+
+*i6
+
+i I i i i i i ﬂea, 3
+
+*i7
+
+iI i
+
+I jacu bird
+
+*i8
+
+i I i i/? i W W corn
+
+*i9
+
+iI i
+
+i W i spider (ﬁnal syllable)
+
+*i10
+
+WI I i i I
+
+mountain (ﬁrst syllable)
+
+*i11 e i I i I i i i daughter
+
+*i12
+
+i u i i W u/i i skin/bark
+
+*i13 u u W u u i i i urine (ﬁrst syllable)
+
+(a) Hixkaryana and Tiriyó W’s result from syllable reduction. (b) Panare W has indirect causes (in agouti, the ﬁnal syllable *ri becomes
+ˆ; in liana, the ﬁrst syllable, which has *i, is reduced to a glottal stop by the addition of the extra noncognate element ke-).
+(c) In star (*i1), Ikpeng unexpectedly has two different vowels (tIriN, with I and i ); we suggest a *i > I change as the ﬁrst step in the reduction of the initial syllable.
+(d) In Yukpa and Hixkaryana, the *i in forest (*i2) is lost; in Hixkaryana, it may have palatalized the following *t (tSetSa), but since the vowel e occurs instead of the expected u, this word may also be non-
+cognate. Makushi j in the same word (ju?) may be a reﬂex of the *i; but, since it seems quite difﬁcult to explain why the intervocalic t dis-
+appeared and how a glottal stop appeared at the end of the word, it
+may be better to assume that the initial ju is actually a retention, so
+that the proto-form was *jutu, the i in the other languages resulting
+from assimilation (*ju > ji > i ), and the Makushi ﬁnal ? is a reduced form of the ﬁnal syllable *tu.
+(e) Makushi u/i in *i4 represents dialectal variation.
+
+164
+
+international journal of american linguistics
+
+In *i6–*i11, on the other hand, one ﬁnds Hixkaryana I instead of the normal e. It is possible that they are cases of *I rather than *i. Given, however, that in all examples a fricative s or S precedes the i (except for 3, the thirdperson preﬁx), it seems better to posit a conditioned change: *si > Hixkaryana sI. (Because this s is presumably the result of palatalization—see the discussion of *t in 4.1 above—the sequence would be *ti > *si > sI.) The W’s in Ikpeng and Kuikuro indicate syllable reduction.
+In *i12, the reﬂexes are compatible with reconstruction as *i or *u, with assimilation to the vowel in the second syllable in the cases in which the
+original vowel was changed. Since assimilation to u is better attested in the
+family than assimilation to i (of which there are no clear cases), *i11 is here reconstructed as *i, with the cases of u deriving from assimilation to the
+vowel in the second syllable, reconstructed as *u (cf. Bakairi tubi and Ikpeng
+pitu, in which this *u was apparently conserved): *pi-tupô > *pu-tupô > Ikpeng i-put, *pitSupô > *putSupô > Hixkaryana hutShu. Finally, for *i13, despite the four u reﬂexes, reconstruction as i is preferred because it is the
+necessary palatalizing environment for the preceding fricative (s, S ) to derive from a stop (*t); see the discussion of *t in 4.1 above.
+Since there were no changes in the southern languages (they all preserved
+Proto-Cariban *i, except in corn, where Ikpeng loses the ﬁnal vowel and
+Kuikuro the whole ﬁnal syllable), there are no new arguments either in favor
+of or against a southern branch.
+The vowel u in Cariban languages tends to be rather unstable, especially
+at morpheme boundaries. Morphophonological processes frequently either
+create it (e.g., from I) by assimilation or make it disappear by syllable reduction. The W’s and I’s in table 14 (and the W’s and u’s in table 15 below) can almost all be attributed to these processes, generally with language-speciﬁc
+idiosyncratic outcomes. This makes the reliable reconstruction of *u (and of
+*I) especially difﬁcult: even when most reﬂexes agree (e.g., most are *u or most are *I), assimilation and reduction processes are so frequent that the possibility of independent parallel changes (*I > u or *u > I in many languages) cannot be excluded and must ultimately be judged on a case-by-case basis.
+The best candidates for reconstruction as *u are *u1–*u15, since all reﬂexes are u, I, or W. Unanimous agreement makes *u1 an obvious case. Languagespeciﬁc syllable reduction is the cause of the W’s and I’s (Spike Gildea [personal communication] suggests that reduction to I may be the ﬁrst step of the process, prior to vowel loss), which, in *u1–*u15, are a minority.
+In *u16 and *u17, there are more I’s than u’s, which suggests reconstruction as *I. However, the environments in question do not seem especially conducive to *I > u assimilation (i.e., there are no labial consonants, nor u’s or o’s in adjacent syllables). It thus seems slightly more likely that these cor-
+respondences represent cases of *u, with a number of (independent, lan-
+guage-speciﬁc) *u > I changes.
+
+LONG
+
+southern cariban languages
+
+165
+
+TABLE 14 Correspondences Reconstructible as Proto-Cariban *u
+
+PC Yu Ti Hk Mk Pn Bk Ik Kk
+
+examples
+
+*u1
+
+u u u u u u u u cassava (ﬁrst syllable), dry, foot-1,
+
+know, moon, son, water-2
+
+*u2
+
+u u u u I u u u burn(intr), water-1
+
+*u3
+
+u I u u u u u horseﬂy
+
+*u4
+
+u u u u u u W u roast (ﬁrst syllable), ﬂesh/meat
+
+(ﬁrst syllable)
+
+*u5
+
+u u u u W W u agouti
+
+*u6
+
+u u W u u u W u scrotum, saliva
+
+*u7
+
+u u u u W u W u eye
+
+*u8
+
+uu
+
+u u u woodpecker
+
+*u9
+
+W u(/W) u W W u u u stone, cassava (ﬁnal syllable),
+
+ﬂesh/meat (ﬁnal syllable)
+
+*u10 u u u W u/W u u u urine (ﬁnal syllable)
+
+*u11
+
+u
+
+u
+
+I
+
+u I u blood
+
+*u12
+
+u
+
+I u u u u give (ﬁnal syllable)
+
+*u13
+
+I u u/W u/W u W u drink(n)
+
+*u14 u W?
+
+u
+
+u
+
+u ash
+
+*u15
+
+W W W W u u W skin/bark (middle syllable)
+
+*u16
+
+I
+
+u
+
+I u W I I I fruit
+
+*u17
+
+I
+
+I
+
+I
+
+u W u man, we(incl)
+
+*u18 u u e u W u u u forest
+
+*u19 W u e W W u o I sky
+
+*u20 e u u u/I W W u e roast (ﬁnal syllable)
+
+*u21
+
+u
+
+W W u e W give (ﬁrst syllable)
+
+*u22
+
+u W o u W W õ grandfather
+
+*u23
+
+o u u o u u u tongue
+
+In *u18–*u24, vowels other than I or u occur as reﬂexes. In *u18 (forest) and *u19, Hixkaryana e is irregular. As we noted above (see discussion of *t in 4.1), Hixkaryana tSetSa ‘forest’ is probably not cognate; but Hixkaryana kahe ‘sky’ looks perfectly cognate in all respects except its ﬁnal e, which
+remains unexplained. Other unexplained e’s can be found in Yukpa and
+Kuikuro in *u20 (roast), and in Ikpeng in *u21 (give).
+
+166
+
+international journal of american linguistics
+
+There are also several o’s. Ikpeng o in *u19 (sky) is the only surprising element in an otherwise quite regular cognate (kapo); it remains unexplained. In *u23 (tongue), we are dealing with a highly irregular word, as noted in 4.2 and 4.3 above. For *u22 (grandfather), one can mention the synchronic existence of o- and u-variants in the same language (e.g., Tiriyó i-tamu ‘his grandfather’ vs. tamo ‘grandfather! (voc)’, ‘my grandfather’); it may be that a u-form and an o-form will be reconstructed here.
+Since there were no regular changes in the southern languages (ProtoCariban *u was either preserved or idiosyncratically reduced to I or W), there are no new arguments in favor of a southern branch. Notice the presence of three I’s in the southern languages in *u16: this is another case of agreement between them. However, as in the other cases, this one is debatable: there is only one example, and, even if one assumes that it is a change (i.e., that *u16 is a case of *u, not *I, with *u > I in the southern languages), *u > I is a plausible ﬁrst step in syllable reduction and therefore a good candidate for parallel innovation (cf. the I’s in Hixkaryana and Yukpa). It is also not implausible that semantically close terms may have exerted some inﬂuence (cf. Tiriyó epI ‘trunk, tree’; see the discussion of *e15 above).
+The vowel I, like u, is quite unstable and tends to disappear in various environments due to syllable reduction, which explains the frequent W’s in table 15 (in some cases—*I13, *I32—all languages but one have W’s). The preponderance of I’s in most correspondences is the basic reason for reconstructing *I, especially in *I1–*I4 and *I12–*I18, in which no other vowels occur. In *I5, *I6,*I11, and *I24, the higher frequency of I reﬂexes leads to reconstruction as *I, but the presence of u’s makes *u not implausible (especially for *I6); but note that assimilation of *I to u is also a possible explanation, given that, in many cases, the preceding syllable has a back round vowel (o or u). In *I7, there is synchronic alternation between u- and Iforms of the possession-marking sufﬁx (usually -rI ~ -ru), with the u-form occurring on stems ending in back round vowels (u or o); both forms are here reconstructed to Proto-Cariban.
+In *I8–*I10, there are some rather surprising cases of Kuikuro i instead of I (and note also Makushi i in *I8 and Panare i in *I29); there is no clear explanation for them (but note that, in all cases, the preceding consonant is *n or *r, so that the unexpected vowel may be involved in the evolution of these sounds; see 4.3 and 4.4 above). The cases of i in *I28, on the other hand, probably result from assimilation to the following *j (4.4).
+In *I19–*I21, *I30, and *I31, there are cases of o or ´ (< *ô; see below). It is at least plausible that they represent cases of *ô which were reduced to I in the other languages. In some cases, this is not very likely (e.g., *I19, with only one o in Yukpa, a language which has a number of irregularities); in others, it is deﬁnitely a possibility (e.g., *I20 and *I21). In fact, for take (*I20), one might suggest that an earlier *arô became *arI under the inﬂuence of the
+Long
+
+southern cariban languages
+
+167
+
+TABLE 15
+
+Correspondences Reconstructible as Proto-Cariban *I
+
+PC Yu Ti Hk Mk Pn Bk Ik Kk
+
+examples
+
+*I1
+
+I I I I I I I I arrow-1, ax, neck (ﬁnal syllable), sleep
+
+*I2
+
+W I I W W I W I excrement, fat, name, thigh, who
+
+*I3
+
+I/W W
+
+W I I I root/vein
+
+*I4
+
+I I I W W? I ? I breast
+
+*I5
+
+II
+
+I I u I vagina
+
+*I6
+
+I I u Iu
+
+u tip/beak
+
+*I7 I/u I/u/W I/u I W I/u W I/u pos
+
+*I8
+
+I ui
+
+I i navel
+
+*I9
+
+I W I W I I i drink(v) (ﬁnal syllable)
+
+*I10
+
+I I IW
+
+W i ﬁnd
+
+*I11 I u I u I W W W father (initial syllable)
+
+*I12
+
+I
+
+I I W W W come
+
+*I13 W I W W W W W W bone, person, toucan
+
+*I14
+
+I W I W W I W mouth-1
+
+*I15 W W I W
+
+I/W W W neg
+
+*I16 I I W W W W W W i
+
+*I17
+
+I I WWI I
+
+mountain (ﬁnal syllable)
+
+*I18 I I W I/W I I
+
+neck (ﬁrst syllable)
+
+*I19 o W I W W I I I father (ﬁnal syllable)
+
+*I20 u ´ I I W W W/I
+
+take
+
+*I21 W I o W ´ I W I louse
+
+*I22 I I e I I I I i/I what, wife (ﬁrst syllable)
+
+*I23
+
+I/W e W W I W I wife (ﬁnal syllable)
+
+*I24 I I e W W u W W hair
+
+*I25 e I I e W I W I leaf
+
+*I26 e I
+
+I I W W I bring
+
+*I27 e I W I I I W I bathe(tr)
+
+*I28
+
+I W i i I I I shaman
+
+*I29
+
+I W I i W W W drink(v) (middle syllable)
+
+*I30
+
+I
+
+u W o tail (ﬁnal syllable)
+
+*I31
+
+´ o/I I ´ I I e pst.pos (ﬁnal syllable)
+
+*I32
+
+W W W W I W W pst.pos (ﬁrst syllable)
+
+168
+
+international journal of american linguistics
+
+possession-marking sufﬁx -rI on possessed W-nominalized forms. In *I30, the ﬁnal o in Kuikuro might reﬂect *o (not *ô; see below), but since the preced-
+ing syllable also has o, assimilation (*I > o) remains a possible hypothesis; Bakairi ﬁnal u suggests also *u, but assimilation (*I > u) is again possible. In *I31, note that Hixkaryana has two allomorphs -tho and -thI-rI of the past possession (pst.pos) marker, a fact also attested in other languages (e.g., Wayana tp´ and tpI); we assume that the cases of ´, o, or e in the ﬁnal syllable reﬂect one allomorph (reconstructible as *-tIpô or *-tupô) and the cases of I reﬂect the other allomorph (reconstructible as *-tIpI-rI).
+In *I22–*I24, Hixkaryana e is surprising (note also Kuikuro i in one case, wife). In two cases, it occurs in the vicinity of another e (wife: ro-he-tSe; what: etenI), which suggests sporadic cases of assimilation; the third case (hair: kI-hpo-tSe) has the same possession-marking sufﬁx -tSe as wife. It does not seem best to reconstruct *e for these correspondences; there are
+sufﬁcient signs of deviation (compare, e.g., etenI with the other words in what) to suggest that this e is a Hixkaryana innovation.
+Yukpa e in *I25–*I27 is also unexpected. In bring, assimilation is a plausible hypothesis, since the two preceding syllables also have e (m-enepe ‘you
+brought it’). In bathe (tr), that is not the case; in leaf, there is even another e in Makushi. Given the overwhelming predominance of I reﬂexes, it still seems better to reconstruct *I; but *e (especially for leaf), although less likely, cannot be ruled out.
+Given the absence of any regular changes involving the southern lan-
+guages (Proto-Cariban *I was either conserved or lost via syllable reduction), there are no new arguments in favor of a southern branch.
+The correspondences in table 16 seem to fall into two natural groups: *o1– *o24, and *o25–*o40, with *o41–*45 containing exceptional cases. Notice the almost perfect agreement between Tiriyó, Bakairi, and Kuikuro: in the ﬁrst
+group, Tiriyó o : Bakairi o : Kuikuro o; in the second group, Tiriyó ´, Bakairi ´, Kuikuro e. Except in the cases of syllable reduction, Makushi also agrees quite well, with o in the ﬁrst group and I in the second. To these languages Yukpa, Hixkaryana, and Ikpeng can be opposed, all of which have mostly o
+in the two groups.
+The ﬁrst group (*o1–*o24) is the best candidate for reconstruction as Proto-Cariban *o—notice the many examples in the identity correspondence
+*o1—with the following remarks (W’s are attributed to syllable reduction):
+(a) Panare a in *o5 (earth), *o7 (rain), and *o22 (ﬁre) is rather surprising. Note, however, that there is dialectal variation (for rain, kono? and kano? come from different dialects, as do wahto and wahta in ﬁre); one may suggest o as the normal development and a as a consequence of more recent Panare dialectal history.
+
+Long
+
+southern cariban languages
+
+169
+
+TABLE 16 CorresponTdAeBncLeEs1I6n—voclovnitningutehde Vowel o
+
+PC Yu Ti Hk Mk Pn Bk Ik Kk
+
+examples
+
+*o1
+
+oooo o
+
+o
+
+o o caus, drink(n), earth, ﬁeld/grass,
+
+ﬁnd, husband, navel, mouth-2,
+
+night (ﬁrst syllable), spider (ﬁrst
+
+syllable), tail (middle syllable),
+
+worm (ﬁrst syllable)
+
+*o2
+
+oooo o
+
+W o/W o col (ﬁrst syllable)
+
+*o3
+
+W o o/W o o o/W o o circ.nzr (ﬁrst syllable)
+
+*o4
+
+o o/W o W W o(/W) o/W W circ.nzr (ﬁnal syllable), col (ﬁnal
+
+syllable)
+
+*o5
+
+o o o o a(/o) o
+
+o o person (middle syllable), earth
+
+*o6
+
+o o W o W W o person (ﬁnal syllable)
+
+*o7
+
+eo
+
+o a/o o o o rain (ﬁrst syllable)
+
+*o8
+
+oo
+
+o o W W o rain (middle syllable)
+
+*o9
+
+oo
+
+a u$
+
+õ wasp (middle syllable)
+
+*o10
+
+oo
+
+a´
+
+o wasp (ﬁrst syllable)
+
+*o11
+
+oo
+
+o ´$
+
+W wasp (ﬁnal syllable)
+
+*o12 o o
+
+W W ´ o o rain (ﬁnal syllable)
+
+*o13 o o o o ´
+
+o tip/beak
+
+*o14
+
+o
+
+W
+
+o
+
+o worm (ﬁnal syllable)
+
+*o15 o W o I ´
+
+W
+
+o
+
+who (middle syllable)
+
+*o16
+
+W o o/a
+
+W o o spider (middle syllable)
+
+*o17
+
+o o o u (o?) a o bird (ﬁrst syllable)
+
+*o18
+
+o o o W (o?) i o bird (middle syllable)
+
+*o19 o o o o W
+
+o
+
+o otter
+
+*o20 W o o o o
+
+u
+
+u u hair
+
+*o21
+
+o/u W o u W W o grandfather
+
+*o22 a o o W o/a o
+
+o ﬁre
+
+*o23 o o W W W
+
+W
+
+W o night (ﬁnal syllable)
+
+*o24 o o W W W
+
+I
+
+W W liq.in
+
+*o25 o ´ o I ´
+
+´
+
+o e about/erg, arrow-2, ﬂea, go,
+
+high, i, imper, leave(tr), moon,
+
+shoot, toad (middle syllable), you
+
+(ﬁnal syllable)
+
+170
+
+international journal of american linguistics
+
+TABLE 16—continued
+
+*o26 u ´ o I ´
+
+´ u(/W) e seize, star, that(inan) (ﬁrst syllable)
+
+*o27
+
+´ o I a ´ o e snake (ﬁrst syllable)
+
+*o28
+
+´ o I e ´ o e snake (middle syllable)
+
+*o29
+
+´o
+
+i
+
+´$
+
+o e piranha
+
+*o30
+
+´/o o i i
+
+´
+
+o e peccary (ﬁrst syllable)
+
+*o31
+
+´u I ´
+
+I
+
+W o skin/bark
+
+*o32 a ´ o a a
+
+´
+
+o e you (ﬁrst syllable)
+
+*o33
+
+´o
+
+´u
+
+toad (ﬁrst syllable)
+
+*o34 o ´ o I o u?´?
+
+e stone
+
+*o35
+
+´ o I W ´ o e horseﬂy (middle syllable)
+
+*o36
+
+´ o I W ´ W e comit, that(inan) (ﬁnal syllable)
+
+*o37 o ´ o W ´
+
+´
+
+W e bee/honey, horseﬂy (ﬁnal syllable),
+
+liana
+
+*o38
+
+´ o I W ´ W e two (ﬁnal syllable)
+
+*o39 o ´ o I I
+
+e
+
+e i woman
+
+*o40 o ´ a e W
+
+´$
+
+a a path
+
+*o41 I e o e ´
+
+e
+
+e i tooth
+
+*o42 o e o e ´
+
+i
+
+i i bone
+
+*o43
+
+e o I ´ W W W peccary (ﬁnal syllable)
+
+*o44 W a? o a W
+
+´
+
+o
+
+who (ﬁrst syllable)
+
+*o45
+
+a? e I
+
+´a
+
+what
+
+(b) There are several irregularities in rain (*o7, *o8, and *o12). Aside from Panare a, mentioned above, there are Yukpa e and j in kejopo, a word for which cognate status may seem debatable (but the overall similarity of kejopo to the other words in this set render the idea of excluding it quite uncomfortable). Note that there is at least one more Venezuelan language with deviating vowels in the ﬁrst two syllables: Tamanaku (kanepo ‘rain’). Furthermore, there is also Bakairi ﬁnal ´ (also found in Wayana kop´ ‘rain’, identical to its Bakairi cognate).
+(c) Bakairi ´ in *o10 and *o11 and u$ in *o9 (all in wasp), like the ´ in rain (kop´) mentioned above, are unexpected for this group. Their simi-
+Long
+
+southern cariban languages
+
+171
+
+larity to reﬂexes of the second group suggests some connection between both groups. The exact history of this word is left unresolved here. (d ) Panare ´ in *o13 and *o15 is irregular (the normal Panare reﬂex would be o, as seen in *o1). Since Panare is rich in irregular vowel developments (cf. also u in *o17), it seems best to attribute the ´’s to the history of this language and to reconstruct *o for Proto-Cariban. (e) Ikpeng i in *o18 (bird) is quite irregular; but, as was noted above (see the discussion of *n in 4.2), both vowels in talim are unexpected, as well as the ﬁnal m; this word is probably not cognate. (f ) The three u’s in the southern languages in *o20 (hair) represent another case of agreement on a single example. There is no obvious environment that could account for them in this case. Note also an irregular Kuikuro u in *o1 (mouth-2).
+As noted above, the second group (*o25–*o40) presents a very impressive agreement between Tiriyó, Kuikuro, and Bakairi (and even Makushi). In other works on the history of Cariban languages (e.g., Girard 1971 and Gildea 1998), it was always taken for granted that the middle vowel ´, in the languages that have it, was a reﬂex of Proto-Cariban *o (Girard does not even consider it independently, since his sources for languages with ´ were, in general, quite unreliable). It is, however, quite difﬁcult to propose an environment which would allow the prediction of whether a given *o would develop as in the ﬁrst group (with o’s in all languages) or as in the second group (with ´’s, I’s, and e’s in some languages). There is certainly a tendency for the cognates in the ﬁrst group to have more than one *o (e.g., rain, col, earth, worm, spider, night), while those in the second group tend to have only one *o (moon, ﬂea, imper, shoot, stone, bee/honey). However, exceptions to these patterns are discouragingly frequent: ﬁeld/grass, ﬁnd, husband, navel, and otter in the ﬁrst group have only one *o, and about/erg, horseﬂy, toad, and snake in the second group have two *o’s; there are also speciﬁc irregularities, such as Bakairi ﬁnal ´ in rain and Panare o in stone. Factors such as stress placement, about which nothing has been reconstructed so far, may conceivably have affected the development of Proto-Cariban *o; but it is also possible that the difference between the two groups should be reconstructed as such to Proto-Cariban (as, for instance, *o and *´). At present, it is simply not possible to answer this question. Meira (2002) proposed two reconstructions, *o-l (the ﬁrst group) and *o-2 (the second group), without further phonetic details (so that *o-2 might end up being *´, or “unstressed *o,” or *o + a “schwa-coloring laryngeal,” or any other future solutions). This tentative solution is also adopted here: the ﬁrst group is reconstructed as *o and the second as *ô, with the phonetic value of *ô undecided.
+
+172
+
+international journal of american linguistics
+
+The following difﬁcult cases remain in the second group:
+(a) Tiriyó ´/o in *o30 (peccary) marks dialectal variation ( ponjeke, p´njeke). In the same cognate set, Panare and Makushi i may result from the inﬂuence of a palatalized *nu [ˆ] on the preceding *ô (cf. Tiriyó ponjeke, p´njeke, Hixkaryana hoˆko: *pôinôkô > *pinôkô > Makushi pinkI, Panare pink´).
+(b) In *o32 (you), there are a’s in Yukpa, Makushi, and Panare. This correspondence is probably best reconstructed as *a (see the discussion of the initial vowel of the ﬁrst-person pronoun i in *a2 above), with the o and ´ reﬂexes resulting from assimilation to the second vowel.
+(c) Bakairi u in *o34 is further evidence that tuhu ‘stone’ is not cognate (as was proposed in the discussion of *p in 4.1); a better candidate, t´u ‘big waterfall’ (also the name of a place with big rocks), has the regular reﬂex ´.
+(d ) In *o26, Yukpa u (in star: Seku and seize: m-apuje) and Ikpeng u (in that: mun) are irregular developments, without obvious conditioning environments.
+(e) As in the ﬁrst group, Panare has a number of unexpected vowel reﬂexes (a in *o27, e in *o28, i in *o29 and *o30, o in *o34, and I in *o39), taken here as evidence that the history of this language was rather complicated. The regular Panare reﬂex is assumed to be ´, found in *o25, the basic correspondence for this group.
+(f ) Ikpeng u in *o33 (toad) is unexpected; one possible cause may be the labializing inﬂuence of the preceding p (not a very satisfying explanation, however).
+(g) In *o39 (woman), we observe a curious situation: northern cognates follow the pattern of the second group (*ô: Tiriyó ´, Makushi I), while the southern languages seem to have reﬂexes of *e (Bakairi e, Ikpeng e, Kuikuro i ). This is reminiscent of the cases of e in the southern languages that correspond to a in the northern languages (cf. *a8 and *a11 above). These examples may be related to the Cariban ablaut pattern, which often involves e and o/´ (< *ô) but sometimes also a and o/´. This would imply the possible reconstruction of two ablaut forms, possibly with different syntactic distribution. Another possibility is that semantically related terms (e.g., ‘younger sister’: Hixkaryana awetSu, Wayana w´rISi, Apalaí orISi) may have inﬂuenced the pronunciation of woman. This question is left unresolved here.18
+18 Kuikuro itãõ ‘woman’ has a complicated history. At ﬁrst glance, it does not seem to be cognate with any words in this group. However, if a proto-form *wôrIti is reconstructed (cf. Tiriyó w´ri, Hixkaryana wosI ‘woman’, worIs-komo ‘women’, with the collective marker komo), it is only necessary to begin with a collective form *wôrIti-amo ‘(all the) women’ (a collective sufﬁx *-amo is reconstructible) for most of the evolution to be based on changes already postulated
+Long
+
+southern cariban languages
+
+173
+
+(h) In *o40 (path), the irregular a’s and e’s are apparently due to assimilation. Assuming a proto-form *ôtema, one could derive the Hixkaryana cognate with two assimilations (*ôtema > *ôsama > asama) and the Makushi cognate with one (*ôtema > *esema > *esma > e?ma). Kuikuru ama and Ikpeng anma followed a path similar to Hixkaryana asama (e.g., *ôtema > *asama > *asma > Ikpeng anma, Kuikuro ama).
+The remaining correspondences (*o41–*o45) are more heterogenous. The examples in *o41 and *o42 may not be independent (tooth and bone may be historically related: cf., e.g., Tiriyó je ‘tooth’ and jetIp´ ‘bone’, in which -tIp´ may be an old form of the nominal past sufﬁx, so that ‘bone’ might originally have come from ‘ex-tooth’).19 It is hardly possible to reconstruct *o41 and *o42 as *o, since there is only one o reﬂex in Hixkaryana. The best solution seems to be to ascribe these correspondences to *e and to consider Hixkaryana and Yukpa o and Panare ´ as ablaut variants still in need of explanation. The same e/o ablaut variation can be observed in *o43 (compare the ﬁnal syllables of Tiriyó ponjeke to, e.g., Wayana p´in´k´ and Apalaí poinoko). The W’s in the southern languages indicate the lack of the ﬁnal element -njeke, -ˆko, -nkI, -nk´, which may have been an independent morpheme. Finally, for *o44 and *o45 (who and what), Meira (2000) reconstructs ´-initial forms to Proto-Taranoan and derives Tiriyó a by analogy to a:no ‘which
+for Kuikuro. The development could have been (other orders are possible): *wôrIti-amo > *wôrItamo > *ôrItamo (loss of initial *w; see 4.4) > *ôrtamo > *ôtamo (syllable reduction) > *ôtãõ (loss of *m; see 4.2). From *ôtãõ, the expected form would be *etãõ, but instead we ﬁnd itãõ (agreeing with the e’s in the other southern languages). The semantic change from collective to noncollective (= singular) is relatively frequent in the Cariban family: note, e.g., ‘boy’ in Hixkaryana (bIrjekomo) and in Waiwai (rikomo)—noncollective terms which have incorporated the collective marker komo—or the cases of collective pronouns with double collective marking (e.g., Wayana kunm´ramkom ‘all of us’, with -am and -kom, two collective markers; cf. the noncollective kunm´ ‘the two of us’). The other southern languages also have old collective markers as part of the word for ‘woman’: Ikpeng pet-kom, Bakairi pe-ko-do (-ko < *komo, -do < *tomo, both well-attested collective markers in the family).
+19 An anonymous reviewer considered the semantic connection of ‘bone’ and ‘tooth’ implausible. In fact, we ourselves do not agree about its plausibility. As a starting point, however, one might observe that, in a dead animal skull, the teeth in the jaw do look like small bones; it does not seem difﬁcult to imagine a language in which the same word could be used to describe ‘teeth’ and ‘bones’, much like some languages (e.g., Russian) have only one word for ‘arm’ and ‘hand’. From this stage, one possible path of semantic evolution leading to the differentiation between ‘tooth’ and ‘bone’ would be the lexicalization of this ‘bone-tooth’ word with the nominal past sufﬁx to mean simply ‘bone’ (i.e., *‘ex-bone/tooth’ > ‘bone’), possibly because ‘bones’ are more often referred to after having been taken from dead animals (e.g., as material for ﬂutes, necklaces, etc.) than teeth (which are often referred to as parts of living bodies, e.g., as weapons for biting: my teeth hurt, jaguars have sharp teeth, etc.); in fact, bones, unlike teeth, can usually be seen only after the animal is dead. This change would then represent the semanticization of a frequent contextual feature. However, given the lack of attested semantic evidence, this idea remains speculative.
+
+174
+
+international journal of american linguistics
+
+one?’ and the many interrogatives it forms with postpositions ( po ‘locative’ § an-po ‘where?’; p´e ‘ablative’ § an-p´e ‘from where?’; tae ‘perlative’ § an-tae ‘by where?’).
+With respect to the hypothesis of a southern group, there are several possibilities:
+(a) *o and *ô were distinct in Proto-Cariban, and *ô = [´]. In this case, *o was conserved in the three languages, while *ô was conserved as ´ in Bakairi, merged with *o in Ikpeng, and became e in Kuikuro. In this case, there are no shared innovations and thus no new arguments in favor of a southern branch.
+(b) *o and *ô were distinct in Proto-Cariban, but *ô ≠ [´]. In this case, *ô was changed in both Bakairi (*ô > ´) and Kuikuro (*ô > e). These are still, in principle, two different changes, not a shared innovation. One could imagine, however, that the Kuikuro change went through a schwa phase (*ô > *´ > e) and that the ﬁrst part of this change was shared with Bakairi. Since, however, there is so far no evidence that Kuikuro ever had a schwa, this idea is speculative at best.
+(c) *o and *ô were not distinct in Proto-Cariban. In this case, there was only *o, which was conserved as such in Ikpeng, and changed in Kuikuro (*o > e) and Bakairi (*o > ´) in precisely the same (still undetermined) environments. The agreement between Kuikuro and Bakairi becomes more signiﬁcant: since the environments would have to be the same, it becomes plausible to assume that part of the Kuikuro change (say, the ﬁrst phase in a putative *o > *´ > e) was shared with Bakairi. However, the occurrence of ´ in other languages (e.g., Tiriyó, Wayana) in precisely the same environments means that parallel developments must be assumed for at least some languages. Thus, parallel innovation is a deﬁnite possibility for Kuikuro and Bakairi.
+5. Conclusion. In the previous section, a number of Proto-Cariban segments were (tentatively) reconstructed: eight consonants (*p, *t, *k, *m, *n, *r, *w, *j) and seven vowels (*a, *e, *i, *I, *ô, *u, *o). This system differs in several important ways from the one proposed by Girard (1971). Since, however, the main topic of this paper is not Proto-Cariban phonology per se, but the existence of a southern branch, we leave further consideration of the Proto-Cariban system for future work and concentrate on the possibility of ﬁnding innovations shared by the southern languages (see table 17).
+Of these three languages, Ikpeng was the most conservative: it only weakened stops intervocalically and velarized a few n’s. Bakairi innovated a whole series of voiced consonants via intervocalic voicing followed by the reduction of consonant clusters involving voiceless consonants to simple
+
+southern cariban languages
+
+175
+
+voiceless consonants. Even minimal pairs arose: for instance, n-udu ‘he gave’ and n-utu ‘he knew, learned’ (utu < *(u)ptu < *(u)putu).20 The intervocalic environment further affected nasals, making them disappear (leaving nasalized vowels) except in certain kinds of clusters. Kuikuro underwent even more radical changes: except in consonant clusters, p’s became h’s, m’s, w’s, and j’s disappeared, n’s and r’s became N’s and g’s (velarization), e’s became i’s, *ô’s (maybe via *´’s) became e’s, and some I’s became i’s. In some cases, cognates have become almost unrecognizable without careful analysis (cf. the case of Kuikuro itãõ ‘woman’ in n. 18).
+Despite the high number of changes (all listed in table 17), there are no candidates for the status of innovations shared by all three southern languages. There is, therefore, no argument favorable to the inclusion of these three languages in a single subgroup, other than agreement on certain apparently idiosyncratic lexical developments (e.g., the e in woman, tooth, bone, say).
+There are, however, candidates for innovations shared by pairs of languages (Bakairi-Ikpeng, Bakairi-Kuikuro, Ikpeng-Kuikuro).
+Bakairi-Ikpeng:
+(a) the changes involving *p, *k, and *t in intervocalic position (assuming *t > *d > r in Ikpeng, with the ﬁrst part shared with Bakairi)
+(b) *r > l in certain (undetermined) environments (i.e., the cases of Bakairi l : Ikpeng l : northern languages r)
+(c) *w > p / # — (in Ikpeng, not always) (d) *t > tS / — e, i (and then tS > S, J, s, z in Bakairi) (e) the possible change *nu-ru > *n-ru > Ikpeng N-ru, Bakairi nu
+20 In Ikpeng, at least in the cognates considered in this paper, most of the consonant clusters have not reduced; thus, no minimal pair like Bakairi n-udu vs. n-utu has arisen. Cases of intervocalic p, t, and k do exist in the available Ikpeng material, but without cross-Cariban cognates; their origin remains unknown. Interestingly, Ikpeng g now apparently contrasts with k, but the available examples are not intervocalic but word-initial: k- and g- are ﬁrst-person markers on different classes of intransitive verbs (SO and SA, respectively), without phonological conditioning. One possible explanation for this contrast is suggested by nominal possessive paradigms: a ﬁrst-person possessor is marked by I- on consonant-initial stems and by g- on vowel-initial stems (e.g., I-put ‘my skin’ but g-amo-n ‘my ﬁngernails’). In Bakairi, I- occurs on consonant-initial stems but also on some vowel-initial stems (e.g., I-wepi-rI ‘my canoe’, I-ataba-rI ‘my armpit’); the latter cases often sound as if there were some sort of glottal fricative transition ([I(g)atabarI]). If pre-Ikpeng is assumed to have been similar to Bakairi in this respect, then it does not seem implausible to derive a synchronic g from such a transitional velar: *I-eret > *I-(g)-eret > *(I)-g-eret > g-eret (note also cases in which a similar “intrusive g” occurs in Tupi-Guarani; e.g., PTG *Iar ‘canoe’, Tocantins Suruí Igar-a, Parakanã Igãr-a, Tupinambá igara, Paraguayan Guarani iga; see Rose 2001/2002:157 for a “transitional g ” between a vocalic preﬁx like e- ‘1’ and a following I in Émérillon: e-(g)-I ‘my mother’).
+
+176
+
+international journal of american linguistics
+
+TABLE 17 Diachronic Changes Proposed for the Southern Languages
+
+Bakairi
+*p > p / #—, C— > w / V—V, > W / —u, h—(u, o)
+
+Ikpeng *p > p / #—, C—
+> w / V—V
+
+Kuikuro *p > p / C—
+>h
+
+*k > k / #—, C— > g / V—V
+
+*k > k / #—, C— > g / V—V
+
+*k > g / N— >k
+
+*t > s, z / —e > S, J / —i > d / V—V [≠ e, i ] > t / #—V [≠ e, i ] / C—V [≠ e, i ]
+
+*t > tS / —e, i > r / V—V [≠ e, i ] > t / #—V [≠ e, i ] / C—V [≠ e, i ] / —#
+
+*t > ts / i— > d / N—
+>t
+
+*m > W / V—V >m
+
+*m > m
+
+*m > ˆ / i— > m / C—, >W
+
+*n > r~ / #(C)V—V# > W~ / V—V > / —( p, k) > n / m—, —(r, n)
+
+*n > N / —r >n
+
+*n > n / —C, C—
+>N
+
+*r > r, l
+*w > p / #—, > u / —#, > W / V—V
+
+*r > r, l
+*w > m / —# > p / #—(sometimes) >w
+
+*r > g, l *w > W
+
+*j > W *a > a *e > e *i > i *o > o *ô > ´
+*u > u *I > I
+
+*j > j *a > a *e > e *i > i *o > o *ô > o
+*u > u *I > I
+
+*j > W *a > a *e > i *i > i *o > o *ô > e *u > u *I > i, I
+
+Long
+
+southern cariban languages
+
+177
+
+Bakairi-Kuikuro:
+(f ) *ô > ´ in Bakairi and *ô > e in Kuikuro (assuming *ô > *´ > e in Kuikuro, with the ﬁrst part shared with Bakairi)
+(g) *j > W
+Ikpeng-Kuikuro:
+(h) *n > N in certain (undetermined) environments
+Clearly, the more numerous agreements between Bakairi and Ikpeng are more convincing than the others. In 4, where (f )–(h) were discussed, we pointed out that there were alternative explanations; the same does not seem to be possible at least for (a) and possibly also (b). These changes are, admittedly, not infrequent in the languages of the world and are in some cases (e.g., (d )) possible candidates for parallel innovations. Considering, however, that such changes are rare (in fact, not elsewhere attested) in the Cariban family, the hypothesis of a Bakairi-Ikpeng branch does seem plausible—certainly more plausible than a Bakairi-Kuikuro branch. A southern (Bakairi-Ikpeng-Kuikuro) group, on the other hand, receives no substantive support. We therefore propose the existence of two independent southern sub-branches in the Cariban family, one including only Kuikuro (and its co-dialects Matipu, Nahukwa, and Kalapalo), and the other tentatively including Bakairi and Ikpeng (and Arara, the co-dialect/language of Ikpeng). For the latter sub-branch, here suggested as a working hypothesis, we propose the name Pekodian, from the words for ‘woman’, Bakairi pekodo and Ikpeng petkom. We attribute the afﬁnities between the two branches, and especially between Bakairi and Kuikuro, to borrowings (note that until the 1920s, a large number of Bakairi speakers lived in the Xingu area, where the Nahukwa, speakers of a co-dialect of Kuikuro, were their closest neighbors). We choose our analyses accordingly; for instance, we reject the idea that Kuikuro e < *ô and Bakairi ´ < *ô could be shared innovations.
+It goes without saying that further morphological and syntactic comparisons are necessary to uncover other possibly shared features. For instance, the three southern languages possess a verbal tense-aspect-mood sufﬁx with the form -lI or -gI, not found in the northern languages. It is not clear whether this is a shared innovation or simply a borrowed (perhaps areal) feature.
+Last but not least, we mention that the classiﬁcation of southern languages has consequences for currently debated ideas about the origin and migrations of Cariban groups. Durbin (1977) defends the hypothesis of a northAmazonian origin, with the southern languages resulting from more recent expansions, while Aryon Rodrigues (personal communication), following a hypothesis ﬁrst proposed by von den Steinen (1886:308; 1894:395), defends
+
+178
+
+international journal of american linguistics
+
+the idea of a south-Amazonian homeland, based, among other facts, on an apparently higher degree of linguistic diversity in the southern languages when compared to the relative homogeneity of their northern relatives, which would indicate a longer time of occupation by Cariban speakers in the south. This argument would be more convincing if the number of independent branches in the south were large: consider the case of the Tupian family, which has six of its ten sub-branches in the state of Rondônia (ﬁve of which are exclusively found in that state). If, however, the hypothesis presented here is correct, there are only two independent sub-branches of the Cariban family in the south: Pekodian (Bakairi-Ikpeng) and Kuikuro. The degree of diversity that this situation reﬂects would then not appear to be higher than, for instance, in Venezuela, where there also seems to be more than one separate sub-branch (at least Yukpa, and possibly also Panare and De’kwana, may belong to independent sub-branches). Our results tend, therefore, to weaken the south-Amazonian origin hypothesis.
+
+APPENDIX A
+This appendix contains all cognates on which the conclusions of this paper are based. The spelling of each source was retranscribed with IPA symbols to facilitate comparisons. The original symbols which do not match their IPA equivalents were:
+Yukpa: ü = /I/, sh = /S/, ch = /tS/, y = /j/ Tiriyó: ï = /I/, ë = /´/, j and y = /j/ Hixkaryana: tx = /tS/, x = /S/, y = /j/, ry = /rj/, ny = /ˆ/ Makushi: î = /I/, ’ = /?/, y = /j/ Panare: ï = /I/, ë = /´/, ’ = /?/, j = /h/, y = /j/, ch = /tS/, ñ = /ˆ/ Bakairi: y = /I/, â = /´/, V + n = /v$/, x = /S/, nh = /ˆ/, j = /J/, gu + e, i, y = /g/ Ikpeng: y = /j/ Kuikuro: ü = /I/, g = /g/, ng = /N /, nkg = /N g/, nh = /ˆ /, j = /d j/
+The sources for the cognates presented here are: Derbyshire (1965; 1979; 1985; and personal communication) (Hixkaryana), Abbott (1991), Amodio and Pira (1996) (Makushi), Muller (1994; and personal communication) (Panare), Pachêco (1997; 2001; and personal communication), Campetela (1997) (Ikpeng), ﬁeld data (Meira: Bakairi, Yukpa, Tiriyó; Franchetto: Kuikuro).
+Swadesh list. Table 18 presents the terms with the meanings speciﬁed in the 100word Swadesh list. Note that there are two terms for ‘we’, one inclusive (1 + 2) and one exclusive (1 + 3); only the exclusive (1 + 3) term was considered.
+Terms assigned to be cognates are in boldface italics in table 18 and have the same underlining style. When a given meaning corresponds to more than one cognate set,
+
+southern cariban languages
+
+179
+
+each is underlined differently. For instance, meaning no. 003 ‘we (exclusive)’ has a cognate set formed by the ﬁrst ﬁve terms (nana, anja, amna, anna, ana), another set including the next two terms (Sina, tSimna), and a ﬁnal term without cognates (tisuge). Parentheses indicate optional parts of words (or parts that were not present in all sources); diagonal bars indicate variation (e.g., pa/e shows that both pa and pe occurred in the available sources). When a given meaning is expressed by more than one morpheme in a given language, the most frequent or unmarked one is chosen. For instance, meaning no. 008 ‘not’ (= negation markers) has several exponents in Tiriyó: the verbal negative sufﬁx -sewa, a rarer adverbial negative sufﬁx -:ra, and a nonverbal negative particle ta(ike). In this case, the ﬁrst sufﬁx (-sewa) was chosen as the least marked negation marker, despite the fact that the rarer second sufﬁx (-:ra) is clearly cognate with most of the other negation markers in this row (-:ra is listed as a cognate in table 19, in the neg cognate set). Another example is meaning no. 021 ‘dog/jaguar’: most Cariban languages have only one word for both ‘dog’ and ‘jaguar’. Since the oldest meaning is, of course, ‘jaguar’ (dogs were introduced by Europeans), it is taken here as basic; as a consequence, from languages that distinguish ‘dog’ and ‘jaguar’, ‘jaguar’ will be taken (e.g., from Hixkaryana, with kamara ‘jaguar’ and kajkusu ‘dog’, kamara was selected; the fact that kajkusu is a better cognate does not affect this choice, since the statistics are based on meanings, not on cognacy). Similarly, in 037 ‘hair’, Tiriyó has putup´ ‘head; head hair’ and hpotI ‘(body) hair, (body) feathers’: we assumed that 037 ‘hair’ is meant as ‘hair in general’, not simply head hair, and chose hpotI (also because the focal center of the meaning of putup´ seems to be closer to ‘head’).
+Cognate sets. All sets used in this work are listed in table 19 (including those already listed in the Swadesh list in table 18, as long as they contain at least one cognate from a southern language). In each set in table 19, presumed cognates are in boldface italics (note that some of them have been dismissed as true cognates in other sections of this paper); words in regular italic type are not assumed to be cognates, despite having the same meaning as others in the same row. Cognates which deviate in meaning from other words in the same row have their meaning indicated in footnotes. An empty cell indicates that the word in question occurs in some other row (i.e., it is not cognate with its synonyms in the other languages, but it is cognate with some other group of words in table 19). For instance, in the ‘sun-2’ row, the Yukpa, Tiriyó, and Makushi cells are empty because the corresponding terms for ‘sun’ occur in the ‘sun-l’ row (the Hixkaryana and Panare terms for ‘sun’ are indicated in regular italic type because they are noncognate; they were not indicated in ‘sun-1’ because there were other terms—weju ‘tar’ and we ‘light’, respectively—which are cognate with the other words in ‘sun-1’). A dash (—) in a cell indicates that no word with the corresponding meaning was found in the available sources for the language in question. Square brackets indicate phonetic transcriptions. Cases of complementary distribution (phonologically or morphologically conditioned) are marked with a tilde (~); pronunciation variants (both inter- and intradialectal) are separated by commas or indicated by parentheses (e.g., Panare (e/i)ˆepI-?ka in the ‘bring’ row in table 19 represents two variants, eˆepI-?ka and iˆepI-?ka).
+
+Meaning
+
+Yukpa
+
+001 I
+
+awI
+
+002 you
+
+amo
+
+003 we (excl) nana
+
+004 this (inan) ma( S )
+
+005 that (inan) ake
+
+006 what
+
+nop
+
+007 who
+
+no
+
+008 not
+
+pra
+
+009 all
+
+tuwara
+
+010 many
+
+ape
+
+011 one
+
+kuma-rko
+
+012 two
+
+kosa
+
+013 big
+
+Sape
+
+014 long
+
+mesene
+
+015 small
+
+kamtSe
+
+016 woman
+
+worepa
+
+017 man
+
+kIpa
+
+018 son
+
+wISInI
+
+019 ﬁsh
+
+poSe
+
+020 bird
+
+peSa
+
+021 dog/jaguar eSo
+
+022 louse
+
+waja
+
+023 tree/wood we
+
+024 seed
+
+opIrI
+
+025 leaf
+
+wehtSare
+
+026 root/vein eSe
+
+Tiriyó
+wI ´m´ anja ser´ m´r´ atI akI -sewa amera:r´ ijeta
+t´inken ´:k´n´ mono me ma(:) pijan w´ri kIrI ji-mmuku kana tonoro kaikui jamI wewe putup´ itu arI i-mi(tI)
+
+TABLE 18 Swadesh 100-WTAoBrdLELi1s8t—focronCtianruiebdan Languages
+
+Hixkaryana
+uro omoro amna onI moro etenI onokI -hIra omeroro theˆehra toweˆSa asako hor j me kawo atSke(tS ko) wosI ~ worIs kIrI ro-mu-ru kana torono kamara ajamo wewe natho/natI arI I-mSa-rI
+
+Makushi
+u:rI amIrI anna se(:)ni
+mIrIrI I? anI(?) pra tamI?nawIrI tu?ka tiwin (a)sa:kIne kure?nan kusan si(?)mIri(k)kI wIri? warajo? u-nmu ~ mumu moro? toron kaikusi ajan jei it-ena?pI jare u-kara
+
+Panare
+ju am´n ana sI(h) ´m´ n´? n´? -?ka ataw´n kura, kure titjasa1 asa?, asak toseˆ tank´tSike pItSa wInkI? apo? nuwan kana tunko ak´r´ ajam´ ije, aje jahp´ tjan, -jan mi?
+
+Bakairi
+ur´ ´m´ Sina Sir´ m´r´ ´dI ´›gI -pa/-ba, -pIra id´n´r´ toe$zepa tokal´ azag´ im´sedo im´sedo ime$ı$bIrI pekodo uguõdo ´-mu-ru kãrã
+konopio
+udodo
+emI s-e
+ewI s-arI i-wı›dI
+
+Ikpeng uro omro tSimna nen mun arI onok -pra, -wa ompan itIN nane arak oke( p) Ikap2 tIriN, Ika, tSika petkom ugwon i-mu-n wot talim akari ajam jaj alI ampo(n) e-mirI
+
+Kuikuro
+uge e:ge tisuge ige ege tI tI -la
+tatute
+kakINi aetsi takeko
+tsekeg I tamitsi-ˆI ı›(n)dzoˆo itãõ (i)toto3 u-mu(ku)-gu kaNa tolo ekeg e ãı—› i agI tagI ı›:-(n)dzI
+
+international journal of american linguistics
+
+180
+
+TABLE 18—continued
+
+027 bark 028 skin 029 ﬂesh/meat 030 blood 031 bone 032 egg 033 grease/fat 034 horn 035 tail 036 feather 037 hair 038 head 039 ear 040 eye 041 nose 042 mouth 043 tooth 044 tongue 045 claw 046 foot 047 knee 048 hand 049 belly 050 neck 051 breast 052 heart/guts 053 liver
+
+eS eS aw ju-pu-ru aw ju-muru-rI aw jowI-rI nIpI aw kaka-rI jItowata awIkI ju-pu(-ru) anI-ptI aw wasa-rI aw pana aw j-enu aw j-ena aw pota-rI aw jI-rI aw konatre am etakSu-ru aw peSe j-emekre aw j-ema aw pose aw pImI-rI aw SeSe aw ju-watru-ru jI-t-ore
+
+i-pihp´ i-pihp´ i-pun munu i-jetIp´ i-:mo i-katI i-retI arokI ap´ri i-hpotI ji-putup´ i-pana
+enu o:na mIta ~ i-nta i-je i-nore i-:roi i-hpu i-were:na enja i-waku
+i-hpImI i-manatI ewan´ ere
+
+u-hutShu-ru k-hutShu-ru k-hunu kamsuku
+jotS ho/I I-hme I-katI waSuru matkI ahotSe kI-hpo-tSe ku-jhuthu-ru k-hana-rI enu-ru k-owna-rI kI-mta-rI k-jo-rI tu-ˆu-ru hroSo kI-hro-rI esokna
+amo
+kI-jwe kI-hmI-rI manatI ewa-nI er je
+
+pi?pI pi?pI u-pun
+mIn ~ u-mInI u-je?pI pImoi i-kaiwan(o) ret(t)I it-aukI j-apIrI u-pu?pai si?po u-pu?pai u-pana uj-enu uj-euna u-nta u-je u-nu
+pu?pI u-?pu u-jese?mo/u uj-enja
+ro?ta pImI, u-?mI i-mana(?)tI uj-ewan uj-ere, ut-ere
+
+pihp´, pih´ pihp´, pih´ -pu
+metSu? j´hp´ ju?mo´ ka?, kat panasIkIn t-jatIk´n i:po? u? i:po? u?, jI-pu-n ju pana-n ju j-o-n j-´wa-n ´-nta-n j-´ j-iˆo-n i-hta-njon pata, -htan
+tSe?mu eˆa patSe? jI-pImI-n ma? j-awa-e j-inkeˆ
+
+sa-tubI i-tubI u› ru› unu
+ibIrI j-õru› i-gadI i-w´$e$kI w-õwI I-ãga-hudu I-ãga-hudu I-ãgahu i-wãta-rI enu j-ena-rI i-ta-rI ´-e-rI I-lu w-õda-rI u-hu-ru
+eze$u$ ru ema-rI i-d´hu i-wImI i-wãrI I-ãgahu ere-rI
+
+pitu i-put, pitu i-mnu i-mIN-ru i-itpIn-kom i-mu igat iwomtan arog-rI wugut, arog-rI eretput i-mum-tSi i-wana-n eN-ru g-eNna-n I-wora-n to-e-n o-lu i-pro-n i-pu-n i-pjagumi i-mja-rI g-eremin
+erem-tSi maNa(t) i-wIn momtSi g-ere-n
+
+hid jo u-hid jo
+huNu uNu u-ipIgI i-hu› ı› katI gikIgI, i-sikIgI i-goko-gu tolo i-goko-gu-pe ipu-gu u-gitI-gI u-haNa-gI u-iNu-gu u-inata-gI u$ -(n)da-gI u-i-gI u-Nu-gu uˆ-o› (m)bi-gI tapI-gI u-igipaNa-gI u-iˆatI-gI, ãtI u-tehu-gu u-tiNa-gI u-aNatI-gI u-Nu-noho u-tilu
+
+181
+
+southern cariban languages
+
+054 drink (v) 055 eat 056 bite 057 see 058 hear 059 know 060 sleep 061 die 062 kill6 063 swim 064 ﬂy 065 walk 066 come 067 lie 068 sit 069 stand 070 give 071 say 072 sun 073 moon 074 star 075 water 076 rain 077 stone 078 sand 079 earth 080 cloud
+
+aw enape aw enape5 am m-eseka am m-esare am m-eta wano am m-InIke eka etSoka — — pIta mI-ta etka ItIta anke utu mI-ka wetSo kunu Seku kuna kejopo top sasare nono kamuru
+
+TABLE 18—continued
+
+w-enIrI n-´ewetI w-e:ka w-ene w-eta i-wa:r´ n-´:nIkI wa w-ei wa wI-rI — — j-urakana w-´epI tupae tahpame pIreme w-ekarama wI-ka wei nunn´ sirik´ tuna konopo t´pu samu nono ikapurutu
+
+en-hIra emtakma n-eska-je n-eˆe-je n-eˆtSa-je u-hutwa-hra nI-nIk-no wajeh-no n-etaha-no — — atar jeknohI n-omok-no tIraho er jewta osowaSehto ImI I-ka-no kamImI nuno Ser jko tuna tuna
+tohu sakarara jukr jeka kahrutunu
+
+enIrI entamo?ka j-e?ka era?ma eta-to? epu(?)tI wetun sa(?)manta (i)wI(?) u-pInInu a-wainamu asarI I:pI esenumI, ait. ere(u)ta satti pe
+i-tIrI ta: wei kapoi sirikI tuna
+kono? tI(?) sakapan non katurupu(?)
+
+aˆ-eni-?ka atSere:ma aˆ-ehka-?ka (e/i)ˆe-?ka etja-?ka intSa oketi/ok´ti o?kepI ama
+tInahkua t´ tap´ke t´ patampo t´ ´pI-?ka — ana po7
+pi(?)ka an-tu-?ka ka-?ka etSerkun w´:n´ tjak´n tIna k(a/o)no? to? mitSin ano ka? tamu?ˆem´n
+
+m-enI k-´$ ı›-lI I-´-tai m-e-tai S-ida-tai t-utu-ze IkI-lI n-ige-aki
+S-I´ i-w´-ru — u-d´-lI k-´e-tai egekI ekadIbI SIdIk war´ S-udu-aki au-ge-lI SiSi nun´ Simuk´ paru
+kop´ tuhu sagunu õrõ eunu
+
+m-eNgrI-t 4 otSimtagrike etpore-lI eneN-lI iraN-lI t-orempan
+InkI-lI i-rompo-lI t-wo-lI kokoko
+awmtatke-lI k-aran-tSi m-arep
+tSu, otkitime tSiN I-ge-lI eNkwam t-eru-lI ke-lI tSitSi nuno
+tIriN ga
+koNpo IwI reNmun oroN jumtSigru
+
+ili-tsagI ut-iˆã(m)ba-tagI u-itsi-tagI u-iNi-tagI ta-tagI uhu-tagI u-ı—›(N)gI-lI apINu e-lI —
+alun-dagI hIlun-dagI e:-tsagI iNa, ti:taho akã(n)-dagI ut-ikain-tsagI tu-nIgI u-ki-tagI giti
+Nune ka›(n)diˆoko tuNa koNoho tehu
+ˆetune NoNo kamu› (n)du
+
+international journal of american linguistics
+
+182
+
+081 smoke
+
+werasku
+
+082 ﬁre
+
+wehta
+
+083 ash
+
+we:rusa
+
+084 burn (intr) ureka
+
+085 path
+
+osema
+
+086 mountain owamptarI
+
+087 red
+
+kuSumtSe
+
+088 green
+
+Sepe
+
+089 yellow
+
+arawupa
+
+090 white
+
+sIw
+
+091 black
+
+korowtSe
+
+092 night
+
+koko
+
+093 hot
+
+temeSne
+
+094 cold
+
+koje-pe
+
+095 full
+
+—
+
+096 good
+
+patume
+
+097 new
+
+kuSpa
+
+098 round
+
+tuwiriri
+
+099 dry
+
+sansan
+
+TABLE 18—continued
+
+´rent´ mahto erein ni-jatu ´ema pI: ta:mi:re kurikuriwetI kananame tIkoro:je sikinme koko atuma tInome t´nna:se kure kainan mokame tunne
+
+esInI weheto
+IsInI at-ak-ˆohI asama
+IhI tutSurje tIswaje tIS kIwItIkˆe bukˆe thurme kohsaja
+takˆe tItSenotˆe twahur je ohSe Seˆeno tamnoˆe sororohe
+
+wIre?sin apo? runu/I(?)pI e?potI, aramI e?ma wI? su(:)ju
+rora
+a?mutun aimutun (a)ri(k)ku/Itun ewaron a?ne? komi(?) intapIkIrI morI pe amenan amoko(?wa)rI (aw) a?pi?ta(?pI)
+
+wahta itSi wahto/a
+tu?k´:n´ atI-?ka tS(I/a)ma i? tu?kinke tuku?jake ta?pinke, . . . tamu?ˆe tupuru?ke sIpa:w´ tap´ht´ tI?nat´ke tu?ka, tu?ke kara
+pi? tImuru?kuke tu:t´
+
+eunu
+peto
+pelup´ j-adu-lI ´$wa$ iwI tapabileı› › tukueı› › tapadureı› › tapekeı› › t´mIgIneı› › kopae
+t´d´pige ig´wInu tumIke ko$e$d´ iwelo
+tId´p´neı› › iladIbı—e› ›
+
+Imtigru atSi tompilem g-aru-lI anma elan ratpano tereN, irwalI anagriwan taprigem kIrItpo kok IrIp komtSim-pe t-otupi-t karake enu putereN (m) j-umne-lI
+
+100 name
+
+aw j-ese
+
+eka
+
+esotI
+
+j-ese?
+
+itSe?
+
+ezedI
+
+eret
+
+1 But cf. Panare tiwin ‘once’. 2 Also ‘high’; cf. table 19. 3 Cognate with words for ‘person’; cf. table 19. 4 Attested with the meaning ‘eat liquid’ (e.g., porridge) or ‘smoke’ (e.g., tobacco). 5 Meaning: ‘consume’ (i.e., not only liquids but also solid food). 6 The cognates in boldface italics actually mean ‘shoot’, ‘kill by shooting’ and are listed in table 19 under ‘shoot’. 7 Meaning: ‘on the ground’. Panare does not have a simple verb ‘to sit’, but expressions like asamaeka ana pana ‘to put oneself onto the ground’.
+
+gititse ito ilu› (m)be
+atu-lI ama
+tehu õ(n)-dIhIgI tI-kahisi-ˆI tagI huNu kuad ja huNu t-alaki-ˆI tu-huseu$ki-ˆI koko
+atuNu keInti tugupotsi atItI iˆiNo tI-gIaki-ˆI t-ahutsekı›(m)bINI ititI
+
+183
+
+southern cariban languages
+
+TABLE 19 List of AllTCAoBgLnaEt1e9S—etcsoUntsiendueidn This Paper
+
+001 3 002 3r 003 about/erg 004 agouti 005 armpit 006 arrow-1 007 arrow-2 008 ash 009 ax 010 bat 011 bathe(tr) 012 bee/honey 013 bird 014 bite 015 blood 016 bone 017 breast 018 bring 019 burn (intr) 020 cassava 021 caus 022 circ.nzr 023 claw 024 cloud 025 col 026 come 027 comit 028 corn
+
+Yukpa
+jItpo ~ poko kasare aw juwahta-rI mekwe mekwe-rI we:rusa waSa peSekattSa m-ajepe(intr) wano peSa am m-eseka aw ju-muru-rI aw jowI-rI aw SeSe m-enepe ureka po — -tpo am etakSu-ru kamuru -ko mI-ta pkano
+me
+
+Tiriyó
+itp´ ~ p´k´ akuri i-jahta pIr´u i-:re erein wIwI nere
+w-IpI wan´ ~ i-weni tonoro w-e:ka i-munu i-jetIp´ i-manatI w-enepI ni-jatu uru -po -to(h) ~ -topo
+i-:roi ikapurutu -kon ~ -komo w-´epI ak´:r´
+a:nai
+
+Hixkaryana
+It-
+hoko (h)akur je k-jahta-rI wajwI ij-ehre
+IsInI jawaka r jer je t-Ih-ta weno torono n-eska-je kamsuku jotS ho/I I-manatI-rI4 n-ek-je at-ak-ˆohI uj-uru -ho -toho ~ -tho
+hroSo kahrutunu komo n-omok-no akoro
+nasInasI
+
+Makushi
+it-
+pI? akuri
+jewa(?)ta pIrIu —
+runu/I(?)pI wa?ka marapa
+e?-pI(intr) wan
+toron
+j-e?ka mIn ~ u-mInI u-je?pI i-mana(?)tI ine:pI, enepI e?potI, aramI ikei, kIse —
+-to?, -nto pu?pI katurupu(?) -kon
+i:pI j-arakkIrI
+a?nai
+
+Panare
+tt-1
+p´? akuˆ ju j-ahta-n
+ka?kapoˆm´n —
+tu?k´:n´ tSihtj´ ninke, nink´ an-IpI-?ka wan´ tunko
+aˆ-ehka-?ka metSu? j´hp´ ma? (e/i)ˆepI-?ka atI-?ka j-un -po, -pa
+-to? i-hta-njon ka? tamu?ˆem´n -kon
+´pI-?ka j-a?
+ke?ˆa(?/i)
+
+Bakairi
+i-
+t-
+w´g´ aki
+I-ataba-rI pIr´u i-pI pelup´ pI, I-wI-rI semimu
+m-I-tai pe$r´$ konopio
+I-´-tai unu
+ibIrI i-wãrI ene-k´ j-adu-lI ´-uru -ho, -o
+-ho, -to
+w-õda-rI eunu
+-mo
+k-´e-tai ag´
+ãJi
+
+Ikpeng
+it-
+wok aki apta-kgwam
+pIrom i-prI tompilem wIm2 rere
+m-Ip-lI paNmomtSi3 talim
+etpore-lI i-mIN-ru i-itpIn-kom i-maNarI anep-ko g-aru-lI tarIwe -po -(t)pot ~ -poto i-pro-n jumtSigru -kom ~ -Nmo m-arep pak ~ wak
+anat
+
+Kuikuro
+i-
+t-
+heke akugi u-id jata-gI hIge i-hIg i ilu› (m)be I atsid ji, ad jua
+hI-lI iˆe tolo
+u-itsi-tag I uNu u-ipIg I u-aNatI-g I iNi-nIg I atu-lI ugu —
+-toho
+uˆ-õ(m)bi-g I kamu› (n)du -ko e:-tsag I ake
+ana
+
+international journal of american linguistics
+
+184
+
+029 daughter 030 dog/jaguar 031 drink (n) 032 drink (v) 033 dry 034 ear 035 earth 036 egg 037 excrement 038 eye 039 father 040 ﬁeld/grass 041 ﬁnd 042 ﬁre 043 ﬁsh 044 ﬂea 045 ﬂesh/meat 046 foot-1 047 foot-2 048 forest 049 fruit 050 give 051 go 052 good 053 grandfather 054 grandson 055 grease/fat
+056 hair
+057 hand
+
+aw j-eSe eSo tuhka aw enape6 sansan aw pana nono8 nIpI aw we aw j-enu aw jImo pawa m-upuje wehta poSe keSepo aw ju-pu-ru aw peSe
+tuwetSa j-opIrI13 utu aw to patume papItI —
+aw kaka-rI anI-ptI 14 aw j-ema
+
+e:mi
+kaikui
+i-jokI w-enIrI tunne i-pana nono i-:mo wat´ ~ wetI enu
+jun-me oi
+w-eporI mahto kana
+sik´ i-pun i-hpu
+
+emsI-rI kamara
+woku en-hIra sororohe
+k-hana-rI jukr jeka
+I-hme wetI-tho enu-ru
+k-jImI tSuFu10 ehorI weheto
+kana
+sIko k-hunu
+kI-hro-rI
+
+itu eperu w-ekarama wI-t´n kure tamo ~ i-tamu i-pa
+i-katI ji-hpo(tI) enja
+
+tSetSa eherI ImI n-to-je
+ohSe ro-tam-ru ro-ha-rI
+i-katI
+kI-hpo-tSe amo
+
+TABLE 19—continued
+
+uj-ensi kaikusi wo? ~ u-wuku enIrI (aw)a?pi?ta(?pI) u-pana non pImoi we-ka9 uj-enu u-jun etei
+eporI apo? moro? sikI u-pun u-?pu
+ju? eperu i-tIrI u:-tI morI pe u-tamo u-pa(?)
+i-kaiwan(o)
+si?po uj-enja
+
+j-InsI-n ak´r´ o? ~ j-uku-n aˆ-eni-?ka tu:t´ ju pana-n ano ju-?mo´ wat´ ~ we? ju j-o-n jIm wana? an-apo-?ka wahto/akana
+tSik´ pu-to
+pata, ´-hta-n ihpa
+ipeˆ an-tu-?ka wIt´n ju kara a-tamu-n
+junkeˆ nkeˆ
+ka?, kat
+i:po? eˆa
+
+j-eSi-rI udodo pogu, woku m-enI iladIbı—›e$ i-wãta-rI õrõ j-õru› I-edI enu j-u› wı—› poJi S-io-tai peto kãrã Sig´ u› ru› u-hu-ru
+idu
+ewilI S-udu-aki u-d´-lI ko$e$d´ tako ´-we-rI
+i-gadI enu-hudu15 ema-rI
+
+g-emtSi-n akari wok5 m-eNgrI-t7 j-umne-lI i-wana-n oroN i-mu wat ~ wet eN-ru i-mI wotSi-put i-woN-lI atSi kaNa11 tSigoN i-mnu i-pu-n
+iru
+ewilI t-eru-lI ero-lI karake uk-tam-ru I-we-n
+igat
+eretput i-mja-rI
+
+u-ı›(n)di-sI ekege oku-gu ili-tsagI t-ahutsekı›-(m)bINI u-haNa-gI NoNo i-hu› ı› ite u-iNu-gu u›ı—› oti hogi-tsagI ito kaNa sike12 huNu
+tapI-gI itsuni ihi-sI tu-NIgI u-te-tagI atItI ku-tãõpI-ãõ e-hi-gI
+katI
+ipugu u-iˆatI-gI
+
+185
+
+southern cariban languages
+
+058 hear
+059 high 060 horseﬂy 061 house 062 husband 063 I 064 imper 065 instr 066 jacu bird 067 knee 068 know 069 leaf 070 leave (tr) 071 liana 072 liq.in 073 liver 074 louse 075 man 076 moon 077 mother 078 mountain 079 mouth-1 080 mouth-2 081 name 082 navel 083 neck 084 neg (= not)
+085 night 086 nose
+
+am m-eta
+kaje16 kIjaku mInI aw ItSarI awI -k ~ -ko kan(o) — j-emekre wano wehtSare am m-ejo menupa — jIt-ore waja kIpa kuno aw jI-Sa owamptarI
+aw pota-rI aw j-ese aw pusku-ru aw pImI-rI pra koko aw j-ena
+
+w-eta
+kaw´ tur´k´ pakoro i-njo wI -W ~ -h ~ k´ ke marasi i-were:na ni-pu:n´pI22 itu arI wi-n´n siminat´ hkao ere jamI kIrI nunn´ ipa-i-je26 pI(:) mIta ~ i-nta
+e:tI31 i-ponI i-hpImI
+-sewa; -:ra koko o:na
+
+TABLE 19—continued
+
+n-eˆtSa-je
+kawo17
+tIroko owto ~ ewto20
+ro-ˆo uro
+-h ~ -k ~ -ko ke
+maratI esokna
+u-hutwa-hra
+arI mI-nom-no mamrI23 kwawo er je
+ajamo
+kIrI nuno I-jo-nI IhI kI-mta-rI hota29
+esotI k-honu-ru
+kI-hmI-rI
+-hIra kohsaja
+k-owna-rI
+
+eta-to?
+kawI-ne18 turI? wIttI ~ uj-ewI? i-njo ~ nijo-no? u:rI -W ~ -kI ke mara:si u-jese?mo/u epu(?)tI jare
+nImI-u-ja si?na(?) ka uj-ere, ut-ere ajan
+warajo? kapoi u-san ~ jan wI? mIta ~ u-nta
+j-ese? u-poni pImI ~ u-?mI
+pra ko?-mamI32 uj-euna
+
+etja-?ka
+kaw´ tunk´ a-jIwI? jI-tamu-n ju -W ~ -k´ ka, ke —
+tSe?mu intSa t-jan anI-pInka-?ka ke?ˆat´ hkua j-inkeˆ ajam´ apo? w´:n´ a-san´ ~ jan´ i? ´-nta-n
+itSe? po:wa jI-pImI-n
+-?ka ko?-mamI33 j-´wa-n
+
+S-ida-tai
+iwage tur´g´ ´t´, j-etI u-so ur´ -k´ ~ -g´ ke ~ ge — eze$u$ ru t-utu-ze s-arI m-ı—›´$ S ı—e› $d´ ikaI ere-rI emI uguõdo nun´ I-ze iwI i-ta-rI
+ezedI I-w´› e$ka-rI i-wImI -p/ba ~ -pIra kopae j-ena-rI
+
+iraN-lI
+Ikap19 turok owro, ewrI I-mrejum uro -ko ~ -k ke ~ ge
+tapaja
+i-pjagumi
+t-orempan ampo(n) m-ino-t inat gwam g-ere-n ajam ugwon
+nuno je, uk-te, ugu-re IwI27 mIra ~ mta28 I-wora-n eret polI ~ I-wolI erem-tSi
+-pra, -wa kok g-eNna-n
+
+ta-tagI
+kapehe
+tugeke ete ~ u-itu21
+u-ˆo, Niso uge -ke
+-ki
+agatI u-igipaNa-gI uhu-tag I tag I u-No› (n)di-lI inte24
+-kwa
+u-tilu
+ãı—› — 25
+Nune tI-ti tehu õ(n)-dIhIgI u› -(n)da-gI huta-gI30 ititI u-honi-tI u-tiNa-gI
+-la
+koko
+u-inata-gI
+
+international journal of american linguistics
+
+186
+
+087 otter 088 path 089 peccary 090 person 091 piranha 092 pos 093 pst.pos 094 ptcp 095 rain 096 roast 097 root/vein 098 sand 099 saliva 100 say 101 scrotum 102 see 103 seed 104 seize 105 shaman 106 shoot 107 sieve 108 skin/bark 109 sky 110 sleep 111 snake 112 son
+113 song 114 spider 115 star
+
+saroro osema
+kapo
+jukpa
+— rI ~ -ru — -W (?)39 kejopo mu-pure
+aw eSe — 43 j-etaSku-ru mI-ka aw j-emu
+am m-esare
+j-opIrI m-apuje
+tuwano mI-wo45 —
+eS kamuru
+am m-InIke kerepo
+wISInI (o)majkI araja
+Seku
+
+saro
+´ema p(o/´)njeke wItoto p´ne -rI ~ -ru ~ -W -hp´ -se ~ -je ~ -e
+konopo
+wi-puru
+i-mi(tI) samu
+j-etaku
+wI-ka j-emu
+w-ene
+putup´ w-ap´i pIjai mI-w´ manare
+i-pihp´ kapu
+n-´:nIkI ´k´i
+ji-mmuku ´remi ~ eremi moi
+sirik´
+
+TABLE 19—continued
+
+sororo
+asama
+hoˆko toto hoˆe -rI ~ -ru -tho, -thI-rI -so ~ -Se — 40
+W-huru-je I-mSa-rI41 sakarara
+k-otak-ru
+I-ka-no em-ru
+n-eˆe-je natho, natI n-ahosI-je jas-komo
+I-wo-no manar je
+u-hutShu-ru kahe
+nI-nIk-no okoje
+ro-mu-ru er jem46
+mojosI Ser jko
+
+soro? e?ma pinkI to?34 arai
+-rI ~ -W -?pI -I ~ -se kono? puru, purI-?pI u-kara
+saka-pan
+j-etaku
+ta:
+uj-emu
+era?ma it-ena?pI j-api?sI pia?san i-wI manari
+pi?pI ka? wetun
+IkIi
+mumu ~ u-nmu
+eren
+mojoi, mojai
+sirikI
+
+sanko
+tS(I/a)ma pink´ tato, toto35
+piˆe -n
+-hp´ -se ~ -tSe k(a/o)no? anI-pu-?ka mi? mitSin (n)taritSukun ka-?ka amu ~ j-Imu-n (e/i)ˆe-?ka jahp´ an-ap´sI-?ka pijan
+an´-w´-?ka upa
+pihp´, pih´ ka? oketi
+ake, ahke
+nuwan, nken
+ware, je? ankaja
+tjak´n
+
+saro
+´$wa$ p´u udo36
+p´$re$ -rI ~ -ru -tIbI -ze
+kop´ mi-hu-agi
+i-wı›dI sagunu
+j-edaku
+au-ge-lI emu
+m-e-tai
+ewI s-aw´-k´ pIaJi ´-ze manare
+i-tubI kau
+IkI-lI ´g´u
+´-mu-ru ´remu ~ eremu moJi Simuk´
+
+waja anma pow urot37 pone -n -tpI-n -t ~ -te
+koNpo je-pru-lI e-mirI reNmun I-lag-lu ke-lI g-em-ru
+eneN-lI alI —44 pIat t-wo-lI manan i-put, pitu kapo
+InkI-lI ogoj
+i-mu-n orem ~ eremu mojot
+tIriN
+
+tago ama
+heu (i)toto38
+heNi -gI ~ -gu ~ . . . -pe
+-ti ~ -si
+koNoho hule-tag I ı›:-(n)dzI42 ˆetune itaku-g u u-ki-tag I u-iˆuti-tI u-iNi-tag I agI u-ihe-tag I hIati u-e-tag I manag e u-hid jo
+kahI u-ı—›(N)gI-lI eke
+u-mu(ku)-g u eg i ~ igi-sI osoti
+kã(n)diˆoko
+
+187
+
+southern cariban languages
+
+116 stingray
+
+ma(h)Si
+
+117 stone
+
+top
+
+118 sun-1
+
+wetSo
+
+119 sun-2
+
+120 tail
+
+awIkI
+
+121 take
+
+m-aru
+
+122 that (inan) ake
+
+123 thigh
+
+aw Saku
+
+124 this (inan) ma(S)
+
+125 tip/beak
+
+potI-rI
+
+126 toad
+
+kupittSu
+
+127 tongue
+
+aw konatre
+
+128 tooth
+
+aw jI-rI
+
+129 toucan
+
+Sa(h)tre
+
+130 tree-wood we
+
+131 two
+
+kosa
+
+132 urine
+
+aw Suku
+
+133 vagina
+
+j-orI
+
+134 wasp
+
+masaja
+
+135 water-1
+
+kuna
+
+136 water-2
+
+137 what
+
+nop
+
+138 we (excl)-1 nana
+
+139 we (excl)-2
+
+140 we (incl)
+
+I(h)pI
+
+141 who
+
+no
+
+142 wife
+
+aw ItSarI
+
+143 woman
+
+worepa
+
+sipari t´pu wei
+arokI w-ar´ m´r´ i-petI ser´ i-potI p´r´ru i-nore i-je kIjapoko wewe ´:k´n´ ji-suku erI okomo tuna
+atI anja
+kIm´ akI ji-pI(tI) w´ri
+
+TABLE 19—continued
+
+Sar je tohu weju49 kamImI matkI w-arI-je moro k-he-tI onI hotu-ru hororu tu-ˆu-ru k-jo-rI kjakwe wewe asako ku-S ku-ru moˆe53 okomo tuna54
+etenI amna
+kIwro onokI ro-hetSe wosI ~ worIs
+
+supare?, sipare tI(?) wei
+it-aukI j-arI mIrIrI i-pe? se(:)ni potI peretuku u-nu u-je kuja?ke jei (a)sa:kIne su? pi?pu, pare? tenpi tuna
+I? anna
+u:rI?kon anI(?) i-no?pI wIri?
+
+panke? to? we50 etSerkun t-jatIk´n j-an-sa? ´m´ ju pe? sI(h) p´tu-n kIwo j-iˆo-n j-´ tSopoko ije asa?, asak su? ~ jI-suku-n arI, j-IrI-n a?kamo tIna
+n´? ana
+juto, juta n´? ju pI? wInkI?
+
+Siware tuhu, t´u47
+SiSi Sus-augu52 n-a-d´ m´r´ i-wedI Sir´ j-opi-rI p´r´ru I-lu ´-e-rI pawaru se azag´ i-Jiku j-elI ´gu› ´$
+paru ´dI
+Sina kur´ ´g$ I tI-wIdI pekodo
+
+tSiwan — 48
+tSitSi arog-rI j-arI-lI mun i-wet nen
+puron o-lu to-e-n jakwe jaj arak I-tSigu pilu kuNkoN ga paru55 arI
+tSimna ugro onok i-wIt petkom
+
+tihag i tehu ı›(m)bo51 giti i-goko-gu ige-tagi ege u-hitI ige hotu-gu pagapaga
+u-Nug u u-i-gI kahoko
+i
+takeko
+gitsu u-ig I-g I okõ
+tuNa hag u56 tI tisuge tisuge kukug e
+tI u-hitsI itãõ
+
+international journal of american linguistics
+
+188
+
+144 woodpecker sakurare
+
+145 worm
+
+komeSa
+
+146 you
+
+amo
+
+wetu moto ´m´
+
+hetu
+ekewrI omoro
+
+TABLE 19—continued
+
+tu?pra mo? amIrI
+
+ehporo am´n
+
+sedu modo ´m´
+
+weru
+
+itu
+
+arajNmo
+
+oto
+
+omro
+
+e:ge
+
+southern cariban languages
+
+1Synchronically, t- is one of the allomorphs that mark the simple (nonreﬂexive) third person in Panare. 2Meaning: ‘stone ax’; cf. oke ‘ax’. 3Meaning: ‘bee sp.’. Given Ikpeng mumtSi ‘head’, one may propose an (etymological) analysis such as paN-momtSi ‘honey-head’. 4Attested as manata in Derbyshire (1979) but as manatI in more recent materials (health and literacy booklets for Hixkaryana speakers). The form manatI is more regular; manata is probably a misspelling (possibly due to the fact that the current Hixkaryana orthography spells I as <à>). 5Attested with the meaning ‘café’ (= ‘coffee’); it probably also means ‘drink (in general)’. 6Meaning: ‘consume’ (i.e., not only liquids but also solid food). 7Attested with the meaning ‘eat liquid’ (e.g., porridge) or ‘smoke’ (e.g., tobacco). 8Meaning: ‘sand’. 9Verb stem: ‘to defecate’. 10Cf. wosu ‘grass, savanna’ from Katxuyana, a Cariban language closely related to Hixkaryana. 11Meaning: ‘kingﬁsher (bird sp.)’. 12Meaning: ‘ant (sp.)’. 13j-opIrI means also (and more often) ‘seed’. 14Meaning: ‘eyelash’. 15Meaning: ‘eyelash’. 16Also ‘fast’. The second syllable is probably cognate with Hixkaryana kar je; cf. also Apalaí kae, Tiriyó kae (originally directionals, not locatives). 17Usually ‘long’; sometimes also ‘high’. The most frequent word for ‘high’ in Hixkaryana is karje. 18Meaning: ‘high place’. 19Also ‘long’. 20Meaning: ‘village’. 21Meaning: ‘village’. 22Meaning: ‘think’, ‘ponder’, ‘learn’, ‘understand’. 23Cf. Katxuyana tSi?noto, Waiwai SiSinatI, Wayana sihnat. 24Meaning: ‘timbó’ (poisonous liana). 25Cf. ‘person’. 26Tiriyó ipaije means ‘daughter-in-law’, from *i-pa i-je ‘grandson’s mother’ ( je ‘mother’ is not synchronically attested in this language). 27Meaning: ‘stone’, ‘rock’. 28Meaning: ‘word’, ‘talk’, ‘language’. 29Meaning: ‘door’. 30Meaning: ‘corner of the mouth’. 31An old word for ‘name’, also for ‘sound’ (made by something). The current word for ‘name’ is the noncognate eka. 32Meaning: ‘stay’, ‘spend the night’; cf. also ko?-man-pra ‘yesterday’, ko?-ma(mI)ija ‘afternoon’, ‘evening’. 33Meaning: ‘become dark’, ‘fall (night)’. 34Meaning: ‘they’ (pronoun).
+
+189
+
+190
+
+international journal of american linguistics
+
+35Meaning: ‘non-Indigenous person’. 36Meaning: ‘Indigenous person (non-Bakairi, non-White)’. 37Meaning: ‘wild Indigenous person’. 38Meaning: ‘man’. The word for ‘person’ in Kuikuro is ku ge, probably related to kuku ge ‘we (incl.)’ Cf. Bakairi kur´ ‘we (incl.)’, also ‘people’. 39In the few available examples of Yukpa participials, only a t- preﬁx occurred, without any accompanying sufﬁx (e.g., t-ema ‘bought’, tehtSa ‘broken’). 40Cf. ‘water-1’. 41Cf. Waiwai ji-mitSi-nI ‘root’, ‘vein’. 42Meaning: ‘root’; the Kuikuro word for ‘vein’ is u-oNi-sI (‘my vein’). 43Cf. ‘earth’. 44But cf. aboti-lI ‘he caught it’ in Arara, a co-dialect of (or language closely related to) Ikpeng (Souza 1993:22). 45Meaning: ‘hit’. 46Meaning: ‘curse, spell, charm’. 47‘Big waterfall’; the name of a place where there is a big waterfall. ‘Stone’ is tuhu, a deceivingly similar but probably noncognate word. 48Cf. ‘mountain’. There is a possible cognate topkIn ‘stone for making arrowheads’: the initial syllable top might be an earlier word for ‘stone’. However, it might also be related to the word for ‘bow’ (topkak). 49Meaning: ‘tar’ (i.e., a substance which is burned for illumination). 50Meaning: ‘light’. 51Meaning: ‘light’. 52Meaning: ﬁsh tail (w-õwı—› ‘my tail’ is the normal term for ‘tail’). The variant (Western Bakairi) form jus-arogu preserves the r. 53Cf. Waiwai erI-rI ‘vagina’. 54Also ‘rain’. 55Paru is an old-fashioned word; the normal word for referring to water is ga. 56Meaning: ‘river arm’.
+
+southern cariban languages
+
+191
+
+REFERENCES
+Abbott, Miriam. 1991. Macushi. Handbook of Amazonian Languages, ed. Desmond C. Derbyshire and Geoffrey K. Pullum, vol. 3, pp. 23–160. Berlin: Mouton de Gruyter.
+Amodio, Emanuele, and Vicente Pira. 1996. Língua Macuxi—Makusi Maimu: Guia para o aprendizado e dicionário de língua macuxi. Boa Vista (Roraima): Diocese de Roraima and Missionários de Scarboro (Canadá).
+Basso, Ellen. 1995. The Last Cannibals: A South American Oral History. Austin: University of Texas Press.
+Campetela, Cilene. 1997. Análise do sistema de marcação de caso nas orações independentes de língua Ikpeng. M.A. thesis, Universidade Estadual de Campinas (UNICAMP).
+Davis, Irvine. 1966. Comparative Jê phonology. Estudos Lingüísticos: Revista Brasileira de Lingüística Teórica e Aplicada, vol. 1, no. 2, pp. 10–24. São Paulo: Centro de Lingüística Aplicada.
+Derbyshire, Desmond C. 1965. Textos hixkaryâna. Publicações Avulsas, no. 3. Belém (Brazil): Museu Paraense Emílio Goeldi. . 1979. Hixkaryana. Lingua Descriptive Studies, vol. 1. Amsterdam: North-Holland. . 1985. Hixkaryana and Linguistic Typology. Dallas: Summer Institute of Linguistics and the University of Texas at Arlington. . 1999. Carib. The Amazonian Languages, ed. R. M. W. Dixon and A. Y. Aikhenvald, pp. 23–64. Cambridge: Cambridge University Press.
+Durbin, Marshall. 1977. A survey of the Carib language family. Carib Speaking Indians, Culture, and Society, ed. Ellen Basso, pp. 23–38. Tucson: University of Arizona Press.
+Ehrenreich, Paul. 1895. Materialien zur Sprachenkunde Brasiliens. Zeitschrift für Ethnologie 27:149–76. Berlin.
+Franchetto, Bruna. 1995. Processos fonológicos em Kuikúro. Estudos fonológicos das linguas indígenas brasileiras, ed. Leo Wetzels, pp. 53–83. Rio de Janeiro: Editora UFRJ. . 2001. Línguas e História no Alto Xingu. Os Povos do Alto Xingu: História e Cultura, ed. Bruna Franchetto and Michael J. Heckenberger, pp. 111–56. Rio de Janeiro: Editora UFRJ.
+Gildea, Spike. 1995. A comparative description of syllable reduction in the Cariban language family. IJAL 61:62–102. . 1998. On Reconstructing Grammar: Comparative Cariban Morphosyntax. Oxford Studies in Anthropological Linguistics, vol. 18. Oxford: Oxford University Press.
+Girard, Victor. 1971. Proto-Carib phonology. Ph.D. dissertation, University of California, Berkeley.
+Heckenberger, Michael J. 1996. War and peace in the shadow of the Empire: Sociopolitical change in Upper Xingu of Southeastern Amazonia, a.d. 1400–2000. Ph.D. dissertation, University of Pittsburgh. . 2001a. Estrutura, história e transformação: a cultural xinguana na longue durée, 1000–2000 d.C. Os Povos do Alto Xingu: História e Cultura, ed. Bruna Franchetto and Michael J. Heckenberger, pp. 21–62. Rio de Janeiro: Editora UFRJ. . 2001b. Epidemias, índios bravos e brancos: contato cultural e etnogênese no Alto Xingu. Os Povos do Alto Xingu: História e Cultura, ed. Bruna Franchetto and Michael J. Heckenberger, pp. 77–110. Rio de Janeiro: Editora UFRJ.
+Jensen, Cheryl. 1998. Comparative Tupí-Guaraní morphosyntax. Handbook of Amazonian Languages, ed. Desmond C. Derbyshire and Geoffrey K. Pullum, vol. 4, pp. 489–618. Berlin and New York: Mouton de Gruyter.
+Kaufman, Terrence K. 1994. The native languages of South America. Atlas of the World’s Languages, ed. C. Moseley and R. E. Asher, pp. 46–76. New York: Routledge.
+
+192
+
+international journal of american linguistics
+
+Krause, Fritz. 1936. Die Yaruma- und Arawine-Indianer Zentralbrasiliens. Baessler-Archiv 19:32–44. Berlin.
+MacDonell, Ronald B. 1994. La phonologie du Makuxi, langue caribe: une analyse fonctionnelle. M.A. thesis, Université Laval.
+Martius, Carl F. P. 1867. Beiträge zur Ethnographie und Sprachenkunde zumal Brasiliens. 2 vols. Leipzig.
+Meria, Sérgio. 1999. Syllable reduction and ghost syllables in Tiriyó. Twenty-ﬁfth LACUS Forum, ed. Shin Ja J. Hwang and Arle R. Lommel, pp. 125–31. Fullerton, Calif.: The Linguistic Association of Canada and the United States (LACUS). . 2000. A Reconstruction of Proto-Taranoan: Phonology and Morphology. Munich: Lincom Europa. . 2002. A ﬁrst comparison of pronominal and demonstrative systems in the Cariban language family. Current Studies in South American Languages, ed. M. Crevels et al., pp. 255–75. Indigenous Languages of South America (ILLA) Series, vol. 3. Leiden: Research School of Asian, African, and Amerindian Studies (CNWS), University of Leiden.
+Muller, Marie-Claude Mattei. 1994. Diccionario ilustrado panare–español, español–panare: un aporte al estudio de los Panares–E’ñepa. Caracas: Comisión Quinto Centenario, Gráﬁcas Armitano.
+Pachêco, Frontomé B. 1997. Aspectos da gramática Ikpeng (Karíb). M.A. thesis, Universidade Estadual de Campinas (UNICAMP). . 2001. Morfossintaxe do verbo Ikpeng (Karíb). Ph.D. dissertation, Instituto de Estudos da Linguagem (IEL), Universidade Estadual de Campinas (UNICAMP).
+Rodrigues, Aryon Dall’Igna. 1985. Evidence for Tupi-Cariban relationship. South American Languages: Retrospect and Prospect, ed. H. Klein and L. Stark, pp. 371– 404. Austin: University of Texas Press.
+Rose, Françoise. 2001/2002. Le problème de la nasalité dans l’inventaire phonologique de l’émérillon. Amerindia 26/27:147–72.
+Souza, Shirley D. C. 1993. Alguns aspectos morfológicos da língua arara (Karíb). M.A. thesis, Universidade de Brasília.
+Steinen, Karl von den. 1886. Durch Central-Brasilien: Expedition zur Erforschung des Schingú im Jahre 1884. Leipzig: F. A. Brockhaus. . 1892. Die Bakaïrí-Sprache: Wörterverzeichnis, Sätze, Sagen, Grammatik. Mit Beiträgen zu einer Lautlehre der karaïbischen Grundsprache. Leipzig: K. F. Koehler’s Antiquarium. . 1894. Unter den Naturvölkern Zentral-Brasiliens: Reiseschilderung und Ergebnisse der zweiten Schingú-Expedition 1887–1888. Berlin: Geographische Verlagsbuchhandlung von Dietrich Reimer. [Translated as: Karl von den Steinen, Entre os aborígenes do Brasil Central, Revista do Arquivo Municipal, São Paulo, 1940, pp. 34– 48 (offprint). A second German edition was published in 1897, with the same title and text, but without the main map and without the linguistic data.]
+
+

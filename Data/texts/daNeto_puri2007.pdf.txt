@@ -1,0 +1,3539 @@
+UNIVERSIDADE DE BRASÍLIA - UNB INSTITUTO DE LETRAS – IL
+DEPARTAMENTO DE LINGÜÍSTICA, PORTUGUÊS E LÍNGUAS CLÁSSICAS LIP
+REVISÃO DA CLASSIFICAÇÃO DA FAMÍLIA LINGÜÍSTICA PURÍ
+DISSERTAÇÃO DE MESTRADO
+AMBRÓSIO PEREIRA DA SILVA NETO
+Orientadora: PROFESSORA Drª. ANA SUELLY ARRUDA CÂMARA CABRAL
+Brasília JULHO/2007
+
+ii AMBRÓSIO PEREIRA DA SILVA NETO
+REVISÃO DA CLASSIFICAÇÃO DA FAMÍLIA LINGÜÍSTICA PURÍ
+Dissertação apresentada ao Departamento de Lingüística, Português e Línguas Clássicas como requisito parcial para obtenção do grau de mestre em lingüística.
+Banca examinadora: Professora Drª. Ana Suelly Arruda Câmara Cabral (Presidente) Professor Dr. Aryon Dall’Igna Rodrigues (Membro efetivo) Professor Dr. Wilmar da Rocha D’Angelis (Membro efetivo) Professora Dra. Poliana Maria Alves (Suplente )
+Brasília JULHO/2007
+
+iii
+Esta dissertação foi julgada adequada à obtenção do grau de mestre em lingüística e aprovada em sua forma final pelo curso de pós-graduação em lingüística da Universidade de Brasília.
+Brasília, ____ de ___________ de 2007 1° Examinador ____________________ 2° Examinador ____________________ 3º Examinador ____________________
+
+iv Dedico aos meus pais, minha esposa e em especial a minha irmã.
+
+v
+AGRADECIMENTOS A Deus, por ter me dado tanta coragem quando pensava em desistir, por iluminar minha estrada e muitas vezes me guiar pelo melhor caminho. A minha professora e orientadora Dra. Ana Suelly Arruda Câmara Cabral, por quem eu tive a honra de ser orientando, pelo grande empenho em me ensinar, pelo carinho e atenção dados como se fosse a um filho, desde que me encontrou desorientado, e principalmente, por ter me mostrado o quanto o trabalho com línguas indígenas é gratificante. Ao professor Dr. Aryon Dall’Igna Rodrigues, por ter me dado tanta atenção e carinho durante os estudos, por ter solidificado a minha crença nos estudos lingüísticos, e sobretudo, por ter transmitido tanto conhecimento e experiência durante os trabalhos. Aos professores do Departamento de Lingüística, Português e Línguas Clássicas LIP A todos os amigos que tenho no Laboratório de Línguas Indígenas da UnB – LALI.
+A meus pais, meu filho, meus irmãos e em especial a Maria Luiza, por ter me impulsionado para os estudos, garantindo, assim, a minha transformação e o que sou hoje.
+A minha esposa querida que tanto me escuta falar sobre a lingüística.
+
+AGRADECIMENTOS
+
+SUMÁRIO
+
+SUMÁRIO
+
+RESUMO
+
+ABSTRACT
+
+ABREVIATURAS
+
+INTRODUÇÃO
+
+CAPÍTULO I
+
+1. Breve história dos falantes das línguas
+
+CAPÍTULO II
+
+2 Sobre o tronco Macro-Jê
+
+2.1 Distribuição Geográfica
+
+2.2 Conhecimento lingüístico
+
+2.3 A família lingüística Purí
+
+2.4 Documentos para investigação
+
+CAPÍTULO III
+
+3. Normalização dos dados da família lingüística Purí
+
+3.1 Comparação dos dados da língua Purí
+
+3.2 Comparação dos dados da língua Coroado
+
+3.3 Comparação dos dados da língua Koropó
+
+3.4 Ensaio de reconstrução fonológica e de alguns itens lexicais
+
+CAPÍTULO IV
+
+4 Considerações finais
+
+BIBLIOGRAFIA
+
+ANEXOS
+
+vi
+v vi vii viii ix 10 11 11 12 12 13 13 14 14 16 16 16 24 34 39 42 42 43 44
+
+vii
+RESUMO Neste estudo, desenvolvemos uma revisão da família linguística Coroado (Purí) proposta por Chestmir Loukotka (1937), como uma contribuição aos estudos sobre o tronco lingüístico Macro-Jê. Esta revisão tem como objetivo normalizar os dados existentes das línguas Puri, Coroado e Koropó, que compõem a família. Este estudo permitiu confirmar a validade da proposta de Loukotka, e também verificar que a língua Koropó se diferencia mais das outras duas línguas da família, o que indica que o Koropó é um parente mais distante dentro da família. A revisão e a reorganização dos dados aqui feita deve contribuir para os estudos comparativos da família Purí com os demais componentes do tronco lingüístico Macro-Jê.
+Palavras-chaves: família Purí, família Coroado, Koropó (Coropó), Normalização, Macro-Jê, Loukotka.
+
+viii
+ABSTRACT In this study we develop a review of the Coroado (Purí) linguistic family proposed by Chestmir Loukotka (1937) as a contribution to the studies of the Macro-Jê linguistic stock. The purpose of this review was to normalize the data available of the languages Purí, Coroado, and Koropó, which constitute the Coroado family. This study permitted to confirm Loukotka’s hypothesis and still to verify that the Koropó language is the most divergent in the family. The revision and reorganization of the data presented here should contribute to the comparison of the Purí family with the other components of the Macro-Jê linguistic stock.
+Key-words: Purí linguistic family, Coroado linguistic family, Koropó (Coropó), normalization, Macro-Jê, Loukotka.
+
+ix
+
+ABREVIATURAS
+
+P1 PURÍ 1
+
+P2 PURI 2
+
+P3 PURI 3
+
+P4 PURI 4
+
+P
+
+NORMALIZAÇÃO DA LÍNGUA PURI
+
+C1 COROADO 1
+
+C2 COROADO 2
+
+C3 COROADO 3
+
+C4 COROADO 4
+
+C5 COROADO 5
+
+C
+
+NOMARLIZAÇÃO DA LINGUA COROADO
+
+K1 KOROPÓ 1
+
+K2 KOROPÓ 2
+
+K3 KOROPÓ 3
+
+K
+
+NORMALIZAÇÃO DA LÍNGUA KOROPÓ
+
+10
+INTRODUÇÃO
+A presente dissertação de mestrado consiste em uma revisão da família lingüística Coroado, proposta por Chestmir Loukotka (1937). Loukotka comparou itens lexicais das línguas Coroado, Purí e Koropó coletados durante o século XIX por Eschwege, Martius, St. Hillaire, Ferreira Moutinho, Heinrich W. Schott e Torrezão, e demonstrou várias semelhanças lexicais entre essas línguas. Fez ainda algumas observações gramaticais sobre as mesmas e mostrou algumas semelhanças lexicais entre elas e línguas da família Jê. O trabalho de Loukotka foi de grande importância por fundamentar a proposta de um grupo de línguas geneticamente relacionadas com a família Jê, mas independentes desta, ampliando assim o conhecimento da constituição interna do tronco Macro-Jê (Davis 1967; Rodrigues 1986 e 1999 e Kaufman 1990). Mason (1950) considerou a proposta de Loukotka na sua classificação do tronco Macro-Jê , mas a chamou de família Purí, porque o nome Coroado foi aplicado também a povos de outras famílias (Boróro e Kaingáng).
+A revisão da família Purí (Coroado), ora proposta, fundamenta-se na necessidade de normalização dos dados das línguas incluídas nessa família, os quais foram coletados por diversas pessoas com diferentes línguas maternas, com o intuito de demonstrar as correspondências lexicais e fonológicas entre essas línguas. Os resultados dessa normalização fundamentarão uma hipótese sobre quais teriam sido os fonemas da respectiva língua. A comparação dos dados assim apurados permitirá a obtenção de um quadro aproximado dos fonemas da língua que deu origem aos membros dessa família e das mudanças sonoras ocorridas nas línguas. A normalização permitirá também a reconstrução dos morfemas da proto-língua da família e a identificação de maior ou menor proximidade entre as línguas, o que, por sua vez poderá permitir a elaboração de uma proposta de constituição interna dessa família. Os resultados desta revisão servirão para avaliar a hipótese de que a língua Koropó é realmente um membro da família Purí, tendo em vista a pequena quantidade de itens lexicais que correspondem aos das línguas Purí e Coroado, e também servirão para novos estudos comparativos sobre o tronco Macro-Jê.
+
+11
+CAPÍTULO I
+1. Breve história dos falantes das línguas
+Os povos Purí, Coroado e Koropó foram observados por estudiosos, estrangeiros e brasileiros, que viajaram pelo interior do Brasil, entraram em contato com tribos indígenas e coletaram amostras de línguas, coleções de palavras e/ou frases.
+Os povos da família Purí se situavam ao longo de toda a extensão do rio Paraíba do Sul e se espalhavam para o norte até o rio Doce, no nordeste de São Paulo e Rio de Janeiro, sudeste de Minas Gerais e sul do Espírito Santo (Rodrigues 1999). O príncipe Maximiliano de Wied Neuwied (1940) encontrou entre os anos de 1815 e 1817 alguns membros.
+“Os habitantes indígenas pertencem às tribus dos “Coroados”, “Coropós” e “Puris”, esta ainda selvagem e vagueante pelas vastas solidões situadas entre o mar e a margem norte do Paraíba, projetando-se, para oeste, até o rio Pomba, em Minas Gerais. Vivem atualmente em paz, defronte a S. Fidelis, mas, rio acima, em Aldeia de Pedra, estiveram, havia pouco tempo, em guerra com os “Coroados”. Na realidade, o principal retiro dessas duas tríbus fica em Minas Gerais donde se estendem à região mencionada, ao longo do Paraíba e do litoral. Na margem direita ao sul se encontram os “Coroados”, e, em S. Fidelis, também alguns “Coropós” presentemente civilizados, isto é, fixados.”
+Martius (1938) encontrou entre os anos de 1817 e 1820 por volta de 2000 Coroados na bacia do rio Xipotó, entre as serras da Onça e São Geraldo. Já os Purís se encontravam na encosta oriental da serra da Onça e nas matas ao norte do rio Paraíba, estes em número aproximado de 4000.
+Estes povos inicialmente eram nômades, não tão bons agricultores quanto os Tupinambás, mas eram imbatíveis nas técnicas de rastreamento, na caça, na pesca e na coleta de frutas, embora após a sua fixação pelos portugueses em povoados como Aldeia da Pedra e São Fidélis tornaram-se em parte dependentes dos portugueses que às vezes os recrutavam para serem soldados, tentavam domesticá-los como se fossem animais, ou viviam às margens dos povoados com a ajuda de padres missionários e da bondade de algumas pessoas (Wied-Neuwied 1940, Martius 1938).
+
+12
+CAPÍTULO II
+2. Sobre o tronco Macro-Jê
+Macro-Jê é o nome proposto há 50 anos por Mason (1950:287) para um grande conjunto de línguas da América do Sul (todas faladas no Brasil). No mesmo sentido W. Schmidt (1926:234-8) havia usado Ges-Tapuya para a idéia do tronco Macro-jê e Loukotka (1942[1942]:2-6), Tapuya-Že. A possível relação genética entre as várias línguas atribuídas ao tronco Macro-Jê é uma hipótese de trabalho, cujos detalhes têm variado de acordo com os diferentes estudiosos (Rodrigues 1995).
+As variações segundo Rodrigues (1999) são: - Loukotka distinguiu oito famílias : Jê, Ofayé, Kaingáng, Purí, Maxakalí, Pataxó, Krenák e Kamakã. (1942) - Nimuendajú considerou Malalí uma família lingüística independente. (1945[1980]) - Mason adicionou Malalí e Koropó, mas retirou Ofayé e Yatê. (este já tinha sido retirado por Loukotka). (1950) - Davis num trabalho comparativo demonstrou que Kaingáng é realmente da família Jê e, em outro estudo, deu evidências de correspondências fonológicas regulares entre Jê e Maxakalí e Jê e Karajá, tendo mencionado possíveis relações do MacroJê com o Boróro, o Tupi e o Yatê. (1966), (1968). - Guérios indicou relação genética entre o Boróro oriental e duas línguas Jê setentrionais, Timbíra e Kayapó. (1939) - Gudschinsky, comparando o Ofayé com a reconstrução do Proto-Jê de Davis, mostrou que ele é provalvelmente um membro do tronco Macro-Jê. (1971) - Boswood deu evidências lexicais em favor da inclusão do Rikbaktsá nesse tronco. (1973) - Rodrigues incluiu nele Karirí e Guató, mas colocou o Pataxó como membro da família Maxakali, da mesma forma que o Malali. (1986)
+
+13
+- Para Greenberg todas as línguas citadas, mais Chiquito, Otí e Jabutí são membros do Macro-Jê. Embora ele declare que estas três são tão Macro-Jê quanto as outras, os dados que apresenta para Otí e Jabutí não sustentam sua reivindicação. (1987) - Kaufman, em sua recente revisão da classificação das línguas sulamericanas (1990,1994), excluiu do Macro-Jê o Otí e o Jabutí e também o Karirí, mas manteve o Chiquito.
+2.1 Distribuição Geográfica
+As línguas do tronco Macro-Jê estão distribuídas circundando a Amazônia pelo lado leste pelo sul, mas com algumas línguas dentro da Amazônia brasileira. Outros membros foram falados no leste e nordeste do Brasil e algumas famílias são encontradas no centro e no sudeste.
+Geograficamente as línguas Macro-Jê podem ser divididas em orientais, centrais e ocidentais, sendo que o grupo central compreende as famílias Karajá e Jê. As do leste são as pertencentes às famílias Purí, Krenák, Maxakalí, Kamakã, Karirí e Yatê. As ocidentais são as das famílias Ofayé, Boróro, Rikbaktsá e Guató. (Rodrigues 1999).
+2.2 Conhecimento Lingüístico
+Como conseqüência da colonização do Brasil pelos europeus, muitas línguas do tronco Macro-jê foram extintas. As famílias de línguas mais afetadas foram aquelas que estavam situadas no leste do Brasil, já que as expedições portuguesas de caça ao ouro e aos escravos dizimaram boa parte dos índios nas suas incursões. Muitos povos falantes de línguas Macro-Jê se tornaram objetos de ataques portugueses, como, por exemplo, os Aimorés no sudeste da Bahia (cuja língua provavelmente pertencia à família Krenák). Até o começo do século XVIII ainda havia pequenos grupos de índios no leste do Brasil que falavam línguas de diversas famílias, porém muitas outras línguas já estavam extintas e não se sabe se elas faziam parte ou não do tronco Macro-Jê.
+
+14
+O século XIX foi caracterizado pelo início do estudo da história natural brasileira por cientistas europeus, principalmente alemães e franceses (Rodrigues 1999). Estes cientistas percorriam o país coletando amostras de flora, fauna e solo, mas também coletavam amostras de línguas. O modelo de documentação de línguas era uma lista de palavras. O conhecimento das línguas da família Purí limita-se a escassos dados em listas coletadas por naturalistas europeus e pelo engenheiro Alberto de Noronha Torrezão. Esta última lista foi publicado na Revista do Instituto Histórico e Geográfico Brasileiro, no Rio de Janeiro, em 1889.
+2.3 A Família Lingüística Purí
+A família Purí compreende as línguas Purí, Koropó e Coroado, todas já mortas. Outros dois possíveis povos pertencentes a esta família eram os Guarulhos e os Goitacás, estes últimos na região do atual município de Campos. Desde a colonização, combateram portugueses e franceses, mas acabaram sendo exterminados sem deixar registro de seu idioma, de modo que não podemos incluí-los nesta comparação. Registrados foram os idiomas dos Coroados, Koropó e Purí, cujo parentesco, aliás, já foi percebido por WiedNeuwied:
+“Entretanto, essas três tríbus foram a princípio aparentadas, como o atesta a semelhança das línguas(...).Todos falam português, mas geralmente empregam entre si a língua nacional. As línguas dos ‘Coroados’ e ‘Coropós’ são em extremo parecidas, e ambos, na sua maior parte, compreendem os ‘Purís’. Nosso jovem ‘coropó’, Francisco, falava todas elas.” (Wied-Neuwied 1940).
+2.4 Documentos para Investigação
+Os dados para este estudo foram reunidos por Chestmír Loukotka em seu trabalho intitulado “La familia lingüística Coroado”, publicado em 1937, o qual inclui uma retranscrição dos dados constantes nas obras de Eschwege (L.W.von), Saint-Hilaire (Auguste de), Martius (K. Friedr. Phil. von), Ferreira-Moutinho (Jôaquim), Balbi (Adrien), Torrezão (Alberto Norenha) e Schott (Heinrich W.).
+
+15
+O vocabulário utilizado consiste em palavras relacionadas a partes do corpo humano, como cabeça, braço, dente, palavras relativas às relações de parentesco, como irmão, pai, mãe, nomes de elementos da natureza como fauna, flora, acidentes geográficos. Há ainda alguns verbos e palavras descritivas (ver anexo I).
+Quatro listas de palavras coletadas por Martius (K. Friedr. Phil. von) e Eschwege (L.W.von), sendo uma lista de palavras da língua Purí, uma da língua Koropó e duas da língua Coroado. As listas da língua Coroado são distinguidas como Coroado (Aldeia da Pedra) e Coroado (Rio Xipotó), sendo que na lista Coroado Aldeia da Pedra algumas palavras são claramente de empréstimos da língua portuguesa, como ‘cavalo’ cawaru, ‘chave’ chavi. (Martius 1938). (ver anexo II)
+
+16
+CAPITULO III
+3. Normalização dos dados das línguas da família Purí
+Neste capítulo, comparamos os dados da língua Purí coletados por Eschwege, Martius, Balbi e Torrezão (seção 3.1), tendo em vista demonstrar: (a) se as diferentes transcrições de palavras com forma e significado correspondentes são decorrentes de diferenças dialetais; (b) se refletem a percepção distinta dos sons dessa língua pelos estudiosos que coletaram dados das línguas em foco e que eram falantes de outras línguas, como o alemão, o francês e o português.
+Com esse objetivo comparamos os dados da língua Coroado coletados por Eschwege e Martius, Saint Hilaire, Martius e Ferreira-Moutinho (seção 3.2) e da língua Koropó coletados por Eschwege, Martius e Schott (seção 3.3). A normalização da forma fonológica das palavras do Purí, Coroado e do Koropó documentadas por esses estudiosos considera, ainda, a possibilidade de que as divergências nas transcrições podem refletir variações dialetais da mesma língua ou, ainda, graus diferenciados de proficiência lingüística pelos falantes das línguas documentadas.
+3.1 Comparação dos dados da língua Purí
+Mantemos aqui as abreviaturas usadas por Chestmir Loukotka para referir aos dados do Purí, do Coroado e do Koropó coletados pelos diferentes autores.
+A comparação dos dados da língua Purí e a comparação dos dados da língua Coroado e Koropó são apresentadas respectivamente nos quadros 1, 5 e 9. Cada comparação é seguida de uma discussão que objetiva fundamentar a normalização das palavras comparáveis. Os quadros foram internamente organizados da seguinte forma: a primeira coluna contém a numeração dos exemplos, a segunda contém a glosa e as colunas seguintes, os dados coletados pelos diferentes autores, seguindo a ordem proposta por Loukotka (por exemplo, P1, P2...). Finalmente, a última coluna da direita contém a proposta de normalização para cada palavra documentada. Quando certa palavra em uma
+
+17
+dada língua foi registrada por apenas um autor, se a palavra com mesmo significado e com forma semelhante ou análoga foi registrada para outra língua, incluímos aquela palavra no quadro, tendo em vista que servirá para a comparação final das formas normalizadas das três línguas objeto deste estudo (Purí, Coroado e Koropó).
+
+Língua Purí
+
+P1 – Eschwege
+
+P2 – Martius
+
+P3 – Balbi
+
+P4 – Torrezão
+
+Quadro 1 – Normalização da transcrição da língua Purí
+
+Item lexical
+
+P1
+
+P2
+
+P3
+
+01) ‘água’
+
+-
+
+mniamá ñama
+
+02) ‘anta’
+
+-
+
+-
+
+-
+
+03) ‘árvore’ ambó ~ pó umbó, pu
+
+-
+
+04) ‘beber’
+
+-
+
+gambá
+
+-
+
+P4 m’ñiáma pennán
+mpó cm‡ bá
+
+05) ‘boca’
+
+-
+
+-
+
+s‡ora
+
+co‡ réé
+
+06) ‘cabelo’ 07) ‘cabeça’
+
+angué
+
+-
+
+-
+
+ké
+
+kwe
+
+ngué
+
+ngué
+
+08) ‘comer’
+
+-
+
+Pas‡e, mas‡i -
+
+mas‡e
+
+09) ‘dedo’
+
+-
+
+sa‡ brera
+
+-
+
+-
+
+10) ‘dia’
+
+-
+
+-
+
+-
+
+opé
+
+11) ‘dente’
+
+dzé‡
+
+-
+
+-
+
+uc‡é
+
+12) ‘estrela’
+
+-
+
+-
+
+-
+
+su‡ ri
+
+13) ‘flecha’
+
+-
+
+oboung
+
+-
+
+14) ‘fogo’
+
+poté
+
+pothé
+
+pote
+
+15) ‘irmão’ makas‡atane se‡ maung
+
+-
+
+aphon boté sá‡ tám
+
+16) ‘filha’ s‡ambe-boema mbayma
+
+-
+
+s‡ambé
+
+P mñama cf. rio
+penán mpo mpa c‡ore ke kwe ngwe pase‡ mas‡e sa‡ brera opé = ‘sol’ uc‡e s‡uri apon poté sa‡ tan s‡ampe
+
+18
+
+17) ‘folha’ 18) ‘homem’ 19) ‘lua’ 20) ‘mãe’
+
+kuayma
+ayam
+
+phthania tic‡éng
+
+pitara aña
+
+dzoplé hakorema
+petára iñan
+
+dzoplé kuayma, hakorema
+petara ayan
+
+21) ‘milho’
+
+-
+
+makü
+
+-
+
+maki
+
+makπ
+
+22) ‘mão’
+
+-
+
+-
+
+kore sa‡ peprera =
+
+‘dedo’ e
+
+‘pé’
+
+23) ‘monte’
+
+pré
+
+-
+
+-
+
+-
+
+24) ‘monte
+
+pré deka
+
+-
+
+-
+
+-
+
+grande’
+
+25) ‘muito’
+
+-
+
+-
+
+prika
+
+-
+
+26) ‘mulher’ boeman mbayma
+
+-
+
+mbléma
+
+27) ‘nariz’
+
+-
+
+ingní
+
+ñé
+
+ám’ni
+
+28) ‘noite’ tamari poñan miri¤ bauana -
+
+mripón
+
+kore, s‡apeprera
+pré pré deka
+prika mbayma
+ni miriponan
+
+29) ‘olho’
+
+-
+
+-
+
+miri
+
+mri
+
+30) ‘orelha’
+
+-
+
+bipina
+
+-
+
+-
+
+31) ‘pai’
+
+áré
+
+atté
+
+dz‡are
+
+s‡aré
+
+miri bipina
+are
+
+32) ‘pássaro’
+
+-
+
+si‡ bu
+
+-
+
+si‡ pú
+
+si‡ pu
+
+33) ‘pé’
+
+-
+
+s‡abrera su‡ pre sa‡ pépréra
+
+s‡aprera
+
+34) ‘pena’
+
+-
+
+s‡ibubé
+
+-
+
+si‡ pupé
+
+si‡ pupé
+
+35) ‘porco’
+
+-
+
+-
+
+-
+
+sotansi‡ ra
+
+sotansi‡ ra
+
+36) ‘rio’ 37) ‘sol’ 38) ‘tarde’
+
+poopé tos‡ora
+
+tus‡ahi
+
+- mñama róra
+
+ope
+
+opé
+
+-
+
+-
+
+mñama róra opé
+tos‡ora, tusa‡ hi
+
+39) ‘terra’
+
+-
+
+guas‡é
+
+-
+
+us‡ó
+
+guas‡é, usó‡
+
+40) ‘tronco’
+
+-
+
+pon-réna
+
+-
+
+-
+
+pon-réna
+
+41) ‘vento’
+
+dzo‡ ta
+
+-
+
+-
+
+42) ‘ventre’
+
+-
+
+tiking
+
+-
+
+‘barriga’
+
+43) ‘erva’
+
+s‡apúko spangué
+
+‘planta’ ou
+
+‘capim’
+
+tikim
+
+19 dzo‡ ta tiki~
+s‡apúko, spangué
+
+3.1.1 Levantamento dos sons da língua Purí
+
+O quadro (2) abaixo mostra o levantamento dos sons da língua Purí e o ambiente registrado nos dados dos diversos estudiosos.
+
+Quadro 2 – Sons da língua Purí.
+
+Som
+
+ambiente P1
+
+p
+
+#__V
+
+14, 23, 24, 37
+
+p~m
+
+ph
+
+p
+
+V,C__V 37, 43
+
+P2 14, 40 8 19 43
+
+ph
+
+V__V
+
+p
+
+V__C
+
+mp
+
+#___V
+
+P3 14, 19, 25
+
+P4 2, 8, 19
+
+37
+
+03, 17, 22,
+
+28, 34, 37
+
+13
+
+33
+
+33
+
+03
+
+b
+
+#__V
+
+26,
+
+b
+
+V__V
+
+b
+
+V__C
+
+mb
+
+#__V
+
+mb
+
+V__V
+
+16, 03
+
+30
+
+14,
+
+13, 28, 32, 34
+
+09,33
+
+16, 26
+
+16
+
+04, 26
+
+t
+
+#___V
+
+38
+
+38, 42
+
+t
+
+C,V__V 14, 15, 41
+
+31
+
+th
+
+14, 19
+
+dz
+
+#___V
+
+dz°
+
+#___V
+
+11, 41
+
+14, 19 31
+
+s
+
+#___V
+
+43
+
+s‡
+
+#___V
+
+16, 43
+
+09, 15, 32, 33, 05, 33
+
+34
+
+s‡
+
+C,V___V 38
+
+08, 38, 39
+
+c‡
+
+#___V,C
+
+c‡
+
+V___V
+
+20
+
+k
+
+#____V 18
+
+22
+
+k
+
+V___V 15, 24, 43
+
+21, 42
+
+25
+
+g
+
+#____V
+
+g
+
+C__V
+
+07
+
+g
+
+____#
+
+g
+
+C__C
+
+04, 39 43 13, 15, 20, 42 27
+
+m
+
+#____V,C 15
+
+01, 08, 16, 21, 29
+
+26, 28
+
+m
+
+C,V___V 16, 18, 26, 28 15, 16, 26
+
+m
+
+V,C___C 03, 16
+
+03, 04
+
+20 42 14, 15, 19, 35
+17
+35 12, 15, 16, 22, 31, 32, 33, 34 08, 35 04, 05 11
+06 18, 21, 42
+03, 08, 21, 26, 28, 29, 36 16, 18, 26, 36 04, 16
+
+m
+
+___#
+
+20
+
+n
+
+#___V,C
+
+n
+
+C/V__V
+
+n
+
+C,V___C 07
+
+n
+
+___#
+
+28
+
+n~
+
+#____V
+
+n~
+
+V___V 28
+
+01, 07, 01, 19, 28, 30, 40 13, 20, 27, 42, 43 40
+27
+20
+
+21 15, 42 07 02 27, 35 13, 20, 28
+20
+
+r
+
+#___V
+
+40
+
+36
+
+r
+
+C,V___V 23, 24, 28, 31, 09, 28, 33
+
+05, 19, 22, 05, 12, 18,
+
+38
+
+25, 29, 31, 32 19, 22, 28,
+
+29, 31, 32,
+
+35, 36
+
+y
+
+C, V__C 18
+
+y
+
+V____V 20
+
+16, 26
+
+i
+
+#___C
+
+i
+
+C__V,C
+
+i
+
+___#
+
+28
+
+π
+
+___#
+
+27
+
+01, 19, 20, 28, 19, 25, 29
+
+30, 32, 34, 42
+
+08, 27, 38
+
+29
+
+20 28, 32, 34, 35
+12, 21, 27, 29 21
+
+e
+
+V,C__C 16, 24, 26
+
+09, 15, 33
+
+02, 18, 19, 22
+
+e
+
+___#
+
+15, 16
+
+08
+
+22, 31, 33, 37 08
+
+é
+
+V,C___C
+
+20, 40
+
+05, 26, 33
+
+22
+
+é
+
+___#
+
+07, 11, 14, 23, 14, 31, 39, 43 07, 27
+
+05, 06, 07,
+
+24, 31, 37
+
+10, 11, 14,
+
+16, 17, 31,
+
+34, 37
+
+a
+
+#___V,C 20, 31
+
+31
+
+20
+
+13, 27
+
+a
+
+V,C___ C 15, 16, 20, 26, 01, 04, 08, 09, 01, 19, 20, 31 02, 08, 15,
+
+28, 43
+
+18, 19, 21, 28,
+
+16, 18, 19,
+
+33, 38, 39, 43
+
+20, 21, 22,
+
+31, 33, 35, 36
+
+a
+
+V,C___V 18
+
+15, 16, 26, 28
+
+a
+
+___#
+
+04, 16, 18, 24, 09, 16, 19, 26, 05, 19, 20, 25 04, 18, 19,
+
+38, 41
+
+28, 30, 33, 40
+
+22, 26, 33, 36
+
+o
+
+#___C
+
+13
+
+37
+
+10, 37
+
+o
+
+C,V___C 14, 28, 36, 38, 13, 14, 40
+
+05, 14, 22
+
+05, 13, 14,
+
+41
+
+17, 18, 35
+
+o
+
+C,V___V 16, 26, 37
+
+13
+
+o
+
+___#
+
+43
+
+ó
+
+C,V___C
+
+28, 36
+
+ó
+
+___#
+
+03
+
+03
+
+03,39
+
+u
+
+#___C
+
+03
+
+11, 39
+
+u
+
+C,V ___C 43
+
+13, 34, 38, 39 33
+
+12, 34
+
+u
+
+C,V___V 07, 18
+
+15, 28, 43
+
+07
+
+07
+
+u
+
+___#
+
+03, 21, 32
+
+32
+
+A sistematização da ocorrência dos sons presentes nos dados analisados permitiu a elaboração de uma primeira hipótese sobre parte dos sons que constituíam o sistema fonológico da língua Purí . De acordo com a presente hipótese o sistema fonológico da língua Purí se configurava da seguinte forma:
+
+23
+
+Quadro 3 – Consoantes
+
+p
+
+t
+
+b
+
+mp
+
+m
+
+n
+
+c‡
+
+k
+
+ñ
+
+s‡
+
+r
+
+y
+
+Quadro 4 - Vogais
+
+i
+
+π?
+
+u
+
+e
+
+o
+
+a
+
+Algumas considerações sobre a normalização dos dados da Língua Purí
+• A escolha da normalização do som mp e não do som mb fundamenta-se principalmente no fato de que nos exemplos disponíveis, predomina o registro do som surdo e que os autores de língua alemã tendem a registrar com b as oclusivas surdas não aspiradas (P1 e P2, ex. 3). • Não foi considerada a possibilidade de fonemização de sons oclusivos aspirados, tendo em vista que os sons [ph] e [th] aparecem apenas em dados diferentes de duas fontes, sendo que a que mais apresenta exemplos é de origem alemã. • Não foi considerado o som [s] como fonema por figurar em apenas um dado de duas fontes distintas.
+
+24
+• Embora os conjuntos de palavras que apresentem sistematicamente [č] sejam os que incluem dados de apenas duas variedades, em outros casos em que esse som aparece há flutuação de [č] com [š], o que fundamenta a escolha do primeiro para representar a forma fonológica da palavra normalizada para esses conjuntos. • A alternância [č] ~ [dz‡] também fundamenta a análise de que o segundo é uma variação do primeiro em uma das variedades da língua. • Quanto ao som [dz] não há dados suficientes para considerá-lo como provável fonema. • Quanto às vogais, embora os dados apresentem algumas discrepâncias, na maioria dos casos correspondem-se regularmente. • Não há evidencias suficientes para a consideração de vogais intrinsecamente nasais, a partir dos dados usados na presente comparação. Um dos poucos casos que poderiam ser usados para postular vogais nasais no Purí seria o exemplo 7, mas o exemplo pode ser analisado como tendo uma consoante nasal seguindo a vogal.
+O resultado da análise realizada até aqui fundamenta a idéia de que os dados P1, P2, P3 e P4 representam variedades de uma mesma língua e não de línguas independentes.
+3.2 Comparação dos dados da língua Coroado
+O quadro (5) mostra a comparação dos dados da língua Coroado coletados pelos estudiosos e a normalização na última coluna (C).
+Abreviaturas:
+C1 – Eschwege e Martius; C2 – Eschwege; C3 – Saint Hilaire; C4 – Martius; C5 – Ferreira-Moutinho.
+
+Quadro 5 - Normalização da transcrição da língua Coroado
+
+Item
+
+C1
+
+C2
+
+C3
+
+C4
+
+lexical
+
+01) ‘água’
+
+-
+
+-
+
+ñuman
+
+-
+
+02) ‘você’
+
+-
+
+gá
+
+-
+
+-
+
+03) ‘anta’
+
+painá
+
+-
+
+-
+
+-
+
+04) ‘aqui’
+
+-
+
+kará
+
+-
+
+-
+
+05) ‘árvore’ ambó
+
+ambó
+
+bó
+
+ambó
+
+06) ‘beber’
+
+bá
+
+mambá
+
+-
+
+ba, mambá
+
+07) ‘boca’
+
+co‡ re
+
+c‡ore
+
+so‡ ri so‡ ru, co‡ ru,
+
+08) ‘cabelo’
+
+gué
+
+gué
+
+-
+
+09) ‘cabeça’
+
+gué
+
+gué, ké
+
+-
+
+10) ‘comer’ mase‡ ,
+
+mase‡
+
+-
+
+txore gué gué
+-
+
+ges‡en
+
+11) ‘dedo’ (cf. ‘mão’)
+12) ‘dia’ (= sol)
+13) ‘dente’
+
+xapere‡ hopé
+ce‡
+
+sa‡ pere‡ ce‡
+
+-
+
+xapere‡
+
+-
+
+-
+
+-
+
+ce‡ , sé‡ , tzé
+
+14) ‘estrela’ 15) ‘flecha’
+16) ‘fogo’ 17) ‘gato’
+
+aphon, aphón,
+pun poté xapi
+
+aphon, ápun
+pohé sa‡ pi
+
+-
+
+yuri
+
+-
+
+aphón,
+
+abóng
+
+moté -
+
+poté, boté seping
+
+18) ‘irmão’
+
+ca‡ tay mokas‡atan
+
+-
+
+-
+
+e
+
+C5
+ñaman -
+c‡ore
+gué gué
+-
+-
+-
+-
+poté -
+
+25
+C
+yamã gá
+painá kará ampo pa c‡ore
+gué gué, ke mase‡
+s‡apere
+ope
+ce‡ yuri apon
+poté s‡api ca‡ tay
+
+26
+
+19) ‘filha’
+
+xambé
+
+béma
+
+-
+
+sa‡ mbé
+
+s‡ambé
+
+s‡ãpe
+
+20) ‘folha’
+
+co‡ pé
+
+-
+
+-
+
+txopé
+
+-
+
+co‡ pe
+
+21) ‘homem’ kuayma
+
+22)
+
+‘lua’
+
+petára,
+
+peso‡ ra
+
+kuayma petára
+
+kuoyman pergran
+
+kuayma petára, pitarang
+
+kuoyman kwayman
+
+-
+
+petara
+
+23) ‘mãe’
+
+ayan,
+
+ayan
+
+yua
+
+bac‡ána
+
+-
+
+ayan
+
+ayan
+
+24) ‘milho’
+
+-
+
+maki
+
+-
+
+máckü
+
+-
+
+makπ
+
+25) ‘mão’
+
+xapré
+
+s‡aparé
+
+cu‡ paré
+
+kokor¤e kokor¤e sa‡ pare,
+
+kokore¤
+
+26) ‘monte’
+
+pré
+
+27) ‘monte
+
+grande’
+
+28) ‘muito’ purika
+
+29) ‘mulher’ boyman
+
+30) ‘nariz’
+
+-
+
+31) ‘menino’ s‡apóma
+
+préheroyma apurika ayé ñé sa‡ -pana
+
+pré -
+boyman
+ñim spona
+
+pré -
+purika -
+xapóma
+
+-
+boyman
+ñieng si‡ apoma
+
+pre préheroyma purika poyman ne s‡apoma
+
+32) ‘noite’
+
+-
+
+33) ‘olho’ merim,
+
+mrim
+
+34) ‘orelha’ pepéna,
+
+penta
+
+35)
+
+‘pai’
+
+-
+
+36) ‘pássaro’ xipú
+
+tamari poñan merin
+penta
+harké sa‡ pu
+
+-
+
+miribuang
+
+-
+
+maripoyan
+
+murim merim merim
+
+meri~
+
+-
+seloá prono
+
+pepéna, penta
+xipú
+
+pepéna
+uaré -
+
+pepéna
+uaré s‡ipu
+
+37)
+
+‘pé’
+
+txaper¤e kakóra cu‡ paröan txaper¤e tsa‡ peré¤ ca‡ pere
+
+38) ‘pluma’ xipu-pé si‡ popé
+
+-
+
+s‡ipu-pé
+
+-
+
+pe
+
+39) ‘porco’
+
+-
+
+so‡ ran
+
+-
+
+40)
+
+‘rio’
+
+-
+
+ñamarte
+
+-
+
+41)
+
+‘sol’
+
+opé,
+
+hopé
+
+kopé
+
+hope
+
+42) ‘tarde’
+
+tes‡are
+
+-
+
+-
+
+43) ‘terra’
+
+-
+
+-
+
+-
+
+44) ‘tronco’
+
+-
+
+bo pranü
+
+-
+
+45) ‘vento’
+
+-
+
+nan dota
+
+-
+
+46) ‘ventre’
+
+-
+
+téké
+
+-
+
+‘barriga’
+
+47) ‘erva’
+
+-
+
+sa‡ púko
+
+-
+
+‘planta’
+
+so‡ rang -
+tasa‡ re, tatsay
+os‡ tengike
+sapakó
+
+27
+
+-
+
+so‡ ran
+
+-
+
+ñamarte
+
+obé
+
+ope
+
+tsa‡ re
+
+osé‡
+
+ose‡
+
+-
+
+po pranü
+
+-
+
+nan dota
+
+-
+
+teki~
+
+-
+
+s‡apuko
+
+3.2.1 Levantamento dos sons da língua Coroado
+
+O quadro (6) abaixo mostra o levantamento dos sons da língua Coroado e o ambiente registrado nos dados dos diversos estudiosos.
+
+Quadro 6 – Sons da língua Coroado
+
+Som Ambiente C1
+
+C2
+
+C3
+
+C4
+
+C5
+
+p
+
+#__C,V 03, 15, 16, 16, 22, 27 , 22, 26, 36 16, 22, 26, 16, 34
+
+22, 26, 28, 32, 34, 44
+
+28, 34
+
+34, 38
+
+p
+
+V,C__V 11, 12, 17, 11, 17, 25, 25, 31, 11, 17, 20, 31, 34,
+
+20, 31, 34, 28, 31, 36, 37, 41, 47 31, 34, 36, 37
+
+36, 37, 38, 38, 41, 47
+
+37, 38, 47
+
+41
+
+p
+
+V,C__C 25
+
+p~m
+
+p~ph~b V___V 15
+
+15
+
+28
+16 15
+
+b
+
+#__V
+
+06, 23, 29 19, 44
+
+b
+
+V,C___V 05, 19
+
+05, 06
+
+b~p
+
+05, 29
+
+06, 26
+
+29
+
+05, 06, 15, 19, 41
+
+19, 32
+
+16
+
+t
+
+#___V 42
+
+32, 46
+
+t
+
+V,C__V 16, 18, 22, 18, 22, 34, 16
+
+34
+
+40, 45
+
+tz
+
+#___V
+
+tx
+
+#___V 37
+
+ts
+
+V__V
+
+ts‡
+
+#___V
+
+46 16, 22, 34 16
+13 07, 20, 37 42
+37
+
+s
+
+#___V
+
+31, 35
+
+17, 47
+
+s°
+
+#___V 31
+
+11, 17, 25, 07
+
+31, 36, 38,
+
+39, 47
+
+s°
+
+V,C__ V 10, 22, 42 10, 18
+
+07, 13, 19, 19, 31 38, 39
+43
+
+s°
+
+___#
+
+43
+
+c°
+
+#___V 07, 13, 18, 07, 13
+
+25
+
+20
+
+07, 13
+
+07
+
+c°
+
+V___V 23
+
+x
+
+#___V 11, 17, 19,
+
+25, 36, 38
+
+11, 31, 36
+
+29
+
+k
+
+#___V 21
+
+k
+
+V,C __V 28
+
+04, 09, 21, 21, 41 37 18, 24, 28, 35, 37, 46, 47
+
+21, 25
+
+21, 25
+
+24, 25, 28, 25 46, 47
+
+g
+
+#___V 08, 09, 10 02, 08, 09
+
+g
+
+___#
+
+g
+
+C___V
+
+g
+
+C___C
+
+22
+
+08, 09
+
+08, 09
+
+15, 17, 22, 30
+
+32, 39
+
+46
+
+m
+
+#___V 10, 33
+
+06, 10, 18, 16, 33
+
+06, 24, 32, 33
+
+24, 33
+
+33
+
+m
+
+C,V___V 21, 29, 31 19, 21, 27, 01, 21, 29 21, 31
+
+01, 21,
+
+32, 40
+
+29, 31
+
+m
+
+V___C 05, 19
+
+m
+
+___#
+
+33
+
+05, 06
+
+30, 33
+
+05, 06, 19 19
+
+33
+
+33
+
+n
+
+#___V
+
+45
+
+n
+
+C,V___V 03, 23, 34 18 , 31, 44 31, 36
+
+34
+
+34
+
+n
+
+C,V___C 34
+
+34
+
+15, 17, 22, 30
+
+32, 34, 39,
+
+46
+
+n
+
+___#
+
+10, 15, 23, 15, 23, 32, 01, 21, 15
+
+01, 23,
+
+29
+
+39, 45
+
+22, 29, 37
+
+29
+
+n~
+
+#___V
+
+n~
+
+C,V___V
+
+30, 40 32
+
+01, 30
+
+30 01, 30
+
+r
+
+C,V___V 07, 22, 25, 04, 07, 22, 07, 22, 07, 14, 22, 07, 33,
+
+26, 28, 33, 25, 27, 28, 25, 26, 26, 28, 32, 35
+
+42
+
+32, 33, 37, 33, 36, 37 33, 39, 42
+
+39, 44
+
+r
+
+V___C
+
+35, 40
+
+r‡
+
+C,V___V 11, 37
+
+11
+
+11, 25, 37 25, 37
+
+h
+
+#___V 12, 41
+
+h
+
+V___V
+
+27, 35, 41 16
+
+y
+
+#___V
+
+23
+
+14
+
+y
+
+C,V___C 21, 29
+
+21, 27
+
+21, 29
+
+21
+
+y
+
+V___V 23
+
+23, 29
+
+y
+
+___#
+
+18
+
+42
+
+21, 29 23
+
+i
+
+C,V___C 03, 28, 33, 28, 33, 38 30, 33
+
+17, 22, 28, 33
+
+36, 38
+
+32, 33, 36,
+
+38, 46
+
+i
+
+C___V
+
+31
+
+i
+
+___#
+
+17
+
+17, 24, 32 07
+
+14
+
+π
+
+___#
+
+24
+
+e
+
+C,V___C 10, 11, 22, 11, 22, 27, 22, 35
+
+11, 17, 22, 30, 33,
+
+33, 34, 37, 33, 34
+
+33, 34, 37, 34, 37
+
+42
+
+46
+
+e
+
+___#
+
+07, 10, 11, 07, 10, 11,
+
+07, 13, 25, 07, 25
+
+13, 37, 41, 13, 18, 40
+
+37, 42, 46
+
+31
+
+42
+
+é
+
+C,V___C 34
+
+19, 46
+
+34
+
+34
+
+é
+
+___#
+
+08, 09, 12, 08, 16, 25, 16, 25, 08, 09, 13, 08, 09,
+
+16, 19, 20, 27, 29, 30, 26, 41
+
+16, 19, 20, 16, 19,
+
+25, 26, 38, 35, 38, 41
+
+26, 38
+
+35, 37,
+
+41
+
+41, 43
+
+a
+
+#___V,C 05, 15, 23 05, 15, 23,
+
+05, 15, 23
+
+28, 29
+
+a
+
+C,V___C 10 , 11, 17, 04, 06, 10 , 01, 21, 06 , 11, 19, 01, 19,
+
+18, 19, 22, 11, 17, 18, 22, 25, 22, 24, 31, 21, 23,
+
+23, 25, 29, 22, 23, 24, 29, 37
+
+32, 37, 39, 29, 31,
+
+31, 37, 42 25, 31, 32,
+
+42, 47
+
+35, 37
+
+35, 36, 37,
+
+39, 40, 44,
+
+47
+
+a
+
+C,V___V 03, 21
+
+21
+
+21, 42
+
+a
+
+___#
+
+03, 06, 21, 02, 04, 06, 23, 31, 35 06, 21, 28, 31, 34
+
+22, 23, 28, 19, 21, 22,
+
+31, 34
+
+31, 34
+
+28, 31, 34,
+
+37, 45
+
+o
+
+#___V,C 41
+
+43
+
+41, 43
+
+o
+
+C,V___C 07, 12, 15, 07, 15, 16, 07, 16, 07, 16, 20, 07, 16,
+
+16, 20, 22, 18, 32, 38, 31, 36, 41 25, 39
+
+25, 31
+
+41
+
+39, 41, 45
+
+o
+
+C,V___V 29
+
+27
+
+21, 29, 35
+
+21, 29
+
+o
+
+___#
+
+44, 47
+
+36
+
+ó
+
+C___C 15, 31
+
+15, 31
+
+32
+
+ó
+
+___#
+
+05
+
+ö
+
+C___V
+
+05
+
+05
+
+05, 47
+
+37
+
+u
+
+#___V
+
+35
+
+u
+
+C,V___C 15, 28
+
+15, 28
+
+01, 25, 28
+
+33, 37, 47
+
+u
+
+C,V___V 08, 09, 21 08, 09, 21 21, 23
+
+08, 09, 21, 08, 09,
+
+32
+
+21
+
+u
+
+___#
+
+36, 38
+
+36
+
+07, 36, 38
+
+ü
+
+___#
+
+44
+
+24
+
+Quadro 7 – Consoantes da língua Coroado
+
+p
+
+t
+
+č
+
+k
+
+b
+
+mb
+
+m
+
+n
+
+ñ
+
+š
+
+r
+
+y
+
+Quadro 8 - Vogais
+
+i
+
+π?
+
+u
+
+e
+
+o
+
+a
+
+33
+Algumas considerações sobre a normalização dos dados da Língua Coroado
+• A escolha da normalização do som mp e não do som mb tem o mesmo fundamento usado para a normalização na língua Purí.
+• Não foi considerada a possibilidade de fonemização de sons oclusivos aspirados, tendo em vista que o som [ph] aparece apenas em um dado (ex. 15) e este flutua com [p] e [b].
+• O som [s] encontrado nos dados coletados por Saint Hillaire e Martius não foi considerado como fonema por figurar em quatro exemplos flutuando com [s]‡ nos dados de outros estudiosos.
+• Embora em alguns conjuntos de palavras [č] flutua [š], outros apresentam apenas [č], o que fundamenta a escolha do primeiro para representar a forma fonológica das palavras que apresentam esses sons.
+• Quanto às vogais, embora os dados apresentem algumas discrepâncias, na maioria dos casos correspondem regularmente.
+• Não há evidencias suficientes para a consideração de vogais intrinsecamente nasais, a partir dos dados usados na presente comparação.
+O resultado da análise realizada até aqui fundamenta a idéia de que os dados correspondentes a C1, C2, C3, C4 e C5 representam variedades de uma mesma língua e não de línguas independentes. As alternâncias encontradas podem ser explicadas como sendo decorrentes da percepção e grafia diferentes de cada estudioso que registrou a língua Coroado, ou pelo grau de proficiência da língua nativa de cada informante. Há ainda que se considerar a possibilidade desses dois fatores juntos terem contribuído para as variações encontradas. .
+
+34
+
+3.3 Comparação dos dados da língua Koropó
+
+Os dados da língua Koropó se distanciam mais dos dados das demais línguas. Na comparação que se segue levou-se em consideração o número reduzido de dados, e ainda, o fato de que poucos desses podem ser comparados com os dados das outras línguas da família.
+
+LÍNGUA KOROPÓ Abreviaturas: K1 – Eschwege; K2 – Martius; K3 – Schott.
+
+Quadro 9 - Normalização da transcrição da língua Koropó
+
+Item lexical
+
+K1
+
+K2
+
+K3
+
+01) ‘você’
+
+gá
+
+02) ‘aqui’
+
+krá
+
+03) ‘boca’
+
+s‡ore
+
+s‡ore
+
+04) ‘cabelo’
+
+ic‡e
+
+ice‡
+
+05) ‘comer’
+
+manksi‡ na
+
+manks‡ina
+
+06) ‘estrela’
+
+dz‡uri
+
+dzu‡ ri
+
+07) ‘gato’
+
+sa‡ pé
+
+s‡apé
+
+08) ‘irmão’
+
+esa‡ tay
+
+es‡atay
+
+09) ‘filha’ 10) ‘folha’
+
+ekto-boem
+
+ekto-boem
+
+c‡upe‡é
+
+11) ‘homem’ goayman
+
+goayman
+
+12) ‘mãe’
+
+ektan
+
+ektan
+
+ayán
+
+k gá krá s‡ore ic‡e maksi‡ na dzuri sa‡ pé sa‡ tay boem cu‡ pe kwayman ayan, ektan
+
+13) ‘monte’ 14) ‘monte
+grande’ 15) ‘mulher’ 16) ‘nariz’ 17) ‘menino’ 18) ‘noite’ 19) ‘olho’ 20) ‘pé’ 21) ‘rio’ 22) ‘tronco’ 23) ‘vento’ 24) ‘ventre’
+‘barriga’ 25) ‘erva’
+‘planta’
+
+pré pré heroy
+boeman si‡ rong s‡apóma merindan ualim ca‡ mbrim kuang mápranlin naran dz‡ota ici‡ n
+sa‡ púko
+
+pré
+boeman si‡ rong s‡apóma merindan ualim c‡ambrim kuang
+naran dz‡ota ici‡ n
+sa‡ puko
+
+xuarin¤
+
+35
+pré pré-heroyma
+boeman s‡irong s‡apoma meri~dã wari~ (h)ware~ c‡ampri~ kwã
+narã dzota ici‡ ~
+s‡apuka
+
+3.3.1 Levantamento dos sons da língua Koropó O quadro (9) abaixo mostra o levantamento dos sons da língua koropó e o ambiente
+registrado nos dados dos diversos estudiosos.
+
+Quadro 9 – Sons da língua Koropó
+
+Som ambiente
+
+K1
+
+K2
+
+K3
+
+p
+
+#__C,V 13
+
+13
+
+p
+
+V,C__V 07, 17, 25
+
+07, 17, 25
+
+p
+
+V,C__C 22
+
+36
+
+b
+
+#__V
+
+09, 15
+
+09, 15
+
+t
+
+V,C__V 08, 12, 23
+
+08, 12, 23
+
+s°
+
+#___V 03, 07, 16, 17, 25
+
+03, 07, 16, 17, 25
+
+s°
+
+V__ V 08
+
+08
+
+c°
+
+#___V 20
+
+20
+
+10
+
+c°
+
+V___V 04, 24
+
+04, 24
+
+k
+
+#___V, C 02, 21
+
+k
+
+C __V 05
+
+k
+
+V__C 09, 12
+
+k
+
+V__V 25
+
+21 05 09, 12 25
+
+g
+
+#___V 11
+
+g
+
+___#
+
+16, 21
+
+01, 11 16, 21
+
+m
+
+#___V 05, 18, 22
+
+m
+
+C,V___V 11, 15, 17
+
+m
+
+V___C 20
+
+m
+
+___#
+
+09, 19, 20
+
+05, 18 11, 15, 17 20 09, 19, 20
+
+n
+
+#___V 23
+
+23
+
+n
+
+C,V___V 05, 18
+
+05, 18
+
+n
+
+C,V___C 05, 16, 21, 22
+
+05, 16, 21
+
+n
+
+___#
+
+11,12, 15, 18, 22, 23, 11, 12, 15, 18, 23, 24 12, 19
+
+24
+
+37
+
+r
+
+V___V 03, 06, 14, 16, 18, 23 03, 06, 16, 18, 23
+
+19
+
+r
+
+C___V 02, 13, 20, 22
+
+13, 20
+
+h
+
+#___V 14
+
+y
+
+C,V___C 11
+
+11
+
+12
+
+y
+
+___#
+
+08
+
+08
+
+i
+
+#___C 04
+
+04
+
+i
+
+C,V___C 05, 16, 18, 19, 20, 22, 05, 16, 18, 19, 20, 24
+
+24
+
+i
+
+___#
+
+06
+
+06
+
+e
+
+#___C 08, 09, 12
+
+08, 09, 12
+
+e
+
+C,V___C 09, 15, 18
+
+09, 15, 18
+
+e
+
+___#
+
+03, 04
+
+03, 04
+
+10
+
+é
+
+___#
+
+07, 13, 14
+
+07, 13
+
+a
+
+#___
+
+12
+
+a
+
+C,V___C 05, 07, 08, 12, 15, 17, 05, 07, 08, 12, 15, 17, 19
+
+18, 19, 20, 21, 23, 25 18, 19, 20, 21, 23, 25
+
+a
+
+C,V___V 08, 11
+
+08, 11
+
+a
+
+___#
+
+17
+
+17
+
+á
+
+___#
+
+02
+
+01
+
+á
+
+V__C
+
+12
+
+á
+
+C__C
+
+22
+
+o
+
+C,V___C 03, 16, 23
+
+o
+
+C,V___V 09, 11, 14, 15
+
+03, 16, 23 09, 11, 15
+
+o
+
+___#
+
+09, 25
+
+ó
+
+C___C 17
+
+u
+
+#___V 19
+
+u
+
+C___C 06, 25
+
+u
+
+C___V 21
+
+09, 20 17
+19 06, 25 21
+
+38
+10, 19
+
+Quadro 10 - Consoantes
+
+p
+
+t
+
+č
+
+k
+
+b
+
+m
+
+n
+
+ñ
+
+š
+
+r
+
+y
+
+Quadro 11 - Vogais
+
+i
+
+u
+
+e
+
+o
+
+a
+
+Algumas considerações sobre a normalização dos dados da língua Koropó
+• Quanto às vogais, embora os dados apresentem algumas discrepâncias, na maioria dos casos correspondem regularmente.
+
+39
+
+• Não há evidencias suficientes nos dados comparados para a consideração de vogais intrinsecamente nasais, embora Loukotka considere a existência de (ã, o~, i,~ õ).
+
+O resultado da análise realizada até aqui fundamenta a idéia de que a língua Koropó deve ser um parente distante das outras línguas da família, pois a maioria dos dados não apresenta cognatos nas outras.
+
+3.4 Ensaio de reconstrução fonológica e de alguns itens lexicais da família linguística Purí
+
+No quadro abaixo é feita uma comparação dos dados normalizados das línguas Purí, Coroado e Koropó com o objetivo de reconstruir uma parte do léxico desta família (*).
+
+Quadro 12 – Ensaio de reconstrução
+
+Item lexical
+
+*P
+
+01)
+
+‘água’
+
+yaman
+
+02)
+
+‘você’
+
+03)
+
+‘anta’
+
+penán
+
+04)
+
+‘aqui’
+
+05)
+
+‘árvore’
+
+mpo
+
+06)
+
+‘beber’
+
+mpa
+
+07)
+
+‘boca’
+
+co‡ re
+
+08)
+
+‘cabelo’
+
+ke
+
+09)
+
+‘cabeça’
+
+kwe
+
+10)
+
+‘comer’
+
+pase‡
+
+11)
+
+‘dedo’
+
+sa‡ brera
+
+12)
+
+‘dia’
+
+opé
+
+*C yaman
+gá painá kará ãmpo
+pa co‡ re gué
+ke mase‡ sa‡ pere ope
+
+*K gá kra
+so‡ re, c‡ore ice‡ , ke
+maksi‡ na, mase‡
+
+* yaman
+gá painan kará mpó mpa co‡ re
+ké
+kwe mase‡ sa‡ pere opé
+
+40
+
+13)
+
+‘dente’
+
+uc‡e
+
+ce‡
+
+ce‡
+
+14)
+
+‘estrela’
+
+s‡uri
+
+yuri
+
+dzuri, yuri
+
+yuri
+
+15)
+
+‘flecha’
+
+apon
+
+apon
+
+apon
+
+16)
+
+‘fogo’
+
+poté
+
+poté
+
+poté
+
+17)
+
+‘gato’
+
+s‡api
+
+s‡apé
+
+sa‡ pé
+
+18)
+
+‘irmão’
+
+s‡atã
+
+ca‡ tay
+
+sa‡ tay, ca‡ tay
+
+c‡atay
+
+19)
+
+‘filha’
+
+s‡ampe –
+
+s‡ãpe
+
+boema
+
+sa‡ mpe
+
+mpayma
+
+20)
+
+‘folha’
+
+dzoplé
+
+co‡ pe
+
+cu‡ pe
+
+co‡ pe
+
+21) ‘homem’
+
+22)
+
+‘lua’
+
+23)
+
+‘mãe’
+
+24)
+
+‘milho’
+
+kuayma, hakorema
+petara ayan makπ
+
+kwayman
+petara ayan makπ
+
+kwayman ayan
+
+kwayman
+petara ayan makπ
+
+25)
+
+‘mão’
+
+kore, sa‡ peprera sa‡ pore, kokor¤e
+
+s‡apore
+
+26)
+
+‘monte’
+
+27)
+
+‘monte
+
+grande’
+
+28)
+
+‘muito’
+
+29)
+
+‘mulher’
+
+30)
+
+‘nariz’
+
+pré pré deka
+
+pre pré-heroyma
+
+pré pré-heroyma
+
+pré pré-heroyma
+
+prika mpayma
+ni
+
+purika poyman
+ye~
+
+boeman
+
+purika poyman
+ni
+
+31) ‘menino’
+
+s‡apona
+
+s‡apoma
+
+s‡apoma
+
+32)
+
+‘noite’
+
+miriponan
+
+maripoyan
+
+merid~ an
+
+miriponan
+
+33)
+
+‘olho’
+
+miri
+
+meri~
+
+sw‡ ari~
+
+meri~
+
+34)
+
+‘orelha’
+
+35)
+
+‘pai’
+
+36) ‘pássaro’
+
+bipina are si‡ pu
+
+pepéna uaré s‡apu
+
+pepéna are si‡ pu
+
+37)
+
+‘pé’
+
+s‡aprera
+
+38)
+
+‘pluma’
+
+si‡ pupé
+
+39)
+
+‘porco’
+
+sotansi‡ ra
+
+40)
+
+‘rio’
+
+mñama róra
+
+41)
+
+‘sol’
+
+opé
+
+42)
+
+‘tarde’
+
+toso‡ ra, tusa‡ hi
+
+43)
+
+‘terra’
+
+guas‡é, usó‡
+
+44)
+
+‘tronco’
+
+45)
+
+‘vento’
+
+pon-réna dzo‡ ta
+
+46)
+
+‘ventre’
+
+‘barriga’
+
+47) ‘erva’ ‘planta’
+
+ou ‘capim’
+
+tiki~
+s‡apúko, spangué
+
+ca‡ pere pe so‡ rã
+yamã rora ope sa‡ re os‡e
+põ pranü nan dota
+teki~
+sa‡ puko
+
+c‡ampri~ kwã
+narã dzota ic‡i~
+s‡apuka
+
+41
+c‡apere pé s‡orã rorá opé
+tus‡ahi ose‡ pranü dz‡ota tiki~
+s‡apuko
+
+42
+CAPÍTULO IV
+4. Considerações finais
+Este trabalho teve como objetivo a revisão da proposta de uma família lingüística Purí de autoria de Chestmir Loukotka.
+O trabalho partiu de uma análise do material lexical de cada uma das línguas comparadas tendo em vista fundamentar propostas de forma fonológica para as palavras dessas línguas. Em seguida, foi feita uma comparação do léxico dessas línguas, em que foram identificadas várias correspondências sonoras regulares, apesar do reduzido número de dados comparáveis. As correspondências apuradas na comparação fundamentaram um ensaio de reconstrução do que teria sido parte do sistema fonológico do Proto-Purí.
+As principais conclusões obtidas neste estudo foram as de que as línguas Purí e Coroado são muito próximas, provavelmente a nível dialetal, em contraste com a língua Koropó nitidamente o membro mais distante da família.
+Este estudo serviu ainda para consolidar a hipótese de Loukotka de que estas línguas fazem parte de uma mesma família lingüística.
+
+43
+REFERÊNCIAS BIBLIOGRÁFICAS
+BURMEISTER, Hermann. Viagem ao Brasil. Livraria Martins Editora S/A. São Paulo 1952. DAVIS, I. 1996. 'Comparative Jê phonology', Estudos Lingüísticos: Revista Brasileira de Lingüística Teórica e Aplicada. KAUFMAN, T. 1990. 'Language history in South America: What we know and how to know more', in: Amazonian linguistics: Studies in Lowland South American languages, ed. D. L. Payne. Austin: University of Texas Press. LOUKOTKA, Chestmir. 1968. Classification of South American Indian Languages. Los Angeles: Latin American Center, University of California. _________________.(1937) 'La familia lingüística Coroado', in Journal de la Société des Américanistes, Nouvelle Série, t XXIX, 1937, pp. 157-214. MARTIUS, Karl F. Philipp von. SPIX, Johann Batit von. Viagem pelo Brasil, 1938. Rio de Janeiro. Imprensa nacional v.1. MARTIUS, Karl F. Philipp V. Glossaria linguarum brasiliensium: Glossarios de diversas lingoas e dialectos, que fallao os indios no imperio do brazil. Erlangen: Junge, 1863. 548 p MASON, John Alden. The languages of South American Indians. In: Julian H. Steward (Ed.), Handbook of South American Indians, Bureau of American Ethnology, Bulletin 143, vol. 6, pp. 157-317, Washington, D.C. 1950. NIMUENDAJÚ, C. 1945 [1980]. Mapa etno-histórico do Brasil e regiões adjacentes. Rio de Janeiro: Fundação Instituto Brasileiro de Geografia e Estatística. RODRIGUES, A. D. (1999b) ‘Macro-Jê’. In: R. M. W. Dixon & A. Y. Aikhenvald (orgs.), The Amazonian Languages, pp. 164-206. Cambridge: Cambridge University Press. SAINT-HILAIRE, Augusto de. Viagem pelas províncias de Rio de Janeiro e Minas Gerais. São paulo: Companhia Editora Nacional, 1938. TORREZÃO, Alberto de Noronha. Vocabulário purí. Revista do Instituto Histórico e Geográfico Brasileiro, tomo LII, parte II, Rio de Janeiro, 1889, p. 511-513. WIED-NEUWIED, Maximilian A, Prinz von. Viagem ao Brasil. São Paulo: Cia Editora Nacional 1940.
+
+44 ANEXOS
+
+ANEXO I
+
+A lista do engenheiro Alberto de Noronha Torrezão: Vocabulário Purí
+
+Achar
+
+Iah
+
+Acender
+
+Kandú
+
+Adoecer
+
+Kondón
+
+Agarrar
+
+Iahga
+
+Água
+
+M’nhàmã
+
+Amargo
+
+Kandjuh
+
+Amarello
+
+Putuhra
+
+Andar
+
+Kehmùm
+
+Anta
+
+Pennân
+
+Arara
+
+Djasvatahra
+
+Arco
+
+Ohmrin
+
+Arroz
+
+Mem’rina
+
+Árvore
+
+Mpó
+
+Assar
+
+Mbôri
+
+Avô
+
+Antah
+
+Avó
+
+Titinhan’
+
+Banana maçan Barbado (macaco) Barriga Batata Beiço Bocca Bacaina
+
+Baoh. Tokeh Tikim Churumùm Tsché Tschoré Djareh
+
+45
+
+Beber Boi Bom Bonito Braço Brajahuba (palm) Branco (homo) Branco (color)
+
+Tch’mbá Tapira Schuteh Schuteh Lacareh Pahtan Haranjúa ohkarôna
+
+Cabeça Cabello Cacao Café Caitetu Calor Canna de assucar Cantar Capim Capiuara Capuêra Carne Carvão Casca Caxorro Caza Cégo Chover Cobra Colérico
+
+Nguê Quê Tembóra Pahrahda Solakon Prehtôma Tupânãrikê Ndl’ôno Chipampeh Bodaqueh Chicopó Arikê Mbòrvan Popeh Shindeh Nguára Ahmripapú Nhã ma ku-uh Shahmûm Kochna
+
+46
+
+Comer Conversar Corda Corrego Couro Curar (eu curo) Cutia
+
+Maschê Tschóre bacoiah Tamah Nhãmanrúri Peh Ah ndond bohkôn
+
+Deitar Dente Dentro Deus Dia Diabo Dinheiro Dormir
+
+Katahra Utsché Kschê Tupã Opeh Ahndl’ahaman Mretetêno katahra
+
+Em pé Entanha Estrella Espingarda Estrada Eu
+
+Pl’euák Kopahra Chúri Bôah Chiman Ah.
+
+Faca Falar Farinha Feijão Feio
+
+Hum’ran Koiah Makiprahra Chumbêna Krohkon
+
+47
+
+Ferro Filha Filho Flexa Flor Florzinha Fogo Foice Folhas Fome Força Frio Fumo Fui
+
+Hum’ran Chambé Chambé Aphon Pl’okeh Pô-pana Poteh Hum’ran Djop’leh Temembôno Mehtl’on Nhamaitû Pokeh Mahmûm
+
+Gambá Gostar
+
+Scháriuô Tl’amatl’i
+
+Homem
+
+Hakorrema
+
+Irmão
+
+Schahtâm’
+
+Jacucaca Jacutinga Jaguatirica Jaô Joelho
+
+Schák-on Pittah Jogót-ahmùm Mboré Tuonri
+
+Lagoa
+
+Nhãma-rorá
+
+48
+
+Lagarto Levantar Língua Lindo Lua Luz
+
+Appehrtô Ml’itôn Toppeh Schuteh Petahra Poteh
+
+Macaco Cacuco Madrugada Mãi Mamar Maminha Mão Mandioca Matar (com ferro) Matar (com pau) Mato virgem Mau Meio dia Mel Meu Milho Moça Mono Morar Morder Morrer Mulher
+
+Tanguah Shipahra Vemudah Inhan Nhamantáhm’bá Nhamantah Chapeprera Veijuh Môm’ran Mopô Tschóre Krohkon Huáratirukah Butan Ah. Maki Mbl’êma shu. Teh Pahra Lekah Trchemurung Mbôno Mbl’êma
+
+49
+
+Nariz Nhambu Noite Nuvem
+
+Ahm’ni Shaprúra Mripôn Huerahschka
+
+Olho Onça Osso Ouro Orelha
+
+Mri Pon-na Am’mi Mretetêna bipína
+
+Paca Papagaio (jurujuba) Passarinho Pai Palmito (palm) Pé Pedra Peixe Penna Perna Póte Pombo Porco Porco castrado Preto Pud. Mulieris Pud. Hominis Púlar
+
+Arotah Shitrohra Chipú Charé Ehkah Chapêprêra Uk’huá Nhamaquê Chipupé Katehra Pon Schandô Sotanxira Açohtl’axira Pehuôno Tocoh Ashim Guaschantl’eh
+
+50
+
+Quati Queixada Quixerenguengue
+
+Schamutan Sôtan Peh’oh
+
+Ramo Sangue Santo Sapo Sauá (macaco) Sol
+
+Horvi Ahtl’im Tupan Shaluh Beht-amûm Oppeh, popé
+
+Tacuara Tardinha Tatú Terra Testa Toucinho Trepar ( em arvore) Trovejar Tumbaca (pássaro)
+
+Uhtl’na Toschá Tutú Uchô Poreh Ahnhimim Bocuah Tupan ruhuhú Kupan
+
+Umbigo Unha
+
+Kah’ira Chapepreraquê
+
+Veado Velho Verde Você
+
+ão’ri Tahé Tongòna dieh
+
+51
+Algumas frases coletadas por Torrezão Acenda o fogo – poteh kanduh Água está fervendo – munhãmá prehtôn Cala a bocca – kandl’ô Eu fui-me embora – Ah mahmûm Eu moro aqui – Ah! Lekah ! Fogo apagou – poteh ndran O tempo está ruim – ohpúêráschka Quebro-te a cabeça com um pão – guê ah mopô! Quero beber caxaça – ah canjana muiá (ah canjana rumbáo) Vá-se embora – má-ndohm’ Vou-me embora – ah! Ndômo!
+
+52
+
+APÊNDICE II
+KOROPÓ Abi! aer, ventus aethiops albus, a, um altus, a, um amare anima animal aqua arbor arcus avis auris bibere bibo bonus, a, um branchium cantare capilli caput cera caro, rnis chorda arcus cito cor, dis cornu
+
+LISTA DE SPIX E MARTIUS
+ga – um naran djota tchsaktabn quattá, gautháma (Sch.) pe-eôá neka-ni-teu oitame orug teign mai-man-kroá, mebn (Sch) ocsoy, kokschaign (Sch) tignam cólim, kohrign (Sch) sóme eigna-schópta (Sch) terankâ (poranga- tupi) tschambrim gangré itsché pitao, ibdaign (Sch) bakidsäi (Sch) egneine kokschaid – schidn (Sch) ga-hoy-pâ ekké koli
+
+53
+
+cras culter da mihi dentes deus diabolus digitus dormire edere edamus! ego esnrio, mak, bagn falsus, a, um ( non versus) filia filius meus est flavu, a, um fluvius folium frater frigidus, a, um frons, tis frutus fulmem, tonitru habeo habesne sagittam ? non habeo herba heri hodie
+
+herinante tschitschayng ga pû shcorim, shorign (Sch) tupan, tophún (Sch) daimon – injauran (Sch) nhatschuman mamnom mankshina mugnadshi (Sch) eign chruan (Sch) schitá ecto-boëmm ectogn-hún (Sch) ecton, ectogn (Sch) tchaitakáma (Sch) cuang tschuptsché (Sch) eschatai ischektáme Polé memptâ te-pu-po-ne papa nek, pa padn pá ? (Sch) brok po (Sch) schapuco kaya hohra
+
+homo albus femina albus sum homo albus ignis illi, hi is, ille infans infra jugulum lac lapis lignum lingua loquor luna lux mamma muliebris viri manus mater meus, a, um mons mori mulier multum nasus niger, a, um nihil nos
+
+54
+chaiobn (Sch) chaiobn-bai (Sch) ekta chraiob-hún (Sch) ké uamtschone mam schapô-ma auwé tschitá-ne endjoctane Nam Ké tupé eignahgnbá (Sch) nasce posêem tschoktadn (Sch) puará (Sch) schambri, tschambrim, schambrign (Sch) ectan, aián (Sch) eign, junhún (Sch) pré-hereu ninguim boëman anguim, ipaignje (Sch) schirong uanán (Sch) tschi eig-mam, eign-mun (Sch)
+
+nox oculus os, oris ovum parvus, a, um pater patera cucurbitina pellis pluvia pollex profundus, a, um radix ruber, a, um sabulum sagitta sane, recte sanguis securis serpens serra sicera sidera sol supra sylva tarde terra tu tu us
+
+55
+merindan uálim, chuarign (Sch) ischoré téme tugnapâ ecta, ektagn (Sch) tustschay tschamnakdsai (Sch) teign tschambrim, chriúna (Sch) doê-papa mempshinta mukerurú, aluchruruma (Sch) cüi-füi pahn, padn (Sch) ja icu kfuin, gchuagn (Sch) kanján (Sch) chmekonditschina (Sch) uanitim. djuri nascéun pêwa mebndai (Sch) pam-me-pâ hâme nime-nen (Sch) nen-junhún (Sch)
+
+56
+
+domus, tugurium veni huc verus, a, um venter vesti vir vos
+
+schéh-me ga-nam pserunhun (Sch) itschin mebdshidn (Sch) goaï-man jang-yaúme
+
+numeri:
+
+1
+
+man, ipaïgn (Sch)
+
+2
+
+gringrim, alinkrin (Sch)
+
+3
+
+patepakon, patapakun (Sch)
+
+4
+
+pate-pe-meschê, patapamasé (Sch)
+
+5
+
+schambri-tschitta
+
+10?
+
+tschambrindaine
+
+canis felis gallus sus blatta orientalis psittacus ara mandioca potio fermentata e mandioca velzea tabacum zea mays
+
+tsoktóme schapé tschefuame Tekenam ingrinngrin (Sch) kakágn (Sch) Kôn kotkusscháuuid (Sch) Aptschign tschumnam
+
+(Sch) = Schott in Nachrichten v. d. oestr. Naturforsch in Brasil. II 48
+
+57
+
+PURI accendere albus, a, um amare aqua arcus ascendere attingere auris aurum bibere bellum bonus, a, um brachium cadere caeruleus, a, um caput coelum collum connubere corpus humanum crus culter dentes deus diabolus dies digitus domus
+
+pothèh, gatchin beorona tammathih mniamã(ng), mniamà mirining bogoüàh galing bipihna nmaranapèhna gambá guascheh thammatih, gamung cocòhra duthàna beroròh guèh ocòra thong geieh immih tschàra-aüra. morandèh tchéh tupang tlong-ah vera schabrera guará vel cuari (tugurium)
+
+58
+
+dormire edere fames
+femur ferire ferrum filia flagellum flavus, a, um flos frater frons herba homo homo albus humerus ignis jaculari juvenis lacertus lardum lignum luctari luna malus, a, um mamma mater membrum virile membrum muliere
+
+thàra paschè, machi tai~m bòna
+cathéra capòh guamarateh mbaima tapira-pèh bethlùnuna pou-baina schemaung porèh Spanguéh guaéma araijo beorona, rayon tabbàh pothèh, pottaeh camaring guaéma tlacâhra nmnimì umbòh tlegapeh phethania tschitangeli mniatà titschèng (e Nasenlaut) seheng taccòh
+
+59
+
+meridies mordere mulier nasus niger, a, um nox nubes obscurus, a, um occidere oculus odisse os, oris os, ossis pater pectus pés pluma podex pulvis ramus respirare ruber, a, um sagitta
+saltare secare senex stella magna stella parva stirps
+
+guaratirucàh tschimurung mbaima ingni beungàna mirribauana haèragga arena schambòhna mirih schtengeli schorèh ammi attèh puiltha schabrera schibubèh utang alkeh po-tihlica tathèh bethlàro ob° ouug
+guaschantleh lintschih schatàma thiùhli miricòdha pou-rèna
+
+60
+
+silva telum pyrium tempus matutinum terra testiculi venari venter vesper veste viridis, e umbilicus unguis velle
+
+montay baüàh tuschàra guaschèh schimbacci uiragach tiquing tuschahih pakeh tòngonna cahira schabrera peh Gabloh
+
+quo nomine mater tua nominatur? da mihi alacersum vir alacer moereo dormire, dormitare bibere volo fructus musae sapientur phaseolus zea mays cortex frutus musae fructus citri fructus citri acidi fructus lecythidis tabacum
+
+titscheng nianitschoh? ung-pu thamathih guaima thamathih thamaring thong gamung, thara harumbaùa bahòh tlambèna maky bohòh-peh cahiramnuma tariniàna tornkaèh póke‡
+
+61
+
+COROADO I (Rio xipotó)* accendere albus, a, um amare anima annus aqua arcus ascendere avis auris barba bibo, ere bellum bonus, a, um brachium
+brevis, e caeruleus, a, um calidus, a, um canus, a, um capillus caput carbo charta clamre clavis clerius cochlear coelum
+
+cahúanma crayó tima tanguéta potéta mniamâ, mhaman mirinang, merinde macawan chippú péuti, pepehna sipònta ba garapé tanne ca‡corre, cacora
+corouàma nohna préton-ma pé, come, cama gué gueh poté, sicrém tapèra, tapèrra (port) quaré, nakan sèvi (port) uahre tachetschina tanguèng
+
+62
+
+collum cor cornu taurinum cortex cras crus culter corramus cutis taurina cymba dentes descendere deus diabolus digitus dare domus dormire dorsum ego eo, ire esurio, ire fêmur ferire ferrum filum filia filius fistula fumaria
+
+tong tokera tapìra pènti pe herinanta intschara tina bricang tapìra pèh gará, pirsge scheh, tzéh, tsché guàgú tupàng niuirang chaperré mayáme gayudo guàra capari, tehrégreme nera buhme mahé, maiake gàvumung areteur bonum sùbryeh tí mopó gàmang, camaran calenyawéna chambé chapoma boceh, ombóh
+
+63
+
+flavus, a, um flos foedus, a, um folium foris frigigus, a, um frons, tis fulgur herba homo homo albus homo niger hostis humerus ignavus, a, um ignis infirmus, a, um indus indusium infans juvenis labium lacus lapis lardum laterculus lignum ligo línea
+
+tschàtecana poponaim crotchma tchopé te nam nhamantá pohré paté-tacuem sapacoh guaima, cuciman laiya tabagniúh arem grantshira carin-tà meritoncòn-há botèh, pote, putapé tchotáma tshiméon guimisài (camiza - port) chapóma nimuìhma, knaynha-mona tshoré-pé poporta ùcah sorobem, d’joran-pé bopeh ambòh, bondau catasena catibèma
+
+64
+
+língua longus, a, um loqui luna luna primo luna nova macer, a, um madeo magnus mamma manus mater mel silvester membrum virile membrum virile muliebre mensa mentum meridies missa mons morior mútus, a, um mulier nasus non nox obscurus, a, um oculus os, oris
+
+tobeh suquenuáma, heréma cuayá pitarang, petahra grilepa ovon aricubacòma, harinké pakon. mniam-pe bamonotôma mniamélla, rhamanta, cocorre nhaman, batshána. pntàng seug tocòh boropàma chaperronta hopé, prétui, granam màngwipang pré tagranhon pourica aye, boyman, baiman nhieng candgé miribuang, mari pawanta marim ponwan mereng, merim schòry, tzòry, tcharé
+
+65
+
+os, ossis ovum ostendere panis pectus
+pés pingere pinguis pluma pluvia pluit pulcher, a, um praedator puella puer ramus repirare ruber, a, um saccharum saccus sagitta securis semiae thiops senex sic, sane sidera sol sóror spiritus vini
+
+d’jarra paki pomanwy tarúma pui‡ ra
+sharu, t’chaperré pirirehma teschama nheme schàru peh, chippupe mniamâ mniang butehma puri cambe sibòhma bo-d’jarta mate-ûan tchoga ingró cuan-rim sacombé abòng, aphòn gâmarang, baretana bruttùh cajacama ya moeni jurìh obèh yécuen aântancos
+
+66
+
+stare sylva tempus - matutinum terra testuculi túnica muliebris vena venari veni-huc venter vesper vestes vis viscera umbilicus
+
+preohá monteh,, monteh-hercuma itschi-cáya ariná osch cibáki gattih premhé chipúróna gavena tengike tatusàih, tashare atih tépán-mo tekin sabry pui‡ ta
+
+numeri : 1 2 3 4 10
+Arundo babusae Aurantium pomum Citreum pomum Lagena, fructus cucuraitao Fructus musae sapientun
+
+tschambiüan tschíri pa-tapacun pa-panidé tschabrandáitsche (digitus alatis)
+graúng oamrinra (Schott) lareng (laranja port) limang (lima port) ripich bacoëng
+
+67
+
+Fructus musae paradisiacae Oryza Phaseolus Psidium Tabacum Bambusa Musa Filix Zea mays
+
+bacoëng urussú (arroz port) fischong (feijão port) bohrucéh abtschign oamrinra bacoba premprem maheky
+
+* Coroado – Rio Xipotó Von dieser horde finde sich mehrere Vocabularien aufgezeichnet: bei schott (Nachrichten von den K. östreich. Naturforschern II, Tagebuch S.41) bei Augusto de S. Hilaire (Voy. dan les prov. de Rio de Janeiro e Mina p. 46) und bei Eschwege (Brasilien, die neue Welt I S. 232) Wir selbst haben eine wörtersammlung aus dem munde der Coroados am Rio Xipotó aufgenommen, welche wir hier (I) weidergeben. Eine viel reichere, welche wir (II) folgen lassen, is durch die vereinten BemÜhungem der italienischen Capuziner, welche die Coroado in der Aldea da Pedra oder S. Jozé de Leonissa katechisaten und des cap. Marlière intstande, dem wir sie, eben so wie v. Eschewege die seinige, verdanken. Die Schreibung der ersten ist deutsh, die der zweiten ungleich, meisten portugiesisch, und es ist nicht zu verkennen, dass die Härten gehäufter consonante nicht rechnung getragen hat. Manche worte sind von ihnen aus der língua geral für den Zwech der katechetisation herüber genommrn worden; andere dürften ursprünglich dem Idiome der Coropós, Puris und Aymorés angehören. Grammatikalisch konnte dieses bunte Sprachgemisch von den Missionarien schon desshalb nicht festges tellt werden, weil ihre katechumenen nicht Lange bei ihnen aushielten und besträndig wechselten. So mögen denn diese listen zumal als maasstab von dem Grade des Vermischung und gegenseitiger Umänderung mehrerer benachbarter Idiome dienen.
+
+68
+
+COROADO (Aldeia da Pedra) abscondere accessus (aditus) acuere adolescens (juvenis) adspectus adulator aedificare aemulus, a, um aeternitas affinis albus, a, um agere (facere) amare (diligere) amor amplexus anima animal animal mansuetum animuss fortis animun intendere annulus (orbis) annus aqua arbores desectae arcus ardere (fervere) arma deponere asperitas ( inclementia)
+
+upolatschá doy-mon camaca-bey mache cónha mawwy recon gue walenna guira puy araya hin dá gá cónha maconkéna Crayó arebopayá-pa tima timtani-ti-hé ré-ráca tanguéta tshamma carocon nanatshé-tohy tipimo-tèn-han créya téka chaperré-pànna botéta nhaman amcó nayman merinde, mrinhi coaré ponhry nicajkemitatieran tschétégaká
+
+69
+
+auctus (amplificatus, a, um) auris auribus pronis aliquid accipere avia aviditas balbutire balneum balsamum barbam tondere bibere bonum, benignitas bonus, a, um - vir bona mulier brachium caducus, a, um caecare caecus, a, um calefiere calidus, a, um callidui, a, um calvária, cranium canus, a, um capilli caput carbo caro, nis
+- ferina caseus
+
+capahón metshy pepehna, penta catshoté nhamantshitag tekchin-ten tekin d’jokon yamticahé baerim-bó chapronra lepingua mnmbá, ba detan-tica tanne tanne euoinan boiaman tanne cacora, nhat tschotáma meriba tona meuréca pote quotén préton-ma tekind’jákon gué chúma pé come, cama gué gué tepá ibretóma hanike pépáhme topira nhamanta
+
+70
+
+caudis arboris cavea cavus, a, um (concavus) cerebrum chorda arcus cicatrix circulus arbor citri aurantii citreum pomum citrus, arbor clamare claudus, a, um claudus, a, um cochlear (lígula) coci nux indica cocus nucifera coelum coeruleus colores cor, dis corium córtex arburis crus dens descendere devorare digitus dimidius, a, um dormire
+
+ambo cicrin chippu gúara dohré guê múm muy merinde paké crapontóma craumá lané ambó cadgéne, lima (port) ambó guaré nokan d’jarra pèn-ma d’giarce dé páma tachetschina paton potan ambó takúem nahna gauneké tokera tshama-pé pé aripanhan tché guà gù roetin ambonehéhon chaperre crápá terá, tehré, greme
+
+71
+
+duo ego equus facere fames farina farina mandioca felis chopi femina mulier ferire ferrum filia filius filius soceri filix filum flavus, a, um flos fons, scaturigo trans fluvium frater hic, ecce - est - ist hi, illi hoc - omme, haec cuncta hominis hostis
+
+tshéré maiake, maké cawaru (cavalo port) brotshén areteur bónum maké bijú pembé boymam ti mopó camaron chambé chapoma chambé cuéra preprém calenyawéna tschaitacama, tschá-te-càna poponaim nhaman purerenim nhaman-tochéta tschatay coain grã màn grana tehon newahon mánetehon manéte erekéma tshuméma arem grantshira
+
+72
+
+humanus, a, um humerus ignis ignem accendere indianus infans jeus lignum lingua luna lux magnus, a, um mandiocae radix mater mater famílias metum meus, a, um mons montem eniti multus, a, um musae fructus mutum esse narratio natare niger, a, um non, minino novus, a, um nox, etis obscurus, a, um
+
+hesakind’jó carin-tá poté poté caten tschiméon chapóma tupea mataleka bonday topé petáhra putapé herenma cichú nhaman batschána ayan chaperronta behuàn pré prê ûan pourica pokó pente puri gacon petáhna nhamen gré uanán condjé saputin mari pawanta marim ponwan
+
+73
+
+oculus os os parvus os rubrum os ossis ovum panis pater pectus pes, dis pedis planta pluam porcus puer puella ramus ruber, a, um sagitta securis serpens sol sol dies solis spuma stare sylva tabacum (herva nicotiana) tapirus americana (anta) tempus tempus matutino
+
+merim, mereng, hmrim tshoré tschore penbém mucherura d’jarra arinha poké tarúna hale, uaré puará t’chaperré t’chaperré bay pé, chippupe, schipé schoran knay nhamona nhatama bó-d’jarta muchruruma, tshega ingró pun, aphon cramman baretuna schanmun obéh, opeh tupanpaya nhamam papan préoha betá, hercuma boké paina itshicáya ariná
+
+74
+
+veni huc! taurus avis
+
+gavéna tapira cuéne chippú
+
+

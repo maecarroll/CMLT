@@ -1,0 +1,602 @@
+Luca Ciucci
+La flessione possessiva del chamacoco*
+In Chamacoco (Zamucoan) nouns can be divided into possessable and non-possessable. Possessable nouns are characterized by a prefixation whereby the noun agrees with the possessor or genitival modifier. This article proposes a descriptive classification of Chamacoco possessable nouns and analyses the morphology of possessive inflection. Few possessable nouns have also a non-possessable form which is also discussed in this article.
+1 Introduzione
+Il chamacoco è una lingua parlata in Paraguay, nel dipartimento dell’Alto Paraguay, da circa 1600 persone;1 insieme all’ayoreo appartiene alla famiglia linguistica zamuco. Lo scopo di questo articolo è quello di descrivere la flessione possessiva del nome; questo lavoro si inquadra nell’ambito di un progetto più ampio di documentazione e descrizione della famiglia linguistica zamuco, che vede in corso d’opera la stesura di una grammatica del chamacoco.2
+I dati impiegati provengono dalle mie indagini sul campo, svoltesi tra l’agosto e l’ottobre del 2009; nel corso di questa esperienza ho avuto l’opportunità di soggiornare all’interno di una famiglia indigena, il che mi ha consentito di non limitarmi ad una mera analisi linguistica, ma di osservare quotidianamente l’impiego della lingua nelle normali interazioni tra i parlanti.
+Tornando alla flessione possessiva, il punto di partenza della raccolta dei dati è stato costituito dai paradigmi flessivi forniti da Ulrich & Ulrich (2000), che sono stati
+* È mio desiderio esprimere la più viva gratitudine a Matthew e Rosemary Ulrich per l’aiuto decisivo fornitomi durante la fase di organizzazione delle indagini sul campo, nonché nel corso delle indagini stesse. Ringrazio inoltre Pier Marco Bertinetto, con il quale ho discusso il contenuto di quest’articolo, ed Emanuele Saiu per l’aiuto fornitomi nell’analisi fonetica e per le attente osservazioni in merito al presente articolo. Ovviamente, sono io l’unico responsabile di eventuali errori. 1 Per maggiori dettagli si vedano Fabre (2007a) e Combès (2009). 2 Tale progetto si sta svolgendo presso la Scuola Normale Superiore di Pisa dal 2007. Le lingue zamuco non hanno ancora una descrizione grammaticale impostata su basi scientifiche; per quanto riguarda l’ayoreo, Pier Marco Bertinetto e il presente autore stanno lavorando ad una grammatica di cui è stata già fornita un’anticipazione in Bertinetto (2009).
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+interamente verificati sul campo: i dati riportati nel dizionario sono in genere corretti, ma non sempre completi; pertanto si è reso necessario integrare i dati forniti dagli Ulrich ed ampliare l’insieme dei paradigmi che hanno una flessione possessiva; durante la fase successiva del lavoro si è quindi provveduto alla sistematizzazione (mai svolta prima d’oggi) dei dati relativi alla flessione possessiva che sarà oggetto del presente articolo; la stessa analisi si è svolta per la flessione possessiva dell’ayoreo (Ciucci 2010d). È poi seguita una comparazione tra la flessione possessiva dell’ayoreo e del chamacoco; una fase intermedia di questo lavoro è stata presentata a Nijmegen (Ciucci 2010a), mentre i risultati conclusivi sono stati presentati durante un invito da parte dell’università di Leipzig (Ciucci 2010b).
+Per il chamacoco esiste già un sistema di trascrizione stabilito dalle stesse comunità indigene con l’aiuto dei linguisti Matthew Ulrich e Rosemary Ulrich; tale trascrizione è basata su un attento studio della fonetica e della fonologia del chamacoco (Ulrich & Ulrich 1989a, 1989b)3 ed è impiegata nei testi utilizzati dalle comunità chamacoco nelle scuole. 4
+3 A tal riguardo si segnalano (Ulrich & Ulrich 1990a, 1990b). Prima dell’avvio di questo progetto di ricerca, la fonetica e la fonologia della lingua sono stati gli unici ambiti del chamacoco ad aver trovato una descrizione sistematica, proprio a causa della necessità di stabilire un sistema di trascrizione per le comunità chamacoco (Ulrich & Ulrich 1989a, 1989b); questo non significa ovviamente che tutti gli aspetti della fonetica e della fonologia del chamacoco siano stati chiariti; siamo, anzi, di fronte ad un filone di studi ancora fertile. Nel Laboratorio di Linguistica della Scuola Normale Superiore si è cominciata un’analisi delle registrazioni raccolte durante la mia esperienza sul campo. Venendo ad altri lavori sul chamacoco, non si può fare a meno di segnalare Sušnik (1957); purtroppo si tratta di un lavoro oscuro e dal quale si possono estrapolare dati interessanti solo a condizione che il lettore abbia già una buona conoscenza della lingua chamacoco. Si segnala anche l’esistenza di un altro sistema di trascrizione per il chamacoco, ideato dall’antropologo Guillermo Sequera, che ha svolto un lungo e poderoso lavoro di documentazione (in gran parte ancora inedito e di cui dunque si auspica la pubblicazione) sulla cultura chamacoco. 4 Il sistema di trascrizione qui adoperato, stabilito da Ulrich & Ulrich, segue sostanzialmente quello dello spagnolo; ai fini della comprensione di questo articolo, ci limitiamo a precisare le seguenti corrispondenze: <ch> [ʨ], <h> [h], <hl> [l]̥ , <hm> [m̥ ], <hn> [n̥], <hy> [j]̥ , <j> [x], <r> [ɹ], <rc> [ɻɕ], <rz> o <rrz> [ʐ], <sh> [ɕ], <y> [j] (ma anche [ʥ] o [ɲ]), <ɨ> [ɨ]. Il diacritico <ˆ> indica la nasalità delle vocali; la lunghezza vocalica avrebbe inoltre valore fonologico secondo gli Ulrich e viene indicata scrivendo due volte la vocale.
+2
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+2 Nomi possedibili e non possedibili
+Il chamacoco dispone di strumenti flessivi per concordare il nome con il suo possessore o comunque con il modificatore che lo precede. Non tutti i nomi dispongono però di tale possibilità morfologica e a tal riguardo si deve effettuare una distinzione tra nomi possedibili e nomi non possedibili; questi ultimi non dispongono infatti di alcun meccanismo flessivo che faccia concordare il nome con il suo possessore. In tal caso, ove occorra, il riferimento al possessore viene espresso facendo precedere il sostantivo dal pronome personale corrispondente, in base all’ordine genitivo-nome (o, in senso più generale, modificatore-modificato) che è proprio del chamacoco; prendendo come esempio hnɨmich ‘terra’, sostantivo non possedibile, avremo: yok hnɨmich ‘la mia terra’, owa hnɨmich ‘la tua terra’, ɨre hnɨmich ‘la sua terra’, eyok hnɨmich ‘la nostra terra (1pi)’, ôryok hnɨmich ‘la nostra terra (1pe)’,5 olak hnɨmich ‘la vostra terra’, wɨr / ôr hnɨmich ‘la loro terra’.
+Non è possibile stabilire a priori se un nome avrà la flessione possessiva, però si possono segnalare alcune restrizioni, in primo luogo semantiche, in secondo luogo diacroniche. Riguardo alle restrizioni semantiche, come per l’ayoreo i nomi di piante (es. osdiita ‘caraguatà’) e di animali (es. pohoch ‘cane’) non possono mai essere direttamente posseduti; le poche eccezioni che hanno una flessione possessiva sono impiegate per riferirsi a piante e animali in senso generale, come ijôrta (3) ‘pianta’,6 usato prevalentemente nella forma plurale ijôro (3), e echɨt (3) ‘animale domestico’; quest’ultimo sostantivo corrisponde a gachidi (3) dell’ayoreo, usato come classificatore possessivo per gli animali domestici.7
+Il secondo limite della flessione possessiva è di natura diacronica, perché il meccanismo sembrerebbe non essere più produttivo in sincronia: questo significa che in genere le numerose parole entrate come prestiti dal castigliano non hanno flessione possessiva; un sostantivo come ijɨt (3) ‘figlio’, dallo spagnolo hijo, è possedibile, ma si tratta di un caso particolare che nell’uso ha addirittura sostituito al singolare l’originaria parola indigena per ‘figlio’ (aap); al plurale invece sopravvive ancora la
+5 In chamacoco alla quarta persona è presente una distinzione tra persona inclusiva ed esclusiva (v. Ciucci 2009a). 6 D’ora in poi, per ogni forma dei nomi possedibili si indicherà la persona tra parentesi. 7 Come si constaterà tra poco, il chamacoco, unica tra le lingue del Chaco, sembrerebbe non disporre di classificatori possessivi; l’esempio mostra come un classificatore possessivo dell’ayoreo quale gachidi (3) ‘animale domestico’ corrisponda a un nome possedibile del chamacoco: echɨt (3) ‘animale domestico’.
+3
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+forma nativa aabo (3) ‘figli’, in concorrenza con ijo (3) ‘figli’ (plurale di ijɨt): come si vede dal fatto che sono indicate come forme di terza persona, sia aabo (3) che ijo (3) hanno la flessione possessiva. Se ijɨt ha avuto il tempo di sostituire una parola indigena del lessico fondamentale, si può dunque ipotizzare che la parola sia entrata nell’uso in una fase alquanto remota del contatto con il castigliano, in un momento in cui la flessione possessiva era ancora produttiva;8 non si riscontrano altri prestiti dallo spagnolo che hanno la flessione possessiva; ad esempio, per esprimere il significato di ‘casa’, per il quale non valgono le restrizioni semantiche che potrebbero renderne impossibile il possesso diretto, si possono impiegare due parole, ihyuch (3) e pwertɨt; la prima è la parola originaria e ha la flessione possessiva,9 la seconda invece è un prestito dal castigliano puerto ‘porto’, che si trova nei toponimi della zona costiera del Rio Paraguay abitata dai Chamacoco (es. Puerto Diana, Puerto 14 de Mayo10 ecc.): puerto, adattato come pwertɨt, ha dunque subito un restringimento semantico indicando non più l’insediamento, bensì la singola casa; in quanto prestito, non ha la flessione possessiva.
+Nei nomi possedibili la flessione possessiva è realizzata morfologicamente da una prefissazione; non si segnala alcuna interazione tra l’espressione del possessore e la suffissazione del sostantivo, che indica il genere, il numero e la forma;11 per questo motivo la flessione del possessivo e la suffissazione saranno rispettivamente oggetto di una trattazione autonoma.12 La ripartizione dei sostantivi in possedibili e non possedibili, e la conseguente prefissazione che caratterizza questi ultimi costituiscono elementi per i quali il chamacoco dimostra un’affinità areale con le altre lingue del Chaco.13 Con i nomi non possedibili non si è riscontrata, almeno per momento, la
+8 In ayoreo, lingua in cui il contatto con il castigliano è molto più recente, la flessione possessiva è ancora produttiva, come si vede dal fatto che viene impiegata anche per i prestiti dal castigliano (Ciucci 2010d). 9 Già in Baldus sono attestate forme riconducibili a questa parola (Baldus 1932: 405). 10 Puerto 14 de Mayo fu fondato da Guido Boggiani, il primo ad aver dato un contributo significativo agli studi antropologici e linguistici sui Chamacoco (Boggiani 1894: 28). 11 Come in ayoreo (Bertinetto 2009), anche in chamacoco gli elementi nominali possono avere una forma piena, base o indeterminata. A differenza dell’ayoreo, in chamacoco, per una serie di motivi che, intersecandosi, vanno dal contatto linguistico, all’evoluzione diacronica della lingua nel contesto della famiglia zamuco, fino a fenomeni di natura morfofonologica, la distinzione tra forma base e forma piena sembrerebbe attraversare un processo di graduale sparizione. 12 Il funzionamento della suffissazione nominale del chamacoco sarà esposto in un prossimo lavoro. 13 Solo il vilela (lule-vilela) fa eccezione, non impiegando prefissi per esprimere il possessore; si veda a tal proposito Fabre (2007b: 70). Nel riferimento a caratteristiche areali è implicito che anche in tutte le
+4
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+
+presenza di classificatori possessivi: in questo il chamacoco si discosterebbe invece notevolmente dai dati forniti dalla tipologia areale (Fabre 2007b), perché sarebbe la sola lingua del Chaco a non avere classificatori possessivi.14
+
+3 Struttura generale dei nomi possedibili e classi flessive
+La struttura del nome possedibile è analoga a quella del verbo: la radice è preceduta dalla vocale tematica che può mutare in base alla persona; radice e vocale tematica formano il tema, che può a sua volta essere preceduto da un prefisso (1).
+
+(1) Struttura del nome possedibile
+
+TEMA
+
+PREFISSO + (VOCALE TEMATICA) + RADICE
+
+La morfologia del verbo potrebbe sembrare più complessa (Ciucci 2009a), ma si deve tener conto che è strutturata su due livelli: bisogna infatti distinguere tra le persone ‘morfologicamente autonome’ (le tre persone singolari e la quarta inclusiva) e persone formate a partire da queste (quarta esclusiva, quinta e sesta persona), dunque ‘morfologicamente dipendenti’.15 In (2) gli elementi più interni della struttura (prefisso, vocale tematica e radice) servono per formare le persone del verbo che hanno un comportamento morfologicamente autonomo; tra parentesi quadre sono invece indicati gli elementi impiegati per formare persone ‘morfologicamente dipendenti’. Come si vede, la struttura della flessione possessiva (1) ha dunque gli
+
+altre lingue della famiglia zamuco, vale a dire l’ayoreo (Bertinetto 2009; Ciucci 2010d) e lo zamuco attestato da Chomé nel XVIII secolo (Chomé 1958), si ha una distinzione tra nomi possedibili e non possedibili ed una prefissazione che caratterizza i nomi possedibili. 14 Data l’assenza di lavori scientifici sul chamacoco, in un lavoro di tipologia areale quale Fabre (2007b) non sono riportati dati sul chamacoco; lo studio di Fabre non prende in considerazione lo zamuco attestato da Chomé (Chomé 1958), in quanto lingua morta. 15 Le implicazioni che comporta tale distinzione tra persone ‘morfologicamente autonome’ e ‘morfologicamente dipendenti’ sono in parte già state analizzate in (Ciucci 2009). Nel corso delle indagini sul campo si è notato che meccanismi che portano alla formazione delle persone ‘morfologicamente autonome’ non sono ormai più produttivi, mentre quelli che formano le persone ‘morfologicamente dipendenti’ sarebbero ancora produttivi.
+5
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+
+stessi elementi della flessione verbale delle persone morfologicamente indipendenti (2).
+
+(2) Struttura del verbo
+
+TEMA
+
+[PREFISSO] + PREFISSO + (VOCALE TEMATICA) + RADICE + [SUFFISSO]
+
+Come nella flessione verbale, anche nella flessione del nome non tutti gli elementi sono sempre fonologicamente espressi: l’unico ad esserlo è, ovviamente, la radice, mentre la vocale tematica può mancare e il prefisso può essere nullo. Si è detto inoltre che le persone morfologicamente indipendenti, il ‘nucleo’ della flessione verbale, sono le prime tre e la quarta inclusiva; nel sostantivo invece solo le prime tre persone hanno la flessione possessiva. Nel nome, alla terza persona si deve operare una distinzione tra una terza persona non riflessiva e una terza persona che ha valore riflessivo; quest’ultima viene impiegata anche per la sesta persona riflessiva. Al plurale il possessore si esprime come per i nomi non possedibili, vale a dire facendo precedere il sostantivo dal pronome personale corrispondente; tra le possibili forme del sostantivo, quella impiegata è sempre la forma di terza persona non riflessiva. D’ora in poi, per semplicità, si chiamera ‘terza persona’ la terza persona priva di valore riflessivo, mentre si chiamerà ‘terza persona riflessiva’ o ‘persona riflessiva’ la terza persona con valore riflessivo.
+(3) p-i-hyuch (1s), a-huch (2s), i-hyuch (3), l-a-huch (rfl), eyok i-hyuch (1pi), ôryok i-hyuch (1pe), olak i-hyuch (2p), ôr i-hyuch (3p) ‘casa’ 16
+La terza persona è dunque la forma di base della flessione possessiva; a partire da questa si costruisce infatti l’intero paradigma flessivo: come si vedrà nel corso dell’analisi, è più facile risalire dalla terza persona non riflessiva alle altre forme flesse che viceversa; anche nella morfologia verbale si è individuato nella terza persona la forma di base, che poi si è imposta come criterio per la classificazione del verbo (Ciucci 2009a). Per citare un nome possedibile si impiegherà la forma di terza persona singolare.
+
+16 La sesta persona non riflessiva non è realmente distinta, neanche sintatticamente, dalla terza persona non riflessiva; ôr (3p) non sembra essere obbligatorio, benché in taluni casi risulti necessario per disambiguare il possessore. Si esporranno in altra sede gli impieghi sintattici di ôr.
+
+6
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+
+La terza persona può essere formata, in ordine di complessità decrescente, da un tema prefissato (l-a-tahacha ‘matrigna’), dal solo tema (e-chɨt ‘animale domestico’) o dalla sola radice (nêrpta ‘camicia, vestito’). In base al modo in cui si forma la terza persona si distingueranno tre classi di nomi possedibili, ciascuna con peculiarità che si analizzeranno trattando di ogni singola classe: i nomi che formano la terza persona con un prefisso consonantico si chiameranno nomi ‘in consonante’ (o ‘consonantici’); quelli che invece alla terza persona hanno il solo tema si chiameranno nomi ‘in vocale’ (o ‘vocalici’); quelli formati dalla sola radice, nomi ‘in radice’ (o ‘radicali’). La classe numericamente più consistente è quella dei nomi ‘in vocale’.
+Questi modi di formare la terza persona, e le classi flessive che ne derivano, si sono già osservati nel verbo, dove si sono individuati, tra l’altro, una classe di verbi ‘in vocale’ (4) e una classe di verbi ‘in radice’ (4); la maggior parte dei verbi, aventi un prefisso consonantico alla terza persona, era stata ripartita in due classi distinte (4). Nel verbo il ‘prototipo’, per così dire, è costituito dai gruppi di verbi ‘in consonante’ (ossia con prefisso alla terza persona) che sono appunto i più numerosi (e i più regolari). Nella flessione possessiva, invece, i nomi ‘in vocale’ sono quelli più prototipici e corrispondono alla classe dei verbi ‘in vocale’, che con pochi elementi è posta alla periferia del sistema verbale; le classi formate da nomi o verbi ‘in radice’ sono marginali in entrambi i casi. Il fatto che i verbi nella maggior parte dei casi optino per il prefisso alla terza persona, mentre i nomi per la sola vocale tematica, assicura nei due sistemi una certa complementarità che agevola la distinzione morfologica tra nome e verbo. Inoltre, si può anticipare fin da ora che nel nome non sono mai usati prefissi quali ch-, s-/sh- e t-, ossia quelli impiegati con più frequenza nel verbo; ciò ovviamente è funzionale ad evitare confusione tra verbo e nome alla terza persona, ossia nella forma base della flessione.
+
+PRIMA MACROCLASSE: verbi con prefisso consonantico alla terza persona
+
+SECONDA MACROCLASSE: verbi senza prefisso consonantico alla terza persona
+
+PRIMA CLASSE
+prima sottoclasse: verbi in ch-
+
+SECONDA CLASSE
+
+TERZA CLASSE:
+
+verbi in vocale
+
+seconda
+
+terza
+
+quarta
+
+sottoclasse: verbi in s(s-, sh-)
+
+sottoclasse: verbi in t-
+
+sottoclasse: verbi in d(d-, l-, n- e y-)
+
+(4) Classificazione per i verbi del chamacoco (Ciucci 2009a).
+
+QUARTA CLASSE: verbi in radice
+
+7
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+
+Guardando inoltre la tabella di classificazione del verbo (4), si può notare che tra le sei caselle in basso, corrispondenti ad altrettanti gruppi di verbi, le possibilità morfologiche di cui si serve la flessione possessiva corrispondono alle tre caselle di destra della tabella, che appunto corrispondono ai gruppi di verbi meno numerosi. Proprio perché la flessione del nome ha la stessa struttura delle persone morfologicamente indipendenti del verbo, ricorre a strumenti morfologici che hanno impiego limitato in morfologia verbale. La scomposizione morfologica qui proposta e la conseguente classificazione che si seguirà nel corso dell’articolo seguono un’ottica descrittiva; sul piano strutturale, si imporrebbero invece considerazioni in parte diverse, anche perché, considerando la sola flessione possessiva, a livello strutturale nei nomi ‘in consonante’ e ‘in vocale’ la radice includerebbe anche la vocale tematica.
+Venendo alla formazione delle persone, la prima è formata dal prefisso p-, dalla vocale tematica e dalla radice.
+
+(5) a. b. c. d. e.
+
+p-aa-bo (1s) ‘figli’; cf. aa-bo (3) p-a-rmɨsta (1s) ‘sangue’; cf. a-rmɨsta (3) p-e-chɨt (1s) ‘animale domestico’; cf. e-chɨt (3) p-i-hyuch (1s) ‘casa’; cf. i-hyuch (3) p-i-jɨt (1s) ‘figlio’; cf. i-jɨt (3)
+
+La seconda persona non ha prefisso, ma ha solo la radice e la vocale tematica che, come si può osservare dagli esempi, può subire un mutamento rispetto al resto del paradigma (6d,e), talvolta accompagnato anche da un mutamento della radice, come in (6d).
+
+(6) a. b. c. d. e.
+
+aa-bo (2s) ‘figli’; cf. aa-bo (3) a-rmɨsta (2s) ‘sangue’; cf. a-rmɨsta (3) e-chɨt (2s) ‘animale domestico’; cf. e-chɨt (3) a-huch (2s) ‘casa’; cf. i-hyuch (3) ey-jɨt (2s) ‘figlio’; cf. i-jɨt (3)
+
+La seconda persona della flessione possessiva si forma esattamente come per il verbo, vale a dire senza nessun prefisso e con eventuali mutamenti nella radice e nella vocale tematica.
+
+8
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+
+A partire dalla seconda persona, aggiungendo il prefisso d-/l-17 si forma la terza persona riflessiva (7); come si può vedere dagli esempi, la persona riflessiva condivide con la seconda persona sia la vocale tematica, quando questa differisce dal resto del paradigma (7d-e), sia eventuali mutamenti fonetici all’interno della radice, per i quali la seconda persona si differenzia dalle altre (7e). D’ora in poi, descrivendo il comportamento morfologico della seconda persona, ci si riferirà anche alla persona riflessiva, tranne quando espressamente detto. La terza persona riflessiva è dunque morfologicamente dipendente dalla seconda. Il prefisso d- può divenire n- qualora vi sia un elemento nasale nella radice (7b).
+
+(7) a. b. c. d. e.
+
+l-/d-aa-bo (rfl) ‘figli’; cf. aa-bo (2s), aa-bo (3) n-a-rmɨsta (rfl) ‘sangue’; cf. a-rmɨsta (2s), a-rmɨsta (3) l-/d-e-chɨt (rfl) ‘animale domestico’; cf. e-chɨt (2s), e-chɨt (3) l-/d-a-huch (rfl) ‘casa’; cf. a-huch (2s), i-hyuch (3) l-/d-ey-jɨt (rfl) ‘figlio’; cf. ey-jɨt (2s), i-jɨt (3)
+
+Tuttavia, come si è già osservato per il verbo, se un elemento consonantico si frappone tra il centro di irradiazione della nasalità e il prefisso, la nasalizzazione può essere bloccata; per il sostantivo in (8), ad esempio, l’occlusiva dentale /t/ impedisce l’espansione a sinistra della nasalizzazione, pertanto l’impiego del prefisso n- è stato considerato errato dai miei informanti (*n-a-teemcha).
+
+(8) a-teemcha (2s) ‘zia’ ---> l-a-teemcha (rfl), *n-a-teemcha (3rfl)
+
+La terza persona riflessiva si usa quando il referente è il soggetto della proposizione, ad esempio nella frase Juan shiyokôr dahuch ‘Juan costruisce la sua casa’ il soggetto (Juan) costruisce (shiyokôr) una casa (dahuch) che gli appartiene e pertanto si usa la terza persona riflessiva di ‘casa’ (7d). Se la casa invece non appartenesse al soggetto, bisognerebbe impiegare la forma di terza persona ihyuch (7d), come nella frase Juan shiyokôr Pedro ihyuch ‘Juan costruisce la casa di Pedro’, in cui il proprietario della casa è Pedro e quindi non è corefente con il soggetto.
+Si tralascia per il momento la forma di terza persona, poiché la si vedrà nel dettaglio trattando di ciascuna classe.
+17 Come si è già avuto modo di vedere per il verbo, [d] e [l] sono varianti libere in inizio di parola. I parlanti optano in genere per [d] o [l] per motivi eufonici, spesso per evitare una ripetizione dello stesso fono.
+
+9
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+
+4 I nomi ‘in vocale’
+La prima classe flessiva che si analizzerà è quella dei nomi ‘in vocale’, sia perché è quella più ampia, sia perché, rispetto al numero dei sostantivi che la compongono, è la classe più regolare. La vocale tematica che caratterizza la terza persona può essere una delle sei vocali del chamacoco: /a e i o u ɨ/.18 La vocale tematica di terza persona caratterizza il comportamento della vocale tematica nel resto del paradigma; a tal proposito c’è una generale corrispondenza con il comportamento della vocale tematica nel verbo. Le considerazioni relative all’andamento della vocale tematica nelle varie persone dei nomi ‘in vocale’ valgono, con poche differenze che si segnaleranno al momento opportuno, anche per le altre classi flessive.
+I nomi ‘in vocale’ del chamacoco corrispondono alla classe flessiva dei verbi ‘in vocale’, che è formata da pochi verbi i quali possono avere solo vocali tematiche alte /i u ɨ/; i nomi ‘in vocale’, al contrario, costituiscono la maggior parte dei sostantivi possedibili e possono avere qualunque vocale tematica. Prendendo dunque come punto di riferimento la vocale tematica di terza persona, secondo quanto si è già osservato in morfologia verbale (Ciucci 2009a), le vocali alte /i u ɨ/ mutano alla seconda persona (e nel verbo anche alla quinta), mentre le altre vocali (/a e o/) si mantengono in genere inalterate per tutto il paradigma; per questo motivo si comincerà la descrizione morfologica dei nomi ‘in vocale’ dai casi, per così dire, più semplici, appunto quelli in cui la vocale di terza persona è /a/, /e/ o /o/.
+
+1.1 Nomi in a-
+
+La vocale tematica /a/ si mantiene in tutto il paradigma; in questo caso non vi è la possibilità di distinguere tra seconda e terza persona.
+
+(9) a. b. c.
+d.
+
+p-a-rmɨsta (1s), a-rmɨsta (2s), a-rmɨsta (3), n-a-rmɨsta (3rfl) ‘sangue’ p-a-lokot (1s), a-lokot (2s), a-lokot (3), d-a-lokot (3rfl) ‘soprannome’ p-o-mach (1s), a-mach (2s), a-mach (3), d-a-mach (3rfl) ‘ano, fondo di una barca’ p-ɨ-shɨpsɨr̂ c (1s), a-sɨpsɨr̂ c (2s), a-sɨpsɨr̂ c (3), l-a-sɨpsɨr̂ c (3rfl) ‘avversario
+
+18 Come per il verbo, anche in questo caso il comportamento morfologico della vocale tematica prescinde da altri elementi che avrebbero valore fonologico, quali la lunghezza vocalica e l’eventuale nasalizzazione; questi fattori, se presenti nella vocale di terza persona, vengono in genere conservati anche nel resto del paradigma.
+
+10
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+in combattimento’ In (9c-d) si hanno due eccezioni per le quali si dispone di pochi altri casi analoghi: amach ‘ano’ (9c) ha pomach alla prima persona, in cui dunque la vocale tematica è /o/; ci si può solo limitare a segnalare che talvolta /o/ è impiegata come vocale tematica di prima persona, in qualche caso alternandosi con /ɨ/, in alcuni paradigmi del verbo e del nome (39; 40a-b).19 Per quanto riguarda asɨpsɨr̂ c (9d), si deve segnalare in primo luogo la vocale tematica /ɨ/ alla prima persona, fatto insolito ma attestato per alcuni nomi in ‘consonante’ aventi vocale /a/ alla terza persona (35c-d); secondariamente, l’alternanza (non libera) tra /s/ e /ɕ/ in inizio di radice nello stesso paradigma è riscontrata sia nel verbo (30d-e) che nel nome (30b-c); quello che in genere accade però è che /ɕ/ alla terza persona divenga /s/ alla seconda; ciò si verifica però soltanto con nomi aventi una vocale alta come vocale tematica (30b-c); per trovare un altro caso analogo dal punto di vista del comportamento della prima consonante della radice si veda laseêt ‘genero’ (35a).
+1.2 Nomi in eSe la vocale tematica è /e/, si mantiene in tutto il resto del paradigma; questi nomi hanno una flessione estremamente regolare:
+(10) a. p-e-rc (1s), e-rc (2s), e-rc (3), d-e-rc (rfl) ‘nuca’ b. p-e-chɨt (1s), e-chɨt (2s), e-chɨt (3), d-e-chɨt (rfl) ‘animale domestico’
+1.3 Nomi in oLa vocale tematica /o/ è di norma mantenuta anch’essa in tutto il paradigma.
+(11) a. p-o-bich (1s), o-bich (2s), o-bich (3), d-o-bich (rfl) ‘ferita’ b. p-ô-rht (1s), ô-rht (2s), ô-rht (3), n-ô-rht (rfl) ‘tessuto’
+Esistono tuttavia delle eccezioni: omtsɨt ‘letto’ (12a) ha /a/ alla seconda persona.
+19 Si deve segnalare che il fenomeno inverso si verifica nei nomi e nei verbi aventi /o/ come vocale tematica di terza persona, in cui appunto /o/ diviene /a/ se seguita da /m/ (12a-b).
+11
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+
+(12) a. b.
+
+p-o-mtsɨt (1s), a-mtsɨt (2s), o-mtsɨt (3), n-a-mtsɨt (rfl) ‘letto’ t-o-mtɨs (1s), a-mtɨs (2s), s-o-mtɨs (3), y-o-mtɨs (1pi), o-y-omtɨs (1pi), a-mtɨs-lo (2p), o-ts-omtɨs (3p) ‘girare’20
+
+Ciò si può spiegare citando un verbo come somtɨs (12b),21 dove la vocale tematica /o/ diviene /a/ alla seconda persona, in quanto è seguita da /m/. Nel verbo però, /o/ tematica diviene /a/ anche quando è seguita da /b/, come in sobɨt (13). Tale mutamento non avviene però in obich (11a), il che fa pensare che il trattamento di /o/ tematica seguita da bilabiale mostri differenze tra nome e verbo.
+
+(13) t-o-bɨt (1s), a-bɨt (2s), s-o-bɨt (3), y-o-bɨt (1pi), o-y-obɨt (1pe), a-bɨt-ɨlo (2p), otsobɨt (3p) ‘spaventare insetti’
+
+In ojorrza ‘petto’ (14a), la vocale tematica alla seconda persona è /a/ invece di /o/ (come in (12a)), ma bisogna tener conto del fatto che questa è una variante foneticamente ridotta di ɨrojorrza/ɨrjorrza (14b): quindi originariamente la vocale tematica di terza persona non era /o/, ma /ɨ/. In (14c) si ha un’alternanza tra due diverse forme per la persona riflessiva: dowich ha la vocale tematica regolare (/o/), mentre dawich ha la vocale tematica /a/.
+
+(14) a. b.
+c.
+
+p-o-jorrza (1s), a-jorrza (2s), o-jorrza (3), d-a-jorrza (rfl) ‘petto’ p-ɨ-rjorrza/p-ɨ-rojorrza (1s), e-rjorrza/e-rojorrza (2s), ɨ-rojorrza/ɨ-rjorrza (3), d-e-rojorrza/ d-e-rjorrza (rfl) ‘petto’ p-o-wich (1s), o-wich (2s), o-wich (3), d-o-wich / d-a-wich (rfl) ‘luogo’
+
+1.4 Nomi in i-
+Venendo ai nomi che hanno /i/ come vocale tematica di terza persona, bisogna distinguere, come per il verbo, tra due gruppi di nomi: quelli con /e/ o /ej/ alla seconda
+20 Nel sistema di trascrizione del chamacoco stabilito dagli Ulrich e dalle comunità indigene locali, <s> in inizio di parola corrisponde generalmente a /ts/, che è rappresentato come <ts> all’interno della parola. 21 Per i verbi si cita la forma di terza persona singolare (quella del Realis se alla terza persona esiste una distinzione tra Realis e Irrealis). Per ulteriori dettagli sulla morfologia del verbo si veda Ciucci (2009a).
+12
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+persona e quelli che invece hanno /a/. Nel primo caso lo slot della vocale tematica è in genere occupato da /ej/. A tal riguardo si possono avanzare due interpretazioni: (1) la vocale /i/ è divenuta /e/ alla seconda persona e poi si è dittongata in /ej/; (2) /e/ costituiva originariamente un prefisso che poi ha modificato la vocale tematica; in questi nomi la vocale tematica /i/ si sarebbe mantenuta e consonantizzata. La seconda ipotesi sembrerebbe da preferirsi, anche in considerazione del fatto che per ora non si sono mai riscontrati altri fenomeni di dittongamento di vocale in chamacoco. In questi nomi dunque rimarrebbe una traccia evidente del prefisso che avrebbe causato il mutamento della vocale tematica alla seconda persona nelle lingue zamuco, fenomeno che caratterizza la flessione verbale e la flessione possessiva quando la vocale tematica è una vocale alta (ma non solo, come si può vedere negli esempi (12) e (13)).
+(15) a. p-i-jɨt (1s), ey-jɨt (2s), i-jɨt (3), d-ey-jɨt (rfl) ‘figlio’ b. p-i-tɨta (1s), ey-tɨta (2s), i-tɨta (3), ey-tɨta (rfl) ‘testicolo’
+In genere la lunghezza della vocale tematica si mantiene costante nelle varie persone del paradigma, dunque a /ii/ corrisponde /eej/ (16a), ma sulla vocale tematica agiscono fenomeni di riduzione quantitativa per i quali /ii/ può corrispondere a /ej/ (16b); non ci si soffermerà su tale fenomeno perché non comporta conseguenze significative sulla morfologia della flessione possessiva.
+(16) a. p-ii-bɨt (1s), eey-bɨt (2s), ii-bɨt (3), d-eey-bɨt (rfl) ‘contenitore per l’acqua’ b. p-îi-pɨta (1s), êy-pɨta (2s), îi-pɨta (3), n-êy-pɨta (rfl) ‘camicione’
+Più raramente /i/ viene sostituito da /e/ (17a-b); nel caso di iyakat, la seconda persona comincia in /ej/, ma la vocale tematica è /e/ e non un dittongo in quanto /j/ fa già parte della radice.
+(17) a. p-i-tɨlta (1s), e-tɨlta (2s), i-tɨlta (3), d-e-tɨlta (rfl) ‘bastone’ b. p-i-yakat (1s), e-yakat (2s), i-yakat (3), d-e-yakat (rfl) ‘pianto’
+Il secondo gruppo di nomi, ossia quelli aventi /a/ alla seconda persona, si differenziano dagli altri, perché alla seconda persona, oltre al mutamento della vocale /i/ in /a/, è associato anche un mutamento consonantico nella radice della seconda persona; alcuni di questi fenomeni, come si vedrà a breve, si sono già osservati nel
+13
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+
+verbo. I nomi aventi /e/ o /ej/ e i nomi aventi /a/ alla seconda persona sono presenti all’incirca in pari proporzioni.
+Esaminiamo dunque i mutamenti che hanno luogo alla seconda persona dei nomi con vocale tematica /i/ alla terza persona e /a/ alla seconda. Se la radice comincia per /ʨ/, /ʨ/ diviene /ts/ (18a-b). Come si vede in (18c), ciò accade anche nella morfologia verbale.
+
+(18) a.
+b. c.
+
+p-i-chaklarrza (1s), a-tsaklarrza (2s), i-chaklarrza (3), d-a-tsaklarrza (rfl) ‘pannolino’ p-i-chukut (1s), a-tsukut (2s), i-chukut (3), d-a-tsukut (rfl) ‘ombelico’ t-i-chew (1s), a-tsew (2s), ch-i-chew (3), y-i-chew (1pi), o-y-ichew (1pe), a-tsew-lo (2p), o-ch-i-chew (3p) ‘perforare; scavare; scrivere’
+
+Se la prima consonante della radice è /j/, diviene /l/ alla seconda persona.
+
+(19) a. p-i-yerc (1s), a-lerc (2s), i-yerc (3), d-a-lerc (rfl) ‘luogo’ b. p-i-yuwo (1s), a-luwo (2s), i-yuwo (3), d-a-luwo (rfl) ‘fame’
+
+Se fossero attestati nomi con vocale tematica /i/ seguita da /ʨ/ alla terza persona, tali da avere la vocale tematica /e/ alla seconda, probabilmente /ʨ/ rimarrebbe inalterato; purtuttavia, in mancanza di attestazioni non si può effettuare alcun confronto per dimostrare, almeno in questo caso, la presenza di una correlazione tra la vocale tematica /a/ e il mutamento della consonante al confine della radice. Si può invece proporre un tale confronto per i nomi con vocale tematica /i/ e radice cominciante per /j/ che hanno vocale tematica /a/ alla seconda persona (19): si possono infatti confrontare con i nomi che hanno radice iniziante per /j/ e vocale tematica /e/ (20); se in (19) cioè in presenza di /a/, /j/ diviene /l/, in (20), con la vocale /e/ non si verifica alcun mutamento (20). La vocale tematica di seconda persona è dunque direttamente connessa con la lateralizzazione di /j/ ed altri mutamenti consonantici.
+
+(20) a. p-i-yakat (1s), e-yakat (2s), i-yakat (3), d-e-yakat (rfl) ‘pianto’ (v. 53) b. p-i-yap (1s), e-yap (2s), i-yap (3), d-e-yap (rfl) ‘fumo’
+
+Allargando lo sguardo anche alla morfologia verbale /j/ > /l/ se la vocale di seconda persona è /a/ (21a); se invece la vocale è /e/ non accade nulla (21b).
+
+14
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+
+(21) a. b.
+
+t-i-yew (1s), a-lew (2s), ch-i-yew (3), y-i-yew (1pi), o-y-iyew (1pe), a-lew-lo (2p), o-ch-i-yew (3p) ‘attraversare un corso d’acqua’ t-i-yuhu (1s), e-yuhu (2s), ch-i-yuhu (3), y-i-yuhu (1pi), o-y-i-yuhu (1pe), e-yuhu-lo (2p), o-ch-i-yuhu (3p) ‘rimuovere, estrarre’
+
+I nomi con radice che comincia in semiconsonante palatale desonorizzata /j/̥ 22 hanno generalmente vocale tematica /i/ alla terza persona e /a/ alla seconda. Qui si può
+notare un mutamento di /j/̥ in /h/ (22a-b), ma al contrario dei casi precedenti il fenomeno non si verifica sempre (22c-d).
+
+(22) a. b. c. d.
+
+p-i-hyerrza (1s), a-herrza (2s), i-hyerrza (3), d-a-herrza (rfl) ‘polso’ p-i-hyuch (1s), a-huch (2s), i-hyuch (3), d-ahuch (rfl) ‘casa’ p-i-hyerc (1s), a-hyerc (2s), i-hyerc (3), d-a-hyerc (rfl) ‘respiro’ p-i-hyosɨr̂ c (1s), a-hyosɨr̂ c (2s), i-hyosɨr̂ c (3), n-a-hyosɨr̂ c (rfl) ‘creatore’
+
+Alla seconda persona può verificarsi anche un indebolimento della prima vocale della radice in /ɨ/.
+
+(23) p-i-hyôrta (1s), a-hɨr̂ ta (2s), i-hyôrta (3), n-a-hɨr̂ ta (rfl) ‘pianta, provvista’
+
+La maggior parte dei nomi con vocale tematica /i/ alla terza persona e /a/ alla seconda hanno come prima consonante della radice /ʨ/, /j/ o /j/̥ . Sono attestati anche alcuni sostantivi la cui radice comincia con altre consonanti; in ijôrta, probabilmente variante di ihyôrta, la prima vocale della radice si indebolisce in /ɨ/ alla seconda persona (24a); in îita (24b) la seconda persona è irregolare, proprio in concominanza con la vocale tematica /a/.
+
+(24) a. p-i-jôrta (1s), a-j-ɨr̂ ta (2s), i-j-ôrta (3), n-a-jɨr̂ ta (rfl) ‘pianta’ b. p-iî-ta (1s), â-hnta (2s), îi-ta (3), n-â-hnta (rfl) ‘mammella’
+
+22 Tale fono ha valore fonematico secondo gli Ulrich e viene trascritto con il digramma <hy> (Ulrich & Ulrich 1989a, b).
+15
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+
+1.5 Nomi in u-
+La maggior parte dei sostantivi con vocale tematica /u/ alla terza persona, così come la maggior parte dei verbi, ha /e/ come vocale di seconda persona. Quando due vocali qualitativamente identiche sono separate da una fricativa laringale [h], come in uhurc, può accadere che, mutando una delle vocali (in questo caso la prima che è vocale tematica), anche l’altra sia assimilata; poiché la vocale tematica di seconda persona è /e/, *e-hurc (2s) diviene e-herc (2s); si tratta però di un fenomeno di natura fonetica che non riguarda direttamente la morfologia della lingua e che si analizzerà nel dettaglio in altra sede.
+
+(25) a. p-u-rc (1s), e-rc (2s), u-rc (3), d-e-rc (rfl) ‘pezzo di legno’ b. p-u-hurc (1s), e-herc (2s), u-hurc (3), l-e-herc (rfl) ‘età’
+
+Con un gruppo più circoscritto di sostantivi la vocale tematica di seconda persona è /a/, senza che si verifichino particolari mutamenti nella radice (26a); l’unico finora riscontrato è l’indebolimento in /ɨ/ della prima vocale della radice alla seconda persona, che qui è attestata sia quando la vocale tematica è /a/ (26b-c), sia quando la vocale tematica è /e/ (26d).
+
+(26) a. b.
+c. d.
+
+p-u-jut (1s), a-jut (2s), u-jut (3), d-a-jut (rfl) ‘lato’ p-u-kurbo (1s), a-kɨrbo (2s), u-kurbo (3), d-a-kɨrbo (rfl) ‘forza, potere, autorità’ p-u-kuta (1s), a-kɨta (2s), u-kuta (3), d-a-kɨta (rfl) ‘ramo’ p-u-tusht (1s), e-tɨsht (2s), u-tusht (3), d-e-tɨsht (rfl) ‘vena, radice’
+
+Alcuni nomi con vocale tematica /i/ o /u/ alla terza persona hanno delle varianti in cui la vocale tematica si anteriorizza in /ɨ/: così ujut (26a) ha come variante ijɨt (27a) e ichɨt può alternarsi con ɨchɨt (27b).
+
+(27) a. p-ɨ-jɨt (1s), a-jɨt (2s), ɨ-jɨt (3), d-a-jɨt (rfl) ‘lato’ b. p-i-chɨt / p-ɨ-chɨt (1a), a-tsɨt (2s), i-chɨt / ɨ-chɨt (3), d-a-tsɨt (rfl) ‘pancia, intestino, sterco’
+
+16
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+
+1.6 Nomi in ɨ-
+Tra i sostantivi ‘in vocale’ i più numerosi sono quelli che hanno /ɨ/ come vocale tematica di terza persona; in alcuni casi /ɨ/ è il frutto di un processo di indebolimento della vocale tematica originaria (v. supra es. (27)). La maggior parte dei nomi che hanno /ɨ/ alla terza persona ha /e/ come vocale tematica alla seconda (28).
+
+(28) a. p-ɨ-râch (1s), e-râch (2s), ɨ-râch (3), n-e-râch (rfl) ‘cibo’ b. p-ɨ-râhata (1s), e-râhata (2s), ɨ-râhata (3), n-e-râhata (rfl) ‘moglie’
+Quando la vocale tematica alla seconda persona è /e/ non si verificano mutamenti nella radice; in (29) la prima vocale della radice può essere assimilata o meno dalla vocale tematica di seconda persona /e/, come si vede dall’alternanza tra ehɨrbich / eherbich (29a) e ehɨrosht / eherosht (29b).
+
+(29) a. ‘orina’
+b. ‘cintura’
+
+p-ɨ-hɨrbich (1s), e-hɨrbich / e-herbich (2s), ɨ-hɨrbich (3), d-e-hɨrbich (rfl) p-ɨ-hɨrosht (1s), e-hɨrosht / e-herosht (2s), ɨ-hɨrosht (3), d-e-hɨrosht (rfl)
+
+Anche qui, sia pure con meno frequenza rispetto ad /e/, si può trovare la vocale /a/ alla seconda persona. Ad /a/ sono associati mutamenti nella radice, che non si limitano al solo indebolimento della vocale radicale, come in (30a). Se la radice comincia per /ɕ/ alla terza persona, /ɕ/ diviene /s/ alla seconda persona (30b-c). Ciò si verifica anche nei verbi con prefisso consonantico e vocale tematica /i/ (30d) o /ɨ/ (30e) alla terza persona; tale fenomeno non è invece attestato tra i nomi con vocale tematica /i/ alla terza persona, quantomeno perché non ne è attestato alcuno ad avere radice cominciante per /ɕ/. Il verbo in (30e) ha /o/ come vocale tematica di prima persona: di questa subregolarità si darà conto in altra sede.
+
+(30) a. b.
+c.
+
+p-ɨ-hnêt (1s), a-hnɨt̂ (2s), ɨ-hnêt (3), n-a-hnɨt̂ (rfl) ‘canto’ p-ɨ-shuwo (1s), a-suwo (2s), ɨ-shuwo (3), d-a-suwo (rfl) ‘proprietà, indumenti’ p-ɨ-shujâro (1s), a-sujâro (2s), ɨ-shujâro (3), d-a-sujâro (rfl) ‘cose, oggetti di proprietà’23
+
+23 Questa parola serve ad esprimere, tra l’altro, che ciò di cui si sta parlando non è commestibile.
+17
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+d. t-i-shehe (1s), a-sehe (2s), ch-i-shehe (3), yishehe (1pi), oyishehe (1pe), a-sehe-lo (2p), o-ch-ishehe (3p) ‘prendere con forza; violentare’
+e. tok-o-sɨm (1s), a-sɨm (2s), ɨ-shɨm (3), y-o-sɨm (1pi), o-y-osɨm (1pe), a-sɨm-lo (2p), o-shɨm (3p) ‘dare’
+Con i nomi con vocale tematica /ɨ/, /ʨ/ in inizio di radice diviene /ts/ (31), si tratta dello stesso fenomeno già osservato per i nomi che hanno vocale tematica /i/ alla terza persona e /a/ alla seconda (18a-b).
+(31) p-ɨ-chɨta (1s), a-tsɨta (2s), ɨ-chɨta (3), d-a-tsɨta (rfl) ‘zanzariera’
+Probabilmente è consentita talvolta qualche oscillazione nella vocale di seconda persona, soprattutto quando non è associata a mutamenti della radice: nel caso di ɨnâhata (32), ad esempio, sono attestate entrambe le vocali alla seconda persona.
+(32) p-ɨ-nâhata (1s), a-nâhata / e-nâhata (2s), ɨ-nâhata (3), n-a-nâhata / n-e-nâhata (rfl) ‘madre vedova’
+Generalizzando, si può affermare che quando la vocale tematica di terza persona è una vocale alta, si mantiene alla prima persona, ma può diventare /a/ o /e/ alla seconda persona (includendo con /e/ anche quei casi in cui si ha /ej/ nello slot della vocale tematica). Nel complesso /e/ alla seconda persona è leggermente prevalente, mentre la vocale tematica /a/ alla seconda persona è spesso associata ad un mutamento nella radice della seconda persona.
+5 I nomi ‘in consonante’
+I nomi ‘in consonante’ si differenziano da quelli in vocale, perché per formare la terza persona premettono un prefisso consonantico alla vocale tematica. Il prefisso più comune è d-/l- (33a), che può nasalizzarsi in n- se il verbo ha una vocale o consonante nasale nella radice (33b), a meno che una consonante occlusiva non blocchi la nasalizzazione, come in (33c).
+(33) a. p-a-tahacha (1s), a-tahacha (2s), d-a-tahacha (3), d-a-tahacha (rfl) ‘matrigna’
+18
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+
+b. p-e-rmich (1s), e-rmich (2s), n-e-rmich (3), n-e-rmich (rfl) ‘zio’ c. p-a-temcha (1s), a-temcha (2s), d-a-temcha (3), d-a-temcha (rfl) ‘zia’
+
+Come si può evincere dagli esempi sopra, la maggior parte dei ‘nomi in d-’ (così li chiameremo) indicano relazioni di parentela; non mancano però sostantivi appartenenti ad altri ambiti semantici (34b). Dato che tra i ‘nomi in d-’ la vocale di terza persona è in genere /a/ (33a,c), /e/ (33b; 34a) od /o/ (34b), questo significa una sostanziale indistinguibilità tra forma di terza persona e forma riflessiva.
+
+(34) a. p-e-hebich (1s), e-hebich (2s), d-e-hebich (3), d-e-hebich (rfl) ‘fratello’ b. p-o-sêt (1s), o-sêt (2s), d-o-sêt (3), d-o-sêt (rfl) ‘regalo’
+
+Benché il comportamento della vocale tematica sia per lo più regolare e segua in tutto e per tutto quelli dei nomi ‘in vocale’, soprattutto con i nomi di parentela, si sono riscontrati dei mutamenti anomali alla prima persona, che può divenire /i/ (35a-c) oppure /ɨ/ (35d-e). Per quanto concerne i nomi di famiglia, vi sono casi analoghi in ayoreo (Ciucci 2010d). Probabilmente questi nomi avevano in origine /i/ o /ɨ/ come vocale di terza persona, la quale in seguito sarebbe venuta a coincidere con la persona riflessiva: questo indica che la forma di terza persona è stata assimilata dalla persona riflessiva.
+
+(35) a. b. c.
+d.
+e.
+
+p-i-sheêt (1s), a-seêt (2s), l-a-seêt (3), l-a-seêt (rfl) ‘genero’ p-i-teemcha (1s), a-teemcha (2s), l-a-teemcha (3), l-a-teemcha (rfl) ‘zia’ p-ɨ-nɨmicha (1s), a-nɨmicha (2s), n-a-nɨmicha (3), n-a-nɨmicha (rfl) ‘sorella’ p-ɨ-keherrza (1s), a-kaharrza (2s), l-a-kaharrza (3), l-a-kaharrza (rfl) ‘nuora’24 p-ɨ-shɨbich (1s), e-shɨbich (2s), l-e-shɨbich (3), l-e-shɨbich (rfl) ‘fratello’
+
+In laseêt (35a), oltre alla vocale /i/ alla prima persona, è da notarsi il mutamento di /s/ in /ɕ/ dalla terza alla prima persona, fenomeno già notato a proposito di asɨpsɨr̂ c, che ha pɨshɨpsɨr̂ c alla prima persona (9d). In genere, con la vocale tematica /i/ o /ɨ/ alla
+
+24 L’alternanza tra -aha- a -ehe- è dovuta in questo caso all’assimilazione da parte della vocale tematica; in chamacoco sono attestati altri fenomeni di questo tipo, non sempre dovuti alla vocale tematica, ma per lo più al suffisso.
+19
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+
+terza persona, /ɕ/ diviene /s/ dalla terza alla seconda persona, quando la vocale di seconda persona è /a/; questo si verifica sia nel nome (30b-c), sia nel verbo (30d-e). Dunque, in questi casi la vocale tematica /a/ è associata a /s/, mentre /i/ o /ɨ/ è associata a /ɕ/: tale associazione vale anche nel caso di laseêt; l’unica differenza rispetto ai nomi e ai verbi in (30b-e) è che in laseêt la terza persona ha la vocale /a/ e, coerentemente, /s/ come consonante in inizio di radice. Tali anomalie nella vocale tematica, con il conseguente mutamento di /ɕ/ in /s/ quando la consonante è preceduta da /a/, costituiscono una prova per poter affermare che in questi nomi la terza persona è venuta a coincidere con la persona riflessiva.25
+Da segnalare il comportamento di dɨlt ‘gamba’ (36a), in cui /l/ della radice di terza persona diviene /r/ nel resto del paradigma. Il sostantivo data ‘mamma’ è estremamente interessante, in primo luogo perché alla prima persona possessiva si usa ormai mama (prestito dal castigliano) e ciò mostra quanto ormai sia profonda l’influenza dello spagnolo sul chamacoco; in secondo luogo, i parlanti nel corso dell’indagine hanno indicato, senza che fosse loro richiesto, una forma più arcaica e attualmente poco usata per la prima persona: ote; tale forma coincide con quella raccolta da Baldus (1932: 408).26
+
+(36) a. b. c.
+
+p-ɨ-rt (1s), e-rt (2s), d-ɨ-lt (3), d-e-rt (rfl) ‘gamba’ ote / mama / p-a-tɨ (1s), a-ta (2s), d-a-ta (3), d-a-ta (rfl) ‘mamma’27 p-e-ych (1s), e-ych (2s), d-e-ych (3), d-e-ych (rfl) ‘padre’
+
+Venendo agli altri gruppi di nomi ‘in consonante’, caratterizzati da un numero minore di elementi, l’inventario delle consonanti che possono fungere da prefisso è limitato: oltre a d-/l-/n- possiamo trovare w- (37a-b), y- (37c-d) e k- (37e).
+
+(37) a. b. c.
+d.
+
+p-o-lt (1s), o-lt (2s), w-o-lt (3), d-olt (rfl) ‘berretto’ p-aâ-chta (1s), aâ-chta (2s), w-aâ-chta (3), n-aâ-chta (rfl) ‘destra’ p-o-niît (1s), o-niît (2s), y-o-niît (3), n-o-niît (rfl) ‘fantasma, spirito maligno’ p-ɨ-nsɨr̂ c (1s), e-nsɨr̂ c (2s), y-ɨ-nsɨr̂ c (3), n-e-nsɨ̂rc (rfl) ‘padrone’28
+
+25 Un ragionamento analogo a quello di cui sopra lo si può formulare per asɨpsɨr̂ c (9d), con la sola differenza che qui la terza persona differisce dalla persona riflessiva per la mancanza del prefisso d-. 26 Boggiani attesta invece ota (Boggiani 1929: 173). 27 In patɨ, prima persona ‘regolare’ di data, [ɨ] è il risultato dell’indebolimento di [a] finale.
+20
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+e. p-ɨ-tɨta (1s), e-tɨta (2s), k-e-tɨta (3), d-e-tɨta (3) ‘ginocchio’29
+Come si è visto il comportamento morfologico della vocale tematica dei nomi ‘in consonante’ segue in genere quello dei nomi ‘in vocale’. Quando la vocale di terza persona è una vocale alta, dove esistono più opzioni alla seconda persona (/e/ o /a/), si opta in genere per /e/ che in questo caso è quella più frequente tra i nomi ‘in vocale’: ad esempio ‘unghia’ dushurc (3) ha eshurc (2sg) alla seconda persona (v. anche (37d)).30
+Per quanto riguarda i prefissi consonantici e i loro rapporti con la flessione verbale, w- e k- sono esclusivi della flessione possessiva del nome, mentre d- e y- sono condivisi con il verbo. Questa è un’ulteriore conferma della classificazione proposta in Ciucci (2009b) (v. qui es. (4)): stabilendo le classi flessive del verbo, si era creata una sottoclasse di ‘verbi in d-’, comprendente anche yana ‘ridere’, caso unico di verbo con prefisso y-; il paradigma di yana aveva proprietà analoghe a quelle dei verbi in t- e in d-, ed era stato inserito tra i ‘verbi in d-’, ma foneticamente si potevano avanzare deboli prove per accostarlo a quelli in d-.31 Proprio per il fatto di trovare un impiego alquanto limitato nella morfologia verbale, i prefissi d- e y- possono essere usati anche nel nome e questo è un elemento che li accomuna e ne giustifica dunque l’unione nella stessa sottoclasse flessiva in morfologia verbale.
+28 La forma yɨnsɨr̂ c ha come variante anche unsɨrc: punsɨrc (1s), ensɨrc (2s), unsɨrc (3), nensɨrc (rfl) ‘padrone’. 29 In questo sostantivo la vocale di prima persona è [ɨ], invece di [e] come ci si aspetterebbe; ciò può essere dovuto ad un indebolimento di [e] alla prima persona oppure ad un’assimilazione della terza persona da parte della seconda persona e della persona riflessiva; ma è anche possibile che [ɨ] fosse la vocale tematica originaria della terza persona e che quest’ultima sia stata assimilata dalla persona riflessiva. 30 In questo caso solo /u/ e /ɨ/, perché, per il momento non sono attestati casi di nomi ‘in consonante’ con /i/ alla terza persona; i nomi ‘in consonante’ con vocale alta alla terza persona sono un numero esiguo. 31 In inizio di parola [d] può avere [l] come allofono in distribuzione libera, [n] in distribuzione complementare; non si è mai notata alcuna, neppur debole, relazione fonetica tra [t] e [j], che invece intercorre tra [j] e [l], considerando che nella flessione sia del verbo che del nome [j] > [l] alla seconda persona quando nella stessa persona la vocale tematica /i/ > /a/ (v. (19) e (21a)).
+21
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+
+6 I nomi ‘in radice’
+I nomi ‘in radice’ costituiscono la classe flessiva con il minor numero di sostantivi; corrispondono, quanto alla formazione della terza persona, ai verbi ‘in radice’. Tra ciò che accomuna questi sostantivi con i verbi ‘in radice’: (1) questa classe di sostantivi presenta varie idiosincrasie morfologiche di cui si fornirà un’analisi dettagliata, ma che costituiscono un ostacolo alla sistematizzazione; (2) poiché la terza persona non ha vocale tematica, in genere nel resto del paradigma la vocale tematica si comporta come se alla terza persona fosse presente una vocale alta; le vocali alte agiscono dunque come vocali di default: nella maggior parte dei casi alla prima persona la vocale tematica è /ɨ/, alla seconda è /a/. Questo schema presenta un certo numero di variazioni che saranno qui oggetto di trattazione. L’inventario delle consonanti con cui può cominciare la radice non sembra avere limiti particolari se non nel numero esiguo dei sostantivi che costituiscono questa classe; si fornirà un esempio per ogni diversa consonante. La radice può cominciare per /b/ (38a), per /k/ (38b) oppure per /t/ (38c); si noti in questi ultimi due sostantivi l’indebolimento o la caduta di /o/, prima vocale della radice, dalla terza persona al resto del paradigma. Poiché un nesso consonantico è impossibile in inizio di parola, in (38b) la caduta di /o/ non può verificarsi alla terza persona, mentre è attestata nel resto del paradigma. Nei primi due esempi l’andamento della vocale tematica è /ɨ/-/a/-Ø, come accennato sopra; in (38c) è invece /ɨ/-/e/-Ø. In (38d) e (38e), la radice comincia rispettivamente in /h/ e in /w/; la vocale /u/ in huta e la semiconsonante /w/ di weheta trasformano la vocale tematica /ɨ/ alla prima persona in /u/, pertanto la vocale tematica nel paradigma segue lo schema /u/-/e/-Ø (38d) o /u/-/a/-Ø (38e).
+
+(38) a. b. c. d.
+e.
+
+p-ɨ-bahat (1s), a-bahat (2s), bahat (3), d-a-bahat (rfl) ‘prezzo’ p-ɨ-ktsɨrbɨt (1s), a-ktsɨrbɨt (2s), kotsɨrbɨt (3), l-a-ktsɨrbɨt (rfl) ‘borsa’ p-ɨ-tɨriît (1s), e-tɨriît (2s), toriît (3), d-e-tɨriît (rfl) ‘svenimento’ p-u-huta / p-uuta (1s), e-heta / eeta (2s), huta (3), d-e-heta / d-eeta (rfl) ‘testa’32 p-u-weheta (1s), a-weheta (2s), weheta (3), d-a-weheta (rfl) ‘gola’
+
+32 In chamacoco -VhV- può essere semplificato in -VV- quando la vocale è identica; in tal caso non si segnala la vocale tematica nella scomposizione morfologica.
+22
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+
+I nomi con radice in hm- /m̥ / sono tutti derivati di hmata ‘mano’. Si deve notare, nella vocale tematica, l’alternanza tra /ɨ/ e /o/ alla prima persona; lo schema di riferimento è dunque /ɨ/-/a/-Ø o /o/-/a/-Ø. Come già visto in (38b), la prima vocale della radice può subire un indebolimento articolatorio dalla terza persona al resto del paradigma, pertanto può divenire /ɨ/ oppure cadere. In un verbo ‘in radice’ come masaha ‘entrare’ (39d) si possono osservare fenomeni analoghi: in primo luogo la presenza della vocale /o/ alla prima persona singolare, in secondo luogo la caduta della prima vocale della radice dalla terza persona al resto del paradigma. Non è chiaro come mai /o/ possa essere vocale tematica alla prima persona: si può supporre che in passato sia stata la vocale tematica originaria, ma mancano prove a sostegno di questa ipotesi.
+
+(39) a. b.
+c.
+d.
+
+p-ɨ-hmɨta / p-o-hmɨta (1s), a-hmɨta (2s), hmata (3), n-a-hmɨta (rfl) ‘mano’ p-ɨ-hmantɨta / p-o-hmantɨta (1s), a-mantɨta (2s), hmantɨta (3), n-a-mantɨta (rfl) ‘pugno’33 p-ɨ-hmartɨta / p-o-hmartɨta (1s), a-hmartɨta (2s), hmartɨta (3), n-a-hmartɨta (3) ‘anello’ t-o-msaha (1s), a-msaha (2s), masaha (3), y-o-msaha (1pi), o-y-o-msaha (1pe), a-msaha-lo (2p), o-masaha (3p) ‘entrare’
+
+Con i nomi con radice in p-, tutti derivati di posht ‘cibo’ o comunque semanticamente affini, /p/ si sonorizza all’interno di parola (49a-b); anche qui la prima vocale della radice si indebolisce in /ɨ/; ciò può avvenire anche con sostantivi appartenenti alle altre classi, ma solo alla seconda persona (si veda, per es., (26b-d)), mentre qui il fenomeno riguarda tutto il paradigma, esattamente come in alcuni verbi ‘in radice’, quali ad es. tola (40c). Benché indebolita, la prima vocale della radice continua probabilmente a far sentire la sua presenza: infatti sarebbe questa a determinare l’esito della vocale tematica della prima persona, che è /o/ ((40a-c), dunque: /o/-/a/-Ø). Se confrontiamo posht (40a) con bahat (40d), dalla prima consonante della radice di terza persona (/p/ o /b/) si può prevedere il suo andamento nel resto del paradigma (/b/), ma non viceversa (andamento della vocale tematica: /o//a/-Ø).
+
+33 La perdita della desonorizzazione, osservabile nella seconda persona di ‘pugno’, è attestata anche con altri sostantivi derivanti da ‘mano’, ma in questo contesto sembrerebbe una variante libera; da segnalare inoltre il fatto che la si è notata solo alla seconda persona.
+23
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+
+(40) a. b. c.
+d.
+
+p-o-bɨsht (1s), a-bɨsht (2s), posht (3), d-a-bɨsht (rfl) ‘cibo’ p-o-bɨtêt (1s), a-bɨtêt (2s), potêt (3), l-a-bɨtêt (rfl) ‘dente’ tɨk-ɨ-tɨla (1s), a-tɨla (2s), tola (3), y-i-tɨla (1pi), o-y-i-tɨla (1pe), a-tɨlɨ-lo (2p), o-t-ola (3p) ‘temere’ p-ɨ-bahat (1s), a-bahat (2s), bahat (3), d-a-bahat (rfl) ‘prezzo’
+
+Se la radice comincia in /n/, tale consonante si mantiene alla seconda persona, ma è /j/34 alla prima persona (41a); la vocale tematica segue lo schema /i/-/a/-Ø. Data l’associazione tra /j/ e /i/ alla prima persona e /a/ e /n/ alla seconda si può supporre o che la vocale tematica /i/ assimili /n/ che diviene /j/, oppure che la forma di terza persona iniziasse originariamente in /j/ e che poi sia stata assimilata dalla seconda persona e dalla persona riflessiva divenendo /n/. Questo secondo ragionamento sembrerebbe avvalorato dal fatto che spesso /a/ è associata ad un mutamento nella radice dalla terza (e anche dalla prima) alla seconda persona; se i mutamenti della radice avvengono alla seconda persona, e non alla prima, ciò significa che la prima persona conserva la radice originaria, che doveva essere identica anche alla terza persona: date queste premesse è dunque fortemente probabile che la terza persona sia stata assimilata dalla seconda e dalla persona riflessiva. Per completare il quadro, ulteriori dati sono offerti dai nomi aventi radice cominciante per /j/ (41b-c); in yûhurrza (41b) la semiconsonante si mantiene alla seconda persona, dove la vocale tematica è /e/. In yɨrmich (41c) invece /j/ > /n/ alla seconda persona e la vocale tematica è /a/; anche per i nomi con radice cominciante per /j/, la radice rimane invariata alla seconda persona se la vocale tematica è /e/, mentre può verificarsi un mutamento in presenza di /a/; un caso analogo si è trovato ad esempio nel verbo iyem (41d).
+
+(41) a. b. c.
+d.
+
+p-i-yêrpta (1s), a-nêrpta (2s), nêrpta (3), n-a-nerpta (rfl) ‘camicia, vestito’ p-i-yûhurrza (1s), e-yûhurrza (2s), yûhurrza (3), n-e-yûhurrza (rfl) ‘pelle’ p-i-yermich (1s), a-nermich (2s), yɨrmich / yermich (3), n-a-nermich (rfl) ‘spalla’ t-i-yem (1s), a-nem (2s), i-yem (3), y-i-yem (1pi), o-y-i-yem (1pe), a-nem-lo (2p), o-yem (3p) ‘aspettare’
+
+34 Tale fonema, all’interno di parola ed in presenza di una nasalizzazione può essere realizzato foneticamente come [j] o [ɲ].
+24
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+
+In (42) si riassume l’andamento della vocale tematica nei nomi ‘in radice’; alla
+
+prima e alla seconda persona i nomi ‘in radice’ si comportano sempre come se alla
+
+terza persona fosse presente una vocale alta; l’unica eccezione è quando si ha /o/-/a/-
+
+/Ø/: al di fuori dei nomi ‘in radice’, la presenza di /o/ alla prima persona e /a/ alla
+
+seconda è rara e si ha in pochi sostantivi che hanno /a/ (9c) o /o/ (12a; 14a) alla terza
+
+persona .
+
+(42)
+
+1s
+
+2s
+
+3
+
+Esempi
+
+i
+
+a
+
+Ø
+
+(41a, c)
+
+i
+
+e
+
+Ø
+
+(41b)
+
+o
+
+a
+
+Ø
+
+(40a-b)
+
+o/ɨ
+
+a
+
+Ø
+
+(39a-c)
+
+u
+
+a
+
+Ø
+
+(38e)
+
+u
+
+e
+
+Ø
+
+(38d)
+
+ɨ
+
+a
+
+Ø
+
+(38a-b)
+
+ɨ
+
+e
+
+Ø
+
+(38c)
+
+Si conclude questa sezione segnalando un sostantivo che non può essere inquadrato in nessuna classe: hnɨtɨta ‘piede’, che presenta una forma suppletiva alla terza persona (43).
+
+(43) p-ɨ-rrza, e-rrza, hnɨtɨta, d-e-rrza ‘piede’
+
+7 Forme non possedibili
+Per alcuni nomi è attestata anche una forma specifica che viene impiegata per non esprimere possesso, per lo più quando non vi è un possessore o non se ne conosce l’identità. Gli esempi (44) e (45) sono tratti da una registrazione in cui viene affrontato il tema dei rimedi naturali impiegati dai Chamacoco. Le medicine moderne, contrapposte ai rimedi tradizionali della cultura chamacoco, sono, letteralmente, ‘le medicine dei Paraguayani’, perciò per ‘medicine’ si usa la forma di terza persona ɨmshiyo (44).35 In (45) invece si consiglia di curare alcuni ammalati con delle piante
+35 Ɨmɨshiyo è una forma plurale, il singolare è ɨmɨsht.
+25
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+
+medicinali: qui ‘medicine’ è espresso dalla forma non possedibile omshiyo, poiché tali ‘medicine’ non hanno possessore, essendo piante che si trovano nella selva; non a caso omshiyo è associato a pohɨr ‘piante’,36 nome non possedibile. La forma non possedibile è attestata anche con posht ‘cibo’; in (46) si sa a chi appartiene il cibo e si usa la forma di terza persona al singolare posht (plurale: poso); in (47), non essendovi cibo (e dunque neanche un possessore), si usa oposo, forma non possedibile plurale (singolare: oposht).
+
+(44) Tok-osɨm ôr mar
+
+ɨmshi-yo
+
+1S-dare 3P Paraguayano.MP 3.medicina-MP
+
+“Do loro medicine moderne (lett. ‘le medicine dei Paraguayani’)”
+
+(Ciucci 2009b)
+
+(45) A-sɨm ôr o-mshi-yo uu erze pohɨr 2S-dare 3P NPS-medicina-MP DET.FP queste pianta.FP “Dà loro queste piante come medicine!” (Ciucci 2009b)
+
+(46) Luk posht listo.
+Luca 3.cibo.MS pronto
+“Il cibo di Luca è pronto” (Ciucci 2009b)37
+(47) Nîhyok naa o-poso
+non_esserci NEG NPS-cibo.MP
+“Non c’è cibo” (Ciucci 2009b)38
+Come si vede dagli esempi sopra, la forma non possedibile si ottiene mediante il prefisso o-, che nei nomi ‘in radice’ e ‘in vocale’ occupa in genere lo slot della vocale tematica. Se il nome è ‘in radice’, o- precede la radice.
+36 La forma singolare di questa parola è pohorrza. 37 Si tratta di una frase che chi scrive ha sentito spesso durante la propria esperienza sul campo; i miei informatori la dicevano tutte le sere quando mi venivano a chiamare per la cena. 38 In questa breve frase, estratta da una registrazione di parlato spontaneo, l’uso della negazione e della forma del plurale di posht subisce l’influenza dello spagnolo, che comunque non interferisce con la forma non possedibile. Nîhyok è da mettersi in relazione con l’ayoreo íjnoc ‘non esserci’; entrambe le parole sono prive di flessione.
+26
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+
+(48) a. b. c.
+
+o-hmartɨta (NPS) ‘anello’ hmartɨta (3) o-posht (NPS) ‘cibo’, posht (3) o-nêrpta (NPS) ‘camicia, vestito’, nêrpta (3)
+
+Se invece il nome è ‘in vocale’, la vocale tematica di terza persona viene soprascritta da o- (49)
+
+(49) a. b. c. d.
+
+o-bich (NPS) ‘lavoro, lavoratore’, ɨ-bich (3)39 o-chɨta (NPS) ‘zanzariera’, ɨ-chɨta (3) o-misht (NPS) ‘medicina’, ɨ-misht (3) o-terpɨta (NPS) ‘pantaloni’, ɨ-terpɨta (3)
+
+Questo fenomeno lo si ritrova anche con alcuni verbi ‘in vocale’, in cui la vocale tematica è sovrascritta dal prefisso o- di terza persona plurale.
+
+(50) a. b.
+
+tuk-uu-shɨ (1s), aa-shɨ (2s), uu-shɨ (3), y-uu-shɨ (1pi), o-y-uu-shɨ (1pe), aa-shɨ-lo (2s), oo-shɨ (3p) ‘correre’ tok-o-sɨm (1s), a-sɨm (2s), ɨ-shɨm (3), y-o-sɨm (1pi), o-y-osɨm (1pe), a-sɨm-lo (2p), o-shɨm (3p) ‘dare’
+
+Se si considera un nome ‘in consonante’ come (51), il prefisso del non possedibile precede il prefisso di terza persona (cf. es. (37)).
+
+(51) o-y-oniîta (NPS) ‘spirito, fata, fantasma’, y-o-niîta (3)40
+
+Generalizzando, si può dire che il prefisso che rende il nome non possedibile viene semplicemente premesso alla forma di terza persona, esattamente come avviene per o-, prefisso di terza persona plurale del verbo; dato che i due elementi sono fonologicamente uguali, è legittimo chiedersi se non si tratti dello stesso prefisso, tanto più che la terza persona plurale del verbo può essere usata anche con valore impersonale, come otew (3p) ‘mangiare’ in (52).
+
+39 La forma non possessiva di ‘lavoro, lavoratore’ è usata per lo più nella forma plurale obiyo. 40 La flessione possessiva del corrispettivo maschile si è fornita in (37c); ovviamente la flessione possessiva è la stessa per entrambi i generi.
+27
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+
+(52) ‒ Yok kushjâro. ‒ ‒ Je o-tew? ‒ ‒ No, yok p-ɨshujâro. ‒
+
+1S cosa.MP
+
+MOD 3P-mangiare
+
+no 1s 1-cosa.MP
+
+“‒ Le mie cose. ‒ ‒ Si mangiano? ‒ ‒No, i miei oggetti. ‒” (Ciucci 2009b)
+
+Le forme non possedibili sono attestate soltanto con pochi sostantivi. In (53) la forma non possedibile si ottiene premettendo alla terza persona il prefisso e-; si noti la caduta della prima vocale della radice dalla terza persona alla forma non possedibile.
+
+(53) e-ynsɨr̂ c (NPS) ‘padrone’, y-ɨ-nsɨr̂ c (3)
+
+Tornando per un attimo all’esempio (52), esso è costituito da brevi frasi incentrate sulla parola kushjâro, di cui viene precisato il referente; questo perché la parola, che non ha flessione possessiva, può riferirsi sia a cose commestibili, sia ad oggetti; quando il primo parlante dice yok kushjâro, il secondo parlante gli chiede se si tratti di cose da mangiare, allora il primo replica che si tratta di oggetti di sua proprietà (yok pɨshujâro ‘le mie cose’). Il termine ɨshujâro viene invece impiegato per disambiguare quanto detto precedentemente, poiché si riferisce ad oggetti, ma non a cose commestibili. Il sostantivo kushjâro, quando non è riferito a ciò che è commestibile, è da intendersi generalmente quale forma non possedibile di ɨshujâro, ottenuta mediante il prefisso k-, fonologicamente identico al prefisso k- di terza persona (37e). La vocale /u/ in kushjâro è dovuta all’assimilazione della prima vocale della radice, che cade dalla terza persona alla forma non possedibile (v. (37e)). Lo stesso prefisso viene usato anche per la forma non possedibile di iibich (54b). In (54c) è attestata una forma non possedibile ottenuta mediante il prefisso d-. In (54d) la forma non possedibile è ottenuta mediante il prefisso lɨk-/dɨk-, che ricorda una serie di prefissi dVk- (in cui V corrisponde alla vocale tematica) utilizzati per alcune forme non possedibili dell’ayoreo (Ciucci 2010d).
+
+(54) a. b. c. d.
+
+k-u-shjâro (NPS) ‘oggetti di proprietà’, ɨ-shujâro (3) k-ii-bich (NPS) ‘fumo’, ii-bich (3) d-ɨ-chɨt (NPS) ‘pancia, intestino, sterco’, ɨ-chɨt (3) lɨk-ɨ-chɨbich / dɨk-ɨ-chɨbich (NPS) ‘fantasma’, ɨ-chɨbich (3) ‘spirito, immagine’
+
+28
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+Abbreviazioni ANIM = animale domestico; COMP = complementatore; COORD = coordinatore;
+CPOSS = classificatore possessivo; ELAT = elativo; EPST = epistemicità; ESCL = esclamazione; EVID = evidenzialità; F = femminile; FB= forma base; FP= forma piena; FUT = futuro; INDET = forma indeterminata; LOC = locativo; M = maschile; MOD = modalità; NEG = negazione; NPS= non possedibile; P = plurale; PI= plurale inclusivo; PE= plurale esclusivo PREP = preposizione; PST = passato; RFL = terza persona riflessiva; RLS = Realis; s = singolare.
+29
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+Riferimenti bibliografici
+Balbuena, Flores 1991. Erpran eyhi (Semilla de avión en Chamacoco). Asunción: Comunidades Chamacocas / Instituto lingüístico de Verano.
+Baldus, Herbert 1932. Beiträge zur Sprachenkunde der Samuko-Gruppe. Anthropos XXVII: 361-416.
+Bertinetto, Pier Marco 2009. Ayoreo (Zamuco). A grammatical sketch. Quaderni del Laboratorio di Linguistica della Scuola Normale Superiore 8 n.s.
+Bertinetto, Pier Marco 2010. How the Zamuco languages dealt with verb affixes. Quaderni del Laboratorio di Linguistica della Scuola Normale Superiore 9,1 n.s.
+Bertinetto, Pier Marco, Luca Ciucci & Gabriella Enrica Pia 2010. Inquadramento storico, etnografico e linguistico degli Ayoreo del Chaco. In R. Ajello, P. Berrettoni, F. Fanciullo, G. Marotta, F. Motta (a cura di), 2010. Quae omnia bella devoratis. Studi in memoria di Edoardo Vineis. Pisa: Edizioni ETS. 109-146.
+Bertinetto, Pier Marco, Irene Ricci & Zhi Na 2010. Le nasali sorde dell’ayoreo: prime prospezioni. Quaderni del Laboratorio di Linguistica della Scuola Normale Superiore 9,1 n.s.
+Boggiani, Guido 1894. I Ciamacoco. Conferenza tenuta in Roma alla Società Geografica Italiana il giorno 2 giugno 1894 ed in Firenze alla Società Antropologica il 24 dello stesso mese. Roma: Società Romana per l’Antropologia.
+Boggiani, Guido 1929. Vocabolario dell’idioma Ciamacoco. Apuntes póstumos de Guido Boggiani, compilados y redactados por Čestmír Loukotka. Anales de la Sociedad Científica Argentina CVIII: 149-175 e 227-241.
+Chomé, Ignace (S.I.) 1958 [1745?]. Arte de la lengua zamuca (edizione a cura di S. Lussagnet). Journal de la Société des Américanistes de Paris 47: 121-178.
+Ciucci, Luca 2007/08a. Indagini sulla morfologia verbale nella lingua ayoreo. Quaderni del Laboratorio di Linguistica della Scuola Normale Superiore 7 n.s. URL: <http://alphalinguistica.sns.it/QLL07_08.htm>
+Ciucci, Luca 2007/08b. Sulla morfologia nominale dell’ayoreo: genere e numero. In Quaderni del Laboratorio di Linguistica della Scuola Normale Superiore 7 n.s.
+30
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+Ciucci, Luca 2009a. Elementi di morfologia verbale del chamacoco. Quaderni del Laboratorio di Linguistica della Scuola Normale Superiore 8 n.s. URL: <http://alphalinguistica.sns.it/QLL09.htm>
+Ciucci, Luca 2009b. Note di campo (Ayoreo, Chamacoco), 4 voll. (ms.). Ciucci, Luca 2010a. “The structure of possessive inflection in Ayoreo and
+Chamacoco: An overview”. Language in Contact Lecture, Radboud University, Nijmegen, 28 aprile 2010. Ciucci, Luca 2010b. “Morphological evidence for Zamucoan: the case of possessable nouns”. Typology Research Colloquium. Institut für Linguistik, Universität Leipzig, 3 giugno 2010. Ciucci, Luca 2010c. “Cent’anni dopo Boggiani: verso una grammatica del Ciamacoco”. Seconda giornata italiana di studi su lingue amerindiane. Napoli, Università ‘L’Orientale’, 28 giugno 2010. Ciucci, Luca 2010d. La flessione possessiva dell’ayoreo. Quaderni del Laboratorio di Linguistica della Scuola Normale Superiore 9,2 n.s. Combès, Isabelle 2009. Zamucos. Cochabamba: Instituto de Misionología. Crevels, Mily & Wilhelm F. H. Adelaar 2000/06. South America. UNESCO Red Book of Endangered Languages. University of Tokyo. Online version available at: http://www.tooyoo.l.u-tokyo.ac.jp/archive/RedBook/SAmerica/SA_index.cgi. Fabre, Alain 2007a. Diccionario etnolingüístico y guía bibliográfica de los pueblos indígenas sudamericanos. Edición electrónica. Online. <http://butler.cc.tut.fi/~fabre/BookInternetVersio/Alkusivu.html> Fabre, Alain 2007b. Morfosintaxis de los clasificadores posesivos en las lenguas del Gran Chaco (Argentina, Bolivia y Paraguay). UniverSOS 4: 67-85. Sequera, Guillermo 2009. Yxyr poruwo awóso jewo 1.000. Conjugación de 1.000 verbos en ocho tiempos ybytóso. Asunción: Centro de Estudios Antropológicos de la Universidad Católica de Asunción (CEADUC). Biblioteca Paraguaya de Antropología 69. Sušnik Branislava J. 1957. Estructura de la lengua chamacoco-ebitoso (con fraseario del dialecto Ebitoso). Boletín de la Sociedad Científica del Paraguay y del Museo Andrés Barbero, Etnolingüística I.
+31
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+Ulrich, Matthew & Rosemary Ulrich 1989a. Chamacoco Phonemic Write-up. Manuscript.
+Ulrich, Matthew & Rosemary Ulrich 1989b. Analisis de fonología del chamacoco. Manuscript.
+Ulrich, Matthew & Rosemary Ulrich 1990a. Yɨrahlo Eyok Ler Ɨshɨr Ahwoso. Cartilla Graduada en Chamacoco. Puerto Diana: Comunidades Chamacocas & Instituto Lingüistico de Verano.
+Ulrich, Matthew & Rosemary Ulrich 1990b. Letra Ɨshɨr Ahwoso par Ochũrshur. Alfabeto Chamacoco para Pintar. Comunidades Chamacocas & Instituto Lingüistico de Verano.
+Ulrich, Matthew & Rosemary Ulrich 2000. Diccionario Ɨshɨro (Chamacoco) – Español / Español – Ɨshɨro (Chamacoco). Misión Nuevas Tribus Paraguay: Asunción.
+32
+
+

@@ -1,0 +1,745 @@
+THE PERSONAL PARADIGMS IN BAURE AND OTHER SOUTHERN ARAWAKAN LANGUAGES
+Swintha Danielsen
+University of Leipzig
+This article compares the person paradigms of Baure, a Southern Arawakan language of Bolivian Amazonia, to those of other Southern Arawakan languages. It is argued that, in spite of the phonetic variations found in the various Arawakan languages, the person paradigms in the various languages trace back to a single person paradigm, which is proposed here for Southern Arawakan. The person formatives were presumably free forms or clitics, which appeared in different positions to fulfill different functions. In many Arawakan languages, the same forms further grammaticalized into more bound affixes. The proto-forms had a CV structure, which is not present in Arawakan languages today, due to phonetic erosion. The paradigm most likely distinguished 1sg, 2sg, 3sgm, 3sgf, 1pl, 2pl, and 3pl forms. In addition, there may have been an unspecified third-person subject marker.
+[Keywords: Baure, Southern Arawakan languages, person-marking paradigms, Paunaka, personal pronouns]
+1. Introduction.  In the Arawakan language Baure (ISO code: brg), person marking is encoded by pronominal clitics, which are attached to possessed nouns, verbs, and nonverbal predicates. In addition, there are free personal and possessive pronouns, both of which also contain the clitic forms. This article describes the person-marking system of Baure and compares it to the systems found in other Southern Arawakan languages. Sociolinguistic details are given in 1.1. In 1.2, there is brief mention of historical and current data on Baure; the genetic affiliation of the Baure language is sketched in 1.3. Section 2 presents a typological overview of Baure. In 3, the paradigms of personal clitics (3.1), personal pronouns, and possessive pronouns (3.2) are introduced. Section 3.3 describes the absence of 3sg subject marking on verbs. Section 4 addresses the regularity of the Baure person markers in relation to the other languages in the language family. A suggested reconstruction of the person paradigm of Proto-Southern A­ rawakan languages is given in 5. The findings are summarized in 6.
+1.1. Sociolinguistics.  Baure is an endangered Southern Arawakan language spoken in the lowlands of Bolivia. The language is critically endangered, by Krauss’s definition, because it is spoken by only a few people of the great-grandparent generation (Krauss 2007:1). There are approximately 40 speakers in and around Baures, all but one of them older than 60; all
+IJAL vol. 77, no. 4, October 2011, pp. 495–520] © 2011 by The University of Chicago. All rights reserved. 0020–7071/2011/7704–0003$10.00
+495
+
+496
+
+international journal of american linguistics
+
+are bilingual in Spanish. The Baure language has not been transmitted to younger generations for over 40 years. The speakers live in the town of Baures and other small communities in the Beni department, around the Río Negro and Río Blanco, tributaries of the Río Guaporé. The language consists of three dialects: Baure, Carmelito of El Carmen, and Joaquiniano of San Joaquín; the last two are presently undescribed. 1
+1.2. Historical and current data.  In the eighteenth century, two missionaries briefly analyzed the Baure language (published in Adam and Leclerc 1888). Short word lists were compiled by missionaries, travelers, and passersby (e.g., Eder 1985/1772, Fonseca 1881:237–41, d’Orbigny 1843:132–43, and Nordenskiöld 1922). In the 1960s, S.I.L. linguists Priscilla Baptista and Ruth Wallin worked with speakers of the language and published some of their findings (Baptista and Wallin 1967; 1968). There is also a recent grammar (Danielsen 2007) and a sketch grammar written in Spanish (Danielsen [forthcoming a]).
+One of the most striking features in comparing historical data with more recent data is the occurrence of vowel elision, in particular, the deletion of final vowels (see Baptista and Wallin 1968). This phonological process also seems to be one of the major features distinguishing the Baure dialect of the Baure language from the closely related dialects, Carmelito and Joaquiniano, as well as from the Moxo languages.
+1.3. Genetic affiliation and neighboring languages.  According to Aikhenvald’s classification (1999:66–71), Baure is a Southern Arawakan 2 language, a subgroup of the Southern and Southwestern Arawakan branch. Appendix A lists the languages, followed by an indication of the country where they are spoken and ISO codes where available.
+The Moxo (Arawakan) dialects Trinitario and Ignaciano are the most closely related to Baure both geographically and genetically. The Southern Arawakan Paunaka language of southeastern Bolivia, now almost extinct, is also closely related to Moxo and Baure. Unfortunately, only a few notes in historical publications remain about the extinct Paiconeca language; it seems to have
+1 However, these dialects are now being studied as part of the Baure Documentation Project, financed by DoBeS (Volkswagen), based at the University of Leipzig (2008–2011).
+2 In the literature, various names have been used to refer to this language family: Maipuran (e.g., Payne 1991), Arawak (e.g., Aikhenvald 1999), Arawakan (e.g., Adelaar and Muysken 2004). In the past decades, the name Arawak(an) seems to have superseded Maipur(an)/Maipure(an). However, both Maipure and Arawak are somewhat problematical, because they refer to individual languages—in the case of Maipure, an extinct one. Unlike Aikhenvald (1999), I derive the term Arawakan for the family following a general rule—compare Maya, Mayan; Chibcha, Chibchan; Mosetén, Mosetenan—using the terminology of Adelaar (2004) among others. Note also that for some time Arawak(an) was used to refer to an as yet unproved grouping that included other, smaller South American language families, such as Guahibo and Harakmbet (Facundes 2002:81), while Maipuran was thus used for the language family referred to in this paper. For this reason, terms such as Maipuran Arawakan were also used (see Payne 1987).
+
+personal paradigms in baure
+
+497
+
+deviated from Paunaka to some extent, though the two were argued to have been mutually intelligible (see d’Orbigny 1839:275–76).
+The neighboring languages of Baure are Moxo (Arawakan), Sirionó (TupiGuaraní), and Itonama (isolate). Crevels and van der Voort (2008) claim that Baure is part of a linguistic area located in the Guaporé-Mamoré region. H­ owever, the genetic relationship with other Arawakan languages all over Amazonia seems to be more significant in terms of lexicon, phonology, ­morphology, and syntax than the structural similarity within this alleged linguistic area.
+2. Typological overview.  Baure is a polysynthetic, agglutinating, incorporating, classifying, and head-marking language. 3 The main constituent order in a clause is VSO, but this may be changed for focus or emphasis. Pronominal arguments tend to prefer SVO constituent order (also reflecting the order in which pronominal clitics are attached to a verb base) (see figure 1). There is no core case marking, and only location is marked by the suffix -ye on nouns. All other categories, such as causative, benefactive, and directionals, are marked on the verb. 4
+The open word classes are nouns, of which adjectives form a subclass, and verbs. Baure nouns are distinguished in terms of possessability: one subclass of nouns is generally possessed, while another is generally unpossessed. The majority of possessed nouns have a related free (unpossessed) form, derived with the so-called absolute suffix -ko; body parts are derived with the unspecified possessor prefix e-. 5 Bound forms can generally be derived from unpossessed nouns with the possessive suffix -no. Possessed nouns are marked by a possessor proclitic. These personal proclitics are formally identical to those used for subject marking on verbs (see table 1), as illustrated in (1):
+
+3 The phoneme inventory of Baure includes the vowels a /a/, o /ɔ/([ɔ] ~ [o] ~ [ʊ]), i /i/, e /æ/ ([æ] ~ [e]), and oe /œ/ ([œ] ~ [ ɜ]) and the following consonants: plosives /p/ (p [p] and b [b] after nasals), /t/ (t [t] and d [d] after nasals), /k/ (k [k] and g [g] after nasals), ’ /ʔ/ (not always phonemic); fricatives v /v/ ([v] ~ [w]), s /s/, sh /ʃ/, and j /h/; affricate /tʃ/ (ch [tʃ] and zh [dʒ] after nasals); nasals n /n/ ([n] ~ [ŋ]) and m /m/; rhotic r /r/ ([r] ~ [ɽ]); and the semivowels w /w/ and y /j/. There are various (morpho)phonological processes, e.g., palatalization, vowel elision, different types of vowel assimilation, metathesis, and voicing of plosives after a nasal. Wordfinal i causes palatalization of a preceding consonant; final o is generally dropped; it occurs only when morphemes are attached. Words are uttered in phonological phrases, in which all (morpho) phonological processes may also occur between words. Syllable structure is generally CV. There are no consonant clusters and no closed syllables except for those that arise after vowel elision.
+4 This is relevant in comparison to other Arawakan languages, where these categories are frequently marked on nouns or pronouns, e.g., benefactive or comitative.
+5 The term “absolute” is not related to absolut(iv)e case marking. It is frequently used in the Arawakan linguistic literature (see Payne 1991:397). This morpheme also attaches to verb stems in Arawakan languages.
+
+498
+
+international journal of american linguistics
+
+Fig. 1.—The Baure verb base morphology.
+(1) rishoere rinik tich rishonon. ri=ishoere ri=nik tich ri=shonon 3sgf=cook 3sgf=eat dem2f 3sgf=daughter.in.law ‘She cooked so that her daughter-in-law would eat’. 6
+The proclitic ri= ‘3sgf’ marks the subject of the two verbs and the possessor of the noun ‑shonon ‘daughter-in-law’ in (1). Within a possessive NP with nominal possessors, the order is possessed–possessor.
+Adjectives in Baure show mainly nominal behavior and, like nouns, they can be used as arguments, attributes, and predicates.
+Baure verbs are very complex and are the reason Baure is considered a polysynthetic language. There are various verbal affixes attached on three different levels, as summarized in figure 1.
+The verb base constitutes the meaning unit of a verb, to which aspectual, directional, and valency-changing affixes are attached. Personal clitics are used to refer to the main arguments in a clause. Clausal enclitics may be attached to the outermost layer of the verbal word. In addition to the verbal base suffixes, there are a number of preverbal particles for aspect and mood specification. There are two main predicate types in Baure—verbal and nonverbal—distinguished by their different argument-marking strategies, as described in 3.1 below. Figure 1 applies only to verbal predicates.
+3. Personal clitics and pronouns.
+3.1. Personal clitics.  Personal proclitics indicate the possessor on bound nouns and are cross-reference markers on verbs, indicating the subject (1),
+6 The following abbreviations are used in this paper: - affixation; = cliticization; 1sgP = possessive pronoun; 3i = third-person intransitive; 3 = third person; art = article; attr = attributive; C = consonant; cop = copula suffix; cos = change of state; dem = demonstrative (1, 2, 3); emph = emphatic marker; f = feminine; intl = intentional, directional away from speaker; intj = interjection; juss = jussive; loc = locative; m = masculine; nas = nasalization effects; NP = noun phrase; O = object; (P) = patient; pfv = perfective, ‘already’; pl = plural; quot = quotative; (R) = recipient; S = subject; sg = singular; V = vowel; VP = verb phrase.
+
+personal paradigms in baure
+
+499
+
+TABLE 1 Baure Personal Clitics1
+
+Person
+
+Singular
+
+Plural
+
+1
+
+ni=
+
+=ni
+
+vi=
+
+=vi
+
+2
+
+pi=
+
+=pi
+
+yi=
+
+=yi
+
+3
+
+masculine feminine
+
+ro=
+
+=ro
+
+no=
+
+=no
+
+ri=
+
+=ri
+
+1 For possessive marking on nouns, there is an additional unspecified possessor prefix e-, but this form cannot be used on verbs. It is restricted almost exclusively to body parts and some plant parts.
+
+whereas enclitics can refer to both direct (2) and indirect (3) objects. 7 On nonverbal predicates, the subject may be marked by an enclitic (4). 8
+(2) ver nijinokowor. ver ni=jinoko-wo=ro pfv 1sg=see-cop=3sgm
+‘I already saw him’.
+(3) pipanir. pi=pa=ni=ro 2sg=give=1sg=3sgm
+‘You gave it to me’.
+(4) monikowaper. moniko-wapa=ro pretty-cos=3sgm
+‘It has become pretty’.
+The personal morphemes in Baure are analyzed as clitics (indicated by =), not as affixes. They display the following characteristics: they are phonetically bound; their position is external to affixation (see figure 1); they have a syntactic function in a verb phrase; and they can be attached to a number of word classes in various positions. In addition to nouns and verbs, personal clitics are attached to interrogative particles and some adverbs (for more
+7 Two object enclitics may occur on ditransitive verbs in the order recipient–patient. There is, however, a restriction on double-object marking: the second of two objects is always 3sgm and may follow all other enclitics except 3sgm and 3sgf. This last restriction is presumably phonologically driven. Sequences of two enclitics that both contain the rhotic r are avoided. Thus combinations such as *‑ror (3sgm=3sgm) and *-rir (3sgf=3sgm) are not allowed. Interestingly, Shaver (1996:58) mentions similar restrictions for Nomatsiguenga, whereas these are not found in the closely related Asháninka and Ashéninka languages (where one form is simply phonetically reduced by dropping the rhotic).
+8 In addition to the personal enclitic for subject reference, a nominal predicate can also have a personal proclitic attached referring to the possessor.
+
+500
+
+international journal of american linguistics
+
+TABLE 2 Baure Articles and Demonstrative Pronouns
+
+Article Present (dem1) Proximate (dem2) Distal (dem3)
+
+masculine feminine masculine feminine masculine feminine masculine feminine
+
+Singular
+to ti te ti tech tich ten tin
+
+Plural to to nech to nen
+
+detailed discussion of the clitichood of the person markers, see Danielsen 2007:92ff.). The personal proclitics are always bound to a following NP or VP and may also be bound phonetically to a preceding element. The personal enclitics are always bound to the preceding predicate but may likewise attach phonetically to a following element. The personal clitics are listed in table 1.
+The pronominal system of Baure is a “Latin-type” paradigm (see Cysouw 2003:107) with a basic threefold division in the singular and the plural (and an additional gender distinction in the third-person singular). Only biological gender is distinguished in Baure, with masculine as the unmarked form referring to all nouns except for the biologically feminine. There is no 1pl inclusive/exclusive distinction and no zero-marking for any person. All firstand second-person clitics in table 1 have the basic phonetic form Ci, whereas third-person arguments are of the form Co and Ci (ri= ‘3sgf’). The underlying forms of proclitics and enclitics are identical, but the actual phonetic realization of some of the enclitics can differ from the basic form due to phonological rules, in particular, the elision of the final vowel o. Gender distinction is made only in the 3sg, but the proclitic forms may occasionally be neutralized as the phonetic form r= when attached to the initial vowels a or e. Note that the Baure 3sg feminine form ri= seems similar to what is referred to as masculine or nonfeminine in almost all other Arawakan languages. The person markers are one of the important features used to determine the genetic affiliation of Baure with the Arawakan language family (see 4). Almost all other languages in the family have a personal form with a high front vowel that refers to the masculine gender, (e.g., Asháninka ri- ‘3sgm’) and usually a middle back vowel that refers to the feminine gender (e.g., Asháninka ro- ‘3sgf’) (see table 10 below and Romani Miranda 2004:40). Only in Baure is this kind of gender marking exactly reversed (as pointed out by Matteson 1972:161). The predominance of the high front vowel in other feminine forms can also be observed in articles and demonstratives listed in table 2.
+The high front vowel is found in all three feminine demonstratives: ti ‘dem1f’ and the derived forms tich ‘dem2f’ and tin ‘dem3f’. Table 2 indicates
+
+personal paradigms in baure
+
+501
+
+that Baure speakers use the feminine demonstrative ti ‘dem1f’ like an article, and it refers exclusively to feminine animate referents. This is presumably a recent development. The forms to ‘art (m)’ and ti ‘dem1f’ are distinguished by the same vowels that distinguish the personal clitics ro ‘3sgm’ and ri ‘3sgf’. In addition, they are all monosyllabic. The article to is bound to a following NP, but all of the demonstratives can also be used as free pronouns. The similarity of 3sg personal clitics ro ‘3sgm’ and ri ‘3sgf’ and the forms to ‘art (m)’ and ti ‘dem1f’ may explain why the latter form has also come to be used for subject marking on verbs. There are only two examples of this in the data, from two different speakers. In both cases, the demonstrative or article ti ‘dem1f’ is used instead of the personal proclitic ri= ‘3sgf’:
+
+(5) tich ndir tiy napiri’ ti-pinop ach tech kiwor ver rokachpow.
+
+tich
+
+ndir tiy
+
+napiri’ ti=pino-po
+
+ach
+
+dem2f 1sgP aunt also dem1f=flee-pfv and
+
+tech
+
+kiwor ver ro=kach-po-wo
+
+dem2m snake pfv 3sgm=go-pfv-cop
+
+‘My aunt also fled and the snake went away’.
+
+(6) tiporek ver ti-koshirowapa, ver rim to na’.
+
+tiporek ver ti=ko-shiro-wapa
+
+ver ri=im to na’
+
+chicken pfv dem1f=attr-son-cos pfv 3sgf=put art egg
+
+‘The chicken has already laid eggs, she already put an egg’. 9
+
+It is possible that the demonstrative ti is used, instead of the regular crossreferencing proclitic ri= ‘3sgf’, in order to place more emphasis on the subject. In both sentences, the subject is in focus, with the subject NPs preceding the verb. Although the speakers did not correct themselves, and there may be more of these cases in spontaneous speech, the same forms would never have been accepted in elicitation. This hypercorrectness can likely be attributed to the fragile state of the language. None of the historical data provides any examples of this kind. On the other hand, the closely related Southern Arawakan language Paunaka marks intransitive 3sg with the prefix ti- without any gender distinction (see 4.1), while a comparable form ti-/ty- can be found in the Moxo languages Ignaciano and Trinitario (see Rose’s paper in this volume), used for unspecified subject marking in particular contexts. Another analysis of the variations shown in (5) and (6) would be that subject marking by a formative ti= stems from an alternative 3sg marking strategy for focused subjects.
+
+9 The first clause is the conventional way to say ‘lay eggs’; the second was given as an explanation to me.
+
+502
+
+international journal of american linguistics
+
+TABLE 3 Baure Free Personal Pronouns 1
+
+Person
+
+Singular Plural
+
+1
+
+ndi’1
+
+viti’
+
+2
+
+piti’
+
+yiti’
+
+3
+
+masculine feminine
+
+roti’ noti’
+riti’
+
+1 The 1sg form deviates slightly because of the
+
+voicing effect that the nasal has on the following
+
+plosive after the deletion of the vowel i.
+
+TABLE 4 Baure Possessive Pronouns
+
+Person
+1 2
+masculine 3 feminine
+
+Singular
+ndir pitir rotir ritir
+
+Plural vitir yitir
+notir
+
+3.2. Personal and possessive pronouns.  Free personal pronouns cannot replace the clitics, but they may be used in addition to clitics for pragmatic purposes. Even though there is an explicit subject in (7), ndi’ ‘I’, which is due to emphasis on the subject, there is also subject marking on the predicate kwoni ‘I am/was’.
+
+(7) ndi’ kwoni ne’ sorati-ye.
+
+ndi’ ko-wo=ni
+
+ne’
+
+1sg attr-cop=1sg here
+
+‘I am here in the village.’
+
+sorati-ye village-loc
+
+The free personal pronouns in Baure are composed of the clitics and the formative ‑ti’, as shown in table 3.
+It is possible that the formative -ti’ is related to the demonstrative ti ‘3sgf’ diachronically (see table 2)—note the stress on the syllable ‑ti(’) and the lack of palatalization of the consonant t. In the orthography, the nonphonemic glottal (’) marks the heavy syllable. 10 It is therefore possible that the free pronouns were originally deictic formatives with person marking; such forms
+
+10 “Heavy syllable” in Baure means that the vowel is always pronounced with more force, possibly with a glottal stop following; these vowels are thus distinguishable from the usually
+
+personal paradigms in baure
+
+503
+
+exist in some other Arawakan languages, e.g., Apurinã (Facundes 2000:356) and Yavitero (Mosonyi and Mosonyi 2000:614−15). 11 On the other hand, it is also notable that -ti is a frequent suffix in Campan languages, used to derive an absolute (unpossessed) noun, which could also be related to the suffix found in Baure. Since the personal clitics are bound forms, the free forms have to be derived; this is actually the function of the absolute suffix in Arawakan languages. However, an absolute suffix would not attract stress. Baure possessive pronouns are given in table 4.
+Possessive pronouns are derived from personal pronouns by adding the suffix -r(o), which may be related to a Proto-Arawakan genitive or possessive suffix *-re (see Aikhenvald 1999:82). Thus the following derivational relationship holds between the three personal pronominal categories:
+
+personal clitics	  → personal pronouns	  → possessive pronouns
+
+pi- ‘2sg’ [+ -ti’] piti’ ‘2sg’
+
+[+ -r(o)] pitir ‘2sgP’
+
+3.3. Absence of 3sg subject marking on verbs.  The absence of 3sg subject marking on verbal predicates in Baure can be observed in narratives and in spontaneous speech. In some cases, this may be the result of error. Usually, however, it is a perfectly acceptable alternative. In narratives, frequently used verbs, such as ‑kach- ‘go’, ‑shim- ‘arrive’, and -kich- ‘say’, may lack subject marking, as in (8)−(10):
+
+(8) buen, kachow-ji ripjikper. shim to ses. buen kach-wo=ji ri=ipjik-pa=ro well go-cop=quot 3sgf=hide-intl=3sgm
+‘Well, she went to hide him. The sun arrived’.
+
+shim arrive
+
+to ses art sun
+
+In (8), there are two instances in which subject marking is dropped. The person reference ri= ‘3sgf’ is missing on the verb kachow-ji ‘she went, it is said’, but the subject can be recovered from the prior discourse. The subject in the preceding sentence in this narrative is the mother of the sun, who is hiding the young man from the evil sun. The sun (to ses) is the son of the woman and masculine in this narrative. The verb shim ‘he arrived’ thus refers to the action performed by the sun and lacks the personal proclitic marker ro= ‘3sgm’.
+
+(9) “ta rinik te riveiyan!” kachpow.
+
+ta ri=nik te
+
+ri=veiyan kach-po-wo
+
+juss 3sgf=eat dem1m 3sgf=lover go-pfv-cop
+
+‘ “Shall she eat her lover!” (she said and) left’.
+
+weak final vowels, which frequently undergo elision. These syllables may subsequently attract stress, whereas stress usually falls on the penultimate (underlyingly CV) syllable.
+11 One Baure speaker indicated that these pronouns are perceived as composed forms. He occasionally used another (for him more logical) demonstrative pronoun to derive the 3sgm form ro-tech (3sgm-dem2m) ‘he’ instead of roti’.
+
+504
+
+international journal of american linguistics
+
+TABLE 5 Postulated Proto-Arawakan Person Markers1
+
+Person
+
+Singular
+
+1
+
+*nu- or *ta- *-na, *-te
+
+2
+
+*(p)i-
+
+*-pi
+
+3 masculine
+
+*ri-, *i-
+
+*-ri, *-i
+
+3 feminine
+
+*thu-, *u- *-thu, *-u
+
+Nonfocused A/Sa ‘Impersonal’
+
+*i-, *a*pa-
+
+Dummy So/O
+
+*-ni
+
+1 From Aikhenvald (1999:88).
+
+Plural
+*wa- *-wa *(h)i- *-hi *na- *-na
+
+The verb -kach- ‘go’ in the second part of (9) lacks subject marking. The action is performed by the speaker of the first part of the sentence, the evil mother-in-law in this narrative; thus ri= ‘3sgf’ is used.
+
+(10) kichowor-ji: “ja! kikoe’ nerikikoe’ ver nisokiaper”, rokichowor-ji.
+
+kicho-wo=ro=ji
+
+ja kiko-i’
+
+neriki-koe’
+
+say-cop=3sgm=quot intj really-emph now-emph
+
+ver ni=sokia-pa=ro
+
+ro=kicho-wo=ro=ji
+
+pfv 1sg=find-intl=3sgm 3sgm=say-cop=3sgm=quot
+
+‘He said to him: “Ha! Right now I will really find him!” he said to him’.
+
+In (10), the verb kichowor-ji ‘he said to him, it is said’ lacks subject marking. This verb occurs in almost every sentence before and/or after direct speech in narratives. It also occurs at the end of this sentence, where subject marking is present: rokichowor-ji ‘he said to him, it is said’.
+The lack of subject marking in Baure should probably be considered a reduction of the verbs, where person reference is considered to be unnecessary because it is recoverable from the context (topics). In careful speech or elicitation, the subject is always marked. In the historical data, subjects are also always marked. That person marking may be dropped shows the relatively less bound character of personal clitics; affixes are generally expected to be so bound that such a process should not occur.
+It is possible that if the language were still spoken actively, the marking of 3sg would become less and less important. As shown in 4, some closely related Southern Arawakan languages have indeed dropped the marking of 3sg subjects (e.g., Terêna and Paresi).
+
+4. The Baure paradigm compared to other Southern Arawakan paradigms.  In this section, the person cross-referencing affixes of the other Southern and Southwestern Arawakan languages are compared to Baure
+
+personal paradigms in baure
+
+505
+
+TABLE 6 Paunaka Person Markers
+
+Person
+1 2
+3 (transitive/possessive)
+3i (intransitive/transitive with   oblique object)
+
+Singular ne- -ne pi- -pi chi- (-chi)
+ti-
+
+Plural (Human)
+
+Quantity (Nonhuman)
+
+bi-
+
+-bi
+
+e-
+
+-e
+
+chi- . . . -nube
+
+-nube
+
+chi- . . .-jane -jane
+
+ti- . . . -nube
+
+-nube ti-. . .-jane
+
+-jane
+
+(table 1) and to the proposed Proto-Arawakan forms (table 5). The Baure person-marking paradigm is strikingly regular when compared to other Arawakan languages. First, the Baure personal proclitics do not deviate formally from the enclitics, at least not in their underlying forms. The prefixes and suffixes of other Arawakan languages are frequently distinctive forms. Second, in other closely related Southern Arawakan languages, some persons are not marked by bound forms. The most striking variations are:
+(a) There is no 3sg prefix (ter, pab, ggn, wau, mmh). 12 (b) There are specific distinctions in the third person (ign, trn). (c) There is no 3sg suffix (qpa, ign, trn, pab, ame). (d) There are no personal suffixes/enclitics in the plural (qpa) or 3pl (ter,
+ign, pab). 13 (e) Plural persons receive separate person and (optional) number marking
+(ign, trn, cni, ter, apu, inp, cuj, ccc, ame), in particular 2pl and 3pl. (f) Some or all prefix forms are phonetically eroded (ter, cni, apu, inp, cuj, ccc, trn). (g) Some or all suffix forms are phonetically eroded (trn, ame, apu 2sg, cni 2sg).
+Aikhenvald (1999:88) proposes the Proto-Arawakan personal affixes shown in table 5. 14 The second of the two forms given for 1sg can be ignored in the comparison of Southern Arawakan languages; the forms related to *ta-/*-te
+12 The languages compared in this section are abbreviated as follows: Asháninka (cni), Amuesha (ame), Apurinã (apu), Chamicuro (ccc), Ignaciano (ign), Iñapari (inp), Kinikinau (ggn), Mehináku (mmh), Paresi (pab), Paunaka (qpa), (Mashco) Piro (cuj), Terêna (ter), Trinitario (trn), and Waurá (wau).
+13 Rose (personal communication) considers trn -woko (ign -vaca) to be a marker of 3pl. The Ignaciano form is not considered here because the specific functions of the morpheme are not known and because it is obviously unrelated to the Proto-Arawakan person-marking system. In Apurinã, ‑wako is a plural suffix on human nouns (see Facundes 2000:260).
+14 Payne (1987:62­–63) reconstructs these proto-forms: *nu ‘1sg’, *pi ‘2sg’, *ri ‘3sgm’, *tu ‘3sgf’, *wa ‘1pl’, *xi ‘2pl’, and *na ‘3pl’. Matteson (1972:164) reconstructs these forms:
+
+506
+
+international journal of american linguistics
+
+are only found in a subgroup of Caribbean (Northern) Arawakan languages (see Aikhenvald 1999), such as Lokono and Guajiro.
+4.1. The Paunaka language (Bolivia).  The Paunaka language is closely related to Baure. It is also a Bolivian Southern Arawakan language and is almost extinct (Villafañe [n.d.] and my field notes). 15 The Paunaka person markers are shown in table 6.
+While the forms for 1sg, 1pl, and 2sg are similar to the Baure forms in table 1 and to the Proto-Arawakan forms in table 5, the 2pl deviates from the proto-form *(h)i and the Baure yi ‘2pl’. The most interesting case is the differentiation of third-person subjects according to valency. The prefix chi- marks subjects on transitive—also derived—verbs and the possessor on nouns, whereas ti- ‘3i’ marks subjects of intransitive—also derived—verbs, and on those verbs that do not involve a direct object but rather some sort of marked indirect or oblique object. There is no gender distinction in Paunaka in the third person. Nonhuman patients are not cross-referenced on verbs. The prefix ti- ‘3i’ could formally be related to the Baure demonstratives (see table 2 and examples 5 and 6 above). ti- and chi- could also be related, chi- possibly having been derived from ti- ‘3i’ by palatalization. 3pl human subjects are marked like 3sg with an additional plural suffix on the verb. However, this plural suffix does not occur obligatorily. In addition to plural -nube, which is only marked with human arguments, there is also a plural marker for nonhuman arguments, the suffix -jane. 3pl objects are only marked, if at all, by the plural suffix. The plural suffixes can refer to either a third-person subject or a third-person object. Thus certain combinations may create ambiguous forms, e.g., 3sg subject and additional plural object cross-reference (e.g., chi- . . . -nube) may also be interpreted as a 3pl subject, in which case the suffix would not refer to a plural object but to the subject (chi- . . . -nube). Subject marking seems obligatory only for 1sg and 2sg (possibly also 1pl). All the other persons can instead be referred to by an explicit NP or a pronoun. All of the suffixes in table 6 are also used for subject reference on nominal predicates.
+In Paunaka, the free pronouns for first and second person are composed of a personal prefix and the formative -ti: nɨti ‘1sgP’, piti ‘2sgP’, biti ‘1plP’, and eti ‘2plP’ (compare table 2). Third-person pronouns are identical to a set of demonstrative pronouns in Paunaka: echɨ ‘that, (s)he’, echɨnube ‘those, they’. Possessive “pronouns” (if they can be analyzed as such) are composed of a personal prefix and the locative/genitive/dative suffix -yae.
+
+*n(V)-/*-nu ‘1sg’, *p(V)-/ *-pV ‘2sg’, *r(V)-/*‑ri ‘3sgm’, *t(V), *u-/*-ru ‘3sgf’, *w(V)-/*-wV ‘1pl’, *h(V)-/*-hV ‘2pl’, and *r(V)-, *(h)i-. . .-na/*-na ‘3pl’.
+15 I collected data from three speakers of the last family of Paunaka speakers between 2008 and 2010 in Concepción de Chiquitos, Bolivia. This work resulted in a short grammar (Danielsen [forthcoming b]). Paunaka is currently being studied through the Paunaka Documentation Project, financed by ELDP, SOAS (2011−2013).
+
+personal paradigms in baure
+
+507
+
+TABLE 7 Ignaciano Person Markers1
+
+Person
+
+Singular
+
+Plural
+
+1
+
+nu- -nu
+
+vi-
+
+-(’a)vi
+
+2
+
+pi- -vi
+
+e-
+
+-’e
+
+3 human masculine (masculine speaker)
+
+ma-
+
+na-
+
+3 masculine (feminine speaker)
+
+ñi-
+
+na-
+
+3 feminine
+
+su-
+
+na-
+
+3 nonhuman and inanimate
+
+ta-
+
+ta-
+
+3 unspecified (only on V)
+
+ti-
+
+ti- (pl -ana)
+
+1 From Olza Zubiri et al. (2004), with the orthography adjusted.
+
+4.2. The Moxo language (Bolivia).  The Moxo language (here illustrated by the Ignaciano dialect) shares a basic vocabulary with Baure and Paunaka. The person markers appear in table 7 (Olza Zubiri, Nuni de Chapi, and Tube [henceforth Olza Zubiri et al.] 2004:21, 88).
+The forms for 1sg, 1pl, and 2sg are similar to the Baure, Paunaka, and Proto-Arawakan forms. The 2pl prefix (and suffix as well, ignoring the glottal stop) is in fact identical to that of Paunaka (see table 6). In the third person, there are many fine-grained distinctions that are generally not found in ­Arawakan languages: human referents are distinguished from nonhuman and inanimate referents; in addition, there is an unspecified prefix, used under similar conditions in the Trinitario dialect, where it is mainly found with intransitive verbs or transitive verbs with a speech-act participant object (see Rose’s paper in this volume). The forms for masculine referents are again differentiated by the sex of the referent and also of the speaker. 16 None of the third-person markers are suffixes, so that objects and subjects of nonverbal predicates can only be referred to by free pronouns if there is no explicit NP and if their identity is not evident from the context.
+The prefix ti- for third-person unspecified is only attached to verbs (see Olza Zubiri et al. 2004:23 and Rose’s paper in this volume). As shown in 4.1, Paunaka uses this ti- prefix to mark third-person subjects of intransitive verbs. In Moxo, the choice of the subject marker depends on inherent properties of the verb and the related object. In 3.2, the form ti- was shown to occur as a variant for the marking of feminine subjects in Baure. The forms may all be related, which could indicate diffusion in geographically close Arawakan languages. The third-person unspecified form can be pluralized by attaching the general plural morpheme -ana ‘pl’ to the noun or the verb.
+16 The additional distinction by sex of the speaker is unique in the Arawakan family and is possibly an innovation in the Moxo dialects. It may be traceable to a language that was formerly spoken in the area and is now extinct; alternately, it may be the result of influence from the Chiquitano language (see Falkinger 2002).
+
+508
+
+international journal of american linguistics
+
+Person 1 2
+3
+
+TABLE 8 Terêna Person Markers
+
+Singular
+
+n-_C/
+
+-nu
+
+_V + nas
+
+(y-)
+
+-pi
+
++ vowel shift
+
+-a
+
+Plural
+
+(v-)
+
+-Vvi
+
+(y-) + vowel shift (+ pl -noe)
+(pl -hiko)
+
+-pi (+ pl -noe)
+-a (+ pl -hiko)
+
+The personal pronouns are composed of the personal prefixes and the suffix -ti (1sg, 2sg, 1pl, 2pl) or a prefix e- (3sg, 3pl). The 3sg and 3pl forms are also used as demonstrative pronouns (as in Paunaka).
+4.3. The Terêna language (Brazil).  Terêna is a Southern Arawakan language from Mato Grosso do Sul in Brazil. The person markers are listed in table 8 (Ekdahl and Butler 1979:197).
+The Terêna paradigm shows that the singular person prefixes are phonetically more reduced than the suffixes, but some of the sets seem to be related to the same proto-form. The 1sg prefix obeys different rules depending on the onset to which it is attached: if 1sg is added to a consonant-initial base, it is represented by the nasal n- with subsequent phonological effects on the consonant (which may be voiced or changed in its quality, comparable to the processes observed in Baure). If there is an initial vowel, a nasal n or m is inserted after the second syllable of the word, which nasalizes the vowel of that syllable. The nasal quality of the prefix form is reduced when compared to the proto-form. On the other hand, the suffix -nu ‘1sg’ appears intact. The 1pl form is related to Proto-Arawakan and is similar to Baure, Paunaka, and Ignaciano.
+The second-person prefix is a palatal glide y- which causes a vowel shift in the following syllable(s). The glide is possibly reduced from a form like the suffix -pi ‘2sg’.
+A second-person plural subject is expressed in Terêna with the secondperson prefix with optional marking by the plural suffix -noe. The secondperson plural object is marked by -pi, like the singular object, and the plural marker ‑noe can indicate the plural number optionally.
+3sg and 3pl are not marked by prefixes at all, although the zero-marking could also be considered a type of marking by default; third persons are the most likely to employ zero-marking (see Cysouw 2003:57). 17 The general
+17 The Kinikinau language, Terêna’s closest neighbor, also shows zero-marking for 3sg (Guimarães de Carvalho Couto 2005), as do the Brazilian Southern Arawakan languages Paresi
+
+personal paradigms in baure
+
+509
+
+TABLE 9 Apurinã Person Markers
+
+Person
+1 2 3 masculine 3 feminine
+
+Singular
+nɨ- -no pɨ- -i ɨ- -rɨ o- -ro
+
+Plural
+
+a-
+
+-wa
+
+hĩ-
+
+-i
+
+ɨ- (pl -na) -rɨ o- (pl -na) -ro
+
+plural suffix -hiko ‘pl’ can indicate 3pl optionally. Only third-person objects have a specific object-marking suffix -a, which does not seem to be related to any of the proto-forms.
+Some of the free personal pronouns in Terêna have presumably been derived from a formative ‑ti as well: undi ‘1sg’ (with the typical voicing effect of the preceding nasal), iti ‘2sg’, uti ‘1pl’ (Eastlack 1968:3).
+4.4. The Apurinã/Piro /Iñapari subgroup (Brazil/Peru).  The Southwestern Arawakan languages Apurinã, Piro, and Iñapari are considered to form a subgroup within the Southern Arawakan languages (see Facundes 2002:85). In this section, I focus on Apurinã, which is spoken in the Brazilian lowlands in the states of Acre and Amazonas, and is the best described of the three languages (Facundes 2000). The person markers of Apurinã are given in table 9 (Facundes 2000:271).
+Most of the Apurinã forms are identical to those of Piro and Iñapari, except as indicated below. The Apurinã markers for 1sg and 2sg are similar to those in Baure, Paunaka, Moxo, and Proto-Arawakan. Comparison suggests that the 2sg suffix has been phonetically reduced. This could be explained by the diachronic and often synchronic close relation between i and ɨ in Southern Arawakan languages (in Paunaka, the two vowels are frequently allophones, according to my own investigation). The markers for 3sg, on the other hand, show that the prefix forms are phonetically more reduced than the suffixes. Nonetheless, these forms are also similar to the Proto-Arawakan forms and to the Campan markers (see 4.5 below). While the 1pl is marked by a bilabial phoneme (v or b) and possibly the vowel i in the Southern Arawakan languages, the Southwestern Arawakan languages seem to use the ProtoArawakan form: a bilabial phoneme and the vowel a. In Apurinã, the 1pl prefix a- is again phonetically more reduced than the suffix -wa. The bilabial semiconsonant is still present in the 1pl prefixes of Piro and Iñapari, however. The 2pl form is similar to Proto-Arawakan, and the suffix is phonetically less
+(Rowan 2001), Waurá (Richards 1988 and Corbera Mori 2005), and Mehináku (Corbera Mori 2005). Since all of these languages are currently being studied (including Terêna), knowledge about their argument-encoding systems is limited.
+
+510
+
+international journal of american linguistics
+
+Person
+1 exclusive 1 inclusive 2 3 masculine 3 feminine
+
+TABLE 10 Ashéninka/Asháninka Person Markers
+
+Singular
+
+no-
+
+-na
+
+pi-
+
+-mi
+
+i(r)-/ri- -ri
+
+o-/∅/ro- -ro
+
+Plural
+
+no- (pl -(pai)ni)
+
+(pl -(pai)ni) -na
+
+a-/∅
+
+-ai
+
+pi- (pl -(pai)ni)
+
+(pl -(pai)ni) -mi
+
+i(r)-/ri- (pl -(pai)ni) (pl -(pai)ni) -ri
+
+o-/∅/ro- (pl -(pai)ni) (pl -(pai)ni) -ro
+
+complex. 18 3pl can be distinguished from 3sg by the plural suffix -na, which is added only for subjects; object marking of 3pl is identical to that of 3sg.
+In Piro, there is no gender distinction for 3pl and 3sgf is marked by t- (see Matteson 1965:94). In Iñapari, there is a gender distinction for 3pl suffixes but not 3pl prefixes (see Parker 1995). Piro has an additional suffix -ni for 3sg objects; this has not yet been described in sufficient detail.
+The personal pronouns in the three languages are composed of the personal markers and various formatives. In Apurinã, the pronouns of speech-act participants (1sg, 2sg, 1pl, and 2pl) are composed of the personal prefix and the formative -ta/-te; but the 3sg forms include a different formative: ‑wa (Facundes 2000:346). In addition, personal prefixes are combined with demonstrative formatives, which are used as demonstrative pronouns (see 3.2). In Iñapari, the formatives ‑ha, -sa, and -a are used in free personal pronouns (Parker 1995:192). In Piro, the pronouns of speech-act participants are also composed of a personal prefix and the formatives -ta or -txa [-tʃa], whereas the 3sg and 3pl forms are composed of the formative wa- and a personal suffix (Matteson 1965:106).
+4.5. The Campa languages Ashéninka/Asháninka (Peru).  The Southwestern Arawakan languages Ashéninka and Asháninka belong to the ­Peruvian Campa language group. Both appear to be dialects of the same language (see Romani Miranda 2004:36), together with various additional dialects. These dialects have slightly different phonologies and vocabularies, but the person-marking system is the same. It is also similar in the other Campan languages: Machiguenga, Nomatsiguenga, and Nanti. The Ashéninka/Asháninka personal affixes are listed in table 10 (Payne, Payne, and Sánchez S. [henceforth Payne et al.] 1982:94 and Romani Miranda 2004:40).
+18 The vowel in the prefix is nasalized after the fricative h, a common Arawakan feature.
+
+personal paradigms in baure
+
+511
+
+Person 1 2 3
+
+TABLE 11 Chamicuro Person Markers
+
+Singular
+u-_C/ w- _V ∅-_C/ pi-/p(y)_V i-_C/ y-_V
+
+Plural
+a-_C/ aw-_V ∅-_C + pl -si/ pi-/p(y)_V + pl -si i-_C + pl -kana/ y-_V + pl -kana
+
+In Ashéninka, the forms for 1sg and 2sg are similar to those in Baure, Paunaka, Ignaciano, Apurinã, and Proto-Arawakan, and to some degree Terêna. In the forms for 1sg, the nasal coincides with the forms already presented, whereas the vowels show variation. In the suffix for 2sg, the bilabial consonant is sonorant instead of plosive, which occurs in the prefix. The forms for third person resemble the proto-forms (see tables 5 and 11), but the prefixes are reduced phonetically. Which form is ultimately realized seems to depend on the onset syllable. The variation in this slot has led to much confusion in the literature on Campan languages. In some descriptions, authors give the various realized forms without mentioning a basic underlying form. In Payne et al. (1982), only the reduced forms are given; but in a more recent publication, the basic forms of the 3sg prefixes are given as ri- ‘3sgm’ and ro- ‘3sgf’ (Romani Miranda 2004:40). Except for the gender reversal, the s­ uffixes are identical to the Baure forms. Plural persons are identical to singular persons, but there may be additional marking by means of the general plural suffix ‑(pai)ni ‘pl’. Whether the plural marking refers to the subject or the object is ambiguous and must be interpreted from the context. There is also a 1pl inclusive form. All other Arawakan languages are of the “unified-we” type (see Cysouw 2003:80) without the inclusive/exclusive distinction. There are suffixes for all persons, just like in Baure, and these forms deviate only slightly from the prefixes.
+Personal pronouns are composed of a personal morpheme and the formative -ro or, in some dialects, the formative -ko (Reed and Payne 1983:91).
+4.6. Southwestern Arawakan Amuesha and Chamicuro (Peru).  The Southwestern Arawakan languages Amuesha and Chamicuro seem to form a subgroup distinct from other Arawakan and Southern Arawakan languages. In particular, Amuesha is argued to have been subject to diffusion from contact with other languages (Adelaar 2006:290–312 and Danielsen, Dunn, and Muysken 2011); but this is presumably also true for Chamicuro (considering, e.g., that Parker [1988:83] identified 28% cognates with the Andean
+
+512
+
+international journal of american linguistics
+
+Person
+1 2 3
+
+TABLE 12 Amuesha Person Markers
+
+Singular
+
+ne-
+
+-Vn
+
+pe-
+
+-Vp(y)
+
+po-/pwe- ∅
+
+Plural
+yesepo-/pwe- (pl -et)
+
+-Vy -Vs pl -et
+
+isolate Chipaya, using the Swadesh 100-word list). Data on Chamicuro are scarce, but the person-marking paradigm is as given in table 11, according to Parker (1988).
+Only the subject person markers are given in table 11, because Parker did not describe the verbal morphology with object reference. As shown by Parker (1988:80), the person markers are probably cognate with Proto-Arawakan markers in the following way: 1sg, 3sg, and 1pl have lost their initial consonant—thus 1sg u- could be the remnant of Proto-Arawakan *nu-; 3sg i- the reduced form of the masculine prefix *ri-, or a similar form (ti‑), is related to the proposed focus prefix *i- (see table 5); and the bilabial consonant is still present in 1pl aw-. There is no gender distinction in the third person in Chamicuro. The 2sg prefix is identical to the proto-form; however, before an initial consonant 2sg is zero- marked, which does not generally happen in other Arawakan languages. 2pl is the second-person marker with an additional plural suffix -si. 3pl is the third-person form with another plural -kana. 19 Interestingly, personal pronouns for speech-act participants are composed of the personal form and the formative -’ti. The third-person pronouns are identical to demonstrative pronouns and are unrelated to the paradigm in table 11.
+Amuesha has the person-marking paradigm shown in table 12 (see DuffTripp 1997:29, 41). Some aspects of the Amuesha paradigm are especially noteworthy. 1sg and 2sg are presumably cognate with the Proto-Arawakan forms, although the suffixes have eroded phonetically. 1pl and 2pl are distinct from all forms in Southern Arawakan languages, but 2pl se- could be related to Chamicuro -si. The markers for third person with a bilabial plosive are also quite different from the proto-forms. For 3pl, there is an additional plural suffix -et, which likewise shows no formal relation to other plural markers. Only the morphological strategy of marking plural by the addition of a suffix can be found in a number of other Southern Arawakan languages. The personal pronouns for speech-act participants are the person prefixes, followed by the vowel a, and result in monosyllabic morphemes. The possessive and genitive forms are derived by the vowel change to o, but the forms remain monosyllabic. The pronouns for third person are clearly different from the
+19 This is the present plural suffix; the past form is -kati.
+
+personal paradigms in baure
+
+513
+
+TABLE 13 Postulated Proto-Southern Arawakan Person Markers
+
+Person
+1 2 3 masculine 3 feminine 3 unspecified
+
+Singular
+*nu *pi *r-i *r-u *ti
+
+Plural *w(a) *hi/*yi
+*na
+
+paradigm in table 12: ña ‘(s)he’, ño ‘his/her’, and ñet ‘they’, ñeto ‘their’ (see Duff-Tripp 1997:61).
+5. The person markers of Proto-Southern Arawakan.  Having compared the person-marking systems of Southern Arawakan languages in 4.1– 4.6 above, I now consider the proto-forms of Southern Arawakan person markers. The forms I propose here are the result of a synchronic comparison, but not a diachronic reconstruction, and should be regarded as only the first step toward a systematic historical reconstruction of these forms. The protoforms of Arawakan given in table 5 (Aikhenvald 1999:88) are presented as two sets of almost identical affixes: prefixes and suffixes. Their similarity cannot be a coincidence. In table 1, the Baure person clitics are shown to have the same proclitic and enclitic forms. It seems likely that in the ProtoArawakan language(s), there was only one set of person markers, either free personal pronouns or clitics, which were attached in different places according to their functions. This coincides with Payne’s (1987) treatment of the personal affixes. These proto-forms were then grammaticalized as bound morphemes, with the resulting phonetic reduction (as discussed in the preceding sections for some of the Southern Arawakan languages). Zeroperson marking can be seen as a further step in the progressive phonetic erosion of the bound forms. 20 The proto-forms presumably had the syllable structure CV throughout. In this respect, Baure can potentially be regarded as one of the most conservative Southern Arawakan languages, because the person markers are still analyzed as clitics, not affixes, and they are all CV.
+The original pattern probably had three basic person distinctions, with an additional gender distinction in the 3sg and separate singular and plural forms. In addition, there may have been an alternative 3sg or third-person unspecified subject marker, as described for Trinitario by Rose (see her paper in this volume), or indefinite subject, as in the Northern Arawakan languages
+
+20 However, facultative zero-marking in Baure (see examples 8−10) may hint at the fact that person morphemes were once less bound. In languages like Terêna, it could also have been the case that third-person markers never developed into bound forms.
+
+514
+
+international journal of american linguistics
+
+of the Vaupés area (see Aikhenvald 1995). The proposed personal paradigm of Southern Arawakan is presented in table 13.
+*nu ‘1sg’:  The forms nu- and no- are found in most Arawakan languages. In general, there is only one rounded vowel (see Aikhenvald 1999:78). So the u here stands for the rounded vowel realized in the specific languages. The vowel i in Baure shows a regular correspondence with a rounded vowel in Moxo, as, e.g., in Baure shiye’ and Ignaciano chuye ‘fox’ or Baure in and Ignaciano une ‘water’. Some other variations are due to the fact that nasal consonants cause a number of phonological effects in Arawakan languages.
+*pi ‘2sg’:  The form found with least variation is the 2sg pi-/-pi. It occurs in Baure, Paunaka, Ignaciano, Apurinã, Ashéninka, Amuesha, Chamicuro, and in Terêna as an affix (with possible phonetic erosion).
+*ri/ru ‘3sgm/f’:  The rhotic for 3sg occurs in those languages that seem to have preserved more of the Proto-Arawakan forms: Ashéninka and all other Campan languages, the Apurinã subgroup, and Baure. The forms postulated in table 5 show that at least the masculine form agrees with the current suggestion for Proto-Southern Arawakan. The gender distinction can be interpreted as secondary; it is indicated by the vowels *i (m) versus *u (f). Again, u here represents the general rounded vowel in the specific language. In Baure, this gender distinction is reversed, as has already been mentioned. 21 The specific distinctions in 3sg marking of the Moxo languages Ignaciano and Trinitario should be considered language specific. They are either a language-internal innovation or the result of diffusion. Languages with completely different markers for 3sg, like Amuesha, presumably first lost the markers for 3sg and then replaced them with others (see Payne 1987:61).
+*ti ‘3 (unspecified)’:  The personal form *ti may have been an unspecified third-person marker, possibly also referring to other functional distinctions. Paunaka uses this third-person marker for intransitive verbs; and in Ignaciano and Trinitario, it is also an alternative to third-person marking with a specific discourse function and is related to inherent properties (kind of verb and object [see Rose’s paper in this volume]). In Piro, t- is the marker for 3sgf only. The form *ti may also be related to the demonstratives in Baure, where the consonant t is pervasive, and on a broader scale to the formative -ti(’) that was diachronically used for the derivation of personal pronouns in Baure, Ignaciano, Trinitario, Terêna, Kinikinau, and Chamicuro (possibly also related to the formatives ‑ta/-te in Apurinã). A preliminary conclusion is that there were probably two competing strategies for 3sg marking.
+*w(a) ‘1pl’:  This form is also found in table 5. In relation to this protoform, some Southern Arawakan languages have maintained only a bilabial or
+21 Alternatively, it is possible that a shift from i < u or vice versa was responsible for the reversed forms in Baure. It is probable that both processes, vowel shift and reinterpretation, played a role in the change of these personal forms in Baure.
+
+personal paradigms in baure
+
+515
+
+labio-dental consonant w/v/b (Baure, Paunaka, Ignaciano, Terêna). The 1pl inclusive in the Campan languages, on the other hand, preserved the a of the Proto-Arawakan form. This additional person 1pl inclusive is an innovation of the pre-Andean Campa languages. It is presumably the result of Quechua or Aymara influence. Theoretically, such influence may also account for plural marking by means of (plural) suffixes added to the singular forms (see Adelaar and Muysken 2004:211ff.). However, the latter strategy is also found throughout the Arawakan language family, as, e.g., in the Apurinã subgroup, Terêna, and Chamicuro. The suggested proto-forms in table 13 can be separated with reference to the 1pl form: *wa- for all Southwestern Arawakan languages (the Campan subgroup, the Apurinã subgroup, and Amuesha and Chamicuro) and closely related to Proto-Arawakan, and *w- for all Southern Arawakan languages (Baure, Paunaka, Moxo, and the Paresi-Xingu subgroup), where the bilabial (semi)consonant is realized with some variation.
+*hi/yi ‘2pl’:  The 2pl morpheme cannot easily be determined from comparison of tables 1 and 6–12. I argue here that this morpheme had a common CV structure and presumably underwent stronger phonetic reduction than the others, which may have been facilitated by the place of articulation of the consonant. In comparison to the voiceless bilabial plosive in *pi ‘2sg’, which can be palatalized (a common process in Arawakan languages in the environment of the high front vowel i) without becoming assimilated, 22 the fricative *h and the glide *y are so closely articulated with the *i that a phonetic reduction seems more expected. As mentioned earlier, additional plural marking throughout the plural forms, as in the Campan languages, may have been modeled on Quechua (or Aymara). The marking of some plural forms by a plural suffix in general, however, may have been possible in Proto-Arawakan as well, since it can be found in many different Arawakan languages. It is also possible that the additional plural marking is an innovation in many Arawakan languages that served to disambiguate the plural from other forms after phonetic reduction occurred.
+*na ‘3pl’:  The 3pl morpheme *na is found in Ignaciano; in Baure, there is a related form no. It is possible that this morpheme was originally related to the general plural suffix, like the one used in Apurinã (see table 9). The plural suffix has been postulated as *-na/-ni for Proto-Arawakan by Aikhenvald (1999:84). Since plural marking is not obligatory in Arawakan languages, many morphemes came to be used as plural, collective, or distributive number markers. They generally derive from quantifying lexemes denoting groups or collections of some kind. For this reason, many Arawakan languages have distinct plural suffixes that deviate from the postulated general plural forms *-na/-ni.
+22 Only in Terêna the 2sg pi- assimilated the plosive, so that the 2sg apparently merged with the 2pl category, where the latter is only distinguished by (optional) additional plural marking.
+
+516
+
+international journal of american linguistics
+
+The forms suggested in table 13 may hold for the whole language family, but since this article focuses on Southern and Southwestern Arawakan languages, my only claim here is that they are the proto-forms for that part of the language family. Further investigation is needed to systematically reconstruct the personal forms and extend and finalize these suggestions. On the basis of these proto-forms, certain language clusters could also be established, but this should certainly include other features as well. 23 Chamicuro and Amuesha show that these languages do indeed have Arawakan features, but they also deviate from the other Southern and Southwestern Arawakan languages to a greater extent than is the case for the other languages mentioned here. In fact, many alleged Northern Arawakan languages (those of the Caribbean) have more forms that agree with the suggested proto-forms than do Chamicuro and Amuesha (see Payne 1987:65). The position of these two languages within the language family is therefore less clear. With reference to the 1pl form, however, Chamicuro and Amuesha do seem to belong to the Southwestern Arawakan.
+6. Conclusion.  In this article, I have described the Baure argumentmarking system in some detail. Baure is like other Arawakan languages in that it marks subjects of transitive and intransitive verbs using a form preceding the verb base. It also marks objects and subjects of a subgroup of stative (nonverbal) predicates with a personal morpheme following the lexical base of the predicate. Personal cross-referencing morphemes in Baure are analyzed as clitics, i.e., as bound forms, yet they are not bound as affixes. These personal clitics also attach to other parts of speech. The free personal pronouns consist of a personal clitic and ‑ti(’), which may have been a deictic formative like the demonstratives ti/te ‘dem1f/m’. It was shown in 5 that this is a common derivation strategy for personal pronouns in Southern Arawakan languages. Possessive pronouns are derived from the free personal pronouns by adding a possessive suffix.
+It is striking that the Baure proclitics are identical to the enclitics. In this article, I have argued that all personal forms, both prefixes and suffixes, can be traced back to just one proto-form. In Proto-Southern Arawakan, the person formatives were presumably free forms or clitics, which appeared in different positions for different functions. In many Arawakan languages, the same forms further grammaticalized into more bound affixes. The paradigm most likely distinguished 1sg, 2sg, 3sgm, 3sgf, 1pl, 2pl, and 3pl. In addition, there may have been an unspecified third-person subject marker.
+In order to explain some variations among the Southern and Southwestern Arawakan languages, I compared the person cross-referencing paradigms of
+23 These clusters only partly coincide with the postulated subdivisions within the language family given in Payne (1987) and Aikhenvald (1999).
+
+personal paradigms in baure
+
+517
+
+Paunaka, Ignaciano, Terêna, Apurinã, Ashéninka, Chamicuro, and Amuesha to those of Baure and Proto-Arawakan (Aikhenvald 1999:88). Some variations are due to linguistic diffusion (Quechua or Aymara influence); others are language-internal developments; and still others can be analyzed as variations within the Arawakan language family. I believe that in those languages, phonetic erosion explains the phonetic variation between prefixes and suffixes. In some Southern Arawakan languages, the subject marker has undergone the most phonetic reduction, because of its status as a more bound morpheme than the object marker.
+Variations in argument marking in Baure and other Southern Arawakan languages show cases of zero-marking for third-person singular. Another variation, which occurs only twice in the Baure corpus, is the marking of ‘3sgf’ by ti= ‘dem1f’ instead of ri= ‘3sgf’. Do these two examples hint at an earlier, more widespread use of an alternative third-person marker ti ‘3 (unspecified)’? I have suggested that there was an additional subject marker for unspecified third-person subjects, which could have been used for topical subject or other discourse functions.
+APPENDIX A
+Southern and Southwestern Arawakan Languages 24
+SOUTHERN ARAWAKAN Baure languages and dialects
+		 !Baure (Bolivia) (brg) 		!Carmelito (Bolivia) 		†Joaquiniano (Bolivia)
+Pauna languages 		 !Paunaka (Bolivia) (pqa) 		 †Paikoneka (Bolivia) or Baure group?
+Moxo languages and dialects 		 !Trinitario (Bolivia) (trn) 		 !Ignaciano (Bolivia) (ign)
+Terêna subgroup 		 Terêna (Brazil) (ter) 		 †Kinikinao (Brazil) (ggn) 		 †Chané (Argentina, Bolivia) (caj)
+Paresi-Xingu subgroup 		 !Paresi (Brazil) (pab) 		†Saraveka (Bolivia) 		 !Enawené-Nawé (Brazil) (unk) SOUTHWESTERN ARAWAKAN
+Early Andean
+24 † indicates extinct, (†) almost or possibly extinct, ! endangered, ? uncertain (due to lack of data). The subdivisions have been supported by the findings presented in 5 above.
+
+518
+
+international journal of american linguistics
+
+		†Apolista (Bolivia) 		 Yanesha (Peru) (ame) 		 (†)Chamicuro (Peru) (ccc)
+Campan subgroup 		 Asháninca/Ashéninca (Peru) (cjo, cni, cpb, cpe, cpu, cpy, prg) 		 Machiguenga (Peru) (mcb) 		 Nomatsiguenga (Peru) (not) 		 !Caquinte (Peru) (cot)
+A-P-I subgroup 		 Apurinã (Brazil) (apu) 		 !Piro (Peru, Brazil) (pib, cuj)
+REFERENCES
+Adam, Lucien, and Charles Leclerc, eds. 1880. Arte de la lengua de los indios baures de la provincia Moxos, conforme al manuscrito original del padre Antonio Magio. Paris: Maissonneuve and Cia.
+Adelaar, Willem F. H. 2004. The Languages of the Andes. In collaboration with Pieter C. Muysken. Cambridge: Cambridge University Press.  . 2006. The Quechua impact in Amuesha, an Arawak language of the Peruvian Amazon. Grammars in Contact: A Cross-Linguistic Typology, ed. Alexandra Y. Aikhenvald and R. M. W. Dixon, pp. 290–312. Oxford: Oxford University Press.
+Aikhenvald, Alexandra Y. 1995. Person marking and discourse in North Arawak languages. Studia Linguistica 49:152–95.  . 1999. The Arawak language family. The Amazonian Languages, ed. R. M. W Dixon and Alexandra Y. Aikhenvald , pp. 65–106. Cambridge: Cambridge University Press.
+Baptista, Priscilla, and Ruth Wallin. 1967. Baure. Bolivian Indian Grammars 1, ed. Esther Matteson, pp. 27–84. Norman: Summer Institute of Linguistics and University of Oklahoma.  . 1968. Baure Vowel Elision. Linguistics 38:5–11.
+Corbera Mori, Angel H. 2005. As línguas waurá e mehináku do Brasil Central. Anais do IV Congresso Internacional da Abralin, IV Congreso Nacional de Investigaciones LingüísticoFilológicas, 2005, Brasília, pp. 795–803. Brasília: UnB.
+Crevels, Mily, and Hein van der Voort. 2008. The Guaporé−M­ amoré region as a linguistic area. From Linguistic Areas to Areal Linguistics, ed. Pieter Muysken, pp. 151−­79. Amsterdam: John Benjamins.
+Cysouw, Michael. 2003. The Paradigmatic Structure of Person Marking. Oxford: Oxford University Press.
+Danielsen, Swintha. 2007. Baure: An Arawak Language of Bolivia. Indigenous Languages of Latin America (ILLA), vol. 6. Leiden: CNWS.  . Forthcoming a. Baure. Las Lenguas de Bolivia, vol. 2, ed. Mily Crevels and Pieter Muysken. La Paz: Plural Editors.  . Forthcoming b. Paunaca. Las Lenguas de Bolivia, vol. 3, ed. Mily Crevels and Pieter Muysken. La Paz: Plural Editors.
+Danielsen, Swintha; Michael Dunn; and Pieter Muysken. 2011. The role of contact in the spreading of Arawak languages. Ethnicity in Ancient Amazonia: Reconstructing Past Identities from Archaeology, Linguistics, and Ethnohistory, ed. Jonathan Hill and Alf Hornborg, pp. 00−0­ 0. Boulder: University of Colorado Press.
+Duff-Tripp, Martha. 1997. Gramática del idioma yanesha’ (amuesha). Lima: Instituto Lingüístico de Verano.
+
+personal paradigms in baure
+
+519
+
+Eastlack, Charles L. 1968. Terena (Arawakan) pronouns. IJAL 34:1–8. Eder, Francisco Javier, S. J. 1985/1772. Breve descripción de las reducciones de Mojos, trans.
+and ed. Josep M. Barnadas. Cochabamba: Impresiones Poligraf. Ekdahl, Muriel, and Nancy E. Butler. 1979. Aprenda terêna. Vol. 1.‭ Brasília: Summer
+Institute of Linguistics.‬ Facundes, Sidney da Silva. 2000. The language of the Apurinã (Arawak) people of Brazil.
+Ph.D. dissertation, State University of New York at Buffalo.  . 2002. Historical linguistics and its contribution to improving knowledge of Arawak.
+Comparative Arawakan Histories: Rethinking Language Family and Culture Area in Amazonia, ed. Jonathan David Hill and Fernando Santos-Granero, pp. 74–96. Urbana: University of Illinois. Falkinger, Sieglinde. 2002. Diferencias entre el lenguaje de hombres y mujeres en Chiquitano (Besiro). Current Studies on South American Languages, ed. Mily Crevels et al., pp. 43–56. Leiden: CNWS. Fonseca, João Severiano da. 1881. Viagem ao redor do Brasil 1875–1878. Vol. 2. Rio de Janeiro: Typographía de Pinheiro. Guimarães de Carvalho Couto, Valéria. 2005. A lingua Kinikinau: Estudo vocabulário e conceitos gramaticales. M.A. thesis, Universidade Federal de Mato Grosso do Sul, Câmpus de Três Lagoas. Krauss, Michael. 2007. Classification and terminology for degrees of language endangerment. Language Diversity Endangered, ed. Matthias Brenzinger, pp. 1–8. Berlin: Mouton de Gruyter. Matteson, Esther. 1965. The Piro (Arawakan) Language. UCPL 42. Berkeley: University of California Press.
+ . 1972. Proto-Arawakan. Comparative Studies in Amerindian Languages, ed. Esther Matteson, pp. 160–242. The Hague: Mouton. Mosonyi, Estéban Emilio, and Jorge Carlos Mosonyi. 2000. Yavitero. With Hernán Camico. Manual de lenguas indígenas de Venezuela, vol. 2, pp. 595–661. Caracas: Fundación Bigott. Nordenskiöld, Erland. 1922. Indianer und Weisse in Nordostbolivien. Stuttgart: Strecker und Schröder. [German translation of Erland Nordenskiöld, Indianer och hvita in nordöstra Bolivia, 1911.] Olza Zubiri, Jesús; Conchita Nuni de Chapi; and Juan Tube. 2004. Gramática moja ignaciana (morfosintaxis). Versión Boliviana. Cochabamba: Editorial Verbo Divino. Orbigny, Alcide d’. 1839. Voyage dans l’amérique méridionale. Vol. 4, no. 1: L’Homme Américain (de l’Amérique méridionale) considéré sous ses rapports physiologiques et moraux. Paris: Pitois-Levraut and Strasbourg: F. G. Levrault.
+ . 1843. Descripción geográfica, histórica y estadística de Bolivia. Vol. 1. Paris: Librería de los Señores Gide y Companía. Parker, Stephen G. 1988. Some universal aspects of coalescence processes confirmed by Chamicuro phonology and morphology. M.A. thesis, University of Texas at Arlington.
+ . 1995. Datos de la lengua iñapari. Lima: Ministerio de Educación and Instituto Lingüístico de Verano. Payne, David L. 1987. Some morphological elements of Maipuran Arawakan: Agreement affixes and the genitive construction. Language Sciences 9:57–75.
+ . 1991. A classification of Maipuran (Arawakan) languages based on shared lexical retentions. Handbook of Amazonian Languages, ed. Desmond C. Derbyshire and Geoffrey K. Pullum, vol. 3, pp. 355–499. Berlin: Mouton de Gruyter. Payne, David L.; Judith K. Payne; and Jorge Sánchez S. 1982. Morfología, fonología y fonética del asheninca del apurucayali (campa-arawak preandino). Serie Lingüística Peruana 18. Lima: Ministerio de Educación and Instituto Lingüístico de Verano. Reed, Judy C., and David L. Payne. 1983. Los pronominales en el ashéninca. Estudios lingüísticos de textos ashéninca (campa-arawak preandino), David L. Payne and Marlene
+
+520
+
+international journal of american linguistics
+
+Ballena D., Serie Lingüística Peruana 21, pp. 91–100. Yarinacocha: Ministerio de Educación and Instituto Lingüístico de Verano. Richards, Joan. 1988. A estrutura verbal Waurá. Série Lingüística 9:97–218. Romani Miranda, Maggie Mabell. 2004. Toponimía en el Gran Pajonal con especial atención a los topónimos de afiliación ashaninka. Ms. <http://www.cybertesis.edu.pe/sisbib/2004/­ romani_mm/html/index-frames.html>. Rowan, Orland. 2001. Iraiti xawaiyekehalakatyakala: Dicionário Paresí–Português. Cuiabá: Sociedade Internacional de Lingüística. Shaver, Harold. 1996. Diccionario nomatsiguenga–castellano, castellano–nomatsiguenga. Serie Lingüística Peruana 41. Lima: Ministerio de Educación and Instituto Lingüístico de Verano. Villafañe, Lucrecia. n.d. Gramática Paunaca (Aruak). Ms.
+
+

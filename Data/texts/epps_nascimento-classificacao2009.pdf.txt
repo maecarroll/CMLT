@@ -1,0 +1,705 @@
+EPPS, Patience. O nascimento de um sistema de classificação nominal. ReVEL. Edição especial n. 3, 2009. ISSN 1678-8931 [www.revel.inf.br].
+
+O ASCIME TO DE UM SISTEMA DE CLASSIFICAÇÃO OMI AL
+Patience Epps1
+pepps@mail.utexas.edu
+RESUMO: Este artigo considera como os sistemas de classificação nominais podem se levantar. Apresenta um estudo do caso Hup, uma língua do noroeste da Amazônia, pertencente à família lingüística Nadahup (Makú), falada na fronteira do Brasil com a Colômbia. Hup oferece um olhar único sobre um sistema de classificação nominal em suas fases iniciais, em que os mecanismos e as motivações para seu desenvolvimento são ainda claramente visíveis. Como discutido aqui, o sistema incipiente de classificação nominal em Hup levantou-se por meio de uma transição das construções que codificam relacionamentos peça-inteiros ou possessivos. Esta mudança foi permitida por uma ambigüidade em paradigmas particulares de construções compostas – em particular, aqueles que codificam a relação entre as plantas e suas peças – no respeito a que componente do composto está no foco. Por exemplo, no ‘banana-folha', começa com ‘folha’ e restringe-o ao ‘banana-tipo', ou começa com a planta de banana e restringe-o à ‘folha-peça-de'? Esta ambigüidade chegou, ou esta chegando, ao reanálise do qual componente do composto deve ser considerada a ‘cabeça’ semântico – e chegou também ao reanálise inicipiente dos nomes ‘cabeças’ antigos como ‘classificadores’ novos. Este processo, eu sugiro, tenho sido abastecido recentemente pelo influxo relativamente repentino dos objetos culturais não-nativos, que exigem nomes, assim promovendo a extensão metafórico de componentes compostos já existentes, tais como ‘folha’ e ‘galho'. Ao mesmo tempo, o desenvolvimento dos classificadores em Hup foi também motivado pelo contato com línguas Tukanos, que forneceram um modelo para o sistema. PALAVRAS-CHAVE: Hup; Nadahup (Makú); classificação nominal; gramaticalização
+
+I TRODUÇÃO2
+
+Sistemas de classificação nominal são encontrados em várias línguas de mundo, e apresentam desde estratégias mínimas, restritas a alguns domínios semânticos e tipos de construções, a sistemas desenvolvidos que permeam a gramática da língua (veja Aikhenvald
+
+1 Universidade de Texas em Austin, EUA. 2 Uma versão em inglês deste artigo foi publicada como ‘Birth of a noun classification system: the Hup case’, em Wetzels (2007). Agradeço primeiro aos Hupd'ǝh por ensinar-me sua língua. Este trabalho é baseado na pesquisa
+de campo realizada com o supporte financeiro da Fulbright-Hays, da National Science Foundation sob o fundo no. 0111550, e pelo Instituto Max Planck para Antropologia Evolucionário, Leipzig. Reconheço o auxílio prático do Museu Parense Emílio Goeldi e do Instituto Socioambiental. Agradeço também a Bernard Comrie, a Michael Cysouw, a Lise Dobrin e, em particular, a Orin Gensler pelos comentários que contribuíram para este trabalho. Finalmente, agredeço a Antonio Santana e a Ana Paula Brandão pela ajuda com a tradução deste artigo. Todos os erros são naturalmente de minha inteira responsabilidade.
+
+ReVEL, edição especial n. 3, 2009 [www.revel.inf.br]
+
+1
+
+2000, Grinevald 2000). Tal variação pode ser explicada em parte como representando estágios diferentes do desenvolvimento histórico do sistema. Em outras palavras, sistemas gramaticais como o de classificação nominal podem ser reconhecidos de língua para língua “como mais ou menos prototípico, e em vários estágios de desenvolvimento e desintegração” (Grinevald 2000:54). Mas como esse desenvolvimento é provocado em primeiro lugar? O que motiva uma língua a iniciar um sistema de classificação nominal, e quais são os mecanismos envolvidos neste processo?
+Este artigo considera essas questões apresentando um estudo do caso Hup,3 uma língua do noroeste da Amazônia, pertencente à família lingüística Nadahup (Makú)4, falada na fronteira do Brasil com a Colômbia. Hup oferece um olhar único sobre um sistema de classificação nominal em suas fases iniciais, em que os mecanismos e as motivações para seu desenvolvimento são ainda claramente visíveis. Esta discussão detalha a emergência, passo a passo, de um sistema de classificação que tem origem nos fenômenos mais gerais de composição nominal e possessão inalienável, sob a influência externa do contato lingüístico e da mudança cultural.
+1. COMPOSIÇÃO OMI AL EM HUP
+A estratégia de classificação nominal em Hup é melhor compreendida no contexto mais geral do fenômeno de composição nominal. Esse processo em Hup é altamente produtivo, e consiste na criação de uma construção sintática composta de dois sustantivos em justaposição, um núcleo precedido por um modificador: N1[mod] + N2[núcleo].
+Semanticamente, as construções compostas codificam relações metonímicas entre possuidor e possuído ou entre todo-parte, como no exemplo (1) – uma função comum da composição nominal nas línguas da América do Sul em geral (veja Klein 2000:85-86) – e relações entre uma propriedade inerente ou definidora (N1) e uma entidade definida por essa propriedade (N2), como em (2).
+
+3 Também conhecidos como Hupda ou Jupda. Os falantes chamam sua língua ‘Hup’ (‘ser humano’); Hupd'ǝh é o
+etnônimo no plural, literalmente, ‘gente’. Esta pesquisa é baseada em aproximadamente 14 meses do trabalho de campo conduzido em aldeias Hup ao longo do rio de Tiquié, Brasil. Uma descrição detalhada da gramática Hup pode ser encontrada em Epps (2008). 4 O nome Nadahup é preferido porque o nome Makú tem sido usado para referir-se a diversos grupos de línguas não relacionadas na Amazônia, e é extensamente reconhecido na região do Vaupés como uma ofensa étnica dirigida aos membros deste grupo étnico/lingüístico. ‘Nadahup’ é uma combinação dos nomes dos quatro membros estabelecidos desta família (Nadëb, Dâw, Yuhup, e Hup). O nome Uaupés-Japura também já foi usado (Ramírez 2001).
+
+ReVEL, edição especial n. 3, 2009 [www.revel.inf.br]
+
+2
+
+(1) tój mɔy̌ [mɔm b’ɔk] hicǔʔ
+
+(buraco do nariz/casa) ‘narina’5 ([pote de aço] cobertura) ‘tampa do pote’
+
+(2) b’ɔǩ m’ác [j’ak j’ɔ]́ yág
+
+(pote barro) ‘barro de pote’ (barro para fazer pote) ([broto da palmeira de buriti] rede)
+‘rede feita da fibra da palmeira de buriti”
+
+N1 ou N2 em um composto podem ser um verbo (nominalizado), e podem mesmo ser um composto encaixado (ilustrado nos exemplos acima). N1 ou N2 podem submeter-se à extensão semântica metafórica (também comum nas línguas da America do Sul, veja Klein 2000:94), como no exemplo (3), embora isto seja muito mais comum com N2.
+
+(3) nɔ cúg
+
+(boca beija-flor)
+
+‘bigode/barba’
+
+pǔh mɔyɔ́ (espuma.de.água abertura.da.casa) ‘janela de vidro’
+
+Os compostos em Hup classificam-se em dois tipos gerais (melhor percebidos como extremos de um contínuo), definidos por características formais e semânticas. Os compostos específicos (tais como nɔ cúg ‘bigode/barba’, literalmente ‘boca beija-flor’, em (3) acima) são
+aprendidos como unidades individuais, sendo que o significado do composto é normalmente diferente da soma de suas partes. Aqui, o acento primário (realizado como ‘acento tonal’) ocorre no final do composto, no modelo de uma palavra típicamente monomorfémica e bisilábica em Hup. Os compostos mais produtivos, por outro lado, ocorrem dentro de grupos paradigmáticos em que N2 é constante e N1 varia, criando um composto semanticamente transparente. Neste tipo de composto, o acento cai no componente N1 variável, marcando sua proeminência conceptual vis-à-vis em relação ao N2 mais previsível ou conhecido.6 O padrão de produção dos compostos é bastante usado para designar vários sub-tipos de uma entidade, tais como plantas, peixes, e igarapés:
+
+5 Nota sobre a ortografia: O acento da palavra em Hup é realizado ou como tom alto/descendente (escritos v́) ou
+como tom ascendente (escrito v̌) em sílabas tônicas. O fenômeno da nasalização está no nível prosódico do
+morfema, dessa forma embora nasais e oclusivas orais sejam escritas aqui com símbolos distintos, eles são na realidade alofones um do outro. O som representado por c (uma oclusiva palatal surda) varia entre [ʃ], [č], e [s]
+no início e no meio de palavras, e é pronunciado [yt] em final de palavra. As oclusivas sonoras são pre- e pósnasalizadas em fronteira de palavra (e frequentemente de morfema). 6 Note que o a regra de atribuição do acento no início e no final dos compostos representa dois polos de um continuo entre os compostos altamente específicos lexicalmente e aqueles altamente produtivos. Os compostos que estão no meio termo podem apresentar esses dois padrões ou podem carregar o acento nos dois elementos.
+
+ReVEL, edição especial n. 3, 2009 [www.revel.inf.br]
+
+3
+
+(4) Tipos de timbó (planta usada para fazer veneno para peixe) [d’ǔç ‘timbó’] pěd d’uç ‘cunuri (tipo de amêndoa) timbó’ mQʔ̌ d’uç ‘carajuru (espécie de planta) timbó’ wǎʔ̃ d’uç ‘timbó do urubu’ j’ǔg d’uç ‘timbó da mata’
+2. OMES SI TATICAME TE DEPE DE TES
+
+Hup tem uma classe heterogênea de nomes que podem ocorrer somente em compostos. Esses nomes são especificados lexicalmente como sintaticamente ‘dependentes’, e devem ocorrer na posição de N2, precedido por um modificador nominal na posição de N1 (com o pronome da terceira pessoa singular tɨh atuando como o default N1). Na ocasião em
+que o composto indica um relacionamento possessivo, a construção sintática do nome dependente é usada para expressar a possessão como inalienável: N1 ocorre na forma simples não flexionada, sem o sufixo possessivo nɨȟ que segue possuidores alienáveis em Hup.
+Os nomes dependentes encontram-se em diversos subconjuntos semânticos (e, com apenas algumas exceções, inclui todos os membros destes grupos). Estes são termos de parentesco, nomes humanos genéricos, partes do corpo animal, parte de plantas, e alguns outros nomes (tais como o ‘enxame de insetos’, usado para referir-se a um único membro de uma espécie que aparece tipicamente em enxames). Os nomes dependentes também incluem termos para partes abstratas de um todo, tais como ‘seu começo’ e ‘sua borda’.7
+Como os compostos em geral, a construção típicamente dependente sinaliza uma relacão possuidor-possuído ou todo-parte entre duas entidades nominais. Este relacionamento tem a ver crucialmente com a individuação do núcleo do nome fora da gama indeterminada dos referentes em potencial – um denominador funcional comum que reflete a unidade formal da construção dependente, independente do sub-tipo semântico de N2 (termo de parentesco, nome humano, parte de planta, etc.). A evidência para esta função individuadora da construção dependente vem do fato de que uma variedade de nomes podem ocorrer opcionalmente como formas dependentes N2 quando concebidos como associados
+
+7 A maioria destes subtipos de nome são encontrados em outras línguas como candidatos típicos para a possessão inalienável, que tem como seu núcleo semântico possessão que é “inata, inerente, não conferida por compra”, ao contrário da possessão alienável, que é “aproximadamente, posse, conferida sócio e economicamente” (Nichols 1988:568). Entretanto, a inclusão de nomes humanos genéricos nesse grupo, e a exclusão de partes do corpo humano, são em geral extremamente incomuns, e devem ser compreendidas em termos de fatores línguístico e cultural específicos (veja Chappell e McGregor 1995). Devido às limitações do espaço, uma discussão mais detalhada dessas questões deve ser levada a cabo em outra ocasião.
+
+ReVEL, edição especial n. 3, 2009 [www.revel.inf.br]
+
+4
+
+inerentemente a uma outra entidade, tal como tɨh=ʔǔç (3sg=saco) ‘saco dele’ (onde o pronome da terceira pessoa singular tɨh refere ao contéudo do saco); compare tɨnɨȟ ʔǔç (3sg.POSS saco) ‘saco dele’ (onde o pronome possessivo independente refere-se ao proprietário do saco). A evidência adicional para a função individuadora vem dos casos em que o nomes normalmente não-dependentes occorrem numa construção dependente. Nestes tipos de construção, a individuação é, em muitos casos, semanticamente imprópria, como nas expressões de pluralidade (por exemplo, o singular tɨh=dóʔ (3sg=‘criança’) se transforma em plural dóʔ=d'ǝh (criança=PL) ‘crianças’); genéricos (por exemplo, tɨh=tæ̃hʔín (3sg=mulher) ‘sua mulher’ aparece simplesmente como tæ̃hʔín na expressão ‘ele quer uma mulher'); e nas expressões de existência negativa (‘não há nenhum N').
+
+2.1 PARTES DE PLA TA E A CO STRUÇÃO DEPE DE TE
+
+O papel das partes de planta na construção obrigatoriamente independente é crucial na gênese dos classificadores. O N1 precedente que modifica o termo dependente da parte da planta é geralmente um nome lexical completo – o nome da planta – mas pode ser um demonstrativo, numeral, clausula relativa, outro verbo nominalizado, ou o pronome da terceira pessoa singular tɨh, que, neste caso, refere-se à planta inteira ou ao ‘possuidor’ do
+qual a parte da planta (N2) faz parte. Outro fato importante é que, nos compostos dependentes referentes a partes de planta envolvendo um nome lexical N1, o accento em nível do composto (acento da palavra) incide no N1, enquanto o N2 perde seu tom lexical – padrão geral para compostos produtivos em Hup, como foi discutido na seção 2.8 Os termos dependentes mais comuns das partes de planta são apresentados em (5).
+
+(5) =g’ǽt ‘folha’ =tég ‘árvore, graveto’ =b’ǎh ‘parte rachada/separada/partida da árvore’ =b’ɔḱ ‘casca’ =tǐh ‘raiz’ =tǐg ‘haste’
+
+8 No entanto, quando o N1 é a forma padrãodo possuidor tˆh ‘seu’, o acento recai em N2. Isto é consistente com a regra de que a posição do acento em compostos produtivos marca o elemento menos previsível do composto.
+
+ReVEL, edição especial n. 3, 2009 [www.revel.inf.br]
+
+5
+
+=tɔḱ =ʔǝʔ́ =nɔẃ =hɔb̌
+=tát
+=ʔág
+=wɨǵ =b’ák (=tˆt¤ ) (=j’ç)¤
+
+‘pedúnculo’ ‘segmento’ (de hastes em forma de canudo, como bambu) ‘galho’ ‘concavidade’ (uma parte dura e côncava que cresce atrás da flor de pupunha, banana, e outras) ‘fruta’ (preferencialmente para frutas comestíveis, incluindo tanto formas redondas e alongadas como aquelas em vagens e bananas) ‘fruit’ (independente de ser comestível ou não, exclui frutas com sementes pequenas) ‘semente;frutas com uma única semente pequena) ‘cacho de frutos’ ‘vinha’9
+‘flor’
+
+Os compostos de partes de planta podem ser compreendidos de duas maneiras: em termos de grupos de produção paradigmática baseados em N1, como no exemplo (6), ou em N2, como no exemplo (7). Em (6), o grupo expressa claramente as várias partes que compoem a planta inteira. Grupos baseados em N2 como aquele em (7), por outro lado – aqui representado por uma lista de tipos diferentes de folhas – apresentam uma semelhança muito próxima dos compostos produtivos que são formados de nomes livres (veja o exemplo 4 acima, tipos de plantas usadas para fazer veneno para peixe), com os quais compartilham a regra de atribuição do acento. Nesse caso, o todo da planta ou a relação de possessão inalienável da folha (do mesmo modo a fruta, a raiz, a casca, etc.) em relação à planta é ao mesmo tempo uma relação de propriedade-entidade, que serve para estabelecer a identidade da folha.
+
+(6) Partes de uma bananeira:
+
+pɨhɨt́
+
+‘banana’ (o todo; também pode ser usada para referir-se à fruta
+
+pɨhɨt́ =g’æt ‘folha da banana’
+
+pɨhɨt́ =teg ‘bananeira (a árvore)’
+
+9 Os únicos termos conhecidos de partes de planta que podem ocorrer fora de uma construção dependente são j’ɔ́ ‘flor’ e tɨt́ ‘vinha’, que são formas presas quando usadas para se referir a uma planta em particular, mas são formas livres quando funcionam como formas genéricas. Da mesma forma, děh ‘água’ pode ocorrer como N2 em uma construção dependente de parte de planta significando `seiva'. Existem formas genéricas lexicalizadas para ‘árvore’ (tegd’úh) e 'folha' (cug’æ̌ t, possivelmente derivada j’ǔg g’æt ‘folha da mata’); estes recebem acento na sílaba 2, como elementos lexicais monomorfêmicos em Hup. Para referir-se a planta inteira, apenas o lexema livre (N1) é usado.
+
+ReVEL, edição especial n. 3, 2009 [www.revel.inf.br]
+
+6
+
+pɨhɨt́ =b’ak pɨhɨt́ =tat pɨhɨt́ =tih pɨhɨt́ =b’ɔk pɨhɨt́ =hɔb
+
+‘cacho de banana’ ‘banana (o fruto)’ ‘raiz da bananareira’ ‘casca da banana ~ casca da àrvore’ ‘concavidade da banana’ (uma parte dura e côncava associada à flor)
+
+(7) Tipos diferentes de folhas:
+
+cug’æ̌ t
+
+‘folha’ (genérico)
+
+pɨhɨt́ =g’æt ‘folha de bananeira’
+
+b’ab’ǎʔ=g’æt ‘folha de embaúba’
+
+pũʔǔ̃k=g’æt ‘folha de coca’
+
+púp=g’æt ‘folha de paxiuba’
+
+pehé=g’æt ‘folha de uma espécie de palmeira’
+
+Enquanto que, no contexto apropriado, qualquer construto de uma determinada construção dependente é possível, é o grupo (7) que é indiscutivelmente mais central para a vida dos Hup. A identidade de uma folha, graveto, semente, ou outra parte de planta é um tópico freqüente nas discussões no dia-a-dia dos Hupd'ǝh (como exemplos 8-9 ilustram), já
+que estes são a matéria-prima que os Hupd'ǝh usam para manufaturar as coisas de que
+precisam, e é usada igualmente para alimentos e remédios. Além disso, a inclinação dos falantes para esses construtos – em que N1 é concebido como a entidade mais variável, e o N2 como o mais previsível – é refletida na realização formal destes compostos; o fato de que N1 (e não o N2) é tônico é a evidência de que a conceptualização default dos compostos de parte de planta está em termos do grupo (7) acima, e não do grupo (6).
+
+(8) nihṹʔ, b’ɔʔ̌ =tat, nahã́w=tat,
+
+núp g’ǒb=tat...
+
+todo cabaça=fruta macucú=fruta este tucumá=fruta
+
+hɨd d’oʔ-pɨd́ -ɨh́
+
+they take-ITER-DECL ‘Todos (os tipos), cabaça, macucú, esses tucumá… eles levaram todos (para fazer
+
+peão).’
+
+(9) himǔn=hɔb
+
+d’oʔ-d’ǝh-ʔáy
+
+hám!
+
+paxiuba=concavidade levar-enviar-VEN.IMP ir.IMP
+
+‘Vai e leva a cabaça da palmeira de paxiuba-palm (para tirar água no igarapé)!’
+
+ReVEL, edição especial n. 3, 2009 [www.revel.inf.br]
+
+7
+
+3. OMES DEPE DE TES E EXTE SÃO SEMÂ TICA: CLASSIFICAÇÃO
+Como os dois grupos de exemplos (6-7) ilustram, a construção do nome dependente pode codificar uma relação todo-parte e uma relação propriedade-entidade, dependendo do seu construto. Enquanto a conexão entre inteiro e parte é primeiramente a de possessão inalienável, a conexão entre propriedade e entidade – i.e. a identidade de tipos diferentes de folhas, madeira, frutas, etc. – serve essencialmente para uma função classificatória.
+Em alguns casos, no entanto – quase sempre envolvendo obrigatoriamente termos dependentes de partes de plantas como N2s – a construção dependente pode ser interpretada apenas como codificação de uma relação propriedade-entidade. Estes casos envolvem normalmente extensão semântica dos termos dependentes de partes de planta, de uma parte da planta literal para uma entidade com alguns traços semânticos abstratos característicos daquela parte da planta; por exemplo, em tok=tˆt¤ (estômago=vinha) ‘entranhas’, tˆt ‘vinha’ é metaforicamente estendido para significar ‘objeto longo, fino, flexível.’ Em geral, tal extensão semântica de N2 é comum em compostos nominais em Hup, como ilustrado no exemplo (3) acima. Como os compostos de parte de planta mais comuns, estas construções semanticamente estendidas também servem para classificar tipos de entidades – mas de acordo com uma estratégia diferente da classificação. Como a discussão abaixo irá mostrar, essa estratégia assemelha-se àquela encontrada em sistemas de classificação nominal em outras línguas.
+3.1 EXTE SÃO SEMÂ TICA E OMES PARA OBJETOS RELACIO ADOS À CULTURA MATERIAL
+As extensões semânticas nas construções de nomes dependentes que envolvem partes de planta são, na realidade, banstante comuns em Hup. Entretanto, relativamente bem poucos produzem nomes para artigos culturais nativos; a lista de exemplos dos artigos nativos apresentada abaixo é abrangente em meu corpus.
+O grau de extensão semântica nestas construções varia consideravelmente. Um grupo pequeno de nomes para plantas frondosas é baseado no nome dependente ‘folha’, o qual passou pela extensão metonímica de representar a planta inteira:
+(10) tɔṕ =g’æt ‘folha para abrigo’ (folha de palmeira usada para cobrir casa) mɔhɔ̃y̌ =g’æt ‘folha de veado’ (carurú, uma folha comestível)
+
+ReVEL, edição especial n. 3, 2009 [www.revel.inf.br]
+
+8
+
+yæ̌̃ʔ=g’æt ‘folha cozida/or assada?’ (uso desconhecido) tahcěb=g’æt ‘folha de carrapato’ (folha pequena e grossa que se assemelha a
+carrapatos, usada para aliviar picada de formiga e de mosquito)
+No entanto, a maioria de extensões semânticas de termos para partes de envolvem metáfora. Alguns referem-se a entidades naturais, tais como ‘cacho de frutos’ ou ‘ninho de mosquito/cupim’ em (11), e as partes do corpo em (12).10
+
+(11) tɨh=b’ák
+
+‘ninho de mosquito ou cupim’ (i.e. um cacho grudado na árvore)
+
+(3sg=cacho de fruta)
+
+(12) hohǒʔ=b’ah ‘costela’
+
+cuj=tǐh
+
+‘espinha’
+
+cɨʔ̌ =tat
+
+‘barriga da perna’
+
+tok=tɨt́
+
+‘intestino’
+
+hatǐp=wɨg ‘testículos’
+
+(?=madeira.fendida)
+(?=raiz) (barriga da perna=fruta) (barriga=vinha/fio) (wɨg ‘semente’; também típ ‘ovo’?)
+
+Muitos compostos de partes de planta formam nomes de objetos relacionados à cultura material. Em alguns casos, eles são apenas marginalmente semanticaticamente estendidos. Por exemplo, o uso de ‘árvore, galho’ em (13a) é baseado no fato de que as canoas são feitas de troncos de árvore, mas (como nos exemplos acima) N2 não é realmente parte de N1. Em (13b), o hɔb ou a ‘concavidade’ também não é uma parte que cresce naturalmente na palmeira
+de buriti no sentido usual de uma parte de planta; neste caso, ela foi cavada a partir de uma tora de buriti, que a identifica.
+
+(13) a) b)
+
+hɔh=těg j’ák=hɔb
+
+‘canoa’ ([canoa]=árvore/galho)11 ‘tora cavada da palmeira de buriti’ (palmeira.de.buriti=cavidade)
+
+Por outro lado, os exemplos em (14) são mais estendidos semanticamente. O termo de parte de planta N2 aqui não se refere a uma parte de planta de forma alguma, mas a uma entidade definida em termos de um traço semântico abstrato particular, relacionado à forma (galho: longo e fino; fruto: redondo).
+10 Algumas dessas formas seguem a regra de atribuição do acento em N2, típico de compostos mais lexicalizados.
+
+ReVEL, edição especial n. 3, 2009 [www.revel.inf.br]
+
+9
+
+(14) hǔ̃t=teg ták=tat
+
+‘charuto’
+
+(tabaco=galho)
+
+‘bola de borracha’ (de uma borracha nativa) (borracha=fruta)
+
+Muitos dos compostos semanticamente estendidos combinam uma raiz de verbo (nominalizada implicitamente em virtude de sua participação na construção) e um nome dependente, como em (15). Esta ocorrência da raiz de verbo como N1s é um traço produtivo mas relativamente incomum nos compostos nominais em Hup, como mencionado na seção 2 acima. Note que estes exemplos envolvem uma relação propriedade-entidade ao invés uma relação todo-parte, mas – como em (13) acima – com pouca ou nenhuma extensão semântica de N2; os arcos e os remos da canoa são cavados a partir de pedaços partidos de madeira, e estas flautas nativas são feitas das varas ocas.12
+
+(15) g’íg=b’ah ‘arco’ (lançar.flecha=madeira.fendida)
+
+hæ̌̃y’=b’ah ‘remo’ (remo=madeira partida)
+
+pĩ́h=teg
+
+‘tipo de flauta pequena’ (tocar.flauta=vara)
+
+Um domínio produtivo particular para extensão semântica envolve a forma dependente =teg ‘vara’, que (ao contrário de qualquer outra forma dependente) pode ser usada com o sentido puramente genérico de ‘coisa’. Este uso de =teg ocorre em uma variedade de palavras para conceitos abstratos, sempre conjuntamente com uma raiz do verbo:
+
+(16) nǐ=teg
+
+‘lugar para viver, aldeia’ (ni- ‘estar’)
+
+hup=hipãh́ =teg ‘consciência, auto-conhecimento’
+
+(lit. ‘coisa que se auto-conhece’; hup= reflexivo; hipãh- ‘conhecer’)
+
+Por último, enquanto todos os exemplos acima usam nomes dependentes de parte de planta para criar os nomes de entidades inanimadas, os nomes humanos dependentes para homem (=ʔĩh) e mulher (=ʔãy) também são estendidos semanticamente, para referir-se ao
+gênero de entidades animadas em geral. Entretanto, a extensão semântica destes nomes dependentes difere daquelas acima em que elas servem somente para uma função anafórica;
+
+11 Hup hɔh é cognate com Dâw hɔ: e Nadëb h’ɔɔh ‘canoa’; este composto segue a regra de atribuição do acento em N2. 12 Flautas nativas feitas do osso da perna do veado, por outro lado, tem um nome não-composto differente, ʔěd.
+
+ReVEL, edição especial n. 3, 2009 [www.revel.inf.br]
+
+10
+
+com entidades não-humanas, a forma dependente masculino/feminino segue um numeral, demonstrativos, ou orações relativas, ao invés de um nome lexical completo como N1:13
+
+(17) g’ǒg,
+
+ʔãh kéy-ep=ʔĩh
+
+macaco.titi 1sg ver-DEP=MSC
+
+‘O macaco titi, aquele que eu vi.’
+
+3.2 EXTE SÃO SEMÂ TICA E I TRODUZIDOS.
+
+OMES PARA ARTIGOS CULTURAIS RECE TEME TE
+
+Contrastando com o uso completamente limitado de compostos semanticamente estendidos para nomes de artigos nativos, seu uso com artigos culturais recentemente introduzidos é altamente produtivo. A lista de exemplos oferecidos nesta seção (ao contrário daquela na seção 4.1) está longe de ser completa, e novos nomes são freqüentemente criados. No entanto, como nos exemplos acima, a maioria das formas N2 semanticamente estendidas nestas construções envolvem partes de planta,14 e todas aplicam-se a objetos inanimados.
+Os termos dependentes de partes de planta que ocorrem como N2s nestes compostos são apenas um subconjunto dos termos para partes de planta listados em (5) acima. Eles compreendem um grupo limitado de elementos recorrentes, que contribuem mais ou menos para uma semântica consistente e organizam seus referentes em uma base convencionalizada, baseada primeiramente na forma. Neste sentido, estes nomes dependentes assemelham-se a classificadores nominais.
+Uma lista detalhada das partes de planta que passam pela extensão metafórica regular, junto com suas características semânticas núcleares, é dada em (18).
+
+(18) =tég =b’ǎh =tát =b’ɔḱ =wɨǵ
+
+‘árvore, eixo fino e longo; coisa em geral’ ‘madeira partida; coisa plana’ ‘fruta; coisa redonda’ ‘casca, pele, casca de ovo; pote ou prato’ ‘semente, fruta com uma semente pequena; qualquer coisa pequena arredondada’
+
+13 Para expressar o sexo de um animal, os lexemas livres tiyǐʔ 'home' e tãʔãý ‘mulher’ (em vez das formas
+dependentes) ocorrem junto com o nome do animal em um composto, de tal forma que um macaco titi macho seria g’ǒg tiyǐʔ; a extensão semântica é, dessa forma, essencialmente a mesma. 14 Embora não esclusivamente; algumas outras plantas (termos que não são de partes de planta) também ocorrem (veja exemplos 26-27)
+
+ReVEL, edição especial n. 3, 2009 [www.revel.inf.br]
+
+11
+
+=g’æ̌t =hɔb̌
+=tɨt́
+
+‘folha; papel, livro’ ‘parte dura e côncava ue cresce atrás da flor de certas árvores; qualque receptáculo côncavo (que não sejam pratos) ‘vinha; fio, barbante’
+
+O exemplo (19) lista exemplos de tais compostos semanticalmente estendidos que envolvem a parte da planta dependente ‘folha'. Enquanto os compostos mais convencionais de partes de planta classificam vários tipos de folhas, estes compostos classificam vários tipos de papéis, de livros, ou de ‘folhetos`. As raízes do verbo e os nomes lexicais aparecem como N1s.
+
+(19) =g’æt Tipos de folhas tipos de livros, papéis
+
+cug’æ̌ t
+
+‘livro, papel, folha' (genérico)
+
+b’ǒy=g’æt ‘livro de estudo’
+
+(b’oy- ‘estudar/ensinar’)
+
+hɨʔ̌ =g’æt ‘escrita/caderno’
+
+(hɨʔ- ‘escrever,pintar’)
+
+cǐỹ ’=g’æt ‘folheto de vacinação’ (cĩy’- ‘furar, vacinar’)
+
+hup ʔɨd́ =g’æt ‘livro da língua Hup’ (para o meu caderno sobre Hup)
+
+pɨb̌ =g’æt ‘documentos oficiais’ (pɨb ‘forte; comida’)
+
+bǐʔ=g’æt ‘livro do rato’
+
+(para meu livreto com retratos animais)
+
+ʔúrcu=g’æt ‘livro do urso’
+
+(para uma revista com animais dos EUA) 15
+
+Os compostos semanticamente estendidos para indicar objetos redondos formados a partir do termo dependente usado no domínio semântico para plantas, ‘fruta’, são listados em (20). Como estes exemplos mostram, uma proporção elevada de N1s em tais compostos são empréstimos de nomes lexicais em portugueses, ou raízes verbais nativas do verbo em Hup (a escolha depende, em alguns casos, do falante, como no caso em do termo para ‘lâmpada’).
+
+(20) =tat frutas coisas redondas
+
+bóda=tat ‘bola’
+
+tǎc=tat
+
+‘bola de futebol’ (tac- ‘chute’)
+
+badãẃ =tat ‘balão’
+
+dǔc=tat
+
+‘lâmpada/luz’
+
+hɔ́=̃ tat
+
+‘lâmpada’
+
+(hɔ-̃ ‘queimar’)
+
+motúdu=tat ‘motor’
+
+15 O fato de que o urso era desconhecido ao maioria dos Hupd'ǝh, antes de ver minha revista, ilustra a produtividade desta construção classificatória.
+
+ReVEL, edição especial n. 3, 2009 [www.revel.inf.br]
+
+12
+
+Os compostos (21) são formados a partir de termos para planta como ‘madeira partida’, generalizada para coisas planas. Que este sistema se presta a camadas ainda mais finas de classificação é ilustrado pelo fato de que mesmo as fitas cassete podem ser distinguidas (como em fita do Lambadão), por analogia com a ‘fita cassete’ mais genérica. Note que a alta produtividade desse sistema para criar nomes para artigos novos ou estranhos pode conduzir a múltiplos termos, como em ‘lâmpada’ citado acima, e as duas tentativas diferentes de falantes para ‘painel solar’ (um objeto estranho antes da minha chegada na aldeia) abaixo.
+
+(21) =b’ah Split wood coisas planas
+
+píta=b’ah
+
+‘fita cassete’
+
+dabanáw=b’ah ‘fita de Lambadão’
+
+yǔd=b’ah
+
+‘um pedaço de tecido dobrado ou liso’ (yǔd ‘roupa’)
+
+wæ̌ d=b’ah
+
+‘colher,prato’ (wæd ‘comer, comida’)
+
+koyéra=b’ah ‘colher’
+
+méca=b’ah
+
+‘mesa'
+
+cɔć =b’ah
+
+‘lâmina da enchada’ (cɔć ‘enchada’)
+
+dóna=b’ah
+
+‘lona’
+
+mɔyǝǩ =b’ah ‘painel solar’
+
+(mɔyǝǩ ‘espelho’)
+
+pæ̃ʔyæ̃ý =b’ah ‘painel solar’
+
+(pæ̃ʔyæ̃ý ‘relâmpago/eletricidade’)
+
+Exemplos dos compostos construídos a partir do termo usado com plantas ‘concavidade’ (a parte dura curva associada com a flor de determinadas árvores), estendidos a receptáculos côncavos em geral, são fornecidos em (22). Enquanto estes exemplos ilustram, as formas dependentes N2 semanticamente estendidas podem agregar-se a uma palavra composta, como em ‘tomada da luz’ (queimar=FRUTA=CONCAVIDADE), e N1 pode ele próprio ser um composto, como em ‘estojo de óculos’ e ‘carro de mão’.
+
+(22) kǝwǝg tǔʔ=hɔb ‘estojo de óculos’ (kǝwǝg tǔʔ ‘envoltório do olho’~‘óculos’)
+
+tah wæ̌d=hɔb ‘uma bacia longa para comida de gado’
+
+(tah wæ̌d ‘comida de gado/anta’)
+
+hɔ́=̃ tat=hɔb ‘tomada da luz’
+
+(hɔ̃ ‘queimar’)
+
+kǽy b’uy-d’ǝȟ =hɔb ‘carro de mão’ (kǽy b’uy-d’ǝȟ - ‘jogar/mandar o lixo’;
+
+i.e. ‘concavida para jogar lixo fora)
+
+ReVEL, edição especial n. 3, 2009 [www.revel.inf.br]
+
+13
+
+A parte de planta ‘árvore, galho’ é generalizada para coisas longas, finas e cilíndricas (sejam feitos da madeira, plástico ou metal), como é ilustrado em (23a), e também é extremamente produtiva como classificador genérico ‘coisa’ (veja 16). As entidades no grupo (23b) ainda são vagamente longas e cilìndricas; mas o uso de =teg em (23c) está claramente não relacionado a forma.
+
+(23) =teg árvore, galho coisa longa e fina coisa em geral
+
+a) hɨʔ̌ =teg pĩȟ =teg
+
+‘lápis’
+
+(hɨʔ- ‘escrever, pintar’)
+
+‘flauta’ (plástico ou metal) (pĩh- ‘tocar flauta’)
+
+wéda=teg ‘vela’
+
+cǐỹ ’=teg ‘seringa’ (cĩy’- ‘furar’)
+
+b) waydǒʔ=teg ‘avião’
+
+(wayd’oʔ- ‘voar’)
+
+pǝpǝd́ =teg ‘carro, trator’ (pǝpǝd- ‘rolar’)
+
+c) nǔy’=teg ‘borracha’ (nuy’- ‘esfregar’) wɨʔ̌ =teg ‘fone de ouvido’ (wɨʔ- ‘ouvir’) hi-m’ǽ=teg ‘refrigerador’ (hi-m’æ- ‘FACT-frio’)
+
+Todos os grupos de compostos nos exemplos acima são baseados mais ou menos em uma variante de N1, em relação a um N2 mais consistente. Em menor grau, alguns compostos semanticamente estendidos também podem formar grupos nos quais o componente N2 varia, como em (24) e (25). No entanto, tais paradigmas são poucos, mìnimamente produtivos, e menos saliente nas mentes dos falantes, comparados a grupos grandes e produtivos construídos nos mesmos N2s dependentes (folha, semente, etc.) nos exemplos acima. Este fato é refletido no padrão de acento, que marca o N1 como o mais variável:
+
+(24) Tipos de remédio: yɔh̃̌ =g’æt ‘folha medicinal' yɔh̃̌ =wɨg ‘pílula’ yɔh̃̌ =deh ‘xarope’
+
+(remédio=folha) (remédio=SEMENTE) (remédio=ÁGUA)
+
+(25) Lanterna e suas partes:
+
+tǔj=teg
+
+‘lanterna’
+
+(ficar.queimando=GALHO)
+
+tǔj=wˆg
+
+‘baterias para lanterna’ (ficar.queimando=SEMENTE)
+
+ReVEL, edição especial n. 3, 2009 [www.revel.inf.br]
+
+14
+
+Quase toda as formas semanticamente estendidas que se assemelham a classificadores em Hup referem-se a objetos inanimados, e, em geral, os organizam por forma. Cerca de 90% destas palavras criadas recentemente envolve uma parte de planta como N2. Entretanto, os termos que não são parte de planta (tanto nomes dependentes quanto livres) também podem ocorrer em tais compostos, embora com pouca ou nenhuma extensão semântica de N2, como em (26). Raízes verbais deverbalizadas também podem ocorrer como N2s, como em (27).
+
+(26) pæ̃yæ̃́y caʔ ‘bateria de rabeta/carro’ b’ǒh tód’ ‘copo ou jarra’
+
+(caixa do relâmpago) (vasilha do sal)
+
+(27) tegd’uh hɔk̃̌ ‘motosserra’ (serrote de árvore)16
+
+kǝwǝg tǔʔ ‘óculos’
+
+(envoltório dos olhos)
+
+Por fim, enquanto a maioria dos empréstimos do Português são acompanhados de um N2 dependente (parte de planta), alguns itens são emprestados como palavras monomorfêmicas, e não ocorrem em compostos, tais como aquelas em (28).
+
+(28) kópu eckǒwa bówca dápi
+
+‘copo’ ‘escova’ ‘bolsa’ ‘lapisera’
+
+4. UM SISTEMA DE CLASSIFICADORES?
+
+As construções dependentes na seção anterior são claramente distintas dos compostos todo-parte de planta de que se derivam. Os termos para partes de planta, semanticamente estendidos de acordo com a forma, assemelham-se agora a classificadores nominais. Além disso, suas funções na gramática Hup também assemelham-se àquelas dos classificadores em outras línguas, como a discussão na seção 5.2 abaixo esclarecerá.
+Apesar das diferenças entre os dois subtipos semânticos de termos dependentes para parte de planta (aqueles codificando uma relação de parte-inteiro e aqueles que podem ser interpretadas apenas pela relação propriedade-entidade), eles, no entanto, compartilham uma base funcional e semântica comum: os classificadores N2s, como os nomes dependentes em geral, contribuem para a individuação de um referente do grupo de possíveis referentes. Além disso, essa mesma função individuadora tem sido identificada como uma característica
+
+16 ‘Motosserra’ leva opcionalmente um nome dependente adicional: tegd’uh hɔk̃̌ =teg (serrote de árvore=COISA)
+
+ReVEL, edição especial n. 3, 2009 [www.revel.inf.br]
+
+15
+
+translinguística importante de classificadores nominais: tem-se argumentado que os classificadores servem para delimitar o referente semântico dentro de uma massa amorfa para uma entidade específica. Em um trabalho clássico sobre classificação nominal, Denny (1976: 130) observa que a função semântica dos classificadores “é colocar os objetos nas classes que têm a ver com a interação humana com o ambiente”. Da mesma forma, Broschart (2000: 264) destaca que os classificadores têm uma função “gestaltica”: eles dão as objetos um tipo de “contorno metafórico” (isto é, uma capacidade para a manipulação, física, entre outras) que é necessário para “a discriminação de unidades e para a possibilidade de reconhecer unidades de um único tipo”. Um fenômeno comparável é um tipo de classificador com a função de ‘termos de medida’, que individualiza unidades de nomes em massa em talvez todas as línguas; por exemplo, ‘um copo de chá’, ‘uma pitada de sal’.
+Dado essa função geral dos classificadores, podemos esperar o termo N1 em construções classificadoras – i.e. o termo geral cujo referente está sendo restrito – relacione-se mais especificamente a uma propriedade do que a uma entidade. Há evidências de que este é de fato o caso Hup, em que o potencial N1s (isto é, termos que freqüentemente, se não sempre, combinam-se com um N2) são às vezes usados para referir-se a uma propriedade indiferenciada ou material. enquando a entidade associada é secundária. Por exemplo, um falante de Hup referiu-e a um xarope como kɔẃ ‘pimenta’ e depois explicou que seria
+“porque queima” (isto é, uma propriedade, visto que entidades específicas de ‘pimenta’ podem ser diferenciadas como kɔẃ (=tat) ‘pimenta’ (a fruta); kɔẃ =b'ɔḱ ‘o pote do sumo de pimenta’, etc.). Da mesma forma, o empréstimo de Português wéda (vela) foi usado para referir-se tanto a uma vela inteira quanto a uma porção de cera endurecida na mesa – em outras palavras, uma palavra referindo-se a uma entidade (‘vela’) na língua fornecedora tem sido interpretada como uma propriedade ou um material indiferenciado (‘cera’) na língua realizando o empréstimo. Caso necessário, a porção de cera e a vela podem ser distinguidas como wéda cǝǵ ‘pedaço de cera’ vs. wéda=teg ‘bastão de cera; candle’. O caso Hup é muito
+similar ao exemplo dado por Lucy (1992) referente à classificação nominal em Yucatec Maya; em Yucatec, os conceitos de propriedade ou de material tais como ‘cera’ são diferenciados em entidades limitadas, concretas por classificadores numerais, de modo que o candle do ‘uma vela’ seja designado por un-tz'íit kib ‘uma cera longa e fina’.
+
+ReVEL, edição especial n. 3, 2009 [www.revel.inf.br]
+
+16
+
+4.1 DAS PARTES DE PLA TA A CLASSIFICADORES OMI AIS: REA ÁLISE E CLASSIFICAÇÃO
+
+Um subconjunto de nomes dependentes em Hup estão se tornando claramente classificadores nominais. Mas como a mudança de partes de planta para termos classificatórios veio a acontecer? Por que e como, exatamente, os dois divergiram?
+Mais importante ainda, enquanto compostos de partes de planta não estendidos semanticamente e compostos classificadores têm a ver com individuação, eles podem diferir a respeito do que está sendo individuado. Em particular, os paradigma simples dos compostos de nome-nome (nos quais nenhuma extensão semântica é involvida) têm alguma ambigüidade em relação a que componente está sendo especificado. Este é o caso de compostos de partes de planta.
+Como vimos, um composto de parte de planta pode ser interpretado tanto como codificando uma relação todo-parte, ou codificando uma relação de propriedade-entidade – que é inerentemente uma relação de classificação. Um falante pode está lidando tanto com uma bananeira e focalizar em sua folha, ou com uma pilha das folhas e selecionar uma certa folha de banana. O falante de Hup começa com ‘banana’ e a restringe para ‘folha-parte-de’, ou com ‘folha’ a restinge para ‘do-tipo-de-banana’? Ela ou ele está enfatizando a propriedade, como aquela definida pela entidade, ou a entidade, aquela definida pela propriedade? O composto, ele mesmo, é neutro em relação ao que conta como ‘figura’ ou informação nova, e ao que conta como ‘fundo ou base’ ou informação já dada (veja Talmy 1978).
+Na definição de um determinado grupo de compostos, essa questão de figura e fundo que traduz-se na questão de qual posição assumir no composto – as posições expressando os tipos diferentes de folhas, ou partes diferentes de uma árvore – é a mais provável de se manifestar no dia-a-dia dos falantes. Para os falantes de Hup, como discutimos acima, as oposições paradigmáticas mais prototípicas em compostos de partes de planta envolvem uma forma constante como segundo membro do composto (N2) e um conjunto variado de formas como primeiro membro (N1). Isto reflete uma interação típica dos falantes com seu ambiente: é muito mais provável que um falante de Hup esteja preocupado com a identidade de uma folha ou de um galho, porque isso é crucial para o que ela ou ele podem fazer com esse objeto.
+No caso de construções classificatórias, esta tendência de enfatizar a propriedade (N1) tem tornado-se cristalizada – ela é atualmente a única opção. Assim como ‘folha de banana’ nos dá informação sobre a identidade da folha, ‘folha de estudo’ nos informa sobre o tipo de
+
+ReVEL, edição especial n. 3, 2009 [www.revel.inf.br]
+
+17
+
+livro, mas aqui nenhum construto todo-parte é possível. O primeiro membro do composto (N1) tornou-se o foco da construção; de alguma forma, ele pode ser considerado agora o núcleo semântico. O fato de que o acento fonológico já recai sobre a forma N1 nestas construções certamente ajuda a reforçar a interpretação de ela é igualmente semanticamente acentuada. Ao mesmo tempo, a forma dependente N2 nestas construções classificatórias está se tornando um morfema gramaticalizado, e enquanto tal está se tornando categoricamente distinto dos nomes dependentes ‘regulares’. Sua falta de acento e sua posição de composto final faz que se assemelhem aos enclíticos não acentuados extremamente comums em outras partes da gramática Hup. Por fim, enquanto extensão metafórica é um traço de compostos freqüentemente encontrado em Hup (especialmente metáfora envolvendo N2), a existência de grandes conjuntos de paradigma do tipo variável N1 para parte de planta (como no grupo 7 acima) promoveu provavelmente a convencionalização de extensões metafóricas particulares, que em cada caso se tornaram codificadas por meio de um parâmetro semântico específico, notadamente forma (veja Lakoff 1987).
+Há também evidências de que a reinterpretação da cabeça semântica nestes compostos classificatórios está sendo aplicado à sintaxe destas construções também. Em alguns casos, o N1 da construção é agora a cabeça sintática, bem como a cabeça semântica. A força mais provável por trás dessa mudança é empréstimo lexical do Português e/ou do Tukano; isso gerou os termos novos, os quais os falantes de Hup teriam organizado de acordo com o sistema já presente em sua língua para tratar de artigos manufacturados ou manipuláveis. Entretanto, já que os termos novos entraram primeiramente na língua como nomes monomorfemicamente independentes, eles assumiram naturalmente a função de cabeças nominais, as quais as formas classificatórias foram adicionadas subseqüentemente. Dado o grande (e crescente) número destes empréstimos nominais, as formas classificatórias estão sendo gradualmente percebidas como algo extra, ligado à entidade principal. Em alguns casos, a presença do classificador é de fato opcional:
+
+(29) píta (=b’ah)
+
+‘fita cassete’
+
+(fita=MADEIRA.PARTIDAS)
+
+mandádiya (=wɨg) ‘medalhão em um colar’ (Port. medalhão=SEMENTE)
+
+wéda (=teg)
+
+‘vela’
+
+(vela=GALHO)
+
+badãw (=tat)
+
+‘balão’
+
+(balão=FRUTA)
+
+ReVEL, edição especial n. 3, 2009 [www.revel.inf.br]
+
+18
+
+Este efeito ‘ligado a’ dos termos classificadores pode ser encontrado mesmo em algumas palavras nativas, tais como aquelas em (30), em que o classificador aparece opcionalmente:
+
+(30) nɔg’æ̌d (=b’ah) núh (=tat) pog
+
+‘língua’
+
+(língua=MADEIRA.PARTIDA)
+
+‘uma cabeça grande’ (cabeça=FRUTA grande) (para emfatizar forma/tamanho da cabeça)
+
+4.2 FU ÇÕES DO SISTEMA HUP E TIPOLOGIA DE CLASSIFICAÇÃO
+
+A natureza transitória do sistema classificador Hup nos conduz à questao seguinte: Onde se encontra o sistema de termos de classificação nominal em Hup na tipologia geral dos classificadores? Abaixo, considero as várias funções das formas dependentes de classificadores vis-à-vis das funções das formas dependentes translinguisticamente e, e avalio os argumentos para caracterizar o exemplo Hup como um sistema incipiente de classificadores nominais.
+
+4.2.1 DERIVAÇÃO
+Na medida em que os membros N1 dos compostos podem ser considerados as cabeças de frases nominais, a classificação nominal – nos casos em que N1 é uma raiz verbal – pode ser compreendida como tendo a função derivacional de criar uma nominalização de objeto ou de instrumento a partir da raíz verbal, como em (31). Tais funções derivacionais são comuns para classificadores nominais em outras línguas (veja Aikhenvald 2000:220), em especial aquelas da Amazónia ocidental (Grinevald e Seifart 2004).
+(31) wɨʔ̌ =teg (escutar=COISA) ‘coisa para escutar’ = ‘fon de ouvido’ tác=tat (chutar=FRUTA) ‘redondo para chutar’ = ‘bola de futebol’ kǽy b’uy-d’ǝȟ =hɔb (lixo jogar/mandar=CONCAVIDADE) ‘concavidade para jogar o lixo fora’ = ‘carro de mão’
+4.2.2 REFERÊ CIA A AFÓRICA
+Uma das funções as mais comuns de termos classificadores em Hup é a de referência anafórica. Nomes classificadores podem referir-se anaforicamente ao composto completo nas
+
+ReVEL, edição especial n. 3, 2009 [www.revel.inf.br]
+
+19
+
+construções onde N1 é a forma default/possuidor tɨh=, um demonstrativo, um numeral (32), ou uma cláusula relativa (33). Uma função anafórica é uma característica comum de classificadores nominais de forma geral, especialmente nas línguas amazônicas (veja Derbyshire e Payne 1990:243).
+
+(32) kaʔap=těg! dois=GALHO ‘(Há) dois deles!’ (vendo dois aviões: wayd’óʔ=teg [voar=GALHO/COISA])
+
+(33) núp bóda=tat-ʔěʔ, [núp
+
+d’ɔh-yǽt-æp]=tat
+
+Este bola=FRUTA-PERF este
+
+estragar-deitado.no.chão-DEP=FRUTA
+
+‘Esta era uma bola, essa coisa redonda estragando aqui no chão.’
+
+No entanto, essa função anafórica não é específica de classificadores nominais. Em seu uso semanticamente não-estendido, as formas de parte de planta e vários outros nomes dependentes podem ser usados para referência anafórica da mesma maneira:
+
+(34) dǒg=wɨg
+
+b’ah-yóʔ… tɨh=wɨǵ wɔt̃ -d’ǝh-way-yóʔ
+
+vapisuna=semente partido-SEQ 3sg=semente tirar-enviar-sair-SEQ
+
+‘Depois de ter partido a semente de vapisuna, tendo litado a (parte interna) da
+
+semente...’
+
+4.2.3 CO CORDÂ CIA
+
+Os temos classificadores em Hup podem servir para uma função marginal de marcação de concordância pelo fato de aparecer, opcionalmente, em constituintes múltiplos da cláusula (como na marcação da classes nominais em Bantu, por exemplo). Tal concordância foi identificada por Grinevald (2002) como uma indicação de um sistema de classificação, tal como um sistema de classe/gênero. Entretanto, isse tipo de fenômeno de concordância é extremamente raro no discurso natural Hup, e pode ser melhor caracterizado como uma justaposição de frases nominais distintas, em vez de marcação de concordância dentro de uma única frase nominal.
+
+(35) núp=(tat) bóda=tat tɨh=pǒg=(tat) este=FRUTA bola=FRUTA 3sg=grande=FRUTA ‘Esta bola grande’
+
+ReVEL, edição especial n. 3, 2009 [www.revel.inf.br]
+
+20
+
+4.2.4 UM SISTEMA I CIPIE TE DE CLASSIFICADORES
+
+Tipologicamente, o sistema Hup é melhor caracterizado como um sistema de classificadores incipiente ou de ‘termos de classe’ (veja DeLancey 1986, Grinevald 2000), como foi descrevido o sistema comparavel em Yuhup, a lingua irmã do Hup (Ospina 2002:219). Ele recai perto da extremidade da escala de gramaticalização de classificadores proposta por Grinevald (Grinevald 2000):
+
+Figura 1: Gramaticalização de classificadores (Grinevald 2000:61)
+
+<Lexical----------------------------------Gramatical>
+
+termos de medida
+
+classe de nomes/gênero
+
+termos de classe
+
+Os argumentos para considerar o sistema Hup como sendo incipente são os seguintes (veja também Ospina 2002:209-220 sobre o sistema de classificação em Yuhup): a) Somente um pequeno subconjunto de nomes dependentes em Hup – e mesmo termos de plante de planta – são usados consistentemente de maneira metaphoricamente estendida (veja a lista em 18 acima). b) Os contextos de extensão semântica, na maioria das vezes, têm a ver com artigos culturais introduzidos recentemente. Alguns nomes dependentes parecem ter sido estendidos recentemente para que pudessem classificar estes artigos novos; o melhor exemplo é folha →livro, papel (veja o exemplo 19). c) Os nomes dependentes classificadores têm passado por pouca grammaticalização e essencialmente nenhuma redução fonológica; eles são todos nomes reconhecíveis que podem atuar como cabeças normais em outra parte (veja os sistemas incipientes de classificadores nominais em algumas línguas australianas; por exemplo, Reid 1997, Wilkins 2000, Grinevald 2000:84.) d) Os termos classificadores são usados para derivação (veja 5.2.1), mas são usados apenas minimamente para a finalidades da marcação de concordância (5.2.3). e) O forma classificadora é opcional com alguns nomes (como nos exemplos 29-30), e é ausente na maioria dos nomes em Hup.
+
+ReVEL, edição especial n. 3, 2009 [www.revel.inf.br]
+
+21
+
+5. MOTIVAÇÕES POR TRÁS DO DESE VOLVIME TO DO SISTEMA DE CLASSIFICADORES EM HUP
+
+A discussão em 5.1 acima lida com o ‘como’ desse processo de extensão metafórica e de reanálise, no qual partes de planta tornaram-se classificadores nominais. Essa seção trata do ‘porquê’ do processo. Três catalizadores principais podem ser identificados.
+O primeiro destes foi um influxo repentino de novos artigos culturais, o que exigiu nomes. Este é um fenômeno relativamente recente; os Hupd’ǝh têm estado em direto –
+embora esporádico – contato com a cultura brasileira não-indígena por somente aproximadamente 35 anos. Antes disto, tiveram acesso a alguns bens de comércio por meio de sua interação com grupos Tukano, mas, sem dúvida, não havia em nenhum lugar próximo a variedade de artigos aos quais eles estão sendo expostos agora.
+Os Hup já tiveram a matéria-prima lingüística necessária – um sistema de composição nominal e nomes dependentes, que poderiam ser compreendidos como conjuntos paradigmáticos baseados na manipulação de materiais em seu ambiente. Estes compreendiam essencialmente um sistema de classificação altamente especializado. As origens das extensões metafóricas classificadoras estiveram presentes provavelmente por algum tempo. Diversos termos classificadores existem na língua-irmã do Hup, Dâw (que inclui termos estendidos de planta em nomes para partes do corpo; Martins 1994:47-52, 181-82; Martins 2004). A línguairmã mais próxima a Hup, Yuhup, também usa termos semanticamente estendidos de parte de planta para partes do corpo e para outros objetos, incluindo alguns neologismos (Ospina 2002:209- 220).17 Quando expostos repentinamente a uma enchurrada de artigos novos, os Hup simplesmente expandiram seu sistema existente para catalogar os objetos manipuláveis ou manufaturados, o que desenvolveu assim um sistema de classificação nominal.
+Também não é grande surpresa que todas as extensões semânticas de nomes dependentes baseadas em forma envolvem partes de planta. As partes de planta são uma característica fundamental do ambiente da floresta amazônica; as plantas não existem apenas em grande variedade, mas também fornecem a matéria-prima para a grande maioria dos artigos nativos manufacturados – mais do que em muitas outras partes do mundo, onde a pedra, o couro, e outros materiais tem um papel maior. 18 De fato, a classificação nominal não
+
+17 Na língua Nadahup com uma relação mais distante, a língua Nadëb, termos classificadores são limitados a algumas poucas formas genéricas usadas em construções possessivas (Weir 1984). 18 Os Hupd'ǝh usam o osso animal, o casco da tartaruga, a pedra, e o couro animal cru para alguns artigos (tais como a flauta do osso de viado mencionada acima), mas estes são poucos. Tradicional, as plantas forneceram
+
+ReVEL, edição especial n. 3, 2009 [www.revel.inf.br]
+
+22
+
+é a única manifestação da importância das partes de planta na gramática Hup; o nome dependente =teg ‘galho’ não parou quando se transformou no genérico classificador/nominalizador ‘coisa’, mas continuou a gramaticalizar-se em um marcador de finalidade, e dali para um marcador verbal de tempo futuro (veja Epps 2008).
+Entretanto, ainda podemos perguntar porque Hup teria recurso especificamente para formas classificadoras para nomear estes artigos novos, tendo em vista que os classificadores não estão exigidos em outros nomes na língua de forma geral. Esta pergunta aponta para um segundo catalizador para o desenvolvimento desse sistema. Este é o conservantismo – a saber, a conhecida necessidade de evitar empréstimo lexical em grande escala a fim manter a identidade lingüística. Parece ser uma característica da região de Vaupés como um todo (devido, em parte, à exogamia lingüística praticada por grupos indígenas que vivem às margens dos rios) em que falantes de vários grupos linguísticos consideram sua identidade conectada intrinsecamente a sua primeira língua (isto é, a do pai). Esse foco cultural na função emblemática da língua conduziu falantes de muitas línguas do Vaupés a resistir conscientemente a empréstimos lexicais, mesmo inconscientemente permitindo que suas línguas convirjam em um nível estrutural (por exemplo, Sorensen 1967, Jackson 1983, Aikhenvald 2002, Epps 2007). Provavelmente, por este motivo, os falantes de Hup criam frequentemente uma palavra com todos os componentes Hup (verbo/raíz + classificador nominal) para um artigo novo, mesmo quando estão cientes de seu nome em Tukano ou em Português. Do mesmo modo, quando os falantes de Hup usam uma palavra portuguesa emprestada, eles geralmente acrescentam uma parte extra da morfologia Hup, um termo classificador, para dar ao nome novo um selo Hup.
+Por fim, o contato da língua com Tukano foi, certamente, uma força adicional na motivação por trás do desenvolvimento do sistema de classificadores.19 Quando à primeira vista isto pareceria ser completamente oposto ao conservantismo lingüístico como um catalizador, os dois fatores manifestam-se de maneiras diferentes, e não são de modo algum incompatíveis. É um fato geral entre as línguas do Vaupés que o contato intenso de línguas conduziu a uma convergência estrutural considerável, apesar dos esforços conscientes dos falantes para manter suas línguas livres da mistura lexical. Sistemas classificadores em outras línguas do Vaupés tem se mostrados sensíveis ao contato linguístico (veja Gómez-Imbert 1996 para Cubeo-Baniwa e Aikhenvald 2002 para Tukano-Tariana), como também têm outras
+
+cabaças e folhas para vasilhas e copos, casca (amaciada por martelamento) para o tecido nativo, os materiais e o
+veneno para canos de sopro e dardos, arcos e flechas, etc. 19 Quase 100% de falantes Hup adultos são bilingues em Tukano (mas poucos falam português).
+
+ReVEL, edição especial n. 3, 2009 [www.revel.inf.br]
+
+23
+
+áreas da gramática de Hup, tais como o evidenciais (Epps 2005). Os classificadores são uma característica importante da gramática Tukano, e, em muitos aspectos, o sistema de Hup parece uma versão incipiente do sistema Tukano: As línguas Tukano classificam objetos físicos com base na forma, e entidades animadas com base no género (veja Gómez-Imbert 1996, Aikhenvald 2000, etc.), como já vimos em Hup. Além disso, os classificadores em línguas Tukano aparecem em frases nominais com numerais, adjetivos, e demonstratives, com nomes como marcadores derivacionais, e com formas verbais relativizadas (Aikhenvald 2000), da mesma forma como ocorre em Hup.
+6. CO CLUSÃO
+Os sistemas de classificação nominal na Amazônia vão desde sistemas complexos como aqueles nas línguas Tukano, em que os classificadores são unipresentes e podem ocorrer em elementos múltiplos da cláusula (veja, por exemplo, Barnes 1990, Aikhenvald 2000), a sistemas simples e incipientes como o Hup. Entretanto, uma característica comum a muitos destes sistemas de classificação é a predominância de termos relativos a partes de planta – o que obviamente faz sentido no ambiente da floresta Amazônica – e é provável que muitos dos mesmos fatores que deram forma ao sistema Hup também influenciam outras línguas da Amazônia. Por exemplo, na língua Arawak Apuriña, um subconjunto de nomes dependentes e inalienavelmente possuídos, muitos dos quais relacionam-se a partes de plantas, adquiriram extensões semânticas e propriedades de classificadores (Facundes 2000:183-201). No sistema de classificador em Yanomam (família Yanomami), a maioria dos termos classificadores (que são reduzidos fonologicamente e requeridos na maioria dos nomes) é derivada, do mesmo modo, historicamente de partes de planta (Goodwin Gómez 2000:18-20).
+De um ponto de vista tipologico, o caso Hup é particularmente intrigante porque representa um sistema de classificadores em seus estágios iniciais de desenvolvimento, com seus detalhes essenciais ainda visíveis. Além disso, esta é um dos casos relativamente raros em que o efeito de uma mudança cultural identificável é claramente visível na gramática de uma língua. Por fim, apesar da probabilidade de que as novas experiências culturais conduziram o desenvolvimento do sistema de classificadores nominais Hup, sua dependência nas partes de planta mostra que os Hupd'ǝh têm tratado essas novas experiências da forma que fazem mais sentido dentro de sua visão de mundo, de acordo com a vida na floresta.
+
+ReVEL, edição especial n. 3, 2009 [www.revel.inf.br]
+
+24
+
+ABREVIAÇÕES
+DECL – Declarativas DEP – Dependentes FACT – Factivo IMP – Imperativo ITER – Iterativo MSC – Masculino N – Nome NEG – Negativo PERF – Perfectivo pl, PL – Plural POSS – Possessivo SEQ – Sequencial sg, SG – Singular VEN – Venitive
+
+REFERÊ CIAS
+1. AIKHENVALD, Alexandra. Classifiers: a typology of noun categorization devices, Oxford: Oxford University Press, 2000.
+2. AIKHENVALD, Alexandra. Language contact in Amazonia. Oxford: Oxford University Press, 2002.
+3. BARNES, Janet. Classifiers in Tuyuca. In: PAYNE, D.L. (org.). Amazonian linguistics: studies in lowland South American languages. Austin: University of Texas Press, 1990.
+4. BROSCHART, Jürgen. Isolation of units and unification of isolates: the gestalt-functions of classifiers. In: SENFT, Gunter (org.). Systems of nominal classification. Cambridge: Cambridge University Press, 2000.
+5. CHAPPELL, Hilary; MCGREGOR, William. Prolegomena to a theory of inalienability. In: CHAPPELL, Hilary; MCGREGOR, William (orgs.). The grammar of inalienability. Berlin, New York: Mouton de Gruyter, 1995.
+
+ReVEL, edição especial n. 3, 2009 [www.revel.inf.br]
+
+25
+
+6. DELANCEY, Scott. Toward a history of Tai classifier systems. In: CRAIG, Colette (org.). oun classes and categorization. Amsterdam: John Benjamins, 1986.
+7. DENNY, J. Peter. What are noun classifiers good for? Papers from the twelfth regional meeting of the Chicago Linguistics Society, 1976.
+8. DERBYSHIRE, Desmond; PAYNE, Doris. Noun classification systems of Amazonian languages. In: PAYNE, D.L. (org.). Amazonian linguistics: studies in lowland South American languages. Austin: University of Texas Press, 1990.
+9. EPPS, Patience. Areal diffusion and the development of evidentiality: evidence from Hup, Studies in Language v. 29, n. 3, 2005.
+10. EPPS, Patience. The Vaupés melting pot: Tukanoan influence on Hup. In: AIKHENVALD, Alexandra; DIXON, R.M.W. (eds.). Grammars in contact: a cross-linguistic typology (Explorations in Linguistic Typology 4). Oxford: Oxford University Press, 2007.
+11. EPPS, Patience. A grammar of Hup. (Mouton Grammar Library 43.) Berlin: Mouton de Gruyter, 2008.
+12. EPPS, Patience. From ‘wood’ to future tense: Nominal origins of the future construction in Hup. Studies in Language v. 32, n. 2, 2008.
+13. FACUNDES, Sidney da Silva. The language of the Apuriña people of Brazil. Tese de doutorado. University of New York, Buffalo, 2000.
+14. GOMEZ-IMBERT, Elsa. When animals become ‘rounded’ and ‘feminine’: conceptual categories and linguistic classification in a multilingual setting. In: GUMPERZ, John; LEVINSON, Stephen (orgs.). Rethinking linguistic relativity. Cambridge: Cambridge University Press, 1996.
+15. GOODWIN GÓMEZ, Gale. Noun classifiers in ethnobotanical terminology of a Yanomami language of Brazil. In: VAN DER VOORT, Hein; VAN DE KERKE, Simon (orgs.). Indigenous languages of lowland South America. Indigenous Languages of Latin America (ILLA) 1, Leiden: CNWS, 2000.
+16. GRINEVALD, Colette. A morphosyntactic typology of classifiers. In: SENFT, Gunter (org.). Systems of nominal classification. Cambridge: Cambridge Univiversity Press, 2000.
+17. GRINEVALD, Colette. Making sense of nominal classification systems: noun classifiers and the grammaticalization variable. In: WISCHER, Ilse; DIEWALD, Gabriele (orgs.). ew reflections on grammaticalization. Amsterdam: John Benjamins, 2002.
+18. GRINEVALD, Colette; SEIFART, Frank. Noun classes in African and Amazonian languages: towards a comparison. Linguistic Typology v. 8, n. 2, 2004.
+19. JACKSON, Jean. The fish people: linguistic exogamy and Tukanoan identity in northwest
+
+ReVEL, edição especial n. 3, 2009 [www.revel.inf.br]
+
+26
+
+Amazonia. Cambridge: Cambridge University Press, 1983. 20. KLEIN, Harriet Manelis. Meronymy or part-whole relations in indigenous languages of
+lowland South America. In: VAN DER VOORT, Hein; VAN DE KERKE, Simon (orgs.). Indigenous languages of lowland South America, Indigenous Languages of Latin America (ILLA) 1. Leiden: CNWS, 2000. 21. LAKOFF, George. Women, fire, and dangerous things. Chicago: University of Chicago Press, 1987. 22. LUCY, John A. Grammatical categories and cognition. Cambridge: Cambridge University Press, 1992. 23. MARTINS, Silvana A. Análise da morfossintaxe da língua Dâw (Makú-Kamã) e sua classificação tipológica. Tese de mestrado, Universidade de Santa Catarina, 1994. 24. MARTINS, Silvana A. Fonologia e gramática Dâw. Tese de doutorado, Vrije Universiteit, Amsterdam, 2005. 25. NICHOLS, Johanna. On alienable and inalienable possession. In: SHIPLEY, William. In honor of Mary Haas, Haas Festival Conference on Native American Linguistics. Berlin: Mouton de Gruyter, 1988. 26. OSPINA BOZZI, Ana María. Les structures élémentaires du Yuhup Maku, langue de l’Amazonie Colombienne: morphologie et syntaxe. Tese de doutorado, Université Paris 7—Denis Diderot, 2002. 27. RAMIREZ, Henri. Família Makú ou família Uaupés-Japura? Encontro da ANPOLL, Belém, Brazil, 2001. 28. REID, Nicholas. Class and Classifier in Ngan'gityemerri. In: HARVEY, Mark; REID, Nicholas (orgs.). ominal classification in aboriginal Australia. Amsterdam: John Benjamins, 1997. 29. SORENSEN, Arthur P. Multilingualism in the Northwest Amazon. American Anthropologist 69:670-84, 1967. 30. TALMY, Leonard. Figure and ground in complex sentences. In: GREENBERG, Joseph et al. Universals of human language, vol. 4: Syntax. Stanford: Stanford University Press, 1978. 31. WEIR, E. M. Helen. A negação e outros tópicos da gramática adëb. Tese de mestrado, UNICAMP, Campinas, 1984. 32. WETZELS, Leo (org.). Language endangerment and endangered languages: linguistic and anthropological studies with special emphasis on the languages and cultures of the Andean-Amazonian border area. Indigenous Languages of Latin America series (ILLA).
+
+ReVEL, edição especial n. 3, 2009 [www.revel.inf.br]
+
+27
+
+Publications of the Research School of Asian, African, and Amerindian Studies (NWS).
+Leiden University, The Netherlands, 2007.
+33. WILKINS, David. Ants, ancestors, and medicine: a semantic and pragmatic account of
+classifiers constructions in Arrernte (Central Australia). In: SENFT, Gunter (org.). Systems
+of nominal classification. Cambridge: Cambridge University Press, 2000.
+RESUMO: Este artigo considera como os sistemas de classificação nominais podem se levantar. Apresenta um estudo do caso Hup, uma língua do noroeste da Amazônia, pertencente à família lingüística Nadahup (Makú), falada na fronteira do Brasil com a Colômbia. Hup oferece um olhar único sobre um sistema de classificação nominal em suas fases iniciais, em que os mecanismos e as motivações para seu desenvolvimento são ainda claramente visíveis. Como discutido aqui, o sistema incipiente de classificação nominal em Hup levantou-se por meio de uma transição das construções que codificam relacionamentos peça-inteiros ou possessivos. Esta mudança foi permitida por uma ambigüidade em paradigmas particulares de construções compostas – em particular, aqueles que codificam a relação entre as plantas e suas peças – no respeito a que componente do composto está no foco. Por exemplo, no ‘banana-folha', começa com ‘folha’ e restringe-o ao ‘banana-tipo', ou começa com a planta de banana e restringe-o à ‘folha-peça-de'? Esta ambigüidade chegou, ou esta chegando, ao reanálise do qual componente do composto deve ser considerada a ‘cabeça’ semântico – e chegou também ao reanálise inicipiente dos nomes ‘cabeças’ antigos como ‘classificadores’ novos. Este processo, eu sugiro, tenho sido abastecido recentemente pelo influxo relativamente repentino dos objetos culturais não-nativos, que exigem nomes, assim promovendo a extensão metafórico de componentes compostos já existentes, tais como ‘folha’ e ‘galho'. Ao mesmo tempo, o desenvolvimento dos classificadores em Hup foi também motivado pelo contato com línguas Tukanos, que forneceram um modelo para o sistema. PALAVRAS-CHAVE: Hup; Nadahup (Makú); classificação nominal; gramaticalização
+ABSTRACT: This paper considers the question of how nominal classification systems may arise. It presents a case-study from Hup, a northwest Amazonian language of the Nadahup (Makú) language family, spoken on the Brazil-Colombia border. Hup offers a unique glimpse of a nominal classification system in its earliest phases, where the mechanisms and motivations for its development are still clearly visible. As argued here, Hup’s incipient system of noun classification arose by means of a transition from constructions encoding part-whole or possessive relationships. This change was enabled by an ambiguity in certain paradigms of compound constructions – particularly those encoding the relationship between plants and their parts – with respect to which component of the compound is in focus. For example, in ‘banana-leaf’, does one start with ‘leaf’ and restrict it to ‘banana-type’, or does one start with ‘banana plant’ and restrict it to ‘leaf-part-of’? This ambiguity arguably led, or is leading, to a reanalysis of which component of the compound is to be considered the semantic ‘head’ – and has led further, among other things, to the incipient reanalysis of former ‘head nouns’ as new ‘classifiers’. This process, I suggest, has been fueled quite recently by the relatively sudden influx of non-native cultural items that require names, thus fostering the metaphorical extension of pre-existing compound components such as ‘leaf’ and ‘stick’. At the same time, the development of the Hup classifiers has also been shaped by contact with Tukanoan languages, which provided a model for the system. KEYWORDS: Hup; Nadahup (Makú); noun classification; grammaticalization
+
+ReVEL, edição especial n. 3, 2009 [www.revel.inf.br]
+
+28
+
+

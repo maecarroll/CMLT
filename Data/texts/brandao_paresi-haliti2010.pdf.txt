@@ -1,0 +1,1763 @@
+Copyright by
+Ana Paula Barros Brandão 2010
+
+The Report Committee for Ana Paula Barros Brandão Certifies that this is the approved version of the following report:
+Verb morphology in Paresi-Haliti (Arawak)
+
+APPROVED BY SUPERVISING COMMITTEE:
+
+Supervisor:
+
+Patience Epps
+
+Nora England
+
+Verb morphology in Paresi-Haliti (Arawak)
+by Ana Paula Barros Brandão, B.A.
+Report
+Presented to the Faculty of the Graduate School of The University of Texas at Austin in Partial Fulfillment of the Requirements for the Degree of
+Master of Arts
+The University of Texas at Austin 2010
+
+Dedication
+For the Haliti people and my mother Francisca Brandão.
+
+Acknowledgements
+I owe a considerable debt to all my teachers of the Paresi language, especially: Antonio Zonizare, Nelsinho Zoizomae, Justino Zomoizokae, Fernando Moizokero, João Titi Akonozokae, Joãozinho, Elizabeth Akezomaialo, Geovani Kezokenaece, Genivaldo Zezokaece, Jurandir Zezokiware, Luciano Kaizokenazokae, Angelo Kezomae, Rony Azonayce, Nilce Zonizokemairo, and João Garimpeiro. I am grateful to all the individuals who supported my work with the Paresi people in Tangará. I thank Dr. Patience Epps, Dr. Nora England, and Dr. Sidi Facundes for their comments. Thanks also to Dr. Lev Michael and Dr. José Alvarez for insights into some parts of the analysis of negation and causatives. I also thank Prof. Curt Reese, Ryan Sullivant, Melody Ross, and Tony Wright for their revision of the text. I want to express my gratitude to Dr. Denny Moore for his academic support; to my mother for her love and support; and to all my fellow linguists, especially people in the LARGA group for their help and friendship.
+v
+
+Abstract
+Verb morphology in Paresi-Haliti (Arawak)
+Ana Paula Barros Brandão, M.A. The University of Texas at Austin, 2010
+Supervisor: Patience Epps
+This report provides a preliminary description of verb morphology in Paresi, including a linguistic profile and some socio-cultural aspects of the language. The Paresi people, who number approximately 2000, live in the State of Mato Grosso, Brazil. To date the Paresi language has had limited documentation. Chapter 1 provides background information on Paresi. Chapter 2 provides some typologically important information. Paresi segmental phonology is simple, morphophonemic alternations occur with pronominal markers and some stems. Stress is on the penultimate syllable, with some exceptions. Nouns, verbs and adjectives are distinguishable. In Paresi, nouns prototypically are roots that, morphologically, have affixes indicating number, and possessed markers. Chapter 3 describes the verb classes. Paresi verb roots can be intransitive, transitive or ambitransitive. Chapter 4 addresses the valence-changing operations occurring with verbs, such as causative constructions. Chapter 5 describes the tense, aspect and mood systems, with a discussion of the spatial and aspectual meanings of some morphemes. Chapter 6 provides an overview of the different negation strategies. Chapter 7 provides a summary and final considerations on Paresi verb morphology.
+vi
+
+Table of Contents
+ABBREVIATIONS............................................................................................. x
+Chapter 1 INTRODUCTION.............................................................................. 1 1.1 Paresi society and language .................................................................. 2 1.2 Genetic affiliation ................................................................................ 4 1.3 Previous literature on Paresi ................................................................. 8 1.4 Methods ............................................................................................... 8
+Chapter 2 LINGUISTIC PROFILE OF PARESI .............................................. 10 2.1 Phonology........................................................................................... 10 2.2 Morphophonology .............................................................................. 12 2.3 Constituent order ................................................................................ 13 2.4 Nominal morphology .......................................................................... 14
+Chapter 3 VERB CLASSES ............................................................................. 17 3.1 General remarks about the verb class .................................................. 17 3.2 Simple verbs ....................................................................................... 20 3.2.1 Intransitive verbs ..................................................................... 21 3.2.2 Transitive verbs....................................................................... 24 3.2.3 Directional verb constructions ................................................ 25 3.2.4 Copula..................................................................................... 26
+Chapter 4 VALENCY CHANGING AND ARGUMENT REARRANGING MECHANISMS ....................................................................................... 28 4.1 General remarks.................................................................................. 28 4.2 Decreasing transitivity ........................................................................ 28 4.2.1 Passive ................................................................................... 28 4.2.2 Intransitivizer -oa and anticausative constructions .................. 29 4.2.3 Reflexive ................................................................................ 30 4.2.4 Reciprocal ............................................................................... 30 4.3 Increasing transitivity: causatives........................................................ 32
+vii
+
+4.3.1 Lexical causatives ................................................................... 32 4.3.2 Morphological causatives ........................................................ 33 4.3.3 Periphrastic causatives ............................................................ 36 Chapter 5 TENSE, ASPECT, AND MODALITY............................................. 38 5.1 General remarks.................................................................................. 38 5.2 Tense .................................................................................................. 38 5.3 Aspect................................................................................................. 40 5.3.1 Perfective ................................................................................ 40 5.3.2 Imperfective ............................................................................ 41 5.3.3 Progressive.............................................................................. 43 5.3.4 Completive.............................................................................. 44 5.3.5 Anterior................................................................................... 45 5.4 Modality ............................................................................................. 47 5.4.1 Imperative ............................................................................... 47 5.4.2 Frustrative ............................................................................... 48 5.4.3 Apprehensive .......................................................................... 49 5.4.4 Epistemic modality.................................................................. 49 5.4.5 Conditional.............................................................................. 50
+Chapter 6 NEGATION..................................................................................... 52 6.1 General remarks.................................................................................. 52 6.2 Standard negation ............................................................................... 52 6.2.1 Negation of declarative sentences in general............................ 52 6.2.2 Existentials and negation ......................................................... 54 6.2.3 Negation in non-verbal clauses ................................................ 54 6.3 Nonstandard negation ......................................................................... 55 6.4 Negation of constituents...................................................................... 56 6.5 Double negation.................................................................................. 57
+viii
+
+Chapter 7 CONCLUDING REMARKS............................................................ 58 References......................................................................................................... 61 VITA................................................................................................................. 65
+ix
+
+ACT AFF ANT ATTR CAUS CLF COMPL COP DEM DEP EMPH EXIST F FOC FUT FRUST IFV INT INTENS INTR IRR LOC M NEG NMLZ OBJ ONP PART PASS PL POSP POSSED PROG PURP UNPOSS RECP REF REP SUBORD TEM
+
+Abbreviations
+Active Affect Anterior Attributive Causative Classifier Completive Copula Demonstrative Dependent marker Emphasis Existential Feminine Focus Future Frustrative Imperfective Interrogative Intensifier Intransitivizer Irrealis Locative Masculine Negative Nominalizer Object Onomatopeia Particle Passive Plural Postposition Possessed Progressive Purposive Unpossessed Reciprocal Reflexive Repetitive Subordinator Temporal
+x
+
+TH TRAN UNCERT VBLZ
+
+Thematic Suffix Transitivizer Uncertainty Verbalizer
+
+xi
+
+CHAPTER 1: INTRODUCTION
+The purpose of this paper is to present a preliminary description of Paresi verb morphology. Paresi is a southern Arawak language spoken by approximately 2000 people in the State of Mato Grosso, Brazil. This work will contribute to furthering the description and documentation of Arawak languages, as currently few in-depth descriptions of these languages are available (and particularly of southern Arawak languages such as Paresi). In addition, due to the endangered status of Paresi, it is of crucial importance that we provide a descriptive grammar and documentary corpus in order to systematically document the Paresi language and aspects of Paresi culture. Furthermore, Arawak languages present typological features that require more investigation: many of these languages are polysynthetic and predominantly agglutinating, with complex verb morphology and a rich system of classifiers.
+The organization of this paper is as follows: this chapter presents the Paresi society and language. Chapter 2 is a linguistic profile of Paresi. Chapter 3 is a discussion of verb categories. Chapter 4 addresses valency-changing and argument-rearranging mechanisms. The main focus of the paper is chapter 5 on tense, aspect, mood, and modality. Finally, chapter 6 presents an overview of negation strategies and their properties.
+1
+
+onte de
+T.I Estação Parecis
+
+1.1 Paresi society and language There are ten Paresi indigenous lands: Rio Formoso, Utiariti, Estação Parecis, Estivadinho, Pareci, Juininha, Figueira, Capitão Marcos, Ponte de Pedra, and Uirapuru (see map 1). Paresi (and its variants, Parecís or Pareci) is the term used to refer to the Haliti people (as they call themselves). The term “Haliti-Paresi” is used by some Paresi speakers to refer to the language they speak. I will use the term “Paresi” to refer to both language and people. The information provided in this paper was gathered during three field trips in which I visited two indigenous lands: Rio Formoso and Pareci (see map 1). There are around 80 Paresi-Haliti people (all of whom are speakers) in the Formoso area, which includes the villages of Formoso, JM, Cachoeirinha, and Jatobá, and about the same number of people in the Rio Verde village (Paresi area). In the past, these Paresi inhabitants were divided into at least three subgroups: Kashíniti (Kaxiniti), Waimaré, and Korázini (Kozarene) (Métraux, 1948). Rowan (1964) states that there were few bilingual Paresi people during his visits to the area. However, more recent information from my fieldwork indicates that the majority of the population is bilingual in Paresi and Portuguese, with Paresi as their first language. Although Paresi is mostly used as the everyday language (in conversation, rituals, storytelling), language shift toward Portuguese has started to take place; there are some situations in which the Paresi need to use the dominant language, such as when they have to go to the city to request health services, to receive payments and in other situations. One example of this is that Portuguese recently began to be used in the schools of the Paresi villages.
+2
+
+8 7
+9 6
+12 4 5 3
+Map 1 (from the Instituto Socioambiental-ISA at www.socioambiental.org/): Paresi Indigenous Lands - referred as T.I. (that means Terra indígena in Portuguese 1- T.I. Uirapuru, 2- T.I. Juininha, 3- T.I. Figueiras, 4- T.I. Estivadinho, 5- T.I. Rio Formoso, 6- T.I. Pareci, 7- T.I. Utiariti 8- T.I. Ponte de Pedra , 9- T.I. Estação Parecis
+
+3
+
+It is possible, in principle, to determine at least three dialect variants that may be associated with the different groups of Paresi people (the Waimaré, Kaxiniti and Kozarene). Approximately half a dozen people or fewer speak the Waimaré variety. Only native speakers over 30 years old are fluent in this variety (youngsters understand or speak Waimaré as a second language). In the village of Bacaval, there are a few people who speak Paresi; however, they have higher proficiency in the Kozarene than in the Waimaré variety. The first language of Waimaré speakers is Portuguese, and Waimaré is only used in conversation with or among elders. The Kaxiniti variety is almost extinct (with one or two speakers) because the people belonging to the Kaxiniti subgroup were the first to be in contact with non-Indian people.
+Nowadays the intermarriage of speakers of different groups confounds an easy separation of the speakers into neat dialect groups. Because of this, more work needs to be done in order to identify the sociolinguistic aspects of language variation in Paresi. In this work, I present data from the major variety referred to as the Kozarene variety, and I refer to the minority as the Waimaré variety.
+1.2 Genetic affiliation The Paresi language is one of the approximately 180 languages native to Brazil. Even though estimates of the number of languages that belong to the Arawak family have varied to a great extent, the three major modern comparative studies on Arawak (Payne, 1991; Aikhenvald 1999 and Ramirez 2001) have presented a largely similar classification (Facundes & Brandão, to appear) but there are some differences with regard to internal
+4
+
+classification. There are approximately thirty to forty Arawak languages distributed
+among the approximately 400,000 ethnic Arawaks (Ramirez, 2001).
+The work by Payne (1991) was the first comparative linguistic study of Arawak
+languages following the accepted methodology of the comparative method (see
+classification in Table 1, on the next page). In this work, 203 items were reconstructed for
+Proto-Maipuran (an alternative term for Arawak), making use of 24 Arawak languages
+from all the main branches of the family. Payne (1991) classified these Arawak languages
+into five groups: Western, Central, Southern, Eastern, and Northern. Aikhenvald (1999)
+divided Arawak into two large groups: South & Southwestern (with 6 branches) and
+North-Arawak (8 branches), while Ramirez (2001) classified it into Occidental (with 8 branches) and Oriental (with 2 branches).1
+Payne (1991) placed Waurá and Paresi in a Central branch because they share the highest number of cognate pairs2 (see Table 1 with Payne’s classification on page 6).
+Aikhenvald (1999) and Ramirez (2001) grouped Paresi in the South & Southwestern or
+Oriental group, in a branch called Paresi-Xingu with two subgroups: Xingu and Paresi-
+Saraveca.
+These previous works did not include Enawene Nawe in their studies, except for
+Aikhenvald (1999). She groups Enawene Nawe in the South Arawak branch, but without
+presenting the data justifying this classification. Fabre (2005) places Enawene Nawe in
+1 According to Michael (to appear), Ramirez’s classification differs from Aikhenvald (1999) and Campbell (1997). Ramirez’s claims for the classification presented are not very explicit and the methodology used is not reliable at all because is based only on lexicostatistical comparison. 2 Payne’s classification was based on standardized lexical retentions by using the historical comparative method, while Ramirez’s classification was based on a comparison of Swadesh lists by using the lexicostatistic method.
+5
+
+the same branch as Paresi and Saraveca based on Lisbôa (1985) according to which a Paresi speaker understood an Enawene Nawe speaker. In recent historical comparative work Brandão and Facundes (2007) confirmed Fabre’s previous classification, in which Paresi is placed in the same branch with Enawene Nawe, based on lexical and phonological information.
+6
+
+Table 1: Payne’s internal classification for 24 languages
+
+I
+
+WESTERN
+
+Amuesha
+
+Chamicuro
+
+II
+
+CENTRAL
+
+Parecís Waurá III SOUTHERN Bolivia-Paraná (subgroup)
+Terêna Bauré Ignaciano Purus Piro Apurinã Campa Machiguenga Ashéninca IV EASTERN
+
+Palikur
+
+V
+
+NORTHERN
+
+Wapishana
+
+Caribbean
+
+Garífuna
+
+TA-Arawakan
+
+Lokono
+
+Guajiro
+
+Inland
+
+North-Amazon
+
+Resígaro Rio Negro
+Achagua Cabiyari
+Curripaco Piapoco Tariano Yucuna Yavitero
+
+7
+
+1.3 Previous literature on Paresi To date, there has been little documentation of Paresi: a grammar sketch and a preliminary dictionary based on the variety spoken in the Utiariti Land (by missionaries of SIL: see Rowan, 1964a, 1964b, 1977; Rowan & Rowan, 1978; Rowan & Burgess, 1979), and other works on phonology (Drude, 1995; Silva, 2009). In the work entitled “Revised phonemic statement of Parecís” (1964a), Rowan presents information about the phonetic and phonemic inventories. In another work (1964b), Rowan provides brief phonological information at the level of discourse and suprasegmentals. There is another work (Rowan, 1977) about discourse. In 1978, Rowan published a dictionary through SIL (which had a posthumous second edition in 2001, edited by Felícia Rowan). As the preface of the dictionary says, the work is not exhaustive. Rowan and Burgess (1979) is a book with a preliminary grammatical description that includes some aspects of discourse, clause and word structures. The most recent works are Drude (1995) about the phonetics and phonology of Waimaré, and Silva (2009), which is a preliminary phonetic and phonological description of Paresi, using a Feature Geometry approach.
+1.4 Methods The data presented in this study come from texts and elicitation questionnaires collected during the summer of 2008, winter of 2008 and summer of 2009. On my first trip to the field, I collected some basic paradigms and texts. The texts were recorded on minidisks or on digital recorders. On my second trip to do fieldwork, I did not go to the
+8
+
+villages, but worked with a Paresi speaker in Belém. I elicited data about word order, parts of speech, possession, deixis, speech acts and negation. To date I have transcribed and analyzed eighteen texts (approximately three hours) from different genres (conversations, stories, descriptive texts, and other genres). On my third trip, I used a laptop in the villages and recorded data onto a hard drive while still in the field. For data storage I used the ELAN and the Toolbox programs. I double-checked grammatical forms with other speakers, and I transcribed and translated more texts. To date, the total of texts (both transcribed and not transcribed) constitute approximately 20 hours of recordings. Finally, I also used some questionnaires, such as the Lingua Descriptive Studies Questionnaire (Comrie & Smith, 1977), a valency questionnaire (Klamer, 2000), a negation questionnaire (Berg & Kahrel, 1989), and a TMA questionnaire (Dahl, 1985).
+9
+
+CHAPTER 2: LINGUISTIC PROFILE OF PARESI
+
+This section presents a short sketch of Paresi phonology and grammar as a
+
+prelude to the discussion of verb morphology. Paresi is a polysynthetic, head-marking
+
+language with no grammatical case marking and a basic SOV word order. First, I will
+
+briefly present some aspects of Paresi phonology and morphophonology. Next, I will
+
+summarize the main aspects of the morphosyntax, such as the constituent word order in a
+
+sentence and in a phrase, and nominal morphology. Finally I will discuss plans about
+
+future work on subordination in Paresi.
+
+2.1 Phonology
+
+In its phonology, Paresi has 16 phonemic consonants. The consonantal inventory
+
+is given in Table (2).
+
+Plosive Nasal Flap lateral Fricative Affricate Approximant
+
+Table 2: Paresi consonant phonemes
+
+labial Dental- Alveolar Palato-alveolar Palatal Velar
+
+b
+
+t
+
+tʲ
+
+k
+
+mn
+
+ɾ
+
+l
+
+lʲ
+
+f
+
+ð
+
+ʃ
+
+ts
+
+w
+
+j
+
+Laryngeal h
+
+The consonantal inventory proposed here for Paresi (Kozarene variety) differs from the proposals by Rowan (1964) and Silva (2009)3.
+
+3 Rowan (1964) and Silva (2009) do not present /f/, /lʲ/ and /ʃ/ as phonemes. According to Silva (2009), there is a phoneme /ɸ/, but Rowan (1964) stated that there was a [ɸ] only in some varieties. I consider [ɸ] to be an allophone in free variation with [f]. In addition, the lateral [l] and the palatalized lateral [lʲ] are also
+10
+
+The vowel inventory of Paresi includes four vowels /a, e, i, o/. Vowels can be
+
+nasalized or long, but not contrastively. In Table 3, I present the four vowels. There are
+
+also five diphthongs (ea, ao, ai, oa, oi).
+
+Table 3ː Paresi vowel phonemes
+
+Front
+
+High
+
+i
+
+Mid
+
+e
+
+Low
+
+Central a
+
+Back o
+
+The majority of the syllables take the form CV, but CVV, VV, and V also exist.
+
+The regular stress pattern in Paresi in words with up to three syllables is: i) if the last
+
+syllable is heavy and the penultimate syllable is light, stress the last syllable, as in (1a); ii)
+
+in the absence of a heavy syllable, stress the penultimate syllable, as in (1b). In
+
+polysyllabic words with suffixes, the main stress falls on the final syllable (Brandão,
+
+2009b), as illustrated in (1c).
+
+(1) a. b. c.
+
+ni. ̍djej.ta ma.̍na.ha ˌkaj.mi.ni.̍ti
+
+I am saying centipede moon
+
+phonemes (as it is the pair [t] and [tʲ]). I do not have minimal pairs for [l] and [lʲ], but [lʲ] occurs in contexts other than after [i], such as after [a] (e.g.: alʲako ‘where’, ala ‘FOC’). Furthermore, I have a minimal pair
+for the sounds [ʃ] and [ð ] ([ʃana] ‘bee’ and [ðana] ‘genipap’); thus, [ʃ] is restricted to contexts before [i]
+and [a], while [ð] appears before [a, e, o]. Silva (2009) represented a phoneme as /θ/, but I represented it as /ð/ because this sound is more common in the language than [θ] (its allophone).
+11
+
+2.2 Morphophonology
+
+2.2.1 Palatalization
+
+In general, the two sound categories, the plain and the palatalized consonants, are
+
+in complementary distribution. The palatalized consonants occur only adjacent to [+high]
+
+segments, in this case preceded by the front vowel [i] or the palatal [j]. There are also
+
+examples of palatalization across morpheme boundaries. In (2a) and (2b) a plain
+
+consonant occurs root-initially with the prefix no-; however, in the second column, where
+
+the plain consonant follows the suffix hi-, there is a palatal instead. For further discussion
+
+see Brandão (2009a).
+
+(2) . a.
+
+k/kʲ no-kanakaidya 1s-eat
+‘I ate’
+
+hi-kʲanakaidya 2s-eat
+‘you ate’
+
+b. ð/j no-ðera 1s-sing
+‘I sang’
+
+hi-jera 2s-sing
+‘ you sing’
+
+2.2.2 Vowel harmony and total assimilation According to Silva (2009), there are two processes which act across morpheme boundaries (but that may be not restricted to this context): vowel harmony and total assimilation4. Vowel harmony occurs when morphemes containing high vowels are attached to a verb stem with the vowels /e/ or /o/, and then the vowels of the stem are realized as [i] or [u] respectively, as in (3a). Total assimilation occurs when a morpheme containing the vowel /e/ is attached to the end of a verb stem which ends with the vowel
+
+4 There is also the process of coronalization, in which a consonant becomes an affricate alveolar following a high front vowel across a morpheme boundary, such as in the example: no-tema-ka/1s-sleep-TH ‘I slept’ and hi-tsema-ka ‘you slept’. However, I will not present it here because it needs more study.
+12
+
+/a/, and then this vowel is realized as /e/, as seen in (3b).
+
+(3) o>u a. ∅-kolotya ‘s/he is fat’
+3s-be.fat nu-kuluti ‘ I am fat’ 1s-be.fat
+
+a>e b. hi-tsema ‘you heard’
+2s-hear hi-tseme hena ‘hear!’ 2s-hear IFV
+
+2.3 Constituent order
+The basic word order of Subject, Object and Verb is Subject+Verb in intransitive
+clauses, and Subject+Object+Verb in transitive clauses.
+(4) Dirizonae kawitx-ita=ene Dirizonae shout.out-PROG=ANT ‘Dirizonae shouted out’ (T. GK. 072908)5
+(5) Kezo kera-tya imiti Kezo burn-TRAN cloth ‘Kezo burned the cloth’ (E. GK. 041310)
+
+In question-word interrogatives or content-questions, the interrogative words are sentence-initial (6). Furthermore, there are two ways of expressing polar questions in Paresi: by using a rising intonation pattern or by using the interrogative particle zoana in sentence-initial position, as in (7).
+
+(6) zala kore zane zema? INT PART go POSP
+
+‘Who will follow him?’ (T. JT. 080208)
+
+(7) zoana alitereze mahiye-nae waeholoko-la?
+
+INT PART bat-PL
+
+arrow-POSSED
+
+‘Is it true that you have the bats’ arrow? (T. J. 080309)
+
+5 The source of the example can be observed from the codes: T: indicates the examples come from texts; E: indicates they come from elicitation; the letters refer to the speakers’ names; and the numbers indicate the date when the data were collected (mm/dd/yy).
+13
+
+In a noun phrase, a noun can be preceded by a demonstrative or a numeral as shown in (8) and (9). When a noun phrase is followed by another noun phrase, this is interpreted as a genitive construction, as seen in (7) above.
+(8) hatyo Mararaene ala ∅-tyaloka DEM Mararene FOC 3s-bite ‘That Mararene was bitten’ (T. JT. 080208)
+(9) hanama-katse ala atya-katse three-CLF.long FOC tree-CLF.long ‘There are three sticks’ (T. LK. 070709)
+
+Adjectives follow the nominal head, as in (10):
+(10) hati kalore tyoma-ha house big make-PL
+‘They made a big house’ (E. GZ. 101109)
+
+In addition, Paresi employs postpositions, which follow the noun phrase that functions as their complement, as in (11)
+
+(11) hatyaotseta tekoaha zoima kakoa
+
+PART
+
+go.away child POSP
+
+‘They went away with the child’ (T. JT. 080208)
+
+2.4 Nominal morphology According to Payne (1991), the most noticeable grammatical aspect shared by Arawak languages is that they present the possessive prefixes nu- and p-. In Paresi, as in other Arawak languages, the same set of pronominal prefixes denotes possessors on nouns and subject cross-reference on verbs, as seen in Table 4:
+
+14
+
+Table 4: pronominal markers Singular
+1 no-, na-,n2 hi-, ha-, h3 Ø (e-/i- nouns only)
+
+Plural wi-, wa-, wxi-, za-, zø…-ha (pl)
+
+The pronominal gender distinction found in other Arawak languages such as Apurinã and Baniwa was lost in Paresi (Aikhenvald, 1999: 84), but a gender distinction can be found in nominalizations (e.g.: k-idya-hare ATTR-make.tired-NMLZ ‘the tired one (male)’ and k-idya-halo ATTR-make.tired-NMLZ ‘the tired one (female)’). Paresi distinguishes singular and plural number on nouns by marking plural nouns with the suffix –nae.
+Furthermore, Paresi distinguishes alienable and inalienable possession. Nouns can be classified into three types: i) inalienable or obligatorily possessed nouns, which must occur either with the possessor prefixes (body parts and kinship terms, e.g.: no-kahe ‘my hand’) or with the unpossessive suffix –ti; ii) alienable or optionally possessed nouns, which can occur with the possessor prefixes and one of the three possessed suffixes: -zi/a, -ni/e, dyi/re (e.g.: no-ha-ni ‘your house’); iii) non-possessable nouns, which may include natural elements.
+Finally, Paresi exhibits noun classifiers, which are documented in most of the Arawak languages. For example, the classifier hi ‘long, slender objects’ is cognate with the Arawak proto-form *aphi (Payne, 1991). A detailed understanding of Paresi classifiers is a goal of future research.
+There is some discussion about the syntax of Paresi in Rowan & Burgess (1979)
+15
+
+and Derbyshire (1986), as well as a manuscript about relative clauses by Brandão (2009c). Relative clauses are marked by the use of nominalized verbs. There are two relativization strategies, which result in externally and internally headed clauses. The relative clause is generally post head, as seen in (12).
+(12) no-kaoki-heta zoima [Justino moko-hene-re]Cl REL 1s-arrive-COMPL child Justino hit-IFV-NMLZ ‘I met the child who Justino hit’ (E. GK. 030709)
+Adverbial clauses, such as temporal, purpose, and causal clauses, are marked by subordinator markers. Further study is required to address syntactic aspects and this part of the grammar will be the main topic of my dissertation. In the next section I will present the verb classes and verbal morphology.
+16
+
+CHAPTER 3: VERB CLASSES
+
+3.1 General remarks about the verb class
+
+Verbs in Paresi, as a word class, can be distinguished from nouns on the basis of
+
+their respective morphological and syntactic properties. An example of a nominal
+
+morphological property is the plural marker –nae (13). Example (14) illustrates that the
+
+suffix –nae cannot occur with verbs.
+
+(13) atyaotseta-tyo n-awenakala-li-ye-re-nae atyo no-hinaehare-nae
+
+then-FOC
+
+1s-village-POSS-DEP-NMLZ-PL FOC 1s-relatives-PL
+
+‘Then all people in the village are my relatives’ (E. GK. 120609)
+
+(14) *atyaotseta-tyo n-awenakala-li-ye-re-nae ∅-waini-nae
+
+then- FOC
+
+1s-village-POSS-DEP-NMLZ 3-die-PL
+
+‘Then all people in the village died’ (E. GK. 120609)
+
+Much like nouns, verbs can take prefixes and suffixes, which attach to the verb stem. Most of the verb morphology consists of suffixes, with only a few prefixes (the subject pronominal markers and the negative marker). The pronominal markers are bound forms that inflect for person and indicate subject or possessor. There are three sets that differ according to phonological and semantic criteria. As shown in Tables 5, the markers assume different forms with consonant- or vowel-initial stems:
+
+17
+
+Table 5: sets 1 and 2 of verbal subject markers
+
+SUBJ
+1s 2s 3s 1p 2p 3p
+
+nohi∅wixi∅-…-ha
+
+set 1: consonant-initial roots SUBJ
+
+nemaka ‘sleep’ kaiwa ‘steal’
+
+no-temaka
+
+no-kaiwa 1s
+
+hi-tsemaka
+
+hi-kaiwa
+
+2s
+
+∅-nemaka
+
+∅-kaiwa
+
+3s
+
+wi-tsemaka xi-tsemaka
+
+wi-kaiwa 1p
+
+xi-kaiwa
+
+2p
+
+∅-nemaka-ha ∅-kaiwa -ha 3p
+
+set 2: vowel-initial roots
+
+olatya ‘tie’
+
+iya ‘hold’
+
+n-
+
+n-olatya
+
+n-iya
+
+h-
+
+h-olatya
+
+h-iya
+
+∅-
+
+∅-olatya
+
+∅-iya
+
+w-
+
+w-olatya
+
+x-
+
+x-olatya
+
+w-iya x-iya
+
+∅-…-ha ∅-olatya-ha ∅-iya-ha
+
+In set 1, the markers are attached to word forms that start with a consonant, while
+
+in set 2 the markers are attached to word forms starting with a vowel. In addition, there is
+
+another set of pronominal markers that may have its use determined by semantic
+
+differences (see Table 6).
+
+Table 6: set 3 of verbal subject markers
+
+SUBJ
+
+moka ‘put’
+
+tsema ‘hear’
+
+1
+
+na-
+
+na-moka
+
+na-tsema
+
+2
+
+ha-
+
+ha-moka
+
+ha-tsema
+
+3
+
+∅-
+
+∅-moka
+
+∅-tsema
+
+1
+
+wa-
+
+wa-moka
+
+wa-tsema
+
+2
+
+xa-
+
+xa-moka
+
+xa-tsema
+
+3
+
+∅-…-ha ∅-moka-ha
+
+∅-tsema-ha
+
+The semantic differences between sets 1 and 3 are important in order to define their distribution. In Table 7, we see that the set 1 markers occur in general with stative intransitive verbs denoting voluntary acts6 such as sleep, wake up, eat, and descriptive verbs (such as kolotya ‘be fat’).
+
+6 The exceptions are: the verb kaiwa ‘steal’ and tyoma ‘make’. 18
+
+Table 7: verbs in set 1 and in set 3
+
+no- (set 1)
+
+na- (set 3)
+
+xidyaka ‘vomit’
+
+kera ‘burn’
+
+kaotse ‘wake up’
+
+halaitso ‘jump’
+
+kaixihini ‘dream’
+
+tema ‘run’
+
+waini ‘die’
+
+mokotya ‘hit’
+
+zane ‘go’
+
+taika ‘break’
+
+nomaidya ‘be afraid’ kawitsa ‘shout out’
+
+On the other hand, verbs that take the prefixes in set 3 are in general active transitive, and are action-process verbs that involve an agent (such as burn, put, hit, sweep). It is possible to analyze the pronominal marker na- in set 3 to be formed by nplus an active morpheme –a, which attaches to the root of active verbs7 (all verbs in set 3 are active). The active morpheme occurs with stative/descriptive verbs only in causative constructions (see section 5.3 about causatives).
+The next sections describe the subcategories of verbs in Paresi. There are two basic groups of Paresi verbs: i) simple verbs; and ii) verbs with an incorporated classifier. The last group of verbs is not discussed here because more data are needed8. Here I present the group of simple verbs, within which we can distinguish four subgroups of verbs: 1) intransitive; 2) transitive; 3) directional; and 4) copula.
+
+7 The opposition of active vs stative verbs is also found in other Arawak languages. In Guajiro (Alvarez, 2004) the active verbs are marked by the prefix a-. 8 To date there is a small number of verbs with incorporated classifiers such as the verb taika ‘break’ with the classifier tse ‘CLF. thin. small’ as in taika-tse-koa-tya / break-CLF-INSIDE-TH ‘break in small pieces’. Ongoing field work is investigating this topic further.
+19
+
+3.2 Simple Verbs
+
+A verb can consist of a basic form as seen in (15a) and (15b), or a derived
+
+form as in (15c).
+
+(15) a. b.
+c.
+
+tera ‘drink’
+no-tera ‘I drink’ era-ti ‘beverage’ drink-UNPOSS
+
+In (15a) the verb form tera consists of a free root, and in (15b) the same verb
+
+takes the pronominal marker expressing the subject. In order to derive a noun from a verb
+
+root, the verb requires a nominalizer, such as the unpossessive marker –ti. Derived verbs
+
+can be derived from nouns as seen in (16), if the active prefix a- and the verbalizer -tya
+
+are attached to the noun root (16a) or if the attributive marker ka-9 is attached to it (16b).
+
+(16) a.
+b.
+
+derived form a-itxo-tya ‘ weed’ ACT-hoe-VBLZ ka-na-kaidya ‘eat’ ATTR-?-food
+
+Some verbs have bound roots that must occur with suffixes called thematic suffixes. 'Thematic suffix' is a term used in literature on the Arawak family to “gloss affixes which have little, if any, semantic content” (Wise, 1990, p. 90) but are required to complete the verb base. The selection of the appropriate thematic suffix depends on apparently arbitrary classes of roots. The thematic suffixes (-tya and -ka) are suffixes that attach to the verb root to form a base before they receive other suffixes such as the TAM
+9 The attributive marker is very common across Arawak languages to indicate “having an attribute, belonging to a class or possessing the noun” (Wise, 1990, p. 90).
+20
+
+suffixes (but they never appear with the suffix heta ‘completive’ or the particle hena ‘Imperfective’). The distribution of the suffixes appears to be related to the transitivity of the verb, but that is
+The suffix –ka is not frequent, and it appears in general with intransitive verbs as shown in (17) while –tya occurs mostly with transitive verbs.
+
+(17) -ka ha-ka ‘work’ nema-ka ‘sleep’ mala-ka ‘to pull off’
+
+-tya aiko-tya ‘cut’ moko-tya ‘hit’ aina-tya ‘raise’
+
+The basic structure of the Paresi verb is given in (18): (18) ATTR/NEG-SUBJ-ACT-ROOT-CLF.-DER.-CAUS- TH-INFL.
+
+Verbs can be classified according to their valency as transitive or intransitive. These verb categories will be described in the following subsections.
+
+3.2.1 Intransitive Verbs Intransitive verbs require one syntactic argument and they can be classified into two subclasses: standard intransitive verbs and descriptive verbs. These are considered distinct subclasses because each of them has its own properties. 3.2.1.1 Standard intransitive verbs In the example in (19), the intransitive verb tona ‘walk’ takes the pronominal marker na- (from set 3 above, which is specific to active intransitive verbs).
+21
+
+(19) na-tona kahare (intransitive verb) 1s-walk INTENS ‘I walked a lot’ (E. GK. 121808)
+The group of standard intransitive verbs includes not only verbs that require agent-like subjects like walk but also those that require patient-like subjects (waini ‘die’) and experiencer-like subjects (nemaka ‘sleep’). However, semantically these are a different kind of verb which take a different set of pronominal markers as discussed in section 4.1.
+3.2.1.2 Descriptive verbs Semantically, descriptive verbs are different from standard intransitive verbs because they refer to properties of the following types: color, age, and dimension. In some languages these descriptive words belong to the adjective class. In Paresi, the adjective class can be considered to be a very small closed class with four true adjectives (Brandão, 2009d). There are at least five adjectives which are judged to be historically derived adjectives because the nominalizers –re and –ne are a frozen component of these words (that is, they are not productive suffixes with these words, such as in kidyane ‘small’). Other words referring to properties are descriptive verbs, as seen in example (20). In contrast to adjectives, which are unmarked in the modification function, descriptive verbs only occur as predicates (20), and when they function as modifiers, they must take nominalizers (21).
+22
+
+(20) no-nidyi heta 1s-be.thin COMPL
+‘I will be thin’ (E. GZ. 101009)
+(21) Kezo jaka kotyoi nidye-re Kezo shoot tapir be.thin-NMLZ
+‘Kezo shot the thin tapir’ (E. GK. 121808)
+
+In Table 8, we see that nouns can be derived from descriptive verbs by the morphemes –ne or -re10 (which are used as nominalizers on other kinds of verbs as well).
+
+Property
+
+Table 8ː Deriving nouns from descriptive verbs
+
+Noun
+
+Gloss
+
+DIMENSION
+
+nidya-re
+
+‘thin one’
+
+AGE COLOR
+
+ohiye-ne kiya-re> kiyere
+
+‘old one’ ‘black one’
+
+Like other verbs and adjectives, descriptive verbs take tense/aspect markers, as seen
+
+in (20). However, descriptive verbs cannot be considered a subclass of adjectives because
+
+they are morphologically marked when they serve a modifying function. They are
+
+considered verbs because in the unmarked form they occur only as predicates. However,
+
+they form a subclass of verbs that have their own properties. In my corpus, descriptive
+
+verbs appear only in periphrastic causative constructions with the verb moka ‘put’ as in
+
+(22). They cannot take the causative suffix –ki ‘CAUS’ in causative constructions (see
+
+example 23) like other verbs and nouns. In addition, differently from other verbs, they
+
+modify nouns by taking the nominalizers –re or –ne.
+
+(22) na-kaidya-ti no-koloti moka 1s-food-UNPOSS 1s-be.fat put
+‘The food made me fat’ (E. GZ. 101009)
+
+10 The suffix –re occurs after the vowel a and the suffix –ne occurs after e. 23
+
+(23) *na-kaidya-ti no-koloti-ni-ki-tsa 1s-food-UNPOSS 1s-be.fat-POSSED-CAUS-TH
+‘The food made me fat’ (E. GZ. 101009)
+3.2.2 Transitive Verbs Transitive verbs require two syntactic arguments. As such, they differ from intransitive verbs with respect to pronominal marking in that they can take the –ene object pronominal marker in the third person (there are no object pronominal markers in the other persons; independent pronouns are used instead). (24) ∅-moko-tya-h-ita-ha natyo (transitive verb)
+3-hit-TH-PL-PROG-PL 1s ‘They are hitting me’ (E. LK. 070108) (25) ha-moko-t-ene
+2s-hit-TH-3s ‘Hit him!’ (E. GK. 070108)
+There are cases in which the object argument does not need to be overtly expressed in the sentence when it is already established in the discourse, as in (26), when the characters in the story were talking about cutting a bamboo tree (mentioned previously in the text). This may obscure the distinction between transitive and ambitransitive verbs (verbs which can freely take one or two arguments).
+(26) ∅-zane ala ∅-idiko-tya-ha 3-go FOC 3-cut-TH-PL ‘He went, and they cut it’ (T. J. 080309)
+24
+
+There are also clearly ambitransitive verbs in Paresi, such as the verb nitsa ‘eat’ in (27) and (28).
+(27) maiha na-nitx-ita NEG 1s-eat-PROG ‘I did not eat’ (E. GK. 121808)
+(28) nidye-re-nae nitx-ita kohatse be.thin-NMLZ-PL eat-PROG fish ‘The thin ones are eating the fish’ (E. GK. 121808)
+There are also extended transitive constructions. In most cases, a third peripheral argument is expressed by an oblique marker, as in (29):
+(29) kozaka n-itsa zaimani-txi h-om-ana already 1s-give gift-UNPOSS 2s-?-POSP
+‘I have already given you a gift’ (E. GK. 121808)
+Verbs in general require valency-adjusting morphology if they need to change their transitivity in order to take or omit core arguments in a clause. These valencechanging mechanisms will be discussed in section 5.
+3.2.3 Directional verb constructions Verbs of motion, such as zane ‘go’ and tyoa ‘come’, can occur with other activity verbs to mark the direction away from (30) or towards the speaker or protagonist (31). A similar use of motion verbs is found in the directional serial verb constructions in Tariana (Aikhenvald, 2003). In example (30), the sequence of verbs is not marked by subordination or syntactic dependency, there is one single marker for aspect and they share subjects, which are some of the characteristics of serial verb constructions (SVC)
+25
+
+according to Aikhenvald (2006). This evidence suggests that there are SVCs in Paresi,
+
+but there are few examples of these constructions in my corpus.
+
+(30) ∅-zane ∅-tyoke-hete ∅-tiya-halo-hete hena 3s-go 3s-sit-COMPL 3s-cry-F-COMPL IFV
+
+‘She went to sit and started to cry’ (T. F. 071609)
+
+(31) kore-natse
+
+∅-itsa hoka tyoa hikoa-hitiya toli zaore atyo
+
+arrow-CLF.thin.long 3s-give PART come go.out-REP INTENS FRUST FOC
+
+hoka xaka=te hena-h-ene
+
+PART shoot=FUT IFV-PL-OBJ
+
+‘He gave the gun (to them, the Nambikwara people), then they arrived again and
+
+they shot (instead of using arrows)’ (T. JT. 080208)
+
+In some contexts, the verb zane is used in the future, as shown in (32), but
+motion is its primary reading (the speaker is actually going to the river to bathe). The
+verb zane (or its allomorph yane) is more common in imperative speech, as in (33).
+(32) No-zane na-koah-itsa 1s-go 1s-bathe-? ‘I am going to bathe’ (T. GK. 061109)
+(33) hi-yane h-aitxo-tya 2s-go 2s-hoe-VBLZ ‘Go hoe!’ (E. JK. 062408)
+
+3.2.4 Copula verb tyaona ‘be, live’ The basic meaning of the verb tyaona is ‘live’. It occurs as an intransitive verb, as shown in (34): (34) baba koteroko nali tyaona wi-kakoa
+father Kokotero LOC live 1p-POSP ‘My father lived in the Kokotero village with us’ (T. JA. 070308)
+26
+
+The verb also can join two nominal elements in a clause with a nominal predicate.
+
+It can carry TAM information and the subject pronominal prefixes in its function as a
+
+copula verb (Payne, 1997). In example (35), there is a nominal predicate and the verb
+
+tyaona joins the subject marked with the pronominal prefix no- and the noun inityohaliti.
+
+(35) kalini owene inityohali-ti
+
+no-tyaona
+
+now here old.person-UNPOSS 1s-be
+
+‘Now, I am getting old here’ (T. JA. 070308)
+
+27
+
+CHAPTER 4: VALENCY CHANGING AND ARGUMENT REARRANGING MECHANISMS
+4.1 General remarks In predicate constructions, the number of core arguments may be reduced or
+increased by verbal derivations. Prototypically across languages, passive and antipassive derivations are applied to transitive verbs in order to derive an intransitive verb, or are applied to ditransitives to derive transitive verbs, while causative and applicative derivations are applied to intransitive verbs to derive transitive verbs (Dixon and Aikhenvald, 2000), and to transitive verbs to derive ditransitives. In Paresi, the following mechanisms are used to decrease transitivity: passivizing morphology, reflexivization processes, reciprocal constructions, and an intransitivizing suffix. For increasing transitivity, there are lexical causatives, two causative morphemes and one periphrastic construction.
+4.2 Decreasing transitivity 4.2.1 Passive In passive constructions, Paresi exhibits the attributive prefix ka- (in affirmative clauses) or the negative ma- (in negative clauses), and the passive suffix –ka or –ki (for the 1st person subject). Passive derivation of transitive verbs has the following properties in Paresi: a) the underlying O becomes S of the passive;
+28
+
+b) the underlying A is demoted to the periphery and is usually omitted (agentless
+passive).11
+(36) oka atyaotseta=ene atyo Katxiniti-hare ka-kolatya-ka hoka meho PART PART=ANT FOC Kaxiniti-M ATTR-take-PASS PART exterminate
+‘Then, the Kaxiniti were taken from there and exterminated’ (T. JT. 063009)
+
+4.2.2 Intransitivizer –oa and anticausative constructions
+
+The intransitivizer –oa attaches to transitive verbs making them intransitives, as
+
+shown in (37).
+
+(37) a. etolitsa ‘lay down (tr) b. xihotya ‘close (tr)’
+c. komaniyatya ‘harm (tr)’
+
+etolits-oa ‘lay down (intr)’ xihoty-oa ‘close (intr)
+komaniyaty-oa ‘harm (intr)’
+
+In most of the cases with the intransitivizer –oa, as in examples (37a-b) and (39),
+there is no causing agent and the event is spontaneous. These are called anticausative or
+inchoative constructions.
+(38) ∅1-taika en2-aiko-li (transitive) 3s-break 3s-tooth-POSSED ‘He broke someone’s tooth (Rowan, 1978, p. 66)
+(39) E-kano taik-oa (intransitive) 3s-arm break-INTR
+‘His arm broke’ (Rowan, 1978, p. 66)
+
+On the other hand, there are cases where the same morpheme is used as a
+reflexive (which is similar to anticausatives because there is no external agent involved)
+11 Only in elicitation it is possible to find sentences where the passive exhibits the agent in a focus position before the subject, as for example in: ma-haliti-hare katxiniti-hare ka-kolatya-ka NEG-Indian-NMLZ Kaxiniti-PERS ATTR- take-PASS ‘The Kaxiniti were taken by the non-Indian’.
+29
+
+as in (37c) repeated here in example (40):
+(40) Nikare tyaona hoka komaniya-ty-oa PART COP SUBORD harm-TH-INTR ‘In this way, he is harming himself’ (Rowan, 1978: 51)
+4. 2.3 Reflexive -wi In reflexive constructions, by definition, the subject and the object are the same
+entity (Payne, 1997). In Paresi, reflexivization usually occurs when the reflexive suffix –
+wi replaces the object of a transitive verb. The verb becomes intransitive and appears with the intransitivizer –oa (which can be used as a reflexive by itself as seen above12). In
+(41) the reflexive suffix -wi is attached to the verb aiko ‘cut’.
+(41) ∅-aiko-ty-oa-wi 3s-cut-TH-INTR-REF ‘He cut himself’ (Rowan, 1978, p. 36)
+4.2.4 Reciprocal
+In a reciprocal clause, by definition, each participant is both agent and patient
+(Payne, 1997). In some languages, reciprocals and reflexives are marked similarly, but in Paresi they are marked differently; the reciprocals are formed with the suffix –kakoa13. The reciprocal can normally only occur with plural subjects14, as seen in (42); however, it
+can also occur with singular persons when the reciprocal suffix is semi-lexicalized
+together with the verb stem, as in (43).
+12 In future work will be necessary to investigate which types of verbs can take –wi as a reflexive and which ones can take only the intransitivizer –oa. 13 The suffix may contain the intransitivizer –oa but there is no clear meaning for the remaining form kak-. 14 There is no restriction as to whether the subject is inanimate or animate. One example with an inanimate subject is: kanawa moko-zo-tya-kakoa canoe hit-?-TH-RECP ‘The canoes hit against each other’.
+30
+
+(42) haliti
+
+atyo maeha waeye-kakoa-re
+
+Paresi.people FOC NEG be.good-RECP-NMLZ
+
+‘The Paresi people are not good with each other’ (T. JG. 061609)
+
+(43) hatyaotseta eye aetsa-kakoa hena toli
+
+then
+
+PART kill-RECP IFV INTENS
+
+‘Then they started to fight a lot (lit. ‘killing each other’)’ (T. JT. 080208)
+
+The same morpheme -kakoa can also have functions other than decreasing valency of transitive verbs. The reciprocal has the same form as the instrumental/comitative suffix –kakoa, as shown in (44), where the first suffix –kakoa is semi-lexicalized together with the verb stem ihola and in the second form is a postposition: e-kakoa ‘with her’.15
+(44) w-ihola-kakoa e-kakoa 1s-be.angry-RECP 3s-POSP
+‘I fought with her’ (E. GK. 112009)
+
+The suffix -kakoa can occur with transitive or intransitive verbs. There are few
+examples with intransitive verbs, where the semantics is of interactive activity (see
+example 45). In this case, the suffix is not decreasing valency.
+(45) ∅-tema-kakoa-ha 3-run-RECP-PL
+‘They ran after one another’ (E. GK. 112009)
+
+15 According to Payne (2002), in some Arawak languages the reciprocal historically developed into a sociative sense, and in the case of Asheninka (in which sociative means complete cotemporality and physical contact), into a recent causative sense.
+31
+
+4.3 Increasing transitivity: Causatives There are syntactic and semantic criteria for recognizing causative constructions in a given language. My analysis is based on Dixon (2000: 33), Shibatani and Pardeshi (2002), and Guillaume and Rose (forthcoming). According to Dixon (2000: 33), in formal typology causatives are classified as follows: lexical or synthetic, morphological, syntactic or periphrastic, and causative serial verb constructions. Shibatani and Pardeshi (2002), and Guillaume and Rose (forthcoming), argue for analyzing causatives based on the semantic map framework, in which there are three categories: direct, sociative and indirect causatives.
+In Paresi there are lexical causatives and two causative morphemes: the causative –tya, and the suffix –ki (and its variant e16). There are also periphrastic causative constructions with the verb moka ‘put’.
+4.3.1. Lexical causatives There are more morphological causatives than lexical causatives. Considering the definition of lexical causative in Shibatani and Pardeshi (2002), there is the lexical causative verb ehoka ‘shatter (break in many pieces)’ which is a primary intransitive as in (46), but it can also be used as a transitive as in (47).
+(46) kobo ehoka (inchoative) glass shatter
+‘The glass shattered’ (E. GZ. 041010)
+16 Some speakers use the –e as an allomorph of –ki in free variation, others speakers only use -ki. 32
+
+(47) Geni kobo ehoka (causative) Geni glass shatter
+‘Geni shattered the glass’ (E. GZ. 041010)
+Considering also the definition of lexical causatives by Dixon (2000), there are pairs of different lexemes that are in a causative relation such waini ‘die’ and aitsa ‘kill’17, meta ‘lose (tr)’ and hehana ‘get lost (intr)’.
+
+4.3.2. Morphological causatives The morphological causatives can be formed by the use of the active prefix a- (or
+its variant e-) and the causative suffix –tya, or by the use of the causative suffix –ki or –e.
+
+4.3.2.1 The uses of the causative -tya Adjectives and most of the intransitive verbs expressing a state or change of state such as descriptive verbs and statives take the causative -tya and the active prefix a- (or its allomorph e) in Table 1.
+
+Table 9: Verbs causativized with the morphemes -tya
+
+verb root
+
+causative form
+
+zotya ‘be.red (intr)’
+
+a-zotya-tya ‘make red (tr)’
+
+kiya ‘be.black (intr)’
+
+a-kiya-tya ‘make black (tr)’
+
+maza ‘be.weak (intr)’
+
+e-maza-tya ‘make.weak (tr)’
+
+fidya ‘be.clean (intr)’
+
+a-fidya-tya ‘clean (tr)’
+
+waekehalaka ‘understand (intr)’
+
+a-waekehalaka-tya ‘explain (tr)’
+
+kalore ‘big (adj)’
+
+a-erore-tya ‘make big’
+
+The causer takes the subject function while the causee takes the object function as in (48), where the original subject is demoted to the object position and the causer Aezo is
+
+17 Diachronically, it is possible that the verbs could have been analyzed morphologically as having a same root ai. However, the morphemes that comprise the verbs are not transparent any more.
+33
+
+in the A function.
+
+(48) Aezo a-zotya-tya
+
+no-tiho (descriptive verb)
+
+Aezo ACT-be.red-CAUS 1s-face
+
+‘Aezo made my face red (by painting it with achiote)’ (E. GK. 041310)
+
+(49) professor a-waekehalaka-tya
+
+metaharetere-hare aluno ana (stative)
+
+teacher ACT-understand-CAUS problem-NMLZ student POSP
+
+‘The teacher made the student understand the problem’ (E. GK. 041310)
+
+In most of the cases with the causative -tya, it is also important to mention that the causee is not a volitional entity or is more patient-like and the situations involve physical manipulation of the causee, which is considered semantically as direct causation.
+The suffix –tya18 is used as a verbalizer in other contexts to derive a verb from a noun as in a-yo-tya ‘weeding’ (50a); it can also occur as a transitivizer as in kera-tya ‘burn something’ (50b).
+(50) -tya a. a-yo-tya ‘weeding’
+ACT-hoe-VBLZ b. kera ‘burn’ / kera-tya burn-TRAN ‘burn something’
+4.3.2.2 The causative suffix –ki The causative suffix -tya is a regular causative which occurs with intransitive verbs while the combination of the active prefix a- plus the causative suffix –ki occurs with all kind of verbs.
+
+18 The suffix –tya is widespread among Arawak and among other Amazonian languages with the following functions: causative, transitivizer, and/or verbalizer. I assume that this suffix has a polifunctionality as Rose (2010) describes for the suffix –cho in Trinitario.
+34
+
+Table 10: Verbs causativized by the morpheme –ki
+
+verb root
+
+causative form
+
+koeza ‘laugh (intr)’
+
+a-koeza-ki-tsa ‘make laugh’
+
+tekoa ‘run away (intr)’
+
+a-ekoa-ki-tsa frighten away (tr)
+
+zane ‘go (intr)’
+
+a-zani-ki-tsa ‘make go away’
+
+tehoka ‘smoke (tr)’
+
+a-tehoka-ki-tsa ‘make smoke’
+
+kanakaidya ‘eat (amb)’
+
+a-kanakaidya-ki-tsa ‘make eat’
+
+waiya ‘see (tr)’
+
+a-waiya-ki-tsa ‘make see’
+
+(51) imoti
+
+a-haka-ki-tsa
+
+haliti-nae
+
+non-Indian ACT-work-CAUS-TH Indian-PL
+
+‘The non-Indian made the Indians work’ (E. GK. 041310)
+
+With transitive verbs, as seen in (52), the causer hitso takes the subject function,
+the causee (original subject) natyo is in the object function, and the original object zomo
+moves out to a peripheral function marked by the postposition kakoa. The causative
+suffix –ki can also occur with descriptive verbs.
+(52) hitso h-a-kanakaidya-ki-tsa natyo zomo kakoa 2s 2s-ACT-eat-CAUS-TH 1s flat.bread POSP ‘You made me eat flat bread’ (E. GK. 041310)
+
+In addition, semantically, the use of the suffix –ki (and its variant -e) is related to an indirect or sociative type of causation. The causative –ki is not a special sociative causative as described by Guillaume and Rose (forthcoming); it is possible to analyze this case as an extension of the meaning of the regular causative –ki to sociative causation. For example, in (53), the causee does not participate in the action and in (54) there are two possible readings: the sociative and the indirect causation meanings, which can be disambiguated by context.
+
+35
+
+(53) fofinho neye-nae a-zani-ki-ts-ene
+
+cidade zeta (indirect causation)
+
+Fofinho parent-PL ACT-go-CAUS-TH-OBJ city POSP
+
+‘Fofinho’s parents made him go to the city’ (E. GZ. 041010)
+
+(54) a-imiahutyo-ki-tsa ha-itsani (assistive) ACT-cross-CAUS-TH 3s-son
+
+‘He made his son cross the path’ (by helping him) (E. GZ. 041010)
+
+4.3.3 Periphrastic causative
+
+Periphrastic causatives are formed via the causative verb moka ‘put’. The causee
+
+maintains its original function as subject in the subordinate clause. The causative verb
+
+moka can be used with descriptive verbs as in (55).
+
+(55) na-kaidya-ti
+
+no-koloti moka (descriptive verb)
+
+1s-food-UNPOSS 1s-be.fat put
+
+‘The food made me fat’ (E. GZ. 100509)
+
+When the verb in the subordinate clause is a regular intransitive, ambitransitive,
+
+or transitive (except by the verb sleep), there is a purposive marker.
+
+(56) ena moka kidyakahare-nae one tera maheta
+
+man put animal-PL
+
+water drink PURP
+
+‘The man made the animals drink water’ (E. GK. 041310)
+
+According to Haiman (1983) there is a correlation between formal distance and conceptual distance, meaning that more compact mechanisms (morphological and lexical causatives) are related to semantic parameters such as directly rather than indirectly, natural rather than with effort, intentionally rather than accidentally. In the case of Paresi, the lexical causative is associated with direct causation; there are two morphological mechanisms, one associated with direct causation and the other with manipulative and
+36
+
+sociative causation, and the periphrastic causative mechanism is associated with indirect and sociative causation, as seen in Figure 1.
+
+lexical causative and suffix tya-
+
+morphemes -ki and moka
+
+DIRECT
+
+JOINT-ACTION ASSISTIVE
+
+SUPERVISION INDIRECT
+
+Figure 1: Distribution of the causative forms in Paresi over the sociative domain
+
+37
+
+CHAPTER 5: TENSE, ASPECT, AND MODALITY
+5.1 General remarks Tense and aspect can be considered to be deictic categories because both designate situations in time relative to some shifting point of reference such as the moment of speech (Timberlake, 2007: 315). According to Smith (1997), they are “complementary temporal systems” (p. 97). The difference is that tense locates a situation in time (with regard to the here-and-now of speech) while aspect refers to the internal temporal structure of the situation, such as progress or change, results or liminality (Smith, 1997; Timberlake, 2007). In Paresi, the aspect category plays a larger grammatical role than does tense because it is possible to mark the tense distinction of past or present only via lexical items that are adverbs.
+5.2 Tense Tense is defined as the “grammaticalized expression of localization in time” (Comrie, 1976). Smith (2007) classifies languages typologically into three groups according to their encoding of time: tensed languages, tenseless languages, and mixedtemporal languages. In tensed languages morphemes expressing time are obligatory, but in a mixed-temporal language such as in Paresi, they are not obligatory. There is only one tense morpheme and it is used to indicate future. Future can refer to a non-immediate or immediate future, and it is marked with the clitic ite (in fast
+38
+
+speech reduced to te). In (57) the sentence (extracted from a narrative) is uttered in a
+
+context in which the speaker is referring to an immediate future. In (58) the te in the
+
+narrative refers to a reference point located after the event time (which does not coincide
+
+with the speech time).
+
+(57) Makani-ya-na=ite
+
+ali ma-haliti-hare tyoa hena idyae-tsa-ka-tya
+
+tomorrow-IRR-POSP=FUT here NEG-indian-NEG come IFV talk-? -?-TH
+
+maheta
+
+PURP
+
+‘Next week, the non-Indian will come to talk’ (T. N. 071109)
+
+(58) Hatyaotseta-la ∅-txiye-hena-hitiya-ha, makani=te then-FOC 3-pass-IFV-REP-PL tomorrow=FUT
+
+‘Then, they passed again, “tomorrow (we will arrive)”’ (T. JT. 080208)
+
+However, the clitic ite is not syntactically obligatory in a sentence in order to
+
+provide future temporal information. In the example in (59), the aspectual particle hena
+
+'imperfective' is indicating that the action has not yet happened.
+
+(59) tyo-hena hoka waiyo-reha aotya-i-tsa-ha
+
+wi-yoimya-la-nae
+
+come-IFV SUBORD know-NMLZ-PL remember-CAUS-TH-PL 1p-child-POSSED-PL
+
+maheta
+
+PURP
+
+‘They will come to study and to teach our children’ (T. N. 071109)
+
+In Paresi, present and past time can be specified with the use of adverbs. In (60), the sentence does not exhibit a tense morpheme, even though the event was located in a remote past, but the adverb tohiya ‘formerly’ specifies the time.
+
+39
+
+(60) Tohiya
+
+atyo kalore ∅-tyome-tya-ha mene-h-ita-tyo (past)
+
+In.the.old days FOC INTENS 3-make-TH-PL always-PL-PROG-FOC
+
+‘In the old days, they were always making a lot of it (the beverage)’ (T. I.
+
+071508)
+
+5.3 Aspect
+
+Aspect can be described as “reference to the internal structure of a situation”
+
+(Comrie, 1976: 6). Aspects in Paresi are of four types: perfective, imperfective,
+
+progressive and completive. There may be a repetitive aspect marker which will not be
+
+described here because its occurrence is still being investigated.
+
+5.3.1 Perfective
+
+Perfective aspect refers to the boundaries of a situation (Timberlake, 2007).
+
+Perfectivity may imply that there was a prior situation (in which the activity was not
+
+talking place) which led to a change or transition and resulted in a situation where change
+
+can no longer be applied. In Paresi this aspect is unmarked. In (60) above, repeated here
+
+as (61), the sentence is part of a text where the narrator describes the steps of making a
+
+traditional beer (“chicha”) and here the perfective aspect is used to indicate that the event
+
+is bounded temporally.
+
+(61) Tohiya
+
+atyo kalore ∅-tyome-tya-ha mene-h-ita-tyo
+
+In.the.old.days FOC INTENS 3-make-TH-PL always-PL-PROG-FOC
+
+‘In the old days, they were always making a lot of it (the beverage)’ (T. I.
+
+071508)
+
+In Derbyshire (1986), the thematic suffixes -tya and -ka are considered to be habitual aspect forms in Paresi. However, there are some examples where these
+40
+
+morphemes occur in one-time events with no habitual reading, such as in (62): (62) ∅-ezoa-txo hoka ∅-idiko-tya ∅-ikiliho-li 3s-fall-AFF SUBORD 3s-cut-TH 3s-nose-POSSED ‘It fell and then it cut his nose’ (T. J. 080309)
+5.3.2 Imperfective According to Smith “imperfective viewpoints present part of a situation” (1997: 73). Comrie (1976) considers progressive as a subcategory of imperfective aspect, and Timberlake (2007) observes that “there is no sharp boundary between these categories” (p. 24). Rowan (1969) states that the particle hena in Paresi is a progressive marker. However, I consider this particle to be an imperfective marker because the particle also marks the incompletion of actions differently from the progressive marker –ita. It could have been the case that Rowan did not notice the wider imperfective functions of the particle. Another possibility is that diachronically the particle was a progressive marker which developed into an imperfective marker. Because there is little evidence for the argument of historical development, I propose that the particle hena has multiple functions. Progressive, as will be discussed further in section 6.3.3, is an aspect that refers to a process going on at the contextual occasion, the here-and-now of the speech moment (Timberlake, 2007: 287). It can occur with: a) stative predicates giving a sense of temporariness and contingency, b) with a liminal state indicating that the action is imminent, or c) with a liminal process meaning that the action might be disrupted. The particle hena in Paresi can occur in the context presented in c), as seen in example (63):
+41
+
+(63) avião kaoke-hena airplane arrive-IFV
+‘The airplane is arriving’ (Rowan, 1978: ix)
+
+In texts, the particle can be used in the description of a sequence of events,
+
+providing a background frame to other predicates that report significant change in the
+
+world, a typical characteristic of the progressive according to Timberlake (2007), as
+
+shown in (64) where hena occurs twice.
+
+(64) Hoka hatyaotseta-la tawe-hena-h-ite-hena-la
+
+katxolo-tse-hi-txo-la
+
+PART PART-FOC look.for-IFV-PL-FUT-IFV-FOC dog-CLF.small-CLF.round-FOC
+
+ha-tsedi balazoko-ako toloko-tya aetsoetsa
+
+3s-head bottle-inside stick.into-TH put.inside
+
+‘They were looking for the frog, when the dog’s head was stuck into the bottle’ (T.
+
+GK. 072908)
+
+Furthermore, the particle hena is used to indicate an incomplete activity. In these
+cases, when the progressive reports incompletion, Timberlake (2007) argues that it is
+more appropriate to call it imperfective. In (65), hena is used to refer to an action in the
+future19.
+(65) mahalitihare tyoa hena hoka ∅-waiyore-ha aotyaitsa-ha wi-yoima-la-nae non-indian come IFV PART 3s-know-PL teach-PL 1p-children-POSSED-PL maheta PURP ‘The non-Indian will come to study and teach our children’ (T. N. 071109)
+
+19 The progressive interpretation ‘the non-Indian is coming’ is not possible. 42
+
+The imperfective marks the beginning of a state expressed by the stative
+
+predicate, as seen in (66) or of a process (inchoative), as in (67).
+
+(66) n-ihala-hare
+
+hena
+
+1s-be.happy-NMLZ IFV
+
+‘I am getting happy’ (E. GZ. 071608)
+
+(67) makani=te na-malaka hena kete tomorrow=FUT 1s-pull off IFV manioc ‘Tomorrow I am going to start to pull off manioc’ (E. GZ. 071608)
+In example (68), the particle also has a spatial meaning similar to the particle heta
+‘completive’, but the former indicates motion from an origin point to some salient point. I
+have chosen to gloss hena as an ‘imperfective’ because in the data this is the primary use
+of the particle. It is possible that the temporal/aspect meaning comes from the spatial in
+the use of hena in which the temporal meaning is more relevant.
+(68) Kala-tyo ferakoa kaotse atyo waiye hena kali then-FOC morning got.up FOC watch IFV frog
+‘When they got up, they went to look for the frog’ (T. GK. 072908)
+
+Even though the completive suffix –heta (or its allomorph hete20) and the
+imperfective particle hena have opposite temporal/spatial senses, they can be combined
+producing the inchoative meaning, as seen in (69):
+(69) ∅-zane, ∅-tyoke-hete ∅-tiya-halo-hete-hena 3s-go 3s-sit-COMPL 3s-cry-FEM-COMPL-IFV
+‘She went, she sat and she started crying’ (T. F. 071609)
+
+20 The allomorph hete occurs because of vowel harmony when the next morpheme has a syllable with the vowel /e/.
+43
+
+5.3.3 Progressive -ita Progressiveness can be considered similar to a continuous event (Comrie, 1976), indicating that a process is going on at the contextual occasion (Timberlake, 2007). In the previous section, the particle hena was analyzed as an imperfective, and it is not uncommon for a language that already uses an imperfective to have non-liminal activities use a progressive to emphasize an action occurring at the moment of speech (Timberlake, 2007). In Paresi, the progressive is expressed by the suffix –ita, as seen in (70). (70) Dirizonae ha-katxolo-za kakoa ∅-nema-k-ita ha-kama-za-koa
+Dirizonae 3s-dog-POSSED POSP 3s-sleep-TH-PROG 3s-bed-POSSED-LOC ‘Dirizonae is sleeping with his dog in his bed’ (T. GK. 072908)
+In example (71), the marker hena is used instead and the meaning is not of progressive but an imperfective meaning.
+(71) Dirizonae ha-katxolo-za kakoa ∅-nema hena ha-kama-za-koa Dirizonae 3s-dog-POSSED POSP 3s-sleep IFV 3s-bed-POSSED-LOC ‘Dirizonae is going to sleep with his dog in his bed’ (E. GK. 012009)
+It is not possible to combine the progressive marker –ita with the completive suffix –heta or the imperfective particle hena.
+(72) *Dirizonae ha-katxolo-za kakoa ∅-nema-k-ita hena ha-kamazaDirizonae 3s-dog-POSSED POSP 3s-sleep-TH-PROG IFV 3s-bed-POSSEDkoa LOC
+..........‘Dirizonae is going to be sleeping with his dog in his bed’ (E. GK. 012009)
+44
+
+5.3.4 Completive –heta
+
+In Paresi, the suffix –heta can mark completed actions as in (73), used in
+
+Accomplishment or Achievement situations. Rowan (1969) considered heta a completive
+
+marker. However, as seen in (74), the particle heta has not only an aspectual meaning but also a spatial meaning21 (compare the regressive morpheme –ah reported for Nanti,
+
+Michael, 2008). Rowan (1969) has already pointed out this characteristic of the suffix –
+
+heta. The spatial meaning indicates a motion from some point to a point of origin.
+
+However, more investigation is needed to address the question about the primary
+
+meaning of this morpheme, whether it is the spatial or temporal. I called this morpheme
+
+‘completive’ in order to account for the cases where it does not imply a spatial meaning.
+
+In (73), the interpretation can be that the frog went to its original location, and this
+
+explains why the suffix –heta is used.
+
+(73) maka eye ∅-nema-ka-ha-la hoka e-kali-ya-ha-la
+
+tekoa-heta e-
+
+night then 3-sleep-TH-PL-FOC SUBORD 3-frog-POSSED-PL-FOC go.away-COMPL 3-
+
+nema kali-natse
+
+sleep frog-CLF.long
+
+‘When it was night, they slept, and their frog went away while they were sleeping’ (T.
+
+GK. 072908)
+
+(74) kala matsene-koa PART field-LOC koidyatse-tya peel-TH
+
+wi-yane wa-mala-ka kete-tse
+
+wi-kaoke-heta wa-
+
+1p-go 1p-pull off-TH manioc-CLF.thin 1p-arrive-COMPL 1p-
+
+‘When we go to the field, we pull off manioc, then we go home and peel it’ (T. I.
+
+071508)
+
+21 The serial verb construction with the verbs of motion zane ‘go’ and tyoa ‘come’ have similar directional meanings, but they are less common than the uses of heta ‘regressive’ and hena ‘imperfective (indicating ‘direction away from’)’.
+45
+
+5.3.5 Anterior ene
+
+There is a clitic that indicates a situation that preceded another situation in the
+
+past (past-in-the-past), the clitic ene or ne (75), which is not widely attested in discourse.
+
+The clitic can attach to verbs and adverbs, and usually it occurs in second position.
+
+Rowan (1969: 15), describing the Paresi variety spoken in the Nova Esperança village,
+
+considered this clitic to be an adverb22 (76), concluding that Paresi is not a tensed
+
+language.
+
+(75) Tohiya =ene atyo [abebe hatya] Iyokezalo hoka hatyo hitiya aina-tya formerly =ANT FOC grandmother 3s Iyokezalo PART 3s REP raise-TH natyo 1s
+
+‘In the old days, my grandmother was Iyokezalo and she raised me’ (T. T.
+
+072209)
+
+(76) Ka-kore-ze-kidya
+
+kore-natse
+
+tyaona=ene wi-wanahiya-ka
+
+ATTR-arrow-CLF-EMPH arrow-CLF.thin.long be=ANT 1p- threat-PASS
+
+‘The gun was loaded to shoot us’ (Rowan, 1969, p. 103)
+
+In example (75), the clitic ene is used to indicate that the action occurred at a time prior to the situation when the speaker moved to another village and got married. In (77), it is clear that ene indicates that an action occurred before the situation of the people’s reaching the edge of the mountain. Therefore, it is possible to consider ene is to be an anterior aspect23 rather than a tense marker for the past.
+
+22 However, words considered to be adverbs in Paresi by Rowan can take aspectual markers, and the clitic
+ene cannot. This is why the ene is analyzed here as a temporal clitic. 23 Future work is needed to investigate whether ene occurs in expressions with a future reference.
+46
+
+(77) Tem-ita=ene ala tyaedi-kili-hi-tse
+
+ala hikoa hoka
+
+run-PROG=ANT FOC mountain-nose-CLF.round-CLF.thin FOC come.out PART
+
+‘They had been running until they reached the edge of the mountain’ (T. GK.
+
+072908)
+
+According to Timberlake (2007), in some cases it is difficult to determine
+
+whether a system is more a system of tense or of aspect. In Paresi, for example, certain
+
+aspects imply certain temporal location in some contexts, the progressive can imply the
+
+present, the perfective can imply the past and the imperfective can imply the future.
+
+However, these are only default interpretations and in contexts such as in example (77),
+
+we see that the progressive can also be used in the past.
+
+5.4 Modality Modality is defined as the consideration of alternative realities mediated by an authority (Timberlake, 2007). When modality is crystallized as morphology, it can be called mood, i.e., it is a grammatical “category expressed in the verbal morphology” (Palmer, 1986: 21). However, here the term “modality” is used to refer to the typological category in general. Paresi distinguishes 5 modalities: imperative, frustrative, apprehensive, epistemic, and conditional.
+
+5.4.1 Imperative 5.4.1.1 Unmarked Imperative The imperative clause type is used to express a direct order. Positive imperatives
+47
+
+have no special morphological marker in Paresi, but they are marked prosodically by a
+rapidly descending pitch. The imperatives can occur with person-marking prefixes (the
+second person singular hi- or plural xi-), with the imperfective particle hena, as seen in
+example (78), or with the motion verb zane/yane ‘go’, as shown in (79).
+(78) notxiete-nae xi-kaotse hena grandchild-PL 2p-get.up IFV ‘My grandchildren, get up!’ (T. JT. 063009)
+(79) Hi-yane h-aitxo-tya 2s-go 2s-hoe-VBLZ ‘Go hoe!’ (E. E. 062108)
+
+There is one case where a suppletive form can be found: the form zama ‘give
+
+(imperative) of itsa ‘give’ (non-imperative), as in (80):
+
+(80) Zama
+
+owiki-hitiya no-mani café hoka no-tera
+
+give (imper.) INTENS-REP 1s-POSP coffee SUBORD 1s-drink
+
+‘ Give me a lot of coffee for me to drink again’ (T. J. A. 071508)
+
+5.4.1.2 Positive suggestion Maika
+A positive suggestion is marked by the use of the particle maika, as noted by
+Rowan (1969: 49). In (81), the speaker recommended that his brother ask their father for
+money; in (82), the narrator was reporting what their ancestor Iheroware taught them to
+do.
+(81) maika olo aika-heta no-mani azeze baba! SUG money send-COMPL 1s-POSP brother father ‘My brother, try to convince my father to send me money!’ (Rowan, 1969: 49)
+(82) ∅-nea maika eakere iyerehet-ene=ne 3s-said SUG similar sing-NMLZ-OBJ=ANT ‘He said: “you might try to sing like this” (T. F. 070909)
+48
+
+5.4.2 Frustrative
+
+The frustrative marker is zakore (variant zaore) which indicates an action failed or
+
+that it occurred but not as expected, as seen in (83).
+
+(83) aidyaze-hena-hite-hena zakore ma-taka kani-tse
+
+tyaona
+
+smell-IFV-PL-PROG-IFV FRUST NEG-? pequi.fruit-CLF COP
+
+‘They smelled it (in vain), but the pequi seed was not sweet-smelling’ (T. F.
+
+071609)
+
+The frustrative is widespread in Amazonia and occurs in most Arawak languages (Aikhenvald, 1999).
+
+5.4.3 Apprehensive
+There are two ways to express the meaning “be careful, watch out”: with the verb waya ‘watch’ (or its allomorph waye24) plus the imperfective hena, as in the form
+wayehena, or with the verb waya (or its allomorph yaya) ‘watch’ plus edya ‘focus’, as in
+the form hiayaedya. The form wayehena (84) is used for warnings with a consequence in
+the future. The form hiayaedya, which occurs with the second person prefix, is used for
+warnings with a consequence assumed to occur immediately as seen in (85).
+(84) Waye-hena awitsa burako-ako ha-tsera watch-IFV today hole-LOC 2s-dig
+‘(Watch out!) Don’t go today to dig in the hole’ (T. J. A. 071508) (85) etsedi te ezoa, hi-yaya-edya no-hoe
+head ONP fall 2s-watch- FOC 1s-cousin ‘The head fell, (he said) “watch out, my cousin” ’ (T. J. 080309)
+24 Because of vowel harmony the vowel a becomes e, and the consonant w becomes y after the prefix hi-. 49
+
+5.4.4 Epistemic modality Epistemic modality is indicated via the particle zamani, which is used mostly in negative or interrogative sentences, and by the particles kala and ala, which are used in declarative sentences. These markers are more likely to encode judgments made by the speakers than to be evidential, because there is no indication of the source of the information (for example whether it has been said by others). (86) maiha na-waiyore-ze zoana zoaka zamani-te haikoa-heta
+NEG 1s-know-DEP INT TEMP UNCERT-FUT come-COMPL ‘I do not know when, but maybe he is coming’ (E. GK. 071009)
+
+In (87), both markers are used because the first sentence is interrogative and the
+
+other affirmative.
+
+(87) ha-okoa-ne
+
+zamani? Kala owike-heta Alice
+
+2s-be.jealous-POSSED UNCERT UNCERT spill-COMPL Alice
+
+‘Are you jealous? It seems Alice spilled a lot of it’ (The speaker thinks Alice is
+
+jealous because she spilled a lot of coffee on him) (T. J. A. 071508)
+
+5.4.5 Conditional Conditionals in Paresi are not marked by a specific particle or suffix. Rowan (1969) analyzed the clitic iya (which can be reduced to the form ya) as a conditional marker. However, it also has other uses; for example, it occurs in negative sentences to indicate deontic modality or future events (see section 7 about negation). Because the use of iya is associated with constructions where the certainty of the reported situation is attenuated, as in the potential mood or irrealis as considered by Timberlake (2007), it is
+50
+
+appropriate to term it as an irrealis marker. The clitic occurs in the second position in the
+first clause, which is the “if clause” (protasis), independent of whether the condition is
+possible or not.
+(88) haidya=iya halaitsoa txiyaha hoka maiha zoare tyaon-ita ball =IRR jump pass SUBORD NEG INT COP-PROG ‘If the ball passes (here), then it is not worth anything’ (T. L. 070709)
+
+In conditionals, iya can be used in real and in unreal conditions. Example (88)
+
+illustrates a real condition, and example (89) illustrates an unreal condition in which the
+
+condition was not met. The conditional ya occurs in both sentences, while the
+
+counterfactual eko occurs in the protasis of the more hypothetical clause only:
+
+(89) Eko=iya
+
+atyo kaminhao iyare kalini=ya atyo Habo wa-bajiya-ita
+
+CONTRFCT=IRR FOC truck buy now=IRR FOC Habo 1p-go-PROG
+
+‘If I had bought a truck, we would have gone to Habo today’ (Rowan, 1969, p.
+
+26)
+
+In a negative predicate, iya can occur before the negative particle awa, as seen in
+
+(90). In this example, the clitic iya occurs both in the protasis and in the apodosis
+
+(sentence in which the consequence is expressed).
+
+(90) Iya awa imoti Taviano kolatya-h-it-ene
+
+hoka hekotya=iya
+
+IRR NEG non-Indian Taviano take.away-PL-PROG-OBJ SUBORD PART=IRR
+
+tyaon-ita-ha kalini
+
+COP-PROG-PL now
+
+‘If they were not taken away by the non-Indian Taviano, they would still be living
+
+here’ (T. JT. 063009)
+
+51
+
+CHAPTER 6: NEGATION
+6.1 General remarks Cross-linguistically, there are two general types of negation: sentential or clausal and constituent negation. According to Miestamo (2005), two types of clausal negation can be distinguished cross-linguistically: standard negation, i.e. the negation of declarative sentences, and nonstandard negation, a strategy that is likely to be used in imperatives, existential, and nonverbal clauses. In Arawak languages, negation can be marked syntactically or morphologically. In general, Paresi affirmative sentences are different from negative ones because the latter use the negative (pre-verbal or clauseinitial) particle maiha (syntactic negation). Only in imperatives is a nonstandard form of negation used (the particle maiha + iya or the particle awa). In addition, Paresi has a negative prefix ma-, which is a derivational negator widespread among Arawak languages.
+6.2 Standard negation 6.2.1 Negation of declarative sentences in general The strategy used to indicate negation in declarative clauses is the negative particle maiha or maitsa25, as seen in (91). This particle can be clause-initial or occur before the verb.
+25 Probably maiha can be analyzed as being formed by the prefix ma- plus a form iha ‘?’ historically. 52
+
+(91) a.
+
+Tsema-zema-tya-h-ita-ha hear-POSP-TH-PL-PROG-
+PL
+‘They listen to it'
+
+b. maiha tsema-zema-tya-h-ita-ha26 NEG hear-POSP -TH-PL-PROG-PL ‘They do not listen to it' (T. JT.
+063009)
+
+Paresi exhibits a type of asymmetry where the lexical verb loses its finiteness in negative clauses. According to Miestamo (2005), there is variation in how asymmetry in the finiteness of verbal elements is realized cross-linguistically. A lexical or auxiliary verb can lose finiteness, which is identifiable by morphological criteria (deverbalization or nominalization). In Paresi, this type of asymmetry occurs when the standard negation is expressed by the negative maiha preceding the verb and by the nominalizing suffix on the verb (92). It is not very clear so far what determines which verbs will be finite or not when negated.
+
+(92) hi-kaitxihini minita hoka maiha hi-kaotse-ze 2s-dream always SUBORD NEG 2s-wake.up-NMLZ ‘You are always dreaming, that is why you do not wake up’ (T. J.A. 071508)
+
+Miestamo (2005) analyzes negative markers, like Paresi maiha, as uninflected auxiliaries (a negative verbal finite asymmetry), and argues that the presence of the negator forces the verb to take a nominalized form. In Paresi I consider maiha to be a particle rather than an auxiliary because its presence does not lead the verb to lose its finiteness in all cases.
+
+26 In the text, the particle maiha is before the verb, not in clause-initial position. 53
+
+6.2.2 Existentials and negation In Paresi, there is no special negative existential form; the verbal negator maiha negates the positive existential predicate. Croft (1991) observes that this is a typologically common alternative. There are two ways of expressing an existential predicate, with the existential aka (93) or with the copula tyaona (example 94), but in the negative sentences only the existential verb aka is used (see example 95).
+
+(93) pão ake heta bread EXIST COMPL
+
+‘There is bread’ (E. GZ. 010410)
+
+(94) Owene himere tyaon-ita iyi-ti
+
+hiye
+
+there hummingbird COP-PROG flower-UNPOSS POSP
+
+‘There is a hummingbird over there’ (Rowan, 1978, p.29)
+
+(95) maiha ehare ma-haliti katyatere howe-ne
+
+aka
+
+NEG DEM NEG-person non-Indian poison-POSSED EXIST
+
+‘There was no non-Indian poison’ (T. JT. 063009)
+
+6.2.3 Negation in non-verbal clauses There are two ways of expressing negation in non-verbal clauses. The negative particle maiha can co-occur with the suffix –re and the nominalizer –ze or it can co-occur with the copula tyaona, which may present the TAM morphemes (such as the future marker te). (96) maiha haka-re-ze
+NEG work-NMLZ-NMLZ
+‘He is not a hard worker’ (E. GZ. 070809)
+54
+
+(97) maiha kaitsere=te tyaona NEG good=FUT COP
+‘He will not be a good person’ (E. GZ. 070809)
+
+Another way of expressing negation in non-verbal clauses is to use a morphological strategy27 by using the prefix ma- (this prefix can be used in other
+
+contexts, as described in section 7.4, and it is not used with most verbs). Some possessed
+
+nouns can be used as predicates in non-verbal clauses by taking the ka- ‘attributive’ and
+
+the prefix ma- ‘negative’ plus the nominalizer hare, as seen in (98) and (99).
+
+(98) a. no-ka-ketse-ra-hare
+
+b. ma-ketse-ra-hare
+
+1s-ATTR-knife-POSSED-NMLZ
+
+NEG-knife-POSSED-NMLZ
+
+‘I have a knife’
+
+‘He does not have a knife’
+
+(E. GZ. 010410)
+
+(99)
+
+no-ka-kawalo-ni-ye
+
+no-ma-kawalo-ni-hare
+
+1s-ATTR-horse-POSSED-NMLZ
+
+1s-NEG-horse-POSSED-NMLZ
+
+‘I have a horse’
+
+‘I do not have a horse’
+
+(E. GZ. 010410)
+
+6.3 Nonstandard negation in imperatives There are two strategies used in Paresi to form a negative imperative: i) the strategy found in declaratives (the particle maiha, which in imperatives appears as maha), plus the irrealis (iya), as in example (100); and ii) the particle awa, as in (101). In the first strategy, the use of the irrealis marker leads to two possible meanings for the sentence, a deontic meaning ‘one should not do’ or a future meaning.
+
+27 The prefix ma- is found in other Arawak languages, such as Tariana, where the prefix is used with possessed nouns, but it seems it is not used in non-verbal clauses; in Paresi could be used in both contexts.
+55
+
+(100)Owa maitsa iya, no-zaitse-nae now NEG IRR 1s- nephew-PL
+‘You all should not do it, my nephews’ or ‘You all will not do it, my nephews’
+(T. F. 071609)
+(101) awa hi-yome bao-kakoa! stop 2s-play bread-POSP
+‘Do not play with the bread!’ (T. J. A. 071508)
+
+6.4 Negation of constituents
+
+In order to negate a part of a proposition, the particle maiha immediately precedes
+
+the constituent to be negated. The particle xini, a negative focus marker, follows this
+
+constituent, as shown in (102b), where the particle precedes the proper noun Cristiano.
+
+(102) a. Cristiano ehok-ene b. maiha Cristiano xini ehok-ene
+
+Cristiano break-OBJ
+
+NEG Cristiano PART break-OBJ
+
+‘Cristiano broke it’ ‘It was not Cristiano who broke it’ (E. GZ. 070809)
+
+Furthermore, adjectives and descriptive verbs can take the prefix ma- to form
+
+their counterparts, as shown in (103), or ma- can appear with other verbs to form
+
+inherently negative lexemes as in (104).
+
+(103) a.
+
+aidyaze sweet-smelling
+
+b. m-aidyaze NEG-sweet-smelling
+
+‘sweet-smelling’
+
+‘not sweet-smelling’ (T. F. 071609)
+
+(104) a. tona ‘walk’
+
+b. ma-e-tona-ne-hare NEG-TRANS-walk-POSSED-NMLZ
+
+‘one who is paralyzed’ (Rowan, 1978: 52)
+
+In some cases, there is a difference in meaning between choosing to use the
+
+syntactic strategy (the maiha particle) or the derivational/morphological strategy (the ma-
+
+56
+
+negator). In (105), the difference is that in the first case, the statement does not indicate a
+
+permanent characteristic:
+
+(105) a.
+
+maiha no-ka-itsani-ye NEG 1s-ATTR-son-POSSED
+‘I do not have children’
+
+(106) a. maiha atyo haliti xini NEG FOC person PART
+‘He was not a human’
+
+b. ma-itsani-halo NEG-son-NMLZ ‘one who is sterile (cannot have
+children)’ (E. A. 070909)
+b. ma-haliti-hare NEG-person-NMLZ ‘one who is non-indian’ (T. J.
+063009)
+
+In other cases either the predicate or the nominal form can be used, depending on the context, as in (107):
+
+(107) a. maiha no-ka-iyanini-ye
+
+b. ma-iyanini-halo
+
+NEG 1s-ATTR-husband-POSSED
+
+NEG-husband-NMLZ
+
+‘I do not have a husband’
+
+‘one who does not have a
+
+husband’
+
+(E. GZ. 010410)
+
+6.5 Double negation There are cases of double negation when the particle maiha negates a constituent already negated by ma-. The uses of the double negation and of the particle xini (which occurs only in this context) emphasize the negation, as in (108) and (109).
+
+57
+
+(108) Kani-tse
+
+nika maiha m-aidyaze-hare
+
+xini
+
+pequi.fruit-CLF eat NEG NEG-sweet-smelling-NMLZ NEG
+
+‘The pequi fruit is very sweet-smelling’ (Lit.: The pequi fruit is not non-sweet-
+
+smelling) (T. F. 071609)
+
+(109) maitsa ma-tsema-ka-hare xini zakai-hake-re NEG NEG-listen-TH-NMLZ NEG tell-story-NMLZ
+‘Do not ignore the story (Lit.: Don’t do not listen to the story)’ (T. F. 071609)
+
+58
+
+CHAPTER 7: CONCLUDING REMARKS
+This study has demonstrated the main aspects of Paresi verb morphology based on previous work by Rowan (1969) and on new data recently collected. Paresi has certain typologically interesting features that may strengthen our understanding of language in general such as the existence of a descriptive verb class, the spatial and temporal uses of some markers, and the existence of modalities which are widespread among Amazonian languages.
+This paper has presented some aspects of Paresi verbs such as the classification of verbs into two main types: intransitive (standard intransitive or descriptive verbs) and transitive verbs. Descriptive verbs are interesting because this class includes words referring to color, age and dimension, which are classified as adjectives in many other languages.
+In the section about valency-decreasing mechanisms, I have addressed the importance of the semantic continuum of direct, sociative, and indirect causation to the formal means of expressing causatives. In the section about tense and aspect, I have argued that Paresi is a mixed-temporal language with a non-obligatory clitic indicating future. The fact that the anterior aspect may be confused with a past temporal location meaning shows how the distinction between tense and aspect is not very easy to describe. Like most Arawak languages, Paresi distinguishes perfective, imperfective, and progressive aspects. There may be more aspects to be analyzed in Paresi that were not covered in this paper, such as the repetitive aspect mentioned by Rowan (1969), but that
+59
+
+will be investigated in future work. The particles heta and hena are aspect markers which also have regressive and
+ingressive spatial meanings, respectively. Their uses are typologically interesting because this discussion about the particles can contribute to further the discussion of the spatial expression of temporal notions. In the literature about the expression of space and time in the world’s languages (such as Haspelmath, 1997), it has been argued that many temporal expressions are based on spatial ones. In Paresi, the morpheme heta has both the spatial meaning ‘regressive’ and also the temporal meaning ‘completive’ but so far it is not possible to determine its primary meaning. On the other hand, the morpheme hena has a primary temporal use that in some circumstances can be interpreted as spatial. That is an interesting aspect of the discussion of Paresi verbs that needs further work in order to analyze whether the temporal meanings of hena and heta came from the spatial ones.
+In addition, I described five modalities that were clearly present in my corpus (ongoing work has been done to identify other types of modalities such as the inferential marked by kore). The frustrative is one of the several modalities attested in other southern Arawak languages (Ignaciano, Baure, Waujá, and Peruvian languages) and widespread among Amazonian languages (Aikhenvald, 1999: 94). Finally, this study also showed that negation in Paresi can be of two types: standard and nonstandard negation, and that Paresi also exhibits a widespread derivational negator found in Arawak languages.
+Due to the endangered status of Paresi, it is important that more descriptive work be carried out. This work significantly advances our understanding of Paresi verb
+60
+
+morphology, which has until now had only minimal description, and thus contributes to our understanding of the Arawak family. In addition, this description helps to fill out our knowledge of Amazonian languages more generally, as most of the native languages spoken in Brazil do not have a comprehensive scientific description (Moore, 2005). This preliminary study of verbs is a first step towards a comprehensive reference grammar of Paresi to be produced in a future work.
+61
+
+REFERENCES
+
+Aikhenvald, Alexandra Y. 1999. The Arawak language family,” In Dixon and Aikhenvald (eds.). The Amazonian Languages. Cambridge: Cambridge University Press. pp. 65-106.
+
+__________. 2003. A Grammar of Tariana, from Northwestern Amazonia. Cambridge: CUP.
+
+__________. 2006. Serial verb constructions in typological perspective. In: Serial Verb Constructions: a cross-linguistic typology. Alexandra Y. Aikhenvald and R.M.W. Dixon (eds.). Oxford: Oxford University Press.
+
+_________; R.M.W. Dixon. 2000. Transitivity in Tariana. En: R.M.W. Dixon & Alexandra Y. Aikhenvald (eds.), Changing valency: case studies in transitivity: 145172. Cambridge: CUP.
+
+Alvarez, José. 2004. Raíces y sufijos temáticos en la morfología verbal del Guajiro/ wayuunaiki. Antropologia 102: 27-98.
+
+Berg René van den; Kahrel, Peter. 1989. Negation: a preliminary questionnaire. For the
+
+volume Typological studies in negation, published by Benjamins (1994). Available
+
+online:
+
+http://lingweb.eva.mpg.de/fieldtools/pdf/vanDenBerg-
+
+negation_questionnaire.pdf
+
+Brandão, Ana Paula Barros. 2007. Paresi and Enawene Nawe: a comparative study. (Oral presentation, University of Texas at Austin, CILLA). ms.
+
+_______. 2009a. Palatalization in Paresi (Arawak). (Ms).
+
+_______. 2009b. Stress in Paresi-Haliti (Arawak). ms.
+
+_______. 2009c. Subordination in Paresi-Haliti (Arawak). ms.
+
+_______. 2009d. Descriptive words in Paresi-Haliti and in other Arawak languages. In: Conference on Indigenous Languages of Latin America IV, 2009, Austin. Proceendings of the Conference on Indigenous Languages of Latin America IV. (to appear)
+
+Comrie, Bernard. 1976. Aspect. CUP.
+
+________; Norval Smith. 1977. Lingua Descriptive Studies: Questionnaire. Lingua 41:172.
+62
+
+Croft. William. 1991. The Evolution of Negation. Journal of Linguistics, Vol. 27, No. 1. pp. 127.
+
+Dahl, Östen. 1985. Tense and aspect systems. New York, N.Y.: B. Blackwell.
+
+Derbyshire, D. C. 1986. Comparative survey of morphology and syntax in Brazilian Arawakan. In: derbyshire, D. C.; pullum, G. K. (Eds.). 1986. Handbook of Amazonian languages.. v. 1, p. 470-566.
+
+Dixon, R.M.W.; Aikhenvald, Y. Alexandra (eds.). 2000. Changing valency: case studies in transitivity: 145-172. Cambridge: CUP.
+
+Drude, Sebastian. 1995. Observações para servir para uma ortografia do Waimaré. (Ms.)
+
+Facundes, Sidney. 2000. The language of the Apurinã people of Brazil (Arawak). University of Oregon; Ph.D Dissertation.
+
+__________; Brandão, Ana Paula Barros. Arawak Reconstruction and Internal Relationships: An overview. In: Interdisciplinary volume from the International Symposium on Historical Linguistics in South America (Title undetermined), being edited by Denny Moore and Hein van der Voort (to appear).
+
+Fabre, Alain. 2005. Diccionario etnolingüístico y guía bibliográfica de los pueblos
+
+indígenas
+
+sudamericanos.
+
+ARAWAK.
+
+Available
+
+on
+
+line:
+
+http://butler.cc.tut.fi/~fabre/BookInternetVersio/Dic=Arawak.pdf
+
+Guillaume, Antoine and Françoise Rose. Forthcoming. Sociative causative markers in South-American languages: a possible areal feature, in Mélanges de Linguistique Générale et de Typologie Linguistique, Floricic, F. (ed.), Lyon: Presses de l'École Normale Supérieure.
+
+Haiman, John. 1983. Iconic and Economic Motivation. Language 59: 781-819.
+
+Haspelmath, Martin. 1997. From space to time: temporal adverbials in the world’s languages. Muchen: LINCOMPL Europa, 1997.
+
+Klamer,
+
+Marian.
+
+Valency
+
+questionnaire.
+
+Available
+
+online:
+
+http://rspas.anu.edu.au/linguistics/projects/Conferences/EastNusantara/ValenceQuest.
+
+html
+
+63
+
+Lisbôa, Thomaz de Aquino 1985. Os enauenê-nauê. Primeiros contatos. São Paulo: Loyola.
+Métraux. 1948. The Paressí. HSAI 3: 349-360.
+Michael, Lev. Submitted. Review of Ramirez, Henri. Línguas Arawak da Amazônia Setentrional: Comparação e Descrição [Arawak Languages of Northern Amazonia: Comparison and Description]. International Journal of American Linguistics.
+______. 2008. Nanti evidential practice: language knowledge, and social action in an Amazonian society. University of Texas at Austin; Ph.D Dissertation.
+Miestamo, Matti. 2007. Negation: An overview of typological research. Language and Linguistics Compass 1(5): 552-570.
+Moore, Denny. 2005. Brazil: language situation. In Brown, Keith (ed.) Encyclopedia of languages and linguistics. Vol. 2.
+Palmer, F. 1986. Mood and modality. Cambridge: Cambridge University Press.
+Payne, David L. 1991. Classification of Maipuran (Arawakan) languages based on shared lexical retentions. In: derbyshire, D. C.; pullum, G. K. (Eds.). Handbook of Amazonian languages. v. 3, p. 355-499.
+_________. 2002. Causatives in Asheninka: The case for a sociative source. In: The grammar of causation and interpersonal manipulation. Edited by Shibatani, Masayoshi. Amsterdam ; Philadelphia, PA : John Benjamins Pub. Co., c2002.
+Payne, Thomas E. 1997. Describing morphosyntax: a guide for field linguists. Cambridge: Cambridge University Press.
+Ramirez, Henri. 2001. Línguas Arawak da Amazônia Setentrional. Manaus: Universidade do Amazonas.
+Rose, Françoise. 2010. Transitividad fluida y polifuncionalidad de un marcador de causativo en Mojeño Trinitario. . (Oral presentation, Bogotá, Amazonicas 3). ms.
+Rowan, Orland. 1964a. Revised phonemic statement of Paresi. SIL-AL 143.
+________. 1964b. High level phonology of Paresi. SIL-AL 144.
+________. 1977. Estrutura discursiva Parecis. SL 7. p. 101-110.
+64
+
+________; Rowan, Phyllis. 1978. Dicionário Paresi-Português e Português-Paresi. Brasília: SIL.
+________; Burgess, E.B. 1979. Gramática Paresi. SIL-AL 146. Shibatani, Masayoshi; Pardeshi, Prashant. 2002. The causative continuum. In: The
+grammar of causation and interpersonal manipulation. Edited by Shibatani, Masayoshi. Amsterdam ; Philadelphia, PA : John Benjamins Pub. Silva, Glauber. 2009. Fonologia da lingua Paresi-Haliti (Arawak). Dissertação de mestrado. Rio de Janeiro: UFRJ. Smith, Carlota. 1997. The Parameter of Aspect. 2nd edition. Kluwer Academic Press. Timberlake, Alan. 2007. Tense, aspect and mood. In: Shopen, Timothy (ed.). 2007. Language Typology and Syntactic Description, 2nd edition. (3 volumes.) Cambridge: CUP. Wise, Mary Ruth. 1990. Valence-changing affixes in Maipuran Arawakan languages. D.L. Payne (ed.) Amazonian Linguistics. Studies in Lowland South American Languages: 89-116. Austin: UTP.
+65
+
+VITA Ana Paula Barros Brandão was born in Barcarena, Pará, Brazil on April 27, 1984. She received the Bachelor of Arts in Language and Literature at the Universidade Federal do Pará-UFPA (Pará, Brazil) in 2006. During the following year she worked at the Museu Paraense Emílio Goeldi, Pará, as a research assistant. She has been working with indigenous teachers in Apurinã and Paresi communities on issues relating to orthography development and native-language literacy, including development of pedagogical materials. She is also providing training on documentation to Paresi speakers since 2006. In August, 2007, she entered the Graduate School at the University of Texas.
+Permanent method of contact: warirei@yahoo.com.br
+This thesis was typed by the author.
+66
+
+

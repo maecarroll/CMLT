@@ -1,0 +1,119 @@
+242
+
+3 The Inca Sphere
+
+Above we have limited ourselves to grammatical features. The text also exempliﬁes many of the phonological characteristics of Salasaca Quechua. These include:
+a. voicing of stops after vowels and sonorants across morpheme boundaries, hence: papa-ta > papa-da ‘potato-AC’ pantiyon-pi > pantiyon-bi ‘cemetery-L’
+Notice that only afﬁxes are affected productively by this rule, and even among the afﬁxes we have reciprocal -nuku (< *-naku), not *-nugu or *-nagu (though -nau in fairly close-by Tena lowland Quechua), next to -rga (<*-rka) ‘past’, -nga (<*-nka) ‘inﬁnitive’, etc.
+b. raising of /a/ to [i] or [u]: -man > -mun -manta > -munda -pak > -pux -rak > -rix -pasˇ > -pisˇ -tak > -tix
+This rule is obligatory in afﬁxes, but applies optionally in afﬁxed lexemes as well: kayi-ndix (<*kaya-ntik) ‘next’ and ruru-sˇa (<*rura-sˇpa) ‘making’.
+c. optional, though very frequent, deletion of the ﬁnal stop of the afﬁx in word-ﬁnal position: pay-pak > pay-bu ‘her/his’, ‘for her/him’ may-man > may-mu ‘where to’.
+d. consonant cluster simpliﬁcation in some afﬁxes, yielding -kpi > -ki ‘different subject adverbial subordinator’, and -sˇpa > -sˇa ‘same subject adverbial coordinator’.
+e. vowel cluster simpliﬁcation, yielding mizˇa-y > mizˇi ‘terror’ and tuku-y > tuki ‘all’, as well as wicˇay > icˇi ‘above’ and wira > ira ‘fat’.
+f. the palatal zˇ is pronounced as a palatal affricate before voiceless stops, yielding kuzˇki > kucˇki and azˇku > acˇku.
+
+3.2.9 A sketch of a Peruvian Quechua dialect (Pacaraos) Pacaraos Quechua is spoken in the village of Pacaraos, a district capital situated near the upper reaches of the Chancay river at an altitude of more than 3,000 metres (for further details see Adelaar 1982, 1986a). The Chancay river waters the Paciﬁc slopes of the Andes. The district of Pacaraos, which comprises several more villages, is part of the province of Huaral, belonging to the department of Lima.
+Pacaraos lies on the border of a Quechua-speaking area (on the cordillera side) and a Hispanicised area (the lower Chancay valley). The dialect known as Pacaraos Quechua
+
+3.2 The Quechuan language family
+
+243
+
+may be restricted to the village of Pacaraos itself, although not all communities in the area have been checked for the existence of Quechua speakers and dialect afﬁliation. It is not unlikely that the Pacaraos dialect speech community originally extended further down the Chancay valley, possibly as far as the coast.
+In the late 1970s most speakers of Pacaraos Quechua were women in their sixties or older. The dialect may be moribund at the time of writing (1999), although some villagers, in particular youngsters raised by their grandmothers, are likely to conserve a passive knowledge of it.
+Pacaraos Quechua holds an intermediate position between Quechua I and Quechua II, but the grammatical similarity with the neighbouring Quechua I dialects is an obvious fact. Apart from some unique grammatical features to be discussed below, it is the lexicon of Pacaraos Quechua that holds a number of surprises. Some vocabulary items (e.g. kunan ‘now’) appear to be typically Quechua IIC; others are reminiscent of Aymaran (e.g. acˇara ‘old’, uni- ‘to hate’, wilka ‘sun’), or are unique for Pacaraos (e.g. arapu- ‘to answer’, cˇaqpa ‘clothes’, rapqa- ‘both’). The six-term deictic system, in which altitude differences are encoded, has already been mentioned in section 3.2.7.
+Phonologically, Pacaraos Quechua presents the particularity of a phonemic stress distinction involving a choice between ﬁnal and penultimate syllables. Final stress is a characteristic of the ﬁrst-person marker -y, as in tarpu´y ‘I sow’, and of a number of other sufﬁxes that are subject to elision when in word-ﬁnal position. Like Quechua I, Pacaraos Quechua distinguishes between long and short vowels.
+The uvular consonant q is always a fricative in Pacaraos. It is voiceless when adjacent to a voiceless consonant and word-ﬁnally. Elsewhere, it is mainly voiced. A unique feature of Pacaraos Quechua is the occurrence in native words of a vibrant opposition (trill vs. tap) in prevocalic position, e.g. rraqak ‘girl’ versus rapqa-n ‘both of them’. The trilled rr sounds very much like the equivalent sound in Castilian Spanish.
+In what follows, some characteristics of the Pacaraos dialect will be exempliﬁed and discussed by means of a fragment of a myth concerning a drought and subsequent famine. These events are said to have occurred in pre-Christian times as a result of excessive heat due to the simultaneous appearance of two suns. The story was told to the author in 1979 by the late Mrs Lorena Co´rdova.
+
+1. amru:na-qa . . . mana-sˇ miku-y ka-rqa-s-a: say wata say wilka yarka-rqa-mu-pti-n
+famine-TO . . . not-HS eat-IF be.there-PA.3S-NE-EM that year that sun rise-PF-H-DS-3S
+‘Famine . . . there was nothing to eat that year, when those two suns arose.’
+
+244
+
+3 The Inca Sphere
+
+Among the lexical elements to be mentioned in particular, wilka ‘sun’ (see above) is not found in any other Quechua dialect; amru:na is from Spanish hambruna ‘famine’. The non-proximate deictic say (< *cˇay) shows the effect of a regular change *cˇ> s, which Pacaraos shares with a number of QI dialects on the Paciﬁc side of the Andes.
+The verb yarku- ‘rise’, ‘climb’ contains a petriﬁed derivational sufﬁx -rku- ‘upwards’. Internal verbal sufﬁxes that end in a rounded back vowel u change this vowel to a before a small class of other internal verbal sufﬁxes including the ventive -mu- ‘hither’, as in the example given. The intervening sufﬁx -rqu- ‘perfective aspect’ is affected as well.
+Unique for Pacaraos is the shape of the independent sufﬁx -s-, which in combination with the adverb mana marks a negative sentence. This sufﬁx appears in its full shape -su (< *-cˇu) when the phonological context requires it, that is, when it is not preceded by a short vowel or followed by -a: (see below). When the allomorph -s occurs in wordﬁnal position, the vowel preceding it is stressed. Since penultimate stress is the rule in Pacaraos Quechua, the existence of a short form -s must be interpreted as the result of the elision of a ﬁnal vowel (u). This elision is optional, although the use of the short form is preferred. The element -a: indicates emphasis and is frequently used in Pacaraos Quechua.
+The reportative independent sufﬁx indicates a second-hand data source and appears in its long form -sˇi when not preceded by a short vowel or followed by -a:. The alternation -sˇ/-sˇi is reconstructible for Proto-Quechua and bears no relationship to the alternation described in the preceding paragraph. When the short allomorph -sˇ occurs in word-ﬁnal position, the preceding vowel is not stressed.
+Other afﬁxes found in sentence 1 are the independent sufﬁx -qa, which may delineate a non-comment phrase, the inﬁnitive marker -y, the past-tense marker -rqa-, the switchreference marker -pti- ‘different subject’ and the third-person subject marker -n. As in several other dialects, the third-person subject marker is zero after the past-tense marker -rqa-.
+
+2. saki-rqa-sˇ ima´-p ayka´-p hacˇ.a´-p ima´-p wa:ka´-p dry-PA.3S-HS what-AD how.much-AD plant-AD what-AD cow-AD ‘Everything dried out, the plants, etc., and the cows as well.’
+Sentence 2 contains several instances of the additive sufﬁx -pa ‘even’, ‘too’. This sufﬁx has a short form -p, which is the product of elision, and the distribution of the two forms is parallel to that of the allomorphs of -su (see above). Ima-p(a) ayka-p(a) is a composite pronominal expression meaning ‘all kinds of’, ‘everything’; the second
+
+3.2 The Quechuan language family
+
+245
+
+instance of ima closes an enumeration and has the meaning of ‘et cetera’. Wa:ka is a borrowing from Spanish (vaca).
+3. wanyu-ku-rqa-sˇ animal-kuna die-RF-PA.3S-HS animal-PL ‘The animals died.’
+The use of the reﬂexive sufﬁx -ku- can be explained in that the animals died for no reason, without any social beneﬁt to their owners. The sufﬁx -kuna indicates nominal plurality.
+4. sawra´-q yanqa kay-naw ucˇucˇaq wamra-kuna´-p miku-y-piq-sˇi wanyu-rqu-n
+then-TO in.vain this-CP little child-PL-AD eat-IF-AB-HS die-PF-3S ‘Then, in this way, even the little children died in vain for lack of food.’
+The expression sawra´-q(a) is probably a contraction of *say ura-qa (ura ‘hour’, ‘time’, from Spanish hora ‘hour’). The independent sufﬁx -qa (non-comment phrase marker) exhibits the same phonological variation as -pa and -su. The proximate deictic kay followed by the comparative case marker -naw ‘like’ behaves like an adverb here (‘in this way’). The ablative case marker -piq or -piqta is used in an expression with the inﬁnitive of miku- ‘to eat’, mikuypiqta ‘without eating’, ‘for lack of food’ (literally, ‘away from eating’).
+5. sawra´-q kay-kuna punyu-rka:cˇ.a:-raq-su then-TO this-PL sleep-PL.PR-PA.3S-IR ‘So were they asleep?’
+When used without either one of the negative markers mana (in statements) and ama (in exhortations), the independent sufﬁx -su indicates a polar question. The verbal sufﬁx -rka:c.ˇa:- is a portmanteau morpheme combining the function of a progressive aspect (marker -yka:-) and a plural (marker -rka:-). As in most Quechua I dialects, a low vowel located at the end of an internal verbal afﬁx is automatically long in most open syllables. The ending -raq is an alternative for -rqa (past tense + third-person subject).
+6. keba: sin miku-y-piq kay-kuna punyu-ka-nqa how without eat-IF-AB this-PL sleep-NC-3S.F ‘How do you expect them to fall asleep without eating?’
+The expression keba: (from Spanish ¿que´ va?), here without a question marker, is followed by a future-tense form. It introduces a rhetorical question. The derivational sufﬁx -ka:- in punyukanqa indicates non-controlled action, punyu-ka:- and punyu- relating to
+
+246
+
+3 The Inca Sphere
+
+each other more or less like ‘to fall asleep’ and ‘to sleep’ in English. The sufﬁx -ka:appears here as -ka- because of its checked position within a closed syllable. The preposition sin ‘without’, a borrowing from Spanish, may have a disambiguating function, favouring the interpretation ‘without eating’ for mikuypiq.
+7. mana-m punyu-ka-n-su miku-y-piqta´-q not-AF sleep-NC-3S-NE eat-IF-AB-TO ‘They did not fall asleep because they were hungry.’
+The negative adverb mana is followed by the assertive independent sufﬁx -mi/-m. The distribution of its allomorphs is the same as that of the reportative -sˇi/-sˇ (see above). The sufﬁx -qa (-´q) is required in a non-comment phrase located after the verb.
+8. sawra´-q mana-sˇ punyu-ka-rqu-nyaq-su wamra-kuna´-q then-TO not-HS sleep-NC-PF-SD.3S-NE child-PL-TO ‘So it turned out that they had not fallen asleep, the children.’
+The portmanteau ending -nyaq marks the sudden-discovery tense and a third-person subject. It is preceded by the perfective aspect marker -rqu-, which indicates immediateness or, in this case, the (lack of) result of a previous development.
+9. “may-cˇ.aw-raq kanala ka-yka-n” nyi-n-sˇi where-L-AN corn.toaster be-PR-3S say-3S-HS ‘“Where could the corn toaster be?” they would say.’
+Interrogative expressions such as mayc.ˇaw ‘where?’ (may ‘what place?’, -c.ˇaw ‘locative case’) can be followed by the independent sufﬁx -raq ‘still’ for the purpose of indicating that an answer is not likely to be obtained. The element -yka- represents the progressive aspect marker -yka:- in a checked position. With the verb ka- ‘to be (there)’, progressive aspect indicates a temporary position.
+10. “kuy-cˇ.aw ka-yka-n” nya say-naw-pa-sˇ wamra rima-rqu-rqa that.over.there-L be-PR-3S already that-CP-G-HS child speak-PF-PA.3S ‘“It is over there”, a child had said.’
+The deictic kuy indicates location at a distance within sight of the speaker and the hearer. It stands in opposition to kay ‘this (near speaker)’ and say ‘that (near hearer or anaphoric)’. The three far distant deictics are c.ˇaqay ‘lower level’, c.ˇuqay ‘same level’ and naqay ‘higher level’.
+The form saynaw ‘such’ exempliﬁes a special type of use of the comparative case marker -naw ‘like’. Whereas it normally functions as a deictic adjective, saynaw is
+
+3.2 The Quechuan language family
+
+247
+
+adverbialised by means of the genitive case marker -pa. The verb rimarqurqa illustrates a combination of perfective aspect and past tense.
+11. say o:ra-sˇ mama-n wanyu-si-raq miku-na-m-paq that time-HS mother-3P die-CA-PA.3S eat-FN-3S-B ‘At that moment, its mother killed it in order to eat it.’
+The borrowed term o:ra (also ura, cf. above, from Spanish hora ‘hour’) is used for time in general. Time expressions need not take a case marker. The form maman contains a third-person possessive marker -n; number of possessor is not indicated in Pacaraos Quechua. The derivational sufﬁx -si- (< *-cˇi-) marks a causative construction. The combination of -na ‘future nominaliser’ and -paq ‘benefactive case’ indicates a goal; -m is a phonologically conditioned allomorph of the third-person subject marker -n.
+12. payla-wan-sˇi yanu-raq say wamra´-k cooking.pan-IS-HS cook-PA.3S that child-AC ‘She cooked that child in a large cooking-pan.’
+The instrument is indicated by means of the case marker -wan. The accusative marker -kta indicates a direct object. Word-ﬁnally, it appears in its form -k, preceded by a short stressed vowel. The distribution of -kta and -k is similar to that of the allomorphs of the sufﬁxes -pa, -qa and -su (see above). Additionally, the accusative case marker has an allomorph -ta after consonants or long vowels.
+The example sentences to be treated below constitute a necessary supplement to the above text fragment in that they contain references to the speech participants.
+13. lyama´-y ka-pti-n kanta-q ka-y, kunan mana-m kanta-y-su llama-1P be.there-DS-3S sing-HB be-1S, now not-AF sing-1S-NE ‘When I had llamas, I used to sing. Now I don’t sing any more.’
+The sufﬁx -y, preceded by a stressed vowel when in word-ﬁnal position, refers to the speaker. It may either indicate a ﬁrst-person possessor, or a ﬁrst-person subject. The combination of an agentive nominalisation (sufﬁx -q) and the verb ka- ‘to be’ indicates a past habitual.
+14. nyuqa´-q huk-la-m-a: rima-mu-rqa´-y, pi:=pi-kta´-p nyuqa´-q rima´-y, I-TO one-DL-AF-EM speak-H-PA-1S who=who-AC-AD I-TO speak-1S “may-piqta-m ka-nki, ima-m huti-ki” lapa-n-ta-m-a: nyuqa´-q tapu-ku´ -y what.place-AB-AF be-2S, what-AF name-2P all-3P-AC-AF-EM I-TO ask-RF-1S ‘I spoke to you at once. I speak to everybody. I always ask everyone: “Where are you from? What is your name?”’
+
+248
+
+3 The Inca Sphere
+
+The verb rimamurqa´y ‘I spoke to you’ is an example of the unique way in which Pacaraos Quechua expresses the combination of a ﬁrst-person subject and a secondperson object. Except in the future-tense paradigm, this combination is indicated by means of what is otherwise the ventive sufﬁx -mu- and the ﬁrst-person subject marker -´y (if possible, with previous stress). The combined subject–object markers consist of two parts that can be separated by other sufﬁxes, in this case, by the past-tense marker -rqa.
+The sufﬁx -la in hukla ‘at once’ normally refers to limitation (‘just’, ‘only’); huk is a numeral ‘one’. Second-person markers are -nki (for subject) and -yki (for possessor); the latter appears in a shorter form -ki after roots in i, such as huti ‘name’.
+The reﬂexive sufﬁx -ku- has a derived meaning ‘always’, ‘characteristically’ in tapuku´y ‘I always ask’.
+The root lapa- ‘all’ is compulsorily followed by a possessive personal reference marker, in this case, the third-person marker -n. In neutral WH-questions, interrogative pronouns or phrases are closed by the assertive validator -mi/-m. The combination of the additive independent sufﬁx -pa (-´p) following an interrogative root such as pi ‘who’ (pi: when not directly followed by a sufﬁx) results in an indeﬁnite pronoun ‘whoever’. The reduplication of pi(:) indicates that several people are addressed on separate occasions.
+15. qayan rrahu-kta-cˇ.-a: puri-ri-rqa-yki, nyawi-k´ı-k surumpi-sˇu.nki yesterday snow-AC-DU-EM walk-PL-PA-2S, eye-2P-AC give.snow. blindness-3S.2O ‘Yesterday you (plural) must have walked through the snow; your eyes were snow-blind.’
+The combination -sˇu- . . . -nki indicates a second-person object with a third-person subject, the verb surumpi- having an impersonal subject. The derivational sufﬁx -riindicates plurality in verbs not marked for aspect. The second-person subject marker -yki is used in the past-tense paradigm of the verbs. The independent sufﬁx -c.ˇi/-c.ˇ indicates conjecture; the distribution of the two allomorphs is the same as in the case of -mi/-m and -sˇi/-sˇ.
+16. altu-cˇ.aw ka-yka-nqa-y-kama-m intrega-rqa-ma:-nyaq mama´-y, high.parts-L be.there-PR-N-1S-LI-AF hand.over-PA-1O-SD.3S mother-1P, wa:ka-piq sˇa-mu-rqa´-y kasara-q cow-AB come-H-PA-1S marry-AG ‘While I was up in the mountains, my mother had given me away. I came straight from the cows to get married.’
+
+3.2 The Quechuan language family
+
+249
+
+The combination of a ﬁrst-person object and a third-person subject is illustrated in intregarqama:nyaq. First-person object is indicated by -ma:- (for the long vowel see above). The sudden discovery ending -nyaq implies a third-person subject, unless it is accompanied by a conjugated form of the auxiliary verb ka- ‘to be’.
+The word altu (from the Spanish adjective alto ‘high’) has come to mean ‘highlands’, ‘high mountains’ in Pacaraos Quechua. The nominalising sufﬁx -nqa- combines with progressive aspect and the case marker -kama ‘until’, ‘each’ in order to indicate simultaneousness of a dependent clause and a main clause (‘while’). The ablative marker -piq is to be translated as ‘from’.
+The verb sˇamu- ‘to come’ obligatorily contains the ventive sufﬁx -mu- ‘hither’. In Pacaraos Quechua, the defective root sˇa- and its ventive supplement can be separated by other sufﬁxes. The agentive nominalisation in -q can be used as a complement of motion verbs, as is the case in sentence 16.
+The following two sentences illustrate some more characteristic features of Pacaraos Quechua. Sentence 17 contains the sufﬁx -V:naq (-ni:naq after consonants) for ‘without’. (There is also a verbal ending -V:ni ‘without . . . ing’.) The agentive form kariq is used for a habitual past ‘they used to be’. The absence of an auxiliary verb implies a third-person subject.
+
+17. cˇ.ina-:naq-la-m kay-cˇ.aw ka-ri-q female.animal-without-DL-AF this.place-L be.there-PL-HB ‘They (the rams) used to be here without ewes.’
+In sentence 18 -sun (< *-cˇun) indicates a third-person imperative. The deictic c.ˇaqay involves reference to altitude level.
+
+18. cˇ.aqay-cˇ.aw say wamra-kuna pukla-ri-sun distant.lower.place-L that child-PL play-PL-3S.IM
+‘Let those children play down over there!’
+
+3.2.10 A Cuzco Quechua text fragment The following text fragment is taken from the autobiographical history in Quechua of Gregorio Condori Mamani (1977: 59). The recorded autobiographies of Gregorio and his wife Asunta were translated and annotated by Carmen Escalante and Ricardo Valderrama. For an English version see Gelles and Mart´ınez (1996). The sample text is part of a story that was told to Gregorio in prison by a fellow-inmate from Ccamara (qamara). As the narrator explains, the people from Ccamara had a reputation for daring exploits and cock-and-bull stories.
+
+

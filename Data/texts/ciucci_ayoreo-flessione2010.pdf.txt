@@ -1,0 +1,477 @@
+Luca Ciucci
+La flessione possessiva dell’ayoreo*
+In Ayoreo (Zamucoan) nouns can be divided into possessable and non-possessable. Possessable nouns are characterized by a prefixation whereby the noun agrees with the possessor or genitival modifier; in this article the possessive inflection is described in detail and a classification of possessable nouns is proposed. Possessable nouns also have a non-possessable form; the morphological relationship between the latter and the possessive inflection is discussed.
+1 Introduzione
+L’ayoreo è una lingua parlata nel Chaco boreale tra Bolivia e Paraguay da circa 4500 persone (Fabre 2007a, Combès 2009); insieme al chamacoco appartiene alla famiglia linguistica zamuco. Lo scopo di questo articolo è quello di descrivere la flessione possessiva del nome; si tratta di uno studio che si inquadra nell’ambito di un progetto più ampio di documentazione e descrizione della famiglia linguistica zamuco.1 I dati impiegati provengono prevalentemente da Highams et al. (2000), da studi sul campo effettuati da Pier Marco Bertinetto, nonché dalle mie indagini sul campo.2 Nel corso dell’articolo si impiegherà il sistema di trascrizione, basato sul
+* È mio desiderio ringraziare Irene Roca Ortiz per l’aiuto datomi durante la mia esperienza sul campo nel periodo di luglio/agosto 2009. Ringrazio altresì i dirigenti e gli impiegati del CANOB (Central Ayoreo Nativa del Oriente Boliviano) per l’aiuto e la preziosa collaborazione fornita durante le indagini. Esprimo la mia gratitudine a Pier Marco Bertinetto che, prima del mio lavoro sul campo con gli Ayoreo, mi ha fornito alcuni dati che si sono rivelati essenziali per preparare questo studio e con il quale ho discusso il contenuto di questo articolo; sono grato inoltre a Emanuele Saiu per le attente osservazioni in merito al presente articolo; naturalmente sono io il solo responsabile di eventuali errori. 1 Tale progetto si sta svolgendo presso la Scuola Normale Superiore di Pisa dal 2007. Le lingue zamuco non hanno ancora una descrizione grammaticale impostata su basi scientifiche; in tal senso è in corso d’opera una grammatica descrittiva dell’ayoreo da parte di Pier Marco Bertinetto e del presente autore, di cui è stata data un’anticipazione in Bertinetto (2009); il presente autore sta inoltre lavorando alla stesura di una grammatica descrittiva del chamacoco. 2 Chi scrive ha partecipato ad un’attività di ricerca sul campo diretta da Pier Marco Bertinetto, che si è svolta tra i parlanti ayoreo della Bolivia tra il luglio e l’agosto del 2009; durante questa esperienza è stato possibile verificare parte delle idee e dei materiali presentati nel corso di quest’articolo.
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+castigliano, che è in uso nella maggior parte dei testi pubblicati in ayoreo, nonché presso gli stessi parlanti nativi.3
+Per quanto riguarda la flessione possessiva della altre lingue zamuco, si veda Ciucci (2010c) per il chamacoco; un lavoro di comparazione sulla flessione possessiva del chamacoco e dell’ayoreo è stato svolto durante un periodo di studio trascorso presso l’università di Nijmegen, durante il quale si è presentata una versione intermedia degli esiti della comparazione (Ciucci 2010a); il lavoro nella sua versione finale è stato presentato durante un invito all’università di Leipzig (Ciucci 2010b).
+2 Nomi possedibili e non possedibili
+L’ayoreo, come le altre lingue della famiglia zamuco, presenta una distinzione morfologica tra nomi possedibili e nomi non possedibili. Un nome possedibile dispone di strumenti morfologici (consistenti in una serie di prefissi) per i quali concorda con il suo possessore o, in senso più ampio, con un eventuale NP che agisce da modificatore. La distinzione tra nomi direttamente possedibili e non possedibili è presente in tutte le lingue del Chaco.
+In ayoreo non esistono regole precise per stabilire se un nome è possedibile o non possedibile. Si può tuttavia individuare una restrizione di natura semantica la quale, per così dire, ‘impedisce’ che un nome sia possedibile: i nomi di piante e di animali sono considerati non possedibili, non hanno cioè una flessione possessiva; i nomi non possedibili non si limitano però a queste due sole categorie. Naturalmente è possibile che nomi di piante, animali ed altri nomi morfologicamente non possedibili abbiano un possessore; in tal caso l’accordo tra nome non possedibile e possessore viene
+3 Riguardo alla fonetica e al sistema di trascrizione si veda Bertinetto (2009). Per facilitare la lettura dell’articolo ci si limita a segnalare che:
+a. <b c ch d g j m n ñ p s t> corrispondono rispettivamente a [b k ʧ d g h m n ɲ p s t]; b. <que qui gue gui> corrispondono rispettivamente a a [ke ki ge gi]; c. <r> corrisponde a [ɹ]; d. <jm jn jñ> corrispondono rispettivamente a [m̥ n̥ ɲ̥]; e. <ng> corrisponde a [ŋ]; f. <ˆ> indica la nasalità. Per quanto riguada l’accento, non è chiaro se abbia valore fonologico e nel corso delle indagini sul campo si è avuto l’impressione che la sua posizione, entro certi limiti, variasse non soltanto tra parlante e parlante, ma persino mentre il medesimo parlante ripeteva la stessa parola. In questo articolo, quando possibile, ci si è limitati a segnalare gli accenti così come sono riportati in Highams et al. (2000).
+2
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+
+comunque espresso, ricorrendo però ad una strategia alternativa rispetto a ciò che sarà oggetto principale di trattazione in questo articolo.
+2.1 I classificatori possessivi
+Per ottenere l’accordo morfologico tra un nome non possedibile e il suo possessore si impiega un classificatore possessivo, che ha gli strumenti morfologici (cioè una prefissazione possessiva) di cui non dispongono invece i nomi non possedibili. La prefissazione dei classificatori possessivi segue le stesse regole dei nomi possedibili. Il classificatore possessivo è di norma flesso in forma piena e precede il nome non possedibile a cui si riferisce, quest’ultimo in forma base.4 In (1) si ha un esempio di nome non possedibile concordato con il possessore. Il nome in questione è tamocoi ‘cane’; si tratta di un termine estremamente significativo dal punto di vista culturale, in quanto si è ipotizzato che il nome zamuco, con il quale si designa la famiglia linguistica, derivi appunto da questa parola.5
+
+(1) – A uñeque jirãque ch-ise yoque jne.– ore chojninga. Ore
+
+ESCL qualcuno subito 3.trovare 1P
+
+FUT 3P 3.dire
+
+3P
+
+ch-irote ujetiga g-achid-ode tamoco agoye-die t-orâ-ji mu
+
+3-aspettare COMP 3-CPOSS.ANIM.-P.FP cane.M.FB latrati-P.FP 3-venire-LOC ma
+
+que ore ch-udute cucha-rique.
+
+NEG.RLS 3P 3-udire
+
+cosa-M.S.INDET
+
+‘Dicono: “Qualcuno ci troverà presto”. Aspettano che arrivino i latrati dei cani,
+
+ma non odono alcunché.’ (QCCB II: 29)
+
+Il classificatore deve essere semanticamente compatibile con il nome a cui si riferisce; ad esempio -achidi si impiega solo con animali domestici o mezzi di trasporto.
+
+(2) a. Yoc-achid-i
+
+cuco
+
+1P-CPOSS.ANIM-M.S.FP barca.M.FB
+
+b. Uac-achid-i
+
+burica
+
+2P-CPOSS.ANIM-.M.S.FP cavallo.M.FB
+
+4 Sulla differenza tra forma piena e forma base si veda Bertinetto (2010). 5 Riguardo a tale questione si veda Combès (2010: 13-14).
+3
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+
+Tutte le lingue del Chaco (con la sola eccezione del Chamacoco, v. Ciucci 2010c) hanno classificatori possessivi per i nomi non direttamente possedibili. Secondo Fabre (2007b: 79-80) l’ayoreo sarebbe, tra le lingue del Chaco, quella con il maggior numero di classificatori possessivi.6
+
+3 Struttura generale della flessione possessiva
+I nomi possedibili, si è detto, dispongono di strumenti flessivi propri che consentono di esprimere l’accordo morfologico tra il nome e il suo possessore. A tal proposito l’ayoreo e le lingue zamuco si comportano come tutte le altre lingue del Chaco che, con l’eccezione del vilela (Fabre 2007b: 70), fanno concordare il nome con il suo possessore mediante un prefisso.
+In ayoreo il nome vero e proprio è costituito dalla radice a sua volta preceduta da una vocale tematica; vocale tematica e radice formano il tema. La persona, come detto poc’anzi, è espressa mediante un prefisso.
+Nel nome sono sì presenti suffissi, ma questi non riguardano in alcun modo la flessione possessiva, né vi è alcuna interazione tra flessione possessiva e suffissi (che esprimono genere, numero e forma del nome); in questa sede ci si limiterà alla sola flessione possessiva, tralasciando eventuali indicazioni relative alla morfologia dei nominali, che non risulterebbero pertinenti.
+La flessione possessiva presenta notevoli somiglianze con la flessione verbale (v. infra); un elemento di differenziazione è dato dal fatto che, mentre la flessione possessiva riguarda soltanto la prefissazione, la flessione verbale dispone anche di alcuni suffissi (v. Ciucci 2007/08a).
+
+(3)
+
+TEMA
+
+PREFISSO + (VOCALE TEMATICA) + RADICE
+
+Così come la flessione verbale, anche la flessione del nome possedibile riguarda solo le prime cinque persone: la forma di terza persona viene impiegata anche per la sesta persona; pertanto, parlando di terza persona, si farà sempre riferimento anche alla sesta persona, la quale non sarà più menzionata nel corso di questo articolo.
+
+6 Per maggiori dettagli sui classificatori dell’ayoreo si vedano Fabre (2007b) e Bertinetto (2009).
+
+4
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+
+La terza persona ha due diverse espressioni morfologiche, bisogna infatti distinguere tra una terza persona che ha un valore riflessivo, in cui cioè il possessore è coreferente con il soggetto della frase stessa (4), e una che invece non ha alcun valore riflessivo (5). In (4) le parole di cui si parla sono del soggetto, che comincia a gridare, “consumando le sue parole” e si usa perciò la forma di terza riflessiva daruode; in (5) il soggetto si è rifiutato di aiutare un missionario a tradurre le ‘parole di Dio’, per cui si usa la forma non riflessiva uruode, la stessa usata poco dopo a proposito del missionario che deve tradurre nelle ‘parole degli Ayoreo’, quindi ancora una volta senza che vi sia coreferenza tra soggetto e possessore. D’ora in poi, per semplicità, riferendosi alla terza persona con valore riflessivo si parlerà di persona riflessiva, riferendosi invece alla terza persona non riflessiva si parlerà di terza persona.
+
+(4) Enga ch-ejna-pusu d-aru-ode
+
+enga t-ibite.
+
+COORD3-consumare-ELAT 3RFL-parole-M.P.FP COORD 3-gridare
+
+“Alza il tono della sua voce (lett. consuma le sue parole) e grida.” (QCCB I: 24)
+
+(5) Enga ch-iraja dirica uje Dupade pota jeta ch-ataja misionero
+
+COORD 3-sapere ieri
+
+COMP Dio
+
+3.volere COMP 3-aiutare missionario
+
+ujetiga ch-ajnerame Dupade uru-ode
+
+iji ayore-ode uru-ode
+
+COMP 3-tradurre
+
+Dio
+
+3.parole-M.P.FP LOC ayoreo-M.P.FP 3.parole-MP.FP
+
+“Sa che il giorno prima Dio avrebbe voluto che lui aiutasse un missionario a
+
+tradurre la Bibbia (lett. le parole di Dio) in ayoreo (lett. nelle parole degli
+
+Ayoreo).” (QCCB II: 40)
+
+La flessione possessiva ha dunque, morfologicamente parlando, sei forme distinte, ciascuna delle quali ha tutti gli elementi presenti in (3); soltanto la terza persona, che come si è visto anche per il verbo (Ciucci 2007/08a) è la forma base della flessione possessiva, può essere priva di alcuni elementi fino a ridursi alla sola radice.
+
+4 Prefissi possessivi
+La prima persona si forma mediante il prefisso y-, che può subire nasalizzazione in ñ- se nella radice del nome è presente un elemento nasale.
+(6) a. y-i-casitigai (1s) ‘coraggio’ b. ñ-i-jnorai (1S) ‘compagno’
+
+5
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+A proposito del verbo si è già notato (Ciucci 2007/08a) che mentre la nasalizzazione dei suffissi è predicibile e si verifica automaticamente in presenza delle condizioni adeguate, nella prefissazione, in presenza delle stesse condizioni, il parlante è invece libero di nasalizzare i prefissi o meno; per questo motivo riguardo alla nasalizzazione dei prefissi verbale non si sono potute fornire regole sistematiche. Tali considerazioni valgono anche per la morfologia nominale. Pertanto, mentre la nasalizzazione dei suffissi nominali è sempre prevedibile, la nasalizzazione dei prefissi possessivi, benché governata dalle stesse regole (Ciucci 2007/08b), è soltanto potenziale e il parlante può nasalizzare o meno il prefisso.7
+La seconda persona si esprime mediante il prefisso b-, che può eventualmente nasalizzarsi in m- se sussistono le condizioni all’interno della parola.
+(7) a. b-a-casitigai (2s) ‘coraggio’ b. m-a-jnorai (2s) ‘compagno’
+Della terza persona e della persona riflessiva si parlerà in seguito. La quarta persona si forma con il prefisso yoc-, che non subisce nasalizzazione in quanto l’occlusiva /k/ ne blocca l’espansione verso sinistra.8
+(8) a. yoqu-i-jnorai (1p) ‘compagno’ b. yoc-a-casitigai (1p) ‘coraggio’ c. yoc-u-niri (1p) ‘terra’
+La quinta persona è caratterizzata dal prefisso uac-.
+(9) a. uac-a-casitigai (2p) ‘coraggio’ b. uac-a-jnorai (2p) ‘compagno’
+L’andamento della vocale tematica nel corso della flessione segue in genere le stesse regole già osservate a proposito del verbo (Ciucci 2007/08a) e sarà analizzato dettagliatamente in seguito.
+7 Negli esempi che si forniranno nel corso di questo articolo, per quanto concerne la nasalizzazione nominale, ci si atterrà scrupolosamente a quanto riportato per ciascun nome dalle varie fonti sopra citate. 8 Il fenomeno del ‘blocco’ della nasalizzazione in ayoreo è già stato notato per i verbi in Ciucci (2007/08a) e per i nomi in Ciucci (2007/08b). Si veda anche Bertinetto, Ciucci & Pia (2010).
+6
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+Da quanto esposto fino ad ora si dovrebbe poter vedere una certa somiglianza morfologica tra flessione verbale e quella possessiva, in quanto i prefissi sono gli stessi per la prima, la seconda e la quinta persona. In quest’ultima persona, il verbo (10a) si distingue dal nome possedibile (10b) per mezzo del suffisso verbale.
+(10) a. y-i-catecấri (1s), b-a-catecấri (2s), catecấri (3), y-i-catecấ-co-ri (1p), uac-a-catecấri (2p) ‘parlare’
+b. y-i-casitigai (1s), b-a-casitigai (2s), casitigai (3), d-a-casitigai (rfl), yoqu-i-casitigai (1p), uac-a-casitigai (2p) ‘coraggio’
+La persona riflessiva si forma con il prefisso d- (che, dove sussistono le condizioni, può essere nasalizzato in n-) e la stessa vocale tematica della seconda persona, come si avrà modo di constatare quando si presenteranno eccezioni nella vocale tematica (v. infra); d’ora in poi, parlando della seconda persona, si farà sempre riferimento, tranne quando detto diversamente, anche alla persona riflessiva.
+(11) a. d-a-casitigai (2p) ‘coraggio’ b. n-a-jnorai (2p) ‘compagno’
+La terza persona sarà considerata la forma base della flessione. I nomi possedibili saranno divisi in tre classi flessive a seconda del modo in cui si forma la terza persona. Procedendo in ordine di complessità crescente, la terza persona può essere formata mediante la pura radice (es. poti, pijnani (12)), a cui si aggiungono la vocale tematica e il prefisso per formare le altre persone. Tali sostantivi si chiameranno nomi ‘in radice’ (o ‘radicali’).
+(12) a. y-i-boti (1s), b-a-boti (2s), poti (3), d-a-boti (rfl), yoqu-i-poti (1p), uac-a-poti (2s) ‘cibo’
+b. ñ-i-mijnani (1s), m-a-mijnani (2s), pijnani (3), n-a-mijnani (rfl), yoc-a-mijnani (1p), uac-a-mijnani (2p) ‘bocca’
+Un secondo gruppo di sostantivi forma la terza persona mediante il tema (es. ibioi, ugutadé (13)); si parlerà in questo caso di nomi ‘in vocale’ (o ‘vocalici’). Questa è la classe flessiva più frequente in ayoreo.
+(13) a. y-i-bioi (1s), b-a-bioi (2s), i-bioi (3), d-a-bioi (rfl), yoqu-i-bioi (1p),
+7
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+
+uac-a-bioi (2p) ‘luce, lanterna’ b. y-u-gutadé (1s), b-a-gutadé (2s), u-gutadé (3), d-a-gutadé (rfl),
+yoc-u-gutadé (1p), uac-a-gutadé (2p) ‘bastone’
+Infine, si può formare la terza persona mediante un prefisso consonantico; i sostantivi che presentano questa possibilità saranno denominati nomi ‘in consonante’ (o ‘consonantici’) (es. gajmini, guerani (14)).
+(14) a. ñ-a-jmini (1s), m-a-jmini (2s), g-a-jmini (3), n-a-jmini (rfl), yoc-a-jmini (1p), uac-a-jmini (2p) ‘segno’
+b. y-e-rani (1s), b-e-rani (2s), gu-e-rani (3), d-e-rani (rfl), yoqu-e-rani (1p), uaqu-e-rani (2p) ‘dono’
+Come si è già avuto modo di notare, per la terza persona e per la persona riflessiva non vi è differenza tra singolare e plurale. Quando il possessore plurale non è espresso, si può utilizzare il pronome di terza persona plurale ore ‛’essi’.
+
+(15) Mu cuchabasu-i i-guijna-i idaja
+
+iji ore i-guijn-ane.
+
+ma aereo-M.S.FP 3-casa-M.S.FP lontano.M.S.FB. LOC 3P 3-casa-M.P.FP
+
+“Ma l’hangar (lett. la casa dell’aereo) è lontano dalle loro case” (QCCB II: 15)
+
+Nel verbo ayoreo la terza persona si forma in genere con il prefisso ch- (più raramente con t-); in pochi verbi si può formare con la sola radice. In ciò si può scorgere una certa complementarità tra nome e verbo, in quanto non esistono verbi con la terza persona formata mediante la vocale tematica e la radice: tale possibilità non è ammessa nella flessione verbale, mentre i nomi possedibili che formano la terza persona in questo modo, ossia i nomi ‘in vocale’, sono la classe flessiva più numerosa.
+La flessione possessiva del sostantivo è estremamente regolare e presenta poche eccezioni di cui si darà conto in seguito. Fino ad ora si è fornito uno schema generale del funzionamento morfologico della flessione possessiva; prima di analizzare nel dettaglio ciascuna classe flessiva bisogna precisare che lo schema segue un orientamento descrittivo; da un punto di vista meramente funzionale invece le considerazioni da farsi sono in parte diverse, perché, eccettuati i nomi e i verbi ‘in radice’, la vocale tematica si può considerare parte della radice. Nel corso di questo articolo ci si atterrà allo schema descrittivo proposto sopra. Un problema che ci si può porre è se a queste classi flessive corrispondano classi semantiche: l’analisi da me
+
+8
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+condotta ha riscontrato tale relazione solo per una sottoclasse di nomi ‘in consonante’ (v. §6.2). Si comincerà l’analisi dei nomi possedibili con la classe più prototipica, quella dei nomi ‘in vocale’
+5 I nomi ‘in vocale’
+I nomi ‘in vocale’ possono avere alla terza persona qualunque vocale tematica; il comportamento di quest’ultima segue quanto già osservato in Ciucci (2007/08a) a proposito del verbo. Si analizzeranno solo le prime tre persone, perché il comportamento della vocale tematica nel resto del paradigma segue sempre quello delle prime tre persone. La quarta persona infatti ha sempre la vocale tematica della prima; la quinta persona e la persona riflessiva prendono sempre la vocale tematica della seconda persona. Si tratta di corrispondenze alle quali non si sono riscontrate eccezioni e che, come si potrà osservare dagli esempi forniti in seguito, permangono anche quando in una delle prime tre persone si manifesta una qualche deviazione rispetto alle tendenze generali.
+A partire dalla vocale tematica della terza persona si può prevedere l’andamento della vocale tematica nelle altre persone. A tal proposito risulta fondamentale la distinzione tra vocali alte e no, già effettuata per la morfologia verbale (Ciucci 2007/08a): se la vocale di terza persona è una vocale non alta, ossia /a e o/, si mantiene sempre in tutto il resto del paradigma.
+(16) a. y-a-jóningai (1s), b-a-jóningai (2s), a-jóningai (3), d-a-jóningai (rfl), yoc-a-jóningai (1p), uac-a-jóningai (2p) ‘denaro’
+b. y-e-rubi (1s), b-e-rubi (2s), e-rubi (3), d-e-rubierubi (rfl), yoqu-e-rubi (1p), uaqu-e-rubi (2p) ‘orina’
+c. y-o-ji (1s), b-o-ji (2s), o-ji (3), d-o-ji (rfl), yoc-o-ji (1p), uac-o-ji (2p) ‘arco’
+Se invece la vocale tematica è una vocale alta, ossia /i/ o /u/, diviene /a/ alla seconda persona (17), con le poche eccezioni che si segnaleranno (v. infra).
+(17) a. y-i-rodipídi (1s), b-a-rodipídi (2s), i-rodipídi (3), d-a-rodipídi (rfl), yoqu-i-rodipídi (1p), uac-a-rodipídi (2p) ‘nascondiglio’
+b. y-u-rêjai (1s), b-a-rêjai (2s), u-rêjai (3), yoc-u-rêjai (1p), uac-a-rêjai (2p) ‘fratello maggiore’
+9
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+Tra i nomi aventi vocale tematica alta /i/ si nota una subregolarità, perché esistono alcuni sostantivi che hanno /e/ invece di /a/ alla seconda persona singolare (e quindi anche alla quinta e alla terza riflessiva).
+(18) a. y-î-carai (1s), b-ê-carai (2s), î-carai (3), d-ê-carai (rfl), yoqu-î-carai (1p), uaqu-ê-carai (2p) ‘cosa o persona che è nominata / menzionata’
+b. y-i-dai (1s), b-e-dai (2s), i-dai (3), d-e-dai (rfl), yoqu-i-dai (1p), uaqu-e-edai (2p) ‘villaggio’
+c. y-i-joi (1s), b-e-joi (2s), i-joi (3), d-e-joi (rfl), yoqu-i-joi (1p), uaqu-e-joi (2p) ‘luogo o persona visitato di frequente’
+d. yi (1s), bei (2s), i (3), dei (rfl) ‘nome’
+Questa subregolarità non è esclusiva dei nomi ‘in vocale’, ma la si ritroverà anche con alcuni nomi ‘in consonante’ (v. infra); casi di questo tipo sono comunque poco frequenti nella morfologia possessiva dell’ayoreo. Bisogna segnalare che i ‘nome’ (18d), anche a causa del suo ridotto corpo fonico, è uno dei pochissimi sostantivi difficilmente inquadrabili in una delle tre classi flessive identificate; alla seconda persona /i/ non viene soprascritto da /e/, ma si conserva; supponendo che il mutamento della vocale tematica della seconda persona sia originato da una vocale del prefisso che ha soprascritto la vocale alta, in questo sostantivo sarebbe rimasta una traccia della fase in cui la vocale di terza persona non era stata ancora soprascritta dalla vocale del prefisso (in tal caso /e/).9
+Nella flessione possessiva di ujoi ‘compagno’ la vocale tematica della seconda persona è /o/ invece di /a/ come ci si aspetterebbe.
+(19) y-u-joi (1s), b-o-joi (2s), u-joi (3), d-o-joi (rfl), yoc-u-joi (1p), uac-o-joi (2p) ‘compagno’
+In ujoi si incontra probabilmente lo stesso tipo di fenomeno degli esempi in (18); in entrambi i casi al posto della vocale tematica /a/ alla seconda persona si incontra una vocale media: si ha la vocale media anteriore /e/ in corrispondenza della vocale alta anteriore /i/ alla terza persona (18), mentre la vocale media posteriore /o/ corrisponde alla vocale posteriore alta /u/ alla terza persona (19).
+9 Queste considerazioni saranno oggetto di trattazione in altra sede.
+10
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+6 I nomi ‘in consonante’
+6.1 Prefissi /g/-, /p/- e /k/-
+I nomi ‘in consonante’ formano la terza persona mediante un prefisso consonantico e possono avere teoricamente qualunque vocale tematica alla terza persona.10 I prefissi più comuni sono /g/- (20a-b) e /d/- (20c); /d/ può essere nasalizzato in /n/ (20d).
+(20) a. y-ê-rapáidi (1s), b-ê-rapáidi (2s), gu-ê-rapáidi (3), d-ê-rapáidi (rfl), yoqu-ê-rapáidi (1p), uaqu-ê-rapáidi (2p) ‘sacrificio, dono’
+b. y-a-chidi (1s), b-a-chidi (2s), g-a-chidi (3), d-a-chidi (rfl) ‘animale domestico, mezzo di trasporto’11
+c. y-á-quide (1s), b-á-quide (2s), d-á-quide (3), d-á-quide (rfl), yoc-á-quide (1p), uac-á-quide (2p) ‘nonno’
+d. ñ-a-terâ (1s), m-a-terâ (2s), n-a-terâ (3), n-a-terâ (rfl) yoc-a-terâ (1p) uac-a-terâ (2p) ‘zia’
+Tornando per un attimo alla subregolarità osservata in (18) e (19) relativamente alla vocale tematica di seconda persona, tutti i sostantivi con prefisso /g/- e vocale tematica /i/ alla terza persona hanno /e/ alla seconda persona.
+(21) a. y-i-doboi (1s), b-e-doboi (2s), gu-i-doboi (3), d-e-doboi (rfl), yoqu-i-doboi (1p), uaqu-e-doboi (2p) ‘schiena’
+b. y-i-pei (1s), b-e-pei (2s), gu-i-pei (3), d-e-pei (rfl) ‘borsa rettangolare’ c. y-i-yai (1s), b-e-yai, gu-i-yai / i-yai (3), d-e-yai (rfl), yoqu-i-yai (1p),
+uaqu-e-yai (2p) ‘persona, cosa trovata’ d. y-i-yasốri (1s), b-e-yasốri (2s), gu-i-yasốri / i-yasốri (3), d-a-sốri (rfl),
+yoqu-i-yasốri (1p), uaqu-e-yasốri (2s) ‘persona che trova qualcosa’
+In (21d) guiyasốri ‘persona che trova qualcosa’ è derivato da guiyai (21c) ‘cosa trovata’; generalmente i nomi derivati hanno la stessa flessione possessiva del nome da cui derivano; in entrambi i casi esistono due alternative per la terza persona:
+10 Purtuttavia, non sono attestati per ora casi di nomi con vocale /o/ alla terza persona; inoltre nel comportamento morfologico della vocale tematica si registrano limitazioni e subregolarità che si analizzeranno a breve. 11 Come già osservato in §2.1, gachidi viene impiegato come classificatore possessivo.
+11
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+guiyasốri/iyasốri e guiyai/iyai; infatti la differenza tra classi flessive non è da intendersi sempre in maniera rigida e alcuni nomi possono appartenere contemporaneamente a due distinte classi flessive; si tratta però di un fenomeno idiosincratico e attestato per numero minoritario di sostantivi, tra i quali ve ne sono altri in /g/- come, ad esempio, gu-e-tesốri (3)/e-tesốri (3) ‘persona che odia’; ciò è giustificato dal fatto che, all’infuori del prefisso /g/- alla terza persona, i nomi in /g/non hanno proprietà morfologiche particolari che li distinguano dai nomi ‘in vocale’12 ed è perciò comprensibile che tendano a convergere verso la classe flessiva più numerosa, nonché l’unica ancora produttiva, quella dei nomi ‘in vocale’ appunto. Questa tendenza alla regolarizzazione e la presenza di /e/ come vocale tematica di seconda persona indicano che i nomi in /g/- sono una sottoclasse recessiva. Tra i nomi in /d/-, che, come si vedrà tra poco, hanno alcune peculiarità che li distinguono dai nomi ‘in vocale’, non sono attestati invece casi di nomi che appartengano contemporaneamente a due classi flessive.
+Esistono inoltre pochi sostantivi in cui emergono altri elementi che hanno funzione di prefisso, quali /k/- (22a) e /p/- (22b).13
+(22) a. y-a-cadi (1s), b-a-cadi (2s), c-a-cadi (3), d-a-cadi (rfl), yoc-a-cadi (1p), uac-a-cadi (2p) ‘atto di entrare’
+b. y-i-bijnai (1s), b-a-bijnai (2s), p-i-bijnai (3), d-a-bijnai (rfl), yoqu-i-bijnai (1p), uac-a-bijnai (2p) ‘grido’
+6.2 Prefissi /d/- e /n/-
+Il gruppo dei nomi in /d/-, /n/- riveste un certo interesse, in primo luogo per motivi semantici: quasi tutti i nomi attestati in questo gruppo indicano relazioni di parentela.14 Un’altra proprietà comune a questo gruppo è che tutti i suoi nomi hanno vocale tematica /a/ o /e/ alla terza persona; dato l’impiego del prefisso /d/ sia alla terza persona che alla persona riflessiva e il permanere della stessa vocale tematica in entrambe le persone (trattandosi di /a/ ed /e/), l’ovvia conseguenza è un’indistinzione tra terza persona e persona riflessiva, che dunque coincidono.
+12 La stessa particolarità della vocale tematica di seconda persona notata poc’anzi è condivisa anche dai nomi ‘in vocale’ (18). 13 Questi due sostantivi sono probabilmente originarie forme non possedibili rianalizzate (v. infra). 14 Poiché in questo contesto la distinzione tra /d/ e /n/ dipende dall’eventuale nasalizzazione del prefisso, d’ora in poi ci si riferirà a questo gruppo parlando di nomi in /d/-.
+12
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+(23) a. y-a-jai (1s), b-a-jai (2s), d-a-jai (3), d-a-jai (rfl) ‘fratello’ (anche: dajaté) b. ñ-a-quêra (1s), m-a-quêra (2s), n-a-quêra (3), n-a-quêra (rfl) ‘zio, fratello del padre’ c. y-e-sai (1s), b-e-sai (2s), d-e-sai (3), d-e-sai (rfl) ‘fratello più giovane’
+Tra i nomi in /d/ l’unica eccezione a quanto detto sopra è rappresentata da ducari ‘filo’; questo è l’unico esempio che non esprime rapporti di parentela e che ha vocale tematica /u/ alla terza persona; pertanto nel paradigma di ducari (24a) si ha distinzione morfologica tra terza persona e persona riflessiva. Il fatto che, con l’eccezione di ducari, tutti i nomi in /d/- siano nomi in di parentela, non significa che tutti i nomi di parentela siano nomi in /d/-, ad esempio ejo ‘suocera’ (24b) è un nome ‘in vocale’ che esprime una relazione di parentela.
+(24) a. y-u-cari (1s), b-a-cari (2s), d-u-cari (3), d-a-cari (rfl) ‘filo’ b. y-e-jo (1s), b-e-jo, e-jo (3), d-e-jo (rfl) ‘suocera’
+Una caratteristica comune a buona parte dei nomi in /d/- è la presenza di subregolarità o eccezioni alla prima persona singolare. Alcuni nomi presentano una vocale tematica inedita alla prima persona singolare, per cui si ha /i/, laddove ci si aspetterebbe /a/ o /e/. Ciò è dovuto probabilmente al fatto che la forma di terza persona è stata assimilata dalla persona riflessiva e quindi alla prima persona si sarebbe mantenuta la vocale tematica originariamente presente anche alla terza.
+(25) a. y-î-sarai (1s), b-â-sarai (2s), n-a-sarai (3), n-a-sarai (rfl), yoqu-î-sarai (1p), uac-â-sarai (2p) ‘genero’ uac-a-caria (2p) ‘nuora’
+c. y-i-jnóngamia (1s), b-a-jnóngamia (2s), d-a-jnóngamia (3), d-a-jnóngamia (rfl),
+yoqu-i-jnóngamia (1p), uac-a-jnóngamia (2p) ‘zia, sorella del padre’ d. y-i-jnongaté (1s), b-a-jnongaté (2s), d-a-jnongaté (3), d-a-jnongaté (rfl),
+yoqu-i-jnongaté (1p), uac-a-jnongaté (2p) ‘zia, sorella del padre’
+In altri sostantivi si segnalano ulteriori irregolarità alla prima persona: date ‘mamma’, (26a) ha una forma regolare yate alla prima persona, ripresa poi dalla quarta nella vocale tematica; a yate si alterna anche una forma irregolare ite, dunque
+13
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+con mutamento della vocale tematica in /i/; a ite, che potrebbe essere una forma più antica15 non si può aggiungere il prefisso y- in quanto, come segnalano Highams et al. (2000), verrebbe a coincidere con yite (‘scroto’ 1s) (26b). In dacode ‘nonna’ (26c) e nena ‘sorella’ (26f), si ha il già osservato mutamento di vocale tematica in /i/ alla prima persona. In dacode ‘nonna’ (26c) però tale forma si alterna con code, in cui manca la prima sillaba; daquide (o anche: dáqui) ‘nonno’ (26d) ha invece una flessione perfettamente regolare; in nena (26f) il mutamento nella vocale tematica è accompagnato dalla perdita di y-. In (26g) si riportano le varie forme per ‘padre’.
+(26) a. y-a-té / i-té (1s), b-a-té (2s), d-a-té (3), d-a-té (rfl), yoc-a-té (1p), uac-a-té (2s) ‘mamma’
+b. y-i-té (1s), b-e-té (2s), gu-i-té (3), yoqu-i-té (1p), uaqu-e-té (2p) ‘scroto’ c. codé (1s), b-a-code (2s), d-a-code (3), d-a-code (rfl), yoqu-i-code (1p),
+uac-a-code (2p) ‘nonna’ d. y-á-quide (1s), b-á-quide (2s), d-á-quide (3), d-á-quide (rfl), yoc-á-quide (1p),
+uac-á-quide (2p) ‘nonno’ e. i-tigade / y-i-tigade (1s), b-a-tigade (2s), d-a-tigade (3), d-a-tigade (rfl),
+yoqu-i-tigade (1p), uac-a-tigade (2p) ‘fratello maggiore’ f. i-na (1s), b-e-na (2s), n-e-na (3), n-e-na (rfl), yoqu-ê-ro (1s),16
+uaqu-ê-ro (2s) ‘sorella’ g. i-a-pade / y-a-pade / yai (1s), b-ai / b-aye (2s) d-ai / d-a-yé (3/rfl),
+yoc-ai (1p), uac-ai (2p) ‘padre’17
+Anche se la maggior parte dei prefissi consonantici hanno nel complesso poche attestazioni, bisogna notare come in quest’inventario non compaiano *ch- e *t-, che invece si impiegano per il verbo; alla terza persona, ossia alla forma base della flessione verbale e della flessione possessiva, vi è dunque una complementarità tra prefissi, funzionale al riconoscimento della categoria grammaticale.
+6.3 Irregolarità e prefissi apparenti
+15 Si esporrà in altra sede il confronto con le altre lingue zamuco; per ora basti anticipare che ote è attestato in Chomé (1958: 142). 16 Questa parola si impiegherebbe, secondo Highams et al. solo al singolare; per il plurale si impiegano le forme di nero ‘sorella’: yoquero (1p), uaquero (2p). 17 Alla prima persona iapade e yapade sono soltanto varianti ortografiche.
+14
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+Si segnalano qui alcune irregolarità che in apparenza potrebbero sembrare nomi ‘in consonante’. In (27b-c) si hanno alcuni nomi derivati da yui (27a), parola che ha tre significati: (1) può essere un elemento nominale usato in funzione di posposizione (‘verso, in direzione di’); (2) può voler dire ‘presenza (di qualcuno)’; (3) può riferirsi a ‘che è ucciso, intrappolato, vinto’. Yui (27a) è una forma irregolare, non inquadrabile in nessuna classe flessiva, come i ‘nome’ (18d), con cui condivide la forma alla seconda persona. Si noti che i suoi derivati (27b-c) sono assimilabili a dei nomi ‘in consonante’ aventi y- come prefisso di terza persona e un comportamento della vocale tematica irregolare: /i/ (1) - /e/ (2) -/u/ (3).
+(27) a. yi (1s), bei (2s), yui (3), dei (rfl), yoqui (1p), uaquei (2p) ‘in direzione di; presenza di qualcuno; vittima’
+b. y-i-minóri (1s), b-e-minóri (2s), y-u-minóri (3), d-e-minóri (rfl), yoqu-i-minóri (1p), uaqu-e-minóri (2p) ‘cosa o persona che si trova in direzione di’
+c. y-i-pídi (1s), b-e-pídi (2s), y-u-pídi (3), d-e-pídi (rfl), yoqu-i-pídi (1p), uaqu-e-pídi (2p) ‘ferita’
+d. y-i-sốri (1s), b-e-sốri (2s), y-u-sốri (3), d-e-sốri (rfl), yoqu-i-sốri (1p), uaqu-e-sốri (2p) ‘assassino’
+e. y-i-ngóri (1s), b-e-ungóri (2s), y-u-ngóri (3), d-e-ngóri (rfl), yoqu-i-ngóri (1p), uaqu-e-ungóri (2p) ‘assassino’
+Anche uéchai ‘oltre, al lato opposto’ (28) e i suoi derivati come uéchaminóri ‘ciò che è al lato opposto’ hanno /e/ alla seconda persona. Uéchai in base al suo paradigma è apparentemente analizzabile come nome con prefisso semiconsonantico /w/- alla terza e alla seconda persona; in realtà, come si può osservare alla prima persona singolare e plurale (per le quali non si indica la scomposizione morfologica), il paradigma risulta ‘ibrido’; anche qui la prefissazione è apparente, perché uéchai viene da uréchai per effetto della cancellazione di /ɹ/ intervocalica.18
+(28) yuéchai (1s), b-échai (2s) u-échai (3) d-é-chai (rfl) yocuéchai (1p), uaqu-é-chai (2p) ‘oltre, dal lato opposto a’
+18 Riguardo a tale fenomeno si veda Bertinetto (2009).
+15
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+7 I nomi ‘in radice’
+I nomi ‘in radice’ formano la terza persona singolare mediante la pura radice; poiché manca una vocale tematica alla terza persona, nel resto del paradigma si inserisce una vocale di default che nella maggior parte dei casi corrisponde alla vocale che si avrebbe se la terza persona avesse /i/ come vocale tematica.
+(29) y-i-betigai (1s), b-a-betigai (2s), betigai (3), d-a-betigai (rfl), yoqu-i-betigai (1p), uac-a-betigai (2p) ‘moltitudine’
+Tuttavia, se la prima vocale della radice è /u/, nel resto del paradigma è presente la vocale tematica che si avrebbe se /u/ fosse vocale tematica di terza persona. Questo è uno dei frequenti, ma non sistematici, indizi della presenza di armonia vocalica in ayoreo.
+(30) y-u-jurúgaipidi (1s), b-a-jurúgaipidi (2s), jurúgaipidi (3), d-a-jurúgaipidi (rfl), yoc-u-jurúgaipidi (1p), uac-a-jurúgaipidi (2p) ‘prigione’
+Non vi sono regole che limitino l’inventario delle consonanti che si possono trovare in inizio di radice, dove sono attestate in pratica tutte consonanti /b/ (31a), /k/ (31b), /ʧ/(31c), /g/ (31d), /d/ (31e), /h/ (31f), /m/ (31g) /m̥ / (31h), /n/ (31i), /n̥/ (31j), /p/ (31k), /t/ (31l), /w/ (31m). Si tenga conto che in genere è attestato un numero limitato di sostantivi con radice cominciante in ciascuna delle consonanti qui riportate.
+(31) a. y-i-bai (1s), b-a-bai (2s), bai (3) ‘offesa; violazione di una regola; causa di sofferenza’
+b. y-i-casitigai (1s), b-a-casitigai (2s), casitigai (3) ‘coraggio’ c. y-i-chímeno (1s), b-a-chímeno (2s), chímeno (3) ‘trappola per pesci’ d. y-i-gaidi (1s), b-a-gaidi (2s), gaidi (3) ‘scopo, intenzione’ e. y-i-rosadi (1s), b-a-rosadi (2s), dosadi (3) ‘lato, parete’ f. y-i-jogasui (1s), b-a-jogasui (2s), jogasui (3) ‘famiglia’ g. y-i-mochadi (1s), b-amochadi (2s), mochadi (3) ‘letto’ h. ñ-i-jmanai (1s), m-a-jmanai (2s), jmanai (3) ‘mano’ i. y-i-rarané (1s), b-a-rarané (2s), narané (3) ‘scapola’ j. ñ-i-jnorai (1s), m-a-jnorai (2s), jnorai (3) ‘compagno’ k. y-i-petique (1s), b-a-petique (2s), petique (3) ‘parte del corpo’
+16
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+l. y-i-taroi (1s), b-a-taroi (2s), taroi (3) ‘parte superiore della testa’ m. y-u-hueratigai (1s), b-a-hueratigai (2s), ueratigai (3) ‘bellezza’19
+In questa classe flessiva possono verificarsi dei mutamenti nella radice procedendo dalla terza persona al resto del paradigma: si tratta di fenomeni sistematizzabili ma impredicibili che coinvolgono un numero limitato di sostantivi e presentano analogie con quanto accade nella morfologia verbale.
+Solo quando la radice inizia con /n/ e /d/ si verifica sempre un mutamento dalla terza persona al resto del paradigma (34, 35); in tutti gli altri casi esistono sempre sostantivi con i quali la vocale resta inviariata (31). Non ci si soffermerà sui sostantivi per i quali non interviene alcun mutamento consonantico dalla terza persona al resto del paradigma.
+Se la consonante iniziale è /p/ o /k/, questa può subire una sonorizzazione per cui /p/ > /b/ (32a) e /k/ > /g/ (32b-c); se la radice è nasalizzata, /b/ e /k/ possono inoltre nasalizzarsi rispettivamente in /m/ e /ŋ/, come accade con pâtarai (32d) e cârai (32e).
+(32) a. y-i-boti (1s), b-a-boti (2s), poti (3) ‘cibo’ b. y-i-gachodi (1s), b-a-gachodi (2s), cachodi (3) ‘luogo di morte’ c. y-u-gúchabujnai (1s), b-a-gúchabujnai (2s), cuchabujnai (3) ‘grande quantità di cose’ d. ñ-i-mâtarai (1s), m-a-mâtarai (2s), pâtarai (3) ‘dente’ e. y-i-ngarai (1s), b-a-ngarai (2s), cârai (3) ‘cosa tenuta da parte’
+Un fenomeno analogo si ha anche con i verbi ‘in radice’,20 dove è possibile che /p/ > /b/ (33a); in maniera simile, nel verbo è attestato /k/ > /g/ > /ŋ/ per effetto della radice nasalizzata (33b). Ciò non si verifica con ogni radice cominciante in /k/ (33c) o /p/ (33d).
+19 In questo caso <h> viene inserito come diacritico in Highams et al. (2001) per separare la radice dalla vocale tematica. 20 Si sono chiamati verbi a ‘prefisso nullo’ in Ciucci (2007/08a); tuttavia, anche alla luce degli studi sul verbo del chamacoco (v. Ciucci 2009a), sembra più appropriata la denominazione di verbi ‘radicali’ (o ‘in radice’), in quanto non sono solo privi di prefisso, ma anche di vocale tematica. Chiamare tali verbi ‘a prefisso nullo’ può essere corretto riferendosi al solo ayoreo; ma se si vuol elaborare una terminologia che possa rivelarsi adeguata a tutta la famiglia zamuco ciò risulta ambiguo, poiché in chamacoco l’insieme dei verbi senza prefisso include sia verbi con terza persona avente la sola radice, sia con la terza persona formata da radice e vocale tematica (Ciucci 2009a).
+17
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+(33) a. y-i-bo (1s), b-a-bo (2s), po (3), y-i-bó-go (1p), uac-a-bó-yo (2p) ‘piangere, singhiozzare’
+b. y-i-ngana (1s), b-a-ngana (2s), cana (3), y-i-nganá-ngo (1p), uac-a-nganá-ño (2p) ‘ridere’
+c. ñ-i-cốra (1s), m-a-cốra (2s), cốra (3), ñ-i-cốra-ngo (1p), uac-a-cốra-ño (2s) ‘cadere’
+d. ñ-i-pojna (1s), m-a-pojna (2s), pojna (3), ñ-i-pojná-ngo (1p), uac-a-pojná-ño (2p) ‘arrabbiarsi’
+La prima consonante della radice può subire una lenizione rotacizzandosi: ciò si verifica con /d/, /n/ e /g/;21 pertanto /d/ > /ɹ/ (34a-b), /n/ > /ɹ/ (34c) e /g/ > /ɹ/ (34d). Vi sono pochissimi sostantivi in cui /d/ > /ɹ/ o /n/ > /ɹ/; nondimeno si tratta di fenomeni attestati anche nel verbo (35).
+(34) a. y-i-rosadi (1s), b-a-rosadi (2s), dosadi (3) ‘lato, parete’ b. y-i-ríringai (1s), b-a-ríringai (2s), diringai (3) ‘arrivo’ c. y-i-rarané (1s), b-a-rarané (2s), narané (3) ‘scapola’ d. y-i-rídai (1s), b-a-rídai (2s), guídai (3) ‘piede’
+(35) a. ñ-i-rí (1s), m-a-rí (2s), di (3), ñ-i-rí-ngo (1p), uac-a-rí-ño (2p) ‘arrivare’ b. ñ-i-rîji (1s), m-a-rîji (2s), nîji (3), ñ-i-rîji-ngo (1p), uac-a-rîji-ño (2p)
+‘svegliarsi’
+Narané (34c) è tra i pochi sostantivi attestati con radice in /n/; per quanto riguarda invece i sostantivi con radice in /d/, oltre a dosadi e diringai si segnala anche doringai22 ‘partenza’ che si alterna a coringai, forma base ripresa nel resto della flessione possessiva della parola (36).
+21 Ovviamente presupponendo un meccanismo di formazione morfologica che vada dalla terza persona al resto del paradigma; nulla vieta però di scegliere un punto di vista diametralmente opposto, ossia dal resto del paradigma alla terza persona e di parlare di “derotacizzazione dovuta alla fortizione della consonante in posizione iniziale” (Ciucci 2007/08a). 22 Di questo sostantivo è attestata anche la variante doringui / coringui (3) che condivide la flessione con doringai /coringai (3). Si noti poi il rapporto di antinomia tra diringai (3) ‘arrivo, venuta’ e doringai (3) ‘partenza’; la loro flessione tuttavia segue regole diverse (v. es. (34b) e (36)).
+18
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+(36) y-i-coringai (1s), b-a-coringai (2s), coringai / doringai (3) ‘partenza’
+Non in tutti i nomi con radice in /g/ accade che /g/ > /ɹ/: in taluni /g/ rimane tale (31d), mentre in gai /g/ > /b/ (37a); gai può sia voler dire ‘corpo’, sia essere un nome che svolge il ruolo si posposizione (‘sopra’); /g/ > /b/ > /m/ quando la radice è nasalizzata (37b), ossia in gaiminori ‘ciò che sta sopra’ derivato da gai.23
+(37) a. y-i-bai (1s), b-a-bai (2s), gai (3) ‘corpo; sopra’ b. y-i-maminóri (1s), b-a-maminóri (2s), gaminóri (3) ‘ciò che sta sopra’
+In alcuni nomi con radice in ch- (/ʧ/-), /ʧ/ > /j/ nel resto del paradigma (38a-b). Esistono anche verbi ‘in radice’ in cui /ʧ/ > /j/ (39). In Ciucci (2007/08a) si ponevano questi verbi come eccezioni ed era stata ipotizzata una cancellazione sillabica, sulla scorta del fatto che ch- (/ʧ/-) è prefisso verbale; si trattava dell’ipotesi più plausibile tenendo conto della sola morfologia verbale: i dati della flessione possessiva permettono di riaprire la questione. I nomi in (38) sono nomi ‘in radice’, non essendo documentato nessun caso in morfologia nominale in cui /ʧ/ ha il ruolo di prefisso; sono attestati anche pochi nomi ‘in radice’ comincianti in /ʧ/ che però non subiscono mutamenti fonentici, come ad esempio chímeno ‘trappola per pesci’ (31c); per quanto concerne il verbo, non sono attestati verbi ‘in radice’, caratterizzati dalla radice cominciante in /ʧ/ che si mantiene anche nel resto del paradigma. Se è legittimo mettere sullo stesso piano morfologia nominale e verbale, i dati della flessione possessiva mostrerebbero dunque che i verbi in /ʧ/, almeno dal punto di vista sincronico, sarebbero da considerarsi verbi ‘in radice’ nei quali /ʧ/ > /j/.
+(38) a. y-i-yaguhei (1s), b-a-yaguhei (2s), chaguhei (3) ‘fame’ b. y-i-yaridi (1s), b-a-yaridi (2s), charidi (3) ‘luogo di sosta’ c. y-i-yaripi (1s), b-a-yaripi (2s), charipi (3) ‘sedia, sella’
+(39) a. y-i-yague (1s), b-a-yague (2s), chague (3), y-i-yágue-go (1p), uacayágueyo (2p) ‘alzarsi’
+b. y-i-yó (1s), b-a-yó (2s), chó (3), y-i-yó-go (1p), uac-a-yó-yo (2p) ‘volare, saltare’
+23 Non sono attestati altri casi in cui /g/ > /b/.
+19
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+
+8 Forma non possedibile
+
+8.1 Significato e impiego della forma non possedibile
+Fino ad ora si è parlato della flessione possessiva; oltre a questa, l’intera flessione del nome comprende, in prefissazione, anche una forma non possedibile. Quando per motivi pragmatici non si può o non si vuole esprime il possessore, il nome è flesso alla forma non possedibile, la cui morfologia sarà analizzata qui di seguito. Per ora si analizzi la differenza d’impiego tra forme flesse e forme possedibili: in (40) si conosce il possessore dell’arma (coreferente con il soggetto) che è regolarmente espresso della flessione possessiva, mentre in (41) si parla dell’acquisto di un’arma che al momento non ha ancora un possessore e si usa pertanto la forma non possedibile poca (nps);
+
+(40) ¡Ijínome y-iboca querua iji y-iguíjna-i te
+1.lasciare 1-arma.F.S grande.F.S LOC 1-casa-M.S.FP questa
+“Ho lasciato il mio fucile a casa!” (QCCB I: 47)
+
+que!
+PST
+
+(41) Ueradí-pise aro-i.
+
+Ujétiga asiome enga y-iji ore tome
+
+bello-ELAT 3.pelle-M.S.FP se
+
+2.consegnare COOR 1-portare 3.PL PREP.in cambio di
+
+poca querua ome ua iji Riberalta jne.
+
+arma.F.S grande.F.S PREP 2S LOC Riberalta FUT
+
+“Che bella pelle, se me la dai, ti compro un fucile a Riberalta” (QCCB I: 37)
+
+In (42) per ‘casa’ si usa la forma non possedibile guiguijnai in quanto non si menziona il possessore della casa, che probabilmente è ignoto; invece in (43) il padrone della casa (Don Felipe) è conosciuto ed espresso: si utilizza pertanto la flessione possessiva del sostantivo.
+
+(42) Eduguéjna-i ch-igaru aja gu-iguíjna cutade enga e ore mo.
+3.guardia.M.S.FP 3-legare LOC NPS-casa.M.S.FB palo.F.S COORD già 3P 3.dormire
+“La guardia lo lega al palo della casa e vanno a dormire” (QCCB I: 9)
+
+(43) Don Felipe todo
+
+ujétiga piro-i t-agu i-guíjna-i
+
+Don Felipe 3.avere_paura COMP fuoco.M.S.FP 3-mangiare 3-casa-M.S.FP
+
+“Don Felipe ha paura che il fuoco gli divori la casa” (QCCB I: 55)
+
+20
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+
+Nello stesso modo guidai ‘villaggio’ è una forma non possedibile che non esprime alcuna relazione con chicchessia (44); al contrario la corripondente forma possessiva di terza persona idai esprime una relazione genitivale, per cui in (45) si parla del ‘villaggio del missionario’.
+
+(44) Jesús basí-ji gu-ida-i
+
+Belen
+
+Gesù 3.nasce-LOC NPS-villaggio-M.S.FP Betlemme
+
+“Gesù nasce nel villaggio di Betlemme.” (NTM: 3)
+
+(45) Mu e idaja
+
+iji misionero i-dai.
+
+ma già lontano.M.S.FB LOC missionario 3-villaggio-M.S.FP
+
+“Ma è già lontano dal villaggio del missionario.” (QCCB II: 41)
+
+Per concludere, vediamo in (46) e (47) l’impiego della parola ‘morte’; in (46) c’è un referente con il quale la morte è in relazione; pertanto, intendendola in senso per così dire ‘generale’, si usa la forma non possedibile pitoringai. In (47) invece si parla della morte di qualcuno (‘la morte di Erode’). Per la terza persona dello stesso sostantivo è possibile sia la forma ‘in vocale’ itoringai, molto più frequente, sia la forma radicale toringai; si tratta di un caso di alternanza reso possibile anche dal fatto che la forma non possedibile sia pitoringai: si vedrà in seguito che per alcuni nomi la differenza morfologica tra forma ‘in radice’ e forma ‘in vocale’ viene invece impiegata per esprimere il contrasto tra forma non possedibile e terza persona (per es.: plata (nps) ‘denaro’ vs. iplata (3sg) ‘denaro’).
+
+(46) Atodo p-itoringa-i te a?
+2.avere_paura NPS-morte-M.S.FP questo EPST
+“Temi la morte?” (Bertinetto, note di campo a partire da IP)
+
+(47) Enga chi ore ch-áji te, jé_aja Heródes i-toringa-i.
+COORD EVID 3P 3-fermarsi là, fino Erode 3-morte-M.S.FP
+“E si fermano là fino alla morte di Erode” (NTM: 5-6)
+8.2 Morfologia della forma non possedibile
+Delineate la differenze di uso e significato tra flessione possessiva e forma non possedibile, veniamo ora alla formazione morfologica di quest’ultima. Finora si è detto che la forma di terza persona è la forma base della flessione possessiva; parlando
+
+21
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+invece della forma non possedibile, si è al di fuori del dominio della flessione possessiva. I rapporti morfologici tra forma non possedibile e flessione possessiva sono irregolari ed imprevedibili, ma riconducibili comunque a delle casistiche ben precise. Tali rapporti saranno definiti confrontando la forma non possedibile con la terza persona, forma base della flessione possessiva. Nella maggior parte dei casi la terza persona sembrerebbe costituire la forma base anche della forma non possedibile; in altri invece sembrerebbe che la terza persona e quindi il resto della flessione possessiva si ricavino a partire della forma non possedibile.
+Si comincerà l’analisi delle forme non possedibili partendo dai casi più frequenti, ossia quelli in cui la forma non possedibile si ottiene a partire dalla terza persona. Il modo più comune di ottenere la forma non possedibile consiste nell’impiego di un prefisso che, come i prefissi della flessione possessiva e verbale, si applica al tema; con i sostantivi di tutte le tre classi flessive il prefisso si comporta come se fosse un normale prefisso possessivo. La vocale tematica della forma non possedibile è in genere la stessa che caratterizza l’andamento della vocale tematica nella flessione possessiva ed anche nei nomi ‘in radice’ è comunque sempre espressa alla prima persona. In (48) si notano le forme non possedibili ottenute con il prefisso p-, quello maggiormente impiegato, con nomi ‘in vocale’ (48a-b), nomi ‘in consonante’ (48c-d) e nomi ‘in radice’ (48e-k)
+(48) a. a-cadisốri (3); p-a-cadisốri (nps) ‘maestro’ b. i-caniratiguei (3); p-i-caniratiguei (nps) ‘gentilezza, generosità’ c. g-a-todé (3); p-a-todé (nps) ‘testa’ d. gu-e-rani (3); p-e-rani (nps) ‘dono’ e. casitigai (3); p-i-casitigai (nps) ‘coraggio’ f. gabi (3); p-i-gabi (nps) ‘sentiero’ g. guídai (3); p-i-rídai (nps) ‘piede’ h. gai (3); p-i-bai (nps) ‘corpo’ i. poti (3); p-i-boti (nps) ‘cibo’ j. charipi (3); p-i-yaripi (nps) ‘sedia, sella’
+Come si può osservare in (48g-j), con i nomi ‘in radice’, dalla terza persona alla forma non possedibile si verificano nella radice gli stessi mutamenti che si sono notati dalla terza persona al resto della flessione possessiva. Ciò conferma appunto l’affermazione di poc’anzi, secondo la quale i prefissi della forma non possedibile si
+22
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+comportano come normali prefissi della flessione possessiva. La vocale che caratterizza l’andamento della vocale tematica nella flessione possessiva è impiegata anche nella forma non possedibile; in genere questa vocale è quella di terza persona, ma non tutti i nomi hanno la vocale tematica alla terza persona. Inoltre le vocali tematiche di prima e di terza persona in alcuni nomi possono differire (v. per es. (25) e (26));24 in questo caso parrebbe che la vocale impiegata per la forma non possedibile sia quella della prima persona, come si può osservare ad esempio in (49) con dacaria ‘nuora’, la cui forma non possedibile è picaria.
+(49) a. p-i-caria (nps); y-i-caria (1s), b-a-caria (2s), d-a-caria (3) ‘nuora’
+A proposito della terza persona, si è notato che il meccanismo di formazione non sempre è da intendersi in maniera rigida e che, sia pure in un numero ristretto di casi, talvolta sono possibili due alternative. Tali considerazioni valgono anche per la forma non possedibile, come si può vedere in (50), dove alla forma non possedibile ottenuta mediante il prefisso p- se ne può alternare un’altra (di un tipo che si analizzerà in seguito).
+(50) a. p-ocaningai (nps), jocaningai (nps), i-jocaningai (3) ‘guerra’ b. p-ocojñai (nps), g-o-jñai (nps), o-jñai (3) ‘storia, racconto, discorso’ c. p-î-rijíningai (nps), nijíningai (nps), î-rijíningai (3) ‘atto di svegliarsi’
+Un altro modo di ottenere la forma non possedibile, è utilizzare un prefisso dVk-, in cui V corrisponde alla vocale tematica che caratterizza la flessione (v. supra).
+(51) a. dac-a-jnei (nps) ‘possesso, dono’, g-a-jnei (3) b. dac-á-jningai (nps) ‘rabbia, indignazione’, á-jningai (3) c. dequ-e-jnarei (nps) ‘malattia’, e-jnarei (3) d. diqu-i-roi (nps) ‘impiegato, lavoratore’, i-roi (3) e. doc-o-gué (nps) ‘bastone’, o-gué (3) f. duc-u-niri (nps) ‘territorio’, u-niri (3)
+24 In questi nomi molto probabilmente la terza persona è stata assimilata dalla persona riflessiva, quindi la vocale tematica di prima persona sarebbe in realtà la vocale tematica originaria della terza persona (v. infra).
+23
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+Si tratta di un interessante fenomeno di armonia vocalica che in prefissazione trova un parallelo in chamacoco, nel prefisso tVk-, in cui V corrisponde in genere alla vocale tematica che caratterizza il paradigma (Ciucci 2009a).
+(52) a. tak-a-tskɨr (1s), t-a-tskɨr (3) ‘lottare’ b. tok-o-rmɨhɨ (1s), t-o-rmɨhɨ (3) ‘ungere’ c. tuk-u-rka (1s), t-u-rka (3) ‘dondolare’ d. tɨk-ɨ-tɨrâha (1s), t-ɨ-tɨrâha (3) ‘sputare’
+Si hanno poche eccezioni in cui la vocale del prefisso differisce dalla vocale tematica del paradigma, osservabile quindi anche nella forma non possedibile (53).
+(53) a. duc-a-rané (nps); g-a-rané (3) ‘cosa che è scartata’ b. duc-o-de (nps); o-de (3) ‘tomba’ c. duc-a-yoi (nps); a-yoi (3) ‘fascia ornamentale indossata dagli uomini ayoreo’
+Questo modo di ottenere la forma non possedibile è meno frequente rispetto al prefisso p-, ma per alcuni sostantivi sono attestate entrambe le forme (54).
+(54) a. a-rei (3), dac-a-rei (nps), p-a-rei (nps) ‘lingua’ b. gu-e-rani (3), dequ-e-rani (nps), p-e-rani (nps) ‘dono’ c. u-cherángai (3), duc-u-cherángai (nps), p-u-cherángai (nps) ‘ciò che è aperto’
+Alcuni nomi ‘in vocale’ si servono del prefisso /g/ per la forma non possedibile (55). In (55f) si ha una vocale tematica inaspettata alla forma impossedibile, probabilmente in seguito alla cancellazione di /ɹ/ intervocalica ed /u/ che cade.
+(55) a. a-serani (3), g-a-serani (nps) ‘tavolo’ b. a-toje (3), g-a-toje (nps) ‘cappello’ c. i-dai (3), gu-i-dai (nps) ‘villaggio’ d. i-guíjnai (3), gu-i-guíjnai (nps) ‘casa’ e. o-jñai (3), g-o-jñai (nps) ‘storia, racconto, discorso’ f. y-u-rague (1s), b-a-rague (2s), u-rague (3), g-a-gue (nps) ‘gruppo’
+Infine, orachai forma il non possedibile mediante il prefisso /k/: corachâi.
+24
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+(56) õ-ráchai (3), c-õ-ráchai (nps) ‘arma’
+In conclusione, si sono individuati i seguenti prefissi per esprimere il non possedibile: /p/-, /dVk/-, /g/- e /k/-.
+Nei sostantivi osservati finora la forma non possedibile si costruisce partendo dalla terza persona possessiva; ci si occuperà adesso di quei casi in cui la forma di terza persona si costruisce a partire dalla forma non possedibile. In tal caso la terza persona rimane comunque la forma di base della flessione possessiva, ma è a sua volta dipendente dalla forma non possedibile.
+Quando la forma non possedibile è la forma base della terza persona, comincia in consonante e coincide con la pura radice del sostantivo. Per ottenere la terza persona si inserisce una vocale tematica di default che in genere è /i/ (57). Se la prima vocale della radice è /u/, si aggiungerà /u/ alla terza persona (58). A partire dalla terza persona, la flessione possessiva segue le regole esposte sopra.
+(57) a. pámoi (nps) ‘cintura per sedersi’, i-pámoi (3) b. quesei (nps) ‘coltello’, i-quesei (3)
+(58) a. júbei (nps) ‘grande borsa (da donna)’, u-júbei (3) b. púpuria (nps) ‘corno di vacca’, u-púpuria (3)
+Non sembrano esservi limiti fonetici all’inventario delle consonanti ammesse all’inizio di radice delle forme non possedibili; sono attestati nomi comincianti in /b/(a), /k/(b), /d/(c), /g/(d), /h/(e), /m/(f), /m̥ /(g), /n/(h), /p/(i), /s/(j), /t/(k).
+(59) a. bora(i)die (nps), y-i-bora(i)die (1S), b-a-bora(i)die (2S), i-bora(i)die (3) ‘vestiti’
+b. cáiguei (nps), y-i-cáiguei (1s), b-a-cáiguei (2s), i-cáiguei (3) ‘sputo’ c. dojnóngabátigai (nps), y-i-dojnóngabátigai (1s), b-a-dojnóngabátigai (2s),
+i-dojnóngabátigai (3) ‘insulti, calunnie, critiche’ d. guebé (nps), y-i-guebé (1s), b-a-guebé (2s), i-guebé (3)
+‘arma di ferro, machete’ e. jocaningai (nps), y-i-jocaningai (1s), b-a-jocaningai (2s), i-jocaningai (3)
+‘guerra’ f. morijnai (nps), y-i-morijnai (1s), b-a-morijnai (2s), i-morijnai (3) ‘pipa’ g. jmongarájasốri (nps), y-i-jmongarájasốri (1s), b-a-jmongarájasốri (2s),
+25
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+i-jmongarájasốri (3) ‘persona che minaccia’ h. nejénamáni (nps), y-i-nejénamáni (1s), b-a-nejénamáni (2s), i-nejénamáni (3)
+‘persona invitata’ i. popei (nps), y-i-popei (1s), b-a-popei (2s), i-popei (3) ‘pettine’ j. sirobi (nps), y-i-sirobi (1s), b-a-sirobi (2s), i-sirobi (3) ‘brama di carne’ k. tijabádi (nps), y-i-tijabádi (1s), b-a-tijabádi (2s), i-tijabádi (3)
+‘cosa che causa stupore’
+In genere la consonante iniziale si mantiene passando dalla forma non possedibile alla terza persona; vi sono però alcuni casi in cui compaiono gli stessi fenomeni già osservati con i nomi ‘in radice’; si può verificare cioè la sonorizzazione della consonante iniziale (con eventuale nasalizzazione): /k/ > /g/ (60a); /p/ > /b/ (60b). /d/ e /n/ possono rotacizzarsi in posizione intervocalica: /d/ > /ɹ/ (60c); /n/ > /ɹ/ (60d). Si noti che in tutti i nomi ‘in radice’ finora attestati comincianti per /d/ e /n/, queste consonanti subiscono sempre una rotacizzazione; al contrario ciò non si verifica sempre passando dalla forma non possedibile alla terza persona, come si può osservare in (59c) e (59h). Choquijnai significa ‘uomo anziano’ e a questa forma si può far corrispondere la flessione possessiva di iyoquijnai (3), parola che significa ‘suocero’ e viene impiegata anche da una moglie per riferirsi affettuosamente al proprio marito (lett. ‘il vecchio’); con questa parola dunque /ʧ/ > /j/ (v. 38-39). Vi sono poi alcune eccezioni in cui compaiono fenomeni non attestati con i nomi possedibili ‘in radice’. Corángarâi ‘pala’ (60f) è un’eccezione in cui /k/ iniziale si spirantizza in /h/; pepei ‘coperta’ è la forma non possedibile di itarâpei (60g).
+(60) a. catíbei (nps); i-gatíbei (3) ‘cucchiaio’ b. púrudi (nps); u-burúdi (3) ‘ombra’ c. degúi (nps); i-rengúi (3) ‘accampamento, villaggio’ d. nijíningai (nps); î-rijíningai (3) ‘l’atto di svegliarsi’25 e. choquíjnai (nps) ‘uomo anziano’; i-yoquíjnai (3) ‘suocero’ f. corángarâi (nps); i-jorángarâi (3) ‘pala’ g. pepei (nps); itarâpei (3) ‘coperta’
+25 Questo sostantivo è derivato dal verbo nîji ‘svegliarsi’; nel nome, dalla forma non possedibile alla terza persona, si ha lo stesso fenomeno di rotacizzazione di /n/ iniziale che si verifica nel verbo nîji dalla terza persona al resto del paradigma: ñ-i-rîji (1s), m-a-rîji (2s), nîji (3) ‘svegliarsi’.
+26
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+La presenza di prestiti lessicali, quali cárpai ‘tenda’, pláta ‘denaro’, Dupade ‘Dio’, etc., testimonia che il meccanismo della flessione possessiva è ancora produttivo, nonostante il contatto linguistico sempre più pervasivo con il castigliano. Dupade ‘Dio, divinità’ può avere come forma di terza persona sia udupade che idupade. In (62) e (63) si hanno due esempi rispettivamente con la forma non possedibile pláta ‘denaro’ e con la sua terza persona possessiva ipláta. (61) a. cárpai (nps), i-cárpai (3) ‘tenda’
+b. Dupade (nps), i-dupade (3), u-dupade (3) ‘Dio, divinità’ c. pláta (nps), i-pláta (3) ‘soldo, denaro’
+(62) Jecute ore ch-isiome plata-die ome Napoleon.
+allora 3P 3-consegnare denaro-F.P.FP PREP Napoleon
+“Perciò pagano uno stipendio a Napoleone” (QCCB II: 15)
+(63) Mu que ore i-plata-rigui cuse.
+ma NEG 3P 3-soldo-F.P.INDET esserci
+“Ma non hanno soldi” (QCCB II: 40)
+Abbreviazioni
+ANIM = animale domestico; COMP = complementatore; COORD = coordinatore; CPOSS = classificatore possessivo; ELAT = elativo; EPST = epistemicità; ESCL = esclamazione; EVID = evidenzialità; FB = forma base; FP = forma piena; FUT = futuro; INDET = forma indeterminata; LOC = locativo; NEG = negazione; NPS = non possedibile; P = plurale; PREP = preposizione; PST = passato; RLS = Realis; s = singolare;
+27
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+Riferimenti bibliografici
+Barrios, Armindo, Domingo Bulfe & José Zanardini 1995. Ecos de la selva. Ayoreode Uruode. Asunción: Centro de estudios Antropológicos de la Universidad Católica.
+Bertinetto, Pier Marco 2009. Ayoreo (Zamuco). A grammatical sketch. Quaderni del Laboratorio di Linguistica della Scuola Normale Superiore 8 n.s
+Bertinetto, Pier Marco 2010. How the Zamuco languages dealt with verb affixes. Quaderni del Laboratorio di Linguistica della Scuola Normale Superiore 9,1 n.s
+Bertinetto, Pier Marco, Luca Ciucci & Gabriella Enrica Pia 2010. Inquadramento storico, etnografico e linguistico degli Ayoreo del Chaco. In R. Ajello, P. Berrettoni, F. Fanciullo, G. Marotta, F. Motta (eds.), 2010. Quae omnia bella devoratis. Studi in memoria di Edoardo Vineis. Pisa: Edizioni ETS. 109-146.
+Bertinetto, Pier Marco, Irene Ricci & Zhi Na 2010. Le nasali sorde dell’ayoreo: prime prospezioni. Quaderni del Laboratorio di Linguistica della Scuola Normale Superiore 9,1 n.s.
+Chomé, Ignace (S.I.) 1958 [1745?]. Arte de la lengua zamuca (edizione a cura di S. Lussagnet). Journal de la Société des Américanistes de Paris 47: 121-178.
+Ciucci, Luca 2007/08a. Indagini sulla morfologia verbale nella lingua ayoreo. Quaderni del Laboratorio di Linguistica della Scuola Normale Superiore 7 n.s. URL: <http://alphalinguistica.sns.it/QLL07_08.htm>
+Ciucci, Luca 2007/08b. Sulla morfologia nominale dell’ayoreo: genere e numero. In Quaderni del Laboratorio di Linguistica della Scuola Normale Superiore 7 n.s.
+Ciucci, Luca 2009a. Elementi di morfologia verbale del chamacoco. Quaderni del Laboratorio di Linguistica della Scuola Normale Superiore 8 n.s. URL: <http://alphalinguistica.sns.it/QLL09.htm>
+Ciucci, Luca 2009b. Note di campo (Ayoreo, Chamacoco), 4 voll. (ms.). Ciucci, Luca 2010a. “The structure of possessive inflection in Ayoreo and
+Chamacoco: An overview”. Language in Contact Lecture, Radboud University, Nijmegen, April 28, 2010. Ciucci, Luca 2010b. “Morphological evidence for Zamucoan: the case of possessable nouns”. Typology Research Colloquium. Invited talk. Institut für Linguistik, Universität Leipzig. June 3, 2010.
+28
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 9,2/2010
+Ciucci, Luca 2010c. La flessione possessiva del chamacoco. Quaderni del Laboratorio di Linguistica della Scuola Normale Superiore 9,2 n.s.
+Combès, Isabelle 2009. Zamucos. Cochabamba: Instituto de Misionología. Crevels, Mily & Wilhelm F. H. Adelaar 2000/06. South America. UNESCO Red Book
+of Endangered Languages. University of Tokyo. Online version available at: <http://www.tooyoo.l.u-tokyo.ac.jp/archive/RedBook/SAmerica/SA_index.cgi> Fabre, Alain 2007a. Diccionario etnolingüístico y guía bibliográfica de los pueblos indígenas sudamericanos. Edición electrónica. Online. <http://butler.cc.tut.fi/~fabre/BookInternetVersio/Alkusivu.html> Fabre, Alain 2007b. Morfosintaxis de los clasificadores posesivos en las lenguas del Gran Chaco (Argentina, Bolivia y Paraguay). UniverSOS 4: 67-85. Higham, Alice, Maxine Morarie & Greta Paul 2000 Ayoré-English dictionary, 3 tomos. Sanford, FL.: New Tribes Mission. IP = Internet Preaches. A collection of texts of religious content downloadable at: <http://globalrecordings.net/langcode/ayo> Morarie, Maxine 1980. Simplified Ayoreo Grammar. Cochabamba: Publicaciones Nueva Vida (mimeo). NTM = New Tribes Mission 1982. Dupade Uruode. Cochabamba. QCCB = Briggs, Janet 1972. Quiero contarles unos casos del Beni. Instituto Lingüístico de Verano en colaboración con el Ministerio de Educación y Cultura, Dirección Nacional de Antropología. Cochabamba. 2 voll. Roca Ortiz, Irene 2008. Del Chaco Boreal a la periferia urbana: etnicidad ayoréode en la ciudad de Santa Cruz de la Sierra. Villalibre. Cuadernos de Estudios Sociales Urbanos 3: 73-102.
+29
+
+

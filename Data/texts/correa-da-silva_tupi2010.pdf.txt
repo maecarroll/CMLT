@@ -1,0 +1,378 @@
+Etnolinguística e etno-história Tupí: desfragmentando o olhar
+Tupi Ethnolinguistics and Ethnohistory: a defragmenting perspective
+Beatriz Carretta Corrêa-da-Silva
+Doutoranda em Linguística, PPGL, LALI/IL, UnB
+Abstract
+The development of comparative studies among languages of the Tupi Stock, as defined by Rodrigues (1955, 1958a, 1958b, 1964), by means of the historical-comparative method, led to a better understanding of the relations among these languages and to the reconstruction of the sound system of Proto-Tupi, as well as part of its lexicon and grammar. This paper aims at gathering the results of the historical-comparative research in order to characterize the protolanguage and bring to light the pre-historical linguistic reality, with the purpose of narrating a linguistic account of the Tupian cultural history, enriched by the significant contributions of archaeology, ethno-history and ethnology.
+Keywords
+Ethnolinguistics, Prehistorical Linguistics, Linguistic Palaeontology, Tupi Ethnohistory, Tupi Stock.
+Resumo
+O desenvolvimento dos estudos comparativos no âmbito do Tronco Tupí, conforme definido por Rodrigues (1955, 1958a, 1958b, 1964), utilizando o método histórico-comparativo, propiciou um maior conhecimento das relações entre as línguas que o compõem,
+
+62
+
+CORRÊA-DA-SILVA
+
+permitindo reconstruir o sistema de sons do Proto-Tupí, assim como avançar na reconstrução do léxico e de parte da gramática dessa protolíngua. Este trabalho visa reunir as informações atuais da pesquisa histórico-comparativa disponíveis, de forma a empreender uma caracterização da protolíngua e fazer emergir a realidade linguística pré-histórica, com o objetivo de apreender parte da história cultural Tupí, buscando conciliar a narrativa histórica baseada nas línguas indígenas com as significativas contribuições da arqueologia, da etno-história e da etnologia.
+Palavras-chave
+Etnolinguística, Linguística Pré-Histórica, Paleontologia Linguística, Etno-História Tupí, Tronco Tupí.
+
+Rev. Est. Ling., Belo Horizonte, v. 18, n. 1, p. 61-86, jan./jun. 2010
+
+63
+
+Introdução
+U tilizo neste trabalho o termo Tupí para designar o povo que, em tempos pré-históricos – estima-se que há cerca de 5 mil anos (RODRIGUES, 1964) –, falava o Proto-Tupí, língua ancestral que deu origem às línguas pertencentes ao Tronco Tupí, conforme a definição de Rodrigues (1955, 1958a, 1958b, 1964), inicialmente com sete e posteriormente com dez famílias linguísticas (RODRIGUES, 1984/1985): Tupí-Guaraní,Awetí, Mawé, Mundurukú, Jurúna, Arikém, Tuparí, Ramaráma, Mondé e Puruborá.
+O Tronco Tupí é eminentemente amazônico, estando nove das famílias integrantes localizadas na Amazônia, ao sul do rio Amazonas. Apenas a Família Tupí-Guaraní estende-se para fora desses limites, atingindo a Guiana Francesa, ao norte do rio Amazonas, a costa brasileira, e estendendo-se ao longo da bacia dos rios Paraná/Paraguai até a Argentina, o Paraguai e a Bolívia. Trata-se, pois, no contexto americano, do grupo genético mais difundido geograficamente e também o mais diversificado, contando atualmente com quase 60 línguas.
+O desenvolvimento dos estudos comparativos no âmbito do Tronco Tupí, utilizando o método histórico-comparativo, propiciou um maior conhecimento das relações entre essas línguas, permitindo reconstruir não apenas o sistema de sons do Proto-Tupí, mas também avançar na reconstrução do léxico e de parte da gramática dessa protolíngua.
+Os avanços dos estudos no âmbito da linguística pré-histórica (cf. ROSS, 1997) vêm fazendo emergir a pré-história linguística, aproximando-nos da realidade linguística remota por meio da reconstrução lexical, permitindo fazer inferências relativas à cultura e à sociedade Tupí pré-históricas e postular hipóteses sobre sua localização original e suas rotas de deslocamento.
+Este trabalho visa inventariar o estado atual da pesquisa históricocomparativa de forma a utilizar os dados linguísticos acerca do Proto-Tupí como ponto de partida para apreender parte da história cultural Tupí, buscando conciliar a narrativa histórica baseada nas línguas indígenas com as significativas contribuições da arqueologia, da etno-história, da etnologia e da genética.
+
+64
+
+CORRÊA-DA-SILVA
+
+Caracterização da língua ancestral: o Proto-Tupí
+Conforme as palavras de Ilia Pejros (1997, p. 149),
+uma protolíngua deve apresentar as características típicas de qualquer língua humana; ela deve, principalmente, estar relacionada a uma comunidade específica cujos membros a utilizam quotidianamente. Eventualmente, o repertório linguístico dessa comunidade pode ser muito complexo, e é possível que ocorram situações de diferenciação dialetal, de multilinguismo, códigos linguísticos distintos ou outras características. Tais detalhes muito raramente poderão ser reconstruídos e isso pode limitar em grande medida nosso conhecimento da protolíngua sem, no entanto, negar a sua realidade.
+Dessa forma, todo estudo que utiliza o método histórico-comparativo entende a protolíngua como um constructo científico – real, porém limitado – que permite aproximar-nos da realidade linguística de uma comunidade ancestral, sem pretender encarcerar língua e comunidade em um bloco homogêneo e estático. Cabe lembrar que o método histórico-comparativo exige o estabelecimento de correspondências sistemáticas em todos os subsistemas linguísticos, como forma de determinar adequadamente o relacionamento genético entre as línguas.
+As características fonológicas e gramaticais apresentadas a seguir refletem o avanço da pesquisa comparativa no âmbito do tronco Tupí, que vem sendo desenvolvida desde a década de 1950, notadamente por Rodrigues (1955; 1958a; 1958b; 1961; 1964; 1980; 1984/1985; 1995; 1999; 2005a; 2005b; 2007a; RODRIGUES; DIETRICH, 1997; RODRIGUES; CABRAL, 2004; CABRAL; RODRIGUES, 2005).
+Apesar da escassez de dados lexicais comparáveis entre as muitas famílias, foi possível avançar na elaboração de um quadro completo de fonemas do Proto-Tupí (RODRIGUES; DIETRICH, 1997; RODRIGUES, 1995; 2005a; 2005b; 2007a), apresentado a seguir:
+
+Rev. Est. Ling., Belo Horizonte, v. 18, n. 1, p. 61-86, jan./jun. 2010
+
+65
+
+Protoconsoantes
+
+*p *pW *t *tj *ts *tS *k *kj *kW
+
+*p/ *pW/ *t/
+
+*ts/ *tS/ *k/
+
+*kW/ */
+
+*mp
+
+*nt
+
+*˜k
+
+*m
+
+*n
+
+*˜
+
+*˜W
+
+*w
+
+*r *rj
+
+*j
+
+*i *È *u *e *a *o
+
+Protovogais
+*i ‡ *È‡ *u) *e) *a) *o)
+
+Os protofonemas propostos amparam-se e consubstanciam-se em uma lista de exemplos de cerca de duzentos e cinquenta étimos presentes em todas as famílias constituintes do Tronco Tupí (RODRIGUES, 2007a). Nos primeiros esforços de caracterização da protolíngua, Rodrigues (1999, p. 110-11) considera a possibilidade de distribuição complementar dos protofonemas [o] e [u], uma vez que o ocorre principalmente seguindo uma consoante labial ou como resultado da mudança de *e > o antes de uma consoante labializada e u nos demais ambientes, o que levaria à reconstrução de um sistema de cinco vogais orais e suas contrapartes nasais. Com o avanço da pesquisa, e o aumento no volume de material disponível para cada língua, foi possível encontrar casos em que os dois fonemas contrastam, levando à reconstrução do sistema de seis vogais orais e seis nasais (*rjop ‘amargo’; *tso ‘ir’; *tsotße ‘sobre’; *ako ‘púbis’; *er-/ok ‘dar nome’ (cf. *et); *kup ‘estar pl.’; *kurua ‘planta cucurbitácea’; *k/u ‘comer, beber’; *k/ut ‘berne’, ‘Dermatobia hominis’; *tßuk/u ‘morder’; *-atßu ‘grande (aumentativo)’).1
+Quanto às consoantes, já na primeira tentativa de elaborar um quadro de protofonemas consonantais do Proto-Tupí, Rodrigues (1995) propõe o quadro apresentado acima e discute a necessidade de postular uma série de oclusivas e africadas glotalizadas, devido à existência de correspondências fonológicas que não podem ser derivadas diretamente de oclusivas ou africadas plenas e ao caráter glotal de parte dos reflexos nas línguas atuais (RODRIGUES, 2007a, p. 198) (*k/u ‘comer, beber’; *tßuk/u ‘morder’; *ek) /en ‘vomitar’; *ekW/Èp ‘flecha’; *p/È ‘soprar’; *p/Èt ‘cru’; *pep/o ‘asa, pena da asa’; *kÈp/È/Èt ‘irmã júnior de
+
+66
+
+CORRÊA-DA-SILVA
+
+mulher’; *k/Èp/È ‘tronco’; *ap/Èk ‘sentar’; *urupW/u ‘urubu’; *t/ap ‘teto’; *at/È ‘esposa’; *ats/aN ‘grosso’). Rodrigues (2007a, p. 198) sustenta, ainda, a necessidade de avaliar com maior número de dados, sobretudo em posição medial, a reconstrução de oclusivas surdas pré-nasalizadas.
+Ainda em relação à fonologia, Rodrigues (1995, p. 2) considera a forte possibilidade de o Proto-Tupí ser uma língua tonal, uma vez que três famílias – Mondé, Ramaráma e Mundurukú– são descritas como tonais (MOORE, 1984; GABAS JR., 1988; BRAUN; CROFTS, 1965) e outras duas – Jurúna e Tuparí –, como tendo acento tonal (RODRIGUES, C. L.,1990; FARGETTI, 1992; ALVES, 1991).
+Com relação a aspectos gramaticais, Cabral e Rodrigues (2002) demonstram que as línguas Tupí compartilham, nas orações dependentes, um padrão de alinhamento absolutivo ou nominativo, e essa distinção foi tomada como base para a primeira divisão do tronco Tupí em dois ramos: Ocidental e Oriental (CABRAL, 2002, p. 5). As cinco famílias localizadas na região Guaporé/ Aripuanã partilham um padrão de alinhamento absolutivo na codificação dos argumentos interno dos verbos transitivos e externo dos intransitivos; são elas Arikém, Tuparí, Ramaráma, Puroborá e Mondé, e constituem o ramo ocidental. Ao passo que as demais famílias, Tupí-Guaraní, Awetí, Mawé, Mundurukú e Jurúna, que constituem o ramo oriental e distribuem-se largamente para leste, apresentam padrões mais divergentes (CABRAL, 2002, p.5).
+De acordo com essa hipótese, as línguas do ramo ocidental são mais conservadoras, mantendo o padrão de alinhamento absolutivo original, enquanto as do ramo oriental desenvolveram diversos processos de cisões a partir do sistema original. O Mundurukú sofreu uma mudança moderada, o Jurúna substituiu o sistema absolutivo por um nominativo e as línguas Tupí-Guaraní sofreram diversos tipos de cisões (CABRAL, 2002, p. 6). Rodrigues e Cabral (2006, p. 27) demonstram que o padrão absolutivo que caracteriza as orações dependentes do Mundurukú, Mawé, Awetí e Tupí-Guaraní tem sua origem no uso de marcas absolutivas em sintagmas posposicionais e sintagmas nominais flexionados por morfologia casual, que tinham por complemento ou por núcleo, respectivamente, nomes ou verbos nominalizados.
+Interessante notar que também as mudanças e preservações fonológicas compartilhadas pelas famílias parecem apontar para um relacionamento genético mais próximo entre as famílias do ramo oriental. Observe-se que, em relação às
+
+Rev. Est. Ling., Belo Horizonte, v. 18, n. 1, p. 61-86, jan./jun. 2010
+
+67
+
+mudanças vocálicas, tem-se a preservação da distinção entre as seis vogais do Proto-Tupí pelas famílias Tupí-Guarani, Awetí e Mawé, enquanto a mudança *e > o é comum não apenas a essas três famílias, mas também ao Mundurukú e ao Jurúna, podendo essa ser uma indicação de que estas duas famílias estiveram ligadas às três anteriores em um período remoto, só começando o processo de mudança de *o > a (JU) e *o > \ (MU) depois de se terem separado das anteriores (RODRIGUES, 2005a, p. 43).
+Com base nas formas cognatas encontradas em todas as famílias do tronco Tupí, foi possível reconstruir sete formas pessoais para o Proto-Tupí, divididas em dois conjuntos de marcadores pessoais, conforme quadro abaixo (CABRAL, 2002, p. 6; RODRIGUES; CABRAL, 2005, p. 3), modificado com base na versão mais recente do quadro de protovogais (RODRIGUES, 2005a; 2005b):
+
+Conjunto I
+
+1
+
+*u-
+
+2
+
+*e-
+
+12(3)
+
+(?)
+
+13
+
+*or∆e/*or∆o
+
+23
+
+*ej-
+
+Conjunto II
+
+1
+
+*un
+
+2
+
+*en
+
+12(3)
+
+(?)
+
+13
+
+*or∆e/*or∆o
+
+23
+
+*ej
+
+Embora os autores reconheçam a existência da distinção entre primeira pessoa inclusiva e exclusiva em Proto-Tupí, somente foi possível reconstruir com segurança a forma fonológica para a primeira pessoa exclusiva, uma vez que faltam formas cognatas na maioria das línguas para a reconstrução da forma inclusiva (RODRIGUES; CABRAL, 2005).
+É a distribuição das formas reconstruídas para o conjunto I nas línguas atuais, que ocorrem sistematicamente nas funções de Sa, So e O nas línguas das famílias Arikém, Ramaráma e Tuparí, que orientou a reconstrução desse conjunto como um padrão absolutivo no protossistema. Ademais, o conjunto II não parece estar associado a nenhuma função específica no Proto-Tupí (RODRIGUES; CABRAL, 2005, p. 18).
+Também há indicações em todas as línguas de que o conjunto I se combinava com nomes para marcar o determinante em uma construção genitiva. Dessa forma, Rodrigues e Cabral (2005, p. 27-28) postulam a ocorrência em Proto-Tupí de nomes absolutos e relativos. Os nomes relativos combinavam-se
+
+68
+
+CORRÊA-DA-SILVA
+
+com prefixos relacionais que marcam a contiguidade/não-contiguidade de seu determinante (*ts- ‘marcador de relação não-contígua’ em distribuição alomórfica com *i-); os nomes absolutos também podiam ser indiretamente possuídos ou por meio de um morfema ‘possuidor’ou por meio da nominalização de verbos transitivos com o prefixo *-mi- (*mi- ‘nominalizador de objeto’). Essa nominalização corresponde a um processo derivacional que deriva, a partir de um verbo transitivo, um nome que se refere ao processo verbal ou ao objeto deste, e que tem como motivação a necessidade pragmática de enfatizar o ‘feito’. O nome derivado desse processo de nominalização combinado com a forma *e(p), que formava nomes de uma classe específica de temas, constituía-se em um mediador de posse indireta de entidades não-possuíveis (RODRIGUES; CABRAL; CORRÊA-DA-SILVA, 2006, p. 35) (*un º-e-mi-k÷u /1 R1-POSSNOM-comer/ ‘minha comida’).
+Com respeito aos prefixos relacionais, conforme a definição de Rodrigues (1981, p. 7), ou eles fazem referência ao contexto gramatical, indicando relações de dependência e contiguidade sintática do determinante de um nome, de uma posposição ou do objeto dos verbos transitivos, ou ao contexto pragmático. Segundo Cabral (2001, p. 240-41) as estruturas resultantes da flexão relacional têm em comum um núcleo flexionado pelo prefixo relacional que: (i) exige a expressão sintática contígua do determinante (R1); (ii) permite a expressão sintática do determinante fora do sintagma verbal (R2); (iii) indica que o determinante é correferente com o sujeito da oração principal, o qual pode ou não estar presente no contexto oracional (R3); e (iv) especifica que o determinante é genérico e humano e exclui a expressão sintática dele (R4). Segundo a análise de Rodrigues (2000a, p. 102), os lexemas distribuem-se em duas classes, I e II, em função dos alomorfes dos prefixos de contiguidade/não-contiguidade (R1 e R2) que recebem. Cabral (2007) postula a ocorrência em Proto-Tupí de um conjunto de quatro prefixos como expressão de um sistema de flexão relacional.
+Contudo, não existe consenso em relação à função desses prefixos. Jensen (1999, p. 147) reconstrói para o Proto-Tupí-Guaraní quatro conjuntos de marcadores de pessoa, além de um conjunto de pronomes livres, interpretando PTG *r- ~ *ncomo morfema de ligação e todos os demais (PTG *o-,*i-, *ts-, *t-) como prefixos pessoais de terceira pessoa. Por sua vez, Storto (2005, p. 69), inspirada na análise de Payne (1994) para o Proto-Tupí-Guaraní, propõe uma forma única, PT *ti-, como morfema de voz inversa, que teria dado origem às diversas formas, e seus alomorfes, nas construções verbais orientadas para o paciente nas línguas do tronco.
+
+Rev. Est. Ling., Belo Horizonte, v. 18, n. 1, p. 61-86, jan./jun. 2010
+
+69
+
+Apesar das divergências no que tange à função desses prefixos, o quadro abaixo apresenta de forma sintética as formas reconstruídas para o PT com a possível correspondência entre forma e função, de acordo com a interpretação de Rodrigues (1981):
+
+referência contexto gramatical
+contexto pragmático
+
+*t÷- ~ *º*ts- ~ *i-
+*o*t- ~ *m
+
+marcador de relação contígua – R1 marcador de relação não-contígua – R2 marcador de 3ª pessoa correferencial – R3 marcador de det. humano genérico – R4
+
+Outros processos de nominalização também ocorriam em Proto-Tupí e, além do afixo nominalizador citado anteriormente, outros três puderam ser reconstruídos para a protolíngua: nominalizador de circunstância, de agente e de paciente (*-ap ‘nominalizador de circunstância e instrumento’; *-at ‘nominalizador de agente’; *-pÈt ‘nominalizador de paciente’) (RODRIGUES; CABRAL, 2005; RODRIGUES, 2007a). Note-se que todos esses são sufixos nominalizadores, ao passo que o nominalizador de objeto (*mi-) é um prefixo. Além disso, a protolíngua também fazia uso de construções formadas por temas verbais nominalizados modificados por expressões adverbiais, as quais, por serem nomes, se combinariam com o conjunto I de prefixos pessoais (*CONJ.I-VERB-NOM-ADV) (RODRIGUES; CABRAL, 2005). Rodrigues e Cabral (2006, p. 12) postulam que nominalizações combinadas com morfologia de natureza adverbial expressavam na protolíngua noções de sucessividade, finalidade e contemporaneidade.
+Foi ainda possível reconstruir um conjunto de prefixos, sufixo e posposições (RODRIGUES; DIETRICH, 1997; RODRIGUES; CABRAL, 2005; RODRIGUES, 2007a). Os prefixos corresponderiam a diferentes vozes do verbo: reflexiva, causativa e causativa-comitativa (*we- ‘reflexivo’; *mo- ‘causativo’; *erje-/erjo‘causativo-comitativo’); haveria um sufixo casual: locativo (*-pe ‘locativo’); e duas posposições (*upi ‘posp. loc.’; *etse ‘posp’). Também foi reconstruído um conjunto de ‘verbos plurais’, definidos como formas supletivas para expressar a pluralidade dos participantes (cf. RODRIGUES; DIETRICH, 1997, p. 283) (*kup ‘estar pl.’; *wat ‘ir pl.’; *pap ‘morrer (muitos)’).
+Retomando trabalhos anteriores com acréscimo de dados de outras línguas, Seki e Brandon (2007) empreenderam recentemente a reconstrução parcial do sistema interrogativo da protolíngua, partindo do pressuposto de que aquilo que as línguas atuais apresentam em comum teria sido herdado da língua
+
+70
+
+CORRÊA-DA-SILVA
+
+ancestral. Dessa forma, estabelecem que as perguntas polares seriam identificadas na protolíngua apenas pela entonação, ao passo que as perguntas de conteúdo seriam identificadas pela combinação de três fatores: (i) um padrão entonacional, (ii) palavras indefinidas ou genéricas acompanhadas de partículas enfáticas, dubitativas ou de foco, e (iii) pela topicalização dessas palavras e partículas na sentença. Com efeito, foi possível a reconstrução de duas palavras genéricas utilizadas como interrogativos no Proto-Tupí (*apWo ‘quem, pessoa’; *kat ‘coisa’).
+Caracterização da sociedade e da cultura Tupí pré-históricas
+A linguística pré-histórica utiliza dados das línguas atuais para identificar, por meio do método histórico-comparativo, relações genéticas remotas sem recorrer a textos antigos (cf. ROSS, 1997, p. 211), que são, naturalmente, inexistentes, por se tratar do estudo de línguas ágrafas. Os avanços dos estudos no âmbito dessa ciência histórica vêm fazendo emergir a pré-história linguística, aproximando-nos da realidade linguística remota por meio da reconstrução lexical. Ainda que o léxico Proto-Tupí reconstruído até o momento não seja demasiadamente extenso e apresente uma cobertura lexical reduzida, ele nos permite fazer inferências relativas à cultura e à sociedade Tupí pré-históricas, possibilitando-nos uma reconstrução parcial dessa cultura e dessa sociedade por meio de uma narrativa linguística, i. é, baseada nas línguas indígenas.
+Rodrigues (2007a, p. 167) lembra que a reconstrução fonológica da protolíngua de um grupo de idiomas geneticamente aparentados implica simultaneamente a comparação e a reconstrução fonológica e semântica, uma vez que os fonemas somente são observáveis em suas ocorrências concretas – as unidades lexicais –, nas quais as sequências de fonemas estão associadas a determinados significados. Dessa forma, o léxico reconstruído para o Proto-Tupí inclui palavras consideradas básicas, i. é, aquelas que são supostamente pouco influenciáveis pela mudança cultural e que, por isso mesmo, devem manter-se relativamente inalteradas no decorrer do tempo (cf. RODRIGUES, 1964, p. 99), além de palavras referentes ao meio ambiente, como nomes de plantas e animais, e diversas palavras que transmitem conceitos culturais.
+Rodrigues (1988, p. 3) avança a ideia da presença da agricultura entre os falantes de Proto-Tupí, com base em nomes de plantas cultivadas e implementos agrícolas. Esse estudo foi aprofundado mais recentemente (RODRIGUES, 2007b), demonstrando o conhecimento e a prática da agricultura pelo povo Tupí
+
+Rev. Est. Ling., Belo Horizonte, v. 18, n. 1, p. 61-86, jan./jun. 2010
+
+71
+
+ancestral com a reconstrução de termos para plantas cultivadas (**mani ‘mandioca’; **wet∆Èk ‘batata doce’; **awa, awai ‘cará, Dioscorea sp.’; **kurua ‘planta cucurbitácea’), e semicultivadas (**tiN ‘timbó’; **È/a ‘cabaça’), além de verbos referentes a práticas culturais e instrumentos direta ou indiretamente relacionados à agricultura (**Nko/*Nke / No/Ne ‘roça’; **cÈ# t ‘cavador’; **è#ekw ‘socar’; **koj ‘cavar’; **wÈ ‘machado’).
+Da mesma forma, de acordo com Rodrigues (2007b), foi possível reconstruir termos que atestam o trançado de cestos e a tecelagem de redes de dormir, bem como a presença de cerâmica (**Èrju ‘cesta’; **e)ri ‘rede de dormir’; **wa/e) ‘vasilha de barro’; **wa/e)u/um ‘barro para cerâmica’; **t/up ‘barro’).
+Tradicionalmente, a visão dos arqueólogos brasileiros é a de que cerâmica e agricultura estão intimamente relacionadas (PROUS, 1999, p. 345), e a presença de determinados utensílios cerâmicos tende a ser interpretada como evidência de cultivo já desenvolvido (TENÓRIO, 1999, p. 262). Essa mesma tradição de pensamento, no entanto, não reconhece a produção de cerâmica no contexto amazônico em período tão remoto quanto o proposto pela linguística para o início do desmembramento do tronco Tupí e, portanto, não considera a possibilidade de cultivo entre os Proto-Tupí (MEGGERS; EVANS, 1973, p. 57). Contudo, o afluxo de premissas e práticas pós-processualistas2 entre os arqueólogos nacionais vem oferecer outras possibilidades interpretativas não apenas para a ocorrência de cerâmica dissociada de indícios de práticas agrícolas, mas também para compreender estágios diferenciados de introdução, experimentação e intensificação do cultivo. Além disso, o avanço da pesquisa arqueológica leva a crer que a cerâmica pode ter-se desenvolvido primeiramente na Amazônia, uma vez que é de lá que provém a cerâmica hoje considerada como a mais antiga das Américas, com datações de até 7.500 anos AP (ROSSEVELT, 19953 apud GASPAR; IMAZIO, 1999, p. 249-50).
+Dessa forma, os dados linguísticos relativos aos Proto-Tupí, que indicam a presença tanto de cerâmica quanto de práticas agrícolas na Amazônia em tempos remotos, oferecem a possibilidade de ampliar o diálogo entre as duas ciências sem, no entanto, permitir que se façam inferências quanto ao estágio de desenvolvimento dessas práticas, se se trata de agricultura incipiente associada à coleta, de uma fase de experimentação de manejo ou de agricultura intensiva.
+
+72
+
+CORRÊA-DA-SILVA
+
+Por outra parte, sem cair num reducionismo ingênuo ao partir das fontes históricas para chegar a populações pré-históricas, é possível confrontar os dados linguísticos com as descrições e caracterizações etnográficas relativas aos povos Tupí. Laraia (1995, p. 53) considera que os antigos Tupinambá teriam ocupado o litoral brasileiro desde o século XII e que se distinguiam dos demais grupos indígenas pelas seguintes características culturais: o uso de rede de dormir, a utilização do arco e da flecha como armas de guerra, o cultivo intensivo da mandioca e a prática da antropofagia. Assim também caracteriza o autor os grupos Tupí atuais (LARAIA, 1995, p. 167), e salienta que a pesca não é tão importante para os grupos atuais como para os antigos Tupinambá, notando que os grupos atuais costumam pescar em pequenos rios, fazendo uso de armadilhas (p. 173). Além disso, Fernandes (1989, p. 60-61) descreve, com base nos cronistas quinhentistas e seiscentistas, a aldeia Tupinambá como sendo formada por malocas distribuídas de forma a deixar uma área quadrangular no centro, o terreiro, onde acontecia parte importante da vida social. Esse mesmo autor (1989, p. 293) discute a importância da figura do pajé como homem respeitado, temido e poderoso.
+Entre os itens lexicais referentes a conceitos culturais, puderam ser reconstruídos para o Proto-Tupí alguns que fazem referência à casa, à aldeia e à praça da aldeia, à rede de dormir, à flecha, à armadilha para pesca, assim como o termo para pajé, demonstrando que possivelmente não só a organização da aldeia, mas também os traços culturais considerados como característicos desses povos já estavam presentes na sociedade Proto-Tupí (**ekW ‘casa’; **ekWen ‘porta’; **t/ap ‘teto’; **ekWat ‘praça da aldeia’; **t/appWet ‘aldeia abandonada’; **ekW/Èp ‘flecha’; **wamu/wamuã ‘pajé’; **weke/a ‘covo’).
+Com relação à nomenclatura de parentesco Tupí, alguns termos puderam ser reconstruídos, indicando certo grau de complexidade do protossistema de parentesco, embora não se possa inferir se esse era tão complexo quanto o sistema Tupinambá descrito por Fernandes (1989, p. 168-82). Além de termos usuais, como avô, marido, esposa, pai e mãe, também foram reconstruídos outros que indicam distinções de acordo com o sexo e uma hierarquia entre irmãos mais novos e mais velhos. Por outro lado, termos como irmã da mãe ou irmão do pai associam-se de imediato às nossas categorias de tio paterno e tia materna, que nos informam sobre a filiação, mas não sobre a descendência ou quanto a restrições matrimoniais. Segundo Laraia (1971, p. 5), essas informações é que permitiriam compreender de forma efetiva o significado de parentes afins e
+
+Rev. Est. Ling., Belo Horizonte, v. 18, n. 1, p. 61-86, jan./jun. 2010
+
+73
+
+consanguíneos do ponto de vista nativo (**amõj ‘avô’; **at/È ‘esposa’; **men ‘marido’; **tßÈ ‘mãe’; **-up ‘pai’; **mempÈt / memit / mempÈt ‘filho, filha de mulher’; **a/Èt ‘filho de homem’; **tßÈ/Èt ‘irmã da mãe’; **-up/Èt ‘irmão do pai’; **Èket ‘irmã sênior da mulher’; **kÈp/È/Èt ‘irmã júnior de mulher’; **Èke ‘irmão sênior do homem’; **ÈpWÈt ‘irmão júnior do homem’; **kÈpWÈt ‘irmão de mulher’).
+De qualquer forma, ainda que se pudesse reconstruir uma lista de termos tão extensa quanto a apresentada por Fernandes (1989), é provável que a descrição da estrutura social Tupí resultante unicamente da interpretação dos termos fosse equivocada, visto que, de acordo com Laraia (1971, p. 5), ao desconhecer a regra de descendência, não é possível entender a estrutura de parentesco pela ótica indígena, ficando restrito ao caráter genealógico do sistema. Para esse autor, somente obtendo dados referentes às regras de residência, descendência e matrimônio preferencial é que seria possível compreender a terminologia de parentesco da perspectiva indígena e, a partir daí, descrever o sistema de relações. No caso de uma comunidade já extinta, em que se conta unicamente com a reconstrução hipotética da protolíngua, tal exercício de interpretação do protossistema não poderia dissociar-se da etnografia comparada dos grupos atuais.
+Considerações sobre a história Tupí
+Outras ferramentas utilizadas pela linguística pré-histórica, como a léxicoestatística e a glotocronologia,4 permitem estimar a profundidade temporal de uma protolíngua, sobretudo como datação relativa e hipótese de trabalho. Existe uma correlação entre a porcentagem de cognatos no vocabulário básico e o tempo de diferenciação das línguas: 12% de cognatos no vocabulário básico – tronco, cerca de 5 mil anos de divergência; 36% de cognatos – família, em torno de 2.500 anos de separação; 81% de cognatos – língua, aproximadamente 500 anos de separação (URBAN, 1998[1992], p. 88).
+Assim, com base em seus estudos léxico-estatísticos, Rodrigues (1964, p. 103) indica uma idade de cerca de 5 mil anos AP para a protolíngua (com aproximadamente 11% de cognatos). Urban (1998[1992], p. 89) admite uma idade de 3 a 5 mil anos AP, baseando-se nas indicações glotocronológicas e, aparentemente, em Rodrigues (1986); ao passo que Storto (2005, p. 70) sugere 4.500 anos AP, sem especificar os dados em que se baseia.
+
+74
+
+CORRÊA-DA-SILVA
+
+Com base no que foi apresentado acima, pode-se iniciar uma narrativa linguística sobre a (pré-)história Tupí, avançando a hipótese de que a primeira divergência do Proto-Tupí em dois ramos, ocidental e oriental (CABRAL; RODRIGUES, 2002), teria ocorrido talvez há cerca de 5 mil anos AP. Do ramo ocidental descenderiam as famílias Arikém, Tuparí, Ramaráma, Puroborá e Mondé, e do ramo oriental, as famílias Jurúna, Mundurukú, Mawé, Awetí e TupíGuaraní. Esses grupos, falantes de Proto-Tupí, teriam dominado parte da região delimitada pelos rios Madeira e seu formador Guaporé a oeste, e Madeira e Aripuanã a leste, coincidindo grosso modo com o atual estado de Rondônia (RODRIGUES, 1958b; 1964; 1988; 2000b; 2007b).
+Embora haja certa homogeneidade nas propostas de datações para o início da dispersão dos Tupí ancestrais, a questão relativa ao centro de origem e rotas de expansão desses povos ainda está aberta ao debate. Como bem demonstra Noelli (1996, p. 10-11), os deslocamentos Tupí não podem ser caracterizados simplesmente como migrações, mas devem ser entendidos principalmente como expansões com o intuito de dominar novos territórios sem abandonar os originais. Esses movimentos expansionistas devem ter sido desencadeados por distintas razões, tais como o crescimento demográfico, modalidades sociopolíticas diversas de fracionamento das aldeias, manejo agroflorestal, etc. Ao passo que migrações, com o consequente abandono das terras originais, devem também ter acontecido em período pré-histórico em decorrência da pressão de outros povos indígenas, mas passaram a ser a principal causa de deslocamento após a chegada do europeu, tendo alguns desses movimentos sido caracterizados como fuga, seja dos europeus (MÉTRAUX, 1927, p. 23), seja de outro povo indígena (p. 28).
+O centro de origem proposto por Rodrigues (1958b; 1964; 1988; 2000b; 2007b) baseia-se na distribuição geográfica das famílias desse tronco linguístico e segue o princípio do centro de gravidade ou age-area hypothesis,5 pois na região Madeira/Guaporé/Aripuanã concentram-se cinco famílias linguísticas afiliadas ao tronco Tupí. Contudo, Greg Urban, também considerando as questões linguísticas, propõe a extensa área entre os rios Madeira e Xingu (1998[1992], p. 92), que abrange todas as famílias Tupí, exceto a Tupí-Guaraní.
+O universo desse grupo indígena pré-histórico era a floresta, e sua cultura se afirmava na adaptação a esse meio, de onde extraíam seu sustento e muito provavelmente sua concepção de mundo. Utilizavam-se da caça e da pesca para obter os recursos proteicos necessários e praticavam algum tipo de agricultura,
+
+Rev. Est. Ling., Belo Horizonte, v. 18, n. 1, p. 61-86, jan./jun. 2010
+
+75
+
+incipiente ou não, cultivando mandioca, batata-doce, cará, etc., proporcionandolhes a abundância necessária ao aumento demográfico, que pode ser uma das diversas causas dos primeiros fracionamentos do grupo.
+Com a necessidade de expandir seus domínios sobre outras terras, alargaramse as distâncias entre as aldeias, propiciando o necessário enfraquecimento dos laços entre as comunidades que dá lugar ao surgimento de desenvolvimentos diferenciados das línguas. Ao cruzar o rio Aripuanã em direção a leste, quebrouse a homogeneidade das comunidades falantes de Proto-Tupí, provocando a fissura da língua em dois ramos com desenvolvimentos distintos.
+Da história das línguas do ramo oriental ainda pouco se sabe. As famílias Arikém, Tuparí, Ramaráma, Puroborá e Mondé concentram-se geograficamente na bacia do rio Madeira, no sudoeste da Amazônia, e parecem ser mais conservadoras em diversos aspectos. Pesquisas recentes possibilitaram avançar uma classificação interna da família Mondé, composta de três línguas: Suruí Paíter, Mondé e uma terceira com quatro dialetos, Gavião de Rondônia, Zoró, Cinta Larga e Aruá (MOORE, 2005). De acordo com a interpretação de Moore (2005, p. 517), com base na fonologia e no critério de inteligibilidade mútua, os falantes de Suruí Paíter teriam sido os primeiros a afastar-se dos grupos falantes de Proto-Mondé, seguidos pelos Mondé. Os falantes dos quatro dialetos que conformam a terceira língua da família teriam permanecido em contato por mais tempo, vindo a separar-se em tempos recentes, permitindo a atual inteligibilidade mútua dos dialetos.
+Quanto ao ramo oriental, evidentemente, sucessivos fracionamentos tornaram-se necessários e, possivelmente, os falantes do Proto-Jurúna foram os primeiros a afastar-se das comunidades originais, marchando para leste – até se encontrarem no alto rio Xingu entre os séculos XIX e XX. Posteriormente, os falantes de Proto-Mundurukú teriam partido rumo ao norte, indo ocupar os campos interiores do alto Tapajós, talvez descendo o alto Juruena. As comunidades restantes, falantes de Proto-Mawé-Awetí-Tupí-Guaraní (RODRIGUES, 1984/85; RODRIGUES; DIETRICH, 1997), que talvez ocupassem a região entre o alto Juruena e o rio Arinos, teriam dado continuidade ao processo de fracionamento e dominação de novos territórios, tendo os Proto-Mawé se encaminhado para a região do baixo Tapajós – onde se localizam desde o século XVII –, tornandose vizinhos e inimigos dos Mundurukú, para quem teriam perdido parte de seu território em decorrência de guerras e disputas. De acordo com a história oral
+
+76
+
+CORRÊA-DA-SILVA
+
+Mawé, seus ancestrais habitavam a vasta região compreendida entre os rios Madeira e Tapajós em tempos imemoriais.
+No período em que as comunidades restantes, falantes do Proto-AwetíTupí-Guaraní (CABRAL; RODRIGUES, 2005; CORRÊA-DA-SILVA, 2007), ocupavam possivelmente a região interior do alto rio Arinos, elas devem ter mantido contato com falantes de uma língua Karíb – possivelmente um ancestral Karíb norte-amazônico –, pois há casos de empréstimos lexicais Karíb tanto na família Tupí-Guaraní quanto no Awetí (RODRIGUES, 2000b, p. 1600). A partir daí, as comunidades falantes do Proto-Awetí teriam seguido sua marcha até alcançarem os formadores do rio Xingu, ao passo que os falantes de Proto-TupíGuaraní teriam iniciado o amplo processo de separação e divisão de suas comunidades.
+Quanto às relações entre línguas Tupí e Karíb, é preciso considerar dois momentos distintos, o primeiro diz respeito às relações linguísticas pré-históricas do Proto-Tupí, pois há evidências que sugerem um relacionamento genético abrangendo Tupí, Karíb e Macro-Jê (RODRIGUES, 2003[1985], p. 408). O segundo momento seria o relacionamento entre o Proto-Awetí-Tupí-Guaraní e línguas Karíb, notadamente por empréstimo lexical, indicando contato interétnico.
+Semelhanças lexicais entre línguas Tupí e Karíb foram notadas já desde 1909 por de Goeje (apud RODRIGUES, 2003[1985], p. 395), e o estudo comparativo de Rodrigues (2003[1985]) indica a ocorrência de correspondências lexicais e fonológicas sistemáticas entre os dois grupos de línguas. Derbyshire (1994) empreendeu um estudo comparativo de construções subordinadas em Tupí-Guaraní e Karíb, no qual demonstra um notável paralelismo que não poderia ser produto de contato linguístico, reforçando a hipótese de relacionamento genético. Da mesma forma, Gildea (1994) desenvolveu uma análise das nominalizações de objeto direto em Karíb e Tupí-Guaraní que demonstrou não apenas o paralelismo das estruturas, mas também o fato surpreendente de que, em ambas as famílias, os processos de nominalização se fazem por sufixação, com exceção das nominalizações de objeto direto, que são formadas pela prefixação de n- em Karíb, e e-mi- em Tupí-Guaraní.6 Ademais, outro traço morfossintático indicativo desse relacionamento genético seria o paradigma de flexão relacional, presente em Tupí e Karíb, mas também nas línguas Jê, com marcante regularidade de forma e função (RODRIGUES, 2000a, p. 102). Por outro lado, em estudo mais recente, Meira (2007) reavalia os cognatos arrolados
+
+Rev. Est. Ling., Belo Horizonte, v. 18, n. 1, p. 61-86, jan./jun. 2010
+
+77
+
+por Rodrigues (2003[1985]) como possíveis indicadores de parentesco genético à luz das reconstruções mais recentes do Proto-Tupí e do Proto-Karíb, chegando a resultados animadores que sustentam a hipótese de um parentesco genético Tupí-Karíb.
+Entretanto, no que diz respeito aos empréstimos indicativos de contato interétnico entre Tupí-Guaraní, provavelmente Proto-Awetí-Tupí-Guaraní, e um ancestral de línguas Karíb norte-amazônicas, Meira (2007) considera improvável que o contato entre esses povos tenha ocorrido ao sul do rio Amazonas, uma vez que estudos atuais descartam a origem dos Proto-Karíb no Brasil Central, como proposto originalmente por von den Steinen. Além disso, o autor questiona a motivação de empréstimos Tupí para as línguas Karíb, que seriam numericamente dominantes na área das famílias Karíb e Aruák, aparentemente sem atentar para o fato de que os itens lexicais que fazem parte da lista de prováveis empréstimos apresentam raízes que excedem o comprimento médio das raízes Tupí-Guaraní, sugerindo que essas teriam sido tomadas como empréstimo de um ancestral Karíb, e não o contrário (RODRIGUES, 2003[1985], p. 397, nota 8).
+É interessante observar, fazendo valer o caráter marcadamente interdisciplinar do trabalho de reconstrução pré-histórica, que, dentre as distintas propostas de relacionamento entre os grupos linguísticos Maipure (Aruák), Jê, Karíb e Tupí, pesquisas genéticas recentes, realizadas por Salzano et alii (2005), encontram melhor suporte para um remoto relacionamento genético Tupí-Karíb, especificamente Proto-Tupí-Proto-Karíb, e mais remotamente desse grupo com Jê, na proposta de Rodrigues (2000a; 2003[1985]).
+Após a separação do Proto-Awetí do Proto-Tupí-Guaraní, esses teriam dado início ao seu longo processo de separação, possivelmente a partir do rio Arinos (RODRIGUES, 2000b, p. 331), que pode ter ocorrido com o desmembramento inicial dos atuais subconjuntos I, II e III7 em direção sul, embora II e III devam ter deixado a Bacia Amazônica primeiro, pois não participam de mudanças compartilhadas pelo subconjunto I e todos os demais subconjuntos amazônicos. Contudo, os subconjuntos I e II também compartilham de mudanças das quais o III não participa, instigando os estudiosos desde o século XVII a compreender essa dupla afinidade do subconjunto II (RODRIGUES, 2000b, p. 1600).
+No que diz respeito à classificação interna da família Tupí-Guaraní, há, entretanto, diferentes propostas (cf. DIETRICH, 1990; RODRIGUES; CABRAL, 2002; MELLO, 2002). Apesar das divergências entre os autores, parece haver certo consenso quanto à oposição entre línguas amazônicas e meridionais, assim
+
+78
+
+CORRÊA-DA-SILVA
+
+como quanto à especificidade do grupo Guaraní (Subgrupo I de RODRIGUES; CABRAL, 2002, e também Subgrupo I de MELLO, 2002) e do grupo Tupí (Subgrupo III de RODRIGUES, CABRAL, 2002, e Subgrupo IX de MELLO, 2002). Por outro lado, Dietrich (1990) identifica relações entre o Tupinambá e línguas amazônicas, ao passo que Mello (2002) opõe os subgrupos I e III de Rodrigues e Cabral (2002), do qual fazem parte o Tupinambá e o Tupí, às línguas amazônicas.
+Em contrapartida, a arqueologia e a linguística oferecem interpretações e modelos explicativos opostos para o desmembramento da família TupíGuaraní.8 No que diz respeito à discussão quanto ao centro de origem e dispersão dessa família, a linguística o situa no alto rio Arinos (RODRIGUES, 2000b), ou possivelmente entre os rios Arinos e Teles Pires, enquanto a arqueologia o situa bastante mais ao norte. Além disso, de acordo com o modelo arqueológico de dispersão Tupí-Guaraní proposto por Brochado (1984), as rotas de expansão propostas com base na distribuição e datação de cerâmica desenvolvem-se no sentido contrário aos propostos por Rodrigues (2000b), com base em dados linguísticos. De acordo com a seriação cerâmica, dois grupos teriam partido da conflluência dos rios Madeira e Amazonas e seguido um em direção leste até a boca do Amazonas, e de lá em direção sul pelo litoral – subtradição Tupí, e o outro subindo o rio Madeira a oeste, interiorizando-se na Amazônia e descendo em direção sul até o rio da Prata – subtradição Guarani (apud NOELLI, 1996).
+Mello e Kneipp (2006), por sua vez, propõem uma terceira alternativa que tenta conciliar os dados arqueológicos e linguísticos, preocupados, sobretudo, em reavaliar as evidências relativas ao centro de origem da família Tupí-Guaraní, o qual situam no leste amazônico, entre o Tapajós e o Araguaia. Essa proposta permite dar conta da proximidade do Tupinambá com as demais línguas TG amazônicas (MELLO, 2002), e incorporar os indícios de empréstimo de um ancestral Karíb para o Proto-Awetí-Tupí-Guaraní (RODRIGUES, 2000b), considerando uma rota de dispersão Karíb no sentido norte-sul, a partir de um centro de origem no maciço guianense, como indicam evidências recentes (cf. MEIRA, 2007). De acordo com a interpretação de Mello e Kneipp (2006), esse encontro deveria ter ocorrido possivelmente no meio-leste amazônico. Contudo, talvez o principal aporte do trabalho de Mello e Kneipp (2006) seja a introdução de uma visão mais dinâmica dos movimentos de expansão e dispersão dos grupos Tupí, com a proposta de movimentos de fluxo e refluxo.
+
+Rev. Est. Ling., Belo Horizonte, v. 18, n. 1, p. 61-86, jan./jun. 2010
+
+79
+
+Seguramente, seja qual for o modelo de análise privilegiado, é preciso conceber esse processo de deslocamento e desmembramento de comunidades de forma altamente dinâmica para poder compreender os movimentos de expansão e dominação de novos territórios dos grupos falantes de línguas Tupí. Uma interpretação reducionista de modelos arbóreos ou cladísticos, que subentende movimentos individuais de deslocamento sempre do mesmo ponto de origem sem que esse se modifique, se distenda e se alargue com o passar do tempo, não pode dar conta de um processo lento e paulatino de conquista, manejo e usufruto de áreas adjacentes, tendo como parte integrante a dinâmica de manejo florestal, com a constante rotação das roças e mudança das aldeias, além do crescimento demográfico e diversas modalidades sociopolíticas de fracionamento das aldeias.
+Tomando como ponto de partida a linguística pré-histórica, este trabalho buscou entrever algo da história, da cultura e da sociedade Tupí ancestral, tentando conciliar a narrativa histórica baseada nas línguas indígenas com as contribuições da arqueologia, da etno-história, da etnologia e da genética. Ainda que o estudo da pré-história por meio da reconstrução linguística seja uma atividade marginal para a grande maioria dos linguistas, a linguística hoje parece ser a ciência que reúne as melhores condições para restituir a (pré-)história a povos que entraram para a História nacional como “povos na infância, [para os quais] não há história: há só etnografia” (VARNHAGEN, 1980[1854]: 1: 30).
+Notas
+1 As reconstruções para o Proto-Tupí utilizadas neste artigo, salvo menção contrária, foram postuladas por Aryon D. Rodrigues (s.d.) Lista de Étimos do Proto-Tupí [ms], elaborada como parte do projeto de pesquisa “Estudo Reconstrutivo e Comparativo do Proto-Tupí: Língua e Cultura”, desenvolvido sob sua coordenação no Laboratório de Línguas Indígenas – LALI, da Universidade de Brasília.
+2 A Arqueologia Pós-Processualista surgiu como crítica aos métodos e práticas arqueológicos processualistas, anteriores aos anos 1980, e se caracteriza pelo ecletismo, geralmente associada ao pós-modernismo e pós-estruturalismo; está em sintonia com as recentes transformações em diversas áreas do conhecimento, desde a Arquitetura até a Crítica Literária, e seu corpus teórico foi definido, por Funari (1995), pela “abertura ao debate e à diversidade, devendo conceber uma multiplicidade nem sempre compatível de abordagens” (OLIVEIRA, 2002).
+
+80
+
+CORRÊA-DA-SILVA
+
+3 ROOSEVELT, Anna C. Early pottery in the Amazon: twenty years of scholary obscurity. In: BARNETT, W. K.; HOOPES, J. W. The Emmergence of Pottery: technology and innovation in ancient societies. Washinton, DC: Smithsonian Institution Press, 1995. p. 115-131.
+4 Tanto a léxico-estatística como a glotocronologia são métodos quantitativos da linguística histórica desenvolvidos por Morris Swadesh nos anos 1950. O primeiro visa avaliar em termos numéricos a porcentagem de cognatos das línguas/famílias analisadas com o fim de determinar a distância relativa de parentesco genético entre elas; ao passo que o segundo é uma ferramenta para avaliar a taxa de mudança do vocabulário básico das línguas, assumindo que essa mudança seja constante e gradual em todas as línguas e culturas. Note-se que, apesar de a linguística histórica questionar os métodos matemáticos em seus estudos tradicionais, esses métodos são amplamente utilizados pela linguística pré-histórica, sobretudo em regiões como a Oceania, bem como por aqueles que se dedicam à protolinguística (período de 7 a 15 mil anos AP, para os quais existem reconstruções consensuais de protolínguas – como o Proto-Indo-Europeu) e à paleolinguística (período de 15 a 27 mil anos AP, para os quais se reconstroem filos ou macrofilos como o Proto-Nostrático) (cf. HEGEDÜS, 1997, p. 67).
+5 Robert Latham, linguista britânico do século XIX, é o iniciador deste princípio (LATHAM, 1851; 1862 apud MALLORY, 1997, p. 95), segundo o qual, o centro de dispersão linguística deve ser procurado na região onde se encontra, no presente, a maior diversidade genética da família.
+6 Para um estudo detalhado das nominalizações com o prefixo PT **-mi- ver Rodrigues, Cabral e Corrêa da Silva (2006).
+7 A correlação de dados genéticos com dados da linguística pré-histórica, a partir de meados dos anos 1990, vem sendo aclamada como ‘the new synthesis’, por aqueles que se dedicam à reconstrução pré-histórica, especialmente em regiões como a Oceania, onde já se faz uso extensivo da correlação arqueologia/linguística (BLENCH, 1997, p. 13).
+8 Para uma análise detalhada do deslocamento dos subconjuntos I, II e III da família Tupí-Guaraní, ver Rodrigues (2000b).
+9 Para uma discussão detalhada dos diversos modelos propostos para o desmembramento da família Tupí-Guaraní, tanto do ponto de vista da linguística quanto da arqueologia, ver Noelli (1996).
+
+Rev. Est. Ling., Belo Horizonte, v. 18, n. 1, p. 61-86, jan./jun. 2010
+
+81
+
+Referências
+ALVES, P. Análise fonológica preliminar da língua Tuparí. 1991. Dissertação (Mestrado) – Universidade de Brasília, 1991.
+BLENCH, R. General Introduction. In: BLENCH, R.; SPRIGGS, M. (Ed.). Archaeology and Language I. London: Routledge, 1997. p. 1-17.
+BRAUN, I.; CROFTS, M. Munduruku phonology. Anthropological Linguistics, v. 7, n. 2, p. 23-39, 1965.
+BROCHADO, J. P. An Ecological Model of the Spread of Pottery and Agriculture Into Eastern South América. 1984. Tese (Doutorado) – University of Illinois at Urbana-Champaign, Carbondale, 1984.
+CABRAL, A. S. A. C. Flexão relacional na família Tupí-Guaraní. Boletim ABRALIN, v. 25, p. 233-262, 2001.
+CABRAL, A. S. A. C. Natureza e direções das mudanças de alinhamento ocorridas no tronco Tupí. In: QUEIXALÓS, F. (Org.). Ergatividade na Amazônia I. Paris: Centre d’études des Langues Indigènes d’Amérique (CNRS, IRD); Brasília: Laboratório de Línguas Indígenas (UnB), 2002. v. 1, p. 5-7.
+CABRAL, A. S. A. C. Fundamentando a reconstrução de prefixos relacionais para o Proto-Tupí. In: CONGRESSO INTERNACIONAL DA ABRALIN, 5, 2007, Belo Horizonte, Resumos... Belo Horizonte: ABRALIN, 2007. p. 438-439.
+CABRAL, A. S. A. C.; ROCRIGUES, A. D. Pronomes e marcas pessoais em línguas do tronco Tupí. In: CABRAL, A. S. A. C.; RODRIGUES, A. D. (Org.). Línguas Indígenas Brasileiras: Fonologia, Gramática e História. Atas, ENCONTRO INTERNACIONAL DO GRUPO DE TRABALHO SOBRE LÍNGUAS INDÍGENAS DA ANPOLL, 1, tomo I, p. 138. Belém: Editora Universitária UFPA. 2002.
+CABRAL, A. S. A. C.; ROCRIGUES, A. D. O desenvolvimento do gerúndio e do subjuntivo em Tupí-Guaraní. In: CABRAL, A. S. A. C.; RODRIGUES, A. D. (Org.). Novos estudos sobre línguas indígenas. Brasília: Editora Universidade de Brasília, 2005. v. 1, p. 47-58.
+CORRÊA DA SILVA, B. C. Mais fundamentos para a hipótese de Rodrigues (1984/ 1985) de um Proto-Awetí-Tupí-Guaraní. In: RODRIGUES, A. D.; CABRAL, A. S. A. C. (Org.). Línguas e Culturas Tupí. Campinas: Curt Nimuendajú, 2007. v. 1, p. 219-240
+DERBYSHIRE, D.C. Clause subordination and nominalization in Tupi-Guaranian and Cariban languages? Revista Latinoamericana de Estudios Etnolinguisticos, Linguística Tupí-Guaraní/Caribe: Estudios presentados en el 47th Congreso Internacional de Americanistas, Nueva Orleans, v. 8, p. 179-198, 1994.
+
+82
+
+CORRÊA-DA-SILVA
+
+DIETRICH, W. More evidence for an internal classification of Tupí-Guaraní languages. Indiana, Berlin: Gebr. Mann Verlag, 1990. Supplemento 12.
+FARGETTI, C. M. Análise fonológica da língua Jurúna. 1992. Dissertação (Mestrado) – Universidade Estadual de Campinas, 1992.
+FERNANDES, F. A organização social dos Tupinambá. Brasília: Edunb, 1989.
+GABAS JR., N. Sistemas de marcação possessiva e pessoal na língua dos índios Arara de Rondônia. In: CENTRO DE ESTUDOS LINGUÍSTICOS E LITERÁRIOS DO PARANÁ – CELLIP, 2, 1988, Londrina. Anais…, Londrina, 1988. v. 2, p. 168-176.
+GASPAR, M.D.; IMAZIO, M. Os Pescadores-Coletores-Caçadores do Litoral Norte Brasileiro. In: TENÓRIO, M.C. (Org.). Pré-história da Terra Brasilis. Rio de Janeiro: Editora UFRJ, 1999. p. 247-256.
+GILDEA, S. The Proto-Cariban and Tupi-Guarani Object Nominalizing Prefix. Revista Latinoamericana de Estudios Etnolingüísticos, v. 8, p. 163-177, 1994.
+HEGEDÜS, I. Principles for palaeolinguistic reconstruction. In: BLENCH, R.; SPRIGGS, M. (Ed.). Archaeology and Language I. London: Routledge. 1997. p. 65-73.
+JENSEN, C.J. Tupi-Guarani. In: DIXON, R.; AIKHENVALD, A. (Ed.). The Amazonian languages. (Cambridge Language Surveys). Cambridge: Cambridge University Press. 1999. p. 125-63.
+LARAIA, R. de B. A estrutura do parentesco tupí. In: GUDSCHINSKY, S.C. (Ed.). Estudos sobre línguas e culturas indígenas. Brasília: Instituto Linguístico de Verão, 1971. p. 174-212.
+LARAIA, R. de B. Los Indios de Brasil. Quito, Ecuador: ABYA-YALA. 1995. (Colección Pueblos y Lenguas Indígenas, 2)
+MALLORY, J. P. The homelands of the Indo-European. In: BLENCH, R.; SPRIGGS, M. (Ed.). Archaeology and Language I. London: Routledge. 1997. p. 93-121.
+MEGGERS, B. J.; EVANS, C. A reconstituição da pré-história amazônica: algumas considerações teóricas. Publicações Avulsas, 20. Belém: [s.n.], 1973. p. 51-69.
+MEIRA, S. Relações Tupí-Karíb: estado atual da questão. In: CONGRESSO INTERNACIONAL DA ABRALIN, 5, Belo Horizonte, 2007. Resumos... Belo Horizonte: ABRALIN, p. 26.
+MELLO, A.A.S. Evidências fonológicas e lexicais para o subagrupamento interno Tupí-Guaraní. In: CABRAL, A. S. A. C.; RODRIGUES, A. D. (Org.). Línguas Indígenas Brasileiras: Fonologia, Gramática e História. Atas, ENCONTRO INTERNACIONAL DO GRUPO DE TRABALHO SOBRE LÍNGUAS INDÍGENAS DA ANPOLL, 1, tomo I, p. 338-342. Belém: Editora Universitária UFPA. 2002.
+
+Rev. Est. Ling., Belo Horizonte, v. 18, n. 1, p. 61-86, jan./jun. 2010
+
+83
+
+MELLO, A. A. S.; KNEIP, A. Evidências linguísticas que apontam para a origem dos povos Tupí-Guaraní no leste amazônico. In: CONGRESSO INTERNACIONAL DE AMERICANISTAS, 52, 2006, Sevilha. [ms]
+MÉTRAUX, A. Migrations historiques des tupi-guaranis. Paris: Maisonneuve Frères, 1927.
+MOORE, D. The syntax of the language of the Gavião indians of Rondônia, Brazil. Tese (Doutorado) – City University of New York, Nova Iorque, 1984.
+MOORE, D. Classificação interna da família linguística Mondé. Estudos Linguísticos, Campinas, SP., v. 34, p. 515-520, 2005.
+NOELLI, F. S. As hipótese sobre o centro de origem e rotas de expansão dos Tupí. Revista de Antropologia, São Paulo, v. 39, n. 2, p. 7-53, 1996.
+OLIVEIRA, S. N. A Arqueologia Guaraní: construção e desconstrução da identidade indígena. 2002. Dissertação (Mestrado) – Universidade de Campinas, 2002.
+PAYNE, D. The Tupi-Guarani Inverse. In: FOX, B.; HOPPER, P. (Ed.). Voice: Form and Function. Amsterdam/Philadelphia: John Benjamins, 1994.
+PEJROS, I. Are Correlations Between Archaeological and Linguistic Reconstructions Possible? In: BLENCH, R.; SPRIGGS, M. (Ed.). Archaeology and Language I. London: Routledge, 1997. p. 149-157.
+PROUS, A. Agricultores de Minas Gerais. In: TENÓRIO. M.C. (Org.). Pré-história da Terra Brasilis. Rio de Janeiro: Editora UFRJ, 1999. p. 345-58.
+RODRIGUES, A. D. As línguas “impuras” da família Tupí-Guaraní. In: CONGRESSO INTERNACIONAL DE AMERICANISTAS, 31, São Paulo, 1955, (org. por Herbert Baldus), Atas... São Paulo: [s.n.], 1955. p. 1055-1071.
+RODRIGUES, A. D. Classification of Tupi-Guarani. International Journal of American Linguistics, v. 24, n. 3, p. 231-234, 1958a.
+RODRIGUES, A. D. Die Klassifikation des Tupi-Sprachstammes. In: INTERNATIONAL CONGRESS OF AMERICANISTS, 32, Copenhagen, 1956, Proceedings... (Ed. Jens Yde), 1958b. p. 679-684.
+RODRIGUES, A. D. Tupinambá (Tupí-Guaraní) e Tuparí. In: ENCONTRO DA ASSOCIAÇÃO BRASILEIRA DE ANTROPOLOGIA, 6, Belo Horizonte, 1961.
+RODRIGUES, A. D. A Classificação do Tronco Linguístico Tupí. Revista de Antropologia, São Paulo, v. 12, p. 99-104, 1964.
+RODRIGUES, A. D. Tupí-Guaraní e Mundurukú: Evidências lexicais e fonológicas de parentesco genético. Estudos Linguísticos, Campinas: Unicamp, v. 3, p. 194-209, 1980.
+
+84
+
+CORRÊA-DA-SILVA
+
+RODRIGUES, A. D. Estrutura do Tupinambá. 1981. [ms]
+RODRIGUES, A. D. Relações internas na família linguística Tupí-Guaraní. Revista de Antropologia, São Paulo, v. 27/28, p. 33-53, 1984/1985.
+RODRIGUES, A. D. Línguas brasileiras: para o conhecimento das línguas indígenas. São Paulo: Loyola, 1986.
+RODRIGUES, A. D. Proto-Tupi Evidence for Agriculture. In: CONFERÊNCIA INTERNACIONAL DE ETNOBIOLOGIA, 1, Belém, PA. 1988.
+RODRIGUES, A. D. Grammatical affinity among Tupi, Karib and Macro-Jê, 1990. [ms]
+RODRIGUES, A. D. Glottalized stops in Proto-Tupi. In: ENCONTRO DE VERÃO DA SSILA, Universidade do Novo México, Albuquerque, 1995.
+RODRIGUES, A. D. Tupi. In: DIXON, R.; AIKHENVALD, A. (Ed.). The Amazonian Languages. Cambridge: Cambridge University Press, 1999.
+RODRIGUES, A. D. ‘Ge-Pano-Carib’ x ‘Jê-Tupi-Karib’: sobre relaciones linguísticas prehistóricas en Sudamérica. In: CONGRESO DE LENGUAS INDÍGENAS DE SUDAMÉRICA, 1, Lima, 1999, Actas... (Ed. Luis Molina), tomo I. Lima: Universidad Ricardo Palma. 2000a.
+RODRIGUES, A. D. Hipótese Sobre as Migrações dos Três Subconjuntos Meridionais da Família Tupí-Guaraní. In: CONGRESSO DA ASSOCIAÇÃO NACIONAL DE LINGUÍSTICA, 2, INSTITUTO LINGUÍSTICO, 14, Florianópolis, 1999, Anais... Florianópolis: ABRALIN. 2000b. 1 CD-Rom.
+RODRIGUES, A. D. Revendo a classificação interna da família Tupí-Guaraní. In: CABRAL, A. S. A. C.; RODRIGUES, A. D. (Org.). Línguas indígenas brasileiras: fonologia, gramática e história. In: ENCONTRO INTERNACIONAL DO GRUPO DE TRABALHO SOBRE LÍNGUAS INDÍGENAS DA ANPOLL, 1, Atas..., tomo I, Belém: Editora UFPA. 2002. p. 327-337.
+RODRIGUES, A. D. Evidências de relações Tupí-Karíb. In: ALBANO, E. et al (Org.). Saudades da língua. Campinas: Mercado de Letras, v. 1, p. 393-410. 2003 [1985].
+RODRIGUES, A. D. As vogais do Proto-Tupí. In: RODRIGUES, A. D.; CABRAL, A. S. A. C. (Org.). Novos estudos sobre línguas indígenas. Brasília: Editora UnB, 2005a. p. 35-46.
+RODRIGUES, A. D. A Reconstruction of Proto-Tupi Phonology. In: WORKSHOP EM LINGUÍSTICA HISTÓRICA E LÍNGUAS EM CONTATO, Brasília: Universidade de Brasília. 2005b.
+
+Rev. Est. Ling., Belo Horizonte, v. 18, n. 1, p. 61-86, jan./jun. 2010
+
+85
+
+RODRIGUES, A. D. As Consoantes do Proto-Tupí. In: RODRIGUES, A. D.; CABRAL, A. S. A. C. (Org.). Línguas e culturas Tupí, v. 1, Campinas: Curt Nimuendajú, 2007a. p. 167-204.
+RODRIGUES, A. D. Agricultura Tupí Pré-Histórica na Amazônia. In: CONGRESSO INTERNACIONAL DA ABRALIN, 5, Belo Horizonte, 2007, Resumos..., Belo Horizonte: ABRALIN, 2007b. p. 453.
+RODRIGUES, A. D.; CABRAL, A.S.A.C. Sobre o desenvolvimento de padrões absolutivos em famílias orientais do tronco Tupí. In: QUEIXALOS, F. (Org.). Ergatividade na Amazônia II, Brasília: Laboratório de Línguas Indígenas, 2004. p. 69-81.
+RODRIGUES, A. D.; CABRAL, A.S.A.C. The Alignment System of Proto-Tupi and the Typological Changes Along its Diversification: a Contribution to the Study of ergativity in Amazonia. In: ENCONTRO SOBRE ERGATIVIDADE NA AMAZÔNIA, 3, CNRS, Paris. 2005.
+RODRIGUES, A. D.; CABRAL, A. S. A. C. Investigando a origem e o desenvolvimento de orações dependentes nas famílias do tronco linguístico Tupí. Revista da ABRALIN, v. 5, n. 1 e 2, p. 11-32, 2006.
+RODRIGUES, A. D.; CABRAL, A.S.A.C.; CORRÊA DA SILVA, B. C. Evidências linguísticas para a reconstrução de um nominalizador de objeto *-mi- em ProtoTupí. (Linguistic Evidences for the Reconstruction of a Proto-Tupi Object Nominalizer **-mi-). Estudos da Lingua(gem), Vitória da Conquista, v. 4, n. 2, p. 21-39, 2006.
+RODRIGUES, A. D.; DIETRICH, W. On The Linguistic Relationship Between Mawé and Tupi-Guarani. Diachronica, v. XIV, n. 2, p. 265-304, 1997.
+RODRIGUES, C. L. Langue Xipaya, étude phonologique. 1990. Dissertação (D.E.A.) – Université de Paris VII, 1990.
+ROSS, M. Social Network and Kinds of Speech-Community Event. In: BLENCH, R.; SPRIGGS, M. (Ed.). Archaeology and Language I. London: Routledge. 1997. p. 209-261.
+SALZANO, F.M. et al Genetic Support for Proposed Patterns of Relationship among Lowland South American Languages. Current Anthropology, v. 46, S121-129, 2005. Supplement.
+SEKI, L.; BRANDON, F. Uma reconstrução parcial do sistema interrogativo Tupí. In: RODRIGUES, A.; CABRAL, A. S. A. C. (Org.). Línguas e Culturas Tupí, Campinas: Curt Nimuendajú, 2007. p. 259-76.
+
+86
+
+CORRÊA-DA-SILVA
+
+STORTO, L. Caso e concordância nas linguas Tupí. Estudos Linguísticos, Campinas, v. 34, p. 59-72, 2005.
+TENÓRIO, M. C. Coleta, processamento e início da domesticação de plantas no Brasil. In: TENÓRIO, M. C. (Org.). Pré-história da Terra Brasilis. Rio de Janeiro: Editora UFRJ, 1999. p. 259-71.
+URBAN, G. A história da cultura brasileira segundo as línguas nativas. In: CARNEIRO DA CUNHA, M. M. (Org.). História dos índios no Brasil. 2. ed. São Paulo: Companhia das Letras; Sec. Municipal de Cultura: FAPESP, 1998 [1992]. p. 87-102.
+VARNHAGEN, F.A. de. Visconde de Porto Seguro. In: História geral do Brasil. 7. ed. São Paulo/Belo Horizonte: Edusp/Itatiaia, 1980 [1854-57]. 5 v.
+
+

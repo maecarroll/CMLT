@@ -1,0 +1,1109 @@
+Madija Noun Morphology Author(s): Patsy Adams Liclan and Stephen Marlett Source: International Journal of American Linguistics, Vol. 56, No. 1 (Jan., 1990), pp. 102-120 Published by: The University of Chicago Press Stable URL: http://www.jstor.org/stable/1265444 . Accessed: 08/11/2013 16:22 Your use of the JSTOR archive indicates your acceptance of the Terms & Conditions of Use, available at . http://www.jstor.org/page/info/about/policies/terms.jsp . JSTOR is a not-for-profit service that helps scholars, researchers, and students discover, use, and build upon a wide range of content in a trusted digital archive. We use information technology and tools to increase productivity and facilitate new forms of scholarship. For more information about JSTOR, please contact support@jstor.org. .
+The University of Chicago Press is collaborating with JSTOR to digitize, preserve and extend access to International Journal of American Linguistics.
+http://www.jstor.org
+This content downloaded from 128.252.52.162 on Fri, 8 Nov 2013 16:22:28 PM All use subject to JSTOR Terms and Conditions
+
+MADIJA NOUN MORPHOLOGY
+PATSY ADAMS LICLAN AND STEPHEN MARLETT
+SUMMER INSTITUTE OF LINGUISTICS AND UNIVERSITY OF NORTH DAKOTA
+1. Introduction. In this paper we present a description of the noun morphology of Madija,l including the phonological rules necessary to account for the allomorphy which is found. Madija nouns of one class show agreement in person, gender, and number with the possessor (although a pronominal possessor is not generally present). In 2 we present the syllable structure and phonemic inventory of the language. Sections 3-5 deal with the agreement facts. In 6 we present an analysis of the phonological alternations which are relevant to the preceding sections. Two of the rules make use of a nonlinear view of phonology (linking the phonemic "melody" to the skeleton in a particular manner). This analysis makes it unnecessary to posit two harmony rules that would otherwise be required. Three rules generate an empty V position which is later filled in by default rules to produce the unmarked vowel e. In 7 we present derivational morphology which produces unpossessed
+I Madija (also known as Culina) is spoken by about 2,500 people in Peru and Brazil in the Jurua Purus river basin. It has been claimed that this language belongs to the Arauan branch of the Arawakan language family (McQuown 1955, for example). The data on which this paper is based were collected during the past three decades by Patsy Adams Liclan and Arlene Agnew under the auspices of the Summer Institute of Linguistics and the Ministry of Education of Peru. Some data were taken from Adams and Powlison (n.d.), although the analysis presented here differs in several important aspects. The authors greatly profited from discussing the Madija facts with Bruce and Jan Benson, Amin Chen, Edward Kotynski, David and Judy Payne, Stephen Walker, and Pamela Wright. We thank Diana Archangeli, Barbara Hollenbach, and two anonymous IJAL reviewers for comments on earlier drafts, which have led to significant improvements in the analysis. They are not responsible for inadequacies which remain.
+The following abbreviations are used: Aux - Auxiliary verb; C - completive; Dr Dorsal node; F - feminine; I - incompletive; M - masculine; N - nominalizer; P1- Place node. Combinations such as I/M mean that the morpheme is the incompletive aspect suffix which shows agreement with a masculine absolutive (see Adams and Marlett 1987 for details).
+In the formalization of our rules we omit the irrelevant nodes such as Root and Supralaryngeal. We assume the hierarchical organization of features (Clements 1985 and Sagey 1986).
+[IJAL, vol. 56, no. 1, January 1990, pp. 102-20] ? 1990 by The University of Chicago. All rights reserved. 0020-7071/90/5601-0004$01.00
+102
+This content downloaded from 128.252.52.162 on Fri, 8 Nov 2013 16:22:28 PM All use subject to JSTOR Terms and Conditions
+
+MADIJA NOUN MORPHOLOGY
+
+103
+
+nouns in Madija. On the basis of phonological rules which apply or do not apply, it appears that we must distinguish between two strata of
+morphology for the Madija noun.
+
+2. Phonemic inventory and syllable structure. Madija has the consonant inventory shown in (1). There are three series of oral noncontinuants-voiceless unaspirated, voiceless aspirated, and voiced. The three series include bilabial stops, dental stops, dental affricates, and velar stops. There is no voiced velar stop. There are two nasal stops, bilabial and dental. The only fricative is the laryngeal fricative. The only liquid varies between a lateral and nonlateral flap, as described below.2
+(1) p t ? k
+
+ph t
+
+kh
+
+b d3
+
+h
+
+mn
+
+r
+
+There are four vowels in Madija: i, e, a, and o. The vowel e is generally an open mid front vowel, and o sometimes fluctuates to [u]. The vowel o may be linked to an onset position in the syllable, where we transcribe it as w. In this position it is pronounced as [w] if it precedes a back vowel (never o), as in awa [awa] 'tree', and [fi] if it precedes a front vowel, as in awi [afli] 'tapir'.
+The examples in (2)-(3) establish the contrasts claimed above.
+
+(2) p
+ph
+b t th d
+3h
+k
+kh
+h
+
+apa 'eat'
+wapha 'monkey (sp.)' aba 'fish' ehete 'fiesta' ethe 'dog' ede 'tree trunk'
+?i?ipe 'gnat' ?hi?hite 'arrow' hi3i 'honey, bee' akomi 'piranha' akhara 'full' tehe 'egret'
+
+poni 'she, her' phoro 'swat' bobo 'owl (sp.)' tatarade 'mouse (sp.)' thatha 'plant (sp.)' dahoni 'canoe'
+?oda 'flea'
+?homi 'worm, parasites'
+3ipa 'clay pot' karo 'rubber'
+khara 'hard, strong' hata 'daughter'
+
+2 There are two minor facts regarding the distribution of these sounds which we should
+mention. First, the r is not commonly found word-initially. Second, the unaspirated voiceless affricate is considerably rarerthan either the aspirated or the voiced one.
+
+This content downloaded from 128.252.52.162 on Fri, 8 Nov 2013 16:22:28 PM All use subject to JSTOR Terms and Conditions
+
+104
+
+INTERNATIONALJOURNAL OF AMERICAN LINGUISTICS
+
+m n r
+(3) a e i o
+
+amani 'her blood' eneni 'her nose' ero 'cockroach'
+ada 'decorative wristband' ede 'tree trunk' idi 'grandfather' odi 'hole'
+
+mahi 'sun'
+nami 'earth'
+robo 'iguana'
+hi3a 'strange' hi3ee 'joke' hi3i 'honey, bee' hi3ora 'wide'
+
+The flap is generally lateral when it is both preceded and followed by the vowel i, and not lateral elsewhere.
+
+(4) po[r]e 'pierced'
+
+o[r]i o[r]a
+
+'paddle' 'tree (sp.)'
+
+3e[r]o e[r]ibo hi[r]ee hi[l]i
+
+'grass' 'our ears' 'be without'
+'sing'
+
+Madija has a very simple syllable structure. In fact, we claim that every syllable in Madija is of the unmarked syllable type CV postlexically, and we posit a very simple association of phonemes to the skeleton.3 We allow for the linking of o to an onset (C) position, however, and the possibility of a C position being left unassociated.
+There are only two restrictions of any significance. The first is that i is not linked to a C position in any lexical representation, although it may be linked to C postlexically. There are no instances of [y] that are not preceded by [i]. The second restriction is that o cannot be linked to two positions inside a single syllable. There is no syllable wo at any level of
+
+representation. As illustrated below, Madija allows the left-to-right association of the
+vowels i and o to an empty C position postlexically. In many other cases the C position is filled by a glottal stop. This occurs whenever the vowels are identical (as in poo [polo] 'manioc'), at the beginning of an utter-
+ance (as in oni [?oni] 'name'), and between certain vowels (such as ai), especially (but not exclusively) when the second vowel is suffixal (as in ka-i [ka?i] 'it is cooked', which contrasts with kaikai [kaikai] 'parrot'). Elsewhere the C position is simply not filled, resulting in what is phonetically a syllable without an onset. The lexical and phonetic representations of several words are given in (5).
+
+3 On the lexical/postlexical distinction, see Kiparsky (1982; 1985) and Mohanan (1986).
+
+This content downloaded from 128.252.52.162 on Fri, 8 Nov 2013 16:22:28 PM All use subject to JSTOR Terms and Conditions
+
+MADIJA NOUN MORPHOLOGY
+
+105
+
+(5a)
+
+Lexical
+
+Phonetic
+
+onii
+[?oni? i] 'other (fem.)'
+(5b) oaa [ owa?a] 'other (masc.)'
+
+on i
+[A
+VCVV
+oa
+IA
+VVV
+
+?o n i ? i
+II I
+CVCVCV
+?o a ?a
+IN II
+CVCVCV
+
+(5c) tia [tiya] you'
+
+t ia
+III
+CVV
+
+ti a
+I
+CVCV
+
+(5d) kao [kao] 'prick'
+
+kao
+III CVV
+
+ka o
+II CVCV
+
+(5e) khai
+[khai] 'crack'
+
+kh a i
+II CVV
+
+kh a i
+II CVCV
+
+There is some variation in these postlexical processes of glottal insertion and spreading, with the result that some words have three possible pronunciations, as shown in:
+
+(6) roi
+
+[roi], [ro?i], [rofli], 'wood borer'
+
+3. Person agreement. Some Madija nouns, primarilybody parts, show agreement with the possessor. (Other nouns are possessed by means of the genitive relational noun -kha 'of', as in ti-kha o3a 'your house'.) Person agreement is indicated by the prefixes in (7). (Additional details are given below.)
+
+(7) Is
+Ip 2
+3
+
+o- o-tati 'my head'
+
+i-
+
+i-tati 'our heads'
+
+ti- ti-tati 'your head' tati 'his head'
+
+UNSP to- to-tati 'one's head'
+
+As shown, the absence of an overt prefix on these nouns indicates that the possessor is third person. Nouns of this class are bound roots.4
+
+4 Some other examples include -bakho 'chest', -bihi 'arm', -bobi 'piece', -bodi 'insides', -bono 'upper lip', -doro 'trunk of body', -3oto 'anus', -hano 'design', -hoi 'shoulder', -kokori 'anklebone', -maho 'scent', -matho 'back of neck', -nokho 'eye, seed, center', -panako 'lap', -pano 'face', -pito 'knee', -taboro 'sleeping mat', -tamidi 'front of neck,
+
+This content downloaded from 128.252.52.162 on Fri, 8 Nov 2013 16:22:28 PM All use subject to JSTOR Terms and Conditions
+
+106
+
+INTERNATIONALJOURNAL OF AMERICAN LINGUISTICS
+
+These person prefixes also occur on verbs.5 Verbs in Madija must be divided into subclasses similar to those for nouns; some verbs occur with
+person affixes and some do not.6 The verb da 'hit' is a verb which takes person prefixes, as in odahari 'I hit'; and the verb da 'give' is one which does not,7 as in da onahari 'I give', where the person prefix occurs on a following auxiliary verb.
+We therefore have groupings of lexical items such as the following:
+
+(8) Nouns which do not inflect:
+
+awa
+
+'tree'
+
+amonehe 'woman'
+
+Nouns which must inflect:
+
+tati
+
+'head'
+
+bihi
+
+'arm'
+
+Verbs which do not inflect:
+
+da
+
+'give'
+
+3oho hoa
+
+'carry' 'shout'
+
+Verbs which must inflect:
+
+da madi ?hona
+
+'hit' 'dwell' 'fall'
+
+4. Feminine agreement. Madija has two gender classes of nounsfeminine and masculine, as described in Adams and Marlett (1987). If the possessor of an inflectable noun is third-person feminine, whether human or not, the suffix -ni occurs on the possessed noun.
+
+throat', -tetepi'upper half of body'. Relational nouns such as -nathi'behind', -toi'for', and -kha 'of' also belong to this class.
+5 There are actually three third-person prefixes which are used with verbs: zero, i-, and to-. The third-person ergative prefix i- is not used with nouns, and so we do not discuss it or the distribution of these prefixes on verbs. See Wright (1988) for extensive discussion.
+6 The classification is not arbitrary. Unaccusative verbs, such as 'die', inflect. Unergative verbs, such as 'shout', and transitive verbs (with a few exceptions) do not inflect. See
+Wright (1988) for discussion. 7 This verb is apparently not related to Spanish dar 'give'; but any connection is
+irrelevant at any rate since almost all basic transitive verbs belong to this class.
+
+This content downloaded from 128.252.52.162 on Fri, 8 Nov 2013 16:22:28 PM All use subject to JSTOR Terms and Conditions
+
+MADIJA NOUN MORPHOLOGY
+
+107
+
+(9) tati-ni 'her head' apha-ni 'its (fem.) leaf'8
+
+In our view this suffix is NOT a third-person feminine possessive morpheme which, unlike other overt person affixes, happens to be a suffix; rather, we take it as a feminine agreement affix which is distinct from person agreement. Some supporting evidence for this view can be found in the only o-initial roots: oni 'name' and ori 'horn'. Unlike other inflectable nouns, these two nouns never occur with person agreement morphemes, although they do occur with the feminine agreement suffix -ni. The person of the possessor may be indicated by a caseless pronoun (or noun phrase) in front of the noun.
+
+(10) tia oni
+
+'your name' (you name)
+
+poni oni-ni 'her name' (she name-F)
+
+These facts indicate that person agreement and gender agreement are separate phenomena in Madija. Another reason for separating person and gender agreement is the fact that the -ni morpheme is not used in verbs, although the person agreement affixes are used.
+We assume that possessed nouns such as tati-ni 'her head' have the structure shown in (1 la) or (1 lb) rather than that shown in (12). (Zeros are added here for clarity of exposition.) (1la) is a flat structure;in (1lb) the root and the suffix -ni are sisters; in (12) the suffix -ni and the zeroinflected root are sisters. The important difference is that the constituent structure of (12) leaves us with two boundaries immediately following the root and therefore does not allow a simple formulation of the Ablaut rule discussed in 6.
+
+(lla) [ 0 [ tati ] ni ]
+
+(llb) [ 0 [ [ tati] ni] ]
+
+(12) [ [ 0 [ tati] ] ni]
+
+5. Plural agreement. The plural morpheme deni occurs at the end of plural human noun phrases (commonly, although not obligatorily), and never follows simple nonhuman nouns such as 'dog'. We analyze this morpheme as a word, since it does not enter into the phonology of the preceding word and it may follow an adjective, as in (13h)-(13i), and relative clauses, as in (13j)-(13n). Nouns which do not otherwise inflect may cocccur with this morpheme.
+
+8 This form could also be glossed 'its leaves'. Plurality of nonhuman nouns is not indicated in Madija.
+
+This content downloaded from 128.252.52.162 on Fri, 8 Nov 2013 16:22:28 PM All use subject to JSTOR Terms and Conditions
+
+108
+
+INTERNATIONALJOURNAL OF AMERICAN LINGUISTICS
+
+(13a) madiha deni (13b) ehedeni deni
+
+'people, Madija people' 'children'
+
+(13c) 3abi?o deni 'young men'
+
+(13d) 30ato deni
+
+'young women'
+
+(13e) Kasinawa deni 'Cashinahuas'
+
+(13f) tamine deni 'chiefs'
+
+(13g) Ibira deni
+
+'Embira river people'
+
+(13h) oaa deni
+
+'the others (masc.)'
+
+(13i) onii deni
+
+'the others (fem.)'
+
+(13j) hada-i deni old-I/M Plural
+
+'the old ones (masc.)'
+
+(13k) hada-ni deni old-I/F Plural
+
+'the old ones (fem.)'
+(131) bani to-kehena-hari deni animal 3-become-C/M Plural
+
+'the ones who became animals'
+
+(13m) hawi ti-ti-de
+
+deni
+
+trail chop-chop-N Plural
+
+'the trail choppers'
+(13n) madiha wapi t-a-hari deni people many 3-Aux-I/M Plural
+
+'many people'
+
+This plural word also follows inflected nouns when the possessor is second- or third-person plural.9
+
+(14) ti-kone deni kone deni
+ti-tati deni tati deni tati-ni deni
+
+'your (pl.) hair' 'their (masc.) hair' 'your (pl.) heads' 'their (masc.) heads' 'their (fem.) heads'
+
+Since deni does not stand alone it would traditionally not be analyzed as an independent word. The fact that it is enclitic phonologically and
+
+9 The morphology of nouns with first-person plural possessors is unambiguous, which suggests a functional explanation for why number agreement is not used with first-person
+plural possessors.
+
+This content downloaded from 128.252.52.162 on Fri, 8 Nov 2013 16:22:28 PM All use subject to JSTOR Terms and Conditions
+
+MADIJA NOUN MORPHOLOGY
+
+109
+
+therefore not an independent phonological word has importance in the following section.
+
+6. Phonology of possessed nouns. Inflected nouns undergo a rule which verbs and uninflected nouns (such as jama 'forest', awa 'tree', aba 'fish') do not. Compare the inflected nouns in:?1
+
+(15) 'my'
+o-na?hope o-kone o-enede
+
+'his'
+na?hope kone enede
+
+'her'
+na?hopa-ni kona-ni anada-ni
+
+'saliva' 'hair' 'chin'
+
+(16) o-ene o-ebeno
+
+ene ebeno
+
+ene-ni ebeno-ni
+
+'nose' 'tongue'
+
+There are no inflected nouns which end in the vowel a superficially. The alternation between a and e in (15) and the nonalternation of e in
+(16) require us to posit underlying forms ending in a for the nouns in
+(15) and change the vowel a to e when it is word-final. The plural word deni does not affect the application of this rule: cf. enede deni 'their
+(masc.) chins'. Therefore the rule accounting for this alternation apparently cannot refer simply to the phonological word (see Booij and Rubach 1987)." Assuming the morphological structure shown in (1la) or (1 lb), we posit the ablaut rule given in (17). In this rule, and in those which follow, we assume radical feature underspecification (see, for example, Archangeli, in press), where the vowel a is [+low], i is [+high], o is [+back], and e is featureless. (Three rules below essentially give e as the output.) Therefore the ablaut rule can be formulated simply as the loss of the Dorsal node if it is [+low]; default feature specifications will produce the vowel e superficially.
+
+(17) Ablaut:
+
+V ] ]N
+
+Place
++
+Dorsal
+
+[+low]
+10Other nouns which show the same alternations as the nouns in (15) include (cited in their underlying form) -apha 'leaf', -abatha 'cheek', -korima 'spirit of dead person', -kota 'younger sibling', -dopa 'under', -jawa 'uterus, afterbirth', -3apa 'hand', -mata 'buttocks', -napha 'egg', -taha 'friend', and -tona 'bone'.
+11We have no evidence for or against an analysis which proposes some prosodic structure which happens to be coterminous with the morphological word here. There is no syllable prominence perceived as stress in Madija which can be used, for example. We
+
+This content downloaded from 128.252.52.162 on Fri, 8 Nov 2013 16:22:28 PM All use subject to JSTOR Terms and Conditions
+
+110
+
+INTERNATIONALJOURNAL OF AMERICAN LINGUISTICS
+
+The application of Ablaut to generate forms such as enede is simple if we assume that consonants and vowels occur on separate planes (McCarthy 1979 and Archangeli 1985).12
+(18) [+low]
+
+Dorsal
+/ I\
+P1 P1 P1
+| | | Ablaut
+VCVCV
+II
+nd
+
+VCVCV
+II
+nd
+
+Default
+
+--
+
+enede
+
+The application of Ablaut to /na?opha/ 'saliva' cannot affect the first a because of the intervening vowel o.
+Since Ablaut (17) does not apply if the suffix -ni is present (konani 'her hair', *koneni), the morphological structure shown in (12) cannot be correct.
+
+We now turn to the phonological rules which are needed to account for allomorphy related to the person prefixes when they appear on vowel-initial roots (nouns or verbs). This allomorphy is shown in:
+
+(19) 'my' o-
+
+'your'
+
+'his'
+
+ti-
+
+'her' -ni
+
+(19a) i-initial roots
+
+o-ede
+
+t-ide
+
+ide
+
+ide-ni
+
+'back'
+
+[oflede]
+
+o-eme
+
+t-ime
+
+ime
+
+o-ino
+
+t-ino
+
+ino
+
+o-ipo
+
+t-ipo
+
+ipo
+
+o-i?ho
+
+t-i?ho
+
+i?ho
+
+ima-ni ino-ni
+ipo-ni
+i?ho-ni
+
+'flesh' 'tooth' 'lower lip' 'leg'
+
+therefore make our analysis dependent on facts which are known and testable-the
+morphological structure of these words. 12 Another possibility, pointed out to us by Diana Archangeli, is based on the proposal
+that features on nonadjacent segments may be subject to the Obligatory Contour Principle (McCarthy 1986 and Yip 1988). Since the Dorsal node is not present for most consonants in Madija, identical vowels in adjacent syllables share this node unless there is an intervening velar consonant. The only possible counterexample to such an account that we have found is 3ewene 'his afterbirth',jawa-ni 'her afterbirth'(see 29). This example shows that an intervening Dorsal node linked to a C does not block 'harmony'.
+
+This content downloaded from 128.252.52.162 on Fri, 8 Nov 2013 16:22:28 PM All use subject to JSTOR Terms and Conditions
+
+MADIJA NOUN MORPHOLOGY
+
+111
+
+(19b) e-initial roots and ablauted a-initial roots
+
+o-ene
+
+t-ene
+
+ene
+
+ene-ni
+
+'nose'
+
+[ofiene] o-ebeno o-etero o-enede o-ebethe
+o-epe
+
+t-ebeno t-etero t-enede t-ebethe
+t-epe
+
+ebeno etero enede ebethe
+epe
+
+ebeno-ni etero-ni anada-ni abatha-ni
+apa-ni
+
+'tongue' 'skin' 'chin'
+'cheek' 'navel'
+
+(19c) a-initial roots (unablauted)
+
+o-athi
+
+t-ethi
+
+athi
+
+athi-ni
+
+'word'
+
+[owathi] o-amori o-aahikone o-ahari o-aahire
+
+t-emori t-e?hikone t-eheri t-e?hire
+
+amori a?hikone ahari a?hire
+
+amori-ni a?hikona-ni ahari-ni a?hira-ni
+
+'foot' 'vein' 'mouth' 'form'
+
+(19d) o-initial roots
+
+o-ati
+
+t-eti
+
+wati
+
+wati-ni
+
+'liver'
+
+[owati] o-aribo
+
+t-eribo
+
+[wati] waribo waribo-ni 'ear'
+
+o-api o-ahohori
+
+t-epi t-ehohori
+
+wapi
+
+wapi-ni
+
+'shape'
+
+wahohori wahohori-ni 'mastoid
+
+area'
+
+Whenever the prefix o- is added, it is syllabic, regardless of whether the next segment is a consonant or vowel. This fact cannot follow from
+general syllabification facts, and so we assume that the prefix o- is linked to a V position in its underlying form.
+We posit the following rules.13 The first rule we discuss, Deletion, applies in (19a)-(19d) by deleting the i of the prefix ti-. The vowel o is not deleted, and so the rule is restricted to delete only the high vowel i. The rule is given as:
+
+(20) Deletion:
+
+12 VV
+
+> 02
+
+I
+Dorsal
+
+[+ hhiigghh]]
+
+13All of these rules are lexical rules and hence obey Strict Cyclicity. They do not apply in underived environments.
+
+This content downloaded from 128.252.52.162 on Fri, 8 Nov 2013 16:22:28 PM All use subject to JSTOR Terms and Conditions
+
+112
+
+INTERNATIONALJOURNAL OF AMERICAN LINGUISTICS
+
+Examples:
+
+/ti-ene/ - tene 'your nose' Iti-idel - tide 'your back'
+
+Another rule that is needed is that of Lowering, given as (21), a rule deleting a Dorsal node with the feature [+high] in a certain environment, yielding an empty vowel position. This rule accounts for the change from i to e after the prefix o- in the words 'back' and 'flesh' in (19a). Ablaut feeds this Lowering rule by creating the empty vowel position to
+the right.14
+
+(21) Lowering:
+
+V
+
+V
+
+C
+
+I
+
+I
+
+Place Place
+
+I
+
++
+
+Dorsal Dorsal
+
+I
+
+I
+
+[+ back] [+ high]
+
+Examples: /o-ide/ - oede [ofiede] 'my back' /o-ima/ - oeme [ofieme] 'my flesh'
+
+Roots beginning with a undergo a rule of Fronting by which the a becomes e when preceded by i. This is illustrated by the forms in (19c), and the rule is given in (22) as a rule which delinks a Dorsal node that is [+low], yielding an empty vowel position (which will become [e]).'5
+
+(22) Fronting:
+
+V
+I
+Place
+I
+Dorsal
+I
+
+V
+I
+Place
++
+Dorsal
+I
+
+[+ high] [+ low]
+
+14 This rule might be better viewed as a rule which harmonizes the second vowel with the third vowel, the C position being irrelevant.
+15There are two situations in which both Fronting (22) and Deletion (20) fail to apply. The first is with the verb 'learn': tiatha 'you learn', rather than *tetha. We assume that the representation of this verb is as shown in (i) to account for this fact. This representation includes an unlinked C in the skeleton.
+
+(i)
+
+th
+
+I
+
+CVCV
+
+\/
+
+a
+
+The causative form of -kha 'go' is irregular in two ways. First, it has neither of the normal causative prefixes, na- or ka-. Second, there are two paradigms, as shown below.
+
+This content downloaded from 128.252.52.162 on Fri, 8 Nov 2013 16:22:28 PM All use subject to JSTOR Terms and Conditions
+
+MADIJA NOUN MORPHOLOGY
+
+113
+
+A form like tethi 'your word' is derived from underlying /ti-athi/ by the application of Fronting (22) followed by Deletion (20). The derivation of a form such as te?heri 'your forehead' proceeds as shown in (23). As with Ablaut, the type of representation in which a vowel feature is multiply linked to the skeletal tier makes it unnecessary for us to posit a rule of vowel harmony in addition to the fronting rule.
+
+(23) t
+
+oh r
+
+I
+
+II
+
+CVVCVCV
+
+t
+
+oh r
+
+Fronting I
+
+II
+
+-
+
+CVVCVCV
+
+P1P P1 P1
+/lI
+Dr Dr Dr
+
+P1
+
+P P P1
+
+I
+
+I
+
+Dr
+
+Dr
+
+[ + high] [ + low] [ + high]
+
+[ + high] [ + high]
+
+Deletion
+
+t ?h r
+III
+CVCVCV V
+
+Default te?heri
+
+PP1I
+
+Dr
+
+[+ high]
+Roots beginning with o lose the o following a vowel.16 The rule is given as (24). (We assume that the specification [+back] makes the feature [-consonantal] unnecessary.)
+
+(The third-person ergative prefix i- is used in both. The first-person forms are homophonous and are phonetically [owakha].)
+
+(ii)
+
+'bring' 'take'
+
+'I'
+'you' 's/he' 'we'
+
+oakha tekha ekha ekha
+
+oakha tiakha iakha iakha
+
+If we assume that the causative prefixes in these verbs have the following representations, these facts are also accounted for:
+
+(iii) V
+I
+a
+
+CV
+I
+a
+
+16Two comments are in order here. First, the only o-initial roots in Madija which inflect for person have another vowel following the o. In effect, of the o-initial roots, it is only the
+
+This content downloaded from 128.252.52.162 on Fri, 8 Nov 2013 16:22:28 PM All use subject to JSTOR Terms and Conditions
+
+114
+
+INTERNATIONALJOURNAL OF AMERICAN LINGUISTICS
+
+(24) o-Deletion:
+
+12 VX
+
+>1 0
+
+Place
+
+I
+Dorsal
+
+I
+[+ back]
+
+Underlying /ti-oapi/ 'your shape' becomes intermediate ti-api by o-Deletion (24), then intermediate ti-epi by Fronting (22), and tepi by Deletion (20).
+To summarize, therefore, we have the following phonological rules which apply in the order shown:
+
+(25) Ablaut (17)
+
+(feeds Lowering)
+
+Lowering (21) o-Deletion (24)
+Fronting (22) Deletion (20)
+
+(feeds Fronting) (feeds Deletion)
+
+7. Nominalizing suffixes. In this section we present various morphemes which derive inflectable nouns.
+There is a derivational suffix -na, which always shows up phonetically as [ne] because of Ablaut. This suffix derives inflectable nouns from roots of other classes and is illustrated in (26). (We discuss below the fact that it does not appear overtly in the third-person feminine column.)
+
+(26) ama
+makha
+
+'bloody' 'snake'
+
+'his' eme-ne mekhe-ne
+
+'her' ama-ni makha-ni
+
+'blood' 'worm'
+
+odi
+
+'hole'
+
+odi-ne
+
+odi-ni
+
+'hole'
+
+mado 3i3i hai
+phaha i3o koma
+
+'rope' 'dark'
+'go (pl.)' 'wet' 'excrement' 'ill'
+
+mado-ne
+3i3i-ne hai-ne
+phehe-ne i3o-ne kome-ne
+
+mado-ni 3i3i-ni hai-ni
+phaha-ni i3o-ni koma-ni
+
+'rope' 'shadow' 'trail'
+'liquid' 'intestines'
+'illness'
+
+ones beginning with nonsyllabic o (phonetically [w]) which inflect for person. We have no explanation for this fact. Second, there is evidence that the deletion of o (syllabic or
+nonsyllabic) takes place after the vowel a if we look to the verbal morphology; consider the forms ophine 'scary', ka-phine 'scared' and wati3e 'be happy', na-ati3e 'make happy'.
+
+This content downloaded from 128.252.52.162 on Fri, 8 Nov 2013 16:22:28 PM All use subject to JSTOR Terms and Conditions
+
+MADIJA NOUN MORPHOLOGY
+
+115
+
+oki
+
+'fat'
+
+oki-ne
+
+oki-ni
+
+'fat, oil,
+
+manako 'pay' phoko 'warm'
+
+honey' manako-ne manako-ni 'payment' phoko-ne phoko-ni 'warmth'
+
+We assume that the derivation of emene proceeds along the lines shown in (27). Crucial to this particular account is the step between Nominalization and Agreement where the two occurrences of the feature [+low] are brought into conformity with the Obligatory Contour Principle. (This step requires positing underlying a for this suffix.)
+
+(27)
+
+[+low]
+
+I
+
+Dorsal
+
+/\
+
+P1 P1
+
+Nominalization
+Agreement
+Ablaut: Default:
+
+VCV
+
+mm [+ low]
+
+[+ low]
+
+Dorsal
+
+Dorsal
+
+/\
+
+P1 P1
+
+P1
+
+II
+
+[ [ V CV ] [ CV ] ]
+
+I
+
+m
+
+n
+
+[+low]
+I
+Dorsal
+/I
+P1 P1 P1
+II [ [ vcv C vV]l] ]
+II
+mn
+
+[ [ V cv
+
+mm n emene
+
+This content downloaded from 128.252.52.162 on Fri, 8 Nov 2013 16:22:28 PM All use subject to JSTOR Terms and Conditions
+
+116
+
+INTERNATIONALJOURNAL OF AMERICAN LINGUISTICS
+
+The absence of the nominalizer -na phonetically when the suffix -ni is present needs to be accounted for. The data in (28) show the straightforward addition of the suffix -ni. The data in (29) show that the
+addition of -ni to nouns which are morphologically simple (so far as we know) also sometimes requires the dropping of the last syllable from the
+root.
+
+(28) 'his' kone tone enede korime ene
+
+'her' kona-ni tona-ni anada-ni korima-ni ene-ni
+
+'hair' 'bone' 'chin' 'spirit of dead person' 'nose'
+
+(29) pinine jewene tonine
+napipine
+
+pini-ni 3awa-ni toni-ni
+napipi-ni
+
+'framework' 'uterus, afterbirth' 'nest' 'stomach'
+
+Apparently there is a phonological truncation rule which applies when a word is of the appropriate length (four syllables) and has the appropriate segments, regardless of its morphological structure.17The rule does not apply to any form in (28), but it applies in (29) and (26).
+
+(30) Truncation:
+0
+
+III
+nan An inflectable noun can also be derived from other words by the addition of the suffix -ri. Some body-part names have the syllable ri and are derived from verbs. These include -6hipari 'gallbladder' (cf. ?hipa 'urinate'), -3ohori 'chest' (cf. 3oho 'carry'), -khobori 'knee' (cf. khobo 'crawl'), and -haha?hiri'lung' (cf. ha?hi 'breathe'). Inflectable nouns with -ri may also be formed on nominal bases. The nouns bani 'meat', 3ama 'land, forest', and boba 'arrow', for example, are not inflectable nouns.
+17 One apparent exception to this rule is the relational noun -nophine; cf. nophine 'for fear of him' and nophineni 'for fear of her'. It is not clear how this noun is related to the adjectival verb root ophine'scary'.
+
+This content downloaded from 128.252.52.162 on Fri, 8 Nov 2013 16:22:28 PM All use subject to JSTOR Terms and Conditions
+
+MADIJA NOUN MORPHOLOGY
+
+117
+
+They cannot be possessed by prefixation, e.g., *o-bani'my meat', *bobani 'her arrow'. However, if the suffix -ri is added, then they must be
+inflected.18
+
+(31) 'his'
+
+'her'
+
+bani-ri bani-ri-ni 'meat'
+
+boba-ri boba-ri-ni 'arrow'
+
+jama-ri 3ama-ri-ni 'land'
+
+This suffix is also used to derive possessed nouns from verbs, although not very productively: jokhe 'die', 3okhe-ri 'what he killed' or 'what killed him'; aba 'dwell', aba-ri-ni 'her house area'.
+There are at least four other ways to nominalize a verb in Madija, but the result is a noun which cannot be inflected. Some of these word
+
+formation rules are fairly regular semantically and some are not. The suffix -de, illustrated in (32) with its concrete derived nouns (primarily agentive), is also used productively to form gerunds.
+
+(32) -de (sometimes with reduplication of first syllable)
+
+mari 'teach' mari-de
+
+'teacher'
+
+boti 'steal' boboti-de
+
+'thief'
+
+3aha 'deep' hopha 'run'
+?hie 'flash' akho 'help'
+hawa 'wash'
+
+3a3aha-de
+
+'rainy season'
+
+hopha-de
+
+'runner'
+
+nami hohopha-de 'vehicle' (ground runner)
+
+Ohi?hie-de
+
+'lightning'
+
+aakho-de
+
+'helper'
+
+?hawa-de
+
+'godfather'
+
+The nominalizations derived by the suffix -e are often, but not always, abstractions.
+
+(33) -e o3khe 'die'
+ohi 'cry' wati3e 'happy' tapa 'feed' boti 'steal'
+do?he 'send'
+hara 'disagree' ebeo3 'decorate'
+
+3okhe-e ohi-e wati3e-e
+tape-e boti-e do?he-e hare-e ebe3o-e
+
+'death' 'sadness'
+'happiness' 'food' 'theft' '(a) command' 'quarrel'
+'makeup'
+
+18Whereas the gender of the possessor generally determines the gender of the noun phrase in Madija if the noun is inflected, this is not true of inflected nouns derived with the suffix -ri. This is a case where the syntax of the noun phrase is not predicted from the morphology. See Adams and Marlett (1987) for discussion.
+
+This content downloaded from 128.252.52.162 on Fri, 8 Nov 2013 16:22:28 PM All use subject to JSTOR Terms and Conditions
+
+118
+
+INTERNATIONALJOURNAL OF AMERICAN LINGUISTICS
+
+The phonology of these affixes is relatively simple. Since Deletion (20) does not apply to the forms in (33), we assume that these affixes belong to a different stratum than agreement affixes. The suffix -e causes an a in the preceding syllable to change to e. This same change is also seen when the suffixes -he (continuative) and -hera (negative) are added to verbs, but not when the nominalizer -de is added (see 32). The rule cannot simply delink the feature [+low], as Ablaut (17) does, since such a rule would predict the incorrect form *here-e for 'quarrel' rather than the correct form hare-e. We propose that the feature [-low], having been supplied by a default feature specification rule, spreads from the suffix to the root in these cases, as shown in:
+(34) [+low] [-low]
+II
+Dr Dr
+/ +,'I
+P1 P1 P1
+
+CVCV V
+II
+hr
+
+Furthermore, the failure of -de to trigger the change suggests that it is added at a different stratum than the nominalizer -e. The behavior of
+affixes with respect to the rule spreading [-low] and Ablaut (17) give indication of the necessity of two strata. In one stratum the morphemes undergo Ablaut; in another stratum the morphemes undergo the rule spreading [-low] rather than Ablaut.
+The nominalizations which are formed by reduplication of the first syllable are primarilyinstruments.
+
+(35) Reduplication of first syllable
+
+ko?i
+hipa ba da do ria 3obi to koro
+
+'whip' 'eat' 'weave'
+'give' 'pound' 'swing' 'dance' 'shoot' 'throw'
+
+koko?i
+hihipa baba dada dodo riria 3o3obi toto kokoro
+
+'(a) whip' 'food' 'shuttle' 'store'
+'pestle'
+'(a) swing' '(a) dance' 'shotgun' 'hook, net
+
+This content downloaded from 128.252.52.162 on Fri, 8 Nov 2013 16:22:28 PM All use subject to JSTOR Terms and Conditions
+
+MADIJA NOUN MORPHOLOGY
+
+119
+
+The remaining nominalizers appear to be suppletive forms whose distribution depends on the preceding vowel quality: -naha following i and o, and -nihi following o and e.19
+
+(36a) -naha
+
+mari wati kahi 3edi waho
+
+'teach'
+'request' 'marry' 'hunt' 'startled'
+
+mari-naha wati-naha kahi-naha
+3edi-naha waho-naha
+
+'teaching'
+'(a) request'
+'marriage' 'way of hunting' 'illness caused by
+
+naato 'create'
+
+naato-naha
+
+fright' 'what was created'
+
+(36b) -nihi
+haha 'laugh' doehe 'send'
+
+mai3a 'trick'
+
+da
+
+'give'
+
+?hawa 'wash'
+
+haha-nihi do6he-nihi
+mai3a-nihi da-nihi ?hawa-nihi
+
+'joke, laughter' 'ceremonial command
+party' '(a) trick' 'gift' 'godchild'
+
+REFERENCES
+ADAMSP, ATSYA, NDSTEPHEMN ARLETT1.987. Gender agreement in Madija. Native American Languages and Grammatical Typology: Papers from a Conference at the University of Chicago, April 22, 1987, ed. Paul D. Kroeber and Robert E. Moore, pp. 1-18. Bloomington: Indiana University Linguistics Club.
+ADAMSP, ATSYA, NDESTHEPROWLISONn.d. Los Fonemas Segmentales del Culina Peruano. Datos Etnolingiisticos, no. 28. Lima: Summer Institute of Linguistics.
+ARCHANGELDI,IANA. 1985. Yokuts harmony: evidence for coplanar representation in nonlinear phonology. Linguistic Inquiry 16:335-72. .In press. Aspects of underspecification theory. Phonology 5, no. 2.
+BooIJ, GEERTA, NDJERZYRUBACH.1987. Postcyclic versus postlexical rules in lexical phonology. Linguistic Inquiry 18:1-44.
+CLEMENTGS,EORGNE. 1985. The geometry of phonological features. Phonology Yearbook 2:223-50.
+
+19Thanks to Barbara Hollenbach for pointing out this possibility to us. Unfortunately, there is no natural class under the feature specifications we have assumed in this article. If the vowels i and o were analyzed as [+high] and the vowels a and e as [-high] vowels, the distribution of -naha and -nihi would be more easily analyzed, but at a cost to the rest of
+the analysis.
+
+This content downloaded from 128.252.52.162 on Fri, 8 Nov 2013 16:22:28 PM All use subject to JSTOR Terms and Conditions
+
+120
+
+INTERNATIONALJOURNAL OF AMERICAN LINGUISTICS
+
+KIPARSKYP,AUL.1982. Lexical Morphology and Phonology. Linguistics in the Morning Calm, ed. I. S. Yang, pp. 3-91. Seoul: Hanshin.
+KIPARSKYP,AUL. 1985. Some consequences of lexical phonology. Phonology Yearbook 2:85-138.
+MCCARTHYJ,OHN.1979. Formal problems in semitic phonology and morphology. Ph.D. dissertation, Massachusetts Institute of Technology. 1986. OCP effects:gemination and antigemination. Linguistic Inquiry 17:207-63.
+McQuowN, N. 1955. Indigenous languages of native Latin America. American Anthropology 57:3.
+MOHANANK, . P. 1986. Lexical Phonology. Dordrecht: Reidel. SAGEY,ELIZABETCH. 1986. The representation of features and relations in non-linear
+phonology. Ph.D. dissertation, Massachusetts Institute of Technology. WRIGHTP, AMELAS. 1988. Madija predicates. M.A. thesis, University of North Dakota. YIP, MOIRA.1988. The obligatory contour principle and phonological rules: a loss of
+identity. Linguistic Inquiry 19:65-100.
+
+This content downloaded from 128.252.52.162 on Fri, 8 Nov 2013 16:22:28 PM All use subject to JSTOR Terms and Conditions
+
+

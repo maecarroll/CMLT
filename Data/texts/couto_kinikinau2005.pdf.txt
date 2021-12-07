@@ -1,0 +1,1665 @@
+VALÉRIA GUIMARÃES DE CARVALHO COUTO
+A LÍNGUA KINIKINAU: ESTUDO DO VOCABULÁRIO E CONCEITOS GRAMATICAIS
+UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL CÂMPUS DE TRÊS LAGOAS TRÊS LAGOAS – MS 2005
+
+VALÉRIA GUIMARÃES DE CARVALHO COUTO
+A LÍNGUA KINIKINAU: ESTUDO DO VOCABULÁRIO E CONCEITOS GRAMATICAIS
+Dissertação apresentada à Coordenação do Programa de Mestrado em Letras do Campus de Três Lagoas, da Universidade Federal de Mato Grosso do Sul, como exigência parcial para a obtenção do título de Mestre em Letras (área de concentração: Estudos Lingüísticos).
+UNIVERSIDADE FEDERAL DE MATO GROSSO DO SUL CÂMPUS DE TRÊS LAGOAS TRÊS LAGOAS – MS 2005
+
+ii
+COMISSÃO AVALIADORA ________________________________________
+Professor Dr. Dercir Pedro de Oliveira ________________________________________
+Professora Drª. Ieda Marques de Carvalho ________________________________________
+Professor Dr. Edson Rodrigues de Carvalho
+
+iii
+Dedico aos meus filhos Sarah, Anna Clara e Lucas que são a razão de meu viver e ao Anderson, que muito amo e sem o qual não teria conseguido trilhar este caminho.
+
+iv
+AGRADECIMENTOS
+Registro aqui o meu reconhecimento àqueles que contribuíram para a concretização deste trabalho:
+Primeiramente a Deus, que nos deu o dom da vida; ao povo Kinikinau, que me recebeu de braços abertos, principalmente ao professor Inácio Roberto e sua família que além das informações sobre a língua, me acolheram com muito carinho e a meus informantes que me ajudaram com empenho nas entrevistas para a coleta de dados; à Sarah, Anna Clara e Lucas, meus filhos, por compreenderem minha ausência e que sempre me inspiraram a seguir em frente; ao Anderson, meu esposo, pela compreensão, incentivo, companheirismo e amor que tem me dedicado em nosso caminho; aos meus pais que foram meus primeiros incentivadores e por me mostrarem desde muito cedo a sempre lutar pelos meus sonhos e o valor dos estudos; ao meu irmão Vinicius pelas dicas e auxílio nas ocasiões que precisei; a minha irmã Luciane pela ajuda com os gráficos e dicas de informática; ao professor Dercir Pedro de Oliveira, por aceitar me orientar e pelos valiosos suportes dado a minha pesquisa;
+
+v
+à professora Aparecida Negri Isquerdo pelas importantes informações, que muito me enriqueceram e pelo carinho e amizade no decorrer do curso;
+à professora Ana Maria Pinto Pires de Oliveira (in memorian), porque mesmo não estando mais entre nós, foi a primeira a acreditar em meu potencial;
+à Miriam Moreira Alves, que muito contribuiu com minha pesquisa, desde a apresentação aos Kinikinau até o encerramento desta;
+aos colegas de mestrado, pelo companheirismo e auxílio nos momentos que precisei;
+aos meus amigos da Escola Estadual José Antônio Pereira, pela solidariedade e compreensão, me ajudando de várias maneiras em diversas situações;
+ao amigo Weliton pelo grande suporte dado as minhas dificuldades com o computador;
+a Coordenação e Secretaria do Mestrado em Três Lagoas, pelo amparo em questões burocráticas;
+a José Luiz de Souza que por sua generosidade me forneceu informações geográficas, mapas e dicas valiosíssimas;
+a Giovani José da Silva pelos dados históricos e artigos que me forneceu, que muito me ajudaram;
+aos meus amigos que direta ou indiretamente contribuíram para mais esta etapa da minha vida acadêmica.
+
+vi
+RESUMO
+O presente trabalho teve por objetivo realizar um estudo sobre os Kinikinau, com base no vocabulário, aspectos gramaticais e tipologia dos constituintes maiores da língua. O corpus foi coletado por meio de entrevistas gravadas com 8 (oito) informantes Kinikinau, com duração de mais ou menos 90 minutos, fazendo uso do mesmo questionário. Para tratamento dos dados utilizou-se o Programa Computacional Goldvarb 2001. Os resultados obtidos apontam para um vocabulário voltado para fauna, flora, fenômenos da natureza e religião, aspectos gramaticais centrados nas classes de palavras e estrutura da oração, ainda, verificou-se que a ordem canônica dos Kinikinau é VOS, e por fim, através de um levantamento sociolingüístico, verificou-se um processo de perda da língua, que precisa de resgate. Finalmente, a pesquisa se revestiu de importância em virtude que os Kinikinau foram considerados, na década de 50 e 60 do século passado, extintos pelo antropólogo Roberto Cardoso de Oliveira. Hoje conseguiram seu reconhecimento e lutam pela conquista de seu território.
+PALAVRAS-CHAVE: Kinikinau; vocabulário, aspectos gramaticais.
+
+vii
+ABSTRACT
+The present work had for objective to carry through a study on the Kinikinau Language, on the basis of the grammatical vocabulary, aspects and tipology of the highest constituent of this language. The corpus was collected by means of recorded interviews with 8 (eight) Kinikinau people, with duration of more or less 90 minutes, making use of the same questionnaire. For treatment of the data was used the Software Goldvarb 2001. The gotten results delimit to a vocabulary directed toward fauna, flora, phenomena of the nature and religion, grammatical aspects centered in the classrooms of words and structure of the conjunct, still, was verified that the canonic order of the Kinikinau is Verb-Object- Subject. The work also verified, through a sociolinguistic survey, a process of loss of the language that appointed that it needs rescue. Finally, the research take an special importance in virtue that the Kinikinau had been considered extinct, in the decade of 50 and 60 of the last century, for the anthropologist Robert Cardoso de Oliveira. Today they had obtained its recognition and they demand the ownership of its old territory.
+KEY-WORDS: Kinikinau; vocabulary; grammatical aspects.
+
+viii
+ÍNDICE DE TABELAS
+Tabela 1: Distribuição dos dados mediante a comparação de vocábulos Kinikinau e Terena................................................................................................................42
+Tabela 2: Distribuição dos dados de acordo com as situações de diferenças e semelhanças entre os vocábulos Terena e Kinikinau ........................................44
+A tabela 3 apresenta a situação do uso da língua Kinikinau de acordo com a faixa etária. Observe:..................................................................................................68
+Tabela 3 - Distribuição dos dados conforme a variável independente faixa etária....68 Gráfico 2: Resultado da Distribuição dos dados conforme a variável independente
+faixa etária..........................................................................................................69 Tabela 4: Distribuição dos dados conforme a variável sexo: ....................................70 Gráfico 3: Resultado da distribuição dos dados conforme a variável sexo: ..............70 Tabela 5: Distribuição dos dados conforme a variável escolaridade.........................71 Tabela 6: Distribuição dos dados conforme a variável campos semânticos .............74 Tabela 7: Distribuição dos dados conforme cruzamento da variável independente
+campo semântico religião e sexo. ......................................................................77 Gráfico 6: Resultado da distribuição dos dados conforme cruzamento da variável
+independente campo semântico religião e sexo. ...............................................77 Tabela 8: Distribuição dos dados conforme cruzamento da variável independente
+campo semântico religião e faixa etária. ............................................................78
+
+ix
+SUMÁRIO
+INTRODUÇÃO ...................................................................................................................... 11
+I PRESSUPOSTOS TEÓRICOS .......................................................................................... 16
+II HISTÓRICO DA LOCALIDADE ....................................................................................25 2.1 LOCALIZAÇÃO DA ALDEIA.........................................................................................25 2.1.1 Figura 1 – Município de Porto Murtinho, sua localização no Mato Grosso do Sul.26 2.2 TRONCO ARUAK .......................................................................................................... 26 2.3 A CHEGADA A ALDEIA SÃO JOÃO ............................................................................ 28 2.3.1 Figura 2 – localização da reserva indígena Kadiweú no município de Porto Murtinho. ..........................................................................................................................29 2.4 RENASCIMENTO DE UM POVO ................................................................................. 31 2.5 SITUAÇÃO ATUAL ........................................................................................................32 2.5.6 Figura 9 – Localização da Escola Municipal Indígena “Ejiwajegi” Extensão Aquidabã na aldeia São João ............................................................................................37
+III DESCRIÇÃO E INTERPRETAÇÃO............................................................................. 40 3.1 O VOCABULÁRIO .........................................................................................................40 3.2 A GRAMÁTICA DA LÍNGUA......................................................................................... 45 3.2.1 O ALFABETO ........................................................................................................45 3.2.2 OS ACENTOS.........................................................................................................46 Acento Agudo............................................................................................................... 46 Acento circunflexo .......................................................................................................46 3.2.3 CLASSES DE PALAVRAS.................................................................................... 46 Substantivos.................................................................................................................. 47 Adjetivos....................................................................................................................... 48 Artigos ..........................................................................................................................48 Pronomes ...................................................................................................................... 49 Numeral ........................................................................................................................ 50 Advérbio ....................................................................................................................... 51 Preposição..................................................................................................................... 52 Verbos........................................................................................................................... 52 Conjunções ................................................................................................................... 53 3.2.4 - SINTAXE..............................................................................................................54 Tipologia: a ordem canônica ........................................................................................ 54
+IV SITUAÇÃO SOCIOLINGÜÍSTICA............................................................................... 59
+
+x
+4.1 Apresentação .................................................................................................................. 59 4.2 História do grupo e dados geográficos. ......................................................................... 62 4.3 Situação socioeconômica do grupo, situação das terras, proximidade com outros grupos indígenas, e com sociedade não indígena e a atitude do grupo em relação às línguas de contato.................................................................................................................63 4.4 Uso da língua de acordo com faixa etária, sexo e grau de instrução............................ 64 4.5 Religiosidade ..................................................................................................................66 4.6 Quantificação dos dados ................................................................................................ 67
+CONCLUSÃO......................................................................................................................... 81
+VI – REFERÊNCIAS BIBLIOGRÁFICAS ......................................................................... 85
+APÊNDICE ............................................................................................................................. 90 VOCABULÁRIO OBTIDO EM ENTREVISTAS ................................................................... 90 SENTENÇAS OBTIDAS POR ENTREVISTAS E CADERNOS DOS ALUNOS ................. 118
+ANEXO.................................................................................................................................. 123 1 - Questionário semântico-lexical do Projeto do Atlas /lingüístico de Mato Grosso do Sul ............................................................................................................................................ 123 2 - RESPOSTAS POSSÍVEIS ..............................................................................................127 3 - QUESTIONÁRIO UTILIZADO NAS ENTREVISTAS ................................................... 131 FOTOGRAFIAS.......................................................................Erro! Indicador não definido.
+
+INTRODUÇÃO
+O povo Kinikinau, que habita atualmente a Aldeia São João, na Reserva Indígena Kadiwéu, município de Porto Murtinho, estado do Mato Grosso do Sul, foi escolhido para campo de pesquisa, por tratar-se de grupo indígena considerado em extinção aproximadamente, desde as décadas de cinqüenta e sessenta do século passado. É um grupo que resistiu a toda pressão que sofreu para a perda de sua identidade e luta por sua terra, sua afirmação, sua legitimidade, como dizem Silva e Souza (2004:150): “Como a ave fênix da antiga tradição egípcia que durava séculos e, uma vez queimada, renascia das próprias cinzas”. Logo um estudo voltado para sua língua torna-se necessário, uma vez que a língua, além de um instrumento de comunicação, é a maneira de manter vivos fatores sócio-culturais de um povo.
+E em se tratando de línguas indígenas, é importante evitar o que aconteceu com várias daquelas, de povos indígenas brasileiros, que passaram por um processo de extinção gradativa desde os primeiros momentos da colonização. Assim, estudar uma língua indígena brasileira em específico, é mais que manter viva a língua de um povo, é enveredar-se pelos caminhos da própria história da cultura brasileira.
+Em vista disso, nos últimos anos tem havido um interesse, por parte de alguns estudiosos, em registrar e estudar amplamente as línguas indígenas tanto no âmbito cultural quanto social, nascendo daí a necessidade de se elaborar dicionários, descrições fonéticas, fonológicas, e, ainda, elaborar estudos morfológicos, sintáticos, sociolingüísticos, entre outros que uma língua pode proporcionar.
+
+12
+O povo Kinikinau é pertencente ao tronco Aruak e a até o presente momento não há estudos concluídos referentes a esta língua1. Os Kinikinau eram ignorados enquanto povo até a década de noventa do século passado. Não era sabido sequer da existência desta etnia, quando nascia um novo descendente deste grupo étnico, este era registrado como Terena. Hoje, contudo, conseguiu seu reconhecimento, luta pela demarcação de suas terras e se preocupa em manter viva sua língua.
+Nosso primeiro contato com o povo kinikinau, foi feito por meio de Miriam Moreira, da Secretaria de Educação do Estado do Mato Grosso do Sul (SEMS), em julho de 2004, durante o Seminário “Povo Kinikinau: Persistindo a resistência”, em Bonito, MS, onde mostramos o interesse em realizar um estudo lingüístico deste povo, que recebeu a notícia com carinho e benevolência.
+Os pressupostos teóricos desta pesquisa têm uma abordagem quantitativa, com sustentação na Sociolingüística de orientação laboviana, com subsídios da Dialetologia e Lexicologia e que possibilitarão um estudo lingüístico do grupo, com base no vocabulário, realçando alguns aspectos morfossintáticos, sem perder de vista as tipologias lingüísticas, que poderão contribuir para a revitalização da língua.
+A escola indígena Emi-Ejiwajegi-extensão Aquidabã, localizada na aldeia São João é vista como meio disponível, com condições para revitalização da língua, o esforço dos professores é visível a todos, contudo necessitam de um apoio de lingüistas, antropólogos, geólogos, entre outros que poderão, juntamente com a comunidade indígena, estar trabalhando para a sistematização da língua e o resgate cultural deste povo.
+Visando à necessidade de um registro lingüístico, que além do registro da língua, mediante a sociolingüística poderá apontar aspectos que podem estar conduzindo a língua à sua extinção, sendo assim o objetivo maior do presente estudo é propalar a realidade social, cultural e lingüística deste povo. Por não haver nenhum estudo científico voltado para a morfossintaxe desta língua, achamos necessário interpretar alguns aspectos gramaticais, e, ainda, voltar-se para a tipologia dos constituintes maiores, como forma de compreender seu processo de realização.
+1 Há em andamento um estudo fonético e fonológico da língua Kinikinau, que está sendo realizado por Hilda de Souza, doutoranda da UNICAMP.
+
+13
+No que respeita aos procedimentos metodológicos, a coleta dos dados foi realizada por meio de entrevistas gravadas em fitas cassetes, in loco, baseando-se no questionário do projeto do Atlas Lingüístico do Mato Grosso do Sul (ALMS) referentes aos campos semântico-lexicais fenômenos atmosféricos, flora, fauna e religião, já que estes campos lexicais fazem parte do cotidiano Kinikinau.
+Tivemos como informantes os habitantes da aldeia São João, estratificados com base nas variáveis extralingüísticas sexo, faixa etária e escolaridade. O córpus foi coletado de acordo com Labov (1972). Entrevistaram-se 8 informantes, quatro homens e quatro mulheres, pertencentes a duas faixas etárias, até 30 anos e acima de 45 anos, com escolaridade rudimentar, fundamental incompleto e ensino médio.
+As entrevistas foram transcritas com o auxilio do professor Inácio Roberto, que é Kinikinau falante da língua e que ministra aulas de Língua Kinikinau para a segunda fase do Ensino Fundamental na escola da aldeia São João, e se empenha na revitalização e preservação da língua através da escola. Mostrou-se muito solidário, dando-nos vários dados sobre a língua, sendo de grande importância para coleta de dados, que se baseou também nas anotações dos cadernos dos alunos Kinikinau.
+O professor Inácio nos informou também que por serem falantes do português brasileiro é preciso que se inicie o ensino da língua Kinikinau traçando um paralelo com a língua portuguesa. Assim, ele inicia com um vocabulário do uso cotidiano, começando com substantivos até se chegar às frases, em séries posteriores, que irão trabalhar com textos para que os estudantes Kinikinau aprendam sua língua.
+Quanto ao uso da língua Kinikinau entre diferentes faixas etárias, assim se distribuem os falantes: a população que se encontra na faixa etária entre 50 –70 anos, os anciãos da aldeia, faz uso da língua Kinikinau entre si e com alguns de outras faixas etárias; os que se encontram na faixa etária entre 30-50 anos falam Kinikinau com os mais velhos e Português com os adolescentes e as crianças, e estes últimos aprendem a língua Kinikinau na escola, há um número reduzido de adolescentes e crianças que falam a língua nativa, mas como segunda língua.
+Após transcrição dos dados obtidos nas entrevistas baseadas no questionário do projeto ALMS (Atlas Lingüístico de Mato Grosso do Sul), utilizou-se o programa GOLDVARB 2001, que por meio de modelos matemáticos, emprega
+
+14
+procedimentos estatísticos convenientes a dados lingüísticos variáveis, quantifica os dados obtidos e fornece resultados estatísticos, sendo assim, proveitoso para este estudo, já que após cruzamento dos dados os quantificará mediante tabelas, proporcionando resultados verossímeis, facilitando bastante a análise dos dados aqui tratados.
+Já os dados obtidos por informações cedidas por Inácio Roberto e os baseados nas anotações dos cadernos dos alunos Kinikinau servirão como base para um superficial esboço da gramática da língua, no que diz respeito à classe de palavras, suas flexões, e a sintaxe que se referirá à tipologia dos constituintes maiores.
+A partir do exposto, os objetivos da pesquisa foram: I-realizar um estudo sobre os Kinikinau, com base no vocabulário, aspectos gramaticais e tipologia dos constituintes maiores da língua; II-levantar a situação da língua na comunidade, valendo-se de recursos da Sociolingüística, procurando apontar as causas que podem estar levando o povo a ter como primeira língua o Português brasileiro; III-auxiliar no processo de aprendizagem da língua na educação escolar, sabendo da necessidade de uma sistematização da língua à medida que são mostradas sua organização e o seu funcionamento pela morfossintaxe, para uma melhor compreensão da gramática e da tipologia lingüística. IV-por fim, a partir destes levantamentos, contribuir com um grupo que se encontra hoje com uma população de aproximadamente 350 pessoas, que além de necessitar da demarcação de suas próprias terras, também carece de suportes para manter viva suas tradições, sua memória, sua língua, e, assim, sua identidade étnica. Atualmente, há um crescente interesse em estudar línguas indígenas brasileiras, provavelmente, por reconhecer a importância destes estudos para um registro de toda a história do povo brasileiro e não é desnecessário lembrar que várias delas já foram extintas desde a colonização. Na abertura do Congresso Internacional da Abralin 2005, Aryon Rodrigues aponta que, no Brasil, atualmente, existem cerca de 220 povos indígenas, destes apenas 180 falam sua língua. Há uma população total de aproximadamente 190.000 pessoas e de 160.000 falantes, e acrescenta, ainda, que, este número é apenas 15% das mais de mil línguas que existiam aqui em 1500.
+
+15
+Por muitos anos, este povo vive sem reconhecimento étnico, sem suas terras, e por viver em terras emprestadas, não tem autonomia e precisa de autorização dos Kadiwéu, donos da terra, para tudo que pretende fazer. O grupo está ciente que ao sair da Aldeia São João, deixará parte de suas vidas, seus antepassados ali enterrados, aproximadamente sessenta anos de história. Contudo, precisa pensar no futuro de suas crianças, no seu reconhecimento e na revitalização de sua cultura. É hora de deixar para trás tantos anos de anonimato e ter de volta o que lhe pertence, que, sem dúvida alguma, é muito mais do que a terra: o reconhecimento, a identificação é principalmente, manter sua língua e sua cultura vivas.
+Cabe-nos, também, ressaltar que, relata-se a presença de membros desse grupo residindo também em aldeias dos Terena, nos municípios de Miranda (Cachoeirinha e Lalima) e Nioaque (Brejão)2, todavia nosso estudo restringiu-se a aldeia São João, por ser o local de maior concentração dessa etnia e que ainda faz uso da língua.
+Estamos cientes de que o caminho é longo e que o referido povo muito precisará empenhar-se para manter viva suas tradições, e para isso, há, ainda, uma necessidade de apoio governamental e de estudiosos das mais diversas áreas, a fim de obter um fortalecimento do grupo, um incentivo à persistência que o mantém unido e em busca de seus direitos. Pretendemos com este estudo contribuir, igualmente com o povo kinikinau que considera a Educação Escolar ponto de partida para suas conquistas.
+2 Informações fornecidas por Giovani de Souza e José Luís da Silva em artigo “O despertar da fênix: a educação escolar como espaço de afirmação da identidade étnica Kinikinau em Mato Grosso do Sul”.
+
+I PRESSUPOSTOS TEÓRICOS
+Atualmente, sabe-se que é impossível estudar a cultura, a história e outros aspectos de um povo, sem que se tenha conhecimento das línguas que os influenciaram. No Brasil, há falares, crenças, ideologias, comportamentos diversificados que podem ser interpretados mediante o estudo do nosso inventário lexical, principalmente se levarmos em conta o que declara Melo (1999:23):
+Uma língua é um comportamento social e como tal está intrinsecamente ligado à vida, à cultura e a história de um povo. São os falares, os modos de ser, os valores, as crenças que fazem com que os povos sejam diferentes ou semelhantes, porém singulares. Não há sequer dois grupos sociais idênticos em todos os aspectos inclusive o lingüístico.
+Como podemos observar, a língua revela a realidade do falante dentro da sociedade que o cerca, pois é da sociedade imediata que ele toma conhecimento do repertório lexical. Ele não o cria sozinho, mas o transmite para as gerações vindouras. Neste processo, este léxico sofre alterações, permanecendo nele, contudo a cultura e a história desta sociedade.
+Ainda, a língua se desdobra, se modifica, de acordo com a necessidade dos falantes em cada discurso, em cada situação e em cada comunidade de fala. Como já foi citado por vários autores, cada língua possui suas particularidades, cada elemento de uma língua pode alterar flexionando ou derivando, pode ser aplicado em situações diferentes. Estes elementos se organizam, a fim de serem enunciados de maneira inteligível, o que na Língua Portuguesa chamamos de frases, que Mattoso (1979) descreve como configuração formal.
+Essa configuração formal ao ser analisada, mostra a “gramática da língua”, a maneira como o falante seleciona e estrutura os elementos que a compõe, como flexiona esses elementos até se chegar à enunciação, e pela enunciação posta em ação, o chamado discurso para estabelecer uma comunicação. É por meio
+
+17
+do discurso que o individuo traz à tona a sua cultura. Remete-se a esse processo com autoridade Câmara Jr. (1977:16):
+Essa estrutura, essa sistematização da língua é que permite ao homem o que se pode chamar a representação do mundo em que ele vive. A língua é assim, antes de tudo, no seu esquema, uma representação do universo cultural em que o homem se acha, como representa esse universo, as suas manifestações criam a comunicação entre os homens que vivem num mesmo ambiente cultural. Mas a representação do universo cultural, na língua, se faz por meio de uma configuração formal da língua que integra os elementos culturais em grupos associativos e multiplica a aplicação de cada elemento.
+Em relação à língua, é de suma importância a formulação do pensamento de Sapir (1961) que é o de que “a língua de uma sociedade, que pensa e fala nessa língua, é a organizadora da sua experiência, seu caráter prelógico e concreto”. Sapir não é idealista, pelo contrário, reconhece a existência e a importância do condicionamento social da gênese, da evolução e da função da linguagem. Em outras palavras, a língua se condiciona de acordo com os processos sociais. Dois conceitos foram considerados primordiais dentro dos estudos sapirianos. O primeiro deles é que a linguagem é um produto social, e o sistema lingüístico definido, no qual fomos educados e pensamos desde a infância, influencia a nossa maneira de perceber o mundo que nos rodeia.
+O segundo e não menos importante é que em razão das diferenças entre os sistemas lingüísticos, as quais são os reflexos dos diferentes meios em que nascem esses sistemas, os homens percebem diferentemente o mundo. Por meio desses conceitos que se baseiam os estudos em questão, percebemos que estão todos relacionados às influências que os indivíduos sofrem no meio em que estão inseridos na formação e produção da fala.
+Assim, embora os referentes evocados por cada membro de uma comunidade lingüística sejam idiossincráticos3 e determinados pela experiência intransferível de cada um, as referências são estruturadas de acordo com padrões (no sentido de Sapir 1961: 83), atribuindo-lhes valores (no sentido de Saussure 1972: 155-169), comuns aos membros de uma mesma comunidade lingüística.
+3 Que se refere à gramática descritiva de uma língua. Dicionário de Lingüística. Zélio dos Santos Jota.1976.
+
+18
+Podemos deste modo inferir que é pela língua que o homem expressa seus pensamentos, seus conceitos, sua visão de mundo. Para expressar-se, além de suas experiências, sua realidade, precisa ter conhecimento da língua, da sua estrutura, de seu funcionamento. Portanto devemos concordar com Calvet (1993:35) que ressalta:
+Uma das reservas que pode manifestar contra as definições de língua que a reduzem a um “instrumento de comunicação” é que elas podem levar a crer em uma relação neutra entre o falante e sua língua.(...) Ora, as relações que temos com nossas línguas e com a dos outros não são bem desse tipo: não tiramos o instrumento –língua de seu estojo quando temos necessidade de nos comunicar, para devolvê-lo ao estojo depois...Com efeito, existe todo um conjunto de atitudes, de sentimentos dos falantes para com suas línguas e para com aquelas que as utilizam, que torna superficial a análise da língua como simples instrumento. ( ) as atitudes lingüísticas exercem influências sobre o comportamento lingüístico.
+A língua interfere sobre nossa maneira de olhar o mundo, de descrevê-lo, de interagir com ele e, finalmente, de construir a nossa realidade. Ao fazer uso da língua, o indivíduo remete o conhecimento e interpretação do mundo que cerca sua comunidade lingüística. Sendo assim, a palavra, além de ser instrumento de comunicação, é meio de registrar toda uma herança cultural e de determinar uma comunidade lingüística.
+Cabe-nos lembrar que a aquisição e a construção da língua passam por um aspecto importante, que é o histórico-cultural. É por meio da história, da cultura da sociedade imediata do individuo que este toma conhecimento do léxico de forma natural e dinâmica. Após a aquisição e o domínio do léxico que o cerca, o indivíduo passa a utilizá-lo para expressar suas idéias, seus sentimentos, sua vontade, questiona, responde, interage com a sociedade. No momento da enunciação o falante seleciona o termo do léxico, combina-o, de acordo com o que quer transmitir, com o que quer representar, e mediante a palavra exterioriza suas concepções, seus pensamentos, representados pela linguagem.
+Sendo assim, a representação do pensamento efetivada por meio da palavra, não externa apenas o pensamento, mas toda uma concepção de mundo, a cultura, seus valores, ideologias e conceitos de sociedade. Há uma relação estreita entre pensamento e fala, na verdade, se completam. Na fala, a palavra vem a ser a elucidação do pensamento, este que transmite a idéia do indivíduo, a compreensão
+
+19
+que tem do mundo que o cerca, todos os aspectos culturais, políticos e sociais que lhes são intrínsecos.
+Segundo Biderman (1998:81): “a palavra é uma entidade de valor mágico, com uma potência criadora do verbo...” E acrescenta ainda (1998:84) que:
+Nas numerosas tradições culturais dos homens a linguagem surge com a palavra instituidora que abre ao ser o espaço para ele se manifestar. Todas as culturas nascem de uma palavra criadora, dita em tempos imemoriais por um poder divino.
+E este ‘valor mágico’ em muitas línguas indígenas é muito claro, já que nestas comunidades lingüísticas, a palavra tem sentido relevante para a transmissão de sua cultura, de seu verdadeiro senso de existência. Por isso os estudos das línguas indígenas se fazem necessários e indispensáveis, pois se trata de uma maneira de manter viva a cultura de um determinado grupo indígena, de partilhar a história cultural de um grupo lingüístico, de perceber como este grupo visualiza sua realidade, o mundo a sua volta, já que segundo Pires Oliveira (2001:109):
+O léxico de uma língua é constituído por um conjunto de vocábulos que representa a herança sociocultural de uma comunidade. Em vista disso, torna-se testemunha da própria história dessa comunidade, assim como de todas as normas sociais que a regem. A riqueza de um léxico é incalculável.
+É preciso que haja mais estudos voltados para a língua indígena, antes que o pouco que lhe sobra se perca. Esta preocupação vem aumentando significativamente nos últimos anos e a Lingüística Indígena desenvolveu-se bastante no Brasil, priorizando hoje à elaboração de descrições de boa qualidade. Este estudo voltado para a Lingüística Indígena constituiu-se muito tarde no Brasil devido a vários fatores. Entre eles Seki (1999:286) destaca:
+(...) a ausência de apoio oficial; o preconceito, de muitas décadas, de que o estudo das línguas indígenas seria irrelevante para fins pedagógicos; o sedentarismo e às vezes oficionalismo de nossos lingüistas; a excessiva disposição de nossos lingüistas para discutir os problemas metodológicos e para incorporar modas exportadas pelo “primeiro mundo”; a falta de reconhecimento da importância que têm (ou podem ter) as línguas não indoeuropéias na formação do lingüista e na construção da(s) teorias(s).
+
+20
+Atualmente, sabe-se claramente que cada língua indígena é fonte inesgotável de cultura, cada cultura indígena é uma identidade, cada identidade é uma forma de ver o mundo, um modo de ser e estar no mundo. Temos visto que há um aumento significativo nas pesquisas voltadas para a Língua Indígena, embora faltem medidas a serem adotadas para o estímulo e apoio a estes estudos. Há também, casos em que estes estudos não são divulgados por inúmeros motivos. Como acrescenta Seki(1999:288):
+Uma das tarefas dos lingüistas conscientes de sua responsabilidade social é auxiliar as comunidades indígenas na luta pela manutenção de suas línguas e suas culturas. Um papel importante tem aqui, a nosso ver, o envolvimento de falantes na investigação de suas línguas e a necessária capacitação dos mesmos para este trabalho.
+No Brasil, país rico em áreas dialetais, há várias línguas indígenas para serem estudadas, em vários âmbitos, entre as quais, diversas que ainda não receberam um estudo aprofundado, outras que não receberam nenhum estudo. Com isso várias línguas se perderam. Segundo Rodrigues4 o número atual de línguas indígenas é apenas 15% das mais de mil línguas que existiam aqui em 1500. Essas perdas são irreparáveis, já que com a extinção delas, vai-se uma parte da história de um povo. Todas as línguas são importantes e não se pode hierarquizálas. Para conhecermos a história do mundo, jamais pode ser deixado de lado o aspecto lingüístico de cada povo que o compõe.
+O que acontece em geral é que por não terem importância política e econômica, os grupos indígenas perdem seus direitos e oportunidades e, conseqüentemente, têm que assimilar a língua dominante para serem aceitos socialmente, no caso do Brasil, a Língua Portuguesa. Ainda que minoritariamente, estes grupos lingüísticos são de grande importância para o conhecimento do inventário lexical brasileiro. Cabe aqui citar Rodrigues (1994:04), ao afirmar que:
+Todas as minorias lingüísticas do mundo são igualmente importantes e essenciais para o conhecimento da língua humana em geral (...) [e] (...) para muitos outros aspectos da cultura (...) tais como a taxionomia (de plantas, animais, seres humanos etc.), a saúde, a organização social, a religião, a mitologia, a cosmologia etc.
+4 Dados recolhidos na palestra de abertura do Congresso Internacional da ABRALIN, 2005.
+
+21
+Temos que levar em conta, também, que essa assimilação da língua dominante tem feito com que várias línguas indígenas se percam, sem que sequer haja seu registro. Obviamente, há outras razões que levam ao desaparecimento destas línguas consideradas minoritárias, não necessitamos aqui discuti-las, uma vez que o que cabe a nós, pesquisadores, é identificá-las e subsidiar trabalhos voltados para a afirmação ou resgates destas línguas.
+Para estes fins, a Sociolingüística tem dado grandes subsídios, quando, mediante suas pesquisas, contribui para o reconhecimento dos fatores que levam a esse desaparecimento. Segundo Braggio (2003:273), a Sociolingüística não só tem mostrado o significado dessas línguas e as razões de sua perda, como apontado caminhos para a sua valorização e seu resgate, e, ainda, acrescenta :
+Essas razões nos interessam sobremaneira, pois é preciso identificá-las nos projetos de (re)vitalização, já que muitas vezes o que aparece na superfície de uma dada situação sociolingüística pode ser apenas a ponta de um iceberg que se ancora em raízes mais profundas, oriundas do contexto socioeconômico, político, ideológico e histórico, que levam uma língua à sua extinção e morte.
+A profundeza dessas raízes faz que se torne difícil o processo de revitalização. No Brasil, desde a colonização, as línguas indígenas foram sucumbidas a um segundo plano, sendo compelido aos povos à aceitação da Língua Portuguesa, a língua dos colonizadores. Por vias disso, muitas línguas se perderam. Há, ainda, outros motivos, como grifa Braggio, na conferência inaugural do segundo Encontro Nacional do Gelco em 2003. A conferencista cita razões apontadas por vários estudiosos, entre elas a extinção de vários povos indígenas pela fome, pelas doenças trazidas pelos europeus e pela escravidão; o avanço das línguas coloniais em detrimentos das indígenas; a educação escolar com obrigatoriedade do ensino fundamental em Português; a globalização e a mudança no ecossistema.5
+Razões para a extinção são várias, no entanto devem sobressair os motivos para sua preservação, como sublinha vários estudiosos: “(i) a constatação dessas línguas como espécies humanas, as quais, uma vez perdidas levam com elas a diversidade cultural e intelectual da humanidade (Hale, 1992, 1998; Krauss,
+5 Conferencia inaugural: Línguas Indígenas ameaçadas: documentação, tipologias sociolingüísticas, educação escolar.
+
+22
+1992, 1996); (ii) o rompimento da transmissão da herança cultural que se dá principalmente através da língua (Crystal, 2000); (iii) a perda de um melhor entendimento da capacidade humana de produzir línguas (Rodrigues, 1993); (iv) a eliminação da complexidade lingüística, juntamente com o que é culturalmente distintivo, único e singular para cada povo (Nettle e Romaine, 2000; Dorian, 1989); (v) a perda das chaves para a sobrevivência psicilógica, social e física, pois a língua é forte marca de identidade cultural (Reyhner, 1996) e, o argumento talvez mais forte, (vi) o de que a perda de uma língua significa a ‘morte’ de um povo (Albó 1988,1999), o que interpreto como a perda do “Espírito” desse povo.6 “
+Vê-se que serão perdas irremediáveis. A lingüística por meio de estudo histórico-comparativo, descrições fonéticas, fonológicas, morfológicas, sintáticas e com instrumentos sociolingüísticos vem trabalhando para que haja uma mudança neste cenário, que se tem apresentado até hoje, todavia, até agora é pouco, já que há um número ainda reduzido de pesquisas voltadas para esse fim.
+Há também, uma corrente positiva em relação à escola, pesquisadores que vêem na Educação Indígena, uma fonte de resgate e reafirmação da língua. Temos ciência que a situação de bilingüismo destes povos pode ser um ponto positivo, como pode ser um ponto negativo, neste último destacamos o fato que já ocorreu com várias destas etnias, assimilarem a língua dos dominantes como primeira língua.
+Isto acontece porque o Brasil apresenta inúmeras línguas indígenas, contudo a maioria dos seus falantes faz uso da língua portuguesa brasileira para uma comunicação fora de suas comunidades lingüísticas, isso em decorrência ao contato tão próximo, fazendo que gerassem um bilingüismo que desse conta das situações de contato, tornando-se bilíngües, no sentido apontado por Jürgen Heye (2002:229):
+situação em que coexistem duas línguas como meio de comunicação num determinado espaço social, ou seja, um estado situcionalmente compartimentalizado de uso de duas línguas”.
+6 Apud Braggio, 2003.
+
+23
+O resultado desse contato, muitas vezes, é a assimilação da Língua Portuguesa como primeira língua, que é um dos caminhos para a perda da língua nativa, e justamente este resultado é um dos objetos de estudo da sociolingüística, que poderá indicar qual a situação real da língua diante disso. Temos conhecimento das pressões que as comunidades lingüísticas sofrem para que assimilem a língua dominante Hamel (1988)7 ”há nas comunidades indígenas uma forte pressão de ordem econômica, histórica, política, lingüística e cultural que leva os falantes da língua indígena a desenvolverem um domínio suficiente para a comunicação na língua da sociedade majoritária”.
+Muitas comunidades indígenas têm obtido na educação um subsídio para o fortalecimento de sua língua. Há grupos que já usam a escrita da língua para vários fins, dentro e fora da comunidade. Hoje o Brasil já conta com escolas em áreas indígenas e com professores indígenas, o que vem aumentando o número de índios alfabetizados. O que necessita agora, é promover propostas de ensino escolar com mais ênfase na língua materna, conforme afirma D’Angelis (2002:120):
+qualquer proposta para a planificação lingüística de uma sociedade em que a escrita tem papel relevante não pode deixar de falar do processo de alfabetização e do ensino escolar da língua materna.
+Isso não quer dizer que a oralidade não tenha sua importância, ela é fator importantíssimo para a transmissão da cultura, porém a sociedade remete valor a escrita, que é também uma forma de registrar a memória de um povo. Cada membro deve não só falar a sua língua, como escrever em sua língua. Essa asseveração é sustentada em Leitura e Escrita em Escolas Indígenas, por Betty Mindlin (1997:59):
+De todo modo, a escrita hoje faz parte do mundo indígena, indispensável aos índios para a defesa dos seus interesses e cidadania. Há quem pense que a escrita pode contribuir para a destruição da oralidade; mas a escrita, por si só, não é necessariamente um fator contrario. Pode se pensar na escrita como estimulando o interesse por raízes culturais, associada a formas de arte orais novas, como teatro, vídeo, rádio. A transmissão da tradição oral está cada vez mais ameaçada pelas transformações e pelos dramas da vida indígena, pela mudança de valores de gerações, nascidas em mundos
+diversos.
+7 Apud Francisco E. Albuquerque.
+
+24
+E para que se chegue a uma escrita adequada da língua, é imprescindível conhecer sua estrutura e seu funcionamento. Fato que é defendido por outros estudiosos da língua indígena: (i) Quanto mais se puder chegar a uma escrita racional, respeitando a estrutura e as regras das línguas, mais fácil será a difusão da leitura.(Mindlin, 1997); (ii) A história da escrita nas línguas ocidentais tem mostrado a importância da “gramaticalização” como fator de normatização e como elemento desencadeador de uma importante reflexão metalingüística (Apud D’Angelis, 2002).
+A língua interfere sobre nossa maneira de olhar o mundo, de descrevê-lo, de interagir com ele e, finalmente, de construir a nossa realidade. Nesse contexto a língua indígena, primeira no território brasileiro, relaciona nossa história, nossa cultura, nosso olhar para o mundo, como bem coloca Rodrigues (1994:27):
+Cada língua indígena brasileira não só reflete, assim, aspectos importantes da visão de mundo desenvolvida pelo povo que a fala, mas constitui, além disso, a única porta de acesso ao conhecimento pleno dessa visão de mundo que só nela é expressa. As múltiplas visões de mundo dos povos indígenas brasileiros – com todo o complexo cultural, social, e emocional a elas associado – tem importância crítica para o conhecimento humano por se terem desenvolvido, durante alguns milhares de anos, com total independência histórica em relação às tradições culturais asiáticas e européias, que caracterizaram a civilização ocidental.
+Temos uma dívida com esses povos, que estão há tanto tempo, à margem da sociedade, que é contribuir com o seu fortalecimento, principalmente se pensarmos, que contribuir com eles é contribuição conosco mesmo, com nossa história.
+
+II HISTÓRICO DA LOCALIDADE
+2.1 LOCALIZAÇÃO DA ALDEIA
+A aldeia São João fica localizada em Porto Murtinho, município do Mato Grosso do Sul, que apresenta uma área de 17.734,8 Km2, o que representa 4,97% da área total do estado. Em 1892, na fazenda Três Barras foi estabelecido um porto para embarque de erva-mate, situado à margem esquerda do Rio Paraguai e aproximadamente a 50 Km a montante do rio Apa, onde nasce a povoação de Porto Murtinho, em homenagem a Dr. Joaquim Murtinho, Presidente do Banco Rio e Mato Grosso. Elevada a distrito pela Resolução 225, de 10 de abril de 1900 chegando a categoria de município pela Lei Nº 560, de 20 de setembro de 1911.
+O município se localiza a 443Km da capital e apresenta uma população de 13.316 pessoas8, 4.977 pessoas em área rural e 8.339 em área urbana. Neste município situa-se a reserva do grupo indígena Kadiwéu, com 538.536 hectares, que representa 88% das áreas indígenas do Mato Grosso do Sul, com a população distribuída em cinco aldeias Barro Preto, Bodoquena, Campina, Tomásia e São João. Sendo esta última, local selecionado para campo de pesquisa, uma vez que o maior número da população Kinikinau ali reside.
+8 Dados fornecidos pelo IBGE.
+
+26 2.1.1 Figura 1 – Município de Porto Murtinho, sua localização no Mato Grosso do Sul.
+2.2 TRONCO ARUAK
+
+27
+Entre os subgrupos remanescentes da nação Guaná, encontra-se os Kinikinau, além deste subgrupo, esta nação é composta por Layana, Exoaladi e Etelenoe (hoje todos denominados Terena). Guaná, Paresi e Xané são do tronco Aruak, que migraram para o Brasil, pela bacia do Rio Paraguai.
+Antes da chegada dos portugueses viviam aqui quatro grandes grupos: Tupi, Jê, Karib e Aruak ou Arauaque. As línguas são agrupadas em famílias e estas, em troncos. Os três principais troncos são:
+1-Tupi –8 famílias e 26 línguas; 2-Macro-Jê – 5 famílias e 16 línguas; 3-Aruak – 20 famílias e 13 línguas.
+Além dos troncos principais, há famílias lingüísticas menores ao sul do Amazonas, existem ainda as línguas chamadas línguas isoladas, ou seja, não revelam parentesco genético com nenhuma outra língua.
+A língua Kinikinau é pertencente ao tronco Aruak, remanescente da nação Guaná. Os grupos Exoaladi, Terena, Layana e Kinikinau atravessaram o rio Paraguai, a partir da metade do século XVIII, instalando-se na região banhada pelo rio Miranda. A nação Guaná foi descrita por Joaquim Alves Ferreira, em documento datado de 1847, assim:
+“7- Guanás – As quatro tribos de que se compõem esta nação (Terena, Kinikinao, Echoaladi e Laiana) pouco ou nada diferem entre si quanto ao modo de existência; seus costumes são mansos e pacificos e hospitaleiros;vivem reunidos em aldeias mais ou menos populosas e muitos deles se ajustam para serviços de toda espécie em diversos pontos da Província e mormente para a navegação fluvial. Sustentam-se da caça e da pesca, mas principalmente da carne de vaca e os produtos da sua lavoura.(...) Fiam, tecem e tingem o algodão e a lã do que fazem ótimas redes, panos, cintos e suspensórios e quase todos entendem o nosso idioma estão em estado de se curar de sua educação intelectual e religiosa. Da tribo que conserva o nome de Guaná, há uma aldeia junto à Freguesia de Albuquerque e outra na margem do rio Cuiabá. 8- Guaná Kinikinao: em número de perto de oitocentos, vivem em uma outra aldeia de Mato Grande distante três léguas do poente de Albuquerque; existe outra aldeia de duzentos indivíduos nas mediações de Miranda.
+
+28
+9- Guaná Terenas: vivem aldeados nas mediações do Presídio de Miranda. 10- Guaná Laianas: habitam também na vizinhança do mesmo presídio.
+Afirma Taunay (1948:268) que “foram os Kinikinaus os primeiros que subiram a Serra de Maracaju, pelo lado, aliás, mais íngreme e se estabeleceram na belíssima chapada que coroa aquela serra”.
+Ao fim da Guerra do Paraguai, os grupos se dispersaram, durante o conflito prestaram serviços aos brasileiros, fornecendo alimentos aos soldados e provavelmente combateram também, tentando defender suas terras. Durante a guerra, tendo que se esconderem, procuraram lugares inóspitos, quando retornaram a suas terras, estas já teriam sido invadidas por posseiros. Após várias perseguições por parte de fazendeiros, posseiros e invasores, foram obrigados a abandonar suas terras e o grupo foi disperso.
+2.3 A CHEGADA A ALDEIA SÃO JOÃO
+O professor João Anastácio, índio Kinikinau, em conversa informal, nos declara que como foram expulsos de suas terras tradicionais, não tendo para onde ir, foram trabalhar em fazendas da região e nas propriedades onde trabalhavam, moravam com suas famílias e que algumas famílias ficaram em Agaxi, próximo a Miranda, mas a perseguição continuava e tiveram que procurar outro lugar. Essa declaração é confirmada por Leôncio Anastácio, o mais antigo Kinikinau, que declara (apud José da Silva e Souza 2004):
+Após a Guerra do Paraguai, os índios Terena e Kinikinawa, além de outros, sofreram sérias perseguições por parte de fazendeiros, posseiros e invasores. O grupo dos Kinikinawa foi disperso, mas algumas famílias estabeleceram-se em Agaxi, próximo a Miranda. Os invasores de terra novamente os perseguiram, obrigando-os a procurar outro lugar. Ficaram sabendo que no local chamado Corvelo havia terras devolutas e para lá partiram. Nesse tempo, já estavam recebendo orientações de um chefe do SPI, conhecido como Nicolau Horta Barbosa. Chegando ao Corvelo, fizeram suas casas, a
+
+29
+terra era boa, então começaram a plantar, mas não demorou muito para aparecer um suposto “dono das terras”. O grupo comunicou o fato ao SPI e este os orientou a procurar o Campo dos Kadiwéu. Foi o que os homens fizeram. No dia 13 de junho de 1940, duas famílias chegaram à aldeia São João, que na época era desabitada. O Coronel Nicolau os acompanhou e determinou onde deveriam construir suas casas. O transporte que usavam era o carretão, uma espécie de carro de boi com rodas e eixo de madeira. O grupo que chegou à aldeia era de aproximadamente 12 pessoas. 9
+Os Kinikinau vivem nas terras dos Kadiwéu há pouco mais de 60 anos. Os documentos existentes na Funai (Fundação Nacional dos Índios), pouco registram sobre a presença dos Kinikinaus na Reserva Kadiwéu. Os Kinikinau eram tidos como extintos. Os informantes contam que no último censo, feito na década de setenta, os pesquisadores que foram até as terras Kadiwéu não chegaram à aldeia São João. E, ainda que as crianças que nasciam eram registrados como Terena, que os pais não se opunham, devido a muitas perseguições que haviam sofrido até então, preferiam se manter no anonimato.
+2.3.1 Figura 2 – localização da reserva indígena Kadiweú no município de Porto Murtinho.
+9 Depoimento do ancião Leôncio Anastácio, concedido ao professor Rosaldo de Albuquerque Souza no final de 2003.
+
+30
+Os Kinikinau ali se mantiveram, vivendo, cultivando, e de certa maneira, protegendo a área Kadiwéu. Para o SPI, instalar os Kinikinau em terras Kadiwéu era a maneira mais apropriada de resolver a situação, já que os Kadiwéu tinham uma grande área demarcada os Kinikinau ocupando uma parte auxiliariam na proteção dos limites da Reserva Indígena Kadiwéu, e ao mesmo tempo, facilitaria ao SPI,
+
+31
+proteger os Kinikinau, embora estes continuariam sem terra própria. E até o presente momento ocupam estas terras, que embora não sendo suas, tem toda sua característica, uma vez que há ali, sessenta anos de “história Kinikinau”. Conforme atesta Silva e Souza (op. cit, 2004):
+Na aldeia São João, ao sul da Reserva, marcada pelo rio Aquidabã — denominação derivada de São João do Aquidavão — vivem os Koinukonoen até os dias atuais. Durante anos serviram aos Kadiwéu em troca da permanência na aldeia. Nesse local houve uma adequação pelo grupo que, dessa forma, transformaram-no em um “lugar Kinikinau”, apropriável para a vida – apropriado através do corpo – dos sentidos – dos passos de seus moradores. Retiraram da terra o sustento e, concomitantemente, deram-lhe vida, preenchendo seu espaço com sua cultura: o ethos Kinikinau.
+2.3.2 Figura 3 - Rio Aquidabã, na aldeia São João
+2.4 RENASCIMENTO DE UM POVO
+Em 1998, um senso realizado pela Prefeitura Municipal de Porto Murtinho revelou a presença de 58 índios que se auto-identificaram como Kinikinau dentre os 195 índios encontrados na aldeia São João.
+
+32
+A partir de 1997, a Secretaria Municipal de Educação Cultura e Esporte do município de Porto Murtinho, tendo realizado reuniões para tratar da Educação Escolar Indígena, quando reunidos com os Kadiwéu, descobriram um pequeno grupo que reivindicava por uma educação diferenciada, por não pertencer ao grupo Kadiwéu nem ao Terena, como até então era identificado. Este foi o primeiro passo na luta pelo reconhecimento.
+Do ano de 2002 a 2004, três índios Kinikinau participaram do Curso de Formação de Professores Kadiwéu e Kinikinau em Porto Murtinho, sendo que dois deles, terminam o curso com êxito: Inácio Roberto e Rosaldo de Albuquerque Souza. O professor Inácio tem participado de alguns eventos em que relata a presença dos Kinikinau e, em entrevista publicada pela revista Nova Escola em abril de 2004, deixa claro o desejo do grupo de ser reconhecido pelos órgãos do governo, para que possam lutar pela posse de suas terras e acredita que através da educação tudo pode mudar.
+Inácio Roberto declara: “Espero que o estudo signifique a valorização cultural e mais respeito para os Kinikinau. (...) é preciso persistência, muita luta e quando ficar muito, muito difícil continuar, pense nos seus filhos, nos seus netos e no seu povo! (...)”.
+Na aldeia São João, reside o maior número de Kinikinau. Há notícias de outros que residem em aldeias Terena em Miranda (Cachoeirinha e Lalima) e em Nioaque (Brejão), em números menores.
+Em 2004, foi realizado o “Seminário Povo Kinikinau – persistindo à resistência”, coordenado pela professora Miriam Moreira Alves e pelo gestor Alcery Marques Gabriel, da Gestão Educação Escolar Indígena da Secretaria de Estado da Educação de Mato Grosso do Sul, em Bonito, MS. Neste seminário, foi dado o primeiro passo para o reconhecimento. Dele saiu a Carta de Bonito10, onde há o pedido oficial para o reconhecimento deste povo.
+2.5 SITUAÇÃO ATUAL
+10 Cópia da Carta de Bonito em anexo.
+
+33
+Atualmente os Kinikinau residem em terras Kadiwéu, Aldeia São João, tendo pouco espaço para a prática da agricultura, atividade típica do grupo, e onde não podem fazer nada sem o consentimento dos donos das terras.
+Os kinikinau são índios trabalhadores, bons agricultores, trabalham também com artesanato. Já está implantada na comunidade a Associação de Ceramistas, um grupo de mulheres que confeccionam peças de cerâmica que são comercializadas, que é uma fonte de renda. A associação tem fortalecido muito este grupo que vende os objetos em exposições, feiras e agora, até para lojas de artesanatos. A matéria prima, a cerâmica, e as tintas são todas produzidas dentro da comunidade. O material é tirado da própria natureza. Os objetos são modelados e assados em fornos no próprio chão e todo pintado à mão e as tintas são preparadas pelas próprias ceramistas. Há também a produção de quadros, confeccionados com couro de gado e com pinturas Kinikinau.
+2.5.1 Figura 4 – Quadros feito de couro de animais
+2.5.2 Figura 5 – vasos de cerâmica – artesanato Kinikinau
+
+34
+2.5.3 Figura 6 – Cerâmica e cestos – artesanato Kinikinau
+Na parte de agricultura são cultivados feijão, arroz, milho, abóbora, melancia, melão, pepino, a maioria é para consumo próprio, já que não possuem uma extensão maior de terra, para expandirem o cultivo e como hoje, encontra-se um número significativo de pessoas na comunidade, o que plantam é para subsistência. Em algumas casas há plantação de verduras e alguns legumes como cenoura, abóbora e beterraba.
+
+35
+Há aproximadamente cinco anos, a aldeia começou a receber cesta básica, do programa Segurança Alimentar, estas cestas contém 10 quilos de arroz, 5 quilos de feijão, 5 quilos de açúcar, 1 quilo de charque, 5 latas de sardinha, 4 litros de óleo de soja, 1 quilo de sal, 2 quilos de leite em pó, 2 quilos de fubá, 1 quilo de macarrão, 1 quilo de farinha de mandioca, 1 quilo de erva-mate e um tablete de 500 gramas de goiabada. Para algumas famílias, com um número grande de membros, principalmente crianças, é pouco. Devido a esse fato muitos homens trabalham em fazendas das redondezas, para sustentar suas famílias, principalmente fora da época de cultivo.
+As famílias registradas no programa Segurança Alimentar recebem o auxílio, algumas que não estão cadastradas não recebem.
+Os problemas surgidos na aldeia são resolvidos em pequenos grupos e passados para os demais. Em momentos de descontração há sempre reuniões entre eles, em que são contadas histórias dos antepassados e são passadas as informações de interesse geral.
+A liderança da aldeia é representada pelo cacique, Pedro Lino, e mais cinco representantes, que são escolhidos pela comunidade. A Liderança (como é chamado o grupo do cacique e mais cinco representantes) se reúne sempre que há necessidade de resolver alguma questão, fazer comunicado, tomar decisões relacionadas à aldeia. O cacique também é escolhido pela comunidade, que também participa das tomadas de decisões.
+2.5.4 Figura 4 – Cacique Pedro Lino e sua esposa
+Em São João, em relação à religião, há na aldeia duas comunidades evangélicas, “Deus é Amor” cujos cultos são realizados por Inácio Flor e
+
+36
+“Quadrangular”, pelo professor Rosaldo Albuquerque Souza. Há uma grande parte dos membros da comunidade que seguem o Catolicismo, a cada dois meses, vem um padre a aldeia, e o Sr. Miguel realiza em sua casa celebrações católicas.
+Há festas tradicionais na aldeia: 19 de abril, comemoração do Dia do Índio, com danças típicas (dança do Bate-pau) e comemorações; 24 de junho, comemoração de São João, com queima de fogueira, quadrilha, baile; e 28 de setembro, dia de São Miguel, o evento acontece na residência do Sr. Miguel, com orações (terço) danças típicas e baile.
+2.5.5 Figura 8 – Jovens Kinikinau com roupas típicas para a dança do Bate-pau
+Atualmente residem na aldeia, em uma área de aproximadamente quatro mil hectares, cinqüenta e três famílias, sendo quarenta e oito Kinikinau e cinco Kadiwéu. Conta-se com um número aproximado de 250 Kinikinau.
+Os casamentos são efetivados pelo chefe de posto que assina os registros e a parte religiosa é realizada nas comunidades evangélicas pelo pastor ou na comunidade católica, quando o padre vem à aldeia ou pelo Sr. Miguel.
+Na entrada da aldeia fica situado o cemitério Kinikinau, ali são enterrados os corpos dos falecidos, é um lugar de respeito, a área é cercada por árvores de todos os tipos, o mato cresce ao redor, e só é roçada em vésperas de finados. Segundo o Professor Inácio, o seu povo acredita que se limpar o lugar antes do citado dia, é como se preparassem para receber outro ente falecido.
+
+37
+Na área da aldeia existe, uma escola que foi inaugurada em 07 de dezembro de 2004, a Escola Emi-Ejiwajegi - Extensão Aquidabã. A escola conta com nove professores. O prédio da escola possui quatro salas, banheiro e cozinha. Em 2005, há cerca de 90 alunos matriculados, que cursam disciplinas de grade curricular diferenciada, entre estas a de Língua Kinikinau, direito assegurado na Lei de Diretrizes e Bases da Educação (Lei nº 9.394 de 20 de dezembro de 1996, no artigo 32 § 3º) e pela Constituição Federal (artigos 210, 215 e 231) que garantem aos índios o direito de uma educação bilíngüe e diferenciada. São alunos e professores que esperam fazer da educação o caminho para o reconhecimento de sua etnia e valorização de sua cultura.
+O ensino, no que diz respeito à primeira fase do Ensino Fundamental (1ª a 4ª séries), é ministrado por professores Kinikinau. Na segunda fase do Ensino Fundamental (5ª a 8ª séries), o ensino é ministrado por professores contratados e não-índios (que residem na comunidade, na antiga escola), com exceção do professor de língua indígena, que é da própria comunidade.
+A escola emprega também mais quatro funcionários administrativos que se responsabilizam pela limpeza e pela merenda distribuída na escola, que segundo elas, agora sempre tem merenda. Estes funcionários são contratados pela prefeitura de Porto Murtinho.
+2.5.6 Figura 9 – Localização da Escola Municipal Indígena “Ejiwajegi” Extensão Aquidabã na aldeia São João
+
+38
+O ensino da Língua Kinikinau, segundo o professor Inácio Roberto, é feito inicialmente, por meio da apresentação de um vocabulário com palavras referentes ao cotidiano dos alunos, da classe dos substantivos, gradativamente vai apresentando frases e expressões, sempre fazendo paralelo com a língua portuguesa, já que atualmente, essa é a primeira língua, a língua materna, alguns só tomam conhecimento da língua indígena na escola, ou seja, uma segunda língua.
+O povo Kinikinau se encontra na aldeia São João e há mais de sessenta anos, no entanto, somente em 1991 foi tornada pública a existência desta etnia. Hoje já há registros publicados sobre a trajetória deste povo considerado por muito tempo extinto. José Luiz de Souza, geógrafo e mestre pela UFMG e Giovani José da Silva, antropólogo e doutorando pela UFG realizaram pesquisas referentes a esse grupo e publicaram dois artigos são eles: O despertar da fênix: A educação escolar
+
+39 como espaço de afirmação da identidade étnica Kinikinau em Mato Grosso do Sul11 e “O lugar Kinikinau”: A trajetória dos Koinukonoen, em Mato Grosso do Sul, na perspectiva da geografia cultural. Os mesmos autores são responsáveis pela elaboração do verbete “Kinikinau” da enciclopédia socioambiental na internet12, que já está inserido no site desde junho do corrente ano.
+O povo Kinikinau já conta com seu reconhecimento, o próximo passo é a demarcação de suas terras. Este povo que acima de tudo é lutador, que não deixa se abater pelas dificuldades, por algum tempo se manteve no anonimato fora da aldeia, mas, segundo eles, sempre estiveram cientes de sua etnia. Precisam de suas terras onde possam viver em paz, passando sua cultura para os mais jovens, revitalizando sua língua, fortalecendo sua identidade e deixando frutos para a história do Brasil.
+11 José da Silva, G., Souza, José Luiz. de, em Sociedade e Cultura, v. 6, nº2 (jul./ dez. 2003). Goiâinia: UFG, 2005. p.149-156. 12 www.socioambiental.org/pib/epi/kinikinau/kinikinau.shtm.
+
+III DESCRIÇÃO E INTERPRETAÇÃO
+3.1 O VOCABULÁRIO
+Alguns estudiosos e pesquisadores consideram que a perda de uma língua e a perda da identidade de um povo. Diante da situação de vários grupos indígenas brasileiros, que não faz uso de sua língua nativa, o citado fato nem sempre ocorre. Contudo, essa afirmação pode ser considerada verdadeira se levarmos em conta que a língua é um dos pontos diacríticos mais relevante na diferenciação de uma etnia. Por esse motivo não podemos deixar que aconteça com as línguas indígenas brasileiras, que ainda são faladas, o que aconteceu com milhares das que aqui havia antes da colonização.
+Atualmente, há uma conscientização de que a escassez dessas línguas acarreta em uma perda lastimável para a história do povo brasileiro. Esse fato é percebido ao presenciarmos os esforços de muitos estudiosos e indigenistas que tem voltado suas pesquisas para essas línguas, contribuindo assim para valorização e resgate delas e como resultado muitas línguas ameaçadas de extinção, hoje, já se encontram em processo de (re)vitalização. Por esse motivo, procuramos levantar a situação da língua Kinikinau dentro da aldeia São João, localização do maior número de pessoas desta etnia.
+Como resultado deste levantamento, apresentaremos nesta pesquisa, a situação sociolingüística da comunidade em estudo, uma descrição da gramática da língua Kinikinau, no que diz respeito à classe de palavras, suas flexões e a sintaxe que se referirá à tipologia dos constituintes maiores, e ainda, um estudo do vocabulário, principalmente um quadro comparativo da língua Kinikinau com a língua Terena, ambas do tronco Aruak.
+O povo Kinikinau sabe que há uma urgente necessidade de revitalizar sua língua e como já citamos anteriormente, vê na educação escolar um meio para isso.
+
+41
+Há um esforço conjunto por parte dos professores Kinikinau para que esse processo se realize. Sabemos, no entanto, que são imprescindíveis apoios teóricometodológicos, subsidiados por pesquisadores e estudiosos, afim de que essa revitalização seja possível.
+Valendo-nos da sociolingüística, procuramos fazer um levantamento da situação da língua Kinikinau dentro da aldeia São João. Como não há até o momento, nenhum estudo lingüístico concluído sobre o grupo, fez-se necessário, um estudo do vocabulário e da sintaxe da língua Kinikinau para que houvesse mais consistência em nossos estudos. Para tanto, realizamos uma descrição dos dados coletados.
+Os dados foram obtidos mediante observações e conversas informais, contato direto com a comunidade - escola, famílias, liderança -, gravação de vídeos, e, principalmente, entrevistas gravadas em fitas cassetes que nos serviram de suporte para conhecimento do vocabulário e levantamento estatístico das situações de uso da língua.
+O questionário utilizado nas entrevistas se refere a fenômenos atmosféricos, flora, fauna e religião. Estes campos semânticos foram escolhidos por se tratar de campos que caracterizam o meio imediato dos falantes, sabendo que o repertório lexical destes é sempre obtido por meio de uma evolução cultural e histórica da sociedade que os cercam. Assim sendo, estudar o léxico de uma língua é propriamente um estudo histórico-cultural, uma vez que a língua, além de um instrumento de comunicação, é a maneira de manter vivos fatores sócio-culturais do povo estudado. É importante destacar que o usuário da língua é quem projeta as idéias de uma sociedade, a partir de realidades regionais, históricas e culturais.
+Durante os anos que viveram em anonimato, segundo os membros da comunidade, entre eles nunca deixaram de reconhecer sua etnia. Muitas famílias procuraram ensinar a língua para os filhos e mantiveram algumas de suas tradições, como a dança do bate-pau, mas a semelhança com o povo Terena muitas vezes, levaram as pessoas a pensar que fossem o mesmo povo, que falassem a mesma língua, no entanto, os Kinikinau afirmam categoricamente que a língua possui certas diferenças.
+Sendo assim, por meio de consulta no Mini vocabulário da língua Terena e com informações cedidas por Alcery Marques Gabriel, técnico da Secretaria
+
+42
+Estadual de Educação e da etnia Terena, realizamos uma coleta de vocábulos, com a finalidade de obter uma pequena comparação dos vocábulos, objetivando um esclarecimento a respeito das semelhanças entre as línguas.
+Para tanto, selecionamos algumas palavras que foram coletadas nas entrevistas in loco, e fizemos um quadro comparativo da grafia destas, com as pesquisadas no mini vocabulário e as informadas por Alcery Marques Gabriel. Utilizamos palavras que coincidiram nas entrevistas e no mini vocabulário, como as coincidências eram pouco significativas, coletamos mais algumas com o Alcery tentando abranger os campos semânticos fauna, fenômenos atmosféricos, flora, partes do corpo, e finalmente algumas que são usadas correntemente pelos dois povos. Trabalhamos com 30 (trinta) vocábulos, aproximadamente 30% dos 102 (cento e dois) coletados em entrevistas, que apresentamos na tabela seguinte:
+Tabela 1: Distribuição dos dados mediante a comparação de vocábulos Kinikinau e Terena
+
+Língua portuguesa Vaga-lume cachorro Gato lagartixa Abelha Ema Galinha Vento Nuvem Três marias Arco-íris Sereno relâmpago Trovão
+
+Kinikinau yamití tomiuku piririu lupi oropa kipâe tapî’i honowoti kapasi mopu’ati Maria he’epatika tokue ikurumekoti xururúkoti
+
+Terena Namíti Tamúku marakáya/ vivi Sêmu Mópo Kipâe tapî’i ihunóvoti kapasí Mopo’âti Maria úpikovoe Tokoé parúkoti xururukoti
+
+Goiaba Banana Guavira Fruta Boca Dente Olho Orelha Pé Cabeça Bola Carne Casa minha casa Campo Brinco
+
+wayawá pânana wawirá há’i poho o’é uké kenó hêwe tuti epo’ene nâum owokuti owongu mêum kâké
+
+43
+Arâha pânana Vavîra há’i pohoti Oêti Ukêti kenôti Hevêti Tutíye epo’e Nâuti ovokúti mbêno/ rembino mukûm kakêti
+
+Após relacionar os vocábulos, encontramos quatro situações distintas, que são as seguintes:
+1-vocábulos completamente diferentes, como no caso de piririu e marakáya (gato), lupi e sêmu (lagartixa), he’epatika e úpikovoe (arco-íris) e wayawá e arâha (goiaba);
+2- vocábulos com grafias diferentes e sons que se assemelham, como por exemplo, tokue e tokoé (sereno), wawirá e vavîra (guavira), owokuti e ovokúti (casa) e yamití e namíti (vaga-lume);
+3-vocábulos com raiz semelhantes e divergem em uso de sufixos, como aparecem em poho e pohoti (boca), uké e ukêti (olho), kenó e kenôti (orelha) e tuti e tutíye (cabeça); e
+4-vocábulos que são semelhantes na grafia e pronúncia, como vimos em pânana (banana), há’i (fruta), kapasí (nuvem) e tapî’i (galinha).
+
+44
+
+Na realização do cruzamento dos dados estratificando-os de acordo com as situações que apresentamos anteriormente, com a finalidade de um levantamento estatístico, encontramos os resultados que aduzimos na tabela seguinte.
+Tabela 2: Distribuição dos dados de acordo com as situações de diferenças e semelhanças entre os vocábulos Terena e Kinikinau
+
+situações quantitativo
+Número de vocábulos porcentagem
+
+Diferentes em Som som e grafia semelhante
+Grafia diferente 9 vocábulos 7 vocábulos
+
+30%
+
+24%
+
+Raiz igual e Grafia e som
+
+sufixos
+
+iguais
+
+diferentes
+
+8 vocábulos 6 vocábulos
+
+26%
+
+20%
+
+Como mostram os dados estatísticos na tabela 2, 20% dos vocábulos apresentam sons e grafias iguais, já 24% deles se manifestam com grafias diferentes e sons semelhantes. No que se refere a vocábulos com raiz igual, contudo, em Terena, há o acréscimo de sufixos, pois aparecem em 26% dos casos e 30% dos vocábulos obtidos, apresentam sons e grafias diferentes, portanto sobressai esta última situação, ou seja, a maioria dos vocábulos comparados apresenta-se diferentes em Kinikinau e Terena, conforme indica o gráfico seguinte:
+
+Grafico 1: situações de diferenças e semelhanças entre os vocábulos Terena e Kinikinau
+
+20%
+
+30%
+
+26%
+
+24%
+
+diferentes em som e grafia som semelhante grafia diferente Grafia e sons iguais raiz igual sufixo diferente
+
+45
+Com base no exposto, podemos inferir, em primeira interpretação que, por pertencerem ao mesmo tronco lingüístico, e que devido ao contato que o povo Kinikinau tem e sempre tiveram com o povo Terena, inclusive há vários casos de casamentos entre estes dois povos, e, ainda, por haver muitas palavras que já são empréstimos lingüísticos da língua portuguesa, é natural que as duas línguas apresentem palavras cognatas que estas semelhanças ocorram.
+Cabe-nos ainda destacar que num número maior de vocábulos que apontamos, 30% é diferente, ou seja, a língua Kinikinau em vários aspectos difere da língua Terena. Todavia, estamos cientes da necessidade de aprofundar os estudos lingüísticos comparativos, que subsidiem a conclusão de que a língua pesquisada não é apenas um dialeto Terena, mas sim, um dos pontos diacríticos do povo Kinikinau.
+3.2 A GRAMÁTICA DA LÍNGUA13
+3.2.1 O ALFABETO
+Para a grafia das palavras é utilizado o alfabeto a seguir, que segundo o professor Inácio, é o que ele tem usado para ensinar a grafia das palavras da língua na escola, já que até o presente momento, não há nenhuma descrição oficial da língua.
+A, mb, nd, e, ng, h, i, nj, k, l, m, n, o, p, r, s, t, u, w, x, y, nz, ’(glotal). O glotal é um marcador de pausa, ou seja, fica entre duas vogais de uma
+palavra quando tem uma pequena pausa: Exemplos: kohe’e – lua tapi’i – galinha há’i – fruta
+13 O esboço da gramática aqui exposto foi baseado em informações do professor Inácio Roberto, professor da língua Kinikinau, e filho de dona Zeferina, uma das mais antigas moradoras da aldeia.
+
+46
+3.2.2 OS ACENTOS Quanto aos acentos, a língua kinikinau apresenta o acento agudo e acento
+circunflexo. Por não ter estudado a fonética, nem a fonologia da língua, não trataremos aqui, de uma explanação maior referentes a sílabas tônicas, passaremos apenas, para a descrição que pudemos perceber quanto ao uso dos citados acentos nas palavras que coletamos nas observações em sala de aula e entrevistas.
+Acento Agudo
+É usado na sílaba tônica das palavras: Exemplos: yupóniti – cedo repenotí – camisa hóyeno – homem
+Acento circunflexo O acento circunflexo é utilizado na marcação de uma pronúncia mais
+prolongada da silaba. Como podemos perceber nos exemplos abaixo:
+Exemplos: ûndi – eu sêno - mulher kûre – porco
+3.2.3 CLASSES DE PALAVRAS Em Kinikinau pudemos perceber as classes de substantivo, adjetivo,
+artigo, pronome, verbo, advérbio, preposição e numeral. Enquanto, preposição, conjunção e interjeição não foram encontradas nos dados obtidos em entrevistas direcionadas, nem nos exemplos coletados com o professor da língua.
+
+47
+
+Substantivos
+Em Kinikinau, do mesmo modo que em todas as línguas, o substantivo é a classe de palavras com maior número de ocorrências, e é a partir dele que a língua é ensinada na escola. Alguns substantivos são empréstimos do português, sendo que há uma adaptação na pronúncia e algumas vezes na grafia dos mesmos.
+Quanto à flexão, em se tratando de grau, o aumentativo não foi encontrado flexionado junto à palavra, quando induzido nas perguntas como, por exemplo, “o peixe pequeno é peixinho o peixe quando grande é o...?” A resposta obtida era “hanaití hôe – grande peixe”.
+Já o diminutivo é marcado pelo acréscimo da palavra kali antes do nome, como se fosse um prefixo às vezes incorporado na palavra, outras vezes não. Servindo tanto para designar peixinho como menino, homem ainda pequeno (kaliwôno).
+Exemplos: kali hôe – pequeno peixe, peixinho kali hóyeno – homem pequeno, homenzinho kaliwôno – menino, criança
+
+No que se refere à flexão de número, a marca de plural é feita pelo acréscimo da expressão hiko após os substantivos, assim ‘hóyeno’ é homem, ‘hóyeno hiko’ é usado para homens. Outros exemplos:
+
+1- Koyuhópeti – koyuhópeti hiko
+
+livro
+
+livros
+
+2- há’i - há’i hiko fruta frutas
+Quanto à flexão de gênero, alguns substantivos são biformes, encontramos, por exemplo, Hoyeno - Sêno / homem – mulher ou Tûru – wâca / touro – vaca. Há dentro dos exemplos coletados, um número maior de substantivos uniformes, kaliwôno usa-se tanto para menino, quanto para menina; tomuku designa cachorro e para indicar cachorra usa-se sêno tomuku (sêno/ mulher – tomuku/ cachorro).
+
+48
+Adjetivos
+Na língua Kinikinau, os adjetivos são antepostos aos substantivos e não se flexionam em grau, nem gênero e no que diz respeito ao número, como a marca de plural é posposta ao substantivo com a palavra hiko, este se refere também ao adjetivo.
+Exemplos: Hapu’iti kapasí – branca nuvem Kotuti mêum – quente tempo Honono’iti ûke – azul olho Heha’iti tûti hiko – pretos cabelos Exoketi arunoen hiko – bonitas moças
+Porém, em se tratando de locução adjetiva, quando se utiliza a locução para caracterizar o substantivo, a locução aparece posposta ao substantivo. Como por exemplos folha de árvore, se diz tûti tikôti – folha da árvore (tûti – folha/ tikôti – árvore), ûne ûkó – água de chuva (ûne – água/ ûkô – chuva).
+
+Artigos
+
+Dos dados coletados, os artigos parecem ser opcionais, já que, há momentos, em que ‘ne’ aparece na oração como artigo, em outros momentos, os artigos não aparecem.
+
+Exemplos:
+
+1- As mulheres dormiram.
+
+Imokó
+
+sêno
+
+Dormiram mulheres
+
+hiko plural
+
+2- O menino gosta de melão.
+Yómoti merum kaliwonó gosta melão menino
+
+49
+
+3- A moça vendeu a fruta.
+
+Kawania há’i ne arunoen
+
+vendeu
+
+fruta a moça
+
+Segundo o professor Inácio Roberto esse fato acontece devido à existência de pessoas que são da etnia Terena na comunidade, que utilizam o artigo ne, e como os idiomas se assemelham em alguns dados coletados apareceu o ne, as duas etnias são do mesmo tronco lingüístico Kinikinau, Aruak.
+
+Pronomes
+1- Pronome pessoal – os pronomes pessoais que em português temos em três pessoas, no plural e no singular, em Kinikinau apresentam duas pessoas no plural e no singular. São eles:
+Ûndi – eu Îti – você Ûti – nós Îti hiko – vocês
+2- Pronome possessivo - existem os pronomes, também em duas pessoas, contudo quando funcionam como pronomes adjetivos estes são incluídos nos nomes como prefixos ou sufixos. A palavra casa – owokuti, se acompanhado de um possessivo varia em ‘Wowoku’- nossa casa, ‘yowoku’- sua casa, ‘owongu’ - minha casa.
+Através de alguns dados obtidos, pudemos registrar algumas particularidades quanto ao uso do pronome possessivo junto ao nome, na maioria dos casos, os pronomes de primeira pessoa, são acrescentados através do prefixo nj ou apenas n, como no caso de ‘hêwe’ (pé), njewe (meu pé), outro exemplo em ‘hîpó (unha), njîpó ( minha unha); outras vezes, esse processo se dá por meio de sufixo: ûne (água), unêna (minha água); e ainda, o processo se dá pelo acréscimo de prefixo e sufixo simultaneamente, como no caso de kamon (cavalo), ngamona (meu cavalo).
+
+50
+Este processo precisa de um estudo mais aprofundado, já que os professores de língua Kinikinau não souberam explicar qual o critério para o uso de cada caso.
+Os tipos de pronome possessivo são:
+Índuke – meu, minha ítike – seu, sua Índuke hiko – meus, minhas ítike hiko – seus, suas
+3- Pronome demonstrativo – neste tipo de pronome, o único que se apresenta na língua é o de terceira pessoa aquele ou aquela, ‘enépone’, e no plural, aqueles ou aquelas, acrescenta-se à partícula de plural hiko, ficando assim ‘enépone hiko’.
+4- Pronome indefinido – Quase não há uso desses pronomes na língua, o único que foi possível perceber nas entrevistas foi o ‘todo’, quando perguntamos de que lado vem o vento? E obtivemos a resposta: ‘heu koiti ukiâku’ - heu koiti / todo, e ukiâku/lado. – Não ocorreram outros casos.
+Numeral
+O idioma Kinikinau apresenta os numerais cardinais, há, no entanto, uma particularidade, estes numerais, para os primeiros falantes ia até o três, hoje, há o uso dos numerais até o dez, sendo que do quatro em diante foram feitas adaptações da língua portuguesa. São eles:
+01 - póhuti 02- pi’ati 03 - mopu’ati 04 - kuatru 05 - singu 06 - seis
+
+51
+07 - seti 08 - oitu 09 - nove 10 - desi
+Quando há necessidade de falar em uma quantidade maior, o número é indicado por múltiplos, muitas vezes, para tanto, utilizam a dúzia, no caso para falar 24, é utilizado pi’ati dúzia (duas dúzias).
+
+Advérbio
+
+Em Kinikinau aparecem advérbios e locuções adverbiais de lugar e tempo. Como por exemplo:
+
+Yayê - aqui Kuwêuke - dentro Meukêke - fora Akapiti - atrás Wanuke - em cima iharôti - amanhã Kiyakaxe - de tarde
+
+Esses advérbios, nas orações, aparecem sempre no final: Exemplos:
+A casa fica aqui. owati tikôti yâye. Fica árvore aqui.
+
+Irei a sua casa amanhã.
+
+Mbohotimó xoko yowoku haroti.
+
+Irei
+
+em sua casa amanhã.
+
+52
+Em se tratando do advérbio de negação não – ‘âko’ -, este inicia as orações:
+1- O cachorro não está latindo. Âko momôkoti tamûku. Não está latindo cachorro.
+2- Não sei de sua vida. Âko enjia koeku. Não sei sua vida.
+
+Preposição
+
+Dentre os dados recolhidos, a única preposição localizada foi em quando
+
+vai indicar lugar determinado, como demonstra o exemplo abaixo:
+
+Irei a sua casa amanhã.
+
+Exemplo:
+
+Mbohotimó xoko yowoku haroti.
+
+Irei
+
+em sua casa amanhã.
+
+Outras preposições não foram localizadas entre os dados coletados, mesmo nas respostas induzidas, não há outra ocorrência dessa classe de palavras. Na frase “yómoti narânga arunoen”./ gosta laranja a moça; na língua portuguesa o verbo gostar pede preposição, em Kinikinau esse processo não ocorre. Nas locuções adjetivas também não aparece preposição, fato percebido em “hêwe narânga” / pé de laranja (hêwe é pé, narânga, laranja) – “ûké nûnum” / olho de pomba (ûké é olho, nûnum, pomba).
+
+Verbos
+Faz-se em Kinikinau o uso de três tempos verbais básicos14: pretérito, presente e futuro. Quando se trata de presente e futuro, estas conjugações são
+14 Estes três tempos são ensinados na escola, são os que foram reconhecidos pelos professores de língua indígena da aldeia, contudo na fala parece haver outros tempos, ou talvez, outro modo, que necessitariam ser tema para um único estudo por ser um tópico complexo.
+
+53
+traduzidas como tempos compostos, estou fazendo e vou fazer, ao invés de faço e farei.
+Estes tempos são marcados por desinências: para passado né, e para o futuro mo, e ti é marca de formas nominais tanto no gerúndio como no infinitivo, aparecem no presente e futuro compostos.
+
+PRETÉRITO yundoxoné Eu escrevi yutoxoné Ele escreveu
+
+PRESENTE yundoxoti Estou escrevendo yutoxoti Ele está escrevendo
+
+FUTURO yundoxotimo Eu vou escrever yutoxotimo Ele vai escrever
+
+O gerúndio é muito recorrente em Kinikinau, o presente é conjugado, na maioria das vezes, como tempo composto e tem ti como desinência de gerúndio.
+GERÚNDIO: Iwatákoti - sentando Iyôti - chorando Nikôti-comendo Ahakówoti-correndo Waúkoti – gritando
+Conjunções
+Não foram localizadas conjunções entre os dados coletados, mesmo nas respostas induzidas, não há nenhuma ocorrência dessa classe de palavras. O mesmo ocorre com interjeições. Cabe-nos ressaltar que em diálogos em língua portuguesa, fazem uso de interjeições naturalmente.
+
+54
+
+3.2.4 - SINTAXE Tipologia: a ordem canônica
+
+Para ilustração da interpretação que será realizada sobre a classificação tipológica da língua Kinikinau, observe os dados abaixo:
+
+1- Seu irmão chegará.
+
+Simotimó Verbo Chegará
+
+pe’inu. sujeito seu irmão
+
+2- O menino comerá goiaba.
+
+Nigotimo wayawá Verbo objeto Comerá goiaba
+
+kali hóyeno. sujeito
+menino
+
+3- O cachorro gosta de carne.
+
+Yómoti Verbo Gosta
+
+nâum objeto
+carne
+
+tamûku sujeito cachorro
+
+4- O homem jogou fruta para a galinha.
+
+Kurikuá Verbo Jogou
+
+há’i tapi’i hoyeno. objeto objeto sujeito fruta galinha homem
+
+Observando os dados acima, obtidos entre os falantes Kinikinau, reconhecemos que a ordem canônica dos constituintes na língua Kinikinau é a seguinte: verbo + objeto + sujeito (VOS). Confirmamos assim, a hipótese levantada por Oliveira e Alves (2005:144): “... a classificação tipológica da língua Kinikinau obedeceria, preponderantemente, às seguintes disposições: VOS”.
+Para se chegar a esta confirmação, realizamos entrevista com informantes estratificados quanto à faixa etária, sexo, escolaridade, em todos os dados obtidos encontramos a ordem VOS, com verbos transitivos, VS com verbos intransitivos.
+
+55
+
+Analisamos trinta e duas estruturas, nas quais encontramos a construção VOS em vinte quatro (75%), e nas demais (25%) encontramos a construção VO, tratando-se as mesmas de estruturas onde o sujeito é desinencial. Sendo assim o verbo na língua Kinikinau apresenta-se sempre na primeira posição, seguido do objeto, e no caso de uso do sujeito esse vem em terceira posição, posposto ao verbo e ao objeto. Em se tratando de verbos intransitivos, o sujeito também é posposto ao verbo.
+Encontramos então, na língua kinikinau as estruturas:
+
+VOS – Kariduá epo’e kaliwôno.
+
+Jogou bola
+
+menino.
+
+VO - wanêun kayuhópeti.
+
+comprei
+
+livro.
+
+VS - imokó
+
+sêno hiko.
+
+Dormiram mulher plural
+
+Como podemos verificar, na língua Kinikinau, as sentenças iniciam-se sempre com verbos. Como os pronomes são acoplados ao verbo, em forma de afixos, algumas sentenças são constituídas de uma só palavra.
+
+Exemplo: Iundoxoti.– Eu estou escrevendo. Anjikowoti. – Eu estou tomando banho. Muminguxoti. – Eu estou pescando
+
+Em relação aos aspectos sintáticos da língua Kinikinau, apresentamos a seguir, algumas considerações gerais:
+1- Os sintagmas nominais, no caso de sujeito e objeto, são na maioria das vezes constituídos apenas de núcleos. Quando há o uso do determinante, se o mesmo for um pronome possessivo, apresenta-se incluído no verbo15, como já foi exposto nas classes de palavras da presente pesquisa; quando se trata de artigo, este na maioria das vezes não aparece (como já foi citado anteriormente, na língua
+15 Explicações desta colocação neste, paginas 49 e 50.
+
+56
+Kinikinau não há o uso dessa classe, quando aparece é por uma incorporação da língua Terena).
+Exemplo: simone mbo’inu./ meu irmão chegou. Chegou meu irmão.
+Quando o determinante é um adjetivo este é anteposto ao núcleo, quando se trata de locução adjetiva, vem posposto.
+Simone exoketi sêno./ a mulher bonita chegou. Chegou bonita mulher
+Ngaha’a Ûne ûkó./ Quero água da chuva. Quero água chuva.
+
+2 – Os sintagmas periféricos (SP), são os que exprimem circunstância de tempo, lugar etc, são sempre utilizados no final da oração. Com exceção dos que exprimem negação, âko (não), que aparece sempre no inicio das orações, como podem ser observados nos exemplos a seguir:
+
+1- A árvore fica aqui. owati tikôti yayê. Fica árvore aqui. Verbo sujeito sp
+
+2- Irei a sua casa amanhã.
+
+Mbihotimó Xoko yowoku haroti.
+
+Irei
+
+em sua casa amanhã.
+
+Verbo prep
+
+sp
+
+sp
+
+3- O cachorro não está latindo. Âko momôkoti tamûku. Não está latindo cachorro. Sp Verbo (loc) sujeito
+
+4- Não sei de sua vida. Âko enjia kêku. Não sei sua vida. Sp verbo objeto
+
+57
+
+3 – As orações em Kinikinau aparecem com verbos intransitivos e transitivos. No primeiro caso, as orações com verbos intransitivos, ocorrem com um sujeito, um verbo, podendo ser utilizado um ou mais sintagma periférico.
+
+A criança chegará amanhã de tarde.
+
+Simotimó kaliwôno haroti kiokoxe.
+
+Chegará criança amanhã a tarde.
+
+Verbo
+
+sujeito
+
+sp
+
+sp
+
+Nos casos das orações transitivas, estas podem apresentar um ou dois complementos dependendo da exigência do verbo, neste caso, a ordem canônica dos constituintes é VOS ou VO, se o sujeito for desinencial. Como nos exemplo:
+1- O touro gosta de mato. Yómoti hôi tûru./ Gosta mato touro. Verbo objeto sujeito
+
+2- Estou quebrando côco.
+Ngatiheakoti oké. Estou quebrando coco. Verbo (locução) objeto
+
+Cabe-nos, ainda, ressaltar que, na língua Kinikinau, não encontramos ocorrência de verbos copulativos, em todos os dados coletados, quando as perguntas pretendiam como respostas predicação nominal ou em frases trabalhadas em sala de aula, foi obtido adjetivo seguido de substantivo.
+Ainda, como tentativa de verificação mais direta, pedimos ao professor que nos dissesse em português o que dizia a frase Inámati pêyo ûti hiko. Como resposta obtivemos “Nossos animais são novos” (Inámati- novos/ pêyo –animal/ ûti nosso/ hiko – plural). Apareceu também ipohokowoti koixo’e que em português seria ‘a cobra é brava’ (ipohokowot i - brava/ koixo’e – cobra).
+
+58
+Estes foram alguns dados das classes de palavras e da sintaxe da língua Kinikinau que pudemos interpretar, trata-se de um estudo inicial, necessário para um melhor estudo da situação lingüística do citado grupo, logo a interpretação dada não é definitiva. Um aprofundamento posterior e mais direcionado poderá confirmar ou não tais descrições.
+
+IV SITUAÇÃO SOCIOLINGÜÍSTICA
+4.1 Apresentação
+Cientes de que muitas línguas indígenas existentes no Brasil se perderam desde a colonização até os dias atuais; de que muitas existentes hoje se encontram num processo de perda; que este quadro atual só poderá ser revertido a partir de um esforço conjunto de estudiosos indigenistas, entre estes historiadores, antropólogos, sociólogos, e conhecedores de que esforços de lingüistas e, principalmente, sociolingüistas, muito tem colaborado para a reafirmação destas línguas, procuramos levantar a situação da língua Kinikinau dentro da aldeia São João, localização do maior numero de pessoas desta etnia.
+Pesquisadores sociolingüistas têm se empenhado em indicar a situação da língua dentro de determinada comunidade indígena, e se estiver havendo perda desta língua, procuram as razões que podem estar levando a este processo de extinção, e auxiliam na revitalização da mesma.
+Sendo assim, valendo-nos da sociolingüística, procuramos fazer um levantamento da situação da língua Kinikinau dentro da aldeia São João. Para tanto, procuramos fazer um estudo do grupo investigando os seguintes pontos:
+1-História do grupo; 2-Dados geográficos antigos e atuais; 3-Situação socioeconômica do grupo; 4-Situação das terras; 5-Proximidade com outros grupos indígenas, e com sociedade não indígena; 6-Atitude do grupo em relação às línguas de contato; 7-Uso da língua de acordo com faixa etária, sexo e grau de instrução:
+-Envolvimento da escola quanto ao uso da língua; -Modo de transmissão da língua;
+
+60
+-Atitude do falante em relação à língua, -Situação educacional do grupo; 8-Religiosidade;
+A obtenção dos dados referentes aos itens 1 e 2 se deu por meio de estudos iniciais elaborados por antropólogo e geógrafo, que estudaram as questões históricas e geográficas que cercam o grupo em estudo e, ainda, realizamos entrevistas com os anciãos da comunidade.
+Os demais dados foram obtidos mediante observações e conversas informais, contato direto com a comunidade, gravação de vídeos, e, principalmente, entrevistas gravadas que nos serviram de suporte para conhecimento do vocabulário e levantamento estatístico das situações de uso da língua.
+Para a elaboração do questionário foram utilizadas as perguntas do Atlas Lingüístico do Mato Grosso do Sul (ALMS) referentes aos campos semânticolexicais fenômenos atmosféricos, flora, fauna e religião. Estes campos foram escolhidos por se tratarem de campos que caracterizam o meio imediato dos falantes (os Kinikinau vivem em área rural), sabendo que o repertório lexical destes é sempre obtido por meio de uma evolução cultural e histórica da sociedade que os cercam.
+Foram utilizadas 29 (vinte e nove) perguntas referentes ao campo semântico-lexical fenômenos atmosféricos (N), 22 (vinte e duas) perguntas referentes à flora (F), 43 (quarenta e três) referentes à fauna (A) e 8 (oito) referentes à religião (R). Totalizando 102 (cento e duas) questões, respondidas por oito informantes, sendo assim, houve a obtenção de 816 (oitocentos e dezesseis) respostas.
+Foram realizadas entrevistas com 5% dos moradores da aldeia São João, sendo assim tivemos 8 informantes da etnia Kinikinau; estratificados de acordo com sexo: masculino e feminino; faixa etária: de até 30 anos e acima de 45 anos; grau de instrução: rudimentar, Ensino fundamental e Ensino Médio, obtendo um total de 816 (oitocentos e dezesseis) respostas.
+As entrevistas foram gravadas, em seguida, transcritas. Cumprida esta etapa, os dados coletados e transcritos foram submetidos a uma analise simples pelo programa Goldvarb 2001, que foi desenvolvido em uma parceria entre o Serviço
+
+61
+de Ciência e computação e o Departamento de Linguagem e Lingüística da Universidade de Nova York.
+O referido programa permite uma análise probabilística dos dados apresentados. Nesta pesquisa estaremos apenas interessados em obter para cada fator no grupo de fatores independentes as seguintes informações: (i) o número (e percentagem) de vezes que o fator ocorreu devido ao valor de aplicação da variável dependente; (ii) o número (e percentagem) de vezes que o fator não ocorreu com a não aplicação do valor da variável dependente; e (iii) 0 número total de vezes que o fator ocorreu e o número de aplicação com uma percentagem do número total de ocorrência deste fator. Estes resultados podem ser vistos nas tabelas 3 (três) a 7 (sete).
+Partimos da hipótese de que a língua Kinikinau está em processo de perda, devido ao processo de invisibilidade por que passou, por nós já descrito, e pelo fato de que a língua portuguesa já é adquirida como primeira língua, para confirmação desta utilizamos a seguinte codificação das variáveis na presente pesquisa:
+Variável dependente: 0 – Língua Portuguesa 1 – Kinikinau
+Grupo de fatores: Informantes: 1, 2, 3, 4, 5, 6, 7, 8.
+Faixa etária: e - até 30 anos. d - acima de 40 anos
+Sexo: f – feminino m – masculino
+
+62
+Escolaridade: r – rudimentar a – Ensino Fundamental c – Ensino Médio
+Campos semânticos: N - fenômenos atmosférico F – flora A – fauna R – religião
+4.2 História do grupo e dados geográficos.
+Os Kinikinau são remanescentes da nação Guaná, pertencentes ao tronco lingüístico Aruak, que hoje se encontra com um número aproximado de duzentas e cinqüenta pessoas (www.socioambiental.org) vivendo na aldeia São João, em terras Kadiwéu, no município de Porto Murtinho, no estado de Mato Grosso do Sul.
+Como parecer inicial podemos afirmar que os Kinikinau, apesar de uma história de lutas, perseguições, fugas, dispersões, pressões, descriminações e anonimato, procuraram resistir a tudo e no momento em que se sentiram seguros, apresentam-se fortalecidos e prontos para lutar pela (re)vitalização de seu grupo, de sua língua e de sua cultura.
+Há registros de que no século XVIII, os Kinikinau viviam em região banhada pelo rio Miranda e Albuquerque (VASCONCELOS, 1999:96), que com o acontecimento da Guerra do Paraguai, tiveram que se dispersar, por sofrerem perseguições e que devido a isso, com o tempo, o grupo tenha se extinguido. Contudo, o que temos hoje, como fato, é que o grupo concentra-se na aldeia São João, área demarcada para o grupo Kadiwéu, e que há outros membros vivendo em aldeias Terena em Miranda e em Nioaque, em números menores.
+O grupo tem se organizado com o objetivo de lutar pelos seus direitos, por tanto tempo lhes negado. Com o reconhecimento da etnia, os Kinikinau esperam que possam ter suas terras demarcadas para poderem reconstruir suas vidas, sua cultura, sua história.
+
+63
+Eles têm ciência que muita coisa será deixada para traz, como por exemplo, seus ancestrais que estão sepultados na aldeia São João, contudo não há como permanecer em terras que não são suas, onde não têm a liberdade de fazer o que precisam ou querem. Outro fato é que a população aumentou e as terras são poucas para a agricultura necessária para a sobrevivência de toda a comunidade.
+4.3 Situação socioeconômica do grupo, situação das terras, proximidade com outros grupos indígenas, e com sociedade não indígena e a atitude do grupo em relação às línguas de contato.
+No que diz respeito à situação socioeconômica o povo, por não ter suas terras demarcadas, vivem em terras Kadiwéu, sem ter como ampliar sua agricultura, o que vem dificultando a obtenção de recursos financeiros para sua sobrevivência, recursos que são também adquiridos por meio da venda de trabalhos artesanais e com empregos em fazendas próximas a região, o que não é o suficiente.
+O que plantam é para subsistência, já que há, aproximadamente, duzentos e cinqüenta pessoas residentes nessas terras e não há espaço para expansão da agricultura, necessitam dos produtos que cultivam para alimentar o grupo. Recebem cestas básicas do programa Segurança Alimentar, uma cesta por família, algumas são muito numerosas, na maioria crianças, o que faz com que tenham que procurar emprego fora da aldeia.
+E o povo kinikinau, por se tratar de um povo trabalhador, conhecedor de agricultura, é bem aceito por fazendeiros da região. É acolhedor, o que facilita uma aproximação de outros grupos e da sociedade em geral.
+Sendo assim, além do contato com os Kadiwéu, donos das terras, estão em contato muito próximo com a sociedade não indígena; com isso ocorre uma assimilação de culturas e línguas diferentes devido ao processo sócio-interacional entre os indivíduos dessas sociedades, que como sempre acontece, são envolvidos pela sociedade que os cercam.
+E assim, o grupo em relação às línguas de contato, nesse caso a língua portuguesa e a língua Kadiwéu, com a segunda, apesar de viverem em suas terras, próximos de cinco famílias, e conviverem com alunos Kadiwéu na escola, não têm conhecimento da língua, e se comunicam em português, que é a primeira língua
+
+64
+adquirida na aldeia atualmente. Ou seja, a língua majoritária, não só foi assimilada pelo grupo, como já obtém o papel de primeira língua.
+4.4 Uso da língua de acordo com faixa etária, sexo e grau de instrução.
+No que respeita aos levantamentos feitos em relação ao uso da língua de acordo com faixa etária percebe-se, por meio de conversas informais, em relatos dos moradores mais antigos, que durante os primeiros anos que os Kinikinau chegaram na aldeia São João, procuraram não fazer muito uso da língua, por medo de serem identificados ali e correrem algum risco. O senhor José Hugo, filho de dona Ercília Anastácio, uma das moradoras mais antigas da aldeia, nos disse “só fiquei sabendo que minha mãe falava o idioma depois de homi feitu”, e o mesmo não é falante Kinikinau, só conhece algumas palavras como nome de animais.
+Os mais antigos falam a língua Kinikinau entre si. Dona Zeferina nos afirma que fez questão de ensinar o idioma para todos os seus filhos, fato verdadeiro, já que todos eles falam Kinikinau, um deles é o professor Inácio, que ministra aula de Kinikinau na escola da aldeia, nota-se que ela teve interesse em preservar a língua. Dona Zeferina fala em Kinikinau com seus filhos e netos. Os netos embora não sejam falantes ativos, compreendem o que a avó fala, e os filhos compreendem e fazem uso da língua.
+Cabe-nos ressaltar ainda que, há momentos em que Dona Zeferina não entende o que falamos em português, pede ajuda aos filhos para saber o que falamos e algumas vezes fala em Kinikinau e pede para os filhos que faça-nos a tradução.
+Esse fato se repete com freqüência, no cotidiano Kinikinau: os anciãos procuram falar em Kinikinau e alguns têm dificuldade de entender a língua portuguesa, alguns adultos falam o Kinikinau, os demais entendem bastante o que é falado em Kinikinau, todavia falam em português, quando indagados sobre o motivo de não usarem o Kinikinau freqüentemente, dizem achar o português mais fácil. O que pude observar e pelas conversas informais, o que ocorre é uma certa insegurança em fazer uso da língua Kinikinau.
+
+65
+Logo, os mais velhos, em sua maioria, têm conhecimento da língua e fazem uso da mesma, enquanto os mais jovens estão aprendendo a língua na escola, tendo o português como primeira língua.
+Desse modo a transmissão da língua é feita mais sistematicamente pela escola, pois a transmissão que deveria ser feita pela família, de modo a preservar o idioma Kinikinau como primeira língua, não ocorre, ficando para a escola essa responsabilidade atualmente, o que fatalmente leva ao enfraquecimento da mesma.
+A escola está muito envolvida no processo de recuperação da língua, contudo necessita urgentemente de uma política de revitalização para subsidiá-la, o fim de que não aconteça o que aconteceu com muitas das línguas indígenas brasileiras que foram extintas desde a colonização brasileira.
+Atualmente a grade curricular da Escola Emi-Ejiwajegi - Extensão Aquidabã conta com 5 (cinco) aulas de Língua Kinikinau semanais, a escola possui primeira e segunda fases do Ensino Fundamental (1ª a 8ª séries), o que tem ajudado o ensino da língua, já que as crianças não necessitam sair da aldeia para estudarem como ocorria anteriormente. E ainda na capacitação dada aos professores indígenas que irão ministrar aulas do MOVA (Movimento de Alfabetização), foi muito pontuada a necessidade de trabalhar com a própria língua indígena no processo de alfabetização.
+Para se chegar a essa interpretação os dados coletados sofreram cruzamentos, e estes foram examinados através da leitura das tabelas que serão apresentadas na quantificação dos dados.
+A escola tem sido um grande recurso para o resgate da língua, os professores Kinikinau vêem na educação um meio de revitalização da língua, e muito têm se empenhado para fazer da Educação Escolar um instrumento em prol dessa revitalização. Como afirmamos anteriormente, dois dos professores da aldeia São João, Inácio Roberto e Rosaldo de Albuquerque Souza, fizeram parte e concluíram o Curso de Formação de Professores Kadiwéu e Kinikinau oferecido pela Secretaria Municipal de Educação de Porto Murtinho, entre os anos de 2002 e 2004, e hoje, ministram aula na aldeia, e procuram passar para o grupo a importância da língua para o seu fortalecimento e que para isso precisam de uma escola que esteja a serviço do próprio grupo. Como declara o professor Inácio Roberto “Eu espero que o estudo signifique a valorização cultural e mais respeito para os Kinikinau” (REVISTA NOVA ESCOLA, 2004).
+
+66
+Como podemos perceber a escola se encontra comprometida quanto ao uso da língua e tem sido um dos modos de transmissão, já que os profissionais envolvidos nessa instituição estão cientes do papel que a mesma pode desempenhar para o resgate cultural do seu povo. Ainda, é na escola, que estão presentes as crianças e os jovens que são o futuro da etnia e devem estar cientes da necessidade da língua para a existência de um povo.
+Atualmente a escola tem sido o mais importante modo de transmissão da língua, uma vez que no seio familiar, onde deveria ser o maior meio de herança lingüística, essa transmissão não vem ocorrendo, na maioria das famílias, sendo assim, as crianças acabam adquirindo a língua portuguesa como primeira língua. Isso tem ocorrido, supostamente, devido à preocupação que houve em se manter protegidos e sobreviver a toda perseguições a que foi submetido, e também, pelo processo tão conhecido do domínio da língua majoritária sobre a língua minoritária, onde os povos indígenas tendem a adquirir a língua dominante para um melhor convívio com a sociedade que os cerca.
+De acordo com os resultados encontrados na pesquisa, percebe-se que as mulheres fazem uso maior da língua Kinikinau, por várias vezes pude presenciar os diálogos entre elas, já com os homens, este fato não acontece com muita incidência e nas entrevistas, os informantes do sexo feminino apresentaram maior segurança em responder e maior conhecimento da língua. Em algumas famílias os pais fazem uso do idioma, embora o fato não aconteça cotidianamente. O citado fato tem conseqüências claras, como por exemplo, as crianças cujos pais falam o idioma Kinikinau têm mais facilidade de aprenderem a língua na escola, fato que foi confirmado pelos professores Kinikinau.
+4.5 Religiosidade
+Em relação à religião, o grupo Kinikinau é cristianizado, há na aldeia São João, duas comunidades evangélicas, “Deus é Amor” e “Quadrangular”. Há uma grande parte dos membros da comunidade que seguem o Catolicismo, a cada dois meses, vem um padre a aldeia, e o Sr. Miguel realiza em sua casa celebrações católicas.
+
+67
+Os Kinikinau têm como padroeiro São João e São Miguel. Em homenagem a esses santos são realizadas festas em 24 de junho e 28 de setembro respectivamente, na comemoração de São João há queima de fogueira, quadrilha, baile; e dia de São Miguel, o evento acontece na residência do Sr. Miguel, com orações (terço) danças típicas e baile.
+A religião cristã, como na maioria dos grupos indígenas foi incorporada ao grupo Kinikinau, logo, apesar de seguirem as religiões evangélica e católica, acreditam em feitiçaria e contam histórias referentes a feiticeiros e males que eles causam. No uso da língua, alguns vocábulos foram incorporados da língua portuguesa com diferenças fonológicas, como padre que em Kinikinau falam padré. Para outros não há vocábulos referentes em Kinikinau, sendo assim usam a denominação da língua portuguesa, são exemplos desse caso quaresma e pastor.
+É importante no momento ressaltar que durante as entrevistas, precisamos fazer uma readaptação do questionário, uma vez que, algumas denominações não são conhecidas pelo grupo, como por exemplo, sacristão, que os informantes não sabiam do que se tratava.
+Como já foi citado anteriormente, a religião, por ter sido adotado o cristianismo um pouco mais tarde, e pelos grupos indígenas terem toda uma história de cultura religiosa própria, com seus mitos e crenças, os vocábulos referentes à religião são empréstimos do português, o que resultam num significativo uso da língua portuguesa nos vocábulos que se referem a esse campo semântico, tal afirmação pode ser verificada mais adiante, na quantificação dos dados.
+4.6 Quantificação dos dados
+Conforme já fora citado, os dados foram coletados a partir de um questionário elaborado com base nas perguntas do Atlas Lingüístico do Mato Grosso do Sul (ALMS) referentes aos campos semântico-lexicais fenômenos atmosféricos, flora, fauna e religião. Foram necessárias algumas reformulações para atender as peculiaridades do povo estudado, totalizando 102 (cento e duas) questões, respondidas por oito informantes, sendo assim, houve a obtenção de 816 (oitocentos e dezesseis) respostas.
+
+68
+Foram executadas entrevistas com 8 (oito) moradores da aldeia, da etnia Kinikinau, estratificados em sexo (masculino e feminino), faixa etária (até 30 anos e acima de 45 anos), grau de instrução (rudimentar, Ensino fundamental e Ensino Médio).
+Após gravação, os dados coletados foram transcritos e submetidos a análise e levantamento estatístico elaborados por meio do programa Goldvarb 2001, utilizamos a parte do programa que trata a estatística descritiva, isso devido a natureza da variável dependente, cujos resultados são apresentados por meio de tabelas que foram interpretadas, com a finalidade de verificar as causas que podem estar levando o povo a ter como primeira língua o português brasileiro, ocasionando assim a perda da língua Kinikinau,e a situação desta na aldeia São João.
+A tabela 3 apresenta a situação do uso da língua Kinikinau de acordo com a faixa etária. Observe:
+
+Tabela 3 - Distribuição dos dados conforme a variável independente faixa etária.
+
+V.D. 0-Lingua
+
+1-Kinikinau total
+
+%
+
+F.E.
+
+Portuguesa
+
+Acima de
+
+115
+
+293
+
+408
+
+50
+
+40 anos (d) 28%
+
+71%
+
+vocábulos
+
+Até 30 Anos (e)
+
+256 28%
+
+152 37%
+
+408
+
+50
+
+vocábulos
+
+Total
+
+371
+
+445
+
+816
+
+45%
+
+55%
+
+vocábulos
+
+69
+
+Gráfico 2: Resultado da Distribuição dos dados conforme a variável independente faixa etária.
+
+55%
+
+45%
+
+Lingua Portuguesa
+
+1-Kinikinau
+
+A leitura da tabela 3, onde ocorreu cruzamento da variável dependente e o grupo de fatores faixa etária, denota que há maior incidência do uso da língua Kinikinau, de acordo com faixa etária, nos falantes acima de 40 anos (d), onde os índices percentuais indicam que 71% das respostas foram dadas em língua Kinikinau, contrapondo-se a 37% das respostas dadas pelos falantes até 30 anos (e).
+Percebemos que o prevalecimento do uso da língua Kinikinau na faixa etária acima de 40 anos (d) é tão significativo que influencia claramente a porcentagem total, observado no gráfico 2, prevalecendo 55% de uso da língua Kinikinau, sobre 45% da língua portuguesa. Contudo, os resultados apresentados nessa tabela nos leva a inferir que a língua Kinikinau não está sendo falada pelos mais jovens, ou seja, em algumas famílias a língua Kinikinau não está sendo adquirida como primeira língua. Em vista desse fato será necessário um resgate da língua pelos mais jovens, já que 62% das respostas da faixa etária e (até 30 anos) foram em português, ou o uso da língua tenderá por uma queda cada vez maior.
+Esse regate tem que partir de um esforço conjunto, família-escola, já que as crianças e os adolescentes têm aprendido a língua na escola, esse fato se justifica porque alguns deles, os próprios pais têm conhecimento pouco significativo da língua e pode-se notar que os jovens cujos pais falam Kinikinau assimilam mais rapidamente os ensinamentos ministrados na escola.
+
+70
+Isso tem ocorrido, supostamente, devido à preocupação que houve em se manter protegidos e sobreviver a toda perseguições a que foi submetido, e também, pelo processo tão conhecido do domínio da língua majoritária sobre a língua minoritária, onde os povos indígenas tendem a adquirir a língua dominante para um melhor convívio com a sociedade que os cerca.
+Outro ponto notado é que os falantes do sexo feminino tendem a preservar mais a língua, essa afirmação se faz pelos resultados apresentados na tabela 4, referente ao cruzamento da variável dependente com o grupo de fator sexo, como pode ser observado a seguir:
+
+Tabela 4: Distribuição dos dados conforme a variável sexo:
+
+V.D. Sexo Fem
+Masc
+total
+
+0- L.P. 129 31% 242 59% 371 45%
+
+1-Kinikinau
+278 68% 167 40% 445 54%
+
+Total 407
+409
+816
+
+% 49%
+50%
+
+Gráfico 3: Resultado da distribuição dos dados conforme a variável sexo:
+
+120% 100%
+80% 60% 40% 20%
+0%
+
+68%
+31% Feminino
+
+40% 59% Masculino
+
+Lingua Portuguesa Kinikinau
+
+Fonte: GUIMARÃES, 2005.
+
+71
+
+Os índices percentuais que aparecem na tabela 4 denotam que há maior incidência do uso da língua Kinikinau pelos falantes do sexo feminino. Das respostas obtidas 68% são Kinikinau, já nas ocorrências do sexo masculino, somente 40% são em Kinikinau. O total apresentado aparece 54% de freqüência em Kinikinau e 45% de freqüência em língua portuguesa, ou seja, predomina o uso da língua Kinikinau. Todavia, 59% das respostas dadas pelos informantes do sexo masculino são em Língua portuguesa.
+Os dados acima confirmam que o sexo feminino tende a preservar mais a língua materna, por estarem mais voltadas ao lar, acabam sentindo-se responsáveis pela conservação do ambiente em que vivem, dando grande valor a sua cultura e sua língua.
+Em relação ao variável dependente com a variável independente escolaridade, apresentamos o resultado na tabela 5. Observe:
+Tabela 5: Distribuição dos dados conforme a variável escolaridade.
+
+V.D.
+
+0- língua
+
+1- Kinikinau Total
+
+%
+
+escolaridade portuguesa
+
+r-rudimentar 06 vocábulos 96 vocábulos 102vocábulos 12%
+
+06%
+
+93%
+
+a-Ensino
+
+308vocábulos 304 vocábulos 612vocábulos 74%
+
+Fundamental 50%
+
+49%
+
+c-Ensino Médio
+
+55 vocábulos 47 vocábulos
+
+53%
+
+46%
+
+102 vocábulos 13%
+
+Total
+
+369 vocábulos 447 vocábulos 816
+
+46%
+
+54%
+
+Dispusemos os resultados no gráfico a seguir, a fim de minudenciar os resultados da tabelas 5.
+
+72
+
+Gráfico 4: Resultado do cruzamento da variável dependente com o fator escolaridade.
+
+120% 100%
+80% 60% 40% 20%
+0%
+
+93%
+6% Rudimentar
+
+49%
+
+46%
+
+50%
+
+53%
+
+Ensino Fundamental
+
+Ensino Médio
+
+Lingua Portuguesa
+
+Kinikinau
+
+Fonte: GUIMARÃES, 2005.
+
+Na leitura da tabela 5, o cruzamento da variável dependente em relação à escolaridade, como pode ser visto, os índices percentuais, denotam que os dados coletados com informantes de ensino rudimentar aparecem o uso do Kinikinau com grande destaque, uma vez que, representa 93% dos vocábulos coletados. É provável que por não freqüentar escolas os informantes não sofreram a dominação da língua portuguesa. É necessário aqui ressaltar que, até pouco tempo atrás, não havia língua indígena na grade curricular, os indígenas quando freqüentavam a escola eram obrigados a assimilar a língua portuguesa.
+O Ensino Fundamental apresenta maior número de informantes, isso se justifica pelo fato de a maioria das pessoas possuírem, pelo menos, a primeira fase do Ensino Fundamental, já que na aldeia há uma escola onde funciona o Ensino Fundamental de 1ª a 8ªserie. Com isso 74% dos dados foram obtidos por informantes com este grau de instrução
+A escola, no momento, tem sido a maior fonte de transmissão da língua. Essa afirmação é comprovada pela leitura da tabela acima, onde a estatística mostra que 49% dos informantes, com esse nível de escolaridade, apresentam respostas em Kinikinau. Vê-se que embora não tenham aprendido a língua Kinikinau como primeira língua, e que alguns pais não faça uso da mesma, o que têm aprendido na escola sobre o vocabulário e a estrutura da língua está sendo assimilado e principalmente, está sendo utilizado pelos falantes.
+
+73
+Como já foi apontado anteriormente, a escola tem empregado esforços com o intuito de recuperar a língua, que pelo interpretado apresenta um processo de perda. Nota-se que o grupo Kinikinau está lutando para ter de volta o que lhes foi tirado, e está tomando ciência de que a língua é um dos mais fortes instrumentos nessa batalha, embora esse esforço e cônscio não parta de todos. Ainda falta uma conscientização maior, já que a escola tem ensinado e procurado passar aos alunos essa visão, todavia, nem sempre tem encontrado retorno por parte de toda comunidade.
+Para concluir a interpretação da tabela 5, tratamos dos resultados dos informantes com escolaridade Ensino Médio, até o momento a comunidade conta com apenas três membros nesse nível de escolaridade, já que as pessoas interessadas em freqüentar as escolas de Ensino Médio, precisam estudar na cidade, fora da comunidade.
+Contudo, mesmo tendo que sair da comunidade para estudar, os resultados estatísticos obtidos para escolaridade Ensino Médio apontam para um equilíbrio, uma vez que 53% dos vocábulos obtidos são em língua portuguesa e 46% em Kinikinau. E no resultado total apontado a Língua Kinikinau apresentou 447 vocábulos, 54%, prevalecendo sobre a língua portuguesa, com 369 dos vocábulos, totalizando 46%.
+Para finalizar esta interpretação da tabela 5, vimos no gráfico 4 que enquanto o falante da escolaridade rudimentar, preponderantemente, faz uso da língua Kinikinau, tanto os falantes do Ensino Fundamental quanto do Ensino médio faz uso equiparado das duas línguas.
+Faz-se necessário ainda, interpretar outro cruzamento entre a variável dependente, e o grupo de fator campos semânticos, que foram utilizados na elaboração do questionário, que podem ser lidos na tabela e gráfico a seguir.
+
+74
+
+Tabela 6: Distribuição dos dados conforme a variável campos semânticos
+
+V.D.
+C.L. fenômenos atmosféricos flora
+fauna
+religião
+Total
+
+0- Língua 1-Kinikinau Portuguesa.
+
+Total
+
+116 50%
+74 42% 138 40%
+43 67% 371 45%
+
+116 50% 102 57% 206 59%
+21 32% 445 54%
+
+232 vocábulos 176 vocábulos 344 vocábulos
+64 vocábulos 816 vocábulos
+
+%
+28% 21% 42% 7%
+
+Gráfico 5: Resultado da distribuição dos dados conforme a variável campos semânticos.
+
+120%
+
+100%
+
+80% 60%
+
+50%
+
+40% 20%
+
+50%
+
+0%
+Fen.Atmosféricos
+
+57%
+42%
+Flora
+
+59%
+40%
+Fauna
+
+32% 67%
+Religião
+
+Lingua Portuguesa
+
+Kinikinau Fonte: GUIMARÃES, 2005.
+
+75
+O cruzamento da variável dependente com o campo semântico referente a fenômeno da natureza apresenta um equilíbrio quanto ao uso da língua pelos falantes, haja vista que dos 232 vocábulos obtidos em respostas sobre o referido campo, igualitariamente, aparecem cento e dezesseis respostas em língua portuguesa e cento e dezesseis respostas em língua Kinikinau. Exatamente 50% em cada variável.
+Já no que respeita a flora, sobressai-se as respostas em Kinikinau, os índices percentuais apontam que 57% das respostas obtidas foram dadas em Kinikinau, das cento e setenta e seis questões, cento e duas foram em Kinikinau. O mesmo se repete em relação à fauna, das 344 respostas obtidas 206, ou seja, 59% das respostas foram em Kinikinau e 40%, no caso 138 respostas em língua portuguesa.
+No campo semântico religião, ocorre 67% das respostas obtidas em Língua Portuguesa. Foram feitas oito perguntas, para oito informantes, o que totalizou 64 respostas, destas 43 foram em língua portuguesa, 21 em Kinikinau, apenas 32%.
+É importante ainda, considerar os percentuais totais, conforme apresentado na tabela 6, 54% das ocorrências são em Kinikinau, das 816 ocorrências, 445 são na língua Kinikinau, 45% em língua portuguesa, ou seja, no cruzamento apresentado na tabela 6, repetem-se os resultados também obtidos nas tabelas 1 (faixa etária) e 2 (sexo). Portanto, percebe-se que, embora em alguns grupos de fatores, as ocorrências em língua portuguesa apresentem uma porcentagem maior, os índices em Kinikinau superam este total.
+Religiosidade
+Em relação à religião, o grupo Kinikinau é cristianizado, há na aldeia São João, duas comunidades evangélicas, “Deus é Amor” e “Quadrangular”. Há uma grande parte dos membros da comunidade que seguem o Catolicismo, a cada dois meses, vem um padre a aldeia, e o Sr. Miguel realiza em sua casa celebrações católicas.
+
+76
+Os Kinikinau têm como padroeiro São João e São Miguel. Em homenagem a esses santos são realizadas festas em 24 de junho e 28 de setembro respectivamente, na comemoração de São João há queima de fogueira, quadrilha, baile; e dia de São Miguel, o evento acontece na residência do Sr. Miguel, com orações (terço) danças típicas e baile.
+A religião cristã, como na maioria dos grupos indígenas foi incorporada ao grupo Kinikinau, logo, apesar de seguirem as religiões evangélica e católica, acreditam em feitiçaria e contam histórias referentes a feiticeiros e males que eles causam. No uso da língua, alguns vocábulos foram incorporados da língua portuguesa com diferenças fonológicas, como padre que em Kinikinau falam padré. Para outros não há vocábulos referentes em Kinikinau, sendo assim usam a denominação da língua portuguesa, são exemplos desse caso quaresma e pastor. E ainda, alguns vocábulos não são até o presente momento, de conhecimento do grupo, como por exemplo, sacristão, que os informantes não sabiam do que se tratava, fato como este é que tornou necessário durante as entrevistas, fazermos uma readaptação do questionário.
+Constatamos que esta incorporação do vocabulário referente ao campo semântico religião ocorreu em proporção bem maior em língua portuguesa que na língua em estudo, o que mais uma vez confirma a hipótese de que a língua Kinikinau está em processo de perda. Logo, consideramos proveitoso realizar o cruzamento da variável independente campos semântico religião, com a variável independente sexo e faixa etária, já que, como já foi citado anteriormente, o cristianismo foi assimilado pelos povos indígenas, não faziam parte de sua cultura, no entanto em algumas etnias os vocábulos referentes a este campo semântico passam a ter uma denominação na própria língua, geralmente este fato ocorre em línguas que não estão sob ameaça de perda. No grupo Kinikinau esta situação não ocorre, como já mencionamos no parágrafo anterior.
+A constatação acima pode ser confirmada com a leitura da tabela 7 e 8 que tratam do cruzamento variável independente campo semântico religião, com a variável independente sexo e faixa etária.
+
+77
+Tabela 7: Distribuição dos dados conforme cruzamento da variável independente campo semântico religião e sexo.
+
+V. D. Sexo feminino
+masculino
+Total
+
+0 – Língua portuguesa 19 vocábulos 59% 24 vocábulos 75% 43 vocábulos 67%
+
+1 - Kinikinau
+13 vocábulos 41% 08 vocábulos 25% 21 vocábulos 33%
+
+Apresentamos em gráfico os resultados obtidos:
+Gráfico 6: Resultado da distribuição dos dados conforme cruzamento da variável independente campo semântico religião e sexo.
+
+120% 100%
+80% 60% 40% 20%
+0%
+
+41%
+
+25%
+
+33%
+
+59%
+
+75%
+
+67%
+
+feminino
+
+masculino
+
+total
+
+0 – Língua Portuguesa
+
+1 - Kinikinau
+
+Fonte: GUIMARÃES, 2005.
+
+78
+
+Pela leitura do gráfico podemos confirmar que, tanto o sexo feminino quanto o masculino apresentam uma porcentagem maior no uso da língua portuguesa, no que diz respeito ao campo semântico religião, 59% e 75% respectivamente, totalizando 67% das ocorrências. Enquanto em língua Kinikinau constam para o sexo feminino 41% das ocorrências que se refere a 13 das respostas obtidas. Para o sexo masculino aparecem 25% das ocorrências que se refere a 8 (oito) respostas obtidas o que totaliza 33% das ocorrências.
+A faixa etária é um dos fatores de grande relevância em estudos sociolíngüistas que procuram indicar a situação da língua em determinada comunidade lingüística, principalmente se levarmos em conta o que afirma Hinton (2001)16 que divide as línguas em categorias de nível de perigo em a, b, c, d, das menos ameaçadas até as que já estão mortas, sendo que para esta categorização indica o fato de línguas que são de uso apenas dos membros mais velhos da comunidade em categoria c, grande perigo de perda, por esse motivo acreditamos necessário o cruzamento do campo semântico religião com o grupo de fatores faixa etária, apontando o resultado na tabela 8, a seguir.
+
+Tabela 8: Distribuição dos dados conforme cruzamento da variável independente campo semântico religião e faixa etária.
+
+V.D. Faixa etária d- acima de 40
+anos e- até 30 anos
+total
+
+0 - Língua portuguesa 17 vocábulos
+53% 26 vocábulos
+81% 43 vocábulos
+67%
+
+1 - Kinikinau
+15 vocábulos 47%
+06 vocábulos 19%
+21 vocábulos 33%
+
+16 Apud Brággio 2003.
+
+79
+
+Gráfico 7: Resultado do Cruzamento do campo semântico religião e o grupo de fator faixa etária.
+
+120%
+
+100%
+
+80% 60%
+
+47%
+
+40% 20%
+
+53%
+
+0% d- acima de 40 anos
+
+19% 81% e- até 30 anos
+
+33% 67% total
+
+0 - Língua
+
+1 - Kinikinau
+
+Fonte: GUIMARÃES, 2005.
+
+Em relação ao campo semântico religião, no que se refere ao cruzamento com o grupo de fator faixa etária, há, como ocorreu com o grupo de fator sexo, predominância do uso da língua portuguesa.
+Essa a afirmação se justifica pela interpretação da tabela 8, Cruzamento do campo semântico religião e o fator faixa etária, onde o resultado aponta que 67% das ocorrências, 43 respostas, são em língua portuguesa e 33%, 21 respostas são em Kinikinau. Destas 43 ocorrências, a primeira faixa etária, acima de 40 anos, apresenta 17 delas e a segunda faixa, até 30 anos, apresenta 26 ocorrências.
+Pela leitura da tabela a faixa etária d, acima de 40 anos, apresentou 53% das ocorrências em língua portuguesa e 47% em Kinikinau. Já no que se refere a faixa e, até 30 anos, 81% das ocorrências são em língua portuguesa e 19% em Kinikinau, porcentagem bastante significativa.
+Interpretando as tabelas 7 e 8, observamos que o percentual, tanto em relação à faixa etária como ao sexo, prevalece em língua portuguesa. O que nos leva a concluir que independente do sexo ou faixa etária, em se tratando de religião, há ocorrências em número significativo da língua portuguesa.
+Um último fator a ponderar é que, tanto a faixa d, acima de 40 anos, como o sexo feminino, apesar de apresentarem uma porcentagem maior de ocorrências em língua portuguesa, essa diferença e relativamente pequena, uma vez que a faixa
+
+80
+etária d, pelo gráfico 7, quase equilibra os resultados, ou seja, a variável dependente 0 apresenta 53% das ocorrências contrapondo a 47% da variável dependente 1.
+O mesmo fato ocorre com o sexo feminino, onde o equilíbrio não é tanto, contudo a diferença entre as variáveis dependentes é bem menor, sendo 59% das ocorrências em língua portuguesa e 41% em Kinikinau, como comprova o gráfico 6. Como já foi levantado anteriormente, no caso da religião, por ter sido adotado o cristianismo um pouco mais tarde, e pelos grupos indígenas terem toda uma historia de cultura religiosa própria, com seus mitos e crenças, os vocábulos referentes à religião são empréstimos do português o que resultam num significativo uso da língua portuguesa nos vocábulos que se referem a esse campo semântico.
+
+CONCLUSÃO
+O estudo com o povo Kinikinau, por tudo o que foi coletado, interpretado e aqui descrito, deixou-nos claro que esta língua é possuidora de uma das riquezas lingüísticas brasileiras proporcionadas pelas várias línguas indígenas faladas em nosso país.
+Como já foi por nós aludido, estudar uma língua indígena é desvendar mitos, histórias, pensamentos, e conhecer uma riqueza cultural imensurável que nosso país possui. É nos remeter às raízes, trazer à tona a realidade de um povo, de uma raça. O povo Kinikinau necessita deste levantamento histórico-lingüísticocultural, precisa revitalizar sua língua, sua história, haja vista que desde 1976, este povo era tido como extinto.
+Um levantamento sociolingüístico deve ser visto como uma contribuição, já que tais estudos têm sido indispensáveis para se reconhecer a verdadeira situação das línguas indígenas, muitas delas ameaçadas de extinção. Além deste levantamento histórico, um enfoque em seus aspectos lingüístico tipológicos e gramatical pode ser útil, para não dizer necessário, já que até o momento não há pesquisas lingüísticas concluídas sobre a língua Kinikinau.
+A língua estudada apresenta várias particularidades que merecem um estudo aprofundado, ou melhor, precisa de um estudo aprofundado. Este é apenas um estudo interpretativo dos dados coletados, iniciado com um estudo do vocabulário, seguido de um levantamento das classes de palavras e da ordem dos constituintes, a fim de nos familiarizarmos com a língua e registrar algumas interpretações que se tornaram necessárias no decorrer de nossa pesquisa,e, finalmente, um estudo sociolingüístico, com um demonstrativo da situação da língua Kinikinau dentro da Aldeia São João.
+No levantamento do vocabulário, pudemos coletar aproximadamente 102 (cento e dois) vocábulos em resposta ao questionário aplicado e em torno de 30
+
+82
+vocábulos, nas conversas informais. Utilizamos 30% dos 102 (cento e dois) vocábulos para efetuar uma comparação com a língua Terena, também pertencente ao tronco Aruak, a partir dessa comparação levantamos semelhanças e diferenças interessantes entre os dois idiomas, que é apenas uma ponta do iceberg que dará fonte para estudos mais detalhados, que certamente indicará aspectos e particularidades valiosas entre as línguas pertencentes ao mesmo tronco lingüístico.
+Com base no que foi exposto, por meio da interpretação dos dados, procuramos evidenciar as classes de palavras que a língua apresenta, as quais encontramos substantivos, adjetivos, verbos, advérbios, pronomes, numerais e preposição, não localizamos casos de conjunção e interjeições, e, ainda, no que respeita os artigos, que não são presentes na língua Kinikinau, no entanto apresenta interessante uso, feito por alguns falantes, já que se trata de uma classe de uso da língua Terena, que como já foi citado, relaciona-se com o povo Kinikinau, por esse motivo, em alguns momentos, aparece na fala da comunidade.
+Em relação ao substantivo, foi evidenciado que possui flexões, sendo que em relação ao grau os prefixos hanití e kali são marcadores de aumentativo e diminutivo respectivamente. No que diz respeito a flexão de número temos a partícula hiko, indicadora de plural, que é sempre acrescentada ao final da oração. E ainda há na língua os gêneros masculinos e femininos, que em sua maioria são biformes.
+No que respeita os adjetivos, verificou-se que são antepostos ao substantivo e quando a característica do substantivo é dada por meio de locução adjetiva, o adjetivo vem depois do nome sem o uso da preposição, que por sua vez, não foi localizada em nenhum caso.
+No que se refere aos advérbios, estes são sempre usados, principalmente os de tempo e lugar, e na oração se localizam no final, com exceção do “não”, que sempre aparece primeiro. São modificadores do verbo, e este por sua vez, apresenta marca de pretérito, presente e futuro, estas marcas são claramente perceptíveis, como é também perceptível que essa classe de palavras requer um estudo bem aprofundado, uma vez que, segundo o professor Inácio a língua apresenta um outro tipo de verbo, o qual ele não conseguiu definir o uso, e nos dados por nós coletados, não o encontramos, e nem o professor soube nos exemplificar, logo necessitariam de um contato maior com a língua e seus falantes a fim de se elaborar uma teoria.
+
+83
+Os pronomes têm grande importância na língua Kinikinau e aparece em duas pessoas distintas: primeira e segunda, e estas se flexionam no singular e no plural. E há pronomes pessoais, possessivos, demonstrativos e indefinidos. Na maioria das vezes o pronome é acoplado ao substantivo.
+Quanto à tipologia este estudo deixa explicito que a ordem canônica das sentenças é V O S, o verbo sempre se apresenta na posição inicial. Ainda, quanto ao verbo na sentença comprovamos que, como na língua portuguesa, aparecem verbos transitivos e intransitivos. Já, o que na língua portuguesa é chamado de verbo de ligação, não ocorre em Kinikinau.
+Esse esboço da gramática Kinikinau, por nós apresentada, é um estudo inicial, que esperamos servir de base para estudos mais específicos e aprofundados que podem vir a discordar de nossas conclusões, todavia este é uma contribuição para um povo que quer lutar pela revitalização de sua língua.
+Pensando nessa (re)vitalização, aproveitamos os dados coletados para um levantamento da situação da língua, por meio de suportes da sociolingüística, que muito tem auxiliado nesse processo de recuperação de várias línguas indígenas.
+Assim o que podemos concluir em relação à língua Kinikinau, na aldeia São João, baseado em dados coletados nas entrevistas e em levantamentos histórico-geográficos, é que a citada língua apresenta-se em processo de perda, principalmente se levarmos em conta os dados estatísticos, por nós interpretados, onde é apontado, que de acordo com a faixa etária, os falantes acima de quarenta anos, fazem uso da língua Kinikinau com maior freqüência, já os falantes com menos de 30 anos, usam a língua portuguesa, o que segundo classifica Wurm (1998:192) em “ línguas seriamente ameaçadas: os melhores falantes têm idade de 50 anos para cima...”
+É necessário destacar que das causas que pudemos apontar para o processo de perda que a língua Kinikinau, a principal foi a necessidade de se manterem em anonimato para escapar das perseguições sofridas, entre outras, como a falta de território próprio, a necessidade de assimilação da língua portuguesa, ou seja, o famoso processo da língua majoritária dominando a minoritária, e para finalizar, a falta de valorização das língua indígenas no Brasil.
+Apesar deste processo de perda que vem apresentando, inferimos também, que o povo Kinikinau, apesar de toda uma história de perseguição que
+
+84
+sofreu, de tudo que lhe foi privado nestes quase 60 anos de anonimato, continua tentando preservar seus traços diacríticos e defender seus direitos, e principalmente, vem empenhando na recuperação de tudo que lhe foi tirado, preocupando-se com a preservação de seu língua, vendo na educação um dos melhores meios para alcançar esse fim.
+Essa afirmação se justifica quando observamos o gráfico 4, com o resultado do cruzamento da variável dependente com a escolaridade, que apresenta um equilíbrio, vê-se que embora não tenham aprendido a língua Kinikinau como primeira língua, e que alguns pais não façam uso da mesma, o que tem apreendido na escola está sendo assimilado e principalmente, está sendo utilizado pelos falantes. Vê-se na comunidade que os mais velhos utilizam a língua diariamente, e as crianças, mesmo não tendo a língua Kinikinau como primeira língua, são receptivos, pois entendem a língua, apenas não fazem uso dela diariamente.
+E como inferência final, acreditamos que o povo Kinikinau necessita de suportes para a recuperação de suas terras e de mais estudos aplicados, como forma de auxiliar na não extinção de sua língua, evitando-se assim, o que ocorreu com inúmeras línguas indígenas, desde a colonização. E o povo Kinikinau acredita que é através de muito empenho, principalmente centrado numa boa educação, é que seu povo terá suporte para lutar não só para o reconhecimento, como para a demarcação de suas terras, e valorização de sua cultura.
+Devemos estar sempre cientes de que os estudos das Línguas Indígenas são estudos também, de nossa língua, de nossa cultura brasileira, que não podemos separar a nossa história, da história destes povos, que foram os primeiros habitantes do Brasil. E o estudo de uma língua, é a obtenção de um tesouro vocabular imensurável.
+Os Kinikinau lutam por seu lugar, pelo “lugar Kinikinau” e pelo reconhecimento de sua língua, empenham-se com afinco, pois como se autodenominam são “Koinukonoen”, índios guerreiros, e sua história não nos deixa dúvida, sua arma, é a educação.
+
+VI – REFERÊNCIAS BIBLIOGRÁFICAS
+ALBÓ, X. El futuro de los idiomas oprimidos. In:Orlandi. Campinas, SP: Pontes, p. 75 –104, 1988.
+________1999. Desafios de la Bolívia plurilíngüe. In: Herzfeld&Lastra. Sonora, MX: Universidad de Sonora. p.: 223-243, 1999.
+ALBUQUERQUE, F.E. Aspectos da situação sociolingüística dos Apinayé de Riachinho e Bonito. In: PONTES, I e Santos, L. (org.) LÍNGUAS Jê – Estudos vários. Londrina: EDUEL, 2002.
+ALVES, P. M. O léxico do Tuparí. Tese de Doutorado. UNESP/Araraquara.2004.
+BAKHTIN, M. Marxismo e Filosofia da Linguagem. São Paulo: Hucitec, 1976.
+BARBOSA. M. A modelos em lexicologia. Língua e Literatura. Vol. 9, São Paulo, p.261-279. 1980.
+BIDERMAN, M. T. C. A estrutura mental do léxico. In: Estudos de Filologia e Lingüística, São Paulo: T. A. Queiroz/EDUSP, p. 131-145. 1981
+_________ Lexicografia e lexicologia (org. e autora). Alfa (suplemento) Centro de Publicações da UNESP, 1985.
+________ Dimensões da palavra. In: Filologia e Lingüística Portuguesa. Nº. 2, Unesp. Campus de Araraquara, 1998, p.81-118
+________ Conceito lingüístico de palavra. In: Palavra. Departamento de Letras da PUC – Rio. N. 5. Vol. Temático I – A delimitação de unidades lexicais. Rio de Janeiro, 1999, p. 81-97. Organização: Margarida Basílio.
+BRÁGGIO, S. L. B. Fé cega, faca amolada: Projeto Avá-Canoeiro. Relato das atividades de letramento e sistematização de aquisição da escrita/leitura alfabética. Revista Signótica.Vol.15.n.2.p. 271-302. 2003.
+________ A instauração da escrita entre os Xerentes: conflitos e resistência. Revista do Museu Antropológico, Goiânia, v.3/4, p.19-52. 1999.
+
+86
+________ Situação Sociolingüística dos Povos Indígenas do Estado de Goiás e Tocantins: Subsídios Educacionais. Revista do Museu Antropológico. Goiânia, v.1, n.1, 1992. p. 1-62.
+________ Línguas indígenas brasileiras ameaçadas de extinção: documentação, tipologias sociolingüísticas e educação escolar. Atas do II Encontro Nacional do Gelco. Brasília, 2003.
+CABRAL, P. E. Educação escolar indígena em Mato Grosso do Sul: Algumas reflexões. Campo Grande-MS, 2002.
+CAMARA, J. Matoso Jr. Introdução as línguas indígenas brasileiras.Rio de Janeiro: Ao livro técnico, 1977.
+CARDOSO DE OLIVEIRA, R. Do índio ao bugre: o processo de assimilação do Terena. 2.ed. Rio de Janeiro: Francisco Alves, 1976.
+CARVALHO, N. M. e SILVA, M. E. B. anais do 1ºn Encontro Nacional do GT de Lexicologia, Lexicografia e Terminologia da ANPOLL. Recife: Editora Universitária da UFPE, 1998.
+CRYSTAL, D. Language Death. Cabridge: Cabridge University Press, 2000.
+D’ANGELIS, W. VEIGA, J. (org). Leitura e escrita em escolas indígenas. Campinas. Mercado das Letras/ALB, 1997.
+DA SILVA, G. j; SOUZA, J. L. O despertar da fênix: a educação escolar como espaço de afirmação da identidade étnica Kinikinau em Mato Grosso do Sul. In: Sociedade e Cultura, v. 6, n. 2 (jul./ dez. 2003). Goiânia: UFG, 2005. p.149-156.
+-------------- Os Kinikinau em Mato Grosso do Sul: (in)visibilidade de um grupo indígena, 2004. (mímeo)
+DORIAN, N. Investigating obsolescence. Studies in language contraction and death. Cabridge Cabridge University Press, 2000.
+FERREIRA, J. A Relatório da Diretoria de Índios da Província de Mato Grosso de 1847, depositado no Arquivo Público de Cuiabá. In: AZANHA, G. Os Terena. 2003 p.3 (Mimeo)
+FERREIRA, J.de F. A pedagogia do léxico. Porto: Edições Claret, 1985.
+HALE, K. On endangered languanges and the safeguarding of diversity. In: Language. 68. p.1-3, 1992.
+________. Language endangerment and the human value of linguistic diversity. In: Language. 68. p.35-42, 1992.
+________. On endangered languages and the importance of linguistic diversity. In: Grenoble&Whaley( eds.). Cambridge University Press.p.192-216, 1998.
+
+87
+HEYE, J. Línguas em contato: considerações sobre bilingüismo e bilingualidade. In: Português Brasileiro- Contatos Lingüístico, heterogeneidade e história.(org) Claudia Roncarati e Jussara Abraçado. Rio de Janeiro: UFF, 2002.
+HINTON, L e HALE, K. The green book of language revitalization in pratice. New York: Academic Press, 2001.
+ISQUERDO, A. N. e KRIEGER, M. G., As ciências do léxico: lexicologia, lexicografia e terminologia. Vol I, Campo Grande: Editora da UFMS, 2004.
+KRAUSS, M. The world’s languages in crisis. In:Language., pgs. 4-10, 1992.
+________. Status of Native American language endangerment. In: Gina Cantoni (ed.). Flagstaf: Center for Excellence in Education, Northern Arizona University.
+LABOV, W- Modelos sociolingüísticos – ediciones Cátedra, S.A. Madrid, 1983
+MALMBERG, B. As novas tendências da Lingüística. Uma orientação à Lingüística Moderna. Tradução de Francisco da Silva Borba.Editora Universidade de São Paulo:1971.
+MARCELLESI, J. B.; GARDIN, B. Intodución a la sociolingüística. Trad. De Maria Victoria Catalina. Madrid: gredos, 1978.
+MATORÉ, G. La méthode em lexicologie. Paris: Marcel Didier, 1953.
+MELO, H. A. B. O Falar Bilíngüe. Goiânia: Editora UFG, 1999.
+NETTLE, D. e ROMAINE, S. Vanishing Voices. The extinction of the world’s languages. Oxford: Oxford University Press, 2000.
+NUNES, J. H.; PETTER, M. (orgs.) História do saber lexical e constituição de um léxico brasileiro. São Paulo: Humanitas; Campinas: Pontes, 2002.
+OLIVEIRA, D. P. O preenchimento, a supressão e a ordem do sujeito e do objeto em sentenças do Português do Brasil: Um estudo quantitativo. In: Fotografias Sociolingüísticas. Taralo, F. (org).Campinas: Unicamp, 1989.
+OLIVEIRA, D. P. e ALVES, M.M. Os Kinikinau: Dados históricos, vocabulares e lingüísticos. In:Olhares interdisciplinares na investigação sobre a linguagem. Guerra, V.M.L. (org). Cáceres: UNEMAT, 2005.
+PIRES DE OLIVEIRA, A M. P. e ISQUERDO, A N. As ciências do léxico: lexicologia, lexicografia e terminologia. 2ª ed. Campo Grande: Editora da UFMS, 2001.
+PREZIA, B. e HOORNAERT, E. Essa terra tinha dono. 6ª ed. São Paulo: FTD, 2000.
+REY, A. La lexicologie. Lectures. Paris: Éditions KLINCKSIECK, 1970.
+
+88
+________ Le lexique. Images et Modeles – Du dictionnaire a lexicologie. Paris: Libraire Armand Colin, 11-53 e 183-200, 1977.
+REY-DEBOVE, J. Léxico e diccionario. Alfa – Revista de Lingüística (suplemento). São Paulo: v.28, p.45-69, 1984.
+REYHNER, J. Rationale and Needs for Stabilizing Indigenous Languages. In: Gina Cantoni (ed).Center for Excellence in Education. Flagstaf: Northern Arizona University, 1996.
+REVISTA NOVA ESCOLA. São Paulo: Abril, abril de 2004.
+RIBEIRO, D. Diários Índios. São Paulo: Companhia das letras. 2003.
+RODRIGUES, A. D. Línguas brasileiras: Para o conhecimento das línguas indígenas. São Paulo: Edições Loyola, 1994.
+___________línguas Indígenas: 500 anos de descobertas e perdas. in: Delta vol.9 São Paulo, 2003.
+RONA, J. P. Normas locales, regionales, nacionales y universales em la América española. Nueva Revista de Filología Hispánica. México, El Colégio de México, n. 2, p. 310-321, 1973.
+SAPIR, E. A Linguagem. Introdução ao Estudo da Fala. Tradução de Mattoso Câmara Jr. Rio de Janeiro: Livraria Acadêmica,.1983.
+SAPIR, E. Lingüística como Ciência. Seleção. Trad., Notas de J. Mattoso Câmara Jr. Rio de Janeiro: Acadêmica, 1961.
+SEKI, L. A lingüística indígena no Brasil. In: Delta, vol 15, São Paulo, Nº Especial, 1999 (267-291).
+SEMINÁRIO POVO KINIKINAU: PERSISTINDO A RESISTÊNCIA, 2004. Bonito, MS.
+SOARES, M. F. Algumas possibilidades abertas no horizonte da pesquisa com línguas indígenas brasileiras. Brasília: Boletim Abralin nº21, 1997.
+SOUZA, J. L. O lugar Kinikinau: a trajetória dos Koinukonoen em Mato Grosso do Sul, na perspectiva da Geografia Cultural. In: Anais do VII Encontro de História de Mato Grosso do Sul, Patrimônio Histórico e Cultural: identidade e poder. Campo Grande- MS: Associação Nacional de História - ANPUH, 2004.
+___________.A geografia entre os Kadiwéu. Dissertação de mestrado. Belo Horizonte: UFMG/Pampulha, 2005.
+TAUNAY, A. E. Entre os nossos índios: chanés, terenas, kinikinaus, guanás, laianas, guatós, guaycurus, caingangs. São Paulo: Melhoramentos, 1931.
+
+89
+______________. Memórias do Visconde de Taunay. São Paulo: IPE, 1948. VASCONCELOS, C. A. de. A questão indígena na província de Mato Grosso: conflito, trama e continuidade. Campo Grande: UFMS, 1999.
+VILELA, M. Definição nos dicionários do português. Porto: ASA, 1983. WURM, S. Methods of language maintenance and revival, with selected cases of language endangerment. In: the world. In K. Matsumara Studies in endangered languages, p 191-211.
+
+APÊNDICE
+VOCABULÁRIO OBTIDO EM ENTREVISTAS
+INFORMANTE 1 022- honówoti 023- Kali honówoti 024- 025- kapasi 026- hapu’iti kapasi
+heha1iti kapasi 028- pu’iti kohe’e 029- a-koheta
+b-não sabe 030- mûrica São Jorge 031- ka’mem(?) 032- kohu konoem 033- não sabe 034- hanaiti híkere 035- mopu’ati Maria 036- kipâe 037- he’epatika 038- heha’it 039- kotuti mêum 040- kaxé 041- ûko né 042- kali ûko 043- ûko kai’a 044- mupoina ûko
+
+91
+045- ûko tuti mêum 046- ûko tuti mêum 047- xururúkotí 048- xururúkotí 049- ... 050- takoti 051- imatákoti 052- i’amakoí 053- koiníkotí 065- tikôti 066- aná
+tûti tikôti 067- hôi 068- hôi há’i 069- a-narânga, manga
+b-akaha’i 070- morera 071- ûma 072- tikôti mêum 073- hiamunotí 074- tope 075- há’i 076- mótoke 077- mixíricá 078- wayawá 079- pananá 080- ... 081- ... 082- umetîo 083- xabakirí 084- u’opo 085- beladona 086- ûké nûnum 087- kipaé
+
+92
+088- tapi’i, angola 089- kipâe 090- xokôyo 091- tuiuiú 092- tôré, nono 093- tobotukí 094- yowiré 095- kamom, muriká 096- kamon 097- xexa kamon 098- kamon 099- otoyókoti 100- ramake´eti 101- hu’iti 102- baxero 103- pelegô 104- paderâme 105- … 106- ewesêkoti 107- a’ekati 108- kali wâka 109- kali wâka 110- severêina 111-ákoti severêina 112- pei’ukupé 113- i’atûpe mêum 114- ho’e, kotoro’oti 115- não sei 116- jararaca, jibóia 117- huiríkoti 118- kopiyé, xulokí 119- yunâin 120- não sabe 121- hirimítiti
+
+93
+122- yamity 123- yamoty kemé 124- tiri-tiri 125- xuly-xuly 126- oropa, caga-fogo 127- a-owo
+b-xotikoti owo 128- kosîu, lau’apé 129- oxené 130- kaneti tukô 131- … 132- nîum 314- padre 315- não conhece 316- não conhecem 317-não sabe 318- huremonuke 319- huremonuke 320- saci 321- áunati 322- ituenoke 323- xané 324- a’iveteteke 325- ûke nûnum
+INFORMANTE 2 022- honówoti 023- ... 024- Kali honówoti 025- ... 026- kapasi 027- ... 028- pu’iti kohe’e
+
+94
+029- a-koheta b-não sabe
+030- ... 031- ... 032- kohu 033- ... 034- hanaiti híkere 035- mopu’ati Maria 036- ... 037- ... 038- hiya’ití, hara’iti 039- kotuti mêum 040- kaxé 041- ûko né 042- kali ûko 043- ûko 044- ûko keveké 045- ûko ti mêum 046- ... 047- ... 048- ... 049- harapuku 050- takoti 051- ... 052- i’amakoí unê 053- koiníkotí 065- tikôti 066- ... 067- hôi 068- nohe 069- a-narânga, manga, amukaija
+b-akaha’i 070- caramueba 071- kali’aweko’iti
+
+95
+072- hôi tikoti 073- he-he 074- tôpe 075- há’i 076- ... 077- mixíricá 078- wayawá 079- nanicão, naniquinha, figo 080- perita’u 081- ... 082- umetîo 083084- ... 085- bowdo, guiné 086- ... 087- tipaé 088- tapi’i, angola, pôhi 089- ... 090- xokôyo 091- tuiuiú 092- angolá 093- tobo 094- kima’u 095- kamom, wacâ 096- hapukiti, alazão, kerapeti 097- xexa kamon 098- … 099- otoyókoti 100- ramake´eti 101- chincha 102- ... 103- pelegô 104- badrana 105- …
+
+96
+106- ewesêkoti 107- tûru 108- kali wâka 109- kali novilha 110- ákoti severêina 111- ákoti severêina 112- pei’ukupé 113- mêum 114- curimba 115- tuvira 016- jararaca, jibóia 117- huiríkoti 118- kopiyé, xulokí 119- ... 120- kotí 121- hirimítiti 122- yamity 123- yamoty kemé 124- ... 125- xuly-xuly 126- oropa 127- a-owowu
+b-owowu também 128- … 129- oxené 130- … 131- … 132- nîum 314- ... 315- ... 316- não conhecem 317-quaresma 318- … 319- …
+
+97
+320- xoxé 321- akó áunati 322- … 323- … 324- uké nonum 325- ûke nûnum
+INFORMANTE 5 022- honówoti 023- honówoti heu koiti 024- akoxuna honowoti 025- honaiti honowoti 026- kapasi 027- hapu’iti kapasi
+heha’iti kapasi 028- inámati kohe’e(lua nova), cheia 029- a-...
+b-não sabe 030- São Jorge 031- ... 032- cerração 033- hekeré 034- estrela Dalva 035- As três Marias 036- oxêne kipâe 037- arco-íris 038- hiya’iti, honono’iti, hapu’iti 039- kotuti mêum 040- eclipsi 041- kali ûko 042- kali ûko 043- passatempo 044- não sei
+
+98
+045- éno ûko 046- ... 047- xururúkotí 048- ikurumekotí 049- redemunho 050- tokoi 051- ... 052- ... 053- ko’iníkotí 065- tikôti 066- ... 067- hôi 068- pomar 069- a-narânga, manga, xapau, wayawá, wawirá 070- angilim 071- ... 072- mêum 073- ramui’utí, hôi 074- tôpe 075- há’i 076- ... 077- pokam 078- wayawá 079- pananá maçã, figo 080- cacho 081- penca 082- urô 083- xawakirí 084- sombrinha de sapo 085- paratudo 086- espada de são Jorge 087- kipaé, parâwa, angico 088- tapi’i, angola, pohi 089- kipâe
+
+99
+090- xokôyo 091- tuiuiú 092- caipira, angolá 093- ... 094- yowiré, senî, ka’i, tokoró 095- kamom 096- hiya’iti kamon, hapu’iti kamon 097- kali koti kamon 098- troncho 099- manco, rengo 100- … 101- chincha 102- baxero 103- pelegô 104- badrana 105-arriado 106- ewesêkoti 107- tûru 108- kali wâka 109- inamatiko 110- ákoti 111-mocho 112- êti 113- mêum 114- dorado, pirapitanga 115- muçum 116- jararaca, jibóia 117- huiríkoti 118- kopiyé, xulokí 119- yunâin 120- kalipipi 121- hirimítiti 122- yamity 123- ...
+
+100
+124-wâca-wâca 125- oropa, 126- oropa, xuli-xuli 127- a-owoku
+b-owoku 128- arunâ, kem-kem 129- oxené 130- … 131-picada 132- nîum 314- padre 315- pastor 316- não conhecem 317-... 318- diabo 319- só esse 320- saci 321- aro áunati 322- inakitixa 323- feitiço 324- … 325- …
+INFORMANTE 7
+022- honówoti 023- todo lado 024- brisa 025- não sei 026- kapasi 027- hapu’iti kapasi
+nuvem preta
+
+101
+028- cheia, mingunte, crescente e lua nova 029- a-...
+b-não sabe 030- São Jorge 031- nublado 032- cerração 033- não sei 034- estrela Dalva 035- três Marias 036-não sei não 037- arco-íris 038- hiya’iti, honono’iti, harara’iti 039- calor 040- eclipsi 041- a chuva cabô 042- garoa 043- não sei não 044- chuva de pedra 045- tempestade 046- não sei 047- xururúkotí 048- relâmpago 049- redemunho 050- sereno 051- giada 052- enxurrada 053- inchente 065- tikôti 066- raiz, folha e tronco 067- hôi 068- pomar 069- a-narânga, manga, 070- aruera 071- hêwe wayawá
+
+102
+072- hôi 073- hôi 074- tôpe 075- fruta 076- semente, polpa, casca 077- pokam, mixirica 078- wayawá 079- pananá maçã, figo 080- cacho 081- penca 082- não sei não 083-... 084- cogumelo 085- ... 086- não conheço não 087- parâwa, uno’e, ko’eru, kiri-kiri 088- tapi’i, angola, pohi, mutum 089- kipâe 090- João de barro 091- garça 092- caipira e granja 093- ... 094- yowiré, woko’i, tipê 095- kamom, wacâ 096- não conheço 097- potrilho 098- não sei não 099- rengo 100- arrei 101- chincha 102- baxero 103- pelego 104- não sei não 105-arreado
+
+103
+106- apeá 107- tûru 108- xexa wâka 109- novilho 110- não sei não 111-mocho 112- baguar 113- mêum 114- curimba 115- não sei 116- jararaca, cascável 117- huiaka 118- kopiyé, xulokí 119- yunâin 120- lupi 121- ... 122- vaga-lume 123- bizorru 124-wâca-wâca 125- oropa, 126- oropa, 127- a-cachopa
+b-cachopa também 128- lava-pé, kosiú 129- ... 130- … 131-chupa 132- não sei 314- padre 315- pastor 316- não conhecem 317-... 318- kuskirapiti 319- só esse
+
+104
+320- saci 321- não sei como é 322- não sei 323- feitiço 324- … 325- …
+INFORMANTE 6
+022- vento 023- todo lado 024- brisa 025- barulho do ventu 026- nuvem 027- ... 028- cheia, mingunte, crescente e lua nova 029- a-...
+b-... 030- São Jorge 031- nublado 032- cerração 033- não lembru 034- Dauva 035- três Maria 036-não sei não 037- arcu-íris 038- azul, laranja, amarelo, branco 039- mormaço 040- ecripsi 041- parada da chuva 042- nebrina, kali ûko 043- não sei não
+
+105
+044- ... 045- tempestade 046- não sei não 047- trovão 048- relampu 049- redemunho 050- sereno 051- giada 052- enxurrada 053- inchente 065- tikôti 066- raiz, folha e tronco 067- hôi 068- pomar 069- a-narânga, mangá, 070- arueira 071- ... 072- ... 073- mato 074- ispim, tôpe 075- fruta 076- semente, polpa, casca, polpa é nâum 077- pokam, 078- wayawá 079- maçã, figo 080- cacho de banana 081- penca 082- não sei não 083-gêmea 084- cogumelo 085- ...puléu 086- não conheço não 087- parâwa, ko’eru, 088- tapi’i, angola, pohi,
+
+106
+089- kipâe 090- João de barro 091- garça 092- da granja, angola 093- ... 094- onça 095- vaca 096- alazão é meio claro, ruano que é escuro, tordilho que é branco 097- cavalinho 098- troncho 099- rengo 100- arrei 101- chincha 102- baxeiro 103- pelego 104- baldrana 105-apeado 106- apeá 107- touro 108- xexa wâka 109- novilha 110- não lembru 111-mocho 112- baguar 113- maiadô 114- pirapitanga 115- não sei 116- jararaca 117- sucuri 118- preto, peludo 119- lagartu 120- lupi 121- harimititi 122- vaga-lume
+
+107
+123- bezouru 124-borboleta 125- oropa, abelha 126- oropa, 127- a-cachopa
+b-oco de pau 128- kosiú 129- ... 130- … 131-ferroa 132- nîum 314- padre 315- pastor 316- não conhecem 317-Coresma 318- diabu 319- só esse 320- saci 321- azarento 322- lugar 323- macumba 324- … 325- não
+INFORMANTE 4 022- honówoti 023- honówoti heu koiti 024- kali honówoti 025- não sei 026- kapasi 027- hapu’iti kapasi
+heha’iti kapasi
+
+108
+028- inámati kohe’e(lua nova), cheia, kali hopoti kohe’e(minguante) 029- a-...
+b-não sei, acho que indica chuva 030- São Jorge 031- brusco 032- i’ou 033- hikeré 034- puiti híkeré 035- As três Marias 036- oxêne kipâe 037- arco-íris 038- hiya’iti, honono’iti, harara’iti, tono’iti 039- kotuti 040- kaxé-kohe’e 041- ipixî kone kaxé 042- oririkoti 043- ûkô 044- ewe’éke 045- não sei 046- ... 047- xururúkotí 048- rorúkotí 049- kirípupu 050- tokûe 051- imatakotí 052- kó’iníkoti 053- ko’iníkotí 065- tikôti 066- poxene, tûti tikôti, há’i 067- hôi 068- ... 069- a-narânga, manga,
+b-merikaxé(capitão) 070- arueira
+
+109
+071- a-nikihôna’eno, para pressão (imbaúba) b-broto, raiz
+072- capão 073- hôi 074- tôpe 075- há’i 076- mótoke, âké 077- pokam, mixirica 078- wayawá 079- pananá karapé, maçã 080- cacho 081- penca 082- urô 083- xawakirí 084- sombrinha de sapo, iparinawapó 085- marcela, carqueja 086- guiné 087- parâwa, ko’eru, warututu 088- tapi’i, angolá 089- kipâe 090- xokôyo 091- garça 092- tina, zimbana 093- oputâe 094- sinê, hopu’oti, yowiré, catîtu 095- kamom, wakâ 096- harara’iti kamon, hapu’iti kamon, heha’iti kamon 097- xexa kamon 098- troncho 099- otoyókoti 100- ramake’eti 101- rerexu’iti 102- baxeiro 103- pelegô
+
+110
+104- badrana 105-ramake’eti kamon 106- ewesêkoti kamon 107- tûru 108- kali wâka 109- xexa wâka 110- poruti severêina 111-ákoti severêina, é mocho 112- ... 113- malhadô 114- dorado, curimba 115- muçum 116- jararaca, cascável 117- huiríkoti, ui’aca 118- kopiyé, xulokí 119- yunâin 120121- hirimítiti 122- yamity 123- ... 124-wâca-wâca 125- oropa, 126- oropa, xuli-xuli 127- a-owoku
+b-owoku 128- arunâ, kem-kem 129- oxené 130- … 131-picada 132- nîum 314- padre 315- pastor 316- não conhecem 317-...
+
+111
+318- diabo 319- só esse 320- saci 321- aro áunati 322- inakitixa 323- feitiço 324- … 325- …
+INFORMANTE 8 022-vento 023- ... 024- kali honówoti 025- îmo’u 026- kapasi 027- hapu’iti kapasi
+heha’iti kapasi 028- inámati kohe’é lua nova, tem a cheia, minguante e crescente 029- a-num sei
+b-não sei 030- São Jorge 031- não sei 032- cerração 033- estrela cadente 034- híkeré 035- mopu’ati Maria 036- pescoço da ema 037- arco-íris 038- hiya’iti, honono’iti, harara’iti, tono’iti 039- não sei 040- eclipsi 041- parô
+
+112
+042- oriri 043- não sei 044- chuva de pedra 045- tempestade 046- num sei não 047- trovão 048- relâmpago 049- redimunho 050- tokûe 051- geada 052- inxurrada 053- inchentií 065- tikôti 066- galho, folha 067- éno tikôti 068- ... 069- a-narânga, xapa’u
+b-peito de pombo 070- arueira 071- wayawá 072- hôi 073- îramu’iti 074- tôpe 075- há’i 076- âké, nâum, mótore 077- mixirica 078- wayawá 079- pananá maçã 080- cacho 081- penca 082- ûro 083- xawakirí 084- cogumelo 085- fedegoso, imbaú(reré)
+
+113
+086- não conheço 087- parâwa, ko’eru 088- tapi’i, angola que é tokoé-tokoé 089- kipâe 090- xokôyo 091- garça 092- caipira e de granja 093- xexâ tapi’i que é o ovo da galinha 094- ienakamon, kimôum, kovekô 095- kamom, wakâ 096- buriká 097- xexa kamon 098- não sei 099- otoyókoti 100- arreio 101- chincha 102- baxeiro 103- pelegô 104- num sei 105- arreiado 106- ewesêkoti 107- tûru 108- xexâ wâka 109- novilha 110- poruti 111- mocha 112- baguar, uriti 113- mêum 114- dorado, curimba e piranha 115- muçum 116- koxu’é é cobra e tem coral e jararaca. 117- sucuri 118- kopiyé, xulokí 119- yunâin
+
+114
+120- lupi 121- hirimítiti 122- vaga-lume 123- mosca 124-wâca-wâca 125- oropa, 126- xuli-xuli, jati 127- a-cachopa
+b-owoku 128- kem-kem, lava-pé 129- oxené 130- mosca 131-picô 132- nîum 314- padre 315- pastor 316- não conhecem 317-não sei não 318- diabo 319- satanás 320- saci 321- não sei não 322- oxené 323- hokêneneti 324-num sei 325- …
+INFORMANTE 3 022-honówoti 023- de todo lado 024- brisa 025- barulho
+
+115
+026- kapasi 027- branca e negra 028- kohe’e é lua, e tem nova,tem a cheia, minguante e crescente 029- a-círculo da lua
+b-não sei 030- São Jorge 031- koima’iti mêum, quando está nublado 032- cerração 033- estrela cadente 034- estrela dalva 035- as três Maria 036- oxêne kipâe 037- arco-íris 038- azul, amarelo, laranja, vermelho 039- kotuti mêum 040- ko’emati kohe’e kaxé, o encontro da lua com o sol 041- a chuva parô 042- garoa 043- manga de chuva 044- chuva de pedra 045- tempestade 046- num sei não 047- trovão 048- relâmpago 049- redimunho 050- sereno, tokûe 051- geada 052- inxurrada 053- inchentií 065- tikôti 066- aná, hêwetikôti, folha, flor e fruto. 067- hôi 068- pomar 069- a-narânga, wayawa, jabuticaba, araticum.
+
+116
+b-mitatîku que é o angico 070- arueira, ipê 071- a-wayawá
+b-o broto 072- mêum 073- hôi 074- tôpe 075- há’i 076- nâum, mótore, nâpitaká que é a castanha 077- he’eke, mixirica 078- wayawá 079- pananá maçã, nanica 080- cacho 081- penca 082- ... 083- banana gêmea 084- cogumelo 085- arruda, guiné. 086- não sei 087- mutum, waratacá 088- tapi’i, tokoé-tokoé, pôhi 089- kipâe 090- xokôyo 091- garça 092- tokoé-tokoé 093- não sei 094- ienakamon, síne 095- kamom, wakâ 096- buriká e eqüila 097- xexa kamon 098- troncho 099- rengo 100- ramake’eti 101- chincha
+
+117
+102- baxero 103- pelegô 104- baldrana 105- usomé kamon 106- ewesêkoti kamon 107- tûru 108- xexâ wâka 109- xexâ wâka 110- não lembro 111- vaca sem chifre 112- bagual 113- malhdó imokoku wâka 114- curimba, peixe é Kou’e 115- muçum 116- koixu’e é obra e a que tem mais aqui é jararaca. 117- ui’âka 118- kopiyé, xulokí 119- yunâin 120- lupi 121- hirimítiti 122- lumi- lumi 123- besouro 124-wâca-wâca 125- oropa, 126- xuli-xuli 127- a-cachopa
+b-colméia 128- lava-pé, orehô, carregador 129- oxené 130- varejeira 131- aqui fala chupô 132- nîum 314- padre 315- pastor
+
+118
+316- não conhecem 317- Quaresma 318- satanás 319- diabo 320- saci 321- azarento, ako áunati 322- destino 323- xumoné 324-num sei 325- …
+SENTENÇAS OBTIDAS POR ENTREVISTAS E CADERNOS DOS ALUNOS
+Meu irmão chegou. Simone mbo’inu
+Seu irmão chegará. Simotimó pe’inu.
+Meus irmãos chegaram. Simone mb’iunu hiko.
+Nossos animais são novos. Inámati pêyoûti hiko.
+Minha vaca não tem chifre. Akó sever~eina wangana hiko
+O menino come arroz. Niko nakaku kali hóyeno.
+Vovô gosta de maçã. Yómoti maçã vovô
+
+119
+As mulheres dormuram. Imokó seno hiko.
+O pai deu um presente para o filho. Porexuá póhuti presente xe’a papai.
+ALFABETO A, mb, nd, e, ng, h, i, nj, k, l, m, n, o, p, r, s, t, u, w, x, y, nz, ‘(glotal).
+Os pronomes já são incluídos nas palavras: Mbâho= minha boca Se nazaliza o pronome de 1ª pessoa do caso reto se usa nazalizado. Eu- ûndi Meu chapéu- njowo’i Chapéu- yowoeti
+Wowoku- nossa casa yowongu- sua casa owongu- minha casa owokuti- casa
+mbiritauna- minha faca não foi necessário colocar a palavra induku (meu, minha) ngîri- meu nariz ngâke- meu brinco njêwe- meu pé
+O GLOTAL Fica entre duas vogais de uma palavra quando tem uma pequena pausa: Tapi’i Ho’e Epo’e xe’a
+
+120
+mopua’uti
+O ACENTO AGUDO É usado na sílaba tônica da palavra: Yopóniti – cedo Repenotí – camisa Hóyeno –
+O ACENTO CIRCUNFLEXO Para prolongar a pronúncia: Seno Kûre
+GERÚNDIO Iwatókoti- sentando Iyoti- chorando Nikoti-comendo Ahakówoti-correndo Waúkoti- gritando Iundoxoti- eu estou escrevendo Anjikowoti- estou tomando banho Muminguxoti- eu estou pescando
+DIMINUTIVO Usa-se kali antes do nome: Kali ho’e Kali pohi Kali hoyenó
+TEMPOS VERBAIS MARCADOR DE PASSADO- NÉ Passado: iundo xoné- eu escrevi /iuto xoné- ele escreveu Ningoné- já comi
+Presente:
+
+121
+iundoxoti- estou escrevendo / iutoxoti- ele está escrevendo
+MARCADOR DE FUTURO- MO Futuro: iundo xotimo- eu vou escrever/ iutoxotimo- ele vai escrever Mbohotimo- eu irei Ningotimo- eu vou comer
+EXEMPLOS Ningoti- eu estou comendo Ningotimó- eu vou comer Ningoni- eu já comi Okó ninga- eu não vou comer
+Ropokoti- está fervendo Ropokoné- já ferveu Ropokotimo- vai ferver
+NEGATIVAS Mbikuá no wacã- eu tenho medo de vaca. Akó mbiukuá ne wakâ Mbikua- estou com medo Âko piká wakã- ele não tem medo de vaca âko enjia koeku.- não sei da sua vida âko enjia ngoeku- não sei de minha vida
+koixo’e pohokowoti- a cobra é brava. Momokoti tomuku./ o cão está latindo Ekowoti ke’eru/ o papagaio está assobiando. Ohykoti xêxa wakâ/ o bezerro está mamando Nexipá koixo’e./ cuidado com a cobra. Iwêlaká /sente-se.
+PRONOMES POSSESSIVOS Índuke- meu minha
+
+122
+Tiké- seu, sua Wítuke- nosso, nossa Hiko- para qualquer um indicador de plural Ex: kamon cavalo/ ngamona hiko- meus cavalos Ûné- água/ unêna- minha água
+ADJETIVOS Vem antes do substantivo, no caso de locuções adjetivas vem depois. Pé de laranja- hêne narânga Folha da árvore- tûti tikôti
+Tempo quente – kotuti mêum Nuvem branca – hapu’iti kapasi Lua cheia – pu’iti kohe’e
+PRONOMES INDEFINIDOS Não foi localizado na língua.
+PARA INDICAR INTENSIDADE É utilizado a palavra ÉNO que indica muito.
+
+ANEXO
+1 - Questionário semântico-lexical do Projeto do Atlas /lingüístico de Mato Grosso do Sul
+0023.aO vento aqui sopra normalmente de que lado? 0023.b Que outros ventos você conhece? 0023.c Como são esses ventos? 0024.a Como se chama o vento brando e fresco que sopra á tarde? 0025.a E o som que o vento faz, como se chama? 0026.a Como se chamam aquelas manchas escuras que aparecem no céu quando vai chover? 0027.a Quais os tipos de nuvens que você conhece? 0028.a Quais as fases que a Lua tem? 0029.a Como se chama aquela roda que fica em volta da Lua? 0029.b Ela indica alguma coisa? 0030.a Na Lua cheia, o que as pessoas dizem enxergar na Lua? 0030.b O que representam essas manchas? 0031.a Quando o céu está coberto de nuvens, diz-se que ele está o quê? 0032.a E aquela espécie de fumaça que se forma próximo ao solo, e que, nas estradas, impede os motoristas de enxergarem à distância? 0033.a Nas noites estreladas, como se chama aquela estrela que parece caminhar no céu? 0034.a Como se chama aquela estrela grande que a gente vê até quando o dia está clareando? 0035.a E aquelas estrelas que estão sempre juntinhas? 0036.a Em noites estreladas, aquela faixa esbranquiçada, que fica bem no meio do céu? 0037.a E as listras coloridas que aparecem no céu depois da chuva? 0038.aDe que cores são essas listras?
+
+124
+0039.a Quando o tempo está abafado e úmido, diz-se que faz um... 0040.a E quando o sol e a lua escurecem totalmente ou em parte, por algum tempo, que nome se dá a isso? 0041.a Quando a chuva termina e o sol começa a aparecer, isso se chama de... 0042.a Que nome se dá à chuvinha miúda, demorada? 0043.a E a chuva de verão que dá e passa logo? 0044.a E quando chove e caem pedacinhos d'água de gelo, como se chama essa chuva? 0045.a E aquela chuva com vento forte, que pode derrubar até casas? 0046.a E a chuva forte, derramada, que alaga tudo e cai de repente? 0047.a Antes ou depois da chuva, como se chama aquele barulho que se escuta após o raio? 0048.a E a claridade breve e rápida que aparece no céu, quando vai chover? 0049.a Como se chama aquele vento forte que vai girando e levanta poeira, folhas e outras coisas leves? 0050.a E aquelas gotinhas de água que molham a grama de manhã? 0051.a Que nome se dá àquele frio tão intenso que cai neve e queima as plantações? 0052.a Água que fica correndo depois da chuva, enche as ruas, as calçadas? 0053.a Quando chove muito e os rios alagam, cobrindo tudo de água, o que se diz que está acontecendo? 0065.a E o nome que se dá às plantas altas, que têm tronco grosso e muitos galhos? 0066.a Uma árvore tem várias partes, quais são elas? 0067.a E o lugar onde existem muitas árvores? 0068.a Que nome se dá a uma plantação de àrvores frutíferas, geralmente perto de casa e cercada? 0069.a Diga os nomes das árvores mais comuns aqui na região.
+Frutíferas e não frutíferas. 0070.a-E as árvores que dão madeira de lei? 0071.a-Quais as árvores medicinais que conhece? 0071.b-Quais as partes servem para remédio? 0072.a Lugar no campo muito extenso, onde existem muitas árvores juntas, formando uma área mais ou menos arredondada?
+
+125
+0073.a Como é chama aquilo que nasce no meio da plantação e precisa ser arrancado? 0074.a Algumas árvores têm uma parte fina e pontuda, que finca na gente.Como se chama essa parte? 0075.a O que cresce em certas árvores e serve para comer? 0076.a Quais são as partes de uma fruta? 0077.a E o nome de uma fruta menor que a laranja e que se descasca com a mão? 0078.a E aquela fruta que se come tudo e que pode ter bicho dentro dela? 0079.a Quais as espécies de banana que conhece? 0080.a Para colher as bananas o que se corta? 0081.a Um cacho de bananas pode ter 1,2,3,4... 0082.a Como se chama aquela parte roxa que fica na parte de baixo do cacho de bananas? 0083.a Qual nome se dá àquelas bananas que nascem grudadas? 0084.a E aqueles chapeuzinhos que nascem no chão úmido ou nos paus podres? 0085.a Quais as ervas medicinais que conhece? 0086.a Quais as plantas que dão sorte e que as pessoas costumam plantá-las na frente da casa ou no quintal? 0087.a Quais os pássaros do mato, do banhado, que conhece por aqui? 0088.a E as aves criadas no quintal da casa? 0089.a De todas as aves que conhece, qual é a maior? 0090.a E aquele pássaro que faz sua casinha de barro? 0091.a Como se chama aquela ave, geralmente branca, de pescoço fino, muito comum, principalmente nos campos, no meio do gado? 0092.a Quais as espécies de galinhas que conhece? 0093.a E aquele ovo que se deixa no ninho para que a galinha venha botar ali outra vez? 0094.a Quais os animais selvagens mais comuns na região? 0095.a E os animais de grande porte, criados pelo homem no campo? 0096.a Quais os nomes dados aos cavalos pela cor do pêlo ou devido a algum sinal que tenha no corpo? 0097.a O cavalo bem novinho, como se chama? 0098.a E o cavalo que tem uma orelha caída, como se chama? 0099.a Cavalo que puxa uma perna, porque tem um defeito nos quadris?
+
+126
+0100.a Peças que se colocam sobre o cavalo para montar nele? 0101.a Peças de couro que é passada por cima do arreio e aperta a barriga do cavalo, para firmar o arreio, como se chama? 0102.a Qual a peça do arreamento que se coloca embaixo do arreio? 0103.a Qual a peça do arreamento que se usa em cima do arreio para deixá-lo macio? 0104.a Peça de couro macio usada sobre pelegos? 0105.a Como se diz do cavalo que está pronto para ser montado? 0106.a Descer do cavalo é... 0107.a Como é chamada a rês reprodutora não castrada? 0108.a E a rês bem novinha, como é chamada? 0109.a E o bezerro com mais de um ano e menos de dois? 0110.a Como se chama um animal que tem só um chifre? 0111.a E o animal sem chifre? 0112.a E aquele animal que nasceu e se criou no mato, sem nunca vir ao mangueiro? 0113.a Lugar onde o gado se reúne para dormir no campo? 0114.aQue tipos de peixes são comuns nos rios daqui? 0115.a E aquele peixe comprido, que se parece como uma cobra? 0116.aQuais as cobras que são mais conhecidas por aqui? 0117.a 0117E aquela cobra bem grossa, que chega a ter até mais de 12 metros de comprimento e que pode engolir animais como bezerros, galinhas...? 0118.a Quais as espécies de tatu que conhece? 0119 Como se chama aquele bicho que se parece com o jacaré, mas é bem menor e gosta de comer ovos? 0120 E aquele bichinho que parece um lagarto e que anda pelas paredes e teto das casas? 0121 E aquele que gruda na pele da gente e vai chupando o sangue e gruda também nos animais? 0122.a E o insetinho que voa à noite e acende e apaga uma luzinha 0123.a Bichinho preto, de casca dura, que fica voando em volta da luz? 0124.a Inseto de asas coloridas que voa de flor em flor? 0125.a Insetos que dão mel? 0126.aQuais os tipos de abelhas que conhece?
+
+127
+0127.aComo se chama a casa, o lugar onde moram os maribondos? 0127.bE as abelhas? 0128.aQuais as espécies de formigas mais conhecidas por aqui? 0129.a Como se chama o caminho que essas formigas fazem? 0130.a 0130 a Um tipo de mosca grande que faz um barulhão quando voa. Como se chama? 0131 a O que faz o mosquito, o marimbondo, a formiga, quando ataca a gente? 0132.a Nome daquele insetinho que, à noite, fica catando no ouvido da gente e pica doído? 0314.a Como se chama o homem que reza a missa? 0315.a E o chefe das igrejas evangélicas? 0316.a A pessoa que arruma a igreja e ajuda na missa? 0317.a Como se chama aquele período que vai desde o final do carnaval até a Semana Santa? 0318.a Deus está no céu, no inferno está o... 0319.a Quais outros nomes que se dá a diabo? 0320.a 0320 aFalam de um negrinho de uma perna só, que usa cachimbo na boca, que nome dão a ele? 0321.a 0321 aA presença de certas pessoas ou animais é considerada como sinal de desgraça. Elas são... 0322 a Há pessoas que crêem que Deus escolheu para cada pessoa um caminho que deverá seguir em sua vida. Por isso, se diz que cada um tem seu... 0323 aAquilo que se pode fazer com a ajuda dos maus espíritos para prejudicar alguém. 0324 a Como se chama aquilo que algumas pessoas usam para dar sorte ou afastar os males? 0325.a Quais os tipo de amuleto que você conhece?
+
+2 - RESPOSTAS POSSÍVEIS
+
+0023.a 0023.b 0023.c
+
+vento predominante vento predominante vento predominante
+
+128
+
+0024.a
+
+brisa
+
+0025.a
+
+assobio do vento
+
+0026.a
+
+nuvem
+
+0027.a
+
+tipos de nuvem
+
+0028.a
+
+fases da lua
+
+0029.a
+
+círculo na lua
+
+0029.b
+
+círculo na lua
+
+0030.a
+
+manchas na lua
+
+0030.b
+
+manchas na lua
+
+0031.a
+
+nublado
+
+0032.a
+
+nevoeiro/cerração/nebli
+
+0033.a
+
+estrela cadente
+
+0034.a
+
+estrela d'alva
+
+0035.a
+
+três marias
+
+0036.a via-láctea
+
+0037.a
+
+arco-íris
+
+0037.b
+
+0038.a
+
+0039.a
+
+mormaço
+
+0040.a
+
+eclipse
+
+0041.a
+
+estio
+
+0042.a
+
+garoa
+
+0043.a
+
+manga de chuva
+
+0044.a
+
+chuva de pedra
+
+0045.a
+
+temporal
+
+0046.a
+
+tromba d'água
+
+0047.a
+
+trovão
+
+0048.a
+
+relâmpago
+
+0049.a
+
+redemoinho
+
+0050.a
+
+orvalho
+
+0051.a
+
+geada
+
+0052.a
+
+enxurrada
+
+0053.a
+
+enchente
+
+0065.a
+
+árvore
+
+129
+
+0066.a
+
+partes da planta
+
+0067.a
+
+mata
+
+0068.a
+
+pomar
+
+0069.a
+
+árvores frutífera
+
+0069.b-
+
+Não frutíferas.
+
+0070.a
+
+madeira de lei
+
+0071.a
+
+0071.b
+
+0072.a
+
+capão
+
+0073.a
+
+mato
+
+0074.a
+
+espinho
+
+0075.a
+
+fruta
+
+0076.a partes da fruta
+
+0077.a
+
+mexerica
+
+0078.a
+
+goiaba
+
+0079.a tipos de banana
+
+0080.a
+
+cacho
+
+0081.a
+
+pencas
+
+0082.a umbigo
+
+0083.a
+
+gêmeas
+
+0084.a
+
+cogumelos
+
+0085.a
+
+ervas medicinais
+
+0086.a
+
+arvores que dão sorte
+
+0087.a
+
+pássaros do mato
+
+0088.a
+
+aves do quintal
+
+0089.a
+
+ema
+
+0090.a
+
+joão-de-barro
+
+0091.a
+
+garça
+
+0092.a
+
+galinhas
+
+0093.a
+
+indez
+
+0094.a
+
+animais selvagens
+
+0095.a
+
+animais de grande porte
+
+0096.a
+
+tipos cavalos
+
+0097.a
+
+potrilho
+
+130
+
+0098.a 0099.a 0100.a 0101.a 0102.a 0103.a 0104.a 0105.a 0106.a 0107.a 0108.a 0109.a 0110.a 0111.a 0112.a 0113.a 0114.a 0115.a 0116.a 0117.a 0118.a 0119.a 0120.a 0121.a 0122.a 0123.a 0124.a 0125.a 0126.a 0127.a 0127.b 0128.a 0129.a 0130.a
+
+nambi lonanco arreio cincha baixeiro pelego baldana arreado apear touro bezerro sobreano um só chifre/ troncho mocho bagual malhador tipos de peixes muçum as cobras sucuri tipos de tatu lagarto lagartixa carrapato vaga-lume besouro borboleta abelha tipos de abelhas a casa dos maribondos a casa das abelhas formigas carreiro mosca varejeira
+
+131
+
+0131.a 0132.a 0314.a 0315.a 0316.a 0317.a 0318.a 0319.a 0320.a 0321.a 0322.a 0323.a 0324.a 0325.a
+
+picada de inseto mosquito padre pastor sacristão quaresma diabo outras designações que se dá a diabo? saci-pererê agourentas destino/sina feitiço amuleto/breve tipos de amuletos
+
+3 - QUESTIONÁRIO UTILIZADO NAS ENTREVISTAS
+
+1-O que faz as árvores balançarem? 2-Como se chama o vento brando e fresco que sopra á tarde? (ALMS 24) 3-Como se chamam aquelas manchas escuras que aparecem no céu quando vai chover? (ALMS 26) 4- Quais os tipos de nuvens que você conhece? (ALMS 27) 5- Quais as fases que a Lua tem? (ALMS 28) 6- Como se chama aquela roda que fica em volta da Lua? (ALMS 29a) 7- Na Lua cheia, o que as pessoas dizem enxergar na Lua? (ALMS 30 a) 8- Quando o céu está coberto de nuvens, diz-se que ele está o quê? (ALMS 31) 9- E aquela espécie de fumaça que se forma próximo ao solo, e que, nas estradas, impede os motoristas de enxergarem à distância? (ALMS 32) 10- Nas noites estreladas, como se chama aquela estrela que parece caminhar no céu? (ALMS 33) 11- Como se chama aquela estrela grande que a gente vê até quando o dia está clareando? (ALMS 34) 12- E aquelas estrelas que estão sempre juntinhas? (ALMS 35)
+
+132
+13- Em noites estreladas, aquela faixa esbranquiçada, que fica bem no meio do céu? (ALMS 36) 14- E as listras coloridas que aparecem no céu depois da chuva? (ALMS 37) 15- De que cores são essas listras? (ALMS 38) 16- Quando o tempo está abafado e úmido, diz-se que faz um...? (ALMS 39) 17- E quando o sol e a lua escurecem totalmente ou em parte, por algum tempo, que nome se dá a isso? (ALMS 40) 18- Quando a chuva termina e o sol começa a aparecer, isso se chama de...? (ALMS 41) 19- Que nome se dá à chuvinha miúda, demorada? (ALMS 42) 20- E a chuva de verão que dá e passa logo? (ALMS 43) 21- E quando chove e caem pedacinhos d'água de gelo, como se chama essa chuva? (ALMS 44) 22- E aquela chuva com vento forte, que pode derrubar até casas? (ALMS 45) 23- Antes ou depois da chuva, como se chama aquele barulho que se escuta após o raio? (ALMS 47) 24- E a claridade breve e rápida que aparece no céu, quando vai chover? (ALMS 48) 25- Como se chama aquele vento forte que vai girando e levanta poeira, folhas e outras coisas leves? (ALMS 49) 26- E aquelas gotinhas de água que molham a grama de manhã? (ALMS 50) 27- Que nome se dá àquele frio tão intenso que cai neve e queima as plantações? (ALMS 51) 28- Água que fica correndo depois da chuva, enche as ruas, as calçadas? (ALMS 52) 29- Quando chove muito e os rios alagam, cobrindo tudo de água, o que se diz que está acontecendo? (ALMS 53) 30- E o nome que se dá às plantas altas, que têm tronco grosso e muitos galhos? (ALMS 65) 31- E o lugar onde existem muitas árvores? (ALMS 67) 32- Que nome se dá a uma plantação de árvores frutíferas, geralmente perto de casa e cercada? (ALMS 68) 33- Diga os nomes das árvores mais comuns aqui na região. (ALMS 69) a-Frutíferas? b-não frutíferas?
+
+133
+34- E as árvores que dão madeira de lei? (ALMS 70) 35- Quais as árvores medicinais que conhece? Quais as partes servem para remédio? (ALMS 71) 36- Lugar no campo muito extenso, onde existem muitas árvores juntas, formando uma área mais ou menos arredondada? (ALMS 72) 37- Como é chama aquilo que nasce no meio da plantação e precisa ser arrancado? (ALMS 73) 38- Algumas árvores têm uma parte fina e pontuda, que finca na gente.Como se chama essa parte? (ALMS 74) 39- O que cresce em certas árvores e serve para comer? (ALMS 75) 40- Quais são as partes de uma fruta? (ALMS 76) 41- E o nome de uma fruta menor que a laranja e que se descasca com a mão? (ALMS 77) 42- E aquela fruta que se come tudo e que pode ter bicho dentro dela? (ALMS 78) 43- Quais as espécies de banana que conhece? (ALMS 79) 44- Para colher as bananas o que se corta? (ALMS 80) 45- Um cacho de bananas pode ter 1,2,3,4...? (ALMS 81) 46- Como se chama aquela parte roxa que fica na parte de baixo do cacho de bananas? (ALMS 82) 47- Qual nome se dá àquelas bananas que nascem grudadas? (ALMS 83) 48- E aqueles chapeuzinhos que nascem no chão úmido ou nos paus podres? (ALMS 84) 49- Quais as ervas medicinais que conhece? (ALMS 85) 50- Quais as plantas que dão sorte e que as pessoas costumam plantá-las na frente da casa ou no quintal? (ALMS 86) 51- Quais os pássaros do mato, do banhado, que conhece por aqui? (ALMS 87) 52- E as aves criadas no quintal da casa? (ALMS 88) 53- De todas as aves que conhece, qual é a maior? (ALMS 89) 54-E aquele pássaro que faz sua casinha de barro? (ALMS 90) 55- Como se chama aquela ave, geralmente branca, de pescoço fino, muito comum, principalmente nos campos, no meio do gado? (ALMS 91) 56- Quais as espécies de galinhas que conhece? (ALMS 92) 57-Quais os animais selvagens mais comuns na região? (ALMS 94) 58- E os animais de grande porte, criados pelo homem no campo? (ALMS 95)
+
+134
+59- Quais os nomes dados aos cavalos pela cor do pêlo ou devido a algum sinal que tenha no corpo? (ALMS 96) 60- O cavalo bem novinho, como se chama? (ALMS 97) 61- E o cavalo que tem uma orelha caída, como se chama? (ALMS 98) 62- Cavalo que puxa uma perna, porque tem um defeito nos quadris? (ALMS 99) 63- Peças que se colocam sobre o cavalo para montar nele? (ALMS 100) 64- Peças de couro que é passada por cima do arreio e aperta a barriga do cavalo, para firmar o arreio, como se chama? (ALMS 101) 65- Qual a peça do arreamento que se coloca embaixo do arreio? (ALMS 102) 66- Qual a peça do arreamento que se usa em cima do arreio para deixá-lo macio? (ALMS 103) 67- Peça de couro macio usada sobre pelegos? (ALMS 104) 68- Como se diz do cavalo que está pronto para ser montado? (ALMS 105) 69- Descer do cavalo é...? (ALMS 106) 70- Como é chamada a rês reprodutora não castrada? (ALMS 107) 71- E a rês bem novinha, como é chamada? (ALMS 108) 72- E o bezerro com mais de um ano e menos de dois? (ALMS 109) 73- Como se chama um animal que tem só um chifre? (ALMS 110) 74- E o animal sem chifre? (ALMS 111) 75- E aquele animal que nasceu e se criou no mato, sem nunca vir ao mangueiro? (ALMS 112) 76- Lugar onde o gado se reúne para dormir no campo? (ALMS 113) 77- Que tipos de peixes são comuns nos rios daqui? (ALMS 114) 78- E aquele peixe comprido, que se parece como uma cobra? (ALMS 115) 79- Quais as cobras que são mais conhecidas por aqui? (ALMS 116) 80- E aquela cobra bem grossa, que chega a ter até mais de 12 metros de comprimento e que pode engolir animais como bezerros, galinhas...? (ALMS 117) 81- Quais as espécies de tatu que conhece? (ALMS 118) 82- Como se chama aquele bicho que se parece com o jacaré, mas é bem menor e gosta de comer ovos? (ALMS 119) 83- E aquele bichinho que parece um lagarto e que anda pelas paredes e teto das casas? (ALMS 120) 84- E aquele que gruda na pele da gente e vai chupando o sangue e gruda também nos animais? (ALMS 121)
+
+135
+85- E o insetinho que voa à noite e acende e apaga uma luzinha? (ALMS 122) 86- Bichinho preto, de casca dura, que fica voando em volta da luz? (ALMS 123) 87- Inseto de asas coloridas que voa de flor em flor? (ALMS 124) 88- Insetos que dão mel? (ALMS 125) 89- Quais os tipos de abelhas que conhece? (ALMS 126) 90- Como se chama a casa, o lugar onde moram os maribondos? E as abelhas? (ALMS 127) 91- Quais as espécies de formigas mais conhecidas por aqui? (ALMS 128) 92- Como se chama o caminho que essas formigas fazem? (ALMS 129) 93- Um tipo de mosca grande que faz um barulhão quando voa. Como se chama? (ALMS 130) 94- O que faz o mosquito, o marimbondo, a formiga, quando ataca a gente? (ALMS 131) 95- Nome daquele insetinho que, à noite, fica catando no ouvido da gente e pica doído? (ALMS 132) 96- Como se chama o homem que reza a missa? (ALMS 314) 97- E o chefe das igrejas evangélicas? (ALMS 315) 98- Como se chama aquele período que vai desde o final do carnaval até a Semana Santa? (ALMS 317) 99- Deus está no céu, no inferno está o...? (ALMS 318) 100- Falam de um negrinho de uma perna só, que usa cachimbo na boca, que nome dão a ele? (ALMS 320) 101- A presença de certas pessoas ou animais é considerada como sinal de desgraça. Elas são...? (ALMS 321) 102- Há pessoas que crêem que Deus escolheu para cada pessoa um caminho que deverá seguir em sua vida. Por isso, se diz que cada um tem seu...? (ALMS 322) 103- Aquilo que se pode fazer com a ajuda dos maus espíritos para prejudicar alguém? (ALMS 323)
+
+

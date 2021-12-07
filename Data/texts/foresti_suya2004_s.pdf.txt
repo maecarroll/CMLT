@@ -1,0 +1,1491 @@
+PHONOLOGICAL ASPECTS OF SUYÁ (KISÊDJÊ)
+A dissertation submitted to The University of Manchester for the degree of
+MA Linguistics in the Faculty of Humanities
+2005
+AGNESE FORESTI SCHOOL OF LANGUAGES, LINGUISTICS AND CULTURES
+1
+
+Contents
+List of Tables
+Chapter 1. 1.1 Introduction 1.2 Colonialism and Language Death in the Amazon 1.3 The Importance of Documentation 1.4 Previous and Ongoing Studies on Suyá 1.5 The Present Study
+Chapter 2. 2.1 Segmental Inventory
+2.1.1 Consonantal Inventory 2.1.2 Vocalic Inventory 2.2 Phonemic Opposition 2.2.1 Phonemic Opposition Between Plosives 2.2.2 Phonemic Opposition of Nasals 2.2.3 Phonemic Opposition of Other Consonants 2.3 Phonemic Opposition of Vowels
+Chapter 3. 3.1 Alternative Representations 3.2 Alternative Representation 1 3.3 Alternative Representation 2 3.4 Alternative Representation 3 3.5 Alternative Representation 4 3.6 Alternative Representation 5 3.7 Alternative Representation 6 3.8 Alternative Representation 7 3.9 Alternative Representation 8
+Chapter 4. 4.1 Phonological Processes
+
+4
+9 10 11 12 12
+14 14 15 16 17 19 20 22
+24 25 26 26 27 28 31 33 34
+36
+2
+
+4.2 Assimilation Processes 4.2.1 Assimilation 1 4.2.2. Assimilation 2
+4.3 Epenthesis 4.4 Lenition Processes
+4.4.1 Lenition Processes 1-2 4.4.2 Lenition Process 3
+Chapter 5. 5.1 Syllable Structure 5.2 The Syllable in Suyá 5.3 V and VC Syllables 5.4 Suyá Onsets 5.5 Suyá Codas 5.6 Suyá Codas and Re-Syllabification
+Chapter 6. 6.1 Stress Placement 6.2 Basic Lexical Stress Rule
+6.2.1 Obligatory Stressed Syllables 6.2.2 Obligatorily Unstressed Syllables 6.2.3 Extrametricality 1 6.2.4 Extrametricality 2 6.3 Secondary Stress and Alternation 6.4 Summary of lexical Stress Rules 6.5 Post-Lexical Stress 6.5.1 Obligatorily Unstressed Morphemes 1 6.5.2 Obligatorily Unstressed Morphemes 2 6.5.3 Obligatorily Stressed Morphemes 6.6 Inversion of Alternation 6.7 Summary of Post-Lexical Stress Rules
+Conclusion
+Bibliography
+
+36 36 37 38 40 41 41
+43 44 45 48 51 52
+54 54 55 56 58 59 61 63 64 64 65 66 67 68
+69 70
+3
+
+List of Tables
+
+Table (1) Suyá Surface Consonants
+
+15
+
+Table (2) Suyá Phonemic Consonants
+
+15
+
+Table (3) Suyá Oral Vowels
+
+16
+
+Table (4) Suyá Nasal Vowels
+
+16
+
+4
+
+ABSTRACT
+Suyá is a highly endangered language, spoken by less than 400 people in the Xingu region of the Brazilian state of Mato Grosso. As many other indigenous languages spoken in the Amazonian basin, to this day Suyá has been incompletely documented. The present study is a phonological analysis, based on the data collected by Prof. Daniel L. Everett in 2004-2005. The main contents of this study are: determination of the segmental inventory of the language, allophonic representations of some of the consonants, discussion of some phonological processes, description of the syllable structure and of the stress placement. The segmental inventory includes 23 consonants: 7 stops, 7 nasals (3 of whom are post-oralised), 3 fricatives, 2 affricates, 2 approximants and 1 flap. The vowels are 17: 10 oral and 7 nasal. Oral and nasal vowels are contrastive. The allophonic representations discussed are: the realisation of stops as aspirated only in onsets and unrealised in codas, the flap being realised as retroflex approximant after a velar consonant, the variation between full and post-oralised nasal, the possible alternation of /w / as [ ] and of /j/ as [d]. The facultative insertion of a glottal stop at phrase boundaries is also described. The phonological processes observed are assimilation, epenthesis and lenition. Regressive assimilation occurs on word final stops, as they tend to agree in voicing with the following sound, as well as in the case of the feature [+palatal] spreading from the palatal approximant to the preceding alveolar nasal. The same sound also receives the feature [+velar] when followed by a velar consonant. Epenthesis is described as the insertion of a vowel word finally at phrase boundaries. The epenthetic vowel always has the same quality of the preceding one. When the epenthetic vowel is added to a word ending in /p/ or /t/, these consonants become lenis and they are realised respectively as [w] and []. If the last consonant of a word receiving the epenthetic vowel is the velar voiceless stop, such consonant only undergoes voicing. The maximal syllable in Suyá is (C) (C) V (C). Phonotactic constraints determine that the nucleus must always be the most sonorant element, a vowel, and that in complex onsets the consonant cluster must combine in ascending order of sonority. As a result, while almost all consonants are allowed in first position in onsets, much stronger restrictions apply to the second onset position. Constraints also select a much smaller range of sounds possible in codas than those possible in onsets. The data also show that onsetless syllables are possible only word initially, in fact they coincide with affixes. A preliminary account for stress placement is also given in the present study. The lexical stress always falls on the last syllable, unless it has an epenthetic vowel as nucleus or is one of the endings /e/ ~ /i/ or /ne/ ~/ni/. Every second syllable to the left of the last stressable one also receives the stress. In phrases the morpheme [ma] (dative/future marker) is never stressed. The topic marker [na] is stressed in few specific instances, while the subject marker [a] is always stressed, unless followed by a closed syllable.
+5
+
+I hereby declare that no portion of the work referred to in the thesis has been submitted in support of an application for another degree or qualification of this or any other university or other institute of learning. Agnese Foresti
+6
+
+COPYRIGHT STATEMENT (i) Copyright in text of this thesis rests with the Author. Copies (by any process)
+either in full, or of extracts, may be made only in accordance with the instructions given by the Author and lodged in the John Rylands University Library of Manchester. Details may be obtained from the Librarian. This page must form part of any such copies made. Further copies (by any process) of copies made in accordance with such instructions may not be made without the permission (in writing) of the Author. (ii) The ownership of any intellectual property rights which may be described in this thesis is vested in The University of Manchester, subject to any prior agreement to the contrary, and may not be made available for use by third parties without the written permission of the University, which will prescribe the terms and conditions of any such agreement. (iii) Further information on the conditions under which disclosures and exploitation may take place is available from the Head of the School of Languages, Linguistics and Cultures.
+7
+
+AKNOWLEDGEMENTS I would like to dedicate this work to my family, whose support, material and non, allowed me to achieve this goal. To my parents, Ester and Pasquale, my sister Anna and my brother Mario. To my partner Gene, who, more than anyone else, “endured” my out loud speculation on the Suyá and their language, often engaging himself in lively discussions on the matter. To my friends, in Italy, in the United Kingdom and elsewhere. In particular to Marco Libero. Last but not least, to the Suyá people. I would like to thank Prof. Daniel. L. Everett, Dr. Miguel Oliveira Jr, and Dr. Cilene Campetela, who provided the data on which this study is based. Special thanks to Prof. Daniel. L. Everett, for the advice, trust and inspiration.
+8
+
+1.1 Introduction
+
+Chapter 1
+
+The aim of this study is to offer a phonological analysis of Suyá, a highly endangered and scarcely documented indigenous language of Brazil. The remaining Suyá Indians, under 400 people, live in the village of Ngoiwere, in the Upper Xingu region of the Brazilian state of Mato Grosso. The area was declared national park by the Brazilian Government in 1961. Santos (1997) reports that “Suyá”, the other noun often used for this tribe and their language, is the word for “people”, while K_sêdjê1 is the name with which the tribe identifies itself. The Suyá joined the other tribes already settled in the Upper Xingu region in the first half of the 19th century (Rodrigues, 1999; Seki, 1999b). According to Seki, by that time, a cultural area had formed between the populations of the region. That is why the Suyá can be considered only marginal representatives of the cultural area of the Upper Xingu (Seki, 1999b). The cultural survival of the Suyá people, as that of many other indigenous groups of the Upper Xingu, is threatened by the contact with the white society. The land where the Indian communities are now settled is important to the exploitation of the natural resources of internal Brazil, and often indigenous communities represent an obstacle to the economic interests active in the area (Urban, 1985). The Suyá are aware of the danger in which their culture is and are committed to the documentation of their language. In May 2005 the leader of the Suyá, accompanied by two representatives of the community, visited a few European Universities, including the University of Manchester, to raise awareness of their difficult situation. The language of the Suyá belongs to the Northern group of the Jê family. Its most closely related languages are Timbíra, Apinajé, Kayapó and Panará (Rodrigues, 1999). The Jê linguistic family is included in what has been labelled Macro- Jê stock. The term was introduced by Mason (1950) in order to describe a large family of South American languages, supposedly related to the Jê family. The Macro-Jê stock though, is still considered a working hypothesis, as many of the languages involved are still insufficiently documented (Kaufman, 1990; Rodrigues, 1999).
+
+1 According to Seeger (1981, 23) the name means “people of the large circular villages”.
+9
+
+1.2 Colonialism and Language Death in the Amazon
+The Amazon basin is believed to have been first inhabited 12.000 years ago, by populations migrating from Asia (Dixon and Aikhenvald, 1999). Some Jê speaking tribes probably used to inhabit areas on the Atlantic sea bond, before they were evicted from the region by Tupí-Guaraní speaking people, who forced them inland a few centuries before the arrival of the Europeans (Hemming, 1978). The Colonial era of Brazil began in 1500, with the arrival of the Portuguese Pedro Álvares Cabral and his fleet, originally on their way to India. Cabral and his crew had one of the very first contacts with a Brazilian indigenous community: the Tupinambá, speakers of a language belonging to the Tupí-Guaraní family (Everett, 2004). Soon after Cabral’s return to Portugal, several expeditions of explorers and missionaries were on their route to Brazil with the aims of taking advantage of its natural resources and spread Christianity through the populations of the new continent. The objective of the European invaders was not the annihilation of the indigenous communities, but their subjugation. In fact the colonists wanted them as slaves, while the missionaries wanted them as converts (Hemming, 1978). However, the Indian tribes were decimated by diseases since the arrival of the invaders. The survivors of many indigenous communities inhabiting the Brazilian coast decided to escape death or enslavement by migrating inland. However, once the populations of the coast were decimated, the hunt for slaves pushed the invaders inland as well, leaving the no escape to the natives. The only area that was relatively safe for the Indians was the region of the Xingu river, a Southern major tributary to the Amazon river. In fact the Xingu is navigable only for 200 kilometres, after which a series of rapids would make it impossible for the explorers to proceed upstream. Due to the geographical remoteness of the area in which they retreated, the tribal groups living in the Upper Xingu managed to survive, together with their languages (Seki, 1999b; Rodrigues, 1999; Hemming, 1978). Among the invaders, especially the missionaries, many were interested in recording information about the Indians and their languages. Some of them, such as the Jesuit Padre José de Anchieta (1533-1597), even produced the very first grammars of indigenous Brazilian languages.
+10
+
+At that point, many languages had already died as a result of the extermination of their speakers by the invaders. In several cases, languages died before any kind of documentation could take place, not even recording the name of the tribe (Hemming, 1978). It was estimated by 1900 the indigenous population of the Amazon basin was reduced to 1/10 of what it used to be before the arrival of Europeans in 1500 (Dixon and Aikhenvald, 1999). In many cases, Amazonian languages died due to the extermination of the community of their speakers. However, there are other ways in which a language can reach extinction. In several instances, the few survivors of one tribe would merge with another, gradually losing their language in favour of that of the host tribe. In many cases Southern American indigenous languages have been observed to lose ground to Spanish or Portuguese due to the increasing contact with the whites (Everett, 2004).
+1.3 The Importance of Documentation
+Dixon and Aikhenvald (1999) offer a comparison between Amazonian languages and other non endangered Southern American languages, such as Quechua and Guaraní. These languages have good chances to survive at least in the medium term, in fact the former has 8.5 million speakers in Peru and the latter is one of the official languages of Paraguay. In the case of Lowland Amazonia, the least known linguistic region of the world, the chance of any language to survive even in the medium term is remote. The idea of a language disappearing forever might not sound as a severe loss. Only taking into account that, in many cases, the documentation of Amazonian languages increased and challenged what we know about linguistic systems today, it is possible to assess the magnitude of such loss. In fact there are still many endangered languages in the world in need of documentation and the analysis of each of those languages could prove fundamental for the support, or the dismissal, of linguistic universals. In the field of Phonetics, some Amazonian languages displayed sounds that had not been recorded in any other language. In Phonology they were observed to have prosodic characteristics unattested anywhere else in the world. The same was
+11
+
+observed as far as their morphological and syntactic characteristics and their modality of discourse are concerned (Everett, 2002, 2004). If more of these languages are lost, we will fail to learn what they still have to reveal to us.
+1.4 Previous and Ongoing Studies on Suyá
+The researchers that have focussed on Suyá are not many. The anthropologist Anthony Seeger described the culture of the Suyá and their distinctive way of singing (1981, 1987). As far as the language is concerned, Marymarcia Guedes (1993) and Ludoviko Carnasciali dos Santos (1997) gave an account of the morphology and syntax of Suyá in their doctoral dissertations. Ruth Thompson (2003) produced a dictionary of the language. Prof. Daniel L. Everett carried out preliminary field research in 1999, after which he produced the paper “Theoretical Implications of Post-Lexical Structure Preservation in Suyá” (2003). The fieldwork and data collection by Everett and his associates carried on in 2004 and it is still ongoing. The aim of Everett is that of producing the first grammar of Suyá. The author of this study is herself committed to carry on documenting the language.2
+1.5 The Present Study
+This analysis of Suyá focuses on some phonological aspects of the language. With the exception of Everett (2003), the few researchers that analysed the language focussed more on the morphological and syntactic characteristics of Suyá, rather than on its phonological properties. In Chapter 2 the segmental inventory of the language is illustrated, and the phonemic sounds are determined on the basis of contrast in identical or analogous environment (2.2). In Chapter 3 the allophonic representations of Suyá consonants are discussed, while Chapter 4 deals with the phonological processes that have been observed in the language, such as assimilation (4.2), epenthesis (4.3) and lenition (4.4). The syllable structure displayed in Suyá is analysed in Chapter 5, with particular attention to the distribution of onsetless syllables (5.3) and that of consonants in complex onsets and codas (5.4 and 5.5). Finally, in Chapter 6 a preliminary account is given on some lexical and post-lexical stress rules of the language.
+2 For a more detailed report on ongoing research on indigenous Brazilian languages see Seki (1999a).
+12
+
+This study is entirely based on data collected by Prof. Daniel L. Everett and his associates, Dr. Miguel Oliveira Jr. and Dr. Cilene Campetela, over their fieldwork with the Suyá in 2004 and 2005. Word lists and sentences were recorded from mainly two Suyá informants, a man and a woman. Together with the recordings, and their representation in the form of sound waves and spectrograms, translations and transcriptions were provided for each item by the collectors of the data. Such transcriptions represented a useful support and means of comparison with my own, however, the transcriptions reported in this study are those of the author (unless otherwise specified).
+13
+
+Chapter 2
+2.1 Segmental Inventory
+The corpus, including word lists and sentences displaying a wide range of syntactic structures, was transcribed and analysed. As a result, it was found that the surface consonants of the language are 23, as shown in Table (1). The phonemic consonants of the language are listed in Table (2) and discussed in (2.2). The vowels are 17, 7 of which are nasal. The consonants contrast in place and manner of articulation, in fact the consonantal inventory includes 7 stops, 7 nasals (3 of whom are post-oralised), 3 fricatives, 2 affricates, 2 approximants and 1 flap. Vowels show four contrastive levels of height and they can be front, central or back. Oral and nasal vowels are contrastive in the language.
+2.1.1 Consonantal Inventory
+The stops produced by Suyá speakers are bilabial, alveolar, velar and glottal. They can appear as voiced or voiceless in all places of articulation relevant to the inventory of the language, of course with the exception of the glottal stop. However, as it will be shown in (2.2.1), it is more appropriate to consider stops to be contrastive only as far as their place of articulation is concerned. The places of articulation of Suyá nasal consonants are bilabial, alveolar, palatal and velar. Only the first two consonants of the nasal set are realised also as post-oralised. The post-oralised nasals of the language are /mb/, /nt/ and /nd/ (no instances of the sound /mp/ were recorded in the data analysed here). In this study post-oralised nasals are considered as a single sound. Three fricatives occurred in the data: the alveolar (voiceless only), glottal and voiceless labio-velar fricative //. The other consonantal sounds that were observed are the affricates /t/ and /d/, the alveolar flap // and three approximants, namely the retroflex //, the palatal /j/ and the voiced labio-velar approximant /w/. The approximants /w, j/ will be considered [+ consonantal] in this study for several reasons. First, no vowel combination has
+14
+
+been attested in the data analysed here (in concordance with Everett, 2003). Secondly, as it will be shown in Chapter 5, /w, j/ do not share the same distribution with vowels within the syllable. The inventory of the Suyá surface consonants is shown in Table (1). Table (2) represents the inventory of phonemic consonants of the language, whose status as phonemes will be demonstrated in section (2.2).
+
+Bilabial
+
+Plosive
+
+pb
+
+Affricate
+
+m
+
+Nasal
+
+mb
+
+Flap
+
+Fricative Approximant
+
+Labiovelar
+ w
+
+Alveolar td t
+n nt nd
+ s
+
+Alveopalatal
+t d
+
+Retroflex 
+
+Palatal  j
+
+Velar k k
+
+
+Glottal 
+h
+
+Table 1. Suyá Surface Consonants.
+
+Plosive Nasal Flap Fricative Approximant
+
+Bilabial p m
+
+Labiovelar
+
+Alveolar t n  s
+
+Alveopalatal
+
+Palatal 
+
+Velar k
+
+
+Glottal h
+
+w
+
+j
+
+Table 2. Suyá Phonemic Consonants.
+2.1.2 Vocalic Inventory
+
+15
+
+As far as vowels are concerned, the data showed the existence of 10 oral and 7 nasal vowels. Oral vowels are divided into front, central and back. The front vowels are all unrounded and display four degrees of openness: close /i/, close-mid /e/, open-mid // and open /a/. The central vowels are the close unrounded // and close-mid //. Finally, the set of the back vowels includes three rounded vowels, respectively close, close-mid and open-mid /u, o, /, the latter observed to occur also as unrounded //. All of the oral vowels listed above have a nasal counterpart in the language, with the exception of the open-mid front vowel and the open-mid back vowel. In fact the nasal set of Suyá vowels includes: / i, e, a, , , u, o/. The inventories of oral and nasal vowels are shown respectively in Tables (3) and (4). (In the rightmost column of Table (3), the symbols to the right represent rounded vowels).
+
+Close Close-mid Open-mid Open
+
+Front i e  a
+
+Table 3. Suyá Oral Vowels.
+
+Central  
+
+Back u o
+
+
+Close Close-mid Open
+
+Front i e a
+
+Table 4. Suyá Nasal Vowels.
+
+Central  
+
+Back u o
+
+2.2 Phonemic Opposition
+The phoneme is an underlying sound of a language. Its variations, or allophones, although phonetically different from it, tend to be always perceived as the underlying
+16
+
+sound by native speakers (Kenstowicz, 1994). A phoneme and its allophones always have complementary distribution. On the other hand, when two sounds can appear in the same environment they are said to be contrastive, therefore phonemes of the language. In this section the phonemic status of Suyá consonants will be tested.
+
+2.2.1 Phonemic Opposition Between Plosives
+
+As anticipated in the description of the segmental inventory, Suyá plosives certainly contrast with one another in terms of place of articulation. However, the difference between voiced and voiceless realisation of stops sharing the same place of articulation does not necessarily cause the pair to contrast phonemically. The phonemic contrast in identical environment of the voiceless set of stops /p, t, k/ with one another is widely attested in the data on which this study is based, as shown in the examples below.
+
+/p / and /t /: [pa] “I” and [ta] “to stand” (positional verb) [p] “wood” and [t] “grass”
+
+/p / and /k/: [pa] “I” and [ka] “you” (sing.) [ki] ~ [ki] “village” and [pi] “to kill”
+
+/t/ and /k/:
+
+[t] “grass” and [k] ~ [k] “bark” [tumu] “old” and [kumu] “smoke”
+
+While /p, t, k/ are clearly phonemic in the language, the same cannot be said for /b, d, /. In fact the data examined provided no minimal pair to prove opposition between the voiceless plosives /p, t, k/ and the corresponding voiced ones. According to Guedes (1993) the relation between the voiceless plosives and their voiced counterparts is one of context free variation. Examples have been found in the data of some lexical items in which the voicing of the alveolar and velar plosives appears to be inconsistent, seemingly supporting Guedes’s statement. In Chapter 4, dedicated to phonological processes, the freedom of the variation will be partially limited. In fact some evidence emerged from the data to show how the voicing of word final stops can be influenced by the quality of the sound immediately following it.
+17
+
+/t/ ~ /d/: /k/ ~ //:
+
+[ajkut] ~ [ajkud] “two” [kt] ~ [kd] “no” (negation) [kot]~ [kod] postposition (locative)
+[sk]~ [s] “bird” [pkask]~ [pkas] “dog” [issk]~ [iss] “paper, book”
+
+In the majority of instances this phenomenon occurs in codas, in particular in word final position. However, in at least two words, free variation between /k/ and // has been recorded to occur in a different environment, namely in the onset.
+
+/k/ ~ // (onset):
+
+[pkas] ~ [pas] [akamb] ~ [aamb] [hntentk]~ [hntent]
+
+“dog” “night “to rot”
+
+As it will be shown in (4.3), in many lexical items in Suyá an epenthetic vowel can be added to the word final closed syllable. When words appear in that form, the last consonant may undergo lenition to different degrees, the mildest of which being a switch in voicing. The occurrence of free variation between /k/ and // in the onset of a syllable excludes the possibility of such phenomenon being strictly connected to the effects of phenomenon such as lenition on the final portion of a word. This is especially true in the example [pkas]~ [pas] “dog”, where free variation between /k/ and // can be observed not only in the onset of a syllable, but also in word medial position. However, the data offered no examples of free variation affecting word initial onsets.
+The impossibility of the voiced-voiceless stop pairs representing contrasts in voicing is supported by the fact that the bilabial voiced plosive /b/ appears to be very rare in the language. In the Suyá speech samples taken into analysis in this study, the sound /b/ occurs in one single instance in the word [kbndu] “liver” in coda position. Given the predisposition of plosives occupying coda position to be affected by the variation described above, it could be inferred that the /b/ in [kbndu] is a variation
+18
+
+of /p/. Based on the very scarce incidence of the bilabial voiced stop in the data and on the analogous behaviour of the alveolar and velar plosives it is plausible to conclude that /p/ and /b/ do not form a minimal pair. Guedes (1993,48) recorded the alternating occurrence of /b/ and /p/ in the same lexical item in two instances, in the words [kupe] ~ [kube] “stranger” and [kupa] ~ [kuba] “to smell” (transcriptions of Guedes). None of such example was found in the data on which this analysis is based.
+
+In Suyá, alveolar and velar voiceless stops are often accompanied by aspiration. Aspirated voiceless stops can occur only in onset position. The restrictions on the occurrence of aspirated stops will be explored in section (3.2). Aspirated stops do not contrast with their unaspirated equivalent.. The examples below show free variation between the two pairs /t/ and /t/ and /k/and /k/.
+
+/t/ ~ /t/:
+
+[t] ~ [t] “leg” [ita] ~ [ita] “this” [wti] ~ [wti] “one”
+
+/k/ ~ /k/:
+
+[kne] ~ [kne] “stone” [ikamb] ~ [ikamb] “my brother” [kuke] ~ [kuke] “to wash”
+
+2.2.2 Phonemic opposition of nasals
+
+The examples below prove the phonemic status of the nasals /m, n, , /, in fact they are contrastive to one another, to stops and to other consonants in identical and analogous environments.
+
+Nasal and nasal: Nasal and stop:
+
+[ma] (future and dative marker) and [na] “mother” [no] “to lie” and [o] “water, river”
+[mu] “there” and [ku] (object marker on the verb) [m] “people” and [t] ~ [t] “leg”
+
+19
+
+[kumni] “a lot, very” and [kutni] “because” [na] (topic marker) and [pa] “I” [] “to sit” (positional verb) and [t] “to die”
+
+Nasal and other consonants:
+
+[] “to sit” (positional verb) and [s] “seed” [nie] “that” and [sie] “small” [kne] “stone” and [kee] ~ [ket] “no”
+
+The status of the post-oralised nasals is less clear. As it will be discussed in section (3.5), the data analysed in this study did not offer any example of free variability between /n/ and /nt, nd/ or between /m/ and /mb/. On the other hand, full and postoralised nasal rarely appear to contrast in identical environment. A more common form of opposition provided by the data is in analogous environment, namely, in onset position preceding the same vowel.
+
+/m/ and /mb/: /n/ and /nt, nd/:
+
+[mu] “there” and [mbu.u] “neck” [m] “people” and [mb.i] “well, good”
+[na] (topic marker) and [nda] ~ [nta] “rain”
+
+According to some researchers (Guedes, 1993; Everett, 2002) post-oralised nasals are allophonic representations of the full nasals /m/ and /n/. This view does not receive support by the data examined here. As shown in the examples above, full and post oralised nasals can share the same environment only when occupying the onset position, in particular in word initial syllables. Nevertheless, it is also true that the one illustrated above is the only case in which their respective areas of distribution coincide. A more detailed discussion of the evidence showed in previous studies and a thorough analysis of the distribution of post-oralised nasals will be offered in the section regarding allophony.
+
+2.2.3
+
+Phonemic opposition of other consonants
+
+The rest of the consonants are divided into fricatives, affricates and approximants. In the examples below, two of the fricatives of the language, the alveolar voiceless
+20
+
+fricative /s/ and the glottal voiceless fricative /h/ are shown to contrast phonemically with stops and nasals.
+
+Fricatives and other consonants:
+
+[si] “meat” and [pi] “to kill” [sumba] “fear” and [kumba] “to know” [hnsi] “to sew” and [kns] “sand” [h] “road” and [mb] “animal”
+
+The third fricative of the Suyá inventory is the voiceless labio-velar fricative //. This sound was transcribed by previous researchers (Guedes, 1993; Santos, 1997) as the succession of a voiceless glottal fricative and a voiced labio-velar approximant, [hw], as in [hwis] “fruit” (Santos, 1997, 56). In the present study it was found preferable to use the symbol [] to underline the distinctive fricative quality of the sound as a whole. Some examples of the voiceless labio-velar fricative in contrast with stops and nasals in identical environment are given below.
+
+[i] “tree” and [pi] “to kill” [t] “work” and [ket] ~ [kee] “no” (negation) [a] “arm” and [wa] ~ [pa] “I” [a] “arm” and [na] (topic marker)
+Despite the fact that, in the cases listed above, [] appears to contrast phonemically
+with other consonants, its phonemic status is still uncertain. In fact, in part of the data at the basis of this study the voiceless labio-velar fricative is produced as a variety of /w/ (for a more detailed discussion see section 3.9). For this reason []
+was not included in the table of Suyá phonemic consonants.
+
+As far as the affricates are concerned, their status is still uncertain. Everett (2003) suggested that the voiceless alveolar affricate /t/ is in fact an allophone of the voiceless alveolar stop immediately preceding [+high + anterior]. The data analysed here showed that /t/ can precede the same vowel and that the two sounds can be contrastive in analogous environment.
+
+/t/ and /t/:
+
+[tikumni] “big” and [sutikumni] “heavy”
+
+21
+
+[ti] “big” and [wti] “one”
+However, the fact that the voiceless affricate is found only before a high front vowel supports Everett’s hypothesis. Its voiced counterpart /d/ present similar characteristics, in fact it appeared exclusively preceding the close-mid front vowel /e/. It is likely that the two affricates do not contrast in voicing, in analogy with the behaviour of stops. However, for the time being, the evidence is not sufficient for any of the two affricates can be included among the phonemes of the language.
+The two approximants that are phonemic in Suyá are the palatal /j/ and the voiced labio-velar approximant /w/. In Suyá syllables, approximants rarely occur as first (or only) consonant in onsets, moreover, the set of consonants allowed to appear as second in complex onsets is very limited. Therefore there are very few examples to prove the phonemic status of /j/ and /w/. In the case of the palatal approximant, the only opposition offered by the data was that between /j/ and “0”.
+[a-] (possessive pronoun 2 sing.) and [aj-] (pronoun 3 plur.) [ka] “you (sing.)” and [kaj] “you (paucal)” [wa] “I” and [ta] “to stand” (positional verb) [wa] “I” and [na] (topic marker) [kwa] “to him/her” and [ka] “head”
+Finally, the last phoneme of the inventory is the alveolar flap //. This phoneme contrasts with stops, nasals and fricatives, as shown below.
+[a] (subject marker) and [ta] “to stand” (positional verb) [] “already” and [] “to sit” (positional verb) [] “already” and [s] “seed”
+2.3 Phonemic Opposition of vowels
+As mentioned before, the underlying vocalic inventory of Suyá counts 10 oral and 7 nasal vowels. The qualitative contrast of vowels is based on three different degrees
+22
+
+along the “front-back” continuum and they display four levels of “closeness”. Some examples of contrastive pairs are shown below.
+
+Contrast among oral vowels:
+
+[si] “bone” and [s] “seed” [h] “road” and [h] “flower” [te] “to go” and [t] “leg” [m] “people” and [mu] “there” [ka] “you” and [k] “bark” [sk] “bird” and [sk] “pain, painful” [indo] “my chest” and [ind] “my eye”
+
+Oral vowels also contrast with their nasal realisations in identical or analogous environment.
+
+Oral and nasal vowels:
+
+[si] “bone” and [si] “meat” [nte.we] “bat” and [h.nte.nt.] “to rot” [na] (topic marker) and [na] “mother” [] “to sit” (positional verb) and [j] “which” [h.nt.k] “to burn” and [.e] “dry” [o] “water, river” and [o.o] “to sleep” [mu] “there” and [mu] “to see”
+
+23
+
+Chapter 3
+
+3.1 Alternative representations
+
+The analysis of the Suyá speech samples showed alternative representations of some of the consonants of the inventory. Alongside the cases of allophony existing the corpus taken into account in the present study, other researchers observed and described a series of phenomena of the same kind, applied to different pairs of sounds. While some of the previous hypotheses on allophonic relations between Suyá sounds are consistent with what the data investigated here show, other theories receive partial or no support. In this study, alternative representation of sounds will be stated in the form of re-write rules, based on Chomsky and Halle’s “the Sound Pattern of English” (1968)3. The cases of allophony considered in this section can be summaries by the following set of rules:
+
+1) /t, k/
+
+[t, k] ~ [t,k] / ____ (C) V (C)
+
+2) /p, b, t, d, k, /
+
+[p, b, t, d, k, ] / (C) (C) V ____
+
+3) /r/
+
+[] / [+velar] ____
+
+4) a. /m/ b. /n/
+
+[m] ~ [mp] ~ [mb] / _____ [n] ~ [nt] ~ [nd] / _____
+
+(Guedes, 1993) (Guedes, 1993)
+
+5) a. [+ nasal + cons]
+
+[post-oralised] / ____ [+ voiced – nasal]
+
+(Everett, 2003)
+
+b. (/m/
+
+[post-oralised] / ____ C)
+
+c. /n/
+
+[post-oralised] / ____ [+ cons – palatal]
+
+6) a. 0 b. /0t/
+
+[] / ____ phrase boundary [t] / S ____VW phrase boundary
+
+3 In the Rules stated here, though, the sounds involved are not represented as bundles of features but only transcribed, for simplicity and clarity of exposition.
+24
+
+c. /0p/
+
+[p] / ____VS phrase boundary
+
+d. /0m, 0n/
+
+[m, n] / ____V phrase boundary
+
+7) /j/
+
+[d] /_____ phrase boundary
+
+8) /w/
+
+[] / _____
+
+3.2 Alternative representation 1
+
+In the section dedicated to the definition of the segmental inventory (2.1), it was mentioned that voiceless alveolar and velar stops can be encountered as aspirated. The present study supports what had previously been found by Guedes (1993) that is, aspirated and unaspirated stops are in a relationship of free variation. Despite the respective pairs of plosive not being contrastive phonemically, the statement of a more specific rule was found necessary. The data showed that not just every alveolar and velar voiceless stop can manifest aspiration. Rule (1) restricts the environment in which stops can be realised as aspirated to the first position in the onset of a syllable. As the examples below show, any other environment for aspirated stops would be ungrammatical.
+
+[tukte] ~ [tukte] ~ [tukte] ~ [tukte]
+
+*[tukte]
+
+“bow”
+
+[kukt] ~ [kukt] ~ [kukt] ~ [kukt]
+
+*[kukt]
+
+“tapir”
+
+[kwok] ~ [kwok] ~ [kwo] ~ [kwo]
+
+*[kwok]~[kwo] “basket”
+
+[ajkudntmti]~[ajkudntmti] ~[ajkudntmti]
+
+*[ajkudntmti] “three”
+
+Given a closed syllable with more than one consonant in the onset, the only positions in which a stop can occur are the first position in the onset and the coda, as explained
+25
+
+in (5.4) and (5.5). The option of aspirated stops in codas is ruled out by Rule (2), therefore, the only place where a stop can vary freely with its corresponding aspirated one is the first position of the onset. As a result, all of the following combinations are impossible in Suyá: * [skut], *[skut], *[skut].
+
+3.3 Alternative representation 2
+
+A further variation in the production of stops by Suyá speakers applies to the plosives that are found in codas. As Rule (2) states, every stop that occupies the coda position of a syllable is produced without audible release. Some examples of unrealised stops in codas are shown below.
+
+[kbndu] [pt] ~ [pt] [ajkudntmti] [mbtkumni] [ait] [isosk ta ndpti]
+
+“liver” “panther” “three” “good” “to look for” “the book is red”
+
+3.4 Alternative representation 3
+
+During the transcription of the data it was observed that the /r/ sound of Suyá is generally realised as an alveolar flap. However, such representation was not completely consistent, in fact in several instances /r/ was clearly produced in an alternative way, namely as retroflex approximant []. As shown in the examples below, this allophone recurs quite frequently in the language, but the environment in which it appears is strictly limited to the second position in complex onsets when the first position is occupied by a velar consonant, either a stop or a velar nasal.
+
+[ki] [ika]
+
+“cold” “my son”
+
+26
+
+[kike]
+
+“house”
+
+[ijak] “my nose”
+
+[ajkoati] “to play”
+
+[]
+
+“egg”
+
+[ti] “green”
+
+[kao]
+
+“warm”
+
+As the second of the items listed above shows, the voiceless stop preceding the retroflex approximant can be aspirated. The sequence // was not recorded by the present study. The occurrence of the allophone [] was not attested in previous analyses of Suyá segmental phonology.
+3.5 Alternative representation 4
+
+The position of post-oralised nasals in Suyá was briefly illustrated in section (2.2.2). It was concluded that the data on which this study is based did not provide sufficient evidence to determine the status of post-oralised nasals neither as phonemes or allophones of /m/ and /n/. However, two hypotheses suggested in previous researches (Guedes, 1993; Everett, 2003) have been explored and applied to the data used in the present study. The discussion is as follows. According to Guedes (1993), post-oralised nasals represent an allophone of the corresponding full nasal and the two different realisations are in free variation. She adds that /m/ can be realised also as [b, mb]. Some of the examples from Guedes (1993, 53-55) are shown below (transcriptions of Guedes).
+
+/r + n/ [r n] ~ [r nd] /na/ [nta] ~ [nda]
+
+“to be lying” “to bite”
+
+/mur/ [mburu] ~ [buru] /mroser / [mbrosere] ~ [brosere] a/mc/ [mbci] ~[mbci]
+
+“neck” “coal” “well”
+
+27
+
+a In this study /c/ is transcribed as the affricate [t].
+
+The conclusion reached by Guedes cannot be supported by the data used here. First, because [b] was recorded in only one lexical item which was produced only once and appeared in coda position. As it will be illustrated in (5.4) and (5.5), the sound [mb], as all post oralised nasals of the language and unlike full nasals, is restrained from occupying the coda position. Secondly, the data showed /t/ and [nt] to be contrastive in words such as those listed below. Based on the behaviour of /t/ and [nt], it is reasonable to suppose that [b] and [mb] are in an analogous relationship.
+
+/t/ and [nt]:
+
+[katwa] “salt” and [kantw] “to stab” [tw] “fish” and [ntewe] “bat”
+
+In fact, no instances occurred of lexical items displaying free variation between full nasals and post-oralised ones. In many cases post-oralised nasals were recorded in words that were produced several times in the speech samples analysed. However their representation of nasal consonants was completely consistent and the items in question were always produced with either a full nasal or a post-oralised one.
+3.6 Alternative representation 5
+
+This rule was first proposed by Everett (2003) in order to describe the relation of allophony between the bilabial and alveolar nasals and their post-oralised counterparts. According to Everett post-oralised nasals are allophones of the full bilabial and alveolar nasals. The environment in which the two kinds of sound occur are complementary. While the full nasals appear preceding a nasal vowel, postoralised nasals replace them in front of all the voiced oral sounds. In the present analysis it was found that, as a matter of fact, post-oralised nasals do not precede nasal sounds, in particular nasal vowels. Some examples of post-oralised nasals immediately preceding the vowels /e, , a, , o, , u/ are given below. No
+
+28
+
+examples of post-oralised nasals preceding the vowels /i, / were provided by the data.
+
+[ntewe] [ndpti] [mbi] [kumba] [nda] [mb] [indo] [ind] [imbuu]
+
+“bat” “red” “well” “to know” “rain” “sun” “my chest” “my eye” “my neck”
+
+*[ntewe] *[ndpti] *[mbi] *[kumba] *[nda] *[mb] *[indo] *[ind] *[imbuu]
+
+In agreement with Everett (2003) it was found that post-oralised nasals cannot immediately precede a nasal vowel, while it is typical of fully nasal consonants /m/ and /n/ to do so. Some examples of /m/ and /n/ preceding nasal vowels are shown below.
+
+[ma] [twama] [na] [mbjene] [mu]
+
+(dative and future marker) “fat” “mother” “husband” “to see”
+
+However, the data show that fully nasal consonants can precede nasal as well as oral vowels. The pairs of words below exemplify how bilabial and alveolar nasals can precede some oral vowels, just as their post-oralised representations.
+[ntewe] “bat” and [kne] “stone” [ndpti] “red” and [sinn] “narrow”
+29
+
+[mbi] “well” and [mmbje] “men” [nda] “rain” and [na] (topic marker) [imbuu] “my neck” and [muhade] “far”
+
+In conclusion, evidence from the data examined proves that, in the environment immediately preceding [+ voiced + nasal], full and post-oralised nasals are clearly allophones. The rule stated by Everett (2003) appropriately describes the complementary distribution of the two sets of sounds based on the nasality of the following sound. It is also true, though, that while only fully nasal /m/ and /n/ can occur before nasal sounds, the presence of oral vowels does not always block their occurrence in favour their of post-oralised alternatives. A further limitation to the occurrence of the bilabial and alveolar nasals is the presence of a second consonant in the onset of the syllable in which they occur. In such cases /m/ and /n/ are replaced by a post-oralised nasal. This allophonic process is captured by Rule (5), according to which nasal consonants are represented as postoralised in front of voiced oral sounds. In fact, as it will be explained in the section regarding the syllable structure (5.4), stops, the only set of consonants to appear also as voiceless, cannot occur as second consonants in the onset of Suyá syllables. Therefore, in complex onsets, any consonant after the first is bound to be voiced. In the lexical items listed below, the allophonic relation between /m/ and [mb] is exemplified. The words marked with an asterisk contain sequences of sounds unattested in the data.
+
+[mbje.ne] [ka.mbo] [mb]
+
+“husband” “blood” “animal”
+
+*[mje.ne] *[ka.mo] *[m]
+
+The same happens for the nasal /n/. However, in the case of /n/ there is an exception. In fact, when the consonant following the alveolar nasal is the palatal approximant /j/, the nasal does not become post-oralised, but palatal (see 4.2.2).
+
+30
+
+[ka.ntw] [hn ka sa.ntw]
+
+“to stab” “you are right”
+
+*[kanw] *[hn ka sanw]
+
+[jum]
+
+“who”
+
+*[njum] *[ntjum] *[ndjum]
+
+For this reason, while Rule (5b) is redundant, (5c) is necessary to block the postoralisation of the alveolar nasal when it immediately precedes /j/. Without the application of (5c), Rule (5a) would be over-applied and in some cases it would produce the wrong output.
+3.7 Alternative representation 6
+The purpose of the sets of Rules (6) is that of describing the insertion of a glottal stop between two words, the second of which must begin with a consonant. This insertion usually occurs between the last two words of a phrase. In many cases these words are, respectively, a postposition (or the topic marker [na]) and the verb, alternatively the verb and the future marker [ma]. It was observed that the insertion of a glottal stop occurs only in the environment immediately preceding the voiceless bilabial and alveolar stops /p, t/ and the bilabial and alveolar nasals /m, n/. The effect of the glottal stop when inserted in the sentence uttered by the Suyá informants, is that of prolonging the length of the consonant that follows. As a result, such consonants are perceived by the listener as [pp], [tt], [mm] or [nn]. It was observed that different consonants require different conditions for the glottal stop to be inserted immediately before them. The pre-requisite in question is based on the placement of the main stress in the two words between which the glottal stop is placed. For instance, for /p/ to be preceded by a glottal stop, the main stress must be on the vowel that follows /p/, that is, /p/ must belong to a Strong syllable. If the main stress falls on the syllable before the one having /p/ as an onset (making a Weak syllable of the latter), the sound will not be realised as [p] but as a simple [p]. The process is shown in the examples below.
+31
+
+[nt s a nt k ko na pa] “the seeds are inside the rattle” /kis ede a muhaj na owej katwa we pa/
+“the Kisedje live very far from the sea” */kin sede a muhaj na owej katwa we pa/
+
+The opposite behaviour was observed for /t/ and [t]. The insertion of the glottal stop before the voiceless alveolar stop is possible only if the syllable /t/ belongs to does not bear the stress (Weak).
+
+/met na kws ma sn ka ja ta/ /kukt ta kwtjk ta/ */kukt ta kwtjk ta/
+
+“he put his hand through the fire” “the tapir broke the rope”
+
+While for Rules (6b) and (6d) the environment must be specified according to the position of the main stress in terms of Strong and Weak syllables, such distinction is not necessary in the case of nasals. In fact the data showed that a glottal stop can be inserted immediately preceding /m / or /n/ regardless of the position of the stress. When inserted before /m/ or /n/, the glottal stop can either precede or follow the syllable bearing the main stress.
+
+[aitj kae ki ma te ma] “when will you return to the village?”
+
+[nt a kwk k ko na n]
+
+“the rattle is inside the basket”
+
+[nt a ten kwk kuka ko a i k n]
+
+“The rattle stopped in front of the basket”
+
+Some exceptions have been observed during the analysis of the data. For instance, the sentence below has been recorded.
+[mmbje tn tej o ajkoati  pa] “the man is playing with children” 32
+
+According to the Rule (6c) stated at the beginning of the chapter, a glottal stop should have been inserted between [] and [pa]. The two words are at the phrase
+
+boundary and /p/ is the onset of a Strong syllable. This characteristics create the
+
+environment that triggers the allophonic realisation described in (6c): /0p/
+
+[p].
+
+Nevertheless the insertion of the glottal stops does not take place. In this case it is reasonable to suppose that fastness of speech plays a role in this allophonic variation. The corpus on which this study is based consist of a series of recordings during which native Suyá speakers would produce words and sentences as they would normally do in their spoken interaction to one another. The sentence used as a counterexample of (6c) was produced more slowly and the words were uttered more accurately than most of the other speech samples. In conclusion, the data showed that in Suyá the allophonic representation /0/ [] can take place between two words in phrase final position not only as a result of
+
+the ideal environment created for different consonants by varying stress placement, but also as a result of fast and/or non careful speech.
+
+3.8 Alternative representation 7
+
+This last variation was observed only in a few instances in the data, in two words that display a very similar structure. These words were recorded both in isolation and, respectively, in phrase medial position and in a compound.
+
+[nihade] [kukwaj ita a nihaj kee]
+
+“there” “there is no such monkey here”
+
+[muhade] [muhajkee]
+
+“far” “near (not far)”
+
+While in isolation the last syllable of both lexical items has an alveolar voiced affricate as onset and the vowel /e/ as a nucleus, when these lexical items appear
+33
+
+phrase medially the whole last syllable is reduced to the palatal approximant /j/ that become the coda of the preceding syllable (for more detail on re-syllabification see section 5.6). This phenomenon cannot be included in the lenition processes displayed by the language. In fact /d/ and /j/ are not homorganic sounds. Moreover, if the final vowel /e/ were to be accounted for in terms of epenthesis, it would be inconsistent with the only instances of vocalic insertion observed in Suyá. In this particular case in fact, the vowel inserted word finally at the phrase boundary does not have the same quality of the preceding one, characteristic observed in everywhere else in the language (as explained in 4.3). This example of variation is consistent with others mentioned above as far as the environment in which it occurs is concerned. In fact, just as lenition, the phenomenon described in rule (7) was observed at phrase boundaries. However, this alternative representation also displays “anomalies” in terms of the phonological process causing /j/ to change into /d/ and in terms of the quality of the epenthetic vowel: what determines it, and if it is always the same, is still to be understood. The same variation should be observed in a larger set of examples than that available here in order to be satisfactorily accounted for.
+3.9 Alternative Representation 8
+As mentioned in the section of this study about phonemic opposition, it is still not entirely clear whether the voiceless labio-velar fricative // can be considered phonemic. This sound has been observed to contrast with /w/ in a few instances. However, in a portion of the data, namely a word list of terms for body parts, it seems to alternate freely with /w/. In Suyá, words for body parts are inalienably possessed, therefore they always appear with a pronominal prefix marking possession (Santos, 1997). In the word list considered here, all items are prefixed with the pronoun /wa-/. However, in some cases, such affix is clearly produced as /a-/. Some examples are given below4.
+4 The pronoun used here, /wa/, is translated as a first person plural pronoun, in accordance to the list of pronominal affixes for inalienably possessed body parts given in Santos (1997). The first person
+34
+
+[wand] [watii] [waade] [aki] [aka] [aa]
+
+“our eye” “our belly” “our foot” “our hair” “our head” “our arm”
+
+In cases such as these, /wa-/ and /a-/ appear to be used randomly, suggesting that the two sounds could be in a relation of free variation. However, in order to ascertain this hypothesis, this phenomenon will have to be observed in more data and different contexts.
+
+singular pronoun /wa/ used elsewhere belongs to a class of subject pronouns, not used as prefixes to mark possession.
+35
+
+Chapter 4
+
+4.1 Phonological Processes
+
+The analysis of the data uncovered the occurrence of a few phonological processes. In this chapter it will be shown how processes such as assimilation, lenition and epenthesis take place in Suyá.
+4.2 Assimilation Processes
+
+Assimilation is a phonological process in which a sound influences the quality of another one in its immediate proximity. More precisely, one of the features of a segment spreads either forward or backward to the next sound. The phoneme receiving the feature acquires it and changes accordingly. The assimilation processes exemplified in this chapter can be summarised by the following set of rules:
+
+1) [- continuant]
+
+[+ voiced] / V____ ## Word[+ voiced]
+
+2) [+ nasal + alveolar]
+
+[+ palatal] / ____[+ palatal]
+
+3) [+ nasal + alveolar]
+
+[+ velar] / ____ [+ velar]
+
+4.2.1 Assimilation 1
+The first assimilation process accounted for here shows the agreement in voicing of word final stops with the sound immediately following them. As illustrated previously (2.2.1) alveolar and velar stops in Suyá do not display contrast between their voiced and voiceless representations. Due to the insufficiency of examples showing this phenomenon in onsets and/or in word medial position, it was chosen to restrict the rule describing the variation only to codas at word boundaries. The alternation between word final voiced and voiceless stops occurs profusely in the language. Due to the lack of plosion of stops in codas, often accompanied by fast speech, it was sometimes difficult to determine their voicing with a sufficient degree of certainty. However, even excluding unclear examples, a good number of sentences
+36
+
+still shows clearly that stops in codas tend to agree in voicing with the following sound. Some examples are given below.
+
+/kukwajkask  ta ajkud  na / /j pkas na t/
+
+“there are two monkeys” “which dog died?”
+
+/jum na p kot te/
+
+“who went to the wood?”
+
+/nt a kwok kuka kod na n/
+
+“the rattle is in front of the basket” /pt m pkambek  te ajkutti/
+
+“there are two jaguars, one black and one red”
+
+This is a case of regressive assimilation. In fact the voicing of word final stops is influenced by that of the following sound. In this case is the feature [±voiced] to spread backwards on the preceding sound, altering the value of such feature accordingly.
+
+4.2.2 Assimilation 2
+
+The second case of assimilation was recorded also in previous studies (Everett, 2003). It involves the alveolar nasal /n/ and the palatal approximant /j/. When the alveolar nasal immediately precedes the palatal approximant, its place of articulation shifts and it is realised as a palatal nasal //. Also in this case, the assimilation is regressive, as the sound following /n/ spreads one of its feature backwards. In this case though, the kind of feature that is extended to the preceding sound is [+ palatal], a characteristic that determine the place of articulation. Some examples are given below.
+
+[jum] [jkombi] [jnta inti a] [jatti]
+
+“who” (proper noun) “what is your name?” “deer”
+
+*[njum] *[njkombi] *[njnta inti a] *[njat ti]
+
+37
+
+4.2.3 Assimilation 3
+
+The third case of assimilation also influences the phoneme /n/. As the assimilation Rule (3) states, the alveolar nasal is realised as velar nasal when it immediately precedes a velar consonant. This process of assimilation is also regressive and, as in the one described in (2), the feature that spreads backwards, [+ velar], describes the place of articulation of the consonant.
+
+[kakate] /wt ka kuku/ /h ka ait ka iee/
+
+(greeting) “what did you eat?”
+
+*[kankate] */wtn ka kuku/
+
+“how do you make an arrow?” */hn ka aitn ka iee/
+
+4.3 Epenthesis
+In the process of epenthesis an extra vowel is inserted in a word. often as a strategy to respect the language specific phonotactic constraints in a situation where they would be otherwise violated. Spencer (1996, 73-74) illustrates this phenomenon with an example from Koryak. In this language the maximal syllable is CVC, therefore a word such as /tplon/ (“I asked him”) would violate the constraint on syllable maximality. The violation can be avoided through the opportune insertion of schwa //, with the result of the form [tplon], which observes the phonotactic constraints of the language. In Suyá, many words can appear in two forms, that differ only in their ending. The most common form of a word ends in a consonant. This version of a word is employed much more widely than its alternative one, in fact it is found in sentence internal position. When a word is the first component of a lexical compound it also appear to be ending in consonant. In the “extended” form of a word an epenthetic vowel is added to the end. This form appears only in phrase final position and when lexical items were recorded in isolation. Some examples of the different shapes the same word can take in Suyá are shown below.
+38
+
+[mbjen] ~ [mbjene] [pm] ~ [pm] [kwskum] ~ [kwskumu] [tum] ~ [tumu]
+
+“husband” “father” “smoke” “old”
+
+While in the Koryak example above the vowel inserted was invariably //, in Suyá the epenthetic vowel added to the end of the word has always the same quality of the preceding one. As shown below.
+
+[kas] ~ [kas]
+
+“bad”
+
+*[kasa]
+
+Guedes (1993) refers to epenthetic vowels as “echo” vowels, to underline the fact that the epenthetic vowel is not always the same and it is not randomly chosen, but is a copy of the vowel that precedes it. The process of insertion of an “echo” vowel at the end of Suyá words was also observed by Everett (2003), who summarised it with the following rule:
+
+0
+
+epenthetic voweli / Vi {p, t, k}_____ phrase boundary
+
+However, epenthesis was observed not only in the environment immediately following stops, but also nasals, as long as they effectively are the last consonant of the phrase. Therefore, the environment in which the rule apples can be extended to the one following the last consonant of the sentence, as stated below:
+
+0
+
+epenthetic voweli / Vi C _____ phrase boundary
+
+The use of epenthesis in Suyá must be justified by the presence of a constraint that, without the insertion of an extra vowel, would be violated. Since it occurs only at phrase boundaries, the only possible explanation is that the insertion of a vowel in such position is a strategy to avoid the infringement of the constraint that forbids sentences to end in a consonant. As a matter of fact, it was observed that none of the sentences or the words in isolation recorded end in a closed syllable. Since no
+39
+
+counterexample was observed in the corpus analysed here, it can be inferred that the sequence of sounds * (C) (C) V C (phrase boundary) is not allowed, or at least avoided, in Suyá.
+
+4.4 Lenition Processes
+
+1) /t/ 2) /p/ 3) /k/
+
+[] / _____ phrase boundary [w] /_____ phrase boundary [] / _____ phrase boundary
+
+Lenition can be intuitively defined as a process in which a consonant becomes “weaker”. Spencer (1996) describes the relative “strength” or “weakness” of a sound in terms of energy required in its production. In fact he states that “a more tense and energetic articulation is needed for voiceless sounds or for plosives than for voiced sounds or fricatives” (1996, 61). This process is quite productive in Suyá, as noticed also by Everett (2003). In fact in many words of the language, in particular – but not exclusively – in nouns, one of the consonants undergoes lenition. The set of words displaying lenition is a subgroup of those that are also subject to the insertion of an epenthetic vowel in word final position. In Suyá lenition affects the consonant that precedes the epenthetic vowel in the “extended” form of those words that can appear in two different shapes according to their position within the phrase. In the examples shown above this does not happen, in fact epenthesis does not necessarily trigger the lenition of the word final consonant. However, in other instances, the consonant preceding the “echo” vowel weakens. This is the case of words ending in voiceless stops /p, t, k/ that, due to their manner of articulation and lack of voicing, belong by definition to the category of “strong” sounds. Some examples of this phenomenon are listed below.
+
+[tp] ~ [tw] [ket] ~ [ked] ~ [kee] [sk] ~ [s] ~ [s]
+
+“fish” “no” (negation) “bird”
+
+4.4.1 Lenition processes 1-2 40
+
+Observing closely the examples listed above, it is possible to identify the pattern followed by lenition. As described in Rules (1-2) the voiceless stops /p, t/ weaken respectively to the voiced labio-velar approximant /w/ and to the alveolar flap //. Both the lenis consonants are followed by the epenthetic vowel.
+
+/t/
+
+[]:
+
+[ajkut] ~ [ajkud] ~ [ajkuu] [kukt] ~ [kukd] ~ [kuk] [mbt] ~ [mb] [psisit] ~ [psisid] ~ [psisii]
+
+“two” “tapir” “sun” “small jaguar”
+
+/p/
+
+[w]:
+
+[ndp] ~ [ndw] [ntep] ~ [ntewe] [p] ~ [w]
+
+“new” “bat” “jaguar”
+
+4.4.2 Lenition process 3
+This particular process has been treated separately from the others because it displays a different degree of weakening compared to those described by Rules (1-2). Spencer (1996, 62) illustrates two different ways in which lenition proceeds in steps to weaken a consonant. The course of lenition outlined in (a) describes the different stages to which a consonant changes its manner of articulation, becoming increasingly lenis until it is reduced to zero. On the other hand, (b) reproduces the lenition path followed by stops.
+a. plosives > fricatives > approximants > zero b. aspirated > plain voiceless > voiced
+The case of lenition described in Rule (3) alters the velar stop /k/ to a much lesser degree compared to the change that /p, t/ undergo in the same environment. In fact,
+
+41
+
+while /p , t/ are radically changed in their manner of articulation, /k/ simply undergoes voicing, as described in (b). Everett (2003) interprets this phenomenon as Structure Preservation5. If / k/ would follow the weakening process to the same extent as /p, t/, it should change into a fricative or even an approximant. However, there are no velar fricatives or approximants in the segmental inventory of Suyá. The language is said to be “structure preserving” because the only lenition outputs to be allowed are segments that are already present in its established sound inventory. As a result, the lenition of /k/ cannot produce, for instance, a velar fricative, because that would mean to introduce a new sound in the inventory.
+5 Structure Preservation is, by definition, a phenomenon that applies at the level of the word. In this case, though, the phrase is the domain affected by it. With his hypothesis on Suyá lenition, Everett (2003) also postulates the existence of Post-Lexical Structure Preservation, applicable at the level of the phrase.
+42
+
+Chapter 5
+
+5.1 Syllable structure
+
+The notion of syllable is one with which, at least intuitively, most people without a background in Linguistics are familiar. It can be described as a unit, smaller than a word, whose components are vowels and consonants. In fact the syllable is a very important constituent in phonological analysis, whose significance has been recognized unanimously in several Linguistics Schools over the past decades (Blevins, 1995). In general, the syllable, indicated with the Greek letter _ (sigma), branches into an onset and a rhyme. The latter also branches into nucleus and coda. This structure is shown below.
+
+_
+
+RHYME
+
+ONSET
+
+NUCLEUS
+
+CODA
+
+The only element of the syllable that is universally indispensable is the nucleus, in fact the nucleus (in most cases a vowel) is the component of the syllable that can actually bear the stress. Onsets and codas are the consonants or consonant clusters immediately preceding and following the nucleus. Different restrictions concerning the presence and shape of onsets and codas apply in the world’s languages6. The internal form of a syllable, that is, which segments can occupy which positions, is determined both by “universal” and language specific constraints. This means that there are, even admitting the existence of a few exceptions, characteristics that can be considered cross-linguistically predominant (or “unmarked”) in the structure of syllables of every language. The array of shapes that syllables can display in a language is also conditioned by sets of rules on well-formedness that belong to the
+6 For further discussion of such language-specific restrictions see Spencer (1996, 70).
+43
+
+particular language. The collection of constraints affecting the syllable structure in Suyá will be dealt with in the next section, while the present one will focus on an important universal of syllable formation, namely sonority. A sonority index is assigned to each sound on the basis of phonetic measurements of the perceptual saliency or loudness of a sound “in relation to other sounds produced with the same input energy (i.e., with the same length, stress, pitch, velocity of airflow, muscular tension, etc.)” (Blevins, 1995, 207; also in Selkirk, 1984a). Sonority is considered to have an important function in the assignment of an internal structure to the components of the syllable. The role of sonority is described by Selkirk (1984a, 116) in the Sonority Sequencing Generalization, where she states that “in any syllable, there is a segment constituting a sonority peak that is preceded and/or followed by a sequence of segments with progressively decreasing sonority values”. The sonority indexes for the different classes of sounds are given below, where the values were simplified by Spencer (1996, 90).
+
+Sonority Scale:
+
+Vowels
+
+6
+
+Glides
+
+5
+
+Liquids
+
+4
+
+Nasals
+
+3
+
+Fricatives/affricates 2
+
+Plosives
+
+1
+
+The Sonority Sequencing Generalization is relevant when approaching the analysis of Suyá syllables. In fact, as it will be illustrated in the next section, such notion lies at the basis of the syllable phonotactics of the language.
+
+5.2 The Syllable in Suyá
+
+The analysis of the data, carried out as starting point of this study, provided the necessary information to account for the syllable structure in Suyá and determine the phonotactic constraints active in the language. In concordance with the sonority based theory of phonological analysis, the segment that it selected to be the nucleus of the syllable in Suyá is always the most sonorant, that is, a vowel. Every nucleus in Suyá syllables is constituted by a single vowel. Different selections of the nuclei will result in ill-formed syllables
+44
+
+Each nucleus can be preceded by a maximum of two consonants. However, previous researchers on the phonology of the language had divergent opinions concerning the possible shape of onsets. While Everett (2003) observed that onsets of Suyá syllables can consist of up to two consonants, Guedes (1993) and Hodgson7 (2004) both reported that onsets of Suyá syllables can be composed of three consonants in at least one lexical item. Examples of words with three consonants onsets recorded by Hodgson (2004) and Guedes (1993) are reported below, respectively in (1a) and (2a). Since both words occurred several times in the data analysed here, the previous transcriptions are here compared to the transcription of the same words that was found more opportune by the author of this study, reported in (1b) and (2b).
+
+1) a. 2) a.
+
+[mbdjdn] [krwa]
+
+b. [mbjen] ~ [mbje.ne] b. [ka]
+
+“husband” “arrow”
+
+In the present study no instances in which an onset had more than two consonants were observed. Therefore, in support of Everett’s statement, the maximum number of consonants allowed to appear in Suyá onsets is considered to be two. Codas are also allowed in Suyá syllables, as long as they are represented by no more than one consonant. In fact complex codas are not permitted in the language. Given the results of the present analysis regarding the possible shapes of Suyá syllable, it can be concluded that the form of the syllables allowed in the language be exemplified by the template : (C) (C) V (C). This template is a general representation of the maximal syllable structure allowed in Suyá. As far as the coda restriction in phrase final position is concerned, the problem will be discussed in section (4.3).
+5.3 V and VC Syllables
+In Suyá, the presence of onsets is not obligatory. However, as it will be illustrated in this section, onsetless syllables are subject to more restrictions than those with an onset. These constraints affect the position within the word that onsetless syllables
+7 For the data on which Hodgson’s study is based see: Thomson, Ruth. 2003. Suyá Dictionary. Unpublished MS, SIL Brazil.
+45
+
+are allowed to occupy and reduce drastically the set of segments they can be composed of. The minimal syllabic shape allowed in the language is V. However, the only examples of such syllable were found in a set of pronouns. In the examples below, these pronouns are used as prefixes on nouns to mark inalienable possession8 (Santos, 1997). The pronouns in question are the first and second person singular: /i-/ (“I, my”) and /a-/ (“you, your”).
+
+/i- + pm/ [i.pm] /i- + nd/ [i.nd] /a- + kamb/ [a.ka.mb] /a- + a/ [a.a]
+
+“my father” “my eye” “your brother” “your arm”
+
+Even though these pronouns are used very frequently in the language, very few other examples of V syllables were offered by the data. Since V syllables only appear word initially, their pronominal nature cannot be excluded with a sufficient degree of certainty. The fact that V syllables have only been observed in word initial position supports the hypothesis that all V syllables of the language are in fact prefixes. Some examples of the use of V syllables not transparently identified as pronouns are shown below.
+
+[a.i.na.si.i] [a.aj.k.w]
+
+“to lie” “to turn”
+
+In the Suyá data analysed here, only the vowels /i, a/ have been recorded as possible nuclei of V syllables. A similar fact was observed by Everett (1998) in Banawá, another Amazonian language of the Arawan family. In Banawá V syllables are not allowed, however onsetless vowels can be found word initially. While such vowels are considered
+
+8 For a more detailed discussion of the other functions of this class of pronouns and the other pronominal classes of Suyá see Santos (1997).
+46
+
+unsyllabified and are extraprosodic in Banawá, in Suyá V and VC syllables can bear the stress (see Chapter 6).
+
+Another syllable shape that was observed very rarely in the data analysed was VC. Onsetless closed syllables appeared as sporadically as V syllables. Again, this type of syllabic structure was observed only word initially and it is mostly represented by a particular morpheme, the prefix /aj -/. The nature of this morpheme is also pronominal, Santos (1997) describes it as inalienable possession marker for second and third person plural (“our, their”), as well as a subject pronoun for third person plural (“they”). According to Guedes (1993) the prefix /aj -/ can also be a marker of plurality on nouns.
+
+[aj.ko.a.ti] [aj.kut] ~ [aj.kud]
+
+“to play” “two”
+
+Similarly to what was observed with regard to V syllables, VC syllables were only recorded word initially, supporting the hypothesis that onsetless syllables in Suyá can only occur in the form of prefixes. According to Guedes (1993, 73) when a syllable begins in a vowel it can be any vowel of the inventory besides //. The examples reported by Guedes are listed below (transcriptions of Guedes).
+
+/a-/ /ani/ /aki/ /aro/ /oa ~ noa ~ nowa/ /toa/
+
+“your” (reflexive pronoun) “ear (of corn)” “pig” “I” “tooth”
+
+47
+
+With the only exception of /oa ~ noa ~ nowa/, alternative representations of the first person singular pronoun /wa/9 that is completely unattested in the data used here, the only vowel in VC syllables is still /a/. In other instances reported by Guedes (1993), verbs were preceded by /i-/. As explained above that is a clear case of pronominal affixation. For instance, in the word /ike/ recorded by Guedes and translated as “to laugh”, /i-/ is the first person pronoun (“I laugh”).
+
+5.4 Suyá Onsets
+
+The maximal onset possible in Suyá is CC. The fundamental restriction that applies to the consonant clusters that are allowed in the language is represented by the Sonority Sequencing Generalization explained in section (5.1). As it will be shown by the examples listed below, the range of consonants that can occur in first position in onsets (C1) is much bigger than the set of sounds allowed to occupy the second position (C2). The consonants that are allowed by the phonotactic constraints of the language to fill respectively C1 and C2 are listed below, accompanied by examples. Most of the consonants of the Suyá inventory, with the exception of allophones // and //, can appear as C1. However, not all the sounds that can be C1 in simple onsets can occupy the same position in complex onsets as well.
+
+Consonants allowed in C1 (in CV or CVC syllables):
+
+/p/ [pa] ~ [wa] /t/ [t] /k/ [ka] // [s.a] /m/ [m] /mb/ [mbu.u]
+
+“I” “grass” “you” “bird” “people” “neck”
+
+9 What Guedes interpreted as variations of the first person pronoun /wa/, is actually the construction /pa +n +wa/, where the first person pronoun /pa/ is followed by the topic marker /n(a)/ and by a further first person pronoun. For a complete account see Santos (1997,15-16).
+48
+
+/n/ [na]
+
+(topic marker)
+
+/nt/ [nt]
+
+“rattle”
+
+/nd/ [nda]
+
+“rain”
+
+// []
+
+“to sit”
+
+// [o]
+
+“water”
+
+/s/ [si]
+
+“bone”
+
+/h/ [hn]
+
+(aspect marker)
+
+/t/ [ti]
+
+“big”
+
+/d/ [mu.ha.di] “far”
+
+// [a]
+
+(subject marker)
+
+/w/ [wa] ~ [pa] “I”
+
+/j/ [i.ta.je]
+
+“here”
+
+// [a]
+
+“arm”
+
+Consonants allowed in C1 (in CCV or CCVC syllables):
+
+/t/ [twa.ma] “fat”
+
+/k/ [ka]
+
+“son”
+
+// [sa.ja.a] “wing”
+
+/mb/ [mb]
+
+“animal”
+
+// [j]
+
+“which”
+
+// [ti] “green”
+
+/h/ [wi.he.e] “thin”
+
+Consonants allowed in C2:
+
+/w/ [kwe]
+
+(copula)
+
+/j/ [mbjen] ~ [mbjene] “husband”
+
+49
+
+// [ka.mbo] // [ki]
+
+“blood” “cold”
+
+Besides following the Sonority Sequencing Generalization, the consonant clusters in complex onsets are also subject to language specific restrictions. In fact, each of the consonants allowed in C2 has a specific distribution according to which consonant precedes it in C1. These onset internal constraints are summarised below.
+
+C2 = /w/
+
+C1 = /t, d, k, /
+
+as in [kw.nte] “hammock” [ka.twa] “salt” [kum.dw]10 “to suck” [k.wo] 11
+
+C2 = /j/
+
+C1 = /, mb,  /
+
+as in [sa.ja.a] “wing” [mbjen] ~ [mbjene] “husband” [j] “which”
+
+C2 = //
+
+C1 = /mb, h/ as in [mb] “animal” [h] “road”
+
+C2 = //
+
+C1 = /k, /
+
+as in [ki.k] “house” [] “egg”
+
+The same constraints are describe in analogous fashion by Guedes (1993, 75). Some differences are caused by different views concerning allophonic representation. For example she states that if C2 is /r/, C1 can be either /k, m, /. Her findings support
+
+10 The sequence [dw] was observed only once. 11 This lexical item is of dubious translation. The full sentence in which it was observed is /jumn ka o n kwo/ (“to whom did you give the necklace?”). It is unsure whether /kwo/ is a whole word meaning “necklace” or /wo/ is an alternative representation of the verb [o] (“to give”), while only /k/ represents the noun. In any case, what was relevant to the context was the present of the sound sequence [w] in an onset.
+50
+
+those of the present study if two factors are considered. First Guedes did not include the sound //, allophone of // in front of velars. Second, in Guedes’s analysis, /m/ is in free variation with /mb/ and both can occupy the same slot in C1 preceding /r/. In the present study, on the one hand such free variation has not been recorded, but on the other hand /mb/ has been observed to occur in many instances where Guedes recorded a full bilabial nasal /m/. The second option reported by Guedes is that of /w/ in C2, when C1 could be only one of the following sounds: /t, k, n, , /. This hypothesis is partly supported by the data used here, in fact /t, k, / have been attested to combine with /w/ in complex onsets. However, in this study, the voiced velar fricative that has not been recorded as part of the inventory and no instances of the sequence [nw] were observed.
+
+5.5 Suyá Codas
+
+As Spencer (1996, 80) points out, “there is a strong tendency for languages to show an asymmetry in the choice of segments permitted in onsets and codas, so that typically a greater variety of consonants or consonant clusters is permitted in the onset than in the coda”. The cross-linguistic predisposition to apply more restrictions to the range of sounds allowed in codas, rather than in onsets, is present also in Suyá. As mentioned before, codas in Suyá can be only of one consonant. The consonants that were observed in coda position (C3) are listed below, accompanied by the relevant examples.
+
+Consonants allowed in C3: /p/ /b/ /t, d/ /k, / // /m/ /n/
+
+[p] [kb.ndu] [kt] ~ [kd] [tk] ~ [t] [.t.e.je] [pm] [hn]
+
+“jaguar” “liver” “no” (negation) “black” “child” “father” (aspect marker)
+51
+
+/j/
+
+[aj-]
+
+/h/
+
+[i.ndh]
+
+“they” “my eye”
+
+In the list above, alveolar and velar voiceless and voiced stops were paired, while bilabial stops were treated individually. This was considered appropriate because, unlike the case of alveolar and velar plosives, the data did not provide instances where voiceless and voiced bilabial stops would alternate in codas in the same word. In fact, in the data used here, the occurrence of /b/, in codas or elsewhere, was observed only once, in the word [kb.ndu] (“liver”). Therefore, the evidence is insufficient to treat /p/ and /b/ as allophones in this context.
+
+The case of the voiceless glottal fricative /h/ appearing in codas is subject to a further restriction, in fact, in this environment, the sound appears to represent a facultative addition to phrase final open syllables. The insertion of /h/ was mainly observed words produced in isolation, but only in very few cases.
+
+5.6 Suyá Codas and Re-syllabification
+
+As discussed in section (4.3), the insertion of an epenthetic vowel in word final position at phrase boundaries shows determination to avoid closed syllables in sentence final position. This fact represents a restriction on codas, which are excluded from phrase final syllables. Some example of the same lexical items in sentence medial and final position are given below.
+
+[kin] ~ [kini] “to like”:
+
+/ima nda kin kumni/
+
+“I like the rain”
+
+/j nt n ka ama kin i/
+
+“which rattle do you like?”
+
+[kask] ~ [kas] “bad” /h a kask ti/
+
+“the road is bad”
+
+52
+
+/hn ka san kas/ “you said it wrong” (you spoke wrong)
+
+[mbt] ~ [mbi] “well”: /mbtkumn i/ /san mbi/
+
+“good” “say it right” (speak right)
+
+When an epenthetic vowel is inserted word finally, a new nucleus is added to the string of syllables the word is made of, changing its structure. As shown in the diagrams below, the addition of a vowel causes the internal reorganization of the word. For example the word [kin] (“to like”) is monosyllabic, it has an onset and a branching rhyme (nucleus + coda).
+_
+
+R
+
+k
+
+i
+
+n
+
+When the epenthetic vowel is added, what was the coda of the syllable, /n/, becomes the onset of a new syllable, whose nucleus is the epenthetic vowel. The process can be summarised as: C.V .CV (Kenstowicz, 1994).
+
+_
+
+_
+
+k
+
+in
+
+i
+
+The new shape of the word is organized into two open syllables, eliminating codas from phrase final position. As a result, a monosyllabic word such as the one considered in the diagram becomes disyllabic through the processes of epenthesis and re-arrangement of the segments into open syllables.
+
+53
+
+6.1 Stress Placement
+
+Chapter 6
+
+The stress placement is probably the aspect of Suyá that has, to the present day, been accounted for the least, having never been satisfactorily analysed in earlier studies on the language. Previous researchers rightfully suggested that the lexical stress seems to fall on the rightmost syllable of Suyá words (Everett, 2003; Guedes, 1993). However, such observation was not accompanied by comprehensive description of the stress system of the language. Guedes (1993, 71) claims the lexical stress in Suyá to be phonemic in words such as [toa] “tooth” and [toa] “bath” (transcriptions of Guedes). Her hypothesis, though, is not supported by the present study, as no minimal pair differing only in their stress placement has been recorded in the data used here. Besides, as it will be explained in this chapter, stress placement is predictable in the language. The aim of this section of the study is that of analysing the placement of the lexical and post-lexical stress in the language and state the set of rules that governs it. The representation used here to illustrate the process through which such rules are determined, will be that introduced by Halle and Vergnaud (1990).
+
+6.2 Basic Lexical Stress Rule
+
+It is very common to encounter monosyllabic lexical items in Suyá. When a word has two syllables, though, the lexical stress falls, as mentioned above, on the last syllable of the word. Some examples are shown below.
+
+[ku.pa] [i.ta] [i. s] [ku.mba] [ka.mbo] [kaj.kwa]
+
+“we” “this” “fruit” “to know” “blood” “sky”
+
+54
+
+Given these examples, the following rule can be stated:
+
+Stress Rule 1:
+
+Stress the last syllable.
+
+The application of rule (1) to disyllabic words such as those listed above can be represented as follows. As in Halle and Vergnaud (1990) while in line 0 an asterisk is assigned to each phoneme that could bear the stress, in line 1 asterisks are use to mark the elements effectively bearing stress.
+
+line 0 line1 Stress (1)
+
+ku.pa (* *)
+.*
+
+i.ta (* *) .*
+
+kaj.kwa (* *)
+.*
+
+Each pair of brackets represent a metrical constituent, or foot, each of such units can have only one stress (as shown in line 1).
+
+6.2.1 Obligatorily Stressed Syllables
+
+In the section of this study dedicated to allophony, it was observed that in particular environments, a glottal stop can be inserted phrase finally between two words. It was also mentioned that the insertion of the glottal stop is associated not only to the quality of the consonant immediately following it, but also to stress placement. The corpus considered in this study offered an example very important to determine the directionality of such relationship between the insertion of glottal stops and stress placement. The item in question is the Suyá word for “one”, whose different representations are shown below.
+
+[w.ti] ~ [w.ti] “one”
+
+It is clear from this example that the stress shifted from the last syllable to the penultimate under the influence of the combination /t/. In fact, it appears that, when a syllable whose onset is /t/ is preceded by a glottal stop, such syllable cannot bear the stress. In this case the stress must be assigned to the syllable whose coda is the
+
+55
+
+glottal stop. A rule to block the stress on the last syllable on words such as [w.ti] must be stated. An analogous situation was observed concerning the insertion of glottal stops immediately before syllables whose onset is /p/. However, in such context, the stress manifests the opposite behaviour. In fact is the syllable whose onset is /p/ to always bear the stress, instead of the one containing the glottal stop. This phenomenon needs additional and closer observation in order to be fully understood. However, a preliminary Rule can be stated as follows.
+
+Stress Rule 2:
+
+a. In the presence of the sequence of syllables (C)V . tV(C), stress the syllable whose coda is //.
+b. In the presence of the sequence of syllables (C)V . pV(C), stress the syllable whose onset is /p/.
+
+The importance of this Rule in order to place the stress correctly can be illustrated by its application to a word such as [ka.ta.t.n] “straight”12.
+
+line 0 line 1 line 2
+
+ka.ta.t.n (* *) (* *) .. . * .*. *
+
+Stress (1) Stress (2a)
+
+The sequence /p/ was not observed in isolated lexical items. However, Stress Rule (2b) will be exemplified in the section of this study dealing with phrasal stress.
+
+6.2.2 Obligatorily Unstressed Syllables
+
+A similar case to the one described above involves words whose last syllable has the sound /n/ as its onset. When a word ends in /ni/ or /ne/, the main stress skips the last
+
+12 From this example it could appear that Stress Rules (2a) and (2b) are redundant once the Alternation Rule is stated. However, examples of stress placement in phrases will show how Stress Rules (2a) and (2b) are necessary to obtain the correct output.
+56
+
+syllable and it is placed on the penultimate. The few example recorded are given below.
+
+[si.e.n.ne] [ku.m.ni] [ku.t.ni]
+
+“narrow” “very” “because”
+
+In the case of the words whose last consonant is /n/, the hypothesis of lenition is immediately ruled out, as in Suyá such phenomenon does not have nasals as its output. Only one of the words above has been observed to occur with an alternative form in the data.
+
+[si.e.n.ne] [p kod na h a sien]
+
+“narrow” “the paths in the wood are narrow”
+
+However, the nature of this change in the word [si.e.n.ne] “thin” is dubious. In fact, it does not display a “shortened” form in phrase medial position, but still phrase finally. Therefore, it would be possible to interpret the word [sien] as /si e “small” + n (positional verb)/. This last option would be coherent with the translation provided for the sentence in question. Another option would be to consider [sien] as a compound of the words /sie + n/, to whom the ending /-ne/ is added to convey the quality of adjective to the word, similarly to the hypothesis made for /-e/ (see 6.2.4). In any case, any word whose last syllable has /n/ as onset, appears stressed on the penultimate syllable. The data do not provide sufficient evidence to assume that in all these cases the last syllable can be deleted, making the stress placement on the penultimate consistent with what was stated so far. The word of this kind that appeared more frequently in the data was by far [ku.m.ni] “very”. However, due to its grammatical category, this word was always in phrase final position, not allowing to observe its behaviour sentence medially. Further investigation is needed to account exhaustively for this phenomenon and to
+57
+
+ascertain the morphological nature of these unstressable endings. For the time being, a rule is stated to block stress placement of word final syllable /ne/ and /ni/.
+
+Stress Rule 3:
+
+In words of 2 or more syllables, the word final syllables /ne/ and /ni/ do not bear the stress.
+
+The third Rule on Extrametricality is exemplified below.
+
+line 0 line1
+
+si.e.n.ne (* * * .)
+.. *
+
+Stress (3) Stress (1)
+
+6.2.3 Extrametricality 1
+In the section of this study dealing with phonological processes it was explained that epenthesis in Suyá implies the insertion of a vowel, of the same quality of the preceding one, in word final position and how this process would increase by 1 the number of syllables of the word. Halle and Vergnaud (1990, 30) observed that vowel epenthesis “adds stress-bearing elements to the string”. As a matter of fact, in some languages, when vowel insertion occurs, increasing the number of syllables, the stress might shift according to the language specific rules. In Suyá this does not happen, in fact the addition of a further syllable word finally does not cause the stress to shift on what has become the “new” last syllable of the word, as in the examples below.
+
+[tp] ~ [t.w] [ka.s.k] ~ [ka.s.] ~ [ka.s.a] [a.a.mbt] ~ [a.a.mb.]
+
+“fish”
+
+*[t.w]
+
+“bad, ugly” *[ka.s.a]
+
+“night”
+
+*[a.a.mb.]
+
+Word final syllables that are the result of epenthesis never bear the stress in Suyá, therefore they can be said to be extraprosodic or extrametrical, that is, “invisible” in terms of metrical constituents formation and stress placement. If Rule (1) is applied to words where epenthesis has taken place as it is stated above, the result will be ungrammatical. Therefore it must be stated differently, to account for the extrametricality of syllables generated from the vocalic insertion. A possible reformulation of the rule is stated below.
+58
+
+Extrametricality Rule 1: extrametrical. Stress Rule 1a:
+
+Mark syllables whose nucleus is an epenthetic vowel Stress the rightmost stressable syllable.
+
+Stated as Stress Rule (1a), the basic rule of lexical stress placement in Suyá produces the right output, as shown below.
+
+line0 line1
+
+ka.s.<a> (* * .)
+.* .
+
+Extrametricality (1) Stress (1a)
+
+According to Halle and Vergnaud (1990), when in a language epenthetic vowels are never allowed to bear the stress, it is because epenthesis occurred after the formation of metrical constituents. For example, the shape of the metrical constituent of the word [ka.s.k] ~ [ka.s.] can be represented as (. *), that is, a right-headed binary foot. Once the epenthetic vowel is added at the end of the word, the metrical structure of the word is unaltered13.
+
+6.2.4 Extrametricality 2
+Besides the words in which a syllable is added through vowel insertion, there are other cases in Suyá in which, on the surface, the stress does not seem to follow the basic rule and fall on the last syllable. Some of the examples are shown below. All the following words were recorded in isolation or at phrase boundaries.
+
+[si. e] [wi.he.e] [e.e] [ni.e]
+
+“small” “thin” “few” “that”
+
+13 The fact that the determination of the foot structure in the language precedes vocalic epenthesis proves that the basic form of words such as [tp] ~ [t.w] “fish”, is the one without the epenthetic vowel. Therefore it supports the hypothesis that the change in the last consonant of the word is indeed lenition (/p/ becomes /w/), and not the reverse.
+59
+
+[.e]
+
+“short”
+
+The words share the peculiar characteristic of ending in /-e/. In this case lenition could be a possibility, as the alveolar flap was widely observed as lenis output of /t, d/. A few of the words listed above were recorded also in sentence medial position, and their form does change, so that the stressed syllable is in fact the rightmost.
+
+[wi.he.e] [ita a kwej wa he jtan mmbje an ihe kumni]
+
+“thin” “he is thin, but that man is thinner”
+
+[si. e] [p.si.si.i]
+[ita a kwe psisit kee]
+
+“small” “small jaguar” (p “jaguar” + si. e “small”) “that is not a jaguar”
+
+While the second example illustrated above can be considered imperfect14, the first example clearly shows that the ending /-e/, very common especially among adjectives, can be considered extrametrical. In fact, in the case of the word [wi.he.e] ~ [he] “thin”, the extra syllable at the end is deleted when the word appear phrase internally. A further proof of the extrametricality of /-e/ is provided by the Suyá word for “black”. This adjective was produced as [t..e] in isolation, as [t.] in phrase final position and it was shortened even further as [tk] ~ [t] sentence internally. This example shows that the ending /-e/ can be attached to the form of the word that has already undergone epenthesis [t. + e]. As explained above, epenthesis in
+14 The adjective [si.e] “small” appears as [si.i] in the compound. The translation provided fro the term [p.si.si.i] though, suggest the two forms to be equivalent. Besides, in many cases it is difficult to distinguish words final /i/ from /e/ in the same position, as some time /e/ can be raised.
+60
+
+Suyá is a process that occurs after the formation of metrical components, for this reason the new syllable that results from it is extrametrical. The addition of /-e/ takes place even after vocalic insertion. This succession of processes makes of word final /-e/ another extraprosodic syllable. Another reason to believe that the ending /-e/ is extrametrical is given by the fact that, as it will be explain in the next section of this chapter, in Suyá words of three or more syllables, a sequence of two adjacent unstressed syllables is not allowed. Nevertheless, in the word list collected, at least two of the three items produced in isolation presented an alternative form, where a string of two unstressed syllables, one of which is the ending /-e/. Again this was observed in a series of adjectives. In the last of the examples reported below, the ending /-e/ seems even to reduplicate15.
+
+[ka.s..e] [t..e] [t.nd.e.e]
+
+“bad” “black” “full”
+
+In the light of the facts reported above, the following rule can be stated. Extrametricality Rule 2: Mark the word final syllable /e/ ~ /i/ extrametrical.
+
+The second Rule on extrametricality, in combination with the first, allows to place the main stress appropriately on words such as those listed above.
+
+line 0 line 1
+
+ka.s.<.e> ka.s<.><.e>
+(* *) .*
+
+Extrametricality (2) Extrametricality (1)
+Stress (1)
+
+6.3 Secondary Stress and Alternation
+
+15 However, reduplication is a phenomenon that was not observed anywhere else in the Suyá data analysed here, so it can be inferred that it is not very productive in the language.
+61
+
+The way secondary stress is placed will be analysed in compound words, since they seem to represent the majority of words with three or more syllables16. Compound words are very common in Suyá, as observed also by Guedes (1993), some examples of such lexical items are given below.
+
+/mb “animal” + ti “big”/ /p “jaguar” + t “black”/ /m “people” + t (singular marker)17/
+
+[mb.ti] [p.t] [m.t]
+
+“horse” “panther” “he”
+
+In the examples above, both components of the compound words are monosyllabic, therefore the main stress falls on the last syllable. Thus, it coincides with the stress of the last word of the compound. If one or both words joint in the compound are at least disyllabic, the stress of the second word will be stronger than that of the first word. The former represents the main stress, while the latter the secondary, as in the examples below.
+
+/ti “big” + kumni “very”/
+
+[ti.ku.m.ni]
+
+/p “jaguar” + kas “ugly”/
+
+[p.ka.s]
+
+/kati “many” + kumni “very”/ [ka.ti.ku.m.ni]
+
+“big” “dog” “a lot”
+
+In these words primary and secondary stress alternate. Intuitively it could be stated that the general stress rule in compounds is not dissimilar from that of regular words, that is, the last syllable bears the main stress. In compounds where the two words have more than 1 syllable, the stress of both words seems to be preserved, only, the rightmost is the primary, while the leftmost is the secondary stress. A more opportune way to describe the placement of secondary stress though, as the analysis of phrasal stress will also show, is to consider stress placement in Suyá to be governed by Alternation. That is, once the rightmost stressable syllable has been determined through the set of Extrametricality Rules described above, every second
+
+16 The great majority of the words with 3 syllable (the last of whom is not subject to the first Rule of extrametricality) or more, appear to be compounds or possible compounds. In some cases the information provided by the data allows for only one of the two words to be translated individually. 17 The particle /t/ ~ /t/ is mainly used after collective terms or nouns that are considered intrinsically plural. For more detail see Santos (1997, 29).
+62
+
+syllable from the one carrying the main stress would also receive the stress. If two stresses fall in the same word, as it is the case of the compounds, the rightmost will be the main one, while the one assigned after it will be the secondary stress. The Alternation Rule can be stated as follows.
+
+Alternation: Assign a stress to every second syllable to the left of the main stress.
+
+The Alternation Rule is exemplified below.
+
+line 0 line 1 line 2
+
+ka.ti.ku.m<.ni> Extrametricality (3)
+
+(* *) (* *)
+
+.. .*
+
+Stress (1)
+
+.*.*
+
+Alternation
+
+6.4 Summary of Lexical Stress Rules
+
+The aim of this chapter of the study was to determine and state a set of rules that would regulate the placement of lexical stress in Suyá. As a result of this analysis the following rules have been stated. The rules below have been ranked according to the priority with whom they need to be applied to a lexical item in order to obtain the right output.
+
+• Mark syllables whose nucleus is an epenthetic vowel extrametrical. • Mark the word final syllable /e/ ~ /i/ extrametrical. • In the presence of the sequence of syllables (C)V . tV(C), stress the syllable
+whose coda is //. • In the presence of the sequence of syllables (C)V . pV(C), stress the syllable
+whose onset is /p/. • In words of 2 or more syllables, the word final syllables /ne/ and /ni/ do not
+bear the stress.
+• Assign a stress to every second syllable to the left of the main stress
+• Stress the rightmost stressable syllable.
+63
+
+6.5 Post-Lexical Stress
+
+In order to predict the correct stress placement in Suyá phrases, some rules need to be stated in addition to those that are active at the level of the word. In fact when a whole phrase must be assigned a prosodic structure, the rules that apply to the phrase level are given priority on those governing strictly lexical stress. An example is given below, where the stress of the verb [t] “to work” shifts to the left of the root as a result of the Alternation Rule. Stress Rule (1a) now applies to the entire phrase, rather than to each lexical item.
+
+[t] [san kee]
+
+“to make, to work” “he/she did not work”
+
+line 0 line 1 line 2
+
+sa.n. ke<.e> (*) (* *)
+.. * *. *
+
+Extrametricality (1)
+Stress (1) Alternation
+
+6.5.1 Obligatorily Unstressed Morphemes 1
+
+During the transcription and the analysis of the data, it was observed that some of the monosyllabic markers used in the language never bear the stress. The clearest example of all is the particle [ma], which marks the future tense as well as the dative case (Santos, 1997). This particles was also observed to mark intentionality by Guedes (1993). Some examples are shown below.
+
+[i.. .ma]
+
+“I am going to sit down” (future)
+
+[a.i.t.j. aj.a...ma] “when are you going to sing?” (future)
+
+[j. ntn.ka.a.ma.ki.ni] “which rattle do you like?” (dative)
+
+Stress Rule 4:
+
+The marker [ma] never bears the stress.
+
+64
+
+This rule can be exemplified as follows.
+
+line 0 line 1
+
+i. .<> .ma
+
+(* *
+
+.)
+
+.*
+
+.
+
+Extrametricality (1) Stress (4) Stress (1a)
+
+6.5.2 Obligatorily Unstressed Morphemes 2
+Another morpheme that displays a very strong tendency not to bear the stress is the topic marker /na/. Some examples are given below.
+
+[mndije a  um na kat] “the woman came out of the water”
+
+[ikamba muhaj na n]
+
+[ajd na waj ]
+
+“my brother slept outside the village (far)” “the two of you sit”
+
+As the analysis of the sentence shows, not only /na/ does not bear the stress, but it is also excluded from the alternated pattern. In fact there is always another unstressed syllable adjacent to the topic marker, creating a string of two unstressed syllables. Therefore, the rule that blocks the stress on /na/ must be applied before Alternation and, when the latter is applied, /na/ must be skipped in the count.
+
+Stress Rule 5:
+
+The topic marker /na/ does not bear the stress.
+
+line 0 line 1 line 2
+
+ajd na waj  (* * *) (* *) .. . . * .* . . *
+
+Stress (1) Do not stress /na/, Alternate
+
+The only exceptions recorded to Rule (5), are illustrated in the sentences below. There the topic marker is respectively preceded by [jum] “who” and followed by
+
+65
+
+the particle [t], the singular marker on collective or intrinsically plural nouns (Santos, 1997).
+
+[jum na mbja we te] [jum na ma san] [pje t na n k it mbaj ha ma]
+
+“who went hunting?” “who told you that?” “the little girl wants to learn to make necklaces”
+
+In these cases however, the fact that the topic marker receives the stress is compatible with Alteration. This will not be the case of the obligatory stressed subject marker analyzed in the next section.
+
+6.5.3 Obligatorily Stressed Morphemes
+
+One of the morphemes that always appear to receive the stress regardless the Alternation Rule is the subject marker /a/ ~ /ta/. Some examples are given below.
+
+[mndije a  um na kat] “the woman came out of the water”
+
+[ikamba muhaj na n]
+
+“my brother slept outside the village (far)”
+
+[kukt ta kwtej k ta]
+
+“the tapir broke the rope”
+
+In these sentences /a/ represents an extra stressed syllable. In fact, unlike in the case of the obligatorily unstressed topic marker, Alternation is applied before the obligatory stress in assigned to the subject marker, creating a sequence of two stressed syllables.
+
+Stress Rule 6:
+
+The subject marker /a/ ~ /ta/ always bear the stress.
+
+line 0 line 1
+
+i.ka.mb. a. mu.haj .na .<.n> Extrametricality (1) (* *) (* *) (* *) (* *) . . . . . . . * Stress (1a)
+66
+
+line 2 line 3
+
+. . . * . . . * Stress /a/ . * . * * . . * No Stress on /na/, Alternation
+
+6.6 Inversion of Alternation
+
+The analysis of the data uncovered a process that occurs in sentences when the subject marker /a/ ~ /ta/ is immediately followed by a closed syllable. Let us consider the examples below. The stress has been marked according to the way the sentences were pronounced by the informant.
+
+[nt a kwk kuka kod na n] [itaj a t kukwaj mu]
+
+“the rattle is in front of the basket” “the two of them have seen a monkey”
+
+If the rules stated so far are applied to the same phrases, though, the outcome in terms of stress placement would be different.
+
+line 0 line 1 line 2
+
+nt. a. kwk. ku.ka. kod. na. n
+
+(* *) (* .. . .* .
+
+*) (* *) (* *) . . . . * Stress (1a) * . * . * Alternation
+
+In order to achieve the result that is coherent with the way a sentence is uttered, a further rule needs to be stated and applied. This rule determines that, when the subject marker is followed by a closed syllable, the course of alternation becomes inverted. In fact, not only the heavy syllable immediately following /a/ ~ /ta/ receives the stress instead of the subject marker itself, but a new alternating sequence of stressed and unstressed syllables starts. In order to prove this point, first a rule that imposes only to stress the heavy syllable following the subject marker will be applied.
+
+67
+
+line 0 line 1 line 2 line 3
+
+nt. a. kwk. ku.ka. kod. na. n
+
+(* *) (* *) (* *) (* *) . . . . . . . * Stress (1a)
+
+.* . .* *
+
+* .* * .*
+
+. * Alternation . * (Stress heavy
+syllable after /a/)
+
+The result is still not acceptable. The new rule must state that, once the heavy syllable _ following the subject marker receives the stress, every second syllable remaining after _ will bear the stress.
+
+Stress Rule 7:
+
+When the subject marker is followed by a heavy syllable _, _ is stressed, and so is every second syllable left of _.
+
+The application of Stress Rule (7) finally gives the right output.
+
+line 0 line 1 line 2 line 3
+
+nt. a. kwk. ku.ka. kod. na. n
+
+(* *) (* .. . .* . *. *
+
+*) (* *) (* *) . . . . * Stress (1a) * . * . * Alternation * . * . * Stress (7)
+
+6.7 Summary of Post-Lexical Stress Rules
+• The marker [ma] never bears the stress. • The topic marker /na/ does not bear the stress, unless it is preceded by [jum]
+“who” or [t] (singular marker). In this case it follows Alternation. • When the subject marker is followed by a heavy syllable _, _ is stressed, and
+so is every second syllable left of _. • The subject marker /a/ ~ /ta/ always bear the stress.
+68
+
+69
+
+Conclusion The aim of this study was to analyse some phonological aspects of Suyá. The language itself has been, to this day, only partially documented and, given the small number of its speakers, it urgently requires further investigation. Thanks to the large corpus collected by Prof Daniel L. Everett it was possible, first of all, to describe the segmental inventory of the language. However, additional research will be needed to ascertain the phonemic status of a few sounds. In fact, the analysis of data conducted in this study put in doubt the hypothesis previously formulated (Guedes, 1993; Everett, 2003) that post-oralised nasals are allophonic representation of the corresponding full nasals. It was not possible to determine for certain whether the voiceless labio-velar fricative // is an allophone of the voiced labio-velar approximant /w/. Another problem was represented by the uncertain status of the affricates of the language. The data did not provide enough evidence to establish whether /t/ and /d/ are allophones of /t/ and /d/ and if, just like in the case of alveolar stops, the voiced can be an allophone of the voiceless. The aspect of the language that is probably in the greatest need of further research, is of stress placement. The analysis of stress placement proposed in this study is far from being complete. An even larger corpus need to be collected and examined in order to account exhaustively for the Suyá stress system.
+70
+
+Bibliography
+Chomsky, Noam; Halle, Morris. 1968. The Sound Pattern of English. New York: Harper and Row.
+Dixon, R.M.W.; Aikhenvald, A.Y. eds. 1999. The Amazonian Languages. Cambridge: Cambridge University Press.
+Everett, Daniel L. 1998. “Syllable Integrity”. Proceedings of the XVI West Coast Conference on Formal Linguistics. Chicago: University of Chicago Press.
+Everett, Daniel L. 2002. “From Threatened Languages to Threatened Lives”, http://yourdictionary.com/erl/everett.html
+Everett, Daniel L. 2003. “Theoretical Implications of Post-Lexical Structure Preservation in Suyá”. Paper presented at the XI Manchester Phonology Meeting, University of Manchester.
+Everett, Daniel L. 2004. “Documenting Languages: The View from the Brazilian Amazon”. In Language Documentation and Description, 1, papers from the first conference sponsored by Hans Rausing Endangered Languages Project. Austin, P., ed. London: School of Oriental and African Studies.
+Guedes, Marymarcia. 1993. “Suyá: A lingua da gente: Um estudo fonologico e grammatical”, unpublished PhD dissertation. Universidade Estadual de Campinas, Sao Paulo.
+Halle, Morris; Vergnaud, Jean-Roger. 1990. An Essay on Stress. Cambridge, Massachusetts: MIT Press.
+Hemming, John. 1978. Red Gold: the Conquest of the Brazilian Indians. London: Macmillian.
+Hemming, John. 1987. Amazon Frontier: the Defeat of the Brazilian Indians. London: Macmillian.
+Kaufman, Terrence. 1990. “Language History in South America: What We Know and How to Know More”. In Payne, Doris L. ed. Amazonian Linguistics, pp.13-74. Austin: University of Texas Press.
+Kenstowicz, Michael. 1994. Phonology in Generative Grammar. Oxford: Blackwell.
+Mason, J.A. 1950. The Languages of South American Indians. Washington
+Rodrigues, Aryon D. 1999. “Macro-Jê”. In In Dixon, R.M.W.; Aikhenvald, A.Y. eds. The Amazonian Languages. Cambridge: Cambridge University Press.
+71
+
+dos Santos, Ludoviko, C. 1997. “Descrição de aspectos morfossintáticos da lingua Suyá (K_sedjê) Família Jê”. Unpublished PhD dissertation, Universidade Federal de Santa Catarina, Brazil. Seeger. Anthony. 1981. Nature and Society in Central Brazil: The Suyá Indians of Mato Grosso. Cambridge, Massachusetts: Harvard University Press. Seeger. Anthony. 1987.Why Suyá Sing: A Musical Anthropology of an Amazonian People. Cambridge: Cambridge University Press. Seki, Lucy. 1999a. A Lingüística Indígena no Brasil. D.E.L.T.A. special issue, 15, 257-290. Seki, Lucy. 1999b. “The Upper Xingu as an Incipient Linguistic Area”. In Dixon, R.M.W.; Aikhenvald, A.Y. eds. The Amazonian Languages. Cambridge: Cambridge University Press. Selkirk, Elisabeth O. 1984a. “On the major class features and syllable theory”. In Language Sound Structure: Studies in Phonology presented to Morris Halle by his teacher and students, ed. Aronoff, Mark; Richard T. Oehrle. Cambridge, Massachusetts: MIT Press. Spencer, Andrew. 1996. Phonology. Oxford: Blackwell. Thomson, Ruth. 2003. “Suyá Dictionary”. Unpublished ms (in progress). SIL, Brazil. Urban, Greg. 1985. Developments in the Situation of Brazilian Tribal Populations from 1976 to 1982. Latin American Research Review, 20, 1, pp. 7-25.
+72
+
+

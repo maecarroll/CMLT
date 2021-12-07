@@ -1,0 +1,5787 @@
+Cláudia Teles Maeda
+DESCRIÇÃO PRELIMINAR DO ORO EO: UM CASO DE SÍLABA
+EMBUTIDA NO ONSET
+UNIR Campus de Guajará-Mirim
+2000
+
+ii
+Cláudia Teles Maeda
+DESCRIÇÃO PRELIMINAR DO ORO EO: UM CASO DE SÍLABA
+EMBUTIDA NO ONSET
+Dissertação apresentada ao Curso de Lingüística da Fundação Universidade Federal de Rondônia como requisito parcial para obtenção do título de Mestre em Lingüística, opção Línguas Indígenas.
+Orientador: Prof. Dr. Jean-Pierre Angenot '
+UNIR Guajará-Mirim
+2000
+
+iii
+Ficha Catalográfica
+Teles Maeda, Cláudia
+Atualização das vogais embutidas no onset da sílaba em oro eo./ Cláudia Teles Maeda.
+Guajará-Mirim, RO: [s.n.], 2000 Orientador: Jean-Pierre Angenot Dissertação (mestrado) – Fundação Universidade Federal de Rondônia, Campus de Guajará-Mirim. 1. Línguas indígenas. 2. Índios da América do Sul – Rondônia BR. 3. Descrição: Fonética e Fonologia. I. Angenot, Jean-Pierre. II. Fundação Universidade Federal de Rondônia. Campus de Guajará-Mirim. III. Título.
+
+iv
+Esta dissertação foi julgada suficiente como um dos requisitos para obtenção do título de Mestre em Lingüística, opção Línguas Indígenas, e aprovada em sua forma final pelo programa de Pós-Graduação em Lingüística, opção Línguas Indígenas da Fundação Universidade Federal de Rondônia.
+Guajará-Mirim, 30 de agosto de 2000
+Dra Iara Maria Teles Coordenadora dos Cursos de Pós-Graduação
+do Campus de Guajará-Mirim
+BANCA EXAMINADORA
+Prof. Dr. Jean-Pierre Angenot _________________________________________________ Orientador e Presidente da Banca
+Prof. Dr. Ludoviko Carnasciali dos Santos ______________________________________
+Profa Dra Catherine Barbara Kempf ____________________________________________
+Prof. Dr. Celso Ferrarezi Junior (Suplente)______________________________________
+
+v
+Se quisermos crescer é só colocarmo-nos a alguns passos atrás do outro.
+Ao fazermos isto, faremo-nos acompanhar por todos aqueles que também estão atrás e forças poderão ser somadas. Se quisermos manter-nos sempre à frente de tudo e de todos, seremos como uma ilha: cercados por todos, mas, ao mesmo tempo, isolados de todos.
+É bom sermos pequenos, pois teremos sempre a chance de crescer e, uma vez no topo, teremos todas as chances de cair. Somente o que cai pode se levantar, se tiver a humildade de pedir ajuda.
+
+vi
+.Agradecimentos
+Ao Sr. Oroquim (Lucas), pela sua disposição e boa vontade em fornecer os dados de sua língua bem como ao Gilberto, seu sobrinho.
+Ao meu orientador, Prof. Dr. Jean-Pierre Angenot, e ao meu amigo e coorientador, Prof. Ms. Valteir Martins, por terem me acompanhado, pacientemente, durante o trabalho.
+Aos professores do Curso de Mestrado em Lingüística da UNIR, pelos conhecimentos transmitidos.
+Aos colegas de curso, principalmente à amiga Vânia de Castro, pelo incentivo e pelo tempo que passamos juntos estudando.
+Aos funcionários da Funai que contribuíram com este trabalho, fornecendo material para estudo e facilitando os contatos com Sr. Oroquim.
+Aos meus pais, dando-me a formação necessária para seguir sempre em frente através de seus exemplos de vida.
+À minha família. A todos aqueles que, direta ou indiretamente, contribuíram para a realização deste trabalho. E a DEUS, meu SENHOR e CRIADOR, porque se não fosse pela Sua vontade, eu não existiria.
+
+vii
+Ao povo oro eo que luta pela perpetuação de sua cultura e de seu espaço.
+A minha irmã, Iara, que não só me incentivou dando-me forças e subsídios para seguir em frente, como também esteve a meu lado durante todo o trabalho.
+
+SUMÁRIO
+
+RESUMO........................................................................................................................X
+
+ABSTRACT......................................................................................................................XI
+
+INTRODUÇÃO..............................................................................................................01
+
+CAPÍTULO 1: UM POUCO DE HISTÓRIA DO POVO ORO EO.........04
+
+CAPÍTULO 2: CONSIDERAÇÕES METODOLÓGICAS...........................09
+
+2.1 METODOLOGIA.....................................................................................................09
+
+2.2 O INFORMANTE..............................................................................................10
+
+2.3
+
+O
+
+CORPUS
+
+DE
+
+DADOS...................................................................................10
+
+2.4
+
+ANÁLISE
+
+DOS
+
+DADOS.................................................................................11
+
+CAPÍTULO3:OSISTEMAFONÉTICO.................................................................13
+
+3.1 CONSIDERAÇÕES PRELIMINARES............................................................13 3.2 OS SONS..............................................................................................................13
+
+3.2.1 Descrição e ocorrências das contóides...................................................13 3.2.2 Descrição e ocorrências das vocóides....................................................25 3.2.3 Inventário dos sons...................................................................................30
+3.3 O PADRÃO SILÁBICO......................................................................................32
+
+3.3.1 Estrutura prosódica do lexema...............................................................32 3.3.2 Estrutura silábica do lexema em oro eo.................................................33
+CAPÍTULO 4: SISTEMA FONÊMICO................................................................35
+
+4.1 CONSIDERAÇÕES PRELIMINARES...............................................................35
+
+4.2 SONS PRÓXIMOS CONFIRMADOS COMO FONEMAS ATRAVÉS DE
+
+PARES MÍNIMOS E ANÁLOGOS.................................................................35
+
+4.2.1 Consoantes.................................................................................................35
+
+9
+4.2.2 Vogais.........................................................................................................37
+4.3 OS FONEMAS CONSONANTAIS E SUAS REALIZAÇÕES.............................38
+4.3.1 Quadro das consoantes............................................................................38 4.3.2 Exemplificação das consoantes...............................................................40 4.3.3 Regras de realizações alofônicas dos fonemas consonantais.............45 4.3.4 Distribuição complementar.....................................................................49 4.3.4 Distribuição fonotática ............................................................................51
+4.4 OS FONEMAS VOCÁLICOS E SUAS REALIZAÇÕES ALOFÔNICAS............52
+4.4.1 Quadro da distribuição exemplificada das vogais..............................52 4.4.2 Regras de realizações alofônicas dos fonemas vocálicos....................53 4.5 Quadro dos fonemas.........................................................................................55 4.5.1 Consoantes.................................................................................................55 4.5.2 Vogais.........................................................................................................55
+CAPÍTULO 5: UM CASO DE SÍLABA EMBUTIDA NO ONSET SILÁBICO........................................................................................................................56
+5.1 CONCEITUANDO SÍLABA EMBUTIDA...........................................................56 5.2 PROCESSOS DIACRÔNICOS PROTOWARI...................................................57
+5.2.1 Surgimento de sílaba por vocalização da catástase de oclusiva-tepe. 57
+5.2.2 Deslocamento acentual dentro do sintagma determinativo...............57
+5.3 PROCESSOS SINCRÔNICOS FONOESTILÍSTICOS PANWARI COM
+EXEMPLIFICAÇÕES EM ORO EO.....................................................................58 5.3.1 Embutimento de sílaba flutuante amoráica no ataque de sílaba
+iniciada por oclusiva-tepe.......................................................................58
+
+10
+5.3.2 Degenerescência de vogal flutuante por indeterminação do timbre.........................................................................................................58
+5.3.3 Supressão de sílaba flutuante..................................................................59
+5.4 CONSTATANDO, ACUSTICAMENTE, A ATUALIZAÇÃO DA VOGAL
+EMBUTIDA........................................................................................................67
+CONCLUSÃO...........................................................................................................................77 BIBLIOGRAFIA............................................................................................................79 ANEXOS...........................................................................................................................83 NO1 CORPUS DE DADOS.................................................................................................84 NO2 CORPUS ESPECÍFICO DAS EMBUTIDAS ............................................................104 NO3 DOCUMENTOS ACÚSTICOS...............................................................................108
+
+11
+RESUMO
+Este trabalho apresenta uma descrição fonética e fonêmica preliminar do oro eo, uma das línguas do grupo wari da família Ckapakura falada por seis ou sete pessoas na região do rio Pacáas-Novos, Guajará-Mirim, no interior de Rondônia, Brasil. Enfoca-se, sobretudo, os resquícios acústicos de um caso de sílaba flutuante embutida no onset silábico, resultante de processos diacrônicos e sincrônicos de enfraquecimento vocálico ligados a registros fonoestilísticos. A vogal desta sílaba tem sempre um timbre-eco do da vogal nuclear seguinte. A presença desta sílaba embutida no onset corrobora a restrição fonotática em oro eo que proíbe grupos consonantais na língua. Perceptualmente, essas vogais tendem a desaparecer completamente, mas, por existirem na consciência lingüística do falante, seus indícios acústicos permanecem. Estas sílabas embutidas acontecem, em oro eo, nos grupos consonantais constituídos de oclusiva ou da fricativa bilabial surda [∏] seguida de tepe, como, por exemplo, em [ti pm] ‘está beijando ela ’ e em [m] ‘ queixo ’.
+
+12
+ABSTRACT
+This work presents a basic and preliminary phonetic and phonemic description of oro eo, a language of the wari group (Chapakuran family) spoken by six or seven people at Pacaás-Novos river, Guajará-Mirim, Rondônia, Brazil nowadays. It also presents the floating syllable embedded in the onset of a syllable in oro eo. That syllable is the result of a diachronic weakening process that is displayed by phonostylistic variants. The vowel is a vowel echo of the next nuclear vowel. That syllable embedded in the onset corroborates the oro eo phonotatic constraint that don't permit consonantal clusters. Those vowels tend to disappear completely at the perceptual level but there are present in the speakers linguistic awareness yet. So their acoustic traces remain. The embedded syllables occur with clusters constituted by stops or the voiceless bilabial fricative [∏] followed by a tap, as in [ti pm] ‘is kissing her ’ and in [m] ‘chin ’.
+
+13
+INTRODUÇÃO
+Este trabalho, desenvolvido no Programa de Pós-Graduação em Lingüística, Opção Línguas Indígenas da Universidade Federal de Rondônia, pretende contribuir com a documentação de línguas indígenas em fase de extinção.
+A pesquisa das línguas indígenas amazônicas tem revelado dados importantes para o progresso das Ciências da Linguagem. Fatos lingüísticos novos têm sido comprovados; fatos esses que, segundo Rodrigues (1991)1, têm revelado a necessidade de uma modificação de pontos importantes da teoria fonológica e da teoria gramatical.
+Sabemos que o estudo do sistema de comunicação de um povo indígena, veículo de sua cultura, permite o acesso à etnociência, ou seja, a outros aspectos do saber, como por exemplo, a utilização de plantas medicinais e a classificação das espécies animais e vegetais. Desta forma,
+“...o desaparecimento sob pressão das línguas da Amazônia acarreta a perda de importante patrimônio intelectual e de conhecimentos sobre a adaptação do homem nessa região, assim como contribui fortemente para a desarticulação social e a marginalização e empobrecimento dos povos indígenas” (Rodrigues, 1991)2
+1 Aryon D. Rodrigues (1986). Línguas Brasileiras: Para o conhecimento das línguas indígenas. São Paulo: Edições Loyola. 2 op. cit.
+
+14
+Escolhemos , para nosso objeto de estudo, o oro eo, do grupo wari, família Chapakura, pelo risco que a mesma está sofrendo de se extinguir. É uma descrição preliminar, pois trata-se de um trabalho pioneiro.
+Dos remanescentes oro eo, apenas 6 ou 7 ainda são falantes de sua língua nativa. O oro eo está perdendo sua identidade cultural, visto que seus últimos falantes, além de estarem se casando com nativos de outras línguas, fazem uso também do português como veículo de comunicação. Sua língua nativa não é mais usada com regularidade.
+Dentro de um projeto maior de documentação das línguas indígenas brasileiras, torna-se necessário este trabalho, uma vez que ainda não foi feito nenhum estudo lingüístico do oro eo.
+Especificamente, este trabalho tem como objetivos: a) contribuir para futuras pesquisas sobre o oro eo; b) fornecer subsídios para estudos comparativos com outras línguas da mesma família; c) descrever o sistema fonético e fonêmico do oro eo e a ocorrência de vogais embutidas no onset da sílaba. Foram levantadas as seguintes hipóteses: a) há em oro eo uma vogal reduzida que está em processo de
+enfraquecimento; b) a vogal embutida assimila o timbre da vogal plena da sílaba
+que a segue; c) a duração da vogal embutida é determinada pela da vogal
+plena da sílaba; d) a intensidade da vogal embutida é mais fraca que a da vogal
+plena;
+
+15
+e) há em oro eo sons vibrantizados e glotalizados.
+O trabalho apresenta cinco capítulos:
+no primeiro, alguns dados da história do povo oro eo são apresentados, a fim de que se possa localizá-lo no tempo e no espaço;
+no segundo, são feitas considerações metodológicas que nortearam o desenvolvimento do trabalho;
+o sistema fonético da língua, desde a descrição minuciosa dos fones até a determinação do tipo silábico, é apresentado no terceiro capítulo. Foi dispensada uma atenção especial para a transcrição fonética apurada dos fones, condição essencial para a descrição fonêmica enfocada no capítulo quatro. As regras de realizações alofônicas dos fonemas foram formalizadas para, ao final, ser determinado o quadro de fonemas consonantais e vocálicos da língua;
+no capítulo cinco, o objetivo principal deste trabalho foi alcançado com a análise das sílabas (vogais) embutidas no onset. Foram buscadas, na diacronia, as fontes de onde se originaram estas realizações de sílaba com ataque complexo que fogem ao padrão canônico da língua. Processos diacrônicos e sincrônicos foram descritos.
+
+16
+CAPÍTULO 2: CONSIDERAÇÕES METODOLÓGICAS
+2.1. METODOLOGIA
+A descrição preliminar do sistema fonético e fonêmico do oro eo foi feita nos moldes da metodologia estruturalista. Assim, foram consideradas as quatro premissas básicas postuladas por Pike (1947)3 para o estabelecimento das regras de realizações alofônicas:
+a) os sons tendem a ser modificados por seus ambientes fonéticos; b) os sistemas de sons têm uma tendência à simetria fonética; c) os sons tendem a flutuar: se esta flutuação é entre segmentos
+não contrastivos, ela é estruturamente não-significante e não deve, portanto, ser simbolizado em uma transcrição fonêmica; d) seqüências características de sons exercem pressão estrutural na interpretação fonológica de segmentos ou de seqüências de segmentos suspeitos. Para a definição do padrão silábico, seguimos o trabalho de Angenot-de-Lima (1997)4, conforme será explicitado em 3.3.1. Para a interpretação das sílabas embutidas em oro eo, além dos modelos da Fonologia Não-Linear, foram seguidos também os princípios da Fonologia Funcional de Boersma (1998)5.
+3 Kemmeth L. Pike (1947). Phonemics: a tecnique for reducing languages to writing. Ann Arbor: The University of Michigan Press. 4 Geralda de Lima Victor Angenot (1997). Fonotática e Fonologia do Lexema Protochapakura. GuajaráMirim: UNIR. Dissertação de mestrado.
+
+17
+Qualquer língua com seus respectivos dialetos é dinâmica. Possui formas que estão em constante flutuação, acarretando mudanças, resultado de um processo natural de evolução lingüística. O oro eo não poderia ser diferente.
+2.2 O INFORMANTE
+Os oro eo, descendentes de pai e mãe oro eo, são em número reduzido. Vivem em postos indígenas separados na região do rio Pacáas-Novos.
+Senhor Lucas, nosso informante, tem entre 40 a 50 anos. É casado com uma descendente de oro nao. Está sempre mudando de lugar de acordo com a necessidade de seu trabalho.
+Como é funcionário da FUNAI, uma vez por mês desce o rio para receber seu salário. Permanece na cidade no máximo até o dia seguinte ao de sua chegada. Nestas suas vindas é que trabalha, também, como nosso informante.
+2.3 O CORPUS DE DADOS
+A descrição foi baseada em um corpus empírico, sobretudo a nível de palavra, onde acontece um processo de flutuação dentro de determinadas sílabas, o que foi o foco de nossa atenção.
+A partir do léxico da família Chapakura, que faz parte do acervo lingüístico do Centro de Pesquisas das Línguas Amazônicas da UNIR, f oram selecionadas, inicialmente, 200 palavras em 1998. Após terem sido revistos estes dados, foram coletados mais 300 em 1999, com o informante Sr. Oroquim, mais conhecido como Sr. Lucas.
+5 Paul Boersma (1998). Functional Phonology: Formalizing the interactions between articulatory and perceptual drives. The Hague: Holland Academic Graphics.
+
+18
+Os primeiros dados coletados com o informante foram gravados através do programa de análise acústica “Computerized Extraction of Components of Intonation in Linguistics”, WinCECIL versão 2.2 e, a partir de setembro de 1999, passamos a trabalhar também com o programa “Speech Analyser” versão 1.06a.
+O corpus contém 530 dados dos quais foram selecionados 105 para compor um específico para o estudo das sílabas embutidas no onset , objetivo principal deste trabalho. No decorrer da análise, apesar de se possuir dados suficientes para o estudo principal a que se propôs – vogais embutidas no onset constatou-se haver necessidade de se trabalhar com um corpus mais significativo que dê conta de fornecer exemplos consistentes de todas as realizações fonéticas da língua para completar seu sistema fonêmico. Porém, devido a fatores diversos que fugiram ao nosso controle, isto não foi possível, o que não impossibilitou a concretização deste trabalho, visto se constituir em uma análise preliminar. Como a pesquisa terá sua continuidade, este problema será sanado.
+Palavras monossílábicas e dissilábicas, nível lexical, compõem a maioria dos dados. Além de palavras compostas, nível pós-lexical, também foram coletadas frases, a nível do discurso, com vistas ao prosseguimento da pesquisa6, das quais algumas fazem parte do corpus deste trabalho.
+2.4 ANÁLISE DOS DADOS
+Os dados foram segmentados através dos programas de análise acústica citados em 2.2. A transcrição fonética dos mesmos seguiu o Alfabeto Fonético Internacional. Por falta de recursos dos programas utilizados, a laringalização, na transcrição fonética, aparece em todo o segmento, apesar de se
+6 A prosódia do oro eo está sendo objeto de pesquisa da Profa. Dra. Iara Maria Teles – UNIR: Fonologia Prosódica:
+Intonação da língua oro eo.
+
+19
+ter conhecimento de que ela acontece somente na catástase e na metástase do mesmo.
+Apesar deste trabalho não ter como objetivo analisar a morfologia da língua, a segmentação morfológica fez-se necessária para se dar conta dos limites de palavra a fim de se verificar a distribuição fonotática dos fonemas, bem como os processos das sílabas embutidas.
+Para o estudo das sílabas embutidas, procedeu-se da seguinte forma:
+a) as palavras monossilábicas e dissilábicas do corpus específico para esta análise foram gravadas em três registros fonoestilísticos: hiperarticulado, normal e hipoarticulado. A análise das sílabas embutidas no onset só foi possível através destes registros fonoestilísticos de fala que permitiram detectar os processos morfofonológicos envolvidos;
+b) foram feitas medições acústicas para a determinação do timbre, da duração e da intensidade vocálicos;
+c) foi feita uma análise comparativa da duração das vogais embutidas com a duração intrínseca das vogais plenas para se verificar a relação existente entre a duração e a percepção daquelas vogais;
+Finalmente, com a comparação dos dados, pode-se determinar como se atualizam as vogais embutidas no onset da sílaba em oro eo.
+
+20
+
+CAPÍTULO 3: O SISTEMA FONÉTICO
+
+3.1. CONSIDERAÇÕES PRELIMINARES
+
+Para a descrição dos contóides, serão considerados os seguintes parâmetros: grau de constrição (oclusivo, fricativo, soante); ponto de articulação (bilabial, alveolar, etc); posição do véu palatino (oral ou nasal); vibração ou não das cordas vocais (surdo ou sonoro), metástase explodida ou não das oclusivas, colaringalização na catástase e metástase, pré e pós-glotalização e pós-nasalização.
+Para a descrição dos vocóides, serão considerados os parâmetros: ponto de articulação (anterior, central e posterior); grau de altura/abertura (alto/fechado, médio, baixo/aberto); posição do véu palatino (oral ou nasalizado), a forma dos lábios (arredondado ou não-arredondado), a tensão (tenso ou frouxo) e a colaringalização na catástase e na metástase.
+
+3.2. OS SONS7
+
+3.2.1 Descrição e ocorrências das contóides. 3.2.1.1 [p] oclusiva, bilabial, oral, surda, explodida.
+
+a) #___
+
+056 [papa]
+
+‘arraia ’
+
+b) #___R
+
+474 [pi]
+
+‘subir ’
+
+c) $___
+
+7 A numeração dos exemplos é a mesma do corpus
+
+21
+
+056 [papa]
+
+‘arraia ’
+
+d) $___R
+
+269 [ta paj]
+
+‘galho de árvore ‘
+
+3.2.1.2 [p|] oclusiva, bilabial, oral, surda, não-explodida
+
+a) ___$
+
+018 [kep tio a]
+
+‘aconselhar alguém ‘
+
+b) ___#
+
+217 [wap]
+
+‘espancar, bater ‘
+
+3.2.1..3
+
+[pj] oclusiva, bilabial, oral, surda, explodida, (articulação dupla simultânea na fase medial).
+
+$___
+
+338 [ka pja]
+
+‘minha boca ‘
+
+3.2.1.4 [b] oclusiva, bilabial oral, sonora, explodida.
+
+a) #___
+
+143 [bwa]
+
+‘cipó venenoso usado para pesca ‘
+
+b) #___
+
+007 [bunaj]
+
+»abelha (geral)»
+
+c) $___
+
+511 [hoto wa ko bip]
+
+‘vento está fraco ’
+
+3.2.1.5 [t] oclusiva, alveolar, oral, surda, explodida. a) #___
+
+22
+
+076 [to]
+
+»bate»
+
+b) #___ 052 [tami] c) $___ 237 [wa ta]
+
+‘arara vermelha menor ’ »eu»
+
+d) $___
+
+346 [i ta]
+
+‘minha testa ’
+
+3.2.1.6 [t|] oclusiva, alveolar, oral, surda, não-explodida.
+
+a) ___$
+
+443 [kat na]
+
+‘está quebrando agora ‘
+
+b) ___# 183 [jat]
+
+‘dente ‘
+
+3.2.1.7 [t ] oclusiva, alveolar laminal, oral, surda, palatalizada (articulação dupla simultânea na fase medial).
+$___
+
+360 [pit e]
+
+‘mutuca ‘
+
+3.2.1.8 [d] oclusiva, alveolar, oral, sonora, explodida. a) #___
+
+303 [dawo ci]
+
+‘macaco da noite ‘
+
+b) #___
+
+23
+
+236 [dyy]
+
+‘estrondo ‘
+
+3.2.1.9 [c] oclusiva, palatal, oral, surda, explodida.
+
+a) #___
+
+253 [cijo]
+
+‘flecha ‘
+
+b) $___ 517 [ta ci]
+
+‘voar ’
+
+3.2.1.10 [c] oclusiva, palatal, oral, surda, não-explodida.
+
+___#
+
+009 [totic]
+
+‘abelha lambe-olho ’
+
+3.2.1.11 [cw] oclusiva, palatal, oral, surda, explodida, labializada (articulação dupla simultânea na fase medial).
+$ ___ i
+
+313 [awcy]
+
+‘mancar ‘
+
+3.2.1.12 [Ô] oclusiva, palatal, oral, sonora, explodida.
+
+$___ 319 [pii mon]
+
+‘mariposa ’
+
+3.2.1.13 [k] oclusiva, velar, oral, surda, explodida.
+
+a) #___
+
+116 [kamø]
+
+‘capivara ‘
+
+b) #___R
+
+345 [ka jø]
+
+‘minha orelha ‘
+
+24
+
+c) $___ 163 [hokø]
+
+‘coxa (minha) ‘
+
+d) $___R
+
+399 [t a kaj]
+
+‘pálpebra (osso do olho) ‘
+
+3.2.1.14 [k|] oclusiva, velar, oral, surda, não-explodida.
+
+a) ___$
+
+270 [kok tao]
+
+‘galinha ‘
+
+b) __#
+
+031 [hotic]
+
+‘amarelo ‘
+
+3.2.1.15
+
+[kw] oclusiva, velar, oral, surda, labializada (articulação dupla simultânea na fase medial).
+
+a) #___
+
+479 [kwai]
+
+‘tatu pequeno ‘
+
+b) $___ 126 [tke]
+
+‘castanha, castanheira ‘
+
+3.2.1.16 [g] oclusiva, velar, oral, sonora, explodida. $___
+
+378 [kte a]
+
+‘o pai dele (do menino) ’
+
+3.2.1.17 [/] oclusiva glotal.
+
+a) #___
+
+25
+
+060 [ew ]
+
+‘arroto ‘
+
+3.2.1.18 [/] oclusiva glotal presa.
+
+___#
+
+436 [pi]
+
+‘pulga ‘
+
+3.2.1.19 [m] oclusiva, bilabial, nasal, sonora, explodida.
+
+a) #___
+
+485 [ma kn]
+
+‘terra ‘
+
+b) #___ 039 [mIi]
+
+‘andorinha ‘
+
+c) $___
+
+038 [ty maw]
+
+‘andar para lá e para cá ‘
+
+d) $___
+
+015 [to maj]
+
+‘acender fogueira ‘
+
+3.2.1.20 [m|] oclusiva, bilabial, nasal, sonora, não-explodida.
+
+a) ___$
+
+070 [m pi na]
+
+‘banana assada ‘
+
+b) ___# 492 [ku mm]
+
+‘trovão, barulho’
+
+3.2.1.21 [mj] oclusiva, bilabial, nasal, sonora, explodida, palatalizada (articulação dupla simultânea na fase medial).
+
+a) #___
+
+26
+
+447 [mjak wata kat] ‘queixada ‘
+
+b) $___
+
+103 [oo mak]
+
+‘cachorro ‘
+
+3.2.1.22 [m ] oclusiva, bilabial, nasal, sonora, pós-glotalizada, não-explodida, colaringalizada.
+
+___#
+
+472 [tatm ]
+
+‘sorrir, risada ‘
+
+3.2.1.23 [n] oclusiva, alveolar, nasal, sonora, explodida.
+
+a) #___
+
+132 [na naw wi]
+
+‘céu, altura’
+
+b) $___ 062 [pana]
+
+‘árvore (geral) ‘
+
+3.2.1.24 [n] oclusiva, alveolar, nasal, sonora, não-explodida.
+
+a) ___$ 177 [tn ta j]
+
+‘daqui a um mês ‘
+
+b) ___#
+
+104 [pn]
+
+‘cair ‘
+
+3.2.1.25 [n] oclusiva, alveolar, nasal, sonora, pré-glotalizada, colaringalizada.
+
+#___
+
+311 [na ]
+
+‘mãe ‘
+
+27
+
+3.2.1.26 [*n] oclusiva, alveolar, nasal, sonora, pré-glotalizada sonora rangida, colaringalizada8.
+$___ 66 [di km *na ] Avó materna (minha) 3.2.1.27 [¯] oclusiva, palatal, nasal, sonora, não-explodida.
+
+___# 052 [tami]
+
+‘arara vermelha menor ‘
+
+3.2.1.28 [N] oclusiva, velar, nasal, sonora, não-explodida.
+
+__# 155 [maku]
+
+‘corda ‘
+
+3.2.1.29 [] oclusiva, vibrantizada, bilabial, oral, sonora.
+
+# __
+
+376 [i]
+
+‘o homem que faz o fio ‘
+
+3.2.1.30 [R] oclusiva, tepe, alveolar, oral, sonora.
+
+a) #_ __
+
+394 [a kapa]
+
+‘pacu ‘
+
+b) #C___V onde C = {p, b, m, t, k, }
+
+353 [pa ma]
+
+‘minha nuca ‘
+
+8 Com relação às realizações da oclusiva glotal //, Ladefoged & Maddieson (1996, 75-77) referem-se a uma aproximante glotal sonora rangida [*] em ambiente intervocálico. Este som aparece, também, em oro eo, na realização do fonema /n/ além de outras realizações que serão descritas em 4.3.3.
+
+28
+
+007 [bunaj] 039 [mIi]
+
+‘abelha (geral) ‘ ‘andorinha ‘
+
+250 [takom] 486 [ku wa] 254 [yy]
+
+‘flauta de bambu comprida’ ‘terra mole ‘ ‘flechar ‘
+
+c) $C___V onde C = {p, b, m, t, k, ,}
+
+326 [ta pa] 245 [saj ba] 492 [ku mm] 475 [a tawn] 019 [kIi ka]
+
+‘meu braço ‘ ‘estar com febre ‘ ‘trovão, barulho ‘ ‘surubim ‘ ‘acordar alguém ‘
+
+354 [to a]
+
+‘mosquito ‘
+
+d) V___V 010 [wam]
+
+»abotoar ‘
+
+3.2.1.31 [t] oclusiva, africada, pós-alveolar, oral, surda.
+
+#___
+
+034 [tø]
+
+‘andar ‘
+
+3.2.1.32 [t] oclusiva, africada, pós-alveolar, oral, surda, palatalizada.
+
+a) #___ 470 [tina]
+
+‘sol ‘
+
+29
+
+3.2.1.33 [dZ ] oclusiva, africada, pós-alveolar, oral, sonora, palatalizada.
+
+#___ 335 [di ta]
+
+‘meu rosto ‘
+
+3.2.1.34 [∏] fricativa, bilabial, oral, surda.
+
+a) $___
+
+257 [ta et pe]
+
+‘estou fora ‘
+
+b) #___R
+
+293 [yy]
+
+‘jogar flecha ’
+
+c) $___R
+
+354 [to a]
+
+‘mosquito ’
+
+3.2.1. 35 [∏w ] fricativa, bilabial, oral, surda, labializada (articulação dupla simultânea na fase medial).
+#___
+
+242 [wata]
+
+»farinha»
+
+3.2.1.36 [B] fricativa, bilabial, oral, sonora.
+
+#___
+
+129 [y na]
+
+‘catinga ‘
+
+3.2.1.37 [Bw ] fricativa, bilabial, oral, sonora, labializada (articulação dupla simultânea na fase medial).
+#___
+
+30
+
+365 [wa]
+
+‘não peguei, escapuliu da mão ‘
+
+3.2.1.38 [s] fricativa, alveolar, oral, surda.
+
+a) #___
+
+350 [su na]
+
+‘está molhado ‘
+
+b) $___
+
+096 [kawsaw]
+
+‘breu ou resina que se usa nas flechas ‘
+
+3.2.1.39 [s] fricativa, alveolar, laminal, oral, surda.
+
+a) #___
+
+178 [sk]
+
+‘de dia ‘
+
+b) $___
+
+267 [kaj sk]
+
+‘fumo, tabaco ‘
+
+3.2.1.40 [S] fricativa, pós-alveolar, oral, surda.
+
+a) #___ 282 [aj na] b) $___
+
+‘imitar o que alguém fala ‘
+
+435 [mim mim] ‘preto, escuro ‘ 3.2.1.41 [Sj] fricativa, pós-alveolar, oral, surda, palatalizada (articulação secundária). a) #___
+
+082 [inaj]
+
+‘bico de pássaro ‘
+
+31
+
+b) $___
+
+271 [kaj i kon kopa kaw] ‘gato ‘
+
+3.2.1.42 [Sw ] fricativa, pós-alveolar, oral, surda, labializada (articulação dupla simultânea na fase medial).
+
+#___
+
+348 [i jm]
+
+‘moça solteira ‘
+
+3.2.1.43 [Z] fricativa pós-alveolar, oral, sonora.
+
+a) #___
+
+304 [uwi]
+
+‘macaco prego ‘
+
+b) $___
+
+154 [om ai ma] ‘corajoso ‘
+
+3.2.1.44 [h] aproximante, surda, com ponto de articulação neutro9.
+
+#___
+
+023 [hakom]
+
+‘água ‘
+
+3.2.1.45 [h ] aproximante, surda, labializada (articulação dupla na fase medial), com ponto de articulação neutro .
+
+#___
+
+410 [hwm]
+
+‘peixe ‘
+
+9 Ao contrário da tradição ainda mantida no Alfabeto Fonético Internacional em vigor, consideramos que este som é aproximante e não fricativo, seguindo a posição de Laver (1994:245), segundo o qual “the sounds
+presented by the symbol [h] and [], which might also be thought to be place-neutral articulations, are often called ‘glotal fricatives’, because friction can sometimes be heard at the glottal location. But the position to be taken in this book is that is a category mistake, and that these are better thought of as approximants with whispery ation”.
+
+32
+
+3.2.1.46 [] aproximante, sonora, com ponto de articulação neutro .
+
+$___
+
+074 [too o]
+
+‘barata ‘
+
+3.2.1.47 [] aproximante, sonora, labializada (articulação dupla na fase medial), com ponto de articulação neutro .
+
+$___
+
+211 [toana na]
+
+‘eles estão agrupados ‘
+
+3.2.1.48 [j] soante, aproximante, palatal, oral, sonora.
+
+a) #__
+
+221 [jm] b) $___
+
+‘espírito, alma de defunto ‘
+
+164 [pij]
+
+‘criança ‘
+
+c) ___#
+
+047 [hi kaj]
+
+‘aquele, longe ‘
+
+3.2.1.49 [j] soante, aproximante, palatal, nasalizada, sonora, pós-nasalizada, não-explodida.
+
+___$
+
+037 [wew aj kom] ‘andar na água ‘
+
+3.2.1.50 [w] soante, aproximante, lábio-velar, oral, sonora, explodida.
+
+a) #___
+
+232 [wi]
+
+‘esteira ‘
+
+33
+
+b) $___
+
+152 [towo]
+
+‘cor branca ‘
+
+c) ___#
+
+038 [ty maw]
+
+‘andar para lá e para cá’
+
+3.2.1.51 [w ] soante, aproximante, lábio-velar, oral, sonora, pós-glotalizada, laringalizada, não-explodida.
+
+___#
+
+352 [naw]
+
+‘morcego ‘
+
+3.2.1.52 [w ] soante, aproximante, lábio-velar, nasalizada, sonora, pósnasalizada, não-explodida.
+
+___$
+
+067 [ku jew ka]
+
+‘avô materno (meu) ‘
+
+3.2.1.53 [*] aproximante, glotal, sonora, rangida.
+
+{V, C sonora}$___V 157 [mak i *y]
+
+‘cordão, corda ‘
+
+3.2.2 Descrição e ocorrências das vocóides. 3.2.2.1 [i] vogal anterior, alta, fechada, oral, não-arredondada, tensa.
+
+a) ___#
+
+220 [pi]
+
+‘espinho ‘
+
+b) ___$
+
+34
+
+193 [pijm]
+
+‘dormir ‘
+
+c) ___C#
+
+031 [hotic]
+
+‘amarelo ‘
+
+3.2.2.2
+
+[i] vogal anterior, alta, fechada, oral, não-arredondada, tensa, laringalizada.
+
+a) ___#
+
+436 [pi]
+
+‘pulga ‘
+
+b) ___$
+
+004 [ia wi]
+
+‘ à tarde ‘
+
+3.2.2.3 [y] vogal anterior, alta, fechada, oral, arredondada, tensa.
+
+a) ___#
+
+494 [a wy]
+
+‘tucano ‘
+
+b) ___$
+
+219 [tykø]
+
+‘espetar ‘
+
+3.2.2.4 [y] vogal anterior, alta, fechada, oral, arredondada, tensa, laringalizada.
+
+a) ___$
+
+107 [yma]
+
+‘calango ‘
+
+b) $___
+
+157 [mak i *y]
+
+Cordão, corda, linha, fio
+
+3.2.2.5 [y] vogal anterior, alta, fechada, nasalizada, arredondada, tensa.
+
+35
+
+a) ___C# onde C é uma nasal
+
+514 [tym]
+
+‘verde, azul ‘
+
+3.2.2.6 [y] vogal anterior, alta, fechada, nasalizada, arredondada, tensa, laringalizada.
+
+#C ___ N onde C = []
+
+080 [ym]
+
+‘beliscar ‘
+
+3.2.2.7 [] vogal anterior, entre alta e média-alta, fechada, oral, nãoarredondada, frouxa.
+___$C onde C é uma consoante nasal
+
+223 [asem na]
+
+’eu estou espirrando’
+
+3.2.2.8 [e] vogal anterior, média-alta, semi-fechada, oral, não-arredondada.
+
+a) ___#
+
+512 [i e]
+
+‘está vendo ‘
+
+b) ___$
+
+053 [temm]
+
+‘arco ‘
+
+3.2.2.9 [e] vogal anterior, média-alta, semi-fechada, oral, não-arredondada, laringalizada.
+___C#
+
+60 [ew ]
+
+‘arroto ‘
+
+3.2.2.10 [ø] vogal anterior, média-alta, semi-fechada, oral, arredondada.
+
+a) ___#
+
+36
+
+034 [tø] b) ___C# 384 [tOk]
+
+‘andar ‘ ‘olho ‘
+
+3.2.2.11 [ø] vogal anterior, média-alta, semi-fechada, oral, arredondada, laringalizada.
+___$
+
+170 [øjø]
+
+‘cupim
+
+3.2.2.12 [ø] vogal anterior, média-alta, semi-fechada, nasalizada, arredondada.
+
+___C# onde C é uma nasal
+
+406 [mømøm]
+
+‘pato ‘
+
+3.2.2.13 [] vogal anterior, média-baixa, semi-aberta, oral, não-arredondada.
+
+___#
+
+395 [t]
+
+‘pai ‘
+
+3.2.2.14 [] vogal anterior, média-baixa levantada, semi-aberta, nasalizada, nãoarredondada.
+
+___N
+
+182 [tm]
+
+‘deitar ‘
+
+3.2.2.15 [] vogal anterior, média-baixa levantada, semi-aberta, nasalizada, nãoarredondada, laringalizada.
+
+___$
+
+37
+
+144 [m]
+
+‘cobra ‘
+
+3.2.2.16 [a] vogal anterior, baixa, aberta, oral, não-arredondada.
+
+a) ___#
+
+013 [pa] b) ___C#
+
+’abrir ’
+
+183 [jat] c) ___$
+
+‘dente ‘
+
+023 [hakom]
+
+‘água ‘
+
+3.2.2.17 [a] vogal anterior, baixa, aberta, oral, não-arredondada, laringalizada.
+
+___$
+
+084 [awi na ti]
+
+’boa noite ’
+
+3.2.2.18 [] vogal central, entre média-baixa e baixa, semi-aberta, nasalizada, não-arredondada.
+
+___C# onde C é uma nasal
+
+276 [kn]
+
+‘grilo ‘
+
+3.2.2.19 [o] vogal posterior, média-alta, semi-fechada, oral, arredondada.
+
+a) ___C#
+
+288 [hop] b) ___#
+
+‘jacaré ‘
+
+38
+
+235 [pi jo]
+
+‘estrela ’
+
+c) ___$
+
+151 [tomi]
+
+‘conversar ‘
+
+3.2.2.20 [o] vogal posterior, média-alta, semi-fechada, oral, arredondada, laringalizada.
+
+___$
+
+065 [owi]
+
+‘ave anum ‘
+
+3.2.2.21 [o] vogal posterior, média-alta, semi-fechada, nasalizada, arredondada.
+
+___C# onde C é uma nasal
+
+091 [to kon]
+
+‘botão de roupa ‘
+
+3.2.2.22 [u] vogal posterior, alta, fechada, oral, arredondada, tensa.
+
+a) ___#
+
+021 [u]
+
+‘agradar uma criança ‘
+
+b) ___$ 081 [tumi]
+
+‘bicho preguiça ‘
+
+3.2.2.23 [u] vogal posterior, alta, fechada, oral, arredondada, tensa, laringalizada.
+
+___$
+
+058 [ue wn]
+
+‘arranhar-se com o mato ‘
+
+3.2.2.24 [u] vogal posterior, alta, fechada, nasalizada, arredondada, tensa.
+
+39
+
+___C onde C é uma nasal
+
+029 [awom]
+
+‘algodão ‘
+
+3.2.2.25 [] vogal posterior, entre alta e média-alta, fechada, oral, arredondada, frouxa.
+___$
+
+152 [t wo]
+
+‘cor branca ’
+
+3.2.2.26 [] vogal posterior, entre alta e média-alta, fechada, oral, arredondada, frouxa, laringalizada.
+___$
+
+199 [i ko]
+
+’ele ’
+
+3.2.3 Inventário dos sons
+
+Algumas observações: 1. todas as consoantes em oro eo possuem iniciação pulmonar egressiva; 2. consideramos as classes tradicionais das africadas, do tepe e das nasais
+como sub-classes oclusivas (cf. Laver, 1994); 3. como a aproximante [w] possui dupla articulação, bilabial e velar, será
+indicada no quadro de sons somente no ponto velar; 4. onde houver um par de sons, o primeiro possui fonação surda e o segundo,
+sonora; os demais são surdos ou sonoros de acordo com sua posição no quadro.
+
+3.2.3.1 Os sons consonantais
+
+40
+Foram atestados 53 sons consonantais que estão dispostos abaixo conforme foram definidos em 3.2.1.
+
+41
+
+p
+
+b
+
+t
+
+d
+
+c
+
+
+
+k
+
+
+
+
+
+m
+
+n
+
+p
+
+m
+
+t
+
+n
+
+n *n
+
+c
+
+
+
+k
+
+
+
+
+
+m 
+
+pj
+
+mj
+
+tj
+
+cw
+
+kw
+
+
+
+
+
+t
+
+t
+
+d
+
+
+
+
+
+s
+
+w
+
+w
+
+
+
+
+
+w
+
+s 
+
+j
+
+w
+
+*
+
+j w w
+
+Aproximante com ponto de articulação neutra
+
+h
+
+
+
+h
+
+
+
+42
+
+3.2.3.2. Os sons vocálicos
+
+Foram atestados 26 sons vocálicos que estão dispostos abaixo conforme foram definidos em 3.2.2.
+
+i i y y y y 
+e e ø ø ø     a a
+
+u u u   o o o
+
+3.3 O PADRÃO SILÁBICO
+3.3.1 Estrutura prosódica do lexema
+Para a definição do padrão silábico, em oro eo, seguimos o trabalho de Angenot-de Lima (1997)10 que estabeleceu a estrutura prosódica do lexema panchapakura.
+Aplicando a Regra de Demarcação Lexical Automática - “Insere um limite de lexema para cada sílaba pesada de um enunciado pronunciado em um registro fonoestilístico maxiarticulado” - (Angenot-de Lima, 1997, p.15)11
+10 Geralda de Lima Victor Angenot (1997). Fonotática e Fonologia do Lexema Protochapakura. GuajaráMirim: UNIR. Dissertação de mestrado. 11 op. cit.
+
+43
+decorrente do sistema unificado Panchapakura de restrições fonotáticas dos lexemas, postula-se:
+a) um lexema dissílabo é constituído pela seqüência de uma sílaba leve e de uma sílaba pesada;
+b) um lexema monossílabo é constituído por uma sílaba pesada. Deduzimos assim que:
+a) a sílaba pesada caracteriza sempre o final de um lexema, uma vez que o fator demarcativo do mesmo é o peso silábico;
+b) nunca podem ocorrer seqüências de duas sílabas leves; c) duas sílabas pesadas seguidas comprovam a seqüência de dois
+lexemas e d) uma sílaba leve significa que é a primeira sílaba de um lexema
+dissílabo. Concluindo, em oro eo, bem como em todas as línguas da família
+chapakura, é do peso silábico que se deduz a acentuação do lexema, uma vez que o mesmo é o “único fator prosódico fonológico nessa família lingüística” (Angenot-de Lima, 1997, p.18)12. O acento, sendo previsível, não é fonológico: uma sílaba leve é sempre átona e uma pesada é sempre tônica.
+3.3.2 Estrutura silábica do lexema em oro eo A estruturação silábica, em oro eo, está transcrita conforme convenções
+fonéticas C e V, onde C representa a classe dos segmentos não silábicos e as consoantes que podem ocorrer em posição onset e coda e V, a classe dos segmentos silábicos que ocorrem em posição de núcleo.
+Na constituição dos lexemas, no nível fonético, ocorrem as seguintes configurações silábicas:
+12 idem
+
+44
+a) CV (em dissílabos), CV, CVC, CCV b) CVCV:, CVCVC, CVCCV, CCVCV, CVCCVC, CCVCCV conforme os exemplos abaixo:
+CV [pa] ’abrir ‘ CVC [wim] ’agradecer ‘ CCV [da] ’amolar ‘ CVCV [papa] ’arraia ‘
+
+CVCVC [piat] ’andar em cima de um pau ‘
+
+CVCCV
+CCVCV
+CVCCVC
+
+[ta pa] ’meu braço ‘
+[ka jø] ’minha orelha ‘
+[ta paj] ’galho (de árvore) ‘
+
+CCVCCV [koo ma] ’entra ‘
+
+45
+
+CAPÍTULO 4: O SISTEMA FONÊMICO
+
+4.1. Considerações preliminares
+No capítulo precedente, foram descritos os fones do oro eo, independentemente de sua funcionalidade no sistema da língua. Neste capítulo, será verificado como eles se organizam e se distribuem no plano fonológico para ser determinado, ao final, o sistema fonêmico da língua.
+O prosseguimento a ser adotado para o estabelecimento das regras de realizações alofônicas é o da análise estrutural, conforme mencionado em 2.1.
+
+4.2. Sons próximos confirmados como fonemas através de pares mínimos e análogos.
+
+4.2.1 Consoantes
+
+4.2.1.1 [p] vs [k] [pa jø] vs [ka jø]
+
+‘meu lado esquerdo ’
+
+‘minha orelha ’
+
+portanto /p/ vs /k/
+
+4.2.1.2 [p] vs [t] [pa ma] ‘ minha nuca ’
+
+vs [ta ma]
+
+portanto /p/ vs /t/
+
+‘ homem ’
+
+4.2.1.3 [p] vs [d] [pa] ‘ vara ’
+
+vs [da] ‘amolar ’
+
+portanto /p/ vs /d/
+
+46
+
+4.2.1.4 [p] vs [b] [pam] ‘querer ’
+4.2.1.5 [p] vs [] [pam]
+‘querer ’
+
+vs [bam] ‘ mole ’
+vs [am]
+‘ queixo ‘
+
+portanto /p/ vs /b/ portanto /p/ vs //
+
+4.2.1.6 4.2.1.7
+
+[p] vs [] [pi] ‘espinho ’
+[m] vs [k] [ima] ‘esta ’
+
+vs [i] ‘homem que faz o fio de algodão ’
+vs [ika] ‘este ’
+
+portanto /p/ vs // portanto /m/ vs /k/
+
+4.2.1.8 [t] 4.2.1.9 [] 4.2.1.10 []
+
+vs [k] [tyn]
+
+vs [cyn]
+
+portanto /t/
+
+‘concha do
+
+‘escorpião’
+
+rio ‘ vs [n] [kaw wi a] vs
+
+[kaw wi na] portanto //
+
+'eu estou
+comendo '
+
+‘cuia, cabaça ’
+
+vs [t] []
+
+vs [t]
+
+portanto //
+
+‘bom ’
+
+‘pai’
+
+vs /k/ vs /n/ vs /t/
+
+4.2.1.11 [h]
+
+vs [c] [hy]
+
+vs [cy]
+
+‘fazer fogo’
+
+‘puxar’
+
+portanto /h/ vs /k/
+
+4.2.1.12 [] vs [t] [yna]
+
+vs [tina]
+
+portanto // vs /t/
+
+47
+
+‘catinga’
+
+‘sol’
+
+4.2.1.13 [w] vs [j] [taw]
+
+vs [taj]
+
+4.2.1.14 []
+
+‘flauta de bambu pequena’ Vs [tj] [ym]
+
+‘fumaça’
+vs [tym]
+
+‘ beliscar ‘
+
+‘ verde ‘
+
+portanto /w/ vs /j/ portanto // Vs /t/
+
+4.2.1.15 [w] vs [w] [naw]
+
+vs [taw]
+
+4.2.1.16 [s]
+
+‘morcego’
+
+‘flauta de
+
+bambu
+
+pequena’
+
+Vs [p] [sa]
+
+vs [pa]
+
+´irmão mais novo´
+
+´abrir´
+
+portanto /w/ vs /w/ Portanto /s/ vs /p/
+
+4.2.2 Vogais
+
+4.2.2.1
+
+[y] vs [i] [tapa y] vs [tapa i] portanto /y/ vs /i/
+
+‘ fugir’
+
+‘ casca’
+
+4.2.2.2
+
+[i] vs [a] [wi na]
+
+vs [wa na]
+
+portanto /i/ vs /a/
+
+‘ minha’ cabeça’
+
+‘caminho, estrada’
+
+4.2.2.3
+
+[a] vs [] [tee a] vs [tee ] portanto /a/ vs //
+
+‘máquina de
+
+‘ libélula’
+
+4.2.2.4 4.2.2.5
+
+48
+
+moer carne
+[i] vs [e] [ i] vs [e]
+
+‘vespa’
+
+’meu
+
+nariz’
+
+[ø] vs [y] [tø]
+
+vs [ty]
+
+‘andar’
+
+‘cabelo’
+
+portanto /i/ vs /e/ portanto /ø/ vs /y/
+
+4.2.2.6
+
+[o] vs [a] [to]
+‘bate’
+
+vs [ta]
+
+portanto /o/ vs /a/
+
+‘cortar lenha ‘
+
+4.3. Os fonemas consonantais e suas realizações alofônicas
+
+4.3.1 Quadro das consoantes
+
+Em posição de Onset silábico
+
+Em posição de Coda silábico
+
+– – – – – – – /i / / / / / /
+
+/i
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+y eø a o
+
+/
+
+y
+
+eø
+
+a
+
+o–
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+––––––
+
+/
+
+[
+
+p
+
+p
+
+p
+
+pp
+
+/
+
+]
+
+[
+
+p
+
+ppp
+
+p
+
+
+
+ 
+
+]
+
+[
+
+p
+
+pj
+
+j
+
+]
+
+/
+
+[
+
+b
+
+bb
+
+/
+
+]
+
+/
+
+[t
+
+t/ ]
+
+tt
+
+ttt
+
+49
+
+t/ ]
+
+[t
+
+t t t
+
+t t
+
+]
+
+[tj
+
+tj
+
+]
+
+/
+
+[
+
+dd
+
+/
+
+]
+
+dd
+
+/
+
+[
+
+kk
+
+/
+
+]
+
+kkkkk
+
+[
+
+kkkkk
+
+k
+
+  
+
+]
+
+[c c c ]
+
+[c
+
+cc
+
+]
+
+
+
+[  ]
+
+[
+
+
+
+]
+
+/
+
+[
+
+k
+
+k
+
+k k
+
+
+
+
+
+w
+
+w]
+
+/
+
+[c c
+
+w]
+
+w
+
+/ [ 
+
+
+
+/
+
+]
+
+[
+
+
+
+]
+
+
+
+/
+
+[ mmmmmmm
+
+mm
+
+/
+
+]
+
+[
+
+mm
+
+mmm
+
+m
+
+
+
+ 
+
+]
+
+[ m   ]
+
+[
+m j]
+
+/
+
+[
+
+nnn
+
+nn
+
+/
+
+]
+
+[ n
+]
+
+
+m j nn
+
+50  
+m  
+nnn
+ 
+
+Em posição de
+
+Em posição de
+
+onset silábico
+
+Coda silábico
+
+– – – – – – – /i / / / / / /
+
+/i
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+–y
+
+eø a o
+
+/
+
+y e ø
+
+a
+
+o
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+––––––
+
+/ [ n ]
+/
+[ n]
+[* n]
+
+ 
+
+n
+*
+n
+
+/ [  ]
+/
+
+/ []        
+/
+
+/ [t
+
+t
+
+t
+
+t
+
+t
+
+]
+
+/
+
+51
+
+[t t t
+
+]
+
+
+
+
+
+[]
+
+[
+
+]   
+
+
+
+
+
+
+
+[ 
+
+w]
+
+w
+
+/ [ ]
+/
+
+
+
+[
+w]
+
+/ [
+
+
+
+]
+
+/
+
+/ [s]
+
+s
+
+s
+
+/
+
+[s] s
+
+s
+
+[]
+
+[
+
+
+
+]
+
+[ [ ]
+]
+
+/ [  ]
+/
+
+[d d
+
+]
+
+
+
+/ [h h h
+
+h
+
+]
+
+/
+
+[h w]
+
+
+
+w
+sss
+[
+
+]
+
+hh h
+w
+
+52
+
+[
+
+
+
+w ]
+
+w
+
+[
+
+
+
+]
+
+[
+
+
+
+w]
+
+w
+
+/j [j] j
+
+jjjjj
+
+j
+
+j
+
+/
+
+[j
+
+j
+
+]
+
+
+
+/ [w w
+
+w
+
+wwww
+
+w
+
+w
+
+w]
+
+/
+
+/ [w
+
+w
+
+w
+
+]
+
+ 
+
+
+
+/
+
+4.3.2 Exemplificação das consoantes
+
+Em posição de Onset silábico
+
+/p — [pij]
+
+/
+
+i
+
+‘criança‘
+
+—
+y
+
+— [ka pe]
+e
+
+‘Fiapo no meio da macaxeira’
+
+— ø
+
+— 
+
+— [pa]
+a
+
+‘abrir‘
+
+—
+
+Em posição de
+
+coda silábico
+
+i [tip] —
+
+‘beijar‘
+
+y —
+
+e —
+
+ø —
+
+ [kp tio a] —
+
+‘aconselhar alguém’
+
+a [wap] —
+
+‘espancar‘
+
+o [a op] —
+
+‘camaleão‘
+
+o
+
+/b — 
+
+/
+
+i
+
+—
+y
+
+—
+e
+
+— ø
+
+— 
+
+—
+a
+
+— [bowa]
+o
+
+/t/ — 
+i
+
+—
+y
+
+— [temm ]
+e
+
+— ø
+
+— [met] 
+
+— [ta]
+a
+
+— [tonoj]
+o
+
+/d — 
+
+/
+
+i
+
+53
+
+‘espécie de árvore‘
+’arco‘ ’minhoca‘ ’cortar lenha‘ ’capim‘
+
+—
+i —
+y —
+e —
+ø —
+ —
+a —
+o —
+i [ipit] —
+y [cyti aj taot
+—]
+e [ket] —
+ø —
+ —
+a [jat] —
+o [toot] —
+i —
+
+’enfiar a mão dentro de um buraco‘ ´ajuntar palha´ ’faca‘
+‘dente‘ ‘aricuri’
+
+—
+y
+
+y —
+
+/d — 
+
+/
+
+e
+
+e —
+
+— ø
+
+ø —
+
+— 
+
+ —
+
+— [dawo ci]
+a
+
+‘macaco da noite‘
+
+a —
+
+— [dowi]
+o
+
+'poraquê '
+
+o —
+
+/k — [taci]
+
+/
+
+i
+
+— [kocy]
+y
+
+‘cavar um buraco ‘ ‘coruja‘
+
+i [totic] —
+y [tycp] —
+
+— [ket]
+e
+
+’faca‘
+
+e —
+
+— [hokø] ø
+
+‘minha coxa‘
+
+ø [køk] —
+
+— [kp tio a] 
+
+‘aconselhar alguém’
+
+ [sk] —
+
+— [kamø]
+a
+
+‘capivara‘
+
+a [taka wak] —
+
+— [ i ko]
+
+‘ele’
+
+o
+
+o [hok] —
+
+/k — 
+
+w/
+
+i
+
+— [awcwy]
+y
+
+— [tkwe]
+e
+
+´mancar´ ‘castanha’
+
+i —
+y —
+e —
+
+54
+‘abelha lambeolho‘ ´abelhinha preta´ ‘puxar‘ ´de dia´ ‘boi, vaca‘ ‘coxa ‘
+
+— ø
+
+— 
+
+— [tka]
+a
+
+—
+o
+
+/ — [ipit]
+
+/
+
+i
+
+— [ym]
+y
+
+— [ew]
+e
+
+— [øjø] ø
+
+— [m] 
+
+— [a ka]
+a
+
+— [omom na]
+o
+
+/
+
+— [tomi]
+
+m
+
+i
+
+/
+
+/
+
+—
+
+m
+
+y
+
+/
+
+— [mew]
+e
+
+— [kamø] ø
+
+— [kawm]
+
+‘chicha’
+Enfiar a mão dentro de um buraco ‘beliscar ‘ ‘arroto ‘ ‘cupim ‘ ‘cobra ‘ ‘chorar ‘ ‘ele mesmo ‘ ‘conversar ‘
+‘mexer ‘ ‘capivara ‘ ‘cumaru de cheiro ‘
+
+ø —
+ —
+a —
+o —
+i [pi] —
+y —
+e —
+ø —
+ —
+a —
+o —
+i [tim] —
+y [tym] —
+e —
+ø —
+ [m ] —
+
+55
+‘pulga ‘
+‘casa, maloca ‘ ‘verde, azul ‘ ‘cobra ‘
+
+
+
+— [mana]
+a
+
+— [mowi]
+o
+
+/n — 
+
+/
+
+i
+
+— [kanym]
+y
+
+— [yne]
+e
+
+— ø
+
+— 
+
+— [mana]
+a
+
+— [wino]
+o
+
+/ — [i]
+
+/
+
+i
+
+—
+y
+—
+e
+— ø
+— 
+—
+a
+
+cheiro ‘ ‘bravo ‘ ‘catarro ‘
+‘cacau ‘ ‘está podre ‘
+‘bravo ‘ ‘caju ‘ ‘o homem que faz fio’
+
+—
+a [wam] —
+o [tom na] —
+i —
+y —
+e —
+ø —
+ [min ] —
+a [wn ] —
+o [kp tio  — on]
+i —
+y —
+e —
+ø —
+ —
+a —
+
+56
+´abotoar ´ ‘ele acendeu ‘
+‘brigar ‘ ‘fazer sexo ‘ ´ajudar alguém´
+
+57
+
+—
+o
+
+// — [wai]
+i
+
+— [dyy]
+y
+
+— [wew e]
+e
+
+— ø
+
+— [mem ] 
+
+— [wa a]
+a
+
+— [too o]
+o
+
+/t
+
+— [tim]
+
+/
+
+i
+
+/
+
+— [tycp]
+
+t/
+
+y
+
+— [kaj tee]
+e
+
+— [titø] ø
+
+— 
+
+—
+a
+
+— [tumi]
+o
+
+/ — 
+
+/
+
+i
+
+‘gente ‘ ‘estrondo ‘ ‘abelha (espécie) ‘
+‘gritar ‘ ‘deita de costas ‘barata ‘ ‘de noite ‘ ´abelhinha preta´ ‘banana ‘ ‘cará ‘
+‘bicho preguiça ‘
+
+o —
+i —
+y —
+e —
+ø —
+ —
+a —
+o —
+i —
+y —
+e —
+ø —
+ —
+a —
+o —
+i —
+
+58
+
+— [y ne]
+y
+
+— [ta et pe]
+e
+
+— ø
+
+— 
+
+—
+a
+
+—
+o
+
+/ — 
+
+/
+
+i
+
+— [yna]
+y
+
+—
+e
+
+— ø
+
+— 
+
+—
+a
+
+—
+o
+
+/s/ — [tapa si kon]
+i
+
+—
+y
+
+— [sk]
+e
+
+‘está podre ‘ ‘estou fora ‘
+‘ catinga’
+‘penugem de pássaro ‘ ‘de dia ‘
+
+y —
+e —
+ø —
+ —
+a —
+o —
+i —
+y —
+e —
+ø —
+ —
+a —
+o —
+i —
+y —
+e —
+
+59
+
+— ø
+
+— 
+
+— [kawsaw]
+a
+
+— [so sk]
+o
+
+/ — [i ta]
+
+/
+
+i
+
+—
+y
+
+—
+e
+
+— ø
+
+— [] 
+
+— [amop]
+a
+
+— [ok sk]
+o
+
+/h — [hi kaj]
+
+/
+
+i
+
+— [hy]
+y
+
+—
+e
+
+— ø
+
+— 
+
+‘breu ‘ ‘de manhã ‘ ‘minha testa ‘
+‘bom, gostoso ‘ ‘nambu azul ‘ ‘lua crescente e minguante ‘ ‘aquele, longe ‘ ‘fazer fogo ‘
+
+ø —
+ —
+a —
+o —
+i —
+y —
+e —
+ø —
+ —
+a —
+o —
+i —
+y —
+e —
+ø —
+ —
+
+— [hakom]
+a
+
+— [hok]
+o
+
+/j/ — [ha ji]
+i
+
+—
+y
+
+— [a je]
+e
+
+— [k jø] ø
+
+— [pij] 
+
+— [jat]
+a
+
+— [pi jo]
+o
+
+/w — [wino]
+
+/
+
+i
+
+—
+y
+
+— [we]
+e
+
+— ø
+
+— [wn  ] 
+
+— [wana]
+a
+
+/w — [dawoci]
+
+/
+
+o
+
+60
+
+´água ‘ ‘coxa ‘ ‘bocejar ‘
+‘irmão mais velho ‘ ‘jacutinga ‘ ‘criança ‘ ‘dente ‘ ‘estrela ‘ ‘caju ‘
+‘veado vermelho ‘
+‘rachar ‘ ‘caminho, estrada ‘ ´macaco da noite´
+
+a —
+o —
+i —
+y —
+e [km pa ka*ej]
+—
+ø —
+ —
+a [waj na] —
+o [tonoj] —
+i [iw]
+—
+y —
+e [wewe]
+—
+ø —
+ —
+a [kawsaw] —
+o —
+
+´abrir passagem entre a multidão´
+‘eu estou chegando ‘ ‘capim ‘ ´piolho´
+´abelha jandaíra´
+‘breu ‘
+
+/w —
+
+/
+
+i
+
+—
+y
+
+—
+e
+
+— ø
+
+— 
+
+—
+a
+
+—
+o
+
+i
+—
+
+y
+—
+
+e
+—
+
+ø —
+
+ —
+
+a
+
+[naw]
+
+—
+
+o
+—
+
+61
+‘morcego’
+
+4.3.3 Regras de realizações alofônicas dos fonemas consonantais
+
+R01 / p, t, k, m, n / → [ p, t,c, k, m, n ]  — $
+
+Os fonemas oclusivos /p, t, k, m, n/ realizam-se com metástase não-explodida
+[p, t, {c, k}, m, n}] no contexto de final de sílaba.
+
+Exemplos:
+
+/pe tootop/
+
+[pe tootop]
+
+´ajoelhar ´
+
+/kat na/ /ok sk/
+
+[kat na]
+
+´está quebrando agora´ /hotik/
+
+[hotic]
+
+‘agora ’
+
+[ok sk]
+
+´lua crescente e minguante ´
+
+/wim/
+/pan tia/
+
+[wim]
+[pn tia]
+
+´agradecer ´ ‘andar com bastão’
+
+R02 / m / → [m ] / —$
+
+62
+
+→ [m]  — a
+
+O fonema oclusivo nasal /m/ realiza-se com metástase pós-glotalizada não-explodida,
+
+laringalizada [m] em contexto de final de sílaba e com metástase palatalizada [m] seguido
+
+de [a].
+
+Exemplos:
+
+/tatam /
+
+[ tatm]
+
+´sorrir, risada ´
+
+/omak/
+
+[oomak]
+
+R03 / n / → []  i —$ → []  {u, w} —$
+→ [jn]  # ___
+→ [*n]  [C  +nasal] — O fonema oclusivo nasal / n / realiza-se, em posição de coda, como palatal [] ou
+como velar [ ] com metástase não-explodida quando precedido de [ i ] ou
+de [{u‚ w}] respectivamente e torna-se pré-glotalizado / n/ em início de palavra e préglotalizado aproximante quando precedido de consoante nasal presa.
+
+Exemplos: /min/
+
+[mi]
+
+’anta, tapir ’
+
+/makon/
+
+[maku]
+
+´corda´
+
+/aw paa wa/
+/na/
+/i kam na/
+
+[aw pa wn] ´pássaro negro´
+
+[na] [di km *na]
+
+´mãe´ ´avó materna ´
+
+R04 / k / → [c]  —{ i, y } → []  i —i → []  {m — a, V — V }
+
+63
+
+O fonema oclusivo / k / torna-se palatal surdo [ c ] se for seguido
+
+das vogais{ i, y }, palatal sonoro [  ] entre dois [ i ] e velar sonoro [  ]
+
+quando precedido de [m] e seguido da vogal [ a ] e em contexto
+
+intervocálico.
+Exemplos: /taki/
+
+[taci]
+
+‘cavar um buraco ’
+
+/kokyn/
+
+[kocy]
+
+‘coruja ‘
+
+/wiki maj ket/
+
+[wii maj ket] ‘faca pequena ’
+
+/om kai ma/
+
+[om ai ma] ‘corajoso ’
+
+/tiko]
+
+[tio]
+
+’arar ‘
+
+R05 /  / → [  ]  $ —
+
+→ []  —$
+
+→ [*] V—V
+
+O fonema oclusivo /  / realiza-se tal e qual em início de sílaba, não-explodido
+
+[] em final de sílaba e como aproximante glotal sonora rangida
+
+[*
+
+] em ambiente intervocálico.
+
+Exemplo:
+
+/owi/
+
+[owi]
+
+´ave anum´
+
+/pi/
+
+[pi]
+
+´pulga´
+
+/mak i y/
+
+[mak i *y] ´cordão, corda´
+
+R06 / t / → [{, t, w}]  $ —{i, y} → [ ]  $ — o Em posição de onset silábico, o fonema oclusivo africado surdo
+/ t / torna-se fricativo surdo palatalizado [  ] ou oclusivo africado
+
+64
+
+palatalizado surdo [ t] ou fricativo surdo labializado quando seguido pelas
+
+vogais [{i, y}] e realiza-se como [  ] seuido da voal [o].
+
+Exemplos: / tinaj / / ty / /ti jam/
+/ ato aj wi/
+
+[inaj] [ty]
+[ w i jm] [ao aj wi]
+
+’bico de pássaro’ ‘cabelo’
+´moça solteira´ ´arrumar esteiras no chão´
+
+R07 /  / → [w] / — a
+
+→[]  —
+
+‘O fonema fricativo /  / torna-se labializado [w] quando seguido da vogal [ a ]
+
+e realiza-se como sonoro [  ] quando seguido do oclusivo tepe [  ].
+
+Exemplos: / ata /
+/ siw a /
+
+[wata] [siw a]
+
+’farinha’ ’rapaz’
+
+R08 / s / → [{ s, }]  $ — {i, y}
+
+→ [{ s, }]  # — n.d.c.
+
+O fonema fricativo /s/ torna-se laminal ou fricativo pós-alveolar palatalizado
+
+quando seguido pela vogais [{i, y}], e realiza-se como [{ s, }] nos demais contextos.
+
+Exemplos:
+
+/kawa si kam/ [ kawa si km] / [kawa i km]
+
+’cipó usado para amarrar barraca’
+
+/kaj sy/
+
+[kaj sy] / [kaj y] ’cupim (espécie)’ /sa/
+
+[sa] / [a]
+
+’irmão mais novo’
+
+R09 /  / → [ d ]  # — i
+
+65
+
+O fonema fricativo /  / torna-se o oclusivo africado palatalizado sonoro [ d] quando seguido pela vogal [ i ].
+
+Exemplo: /i ta/
+
+[di ta]
+
+’meu rosto’
+
+R10 / h / → [{ hw, w}]  # — 
+
+→ [ ]  V — V
+
+O fonema aproximante surdo com ponto de articulação neutro
+
+/h
+
+/ realiza-se como [{ hw, w }] em início de palavra seguido de [] e torna-se sonoro [  ] em
+
+contexto intervocálico.
+
+Exemplos: /ham/ [hwm] / [Bw m]
+
+’peixe ’
+
+/toho o/ [too o]
+
+’barata ’
+
+R11 / j, w/ / → [ j, w]  — $
+
+Os fonemas aproximantes /j, w/ realizam-se [ j , w ] com sua fase medial
+
+nasalizada por assimilação à sua metástase nasal não-explodida. Exemplos:
+
+/paj se ka ne/
+
+[paj se ka ne]
+
+’ontem’
+
+/ku jewka/
+
+[ ku jewka] ´avô materno (meu)´
+
+R12 / w / → [ w ]  — #
+
+O fonema aproximante pós-glotalizado / w / torna-se a aproximante pósglotalizada laringalizada, não-explodida em posição final de palavra. Exemplo:
+
+/naw/
+
+[naw]
+
+’morcego’
+
+4.3.4 Distribuição complementar
+
+66
+Por serem alofones de um mesmo fonema e ocorrerem em ambientes mutuamente exclusivos, estão em distribuição complementar os sons incluídos no quadro abaixo.
+
+Em posição de
+
+Em posição de
+
+Onset silábico
+
+Coda silábico
+
+– – – – – – – /i / / / / / /
+
+/i
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+y eø a o
+
+/
+
+y
+
+eø
+
+a
+
+o–
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+/
+
+––––––
+
+/
+
+[
+
++
+
++
+
+pp
+
+/
+
+]
+
+[
+
++
+
++
+
+p
+
+]
+
+/
+
+[t
+
+t/ ]
+
+++
+
+++
+
+[t
+
+++
+
+++
+
+]
+
+/
+
+[
+
+kk
+
+/
+
+]
+
++++++
+
+[
+
++++++
+
+k
+
+]
+
+[c + + ]
+
+[c
+
+++
+
+]
+
+/
+
+[
+
++
+
+k k
+
+w
+
+w]
+
+/
+
+/
+
+[c + w]
+
+/
+
+[
+
++
+
+
+
+/
+
+]
+
+[
+
++
+
+]
+
+/
+
+[
+
+++
+
+mm
+
+/
+
+]
+
++++
+
+[
+
+++
+
+m
+
+]
+
+/
+
+[
+
+++
+
+nn
+
+/
+
+]
+
+++
+
+[ n
+]
+
+[
+
+++
+
+]
+
+/ [t
+
+++
+
++
+
+t
+
+]
+
+/
+
+[t
+
++
+
++
+
+]
+
+[]
+
++++
+
+[
+
+]
+
++++
+
+/ [s]
+
++
+
+s
+
+/
+
+[s] +
+
+[]
+
++
+
+67
++++ ++
+
+68 [ +
+]
+4.3.5 Distribuição fonotática
+a) Em posição de onset silábico:
+p, b, t, d, k, kw , , m, n, , , t, s, , , , h, j, w
+b) em posição de coda silábica: p, t, k, , m, n, j, w, w
+
+69
+
+4.4 Os fonemas vocálicos e suas realizações alofônicas
+4.4.1 Quadro da distribuição exemplificada das vogais
+Vogais considerando o contexto do peso e da acentuação da sílaba.
+
+Sílaba Acentuada Pesada aberta:
+(CV) CV
+Sílaba Acentuada Pesada fechada: (CV) CVC
+Sílaba átona leve
+Aberta
+CV CV
+
+Vogais em posição de núcleo silábico
+
+Palavras monossilábicas
+
+Palavras dissilábicas
+
+[pi] [yy]
+
+‘espinho’ ‘flechar’
+
+[tumi]
+
+‘bicho preguiça’
+
+[we] [tø]
+
+‘vomitar’ ‘andar’
+
+[a je] [ti mø]
+
+‘irmão mais velho’
+‘coração’
+
+[t]
+
+‘pai’
+
+[pij]
+
+‘criança’
+
+[pa]
+
+‘abrir’
+
+[papa]
+
+‘arraia’
+
+[to]
+
+‘bate’
+
+[towo]
+
+‘cor branca’
+
+[tim ]
+
+‘chutar’
+
+[hotic]
+
+‘amarelo’
+
+[cy]
+
+‘escorpião’
+
+[kanym]
+
+‘cacau’
+
+[ew]
+
+‘arroto’
+
+[tøk]
+
+‘olho’
+
+[ø jø]
+
+‘cupim’
+
+[wn ] [taw]
+[kom]
+
+‘rachar’
+‘flauta de bambu pequena ‘cantar’
+
+[oopk] [tuaw]
+[hakom]
+
+‘cérebro, miolo’ ‘papagaio estrela’
+‘água’
+
+[piat] [yma]
+
+‘andar em cima de um pau’
+‘calango’
+
+[temm]
+
+‘arco’
+
+[øjø]
+
+‘cupim’
+
+CV CVC
+
+[kaji] [owi]
+
+4.4.2 Regras de realizações alofônicas dos fonemas vocálicos
+
+70
+‘anel’ ‘ave anum’
+
+R01 / i / → [  ]  # — $ C i
+
+A vogal tensa / i / pode tornar-se frouxa quando for átona e
+
+seguida por uma sílaba cujo núcleo é / i /.
+
+Exemplo: /wi tim/
+
+[w tim] ’nome de pessoa ’
+
+R02 / e / → [  ]  kw —
+
+ — k, p
+
+A vogal tônica / e / abaixa-se para [  ] quando for precedida pela oclusiva pós-labializada [kw ] ou seguida das oclusivas surdas não-
+
+explodidas [k] e [p].
+
+Exemplos: /tuke/
+
+[tukw]
+
+’castanheira ’
+
+/sek/
+
+[sk] ´de dia´
+
+/kep ti ho a/ [kp ti o a] ‘aconselhar alguém’
+
+R03 / e / → [  ]  — nasal
+
+A vogal tônica / e / realiza-se como média baixa levantada
+
+nasalizada [  ] quando seguida por uma oclusiva nasal.
+
+Exemplo: /boomen/ [boomn]
+
+’lontra’
+
+71
+
+R04 / a / → [  ]  — nasal A vogal tônica / a / levanta-se para [  ] e se nasaliza quando
+seguida por uma oclusiva nasal. Exemplo:
+/waam/ [wam] ’abotoar’
+
+R05 / o / → [ u ]  — nasal
+
+→ [{u ,  }]  # — $ { Co, n.d.c }
+
+→ [ o ]  — #
+
+A vogal tônica /o / levanta-se para [ u ] e se nasaliza quando seguida por uma oclusiva nasal; pode, ocasionalmente, tornar-se [ u ] quando for átona e seguida por uma sílaba cujo núcleo for outro / o /, e [  ] nos demais contextos; pode, também, ditongar-se em final
+
+de palavra.
+
+Exemplos: /makon/
+
+[maku]
+
+’corda ’
+
+/towo/
+
+[towo] / [tuwo] ’cor branca ’
+
+/bowa/
+
+[bwa]
+
+’cipó venenoso usado para pesca ’
+
+/pana wo/ [pana wo] ’lua’
+
+R06 / v / → [ v ]  — nasal Uma vogal é nasalizada quando seguida de uma oclusiva nasal na
+mesma sílaba. Exemplo:
+/hakom/ [hakom] ’água ’
+
+72
+
+/ia win/ [ia wi] ’à tarde ’
+
+/ym/ [ym]
+
+’beliscar ’
+
+73
+
+4.5 Quadro dos fonemas 4.5.1 Consonantes
+Foram atestados 20 fonemas consonantais que estão dispostos abaixo conforme foram demonstrados em 4.3.1.
+
+p
+
+b
+
+t
+
+d
+
+m
+
+n
+
+
+
+
+
+t
+
+
+
+
+
+s
+
+
+
+k
+
+
+
+kw
+
+h
+
+j
+
+w
+
+w
+
+4.5.2 Vogais Foram atestados 07 fonemas vocálicos que estão dispostos abaixo conforme foram demonstrados em 4.4.1
+
+iy
+
+eø
+
+o
+
+
+
+a
+
+74
+CAPÍTULO 5: UM CASO DE SÍLABA EMBUTIDA NO ONSET SILÁBICO
+5.1. CONCEITUANDO SÍLABA EMBUTIDA
+Oro eo apresenta um caso de sílaba flutuante embutida no onset silábico, resultante de dois processos diacrônicos e de três sincrônicos de enfraquecimento vocálico ligados a registros fonoestilísticos.
+O processo de enfraquecimento vocálico que dá origem a estas vogais embutidas, que parece ser uma constante nas línguas da família Chapakura e Wari, foi analisado por Angenot & Angenot (1997a)13 e por Angenot-Lima (1997)14 que basearam sua interpretação em Browman & Goldstein (1990)15 e Jetchev (1992)16. Angenot-Lima, ao reconstruir o lexe ma Protochapakura, constatou o seguinte em moré:
+1. “Em registro maxiarticulado, a primeira vogal deixa de ser flutuante para tornar-se uma réplica da vogal seguinte” (op. cit., p. 125);
+2. “Em registro relativamente casual, a vogaleco perde sua cromacidade original e torna-se a vogal neutra schwa, universalmente conhecida como o último sopro de vida de uma vogal antes de seu apagamento” (op. cit. p. 125) 13 Geralda de Lima Angenot & Jean-Pierre Angenot (1997a). “A reconstrução do peso silábico e da acentuação lexical em Protochapakura”. In: III Jornadas de Lingüística Aborigen, Buenos Aires, Argentina. 14 Geralda de Lima Victor Angenot (1997). Fonotática e Fonologia do Lexema Protochapakura. GuajaráMirim: UNIR. Dissertação de Mestrado. 15C. P. Browman & L. Goldstein (1990). “Gestural specification using dynamically-defined articulatory structures”. In: Journal of Phonetics, 18: 299-320. 16 Georgi Jetchev (1992). “Positions vocaliques flottantes et syllabation en français”. In: Quaderni de Laboratorio di Linguistica, 6: 119-132.
+
+75
+3. “Em registro miniarticulado, a vogal neutra schwa desaparece quase totalmente, manifestando apenas a “lembrança” de sua presença subjacente...” (op. cit., p. 126);
+4. “Desaparecem os resquícios flutuantes do minischwa... Cria-se, assim, o grupo consonantal canônico [tR]” (op. cit., p. 128).
+São cinco os processos envolvidos em oro eo, dois em nível diacrônico e três em nível sincrônico, provindos de três tipos de fonte do protochapakura.
+5.2. PROCESSOS DIACRÔNICOS PROTOWARI 5.2.1 Surgimento de sílaba por vocalização da catástase de oclusiva-tepe
+Exemplo: [ *tåmin ] > [ **tmin ] ’arara azul’
+Teleologia: a finalidade deste processo é: a) a supressão da violação da restrição ATAQUE SIMPLES que
+define: "um ataque silábico otimal é simples"; b) violação da restrição DISSÍLABA pela qual "uma palavra otimal
+não deve exceder duas sílabas".
+5.2..2 Deslocamento acentual dentro do sintagma determinativo
+Exemplo: [ *tI»pa˘ Ra ] > [ **tåpå »Ra˘ ] 'meu braço’ Teleologia: eliminar a antecedência de sílaba acentuada diante da oclusiva-tepe,
+para que se possa, em seguida, «alimentar» o primeiro processo sincrônico de embutimento de sílaba flutuante.
+
+76
+
+5.3
+
+Processos sincrônicos fonoestilísticos panwari com
+
+exemplificações em oro eo
+
+5.3.1 Embutimento de sílaba flutuante amoráica no ataque de sílaba iniciada por oclusiva-tepe
+
+Exemplos: [ tåpå »Ra˘ ] → [ tå» påRa˘ ] ‘meu braço’
+
+[ ∏Y»Ry˘ ]
+
+→ [ »∏YRy˘ ] 'caçar’
+
+[ tåRå»mi | ] → [ tåRå»mi| ] 'arara vermelha menor’17
+
+Teleologia: a finalidade deste processo é a supressão da violação da restrição DISSÍLABA(ω) pagando-se o preço da violação das restrições *REPETIR e *FLUTUANTE.
+
+Por definição ‘uma estrutura otimal não é subespecificada" , tratando-se aqui de sílaba amoráica, isto é, flutuante.
+
+5.3.2 Degenerescência de vogal flutuante por indeterminação do timbre
+
+Exemplos:
+
+[ tå» påRa˘ ] → [ tå» p´Ra(˘) ] ‘meu braço’
+
+[ »∏YRy˘ ]
+
+→ [ »∏´Ry(˘) ]
+
+'flechar’
+
+[ tåRå»mi| ] → [ t´Rå»mi| ] 'arara vermelha menor’
+
+Teleologia: a finalidade é a supressão da violação da restrição *REPETIR.
+
+Por definição, "otimalmente um movimento articulatório ou um traço perceptual não deve ser repetido quando quase adjacente".
+
+17 Em protowari /*tamin/ significa ´arara azul´, mas em ´oro eo´ recebe a signidicação de ´arara vermelha menor´.
+
+77
+Neste estágio do processo trata-se da degeneração do timbre da vogal-eco que perde sua coloração original e torna-se a vogal neutra schwa antes de seu desaparecimento total.
+
+5.3.3 Supressão de sílaba flutuante
+Exemplos: [ tå» p´Ra(˘) ] → [ tå» pRa ] ‘meu braço’
+
+[ »∏´Ry(˘) ] → [ »∏Ry ]
+
+’flechar’
+
+[ t´Rå»mi| ] → [ tRå»mi | ] ’arara vermelha menor’
+
+Teleologia: a finalidade é a supressão da violação da restrição *FLUTUANTE (σ).
+
+Com este processo a língua paga o preço da violação da restrição *ATAQUE SIMPLES, surgindo, assim, o grupo consonantal canônico, no caso dos exemplos acima, /t/ e //.
+
+A determinação desses processos só foi possível a partir da consideração dos três tipos de estrutura fonotática protochapakura ilustradas a seguir:
+a) sintagma determinativo constituído pela seqüência: - nome determinado
+- locução determinativa, composta por preposição −©a˘ + adjetivo (ou pronome determinador de pessoa ou gênero) (cf. Kempf & Angenot-de Lima, 2000)18; - nome determinador, se for precedido por adjetivo.
+
+18 Cathérine B. Kempf & Geralda Angenot-de Lima (2000). “As classes dos nomes coenunciadores e referidos em moré”. In: Anais do XV Encontro Nacional da ANPOLL. Niterói: Universidade Federal Fluminense.
+
+78
+
+Exemplo:  *ti»pan # ©a˘−/a˘ 
+
+’meu braço’
+
+b) lexema dissílabo constituído por sílaba leve átona (CV) + sílaba pesada tônica (CVCCV˘)
+
+Exemplo:  *pu»Ru˘  ’flechar’
+c) lexema monossílabo ou dissílabo com ataque em sílaba inicial de palavra constituído de um grupo consonantal formado por uma oclusiva e uma oclusiva-tepe.
+Exemplos  *tRa»min  ’arara azul’
+
+No grupo wari (oro eo), estes tipos de estrurura fonotática protochapakura convergiram em uma única estrutura˘
+
+oclusiva +vogalα +$ +tepe +vogalα
+
+Os cognatos abaixo ilustram os três tipos de estrutura fonotática protochapakura.
+
+meu braço
+
+flechar
+
+ *ti»pan # /a˘   *pu»Ru˘ 
+Proto-Chapakura
+
+Wari (Oro Eo)
+
+ tapan # »/a˘   y»Ry˘ 
+
+[ tåpå »Ra˘ ] [ tå »påRa˘ ] [ tå »p´Ra(˘) ] [ tå »pRa ]
+
+[ Y»Ry˘ ] [ »YRy˘ ] [ »´Ry(˘) ] [ »Ry ]
+
+Oro Win
+
+[ tIpå »Ra˘ ] [ tI »påRa˘ ]
+
+[ »pRy˘ ] [ »pRy˘ ]
+
+arara azul  *tRa»min 
+ taRa»min  [ tåRå»min| ] [ tåRå»min| ] [ t´Rå»min| ] [ tRå»min| ]
+[ tRå»min| ] [ tRå»min| ]
+
+Miguelenho Kuyubi Moré
+
+79
+
+[ tI »p´Ra(˘) ] [ tI »pRa ] [ tIpa(˘?)Ra ]
+? ? ?
+[ tI»pa˘ Ra ] [ tI»paR| Ra ] [ tI»paR|É Ra ] [ tI»pa Ra ] [ tI»pa˘ Ra ] [ tI»paR| Ra ] [ tI»paR|É Ra ] [ tI»pa Ra ]
+
+[ »pRy(˘) ] [ »pRy ] [ hi»Ri˘ ] [ »hiRi˘ ] [ »h´Ri(˘) ] [ »hRi ] [ pU»Ru˘ ] [ »pURu˘ ] [ »p´Ru(˘) ] [ »pRu ] [ ∏U»Ru˘ ] [ »∏URu˘ ] [ »∏´Ru(˘) ] [ »∏Ru ]
+
+[ tRå»min| ] [ tRå»min| ] [ tRå»min| ] [ tRå»min| ] [ tRå»min| ] [ tS|å»min| ] [ Så»min| ] [ Så»min| ] [ Så»min| ] [ Så»min| ] [ så»mÉWin| ] [ så»mÉWin| ] [ så»mÉWin| ] [ så»mÉWin| ]
+
+No quadro abaixo, passamos a demonstrar a realização dos processos, considerando os três tipos de fonte protochapakura, os inputs e outputs e os diferentes registros fonoestilísticos para, a seguir, traçar as árvores correspondentes.
+
+PROTOCHAPAKURA: Fonte A:
+
+PROTOCHAPAKURA: Fonte B:
+
+PROTOCHAPAKURA: Fonte C:
+
+INPUT LEXICAL: "meu braço"  *t i »p a n # © a˘ − / a ˘ 
+
+INPUT LEXICAL: "flechar"  *p u »R u˘ 
+
+INPUT LEXICAL: "arara (esp.)"  * t R a »m i n 
+
+80
+
+INPUT PÓS-LEXICAL:
+ *t i »p a n # © a˘ 
+
+σσ
+
+σ
+
+ω
+
+ω
+
+PROTOWARI:
+** »ω ω > ** ω »ω
+
+SD
+
+SD
+
+ORO EO:
+INPUT LEXICAL:  t a p a n # »© a˘ −» / a˘ 
+INPUT PÓS-LEXICAL:
+ t a p a n # »© a˘ 
+
+σσ
+
+σ
+
+ω
+
+ω
+
+OUTPUTS PÓS-LEXICAIS: • registro hiperarticulado: → [ t å p å »R a˘ ]
+
+σσ σ
+ωω
+• registro normal: → [ t å »p å R a(˘) ]
+
+σ
+
+σ
+
+ω
+
+ω
+
+INPUT PÓS-LEXICAL:
+ *p u »R u˘ 
+σσ ω
+
+INPUT PÓS-LEXICAL:
+ * t R a »m i n 
+σσ
+ω
+PROTOWARI:
+Processo de "timbrezação" da Catástase da oclusiva-tepe  R 
+
+ORO EO:
+INPUT LEXICAL:  p y » R y˘ 
+INPUT PÓS-LEXICAL:
+ p y » R y˘ 
+σσ
+ω
+OUTPUTS PÓS-LEXICAIS: • registro hiperarticulado: → [ ∏ Y »R y˘ ]
+σσ
+ω
+• registro normal: → [ »∏ Y R y(˘) ]
+σ
+ω
+
+ORO EO:
+INPUT LEXICAL:  t a R a»m i n 
+INPUT PÓS-LEXICAL:
+ t a R a»m i n 
+σσ σ
+ω
+OUTPUTS PÓS-LEXICAIS: • registro hiperarticulado: → [ t å R å »m i n| ]
+σσ σ
+ω
+• registro normal: → [ t å R å » m i n| ]
+σσ
+ω
+
+81
+Adotamos as seguintes abreviações nas arborescências a seguir:
+ω = palavra, σ= sílaba, A = ataque («onset» silábico), R = rima, μ = mora, X = unidade de «timing», c = catástase («onset» segmental) , r = constrição (raíz), m = metástase, © = consoante subespecificada, O = oclusiva, < X > < X > = alternativa exclusiva "ou X ou Y"
+
+ω
+
+ω
+
+ω
+
+σ1 <σ>
+
+A
+
+R
+
+A
+
+σ1 <σ> R
+
+σ2
+
+σ1 <σ>
+
+A RA R
+
+μ <μ>
+
+μ <μ>
+
+μ
+
+μ <μ>
+
+X XX
+
+X XX
+
+XXXX
+
+r c r mr
+
+r c r mr
+
+rrrr
+
+O
+
+R Vα
+
+O
+
+R Vα
+
+O Vα R Vα
+
+t Ra
+
+→
+
+t
+
+Ra
+
+→
+
+t aR a Surgimento de sílaba
+
+ω
+
+ω
+
+ω
+
+82
+
+σ2
+
+σ1 <σ>
+
+σ2
+
+σ1 <σ>
+
+σ1 <σ>
+
+ARAR
+
+AR A R
+
+μ
+
+μ <μ>
+
+μ
+
+μ <μ>
+
+X X XX
+
+X X XX
+
+A
+
+R
+
+σ2 A2 R2
+
+μ <μ>
+
+X XX X
+
+r r rr
+
+rrrr
+
+rrrr
+
+O Vα R Vα
+
+O Vα R Vα
+
+O Vα R Vα
+
+t a R a→ t a R a → t a R a
+
+Embutimento de sílaba flutuante
+
+ω
+
+ω
+
+ω
+
+σ1 <σ>
+
+σ1 <σ>
+
+σ1 <σ>
+
+A
+
+R
+
+A
+
+R
+
+A
+
+R
+
+σ2
+
+σ2
+
+μ <μ>
+
+μ <μ>
+
+μ <μ>
+
+83
+
+A2 R2
+
+A2 R2
+
+X X XX
+
+X X XX
+
+X XX
+
+r r rr
+
+rrrr
+
+rrr
+
+O Vα R Vα
+
+O Vα R Vα
+
+O R Vα
+
+taRa→taRa→ t Ra
+
+Supressão de sílaba flutuante
+
+84
+
+85
+
+86
+
+Concluindo, assinalamos que a vocalização do ataque da oclusiva tepe é constatada também em início de enunciados moré (Angenot-Lima, 1997)19, wari e oro eo onde / # # R _/ > [ || vR _ ]. Sabe-se que o tepe, sendo um
+segmento extremamente curto e frágil, necessita de um apoio vocálico para ser audível. Quando se encontra em contexto intervocálico, no interior de palavra, esta exigência já está atendida. O que acontece no início de enunciado após silêncio é a criação de uma vogal entre aspas, pois, quando o cérebro emite o comando para a produção, este comando é emitido simultaneamente para a língua e as cordas vocais; assim, enquanto o ápice da língua se desloca em direção à região alveolar para a produção articulatória do tepe, as cordas vocais já estão vibrando para a fonação sonora. É esta vibração que dá margem à criação daquela suposta vogal, pois o aparato vocálico já está se preparando para a produção da vogal seguinte.
+
+Alguns exemplos:
+
+/Rahop/
+
+> [a op]
+
+‘camaleão’
+
+/a pakyn/ /a kapa/ /a tawan/
+
+> [a pacy]
+
+‘tambaqui’
+
+> [a kapa]
+
+‘pacu ’
+
+> [a tawn] ‘surubim’
+
+Nas figuras abaixo, pode-se comparar a realização desta vocalização do tepe em registro hiperarticulado (duração maior, cf. fig. 5.1) e hipoarticulado (duração menor, quase desaparecendo, cf. fig. 5.2).
+
+19 op. cit.
+
+87
+
+88
+5.4. Constatando, acusticamente, a atualização da vogal embutida20
+
+Perceptualmente, as vogais embutidas tendem a desaparecer completamente, mas uma vez que existem na realidade psicológica do falante, seus indícios acústicos permanecem.21 A resistência ao desaparecimento total destas vogais corrobora a restrição fonotática que proíbe grupos consonantais na língua em registro hiperarticulado e casual ou normal.
+Como foi demonstrado em 5.1, este enfraquecimento vocálico acontece, em oro eo, com o grupo consonantal constituído de oclusiva ou da fricativa // seguida de tepe. Vejamos alguns exemplos:
+
+[tami] [koo ma] [yy] [to a]
+
+‘arara vermelha menor’ ‘entra’ ‘flechar’ ‘mosquito’
+
+Nos oscilogramas e curvas de intensidade das palavras [takom] ‘flauta de bambu comprida’ (cf. fig. 5.3) e [koo ma] ‘entra’ (cf. fig. 5.4), observa-se a vogal enfraquecida desfazendo os grupos consonantais, independentemente de ser audível ou não. Observe-se a duração reduzida e a intensidade da vogal em estudo (Q. 5.1). A diferença da proporção de duração das vogais embutidas em [koo ma] (34ms para 109ms na primeira palavra e 37ms
+
+20 Ao final do processo, vimos que a sílaba flutuante se reduz a uma vogal embutida; por isso, usamos um
+termo pelo outro indiferentemente. Logicamente, o que se constata da Gramática da Produção são os requíscios acústicos de uma vogal embutida e não de uma sílaba. 21 A análise acústica das vogais embutidas foi realizada através do programa Speech Analyser 1.06a e
+Wincecil 2.2.
+
+89
+
+para 196ms na segunda) está ligada à tonicidade das sílabas22, as vogais sendo mais longas em sílaba acentuada. Além da tonicidade há que se considerar, também, que a vogal embutida é mais longa (sempre acima de 40ms) em contexto de palavra que se torna monossilábica após o processo de enfraquecimento vocálico. É o caso, por exemplo, de [yy] ‘flechar’ onde a vogal [y] mede 47ms.
+Assim, em todos os exemplos apresentados que, aparentemente, são dissilábicos, às vezes trata-se, morfologicamente, de palavras compostas (é o caso. por exemplo, de [koo ma].
+
+Palavra
+
+V
+
+[takom]
+
+[]
+
+‘flauta de bambu comprida’ [a]
+
+[o]
+
+[koo ma]
+
+[o]
+
+‘entra’
+
+[o]
+
+[]
+
+[a]
+
+[yy]
+
+[y]
+
+‘flechar’
+
+[y˘]
+
+Duração (ms) 35 72 111
+34 109 37 196
+47 193
+
+Intensidade (dB) 27,4 24,6 31,1
+22,6 29,6 18,8 16,4
+18 23
+
+Quadro 5.1. Medidas de duração e intensidade da vogal embutida e das vogais plenas
+Foram comparadas a duração e a intensidade das vogais plenas fora do grupo consonantal em questão com as das vogais plenas dos grupos e com
+22 A estrutura silábica do lexema das línguas da família Chapakura pela Regra de Demarcação Lexical Automática foi analisada por Geralda de Lima Victor Angenot (1997) (cf. nota no 2).
+
+90 as das embutidas, constatando-se que a vogal embutida possui a duração sempre menor que a das outras, o que é pertinente, mas a intensidade, sendo variável, quase sempre maior, parece não ter nada a ver com o caso em questão, sendo apenas um fato prosódico da língua23.
+Como verificavam-se exemplos de vogais embutidas não audíveis relativamente longas (mais de 50ms), foi necessária a determinação da duração intrínseca das vogais orais plenas para se justificar, por exemplo, a duração de 71ms de [i] no monossílabo [pi] ‘subir’, de 51ms de [o] no “dissílabo” [boomn] ‘lontra’ e de 32ms de [a] no “dissílabo” [pa ma] ‘minha nuca’.
+Apresentamos, a seguir, documentos acústicos de algumas
+realizações 24.
+23 Cf. nota 01 do capítulo 2. 24 Nas figuras, a vogal embutida foi representada por [´] por questões de limitação do programa utilizado.
+
+91 Figura 5.3 [takom] ‘flauta de bambu comprida’
+
+92
+Figura 5.4 [koo ma] ‘entra’ Em registro normal, há casos em que a vogal embutida é audível como em [kaRa»jO] ‘minha orelha’, apresentada na figura 5.5. Os valores dos formantes da vogal embutida [a] comprovam a repetição do timbre da vogal seguinte [a]: [a] F1 = 570 Hz F2 = 1710 Hz F3 = 2680 Hz
+
+93 [a] F1 = 600 Hz F2 = 1690 Hz F3 = 2390 Hz
+Figura 5.5 [ka jø] ‘orelha’
+
+94 Em [dyRy˘] ‘estrondo’ (cf. Fig. 5.6) temos exemplo de vogal embutida não audível em registro normal, com os seguintes valores de formantes, que também comprovam a repetição de timbre vocálico: [y] F1 = 387 Hz F2 = 1787 Hz F3 = 2777 Hz [y] F1 = 409 Hz F2 = 1744 Hz F3 = 2863 Hz
+Figura 5.6 [dyy] ‘estrondo ’
+
+95 Há casos que, em registro normal (casual), a vogal em questão é percebida como um minischwa [´], como em [ku mm] ‘trovão, barulho’ (cf. fig. 5.7) e [ta ma] ‘cantiga’ (cf. fig. 5.8). Observe-se que os espectros são de formantes equidistantes, característica de schwa, (na fig. 5.7, a distância entre os formantes é de 924 Hz, e na fig. 5.8, é de 952 Hz), mas, pelos espectrogramas, verifica-se que o F1 de [´] é o mesmo do da vogal seguinte, e seu F2 está bem próximo do F2 da mesma. Só foi encontrado este timbre vocálico após oclusiva nasal, e são bem poucos os exemplos (04 palavras em um corpus de 74)25. Registra-se, neste caso, uma diferença entre a produção e a percepção da vogal, estando a percepção do minischwa ligada à catástase da oclusiva nasal.
+25 O corpus das vogais embutidas é de 105 dados, porém, incluindo frases.
+
+96 Figura 5.7 [ku mm] ‘trovão, barulho’
+
+97
+Figura 5.8 [ta ma] ‘cantiga’ Há casos em que essas vogais não são audíveis nem em registro lento (hiperarticulado); sua duração é bem menor do que nos outros casos, não ultrapassando 30ms, mas seu resquício acústico não desaparece. Em [bunaj] ‘abelha’ (cf. fig. 5.9), a vogal [u] mede 26ms e em [ti pm] ‘beijar (está beijando ela)’ (cf. fig. 5.10), mede 19ms. Observe-se que a estrutura formântica é réplica da da vogal nuclear seguinte.
+
+98 Figura 5.9 [bunaj] ‘abelha’
+
+99 Figura 5.10 [ti pm] ‘beijar (está beijando ela) ‘
+
+100
+CONCLUSÃO
+Apesar de termos um corpus relativamente reduzido, conseguimos constatar que em oro eo também há sons considerados exóticos tais como a fricativa vibrantizada // e sons pré e pós-glotalizados como nas outras línguas da mesma família.
+Pela análise das vogais embutidas no onset da sílaba, com a comprovação acústica dos dados, foi demonstrado que:
+1. a vogal embutida no onset possui a duração sempre menor que a da vogal nuclear da sílaba;
+2. a intensidade não tem nada a ver com a atualização da vogal embutida, sendo apenas um fato prosódico da língua;
+3. só se constatou acusticamente um minischwa após oclusiva bilabial nasal, embora esta indeterminação de timbre aconteça, fonologicamente, em todos os casos;
+4. mesmo as vogais de duração reduzida, já em fase de desaparecimento total, são caracterizadas como todas as outras, pelo seu timbre, como réplica da vogal nuclear da sílaba seguinte;
+5. como regra geral, a vogal embutida não é audível em registro casual e hipoarticulado, o sendo, porém, em registro hiperarticulado;
+6. há casos em que essa vogal, por ter uma duração insignificante, não é mais audível nem mesmo em registro hiperarticulado.
+Concluimos, assim, que a vogal flutuante embutida no onset silábico atualiza-se com um timbre que a caracteriza como uma réplica da vogal
+
+101
+nuclear seguinte, uma vogal-eco e que, com a evolução da língua, provavelmente haverá o desaparecimento total desta vogal, no nível fonológico, deixando de existir a restrição fonotática que proíbe grupos consonantais em oro eo em registros hiperarticulado e normal, passando a existir um novo padrão silábico CCV. Ressalte-se que, no nível fonético, haverá sempre o resquício acústico da vogal emnutida que é a vocalização do ataque da oclusiva tepe.
+A tonicidade, o contexto e a duração intrínseca vocálica foram fatores determinantes para a análise da atualização das vogais embutidas em oro eo.
+Como uma pesquisa é dificilmente finita, deixamos como perspectivas para o futuro a necessidade da continuidade da coleta de um corpus a nível de frase para estudos prosódicos, morfofonológicos, sintáticos e semânticos para uma tentativa de estabelecimento da gramática do oro eo.
+
+102
+BIBLIOGRAFIA
+ANGENOT, J.-P. (1995). “Fonologia Intersegmental: Tratamento Trifásico da Raiz e de suas Transições”. Guajará-Mirim: UNIR Working Papers in Amerindian Linguistics.
+_______________(1996a). Levantamento de Candidatos a Cognatos Chapakura. Guajará-Mirim: UNIR Working Papers in Amerindian Linguistics.
+_______________(1996b). Subsídios para uma Morfologia Comparada Moré-Miguelenho / Wanham. Guajará-Mirim: UNIR Working Papers in Amerindian Linguistics.
+_______________(1996c). “A Geometria da Raiz e do Overlap: Evidências intersegmentais de Línguas Amazônicas”. In: Anais do X Encontro Nacional da ANPOLL. João Pessoa.
+ANGENOT, J.-P & G. A.-de LIMA (2000). “A teoria da otimalidade sob o ângulo da Fonologia Funcional: exemplificações Chapakura”. In: Anais do XV Encontro Nacional da ANPOLL. Niterói: Universidade Federal Fluminense.
+ANGENOT, J.-P & D. Ma. MÜLLER (1994). Documentação da Língua Moré: Notas de Fonética e Fonologia. Guajará-Mirim: UNIR Working Papers.
+ANGENOT, J.-P. & C. FERRAREZI JR. (1997) “A descoberta de línguas 100% isolantes: a família Chapakura da Amazônia”. In: A. Gerzenstein (ed.) III Jornadas de Lingüística Aborigen. Buenos Aires, Argentina.
+ANGENOT-DE LIMA , G (1997). Fonotática e Fonologia do Lexema Protochapakura. Guajará-Mirim: UNIR Working Papers in Amerindian Linguistics. Dissertação de Mestrado.
+ANGENOT-DE LIMA , G. & J.-P. ANGENOT (1997). “A reconstrução do peso silábico e da acentuação lexical em Protochapakura”. In: A. Gerzenstein (ed.) III Jornadas de Lingüística Aborigen, Buenos Aires, Argentina.
+ASCI, A. (1996). “Groupes consonantiques et épenthèse en Turc”. In: XXIèmes Journées d’Études sur la Parole, Avignon, França.
+BOERSMA, P. (1998). Functional phonology: Formalizing the interactions between articulatory and perceptual drives. The Hague: Holland Academic Graphics.
+BROCK, G. (1989). “Optimalisation d’une station analogique de traitement du signal acoustique”. In: Mélanges de Phonétique Générale et Expérimentale offerts à Péla Simon. Strasbourg, França: Institut de Phonétique.
+BROWMAN, C. P. & L. GOLDSTEIN, (1990). “Gestural specification using dynamically-defined articulatory structures”. In: Journal of Phonetics, 18: 299320.
+
+103
+CAGLIARI, L. C. (1997). Análise Fonológica: introdução à teoria e à prática com especial destaque para o modelo fonêmico. Campinas: Edição do autor.
+CRÉQUI-MONTFORT, G. de & P. RIVET (1913). “Linguistique bolivienne. La famille Chapakura”. In: Journal de la Société des Américanistes de Paris. 10: 119-71.
+CRYSTAL, D. (1985). Dicionário de Lingüística e Fonética. Trad. rev. 2a. ed inglesa. Rio de Janeiro: Jorge Zahar Editor Ltda.
+DUBOIS, J. et alii (1973). Dictionnaire de Linguistique. Paris: Larousse. EVERETT, D. & B. KERN (1996). The Wari’ language of western Brazil (Pacaas Novos). London:
+Routledge. EVERETT, D. (ed.) (1997). The Journal of Amazonian Languages. Pittsburgh: University of Pittsburgh.
+V.1. FERRAREZI JR. (1998). A Interface Semântica/Morfossintaxe. Guajará-Mirim: UNIR. Tese de
+Doutorado (inédita). JAKOBSON, R. (1972). Fonema e Fonologia. Rio de Janeiro: Livraria Acadêmica. JETCHEV, G. (1992). “Positions vocaliques flottantes et syllabation en français”. In: Quaderni de
+Laboratorio, 6: 119-132. KEMPF, C. B. & G. A.-de LIMA (2000). “As classes dos nomes coenunciadores e referidos em
+moré”. In: Anais do XV Encontro Nacional da ANPOLL. Niterói: Universidade Federal Fluminense. KERN, B. (1996). Versão preliminar do Dicionário da Língua Wari (Pacaas Novos). Guajará-Mirim: Missãp Novas Tribos (mimeo). KINDELL, G. E. (1981). Guia de Análise Fonológica. Brasília: Summer Institute of Linguistics. LADEFOGED, P. & D. EVERETT, (1996). “The Status of Phonetic Rarities”. In: Language, v.72, n.4 794-800. LADEFOGED, P. (1971). Preliminaries to linguistic phonetics. Chicago: The University of Chicago Press. LADEFOGED, P. & I. MADDIESON (1996). The sounds of the World’s Languages. Oxford Blackwell Publisher. LASS, R. (1885). Phonology: An Introduction to Basic Concepts. Cambridge: Cambridge University Press. LAVER, J. (1994). Principles of Phonetics. Cambridge: Cambridge University Press. LEITE, Y. (1995). “Estrutura Silábica e Articulação Secundária em Tapirapé”. In: Estudos Fonológicos das Línguas Indígenas Brasileiras. Rio de Janeiro: Editora UFRJ. MACEACHERN, M.R., KERN, B. & P. LADEFOGED, (1997). “Wari’ Phonetic Sructures”. In: Daniel Everett (ed.) (1997). The Journal of Amazonian Languages. Pittsburgh: University of Pittsburgh.
+
+104
+MAEDA, C. T. & I. M. TELES (2000). “Um caso de sílaba embutida no onset silábico”. In: Anais do XV Encontro Nacional da ANPOLL. Niterói: Universidade Federal Fluminense.
+MAIA, E. M. (1985). No Reino da Fala, a Linguagem e seus Sons. São Paulo: Editora Ática. MEIRELES, D. M. (1989). Guardiães da Fronteira Rio Guaporé, século XVIII. Petrópolis: Editora Vozes. __________________(1986). Os Pakaas-Novos. Fundação Universidade de Brasília. Dissertação de
+mestrado. MÜLLER, D. (1995). Fonêmica da Língua Moré. Florianópolis: Universidade Federal de Santa
+Catarina. Dissertação de Mestrado. PIKE, K. L. (1943). Phonetics: a critical analysis of phonetic theory and a technic for the practical
+description of sounds. Michigan: The University of Michigan Press. ___________(1947). Phonemics: a technic for reducing languages to writing. Michigan: The University of
+Michigan Press. RODRIGUES A. D. (1986). Línguas Brasileiras: Para o conhecimento das línguas indígenas. São Paulo:
+Edições Loyola. ___________________(1992). “Diversidade Lingüística na Amazônia”. In: Anais do Seminário
+Internacional sobre Meio ambiente, Pobreza e Desenvolvimento da Amazônia (SINDAMAZÔNIA). Belém: PRODEPA. ___________________(1966). “Tarefa da Lingüística no Brasil”. In: Estudos Lingüísticos. São Paulo. VILAÇA, A. (1992). Comendo como gente. Rio de Janeiro: Editora da UFRJ. WEISS, H. E. (1980). Fonética articulatória: guia e exercícios. Brasília: Summer Institute of Linguistics. WETZELS, L. (1995). Estudos Fonológicos das Línguas Indígenas Brasileiras. Rio de Janeiro: Editora UFRJ. ______________(1995). “A teoria fonológica e as línguas indígenas brasileiras”. In: Estudos Fonológicos das Línguas indígenas Brasileiras. Rio de Janeiro: Editora UFRJ. ______________ (1995). “Oclusivas intrusivas em Maxacalí”. In: Estudos Fonológicos das Línguas Indígenas Brasileiras. Rio de Janeiro: Editora UFRJ. ______________ (1995). “Contornos Nasais e Estrutura Silábica em Kaingáng”. In: Estudos Fonológicos das Línguas Indígenas Brasileiras. Rio de Janeiro: Editora UFRJ.
+
+105
+ANEXOS
+NÚMERO 01 – CORPUS DE DADOS
+
+106
+CORPUS DE DADOS
+
+Legenda:
+
+No de ref. Disq. DC --RL
+
+= número de referência = disquete em que se encontra gravado o dado = Drive C = dado apenas coletado, não estando gravado = Registro Lento
+
+No
+001 A águia do rio comeu o rato nojento 002 A onça matou a arara. 003 A pata da onça 004 À tarde 005 Abelha (espécie) 006 Abelha (espécie)
+007 Abelha (geral) 008 Abelha jandaíra 009 Abelha lambe-olho 010 Abelhinha preta 011 Abotoar 012 Abra a porta 013 Abra o olho 014 Abrir 015 Abrir passagem entre a multidão 016 Acenda lamparina 017 Acender fogueira 018 Acender tocha 019 Acocora- se 020 Aconselhar alguém
+
+No. Ref. Disq. Pro02/-- [koaw kw pi naj maka je]
+
+Pro06/-- [pa pi non tami kopa kaw]
+
+Pro23/-- [we na kopa kaw]
+
+Pro1 3/ 08 [ia wi] 358 / 05 [win wi n]
+
+359 / [wew e]
+
+05
+
+003 / 14 [bunaj]
+
+---
+
+[wew e]
+
+---
+
+[totic]
+
+--- [tycp]
+
+--- [wam]
+
+---
+
+[pa i mn]
+
+---
+
+[pa i tok]
+
+[pa] --- [km pa ka*ej] 215 / DC [to maj dåama]
+
+---
+
+[to maj]
+
+183 / DC [mim ta ma na na]
+
+--- [taka na pe na]
+
+---
+
+[kp tio a]
+
+021 Acordar alguém 022 Agasalhar 023 Agora
+024 Agradar uma criança 025 Agradecer 026 Água
+027 Ajoelhar
+028 Ajudar 029 Ajudar alguém 030 Ajuntar palha 031 Alegre (estar alegre) 032 Aleijar (está aleijado) 033 Alergia 034 Algodão 035 Amanhã
+036 Amarelo 037 Amolar
+038 Ananás 039 Andar 040 Andar com bastão 041 Andar em cima de um pau 042 Andar na água 043 Andar para lá e para cá 044 Andorinha
+
+107
+
+---
+
+[kIi ka]
+
+--- [peon *awom ma]
+
+Pro08/-- [pajs ki a]
+-
+
+RL [paj si ki a]
+
+--- [u]
+
+--- [wim]
+
+004 / 14 [hakom]
+
+184 / 16 [pe tootop]
+
+---
+
+[kp tio]
+
+--- [kp tio on]
+--- [cyti aj taot] --- [cic te ma]
+
+--- [kaama pe na]
+--- [cy cyip]
+
+005 / 14 [hawom]
+
+Pro10 /-- [s kaje] 006 / 14 [hotic]
+
+406 / [da]
+
+DC
+
+001 / 14 [kaj kati]
+
+007 / 14 [tø]
+
+---
+
+[pn tia]
+
+--- [piat]
+
+---
+
+[wew aj kom]
+
+---
+
+[ty maw]
+
+008 / 14 [mIi ]
+
+108
+
+045 Anel 046 Animal macho 047 Anta do igarapé 048 Anta, tapir 049 Antes de ontem
+050 Apagar o fogo 051 Apagar 052 Aquele, longe 053 Aranha caranguejeira 054 Aranha pequena 055 Arar 056 Arara amarela 057 Arara vermelha menor 058 Arco 059 Areia 060 Aricuri (folha de palmeira) 061 Arraia
+062 Arrancar mandioca 063 Arranhar-se com o mato 064 Arrebentar com força 065 Arroto 066 Arrumar esteiras no chão 067 Árvore (geral) 068 Árvore grande = arapuí 069 Árvore mesmo 070 Ave anum 071 Avó materna (minha)
+
+--- [kaji]
+
+178 / 15 [tamaj jø]
+
+---
+
+[kaw ja]
+
+009 / 14 [mi]
+
+Pro09/ 08
+
+[paj se ka pa ne]
+
+507 / 12 [hi jo pi ajs]
+
+DC [jo]
+
+011 / 14 [hi kaj]
+
+367 / 05 [piwn piwn]
+
+368 / 06 [oop sa]
+
+---
+
+[tio]
+
+013 / 14 [oo makn]
+
+015 / 14 [tami]
+
+016 / 14 [temm]
+
+017 / 14 [nama jø]
+
+161/ 15 [toot]
+
+18/14 e357/5
+---
+
+[papa] [ho too kop]
+
+--- [ue wn]
+--- [wak pit]
+
+019 / 14 [ew] --- [ao aj wi]
+020 / 14 [pana] 241 / 16 [kaa pakn] Pro37a/--- [pa na ta]
+
+--022 / 14
+
+[owi] [di km *na]
+
+072 Avô materno (meu)
+073 Azedo 074 Babaçu 075 Banana
+076 Banana assada
+077 Banana comprida 078 Banana pequena 079 Banco 080 Barata, barata d’água 081 Batata, batata doce arroxeada 082 Bate 083 Beber água (eu vou) 084 Beijar 085 Beijar (está beijando ela) 086 Beliscar 087 Bicho preguiça 088 Bico de pássaro 089 Bigode, barba, cabelo 090 Boa noite
+091 Bocejar 092 Boi, vaca 093 Bom 094 Bom dia 095 Bom, gostoso 096 Borboleta 097 Botão de roupa
+
+109
+
+023 / 14 [ku jew ka]
+
+----1246a /09
+
+[maka je] [kati ma] [kaj tee]
+
+RL [kaji tee]
+
+248 / [m pi na]
+
+06
+
+1246 / 09 [kaj tee matm matm] 1249 / 09 [kaj tee wii maj]
+
+--- [mm m pew wa]
+
+362/02e361/ [too o]
+05
+028/14e254/ [tama tn]
+04
+030 / 14 [to]
+
+---
+
+[to ta kom *na]
+
+--120 /15
+
+[tip] [ti pm]
+
+--- [ym]
+
+033 / 14 [tumi]
+--- [tinaj] / [inaj]
+
+---
+
+[ka te ne new wa]
+
+---
+
+[awi na ] ti
+
+--- [ha ji]
+
+318 / 01 [taka wak] 037 / 14 [awi na]
+[awi na k] --- [] 1398 / 10 [tee ] 1219 / 12 [to kon]
+
+098 Botar ovos (galinha) 099 Boto 100 Branco (gente branca) 101 Bravo 102 Breu ou resina que se usa nas flechas 103 Brigar 104 Buraco na terra 105 Cabelo 106 Cabelo branco 107 Caçar 108 Cacau 109 Cachorro
+110 Caiu 111 Caju 112 Calango 113 Camaleão 114 Caminho de animal 115 Caminho estreito 116 Caminho, estrada 117 Canoa 118 Cantar 119 Cantiga, canção, música 120 Capim 121 Capivara
+122 Cará
+123 Carapanã
+
+110
+
+038 / 14 [ia na kok tao] 304 / 04 [kaaw]
+--- [wi jm]
+Pro38a/--- [mana]
+
+--- [kaw saw]
+
+--- [min]
+
+266 / 06 [manaj makn]
+
+---
+
+[tyn]
+
+---
+
+[tao]
+
+--- [inm]
+
+RL [mana ji makn]
+
+268 / 06 Pro38 /13
+---
+
+[kanym] [oo mak]
+[pana]
+
+RL [oo mijak]
+
+--- [wino]
+
+316 / 01 [yma]
+
+315 / 01 [a op]
+
+---
+
+[wana di kom mi]
+
+042 / 14 [wii maj wana]
+
+RL [...ma ji...]
+
+041 / 14 [wana]
+
+043 / 14 [mamoo owa]
+
+046 / 14 [kom]
+
+045 / 14 [ta ma]
+
+1209 / 12 [tonoj]
+
+47/14 e308/1
+029 /
+
+[kamø] [titø]
+
+DC
+
+152 / 15 [pa pn]
+
+124 Careca 125 Carrapato grande 126 Carvão 127 Casa mesmo
+128 Casa, maloca 129 Casca 130 Cascalho 131 Castanha, castanheira 132 Catarro 133 Catarro (está com catarro) 134 Catinga 135 Cavar um buraco 136 Cérebro, miolo 137 Céu, altura 138 Chegar (eu estou chegando) 139 Chicha 140 Chorar 141 Choro (eu) 142 Chupar fruta 143 Chutar 144 Chuva, inverno 145 Cigarra 146 Cinza do carvão 147 Cipó usado para amarrar barraca
+148 Cipó venenoso usado para pesca
+149 Cobra
+
+111
+
+271 / 06 [kom *na tenø cy] 372 / 06 [kati] 135 / 15 [teej sk] ou [teej ] Pro37b/- [tim ta]
+048 / 14 [tim] 225 / 16 [tapa i]
+--- [to∏o on]
+
+049 / 14 [tkwe] / [tkw] --- [mowi]
+
+--- [mowi *na]
+
+259 / C [y na]
+
+--051 / 14
+
+[taci] [oo pk]
+
+052 / 14 [na naw wi]
+
+---
+
+[waj na]
+
+277 / 02 [tka]
+
+---
+
+[aka]
+
+53 /14 [a ka na]
+
+--- [yi paj]
+
+057 / 14 [tim]
+
+056 / 14 [twi]
+
+1486 / 11 [tok jon]
+
+---
+
+[tpa kon]
+
+280/02e280 [kawa i km] ou [ kawa si km]
+a
+281 / [bwa]
+
+02
+
+058 / 14 [m]
+
+150 Cobra grande 151 Comer 152 Comer (eu estou comendo) 153 Comer (eu vou) 154 Comida 155 Concha do rio
+156 Conversar 157 Cor branca 158 Coração 159 Corajoso 160 Corda 161 Corda do arco 162 Cordão, corda, linha, fio 163 Cortar lenha 164 Cortou a própria mão 165 Coruja 166 Cotovelo, joelho 167 Coxa 168 Coxa (minha) 169 Criança 170 Criança menina 171 Criança menino 172 Cuia, cabaça 173 Cumaru de cheiro (esp. de árvore) 174 Cunhado (irmão da esposa) 175 Cupim 176 Cupim (espécie)
+
+112
+
+307 / 01 [m tak]
+
+---
+
+[kaw]
+
+59 / 14 [kaw i na]
+
+060 / 14 [kaw ta ji na]
+179 / 16 [kaw wa]
+
+240 / [ty]
+
+16
+
+062 / 14 [tomi]
+
+133 / 15 061 / 14
+
+[towo] / [tuwo] [ti mø]
+
+--- [om ai ma]
+
+--- [maku] 334 / 04 [mak i temm] 282 / 01 [mak i *y]
+--- [ta]
+
+Pro30/--- [wak piÔi maj mO]
+
+--150 / 15
+
+[kocy] [km]
+
+--- [hok]
+
+063 / 14 [hokø]
+
+064 / 14 [pij]
+
+Pro496a/09 [pij nai ma]
+
+Pro496b/09 [pij ta ma]
+
+065 / 14 [kaw wi a]
+
+--- [kaw m]
+
+---
+
+[namo i]
+
+067 / 14 [øjø]
+
+--- [kaj y] / [kaj sy] RL [kaji y]
+
+113
+
+177 Curandeiro
+178 Curica (papagaio) 179 Cuspir 180 Cutia 181 Daqui a pouco
+182 Daqui a um mês 183 De dia
+184 De manhã 185 De noite; noite
+186 Deita de costas 187 Deitar 188 Dente 189 Dentro da casa (estou) 190 Depois de amanhã
+191 Derrubar uma árvore 192 Dia de muita chuva (é um ...) 193 Dia de sol, clareou 194 Dia nublado 195 Dobrar o joelho 196 Doente 197 Dois espirros 198 Dormindo profundamente (está...) 199 Dormir 200 Dormir (eu estou dormindo) 201 Ela
+
+285 / 01 [kik naj ka wa]
+
+---
+
+[towi]
+
+122 / 15 [tipa]
+
+286 / 01 [piwa]
+
+Pro08a/--- [pewi maj ka ta]
+
+Pro21/--- [tjn ta j]
+
+Pro19/ [sk] 07 Pro13a/08 [so sek] Pro15/ [tim] 08
+--- [wa a]
+
+154 / 15 [tem] 069 / 14 [jat] Pro24a/--- [kom pej na]
+
+Pro11/ 08 181 / 16
+
+[paj ka pa ne] [ta ka taj]
+
+1268 / 13 [mija na tuwi]
+
+1271 / 10 [toa pi na]
+
+1269 / 10 [top ho]
+
+--- [ip]
+
+--- [kati]
+
+[kawi aka *ak sejna] 191 / DC [pi jåm)  ta ma naj na]
+
+002 / 14 [pijm] 72 / 14 [pi jm ma] Pro35/--- [i km]
+
+114
+
+202 Ela deita com os homens 203 Ela mesma 204 Elas mesmas 205 Ele 206 Ele (neutro) 207 Ele acendeu 208 Ele andou na água 209 Ele bateu em nós 210 Ele chora 211 Ele está cantando 212 Ele está dormindo 213 Ele flechou o peixe 214 Ele mesmo 215 Ele mesmo (neutro) 216 Ele vai tomar banho 217 Eles estão agrupados 218 Enfiar a mão dentro de um buraco 219 Entardecer 220 Entra 221 Escorpião 222 Escrever
+223 Espancar, bater 224 Espécie de árvore que produz breu 225 Espetar 226 Espinho 227 Espírito, alma de defunto
+
+Pro43/--- [om *na i mi km]
+
+Pro34/--- [i km pn]
+
+Pro40/--- [i km pn na]
+
+Pro32/--- [i ko]
+
+Pro37/--- [ta]
+
+[tom *na]
+
+---
+
+[wew na aj kom]
+
+Pro28/--- [pa napa e]
+
+054 / 14 ---
+
+[aw a na] [kom *na]
+
+72a / 14 [pi jm na] Pro29a/--- [yy mon m]
+
+Pro31/--- [i kopån) ]
+
+Pro36/--- [omom *na]
+
+1383 / 10 [a ta kom *na]
+
+---
+
+[toana na]
+
+--- [ipit]
+
+Pro15a / 08 [tim pi ta na]
+
+158 / 15 [koo ma]
+
+290 / 01 [cy]
+
+---
+
+[tiaw] / [iaw]
+
+74 / 14 [wap]
+--- [bowa]
+75 / 14 [tykø] 068 / 14 [pi] 73 / 14 [jm]
+
+228 Espirrar
+229 Espirrar (eu estou espirrando)
+230 Espirrou forte 231 Esta 232 Esta farinha de milho de vocês 233 Esta farinha de milho é pra vocês 234 Estas 235 Estas coisas 236 Este 237 Este flechou o peixe. 238 Esteio para fazer casa
+239 Esteira
+240 Estes 241 Estrangeiro 242 Estrela 243 Estrondo 244 Eu
+245 Eu não sei
+246 Eu não sei porque estão brincando 247 Eu tirei as folhas de palmeira do talo 248 Faca
+249 Faca pequena 250 Farinha 251 Fazer fogo 252 Fazer Sexo
+
+115
+
+77 /14 [asm] 76 / 14 [asem na]
+[asm tamanama] Pro33a/--- [i ma]
+
+Pro26/--- [ata nenm]
+
+Pro27/--- [mJe nen)m ∏Wa»ta]
+
+Pro39a/--- [i ma pa y]
+
+Pro41/--- [ooj ka km]
+
+Pro33/--- [i ka]
+
+Pro29/--- [i ko koyy mon wm]
+
+195 / 16 [panaj tim]  [pana ji...] 80 /14 [wi] Pro39/--- [i ka pa y]
+
+---
+
+[tycy cy]
+
+81 / 14 [pi jo] 261 / DC [dyy]
+83 / 14 [wa ta]
+244/DC e [ta]
+402/ 06
+Pro49a/--- [ ta ta]
+
+[tapiaj]
+
+1419a / [ket] 10
+
+1419 / 10 [wii maj ket] 
+
+---
+
+[wata]
+
+RL [wii ma ji ket]
+
+84 / 14 [hy]
+
+85 / 14 [wn]
+
+116
+
+253 Febre (estar com febre)
+254 Ferrão 255 Fiapo no meio da macaxeira 256 Fica quieto, calado 257 Fio de cabelo 258 Flauta de bambu comprida 259 Flauta de bambu média 260 Flauta de bambu pequena 261 Flecha
+262 Flechar
+263 Fogo 264 Folha de zinco 265 Fora (estou)
+266 Formiga de fogo 267 Formiga saúva 268 Formiga tucandeira 269 Frente à casa (estou em)
+270 Fugir 271 Fugir com a menina para casar 272 Fumaça 273 Fumar 274 Fumar (estou fumando) 275 Fumo, tabaco=comer fogo (literalmente) 276 Futebol 277 Galho (de árvore) 278 Galinha
+
+---
+
+[saj ba]
+
+--- [tn]
+
+189 / 16 [ka pe]
+
+194 / DC [taka na pe a]
+
+1228 / 12 [ty]
+
+88 / 14 [takom]
+
+89 / 14 [wi maj]
+
+90 / 14 [taw]
+
+---
+
+[cijo]
+
+Pro78a [yy]
+
+91 / 14 [sk]
+
+---
+
+[eaj tom]
+
+Pro24b/- [ta et pe] -
+377 / 07 [da wo]
+
+163 / 15 [kn]
+
+---
+
+[topi ta]
+
+Pro24/--- [ta et pej naj tim]
+
+--172 / C 92 / 14
+---
+
+[tapa y] [kata piw wa] [taj] [taci m]
+
+--- [taci ami na]
+
+93 / 14 ---
+
+[kaj sk] [tyna na]
+
+94 / 14
+234 / 16 1432 / 11
+
+[ta paj] [kok tao]
+
+279 Gato 280 Gavião 281 Gêmeo (menino e menina)
+282 Gente (eles, os índios)
+283 Grilo 284 Gritar (gente) 285 Há muito tempo 286 Hei ! 287 Homem 288 Homem ficou bravo
+289 Imitar o que alguém fala
+290 Inimigo
+291 Irmão mais novo 292 Irmão mais velho 293 Isto 294 Jaboti 295 Jacaré 296 Jacu 297 Jacutinga (cujubim) 298 Jatobá 299 Jatuarana 300 Jogar flecha 301 Lagarta 302 Latir (cachorro), uivar 303 Lavar 304 Libélula 305 Lontra
+
+117
+
+319 / 01 [kaj i kon kopa kaw]
+
+---
+
+[wa jo]
+
+--- [tama naima]
+
+--- [wai]
+
+356 / 05 [kn]
+
+---
+
+[mem]
+
+Pro22/--- [paj pane]
+
+86 / 14 [i a] 95 / 14 [ta ma] Pro38b/- [ma na na tåa ma]
+--- [aj na] / [saj na]
+
+--- [kaa wa]
+
+96 / 14 [sa] / [a] 97 / 14 [a je] Pro38/--- [ma na]
+
+320 / 01 [towa]
+
+---
+
+[hop]
+
+---
+
+[kamo]
+
+66 / 14 [k jø]
+
+---
+
+[pas kwa] / [ pa kwa]
+
+338 / 03 [to jn] 350 / 06 [yy] 295 / 02 [sa saw]
+--- [jaj]
+
+--- [hook]
+
+379 / 07 144 / 15
+
+[tee ] [boomn]
+
+RL [kaji .....]
+
+118
+
+306 Lua 307 Lua cheia 308 Lua crescente e minguante 309 Lua nova 310 Macaco da noite 311 Macaco prego 312 Macaco preguiça 313 Macaco preto 314 Macaco que canta fino 315 Macaxeira 316 Machado
+317 Maduro 318 Mãe 319 Mamoeiro
+320 Mancar
+321 Mandi (peixe)
+322 Manhãzinha (nascer do sol) 323 Mão, dedo 324 Máquina de moer carne 325 Marajá (árvore que tem espinho) 326 Mariposa 327 Mascar chicha de milho 328 Mata 329 Maunjaboti (fruta) 330 Mel 331 Mel da abelha 332 Mentira
+
+82 / 14 ---
+
+[pana wo] [hopa je]
+
+--- [ok sk]
+
+---
+
+[tinoj]
+
+--- [dawo ci] 321 / 01 [wi] 323 / 04 [t min] 322 / 04 [ m] 325 / 04 [tø tø] 299 / 01 [kop]
+294 / 02 [ii ku ti]
+
+--98 / 14
+---
+
+[paka]
+[na] [muk jm]
+
+--- [aw cy] 341 / 03 [tu jj]
+
+--- [tapa]
+
+--- [ym]
+
+403 / 07 ---
+
+[tee a] [mati wat]
+
+363 / 05 [pii mon]
+
+---
+
+[ti kaw a j]
+
+Pro74 / 08 [na a]
+
+---
+
+[topi]
+
+360 / 05 [tato]
+
+050 / 14 [tawi]
+
+---
+
+[min]
+
+333 Meu braço 334 Meu coração 335 Meu dente está doendo 336 Meu lado direito 337 Meu lado esquerdo 338 Meu marido 339 Meu nariz (homem que fala) 340 Meu ombro 341 Meu pai 342 Meu rosto
+343 Mexer 344 Milho 345 Minha boca 346 Minha cabeça 347 Minha língua 348 Minha mãe 349 Minha mão 350 Minha mulher 351 Minha nuca
+352 Minha orelha 353 Minha testa 354 Minhoca 355 Moça solteira 356 Mole 357 Molhar (está molhado) 358 Molhar (estar molhado)
+
+119
+
+036 / 14 e 397 / 11
+---
+
+[ta pa] [tim]
+
+---
+
+[ty na pa me ne]
+
+177 / 15 [i ku e]
+
+176 / 15 [pa jø]
+
+---
+
+[ta ma ne]
+
+--- [ e]
+
+155 / DC [tøkøø mø]
+
+---
+175/11 e 15
+---
+
+[ei t] [di ta]
+[mew]
+
+301 / 01 396 / 04
+
+[mapak] [ka pja]
+
+RL [ka pi ja]
+
+39 / 14 ---
+
+[wi na] [ka pja]
+
+RL [kapi ja]
+
+99 / 14 [i i na]
+
+[mø]
+
+79 / 14
+160 /15 e 404 /07
+14 / 14 ---
+
+[naRi ma ne] [pa ma]
+[ka jø] [i ta]
+
+---
+
+[met]
+
+--- [i jm]
+
+399 / 12 [bm]
+
+---
+
+[s na] / [t na]
+
+--- [so]
+
+359 Morcego
+360 Morder 361 Mosquito 362 Muita laranja, limão 363 Muito 364 Mulher casada
+365 Mulher ficou brava
+366 Mulher grávida 367 Mutuca 368 Mutum = pássaro (geral) 369 Nadar 370 Nambu azul (tipo de perdiz) 371 Namocari (espécie de nambu) 372 Não peguei, escapuliu da mão 373 Não quero água 374 Nariz 375 Nenê que ainda não tem nome 376 Noite 377 Nome de pessoa (indígena) 378 Nome de pessoa (indígena)
+379 Novo (que nunca foi usado) 380 O céu está azul 381 O falcão da campina comeu o fogo 382 O homem comeu a queixada 383 O homem que faz o fio do algodão
+
+120
+
+---
+
+[naw]
+
+--- [ciw]
+
+151 / 5 [to a]
+
+[mija na kaj me mm]
+
+--- [mija]
+
+78 / 14
+
+[nai ma]
+
+Pro82 / 08
+
+Pro38c/-- [ma na na nai ma]
+
+-
+
+---
+
+[nm]
+
+---
+
+[pit e]
+
+---
+
+[me kmu wa]
+
+44 / 14 [pn kn]
+
+--- [jamop]
+
+---
+
+[wana n]
+
+---
+
+[wa]
+
+Pro05/--- [noci naj]
+
+393 / 07 [u e] --- [waje]
+
+---
+
+[tim]
+
+102 / DC [w tim]
+
+--- [yy taw]
+
+153 / 15 [tiku i]
+
+---
+
+[hotic na nawin]
+
+Pro03/--- [om nau pi tom binaj sk]
+
+--- [kaw pi na mijak wata kat ta ma]
+
+--- [i]
+
+121
+
+384 O pai dela (da menina)
+385 O pai dele (do menino)
+386 Obrigado
+387 Obrigado vocês também = de nada
+388 Óculos 389 Óleo para cabelo 390 Olha para cá 391 Olho 392 Onça 393 Onça negra 394 Onça pintada 395 Onça vermelha
+396 Ontem
+397 Outro dia
+398 Outro macaco 399 Ovo 400 Paca 401 Pacu
+402 Pai 403 Pais 404 Palha 405 Palmeira patuá 406 Pálpebra (osso do olho) 407 Papagaio estrela 408 Passarinho
+
+---
+
+[kte ama]
+
+025 / 14 [kte a]
+
+---
+
+[awina]
+
+[awi ]
+
+--- [kajtok]
+
+---
+
+[towa te]
+
+262 / DC [doo a]
+
+---
+
+[tOk]
+
+1243 / 12 [kopa kaw] 1245 / 09 [kopa kaw mim mim] 1244 / 13 [kopa kaw øø øø] 1245a / [kopa kaw paka paka] 09 Pro09 / 08 [paj s ka ne]
+
+Pro20/ 13 327 / 07
+
+[paj s pa ne] [too too]
+
+--- [ajn]
+
+--- [mikop]
+
+156 / 15 351 / 02
+---
+
+[a kapa] [t]
+
+198 / DC [t naka na]
+
+--236 / 16
+
+[taot] [tawn]
+
+157 / 15 [ta kaj]
+
+--239 / 16
+
+[tuaw] [ka]
+
+409 Pássaro negro 410 Pássaro socó 411 Pata
+412 Pata de animal
+413 Pato 414 Pé 415 Pedaço pequeno de qualquer coisa 416 Peito (minha garganta) 417 Peixe 418 Peixe boi 419 Peixe cachorro 420 Peixe espada 421 Peixe sabão 422 Pelo (de pessoa e de animal) 423 Penugem do pássaro 424 Periquito 425 Periquito (outro tipo) 426 Perna 427 Piabinha 428 Piau 429 Pintado 430 Pintar, escrever 431 Piolho 432 Piranha 433 Piranha vermelha 434 Pirapitinga 435 Pium 436 Planta unha de gato 437 Podre (está podre)
+
+122
+
+1324 / 10 [aw pa wn]
+
+---
+
+[waka]
+
+Pro23a/--- [wm]
+
+--- [wm]
+
+326 / 04 [mømøm]
+
+---
+
+[ka tim]
+
+---
+
+[wii maj ka na]
+
+159 / DC [kani»mø]
+
+---
+
+[hwm] / [Bw m]
+
+148 / DC [hwm taka wak] [Bwm taka wak]
+
+343 / 03 [omi i] 344 / 03 [kawa kawa] 342 / 03 [nim]
+
+[tn]
+
+---
+
+[tapa si kon]
+
+202 / 16 [køø køø]
+
+---
+
+[cyy cyyc]
+
+---
+
+[ka tim]
+
+340 / 03 [ma mm]
+
+339 / 03 [paka op]
+
+352 / 02 [a tawn]
+
+---
+
+[tiaw]
+
+---
+
+[iw]
+
+349 / 02 [pita]
+
+354 / 02 [tuwi tuwi]
+
+355 / 02 [apa cwy]
+
+365 / 05 [kaji kon mi]
+
+1236 / 12 [kaj tn]
+
+RL [kaji tn]
+
+--- [y ne]
+
+438 Pomba rola 439 Poraquê 440 Porco do mato 441 Porta 442 Praia 443 Preto (muito escuro) 444 Pulga 445 Puxar 446 Qualquer bicho 447 Qualquer fruta 448 Quando tem várias cores
+449 Quati, esquilo 450 Quebrar 451 Quebrar (está quebrando agora) 452 Quebrou uma coisa 453 Quebrou várias coisas 454 Queimar, estar aceso 455 Queixada
+456 Queixo 457 Querer 458 Quero algo, eu (de gênero neutro)
+459 Quero isto
+460 Rã 461 Rachar 462 Rapaz 463 Rato 464 Relâmpago 465 Reunião de muita gente
+
+123
+
+237 / 12 [pa wom]
+
+345 / 03 [dowi]
+
+1524 / 11 [kata sic]
+
+---
+
+[mn]
+
+1555 / 11 [nama je]
+
+---
+
+[mim mim]
+
+---
+
+[pi]
+
+221 / DC [køk]
+
+242 / 16 [kaji ka wa]
+
+--- [memm]
+
+---
+
+[ka ta]
+
+238 / 16 [ka kat]
+
+---
+
+[kat]
+
+---
+
+[kat na]
+
+--- [kat ma]
+
+---
+
+[kat maw na]
+
+---
+
+[win]
+
+1524a /11 164 / 15
+
+[mjak wata kat] [m]
+
+298 / 11 [pm]
+
+Pro04a/--- [påa mi naj]
+
+RL [mijak....]
+
+Pro25/--- [pa mi naj]
+
+371 / 06 [teci at] 31 / 14 [wn] 188 / DC [siw a] / [siw ∏åRa]
+
+---
+
+[matok]
+
+170 / 15 [tom poo pn]
+
+---
+
+[mija na wai]
+
+124
+
+466 Roçar
+
+--- [wawak]
+
+467 Roer, rasgar
+
+--- [i]
+
+468 Roncar
+
+--- [waa a]
+
+469 Saliva 470 Sapo cururu 471 Sapo geral 472 Sapo grande 473 Sapo magrinho 474 Sapo que canta 475 Será que tu mesmo compras a minha casa?
+
+165 / 15 [book]
+
+131 / 15 [tooj]
+
+---
+
+[ko wo]
+
+---
+
+[kte ako wo]
+
+166 / 15 [ipi n]
+
+370 / 06 [tow m]
+
+Pro42/--- [pe otaj ma tim n]
+
+476 Seu dente está doendo 477 Seu pescoço
+478 Sol
+
+---
+
+[ty na me ne]
+
+---
+
+[aaw n]
+
+1309 / 10 [tina]
+
+479 Soprar vela 480 Sorrir, risada
+
+--- [top jo]
+
+---
+
+[tatm]
+
+481 Sua boca 482 Subir 483 Surubim 484 Tambaqui 485 Tatu canastra 486 Tatu grande 487 Tatu pequeno 488 Temporal, vento está forte 489 Tendo filho (parindo)
+
+35 / 14 [ka pja kon]
+
+167 / 15 [pi]
+
+168 / 15 [a tawn]
+
+346 / 03 [a pacy]
+
+335b / 03 [tyci pn]
+
+335 / 04 [pikot]
+
+335a / 04 [kwai]
+
+---
+
+[kama na]
+
+---
+
+[ma ma]
+
+RL [ka pi ja kon]
+
+490 Ter câimbra na perna
+
+--- [pi a]
+
+491 Ter ciúmes
+
+--- [wini]
+
+492 Terçado
+
+1420 / 10 [pi jami ket]
+
+493 Terra 494 Terra mole 495 Tocar fogo, acender 496 Traíra 497 Tremer de frio 498 Tremer de frio (eu estou tremendo...) 499 Tropeçou 500 Trovão, barulho 501 Tua cabeça 502 Tucano 503 Tucunaré 504 Tumor, furúnculo, pereba 505 Uma mulher andou 506 Uma pessoa chora 507 Unha 508 Urubu 509 Vai fritar 510 Vara 511 Veado capoeira 512 Veado pequeno 513 Veado pequeno (outro tipo)
+514 Veado vermelho
+515 Veado vermelho (outro tipo) 516 Velha 517 Velho 518 Vento
+
+125
+
+26 / 14 [ma kn]
+
+27 / 14 [ku wa]
+
+---
+
+[tom]
+
+347 / 03 [tici]
+
+---
+
+[ko koo]
+
+190 / DC [ko kook ji na] --- [pn ta et na]
+
+169 / 15 [ku mm]
+
+40 / DC [wi nm]
+
+---
+
+[a wy]
+
+348 / 06 [nana km]
+
+--- [aj *i]
+
+192 / 16 [maw ne na a]
+
+55 / 14 [a ka ma]
+
+---
+
+[tcy]
+
+336 / 03 [ma o]
+
+185 /
+
+[ty taj na] RL [ty ta ji na]
+
+---
+
+[pa]
+
+--- [tok tm]
+
+--- [satu pi] 1228b/ [parik nate nm]
+12
+337 / [kumm] 03
+--- [we]
+
+--- [oon ma]
+
+---
+
+[oon]
+
+--- [hoto wa]
+
+126
+
+519 Vento está fraco 520 Ver (está vendo) 521 Verão 522 Verde, azul 523 Verme 524 Vespa, marimbondo
+525 Voar 526 Voar (está voando) 527 Você está molhado 528 Você quer água?
+529 Vocês, (vocês) vão ficar doentes! 530 Vomitar
+
+--- [hoto wa ko bip] 171 / 15 [i e]
+--- [kawa te] --- [tym] --- [met]
+358a/ [i] 05
+--- [ta ci] --- [taci na] --- [so ma]
+Pro04/--- [pa maj kon]
+Pro44/--- [mon kati a me] --- [we]
+
+127
+NÚMERO 02 – CORPUS DAS EMBUTIDAS
+
+128
+CORPUS DE DADOS PARA ANÁLISE DAS SÍLABAS EMBUTIDAS NO “ONSET”
+
+Legenda:
+
+No de ref. Disq. DC --RL
+
+= número de referência = disquete em que se encontra gravado o dado = Drive C = dado apenas coletado, não estando gravado = Registro Lento
+
+No
+001 Abelha (geral) 002 Acenda lamparina 003 Acender fogueira 004 Acordar alguém 005 Ajoelhar 006 Alegre (estar alegre) 007 Amanhã
+008 Amolar
+009 Andar no mato (uma pessoa) 010 Andorinha 011 Animal macho 012 Antes de ontem
+013 Arara vermelha menor 014 Aricuri (folha de palmeira) 015 Arrancar mandioca 016 Beijar (está beijando ela) 017 Botar ovos (galinha) 018 Cabelo branco
+
+No. Ref. Disq. 003 / 14 [bunaj] 215 / DC [to maj dåama]
+
+---
+
+[to maj]
+
+---
+
+[cIi ka]
+
+184 / 16 [pe tootop] --- [cik te ma]
+
+Pro10 /-- [s kaje] 406 / [da]
+
+DC ---
+008 / 14
+
+[tyt maw naj na ak] [mIi ]
+
+178 / 15 [tamaj jø]
+
+Pro09/ 08 015 / 14 161/ 15
+---
+
+[paj se ka pa ne]
+[tami] [toot] [ho too kop]
+
+120 /15 038 / 14
+---
+
+[ti pm] [ia na kok tao] [tao]
+
+129
+
+019 Cantiga, canção, música 020 Carapanã 021 Carvão 022 Casa mesmo
+023 Casa, maloca 024 Chupar fruta 025 Comida 026 Cotovelo, joelho 027 Criança menino 028 Curandeiro
+029 Daqui a um mês 030 Deitar 031 Depois de amanhã
+032 Derrubar uma árvore 033 Ele flechou o peixe 034 Entra 035 Este flechou o peixe. 036 Esteio para fazer casa 037 Estrondo 038 Eu não sei
+039 Eu não sei porque estão brincando 040 Febre (estar com febre)
+041 Fiapo no meio da macaxeira 042 Flauta de bambu comprida 043 Flechar
+
+045 / 14 152 / 15
+
+[ta ma] [pa pn]
+
+135 / 15 [teej sk]
+
+Pro37b/- [tim ta] -
+048 / 14 [tim] --- [yi paj]
+
+179 / 16 [kaw wa]
+
+150 / 15 [km]
+
+Pro496b/09 [pij ta ma]
+
+285 / 01 [cic naj ka wa]
+
+Pro21/--- [tjn ta j]
+
+154 / 15 [tem]
+
+Pro11/ 08
+
+[paj ka pa ne]
+
+181 / 16 [ta ka taj]
+
+Pro29a/--- [yy mon m]
+
+158 / 15 [koo ma] Pro29/--- [i ko koyy mon wm]
+
+195 / 16 [panaj tim]
+261 / DC [dyy]
+244/DC e [ta]
+402/ 06
+Pro49a/--- [ ta ta]
+
+---
+
+[saj ba]
+
+189 / 16 88 / 14
+
+[ka pe] [takom]
+
+Pro78a [yy]
+
+044 Formiga de fogo 045 Formiga saúva 046 Frente à casa (estou em)
+047 Fugir com a menina para casar 048 Galho (de árvore) 049 Galinha
+050 Gêmeo (menino e menina) 051 Homem 052 Homem ficou bravo
+053 Jogar flecha 054 Lontra 055 Lua nova 056 Mata 057 Meu braço 058 Meu lado esquerdo 059 Meu marido 060 Meu ombro 061 Meu rosto
+062 Minha nuca
+063 Minha orelha 064 Minha testa 065 Mole 066 Mosquito 067 O homem comeu a queixada 068 Olha para cá
+
+130
+
+377 / 07 [da wo] 163 / 15 [kn] Pro24/--- [ta et pej naj tim]
+
+172 / C 94 / 14
+234 / 16 1432 / 11
+---
+
+[kata piw wa] [ta paj] [kok tao]
+[tama naima]
+
+95 / 14 [ta ma]
+
+Pro38b/- [ma na na tåa ma]
+
+-
+
+350 / 06 [yy]
+
+144 / 15 [boomn]
+
+---
+
+[tinoj]
+
+Pro74 / 08 [na a]
+
+036 / 14 e 397 / 11
+176 / 15
+
+[ta pa] [pa jø]
+
+---
+
+[ta ma ne]
+
+155 / DC [tøkøø mø]
+
+175/11 e 15
+160 /15 e 404 /07
+14 / 14
+---
+
+[di ta] [pa ma] [ka jø] [i ta]
+
+399 / 12 [bm]
+
+151 / 5 ---
+
+[to a] [kaw pi na mijak wata kat ta ma]
+
+262 / DC [doo a]
+
+131
+
+069 Ontem
+
+Pro09 / 08 [paj s ka ne]
+
+070 Outro macaco 071 Ovo 072 Pacu
+073 Palmeira patuá 074 Pálpebra (osso do olho) 075 Passarinho 076 Pássaro negro 077 Periquito 078 Periquito (outro tipo) 079 Piabinha 080 Pintado 081 Pomba rola 082 Qualquer bicho 083 Quando tem várias cores
+
+327 / 07 [too too]
+
+--- [ajn]
+
+156 / 15 351 / 02
+236 / 16
+
+[a kapa] [tawn]
+
+157 / 15 [ta kaj]
+
+239 / 16 [ka]
+
+1324 / 10 [aw pa wn]
+
+202 / 16 [køø køø]
+
+---
+
+[cyy cyyc]
+
+340 / 03 [ma mm]
+
+352 / 02 [a tawn]
+
+237 / 12 [pa wom]
+
+242 / 16 [kaji ka wa]
+
+---
+
+[ka ta]
+
+084 Quati, esquilo 085 Queixada
+086 Queixo 087 Querer 088 Quero algo, eu (de gênero neutro)
+
+238 / 16 [ka kat]
+
+1524a /11
+
+[mjak wata kat]
+
+164 / 15 [m]
+
+298 / 11 [pm]
+
+Pro04a/--- [påa mi naj]
+
+RL [mijak....]
+
+089 Quero isto
+
+Pro25/--- [pa mi naj]
+
+090 Relâmpago 091 Saliva 092 Sapo cururu 093 Será que tu mesmo compras a minha casa?
+
+170 / 15 [tom poo pn] 165 / 15 [book] 131 / 15 [tooj] Pro42/--- [pe otaj ma tim n]
+
+094 Subir 095 Surubim
+
+167 / 15 168 / 15
+
+[pi] [a tawn]
+
+132
+
+096 Tendo filho (parindo) 097 Terra mole 098 Tremer de frio 099 Tremer de frio (eu estou tremendo...) 100 Trovão, barulho 101 Uma mulher andou 102 Vara 103 Velha 104 Velho 105 Você quer água?
+
+---
+
+[ma ma]
+
+27 / 14 ---
+
+[ku wa] [ko koo]
+
+190 / DC [ko kook ji na]
+
+169 / 15 [ku mm]
+
+192 / 16 [maw ne na a]
+
+---
+
+[pa]
+
+--- [oon ma]
+
+---
+
+[oon]
+
+Pro04/--- [pa maj kon]
+
+133
+NÚMERO 03 – DOCUMENTOS ACÚSTICOS
+
+

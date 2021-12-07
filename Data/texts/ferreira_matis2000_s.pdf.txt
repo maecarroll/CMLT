@@ -1,0 +1,4785 @@
+1 VITÓRIA REGINA SPANGHERO FERREIRA
+LÍNGUA MATIS (PANO):
+UMA ANÁLISE FONOLÓGICA
+CAMPINAS
+UNICAMP
+2000
+
+2 VITÓRIA REGINA SPANGHERO FERREIRA
+LÍNGUA MATIS (PANO):
+UMA ANÁLISE FONOLÓGICA
+Dissertação apresentada ao Curso de Lingüística do Instituto de Estudos da Linguagem da Universidade Estadual de Campinas como requisito parcial para obtenção do título de Mestre em Lingüística. Orientador: Prof. Dr. Angel H. Corbera Mori
+UNICAMP/IEL Campinas 2000
+
+3 BANCA EXAMINADORA Prof. Dr. Angel H. Corbera Mori - Orientador Prof.ª Dra. Maria Bernadete Marques Abaurre Prof. Dr. Waldemar Ferreira Netto Prof.ª Dra. Lucy Seki - Suplente
+Campinas, 23 de novembro de 2000.
+
+4
+
+5 AGRADECIMENTOS
+- Ao meu filho Gabriel, que mesmo sem entender, me deu forças para continuar a pesquisa, nas muitas vezes em que ela se tornou muito difícil de ser realizada.
+- Ao meu marido, Rogério Vicente Ferreira, pelo amor, apoio e contribuição, e porque sem ele este trabalho não teria sido realizado tecnicamente.
+- À minha mãe e irmãs que sempre acreditaram no meu potencial para a realização deste trabalho.
+- Ao povo Matis, pela sua compreensão para com o trabalho, especialmente ao Bina Tukum Matis, pela colaboração e dedicação na informação dos dados.
+- Ao Professor Dr. Angel H. Corbera Mori, por ter orientado este trabalho de forma paciente em todas as etapas e, acima de tudo, acreditado nele.
+- Aos professores Dra. Lucy Seki, Dra. Maria Bernadete M. Abaurre e Dr. Waldemar Ferreira Neto, examinadores das bancas de qualificação e defesa, que dispensaram valiosa leitura e contribuição a esta dissertação.
+- À FAPESP, pela bolsa de estudos concedida durante o curso de Mestrado (processo n. 98/02828-4); pela Reserva Técnica que permitiu meu trabalho de campo, incluindo a vinda do meu colaborador Binan à cidade de Campinas para trabalhar comigo nos dados; pelos valiosos comentários do seu parecerista, os quais contribuíram muito na melhoria da análise, estando as suas sugestões incorporadas ao trabalho.
+- Aos professores do Instituto de Estudos da Linguagem (IEL-UNICAMP), em especial aos da área de Lingüística Antropológica e Fonologia.
+
+6 - À administração regional da FUNAI da cidade de Atalaia do Norte, pela permissão para
+realização de coleta de dados da língua.
+- Ao amigo Eduardo Rivail, pela amizade no início desta pesquisa, à Ana Carla Bruno e Gessiane, por todos os momentos, à Cristina Borella, colega de curso, à Gláucia V. Cândido, pelo incentivo e, de forma especial, à Marília Ferreira.
+- Finalmente, a Deus, que tornou possível todo esse trabalho.
+
+7
+SUMÁRIO
+I. INTRODUÇÃO ............................................................................................ 12 1.1 Objetivo ..................................................................................................... 14 1.2 Metodologia de Trabalho de Campo ......................................................... 14 1.3. Marco Teórico ........................................................................................... 14 1.3.1. Comentários Preliminares ...................................................................... 15
+II. A FAMÍLA PANO E O POVO MATIS ........................................................ 21 2.1. A Família Lingüística Pano....................................................................... 21 2.2. Os Matis .................................................................................................... 23
+III. DESCRIÇÃO FONÉTICA E FONOLÓGICA DOS SONS ......................... 26 3.1. Inventário de Fones ................................................................................... 26 3.1.1. Consoantes.............................................................................................. 26 3.1.2. Vogais..................................................................................................... 27 3.2. Descrição dos Fonemas e seus alofones.................................................... 27 3.2.1. Quadro de Fonemas Consonantais ......................................................... 28 3.3. Descrição dos Fonemas Vocálicos ............................................................ 35 3.3.1. Quadro de Fonemas Vocálicos............................................................... 35
+IV. A ESTRUTURA SILÁBICA DO MATIS.................................................... 45 4.1. A sílaba...................................................................................................... 45 4.2. Tipos de Padrões silábicos ........................................................................ 46 4.2.1 Posição de Onset ..................................................................................... 48 a) Obstruintes.......................................................................................... 48 b) Africadas e Fricativas ........................................................................ 50 c) Nasais.................................................................................................. 51 4.2.2. Posição de Coda .................................................................................... 51 a) Nasal ................................................................................................... 51 b) Fricativas............................................................................................ 52 c) Obstruintes.......................................................................................... 52 4.2.3 Posição de Núcleo ................................................................................... 53 4.3 Silabificação ............................................................................................... 55 4.4 Seqüências Ambivalentes........................................................................... 59 4.5 Classificação dos fonemas em classes naturais.......................................... 72 4.5.1 Consoantes............................................................................................... 75
+
+8
+4.5.2 Vogais...................................................................................................... 78 4.5.2.1 Representação das vogais pela abertura ............................................... 80 V. PROCESSOS FONOLÓGICOS ................................................................ 82 5.1 Fusão .......................................................................................................... 82 5.1.1 Nasalização em outros contextos ............................................................ 88 5.2 Assimilação Nasal ..................................................................................... 93 5.3 Lenição e Tapping ..................................................................................... 95 5.3.1. A labial /b/ .............................................................................................. 95 5.3.2 As coronais /t/ e /d/................................................................................. 97 5.4 Neutralização........................................................................................... 101 5.5 Apagamento Vocálico ............................................................................. 103 VI. O ACENTO ............................................................................................. 105 6.1 O acento em palavras simples .................................................................. 105 6.2 O acento em palavras compostas.............................................................. 106 CONCLUSÃO .............................................................................................. 109 APÊNDICE I................................................................................................. 132 APÊNDICE II................................................................................................ 132 REFERÊNCIAS BIBLIOGRÁFICAS............................................................ 137
+
+9 RESUMO
+Esta dissertação apresenta uma descrição fonética e fonológica da língua Matis, pertencente à família Pano, cuja população habita no estado do Amazonas.
+O trabalho constitui-se de seis capítulos, conclusão e bibliografia. No primeiro capítulo apresentamos uma breve introdução, abordamos a metodologia usada no trabalho de campo para a coleta do material lingüístico utilizado nesse estudo e a metodologia de análise lingüística.
+No segundo capítulo apresentamos um histórico do povo Matis, com sua localização geográfica e alguns aspectos concernentes à sua língua e cultura, como também uma breve discussão dos estudos sobre a família lingüística Pano.
+No terceiro capítulo definimos os fonemas e os alofones da língua, através das análises tradicionais, como par mínimo, par análogo, distribuição complementar e variação livre.
+A partir do quarto capítulo nossa análise norteou-se principalmente pelas teorias fonológicas não-lineares. Neste capítulo, abordamos a estrutura silábica do Matis, considerando a sílaba, os padrões silábicos, o processo de silabificação na língua, as seqüências ambivalentes e classificamos os fonemas em classes naturais, segundo a teoria da geometria de traços.
+No quinto capítulo analisamos os processos fonológicos que ocorrem na língua, a saber, fusão, assimilação nasal, lenição e tapping, neutralização e apagamento vocálico. O último capítulo trata do padrão acentual.
+Palavras-Chave: Línguas Indígenas, Fonologia, Língua Matis, Família Pano.
+
+10
+
+ABREVIAÇÕES , SIGLAS E SÍMBOLOS UTILIZADOS
+
+espalhamento ou associação
+
+sinal de dissociação
+
+-
+
+juntura de morfema
+
+#
+
+fronteira de palavra
+
+»
+
+acento primário
+
+«
+
+acento secundário
+
+≈
+
+alternância fonética
+
+σ
+
+estrutura silábica
+
+→
+
+passa a ...
+
+.
+
+fronteira silábica
+
+/
+
+no ambiente de...
+
+//
+
+representação fonológica
+
+[]
+
+representação fonética
+
+{}
+
+indicação de morfema
+
+‘’
+
+tradução livre
+
+?
+
+sem tradução
+
+1.sg.abs. 1a pessoa do singular absolutivo
+
+2.pl.
+
+2a pessoa do plural
+
+3p.
+
+3a pessoa
+
+CAA
+
+Contraste em Ambientes Análogos
+
+CAI
+
+Contraste em Ambientes Idênticos
+
+11
+
+Co
+
+coda
+
+Col.
+
+coletivizador
+
+Cons. consonantal
+
+Des.
+
+desiderativo
+
+Enf.
+
+enfático
+
+Erg
+
+ergativo
+
+Imp.
+
+imperativo
+
+N
+
+núcleo
+
+Neg.
+
+negação
+
+N.Pass. não passado
+
+O
+
+onset
+
+Pass .Im passado imediato
+
+Pass. Rec passado recente
+
+PC
+
+ponto de consoante
+
+PV
+
+ponto de vogal
+
+R
+
+rima
+
+12
+I INTRODUÇÃO Tem se tornado crescente o interesse pelos povos indígenas brasileiros. No âmbito desta questão, estudos lingüísticos têm sido realizados junto a estes povos. Além da importância científica, a pesquisa dessas línguas produz um conhecimento que pode ser revertido em prol dos interesses das comunidades indígenas em suas relações com a sociedade. Monte (2000:183) afirma que só no Brasil são 206 etnias e 180 línguas indígenas, das quais mais de 70% encontram-se na região Amazônica. Das cerca de 400 línguas indígenas faladas na América Latina, quase 50% são próprias aos povos indígenas brasileiros. Portanto, em sua constituição, o Brasil mostra uma surpreendente
+
+13 sóciodiversidade. Tais quantificações visualizam a especificidade da condição de minorias lingüísticas dos povos indígenas no Brasil, sendo suas sociedades concentradas em uma população de 270.000 índios.
+Por apresentarem uma distribuição de poucos falantes por língua, tais sociedades são definidas como minorias étnicas e lingüísticas. Apenas 4 destas etnias têm acima de 10.000 falantes, sendo duas delas na Amazônia, enquanto 110 têm menos de 400 falantes. Destas, 24 apresentam menos de 50, e 9 apenas 20 falantes. Poderiam ser consideradas, portanto, ‘línguas em coma’ faladas por sociedades ameaçadas de extinção, para sermos, no mínimo realistas (Rodrigues, 1986).
+De acordo com Adelaar (2000:29), no decorrer dos últimos anos, principalmente a partir de 1991, observa-se uma conscientização a nível mundial frente ao fenômeno da diminuição do número de línguas vivas. Esta perda de diversidade lingüística tem preocupado não só os lingüistas mas também os próprios membros das comunidades cujas línguas estão ameaçadas de extinção. Conseqüentemente, é evidente que a quantidade aproximada de 5000 a 6000 línguas existentes no mundo vem diminuindo com grande rapidez.
+Segundo Krauss (1992), aproximadamente 95% das línguas do mundo se encontram em perigo de desaparecerem. O autor considera que a extinção de uma língua é eminente e inevitável no momento em que as crianças deixam de utilizá-la. Assim, tendo em vista esse quadro, no intuito de registrar a língua Matis, apresentamos essa dissertação.
+
+14 1.1. Objetivo Até o presente momento a língua Matis não possui nenhuma descrição. Dessa forma, o objetivo deste trabalho é descrever a fonologia desta língua, apresentando uma descrição fonética e fonológica.
+1.2 Metodologia de Trabalho de Campo A coleta de dados para a investigação da língua se baseou nas práticas explicitadas na literatura lingüística acerca do trabalho de campo: a) elicitação de dados com o informante. Os questionários foram previamente elaborados. O nosso colaborador principal foi Binan Tucum Matis, falante nativo da língua; b) verificação e processamento dos dados elicitados e ouvidos; c) gravações, em CDs digitais, de palavras e frases; d) fichamento dos dados lingüísticos através do programa computacional Word. Na elicitação de nomes de objetos, termos para quantidades, itens pertencentes a campos semânticos (parentesco, cores, flora, fauna, etc.), o uso de figuras facilitou o processo de descoberta das significações e das diferentes categorias e critérios de classificação usados pela cosmovisão da sociedade Matis. A elicitação de dados foi realizada em duas etapas: em julho de 1999, na cidade de Tabatinga, no Amazonas, região dos Matis, e em março de 2000, na cidade de Campinas, com a vinda do nosso colaborador Bina Tukun Matis.
+1.3. Marco Teórico A primeira parte da análise, que consiste em definir os fonemas e os alofones da língua, foi baseada, como já citamos acima, na análise de contraste, distribuição complementar e variação livre dos sons (Pike, 1947).
+
+15 Após esta etapa, analisamos alguns aspectos fonológicos nos baseando principalmente nas teorias não-lineares, particularmente em autores como Kenstowicz (1994), Piggott (1992), Clements e Hume (1995) e outros. A seguir faremos algumas considerações sobre estas teorias.
+1.3.1. Comentários Preliminares Os fonólogos do Círculo de Praga concebiam o fonema como um feixe de traços distintivos, cada traço que compõe o feixe operando em oposição a um outro traço componente de outro fonema. Tal concepção de fonema teve como conseqüência o estabelecimento de um sistema de traços que desse conta das oposições ocorrentes em todas as línguas. Com esse propósito, Jakobson, Fant e Halle (1952) e Jakobson e Halle (1956) estabeleceram um inventário mínimo de traços fonológicos de base acústica indispensáveis para esse fim. Esses traços são de dois tipos: traços inerentes (traços de modo, ponto de articulação, etc.) e prosódicos (tom, altura). Outro sistema de traços bastante difundido, de base articulatória, é o de Chomsky e Halle (SPE, 1968), que procura caracterizar as classes de sons naturais, isto é, aqueles sons que funcionam conjuntamente em regras fonológicas, e propiciar a formalização mais econômica de processos naturais, de modo a se poderem avaliar sistematicamente soluções e gramáticas de línguas naturais. Outros sistemas foram propostos em que a definição fonética dos traços é mais acurada e concreta, porém, todas as reformulações atuais têm como ponto de partida o sistema de Chomsky e Halle (1968). A fonologia não-linear, justamente, tem como ponto de partida o modelo SPE.
+
+16 Para os fonólogos gerativistas a unidade mínima que tem uma realidade psicológica e um valor operacional é o traço, e não o feixe de traços, como concebiam os lingüistas do círculo de Praga. Nos trabalhos sob a égide gerativa substitui-se a expressão ‘representação ou transcrição fonêmica’, por ‘representação subjacente’. Essa mudança deve-se ao fato de os gerativistas negarem a existência de um nível operacional do tipo que fica explícito na designação ‘transcrição fonêmica’. Outras linhas de pesquisa fonológica desenvolveram-se recentemente e embora se distanciem do modelo gerativo padrão são inspiradas nele. É o caso da fonologia autosegmental (Goldsmith, 1990) que surgiu do estudo de línguas tonais e da constatação de que as generalizações tonais não podem ser apreendidas se os tons forem considerados propriedades de um segmento. Clements (1976) mostra que alguns fenômenos, como a harmonia vocálica e a nasalização, devem ser considerados segundo uma análise multilinear e não linear (tal como propõe a fonologia gerativa padrão) por ser o domínio desses fenômenos não um simples segmento, mas unidades de análise maiores, como a sílaba e a palavra. No que se refere ao acento, Liberman e Prince (1977), ao examinarem a acentuação, apresentaram a tese de que esta não deveria ser atribuída a um segmento, mas sim que deveria haver uma estrutura hierárquica (sílaba, pé, palavra prosódica) organizadora dos segmentos. De acordo com Wetzels (1995), embora possa ainda ser considerada uma teoria ‘gerativa’, na medida em que supõe a existência de diferentes níveis de representação conectados através de um componente de regras, a fonologia não-linear difere, em muitos aspectos, do quadro clássico estabelecido em The Sound Pattern of English. Para o autor,
+
+17 desde o trabalho de Chomsky e Halle (1968), que veio a constituir a primeira apresentação compreensiva da fonologia gerativa, a teoria fonológica tem sido objeto de várias modificações espetaculares. Em um período correspondente a pouco mais de vinte anos, desenvolveu-se um quadro formal e conceitual bem articulado, o qual, mais do que uma teoria integrada, representa uma série de diferentes subteorias globalmente conhecidas como fonologia ‘não-linear’.
+Os autores de The Sound Pattern of English (1968) não reconheceram a sílaba como uma unidade descritiva necessária. Foi afirmado por Vennemann (1972) e Hooper (1976) que uma teoria explicativa da fonologia não poderia operar sem o conceito de sílaba, que se tornou completamente reabilitado na fonologia não-linear. A teoria da sílaba lida com a estrutura interna da sílaba, mais particularmente com a questão de se e quanta estrutura interna é necessária para expressar generalizações fonologicamente significativas.
+Na fonologia gerativa linear o acento foi considerado como representando um traço segmental. Assim, a teoria fonológica foi obrigada a uma inconsistência formal, por permitir que esse traço fosse multivalorado (acento 1, acento 2, acento 3), enquanto todos os outros traços eram tidos como binários, apesar da discussão sobre a possibilidade de o traço nasal ser não binário foneticamente (Chomsky & Halle, 1968). Na teoria métrica o acento recebe um tratamento que difere fundamentalmente daquele proposto em SPE. O acento não é mais considerado como representando uma propriedade inerente de vogais, mas uma propriedade relativa da sílaba. Por sua vez, o estudo das categorias prosódicas fonologicamente relevantes, que também envolvem domínios mais extensos do que a
+
+18 palavra fonológica1, tal como a frase fonológica, a frase entoacional, etc, é o objeto da fonologia prosódica.
+Na fonologia linear os sons da fala são representados como conjuntos nãoordenados de traços ou matrizes de traços. Cada segmento é (positiva ou negativamente) especificado para todos os traços. Sendo assim, a teoria é incapaz de expressar o fato de que todos os traços podem se estender por sobre domínios maiores do que o segmento. Também não pode explicar por que alguns traços assumem juntos uma mesma disposição em processos fonológicos, enquanto outros traços nunca o fazem.
+A fonologia auto-segmental, pelo contrário, expressa a relativa solidariedade dos traços em termos de uma estrutura hierárquica e permite que as regras fonológicas manipulem diretamente essa estrutura. A assimilação, por exemplo, é tratada como espalhamento de traços ou feixes de traços e permite-se a ela criar estruturas nas quais segmentos compartilham o mesmo (conjunto de) traço(s).
+A geometria de traços estuda a maneira pela qual os traços se agrupam em unidades funcionais. Mais especificamente, ela formaliza o fato de que essas unidades funcionais, geometricamente expressas como ‘nós de classe’(class nodes), exibem um comportamento fonológico exatamente igual ao dos traços individuais. Assim, da mesma forma como os traços, os nós de classe podem estar envolvidos em espalhamento, apagamento ou epêntese, e sua presença pode bloquear a propagação do mesmo nó de classe. Torna-se assim possível expressar facilmente a assimilação de uma consoante a outra tanto em termos de um dado traço, quanto em termos de um grupo de traços que estão reunidos sob um mesmo nó de classe.
+1A palavra fonológica, segundo Nespor e Vogel (1986), é um constituinte da hierarquia prosódica.
+
+19 Como já foi supracitado, Clements (1976) mostra que alguns fenômenos, como a harmonia vocálica e a nasalização, devem ser considerados segundo uma análise multilinear, e não linear. Essas novas teorias que postulam camadas facilitam a maneira de abordar os processos de que a teoria linear não dava conta, como a nasalização e a harmonia vocálica, bem como os processos que envolvem a sílaba e o acento. Surgiram, então, em oposição à Fonologia Gerativa Padrão, ‘sub-teorias’: Fonologia Métrica, Fonologia Prosódica e a Fonologia Lexical, que buscaram oferecer um formalismo suficiente para a representação da sílaba, para a manipulação de fenômenos prosódicos como altura, duração e acento, e, ainda, que permitem observar a interação entre fonologia e morfologia. Essas sub-teorias são consideradas, dentro de um quadro formal, uma teoria integrada denominada Fonologia Não-Linear ou Autossegmental. Dessa forma, utilizamos tais teorias pois elas são mais adequadas para explicar alguns aspectos abordados nesta dissertação, como a sílaba, por exemplo, e também alguns processos fonológicos, como a nasalização e a lenição.
+1.4 Estrutura do Trabalho O trabalho constitui-se de seis capítulos, conclusão, apêndice e bibliografia. No primeiro capítulo apresentamos uma breve introdução, abordamos a metodologia usada no trabalho de campo para a coleta do material lingüístico utilizado nesse estudo e a metodologia de análise lingüística. No segundo capítulo apresentamos um histórico do povo Matis, com sua localização geográfica e alguns aspectos concernentes à sua língua e cultura, como também uma breve discussão dos estudos sobre a família lingüística Pano, objetivando mostrar um pouco dos trabalhos realizados com essas línguas.
+
+20 No terceiro capítulo apresentamos a descrição fonética e fonológica dos sons, e definimos os fonemas e os alofones da língua através das análises tradicionais, como par mínimo, par análogo, distribuição complementar e variação livre. Apresentamos, ainda, um comentário sobre a fonologia linear e a não-linear. A partir do quarto capítulo nossa análise norteou-se principalmente pelas teorias fonológicas não-lineares. Neste capítulo, abordamos a estrutura silábica do Matis, considerando a sílaba, os padrões silábicos, o processo de silabificação na língua, as seqüências ambivalentes e, por fim, classificamos os fonemas em classes naturais, segundo a teoria da geometria de traços (Clements e Hume, 1995). No quinto capítulo analisamos os processos fonológicos que ocorrem na língua, a saber, fusão, assimilação nasal, lenição e tapping, neutralização e apagamento vocálico. O último capítulo trata do padrão acentual da língua, em palavras simples e em palavras compostas. Concluímos a dissertação apresentando uma conclusão da análise realizada, um apêndice e, por fim, a bibliografia.
+
+21
+II
+A FAMÍLA PANO E O POVO MATIS
+2.1. A Família Lingüística Pano A família Pano é constituída por vinte e oito línguas, cujos falantes habitam as regiões fronteiriças entre Brasil (doze línguas), Peru (quatorze línguas) e Bolívia (três línguas). No Brasil, os falantes de línguas Pano estão concentrados nos estados do Amazonas, Acre e Rondônia. As línguas faladas no Amazonas são Matis, Matsés (Mayoruna) e Marubo (Costa 1992:12); no Acre encontram-se o Katukina do Acre, Kaxináwa, Poyanáwa, Yaminawa, Yawanáwa e Shanenáwa, e em Rondônia encontra-se o Kaxararí (Rodrigues, 1986). No Brasil há poucos estudos lingüísticos sobre as línguas Pano. A preocupação com o estudo das línguas indígenas reuniu quatro grandes famílias de línguas no país: Tupi, Jê, Aruak, e Karib. No entanto, pequenos grupos, como o das línguas Pano, foram esquecidos (Câmara 1979:147). Esse fato é visivelmente constatado pela ausência de estudos sobre a fonologia, a morfologia, a sintaxe e o léxico das línguas dessa família.
+
+22 Estudos das línguas Pano fora do Brasil foram realizados: no Peru, pela Universidade Nacional Mayor de San Marcos (UNMSM), e também pelo Instituto Lingüístico de Verão (SIL); na Bolívia, das três línguas Pano existentes, Yaminawa, Chácobo e Pakawara, os estudos têm focalizado o Chácobo. No Brasil, não há uma abordagem do conjunto da lingüística Pano, estando os estudos mais direcionados à língua Kaxináwa. Contudo, nos últimos anos têm-se produzido dissertações sobre línguas Pano, como os trabalhos sobre o Katukina-Pano (Barros, 1987 e Aguiar , 1988), Matsés (Carvalho, 1992), o Marubo (Costa, 1992 e Cândido, 1998). Foram produzidas, ainda, três teses de doutorado: Katukina-Pano (Aguiar, 1994), Kashinawa (Camargo, 1992), sendo esta no exterior, e Costa (2000). O que se consegue sobre a bibliografia Pano é mais de natureza históricocomparativa. Por exemplo, d’Ans (1970:90) confrontou listas lexicais de algumas línguas Pano no Peru (cashibo, panavarro, shipibo, capanawa, amawaca, isconawa, cashinawa, yaminawa e sharanawa), constatando uma considerável dispersão dialetal entre elas. Ainda assim, limitou-se à comparação de itens, baseado no questionário de Swadesh, não especificando nada sobre a fonologia dessas línguas. Encontramos, ainda, um trabalho mais abrangente, de Shell (1975), que apresenta um estudo comparativo de várias línguas Pano. Recentemente foi defendida no Brasil uma dissertação de índole comparativa do léxico Pano falado no estado do Acre. (Lanes, 2000). Finalmente, encontramos um levantamento dos materiais bibliográficos sobre as línguas Pano, de Erikson et alii (1994) e Aguiar (1994).
+
+23 2.2. Os Matis
+Os falantes da língua Matis vivem na região do Amazonas. Segundo o Centro Ecumênico de Documentação Indígena (CEDI)2, a área usada pelos Matis é uma faixa que se estende do médio Ituí, passando pelo alto Coari até o médio rio Branco.
+Segundo Erikson (1991), até a década de 60 os Matis eram desconhecidos e confundidos com os Marubo, seus parentes, com quem não possuem, até agora, boas relações. Em 1974 a Fundação Nacional do Índio (FUNAI) instalou um posto de atração no Rio Ituí. Durante dois anos os Matis apenas retiraram machados, espelhos e alimentos da casa isolada na floresta. Os primeiros contatos entre homens brancos e Matis foram em 1976. Depois do contato, epidemias devastaram a população e parte de seus costumes culturais. Por volta de 1983, os sobreviventes Matis não passavam de 87, o que causou uma forte desagregação do grupo e impossibilitou a realização de rituais como o da ‘tatuagem’3.
+O último censo realizado pelo CEDI (1991) dava conta de um número reduzidíssimo de índios, apenas 138 pessoas, distribuídas pelas aldeias do Rio Coari, do Rio Branco, do Igarapé Boeiro, do Igarapé Jacurapá e entre os igarapés Jacurapá e Boeiro. Atualmente são em média 200 pessoas. Embrenhados na selva, há uma década, antes dos primeiros contatos com os forasteiros, o número de Matis provavelmente era o dobro do atual.
+Eles ainda mantêm sua técnica agrícola, que consiste na derrubada da mata e limpeza do terreno a fogo. Produzem banana, mandioca, milho, abacaxi e outras colheitas tradicionais. Usam zarabatanas com quatro metros de comprimento para pequenas caças
+2 Atualmente Instituto Socioambiental (ISA). 3 Este ritual é feito na puberdade, quando os jovens tatuam listas em seus rostos e fazem um desenho geométrico em seus braços.
+
+24 como macacos e pássaros, e usam o arco e flecha para capturar outros animais de porte, como porcos do mato, por exemplo. Moram em grandes casas comunitárias, com teto de folhas de palmeira. (Erikson,1991).
+Como já foi dito, a língua Matis pertence à família lingüística Pano. A maioria dos membros do grupo Matis é monolíngüe, sendo que apenas três falam o português, com bastante dificuldade. Até o momento não existem estudos lingüísticos nesta língua, sendo que o nosso trabalho é o primeiro a ser realizado.
+
+25 Matis retornando da caça
+Mulher e criança retornado do banho
+
+26
+
+III DESCRIÇÃO FONÉTICA E FONOLÓGICA DOS SONS
+
+3.1. Inventário de Fones
+
+O sistema de sons da língua é constituído por 21 fones consonantais e 17 fones vocálicos. A seguir, apresentamos o quadro fonético destes fones4.
+
+3.1.1. Consoantes
+
+Modo/Ponto
+Oclusiva Nasal Africada Tepe
+Fricativa
+
+Bilabial Alveolar Pós-alveolar Retroflexo Palatal Velar
+
+p p| t t|
+
+b
+
+d
+
+k k| g
+
+m
+
+n
+
+N
+
+ts
+
+tS
+
+tß
+
+R
+
+B
+
+s
+
+ß S
+
+Aproximante
+
+w
+
+j
+
+4 Para a transcrição utilizamos os símbolos do Alfabeto Fonético Internacional (IPA, 1996).
+
+27
+
+3.1.2. Vogais
+
+Fechada
+
+Anterior
+i i) I5
+
+Central ˆ
+
+Posterior
+u u) U
+
+Meio fechada
+
+e e)
+
+´ ´)
+
+o o)
+
+Meio aberta
+
+E
+
+ç
+
+Aberta a a)
+
+3.2. Descrição dos Fonemas e seus alofones
+Como já foi dito, tomamos como ponto de partida, nesta primeira etapa da análise, os procedimentos de análise fonológica tradicional para identificar os fonemas da língua. Tendo em vista uma abordagem distribucional e seguindo as orientações da análise fonêmica tradicional, os testes de par mínimo, par análogo, distribuição complementar e variação livre foram úteis para uma primeira abordagem da língua, como uma primeira sistematização dos dados, principalmente quando se trata de descrever línguas previamente não estudadas, como no caso da língua Matis. O quadro com os fonemas consonantais é apresentado a seguir.
+
+5 O sistema do IPA considera as vogais [i] ,[I], [u] e [U] fechadas, não faz distinção, assim como considera [e] e [´] também fechadas. Como estamos trabalhando com esse sistema, não faremos distinção entre elas na tabela, embora saibamos que [I], [U] e [´] são menos fechadas que [i], [u] e [e].
+
+28 3.2.1. Quadro de Fonemas Consonantais
+
+Modo/Ponto
+Oclusiva Nasal Africada Tepe
+Fricativa Aproximante
+
+Bilabial
+p b
+m
+
+Alveolar
+t d
+
+Pós-alveolar
+
+n
+
+ts
+
+tS
+
+Palatal
+
+Velar k
+
+s w
+
+S j
+
+Esses fonemas e seus alofones são descritos a seguir. /p/: oclusiva, bilabial, surda, oral, apresenta dois alofones: [p|]: oclusiva, bilabial, surda, oral, não-explodida; ocorre no final da sílaba em final de palavra, após a queda da vogal /a/ do sufixo enfático {-dapa}6:
+
+1. (a) /kasi -dapa/ [ kasi »Rap|] magro Enf.
+
+‘magro mesmo’
+
+(b) /Sin -dapa/ [Sin»dap|] amarelo Enf.
+
+‘amarelo mesmo’
+
+[p]: oclusiva, bilabial, surda, oral; ocorre em todos os outros ambientes:
+
+2.
+
+(a) /puku/
+
+[pu»ku]
+
+‘barriga’
+
+6 Explicaremos tal processo na seção de apagamento vocálico.
+
+29
+
+(b) /tSapa/
+
+[tSa»pa]
+
+‘peixe’
+
+(c) /anpuSute/
+
+[´n) puSu'te]
+
+‘cigarro’
+
+(d) /tsispis/
+
+[tsis'pis]
+
+‘gases’
+
+/t/7: oclusiva, alveolar, surda, oral; apresenta dois alofones:
+
+[t|]: oclusiva, alveolar, surda, não-explodida, oral; ocorre em final de sílaba:
+
+3.
+
+(a) /setkiaS/
+
+[set|ki»aS]
+
+‘amanhã’
+
+(b) /pˆtkate/
+
+[pˆt|ka»te]
+
+‘lanterna’
+
+(c) /kapˆt/
+
+[ka»pˆt|]
+
+‘jacaré’
+
+(d) /awat/
+
+[a»wat|]
+
+‘anta’
+
+[t]: oclusiva, alveolar, surda, oral; ocorre em todos os outros ambientes:
+
+4.
+
+(a) /pˆte/
+
+[pˆ»te]
+
+‘urucum’
+
+(b) /nunti/
+
+[nun) »ti]
+
+‘tipo de ostra’
+
+(c) /takpan/
+
+[tak|»pan) ]
+
+‘ralador’
+
+(d) /uStokin/
+
+[uSto»kin) ]
+
+‘hoje de manhã
+
+/k/: oclusiva, velar, surda, oral; apresenta três alofones:
+
+[k|]: oclusiva, velar, surda, oral, não-explodida; ocorre em final de sílaba:
+
+5. (a) /nakte/
+
+[nak|»te]
+
+‘metade’
+
+7 O fonema /t/ se transforma em [R] nas fronteiras morfológicas. Trataremos desse processo no capítulo cinco.
+
+30
+
+(b) /bukSan/
+
+[buk|»San) ]
+
+‘pulmão’
+
+(c) /tsˆkek/
+
+[tsˆ»kek|]
+
+‘cócegas’
+
+(d) /pˆmadek/
+
+[pˆma»Rek|]
+
+‘sobrancelha’
+
+[N]: nasal, velar, sonora; ocorre em fronteira de morfemas8. Quando adiciona-se um sufixo
+
+iniciado por uma consoante nasal , a raiz do verbo que termina em /k/ torna-se [N]. Assim,
+
+[N] ocorre somente antes de [n], em fronteira de morfemas.
+
+6.
+
+(a) /kuak -nu/
+
+escutar -Des.
+
+[kua) N) »nu]
+
+‘quero escutar’
+
+(b) /ak -nu/ beber -Des.
+
+[aN) 'nu]
+
+‘quero beber’
+
+Quando o sufixo se inicia por uma vogal, /k/ se manifesta sempre como [k]:
+
+7. (a) /kuak -e -k/
+escutar -N.Pass. -?
+
+[kua»kek|]
+
+‘(ele) escuta’
+
+(b) /ak -e
+
+-k/
+
+beber -N.Pass. -?
+
+[a'kek|]
+
+‘(ele)bebe’
+
+[k]: oclusiva, velar, surda; ocorre em todos os outros ambientes.
+
+8.
+
+(a) /kiSakete/
+
+[kiSake»te]
+
+‘barba’
+
+(b) /dakute/
+
+[daku»te]
+
+‘toalha’
+
+31
+
+(c) /pˆtkate/
+
+[pˆt|ka»te]
+
+‘lanterna’
+
+(d) /buku/
+
+[bu»ku]
+
+‘embaúba’
+
+Outra característica fonética do fonema /k/ é que ele ocorre opcionalmente como oclusiva velar sonora [g] quando se dá entre vogais e depois da consoante nasal [n].
+
+Portanto, nestas posições [k] e [g] variam livremente, tanto na fala rápida quanto na lenta.
+
+9.
+
+(a) /uSankete/
+
+[uSan) ke»te] ≈
+
+[uSan) ge»te] ‘dormitório’
+
+(b) /unkin/
+
+[un) »kin) ] ≈ [un) »gin) ] ‘caitetu’
+
+(c) /tSoSkekit/ [tSoSke»kit] ≈ [tSoSke»git] ‘poderoso’
+
+(d) /Seket/
+
+[Se»ket|] ≈ [Se»get|]
+
+‘amolar’
+
+(e) /kunkeket/ [kun) ke»ket] ≈ [kun) ge»get|] ‘vento’
+
+[b]: oclusiva, bilabial, sonora, oral; apresenta dois alofones:
+
+[B]: fricativa, bilabial, sonora; ocorre em posição intervocálica:
+
+10. (a) /Subu/
+
+[Su»Bu]
+
+‘casa’
+
+(b) /nebi/
+
+[ne»Bi]
+
+‘hoje’
+
+(c) /dabˆtpa/
+
+[daBˆt|»pa]
+
+‘número dois’
+
+(d) /dadasibo/
+
+[daRasi»Bç]
+
+‘vovô’
+
+8 Discutiremos este processo mais detalhadamente na seção de assimilação de nasalidade.
+
+32 [b]: oclusiva, bilabial, sonora; ocorre em todos os outros ambientes.
+
+11. (a) /bˆtaSte/ (b) /batadapa/ (c) /danbudu/ (d) /tSinbotak/
+
+[bˆtaS»te] [bataRa»pa] [danbu»Ru] [tSinbo»tak|]
+
+‘porta’ ‘sal’ ‘joelho’ ‘depois’
+
+[d]: oclusiva, alveolar, sonora, oral; apresenta dois alofones:
+
+[R]: tepe, alveolar, sonoro; ocorre em posição intervocálica.
+
+12 (a) /dada/
+
+[da»Ra]
+
+‘macho’
+
+(b) /dudu/
+
+[du»Ru]
+
+‘graveto’
+
+(c) /munude/
+
+[munu»Re]
+
+‘lança’
+
+(d) /pudunte/
+
+[puRun) »te]
+
+‘coxa’
+
+[d]: oclusiva, alveolar, sonora; ocorre em todos os outros ambientes.
+
+13. (a) /dakute/ (b) /dadoite/ (c) /dendu/ (d) /inden/
+
+[daku»te] [daRçi»te] [den) »du] [in) 'den) ]
+
+‘toalha’ ‘papel’ ‘puraquê’ 'antigamente'
+
+33 /m/: nasal, bilabial, sonora; ocorre em todos os ambientes como [m]:
+
+14. (a) /matSo/ (b) /mˆSte/ (c) /isama/ (d) /winm´/
+
+[ma»tSç] [mˆS»te] [isa»ma] [win) »m´]
+
+‘velha’ ‘fogo’ ‘não presta’ 'batata'
+
+/n/: nasal, alveolar, sonora; ocorre em todos os ambientes como [n]:
+
+15.
+
+(a) /nˆ/
+
+[nˆ]
+
+'aqui'
+
+(b) /inawat/
+
+[ina'wat|]
+
+'capivara'
+
+(c) /mente/
+
+[men) 'te]
+
+'material para fazer fogo'
+
+(d) /wanin/
+
+[wa'nin]
+
+pupunha
+
+(e) /wesnit/
+
+[wes'nit|]
+
+'mutum'
+
+/ts/: africada, alveolar, surda; ocorre em todos os ambientes como [ts]:
+
+16.
+
+(a) /tsaku/
+
+[tsa'kU]
+
+'urana'
+
+(b) /tsadi/
+
+[tsa'Ri]
+
+'milho'
+
+(c) /wˆtsibo/
+
+[wˆtsi'Bo]
+
+'família'
+
+(d) /katsu/
+
+[ka'tsU]
+
+'seta'
+
+34 /tS/: africada, pós-alveolar, surda; em todos os ambientes ocorre como [tS]:
+
+17. (a) /tSot/
+
+[tSçt|]
+
+'terra'
+
+(b) /´ntSiste/
+
+[´n) tSis'te]
+
+'cana-de-açúcar'
+
+(c) /k´ntSi/
+
+[k´n) 'tSi]
+
+'abacaxi'
+
+(d) /nitSak/
+
+[ni'tSak| ]
+
+'suado'
+
+/s/: fricativa, alveolar, surda; em todos os ambientes ocorre como [s]:
+
+18.
+
+(a) /siwa/
+
+[si'wa]
+
+'pium'
+
+(b) /patuskaæ/
+
+[patus'kaæ]
+
+'furo da orelha'
+
+(c) /kamis/
+
+[ka'mis]
+
+'tipo de planta'
+
+(d) /masi/
+
+[ma»si]
+
+‘areia’
+
+/S/: fricativa, pós-alveolar, surda; apresenta dois alofones:
+
+[ß]: fricativa, retroflexa, surda; ocorre antes de vogais centrais e posteriores.
+
+19. (a) /tˆSˆ/
+
+[tˆ»ßˆ]
+
+‘rio’
+
+(b) /buSono/
+
+[bußo»no]
+
+‘sucuri’
+
+(c) /poSo/
+
+[pç»ßç]
+
+‘tucumam’
+
+(d) /bukSan/
+
+[buk|»ßan) ]
+
+‘pulmão’
+
+[S]: fricativa, pós-alveolar, surda; ocorre em todos os outros ambientes.
+
+35
+
+20.
+
+(a) /Sin/
+
+[Sin) ]
+
+‘amarelo/laranja’
+
+(b) /duSekek/
+
+[duSe»kek|]
+
+‘afiar’
+
+(c) /tiSkat/
+
+[tiS»kat]
+
+‘boto’
+
+/w/: aproximante, bilabial, sonora; ocorre como [w] em início de sílaba: 21.
+
+(a) /wensin/
+
+[wen) 'sin) ]
+
+'capim'
+
+(b) /iwiwa/
+
+[iwi'wa]
+
+'flor'
+
+(c) /Saw´/
+
+[Sa'w´]
+
+'jaboti'
+
+/æ/: aproximante, palatal, sonora; ocorre como [æ] no final de sílaba, e somente em final de
+
+palavra: 22.
+(a) /baj/
+
+['baj]
+
+‘caminho’
+
+(b) /tSimoj/
+
+[tSi'mçj]
+
+‘dor’
+
+(c) /mikuj/
+
+[mi'kuj]
+
+‘2.p.pl.’
+
+3.3. Descrição dos Fonemas Vocálicos A análise de nossos dados permitiu-nos identificar 7 fonemas vocálicos. A seguir,
+apresentaremos o quadro dos fonemas vocálicos e descreveremos seus respectivos alofones.
+3.3.1. Quadro de Fonemas Vocálicos
+
+36
+
+Fechada Meio fechada
+
+Anterior i
+
+Central ˆ
+
+Posterior u
+
+e
+
+´
+
+o
+
+Aberta
+
+a
+
+Esses fonemas e seus alofones são descritos a seguir.
+
+/i/: vogal, anterior, alta, fechada, oral, não-arredondada; apresenta dois alofones:
+
+[i]) : vogal, anterior, alta, fechada, nasalizada, não-arredondada; ocorre antes da nasal [n]
+
+quando esta está em final de sílaba:
+
+23.
+
+(a) /binsin/
+
+[bi)n'sin) ]
+
+'caba'
+
+(b) /tidinte/
+
+[tiRin) 'te]
+
+‘zarabatana’
+
+(c) /detSipin/
+
+[detSipin) ]
+
+'caju'
+
+(c) /madiwin/
+
+[maRi'win) ]
+
+'ritual Matis'
+
+[i]: vogal, anterior, alta, fechada, oral, não-arredondada; ocorre em todos os outros
+
+ambientes:
+
+24.
+
+(a) /imi/
+
+[i'mi]
+
+'sangue'
+
+(b) /iwiwa/
+
+[iwi'wa]
+
+'flor'
+
+37
+
+(c) /kini/
+
+[ki'ni]
+
+'buraco'
+
+(d) /i/
+
+[i]
+
+'arraia'
+
+Esse fonema vocálico /i/ pode ocorrer também como [I] em todos os ambientes, sendo
+
+interpretado como variação livre do fonema /i/:
+
+25.
+
+(a) /kasi/
+
+[ka»sI] ≈ [ka»si]
+
+‘magro’
+
+(b) /piti/
+
+[pI»tI] ≈ [pi»ti]
+
+‘comida’
+
+(c) /mapiSo/
+
+[mapI»Sç] ≈ [mapi»Sç] ‘camarão’
+
+(d) /siwa/
+
+[sI»wa] ≈ [si»wa]
+
+‘pium’
+
+/e/: vogal, anterior, média, meio fechada, oral, não-arredondada; apresenta dois alofones:
+
+[e)]: vogal, anterior, média, meio fechada, nasalizada, não-arredondada; ocorre antes da
+
+nasal [n] quando esta está em final de sílaba:
+
+26.
+
+(a) /dendu/
+
+[den) 'du]
+
+'puraquê'
+
+(b) /dadenpa/
+
+[daRen) 'pa]
+
+'muito'
+
+(c) /koden/
+
+[ko'Ren) ]
+
+'bacuri'
+
+(d) /inden/
+
+[ in) 'den) ]
+
+'antigamente'
+
+[e]: vogal, anterior, média, meio fechada, oral, não-arredondada; ocorre em todos os outros ambientes:
+27.
+
+38
+
+(a) /epapa/
+
+[epapa]
+
+'número um'
+
+(b) /sekte/
+
+[sek|'te]
+
+'peneira'
+
+(c) /kunkeket/
+
+[kun) ge'get|]
+
+'vento'
+
+(d) /we/
+
+[we]
+
+'chuva'
+
+(e) /pˆte/
+
+[pˆ'te]
+
+'urucum'
+
+Além das características apresentadas acima para o fonema /e/, observa-se que ele pode variar livremente na sua emissão fonética com a vogal meio aberta [E] em todos os
+
+ambientes: 28.
+(a) /made/
+
+[ma'Re] ≈ [ma'RE]
+
+‘cutia’
+
+(b) /soke/
+
+[so'ke] ≈ [so'kE]
+
+‘formiga’
+
+(c) /setkiaS/
+
+[set|ki'aS] ≈ [sEt|ki'aS] 'amanhã'
+
+(d) /wesnit/
+
+[wes'nit|] ≈ [wEs'nit|] 'mutum'
+
+/a/: vogal, central, baixa, aberta, oral, não-arredondada; apresenta dois alofones:
+
+[a)]: vogal, central, baixa, aberta, nasalizada, não-arredondada; ocorre antes da nasal [n]
+
+quando esta está em final de sílaba:
+
+29.
+
+(a) /antSiste/
+
+[a)ntSis'te]
+
+‘cana de açúcar’
+
+(b) /tSianpi/
+
+[tSian) 'pi]
+
+'menina'
+
+(c) /anudante/
+
+[anuRa)n'te]
+
+'anzol'
+
+39
+
+(d) /t´S'pan/
+
+[t´S'pan) ]
+
+'nuca'
+
+[a]: vogal, central, baixa, aberta, oral, não-arredondada; ocorre em todos os outros
+
+ambientes:
+
+30.
+
+(a) /apat/
+
+[a'pat]
+
+'igual'
+
+(b) /paut/
+
+[pa'ut|]
+
+'enfeite de orelha'
+
+(c) /dadasibo/
+
+[daRasi'Bç]
+
+'velho' (humano)
+
+d) /posa/
+
+[po'sa]
+
+'estômago'
+
+/ˆ/: vogal, central, alta, fechada, oral, não-arredondada; ocorre em todos os ambientes como
+
+[ˆ]:
+
+31.
+
+(a) /tˆSˆ/
+
+[tˆ'Sˆ]
+
+'rio'
+
+(b) /dabˆtpa/
+
+[daBˆt|'pa]
+
+'número dois'
+
+(c) /kˆnˆ/
+
+[kˆ'nˆ]
+
+'parede'
+
+(d) /imˆt/
+
+[i'mˆt|]
+
+'noite'
+
+/´/: vogal, central, média, meio fechada, oral, não-arredondada; apresenta dois alofones:
+
+[´]) : vogal, central, média, meio fechada, nasalizada, não-arredondada; ocorre antes da nasal [n] quando esta está em final de sílaba: 32.
+
+40
+
+a) /w´np´n/
+
+[w´)n'p´n) ]
+
+'barata'
+
+b) /k´ntSu/
+
+[k´)n»tSu]
+
+‘carangueijo’
+
+c) /deS´n/
+
+[de'S´)n]
+
+'nariz'
+
+d) /is´n/
+
+[i's´)n]
+
+'patauá'
+
+[´]: vogal, central, média, meio fechada, oral, não-arredondada; ocorre em todos os outros ambientes:
+
+33. (a) /p´dikit/ (b) /ku´bu/ (c) /tSun´/ (d) /tSip´/
+
+[p´Ri'kit|] [ku´'Bu] [tSu'n´] [tSi'p´]
+
+'vermelho' 'jacu' 'assado' 'mutuca'
+
+/u/: vogal, posterior, alta, fechada, oral, arredondada; apresenta dois alofones:
+
+[u]) : vogal, posterior, alta, fechada, nasalizada, arredondada; ocorre antes da nasal [n]
+
+quando esta está em final de sílaba:
+
+34.
+
+a) /nunte/
+
+[nun) 'te]
+
+'canoa'
+
+b) /pudunte/
+
+[puRun) 'te]
+
+‘coxa’
+
+c) /tanun/
+
+[ta'nun) ]
+
+'sol'
+
+d) /pinun/
+
+[pi'nun) ]
+
+'beija-flor'
+
+41 [u]: vogal, posterior, alta, fechada, oral, arredondada; ocorre em todos os outros ambientes:
+
+35. (a) /u/ b) /puku/
+
+[u] [pu'ku]
+
+‘lá’ 'barriga'
+
+c) /atSuwˆS/
+
+[atSu'wˆS]
+
+'todos'
+
+d) /kaSuku/
+
+[kaSu'ku]
+
+'costas'
+
+O fonema vocálico /u/, além de seus alofones descritos acima, pode variar livremente com [U] em todos os ambientes:
+
+36. (a) /tSuna/
+
+[tSU»na] ≈
+
+[tSu»na]
+
+‘macaco’
+
+(b) /dakute/
+
+[dakU»te] ≈ [daku»te]
+
+‘toalha’
+
+(b) /matSuku/
+
+[m´tSU»kU] ≈ [m´tSu»ku] ‘punho’
+
+/o/: vogal, posterior, média, meio fechada, oral, arredondada; apresenta dois alofones:
+
+[o)] vogal, posterior, média, meio fechada, nasalizada, arredondada; ocorre antes da nasal
+
+[n] quando esta está em final de sílaba:
+
+37.
+
+(a) /tSon/
+
+[tSon) ]
+
+'larva'
+
+(b) /tonpi/
+
+[to)n'pi]
+
+'lagarta'
+
+(c) /bˆdikimon/
+
+[bˆriki'mon) ]
+
+'piau'
+
+(d) /datonkete/
+
+[dato)nge'te]
+
+'roupa'
+
+42
+
+[o]: vogal, posterior, média, meio fechada, oral, arredondada; ocorre em todos os outros
+
+ambientes:
+
+38.
+
+(a) /opo/
+
+[o'po]
+
+'bolsinha do cesto da zarabatana'
+
+(b) /posa/
+
+[po'sa]
+
+'estômago'
+
+c) /buSono/
+
+[buSo'no]
+
+'sucuri'
+
+(d) /tSitSiko/
+
+[tSitSi'ko]
+
+'tipo de caracol'
+
+Esse fonema vocálico /o/ pode ocorrer também como vogal meio aberta [ç] em todos os
+
+ambientes, sendo interpretado como variação livre do fonema /o/:
+
+39.
+
+(a) /Sote/
+
+[So'te]
+
+≈ [Sç'te]
+
+‘aranha’
+
+(b) /tSodokote/ [tSoRoko'te] ≈ [tSçRçkç'te] ‘carregador de nenê’
+
+(c) /iSakimo/
+
+[iSaki'mo] ≈ [iSaki'mç]
+
+‘gostoso’
+
+(d) / maSo/
+
+[ma'So] ≈ [ma'Sç]
+
+‘cabeça’
+
+Para o reconhecimento dos fonemas tanto consonantais como vocálicos e de seus respectivos alofones temos seguido essencialmente o critério distribucional. Assim, escolhemos a consoante bilabial sonora /b/ como fonema pois ela possui uma distribuição menos limitada que o seu alofone [B], visto que ocorre em início de palavra, e no interior de palavra depois de consoante, e o [B] ocorre apenas entre vogais: /buku/ [bu'ku] ‘embaúba’; /danbudu/ [dan) bu'Ru] ‘joelho’; /abu/ [a'Bu] ‘céu’.
+
+43 A consoante alveolar sonora /d/ foi considerada como fonema pois ocorre em início de palavra, e no interior de palavra depois de consoante, já o seu alofone [R] ocorre somente entre vogais. O fonema /d/ tem, portanto, uma distribuição menos limitada que o [R]: /dawˆs/ [da'wˆs] ‘cunhada mais velha’; /dendu/ [den) 'du] ‘puraquê’, /dada/ [da'Ra] ‘macho’. Sendo que a consoante alveolar surda /t/ ocorre em início de palavra, e em interior de palavra depois de consoantes e entre vogais, possui uma distribuição menos limitada que o seu alofone [t|], que ocorre somente em final de sílaba. Daí a sua escolha como fonema: /tawa/ [ta'wa] ‘taboca’; /pudunte/ [puRun) 'te] ‘cocha’; /manat/ [ma'nat|] ‘aça’’; /putkate/ [put|ka'te] ‘lanterna’. Com relação à consoante velar surda /k/, esta possui uma distribuição menos limitada que os seus alofones [k|] e [N], uma vez que ocorre em início de palavra, e em interior de palavra depois de consoante e entre vogais, já o [k|] ocorre somente em final de sílaba, e o [N] tem uma distribuição restrita, limitando-se a um ambiente de fronteira de morfemas: /kunu/ [ku»nu] ‘parede’; /putkate/ [put|ka»te] ‘lanterna’; /dakute/ [daku»te] ‘toalha’; /bukSan/ [buk|ßan) ] ‘pulmão’; /tsukek/ [tsu»kek|] ‘cócegas’; /kuak -nu/ [kua) N) »nu] ‘quero escutar’. Finalmente, em relação aos segmentos [S] e [ß], qualquer um deles poderia ter sido selecionado como fonema, visto que ambos têm uma distribuição semelhante: /S/ ocorre antes de vogais anteriores, e [ß] antes de vogais centrais e posteriores: /Sin/ [Sin) ] ‘amarelo’; /buSono/ [bußo»no] ‘sucuri’; /tˆSˆ/ [tˆ»ßˆ] ‘rio’. No entanto, o último possui uma distribuição
+
+44 um pouco mais ampla, o que nos levaria a postularmos a fricativa retroflexa como fonema. Ainda, em termos de simplicidade de regra, /ß/ deveria ser o fonema, e /S/ o seu alofone, numa regra em que /ß/ torna-se /S/ antes de vogais anteriores.
+Apesar dos argumentos acima, e do fato de que em algumas línguas da família lingüística Pano /ß/ é considerado um fonema (Kaxináwa, Shanenawá), preferimos postular o segmento /S/ como o fonema e [ß] como um de seus alofones , levando em consideração o critério de naturalidade, ou seja, é mais comum a ocorrência do /S/ nas línguas naturais.
+Com relação às vogais, pela freqüência de distribuição nos sistemas fonológicos conhecidos, optamos por definir /i/, /e/, /u/ e /o/ como fonemas, e não suas variantes [I], [E], [V] e [ç], embora na emissão fonética estes últimos sejam bastante comuns.
+Todas as variações das vogais ocorrem independentemente do estilo de fala, ou seja, na fala lenta e na fala rápida. Aparentemente existe uma harmonia vocálica nas formas variantes, pois em palavras como [tSçRçkç'te] ‘carregador de nenê’, todas as vogais posteriores são abertas, não sendo possível uma combinação como *[tSoRçko'te], e em palavras como [pi'ti] ‘comida’, as duas vogais são fechadas, ou abertas, [pI'tI], não sendo possível a forma *[pI'ti] . Porém, não temos conclusões definitivas, pois este assunto precisa ser aprofundado para uma melhor discussão.
+Verificamos, portanto, que a língua Matis possui 13 fonemas consonantais, sendo eles /p/, /b/, /t/, /d/ /k/, /m/,/n/, /ts/, /tS/, /s/, /S/, /w/ e /j/ e 7 fonemas vocálicos, /a/, /e/, /i/, /o/, /u/, /´/ e /ˆ/.
+
+45
+IV
+A ESTRUTURA SILÁBICA DO MATIS 4.1. A sílaba A sílaba é uma unidade de organização prosódica através da qual uma língua expressa muito da sua fonologia, havendo motivações para seu reconhecimento na teoria fonológica. É domínio natural para o estabelecimento de restrições fonotáticas, ou seja, limitações na distribuição de sons e seqüências sonoras em vários pontos (inicial, medial, final) na palavra fonológica ou frase, referência de regras fonológicas, e ‘meta’ de processos fonológicos (Blevins, 1995). Porém, como dissemos em seção anterior, alguns autores, como Chomsky e Halle (1968), não reconheceram a sílaba como uma unidade descritiva necessária. Foi afirmado por Vennemann (1972) e Hooper (1976) que uma teoria explicativa da fonologia não poderia operar sem reconhecer a sílaba, que se tornou completamente reabilitada na fonologia não-linear. A teoria da sílaba também lida com a estrutura interna da sílaba, mais particularmente com a questão de se e quanta estrutura interna é necessária para expressar generalizações fonologicamente significativas.
+
+46 Vários autores9, entre eles Selkirk (1982) e Kenstowicz (1994), consideram a sílaba como um constituinte que tem estrutura interna e uma hierarquia, constituída por um elemento opcional, o Onset, e por outro obrigatório, a Rima que, por sua vez, se subdivide em um Núcleo, também obrigatório, e uma Coda, opcional. Os constituintes da sílaba não estão diretamente ligados à melodia segmental, ou seja, há entre eles uma camada denominada esqueleto, constituída por posições X’s (ou unidades de tempo). A estrutura da sílaba, portanto, pode ser representada conforme o esquema abaixo, onde x é a unidade de tempo, r é a raiz e // é melodia segmental, ou seja, o lugar onde aparecem os segmentos. 40.
+4.2. Tipos de Padrões silábicos Os padrões silábicos encontrados na língua Matis são V, VC, CV e CVC. Todos estes padrões ocorrem tanto na posição pré-tônica quanto na tônica, sendo que o padrão mais recorrente é CV. O padrão V ocorre em início e final de palavra e em monossílabos sem presença de Onset e Coda, sendo que neste último ocorrem somente as vogais /u/, /ˆ/ e
+9 Pike, K. e Pike, E. (1947) já haviam considerado a definição de sílaba como uma estrutura constituída por um onset, um peak (ou núcleo) e uma coda.
+
+47
+
+/i/. Estes padrões podem ser resumidos na fórmula básica (C ) V ( C ), que representa o
+
+molde ou planilha silábica da língua. Exemplos:
+
+41.
+
+V
+
+a) /u/ b) /i.tSˆk/
+
+‘lá’ ‘cobra coral’
+
+VC a) / tSi.an.pi/ b) /is.kin/
+
+‘menina’ ‘olhar’
+
+Cv
+a) /bˆ.dˆ.ki.mon/ b) /e.pa/
+
+‘piau’ ‘palha’
+
+CVC a) /ka.mis/ b) /daS.ki.dat/
+
+‘tipo de planta’ ‘limpo’
+
+Dessa forma, podemos dizer que na língua Matis há sílabas compostas por Núcleo apenas (V), por Núcleo e Coda (VC), por Onset e Núcleo (CV) e por Onset, Núcleo e Coda (CVC). A palavra mínima é composta por V ( cf.exemplo 41).
+
+48 As consoantes que ocupam o Onset da sílaba10 são as obstruintes e as nasais. As que ocupam a Coda da sílaba são apenas as obstruintes /t, k, s, S/ e a nasal /n/. O Núcleo silábico é ocupado pelas vogais abaixo representadas. Assim, temos a estrutura da sílaba na língua: 42.
+
+/j/
+
+A seguir, exemplos de consoantes no início, interior e final de palavras:
+
+4.2.1 Posição de Onset
+
+a) Obstruintes
+
+/p/ 43.
+
+a) /pˆpe/
+
+‘tapiri’
+
+10 Embora tenhamos reconhecido as aproximantes [w] e [j] como fonemas, na análise fonêmica, elas serão consideradas, na análise final, como realizações fonéticas de /u/ e /i/, respectivamente, como propõe o modelo
+
+49
+
+b) /anpuSute/
+
+‘cigarro’
+
+c) /apat/
+
+‘igual’
+
+/b/ 44.
+a) /bˆda/
+b) /d´nbudu/
+c) /´nbi/
+
+‘fácil’ ‘joelho’ ‘eu’
+
+/t/ 45.
+a) /tˆSˆ/
+b) /tSUtudu/
+c) /tSate/
+
+‘rio’ ‘camaleão’ ‘cadeira’
+
+/d/ 46.
+a) /dakUte/
+b) /anudante/
+c) /dendu/
+
+‘toalha’ ‘anzol’ ‘puraquê’
+
+/k/ 47.
+a) /kasi/
+
+‘magro’
+
+da geometria de traços (Clements e Hume, 1995), portanto, não estão representadas em (42). Trataremos desse assunto na seção 4.4.
+
+50
+
+b) /ikene/
+
+‘frio’
+
+c) /buku/
+
+‘embaúba’
+
+b) Africadas e Fricativas
+
+/ts/ 48.
+a) /tsadi/
+b) /uˆtsibo/
+c) /katsu/
+
+‘milho’ ‘família’ ‘seta ‘
+
+/tS/ 49.
+a) /tSˆSˆ/
+b) /´ntSiste/
+c) /nitSak/
+
+‘rio’ ‘cana-de-açúcar’ ‘suado’
+
+/s/ 50.
+a) /sapa/
+b) /masoko/
+c) /kasi/
+
+‘cesto’ ‘tipo de mico’ ‘magro’
+
+/S/ 51.
+a) /Sˆta/
+
+‘dente’
+
+51
+
+b) /kaSipa/
+
+‘costa’
+
+c) /maSo/
+
+‘cabeça’
+
+c) Nasais
+/m/ 52.
+a) /mapi/ b) /imˆtapa/
+c) /tSum´/
+/n/ 53.
+a) /nane/
+b) /anudante/ c) /buSono/
+
+‘cérebro’ ‘noite’ ‘cuia’
+‘cadáver’ ‘anzol’ ‘surucucu’
+
+4.2.2. Posição de Coda As consoantes /s, S, n, t, k / ocorrem tanto na Coda interna quanto na Coda final, porém, em nossos dados, em palavras de três sílabas, como nos exemplos anteriores, não encontramos o /k/ na segunda sílaba da palavra.
+
+a) Nasal
+
+/n/ 54.
+a) /nunte/
+
+‘canoa’
+
+52
+
+b) /mˆk´ntet/
+
+‘dez’
+
+c) /uanin/
+
+‘mingau’
+
+b) Fricativas
+
+/s/ 55.
+a) /beskai/ b) /antSiste/ c) /kamis/
+/S/ 56.
+a) /bˆSti/ b) /bˆtaSte/ c) /maSaS/
+c) Obstruintes
+/t/ 57.
+a) /Sotko/ b) /Sˆkˆtkaj/ c) /auat/
+/k/
+
+‘varrer’ ‘cana-de açúcar’ ‘tipo de planta’
+‘macaco da noite’ ‘porta’ ‘pedra’
+‘machado’ ‘coceira’ ‘anta’
+
+53
+
+58. a) /nakte/
+
+‘metade’
+
+b) /uakaSak/
+
+‘igarapé’
+
+4.2.3 Posição de Núcleo
+
+/a/ 59.
+a) /kaSipa/
+b) /epapa/
+c) /kuda/
+
+‘costas’ ‘número 1’ ‘ponta da flecha’
+
+/e/ 60.
+a) /deko/
+b) /dadenpa/
+c) /anudante/
+
+‘caracol’ ‘bastante' ‘anzol’
+
+/i/ 61.
+a) /bitSi/
+b) /detSipin/
+c) /butSin/
+
+‘pele’ ‘caju’ ‘irmão mais velho’
+
+54
+
+/o/ 62.
+a) /kode/
+
+‘bacuri’
+
+b) /buSono/
+
+‘surucucu’
+
+c) /poSo/
+
+‘tucumã’
+
+/u/ 63.
+a) /budu/
+b) /munude/
+c) /dudu/
+
+‘olho’ ‘lança’ ‘graveto’
+
+/ˆ/ 64.
+a) /bˆda/
+b) /imˆtapa/
+c) /kapˆt/
+
+‘bom, fácil’ ‘noite’ ‘jacaré’
+
+/´/ 65.
+a) /p´bu/
+b) /uS´nkete/
+c) /tSum´/
+
+‘peito’ ‘dormitório’ ‘cuia’
+
+55 4.3 Silabificação
+
+Já vimos, em seção anterior, a constituição da sílaba. Abordaremos agora o processo
+
+de silabificação em Matis.
+
+Kenstowicz (1994) considera o núcleo da sílaba como constituinte obrigatório, como
+
+centro essencial da sílaba. Conforme observa o autor, o status do núcleo como constituinte
+
+obrigatório encontra várias motivações. Uma primeira motivação é que CV, VC, V, e CVC
+
+representa um dos inventários silábicos mais primitivos, sendo que sistemas mais
+
+complexos surgem a partir do aumento desse inventário, que tem a vogal nuclear V como
+
+único fator constante entre esses quatro padrões. Uma segunda motivação é o papel do
+
+núcleo como um elemento ótimo portador de tom ou acento.
+
+Como o núcleo é a base da sílaba, esta é construída a partir desse centro. As línguas
+
+possuem as seguintes regras de atribuição, que atribuem uma vogal ao núcleo e uma
+
+consoante pré-vocálica à posição de Onset, respectivamente:
+
+66.
+
+a)
+
+b)
+
+V→ V !
+N ! N» ! N»»
+
+C
+
+V
+
+!
+
+N !
+
+N»
+
+!
+
+N»»
+
+Algumas línguas possuem apenas essas duas regras de silabificação, com um inventário silábico restrito a V, CV. Porém, a maioria delas possui os padrões V, CV, VC, CVC, com a aplicação de (c), que adiciona uma consoante à Coda, como é o caso da língua Matis:
+
+56
+
+c)
+
+V
+
+C
+
+!
+
+N !
+
+N»
+
+As regras em (66) se aplicam nessa ordem, de modo que as seqüências VCV silabificam como V.CV., sendo que a silabificação VC.V é incomum e surge a partir de regras especificas às línguas. Segundo o autor, isso se deve à tendência a evitar sílabas sem Onset. Línguas que possuem apenas as regras em (66) não permitem palavras iniciadas ou terminadas por grupos consonantais. Dessa forma, seqüências #CC, CCC e CC# evocam regras de epêntese ou simplificação de grupos consonantais, através do apagamento.
+Assumindo que algumas regras fonológicas aplicam-se ciclicamente, é de se esperar que consoantes se ressilabifiquem, em resposta a um afixo sem Onset, evitando, assim, sílabas sem Onset. A ressilabificação deve ser vista como resultado de regras que alteram a estrutura silábica Justamente isso ocorre na língua Matis, em fronteiras de morfemas e palavras, associando-se à raiz um sufixo ou uma palavra iniciada por uma vogal. Outra regra que funciona na língua é a regra de apagamento vocálico que também resulta na reanálise da estrutura silábica. Detalharemos tais processos posteriormente.
+Assim, verificando os padrões silábicos na seção 4.2, podemos postular para o Matis as regras de construção de estrutura silábica representadas em (67), como (67) a, b, e c. A silabificação de uma palavra como kamis, ‘tipo de planta’, deve seguir os seguintes passos: a) atribuição de núcleo, b) atribuição de Onset e c) atribuição de Coda, representados, respectivamente, em (67) a, b, e c.
+
+57
+
+67.
+
+a)
+ka m i s
+
+b)
+k am i s
+
+c)
+ka mi s
+
+NN N»» N»»
+
+NN N»» N»»
+
+N
+
+N
+
+N»»
+
+N»
+
+N»»
+
+Portanto, a silabificação se dá nessa ordem. Podemos confirmá-la pelo fato de que as seqüências VCV, como em ana ‘língua’ se silabificam como V. CV, e não como VC.V,
+
+caso em que (67(c)) precederia (67(b)). No Matis confirma-se, dessa maneira, a tendência a evitar sílabas sem Onset. Observamos, assim, que a silabificação se dá na palavra fonológica. A ressilabificação ocorre em fronteira de morfemas, quando da junção de sufixos à palavra. Discutiremos este assunto posteriormente.
+Como podemos observar pelos exemplos em (59)-(65), qualquer vogal do sistema da língua pode constituir núcleo silábico. Todas as consoantes podem ocupar a posição de Onset. Entretanto, de acordo com os exemplos em 4.2.2, somente algumas consoantes podem ocorrer na Coda. Na medida em que o Matis apresenta as regras de silabificação em (66), não existem na língua palavras iniciadas ou terminadas por grupos consonantais, ou seja, na palavra fonológica não há a seqüência CC. Entretanto, quando há a adição de sufixos, podem surgir grupos consonantais idênticos no interior da palavra. Porém, essa ocorrência é escassa, e quando ocorrem, seqüências do tipo CC são divididas entre a Coda da sílaba precedente e o Onset da sílaba seguinte, em conformidade com as regras (66) (b) e (c), como é o caso do sufixo imperativo –ta, como no exemplo a seguir.
+
+68.
+
+58
+
+a) anˆt|
+
+‘parar’
+
+b) -ta
+
+‘imperativo’
+
+c) /anˆt -ta/ [anˆtta] ‘pare!’
+
+Tal fato não cria um novo tipo de padrão silábico, pelas razões expostas acima, mas
+
+aparentemente estaria violando o ‘Princípio do Contorno Obrigatório’ (OCP), que diz que
+
+elementos adjacentes idênticos são proibidos (Clements e Hume, 1995). Em muitas línguas
+
+as violações de OCP são resolvidas por regras de fusão ou assimilação de nós idênticos,
+
+bloqueio de regras de síncope, e a inserção de segmentos epentéticos. Porém, parece não
+
+ser o caso do Matis, como verificamos no exemplo acima.
+
+Assim, a língua não cria nenhum tipo de mecanismo que impeça tais segmentos
+
+adjacentes. Observamos, no entanto, que esse tipo de seqüência se dá somente em fronteira
+
+de morfemas, e nunca no interior da palavra, o que indica que a seqüência tt é apenas o
+
+resultado de um processo morfológico, não representando um fato recorrente na língua.
+
+Em (69) temos uma representação na qual há dois segmentos adjacentes. A oclusiva
+
+/t/ mantem-se fechando a Coda e abrindo o Onset, aparecendo como consoante geminada
+
+só foneticamente :
+
+69.
+
+σ
+
+σ
+
+OR
+
+N
+
+NC +
+
+xx
+
+xx
+
+a
+
+n
+
+ˆt
+
+σ
+
+OR
+
+→
+
+N
+
+xx
+
+ta
+
+representação fonológica
+
+59
+
+σ
+
+σ
+
+σ
+
+OR
+
+OR
+
+N
+
+NC
+
+N
+
+xx
+
+xx
+
+xx
+
+an
+
+ˆt
+
+ta
+
+representação fonética
+
+[anˆtta]
+
+4.4 Seqüências Ambivalentes Com base nos padrões silábicos encontrados e tendo em vista o processo de silabificação na língua Matis interpretaremos os segmentos e as seqüências ambivalentes, já que os mesmos estão devidamente transcritos no capítulo (3).
+4.4.1. Seqüências w V e Vj
+
+Os segmentos, w e j são considerados ambíguos, podem ser interpretados como vogal (V) ou como consoante (C). Embora tenhamos reconhecido tais segmentos como fonemas na análise fonêmica (cf. seção 3.2), seguindo orientações das teorias fonológicas não-lineares, consideramos que w e j apenas aparecem na estrutura superficial como realizações fonéticas de suas correspondentes vogais altas /u/ e /i/, respectivamente, pois na Geometria de Traços esses segmentos não são reconhecidos como fonemas, já que não são distintos de seus correspondentes sons vocálicos altos. Assim, trataremos o comportamento desses segmentos enquanto constituintes da sílaba, visto que, segundo Selkirk (1982), a diferença entre os segmentos [-cons], ou seja, glides e vogais, é estabelecida em função da estrutura silábica de cada língua. Portanto, se um segmento ocupar a posição de núcleo será
+
+60 interpretado como vogal, mas se ocupar as posições de Onset ou Coda será interpretado como glide. Assumimos, assim, estas considerações para o Matis.
+4.4.2. Seqüência wV
+
+Em (70) observamos a presença de [w] em posição não nuclear na sílaba, em Onset, única posição em que ele ocorre: 70.
+
+(a) /uanin/ (b) /uensin/ (c) /iui/ (d) /bˆui/
+
+[wa»nin) ] [wen) »sin) ] [i»wi] [bˆ»wi]
+
+‘mingau’ ‘capim’ ‘árvore’ ‘mambira’
+
+A vogal alta /u/, obedecendo ao padrão silábico CV ocupa a posição de Onset da sílaba, e para que se manifeste como Onset da sílaba, sofre um processo de consoantização, passando a se realizar como glide.
+Portanto, de acordo com essa interpretação, palavras como as exemplificadas em (71) e (72) teriam as seguintes derivações:
+
+71.
+
+σ
+
+σ
+
+O
+
+RO
+
+R
+
+N
+
+NC
+
+→
+
+x
+
+xx
+
+xx
+
+u
+
+a
+
+n
+
+in
+
+representação fonológica
+
+61
+
+σ
+
+σ
+
+O
+
+RO
+
+R
+
+N
+
+NC
+
+→
+
+x
+
+xx
+
+xx
+
+w
+
+a
+
+n
+
+in
+
+consoantização
+
+σ
+
+σ
+
+O
+
+RO R
+
+N
+
+NC
+
+x
+
+x
+
+x xx
+
+w
+
+a
+
+n
+
+in
+
+representação fonética
+
+[wa»nin) ]
+
+72.
+
+σ
+
+σ
+
+N
+
+OR
+
+N
+
+→
+
+x
+
+x
+
+x
+
+i
+
+u
+
+i
+
+representação fonológica
+
+σ
+
+σ
+
+N
+
+O
+
+R
+
+N
+
+→
+
+x
+
+x
+
+x
+
+i
+
+w
+
+i
+
+consoantização
+
+62
+
+σ
+
+σ
+
+N
+
+OR
+
+N !
+
+x
+
+x
+
+x
+
+!
+
+!
+
+!
+
+i
+
+w
+
+i
+
+representação fonética
+
+[i»wi]
+
+Poder-se-ia questionar o porquê do segmento [w] não se associar à primeira sílaba, em (72). O fato é que a associação deste segmento à Coda precedente violaria a restrição silábica da língua, pois a aproximante [w] não ocorre em Coda de sílaba. Além disso, como já dissemos, a tendência é privilegiar o preenchimento da posição de Onset em relação à Coda.
+
+4.4.3 Seqüência Vj
+
+Da mesma forma que o [w], encontramos [j] nas posições marginais da sílaba,
+
+ocorrendo, como verificamos abaixo, apenas em Coda externa:
+
+73.
+
+(a) /pˆi/
+
+[pˆj]
+
+‘asa, folha’
+
+(b) /bai/
+
+[baj]
+
+‘caminho’
+
+(c) /tSimoi/
+
+[tSi»mçj]
+
+‘dor’
+
+Assim, a vogal alta /i/, para que se manifeste como Coda da sílaba, sofre um processo de consoantização, passando a se realizar como glide.
+
+63
+
+Dessa forma, apresentamos uma possível representação da palavra exemplificada
+
+em (74):
+
+74.
+
+σ
+
+σ
+
+O
+
+R
+
+OR
+
+N
+
+NC
+
+→
+
+x
+
+x
+
+!
+
+tS i
+
+x
+
+xx
+
+!!!
+
+moi
+
+representação fonológica
+
+σ
+
+σ
+
+O
+
+R
+
+OR
+
+N
+
+NC
+
+→
+
+x
+
+x
+
+x xx
+
+tS
+
+i
+
+mo
+
+j
+
+consoantização
+
+σ
+
+σ
+
+O
+
+R
+
+N
+
+x
+
+x
+
+!
+
+tS i
+
+OR
+NC
+x xx ! !! m çj
+
+representação fonética
+
+[tSi»mçj]
+
+Observamos, portanto, a presença de [w] e [j] em posições não nucleares da sílaba. Esses segmentos seriam, então, manifestações fonéticas dos fonemas vocálicos /u/ e /i/, respectivamente.
+
+64 4.4.4 Seqüência CwV
+
+Troubetzkoy (1970) afirma que se uma partícula constitutiva de um grupo fônico potencialmente monofonemática não pode ser interpretada como uma variante combinatória de um fonema qualquer da mesma língua, todo o grupo fônico pode ser considerado como uma realização de um fonema particular. Se, por exemplo, a seqüência consoante velar glide posterior ocorre nas posições em que ocorrem os grupos consonantais, ela será considerada um fonema. Porém, enquanto as consoantes dos referidos grupos são fonemas separados, o w da seqüência em pauta não tem esse status, se a língua não permitir grupos de consoantes, podendo ser considerado, então, uma consoante labializada.
+Esta seria uma primeira hipótese para a seqüência CwV em Matis. Considerando tal proposta, estenderíamos para as outras consoantes labializadas, dw, bw ,tw, tSw , Sw , visto
+
+que sua ocorrência se dá nas mesmas posições que outras consoantes, no início, meio e
+
+final de palavras. Se assumíssemos esta interpretação teríamos a seguinte representação
+
+fonológica:
+
+75. /kw´.bu/ /tSi.kwen.t´n/ /ta.kwa/ /dw´/ /bwan/ /twin/ /tSwi/
+
+CV.CV CV.CVC.CV CV.CV CV CVC CVC CVC
+
+‘jacu’ ‘tipo de caracol’ ‘fígado’ ‘faca’ ‘levar’ ‘remar’ ‘falar’
+
+65
+
+/Swit.kek/
+
+CVC.CVC
+
+‘assobiar’
+
+Observamos, pelos exemplos acima, que a maior ocorrência de consoante complexa é kw , ficando as outras restritas a poucas ocorrências.
+
+De acordo com os padrões univalentes encontrados, seria mais coerente que interpretássemos estes segmentos como uma unidade complexa, pois se os interpretássemos como CC estaríamos criando padrões silábicos novos, não encontrados em seqüências não ambíguas, pois não há Onsets ramificados (compostos por duas consoantes), o que pode ser evidenciado pelas seqüências que não causam ambigüidade em sua interpretação, aquelas do tipo (C)V(C). Porém, com este tipo de análise, estaríamos aumentando o número de fonemas na língua, criando assim, novos fonemas. Sendo assim, não achamos esta hipótese muito adequada.
+Uma segunda hipótese seria considerarmos uma estrutura de base com duas vogais, em núcleos diferentes, por exemplo, /ku.´.bu/ ‘jacu’. A consoante e a aproximante w
+
+constituiriam uma só unidade fonológica, recebendo o rótulo C (consoante) no processo de silabificação. A aproximante, neste caso, situar-se-ia no Onset não ramificado, como resultado do processo exemplificado em (76). Na representação da palavra kwaBu, a vogal
+
+u se associa-se ao Onset da sílaba e se consoantiza, resultando, assim, na realização fonética kw. Abaixo temos a derivação desta palavra:
+
+76.
+
+σ
+
+σ
+
+O
+
+RN
+
+σ OR
+
+σ O
+
+66
+
+σ
+
+σ
+
+O
+
+OR
+
+N
+
+N
+
+N
+
+⇒
+
+x
+
+xx
+
+xx
+
+k
+
+u´
+
+bu
+
+x -soante
+r -aprox. - vocóide
+
+x
+
+x
+
++soante r +aprox. ´
+
++vocóide
+
+xx bu
+
+k
+
+u
+
+laríngeo [-nasal] cav. oral laríngeo cav. oral
+
+[-sonoro] PC
+
+[-cont.]
+
+PC
+
+[dorsal]
+
+vocálico
+
+PV
+
+abertura
+
+[labial]
+
+[-aberto1]
+
+[dorsal]
+
+[-aberto2]
+
+σ OR
+
+σ OR
+
+N xx kw ´
+
+N xx Bu
+
+representação fonética
+
+Na representação acima a vogal u se desliga de sua raiz e se associa à raiz da consoante k. Uma outra alternativa seria possível, também, para demonstrar o processo, na qual o nó vocálico seria associado ao ponto de C da consoante k:
+
+67
+
+77.
+
+x
+
+r
+
+- soante - aprox.
+
+- vocóide
+
+x
+
+r
+
++ soante + aprox.
+
++ vocóide
+
+k laríngeo [-nasal] cav. oral
+
+u laríngeo
+
+cav. oral
+
+[-sonoro]
+
+PC
+
+[-cont.]
+
+PC
+
+[dorsal]
+
+vocálico
+
+PV
+
+abertura
+
+[labial]
+
+[-aberto1] [dorsal]
+
+[-aberto2]
+
+Considerando-se as duas alternativas acima, não temos maiores elementos para decidir por uma delas, mas nos inclinamos a considerar a segunda como a que possivelmente representa melhor o processo.11
+Uma terceira hipótese, ainda, seria considerarmos as duas vogais da seqüência como um ditongo. Assim, a vogal u, e a próxima da seqüência, fariam parte de um mesmo núcleo silábico: /ku´.bu/. Dessa forma, teríamos a representação em (78): 78.
+
+11 Em tal representação o /u/ não está associado. Embora não tenhamos elementos para decidir por uma solução mais adequada, podemos, por uma convenção, apagar o /u/ que se encontra disassociado.
+
+68
+
+σ
+
+O
+
+R
+
+N
+
+xx
+
+x
+
+ku
+
+´
+
+σ
+
+O
+
+R
+
+N
+
+x
+
+x
+
+b
+
+u
+
+Nestes tipos de palavras as vogais que compõem o ditongo ocupam duas unidades de tempo. Detalharemos os casos de ditongo na língua em 4.4.5.2.
+As duas últimas hipóteses poderiam ser verdadeiras, ou seja, poderíamos assumir tanto uma quanto a outra para o Matis. Sendo que a língua possui ditongos, e também consideramos palavras como sia ‘pimenta’ como um ditongo (81 (a)), e não como uma consoante s palatalizada, sja, achamos mais coerente optarmos pela terceira hipótese, na qual interpretamos estes tipos de seqüência como um ditongo, e não como uma consoante labializada.
+Observamos também, além dos argumentos utilizados acima, para [w] e [j] e para palavras como ku´bu ‘jacu’, que os falantes nativos da língua, ao produzirem pausadamente palavras como as que aparecem em (70), (73) e (75), não percebem (interpretam) as aproximantes [w] e [j] como núcleos silábicos em nenhum dos casos. Em suma, com base em (78), temos um ditongo, nas palavras do tipo ku´bu, e [w] e [j] manifestando-se como consoantes, ocupando as posições de Onset e Coda na língua, respectivamente. Verificamos, ainda, não haver seqüências do tipo CjV, Vw e jV na língua Matis.
+
+69 4.4.5. Seqüência VV
+Descreveremos, a seguir, os casos de vogais adjacentes encontradas em nossos dados.
+
+4.4.5.1 Hiatos
+
+Levando-se em consideração a fala lenta, verificamos que em algumas palavras
+
+pronunciadas, as vogais adjacentes são interpretadas pelo falante como dois núcleos
+
+silábicos. Desta forma, tratamos como hiatos. Alguns exemplos de hiatos encontrados são:
+
+79.
+
+a) /ˆ.u/
+
+[ˆ»u]
+
+‘tipo de formiga’
+
+(b) /mˆ. i/
+
+[mˆ»i]
+
+‘casca de pau’
+
+(c) /te.os/
+
+[te»os]
+
+‘gargalo’
+
+(d) /a.i/
+
+[a»i]
+
+‘certo’
+
+(e) /ta.ˆ/
+
+[ta»ˆ]
+
+‘pé’
+
+(f) /b´.un/
+
+[b´»un) ]
+
+‘lágrima’
+
+(g) /tsa.un/
+
+[tsa»un) ]
+
+‘não sei’
+
+(h) /tSi.an.pi/
+
+[tSian) »pi]
+
+‘menina’
+
+(i) /ma.ut/
+
+[ma»ut]
+
+‘lagarta’
+
+(j) /d´.un/
+
+[d´»un]
+
+‘gripe’
+
+Outra evidência para considerarmos a existência de hiatos é o fato de que nas palavras b´un) ’lágrima’, e tSian) pi ’menina’, por exemplo, a primeira vogal da seqüência
+
+70 não é nasalizada, o que indica que pertence à primeira sílaba da palavra, pois, se fosse um ditongo, ou seja, ambas as vogais pertencentes ao mesmo núcleo silábico, ela também se nasalizaria, assimilando, da mesma forma que a segunda vogal da seqüência, a nasalidade da consoante /n/. Visto que a nasalização em Matis é somente em posição tautossilábica, isto não ocorre. Detalharemos o processo de nasalização das vogais em seção posterior. Observamos ainda, que a palavra tSian) pi ’menina’ contrasta com outra,
+
+tSan) pi ’gafanhoto’. Este fato é interessante na medida em que podemos notar, pelo
+
+contraste, a existência de V.V, na primeira palavra, e de V, na segunda. Portanto, neste tipo de seqüência exemplificada acima, constituída de sílabas V.V,
+cada vogal pertence a um núcleo silábico diferente. A palavra ˆu ‘tipo de formiga’, por
+
+exemplo, pode ser representada como:
+
+80.
+
+σ
+
+σ
+
+N
+
+N
+
+x
+
+x
+
+ˆ
+
+u
+
+4.4.5.2 Ditongos
+O mesmo argumento usado acima também é válido para palavras apresentando seqüências vocálicas que constituem ditongos. Na fala lenta, verificamos que, em determinadas palavras, os falantes produzem pausadamente um núcleo silábico para seqüências VV. Exemplificaremos a seguir alguns casos de ditongos:
+
+71
+
+81. (a) /sia/
+
+['sia]
+
+‘pimenta’
+
+(b) /m´en/
+
+['m´e) n) ]
+
+‘tipo de peixe’
+
+(c) /sa.mça.te/
+
+[samça»te]
+
+‘tonteira’
+
+(d) /pais/
+
+['pais]
+
+‘chifre’
+
+(e) /tSaun.don/
+
+[tSau) n) »don]
+
+‘cupuzinho’
+
+(f) /on.poin/
+
+[on»poi) n) ]
+
+‘roubar’
+
+(g) /b´uS/
+
+['b´uS]
+
+‘nome próprio’
+
+Portanto, as formas [si'a], [m´) 'en) ],[pa'is],[onpo) ' in) ] e [b´'uS] são inaceitáveis.
+
+A nasalidade neste caso também é um argumento a favor da evidência de ditongos na língua. Verificamos, por exemplo, nas palavras on) poi) n) ‘roubar’ e m´e) n) ‘tipo de
+
+peixe’, que as duas vogais da seqüência são nasalizadas, o que indica estarem fazendo parte
+
+de um mesmo núcleo silábico, já que a nasalização tem como domínio a sílaba.
+
+A teoria não-linear da estrutura silábica estabelece que quando seqüências do tipo
+
+VV ocupam uma mesma posição nuclear, tais segmentos podem ocupar duas unidades de
+
+tempo, como em ((82)(a)), ou apenas uma unidade temporal, como em ((82)(b)),
+
+(Kaye,1985):
+
+82.
+
+(a)
+
+(b)
+
+R N xx [-cons] [-cons]
+
+R N x [-cons] [-cons]
+
+72 Tomando por base esses princípios teóricos, as palavras em (81) (a), (b), (c), e (d) constituem ditongos pesados, visto que os segmentos ocupam duas unidades de tempo. Já as palavras em (81) (e), (f) e (g) constituem ditongos leves, pois os segmentos ocupam apenas uma unidade temporal. Assim, os ditongos pesados, tomando-se a palavra sia ‘pimenta’, como exemplo, seriam representados como em ((83)(a)), e os ditongos leves, representados, como em b´uS ‘nome próprio’, seriam representados em ((83)(b)):
+
+83.
+
+(a)
+
+(b)
+
+σ
+
+O
+
+R
+
+N
+
+xx
+
+x
+
+si
+
+a
+
+σ
+
+O
+
+R
+
+NC
+
+x
+
+xx
+
+b ´ uS
+
+Dessa forma, podemos dizer que na língua Matis existem ditongos crescentes, que são os ditongos pesados, e ditongos decrescentes, que são os ditongos leves12.
+
+4.5 Classificação dos fonemas em classes naturais
+
+Há diversas propostas para o modelo da geometria de traços, dentre elas Halle (1985), Sagey (1986), McCarty (1988), e Clements e Hume (1995). Escolhemos este último modelo pois é o que tem sido mais utilizado no Brasil, sendo aplicado a outras línguas indígenas brasileiras (ver Wetzels 1995), tendo sido inclusive extensivamente utilizado na análise de uma língua Pano (Costa 2000). A utilização desse modelo, portanto, favorece
+
+73 trabalhos comparativos mais seguros, pois são efetuados a partir de uma mesma base teórica.
+Nestes modelos, os traços que regularmente funcionam juntos como uma unidade em regras fonológicas são agrupados em constituintes. Assim, segmentos são organizados hierarquicamente. Os nós são reconhecidos e organizados da seguinte forma:
+
+84. A
+
+B
+a b
+c
+
+C
+D
+E d
+ef g
+
+Segundo Clements e Hume (1995) todos os ramos emanam de uma raiz A, designada nó de raiz. B, C, D, e E são os nós intermediários que representam os constituintes, e a,b, c, d, f, g são os traços, que funcionam como única unidade em regras fonológicas. A idéia de que a fala é produzida usando vários articuladores funcionando independentemente é central nesta teoria. Estes articuladores (dorso da língua, palato mole, etc.) definem uma única constrição no trato vocal ou se combinam para produzir várias constrições ao mesmo tempo. Portanto, os articuladores são fundamentais na organização da estrutura de segmentos, sendo representados pelos nós labial, coronal e dorsal, também chamados traços de lugar.
+
+12 Esta distinção não é relevante para o Matis, apenas estamos destacando a diferença.
+
+74
+
+Os traços de lugar são tratados como monovalentes mais propriamente do que
+
+binários, pois as regras fonológicas não parecem operar com base nos valores negativos
+
+dessas categorias: há muitas regras envolvendo assimilação labial, mas há poucas (ou
+
+nenhuma) mudando, por exemplo, [p] para [t] no contexto de um som não-labial ([k], por
+
+exemplo), ou mudando, por exemplo, [t] para [p] próximo a uma não-labial (regra de
+
+dissimilação não-labial). Dessa forma, observa-se que traços articulatórios são não-binários,
+
+pois se [-labial] não possui existência na teoria, então nenhuma regra poderá executar uma
+
+operação sobre sons [-labiais]. Sendo assim, essa interpretação de ponto de articulação se
+
+afasta de tratamentos antes encontrados na fonologia gerativa (SPE, 1968). A classe de nós
+
+e sua forma de organização está assim esquematizada:
+
+Consoantes:
+
+85.
+
+± soante
+
+r
+
+± aproximante ± vocóide
+
+laríngeo
+
+[glote espalhada]
+
+[nasal]
+
+cavidade oral
+
+[glote constrita] [sonoro]
+
+PC
+[labial] [coronal]
+
+[contínuo]
+
+[anterior]
+
+[dorsal]
+
+[distribuído]
+
+Feito o reconhecimento dos fonemas da língua Matis (capítulo 3) podemos reuni-los em classes, com base neste modelo. Para tanto, utilizaremos a especificação de traços mínima, inserindo somente os traços relevantes na representação, que organiza os traços de maneira hierarquizada. A seguir, apresentaremos os segmentos simples.
+
+75 4.5.1 Consoantes
+
+86. / p t k/
+87. /b d/
+
+8 x ! r
+
+- soante - aproximante - vocóide
+
+laríngeo [-nasal] cavidade oral
+
+[- sonoro]
+
+[- contínuo]
+
+x
+
+r
+
+-soante -aproximante
+
+-vocóide
+
+laríngeo [-nasal] cavidade oral
+
+[+sonoro]
+
+[-contínuo]
+
+88. /m n/
+
+x r
+[+nasal]
+
++soante -aproximante -vocóide
+cavidade oral
+
+[-contínuo]
+
+76
+89.
+/s S/
+x -soante -aproximante
+r -vocóide
+
+[-sonoro]
+
+cavidade oral
+
+PC [coronal]
+
+[+contínuo]
+
+No modelo proposto por Clements e Hume (1995) as aproximantes [w] e [j] apresentam uma organização interna semelhante às vogais /i/ e /u/. Segundo esse modelo, as vogais altas e as aproximantes diferem apenas em termos de sua posição na estrutura silábica, em Onset, Coda ou em núcleo. Sua representação é, portanto:
+
+90. /u/
+
++ soante r +aproximante
++ vocóide
+
+laríngeo cavidade oral
+
+PC vocálico
+
+PV abertura
+[-aberto1] [labial]
+[dorsal]
+
+[-aberto 2]
+
+91. /i/
+
+77
+
++ soante r +aproximante
++ vocóide
+
+laríngeo cavidade oral
+
+PC vocálico
+
+PV abertura
+
+[coronal]
+
+[-aberto1]
+
+[-aberto 2]
+
+Os segmentos de contorno são os sons que apresentam ‘efeitos de borda’, opondose uma à outra em termos de +/-. Tais segmentos incluem as africadas. Clementes e Hume (1995) apresentam uma análise na qual estes segmentos consistem numa seqüência de dois nós de raiz sob uma mesma posição esqueletal. Dessa forma, os segmentos tS e ts em Matis
+
+são caracterizados como segmentos de contorno, tendo a seguinte representação:
+
+92. / ts/
+x
+
+r cavidade oral [-contínuo]
+
+r
+
+cavidade oral
+
+PC
+
+[+contínuo]
+
+[coronal]
+
+[+anterior]
+ts
+
+78
+
+93. /tS/
+
+r cavidade oral [-contínuo]
+
+x
+
+r
+
+cavidade oral
+
+PC
+
+[+contínuo]
+
+[coronal]
+
+[-anterior]
+tS
+
+4.5.2 Vogais
+Considerando-se que qualquer segmento produzido no trato oral possui uma constrição característica (grau de constrição e constrição local), para as vogais pode-se propor uma estrutura paralela à das consoantes, sendo o tipo de constrição representado pelo nó vocálico, o grau de constrição representado pelo nó de abertura e a constrição local representada pelo nó de lugar, ainda segundo os autores. Assim, temos a representação arbórea:
+
+79 94.
+
+r
+laríngeo [nasal]
+[glote espalhada] [glote constrita] [sonoro]
+
++ soante + aproximante + vocóide
+cavidade oral
+
+PC !
+vocálico
+
+[contínuo]
+
+abertura
+
+PV [aberto]
+[labial]
+
+[coronal]
+
+[-anterior]
+
+[dorsal] [distribuído]
+
+O Matis, como já vimos, possui as vogais a e i o u ´ e ˆ. Podemos classificá-las, assim, em classes naturais:
+[labiais]: o u [coronais]: e i [dorsais]: ´ ˆ a o u
+
+A representação arbórea fica portanto:
+
+80
+
+95.
+
+r
+
++ soante
+
++ aproximante
+
++ vocóide
+
+cavidade oral
+
+PC vocálico
+
+[contínuo]
+
+PV
+
+[labial] ! u o13
+
+[coronal] ei
+
+[dorsal] ´ˆaou
+
+4.5.2.1 Representação das vogais pela abertura
+Tradicionalmente, os fonólogos gerativistas usaram os traços binários [alto] e [baixo] para distinguir entre vogais altas, médias e baixas, e acrescentaram um outro traço, como [tenso] ou ATR (raiz da língua avançada) para expressar um quarto grau de abertura, se necessário. Entretanto, a altura vocálica tem recebido muita atenção nos últimos anos, e diversos sistemas alternativos foram propostos. Um modelo no qual a altura vocálica é tomada em termos de abertura, e não em termos de altura do corpo da língua, é discutida em Clements e Hume (1995).
+13 As vogais /o/ e /u/ são consideradas labiais e dorsais (cf. Clements e Hume, 1995). As vogais ´, ˆ, a foram consideradas dorsais pelo fato de estarem envolvidas no proceso fonológico que envolve a fricativa retroflexa [ß]. Como essa consoante é posterior, e só ocorre antes de vogais centrais e posteriores, consideramos essas vogais, em termos do sistema de traços utilizado, como dorsais.
+
+81 Neste modelo, [aberto] é um traço binário, cujo valor pode espraiar-se. Para expressar os vários graus da altura vocálica, o traço aberto é disposto em diversas camadas gradualmente ordenadas. Na camada de grau mais alto, [aberto] associa vogais a um ou dois registros de altura primários, [-aberto] (relativamente alto) e [+aberto] (relativamente baixo). As classes naturais são definidas em termos de valor de traços em cada camada. Assim, vogais baixas são aquelas que são [+aberto] na camada 1, vogais altas são as [aberto] na camada 2. Dessa forma, os traços de altura vocálica podem espraiar-se como uma unidade em separado, sustentando o nó de abertura (ou de altura vocálica), proposto acima. De acordo com esse modelo, apresentando três alturas vocálicas, o sistema do Matis pode ser definido, em termos de abertura, como: 96.
+i, u, ˆ [-aberto1]
+[ -aberto2]
+97.
+e, o, ´ [-aberto1]
+[+ aberto2]
+98.
+a [+aberto1]
+[+ aberto2]
+Nas seções seguintes faremos uma análise dos processos fonológicos mais recorrentes em Matis.
+
+82
+V
+PROCESSOS FONOLÓGICOS Vários argumentos são usados por Blevins (1995) para caracterizar a sílaba como um constituinte fonológico, e um deles é o fato de algumas regras serem sensíveis ao domínio silábico. Como podemos verificar, a nasalização em Matis é uma delas, cujo menor domínio é a sílaba, na palavra fonológica. Dessa forma, o caminho apropriado para caracterizar essa propriedade nessa língua é com referência à sílaba. Outro argumento é o fato de as Codas serem gatilho para regras fonológicas, o que, da mesma forma, encontramos na língua em questão: as Codas somente nasalizam a vogal da sílaba da qual fazem parte, como veremos a seguir.
+5.1 Fusão Embora estejamos trabalhando com o modelo de Clements e Hume (1995), achamos que para a descrição do processo de nasalização das vogais o modelo de Piggott (1992) é mais explicativo. Dessa forma, analisaremos a assimilação da nasalidade pelas vogais como um mecanismo de Fusão. Segundo o autor, se distinguem dois padrões principais no funcionamento da nasalidade nas línguas naturais. No padrão A, que é o que
+
+83 nos interessa, há contraste subjacente entre a série de oclusivas sonoras e a série de consoantes nasais. Neste modelo há uma modificação na geometria, na qual é inserido o nó Palato Mole. As gramáticas que organizam o traço [nasal] como um dependente desse nó são aquelas que selecionam o palato mole como um articulador ativo, e é ele que espalha a nasalidade, e não o traço nasal. Nesse sistema, deve haver um contraste entre consoantes nasais e orais. O espalhamento da nasalidade, portanto, ocorre a partir das consoantes e se destina às vogais.
+Dentro desse padrão há um grupo de consoantes que bloqueiam o processo, e esse grupo deve incluir consoantes não contínuas. Línguas que organizam [nasal] sob o nó Palato Mole não só têm contraste entre consoantes nasais e oclusivas vozeadas, como também são as únicas que não podem ter vogais subjacentemente nasais.
+No padrão B, todas as obstruintes são transparentes e todas as soantes são alvos. Conseqüentemente, não há segmentos opacos neste padrão de harmonia. As consoantes nasais podem ser derivadas. O traço flutuante [nasal] somente pode ser fonte de nasalidade neste padrão, mas não em um sistema do tipo A.
+Segundo o autor, é desconhecido por ele, até o momento, algum caso em que a nasalidade é espalhada de uma vogal nasal subjacente em línguas do tipo A. Neste tipo de língua há uma consoante nasal que é responsável pelo espalhamento da nasalidade para as vogais. O Matis pertence a este tipo, pois o processo de harmonia nasal é desencadeado por uma consoante, não havendo vogais subjacentemente nasais. A representação da geometria prevista para línguas do tipo A é dada abaixo:
+
+99. a. Nasal R SP
+[+N]
+
+84
+
+b. Obstruintes e Líquidas R (Seg. opacos) SP
+[-N]
+
+c. Outros Segmentos R
+4
+(traços não-nasais)
+
+Não há vogais nasais do ponto de vista fonológico na língua Matis, pois as vogais são nasalizadas de acordo com o ambiente em que se encontram, existindo uma consoante nasal que nasaliza a vogal antecedente. A transmissão de nasalidade se dá sem qualquer relação com a sílaba acentuada, sendo que os segmentos alvos, as vogais, e a nasal que participam do processo podem estar contidos na sílaba acentuada ou na sílaba átona. A sílaba acentuada é sempre a última da palavra. As vogais são nasalizadas somente em posição tautossilábica, como demonstram os exemplos a seguir:
+
+100. a) [daton) gete] b) [maRiwin) ] c) [nun) te]
+
+‘roupa’ ‘ritual Matis’ ‘canoa’
+
+Como podemos notar nos exemplos em (100) a nasalidade é transmitida à vogal pela consoante nasal que está na posição de Coda na mesma sílaba. A direção do espalhamento é da direita para a esquerda, sendo que a consoante nasal em Onset não passa a nasalidade ao seu núcleo respectivo:
+
+85
+
+101. a) [inawat] b) [nete] c) [miBi] d) [maSo]
+
+‘capivara’ ‘lança’ ‘2 p.sg. Abs’ ‘cabeça’
+
+Portanto, as formas a seguir são inaceitáveis:
+
+102.
+
+a) * [inaw) at]
+
+‘capivara’
+
+b) * [net) e]
+
+‘lança’
+
+c) * [miB) i]
+
+‘2 p.sg. Abs’
+
+d) * [ma)So]
+
+‘cabeça’
+
+Este fenômeno, ao que tudo indica, encontra uma clara restrição. Como pôde-se
+
+verificar até agora, a consoante nasal, fonte de nasalidade vocálica, quando ocupa a posição
+
+de Onset não provoca a nasalização da vogal pertencente à sílaba imediatamente anterior:
+
+103.
+
+a) [dunek]
+
+‘gripe’
+
+b) [imi]
+
+‘sangue’
+
+c) [kˆnˆ]
+
+‘parede’
+
+d) [ana]
+
+‘língua
+
+As formas abaixo são inaceitáveis:
+
+86
+
+104. a) * [dun) ek] b) * [im) i] c) * [kˆn) ˆ] d) * [an) a]
+
+‘gripe’ ‘sangue’ ‘parede’ ‘língua
+
+Observando os exemplos em (103) verificamos que não ocorreu o espalhamento. Podemos analisar este fato sugerindo que a nasalidade está restrita ao domínio da sílaba, não podendo ser espalhada fora dos seus limites, sendo que a consoante nasal em Coda somente nasaliza a vogal pertencente à mesma sílaba, e quando em Onset, não nasaliza a vogal da sílaba precedente. Assim, os princípios que explicam esse processo de nasalização estão relacionados à direcionalidade e à localidade. O primeiro diz respeito à direção do espalhamento, que é da direita para a esquerda, e o segundo refere-se ao limite desse espalhamento, que é a sílaba.
+A assimilação regressiva da nasalidade pode ser avaliada em uma teoria que reconhece a Fusão (Piggott, 1992). Para o autor, a fusão também é um mecanismo de assimilação. Este processo é estritamente local. Na regra de fusão os elementos adjacentes são reduzidos a um só. Na representação abaixo os nódulos são fundidos no interior da sílaba, os traços do nódulo à direita da sílaba dominam, e a consoante nasal em Coda passa a nasalidade para a vogal antecedente, ou seja, o nódulo Palato Mole passa a nasalidade para a vogal.
+
+87 Os segmentos opacos, ou seja, aqueles que bloqueiam o processo são especificados para nasalidade (SP), enquanto que os segmentos alvos não são especificados para este fator. Baseando-me em Piggott (1992) ensaio uma aplicação deste modelo ao fenômeno do Matis, mostrando como ocorre o processo de fusão. Na derivação de daton) gete ‘roupa’ e mariwin) ‘ritual Matis’, teríamos: (x = tempo fonológico; R= raiz; SP (Soft Palate) = nó palato mole). 105.
+
+da tonget e xxxxxxxxx RRRR RR RRR
+SP SP
+[-N] [+N]
+
+da tõnget e xxxxxxxxx RRR R RR RRR
+SP SP
+[-N] [+N]
+
+106.
+
+m a riwi n
+
+! !!!!!!
+
+x x xxxxx ! ! !!!!!
+
+R R RR R RR
+
+SP SP !! [-N] [+N]
+
+m a r i w i) n ! !! ! ! ! ! xxxxxxx !!!!!!! R RRR R RR
+SP SP !! [-N] [+N]
+
+88 5.1.1 Nasalização em outros contextos
+
+A nasalização opera também na gramática do Matis. Assim, o marcador de ergatividade, em uma construção sintática com verbo transitivo, é assinalado pela nasalização da sílaba final do nome. A consoante nasal /N/14, que marca este caso, está sempre na Coda e passa a sua nasalidade para o núcleo da sílaba da qual ela é parte. Exemplo:
+
+107.
+
+(a) /tumi-N uaka ak -e -k/ [tumin) waka akek] Tumi -Erg água beber - N.Pass. –?
+
+‘Tumin bebe água’
+
+Outro caso em que ocorre a nasalização é em fronteira de morfemas e de palavras. Em fronteira de morfemas verificamos a presença da consoante nasal como em:
+
+RAIZ +AFIXO 108.
+a) /kuaN/ [kua) n) ] b) -e c) –k d) /kuaN -e -k/ → [kua»nek]
+
+‘ir’ ‘N. Pass.’ ‘?’ ‘(ele/ela) vai’ (*ku´ek ∼ *ku´) e) k )
+
+14 Representamos a consoante nasal como N pois estamos assumindo a hipótese de que a nasal que aparece no final da sílaba é uma nasal sem especificação de ponto, que quando é licenciada pelo núcleo de uma sílaba seguinte para ocupar a posição de Onset, se manifesta sempre como uma nasal coronal. Discutiremos esse assunto detalhadamente no final desta seção.
+
+89
+
+109. a) –a b) -S
+
+‘Pass.Im.’ ‘3p.’
+
+c) /kuaN -a -S / → [kua»naS] 110.
+
+‘(ele/ela) foi’ (*ku´aS ∼ *ku´a) S )
+
+a) -ta
+
+‘Imp’
+
+b) /kuaN -ta/ → [kua) n) »ta]
+
+‘vá!’
+
+Observa-se em ((108)(a)) que a vogal [a] da palavra kuan) aparece nasalizada, seguindo a regra de nasalização, mas em ((108)(d)), em kuanek, esta vogal está desnasalizada. Podemos interpretar esse fato como perda da nasalização devido à ressilabificação da palavra quando se dá em construção morfológica. Assim, ao somar-se um sufixo com Onset vazio, a consoante nasal que estava ocupando a posição de Coda na palavra isolada preenche esse Onset; em seguida a vogal que fica sem seu elemento transmissor da nasalização perde esse traço fonético. Teríamos a seguinte derivação: 111.
+/kuaN/ [kua) n) ] /kuaN -e -k/ [kua»nek]
+b) Fronteira de palavrasPode-se verificar, novamente, a presença da consoante nasal em fronteira morfológica, na junção de duas palavras15 em Matis:
+
+15 Estamos assumindo, num primeiro momento, que a junção de algumas palavras formem um composto, já que denominamos alguns ‘compostos’ quando tratamos do acento, no capítulo seis. Porém, não há nada definitivo, pois o processo de composição está sendo estudado pelo mestrando Rogério Vicente Ferreira (IEL, UNICAMP).
+
+90
+
+112. a) /uaniN/ [wa»nin) ] b) /um´/ [u»m´] c) /uaniN um´/ → [waninu»m´]
+
+‘mingau’ ‘pupunha’ ‘mingau de pupunha’
+
+113. a) /matsuN/ [ma»tsun‚ ]
+
+‘panela’
+
+b) /amaN/ [a»ma‚n]
+
+‘grande’
+
+c) /matsuN amaN/ → [matsuna»man‚ ] ‘panela grande’
+
+114. a) /kamuN/ [ka»mun) ]
+
+‘onça’
+
+b) /ina/ [i»na]
+
+‘rabo’
+
+c) /kamuN ina/ → [kamuni»na]
+
+‘rabo de onça’
+
+115. a) /mˆk´N/ [mˆ»k´n) ]
+
+‘mão’
+
+b) /atSˆuˆS/ [atSˆ»wˆS]
+
+‘todos’
+
+c) /mˆk´N atSˆuˆS/ → [mˆk´natSˆ»wˆS] ‘n° 5’
+
+116. a) /isteN/ [is»ten) ]
+
+‘máquina fotográfica’
+
+b) is
+
+‘ver’
+
+c) -e
+
+‘N. Pass.’
+
+91
+
+d) –k e) /isteN is -e -k/ → [isteni»sek]
+
+‘?’ ‘tirar foto’
+
+Observa-se que nos exemplos (112) a (116) acontece o mesmo processo descrito acima nos exemplos (108) e (109): nos exemplos em (a) a consoante nasal em Coda nasaliza a vogal precedente, e nos exemplos em (c), ao somar-se uma palavra ou um sufixo iniciados por vogal, a consoante nasal antes em Coda passa a Onset da sílaba seguinte, e a vogal da sílaba anterior perde a nasalização.
+Como já foi visto, de acordo com Kenstowicz (1994), as regras de construção de estrutura silábica devem seguir os seguintes passos: atribuição de núcleo, atribuição de Onset e atribuição de Coda. Teríamos, dessa forma, em Matis, para a palavra ‘onça’:
+
+117. kamuN CV.CVC
+
+‘onça’
+
+Assim, para se dar o preenchimento do Onset que se encontra vazio, nas fronteiras morfológicas, a consoante nasal em Coda passa a Onset da sílaba seguinte e, dessa forma, a língua Matis evitaria sílabas sem Onset:
+
+118. kamuN ina → kamuni»na ‘rabo de onça’ CV. CVC V. CV → CV CV CV CV onça rabo
+A derivação de kamuN, em junção com outra palavra iniciada por vogal seria como:
+
+92
+
+119.
+
+σ 2
+
+O
+
+R
+
+!
+
+N
+!
+
+X
+
+X
+
+!!
+
+wk aa
+
+σ 2
+
+σ 2
+
+σ 2
+
+O
+
+R
+
+!
+
+O
+
+R
+
+O
+
+R
+
+!
+
+!
+
+N
+
+C
+
+!
+
+!
+
+N
+
+N
+
+!
+
+!
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+!
+
+!
+
+!
+
+!
+
+!!
+
+nm iu
+
+nN
+
+ui
+
+mn ´a
+
+A representação acima nos mostra o desligamento da nasal N da Coda e sua associação ao Onset seguinte. O output final dessa palavra seria como em:
+
+120.
+
+σ 2
+OR !
+N !
+XX !
+ka
+
+σ 2
+
+O
+
+R
+
+!
+
+N !
+
+X
+
+X
+
+!
+
+!
+
+m
+
+u
+
+σ 2
+
+O
+
+R
+
+!
+
+N !
+
+X
+
+X
+
+!
+
+!
+
+n
+
+i
+
+σ 2
+
+O
+
+R
+
+!
+
+N !
+
+X
+
+X
+
+!
+
+!
+
+n
+
+a [kamuni»na]
+
+Assumimos a hipótese de que a nasal que aparece no final da sílaba é uma nasal sem especificação de ponto. Porém, como se observa nos exemplos citados, essa nasal, quando ocupa a posição de Onset de uma sílaba seguinte manifesta-se sempre como uma nasal coronal. Isso nos leva a sugerir uma regra default que diz que toda consoante nasal não especificada para ponto adquire a articulação coronal quando ela ocupa o Onset da sílaba seguinte, ou seja, teríamos uma regra default como em:
+
+93
+
+21. Nasal → [+ coronal] / ...VN
+
+σ
+
+[N]
+
+OR
+
+5.2 Assimilação Nasal
+Segundo Clements e Hume (1995), talvez o tipo mais recorrente de regras fonológicas seja a assimilação. A fonologia gerativa padrão caracterizou a assimilação em termos de cópia de traços, de acordo com a qual um segmento copia especificações de traços de um segmento vizinho. No presente modelo, no entanto, as regras de assimilação são caracterizadas como a associação (ou ‘espraiamento’) de um traço ou um nó F de um segmento para outro vizinho. Assim, demonstraremos o caso de assimilação nasal.
+Já dissemos acima que a nasalização em Matis se dá somente em posição tautossilábica. Porém, nas fronteiras morfológicas, quando a consoante nasal estiver ocupando a posição de Onset no sufixo, a nasalidade se espalha para a consoante em Coda da raiz. Esse processo afeta somente o comportamento da oclusiva velar surda /k/, que manifesta-se como consoante nasal velar [N]. Isso pode ser observado nos exemplos abaixo:
+
+122. a) /kuak/ [kuak|] b) –nu c) /kuak -nu/ [kua) N) 'nu]
+
+‘escutar’ ‘Des.’ ‘quero escutar’
+
+94
+
+123. a) ak b) –meN c) /ak -meN/ [aN) 'men) ]
+
+‘beber’ ‘Neg.’ ‘não bebe’
+
+Assim, nesse modelo, há vários tipos de assimilação. Se o nó da raiz se espalha, o
+
+segmento afetado adquirirá todos os traços do segmento responsável pelo espalhamento
+
+(gatilho), e esse resultado é denominado assimilação total ou completa. Se um nó de nível
+
+mais baixo se espalha, o alvo adquire vários, mas não todos os traços do gatilho, resultado
+
+denominado assimilação parcial ou incompleta. Finalmente, na assimilação de traço único,
+
+apenas um traço terminal se espalha. É o caso da assimilação nasal. Dessa forma, a
+
+nasalização do /k/ em Matis pode ser representada abaixo. A linha pontilhada indica a
+
+assimilação do traço [nasal] à esquerda:
+
+124.
+
+k
+
+n
+
+x
+-soante r -aproximante
+-vocóide
+
+x
++soante r -aproximante
+-vocóide
+
+laríngeo [-sonoro]
+
+[-nasal]
+
+cavidade oral
+[-contínuo] PC
+[dorsal]
+
+[+nasal] laríngeo
+[+sonoro] cavidade oral
+[-contínuo] PC
+
+95 5.3 Lenição e Tapping
+
+Outro processo também recorrente nas línguas, segundo Spencer (1996), é o processo de lenição. Neste processo, uma consoante é pronunciada com menos força e tensão. Em Inglês, no caso de /t/ e /d/, quando são pronunciados como [R] em contexto de vogais, tem-se um Tapping.
+Em Matis encontramos dois tipos de enfraquecimento de consoantes: /b/ passa a [B] entre vogais e /t/ e /d/ passam a [R] entre vogais em fronteira morfológica. Caracterizamos o último, portanto, como Tapping. Discutiremos a seguir os dois processos.
+
+5.3.1. A labial /b/ Uma das consoantes que participa do processo de enfraquecimento é /b/. Entre vogais ela somente ocorre como sua correspondente fricativa [B]. Assim, estaria sendo enfraquecida em ambiente de vogal. Exemplificamos o processo com os dados em palavras isoladas:
+
+125. a) /abu/ b) /dadasibo/ c) /ku´bu/ d) /tSibi/
+
+[a»Bu] [daRasi»Bç] [ku´»Bu] [tSi»Bi]
+
+‘céu’ ‘velho’ ‘jacu’ ‘irmã mais nova’
+
+Podemos observar o processo de lenição da labial /b/ também nas fronteiras morfológicas:
+
+96
+
+126. a) /tSiaNpi/ [tSian) »pi]
+
+‘menina’
+
+b) -bo
+
+‘Col.’
+
+c) /tSiaNpi -bo/ [tSian) pi'Bo]
+
+‘meninas’
+
+127. a) /datoNkete/ [daton) ge»te] b) bet c) –e d) –k
+
+‘camisa’ ‘pegar’ ‘N.Pass’ ‘?’
+
+e) /datoNkete bet -e -k/ [daton) ge'teBe'Rek|] ‘comprar camisa’
+
+Com base nesses dados podemos assumir que a oclusiva bilabial sonora /b/ se fricativiza quando ocorre entre vogais. Esse processo seria de lenição, pelo qual o traço contínuo das vogais se espalha sobre a consoante /b/, manifestando-se como [B] na emissão fonética. Não temos evidências que permitam decidir se esse espalhamento é bidirecional ou não. Pelos dados, inicialmente, poderíamos sugerir que o espalhamento se dá a partir da esquerda para a direita, pois quando a seqüência é [-bo], como em [boSo'no] ‘sucuri’, não ocorre a lenição. Se aceitarmos que o processo se dá nesta direção, então teríamos a seguinte representação, seguindo a geometria sugerida por Clements e Hume (1995):
+
+97
+
+128.
+
+V
+
+x
+
++soante
+
+r
+
++aproximante
+
++vocóide
+
+/b/
+
+x
+
+-soante
+
+r
+
+-aproximante
+
+-vocóide
+
+laríngeo [-nasal] cavidade oral cavidade oral [-nasal] laríngeo
+
+[+sonoro]
+
+PC [+contínuo] [-contínuo]
+
+[+sonoro]
+
+vocálico
+
+5.3.2 As coronais /t/ e /d/
+
+Em um processo de Tapping , /t/ e /d/ são pronunciadas como [R] em fronteira morfológica, entre vogais. O resultado dessa mudança é uma pronúncia com uma duração mais curta, ou seja, um rápido tepe.
+Assim, quando um sufixo for iniciado por uma vogal, a raiz terminada em /t/ se torna [R]. Da mesma forma ocorre em junção de palavras. Observemos os exemplos abaixo:
+
+129. a) imˆt b) -a c) -S d) /imˆt -a -S/ [imˆ'RaS]
+
+‘escurecer’ ‘Pass.Im.’ ‘3p.’ ‘escureceu’
+
+98
+
+130. a) anˆt
+
+‘parar’
+
+b) -e
+
+‘não passado’
+
+c) –k d) /anˆt -e -k/ [anˆ'‰ek]
+
+‘?’ ‘ (ele/ela) pára’
+
+131. a) auat b) -´N c) /auat -´N/ [awa'R´n) ]
+
+‘anta’ ‘Erg. ‘anta’
+
+132.
+
+a) kapˆt b) uisu c) /kapˆt uisu/ [kapˆRui'su]
+
+‘jacaré’ ‘preto’ ‘jacaré preto’
+
+Quando adiciona-se um sufixo começado pela consoante /t/, manifesta-se como [t] :
+
+133.
+
+a) anˆt
+
+‘parar’
+
+b) -ta
+
+‘imperativo’
+
+c) /anˆt -ta/ → [ anˆt'ta]
+
+‘pare!’
+
+Em junção de palavras, /d/ manifesta-se como [R] quando a palavra anterior terminar em
+
+vogal:
+
+99
+
+134. a) Subu
+
+‘casa’
+
+b) datekin
+
+‘desfazendo’
+
+c) /Subu datekiN/ [SuBuRate'kin) ]
+
+‘desfazendo a casa’
+
+135. a) maˆ b) dedek c) /maˆ dedek/ [maˆRe'Rek|]
+
+‘roça’ ‘derruba’ ‘roçou’
+
+136. a) abu b) dunu c) /abu dunu/
+
+[aBuRu»nu]
+
+‘céu’ ‘cobra’ ‘cobra papagaio’
+
+Poderíamos interpretar, no modelo da fonologia não-linear, numa primeira análise, que /t/ e /d/, ao se tornarem [R] entre vogais, estariam assimilando os traços [+soante] e [+aproximante] das mesmas. Porém, como estes traços são traços de raiz, se fossem assimilados, a raiz toda seria assimilada, o que não ocorre no processo em questão. No entanto, ao passarem a tepe [R], perdem os traços negativos de soante e aproximante e ganham os traço positivos. Portanto, essa explicação não colabora muito para a resolução da questão.
+Uma segunda hipótese seria a de que [d] é o resultado de um processo de sonorização, isto é, o fonema coronal /t/ passa a [d] e depois a [R]. Assim, /t/ adaptaria o
+
+100 traço sonoro quando for condicionado por consoante nasal precedente, como, por exemplo, em dendu ‘puraquê’. Além disso, fazendo um paralelismo com a bilabial [b] observa-se também que ela ocorre precedida por nasal, como em: danbudu ‘joelho’. Contudo, nesse último caso observa-se também que a bilabial surda [p] pode ocorrer precedida de consoante nasal e não sonoriza-se, como em anpuSute ‘cigarro’, o que nos leva a interpretá-los como dois fonemas distintos, ou seja, /b/ e /p/. Voltando ao caso de [d] e [t], observam-se palavras como anudante ‘anzol’, nunte ‘canoa’ e mˆk´ntet ‘dez’ em que o segmento [t] ocorre precedido de nasal, e realizado como oclusiva coronal surda, descartando assim a hipótese inicial de que [d] seja uma variante do fonema /t/ quando está precedida de consoante nasal, sendo, portanto, /d/ e /t/ fonemas distintos. Dessa forma, tal hipótese está descartada também.
+Uma terceira hipótese seria analisar cada processo separadamente. Assim, no caso do /t/, este estaria assimilando a sonoridade das vogais, mas, nesse caso, tornar-se-ia /d/, e não [R]. No caso do /d/, como ele já tem o traço [+sonoro], não o poderia estar assimilando das vogais adjacentes, a menos que esse espraiamento fosse feito de modo redundante, pois /d/ também é sonoro, aplicando-se no vazio o espraiamento.
+Ainda, uma quarta hipótese, seria tratarmos tal processo como uma neutralização. Como esta resolução nos parece a mais adequada, trataremos separadamente deste processo na próxima seção.
+Observamos, portanto, que no interior da palavra a coronal /t/ não é afetada, ou seja, não torna-se [R]. Já a coronal /d/ é afetada neste ambiente, tornando-se [R] entre vogais. Em fronteira morfológica, ambas manifestam-se como [R]. O tepe [R] é alofone de /d/, e ocorre como [R] em fronteira morfológica. A coronal /t/, então, somente passa a tepe nesse
+
+101 ambiente, e /d/ manifesta-se como [R] tanto em palavras isoladas quanto em fronteira. Esses são os domínios prosódicos do processo de lenição.
+
+5.4 Neutralização
+
+Durand (1996) afirma que em inglês, o tepe [R] é normalmente o resultado da
+
+neutralização do contraste do /t/ e do /d/ em palavras como [bIR´R] 'bitter' vs. [bIR´R]
+
+'bidder'. Ele afirma que se um falante forma uma nova palavra adicionando um sufixo como –er ou –ing em uma base terminada em /t, d/, um tepe aparece automaticamente. No caso da adição do sufixo -er: [kit] → [kiRer] 'kitter'.
+
+Ainda, segundo Clements e Hume (1995), a neutralização é um processo no qual são eliminados contrastes entre dois ou mais traços em certos contextos. Seria uma regra de neutralização que não é uma assimilação. Segundo os autores, neutralização no nível do nó da raiz elimina todos os contrastes segmentais, como, por exemplo, na redução de todas as vogais não acentuadas a uma vogal neutra (como no Inglês), ou de algumas consoantes para um elemento ‘padrão’ como [/] (como no Toba Batak).
+
+Assim, tendo em vista as análises dos autores, verificamos em Matis que o contraste entre a obstruinte surda /t/ e a obstruinte sonora /d/ é neutralizado num tepe [R] entre vogais,
+
+em fronteira morfológica. Ilustramos abaixo, através dos exemplos já mencionados, a
+
+neutralização:
+
+137. a) auat
+
+‘anta’
+
+b) -´N
+
+‘morfema ergativo’
+
+c) /auat -´N/ [awa'R´n) ]
+
+‘anta’
+
+102
+
+138. a) maˆ
+
+‘roça’
+
+b) dedek
+
+’derruba’
+
+c) /maˆ dedek/ [maˆRe'Rek|]
+
+‘roçou’
+
+Note-se que a regra de neutralização ilustrada acima aplica-se aos traços [soante],
+
+[aproximante] e [sonoro]. Para alcançar este resultado em termos de uma simples operação,
+
+a regra precisa desligar o nó de raiz das obstruintes coronais. Assim, a representação
+
+seguinte ilustra a análise da neutralização (as estruturas irrelevantes são omitidas):
+
+139.
+
+(desligamento)
+
+x
+
+- soante - aproximante
+
+r
+
+- vocóide
+
+(inserção padronizada)
+
+x
+
++ soante + aproximante
+
+r
+
+- vocóide
+
+laríngeo
+
+cavidade oral
+!
+PC
+!
+[coronal]
+!
+t, d
+
+laríngeo
+!
+[+sonoro]
+
+cavidade oral
+!
+PC
+!
+[coronal]
+!
+
+[R]
+
+De todas as hipóteses, esta nos parece a mais adequada, embora estejamos cientes de que não solucionamos o problema. Visto que a primeira hipótese não é muito plausível, a segunda já foi descartada, pelos motivos descritos acima, e a terceira falha por analisar os processos separadamente, privilegiamos a hipótese da neutralização, pois com ela explicamos, de certa forma, o processo que envolve as coronais /t/ e /d/.
+
+103 5.5 Apagamento Vocálico
+Outro processo que ocorre em Matis é o processo de apagamento da vogal /a/ no final do sufixo enfático, junto aos adjetivos e nomes. Spencer (1996) argumenta que este tipo de processo de apagamento vocálico é muito comum na fala casual. Nestes casos, então, a vogal /a/ é apagada na última sílaba da palavra. Os exemplos abaixo demonstram alguns casos de apagamento:
+
+140.
+
+a) /kasi -dapa/ [ kasi »Rap|]
+
+CV.CV CV.CV magro Enf.
+
+CV.CV.CVC
+
+‘magro mesmo’
+
+b) /SiN -dapa/ [Sin»dap|]
+
+CVC CV.CV amarelo Enf.
+
+CVC.CVC
+
+c) /itis -tapa/ [itis»tap|] V.CVC CV.CV V.CVC.CVC quente Enf.
+
+‘amarelo mesmo’ ‘quente mesmo’
+
+Observamos acima que as coronais que ocupam a posição de Onset do enfático, {-tapa ∼ -dapa } são /t/ e /d/, conforme as regras estabelecidas anteriormente, nas quais /d/ ocorre depois de uma nasal, inclusive em fronteiras morfológicas e /t/ ocorre depois de qualquer consoante, no caso do enfático, depois de /s/, /S/ e /t/.
+
+104 Com o apagamento da vogal, portanto, a última sílaba da palavra é perdida e ocorre a conseqüente ressilabificação, na qual a consoante no Onset de uma sílaba passa para a Coda da sílaba precedente. O processo está abaixo representado para o sufixo {-dapa} ‘Enf’:
+
+141.
+
+σ
+
+σ
+
+O
+
+ROR
+
+N
+
+N
+
+x
+
+xxx
+
+{ -d
+
+a p a}
+
+apagamento vocálico
+
+→
+
+σ
+
+→
+
+O
+
+R
+
+NC
+
+x
+
+x
+
+x
+
+{ -d
+
+a
+
+p}
+
+associação do Onset à posição
+
+de Coda vazia
+
+σ
+
+O
+
+R
+
+NC
+
+xx x
+
+{-R a p|} representação fonética
+
+Observamos, portanto, que a ocorrência da consoante não-explodida [p|] ocorre somente nestes casos, quando há apagamento da vogal /a/.
+Assim, com a queda da vogal, a palavra que antes era CV.CV passa a CVC: 142.
+/kasi dapa/ → [kasi'Rap|] CV.CV CV.CV → CV CV CVC
+
+105
+
+VI
+
+O ACENTO
+
+Faremos, a seguir, algumas considerações sobre o acento em Matis. Porém, não chegaremos a uma conclusão definitiva, mas apresentaremos uma análise não aprofundada sobre esta questão, deixando-a, assim, em aberto para futuras pesquisas.
+O acento, nas línguas da família Pano, pode ser previsível ou não. Em Matis ele ocorre de maneira previsível. Analisaremos o acento nas palavras simples e nas palavras compostas.
+
+6.1 O acento em palavras simples
+
+As palavras simples podem ser constituídas por uma ou mais sílabas, como é ilustrado abaixo:
+
+143. a) [ˆ] b) [tSçt|] c) [i»mi]
+
+‘arraia’ ‘terra’ ‘sangue’
+
+[V] [CVC] [V.CV]
+
+106
+
+d) [a»pat|]
+
+‘igual’
+
+[V.CVC]
+
+e) [wa»ka]
+
+‘água’
+
+[CV.CV]
+
+f) [mˆS»te]
+
+‘fogo’
+
+[CVC.CV]
+
+g) [munu»Re]
+
+‘lança’
+
+[CV.CV.CV]
+
+h) [daton) ge»te]
+
+‘camisa’
+
+[CV.CVC.CV.CV]
+
+Os dados acima evidenciam que em Matis o acento recai sempre sobre a última sílaba das palavras simples. Trata-se, então, de uma manifestação previsível. Sendo assim, ele não possui função distintiva, ou seja, não é fonêmico. Diante disso, o acento não precisa ser representado no nível fonológico.
+
+6.2 O acento em palavras compostas
+
+Na junção de duas palavras simples para formar outra, verificamos que o acento permanece fixo na última sílaba de cada palavra simples. Porém, há uma diferença na emissão fonética. O grau de intensidade do acento da primeira palavra é mais fraco do que o da segunda. Os exemplos abaixo demonstram o funcionamento do acento:
+
+144.
+
+a) [nun) »te] # [pç'Rç] [nun « te pç » Rç]
+
+CVC.CV # CV.CV
+
+canoa
+
+braço
+
+‘remo’
+
+b) [ton) ka»te] # [ˆ»Sˆ]
+
+[tonka « te ˆ » Sˆ]
+
+CVC.CV.CV # V.CV
+
+arma
+
+semente
+
+‘cartucho de espingarda’
+
+107
+
+c) [daRawa»te] # [wiS»pç] [daRawa « te wiS » pç] ‘caneta’
+
+CV.CV.CV # CVC.CV
+
+papel
+
+perna
+
+d) [a»Bu] # [kua»kek]
+
+V.CV # CV.CVC
+
+céu
+
+escuta
+
+[a « Bu kua »kek|]
+
+‘trovão’
+
+e) [ba»kuˆ] # [usu»nek] [ba « kuˆ usu » nek|]
+
+CV.CV # V.CV.CVC
+
+nenê
+
+coloca
+
+‘grávida’
+
+Desta forma, estamos assumindo que na composição cada uma das palavras simples teria o seu próprio acento fonético. Porém, no processo de junção os dois elementos da composição devem manifestar-se foneticamente como uma unidade, ou seja, como uma palavra, sendo que a proeminência do acento da primeira palavra é reduzida. Assim, o elemento mais à direita leva o acento principal, sendo que o primeiro interpretamos como acento secundário.
+Nos casos em que há o apagamento da vogal da última sílaba da palavra, na fala casual, em função da ressilabificação o acento permanece na última sílaba. Conseqüentemente, há a realização de apenas um acento na palavra resultante. Observamos nos exemplos abaixo o comportamento do acento:
+145.
+
+108
+a) [ka»si -da»pa] [kasi » Rap] ‘magro mesmo’ CV. CV CV.CV CV.CV.CVC magro Enf.
+Não nos aprofundaremos na questão do acento em Matis, deixando para futuras pesquisas a expansão de uma discussão que pretenda situar tipologicamente essa língua do ponto de vista do padrão acentual, nos modelos da teoria fonológica não-linear, mais especificamente no modelo da teoria métrica.
+
+109
+CONCLUSÃO
+A análise realizada sobre a língua Matis teve como objetivo apresentar os aspectos fonológicos relevantes, embora saibamos que questões ainda restam a ser resolvidas, devido a sua complexidade.
+Como dissemos no início do nosso trabalho, nossos dados lingüísticos foram obtidos em trabalho junto ao nosso colaborador, Binan Tucum Matis, falante nativo da língua Matis. A elicitação de dados foi realizada em duas etapas: em julho de 1999 e em março de 2000. Feito isto, fizemos o inventário fonético do Matis, constituído por 20 fones consonantais e 17 fones vocálicos. Após esta etapa, utilizando-nos dos critérios de análise tradicionais, ou seja, contraste, distribuição complementar e variação livre (Pike, 1947), fizemos a análise fonêmica dos sons, tendo como resultado 13 fonemas consonantais e 7 vocálicos, a saber: /p, t, k, b, d, m, n, ts, tS, s, S, w, j, a, e, i, o, u, ´, ˆ/.
+Partindo dessa análise, tendo em vista as teorias fonológicas mais atuais, ou seja, as não-lineares, descrevemos a sílaba, bem como os processos fonológicos do Matis. A língua apresenta, no nível fonológico, os padrões V,VC,CV e CVC. Analisamos ainda, a silabificação em Matis, de acordo com Kenstowicz (1994).
+Considerando a estrutura da sílaba, discutimos a ocorrência das seqüências ambivalentes. Com relação às aproximantes [w] e [j], concluímos que elas são manifestações fonéticas das vogais /u/ e /i/, respectivamente. Verificamos, também, a existência de ditongos fonológicos em Matis, analisando a seqüência VV. Diante da possibilidade de termos consoantes labializadas, ou seja, com uma articulação secundária, não interpretamos dessa maneira, mas como uma consoante seguida de duas vogais que ocupam o mesmo núcleo na sílaba, como em /ku´.bu/ ‘jacu’, /tuiN/ ‘remar’.
+
+110 Quanto aos processos fonológicos, ocorrem a fusão, a assimilação de nasalidade, a lenição e tapping, a neutralização e o apagamento vocálico. Os dois primeiros dizem respeito `a harmonia nasal, e englobam vogais, no primeiro caso, e a consoante /k/, no segundo. Quanto às vogais, concluímos que em Matis não há vogais nasais, mas sim vogais nasalizadas pela consoante nasal que está em Coda. O terceiro processo abrange as coronais /t/ e /d/, e a labial /b/, que se enfraquecem em ambiente de vogais. O quarto também engloba as coronais /t/ e /d/. Utilizamo-nos de uma explicação de acordo com a teoria da geometria de traços para dar conta do enfraquecimento destas coronais em fronteira morfológica. Finalmente, analisamos o apagamento vocálico na fala casual, no sufixo enfático. É interessante observarmos nesta língua o comportamento das coronais /t/ e /d/. Em palavras isoladas /t/ ocorre tanto entre vogais quanto no início de palavra e depois de nasal. Já a coronal /d/ ocorre somente em início de palavra e depois de nasal, mas não entre vogais. Postulamos, portanto, [R] como seu alofone neste ambiente. Porém, em fronteira morfológica /t/ e /d/ se manifestam como [R] entre vogais. No caso do sufixo enfático as regras são mantidas, visto que quando a raiz termina em consoante nasal é {-dapa}, e quando termina em /s/, /S/ e /t/ é {-tapa}. Diante disso, verificamos que /t/ sofre o processo de lenição somente nas fronteiras, mas não no interior da palavra, pois neste ambiente ele se manifesta como /t/, e /d/ sofre este processo nos dois ambientes. Outro processo interessante é a nasalização. Já vimos que a harmonia nasal ocorre somente na sílaba, não se estendendo para fora de seus limites. Porém, em fronteira de morfema, quando se adiciona o sufixo desiderativo –nu, a consoante /n/ que se encontra em
+
+111 posição de Onset nasaliza a consoante /k/ em Coda da sílaba precedente: [kuak nu] → [kuaN'nu] 'quero ouvir'. Assim, neste caso, a nasalidade se estende para fora dos domínios silábicos. Portanto, nos casos de lenição e nasalização, percebemos que as fronteiras morfológicas modificam as regras estabelecidas no nível da palavra. Finalizando a nossa análise, descrevemos o acento, que funciona de forma previsível, ocorrendo sempre na última sílaba da palavra. Na junção de duas palavras, ele permanece na última sílaba de cada palavra. Nos casos em que há o apagamento de vogal, com a conseqüente ressilabificação, o acento permanece na última sílaba. Podemos observar que a morfologia é importante para visualizarmos os processos fonológicos descritos na dissertação. Esse fato não seria possível em uma pesquisa baseada apenas em itens isolados, ou seja, apenas numa pesquisa do léxico.
+Esperamos que o trabalho que nos propusemos fazer, para o momento, venha cumprir seu papel, que é contribuir para o conhecimento da língua Matis e da família lingüística Pano. Ressaltamos que, como em toda análise de línguas, esta deixa questões a serem resolvidas, devido à vasta riqueza lingüística Matis.
+
+112
+APÊNDICE I
+VOCABULÁRIO BÁSICO DA LÍNGUA MATIS
+
+113
+VOCABULÁRIO BÁSICO DE 200 PALAVRAS DA LÍNGUA MATIS (PANO)
+
+O vocabulário a seguir foi feito a partir da lista de Swadesh (1955), e visa contribuir aos estudos comparativos das línguas indígenas, principalmente, à família Pano. Na lista abaixo encontram-se itens lexicais referente a partes do corpo, à natureza, à cor, a verbos, etc. O vocabulário é restrito se comparado ao universo lingüístico do povo Matis, no entanto, é suficiente para se fazer uma breve comparação lexical com as outras línguas Pano.
+Os itens lexicais estão em ordem alfabética, tanto em Matis-Português, quanto Português-Matis.
+
+PORTUGUÊS-MATIS
+
+Tradução
+
+Fonológico
+
+Água Amarelo Amolado Andar/Caminhar Animal Ano
+
+uaka Sin Seka-16 kaponiS epapa ue
+
+16 Na entrada dos verbos estamos considerando a forma da raiz, com a tradução do infinitivo do português, à qual somam-se os sufixos.
+
+114
+
+Aquele
+
+akit
+
+Aqui
+
+nˆ
+
+Arder / Queimar
+
+kuk-
+
+Areia
+
+masi
+
+Árvore
+
+iui
+
+Asa
+
+pˆi
+
+Atrás
+
+ukˆ
+
+Barriga Bater Beber Boca
+
+puku kuesakˆSak
+
+Bom
+
+bˆda
+
+Branco Brincar
+
+uasa tSukeua-
+
+Cabeça Cabelo
+
+maSo maSakete
+
+Caçar Cachorro Cair Caminho Cantar Carapanã (pernilongo)
+
+kapouapa pakat- / tunkibai nomanbiuS
+
+Carne
+
+nami
+
+115
+
+Casca
+
+mˆi
+
+Cavar Certo
+
+menanbˆda
+
+Céu Cheio (estar cheio) Cheiro
+
+abu kubutpiSi
+
+Chifre
+
+pais
+
+Chupar
+
+tSiS-
+
+Chuva Cinco
+
+ue mˆk´n atSˆwˆS
+
+Cinza Coçar
+
+tsismapuk Sˆkˆtka-
+
+Com
+
+bˆt
+
+Comer Contar Coração Corda para rede e para o arco Correr Cortar
+
+pemistet uinte ditebete / buku abatde-/ te- / nakte-/ dˆt-/ kapˆS-
+
+Costurar Cozinhar Criança / Menino Curto
+
+kukunek kodokapapi tuku
+
+116
+
+Dançar
+
+munut-
+
+Dar
+
+mene-
+
+Deitar (na rede)
+
+duk-
+
+Deitar (no chão) Dente
+
+sukuatSita
+
+Dentro Dez
+
+edek mˆk´n atSˆuˆS dabˆtpa
+
+Dia
+
+badi / nˆtˆ
+
+Dizer Dois
+
+tSuidabˆtpa
+
+Dormir
+
+uS-
+
+E Empurrar
+
+ikek mˆama-
+
+Enrolado
+
+Suin-
+
+Escovar Espetar
+
+anmakut toSka-
+
+Esposa Esse Esses Este/isto
+
+auin nekit nekitbo nˆkit
+
+Estrela Eu (erg./abs.)
+
+uispa ´nbi/ˆbi
+
+117
+
+Falar Ficar em pé Fígado Flecha Flor Floresta
+
+onknit / nita takua pia iuiua nauˆ
+
+Fogo
+
+muSte
+
+Folha Frio (ter frio) Fruto
+
+iui podo ikentSitSo
+
+Fumaça
+
+puSute
+
+Furar Gelado
+
+toskauaduS
+
+Gente Gordura
+
+mates pobˆt
+
+Grama Grande
+
+uesin Sunu
+
+Gritar / Chamar
+
+tSuk-
+
+Grosso Homem Inchar Ir Irmã (mais nova)
+
+noua dada/papi bidiskai kuantSibi
+
+118
+
+Irmã (mais velha)
+
+tSutSu
+
+Irmão (mais novo)
+
+maSku
+
+Irmão (mais velho) Joelho
+
+butSi danbˆdu
+
+Jogar
+
+ne-
+
+Lá /alí
+
+u
+
+Lago
+
+tSan
+
+Lavar Ligar (aparelho)
+
+Sikkuˆtmeta
+
+Limpar Língua Longe
+
+bidiskai ana mˆdu
+
+Longo/Comprido
+
+Sunu
+
+Lua
+
+uSˆ
+
+Lutar Mãe Mão
+
+amai ani / tita mˆk´n
+
+Marido
+
+bˆnˆ
+
+Matar Mau
+
+akbˆda pemen
+
+Medo Montanha
+
+dakutukumuduk
+
+119
+
+Morder
+
+pe-
+
+Morrer
+
+nan-
+
+Muito (intensidade)
+
+kimo
+
+Muito (quantidade)
+
+dadenpa
+
+Mulher
+
+tidabo
+
+Nadar
+
+nun-
+
+Não
+
+pemen
+
+Não (existir) Nariz (ponta/ estremidade)
+
+bama deSan
+
+Negro / Preto
+
+uisu
+
+Noite / Escuro
+
+imˆt
+
+Nome
+
+anˆ
+
+Nós Novo Nuvem
+
+nuki paSa kuˆin
+
+Olho
+
+bˆdu
+
+Onde Orelha
+
+mida papuSan
+
+Osso Outro
+
+uispo uˆtsi
+
+Ouvir Ovo Pai
+
+kuaktu mama
+
+120
+
+Para
+
+{-n~-an}
+
+Pássaro
+
+tSididiS
+
+Pau / Vara Pé
+
+kueste taˆ
+
+Pedra
+
+maSaS
+
+Peixe
+
+tSapa
+
+Pele
+
+bitsi
+
+Pena
+
+Sakete
+
+Pequeno Perna Perto
+
+tuku pudunte nˆtsˆk
+
+Pesado
+
+iuˆdapa
+
+Pescoço Podre Poeira Porque Pouco
+
+tetun pisidapa duduk natsikek papitsˆk / dabˆtsˆk
+
+Quatro
+
+mˆkˆn atantet
+
+Quê? / O quê?
+
+auˆda
+
+Quem? Quente Rabo Rachar
+
+tsuntsi itis ina pos-
+
+121
+
+Raiz
+
+ibisunku
+
+Respirar
+
+anpuSut-
+
+Rio
+
+tSˆSˆ
+
+Rir Saber Sal Saliva
+
+denek tanawabata ektSun
+
+Sangue Secar Segurar Seio Semente
+
+imi kudune / beta Suma uSˆ
+
+Sentar Serpente Sol Soprar
+
+tsatdunu tanu buSkai-
+
+Sujo Terra Todos
+
+uisudapa tSot atSˆuˆS
+
+Trabalhar Três
+
+tSonotmˆkˆn tet
+
+Tripa Úmido
+
+punu uaka potkodak
+
+122
+
+Velha (humano)
+
+matSo
+
+Velho (humano) Velho (objeto)
+
+dadasibo Sini
+
+Vento
+
+auˆn
+
+Verde
+
+ˆmu
+
+Vermelho
+
+pˆt
+
+Vestuário (camisa) Viver (não está morto) Voar Você (erg./abs.) Voltar
+
+datonkete amaimen kapominbi / mibi tSo-
+
+Vomitar
+
+uk-
+
+123
+
+MATIS-PORTUGUÊS Fonológico
+
+Tradução
+
+abatabu akakakit amaiamaimen ana ani / tita anmakudek anpuSutanˆ atSˆwˆS auin auˆda auˆn badi / nˆtˆ bai bama bata
+
+Correr Céu Beber Matar Aquele Lutar Viver (não está morto) Língua Mãe Escovar Respirar Nome Todos Esposa Quê? / O quê? Vento Dia Caminho Não (existir) Sal
+
+bidiskai bidiskai bitsi biuS
+
+124 Inchar Limpar Pele Carapanã (pernilongo)
+
+butSi
+
+Irmão (mais velho)
+
+buSkai bˆda pemen
+
+Soprar Mau
+
+bˆda
+
+Bom
+
+bˆda
+
+Certo
+
+bˆdu
+
+Olho
+
+bˆnˆ
+
+Marido
+
+bˆt
+
+Com
+
+dabˆtpa
+
+Dois
+
+dada/papi dadasibo dadenpa dakutdanbˆdu
+
+Homem Velho Muito (quantidade) Medo Joelho
+
+datonkete de-/ te- / nakte-/ dˆt-/ kapˆS-
+
+Vestuário (camisa) Cortar
+
+denek ditebete / buku
+
+Rir Corda p/ rede e p/ o arco
+
+duduk dukdunu deSan edek ektSun epapa we ibisunku ikek ikenimi imˆt ina itis iui podo iui iuiua iuˆdapa kapokapokapokimo kodoka-
+
+125 Poeira Deitar (na rede) Serpente Nariz (ponta/ estremidade) Dentro Saliva Ano Raiz E Frio (ter frio) Sangue Noite / Escuro Rabo Quente Folha Árvore Flor Pesado Andar/Caminhar Caçar Voar Muito (intensidade) Cozinhar
+
+126
+
+kuak-
+
+Ouvir
+
+kuan-
+
+Ir
+
+kubut-
+
+Cheio (estar cheio)
+
+kudu-
+
+Secar
+
+kues-
+
+Bater
+
+kueste
+
+Pau / Vara
+
+kuk-
+
+Arder / Queimar
+
+kukunek kuˆin
+
+Costurar Nuvem
+
+kuˆtmeta
+
+Ligar (aparelho)
+
+mama masi mates matSo
+
+Pai Areia Gente Velha
+
+maSakete
+
+Cabelo
+
+maSaS maSku
+
+Pedra Irmão (mais novo)
+
+maSo
+
+Cabeça
+
+menmenanmida mikˆn atSˆwˆS
+
+Dar Cavar Onde Cinco
+
+minbi / mibi
+
+Você (erg./abs.)
+
+127
+
+misteta munutmuSte mˆama-
+
+Contar Dançar Fogo Empurrar
+
+mˆdu
+
+Longe
+
+mˆi
+
+Casca
+
+mˆkˆn atantet
+
+Quatro
+
+mˆkˆn atSˆwˆS dabˆtpa
+
+Dez
+
+mˆkˆn tet
+
+Três
+
+mˆkˆn
+
+Mão
+
+{-n~-an} nami nannatsikek nauˆ
+
+Para Carne Morrer Porque Floresta
+
+ne / beta nenekit nekitbo nidek / nita niS
+
+Segurar Jogar Esse Esses Ficar em pé Animal
+
+noman-
+
+Cantar
+
+128
+
+noua
+
+Grosso
+
+nuki
+
+Nós
+
+nun-
+
+Nadar
+
+nˆ
+
+Aqui
+
+nˆkit
+
+Este/Isto
+
+nˆtsˆk
+
+Perto
+
+onkpais pakat- / tunkipapi papitsˆk / dabˆtsˆk
+
+Falar Chifre Cair Criança / Menino Pouco
+
+papuSan paSa
+
+Orelha Novo
+
+pepepemen pia pisidapa piSi pobˆt
+
+Comer Morder Não Flecha Podre Cheiro Gordura
+
+pospudunte puku
+
+Rachar Perna Barriga
+
+129
+
+punu
+
+Tripa
+
+puSute
+
+Fumaça
+
+pˆi
+
+Asa
+
+pˆt
+
+Vermelho
+
+sukuattakua tanauatanu taˆ
+
+Deitar (no chão) Fígado Saber Sol Pé
+
+tetun tidabo toskatoSka-
+
+Pescoço Mulher Furar Espetar
+
+tsattsismapuk tsuntsi tu tuku tuku tSan
+
+Sentar Cinza Quem? Ovo Curto Pequeno Lago
+
+tSapa
+
+Peixe
+
+tSibi tSididiS
+
+Irmã (mais nova) Pássaro
+
+130
+
+tSitSo
+
+Fruto
+
+tSiS-
+
+Chupar
+
+tSo-
+
+Voltar
+
+tSonot-
+
+Trabalhar
+
+tSot
+
+Terra
+
+tSui-
+
+Dizer
+
+tSuk-
+
+Gritar / Chamar
+
+tSukeua-
+
+Brincar
+
+tSutSu tSˆSˆ
+
+Irmã (mais velha) Rio
+
+u ukukumuduk ukˆ
+
+Lá /alí Vomitar Montanha Atrás
+
+uS-
+
+Dormir
+
+uSˆ
+
+Lua
+
+uSˆ
+
+Semente
+
+uaduS
+
+Gelado
+
+uaka potkodak uaka uapa uasa
+
+Úmido Água Cachorro Branco
+
+131
+
+ue uesin uinte uispa uispo uisu uisudapa uˆtsi
+
+Chuva Grama Coração Estrela Osso Negro / Preto Sujo Outro
+
+Sakete
+
+Pena
+
+Seka-
+
+Amolado
+
+Sik-
+
+Lavar
+
+Sin
+
+Amarelo
+
+Sini
+
+Velho (objeto)
+
+Sita
+
+Dente
+
+Suin-
+
+Enrolado
+
+Suma
+
+Seio
+
+Sunu
+
+Grande
+
+Sunu Sˆkˆtkai-
+
+Longo/Comprido Coçar
+
+ˆmu
+
+Verde
+
+ˆnbi/ˆbi
+
+Eu (erg./abs.)
+
+ˆSak
+
+Boca
+
+132
+APÊNDICE II FOTOS E MAPA
+
+133 Pintura do ritual Mariwin
+Foto: P. Erikson Meninas carregando água
+
+134 Tumi, lider de uma das famílias Matis.
+Casas Matis
+
+135 MAPA Povo Matis
+
+136 Summary
+The following dissertation shows a phonetic and phonological report of the Matis language, belonging to the Pano family whose population lives in the state of Amazonas.
+This work consist of six chapters, conclusion and a bibliography. The first chapter shows a brief introduction, presents the methodology applied in the field to collect the linguistic material used in this study and the methodology of linguistic analysis.
+The second chapter shows a detailed report of the Matis people, their geographical position and some aspects concerning their language and culture, and a brief discussion of the studies about the Pano linguistic family.
+The third chapter defines the phonemes and the allophones of the language through the traditional analysis such as minimum pair, analogous pair, complementary distribution and free variation.
+From the fourth chapter on our study was guided mainly by the non-linear phonological theories. On this chapter we covered the Matis syllable structure, taking into consideration the syllable, syllable standards, the language syllable process, the ambivalent sequences, and we classified the phonemes in natural classes according to the feature geometrical theory.
+The fifth chapter analyse the phonological processes which occur in the language: fusion, nasal assimilation, lenition and tapping, neutralization and vowel deletion. The last chapter deals with the stress pattern.
+Key-words: Indian Languages, Phonology, Matis Language, Pano family.
+
+137 REFERÊNCIAS BIBLIOGRÁFICAS
+ABAURRE, M. B.M. e WETZELS, W.L. (1992) Sobre a estrutura da gramática fonológica. Caderno de Estudos Lingüísticos, v. 23, pp. 5-18. Campinas.
+ADELAAR, W. F. H. (2000) La diversidad lingüística y la extinción de las lenguas. Em: As línguas amazônicas hoje, pp.29-36. Org.: Francisco Queixalós e Renault-Lescure. Instituto Socioambiental. São Paulo.
+AGUIAR, M.S., (1988) Elementos de descricão sintática para uma gramática do Katukina, dissertação de Mestrado. Universidade de Campinas, Campinas.
+--------, (1994) Fontes de pesquisa e estudo da família Pano. Universidade de Campinas, Campinas.
+--------, (1994) Análise descritiva e teórica do Katukina-Pano, tese de Doutorado. Universidade de Campinas, Campinas.
+BARROS, L. (1987) A nasalidade vocálica e fonologia introdutória à língua Katukina (Pano), dissertação de Mestrado. Universidade de Campinas, Campinas.
+BISOL, L. (1989) O ditongo na perspectiva da fonologia atual. D.E.L.T.A., v. 5, n. 2. p. 185-224.
+--------, L. (1996) Introdução a estudos de fonologia do português brasileiro. EDIPUC, RS, Porto Alegre.
+
+138 BLEVINS, J. (1995) The Syllable in Phonological Theory. In: Goldsmith, J. A. (ed.) The
+Handbook of Phonological Theory, pp.207-243. Blackwell, Oxford.
+BLOCH. B., (1941) Phonemic Overlapping. American Speech 16 pp. 278-84.
+BLOOMFIELD, L., (1933) Language. Nova York, Henry Holt. [Trad. esp. Lenguaje. Lima, 1964; trad. fr. Langage. Paris, Payot, 1970].
+CÂMARA Jr., J. MATTOSO (1979) Introdução às línguas indígenas brasileiras. Ao livro técnico, Rio de Janeiro
+CAMARGO, E., (1987) Esquisse linguistique sur le kashinawa, langue de la famille Pano, memoire de D.E.A. Université de Paris-Sorbonne, Paris IV.
+--------, (1989) Sugestões para uma proposta de grafia unificada do hantxa kuin. Université de Paris-Sorbonne, Paris IV.
+--------, (1992) Phonologie, morphologie et syntaxe: étude descriptive de la langue caxinauá (Pano), tese de Doutorado. University of Paris IV-Sorbone.
+--------, (1993) Esboço fonológico do Caxinauá (Pano). In: Boletim do Museu Paraense Emílio Goeldi, série Antropologia, Vol. 9/1993, Bélem-PA.
+CÂNDIDO, G. V. (1998) Aspectos fonológicos da língua Shanenawá (Pano), dissertação de Mestrado. Universidade Estadual de Campinas. Campinas.
+CARVALHO, C. T. D. (1992) A decodificação da estrutura frasal em Matses (Pano), dissertação de Mestrado. Universidade Federal do Rio de Janeiro, Rio de Janeiro.
+CEDI, (1991) Povos Indígenas do Brasil.
+
+139 CHOMSKY, N. & HALLE, M. (1968) The Sound Pattern of English . Harper & Row.
+Nova York.
+CLEMENTS, G. N. & HUME, E. (1995) The Internal Organization of Speech (ed.), . In Goldsmith, J. A. (ed.), The Handbook of Phonological Theory, pp. 245-306. Blackwell, Oxford.
+CLEMENTS, G. N., (1976) The autosegmental treatment of vowel harmony. In. Dressler, W. Pfeiffer, O.E. (eds.) Phonologica, 1976 III-9. Innsbruck, Institut fur Sprachwissenschaft.
+COSTA, R. G. R. (1992) Padrões rítmicos e marcação de caso em Marubo (Pano), dissertação de Mestrado. Faculdade de Letras, Universidade Federal do Rio de Janeiro. Rio de Janeiro.
+COSTA, R. G. R. (1998) Aspects of ergativity in Marubo (Panoan). The Journal of Amazonian Languages. vol. 1(2), pp. 50-103.
+COSTA, R. G. R. (2000) Aspectos da fonologia Marubo (Pano): Uma visão não-linear. Tese de Doutorado. Faculdade de Letras, Universidade Federal do Rio de Janeiro.
+CRYSTAL, D. (1988) Dicionário de Lingüística e Fonética. Ed. Jorge Zahar. Rio de Janeiro.
+d’ANS, A.M. (1970) Materiales para el estudio del grupo linguistico Pano. (Introducciónlexicos-biblografia). UNMSM, Lima, Peru.
+DURAND, J. (1990) Generative and Non-Linear Phonology. Longman. New York.
+
+140 ERIKSON, P. (1991) Ritual dos Matis, Revista Horizonte Geográfico, ano 4, n. 16. Paris. ERIKSON et alii (1994) An Annotated Panoan Bibliograph, A.E.A. Paris. FERREIRA, R. V. (1996) Mapa. Em: As línguas amazônicas hoje. Org.: Francisco
+Queixalós e Renault-Lescure. Instituto Socioambiental. São Paulo. GLEASON, H. A. Jr. (1978) Introdução à Lingüística Descritiva. Fundação Caloust
+Gulbenkian. Lisboa. GOLDSMITH, J. (1985) Os objetivos da fonologia auto-segmental. In: Maria Helena Mira
+Mateus e Alina Villalva (orgs.) Novas perspectivas em fonologia. Lisboa, Laboratório de Fonética da Faculdade de Letras de Lisboa -------- (1990) Autosegmental and Metrical Phonology. London: Basil Blackwell. HALLE, M. & VERGNAUD, J.R. (1987) An essay on stress. Cambridge, London. The MIT Press. HALLE, M. (1995) Feature Geometry and Feature Spreading. In: Linguistic Inquiry, n. 1, v.26, pp. 1- 46. HOOPER, J. (1976). An introduction to natural generative phonology. Academic Press. Nova York JAKOBSON, R. (1967) Fonema e fonologia: ensaios. Rio de Janeiro, Acadêmica. JAKOBSON, R., FANT, G. & HALLE, M. (1952) Preliminaries to Speech Analysis. Cambridge, Massachusetts, The M.I.T. Press.
+
+141 KAYE, J. D. (1985) On The Syllable Structure of Certain West African Languages. In:
+African Linguistics. Ed.: Didier L. Goyvaerts. Amsterdam.
+KENSTOWICZ (1994) Phonology in Generative Grammar. London. Blackwell, Oxford.
+KIBRIK, A. E. (1977) The Metodology of Field Investigations in Linguistics. The Hague: Mouton.
+KIPARSKY, P. (1973) How Abstract Is Phonology. In: FUJIMURA, O. (ed.) Three Dimensions of Linguistic Theory, parte I: pp. 57-86. Tóquio, The TEC Corporation.
+LANES, E. G. (2000) Mudança Fonológica em Línguas da Família Pano, dissertação de Mestrado. Universidade Federal do Rio de Janeiro, Rio de Janeiro.
+LIBERMAN, M. & PRINCE, A. (1977) On Stress and Linguistic Rhythm. Linguistic Inquiry 8, pp. 249-336. Cambridge, Massachusetts, MIT Press.
+LOOS, E. E. (1969) The Phonology of Capanahua and its grammatical basis. SIL. México.
+Mc CARTY, J. (1988) Feature Geometry and dependency: A review. In: Phonetica, n.43, pp.84-108.
+MARTINET, A., (1968) La Lingüística sincrónica. Estudios e investigaciones. Madri, Gredos, 1968. [Trad. esp. do orig.: La Linguistique synchronique. Études et recherches. Paris, Presses Universitaires de France, 1965.
+
+142 MONTE, N. L (2000) Práticas e direitos: as línguas indígenas no Brasil. Em: As línguas
+amazônicas hoje, pp.183-192. Org.: Francisco Queixalós e Renault-Lescure. Instituto Socioambiental. São Paulo.
+NESPOR, M. e VOGEL, I. (1986) Prosodic Phonology. Foris Publications. U.S.A.
+PIGGOTT, Glyne L. (1992) Variability in feature dependency: the case of nasality. Natural Language and Linguistic Theory. Montreal/Quebec: McGill University. 10, pp.33-77.
+PIKE, K., (1947) Phonemics: a Technique for Reducing Languages to Writing. Ann Arbor, University of Michigan Press.
+PIKE, K. & PIKE, E. (1947) Immediate Constituints of Mozatec syllables. IJAL, 13:78-91.
+RODRIGUES, A. D. 1986. Línguas Brasileiras. Para o conhecimento das línguas indígenas. Edições Loyola, São Paulo.
+SAGEY, E. (1986) The representation of features and relations in nonlinear phonology. Cambridge, Mass.: MIT PHD dissertations. Garland Press, New York, 1990.
+SAPIR, E., (1981) A realidade psicológica dos fonemas. In: Dascal M. (org.) Fundamentos metodológicos da lingüística. V. II. Fonologia e sintaxe. Campinas, Ed. do Org.
+SELKIRK, E. (1980) On Prosodic Structure and its Relation to Syntactic Structure. Bloomington: IULC.
+--------, (1982) The Syllable. In: HULST, Harry van der & SMITH, Norval. The structure of Phonological Representations. v. 2, Dordrecht: Foris. p.337-83.
+
+143 SHELL, O. A., (1975) Estudios panos III: Las lenguas pano y su reconstrucción. SLP n°
+12, 2a ed., 1985. SOARES, M. F. (1996) Aspectos lineares e não-lineares de línguas indígenas brasileiras.
+Letras de Hoje. Porto Alegre. v. 31, n. 2, pp. 77-95. SPENCER, A. (1996) Phonology. Blackwell, Oxford. STAMPE, D., (1980) Natural Phonology. New York, Garland SWADESH, M. (1955) Towards greater accuracy in lexicostatistic dating. IJAL, 21,
+pp.121-137. TROUBETZKOY, N.S. (1970) Principes de Phonologie. Paris, Ed. Klincksieck. --------, (1981) A Fonologia Atual. In: Dascal M. (org.) Fundamentos metodológicos da
+lingüística. V. II. Fonologia e sintaxe. Campinas, Ed. do Org.. VENNEMANN, T. (1972) On the Theory of Syllabic Phonology. Linguistiche Berichte 18,
+pp. 1-18. WETZELS, L. (1995) Estudos fonológicos das línguas indígenas brasileiras. Rio de
+Janeiro, Ed. UFRJ.
+
+

@@ -1,0 +1,2876 @@
+Este arquivo, fornecido pela autora, está disponível para download no endereço http://www.etnolinguistica.org/tese:sa_1999
+
+ROSANE MUÑOZ DE SÁ
+ANÁLISE FONOLÓGICA PRELIMINAR DO PYKOBYÊ
+Dissertação de Mestrado apresentada ao Curso de Pós-Graduação em Semiótica e Lingüística Geral da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo. ORIENTADOR: PROF. DR. WALDEMAR FERREIRA NETTO
+SÃO PAULO 1999
+
+Tudo vale a pena Se a alma não é pequena.
+
+Este trabalho é dedicado
+
+À Tia Pilar (in memoriam), quem primeiro me iniciou no mundo das letras
+Aos meus pais, Nelson e Rosa, que sempre acreditaram em mim
+Ao William, que, com seu amor, me ajudou a concretizar este sonho
+
+Agradecimentos
+Aos Professores Jonas Polino Gavião, Mário Bandeira Gavião, Joel Gavião, Célio Gavião e Maria Gavião, pela sabedoria e paciência com que se dispuseram para me ensinar cada palavra de sua língua.
+Ao Prof. Dr. Waldemar Ferreira Netto, pela disposição de ensinar e discutir, por sua inestimável orientação e pelo incentivo durante a realização deste trabalho.
+À FAPESP, pelo profissionalismo com que financiou minha pesquisa, através da bolsa e da reserva técnica, viabilizando as pesquisas de campo e as apresentações de trabalho em Congressos.
+À FUNAI e ao CNPq, pela autorização para entrada na área indígena.
+Ao Centro de Trabalho Indigenista, em especial à Maria Elisa Ladeira, por ter me possibilitado o contato com toda a família Timbira.
+Ao Departamento de Lingüística, em especial à Prof. Dr. Esmeralda Vailati Negão e à Érica Flávia de Lima, por seu apoio.
+À Flávia de Castro Alves, por suas valiosas sugestões e pela hospitalidade.
+À Karylleila de Andrade, por seu companheirismo.
+Aos colegas da Pós-graduação em Lingüística da FFLCH, em especial ao Geraldo Tadeu Souza e à Thaïs Raposo Chaves, pelo companheirismo.
+Aos colegas e professores da Pós-graduação em Lingüística da UNICAMP por suas sugestões.
+À Prof. Dr. Margarida Taddoni Petter, ao Prof. Dr. Erasmo D‟Almeida Magalhães, à Prof. Dr. Leda Bisol, ao Prof. Dr. W. Leo Wetzels, ao Prof. Dr. Sérgio Amilcare, à Prof. Dr. Maria Helena Mira Mateus, ao Prof. Dr. Aryon D. Rodrigues, à Prof. Dr. Mary Kato, ao Prof. Dr. Kanavillil Rajagolapan, pelos conhecimentos transmitidos em suas aulas.
+Ao sr. Natalino e família, pela hospitalidade, pelos “causos” contados à tardinha na varanda e pelo valioso trabalho que realizam junto aos índios e à população de Amarante.
+A todos os índios Gavião-Pykobyê, por sua calorosa acolhida, pelo carinho e respeito com que me trataram, pelos momentos únicos que me proporcionaram de conhecer um Brasil tão diferente e encantador.
+
+SUMÁRIO
+
+RESUMO
+
+1
+
+ABSTRACT
+
+2
+
+ABREVIAÇÕES
+
+3
+
+1.
+
+INTRODUÇÃO
+
+4
+
+1.1
+
+Justificativa
+
+6
+
+1.2. Objetivos
+
+7
+
+1.3. Metodologia
+
+8
+
+1.4. Análise dos dados
+
+9
+
+2.
+
+RESULTADOS OBTIDOS
+
+10
+
+2.1. Unidades distintivas
+
+10
+
+2.2. A sílaba
+
+12
+
+2.2.1. A estrutura interna
+
+13
+
+2.2.2. Ataques complexos
+
+14
+
+2.2.3. Seqüência de sonoridade
+
+16
+
+2.2.4. Coda
+
+17
+
+2.2.5. Direcionalidade
+
+18
+
+2.2.6. A sílaba VC
+
+23
+
+2.3. O acento
+
+25
+
+2.3.1. Tipo de pé
+
+26
+
+2.3.2. Direção de construção e acento secundário
+
+29
+
+3.
+
+PROCESSOS FONOLÓGICOS
+
+34
+
+3.1. Quadro fonético-articulatório
+
+35
+
+3.2. O efeito “breathy-voice”
+
+39
+
+3.3. Vogais orais
+
+41
+
+3.4. Vogais nasais
+
+44
+
+3.5. Consoantes
+
+48
+
+3.5.1. Um caso de sonorização
+
+48
+
+3.5.2. Restrições às consoantes em coda
+
+50
+
+3.5.3. Um caso de neutralização: a oclusiva velar aspirada
+
+52
+
+3.5.4. Variações do 
+
+54
+
+3.5.5. O caso de e de 
+
+55
+
+3.5.6. O caso da velar pré-nasalizada
+
+60
+
+3.6. O alongamento das vogais
+
+62
+
+3.7. Processos de silabificação
+
+66
+
+3.7.1. Os pronomes pessoais e possessivos
+
+67
+
+3.7.2. Processos de ressilabificação envolvendo VC
+
+76
+
+4.
+
+CONCLUSÃO
+
+80
+
+REFERÊNCIAS BIBLIOGRÁFICAS
+
+81
+
+1
+
+RESUMO
+O presente estudo tem como objeto de análise o sistema fonológico da língua Pykobyê falada pela tribo indígena homônima, também conhecida como Gavião do Maranhão, pertencente ao grupo Timbira, família Jê, tronco lingüístico Macro-Jê, situada ao sul do estado do Maranhão. Esta língua ainda não apresenta estudo sendo esta, portanto, uma análise preliminar de seu sistema fonológico que possibilitará posteriores estudos mais aprofundados neste e em outros campos lingüísticos.
+Na primeira parte do trabalho, são apresentadas as unidades distintivas, a estrutura silábica e o padrão acentual. Numa segunda parte, passa-se a tratar dos processos fonológicos identificados nos sistemas vocálico e consonantal no nível segmental, assim como no nível silábico. Foram utilizados, como métodos de análise dos dados, os modelos teóricos não-lineares - autossegmental, prosódico e métrico. Por fim, buscou-se fazer um estudo morfofonológico com uma determinada classe de palavras: os pronomes pessoais/possessivos.
+1
+
+ABSTRACT
+The goal of this study is to analyse phonological system of Pykobyê language, spoken by same-called indigenous tribe, that is also named as Gavião do Maranhão, Timbira group, Je family, Macro-Je branch, which is located in state of Maranhão. This language presents no study; therefore, this is a preliminary analysis of its phonological system that will allow further deeper studies in this one and other linguistic fields.
+Firstly, segments, syllable and stress pattern are presented. Secondly, phonogical processes are identified in vocalic and consonantal systems in the segmental level as well as in the syllabic level. As methodology to analyse data, non-linear theories are used, such as auto-segmental, prosodic and metrical ones. Finally, a morphophonology study involving possessive and personal pronouns is realized.
+2
+
+ABREVIAÇÕES
+
+Aument Dat Dimin Fut Perf 1 2 3
+
+aumentativo dativo diminutivo futuro pretérito perfeito primeira pessoa segunda pessoa terceira pessoa
+
+3
+
+1. INTRODUÇÃO
+Os Pykobyê, mais comumente chamados de Gavião do Maranhão, foram contatados pela primeira vez no século XVIII (NIMUENDAJÚ, 1946). Sua fama de guerreiros “ferozes e traiçoeiros” os manteve afastados do contato com os brancos o que impediu a colonização da região compreendida entre as cabeceiras dos rios Pindaré e Tocantins (“os campos do Grajaú”) até meados do século passado quando as relações começaram a ficar amistosas.
+O grupo Timbira compreende sete línguas (RODRIGUES, 1986) e podem ser divididos em Timbiras Orientais (situados a leste do Rio Tocantins) e Timbiras Ocidentais (situados a oeste do Rio Tocantins) (MELATTI, 1972).
+Timbiras Orientais: Maranhão - Pinkukatiji (“povo da mangaba” – Krinkati) - Apanjekrakatiji (“povo da piranha” – Apãniekrá-Canela) - Ramkukatiji (“povo da mata” – Ramkokamekrá-Canela) - Pakupkatiji (“povo de Pakup” – Pykobyê-Gavião) Pará - Parkatejê (Gavião) Tocantins - Marekatiji (“povo da ema” - Krahô) Timbiras Ocidentais (Tocantins): - Ronkukatiji (“povo do cocal” - Apinayé)
+4
+
+Algumas vezes confundidos com os Krinkatí e com os Canela pela proximidade em que viviam, hoje os Pykobyê habitam as aldeias de Governador, Rubiácea e Riachinho (v. mapa em ANEXO) no município de Amarante do Maranhão, latitude 6º, longitude 46º, e somam uma população aproximada de 700 índios (CEDI/INSTITUTO SOCIOAMBIENTAL, 1995).
+Seu nome – Pykobyê – é uma adaptação de “Pakupje”, ou seja, o povo de Pakup, nome dado em homenagem a uma mulher que, segundo a mitologia indígena, teria sido uma heroína do povo. O sufixo “je” , encontrado no nome de outros grupos Jê, embora grafado de outras formas, significa “povo”. Já o codinome “Gavião do Maranhão” foi dado pelos brancos devido a sua fama de guerreiros.
+Embora muitos estudos histórico-sócio-lingüísticos tenham sido realizados com os demais grupos Timbira, pouco foi estudado sobre os Pykobyê, principalmente em relação à sua língua. DAVIS (1966), num estudo comparativo de fonologia Macro-Jê entre as línguas Apinayé, Canela, Suyá, Xavante e Kaingang, chega a citar que “dados incompletos indicam que talvez haja contraste entre as oclusivas velar aspirada e não-aspirada no Krinkatí e no Gavião”, mas não se aprofunda no assunto. Não há registros de outros estudos da língua.
+5
+
+1.2. Justificativa
+O estudo da língua de um povo visa sempre entender a forma como ele organiza seu pensamento, como compreende o mundo à sua volta e, a partir daí, como transforma culturalmente esse mundo. No Brasil, onde quase 200 línguas são faladas, das quais cerca de 95% são indígenas, tem se procurado um método de estudo adequado e uma classificação clara desde OITICICA (1933) e RODRIGUES (1986) e ainda há muito o que se estudar.
+Foi escolhida a língua Pykobyê como objeto de análise por apresentar um vasto campo de pesquisa a ser explorado e em particular sua fonologia por tratar-se de uma área fundamental para qualquer estudo posterior, seja morfológico, sintático ou lexical, possibilitando também a análise de alguns fenômenos interessantes como o do “breathy voice”. Além disso, com uma comunidade de aproximadamente 700 falantes, o Pykobyê pode ser considerada uma língua ameaçada de extinção o que, do ponto de vista lingüístico, é um desastre pois, como diz KIBRIK (1977) “o desaparecimento de línguas não descritas ou insuficientemente descritas é uma perda de fatos lingüísticos que poderiam se tornar inestimáveis para futuras gerações de lingüistas e que não podem ser compensados.”
+6
+
+1.3. Objetivos
+O projeto teve por objetivo uma análise preliminar da fonologia da língua Pykobyê, grupo Timbira da família Jê. Dessa forma, ao final do estudo, foram concluídas as seguintes etapas:
+1. fazer um inventário do sistema fonético-articulatório da língua Pykobyê 2. descrever fonologicamente os sistemas consonantal e vocálico 3. descrever e analisar a estrutura da sílaba 4. analisar preliminarmente o padrão acentual
+7
+
+1.4. Metodologia
+Os dados estudados foram coletados em três pesquisas de campo, todas autorizadas pela FUNAI: a primeira, em janeiro de 1998, financiada pela FAPESP; a segunda, em setembro de 1998, financiada pelo Departamento de Lingüística da FFLCH/USP e a terceira em janeiro de 1999, financiada pela FAPESP. Os dados foram gravados em fitas cassete em forma de questionários lingüísticos junto a informantes (a maioria deles, professores indígenas) e conversas informais com a comunidade indígena. Além desses dados, foi utilizado, no início do projeto, um questionário lingüístico, realizado pelo Prof. Dr. Waldemar Ferreira Netto junto ao professor indígena Jonas Polino Gavião em setembro de 1994.
+8
+
+1.5. Análise dos dados
+Antes da primeira pesquisa de campo, o trabalho da pesquisadora esteve voltado ao cumprimento dos créditos em disciplina e à leitura de textos básicos. Todavia, também pôde iniciar uma análise preliminar com um questionário lingüístico de 1994 elaborado por seu orientador, Prof. Dr. Waldemar Ferreira Netto, junto ao informante Jonas Polino Gavião. Depois da primeira viagem de campo de janeiro/98, foi possível reavaliar algumas hipóteses e começar um estudo mais avançado em relação à sílaba. Contudo, a cada viagem e a cada coleta de dados que era feita, novas hipóteses iam surgindo, e todo o trabalho teve que ser reavaliado novamente. Sabe-se, de antemão, que nem tudo foi solucionado; afinal, esse é o primeiro estudo feito com a língua Pykobyê, mas também é o primeiro passo. Grande parte do estudo será passível de novas reavaliações cada vez mais aprofundadas, talvez por essa mesma pesquisadora ou quiçá por outros que quiserem trilhar esse mesmo caminho.
+9
+
+2. RESULTADOS OBTIDOS
+
+2.1. Unidades distintivas
+
+Na determinação das unidades distintivas da língua Pykobyê, foi estabelecido o seguinte quadro:
+
+CONSOANTES
+
+      
+
+          
+
+As consoantes classificam-se em obstruintes, nasais e líqüidas/glides. As obstruintes apresentam o traço [ - sonoro ] e incluem, além dos segmentos simples, dois segmentos de contorno, uma africada coronal e uma dorsal aspirada. O  e o  são considerados glides consonantais por nunca ocuparem o lugar do núcleo da sílaba, somente o ataque ou a coda, como será visto em 2.2.3. Esses dois segmentos também se comportam como o , ao formarem ataques complexos, embora com algumas restrições quanto às vogais que os sucedem (seção 2.2.2). Entretanto, deve-se fazer uma ressalva quanto à possibilidade de ambos, quando em posição de ataque inicial, ressilabificarem-se com uma consoante qualquer que esteja em coda final, o que poderia caracterizá-los como as vogais  e . É necessário também ressaltar que o glide  possui os traços [labial] e [dorsal] no nó de lugar de articulação da consoante.
+
+10
+
+VOGAIS ORAIS
+
+ 
+
+
+
+aberto 1
+
+-
+
+aberto 2
+
+-
+
++
+
++
+
+-
+
++
+
+VOGAIS NASAIS 
+
+As vogais orais são classificadas quanto ao grau de abertura. Faz-se necessário também uma classificação (CLEMENTS & HUME, 1995) quanto ao ponto de articulação para a distinção das vogais centrais, a saber:
+
+coronais
+  
+
+dorsais
+  
+
+dorsais / labiais
+  
+
+As vogais  são segmentos simples e  são segmentos complexos por possuírem os traços [dorsal] e [labial] no nó de lugar de articulação da vogal.
+
+11
+
+2.2. A sílaba
+Os problemas de identificação das formas subjacentes, dos processos de apagamento e de epêntese, de neutralização, entre outros da análise fonológica, têm sido, senão resolvidos, pelo menos discutidos amplamente através do estudo das estruturas silábicas das línguas. O reconhecimento da sílaba como constituinte prosódico tem facilitado o trabalho dos fonólogos e elucidado muitos aspectos que não haviam sido explorados até então pelas teorias lineares. Partindo do estudo da sílaba no Pykobyê, procurou-se estabelecer o grupo de consoantes que podem atuar como ataque complexo e, dessa forma, estabelecer o padrão máximo silábico e os processos fonológicos envolvendo a sílaba.
+12
+
+2.2.1. A estrutura interna
+
+Para o estudo da sílaba do Pykobyê foi adotada a seguinte estrutura interna1 (ITÔ,
+
+1986):
+
+
+
+A
+
+R
+
+Nu Co
+
+No Pykobyê, a posição A (ataque) será sempre preenchida por qualquer segmento consonantal, a posição Nu (núcleo) por um segmento vocálico e a posição Co (coda) também por um segmento consonantal com algumas restrições quanto a sua natureza. A posição de ataque pode ser ramificada, isto é, apresentar duas consoantes. A seguir serão vistos quais os conjuntos possíveis no Pykobyê a ocupar essa posição.
+
+2.2.2. Ataques complexos
+13
+
+A língua aceita como ataque complexo a seqüência obstruinte + aproximante, mas nem todas as seqüências são permitidas:
+
+Obstruintes
+Labiais Coronais Dorsais
+
+Aproximantes
+
+
+
+
+
+
+
+Exemplos 
+
+-
+
+
+
+  - 'caminho',  - 'chão, terra'
+
+
+
+-
+
+-  - 'sal', - 'gordura'
+
+   -'macuco',-„mandioca',
+
+ - „papagaio',- „flecha‟,
+
+ - 'buscar', - 'coxa'
+
+Observando o quadro acima, nota-se uma distribuição entre os encontros consonantais labiais e coronais; não há encontro labial + labial/dorsal nem coronal + coronal, enquanto que as dorsais não apresentam nenhuma restrição. Dessa forma, pôde-se levantar a seguinte hipótese:
+
+
+A
+
+R
+
+[ - nasal ]
+
+[ - vocálico ]
+
+[ - contínuo ] 2 [ + soante ]
+
+[ + aproximante ] 1
+
+Se 1, então 2
+
+Restrição: seqüência de dois segmentos com mesmo ponto de articulação não é permitida
+Esse filtro proíbe as seguintes seqüências de consoantes: **************
+
+1 Apesar da estrutura adotada, será utilizado também, no decorrer do estudo da sílaba, o texto de CLEMENTS & KEYSER (1983).
+14
+
+Há também restrição quanto às vogais que sucedem esses encontros consonantais:
+
+
+
+    
+
+
+
+
+
+ 
+
+         
+
+
+
+ 
+
+Diante desse quadro, pôde-se perceber que o encontro oclusiva + líqüida permite a sucessão de qualquer vogal, enquanto os demais apresentam restrições. O encontro oclusiva + glide [ labial / dorsal ] permite apenas vogais com traço [ dorsal ] e o encontro oclusiva + glide [ coronal ] só permite a vogal com traço [ coronal ]2.
+
+Desse fato, pôde-se concluir que só existem na subjacência os ataques complexos com a líqüida e com o glide dorsal/labial . Quando a vogal que sucede este último tiver o
+
+traço [ coronal ], ocorre um apagamento do nó do ponto de articulação da consoante e um conseqüente espraiamento do nó de ponto de consoante da vogal para o glide, tornando-o também coronal, ou seja, o .
+
+x
+r + soante + aproximante - vocálico
+CO
+PC
+[ labial ] [ dorsal ]
+
+x
+r + soante + aproximante + vocálico
+CO
+PC
+Vocálico
+Ponto de V
+[ coronal ]
+
+2.2.3. Seqüência de sonoridade
+
+15
+
+Para a identificação dos padrões silábicos do Pykobyê seguiu-se a Condição Universal do Núcleo Silábico, partindo-se do padrão CV como tautossilábico e da escala de sonoridade ( CLEMENTS & HUME, 1995):
+
+Obstruinte Nasal Líqüida / Glide Vogal
+
+[ soante ]
++ + +
+
+[ aproximante ]
++ +
+
+[ vocóide ]
++
+
+Escala de sonoridade
+0 1 2 3
+
+Seguindo-se essa escala, deve-se determinar como núcleo da sílaba o elemento mais sonoro e os menos sonoros como ataque ou coda. Havendo seqüência de elementos dentro do ataque ou da coda, estes respeitam a hierarquia de sonoridade.
+
+2.2.4. Coda
+2 O encontro de consoante + glide [ coronal ] +  não está descartado, embora não tenha sido encontrado nenhum exemplo no corpus
+16
+
+O Pykobyê restringe a posição de coda apenas aos segmentos simples e , excluindo-se  e . Estes últimos, nessa posição, perdem o segmento com traço [ + contínuo ], como será analisado em 3.5.2.
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2.2.5. Direcionalidade
+17
+
+Na construção da estrutura silábica deve-se atentar para que direção a língua tomará ao preencher as posições esqueletais. O Pykobyê, além do padrão universal CV, também apresenta o padrão CVC em qualquer posição do vocábulo. Também é encontrado o padrão VC, mas somente em início de palavra, como será visto em 3.2.6. Na subjacência, postulou-se também a existência de uma sílaba V, a qual sempre se realiza como V: e em início de palavra; o caso desta sílaba será tratado na seção sobre alongamento vocálico, 3.6. CLEMENTS & KEYSER (1983) apresentam os seguintes tipos de línguas classificadas de acordo com seus padrões silábicos:
+
+Tipo I: CV Tipo II: CV, V Tipo III: CV, CVC Tipo IV: CV, V, CVC, VC
+
+Assim, o Pykobyê é uma língua do tipo III. CLEMENTS & KEYSER, nesse
+
+mesmo trabalho, classificam os ataques e codas complexos e as vogais longas como possíveis
+
+variações dos padrões acima. Como foi visto anteriormente, o Pykobyê apresenta ataques
+
+complexos, mas não coda complexa, sendo portanto, C(C)V(C) o padrão máximo.
+
+Exemplos:
+
+(1)  (2)  (3)  (4) 
+
+„1ª pessoa singular‟ „esteira‟ „filhote‟ „cuia‟
+
+A língua, na construção da estrutura silábica, segue o ordenamento da direita para
+
+18
+
+a esquerda abaixo: Exemplo: (5)  – „siriema‟ 1. Ocupar o núcleo:
+N V    
+2. Formar a seqüência CV: 
+AR N
+CV    
+3. Preencher a coda: 
+AR N Co
+CVC    
+4. Preencher ataque complexo:
+19
+
+ AR
+N Co CC V C    
+
+Como foi visto, buscou-se preencher primeiro o padrão CVC para então, continuar a preencher o ataque. Esse ordenamento de regras também permite separar ataques complexos que são mal-formados no Pykobyê como *  e * :
+Exemplo:  (6)  - „tucano‟ 1. Ocupar o núcleo:
+
+N V    
+
+N V  
+
+2. Formar a seqüência CV:
+
+
+
+
+
+AR
+
+AR
+
+N
+
+N
+
+CV
+
+CV
+
+     
+
+20
+
+3. Preencher a coda:
+
+
+
+
+
+AR
+
+AR
+
+N Co
+
+N Co
+
+CV C C V C      
+
+
+
+
+
+Exemplo: (7)  - „carne de anta‟ 1. Ocupar o núcleo:
+
+N
+
+N
+
+V
+
+V
+
+     
+
+
+
+2. Formar a seqüência CV:
+
+
+
+
+
+AR
+
+AR
+
+N
+
+N
+
+CV
+
+CV
+
+     
+
+N V  
+ AR
+N CV  
+
+21
+
+3. Preencher a coda:
+
+
+
+
+
+AR
+
+AR
+
+N
+
+N
+
+CV
+
+CV
+
+    
+
+
+
+AR
+
+Co
+
+N
+
+CCV   
+
+4. Preencher ataque complexo:
+
+
+
+
+
+
+
+AR
+
+AR
+
+AR
+
+N
+
+N Co
+
+N
+
+CV C C V C C V        
+
+
+
+
+
+
+
+Nesse último caso, o ordenamento de regras também coincide com a fronteira morfológica:  – „anta‟ e  – „carne de‟ . Vale ressaltar que esses casos ocorrem no
+
+nível subjacente; na superfície, principalmente na fala rápida, é possível a ressilabificação, formando a sílaba CCV como na palavra  3
+
+
+3 A mudança de  para  será abordada em 3.5.5. 22
+
+2.2.6. A sílaba VC
+
+A sílaba VC é um caso particular. No Pykobyê, ela só aparece em início de palavra e com restrições quanto aos segmentos que podem ocupar essas posições. Dentre as vogais, apenas  e podem ocupar o núcleo silábico; quanto à coda, apenas as consoantes com traço [ + contínuo ] e as nasais. Essa sílaba nunca aparece como vocábulo monossílabo; na grande maioria de vocábulos que apresentam o VC, ele parece ser um prefixo.
+
+Exemplos:
+
+(8)  (9) 
+(10)  (11) 
+(12)  (13)  (14)  (15)  (16) 
+
+„pron. pes. de forma presa ou possessivo de 1ª pes. do sing.‟ „meu olho‟
+„pron. pes. de forma presa ou possessivo de 3ª pes. do sing.‟ „seu cabelo‟
+„prefixo generalizador, qualquer‟ „qualquer carne‟ „qualquer mato‟ „qualquer abelha‟ „qualquer flor‟
+
+Já em alguns casos, não foi possível depreender se a sílaba seria ou não um prefixo:
+
+(17)  (18)  (19)  (20)  (21) 
+
+„próprio‟ „calma‟ „rato‟ „aceso‟ „caju‟
+
+(22)  (23)  (24)  (25)  (26) 
+
+„caçada‟ „amanhã‟ „ontem‟ „cedo‟ „hoje‟
+
+23
+
+O caso dessa sílaba VC, encontrada somente em início de palavra, é chamado por BLEVINS (1995), na sua classificação das línguas segundo o padrão silábico, como “edge effect” (efeito de borda). Alguns processos de ressilabificação envolvendo a sílaba VC serão analisados em 3.7.2.
+24
+
+2.3. O acento
+O acento tem sido, ao longo das últimas décadas, alvo das mais diversas teorias. Apesar de estar associado, na maioria das vezes, com a altura, a duração e até mesmo com o tom em certas línguas, o acento difere desses últimos por vários fatores. Segundo KAGER (1995), primeiro, por ser culminativo, isto é, nas línguas que possuem sistema acentual todas as palavras portam, ao menos, uma sílaba acentuada. Segundo, por ser hierárquico, já que, havendo mais de um acento na palavra, um sempre prevalecerá sobre os demais. Terceiro, por ser delimitativo em sistemas nos quais ele marque os limites da palavra. Quarto, por ser rítmico em sistemas nos quais há alternância de sílabas acentuadas e não-acentuadas e os “clashes” são evitados. Por último, o acento pode acarretar processos fonológicos no nível segmental, como alongamento de vogais ou degeminação de consoantes em sílabas acentuadas, assim como redução de vogais em sílabas não-acentuadas.
+Para o estudo do acento no Pykobyê, buscaram-se parâmetros nas diversas teorias não-lineares recentes como a teoria métrica clássica da árvore e a teoria da grade métrica (HALLE & VERGNAUD, 1987), assim como na teoria rítmica assimétrica (HAYES, 1994); entretanto, não foi possível uma análise profunda baseada somente nessas teorias. Como será visto a seguir, o sistema acentual do Pykobyê é governado não apenas por fatores fonológicos como também por fatores morfológicos demandando, assim, uma análise mais detalhada neste outro campo. De qualquer forma, foi possível estabelecer certos parâmetros quanto à estrutura do pé métrico.
+25
+
+2.3.1. Tipo de pé
+O acento da língua é previsível e tem caráter delimitativo. Do corpus analisado, cerca de 97% dos dissílabos apresentam a última sílaba acentuada, ou seja, possuem pé dominante à direita. Em relação aos trissílabos, isso ocorre em cerca de 93% e nos polissílabos em 100% dos casos. Por esses dados, pode-se classificar o Pykobyê, segundo HAYES (1994), como uma língua que apresenta pé métrico iâmbico. Entretanto, outros fatos devem ser analisados.
+HAYES classifica os pés métricos em três padrões: a. troqueu silábico – pé dominante à esquerda e insensível ao peso silábico b. troqueu moraico – pé dominante à esquerda e sensível ao peso silábico
+(moras) c. iambo moraico – pé dominante à direita e sensível ao peso silábico (moras)
+Não há portanto, iambos que sejam insensíveis ao peso silábico. Ora, o Pykobyê, como foi visto anteriormente, privilegia a sílaba fechada CVC e faz alguma distinção entre vogais longas e breves, como será estudado adiante, o que poderia atestar sua sensibilidade ao peso silábico.
+Além disso, na análise de empréstimos do Português, nota-se que, além de ocorrer um apagamento da última vogal da sílaba canônica CV em vocábulos com mais de uma sílaba, em casos de proparoxítonas, todas as sílabas posteriores são apagadas até o vocábulo tornar-se oxítono e pesado, fato que ajuda a corroborar a tese de sensibilidade ao peso na sílaba acentuada. Exemplos:
+26
+
+(27) Português 
+(28)  (29)  (30)  (31)  (32) 
+(33) 
+
+Pykobyê
+   
+: 
+
+Entretanto, na análise do corpus, foram encontrados dissílabos cujas sílabas pesadas – VC ou CVC – não portam o acento. Exemplos:
+
+(34)  (35)  (36) 
+
+„rato‟ „homem‟ „folha da bananeira‟
+
+Outros puderam ser segmentados em dois morfemas:
+
+(37)  (38)  (39)  (40)  (41) 
+(42)  (43) 
+
+    
+ 
+
+    
+ 
+
+„minha pele‟ „sua pele‟ „qualquer flor‟ „qualquer semente‟ „pedrinha, miçanga‟ „tamanduá pequeno‟ „sapo grande‟
+
+Tal fato parece estar relacionado a processos de formação de palavras ou a morfemas que são acentuados ainda no léxico, e só poderá ser melhor compreendido através de uma análise morfofonológica.
+Já entre os poucos casos de dissílabos com pé dominante à esquerda (3%), a sílaba portadora do acento é invariavelmente pesada. Exemplos:
+27
+
+(44) :
+(45) :
+(46) : (47)  (48) 
+
+„jibóia‟ „negação‟ „ali‟ „antigamente‟ „já‟
+
+Nos três primeiros casos, como será visto na seção destinada ao alongamento vocálico, este pode ser analisado como resultado do processo de acentuação, ou seja, um vocábulo paroxítono sempre terá que apresentar na superfície a sílaba acentuada pesada.
+Nos casos abaixo, foi possível segmentar os vocábulos em dois morfemas:
+
+(49)  (50)  (51)  (52) 
+
+   
+
+ „coivara, queima de árvores‟  „tronco‟  „derrubar árvores‟  „galho‟
+
+Esses casos parecem comprovar que certos morfemas são acentuados ainda no léxico enquanto outros não, mas que, de qualquer forma, a sílaba acentuada deve ser pesada quando o morfema for paroxítono.
+HAYES, em seu trabalho, não analisou línguas indígenas sul-americanas, mas atenta para a possibilidade de línguas que tenham perdido, ao longo de sua história, a sensibilidade ao peso silábico. Dentre as línguas Timbira estudadas até hoje, nada se pôde concluir quanto à distinção entre vogais longas e breves. O Pykobyê apresenta um alongamento vocálico compensatório devido ao apagamento de uma consoante subespecificada e, em determinados casos, devido à necessidade de que certas sílabas acentuadas sejam pesadas, como será visto em 3.6. Mas somente uma análise prosódica mais
+28
+
+detalhada permitirá entender porque muitos vocábulos oxítonos não possuem acentuação na sílaba pesada.
+2.3.2. Direção de construção e acento secundário
+
+Através da análise de trissílabos e polissílabos, pôde-se concluir que o pé é
+
+construído da direita para a esquerda e, em alguns casos, é iterativo.
+
+Na maioria dos casos de trissílabos com pé dominante à direita, o pé à esquerda é
+
+extramétrico. Nesses casos, pôde-se segmentar os vocábulos em dois morfemas distintos.
+
+Exemplos:
+
+<.> (. *)
+
+(53)   
+
+(54)   
+
+(55)   
+
+(56) 
+
+ 
+
+(57) 
+
+ 
+
+(58)   
+
+„minha coxa‟ „minha caveira‟ „pouca água (água curta)‟ „água limpa‟ „qualquer ave‟ „qualquer criança‟
+
+Como o pé da borda esquerda não é considerado, o acento secundário cai na sílaba imediatamente posterior à sílaba portadora do acento primário, respeitando-se a direção da direita para a esquerda.
+Dentre os inúmeros casos de trissílabos com pé dominante à direita e pé à esquerda extramétrico, a acentuação ocorre obrigatoriamente após composição de palavras no nível lexical, como pode ser observado nos exemplos abaixo:
+
+(59)  (60)  (61)  (62) 
+
+   
+
+   
+
+„folha do caju‟ „cajueiro‟ „abelha tataíra‟ „abelha preta‟
+
+29
+
+(63)  (64) 
+
+ 
+
+ „banha de boi‟
+
+
+
+„carne de boi‟
+
+O primeiro morfema já apresenta acentuação com cabeça à direita; ao receber um novo morfema tônico sufixado, o acento primário é deslocado para a borda direita, atendendo ao padrão iâmbico. Assim, forma-se um novo pé da direita para a esquerda e o pé à esquerda torna-se extramétrico.
+
+(. *) + (*)  (.)(. *)
++   boi + carne  carne de boi
+
+Em alguns casos de trissílabos com pé dominante à direita, não foi possível segmentar os vocábulos em morfemas, mas o padrão encontrado foi o mesmo.
+Já em 9% dos casos de trissílabos com pé dominante à direita, ocorre uma peculiaridade: o acento secundário cai na borda esquerda do vocábulo. Exemplos:
+
+(65)  (66)  (67)  (68)  (69)  (70)  (71)  
+
+„caçada‟ „amanhã‟ „cesta‟ „jurubeba‟ „taquara‟ „trovão‟ „lacraia‟
+
+Apenas no caso abaixo foi possível segmentar em dois morfemas:
+
+(72) :: : : „eu também‟
+
+30
+
+Seguindo a hipótese apresentada sobre composição de palavras, pressupõe-se que estes vocábulos pertençam a uma outra classe de palavras em que o pé à esquerda não seja extramétrico e sim, degenerado. Ou seja, considerando que todas as palavras apresentadas no quadro acima possam ser segmentadas em dois morfemas, sendo o primeiro monossilábico, este será tônico e o seguinte apresentará pé dominante à direita. Na junção dos dois morfemas, não ocorrerá um novo processo de acentuação como acontece nos vocábulos com pé extramétrico à esquerda, permanecendo, contudo, o acento primário na borda direita.
+
+(*) + ( . *)  (.)(. *)
+:+:  :: 1 + „também‟  „eu também‟
+
+Apesar de ser tolerado por muitos teóricos, o pé degenerado encontra oposição em
+
+HAYES (1994) que o restringe, em sua “Proibição Fraca”, à posição de portador de acento
+
+primário. No caso do Pykobyê, ele porta o acento secundário, contradizendo a teoria de
+
+HAYES, mas uma outra hipótese só poderá ser analisada com um estudo de morfofonologia.
+
+Os 7% de trissílabos encontrados no corpus que não apresentam acentuação
+
+primária na borda direita parecem ser um caso de classe de palavras que contam pé
+
+extramétrico à direita:
+(73)  (74) : (75)  (76)  (77)  (78) 
+
+„festa‟ „acabou, não tem mais‟ „ontem‟ „hoje‟ „metade‟ „areia‟
+
+(. *)<.>
+
+31
+
+Entretanto, para seguir essa hipótese, a direção da construção teria que ser alterada da esquerda para a direita, mantendo a cabeça à direita. Como não foi possível a segmentação de nenhum dos vocábulos, estes serão considerados, por enquanto, uma exceção ao padrão acentual.
+Estudando os polissílabos pares, foi encontrada uma regularidade similar a dos dissílabos. Noventa por cento desses vocábulos apresentam a seguinte grade métrica:
+
+(.
+
+*)
+
+(.*)(.*)
+
+(79) 
+(80)  (81)  (82)  (83)  (84) 
+
+„meu quarto (dependência da casa)‟ „minha porta‟ „pato selvagem‟ „galinha selvagem‟ „mutuca‟ „casamento‟
+
+Observa-se a direção da direita para a esquerda e o pé dominante à direita confirmando o padrão acentual da língua.
+Os únicos dois vocábulos (10%) que não seguem esse padrão acentual, isto é, apresentam acento secundário na borda esquerda, devem ser analisados em conjunto com um grupo de polissílabos ímpares que podem ser segmentados nos seguintes morfemas:
+
+(85)  (86) 
+
+
+
+ 
+
+
+
+ 
+
+(87) 
+
+  
+
+(88)    
+
+(89)    
+
+(90) 
+
+  
+
+(91)    
+
+32
+
+Esses vocábulos representam nomes de equipes de corrida de tora, uma competição existente entre os povos Timbira. O primeiro morfema, que varia, é o nome da equipe, o segundo – „‟ - equivale a “povo” e o terceiro – „‟ - também significa “povo”,
+
+que em Português aparece como o “jê” do final da denominação de várias tribos dessa
+
+família, como os Gavião Parkatejê, os Apinaje e os próprios Gavião Pykobjê (grafado como
+
+Pykobyê).
+
+Cada um desses morfemas porta um acento próprio: os monossílabos são tônicos
+
+e os dissílabos apresentam pé dominante à direita. Na junção, a regra de acento é reaplicada
+
+para formar os pés métricos.
+
+No caso dos polissílabos pares:
+
+(. ( * )( ( * )(.
+
+*)
+
+.
+
+*)
+
+* )(* )
+
+
+
+No caso dos polissílabos ímpares:
+
+(.
+
+*)
+
+( . * )( .
+
+*)
+
+( . * )( . * )(*)
+
+
+
+
+
+Em ambos os casos, são encontrados pés degenerados à direita portadores do acento primário e, desta vez, ao invés de se caracterizar uma mudança na direção da construção do pé, pode-se afirmar que existe iteratividade por tratar-se de reaplicação da regra de acentuação.
+Em suma, pode-se concluir que, na grande maioria dos casos, o Pykobyê apresenta um padrão acentual com pés métricos dominantes à direita cuja direção de
+
+33
+
+construção é da direita para a esquerda. O estudo de alguns casos particulares somente será possível através de uma análise conjunta com os processos de formação das palavras, que deverá ser objeto de um trabalho posterior.
+3. PROCESSOS FONOLÓGICOS
+Tendo determinado o quadro de unidades distintivas, os padrões silábicos e o padrão do acento, a seguir serão apresentados o quadro fonético-articulatório e os processos fonológicos identificados até então.
+34
+
+3.1. Quadro fonético-articulatório
+
+Foram encontrados dezoito sons consonantais e vinte e três sons vocálicos descritos abaixo:
+
+CONSOANTES
+                                  
+
+VOGAIS
+: :  ::::: ::  
+
+ (92) 
+ (93) 
+ (94) 
+ (95) 
+
+
+Segmento oclusivo bilabial surdo „enguia, poraquê‟ Segmento oclusivo alveolar surdo „açaí‟ Segmento africado alveolar surdo „pato‟ Segmento oclusivo velar surdo „bacuri‟ Segmento oclusivo velar aspirado surdo
+
+35
+
+(96) 
+
+„pedra‟
+
+
+
+Segmento oclusivo glotal surdo
+
+(97) 
+
+„azedo‟
+
+
+
+Segmento oclusivo bilabial sonoro
+
+(98) 
+
+„inhame‟
+
+
+
+Segmento oclusivo alveolar sonoro
+
+(99)  „grilo‟
+
+
+
+Segmento oclusivo velar sonoro
+
+(100) 
+
+„escorpião‟
+
+
+
+Segmento bilabial nasal
+
+(101) 
+
+„sim, certamente‟
+
+
+
+Segmento alveolar nasal
+
+(102) 
+
+„negação‟
+
+ (103) 
+
+Segmento velar pré-nasalizado sonoro „cobra‟
+
+
+
+Segmento fricativo alveolar surdo
+
+(104)  „mandioca-brava‟
+
+
+
+Segmento fricativo glotal surdo
+
+(105)  „homem‟
+
+
+
+Segmento aproximante velar labial
+
+(106)  „pulga‟
+
+
+
+Segmento aproximante “flap” alveolar
+
+(107) 
+
+„brincadeira, jogo feito com esteira de palha‟
+
+
+
+Segmento aproximante palatal
+
+(108)  „ontem‟
+
+ (109) 
+
+Segmento vocálico anterior alto de duração longa „estrela‟
+
+36
+
+ (110) 
+  (111)  
+
+Segmento vocálico anterior alto „parede‟ Segmento vocálico anterior alto nasalizado „cutia‟
+
+
+
+Segmento vocálico central alto
+
+(112)  „caju‟
+
+
+
+Segmento vocálico posterior alto labial de duração longa
+
+(113)  „sangue‟
+
+ (114) 
+
+Segmento vocálico posterior alto labial „macaco‟
+
+
+
+Segmento vocálico posterior alto labial nasalizado
+
+(115)  „lacraia‟
+
+
+
+Segmento vocálico anterior meio-fechado de duração longa
+
+(116) 
+
+„lagoa‟
+
+
+
+Segmento vocálico anterior meio-fechado
+
+(117)  „abelha tiúba‟
+
+
+
+Segmento vocálico anterior meio-fechado nasalizado de duração longa
+
+(118) 
+
+„mel‟
+
+ (119) 
+
+Segmento vocálico anterior meio-fechado nasalizado „branco (homem)‟
+
+
+
+Segmento vocálico central médio de duração longa
+
+(120) 
+
+„jibóia‟
+
+
+
+Segmento vocálico central médio
+
+(121) 
+
+„fogo‟
+
+ (122)  
+
+Segmento vocálico central médio nasalizado „avô‟
+
+37
+
+ (123) 
+ (124) 
+
+Segmento vocálico posterior meio-fechado labial de duração longa „cachorro‟ Segmento vocálico posterior meio-fechado labial „murici‟
+
+
+
+Segmento vocálico posterior meio-fechado labial nasal de duração longa
+
+(125)  „ferver‟
+
+
+
+Segmento vocálico posterior meio-fechado labial nasalizado
+
+(126)  „taquara‟
+
+ (127) 
+
+Segmento vocálico anterior meio-aberto „melado‟
+
+ (128) 
+
+Segmento vocálico posterior meio-aberto labial de duração longa „arco‟
+
+ (129) 
+
+Segmento vocálico posterior meio-aberto labial „bolsa‟
+
+
+
+Segmento vocálico central baixo de duração longa
+
+(130) 
+
+„bacaba‟
+
+
+
+Segmento vocálico central baixo
+
+(131)  „abelha tataíra‟
+
+38
+
+3.2. O efeito "breathy voice"
+Uma característica muito marcante e contrastante na fala dos índios Gavião em relação aos demais grupos Timbira é o que se encontra no IPA (International Phonetic Alphabet) com o nome de efeito "breathy voice" em algumas vogais. Ele não tem caráter distintivo na língua, aparecendo em qualquer posição da palavra, e variando entre os falantes. Também não são todas os segmentos vocálicos que portam esse efeito. São eles:
+
+(132)  (133)  (134)  (135)  (136)  (137)  (138)  (139)  
+
+        
+
+'ciúme' 'abelha' 'onde' 'cacique' 'pilão' 'cutia' 'vida' 'camaleão'
+
+Assim, pode-se observar que o efeito não ocorre com as vogais orais altas , nem com as nasais ou nasalizadas  Também deve-se salientar que as vogais  e  sempre apresentam esse efeito e foram encontrados poucos exemplos com as vogais
+39
+
+ e , o que poderia indicar uma possível neutralização, ou seja, a ocorrência do efeito “breathy voice” resultaria no abaixamento das vogais, explicando, dessa forma, a não ocorrência desse nas vogais altas. Entretanto, o ambiente em que ocorre esse abaixamento ainda não foi determinado. Como varia de indivíduo para indivíduo, deve se tratar de uma regra pós-lexical, contudo, ela só se aplica às vogais e já que, com as demais, o efeito pode ocorrer ou não. O traço [nasal] bloqueia o abaixamento de  e , já que os segmentos  e nunca aparecem nasalizados.
+40
+
+3.3. Vogais orais
+
+Como foi visto em 2.1., os segmentos vocálicos orais foram classificados de acordo com os graus de abertura.
+O segmento  apresenta variação livre com  (exemplos 140 e 141) e os segmentos e  apresentam variação livre com  (exemplos 142, 143 e 144). A presença do traço [ + aberto 3 ] nesses casos parece ser ocasionada pelo efeito “breathy voice” .
+
+(140) (141) (142) (143) (144)
+
+    
+
+'melado' 'amanhã' 'roça' 'homem branco' „gavião‟
+
+Não se pode afirmar, entretanto, que as ocorrências de  vistas em 3.2. sejam, na subjacência, respectivamente  , visto não haver dados de variação entre eles.
+Quanto às demais vogais, existe oposição entre elas, embora, no caso das dorsais, também haja casos de variação livre.
+Exemplos de oposição: 
+41
+
+(145)  „tarde'
+
+(147)  'tamanduá'
+
+(146) 
+
+'jirau'
+
+
+
+
+
+
+
+(148)  'pé'
+
+(149)  'antigamente, há muito tempo'
+
+(151)  'já'
+
+(150)  „alto‟
+
+(152)  „nariz‟
+
+
+
+
+
+
+
+(153) 
+
+„pescoço‟ 
+
+(154) „roça‟
+
+(155)  „tamanduá‟ 
+(156) „pegar‟
+
+Exemplos de variação:   
+
+(157) 4 - 
+
+1
+
+'banhar'
+
+(158) 
+
+1
+
+fut 'banhar'
+
+'eu banhei' 'eu banharei'
+
+(159) ()-
+
+1
+
+'pescar'
+
+(160) 
+
+'eu pesquei'
+
+1 
+
+
+fut 'pescar' 'eu pescarei'
+
+(161)  (162) 
+
+'ainda' „preto‟
+
+4 O estudo dos pronomes pessoais será feito em 3.7.1. 42
+
+
+
+
+
+(163) 
+
+(164) 
+
+
+
+
+
+(165)  (166) 
+
+„pé-de-macaúba‟ „mutum‟
+„muito (adv.)‟ „gavião‟
+
+Enquanto as variações entre / / e / são livres, a alternância entre  e  é sistemática. Todos os indivíduos contatados fazem a alternância na mudança do tempo verbal de passado para futuro ( a forma do presente é igual à do futuro ), condicionada talvez pela presença da líqüida  que sucede a vogal no caso de {  } „banhar‟, ou mesmo a presença do glide em{   } que poderia provocar o alçamento da vogal, com o apagamento do traço [ + ab 2 ].
+Já no caso da líqüida é difícil postular qual traço de  seria espraiado para a mudança da qualidade da vogal e também por existir um caso semelhante em que não ocorre a variação: {  } „eu corri‟ e {  } „eu correrei‟.
+Ainda no caso de {   }, poderia se pensar na presença da nasal  como fator de mudança da qualidade da vogal em decorrência de uma nasalização regressiva como ocorre no Português com o  em posição tônica antes de consoante nasal. Entretanto, existe o verbo {  } „procurar‟, respectivamente nas formas do passado e do futuro, com o qual não ocorre este alçamento com a presença da nasal. Portanto, seria suspeito atribuir à nasal a mudança da qualidade da vogal. Esses casos deverão ser melhor analisados num estudo morfofonológico. De qualquer forma, a distinção entre essas e as
+
+43
+
+outras vogais fica evidente não só nos exemplos de oposição entre vocábulos como também na correção da pronúncia da pesquisadora feita pelos informantes.
+3.4. Vogais nasais
+
+Como foi visto em 2.1., as vogais nasais foram reduzidas a três: , excluindo-se assim as vogais baixas  através de um processo de neutralização do traço de abertura e as vogais altas . Como foi visto em 3.2., as vogais  só aparecem sob o efeito “breathy voice”, mas quando há uma consoante nasal sucedendo a vogal sob este efeito, não ocorre o abaixamento:
+
+(167)  (168)  
+
+„bacuri‟ „azul‟
+
+Já a não inclusão das vogais altas no quadro das nasais foi arbitrária. Elas foram consideradas nasalizadas por só aparecem quando antecedem uma consoante nasal em coda. Além desse critério, foi verificada sua permanência na derivação ou composição de palavras. Assim, considerou-se que, sempre que havia uma consoante nasal, o traço [ + nasal ] se espraiava regressivamente para a vogal precedente, tornando-a nasalizada. O contrário também foi analisado, isto é, a hipótese de que a vogal nasal espraiaria seu traço para uma consoante subespecificada; entretanto, há exemplos com as vogais  nos quais, ao invés de ocorrer tal fato, a consoante é apagada e a vogal é alongada como será visto a seguir. Quando a vogal é nasal, ao compor um novo vocábulo, ela prescinde de consoante nasal,
+44
+
+mesmo sendo a consoante seguinte um glide; já a vogal nasalizada mantém a consoante nasal,
+
+independente do segmento seguinte.
+
+
+
+
+
+
+
+
+
+
+
+x
+
++ soante
+
++ aproximante r
+
++ vocálico
+
+CO PC Vocálico
+Abertura [ - ab1 ]
+[ - ab2 ]
+
+x + soante
+r - aproximante - vocálico
+[ + nasal ]
+
+   
+Vogais Nasais
+
+(169) (170)
+
+
+'cabeça'
++
+'cabeça'
+
+
+'osso'
+
+(171) (172) (173)
+
+ 
+'árvore'
++
+'árvore'
+ +
+'árvore'
+
+
+'queimar'
+j
+'cortar'
+
+(174) (175) (176) (177)
+
+
+
+'coco'
++
+
+'coco'
+
+'aumentativo'
+
++ 
+
+'coco'
+
+„babaçu‟
+
++ 
+
+'coco'
+
+„macaúba‟
+
+(178) 
+'campo, chapada'
+
+  
+ 
+'caveira'
+ 
+  
+'queimada'
+  
+'derruba'
+  
+  
+'coco de praia'
+  
+'coco do babaçu'
+  
+'coco da macaúba‟
+  
+45
+
+(179) (180)
+
+ +
+
+'campo'
+
+aument
+
+ + 
+
+'campo' 'semente'
+Vogais Nasalizadas
+
+(181) (182)
+
+
+
+'tio'
++ 
+
+'avô'
+
+dimin
+
+(183) (184)
+(185) (186)
+
+
+'curto'
+ +  + 
+'água' 'curto' dimin
+
+'pedra'
++ 
+'pedra' aument
+
+(187) (188)
+
+
+
+„urubu‟
++ 
+
+„urubu‟
+
+aument
+
+  
+'chapadão'
+  
+'milho'
+   
+'avozinho'
+ 
+ 
+'açude'
+ 
+ 
+'pedra grande'
+ 
+ 
+„urubu grande‟
+
+Quanto à nasalização da vogal  , há exemplos de verbos que, à forma do passado, é acrescentada uma consoante nasal, tornando a vogal nasalizada:
+
+Passado
+(189)  (190)  (191)  (192) 
+
+Pres./Fut.
+   
+
+„buscar‟ „procurar‟ „pescar‟ „ralar‟
+
+Um exemplo parecido acontece com a vogal a; contudo, com essa vogal, ocorre também um processo de neutralização do traço [ + ab2 ], resultando na vogal  :
+
+46
+
+Passado (193) 
+
+Pres./Fut.
+
+
+
+„matar‟
+
+Já a vogal  só apresenta uma ocorrência de nasalização:
+
+(194)  
+
+„banha, gordura‟
+
+Todas as demais ocorrências de nasalização com vogais altas vêm precedidas de consoante nasal.
+A língua apresenta ainda palavras com vogais orais opondo-se a vogais nasais:
+
+(195)  (196)  
+(197)  (198)  
+(199)  (200)  
+(201)   (202)  
+(203)   (204)  
+(205)   (206)  
+
+„secar‟ „cabeça‟
+„buraco, toca‟ „aldeia‟
+„ovo, cantar‟ „levantar‟
+„preto‟ „pano de enrolar p/ carregar criança‟
+„gafanhoto‟ „frango‟
+„semente (específica)‟ „sim‟
+
+Enfim, embora o metódo de análise das vogais nasais tenha sido indutivo, não há como negar a existência de, pelo menos, três vogais nasais - . Quanto às chamadas nasalizadas, seria interessante aprofundar o assunto através de um estudo morfofonológico mais detalhado inclusive em conjunto com uma consoante pré-nasalizada -  - que parece tratar-se de um processo histórico de nasalização, como será visto em 3.5.6.
+
+47
+
+3.5. Consoantes
+3.5.1. Um caso de sonorização
+O Pykobyê, assim como outras línguas do grupo Timbira (ALVES, 1999), apresenta um caso de sonorização interessante. Como foi visto em 2.1., a língua contém apenas oclusivas com traço [ - sonoro ] na subjacência; entretanto, quando as oclusivas  estão em posição de coda em fronteira de palavra precedendo aproximantes, observase o espraiamento regressivo do traço [ + sonoro ] destas tornando-as, respectivamente, :
+
+x
+
+-vocálico
+
+r
+
+-soante
+
+-aproximante
+
+CO
+[ - contínuo ]
+
+CL
+[ -sonoro]
+
+x
+
+- vocálico
+
+r
+
++soante
+
++aproximante
+
+CO CL
+[ + contínuo ] [+sonoro]
+
+Na análise dos dados foi possível constatar que esse fato se trata de uma variação livre entre os falantes, mas que é mais comum ocorrer quando o segmento que sucede a oclusiva for a líqüida , principalmente quando ela faz parte do morfema do diminutivo { -  }.
+
+48
+
+(207) (208) (209)
+
+  
+
++  +  + 
+
+   
+ 
+
+- 'morceguinho' - 'tucaninho' - 'gaviãozinho'
+
+A silabificação ocorre antes do processo de sonorização. Portanto, não há ressilabificação5, o que comprova a inexistência do conjunto de consoantes formando o ataque complexo *, não havendo, dessa forma, a possibilidade de se colocar na mesma sílaba o conjunto formado pela oclusiva sonora  com o morfema do diminutivo { - }, e, conseqüentemente, as demais oclusivas. É interessante notar também que não foi encontrado nos dados nenhum caso de sonorização entre oclusivas que componham ataques complexos. Com as nasais em coda também não ocorre ressilabificação, nem com os glides, mas com a glotal ocorre um processo de apagamento e conseqüente alongamento da vogal como será estudado em 3.6.
+Também foram encontrados casos de sonorização das oclusivas, principalmente com a velar, em posição de ataque, tanto no início como no interior da palavra, seguida de segmento vocálico.
+Exemplos: (210) 
+arroz limpo
+
+(211) ++ 
+
+1
+
+costas
+
+minhas costas
+
+Esses casos apresentam baixa freqüência de ocorrência e sempre com variação livre entre os falantes.
+
+49
+
+6.5.2. Restrições às consoantes em coda
+
+Como foi visto em 2.2.4., na posição de coda não ocorrem os segmentos de contorno e . Também a fricativa glotal  na superfície realiza-se como a oclusiva .
+
+Parece que, em posição de coda, só são possíveis obstruintes com traço [ - contínuo ]; assim o traço [ + contínuo ] dissocia-se do nó da cavidade oral; no caso de e de mantém-se o
+
+primeiro segmento ocorrendo, possivelmente, uma neutralização com as unidades distintivas  e  e no caso da fricativa , o traço [ - contínuo ] torna a fricativa uma oclusiva glotal Assim, em posição de coda, há o seguinte filtro:
+
+
+
+A
+
+R
+
+N
+
+Co
+
+CV
+
+C
+
+I - soante
+
+II [ + soante ]
+
+- contínuo ou
+
+A condição I elimina e  pelo traço [ - contínuo ] e possibilita a existência das sonoras  na superfície.
+
+Exemplos: (212) 
+
+
+
+„tiririca‟
+
+5 Esse fato pôde ser atestado na fala cuidadosa dos informantes; já na fala rápida, a ressilabificação ocorre. 50
+
+(213) (214)
+
+ 
+
+ 
+
+„pykobyê‟ „escorpião‟
+
+A condição II possibilita os glides, as nasais e a líqüida. Tratando-se de uma regra
+
+pós-lexical, ela não admite exceções.
+
+Exemplos:
+
+(215) (216) (217)
+
+   
+
+„capivara‟ „cajá‟ „abelha tataíra‟
+
+51
+
+3.5.3. Um caso de neutralização: a oclusiva velar aspirada
+
+DAVIS (1966) menciona que “talvez haja contraste entre a velar e a velar aspirada no Krinkati e no Gavião”. De fato há contraste, pelo menos no Gavião Pykobyê, como é visto em vários pares mínimos encontrados no corpus:
+
+(218)  (219)  (220) 
+(221)  (222)  (223)  (224)  (225) 
+
+„ovo‟ „toca, buraco‟ „cantar‟ „aldeia‟ „feio, mal‟ „ralar mandioca‟ „flecha‟ „buriti‟
+
+Esse contraste, entretanto, como foi visto acima, não aparece em posição de coda, ocorrendo uma neutralização das duas unidades.
+No estudo de DAVIS (1966), há um pequeno vocabulário em que são comparadas cinco línguas do tronco Macro-Jê – Suyá, Xavante, Kaingang, Apinayé e uma língua Timbira, o Canela. Embora o corpus coletado seja muito restrito e discutível, é interessante notar que tanto o Suyá quanto o Canela realizavam em certos vocábulos  ao invés de  como apresentavam as outras línguas (o Xavante realiza como  ):
+
+52
+
+(226)
+
+Item Pedra Cabelo Beber Joelho Cabeça Casa, toca Mandioca Macaco
+
+Pykobyê6 
+
+Canela 
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+Suyá        
+
+Apinayé        
+
+Kaingang    
+  
+
+
+Xavante        
+
+Como pode ser visto, nesses vocábulos também ocorre o  em Pykobyê. Este fato
+
+pode demonstrar que talvez no Proto-Jê existissem as duas oclusivas, mas, num processo histórico, algumas línguas perderam a distinção enquanto outras, como o Pykobyê, ainda a fazem em posição de ataque7.
+SHELL (1952), numa análise preliminar da gramática do Krahô (língua Timbira), considera o segmento  como dois fonemas distintos –  e – formando um ataque complexo e variando livremente com . No Pykobyê, tal explicação não seria plausível com o
+
+padrão silábico máximo – C(C)VC - pois criaria um ataque complexo com tripla ramificação em vocábulos como , que não é aceitável na língua:
+
+ AR
+
+* AR
+
+6 Os dados do Pykobyê foram acrescentados pela pesquisadora. 7Isso é uma hipótese ainda preliminar devido à escassez de dados no estudo de DAVIS.
+53
+
+N
+
+N
+
+CC V
+
+CCC V
+
+
+
+3.5.4. Variações de 
+
+O segmento em posição de coda, tanto em interior quanto em final de palavra, apresenta, em alguns casos, variações livres com  e .
+
+Exemplos:
+(227)  (228)  (229)  (230) 
+
+„mandioca, macaxeira‟ „voltar, chegar‟ „consertar‟ „está bem‟
+
+DAVIS (1966) afirma ser o  na posição de coda uma manifestação de  em algumas línguas do Macro-Jê como no Canela e no Suyá:
+
+(231)
+
+Pykobyê8
+
+Canela
+
+céu
+
+
+
+
+
+bom 
+
+
+
+Suyá 
+
+
+Apinayé 
+
+
+Xavante  
+
+Kaingang 
+-
+
+Tal hipótese chegou a ser cogitada por esta pesquisadora em relação ao Pykobyê, entretanto, devido à escassez de dados no trabalho de DAVIS e à ocorrência também de  em outras línguas como Xavante e Kaingang, achou-se prudente não levá-la em consideração,
+54
+
+o que não impede a possibilidade de estar realmente ocorrendo um processo histórico, pelo menos no Pykobyê, em que uma fricativa esteja dando lugar a um glide.
+3.5.5. O caso de e 
+
+Tem-se observado até o momento que a unidade distintiva  apresenta certas restrições como o de não ocorrer em coda. Essa obstruinte é realmente peculiar; foram encontrados casos em que, em fronteiras morfológicas na posição de ataque, ela se realiza como , levando a crer que existam na realidade duas unidades distintivas, além do próprio  que se realizam da seguinte forma:
+1. /  /  [ ] / a. #__ V ou b. + __ V 2. /  /  [  ] / a. #__ V ou b. + __ V 3. /  /  [  ] / a. #__ V ou b. + __ V
+As duas formas de superfície da fricativa,  e  , em posição de ataque, são definidas no nível lexical; não há contexto no nível segmental que determine quando ocorrerá o  ou o  . Exemplos:
+
+1a. /  /  [ ] / # __ V
+
+(232)      
+
+„alguém‟
+
+„homem‟
+
+„algum homem‟
+
+8 Os dados do Pykobyê foram acrescentados pela pesquisadora. 55
+
+(233)  
+
+„laranja‟
+
+„doce‟
+
+ 
+„a laranja está doce‟
+
+1b. /  /  [ ] / + __ V
+
+(234) 
+
++ 
+
+„mandioca-brava‟ „massa‟
+
+(235) 
+
++ 
+
+„qualquer‟
+(236) 
+
+„fruto‟
++ 
+
+„banana‟
+
+„fruto‟
+
+(237) + 
+
+1
+
+'levantar'
+
+(238) + 
+
+2
+
+'levantar'
+
+(239) + 
+
+3
+
+'levantar'
+
+ 
+„massa de mandioca‟
+ 
+„qualquer fruta‟
+ 
+„banana (fruta)‟
+ 
+'eu levantei'
+ 
+'você levantou'
+ 
+'ele levantou'
+
+2a. /  /  [  ] / # __ V
+
+(240) + 
+
+ 
+
+1
+
+perf 'corda' 'amarrar'
+
+(241) 
+
+'eu amarrei a corda'
+ 
+
+„amanhã‟ 1 fut „jirau‟ „consertar‟
+
+„amanhã eu consertarei o jirau‟
+
+56
+
+2b. /  /  [  ] / + __V
+
+(242)  + 
+
+ 
+
+(243)
+
+„qualquer‟ 'folha'
++ 
+
+„qualquer folha‟
+ 
+
+(244)
+
+„banana‟ „folha‟
+ +  + 
+
+„banana (folha)‟
+ 
+
+1 'perna' 'osso'
+
+'minha canela'
+
+(245)  + 
+
+ 
+
+1
+(246) 
+
+'dançar'
++ 
+
+'eu dancei'
+ 
+
+2
+(247) 
+
+'dançar'
++ 
+
+'você dançou'
+ 
+
+3
+
+'dançar'
+
+'ele dançou'
+
+POPJES (1986), em seu trabalho sobre o Canela e o Krahô, faz referência a essa regra morfofonológica, mas afirma ser o uma variante de  em início de frase.Tal hipótese no Pykobyê é contestada por dois vocábulos encontrados e já citados acima:
+
+(248)  + 
+
+(249)
+
+„qualquer‟
+
+
+'folha'
++ 
+
+„qualquer‟
+
+„fruto‟
+
+ 
+„qualquer folha‟
+ 
+„qualquer fruta‟
+
+57
+
+Além disso, são encontrados vocábulos que se iniciam com  tanto quando
+
+estão isolados como quando estão compondo um outro vocábulo ou no interior de uma frase. 3a. /  /  [  ] / #__ V
+
+(250) +    
+
+1
+
+perf. 'carne' 'assar, fritar'
+
+'eu assei a carne'
+
+3b. /  /  [  ] / +__V (251) + 
+'árvore' 'queimar'
+
+ 
+'queimada'
+
+Voltando ao caso da fricativa que na superfície realiza-se como são encontrados também alguns casos em que ocorre um apagamento desse segmento na superfície. Isto acontece quando este segmento precede o glide , para a formação de um possível ataque complexo *.
+
+(252) + ()
+
+1
+
+'dente'
+
+(253) + ()
+
+2
+
+'dente'
+
+(254) Ø+ ()
+
+'dente'
+
+ 
+'meu dente'
+ 
+'teu dente'
+ 
+'seu dente'
+
+(255) + ()
+
+ 
+
+1
+
+'banhar'
+
+(256) + ()
+
+'eu banhei'
+ 
+
+2
+
+'banhar'
+
+'você banhou'
+
+58
+
+(257) Ø+ ()
+'banhar'
+(258)  ()
+„laranja‟ 'azedo'
+
+ 
+'ele banhou‟
+ 
+„a laranja está azeda'
+
+As formas subjacentes (dente)(banhar) (azedo) contrariam as restrições de boa formação de ataques complexos (2.2.2) que proíbem *. Sendo assim, no processo de silabificação, o segmento é apagado. Entretanto, por pertencer ao vocábulo, ele permanece extrassílabico, sendo silabificado como quando em fronteira morfológica. Este processo também é descrito por ALVES (1999) no Apãniekrá e em DAVIS (1966) é encontrado um exemplo em Apinayé (dente: -) que ele interpreta como sendo um apagamento de em início de palavra.
+Enfim, diante de todos estes dados, fica evidente a presença de uma regra morfofonológica na mudança de  para  , entretanto, é importante a realização de um estudo mais aprofundado nesse campo para atestar a existência de duas unidades distintivas que se realizam diferentemente ou, se não, o que motivaria (em nível lexical ou segmental) a dupla realização de uma mesma unidade.
+
+59
+
+3.5.6. O caso da velar pré-nasalizada
+
+Como foi visto no quadro fonético-articulatório, a língua apresenta a velar prénasalizada  . Esta sempre ocorre em posição de ataque e também variando com o pronome pessoal ou possessivo de 2ª pessoa { - } diante de palavras que se iniciam com vogal como será visto em 3.7.1. Além desse contexto, há outras ocorrências:
+
+(259) „cobra‟
+
+(260)  „cascavel‟
+
+
+
+„Dormir‟ - /
+
+(261) 
+
+
+
+1
+
+„eu dormi‟
+
+(262) 
+
+1 fut
+
+„eu vou dormir‟
+
+
+
+2
+
+„você dormiu‟
+
+(263) 
+
+2 fut
+
+„você vai dormir‟
+
+
+
+3
+
+„ele dormiu‟
+
+ „Pagar‟ -  / 
+
+3 fut
+
+
+„ele vai dormir‟
+
+Passado
+
+Futuro
+
+(264) -
+
+
+
+1 perf 2 -dat
+
+„eu paguei você‟ 1 fut 2 -dat
+
+„eu vou pagar você‟
+
+(265) -
+
+
+
+2 perf 1 -dat
+
+„você me pagou‟ 2 fut 1 -dat
+
+„você vai me pagar‟
+
+60
+
+(266) -
+
+3 perf 1 -dat
+
+„ele me pagou‟
+
+
+
+3 fut 1-dat
+
+„ele vai me pagar‟
+
+Os verbos „dormir‟ e „pagar‟ parecem apresentar alguma regularidade em relação aos tempos passado e futuro, ambos variando nos segmentos  e  entre outras alterações, assim como varia a realização do pronome de 2ª pessoa - com -. No caso do pronome, a hipótese mais provável é a dissimilação do traço [ coronal ] de  em favor do [ dorsal ] da vogal que o precede, no caso o enquanto o traço de raiz [ + soante ] do glide permanece
+
+no segmento pré-nasalizado. A esse soma-se o traço [ - contínuo ] da oclusiva e é mantido o traço [ + sonoro ] do glide, originando o segmento de contorno. Já no caso dos verbos „dormir‟ e „pagar‟, a hipótese mais provável é o espraiamento regressivo do traço [ nasal ] da vogal posterior.
+Quanto à palavra não foi encontrada variação com nenhum informante.
+
+Mas no estudo comparativo de DAVIS (1966), no trabalho de SOUZA (1990) e no trabalho
+
+de ALVES (1999) encontram-se as seguintes variações para esse vocábulo.
+
+(267)
+
+Apinayé 
+
+Suyá  
+
+Kaingang 
+
+Krahô 
+
+Apãniekrá 
+
+Diante desses dados, seria possível postular no Proto-Jê uma nasal velar distintiva e que, em algumas línguas do Macro-Jê, resultou na velar oclusiva ou tornou-se prénasalizada como no caso do Pykobyê, entretanto os dados do trabalho de DAVIS são insuficientes para tal comprovação.
+
+61
+
+3.6. O alongamento das vogais
+
+O Pykobyê apresenta vogais longas na superfície que são decorrentes de dois processos distintos.
+Os padrões silábicos CV e CVC podem apresentar variações com vogais longas conforme CLEMENTS & KEYSER (1983). No caso da língua Timbira em questão, o que se tem observado é uma alternância da vogal longa com a seqüência V + glotal ou V + glide, também com a sílaba VC.
+
+(268)  (269)   (270)  
+
+   
+
+„mato‟ „seu pescoço‟ „árvore'
+
+  Aliás, o vocábulo „árvore‟ e outros monossílabos que apresentam uma dessas consoantes na coda, ao compor um novo vocábulo, alongam invariavelmente suas vogais:
+
+(271) 
+
+„árvore‟ „dobra, canto‟
+
+
+'tronco'
+
+(272)  
+
+1
+
+„olho‟
+
+'pêlo' 'minha sobrancelha'
+
+
+
+
+
+(273)  
+
+
+
+„árvore‟ „queimar‟
+
+„queimada‟
+
+ 
+
+1
+
+„olho‟ „pele, couro‟ „minha pálpebra‟
+
+ 
+
+62
+
+1
+
+'braço' 'dobra, canto' 'meu antebraço'
+
+1
+
+'braço' ' o que liga' 'meu cotovelo'
+
+Diante desses dados , é possível formular a hipótese de que no Pykobyê ocorre um alongamento vocálico para preencher a posição vazia com o desaparecimento da glotal ou do glide tanto em final de palavra quanto no meio da palavra num processo de alongamento compensatório, segundo GOLDSMITH (1990). Exemplos:
+
+
+
+
+
+
+
+R
+
+R
+
+R
+
+NC
+
+NC
+
+NC
+
+ 
+
+  
+
+ 
+
+
+
+Uma outra motivação para a ocorrência de vogais longas no Pykobyê também tem
+
+explicação no nível prosódico. A sílaba V que somente é encontrada em início de palavra a
+
+exemplo de VC (edge effect) sempre se realizará na superfície como V:.
+
+Exemplos:
+
+(274) (275) (276)
+
++
+
+„teu pelo‟
+
+ „tiririca‟
+
+ „mutum‟
+
+A princípio pensou-se que essas realizações seriam variantes da sílaba VC -  contudo, após inúmeras conversas com os informantes, verificou-se que eles, em nenhuma vez, utilizavam a glotal  (realização de em coda) como variação da vogal longa nesses vocábulos.
+Esse alongamento é observado também em monossílabos CV ou CCV quando
+63
+
+isolados ou mesmo quando compõem um novo vocábulo.
+
+(277)  (278)  (279) 
+
+„campo,
+
+„campo‟ „semente‟ „milho‟
+
+„campo‟ aument „chapadão‟
+
+(280)  (281)  (282) 
+
+„coco‟
+
+„coco‟ „pé‟ „palmeira‟
+
+„coco‟ aument „coco de praia‟
+
+(283)  (284)  (285) 
+
+„cachorro‟
+
+„cão‟ dimin „raposa‟
+
+„cão‟ aument „lobo-guará‟
+
+(286)  (287)  (288) 
+
+„porco‟
+
+„porco‟ dimin „caitetu‟
+
+„porco‟ „carne‟ „carne de porco‟
+
+Além desses casos, são encontrados também alongamentos em interior de palavras variando com vogais breves:
+
+(289) (290) (291) (292)
+
+   
+
+„arco‟ „sal‟ „lagoa‟ „anta‟
+
+Esses fatos parecem demonstrar a tendência que a língua tem para apresentar sílabas pesadas sem que essas tenham relação estrita com a atribuição do acento, já que, as sílabas em que ocorre o alongamento, com exceção dos monossílabos, não são tônicas. Entretanto, a única explicação possível no momento para esses alongamentos vocálicos estaria realmente relacionada ao ritmo da língua. Vale lembrar, como foi visto no capítulo sobre acento, que, nos poucos casos de paroxítonos existentes na língua, a sílaba tônica é obrigatoriamente pesada, sendo esta devido a um alongamento vocálico ou por ser CVC.
+64
+
+É interessante também notar que, ao lado dessas variações entre vogais breves e longas, são encontrados também pares mínimos entre esses dois segmentos, mas que provavelmente na subjacência revelam uma consoante subespecificada que foi apagada e cuja posição foi preenchida pelo alongamento.
+
+(293) (294)
+
+ 'pegue, tome'  'jacaré'
+
+(295)  (296) 
+
+'filhote' 'paca'
+
+(297)  (298) 
+
+'pele, couro' 'pátio'
+
+Enfim, todos os fatos mencionados levam à confirmação de que as vogais longas no Pykobyê são decorrentes de processos fonológicos e não se encontram no nível subjacente da língua.
+
+65
+
+3.7. Processos de silabificação
+Na silabificação existem duas operações que buscam preservar a boa formação da sílaba; são elas o “stray erasure” e o “stray epenthesis”, respectivamente, o apagamento e a inserção de elementos (ITÔ, 1986). O Pykobyê se utiliza de ambas em contextos diferentes. Através de um breve estudo dos pronomes pessoais serão analisados casos de apagamento e de epêntese.
+66
+
+3.7.1. Os pronomes pessoais e possessivos
+É difícil analisar o sistema fonológico de uma língua sem “esbarrar” em outros campos como o morfológico, por exemplo. Na análise do acento e de várias unidades distintivas foi preciso tocar em alguns processos de formação de palavras. Da mesma forma, neste trabalho fez-se necessário um capítulo sobre pronomes pessoais e possessivos em que são abordados alguns processos de silabificação. Atenção igual poderia ter sido dada também aos verbos quanto ao tempo, aspecto ou modo.
+Todas as línguas possuem pronomes pessoais, pois seria impossível uma língua que não expressasse o conceito de pessoa. Em algumas línguas indígenas, em particular as do grupo Timbira, a relação entre pessoa e posse está intimamente interligada. Existem, nessas línguas, o fenômeno dos nomes inalienáveis, isto é, nomes que aparecem sempre precedidos de um prefixo que denominar-se-á pronome possessivo. Estes nomes geralmente se referem a partes do corpo ou a graus de parentesco. Esses “pertences” – braço, perna, tio, mãe – não podem ser “emprestados” ou “dados” a outrem e, portanto, não podem existir sem que haja um ente possuidor. Os pronomes possessivos ligados a nomes inalienáveis são chamados de pronomes de forma presa ou dependente. Por outro lado, existem os nomes alienáveis – todos os demais “pertences” que podem ser “emprestados, dados, vendidos, etc” – que existem sem que seja necessário um marcador de posse. Da mesma forma, os verbos intransitivos ou transitivos quando expressos no tempo passado9 são precedidos por pronomes pessoais de forma presa ou dependente, as mesmas formas dos pronomes possessivos. Mas quando
+9 Não se entrará aqui em pormenores de aspecto e modo. 67
+
+expressos no tempo presente ou no futuro, são precedidos por pronomes pessoais de forma
+
+livre ou independente, diferentes dos pronomes possessivos.
+
+Exemplos:
+
+(299) *
+
+(300)
+
+„cabeça‟
+
+
+„fruto‟
+(301) 
+
+„chegar‟
+
+
+
+„minha cabeça‟
+
+„meu fruto‟
+
+„eu cheguei‟
+
+„eu estou chegando‟
+
+Dessa forma, pode-se dividir os pronomes pessoais em dois conjuntos: os de forma livre ou independente e os de forma presa ou dependente. A estes últimos podem ser agrupados os pronomes possessivos de nomes inalienáveis. Segue abaixo um quadro com essa classificação10:
+
+Sing. 1ª 2ª 3ª
+
+Pronome Pes. De Forma Livre  /  
+// 
+
+Pron. Pes. Forma Presa e Possessivo -
+
+Além desses, existe também um morfema indicador de propriedade alienável: {  } (SOUZA, 1990).
+
+10 Para uma leitura mais aprofundada sobre os pronomes, recomenda-se a dissertação de mestrado de SOUZA (1990) sobre o sistema de referência pessoal do Krahô.
+68
+
+Todos os pronomes possessivos, tanto para nomes inalienáveis quanto para alienáveis, assim como os pessoais, só distinguem o singular; para formar o plural, acrescenta-se junto ao pronome a partícula { - }.
+
+Neste trabalho, são analisados os pronomes de forma presa ou dependente e os processos fonológicos decorrentes de sua junção com nomes inalienáveis ou com verbos no passado.
+Voltando para o quadro de pronomes, observa-se que, para o caso da 1ª pessoa, ocorre, na forma subjacente, -.
+
+Exemplos:
+
+(302) (303) (304)
+
+  
+
+„meu braço‟ „meu cabelo‟ „minha perna‟
+
+Entretanto, diante de nomes (no caso de pronomes possessivos) e de verbos (no caso de pronomes pessoais) que se iniciem com vogais, no processo de silabificação, segue-se o ordenamento de regras visto em 3.2.5.11
+
+Exemplo: (305)  +  – „minha orelha‟ ou „eu ouvi‟
+
+1. Ocupar o núcleo
+
+N
+
+N
+
+N
+
+V  
+
+V
+
+V
+
+   
+
+11 Há aqui uma discordância com SOUZA (1990) que afirma ser esse glide [ j ] um prefixo referencial de relação contígua, 69
+
+ 
+
+2. Completar a seqüência CV da direita para a esquerda
+
+
+
+
+
+
+
+RARAR
+
+N
+
+N
+
+N
+
+V  
+
+V
+
+V
+
+   
+
+3. Preencher a coda
+
+
+
+
+
+
+
+RARAR
+
+N
+
+N
+
+N Co
+
+V  
+
+V
+
+VC
+
+   
+
+O resultado é que, na silabificação, um elemento V fica solto, sem formar CV nem VC, por isso deve ser apagado ocorrendo assim  . O alongamento vocálico, que seria a única possibilidade para esse elemento V não ser apagado, não se realiza pois é um processo que ocorre em um nível mais profundo da língua. Da mesma forma, a palavra „orelha‟ ou o verbo „ouvir‟, assim como todos os verbos e nomes inalienáveis que se iniciam com vogais, nunca são expressos sem o pronome, não tendo, portanto, suas vogais alongadas.
+
+ocorrendo também junto a 2ª pessoa, sempre diante de nomes ou verbos iniciando-se com vogal. 70
+
+O pronome de 2ª pessoa é um pouco diferente. Na subjacência, ele é, provavelmente, - , mas sempre se realiza com a vogal alongada, levando a crer que esse processo ocorra ainda no léxico.
+
+Exemplos:
+
+(306) (307) (308)
+
+: : :
+
+„teu braço‟ „teu cabelo‟ „tua perna‟
+
+Com nomes ou verbos se iniciando por vogais, será necessária uma epêntese, pois a língua não admite núcleos silábicos adjacentes, aplicando-se para isso o Princípio do Contorno Obrigatório (McCARTHY, 1986).
+Exemplo: (309)  +  - „tua orelha‟ ou „você ouviu‟ 1. Ocupar o núcleo (já tendo ocorrido o alongamento da vogal  do pronome):
+
+N V xx :  
+
+N
+
+N
+
+V
+
+V
+
+xxxx    
+
+2. Completar a seqüência CV da direita para a esquerda e inserir o glide
+
+
+
+
+
+
+
+R
+
+ARAR
+
+N
+
+N
+
+N
+
+71
+
+V
+
+CVCV
+
+xx x x x x x
+
+: 
+
+    
+
+
+
+3. Preencher a coda
+
+
+
+
+
+
+
+R
+
+ARAR
+
+N
+
+N
+
+N Co
+
+V
+
+CVCVC
+
+xxxxxxx
+
+: 
+
+    
+
+O resultado é :
+
+Há ainda uma variante que aparece na fala de indivíduos mais jovens e na fala mais rápida; uma velar pré-nasalizada no lugar do :j- diante de vogal.
+
+(310) 
+
+ :
+
+(311)   :
+
+(312) 
+
+ :
+
+(313) 
+
+ :
+
+„tua orelha‟ „tua narina‟ „teu ombro‟ „tua língua‟
+
+Em Krahô, ocorre a nasal velar  no mesmo contexto e SOUZA (1990) o denomina morfema portemanteau, utilizado como uma opção pelos falantes. Tal segmento foi analisado em 3.5.6.
+
+72
+
+No caso da 3ª pessoa, há uma forma subjacente: - . Entretanto, seguindo as restrições de coda, a fricativa, diante de consoante se realiza com o traço [ - contínuo ] ocasionando -.
+
+Exemplos:
+
+(314) (315) (316)
+
+  
+
+„seu braço‟ „seu cabelo‟ „sua perna‟
+
+Diante de vogal, ocorre o mesmo processo do pronome de 1ª pessoa, ou seja, a silabificação de  +  em  e o conseqüente apagamento do  formando - „orelha dele(a)‟ , „ele(a) ouviu‟.
+
+Uma nasalização é encontrada apenas diante de alguns nomes, como por
+
+exemplo:
+
+(317) (318) (319)
+
+ -  -
+-
+
+„seu olho‟ „seu pescoço‟
+„seu marido‟
+
+Esse caso é também relatado em outras línguas Timbira, como no Canela Apãniekrá (ALVES, 1999) e no Krahô (SOUZA, 1990) e parece se relacionar novamente com fatores lexicais em que, na forma subjacente desses nomes inalienáveis, talvez tivesse havido um processo de nasalização antigo que se realiza na superfície.
+Similar ao caso da nasal velar analisada em 3.5.6., são encontrados também no estudo comparativo de DAVIS indícios de que haveria também no Proto-Jê, uma nasal labial e uma coronal que, nas línguas Timbira, teriam resultado em oclusivas labial e coronal. São
+73
+
+os casos dos vocábulos vistos acima que, na junção com o pronome de 3ª pessoa, - , este se realiza na forma - ou -.
+
+(320)
+
+Item
+
+Pykobyê
+
+„pescoço‟ 
+
+Canela 
+
+Suyá 
+
+„marido‟ 
+
+
+
+
+
+„olho‟
+
+
+
+
+
+
+
+Além desses exemplos, existem outros:
+
+Apinayé   
+
+(321)
+
+Item sangue fígado bom mel sol chuva novo
+
+Pykobyê
+:      
+
+Canela    
+  
+
+Suyá       
+
+Apinayé       
+
+Kaingang 
+ 
+
+Xavante  
+
+
+Kaingang 
+     
+
+Xavante         
+
+Dessa forma, partindo da hipótese de que o de  e de  e o de no Pykobyê sejam provenientes das nasais  e 12, pôde-se levantar a seguinte hipótese para a nasalização do pronome:
+Esses vocábulos teriam ficado com um traço [ nasal ] flutuante. Ao suceder uma consoante subespecificada como é o caso da fricativa , esse traço [ nasal ] seria incorporado ao segmento, assimilando o ponto de articulação da oclusiva seguinte o que resultaria em  , assim como  e  . Não há dados no Pykobyê com os demais vocábulos vistos no quadro comparativo em conjunto com o pronome de 3ª pessoa.
+
+12 Nesse caso, o Pykobyê apresentará mais duas nasais  e  como formas subjacentes no quadro de unidades distintivas. 74
+
+Ainda sobre o pronome de 3ª pessoa, é importante lembrar o que diz
+
+BENVENISTE (1988): “ a terceira pessoa é a forma do paradigma verbal (ou pronominal)
+
+que não remete a nenhuma pessoa, porque se refere a um objeto colocado fora da alocução”.
+
+Ele ainda cita em outra passagem que alguns idiomas, como o Yuma, uma língua indígena
+
+americana, mostram literalmente que a terceira pessoa é uma “não-pessoa” pois sua
+
+referência é zero. Em Pykobyê, há alguns nomes inalienáveis que não admitem o pronome de
+
+3ª pessoa. São eles:
+
+(323) (324) (325)
+
+ : :
+
+'suas costas' 'seu sangue' 'seu machucado'
+
+Este pode ser um caso de classes de palavras diferentes, muito comum nas línguas
+
+indígenas brasileiras, em que algumas palavras aceitam o pronome de 3ª pessoa e outras não.
+
+É o que parece acontecer também com um nome e um verbo que, conjugados na 3ª pessoa,
+
+além de não admitir o pronome, “perdem” a primeira consoante do ataque complexo, como
+
+foi visto em 3.5.5:
+
+ (326)
+(327)
+(328)
+
+  
+
+(329) (330) (331) 
+
+  
+
+ „meu dente‟
+
+ „teu dente‟
+
+
+
+„seu dente‟ 
+
+ „eu banhei‟
+
+ „você banhou‟
+
+ „ele(a) banhou‟
+
+Dessa forma, pôde-se fazer uma análise, mesmo sumária, de alguns processos
+
+75
+
+fonológicos , dentre eles apagamento e epêntese, envolvendo uma classe gramatical da língua, os pronomes pessoais/possessivos de forma presa. Muito ainda pode ser analisado sobre esse assunto, principalmente em relação a junção de pronomes pessoais com outros verbos que modificam sua forma de acordo com a transitividade.
+
+3.7.2. Processos de ressilabificação envolvendo VC
+
+Para descobrir se a sílaba VC não é, na realidade, uma sílaba CVC que perdeu, em um processo histórico, a consoante do ataque, foi necessário analisar se ocorreria ou não uma possível ressilabificação quando ela é precedida por uma palavra terminando em sílaba fechada. A hipótese seria que, se não houvesse ressilabificação, ou seja, se aparecesse alguma consoante subespecificada como uma glotal , esta estaria preenchendo a posição destinada ao ataque não-realizado na superfície, mas ainda presente no léxico.
+No corpus analisado, foi encontrada uma oração em que ocorre, na superfície, ressilabificação da sílaba VC com a coda da palavra anterior, formando CVC:
+
+(332)  neg mata loc viver, estar neg “Ela não vive nas matas.”
+
+
+
+ AR
+Nu Co CV C
+
+ R
+Nu Co VC
+
+76
+
+
+
+
+
+
+
+AR
+
+AR
+
+Nu
+
+Nu Co
+
+CV
+
+CV C
+
+
+
+Percebe-se que, no nível da superfície, a língua procura atender o Princípio de Maximização do Ataque (ITÔ, 1986).
+Quando a sílaba da palavra anterior que antecede o VC for aberta e o segmento vocálico apresentar os mesmos traços, ocorre degeminação. Similar ao que ocorre no Português do Brasil (BISOL, 1992), com o choque de núcleos silábicos idênticos, aplica-se o Princípio do Contorno Obrigatório que proíbe, no nível melódico, segmentos idênticos adjacentes (McCARTHY, 1986).
+
+(333)  1ªp.s. erg ontem cascavel ver “Ontem eu vi uma cascavel”
+
+
+
+1. 
+
+
+
+AR
+
+R
+
+Nu Nu Co
+
+CV
+
+VC
+
+
+
+2.
+
+
+
+77
+
+R Nu Co CV VC 
+
+3.
+
+
+
+R
+
+Nu Co
+
+CV VC 
+
+4.
+
+
+
+AR
+
+Nu Co
+
+CV V C 
+
+
+
+5.
+
+
+
+AR
+
+Nu Co
+
+CV V C :
+
+
+
+78
+
+6.
+
+
+
+AR
+
+Nu Co
+
+CVC 
+
+Em (1) e (2), observa-se a perda do núcleo silábico devido ao choque; ocorre a ressilabificação em (3); em (4) é aplicado o PCO e em (5) uma regra de encurtamento, por não existir o padrão CV:C na língua, obtendo-se o resultado em (6). Convém ressaltar que a sílaba VC é sempre átona e a sílaba precedente é quase sempre tônica, conforme o padrão acentual do Pykobyê, já analisado em 2.3.
+Através dos processos fonológicos apresentados acima, pode-se concluir que, já que não ocorre a inserção de nenhum segmento subespecificado como uma consoante glotal que separe as duas palavras nos exemplos, a sílaba VC, deve ser mesmo um “edge effect”, sendo provavelmente um prefixo especial da língua.
+
+79
+
+4. CONCLUSÃO
+A análise do sistema fonológico de uma língua é fundamental para estudos posteriores. Embora esta pesquisadora contasse com trabalhos realizados em outras línguas Timbira, como o Krahô e o Apãniekrá, a dificuldade encontrada para analisar uma língua sobre a qual não havia nenhum outro estudo foi grande. Os informantes indígenas, com sua paciência, muito ajudaram para diminuir a distância entre culturas tão diferentes. Mesmo assim, este trabalho é considerado preliminar. Os objetivos inicialmente propostos foram atendidos, mas muitas outras dúvidas e questões surgiram no decorrer do projeto. Conseguiuse estabelecer o quadro fonético-articulatório - com seus dezoito segmentos consonantais e vinte e três vocálicos - do qual pôde-se determinar as unidades distintivas da língua - onze consoantes e dez vogais, sendo sete orais e três nasais. Os padrões silábicos foram identificados – CV e CVC – e estabeleceu-se o padrão máximo como C(C)VC. Em relação ao acento, o Pykobyê é um sistema que apresenta pé métrico dominante à direita. Na determinação das unidades distintivas, das estruturas silábicas e do padrão acentual, foram identificados vários processos fonológicos, tais como: espraiamento de traços, apagamento, epêntese, degeminação, entre outros. Nesses processos, percebeu-se a interação com a morfologia em vários processos de formação de palavras, na flexão verbal e na junção de pronomes com substantivos ou verbos. Em vista disso, considera-se de extrema importância
+80
+
+um estudo aprofundado na área de morfofonologia para que a análise desta língua possa cada vez mais contribuir para os estudos das línguas indígenas em geral, e em particular, para a difusão das línguas e das culturas dos povos Jê .
+REFERÊNCIAS BIBLIOGRÁFICAS
+LINGÜÍSTICA BENVENISTE, E. (1988). Problemas de lingüística geral I. Tradução de Maria da
+Glória Novak e Maria Luiza Neri. 2ª ed., Campinas: Pontes, pp. 277-293. BISOL, L. (1992). Sândi vocálico externo: degeminação e elisão. In Cadernos de
+Estudos Lingüísticos. Campinas: UNICAMP, (23), pp. 83-101. BLEVINS, J. (1995). The syllable in phonological theory. In GOLDSMITH, J. A.
+(org.) The handbook of phonological theory. Cambridge: Blackwell, pp. 206-244. CLEMENTS, G.N. & KEYSER, S.J. (1983). CV Phonology. A generative theory of the syllable. Cambridge, Massachussets: MIT Press. CLEMENTS, G.N. & HUME, E.U. (1995). The internal structure of speech sounds. In GOLDSMITH, J.A. (org.) The handbook of phonological theory. Cambridge: Blackwell, pp. 245-306. GOLDSMITH, J.A. (1990). Autosegmental and metrical phonology. Cambridge: Blackwell.
+81
+
+HALLE, M. & VERGNAUD, J.R. (1987). An essay on stress. Cambridge, Massachussets: MIT Press.
+HAYES, B. (1994). Metrical Stress Theory: Principles and Case Studies. Chicago: University of Chicago Press.
+ITÔ, J. (1986). Syllable theory in prosodic phonology. Tese de Doutorado. Massachussets: University of Massachussetts.
+KAGER, R. (1995). The metrical theory of word stress. In GOLDSMITH, J.A. (org.) The handbook of phonological theory. Cambridge: Blackwell.
+KIBRIK, A.E. (1977). The methodology of field investigations in Linguistics. Paris: Mouton.
+McCARTHY, J. (1986). OCP – effects: gemination and antigemination. In Linguistic Inquiry, (17), pp. 207-263.
+LINGÜÍSTICA JÊ
+ALVES, F.C. (1999). Aspectos fonológicos do Apãniekrá (Jê). Dissertação de Mestrado. São Paulo: Faculdade de Filosofia, Letras e Ciências Humanas, USP.
+DAVIS, I. (1966). Comparative Jê phonology. In Estudos Lingüísticos, Revista Brasileira de Lingüística Teórica e Aplicada, 1,(2), São Paulo, pp. 10-24.
+OITICICA, J. (1933). Do método do estudo das línguas sul-americanas. In Boletim do Museu Nacional, IX, Rio de Janeiro.
+82
+
+POPJES, J. & J. (1986). Canela-Kraho. In DERBYSHIRE, D.C. & PULLUM, G.K. (eds). Handbook of Amazonian Languages., New York: Mouton de Gruyter, pp. 128-199.
+RODRIGUES, A.D. (1986). Línguas Brasileiras: para o conhecimento das línguas indígenas. São Paulo: Ed. Loyola.
+SHELL, O. (1952). Grammatical Outline of Kraho (Ge Family). In International Journal of American Linguistics XVIII (3), Baltimore, pp. 115-129.
+SOUZA, S.M. (1990). O sistema de referência pessoal da língua Krahô. Dissertação de Mestrado. Goiânia: Instituto de Ciências Humanas e Letras da Universidade Federal de Goiás.
+ANTROPOLOGIA E ETNOLOGIA
+CEDI/INSTITUTO SÓCIO-AMBIENTAL (1995) - Povos Indígenas do Brasil 1991-1995. São Paulo.
+MELATTI, J.C. (1972). O messianismo krahô. São Paulo: Ed. Herder/EDUSP NIMUENDAJU, C. (1946). The Eastern Timbira. Berkeley and Los Angeles,
+University of California Publications in American Archeology and Ethnology, vol. 41.
+83
+
+

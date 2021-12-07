@@ -1,0 +1,202 @@
+The internal classification of the Arawan languages1
+
+ABSTRACT
+
+Stefan Dienst
+
+The Arawan language family of south-western Amazonia was named after the extinct Arawá language, which is only known from a short wordlist collected by William Chandless in 1867. This paper investigates what Chandless’s list tells us about the position of Arawá within the family and what can currently be said about the relationship between the living Arawan languages. KEYWORDS: Arawan, historical linguistics, linguistic classification
+RESUMO
+
+A família lingüística Arawá do sudoeste da Amazônia recebeu o nome de uma língua extinta que é conhecida somente de uma curta lista de palavras coletada por William Chandless em 1867. Este artigo examina o que a lista de Chandless revela sobre a posição da língua Arawá dentro da família e o que se pode dizer atualmente sobre a relação entre as línguas vivas. PALAVRAS-CHAVE: Arawá, lingüística histórica, classificação lingüística
+
+1 This paper was presented at the Workshop on Historical Linguistics and Language Contact at the
+1
+
+1. THE ARAWAN LANGUAGE FAMILY
+Arawan is a small language family of south-western Amazonia. The languages of the family are spoken on the Purus and Juruá rivers and their tributaries in the Brazilian state of Amazonas. Members of the largest Arawan-speaking group, Kulina, also live on the Jutaí river in Amazonas state and on a stretch of the upper Purus river that straddles the border between Peru and the Brazilian state of Acre.
+Three of the Arawan peoples, known as Jamamadi, Jarawara and Banawá, speak closely related dialects. In the recent linguistic literature, the three dialects together have been referred to as the Madi language (e.g. Dixon 1995:263, Vogel 2003:58).
+Two other groups, Kulina and Deni, have been known for some time to be linguistically more closely related to each other than to other Arawan groups. But until recently, it was generally overlooked that besides the Madi-speaking Jamamadi, there are also indigenous groups known as Jamamadi who are linguistically very close to the Kulina and the Deni (Dixon 2004b:9-11). These Jamamadi can be grouped together with the Kulina and the Deni under the name Madihá, the self-designation of both the Kulina and the Deni. To distinguish the Jamamadi of the Madihá group, who live near the towns of Boca do Acre and Pauini, from the Jamamadi of the Madi group, who live near the town of Lábrea, the former will be referred to as Western Jamamadi and the latter as Eastern Jamamadi.
+For the three remaining known languages of the family, Sorowahá, Paumari and the extinct Arawá language, no subgrouping has so far been suggested, as reflected in figure 1.
+Laboratório de Línguas Indígenas of the University of Brasília in October 2005.
+2
+
+Madihá
+
+Arawan
+
+Madi
+
+Sorowahá Paumari
+
+†Arawá
+
+Kulina Western
+
+Deni
+
+Eastern Banawá Jarawara
+
+Jamamadi
+
+Jamamadi
+
+Figure 1: The Arawan family
+
+The phonology of Proto-Arawan has been reconstructed by Dixon (2004a), who used data from all known Arawan groups except Western Jamamadi. Dixon (p. 3) gives the following percentages of cognates between the different branches of Arawan, based on a 115-word list.
+
+Arawá
+
+Madi
+
+Madihá Paumari
+
+Madi
+
+79
+
+Madihá
+
+72
+
+61
+
+Paumari
+
+54
+
+50
+
+43
+
+Sorowahá
+
+53
+
+37
+
+34
+
+34
+
+Table 1: Percentage of cognates in a 115-word list. Adapted from Dixon (2004a:3).
+
+3
+
+2. ARAWÁ, MADI AND MADIHÁ
+
+Dixon warns that the percentages for Arawá in table 1 are less reliable than the others since this language is only known from a wordlist with 52 items collected by William Chandless in 1867 and published in Chandless (1869), so that for Arawá only a fraction of the 115 words on Dixon’s list could be compared with the other languages. Even with this caveat, the figures suggest that of the five Arawan branches, Arawá, Madi and Madihá are the three most closely related to one another.
+Taking this assumption as the starting point for the investigation of the genealogical relationship between the languages, one can ask if any two of these three branches are more closely related to each other than to the third. The accepted method of subgrouping in historical linguistics is to identify shared innovations found in the languages of one subgroup, but not elsewhere in a family. One would therefore have to establish innovations shared by two of the three branches in question.
+Given the fact that all that is available for Arawá is a short wordlist, the data basis for a three-way comparison is thin. Yet, one instance of a shared innovation of Madi and Madihá, the word for ‘moon’, was already published (though not labelled as such) in Dixon (1999:297).
+
+Arawá Paumari
+
+‘moon’ masiko masiko
+
+4
+
+Sorowahá
+
+masiki
+
+East. Jamamadi abariko
+
+Jarawara
+
+abariko
+
+Banawá
+
+abariko
+
+Deni
+
+abajiko
+
+Kulina
+
+abajiko
+
+Table 2: ‘Moon’ in the Arawan languages. Adapted from Dixon (1999:297).
+
+As table 2 shows, Arawá and Paumari share the word masiko ‘moon’ and Sorowahá has the very similar and certainly cognate form masiki. All varieties of Madi have abariko and the two Madihá varieties represented in the table (as well as Western Jamamadi) have abajiko. The Madi and Madihá forms are also certainly cognates. If the percentages in table 1 are not totally misleading, the most plausible explanation for the different forms is that the words found in Arawá, Paumari and Sorowahá are retentions while the Madi and Madihá words reflect a shared development.
+As Dixon (2004a: 38-39) pointed out, there is a general phonological similarity between all the forms for moon in the table and abajiko/abariko may be cognate with masiko/masiki. In this case, abajiko/abariko would not be a shared lexical innovation, but as the result of a shared phonological change it would still be evidence for a closer tie between Madi and Madihá.
+
+A second innovation shared only by Madi and Madihá is the word for ‘bark’. Chandless’s list contains the word awa-safiný ‘bark-canoe’. There is no separate translation of the
+5
+
+elements of this complex form, but awa means ‘tree’ in Paumari (Chapman & Salzer 1998:203), Madi (Vogel 2005:53), and Madihá and the lexical stem for ‘skin, bark’ in Paumari is asafi (Chapman & Salzer 1998:110). The Arawá word can therefore be analysed as the free noun awa ‘tree’, the inalienably possessed noun stem (a)safi ‘skin, bark’ (which may have an initial /a/ that doesn’t surface because the preceding morpheme ends in /a/) and the suffix -ný of the feminine form of inalienably possessed nouns2. The Arawá suffix corresponds to the suffix -ni found on possessed nouns in Madihá, Paumari and Sorowahá (Dixon 1995:273, 291). The literal meaning of Arawá awa-safiný is thus ‘tree bark’. (In Kulina, it is quite common for artefacts to be referred to by the name of the material of which they are made. This was apparently also the case in Arawá.)
+The Arawá word stem safi or asafi is cognate with Paumari asafi ‘skin, bark’ and also with Sorowahá asihi ‘skin, bark’ (Suzuki 2002:15), all of which are inalienably possessed nouns. The nouns for ‘bark’ in Madihá and Madi are also inalienably possessed. Madihá has the masculine form etero ‘bark, fruit skin’ and Madi has the masculine form ataro ‘bark, skin’ (Vogel 2005:51). The two forms differ in their first two vowels due to some subsequent change, but are nevertheless very likely a shared innovation. Besides the cases of ‘moon’ and ‘skin’, where Arawá groups together with Paumari and Sorowahá, there is a further etymon, meaning ‘fire’, where the Arawá form matches only with Paumari. (The Sorowahá lexeme seems to have no cognate in any other language.) Dixon (2004a:58) considers the Arawá and Paumari forms to be cognate with the rather different forms in Madi and Madihá, as his cognate set, reproduced here, shows.
+2 Inalienably possessed nouns in the Arawan languages often have a masculine and a feminine form and agree in gender with the possessor.
+6
+
+j21 *jipho ‘fire, firewood’ P* siho KD jipho JM jifi/jifo-ne//jifo (PN)3 B jife/jifene//jifo (PN) A <si-hú>
+Dixon reconstructs the Proto-Arawan form *jipho ‘fire, firewood’, which corresponds exactly to the modern Madihá form jipho. According to his own reconstruction, the regular reflexes of Proto-Arawan initial *j and medial *ph are /j/ and /f/ in both Paumari and Arawá. But in the postulated cognate set for ‘fire, firewood’, the corresponding phonemes are /s/ and /h/ in Paumari. Chandless’s spelling of the Arawá word suggests the same for that language4. As an explanation for the irregularities in Paumari, Dixon assumes that the word siho originated from a substratum. But the Arawá word has exactly the same irregularities and it is highly unlikely that its word for ‘fire’ stems from a similar substratum as the Paumari word. It is more probable that the Paumari and Arawá words are not cognate with those of Madi and Madihá and that there is only a chance similarity. Even if the words should be cognates, a sound change in Proto-Madi-Madihá is more likely than some idiosyncratic change that affected both Paumari and Arawá. The
+3 (PN) indicates an inalienably possessed noun. The first form is feminine, the second masculine and the third a corresponding free, i.e. not inalienably possessed, noun. 4 Chandless (1869:311) states that [f] and [h] are sometimes difficult to distinguish in Arawá, but in all other cases, he gives <f> where it would be expected.
+7
+
+most plausible explanation for the different forms for ‘fire’ is thus a shared (lexical or phonological) innovation of Madi and Madihá. Dixon’s reconstructed form *jipho can thus only be considered valid for Proto-Madi-Madihá, not for Proto-Arawan.
+Chandless’s list seems not to contain any cases of shared innovations of Arawá with either only Madi or only Madihá, so that the very limited data suggest that the separation of Madi and Madihá is younger than the split of Proto-Arawá from the common ancestor of Madi and Madihá.
+The original assumption made here, based on the percentages in table 1, was that Arawá, Madi and Madihá are more closely related to each other than to Paumari and Sorowahá. This hypothesis could be proved by innovations shared only by Arawá, Madi and Madihá. While there are a few words which are attested only in these three branches of Arawan, it is not possible to demonstrate that they are innovations. There is therefore currently no basis for grouping Arawá together with Madi and Madihá.
+3. ARAWÁ AND PAUMARI
+Arawá might indeed be more closely related to one of the other Arawan languages. But there is no evidence to suggest that the lexeme for ‘fire’ shared by Paumari and Arawá is an innovation or that there is any other innovation shared by Paumari and Arawá. It can therefore not be assumed that Arawá was more closely related to Paumari than to Madi, Madihá and Sorowahá.
+4. MADI AND MADIHÁ
+8
+
+Three innovations shared by Madi and Madihá, the lexemes for ‘moon’, ‘bark’ and ‘fire’, were already mentioned above. A look at Dixon’s (2004a:45-74) cognate sets shows that in many cases there are cognates only for Madi and Madihá and that in numerous other cases Madi and Madihá have identical forms whereas the cognates found in other branches are more or less divergent. This fact strongly supports the assumption that Madi and Madihá are most closely related, though it doesn’t constitute a proof.
+Proofs in the form of shared innovations are difficult to produce in a small language family like Arawan. A word shared by Madi and Madihá can only be assumed to be a shared innovation if a different etymon with the same meaning is found in at least two of the three other languages. Once the small stock of Arawá data has been exploited, further examples can only come from cognates in Paumari and Sorowahá, two rather divergent languages.
+The problem is even more acute with respect to grammatical innovations. The few aspects of Arawá grammar that can be gleaned from Chandless’s list are general Arawan features and our knowledge of Sorowahá grammar is still fragmentary. The only further shared innovation of Madi and Madihá that can be proposed here is the word for ‘edible animal, game’. The two cognate sets below are from Dixon (2004a:49, 55-56).
+
+b15 *bani ‘game animal, meat’ KD bani JBM bani
+
+i7 *igathe ‘animal’ P igitha S igati
+
+9
+
+According to Chapman and Salzer (1998:194), Paumari igitha means more precisely ‘domestic animal; edible animal’. As domestic animals are a recent innovation of nonindigenous origin, the meaning ‘edible animal’, which corresponds to the meaning of the unrelated Madi and Madihá words, can be assumed to be older. Since Paumari and Sorowahá do not appear to be particularly closely related, it is plausible to assume that the etymon shared by them is a retention and that bani, found in Madi and Madihá, is an innovation. 5. CONCLUSION Though hard evidence concerning the position of Arawá is sparse, the overall picture seems to justify classifying Madi and Madihá as more closely related to each other than to any other branch of Arawan. There is currently no evidence for any further subclassification. Figure 2 shows the revised classification of the languages.
+10
+
+Arawan
+
+Madihá
+
+MadiMadihá
+
+Sorowahá
+
+Paumari
+
+†Arawá
+
+Madi
+
+Kulina
+
+Western
+
+Deni
+
+Jamamadi
+
+Figure 2: The Arawan family revised
+
+Eastern Jamamadi
+
+Banawá
+
+Jarawara
+
+NOTE
+
+Kulina, Deni, and Western Jamamadi data for which no source is given are from the author’s field notes.
+REFERENCES
+
+CHANDLESS, William. (1869). Notes on a journey up the River Juruá. Journal of the Royal Geographical Society 39:296-311.
+
+CHAPMAN, Shirley & SALZER, Meinke. (1998). Dicionário bilíngue nas línguas paumarí e portuguesa. Porto Velho: Sociedade Internacional de Lingüística.
+
+11
+
+DIXON, R. M. W. (1995). Fusional development of gender marking in Jarawara possessed nouns. International Journal of American Linguistics 61:263-294. –––. (1999). Arawá. In R. M. W. Dixon & Alexandra Y. Aikhenvald (eds.). The Amazonian Languages, pp. 293-306. Cambridge: Cambridge University Press. –––. (2004a). Proto-Arawá phonology. Anthropological Linguistics 46:1-83. –––. (2004b). The Jarawara language of southern Amazonia. Oxford: Oxford Unversity Press. SUZUKI, Márcia. (2002). Dicionário suruwahá-português & vocabulário portuguêssuruwahá. Hawaii: University of the Nations. VOGEL, Alan R. (2003). Jarawara verb classes. Ph.D. dissertation. Pittsburgh: University of Pittsburgh. –––. (2005). Dicionário jarawara – português. Cuiabá: Sociedade Internacional de Lingüística.
+12
+
+

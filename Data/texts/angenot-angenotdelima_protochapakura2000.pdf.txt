@@ -1,0 +1,840 @@
+SOBRE A RECONSTRUÇÃO DO PROTOCHAPAKURA
+Jean-Pierre Angenot & Geralda Angenot-de Lima Universidade Federal de Rondônia (UNIR), CEPLA
+1. Introdução Até o presente momento nunca tinha sido divulgada nenhum proposta de reconstrução histórico-comparativa das línguas da família Chapakura. Este trabalho constitui, portanto, a primeira tentativa de reconstrução parcial da língua-mãe da qual se oriundam as línguas desta família ameríndia localizada nas margens da Amazônia brasileira e boliviana.
+2. O protoléxico Até o presente momento, reconstruimos 469 palavras Protochapakura (além de 117 reconstruções diacronicamente intermediárias), com base no acervo que reunimos sobre 11 línguas da família Chapakura.
+Para as 5 línguas vivas ou moribundas1 (o Moré, o Kuyubi, o Miguelenho-Wanyam, o Oro Win e o Wari’, este último representado pelos seus dialetos Oro Mon e Oro Não) reunimos dados inéditos de primeira mão que correspondem, para cada língua ou dialeto, a um número de verbetes que varia entre 2.500 e 3.500 ítens. Para as demais 6 línguas que aparentemente estão extintas (o Torá, o Urupá, o Yaru, o Chapakura, o Kitemoka2 e o Napeka), dispomos apenas de listas lexicais limitadas (em média, de 200 a 300 palavras) que foram coletadas por d’Orbigny e Cardus, no século passado, e por Nimuendajú e Barbosa (Comissão Rondon) no início deste século.
+O conjunto de 469 cognatos identificados corresponde a aproximadamente 23 % do total das cerca de 2.000 entradas vocabulares comparáveis presentes nos léxicos das línguas não-extintas.
+Nas línguas Chapakura, as palavras monolexicais e polilexicais constituem, respectivamente, 20% e 80% do léxico3. Como é bem conhecido, as palavras compostas se oriundam mais freqüentemente de criações lingüísticas culturais específicas que não refletem qualquer herança da proto-língua. Era de se esperar, portanto, que a proporção entre os cognatos monolexicais e os cognatos polilexicais seja superior à proporção acima mencionada que foi calculada com base nos léxicos completos de cada língua. De fato, os étimos dos 469 conjuntos de cognatos, se repartem em 308 étimos simples (ou
+1 Desde 1994, a equipe do Centro de Pesquisas das Línguas Amazônicas (CEPLA) da Universidade Federal de Rondônia (UNIR) está empenhada em resgatar todas essas línguas, constituindo, assim, um vasto banco de dados arquivados, disponíveis para análises acústicas. 2 Em viagem a La Paz realizada em 1996, fomos informados de que ainda haveria uma vintena de remanescentes Kitemoka na cabeceira de um afluente do rio Baurés, ao norte de Santa Cruz de la Sierra, na Bolívia. 3 Em 1995, quando nosso dicionário Moré continha 3.429 verbetes, a relação era de 654 palavras simples por 2.775 palavras compostas, ou seja, respectivamente, 23,5% e 76,5%.
+
+54
+
+ANGENOT & ANGENOT-DE LIMA
+
+monolexicais) e 161 étimos compostos (ou polilexicais), numa proporção respectiva de 66% e 34% do total. Mesmo assim, o percentual de palavras compostas reconstruídas é relativamente elevado em comparação com outras famílias lingüísticas do mundo. Na nossa opinião, isso se explica pelo caráter tipologicamente isolante do Protochapakura (Angenot & Ferrarezi 1997). Nas línguas isolantes, ao contrário das línguas aglutinantes, por exemplo, a composição lexical compensa o número relativamente baixo de palavras monossílabas possibilitadas pelas combinações entre os fonemas. Entre os 308 étimos monolexicais citados, foram reconstruídas 234 palavras dissílabas e somente 76 palavras monossílabas.
+Apresentamos em 5 o inventário dos étimos monolexicais que reconstruimos. Para um estudo mais detalhado, que inclua, notadamente as listagens completas dos cognatos, remetemos a Lima Angenot (1997a). Para a discussão das regras fonológicas diacrônicas e de uma proposta de classificação interna das línguas Chapakura, remetemos a Angenot & Angenot-de Lima (em preparação).
+
+3. A estrutura silábica e acentual do protolexema 3.1. Restrições intrassilábicas Em posição ‘onset’ de sílaba ($ ---), somente as seguintes consoantes são permitidas:
+/p t k / pW h hW m n ¯ mW R ts dz tS j w / Em posição ‘coda’ de sílaba (--- $), somente as seguintes consoantes são permitidas:
+/ p t k / m n ¯ m/ n/ tS w w/ /
+
+3.2. Restrições intersilábicas De acordo com Angenot-de Lima & Angenot (neste volume), a principal característica fonotática Panchapakura é a restrição que exige que os lexemas monossílabos sejam constituídos por uma sílaba pesada, e que os lexemas dissílabos sejam constituídos pela seqüência de uma sílaba leve e de uma sílaba pesada. Quanto à acentuação lexical, mostramos que ela é dedutível do peso silábico: a nível lexical, a sílaba leve é nãoacentuada e a sílaba pesada é acentuada.
+Em função do comportamento homogêneo das diversas línguas Chapakura, consideramos que a situação atestada atualmente já imperava em Protochapakura.
+
+Exemplos:
+
+CV »CVC CV »CV ˘
+»CVC »CV˘
+
+/ ∗t i p a n / / ∗t a w i ˘ / / ∗k a w/ / / ∗p u ˘ /
+
+[ ∗t I( »p aè n ]
+
+[ ∗t a( »w iè ˘ ]
+
+[
+
+∗»k aè w/ ]
+
+[ ∗»p uè ˘ ]
+
+‘braço’ ‘abelha’ ‘comer’ ‘soprar’
+
+PROTOCHAPAKURA
+
+55
+
+4. Protofonologia segmental 4.1. Tabela dos protofonemas Reconstruimos os seguintes protofonemas:
+
+BILABIAIS
+
+OCLUSIVAS ORAIS OCLUSIVA ORAL LABIALIZADA OCLUSIVAS NASAIS OCLUSIVA NASAL LABIALIZADA OCLUSIVAS NASAIS
+PÓS-GLOTALIZADAS OCLUSIVA4 ‘TAP’
+OCLUSIVAS5 AFRICADAS APROXIMANTES APROXIMANTE
+PÓS-GLOTALIZADA
+APROXIMANTE NEUTRA APROXIMANTE NEUTRA LABIALIZADA VOGAIS ALTAS VOGAIS MÉDIAS VOGAL BAIXA
+
+p pW
+m mW
+m/
+
+ALVEOLARES
+t
+
+PÓS-
+
+PALATAIS VELARES GLOTAL
+
+ALVEOLARES
+
+k
+
+/
+
+n
+
+n/
+
+R
+
+ts dz
+
+tS
+
+¯
+
+j
+
+w
+
+w/
+
+h hW
+
+i
+
+u
+
+eo
+
+a
+
+4.2. Principais regras de correspondência Siglas: KIT= Kitemoka, KUY = Kuyubi, MIG = Miguelenho, MOR = Moré, NAP = Napeka, OMO = Oro Mon, ONA = Oro Não, OWI = Oro Win, TOR = Tora, URU = Urupa, YAR = Yaru.
+
+∗p > ∗t >
+>
+>
+∗pW > ∗mW > ∗m/ >
+
+h / $ −$ −− ∗o tS / $ −−− ∗i tS / $$−−− ∗u s / $ −$ −− ∗i p / $ −−− m / $ −−− m / −−− $
+
+MIG, ONA, OMO, NAP, TOR, URU, YAR ONA, CHA ONA, OWI, CHA, KIT CHA, KIT todas as línguas menos MOR e CHA
+todas as línguas menos ONA e OMO
+
+4 De acordo com Laver (1994) e Ladefoged & Maddieson (1996), o ‘tap’ é essencialmente uma oclusiva alveolar [d] articulada com extrema brevidade. 5 Laver (1994) lembra que as ditas africadas são na realidade oclusivas africadas, cuja soltura ou ‘offset’, que forma um ‘overlap’ com o onset da vogal seguinte ou do silêncio, é fricativo, ao invés de ser aproximante como nas oclusivas tradicionais.
+
+56
+
+ANGENOT & ANGENOT-DE LIMA
+
+∗n/ > ∗w/ > ∗ts >
+>
+>
+>
+> ∗dz >
+>
+> ∗tS >
+>
+>
+>
+>
+>
+> ∗hW > ∗tR >
+>
+>
+> ∗e > ∗o > ∗u >
+> ∗i( (>)
+
+n / −−− $ w / −−− $ t / $ −−− s / $ −−− S / $ −−− ts / $ −−− tJ / $ −−− ∗i t / $ −−− z / $ −−− t/z / $ −−− s / $ −−− s / $ −−− S / $ −−− S / $ −−− ∗i h / $ −−− ∗e t / $ −−− ∗u t/tS / $ −−− ∗i h / $ −−− tR8 / $ −−− ts / $ −−− s / $ −−− S / $ −−− E ç i y a(
+
+MIG, OMO, OWI, CHA, KIT, YAR MOR, TOR KUY ONA KIT MIG, OWI MOR KUY CHA, NAP, YAR OWI KUY TOR, URU URU OMO MIG MIG, OMO, KIT, NAP, URU, YAR OWI, MIG MOR (variante rara do registro maxiarticulado) MOR KUY MOR MOR MIG ONA, OMO, OWI ONA, OMO, OWI
+
+5. Inventário dos étimos monolexicais
+5.1. Lexemas monossílabos
+5.1.1. Com onset simples 1. Acordar, despertar ∗po . 2. Ajuntar, amontoar ∗wak . 3. Amarrar ∗paw . 4. Andar ∗tut . 5. Arrancar ∗pot. 6. Arroto ∗ew . 7. Árvore-cachimbeira, sal ∗kun . 8. Assobiar com a ajuda da mão ∗ne/on . 9. Assobiar sem a ajuda da mão ∗on . 10. Banhar-se, tomar banho ∗ja . 11. Bater 1, abrir, rachar ∗to . 12. Bater 2, bofetear ∗pa . 13. Bater letalmente ∗pa . 14. Beber ∗tok . 15. Beijar ruidosamente ∗tup . 16. Beira, margem ∗am . 17. Cantar (gente) ∗kom . 18. Casar ∗wet . 19. Cheirar, farejar ∗nak . 20. Chorar ∗a . 21. Chupar ruidosamente ∗tok . 22. Chupar uma fruta ∗tak . 23. Coitar, copular, fazer sexo ∗wan . 24. Colher, pegar, arrancar ∗kut . 25. Comer ∗kaw . 26. Coração ∗tim . 27. Corpo ∗t . 28. Correr ∗mo . 29. Cortar ∗ta . 30. Coxa, perna superior ∗pok . 31. Cozinhar, cuspir ∗pot . 32. Dançar ∗op . 33. Dançar ∗pi . 34. Deixar atrás ∗pin . 35. Derramar um líquido ∗aw .
+
+PROTOCHAPAKURA
+
+57
+
+36. Derrubar frutas com um pau ∗ton . 37. Detestar, rejeitar ∗nok . 38. Dia ∗t ek . 39. Dizer, falar ∗ja . 40. Empurrar, afastar ∗juk . 41. Explodir, arrebentar ∗top . 42. Flor ∗piw . 43. Folha, um ∗tan . 44. Formiga-saraça ∗u . 45. Frio (ser) ∗tiw . 46. Ir ∗m a(w) . 47. Jogar, lançar ∗tin . 48. Lagarta (esp.) ∗kap . 49. Mamar ∗n/ok . 50. Mão ∗um . 51. Morder, mastigar ∗kiw . 52. Neto ∗win . 53. Olho, grão, semente, caroço ∗tok . 54. Peido ∗pon . 55. Pelo, cabelo ∗tun . 56. Pilar, moer com pedra 1 ∗ep . 57. Pilar, moer com pedra 2 ∗jaw . 58. Piolho ∗iw . 59. Pisar, bater o pé ∗tom . 60. Puxar, arrastar ∗kuk . 61. Quebrar, cortar, arrancar ∗pit . 62. Queimar, preto ∗tom . 63. Seguir às escondidas ∗ju . 64. Sentar ∗pe . 65. Soprar, acender o fogo ∗pu . 66. Tirar, depenar, arrancar ∗pot . 67. Tumor (ter um) ∗mom . 68. Um ∗tik . 69. Vermelho, maduro ∗mem . 70. Vomitar ∗we .
+
+5.1.2. Com onset complexo 71. Brasa ∗tik . 72. Cotovelo, junta ∗kaam . 73. Entrar, dentro ∗koom . 74. Flechar, matar com flecha. ∗puu . 75. Folha de palmeira-aricuri ∗toot . 76. Formiga-saúva ∗kaan . 77. Periquito ∗piin . 78. Ver, enxergar, olhar ∗kik .
+
+5.2. Lexemas dissílabos
+5.2.1. Onset simples
+5.2.1.1. Com oclusão glotal 79. Abrir ∗pa . 80. Acabar ∗api . 81. Água, rio, chuva ∗akom . 82. Algodão, roupa ∗awom . 83. Amargo, árvore (esp.) ∗awan . 84. Anta, tapir ∗min . 85. Anum (ave) ∗oi . 86. Apagar ∗ jo . 88. Avô materno ∗apa . 89. Avó paterna ∗ jew  . 90. Avô paterno ∗uwew . 91. Bagre (peixe) ∗opa . 92. Bochecha ∗oam . 93. Bom, bonito, gostoso ∗awi . 94. Brotar (dente) ∗oot . 95. Buraco ∗man . 96. Cabeça ∗opek . .97. Cair, nascer ∗pan . 98. Cantar (pássaro) ∗aka . 99. Carne ∗ukun . 100. Caruncho rola-bosta ∗opi . 101. Casa, maloca ∗atiim . 102. Centopéia (esp.) ∗ tin . 103. Céu, altura ∗awin . 104. Chegar em casa ∗wan . 105. Cipó-ambé ∗opot . 106. Costas, espádua ∗ataw . 107. Cuia, cabaça 1 ∗oom . 108. Cuia, cabaça 2 ∗oto . 109. Cunhado (= marido de irmã) ∗enem . 110. Curandeiro, feiticeiro ∗kat . 111. Dar ∗ami . 112. Dente, bico ∗jat . 113. Dormir ∗upe . 114. Engolir ∗tak . 115. Escorpião ∗okin . 116. Espinho, agulha, anzol ∗api . 117. Espírito, alma de defunto ∗ojam . 118. Espirrar ∗atem . 119. Esteira ∗wi . 120. Excrementos, fezes ∗amon . 121. Faca, instrumrento de ferro ∗kit . 122. Fogo, lenha ∗te . 123. Formiga-da-castanha ∗uin . 124. Fruta-tuturubá ∗apan . 125. Fumaça ∗wi . 126. Grávida ∗anin . 128. Irmã mais velha ∗uwe . 129. Irmã(o) mais novo(a) ∗at a . 130. Irmão mais novo ∗atin . 131. Irmão mais velho ∗aji . 132. Jacamim ∗eum . 133. Jacaré ∗apop . 134. Macaco-de-cheiro amarelo ∗otsiw . 136. Mãe ∗na . 135. Mandioca ∗akop . 137. Mato, terra firme ∗omi . 138. Medo, temer ∗jin . 139. Morcego ∗naw . 140. Morrer, morto ∗mi . 141. Mosquito-catoqui ∗kan . 142. Muito ∗ami . 143. Mutum ∗otin . 144. Nariz ∗utul . 145.Noite ∗tsim . 146. Nome
+
+58
+
+ANGENOT & ANGENOT-DE LIMA
+
+∗uwit . 147. Ombro ∗apam . 148. Osso, perna ∗atat . 149. Pacu (peixe) ∗ojop . 150. Pai (meu) ∗te . 151. Palmeira-açai ∗am . 152. Palmeira-bacaba ∗ji . 153. Palmeira-buruburu ∗ona . 154. Palmeira-marayau ∗apa . 155. Palmeira-najá ∗odzip . 156. Palmeira-real / buriti ∗okon . 157. Pássaro, ave (geral) ∗ume . 158. Peito, torax ∗kim . 159. Peixe (geral) ∗ham . 160. Peixe-jeju ∗owam . 161. Pium, borrachudo ∗mi . 162. Porco, caititu, capivara ∗awan . 163. Povo, clã, espécie ∗oo . 164. Quebrar ∗kat . 165. Sangue ∗awik . 166. Seringa, borracha ∗pik . 167. Sogro ∗api . 168. Tamandua-mirim ∗pik . 169. Tio (= esposo da tia) ∗apo . 170. Tu, você ∗awum . 171. Tucano ∗ewu . 172.Umbigo ∗ook . 173. Urina ∗utut . 174. Urinar ∗ t/a . 175. Vasilha feita de cacho de palmeira ∗ja . 176.Verdadeiro ∗ii . 177. Verruga ∗wit . 178. Viver, haver, existir ∗oma .
+
+5.2.1.2. Sem oclusão glotal 179. Abacaxi, ananas ∗katin . 180. Abelha (geral), mel ∗tawi . 181. Abelhalambeolho, seu mel ∗totik . 182. Abotoar ∗haam . 183. Acabar ∗tikat . 184. Andorinha 1 ∗toaw . 185. Andorinha 2 ∗muin . 186. Animal (geral), peixe ∗pati . 187. Aranha caranguejeira ∗pwan . 188. Arco (geral) ∗paV . 189. Arco pequeno (esp.) ∗mapip . 190. Arranhar, coçar ∗p tak . 190. Árvore (geral), madeira, pau ∗pana . 191. Árvore-itaúba ∗nopon . 192. Árvore-rochinha ∗kawa . 193. Asa ∗tpat . 194. Assar na brasa ∗wti . 195. Barro ∗totam . 196.Batata-cará ∗madzan . 197. Boca, lábios ∗topak . 198. Bocejar ∗kat/at . 199. Borduna, cacete, porrete ∗mapaw. 200. Boto ∗kat/kaw . 201. Braço ∗tpan . 202. Branco, cor clara, aurora ∗towa . 203. Breu (de jatobá), luz ∗naan . 204. Broca do tucumã ∗mowaw . 205. Cacau ∗kenum . 206. Caminho, estrada ∗wana . 207. Caranguejo ∗meku . 208. Carrapato grande ∗katin . 209. Carvão vegetal ∗tajin . 210. Castanha, noz do Brasil ∗toke . 211. Cera (de mel, de ouvido, etc.) ∗takat . 212. Cerca, cercado ∗tawit . 213. Cesta (geral) ∗topop . 214. Chifre ∗p ti . 215. Chuva, inverno ∗t owi . 216. Cócegas ∗kata/ ok . 217. Cogumelo (esp.) ∗oaw . 218. Cordão, corda, linha, fio ∗mokon . 219. Criança recém-nascida ∗p je . 220. Criar um bicho, domesticá-lo ∗wna . 221. Cujubim ∗ppon . 222. Cuspir ∗topin . 223. Cutia, aguti ∗tapiw . 224. Deitar-se ∗tt /im . 225. Derrubar frutas com um pau ∗kotok . 226. Descer, abaixar ∗kji . 227. Dizer, falar ∗tom i . 228. Envira (esp.), chifre ∗tataw .229. Errar um alvo com flecha ∗puek . 230. Esperar, aguardar ∗wnim . 231. Farinha ∗moo . 232. Feder, mau cheiro ∗kunu . 233. Flecha (geral) ∗kwo . 234. Flecha pequena, para criança (esp.) ∗kawa . 236. Frio (ter) ∗kpin . 237. Frutamurisi ∗towan . 238. Fruta-pama ∗watam . 239. Gordura, banha ∗mapom .240. Grande, gordo ∗k/haa . 241. Inchar, fermentar, causar ingua ∗too .242. Índio de tribo inimiga ∗waam .243. Insosso, sem sal ∗kama . 244. Jiboia ∗pan . 245. Lamber ∗kedzek . 246. Macaco-prego ∗jowin . 247. Macaco-saguim ∗tapan . 248. Marido,esposo ∗tati . 249. Milho 1∗mapak . 250. Milho 2 ∗kaaw . 251. Mucura (esp.) ∗watik . 252. Mutuca grande ∗pti . 254. Onça, jaguar, cão
+
+PROTOCHAPAKURA
+
+59
+
+∗knam . 255. Paca ∗mkop . 256. Pai (meu) ∗tata . 257. Palha, cobertura de casa ∗tapot . 258. Palmeira-carundaí ∗koan . 259. Palmeira-totai ∗p tsi . 260. Pamonha ∗kapam . 261. Papagaio-curica ∗towin . 262. Papagaio-moleiro ∗kawit . 263. Pé ∗katim . 264. Pedra, rocha ∗pkun . 265. Peixe-cará ∗takaw . 266. Pele, couro, casca ∗topan . 267. Pênis ∗jkat . 268. Pentelho, pelos pubianos ∗padzaw . 269. Pequeno ∗wjam . 270. Pintar, escrever ∗maam . 271. Piranha (esp.) ∗koki . 272. Ponte, grelha para moquear ∗ktam . 273. Porco, queixada ∗mjak . 274. Porco-espinho, ouriço ∗p tsop . 275. Preguiçoso ∗tawan . 276. Preto, negro ∗mtem . 277. Pus, infecção, tumor ∗mowin . 278. Queixo ∗hoam . 279. Quoatipuru, esquilo ∗pam . 280. Rabo, cauda ∗kpun . 281. Raiva, bravo ∗mana . 282. Raspar com faca ∗wjak . 283. Rede ∗tjat . 284. Remo ∗koa . 285. Rir, sorrir ∗tatsam . 286. Roça, plantar ∗t tot . 287. Rosto, frente, face ∗natan . 288. Roubar,ladrão ∗mawi . 289. Sapo (esp.) ∗waki . 290. Seguir o rastro ∗tpo . 291. Seiva, esperma, secreção vaginal ∗waak . 292. Sol ∗komeN . 293. Taquara (esp.), flecha (esp.) ∗papat . 294. Tartaruga, tambor de caucho ∗towa . 295. Tatu comum ∗kaa . 296. Tatu gigante (esp.) ∗pkot . 297. Unha, garra, trairá (peixe) ∗tkin . 298. Urucum, paus para produzir fogo ∗mawin . 299. Vento ∗papop . 300. Vermelho, maduro 1 ∗paka . 301. Vermelho, maduro 2 ∗kotem . 302. Vir, chegar ∗maki .
+
+5.2.2. Onset complexo 304. Arara vermelha pequeno ∗taamin . 305. Bambu, taboca ∗t aakom . 306. Cabelo branco ∗taapo . 307. Chicha ∗taakop . 308. Fígado, palmeira-patua, surubim ∗taawan .
+
+6. Discussão de dois processos diacrônicos de ressilabação 6.1. A derivação das oclusivas pré-glotalizadas wari Entre os étimos dissílabos, destaca-se um sub-conjunto formado por 102 itens cujo onset da primeira sílaba é uma oclusiva glotal. Apenas neste sub-conjunto, observa-se o apagamento da silaba leve [ / V $ ] em boa parte das formas cognatas atuais.
+Hipotetizamos que todos os lexemas monossílabos Protochapakura derivam de lexemas dissílabos iniciados por oclusão glotal, os quais, por sua parte, resultariam do enfraquecimento de consoantes não-glotais, numa época remota pré-Protochapakura. Teríamos tido a seguinte deriva diacrônica: CV$σ > /V$σ.
+Identificamos dois processos diferentes que levaram à supressão da sílaba leve */ V$. Um desses processos enfraquecedores é engatilhado pela queda da glotal ( #/V$ > #V$ ). Isso é evidenciado por uma realização alofônica que ocorre freqüentemente em início de enunciado. Neste contexto, a oclusão glotal fica quase sempre apagada, produzindo uma nova estrutura fonotática superficial, que continua ausente na subjacência. Assim, por exemplo, em Moré, uma palavra como ‘anum’ / /çBi˘ / realizase [ U»Biè˘ ] com apagamento da oclusão glotal em início de enunciado mas [/U»Biè˘] com
+
+60
+
+ANGENOT & ANGENOT-DE LIMA
+
+manutenção da oclusão glotal6 dentro do enunciado. O outro processo enfraquecedor é engatilhado pela queda da vogal ( #/V$ > #/$ ), o que causa uma ressilabação da glotal que se funde com a consoante seguinte para pré-glotalizá-la. Em Wari’, por exemplo, a
+sílaba leve iniciada por oclusão glotal do dialeto Oro Mon, sofre geralmente um
+
+processo de apagamento no dialeto Oro Não. Contudo, nos registros mais articulados, a oclusão glotal mantém-se parcialmente na forma de uma pré-glotalização7 do onset da
+sílaba pesada seguinte. Esta pré-glotalização desaparece por sua vez em registro
+fonoestilístico rápido e relaxado. Assim, temos, por exemplo: [ /a(»koèm ] > [ »/koèm ] > [ »koèm ] ’água’.
+
+U
+
+U
+
+U
+
+U
+
+σ
+
+σ
+
+1
+
+2
+
+σ
+
+σ
+
+σ
+
+2
+
+2
+
+2
+
+μ
+
+μμ
+
+μμ
+
+μμ
+
+μμ
+
+X XX X X X X X X
+
+X XX
+
+XX X
+
+r rr r r r r r r
+
+rr r
+
+rrr
+
+r1 r2 r3
+
+r1 r2 r3
+
+[/] [a(] [k] [o] [m] > [/] [k] [o] [m] > [/k ] [o] [m] > [k] [o] [m]
+
+(1)
+
+(2)
+
+(3)
+
+(4)
+
+Em (01), a configuração auto-segmental simbolizada pela vogal [a(] dissocia-se de seu nódulo de raíz (r), de tal modo, que, por um tipo de efeito de dominó, são
+sucessivamente eliminados, por dissociação ou desancoragem, os nódulos da posição (X) no ‘tier’ dinâmico, da mora (μ) e da sílaba (σ1). O nódulo de palavra (U) é preservado pela sua associação com a segunda sílaba (σ2). Enfim, com a supressão de σ1, a oclusão glotal perde sua posição de onset e se torna um segmento flutuante.
+Em (02), a configuração auto-segmental simbolizada pela glotal [/] dissocia-se de seus nódulos de raíz (r) e de posição (X) flutuante, para reassociar-se à parte inicial da
+raíz seguinte (r1), da qual a oclusiva velar [k] se dissocia. Contudo, [k] continua
+
+6 Na realidade, de acordo com Ladefoged & Maddieson (1996), a oclusiva glotal é raramente uma verdadeira oclusiva. Geralmente realiza-se apenas como um som quase oclusivo, não-explodido e emitido com um leve ruído. Freqüentemente, a oclusiva glotal chega mesmo a realizar-se, em posição intervocálica, como uma aproximante glotal sonora rangida, simbolizada como [∗], ao invés de [/] . 7 (Veja apêndice I.)
+
+PROTOCHAPAKURA
+
+61
+
+associado às partes central (r2) e final (r3) da raíz, a qual, convém lembrar, corresponde à fase de tensão articulatória, que é situada entre as fases de catástase (‘onset’) e de metástase (‘offset’ ou soltura)8. Pela aplicação de (02), a oclusiva [k] que ocupava o onset da sílaba torna-se a oclusiva pré-glotalizada [/k].
+Em (03), a glotalização dissocia-se da parte inicial da raíz seguinte (r1), à qual se reassocia a oclusiva não-glotal. Pela aplicação de (02), a oclusiva [k] volta a ocupar toda a extensão da raíz (r).
+6.2. Derivação das fricativas sibilantes Moré e Kuyubi Na pronúncia maxiarticulada de certas línguas Chapakura, como o Miguelenho e o Oro Win, há um número reduzido de lexemas monossílabos e dissílabos cujo ‘onset’ silábico foge do padrão comum que é monoconsonantal e atesta um grupo consonantal formado por uma oclusiva alveolar seguida por um tepe alveolar, ou seja, [tR]. Nos registros menos articulados, este grupo consonantal dá lugar a uma oclusiva africada cuja soltura, que é fricativa-’tap’ surda, domina o ‘overlap’ intersegmental que forma com a catástase da vogal seguinte, ou seja, [tR3*].
+Nos cognatos correspondentes de outras línguas, principalmente dos dialetos Wari’, a situação é mais complexa e revela a atuação de um processo enfraquecedor que se manifesta através de variantes fonoestilísticas (cf. Maeda 1997). De modo geral, o que se observa é, em registro maxiarticulado, a presença de uma minivogal embutida no meio do grupo consonantal acima descrito, cujo timbre é sempre um eco do da vogal nuclear seguinte. Contudo, em registro um pouco menos articulado, este elemento vocálico enfraquece-se em um minischwa [´], chegando a desaparecer perceptualmente no registro miniarticulado.
+Finalmente, os reflexos correspondentes nos cognatos das línguas Moré e Kuyubi são simples fricativas, respectivamente alveolar [s] e pós-alveolar [S].
+Identificamos a única escala processual possível, que, a partir do Protochapakura, situa, de modo natural, cada um dos reflexos acima mencionados no seu elo diacrônico específico. Ressaltamos a importância dada, para cada língua, à hierarquia das variantes fonoestilísticas, baseadas nos registros de ‘tempo’ e hipoarticulação crescentes, que fornecem os indicadores mais sólidos da direção evolutiva dos processos, motivada pelas refonologizações perceptuais de realizações fonéticas miniarticuladas (cf. Angenot & Istre 1985).
+Apresentamos, a seguir, um quadro de exemplos que sintetiza a descrição exemplificada do processo diacrônico em discussão. Cada mudança histórica, identificada através dos reflexos atuais, será interpretada sob a forma de regras autossegmentais (cf. Clements & Hume 1994) que integram conceitos próprios aos modelos de Fonologia Transsegmental de Angenot (1995, 1996), de Fonologia Articulatória de Browman & Goldstein (1990), tais como a associação em trechos da raíz e do ‘overlap’ coarticulatório, e de Fonologia Experimental (Ohala & Jaeger 1986).
+
+8 (Veja apêndice II.)
+
+62
+
+ANGENOT & ANGENOT-DE LIMA
+
+PROTOCHAPAKURA: / * t V R V /
+
+WARÍ →
+
+MIGUELENHO → e ORO WIN
+
+MORÉ →
+
+KUYUBI
+
+[ t Vα R Vα ] maxi-
+articulado
+
+/t V RV/ [ t ´ R V ] [ t )( R V ]
+
+normal
+
+mini-
+
+articulado
+
+1
+
+2
+
+taRa»min
+
+t´Ra»min
+
+arara
+
+»/tIRim
+
+» /t´®im
+
+maloca
+
+taRa»wan
+
+t´Ra»wan
+
+fígado
+
+taRa»ho´9
+
+t´Ra»ho˘
+
+cabelo branco
+
+taRa»kop|
+
+t´Ra»kop|
+
+chicha
+
+taRa»kom
+
+t´Ra»kom
+
+taboca
+
+3 t)(Ra»min » /t)(Rim t)(Ra»wan t)(Ra»ho˘ t)(Ra»kop| t)(Ra»kom
+
+/ tRV/ [ t R V ] [ tR*3 V ]
+
+maxi- normal e
+
+articulado mini-
+
+articulado
+
+4 tRa»min
+
+5 tR*3a»min
+
+» /tRim
+
+/a»tR*3im
+
+tRa»wan tR*3a»wan
+
+tRa»ho˘
+
+tR*3o»3ho3˘
+
+tRa»kop|
+
+---
+
+tRa»kom
+
+---
+
+/ ts V / [ ts V ]
+
+/sV/ [ sÀ V ]
+
+maxi-
+
+todos os
+
+articulado registros
+
+(variante rara)
+
+6 tsa»min
+
+7 sa»mWin
+
+/a» tsim
+
+/a»siÀ m|
+
+tsa»wan
+
+sa»wan
+
+tso»3ho3˘
+
+soÀ »po[l
+
+---
+
+sa»kop|
+
+---
+
+sa»kom
+
+/SV/ [SV] todos os registros
+8 Sa»min
+/a»Sim
+Sa»wan
+So»po[l
+Sa»kop|
+Sa»kom
+
+Regras de mudança fonológica: Em relação às regras apresentadas abaixo, convém salientar os seguintes pontos: (a) as configurações geométricas dos traços dominados pelas raízes, r, não foram
+explicitados por motivo de economia espacial e foram sintetizados convencionalmente pelos símbolos fonéticos, obviamente monolíticos, que representam os segmentos inteiros; (b) como foi mencionado acima, nosso modelo não-linear difere do modelo clássico de Geometria de Traços pela incorporação na estrutura de um ‘overlap’ intersegmental (ou, melhor, interradical), simbolisado por o, que tem as mesmas prerrogativas associativas que as próprias raízes; (c) lembramos que tanto a raíz, r, como o ‘overlap’, o, podem ser subdivididas em quantas subpartes, r1,…,rn ou o1,…,on, for necessário para a explicação de um processo; (d) por motivo de economia, a constituição geométrica de um overlap (ou de uma subparte) não é explicitado, a não ser que seja pertinente para a explicação pormenorizada de um processo;
+
+PROTOCHAPAKURA
+
+63
+
+(e) a inclusão da mora, μ, serve para identificar o peso silábico. Quando a mora é opcional, está colocada entre parênteses. Observa-se que a silába embutida no onset, seja ela flutuante ou não, não entra no cáculo do peso silábico.
+
+Regras 01 e 02: atualizações maxi e médioarticuladas da vogal embutida:
+
+t V R V > t Vα R Vα (01)
+
+Em registro maxiarticulado, a primeira vogal deixa de ser flutuante para tornar-se uma réplica da vogal seguinte. Considerando-se que, em primeiro lugar, o timbre da primeira vogal não tem origem própria mas é determinado pelo da vogal seguinte, que, em segundo lugar, essas duas sílabas compor tam-se acentualmente como uma única sílaba, e que, em terceiro lugar, as realizações atestadas em registros menos articulados revelam a extrema fragilidade da vogal-eco, explicamos a primeira etapa evolutiva do processo pelo fato de que a vogal flutuante subjacente é o núcleo de uma sílaba embutida dentro do onset da sílaba, cujo núcleo é a vogal seguinte. (cf. Jetchev 1992; Lima Angenot & Angenot 1997).
+t Vα R Vα > t ´ R V (02)
+
+Em registro relativamente casual, a vogal-eco perde sua cromacidade original e torna-se a vogal neutra schwa, universalmente conhecida como o último sopro de vida de uma vogal antes de seu apagamento.
+
+σ
+
+σ
+
+O
+
+R
+
+σ
+
+O
+
+R
+
+σ
+
+OR
+
+μ (μ)
+
+X
+
+X
+
+XX
+
+r o r o ro r
+
+OR
+
+μ (μ)
+
+X
+
+X
+
+XX
+
+r o r o ro r
+
+[t]
+
+[R] [Vα]
+
+> (01) [t]
+
+[Vα] [R] [Vα]
+
+> (02) [t]
+
+[´]
+
+[R] [Vα]
+
+A configuração geométrica de traços simbolizada por [Vα] associa-se à raíz flutuante, a qual, assim, deixa de ser subespecificada, tornando-se pronunciável sob a forma de uma vogal-eco, que enfraquece-se em um mini-schwa em registro articulatório mais relaxado.
+
+Regra 03: atualização miniarticuladada da vogal embutida: t ´ R V > t )( R V (03)
+
+64
+
+ANGENOT & ANGENOT-DE LIMA
+
+Em registro miniarticulado, a vogal neutra schwa desaparece quase totalmente, manifestando apenas a ‘lembrança’ de sua presença subjacente sob a forma de uma zona de no man’s land intersegmental que impede a coarticulação do ‘offset’ da oclusão alveolar de [t] e do ‘onset’ de [R].
+
+σ
+
+σ
+
+O
+
+R
+
+O
+
+R
+
+σ
+
+O
+
+R
+
+μ (μ)
+
+μ (μ)
+
+X
+
+X
+
+XX
+
+X
+
+X
+
+X
+
+r
+
+oα r oβ r o r
+
+r oγ r o r
+
+o1 o2 o3
+
+o1 o2 o3
+
+o1 o2 o3
+
+[t]
+
+[´]
+
+[R] [Vα] > (03) [t] [)(] [R]
+
+[Vα]
+
+A configuração geométrica de traços simbolizada pela vogal minischwa [´], que é
+
+embutida no onset silábico, apaga-se por dissociação de sua raíz, dos dois terços finais
+
+do ‘overlap’ precedente 0α (do qual participa sua catástase, ou seja, 02α e 03α) e dos dois terços iniciais do ‘overlap’ seguinte 0β (do qual participa sua metástase, ou seja, 01β e 02β). O terceiro terço do primeiro ‘overlap’, ou seja 03α, e o primeiro terço do segundo ‘overlap’, ou seja 01β não sofrem nenhuma reassociação por parte das consoantes vizinhas, formando juntos uma parte central flutuante não-coarticulada, ou seja, 02γ , do novo ‘overlap’ 0γ de [t] e de [R]. Na transcrição fonética, simbolizamos por [)(] o
+
+centro não-coarticulado de um ‘overlap’. Devemos nossa interpretação a Browman &
+
+Goldstein 1990, que realizaram o estudo experimental de um caso similar.9
+
+Regra 04: supressão da sílaba embutida e surgimento de onset silábico bifonêmico:
+
+t )( R V > t R V
+
+(04)
+
+Desaparecem os resquícios flutuantes do mini-schwa, os quais, por serem localizados no espaço central do ‘overlap’ entre [t] e [R], bloqueiavam a coarticulação do ‘offset’/catástase da oclusiva alveolar surdo e do ‘onset’/metástase da oclusiva-tepe alveolar sonora. Cria-se, assim, o grupo consonantal canônico [t R].
+
+9 (Veja apêndice III.)
+
+PROTOCHAPAKURA
+
+σ
+
+O
+
+R
+
+μ (μ)
+
+X
+
+X
+
+X
+
+r o ro r
+
+o1 o2 o3
+
+O
+X ro
+
+65
+
+σ
+
+R
+
+μ (μ)
+
+X
+
+X
+
+ro r
+
+[t] [)(] [R]
+
+[Vα] > (04) [t]
+
+[R]
+
+[Vα]
+
+Os traços do ‘offset’ de [t] (já associados à parte inicial do ‘overlap’,ou seja, 01) assim como os do ‘onset’ de [R] (já associados à parte final do ‘overlap’, ou seja, 03) associamse também à parte central flutuante do ‘overlap’, 02, fazendo com que deixe de ser flutuante.
+
+Regras 05 e 06: africatização de grupo consonantal
+
+t R V > tR3* V
+
+(05)
+
+Em registro menos articulado, o grupo consonantal bifonêmico [t R] fusiona numa oclusiva africada com soltura fricativa tepizada [tR4*], monofonê mica. O novo ‘overlap’ assim criado entre esta africada e a vogal seguinte é
+
+necessariamente fricativo-’tap’, alveolar e surda, ou seja [R4*], dado que ‘in an affricate, the audible friction is a property of the overlap phase of two adjacent segments where
+
+the first is a stop and the second a resonant (Laver 1994: 365)’.
+
+tR3* V > ts V
+
+(06)
+
+O ‘overlap’ fricativo-’tap’ alveolar surdo da oclusiva africada perde sua tepização, tornando-se a africada alveolar surda canônica [ts].
+O traço oclusivo de [t] dissocia-se das partes o1 e o2 do ‘overlap’ oα, às quais se reassocia o traço ‘tap’ de [R], enquanto que a raiz deste mesmo [R] está suprimida. O novo ‘overlap’ criado entre [t] e a vogal seguinte contém a soltura fricativa alveolar tepizada [ R3* ] da oclusiva africada [tR3* ]:
+
+66
+
+σ
+
+O
+
+R
+
+μ (μ)
+
+X
+
+X
+
+X
+
+r
+
+oα
+
+r oβ r
+
+o1 o2 o3
+
+ANGENOT & ANGENOT-DE LIMA
+
+σ
+
+O
+
+R
+
+μ (μ)
+
+X
+
+X
+
+r oγ
+
+r
+
+[t]
+
+[R]
+
+[Vα] > (05)
+
+[t] [ R3* ] [Vα]
+
+> (06)
+
+[t] [ s ] [Vα]
+
+Regras 07 e 08: fricatização de africada
+
+ts > s
+
+(07)
+
+A oclusiva africada alveolar surda [ts] enfraquece-se numa fricativa correspondente.
+
+s >S
+
+(08)
+
+A fricativa alveolar surda torna-se pós-alveolar, de acordo com a direção natural do processo enfraquecedor.
+
+σ
+
+σ
+
+O
+
+R
+
+O
+
+R
+
+μ (μ)
+
+μ (μ)
+
+X
+
+X
+
+X
+
+X
+
+ro r
+
+ro r
+
+[t] [ s ] [Vα]
+
+> (07) > (08)
+
+[s]
+
+[Vα]
+
+[S]
+
+[Vα]
+
+A fricatização consiste, na realidade, de uma assimilação da fase medial de uma oclusiva africada pela sua soltura fricativa. Isso é mostrado na regra 07 através de uma dupla operação com o nódulo de raíz: uma dissociação da oclusão e uma associação da fricação.
+
+PROTOCHAPAKURA
+
+67
+
+Apêndice I (da nota no. 7)
+Quanto aos diversos tipos de oclusivas glotalizadas são freqüentemente menos familiares que as oclusivas nãoglotalizadas pulmônicas, sejam elas orais (como [ p t k ] ) ou glotal (como [ / ] ). De acordo com Ladefoged & Maddieson (1996) e Laver (1994), existem sete tipos de oclusivas glotalizadas, sendo cinco com coarticulação-fonação total (i.e., com oclusões simultâneas, glotal e oral, durante toda a fase articulatória mediana), e dois com co-articulação-fonação parcial (i.e., com oclusões simultâneas, glotal e oral, durante apenas o início da fase articulatória mediana)
+
+com co-articulação-fonação
+total
+com co-articulação-fonação
+parcial
+
+OCLUSIVAS GLOTALIZADAS
+
+Pulmônicas
+
+Plosivas
+
+/Ép /Ét /Ék
+
+‘oclusões simultâneas oral e glotal, sem levantamento da laringe’ (a)
+
+Não-pulmônicas Ejetivas
+
+p' t' k'
+
+‘oclusões simultâneas oral e glotal, com levantamento da laringe’ (b) (c)
+
+Implosivas
+
+π †˚
+
+Cliques
+
+‘oclusões simultâneas oral e glotal, com abaixamento da laringe’ (d) ká/ kñ/ k!/ kÑ/ k=/
+
+‘oclusões simultâneas oral e glotal, sem levantamento da laringe’ (e)
+
+ká' kñ' k!' kÑ' k='
+
+Pulmônicas
+
+‘oclusões simultâneas oral e glotal,
+com levantamento da laringe’ (f) Préglotalizadas /p /t /k
+
+‘cofonação de oclusão glotal parcial no início
+da articulação oral’ (g) Pósglotalizadas p/ t/ k/
+
+‘cofonação de oclusão glotal parcial no final da articulação oral’ (h)
+
+(a) Glotalizadas plosivas são atestadas em dialetos do British English (como em [pHQ/Ék|] pack, no idioleto de
+Maddieson (Ladefoged & Maddieson 1996) e em Siona (Wheeler & Wheeler 1962; Ladefoged &
+Maddieson 1996). (b) Glotalizadas ejectivas são atestadas em K’ekchi (Pinkerton 1986), em Circassian (Catford 1977) ou em Zulu
+(Laver 1994). (c) Como observa Laver (1994), tanto para as ejetivas como para as implosivas a denominação ‘laringalizada’
+seria mais apropriada que a denominação ‘glotalizada’, porque, contrariamente às plosivas glotalizadas, a
+articulação exigida envolve a laringe inteira em vez de apenas as cordas vocais. (d) Glotalizadas implosivas surdas são atestadas nas línguas Quiche do México (E. Pike 1963; Campbell 1973;
+Laver 1994). (e) Cliques glotalizados não-ejetivos, i.e. sem levantamento da laringe, são atestados em Nama (Ladefoged &
+Traill 1984) e em !Xóõ (Traill 1985). (f) Cliques glotalizados ejetivos, i.e. com levantamento da laringe, são atestados, notadamente, em !Xóõ (Traill
+1985). (g) Oclusivas préglotalizadas são atestadas em Wari’, dialeto Oro Não (MacEachern, Kern & Ladefoged 1997) (h) Oclusivas pósglotalizadas são atestadas em Wari’, dialeto Oro Não (MacEachern, Kern & Ladefoged 1997)
+
+Apêndice II (da nota no. 8)
+Laver (1994) lembra que, foneticamente, qualquer tipo de segmento compreende três fases articulatórias diferentes. No decorrer da produção, o período de alcance do grau máximo de constrição do trato vocal almejado define a fase dita medial da realização segmental (a qual, na nossa opinião, corresponde à Raíz da Geometria dos Traços). Uma fase precedente chamada ‘onset’ (catástase) corresponde à aproximação de um órgão articulador móvel na direção da fase medial, enquanto que uma fase de ‘offset’ (metástase) mostra o movimento dos órgãos na direção da fase medial do segmento seguinte, constituindo, forçadamente, uma fase transicional de ‘overlap’ com a fase de ‘onset’ desse segmento. Na fala real, as fases marginais não existem isoladamente mas estão sempre em situação de ‘overlap’, mesmo que seja com uma pausa silenciosa, a qual
+
+68
+
+ANGENOT & ANGENOT-DE LIMA
+
+equivale a um segmento mudo ‘produzido’ pelos órgãos articulatórios em posição de repouso. A figura a seguir (Laver 1994:133) ilustra as três fases articulatórias da palavra dissegmental saw [sç] ‘viu’:
+
+Apêndice III (da nota no. 9)
+Browman & Goldstein (1990) estudaram as sílabas reduzidas do inglês no registro casual que interpretam como sílabas flutuantes identificadas ‘by a skeletal X-slot - timing information - but no melodic information’. Eles mostram que, no registro casual, há uma diferença entre palavras como bray [b®´i9] ’zurro’ e beret [b®´i9] (<[b´®´i]9 < [b´®´i]9 ) ’boina’, que corresponde a uma diferença de organização co-articulatória, na fase de overlap intersegmental, entre os movimentos (‘gestures’) oclusivo labial e rótico. Dentro do overlap total, estes dois movimentos estão superpostos durante cerca de 40 ms em bray [b®´i]9 , ao passo que em beret [b®´i9], são separados por um intervalo de também cerca de 40 ms, o qual se explica pela ‘lembrança’ da ex-vogal de uma sílaba flutuante, depois que esta vogal tivesse primeiro perdido seu timbre.
+
+PROTOCHAPAKURA
+
+69
+
+Referências: Angenot, Geralda de Lima 1997a Fonotática e Fonologia do Lexema Protochapakura, [Dissertação de
+Mestrado], Guajará-Mirim: Universidade Federal de Rondônia. Angenot, Geralda de Lima & Jean-Pierre Angenot 1997 ‘A reconstrução do peso silábico e da acentuação lexical em Protochapakura’,
+in: Anais da IIIa Jornada de Linguistica Aborigen, Buenos Aires. Angenot, Jean-Pierre 1995 Fonologia Intersegmental: Tratamento Trifásico da Raíz e de suas Transições,
+[Mimeo], Guajará-Mirim: Universidade Federal de Rondônia. Angenot, Jean-Pierre 1996 ‘A Geometria da Raíz e do ‘Overlap’: Evidências intersegmentais de Línguas
+Amazônicas’, Anais do X Encontro Nacional da ANPOLL, João Pessoa. Angenot, Jean-Pierre & Geralda Angenot-de Lima em prep Essai de Reconstruction du Proto-Chapakura. Angenot Jean-Pierre & Celso Ferrarezi Jr 1997 ‘A descoberta de línguas 100% isolantes: a família Chapakura da Amazônia’,
+in: Anais da IIIa Jornada de Linguistica Aborigen, Buenos Aires. Angenot, Jean-Pierre & Giles Istre 1985 ‘The phoneme ‘in vitro’ and ‘ab ovo’’, in: J.P. Angenot, G.L. Istre, A.
+Nicolacopulos & D. Pagel (eds.) Miscellaneous Phonology 1, Florianópolis: UFSC Working Papers in Linguistics - An International Series, pp. 1-17. Browman, C.P. & L. Goldstein 1990 ‘Gestural specification using dynamically-defined articulatory structures’, Journal of Phonetics 18: 299-320. Campbell, Lyle 1973 ‘On glottalic consonants’, International Journal of American Linguistics 39: 44-46. Catford, J.C. 1977 ‘Mountain of tongues: The languages of the Caucasus’, Annual Review of Anthropology 6: 283-314. Clements, G. N. & E. V. Hume 1994 ‘The internal organization of speech sounds’, in: J.A. Goldsmith (ed.) A Handbook of Phonological Theory, Oxford: Basil Blackwell. Jetchev Georgi 1992 ‘Positions vocaliques flottantes et syllabation en français’, Quaderni de Laboratorio di Linguistica 6: 119-32; Ladefoged, Peter & Ian Maddieson 1996 The sounds of the World’s Languages. Oxford: Blackwell Publishers. Ladefoged, Peter & Anthony Traill 1984 ‘Clicks and their accompaniments’, Journal of Phonetics 22: 33-64.
+
+70
+
+ANGENOT & ANGENOT-DE LIMA
+
+Laver, John 1994 Principles of Phonetics, Cambridge University Press. MacEachern, Margaret, Barbara Kern & Peter Ladefoged 1997 ‘Wari phonetic structures’, The Journal of Amazonian Languages 1/1: 3-28. Maeda, Cláudia Teles em prep Aspectos da estrutura fonética do Oro Ew, língua da família Chapakura: uma
+abordagem acústica, [Dissertação de Mestrado], UNIR. Ohala, John J. & J. J. Jaeger (eds.) 1986 Experimental Phonology, Orlando, FL: Academic Press. Pike, Eunice V. 1963 Dictation Exercises in Phonetics, Santa Ana, CA: Summer Institute of
+Linguistics. Pinkerton, Sandra 1986 ‘Quichean (Mayan) glottalized and nonglottalized stops: A phonetic study with
+implications for phonological universals’, in: Ohala & Jaeger (eds.) Experimental Phonology, Orlando, FL: Academic Press, pp. 125-138. Traill, Anthony 1985 Phonetic and Phonological Studies of !Xóõ Bushman, Hamburg: Helmut Buske. Wheeler, Alva & Margaret Wheeler 1962 ‘Siona phonemics (Western Tucanoan)’, in: Studies in Ecuadorian Indian Languages, Norman, OK: Summer Institute of Linguistics, pp. 96-111.
+
+

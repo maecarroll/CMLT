@@ -1,0 +1,2641 @@
+GRAMATICAS ESTRUCTURALES DE LENGUAS BOLIVIANAS
+111
+
+Publicado por el Instituto Lingüístico de Verano
+en colaboraci6n con el Ministerio de Asuntos Campesinos
+y el
+Ministerio de Educación y Bellas Artes Oficialía Mayor de Cultura
+Dirección Nacional de Antropología
+
+Riberalta, Beni, Bolivia
+
+Octubre
+
+1965
+
+INDICE
+Tomo 1------------------- Quechua Guaraní Sirionó
+Tomo II-------------------Chácobo Movima Itonama
+Tomo III- ----------------- Baure Ignaciano Ese 'ejja Tacana
+
+PREFACIO
+Los rrriembros del Instituto Lingüístico de Verano gozamos ya de diez años de participación en el esfuerzo nacional para la superación social, económica y espiritual de los indígenas del país, Dispersados por la selva, la pampa, y la sierra, hemos vivido entre gentes de distintos idiomas y de costumbres exóticas, sacando n~ateriales folklóricos y datos lingüísticos y antropológicos, preparando cartillas de alfabetización e intro~ duciendo, por_medio de traducciones, las nociones fundamentales de la higiene, la instrucción cívica, y la Biblia.
+Las investigaciones lingüísticas se han adelantado ya en varios idiomas de acuerdo con los tre5 convenios siguientes:
+Con el Ministerio de Asuntos Campesinos, fechado 12 de Agosto de 1954, y confirmado por el Decreto Supremo No. 04835.
+Con el Ministerio de Educación y Bellas Artes, un Convenio Cultural, fechado 16 de enero, 1961.
+Con el lviiniste rio de Satud Pública, un Convenio Sanitario-Cultural, fechado 24 de febrero, 1961.
+Recién estarnos por iniciar el decimocuarto estudio, el cual se realizará entre los tímidos Araonas de la provincia lturralde sobre el arroyo Manupari.
+Ahora, en ocasión del décimo aniversario del Instituto Lingüístico de Verano en Bolivia, ofrecemos al Supremo Gobierno la obra, GRAMATICAS ESTRUCTURALES DE LENGUAS BOLIVIANAS, que trátase de una compilaci6n de gramáticas de diez de las lenguas autóctonas del país. Las gramáticas ocupan tres tomos. El primer tomo trata de las lenguas Quechua, Guar,aní, y Sirionó; el segundo, de las lenguas Chácobo, Movima, e Itona1na; y el tercero, de las lenguas Baure, Ignaciano, Ese 1ejja, y Tacana.
+if~vl t?~
+Director Instituto Lingüístico de Verano
+
+[blank]
+
+Explicaciones de la gramática y el glosario
+La teoría de Píke 1, que viene a ser la base de este modelo, abarca algunos conceptos que requieren las siguientes explicaciones:
+(l) Las jerarquías del lenguaje son tres: la fonolÓgica, la semántica, y la gramatical.
+(2) La jerarquía se forma de varios niveles de unidades o construcciones. Los niveles más frecuentes de la gramática son los de la oraciÓn, la cláusula, la frase. la palabra, y el morfema que es raíz o afijo. Los términos "cláusula" y "frase" se emplean en sentido especiaL La cláusula se define como construcciÓn que ocupa un puesto dentro la oraciÓn y cuyo elemento principal es el predicado. SegÚn el modelo tagmémico, la frase generalmente se define como una construcciÓn (+palabra ±palabra). Con objeto de sintetizar la descripciÓn en algunas instancias en las gramáticas de este torna, hemos considerado como frase una sola palabra (una unidad que na puede extenderse) cuando participa en la distribuciÓn de cierta clase de frases.
+(3} Cada construcciÓn se compone de tagmemas. El tagmema consta de un puesto ocupado por una clase de unidades del nivel más bajo. El término "puesto" lleva el concepto familiar del predicativo, sujeto, y objeto; es decir, que es una combinaciÓn de
+funciÓn y posiciÓn. Por ejemplo el tagmema ±S:N 1
+pro/ Cl dep consta del puesto Sujeto y de la clase de frases nominales, pronombres, y cláusulas dependientes que ocupan este puesto y a la vez manifiestan el tagmema. El tagmema se caracteriza por su ocurrencia obligatoria, señalada por+, o por la opcional, señalada por ±
+1Kenneth L. Pike, Langua.ge in Relation to a Unified Theory of the Structure of Human Behavior. Prelirninary edition, Glendale, California: Summer Institute of Linguistics, 1954.
+i
+
+de sus variaciones, su distribuciÓn, y las características que la identifican y que demuestran sus contrastes.
+(5) El término émico en oposiciÓn al ético, se deriva de la parte Última de la palabra "fonémico 11, como el ético de la palabra 11fonético 11 • La unidad se conoce por émica si contrasta formalmente con todas las otras unidades dentro del mismo patrón de_ una lengua. La unidad ética, al contrario, se conoce intuitivamente o se reconoce por medio de comparaciones con unidades semejantes en otras lenguas.
+Los términos tagmémico y tagmático son combinaciones del término 11tagmema 11 con el 11 émico 11 y "ético 11 •
+Por regla emp1r1ca las unidades gramaticales pertenecen a distintas clases émicas si estas unidades contrastan en dos características; en tal caso requieren fÓrmulas particulares. Las dos diferencias pueden ser: (1) diferencias en composiciÓn, las cuales nos obligan a escribir dos fÓrmulás, o (2) una diferencia en composiciÓn más una diferencia de distribuciÓn. Para las gramáticas de este tomo, se ha definido más precisamente la base del contraste émico, Se establece el contraste por una diferencia de distribuciÓn, juntamente con una diferencia en la clase de unidades que manifiesta un tagmema, de tal suerte que esta diferencia tiene importancia en otros niveles o se relaciona con otras distinciones émicas (por ejemplo, la distinciÓn entre las listas de los verbos transitivos e intransitivos en muchas lenguas. Cuando una sola diferencia aparece entre dos de las fÓrmulas, es de presumir que las dos contrastan así en distribuciÓn.
+Por lo contrario, el contraste émico no se establece por una diferencia en la distribuciÓn y otra diferencia en las clases de unidades que manifiestan un solo tagmema, si estas clases son principalmente semánticas. Es decir, que describimos una sola fraset N 1, que manifiesta a la vez los tagmemas Tiempo y
+ii
+
+LocaciÓn, aunque el tagmema Tiempo se manifiesta solamente por una lista de frases que incluyen palabras que indican el tiempo, mientras el tagmema LocaciÓn se manifiesta con una lista distinta de frases que incluyen palabras que indican el lugar: ... ±T:N 1/adv ±L:N l.
+(6) El modelo emplea cuadros de matrices de unidades émicas. Estos cuadros nombran en el eje horizontal una serie de distintivos contrastantes, y en el eje vertical, una serie de otros distintivos contrastantes. La unidad que ocurre en la intersecciÓn de un distintivo de cada eje, se caracteriza por los dos distintivos. Por ejemplo, en el Cuadro Il, página 9, del Tomo III, "Clases émicas de la cláusula indepE}ndiente 11 del baure, la unidad Cláusula 11 ocurre en la intersecciÓn del distintivo "Transitivo" con el Distintivo "Declarativo". La Cl 11 resulta así, a la vez, transitiva y declarativa. La misma matriz es una unidad émica, siendo una parte contrastante del patrón de una lengua particular.
+De vez en cuando empleamos la técnica de multiplicaciÓn expuesta por Pike, en que se modifica identicarnente cada unidad de una matriz (o se puede decir cada fÓrmula de un paradigma) con el resultado de que se establece otra matriz u otro paradigma correspondiente,
+(7) Las fÓrmulas de las unidades de todos los niveles se presentan en paradigmas; es decir, que cada unidad se introduce en orden tal que difiera en grado mínimo de la unidad que la sigue. De esta manera las fÓrmulas se presentan con redundancia intencional.
+Para cada clase de construcciones se pre'senta un paradigma tagmémico, un paradigma tagmático, y un paradigma de ejemplos de las construcciones, o sea un ejemplo del paradigma tagmá:tico. Las fÓrmulas del paradigma tagmémico se limitan a señalar los elementos esenciales del contraste entre construc-
+iii
+
+eiones émicas. Las fÓrmulas tagmáticas presentan todo detalle y toda variación de la construcciÓn. A veces las fÓrmulas de un paradigma tagtnémico son idénticas con las fÓrmulas del paradigma tagmático, con excepciÓn de que las fÓrmulas tagmémicas no muestran las unidades que ocurren en los puestos. En estos casos toda la informaciÓn se incluye en las fÓrmulas del tagmémico, y se omite el paradigma tagmático,
+No ha sido posible comprobar todas las combinaciones implícitas en algunas fÓrmulas. Por ejemplo, en lenguas con decenas de clases de cláusulas, con numerosos tagmemas marginales, cada tagmema manifestado por mÚltiples clases de construcciones, el nÚmero potencial de combinaciones es astronÓmico. En tales casos si ninguna restricciÓn aparece, se presume que existe toda combinación potencial.
+Cuando el orden de los tagmemas varía, se presenta en la fÓrmula solamente el orden más frecuente, y se explica las variaciones que ocurren.
+La gramática de varias lenguas incluye un tagmema de vacilación. Aunque por lo general cualquier construcciÓn en cualquier nivel puede interrumpirse con este tagmema, en estas gramáticas se muestra solamente en las construcciones donde ocurre frecuente o característicamente.
+El infijo que se ve en algunas fÓrmulas es un afijo que se intercala entre los fonemas de un morfema.
+Por lo general el orden de las fÓrmulas de un paradigma sigue columna por columna el orden de la matriz correspondiente. Dos excepciones son los paradigmas de cláusulas del sirionÓ y tacana que siguen línea por línea el orden de la matriz.
+La gramática de cada lengua empieza con la descripciÓn del más alto nivel que se puede definir
+iv
+
+formalmente dentro del discurso y procede por los niveles incluídos hasta el afijo y la raíz. Cada construcciÓn que manifiesta un tagmema en las fÓrmulas, se encuentra analizada en nivel más bajo. Si uno sigue sustituyendo las fÓrmulas de nivel a nivel, desde la oraciÓn hasta la raíz y el afijo, se puede engendrar todas y cada una de las oraciones gramaticales de la lengua.
+Explicaciones del simbolismo
+En los siguientes párrafos varios convencionalismos del simbolismo explicamos por medio de ilustraciones y notas:
+En estos tomos cada vector (línea horizontal y columna vertical) entero de la matriz se representa por un símbolo de centena, decena, o unidad. El símbolo numérico de la construcciÓn que ocurre en la intersecciÓn de dos vectores resulta una combinaciÓn de los símbolos de los dos vectores. Por ejemplo, en la mencionada matriz del baure, se designa 23 la cláusula que ocurre en la intersecciÓn de la columna 20 con la línea 03. En dicha matriz la designaciÓn Cl 20 se refiere a cualquier cláusula intransitiva, es decir a Cl 20-26. La designaciÓn C1 03 se refiere a cualquier cláusula interrogativa, es decir, a Cl 13, Cl 23, Cl 33, etc. El símbolo Cl 23 designa la cláusula intransitiva e interrogativa.
+Asimismo el símbolo 101 de una línea podría combinarse con los símbolos decenales de las columnas para formar los símbolos 111, 121, 131, etc.
+Las abreviaturas alfabéticas que simbolizan las unidades que ocupan puestos en el nivel morfolÓgico empiezan con minÚsculas, mientras las unidades de los niveles superiores así como los tagmemas de todos los niveles se simbolizan con abreviaturas que empiezan con may\isculas. Por ejemplo, el símbolo n significa nombre; el símbolo N significa frase nominal. En
+V
+
+l?L lista· de abreviaturas se presentan unicamente las formas que empiezan con mayÚscula. Las mayÚsculas en citaciones en las lenguas indígenas son símbolos morfofonémicos, los cuales se explican en la sección morfofonémica de cada gramática. El símbolo?? es el símbolo morfofonémico de la oclusiva glotal. Los símbolos morfofonémicos se emplean solamente en la morfología, excepto en casos en que el autor los considera esenciales en un nivel superior.
+
+Generalmente los símbolos de clase y nÚmero se dan juntos, con la excepciÓn de los afijos los cuales se simbolizan solamente por el nÚmero. No obstante, cuando un afijo que pertenece a cierta clase de palabra ocurre en la composiciÓn de otra clase, este afijo se indica por el símbolo de la clase más el símbolo numérico:
+
+crp vb 12 = pero,
+crp n 4 =
+
+±Caus:3217, ±Caus :afijo vb 3217.
+
+La indicaciÓn de las clases de distribuciÓn de raíces o de construcciones, así como de las clases morfofonémicas, se busca en el léxico de la lengua. Las palabras adoptadas del español generalmente se clasifican juntamente con las raíces de la lengua indígena.
+En los ejemplos en las lenguas indígenas, los contornos de la entonaciÓn se indican aproximadamente por la puntuación. Aparte de esta indicaciÓn los contornos se identifican Únicamente cuando tienen importancia en la dese ripciÓn gramatical.
+Los símbolos +(±A ±B) indican que uno solo o los dos tagmemas ocurren obligatoriamente; ~±(+A +B) indica que los tagmemas A y B opcionalmente ocurren juntos, y no el uno sin el otro¡ ±(+A ±B) indica que los dos tagmemas juntos o el tagmema A solo ocurren opcionalmente, pero el tagmema B no ocurre sin
+A; ±!+1-A indica que el tagmema A ocurre opcional-
+
+vi
+
+mente bajo condiciones estipuladas, obligatoriamente bajo otras condiciones, y que no puede ocurrir en otros casos.
+El símbolo N sin símbolo numérico señala cualquier frase nominal; el símbolo numérico en el signo N 2 lo limita a una frase determinada.
+Cuando los símbolos de puestos parecidos se distinguen por el nÚmero en las fÓrmulas tagrnémicas, se puede omitir el nÚmero en las fÓrmulas tagrnáticas a condiciÓn de que los símbolos de las unidades que manifiestan los tagmemas demuestren claramente la distinciÓn: P 22 y P 23 en fÓrmulas tagmémicas se escriben P:Vb 22 y P:Vb 23 respectivamente en las fÓrmulas tagmáticas.
+±T3 indica que el tagmema T opcionalmente se repite hasta tres veces en la misma construcciÓn. El tagmema ±T0 opcionalmente se repite indefinidamente. El símbolo super-escrito en las fÓrmulas se distingue del super-escrito en los símbolos rnorfofonémicos en que sirve solamente para diferenciar entre dos símbolos parecidos.
+±T l, ±T 2 señalan dos tagmemas contrastantes, aunque semejantes en funciÓn.
+Una serie designada por guiÓn indica el uso de cualquier miembro de la serie. Por ejemplo, el símbolo Cl 11-34 designa cualquier cláusula de nÚmero entre ll y 34. El símbolo vb a-m designa cualquier verbo entre las letras a y m del alfabeto.
+Si dentro de la fÓrmula de la Cl 11-34 ocurre otra serie correspondiente, por ejemplo si la fÓrmula
+contiene el tagrnema +P:Vb 11-34, es de presumir que
+en cada cláusula en particular el nÚmero de la frase verbal corresponde al mismo número de la cláusula. Es decir que en el ejemplo anterior el predicado de la Cl 23 se manifestaría también por la Vb 23:Cl 23 = {... P:Vb 23 .• .} .
+vii
+
+La fÓrmula +Base: r n 1/4 Res/8/r vb 10 +Cpt: r n 3 AS se lee como sigue: El tagmema Base obligatorio, manifestado por la raíz de nombre 1 u 8, o por ciertas raíces de nombre 4 de una lista restricta o por la raíz del verbo 10¡ más el tagmem.a Compuesto obligatorio manifestado por ciertas raíces de nombre 3 que seleccionan arbitrariamente las unidades de la Base con las cuales ocurren. El símbolo Res, así, se emplea para una clase ética que se reconoce en una sola situaciÓn en la gramática. La lista de raíce·s de r n 2 Res en una fÓrmula difiere de la lista de r n 2 Res en otra fÓrmula de la misma lengua.
+En el tagmema +Base:r n 2 (imo), la raíz
+citada en el paréntesis es la única que ocurre.
+viii
+
+ABREVIATURAS y SIMBOLOS
+
+Abs Ae Acd Act Actit Ad Adj Adjv Adv Advs Advt Af Afin Ag Arnp An Antevb Ap Apar Apv AS
+Aser Asp Atr Aurn Aux
+
+absoluto acompañamiento acuerdo activo actitud aditivo adjetivo adjetival adverbio adversativo advertencia afirmativo afinidad agente amplificación animado anteverbo apositivo apariencia apelativo arbitrariamente
+seleccionado asertivo aspec.to atributivo aumentativo auxiliar
+
+Ben
+e e
+
+benefactor consonante complemento
+
+Cad Car
+Caus Calh Ccl Cd Cert Cir Cit Clar Clas Cn Col Com Comp Comt Con Con e Cond Conj Cont Coop Coor Cop Corr Cp Cpj Cpt Crp Cual ix
+
+cadena caracterizado,
+característica causativo contrario al hecho conclusión coordinaci6n certificación circunstancial citativo clarificación clasificación conectivo colectivo completo comprensión comentario contenido concienzudo condición conjunción continuativo cooperativo coordinado copulativo corroboración comparativo complejo compuesto cuerpo cualificador
+
+Cuan
+De el Def Delg De m Dep Depr Der Derg Dese Desid Det Di m Dir Dis Ditrv Div Do Dub Duotr Dup Dur
+Ee Ene Enf Enfq Enton Esp Es pe Est Ev
+
+cuantitativo
+declarativo definido delegatorio demostrativo dependiente deprecatorio derivativo derogatorio descriptivo de side r ativo determinativo diminutivo direcci6n discurso ditransitivador diversificaci6n de oidas dubitativo duotransitivo duplicaci6n duradero
+ecuacional encari'fíarrrlento enfático enfoque entonaci6n especificativo especie estado evaluaci6n
+
+Ex
+
+existencial
+
+Exel exclusivo
+
+Exclam exelamatorio, exclamaci6n
+
+Exhor exhortatorio
+
+Exp
+
+expectativa
+
+Ext
+
+externo
+
+Exten extensi6n
+
+Extr
+
+extraordinario
+
+F Fe m Frag Frust Fund Fv
+
+funci6n femenino fragmento frustrativo fundamento formativo
+
+Gen Gn
+
+genitivo género
+
+Hab Habil Hip Hm
+
+habitual habilitativo hipotético humano
+
+I Id
+Ig Imper lmpv Inan lnc Inel !neo m
+
+item idéntico,
+identificaci6n interrogativo impersonal imperativo inanimado incipiente inclusivo incompleto
+
+X
+
+Incum Ind Indef Indic lndir Inf Info
+Inst Instr In ten Intens Intr Intro Intrv lO Inv It
+
+incumplido independiente indefinido indicativo indirecto infinitivo informativo,
+información instantáneo instrumento intención intensificador intransitivo introductivo intransitivador objeto indirecto invitación iterativo
+
+J
+
+juntura
+
+L, loe Lim
+
+locación
+lirni tati va, limitador
+
+M Mar Mase Mod
+Mov
+
+manera margen masculino modificación,
+modiíie a do r movinriento
+
+N Neg Neu
+
+nombre negativo neutral, neutro
+
+Nl
+Nuc Num
+
+nominal, nominalizador
+núcleo
+número, númeral
+
+o
+Obl Obs
+oc
+Onom Opt Or
+
+objeto, objetivo obligatorio observador complemento
+objetivo onomatopéyico optativo oración
+
+p Par Part Pas PC
+Ped
+Per Perc Perí Perj Perm Permn Pl Pos Posd Pospos Prepos Priv
+
+predicativo partitivo partícula pasivo complemento
+predicativo pedido de
+confirmación pe riíeria perceptivo perfecto perjudicial permisivo permanente plural posición poseído posposición prepositivo privativo
+
+xi
+
+Pro Prob Proc Prog Proh Prop Psd Ptc Ptcl Pte Ptn
+R Rad Re e Recp Red Ref Refl Rel
+Rep Res Resp
+S Sal Sat
+se
+Se e Sg Si m
+
+pronombre probabilidad procedencia progresivo prohibitivo prop6sito pasado participio participial presente
+potencial
+raíz radical recíproco receptor reduplicación referente reflexivo relación, relatado,
+relacionante, relativo repetición restricto respectivo
+
+Simul Sing Sub Subj Su e
+Sus Svd
+T Temp
+Tm Tr Trn Trv
+V Yac Val Vb Vbl V oc
+sing
+
+sujeto
+saludo satélite complemento
+sujetivo secuencia signo similaridad
+
+2 sing 3 sing l pl xii
+
+simultáneo singular subordinación subjuntivo sucesi6n,
+sucesivo sustantivo subjetividad
+tiempo temporada,
+temporal tema transitivo transici6n transitivador
+vocal vacilaci6n valuación verbo verbal vocativo
+primera persona singular
+segunda persona singular
+tercera persona singular
+primera persona plural
+
+2 pl
+3 pl
++
+"'
+
+segunda persona plural
+tercera persona plural
+obligatorio opcional
+l 2 3
+
+ausente obligatoriamente
+
+1
+
+o
+
+y
+
+{}
+
+f6rmula tagmémica
+
+[]
+
+fórmula tagmática
+
+~
+
+variaci6n bajo
+
+condiciones
+
+e stípul adas
+
+Tonos bajo medio alto
+
+xiii
+
+[blank]
+
+BAURE
+Baure1 , de la familia Arawakan, de 5000 par-
+lantes, ubicados en los ríos Blanco, Negro y San
+Mart!n del Departamento del Beni, Provincia de Iténez, Bolivia.
+1. La oración 1.1. Clases émicas de las oraciones complejas y
+coordinadas
+1.2. La oraciÓn compleja l.). La oración coordinada 1.4. El fragmento de oraciÓn 1.5. La entonación 2. La cláusula
+2.1. La cláusula independiente 2.2. La cláusula dependiente
+). La frase ).l. La frase verbal 3.2. La frase nominal 3.3. La frase locativa ).4. La frase especificativa 4. La palabra
+. l Los fonemas del baure son: p, t, e, k, ?, b, s,
+S, h, m, n, r, w, y, 1, e, a, o.
+
+2
+4.1. El verbo
+4.2. El sus tantivo
+4.J. El adverbio 4.4. La palabra de tiempo 4.5. El modificador 4.6. El conectivo 4.7. La palabra onomatopéyica 4. 8. La interrogativa 4.9. La partícula 5· La morfofonémlca
+
+Baure
+
+l.. La oraciÓn
+
+1.1. Clases émicas de las oraciones complejas y coordinadas
+
+Decl 01 Ig OJ Impv 05
+
+Compleja
+
+Cond 10
+
+Prop 20
+
+11
+
+21
+
+13
+
+23
+
+15
+
+25
+
+Coordinada
+30
+31 33
+35
+
+Cuadro I. Clases émicas de las oraciones complejas y coordinadas
+
+Baure
+
+3
+
+1.2. La oraciÓn compleJa
+
+1.2.1. Paradigma tagmémico de la oración compleja or ll ~ {±(+Sat:Cl dep lOO +Enton 2:Contorno 2)
++Nuo:Cl ind 01-02 +Enton l:Contorno 1] Or 13 = l±(+Sat:Cl dep 100 +Enton 2:Contorno 2)
++Nuo:Cl ind 01-0li +Enton ):Contorno Jl Or 15 = (±(+Sat:Cl dep 100 +Enton 2:Contorno 2)
++Nuo:Cl ind 05-06 +Enton 4:Contorno 1/4) or 21 {+Nuo:Cl ind Ol-02 +Enton 2:Contorno 2
++Sat: Cl dep 200 +Enton l:Contorno ll Or 23 = [ +Nuc: Cl ind 01-04 +Enton 2:Contorno 2
++Sat:Cl dep 200 +Enton J:Contorno Jl Or 25 = l +Nuc: Cl ind 05-06 +Enton 2:Contorno 2
++Sat:Cl dep 200 +Enton 4:Contorno 1/4)
+
+1.2.2. Ejemplo del paradigma de la oraciÓn compleja
+Or ll ~ nerÍki kaC niwÓyikinopi pétiporos 'ahora ir yo-hacer-para-usted su-arco-de-bola' (ahora yo voy a hacer un arco de bola
+para usted) • apo rokÍ?inasa pon--kowé tec nipÍrimpen noy
+kiroCáye 'si él-querer otra--hay aquel
+
+4
+
+Baure
+
+mi-pieza allÍ pozo-en' (si él quiere otro, allÍ está mi pieza en el pozo).
+Or 13 ~ kan to ka pikÍ?inow 'qué el lo-que usted-
+querer• (¿que quiere usted?).
+apo roS:ímoSa to pitÓbian--yikáciyowoni 'si él-
+llegar él su-vecino--ustedes-ir donde' (si llega su vecino, ¿a dÓnde irán ustedes?) .. Or 15 ~ pihÍnokosa to ber nitÓrari •usted-mirar este y m1-hallar' (mire éste que yo ya he hallado). ápo ropihÍkosa to kobé--Ónka Ípikowon 'si él-
+pasar el perro--no el-que-teme' (si el perro pasa, no se asuste).
+Or 21 ~ nikÍ?inow niyÍnosen--koéo to nen hiráneb
+hénokoneb •yo-querer yo-enseffar-les-porque los estos hombres buenos• (yo quiero enseñarles porque estos hombres son buenos). nÍmpaSa to neS--koéhko ti nen riSérekopow 'yo-llevar la carne--para-que la mi-
+madre ella-cocine' (yo llevaré la 0arne para que mi madre pueda cocinar), or 23 ~ moeh piwóyokosa kahápar--koéc Ónka
+
+5
+
+piCÓrosonow 'ciertamente usted-hacer
+
+yuca-lÍquido--porque no su-maíz-es'
+
+(¿ciertamente va usted a haoer bebida de
+
+yuca porque usted no tiene maíz?),
+
+yiyónopa?i--koéhko yitórakosa to yisécaneb
+
+•ustedes-ir--para-que ustedes-enoontrar
+
+los sus-hijos• (¿van ustedes a ir para
+
+Or 25
+
+encontrar a sus hijos?).
+pihénicop--koéc ber pikoéyon •usted-
+
+bueno--porque ya usted con-esposa'
+
+(sea usted bueno porque usted ya t1ene
+
+una esposa).
+
+páhokasa te netipóros--koéhko petipÓkosa tee
+
+aren 'usted-probar este mi arco-de-
+
+bola--para-que usted-flechar ese pájaro•
+
+(pruebe mi arco de bola para que usted
+
+pueda flechar aquel páJaro).
+
+l.J. La oración coordinada
+l.).l. Paradigma tagmémioo de la oraciÓn coordinada
+
+6
+
+Bau.re
+
+Or 31 [+Cd:Cl 1nd +Enton 2:Contorno 2 +Nuo:Cl ind 01-02 +Enton !:Contorno 1)
+Or 33 = [+Cd:Cl ind +Enton 2:Contorno 2 +Nuo:Cl ind 01-0Ü +Enton ):Contorno 3)
+Or 35 = (+Cd:Cl ind +Enton 2:Contorno 2 +Nuc:Cl ind 05-06 +Enton l!:Contorno 1/4)
+
+1.).2. Ejemplo del paradigma de la oraciÓn
+coordinada
+Or 31 = nehÓrikow--áCo niwÓyikow korakÓk •yo-hacer-hilo--y yo-hacer red' (yo hago hilo y hago red).
+neCón nosÓmpow teC ka?án--áCo Símonowor
+ner!ki 'anoche ellos-oyeron ese animal--y el-que-llega-está-él ahora' {anoche ellos oyeron ese animal y
+él está llegando ahora). Or 33 = napirÍ risím ti Karém nokÓpe--áoo
+yitÍ yeki?Ícopik •también ella-
+llegar Carmen ayer--y ustedes ustedescuando-venir' (también Carmen llegó
+ayer y ¿cuándo vinieron ustedes'/). bérapik to neo acopánoneb--tiwé kon to ka
+nohinoékopik 'ya-venir los esos jueces--
+
+Be.ure
+
+7
+
+pero quien el lo-que ellos-buscar-venir' (esos jueces ya vinieron pero ¿en busca de quién han venido?).
+Or 35 = nibéhapi--tiwé Ónka nikÓn1 •yo-desatar-
+usted--pero no el-que-come-me' (yo le desataré a usted pero no me ooma).
+áéo pikéw nérikikoe--áCo pimokápoe naká 'y usted-ir ahora-enf--y usted-dormir allá (y vaya usted inmediatamente y duerma allá).
+
+l.h. El fragmento de oraciÓn
+1.4.1. Paradigma tagmém1co del fragmento de
+oraciÓn
+Fragor 41 = [+Nuc:Cl dep/N/L/t/cn 1/part neg/ part sal ±Voo:n 1 o/4c/pro 1 +Enton l: Contorno 1-3}
+Frag or 42 = [+Nuo:part acd ±Voo:n 1 o/4c/pro l +Enton 5:Contorno 5}
+Fragor 43 = (+Nuo:onom +Enton 6:Contorno 6}
+1.4.2 Ejemplo de paradigma del fragmento de oración
+
+8
+
+Baure
+
+Frag or hl = enbére to nikáCoCow nti •maffana el
+m1-1r yo' (cuando yo vaya mañana). teC Ínoye topopáronow 'aquella agua-en
+suoia' (en aquella agua sucia). ber--nen 'ya--mi-madre'.
+naplrl 'también•; nte 'hola'. Frag or 42 ~ héni--ntóri 'está-bien--m.i-amigo'. Frag or 43 ~ tótorekow 'imitación del canto
+del gallo'.
+
+1.5. La entonaciÓn Tonos de la antepenÚltima, penÚltima y Última
+Contorno l deol = 2-3-1~
+Contorno 2 no-final = 2-3-2+
+Contorno 3 lg = 2-2-3 t
+Contorno 4 impv = 2-l-2t
+Contorno 5 contestaciÓn = 2-l-l /J-1-l
+Contorno 6 onom = varia según el sonido que imita
+
+2. La cláusula
+
+2.1. La cláusula independiente 2.1.1. Clases émioas de la cláusula independiente
+
+Ba.ure
+
+9
+
+Deel Ol Ex 02 Ig OJ Ig 04 Impv 05 Impv 06
+
+Tr
+
+Intr
+
+Ec
+
+lO
+
+20
+
+JO
+
+ll
+
+21
+
+Jl
+
+12
+
+22
+
+32
+
+lJ
+
+23
+
+14
+
+24
+
+J4
+
+15
+
+25
+
+16
+
+26
+
+C1t
+
+Tr
+
+l,!llr
+
+1.1-0
+
+50
+
+41
+
+51
+
+42
+
+52
+
+43
+
+53
+
+44
+
+54
+
+45
+
+55
+
+46
+
+56
+
+Cuadro II. Clases émicas de la cláusula
+independiente
+2.1.2. FÓrmula de la cláusula independiente ta.gmém1ce.
+Cl {±Mar:Mar el +Nuc:Nuc el 10-50]
+La cláusula independiente se subdivide en
+clases émicas de distribución ll-56 de acuerdo
+con la distribuciÓn y con la clase de la consturcc1Ón que ocurre en el puesto Nuc. No representamos las distintas clases de distribuciÓn en fÓrmulas, puesto que estas olases no difieren en composición.
+2.l.J. Ejemplo de la cláusula independiente
+
+10
+
+Baure
+
+Cl ind = noy tea in nerÍyow--noropikÓw to neo
+ka?ánoneb 'allÍ aquella agua ellostoman-donde--ellos-recién-venir los
+esos animales' (esos animales estaban recién yendo allÍ donde toman agua).
+kopi ikomÓrikon to mónCi 1por-qué-usted
+el-que-mata el niño• (lpor qué mató usted al n1fio?). ne soratíye--Ónka to ka kÍ?inon 'aquÍ pueblo-en--no lo-que-cual importarpersona' (aquÍ en el pueblo no hay a quien le importa). n1hÍn--Ónka Ímokon 'mi-hija--no el-queduerme' (hija mía, no duermas).
+
+2.l. 4. El margen de la cláusula in,dependiente
+
+2.1.4.1. FÓrmula del margen tagmémioo de la o:láusula independiente
+Mar el= (+(±Intro:cn 1/4-5 ±D o:part do ±Voo:N J/n 1 o/4c/pro 1 segunda, tercera persona ±Nod:Cl dep J00-400/L/n 4g-5g/
+n 4i-61/t/mod) l
+El orden de los tagmemas es libre, con la excepciÓn del tagmema Intro que ocurre al
+
+Bauxe
+
+ll
+
+principio de la cláusula. Generalmente la posiciÓn
+
+inicial de la cláusula es, de otro modo, enfática.
+
+En las cláusulas 40 y 50 el tagmema P con más
+
+frecuencia va seguida inmediatamente por el tagmema
+
+D o. En otras cláusulas el tagmema D o más frecuente-
+
+mente sigue al tagmema Intro, o al primer incidente
+
+del tagmema Mod.
+
+El tagmema Mod ocurre no más de dos veces antes,
+
+y dos veces después del tagmema Cl nuo4
+
+2.1.4.2. Ejemplos de margen de la cláusula
+
+Mar el
+
+independiente
+áCo--nerikÍ--yitÍ tekÓwon nironáneb
+
+wonow ne 'y--ahora--ustedes todos mis-
+
+padres situados aquÍ' (ahora todos
+
+ustedes mis padres aquÍ).
+napirÍ--hi--noy teé rowériye Cómpe 'también--
+
+lo-se-dice--allá que su-casa-en-grande'
+
+(y se dice que allá en la casa grande
+
+de él).
+
+tiwé--ntÓri--enbére to rosiápoCowapa to ses
+
+naká 'pero--mi-amigo--mañana el su-
+
+entrar-es el sol allá' (pero, mi amigo,
+
+mañana cuando el sol se pone allá). moeh kotÍpopin--MorÍci 'ciertamente blanco-
+
+12
+
+Baure
+
+hilo--MarÍa' (ciertamente, hilo blanco, María). pitÍ--pihÍnokiy tec kaháw •usted--usted-ver-
+donde aquel venado' (usted, donde usted
+vio aquel venado).
+
+2.1.5. El nÚcleo de la cláusula independiente
+
+2.1.5.1. Paradigma tagmémtoo del nÚcleo de la
+cláusula independiente
+Nuo ol 11 ~ {±S 1:01 dep 600/n 1-6/Esp/pro 1 ±Neg:part neg +P ll:Vb 111 ±0 1: Cl ind 34/Cl dep 600/N 1-7/Esp/pro 1)
+En esta fÓrmula y las siguientes la· persona a la cual se refiere el tagmema o 1, difiere
+obligatoriamente de la persona a la oua1 se
+refiere el objecto-sufijo que se incluye opcionalmente en el tagmema P; es decir, si el tagmema O 1 ocurre en una cláusula cuyo predicado incluye un objeto-sufijo, en este caso el objeto-sufijo es semanticamente un objeto indirecto, en tanto que el tagmema O 1 se refiere al objeto directo. (Ver 4.1) Nuc el 12 ~ (+P 12:Vb 233/n llb ±0 l:Cl ind
+34/Cl dep 600/N 1-7/Esp/pro 1 ±S l:Cl dep
+
+Baure
+
+13
+
+600/N 1-6/Esp/pro 1} Nuc ol 13; (+P lJ:vb UJ ±O l:Cl ind 34/Cl dep
+600/N 1-7/Esp/pro 1 ±S l:Cl dep 600/ N 1-6/Esp/pro 1] Nuo el 14; (+Ig 1:1g l +P l4:Vb 2JJ/n llb ± O l:Cl ind )4/Cl dep 600/N l-7/Esp/pro l ±S l:Cl dep 600/N l-6/Esp/pro l] El ig 1 que manifiesta el tagmema Ig 1 concuerda
+con la construcciÓn que manifiesta cua1esqu1era de los tagmemas, O 1, o S 1, o ambos a la vez. (Ver
+4.8.1) Nuo el 15; [+P l5:Vb 115 ±O l:Cl ind J4/
+Cl dep 600/N l-7/Esp/pro l ±S 2:N l-6/ Esp/pro l segunda, tercera. persona] Nuc el 16 [+Neg:part neg +P l6:Vb 2JJ/n llb ±O l: Cl ind J4/Cl dep 600/N l-7/Esp/pro l ±S 2:N l-6/Esp/pro l) Nue el 21 (±Neg:part neg +P 21 :Vb 121 ±S l:Cl dep 600/N l-6/Esp/pro 1) Nue el 22 [+P 22:Vb 234/n l2b ±S l:Cl dep 600/ N l-6/Esp/pro l) Nue el 2J [+P 2J:Vb l2J ±S l:Cl dep 600/N l-6/ Esp/pro l)
+
+14
+
+Baure
+
+Nuc el 24 ~ {+Ig 2:1g 2 +P 24:Vb 234/n l2b ±S 1:C1 dep 600/N 1-6/Esp/pro 1}
+El ig 2 que manifiesta el tagmema Ig 2 con-
+cuerda con la construcciÓn que manifiesta el
+tagmema S l.
+Nuc el 25 ~ [+P 25:Vb 125 ±S 2:N 1-6/Esp/pro 1
+segunda, tercera persona}
+Nuc el 26 ~ f+Neg:part neg +P 26:Vb 234/n 12b ±S 2:N 1-6/Esp/pro 1 segunda, tercera persona}
+Nuc el 31 ~ [+P 3l:Vb 231/n/pro 1 ±O 2:C1 dep 600/N 3-6/10-11/Esp/pro 1}
+Nuc el 32 ~ {+Neg:part neg +P 32:Vb 232/N 7 ±0 2:Cl dep 600/N 3-6/10-11/Esp/pro 1}
+Nuc el 34 f+Ig 3:1g 3 +P 34:N 3-7/10-11/Esp ±O 2:Cl dep 600/N 3-6/10-11/ESp/pro 1/ ig 3 ±S l:Cl dep 600/N 1-6/Esp/pro 1/
+ig 3]
+Cualquiera de los tagmemas S u O 2 ocurre en
+relaciÓn de portamantas con el tagmema Ig J. Nuc el 41 [+Cit:Dis +p 4l:Vb 141 ±O l:C1 ind
+34/Cl dep 600/N l-7/Esp/pro l ±S 1: Cl dep 600/N 1-6/Esp/pro l}
+
+Baure
+
+15
+
+En ésta y las siguientes fÓrmulas, el discurso que manifiesta el tagmema Cit se interrumpe opcionalmente por otros tagmemas del nÚcleo de la cláusula. I'lás frecuentemente se interrumpe después
+de la primera palabra del discurso. Nuc el 42 {+P 42:Vb 235/n llb (kiéóno) ±O l:
+Cl ind J4/Cl dep 600/N 1-7/Esp/pro 1 ±S l:Cl dep 600/N l-6/Esp/pro l +Cit:Dis] Nuc el 43; {+P 4J:Vb 143 ±O l:Cl 1nd )4/Cl dep 600/N 1-7/Esp/pro l ±S l:Cl dep 600/ N 1-6/Esp/pro l +C1t:D1s] Nuc el 44 {+Ig l:ig 1 +P 44:Vb 235/n llb (kiéóno) ±O l:Cl ind 34/Cl dep 600/N l-7/Esp/pro l ±S l:Cl dep 600/N l-6/Esp/pro l +Cit:Dis] El 1g 1 que ~anif1esta el tagmema Ig l concuerda
+con la construcciÓn que manifiesta cualesquiera de los tagmemas O 1 o S l o ambos a la vez.
+Nuc el 45 {+Cit:D1s +P 45:Vb 145 ±O l:Cl ind 34/Cl dep 600/N 1-7/Esp/pro l ±S 2: N l-6/Esp/pro l segunda, tercera persona]
+Nuc el 46 {+Neg:part neg +P 46:Vb 235/n llb (kiéóno) ±O l:Cl 1nd )4/Cl dep 600/N l-7/ Esp/pro 1 ±S 2:N l-6/Esp/pro l segunda,
+
+Baure
+tercera persona +C1t:D1s] Nuc ol 51 (+Cit:Dis +P 51:Vb 151 ±S 1:C1 dep
+600/N 1-6/Esp/pro 1] Nuc el 52~ (+P 52:Vb 236/n 1.2b (kéwono) ±S 1:
+Cl dep 600/N 1.-6/Esp/pro 1 +C1t:D1s}
+Nuc el 53~ [+P 53:Vb 153 ±S 1:C1 dep 600/n 1-6/ Esp/pro 1 +Cit:Dis}
+Nuo el 54 (+Ig 2:1g 2 +P 54:Vb 236/n 12b (kéwono) ±S l:Cl dep 600/N 1-6/Esp/pro 1 +C1t:D1s}
+El 1g 2 que ~an1f1esta e1 tagmema Ig 2 concuerda con la construcciÓn que manifiesta el tagmema S 1. Nuc cl 55 (+C1t:D1s +P 55:Vb 155 ±S 2:N 1-6/
+Esp/pro 1 segunda, tercera persona} i<uc cl 56~ (+Neg:part neg +P 56:Vb 236/
+n 12b (kéwono) ±S 2:N 1-6/Esp/pro 1 segunda, tercera persona +Cit:Dis} El orden más frecuente de los tagmemas es aquel que se da en el paradigma precedente. No obstante, varía frecuentemente excepto en los siguientes casos: (1) el tagmema Neg ocurre siempre lnmediatamente antes del tagmema P; (2) e~ tagmema Ig del Nuc el ig 04 ocurre invariablemente al principio,
+
+Baure
+
+17
+
+2.1.5.2. Ejemplo de paradigma del nÚcleo de la cláusula independiente
+Nuc el 11 to siyé--rohÍnokopaw--kon to rámpikow teG toéroker 'el zorro--él-
+ver--lo-que el él-traer-venir que campo-hombre• (el zorro estaba mirando
+lo que el agricultor estaba trayendo). nti--Ónka--nipápi--to nihÍkoÓ •yo--no--
+yo-dar-usted--el mi-cuchillo' (yo no le daré a usted mi cuchillo). porÓk--riámen--teé 'nunca--ella-llevar-
+los--aquello' (ella nunca llevó
+aquello a ellos).
+Nuo el 12 = wéóon--to neé--te hir aéów to ropÍri
+'el-que-pelea--el aquellos--esto hombre y el su-hermano• (este hombre
+y su hermano están peleando con
+aquellos).
+Nuc el 13 ~ roponoekÍyowon1--to Oor--teG niSir
+•él-sembrar-donde--el maíz--que mi-hijo' (¿dÓnde sembrÓ mi hijo el maÍz?). yitÓrakiyowoni--to ka yinÍk •ustedesencontrar-donde--el aquello-que ustedes-
+
+18
+
+Baure
+
+comer' (¿dÓnde encontraron ustedes aquello que están comiendo?). Nuo el 14 koropi--poékon •¿por qué-a-él-usted-el-que-permite?' (¿por qué le permite'/) • amopi--kÍ?inonow~-to rehtipoékopasa to arén 'por qué-no-usted--el-que-quierees--el él-flechar el pájaro' (¿por qué no quiere usted que él fleche al pájaro?). Nuo el 15 rohinoékoSa--to mÍsi--rot! •é1buscar--el gato--él• (que él busque el gato). Nuo el 16 berék--Ípikowon--to bekiyÍri to neG. yibÍroneb 'no-jamás--el-que-teme-el dios el aquellos diablos' (nunca jamás tema al dios de aquellos diablos).
+Nuc el 21 = wokÓw--rabikÓp--teé ka?án siyé
+'no-todav!a--él-regresar--aquel animal
+zorro' (el zorro todavía no ha regresado) Ónka--nokáO--ápo rohÍn ápo réta ápo ren
+, ·r apo ros r 'no--ellos-ir--o su-hija o
+su-hermano o- su-madre o su-hijo• (ni su hija, ni su hermano, ni su madre, ni su
+hijo fueron).
+
+Baure
+
+19
+
+Nuc el 22 ~ yónonow--tic etónoci 'el-que-andaes--esa mujer-pequefia' (esa niña es una que anda).
+harékison--t1 Óapák 'claros-ojos-persona-la araña' (la araña es de ojos claros).
+Nuc el 23 ~ rikáciyowoni--ti pen 'ella-ir-donde-su-madre• (¿dÓnde fue su ma.dre1).
+Nuc el 24 kono--pÍnokian--to simÓrineb 'por quéellos--los-que-corren--los puercos' (¿por qué están corriendo los puercos?).
+amono--Símonopaw--to ah!neb 'por qué-no-ellos-el-que-lleza-están--los niños' (¿por qué no est~~ llegando los nifios?).
+l!ue el 25 yisiáp--yitÍ 'ustedes-entrar--ustedes' (entre::1 ustedes).
+Nue el 26 nÓka--1mokÓn--p1t{ •no--el-que-duerme-usted' (no duercra).
+Nuc el Jl :nÓnikowapa--ten rowér 'bonita-es-esta su-casa' (esta casa de él es bonita).
+hir--teé 'hombre--aquel' (aquel es Q~ hombre). nti--ané moemóri 'yo--vieja-persona
+viuda' (soy una persona viUda y vieja).
+
+20
+
+Baure
+
+Nuc el 32 = ó~~a--nisÍrow--ten •no--mi-hijo-es--
+
+éste' (éste no es mi hijo).
+
+wol:::Ó\•r--hÍrowor 'no-todavía--hombre-es-él'
+
+(él todavía no es un hombre).
+
+Ónka--to ka nonlk 'no--el lo-que ellos-
+
+comer' (para ellos no hay nada q_ue
+
+comer).
+
+Nuc el 34 kon--to wohÍkon--to Oóbi 'quién--el
+
+el-que-roba--la sal' (¿quién robÓ la sal'r).
+
+lwn--to ka rokÍ'?inoN--teC hir 'qué--el ese-
+
+que él-querer--ese hombre' (¿qué
+
+quiere ese hombre?).
+
+Nuc el 41 páSani ikoNélwe--rokíCow--hi--tiC
+
+etón 'usted-dar-me un-poco--él dijo--
+
+se dice--aquella mujer' ("usted me da
+
+un poco", se dice que él le dijo a
+
+aquella mujer) •
+
+nt1--rokíCowor--néromon to ka?anoneb 'yo--
+
+él-dijo-le--jefe de los animales'
+
+("yo soy jefe de los animales", le dijo).
+
+= Nuo el 42
+
+ber Ónka nikÍ?inowor--kÍ~n--hi
+
+'Ya no yo-querer-lo--el-que-dice--
+
+se-dice' ("ya. no lo· quiero", se dice
+
+Ea.ure
+
+21
+
+que él dijo). Nuc el 43 = rokÍciyowoni--to nec hiráneb--
+nitÓrakowor ne •él-deoir-donde-el estos hombres--yo-encontrar-lo aquÍ' (¿dÓnde les dijo a esos hombres, •yo lo encontré aquÍ"?).
+Nuc el 44 kopi--k!Cowonow--to nen-kaG noSim
+to yibÍroneb 'por-qué-usted--el-quedice-estar--el estos--ir ellos llegar los diablos' (¿por qué les está diciendo, "los diablos van a llegar"?). Nuc el 1.¡5 01erÍki nikácosap--pikÍc--ti pon--p1tÍ 'ahora yo-ir--usted-decir--la otrapersona--usted' {"ahora estoy yendo" 1 dÍgale a la otra persona). Nuc el 46 Ónka--kíConowor--Ónka nikotorékopaSa noy 'no--el-que-dice-es-él--no yotrabajar allá' (no le diga, •yo no trabajaré allá 11 ) • Nuc el 51 hah--rokéN--teO móná.i •sí--él-dice --aquel niño• (•sí•, aquel niño dijo). Nuc el 52 kéwon--to nirón--pámpik tec yákis 'el-que-dice--el mi-padre--usted-traer-
+
+22
+
+Baure
+
+venir aquella leña' (uno de mis padres
+
+dice, "traigame aquella leña•• ).
+
+Nue el 53 nokéyO\'r--biyÓnopoe!{Opasa pon 8oratíye
+
+'ellos-decir-donde--nosotros-end9r-
+
+abajo otro pueblo-a' (¿dÓnde dijeron
+
+ellos, "nosotros estamos yendo por tierra
+
+a otro pueblo"?). Nuc el 5~· kopi--kéwonow--kaO rohán 'por-qué-
+
+usted--el-que-dice--ir él-sanar'
+
+(¿por qué dice usted, •él se va a sanar•?),
+
+Nue el 55
+
+héni--roké--rotí 'está-bia~--él-decir
+
+--él' ( 11 está bien'', déjelo decir).
+
+Nuc el _56
+
+Ó:nk-a.--kéwon--Ónl-rm-; 'no--el-que-
+
+dice--no' (no diga, "no") ..
+
+2.2. La cláusula dependiente
+
+2.2.1. Paradigma tagmémieo de la cláusula
+
+dependiente
+
+Cl 100 = [+Cond:cn 3 +Nuc:Cl dep 01}
+
+Cl 200 = [+Prop:cn 2 +Nuc:Cl ind 01-02}
+
+Cl )10 = [+P dep:vb dep 110/140 ±O:N 1-6/Esp/
+
+pro 1 ±S:N 1-4/Esp/pro 1}
+Cl 320 = [+P dep:vb dep 120/lJ0/150
+
+±S:N 1-6/
+
+Baure
+
+2:3
+
+Cl 410
+Cl lfZO Cl 500
+c1 6oo
+
+Esp/pro l} (±T:n 4i-6i +Nuc:N 8/vb dep 210 ±O:N l-6/Esp/pro l ±S:N l-6/Esp/pro l ±L:L/adv} [±T:n 41-61 +Nuc:N 9/Vb dep 220/230 ±S:N l-6/Esp/pro l ±L:L/adv] {+P dep:vb dep 500 ~Mod:n 4i-6i/adv} (+Esp:part det +Nuc:Cl lnd ll/21)
+
+2.2.2. Eje~plo de paradigma de la cláusula dependiente
+Cl lOO~ ápo--rosímosa to hir 'al--él-llega el hombre' (sl el ho~bre llega).
+Cl 200 = koéhko--rokáC enbére •para-que--él-
+ir mañana' (para que el vaya maflana).
+koéO--ber roník to him 'porque--ya élcooe el pescado' (porque él ya come
+el pescado).
+koéC--berÍkononeb notí 'porque--pescadores
+ellos' (porque son pescadores).
+koéC--pitÍ péron 'porque--usted perezoso• (porque usted es perezoso).
+Cl JlO ~ rohÍnokly--tec--to slyé •él-verdonde--aquello--el zorro• (donde el
+
+24
+
+Baure
+
+zorro ve aquello), rikÍoiyow--rotí--ti capák 'ell~-dijo­
+donde--él--la araffa' (donde le dijo la araffa).
+= Cl 320 riábikiyow--ritÍ 'ella-regresar-
+donde--ella' (donde ella regresa). nerÍyow--to ka?ánoneb Cónokoneb 'ellos-
+beber-donde--los animales grandes• (donde los animales importantes beben).
+mÓnikiyow--to nowér to biÓonoéneb 'bonitas-
+donde--las su-casa los nuestro-paÍs-
+hombres• (donde las casas de nuestros
+paisanos son bonitas).
+Cl 410 = enbére--to ronÍkooow--to nes--tee
+'mañana--el su-comer--la carne--aquel' (maffana cuando aquel coma la carne). páhare--rotórakasa--tec arén--kákiwokoye 'dÍa-después-maffana--él-encontrar--
+aquel pájaro--selva-en• {pasado mañana
+cuando encuentre aquel pájaro en la selva).
+Cl 420 = neríki--to nikácooow--nti--soratíye
+'ahora--el mi-ir--yo--pueblo-a' (ahora cuando vaya al pueblo).
+
+Baure
+
+25
+
+to ber rosiápoCowapa--to ses 'el ya su-
+entrar--el sol' (cuando el sol estaba
+ya poniendo). pomórekoe--kowéSa--to niOóron--noy •otro-
+año--hay--el ml-maíz--allÍ' (el prÓXimo año cuando tenga maíz allÍ). risÍmosa--ti nihÍn 'ella-llega--la mi-hija' (cuando llege mi hija). Cl 500 = hÍrikonow--noy 'el-que-se-sienta--allÍ' símonow--nerÍki 'el-que-llega--ahora'
+Cl 600 ~ to--neht1poékopaéa to arén 'el--yo-
+flechar el pájaro' (mi fleahazo al pájaro). to--nokÓmoriow to cíntineb 'el--ellos-reunir la gente• (la reunión de la gente).
+
+J. La frase
+J.l. La frase verbal
+3.1.1. Paradigma tagmémioo de la frase verbal Vb 100 {±Mod 2;vb aux 700 ±Mod l;vb aux 600
++Eje:vb 10-20/40-50}
+Las frases verbales 100 se subdividen en clases
+
+26
+
+Baure
+
+Vb 111, 115, 121, 125, 141, 1u5, 151 Y 155, de
+
+acuerdo con el verbo 10-20 y 40-50 el cual manifiesta el tagme~a Eje (Ver 4.1) y con la
+
+distribuciÓn en las clá:usulas 11, 15, 21, 25, 41,
+
+~5, 51 y 55 (ITer 2.Ll, CUadro II)
+
+Vb 200
+
+[±~!od:oor n 2 (imir) +Eje:vb JO)
+
+Las frsses verbales 200 se subdividen en clases
+
+Vb 231-236, de acuerdo con el verbo JO el cual
+
+manifiesta el te.gmema Eje (Ver b .1) y con la
+
+distribuciÓn en las cláusulas Jl, J2, 12, lb, 16,
+22, 24, 26, ¡,z, 44, 4·6, 52, 51J y 56 (Ver 2.1.1,
+
+Cuadro II)
+
+J.l.2. Ejemplo de paradigma de la frase verbal La frase verbal 100 Vb 111 = Íta--rokÍ?inow--ronikÓni 'prog--
+él-querer--él-comer-me' (él está queriendo comerme).
+Vb 115 = kac--pitÍriwapa--pikárawow 'ir--
+usted-saber-como--usted-aprender'
+(usted va a saber aprender). Vb 121 = éta--rároOop 'acabar--él-subir•
+(él acabÓ de subir).
+= Vb 141 r1eb1rÍr1k--r1kÍÓowor 'ella-poco-
+
+Baure
+
+27
+
+a-poco--ella-decir-le' (ella le dijo poco a poco). La frase verbal 200
+Vb 231 = imÍr--mónOikowore 'muy--niffo-él'
+(él es muy niño). Vb 234 imÍr--berÍkonow •muy--el-que-pesca'
+(él es un pescador muy bueno).
+
+).2. La frase nominal
+
+).2.1. Paradigma tagmémico de la frase nominal
+
+N l = [±Esp:Esp/part det ±Cuan 2:n 4f ±CUan 1~
+
+n 4e +Eje:n l a-Ja/6a-l0a/l d/vb dep 300-
+
+400 ±Desc:n 4g-5g]
+
+N 2 [±Esp:Esp/part det ~cuan 2:n 4f
+
+~cuan l:n he ±Gen:n l d tEje:n 4b-5b/
+
+llb-l2b/4e/4f/4g-5g/vb dep 500 ±Dese:
+
+n 4g-5g}
+
+N3
+
+[+Eje:N 1-2/Esp +Ap:Cl dep ~00/500/n}
+
+N 4 [+Eje:N l-2 +Gen:N 10-11 ±Ap:Cl dep
+
+N5 N6 ;
+
+J00/500/n) l+(+Conj:cn 3 +Eje:N l-)) 4 }
+[+Eje:N 1-3 +Conj:cn J/5 +Cd:N 1-3]
+
+N 7; [+Esp:part det +Rel:part rel ±Conj:
+
+28
+
+Baure
+
+on 3 +Eje:n/vb} N 8 ~ \+Esp:part det ±T:t/part neg '5 ±Mod:
+vb aux 600-700 +Eje :n 7/vb dep JOO}
+N 9 \+Esp:part det ±T:t/part neg 5 ±Mod:
+vb aux 600-700 +Eje:n 8a-9a/vb dep 400} N 10-ll
+Las fÓrmulas de N 10 y N 11 se obtienen de las fÓrmulas N 1 y N 2 respectivamente por multiplicaciÓn aomo sigue: El tagmema ±Esp se reemplaza con el tagmema +Esp:part det.
+
+3.2.2. Ejemplo de paradigma de la frase nominal N 1 = to--pon--mapÍn--roSéOaneb--Cónokoneb
+'los--otros--dos--sus-hijos--grandes'
+(sus otros dos hijos grandes). to--p1mÓnikopi 'la--su-belleza' (su belleza).
+te--robekÓri 'esta--él-hablar' (esta
+palabra de él) •
+teC--roháriéoCow 'ese--de-él-atado'
+(su acciÓn de atar aquello). N 2 ~ to neo--rotfr--hiráneb 1el esos--su--
+hombres' (esos hombres de él).
+to--mapiá--nipér--simÓri--ti?áoi 'los--dos--
+mis-domesticada-posesión--puerco--
+
+Baure
+
+29
+
+pequeño' (mis dos puercos pequeffos). to--mpon 'las--tres-personas•. teO--kotorékonon •ese--trabajador'. N J = tec pári--nobekÍy to anéneb •aquella casa--
+ellos-hablar-donde la vieja-gente• (aquella casa donde hablan los ancianos). to nen hiráneb ÓÓnokoneb--aCopánoneb 'los estos hombres grandes--jueces' (estos hombres de importancia, jueces). to neC--Símonow nerÍki 'los aquellos--losque-llegan ahora• (aquellos que están llegando ahora). teO ka?án--Siyé •ese animal--zorro' (ese zorro). N 4 ~ to rowér--to Kosé 'la su-casa--él José• (la casa de José). to neC nero~Óneb--to Cíntineb--wónow noy 'los esos sus-jefes--la gente--situada allÍ' (esos jefes de la gente que están situados allÍ). to ritÍr cÓbi--ti nen--Karém 'la su sal-la mi-madre--carmen' (la sal de mi
+madre Carmen) •
+N 5 ~ ápo--rohín--ápo--réta--ápo--ren--ápo--
+
+JO
+
+Baura
+
+ros•1'r •o--su hija--o--su hermana--o-su madre--o--su hijo' (su hija o su hermana o su madre o su hijo). ápo--to éíntineb hénokoneb--ápo--to Oíntineb mehéwokononeb •o--la gente buena--o--
+la gente mala' (la gente buena o la
+gente mala) •
+N 6 = to áne--áco--to ropÍri 'la vieja-persona--
+y--el su-hermano' (el viejo y su hermano). ti Capák hárekison beyánow naká--áCo-to pon kB..'ránoneb 'la araña de-ojosclaros el-que-cuida allÍ--y--los otros animales' (los otros animales y la araña de ojos claros que era protectora allÍ).
+N 7 = to--ka--béher 'el--lo-que--el-que-
+desata' (el que desata). to--ka--ápo--roemír 'el--lo-que--o--su-
+cara' (e.quello cerca de su cara). to--ka--non:í'k 'el--lo-que--ellos-comer'
+(lo que comen). N 8 to--íta--rokÍ?inow--robékoéow 'el--prog--
+el-quiere--su-hablar' (cuando él
+
+Baure
+
+31
+
+queria hablar). to--ber--nohÍnokoC 'el--ya--su-ver'
+(cuando ellos ya habÍan visto).
+N 9 to--wÓkow--rosiápoc 'el--todavía--su-
+entrar' (cuando él todavía. no habÍa entrado). to--ber--rotÍriwapa--rohábiéoCow 1 el-ya--él-saber--su-remar' (cuando él ya sepa remar). N 10 ten--pahás--rinÍkori •ese--uno--deella-plato• (este plato de ella). N 11 = ti--etónéi--mÓnik 'la--mujer-pequeña-bon1 ta' (la niña bonita).
+
+3~3· La frase locativa
+J.J.l. Paradig:na tagmémico de la frase locativa
+Las fÓrmulas se obtienen por mult1pl1cac1Ón de la fÓrmula de N como sigue: La frase locativa 1
+Se reem~laza la construcciÓn que manifiesta el tagmema Eje de N 1 con loe 1-2. La frase locativa 2
+Se reemplaza la construcciÓn que manifiesta
+
+)2
+
+Baure
+
+el tagmema Eje de N 2 con loe )-4. La frase locativa J-4
+Se reemplaza la construcciÓn que manifiesta el tagmema Eje de N 3 y N 4- respectivamente
+cor. L 1-2. La frase locativa 5-6
+Se reemplaza la construcciÓn ~ue manifiesta el tagmema Eje de N 5 y N 6 respectivamente con L 1-J.
+L 7 = (+Eje:adv +Ap:Cl dep JOO/L 1-6}
+L 8 [ +fiel:n L'h/12h +Eje :L 1-7/n Lfi-61}
+
+J.J.2. Ejemplo de paradigma de la frase locativa
+L 1 = teO--riábinonoye--mehéwokon 'aquel-su-marido-en--mál' (en aquel mal
+esposo de ella). L 2 to--pon--bipér--típorekoye--cíoa
+'el•-otro--nuestro-domesticadaposesión--gallina-en--grBnrle' (en nuestra otra gallina ¿rnnde).
+L 3 teé nimokÓye--rimo_kÍyow ti mónGi 'aquella mi-hamaca-en--ella-dormir-donde la
+niña • (en mi hamaca donde la niña está durmiendo).
+
+Baure
+
+33
+
+L 1.; :;:: to nosóriye--to nironáneb 'el su-pueblo-
+
+en--los nis-p3.dres 1 (en el pueblo de
+
+L 5 :;::
+
+mis padres). ápo--tÍporeko~'Jenoye--ápo--rhTériye •o--
+g3.lll '18..-corral-en--G--Si.l-casq_-en 1 (en
+
+el gallinero o en su casR de Blla).
+
+L6
+
+klroCáye--áCo--wapoériye 'pozo-eü--~"--
+
+río-en' (en el ;;ozo "',_,"' en el rÍo).
+
+L7
+
+ne--rowériye Cómpe 'aQuÍ--su-casa-e~ grande'
+
+(a.q_:.tÍ en su cas8. zrande).
+
+nru{á--roSimÍy teC Siyé 'allá--él-llegar-
+
+don:ie fl.q_uel zorro' (Bllá donde aquel
+
+zorro llega) •
+
+L 8 iy:::món--soratÍye 'de--pueblo-dentro'
+
+(de dentro el pueblo). iSkón--enbére 'hast~--mañana'.
+
+J.4. L·'3. frase es'Jecificat1va
+J.4.l • .Paradigma ta.g:némico de lE frase especificativa
+Esp 1 (+Eje:pro 2} Esp 2 l+Eje:part det +Pl:pro J}
+
+Jll
+
+Bau:te
+
+3 .4.. 2. Ejemplo de parr:uligraa, de J..a. frase e:::;p·
+
+Esp 1 =
+
+pecificatiV'H ti 'esta~feEi.-J:)resente•
+
+(ésta).
+
+te 'este-~-presonte' (¿ste).
+
+ten 'este-m-prÓx.i:no' (ése).
+
+teC 1 este-m-lejos~ (aquel).
+
+Esp 2 = to nen 'los esos-cercanos' (ésos)*
+
+to neO 1 los [·Hluell.o::::-lejanos 1 (8.c-,;.1.<ellos). 4. La palabra
+
+J.:•• 1. .l:El verbo
+
+!r.l.l. El verbo indelJendiente
+
+~.1.1.1. El verbo transitivo lO
+
+l1 .l.l.l.l. El verbo transitive inflexionndo lO
+
+4.l.l.l.l.l. Paradigma tagmémico del verbo lO
+
+ve ll = \+S dep:lOOO +Base:tm vb lO ±O dep:
+
+1000 ±Enf:l2l0/(±Com:l220 ±Val:l230)}
+
+vb 15
+
+[+S dep:l002-lOOJ/1006-l007 +Base:
+
+tm vb 10 ±O dep:lOOO ±Enf:l210/
+
+(±Com:l220 ±Val:l230)}
+
+le.l.l.l.l,2. Ejemplo de paradigma del verbo 10 vb ll ; n1-biá8e-r-e 'yo -voy-a-sacar -lo -enf'
+
+)5
+(yo voy a sacarlo).
+r1-hÍnoekowo-ro-ni-S 'ella -buscar -él
+-c-al-h -val' (bien, ella habrÍe, estado buscando a él). vb 15 yi-beháSa-ni-01 'ustedes -ir-adesatar -me -en' (desáteme).
+h.1.1.1.2. El tena del verbo transitivo lO
+4. 1.1. l. 2 .1 • Paradigma tag~é:ni e o del tema del verbo 10
+tm vb 10.1 = {+Base:crp vb lOa ±Subj:2210b ±ile,_:222l ±T:22)0 ±Sucv:zzL:O ±!Lov: 225Gb ±(c-Dur:h260 é-Abs:~>27l) ± (+Perf:2260b ±D o:22ry0 ±Incum:2280b) ±Ptn:2290b ±Inst:)220b +/-Ccl:-b}
+.ón e:o.:ta fÓr:T~'V_la ~· las sir_;;uientes, Ccl es un ";;.9er t2.oneme~ en la relaciÓn de portruna.."1tas, con c--..lalquier tagoema q_ue se :::..anifiesta con nn afijo b.
++/- indica que el tagmema Ccl sig'le obligatoriamente
+"' cualquier otro afijo que :-10 sea afj jo b. El tag::netTl<::'t Ftn opclon~>cl:neEte precede el tagmema
+Incu.:n. :-;o :nas de cinco de los tag.r::1.emas opcionales
+o~urren si~ultaneamente.
+
+36
+
+13aure
+
+tm vb 10.2 ~ [+Base:orp vb lOb ±Subj:2210b ±Ben:222.1 ±T: 2230 ±Sucv:22h0 ±Hov: 2250b ±(+Dur:4260 +Abs:427l) ±(+Perf: 2260b ±D o:ZZ70 ±Incu:n:2280b) o~;;:ptn: 2290b =olnst: 3220b +Ccl:-b}
+tm vb 10.3 ~ [+3ase:crp vb 20a Hes ±Subj:2210b ±(+Ben:222l ±T:22JO ±Suo:zzl,.Q ±llov: 2250b ±(+Dur:4260 +Abs:4·27l ±[+Perf: 2260b ±D o:2270 ±Incum:2280b] ±Ptn: 2290b ±Inst:3220b)/(±Ben:2221 ±T: 2230 +Suc :221J.Q ±Mov: 2250b ±[+Perf: 226Gb ±D o:2270 ±Incum:2280b] ±Ptn: 2290b ±Inst:3220b) +/-Col:-b}
+
+!¡.• 1.1.1. 2. 2. Ej e!Ilplo de paradigma del tema del verbo lO
+tm vb 10.1 = -wóyiko-no-Sa 'hacer -para -ptn• (hará para) •
+-hinoko-pa-sa •ver -ir -ptn• (irá a ver).
+-nÍko-po-re-yo 'comer -perf -d o -inoum'
+(yendo a comer otra vez). tm vb 10.2 ~ -aciko-pik-i-ko 'visitar
+-venir -dur -abs' (sigue viniendo a visitar).
+
+Baure
+
+37
+
+-nÓ-Na-na-pa-po-l·.;o 'Emuncla.r -te:u.p -suc -ir -perf -inst' (ir a hablar por U.Y. l rato y luego irse) .
+-1::ára-~·~a.-Sa 'estudiar -te:np -ptn' (aprenderá). t':'il vb lO.J = -nra?inoko-no-,,~o 'triste -pare.
+-inst' (po~1.erse triste para). -yÓEo-pa-na.-pa-p0-1iW 'R":idA.r -te::n.p -suc -ir
+-:0erf -inst' (va a pasear por W1 rato ~ 1JJ1 lugar y luego a otro).
+
+!· .1.1.1.;. Bl c¡;_erpo iel verbo transitivo 10
+.1.1.1. J.:_. Per11di¿;:::::w t:o:-r_;:né::üco del cuerpo del
+verbo 10 crp vb 10.::.. :::: {+&>:tse:fund vb 10 Res/cor n l-7
+:.ec ~/+A",uc:lno +("Cpt 1:cor n 1-6 hes/[ Res ~l+Dur:IJ260 +Abs:11271])/ (~Du:c:L260/Dir:IJ25~ +Abs:lJ27l)} .r!:n esta fÓr!nulst y las siguientes, ±/+ indica C_;_G..e el tR.¿ne~a A1J..L. ocurre obligatoria..'TI.ente con los f1..m:lamc~1.to.': de l:J.S cL-Jf"es :norfofonémicas l y 2
+(Ver 5. 5). _¿;_..._ c;_..:-<'11 r;uier otra parte occure
+opcional::aente.
+crp vt 10.2 = [+Base:ft:nd vb 10 Res/fund n l-7 Res
+
+38
+
+Baure
+
+±/+Aum:4210 ±(+Cpt l:fund n 1-6 Res/ 8 Res ±[+Dur:4260 +Abs:4271])/(+Cpt 2: fund n 1-6 Res/8-9 Res ±Dur:4260 +Abs :427l )/(+Dur:!c260/Dir:q·251 +Abs:427l)} arp vb 10.3 ~ (+Base:fund vb 10 Res/fund n 1-7 Res ±/+Aum:!f210 ±Des1d:4220 +Svd:42JO +Ag:42~·0 ±(±Dur:4260 +Abs:l1·271)/(±Dur: 4260 +Abs:4271)} orp vb 10.4 ~ (+Base:fund vb 10 Res/fund n 1-7 Res ±/+Aum:4210 ±Dur:4260 +Abs:4271} crp vb 10.5 ~ {+Base:fund vb 10 (ni-) +Abs:4271/ Dir:4251/(+T:22JO +Suo:2240)} arp vb 10.6 ~ (+Base:fund vb 10 Res/fund n 1-7 Res ±Cpt:fund n 1-6 Res/8)/(±D1r:4253 +Instr:4272)} orp vb 10.7 ~ (+Base:fund vb 10 Rés/fund n 1-7 Res ±/+Aum:4210 +Svd:42JO +Ag:4240 ±(±Dur:4260 +Abs:4271)} arp Vb 10.8 ~ {+Indef:4100 +Base:fund vb 10 Res/ fund n 1-7 Res ±Cpt:fund n 1-6 Res/ 8 Res +Indef:L1·273]
+orp vb 10.9 = (+Base:fund vb 10 Res/fund n 1-7 Res
++(±D1r:4251 ±Abs:4271)/(+D1r:4253
+
+Baure
+
+)9
+
++Abs :4271)}
+crp vb 10.10 = f+Base:fund vb 10 (-iyono-)
+±(+Aum:4210 ±Dur:4260 +Instr:4272)/ (±Desld:4220 +Svd:4230 +Ag:4240 ± [+Dur:il260 +Abs:427l])/(+Cpt 2:fund n 1-6 Res/8 Res ±Dur:4260 +Abs:il27l)/ (+Dur:4260 +Abs:4271)] crp vb 10.11 = {+Base:fund vb 10 (-imohiri-) + (+Aum: IJ-210 +Instr:4272) /( ±Des1d:4220 +Svd:42)0 +Ag:4240 ±[±Dur:4260 +Abs: 4271))/(+Cpt 2:fund n 1-6 Res/8 Res ±Dur:4260 +Abs:4271)/(+Dur:il260 +Abs :4271)}
+La distinción entre las clases de composiciÓn 10.1-11, 20.1-!0 y JO de les cuerpos del verbo no afecta su distribución en los niveles superiores. Sin embargo estos cuerpos del verbo están subdividas arbitrariamente en las clases de
+distribuciÓn ~ Y E•
+
+4.1.1.1.J.2. Ejemplo de paradigma del cuerpo del
+verbo 10 crp vb 10.1 ~ -sÓri-eSo-ko- 'frelr -carne -abs'
+(frelr carne).
+
+40
+
+Bau:re
+
+-tóra?-aC1-ko- 'encontrar -dir -abs' (encantar en otro lugar).
+orp vb 10.2 = -póno-e-ko- •sembrar -dur -abs'
+(seguir sembrando). -katopÓ-p-aro- •sucio -aum -lÍquido•
+(ensuciar un lÍquido).
+crp vb 10.3 = -híno-so-11-no-e-ko- 'mirar
+-querer -svd -ag -dur -abs' (querer seguir pensando),
+-hÍno-no-ko- 'mirar -aum -abs' (mirar
+mucho).
+= orp vb 10.4 -bé-be-ko- 'hablar -aum -abs'
+(hablar mucho) •
+orp vb 10.5 = -ní-aci- 'comer -dir' (comer
+en otro lugar). -nÍ-wa-na- •cumer -temp -suc' (comer un
+rato y luego hacer alguna otra cosa).
+crp vb 10.6 = -ímo-wero-co 'poner -medicina
+-instr' (tratamiento con medicina).
+-pÓni-ye-Co- 'tocar -dir -1nstr' (tooar a
+ese lugar).
+crp vb 10.7 = -kÍ-k1-11-no 'querer -aum
+-svd -ag' (querer muchÍsimo). -kop-era-11-no-e-ko- 'daftar -svd -ag -dur
+
+Baure
+
+41
+
+-abs 1 (seguir daffando). orp vb 10.8 ~ -ko-bé-si- 'indef -decir -indef'
+(estar enterado). -ko-eyÍno-poe-si 'indef -ensefiar -oajo
+-indef' (ser ensefiado en el suelo). crp vb 10.9 ~ -isÓm-aoi-ko- 'quedar -dir -abs'
+(quedarse en otro lugar).
+-Símo-emiri-ko- 'llegar-antes-de-abs'
+(llegar antes de). crp vb 10.10 = -iyÓno-yono-e-Go 'hacer-andar
+-aum -dur -1nst• (haga que continÚe andando). -1yÓno-poe-ki-ko 'hacer-andar -bajo -dur -abs' (haga que siga por tierra). crp vb 10.11 ~ -1mohÍr1-k1-ko 'hacer-sentar -dur -abs' (haga que continÚe sentado). -imohÍri-hiri-co •hacer-sentar -aum -inst' (haga que se siente mucho).
+
+4.1.1.1.4. El fundamento del verbo transitivo lO
+
+4.1.1.1.4.1. Paradigma tagmémico del fundamento del verbo lO
+fund vb 10.1 ~ [+Base:r vb 11 +Fv fund 1:5201} fund vb 10.2 [+Base:r vb 12 +Fv fund 2:5202}
+
+42
+
+Baure
+
+:fillld vb 10.3 ~ 1+Base:r vb 13 +Fv :fillld 3:5203)
+fillld vb 10.4 ~ (+Base:r vb 14 +Fv fund 4:5204) :fillld vb 10.5 ~ ( +Base:r vb 15 +Fv fund 5:5205) fund Vb 10.6 ~ {+Base:r vb 16} fund vb 10.7 ~ {±Priv: 5131 +Atr:5121 +Base:
+fillld vb 10.1-6 Res/fillld n 1-6 Res} fillld vb 10.8 ~ {+caus: 5111 +Base:fund vb 10.1-7
+Res/20 .1-6 Res) fillld vb 10.9 ~ [ +Caus: 5111 ±Priv:513l +Atr:5121
++Base:fund vb 20} fund vb 10.10 ~ {±Pr1v:5131 +Atr:5121 +Caus:
+5111 +Base: fund vb 20} fillld vb 10.11 ~ {+Trv:5112 +Base:fund vb 20 Res/
+fillld n 1-6 Res}
+
+4.1.1.1.4.2. Ejemplo de paradigma del fundamento del verbo lO
+fund vb 10.1 ~ -sÍ-ri- •tostar -fv-fund' (tostar). fund vb 10.2 ~ -e-ro•- •tomar -fv-fund' (tomar). fund vb 10.3 -pá-re- 'jugar -fv-fund' (juge.r), fund vb 10.4 : -tó-ra- 'encontrar -fv-fund'
+(encontrar). fund vb 10.5 = -yí-no- 'enseñar -fv-fund'
+(enseffa.r).
+
+BalU'e
+.fund vb 10 .. 6 = -a'mo- 'llevar'. fund vb 10.7 = -kÓ-tiro- 'con -posesiÓn'
+(poseer).
+-mo-kÓ-tiro- •no -oon -posesiÓn'
+(no poseer). fund vb 10.8 = -e-n!- 'hacer -comer' {haga
+comer)"'
+-e-pÍno- 'hacer -huir' (haga hUir).
+-e-mo-kÓ-tiro- 'hacer -no -con -posesiÓn'
+(haga que no posea). fund vb 10.9 = -e-mo-kÓ-tore- 'hacer -no -con
+-trabaJar' {haga que no trabaje). fund vb 10.10 = -ko-e-méri- 'con -ha&er -escapar'
+{salvar). -mo-ko-e-mér1- 'no -con -hacer -escapar'
+(no salvar). fund vb 10.11 =-ka-topó- •trv -sucio' (ensuciar).
+4.1.1.1.5. La raíz del verbo transitivo lO (Ver 4.1.4)
+4.1.1.2. El verbo intransitivo 20
+4.1.1.2.1. El verbo intransitivo inf1exionedo 20
+
+44
+
+Baure
+
+4.1.1.2.1.1. Paradigma tagmémloo del verbo 20 vb 21 ~ {+S dep:lOOO +Base:tm vb 20 ±Enf:1210/
+(±Com:l220 ±Val:l2JO)) vb 25 ~ (+S dep:l002-lOOJ/l006-l007 +Base:
+tm vb 20 ±Enf:1210/(±Com:l220 ±Val:l230)}
+
+4.1.1.2.1.2. Ejemplo del paradigma del veTbo 20
+vb 21 = ro-emokÓpawo-ni-S 'él -dormir -o-al-h -va.l'
+(habrÍa estado durmiendo, pues). no-s!mo-e?i 'ellos -llegar -enf' (tienen
+que llegar). vb 25 = p1-kéwaporey1-Ci 'usted -ir-otra-vez -ene'
+(usted va otra vez).
+
+4.1,1.2.2, El tema del verbo intransitivo 20
+
+4.1.1.2.2,1. Paradigma tagmémico del tema del verbo 20
+tm vb 20.1 ~ [+Base:orp vb 20a ±Subj:2210b ±T: 2230 ±l~ov: 2250b ±(+Dur:4260 +Abs: 4271) ±(+Perf:2260b ±D 0:2270 ±Incum: 2280b) ±Ftn:2290b ±Refl:3210b ±Inst: 3220b +/-Ccl:-b}
+tm vb 20.2 ~ {+Base:orp vb 20b ±Subj:22l0b ±T:
+
+Baure
+2230 ±Mov:2250b ±(+Dur:4260 +Abs:4271) ±(+Perf:2260b ±D o:2270 ±Incum:22BOb) ±Ptn:2290b ±Refl:3210b ±Inst:3220b +Col:-b] tm vb 20.3 = [+Base:orp vb 10 Res +(+Rec:2222b ±Mov:2250b ±[Perf:2260b ±D o:2270
++Incum:2280b] ±Ptn:2290b ±Ins t: 3220b)1
+(±Subj:2210b ±T:2230 ±Mov:2250b ±[+Perf:2260b ±D o:2270 ±Incum:2280b] ±Ptn:2290b +Refl:3210b ±Inst:3220b) +/-Ccl:-b}
+4.1.1.2.2.2. Ejemplo de paradigma del tema del verbo 20
+tm vb 20.1 = -1mokÓso?1no-wa-pa-po 'dormir -temp
+-tr -refl' (tener sueño). -káCo-plk-1-ko 'ir -venir -dur -abs'
+(continuar yendo). -tórok-a-po •salir -subj -refl' (salir). tm vh 20~2 = -bériko-po-wo 'pescar -perf -inst'
+(haber estado pescando). -kokopoési-a-Sa •ser-bajado -subj -ptn'
+(va a ser bajado).
+tm vb 20.3 = -wéCo-koko-po-re-po 'pelear -rec
+
+116
+
+Be.ure
+
+-perf -otra-vez -incum1 (habrán peleado unos con otros otra vez). -hÍnoko-po 'mirar -refl' (cuidarse de se
+mismo) .. -bi-á-po 'salir -subj -refl' (retirarse del
+paso).
+
+4.1.1.2.). El cuerpo del verbo intransitivo 20
+
+11.1.1.2.3.1. Paradigma tagmémico del cuerpo del verbo 20
+orp vb 20.1 = {+Base:fund vb 20 Res/fund n 1-7 Res ±/+Aum:11210 +(+Cpt 1:fund n 1-6 Res/8 Res ±[+Dur:4260 +Abs:4271])/ (+Cpt 2:fund n 1-6 Res/8 Res ±Dur:4·260 +Abs :4271 )/(±Dur:4260 +Abs :4271]
+crp vb 20.2 = I+Base:fund vb 20 Res/fund n 1-7
+Res ±/+Aumr4210 ±(+Cpt 3:fund n 1-6 Res/8-9 Res ±Durr4260 +Abs:427l)/ (+Dur:4260 +Abs:4271))
+= orp vb 20.3 {+Be.se:fund vb 20 Res/fund n 1-7
+Res ±(±Desid:4220 +Svd:4230 +Ag:4240 ±[±Dur:4260 +Abs:4271])/(+Cpt 2:fund n 1-6 Res/8 Res ±Du~:4260 +Abs:4271)/ (+Dur:4260 +Abs:4271))
+
+Baure
+
+47
+
+= orp vb 20.4 {+Base:fund vb 20 Bes/rund n 1-7
+Bes ±/+Aumt4210 ±Dur: !f260 +Abat!f2?l) orp vb 20.5 = {+Basetfund vb 20 (-Tono-) ±(+
+Aum:4210 ±Dur:4260 +Instr:!f272)/ (±Des1dt4220 +Svdt42JO +Agt4240 ± l±Dur:4260 +Abst4271])/(+Durt4260 +Abs:427l)}
+orp vb 20.6 = {+Base:fund vb 20 (-h1r1) +
+(+Aum:4210 +Instr:4272)/(±Des1d:4220 +Svd:4230 +Ag:4240 ±[±Dur:4260 + Abs:4271])/(+Cpt 2:fund n 1-6 Res/ B Res ±Dur:4260 +Abs:4271)/(+Dur: 4260 +Abs:4271)} orp vb 20.7 = {+Base:fund vb 20 Bes/fund n 1-7 Res +lnstr:4272} orp vb 20.8 = {+Base: fund vb 20 Res/fund n 1-7 Bes =/+Aum:4210 ±Des1d:4220 +SVdt 4230 +Ag:4240 ±(±Durt4260 +Aba :427l)} orp vb 20.9 = {+Indef:4100 +Base:fund vb 20 Bes/ 10 Bes ±Cpt 2:fund n 1-6 Bes/8 Res +Indef:4273l
+orp vb 20.10 = {+Base:fund vb 20 (-1mo-) +
+(+Svd:4230 +Ag:4240 ±l±Durt4260 +Abs:4271])/(+Cpt 2:fund n 1-6 Bes/8 Bes
+
+48
+
+Baura
+
+~Dur:4260 +Abs:427l)/(+Dur:4260 +Abs:427l))
+
+4.l.l.2,J.2. Ejemplo de paradigma del cuerpo del verbo 20
+crp vb 20.1 : -tór1-tor1-soenok1- •escooer -aum -oreja' (la oreja pica mucho).
+-kámo-ko- 'gordo -abs' (gordo),
+crp vb 20.2 = -aro-é-ko 'volar -dur -abs 1
+(continuar volando). -ya 'llorar'.
+crp vb 20.3 = -simo-so-?i-no-e-ko 'llegar
+-querer -svd -ag -dur -abs' (continuar queriendo llegar). -pÍno-poe-ko- 'huir -bajo -abs' (huir por tierra).
+crp vb 20.4 = -yib!ri-bir1-ko- •temblar -aum
+-abs' (temblar mucho). -há-ha-ki-ko- •reir -aum -dur -abs'
+(continuar riendo mucho). orp vb 20.5 = -yóno-so-?i-no- 'andar -querer
+-svd -ag' (querer andar).
+= orp vb 20.6 -hÍr1-h1ri-oo- 'sentar -aum -instr'
+(sentarse mucho).
+
+Baure
+crp vb 20.7 ; -hábi-co- 'remar -instr' (remar). orp vb 20,8 ; -ehewó-?i-no- 'feliz -svd -ag'
+(ser feliz). orp vb 20.9 ; -ko-ehebi-poe-s1 'indef -caer
+-abajo -indef' (estar caído). crp vb 20.10 ; -ímo-Óipi-ko 'dormir -azotea
+-abs' (dormir bajo la azotea).
+4.1.1.2.4. El fundamento del verbo intransitivo 20
+4.l.l.2.4.l. Paradigma tagmém1co del fundamento del verbo 20
+fund vb 20.1 ~ l +Base:r vb 21 +Fv fund:5201} fund vb 20.2 ~ l +Base:r vb 22 +Fv fund:5202] fund vb 20,) ~ l+Base:r vb 23 +Fv fund:5203} fund vb 20,4 l +Base:r vb 24 +Fv fund:5204} fund vb 20.5 ~ (+Base:r vb 25 +Fv fund:5205] fund vb 20.6 = l+Base:r vb 26} fund Vb 20.7 ~ [ ±Pr1v: 5131 +Atr:512l +Base:
+fund vb 20.1-20,6 Res/fund n l-6 Res}
+4.1.1.2.4.2. Ejemplo de paradigma del corazón del verbo 20
+fund vb 20.1 = -yÓ-ri- 'enojarse -fv-fund'
+
+50
+
+Baure
+
+(enojarse). fund vb 20.2 ; áha-ro- •estar quemandose -fv-fund'
+(estar quemandose). fund vb 20.3 = -Sé-re- 'cocinar -fv-~und'
+(cocinar). fund vb 20.4 = -á-ra- 'estar-triste -fv-fund'
+(estar triste). fund vb 20.5 -pÍ-no- thuir -fv-fund1 (huir), fund vb 20.6 = -Símo- 1 llegar'. fund Vb 20.7 -mo-kÓ-tore- 'mov -con -trabajar'
+(no estar trabajando). -kÓ-piro- •con -fiebre' (tener fiebre).
+
+4,1.1.2,5, La raíz del verbo intransitivo 20 (Ver 4,1.4)
+
+4.l.l.J. El verbo-estado JO
+
+4.l.l.J.l, El verbo-estado inflexionado JO
+
+4.1.1.).1,1. Paradigma tagmémico del verbo JO vb Jl.l E {+Base:tm vb JO.l +/-0 dep:lOOO
+~Enf:l210/(~Com:l220 ~Val:1230)}
+El sÍmbolo +/- indica que el tagmema O dep ocurre obligatoriamente cuando el tagmema O 2 no se encuentra en la cláusula. Si el tagmema
+
+Baure
+
+51
+
+o 2 suoede, el tagmema O dep no ocurre.
+vb 31.2 ~ l+Base:tm vb )0.1 ±O dep:lOOO ±Enf:l210/(±Com:l220 ±Val:l230))
+Vb J2-35 Las fÓrmulas se obtienen por mult1plioaoión
+como sigue: En la fórmula del vb 31.2 se reemplaza el tema que manifiesta el tagmema Base oon los temas del vb 30.2-30.5 respectivamente.
+
+4.1.1.).1.2. Ejemplo de paradigma del verbo )O vb Jl.l = hépiyepikowo-r-e 'buena-palabra-dir-
+venir-vbl -él' (él viene con pa~abras
+buenas).
+hírowo-ro 'hombre-vbl -él' (él es un hombre).
+vb 31.2 = nisÍrowo-oi 'm1-hijo-vbl -enc' (es m1 hijo).
+mÓni?inoekowo-ri 'bon1ta-vbl -ella' (ella es bonita).
+vb 32 = níkonowo 'el-que-come-vbl' (es uno
+que come).
+1yÍnoekonowo-b1-ni-S 'profesor-vbl -nosotros
+-s1 -val' (b1en, ••• hubiera sido nuestro profesor). vb 33 yÓnonowo-bi 'el-que-camina-vbl
+
+52
+
+Baure
+
+-nosotros' (nosotros somos caminantes)~ vb 34 ~ kÍConowo-n1 'el-que-cuenta-vbl -yo'
+(el que me cuenta). vb 35 kéwonowo-01 'el-que-relata-vbl -ene'
+(un relator).
+
+4.1.1.).2. El tema del verbo-estedo 30
+
+4.1.1.).2.1. Paradigma tagmémico del tema del verbo JO
+tm vb JO.l: [+Base:crp vb 30/n 1-6/pro 1/edv/t/ part neg 1-2/part aux 2 ±Subj:2210b ±T:2230 ±Mov:2250b ±(+Perf:2260b ±D o:2270 ±Inoum:2280b) ±Ptn:2290b ±Inst:3220b +Col:-b)
+tm vb 30.2 y JO.J Las fÓrmulas se obtienen por multiplicación
+como sigue: En la fÓrmula del tm vb JO.l se reemplaza el cuerpo que manifiesta el tagmema Base con n llb y n 12b respectivamente.
+
+4.1.1.).2.2. Ejemplo de paradigma del tema del verbo JO
+tm vb JO.l : mÓnik-a-po-re-y 'bonito -subj -perf -d o -inoum• (habrá sido bonito
+
+Baure
+
+53
+
+otra vez). máyo-wa-pa-po-wo 'muoho -temp -Lr -perf -1nst'
+(va a haber mucho por poco tiempo).
+hÍr-a-Sa 'hombre -subj -ptn• (va a ser un
+hombre). Ramóno-wo 'RamÓno -inst' (es Ramón).
+nakóSo-wa-pa 'allÍ -temp -ir' •va a estar
+allÍ por poco tiempo).
+Ónka-wo 'no -1nst 1 (no). éta-Sa •terminar -ptn' (va a ser terminado).
+tm vb 30.2 = ámon-a-piko-po-re-y 'el-que-trae
+-subj -venir -perf -d o -incum' (habrá
+venido trayendo otra vez).
+tm vb 30.3 = kábino-wa-pa 'borracho-persona -temp
+-ir' (va a ser un borracho por un rato)~
+
+4.LLJ. ), EJ. cuerpo del verbo-estado 30
+
+4.l.l.J.),l. FÓrmula tagmémica del cuerpo del verbo JO
+orp vb JO (+Base:fund n 6 (he-/moni-) ±Aum: 42l0 ±(±Desid:4220 ±Svd:h230 +Ag: 4240 ±[±Dur:4260 +Abs:lJ27l] )/ (+Desid:4220 +Svd:4230 ±Our:4260 +Abs:427l)/ +Cpt:r sus 37 (pi)}
+
+.54
+
+Baure
+
+4.1.1.J.J,2. Ejemplo del cuerpo del verbo 30 crp vb 30 :;;:: hé-he-?1-no-jo- 'bueno -aum -svd
+-ag -abs 1 (estar muy bien). hé-so-?1-ko- 'bueno -querer -svd -abs'
+(quiere ser bueno). mÓni-pi-ye- 'bonito -palabra -dir'
+(palabras bonitas de). mÓni-?1-no-e-ko- 'bonito -svd -ag -dur
+-abs' (seguir siendo bonito).
+
+4.1.1.4. El verbo transitivo-citativo 40
+
+4.1.1.4.1. El verbo transitivo-citativo inflexi onado 40
+
+4.1.1.4.1.1. Paradigma tagmémico del verbo 40 vb 41 = (+S dep:lOOO +Base:tm vb 40 +/±O dep:
+1000 ±Enf:1210/(±Com:1220 ±Va1:1230)} En esta fÓrmula y las siguientes, el sÍmbolo +/± indica que el tagmema O dep ocurre opcionalmente cuando el tagmema O se encuentra en la cláusula, Si el tagmema O no sucede, ocurre obligatoriamente. vb 45 = [+S dep:1002-1003/l006-1007 +Base:
+tm vb 40 +/±0 dep:lOOO ±Enf:l210/
+
+Baure
+
+55
+
+(±Com:l220 ±Val:l2JO)}
+
+4.1.1.4.1.2. Ejemplo de paradigma del verbo 40
+vb 41 = b1-kíCowo-r1 'nosotros -decir -a-ella'
+(decimos a ella).
+= vb 45 yi-kÍoowo-ni-s •ustedes -decir -incom
+-val' (bien, ustedes dicen). p1-kÍcowo-ro •usted -diga -a-él' (dÍgale).
+
+4.1.1.4.2. El tema del verbo transitivo-citativo
+h.Q
+
+4.1.1.4.2.1. FÓrmula tagmémica del tema del verbo 40
+tm vb 40 [+Base:crp vb 40 ±Subj:2210b ±Ben:222l ±T:2230 ±Suc:2240 ±Mov:2250b ±(+ Perf:2260b ±D o:2270 ±lncum:2280b) ±Ptn:2290b ±Inst:3220b +Ccl:-b}
+
+4. LLh. 2. 2. Ejemplo del tema del verbo 40 tm vb 40 -kÍco-po-re-sa 'decir -perf -d o
+-ptn' (habrá dicho otra vez).
+4.1.1.4.). El cuerpo del verbo transitivocitatlvo 40
+
+56
+
+Baure
+
+4.1.1.4.).1. FÓrmula tagmémica del cuerpo del verbo 40
+crp vb 40 [+Base:fund vb 10.6 (-ki-) +Instr: 4272)
+
+4.1.1.4.).2. Ejemplo del cuerpo del verbo 40 crp vb 40 -kf-oo- 'decir -instr• (decir).
+
+4.1.1.5. El verbo intrans1tivo-c1tativo 50
+
+4.1.1.5.1. El verbo intransitivo-citativo
+inflexionado 50
+
+4,1.1.5.1.1. Paradigma tagmémico del verbo 50
+vb 51 = (+S dep:lOOO +Base:tm vb 50 ±Enf: 1210/(±Com:l220 ±Val:l230))
+vb 55= {+S dep:l002-lOOJ/l006-l007 +Base: tm vb 50 ±Enf:l210/(±Com:l220 ±Val:l230))
+
+4.1,1.5.1.2. Ejemplo de paradigma del verbo 50 vb 51 = no-kéwo-ni-s 'ellos -decir -1ncom
+-val' (ellos hablan bien). vb 55 = pi-ké-sa •usted -decir -ptn' (usted va
+a decir).
+4,1.1.5.2. El tema del verbo intransitivo-
+
+Baure
+
+57
+
+citativo 50
+
+4.1.1.5.2.1. FÓrmula tagmémica del tema del verbo 50
+tm vb 50= [+Base:fund vb 20.6 (-ke-) ±Subj: 2210b ±T:22JO ±Mov:2250b ±(±Perf: 226ob ±D o:2270 ±lncum:2280b ±ptn: 2290b ±Inst:3220b +Col:-b)
+4.1.1.5.2.2. Ejemplo del tema del verbo 50 tm vb 50 = -ké-piko-wo 'decir -venir -inst'
+(viene diciendo).
+
+4.1.2. El verbo dependiente
+
+4.1.2.1. El verbo dependiente inflexionado
+
+4.1.2.1.1. Paradigma tagmémico del verbo dependiente El verbo dependiente 100 vb 113-153
+Las fÓrmulas se obtienen por multiplicaciÓn de las fÓrmulas correspondientes de los verbos independientes 11, 21, Jl, 41 y 51 como sigue: El tema que manifiesta el tagmema Base se reemplaza con tm vb 110, 120, 1)0 1 140 y 150 respectivamente. Se omiten los tagmemas
+
+58
+
+Baure
+
+±Enf:l210 y ±Val:l2JO. El verbo dependiente 200 vb 210-230
+Las fÓrmulas se obtienen por mult1pl1oac1Ón de las fÓrmulas correspondientes de los verbos
+independientes 10, 20 y JO como sigue: El tema
+que manifiesta el tagmem~ Base se reemplaza con tm vb 210, 220 y 230 respectivamente. El verbo dependiente JOO vb 330
+Las fÓrmulas se obtiene por multiplicaciÓn de la fÓrmula del verbo independiente 31.2 como sigue: El tagmema Base se reemplaza con +.Base:tr.1 vb 300. Se omiten los tagmemas ±Enf:l210, ±Com:l220 y ±Val:l2JO. El verbo dependiente 400 vb 4JO
+La fÓrmula se obtiene por multiplicaciÓn de la fÓrmula del verbo independiente Jl.2 como sigue: El tagmema Base se reemplaza con +Base:tm vb 400. Se omiten los tagmemas ±O dep: 1000, ±Enf:l210, ±Com:l220 y ±Val:l2JO. El verbo dependiente 500
+
+Baure
+
+59
+
+vb 530 La fÓrmula se obtiene por multiplicaciÓn
+de la fÓrmula del verbo independiente 32 como sigue: Se omiten los tagmemas ±O dep:lOOO, ±Enf:l2lO, ±Com:l220 y ±Val:l2JO.
+
+4 ~l. 2 . l . 2. Sj e~n:_olo de paradig::na del verbo
+
+dependiente
+
+El verbo dependiente 100
+
+vb 113 = ni -;;-Íno:pikiyN·o-ro 1yo -enseñar-
+
+vb 123
+
+venir-donde -a-él' (donde yo vengo
+enseña:'1dO ~~ él). :ro-yónopapoe~Towo 1él -andar-donde 1
+
+(donde él habla id.o a andar).
+
+vb 13:3 = hénoki:;rm·.'o-ro ''o·J.er..o-donde -él'
+
+(donde es bueno).
+
+vb 143 ;;:: ro-kíéi;rol·:-o-ni 'él -decir-donde
+
+-1ncom' (donde él les dice).
+
+vb lSJ
+
+ri-iréyowo 'ella -decir-donde 1
+
+(donde ella dice) •
+
+.El verbo ·dependiente 200
+
+vb 215 = pi-kÓtokoSe-ro 'usted -agarrar-
+
+vb 221
+
+ptn -lo' (usted lo agarrará). r-áblkoSapo •él -regresar-ptn'
+
+60
+
+Baure
+
+(él regresará), vb 232 ;;:: vrÓnoekonaSa 1 él-que-envia-ptn'
+(enviará). El verbo dependiente 300 vb JJO ~ rinÍkoCowo-ro 'su-comer-inst -lo'
+(su hecho de comerlo). El verbo dependiente 400 vb l-JO = noSó:noCo-Ttro 'su-parar -inst'
+(su parada). El verbo dependiente 500 vb 5JO ~ álwnowapa 'el-que-canta-temp-ir'
+(va a ser un cantante por un rato). há?inonowo 'cansado-persona-inst•
+(es una persona cansada).
+
+4.1.2.2. El tema del verbo dependiente
+
+4.1.2.2.1. Paradigma tagmémico del tema del verbo dependiente
+El tema del verbo dependiente 100 tm vb 110-150
+Las fÓrmulas se obtienen por multiplicaciÓn de las fÓrmulas correspondientes de los temas del verbo 10-50 como sigue: Se omiten los
+
+Baure
+
+61
+
+tagmemas ±Ben, ±Suc, ±D o, ±Incum, ±Ptn, ±Refl y +Reo. Se añade el tagmema +L:J25lb inmediatamente después del tagmema Perf. El tema del verbo dependiente 200 tm vb 210-230
+Las fÓrmulas se obtienen por multiplicaciÓn
+de las fÓrmulas correspondientes de los temas del verbo 10, 20 y 30 como sigue: El tagmema ±Ptn: 2290b se reetüplaza con +Ptn: 2290b.
+El tema del verbo dependiente 300
+tm vb JOO La fÓrmula se obtiene por multiplicaciÓn
+de la fÓrmula del tm vb 30.1 como sigue:
+El tagmema Base se reemplaza con +Base:n ?a. El tema del verbo dependiente .~oo
+tJl Vb l.}QQ La fÓr:nula se o':Jtiene por mul t1pl1cac1Ón
+de la fÓr~ula del tm vb JO.l cono sigue: El ta.g'!l6ID8. Base se reemplaza con +Base:n 8a-9a.
+
+4.1.2.2.2. Ejemplo de paradigma del tema del
+
+verbo dependiente
+
+El tema del verbo dependiente lOO
+
+tr::1 vb 110 .1
+
+-pónoek-iyo-~·ro ' sembrar -donde
+
+62
+
+Baure
+
+-inst' (donde siembra).
+
+tm vb 120.1 = -ímoko-po-eyi- 'dormir-perf -donde'
+
+(donde durmiÓ).
+
+tm vb lJO.l = étopi-a-p-iyo- 'acabar-palabra
+
+-subj -perf -donde' (donde habrá
+
+acabado las palabras).
+
+tm vb 140 = -kío-iyo-wa-pa 'decir -donde -temp
+
+-ir' (donde va. a decir por corto
+
+tiempo).
+
+tm vb 150
+
+-ké-yo-':·.ro 'decir -donde -inst'
+
+(donde dice).
+
+El tema del verbo dependiente 200
+
+tm vb 210.2 : -pÓri-a-Sa 'coser -subj -ptn'
+
+(coserá).
+tm vb 220.1 = -sím-piko-sa 'llegar -venir -ptn'
+
+(llegará).
+
+tm vb 230.1 = Ónka-sa 'no -ptn' (no habrá).
+
+El tema del verbo dependiente JOO
+
+tm vb JOO = nowéCoCo-wa-pa •su pelear -temp -ir'
+
+(su intenciÓn de pelear por poco rato).
+
+El tema del verbo dependiente 400
+
+tm vb 400 = royónoéo-wa-na-pa •su-pasear -temp
+
+-suo -1r' (su intención es de pasear
+
+primero a un lugar por un rato y luego
+
+Baure
+
+63
+
+a otro).
+
+4.l.J. El verbo auxiliar
+
+4,l,J.1. Paradigma tagmémico del verbo auxiliar El verbo auxiliar 600 vb aux 611, 621
+Las fÓrmulas se obtienen por multiplicaciÓn de las fÓrmulas correspondientes de los verbos
+independientes 11 y 21 oo~o sigue: Al tema que
+man1f1e~ta el tagmema Base se añade Res. Se omiten
+los tagmemas O dep, Enf, Com y Val. El tagmema +S dep:lOOO se reemplaza con ±S dep:lOOO. El verbo auxiliar 700 vb aux 721, 731
+Las fÓr:n'.llas se obtienen por multiplicaciÓn de las fÓrmulas correspondientes de los verbos independientes 21 y 31 como sigue: El tagmema Base del verbo 21 y 31 se reemplaza con +Base:crp vb 20.7 (kac)/part aux 1-2. Se omiten los
+tagmemas O dep, Enf, Com y Val. El tagmema +S dep 1000 se reemplaza con ±S dep:lOOO.
+
+4.1.).2. Ejemplo de paradigma del verbo auxiliar El verbo auxiliar 600
+
+64
+
+Baure
+
+vb aux 611 = ro-k:Í'iinowo 'él -querer' (él
+
+quiere).
+
+ni-béyimira 'yo -empezar' (yo empiezo).
+
+ri-tÍriwapa 'ella -saber-como• (ella sabe co:no).
+
+no-A:anosérowo 'ellos -necesitar' (ellos
+
+necesitan). 01-~-~.:iruiyonowo 'nosotros -querer'
+
+(queremos).
+
+pi-poé~~owo 'usted.-permitir' {usted. permite).
+
+vb aux 621 = ro-yónopiko 'él -and.a.r-venir' (él
+
+viene andando) •
+
+ri-ebirÍriXo 1 ella -poco-s.-poco' (ella poco
+
+Et poco) .
+
+El verbo auxiliar 700
+
+vb aux 721 ; no-káCoporey 'ellos -ir-otra-vez'
+
+(ellos van otra vez).
+
+ri-táwo 'ella -sigue-adelante•.
+
+vb aux 7:31 = étowapa • terminar-temp-ir' (va a
+
+ser terminado por un rato).
+
+4.1.4. La rafz del verbo y del sustantivo
+
+4.1.4.1. Clases émioas de la raíz del verbo y del sustantivo
+
+Baure
+RaÍz
+r1 r2 r3 r4 r5 r6 r7
+
+Verbo Tr 10 11 12 lJ 14 15 16
+
+Intr 20 21 22
+2)
+24 25 26
+
+65
+Sus
+30 Jl )2 JJ
+J4
+35 36
+)7
+
+Cuadro III. Clases émicas de
+la raíz del verbo y del sustantivo
+
+4.1.4. 2. Ejemplo de paradigma de la raíz del
+
+verbo y del sustantivo
+
+La raíz del verbo transitivo
+
+r vb 11 ~ -so- 'freir'.
+
+r vb 12 -e- 'tomar'.
+
+r vb 13 r vb 111
+
+-pr- 'jugar'. -to- 'encontrar'.
+
+r vb 15 -wo- 'enviar'.
+
+r vb 16 -ni- •comer'. La raíz del verbo intransitivo
+
+66
+
+Baure
+
+r vb 21 ~ -hi- 'sentarse 1 •
+
+. r vb 22 ~ -aha- 'probar'.
+r vb 23 ~ -se- 'cocinar'.
+
+r vb 24 -a- 'estar tJ;'iste•.
+
+r vb 25 ~ -pi- 1 huir'~
+
+r vb 26 -be- 'tener hambre'.
+
+La raÍz del sustantivo
+
+r sus 31 ~ -to- 'encuentro•.
+
+r sus 32 ~ e o- 'maÍz' ..
+
+r sus 33 se- 'camote'.
+
+r sus 34 e- 'plátano'.
+
+r sus J5 -hi- • hija'.
+
+r sus J6
+
+iti 1 sangre 1 •
+
+r sus 37 -mo- 'tela'.
+
+4.1.5. El afijo del verbo Clase inflexional 1000 de prefijos del
+sujeto dependiente y de sufijos del objeto dependiente. 1001 ni-, -ni 'primera persona singular' 1002 pi-, -Pi 'segunda persona singular' 1003 ro-, -ro 'tercera persona singular'
+masculino 1004 ri-, -ri •tercera persona singular"
+
+Baure
+
+67
+
+fem1n1no 1005 bi-, -bi ~rimera persona plurat 1006 yi-, -y1 'segunda persona plurar lO 07 no-, -no 'tercera persona plural' Clase 4100 de prefijos del cuerpo del verbo 4111 ko- Indefinido, seudo pasivo (Ver 4273) Clase 5100 de prefijos del fundamento del verbo Clase 5110 Transitivado 5111 Imo- Causativo 5112 ka- Transitivador Clase 5120 Atributivo 5121 kO- 'con' • Clase 5130 Privativo 5131 mO- 'no, sin'. Clase 1200 de sufijos inflexionales del verbo Clase 1210 Enfático 1211 -i?i Enfático Clase 1220 Completivo 1221 -ni Incompletivo, condicional, contrario
+al hecho, acciÓn interrumpida prematuramente 1222 -no Completivo Clase 1230 Actitud
+
+68
+
+Baure
+
+1231 -sV 'solamente'. 1222 -oi Encariñamiento, diminutivo 1233 -ca Deprecativo, aumentativo Clase 2200-3200 de sufijos del tema del verbo Clase 2210b Modo 2211 -a Subjunctivo, optativo Clase 2220 Benefactivo 2221 -no Benefactivo 2222 -koko Reciproco Clase 2230 Tiempo 2231 -wa DuraciÓn breve t temporal Clase 2240 SucesiÓn 2241 -na AcciÓn primero hacia un lugar y
+luego hacia otro Clase 2250b Movimiento, intenciÓn 2251 -pa Movimiento hacia afuera, intenciÓn,
+imperfeoti_vo, verbalizador 2252 -piko llovimiento hacia, intención,
+verbalizador Clase 2260b Perfectivo 2261 -po Perfectivo, verbalizador Clase 2270 RepeticiÓn 2271 -re Repetición Clase 2280b Incumplido
+
+Baure
+2281 -yo Incumplido Clase 2290b Potencial 2291 -sa Potencial, verbalizador Clase 3210b Reflexivo 3211 -po Reflexivo Clase 3220b Instantáneo 3221 -wo Instantáneo, verbalizador Clase 3250 Locativo Clase 3251 -iyo 'donde'. Clase 4200 de sufijos del cuerpo del verbo Clase 4210 Aumentativo 4211 red l Aumentativo (Ver 5.5) 4212 red 2 Superlativo aumentativo (Ver 5.5) Clase 4220 Desiderativo 4221 -so- 'querer'. Clase 4230 Suj e tividad 4231 -?1- Sujetividad Clase 4240 Agente external 4241 -no- Agente external Clase 4250 Direccional 4251 -aci- AcciÓn hacia otro lugar 4252 -yo- AcciÓn en otro lugar 4253 -imiri- AcciÓn en frente de Clase 4260 Duradero
+
+70
+
+Baure
+
+4261 -I- Duradero Clase 4270 Formativo del cuerpo del verbo 4271 -kO Absoluto
+4272 -O o Instrumental
+4273 -si Indefinido, seudo pasivo (Ver 4.1.1.1.) Clase 5200 de sufijos del fundamento del verbo 5201 -r1 Formativo del fundamento del verbo l 5202 -ro Formativo del fundamento del verbo 2 .5203 -re Formativo del fundamento del verbo 3 5204 -ra Formativo del fundamento del verbo 4 5205 -no Formativo del fundamento del verbo 5
+
+4.2. El sustantivo 4.2.1. El nombre 4.2.1.1. El nombre inflexionado 4.2.1.1.1. Clases émioas del nombre
+
+DistribuciÓn
+
+~
+(1)
+ComposiciÓn
+
+1 2 J !¡, 5 6 7 8 9 10 11 12
+
+a. PoseÍdo obligatoria- la 2a Ja mente
+
+6a 7a 8a 9a lOa
+
+b. Poseído opcionalmente
+
+4b 5b
+
+llb l2b
+
+o. Nomore - TÍtulo
+
+le
+
+4c
+
+d. Poseedor
+
+ld
+
+e. Cuantificador 1
+
+4e
+
+r. Cuantificador 2
+
+!¡,f
+
+g. Desor1pt1vo
+
+!¡,g 5g
+
+h. Referente
+
+4h
+
+l2h
+
+1. Tiempo
+
+41 51 61
+
+CUadro IV. Clases ém1oas del nombre
+
+..,
+1-'
+
+72
+
+Baure
+
+Las clases a-1 son clases de distribución, que no afectan la c·omposioión de los nombres.
+Por consiguiente no se presentan en el paradigma
+slgu1ente:
+
+4.2.1.1.2. Paradigma tagmémico del nombre inflexionado
+n 1 = [+Gen:8110/afijo vbl 1000 +Base:tm n 1
++(±Cpt:r sus 37 [pi] ±Pl:8220)/(±Pl: 8220 ±Incom:afijo vbl 1221 ±Val: afijo vbl 1230)} n 2 {+Gen:afijo vbl 1010/Priv:afijo vbl 5130/Atr:afljo vbl 5120 +Base:tm n 2 ±(±Cpt:r sus 37 [pi] ±Pl:8220)/(±Pl: 8220 ±Inoom:afljo vbl 1221 ±Val: afijo vbl 1230)}
+n 3 = [+Gen:afljo vb1 1000 +Ease:tm n 3}
+n 4 = [+Base:tm n 4-6 +Proo:8210 ±(±Cpt: r sus 37 [pi] ±Pl:8220)/(±Pl:8220 ±Incom:afljo vbl 1221 ±Val:afljo vbl 1230}
+n 5 = {+Base:tm n 7}
+n 6 = {+Gen:afijo vbl 1003 +Ease:tm n 8}
+n 7 = {+Gen:afijo vbl 1000 +Base:crp vb 10.1-7/
+
+Baure
+
+73
+
+10.9-10.11 +Instr:afijo vbl 4272 ±O:afijo vbl 1000) n 8 [+Gen:af1Jo vbl 1000 +Base:crp vb 20.1-20.5 +Instr:afijo vbl 4272} n 9 ~ [+Gen:afijo vbl 1000 +Base:crp vb 20.10 (-imoko) +Instr:afijo vbl 4272 ±Cpt:fund n Res) n 10 ~ [+Gen:afijo vbl 1000 +Base:fund vb 10 +Sub:6212) n 11 ~ [+Base:tm vb 10 +Ag:7210 ±O:afijo vbl 1000 ±Pl:8220) n 12 ~ [+Base:tm vb 20/30 +Ag:7210 ±Pl:8220
+
+4.2.l.l.J. Ejemplo de paradigma del nombre inflexionado
+n 1 ni-pÍri-ni-s 'mi -hermano-del-mismo-sexo -incom -val' (bien, mi hermano).
+e-kÍso-neb 'no-poseÍdo -ojo -pl' (ojos). pi-tíro-neb •sus -posesiones -pl' (sus
+posesiones). n 2 ni-toéro-neb 'mi -campo -pl' (mis campos).
+ka -wérono 'con -casa' (uno que tiene una casa). mo-érono 'no -padre• (huérfano). n 3 pi-mÓn1kip1 •su -belleza•.
+
+74
+
+Baure
+
+n 4 haméroko-po 'paper -proc' (hecho de papel).
+
+sÍye-pi-neb 'zorro -palabra -pl' (cuentos
+
+del zorro).
+
+pÓno-neb 'otro -pl' (otros).
+
+aserárono 'lÍquido-fermentado' (fe+mentado).
+
+n 5 nérikikoe 'ahora-mismo'.
+
+bÍrokikoe 'viento-persistente•.
+
+n 6 ro-sésokonoer •su -dÍa' (dÍa).
+
+n 7 r-émon1ko-C1-b1 'el -amar -instr -nosotros'
+
+{su amor de él a nosotros).
+
+ni-,éi>o-co •yo -pelear -instr• (mi pelea).
+
+n 8 = ni-símo-co •yo -llegar -instr• (mi
+
+llegada).
+
+ro-yóno-Co •él -andar -lnstr• (su andar).
+
+n 9 = n-Ímoko-Co-mo 1 yo -dormir -instr -tela'
+
+(mi ropa de dormir).
+
+n 10 ni-hÍno-ri •yo -ver -sub' (lo que yo
+
+veo),
+
+ro-béko-ri •él -hablar -sub' (lo que él
+
+habla).
+
+n 11; hÍnoekonowo-no 'ver -ag' (el que ve).
+
+iyÍnoeko-no-bi-neb •enseffar -ag -nosotros
+
+n 12
+
+-pl' (nuestros profesores). yÓno-no 'andar -ag' (el que anda).
+
+Baure
+
+75
+
+Ímoko-no-neb 'dormir -ag -pl' (los que duermen).
+Íyowo-no 'donde-vbl -ag' (de),
+
+4.2.1.2. El tema del nombre
+
+4.2.1.2.1. Paradigma tagmémico del tema del nombre
+
+tm n 1 {+Base:crp n 7 Hes/lO]
+
+tm n 2 [+Base:crp n 7 Hes/15 +Ag: 7210 J tm n 3 = {+Base:crp n 8-10 +Cual: 7230 l
+
+tm n 4 t+Base:cru n 1-6 Hes/9/12/15]
+
+tm n 5
+
+[ +Base:crp n 1-5 + (+Ag: 7210 +Pl hln: 7222)/Sing hm:7221)
+
+tm n 6 [+Base:crp n 8/10-11 ±Ag:7210)
+
+tm n 7 = [+Base:crp n 13-14/16)
+
+tm n 8 [+Base:crp n 17 +Sing hm:722ll
+
+4.2.1.2.2. Ejemplo de paradigma del tema del
+
+nombre
+
+tm n 1
+
+-poy 'pie'; -háSe 'sombrero'.
+
+tm n 2 -iró-no 'padre {o madre) -ag'
+
+(padre o madre).
+
+-esonÓkoe-no 'puerta -ag• (puerta).
+tm n 3 = mÓniko-pi 'bello -cual' (belleza),
+
+aséroko-pi 'fuerte -cual' (fuerza).
+
+76
+
+Baure
+
+tm n 4 = tawé 'pelota•.
+
+héwa 'medio-tamaño-animal' (animal de
+
+tamafio mediano).
+
+tm n 5
+
+soráti-no-no- 'pueblo -ag -hombres
+(ciudadanos).
+
+toérok-ero 'campo -hombre' (campesino).
+= tm n 6 ooporíko-no 'redondo -ag' (redondo).
+
+kohínoko-no 'pesado -ag' (pesado). tm n 7 ~ tobirÓrekiko 'rectÍsimo'.
+
+rotirÍkoe 'por-causa-de-él'.
+tm n 8 = -sésokono-ero 'sol-ag -hombre' (dÍa).
+
+-háre-ro 'luz -hombre' (luz del dÍa).
+
+4. 2.l. J. El cuerpo del nombre
+
+4.2.l.J.l. Paradigma tagmémico del cuerpo del
+nombre
+crp"n 1 f +Base: fund n 1-7 Res ±Cpt:fund n 1-6 Res/8-9 Res}
+orp n 2 = [+Base:fund n 1-7 Res ±Cpt:fund n 1-6 Res/8~9 Res +Abs:afijo vbl 4271}
+orp n 3 [ +Base:fund n 1-7 Res +Abs:af1jo vbl 4271}
+crp n 4 [+Base: fund n 1 (sori-) /n 10 (bekor1-) +N1:6211}
+
+Baure
+
+77
+
+crp n 5 = I+Base:fund n l-7 Bes ±/+Aum:afijo vbl
+4210} El sÍmbolo ±/+ indica que el tagmema Aum ocurre obligatoriamente con los fund:amentos de las clases
+morfofonémicas 1 y 2 (Ver 5.5).
+crp n 6 = (+Base:fund n l-7 Bes}
+crp n 7 (+Base:fund n l-7 Bes] crp n 8 = (+Base:fund n l-7 Bes ±Aum:afijo vbl
+~210 +(Cpt:fund n 1-6 Bes/8)/Abs:afijo vbl 4271} crp n 9 [+Base:fund n 1-6 Bes +(Cpt:fund n 14/16)/(Cpt:fund n 1-6 Hes/8-9 Bes +Abs:afijo vb1 4271)} crp n 10 [+Base:fund n l-6 Bes +Cpt:fund n l-6 Res/8-9 Res] crp n 11 [+Base:fund n 1-6 Res +Cpt:fund n 1-6 Res/8 Res ±Aum:afijo vb1 4270 +Abs:af1jo vb1 4271] crp n 12 l+Base:fund n (po-) +Cpt:fund n l-6 Res/8-9 Res/Crp n 14/16 ±(+Dur: afijo vb1 4260 +Abs:afijo vbl 4271 +Enf:afijo vbl 1210)} crp n 13 (+Base:fund n l-7 Bes ±Aum:afijo vbl
+
+78
+
+Baure
+
+4210 ±(±Dur:afijo vbl 4260 +Abs:afijo vbl 4271 +Enf:afijo vbl 1210)}
+= crp n 14 {+Base:fund n 1-7 Res +(±Dur:afijo
+vbl 4260 +Abs:afijo vbl 4271 +Enr: afijo vbl 1216)} orp n 15 [+Base:fund n l-7 Res +Abs:afijo vbl 4271 +Enf:afijo vbl 1210} crp n 16 [+Base:fund n 1 (neri-) +Dur:afijo vbl 4260 ±(±Abs:afijo vbl 4271 +Enf:afijo vbl 1210)/(±Incom:afijo vbl 1212 ±Val:afijo vbl 1220)]
+= crp n 17 [+Base:tm n 6 Res +Enf:afijo vbl 1210}
+
+4.2.. 1.3.2. Ejemplo de paradigma del cuerpo del
+
+nombre
+
+= crp n l
+
+kohÍ-ses
+
+'piedra -sol'
+
+(granizo).
+
+OorÓ-saro 'maíz -pequeño-pedazos-lÍquido'
+
+(bebida de maíz).
+= crp n 2 Íno-wo-ko 'agua -lugar -abs'
+
+(lugar
+
+de agua).
+crp n 3 = síro-ko 'hijo -abs' (hijo). = crp n 4 sor-áti •pueblo -nl' (pueblo).
+
+békor-ati 'palabra -nl' (palabra).
+= orp n 5 morÍ-ri •comején -aum • (comején).
+
+Baure
+
+79
+
+sÓr1-sÓr1 'buho -aum' (buho). crp n 6 ; hÓpi 'jarra'; Íti 1 sangre'. crp n 7 ; -en •madre 1 ; -prÍ 'hermano-del-
+mismo-sexo' (hermano).
+crp n 8 = etobÍ-bi-aro- 'dulce -aum -lÍquido'
+(lÍquido muy dulce). aseró-ro-ko- 'fuerte -aum -abs' (muy ~uerte). crp n 9 = tÍ-?a 'pequeño -animal'. mápi-yo-ko 'dos -vez -abs' (~os veces). mbÓ-morekoe •tres -año' (tres años). crp n lO -há-c1-k1s •cubriendo -grande -ojo'
+(anteojos).
+-há-Se •cubriendo -redondo' (sombrero). Co-wÓhis 'grande -mano'.
+crp n ll co-porí-ri-ko 'grande -redondo -aum -abs' (muy redondo).
+Co-rímo-ko 'grande -gordo -abs (carne gorda).
+crp n 12 pÓ-p1 •otro -largo-delgado-flexibleobjeto' (otro objeto largo, delgado y flexible).
+po-tÓkoe •otra -cabeza•.
+pÓ-no-e-ko-e •otro -hombre -dur -abs -enf' (otra persona),
+crp n 13 = kat1rÍ-ri-ki-ko-e 'pronto -aum -dur
+
+80
+
+Baure
+
+-abs -enf' (muy pronto).
+crp n 14 = bÍro-ki-ko-e 'viento -dur -ahR
+
+-enf' (viento persistente).
+
+orp n 15
+
+esonÓ-ko-e 'puerta -abs -enf (puerta).
+
+moré ko-e 'año -abs -enf' (año).
+
+orp n 16 néri-k1-ko-e 'ahora -dur -abs
+
+-enf' (ahora mi mo).
+
+néri-ki-ni 'ahora· .r -1ncom' (ahora).
+
+crp n 17 = yóto-é 1 n che -enf' (noche).
+
+4.2.1.4. El fundamento del nombre
+
+4.2.1.4.1. Paradigma tagmémlco del fundamento
+
+del nombre
+
+fund n 1 [+Base:r sus 31 +Fv fund 1:5201)
+
+fund n 2 = [+Base:r sus 32 +Fv fund 2:5202)
+
+fund n 3 fund n 4.
+
+[+Base:r sus 33 +Fv fund 3:5203) [+Base:r sus 34 +Fv fund 4:5204]
+
+fund n 5 [ +Base:r sus 35 +Fv fund 5:5205) fund n 6 = [+Base:r sus 36]
+
+fund n 7 = [+Priv:afijo vb1 5130/Atr:afijo vbl
+
+5120 +Base:fund n 1··6 Res J
+
+fundn 8 [+Base:r sus 37}
+
+fund n 9 = [+Base:fund n 1-6 Res/8 +Cpt:fund n l-6 Res/8 l
+
+Baure
+
+81
+
+4.2.1.4.2. Ejemplo de paradigma del corazón
+
+del nombre
+
+fundnl; pá-ri 'edificio -fv-fund-1' (edificio).
+
+fund n 2 bÍ-ro •viento -fv-fund-2' (viento).
+
+fund n 3 fund n IJ
+
+se-re •camote -fv-fund-3' (camote).
+So-rá 1 palma-cusi -fv-fund-4 1 (es-
+
+pecie de árbol de palma).
+
+fund n 5 Í-no •agua -fv-fund-5' (agua).
+fund n 6 = na 'huevo•.
+
+fund n 7 ko-tÍpo- 'con -blanco• (blanco).
+
+no-yóno- 'no -andar• (no andar}.
+
+fund n 8 -mo 'tela'.
+
+fund n 9 -s-ar 'pequeños-pedazos -lÍquido'
+
+(rocÍo). -poé-wo 'plátano -lu~ar'
+
+(platanal).
+
+4. 2.l. 5. La raíz del nombre (Ver 4 .1. 4)
+
+4.2.2. El locativo
+
+4.2.2.1. Paradigma tagmémioo del locativo loe 1; (+Gen:8110/af1jo vb1 1000 +Base:tm n 1
+±(Cpt:r sus 37 [pi] /D1r:8250-8260) ±Pl:8220 +L:8270} loe 2; [+Gen:af1jo vbl l000/Pr1v:5l30/Atr:5120
+
+82
+
+Baure
+
++Base:tm n 2 ±(Cpt:r sus 37 [pi]/Dir: 8250-8260) ±Pl:8220 +L:8270}
+loo 3 = {+Base:tm n 4-6 ±(Cpt:r sus 37 [pi]/
+Dir:8250-8260) ±Pl:8220 +L:8270} loo 4 = {+Base:n ll-12/pro 1/oor n 6 (ani-/api-)
++L:8270}
+
+4.2.2.2. Ejemplo de paradigma del locativo
+loe l = ni-síro-nebe-ye 'mi -hijo -pl -en'
+(en mis hijos). e-kfs-api-ye 'no-poseÍdo -ojo -debajo -en'
+(debajo del ojo). loo 2 ni-toéro-ye 'mi -campo -en (en mi
+campo). loe 3 = yaSór-ek1-ye 'canoa -dentro -en•
+(dentro la canoa).
+loo 4 = iyÍnoekonobinebe-ye 'ensefiar-ag-
+nosotros-pl -en' (en nuestros profesores). arówono-ye •volar-ag -en' (en él). anÍ-ye 'arriba -en' (arriba).
+
+4.2.3. El pronombre
+
+4.2.3.1. Paradigma tagmémioo del pronombre El pronombre personal
+
+Baure
+pro 1 = [±Gen:lOOO +Base:r sus 36 (ti))
+El pronombre demostrativa
+pro 2 = [+Base:r sus 36 (ti) +Gn:8~80
+±Distanoia:8290)
+pro 3 = (+Base:r sus 36 (no) +Gn:8282 +
+Distanoia:8290)
+4.2.).2. Inventario del pronombre El pronombre personal
+
+1
+2
+-1 fem
+J mase
+
+sing nti
+p1ti'
+r1tf ratf
+
+Pro 1 pl
+bitl yi ti'
+no ti'
+
+Cuadro V. El pronombre personal
+
+El pronombre demostrativo
+
+84
+
+Baure
+
+presente prÓximo distante
+
+fto2
+
+sing
+
+fe m
+
+maso
+
+ti
+
+te
+
+tin
+
+ten
+
+tia
+
+tea
+
+fto J pl
+.nen
+neo
+
+Cuadro VI. El pronombre demostrativo
+
+4.2.4. El afijo del sustantivo Clase inflexional 8100 de prefijos del
+sustantivo (Ver también 4.1.5, el afijo del verbo, Clase inflexional 1000). Clase 8110 Indefinido 8111 -e Indefinido, no-poseído
+Clase de prefijo del corazón del sustantivo (Ver prefijos del verbo 5120 y 5130). Clase 8200 de sUfijo inflezionado (Ver también sufijos del verbo 1220, l2JO y 4272). Clase 8210 Origen 8211 -po 'hecho de' (procede de) Clase 8220 Plural 8221 -nebe Plural
+
+Baure
+
+85
+
+Clase 8250-8270 de sufijos locativos Clase 8250 Direccional 8251 -ani 'arriba'. 8252 -api 'debaJo'. 8253 -sa 'a la orilla de'. 8254 -ki 'dentro de'.
+8255 -peki 'encima de'.
+Clase 8270 LocaciÓn 8271 -ye •en, a, donde'. Clase 8280-8290 de sufijos del pronombre Clase 8280 Género 8281 -i Feminino 8282 -e Masculino Clase 8290 Distancia 8291 -no PrÓximo, cerca de la persona a
+quien se habla. 8292 -co Remoto, lejos Clase 7200 de sufijos del tema del sustantivo Clase 7210 Agente 7211 -no Agente, alienable, nominalizador Clase 7220 Número del ser 7221 -er Singular del ser 7222 -no Plural del ser
+
+86
+
+Baure
+
+Clase 7230 Cualidad 7231 -pi Cualidad, el sufijo '-dad'.
+Clase 6200 de sufijos del cuerpo del sustantivo
+(Ver también sufijos del cuerpo del verbo 4210f
+4260, 4270 y 1210). Clase 6210 Nominallzador 6211 -ati Absoluto, nomina1izador 6212 -ri Subordinador, nominalizador
+Clases de sufijos del fundamento del sustantivo (Ver sufijo 5200 del corazón del verbo),
+
+4.J, El adverbio
+4.).1. El adverbio inflexlonado
+4.J.l.l. Paradigma tagmémico del adverbio adv 1 = {+Base:r adv 1 ±Distancia:af1jo sus
+8291/(+Abs:afijo vbl 4271 ±Aum:afljo Vbl 4211/Distanola:afljo sus 8290)]
+adv 2 = {+Base:r adv 2 ±(+Abs:afljo vbl 4271 +
+Enf:afljo vbl 1210)]
+adv J% {+Base:r adv Jl
+4.),1.2. Ejemplo de paradigma del adverbio adv 1 = na-n 'allÍ -prÓximo' (allÍ),
+
+Baure
+
+87
+
+na-ká-ka 'allÍ -abs -aum' (allÍ). na-ká-So 'allÍ -aba -remoto' (allÍ). adv 2 ; ne 'aquÍ' (presente oon el relator). ne-ko-é 'aqUÍ -abs -enf' (aqUÍ). adv 3 ; noy 'allÍ, una corta distancia del relator
+y de la persona dirigida, al alcance del oÍdo' (allÍ, al alcance del oido).
+
+4.J.2. La raíz del adverbio r adv 1 ; n ··aní•.
+r adv 2 ne 1aquÍ'. radv3= noy 'allÍ'.
+La derivación de las siguientes clases de
+palabra no se la puede determinar en su totalidad. La reapariciÓn de secuencias
+fonolÓgicas parecidas a los afijos de las clases precedentes de palabras, son numerosas; no obstante, aq~ellas secuencias difieren en funciÓn y sentido con relaciÓn a estos afijos. Por ello, se ha prescindido de tales semblanzas, presentando en las fÓrmulas, solamente las derivaciones comprobadas.
+
+4.4. La palabra de tiempo
+
+88
+
+Baure
+
+4.4.1 La palabra de tiempo inflexionada
+
+4.4.1.1. Paradigma tagmémico de la palabra de tiempo
+t l {+Base:r t 1)
+t 2 = (+Base:r t 2 ±Incom:afijo vbl 1221)
+
+4.4.1.2. Ejemplo de paradigma de la palabra de tiempo
+t 1 = rom 'ahora-mismo'. t 2 berÓ-ni 'ya -incom' (ya).
+
+4.4.2. La raíz de la palabra de tiempo
+
+rtl
+
+rom 'ahora-mismo'.
+
+r t 2 = ber 'ya'.
+
+4.5. El modificador
+4.5.1. El modificador inflexionado
+4.5.1.1. Paradigma tagmémioo del modificador
+mod 1 = {+Base:r mod l]
+= mod 2 {+base:r mod 2 ±Incom:afijo vbl 1221]
+Inventario del modificador
+
+Baure
+
+89
+
+Mod 1 Mod 2
+
+ProclÍtica
+
+EnclÍtica Palabra
+aoentua.d.a
+
+moeh •cierta- enC 'enf' toéri •oond' mente'
+
+hin-ni 1 optinoom'
+
+biáro-n1 'desid -inoom'
+
+nerén-n1 'hab -incom'
+
+CUadro VII. El modificador
+
+4.5.2. La raíz del modificador
+
+mod r l.
+
+moeh 'ciertamente•;
+
+enC Enfático; toéri Condicional.
+
+mod r 2 = hin Optativo; biáro Desiderativo;
+
+nerén Habitual.
+
+4.6. El conectivo
+4.6.1. El conectivo inflexionado
+4.6.1.1. Paradigma tagmémico del conectivo en 1 = [+Base:r en 1)
+en 2 = [+Base:r en 2}
+en J = (+Base:r en J ±Inoomsafijo vbl 1221) en 4 [+Base:pro 2 (ti) +Inst:afijo vbl 3220
+±Enf:afijo vbl 1210}
+
+90
+
+Baure
+
+4.6.2. Inventario del conectivo en 1 = napirÍ 'también'; ikárek 'por-
+aquella-razón. hárok 'mientras-tanto'. Juntamente con estos conectivos de la clase en
+1 ocurren tres palabras españoles adoptadas:
+boén 'bien'; karáw 'caramba'; ay 'oh •. en 2 ~ koéC 'porque'; koéhko 'para-que' .. en 3 ~ apÓ-ni •o -incom' (o' ni). en 4 ~ ti-w-é 'esp -inst -enf' (pero).
+on 5 aco-w 'Y -inst,' (y).
+
+4.6.3. La ra!z del conectivo
+
+en r l ~ napirÍ 'también•.
+
+en r 2 ~ koéé 'porque'; koéhko
+
+en r 3
+
+B.po 1 o' •
+
+'para-que•.
+
+4.?. La palabra onomatopéyica onom émberer 'imitaciÓn del balido de la oveja'.
+tótorekow 'imitación del canto del gallo'. wáwakow 'imitación del ladrido del perro•.
+wéyar 'imitaciÓn del mugido de la vaca'.
+
+4·.8. El proclÍtico interrogativo
+
+.Baure
+
+91
+
+4.8.1. El interrogativo inflexionado
+
+4.8.1.1. Paradigma tagmémico interrogativo ig 1 = l+Base:r ig 1-2 +(±O dep:afijo vbl 1010
+±S dep:afijo vbl 1010))
+ig 2 = [+.Base:r ig 1-2 +S dep:afijo vbl 1010)
+ig 3 = l+Base:r ig 1 +Incom:afijo vbl 1221)
+±Val:afijo vbl 1231)
+
+4.8.1.2. Ejemplo de paradigma interrogativo
+ig 1 = ko-ro-pi •¿por-qué él -usted?'
+(¿porqué ... usted ... él?). ig 2 amo-no 1 ¿por-qué-no -ellos?'.
+lg 3 ko-ni-S 'quién -incom -bien?' (bien, ¿quién?).
+
+4·.8.2. La raíz del interrogativo
+
+r ig 1
+
+ko- 1 ¿por-CI.ué?, ¿quién?,
+
+r 1g 2 = amo- •¿por-qué-no?'.
+
+¿qué?'.
+
+4.9. La partícula 4.9.1. La partícula proclÍtica relativa rel = ka 'lo-que'. 4.9.2. La partÍcUla proclÍtica limitativa
+
+92
+
+Baure
+
+lim to 'él'.
+
+4.9.3. La partÍcula enclÍtica 'de oÍdas' do= hi •se dice'.
+
+~. 9. ~. La partícula de vacilaciÓn
+vac = ha VacilaciÓn
+El tagmema ±Vac:part vao/pro 2 puede
+interrumpir cualquier construcciÓn en todo nivel.
+
+4.9.5· Inventario de la partícula negativa
+
+neg l
+
+Ónka 'no'
+
+neg 2 nÓka 'ausencia'.
+
+neg 3 = porÓk 'nunca'.
+
+neg ~ = berék 'nunca'.
+
+neg 5 wÓkow 'todavía-no'.
+
+4.9.6. La partícula 'acuerdo'
+
+4.9.6.1. Paradigma tagmémico de la partícula
+'acuerdo'
+acd l {+Base :r aod l} acd 2 {+Base:r acd 2 +Incom:afijo vbl 1221}
+
+4.9.6.2. Inventarlo de la partÍcula •acuerdo' acd l = hah 1 sÍ 1 •
+
+Baure
+
+93
+
+acd 2 ~ héni 'conforme'.
+
+4.9.7. La partícula de saludo
+
+4.9.7.1. Paradigma tagmémico de la partÍcula de sA.ludo
+sal 1 [+Base:r sal l} sal 2 [+Base:r sal 2 ±Incom:afijo vbl 1221}
+
+4.9.7.2. Inventario de la partÍcula de saludo sal 1 nte 'hola'. sal 2 haré-ni 'cómo-le-va -incom' (¿cÓmo
+le va',). 4.9.8. La partÍcula auxiliar aux 1 = Íta •continuar'.
+= aux 2 éta 'acabar'.
+
+5. La morfofonémica
+5.1. Variación determinada fonologicamente
+5.1.1. Variaciones de la vocal i ~ e inmediatamente después de o: -ron 'padre
+(o madre)•; moéron 'no-padre (o madre)' (huérfano). 1 ~ ~ inmediatamente después de a: -1?1 'enf';
+
+94
+
+Baure
+
+niyÓnopa?i 1yo-voy-a-andar-enf1 (yo
+
+V1 ~ ~
+
+voy a andar ) •
+inmediatamente antes de v1 : ri-
+-Ípikow 'asustarse'; rÍpikow
+
+'ella'; 'ella-
+
+está-asustada'.
+
+a, en el sufijo del tema de un verbo, ~e
+
+inmediatamente antes de n, r o y:
+
+-h{CoSa 'esperará-a•; -r1 'ella';
+
+-híCoSeri 'la-esperará-a-ella'.
+
+5.1.2. Variaciones de la consonante
+cv- (excepto ri-) ~ e- antes de a, e u o:
+ro- •él'; -áCikopapo 'yendo-a-
+visitar'; ráCikope.po •él-va-a-visitar•.
+Un prefijo c1 v1 - ~ 9- inmediatamente antes de
+C1V1 que ocurre en la posiciÓn inicial de un tema: ni- 'yo'; -níkow 'comer'; nÍkow 'yo-como'. NeS •carne' = -eS después de una consonante en posiciÓn intermedia dentro la palabra ~ nes en cualquier otra parte: tÍporekeS 'carne-de-gallina'.
+
+5.2. VariaciÓn libre
+
+Baure
+
+95
+
+5.2.1. Variaciones de la vocal
+v1 ?v1 - v1 cuando v1 es a o i: notóra?aoikowor-
+notóraCikowor 'ellos-lo-encontraron-aél-en-un-lugar-extraffo'; nibéyi?inowapa nibéyinowapa 'tengo-hambre'.
+
+5.2.2. Variaciones de la consonante
+
+C8 VC 8 -
+
+eses- al principio de la palabra o en una silaba intermedia no acentuada:
+
+-C8 V- -C 8 en una silaba final, cuando C8 es una consonante continuada o es una oclusiva que no sea ?: plsláp ~ psiáp
+
+'entra usted'; hénoko ~ hénok 'bueno'.
+
+C1C1 - el cuando e1 es r o n en una agrupaciÓn de
+
+consonantes idénticas dentro de una
+
+palabra, o entre dos palabras: ber repen ~ ber epén 'ya muriÓ'.
+
+rn- n y nr r: ber nikl?inowapa- be nikÍ?ino-
+
+wapa 'ya yo-quiero•.
+
+w ~ b antes de -i en una lista arbitraria de palabras: nawinÓn ~ nabinÓn 'mi-marido'.
+
+wo- ~be- en una lista arbitraria de palabras: worápikowor ~ beráp1kowor 'ya-vino-él'.
+
+Baure
+5.3. VariaciÓn determinada gramátioalmente kihéb1 'olla' = -kéheb1 cuando manifiesta el
+tagmema Base de n 1 ~ kihébi en cualquier otro caso.
+5.4. Variación determinada lexicográficamente
+kaháw •venado' kaháh- antes de NeS •carne' ~ kaháw en cualquier otro caso: kahábeS 1 venado-carne 1 ( oe.rne de venado) ..
+-¿0 'Instrumental' ~ -01- inmediatamente antes
+del afijo del verbo 1000 - -oo en cualquier otro caso: rémonikoGibi 'su-amor-a-nosotros'; rémonikoOowapa 'es-su-amor'. -kO Absoluto = -ki- inmediatamente antes de los afijos del verbo 1003-100~· o 1006 - -ko en cualquier otro caso¡ yih!nokir •ustedes-le-miran-a-él'; nonÍkoSero 'ellos-van-a-comer'.
+kO- Atributivo y mO- Privativo = ka- y ma-
+en una lista arbitraria de nombres lnflexionados, y de fundamentos de verbos y nombres ~ ko- y mo- respectivamente en cualquier otro caso:
+
+Baure
+
+97
+
+kawéron •oon-oasa-ag' (teniendo una casa); mábe •no-hablar' (mudo); -koéyon •con-esposa• (teniendo una esposa); moéókokino •no-estÓmago'
+(sin oorazón).
+Imo- Causativo = i- en una lista arbitraria de
+fundamentos de verbo - imo- en cualquier otro casos noépinan 'ellos-les-hacenhuir'; pimokÓtcrekowor •usted-la-hacatrabajar'. (Ver también 5.1.1) -I- Duradero = -ki- en una lista arbitraria de cuerpos del verbo y del nombre - -ien cualquier otro casos hÍrikiko 'siga-sentado'; ponoéko •siga-sembrando•. Ver también 5.1.1) -P1 'segunda persona singular del objeto
+dependiente' = -bi en una lista
+arbitraria de verbos - -pi en cualquier otro caso: rohÍnokopabi •él-le-va-a-ver -a-usted'; nibiápapi 1yo-le-voJ-a-saoar•.
+
+5·5· ReduplicaciÓn
+red l = reduplicaciÓn de la sílaba qua precedes moríri 'comején•.
+
+98
+
+Baure
+
+= red 2 redupl1oao1Ón de las dos s!labas que
+preceden: sÓrisÓrl 1buho'.
+
+

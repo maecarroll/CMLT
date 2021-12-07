@@ -1,0 +1,266 @@
+Pier Marco Bertinetto
+Ayoreo (Zamuco) as a radical tenseless language
+(contributo per la miscellanea in onore di Alberto Mioni)
+After defining the notion of tenselessness, the paper presents arguments to treat Ayoreo (with exceedingly poor verbal morphology) as a radical tenseless language. Apart from mood, which is overtly expressed by the realis vs irrealis opposition, all possible candidates to the status of temporal-aspectual exponents turn out to be, on closer inspection, no more than adverbial elements, although the Tomaraho dialect of the cognate language Chamacoco might be on the verge of grammaticalizing a temporal morpheme.
+1. Understanding tenselessness The notion ‘tenselessness’ may be read in two different ways, due to the ambiguous
+meaning of the word ‘tense’, which can designate either (A) the time domain as involved in the so-called TAM (Tense-Aspect-Mood) systems of natural languages, or (B) the specific morphosyntactic devices that convey TAM information. According to reading (A), one can talk, e.g., of the Italian Simple Past as having past-tenseA reference; according to reading (B), one can, more specifically, say that the Simple Past is a tenseB of the Italian TAM system. Precisely to avoid this undesired ambiguity, the present author regularly distinguishes in his writings between (A) ‘temporal reference’ or ‘temporality’, and (B) ‘tense’ (i.e., tenseB). According to this view, any tenseB is regarded as the organic vehicle of temporal-aspectualmodal values, obviously different from tenseB to tenseB and often from one usage to the other within one and the same tenseB. Thus, to continue with the above example, the Italian Simple Past should be regarded as a tenseB conveying the values of past temporal reference,
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+perfective aspect, and indicative (i.e., factual) mood. Depending on the interpretation that one attaches to the word ‘tenselessness’, an
+immediate consequence follows. According to reading (A), a language should be regarded as tenselessA whenever it lacks morphosyntactic exponents to convey temporal values, although it may possess tools to express the remaining components of the TAM system. According to reading (B), by contrast, a language should only be considered tenselessB if it lacks tensesB, i.e. if it does not present an articulation whereby different forms build structural oppositions on the basis of contrasting TAM properties (Comrie 1976). This entails that languages such as Western Greenlandic (Schaer 2004; but see Hayashi & Spreng 2005), Mandarin Chinese (Lin 2010), or Biblical Hebrew and Classical Arabic (Cohen 1989) should be regarded as tenselessA, but by no means as tenselessB, for each of them possesses a structured system of oppositions in the domains of aspect and/or mood.
+To avoid confusion, in this paper the notion tenselessnessB will be called ‘radical tenselessness’, although one should take this notion cum grano salis for at least two reasons. First, even though a language may lack ways to convey, e.g., temporal and aspectual values, it might nevertheless possess tools to express modal values. Here the convention will be adopted that radical tenselessness is involved whenever a language possesses devices to express no more than one among the three TAM components. Second, one should keep in mind that no language should be thought of as totally deprived of any possibility to express at least the bulk of TAM semantics. For instance, no language lacks temporal adverbs to locate the events on the time axis, nor morpho-lexical devices to convey at least the most fundamental aspectual and modal values (such as aspectual adverbs of the type ‘still’, ‘already’, ‘habitually’, or adverbs and modal verbs to express the basic epistemic and
+2
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+evidential oppositions, although any one of these elements may be absent in the individual languages).
+The purpose of this paper is to show that Ayoreo belongs to the class of radical tenseless languages. The present author hopes that this topic will speak to the heart of his good old friend Alberto Mioni, to whom this paper is dedicated, considering his longstanding interest and vast knowledge in exotic languages.
+2. Is Ayoreo a radical tenseless language? Ayoreo is a Zamucoan language spoken in the Gran Chaco territory between Southern
+Bolivia and Northern Paraguay. The present author, with the collaboration of Luca Ciucci, aims at producing the first scientific grammar of this language. This will be accompanied by the grammar of Chamacoco (the only other extant Zamucoan language, more properly called Ɨshɨro Ahwoso, with the word Ɨshɨro designating the people themselves) to be written by Luca Ciucci, who is also working on a grammar of Ancient Zamuco based on the description provided in the first half of the 18th c. by the French Flanders jesuit Ignace Chomé (Lussagnet 1958). For the time being, the only available grammatical description is the sketch offered by Bertinetto (2009), soon to appear in Spanish translation in the third volume of Lenguas de Bolivia, edited by Pieter Muysken and Mily Crevels. It is worth noting that the description here provided for Ayoreo with respect to tenselessness extends to Chamacoco as well – at least with respect to the Ebitoso dialect (the one spoken by the majority of the Chamacocos) – with no more than relatively marginal differences concerning the domain of mood/modality.
+As shown in Bertinetto (2009), Ayoreo has no system of grammatical tenses. The 3
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+verbal paradigm presents a single form (with full person inflections) in the realis mood, and a partly defective form (in terms of person inflections) in the irrealis mood as used in injunctive and hypothetical contexts, and occasionally (in the most conservative variety) in future referring situations interpreted as irrealis contexts. Thus, although the category mood is overtly expressed – and indeed further supported by a neat divide in the complementizers system, mirroring the realis / irrealis split by means of uje (for temporal and causal clauses) and ujetiga (for hypothecal and final clauses) – no overt contrast is expressed with the help of grammatical tenses in the domains of temporality and aspect. In addition, Ayoreo presents the modal-epistemic particles je and ja, about whose textual usage further investigation should be carried out, plus some evidential particles, like the pervasive chi (‘shared reported knowledge’) frequently uttered in narratives. To mimic the Castillian progressive periphrasis ‘estar + gerund’, Ayoreo speakers sporadically, and mostly under elicitation, make use of the emphatic particle qué (uttered with strong prominence, as in QUE tagu ‘(s/he) is definitely eating’), which could hardly be considered a grammaticalized construction.
+As for temporality, apart from the universal tendency of telic verbs to suggest (out of context) past/future reference and of atelic verbs to suggest (again out of context) present reference, the speakers occasionally – but far from obligatorily – make use of temporal adverbs, especially when the situational context does not provide sufficient information. These include, e.g., dirica ‘yesterday / a few days ago’ and dirome ‘tomorrow / in the next few days’, but in the past domain the choice is sufficiently large to express nuances of temporal distance (cf. ica, icaite, icasicaite, nanique, indicating progressively distant temporal stages). The two adverbs that come closer to the condition of grammaticalized particles are
+4
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+que (retrospective)1 and jne (prospective), optionally used to disambiguate the temporal interpretation:2
+
+(1) Ayoreo (Zamuco)
+
+a. Chi acote chi ch-ise yocade iguijnai que, mu chi tirita.
+
+EVID wife EVID 3-find turtles house RTR but EVID empty
+
+Anirengo ch-uje di(rica).
+
+some.PL 3-kill yesterday
+
+‘A woman found a turtle’s hole, but it was empty. Someone had previously captured
+
+(the animals).’ [tale from fieldwork]
+
+b. “Ureja cha, je boyo
+
+yi-co ga
+
+ñ-iso-cõi datatõra,
+
+Ureja PHAT MOD 2P.IRR.go 1PL-go COORD 1-collect-1PL out_there
+
+y-a-jo yoqu-i-tigo
+
+yoca to jne.”
+
+1-eat-1PL 1PL-haul.CLF-INDT.MP turtle also PRSP
+
+‘”Ureja, let us go and collect, we (shall) eat our turtles.”’ [tale from fieldwork]
+
+This is a point that deserves careful consideration, for according to the short grammatical description by Morarie (1980), a Northamerican missionary of the New Tribes Mission organization, que and jne should be considered as giving rise to fully-fledged tenses, respectively past and future. Incidentally, in his grammar of Ancient Zamuco Ignace Chomé indicated a rich paradigm of tenses clearly modeled on Latin, but it is easy to show that, despite the undoubted merits of this extraordinary savant, he simply misinterpreted as verbal
+
+1 Temporal que [ke] is homophonous with the negation que and with the emphatic particle qué (carrying strong prominence). This complicates at times the decision as for the actual interpretation. It is worth noting that que (in all of its meanings) is optionally realized as [he]. 2 Throughout this paper the following abbreviations will be used: ASS = assertive marker, BF = base form, COMP = complementizer, COORD = coordinator, DEF = definite, EMPH = emphatic, EVID = evidential, FS/FP = feminine singular/plural, INDET = indeterminate, LINK = linking element, MOD = modal, MS/MP = masculine singular/plural, PHAT = phatic, LINK = linking element, PFV = perfective, PRSP = prospective, RTR = retrospective, RFL = reflexive. As for the meaning of base form, cf Bertinetto (2009).
+5
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+inflections a number of adverbial elements. The position suggested by Morarie (1980) has
+also been recently adopted by the Tracey Carro Noya in a so-far unpublished conference
+presentation concerning the Tomaraho dialect of Chamacoco (the other one being called
+Ebitoso, as mentioned above). According to her, Tomaraho is on the verge of
+grammaticalizing a set of temporal and aspectual markers. Most of these bear resemblance
+(in some cases even phonetically) with the above mentioned Ayoreo adverbs: hnaga is the
+equivalent of dirica ‘yesterday’, kyche of icaite ‘long time ago/before’, jehe of the emphatic
+particle qué (see fn.1). The morpheme ehn is claimed to indicate past imperfectivity, but the
+examples reported by Carro Noya are compatible with the possibility of its simply being a
+past reference adverb meaning ‘then’ (roughly equivalent to Ayoreo jecuje, i.e. jec u uje ‘so
+(it) is that’), with the imperfective nuance provided for free by the atelic nature of the
+predicates involved (cf. Ehn niogyt kys hnaga [EHN water cold yesterday] ‘Last time the water was cold’).3,4
+The only morpheme which might really show an incipient grammaticalization stage is the enclitic =ke, obviously reminiscent of the Ayoreo temporal adverb que.5 Judging from
+3 This example presents two temporal adverbs. If they were indeed TAM markers, one should ask whether their cooccurrence depends on structural reasons. It is however reasonable to assume that the speaker simply felt the need to narrow down the temporal localization of the event by adding a deictically oriented adverb, indicating short temporal distance. 4 It is worth noting that in Ebitoso ehn is a temporal subordinator, also used together with uhe. In addition, although Carro Noya does not report any example for Tomaraho, one should note that the Ebitoso equivalent of Ayoreo prospective jne is nehe. As Luca Ciucci suggests, one cannot exclude a remote connection of this temporal particle with the future reference affix -ne / -nehe to be found in various Guarani languages, like: Tembé -nehé (Dietrich 1990: 69), Guajajàra -nehe (Jensen 1998: 553), Emérillon and Bolivian Chaco Guarani (i.e., Chiriguano) -ne (Dietrich 1990: 70,95; Bertinetto 2006). I take this opportunity to thank Luca for some other useful suggestions incorporated in this text. 5 Tomaraho =ke and Ayoreo que are homophonous, despite the spelling difference merely due to the different transcription conventions adopted. Actually, for both Ayoreo and Chamacoco there are competing writing conventions. Suffice it to say that, in the quotations reported here, the grapheme <j> stands for [h] in Ayoreo and for [j] in Chamacoco. As for Ayoreo <jn, jm, jñ> and Chamacoco <hn, hm>, they stand for the corresponding voiceless nasals, with variable pronunciation (Bertinetto et al. 2010).
+6
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+the examples provided by Carro Noya, =ke is always found immediately attached to a verb, possibly the last one in a serial verb construction, as in eldei takaha texyr=ke [morning 1SG.go 1SG.fish=KE] ‘This morning I went fishing’. This is admittedly different from what one observes in Ayoreo, where que is usually found at some distance from the predicate, as in (1a). Thus, although Tomaraho has not gone a long way on the process of grammaticalizing fully-fledged TAM morphemes, one has to concede that it possibly is one step ahead with respect to Ayoreo or the Ebitoso dialect of Chamacoco (where =ke is is usually found at the end of the clause). But is this enough to conclude that Ayoreo is a radical tenseless language?
+In order to answer this question, one should first dismiss the possible pseudo-argument based on the optionality of the Ayoreo (and, for that matter, Tomaraho) temporal adverbs/particles. To understand this, one can consider the case of Moore, a Gur language mostly spoken in Burkina Faso (Bertinetto & Pacmogda 2013). The Moore verbal system presents both purely aspectual suffixes undergoing subtle morphophonological processes, and preverbal temporal and modal particles, supposedly derived from adverbs or verbs. The lack of morphological coalescence of the latter morphemes suggests that they belong to a later stage of grammaticalization. This allows the speculation that, at a previous stage, Moore might have been a purely aspectual language, perhaps a radical tenseless language where temporality and modality had no morphosyntactic exponence. What is of interest in the present context is the fact that the preverbal particles – at least those that convey pure temporal (as opposed to modal) meaning – may be optionally omitted. This often occurs in narratives, where the temporal particles are only provided by the speaker when s/he feels the need to indicate the temporal localization of the event, for otherwise the mere context does
+7
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+
+the work. This is obviously different from what one observes, e.g., with the English past tense morpheme -ed (and allomorphs), which could not possibly be stripped off without affecting the intended meaning. Despite this, it is legitimate to consider the Moore optional preverbal particles as perfectly grammaticalized devices for at least the following two reasons. First, they are strictly adjacent to the verb, with very few possibilities of intermission (typically including the linking element n). This invites the speculation that at least some of them might have arisen out of verbs introducing a serial verb constructions, a syntactic type still very much used in present-day Moore. Whatever the case, it is obvious that the strictly preverbal position is strong indication of their high degree of grammaticalization as TAM exponents. Second, they can combine according to rigidly specifiable criteria in order to give rise to structured temporal and modal values. For instance, the counterfactual tenseB is formed by combining a retrospective and a prospective marker:
+
+(2) sẽó og-ã
+
+rá ná n
+
+yɩ-̀ ɩ
+
+sṍamá
+
+winter-DEF RTR PRSP LINK be.PFV-ASS well
+
+‘Winter might have been good.’
+
+This proves that the Moore temporal/modal particles give rise to fully-fledged tenses. When the purely temporal particles are omitted, the speaker can easily recover the contextually elided element, thus construing the implicit tenseB meaning. Ayoreo ostensibly falls short of this. Not only there are no grammaticalized adverbs/particles combinations (as for Tomaraho, cf. fn. 3), but even the syntactic position of que and jne – the only possible candidates to the status of TAM particles – is far from strictly regulated. In order to substantiate this point, careful inspection was carried out on the spoken texts directly collected or obtained by the present author, excluding any edited text in order to overcome
+8
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+
+linguistic contamination.6 To start with, a quantitative datum: in a sequence of approximately 2100 words extracted from the memories of the old chief Samane (kindly offered to this author by the anthropologist Jürgen Riester), there are 30 instances of negative que, 2 of retrospective que, 1 of emphatic qué, and 4 of prospective jne. Although the paucity of prospective markers is expected in a narrative text (indeed, the only occurrences are included in direct speech passages), the paucity of retrospective que can only be understood in relation to the presence of alternative ways to express past reference by means of other past referring adverbs (icaite, nanique etc.). This is a first hint that at least que is far from grammaticalized.
+To supposedly strengthen this point, one might quote passages were que and jne accompany just one clause nucleus to the exclusion of others within the same sentence. This, however, might be intended as a sort of parsimonious usage reminiscent of the Moore particles omission pointed out above. Let us rather consider the syntactic position of these supposed TAM markers. As it happens, besides a number of cases where they occupy the final position within the clause – possibly followed by other strictly clause-final morphemes – as shown in (1), one can easily detect different syntactic positions, as in the following examples:
+
+(3) Ayoreo (Zamuco)
+
+Nga chi ore ch-ayo jõroque chequedie ore, a (u)ñeque
+
+COORD EVID 3.PL 3-run in_vain women 3.PL MOD some_man
+
+ch-aru gari que iji
+
+sañeque, guede garani (u)ñeque.
+
+3-burn over RTR ADPOS somewhere sun origin somebody
+
+6 Needless to say, this is mere methodological precaution and should not be read as a sort of criticism against those who dealt with this language in the past. In particular, the contribution to the understanding of Ayoreo by the New Tribes missionaries is invaluable, witness their detailed dictionary (Higham A., Morarie M., Paul G. (2000) Ayoré-English dictionary, Sanford, FL.: New Tribes Mission; the Spanish version will soon be available on the web). Also useful, although less accurate, is the dictionary by Barrios A., Bulfe D., Zanardini J. (1995), Ecos de la selva. Ayoreode Uruode, Asunción: Centro de estudios Antropológicos de la Universidad Católica.
+9
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+
+‘And the women ran in vain, somebody had put fire somewhere, somebody towards the
+
+east.’ [tale from fieldwork]
+
+(4) Ayoreo (Zamuco)
+
+“Choqui ja, be
+
+ba-soca-rique a, uje gajño deji uti
+
+man MOD 2.get.IRR 2.manner.INDT MOD COMP swamp 3.exist there
+
+que anire dajei garani tuque
+
+ejoi.”
+
+RTR PHAT path origin that.already_mentioned side
+
+‘“Man, do something [lit., get some manner of yours], because there was a swamp
+
+there in the direction of that (previously mentioned) path”.’ [tale from fieldwork]
+
+(5) Ayoreo (Zamuco)
+
+“Date_code a, a-pesu y-ogue_pare-raque
+
+enga ñ-ijnina
+
+grand-mother MOD 2.IRR-get 1-club_for_hunting-INDET COORD 1-carry
+
+ore to jne aja ñacorenie.”
+
+3PL also PRSP ADPOS wild_pigs
+
+“Grand-mother, make (for me) hunting-club(s) and I shall carry them for (getting)
+
+wild pigs.” [tale from fieldwork]
+
+(6) Chi ch-ojninga: “Boyo yi-co jne ome d-ojode
+
+jnanio.”
+
+MOD 3-say
+
+2P.IRR.go 1PL-go PRSP ADPOS RFL-fellows.CLF men.BF7
+
+He said: “Let’s go with his friends!” [tale from fieldwork]
+
+In (3), que indicates a previous time stage, similarly to Eng. ‘before, previously’. As for (6), it features the irrealis mood in its exhortative function accompanied by the prospective marker. Although this is not the only example of this sort, it will not go unnoticed that the temporal meaning of jne is redundant in such cases, for the exhortative has in and by itself prospective reference. In other words, while jne is often absent in future referring contexts (just as que is, in past referring ones), it is sometimes found in contexts where one would not expect it if it were a true TAM exponent. One can thus hardly escape the conclusion that these two markers, lacking a fixed syntactic position and being simply used to reinforce (sometimes even redundantly) the temporal interpretation of the textual
+
+7 As for the meaning of “base form”, cf. Bertinetto (2009).
+10
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+
+sequence, are not part of a paradigm of grammatical tenses, but rather preserve their adverbial character. This is further confirmed by the following example, where jne collocates with a past referring verb, merely designating a later temporal stage rather than giving rise to a future tense:
+
+(7) Ayoreo (Zamuco)
+
+Nga jnani tude chi tibidi d-aro
+
+ñaque jne jetiga tibagui ,
+
+COORD man that EVID 3.call RFL-daughter other.FS PRSP COMP 3.accompany
+
+tibagui
+
+ape baje uje ch-oji naijnai gari.
+
+3.accompany sister first COMP 3-drink shaman over
+
+‘But, next, that man called one of his daughters so that she (would) accompany ...
+
+accompany her elderly sister who had married the shaman.’ [tale from fieldwork]
+
+It would however be wrong to convey the impression that que and jne do not obey any kind of syntactic constraint, for they can only be found postverbally. However, this could hardly be considered a proof of their grammaticalization as TAM markers, for adverbs in general often obey positional restrictions (Cinque 1999). This constraint is specially relevant for que, because of its possible confusion with the negation and the emphatic particle. The following example shows the three elements in one and the same context:
+
+(8) Ayoreo (Zamuco)
+
+Nga que cucha pibo-tique, e
+
+qué ch-ijnaque yu; a
+
+COORD NEG thing food-INDT already EMPH 3.give
+
+1S MOD
+
+y-acai degúi que enga ore ch-isi yu iji
+
+cuterone bisidecho.
+
+1S-stay camp RTR COORD 3P 3-give 1S ADPOS honey.PL for_free.BF.MP
+
+‘And I did not have any food, but they did give it to me; I stayed in the camp (then)
+
+and they offered me honey for free.’ [Samane’s memories]
+
+3. Concluding remarks 11
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+In the mind of this author, the data presented in §2 sufficiently prove that Ayoreo is indeed a radical tenseless language. The only TAM component that is overtly manifested is mood/modality, allowing the conclusion that it is a mood-prominent language in the sense of Bhat (1999). Actually, the Ayoreo case is not unique in that part of the world. Apart from the Ebitoso dialect of Chamacoco (Ciucci 2013), Mueller (2013) lists six languages – out of the 63 included in her balanced sample – supposedly presenting such character, although careful analysis should be carried out in order to check whether some of them are merely instances of tenselessness1, rather than radical tenselessness. The present author has engaged in performing such a task (Bertinetto, submitted). At any rate, although radical tenselessness is a definitely rare typological feature, the Zamucoan languages are not unique since the languages spoken in the so-called Bird’s Head of New Guinea (such as May Brat; see Dol 1999) have been quoted as an example (Dahl 2001).
+Before concluding, it is worth asking oneself what does it mean for a language to be tenseless (in whatever sense of this word). It clearly cannot mean that the speakers of such languages have no cognitive understanding of the time domain (or of the TAM domain at large), for this would make any social life impossible, not to mention the psychological troubles that this might cause. A quick reflection suggests the obvious answer: this has no consequence at all, it is simply one of the many ways in which languages have shaped themselves, as the result of their diverse historical evolution. Just as the speakers of languages without article have no problem in understanding the notion of specificitydetermination (easily supported, when needed, by the use of demonstratives), the speakers of tenseless languages have no difficulty in locating the events in time, making use of the alternative machinery offered by grammar and lexicon. They simply have at their disposal a
+12
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+reduced set of tools, but this does not in any way imply that they lack the basic cognitive abilities underlying the TAM components. They merely put a heavier burden on the cooperative attitude of the addressee in disentangling the appropriate information out of the communicative context. It is a trade-off: a poor morphosyntactic coding increases the need to extract information from the context, whereas a rich morphosyntax directly engages the listerner in processing the coded information. Thus, ultimately, the amount of cognitive work involved in understanding a linguistic act of communication does not significantly differ. This suggests that linguistic complexity does not reduce to a mere count of morphemes: presumably, the computation of the difference in actual cognitive expenditure leads to a Ødifference result.
+One can thus confidently dismiss the ludicrous claim put forth by the Harvard economist M. Keith Chen (2013), who proposed that the speakers of languages exhibiting a morphological difference between the present and the future tense have no sense for saving.8 Whenever stepping on this kind of rubbish, the present author asks himself why on earth some non-linguists feel the impulse of writing on linguistic matters (as one can often observe on newspapers). Should they not, like any judicious scholar, refrain from writing on whatever scientific domain that falls outside their expertise? Evidently, the mere ability to speak – which is granted to all human beings above a minimal level of intelligence – gives some people the illusion of possessing a deep knowledge of those indeed extremely complex objects known under the name of human languages, of which even linguists only have the beginning of an understanding.
+To rebut this extravagant claim one just has to consider the case of the Ayoreo people.
+8 As Chen claims: “I find that speakers of such languages: save more, retire with more wealth, smoke less, practice safer sex, and are less obese.” Paradise on earth!
+13
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+Their radically tenseless language did not prevent them from building up a traditional way of life – actually typical of the indigenous South American people in general – based on exchange, rather than saving. The grotesque Mr. Chen might indeed be surprised to learn that, in their traditional habits (i.e., before western acculturation), the Ayoreos did not even have a fully-fledged expression corresponding to ‘thank you’. In their communist-oriented society, nobody had individual properties apart from what concerned the specific status of the given person in the community (such as ornaments, weapons and the like). If one needed anything, s/he had the right to ask and the addressee had no right to refuse, knowing that (in case of need) it would be easy to have it back. Any refuse might have caused a harsh confrontation: therefore, no need for thanking. Nor for saving.9
+Should we then conclude that the lack of sense for saving is connected with the absence of the word ‘thank you’? What does the wise Alberto think of this?
+9 Chen’s paper has given rise to an intense debate. Particularly insightful is the comment to be found at the following link: http://www.replicatedtypo.com/whorfian-economics-reconsidered-why-future-tense/5988.html, where one can learn that among the possible “linguistic” correlations with saving (using the same economical parameters on which Chen based his analysis) one finds the presence of uvular consonants!
+14
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+Bibliographical references
+Bhat D N S (1999) The Prominence of Tense, Aspect and Mood, Amsterdam / Philadelphia, Benjamins.
+Bertinetto P M (2006) On the Tense-Aspect system of Bolivian Chaco Guaraní, in Dietrich W (ed.), Guaraní y ‘Mawetí-Tupí- Guaraní’. Estudios históricos y descriptivos sobre una familia lingüística de América del Sur. LIT, Münster, 105-167.
+Bertinetto P M, (2009), Ayoreo (Zamuco). A grammatical sketch, <http://linguistica.sns.it/QLL/QLL09/Bertinetto_1.PDF>
+Bertinetto P M, (submitted). Tenselessness in Southamerican indigenous languages, with focus on Ayoreo (Zamuco).
+Bertinetto P M, Pacmogda T C (2013) Le système aspecto-temporel du moore, in “Africana Linguistica” 19.
+Bertinetto P M, Ricci I, Zhi N (2010) Le nasali sorde dell’ayoreo. Prime prospezioni, in Cutugno F., Maturi P., Savy R., Abete G., Alfano I. (a cura di), Parlare con le persone, parlare alle macchine. La dimensione interazionale della comunicazione verbale, Atti del 6° Convegno Nazionale dell’Associazione Italiana di Scienze della Voce, Napoli, Università Federico II e Salerno, Università di Salerno (CD-rom).
+Carro Noya, T (unpublished) La expresión de tiempo y aspecto en la viariedad Tomaraho del Chamacoco, paper presented at Italo-Americana 4, Cortona, June 2013.
+Chen M K (2013) The Effect of Language on Economic Behavior: Evidence from Savings Rates, Health Behaviors, and Retirement Assets, in “American Economic Review” 103, 690-731.
+Cinque G (1999). Adverbs and Functional Heads: A Cross-Linguistic Perspective. Oxford: Oxford University Press.
+Ciucci L (2013) Inflectional morphology in the Zamucoan languages, PhD dissertation, Scuola Normale Superiore, Pisa.
+Cohen D (1989) L’aspect verbal. Paris, Presses Universitaires de France. Comrie B (1976) Aspect, Cambridge, Cambridge University Press. Dahl Ö (2001) Languages without tense and aspect, In Karen H., Ebert; Zúñiga, Fernando
+(eds.), Aktionsart and aspectotemporality in Non-European languages. ASAS (Arbeiten des Seminars für Allgemeine Sprachwissenschaft), Universität Zürich, 159173. Dietrich W (1990) More evidence for an internal classification of Tupi-Guarani languages,
+15
+
+QUADERNI DEL LABORATORIO DI LINGUISTICA – VOL. 12/2013
+“Indiana”, Supplement 12. Gebr. Mann Verlag, Berlin. Hayashi M, Spreng B (2005) Is Inuktikut tenseless?, in Proceedings of the Annual
+Conference of the Canadian Linguistics Association. Jensen C J (1998) Comparative Tupì-Guaranì Morphosyntax, in Derbyshire D C, Pullum G
+K (eds.), Handbook of Amazonian languages, vol 4. Berlin / New York, Mouton de Gruyter, 489-618. Lin J-W (2010) A tenseless analyhsis of Mandarin Chinese revisited. A response to Sybesma 2007, “Linguistic Inquiry” 41, 305-329. Lussagnet S (éd.) (1958) Ignace Chomé: Arte de la lengua zamuca (1738-1745), “Journal de la Société des Américanistes de Paris” 47, 121-79. Morarie M (1980) Simplified Ayore Grammar, Cochabamba, Publicaciones Nueva Vida (mimeo). Mueller N (2013) Tense, Aspect, Modality, and Evidentiality Marking in South American Indigenous Languages, Utrecht: LOT. Shaer B (2004) Toward the tenseless analysis of a tenseless language, “University of Massachusets Occasional Papers” 28, 139-156.
+16
+
+

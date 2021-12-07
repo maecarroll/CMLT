@@ -1,0 +1,1806 @@
+LERIANA DE ALMEIDA
+A MARCAÇÃO DE (TEMPO), MODO E ASPECTO NA LÍNGUA KAINGANG: UMA PROPOSTA DE ANÁLISE
+Londrina 2008
+
+LERIANA DE ALMEIDA
+A MARCAÇÃO DE (TEMPO), MODO E ASPECTO NA LÍNGUA KAINGANG: UMA PROPOSTA DE ANÁLISE
+
+Dissertação apresentada ao Programa de
+
+Pós-graduação
+
+em Estudos da
+
+Linguagem, da Universidade Estadual de
+
+Londrina, como requisito parcial à
+
+obtenção do título de Mestre.
+
+Orientador: Prof. Dr. Ludoviko dos Santos.
+
+Londrina 2008
+
+Catalogação na publicação elaborada pela Divisão de Processos Técnicos da Biblioteca Central da Universidade Estadual de Londrina.
+Dados Internacionais de Catalogação-na-Publicação (CIP)
+A447m Almeida, Leriana de. A marcação de (tempo), modo e aspecto na língua kaingang : uma proposta de análise / Leriana de Almeida. – Londrina, 2008. 123f.
+Orientador: Ludoviko Carnasciali dos Santos. Dissertação (Mestrado em Estudos da Linguagem)  Universidade Estadual de Londrina, Centro de Letras e Ciências Humanas, Programa de Pós-Graduação em Estudos da Linguagem, 2008. Bibliografia: f. 115-119
+1. Língua kaingang – Morfologia – Teses. 2. Língua kaingang – Sintaxe – Teses. I. Santos, Ludoviko Carnasciali dos. II. Universidade Estadual de Londrina. Centro de Letras e Ciências Humanas. Programa de Pós-Graduação em Estudos da Linguagem. III. Título.
+CDU 809.812-5
+
+LERIANA DE ALMEIDA
+A MARCAÇÃO DE (TEMPO), MODO E ASPECTO NA LÍNGUA KAINGANG: UMA PROPOSTA DE ANÁLISE
+BANCA EXAMINADORA Prof. Dr. Ludoviko dos Santos Universidade Estadual de Londrina Prof. Dr. Luiz Carlos Migliozzi Ferreira de Mello Universidade Estadual de Londrina Prof. Dr. Rogério Vicente Ferreira Universidade Federal de Mato Grosso do Sul
+Londrina, 27 de março de 2008.
+
+Aos kaingang
+
+AGRADECIMENTOS
+À minha mãe, Luzia Aparecida de Almeida, pelo amor, dedicação e por ter me garantido a sobrevivência até que eu pudesse fazê-la por mim mesma.
+Ao Prof. Dr. Ludoviko dos Santos, o ser mais humano que já conheci, pelas orientações, paciência e amizade.
+Ao Prof. Dr. Rogério Vicente Ferreira, pelas orientações e incentivo.
+Aos professores da Escola Cacique Luís Pénky Pereira, pela acolhida e auxílio durante a pesquisa de campo.
+Ao David Vieira Carneiro, pela dedicação e por compartilhar os momentos alegres e saber me orientar nas horas mais difíceis.
+À família Poreli Moura Bueno, pelo incentivo e auxílio em diversos momentos nestes últimos anos.
+Aos amigos Alexsandro, Andrezza, Carlos, Cláudio, Marco Aurélio e Kelly, por não terem me deixado desistir.
+Aos meus familiares, pela força.
+Aos meus colegas e professores do Programa de Pós-graduação, por terem acreditado em mim.
+Aos meus alunos que me desafiam todos os dias.
+A todos aqueles que direta ou indiretamente contribuíram para a realização e finalização deste trabalho.
+
+Tudo vale a pena: tanto os opróbrios como os estímulos. (Alves Redol)
+
+ALMEIDA, Leriana. A marcação de (tempo), modo e aspecto na língua kaingang: uma proposta de análise. 2008. 123f. Dissertação (Mestrado em Estudos da Linguagem) – Universidade Estadual de Londrina, Londrina.
+RESUMO
+Nesta dissertação, há uma proposta de análise da marcação de tempo, modo e aspecto na língua kaingang: língua indígena da família Jê, do Tronco Macro-Jê, falada em parte do estado de São Paulo, Paraná, Santa Catarina e Rio Grande do Sul, por cerca de 30 mil pessoas. Este trabalho traz informações acerca do povo e da língua kaingang, assim como de noções gerais da gramática e do verbo desta língua. Há uma revisão bibliográfica acerca das categorias lingüísticas de tempo, modo e aspecto, e também a consideração de estudos anteriores que analisam tais categorias no kaingang. Além disso, apresenta análise de dados coletados junto aos kaingang da Terra Indígena Apucaraninha/ PR. Como na revisão bibliográfica notaram-se perspectivas divergentes sobre as três categorias, estas foram analisadas, neste trabalho, sob o ponto de vista morfossintático, ou seja, considerouse a marcação destes fenômenos lingüísticos feita por meio de unidades gramaticais. Por isso, não se estabeleceu uma categoria de tempo, já que a marcação temporal na língua em questão é realizada, essencialmente, por meio de unidades lexicais. No entanto, puderam-se distinguir as categorias de modo e aspecto, as quais se imbricam e são marcadas por unidades gramaticais. Dentro da categoria de modo, detectam-se as subcategorias realis, irrealis e imperativo, e na de aspecto, as subcategorias perfectivo e imperfectivo.
+Palavras-chave: Kaingang. Morfossintaxe. Marcação temporal. Modo. Aspecto.
+
+ALMEIDA, Leriana. The marking of time, mood and aspect in the kaingang language: an analysis proposal. 2008. 123f. Dissertation (Master of Language Studies) – Universidade Estadual de Londrina, Londrina.
+ABSTRACT
+In this dissertation there is an analysis proposal of the marking of time, mood and aspect in the kaingang language: an aboriginal language from the Jê family, MacroJê stock, spoken by 30 thousand people who live in part of the São Paulo State, Paraná, Santa Catarina and Rio Grande do Sul. It brings information concerning the kaingang people and the kaingang language, also general notions of the grammar and the verb of this language. There is a revision of the theoretical approach in the linguistic categories of tense, mood and aspect. Besides, it was considered the previous studies on these three linguistic categories in the kaingang language. It also presents an analysis of the data collected with the kaingang who live in Apucaraninha/ PR. As in the bibliographical revision there are divergent perspectives about these categories, the data was analyzed, in this work, under the morphossintax perspective, that is, it was considered the marking of these linguistic phenomena made by grammatical units. As a result, it was not set the category of tense up, because the time marking in kaingang is essentially made by lexical units. Otherwise mood and aspect categories could be established, for the reason that they are marked by grammatical units. Within the mood category, there are the realis, irrealis and imperative subcategories, and in the aspect category, the perfective and imperfective were detected.
+Keywords: kaingang. Morphossintax. Time marking. Mood. Aspect.
+
+LISTA DE MAPA E TABELAS
+Mapa I: Terras Indígenas Kaingang ....................................................................... 15 I. As línguas do tronco Macro-Jê ............................................................................ 33 II. Fonemas vocálicos orais .................................................................................... 36 III. Fonemas vocálicos nasais ................................................................................ 36 IV. Fonemas consonantais ..................................................................................... 37 V. Vogais ................................................................................................................ 37 VI. Consoantes e semivogais ................................................................................. 38 VII. Os marcadores de sujeito ................................................................................ 39 VIII. Os pronomes pessoais ................................................................................... 42 IX. Tempo específico .............................................................................................. 80 X. Tempo geral ....................................................................................................... 81 XI. Seqüenciadores dos eventos ............................................................................ 81 XII. Unidades que ligam os eventos e expressam a atitude do falante .................. 82 XIII. Unidades intercambiáveis ............................................................................... 83 XIV. Regra geral de flexão verbal e marcadores nos modos realis e irrealis ......... 91 XV. Sistematização de aspectos e modos segundo Wiesemann (1986) ................ 94 XVI: Sistematização de modo e sua relação com as principais distinções aspectuais da língua kaingang ................................................................................................ 104 XVII. Sistematização de modo e aspecto do kaingang ......................................... 112
+
+LISTA DE ABREVIAÇÕES
+asp. = aspecto cont. = contínuo est. = estativo f. = feminino hab. = habitual imp. = imperativo int. = interrogativo irr. = irrealis m. = marcador mas. = masculino neg. = negação nom. = nominalizador p. = pessoa pl. = plural pos. = possessivo posp. = posposição s. = sujeito sg. = singular ? = quando não se tem certeza quanto à tradução 1= primeira 2 = segunda 3 = terceira
+
+SUMÁRIO
+1 CONSIDERAÇÕES ............................................................................................. 12 1.1 Contextualização e objetivos da pesquisa......................................................... 16 1.2 Metodologia: a coleta e análise dos dados........................................................ 17 1.3 Visão geral acerca do modo de vida da comunidade lingüística pesquisada.... 19
+2 KAINGANG: POVO E LÍNGUA ..........................................................................21 2.1 As várias denominações para os kaingang ....................................................... 21 2.2 O povo kaingang e suas origens ......................................................................24 2.3 Um pouco da história dos kaingang do Paraná ................................................. 29 2.4 A língua kaingang ............................................................................................. 31 2.4.1 Estudos diversos acerca da língua kaingang ................................................34
+3 NOÇÕES GERAIS DA GRAMÁTICA KAINGANG .............................................36 3.1 Fonemas e letras do alfabeto kaingang ........................................................... 36 3.2 Padrões silábicos ............................................................................................ 39 3.3 Unidades gramaticais que marcam sujeito, feminino e plural ........................... 39 3.4 Ordem oracional e os pronomes pessoais/ possessivos .................................. 41
+4 O VERBO EM KAINGANG ................................................................................. 44 4.1 As formas alternantes do verbo ........................................................................ 44 4.2 A variação verbal conforme a pluralidade ......................................................... 46 4.3 A variação verbal para expressar a forma do objeto ......................................... 48 4.4 A variação verbal devido à causatividade ......................................................... 49
+5 AS CATEGORIAS DE TEMPO, MODO E ASPECTO .........................................52 5.1Tempo ................................................................................................................52 5.2 Modo ................................................................................................................55 5.3 Aspecto ............................................................................................................60 5.3.1 Um levantamento histórico acerca da categoria ............................................ 60 5.3.1.1 Os estóicos, os latinos e as correntes lingüísticas ..................................... 61 5.3.2 A problemática da Lingüística Geral e a confusão nos estudos aspectológicos ................................................................................................................................64 5.3.3 As tradições nos estudos aspectológicos .......................................................67 5.3.4 A definição de aspecto ..................................................................................69 5.3.4.1 Comrie (1976) ............................................................................................ 9 5.3.4.2 Bhat (1999) ................................................................................................. 72
+
+5.3.4.2.1 Os tipos aspectuais segundo a classificação de Bhat ............................. 73 5.4 O recorte para a análise ...................................................................................75 6 CATEGORIA DE TEMPO NA LÍNGUA KAINGANG? ........................................78 7 A CATEGORIA DE MODO .................................................................................92 8 A CATEGORIA DE ASPECTO .......................................................................... 105 9 CONSIDERAÇÕES FINAIS .............................................................................. 113
+REFERÊNCIAS.................................................................................................... 115 GLOSSÁRIO ....................................................................................................... 120
+
+12
+1 CONSIDERAÇÕES INICIAIS
+O interesse pela língua kaingang surgiu logo na graduação com as aulas de Lingüística, ministradas pelo professor Dr. Ludoviko dos Santos, nas quais eram usadas estruturas do kaingang e de outras línguas para se verificar determinados fenômenos lingüísticos discutidos na teoria. Além das aulas, participei dos projetos: “Abordagem do Nível Morfossintático da Língua Kaingáng Sob o Ponto de Vista do Funcionalismo Givoniano” e, depois, do projeto ainda em desenvolvimento, “Elaboração de uma Gramática Pedagógica para a Língua Kaingang”, ambos coordenados pelo mesmo professor. Nestes projetos, familiarizeime com os conceitos da Lingüística Teórica, com a pesquisa de campo e desenvolvi trabalhos acerca da concordância de número na língua kaingang1. Durante o mestrado, fora este, desenvolvi outros trabalhos sobre empréstimos lingüísticos e derivação de unidades lexicais substantivas nesta língua.
+Com as coletas de dados feitas na graduação, a curiosidade para investigar a categoria de aspecto no kaingang foi despertada, pois nas frases que coletávamos sempre apareciam unidades gramaticais finais que sinalizavam se a ação estava se desenvolvendo em um determinado momento, se acontecia habitualmente, dentre outras, em contraposição com frases que apareciam sem unidades gramaticais e que apontavam para uma ação feita em algum momento antes do momento de fala, sem especificação de suas fases, como pode ser visualizado a seguir:
+1 Neste texto, quando falo em língua kaingang me refiro à variante do kaingang falada na Terra Indígena Apucaraninha (ponto 5 do mapa da página 15), logo, os resultados obtidos na análise dos dados coletados nesta TI podem ser diferentes dos resultados obtidos com os estudos de outras variantes do kaingang.
+
+13
+1. gĩr vỹ vénhvag mũ menino m.s. correr m.asp.2
+“O menino está correndo (neste momento)”. 2. gĩr vỹ pỹn kamẽg tĩ
+menino m.s. cobra medo m.asp. “O menino tem medo da cobra”.
+3. pó vỹ nĩgja kãnĩ ∅ pedra m.s. banco atingir
+“A pedra atingiu o banco.”
+Assim, o intuito primeiro desta dissertação era discutir somente a categoria de aspecto do kaingang, porém para abordar tal tema, as categorias de tempo3 e modo não puderam ser ignoradas, visto que há uma imbricação entre elas. Dessa forma, estas três manifestações na língua, analisadas em seu nível morfossintático, serão discutidas aqui.
+A partir do corpus utilizado nesta dissertação, pudemos observar que, na categoria de tempo, há a distinção entre “futuro” e “não-futuro”. E pelo fato de esta dicotomia também ser entendida como modo4, sendo o “futuro” denominado irrealis e o “não-futuro” realis, falaremos, principalmente, em categoria de modo e categoria de aspecto na discussão da variante da língua kaingang aqui estudada.
+Nossa análise dialoga com trabalhos feitos por Ursula Wiesemann, acerca da manifestação das três categorias na variante falada pelos kaingang do Rio das Cobras/ PR (ponto 11 do mapa abaixo), os quais são: “Aspect and mood as a nine-cell matrix” (1986), “Events and non-events in kaingang discourse” (1980) e “Time distinctions in kaingáng” (1974).
+2 Os marcadores mũ, tĩ e nĩ, doravante, serão chamados de continuativo (cont.), habitual (hab.) e estativo (est.), respectivamente. 3 A palavra “tempo”, quando grafada em itálico, se refere a uma categoria lingüística e não ao tempo cronológico. 4 “Futurity is never a purely temporal concept; it necessarily includes an element of prediction or some related modal notion” (LYONS, 1977, p.677).
+
+14
+Outro trabalho com o qual dialogamos é a dissertação de Solange Aparecida Gonçalves5, “Aspecto no kaingang”, defendida em março de 2007, na UNICAMP. Esta pesquisadora realizou seu trabalho junto aos kaingang de Nonoai (ponto 20), Votouro (ponto 21) e Ligeiro (ponto 22).
+Outros trabalhos que consideraram, de maneira sucinta e descritiva, as categorias de tempo, modo e aspecto no kaingang, foram: “Ensaio de Grammatica Kainjgang” de Frei Mansueto B. de Val Floriana (1918); “Estudos sobre a língua caingangue” de Rosário F. Mansur Guérios (1942); “Ensayo de una Grammatica del Idioma Caingangue de los Caingangues de la Serra de Apucarana” de Wanda Hanke (1948); “Die phonologische und grammatische Struktur der Kaingáng-Sprache”, tese de Wiesemann (1972); e o dicionário de Wiesemann (2002) “Kaingang-Português: dicionário bilíngüe”6, uma reedição ampliada de “Dicionário Kaingáng-Português/ Português-Kaingáng” (WIESEMANN, 1971). Tais trabalhos serão usados quando necessário ao longo desta dissertação, porém não serão resenhados aqui7.
+5 A quem agradeço por ter me enviado seu trabalho e ter sido tão solícita. 6 Farei uso de algumas partes do apêndice gramatical deste dicionário no capítulo 3. Esta obra também foi usada para a busca do significado de muitas palavras do corpus lingüístico, coletado durante esta pesquisa. 7 Há em Gonçalves (2007) resenhas dos mesmos.
+
+15 Mapa I: Terras Indígenas Kaingang
+
+16
+1.1 Contextualização e objetivos da pesquisa
+Este trabalho foi desenvolvido na Terra Indígena Apucaraninha, mais especificamente na Escola Cacique Luís Pénky Pereira, cuja existência remonta à década de 1970. Tal escola oferece o primeiro ciclo do ensino fundamental e conta com professores kaingang bilíngües e duas professoras não-índias, as quais são responsáveis pelo ensino do português, ‘efetivamente’ aprendido pelas crianças no 3º e 4º anos do ciclo.
+Para o ensino do kaingang, aqueles professores contam com algumas cartilhas produzidas por eles em cursos de capacitação e com o dicionário “Kaingang-Português: dicionário bilíngüe” de Ursula Wiesemann (2002). As inúmeras descrições parciais da língua kaingang, cuja profusão é mais em fonologia, como será visto no próximo capítulo, encontram-se no e destinam-se para o meio acadêmico, não servindo como material que possa ser utilizado pelos professores no ensino da língua. Daí a importância de se elaborar uma gramática pedagógica da língua kaingang, a qual iria ajudar não só os professores da TI Apucaraninha, mas também os professores das escolas de outras TIs onde habitam kaingang, já que é difícil haver aldeia sem escola, visto que “a escola exerce uma representação simbólica muito forte nas aldeias, ela é sinal visível da civilização” (VEIGA, 2000, p.74). E para se ter uma escola, onde o ensino é o foco principal, não bastam apenas espaço físico, mobília e recursos humanos, é preciso, também, material didático de qualidade, acessível a professores e alunos.
+Este trabalho, portanto, visa contribuir com: (i) o projeto, em desenvolvimento na UEL, o qual visa a elaboração de uma gramática pedagógica kaingang; (ii) os estudos acerca das categorias de tempo, modo e aspecto na língua
+
+17
+kaingang e em outras línguas indígenas; (iii) a comparação entre os dialetos da língua kaingang e entre línguas da família lingüística Jê.
+Em termos mais específicos, objetivou-se demonstrar que: (i) para se fazer uma análise mais segura das três categorias em questão é preciso observar a marcação dessas categorias no nível morfossintático; (ii) os kaingang do Apucaraninha fazem a distinção entre os tempos “futuro” e “não-futuro”, que foram interpretados, aqui, como modo irrealis e realis, respectivamente; (iii) no modo realis é feita a maior parte das distinções aspectuais, embora no modo irrealis algumas distinções também possam ser vistas; (iv) o aspecto, nesta variante do kaingang, pode ser estudado dentro da dicotomia principal da categoria de aspecto, a qual é estabelecida entre perfectividade e imperfectividade.
+1.2 Metodologia: a coleta e análise dos dados
+Neste trabalho, analisamos sentenças simples e complexas do kaingang que foram coletadas de duas maneiras: em um primeiro momento, a coleta foi feita com a participação dos professores índios e não-índios8 da escola Cacique Luís Pénky Pereira, além dos pesquisadores envolvidos no projeto da gramática pedagógica. Portanto, as sentenças elicitadas foram respondidas com a colaboração de mais de um informante. Em muitos momentos, havia discussões entre os kaingang sobre o uso de certas estruturas da língua. Nestas discussões, as professoras não-índias, que não falam o kaingang, puderam entender o porquê de muitos “erros” cometidos por seus alunos na hora de redigirem em língua portuguesa: ao perceberem como funcionava o kaingang, elas detectaram os
+8 São eles: Isaías Kagre Felisbino, Manoel Norég Mág Felisbino, Jandira Grisãnh Felisbino, Pedro Kagre Kág Cândido de Almeida, Margarida Nirãg Tánh de Almeida, João Santo de Oliveira, Jorge Rir de Almeida (professores índios), e Rosênes Tomarozi Carvalho e Rosângela Maria Santana (professoras não-índias).
+
+18
+desafios que seus alunos tinham de enfrentar para aprenderem o português9. As
+discussões, também, beneficiavam os professores kaingang, que puderam refletir
+mais sobre sua própria língua e sobre o modo como melhor ensiná-la na escola.
+Acreditamos que esse tipo de coleta seja mais humanístico, pois:
+O papel do informante não se limita, necessariamente, a ser um fornecedor de dados habilmente elicitados pelo pesquisador, o que caracterizaria uma interação passiva por parte do informante. Entendemos essa interação como algo mais abrangente, isto é, o informante deve ser um interlocutor ativo no sentido de haver uma troca de informações úteis não só para o pesquisador, mas também para o informante, levando-o a não apenas falar sua língua, mas também a falar sobre ela (SANTOS, 1997, p.21).
+Como pôde ser percebido, este processo é mais lento e exige muitas
+viagens à Terra Indígena, o que se tornou inviável durante esta pesquisa devido a
+questões profissionais por parte da autora desta dissertação. Dessa forma, durante
+o mestrado, tivemos de mudar a maneira de coletar dados: passamos a elaborar
+questionários, os quais foram coletados com a ajuda do orientador deste trabalho,
+tendo como informante somente o professor kaingang Pedro Kagre Kág Cândido de
+Almeida, que também participou do primeiro tipo de coleta e, portanto, já estava
+habituado com o trabalho de coleta de dados.
+Acreditamos que a análise de dados de uma língua pouco descrita
+requer do pesquisador constante leitura de obras especializadas e, ao mesmo
+tempo, no momento de análise, um afastamento de qualquer modelo previamente
+9 No IV Encontro Internacional sobre Línguas e Culturas Macro-Jê, realizado em Recife no ano de 2005, uma mestranda da UEL, Valéria Baccili, apresentou um trabalho que falava dos supostos “erros” cometidos pelos alunos kaingang ao aprenderem o português padrão e explicava o porquê de isso ocorrer. Essa colega foi, prontamente, questionada sobre a validade de se estudar tais fenômenos sob a observação de que os kaingang precisavam aprender bem o kaingang, não o português. No entanto, acreditamos que os kaingang devem, sim, aprender bem o kaingang, mas também o português e outras línguas mais que possam servir de instrumento para competirem em ‘pé de igualdade’ na sociedade moderna. Hoje, muitos indígenas freqüentam não só as escolas regulares não-índias, mas também as universidades, nas quais o domínio do português padrão é imprescindível. Além do mais, o fato de não conseguirem aprender este tipo de português corretamente, pode despertar, quando matriculados com os não-índios, o sentimento de inferioridade, como bem lembrou uma antropóloga que participou da discussão.
+
+19
+estabelecido, já que as línguas não se comportam como a lógica matemática e o que serve para explicar determinado fenômeno numa dada língua pode não servir para outra: o dado lingüístico não pode ser sacrificado a um modelo teórico. Assim, o método empregado nesta pesquisa foi o empírico-indutivo, pois se trabalhou com dados reais de língua e se estabeleceu hipóteses e formalizações a partir do corpus que, por sua vez, foi analisado com base nos pressupostos teóricos da Lingüística Descritiva e Funcional, e comparado com os corpora dos trabalhos com os quais dialogaremos.
+1.3 Visão geral acerca do modo de vida da comunidade lingüística pesquisada
+Atualmente, vivem no Brasil cerca de 227 povos indígenas, falantes de mais de 180 línguas diferentes. De acordo com o Instituto Sócio-Ambiental (ISA), a maior parte dessa população distribui-se por milhares de aldeias, situadas no interior de 593 Terras Indígenas, de norte a sul do território nacional.
+Os kaingang constituem o terceiro10 povo indígena mais populoso do Brasil, com 25.875 pessoas (FUNASA, 2003), e ocupam 32 destas TIs (FUNAI, 2000/ ISA, 2001), as quais estão distribuídas pelos estados de São Paulo, Paraná, Santa Catarina e Rio Grande do Sul. Como pôde ser constatado no mapa das Terras Indígenas Kaingang, colocado anteriormente.
+Só na TI Apucaraninha, vivem, hoje, cerca de 1500 pessoas, que habitam em duas concentrações de casas: uma contínua ao “centro” do aldeamento, no qual se encontram: (i) a casa do Chefe da TI, conhecido como Chefe do Posto, (ii) a escola, (iii) o posto de saúde, (iv) o galpão para maquinários e implementos agrícolas, (v) as casas de funcionários, (vi) salão de festas, (vii) cadeia e (viii) duas
+10 Segundo informações do ISA fica atrás somente dos guarani e seus subgrupos com 34.000 pessoas e dos tikuna com 32.613 pessoas, que habitam o solo brasileiro.
+
+20
+igrejas: uma católica e outro do Cristianismo Decidido. Outra concentração de casas fica a dezoito quilômetros deste centro e é denominada “Barreiro”. Além destas duas concentrações, há casas dispersas pela TI.
+Os kaingang do Apucaraninha moram nos seguintes tipos de casa: (i) pré-fabricadas, (ii) alvenaria, (iii) madeira ou (iv) ranchos tradicionais. É comum encontrar casas construídas pelo governo, no caso dos dois primeiros tipos, com um rancho acoplado às mesmas. Este fato mostra que os kaingang reinventam sua própria cultura, adaptando o que vem de fora a seus hábitos e costumes.
+Tradicionalmente, os kaingang viviam da caça, pesca com pari, coleta e agricultura pouco elaborada tecnicamente. Hoje, porém, para seu sustento, os kaingang desta TI plantam, em roças comunitárias ou familiares, arroz, feijão, milho, abóbora, batata doce, mandioca, dentre outros; e próximo às residências, árvores frutíferas como: laranja, banana e goiaba. Além disso, criam porcos, galinhas e patos para o consumo da carne e ovos. A confecção e a venda do artesanato nas cidades próximas e a prestação de serviços para produtores rurais são, também, fontes geradoras de recursos.
+
+21
+2 KAINGANG: POVO E LÍNGUA
+A língua veicula as experiências socioculturais de um povo, sendo assim, não é possível fazer considerações acerca de uma dada língua sem antes se conhecer, pelo menos um pouco, a sociedade que a fala. Este capítulo, portanto, trata (i) do povo kaingang: como foram conhecidos desde os primeiros contatos com os não-índios; de onde surgiram e onde vivem hoje; como se organizam socialmente; como se constituíram sujeitos da história do Paraná, apesar da tentativa de apagamento de sua existência para se legitimar a empreitada colonizadora; e (ii) da língua kaingang: família lingüística a qual pertence e sua localização no tronco lingüístico Macro-Jê; variantes (dialetos) da língua kaingang; pessoas de outros grupos étnicos que podem exercer influência na língua kaingang; apontamento dos estudos acerca de diversos fenômenos desta língua.
+2.1 As várias denominações para os kaingang
+Os índios que conhecemos, hoje, como kaingang receberam, ao longo da história, diversas denominações. Na literatura sobre este povo, encontramse nominações como: Gualachos e Chiquis, usadas pelos jesuítas no século XVII; Guaianás, encontrada da historiografia paulista; Coroados, usada pelos agentes do Estado, religiosos e sociedade envolvente nos séculos XIX e XX; Bugres, Guainá e Botocudos, apontadas por Darcy Ribeiro (1996); e Kaingang, a autodenominação desse povo, com suas diversas grafias: kanhgág (na grafia kaingang), kaingangue, caingangue, caingang (usada em 1882 por Telêmaco Borba e frei Luiz de Cemitile, e em 1886 por Alfredo D’Escragnolle Taunay), caên-gagn (encontrada em um relatório
+
+22
+do engenheiro Franz Keller de 1867) e caengang (escrita no diário de viagem do militar Camilo Lellis da Silva em 1849).
+As antropólogas Kimiye Tommasino (2006) e Juracilda Veiga (2006), em textos escritos para os sites do Instituto Sócio Ambiental e do Portal Kaingang, respectivamente, e Herbert Baldus (1979), em seu ensaio “O culto aos mortos entre os kaingang de Palmas”, assim como outros autores estudados, concordam ser Telêmaco Borba o primeiro a introduzir a denominação kaingang em seus trabalhos. No entanto, Lúcio Tadeu Mota (2004), em seu artigo “A denominação kaingang na literatura antropológica, histórica e lingüística”, questiona o ineditismo de Telêmaco Borba e mostra que a autodenominação dos kaingang já havia sido apresentada em textos anteriores às obras de Borba e de frei Cemitile: caengang e caên-gagn estão presentes nos escritos de Lellis da Silva e Keller, como foi mostrado acima.
+O autor também levanta a hipótese de que a denominação Coroados, muito usada nos séculos XIX e XX, a contra gosto dos kaingang, pode ter sido uma tentativa dos não-índios de “dissolver a etnia kaingang na população nacional, negando a sua autodeterminação e sua identidade” (In: TOMMASINO; MOTA; NOELLI, 2004, p.14).
+Kimiye Tommasino (2006) cita, ainda, outras designações para os kaingang: Goyaná, Goainaze, Wayanaze (para os kaingang que viviam na costa atlântica entre Angra dos Reis e Cananéia), Coronado, Shokleng, Xokren, Guanana, Gualachi, Cabelludo, Tain, Taven, Tayen, Ingain, Ivoticaray, Nyacteitei, Votoron, Kamé, Kayurukré, Dorin, Tupi (para os kaingang da região de Missiones, na Argentina e do oeste do Rio Grande do Sul). A autora alude à possibilidade de alguns desses grupos não estarem relacionados aos kaingang, mas aos xokleng,
+
+23
+guarani ou xetá, que também habitavam o sul e fizeram resistência à colonização européia.
+Do mesmo modo, Veiga (2006) cita outras denominações aos kaingang: Jacfé, Cayeres, Tac -Taia (usadas por Chagas Lima), Pinares, Camperos, Ybiraiyras.
+Com relação às denominações Kadnyerú (Kayurukré, Kañerú, Kanhru, Cagurucré), Kamé (Camé) e Votôro (Votoron,Votor), Herbert Baldus afirma:
+A tribo [kaingang] divide-se em duas metades exógamas e patrilineares; cada uma está, por sua vez, dividida em dois grupos, de caracterização social diferente. As designações Kadnyerú, Kamé e Votôro usadas, às vezes, na literatura, como nomes de tribos, são as denominações de três destes quatro grupos, o quarto grupo é chamado Aniky [Jẽnky my] (...). As supostas tribos Gê: Kadnyerú, Kamé e Votôro, não são senão hordas de Kaingang (BALDUS, 1979, p.8).
+Curt Nimuendajú (1993) diz que a designação Nhakfateite (“Nyacteitei”, forma escrita por Tommasino), foi dada por Telêmaco Borba aos índios hostis do sertão do Laranjalzinho e é encontrada nas formas iakvẽtagtéie (dialeto do rio Feio) e ñakfãtéieagn (dialeto do Ivaí) como “alcunha que os kaingang do Paraná dão aos seus patrícios bravios nos sertões do rio Feio e do rio da Laranjinha, que usam cabelo comprido, pois aquele nome se compõe de ñakfã (Rio Feio = iakvẽ) = cabelo adiante das orelhas, téie = comprido e agn = eles, coletivo” (NIMUENDAJÚ, 1993, p.58).
+Dessa forma, o conjunto das denominações para os kaingang é composto de apelidos dados pelos não-índios, caso de Coroados e Bugres, de apelidos dos kaingang para outros kaingang, como a forma discutida por Nimuendajú, de nomes referentes às metades clânicas, que serão discutidas a seguir, além de tantos outros nomes usados por diversos autores que podem, em
+
+24
+muitos casos, não designar os kaingang, propriamente ditos, mas outros grupos que
+habitavam a região considerada o habitat hegemônico dos kaingang.
+2.2 O povo kaingang e suas origens
+Atualmente, como já mencionado, os kaingang constituem o terceiro
+povo indígena mais populoso do Brasil, com 25.875 pessoas (FUNASA, 2003), e
+habitam os estados de São Paulo, Paraná, Santa Catarina e Rio Grande do Sul, em
+32 Terras Indígenas (FUNAI, 2000/ ISA, 2001).
+De acordo com a mitologia deste povo, a sociedade kaingang atual
+teria surgido a partir da destruição de um mundo preexistente, cuja formação não é
+referida nos textos mitológicos, e pela ação dos irmãos Kanhru e Kamẽ, como
+podem ser constatadas nos mitos coletados por Borba (1908) no final do século XIX,
+e Nimuendajú (1993):
+Em tempos idos, houve uma grande inundação que foi submergindo toda a terra habitada pelos nossos antepassados. Só o cume da serra Crinjijimbé emergia das ágoas. Os Caingangues, Cayurucrés e Camés nadavam em direção a ela levando achas de lenha incendiadas. Os Cayurucrés e Camés cançados, afogaram-se; as suas almas foram morar no centro da serra. Os Caingangues e alguns poucos Curutons, alcançaram a custo o cume de Crinjijimbé, onde ficaram, uns no solo, e outros, por exiguidade de local, seguros nos galhos das árvores; alli passaram muitos dias sem que as agoas baixassem e sem comer; já esperavam morrer, quando ouviram o canto das saracuras que vinham carregando terra em cestos, lançando-a à agoa que se retirava lentamente. Gritaram elles às saracuras que se apressaram, e estas assim o fizeram, amiudando também o canto e convidando os patos a auxiliá-las; em pouco tempo chegaram com a terra ao cume, formando como que um açude, por onde sahiram os Caingangues que estavam em terra; os que estavam seguros aos galhos das árvores, transformaram-se em macacos e os Curutons em bugios. As saracuras vieram, com seu trabalho, do lado donde o sol nasce; por isso nossas agoas correm todas do Poente e vão todas ao Paraná. Depois que as agoas secaram, os Caingangues se estabeleceram nas immediações de Crinjijimbé. Os Cayurucrés e Camés, cujas almas tinham ido morar no centro da serra, principiaram a abrir caminho pelo interior della; depois de muito trabalho chegaram a sahir por duas veredas: pela aberta por Cayurucré, brotou um lindo arroio, e era toda plana e sem
+
+25
+pedras; dahi vem terem elles conservado os pés pequenos; outro tanto não aconteceo a Camé, que abrio sua vereda por terreno pedregoso, machucando elle, e os seos, os pés que incharam na marcha, conservando por isso grandes pés até hoje. Pelo caminho que abriram não brotou agoa e, pela sede, tiveram de pedi-la a Cayurucré que consentio que a bebessem quanto necessitassem. Quando sairam da serra mandaram os Curutons para trazer os cestos e cabaças que tinham deixado em baixo; estes, porém, por preguiça de tornar a subir, ficaram alli e nunca mais se reuniram aos Caingangues: por esta razão, nós, quando os encontramos, os pegamos como nossos escravos fugidos que são. (...) Cazaram primeiro os Cayurucrés com as filhas dos Camés, estes com as daqueles, e como ainda sobrassem homens, cazaram-nos com as filhas dos Caingangues. Dahi vem que, Cayurucrés, Camés e Caingangues são parentes e amigos (BORBA, 1908, p. 20-22)
+A serra citada no mito acima foi interpretada como sendo a Serra do
+Mar (SILVA, 2001). Nesta história, o papel dos irmãos Kanhru e Kamẽ como
+progenitores dos kaingang não é muito claro. Tal fato fica mais evidente nos estudos
+de Baldus (1979), anteriormente citado, e Nimuendajú (1993):
+A tradição dos Kaingang conta que os primeiros desta nação saíram no chão, por isso eles tem a cor da terra. Numa serra no sertão de Guarapuava, não sei bem aonde, dizem eles que até hoje se vê o buraco pelo qual eles subiram. Uma parte deles ficou em baixo da terra onde eles permanecem até agora, e os que cá em cima morrem vão se juntar outra vez com aqueles. Saíram em dois grupos, chefiados por dois irmãos por nome Kañerú e Kamé, sendo que aquele saiu primeiro. Cada um já trouxe um número de gente de ambos os sexos. Dizem que Kañerú e a sua gente toda eram de corpo fino, peludo, pés pequenos, ligeiros tanto nos seus movimentos como nas suas resoluções, cheios de iniciativa, mas de pouca persistência. Kamé e os seus companheiros, ao contrário, eram de corpo grosso, pés grandes, e vagarosos nos seus movimentos e resoluções. Como foram estes dois irmãos que fizeram todas as plantas e animais, e que povoaram a terra com os seus descendentes, não há nada neste mundo fora da terra, dos céus, da água e do fogo, que não pertença ou ao clã de Kañerú ou ao de Kamé. Todos ainda manifestam a sua descendência ou pelo seu temperamento ou pelos traços físicos ou pela pinta. O que pertence ao clã Kañerú é malhado, o que pertence ao clã Kamé é riscado. O Kaingang reconhece estas pintas tanto no couro dos animais como nas penas dos passarinhos, como também na casca, nas folhas ou na madeira das plantas (NIMUENDAJÚ, 1993, p.5859).
+
+26
+Assim, tradicionalmente, os kaingang são divididos em duas metades exogâmicas (pois uma pessoa deve se casar com outra que pertença à metade diferente da dela) e patrilineares (já que todo filho de um relacionamento vai pertencer à metade do pai), homônimas aos irmãos gêmeos da mitologia kaingang: Kamẽ e Kanhru. Como confirma Veiga (apud MOTA; NOELLI; TOMMASINO, 2000), cada uma das metades possui subgrupos: na metade Kamẽ, há os subgrupos kamẽ e jãky my11, e na metade Kanhru, os subgrupos kanhru e votor. Tais metades são complementares e distinguem-se pelas funções dos membros de cada grupo e pelos motivos da pintura corporal que usam durante ocasiões rituais: os Kamẽ pintam-se com desenhos de traços compridos (téj) e os Kanhru, com desenhos de círculos (ror).
+O surgimento da sociedade kaingang também recebeu interpretações baseadas na Lingüística e na Arqueologia. Do ponto de vista lingüístico, os kaingang e os xokleng (ambos considerados Jê meridionais) têm uma origem fora do sul do Brasil, em uma região que para Ursula Wiesemann (1978) e Greg Urban (1992) situa-se entre os rios São Francisco e Tocantins, mas que para Aryon Rodrigues (SANTOS & PONTES, 2001) tal região, ‘centro de dispersão’ mais antigo, ainda está por determinar.
+Como lembra Francisco Silva Noelli (2004), considera-se que os Jê meridionais colonizaram a região sul com suas línguas já definidas, ainda hoje faladas por seus descendentes. Entretanto, para a comprovação dessa hipótese seria preciso haver mais pesquisas sobre o processo de mudança dessas línguas, pois se tais povos Jê tiveram origem em outra região brasileira para depois habitarem o sul – encontrando aqui populações, como a das tradições Humaitá e
+11 Grafado como wonhétky por Veiga (apud MOTA; NOELLI; TOMMASINO, 2000).
+
+27
+Umbu, que já ocupavam a região há, pelo menos, doze mil anos antes do presente (A.P)12, além dos guarani, que tinham começado a penetrar na região por volta de 2.200 A.P. – mudanças lingüísticas, trocas culturais e muitos conflitos certamente ocorreram.
+Do ponto de vista dos arqueólogos do Programa Nacional de Pesquisas Arqueológicas (PRONAPA) e seus seguidores, a origem dos Jê meridionais é autóctone do sul do Brasil e Missiones, na Argentina. Para eles, os kaingang e os xokleng descendem de povos caçadores-coletores, que tinham as chamadas tradições13 ‘Taquara’ (RS, SC), ‘Itararé’ (SC, PR, SP) e ‘Casa de Pedra’ (SC, PR). Contudo, questiona Noelli:
+As vasilhas cerâmicas, marcadores tradicionalmente empregadas para fundamentar as diferenças entre as tradições no Sul do Brasil, ainda não servem para distinguir os registros arqueológicos dos Jê do Sul (TOMMASINO; MOTA; NOELLI, 2004, p.26).
+Haja vista que os materiais encontrados nos sítios arqueológicos não diferem muito uns dos outros e que os kaingang e xokleng são povos de línguas, características biológicas e culturas distintas, a identificação desses povos deveria ser pautada em materiais que também tivessem técnicas de feitura distintas.
+Sérgio Baptista da Silva (2001) trata essas tradições como “uma única, ampla e homogênea tradição cultural Jê meridional “pré-colonial”, que no decorrer de um longo processo histórico-cultural de aproximadamente dois mil anos (...) desembocará nas histórica e etnograficamente conhecidas sociedades Jê
+12 As faixas cronológicas em que a arqueologia brasileira foi dividida têm como ponto de partida os dias atuais (o Presente) e vai recuando no tempo, para datas Antes do Presente (AP). A primeira faixa temporal vai, assim, de hoje a 500 anos atrás, ou seja, do Presente a 500 anos AP. E assim por diante. (ARQUEOLOGIA Brasileira – Linha do Tempo. Disponível em: <http://www.itaucultural.org.br/arqueologia/pt/tempo/tempo.htm>. Acesso em 27 jun. 2006.) 13 Definidas como grupos de elementos ou técnicas com persistência temporal. No caso, tais tradições tinham uma técnica de polimento de artefatos líticos, confecções de vasilhas cerâmicas e agricultura.
+
+28
+meridionais kaingang e xokleng” (SILVA, 2001, p.6-7)14. Isso explica a semelhança
+dos objetos arqueológicos, porém não resolve o problema da diferenciação e
+definição desses dois povos.
+Já Francisco S. Noelli (2004)15, considerando a origem dos Jê no
+nordeste brasileiro e sua dispersão por esse vasto território assim como, a expansão
+dos Tupinambá e Guarani marcando a expansão daqueles, dá uma explicação
+preliminar sobre a ocupação dos Jê do Brasil meridional:
+Os Tupinambá separaram os Jê do Sul das demais populações Jê que ocuparam partes da Serra do Mar e do Litoral de São Paulo, Rio de Janeiro e Espírito Santo, bem como algumas áreas do interior de Minas Gerais e São Paulo. Próximo do litoral, o vale do Ribeira acabou como o limite setentrional litorâneo dos Jê do Sul, por volta de 2 mil A.P. Os Guarani causaram recortes territoriais mais amplos, de tal modo que eles “encurralaram e cercaram” os Jê do Sul nas áreas mais elevadas da Serra Geral desde o centro-Sul do Paraná até os campos do Planalto Sul-Rio-Grandense. Ao longo do processo de disputas territorial, considerando todas as evidências arqueológicas do Sul do Brasil, pode-se deduzir que os Guarani comprimiram os territórios Jê no alto Paranapanema e médio Iguaçu, por volta de 1.800 A.P., expulsando seus habitantes do litoral entre o Paraná e o Rio Grande do Sul a partir de 1.200 a 1 mil A.P.; comprimiram seus territórios no alto rio Uruguai ao redor de 1.500 A.P. e próximo dos campos de Caxias do Sul ao redor de 1.900 A.P. Separaram os territórios do vale do Ribeira dos vales do rio Tibagi e alto rio Iguaçu desde pelo menos 1.400 A.P., criando uma consistente linha divisória entre esses dois núcleos de ocupação Jê que persistiram além do século XVI (TOMMASINO; MOTA; NOELLI, 2004, p. 40).
+Como pode ser visto, não há, na explicação de Noelli para a
+ocupação dos Jê meridionais no sul do Brasil, qualquer tipo de referência sobre a
+separação dos kaingang e dos xokleng, que são tratados pelo nome genérico de Jê
+do Sul. Dessa forma, o que é conhecido sobre a origem e ocupação dos kaingang
+14 Para indicar a não ruptura do processo histórico-cultural que desembocou nas sociedades kaingang e xokleng, o autor usa o termo Proto-Jê. 15 Considero essa explicação a mais completa até o momento e espero ver finalizado o Atlas Arqueológico Jê no Brasil Meridional deste mesmo autor, que possibilitará formar e comprovar hipóteses sobre a colonização do sul do Brasil pelos Jê, sobre a distribuição deles no início da colonização européia e o estabelecimento da dinâmica da ocupação do espaço, desde 2.000 A.P. até a atualidade, incluindo dados históricos.
+
+29
+em seus atuais territórios ainda é nebuloso e precisa de muita pesquisa para se sedimentar, pois se tem mais incertezas do que certezas.
+2.3 Um pouco da história dos kaingang no Paraná
+Lúcio Tadeu Mota (1994), em sua obra “As guerras dos índios kaingang”, analisa a ideologia do colonizador e a construção do mito do vazio demográfico, que, presente nas obras de muitos escritores, legitimava a colonização e apagava os povos indígenas como sujeitos da história paranaense.
+Geógrafos, interessados no povoamento das terras “devolutas” na região do Paraná; sociólogos, que estudavam a identidade do homem paranaense e que acabaram por identificá-la somente com base nas civilizações européias; e, ainda, historiadores, que tratando da história regional, consideravam o índio como homem nacional, não mais índio, são exemplos de estudiosos que com seus trabalhos acadêmicos sedimentaram o mito do vazio demográfico e influenciaram trabalhos posteriores e a constituição de materiais didáticos, que, ainda hoje, tratam da colonização apenas sob o ponto de vista do colonizador, sem a presença dos verdadeiros habitantes das terras conhecidas na literatura como: sertões, devolutas, despovoadas, virgens.
+Os perigos, em tais obras citados, são os animais selvagens, as aves e insetos que destruíam as lavouras, as epidemias que dizimavam muitos pioneiros e nunca as guerras travadas com os índios. Estes assistem à invasão de seus territórios pacificamente, ao passo que os pioneiros, sempre homens “valentes” e “corajosos”, desbravam uma terra selvagem, hostil e considerada desabitada, o que validava o ataque a essa natureza.
+
+30
+É curioso que, apesar da vasta literatura com a presença do chamado vazio demográfico, houve também relatos de viajantes, relatórios de expedições militares, científicas e governamentais, além de ofícios da burocracia governamental, nos quais o indígena está presente, causando empecilhos à empresa colonizadora. Porém, em muitos estudos, o conteúdo desses documentos não foi utilizado, ocasionando apenas a reprodução da ideologia dominante.
+Tendo esses fatos em vista, Mota resgata a presença dos índios, principalmente dos kaingang, na história do Paraná. Esses indígenas, vendo a transformação de suas terras sagradas em terras comerciáveis, que podiam ser divididas em partes e vendidas como lotes, desenvolvem técnicas de guerra, guerrilhas, emboscadas e ataques capazes “de fazer frente a um inimigo muito superior a eles” (Id. Ibid. p.6). Os kaingang tiveram de lutar, desde o século XVIII, contra os não-índios, outros índios e mesmo contra outros kaingang, colaboracionistas dos não-índios.
+A conquista dos territórios kaingang foi feita em meio à reação permanente dos índios às vilas que brotavam em suas terras, às fazendas implantadas em seus campos, aos viajantes, tropeiros, comerciantes e aventureiros que cruzavam suas matas e campinas, às patrulhas da guarda nacional e provincial que percorriam suas terras e às tribos colaboracionistas que insistiam em indicar suas posições e persegui-los (Id. Ibid. p.93).
+Combatiam com arcos, flechas, lanças, cacetes, armas de fogo, compradas ou doadas pelos brancos, e varapau, usado em exercícios belicosos, na luta corpo a corpo ou feita no meio do mato, onde não se tinha espaço para armar o arco.
+Na defesa de suas terras tradicionais, em que estavam enterrados seus mortos, atacavam e saqueavam as fazendas dos colonos, armavam emboscadas aos soldados, eliminavam todo e qualquer vestígio dos não-índios em
+
+31
+seus territórios, inclusive destruindo os sepultamentos dos mesmos nessas terras, procuravam habitar lugares distantes dos novos povoamentos, resistiam a todo custo o aldeamento de seu povo e, a partir da segunda metade do século XIX, intensificaram suas reivindicações e mobilizações junto às autoridades.
+Dessa forma, não se pode dizer que os índios foram passivos durante o processo de colonização das terras do sul do Brasil, pelo contrário, “eles foram inimigos duros e terríveis, lutaram [e lutam ainda hoje] vigorosamente pelos seus territórios, por sua segurança e pela sua liberdade” (Id. Ibid. p.258).
+2.4 A língua kaingang
+Os kaingang falam uma língua de mesmo nome, pertencente à família lingüística Jê16 do tronco Macro-Jê. Segundo Ruth Montserrat (1994), essa família é o grupo mais importante e coeso do tronco Macro-Jê e inclui línguas faladas desde o sul do Maranhão e do Pará, passando pelos estados de Goiás e Mato Grosso, até Mato Grosso do Sul, São Paulo, Paraná, Santa Catarina e Rio Grande do Sul.
+De acordo com Greg Urban (1992), as línguas Jê eram faladas por povos que habitavam um território entre os rios São Francisco e Tocantins há mais de 3 mil anos A.P., como foi discutido acima. Esses povos teriam se dispersado pelo território brasileiro, sendo que os grupos Jê meridionais (kaingang e xokleng) foram os primeiros a se separarem dos outros:
+Estes [os kaingang e os xokleng] teriam iniciado sua migração em direção ao sul nesse momento, há uns 3 mil anos, mas não se tem 16 Carl Friedrich Philipp von Martius foi quem, há mais ou menos 140 anos, criou o termo classificatório Gez ou Crans, para designar povos que falavam línguas da família Jê ou do tronco Macro-Jê. O termo foi depreendido a partir das sílabas finais recorrentes em vários nomes de povos como Apinagez e Crengez ou Aponegicrans e Capiecrans. (RODRIGUES, p.2. In: SANTOS; PONTES, 2002)
+
+32
+idéia de quando teriam chegado à região que atualmente ocupam no sul do Brasil. Tampouco se sabe por que migraram, embora um estudo do relevo geográfico mostre que se dirigiram a uma região de planalto semelhante ao seu habitat originário (Id.Ibid. p. 90).
+Para Aryon Rodrigues (1986), o grupo Kaingang possui “as línguas dos kaingang nos Estados de São Paulo, Paraná, Santa Catarina e Rio Grande do Sul, e dos xokléng, em Santa Catarina” (p. 48). Isso revela que, na visão do autor, os kaingang e os xokléng formavam um único grupo, que por razões históricas foi segmentado em dois novos grupos, o dos kaingang e o grupo dos xokléng, havendo, portanto, a distinção das duas línguas. Dessa forma, o autor, ao sintetizar as famílias lingüísticas do tronco Macro-Jê, coloca o xokléng e o kaingang como línguas distintas, pertencentes à família Jê, e não como dialetos da língua Kaingang.
+De acordo com Wiesemman (1981), no idioma kaingang há cinco dialetos: (i) o dialeto de São Paulo, falado em São Paulo; (ii) o dialeto do Paraná, falado neste estado; (iii) o dialeto central, falado no sul do Paraná e Santa Catarina; (iv) o dialeto sudoeste, falado no noroeste do Rio Grande do Sul; e (v) o dialeto sudeste, falado no nordeste deste último estado. Esses dialetos seriam caracterizados por diferenças de pronúncia, emprego do vocabulário, preferências de construções gramaticais e pelo uso ou não das formas alternantes de substantivos e descritivos17. No entanto, embora ainda faltem estudos a esse respeito, podemos afirmar que com a escrita, as escolas, o relacionamento entre os grupos falantes de dialetos diferentes e de outras línguas indígenas e a influência do português, os dialetos identificados por Wiesemann se modificaram.
+17 Os descritivos funcionam, segundo a classificação de Wiesemman (2002), como modificadores dos substantivos ou como predicado.
+
+33 I. As línguas do tronco Macro-Jê18
+
+TRONCO
+MACROJÊ
+
+FAMÍLIA
+JÊ
+BORORO BOTOCUDO KARAJÁ MAXAKALÍ
+
+LÍNGUA AKWÉN APINAYÉ KAINGANG
+KAYAPÓ
+KREN-AKARÔRE SUYÁ
+TIMBIRA
+XOKLENG (Aweikoma) BORORO UMUTINA KRENAK NAKRENHÉ JAVAÉ KARAJÁ XAMBIOÁ MAXAKALÍ PATAXÓ PATAXÓ HÃHÃHÃE GUATÓ OFAYÉ (Ofayé-Xavánte) RIKBAKTSA (Erikbaktsá, Arikpaktsá) YATÊ (Fulniô, Karnijó)
+
+DIALETO XAKRIABÁ XAVANTE XERENTE
+
+GOROTIRE KARARAÔ KOKRAIMÔRO KUBENKRANGNOTI KUBENKRANKÊGN MENKRANGNOTÍ TAPAYÚNA (?) TXUKAHAMÃE XIKRIN
+
+CANELA APÂNIEKRA
+
+CANELA RAMKÓKAMEKRA
+
+GAVIÃO
+
+DO
+
+PARÁ
+
+(Parakáteye)
+
+GAVIÃO DO MARANHÃO
+
+(Pukobyé)
+
+KRAHÔ
+
+KREYÉ (Krenjé)
+
+KRIKATÍ (Krinkati)
+
+18 Baseada no quadro de Ruth Montserrat (1994, p.99) e complementado com informações do quadro de Aryon Rodrigues (1986, p.56).
+
+34
+2.4.1 Estudos diversos acerca da língua kaingang
+Um dos primeiros trabalhos lingüísticos importantes acerca da língua kaingang foi o de Frei Mansueto B. de Val Floriana, o qual produziu uma gramática, “Ensaio de Grammatica Kainjgang”, em 1918, e o primeiro dicionário da língua, “Dicionário Kainjgang-Português e Português-Kainjgang”, em 1920.
+Nos anos que vão de 1940 a 1950, surgem os trabalhos de Mansur Guérios: “Estudos sobre a língua caingangue: notas histórico-comparativas (dialeto de Palmas – dialeto Tibagi) – Paraná” em 1942; e de Wanda Hanke: “Ensayo de una grammatica del idioma Caingangue de los Caingangues de la Serra de Apucarana – Paraná” em 1950. Ambos publicados nos “Arquivos do Museu Paranaense”.
+Nos anos de 1960, o kaingang começa a ser estudado por Ursula Wiesemann, lingüista e missionária vinculada ao Summer Institute of Linguistics. Esta pesquisadora, cujos trabalhos sobre tempo, aspecto e modo serão discutidos em breve, foi quem estabeleceu a ortografia da língua kaingang e ajudou a formar, nos anos de 1970, os primeiros “monitores bilíngües”, que iriam lecionar nas escolas indígenas. Dois de seus trabalhos destacam-se: o dicionário “Kaingang-Português: dicionário bilíngüe” (2002), uma reedição ampliada do “Dicionário kaingang” de 1971, e sua tese “Die phonologische und grammatische Struktur der kaingáng Sprache” de 1972.
+No âmbito acadêmico brasileiro, como lembra D’Angelis (2006), os primeiros trabalhos com a língua kaingang foram: nos anos de 1980, vinculados a UNICAMP, (i) a tese de Marita Cavalcante (1987), a qual trata da fonologia e morfologia do dialeto de São Paulo comparado com o do Paraná; (ii) a dissertação de José Baltazar Teixeira (1988), também sobre fonologia, porém do dialeto de Nonoai (RS); e nos anos de 1990, (iii) os trabalhos de Wilmar D'Angelis, o qual
+
+35
+trabalha com os kaingang do Rio Grande do Sul e trata, em termos lingüísticos, de questões sintáticas, fonológicas e ortográficas da língua. Ainda nos anos de 1990, vinculados a UFSC, há (i) a dissertação de Silvia Nascimento (1995), que discute alguns aspectos morfológicos e sintáticos e a marcação de caso no dialeto kaingang falado no noroeste do Rio Grande do Sul, abordando a questão sob o viés da gramática gerativa; e (ii) a dissertação de Cristina Herold (1996), sobre a fonologia do dialeto central. Vinculados a UEL, há (i) a dissertação de Célia Ribeiro da Silva (1996), que trata das etapas pelas quais passou a escrita do Kaingang; e (ii) o trabalho de Ludoviko dos Santos (1999), acerca da tipologia oracional da língua kaingang.
+Os trabalhos na UEL intensificam-se a partir de 2000, com a investigação de fenômenos morfossintáticos, tais como: (i) pluralidade (SANTOS, 2001; 2003; ALMEIDA & SANTOS, 2003; 2005), (ii) construções causativas (TABOSA, 2006) e (iii) unidades lexicais substantivas da variante falada no Apucaraninha (ALMEIDA & SANTOS, 2004; 2006).
+Em 2007, como já mencionado, temos, na UNICAMP, a dissertação de Solange Gonçalves sobre Aspecto.
+Não podemos descartar, porém, a possibilidade de outros trabalhos lingüísticos estarem sendo desenvolvidos junto aos kaingang de diferentes comunidades em outras universidades do país.
+
+36
+
+3 NOÇÕES GERAIS DA GRAMÁTICA KAINGANG
+
+Serão dadas, neste capítulo, informações gerais sobre: (i) a correspondência entre fonemas, alofones e letras do alfabeto kaingang; (ii) a estrutura silábica da língua kaingang; (iii) algumas unidades gramaticais que marcam “sujeito”, “feminino” e “plural”; (iv) a ordem oracional e os pronomes pessoais que, dependendo da posição sintática, também funcionam como possessivos. Há muito mais coisas para se falar da língua kaingang, porém tais assuntos foram escolhidos porque ajudarão no entendimento da análise dos dados feita nos capítulos 4, 6, 7 e 8.
+3.1 Fonemas e letras do alfabeto kaingang
+
+No kaingang há 28 fonemas, os quais são:
+
+II. Fonemas vocálicos orais
+
+Alto Médio Baixo
+
+Anterior /i/ /e/ /ɛ/
+
+Central /ɨ/ /ə/ /a/
+
+Posterior /u/ /o/ /ɔ/
+
+III. Fonemas vocálicos nasais
+
+Alto Médio Baixo
+
+Anterior /ĩ/
+/ɛ/
+
+Central
+/ə/ /ã/
+
+Posterior /ũ/
+
+37
+
+IV. Fonemas consonantais
+
+Sonoro
+
+Oclusivo /m/ /n/ /ɲ/ /ŋ/
+
+Não-oclusivo /w/ /ɾ19/ /j/
+
+/p/ /t/ /k/ Surdo
+/ʔ/
+
+/f/ /ʃ/ /h/
+
+O sistema ortográfico da língua kaingang foi estabelecido por Ursula Wiesemann na década de 1960, como já mencionado anteriormente. Neste, e em todos os nossos trabalhos, usamos este sistema ortográfico, pois o mesmo é utilizado pelos professores bilíngües nas escolas das Terras Indígenas. Não se trata apenas de uma comodidade, mas de um posicionamento político, pois consideramos que um único sistema ortográfico para os kaingang, que se espalham em quatro estados brasileiros, é um poderoso instrumento político de unidade social. Seguem, abaixo, duas tabelas com a correspondência fonema-(alofones)-letra, retiradas de SILVA (1996)20:
+V. Vogais
+Letras a á ã e é ẽ i ĩ o ó u ũ y ỹ Fonemas /a/ /ə/ /ã/ /e/ /ɛ/ /ɛ/ /i/ /ĩ/ /o/ /ɔ/ /u/ /ũ/ /ɨ/ /ə/
+
+19 Há neste caso a oclusão parcial. 20 Somente partes das tabelas originais foram aproveitadas aqui. Elas também sofreram algumas alterações relacionadas à disposição das mesmas.
+
+38
+
+VI. Consoantes e semivogais
+
+Letras f g h j k m
+
+n
+
+Fonemas /f/ /ŋ/ /h/ /j/ /k/ /m/ /n/
+
+nh p r s t v ‘ /ɲ/ /p/ /ɾ/ /ʃ/ /t/ /w/ /ʔ/
+
+[ŋ]
+
+[m] [n]
+
+[ɲ]
+
+[ŋg]
+
+[mb] [nd] [nhdi]
+
+Alofones
+
+[gn] [gŋg]
+
+[bm] [dn] [idnh] [bmb] [dnd] [idnhdi]
+
+[k]
+
+[p] [t]
+
+[it]
+
+[itx]
+
+[inhx]
+
+Como pôde ser percebido, as letras <g>, <m>, <n> e <nh> possuem sons diferentes de acordo com o ambiente em que elas estejam. Se elas estiverem junto de vogal nasalizada, serão pronunciadas como: [ŋ], [m], [n], [ɲ],
+
+respectivamente. Se forem seguidas de vogal oral, serão pronunciadas como: [ng],
+
+[mb], [nd], [nhdi]. Se antecedidas de vogal oral, serão equivalentes a: [gn], [bm], [dn],
+
+[dinh]. Se intervocálicas: [gng], [bmb], [dnd], [idnhdi]. As letras <g>, <m>, <n>, seguidas por consoante surda serão
+pronunciadas como: [k], [p], [t], respectivamente. A ‘letra’ <nh> seguida de
+
+consoante surda que não seja <f>, será pronunciada como [it]; quando seguida de
+
+<f>, [itx]; entre vogal nasalizada e <f>, será pronunciada como [inhx].
+
+afirma que:
+
+Ainda com relação a <nh> com som palatal, Wiesemann (2002)
+
+39
+O som palatal <nh>, precedendo <j, s, t> provoca e sofre as seguintes mudanças: <nh> + <j> → [j] (<nh> se perde); <nh> + <s> → [s] (<nh> se perde); <nh> + <t> → [s] (<nh> se perde, [t] se muda)
+3.2 Padrões silábicos
+O kaingang possui os seguintes padrões silábicos: (V) – ã – ‘2ª pessoa do singular’ (VC) – ĩn – ‘casa’ (CV) – ta – ‘chuva’ (CCV) – prũ – ‘esposa’ (CVC) – gĩr – ‘menino’ (CCVC) – krĩg – ‘estrela’
+3.3 Unidades gramaticais que marcam sujeito, feminino e plural
+De acordo com Wiesemann (2002), para se marcar o sujeito na oração, os kaingang utilizam os seguintes marcadores:
+VII. Os marcadores de sujeito
+jé ‘sujeito antecipa a ação, ação desejada pelo falante’ mỹ ‘sujeito na pergunta que pede resposta ‘sim’ ou ‘não’’ ne ‘sujeito é original da ação’ né ‘agente tem sentimento’ (somente na terceira pessoa) ‘nỹ’ ‘sujeito é tópico e contrastado com vỹ, mudança de sujeito’ pijé ‘sujeito não faz a ação’ tóg ‘sujeito é agente’ tỹ ‘agente é ergativo; indicador de tópico’ vé ‘este sujeito faz coisas ruins’ vỹ ‘sujeito é tópico’
+
+40
+
+Em nossos dados, porém, os marcadores que mais aparecem são: vỹ, tóg, tỹ, havendo somente um caso com o marcador pijé e alguns outros com mỹ21. Na oração, os marcadores de sujeito são pospostos às unidades lexicais substantivas (sentenças 1, 2, 3 e 4, abaixo) ou a pronomes (sentença 5). Exs:
+
+1. gĩr vỹ fág kó ∅
+menino m.s. pinhão comer “O menino comeu o pinhão”
+
+2. isỹ tĩg kar kỹ, inh krĩ tóg kaga mũ 1p.sg.s. ir depois pos.1p.sg cabeça m.s. doer cont.
+“Depois que parti, minha cabeça estava doendo”
+
+3. inh
+
+livro tỹ vỹn ké
+
+pos.1p.sg. livro m.s. devolver
+
+“Devolva meu livro”
+
+4. Ludo pijé móra hã nig mũ Ludo m.s. bola ? chutar cont.
+“Não foi a bola que Ludo chutou”
+
+5. ã
+
+mỹ Neco vé?22
+
+2p.sg. m.s. Manuel ver
+
+“Você viu o Neco?”
+
+A função sintática do objeto é indicada pela posição que ocupa na oração: anterior ao verbo. O objeto direto não é acompanhado por nenhum tipo de unidade gramatical ou lexical. Já o objeto indireto, antecede o objeto direto quando este está presente na oração, e geralmente é acompanhado de uma posposição, como ra e mỹ, ambas glosadas como ‘para’, quando funcionam como posposição.
+Quando uma unidade lexical substantiva expressa o gênero ‘feminino’, este é marcado pela unidade gramatical fi (sg.), ex.:
+
+21 Como não é objeto de estudo deste trabalho, não teceremos comentários sobre até que ponto a explicação de Wiesemann (2002) para os marcadores de sujeito se confirma, mas vale a observação de que tais marcadores necessitam ser investigados de modo mais acurado. 22 De acordo com Wiesemann (2002, p. 155): “O ponto de interrogação <?> pode ser usado para indicar perguntas, bem que seu uso é redundante porque a pergunta é sempre indicada por uma palavra de interrogação, ex.: ã mỹ há? ‘vai bem?’”.
+
+41
+
+6. gĩr
+
+fi vỹ fág kó ∅
+
+menino m.f m.s. pinhão comer “A menina comeu o pinhão”
+
+Para se marcar a pluralidade das unidades lexicais substantivas, é usado o marcador ag, o qual é aglutinado ao marcador fi, quando a unidade lexical sustantiva é feminina e plural: fi + ag = fag. Exs.:
+
+7. gĩr ag vỹ vár ∅
+menino m.pl. m.s cair (pl.) “Os meninos caíram”
+
+8. gĩr
+
+fag vỹ vár ∅
+
+menino m.f.pl. m.s cair (pl.) “As meninas caíram”
+
+3.4 Ordem oracional e os pronomes pessoais/ possessivos
+
+A ordem preferencial das orações em kaingang é sujeito, objeto,
+
+verbo (SOV). Exs.:
+
+Sujeito
+
+Objeto Verbo
+
+9. ũ tỹtá fi vỹ kur ag kykym ∅
+
+mulher m.f. m.s. roupa m.pl. cortar(pl.) “A mulher cortou as roupas (os tecidos)”
+
+10. ã
+
+mỹ Neco vé? ∅
+
+2p.sg. m.s. Manuel ver “Você viu o Neco?”
+
+Tal ordem, entretanto, poderá ser OVS quando o núcleo do sujeito for ocupado por um pronome pessoal, sem que haja, na oração, qualquer unidade gramatical (‘marcador de sujeito’) para marcar sua função sintática. Esta será evidenciada pela posição do pronome no fim da oração. Ex.:
+
+42
+
+Objeto Verbo Sujeito 11. gãr fãn kãn fi23 ∅
+milho colher já 3p.sg.f. “Ela já colheu o milho”
+Os pronomes24 pessoais do kaingang são:
+
+VIII. Os pronomes pessoais
+
+Número
+
+Pessoa
+
+1ª
+
+2ª
+
+3ª
+
+não-fem.
+
+fem.
+
+Singular
+inh ã ti fi
+
+Plural
+ẽg ãjag ag fag
+
+Estes pronomes também servem para marcar posse quando antepostos a unidades lexicais substantivas, que podem tanto ocupar o núcleo do sujeito quanto o do objeto. Exs.:
+
+12. fi
+
+kósin vỹ nũr ∅
+
+pos.3p.sg.f. filho m.s. dormir “O filho dela dormiu”
+
+13. gĩr
+
+vỹ ti nỹ fi jãgti ∅
+
+menino m.s. pos.3p.sg.mãe m.f sonhar “O menino sonhou com a mãe dele”
+
+O fato de os pronomes pessoais, quando exercendo o papel de
+sujeito, poderem ocupar o início da oração sob a condição de eles serem marcados
+por marcadores de sujeito, faz-nos considerar que eles também possam ser
+aglutinados a tais marcadores. Veja os exemplos:
+23 Utilizado tanto para seres com traço semântico [+animado] quanto para seres com traço [animado]. 24 Os pronomes na língua kaingang estão sendo investigados por Emília Rezende Rodrigues de Abreu, mestranda do Programa de Pós-graduação em Estudos da Linguagem-UEL, sob a orientação de Ludoviko dos Santos.
+
+43
+
+14. isỹ
+
+goj mãn há tĩ
+
+1p.sg.s. água pegar querer hab.
+
+“Estou querendo pegar água”
+
+15. Apucaraninha ki escola tá isóg ag kanhrãn tĩ Apucaraninha em escola lá 1p.sg.s. 3p.pl. ensinar hab. “Ensino na escola do Apucaraninha”
+
+Em 14, o pronome pessoal inh pode estar aglutinado25 ao marcador vỹ e em 15, ao marcador tóg.
+
+25 Ainda não há um trabalho morfofonológico que confirme e explique esta hipótese.
+
+44
+4 O VERBO EM KAINGANG
+O verbo em kaingang possui, segundo Wiesemann (1971; 2002) até quatro formas, as quais chama de alternantes. No entanto, o verbo nesta língua, além de variar/ alternar conforme o ambiente, também pode modificar-se para expressar: (i) número; (ii) forma dos objetos; e (iii) causatividade. A variação verbal carece de mais estudos e será apresentada aqui para podermos compreender melhor os capítulos 6, 7 e 8.
+4.1 As formas alternantes do verbo
+Para iniciarmos a discussão, vejamos o que Wiesemann (1971) afirma sobre os verbos:
+Os verbos têm, principalmente, função predicativa, mas, como parte de construções possessivas, podem funcionar tal qual um substantivo [sic.]. Podem combinar com muitos indicadores de aspecto ou de modo. Podem, também, combinar com certos indicadores de circunstância na preposição, acompanhados por uma mudança de sentido. Neste caso, eles perdem a distinção entre transitivos e intransitivos. Tais combinações podem ser encontradas no Dicionário, sob os vários indicadores de circunstância, ex. nĩm ‘dar, pôr’ kri nĩm ‘crer, obedecer’ (Id. Ibid., p.270).
+Não há, nem no apêndice desta obra citada nem no dicionário de Wiesemann (2002), qualquer tipo de explicação ou exemplificação sobre o que vem a ser ‘construções possessivas’ e a conseqüente mudança de status do verbo. Nesta passagem de seu texto, Wiesemann apenas alerta o leitor de que o verbo no kaingang muda de sentido sob determinadas condições, as quais não são explicadas ou exemplificadas.
+Outra complexidade pode ser lida no trecho a seguir: “Alguns dos verbos têm formas alternantes, as quais ocorrem em vários ambientes. Alguns até 4
+
+45
+dessas formas, ex. fã ~ fa ~ fãn ~ fãg ‘quebrar milho’” (WIESEMANN, 1971, p.270, grifo nosso). Segundo a descrição da autora, a forma fã ocorre no final das orações ou seguidas por indicadores de opinião ou de dúvida. A forma fa ocorre quando precede um pronome sujeito localizado no fim da oração ou quando precede o indicador de apecto rỹ ‘faça agora’ (pelo significado dado, rỹ estaria indicando mais modo que aspecto; no capítulo 7, consideramos esta partícula como ‘marcador de modo imperativo’ e não um ‘indicador de aspecto’ como menciona Wiesemann). O fãn realiza-se quando precede os indicadores de aspecto vẽ, nẽ ‘é’, ou –mnĩ ‘faça qualquer tempo’26; precede um descritivo ou indicador de modo ou verbo. E a forma fãg, ocorre quando seguida de qualquer outro indicador de aspecto não mencionado acima, como nos exemplos27 a seguir:
+a) rãké tá inh gãr fã ‘ontem quebrei milho’ b) gãr fa ti ‘ele quebrou milho’ c) ã mỹ gãr fãn mũ ‘você vai quebrar milho?’ d) ã mỹ gãr fãg mũ ‘você está quebrando milho?’
+Mais a frente em seu texto, Wiesemann diz que:
+Outros verbos têm um número menor de formas alternantes comparando-se com as citadas acima, ou seja, um número menor de formas ocorre em todos os ambientes acima indicados, o que pode ser verificado no seguinte diagrama que está sendo exemplificado pelos verbos: kó ~ ko ‘comer, vé ~ ve ~ vég ‘ver’, fã ~ fa ~ fãn ~ fãg ‘quebrar milho’, rĩ ~ rĩnh ~ rĩg ‘carregar milho’, fi ~ fig ‘deitar’, tu ‘carregar sg.’ (...). Onde: do verbo kó ~ ko ‘comer’, a forma kó corresponde a forma fã demonstrada acima; a forma ko corresponde as formas fa ~ fãn ~ fãg. Do verbo vé ~ ve ~ vég ‘ver’, a forma vé corresponde a fã; a forma ve a fa ~ fãn, e a forma vég a fãg. Do verbo rĩ ~ rĩnh ~ rĩg ‘carregar pl.’, a forma rĩ corresponde a fã ~ fa; a forma rĩnh a fãn, e a forma rĩg a fãg. Do verbo fi ~ fig ‘deitar’, a forma fi corresponde a fã ~ fa ~ fãn, e a forma fig a fãg. Do verbo tu ‘
+26 Mais uma vez o que ela trata por aspecto parece ser modo. 27 Exemplos de Wiesemann (1971), logo, escritos tal qual na obra citada.
+
+46
+carregar sg.’, a única forma corresponde a todas as 4 formas do outro verbo (WIESEMANN, 1971, p. 271-272).
+Assim, de acordo com essa explicação, não se acrescentará –g e – n(nh) a todos os verbos.
+Em Wiesemann (1986), há uma explicação para o acréscimo de tais sufixos ao verbo: juntamente com determinados marcadores de aspecto ou modo, o sufixo –g marcaria o aspecto perfectivo no verbo; o –n(h), o imperfectivo; e a ausência de ambos os sufixos e de marcadores de aspecto, marcaria o aspecto neutro28. O verbo usado para exemplificar tais afirmações, novamente, é o fa ~ fã ~ fãg ~ fãn, o qual é o único exemplo (com quatro formas) que Wiesemann (1971; 2002) utiliza. Como ficaria, então, a expressão de tais tipos aspectuais nos demais verbos? Seria um exercício mental extraordinário calcular o aspecto verbal de um determinado verbo baseado nas correlações descritas acima: se kó está para fã, logo expressam ambos o aspecto neutro, como saber acerca da perfectividade ou imperfectividade da forma ko se ela corresponde à fa ~ fãn ~ fãg? Será que tais sufixos expressam realmente perfectividade e imperfectividade, e sua ausência, o aspecto neutro? Essa variação verbal precisa de mais estudos.
+4.2 A variação verbal conforme a pluralidade
+Os verbos também podem variar devido à pluralidade, ocorrendo fenômenos de dimorfismo (também chamado de formas supletivas) em certos casos, e reduplicação, em outros: 1. gĩr vỹ kutẽ ∅
+menino m.s. cair (sg.) “O menino caiu”
+28 Tais questões serão discutidas mais adiante.
+
+47
+
+2. gĩr
+
+ag vỹ vár ∅
+
+menino m.pl. m.s. cair (pl.) “Os meninos caíram”
+
+3. kokamẽ vỹ vẽnhvã ∅
+paca m.s. correr (sg.) “A paca correu”
+
+4. kokamẽ vỹ pigtẽ ∅
+paca m.s. correr (pl.) “As pacas correram”
+
+As formas verbais em 1 e 3 são completamente diferentes de 2 e 4: kutẽ muda para vár, quando plural, e vẽnhvã para pigtẽ. Estes são casos de dimorfismo, pois para um mesmo verbo há duas formas, inteiramente, distintas. Esse não é o caso do fenômeno de reduplicação, no qual uma parte do vocábulo se conserva. Veja os exemplos:
+
+5. pó vỹ gĩr
+
+kãnĩ ∅
+
+pedra m.s. menino atingir (sg.) “A pedra atingiu o menino”
+
+6. pó ag vỹ gĩr kanĩgnĩ ∅ pedra m.pl. m.s. menino atingir (pl.)
+“As pedras atingiram o menino”
+7. kasor29 vỹ jóvé gãm ∅ cachorro m.s. copo quebrar (sg.)
+“O cachorro quebrou o copo”
+
+8. kasor vỹ jóvé gógãm ∅
+cachorro m.s. copo quebrar (pl.) “O cachorro quebrou os copos”
+
+9. kónhĩgnhĩ ag vỹ kógfo gun
+
+∅
+
+rã
+
+m.pl. m.s. vespa engolir (sg.)
+
+“As rãs engoliram a vespa”
+
+29 Para saber sobre empréstimos na língua kaingang, ver: ALMEIDA & SANTOS (2006).
+
+48
+
+10. kónhĩnhĩ vỹ kógfo ag gungun ∅
+
+rã
+
+m.s. vespa m.pl. engolir (pl.)
+
+“A rã engoliu as vespas”
+
+Em 6, a parte posterior à raiz verbal é modificada: kãnĩ ~ kanĩgnĩ. Em 8, há o acréscimo de gó– na parte anterior à raiz: gãm ~ gógãm. Em 10, há a reduplicação completa do verbo gun: gun ~ gungun.
+
+4.3 A variação verbal para expressar a forma do objeto
+
+De acordo com a mitologia kaingang, discutida no capítulo 2, nada
+no mundo está fora das metades clânicas kanhru e kamẽ, que são homônimas aos
+irmãos descritos na mitologia e são distinguidas pelas formas “não-comprido” e
+“comprido”, respectivamente. Tais formas estão relacionadas às pinturas corporais
+usadas pelos kaingang, mas também são identificadas nos demais seres do
+universo. Como pode ser constatado na citação abaixo:
+Como foram estes dois irmãos que fizeram todas as plantas e animais, e que povoaram a terra com os seus descendentes, não há nada neste mundo fora da terra, dos céus, da água e do fogo, que não pertença ou ao clã de Kañerú ou ao de Kamé. Todos ainda manifestam a sua descendência ou pelo seu temperamento ou pelos traços físicos ou pela pinta. O que pertence ao clã Kañerú é malhado, o que pertence ao clã Kamé é riscado. O Kaingang reconhece estas pintas tanto no couro dos animais como nas penas dos passarinhos, como também na casca, nas folhas ou na madeira das plantas (NIMUENDAJÚ, 1993, p.58-59, grifo nosso).
+A identificação das marcas que caracterizam as metades clânicas
+também pode ser vista na língua. Desse modo, se o objeto que acompanha o verbo
+tiver um traço semântico [+ comprido], haverá um verbo específico, se [- comprido],
+um outro verbo será usado. Veja os exemplos:
+
+49
+
+11. kaneta va inh ∅ caneta pegar 1p.sg.
+“Eu peguei a caneta”
+12. giz né ma inh ∅ giz caixa pegar 1p.sg.
+“Eu peguei a caixa de giz”
+Em 11, o objeto ‘kaneta’ possui o traço semântico [+ comprido], assim o verbo é ‘va’ (‘pegar’). Já em 12, o objeto ‘giz né’ possui o traço semântico [comprido], sendo acompanhado pelo verbo ‘ma’ (‘pegar’). Não sabemos se a variação verbal para expressar a forma do objeto é comum a todos os verbos, tal fato deve ser mais bem investigado. No entanto, os traços semânticos das unidades substantivas que funcionam como sujeito ou objeto na oração têm implicação na marcação de plural desta língua (cf: SANTOS, 2001; 2003; ALMEIDA & SANTOS, 2003; 2005).
+4.4 A variação verbal devido à causatividade
+
+Os verbos, em kaingang, também podem variar de acordo com a causatividade30:
+
+13. gĩr
+
+vỹ janela mranh ∅
+
+menino m.s. janela quebrar “O menino quebrou a janela”
+
+14. janela vỹ mráj ∅
+janela m.s. quebrar “A janela quebrou”
+
+30 Para saber mais, consulte: TABOSA (2006). Os dados de 13 a 22 foram retirados desta obra, porém as abreviações foram modificadas aqui.
+
+50
+
+15. ũn sĩ
+
+nỹ fi vỹ ti rĩn ∅
+
+criancinha mãe m.f. m.s. 3p.sg. acordar “A mãe acordou o menino”
+
+16. ũn sĩ
+
+vỹ rĩr ∅
+
+criancinha m.s. acordar “O menino acordou”,
+
+17. Manoel vỹ gĩr kutẽm ∅
+Manoel m.s. menino cair “Manoel derrubou o menino”
+
+18. gĩr vỹ kutẽ ∅
+menino m.s. cair “O menino caiu”
+
+19. gĩr vỹ
+
+inh pratu gãm ∅
+
+menino m.s. pos.1p.sg. prato quebrar “O menino quebrou meu prato”
+
+20. inh
+
+pratu vỹ góv ∅
+
+pos.1p.sg. prato m.s. quebrar “Meu prato quebrou”
+
+21. kafe kusãg fi ∅ café esfriar 3p.sg.f.
+“Ela esfriou o café”
+22. kafe vỹ kusa é café m.s. esfriar ?
+“O café esfriou”
+
+Os vocábulos ‘janela’ em 13 e 14, ‘ũn sĩ’ em 15 e 16, ‘gĩr’ em 17 e 18, “pratu” em 19 e 20, e “kafe” em 21 e 22, possuem, em cada par de sentenças, a mesma função semântica, mas diferente função sintática. Observa-se que o verbo muda quando o objeto da primeira sentença passa a sujeito na segunda. A este fenômeno dá-se o nome de causatividade: a primeira oração de cada par é causativa, porque a ação passa do ‘sujeito ator’ ao ‘objeto paciente’; já a segunda
+
+51
+oração do par é não-causativa, pois o sujeito não transfere a ação a nenhum objeto, mas é ele próprio quem a sofre.
+A variação verbal conforme as formas ‘alternantes’, a pluralidade, os traços semânticos do objeto que o acompanha e a causatividade foi o que pudemos observar até agora, porém pode haver outros fenômenos que causam variação no verbo.
+
+52
+5 AS CATEGORIAS DE TEMPO, MODO E ASPECTO
+Tempo, modo e aspecto são categorias intimamente ligadas entre si e fazem parte da sentença, podendo ser ou não marcadas dentro do sistema verbal de uma língua. A categoria de tempo está relacionada ao tempo em que ocorre um determinado evento31; enquanto que a categoria de aspecto diz respeito à natureza do evento, à sua constituição temporal interna; e a de modo está ligada ao status da proposição que descreve o evento. Este capítulo é dedicado à discussão destas três categorias, sendo Lyons (1977; 1979), Bhat (1999), Castilho (1967), Maclennan (1962), Godoi (1992), Comrie (1976) e Palmer (2001), os principais autores estudados.
+5.1 Tempo
+O tempo32, em termos lingüísticos, é uma categoria dêitica que relaciona o tempo do evento ao momento do enunciado - o “agora” – e é expressa por contrastes gramaticais sistemáticos, na concepção de Lyons (1977; 1979), ou por uma marca flexional no verbo, por verbos auxiliares ou advérbios temporais, na visão de Bhat (1999). Segundo este autor, a marcação temporal pode ser de natureza gramatical ou lexical, o que contrasta com a visão de Lyons, o qual assume que para haver a categoria de tempo, em dada língua, é necessário haver um paradigma gramatical que expresse tal noção. Semanticamente, no entanto, o tempo é uma categoria da sentença.
+31 Evento, aqui, é usado com o sentido de “evento”, “ação”, “situação”, “estado”, etc. 32 O tempo, em termos não lingüísticos, pode ser definido como: (i) a duração relativa das coisas que cria no ser humano a idéia de presente, passado e futuro; período contínuo e indefinido no qual os eventos se sucedem; determinado período considerado em relação aos acontecimentos nele ocorridos; época; estação; sazão (HOUAISS, 2001); (ii) a parte da existência que pode ser medida em segundos, minutos, horas, dias, meses, anos, etc. (CAMBRIDGE, 1995).
+
+53
+
+Lyons (1977) afirma, ainda, que a categoria de tempo não é um
+componente universal das línguas, embora todas as línguas marquem o tempo
+cronológico/ físico, de certa forma:
+Though not all languages have tense, it is probably true to say that all languages have various deitic adverbs or particles of time, comparable with the English words ‘now’, ‘then’, ‘recently’, ‘soon’, ‘today’, ‘yesterday’, etc., which provide the means, when it is necessary or desirable, for drawing deitic temporal distinctions of the kind that are obligatory, and grammaticalized in the fullest sense as tensedistinctions, in such languages as English (LYONS, 1977, p.679).
+
+Logo, marcação temporal é diferente de categoria de tempo: todas as línguas realizam a marcação temporal, porém nem todas a fazem usando a categoria de tempo, ou seja, por meio de morfemas ou unidades gramaticais. Assim, as línguas que não possuem a categoria de tempo dispõem, por outro lado, de recursos lexicais para localizar os eventos no tempo físico33.
+Lyons, nesta mesma obra, também diz que a categoria de aspecto, discutida mais à frente, é mais comum nas línguas do que a de tempo: “Aspect is, in fact, far more commonly to be found throughout the languages of the world than tense is: there are many languages that do not have tense, but very few, if any, that do not have aspect” (LYONS, 1977, p.705).
+De acordo com Lyons (1979), o tempo gramatical admite, além dos contrastes “passado”, “presente” e “futuro”, outras categorizações:
+
+O “ponto-zero teórico” – o “agora” do enunciado – poderia ser
+reagrupado com “passado” ou com o “futuro”, do que resultaria, por
+um lado, a dicotomia entre “passado” e “não-passado”. Uma
+dicotomia diferente, baseada na distinção entre “agora” e “nãoagora”, sem referência à direcionalidade34 do tempo, poderia ser
+
+33 Tempo físico, no inglês, é distinguido pela unidade lexical time, e a categoria de tempo, pela
+
+unidade tense. 34 A direcionalidade do tempo pode ser expressa pela ponta da flecha da seguinte figura (In: LYONS,
+
+1979, p.320): antes
+
+depois
+
+------------------------------------------- →
+
+ag°ora
+
+54
+“presente” x “não-presente”. Outras categorizações possíveis dependeriam da noção de “proximidade”, com ou sem referência à direcionalidade, como a dicotomia “próximo” x “não-próximo” x “remoto”. Essas distinções se combinariam de várias maneiras (LYONS, 1979, p.321).
+Uma língua, portanto, pode marcar o “presente”, “passado” e “futuro”, ou ter somente “futuro” e “não-futuro” (passado e presente) ou ter “passado” e “não-passado” (presente e futuro).
+Tanto Lyons (1971; 1979) como Bhat (1999) afirmam que a dicotomia “futuro” x “não-futuro” expressa uma noção mais modal do que temporal: o “futuro” estaria relacionado à categoria irrealis, ou seja, algo que não se realizou; e o “não-futuro”, à categoria realis, algo que já se realizou ou se realiza.
+Lyons (1971; 1979) considera o tempo gramatical uma categoria dêitica por relacionar o momento do evento ao momento de fala, cujo ponto de referência é o ponto dêitico “agora”. Bhat (1999), por outro lado, considera dois tipos de tempo: tempo dêitico, cujo ponto de referência é o momento de fala, considerado ponto dêitico; e o tempo não-dêitico, o qual tem como ponto de referência um outro evento. Assim define este autor: “tense indicates the temporal location of an event by relating it either with the event of uttering the sentence that denotes the event (called deictic tense), or with some other event which is specified in the sentence itself (called non-deitic tense)” (BHAT, 1999, p.43). De acordo com esta concepção, a categoria de tempo usa como ponto de referência um evento - que pode ser o do momento de fala ou um outro evento - o qual pode ocorrer antes, simultaneamente ou depois do evento em consideração. Os tempos dêiticos são considerados tempos absolutos e os não-dêiticos, tempos relativos.
+
+55
+Além do ponto de referência (dêitico ou não-dêitico), Bhat também discute o fato de a categoria de tempo considerar a posição do evento com relação ao ponto de referência (se acontece antes, simultaneamente ou depois do ponto de referência) e a distância relativa do ponto de referência (se o evento acontece imediatamente antes ou depois do ponto de referência, ou se está mais distante do ponto): “instead of merely indicating that the event occurred before or after the reference point, tense markers may specify further as to whether it occurred immediately before or after the reference point, or whether the occurrence was farther removed from that point” (BHAT, 1999, p.31).
+Castilho (1967), por sua vez, afirma que a categoria de tempo serve para localizar o processo num dado momento e, para tanto, considera três pontos de referência: o próprio falante (ego), o momento em que se desenrola outro processo e o momento em que idealmente se situa o falante. Portanto, segundo este autor, tal categoria carrega certa subjetividade. Em português, há os tempos absolutos (presente, passado, futuro), relativos (imperfeito, mais-que-perfeito, futuro e perfeito do subjuntivo, futuro perfeito) e históricos.
+5.2 Modo
+O modo, segundo Lyons (1979), é, assim como o tempo, uma categoria que, freqüentemente, se realiza pela flexão do verbo ou devido a sua modificação por meio de “auxiliares”. Trata-se de uma categoria lingüística que serve para marcar, gramaticalmente, a atitude do falante em relação ao status factual do que se está dizendo, isto é, sua certeza e ênfase, sua incerteza ou dúvida, etc.
+De acordo com este mesmo autor, as frases simplesmente declarativas seriam não-marcadas quanto ao modo, ou seja, seriam afirmações de
+
+56
+fatos, neutras com respeito à atitude do falante, quanto ao que está dizendo. Porém, quando uma determinada língua possui um conjunto de processos gramaticais para “marcar” as frases de acordo com a atitude do falante em relação ao status factual do que está dizendo, é costume referir-se às frases não-marcadas como tendo certo modo.
+Duas classes de frases se distinguiriam das outras pelo modo: as frases imperativas, que expressam ordens ou instruções e são centradas na 2ª pessoa do discurso, visto que ordens e instruções são dadas diretamente ao ouvinte; e as frases interrogativas, que não são consideradas modais, por muitos lingüistas, em virtude de não apresentarem flexão verbal ou seleção de um auxiliar particular: as frases interrogativas são “o emprego do ‘modo indicativo’ em conexão com várias partículas interrogativas ou pronomes, ou com a mudança da ordem das palavras ou ainda com a mudança da entoação” (LYONS, 1979, p. 323).
+Não compactuando com a opinião de muitos lingüistas, Lyons considera modais as frases interrogativas. Tais frases podem, inclusive, ser caracterizadas por modalidades suplementares que indicam o que o falante espera: se uma resposta “sim ou não” ou só “sim” ou só “não”, além de outros tipos de informações.
+Lyons considera três escalas básicas de modalidade: (i) desejo/ intenção, (ii) necessidade/ obrigação, (iii) certeza/ possibilidade; e afirma que há, por um lado, “uma afinidade entre as frases imperativas e as modalidades de ‘desejo’ e da ‘necessidade’ e, por outro, entre as interrogativas e a modalidade da ‘possibilidade’” (Id. Ibid. p. 324).
+Quanto à futuridade, Lyons afirma que:
+Poder-se-ia pensar que seria mais exato analisá-los como ‘modos’. Mas o que aqui se discute é que o ‘tempo’ e o ‘modo’ se imbricam de
+
+57
+tal maneira que qualquer das duas designações será igualmente apropriada (Id. Ibid. p.327).
+Bhat (1999), por outro lado, diz que a categoria de modo está
+relacionada à atualização do evento. Para este autor, há três parâmetros diferentes,
+usados pelas línguas, para se estabelecer as distinções modais. São eles: (i)
+julgamento: o falante pode considerar o evento real ou irreal, imaginário ou
+hipotético, certo ou incerto; (ii) evidência: o falante pode usar diversas bases –
+evidências – para especificar a realidade do evento ou pode presenciar, como
+também, ter tido notícia, por meio de terceiros, de algum evento; e mesmo haver a
+possibilidade de o evento ser inferido, deduzido ou derivado pela indução; (iii)
+necessidade/ obrigação: refere-se aos diferentes graus de compulsoriedade externa
+ou interna que força o evento a se realizar. Os dois primeiros parâmetros formam o modo epistêmico35, ou seja,
+o modo baseado no conhecimento; já o terceiro, estabelece o modo deôntico36,
+aquele baseado na ação. Sentenças com forças de elocução como as interrogativas
+e imperativas são extensões desses dois modos: as interrogativas são extensões do
+modo epistêmico e as imperativas, do modo deôntico.
+The inclusion of interrogatives in the modal category results from the fact that a speaker use an interrogative sentence in order to augment or strengthen his knowledge about an event; they are therefore closely related to epistemic moods like doubt and uncertainty. Imperatives, on the other hand, are modal in the sense that they form part of the external compulsions that force an event to take place, and are therefore closely related to deontic moods (p.64).
+35 “Epistemology is concerned with the nature and source of knowledge, epistemic logic deals with the logical structure of statements which assert or imply that a particular proposition, or set of propositions, is know or believed” (LYONS, 1977, p.793). 36 “Deontic modality is concerned with the logic of obligation and permission, e.g. the use of the modals in SENTENCES such as The car must be ready, i.e. ‘I oblige you to ensure that the car is ready’. It thus contrasts with ALETHIC and EPISTEMIC modality, which would interpret this sentence respectively as ‘It follows that the car is ready’ and ‘It is surely the case that the car is ready’” (CRYSTAL, 1997, p. 109).
+
+58
+Assim, tanto para Bhat como para Lyons, as sentenças interrogativas e imperativas são modais.
+Bhat considera, ainda, que, dentro da categoria de modo, a principal distinção estabelecida é entre realis, o qual denota o evento que aconteceu ou acontece de fato, e irrealis, que denota o evento que está no âmbito do pensamento, do imaginário, podendo referir-se ao futuro ou expressar um desejo, uma vontade ou intenção. Realis e irrealis expressam a atualidade do evento.
+A categoria de modo, dessa forma, estaria dividida em atualidade (realis vs. irrealis), modalidade (capacidade, obrigação, intenção) e evidência.
+Para Palmer (2001), até certo ponto, na senda de Lyons e Bhat, a modalidade é uma categoria geral que está intimamente associada às categorias de tempo e aspecto e, como tais, é uma categoria da sentença, geralmente marcada dentro do complexo verbal de uma língua. A modalidade é uma referência ao status de uma proposição.
+No entanto, para este autor, tal categoria é dividida em: modo e sistema modal. Ambos podem ocorrer em uma língua: no alemão, por exemplo, há o modo (indicativo e subjuntivo) e o sistema modal, expresso por verbos modais. No entanto, é mais comum que apenas uma distinção ocorra em dada língua: no inglês, o modo subjuntivo desapareceu, tornando-se mais saliente o sistema modal com verbos modais (e.g.: can, could, must, may, might, etc.).
+No modo, encontra-se o sistema binário de realis e irrealis. Segundo Mithun (MITHUN, 1999 Apud PALMER, 2001, p.1):
+The realis portrays situations as actualized, as having occurred or actually occurring, knowable through direct perception. The irrealis portrays situations as purely within the realm of thought, knowable only through imagination.
+
+59
+Nas línguas indoeuropéias, o realis costuma estar ligado ao modo indicativo e o irrealis, ao subjuntivo. O realis pode também co-ocorrer com os tempos passado e presente, e o irrealis, com o futuro.
+No sistema modal, é possível encontrar verbos modais ou marcadores que evidenciam, por exemplo, se o que está sendo dito faz parte de um conhecimento geral, se é uma experiência individual, se é uma evidência auditiva ou visual, se é algo reportado ou inferenciado, etc. No entanto, afirma o autor que: “it is not always possible to draw a clear distinction between mood and modal system, since, in some languages, the overall system of modality has characteristics of both” (PALMER, 2001, p.7).
+Dentro do sistema modal, há diversos subtipos de modalidade: i) epistêmico (julgamento: especulativo, dedutivo e acertivo) e evidencial (evidência: reportado e sensorial); ii) deôntico (obrigação e permissão) e modalidade dinâmica (abilidade e volitividade); iii) pressuposição (considerado irrealis), iv) negativo e interrogativo (podem ser marcados como irrealis em alguma língua, não é o caso das línguas indoeuropéias); v) desejos e medos; vi) tempo passado como modal (expressa a não-realidade, tentativa, potencialidade, etc., e.g.: inglês (will ~ would, can ~ could, may ~ might).
+A modalidade pode ser marcada por três tipos de marcadores gramaticais: i) sufixos, clíticos e partículas; ii) flexão verbal; iii) verbos modais.
+Assim, Lyons (1979) e Bhat (1999) falam da existência de uma categoria de modo, categoria esta que evidencia a atitude do falante em relação ao status factual do que se está dizendo ou da atualização do evento por parte do falante. Os parâmetros de modalidade de Bhat se assemelham à escala de modalidade de Lyons. A diferença entre esses dois autores é que aquele divide a
+
+60
+categoria de modo em: (i) atualidade (realis vs. irrealis); (ii) modalidade, propriamente dita, na qual seriam incluídas as distinções entre capacidade, obrigação e intenção; e (iii) evidência. Palmer (2001), em contrapartida, não fala da existência de uma categoria de modo, mas de modalidade, uma categoria geral que seria dividida em modo, na qual se encontrariam as distinções de realis e irrealis, e sistema modal, dividido, por sua vez, em subtipos: epistêmico e evidencial; deôntico; pressuposição; negativo e interrogativo; desejos e medos, dentre outros.
+5.3 Aspecto
+5.3.1 Um pequeno levantamento histórico acerca da categoria
+Estima-se que a categoria de aspecto seja mais antiga do que a categoria de tempo. No entanto, segundo Comrie (1976), tal categoria é a menos conhecida se comparada às de tempo e modo. É por esta razão que nos delongaremos mais na discussão acerca desta categoria.
+O aspecto, diferentemente do tempo, não é uma categoria dêitica e não se refere ao momento enunciado (LYONS, 1979, p.331), antes, está ligado ao movimento, ao modo como se produz a ação, ao resultado da ação. A diferença entre os valores temporais e aspectuais, constantemente, foi observada no estudo das línguas. Assim, o que será discutido, nesta seção, é o surgimento e o desenvolvimento da categoria de aspecto como objeto de estudo, de acordo, especificamente, com a obra de Castilho (1967).
+
+61
+5.3.1.1 Os estóicos, os latinos e as correntes lingüísticas
+Os estóicos já identificavam, ao analisarem os tempos, valores não temporais nos verbos. Desse modo, dividiam os tempos em dois grupos: tempos determinados (horisménoi), o qual se dividia em tempos que se estendem, que duram – presente (ho enestôs paratatikós) e imperfeito (ho paracheménos paratatikós) –, e tempo acabado, cumprido – perfeito (ho enestôs suntelikós)37; tempos indeterminados (aóristoi), que seriam o aoristo e o futuro. Os latinos, por sua vez, dividiam a categoria de tempo em: tempora infecta (infectum) e tempora perfecta (perfectum).
+A insistência de valores não temporais em verbos gregos e latinos ficou mais forte com o comparatista Georg Curtius (Apud CASTILHO, 1967), o qual definiu os graus do tempo: o presente, passado e futuro seriam somados à qualidade do tempo: ação durativa (presente), ação incipiente (aoristo), ação completa (perfeito). Karl van der Heyde (Apud CASTILHO, 1967), por outro lado, estudando o aspecto do grego e do latim, descarta a noção de inacabado vs. acabado e diz, ainda, que o perfectum seria um tipo de resultativo.
+Curtius foi um dos representantes do grupo de estudiosos que se dedicou à investigação da categoria de aspecto na Lingüística Histórica; outros que se destacaram foram: A. Meillet, Schwyzer e J.Brunel (Apud CASTILHO, 1967). Curtius subdivide os verbos em processo, no qual entrariam o presente, marcando duração, e o aoristo, evidenciando a constatação; e em estado, no qual apareceria o perfeito. Meillet, do mesmo modo, agrupa o presente (duração) e o aoristo (processo puro e simples) de um lado, e o perfeito (estado resultante de estados anteriores ou
+37 Em que paratatikós (=durar, estender, desenvolver); enestôs (=presente); parocheménos (=passado); synteléo (=acabar, cumprir).
+
+62
+ação acabada) de outro. Schwyzer, ao contrário, agrupa o presente e o perfeito, afirmando que tais seriam infectivos, ou seja, marcariam um processo que não chegou ao seu termo; e chama o aoristo de confectivo, o que marca um valor pontual. Brunel, por outro lado, classifica o aspecto em determinado, aquele que marca o fim do processo, e indeterminado, no qual o fim do processo não é entrevisto.
+Dá-se, com a Lingüística Histórica, a fixação da tipologia do aspecto, porém, inicia-se, da mesma forma, a confusão entre o sistema eslavo (perfectivo/imperfectivo) e o grego (aoristo/presente vs. perfectivo), cuja discussão será aprofundada mais à frente.
+Na tendência psicológica da Lingüística, o aspecto é tido como um “tempo metafísico”. Os maiores representantes desta corrente são: Bergson (Apud CASTILHO, 1967), que estuda a duração qualitativa que se opõe ao tempo matemático, cronologicamente medido, dividindo, assim, o tempo cronológico vs. tempo durativo; e G. Guillaume (Apud CASTILHO, 1967), o qual funde o aspecto desenvolvimento do processo - e o tempo - momento em que se encontra esse desenvolvimento, argumentando que o aspecto seria um tempo implicado e o tempo, um tempo explicado.
+No Estruturalismo, Castilho discute a contribuição da Escola de Copenhague e da Escola de Praga. Apropriando-se dos conceitos definidos da primeira escola (termo positivo A [funções delimitadas], termo negativo B [sem delimitação], termo zero [nem uma coisa nem outra]), Jens Holt (Apud CASTILHO, 1967) argumenta que o aspecto perfeito seria um termo positivo, que descreveria o processo acabado que se transforma em estado; o presente, o termo negativo, que descreveria o processo não acabado; o aoristo, o termo zero, que indicaria o
+
+63
+processo que não é considerado nem antes nem depois de seu fim. Knud Togeby (Apud CASTILHO, 1967), da mesma escola, diz que o perfectivo seria um intensivo e teria distribuição limitada, já o imperfectivo, seria extensivo e teria certo número de relações possíveis.
+Na Escola de Praga, Martin Sánchez Ruipérez (Apud CASTILHO, 1967), diz que, no verbo grego, o perfeito seria o termo marcado e o presente/aoristo, o termo não-marcado, expressando o presente a duração (termo marcado) e o aoristo, a não duração, a pontualidade (termo não marcado).
+Vislumbra-se, até aqui, uma junção das noções sobre os tempos gregos (perfeito, presente, aoristo) com o conceito do aspecto eslavo (perfectivo, imperfectivo), surgindo diversas acepções e agrupamentos de categorias aspectuais. Porém, nos estudos aspectológicos, a confusão referente aos conceitos se intensifica quando estudiosos franceses traduzem do alemão o termo Aktionsart (literalmente “modo da ação”) por “aspecto”, permanecendo Aspekt intraduzido.
+Aktionsart é uma noção lato sensu de aspecto, que indica o modo da ação e tem um número ilimitado de possibilidades, assentando-se no próprio valor semântico do verbo, ou seja, na natureza da ação. Deustchbein (Apud CASTILHO, 1967) divide os modos da ação em: Phasenaktionsarten (momentâneo-pontual, ingressivo, inceptivo, perfectivo-egressivo, imperfectivo), Mutationsaktionsarten (incoativo, continuativo, resultativo, iterativo, intensivo), Intentionaleaktionsarten (freqüentativo, causativo, desiderativo). Alfred Schossig (Apud CASTILHO, 1967) subclassifica os modos da ação na língua francesa da seguinte forma: durativo, durativo com significação finitiva, durativo-perfectivo, momentâneo, incoativo, distributivo, iterativo/freqüentativo, factitivo, ingressivo, terminativo, consuetudinário, gnômico.
+
+64
+Aspekt, por outro lado, é o ponto de vista subjetivo do falante sobre o desenvolvimento da ação. É uma noção strictu sensu do problema e reporta-se aos graus de realização da ação, sendo bipolar: imperfectivo, quando a ação dura, e perfectivo, quando a ação se completa. O aspecto é expresso por flexões e perífrases, estando, assim, no nível morfológico; já o modo da ação é expresso pelo semantema do verbo, ou seja, está no nível semântico.
+Devido à má tradução dos termos para o francês38, surgiram os mais variados tipos de “aspecto”: aspecto intensivo, diminutivo, desiderativo, potencial, reflexivo, recíproco, conativo, pejorativo, benefactivo, comitativo, obrigatório, aparencial, inferencial ou putativo, reservativo, negativo, de velocidade, de plenitude, de fraqueza, inversivo, cessativo, negativo, aditivo, intencional, de predileção, reflexivo, de interesse pessoal, determinado, dentre outros. Assim, erros de tradução causaram a confusão no tratamento do aspecto.
+5.3.2 A problemática da Lingüística Geral e a confusão nos estudos aspectológicos
+Sobre a complicação no estudo do aspecto verbal, inicia Jenaro Maclennan, em sua obra intitulada “El problema del aspecto verbal: estudio critico de sus presupuestos”, a seguinte discussão:
+Ha sido tanto lo que se ha escrito sobre el aspecto verbal, tan dispares los criterios fundamentales con que se ha acometido la empresa, tan inverosímiles los dominios lingüísticos en los que se ha pretendido examinar esta cuestión, que hoy parece apenas
+38 “Um grande embaraço surgiu para o mundo românico quando os franceses traduziram Aktionsart por “aspecto”, deixando intraduzido o têrmo Aspekt; a incompreensão então estabelecida quanto ao que se vinha designando por Aspekt e Aktionsart, baralhando noções que diziam respeito a níveis lingüísticos distintos (Aktionsart: nível semântico; Aspekt: nível morfológico), aprofundou a crise começada pelos esmiuçadores dos Aktionsarten. Descobriram-se assim “aspectos” que não eram mais que filigranas de significação encontráveis nos verbos: [“aspecto”] intensivo, diminutivo (...), benefactivo (...). Fácil é ver que uma grande confusão entre aspecto e modo ia-se estabelecendo (...)” (CASTILHO, 1967, p.42-43)
+
+65
+concebible un libro sobre el aspecto que no se circunscriba a lengua alguna. Uno se pregunta cómo ha sido posible mantener la tradición de este estudio concretamente aplicado a los hechos de la lengua sin existir uma investigación definida de los fundamentos y de las metodologías consiguientes del problema (MACLENNAN, 1962, p. 7).
+Nesta obra, o autor investiga os problemas da Lingüística Geral,
+iniciada por Sausurre, por meio do problema do aspecto verbal.
+Segundo Maclennan, não há um princípio geral sobre aspecto,
+nenhuma nomenclatura, metodologia ou fundamento homogêneos, do mesmo modo
+que as condições teóricas e metodológicas da Lingüística Geral também são
+heterogêneas, arbitrárias e, muitas vezes, contraditórias. Desse modo, acredita o
+autor que sem se delimitar alguns princípios fundamentais na ordem da investigação
+concreta e da Lingüística Geral, todo o intento de se realizar uma investigação sobre
+o aspecto verbal é tão estéril como inútil:
+La falta de una definición homogénea para designar la naturaleza del aspecto verbal evidencia que la cuestión jamás estuvo satisfactoriamente formulada desde los orígenes y que, al prolongarse la investigación sin una metodología que racionalizase los defectos creados por la carencia de una definición, se ocasionó la adulteración del problema trascendiéndose a otros órdenes que un examen riguroso de la tradición hubiera necesariamente condenado (MACLENNAN, 1962, p. 84).
+A tradição dos estudos sobre o aspecto verbal, como foi vislumbrado
+acima, é iniciada por Curtius no século XIX, quando este estudioso, ao investigar os
+verbos do grego antigo, afirma que os verbos não expressavam noções
+propriamente temporais, mas uma noção de natureza distinta desta. A esta noção
+dá-se o nome de aspecto. A investigação no domínio grego estende-se a outros
+sistemas verbais indoeuropeus. Os resultados eram discutidos no âmbito concreto
+de cada língua e no da filologia comparada, não havendo acordo nem sobre a
+função das formas nem sobre a significação das mesmas. Faz-se, desse modo, a
+
+66
+conexão entre a oposição grega aoristo/presente com a eslava, perfectivo/imperfectivo. Tal fato torna-se um problema que afeta tanto a morfologia quanto a semântica.
+A partir daí, tenta-se resolver o problema por meio das definições de Aspekt (aspecto) e Aktionsart (modo da ação). De um lado, Agrell e Koschmieder (Apud MACLENNAN, 1962, p. 19) afirmam ser o aspecto de um verbo a expressão de uma ação enquanto terminada ou em progresso (perfectivo/imperfectivo), e o modo da ação (Aktionsart), a expressão de uma ação como sendo realizada de certa maneira: iterativa, durativa, etc. Jakobson (Apud MACLENNAN, 1962, p. 19), por outro lado, considera o aspecto uma oposição morfológica absoluta, categoria subjetiva, e o modo da ação, uma categoria objetiva da ação verbal:
+Tiene lugar entre el concepto de “Aspecto” tradicionalmente admitido (perfectividad/ imperfectividad) con procedimientos morfológicos característicos, y el concepto de Aktionsart en cualquiera de sus múltiples variantes, que es concepto de naturaleza semántica y psicológica (MACLENNAN, 1962, p. 22).
+Assim, o primeiro conflito de importância que se observa no curso da tradição aspectual tem lugar o conceito de aspecto, tradicionalmente admitido (perfectividade/ imperfectividade) com procedimentos morfológicos característicos, e o conceito de Aktionsart em qualquer de suas múltiplas variantes, que é o conceito de natureza semântica e psicológica.
+Desde 1916 até aquele momento (1962), o objeto da investigação científica era a língua, mais precisamente, sua forma. Acontece que o aspecto precisaria, segundo Maclennan, ser estudado também em sua substância, sua significação. Devido ao saussurianismo, porém, não se criou nenhuma teoria ou metodologia completa sobre o plano das significações, já que a atenção estava
+
+67
+voltada à forma e não à substância dos fenômenos lingüísticos. Assim, os estudos sobre aspecto careceram de teoria e método bem fundamentados.
+Dessa forma, se para Castilho a problemática nos estudos aspectológicos emana de seu próprio transcorrer histórico, para Maclennan, tal conflito advém da ciência da linguagem em vigor, a qual não possibilitou a criação de fundamentos metodológicos para o estudo do aspecto nas línguas: “la crisis y el conflicto no procedían de la tradición aspectual; procedían de la ciencia general del lenguaje” (MACLENNAN, 1962, p. 148).
+5.3.3 As tradições nos estudos aspectológicos
+Observou-se, até o momento, certa disparidade no trato do aspecto nas línguas. Diversos conceitos foram criados e, com isso, várias maneiras de se analisar tal fenômeno coexistiram. Este fato leva-nos a crer que não se instituiu uma tradição, com fundamentos e metodologia bem delineados, no estudo de tal objeto. No entanto, esta crença é falseada por Elena Godoi, em sua tese “Aspectos do aspecto” (1992), a qual analisa algumas teorias influentes na aspectologia, ligadas, de acordo com Dahl (1981, Apud GODOI, 1992), a duas posições teóricas mais gerais: a tradição “ocidental”, ou anglo-saxônica, e a tradição “oriental”, ou eslava. Na primeira, os pesquisadores seguem a tradição aristotélica-vendleriana e são inclinados para a semântica formal, beirando a pragmática; na segunda, encontramos os eslavistas e não-eslavistas, que aplicam os conceitos da aspectologia eslava a outras línguas e que têm, como base, a gramática funcional russa, inclinando-se para a psicolingüística estruturalista com componentes pragmáticos.
+
+68
+A tradição ocidental está mais voltada à classificação verbal em termos lexicais e tem, como base, as duas classes aspectuais de verbos (estados e processos), feita por Aristóteles em “Metafísica”, e a classificação de Vendler em “Linguistics in Philosophy”39. Segundo Aristóteles, os verbos estariam divididos em estado e processo; esta classe, por sua vez, estaria subdividida em energeia (atualidades) – verbos que, não necessariamente, possuem um ponto terminal, ex.: ‘escrever’, – e kinesis (movimentos) – verbos que possuem um ponto terminal, ex.: ‘consertar um carro’, ‘escrever um artigo’, ‘matar o marido’. Vendler, seguindo o mesmo raciocínio, propõe uma classificação quadripartida dos verbos: haveria verbos de estado (ex.: ‘amar’, ‘querer’, ‘desejar’), atividade (ex.: ‘correr’, ‘andar’), accomplishments (ex.: ‘correr uma milha’; ‘pintar um quadro’) e achievements (ex.: ‘achar’, ‘nascer’, ‘morrer’).
+Os ocidentais, para elaborar seus modelos teóricos de base lógica, além destas classificações, usam o conceito de intervalo de tempo, o conceito de tempo de fala, tempo de evento e tempo de referência, proposto por Reichenbach, e se preocupam com o papel de outros componentes sentenciais, principalmente dos argumentos verbais.
+Elena Godoi resenha alguns autores desta tradição, tais como: Ryle (1949), Kenny (1963), Vendler (1967), Reichenbach (1947), Taylor (1977), Bennett e Partee (1972), Mourelatos (1978), Dowty (1979/ 1986), Declerck (1979), Bennett (1981), Parsons (1989), Johnson (1981), Shi (1990), Verkuyl (1972), Comrie (1976).
+Já a tradição oriental é baseada na noção, introduzida por Agrell (1908 Apud GODOI, 1992), de Aktionsarten (“modos de ação”), entendidos como traços ou categorias semânticas. Segundo Agrell, as funções semânticas dos verbos
+39 Tanto a obra de Aristóteles quanto a de Vendler só são conhecidas por meio da tese.
+
+69
+prefixados do russo determinam, com precisão, como a ação se realiza; expressam sua maneira de realização. São vários os modos de ação – inceptivo, incoativo, resultativo, durativo, iterativo, completivo, cessativo, saturativo, cumulativo, distributivo, semelfactivo, multiplicativo, estativo, dentre outros. O número dos modos de ação varia de autor para autor, são listas com base intuitiva, sujeitas a inúmeras variações. Tais modos, também, não são relacionados com o conceito de perspectiva temporal, de intervalo temporal: “o tempo é entendido, dentro desta tradição, como um eixo que inclui apenas dois pontos: o ponto de fala e o de evento” (GODOI, 1992, p.117).
+Dentro desta tradição, os autores resenhados pela autora foram: Maslov (1965/ 1978), Bondarko (1985), Kozintseva (1985), Akimova (1985), Xrakovskij (1985), Pavlov (1984), Referofskaja (1984), Desherieva (1979/ 1988), Padučeva (1990), Timberlake (1982).
+Assim, se para Castilho e Maclennan existe um caos nos estudos aspectológicos, para Godoi, este tipo de estudo segue duas tradições bem delineadas: a ocidental, voltada à classificação verbal e cujos expoentes teóricos são Aristóteles, Vendler e Reichenbach; e a oriental, voltada à realização da ação de acordo com o momento do evento relacionado ao momento de fala.
+5.3.4 A definição de aspecto
+5.3.4.1 Comrie (1976)
+Bernard Comrie, em sua obra denominada “Aspect” (1976), discute o conceito de aspecto, sua relação com a categoria de tempo e sua manifestação
+
+70
+semântica ou morfológica em diversas línguas, das quais se destacam o inglês, o russo, o grego antigo e moderno, o francês, o espanhol, o chinês, dentre outras.
+Segundo o autor, como já citado acima, a categoria de aspecto é menos conhecida nas línguas do que as categorias de modo e tempo. Esta seria uma categoria dêitica, que relaciona o tempo de uma situação referida a outro tempo, normalmente, ao momento de fala. Há dois tipos de tempo: tempos absolutos – presente, passado e futuro – que relacionam o tempo da situação/ acontecimento ao momento de fala; e os tempos relativos, que relacionam o tempo de uma situação não ao momento de fala, mas ao tempo de uma outra situação.
+A categoria de aspecto, por outro lado, refere-se às diferentes formas de se observar a constituição temporal interna de uma situação, podendo ser expresso lexical ou gramaticalmente. Não há uma terminologia geral, um sistema terminológico para esta categoria verbal, porém noções como Perfectividade e Imperfectividade são comuns nos estudos sobre aspecto:
+On the one hand, different labels are often used to refer to the same phenomenon, while on the other hand, and even more confusingly, the same label is often applied by different linguists to radically different concepts (COMRIE, 1976, p. 12).
+Assim, a perfectividade, nesta obra, é entendida como um olhar externo sobre a situação, sem, necessariamente, se distinguir a estrutura interna da mesma. Já a imperfectividade seria um olhar para a estrutura interna da situação. Ou seja, enquanto a perfectividade representa a ação pura e simples, configurandose como uma visão do acontecimento como um todo único, sem se importar com as fases separadas da situação, a imperfectividade tem a atenção voltada à estrutura interna da situação, pondo-se ênfase em alguma parte da mesma: seu começo,
+
+71
+meio ou fim. As formas imperfectivas não podem ser usadas para se referirem a situações que carecem de estrutura interna.
+Comrie destaca que o perfectivo não pode ser descrito como algo que tenha duração curta em oposição ao imperfectivo, que teria duração mais longa. Da mesma forma, não pode ser concebido como uma situação limitada e o imperfectivo, como uma situação ilimitada. Nem como algo que indica uma situação momentânea ou pontual. Antes, o perfectivo reduziria a situação a um blob (cubo): “a blob is a three-dimensional object, and can therefore have internal complexity, although it is nonetheless a single object with clearly circumscribed limits” (Id. Ibid.p. 18). O perfectivo indica uma ação completa (“completada” pode ser falso porque este termo daria ênfase ao fim da ação, e o perfectivo não põe ênfase em nenhuma parte ou fase da situação) e com término, não sendo incompatível com expressões que indicam duração. Ex.: “Ele reinou por 30 anos”. O verbo ‘reinar’ denota perfectividade e a expressão adverbial ‘por 30 anos’, duração. Assim, o perfectivo pode indicar a estrutura interna da situação não diretamente, mas por meio do significado lexical do verbo, de outras oposições aspectuais, ou outras facetas do contexto: “Fecharam todas as portas”, “Começou hoje no trabalho”. A primeira oração apresenta uma noção de distribuição, visto que as portas não foram fechadas de uma só vez, mas uma de cada vez; e a segunda, uma noção de início, produzida pela natureza lexical do verbo. Dessa forma, a perfectividade pode sofrer influência de outros elementos: natureza lexical do verbo, expressões adverbiais e outros, sendo assim possível usar formas perfectivas para se referir a situações que tenham estrutura interna (Id. Ibid.p. 26).
+A diferença entre as categorias de tempo e aspecto, no entanto, ocorre da seguinte forma:
+
+72
+Although both aspect and tense are concerned with time, they are concerned with time in very different ways [...], tense is a deitic category, i.e. locates situations in time, usually with reference to the present moment, though also with reference to other situations. Aspect is not concerned with relating the time of the situation to any other time-point, but rather with the internal temporal constituency of the one situation; one could state the difference as one between situation-internal time (aspect) and situation-external time (tense) (Id. Ibid.p. 5).
+5.3.4.2 Bhat (1999)
+Na senda de Comrie, Bhat define aspecto como a categoria que indica a estrutura temporal interna do evento, isto é, a maneira como o evento ocorre no tempo: se em desenvolvimento ou completado, no em seu início, meio ou fim, se repetido várias vezes (iterativo) ou uma única vez (semelfactivo). Tal categoria pode mostrar, ainda, se a ação é momentânea ou durativa, se envolve mudança (ativo) ou não (estativo), se ocorre em uma ocasião específica ou habitualmente, assim por diante. Concordando com Dik (1989, Apud BHAT, 1999) e Siewierska (1991, Apud BHAT, 1999), o autor divide esses vários tipos aspectuais em três grupos distintos: (i) perfectivos e imperfectivos, (ii) ingressivos, progressivos, egressivos e resultativos, e (iii) semelfactivos, iterativos, habituais e freqüentativos. O primeiro grupo pode considerar o evento como um todo, vendo-o pelo lado de fora – from outside – ou considerar sua constituição interna, observando-o pelo lado interno. O segundo grupo distingue as diferentes fases do evento. Já o terceiro, representa as distinções concernentes às quantificações do evento.
+Com relação à diferença entre aspecto (de natureza gramatical ou flexional e considerado como as várias formas de ver o evento: completado ou não, específico ou habitual, ingressivo, progressivo ou egressivo) e aktionsart (de natureza lexical ou derivacional, considerado como os modos ou tipos da ação:
+
+73
+processos vs. estados, eventos momentâneos vs. durativos, télicos (resultativos) vs. não télicos), o autor afirma: “we may regard the former as non-deitic and the latter as deitic (as the latter involve a speaker’s view of the event)” (BHAT, 1999, p.45). O autor considera que é difícil manter a distinção aspecto (gramatical) vs. aktionsart (lexical) em estudos cross-linguistics, pois certas distinções aspectuais podem ser expressas lexicalmente em determinadas línguas e gramaticalmente em outras.
+5.3.4.2.1 Os tipos aspectuais segundo a classificação de Bhat
+Perfectivo vs. Imperfectivo. Distinção aspectual mais importante nas gramáticas das línguas naturais. O primeiro nos dá a visão externa do evento, considerado como um todo, e, por isso, não está envolvido com a estrutura temporal interna do evento. O segundo nos dá a visão interna do evento e, desse modo, está crucialmente envolvido com a estrutura interna do evento. Ao passo que o aspecto perfectivo considera a situação com seus limites, o imperfectivo considera-a em seu desenvolvimento ou freqüência.
+Aspectos de fases (phasal aspect). Considera-se as fases do evento: começo, meio, fim, resultado ou uma mudança de estado. As línguas parecem diferenciar entre (i) começo, encerramento e fim de um evento e (ii) sua porção medial (contínua ou parte que sofre mudança), relacionando o primeiro grupo ao aspecto perfectivo e o último ao aspecto imperfectivo. A distinção entre os limites e a porção medial afeta a gramaticalização dos aspectos de fase: o primeiro grupo é expresso lexicalmente e o segundo, por marcas flexionais.
+Aspectos de quantidade. Refere-se às características quantitativas do evento. O falante pode se reportar ao evento como ocorrendo uma única vez (semelfactivo) ou diversas vezes (iterativo); pode considerá-lo como um evento
+
+74
+específico ou como parte de um hábito geral; o falante pode considerar, também, o grau de freqüência com que cada evento ocorre. Dentre os aspectos de quantidade há de se diferenciar o habitual, o iterativo e o freqüentativo. Segundo o autor, o primeiro é indutivo e os dois últimos são dedutivos, uma vez que estes carecem da observação de várias ocorrências do mesmo evento. Entre o iterativo e o freqüentativo a diferença estabelecida é que o primeiro refere-se a um evento que se repete numa mesma ocasião, enquanto o segundo refere-se ao evento que se repete em ocasiões diversas.
+Os aspectos de fases e quantidades podem ser expressos, nas línguas, com a ajuda dos aspectos perfectivo e imperfectivo.
+O aspecto pode ser estabelecido por meio da própria situação ou por meio do ponto de vista do falante. No primeiro caso, mostra-se a distinção entre (i) eventos que possuem um fim inerente (télico) e aqueles que não possuem tal fim (atélicos), (ii) situações que envolvem mudança (eventos) e situações que não envolvem mudança (estados), (iii) eventos que envolvem alguma duração (durativos) e eventos que não envolvem duração (pontuais), e assim por diante. No segundo caso, o falante pode observar o evento de maneira externa, considerando-o como um todo (perfectivo), ou de maneira interna, considerando seu desenvolvimento (imperfectivo); também pode considerá-lo em seu começo, continuidade ou progressão, fim ou encerramento, ou resultado; pode considerar o evento como fazendo parte de um hábito, ou de uma série de eventos, enfatizando uma ou outra característica quantitativa. Este último tipo pode ser considerado o “aspecto” propriamente dito ou o “viewpoint aspect”, já que não envolve uma estrutura temporal inerente.
+The question that has been raised in connection with this proposed distinction inthe category of aspect (or between two entirely different
+
+75
+categories called aspect and aktionsart) is whether there is sufficient grammatical basis for its postulation, i.e., whether there are languages in which a sharp and clear-cut distinction is made between the two such that the need to be assigned to distinct systems of representations. (...) Some scholars suggest that we might view aspect as the grammaticalization of the temporal structure and aktionsart as the lexicalization of the same. The problem with this proposal is that it would only provide a formal basis for the distinction, and not a functional or semantic basis that can be consistently correlated with it. (BHAT, 1999, p. 58-59)
+5.4 O recorte para a análise
+Como pôde ser percebido, o que se entende por tempo, modo e aspecto não é ponto pacífico entre os teóricos estudados.
+No estudo da categoria de tempo, Lyons (1971; 1979) considera que só há a “categoria de tempo” em uma língua quando esta lança mão de recursos gramaticais sistemáticos para localizar temporalmente os eventos. Os advérbios como ‘hoje’, ‘amanhã’, ‘ontem’, por exemplo, não seriam considerados gramaticais, mas lexicais; logo, uma língua que marcasse os eventos no tempo apenas com advérbios, não poderia ser considerada uma língua com categoria de tempo.
+Bhat (1999), por outro lado, diz que os eventos podem ser localizados no tempo (absoluto ou relativo) por meio de unidades gramaticais (e.g. flexão verbal) ou lexicais (e.g. advérbios temporais). Assim, na visão deste autor, toda língua possui categoria de tempo.
+Com isso, distinguimos, neste trabalho, unidades gramaticais das unidades lexicais: os marcadores de sujeito, feminino, plural, negação, aspecto, dentre outros, são considerados unidades gramaticais; já os substantivos, verbos, advérbios, adjetivos, pronomes, são considerados unidades lexicais.
+As categorias de tempo, modo e aspecto, de acordo com Lyons (1971; 1979), para existirem, devem ser expressas por unidades gramaticais.
+
+76
+Diferentemente dos demais autores que consideram tanto as gramaticais quanto as lexicais.
+Quanto à categoria de modo, Lyons (1979) distingue modo e modalidade: na primeira há as distinções entre realis, irrealis, interrogativo, imperativo; na segunda, as distinções entre desejo/ intenção, necessidade/ obrigação, certeza/ possibilidade. A modalidade, dessa forma, é expressa, principalmente, por meio de verbos, isto é, por meio de unidades lexicais.
+Bhat (1999) identifica, na categoria de modo, três subclasses: atualidade (onde se encaixariam as distinções entre realis e irrealis); modalidade (onde apareceriam as distinções necessidade/ obrigação); e evidência.
+Palmer (2001), por outro lado, distingue em uma grande classe, a qual chama de modalidade, o modo (realis e irrealis), o qual seria evidenciado na gramática da língua pelas distinções, por exemplo, entre indicativo, subjuntivo e imperativo; e o sistema modal, o qual está ligado a verbos, ou seja, é evidenciado por unidades lexicais.
+Na categoria de aspecto, a complexidade é ainda mais evidente. Assim como em modo, em que há distinção entre modo e modalidade, na categoria de aspecto distinque-se aspecto e acionalidade ou modos da ação. Dentro desta subclasse há um número ilimitado de possibilidades (e.g. inceptivo, incoativo, resultativo, durativo, iterativo, completivo, cessativo, saturativo, cumulativo, distributivo, semelfactivo, multiplicativo, estativo, dentre outros), pois a acionalidade se assenta no próprio valor semântico do verbo.
+Já dentro da subclasse de aspecto, ocorre a polaridade entre perfectivo e imperfectivo. Entendida de diversas formas de acordo com cada autor, esta polaridade configura-se a distinção mais importante desta categoria. Grosso
+
+77
+modo, o perfectivo é a visão do evento como um cubo, que embora tenha sua complexidade interna, possui seus limites claramente delimitados; e o imperfectivo, um olhar para a estrutura interna da situação, ou seja, suas fases (Comrie, 1976).
+O aspecto, segundo Castilho (1967), é expresso por flexões e perífrases, estando, assim, no nível morfológico; já o modo da ação é expresso pelo semantema do verbo, ou seja, está no nível semântico.
+Isto posto, para a análise do tempo, modo e aspecto na língua kaingang, consideraremos o seguinte:
+• para se avaliar a categoria de tempo: observaremos a marcação temporal feita essencialmente por unidades gramaticais;
+• para se avaliar a categoria de modo: atentaremos à distinção feita entre realis e irrealis, aos modos imperativo e interrogativo, marcados gramaticalmente nas sentenças, ficando assim descartada a análise do que Lyons e Bhat chamam de modalidade e o que Palmer chama de sistema modal;
+• para se avaliar a categoria de aspecto: consideraremos apenas a distinção entre perfectivo e imperfectivo, do mesmo modo, marcada gramaticalmente, e descartaremos a análise dos modos da ação.
+
+78
+6 CATEGORIA DE TEMPO NA LÍNGUA KAINGANG?
+Ursula Wiesemann, em seu artigo “Time distinctions in Kaingáng” (1974), faz uma análise semântica da marcação temporal feita, principalmente, pelos kaingang que utilizam o dialeto do Paraná. Além das expressões temporais como “hoje”, “ontem”, “agora”, e do que ela chama de unidades de tempo40 como “dia”, “noite”, “mês”, a autora analisa os termos de parentesco e as partículas de aspecto que, segundo ela, colaborariam para a marcação do tempo feita por este povo.
+De acordo com a autora, antes da conquista, os kaingang não pareciam interessados em marcar os eventos no tempo. Esta é a razão por que não desenvolveram uma terminologia detalhada para isso. Uma vez que a necessidade surgiu, porém, uma terminologia foi desenvolvida por meio do empréstimo de termos do português e da fusão de palavras próprias do kaingang para se formar novos termos.
+Before contact with Brazilian culture the Kaingang Indians do not seem to have been concerned with accurately placing events in time. History was not one of their interests. This is reflected in the semantic structure of the various time expressions where the main distinction is that of past-present-future (WIESEMANN, 1974, p. 120-121).
+Parece haver, nesta passagem de seu texto, uma super valorização da cultura não-índia, a qual chama de cultura brasileira, em detrimento da cultura kaingang. De acordo com a afirmação da autora, os kaingang não se importavam, de forma tão enfática, com a história até o contato com os não-índios, o que configura uma visão equivocada por parte da mesma, visto que todo povo marca, de uma forma ou de outra, o tempo em sua língua. O fato de não haver, em dada língua, termos que marquem o tempo com precisão, tais como: segundos, minutos,
+40 Não há, neste artigo, qualquer especificação sobre o que a autora entende por “expressões temporais” e “unidades de tempo”.
+
+79
+horas, próprios das sociedades modernas tecnológicas, não quer dizer que o povo
+que a fala não se importa com a localização temporal dos eventos ou com o próprio
+desenvolvimento histórico, como mostra Comrie:
+In modern technological societies, we are accustomed to very accurate specifications of time location and of other phenomena relating to time, so that not only has the time unit second become entrenched, but many members of the culture are at home in talking of much smaller stretches of time, such nanoseconds (...). In many other cultures, however, such precision is not attainable, at least not by means other than direct borrowing of expressions from the languages of more technological cultures. Indeed, in some cultures, very little value is attached to precision in temporal location, so that in Yidiny, for example, it is impossible to distinguish lexically between the concepts ‘today’ and ‘now’ (COMRIE, 1985, p.7-8).
+Mais a frente em seu texto, Wiesemann comenta que a influência do
+português pode ser vista não só por meio das palavras emprestadas, mas também
+na própria mudança da dimensão temporal da língua kaingang e do modo de pensar
+desses índios:
+(...) the influence of Portuguese is making an impact on the language. This can be seen not only in isolated loan words, but slowly changing the time dimension of the language and the thinking of the Indians (WIESEMANN, 1974, p.120).
+Only very slowly a sense of historic developments is growing in Kaingáng thinking. Any event further removed than personal experience allows is still related to the very origin of things, particularly if it is removed not only in time but also in geography and culture. This is one of the main difficulties in relating events spoken about in the Bible (Idem, p.125).
+É interessante notar que mesmo a autora afirmando que os
+kaingang pouco se importavam com a história e, por isso, não se ocupavam em
+localizar os eventos no tempo, o que ela faz, neste artigo, é justamente analisar as
+unidades lexicais que os kaingang usam e usavam para marcar o tempo em sua
+língua. Com isso, nota-se uma contradição neste artigo: primeiro Wiesemann diz que
+
+80
+
+não costumavam localizar temporalmente os eventos, depois analisa as unidades lexicais e gramaticais que os kaingang usam e usavam para expressar o tempo na língua!
+As unidades que Wiesemann analisa são agrupadas da seguinte forma: (i) as que marcam um tempo mais próximo do momento de fala (MF) como “hoje”, “ontem”, “amanhã”, etc., a autora chama de ‘unidades de tempo específico’; (ii) as que designam um tempo mais distante do MF, denomina ‘unidades de tempo geral’; (iii) as unidades que seqüenciam os eventos, os ‘seqüenciadores de eventos’, são distinguidas daquelas que (iv) ligam os eventos e expressam a atitude do falante41; e há, também, (v) outro grupo com unidades como “dia”, “noite”, “mês” e “ano”, o qual chama de grupo de unidades intercambiáveis por haver tanto o uso do correlato em kaingang como do empréstimo do português. Vejamos as tabelas abaixo:
+IX. Tempo específico 42
+
+1 rãké tá
+2 vaj kỹ 3 rãké-ũ tá 4 ũn-ri 5 vaj-ũn kã
+
+“a tarde anterior” ou “o dia antes de hoje” ou “o dia antes do evento referido” = ontem “quando o dia amanhece” = amanhã “dia anterior a ontem” = anteontem “agora” “dia depois de amanhã” = depois de amanhã
+
+Tais unidades podem ser dispostas na seguinte linha:
+
+anteontem ontem
+
+agora
+
+amanhã depois de amanhã
+
+__________|__________|__________|__________|__________|__________
+
+rãké-ũ tá rãké tá
+
+ũn-ri
+
+vaj kỹ
+
+vaj-ũn kã
+
+41 Há aí uma confusão entre tempo e modo. 42 Todas as tabelas, aqui apresentadas, são de nossa autoria. Os dados neles contidos, porém, seguem a classificação de Wiesemman.
+
+81
+
+De acordo com a autora, entre as unidades rãké-ũ tá e rãké tá, e vaj-
+ũn kã e vaj kỹ observa-se uma questão de distância: rãké-ũ tá marcaria um tempo passado43 mais distante que rãké tá, assim como vaj-ũn kã, um tempo futuro mais
+distante que vaj kỹ. Entre as unidades ũn-ri e ũ-ri (colocada na tabela abaixo) há
+uma diferença de tempo geral vs. tempo específico: este marcaria o tempo presente
+geral e aquele, o tempo presente específico:
+The members of this paradigm have an emphasized form each which adds a further distinction in the time depth (...). This adds to the past and future distinctions the differences of far distant versus close distant; to the present it adds the difference of general time versus specific time (WIESEMANN, 1974, p. 121).
+
+X. Tempo geral
+
+6 vãsỹ 7 ũ-ri
+
+“tempos atrás” = antigamente “quando o dia amanhece” 44 = hoje ou atualmente
+
+8 kejẽn “algum tempo mais tarde”
+
+9 kãnhmar “algum tempo em breve”
+
+10 vãhã
+
+“algum tempo mais tarde e de repente”
+
+Wiesemann afirma que vasỹ sempre dá a informação de que o falante pensa em um evento que ocorreu há muito tempo, embora o evento possa ter ocorrido há algumas horas. Já as unidades em 8, 9 e 10 não são específicas com relação ao evento futuro.
+XI. Seqüenciadores dos eventos
+
+11 to hã “antes” 12 mré hã “com” 13 kar kỹ “depois”
+43 Segundo nossa percepção, a língua kaingang não distingue estes três contrastes temporais: passado – presente – futuro, como será discutido mais adiante. 44 Tanto ũ-ri quanto vaj kỹ a autora coloca como “quando o dia amanhece”, que seria o significado literal dessas duas unidades: (..) for ũ-ri and vaj kỹ which literally means ‘when day dawns’” (WIESEMANN, 1974, p. 121).
+
+82
+
+14 tũg kỹ “quando...terminado”
+
+15 kỹ
+
+“porque”, “como”, “quando”, “assim”
+
+XII. Unidades que ligam os eventos e expressam a atitude do falante
+
+16 huri “já” 17 há “agora” 18 sir “depois”, “depois do precedente”
+
+Wiesemann diz, ainda, que além das unidades de tempo específico, geral, seqüenciadores de eventos e das unidades que ligam os eventos e expressam a atitude do falante, a referência ao tempo pode ser encontrada nos marcadores de imperativo, tais como: rỹ “faça isso agora”, -mnĩ “faça isso em qualquer hora”; ou no próprio verbo: tĩg “ir, presente, singular”, mũ “ir, presente, plural”, vyr “ir, passado, singular”, kagáv “ir, passado, plural”.
+Em nossos dados, vyr e tĩg já foram dados como tendo igual significado:
+1) gĩr vỹ ĩn ra vyr (=tĩg) ∅ menino ms casa para ir
+“O menino foi para casa”
+Porém, o mais comum é que tĩg apareça em construções com modo irrealis e imperativo:
+2) gĩr vỹ ĩn ra tĩg ke mũ menino ms casa para ir m.irr.
+“O menino irá para casa” 3) kur tĩg: “vá!” 4) há tĩg: “pode ir!” 5) kur tĩg sor: “vá logo!” 6) kur ĩn ra tĩg: “vá para casa!”
+
+83
+
+7) ĩn ra tĩg: “vá para casa!”
+
+Não temos dados com os verbos mũ e kagáv. Wiesemann comenta, também, que algumas unidades de tempo, próprias da língua kaingang, são intercambiáveis com os empréstimos do português:
+
+XIII.Unidades intercambiáveis
+
+19 kurã ~ dia “luz do dia” – refere-se ao ciclo do sol enquanto pode ser visto: do
+
+nascer-do-sol ao pôr-do-sol.
+
+20 kutỹ ~ “escuro” – tempo compreendido entre o pôr-do-sol e o nascer-do-
+
+noite
+
+sol.
+
+21 kusã ~ “lua, mês” – refere-se ao ciclo da lua.
+
+mẽnh
+
+22 prỹg ~ “fome, ano”
+
+ỹnũ
+
+Como podemos perceber, Wiesemann (1974) lista uma porção de unidades lexicais e gramaticais (como os marcadores de imperativo) com as quais os kaingang localizam os eventos no tempo cronológico (time, em inglês). A lingüista acaba distinguindo, também, a categoria de tempo45 (tense), pois fala dos tempos passado, presente e futuro.
+
+Gonçalves (2007), de maneira semelhante a Wiesemann (1974), faz uma análise semântica de alguns adjuntos adverbiais de tempo e, também, faz menção aos tempos passado, presente e futuro, os quais grafa com maiúsculas (Tempo Passado, Tempo Presente, Tempo Futuro), por considerar a marcação de tempo, na língua kaingang, uma categoria lingüística, a qual tratamos, aqui, como categoria de tempo.
+45 A palavra tempo, quando grafada em itálico, se refere à categoria lingüística de tempo (tense em inglês) e não ao tempo cronológico (time), como já especificando anteriormente.
+
+84
+Essa autora inicia seu capítulo sobre ‘a expressão do Tempo em kaingang’, fazendo algumas observações sobre os verbos desta língua46, tais como:
+• a maioria dos verbos tem uma forma básica sem flexão – o que Wiesemann (1986) chama de forma neutra;
+• há casos em que os verbos têm duas formas: uma para ‘presente’ (tĩ = ‘ir’) e outra para ‘passado’ (vyr = ‘ir’) – como salientado anteriormente, a forma tĩ é usada em construções com modo irrealis e imperativo, ou seja, não carrega em si, necessariamente, a marca de tempo presente. Assim como vyr, ao nosso ver, não expressa o tempo passado, mas algo completo. A interpretação dessas formas seria, portanto, uma questão mais modal e aspectual do que temporal, como ainda discutiremos ao longo deste capítulo;
+• outros verbos possuem uma forma para singular e outra para plural: nĩm (sg.)/ vin (pl.) = ‘dar’;
+• há verbos que possuem uma forma passado e outra para o futuro: ve = ‘ver’/ vej = ‘vai ver’ – quando o verbo está em construções futuras ou o que chamamos, em nosso trabalho, de construções com modo irrealis, a maioria deles se flexiona em –nh, quando terminados em vogal, ou mantém sua terminação em consoante (-n, -g, dentre outras). A terminação –j poderia ser mais um tipo de flexão, a qual seria usada em outras construções que não apenas em construções futuras ou irrealis;
+46 Fizemos isso no capítulo 4.
+
+85
+• há verbos derivados de adjetivos: si = ‘velho’/ sin = ‘tornar-se velho’;
+• há verbos que admitem reduplicação para multiplicidade de ação47;
+• há verbos que podem indicar uma ação já acontecida: kãn = ‘acabar/ terminar’ – o que não é nenhuma novidade em se tratando de língua, já que as próprias palavras em português “acabar/ terminar” podem indicar uma ação já acontecida, completada, finalizada: “Terminei minha tarefa”, “Acabei de ler um livro”.
+Após essas considerações, Gonçalves comenta que: “para a marcação de Tempo Passado parece ser mais usual na língua kaingang a ocorrência de adjuntos adverbiais que localizam eventos temporais numa relação de anterioridade ao Momento de Fala (MF)” (GONÇALVES, 2007, p.112); e analisa as seguintes unidades lexicais: rãkétá (‘ontem’), rẽké ũ tá (‘anteontem’), hur (‘agora’ que, segundo tal pesquisadora, está relacionado ao Momento do Evento (ME)), ha (‘agora’, relacionado ao MF), ã hã (‘recente’), vãsy (‘antigamente’), ẽn kã (‘naquele que passou, no mês que se finda’).
+Logo mais, esta autora analisa o adjunto adverbial vaj kỹ (‘amanhã’) e as unidades gramaticais jé, kej, ke, que marcariam o Tempo Futuro (na notação de Gonçalves), porém não analisa o que ela chama de Tempo Presente.
+Como pode ser percebido, tanto o trabalho de Wiesemann (1974) quanto o de Gonçalves (2007) tratam da marcação de tempo feita, principalmente, por meio de unidades lexicais, chamadas de ‘adjuntos adverbiais’ por Gonçalves ou
+47 O que nós chamamos, em trabalhos anteriores, de plural.
+
+86
+de ‘expressões temporais/ unidades de tempo’ por Wiesemann. Do mesmo modo, citam as distinções temporais estabelecidas entre passado-presente-futuro, sendo apenas este último o tempo marcado morfologicamente: não há marcas de passado ou de presente e, embora sejam considerados alguns poucos verbos como tendo essas noções temporais em sua significação, tal fato não é sistemático, ou seja, não vale para todos os verbos.
+Não concordamos que haja três tempos na língua kaingang, pois do ponto de vista morfológico/ gramatical há apenas um tempo marcado, o futuro, e um não-marcado, o qual poderíamos chamar, ao invés de presente e passado, de nãofuturo.
+A distinção entre “futuro” e “não-futuro” é considerada, pelos autores estudados, um contraste mais modal que temporal: o futuro expressaria o modo irrealis, o não-futuro, o realis:
+Futurity is never a purely temporal concept; it necessarily includes an element of prediction or some related modal notion (LYONS, 1977, p. 677).
+(...) o futuro é mais uma questão de modo que de tempo. Mesmo na análise do grego e do latim, em que o “futuro” como o “presente” e o “passado” são realizados flexionalmente, há alguma razão para se considerar o futuro como parcialmente modal (LYONS, 1979, p. 322).
+The realis forms can refer to either past or present events (...). Irrealis forms, on the other hand, can refer to the future or can express a wish, desire or intention. They are also used obligatorily in negative clauses (...). The realis-irrealis distinction is very different from the past/ non-past distinction, even though realis forms are generally translated as past (or present) and irrealis forms as future (BHAT, 1999, p.67).
+
+87
+
+Teríamos, assim, ao invés da categoria de tempo, a categoria de modo com suas duas distinções tradicionais de realis e irrealis.
+Analisemos nosso corpus:
+
+8. gĩr
+
+vỹ fág kó ∅
+
+menino m.s. pinhão comer “O menino comeu o pinhão”
+
+9. gĩr vỹ fág ko mũ menino m.s. pinhão comer cont.
+“O menino está comendo pinhão”
+
+10. gĩr
+
+vỹ fág konh ke mũ
+
+menino m.s. pinhão comer
+
+“O menino comerá pinhão”
+
+A sentença 8 trata de um evento que aconteceu e a 9, de um evento que está acontecendo no momento e, apesar da alternância vocálica no verbo (de kó para ko), a diferença entre uma e outra pode ser vista na marcação aspectual: a primeira sentença não possui marcador de aspecto, refere-se a um evento acabado ou melhor, visto como um bloco, algo inteiro, sem especificações de suas fases; a segunda, possui o marcador mũ e se refere a um evento não-acabado, ou pelo menos considerado em alguma de suas fases. A sentença 10, porém, trata de um evento que ainda não aconteceu e é marcada pelas partículas ke e mũ e a flexão verbal (ko ~ konh).
+A partícula ke é um marcador de modo, segundo Wiesemann (2002), o que podemos chamar aqui de marcador de modo irrealis (m.irr.). Na maior parte dos dados obtidos, para se marcar o modo irrealis há o uso da combinação ke + mũ. Observe outros exemplos:
+11. ta kutẽ ∅ chuva cair
+“Choveu”
+
+88
+
+12. ta vỹ kutẽ mũ chuva m.s. cair cont.
+“Está chovendo”
+
+13. kurã kar ki ti kutẽ tĩ dia todo em p.3p.sg. cair hab.
+“Tem chovido todos os dias”
+
+14. kutẽ ti
+
+nỹ nĩ
+
+cair p.3p.sg. deitar est.
+
+“Continua chovendo”
+
+15. ta vỹ kutẽnh ke mũ chuva m.s. cair m.irr.
+“Vai estar chovendo”
+
+Novamente, a distinção entre as sentenças 11, 12, 13 e 14 faz-se no nível aspectual: a sentença 11 trata de um evento que é considerado completo, ou seja, perfectivo (marcado por ∅), e as demais, de eventos cujas fases são
+consideradas de alguma forma (desenvolvimento, habitualidade, continuidade), isto é, eventos imperfectivos (marcados por mũ, tĩ, nĩ). Nas sentenças de 11-14 não são observadas mudanças verbais. Tal mudança ocorrerá apenas em 15, a qual faz referência a um evento que ainda não se realizou e é marcada por ke mũ.
+Tanto os eventos perfectivos quanto os imperfectivos, como serão mais bem trabalhados adiante, são tratados como realis; os eventos que ainda não se realizaram são chamados de irrealis. Assim, nos exemplos abaixo, o verbo “morder” utiliza as formas prã/ prãg no realis, e as formas prãg/ pranh, no irrealis:
+
+16. hoghog vỹ ógsã prã ∅ cachorro m.s. cateto morder
+“O cachorro mordeu o cateto”
+17. hoghog vỹ ógsã prãg tũ nĩ cachorro m.s. cateto morder neg. est.
+“O cachorro não mordeu o cateto”
+
+89
+18. hoghog vỹ ógsã prãg tĩ cachorro m.s. cateto morder hab.
+“Cachorro morde cateto”
+19. hoghog vỹ ógsã prãg tũ nĩg tĩ cachorro m.s. cateto morder neg. est. hab.
+“Cachorro não morde cateto”
+20. hoghog vỹ ógsã prãg mũ cachorro m.s. cateto morder cont.
+“O cachorro está mordendo o cateto”
+21. hoghog vỹ ógsã pranh ke mũ cachorro m.s. cateto morder m.irr.
+“O cachorro estará mordendo o cateto”
+22. hoghog vỹ ógsã pranh ke tũ nĩ cachorro m.s. cateto morder m.irr. neg. est.
+“O cachorro não morderá o cateto”
+Na sentença 16, o verbo é prã, não há marcador de aspecto e indica
+uma ação perfectiva. Na sentença 17, a forma verbal é prãg e há os marcadores tũ
+nĩ que juntos denotam negação, ou seja, a sentença 17 pode ser interpretada como
+um irrealis negativo. Aparentemente, a variação verbal, neste caso, dá-se pela
+influência de tũ nĩ.
+Nas sentenças de 18 a 20, a forma verbal é prãg, ocorrem
+marcadores de aspecto como tĩ e mũ. Um fato interessante a ser notado é na
+sentença 19, a qual possui a combinação de marcadores que denotam negação e o
+marcador aspectual tĩ: na presença deste, o nĩ de tũ nĩ é acrescido de –g. Isso pode
+indicar que a variação não é exclusividade dos verbos, mas também pode ocorrer
+nos marcadores de aspecto, e se considerarmos a variação de pra ~ prãg em 17 e a
+variação de nĩ ~ nĩg em 19, podemos dizer que a variação ocorre devido à influência
+de marcadores de modo (em 17) e aspecto (em 19), ou seja, a variação não está
+ligada a fatores semânticos, como poderiam acreditar Gonçalves (2007), dizendo
+que ‘vej’ expressa o futuro, e Wiesemann (1986), analisada a frente, relacionando a
+
+90
+flexão em –g com a expressão do aspecto perfectivo, -n(h) com o aspecto imperfectivo e o verbo sem flexão (o qual chama de forma neutra) com o aspecto neutro.
+Nos casos de 21 e 22, o verbo é acrescido de –nh, ocorre ke + mũ e ke + tũ nĩ, que marcam o irrealis positivo e negativo, respectivamente.
+Dessa forma, nossa análise distingue-se das análises feitas por Wiesemann (1974) e Gonçalves (2007), pois não consideramos, como tais autoras, três tempos na língua kaingang, e sim duas distinções modais: irrealis e realis. Além destas, outra distinção bem marcada na língua é a aspectual. Como vimos no capítulo 5, o aspecto é, de certa forma, um tempo, porém um tempo interno do evento, o que difere do tempo como categoria lingüística, o qual é a expressão do tempo externo do evento. Neste podemos encontrar os contrastes entre passado, presente e futuro, naquele, os contrastes entre perfectivo e imperfectivo, entre outros. Assim, ao invés dos verbos tĩ/ vyr (‘ir’) e ve/vej (‘ver’) serem interpretados, respectivamente, como presente/ passado e passado/ futuro, como feito por Gonçalves (2007), o que nossa análise permite dizer é que as formas vyr e ve são perfectivas, tĩ imperfectiva, sendo as três usadas no modo realis, e vej, uma forma usada do modo irrealis.
+Como vimos, as distinções no paradigma verbal revelam que: (i) junto das combinações que marcam o modo irrealis ((ke) (mũ) (tũ nĩ)), os kaingang, normalmente, flexionam o verbo em –nh, podendo, também, ocorrer a flexão em –g (caso da sentença em 10 e do verbo tĩ (‘ir’) que no irrealis será tĩg) ou em –j (caso de ve (‘ver’) ~ vej (‘vai ver’)48); (ii) no modo realis, no qual encontramos as distinções aspectuais entre perfectivo e imperfectivo, o verbo pode ser flexionado em –g junto
+48 O porquê da variação verbal pode ser atribuído, neste caso, a questões fonéticas e morfológicas, ainda não pesquisadas.
+
+91
+
+de marcadores aspectuais que denotam o imperfectivo (mũ, tĩ, nĩ), ou não ser flexionado em construções perfectivas, nas quais o marcador é (∅).
+
+XIV. Regra geral de flexão verbal e marcadores nos modos realis e irrealis
+
+Modo Flexão verbal Marcadores
+
+Realis -g ou ∅
+
+mũ, tĩ, nĩ, ∅
+
+Irrealis -nh ou -g/-j (ke) (mũ) (tũ nĩ)
+
+92
+7 A CATEGORIA DE MODO
+Wiesemman, em seu artigo “Aspect and mood as a nine-cell matrix” (1986), estabelece três tipos modais para o kaingang: realis; irrealis, que, segundo a autora, podem ser expressos por partículas de aspecto ou por indicadores de sujeito; e necessidade. O modo, de acordo com esta lingüista, estaria intimamente ligado ao aspecto, ocorrendo as seguintes combinações:
+• realis-neutro: verbo em sua forma neutra (ou seja, sem sufixos ou alternância vocálica), expressando uma ação no passado, e sem marcadores de aspecto na sentença: “gãr fa ti, rãkétá” = “ele colheu milho ontem”;
+• realis-perfectivo: verbo com sufixo –g, ocorrendo os seguintes marcadores: tĩ (‘habitual’), nĩ (‘descritivo’), mũ (‘narrativo’): “gãr fãg ti tĩ” = “ele colhe milho habitualmente”, “gãr fãg ti nĩ” = “ele está colhendo milho”, “gãr fãg ti mũ” = “ele está colhendo milho”;
+• realis-imperfectivo: verbo com sufixo –n, ocorrendo os seguintes marcadores: vẽ (‘expositivo’), nĩ, ∅: “ti tỹ gãr fãn
+vẽ” = “ele colhe milho”, “gãr fãn há ti nĩ” = “ele colhe milho bem”, “gãr fãn sór ti nĩ” = “ele quer colher milho”, “...ti tỹ gãr fãn kỹ” = “então ele está colhendo milho”; • irrealis-neutro: verbo em sua forma neutra, ocorrendo o marcador de intenção “jé” após o sujeito: “ti jé gãr fã” = “ele pode colher milho”;
+
+93
+• irrealis-perfectivo: verbo com o sufixo –g, ocorrendo a combinação de dois marcadores: tĩ + vẽ, definidos como ‘condicional de procedimento’, nĩ + vẽ, ‘condicional descritivo’, mũ + vẽ, ‘condicional narrativo’: “gãr fãg ti tĩ vẽ, hãra...” = “ele poderia colher milho, mas...”, “gãr fãg ti nĩ vẽ, hãra...” = “ele poderia colher milho, mas...”, “gãr fãg ti mũ vẽ, hãra...” = “ele poderia colher milho, mas...”;
+• irrealis-imperfectivo: verbo com sufixo –n, com a marca de futuro ke somado a nĩ, em uma sentença, e duas vezes o marcador vẽ, em outra sentença: “gãr fãn (-nh) ke ti nĩ” = “ele pode colher milho”, “ti tỹ gãr fãn vẽ vẽ, hãra...” = “ele poderia colher milho, mas...”;
+• necessidade-neutro: verbo em sua forma neutra com os marcadores de imperativo: rỹ, ha...ge, ker...hẽ, ˈ (ênfase):
+“gãr fa rỹ” = “colha milho (imediatamente)”, “ha gãr fã ge” = “Tudo bem, colha milho depois”, “ker gãr fã hẽ’” = “não se atreva a colher milho”, “ã mỹ gãr fã’” = “você colheu milho?”; • necessidade-imperfectivo: verbo com o sufixo –n, acrescido do sufixo –nĩ que, neste caso, é um marcador de imperativo: “gãr fãnnĩ” = “colha milho!” (a qualquer hora). Como podemos observar, a autora analisa a combinação entre modo e aspecto do ponto de vista morfológico: a sentença com verbo sem flexão e sem marcador de aspecto e/ou modo expressaria o realis/ irrealis/ necessidade neutro; com verbo flexionado com o sufixo –g e junto de determinados marcadores de aspecto, expressaria o realis/ irrealis perfectivo; com verbo flexionado com o
+
+94
+
+sufixo –n e junto de determinados marcadores de aspecto e/ou modo, expressaria o realis/ irrealis/ necessidade imperfectivo. Como visualizado no quadro abaixo49:
+
+XV. Sistematização de aspectos e modos segundo Wiesemann (1986)
+
+Modo A s p e c t o
+
+neutro imperfectivo
+perfectivo
+
+∅ -n(h)
+-g
+Flexão verbal
+
+realis ∅
+vẽ, nĩ, ∅ tĩ, nĩ, mũ
+
+irrealis jé
+ke nĩ, vẽ vẽ
+tĩ vẽ, nĩ vẽ, mũ vẽ
+
+necessidade rỹ, he...ge, ker...hẽ,
+(‘) -nĩ
+_____
+
+Marcadores
+
+Wiesemann exemplifica as oito combinações entre essas duas categorias com apenas um verbo: “colher milho” (fa, fã, fãg, fãn), que parece ser o único a possuir as quatro formas, as quais chama de alternantes.
+Como vimos nos capítulos 4 e 6, nem todos os verbos aceitam o sufixo –g em sua raiz, como é o caso de kó (‘comer’) e kutẽ (‘cair’), reproduzidos abaixo:
+
+1. gĩr vỹ fág kó ∅ menino m.s. pinhão comer
+“O menino comeu o pinhão”
+2. gĩr vỹ fág ko mũ menino m.s. pinhão comer cont.
+“O menino está comendo pinhão”
+3. ta kutẽ ∅ chuva cair
+“A chuva caiu”
+4. ta vỹ kutẽ mũ chuva m.s. cair cont.
+“A chuva está caindo”
+49 Este quadro não está em Wiesemann (1986), é de nossa autoria.
+
+95
+e outros verbos, como o verbo prã (‘morder’), que aceitam tal sufixo em sua raiz, nos mesmos ambientes que kó - kutẽ e diante da combinação tũ nĩ, que marca negação:
+5. hoghog vỹ ógsã prã ∅ cachorro m.s. cateto morder
+“O cachorro mordeu o cateto” 6. hoghog vỹ ógsã prãg mũ
+cachorro m.s. cateto morder cont. “O cachorro está mordendo o cateto” 7. hoghog vỹ ógsã prãg tũ nĩ
+cachorro m.s. cateto morder neg. est. “O cachorro não mordeu o cateto”
+Ou seja, a flexão verbal em –g, não marca o aspecto perfectivo, como afirma Wiesemann. De acordo com a nossa análise, o aspecto perfectivo é marcado pela ausência de marcadores de aspecto, como pode ser conferido nas sentenças 1, 3 e 5. A flexão em –g, portanto, vale para alguns verbos e pode ocorrer devido a influência dos marcadores de aspecto ou modo que os acompanham, caso de 6 e 7.
+As sentenças 1, 3 e 5 seriam chamadas de realis-neutro por Wiesemann. Ao nosso ver, no entanto, não há aspecto neutro no kaingang e os aspectos perfectivo e imperfectivo podem ser analisados dentro do modo realis: as sentenças 1, 3 e 5 seriam perfectivas e realis, as sentenças 2, 4 e 6, imperfectivas e realis. Na sentença 7, ocorre a negação de um fato, ou seja, algo que não se realizou e pode ser interpretado como irrealis.
+Tanto o perfectivo quanto o imperfectivo são olhares para o evento todo ou em seu desenvolvimento. Como visto no capítulo 5, Comrie (1976) diz que a perfectividade representa a ação pura e simples, configurando-se como uma visão
+
+96
+
+do acontecimento como um todo único, sem se importar com as fases separadas da situação, já a imperfectividade tem a atenção voltada à estrutura interna da situação, pondo-se ênfase em alguma parte da mesma: seu começo, meio ou fim. Ou seja, ambas expressam um evento que se realizou ou pelo menos foi iniciado, um evento com modo realis, portanto, não sendo possível, dessa forma, ligar o aspecto perfectivo e imperfectivo ao modo irrealis, como faz Wiesemann (1986).
+Com relação à flexão verbal em –n(h), vale dizer que a maioria dos verbos encontrados em nosso corpus aceita este tipo de flexão diante de ke (mũ) (nĩ) (combinações que marcam o modo irrealis positivo):
+
+8. gĩr
+
+vỹ fág konh ke mũ
+
+menino m.s. pinhão comer m.irr.
+
+“O menino comerá pinhão”
+
+9. ta vỹ kutẽnh ke mũ chuva m.s. cair m.irr.
+“A chuva vai cair”
+
+10. hoghog vỹ ógsã pranh ke mũ cachorro m.s. cateto morder m.irr.
+“O cachorro morderá o cateto”
+
+11. gãr fãn(-nh) ke ti nĩ (ke nĩ = m.irr.) milho colher m.irr. p.3p.sg.
+“Ele pode colher milho”
+
+12. kãnhmar
+
+ẽg jẽn50 ke mũ ha
+
+daqui a pouco p.1p.pl. almoçar m.irr. agora
+
+“Daqui a pouco, almoçaremos”
+
+Isto é, mais uma vez verificamos que a flexão verbal não expressa aspecto, como mostra Wiesemann (-n(h) → aspecto imperfectivo), mas se faz devido à influência dos marcadores que acompanham o verbo e até à própria natureza do verbo: há alguns verbos que se flexionam em –g diante de determinados
+
+50 No caso da sentença 12, o verbo jẽn (‘almoçar’) já possui terminação em –n.
+
+97
+marcadores de aspecto e outros não, assim como há verbos que se flexionam em – nh diante de ke mũ e outros não. Observe o exemplo:
+13. kysã katĩg ke mũ tag kã ki ẽg vỹn, vỹn kenh ke mũ ha ẽg ĩn ra
+mês vir m.irr. neste em p.1p.pl. voltar voltar m.irr. agora p.1p.pl. casa posp.
+“Nos mês que vem, voltaremos para casa”
+no qual o verbo katĩg (‘vir’), terminado em –g, não é acrescido do sufixo –n(h) diante do marcador de irrealis. Esse fato nos leva a pensar que tal flexão só é válida quando o verbo termina em vogal: kó ~ konh, kutẽ ~ kutenh, prã ~ pranh, fã ~ fãnh, vỹn ke ~ vỹn kenh; diferentemente de: jẽn ~ jẽn (em 12); katĩg ~ katĩg (em 13).
+Com isso, poderíamos dizer que o fato de o verbo se flexionar em –g e marcar perfectividade e em –n(h), marcar a imperfectividade, como postula Wiesemann (1986), não se confirma. Tais distinções aspectuais, como vimos no capítulo 6 e nos aprofundaremos no capítulo 8, ficam a cargo dos marcadores de aspecto. A flexão verbal, neste caso, é mais uma questão morfossintática do que semântica: diante de marcadores de aspecto e modo, o verbo pode ser flexionado se terminado em vogal, sendo mais comum a flexão em –n(h) no modo irrealis e –g, no realis, o qual, como já salientado, engloba tanto o perfectivo quanto o imperfectivo. Esclareçamos mais a questão dos modos realis e irrealis.
+No capítulo anterior, vimos que apenas o ‘futuro’ era gramaticalmente marcado, o que nos levou a distinguir o ‘futuro’, marcado, e o ‘nãofuturo’, não marcado. Tal distinção é considerada uma distinção modal: o futuro é chamado de irrealis, ou seja, algo que ainda não aconteceu, e o não-futuro, de realis, algo que aconteceu, acontece normalmente ou está acontecendo.
+
+98
+
+Sendo assim, ocorre para o irrealis a marcação ke (mũ) (nĩ) (tu nĩ), e para o realis a marcação ∅. Por outro lado, seria dentro do modo realis que as
+
+distinções aspectuais se evidenciariam. Como esclarecido no capítulo 5, para dizermos que a língua
+kaingang possui as categorias de tempo, modo e aspecto, tais deveriam ser expressas por unidades gramaticais (marcadores ou outra marcação morfológica) de maneira sistemática. Como a marcação temporal no kaingang é feita, principalmente por meio de unidades lexicais, não estabelecemos a categoria de tempo para esta língua; por outro lado, distinguimos a categoria de modo e dentro dela as subcategorias realis (não marcado morfologicamente) e irrealis (marcado pelas unidades ke (mũ) (nĩ) (tũ nĩ)). No entanto, dentro da categoria de modo pode haver outras subcategorias: uma língua pode marcar gramaticalmente quando um evento é reportado, observado, experienciado ou inferido. Para verificarmos se o kaingang distinguia tais nuances, coletamos os seguintes dados:
+• Evento reportado: “O menino comeu o pinhão” (demos ao informante as seguintes explicações: eu não vi este fato, mas Maria me contou):
+
+1) gĩr vỹ fág kó ∅ menino m.s. pinhão comer
+“O menino comeu o pinhão”
+• Evento observado: “O menino comeu o pinhão” (eu vi):
+
+2) gĩr
+
+vỹ fág kó ∅
+
+menino m.s. pinhão comer “O menino comeu o pinhão”
+
+• Evento experienciado: “Eu comi o pinhão com o menino”:
+
+3) gĩr mré inh fág kó ∅
+menino posp. p.1p.sg. pinhão comer “Eu comi o pinhão com o menino”
+
+99
+
+• Evento inferido: “O menino comerá o pinhão” (porque está com fome):
+
+4) gĩr
+
+vỹ fág konh ke mũ
+
+menino m.s. pinhão comer m.irr.
+
+“O menino comerá o pinhão”
+
+Aparentemente, os kaingang do Apucaraninha não utilizam uma marca na sentença para diferenciar um evento reportado, observado, experienciado ou inferido: nas sentenças acima a única distinção feita é realis, não-marcado, irrealis, marcado. No entanto, como as situações colocadas acima, embora fossem contextualizadas, são artificiais, talvez possíveis marcas não pudessem aparecer mesmo. O que nos deixa um pouco descansados com relação à artificialidade das sentenças é que já houve caso em que nós queríamos coletar uma determinada estrutura e os informantes não deram a informação, por não utilizarem aquilo em sua língua: pedimos para que eles dissessem como se falava “O homem rachou a taquara” e eles disseram que não falavam assim, não usavam este tipo de sentença; e quando perguntados o porquê, eles disseram que homem não rachava taquara, isso era serviço de mulher. Tal fato revela que, mesmo sendo algumas artificiais, as sentenças dadas são estruturas que eles utilizam de verdade.
+Outros dados que coletamos para investigarmos outras subcategorias modais:
+• Evento provável: “Vai chover” (as nuvens no céu estão escuras): 5) ta vỹ kutẽnh ke mũ
+chuva m.s. cair m.irr. “Vai chover” • Evento geral: “O sol nasce no leste”:
+6) kã vỹ rã jur jafã tá jur ∅ em m.s. sol nascer nom. lá nascer
+“O sol nasce no leste”
+
+100
+
+• Interrogação: “Será que vai chover?” (o céu está nublado):
+
+7) ta
+
+mỹ kutẽnh mũ hỹ nỹ
+
+chuva m.s.int. cair cont. provavelmente
+
+“Será que vai chover?”
+
+“O menino comeu o pinhão?” (não sei se isso ocorreu, por isso
+
+estou perguntando):
+
+8) gĩr
+
+vỹ fág kó ∅
+
+menino m.s. pinhão comer “O menino comeu o pinhão?”
+
+“Onde o sol nasce?”:
+
+9) hẽ tá rã vỹ jur tĩ onde lá sol m.s. nascer hab.
+“Onde o sol nasce?”
+
+Novamente, o informante não utilizou nenhuma marca para expressar um evento provável, o qual deu apenas como não realizado (irrealis), caso 5, ou evento geral, que informou como realis, sem marca alguma, caso 6. Nas sentenças 7, 8 e 9, porém, há a mudança de entonação, sendo utilizado em 7 o marcador de sujeito na pergunta que pede resposta ‘sim’ ou ‘não’’, como já identificado por Wiesemann (2002) – cf. capítulo 3 – e em 9, o pronome interrogativo hẽ (‘onde’). Em 8, na qual poderia haver o marcador mỹ, a resposta pensada pelo informante pode ter sido: ‘comeu’, ‘não comeu’, ao invés de ‘sim’ ou ‘não’, por isso utilizou o marcador vỹ. Ainda com relação às sentenças interrogativas, a 7 pode ser interpretada como irrealis, já que há a estrutura kutẽnh mũ hỹ nỹ (na qual o verbo está flexionado com –nh, flexão geralmente utilizada no irrealis e há as unidades gramaticais hỹ nỹ (traduzida como ‘provavelmente’) que pode ter sido a causa de mũ não estar acompanhado de ke, pois ke mũ hỹ nỹ parece ser uma estrutura redundante). Já as sentenças 8 e 9 podem ser interpretadas como realis: em 8 ocorreria o aspecto perfectivo e em 9, o imperfectivo (marcado por tĩ).
+
+101
+
+Outros tipos modais investigados:
+
+• Capacidade: “Minha esposa sabe fazer o ẽmĩ”:
+
+10) inh
+
+prũ fi ẽmĩ han há nĩ
+
+p.p.1p.sg. esposa m.f. ẽmĩ fazer saber est.
+
+“Minha esposa sabe fazer o ẽmĩ”
+
+• Desejo: “O menino quer comer ẽmĩ”:
+
+11) gĩr
+
+vỹ ẽmĩ ko sór mũ
+
+menino m.s. ẽmĩ comer querer cont.
+
+“O menino está querendo comer ẽmĩ”
+
+• Necessidade: “Os kaingang precisam de mais terras”:
+
+12) kanhgág ag, ga ũ
+
+ve mãn sór mũ
+
+kaingang m.pl. terra alguém parece pegar querer cont.
+
+“Os kaingang estão precisando de mais terras”
+
+• Obrigação: “Os fóg devem devolver as terras aos kaingang”:
+
+13) fóg ag kanhgág ag mỹ ag ga tỹ vỹn kenh ke nỹtĩ fóg m.pl. kaingang m.pl. posp. p.3p.pl. terra m.s. devolver m.irr.
+“Os fóg devem devolver as terras aos kaingang”
+
+• Permissão: “Não é permitido nadar no rio” (da hidrelétrica):
+
+14) goj mág ki mromronh ke tũ vẽ água grande em nadar m.irr. neg. é
+“Não é para nadar no rio (da hidrelétrica)”
+
+“Nós podemos caçar cateto para comermos”:
+
+15) ógsã tãnh kỹ ẽg ko ti ∅
+cateto matar então p.1p.pl. comer p.3p.sg. “Nós podemos caçar cateto para comermos”
+
+Nas sentenças acima, não são observadas unidades gramaticais que distingam tais subcategorias modais: capacidade, desejo, necessidade, obrigação ou permissão. Em 10, a capacidade é expressa pelo sentido das unidades lexicais han há (‘saber fazer’); em 11 e 12, o desejo e a necessidade são expressos pelo sentido da unidade lexical sór (‘querer’); em 15 a permissão não é evidenciada,
+
+102
+
+podemos observar mais uma finalidade: “o cateto é morto para então comermos
+
+ele”. Todas estas sentenças podem ser interpretadas como realis; já as sentenças
+
+13 e 14, como irrealis, visto que os verbos se flexionam vỹn ke ~ vỹn kenh
+
+(‘devolver’) e mromro ~ mromronh (‘nadar’), havendo os marcadores de irrealis ke
+
+(nỹtĩ).
+
+Para a investigação do modo imperativo, utilizamos as seguintes
+
+estruturas:
+
+• Imperativo: “Fale devagar” (pedido)
+
+16) kumẽr hã vĩ devagar falar
+“Fale devagar
+
+“Vá para casa, já é noite” (conselho)
+
+17) in ra tĩg, kuty ti nỹ ha casa para ir noite p.3p.sg. deitar agora
+“Vá para casa, já é noite”
+
+“Devolva-me o livro” (ordem)
+
+18) inh livro tỹ vỹn ké p.1p.sg. livro m.s. devolver
+“Devolva meu livro”
+
+“Não mexa em minhas coisas” (ordem)
+
+19) isỹ
+
+nén ũ vóg tũg ra
+
+p.1p.sg.s. coisa alguém mexer neg. m.imp.
+
+“Não mexa em minhas coisas”
+
+Em nenhuma das sentenças acima, a segunda pessoa, para quem é dirigida a ordem/ pedido, é expressa, mas subentendida. Em nenhuma delas, também, há qualquer marcador de aspecto. Em 16, 17 e 18 não há qualquer marcador de imperativo (o ra em 17 é uma posposição); já em 19, há o marcador ra (que aqui é marcador de imperativo) no final da sentença, denotando uma ordem. Notamos que de 16 a 18 o modo imperativo está como um pedido, diferentemente
+
+103
+
+da sentença 19, em que o imperativo é uma ordem de fato. Logo, podemos dizer que há o modo imperativo nesta variante do kaingang, que este é expresso pela ordem OV e é marcado com ra, ou outro marcador, quando há uma ordem de fato, quando esta não se trata de um pedido. Outros dados de nosso corpus confirmam isso:
+
+20) inh
+
+mỹ51 goj mã
+
+p.1p.sg. para água pegar
+
+“Pegue água para mim”
+
+21) gãr
+
+tu rỹ
+
+milho carregar m.imp.
+
+“Carregue milho”
+
+Em 20 há objeto indireto (acompanhado da posposição mỹ), objeto direto e verbo: a sentença imperativa é um pedido. Em 21, há o objeto direto, o verbo e o marcador de imperativo rỹ: a sentença imperativa é uma ordem. Em Wiesemann (1980), o marcador rỹ indica ‘faça isso agora’ e em Wiesemann (2002) o marcador ra, o qual chama de indicador de aspecto, significa ‘faça agora!’. Suspeitamos, porém, que estes marcadores de modo, não de aspecto como diz Wiesemann, possuem alguma diferença de significação, mas como nos faltam mais dados, isso ainda não pode ser confirmado.
+Dessa maneira, distinguimos três subcategorias na categoria de modo: realis, irrealis e imperativo52. A subcategoria realis está ligada à categoria de aspecto, mais especificamente às subcategorias aspectuais perfectivo e imperfectivo. No entanto, a subcategoria irrealis, embora podendo ser expressa por ke mũ, ke nĩ, ke nỹtĩ (estas duas últimas combinações sendo mais raras) ou (ke) tũ
+51 Notem que tanto mỹ quanto ra são usados para marcar modo: o primeiro marca um tipo de frase interrogativa e o segundo, um tipo de frase imperativa; e ambos são usados como posposição: mỹ indica benefactivo e ra é uma direcional. 52 Optamos pelo uso do termo imperativo ao invés de necessidade, como faz Wiesemann, pelo fato de o primeiro ser um tipo modal e o segundo se referir à modalidade (cf. p. 54-55).
+
+104
+
+nĩ, isto é, por combinações que possuem tanto marcadores modais (‘ke’ e ‘tũ’) como aspectuais (‘mũ’, ‘nĩ’, ‘nỹtĩ’), não podemos relacionar o irrealis às subcategorias aspectuais perfectivo ou imperfectivo, pois estas duas expressam um tipo de evento que teve seu início, podendo ter sido completado ou não. Ora, se um evento teve pelo menos seu início, não podemos tratá-lo como irrealis, ou seja, como algo que não aconteceu ainda: se teve início, o evento se realizou pelo menos um pouquinho, devendo ser tratado como realis. Assim, a subcategoria modal irrealis pode até estar relacionada à categoria de aspecto, mas não às subcategorias aspectuais perfectivo e imperfectivo. Já a subcategoria modal imperativo não está relacionada à categoria aspectual de maneira alguma. Nas subcategorias realis e irrealis, o sujeito é evidenciado (sendo SOV ou OVS os elementos da oração), na subcategoria imperativo, não (sendo OV os elementos da oração).
+
+XVI: Sistematização de modo e sua relação com as principais distinções aspectuais da língua kaingang
+
+Modo
+Relação com as subcategorias perfectivo e imperfectivo
+Elementos da oração
+
+Realis sim
+SOV/ OVS
+
+Irrealis não
+SOV/ OVS
+
+Imperativo não
+OV
+
+105
+8 A CATEGORIA DE ASPECTO
+Ursula Wiesemann, em Aspect and mood as a nine-cell matrix (1986), considera três tipos aspectuais na língua kaingang, os quais estão ligados aos modos realis, irrealis e necessidade, e podem ser distinguidos pela flexão verbal: no aspecto neutro não há alterações na forma verbal; no perfectivo, o verbo é acrescido do sufixo –g; e no imperfectivo, o verbo é acrescido do sufixo –n(h). Os marcadores de aspecto e imperativo, também, ajudariam a marcar o aspecto, porém estão mais ligados aos três tipos modais estabelecidos pela autora neste artigo, e aos tipos de informação em termos discursivos em Wiesemann (1980).
+Em seu artigo Events and non-events in kaingang discourse (1980), a autora afirma que a função das sentenças em termos discursivos é governada pela partícula de aspecto que a sentença contém: sentenças com “mũ” são eventos, com “tĩ” são procedimentos ou condições gerais, com “nĩ” são condições específicas, com “vẽ”, exposições e exortações imperativas. Também são sentenças imperativas aquelas que contêm os seguintes marcadores: “-mnĩ” (‘faça isso em qualquer hora’), “rỹ” (‘faça isso agora’), “ker...hẽ” (‘não se atreva a...’) ou “ha...ge” (‘você tem o dever de...’).
+Como já estabelecemos para a categoria de modo as subcategorias de realis, irrealis e imperativo, então passemos agora para a verificação dos tipos aspectuais.
+Para a coleta de dados que evidenciam o aspecto no kaingang falado, atualmente, pelos índios da Terra Indígena do Apucaraninha, foram considerados o evento em seu início, sua fase medial, seu término, eventos que
+
+106
+
+expressam completamento, desenvolvimento, iteratividade, habitualidade, como visto no trabalho de Bhat (1999) e outros autores estudados.
+No entanto, por meio dos dados de nosso corpus, notamos que o aspecto, expresso por unidades gramaticais sistemáticas, pode ser analisado dentro das subcategorias principais da categoria de aspecto as quais são: perfectividade e imperfectividade. Como visto anteriormente, a perfectividade, pode ser entendida como um olhar externo sobre a situação, sem, necessariamente, se distinguir a estrutura interna da mesma: isso não quer dizer que eventos perfectivos careçam de estrutura interna, pelo contrário; eles apenas são vistos como um bloco.
+Já a imperfectividade seria um olhar para a estrutura interna da situação. Ou seja, enquanto a perfectividade representa a ação pura e simples, configurando-se como uma visão do acontecimento como um todo único, sem se importar com as fases separadas da situação, a imperfectividade tem a atenção voltada à estrutura interna da situação, pondo-se ênfase em alguma parte da mesma: seu começo, meio ou fim; ou no próprio desenvolvimento/ desenrolar da situação (Comrie, 1976).
+Os dados de nosso corpus mostram que os eventos perfectivos carecem de marcadores de aspecto e de mudança na forma verbal, como pode ser visto abaixo:
+
+1. ta kutẽ ∅
+chuva cair “Choveu”
+
+2. gĩr vỹ fág kó ∅
+menino m.s. pinhão comer “O menino comeu o pinhão”
+
+3. ta vỹ gám ké
+
+∅
+
+chuva m.s. parar de chover “A chuva parou”
+
+107
+4. jãnkã tỹ ag tór, tór ké ∅ porta m.s. p.3p.pl. bater (pl.)
+“Bateram (várias vezes) na porta”
+Todas as sentenças acima denotam eventos perfectivos e não possuem marcadores como “mũ”, “tĩ”, “nĩ”. Porém, em 4, percebe-se a iteratividade pela repetição da primeira parte do verbo ‘bater’: tór, tór ké. Com relação à marcação de sujeito, em 1 não há marcador, por isso foi traduzida como ‘choveu’ ao invés de ‘a chuva caiu’; em 2 e 3 há o marcador vỹ e em 4, tỹ. Podemos notar aí uma diferença de caso: as sentenças com o primeiro tipo de marcador possuem sujeito nominativo; já a com marcador tỹ, o sujeito parece ser ergativo, pois não é a porta que bate, mas é a que sofre a ação realizada por ag, entretanto, porta não está na posição de objeto e sim de sujeito.
+Outros exemplos: 5. kanhgág ag simỹnỹ tĩ mũ kã junjun
+kaingang m.pl. semana ir cont. em chegar (pl.) “Os kaingang chegaram na semana passada” 6. isỹ ĩn tá kã kutẽ ra, isóg Manoel tĩg vé
+eu casa lá em sair para eu Manoel ir ver “Quando sai de casa, vi o Manuel passando”
+Em 5, temos duas orações: kanhgág ag junjun (‘os kaingang chegaram’) e a intercalada simỹnỹ tĩ mũ kã (‘na semana que passou’). A primeira é perfectiva, ou seja, vista como um todo; já a segunda, podemos interpretar como imperfectiva, pois a atenção é voltada para uma das fases da ação expressa pelo verbo tĩ: seu fim.
+Em 6, temos três orações: isỹ ĩn ta kã kutẽ ra (‘quando saí de casa’), interpretada como perfectiva; isóg vé (‘eu vi’), também perfectiva; e Manoel tĩg (‘Manoel que passou’), interpretada como imperfectiva pois, embora não haja
+
+108
+marcador de aspecto, ocorre a mudança verbal: tĩ ~ tĩg, o que não aconteceria se fosse perfectiva.
+Para marcar eventos imperfectivos, encontramos em nosso corpus os seguintes marcadores: mũ, tĩ, nĩ. O primeiro, como pôde ser visto em 5, marca uma das fases do evento, que durou por determinado período de tempo: sua fase final. Entretanto, mũ também pode marcar o começo do evento ou, simplesmente, seu desenrolar, como será visto nos próximos dados. Pelo fato deste marcador poder indicar o fim da ação, foi interpretado por Gonçalves (2007) como um marcador que indica perfectividade. No entanto, em nosso trabalho interpretamos perfectividade como uma visão sobre a totalidade da ação, não apenas sobre seu resultado, como ela chama. Talvez a diferença de posição com relação a este marcador se deva ao embasamento teórico seguido em cada trabalho: nós utilizamos Castilho (1967), Comrie (1976), Lyons (1971; 1979) e Bhat (1999) como os principais autores que discutem a categoria de aspecto; Gonçalves também resenha estes autores, mas para a análise parece fazer uso especialmente da teoria de Reichenbach (1947), Vendler (1967) e Verkuyl (1972; 1989; 1993), da Lingüística Formal. Por priorizarmos a linha teórica da Lingüística Descritivo-Funcional, tais autores, embora tendo conhecimento de seus trabalhos, não foram discutidos nesta dissertação.
+O marcador tĩ se refere à habitualidade do evento, ao passo que nĩ, parece indicar estatividade. Como afirma Gonçalves:
+‘Nĩ’ é utilizado para eventos durativos, estativos, não-permanentes e em eventos não-durativos transformativos. No caso de eventos durativos, chamamos a atenção para o fato da possibilidade indicada no marcador de Aspecto ‘nĩ’, desses estados poderem ser mudados de alguma forma, ainda que tenham certa duração (GONÇALVES, 2007, p.178).
+
+109
+
+Analisemos nossos exemplos:
+
+7. isỹ
+
+tĩg kar kỹ, inh
+
+krĩ tóg kaga mũ
+
+p.1p.sg.s.. ir depois p.p.1p.sg cabeça m.s. doer cont.
+
+“Depois que parti, minha cabeça estava doendo”
+
+8. kãka vỹ krog he mũ vento m.s. ventar cont.
+“O vento começou a soprar/ estava ventando”
+
+9. gĩr vỹ fág ko mũ menino m.s. pinhão comer cont.
+“O menino está comendo pinhão”
+
+A sentença 7 possui dois eventos interpretados como imperfectivos: isỹ tĩg kar kỹ (‘Depois eu parti’), com flexão do verbo tĩ ~ tĩg, marcando o fim do evento; e inh krĩ tóg kaga mũ (‘minha cabeça começou a doer’), com o marcador mũ, indicando o começo do evento. Da mesma forma ocorre em 8, onde mũ indica o início do evento. Já em 9, mũ aponta para o desenvolvimento do evento expresso pelo verbo ko (‘comer’).
+Exemplos com o marcador tĩ:
+
+10. nén mur mũ kar vỹ ter tĩ coisa nascer cont. tudo m.s. morrer hab.
+“Tudo que nasce, morre”
+11. Apucaraninha ki escola tá isóg ag kanhrãn tĩ Apucaraninha em escola lá p.1p.sg.s. p.3p.pl. ensinar hab.
+“Ensino na escola do Apucaraninha”
+12. hẽ tá rã vỹ jur tĩ onde sol m.s. nascer hab.
+“Onde nasce o sol?”
+Em 10, uma oração inteira é marcada como sujeito: nén mur mũ kar
+(‘Todas as coisas que nascem/ nascentes’), evento imperfectivo, em que mũ pode
+estar marcando tanto o início, o desenrolar ou o fim do evento expresso pelo verbo
+mur (‘nascer’). O marcador tĩ tem escopo sobre o período inteiro e expressa um
+
+110
+
+evento que acontece normalmente, habitualmente: o fato das coisas que nascem também morrerem.
+Em 11, a habitualidade é mais evidente: no caso, o informante é professor da escola do Apucaraninha, ele leciona lá todos os dias. Em 12, tal evidencia também é clara: pergunta-se pelo ponto onde o sol nasce todos os dias, nasce habitualmente.
+Dados com o marcador nĩ:
+
+13. tỹ isóg professor nĩ, kỹ isóg
+
+gĩr ag kanhrãn tĩ,
+
+m.s. p.1p.sg.s professor est. então p.1p.sg.s menino m.pl. ensinar hab.
+
+kanhgág vi
+
+rán ki, tugtó ki ke gé
+
+kaingang palavra escrever em contar em também
+
+“Sou professor, ensino as crianças a ler e a escrever o kaingang”
+
+14. kanhgág ag jamã
+
+pẽ vẽ hã vỹ tỹ Paraná ti nĩ
+
+kaingang m.pl. moradia verdadeira igual m.s. m.s. Paraná p.3p.sg. est.
+
+“Os kaingang habitavam (ocupavam) todo o território do Paraná”
+
+15. inh
+
+prũ fi ẽmĩ han há nĩ
+
+p.p.1p.sg. esposa m.f. ẽmĩ fazer saber est.
+
+“Minha esposa sabe preparar o ẽmĩ”
+
+No período 13 há uma oração com nĩ: tỹ isóg professor nĩ (‘sou professor’), que denota o ‘estado’ profissional do informante; e uma oração com tĩ: isóg gĩr ag kanhrãn tĩ (‘eu ensino eles’), que indica a habitualidade do evento ‘ensinar’. Embora a tradução de 14 seja “Os kaingang habitavam (ocupavam) todo o território do Paraná”, frase que pedimos ao informante, ela pode ser modificada para “O habitat verdadeiro dos kaingang é o Paraná”, ou seja, o informante deu a resposta não como algo que já foi, mas que ainda é, e por isso marca a oração com um marcador de aspecto imperfectivo, estativo. O fato de o informante julgar ser o Paraná sua verdadeira casa, não vai mudar caso ele mude para outro estado, pois ele é natural do Paraná e naturalidade não muda. Logo, nĩ denota um evento
+
+111
+
+estativo e permanente, o que contraria a afirmação de Gonçalves citada anteriormente.
+Em 15, o fato da mulher do informante saber preparar o ẽmĩ também aponta para o caráter permanente denotado por nĩ: ela sabe e continuará sabendo por muito tempo.
+Comparemos os três marcadores em ambientes (quase) idênticos:
+
+16. ta vỹ kutẽ mũ chuva m.s. cair cont.
+“Está chovendo”
+
+17. kurã kar ki ti
+
+kutẽ tĩ
+
+dia todo em p.3p.sg. cair hab.
+
+“Tem chovido todos os dias”
+
+18. kutẽ ti nỹ nĩ cair p.3p.sg.deitar est.
+“Continua chovendo”
+
+Nas três sentenças acima, é possível observar claramente que mũ indica o desenvolvimento do evento. O marcador tĩ indica a habitualidade do evento. O nĩ também está indicando certo caráter permanente. Permanente, aqui, não quer dizer a ‘vida toda’, mas algo que dure um bom tempo. Como em português, poderíamos dizer ‘permanece chovendo’, sem significar que ‘nunca mais vai parar de chover’.
+Assim, podemos distinguir na categoria de aspecto as subcategorias perfectivo e imperfectivo. Sendo o primeiro não marcado por unidades gramaticais e o segundo, marcado por tais unidades.
+São muitos os marcadores de aspecto, porém, em nossos dados apenas os mais freqüentes foram analisados neste capítulo, os quais são mũ, tĩ, nĩ. Como vimos no capítulo anterior, o marcador mũ também ajuda a marcar o modo
+
+112
+
+irrealis, havendo apenas dois casos em que mũ é substituído por nĩ e nỹtĩ. Por nos faltar dados, não adentraremos na diferença entre ke mũ, ke nỹtĩ, ke nĩ.
+Por enquanto, podemos dizer que as distinções aspectuais ocorrem principalmente na subcategoria modal realis e que dentro da subcategoria aspectual imperfectivo, ocorrem as diferenças entre os marcadores de aspecto. Como pode ser visualizado no quadro abaixo:
+
+XVII. Sistematização de modo e aspecto do kaingang
+
+MODO
+
+Realis
+
+ASPECTO MARCADORES
+
+Perfectivo ∅
+
+Imperfectivo
+
+continuativo/ habitual
+
+incoativo
+
+mũ
+
+tĩ
+
+estativo nĩ
+
+Irrealis
+
+Imperativo pedido ordem
+
+ke (mũ) (nĩ) (tũ
+
+∅
+
+ra, rỹ
+
+nĩ)
+
+113
+9 CONSIDERAÇÕES FINAIS
+Divizamos, com o refencial teórico, dois níveis lingüísticos: um morfossintático e outro semântico. No primeiro nível, consideramos as categorias de tempo, modo e aspecto; no segundo, a marcação de tempo feita por unidades lexicais, a modalidade e a acionalidade ou modos da ação. Este segundo nível não foi analisado aqui. Porém, para se avaliar o primeiro nível, ou seja, as categorias lingüísticas de tempo, modo e aspecto, foi necessário identificar a presença de unidades gramaticais que as marcassem. Como nos dados, observamos que o tempo era marcado essecialmente por unidades lexicais, não estabelecemos uma categoria de tempo para a língua analisada, mas pudemos identificar as categorias de modo e de aspecto.
+Na categoria de modo, consideramos as subcategorias irrealis, realis e imperativo. Notamos que os kaingang marcam a primeira subcategoria, principalmente, com a combinação ke mũ; a segunda, com a ausência desta combinação. Na subcategoria imperativo há duas distinções: quando a sentença imperativa denota ordem, mando, ela é marcada por ra ou rỹ (os únicos marcadores que encontramos em nosso corpus, mas não os únicos da língua); quando denota um pedido, não é marcada por tais unidade gramaticais. Nas subcategorias realis e irrealis, o sujeito é expresso; na subcategoria imperativo, não.
+Na categoria de aspecto, observamos as distinções entre perfectivo e imperfectivo: o primeiro não é marcado por unidades gramaticais; já o segundo é marcado por tais unidades, sendo as mais freqüentes mũ, tĩ e nĩ. A primeira denota uma espécie de contínuo, a segunda expressa evento habitual e a terceira, evento com caráter estativo. É dentro da subcategoria realis que visualizamos as principais distinções aspectuais.
+
+114
+Fazer a divisão entre dois níveis lingüísticos e a separação das unidades que marca um e outro: o nível morfossintático marcado por unidades gramaticais e o semântico, por unidades lexicais; possibilita-nos maior segurança para se analisar e sistematizar as expressões de tempo, modo e aspecto na língua kaingang.
+
+115
+REFERÊNCIAS
+ALMEIDA, L.; SANTOS, L.C. Possibilidade de ergatividade cindida no sistema de concordância de número em kaingang. In: Seminário do CELLIP, 16., 2003, Londrina. Anais... Londrina: UEL, 2003. 1 CD.
+__________. Classes de palavras em kaingang: nome. In: Encontro do CELSUL (Círculo de Estudos Lingüísticos do Sul), 6., 2004, Florianópolis. Anais... Florianópolis: UFSC, 200?. (no prelo)
+__________. A concordância de número em kaingang. In: Encontro Internacional sobre Línguas e Culturas Macro-Jê, 4., 2005, Recife. Anais... Recife: UFPE, 200?. (no prelo)
+__________. Empréstimos do português na língua kaingang. In: Seminário de Estudos sobre Linguagem e Significação, 5., 2006, Londrina. Anais... Londrina: UEL, 2006. 1 CD.
+ALMEIDA, L. As duas metades exogâmicas do kaingang e seu reflexo na concordância de número da língua. In: Encontro Anual de Iniciação Científica, 14., 2005, Guarapuava. Anais... Guarapuava: UNICENTRO, 2005. 1 CD.
+ARRAIS, T. C. Tempo e aspecto, tempo e modalidade: de volta ao futuro. Alfa, São Paulo, v.35, p.11-17, 1991.
+ARQUEOLOGIA Brasileira – Linha do Tempo. Disponível em: <http://www.itaucultural.org.br/arqueologia/pt/tempo/tempo.htm>. Acesso em 27 jun. 2006.
+BALDUS, H. Ensaios de etnologia brasileira. 2 ed. São Paulo: Nacional; Brasília: INL, 1979.
+BHAT, D.N.S. Prominence of Tense, Aspect and Mood. v.49. Amsterdam/ Philadelphia: John Benjamins Publishing Company, 1999.
+BORBA, T. Actualidade indígena. Curitiba, 1908.
+CÂMARA Jr, J. M. Princípios de lingüística geral. 4 ed. Rio de Janeiro: Livraria Acadêmica, 1974.
+CAMBRIDGE – International Dictionary of English. Cambridge: CUP, 1995.
+CASTILHO, A. T. Estruturalismo, história e aspecto verbal. Alfa, Marília, n.4, p.139166, set.1963.
+_________. Introdução ao estudo do aspecto verbal na língua portuguesa. Alfa, Marília, n.12, p.7-135, set.1967.
+CAVALCANTE, M. P. Fonologia e Morfologia da Língua Kaingáng: o Dialeto de São Paulo Comparado ao do Paraná. 1987. Tese (Doutorado) – Instituto de Estudos da Linguagem, Universidade Estadual de Campinas, Campinas.
+
+116
+CHUNG, S.; TIMBERLAKE, A. Tense, aspect and mood. In: Shopen, Timothy. Language typology and syntactic description. v.3. London: Cambridge University Press, 1985. p.202-257.
+COMRIE, B. Aspect. Cambridge: CUP, 1976.
+_________ . Towards a general theory of tense. Cadernos de Estudos Lingüísticos, Campinas, n.6, p.164-168, 1984.
+_________ . Tense. Cambridge: CUP, 1985.
+_________ . Language universals and linguistics typology. 2. ed. Oxford: Basil Blackwell, 1989.
+CRYSTAL, D. A Dictionary of Linguistics and Phonetics. 4. ed. Oxford: Blackwell Publishers, 1997.
+D’ANGELIS, W. R. Nasalidade, soanticidade e vozeamento nas línguas Macro-Jê & Geometrias de Traços. Sínteses. Campinas, v.4, p.101-113, 1999.
+_________ . A língua kaingang e seu estudo. 2006. Disponível em: www.portalkaingang.org. Acesso em: 07 jan. 2008.
+FERREIRA, R. V. A Língua Matis (Pano): uma descrição gramatical. 2005. Tese (Doutorado) – Instituto de Estudos da Linguagem, Universidade Estadual de Campinas, Campinas.
+FUCHS, A. Aspecto verbal e dêixis. Cadernos de Estudos Lingüísticos, Campinas, n.15, p.87-109, 1988.
+GODOI, E. Aspectos do aspecto. 1992. Tese (Doutorado) – Instituto de Estudos da Linguagem, Universidade Estadual de Campinas, Campinas.
+GONÇALVES, S. A. Aspecto no kaingang. 2007. Dissertação (Mestrado) – Instituto de Estudos da Linguagem, Universidade Estadual de Campinas, Campinas.
+GRUPO MĨG. Relatório de pesquisa realizada junto as escolas das áreas indígenas do norte do Paraná. Londrina: UEL/ FUNAI-Ld, 1996.
+GUÉRIOS, R. F. M. Estudos sobre a língua caingangue. Notas históricocomparativas (dialeto de Palmas – dialeto Tibagi) – Paraná. Arquivos do Museu Paranaense II, Curitiba, p.97-177, 1942.
+HANKE, W. Ensayo de una grammatica del idioma Caingangue de los Caingangues de la Serra de Apucarana – Paraná. Arquivos do Museu Paranaense, Curitiba, v.8, p. 65-146, 1950.
+HEROLD, C. Aspectos da fonologia da língua kaingang – dialeto central. 1996. Dissertação (Mestrado) – Universidade Federal de Santa Catarina, Florianópolis.
+HOUAISS. Dicionário eletrônico Houaiss da língua portuguesa. Rio de Janeiro: Objetiva, 2001.
+
+117
+LYONS, J. Semantics. v.2. Cambridge: CUP, 1977.
+________ . Introdução à lingüística teórica. São Paulo: Nacional: EDUSP, 1979.
+MACLENNAN, J. El problema del aspecto verbal: estudio critico de sus presupuestos. Madrid: Gredos, 1962.
+MONTSERRAT, R. M. F. Línguas indígenas no Brasil contemporâneo. In: GRUPIONI, L. D. B. Índios no Brasil. Brasília: Ministério da Educação e Desporto, 1994.
+MOTA, L. T.; NOELLI, F. S.; TOMMASINO, K. (orgs.). Ũri e Wãxi: estudos interdisciplinares dos kaingang. Londrina: EDUEL, 2000.
+MOTA, L. T. As guerras dos índios kaingang: a história épica dos índios kaingang no Paraná (1769-1924). Maringá: EDUEM, 1994.
+NASCIMENTO, S. H. L. Aspectos morfológicos e sintáticos e marcação de caso da língua kaingang. 1995. Dissertação (Mestrado) – Universidade Federal de Santa Catarina, Florianópolis.
+NIMUENDAJÚ, C. Etnografia e indigenismo: sobre os Kaingang, os Ofaié-Xavante e os Índios do Pará. Marco Antonio Gonçalves (org.). Campinas: UNICAMP, 1993.
+PACHÊCO, F. B. Morfossintaxe do verbo ikpeng (karib). 2001. Tese (Doutorado) – Instituto de Estudos da Linguagem, Universidade Estadual de Campinas, Campinas.
+PALMER, F.R. Mood and modality. 2 ed. Cambridge: CUP, 2001.
+RIBEIRO, D. Os índios e a civilização: a integração das populações indígenas no Brasil moderno. São Paulo: Companhia das Letras, 1996.
+RODRIGUES, A. D. Línguas Brasileiras: Para o conhecimento das línguas indígenas. São Paulo: Loyola, 1986.
+SANTOS, L. C. Descrição de Aspectos Morfossintáticos da Língua Suyá (kĩsêd jê) Família Jê. 1997. Tese (Doutorado) – Universidade Federal de Santa Catarina, Florianópolis.
+________ . Aspectos da Tipologia Oracional da Língua Kaingáng. In: XIII Encontro do CELLIP, 1999, Campo Mourão. Anais... Foz do Iguaçu: Softizing Empresa Júnior de Computação, 1999, v.único.
+________ . Concordância de Número entre Sujeito-Objeto-Verbo na Língua kaingang. In: 1º Encontro Internacional do Grupo de Trabalho Sobre Línguas Indígenas da ANPOLL – Fonologia, Gramática e História, 2002, Belém. Atas... Belém: Editora da Universidade Federal do Pará, 2001, v.1, p.104-110.
+________ . Concordância de Número Sujeito-Objeto-Verbo em kaingang – Um Sistema de Ergatividade Cindida. Revista Brasileira de Lingüística, São Paulo, v.12, n.1, p.321-328, 2003.
+
+118
+SANTOS, L. C.; PONTES, I. (orgs.). Línguas Jê – Estudos Vários. Londrina: EDUEL, 2002.
+SILVA, S. B. Etnoarqueologia dos grafismos kaingang: um modelo para a compreensão das sociedades Proto-Jê meridionais. 2001. Tese (Doutorado) – USP, São Paulo. (versão digital)
+SILVA, C. R. da. História crítica da construção da escrita do kaingáng. 1996. Dissertação (Mestrado) – Universidade Estadual de Londrina, Londrina.
+TABOSA, L. P. Construções causativas da língua kaingang. 2006. Dissertação (Mestrado em Estudos da Linguagem) – Universidade Estadual de Londrina, Londrina.
+TEIXEIRA, J. B. Contribuição para a fonologia do dialeto kaingang de Nonoai. 1988. Dissertação (Mestrado) – IEL, UNICAMP, Campinas.
+TOMMASINO, K. A história dos kaingang da bacia do tibagi: uma sociedade jê meridional em movimento. 1995. Tese (Doutorado) – USP, São Paulo.
+TOMMASINO, K.; FERNANDES, R. C. Kaingang: nome. Disponível em: <http://www.socioambiental.org/pib/epi/kaingang/nome.shtm>. Acesso em: 25 jun. 2006.
+TOMMASINO, K.; MOTA, L.T.; NOELLI, F.S. (orgs.). Novas contribuições aos estudos interdisciplinares dos kaingang. Londrina: EDUEL, 2004.
+URBAN, G. A história da cultura brasileira segundo as línguas nativas. In: CUNHA, Manuela C. História dos índios no Brasil. 2 ed. São Paulo: Companhia das Letras: SMC: FAPESP, 1992.
+VAL FLORIANA, M. B. Ensaio de gramática kainjgang. Revista do Museu Paulista. São Paulo, v.10, p.529-563, 1918.
+___________. Dicionário Kainjgang-Portugues e Portugues-Kainjgang. Revista do Museu Paulista. São Paulo, v.12, p.1-392, 1920.
+VEIGA, J. Cosmologia e práticas rituais kaingang. 2000. Tese (Doutorado) – UNICAMP, Campinas.
+___________. A denominação dos kaingang. Disponível em: <http://www.portalkaingang.org/index_povo_2.htm>. Acesso em: 25 jun. 2006.
+WIESEMANN, U. Dicionário kaingang. Brasília: SIL, 1971.
+___________. Die phonologische und grammatische Struktur der kaingáng Sprache. Paris: Mounton, 1972.
+___________. Time distinctions in kaingáng. Zeitschrift Für Ethnologie, vol. 99, n. 1-2, Braunschweig, p.120-130,1974.
+___________. Os dialetos da língua kaingang e o xokleng. Arquivos de anatomia e
+
+119
+antropologia, Rio de Janeiro: Instituto de antropologia Prof. Souza Marques, v.3, 1978.
+___________. Events and non-events in kaingang discourse. In: Wege zur Universalienforschung. Brettschneider, G.; C. Lehmann (eds). Tübingen: Gunter Narr Verlag, p.419-433, 1980.
+___________. Aspect and mood as a nine-cell matrix. In: Language in global perspective: Paper of the Summer Institute of Linguistics, 1935-1985. Benjamin F. Elson (ed.). Dallas: SIL, p. 471-506, 1986.
+___________. Kaingang-Português: dicionário bilíngüe. Curitiba: Evangélica Esperança, 2002.
+
+120
+GLOSSÁRIO
+ã – pronome de 2ª pessoa do singular ag – marcador de plural ag – pronome de 3ª pessoa do plural ãjag – pronome de 2ª pessoa do plural Apucaraninha – Apucaraninha ẽg – pronome de 1ª pessoa do plural ẽmĩ – bolo kaingang escola – escola fa ~ fã ~ fãg ~ fãn – colher fag – marcador de feminino plural fág – pinhão fag – pronome de 3ª pessoa do plural feminino fi – marcador de feminino singular fi - pronome de 3ª pessoa do singular feminino fóg – não-índios ga – terra gãm ~ góv – quebrar gám ké – parar de chover gãr – milho gĩr – menino, criança giz – giz gógãm – quebrar (pl.) goj – água gun – engolir gungun – engolir (pl.) ha – agora há – bom, bem há – saber han – fazer hẽ - onde hoghog – cachorro huri – já hỹ nỹ - provavelmente ĩn – casa inh – pronome de 1ª pessoa do singular isóg – pronome de 1ª pessoa do singular sujeito isỹ - pronome de 1ª pessoa do singular sujeito jafã – nominalizador jãgti – sonhar jamã – moradia janela – janela jãnkã – porta jẽn – almoçar jóvé – copo junjun – chegar (pl.) jur – nascer kã – em kã ki – em
+
+121
+kafe – café kaga – doer, doença kãka – vento kamẽg – medo kãn – já kaneta – caneta kanhgág – kaingang kãnhmar – depois, daqui a pouco kãnhrãn – ensinar kãnĩ – atingir kanĩgnĩ – atingir (pl.) kar – todo kar kỹ - depois kasor – cachorro katĩg – vir ke (mũ) – marcador de modo irrealis ke gé – também kejẽn – mais tarde ki – em kó ~ ko ~ konh – comer kógfo – vespa kokamẽ - paca kónhĩgnhĩ – rã kósin – filho krĩ – cabeça krĩg – estrela krog ke – ventar kumẽr hã – devagar kur – roupa kurã – dia kusãg ~ kusa – esfriar kutẽm ~ kutẽ ~ kutẽnh - sair, cair kuty – noite kỹ - então kykym – cortar (pl.) kysã – mês livro – livro ma ~ mã ~ mãn – pegar mág – grande móra – bola mranh ~ mráj – quebrar mré – com mromronh – nadar mũ – marcador de aspecto mur – nascer mỹ - marcador de sujeito interrogativo mỹ - para né – caixa nén – coisa nĩ – marcador de aspecto
+
+122
+nig – chutar nĩgja – banco nũr – dormir nỹ - deitar nỹ - mãe nỹtĩ – marcador de aspecto ógsã – cateto Paraná – Paraná pẽ - verdadeiro pigtẽ - correr (pl.) pijé – marcador de sujeito pó – pedra prã ~ prãg ~ pranh – morder professor – professor prũ – esposa prỹg - ano pỹn – cobra ra – marcador de imperativo ra – para rã – sol rãkétá – ontem rãké-ũ tá – anteontem rán – escrever rĩn ~ rĩr – acordar rỹ - marcador de imperativo simỹnỹ - semana sir – depois sór – querer ta – chuva tá – lá tag – neste tãnh – matar ter – morrer tĩ – marcador de aspecto ti – pronome de 3ª pessoa do singular tĩ ~ tĩg – ir to hã – antes tóg - marcador de sujeito tór ké – bater tu – carregar tũ (nĩ) – negação tugtó – contar tỹ - marcador de sujeito ũ – alguém ũ tỹtá – mulher ũn sĩ – criancinha ũnri – hoje/ agora ũri – atualmente/ hoje va – pegar vãhã – de repente, mais tarde
+
+123
+vai kỹ - amanhã vai-ũn kã – depois de amanhã vár – cair (pl.) vãsỹ - antigamente ve – parecer vé – ver vẽ hã – igual vénhvag ~ vẽnhvã – correr vĩ – falar vi – palavra vóg – mexer vỹ - marcador de sujeito vỹn ké – devolver vỹn ke(nh) – voltar
+
+

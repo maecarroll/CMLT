@@ -1,0 +1,1382 @@
+Gramática Gerativa Preliminar da Língua Urubu
+JAMES Y. KAKUMASU
+0. INTRODUÇÃO.
+A presente análise se baseia no modelo gerativo-transformacional proposto por Noam Chomsky (1957, 1965) e modificado por outros gerativistas. Trata exclusivamente da sintaxe "predileta" da língua Urubu1, ou seja, OSV2. Parece aconselhável não estabelecer uma estrutura constituinte FN FV (frase nominal) (frase verbal) no caso desta língua conforme a primeira regra de estrutura frasal (EF). Seria precisa uma regra de recomposicão subseqüente para formar os constituintes V (FN). Este passo, por sua vez, iria exigir uma transformação obrigatória para colocar a FN (i.e., objeto) na ordem certa. É excusado fazer isso se a primeira regra EF é S → (FN) (FN) V. Assim, as regras EF para a língua Urubu seguem os contornos propostos pelos gerativistas que admitem a divergência de mais de dois elementos do S3. Greenberg (1963, p. 61) sugere três tipos universais de disposição sintática:
+Tipo I VSO p. ex. árabe
+Tipo II SVO p. ex. inglês
+Tipo III SOV p. ex. japonês
+Ele diz que tais tipos são predominantes, inferindo serem menos dominantes: VOS, OVS, OSV. Ross (1967(b), p. 2) comenta que o tipo III teria que se modificar para abranger também OSV; ele cita os achados de Guy Garden a respeito da língua Alúte, que possui tal disposicão sintática. No que se refere à ordem específica de SO ou OS, a língua Urubu poderia tomar seu lugar ao lado do Alúte como contra-exemplo à disposição SOV. Há, porém, uma interpretação alternativa dos tipos distinguidos por Greenberg. Segundo esta, o aspecto decisivo da disposição tripartida é a colocação do V. Importa mais saber se V é inicial, medial, ou final do que se a ordem dos elementos restantes é SO ou OS. Isto explica o fato da disposição predileta da língua Urubu ser OSV, embora SOV seja também aceita gramaticalmente. O Urubu, pois, possui a gramática de Tipo III.
+O presente estudo apresenta uma análise preliminar. Da coleção de textos tira-se uma hipótese a respeito da estrutura gramatical da língua Urubu. Em termos teóricos, as regras EF devem gerar todas as sentencas gramaticais, e elas somente, de determinada língua; na prática, porém, é difícil saber onde termina a coleção de textos original e onde começa o conhecimento intuitivo do lingüista (o qual não deve confundir-se com o conhecimento intuitivo do falante de língua materna). Parecem tão fundidos os dois que o conhecimento intuitivo do lingüista desempenha importante papel na análise. Isto é prejudicial, pois é dificil saber até que ponto agir e em que momento deixar de fazê-lo. É por isso que a seção morfológica sob rótulo morfofonêmico ultrapassa os dados iniciais e merece um tratamento bastante amplo. Tal resultado é de esperar-se, talvez, de uma língua inflectida.
+
+1. SISTEMATIZAÇÃO FONÉTICA.
+
+Os exemplos aqui apresentados são escritos numa ortografia prática. As letras reproduzem aproximadamente os sons representados pelas mesmas letras no alfabeto de língua portuguesa, com as seguintes exceções:
+
+Urubu x r ' y j ~ ΄
+
+Fonética –š – ř (flape) – Ž (oclusiva glotal) – à (vogal alta central) – y (i não-silábico) – ~ (nasalização) – ΄ (ditongo)
+Numa seqüência vocálica, a nasalização implica também em ditongo.
+
+A acentuação é predizível, caindo sempre na última sílaba das palavras sem necessidade de ser escrita. Os sufixos levam acentuação primária, o que significa que a acentuação da palavra passa para o sufixo.
+
+2. COLEÇÃO DE TEXTOS.
+Nos casos em que a tradução literal soa artificial ou inatural, dá-se além da literal (lit:) uma tradução coloquial (col:) também.
+1) jaxi-rehe4 jande jaho jabuti-por nós nós-fomos lit: 'Fomos por jabuti.' col: 'Fomos atrás de jabuti.'
+
+2) kotete jande-rehe aman-uhu uhyk
+
+perto nós-em
+
+chuva-grande chegou
+
+lit: 'Chuva forte chegou perto em nós.' col: 'Pegamos uma chuva forte bem perto.'
+
+3) i'i
+
+jande-ke jaĩ
+
+tempo decorrido nós-foco estivemos
+
+'Ficamos (lá) por muito tempo.'
+
+4) a'e-ngi jande jaho lá-de nós fomos 'De lá seguimos adiante.'
+
+5) wasai ro-rehe ihõ açaí folhas-por ele-foi
+lit: 'Ele foi por folhas de açaí.' col: 'Ele foi atrás de folhas de açaí.'
+
+6) kaitã-ta-rehe jahyk jajur
+Kaitã-gente-a chegamos viemos
+lit: 'Chegamos à gente Kaitã.' ou 'Chegamos vindo (i.e., 'não indo') à gente Kaitã.'
+col: 'Chegamos aonde ficavam os Kaitã.'
+
+7) tajahu-ke
+
+Kaitã jingo
+
+u'am
+
+porco selvagem-foco Kaitã ele lançou seta ele estava
+
+'Kaitã estava atirando em porcos selvagens com arco e flechas.'
+
+8) wasai ro ihẽ amupu'am a'am açaí folhas eu fiz-ficar eu-estava 'Eu estava colocando em pé as folhas de açaí.'
+
+9) jakare-ke Kaitã japi
+
+u'am
+
+jacaré-foco Kaitã ele-atirou com espingarda ele estava
+
+'Kaitã estava atirando num jacaré com a espingarda.'
+
+10) jape'a-ke jande jamondok jaho lenha-foco nós cortamos fomos 'Fomos cortar lenha.'
+
+11) irande tajahu-ke
+
+jahawĩ-ta
+
+amanhã porco selvagem-foco tiramos-a pele
+
+'Amanhã vamos tirar a pele do porco selvagem.'
+
+12) jangwate-ke-rehe parahy
+
+onça-foco-em
+
+ele-irado
+
+'Ele se zangou com a onça.'
+
+13) xe warahy ngã uhyk uwur
+
+lá sol
+
+gente chegaram vieram
+
+'As pessoas chegaram àquela hora (apontando o sol em determinada posição).'
+
+3. REGRAS DE ESTRUTURA FRASAL.
+
+S
+
+(PreS5) (adjunto) (FN) (FN) V (S)
+
+Adjunto
+
+(Adv) (FP) (S)
+
+FP
+
+FNP
+
+FN
+
+{ } N FN (S)
+
+PreS
+
+Pergunta6
+
+O diagrama arboriforme que admite a máxima expansão das regras EF é o seguinte (omite-se o encaixamento):
+
+S
+
+PreS
+
+Adjunto
+
+Adv
+
+FP
+
+FN
+
+FN FN V
+
+Pergunta
+
+N PNN
+
+4. EXEMPLOS ILUSTRATIVOS DAS REGRAS EF.
+
+S
+
+(Adjunto) (FN) (FN) V
+
+Já que a língua Urubu admite prefixos marcadores nos verbos (v. considerações
+morfofonêmicas, p. 186), é facultativa a forma livre do sujeito. Desta maneira, as duas FN são facultativas7. As regras de redundância ([+ N] → [± nom], seção 7) e as regras de concordância
+([+ V] → [– [+ nom] [– nom] __ ], seção 8) esclarecem qual das FN se refere ao objeto e qual ao
+sujeito. Por isso, a única combinação possível na regra de concordância é a seguinte:
+
+O
+
+S
+
+V
+
+[– nom] [+ nom] ____
+
+Adjunto FN FN V S
+
+Adjunto
+
+Adv
+
+FP
+
+FN
+
+P FN
+
+FN
+
+V
+
+N + tempo
+
+N
+
+poss N
+
+koĩ
+amanhã
+
+sepetu
+espeto
+
+-pe jurukã nexĩ mái muji-ta
+-em costelas Nexĩ mãe ela-assará
+
+'A mãe de Nexĩ vai assar as costelas no espeto amanhã. '
+
+'A mãe de Nexĩ' pode ser analisada como forma composta ou como forma possuída que resulta da formação e redução de cláusula relativa. O presente estudo a trata na qualidade de cláusula relativa (v. formação de possessivos, seção 6).
+
+Adjunto FN V + nom
+
+Adjunto
+.
+FP
+
+Adv
+
+FN
+
++ tempo
+
+N
+
+P
+
+apo
+
+merẽ -pe
+
+agora
+
+Belém -a
+
+'João irá a Belém agora.'
+
+.S
+FN N
+xuã
+João
+
+Adjunto V
+
+S
+
+Adjunto
+
+FP
+
+Adv
+
+FN
+
+P
+
++loc
+
+N
+
+xe
+por ali8
+
+ka'a –
+
+rupi
+
+selva – através
+
+'Ele foi ali pela selva.'
+
+V
+ihõ-ta
+ele-irá
+V
+ihõ
+ele-foi
+
+Adjunto FN
+
+S
+
+– nom
+
+Adjunto
+
+FP
+
+FN
+
+FN
+
+P
+
+N
+
+Pro
+
+ihẽ -pe
+
+so'o
+
+mim -para
+
+caça
+
+lit: 'Ele matará caça para mim.'
+
+col: 'Ele me dará de comer.'
+
+V
+juka-ta
+ele-matará
+
+Adjunto FN V + nom
+
+S Adjunto
+
+FP
+
+FN
+
+N
+
+P
+
+ok
+
+-pe
+
+casa
+
+-a
+
+'Chegamos na casa.'
+
+FN
+Pro
+jande
+nós
+
+V
+jahyk
+chegamos
+
+FN FN V – nom + nom
+
+S
+
+FN
+
+FN
+
+N
+
+Pro
+
+kijuwy
+
+ihẽ
+
+cujubim
+
+eu
+
+'Eu matei um cujubim.'
+
+FN FN V
+
+S
+
+– nom + nom
+
+FN
+
+FN
+
+N
+
+N
+
+pako
+
+xuã
+
+banana
+
+João
+
+'João comeu bananas.'
+
+V
+ajuka
+matei
+V
+u'u
+comeu
+
+FN V + nom
+
+S
+FN
+N
+kapitã
+capitão 'O capitão morreu.'
+
+V
+mano
+morreu
+
+V
+
+S
+
+S
+
+V
+
+V
+
+itawa
+ele-amarelo 'Ele é amarelo.'
+
+oho
+ele-foi 'Ele foi.'
+
+5. FORMAÇÃO DE ADJETIVOS E MODIFICADORES. Os modificadores (p. ex., adjetivos, numerais) são analisados à luz da sua origem na
+redução de cláusulas relativas. São necessárias duas transformações: (1) formação de cláusulas relativas, (2) redução de cláusulas relativas:
+15) pira ka'ẽ ihẽ a'u peixe assado eu comi 'Comi peixe assado.'
+Segue a estrutura profunda desta cláusula9:
+S
+
+FN
+
+FN
+
+S
+
+FN V
+
+N
+
+FN FN
+
+V
+
+Pro
+
+pira
+peixe 12
+
+N
+pira
+peixe 3
+
+N
+
+alguém10
+alguém 4
+
+muka'ẽ
+ele-fazer assar 5
+
+ihẽ a'u
+eu comi 6
+
+1) Formação de cláusulas relativas
+
+IE: X – [ N – [ FN – FN – V ] ] – Y
+
+FN S
+
+S FN
+
+12345 6
+
+ME: 1, 2, 3, 4, 5, 6 Condição: 2 = 3
+
+[ ]3
+1, 2, + Pro , 4, 5, 6 + WH
+
+Resultado S
+
+FN
+
+N
+
+S
+
+FN V
+
+FN
+
+FN
+
+V
+
+Pro
+
++ Pro
+
+pira + WH
+
+12
+
+3
+
+N
+alguém
+4
+
+muka'ẽ
+5
+
+ihẽ a'u
+6
+
+2) Redução de cláusula relativa.
+
+IE: X – [ N – [ + WH – FN – V ] ] – Y
+
+FN S
+
+S FN
+
+12
+
+3 45 6
+
+IE: 1, 2, 3, 4, 5, 6
+
+1, 2, Ø, Ø, 5, 6 se 4 = um/alguém
+
+Resultado: FN
+
+S
+
+FN
+
+V
+
+N
+pira
+
+S V
+muka'ẽ
+
+Pro
+
+ihẽ
+
+a'u
+
+Precisa-se de regra morfofonêmica para delir /mu/11 de /muka'ẽ/ para obter a forma de superfície /pira ka'e ihẽ a'u/.
+Outras construções paralelas são: 16) pako tawa a'u-ta12 'Vou comer banana madura.'
+banana amarela comerei
+provém de /pako itawa/ banana ela-amarela 'A banana é amarela.'
+
+17) arapuha pupur ihẽ a'u 'Comi veadinho cozido.' veadinho cozido eu comi
+provém de /arapuha alguém mupupur/ veadinho alguém fez-ferver 'Alguém cozinhou veadinho.'
+
+18) so'o jukyr ihẽ a'u carne salgada eu comi
+
+'Comi carne salgada.'
+
+provém de /so'o alguém mujukyr/ carne alguém fez-salgar 'Alguém salgou a carne.'13
+
+19) jaxi peteĩ amahem jabuti um encontrei
+
+'Encontrei um jabuti.'
+
+provém de /jaxi peteĩ/ 'Há um jabuti.'14 jabuti um
+
+6. FORMAÇÃO DE POSSESSIVOS.
+
+20) takwar ihẽ ramũi
+
+ombor-uhu
+
+flechas meus antepassados atiraram-muito
+
+'Meus antepassados atiraram muitas flechas.'
+
+Segue a estrutura profunda de 20): S
+
+FN
+
+FN
+
+V
+
+S
+
+N
+
+N
+
+FN
+
+FN
+
+V
+
+takwar
+1
+
+tamũi
+2
+
+N
+tamũi
+antepassados 3
+
+Pro
+
+ihẽ areko15
+
+eu tenho
+
+4
+
+5
+
+ombor-uhu
+6
+
+A sentença 20) exemplifica encaixamento no sujeito. É apenas coincidência que a formação adjetival mostre encaixamento no objeto e possessivo no sujeito. Pode ocorrer o contrário.
+
+6.1. Formação de cláusula relativa.
+
+IE: X – [ N – [ FN – FN – V ] ] – Y
+
+FN S
+
+SFN
+
+12 3 45 6
+
+ME: 1, 2, 3, 4, 5, 6
+Resultado: FN
+
+N N
+
+takwar
+1
+
+tamũi
+2
+
+[ ]3
+1, 2, + Pro , 4, 5, 6 +WH
+
+S
+
+FN
+
+S
+
+FN
+
+FN
+
+V
+
+Pro
+
++ Pro
+
+ihẽ areko
+
++ WH
+
+3
+
+4
+
+5
+
+V
+ombor-uhu
+6
+
+6. 2. Formação de possessivo.16
+
+IE: X – [ N – [+ WH – FN – V ] ] – Y
+
+FN S
+
+S FN
+
+12
+
+3 45 6
+
+ME: 1, 2, 3, 4, 5, 6 Resultado:
+FN
+
+N
+
+N
+
+takwar tamũi
+
+1
+
+2
+
+1, 2, Ø, 4 # poss, 5, 6
+
+S
+
+FN
+
+S
+
+FN
+
+FN
+
+V
+
+Pro
+
+ihẽ poss areko
+
+3
+
+4
+
+5
+
+V
+ombor-uhu
+6
+
+6.3. Redução de cláusula relativa.
+
+IE: X – [ N – [ [ FN – Poss ] – V ] ] – Y
+
+FN S FN
+
+FN S FN
+
+12 3 4 5 6
+
+ME: 1, 2, 3, 4, 5, 6
+
+1, 3+2, Ø, Ø, Ø, 6
+
+Resultado:
+
+S
+
+FN
+
+FN
+
+V
+
+FN
+
+N
+
+N
+
+Pro
+
+takwar
+
+ihẽ
+
+tamũi ombor-uhu
+
+Uma regra morfofonêmica transforma 'tamũi' em 'ramũi', a forma possuída, dando como resultado a devida forma de superfície:
+/takwar ihẽ ramũi ombor-uhu/
+
+Uma vez que as transformações não devem mudar o significado essencial, o sufixo /uhu/ deve ter sido acrescentado na estrutura profunda por uma regra morfofonêmica. Isto significa que certas regras morfofonêmicas são aplicáveis na estrutura profunda, antes de se aplicarem às transformações e outras depois da aplicação das transformações, i. e. na estrutura de superfície. As regras morfofonêmicas aplicáveis à estrutura de superfície modificam a forma, mas não o significado.
+
+Exemplos de outras formas de superfície com possessão:
+
+21) ihẽ rakehar oho minha esposa foi
+
+22) jurukã-ke nexĩ mái muji-ta costelas-foco Nexĩ mãe ela-assará
+
+'Minha esposa foi.'
+
+'A mãe de Nexĩ vai assar as costelas.'
+
+7. REGRAS DE REDUNDÂNCIA.
+
+[+ progressivo] [ – imperativo ]
+
+[ – imperativo] [ – estativo ]
+
+[ – estativo]
+
+[+V]
+
+[+ V]
+
+[ ] ± estativo ± intens ± neg
+
+± plural
+
+[+ estativo] [– estativo] [– imper]
+
+[ ] – falante – ouvinte
+[ ] ± imper ± falante ± ouvinte
+[ ] ± progressivo ± futuro
+
+[+ progressivo] [– movimento] [– de pé] [– sentado] [+N]
+
+[ ± movimento ]
+[ ± de pé]
+[ ± sentado]
+[ + deitado]
+[ ]± plural 17 ± nom ± Pro ± foco
+
+[+ Pro]
+[– Pro]
+[– Qualif] [+ Adv] [– Tempo] [– Loc]
+
+[ ] ± falante ± ouvinte
+[ ] – falante – ouvinte ± Qualif [+ certeza ] [± Tempo ] [± Loc ] [+ modo ]
+
+8. REGRAS DE CONCORDÂNCIA.
+
+[ ] + V α plural
+
+[ [ ] ] – + nom – α plural ___
+
+[ ] + V α falante
+
+[ [ ] ] –
+
++ nom – α falante
+
+___
+
+[ ] + V α ouvinte
+
+[ [ ] ] –
+
++ nom – α ouvinte
+
+___
+
+[+ V]
+
+[ ] – [ + nom ] [ + nom ] ___ 18 – [ – nom ] [ – nom ] ___ – [ + nom ] [ – nom ] ___
+
+[+ V]
+
+] [ ] [ + N
+– + foco
+[ ] [ ] ] [+N – – nom
+
++N + foco ___ +N + nom
+
++ foco ___
+
+Esta regra declara que não pode haver duas ocorrências de foco na mesma sentença, nem ocorrência de foco no [+ nominativo] se há [– nominativo], i.e., objeto. Não desempenha o papel de marcador de objeto, pois pode ocorrer no substantivo de uma frase preposicional. Havendo, contudo, sujeito e objeto, pode resolver possíveis ambigüidades por sua presença no objeto. Tais ambigüidades só podem aparecer na terceira pessoa (v. também nota 7).
+
+9. CONSIDERAÇÕES MORFOFONÊMICAS.
+
+Obtém-se a disposição linear correta dos afixos que podem co-ocorrer através da introdução dos mesmos em seqüência horizontal. Assim, o negativo é introduzido antes do futuro para que possa ocorrer a seqüência /-ym-ta/.
+
+oho-ym-ta oho-ỹ –ta
+
+'Ele não irá.'
+
+[→[a vv
+[ → [ ere vv
+[→[o vv
+[→[i vv
+[→[u vv
+[ → [ ja vv
+[ → [ pe vv
+[→[e vv
+
+/
+[ ] – plural + falante – ouvinte – estativo
+/
+[ ] – plural – falante + ouvinte – estativo
+/
+[ ] – falante 19 – ouvinte – estativo + classe o
+/
+[ ] – falante – ouvinte 20 ± estativo + classe i
+/
+[ ] – falante – ouvinte – estativo + classe u
+/
+[ ] + plural + falante – ouvinte – estativo
+/
+[ ] + plural – falante + ouvinte ± imper
+/
+[ ] – plural + imper
+
+a-ho aho
+ere-ho ereho
+o-ho oho
+i-tawa itawa i-hõ ihõ u-sak usak
+ja-ho jaho
+pe-ho peho
+e-ho eho
+
+'Vou.'
+'Você vai.'
+'Ele vai.'
+'É amarelo.' 'Ele vai.' 'Ele vê'
+'Vamos'
+'Vão!' ou 'Vocês vão.' 'Vá!'
+
+] →uhu] vv
+]→ ym] vv
+]→ ta] vv
+
+/ [ + qualif ]
+/ [ + neg ]
+/ [ + futuro ]
+
+]→ te] vv
+
+/ [ + intens ]
+
+]→ ta] NN ]→ uhu] NN
+]→ te] NN
+]→ ke] NN
+
+/ [ + plural ]
+/
+[ ] – Pro + qualif
+/
+[ ] – Pro + cert
+/ [ + foco ]
+
+pandu-uhu 'Ele fala muito.'
+
+aho-ym
+
+'Não fui'
+
+aho-ta
+
+'Irei.'
+
+aho-ỹ-ta 'Não irei'
+
+aho-te
+
+'Vou com certeza.'
+
+aho-ỹ-te 'Com certeza não vou.'
+
+kaitã-ta 'a gente Kaitã'
+
+pira-uhu 'peixe grande'
+pira-hu
+
+myra-te
+
+'árvore autêntica' 'árvore/ madeira certa'
+
+ihẽ-ke
+
+'eu'
+
+ym → ỹ / ___ C
+
+aho-ym-ta aho-ỹ-ta 'não irei'
+
+uhu → hu / vogal ___ myra-uhu myra-hu 'árvore grande'
+
+ujur → uwur 'ele vem' ou 'ele veio' tamũi → ramũi / quando possuído21 por [–3ª pessoa] ho → ro / quando possuído21 por [– 3ª pessoa] hakehar → rakehar / quando possuído21 por [– 3ª pessoa]
+
+10. PROBLEMAS.
+10.1. Auxiliares (i.e., antigos auxiliares).
+Ross (1967a, p. 1) argumenta que "auxiliares e verbos são realmente membros da mesma categoria, a do verbo". A gramática Urubu apoia este ponto de vista, pois tanto os verbos auxiliares quanto os principals admitem de igual maneira prefixos pessoais. Ocorrem assim séries como a seguinte:
+
+23) verbo principal Vaux progressivo
+
+jahyk
+
+jaho jaxo
+
+chegamos
+
+fomos estávamos
+
+lit: 'chegamos indo' em contraste com 'chegamos vindo'
+
+col: 'estávamos chegando' ou simplesmente 'chegamos'
+
+Numa análise original que abrangia os verbos auxiliares, as regras EF produziam o seguinte diagrama arboriforme (a seguir se dá apenas a parte competente):
+S
+
+V
+
+aux
+
+Vaux
+
+progressivo
+
+jahyk
+
+jaho
+
+jaxo
+
+O Vaux tem dois membros /ho/ 'ir' e /jur/ 'vir'. O progressivo com movimento tem apenas um membro /xo/. Tanto o Vaux quanto o progressivo podem ocorrer isoladamente na qualidade de verbo principal. Além disso, o Vaux pode co-ocorrer com o progressivo.
+A presente análise classifica os auxiliares como verbos principais, o que simplifica a sua descrição. Assim, uma série como a já referida sob nº 23) é apresentada como decorrente de sentenças encaixadas.
+S
+
+V
+
+S
+
+jahyk
+
+V
+
+S
+
+jaho
+
+V
+
+jaxo
+
+A simplificação de um aspecto, porém, complica outro, e no caso dos auxiliares na qualidade de verbos principais as presentes regras EF irão gerar uma série como:
+
+24) * jahyk chegamos
+
+jahyk
+chegamos
+
+jahyk
+chegamos
+
+e o inverso da sentença 23) (também não-gramatical)
+
+25) * jaho 26) * jaho
+
+jahyk jaxo
+
+jaxo jahyk
+
+etc. Existem mais três combinações não-gramaticais.
+
+A seguir se apresenta uma tentativa de impedir a formação de sentenças não-gramaticais. Com uma regra de concordância é possível impedir 1) a ocorrência de progressivo antes de outro verbo e 2) a ocorrência dupla de progressivo.
+
+[ ] + V – progressivo – estativo
+
+[ ] – ___ [+ progressivo] [+ progressivo] – [+ progressivo] ___
+
+Estas duas regras impossibilitam:
+
+27) * jahyk chegamos
+
+jaxo
+estávamos
+
+jaxo
+estávamos
+
+28 * jaxo estávamos
+
+jahyk
+chegamos
+
+mas, /ho/ e /jur/ permanecem problemáticos22.
+
+Uma solução seria talvez a sub-categorização dos verbos como [± aux]. Então, com as regras de concordância, é possível evitar as combinações erradas, assim:
+
+[ ] + V – progressivo – estativo
+
+[ ] – __ [+ aux] [+ aux ] – [+ aux] __ – __ [+ progressivo] [+ progressivo] – [+ progressivo] __ – __ [+ progressivo] [+ aux]
+
+10.2. Como já se mencionou na nota 11, /mu/ 'causativo' não é analisado no presente trabalho. Assim, a sentença 8 da página 3 não seria gerada por esta gramática. Evita-se este problema pela inclusão no léxico da forma completa /mupu'am/.
+
+10.3. Os substantivos devem ser sub-categorizados porque esta gramática irá gerar séries como:
+
+29) * ho – ta 30) * merẽ - ta
+
+'grupo de folhas' 'grupo de Beléns'
+
+mas as seguintes são gramaticais:
+
+31) jande - ta 32) pehẽ - ta
+
+'nós todos' 'vocês todos'
+
+10.4. Parece aconselhável sub-categorizar os substantivos em i) sempre possuídos, ii) facultativamente possuídos e iii) nunca possuídos. (v. nota 21)
+
+11. APÊNDICE: ÍTENS LEXICAIS.
+
+Todas as palavras usadas no presente trabalho aparecem a seguir. Outras palavras estão incluídas para exemplificar determinadas categorias (p. ex., [+ modo]).
+
+[ ] + Adv + tempo
+
+[ ] + Adv + Loc
+
+apo i'e irande koĩ
+
+'agora' 'há algum tempo' 'amanhã' (fala feminina) 'amanhã' (fala masculina)
+
+a'e xe kotete
+
+'ali' 'lá' (apontando) 'perto'
+
+pahar wewe
+
+[ ] + adv + modo
+
+(não usados neste estudo)
+
+'depressa' 'devagar'
+
+rehe ngi
+
+[+P] 'para, a, em' 'de'
+
+rupi pe
+
+'através de, por' 'em'
+
+[ ] + progressivo + movimento
+
++ classe i
+
+xo
+
+'estar'
+
+[ ] + progressivo + de pé
+
++ classe u
+
+'am
+
+'estar'
+
+[ ] + progressivo + sentado
+
++ classe u
+
+ĩ
+
+'estar'
+
+[ ] + progressivo + deitado
+
++ classe o
+
+u
+
+'estar'
+
+[+V + estativo
+
+]
+
+tawa
+
+'amarelo'
+
+peteĩ
+
+'um'
+
+[+V – estativo – progressivo + _____
+
+]
+
++ classe o
+
+ho
+
+'ir'
+
+[ ] +V – estativo – progressivo + _____
+
++ classe u
+
+hyk
+
+'chegar'
+
+jur
+
+'vir'
+
+[+V – estativo – progressivo + ____
+
+]
+
++ classe i
+
+hõ
+
+'ir'
+
+[+V – estativo + (FN)(FN)
+
+]
+
++ classe o
+
+mbor
+
+'jogar, atirar'
+
+japi jingo juka hawĩ mahem
+muji
+
+[ ] + V – estativo – progressivo + (FN)(FN)
+'atirar' (com espingarda) 'atirar' (com flechas) 'matar' 'tirar a pele' 'encontrar' 'assar' (em espeto), 'fazer assar'
+
+[+N – Pro
+
+]
+
+aman arapuha hakehar ho jakare jangwate jape'a jaxi jurukã kaitã kapitã ka'a kijuwy mái
+
+'chuva' 'veadinho' 'esposa' 'folha' 'jacaré' 'onça, jaguar' 'lenha' 'jabuti' 'costelas' 'Kaitã' 'capitão' 'selva, floresta' 'cujubim' 'mãe'
+
+[ ] +V – estativo – progressivo + ____
+
+parahy mano
+
+'estar zangado' 'morrer'
+
+[ ] +V – estativo + (FN)(FN)
+
++ classe u
+
+'u
+
+'comer, beber'
+
+muka'ẽ
+mondok mupu'am mupupur reko mujukyr
+
+'assar' (em plataforma), 'fazer assar' (dessecar) 'cortar' 'fazer ficar em pé' 'fazer ferver' 'ter' 'fazer salgar'
+
+merẽ ngã nexĩ ok pako pira sepetu so'o tajahu takwar tamũi wasai warahy xuã
+
+'Belém' 'gente' 'Nexĩ' 'casa' 'banana' 'peixe' 'espeto' 'carne, caça' 'porco selvagem' 'flechas' 'antepassados, avô' 'açaí' 'sal' 'João'
+
+[ ]+N + Pro + falante – ouvinte
+
+– plural
+
+ihẽ
+
+'eu, me'
+
+[ ]+N + Pro – falante + ouvinte
+
+– plural
+
+nde
+
+'você'
+
+[ ]+N + Pro – falante – ouvinte
+
+– plural
+
+a'e
+
+'ele, a ele'
+
+[ ]+N + Pro + falante – ouvinte + plural jande
+
+'nós, nos'
+
+[ ]+N + Pro – falante + ouvinte + plural pehẽ
+
+'vocês'
+
+NOTAS
+
+1.
+
+A língua Urubu pertence à família Tupi-guarani e é falada por uns 500 indígenas na região nordeste do
+
+Brasil. O autor tem colhido dados lingüísticos durante uns 10 anos sob auspícios do Summer Institute of Linguistics,
+
+em função dos convênios celebrados com o Museu Nacional do Rio de Janeiro e o Ministério do Interior – Fundação
+
+Nacional do Índio. Tem elaborado uma análise (inédita) da gramática Urubu à base do modelo tagmêmico. Seu estu-
+
+do 'Urubu Sign Language' (língua de gestos dos Urubu) foi publicado no IJAL, Vol. 34, Nº 4, outubro, 1968.
+
+2.
+
+No caso das outras disposições, parece haver menos freqüência de uso e nenhuma mudança de significado.
+
+Devem ocorrer as seguintes: SOV, VS, VO. Estas podem ser derivadas através de transformações da disposição
+
+'predileta', OSV.
+
+3.
+
+Entre os proponentes de tal gramática figura Burt (1971).
+
+4.
+
+Os sufixos são unidos com hífen para identificá-los. Existe para tal prática um motivo fonológico, ou seja o
+
+padrão de acentuação.
+
+5.
+
+As seguintes abreviaturas são utilizadas para facilitar a leitura do presente estudo. Outros símbolos,
+
+geralmente aceitos e empregados nas gramáticas gerativas, aparecem no texto sem figurarem na lista a seguir:
+
+Adv cert FP imper Intens loc neg
+
+– advérbio – certeza – frase preposicional – imperativo – intensificador – locativo – negativo
+
+nom poss PreS Pro qualif Vaux
+
+– nominativo – possessivo – pré-sentença – pronome – qualificador – verbo auxiliar
+
+6.
+
+Não se estuda PreS no presente trabalho. As sentenças interrogativas são formadas através do uso de
+
+palavras interrogativas ou, faltando estas, por padrões entonacionais.
+
+7.
+
+Pode haver ambigüidades, contudo, na terceira pessoa se o assunto do texto ou conversa abrange mais de
+
+uma terceira pessoa. A ambigüidade pode resolver-se através de menção específica do sujeito, mas isto não modifica
+
+o caráter facultativo da FN subjetiva.
+
+8.
+
+É possível estabelecer mais uma sub-categoria de 'direção' mas falta evidência suficiente para justificar tal
+
+procedimento. As expressões 'além do rio', 'mais adiante' e outras semelhantes são essencialmente locativas embora
+
+coexista nelas a idéia de 'direção'.
+
+9.
+
+Note-se que esta sentença exemplifica o encaixamento no objeto.
+
+10. Alguém' é palavra postiça se aquele que assou não é o mesmo que comeu, mas seria 'eu' se aquele que comeu fosse o mesmo que assou.
+
+11. /mu/ 'causativo' é prefixo derivacional é não é tratado no presente trabalho. Desempenha também o papel de modificador de classe, convertendo verbos estativos (ka'ẽ, etc.) em transitivos que admitem todos os prefixos pessoais. Converte outrossim verbos intransitivos em transitivos. É de fato transitivizador. Assim:
+
+[ ] /itawa/ ele amarelo + estativo
+
+[ /uhyk/ ele chega
+
+]
+
+– estativo
+
+/amutawa/ 'fiz que algo/alguém se tornasse amarelo' /amuhyk/ 'fiz alguém/algo chegar'
+
+12. */pako itawa a'u-ta/ não é gramatical, como também os verbos /mu/ em posição de modificador.
+13. Não existe voz passiva na língua Urubu, portanto não se pode dizer 'a carne foi salgada (por alguém)'.
+14. Não há verbo existencial (i. e., 'ser') em Urubu, embora exista verbo locativo (i. e., 'estar'). Nesta análise os numerais levam as seguintes características :
+[ ] +V + estativo – falante – ouvinte
+15. Embora a cláusula 'tenho antepassados' tenha sido construída na estrutura profunda, é com certas restrições por causa do verbo /reko/ 'ter'. Seu significado tem ganho conotação sexual, deixando de indicar possessão no sentido mais geral. É usado de vez em quando sem ambigüidade mas por via de regra é aconselhável omitir esta palavra. Se for considerado verbo abstrato de possessão nunca realizada na estrutura de superfície, contudo, não há mais problema.
+16. A teoria de formação de possessivos, geralmente proposta no caso das gramáticas transformacionais, deve sofrer modificações, pois não existe na língua Urubu nenhuma preposição de possessão com o significado 'de'. Tal teoria alternativa poderia talvez ser aplicável também no caso de outras línguas sem preposição de possessão 'de'.
+17. 'Plural' aqui significa 'coletividade' ou 'grupo'. Assim, a tradução de 'kaitã-ta' é 'gente-kaitã', 'tajahu-ta' significa 'grupo de porcos selvagens'.
+18. Já que o presente estudo analisa somente a ordem OSV, as outras disposições são omitidas. Uma descrição integral da gramática Urubu iria omitir também a terceira linha para admitir a ordem SOV (v. também a nota 2).
+19. A terceira pessoa pode ser [± plural] e por isso se omite esta característica.
+20. Parece aconselhável mencionar estas duas características para chamar a atenção a elas; podem ser omitidas, contudo, pois são [±].
+
+21. Estes três itens devem aparecer separadamente porque exemplificam uma regra para substantivos possuídos que não forma parte da presente gramática. Tal regra se aplica a todos os substantivos que começam com letra [t] e modificam este [t] em [r] quando o substantivo é possuído por [– 3ª pessoa]. O [t] se converte em [h] quando o substantivo é possuído por [+ 3ª pessoa].
+
+22. * jaho
+
+jahyk
+
+fomos
+
+chegamos
+
+Qual seria a realização de 'Vim, vi, venci'?
+
+BIBLIOGRAFIA
+AMERICAN PSYCHOLOGICAL ASSOCIATION, CONSELHO EDITORIAL 1957 -- Publication Manual of the American Psychological Association. (Ed. rev.). Washington, D. C.: APA.
+BURT, MARINA K. 1971 -- From deep to surface structure. Nova York, Harper and Rowe.
+CHOMSKY, NOAM 1957 -- Syntactic structures. Haia: Mouton e Cia. 1965 -- Aspects of the theory of syntax. Cambridge: Prelo do MIT.
+GREENBERG, JOSEPH H. 1963 -- "Some universals of grammar" em Joseph H. Greenberg (Ed.) Universals of Language. Cambridge: Prelo do MIT.
+ROSS, JOHN ROBERT 1967a -- Auxiliaries as main verb. (versão preliminar). Cópia Xerox. MIT. 1967b -- Gapping and the ordering of constituents. Trabalho Nº 8 PEGS. MIT.
+
+Tradução de Mary L. Daniel
+
+

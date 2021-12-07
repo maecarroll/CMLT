@@ -1,0 +1,2547 @@
+Universidade Federal do Rio de Janeiro O NÚMERO EM YE’KUANA: UMA PERSPECTIVA TIPOLÓGICA
+Isabella Coutinho Costa 2013
+
+O NÚMERO EM YE’KUANA: UMA PERSPECTIVA TIPOLÓGICA
+Isabella Coutinho Costa
+Dissertação de Mestrado apresentada ao Programa de Pós-Graduação em Lingüística da Universidade Federal do Rio de Janeiro como parte dos requisitos para a obtenção do Título de Mestre em Linguística Orientadora: Prof . Doutora Kristine Sue Stenzel
+Rio de Janeiro Julho de 2013
+
+O NÚMERO EM YE’KUANA: UMA PERSPECTIVA TIPOLÓGICA
+Isabella Coutinho Costa
+Orientadora: Prof . Doutora Kristine Sue Stenzel
+Dissertação de Mestrado submetida ao Programa de Pós-graduação em Linguística da Universidade Federal do Rio de Janeiro – UFRJ, como parte dos requisitos para a obtenção do Título de Mestre em Linguística.
+Examinada por:
+_________________________________________ Presidente, Professora Doutora Kristine Sue Stenzel, FL/UFRJ _________________________________________ Professora Doutora Bruna Franchetto, PPGAS/MN/UFRJ _________________________________________ Doutora Gelsama Mara Ferreira dos Santos _________________________________________ Prof. Dr. Marcus Antônio Rezende Maia, FL/UFRJ – Suplente _________________________________________ Prof. Dr. Andrés Pablo Salanova, Universidade de Ottawa (Canadá - Suplente)
+Rio de Janeiro Julho de 2013
+
+Costa, Isabella Coutinho. O Número em Ye’kuana: uma perspectiva tipológica / Isabella Coutinho
+Costa. Rio de Janeiro: UFRJ / FL, 2013.
+xiv, 126 f. il.
+Orientadora: Kristine Sue Stenzel Dissertação (mestrado) – UFRJ / FL / Programa de Pós-Graduação em Linguística, 2013. Referências Bibliográficas: f.
+1. Língua Indígenas Brasileiras. 2. Morfologia. 3. Linguística – Dissertação. I. Stenzel, Kristine Sue. II. Universidade Federal do Rio de Janeiro, Faculdade de Letras, Programa de Pós-graduação em Linguística. III. Título.
+
+Dedico esta dissertação a minha mãe ‘branca’ Cecilia, que me ensinou a olhar as palavras e amá-las,
+E a minha mãe Ye’kuana Cecita (in memorian), que me mostrou o amor com o olhar.
+
+(...) Mas poucos sabem qual o rio da minha aldeia
+E de onde ele vai E pra onde ele vem E por isso pertence a menos gente. É mais livre e maior o rio da minha aldeia.
+(...) Alberto Caeiro
+
+AGRADECIMENTOS
+Realizar este trabalho teria sido impossível sem a participação de várias pessoas.
+Em primeiro lugar gostaria de agradecer a dois professores da Universidade Federal de Roraima: a professora Odileiz Sousa Cruz, que me ensinou a olhar para a diversidade linguística do mundo e de Roraima; o professor Elder Lanes, constante incentivador da minha ida para cursar o mestrado no Rio de Janeiro e, principalmente, por ter me apresentado aos Ye’kuana.
+Aos Ye’kuana, que me receberam como parte da família, em especial: - a Mauricio Ye’kuana, pela amizade, carinho e confiança. Obrigada por me deixar partilhar dos seus sonhos e ideias! - ao Sr. Davi Magalhães, tuxaua da aldeia Fuduuwaduinha, pelas conversas e pelo cuidado; um agradecimento todo especial à sua família, dona Lucia, Juraci, e todas aquelas meninas que enriqueceram meus dias e meu aprendizado da língua e da cultura Ye’kuana; - aos Professores Reinaldo Wadeyuna e Henrique Gimenes, por me ensinarem sua língua e por cuidarem de mim na aldeia; - ao querido Júlio David Magalhães, professor dedicado, talentoso no uso e no conhecimento implícito da sua língua. Agradeço pelas descobertas e pela amizade; - ao Sr. Tomé, que me permitiu fazer da sua família a minha também: Cecita (in memorian), Teoneide, Marciane, Luciane, Márcio, Marciano, Jaqueline e o meu pequeno Jaquiel; - a Viviane Cajusunaima pela amizade, pelas conversas e risadas. Minha mais nova irmã. - a Castro Ye’kuana pela confiança e amizade; -a todos os Ye’kuana que me receberam com carinho e me que permitiram fazer parte de sua grande família.
+Aos amigos de Roraima: - Steven Nicodem, pela amizade constante, de longe ou de perto. O meu carinho sempre; - Mirella Miranda, pelas conversas oportunas, críticas e opiniões, risadas e lágrimas que rolaram ao longo deste processo que é a vida dentro e fora da Academia; - Stephany Oestereich (que nem é tão de Roraima assim), pela alegria de compartilhar sua amizade há tantos anos.
+Aos amigos da SESAI - Cinthia Barroso, pelo cuidado comigo durante minhas estadias em área, e pela amizade fora da área (e fora de série também); - Ronaldo e todo o pessoal do apoio logístico que me auxiliou durante as viagens.
+Aos amigos do Rio: - Ana Carmen, por partilhar poesias, músicas, filmes, ideias e a vida. Obrigada por tudo; - Thiago Coutinho-Silva, Lívia Camargo, Glauber Romling, Juliana Terciotti, que me ensinaram o que é estudar algo que se ama. Obrigada pelo apoio e pelas excelentes discussões e ensinamentos durante as sessões do GELA.
+
+- Rosana e Mark Nicodem, uma família linda e carinhosa que me recebeu de braços e coração abertos. - Juliano Leandro, meu querido amigo, que mesmo distante está sempre perto; - Juliana Nespoli e Pollyanna Castro, por partilhar conhecimentos de forma tão simples e sincera; - Elis Barros, que partilhou o mesmo sentimento de “ser do norte no Rio de Janeiro”; - Mara Santos, uma linguista espetacular, que me acolheu no PRODOCLIN e na sua vida com amizade e que foi fundamental para seguir em frente.
+Aos professores da UFRJ - ao professor Marcus Maia, que primeiro me recebeu em no Laboratório de Psicolinguística Experimental – LAPEX, e me trouxe de volta ao trabalho com línguas indígenas; - a professora Márcia Dâmaso pelas aulas sempre cheias de novidades sobre as línguas indígenas brasileiras, e por discutir dados até nos corredores; - a professora Carlota Rosa, que se apaixonou pela ideia do Verbal Number Ye’kuana; - especialmente a professora Bruna Franchetto que me acolheu em seus grupos de estudo, e me recebeu com sua amizade e generosidade.
+A Universidade Estadual de Roraima - ao reitor, Prof. Dr. Hamilton Gondim, Reitor da UERR, um eterno defensor da causa indígena em Roraima - aos colegas da Pró-Reitoria de Desenvolvimento Pessoal e da Pró-Reitoria de Pesquisa e Pós-Graduação, que sempre foram favoráveis às minhas viagens ao Rio; - a Pró-Reitoria de Ensino na pessoa da professora Nildete Melo, pelo apoio; - ao Prof. Dr. Devair Fiorotti, antes de ser meu chefe, um amigo, poeta, pesquisador e artista incansável. Obrigada pelo carinho e pelo apoio em momentos cruciais.
+A minha orientadora, a querida professora Dra. Kristine Stenzel, que foi de cumplicidade e compreensão ímpares. Mais do que orientar, me ajudou a entender como transformar a teoria em prática. Um exemplo de linguista, de professora e de pesquisadora.
+Finalmente, à minha família: minhas irmãs pelo carinho de sempre; aos meus pais pela certeza do amor incondicional. Vocês compraram todas as minhas ideias malucas e me fizeram certa de tê-los sempre esperando a minha volta para casa.
+
+RESUMO
+O NÚMERO EM YE’KUANA: UMA PERSPECTIVA TIPOLÓGICA Isabella Coutinho Costa
+Orientadora: Professora Doutora Kristine Sue Stenzel
+Resumo da Dissertação de Mestrado submetida ao Programa de Pós-graduação em Linguística da Universidade Federal do Rio de Janeiro – UFRJ, como parte dos requisitos para a obtenção do Título de Mestre em Linguística.
+Esta dissertação tem como objetivo descrever a categoria gramatical de número nas classes nome, pronome e verbo do Ye’kuana, uma língua da família Karíb. O capítulo I Introdução apresenta o povo Ye’kuana do Brasil e nele explico a metodologia utilizada durante a pesquisa para coleta e análise de dados. O capítulo II A língua Ye’kuana discute a classificação proposta por Gildea (2012) para a língua Ye’kuana, além de oferecer uma revisão bibliográfica do estado-da-arte das pesquisas realizadas até o momento, encerrando-se com uma descrição tipológica com ênfase na morfologia. O capítulo III Número em Perspectiva Tipológica traz uma revisão bibliográfica dos estudos tipológicos da categoria número e o capítulo VI Número em Ye’kuana analisa os dados do Ye’kuana com base na tipologia apresentada no capítulo III, além de trazer dados acerca do fenômeno Número Verbal. As Considerações Finais apresentam possibilidades de desdobramento desta pesquisa para trabalhos futuros. Por fim, os Anexos mostram os estímulos visuais utilizados durante as elicitações.
+Palavras-chave: Línguas Indígenas – Karíb – Ye’kuana – Número Autora: Isabella Coutinho Costa Orientadora: Professora Doutora Kristine Sue Stenzel Universidade Federal do Rio de Janeiro
+
+ABSTRACT
+THE NUMBER IN YE’KUANA: A TYPOLOGICAL PERSPECTIVE Isabella Coutinho Costa
+Orientadora: Prof . Doutora Kristine Sue Stenzel
+Abstract da Dissertação de Mestrado submetida ao Programa de Pós-graduação em Linguística da Universidade Federal do Rio de Janeiro – UFRJ, como parte dos requisitos para a obtenção do Título de Mestre em Linguística.
+This dissertation describes the gramatical category of number in nouns, pronouns and verbs in Ye’kuana, a language of Cariban Family. Chapter I Introduction presents the Ye’kuana people in Brazil and an overview of the methodology used in this research. Chapter II The Ye’kuana Language discusses the classification proposed by Gildea (2012) for the Ye’kuana, and offera a review of the literature involving research on Ye’kuana up to this moment. Chapter III Number in a Typological Perspective offers theoretical background on the typological studies of the category of number, while chapter VI Number in Ye’kuana analyzes data from Ye’kuana following the typology presented in chapter III, and additionally offers an analysis of the Verbal Number phenomenon. The Final Remarks presents further issues to be explored in future research. The Appendix shows the visual stimuli used to gather data related to the Verbal Number phenomenon.
+Key words: Indigenous Languages – Cariban – Ye’kuana – Number Author: Isabella Coutinho Costa Advisor: Professora Doutora Kristine Sue Stenzel Universidade Federal do Rio de Janeiro – UFRJ / Brazil
+
+LISTA DE GLOSAS
+
+1 2 3 3s 1:2 1/3 3/1 3/2 3/3 ANIM ASP ATR DECL COP COLL DEM3an DIM DIS DIST EXCL GEN INTENS ITER MASC NEG NEUT NPST NFUT NZR O OBL PAST PERF PDI PDP PL POS PRP RED REFL SUF QUADRAL RED REL TRIAL
+
+1ª. Pessoa 2ª. Pessoa 3ª. Pessoa 3ª. Pessoa sujeito intransitivo 1ª. Pessoa agentiva sobre 2ª. pessoa paciente 1ª. pessoa agentiva sobre 3ª. pessoa paciente 3ª. pessoa agentiva sobre 1ª. pessoa paciente 3ª. pessoa agentiva sobre 2ª. pessoa paciente 3ª. pessoa agentiva sobre 3ª. pessoa paciente Animado Aspecto Atributivo Declarativo Cópula coletivo Demonstrativo animado distante Diminutivo Distante Distributivo Exclusivo Genitivo Intensificador Iterativo Masculino Negação Neutro Não passado Não futuro Nominalizador Objeto Oblíquo Passado Perfectivo Passado distante imperfectivo Passado distante perfectivo Plural Possessivo Passado recente perfectivo Reduplicador Reflexivo Sufixo Quadral Reduplicador Relator ou Relativizador Trial
+
+LISTA DE FIGURAS
+
+Figura 2.1 Localização das línguas Karíb na América do Sul (Meira 2006:160) 27
+
+Figura 2.2 Classificação da Família Karíb proposta por Kaufman(1994,2007)
+
+adaptada de Gildea (2012:444)
+
+28
+
+Figura 2.3 Classificação da Família Karíb proposta por Gildea (2012:145)
+
+30
+
+Figura 2.4 Terra Indígena Yanomami - Ye’kuana
+
+32
+
+Figura 2.5 Estrutura da palavra nominal em Ye’kuana
+
+44
+
+Figura 2.6 Estrutura da palavra verbal em Ye’kuana
+
+47
+
+Figura 3.1 Sistema de marcação de número em línguas com distinção
+
+singular/plural/geral (adaptado de Corbett 2000:11)
+
+55
+
+Figura 3.2 Sistema de marcação de número em línguas com distinção
+
+singular/geral versus plural (adaptado de Corbett 2000:16)
+
+56
+
+Figura 3.3 Sistema de marcação de número em línguas com distinção
+
+geral/plural versus singular (adaptado de Corbett 2000:16)
+
+57
+
+Figura 3.4 Sistema de Hierarquia de Número (adaptado de Corbett 2000:238) 62
+
+Figura 3.5 Interação entre número-pessoa (adaptado de Silverstein 1976:171) 65
+
+Figura 3.6 Hierarquia de animacidade (adaptado de Dixon 1995:84)
+
+65
+
+Figura 4.1 Sistema com marcação de número singular/geral x plural (adaptado
+
+de Corbett:16)
+
+90
+
+Figura 4.2 Escala de agentividade dos nominais em Ye’kuana
+
+92
+
+Figura 4.3 Escala de agentividade dos nominais com posse em Ye’kuana
+
+96
+
+LISTA DE TABELAS
+
+Tabela 2.1 Sistema vocálico da língua Ye’kuana (adaptado de Cáceres 2011:58) 34
+
+Tabela 2.2 Consoantes da língua Ye’kuana
+
+35
+
+Tabela 2.3 Formas cognatas de coletivizadores em línguas do ramo guianense da
+
+família Karíb
+
+46
+
+Tabela 2.4 Marcadores da Série I (adaptado de Cáceres 2011:210)
+
+48
+
+Tabela 2.5 Marcadores da Série II (adaptado de Cáceres 2011:212)
+
+49
+
+Tabela 4.1 Quadro sinóptico das condições de uso do coletivizador em
+
+Ye’kuana
+
+92
+
+Tabela 4.2 Quadro sinóptico da marcação de número em construções de posse
+
+no Ye’kuana
+
+96
+
+Tabela 4.3 Pronomes pessoais do Ye’kuana (adaptada de Cáceres 2011:120)
+
+97
+
+Tabela 4.4 Pronomes inclusivos do Ye’kuana e do Tiriyó
+
+98
+
+Tabela 4.5 Pronomes demonstrativos do Ye’kuana
+
+99
+
+Tabela 4.6 Marcação de número e aspecto no verbo em Ye’kuana
+
+102
+
+SUMÁRIO
+
+1
+
+INTRODUÇÃO
+
+15
+
+1.1 Sobre os Ye’kuana
+
+17
+
+1.2 Objetivo e Metodologia da Pesquisa
+
+19
+
+1.2.1 Os consultores
+
+20
+
+1.2.2 A coleta de dados
+
+20
+
+1.2.3 Os dados
+
+21
+
+1.2.4 A apresentação dos dados
+
+22
+
+1.2.5 As viagens de campo
+
+22
+
+1.3 A estrutura do trabalho
+
+24
+
+2
+
+A LÍNGUA YE’KUANA
+
+26
+
+2.1 Ye’kuana: um membro do tronco guianense da família Karíb
+
+26
+
+2.2 Ye’kuana: análises linguísticas anteriores
+
+33
+
+2.3 Perfil fonológico do Ye’kuana
+
+34
+
+2.4 Perfil tipológico do Ye’kuana
+
+40
+
+2.4.1 A tipologia morfológica
+
+41
+
+2.4.2 Classes de palavras
+
+44
+
+2.4.2.1 Nomes
+
+44
+
+2.4.2.2 Verbos
+
+47
+
+2.5 A ordem dos constituintes
+
+50
+
+3
+
+NÚMERO EM PERSPECTIVA TIPOLÓGICA
+
+52
+
+3.1 Distintas marcações de número nas línguas do mundo
+
+52
+
+3.1.1 Distinções de número em formas pronominais
+
+59
+
+3.1.2 Hierarquia de número
+
+62
+
+3.2 Estratégias envolvidas na expressão de quantidade
+
+64
+
+3.2.1 Hierarquias de pessoa, animacidade e agentividade
+
+64
+
+3.2.2 Concordância
+
+68
+
+3.2.3 Distributivos e Coletivos
+
+68
+
+3.2.4 A distinção massivo-contável
+
+71
+
+3.3 Número Verbal
+
+72
+
+4
+
+NÚMERO EM YE’KUANA
+
+76
+
+4.1 O tratamento da categoria número nas pesquisas anteriores do Ye’kuana
+
+76
+
+4.1.1 Conclusões preliminares
+
+84
+
+4.2 4.2.1 4.3 4.3.1 4.4 4.5 4.6 4.7 4.7.1
+4.7.2 4.7.3 4.7.4 4.7.5 4.7.6 4.7.7 5 6 7
+
+A marcação de número no nome: coletivo ou plural?
+
+84
+
+Conclusões preliminares
+
+92
+
+Distinções de número nos nominais em construções de posse
+
+93
+
+Conclusões preliminares
+
+96
+
+Distinções de número em formas pronominais
+
+97
+
+Distinções de número em posposições e advérbios
+
+100
+
+Distinções de número em formas verbais
+
+101
+
+O número verbal
+
+103
+
+Procedimentos para a coleta de dados acerca da pluriacionalidade em
+
+Ye’kuana
+
+104
+
+Número verbal em verbos transitivos (A/P)
+
+106
+
+Número verbal em verbos transitivos (A/Ppl)
+
+107
+
+Número verbal em verbos transitivos (Apl/P)
+
+108
+
+Número verbal em verbos transitivos (Apl/Ppl)
+
+109
+
+Número verbal em verbos intransitivos
+
+110
+
+Conclusões preliminares
+
+112
+
+CONSIDERAÇÕES FINAIS
+
+114
+
+REFERÊNCIAS BIBLIOGRÁFICAS
+
+117
+
+ANEXOS
+
+122
+
+1 INTRODUÇÃO
+Este trabalho é o resultado de um desejo muito grande de estudar as línguas indígenas de Roraima, Estado que, ao mesmo tempo em que se propaga uma valorização das culturas indígenas locais, mantém uma disputa nada velada pela terra e pelos bens que ela pode proporcionar. Convivendo no meio deste conflito, desde muito cedo entendi que tomar uma posição pela defesa de línguas e culturas indígenas é se fazer uno com esta causa.
+Foi a partir de uma experiência em 2007 como professora do Magistério Indígena, oferecido pela Secretaria de Educação do Estado de Roraima, que travei conhecimento com os Ye’kuana. Em 2010 surgiu a oportunidade de desenvolver uma pesquisa na área de Psicolinguística, e sob a orientação do Professor Marcus Maia, desenvolvi um experimento que verificava o processamento da alternância causativa por falantes bilíngues do Ye’kuana. Tal trabalho me levou a propor um projeto de mestrado que investigasse essa língua.
+Ao iniciar meus estudos sobre a língua Ye’kuana, independentemente das tarefas que teria que cumprir no âmbito de qualquer programa de pós-graduação que aceitasse meu projeto, primeiramente deveria saber qual a necessidade que o povo, junto ao qual me propus trabalhar, tinha naquele momento. Dentre várias, a principal foi ajudar os Ye’kuana a fazer um dicionário, ou uma espécie de enciclopédia do saber tradicional, que pudesse agregar os conhecimentos dos antigos elencando o saber que “faz” um Ye’kuana, e também pudesse ser utilizado com finalidade didática, nas aulas de língua e cultura nas escolas.
+A minha preocupação, a partir do momento em que meu projeto foi aceito no Programa de Pós-graduação em Linguística da Universidade Federal do Rio de Janeiro,
+15
+
+ficou dividida entre atender simultaneamente às questões acadêmicas e às questões práticas referentes à necessidade que os Ye’kuana têm de entender sua língua para utilizar esse conhecimento na produção de materiais didáticos. Na primeira questão, no plano teórico da Tipologia Linguística, o objetivo é atender às exigências de descrição e análise de fenômenos linguísticos, que possam revelar propriedades universais das línguas humanas. Na segunda questão, o objetivo é transformar esse conhecimento acadêmico em um conhecimento acessível nas escolas indígenas.
+Morar em Roraima é estar sempre em contato com a situação dos povos indígenas, não só através da mídia, mas pela própria constituição do povo roraimense. Como nasci em Roraima, sempre me questionei a respeito dos direitos que estes povos tinham frente à ocupação dos lavrados por agricultores vindos do nordeste, principalmente, sendo meus avós parte deste grupo. Os estudos de linguística, na universidade, me permitiram adentrar neste universo que sempre foi tão fascinante. Já como professora do Magistério Indígena, conforme mencionei acima, travei o primeiro contato com os Ye’kuana e com outros alunos de outros povos indígenas; como é de praxe nesses contextos, mais aprendi do que ensinei. Anos depois, durante a realização do experimento de psicolinguística orientado pelo professor Marcus Maia, me aproximei dos jovens Ye’kuana que cursavam a Licenciatura Intercultural do Instituto Insikiran da Universidade Federal de Roraima e eles se mostraram muito receptivos e curiosos quanto ao andamento da pesquisa. A partir daí procurei não perder o vínculo com eles, e procurei desde então atuar em parceria com a Associação dos Povos Ye’kuana do Brasil – APYB.
+Na próxima seção farei uma breve apresentação dos Ye’kuana, seguida de explicitação da metodologia da pesquisa e da descrição dos objetivos desta dissertação. Por último, apresentarei a estrutura deste trabalho.
+16
+
+1.1 Sobre os Ye’kuana
+Os Ye’kuana, povo que fala uma língua que pertence à família linguística Karíb, podem ser encontrados ao sul da Venezuela e no Brasil. Na Venezuela eles se dividem entre os estados Amazonas e Bolívar, e no Brasil estão localizados no extremo noroeste do estado de Roraima, na Terra Indígena Yanomami, região de Auaris. Segundo Cáceres (2011), o último recenseamento na Venezuela indicou 6.500 pessoas que vivem entre o estado Amazonas e o estado Bolívar. No Brasil, as informações concedidas pela Secretaria de Saúde Indígena – SESAI através do censo de vacinação indicam 500 pessoas, que estão divididas em quatro aldeias, sendo três ao longo do Rio Auaris: Fuduuwaduinha, com cerca de 250 pessoas; Pedra Branca, com 20 pessoas; e Kudatanha, com 50 pessoas. Na cabeceira do rio Uraricoera encontra-se a última aldeia Ye’kuana brasileira, Waikás, com cerca de 150 pessoas. Fora essas aldeias, cerca de 30 jovens residem atualmente na capital de Roraima, Boa Vista, onde concluem seus estudos em nível Médio ou Superior. Nas aldeias mencionadas acima, a língua que prevalece é o Ye’kuana. Apenas os homens maiores de 18 anos (que já foram estudar em Boa Vista) e algumas mulheres jovens falam português. Esse diagnóstico é válido para todas as aldeias Ye’kuana do Brasil.
+Os Ye’kuana construíram suas aldeias ao longo do rio Auaris (no caso dos índios brasileiros) ocasionalmente mudando sua localização de um lado do rio para o outro. Segundo as narrativas dos antigos1, o primeiro Ye’kuana teve origem na serra Atawanna, localizada ao sul da Venezuela. Para muitos, a distância da aldeia Waikás, localizada no rio Uraricoera e fora do território considerado sagrado, é um dos indícios de que a era dos Ye’kuana está chegando ao fim. Há muitas versões das narrativas sobre
+1 Essas narrativas foram contadas durante as reuniões para escolha do símbolo da Associação Ye’kuana, que fui justamente um desenho da serra Atawanna. Essas reuniões foram realizadas em Janeiro de 2012 na aldeia Fuduuwaduinha.
+17
+
+a origem e o fim dos Ye’kuana. Chamadas Watunna, essas narrativas foram estudadas por Civrieux (1979) e Guss (1989) a partir do depoimento dos índios da Venezuela. Recentemente Andrade (2007) revisitou as Watunna dos Ye’kuana do Brasil.
+Em geral, alguns ritos de passagem, festas tradicionais, culinária, agricultura, medicina foram preservados, tanto pelos Ye’kuana brasileiros quanto venezuelanos, com uma ou outra intervenção dos costumes dos brancos. No Brasil, particularmente, os Ye’kuana se mostraram severamente resistentes às mudanças impostas pela religião dos missionários que chegaram em Auaris na década de 60, mas mesmo assim foram deixando de cumprir alguns rituais, principalmente os que envolviam alimentação, em função da escassez de caça e pesca. Recentemente foi decidido que a passagem de ano vai ser celebrada no mês de fevereiro, pois, de acordo com o calendário tradicional Ye’kuana, é em fevereiro que acontece a mudança de um ano para outro. As passagens de fase da menina (Ajichoto), a festa da primeira enfeitação do bebê (quando ele usa enfeites de miçanga pela primeira vez) e as festas em torno de construções de casa, ou de abertura de roças, são exemplos de rituais ainda preservados na vida Ye’kuana.
+Atualmente as aldeias Ye’kuana do Brasil estão passando por um processo de ‘retorno às origens’ através da busca das antigas tradições que foram se perdendo ou enfraquecendo ao longo dos anos com o aumento do contato com os brancos. Uma prova disso é a reformulação do Projeto Político Pedagógico das escolas Ye’kuana. Tais projetos tem se acomodado aos costumes tradicionais ao priorizar a inclusão no currículo das histórias dos antigos, a arte e o conhecimento medicinal que faz parte do saber Ye’kuana.
+Somente as aldeias Fuduuwaduinha, Kudatainha e Waikás possuem escolas, que atendem crianças que cursam o Ensino Básico. Nessas escolas a maioria dos professores tem ou está concluindo o Magistério Indígena, oferecido pela Secretaria de Educação.
+18
+
+Outros estão cursando ou já cursaram a Licenciatura Intercultural oferecida pela Universidade Federal de Roraima através do Instituto Insikiran de Formação Superior Indígena.
+A língua Ye’kuana é classificada dentro do ramo Guianense da família linguística Karíb, de acordo com a recente classificação proposta por Gildea (2012), a partir da comparação das semelhanças fonológicas e morfossintáticas entre o Ye’kuana e as línguas dos grupos Kari’nja, Taranoano e Wayana (conferir seção 2.1). Cáceres (2011:51) propõe, a partir do estado atual da sua pesquisa e, ao mesmo tempo, justificando a classificação de Gildea (2012), que as semelhanças entre o Ye’kuana e o Kari’nja e o Ye’kuana e as línguas do ramo Venezuelano foram motivadas por contato linguístico, sem, no entanto, saber avaliar precisamente de que forma esse contato ocorreu. Mais informações sobre a língua Ye’kuana e sua relação com outras línguas da família Karíb serão apresentadas no segundo capítulo.
+1.2 Objetivo e Metodologia da Pesquisa O objetivo desta pesquisa é investigar a marcação de número em nomes, verbos
+e pronomes da língua Ye’kuana, e comparar os padrões encontrados nessa língua com os padrões de línguas da família Karíb. Dentro da perspectiva funcional-tipológica (Dixon 2010; Comrie 1989; Payne 1997; Croft 2003; Corbett 2000), as informações aqui levantadas deverão contribuir para a compreensão dos sistemas de marcação de número nas línguas do mundo, fornecendo dados para comparação e análise de padrões translinguísticos.
+19
+
+1.2.1 Os consultores Os principais consultores que fizeram parte desta pesquisa são:
+• Julio David Magalhães, 30 anos, aluno do curso Gestão Territorial Indígena do Instituto Insikiran da Universidade Federal de Roraima.
+• Henrique Aleuta Gimenes, 45 anos, professor da Escola Estadual Ye’kuana Apolinário Gimenes. Formado em Comunicação e Artes pelo Instituto Insikiran da Universidade Federal de Roraima.
+• Viviane Cajusuanaima, 26 anos, professora da Escola Estadual Ye’kuana Apolinário Gimenes. Acadêmica de Ciências Sociais do Instituto Insikiran da Universidade Federal de Roraima.
+• Reinaldo Wadeyuna, 40 anos, professor da Escola Estadual Ye’kuana Apolinário Gimenes. Formado em Comunicação e Artes pelo Instituto Insikiran da Universidade Federal de Roraima.
+Todos os consultores são falantes fluentes do Ye’kuana, tendo aprendido português apenas a partir dos 16 anos de idade.
+1.2.2 A coleta de dados
+Durante os trabalhos de campo os consultores responderam elicitações de frases, gravaram e transcreveram narrativas. Para investigar o fenômeno do número verbal, foi necessário realizar uma coleta de dados com estímulos visuais (ilustrações) para verificar a ocorrência do número verbal, fenômeno encontrado na língua Ye’kuana que será explicado no capítulo quatro. Excetuando-se as coletas realizadas em campo, também foram realizadas sessões especiais de coleta de dados com informantes Ye’kuana na cidade de Boa Vista, Roraima.
+20
+
+Sobre essa coleta realizada em ambientes distintos, é necessário explicar que, para o linguista é importante coletar dados no contexto natural em que eles são utilizados, e para tanto, a coleta de dados (narrativas e entrevistas) na aldeia é imprescindível. O trabalho do ‘corpo a corpo’ com os falantes, saber e viver a hora, o local e o momento da fala é indispensável para o linguista, mas às vezes é necessário utilizar de recursos na coleta de dados específicos que são mais difíceis de ser obtidos no dia-a-dia na aldeia, seja pela rotina dos consultores, que muitas vezes são tirados dos seus afazeres diários para cooperar com a pesquisa, seja porque sem sempre há condições de manter nas aldeias equipamentos que visam uma qualidade melhor de captação para análises mais rigorosas. A coleta de dados na aldeia também pode ser menos frutífera no que tange a questão de análise detalhada dos dados, transcrição, tradução e elicitação, ou seja, quando é necessário obter dados mais controlados. Dessa forma, a despeito das viagens realizadas a campo, outras coletas de dados foram necessárias na cidade de Boa Vista para elucidar fenômenos, realizar traduções e elicitações que surgiram durante a análise dos dados.
+1.2.3 Os dados
+Os dados coletados para esta pesquisa estão organizados em bancos de dados lexicais e textuais e correspondem aos seguintes corpora:
+• O banco de dados lexical contém aproximadamente 500 palavras, coletadas com os consultores Reinaldo Wadeyuna e Henrique Gimenes.
+• O banco de dados textual apresenta a seguinte configuração: - cerca de mil frases elicitadas, coletadas com o consultor Júlio David;
+21
+
+- três narrativas, sendo um depoimento sobre a evolução da língua Ye’kuana, uma história de vida e uma narrativa tradicional que trata de como o herói Ye’kuana Kwamaashi derrotou a onça. Todas as narrativas foram coletadas com o consultor Henrique Gimenes e foram devidamente transcritas e traduzidas para o português pelos consultores Júlio David e Viviane Cajushuanaima. As elicitações foram obtidas com os consultores Júlio David e Reinaldo Wadeyuna. Para o armazenamento e sistematização dos dados foram utilizados os softwares Toolbox e Transcriber.
+1.2.4 A apresentação dos dados Os dados apresentados no capítulo dois, referentes à seção de revisão da
+literatura sobre a língua Ye’kuana (seção 2.2) e os dados apresentados no capítulo três acerca da revisão de literatura sobre tipologia de marcação de número não apresentam transcrição fonética, pois foram reproduzidos tal como aparecem nas obras de origem. Os dados que foram especificamente coletados para realizar esta pesquisa apresentam na primeira linha a transcrição fonética, na segunda linha a transcrição ortográfica com segmentação morfológica, na terceira linha as glosas correspondentes e na quarta linha a tradução para o português.
+1.2.5 As viagens de campo Para realizar esta pesquisa, excetuando o tempo de preparação teórica e
+metodológica para a pesquisa, foram realizadas duas viagens para a comunidade Ye’kuana Fuduuwaduinha de Auaris, e uma viagem para a comunidade Ye’kuana de Waikás, totalizando dois meses de pesquisa de campo.
+22
+
+A primeira viagem de campo aconteceu no mês de janeiro de 2011, antes do início das aulas do Programa de Pós-graduação da UFRJ, e teve como objetivo consultar os Ye’kuana sobre a realização da pesquisa linguística que eu iria desenvolver. Na ocasião, ocorreu uma reunião na escola Apolinário Gimenes, na qual fui apresentada e pedi permissão para realizar pesquisa sobre a língua. Os líderes e professores presentes pediram que, paralelamente a minha pesquisa, eu os auxiliasse na elaboração de um dicionário ou enciclopédia, que reunisse dados da língua e da cultura Ye’kuana. Como a pesquisa que iria realizar ainda não tinha um objetivo definido, foi realizada uma coleta de dados de âmbito mais geral, que incluiu a gravação de uma história e a coleta de cerca de 300 verbos em Ye’kuana.
+Em janeiro de 2012, após dois semestres de estudo no programa de Mestrado, ocorreu a segunda viagem para a aldeia Ye’kuana Fuduuwaduinha com três objetivos: realizar a Primeira Oficina do Dicionário Ye’kuana, coletar dados para a pesquisa linguística e realizar a Oficina de Miçangas. A Oficina do Dicionário ocorreu durante uma semana e contou com a participação de aproximadamente 50 pessoas, entre professores, líderes, anciãos, mulheres e crianças. Os professores escolheram os campos semânticos importantes da língua Ye’kuana e reuniram-se com mulheres e anciãos para escrever histórias, fazer desenhos e levantar palavras tradicionais sobre cada campo. A Oficina de Miçangas foi promovida pelo Museu do Índio (FUNAI) em parceria com a UNESCO no âmbito do Programa de Documentação de Culturas Indígenas, o ProgDOC. Nesta oficina, que durou vinte dias e foi realizada na aldeia Fuduuwaduinha, os Ye’kuana puderam resgatar as histórias tradicionais envolvendo a origem e o uso das contas de miçanga. Todas as histórias foram gravadas e filmadas e encontram-se atualmente no acervo documental Ye’kuana do Museu do Índio Ao todo foram gravadas 10 fitas MdV, foram tiradas 669 fotos e o material de áudio totaliza 7h 29m.
+23
+
+Enquanto os homens se encarregavam da parte historiográfica, as mulheres confeccionaram tangas, colares, pulseiras, tornozeleiras e outros adornos utilizando as miçangas. Tais peças serão utilizadas para compor o acervo Ye’kuana do Museu do Índio, e com o material filmado será produzido um pequeno documentário, dirigido pelos próprios pesquisadores Ye’kuana.
+No mês de julho de 2012 realizei a terceira viagem, que teve por objetivo apresentar o andamento dos trabalhos de pesquisa linguística, por ocasião da II Assembleia do Povo Ye’kuana, na aldeia Waikás. Na ocasião, ficou decidido que Waikás sediaria a próxima Oficina do Dicionário.
+1.3 A estrutura do Trabalho
+O capítulo dois tem início com informações sobre a língua Ye’kuana, sua classificação dentro do ramo guianense da família linguística Karíb, e as motivações para essa classificação (Gildea 2012). Em seguida ofereço uma revisão bibliográfica da literatura existente sobre a língua, e finalizo o capítulo com um resumo tipológico do Ye’kuana.
+O capítulo três é dedicado a uma revisão bibliográfica sobre a expressão da categoria número: como as línguas do mundo realizam essa marcação, e como funcionam as línguas que não marcam número. Também mostro outras estratégias e propriedades envolvidas na marcação de número, como a hierarquia de animacidade, a concordância, expressões de massivo-contável, e o fenômeno do número verbal.
+No capítulo quatro apresento os dados do Ye’kuana para analisar a marcação de número em nomes e pronomes, tentando estabelecer uma fronteira entre categorias de singular, coletivo e plural; também mostro outras categorias envolvidas na marcação de número no nome. Em seguida, mostro as estratégias utilizadas na marcação de número
+24
+
+nos verbos, verificando distinções de aspecto e de pluriacionalidade. Ao longo do capítulo quatro traço uma visão comparativa sobre as estratégias de marcação de número utilizadas por outras línguas da família Karíb.
+Finalmente, ofereço um resumo das conclusões obtidas no decorrer da pesquisa. As ilustrações utilizadas como estímulos nas elicitações realizadas para este trabalho são mostradas no Anexo.
+25
+
+2 A LÍNGUA YE’KUANA
+A primeira parte deste capítulo situa a língua Ye’kuana dentro do contexto linguístico da família Karíb a partir da recente classificação proposta por Gildea (2012), e oferece informações geográficas e etnográficas acerca dos Ye’kuana. A segunda parte (2.2) traz um resumo das pesquisas linguísticas sobre o Ye’kuana realizadas até o momento. A seção 2.3 apresenta um perfil fonológico do Ye’kuana enquanto a seção 2.4 compreende uma breve descrição tipológica do Ye’kuana, enfocando a tipologia morfológica da língua e as classes de palavras (nome e verbo). Finalmente a seção 2.5 traz algumas informações acerca da ordem dos constituintes em Ye’kuana.
+2.1 Ye’kuana: um membro do tronco guianense da família Karíb O Ye’kuana é uma língua da família Karíb, a segunda maior família linguística
+da América do Sul, ficando atrás da família Aruák. As línguas Karíb são faladas no norte da América do Sul, na Colômbia, Venezuela, Guiana, Suriname e Guiana Francesa, no norte do Brasil e ao sul do rio Amazonas, ao longo do rio Xingu, na região central (Gildea 2012). Gildea também estima que 25 línguas Karíb ainda são faladas por um número estimado entre 60 a 100 mil pessoas.
+26
+
+Figura 2.1: Localização das línguas Karíb na América do Sul. (Meira 2006:160)
+O primeiro trabalho de descrição de uma língua Karíb, entitulado Introduction à la langue des Galibis, foi feito por Pierre Pelleprat mas o primeiro a mencionar uma família de línguas Karíb foi Salvatore Philippo Gilij, acerca de línguas da Venezuela (apud Derbyshire 1999). Com relação à classificação interna da família, Gildea (2012) afirma que vários estudiosos rejeitaram a proposta de Durbin (1977) por esta não conter evidências convincentes que corroboram com as suas hipóteses. Já a proposta de Girard (1971) de divisão da família Karíb em 14 grupos foi melhor aceita por conter dados mais atuais. A classificação proposta por Kaufman (2007) em muito se baseia na proposta de Girard (1971), e de acordo do Gildea (2012:443) os problemas da proposta de Kaufman (2007) foram tentar aproximar sua pesquisa com a de Durbin (1977) e com a de Loukotka (1968), além de fazer uso de dados incorretos de Loukokta para propor outros tipos de agrupamento, tanto para as propostas em Kaufman (1994) quanto para
+27
+
+Kaufman (2007). Nestas classificações de Kaufman (1994, 2007), reunidas na figura 2.2
+(adaptada de Gildea 2012:144), o Ye’kuana (De’kuana) aparece no Grupo Makiritare do
+Ramo Central junto com o Apalaí, o Mapoyo - Yawarana, línguas estas que na reanálise
+proposta por Gildea são posicionadas em grupos separados. No ramo sul aparecem o
+grupo Arara e o grupo Bakairi, sendo que este agrega erroneamente, as línguas Kuikuro
+e Kalapalo.
+A. Língua Opón-Karare B. Grupo Yukpa: Yupka, Japreria, † Koyama C. Kari’nya
+(Ramo Guianense : D-E-F – Incluído somente na publicação de 1994)
+D. Grupo Tiriyó D1. Subgrupo Tiriyó: Akuryió, Tiriyó D2. Subgrupo Karihona: Hianákoto, Karihona D3. Salumá
+E. Grupo Kashuyana: Kashuyana – Warikyana, Shikuyana F. Grupo Waiwai: Waiwai, Hixkaryana
+(Ramo Norte-Amazônico: G-H-I – Incluído somente na publicação de 1994)
+G. Grupo Jawaperi: † Bonari, Jawaperi (Waimiri-Atroari) H. Grupo Paravilyana
+H1. Sapará H2. Subgrupo Paravilyana: Pawishiana, †Paravilyana I. Grupo Pemong I1. Subgrupo Pemong: Makushi, Pemong (Taurepang, Kamarakotó, Arekuna), Kapong (Akawayo, Patamona, Ingarikó) I2. Purukotó
+Ramo Central: J-K-L-M-N-O
+J. † Kumaná († Chaima, † Cumanagota) K. † Grupo Yao: † Tiverikoto, †Yao L. Grupo Wayana: Wayana, †Arakajú M. Apalaí N. Mapoyo-Yawarana (†Tamanaku) O. Grupo Makiritare: Makiritare (De’kuana), Wajumará
+Ramo Sul: P-Q-R-S-T
+P. Grupo Bakairi: Bakairi, Amonap (Kuikuro, Kalapalo) Q. Grupo Arara: Arara-Piriri, † Apiaká-Apingi, †Juma, †Yarumá, Chikaon (Txikão) R. †Palmella S. †Pimenteira T. Panare
+Figura 2.2 Classificação da Família Karíb proposta por Kaufman (1994, 2007) adaptada de Gildea (2012:444).
+28
+
+A classificação interna mais recente das línguas da família Karíb é a proposta por Gildea (2012). Nesta classificação a língua Ye’kuana (De’kuana), que era considerada parte do Ramo Venezuelano (Meira 2006), agora é alocada no Ramo Guianense, juntamente com as línguas Kari’nja, Wayana e o grupo Taranoano (Figura 2.3).
+A partir das considerações de Meira e Franchetto (2005) o Kuikuro / Kalapalo, são classificados dentro de um ramo específico, o ramo Nahukwa, uma vez que não apresentam evidência de uma relação estreita com nenhum outro grupo do nível ProtoKaríb e também porque apresentam características específicas dentro da família Karíb do Sul e da família Karíb como um todo. A figura 2.3 também mostra que o Bakairi e o grupo Arara foram posicionados dentro do ramo Pekodiano, e que o Mapoyo / Yawarana agora fazem parte do ramo Venezuelano, juntamente com o grupo Pemón e o Panare.
+29
+
+Ramo Parukotoano (A) A. Grupo Parukotoano A1. Katxúyana (Shikuyana, Warikyana) A2. Subgrupo Waiwai: Waiwai (Wabui, Tunayana), Kixkaryana
+Ramo Pekodiano (B-C) B. Bakairí C. Grupo Arara: Arara (Parirí), Ikpeng (Txikão)
+Ramo Venezuelano (D-E-F-G-H) Macro-Grupo Pemón-Panare (D-E)
+D. Grupo Pemón (Kápong [Akawaio, Patamona, Ingarikó], Makushi, Pemón [Taurepang, Kamarakóto, Arekuna]).
+E. Panare Mapoyo-Tamanaku Macro-Group (F-G-H)
+F. † Kumaná († Chaima, † Cumanagota) G. Mapoyo/Yawarana (Mapoyo, Wanai, Yawarana, Pémono) H. † Tamanaku
+Ramo Nahukwa (I)
+I. Grupo Nahukwa: Kuikuro, Kalapalo
+Ramo Guinanense (J-K-L-M)
+J. Kari’nja (Carib, Kalinya, Cariña, Galibi) K. Makiritare (De’kwana, Maiongong, Ye’kuana) L. Grupo Taranoano
+L1. Subgrupo Tiriyo: Akuriyo, Tiriyo, Trio L2. Karihona M. Wayana
+Resíduo (Grupos e línguas que ainda não foram classificados em ramos, dispostos aqui em ordem alfabética)
+N. Apalaí O. Waimirí Atroarí P. Yukpa Group: Yukpa, Japréria
+Figura 2.3: Classificação da família Karíb proposta por Gildea (2012:445)
+As línguas Karíb atualmente apresentam um panorama de pesquisas que tem
+permitido resolver vários problemas de classificação. Muito do que se discute hoje pode
+ser encontrado em Gildea (1998), Derbyshire (1999) e Meira (2006). Há também
+trabalhos substanciais sobre as línguas Tiriyó (Meira 1999), Ikpeng (Pachêco 1997;
+2001 e Campetela 1997; 2002), Panare (Gildea 1989; 1993), Waimiri Atroarí (Bruno
+30
+
+2003), Kuikuro (Franchetto 2002; 2003; 2004; 2006 entre outros; Franchetto e Santos 2003; Santos 2007), Wayana (Tavares 2005), Ingarikó (Sousa Cruz 2005) e Ye’kuana (Chavier 1999; 2008, Cáceres 2007; 2011), e o clássico trabalho de Derbyshire (1985) sobre o Hixkaryana, só para citar alguns. A partir do momento em que as línguas são analisadas e seus dados são disponibilizados, pode-se proceder a uma análise comparativa de qualidade, que permita reconhecer as semelhanças e diferenças com outras línguas da família, dessa maneira, os dados disponibilizados pelo trabalho de Cáceres (2011) ajudaram a incluir o Ye’kuana junto ao Kari’njia, o Taroano e o Wayana para formar o ramo Guianense, uma vez que há muitas semelhanças morfossintáticas e fonológicas partilhadas entre essas línguas.
+Geograficamente os Ye’kuana estão, em sua maioria, localizados na Venezuela, mais precisamente no interior daquele país, onde ocupam três zonas distintas: dois grupos estão localizados no interior do estado Amazonas (um no Alto Orinoco e ao longo do rio Cunucunuma, outro no rio Ventuari) e o terceiro grupo está localizado na bacia do Caura (Cáceres 2011:24). Os Ye’kuana são conhecidos por várias denominações: os auto-etnônimos Ye’kwana, De’kwana e Dhe’kwana correspondem, o primeiro, ao etnônimo dos habitantes da bacia do Caura, o segundo, ao grupo que habita o Cunucunuma, e o terceiro, à denominação do grupo do Alto Orinoco (Hall 1988). Somando, a população Ye’kuana da Venezuela aproxima-se das 6.500 pessoas (Cáceres 2011). O pequeno grupo que habita o Brasil, mais precisamente a região noroeste do estado de Roraima, na Terra Indígena Yanomami-Ye’kuana, está com uma população estimada em 500 pessoas. O mapa a seguir mostra a Terra Indígena YanomamiYe’kuana
+31
+
+Figura 2.4: Terra Indígena Yanomami-Ye’kuana (Fonte: ISA)
+Para o viajante alemão Theodor Koch-Grünberg, em seu trabalho De Roraima ao Orinoco (1979 [1917]), o fato de os Ye’kuana hoje habitarem a bacia do Caura, ao sul da Venezuela, e do alto Uraricoera, no Brasil, se deve em função da migração no início do século XX, provocada por lutas com os povos Aruák.
+32
+
+2.2 Ye’kuana: análises linguísticas anteriores A primeira análise linguística de que se tem notícia sobre o Ye’kuana, é a
+análise de Daniel de Escoriaza, datada de 1959, que apresenta uma descrição morfológica sobre o dialeto falado na bacia do Caura (apud Cáceres 2007:33), mas não tive acesso a esses dados. Com relação ao dialeto falado no Cunucunuma, há duas análises linguísticas feitas até o momento. Uma é a tese de doutorado de Katherine Hall (1988) The morphosyntax of discourse in De’kuana Carib. Dividida em dois volumes, a tese de Hall no primeiro volume se preocupa com a análise do discurso, enquanto no segundo procede a uma análise da fonologia e morfologia da língua. A outra análise do dialeto do Cunucunuma corresponde às pesquisas realizadas por Mariela Chavier: um memorial sobre aspectos da fonologia e morfologia do Ye’kuana (1999) e uma tese (2008) contemplando aspectos da morfossintaxe.
+Mais recentemente, as pesquisas de Natália Cáceres ofereceram as seguintes pesquisas: Introduction à la langue des Ye’kwana: profil sociolinguistique et esquisse phonologique , uma dissertação de mestrado de 2007 e a tese de doutorado intitulada Grammaire Fonctionnelle-Typologique du Ye'kwana (2011). As duas obras representaram um divisor de águas na descrição do Ye’kuana. A qualidade e a quantidade de dados disponibilizados pela linguista permitiram a Gildea (2012) resolver problemas quanto à classificação da língua, o que resultou no posicionamento do Ye’kuana no ramo Guianense.
+Foi também a partir da observação dos dados e da análise das pesquisas de Cáceres (2011:109) que pensamos em pesquisar a categoria número em Ye’kuana. Na ocasião, Cáceres chamou atenção para a questão das diferenças entre plural e coletivo, afirmando que tal assunto merecia um ser aprofundado para que pudesse ser estabelecida uma fronteira entre pluralidade e coletividade no Ye’kuana. Aproveitando
+33
+
+essa oportunidade nos debruçamos sobre o assunto e, na medida em que a pesquisa tomava forma, outras questões foram se delineando, como a marcação de número em pronomes e em formas verbais. A marcação em pronomes nos sugeriu que as formas com número marcado estavam relacionadas à um contexto de menor visibilidade, já em verbos percebemos a presença de dois marcadores de número, um que está relacionado à pluralidade da ação e outro que está relacionado à pluralidade dos argumentos, independente dos argumentos receberem ou não marca de número. O uso desses marcadores poderia indicar relações ainda não estudadas nas línguas da família Karíb, como veremos no capítulo quatro.
+
+2.3 Perfil fonológico do Ye’kuana Durante a pesquisa sobre a morfologia do Ye’kuana, realizei alguns estudos
+sobre a fonologia da língua para entender melhor o funcionamento deste sistema em comparação às análises descritas por Cáceres (2007; 2011). Da mesma forma que o dialeto Ye’kuana da Venezuela (Cáceres 2011:58), o dialeto brasileiro apresenta quatorze vogais com sete timbres vocálicos diferentes com oposição entre três pontos de articulação e três níveis de abertura, conforme pode ser conferido na tabela 2.1 abaixo.
+
+Tabela 2.1 Sistema vocálico da língua Ye’kuana (adaptado de Cáceres 2011:58)
+
+Anteriores
+
+Centrais
+
+Posteriores
+
+Altas
+
+i ii
+
+ö öö
+
+u uu
+
+[i] [i ]
+
+[] [ ]
+
+[u] [u ]
+
+Médias
+
+e ee
+
+ä ää
+
+o oo
+
+[e] [e ]
+
+[] [ ]
+
+[o] [o ]
+
+Baixas
+
+a aa
+
+[a] [a ]
+
+34
+
+De acordo com Cáceres (2011:57), Hall (1988) e Chavier (1999) atestam a existência do mesmo sistema vocálico. A presença de vogais longas nas línguas da família Karíb tem sua origem em diferentes processos fonológicos tais como redução silábica (Gildea 2012:448), elisão de vogais ou a preservação moraica de um segmento que não existe mais em contexto sincrônico. Enquanto vogais fonéticas curtas apresentam suas variantes longas, as vogais fonéticas longas não apresentam variantes em fonação ou em modo de articulação, o que Cáceres (2011:58) justifica novamente com base na estrutura moraica, a prova disso é que vogais longas não podem aparecer em coda silábico.
+O sistema consonatal do Ye’kuana do Brasil apresenta 14 fonemas diferentes sem oposição de vozeamento. A tabela 2.2 abaixo apresenta os fonemas do Ye’kuana
+(dialeto do Brasil) a partir dos dados coletados para esta pesquisa.
+
+Tabela 2.2 Consoantes da língua Ye’kuana
+
+Oclusiva Africada Nasal Flap Fricativa Aproximante
+
+Labial
+m [m]
+w [w]
+
+Lábiodental
+f [f]
+
+Alveolar
+t [t]
+n [n] d [] s [s]
+
+Pósalveolar
+sh []
+
+Palatal
+ch [t ] nh []
+y [j]
+
+Velar
+k [k]
+
+Glotal
+’
+[]
+j [h]
+
+Esse sistema composto é diferente do sistema Proto-Karíb reconstituído por Gildea (2012), segundo o qual não aparecem as oclusivas *p, *t e *k, as nasais *n e *m, o flap * e as duas aproximantes *w e *j. A existência dos fonemas /t, k, n, m, , w, j / no sistema fonológico Ye’kuana pode ser explicada como resultado de diferentes
+35
+
+processos de assimilação. Os inventários consonantais das línguas também podem aumentar em função de processos históricos tais como palatalização/lenição, vozeamento intervocálico e debucalização (perda dos traços orais de articulação). O processo de palatalização/lenição que ocorre após /i/ ou /e/ gerou as fricativas ou africadas /s, , ts, / a partir do *t. Segundo Gildea (2012:447) na maioria das línguas Karíb ocorre esse processo. Já o processo de debucalisação gerou a consoante glotal / /, e tal processo acontece quando uma sílaba em posição de onset se torna a primeira em um grupo de consoantes devido a perda da vogal seguinte.
+De acordo com Cáceres (2011:61) todas as consoantes apresentam pelo menos dois alofones: - variantes geminadas de todas as consoantes, com exceção da oclusiva glotal. Os dados de Cáceres, coletados até o momento, não lhe permitem estabelecer claramente o contexto em que aparecem. O único contexto de geminação claro aparece para o flap no qual a geminação ocorre obrigatoriamente após a aproximante /w/; - variantes palatalizadas de todos os fonemas não-palatais. Essas variantes são observadas somente nos limites morfológicos onde as possibilidades combinatórias entre os morfemas permitem identificar o fonema não-palatalisado de origem. Essas variantes aparecem adjacentes aos segmentos /i/ e /j/ conforme mostram os exemplos abaixo:
+
+(01) a .s ~
+
+[suma] ‘beijar’
+
+[ni uma] ‘ele beija (alguém)’
+
+b. m ~ c. ~
+
+[menn ] ‘escrever’
+[janwa ]
+
+[ni enn j] ‘ele escreve (alguma coisa)’
+[kaawaj ]
+(Cáceres 2011:63)
+
+36
+
+- variantes oclusivas vozeadas [d] e [ ] para o flap / / e a aproximante /j/ respectivamente, que aparecem em início de palavra ou após a oclusiva glotal / /. De acordo com Cáceres (2011:62) a variante do flap é uma variante contextual, enquanto que a variante da aproximante é uma variante livre. - variantes desvozeadas do segmento [h]: este tem alofone nasal [m] que aparece obrigatoriamente após uma consoante nasal em coda. Logo a sequência [nasal]+/h/ é
+realizada [mm] (exemplo 02a, 02b e 02c). No caso de empréstimos, a sequência consonantal [mm] aparece na palavra de origem espanhola na sequência [nasal] +
+[oclusiva bilabial] (exemplos 02d e 02e).
+
+(02) a. [emmo] ‘para beber’
+
+b. [tamm ne] ‘rápido’
+
+c. [komme] ‘frio’
+
+d. cambiar (espanhol) Ѝ [ekammijaka@
+
+
+
+     ‘trocar’
+
+e. sombrero (espanhol) Ѝ [samm e u] ‘chapéu’
+
+(Cáceres 2011:63-64)
+
+37
+
+- variante livre V pela oclusiva glotal / /.
+(03) a. [wetántáa na] ~ [wetántáa na] wetanta’ñöönö ‘chanter’
+b. [wewáa ta] ~ [wewáata] wewa’ta ‘je suspends um hamac, um cable, um fil’
+c. [wii sa] ~ [wi sa] ‘j’épluche’
+
+(Cáceres 2007 136)
+
+Tal variação entre a articulação de um gesto glotal [ ] ou como [V] também ocorre em outras línguas amazônicas, conforme atestam Stenzel & Demolin (2013) para o Kotiria e Wa’ikhana, duas línguas da família Tukano Oriental. Segundo os autores “uma segunda articulação do traço suprassegmental [+glotal] encontrada em ambas as línguas é uma ‘transição laringalizada’ que ocorre em sequências de vogais para marcar a fronteira silábica” (Stenzel & Demolin 2013:93). Especificamente para o Kotiria os autores relatam que, no meio da transição entre vogais, ocorre uma aumento brusco na amplitude do vozeamento, que, segundo eles, aciona um caráter “glotálico” ao som da vogal. Já em Wa’ikhana há a descrição de uma terceira variante do traço suprassegmental [+glotal] que ocorre em sequências de vogais (iguais ou diferentes) envolvendo uma transição abrupta entre realizações laringalizada e modal. Essa transição provoca uma mudança na amplitude e no ritmo dos ciclos glotais, produzindo a impressão auditória de uma oclusiva glotal (Stenzel & Demolin 2013:94).
+Outras variantes são descritas detalhadamente na tese de Cáceres (2011) e na sua descrição da fonologia do Ye’kuana (2007). Quanto à fonotática, a estrutura silábica do Ye’kuana é (C)V(V)(C) em que VV representa uma vogal longa. Os exemplos abaixo foram retirados de Cáceres (2011:64):
+
+38
+
+(04) (C)V
+/k .m / ‘faca’ /a.ku. i/ ‘cutia’ /t . .e/ ‘fato’
+
+(C)VV /aa.k / ‘dois’ /oo.he/ ‘muito’ /t .ka/ ‘mordido’
+
+(C)VC /toj.ma/ ‘misturado’
+/ta .ne/ ‘quente’ /kan.no/ ‘aqueles’
+
+De acordo com sua distribuição, sequências vocálicas no interior da sílaba não são encontradas, mas podem aparecer duas vogais com timbres diferentes em fronteiras morfológicas e que sempre resultam em duas sílabas diferentes. Quanto à distribuição consonantal, quatro consoantes podem aparecer em posição de coda as aproximantes /w/ e /j/, a nasal oclusiva /n/ e a oclusiva glotal / /. Cáceres (2011 65) afirma que somente as consoantes aproximantes podem aparecer no final de palavra precedidas pelas vogais anteriores /e/ e /a. Já as consoantes /n/ e / / aparecem somente em codas interiores, podendo ser precedidas por qualquer consoante em posição de ataque da sílaba seguinte. Segue abaixo uma lista de exemplos:
+
+(05) //
+/a.wa . e/ ‘premier’ /wo .mo/ ‘collier’ / e .w / ‘dessus’
+
+/n/ /m n.t / ‘là-bas’ /t n.he/ ‘stupide’ /we. en. / ‘fumée’
+
+/w/, /j/ /a . ew/ ‘langue’ /ka.waw/ ‘grenouille’ /t n.k j/ ‘presse à manioc’
+
+(Cáceres 2011 66)
+
+39
+
+Cáceres (2011:64) também explica que duas restrições podem ser aplicadas à posição de acordo com o tipo de sílaba. As sílabas sem ataque V(C) aparecem somente no início da palavra conforme os exemplos (06a) e (06b). Já as sílabas com CVC não podem aparecer em final de palavra, a menos que contenham uma aproximante, como nos exemplos (07a) e (07b):
+
+(06)
+
+a. [i .moj]
+
+‘oeuf’
+
+b. [ n.sa] ‘d’un côte’
+
+(07)
+
+a. [tukkuj]
+
+‘colibri’
+
+b. [mmaj] ‘ma maison’
+
+(Cáceres 2011:64)
+
+(Cáceres 2007:146-150)
+
+A partir das considerações apresentadas acerca do sistema fonológico do Ye’kuana, segue uma análise do perfil tipológico da língua.
+
+2.4 Perfil tipológico do Ye’kuana Antes de iniciar uma análise tipológica do Ye’kuana, cabe aqui identificar a
+função dos estudos tipológicos no trabalho de descrição de línguas. A tipologia é, nas palavras de Nichols (2007:231), um conjunto de conhecimentos adquiridos através do estudo comparativo de diferentes línguas; é um recorte teórico que procura padrões subjacentes, a despeito das diferenças externas reveladas nas estruturas de superfície.
+40
+
+Croft (2003) assume que, sendo a tipologia fundamentalmente comparativa, uma análise tipológica genuína busca examinar a variação entre um número expressivo de línguas com o intuito de descobrir universais na estrutura das línguas e propor explicações para esses universais. Uma vez que a tipologia tem interesse na gama de variações que podem existir entre as línguas, o trabalho dos tipologistas passa a ser tentar entender a língua nos seus próprios termos. A despeito da aparente semelhança entre os estudos tipológicos e o estudo dos universais linguísticos, enquanto os primeiros se interessam pela variação entre as línguas, o estudo dos universais se interessa primordialmente pelo limite dessa variação (Comrie 1989).
+A proposta de análise tipológica se faz extremamente relevante se pensarmos que, atualmente, são faladas cerca de 6.000 línguas no mundo (UNESCO 2010), e muitas dessas línguas não se encaixam no padrão indo-europeu. Pensando nesses dados, a proposta é buscar maneiras de descrever e analisar as estruturas dessas línguas em termos universais, na medida em que é feito um enfoque generalizante, grupal, pois as línguas possuem características que as aproximam ou distanciam umas das outras, e individual. No que segue, a partir de cada noção tipológica apresentada, mostraremos dados do Ye’kuana para tentarmos traçar um perfil tipológico da língua.
+2.4.1 A tipologia morfológica Segundo Comrie (1989:42) apesar de terem sido sugeridas inúmeras bases para
+uma tipologia holística, duas são particularmente importantes: a tipologia morfológica cujos estudos ganharam corpo no século XIX, com um enfoque na classificação da estrutura do vocábulo; a segunda é a tipologia de ordem vocabular, sobre a qual falaremos adiante. A tipologia morfológica está interessada em como funcionam os
+41
+
+padrões de composição das palavras, se predomina pouca morfologia interna (e então teremos línguas +isolantes) ou línguas com morfologia mais complexa (são as línguas sintéticas). De acordo com esse padrão, os estudos tipológicos agrupam as línguas em isolantes, aglutinantes, e fusionais. Apesar das categorias serem distintas umas das outras, as línguas raramente acomodam-se estritamente em um perfil. Os estudiosos, na maioria das vezes, preferem alocar as línguas em uma espécie de continuum, no qual as línguas são classificadas de acordo com as características que elas mais evidenciam, sem ter que necessariamente encaixar-se exclusivamente em um deles. São reconhecidos dois índices de classificação morfológica: o índice de síntese e o índice de fusão.
+O índice de síntese refere-se à quantidade de morfemas que uma palavra pode ter. De um lado deste índice estão as línguas isolantes, nas quais cada morfema/ palavra constitui um elemento que não pode ser internamente decomposto em unidades menores, com sentido lexical ou gramatical, que não tem morfologia interna. Do outro deste índice estão as línguas polissintéticas, na qual a palavra é morfologicamente complexa, podendo corresponder à uma frase inteira de uma língua +analítica.
+O índice de fusão refere-se às unidades de significação fusionadas aos morfemas. Em um extremo desse índice temos as línguas que são fusionais (também chamadas flexionais) porque nelas mais de uma categoria gramatical pode ser expressa em um único morfema, e a fronteira entre uma significação e outra não é clara. No outro extremo desse índice estão as línguas aglutinantes, nas quais cada componente de significação é expresso por um único morfema. Dentro desse índice, o Ye’kuana é uma língua que está mais próxima do extremo das línguas aglutinantes, um padrão das línguas Karíb, no entanto pode apresentar morfemas com mais de uma significação, como é o caso do prefixo de pessoa que ocorre em verbos transitivos e é o morfema
+42
+
+portmanteau man-, apresentado nos exemplos em (08). É interessante notar que no
+exemplo (08c) o sufixo de plural marca apenas a pluralidade do objeto.
+(08) a. [manayu'kuj] man-ayuku-i 1:2-bater-PRP ‘eu bati em você’
+b. [man umaj] man-shuma-i 1:2-bater-PRP ‘eu beijei você’
+c. [manene ato] man-enea-to 1:2-bater-PL ‘eu vi vocês’
+Com relação aos processos de afixação, o Ye’kuana é uma língua que pode tanto ter
+prefixos quanto sufixos, e estes últimos em maior quantidade, sendo que a pessoa é
+marcada através de prefixação enquanto a negação, número, diminutivo e os processos
+derivativos, são marcados através de sufixação, conforme demonstram os exemplos
+abaixo.
+(09) a. [ ima ay omo] shimaada-i=chomo flecha-POS=PL ‘flecha de alguém’
+b. [je kwanah n ] ye’kuana-jönö ye’kuana-NEG ‘não ye’kuana’
+c. [janwakomok ] yanwa=komo-kä homem=PL-DIM ‘meninos’
+43
+
+2.4.2 Classes de palavras
+A gramática tradicional costuma chamar de “partes do discurso” aquilo que normalmente é conhecido como classes de palavras. Segundo Payne (2006) esse termo é utilizado para designar as palavras que expressam categorias conceituais nas línguas. Payne (2006:93) também afirma que as palavras podem variar de classe de acordo com o modo que elas são utilizadas no discurso, e que algumas vezes são necessários testes morfossintáticos para determinar a classe da palavra. Outras vezes a classe só pode ser inferida através do contexto. As descrições linguísticas do Ye’kuana reconhecem a existência das seguintes classes: nomes, verbos, advérbios, posposições e partículas. Essas classes podem ser identificadas em função da distribuição das marcas morfológicas que ocorrem em cada uma, bem como dos processos morfológicos derivacionais que permitem passar de uma categoria a outra (Cáceres 2011:107). Nesta seção faço algumas considerações acerca de nomes e verbos na língua Ye’kuana.
+2.4.2.1 Nomes De acordo com Payne (1997) o nome deve ser definido de acordo com suas
+características morfológicas e distribucionais. Sintaticamente, o nome pode ser núcleo de um NP, funcionando como argumento de verbo transitivo ou/e intransitivo. Morfologicamente, o nome em Ye’kuana pode receber marca de plural, diminutivo, negação e posse (figura 2.5), no entanto não ocorre flexão de gênero, o que é comum entre as línguas da família Karíb, como em Waimiri-Atroari (Bruno 2003:68).
+Prefixo de Pessoa –Radical – (Sufixo de Posse) – (Negação) – (Diminutivo) – (Número)
+Figura 2.5 Estrutura da palavra nominal em Ye’kuana
+44
+
+Seguem em (10) alguns exemplos da estrutura da palavra nominal em Ye’kuana.
+(10) a.[ m 'tõkomo] m -tonkomo m -ø-tomo=komo pai-POSS-PL.ANIM=COL ‘pais’
+b.[ 'n !] -ne-d
+1-filho-POSS ‘meu filho/minha filha’
+b. [je k anah 'n ] ye’kuana-j n ye’kuana-NEG ‘não Ye’kuana’
+d.[janwa'k ] yanwa-kä homem-DIM ‘menino’
+e.[ ima: ay't omo] Ø-shimaada-i=chomo 3-flecha-POSS=COL ‘flecha(s) dele(s)’
+Uma revisão da literatura sobre outras línguas Karíb nos mostra análises
+paralelas, como a de Derbyshire (1985:06) que diz que a língua Hixkaryana não
+apresenta uma marcação de número regular, no sentido de apresentar ‘singular-plural’,
+mas sim uma marca que coletiviza os nomes animados. O mesmo padrão ocorre no
+Tiriyó, e, segundo Meira (1999:139), essa marca seria melhor definida pelo termo
+‘totalitativo’ ao invés de ‘coletivo’, uma vez que a noção de ‘coletivo’ em linguística
+pode assumir outros usos. Tavares (2005:150) afirma que no Wayana não há plural na
+língua uma vez que todos os morfemas de número referem-se a uma coletividade.
+45
+
+Também em Wayana é possível que o nome, mesmo sem marca de número, faça referência a mais de uma entidade. É interessante notar também que as formas que marcam número são cognatas para as línguas do ramo guianense da família Karíb, como podemos ver na tabela abaixo.
+
+Tabela 2.3 Formas cognatas de coletivizadores em línguas do ramo guianense da família Karíb
+
+Língua Ye’kuana (Cáceres 2011:108) Hixkaryana (Derbyshire 1985:245) Wayana (Tavares 2005:151)1
+Tiriyó (Meira 1999:140) Kariña (Romero-Figueroa 2000)
+
+Morfema de número =komo
+-komo
+-tom(o) -kom(o) -nom(o) -anom(o) -am(o) -jam(o) -tonom(o) -om(o) -ton
+-kon
+
+Outro padrão recorrente entre as línguas da família Karíb é o fato de que não há adjetivos. Cáceres (2011:137) afirma que para realizar processos de modificação nominal, a palavra em Ye’kuana deve ter as mesmas características do nome que modifica. Já a modificação verbal ocorre quando um verbo intransitivo exige semanticamente um complemento na frase, e este complemento é expresso por um complemento adverbial. Dixon (2010:62) afirma que em todas as línguas pode ser reconhecida uma classe de palavras que é diferente da classe dos nomes e verbos, e o
+1 Tavares (2005:151) explica que o uso dos sufixos de coletivo no Wayana pode ser condicionado lexicalmente, por derivação ou pelo ambiente morfossintático.
+46
+
+que muitas descrições vêm chamando advérbios é, na verdade, uma classe de adjetivos. Cáceres (2011:137) afirma que em Ye’kuana não há uma classe de adjetivos, e mesmo que a ampla gama de estudos sobre línguas Karíb não reconheça uma classe de adjetivos, Meira e Gildea (2009:131) afirmam que, antes de se posicionar a respeito da existência de uma classe específica de adjetivos e/ou advérbios nas línguas dessa família, é importante checar com cuidado quais as propriedades morfológicas e sintáticas que cada uma dessas línguas atribui às classes de nome e verbo.
+
+2.4.2.2 Verbos De acordo com Cáceres (2011), o verbo em Ye’kuana é a categoria que mais
+apresenta possibilidades morfológicas, tais como prefixação de pessoa e na posição sufixal flexão de número, aspecto, negação e operações de valência. De acordo com a tabela apresentada por Cáceres (2011:124), segue abaixo um modelo simplificado da estrutura do verbo na língua Ye’kuana.
+
+Marcação de argumentos
+
+- Radical -
+
+Processos Flexionais e Derivacionais
+
+Prefixo de pessoa – (Valência) –Raiz – (Valência) – TAM – (Número) – (Negação)
+Figura 2.6: Estrutura da palavra verbal em Ye’kuana
+
+De acordo com a proposta acima a marcação de argumentos acontece através do prefixo de pessoa, que indica a relação entre os argumentos envolvidos, conforme as tabelas abaixo, que mostram os paradigmas de prefixos de pessoa. Em Ye’kuana há dois sistemas de marcação de pessoa, o sistema apresentado na Série I (tabela 2.4) e o sistema apresentado na Série II (tabela 2.5).
+
+47
+
+O sistema de marcadores que fazem parte da Série I, segundo Cáceres (2011:209), é selecionado pelos marcadores TAM de origem não-derivacional. Gildea (2012:460) explica que tais marcadores são caracterizados com um sistema hierárquico ou inverso que apresenta uma cisão na marcação de pessoa dos verbos intransitivos. Esses marcadores da Série I combinam-se os seguintes marcadores TAM:
+• Sufixos de tempo passado (-i ‘passado recente perfectivo’ PRP, -ne ‘passado distante perfectivo’ PDP, -anä ‘passado recente imperfectivo’ PRI, -akene / -akä ‘passado distante imperfectivo’ PDI);
+• Sufixos de modo performativo (-kä ‘imperativo’, -iye ‘jussivo’, -‘nhojo ‘permissivo’, -i ‘vetativo’, -‘no ‘apreensivo’), que podem ocorrer em todas as pessoas com exceção da terceira.
+
+Tabela 2.4 Marcadores da Série I (adaptado de Cáceres 2011:210)
+
+A SA SP
+
+P
+
+1
+
+w(i)-
+
+ä- / (y)^- 1P
+
+k(ö)-
+
+2
+
+m(i)-
+
+ä(y)- / a(y)- 2P män- / man-
+
+1+2 k(i)^-
+
+k(ö)-
+
+3
+
+n(i)- / kön- / kin(i)-
+
+1+3
+
+nhaa n(i)-
+
+nhaa Ø-
+
+Já os marcadores da Série II, apresentados na tabela 2.5, são responsáveis por indexar o argumento único do verbo intransitivo ou o objeto do verbo transitivo, e podem ser utilizados em verbos que apresentam os seguintes marcadores:
+
+- o imperfectivo –dö; 48
+
+- o nominalisador de ação –dö; - o nominalisador de ação passada –‘jödö; - o nominalisador circunstancial (de instrumento e lugar) –tojo; - o nominalisador de agente –nei; - o nominalisador resultativo –ajä; - os subordinadores –dawä e –taame; - o desiderativo –‘se.
+
+Tabela 2.5 Marcadores da Série II (adaptado de Cáceres 2011:212)
+
+S
+
+P
+
+1
+
+ö- /u- / (y)^-
+
+2
+
+ä(y)- / a(y)- / o(y)-
+
+1+2
+
+k(ö)-
+
+3
+
+i^- / ø-
+
+1+3 nhaa ø- nhaa i^ / ø-
+
+N
+
+ø-
+
+i^- / ø-
+
+3R
+
+t(ö)-
+
+As operações de valência são realizadas no domínio do radical, e conforme apresentado na figura 2.6 elas podem acontecer tanto prefixadas quanto sufixadas ao radical. As operações de valência que podem aparecer prefixadas são de detransitivização, e são realizadas pelo morfema ät– e seus oito alomorfes que são fonologicamente condicionados pela vogal inicial da primeira sílaba do radical. Já as operações de valência realizadas após o radical são de causativização, e são realizadas pelos marcadores –näjö, –nöjö e –jo. Os dois primeiros marcadores parecem ser variantes de um mesmo marcador, reconstruído do proto-karíb, conforme notado por Gildea & Meira 2010 (apud Cáceres 2011:133), e atuam sobre o radical do verbo,
+49
+
+transitivizando-o. Já o marcador –jo atua sobre verbos inergativos (SA) e verbos intransitivos, conservando a valência dos intransitivos (Cáceres 2011:134).
+Os processos flexionais e derivacionais, tais como marcação de tempo, modo e aspecto, número e negação, ocorrem todos em posição sufixal. No capítulo quatro apresentaremos dados acerca de dois morfemas que aparecem sufixados, um morfema de aspecto que está relacionado com a pluralidade da ação expressa pela raiz, e um morfema de número que marca a pluralidade dos argumentos.
+2.5 A ordem dos constituintes A ordem dos argumentos A, S e P em Ye’kuana pode, aparentemente, apresentar
+grande variabilidade. Isso acontece porque os argumentos são marcados no verbo através dos prefixos de pessoa. Em dados elicitados, nas sentenças transitivas, a ordem pode apresentar as seguintes variações: APV, AVP, ou PVA. Em sentenças intransitivas, mesmo o verbo apresentando a marcação de argumento único S através do prefixo de pessoa, a ordem será SV. Cáceres (2011:282) argumenta que esta ordem não é rígida quando se trata de sentenças afirmativas, no entanto em interrogações o predicado deve aparecer no início do enunciado, segundo mostram seus dados coletados em contexto espontâneo. À guisa de comparação, os dados de Chavier (2008:36) apontam para a ordem PAV, enquanto os dados de Hall (1988) concluem que a ordem dos constituintes é SOV (APV).
+Cáceres (2011:281) também explica que a elicitação pode gerar resultados de ordens diferentes, dependendo da língua em que o pedido for feito. Também pode haver variação de acordo com a seção: em uma seção os dados levantados podem ser coerentes entre si mas contraditório em outro levantamento de seção, o que indica que
+50
+
+os falantes podem fazer uma escolha deliberada para homogeneizar as informações, no entanto tal escolha não ocorre em contextos de fala espontânea. No capítulo seguinte apresento uma revisão da literatura tipológica acerca da categoria número.
+51
+
+3 NÚMERO EM PERSPECTIVA TIPOLÓGICA
+Durante muito tempo se pensou que a marcação de número nas línguas do mundo fosse algo simples, inclusive que número fosse uma categoria estritamente nominal, que poderia aparecer em verbos apenas para realizar concordância (Hopper e Thompson 1984:718). No entanto, ao aprofundar a análise, pode-se perceber que a categoria número está ligada a fenômenos ainda mais complexos, como hierarquia de animacidade, concordância e outras questões ligadas à morfologia e à sintaxe.
+Neste capítulo faço uma revisão da literatura tipológica acerca da categoria de número, seguindo os estudos tipológicos apresentados por Corbett (2000), Comrie (1989) e Croft (2003). Na seção 3.1 apresento as possibilidades de marcação de número nas línguas do mundo, e, na seção seguinte (3.2), falo de alguns processos que interagem com tal marcação, como hierarquia de agentividade, concordância, e as noções de distribucionalidade e coletividade. Na última seção (3.3) trato do fenômeno conhecido na literatura como número verbal. Todos os aspectos tratados aqui têm especial importância para a descrição da categoria de número em Ye’kuana, apresentada no capítulo quatro.
+3.1 Distintas marcações de número nas línguas do mundo As línguas do mundo podem marcar número de diferentes formas em diferentes
+classes de palavras. A primeira distinção apresentada é a singular – plural, na qual o plural se refere a mais de uma entidade do mundo real. No entanto, as línguas podem fazer divisões: por exemplo, enquanto o inglês pluraliza o elemento a partir de uma unidade distinguindo entre ‘um’ e ‘mais de um’ (one and a half oranges), o francês só
+52
+
+distingue a partir de duas ou mais entidades (une orange et demi). Nas línguas indoeuropeias o valor ‘plural’ é explicitamente marcado enquanto o valor ‘singular’ é nãomarcado, ou seja, é o valor default. Convém assumir aqui que o valor de ‘plural’ é apenas uma das formas que as línguas utilizam para marcar número e que não há uma definição única para esse termo em função dos valores que ele pode assumir em cada língua (ver mais na seção 3.1.1).
+Em muitas línguas a categoria de número pode aparecer principalmente em nomes e pronomes, mas também, em outras línguas, pode aparecer em verbos. Já no Karitiana, uma língua da família Arikém, tronco Tupi, não há marcação morfossintática de número no sintagma nominal (Müller, Storto e Coutinho-Silva 2006:187). No exemplo (01) o sintagma ‘um macaco’ é semanticamente singular, enquanto no exemplo (02) o sintagma ‘dois macacos’ é semanticamente plural, mas o nome permanece não flexionado para número. No exemplo (03) percebe-se que o falante comeu um número indefinido de macacos (um ou mais), e o nome pikom ‘macaco’ permanece sem flexão.
+
+(01) yn naka’yt yn naka-’y-t 1s DECL-comer-NFUT ‘Eu comi um macaco’
+
+myhint myhin-t um-OBL
+
+pikom pikom macaco
+
+(02) yn naka’yt yn naka-’y-t 1s DECL-comer-NFUT ‘Eu comi dois macacos’
+
+sypomp sypom-t dois-OBL
+
+pikom pikom macaco
+
+(03) yn naka’yt
+
+pikom
+
+yn naka-’y-t
+
+pikom
+
+1s DECL-comer-NFUT macaco
+
+‘Eu comi o(s)/um(s)/algum(s) macaco(s)’
+
+(Müller, Storto e Coutinho-Silva 2006:188)
+
+53
+
+O Hixkaryana, uma língua da família Karíb, também não apresenta uma marcação regular de número em termos de singular/plural visto que a partícula –komo é utilizada em nomes com referentes humanos quando um grupo de pessoas está envolvido, ou seja, quando o referente nominal tiver um foco coletivo (Derbyshire 1985:245). Tal marca também é utilizada com nomes de animais e elementos envolvidos no ambiente cultural das pessoas. Derbyshire esclarece que a partícula komo é o morfema mais próximo que o Hixkaryana tem de um plural, mas não chega a ser essa mesma categoria porque não é usada quando o referente nominal for mais de um elemento, mas sim quando o foco da referência está sobre o grupo, como pode ser visto nos exemplos de (04) a (06):
+
+(04) rowt komo ‘meus irmãos’ (05) anar komo ‘outras pessoas” (06) harye komo ‘batatas doce’
+
+(Derbyshire 1985:245)
+
+A tipologia oferecida por Corbett (2000) nos apresenta, inicialmente, uma classificação semântica das distinções feitas acerca da categoria de número; nela, o autor considera que a clássica divisão entre singular e plural não é válida para todas as línguas, como foi mencionado acima, havendo ainda outros valores possíveis de serem codificados. Corbett (2000:10) cita como exemplo o Bayso, uma língua Cushitic da família Afro-asiática, na qual todos os nomes possuem uma forma na qual o significado do nome pode ser expresso sem uma referência ao número, ou seja, sem especificação para singular ou plural, conforme mostram os exemplos de (07) a (10) abaixo:
+
+54
+
+(07) lúban
+
+foofe
+
+leão.GERAL observar.1.SG
+
+literalmente ‘eu observei leão’ (poderia ter sido um, ou mais)
+
+(08) lubán-titi foofe
+
+leão-SG
+
+observar.1. SG
+
+‘eu observei um leão’
+
+(09) luban-jaa foofe leão-PAUCAL observar.1.SG ‘eu observei alguns leões’
+
+(10) lubán-jool foofe
+
+leão-PL
+
+observar.1.SG
+
+‘eu observei (muitos) leões’
+
+(Corbett 2000:11) Tal forma ‘não-marcada’ é conhecida na literatura como expressão de um valor de número geral, ou ‘general number’. Número geral é um termo utilizado para designar um nome cujo traço de número não pode ser especificado morfologicamente. As línguas que apresentam esse número geral têm nomes com uma forma específica para indicar o singular, outra para indicar o plural, e ainda outra que não indica nenhum dos dois traços.
+
+Figura 3.1 Sistema de marcação de número em línguas com distinção singular/plural/geral (adaptado de Corbett 2000:11)
+As línguas que fazem distinção entre singular e plural também oferecem outras possibilidades, a primeira delas é de combinar a forma singular com a forma geral, em
+55
+
+oposição ao plural. Nessa possibilidade, o significado singular e o geral compartilham a mesma forma e não estabelecem um número para o nome, ou seja, uma forma de um nome, tida como singular/geral, pode ser usada para se referir a um indivíduo ou mais de um.
+Figura 3.2 Sistema de marcação de número em línguas distinção com singular/geral versus plural (adaptado de Corbett 2000:13)
+Corbett (2000:16) cita como exemplo desse sistema, ilustrado na figura 3.2, o Tagalog, uma língua Austronesiana na qual a forma aso pode significar tanto ‘cachorro’ quanto ‘cachorros’, podendo ser usada em frases genéricas, como ‘Cachorro come carne’ ou ‘Cachorros comem carne’, nas quais a palavra ‘cachorro’ apresenta sentido genérico, mas não em uma frase do tipo ‘Os cachorros estão com fome’. O plural em Tagalog pode ser feito acrescentando-se o clítico =mga ao nome, mas a ausência deste clítico pode levar a uma interpretação de significado singular ou geral. Esse sistema de marcação de número também pode ser encontrado nas línguas Iranianas, em nomes que não denotam humanos, e de acordo com Aikhenvald (1994:432) também pode ser percebido na maioria das línguas sul-americanas.
+Uma terceira possibilidade para a marcação de número é quando a forma geral e o plural partilham da mesma morfologia, em oposição ao singular. Corbett (2000:17) reconhece que este sistema não existe em sua forma pura, possivelmente porque o
+56
+
+singular, que é normalmente a forma não-marcada em relação ao plural, nesse sistema recebe uma morfologia explícita. Quando um membro de uma oposição é neutro em relação ao seu opositor, então este deveria ser o membro não-marcado, logo, se uma forma também pode ser usada como neutra para número, o esperado é que essa forma seja a do singular.
+
+Figura 3.3 Sistema de marcação de número em línguas com distinção geral/plural versus singular (adaptado de Corbett 2000:16)
+Nas línguas Cushitic (localizadas no nordeste da África, família Afro-asiática) frequentemente são encontradas formas que não correspondem a uma oposição singularplural, no entanto essas formas de número geral podem ser utilizadas como singular para alguns nomes ou como plural para outros nomes, esses últimos em menor quantidade. Um exemplo pode ser verificado na língua Arbore, da família Afro-asiática, localizada no noroeste da Etiópia, na qual muitos nomes tem uma forma geral que é semanticamente não-especificada para uma distinção singular – plural, como apresentado no exemplo (11):
+
+(11) geral kér ‘cachorro(s)’
+
+plural ker-ó ‘cachorros’
+
+57
+
+garlá ‘agulha(s)’
+
+garlá-n ‘agulhas’
+
+(Corbett 2000:17)
+
+Em Arbore, quando a forma singular é derivada de outra forma, tipicamente
+
+coletiva ou geral, e carrega uma marca de número, ela é chamada singulativa. No
+
+Arbore há pares nos quais a forma geral contrasta com a singulativa:
+
+(12) singulativo tiis-in ‘uma espiga de milho’ laasa-n ‘um pão’ nebel-in ‘uma avestruz’
+
+geral tíise ‘espiga(s) de milho’ lássa ‘pão’ nebel ‘avestruzes’
+
+(Corbett 2000:17) No Arbore também há a possibilidade da forma singulativa contrastar com a forma plural:
+
+(13) singulativo
+
+plural
+
+heero-nté ‘uma inundação’
+
+heeró-n ‘inundações’
+
+farr-it ‘um dedo’
+
+farr-ó ‘dedos’
+
+(Corbett 2000:18)
+
+O contraste do singulativo com o plural e com o número geral no Arbore mostra
+
+um pouco da diversidade da marcação de número em nominais nas línguas do mundo, e
+
+oferece distinções de especial interesse para a Tipologia. Na próxima seção amplio a
+
+discussão das distinções de número para incluir as formas pronominais. Depois volto a
+
+discutir a marcação de número em nomes.
+
+58
+
+3.1.1 Distinções de número em formas pronominais As línguas do mundo também podem apresentar grande distinção de número nos
+pronomes pessoais. Outra possibilidade de marcação de número em pronomes, além da distinção tradicionalmente conhecida singular – plural, é o uso de um dual, um termo que vai se referir especificamente a duas entidades. Se a língua tem um sistema singular – dual – plural, então o plural vai distinguir a partir de três entidades, sendo o dual utilizado para apenas duas entidades. O Upper Sorbian, uma língua eslava do ramo ocidental, apresenta exemplos de valores de singular, dual e plural:
+
+(15) singular ja ‘eu’ ty ‘você’
+
+dual mój ‘nós dois’ wój ‘vocês dois’
+
+plural my ‘nós’ wy ‘vocês (todos)’
+
+(Corbett 2000:20)
+
+Quando as línguas querem marcar a presença de três elementos, elas utilizam um valor ‘trial’, apresentando então um sistema de valores com formas singular – dual – trial – plural. Neste sistema a língua apresenta uma forma pronominal livre para cada uma das possibilidades, podendo também aparecer em afixos pronominais. Corbett (2000:21) acrescenta que há descrições de línguas em que as formas classificadas como ‘trial’ costumavam representar grupos formados por três elementos, mas que agora são tomadas como ‘paucal’, sendo assim não representam apenas um grupo formado por três, mas por mais de três elementos. O exemplo abaixo é do Larike, uma língua da Indonésia. Nele percebe-se a distinção do singular – dual – trial – plural nos pronomes
+59
+
+livres, embora não haja forma trial pronominal de terceira pessoa para referentes nãohumanos.
+
+(16) duma hima aridu
+
+na a
+
+house that 1.TRIAL.EXCL own.it
+
+“we three own the house”
+
+‘nós três possuímos a casa’
+
+(Corbett 2000:21)
+
+O uso de uma forma que indica ‘paucal’ é outra estratégia que as línguas utilizam para marcar número. O valor ‘paucal’ é usado para se referir a um pequeno número de entidades distintas no mundo real, sem, no entanto, representar uma quantidade específica em particular. O Bayso, uma língua Cushitic da família Afroasiática, apresenta um sistema que distingue singular – paucal – plural em nomes, mas não em pronomes, para referir-se a um pequeno número, de no mínimo dois até seis elementos. Tal sistema é raro, sendo o mais comum o que distingue, ao lado do paucal, o dual também: singular – dual – paucal – plural. O paucal expressa um conjunto formado por alguns elementos, mais que dois e geralmente menos que sete, mas a quantidade exata pode variar de acordo com o contexto, sendo mais comum que refirase a um conjunto de três a cinco elementos. Com isso, percebe-se que não há uma fronteira bem estabelecida para diferenciar o paucal do plural, mas é consenso que o plural deve representar mais elementos que o paucal. Ainda há outros tipos de sistemas mais complexos que podem envolver o paucal e ainda adicionar o valor trial, formando o esquema singular – dual – trial – paucal – plural. Tal sistema pode ser verificado no Lihir, uma língua Oceânica, que distingue cinco possibilidades de marcação de número para os pronomes. Corbett (2000:21) também cita o Anindilyakwa, uma língua australiana, na qual o trial pode ser usado por três a cinco elementos ou seja, como um
+60
+
+paucal, no entanto os falantes mais novos que tem frequentado a escola estão usando o trial estritamente para três elementos.
+Corbett (2000:26) assume a possibilidade das línguas poderem marcar singular – dual – trial – quadral – plural, sendo a forma quadral usada especificamente para marcar um conjunto com quatro elementos. O autor não dá nenhum exemplo, visto ser um fenômeno muito raro, mas sugere que esse sistema pode ser encontrado no Sursurunga, uma das línguas da Nova Irlanda do Sul / Línguas Solomônicas do Leste, falada ao sul da Nova Irlanda, da família Austronésia. Nesta língua as formas classificadas como quadral são restritas aos pronomes pessoais, mas encontradas em todos eles, a primeira pessoa (inclusiva e exclusiva), a segunda e a terceira pessoa. Um exemplo do uso do quadral no Sursurunga pode ser conferido em (17):
+
+(17) gimhat
+
+káwán
+
+1.EXCL.QUADRAL maternal.uncle.:nephew/niece
+
+“we four that are in an uncle-nephew/niece relationship”
+
+‘nós quatro que estamos numa relação tio-sobrinha/sobrinho’
+
+(Corbett 2000:26)
+
+Corbett, no entanto, alerta para o fato de que tem se seguido muitas pistas falsas, a respeito da classificação dos quadrals das línguas Austronésias, o que nos leva a pensar que tais línguas não tem cinco valores, mas apenas quatro, uma vez que não foi encontrada uma referência explícita que levasse a compreender o quadral nessas línguas com um significado estrito de quatro como o trial é de três.
+
+61
+
+3.1.2 Hierarquia de Número Até o momento consideramos como os sistemas de número nas línguas variam
+de acordo com os valores que compõe o sistema e as entidades do mundo a que cada valor se refere. Mas a marcação de número pode variar também de acordo com um parâmetro de obrigatoriedade ou não na língua. Por exemplo, em um sistema que distingue valores singular – dual – plural, o uso do dual é obrigatório e usado num contexto muito restrito, como ocorre no Sânscrito, que não oferece outra possibilidade para se referir a dois objetos, uma vez que nessa língua o plural nunca é utilizado com essa finalidade. Em compensação, no Sloveno, uma língua Slavônica do Sul, o dual é facultativo, ao passo que o plural é obrigatório, ou seja, pode-se usar o dual ou não sempre que se quiser indicar especificamente ‘dois’ elementos, mas o plural vai ser sempre exigido para qualquer quantidade acima de ‘um’. A existência desses sistemas nos leva a pensar numa possível hierarquia de número conforme a figura abaixo.
+singular > plural > dual > trial
+Figura 3.4 Sistema de Hierarquia de Número (Adaptado de Corbett 2000:38)
+A hierarquia proposta acima foi derivada do universal 34 de Greenberg (1963:94), segundo o qual nenhuma língua tem um trial, a menos que tenha um dual, e nenhuma língua tem um dual, a menos que tenha um plural. Tal hierarquia implica que um valor mais à esquerda será menos marcado que valor mais à direita, ou seja, o dual é mais marcado que o plural e o plural é mais marcado que o singular. Outros dois problemas ocorrem com a hierarquia: o primeiro é com sistemas que envolvem número paucal e o segundo é quando há número facultativo envolvido.
+62
+
+Enquanto números determinados podem ser definidos em termos de numerais, por exemplo o dual refere-se a duas entidades, o trial refere-se a três, os indeterminados correspondem a quantidades como ‘algum’, ‘pouco’, ‘vários’ e ‘todos’, dessa forma, o número paucal é considerado indeterminado, pois não está ligado a uma quantidade específica.
+Os valores de número das línguas também podem variar de acordo com a obrigatoriedade ou não do seu uso, ou seja, se algum valor é facultativo. Se em uma língua o plural é facultativo, então o número menos marcado, que é o singular, vai ser usado como default. Se por outro lado temos um sistema no qual o dual é facultativo, então o plural, é usado como default para se referir a mais de uma entidade. No caso da língua australiana Larike, o número facultativo é o trial, ou seja, quando o falante quiser evidenciar a quantidade exata de três elementos, ele pode usar o trial; se a informação de número não for importante, o falante pode usar o plural, pois este cobrirá o espaço antes preenchido pelo trial.
+Enquanto há linguistas que defendem que todas as línguas têm número, outros encontram exemplos que dizem o contrário, como o Pirahã, único membro da família Mura, na Amazônia. De acordo com os dados de Everett (1986:217), o Pirahã não apresenta marcação de número, nem em nomes e nem em formas pronominais, mas utiliza outras estratégias para quantificar entidades, como o uso de quantificadores ou de uma posposição associativa/comitativa. Há outras línguas que parecem ter esse mesmo comportamento, como o Chinês Clássico e o Kawi, o Javanês Antigo, que não marca número em nomes e nem em pronomes, mas utiliza quantificadores (Corbett 2000:51).
+63
+
+3.2 Estratégias envolvidas com a expressão de quantidade Na seção anterior verificamos os valores de número que podem aparecer nas
+línguas em pronomes e/ou nomes. Neste momento vamos nos deter na marcação de número em nominais, e tentar perceber porque alguns nomes podem receber marcação de número e outros não. Subjacente a essa marcação de número nas línguas do mundo Corbett (2000:54) percebeu, apesar da variação entre as línguas, a existência de um padrão bem claro que organiza essa marcação em termos de uma hierarquia de animacidade.
+A hierarquia de animacidade nos ajuda a entender outros padrões na marcação de número, como os efeitos que a marcação morfológica de número provoca nos elementos que se encontram no nível mais alto da hierarquia, ou mesmo como a hierarquia reage junto com a concordância para selecionar os nominais que vão ser mais ou menos marcados para número. Somando-se aos efeitos morfológicos nos nominais que pertencem a uma hierarquia, devemos também considerar os efeitos semânticos. Nas seções seguintes trato desses fenômenos mais detalhadamente.
+3.2.1 A hierarquias de pessoa, animacidade e agentividade De acordo com Silverstein (1976:171), a hierarquia de pessoa pode ser explicada
+em termos de traços dos padrões subjacentes nas línguas. Silverstein inclusive afirma que há uma relação sistemática entre o traço de ‘pessoa’ e o de ‘número’, e que tal relação pode ser atestada através do fato de que qualquer nome com dupla especificação positiva para os traços [ego] e [tu] deve ser [+plural], o que pode ser indicado pela seguinte generalização:
+64
+
+[+ego, +tu] => [+plural]
+Figura 3.5 Interação entre número-pessoa (Adaptado de Silverstein 1976:171)
+Outros parâmetros podem estar envolvidos com a questão da hierarquia de pessoa, como a animacidade. De acordo com Comrie (1989:188), a animacidade também parece ser fator determinante de cisões morfológicas, podendo controlar desde sistemas de marcação de caso a sistemas de expressão de número. Comrie (1989:185) também explica que apesar das intuições sobre animacidade serem de ordem não-linguística, e poderem ser testadas independentemente dos reflexos linguísticos, estudos comparativos oferecem dados que permitem especular sobre esse assunto dentro da esfera linguística. A agentividade é outro parâmetro que pode condicionar a marcação de número de nomes e pronomes em uma hierarquia. De acordo com a escala oferecida por Dixon (1995:84), apresentada na figura 3.6, a marcação de número em uma língua pode aparecer ou não de acordo com o grau de agentividade do nominal.
+
+1ª. Pessoa Pronomes
+
+2ª. Pessoa Pronomes
+
+Demonstrativos
+
+3ª. Pessoa
+
+Nomes
+
+Pronomes
+
+Próprios
+
+Nomes comuns: Humano Animado Inanimado
+
+< ---------------------------------------------------------------------------------------------------------
+
+[+ agente]
+
+[- agente]
+
+Figura 3.6 Hierarquia de agentividade (adaptado de Dixon 1995:84)
+
+A premissa básica que norteia a análise da influência da hierarquia na marcação de número nas línguas é que a distinção singular – plural em uma língua deve afetar ou toda a hierarquia ou o seu topo, mas não a parte mais baixa. Vamos analisar os elementos que compõem essa hierarquia. Primeiramente, em algumas línguas, o número
+65
+
+pode ser marcado no verbo para nomes que denotam seres humanos, como no Mayali, uma língua da família Australiana, ramo Gunwinggu. Como nessa língua as formas do sistema pronominal codificam sujeito e objeto no mesmo afixo, então 1/3 indicaria que a primeira pessoa atua sobre a terceira. Se o objeto for um humano, o número é marcado no verbo (18a). Note também que neste mesmo exemplo não há marcador de número no nome bininj ‘homem’, mesmo significando que dois homens estão envolvidos na ação. Se o objeto for não-humano o marcador de genitivo –gen é utilizado no advérbio (18b):
+
+(18) a. abanmani-na-ng 1.MIN/3.UNIT.AUG-see-PAST.PRFV ‘I saw the two men’
+
+bininj man
+
+b. duruk dog
+
+ginga crocodile
+
+ba-baye-ng 3.MIN/3.MIN-bite-PAST.PRF
+
+ba-ngune-ng
+
+na-wern-gen
+
+3.MIN/3.MIN-eat-PAST.PRF
+
+MASC-many-GEN
+
+‘The crocodile has eaten all the dogs / the many dogs’
+
+(Corbett 2000:58)
+
+Outro fator importante que merece atenção é a questão da referencialidade dos pronomes. A primeira questão é até que ponto o nós, ou outra primeira pessoa do plural, vai realmente ser o plural de eu ou seus equivalentes. Sabe-se que frequentemente o nós é usado com significado associativo (eu + outros), mas também pode ser usado como referência a um grupo (nós todos). Corbett (2000:62) assume, no entanto, que o nós deve ser tratado como plural porque os efeitos morfológicos da marcação de número podem ser regulares em pronomes. Exemplos disso são o Mandarim Chinês e o Miskitu, uma língua Misupalmanea da Nicarágua e Honduras, que apresentam nos seus pronomes a mesma marca de plural regular que aparece nos nomes. Há muitas
+66
+
+evidências que pronomes se comportam de maneira diferente dos nomes, no que diz respeito à marcação de número.
+A terceira pessoa oferece dados interessantes. Nem todas as línguas apresentam uma distinção pronominal para a terceira pessoa, e as línguas que têm geralmente as utilizam para referir-se a humanos. Outro aspecto importante acerca dos sistemas pronominais é a regularidade com que os pronomes de primeira e segunda pessoa divergem do pronome de terceira pessoa, e tal fato pode ser refletido na marcação de número. Em outras palavras, se houver um split entre nomes humanos e não-humanos animados, a terceira pessoa irá marcar o plural do referente menos animado.
+Longe de esgotar o que a literatura tipológica tem a dizer sobre número, os pontos abordados nessa seção tem ligação direta com a análise da marcação desta categoria no Ye’kuana. Se o número é uma categoria gramatical, então ele deve estar disponível para todas as possíveis raízes em uma língua. Como visto acima, no entanto, o número é influenciado pela Hierarquia de Animacidade, o que leva Corbett (2000:88) a afirmar que o status de número enquanto categoria flexional é menos claro do que parece. Como a Hierarquia oferece restrições para a marcação de número, então ela diminui o escopo de tal marcação nas línguas.
+A situação entre a primeira pessoa versus a segunda já nos é mais esclarecedora. O Kwakiult, conhecido como Kwak’wala, uma língua norte-americana (família Wakashan), distingue cinco pronomes: um de primeira pessoa do singular, um inclusivo (primeira e segunda pessoa), um exclusivo (primeira e terceira pessoa), além de pronomes de segunda e terceira pessoa singular e plural. Os três primeiros evidenciam a presença da primeira pessoa, deixando a impressão de que o que realmente está em jogo é a distinção entre inclusivo e exclusivo, o que, de alguma forma nos levará a falar dos distributivos, mais adiante.
+67
+
+3.2.2 Concordância A marcação de número nas línguas pode apresentar grande relação com a
+concordância. Como esperado pela hierarquia de animacidade, podemos sempre pensar que seres animados serão mais marcados para número que não-animados, mas podem haver exceções. No Inglês, por exemplo, alguns nomes não possuem forma morfológica para marcar número, no entanto esta categoria pode ser evidenciada na concordância tanto em pronomes demonstrativos quanto nas formas do verbo auxiliar. Corbett (2000:66) cita como exemplo This sheep has been cloned ‘Este carneiro foi clonado’, e These sheep have been cloned ‘Estes carneiros foram clonados’, onde percebe-se que a forma de sheep ‘carneiro’ não recebeu morfologia de número. Neste caso a distinção é entre a expressão morfológica de número (um marcador de número, ou a ausência dele) e a expressão sintática deste número, realizada pela concordância.
+3.2.3 Distributivos e Coletivos
+A questão levantada pelos distributivos e coletivos, como marcadores de número em nomes, tem especial importância para este trabalho. Neste momento apenas apresento as colocações da tipologia de Corbett (2000:111) a esse respeito, mas no capítulo seguinte analiso dados do Ye’kuana que contribuirão para um entendimento maior dessas questões numa perspectiva translinguística.
+Os distributivos marcam a separação de membros de um grupo enquanto entidades, eventos, qualidades ou locais. A marcação distributiva nos nomes deve conferir individualização para membros de um grupo. Como distributivos sempre implicam em pluralidade, línguas que não apresentam um plural regular na flexão de
+68
+
+nomes podem utilizá-los como estratégia de indicação de pluralidade, por implicação, mas a linha que separa os dois é muito tênue. Corbett (2000:114) também afirma que em outras línguas as formas distributivas podem co-ocorrer com a marca de número, como no Mohawk, uma língua da família Iroquiana, do Canadá, como mostram os exemplos em (19):
+
+(19) a. ra-ksa’-a MASC-criança-DIM ‘menino’
+b. o-neni-a’ NEUT-pedra-SUF.NOM ‘pedra’
+
+ra-ti-ksa’-okòn-’a MASC-PL-criança-DIST-DIM ‘meninos’
+o-neni-a’-shon’a NEUT-pedra-DIST-SUF.NOM ‘várias pedras’
+(Corbett 2000:114)
+
+Como distributivos nominais sempre realçam a individualidade das entidades envolvidas, nomes denotando humanos sempre são vistos como individuais. Nas línguas em que esses distributivos ocorrem, é normal que esses nomes carreguem morfemas distributivos para se referirem a vários humanos. Na seção 3.2.1, ao falar sobre a marcação de número nos pronomes, mencionei que o inclusivo e o exclusivo poderiam ser tratados como distributivos porque referem-se a um grupo (1+2, inclusivo e 1+3, exclusivo), ao mesmo tempo em que evidenciam a individualidade da primeira pessoa.
+Os coletivos, que também podem ser chamados de número ‘geral’ (discutido na seção 3.1) na literatura, possuem como função especificar a coesão de um grupo, manifestada em atividades conjuntas, implicando que as entidades envolvidas sejam consideradas como uma unidade. Coletivos e distributivos podem denotar a ideia de
+
+69
+
+pluralidade, com algumas restrições: coletivos podem ser compatíveis com duais, ao passo que os distributivos não.
+Segundo Corbett (2000:118) o problema para a tipologia é que coletivos, assim como distributivos, são tipicamente formados por nomes que estão posicionados em um nível mais baixo na hierarquia (figura 3.6, seção 3.2.1 acima), como nomes nãohumanos e inanimados, que dificilmente relacionam-se com formas pronominais. Como existem línguas em que as categorias de distributivo e coletivo podem co-ocorrer com as marcas de número, isso é uma evidência de que distributivos e coletivos são categorias distintas da categoria de número. Outra questão delineia-se a partir daqui: o fato de que coletivos e distributivos talvez sejam considerados valores opostos dentro de uma mesma categoria. Há alguns pontos, no entanto, que podem revelar uma relação não de oposição, mas de complementariedade.
+Em primeiro lugar, os contextos de uso de distributivos e coletivos não são equivalentes. Como foi mencionado acima, coletivos relacionam-se com os duais uma vez que ambas as categorias realçam o número de entidades consideradas como parte de um conjunto, enquanto distributivos não, pois estes indicam entidades consideradas em sua individualidade. Em segundo lugar, se distributivos e coletivos fossem opostos um ao outro, a ausência de um deles numa língua implicaria automaticamente na presença do outro, mas muitas línguas podem manifestar tanto o coletivo quanto o distributivo. Corbett (2000:120) é asseverativo quando diz, novamente, que o fato de distributivos e coletivos não serem valores numéricos deve-se ao fato de que eles podem co-ocorrer em algumas línguas com os valores numéricos básicos, geralmente o plural.
+70
+
+3.2.4 A distinção massivo-contável Com relação à distinção massivo-contável em nomes, Corbett (2000:79) assume
+que a relação dessas categorias com a hierarquia de animacidade se dá no nível sintático, a despeito da distinção massivo-contável ser de nível semântico. Muitas línguas, segundo Chierchia (1998a), codificam a distinção entre ‘nomes contáveis’, que designam entidades unitárias, e ‘nomes massivos’, que designam um conjunto de entidades não especificadas. Essa distinção pode ocorrer no nível sintático ou morfológico e pode variar de língua para língua. Para Chierchia (1998a, 1998b e 2010) a pluralização de nomes, a distribuição dos determinantes e de numerais são algumas das condições sintáticas que tem sido utilizadas para distinguir nomes contáveis de nomes massivos.
+Em línguas que apresentam marcação de número, nomes que designam entidades, ou seja, contáveis, são pluralizados, enquanto os massivos não são pluralizados. Em línguas que não apresentam essa distinção, como o japonês e o chinês, todos os nomes têm status de massivos porque podem exigir a presença de um classificador para atribuir número ao nome. Segundo Nakanioshi & Tomioka (2004) plural associativo, diferentemente do plural aditivo, como no inglês, é aquele focado no indivíduo e seus associados, como podemos perceber no exemplo (20) em que o morfema –tati é um plural associativo, pois pode relacionar um indivíduo a outros:
+
+(20) a. Mika-tati Mika-PL ‘Mika and her associates’
+
+(Nakanioshi & Tomioka 2004)
+
+Em comunicação pessoal, Mara Santos explicou que o mesmo plural pode ocorrer em Kuikuro, uma língua Karíb do Alto Xingu. Segundo ela, o morfema –ko pode ser
+71
+
+sufixado ao nome para denotar individualização de um coletivo. Esse fenômeno também pode ser verificado no Ye’kuana, conforme veremos no capítulo quatro (seção 4.2)
+(21) a. Jumu-ko Jumu-PL ‘o pessoal do Jumu’
+b. Brazil-ko Brasil-PL ‘a seleção brasileira de futebol’
+Importa também compreender que uma distinção de cunho semântico recai sobre a ‘recategorização’ do nome, uma vez que um nome classicamente entendido como massivo, como ‘água’, pode ser usado em um contexto como contável (22a), e um nome contável, como ‘menino’ pode ser usado em um contexto massivo (22b).
+(22) a. Quero uma água. b.Tinha menino em toda a casa.
+Corbett (2000:81), no entanto, faz a ressalva de que nem sempre todos os nomes podem sofrer essa ‘recategorização’, mas que a preferência dos nomes em ser contáveis sempre recai nos termos das restrições da hierarquia de animacidade.
+3.3 Número Verbal Enquanto o número nominal quantifica entidades, o número verbal ou o
+marcador que indica pluriacionalidade1 quantifica os eventos denotados pelo verbo.
+Usarei os termos ‘pluriacional’ e ‘número verbal’ como equivalentes, conforme explico ao longo da seção.
+72
+
+Logo estamos tratando do conteúdo semântico que verbos podem manifestar em termos de repetição do evento, e essa manifestação pode ser verificada através da morfologia deste verbo. No entanto, nem sempre as marcas de plural no verbo vão indicar somente a pluralidade de eventos; muitas vezes elas indicam a concordância com os valores de número relacionados aos argumentos do verbo.
+Muitas vezes quando mencionamos uma ação, não pensamos na quantidade de vezes que tal ação pode ocorrer porque essa ‘quantidade de vezes’ é um sentido que está implícito na semântica do verbo, como por exemplo (23a) e (23b):
+(23) a. João comeu a banana.
+b. João mastigou a banana.
+Em ambos os exemplos percebemos que não há nenhuma referência explícita a quantidade de eventos que cada verbo denota, mas percebe-se que em (23a) a ação ‘comer’ é pontual, enquanto em (23b) a ação ‘mastigar’, para se concretizar, precisa ser realizada várias vezes, uma vez que é incomum que se mastigue um alimento apenas uma vez. O número verbal, no entanto, não se refere apenas à quantidade de eventos denotados pelo verbo, mas também se o evento é realizado por vários agentes, tendo vários elementos como objetos da ação, ou se é uma combinação de todos esses significados.
+Lasersohn (1995:244) define marcadores pluriacionais como morfemas que indicam multiplicidade de eventos, e esta multiplicidade pode envolver múltiplos participantes, tempos ou lugares. De acordo com Cabredo Hofherr (2010:40) quem propôs a utilização do termo ‘pluriacional’ foi Newman (1980 citado por Cabredo
+73
+
+Hofherr 2010:40) para indicar ações múltiplas, iterativas, frequentativas, distributivas ou extensivas, mas pode haver exceções. Por exemplo, no Chechen (família Caucasiana do Norte, falada da Rússia), quando o verbo recebe a marca de plural de evento essa marca denota um prolongamento do evento ao invés de sua repetição. No Chechen também é possível que o marcador pluriacional seja lido com sentido distributivo: pode indicar o sujeito plural em verbos intransitivos e o paciente plural em verbos transitivos (Yu 2003). Outro aspecto da pluriacionalidade é que ela pode estar relacionada a classes de verbos, como no Papago, uma língua Uto-Azteca do sul do Arizona e norte do México. Segundo Ojeda (1998:249) as classes de verbos do Papago são três, Unitivo x Repetitivo x Distributivo, Unitivo x Não-Unitivo, e Não-Distributivo x Distributivo2.
+
+No Karitiana (Müller e Sanchez-Mendez 2010), uma língua da família Arikém, tronco Tupi, os sintagmas nominais não possuem qualquer material funcional, como classificadores de forma, artigos ou quantificadores. O Karitiana também não possui classificadores numerais, e os pronomes de terceira pessoa são neutros em relação à expressão de número. Os marcadores pluriacionais aparecem na forma de afixos verbais que indicam a ocorrência de uma multiplicidade de eventos. Tais marcadores, expressos por duplicação, podem fornecer informação acerca de participante e/ou eventos singulares ou plurais, como vemos nos exemplos (24a) e (24b):
+
+(24) a. õwã
+
+Ø-naka-kot-Ø
+
+sypomp-t opokakosypi
+
+menino 3-DECL-quebrar-NFUT
+
+dois-OBL ovo
+
+‘o menino quebrou dois ovos’
+
+[Contexto: um menino quebrou dois ovos ao mesmo tempo]
+
+2 Ojeda (1998:250) ao citar Mathiot (1983) explica os significados dos rótulos: Unitivo: indica uma ação ou condição única em um único local; Repetitivo: indica várias ações idênticas em um único local; NãoDistributivo: indica um único lugar, sem especificar o número de ações ou condições; Não-Unitivo: pode ser tanto repetitivo quanto distributivo, ou seja, indica várias ações ou condições idênticas em um ou em vários locais.
+74
+
+b. õwã
+
+Ø-na-kot-kot-a-t
+
+sypomp-t opokakosypi
+
+menino 3- DECL-quebrar-RED-VERB-NFUT dois-OBL ovo
+
+‘o menino quebrou dois ovos’
+
+[Contexto: um menino quebrou dois ovos um depois do outro]
+
+(Müller e Sanchez-Mendez 2010:13)
+
+Em (24a) os dois ovos foram quebrados de uma só vez, ou seja, houve apenas um evento de quebra. Em (24b), a presença da duplicação denota um contexto de mais de um evento de quebra de ovos (Müller e Sanchez-Mendez 2010:13). No Karitiana, os marcadores pluriacionais realizam uma operação de pluralização sobre a denotação cumulativa do verbo: desta forma, não é possível a interpretação distributiva das sentenças acima. No próximo capítulo serão apresento dados do Ye’kuana que colaboram para uma análise da categoria de número de acordo com a perspectiva teórica sobre Tipologia que foi apresentada neste capítulo.
+
+75
+
+4
+
+NÚMERO EM YEKUANA
+
+Este capítulo tem por objetivo apresentar uma análise da categoria número na língua Ye’kuana. Na seção 4.1 falo sobre a marcação de número em pesquisas anteriores do Ye’kuana, já na seção 4.2 investigo a marcação de número em nomes e pronomes, tendo como base a distinção entre coletivo e plural. Em 4.3 examino distinções de número em construções nominais de posse. No tópico 4.4 examino a expressão de número em formas pronominais. Como em Ye’kuana advérbios e posposições também podem receber número, trato desse assunto em 4.5. Na seção 6 4.6 apresento as construções de número em formas verbais, e em 4.7 trato do morfema de número verbal que indica a pluriacionalidade do verbo.
+
+4.1 O tratamento da categoria de número nas pesquisas anteriores do Ye’kuana Nesta seção farei uma revisão de como a categoria de número foi tratada nas
+pesquisas desenvolvidas sobre o Ye’kuana até o momento1. Explico que os exemplos apresentados nessa seção foram retirados das obras citadas e, quando não houver exemplos suficientes é porque não estavam disponíveis nas fontes. Inicio citando o que Hall (1988) explica sobre os sufixos de plural.
+Segundo Hall (1988:306) os nominais independentes, adjetivos atributivos e nomes derivados recebem os sufixos –komo e –tomo (e o alomorfe –chomo, que aparece após a vogal alta [i] ou da semi-vogal [j]) como marcadores de número, enquanto nas posposições e nos predicados adjetivais o plural é marcado através do sufixo –nñe. Nas palavras de Hall:
+The De’kuana unspecified NP can be used to mention one member of the NP class [exemplo 01a], but not to refer to an
+1 É importante lembrar que as glosas e os dados apresentados em forma ortográfica nesta seção são compilados das obras citadas..
+76
+
+identifiable member [exemplo 01b] for the receiver/listener. Particularization of an individual NP class member occurs with specificity marking, including particularization of an identified group of NP class members via marking for plural. NP individuation is not the same thing as particularization, as no particular, single item is meant as separate from the class as a whole when an item of that NP class is mentioned. Particularization occurs with deitic or other specification marking.
+(Hall 1988:95)
+(01) a.wodi ‘a woman’
+
+b. möñö wodi ‘this woman’
+
+(Hall 1988:95)
+
+De acordo com Hall (1988:96) essa marcação morfossintática que provoca a especificação do NP ocorre em todas as línguas, mas manifesta-se de forma específica em cada uma. No dialeto De’kuana a especificação de NP envolve as categorias de posse, os deíticos, adjetivos, sentenças relativas e plural. Os dados de Hall (1988:97) mostram que há dois sufixos que marcam plural em NPs, são eles –tomo e –komo. O sufixo –tomo marca o plural de elementos possuídos (exemplos 02a e 02b), já o sufixo de plural –komo marca concordância de número em nomes animados, além de pluralizar termos de parentesco e o elemento possuidor (exemplo 02c).
+
+(02) a. öwö tu’dedö ‘my enemy’
+b. öwö tu’de’tomo ‘my enemies’
+c. (könwanno) ku’tu’dedö’komo ‘our enemies’
+
+(Hall 1988:97)
+
+77
+
+Sobre a marcação de número nos verbos, Hall (1988:333) descreve que nessa classe o número é marcado pelo sufixo –to (que tem um alomorfe –cho)2 após a marca de tempo/aspecto, mas nas formas de primeira pessoa inclusiva e segunda pessoa do plural no passado não-recente perfectivo, o plural precede o marcador de tempo/aspecto, conforme mostram os exemplos (03):
+
+(03) a. n-edant -a-to 3/3-meet-NPST-PL ‘He met him/her/it’
+
+b. n-edant -i-cho 3/3-meet-PRP-PL ‘He met them’
+
+(Hall 1988:98)
+
+Para marcar formas verbais complexas, nominalizadas ou com afixos modais, o plural do objeto direto (paciente) é marcado pelo sufixo –nñe, no radical do verbo (exemplo 04d), enquanto o marcador de plural –to ocorre na forma auxiliar do sujeito, conforme demonstram os exemplos (04a, 04b e 04c):
+
+(04) a. y-aihuku-a-to 3/1-hit-PRES-PL ‘They hit me’
+
+b. y-aihuku-da
+
+n-a-a-to
+
+3/1-hit-NEG
+
+3-be-ASP-PL
+
+‘They don’t hit me’
+
+c. kanno k-aihuku-a-to 3PL 3/2+1-hit-PRES-PL ‘They hit us’
+
+d. kanno k-aiju(ku)-t -(n)ñe-da n-a-a-to
+2 Também condicionado pela adjacência da vogal alta [i] ou da semi-vogal [j].
+78
+
+3PL 1-hit-PL-PL-NEG ‘They dont’t hit us’
+
+3-be-ASP-PL
+
+(Hall 1988:334-335)
+
+Outra consideração feita por Hall (1988:99) é acerca da ocorrência do sufixo de número –to para marcar sujeito e objeto. Quando os dois argumentos (sujeito/agente e objeto/paciente) estiverem na terceira pessoa do plural usa-se um marcador duplo para indicar a pluralidade de cada um.
+
+(05) a. mänä
+
+k n-edantä-i-cho
+
+3S
+
+3-meet-PRP-PL
+
+‘He met them’
+
+kanno 3PL
+
+b. kanno k n-edantä-i-cho
+
+3PL
+
+3-meet- PRP-PL
+
+‘They met them’
+
+kanno 3PL
+
+(Hall 1988:99)
+
+Hall também identifica o afixo –h , que indica que a ação ocorre mais de uma vez, ou seja, este afixo é utilizado quando há necessidade de indicar uma ação repetitiva, uma ação que está em processo, ou ainda marca o verbo para mostrar que a ação foi executada várias vezes3.
+
+(06) a. kamisha cho‘kata ‘I wash the shirt’
+
+b. kamisha cho‘ka-h -‘ta ‘I wash the shirts’4
+(Hall 1988:100)
+Uma ação repetitiva é aquela que precisa de repetição para se concretizar, por exemplo, a ação descrita pelo verbo lavar. Já uma ação que é executada várias vezes indica que a ação foi executada mais de uma vez em momentos distintos. No capítulo 3 esta questão será abordada com mais detalhes.
+Hall (1988:100) não fornece a interlinearização desses exemplos.
+79
+
+Hall (1988:99) descreve o afixo –h da seguinte forma: in some cases it functions to communicate ongoing action, repetition of punctual acts (e.g. chopping), and in other cases it marks the verb to show the action was executed upon numerous items (e.g. chopping of a number of logs as opposed to repeat chopping on one log). Hall considera que o afixo –h pode ser interpretado com sentido de referência a vários objetos, especificando número para o NP paciente, embora este número esteja marcado na morfologia do verbo. Em outra situação, quando um nome for derivado de uma raiz verbal, este mesmo afixo –h pode ser usado para marcar o NP como plural (1988:100), conforme os exemplos em (07) que mostram o afixo –h pluralizando o NP “my garden”, que é derivado da forma verbal ña:tö’tädö “to plant”.
+
+(07) a. öwö nadwähödö ‘my Garden’
+
+a. öwö nadwä-hö-tödö ‘my gardens’
+
+(Hall 1988:100)
+
+Passando aos dados de Chavier (1999 e 2008) percebemos uma aproximação
+
+com as análises de Hall (1988), uma vez que apontam as mesmas características para a
+
+marcação de plural com os sufixos –komo e –tomo em bases nominais, o sufixo –to em
+
+verbos e o sufixo –nñe em posposições e formas adjetivas predicativas. Segundo
+
+Chavier (1999:36) tais sufixos são desinências gramaticais que indicam a noção de
+
+plural ou ‘não-singular’, sendo que o morfema de plural pode ainda indicar a noção de
+
+conjunto. Dessa forma, nas suas glosas ela utiliza o termo ‘plural’ quando o sufixo –to
+
+for utilizado em verbos e utiliza o termo ‘coletivo’ quando os sufixos –komo ou –tomo
+
+aparecerem em bases nominais. Chavier, no entanto, não nos dá mais dicas sobre essas
+
+noções de singular e/ou plural.
+
+80
+
+Em sua gramática, Cáceres (2011) analisa a morfologia nominal do Ye’kuana e nos fornece outras pistas sobre a marcação de número na língua. Em primeiro lugar, afirma que o plural geral é marcado pelo clítico =komo, que possui uma variante palatalisada =chomo, que ocorre sempre depois de uma vogal alta anterior [i] ou da aproximante [j] (Cáceres 2011:108). De acordo com os dados levantados na sua pesquisa, ela afirma que =komo pode ser utilizado tanto em nomes animados quanto inanimados, no entanto, nomes de animais não podem receber nem marca de plural e nem de posse. Ao comparar com outras línguas da família Karíb, Cáceres explica que o sistema de número do Ye’kuana é mais flexível, uma vez que Gildea (1998:117) afirma que na maior parte das línguas Karíb os marcadores de plural nominal não são utilizados em nomes inanimados, e ainda não apresentam exatamente uma categoria de ‘plural’, mas apenas uma distinção entre coletivo e não-coletivo. Nesse ponto, Cáceres encerra falando sobre o plural afirmando que seus dados não permitem confirmar que o clítico =komo seja uma marca de coletivo ou de plural.
+Ao analisar construções de posse, Cáceres (2011:115) afirma que o clítico =komo pode ser utilizado para indicar a pluralidade do possuidor e do possuído, como nos exemplos em (08).
+(08) a. waicha ‘arme’ N waicha-dü=komo ‘l(es) arme(s) de N(pl)’ b. wokü ‘boisson’ N wokü-dü=komo ‘la/les boissons de N(pl)’ c. simada ‘flèche’ N simada-i=chomo ‘le(s) flèche(s) de N(pl)’
+(Cáceres 2011:115)
+81
+
+Quando for necessário indicar posse de seres animados, termos de parentesco e animais de estimação, o sufixo –tomo é utilizado para indicar a pluralidade do possuído, como demonstrado nos exemplos abaixo.
+
+(09) a. yeekünü y^-ökünü-Ø ‘mon animal de compagnie’
+b. ijinñamo i-jinñamo-Ø ‘son épouse’
+
+yeeküntomo y^-ökünü-Ø-tomo ‘mes animaux de compagnie’
+ijinñantomo i-jinñamo-Ø-tomo ‘ses épouses’
+(Cáceres 2011:116)
+
+Também há a possibilidade de combinar as duas marcas de plural, –tomo e =komo, gerando assim a forma –tonkomo que só pode ser usada para indicar a pluralidade de possuidores. Para resolver uma possível ambiguidade, Cáceres afirma que a compreensão da pluralidade do possuído é pragmaticamente controlada (2011:117) e oferece o exemplo abaixo, no qual o demonstrativo singular mökkü mostra que os morfemas de plural não forçam duas referências de plural.
+
+(10) Mökkü ojonü naadü kwa'kö, mökkü yakonotonkomo.
+
+mökkü o-jonü-Ø na=dü
+
+köwa'kö mökkü y-akono-Ø-tomo=komo
+
+DEM3an 2-neveu-POSS 3.COP=REL
+
+comme DEM3an 3-cadet-POSS-PL.ANIM=PL
+
+‘[Celui] qui est comme ce neveu là [à toi], celui [qui est] leur frère cadet (c-à-d,
+
+le plus petit de tous).’
+
+(Cáceres 2011:117)
+
+Ao falar sobre a marcação de número em verbos, Cáceres (2011:124) afirma que o Ye’kuana apresenta dois morfemas para indicar plural: o sufixo –t que pluraliza os participantes de uma ação ocorrida no tempo passado nos modos performativos, e o
+82
+
+clítico =to, que é utilizado por todas as pessoas no tempo não-passado. Ambos os morfemas são glosados como coletivo.
+
+(11) a. neekato n-eeka-a=to 3/3-mordre-NPST=COLL ‘ils le mordent’
+b. wenwijinñaato w-emuijiña-a=to 1/3-déposseder-NPST=COLL ‘je leur enlève’
+
+c. mö'dütö m-ö'dü-tö(-i) 2Sa-arriver-COLL(-PRP) ‘vous êtes arrivés'
+
+(Cáceres 2011:124)
+
+No capítulo que trata de tempo, modo e aspecto, Cáceres fala sobre o morfema – j tü que indica pluriacionalidade (2011:236). Tal morfema marca uma ação que se repete, ou porque o movimento empregado para realizar a ação se repete, ou porque a ação se repete no tempo, ou porque a ação é realizada por várias pessoas, mas não ao mesmo tempo, ou porque a ação é executada em vários objetos. Este morfema recebe a glosa de ‘iterativo’ (ITER) como no exemplo (12a), a não ser que indique claramente pluralidade de objeto, caso em que recebe a glosa de plural (PL.O) como no exemplo (12b):
+
+(12) a. Aya'deddu wetajö'akene ñaajöichü.
+
+ay-a'deu-dü w-eta-jötü-akene
+
+i-n-ajöi-dü
+
+2-mot-POSS 1/3-entendre-ITER-PDI 3-SHR-enregistrer-NZR
+
+‘J'ai entendu ta voix (lit. ton mot) dans ce qu'elle a enregistré.’
+
+[Contexte: le locuteur avait aidé dans la transcription de plusieurs textes
+
+produits par son interlocutrice l'année d'avant]
+
+83
+
+b. Künö’joi,
+
+künemomjötüi
+
+kün-öjö-i
+
+kün-emomü-jötü-i
+
+3S.DIS-se_laver 3/3.DIS-mettre-PL.O-PRP
+
+‘Il s’est levé, il a mis ses bottes’
+
+tüwotai t-wota-i 3.REFL-botte-POS
+(Cáceres 2011:236)
+
+4.1.1 Conclusões preliminares Nesta seção apresentei como estudos anteriores sobre o Ye’kuana trataram a
+questão da marcação da categoria número. As descrições de Hall (1988) acerca do dialeto De’kuana do Cunucunuma, na Venezuela, são vagas e carecem de exemplos para determinar o escopo da marcação de número na língua. Outra dificuldade relacionada aos exemplos de Hall é que grande parte deles não apresentava interlinearização, o que dificulta a análise do leitor. Quanto às conclusões de Chavier (1999, 2008), estas em muito se assemelham às de Hall, sem entrar em maiores detalhes acerca da marcação de número em Ye’kuana.
+Os dados de Cáceres (2011) são mais elucidativos acerca da descrição da categoria número no dialeto Ye’kuana do Caura, na Venezuela. Em sua pesquisa Cáceres aponta para a utilização dos morfemas de número em contextos tratando como ‘clítico’ o sufixo =komo, sem, no entanto, explicar o motivo para essa classificação. Nas próximas seções trataremos com mais profundidade sobre a categoria número, apresentando novos parâmetros para comparação dos dados em Ye’kuana.
+
+4.2 A marcação de número no nome: coletivo ou plural? A literatura das línguas Karíb assume que nas línguas dessa família não há
+plural, mas uma marca que coletiviza nomes animados (Gildea 1998:117). Antes de proceder a essa discussão, é necessário saber se existe alguma diferença entre coletivização e pluralidade (conferir 3.2.4). O capítulo anterior trouxe algumas noções
+84
+
+do que é o coletivo. De acordo com a tipologia de Corbett (2000:111), o coletivo e o distributivo são valores da categoria número, e por isso mesmo podem co-ocorrer com os valores numéricos básicos em algumas línguas. Geralmente o plural pode ocorrer tanto com o distributivo quanto com o coletivo, e o dual só ocorre com o coletivo, mas isso não é uma regra. Ou seja, coletivo e distributivo são valores distintos dos valores de plural e singular, mas que, da mesma forma que estes, denotam valor de número.
+Nas várias elicitações realizadas na língua Ye’kuana, a despeito de pluralizar os nomes, o morfema de número tem comportamento semântico de coletivizador. Em Ye’kuana, alguns nomes são coletivizados acrescentando-se o clítico =komo5 ao radical, enquanto outros nomes se utilizam de estratégias diferentes para marcar número. Cáceres (2012:108) afirma que este coletivizador apresenta uma variante palatalizada =chomo, que ocorre quando a raiz nominal apresentar a vogal alta anterior [i] ou a aproximante [j] em coda silábico. Para fins de glosa, adotaremos aqui a glosa PL para designar tais clíticos, pois trata-se de uma forma mais econômica de rotular a forma.
+
+(13) a. [janwa] [janwa'komo] yanwa yanwa=komo homem homem=PL ‘homem’ ‘vários homens’
+
+b. [wo i] wodi mulher ‘mulher’
+
+[wo i' omo] wodi=chomo mulher=PL ‘várias mulheres’
+
+c. [kahi a na] [kahi a nakomo] kajichaana kajichaana=komo tuxaua tuxaua=PL ‘tuxaua’ ‘tuxauas’
+
+d. [f way] [f way omo]
+
+föwai
+
+föwai=chomo
+
+5 Nesta pesquisa sigo tratando =komo como um clítico, da mesma forma que Cáceres (2011). É necessário em um trabalho futuro repensar a classificação desse elemento, demonstrando com exemplos claros se ele tem comportamento de clítico ou de sufixo.
+85
+
+pajé ‘pajé’
+
+pajé=PL ‘pajés’
+
+e. [ i ] ädinhä panela ‘panela’
+f. [ mi] ämi unha ‘unha’
+
+[ i 'komo] ädinhä=komo panela=PL ‘várias panelas’
+[ mi' omo] ämi=chomo unha=PL ‘várias unhas’
+
+Cáceres (2012:109) afirma que alguns nomes, que não estão identificados em subgrupos específicos, não podem receber o coletivizador =komo, como uu ‘mandioca’ e kankudu ‘cabaça’. No entanto esses nomes e outros foram testados durante esta pesquisa e o morfema demonstrou ser aceito:
+
+(14) a.[uu]
+
+[uu'komo]
+
+uu
+
+uu=komo
+
+mandioca mandioca=PL
+
+‘mandioca’ ‘várias mandiocas’
+
+b. [na't ] natö inhame ‘inhame’
+
+[nat 'komo] natö=komo inhame=PL ‘vários inhames’
+
+c. [kanku' u] [kanku u'komo] kankudu kankudu=komo cabaça cabaça=PL ‘cabaça’ ‘várias cabaças’
+
+d.[tu'ku: i] tukuudi garrafão ‘garrafão’
+
+[tu'ku: i' omo] tukuudi=chomo garrafão=PL ‘vários garrafões’
+
+Para marcar nomes de algumas frutas, no entanto, o coletivizador se mostrou inaceitável:
+
+86
+
+(15) a. [faduu u'komo] *faduudu=komo banana=PL ‘várias bananas’
+b. [sokwa'komo] *sokwa=komo sokwa=PL ‘várias sokwas’6
+c. [a ii a u'komo] *ashiichadu=komo cana=PL ‘várias canas’
+Quando é necessário utilizar o numeral, o uso do coletivizador é dispensado para
+alguns nomes. Nos exemplos que seguem abaixo, percebemos em (16a) que o nome
+‘banana’ faduudu dispensa quantificação, e nesse mesmo contexto pode ser interpretado
+como apresentado uma quantidade indefinida (uma banana ou várias bananas). Já no
+exemplo (16b) o uso do modificador nominal ‘várias’ ooje acrescenta uma informação
+sobre quantidade, mesmo que seja não-especificada, e da mesma forma que em (16a), o
+nome não recebe nenhuma marca morfológica para marcar número. O exemplo (16c)
+acrescenta a informação numérica específica ‘duas’ aakä, e da mesma forma que nos
+exemplos anteriores o nome ‘banana’ não recebe marcação de número. Por último, o
+exemplo (16d) mostra que mesmo com a presença do numeral o nome, se representar
+um ente animado humano, pode apresentar o coletivizador:
+(16) a. [fa uu u wamey] faduudu w-ame-i banana 1-comer-PRP ‘eu comi banana’
+6 Sokwa é uma fruta popularmente conhecida como ‘tomate de arbol’ ou ‘tomarilho’. É o fruto da espécie Solanum betaceum, pertencente à família Solanaceae. Nativa dos Andes, na América do Sul, é apreciada pelos Ye’kuana ao natural e cozida. (Fonte: Wikipédia).
+87
+
+c. [fa uu u wamey oohe]
+
+faduudu w-ame-i
+
+ooje
+
+banana 1-comer-PRP várias
+
+‘eu comi várias bananas’
+
+d. [fa uu u wamey aak ]
+
+faduudu w-ame-i
+
+aakä
+
+banana 1-comer-PRP duas
+
+‘eu comi duas bananas’
+
+e. [yanwakomok weeney aak ]
+
+yanwa=komo-kä
+
+w-eene-i aakä
+
+homem=PL-DIM
+
+1-comer-PRP dois
+
+‘eu vi dois meninos’
+
+Conforme os exemplos acima, percebemos que em Ye’kuana tanto nomes que
+representam entes animados quanto inanimados podem receber o coletivizador, no
+entanto nomes de animais não admitem essa marca. Cáceres (2012:109) explica essa
+diferença com base no que Meira sugeriu para o Tiriyó (1999:195), que nomes de
+animais, por partilharem características morfológicas semelhantes às dos nomes
+próprios, não poderiam receber marca de número.
+(17) a. [s na] sööna ‘cachorro’
+b. [s nakomo] *sööna=komo cachorro=PL ‘cachorros’
+c. [ ukwa i] dukwadi ‘porco do mato’
+d. [ ukwa ikomo] *dukwadi=komo porco do mato=PL ‘porcos do mato’
+
+88
+
+Agora veremos outra possibilidade de se interpretar o pluralizador em Ye’kuana. Ele pode assumir o caráter de plural associativo, que individualiza entidades coletivas, da mesma forma que o Kuikuro, conforme os dados apresentados no capítulo três (seção 3.2.3). No Ye’kuana, nomes de locais podem receber o coletivizador para denotar as pessoas que estão envolvidas com aquele local conforme os exemplos em (18). Em Ye’kuana o coletivizador pode ainda ser utilizado para coletivizar entidades unitárias conforme (19):
+(18) a. [fu u wa wi akomo] fuduuwadu-inha=komo fuduuwadu-LOC-PL ‘o pessoal de Fuduuwaduinha’
+b. [ eho koi akomo] dejooko-inha=komo dejooko-LOC-PL ‘o pessoal do Dejookoinha’
+(19) a. [ u:ta] chuuta árvore ‘árvore’
+b. [ u:ta'komo] chuuta=komo árvore=PL ‘floresta’
+Assumimos aqui que o nome em Ye’kuana pode receber marca de número, e esta marcação indica a pluralidade de entidades coletivas. Também demonstramos que há nomes que não podem receber esta marcação de número, e isso pode ser explicado porque tais nomes apresentam traço de número inerente. Sendo assim, esses nomes podem ser utilizados em contextos que expressam quantidades sem receber o coletivizador. Em tais nomes, a estratégia utilizada para marcar um contexto de
+89
+
+pluralidade é a sintática, através do uso de modificadores nominais, como demonstrado abaixo:
+(20) a.[wanna fa' u u] wanna faduudu muito banana ‘várias bananas’
+b. [wanna 'sokwa] wanna sokwa muito sokwa ‘várias sokwas’
+c. [wanna a' ii a u] wanna ashiichadu muito cana ‘várias canas’
+Com base nessas informações, podemos ilustrar através da figura 4.1 a marcação de número em Ye’kuana. De acordo esta figura, em Ye’kuana nomes que não podem receber uma marca morfológica de número se comportam dessa forma por apresentar um traço de número inerente, logo, a forma singular do nome também pode ser utilizada em um contexto em que o número é expresso não morfologicamente, mas sim sintaticamente. Nesse sentido, a forma singular e a de um número ‘geral’ será a mesma para esse nome, em oposição a um nome que pode explicitamente receber a marca de número ‘plural’ representada pelo clítico =komo.
+Figura 4.1 Sistema com singular/geral x plural (adaptado de Corbett 2000:16)
+90
+
+. Também podemos inferir que há uma hierarquia envolvida no processo de marcação de número nos nominais do Ye’kuana. Portanto, segue abaixo um quadro sinóptico, baseado na proposta de Dixon (1995:84) exposta no capítulo três (3.2.1), de como a correlação entre a posição de número na hierarquia vai afetar os nominais dentro de uma escala de agentividade na qual a animacidade vai determinar a utilização do coletivizador, excetuando-se os casos em que o nominal não pode receber marca de número e alguns nomes com referência humana nos quais o coletivizador vai aparecer. Em nossa coleta de dados também verificamos que outra categoria de nomes que não pode receber o coletivizador é a dos nomes de pessoas. Geralmente tal uso caracteriza referência a um determinado grupo relacionado àquele nome, como exemplificado com o Kuikuro no capítulo três (seção 3.2.3). Infelizmente nosso corpus não ofereceu mais exemplos dessa ocorrência, mas pudemos atestá-lo uma vez com nomes de pessoas em Ye’kuana, conforme o exemplo abaixo:
+(21) [fifianekomo] *Viviane=komo Viviane=PL ‘o pessoal da Viviane’
+De acordo a escala abaixo, quanto mais à esquerda da seta, maior o grau de agentividade que o nome pode agregar, e em Ye’kuana quanto maior for este grau de agentividade, menor será a possibilidade do nome receber a marcação de número, e quanto menor for o grau de agentividade do nominal, ou seja, quanto mais à direita, maior a possibilidade de receber a marca de número, no caso o clítico =komo ~ =chomo. No entanto essa restrição não é absoluta, visto que nos exemplos (13a-d) o coletivizador é usado em nomes com referência humana.
+91
+
+Nomes
+
+Humanos
+
+Próprios
+
+(Humanos)
+
+Animados (menos animais)
+
+Inanimados
+
+{=komo ~ =chomo}
+
+< ---------- -------------------------------------------------------------------------
+
+[+ agente]
+
+[- agente]
+
+Figura 4.2 Escala de agentividade dos nominais em Ye’kuana.
+
+4.2.1 Conclusões Preliminares
+
+Nesta seção analisamos o escopo da marcação de número em Ye’kuana. Vimos que tal marcação, quando presente no nome, tem o caráter semântico de coletivizador, e quando o nome prescinde dessa marca é porque carrega intrinsecamente o significado de número, que é ativado através de estratégias sintáticas, como por exemplo, o uso de modificadores nominais.
+
+Também vimos que a presença de numerais não inibe o uso do coletivizador, uma vez que é o próprio nome que vai exigir ou não a presença da marca de número. Nesse caso o numeral apenas especificaria a quantidade exata daquele nome. Segue agora um quadro sinóptico do uso do coletivizador em nomes na língua Ye’kuana.
+
+Tabela 4.1 Quadro sinóptico das condições de uso do coletivizador em Ye’kuana
+
+Coletivizador
+
+Condições
+
+• Usado preferencialmente em nomes inanimados;
+
+• Pode ser usado em alguns nomes com referência humana, mas não em nomes de pessoas;
+
+=komo ~ =chomo
+
+• Não pode ser usado em nomes de animais; • Não pode ser usado em nomes de frutas;
+
+• Pode ocorrer em nomes mesmo que haja uma referência específica através de numeral na sentença;
+
+• Pode ser usado como referência associativa, no caso de relacionar o nominal onde o coletivizador recai a outros
+
+da mesma categoria.
+
+92
+
+Nesta seção também apresentamos uma proposta para interpretação do uso do coletivizador nos nomes em Ye’kuana, na qual os nomes que recebem tal marca seriam apenas aqueles com menor grau de agentividade, ou seja, de acordo com a escala apresentada na figura 4.2, nomes que representam entes inanimados, com exceção de nomes de frutas, podem ser marcados com o clítico =komo ~ =chomo.
+
+4.3 Distinções de número nos nominais em construções de posse
+
+Na seção 4.1 apresentamos o que outras análises linguísticas consideram a respeito da questão da marcação da categoria número, e apresentamos, em particular, as considerações de Cáceres (2011) sobre a marcação de número em nominais marcados com posse. Normalmente os nomes com sufixo de posse mantêm o clítico =komo para marcar número tanto no ente possuído quanto no possuidor, mas os dados mostram a realização de outro sufixo, –tomo que é utilizado para indicar a pluralidade do possuído em seres animados, como em (22):
+
+(22) a. ['s na janwakomo'k
+
+sö’na
+
+yanwa=komo-’kä
+
+cachorro homem-PL-DIM
+
+‘o cachorro dos meninos’
+
+e'k no] eköno 3
+
+b. ['s na janwa'k
+
+e'k ntomo]
+
+sö’na yanwa-’kä ekön-tomo
+
+cachorro homem-DIM 3-PL
+
+‘os cachorros do menino’
+
+c. ['s na janwakomo'k
+
+sö’na
+
+yanwa=komo-’kä
+
+cachorro homem-PL-DIM
+
+‘os cachorros dos meninos’
+
+e'k ntomo] ekön-tomo 3-PL
+
+93
+
+Em (22b) a presença do coletivizador -tomo foi utilizado para pluralizar o possuído ‘cachorro’, mas como em Ye’kuana nomes de animais não podem ser marcados com número, o elemento que vai receber tal marca é o demonstrativo ekön; já em (22a) o nome ‘homem’, que é o possuidor, recebe o clítico =komo para marcar sua pluralidade. Finalmente em (22c) para indicar a pluralidade de ambos, possuidor e possuído, a língua faz uso das duas estratégias vistas em (22a) e (22b). Também há a possibilidade do clítico =komo aparecer juntamente com o sufixo –tomo, provocando redução da última sílaba deste sufixo, realizando-se então –tonkomo. De acordo com as informações de Cáceres (2011:116) o sufixo –tonkomo é incorporado ao nome quando há a necessidade de indicar número apenas no possuidor. No entanto, os dados coletados para esta análise mostraram que –tonkomo é usado quando se quer indicar a pluralidade de ambos, possuidor e possuído, de acordo com os exemplos (23):
+
+(23) a. [ihono 'tomo] ijono’-tomo sobrinho.dele-COL
+‘sobrinho deles’
+b. [juumo 'tomo] yuumo’-tomo pai.dele-COL ‘pai deles’
+c. [ aamu 'tomo] chaamu’-tomo avô.dele-COL ‘avô deles’
+
+[ihoono'tõkomo] ijoono-tonkomo sobrinho.dele-COL ‘sobrinhos deles’
+[juumo'tonkomo] yuumu-tonkomo pai.dele-COL ‘pais deles’
+[ aamu'tonkomo] chaamu-tonkomo avô.dele-COL ‘avôs deles’
+
+Nos exemplos acima o sufixo –tomo é utilizado apenas quando se trata de marcar a pluralidade do possuidor, enquanto –tonkomo marca a pluralidade de ambos, possuidor e possuído. Mas há uma exceção, conforme atestam os exemplos em (24)
+94
+
+abaixo, o termo ‘filhos’ recebe o clítico =komo para marcar número no possuído, e não –tomo, como os outros termos de parentesco apresentados nos exemplos em (23).
+
+(24) a. [' nn ] önnedö meu.filho ‘meu filho’
+
+[' nnakomo] önna=komo meu.filho=COL ‘meus filhos’
+
+b. [i' ] inhedö filho.dele ‘filho dele’
+
+[i aa'komo] inhaa=komo filho.dele=COL ‘filhos dele’
+
+Cáceres (2011:117) ainda cita outra forma de marcar a pluralidade do possuidor
+
+e possuído no termo ‘filho’, formada a partir de =komo, -tomo e ainda =komo,
+
+tratando-se de um processo de lexicalização. O exemplo abaixo é de Cáceres (2011:118)
+
+uma vez que nossos dados não revelaram a ocorrência dessa forma:
+
+(25) tünnakontonkomo
+
+ye'kwanaje ane'tö'da
+
+jeene.
+
+t-nne=komo-tomo=komo ye'kwana=je an-e'tö-'da
+
+jeene
+
+3.REFL-filhos-???-PL-PL.ANIM-PL ye'kwana=ATRB NEG-chamar-NEG
+
+INTENS
+
+“Ils ne nomment pas leurs propres enfants comme des ye'kwana”
+
+‘Eles não chamam seus próprios filhos como Ye’kuna.’
+
+(Cáceres 2011:118)
+
+A partir dessas considerações, e seguindo a proposta de Dixon (1995:84) apresentada no capítulo três, figura 3.6, apresentamos uma proposta para a interpretação do uso da marca de número em construções de posse na língua Ye’kuana a partir da perspectiva de que há uma hierarquia subjacente à esta marcação. A figura 4.3 abaixo apresenta as diferenças semânticas condicionadas pelos níveis de agentividade dos nomes marcados com construções de posse. De acordo com essa hierarquia, nomes animados e inanimados podem receber o clítico =komo, tanto para marcar o possuidor quanto o possuído, enquanto termos de parentesco (com exceção de ‘filho’) e alguns outros nomes animados recebem o sufixo –tomo para marcar somente o possuidor. Já o
+95
+
+sufixo –tonkomo marca número em termos de parentesco e nomes animados quando ambos, possuidor e possuído, estiverem no plural.
+
+Termos de Parentesco
+
+Animados
+
+Inanimados
+
+=komo (Possuidor / Possuído)
+
+-tomo (Possuidor)
+
+-tomo (Possuído)
+
+-tonkomo (Possuidor e Possuído)
+
+-kontonkomo (Possuidor e Possuído ‘filho’)
+
+< -----------------------------------------------------------------------------------
+
+[+ agente]
+
+[- agente]
+
+Figura 4.3 Escala de agentividade dos nominais com posse em Ye’kuana.
+
+4.3.1 Conclusões preliminares
+
+A partir dos dados apresentados nessa seção podemos formular algumas hipóteses acerca da marcação de número em construções com posse em Ye’kuana. De acordo com as informações, apresento a tabela 4.2 que sintetiza as informações apresentadas acima.
+
+Tabela 4.2. Quadro sinóptico da marcação de número em construções de posse no Ye’kuana
+
+Morfema
+
+Condições
+
+=komo
+
+Marca número do possuidor e possuído
+
+em construções de posse com nomes
+
+animados e inanimados.
+
+-tomo
+
+- Marca número do possuidor em
+
+construções de posse com termos de
+
+parentesco (com a exceção de ‘filho’);
+
+- Marca número do possuído em
+
+construções de posse com nomes
+
+animados.
+
+-tonkomo
+
+Marca número em ambos, possuidor e
+
+possuído ao mesmo tempo.
+
+-kontonkomo (Cáceres 2011:117)
+
+Marca a pluralidade de possuidor e
+
+possuído para o termo de parentesco
+
+‘filho’.
+
+96
+
+Um último aspecto observado, dentro dessa perspectiva, é que essa marcação de número pode pertencer a um sistema em que há uma hierarquia subjacente a essa marcação em construções de posse. Essa hierarquia foi explicitada na figura 4.3 acima, na qual termos de parentesco e nomes animados, que são semanticamente mais agentivos, tem mais probabilidade de receber marca de número quando estiverem marcados com posse do que nomes inanimados, que são semanticamente menos agentivos.
+
+4.4 Distinções de número em formas pronominais Quanto aos pronomes, podemos dizer que no Ye’kuana apenas a segunda, a
+terceira pessoa e o dual inclusivo apresentam distinção de número.
+
+Tabela 4.3. Pronomes pessoais do Ye’kuana (adaptada de Cáceres 2011:120)
+Pessoa Não-coletivo Coletivo
+
+1
+
+öwö
+
+-
+
+2
+
+amäädä
+
+änwanno
+
+3
+
+töwö
+
+tönwanno
+
+1+2
+
+köwö
+
+könwanno
+
+1+3
+
+nhaa
+
+-
+
+Observando as formas acima, Cáceres (2011:120) aponta que as formas de primeira pessoa, terceira e dual inclusiva do singular parecem compartilhar a sílaba final <wö>, o que também acontece no dialeto De’kwana descrito por Hall (1988). Quanto à
+97
+
+marcação de número, Meira (1999:140) explica que, para o Tiriyó, assim como para as línguas da família Karíb, é comum que o coletivizador não apareça nos pronomes que envolvem a primeira pessoa, e que se for necessário fazer um coletivo que inclua a primeira pessoa, ele deve ter como base a forma do pronome de primeira pessoa dual inclusiva (1+2). Segue abaixo exemplos do uso dos pronomes de primeira pessoal dual inclusiva em Ye’kuana.
+
+(26) a. [k w ketawa akahoy e u wa au aha aka]
+
+köwö
+
+k-etadawakajo-i eduuwa
+
+1+2
+
+1+2-trabalhar-PRP hoje
+
+‘nós trabalhamos na roça hoje’
+
+audaaja
+
+aka
+
+roça
+
+POSP
+
+d. [k nwan o ayetawa akahoy e u wa au aha aka]
+
+Könwanno
+
+k-etadawakajo-to eduuwa
+
+1+2.PL
+
+1 +2-trabalhar-.PL hoje
+
+audaaja
+
+aka
+
+roça
+
+POSP
+
+Essa explicação serve para a compreensão dos dados em Ye’kuana, uma vez que a forma 1+2 köwö do singular corresponde à forma coletiva könwanno ‘todos nós (incluindo você e eu)’. A tabela abaixo mostra a correspondência dos dados entre o Ye’kuana e o Tiriyó:
+
+Tabela 4.4 .Pronomes inclusivos do Ye’kuana e do Tiriyó
+
+Pessoa
+
+Ye’kuana
+
+Tiriyó
+
+1+2
+
+köwö
+
+kïmë
+
+(singular)
+
+1+2
+
+könwanno
+
+kïmënjamo
+
+(coletivo)
+
+98
+
+Cáceres (2011:122) também identifica número nos pronomes demonstrativos do Ye’kuana. Segundo a autora, esses pronomes fazem distinção entre os parâmetros de dêixis, animacidade e coletividade. Dixon (2010:239) distingue, além desses parâmetros, outros, como volume, referência espaço-temporal, gênero e classificadores que podem ser codificados através de um demonstrativo. Dixon (2010:246) citando Payne e Payne (1999:97) também faz referência a dados de uma língua da família Karíb da Venezuela, o Panare, em cujo sistema há uma relação de dependência entre os padrões de espaço/visibilidade e número. Pensando sobre essa perspectiva, percebemos que os pronomes demonstrativos em Ye’kuana só marcam número quando o padrão de visibilidade é maior, por exemplo, na tabela abaixo o pronome correspondente à categoria ‘proximal’, que contém um grau de visibilidade maior que as demais categorias, é a única que não apresenta uma forma para designar entes animados coletivos. Com efeito, quanto mais distante se tornar o ente referido, maior será a possibilidade de ele ser marcado com número no demonstrativo. Com base nesses dados, modificamos um pouco a proposta de Cáceres (2011:122), rotulando como ‘visível’ os traços proximal, medial e distal, para os demonstrativos e apresentamos a tabela 4.5 abaixo:
+
+Tabela 4.5 Pronomes demonstrativos do Ye’kuana
+
+Categorias
+
+Inanimado
+
+Animado
+
+não-coletivo
+
+Invisível
+
+iyä
+
+nhäädä
+
+Proximal
+
+edä
+
+mä’dä
+
+Visível Medial
+
+mädä
+
+määyä
+
+Distal
+
+määnö
+
+mäkö
+
+Animado coletivo nhanno
+---
+kanno makkamo
+
+Cáceres (2011:122) identifica uma diferença nos pronomes demonstrativos do dialeto do Caura (Ye’kuana) e o dialeto do Cunucunuma (De’kuana) descrito por Hall (1988:283). Segundo Cáceres (ibid.) as formas para invisível em Ye’kuana iyä, nhäädä
+99
+
+e nhanno, correspondem às formas para os distais em De’kuana, e as formas para os mediais em De’kuana correspondem às formas para os pronomes proximais edä e mä’dä em Ye’kuana. A hierarquia de animacidade explica o fato da distinção de número só ocorrer nos pronomes animados, uma vez que as formas que indicam seres animados estão posicionadas em um nível hierarquicamente mais alto que as formas que indicam seres inanimados (conferir 3.2.1).
+No Wayana, a única morfologia que os pronomes podem receber é flexão de número através do sufixo –komo (Tavares 2005:180), e tanto os pronomes animados quanto os inanimados podem ser coletivizados. No Tiriyó, Meira (1999:154) distingue a forma coletiva para os pronomes de terceira pessoa, que também são sensíveis aos traços de animacidade, visibilidade e proximidade. Também no Tiriyó tanto os pronomes animados quanto os inanimados podem ser coletivizados.
+4.5 Distinções de número em posposições e advérbios De acordo com Cáceres (2011:137) a modificação nominal em Ye’kuana é
+realizada por palavras que tem as mesmas características da palavra por esta modificada, ou seja, a modificação de um nome é realizada por um outro nome (ver abaixo, exemplos 27 e 28). No entanto, Cáceres identifica esta classe como advérbios, muito embora estes advérbios expressem conceitos tipicamente associados a uma classe modificadores nominais. Este é um assunto que merece uma investigação cuidadosa não apenas em relação ao Ye’kuana, mas também em outras línguas da família Karíb.
+Como esta pesquisa teve seu foco na marcação de número em nomes, pronomes e verbos, a questão da marcação de número em modificadores nominais e as possibilidades sintáticas dessa marcação ficaram como possíveis desdobramentos para uma pesquisa futura. Não poderíamos deixar de mencionar aqui que em Ye’kuana,
+100
+
+posposições e modificadores nominais podem receber sufixo de número. Cáceres (2011:136) afirma que tanto uma classe quanto a outra compartilham as mesmas possibilidades morfológicas. Nos exemplos (28) e (29) apresentados abaixo, percebemos que o morfema –nhe, glosado como PL (plural), realiza o traço de número indicando pluralidade no argumento da posposição. Note-se também que o demonstrativo também apresenta um traço de número plural. Alguns nomes como faduudu apresentam traço de número inerente, portanto não aceitam o coletivizador.
+
+(27) ['kanno
+
+ma'wii a
+
+kanno
+
+mawiisha
+
+DEM.ANIM1.PL
+
+mawiisha
+
+‘com os Mawisha’
+
+ha' e] jadä-nhe com-PL
+
+(28) [' eene e fa' uu u] sheene-nhe faduudu verde- PL banana ‘bananas verdes’
+
+(29) [i at'aahe e wo' i komo]
+
+inhataaje-nhe
+
+wodi-’chä=komo
+
+bonita-PL
+
+mulher-DIM-COL
+
+‘meninas bonitas’
+
+4.6 Distinções de número em formas verbais O verbo em Ye’kuana é uma categoria lexical que apresenta outras
+possibilidades morfológicas. De acordo com Cáceres (2011:124), o verbo pode receber um marcador de aspecto –jotö,7 que pode aparecer em qualquer forma verbal, e também pode receber os morfemas de número, o clítico =to, utilizado no tempo não-passado, e o sufixo –tö para os participantes do ato de fala em tempo passado e nos modos performativos (jussivo, imperativo, vetativo, admonitivo e permissivo). Ressalvando as
+
+7 Cáceres (2011:124) atribui a este morfema o rótulo ITER, que corresponde ao significado de marcador de aspecto ‘iterativo’.
+101
+
+diferenças na grafia entre um dialeto e outro, os morfemas encontrados no dialeto de
+Auaris foram os mesmos.
+(30) a. [neka t 'm y o] n-eka’tömö-i=cho 3-correr-PRP=PL ‘eles correram’
+b. [ayetadawaka'hato] ay-etadawakajo=to 2-trabalhar=PL ‘vocês trabalharam’
+c. [ketadawakajo't ne] k-etadawakajo-tö-ne 1/2-trabalhar-PL-PDP ‘nós trabalhamos’
+d. [nenee'ãto] n-eneean=to 3/3-ver=PL ‘ele viu eles’
+
+Um resumo deste entendimento segue na tabela 4.6 abaixo:
+
+Categoria Aspecto Número
+
+4.6 Marcação de número e aspecto no verbo em Ye’kuana
+
+Morfema
+
+Condições
+
+–jotö
+
+-
+
+=to ~ =cho
+
+Tempo não-passado.
+
+–tö
+
+Tempo passado e nos modos performativos
+
+(jussivo, imperativo, vetativo, admonitivo e
+
+permissivo)
+
+Trataremos os morfemas de número –tö, =to ~ =cho também como ‘plural’ PL, da mesma forma do clítico de número de formas nominais =komo. Entendemos que o termo coletivo expressa o conteúdo semântico que realça a o sentido de ‘grupo’, que é a condição que os morfemas de número em Ye’kuana, e nas línguas Karíb de um modo geral, expressam.
+
+102
+
+4.7 O número verbal Além da marca de número expressa pelos morfemas –tö, =to ~ =cho, o verbo
+em Ye’kuana pode marcar número através do morfema –jotö, chamado por Cáceres (2011:236) de ‘pluriacional’. Corbett (2000:243) chama ao morfema que indica pluralidade de eventos de número verbal, mas a tradição de descrições de línguas africanas, que reconhece a ocorrência de morfemas desta natureza, costuma rotulá-lo como pluriacional. O pluriacional em Ye’kuana marca uma ação que se repete no tempo, porém o significado desta “repetição no tempo” pode envolver vários estágios de iteratividade, tais como:
+• uma ação se repete no tempo porque ocorre várias vezes em momentos diferentes (figuras C e F);
+• uma ação se repete no tempo porque vários sujeitos a realizam (figuras D e E); • uma ação se repete no tempo porque ela é efetuada em vários objetos (figuras B,
+E e F) . Todos esses significados são semanticamente relacionados ao verbo e estão diretamente envolvidos com a marcação de número dos argumentos. Este morfema pluriacional/iterativo –jotö não apresenta significado unívoco, e por isso mesmo o significado do morfema será pragmaticamente controlado. O morfema que vai indicar este aspecto no Ye’kuana é o –jotö, que Cáceres (2011:236) representa como –jötü, e aqui será glosado ITER (iterativo), que é a mesma sigla adotada por Cáceres (2011).
+103
+
+4.7.1 Procedimentos para a coleta de dados acerca da pluriacionalidade em Ye’kuana
+Pudemos perceber, a partir dos dados analisados para esta pesquisa, que a pluriacionalidade em Ye’kuana também é condicionada pelo número de participantes no ato. Como este número verbal –jotö pode co-ocorrer com a marca de coletivo no verbo, fizemos uma série de elicitações controladas, através de desenhos8, para que os informantes conseguissem visualizar a ação e para que pudéssemos identificar a marcação de número dos argumentos.
+Para esta coleta de dados foram consultados três informantes, um do sexo masculino, e duas do sexo feminino, todos com menos de trinta anos de idade, bilíngues tardios9 em português. Dois desses informantes (o homem e uma das mulheres) são estudantes de graduação, e a outra mulher ainda está terminando o Ensino Médio na cidade de Boa Vista.
+Para coletar os dados foi utilizado o seguinte procedimento: ao mostrar cada figura, expliquei o que elas representavam e pedi para que cada informante dissesse e escrevesse como eles descreveriam aquela ação em Ye’kuana. Depois que eles realizaram os procedimentos individualmente, eles se consultaram um ao outro para checar suas respostas e ver se havia alguma inconsistência, e quando chegaram a um consenso eles me forneceram as sentenças na língua. Abaixo segue uma das séries dos desenhos utilizados para a coleta de dados com o verbo ‘bater’. As outras séries de desenhos podem ser conferidas no Anexo.
+8 Os desenhos foram gentilmente produzidos pelo acadêmico do curso de letras da Universidade Estadual de Roraima (Campus Pacaraima), Arnaldo Machado Conceição. 9 Chamo aqui de bilíngues tardios os consultores que aprenderam português depois dos dezesseis anos de idade.
+104
+
+Figura A: Um homem batendo em um cachorro
+
+Figura D: Vários homens batendo em um cachorro
+
+Figura B: Um homem batendo em em vários cachorros
+
+Figura E: Vários homens batendo vários cachorros
+
+Figura C: Um homem batendo várias vezes em um cachorro
+
+Figura F: Vários homens batendo em vários cachorros várias vezes
+
+105
+
+Foram realizadas elicitações com verbos transitivos (bater, beijar e morder) e com intransitivos (bocejar e respirar). A escolha desses dois verbos intransitivos, em particular, recaiu em função de que, um verbo como ‘correr’ implica em locomover-se com uma série de passos rápidos, ou seja, já apresenta uma ação composta de outras ações menores repetidas continuamente, o que seria entendido como uma pluriacionalidade. Da mesma forma um verbo como ‘mastigar’ não poderia ter sido escolhido porque também apresenta uma série de ações menores para se concretizar, uma vez que para se mastigar necessariamente tem-se que morder várias vezes, o que também implicaria em pluriacionalidade. Desta maneira, para esta pesquisa pensamos em verbos que não pudessem dar essa ideia de forma intrínseca para que o uso do morfema pluriacional pudesse ser verificado da forma mais clara possível para que pudéssemos chegar a um entendimento amplo dos dados.
+Durante as elicitações quisemos investigar como os morfemas que designam número verbal reagem à mudança de número nos argumentos e quando a ação desenvolve-se ao longo do tempo. Segue a análise abaixo.
+4.7.2 Número verbal em verbos transitivos (A/P) O morfema pluriacional –jotö pode aparecer quando o precisa ser ressaltada a
+pluriacionalidade do verbo, ou seja, que a ação descrita pelo verbo pode ocorrer em vários momentos diferentes, mesmo que nenhum dos argumentos receba marcação de número, ou seja, quando ambos os argumentos estiverem no singular e o morfema –jotö aparecer no verbo, será para indicar a pluriacionalidade do evento, conforme (31):
+106
+
+A
+
+P
+
+V
+
+(31) a.['janwa 's na
+
+nayuho't y]
+
+yanwa sö’na
+
+n-aiju-jotö-i
+
+homem cachorro 3-bater-ITR-PRP
+
+‘o homem bateu várias vezes no (mesmo) cachorro’ (Figura C)
+
+A
+
+P
+
+V
+
+b. ['janwa wo' i
+
+ni uumaho't y]
+
+yanwa wodi
+
+n-ishuuma-jotö-i
+
+homem mulher
+
+3-beijar-ITR-PRP
+
+‘o homem beijou a (mesma) mulher várias vezes’
+
+A
+
+P
+
+V
+
+c. ['janwa uu neekaho't y] yanwa uu n-eeka-jotö-i homem beiju 3-morder-ITR-PRP ‘o homem mordeu várias vezes o (mesmo) beiju’
+
+Nos três casos acima, o uso do morfema vai provocar a interpretação de que aquela ação aconteceu em vários momentos com os mesmos argumentos. Como nenhum dos argumentos do verbo está marcado com número, a interpretação restringese a pluralidade do verbo.
+
+4.7.3 Número verbal em verbos transitivos (A/Ppl) Ao comparar os resultados das elicitações, percebemos que o morfema
+pluriacional –jotö marca número no verbo quando o argumento paciente (P), que sofre a ação do sujeito do verbo transitivo (A), está no plural. A ação terá que ser desempenhada mais de uma vez porque há mais de um paciente, como em (32):
+
+A
+
+Ppl
+
+V
+
+(32) a. ['janwa 's na
+
+nayuho't y o]
+
+yanwa sö’na
+
+n-aiju-jotö-i=cho
+
+homem cachorro 3-bater-ITR-PRP=PL
+
+‘o homem bateu nos cachorros’ (figura B)
+
+107
+
+A
+
+Ppl
+
+V
+
+b. ['janwa wo' i amo ni uumaho't y o] yanwa wodi-nhamo n-ishuuma-jotö-i=cho homem mulher-COL 3-beijar-ITR-PRP=PL ‘o homem beijou as mulheres’
+
+A
+
+Ppl
+
+V
+
+c. ['janwa uu
+
+neekaho't y o]
+
+yanwa uu
+
+n-eeka-jotö-i=cho
+
+homem beiju
+
+3-morder-ITR-PRP=PL
+
+‘o homem mordeu os beijus’
+
+Nos exemplos (32a) e (32c), os argumentos P oferecem restrições ao aparecimento do morfema coletivizador, uma vez que apresentam número inerente, logo, não podem receber nenhum morfema de número, mesmo que sejam semanticamente interpretados como plural. Dessa forma, o morfema de número =cho que aparece no verbo pode ser interpretado como referente de número do argumento P. O pluriacional –jotö aparece nesses casos justamente porque, se há vários argumentos P, a ação descrita pelo verbo terá que ser realizada mais de uma vez.
+
+4.7.4 Número verbal em verbos transitivos (Apl/P) Quando o argumento A estiver no plural, novamente as duas marcas de número
+irão aparecer no verbo, como nos exemplos em (33):
+
+Apl
+
+P
+
+V
+
+(33) a. ['janwakomo 's na
+
+nayuho't y o]
+
+yanwa=komo sö’na
+
+n-aiju-jotö-i=cho
+
+homem=COL
+
+cachorro
+
+3-bater-ITR-PAS=PL
+
+‘os homens bateram no cachorro [ou cachorros]’ (figura D)
+
+108
+
+Apl
+
+P
+
+V
+
+b. ['janwakomo wo' i
+
+yanwa=komo wodi
+
+homem=COL
+
+mulher
+
+‘os homens beijaram a mulher’
+
+ni uumaho't y o] n-ishuuma-jotö-i=cho 3-beijar-ITR-PRP=PL
+
+Apl
+
+P
+
+V
+
+c. ['janwakomo uu neekaho't y o]
+
+yanwa=komo uu n-eeka-jotö-i=cho
+
+homem=COL
+
+beiju 3-morder-ITR-PRP=PL
+
+‘os homens morderam o beiju’
+
+Nos exemplos em (33) temos na posição de sujeito argumentos humanos no plural, portanto eles recebem a marca de número, o clítico =komo. Mesmo com o número sendo marcado diretamente no argumento, o verbo ainda assim apresenta o morfema =cho, que no caso de (33a) ainda pode ser semanticamente interpretado como um plural do argumento P, uma vez que este morfema é neutro para referente, ou seja, ele não pluraliza um argumento especificamente.
+
+4.7.5 Número verbal em verbos transitivos (Apl/Ppl) A mesma situação exemplificada em (33) acontece quando ambos os
+argumentos A e P são pluralizados (34):
+
+Apl
+
+Ppl
+
+V
+
+(34) a. ['janwakomo
+
+'s na
+
+nayuho't y o]
+
+yanwa=komo sö’na
+
+n-aiju-jotö-i=cho
+
+homem=COL
+
+cachorro
+
+3-bater-ITR-PRP=PL
+
+‘os homens bateram nos cachorros [no cachorro]’ (Figura E)
+
+109
+
+Apl
+
+Ppl
+
+V
+
+b. ['janwakomo wo' i amo ni uumaho't y o]
+
+yanwa=komo wodi-nhamo n-ishuuma-jotö-i=cho
+
+homem=COL
+
+mulher-COL 3-beijar-ITR-PRP=PL
+
+‘os homens beijaram as mulheres’
+
+Apl
+
+Ppl
+
+V
+
+c. ['janwakomo
+
+uu neekaho't y o]
+
+yanwa=komo uu n-eeka-jotö-i=cho
+
+homem=COL
+
+beiju 3-morder-ITR-PRP=PL
+
+‘os homens morderam os beijus’
+
+Percebe-se que o clítico =cho é um marcador de número genérico, uma vez que presença dele no verbo vai indicar que qualquer um dos argumentos terá o número marcado, ou seja, tanto a figura D quanto a figura E provocam a mesma frase como resposta. Como 33a) é igual (34a), o que vai realmente definir qual argumento será coletivizado vai ser a marca de número no próprio argumento, quando este aceitar, ou ainda o contexto, uma vez que o significado de número é pragmaticamente controlado.
+
+4.7.6 Número verbal em verbos intransitivos
+Em (35) vemos exemplos com o verbo intransitivo entajo ‘bocejar’. Quando o argumento único S está no singular, e a única coisa que precisa ser marcada é a pluralidade do evento, usa-se o morfema –jotö somente (35b).
+
+SV (35) a. ['janwa 'nentahoy]
+yanwa n-entajo-i homem 3-bocejar-PRP ‘o homem bocejou’
+110
+
+S
+
+V
+
+b. ['janwa nentahoho't y] yanwa n-entajo-jotö-i homem 3-bocejou-ITR-PRP ‘o homem bocejou várias vezes’
+
+Quando o argumento S humano estiver no plural (36a), independente do foco do discurso ser ou não a repetição do evento, o verbo vai receber o marcador de número =cho e o morfema pluriacional –jotö.
+
+Spl
+
+V
+
+(36) a. ['janwakomo nentahoho't y o]
+
+yanwa=komo n-entajo-jotö-i=cho
+
+homem=COL
+
+3-bocejar-ITR-PRP=PL
+
+‘os homens bocejaram’
+
+Spl
+
+V
+
+b. ['janwakomo nentahoho't y o]
+
+yanwa=komo n-entajo-jotö-i=cho
+
+homem=COL
+
+3-bocejar- ITR-PRP=PL
+
+‘os homens bocejaram várias vezes’
+
+Com argumento S não-humano que não recebe marca de número (nomes de animais, como visto em 4.1), o morfema pluriacional vai indicar que há pluralidade envolvida naquele argumento único. Em (37c) e (37d) o clítico =cho tem justamente o papel de indicar esta pluralidade.
+
+S
+
+V
+
+(37) a. ['s na n e'may]
+
+sö’na
+
+n-äädema-i
+
+cachorro 3-respirar-PRP
+
+‘o cachorro respirou’
+
+S
+
+V
+
+b. ['s na sö’na
+
+n emaho't y] n-äädema-jotö-i
+
+111
+
+cachorro 3-respirar-ITR-PRP ‘o cachorro respirou várias vezes’
+
+S
+
+V
+
+c. ['s na n emaho't y o]
+
+sö’na
+
+n-äädema-jotö-i=cho
+
+cachorro 3-respirar-ITR-PRP=PL
+
+‘os cachorros respiraram’
+
+S
+
+V
+
+d. ['s na n emaho't y o] sö’na n-äädema-jotö-i=cho cachorro 3-respirar-ITR-PRP=PL ‘os cachorros respiraram várias vezes’
+
+Também fica claro que esses exemplos partilham a mesma estrutura sintática, portanto a interpretação vai ser controlada pelo contexto uma vez que são permitidas várias interpretações possíveis.
+
+4.7.7 Conclusões preliminares Nesta seção percebemos que o número verbal interage diretamente com a
+marcação de número nos argumentos verbais, independente da ação ser realizada várias vezes e demonstrar uma pluriacionalidade intrínseca. Quando o argumento do verbo não aceitar o morfema coletivizador, o número do argumento será, então, indicado no verbo através do morfema de número, mesmo que este já apresente o pluriacional. Em todos os casos, a não ser que a marca de número esteja presente em ambos os argumentos do verbo transitivo, a interpretação será unívoca. No entanto, quando houver alguma restrição na marcação de número no argumento, no caso de nomes de animais ou outra categoria que não aceitar o coletivizador, a marca de número no verbo indicará que este argumento será pluralizado. Tal situação pode ser verificada contrastando dados dos
+112
+
+verbos transitivos, no qual qualquer um dos argumentos pode ser um nome de animal, com dados de verbos intransitivos cujo argumento único é um nome de animal: neste caso, quando o nome de animal receber uma interpretação plural, o morfema que indica o número deste argumento aparecerá no verbo impreterivelmente.
+De um modo geral, a literatura das línguas Karíb não reconhece morfemas plurinacionais, o que torna o caso do Ye’kuana especial. Esperamos que os exemplos demonstrados ao longo desta seção tenham conseguido colaborar para uma tipologia de número nas línguas naturais.
+113
+
+5 CONSIDERAÇÕES FINAIS
+O objetivo desta dissertação foi descrever, na perspectiva da tipologia linguística, a categoria gramatical número nas classes nome, pronome e verbo do Ye’kuana, uma língua da família Karíb falada na Terra Indígena Yanomami-Ye’kuana, estado de Roraima e na Venezuela. Na Introdução descrevi os caminhos que me levaram a realizar esta pesquisa e como ela se configurou até chegar ao formato atual. Também na Introdução apresentei o povo Ye’kuana, falando sobre seu contato com o mundo atual e sua realidade sociocultural. No que concerne à proposta do dicionário, entendo que muito mais é necessário fazer em termos de uma documentação linguística consistente para o Ye’kuana. O desafio é continuar a realizar Oficinas em outras aldeias Ye’kuana para que todos possam ser ouvidos e dar a sua contribuição, para que o material coletado com a finalidade “dicionário” possa resultar em materiais didáticos de qualidade, como gramáticas pedagógicas e outros instrumentos pensados e voltados para a realidade dos indígenas.
+No capítulo dois localizei a língua Ye’kuana dentro da classificação das línguas da família Karíb proposta por Gildea (2012), e apresentei uma revisão dos trabalhos de descrição linguística realizados com o Ye’kuana até o momento. No final apresentei uma descrição tipológica, com ênfase na tipologia morfológica da língua. Muitos detalhes acerca desta análise tipológica ainda precisam ser resolvidos, como a delimitação dos parâmetros para o que é um adjetivo nas línguas Karíb, e em especial no Ye’kuana. Também, para um próximo trabalho de descrição linguística, seria importante aprofundar os estudos sobre a sintaxe da língua.
+No terceiro capítulo revisei os conceitos principais da literatura tipológica sobre a categoria número. Mostrei que o que se entende por ‘plural’ muitas vezes pode
+114
+
+englobar outros significados dentro da noção ‘mais de um’, como quando este plural pode especificar duas, três ou mais quantidades especificamente. Também mostrei a noção que se tem acerca de ‘coletivo’, que é a adotada para designar o número em nomes nas línguas da família Karíb, uma vez que o que se pretende especificar é a coesão de um grupo. Essa noção de coletivo vai orientar todos os contextos de marcação de número em Ye’kuana, uma vez que a noção de plural que ressalte os indivíduos não ocorre na língua. Também neste capítulo discuti acerca da noção do que é o número verbal, categoria de marcação de número de eventos que ocorre no verbo, que pode relacionar-se tanto com a pluralidade do evento quanto com a marcação de número nos argumentos.
+No capítulo quatro analisei os dados da língua Ye’kuana a partir das perspectivas teóricas apresentadas no capítulo anterior. Durante a análise mostrei que o Ye’kuana apresenta um sistema de marcação de número que obedece a uma hierarquia de nominais. Essa hierarquia vai orientar a codificação de número apenas em nomes que apresentam um grau menor de agentividade. No entanto os dados mostraram que um nome como ‘ye’kuana’ pode receber esta marca de número, o que nos leva a supor categorias de nomes humanos que podem receber número. Um outro aspecto dentro da marcação de nominais que ainda merece atenção é investigar se há classes específicas que podem ou não receber marca de número. Como alguns nominais não podem receber a marcação de número, uma vez que o número lhes é inerente, outras classes como posposição, advérbio e verbo, podem manifestar esta marcação, realizando uma espécie de concordância de número. No entanto, como nesta pesquisa limitei-me a investigar os efeitos da marcação de número em nomes, pronomes e verbos, pesquisas futuras poderiam investigar o número não somente em advérbios e posposições, como também as consequências sintáticas da marcação desta categoria. No capítulo quatro também dei
+115
+
+especial atenção ao fenômeno de ‘número verbal’, que é conhecido na literatura tipológica como ‘pluriacional’. No Ye’kuana, o morfema que apresenta a propriedade de manifestar pluriacionalidade também está relacionado com a marcação de número dos argumentos, pois se mais de um argumento sujeito de verbo transitivo (A) realiza a ação, então esta ação vai ser realizada mais de uma vez. Da mesma forma, se na ação mais de um argumento interno de verbo transitivo (P) estiver envolvido, a ação também será realizada mais de uma vez, pois será repetida cada vez que este argumento (P) for ‘atingido’ pela ação. Uma questão a ser verificada em pesquisas futuras seria a possibilidade do morfema pluriacional ocorrer em outros verbos que não sejam télicos. Outro aspecto importante dentro da marcação de número no verbo é o fato de que o morfema que realiza a concordância com os argumentos ser um morfema ‘genérico’, ou seja, ele vai indicar que qualquer um dos argumentos está no plural sem necessariamente especificar qual argumento será esse.
+Finalmente, acredito que tentar explicar as particularidades de uma língua natural traz enormes consequências para aqueles que buscam esclarecer sobre os fenômenos universais das línguas, já que uma análise cuidadosa dos dados oferece parâmetros para comparação. O importante, durante a descrição, é tratar esses parâmetros da forma mais clara possível, pois subjacente a essas particularidades há sempre características que são inerentes às línguas humanas, e aí jaz a universalidade. O desafio do momento é seguir a pesquisa no sentido de elucidar essas e outras questões linguísticas que se fizerem necessárias para se formalizar uma descrição da língua coerente com a sua realidade.
+116
+
+6
+
+REFERÊNCIAS BIBLIOGRÁFICAS
+
+AIKHENVALD, A.1994. Classifiers in Tariana. Anthropological Linguistics 36. 407465.
+ANDRADE, K. 2007. A ética Ye’kuana e o espírito do empreendedorismo. Tese de Doutorado, UNB.
+BRUNO, A.C. 2003. Waimiri Atroari Grammar: Some Phonological, Morphological and Synthatic Aspects. PhD Thesis, The University of Arizona, Tucson.
+CABREDO HOFHERR, P. 2010. Verbal plurality and event plurality. In: Lecture notes at DGfS-CNRS. Summer School on Linguistic Typology, Leipzig, August 15 - September 3.
+CÁCERES, N.2007. Introduction à la langue des Ye’kwana: profil sociolinguistique et esquisse phonologique. Mémoire de Master, Université Lyon 2.
+_________. 2011. Grammaire Fonctionnelle-Typologique du Ye'kwana: Langue caribe du Venezuela. Thèse de doctorat, Université Lumière Lyon 2.
+ CAMPETELA, C. 1997. Análise do system de marcação de caso nas orações
+independents da língua Ikpeng. Dissertação de mestrado. Universidade Estadual de Campinas (UNICAMP).
+_________. 2002. Aspectos prosódicos da língua Ikpeng. Tese de doutorado. Universidade Estadual de Campinas (UNICAMP).
+CHAVIER, M. 1999. Aspectos de la morfología del Ye’kwana. Tesis de Maestría, Maracaibo, Universidad del Zulia.
+_________. 2008. Aspectos tipológicos y culturales en la morfosintaxis del Ye’kwana. Tesis de Doctorado, Mérida: Universidad de Los Andes.
+CHIERCHIA, G. 1998a. Plurality of mass nouns and the notion of “semantic parameter”. In: Events and grammar. Ed. S. Rothstein, Dordrecht: Kluwer, 53-103.
+_________. 1998b. References to kinds across languages. Natural Language Semantics 6. 339-405.
+_________.2010. Mass nouns, vagueness and semantic variation. Synthese 174. 99–149.
+CIVRIEUX, M. de. 1997. Watunna: an Orinoco Creation Cicle. University of Texas Press.
+117
+
+CROFT, W. 2003. Typology and Universals, 2nd Ed. Cambridge: Cambridge University Press.
+COMRIE, B. 1989. Language Universals and Linguistic Typology, 2nd Ed. Oxford: Blackwell.
+CORBETT, G. 2000. Number. Cambridge: Cambridge University Press.
+DERBYSHIRE, D. C. 1985. Hixkaryana and Linguistic Typology. Dallas: Summer Institute of Linguistics and the University of Texas at Arlington.
+_________. 1999. Carib. In The Amazonian Languages. Edited by R.M.W. Dixon and Alexandra Aikhenvald. Cambridge: Cambridge University Press. 23-63
+DIXON, R.M.W. 1995. Ergativity. Cambridge Studies in Linguistics Cambridge: Cambridge University Press.
+_________. 2010. Basic Linguistic Theory (Vol. II). New York: Oxford University Press.
+DURBIN, M. 1977. A survey of the Carib language family. In: Carib-speaking indians: culture, society and language. E. Basso (Ed). Tucson: University of Arizona Press. 23-38.
+EVERETT, D. 1986. Pirahã. In: Handbook of Amazonian Languages I, D. C. Derbyshire and G. K. Pullum (Eds). Berlin; Mouton de Gruyter. 200-325.
+FRANCHETTO, B. 2002. Kuikuro: uma língua ergativa no ramo meridional da família karib (Alto Xingu). In Ergatividade na Amazônia I. Centre d’études des langues indigènes d’Amérique (CNRS, IRD), Laboratório de Línguas Indígenas (Unb). 1544.
+______________. 2003. L’autre du même: parallélisme et grammaire dans l’art verbal des récits kuikuro - caribe du haut Xingu, Brésil.In AMERINDIA 28 (Langues caribes). 213-248.
+______________. 2004. Coreferentiality in Kuikuro (Southern Carib, Brazil) In Ergativité en Amazonie - Ergatividade na Amazônia III. Centre d’études des langues indigènes d’Amérique (CNRS, IRD), Laboratório de Línguas Indígenas (Unb), 121-138.
+_______________.2006. Are Kuikuro Roots Lexical Categories? In Lexical Categories and Root Classes in Amerindian Languages. Lois, X. & Vapnarski, V. (Eds.) Bern: Peter Lang. 33-68.
+______________& SANTOS, M. 2003.Natureza dos argumentos e mudança de valência a partir de uma classificação (semântica) dos 'verbos' Kuikuro. In
+118
+
+Ergatividade na Amazônia II. Centre d’études des langues indigènes d’Amérique (CNRS, IRD), Laboratório de Línguas Indígenas (Unb). 101- 154.
+GILDEA, S. 1989. Simple and Relative Clauses in Panare. University of Oregon, M.A. thesis.
+_________. 1993 The development of tense markers from demonstrative pronouns in Panare (Cariban). Studies in Language 17.p. 53-73.
+_________. 1998. On Reconstructing Grammar: Comparative Cariban Morphosyntax. Oxford: Oxford University Press.
+_________. 2012. Linguistic studies in the Cariban family. In Handbook of South American Languages. Campbell, L. & Grondona, V. (Eds.). Berlin: Mouton de Gruyter. 441-494.
+GIRARD, V. 1971. Proto-Carib phonology. PhD. Thesis. Berkeley: University of California.
+GREENBERG, J. H. 1963. Some universals of grammar with particular reference to the order of meaningful elements. In Universals of Language. Greenberg, J. H. (Ed.). Cambridge, MA: MIT Press. 73-113.
+GUSS, D. 1989. To Weave and Sing: Art, Symbol, and Narrative in the South American Rainforest. University of California Press, Berkeley and Los Angeles: California.
+HALL, K. L. 1988. The morphosyntax of discourse in De'kuana Carib. Volumes I and II. PhD Thesis. Washington University.
+HOPPER, P. J. & THOMPSON. S. A. 1984. The discourse basis for lexical categories in universal gramar. In: Language 60, 4. 703-752.
+KAUFMAN, T. K. 1994. The native languages of South America. Atlas of the World’s Languages. Mosely, C. & Asher R. E.(Eds.) New York: Routledge. 46-76.
+______________ . 2007. South America. Atlas of the World’s Languages. 2nd Ed. Mosely, C. & Asher R. E.(Eds.) London: Routledge. 59-94.
+KOCH-GRÜNBERG, Theodor. 1979. [1917]. Del Roraima al Orinoco, traduit de l’allemand par Federica de Ritter. Vol. III. Caracas: Edicones del Banco central de Venezuela.
+LASERSOHN, P. Plurality, Conjunction, and Events. 1995. In: Studies in Linguistics and Philosophy 55. Dordrecht: Kluwer.
+119
+
+LOUKOTKA, . 1968. Classification of South American Indian Languages. Los Angeles: Latin American Center, UCLA.
+MEIRA, S. 1999. A grammar of Tiriyó. PhD Thesis. Houston: Rice University.
+_________. 2006. A família linguística Caribe (Karíb). In Revistas de Estudos e Pesquisas. FUNAI, Brasília. v. 3, n.1/2. 157-174.
+MEIRA, S. & FRANCHETTO, B. The southern Cariban languages and the Cariban family. International Journal of American Linguistics 71. 127-192.
+MEIRA, S. & GILDEA, S. 2009. Property concepts in the Cariban family: Adjectives, adverbs and/or nouns? In: The Linguistics of Endangered Languages: Contributions to Morphology and Morphosyntax. Wetzels, W L. (Ed.). 95-133.
+MÜLLER, A. & SANCHEZ-MENDES, L. 2010. O Significado da Pluracionalidade em Karitiana. In: Cadernos de Estudos Linguísticos (UNICAMP), v. 52,2. 215-231.
+MÜLLER, A. STORTO, L. & COUTINHO-SILVA, T. 2006 . Número e a distinção contável-massivo em Karitiana. In: Revista da Abralin, v.5, n.1 e 2. 185-213.
+NAKANISHI, K. & SATOSHI T. 2004. Japanese plurals are exceptional. JEAL 13, 3958.
+NICHOLS, J. 2007. What, if anything, is Typology?. In: Linguistic Typology 11. 231238.
+OJEDA, A. 1998. The semantics of collectives and distributives in Papago. Natural Language Semantics 6. 245–270.
+PAYNE. T. E. 1997. Describing morphosyntax: a guide for field linguistics. Cambridge: Cambridge University Press.
+__________. 2006 Exploring language structure: a student’s guide. Cambridge: Cambridge University Press.
+PACHÊCO, F. B. 1997. Aspectos da gramática Ikpeng (Karíb). Dissertação de mestrado. Universidade Estadual de Campinas (UNICAMP).
+__________. 2001. Morfossintaxe do verbo Ikpeng (Karíb). Tese de doutorado, Instituto de Estudos da Linguagem (IEL), Universidade Estadual de Campinas (UNICAMP).
+ROMERO-FIGUEROA, A. 2000. Participant coding in Kari'ña discourse. In: Indigenous Languages of Lowland South America [Indigenous Languages of Latin America. v1. van der Voort, H. & van der Kerk, S. (Eds.). Leiden:
+120
+
+Research School of Asian, African, and Amerindian Studies (CNWS). p. 243254. SANTOS. G.M.F. 2007. Morfologia Kuikuro: gerando nomes e verbos. Tese de doutorado. Universidade Federal do Rio de Janeiro.
+SILVA MONTERREY, N. R. 2007. Pouvoir, parenté et société chez les Ye’kwana du Caura-Erebato, au Venezuela: de la diversité à la synthèse. Thèse de doctorat. Paris: EHESS.
+SILVERSTEIN, M. 1976. Hierarchy of features and ergativity. In: Grammatical Categories in Australian Languages. R.M.W. Dixon (Ed.). New York: Humanities Press. 112–171.
+SOUZA CRUZ, M.O. 2005. Fonologia e Gramática Ingarikó: Ka pon - Brasil. Ph.D. Thesis. Free University of Amsterdam.
+STENZEL, K. & DEMOLIN, D. 2013. Traços Laringais em Kotiria e Wa'ikhana (Tukano Oriental). In Fonologia: Teoria e perspectivas - Anais do IV Seminário Internacional de Fonologia, eds. Leda Bisol and Gisela Collischonn. Porto Alegre: Editora EDIPUCRS. 77-100.
+TAVARES, P.S. 2005. A Grammar of Wayana. Ph.D. Thesis. Rice University. UNESCO. 2010. ATLAS of the World's Languages in Danger. <http://www.unesco.org/new/en/culture/themes/endangered-languages/> acessado em 15 de Janeiro de 2013. YU, A. C. 2003. Pluractionality in Chechen. In: Natural Language Semantics 11. 289-
+321.
+121
+
+Anexo I “Bocejar”
+
+Anexo II “Respirar”
+
+Anexo III “Beijar”
+
+Anexo IV “Morder”
+
+

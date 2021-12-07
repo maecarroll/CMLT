@@ -1,0 +1,382 @@
+Trim: 228mm × 152mm Top: 12.548 mm Gutter: 18.98 mm CUUK2492-03 CUUK2492/Muysken ISBN: 978 1 107 04428 9
+
+October 25, 2013 17:39
+
+3 Basic vocabulary comparison in South American languages
+Harald Hammarstro¨m
+
+Comparison of basic vocabulary has been the default method for sorting out the fundamental relationships between South American languages since the very beginning. It is through basic vocabulary (Tadmor et al. 2010) that we are able to make the ﬁrst distinctions between contact and inheritance and thus infer contact in grammar and other domains of vocabulary. I show that the classiﬁcation of South American languages by Loukotka (1968), based on basic vocabulary inspection, closely mirrors the classiﬁcation presented by Campbell (2012a), for which far more extensive lexical and grammatical data had become available. In addition to the classic manual comparative work, I compare the outcome of an automated procedure for lexical comparison to the existing manual classiﬁcations. This reveals that automated comparison has a high degree of correspondence to the manual ones, despite the simplistic assumptions of the former and question marks on systematicity and objectivity of the latter.
+
+1
+
+Introduction
+
+From the very beginning, basic vocabulary comparison has been used by scholars of South American languages to ﬁnd genealogical language families. The ideas underpinning the method of basic vocabulary comparison are simple. If legitimate, it constitutes a powerful tool, because, once the shallowest genealogical families are found, we can trace diffusion across those families, as well as make well-grounded investigations towards deeper relations.
+
+2
+
+South American avant-gardists of basic vocabulary comparison
+
+The ﬁrst1 major attempt at classifying the languages of South America was Herva´s’ (1784) catalog of languages of the world. Due to the Jesuits’ activities in the colonies, several hundred South American languages were known to various degrees (Herva´s 1784: 10–11).
+
+1 In the centuries before, only a handful of South American languages were known through published data. De Laet (1643) is an even earlier precursor to basic vocabulary comparison, but effectively only had access to unrelated South American languages.
+56
+
+Trim: 228mm × 152mm Top: 12.548 mm Gutter: 18.98 mm CUUK2492-03 CUUK2492/Muysken ISBN: 978 1 107 04428 9
+
+October 25, 2013 17:39
+
+Basic vocabulary comparison in South American languages
+
+57
+
+Herva´s’ (1784, 1800) catalog lists the languages along with basic metainformation such as location and alternative names, while his vocabulary (Herva´s 1787b) and extracts (Herva´s 1787a) give basic vocabulary and text specimens respectively. Almost all of this data concerning South American languages was obtained by Herva´s through extensive letter correspondence with his Jesuit colleagues (Batllori 1951; Clark 1937).
+Emanating from this scholarly exchange was the organization of languages in groups around a “matrix” language (“lengua matriz” in the original Spanish versus “lingua matrice” in the original Italian). Despite the centrality of the term and lengthy discussions on linguistic theory and the role of language,2 we are never given an explicit deﬁnition of the matrix-language concept. However, its essential properties can be inferred from the context where the term occurs: 1. Languages belong to the same matrix language if items of data from them
+show afﬁnity (“afﬁnita`”, and more precisely “afﬁnita` delle parole”), e.g. Herva´s (1800: 29–30):
+
+se halla frequ¨entemente que hablan dialectos provenientes de una misma lengua matriz naciones entre s´ı distint´ısimas, . . . De los lenguages de estas naciones tup´ı, guaran´ı y homagua los jesuitas sus misioneros me han dado varios documentos, con cuyo cotejo he hallado que los dichos lenguages tienen aﬁnidad, y son dialectos provenientes de una misma lengua matriz.
+it is frequently found that nations very different from each other speak dialects that stem from one and the same matrix language, . . . , concerning the languages of the nations Tup´ı, Guaran´ı and Homagua, the Jesuits who are missionaries with them have given me various documents, with whose authentication I have found that the said languages have afﬁnity, and they are dialects stemming from one and the same matrix language.
+
+Numerous examples of actual vocabulary comparisons and the declaration of their afﬁnity is found throughout the Jesuits’ language listings (Gilij 1784; Herva´s 1784, 1787b). 2. The absence of afﬁnity between languages means they are different matrix languages, e.g. Herva´s (1800: 245):
+
+De la lengua Puquina solamente he podido lograr la oracion dominical, cuyas palabras me parecen muy diferentes de las respectivas de otros idiomas de Ame´rica, por lo que conjeturo que sea matriz.
+Regarding the Puquina language I have only been able to obtain the Lord’s Prayer, whose words, in my opinion, seem very different from the respective words in other languages of the Americas, wherefore I conjecture that it is a matrix language.
+
+2 See especially Herva´s 1800: 1–106 or Gilij 1784: 273–309 where we learn that linguistics is superior to physical characteristics (e.g., size of the head) for classifying the nations of the world, and that entire nations can switch languages, and that there is no difference in the complexity of languages of civilized versus primitive peoples.
+
+Trim: 228mm × 152mm Top: 12.548 mm Gutter: 18.98 mm CUUK2492-03 CUUK2492/Muysken ISBN: 978 1 107 04428 9
+
+October 25, 2013 17:39
+
+58
+
+Harald Hammarstro¨m
+
+3. Afﬁnity of items of vocabulary between two languages does not imply that they are of the same matrix, if those vocabulary items are borrowings, e.g. Herva´s (1787b: 32):
+
+Passo ora ad esporre alcuni pratichi esempi della rispettiva afﬁnita` delle lingue di ognuna delle due Americhe nelle parole; non gia` perche` essi provino essere veramente afﬁni le lingue di parole afﬁni, ma perche` se ne rilevi il vicendevole commercio delle nazioni . . .
+I will now show some practical examples of the relatedness in some words among the languages of the two Americas. Not, however, because these languages which have related words are truly related, but because the mutual trade between the nations is revealed in them . . .
+
+4. Chance resemblances in basic vocabulary can be found even in different matrix languages (and thus do not indicate that the languages have a common matrix), e.g. Herva´s (1800: 153–154):
+
+Carne ‘meat’ Hijo ‘son’ Lengua ‘tongue, language’ Man˜ana ‘morning, tomorrow’ Negro ‘black’ Noche ‘night’
+
+Tamanaco Chararu´ Emuru Nuru Coronare Kineˆme Kolco
+
+Kiriris Cradzo´ In˜ ura Nunu Carantzi Kotko Kaya
+
+La semejanza de estas palabras es accidental: porque las lenguas tamanaca y kiriri son totalmente diversas, y provenientes de matrices diferent´ısimas . . .
+The similarity between these words is accidental: because the languages Tamanaco and Kiriri are totally different, and come from very different matrix languages . . .
+
+In particular, Herva´s (1800: 43–44) discredits theories that “prove” that all languages descend from Hebrew based on a few superﬁcially similar lexical items. 5. Any human language has basic vocabulary, e.g. Herva´s (1800: 15–16):
+
+El lenguage de la nacion mas ba´rbara tiene a´ lo me´nos las palabras de todas las cosas mas necesarias para su subsistencia, y quando comercia o´ trata con otra civil, recibe de esta las demas palabras de las cosas no tan necesarias. Por tanto en los idiomas de las naciones, que se advierte estar corrompidos con palabras forasteras, se deben buscar como primitivas las que signiﬁquen cosas de la mayor necesidad, o´ del mas frequ¨ente uso o´ conversacion de los hombres;
+Even the language of the most barbarous nation at least has words for the things most necessary for their subsistence, and when such a language engages in trade or deals with a civil language, it obtains from the latter words for other not so necessary things. So among the languages of the nations which are corrupted with unknown words, one has to ﬁnd the primitive ones which carry the meanings that are the most necessary or of most frequent use or interaction of the people;
+
+Trim: 228mm × 152mm Top: 12.548 mm Gutter: 18.98 mm CUUK2492-03 CUUK2492/Muysken ISBN: 978 1 107 04428 9
+
+October 25, 2013 17:39
+
+Basic vocabulary comparison in South American languages
+
+59
+
+However, a number of issues relating to the matrix-concept seem to have remained undeveloped. First, if two languages A and B were concluded to belong to the same matrix language, it is not clear on what grounds it was decided that A is the matrix and B the dialect, rather than vice versa, and only in a few passages is the matrix language neither A nor B, but one that must have existed in the past. Second, when it is realized that there are different levels of relatedness, the terminology oscillates between matrix referring to the sub-family and matrix referring to the deepest-level family. Third, Herva´s (1800: 11, 15) declares that languages can be compared not only on the lexical, but also on the phonological and grammatical level. While he is aware that grammatical similarities such as the order of adjective and noun (Herva´s 1800: 24, Herva´s 1799) have no particular implications for matrix-hood, in at least one passage, Herva´s (1784: 41) admits that the “artiﬁcio gramaticale” has a higher probative value than vocabulary for showing that languages belong to the same matrix.
+The culmination of the method pioneered by the Jesuits3 is Loukotka’s (1968) classiﬁcation of all South American languages. The principles behind Loukotka’s classiﬁcation, as described by himself (Loukotka 1968: 29–31) and in Wilbert’s (1968) introduction, can be summed up as follows: 1. Whenever possible, inspect a standard list of forty-ﬁve meanings for cog-
+nates with other languages. 2. If the standard list cannot be complied, use whatever there is, and
+if there is no form–meaning data at all, classify based on any other information. Languages which only have scraps (a few words, personal names) of data or no data at all, are systematically indicated as such in Loukotka’s (1968) listing. A selection of languages with ﬁve to ten vocabulary items are interspersed throughout his outcome listing, but otherwise what comparisons underlie what classiﬁcation choices is left implicit. That is how Loukotka describes the principles of his own work in language classiﬁcation. However, the listing that actually appears in Loukotka’s book has a few families which Loukotka (1968: 29–30) describes as compromises between his own classiﬁcation and that of other prominent scholars:
+
+other scholars’ results, often their opinions did not coincide with the conclusions of my own comparative studies. In such cases it was necessary to strive for a reasonable
+
+3 Wilbert (1968: 8–10) ascribes this method, i.e., classiﬁcation based on the inspection of standard lists of basic vocabulary, to Brinton (1891) because Brinton had an explicit standardized list of twenty-one meanings. Brinton, as well as Loukotka, in fact, often found themselves using less or more items of vocabulary than from the standard lists, according to whatever was available. There is not much difference, then, between these methods and those of the Jesuits whose implicit notion of basic vocabulary must be taken to be roughly the meanings in Herva´s (1787b)’s Vocabulario Poligloto, or whatever was available.
+
+Trim: 228mm × 152mm Top: 12.548 mm Gutter: 18.98 mm CUUK2492-03 CUUK2492/Muysken ISBN: 978 1 107 04428 9
+
+October 25, 2013 17:39
+
+60
+
+Harald Hammarstro¨m
+
+compromise that retained the value of the other investigator’s work and at the same time meshed with my own.
+
+These “compromise-case” families are said to be Arawak, Karaib Tup´ı, and Chibcha (Loukotka 1968: 29–30), but may include a few more (e.g. Chimu´; see Rowe 1954). It seems that the “compromise-cases” cannot be defended on purely scientiﬁc grounds – Loukotka had them as such out of personal reverence for certain individuals. For example, regarding the Chibchan family, he followed Paul Rivet “his esteemed teacher” (Loukotka 1968: 50) – in fact, the 1968 book itself is dedicated to Paul Rivet.
+Campbell (2012a: 66) holds that “Loukotka’s method was generally criticized” but does not adduce adequate support for this claim. He cites Rowe (1954: 15) as evidence, but Rowe’s critique concerns the “compromise-cases” where Loukotka did not apply his method. A subsequent passage concerns “Mischsprachen” but this concept pertains to Loukotka’s 1942 classiﬁcation (Loukotka 1942: 1), and the labels “Mischsprachen” and “Spuren” were almost completely abandoned for the 1968 classiﬁcation.4
+
+3
+
+The standing of basic vocabulary comparison
+
+The method of basic vocabulary comparison (BVC) may be characterized as
+follows: r use a standard list (e.g., 45 words as per Loukotka, 200 words as per Swadesh)
+of basic vocabulary r look for similarities in form and meaning r select languages that share similarities in sound and meaning beyond ran-
+domness r interpret the non-random similarity as inheritance rather than
+r universals r borrowing
+BVC is a method that takes language data and outputs families. The three
+fundamental questions, for evaluating BVC and any such method, are: r Is the method sound? I.e., does it produce false positives, or in the dearth of
+hard evaluation data, is the method based on defendable principles? r Is the method complete? I.e., does it ﬁnd all families that are recoverable
+from linguistic data? r Can it be automated? (This is desirable in order to save time and to straighten
+out question marks on systematicity and objectivity with manual methods.)
+
+4 Many languages were so labeled in the 1942 classiﬁcation, yet only a few Matacoan and Guaycuruan languages remain with these labels. Since Loukotka’s introduction to the 1968 classiﬁcation does not mention “Mischsprachen” he presumably intended to remove them. Perhaps the few cases where they did remain are where he did not ﬁnd the time to revise them before his death.
+
+Trim: 228mm × 152mm Top: 12.548 mm Gutter: 18.98 mm CUUK2492-03 CUUK2492/Muysken ISBN: 978 1 107 04428 9
+
+October 25, 2013 17:39
+
+Basic vocabulary comparison in South American languages
+
+61
+
+Regarding soundness, there are several components. First, regarding borrowing, a long overdue empirical investigation (Tadmor et al. 2010) shows that there is a subset of vocabulary which is more resistant to borrowing. Such vocabulary items are often (but need not be) monomorphemic (Urban 2012). More importantly, the set of meanings resistant to borrowing signiﬁcantly overlaps with lists of meanings that are found in all human cultures and with lists of meanings that are frequent in discourse across human languages (Borin 2012) as well as the lists used by Herva´s and Loukotka. Second, empirical investigations into universal tendencies in similarity between form and meaning – also known as sound symbolism – have shown that such tendencies are very slight (Urban 2012; Wichmann et al. 2010a). Third, chance resemblance can be ruled out in a variety of ways. For example, to the degree that regular sound correspondences can be established between different items of basic vocabulary, chance as an explanation is effectively eliminated (Campbell and Poser 2008; Hewson 2010). If chance resemblance is not transparently ruled out there are methods for explicit tests of chance similarity (Dunn and Terrill 2012). Thus, at the end of the day, there are good arguments for concluding that BVC as just described,5 is a sound practice.
+Regarding completeness, the question is whether comparison of other linguistic data, i.e., morphosyntax and non-basic vocabulary, produces signiﬁcantly more or signiﬁcantly different family relationships. Loukotka (1968: 15, 29) relied on basic vocabulary inspection for practical reasons: the time limitations of one single human and the lack of more extensive lexical or grammatical data for most South American languages. This is in sharp contrast with the classiﬁcation of North American languages by Powell (1891: 11), who held the supremacy of BVC on theoretical grounds and would not have used other data even if it were available. However, Powell’s (1891) BVC classiﬁcation is nearly identical to the classiﬁcation of Goddard (1996) which is not limited to BVC and takes into account a century of additional data and intensive study of historical relationships. The situation of South American languages at the time of Loukotka versus now is similar in the sense that essentially only wordlists were available in Loukotka’s time, whereas at present, grammatical data is available for the bulk of the languages that were still alive in the past 50 years. In 1964, when Loukotka handed over his manuscript, there were 46 South American languages with a grammatical description of around 150 pages, and 94 further languages with a grammar sketch of around 50 pages or the equivalent. In 2012, there are 233 languages with a grammatical description and 119 additional languages with a grammar sketch.6 A partial answer regarding
+
+5 Of course, not any method based on inspection is of basic vocabulary is sound. For example, Rivet (1924b) and Greenberg (1987) failed to observe the requirement of non-randomness in their basic vocabulary comparisons (Campbell and Poser 2008).
+6 The ﬁgures were computed from data in the LangDoc project (see Hammarstro¨m and Nordhoff 2011) on September 1, 2012.
+
+Trim: 228mm × 152mm Top: 12.548 mm Gutter: 18.98 mm CUUK2492-03 CUUK2492/Muysken ISBN: 978 1 107 04428 9
+
+October 25, 2013 17:39
+
+62
+
+Harald Hammarstro¨m
+
+completeness for South American languages is given in the next section, with the comparison of Loukotka’s (1968) classiﬁcation with that of Campbell (2012a).
+Regarding automation, recent work gives us a lower bound on what automation can do. The Automated Similarity Judgment Program (ASJP) project compares the forms of words on a standardized forty-item list of basic vocabulary (Brown et al. 2008). The words are entered in a uniform transcription system. The distance between two words can then be calculated as the number of character insertions/deletions/substitutions needed to transform one word to the other (also known as the Levenstein-distance). Dividing this by the length of the longer of the two words gives a score between 0 (identical) and 1 (completely different). The distance between two entire languages is then deﬁned as the average distance between pairs of words with the same meaning, divided by the average distance between pairs of words with different meaning. The latter step is to discount similarity caused merely by small or similar phonetic inventories (see Wichmann et al. 2010b for further details). The ASJP program amounts to a reasonable formalization of basic vocabulary comparison. Forty-word lists for most South American languages (357 out of a total of 577 attested classiﬁable languages) have been included for the 15th edition of ASJP (Wichmann et al. 2012). A comparison between the ASJP classiﬁcation and the manual classiﬁcations of Loukotka (1968) and Campbell (2012a) is described in the next section.
+For the sake of clarity, it is worth pointing out that BVC as discussed here is not in conﬂict with the comparative method in historical linguistics – BVC constitutes (one possibility of achieving) the ﬁrst step of the comparative method as deﬁned by Ross and Durie (1996: 6), namely to “determine on the strength of diagnostic evidence that a set of languages are genetically related, that is, that they constitute a ’family’.” The comparative method is furthermore in a position to achieve a reconstructed proto-language and a subclassiﬁcation based on shared innovations – two worthy goals which are beyond the capability of simple basic vocabulary comparison. However, if enough basic vocabulary is reconstructed for one or more proto-languages, basic vocabulary comparison can, of course, be carried out on proto-languages to determine if they are related.
+
+4
+
+Three perspectives on language families in South America
+
+We shall now compare the three classiﬁcations of South American languages:
+
+L1968:
+
+The BVC-based classiﬁcation of Loukotka (1968) as described
+
+in Section 2.
+
+ASJP-NJ-268: A cut-off neighbor-joining (NJ) tree (Saitou and Nei 1987)
+
+based on the default ASJP language distance measure as
+
+Trim: 228mm × 152mm Top: 12.548 mm Gutter: 18.98 mm CUUK2492-03 CUUK2492/Muysken ISBN: 978 1 107 04428 9
+
+October 25, 2013 17:39
+
+Basic vocabulary comparison in South American languages
+
+63
+
+C2012:
+
+described above. An NJ tree is the simplest way to convert a distance matrix between languages into a hierarchical classiﬁcation with meaningful branch-lengths. The NJ-method necessarily produces one complete tree of all the input languages rather than a number of different families. To get a set of families from the tree, we cut the tree at a threshold distance t from the root of the tree. I chose the cut-off value t such that it maximizes the correspondence (least number of “misclassiﬁed” languages) with Campbell’s (2012a) classiﬁcation (maximizing the correspondence with Loukotka 1968 yields a very similar result). The maximizing t-value happens to be 268 and results in the “misclassiﬁcation” of about 40 languages (out of 357, or ca 11%).7 The classiﬁcation of Campbell (2012a). This classiﬁcation aims to follow any convincing evidence for genealogical relationship and is thus not restricted to basic vocabulary comparison. Although the outcome listing is claimed to represent only “generally accepted” genealogical units, no actual evidence is given, neither as direct linguistic evidence for the families themselves nor as indirect evidence pointing to experts or surveys that found them acceptable.
+
+The purpose of comparing these three classiﬁcations is as follows. Comparing L1968 to C2012 gives us an indication of how complete BVC is, since a wealth of descriptive work appeared between 1964 and 2012. Comparing ASJP-NJ268 to either L1968 or C2012 gives us an indication of how automatable either one is, and, if ASJP-NJ-268 suggests new families that turn out to be valid on closer inspection, that comparison tells us how systematic and objective L1968 and C2012’s manual comparisons were.
+Table 3.1 lists all units not split by any of the three classiﬁcations and how those units are grouped. The exact languages comprising every unit can be found in the original listings. As already mentioned, the ASJP-NJ-268 does not include all South American languages, and features only 89 of the total of 108 (82%) Campbell (2012a) families. Except as featured in Table 3.1, there are no differences between the language inventories in L1968 and C2012 that have any bearing on the questions addressed in this chapter – they concern language/dialect divisions, the treatment of poorly attested languages or newly discovered easily classiﬁable languages rather than different classiﬁcations of sufﬁciently attested languages. Similarly, attested languages missing from both
+
+7 Higher correspondence is achievable if we have a freely variable threshold or a threshold that depends on the size (number of languages) of the clade being cut.
+
+Trim: 228mm × 152mm Top: 12.548 mm Gutter: 18.98 mm CUUK2492-03 CUUK2492/Muysken ISBN: 978 1 107 04428 9
+
+October 25, 2013 17:39
+
+64
+
+Harald Hammarstro¨m
+
+Table 3.1 Language families with their status in the work of Loukotka (1968), ASJP, and Campbell (2012a)
+
+Unit
+
+L1968
+
+ASJPNJ268
+
+Aikana Aimore Andaqui Andoque Arara do Rio Branco Araucanian Arawakan-Nuclear Arawakan-Campa Arawakan-Andaqui-
+Guajiro Arawakan-Lokono-
+Caribbean Arawan Atacame Atacamen˜ o
+Awake Aymaran Baenan Barbacoan Betoi Boran Bororoan Cahuapanan Candoshi-Shapra
+Canichana Can˜ ar-Puruha´ Cariban Cayuvava Chapacuran Charruan Chibchan-Nuclear Chibchan-Aruakan Chiquitano Chocoan Chonan Chono Cofan Culli Fulnio Gamela
+
+Huari Botocudo Chibcha Andoque Tup´ı Mapuche Arawak Arawak Arawak
+Arawak
+Arawa Chibcha Atacame
+Auake Aymara Baenan Chibcha Chibcha Bora Boro´ ro Kahuapana Murato
+Canichana Chimu´ Karaib Cayuvava Chapacura Charrua Chibcha Chibcha Chiquita Choco´ Patagon (Aksanas) Cofan Culli Fulnio Gamela
+
+F5 [Aikana-Kwaza] F49 [Aimore] F33 [Andaqui-Guajiro] F31 [Bororoan-Andoque] – F30 [Kariri-Araucanian] F74 [Arawakan-Nuclear] F73 [Arawakan-Campa] F33 [Andaqui-Guajiro]
+F65 [Lokono-Caribbean]
+F3 [Arawan] – F43 [Atacamen˜o-
+Candoshi-Shapra] F42 [Awake] F0 [Aymaran-Quechuan] – F1 [Barbacoan] – F72 [Bora-Resg´aro] F31 [Bororoan-Andoque] F4 [Cahuapanan] F43 [Atacamen˜o-
+Candoshi-Shapra] – – F32 [Cariban] F71 [Cayuvava] F19 [Chapacuran] – F52 [Chibchan-Nuclear] F55 [Aruakan-Katukinan] F40 [Chiquitano] F57 [Chocoan] F25 [Chonan-Payagua´] – F38 [Cofan] – F60 [Fulnio-Leko] –
+
+C2012
+Aikana´ Krenakan Andaqu´ı Andoque Unclassiﬁed Mapudungun Arawakan Arawakan Arawakan
+Arawakan
+Arawan Esmeralda Atacamen˜ o
+Awake´ Aymaran Baenan Barbacoan Betoi Boran Bororoan Cahuapanan Candoshi
+Canichana Can˜ ar-Puruha´ Cariban Cayuvava Chapacuran Charru´ an Chibchan Chibchan Chiquitano Chocoan Chonan Chono Cofa´n Culle Yate´ Gamela
+
+Trim: 228mm × 152mm Top: 12.548 mm Gutter: 18.98 mm CUUK2492-03 CUUK2492/Muysken ISBN: 978 1 107 04428 9
+
+October 25, 2013 17:39
+
+Basic vocabulary comparison in South American languages
+
+65
+
+Table 3.1 (cont.)
+
+Unit
+Guachi
+Guahiboan Guaicuruan
+Guamo Guato Harakmbet
+Hibito-Cholon Huarpean Huitotoan Iranxe
+Itonama Jabut´ı Jeˆ-Central Jeˆ-Southern Jirajaran Jivaroan Jodi Kakua-Nukak
+Kamakanan Kamsa Kanoe Karaja Kariri Katukinan
+Kawesqar Kwaza Leko Lengua-Mascoy Lule Maku Matacoan Matanawi Maxakalian Mochica Moseten-Chimane Movima Muniche Mura-Piraha
+
+L1968
+Mixed Guaicuru
+Arawak Guaicuru
+Guamo Guato´ Toyeri
+Cholona Huarpe Uitoto Iranshe
+Itonama Yabut´ı Ge Kaingan Jirajara Jibaro (–) Maku´
+Kamakan Chibcha Capixana´ Karaja Kiriri Catuquina
+Alacaluf Koaia Leco Lengua Lule Ma´ku Mataco Matanawi Mashakali Chimu Mosetene Mobima Muniche Mura
+
+ASJPNJ268
+F48 [Trumai-Guachi]
+F23 [Guahiboan] F64 [Abipo´n], F26
+[Guaicuruan] – F46 [Guato] F76 [Harakmbet]
+F21 [Cholon] – F62 [Huitotoan] F66 [Iranxe-
+Nambikwaran] F75 [Movima-Itonama] F29 [Jabut´ı-Kaingang] F17 [Jeˆ-Central] F29 [Jabut´ı-Kaingang] – F10 [Jivaroan] F39 [Jodi-Saliban] F18 [Puinave-Kakua-
+Nukak] – F35 [Kamsa] F70 [Kanoe] F16 [Karaja] F30 [Araucanian-Kariri] F55 [Chibchan-
+Katukinan] F41 [Kawesqar] F5 [Aikana-Kwaza] F60 [Fulnio-Leko] F47 [Lengua-Mascoy] F7 [Vilela-Lule] F37 [Maku] F27 [Matacoan] – F56 [Maxakalian] F11 [Mochica] F2 [Moseten-Chimane] F75 [Movima-Itonama] F67 [Muniche] F44 [Mura-Piraha]
+
+C2012
+Guach´ı
+Guajiboan Guaicuruan
+Guamo Guato´ Hara´kmbet-
+Katukinan Cholonan Huarpean Witotoan Irantxe
+Itonama Jabut´ıan Jeˆan Jeˆan Jirajaran Jivaroan Jot´ı Maku´ an
+Kamakanan Camsa´ Kapixana´ Karaja´ Karir´ıan Hara´kmbetKatukinan Qawasqaran Kwaza Leco Mascoyan Lule-Vilelan Ma´ko Matacoan Matanau´ı Maxakal´ıan Mochica Mosetenan Movima Muniche Muran
+(cont.)
+
+Trim: 228mm × 152mm Top: 12.548 mm Gutter: 18.98 mm CUUK2492-03 CUUK2492/Muysken ISBN: 978 1 107 04428 9
+
+October 25, 2013 17:39
+
+66
+
+Harald Hammarstro¨m
+
+Table 3.1 (cont.)
+
+Unit
+Mure Nadahup Nambikwaran
+Natu´ Ofaie Omurano Oti Otomaco Paez Pankararu Panoan Payagua´
+Peba-Yagua Puelche Puinave
+Puquina Puri-Coropo-
+Coroado Purubora´ Quechuan Res´ıgaro Rikbaktsa Saliban Sape Sechuran
+Tacanan Tallan
+Taruma Taushiro Tekiraka Ticuna Timote-Cuica Tinigua Trumai Tucanoan Karitiana Tarairiu Tupian Tuxa
+
+L1968
+
+ASJPNJ268
+
+Chapacuran Maku´ Nambikwara
+Natu´ Opaie Mayna Ot´ı Otomac Chibcha Pankaruru´ Pano Mixed
+Guaicuru Yagua Gennaken Maku´
+Puquina Puri
+Purubura Quechua Arawak Erikbaktsa Piaroa Kaliana Sechura
+
+– F6 [Nadahup] F66 [Iranxe-
+Nambikwaran] – F68 [Ofaie] – – – F36 [Paez] – F9 [Panoan-Tacanan] F25 [Chonan-Payagua´]
+F51 [Peba-Yagua] F12 [Puelche] F18 [Puinave-Kakua-
+Nukak] – F22 [Puri-Coropo-
+Coroado] – F0 [Aymaran-Quechuan] F72 [Bora-Resg´aro] F34 [Rikbaktsa] F39 [Jodi-Saliban] F59 [Sape] –
+
+Tacana Catacao
+
+F9 [Panoan-Tacanan] –
+
+Taruma (–) Auishiri Ticuna Timote Tinigua Trumai Tucano Tup´ı Tarairiu Tup´ı Tusha´
+
+– F45 [Taushiro] – F24 [Ticuna] – – F48 [Trumai-Guachi] F28 [Tucanoan] F77 [Karitiana] – F78 [Tupian] –
+
+C2012
+– Maku´ an Nambikwaran
+Natu´ Ofaye´ Omurano Unclassiﬁed Otomacoan Paezan Pankaruru´ Pano-Takanan Payagua´
+Yaguan Chonan Maku´ an
+Puquina Pur´ıan
+Tup´ıan Quechuan Arawakan Rikbaktsa´ Sa´liban Kaliana Sechura-
+Catacaoan Pano-Takanan Sechura-
+Catacaoan Taruma Taushiro Tequiraca Tikuna-Yur´ı Timotean Tiniguan Trumai Tucanoan Tup´ıan Unclassiﬁed Tup´ıan Tuxa´
+
+Trim: 228mm × 152mm Top: 12.548 mm Gutter: 18.98 mm CUUK2492-03 CUUK2492/Muysken ISBN: 978 1 107 04428 9
+
+October 25, 2013 17:39
+
+Basic vocabulary comparison in South American languages
+
+67
+
+Table 3.1 (cont.)
+
+Unit
+Urarina Uru-Chipaya Vilela Wamoe´ Waorani Warao Xoco´ Xukuru Yamana Yanomamic Yaruro Yurakare´ Yur´ı Yurumangui Zamucoan Zaparoan
+
+L1968
+Itucale Uro Vilela Uman Sabela Uarao Shoco´ Shukuru Yamana Yanoama Chibcha Yuracare´ Yuri Yurimangui Zamuco Zaparo
+
+ASJPNJ268
+– F69 [Uru-Chipaya] F7 [Vilela-Lule] – F50 [Waorani] F63 [Warao] – – F15 [Yamana] F8 [Yanomamic] F20 [Yaruro] F13 [Yurakare´] – – F61 [Zamucoan] F14 [Zaparoan]
+
+C2012
+Urarina Chipaya-Uru Lule-Vilelan Wamoe´ Sabela Warao Unclassiﬁed Xukuru´ Yagan Yanomaman Yaruro Yuracare´ Tikuna-Yur´ı Yurumangu´ı Zamucoan Zaparoan
+
+L1968 and C2012 are not taken up. Finally, Chibchan languages that fall outside South America geographically have been excluded from consideration.
+The L1968 and C2012 classiﬁcations nearly always agree. A complete account of the differences between L1968 and C2012 are as follows: r Linguistic data on Chono (Bausani 1975), Jodi (Guarisma Pinto and Coppens
+1978), and Taushiro (Alicea 1975c) appeared only after 1964, and were thus missing in L1968. r L1968 has a Chibcha family ambitiously comprising Atacame, Andaqui, Barbacoan, Betoi, Kamsa´, and Yaruro as well as an Arawak family including Guahiboan. These are, in fact, cases where Loukotka explicitly stated he had not followed his method of BVC, but sought a compromise with the views of scholars he had a personal reverence for. The L1968 inclusion of the very poorly attested Can˜ar-Puruha´ in Chimu´ is probably also such a case (Rowe 1954). r C2012 is composed of Lule-Vilela, Pano-Takanan, Harakmbet-Katukinan and Chon-Puelche, Southern Jeˆ-Central Jeˆ, Purubora´-Tupian, Ticuna-Yuri, and Sechura-Catacaoan. Curiously, all of these are in fact argued on the basis of basic vocabulary comparison.8 If these are counted as valid families, there
+8 For Lule-Vilela, see Viegas Barros (2001); Pano-Takanan, see Girard (1971), Key (1968), Ribeiro (2003) – though grammatical similarities have seriously entered the comparison afterwards; Harakmbet-Katukinan, see Adelaar (2000, 2007); Chon-Puelche, see Viegas Barros (2005);
+
+Trim: 228mm × 152mm Top: 12.548 mm Gutter: 18.98 mm CUUK2492-03 CUUK2492/Muysken ISBN: 978 1 107 04428 9
+
+October 25, 2013 17:39
+
+68
+
+Harald Hammarstro¨m
+
+is some leakage in Loukotka’s BVC method, either in systematicity – did he ever compare Hara´kmbet and Katukinan? – or in the need for reconstructing proto-languages to arrive at Jeˆ or Pano-Takanan. r L1968 labels the two poorly attested languages Guach´ı and Payagua´ as “mixed languages” under Guaicuru. Possibly he meant that they were nonGuaicuru languages that had come under Guaicuru inﬂuence, in which case his result is not very different from C2012. r The poorly attested Arara do Rio Branco, Tarairu, Oti, and Xoco´ are listed as unclassiﬁed in C2012. The reason for this is opaque since several languages with similar or less data than those have been classiﬁed as isolates in C2012. Mure (Teza 1868) is missed as a separate attested language in C2012. C2012 thus has a little leakage when it comes to consistency. The correspondence between ASJP-NJ-268 and C2012 is very high (as well as with L1968, since L1968 and C2012 are very similar). A few large families have not been identiﬁed in their entirety in ASJP (Arawakan, Tup´ıan, Chibchan, Jeˆ),9 and a number of further families are realized (Aikana-Kwaza, Andaqui-Guajiro, Iranxe-Nambikwaran, Movima-Itonama, Jodi-Saliban, Aymaran-Quechuan, Bora-Res´ıgaro, Atacamen˜o-Candoshi-Shapra, AruakanKatukinan, Chonan-Payagua´, Bororoan-Andoque, Kariri-Araucanian, FulnioLeko, Trumai-Guachi). The ﬁrst seven are old suggestions which have been investigated already,10 while the latter seven have not been seriously investigated. Of the latter seven, only Chonan-Payagua´ seems ethnohistorically and geographically plausible on the face of it. Thus, it appears that classical human BVC search for genealogical relations as reﬂected in L1968 and C2012 is as systematic and complete as an initial computerized search.
+
+5
+
+Conclusion
+
+Even as extensive grammatical data is increasingly becoming available and used in the investigation of language prehistory, the notion of basic vocabulary and its role for genealogical classiﬁcation is now also better understood and
+
+Southern Jeˆ-Central Jeˆ, see Davis (1985), Jolkesky (2010); Purubora´-Tup´ıan, see Monserrat (2005), Vilacy Galucio (2005); Ticuna-Yur´ı, see also de Carvalho (2009), Nimuendaju´ (1977); and for Sechuran-Catacaos, only short vocabularies are available (Adelaar with Muysken 2004). 9 Curiously Abipo´n is not classiﬁed with Guaicuru´. Since Abipo´n is a straightforward Southern Guaicuru language (Viegas Barros 2011) it raises the suspicion that the Abipo´n list used in ASJP is misidentiﬁed or poorly transcribed. 10 For Aikana-Kwaza, see van der Voort (2005); for Andaqui-Guajiro, Rivet (1924a) must have looked through the two; Iranxe-Nambikwaran must have been compared by Loukotka (1963); Movima-Itonama was checked already by Herva´s (1784: 56); for Jodi-Saliban, see Jolkesky (2009); Aymaran-Quechuan, Heggarty (2011), and in Bora-Res´ıgaro, (Seifart 2011) similarities are the result of borrowing.
+
+Trim: 228mm × 152mm Top: 12.548 mm Gutter: 18.98 mm CUUK2492-03 CUUK2492/Muysken ISBN: 978 1 107 04428 9
+
+October 25, 2013 17:39
+
+Basic vocabulary comparison in South American languages
+
+69
+
+continues to play the main role. There is good evidence that BVC as practiced by Loukotka (1968) is sound and, if not complete, almost so, at least if we assume that Campbell (2012a) is a standard to measure this by. Attempts at automating one version of basic vocabulary comparison as practiced by the ASJP program reveals that manual BVC can be mimicked to a high degree and that manual BVC appears to have tested geographically and ethnohistorically plausible combinations thoroughly.
+
+Trim: 228mm × 152mm Top: 12.548 mm Gutter: 18.98 mm CUUK2492-03 CUUK2492/Muysken ISBN: 978 1 107 04428 9
+
+October 25, 2013 17:39
+
+70
+
+

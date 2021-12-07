@@ -1,0 +1,4728 @@
+UNIVERSIDADE FEDERAL DE PERNAMBUCO CENTRO DE ARTES E COMUNICAÇÃO
+PROGRAMA DE PÓS-GRADUAÇÃO EM LETRAS
+FONOLOGIA SEGMENTAL DO LAKONDÊ (FAMÍLIA NAMBIKWÁRA)
+ANA GABRIELA MODESTO BRAGA RECIFE 201
+
+ANA GABRIELA MODESTO BRAGA
+FONOLOGIA SEGMENTAL DO LAKONDÊ (FAMÍLIA NAMBIKWÁRA)
+Dissertação apresentada ao Programa de Pós-Graduação em Letras da Universidade Federal de Pernambuco (UFPE), como requisito parcial para a obtenção do título de Mestre em Lingüística. Orientadora: Profª Drª Stella Virgínia Telles de Araújo Pereira Lima RECIFE 2012
+
+Dedico este trabalho a D. Tereza Lakondê, a quem ainda não conheço,
+mas por quem já nutro grande admiração.
+
+AGRADECIMENTOS
+Agradeço à Professora Stella, que me acolheu desde a graduação e sempre confiou no meu trabalho. Que em todos os momentos foi muito mais que uma orientadora, sempre pronta a me ouvir, me ajudar, esclarecer minhas dúvidas. Um exemplo de profissional e de pessoa, com uma energia incrível e visão social e humana admiráveis. Obrigada por me ensinar tantas coisas, por me mostrar como é possível ser profissional sem perder a doçura, a humanidade, a delicadeza e o respeito pelo outro. Obrigada por confiar e dividir comigo a preciosidade que são os registros da língua Lakondê.
+À minha mãe, a melhor mãe do mundo, a mulher mais forte, corajosa, determinada e amorosa que já conheci. Obrigada por me educar, me apoiar e me dar força em todos os momentos; por ser essa mãe e essa mulher maravilhosa que eu tanto admiro; por me passar valores tão fortes e sólidos; por me ensinar a respeitar as pessoas, a lutar pelo que eu desejo, a ser honesta e ética em todas as situações; por me mostrar que a realidade vai além dos meus olhos, que nenhuma luta é vã. Obrigada, acima de tudo, por me dar esse amor que "não aceita fronteiras, como a primavera não escolhe jardim".
+Ao meu namorado Hugo, que me deu tanta força nesse período, compreendeu tão bem minhas angústias e tantas vezes me ajudou a superar a ansiedade. Obrigada por estar do meu lado e por me fazer tão feliz. Sem você, sem dúvidas, esses dois anos não teriam tido a mesma alegria.
+À minha família, em especial à minha avó e madrinha, Berenice, que mesmo sem entender bem do que se trata este estudo, torce e reza tanto por mim. Aos meus tios: Zita, Tico, Nana e Rildo. Aos meus primos, em especial às primas Claine, Manu e Natália. Obrigada a todos pelo carinho, pela torcida e pela confiança.
+À Claristella, pelas conversas e risadas; pelo incentivo e pelo carinho; pela amizade e pelos abraços.
+Aos amigos das línguas indígenas: Luisa, Paulinha, Pryscilla, Edney e Cláudio. Obrigada pelas conversas, pelo companheirismo, pelas discussões acadêmicas e as trocas constantes. Vocês são todos muito especiais e muito queridos. Tenho muita sorte de tê-los encontrado nesta caminhada.
+
+Aos meus amigos de sempre que compreenderam tão bem minhas ausências neste último ano e sempre me deram, cada um ao seu modo, força, segurança e carinho. Em especial aos amigos Laura, Marie, Elissa e Sivaldo, pelas conversas, por dividirem comigo as alegrias e as agonias destes dias; e aos amigos queridos Manu, Natália, Sushi, Jet, Ju, Pratinho, Ritcchelle, Evana, Paulinha, Tiugo, Shenia, Flavinha, Cuarendy, Gustavo, Aroma, Airles, Wanderson. Que os laços de amizade sejam eternos, mesmo sob as condições adversas da vida. Vocês são todos uns lindos!
+Aos meus amigos de movimento estudantil com quem compartilhei tantos momentos bons e ruins e com quem aprendi tanto sobre humanização e luta. Que os valores que cultivamos não se percam nas dificuldades da vida. A luta é eterna e necessária, tão grande quanto os nossos sonhos.
+Às meninas da minha turma de Mestrado e aos demais amigos que fiz na Pós-Graduação: Zilma, Ritinha, Ana, Rinalda, Larissa, Lílian, Virgínia, Danuta, Adriana, Nadiana, Ludmila, Cleber, Monique, Rafaela, Liliane, Tayana, Morgana, Juliana, Tarcísia, Gustavo, e os demais que não citei, pois minha memória não é algo muito confiável. Cada um de vocês foi importante para o meu crescimento pessoal e acadêmico.
+Aos meus professores da pós-graduação. Aos meus professores da graduação. Aos meus professores de escola. Aos meus professores da vida. O que aprendi com cada um foi e é de grande valia para mim.
+Ao Professor Leo Wetzels, pelos ensinamentos valiosos durante as aulas ministradas na Pós-Graduação de Letras.
+Ao Professor Marlos, que desde a graduação se faz presente na minha vida, e à Professora Cláudia Roberta, pelo carinho, pelas conversas, pela confiança e pela generosidade.
+Ao professor Alberto Poza, por se mostrar sempre tão generoso ao longo desses dois anos de convivência, bem como pelos ensinamentos e contribuições valiosas a este trabalho na pré-banca, bem como por aceitar fazer parte da minha banca examinadora.
+Ao Professor Rubens de Lucena por ter aceitado participar da banca examinadora e trazer suas contribuições para este trabalho.
+Ao pessoal da coordenação da Pós: Jozaias, Diva e aos bolsistas. Aos amigos que não citei, por falta de espaço ou de memória
+
+“Cantamos porque chove sobre o sulco e somos militantes desta vida
+e porque não podemos nem queremos deixar que a canção se torne cinzas."
+(Mário Benedetti - trecho de "Porque cantamos")
+
+RESUMO Embora seja considerado um país monolíngüe, subsistem no Brasil atualmente cerca de 180 línguas indígenas, a maior parte delas contando já com poucos falantes, haja vista a necessidade de comunicação com falantes da língua de maior prestígio social: o português. Dentre as línguas ameaçadas de extinção, destacamos neste trabalho a língua Lakondê, da família lingüística Nambikwára, que se encontra numa situação extrema: há apenas uma falante, a qual já se encontra em idade avançada. O nosso estudo tem como objetivo descrever e analisar a fonologia segmental da língua Lakondê, contribuindo, dessa forma, com o registro e a preservação das línguas indígenas brasileiras, em especial, as línguas da família Nambikwára. O corpus utilizado na pesquisa foi coletado in loco no ano de 2001, junto à última falante, moradora da cidade Vilhena-RO, pela pesquisadora Stella Telles. Os dados utilizados constam de palavras e frases do universo da informante, elicitadas pela pesquisadora. Para a identificação dos fonemas foram utilizados os procedimentos de descoberta da Fonologia Estruturalista (Hyman, 1975; Cagliari, 2002). Para a análise da estrutura silábica e dos processos fonológicos, tomamos como base teórica os pressupostos da Fonologia Não-Linear, encontrados em Clements (1990), Kenstowicz (1994), Goldshmith (1995), Blevins (1995), Clements & Hume (1995). O modelo adotado segue a ideia de que os segmentos são formados por um feixe de traços hierarquizados e autônomos, bem como entende que a sílaba também é estruturada internamente. A partir da nossa pesquisa, concluímos que o sistema fonológico do Lakondê é constituído por onze consoantes e dezesseis vogais. A sílaba tem como molde (C)V(V)(C)(C), dentre os quais, o único elemento obrigatório é a primeira posição nuclear, ocupada sempre por uma vogal, que pode, inclusive, formar sílaba sozinha. Foi verificada a ocorrência de processos estritamente fonológicos: assimilação (progressiva e regressiva), fortalecimento, lenição, apagamento, inserção e coalescência.
+Palavras-Chave: Lingüística; Fonologia Segmental; Línguas Indígenas Brasileiras; Família Lingüística Nambikwára; Lakondê.
+
+ABSTRACT
+Although considered a monolingual country, about 180 indigenous languages remain currently in Brazil, most of them having only a few speakers, given the need to communicate with speakers of the highest social standing language: Portuguese. Among the endangered languages, we highlight, in this work, the Lakondê language, from the Nambikwara linguistic family, which is in an extreme situation: there is only one speaker, which is already at an advanced age. Our study aims to describe and analyze the segmental phonology of the Lakondê language, contributing thus to the registration and preservation of Brazilian indigenous languages, especially languages from the Nambikwara family. The corpus used in the study was collected in situ in 2001, with the last speaker, a resident of Vilhena, Rondônia, Brazil, by the researcher Stella Telles. The data used consist of words and phrases of the universe of the informant, elicited by the researcher. The discovery procedures of structuralist phonology (Hyman, 1975, Cagliari, 2002) were used to identify the phonemes. For the analysis of syllable structure and phonological processes, we take as theoretical basis assumptions of Non-Linear Phonology, found in Clements (1990), Kenstowicz (1994), Goldshmith (1995), Blevins (1995), Clements & Hume (1995 ). The model follows the idea that the segments are formed by a bundle of hierarchical and autonomous features, and also understands that the syllable is structured internally. From our research, we conclude that the phonological system of Lakondê comprises eleven consonants and sixteen vowels. The syllable has the mold (C) V (V) (C) (C), among which the only required element is the first nuclear posture, always occupied by a vowel, which can even form syllable alone. It was verified the occurrence of strictly phonological processes: assimilation (progressive and regressive), strengthening, lenition, deletion, insertion and coalescence.
+Keywords: Linguistics; Segmental Phonology; Brazilian Indigenous Languages; Nambikwara Linguistic Family; Lakondê.
+
+SUMÁRIO
+INTRODUÇÃO ................................................................................ 17 JUSTIFICATIVA .............................................................................. 20 OBJETIVOS .................................................................................... 21 METODOLOGIA E BASES TEÓRICAS.......................................... 21 ESTRUTURA DA DISSERTAÇÃO.................................................. 26
+CAPÍTULO 1: DADOS HISTÓRICOS E ETNOGRÁFICOS............ 28 1.1. O GRUPO NAMBIKWÁRA.................................................... 28 1.2. LAKONDÊ: HISTÓRIA E SITUAÇÃO LINGUÍSTICA............ 37
+CAPÍTULO 2: FONOLOGIA SEGMENTAL DO LAKONDÊ........... 45 2.1. FONEMAS DO LAKONDÊ.................................................... 45 2.1.1. CONSOANTES..................................................................... 45 2.1.1.1. INVENTÁRIO FONÉTICO CONSONANTAL................... 45 2.1.1.2 OPOSIÇÕES CONSONANTAIS...................................... 46 2.1.1.3 DESCRIÇÃO E DISTRIBUIÇÃO DOS SEGMENTOS
+CONSONANTAIS............................................................. 49 2.1.1.3.1. OCLUSIVAS..................................................................... 49 2.1.1.3.1.1. /p/...................................................................................49 2.1.1.3.1.2. /t/ ...................................................................................51 2.1.1.3.1.3. /k/.................................................................................. 55 2.1.1.3.1.4. /Б/ .................................................................................. 58 2.1.1.3.2. NASAIS ........................................................................... 59 2.1.1.3.2.1. /m/ ................................................................................ 59 2.1.1.3.2.2. /n/ ................................................................................. 60 2.1.1.3.2.3. A NASAL EM CODA .................................................... 60 2.1.1.3.2.3.1. EVIDÊNCIAS DA OCORRÊNCIA DA NASAL
+EM CODA .................................................................. 65 2.1.1.3.3. LATERAL ........................................................................ 68 2.1.1.3.3.1. /l/ .................................................................................. 68
+
+2.1.1.3.4. FRICATIVAS ................................................................... 69 2.1.1.3.4.1. /s/ ................................................................................. 69
+2.1.1.3.4.2. /h/ ................................................................................. 71 2.1.1.3.5. GLIDES ........................................................................... 73 2.1.1.3.5.1. /w/ ................................................................................ 73
+2.1.1.3.5.2. /j/ ...................................................................................74 2.1.2. VOGAIS ................................................................................ 75 2.1.2.1. INVENTÁRIO FONÉTICO VOCÁLICO .............................. 75 2.1.2.2. OPOSIÇÕES VOCÁLICAS ................................................ 76 2.1.2.3. DESCRIÇÃO E DISTRIBUIÇÃO DOS SEGMENTOS
+VOCÁLICOS ...................................................................... 78 2.1.2.3.1. VOGAIS ORAIS .............................................................. 79 2.1.2.3.1.1. /i/ e /i/ ........................................................................... 79
+2.1.2.3.1.2. /e/ e /e/ .......................................................................... 81
+2.1.2.3.1.3. /a/ e /a/ .......................................................................... 83
+2.1.2.3.1.4. /o/ e /o/ ..........................................................................85
+2.1.2.3.1.5. /u/ e /u/ ......................................................................... 87 2.1.2.3.2. VOGAIS NASAIS .............................................................88 2.1.2.3.2.1. /i/ e /i/ ........................................................................... 89
+2.1.2.3.2.2. /a/ e /a/ .......................................................................... 90
+2.1.2.3.2.3. /u/ e /u/ ..........................................................................91 2.1.2.3.3. DITONGOS ..................................................................... 92 2.2. SÍLABA .................................................................................... 96 2.2.1. A SÍLABA FONÉTICA ........................................................... 96 2.2.1.1. SILABAS ABERTAS ........................................................... 97 2.2.1.1.1. [V] .............................................................................................. 97 2.2.1.1.2. [VV] .................................................................................. 98 2.2.1.1.3. [CV] ..................................................................................98 2.2.1.1.4. [CCV] ............................................................................... 99 2.2.1.1.5. [CVV] ............................................................................... 100
+
+2.2.1.2. SÍLABAS FECHADAS ........................................................ 101 2.2.1.2.1. [VC] ..................................................................................101 2.2.1.2.2. [VVC] ............................................................................... 102 2.2.1.2.3. [VVCC] .............................................................................102 2.2.1.2.4. [CVC] ............................................................................... 103 2.2.1.2.5. [CVVC] .............................................................................104 2.2.1.2.6. [CVCC] .............................................................................105 2.2.1.2.7. [CVVCC]........................................................................... 106 2.2.1.3. A ESTRUTURA DA SÍLABA FONÉTICA .......................... 107 2.2.2. A SÍLABA FONOLÓGICA ..................................................... 108 2.2.2.1. SILABAS ABERTAS ........................................................... 109 2.2.2.1.1. /V/ .....................................................................................109 2.2.2.1.2. /VV/ .................................................................................. 109 2.2.2.1.3. /CV/ ..................................................................................110 2.2.2.1.4. /CVV/ ............................................................................... 111 2.2.2.2. SÍLABAS FECHADAS ........................................................ 112 2.2.2.2.1. /VC/ ..................................................................................112 2.2.2.2.2. /VVC/ ................................................................................114 2.2.2.2.3. /CVC/ ............................................................................... 114 2.2.2.2.4. /CVVC/ .............................................................................116 2.2.2.2.5. /CVCC/ .............................................................................117 2.2.2.2.6. /CVVCC/ .......................................................................... 118 2.2.2.3. ESTRUTURA DA SÍLABA FONOLÓGICA.......................... 119 2.3. PROCESSOS FONOLÓGICOS ............................................120 2.3.1. PROCESSOS DE ASSIMILAÇÃO PROGRESSIVA...............121 2.3.1.1. VOZEAMENTO DAS OCLUSIVAS......................................121 2.3.1.2. PONTO DE ARTICULAÇÃO DA NASAL EM CODA .......... 122 2.3.2. PROCESSOS DE ASSIMILAÇÃO REGRESSIVA..................123 2.3.2.1. NASALIZAÇÃO................................................................... 123 2.3.2.2. HARMONIA VOCÁLICA ..................................................... 125 2.3.3. PROCESSO DE FORTALECIMENTO................................... 127 2.3.3.1. CONSONANTIZAÇÃO DOS GLIDES ................................ 127 2.3.4. PROCESSO DE LENIÇÃO ................................................... 128 2.3.4.1. ENFRAQUECIMENTO DA OCLUSIVA ALVEOLAR .......... 128
+
+2.3.5. PROCESSOS DE APAGAMENTO ........................................129 2.3.5.1. REDUÇÃO E APAGAMENTO SILÁBICO .......................... 129 2.3.5.2. APAGAMENTO DA CODA ................................................. 130 2.3.6. PROCESSO DE INSERÇÃO .................................................132 2.3.6.1. EPÊNTESE VOCÁLICA COM RESSILABIFICAÇÃO ........ 132 2.3.7. PROCESSOS DE COALESCÊNCIA .....................................133 2.3.7.1. MONOTONGAÇÃO OU COALESCÊNCIA VOCÁLICA ..... 133 2.3.7.2. COALESCÊNCIA CONSONANTAL ................................... 134
+CONSIDERAÇÕES FINAIS ............................................................ 136 REFERÊNCIAS BIBLIOGRÁFICAS ............................................... 139 APÊNDICE....................................................................................... 142 Pequeno vocabulário Português-Lakondê...................................143
+
+LISTA DE TABELAS
+Tabela 1. Classificação dos Nambikwára segundo Lévi-Strauss (1948) ....................................................... 36
+Tabela 2. Sons consonantais .......................................................... 45 Tabela 3. Fonemas consonantais.................................................... 49 Tabela 4. Sons vocálicos..................................................................75 Tabela 5. Fonemas vocálicos........................................................... 78 Tabela 6. Ditongos. .......................................................................... 93 Tabela 7. Tipos silábicos fonéticos e fonológicos.............................108 Tabela 8. Quadro resumitivo dos fonemas e alofones vocálicos .... 136 Tabela 9. Quadro resumitivo dos fonemas e alofones
+consonantais.....................................................................137
+
+LISTA DE FIGURAS
+Figura 1: Área Nambikwára no início do Século XX (ROQUETTE-PINTO, 1919) ............................................ 33
+Figura 2: Área Nambikwára no início do Século XX (PRICE, 1983) ................................................................. 33
+Figura 3: Localização atual dos Nambikwára................................... 34 Figura 4: Localização do grupo Lakondê: adaptação do
+mapa encontrado em Lévi-Strauss (1948) ...................... 38 Figura 5: Localização do grupo Lakondê: adaptação do
+mapa encontrado em Price & Cook(1969) ..................... 39 Figura 6: Localização do grupo Nambikwára: adaptado
+de Price (1985)................................................................. 41 Figura 7: Espectrograma - “Piolho de Algodão”............................... 65 Figura 8: Espectrograma - “Algodão”............................................... 66 Figura 9: Espectrograma - “Cidreira”............................................... 66 Figura 10: Espectrograma - “Gambá”.............................................. 66 Figura 11: Espectrograma - “Caju”................................................... 67 Figura 12: Espectrograma - “Folha”................................................. 67 Figura 13: Espectrograma - “Batata”................................................ 68 Figura 14: Estrutura da sílaba fonética ........................................... 107 Figura 15: Estrutura da sílaba fonológica ....................................... 119 Figura 16: Assimilação - Vozeamento das oclusivas....................... 121 Figura 17: Assimilação - Nasalização.............................................. 124 Figura 18: Harmonia vocálica - Assimilação parcial
+entre morfemas diferentes............................................... 126 Figura 19: Harmonia vocálica - Assimilação total no
+interior do mesmo morfema............................................. 127 Figura 20: Redução silábica e ressilabificação................................ 130 Figura 21: Apagamento da coda silábica......................................... 131 Figura 22: Epêntese vocálica e ressilabificação...............................133
+
+LISTA DE SÍMBOLOS
+
+/ / Transcrição fonológica
+
+[ ] Transcrição fonética
+
+:
+
+Oposição
+
+⎆
+
+Acento mais proeminente
+
+⎅
+
+Acento menos proeminente
+
+-
+
+Fronteira de morfema.
+
+# Fronteira de palavra
+
+.
+
+Fronteira de sílaba
+
+~ Variação
+
+⍧
+
+longamento vocálico, como em
+
+traço laringal (creak voice), como em /a/
+
+traço nasal, como em /a/
+
+σ sílaba ( ) elemento não-obrigatório
+
+17
+INTRODUÇÃO
+Ao longo de toda a história do Brasil, os povos indígenas sofreram um violento processo de aculturação e exclusão. Apesar de reconhecermos as contribuições destes povos para a formação da nossa identidade nacional, pouco foi feito no sentido de preservar a cultura e a autonomia das populações indígenas. Rodrigues (2005) estima que, quando os portugueses chegaram ao Brasil, havia cerca de mil línguas sendo faladas no território brasileiro. A grande extensão e a geografia do território favoreceram o isolamento das populações indígenas, o que contribuiu para o distanciamento lingüístico e cultural dessas comunidades.
+Embora seja considerado um país monolíngüe, subsistem no país cerca de 180 línguas indígenas, localizando-se a maior parte delas no interior do país1 (SEKI, 2000, p.238). O desaparecimento de um número tão alarmante de línguas (em torno de 80%, estimativamente2) pode ser atribuído em grande parte a uma política de extermínio lingüístico, em favor da oficialização de uma língua única, que deveria ser adotada por todos os habitantes do território brasileiro: o português. Afora isto, contribuíram ainda a redução e o extermínio das comunidades indígenas, em decorrência de embates entre grupos diferentes e, especialmente, com os não-índios (europeus e descendentes), das epidemias de doenças contagiosas e do desmembramento de grupos étnicos em razão do deslocamento forçado de seus territórios tradicionais.
+1 Os primeiros contatos entre os colonizadores e os indígenas se deram pelo litoral. O interior do país foi explorado tardiamente e, especialmente a região amazônica, oferecia muitas dificuldades para os se aventuravam a desbravá-la. Até os dias hoje, existem regiões pouco ou não exploradas. Estes fatores podem explicar o extermínio precoce das populações indígenas da faixa litorânea e a resistência de um número maior de grupos na região amazônica. 2 Como não temos contabilizado o número exato de línguas existentes naquele período, nem o número exato de línguas ainda vivas, não podemos afirmar com certeza o percentual de línguas que desapareceu. Sobre a contabilização das línguas indígenas no país, Rodrigues (2002, p.19), explica que não sabemos números exatos
+“[...] não só porque até hoje não se incluem nos recenseamentos oficiais brasileiros informações lingüísticas, nem informações sobre os povos indígenas, mas também porque línguas são coisas muito difíceis de contar, mesmo quando são bem conhecidas. [...] Quando as línguas são mal conhecidas, como é freqüentemente o caso das línguas indígenas brasileiras, essa situação de indefinibilidade ocorre muitas vezes: há uma língua Tupi-Guaraní? ou uma língua Tupi e uma língua Guarani? ou diversas línguas Tupi e diversas línguas Guarani? Mesmo quando se adquire conhecimento razoável das línguas ainda restam problemas técnicos, como a definição de língua em contraposição à definição de dialeto, a distinção entre formas antigas e modernas do que pode ser uma mesma língua.”
+
+18
+As línguas indígenas brasileiras estão classificadas sob dois grandes grupos, denominados Tronco Tupi e Tronco Macro-Jê; doze famílias menores: Arawá, Aruak, Jabuti, Karib, Katukina, Makú, Mura, Nambikwára, Pano, Tukano, Txapakúra e Yanomami, e oito isolados lingüísticos3: Família Aikaná, Família Guaikuru, Família Iranxe, Família Kanoê, Família Kwazá, Máku, Trumái e Tikúna4. Esta classificação tem como base o grau de proximidade genética entre as línguas. Isto é, fazem parte da mesma família línguas que tiveram uma origem comum. De maneira semelhante, famílias advindas da mesma protolíngua constituem um Tronco.
+Durante bastante tempo, o estudo das línguas indígenas foi apenas realizado por missionários que tinham como finalidade a evangelização dos indígenas. Apenas em meados do século XX, as línguas indígenas passaram a ser estudadas com maior rigor formal, após a chegada do Summer Institute of Linguistics e publicação de Introdução às Línguas Indígenas Brasileiras, em 1956, de Mattoso Câmara Jr..
+Mesmo com o avanço de estudos com finalidade de documentar as línguas indígenas, grande parte delas já foi ou ainda corre o risco de ser extinta sem que haja sobre elas nenhuma forma de registro, haja vista serem línguas ágrafas e que, com a necessidade dos seus falantes de comunicação com falantes da língua de maior prestígio – o português –, acabam perdendo a função social sem serem repassadas às gerações mais jovens.
+Estas línguas, entretanto, além de trazerem em si toda a tradição e a cultura das nações indígenas, são importantes fontes para o enriquecimento do conhecimento lingüístico, sendo, por isso, relevantes no âmbito da ciência. Sabese que alguns princípios são comuns a quaisquer línguas do mundo, tal como a existência de estruturas que permitam a plena expressão das necessidades da comunidade de falantes. Porém, geneticamente, as línguas indígenas brasileiras não têm qualquer relação de parentesco com outras línguas conhecidas no
+3 Chamamos de isolados lingüísticos as famílias compostas apenas por uma língua, a qual não tem proximidade com outras línguas indígenas. 4 O quadro completo da classificação das línguas indígenas brasileiras pode ser encontrado no site do Instituto Socioambiental. Site consultado: http://pib.socioambiental.org/pt/c/no-brasil-atual/linguas/outras-familias. Data da consulta: 07/11/11.
+
+19
+mundo, o que desperta o interesse da ciência, pois, essa diversidade pode apresentar aspectos ainda não observados nas línguas já conhecidas.
+Seki (2000, p. 245), explica que
+Nos últimos anos a importância da diversidade lingüística tem sido abordada no contexto da diversidade em geral, enfatizando-se a compreensão das línguas como parte intrínseca da cultura, da sociedade e visão de mundo dos falantes, bem como o fato de que a perda de línguas tem como conseqüência o desaparecimento dos sistemas de conhecimentos que elas refletem e expressam. Ao mesmo tempo, a compreensão de que o processo de perda de línguas é determinado por fatores de ordem política e social sobre os quais os lingüistas não têm controle tem servido de base para uma postura que focaliza a relevância científica do estudo das línguas indígenas e sua “preservação” enquanto objeto da lingüística.
+A descrição das línguas indígenas, portanto, tem um papel fundamental no que diz respeito à preservação da cultura e da tradição destas comunidades: significa admitir a importância desses povos para a construção da nossa história, bem como reconhecer e respeitar a sua identidade e autonomia. Apesar disso, embora o número de pesquisas nessa área tenha aumentado nas últimas décadas, infelizmente, ainda são poucos os estudos e os lingüistas no país que se propõem a realizar esta tarefa.
+Desta forma, podemos afirmar que temos um quadro bastante crítico: a velocidade com que se dá o avanço das pesquisas com línguas indígenas é bem menor do que a velocidade com que as línguas vêm se perdendo. Daí a urgência na realização destes estudos e a sua relevância social. Afinal, não devemos esquecer que é papel fundamental da ciência trabalhar em prol da sociedade. A pesquisa com línguas indígenas é uma forma, portanto, possível ao lingüista de contribuição social, de valorização da cultura e da tradição de grupos que historicamente foram socialmente excluídos.
+
+20
+JUSTIFICATIVA
+A língua Lakondê, do grupo homônimo, faz parte da família Nambikwára, e atualmente não é mais utilizada socialmente pela comunidade. Há apenas uma falante, Tereza Lakondê, e os demais membros da tribo são apenas falantes passivos5. De acordo com a “tipologia de ameaça” (“typology of threat”), proposta por Wurm (1998, apud Araújo, 2007, p.04), que distingue os grupos lingüísticos ameaçados de extinção em cinco níveis, a língua pode ser classificada como moribunda ou agonizante:
+1. potentially endangered languages are socially and economically disadvantaged, under heavy pressure from a larger language, and beginning to lose child speakers; 2. endangered languages have few or no children learning the language, and the youngest good speakers are young adults; 3. seriously endangered languages have youngest good speakers of age 50 or older; 4. moribund languages have only a handful of good speakers left, most of whom are very old; 5. extinct languages have no speakers left.
+O grupo Lakondê sofreu desmembramento causado, em grande parte, pelo deslocamento forçado de suas terras tradicionais e dos casamentos interétnicos. Além disso, o contato com índios de outras etnias – especialmente com os Sabanê, também da Família lingüística Nambikwára – e com a sociedade não-índia contribuiu para que a língua perdesse a sua função social, haja vista os falantes de Lakondê serem minoria no realdeamento.
+Entende-se, portanto, que o registro lingüístico é o último recurso para um mais largo conhecimento e preservação da memória da língua e da cultura Lakondê. Neste sentido, o estudo da fonologia segmental é um passo necessário para a compreensão do componente global fonológico do Lakondê, uma vez que apenas com os elementos da fonologia segmental depreendidos será possível analisar os aspectos supra-segmentais da fonologia desta língua. Além disso, consideramos este estudo como um passo importante para a documentação e o registro da língua, que está em vias de extinção, e lança as bases para outros estudos, tanto sobre aspectos da própria língua, quanto sobre as línguas do
+5 O termo falante passivo foi usado por Telles (2002, p. 21) para denominar os membros da tribo que perderam o uso da língua materna ainda na infância; aqueles que compreendem, mas não falam a língua.
+
+21
+mesmo tronco genético (Nambikwára do Norte), e de outras mais que venham a apresentar características fonológicas semelhantes. Dessa forma, esperamos contribuir para a preservação e a compreensão da tradição linguística do povo Lakondê.
+Além disso, a fonologia da língua Lakondê apresenta fenômenos que em muito a difere das línguas ocidentais. Por isso o seu estudo é de grande interesse para o campo da Lingüística, uma vez que pode trazer novos elementos que acrescentem aos estudos fonológicos.
+Por fim, para a ciência lingüística, entendemos que a contribuição do conhecimento sistemático das línguas naturais é indiscutível para o avanço dos estudos que tratam da tipologia lingüística e da compreensão da faculdade humana da linguagem.
+OBJETIVOS
+Este trabalho tem como objetivo geral descrever e analisar a fonologia segmental da língua Lakondê, que faz parte da família Nambikwára, à luz dos pressupostos da Fonologia Moderna6, e dessa forma, contribuir com a preservação das línguas indígenas brasileiras, em especial, as línguas da família Nambikwára. Ao longo do texto, sempre que necessário, buscamos comparar os aspectos da fonologia segmental do Lakondê com os aspectos da fonologia segmental das línguas-irmãs, Latundê e Mamaindê7, com a finalidade de identificar no âmbito fonológico o grau de semelhança entre as línguas, e dessa forma, dar alguma contribuição ao estudo tipológico das línguas Nambikwára.
+METODOLOGIA E BASE TEÓRICA
+6 Para a identificação de fonemas e alofones utilizamos os procedimentos da fonologia tradicional, mas pautados sempre na noção da perspectiva autossegmental para a identificação do inventário segmental e dos processos fonológicos operantes. 7 Por ser geneticamente mais distante do Lakondê, não utilizamos o trabalho de Araújo (2005) sobre o Sabanê para fins de comparação, embora tenhamos, em alguns momentos, recorrido a ele para verificar o comportamento desta língua em alguns aspectos da sua fonologia segmental.
+
+22
+Para a realização desta pesquisa, utilizamos como corpus gravações em áudio que fazem parte do banco de dados do Núcleo de Estudos Indigenistas – NEI – da Universidade Federal de Pernambuco – UFPE. Os dados foram coletados no ano de 2001 pela Prof. Drª. Stella Telles, junto à última falante da língua Lakondê, na cidade de Vilhena – RO.
+Sobre o material coletado, Telles (2002, p.29) explica que
+A elaboração do formulário para coleta de dados seguiu as orientações de Comrie e Smith (1977) e Payne (1997). [...] As gravações foram realizadas em Mini Disc (MD) com microfone digital. Este equipamento fornece um material sonoro digital de excelente qualidade acústica.
+As entrevistas são estruturadas no estilo pergunta-resposta, com elicitação de palavras que fazem parte do universo da informante e algumas frases8.
+O primeiro passo do nosso trabalho foi a transcrição fonética dos dados, realizada de oitiva. Transcrevemos o total de quatorze MiniDisc, perfazendo cerca de dezesseis horas de audição. Dentre os dados transcritos, encontramos palavras, frases curtas e algumas frases mais longas.
+As línguas da família Nambikwára são polissintéticas, ou seja, as palavras podem ser constituídas por vários morfemas, sendo alguns deles com semântica lexical. Por isso, o que é expresso por uma frase em português, em Lakondê pode ser expresso por uma única palavra, formada por um radical acrescido de morfemas que vão criar ou modificar o seu significado. Considerando a complexidade morfológica da língua e os procedimentos adequados para a descrição fonológica de línguas ágrafas9, nossa análise teve como domínio o nível da palavra.
+Concomitantemente às transcrições, procedemos às análises dos dados. Iniciamos a partir dos procedimentos de descoberta da Fonologia
+8 As entrevistas com a informante Lakondê foram realizadas depois que a pesquisadora já havia coletado dados entre os Latundê. Por isso, de acordo com Telles (2002, p.29) “Com a informante Lakondê, Tereza, foram checados os dados [já coletados] do Latundê e coletados novos dados em sua própria língua. Devido ao seu bom nível de bilingüismo, alguns textos foram incorporados ao material de análise.”. Estes textos, porém, não foram utilizados em nossa análise. 9 Para a descrição segmental de línguas ainda não conhecidas, uma abordagem adequada é a estruturalista norte-americana, na qual são usados três procedimentos de descoberta básicos: contraste, distribuição complementar e variação. Através do contraste são depreendidos fonemas e por meio dos dois últimos procedimentos são identificados alofones.
+
+23
+Estruturalista, presente em autores como Hyman (1975) e Cagliari (2002). Este último, sobre a abordagem estruturalista, afirma que ela
+[...] parte sempre do particular para o geral, do fato para o sistema, da
+realidade fonética para a interpretação fonológica [...] Ou seja, toda reflexão fonológica, seja ela de que tipo for, baseia-se sempre em dados e fatos obtidos através de uma cuidadosa análise fonética. (CAGLIARI, 2002, p.20)
+Partindo deste princípio, buscamos fazer uma análise fonética que servisse como base para uma posterior interpretação fonológica da língua lakondê.
+Para a realização das transcrições fonéticas manualmente, utilizamos o Alfabeto Fonético Internacional (IPA) e, para as transcrições neste trabalho, utilizamos a fonte SILDoulosIPA93, que segue o padrão do IPA10. Todas as transcrições foram checadas mais de uma vez, algumas, inclusive com auxílio do programa de análise acústica PRAAT11.
+Uma vez procedida à identificação dos fonemas consonantais e vocálicos, através dos contrastes em pares mínimos e pares análogos, seguimos a análise observando os processos fonéticos/fonológicos que ocorrem na língua, em nível segmental. A partir dos processos, conseguimos traçar com maior segurança o molde da sílaba fonética e o template que se confirma fonologicamente.
+A abordagem estruturalista entende o fonema como a unidade mínima do significante e propõe uma condição de biunivocidade. Desta forma, eles postularam uma relação transparente e reversível entre a fonética e a fonêmica e negaram o princípio do overlapping, que diz que o mesmo som pode ser submembro de dois fonemas distintos. Por entendermos que esta perspectiva, embora suficiente para a depreensão dos fonemas, não é a mais adequada para a análise dos processos fonológicos, lançamos mão dos pressupostos da Fonologia Pós-Gerativa, que enxerga a fonologia de uma língua como uma organização em que os traços distintivos, dispostos hierarquicamente em camadas (“tiers”)12 podem estender-se para além dos segmentos.
+10 A fonte SILDoulosIPA93 pode ser encontrada para download no site do Summer Institute of Linguistics: http://scripts.sil.org/cms/scripts/page.php?site_id=nrsi&id=encore-ipa-download 11 O programa PRAAT está disponível para download gratuito no site: http://www.praat.org 12 O termo “camadas” foi traduzido por Bisol (2001), mas nem todos os fonólogos de língua portuguesa o utilizam, preferindo muitas vezes manter o termo original do inglês.
+
+24
+A Fonologia Pós-Gerativa concebe o fonema como uma unidade de significação constituída por um feixe de traços dispostos hierarquicamente e que funcionam e participam de processos de maneira autônoma. Em outras palavras, enquanto na abordagem estruturalista um processo de assimilação seria entendido como a assimilação de um segmento com todas as suas características, na abordagem pós-estruturalista, a assimilação pode dar-se por um ou mais traços do segmento, não implicando necessariamente na sua assimilação total. Esta nova abordagem tem implicação direta em fenômenos como a nasalização e a harmonia vocálica, por exemplo, que também não são bem compreendidos pelas teorias lineares, devendo ser considerados, portanto, a partir de uma perspectiva multilinear.
+Dessa forma, para a análise dos processos fonológicos, utilizamos a Fonologia Auto-segmental, encontrada em Goldsmith (1995), que tem inspiração no modelo gerativo padrão. Este modelo surgiu a partir do estudo das línguas tonais e da verificação de que aspectos como o tom não conseguem ser bem apreendidos quando considerados como propriedades de um segmento.
+Dentre os pressupostos da teoria Auto-segmental, outra importante ruptura com o modelo estrutural é a negação da condição de biunivocidade: a relação entre o segmento e o conjunto de traços que o caracteriza não é bijectiva, isto é, de um-para-um. De acordo com Hernandorena (2001, p.45)
+Desse entendimento decorrem duas conseqüências importantes: a) os traços podem estender-se além ou aquém de um segmento e b) o apagamento de um segmento não implica necessariamente o desaparecimento de todos os traços que o compõe. [...] Goldsmith observou, em muitas línguas tonais, que, por exemplo, o apagamento de um segmento não implica o desaparecimento do tom que recai sobre ele, mas que esse tom pode espraiar-se para outra unidade fonológica.
+Além disso, a fonologia Auto-segmental defende uma hierarquização entre os traços que compõem cada segmento da língua. Esta proposição implica uma nova representação formal dos traços, que, de acordo com essa perspectiva, podem funcionar tanto em conjunto quanto isoladamente. A hierarquização dos traços pressupõe uma geometria dos traços, em que formam uma representação tridimensional que permite distinguir as camadas e, assim, trabalhá-las de maneira isolada.
+
+25
+Para as representações da estrutura interna dos segmentos, utilizamos o modelo apresentado por Clements (1995), no qual, consoantes e vogais têm estrutura interna comum, diferenciando-se apenas pela presença do nó vocálico para os segmentos com o traço de base [+vocóide].
+Para a análise da estrutura silábica, seguimos os pressupostos encontrados em Clements (1990), Kenstowicz (1994) e Blevins (1995). O modelo adotado segue a idéia de hierarquização dos traços, pois entende que a sílaba também tem uma estrutura interna hierarquizada.
+Apesar de não termos, neste trabalho, entrado nas questões prosódicas da língua, entendemos o acento conforme a teoria Métrica, na qual, as palavras de uma língua podem apresentar três tipos de acento: o acento primário, aquele que é mais proeminente; o acento secundário, que é relativamente menos forte que o acento primário e o acento principal, que é o acento mais forte de uma sentença.
+A grande diferença entre a abordagem Gerativista e a Fonologia Métrica, no que diz respeito ao acento, é que na primeira o acento é considerado uma propriedade da vogal, sendo um traço distintivo como os demais que fazem parte dos segmentos vocálicos. Para a Fonologia Métrica, porém, o acento é uma propriedade da sílaba e passa a ter caráter relacional.
+Desta forma, nas transcrições fonéticas utilizamos o diacrítico (⎆) para
+representar o acento primário – ou a sílaba com maior proeminência – e (⎅) para representar o acento secundário – ou sílabas proeminentes, mas com menor proeminência que a sílaba que recebe o diacrítico de acento primário. Também por entendermos o acento como propriedade da sílaba, e não inerente à vogal, por várias vezes utilizamos os termos “sílaba acentuada”, “sílaba tônica”, “sílaba não-acentuada” e “sílaba átona”, e não referimos “vogal acentuada” ou “vogal átona”.
+Sempre que necessário, também consultamos, para fins de comparação os trabalhos de Telles (2002) e Eberhard (2009), sobre a fonologia do latundê e do mamaindê, respectivamente. A tese de Telles (2002) também foi consultada para sanar as dúvidas quanto à morfologia e à gramática do Lakondê, uma vez que se faz necessário o conhecimento dos morfemas e raízes da língua para uma melhor análise dos processos fonológicos.
+
+26
+ESTRUTURA DA DISSERTAÇÃO
+O nosso trabalho está organizado da seguinte forma: Capítulo 1 – Etnografia: iniciaremos apresentando um pouco da Família Nambikwára, da qual faz parte o grupo Lakondê, e a situação lingüística atual das línguas Nambikwára do Norte. Procedendo a nossa apresentação etnográfica, discutiremos o histórico do grupo Lakondê e da sua situação lingüística. Capítulo 2 – Análise da Fonologia Segmental do Lakondê: a nossa análise terá quatro seções: Consoantes, Vogais, Sílaba e Processos Fonológicos. Na primeira seção, Consoantes, apresentaremos o inventário fonético Lakondê, as oposições consonantais, o sistema fonológico consonantal, e a descrição, distribuição e alofonias dos segmentos consonantais. Para a apresentação das consoantes, separamos os segmentos conforme o modo de articulação, pois isso nos ajudou a explicar alguns processos comuns à determinadas classes de segmentos. Na segunda seção, Vogais, seguimos a mesma ordem de apresentação dos dados da seção anterior. Dividimos a subseção “Descrição, distribuição e alofonias” em segmentos orais e segmentos nasais, explicitando, assim, o caráter fonológico destes segmentos. Em seguida, apresentamos os ditongos permitidos e o seu comportamento na língua. A seção Sílaba também é dividida em duas partes: “Sílaba Fonética” e “Sílaba Fonológica”, cada uma com as seguintes subdivisões: Sílabas Abertas, Sílabas Fechadas e Estrutura da Sílaba. Incluímos no trabalho a descrição da sílaba fonética e seu molde silábico com a finalidade de explicitar as diferenças entre o molde fonético e o fonológico, uma vez que não há correspondência necessária entre os moldes e os tipos silábicos. A última seção de análise, Processos Fonológicos, é subdividida de acordo com a classificação dos processos: Assimilação Progressiva (‘Vozeamento das Oclusivas’ e ‘Ponto de Articulação da Nasal em Coda’); Assimilação Regressiva (‘Nasalização’ e ‘Harmonia vocálica’); Fortalecimento (‘Consonantização dos Glides’); Lenição (‘Enfraquecimento da Oclusiva Alveolar’);
+
+27
+Apagamento (‘Redução e Apagamento Silábico’ e ‘Apagamento da Coda’); Inserção (‘Ressilabificação com Epêntese Vocálica’); Coalescência (‘Monotongação ou Coalescência Vocálica’ e ‘Coalescência Consonantal’).
+Sempre que necessário, ao longo do texto, traçaremos comparações entre os aspectos encontrados no lakondê e o que ocorre nas línguas-irmãs latundê e mamaindê, também Nambikwára do Norte, a fim de atestarmos as semelhanças e diferenças entre estas línguas e, assim, além de enriquecermos nossos conhecimentos acerca dessas línguas, darmos nossa contribuição à tipologia Nambikwára.
+Em seguida, teceremos nossas considerações finais. Como Apêndice, traremos um pequeno vocabulário Lakondê-Português, que tem como finalidade, além do registro de algumas palavras da língua, fornecer ao leitor mais exemplos dos aspectos que são apresentados neste trabalho e que, por questão de espaço, não foram apresentados no corpo do texto.
+
+28
+CAPÍTULO 1: DADOS HISTÓRICOS E ETNOGRÁFICOS
+1.1. O GRUPO NAMBIKWÁRA
+Os primeiros contatos entre os índios atualmente conhecidos como Nambikwára e os neobrasileiros, ao que se tem registro, datam da segunda metade do século XVIII, quando o então terceiro capitão geral do Estado do Mato Grosso, Luiz Pinto de Souza Coutinho, organizou uma expedição às margens do rio Guaporé, cujo objetivo era abrir caminhos entre a capital da Província do Mato Grosso, Vila Bela, e o Forte de Bragança13. Nos relatos dessa expedição constam vários nomes de grupos que habitavam a parte norte do território Nambikwára (TELLES, 2002).
+Embora os primeiros contatos tenham ocorrido ainda no século XVIII, a região ainda continuava sendo pouco conhecida. De acordo com Lévi-Strauss (1996, p.235),
+No início do século XX, os 1500 quilômetros que separam Cuiabá do Amazonas ainda eram uma terra proibida, a tal ponto que, para ir de Cuiabá a Manaus ou a Belém, no rio Amazonas, o mais simples era passar peloRio de Janeiro e continuar para o Norte pelo mar e pelo até o seu estuário.
+Após a Proclamação da República, em 1889, passou a ser uma prioridade do Governo a integração do território brasileiro. Para tanto, foram iniciadas as construções de linhas telegráficas no interior do Brasil, ligando o Mato Grosso ao que hoje é o estado de Rondônia. Durante este período, muitos nãoíndios tiveram que penetrar nos territórios tradicionais indígenas. De acordo com Lowe (1999), o primeiro grande contato entre os Nambikwára e os não-índios ocorreu em 1911, com a expedição chefiada pelo Marechal, então coronel, Rondon. É a partir deste período que encontramos na literatura informações mais completas e detalhadas sobre o grupo.
+13 Telles (2002, p.04) explica que “o nome ‘Forte de Bragança’ encontra-se no documento referente à Correspondência do governador de Mato Grosso. (Tavares, 1964) Entretanto, a construção do forte de pedra se deu seis anos após a referida expedição.”.
+
+29
+Por volta de 1890, foi iniciado o plano de expansão das linhas telegráficas em territórios indígenas amazônicos. Foi instituída, então, a Comissão Construtora das Linhas Telegráficas de Cuiabá ao Araguaia, cujo objetivo era expandir as comunicações telegráficas da Corte, com sede no Rio de Janeiro, até Cuiabá, o que causou mudanças na política indigenista brasileira. O chefe da Comissão era o Major Antônio Gomes Carneiro. Entre os integrantes, estava o então Alferes-aluno Cândido Mariano da Silva Rondon, que mais tarde viria a se tornar um importante aliado dos povos indígenas na defesa de sua tradição.
+A ampliação da instalação das linhas telegráficas na área tradicional Nambikwára implicou contatos mais freqüentes entre os índios e ‘brancos’, bem como entre indígenas de diferentes etnias. Por todo o território Nambikwára passaram linhas telegráficas e foram construídas estações onde ficavam alojados os trabalhadores. Os índios tiveram um papel fundamental de acompanhar os membros da comissão na condição de guias14. Data deste período o primeiro contato oficial com os índios Nambikwára, registrado pelo Major Cândido Mariano da Silva Rondon.
+Desde os primeiros contatos com os ‘brancos’, as terras tradicionais Nambikwára foram continuamente invadidas, o que resultou na extinção de alguns grupos lingüísticos e dialetais. Por causa da violenta incursão dos ‘brancos’, muitos grupos indígenas foram dizimados, e os que restaram eram forçados a aprender o português para comunicar-se com o grupo dominante, bem como a conviver com remanescentes de grupos rivais, no processo de realdeamento.
+A presença dos ‘brancos’ no território Nambikwára não foi aceita da mesma forma entre os Nambikwára do Sul (também chamados de Nambikwára do Campo) e os Nambikwára do Norte. Com estes, a tentativa de aldeamento do governo, que visava assegurar a expansão colonialista em território indígena, não durou muito tempo. Conta-se que o então diretor do aldeamento, Bernardo Cardoso, era um déspota, o que desagradou bastante os índios, acostumados a terem sua autonomia respeitada. Segundo Price (1972, apud TELLES, 2002)15, o aldeamento teve seu fim depois que Bernardo Cardoso descasou um índio que
+14 Encontramos registros de índios da etnia Pareci servindo de guias às expedições nos trabalhos de Rondon e Farias (1947), Lévi-Strauss (1996) e Roquette-Pinto (1919). 15De acordo com Telles (2002, p. 06), este relato foi encontrado em Price (1972, p.9), tendo sido, por sua vez, retirado de João Severiano da Fonseca, em “Viagem ao Redor do Brasil: 1875-1878”.
+
+30
+chegava do mato, tomando para si a noiva que era do índio, e dando-lhe em troca a mulher com quem estava. A atitude autoritária do diretor fez eclodir um conflito que acabou com a missão do governo brasileiro: os índios incendiaram a aldeia e mataram todos os brancos que ali habitavam.
+Já com os Nambikwára do Campo, por sua vez, os contatos foram mais constantes, especialmente porque a então capital da província, Vila Bela, ficava na região sul do território Nambikwára. Os conflitos entre os índios e os ‘brancos’ eram freqüentes, mas o contato foi mais duradouro e continuou existindo mesmo depois que a capital da província mudou para Cuiabá, em 1820. Lévi-Strauss (1996, p.247) fala da relação entre os Nambikwára do Sul e os brancos da linha telegráfica: “Bastante boas no início, pioraram progressivamente até 1925, data em que sete trabalhadores foram convidados pelos indígenas a visitar suas aldeias e sumiram.”. Somado a isso, a instalação de uma missão protestante que desagradou os índios contribuiu ainda mais para a tensão. A partir de então, as relações passaram a ser evitadas entre os indígenas e os trabalhadores da linha.
+Desses contatos, os Nambikwára do Campo viram se perder muitos dos seus costumes, das suas culturas e das suas tradições lingüísticas, diante da dominação dos ‘brancos’. Os conflitos eram resultado da resistência dos índios às tentativas dos brancos de transformá-los em escravos, bem como um esforço para preservar a sua autonomia e os seus ‘bens’ sócio-culturais e econômicos.
+Segundo Telles (2002), dos grupos do Norte, restaram apenas remanescentes de cinco etnias: Tawandê, Lakondê, Latundê, Mamaindê e Negarotê. Os três últimos ainda vivem em áreas próximas aos seus territórios tradicionais, o que pode ser atribuído ao fato desses grupos não habitarem a parte norte do território Nambikwára, que desde a entrada das estações de telégrafo, no início do século XX, foi mais atingida, e os grupos que ali viviam foram sendo desarticulados. Já os remanescentes Tawandê e Lakondê, foram transferidos para a Terra Indígena (doravante TI) Pirineus de Sousa (conhecida também como “Aroeira”), que fica a leste da cidade de Vilhena, no sul do Estado de Rondônia – uma área tradicional dos Nambikwára do Sul – e tiveram que coabitar com os remanescentes Sabanê, falantes do terceiro grupo lingüístico Nambikwára.
+
+31
+O termo Nambikwára é de origem Tupi, e significa “buraco na orelha” (“nambi” = orelha; “kuara” = buraco). A primeira referência ao termo data de 1671, em um relatório escrito pelo Padre Gonçalo de Veras, referindo-se a um grupo, provavelmente falante de língua Jê, que vivia no Rio Tocantins e cujos homens faziam furos nas orelhas e os alargavam com discos de madeira (PRICE, 1983, p.141). Esta descriminação, no entanto, não coincide com os grupos para os quais o termo é designado durante os séculos XIX e XX. De acordo com LéviStrauss (1946, p.139), o nome Nambikwára – escrito Nambikuára – referindo-se ao grupo designado atualmente, foi citado pela primeira vez no início do século XVIII, por Antonio Pires de Campos, e, desde então, passou a ser referenciado em muitos documentos que citavam tribos desconhecidas que habitavam a cabeceira do rio Tapajós.
+Sobre o etnômio Nambikwára, Roquette-Pinto (1919, p.37) afirma:
+Nambikuára — ( Nhambiquara ou Nambicoara — Mambiuára?) — apparece, é bem verdade, em muitos escriptos antigos e modernos; representa, porém, denominação que se tem emprestado a povos diversíssimos, alcunha totalmente extranha á lingua dos alcunhados. Quantas tribus do Brasil, e mesmo da America do Sul, por terem seus filhos o costume de perfurar o lóbulo da orelha, não merecem este nome nambikuára?
+Ainda de acordo com Roquette-Pinto (1919, p.40-42), apenas o nome Nambikwára – escrito sob diferentes grafias – pode ser encontrado em várias monografias, embora não traga maiores informações sobre o grupo, até 1909. O etnógrafo lista os trabalhos de Adolphe (1854), Moure (1862), Chandless (1862), Barbosa Rodrigues (1875), Pimenta Bueno (1880), K. von den Steinen (1888), Coudreau (1897), Koch Grunberg (1902), Clements Markham (1910) e Max Schmidt (1910). Dentre os quais, destaca os trabalhos de Pimenta Bueno, K. von den Steinen e Koch Grunberg.
+Pimenta Bueno, segundo o Relatório da Directoria Geral dos índios de Cuiabá, em 1848, collocava os Nambikuáras na confluência do Arinos com o Rio do Peixe; avaliava o seu numero em cerca de 600. [...] Von den Steinen, em 1888, conseguiu apurar, por informações anonymas, que os Índios da Serra do Norte viviam ainda na idade da pedra, absolutamente segregados. Em 1902, na Zeitschrlft fíir Ethnologie o Dr. Koch-Grünberg, tratando dos Índios Apiakás, menciona incidentemente alguma cousa que vale a pena traduzir
+
+32
+« Os Nambikuára e os Tapaniuna, habitantes da região do Arinos, [...] Os Nambikuára foram denominados "Apiakás bravos" por causa da semelhança dos dialectos que pertencem, ambos, ao grupo tupi. [...]. (ROQUETTE-PINTO, 1919, p.40-42)
+Embora não tenha significado algum para os indígenas por ele denominados, o etnômio foi cristalizado na literatura ao ser utilizado por Rodon, quando de sua primeira expedição entre os rios Tapajós e Ji-paraná, iniciada em 1907, encontrou índios que falavam “dialetos de uma língua desconhecida” (LéviStrauss, 1946) e identificou-os como os “Nambikuára”, citados nos documentos existentes até então, e adotou o termo “Nhambikwara”16, o qual foi cristalizado na literatura designando os índios que habitavam a área do noroeste do estado do Mato Grosso e as adjacências do estado de Rondônia, entre os afluentes dos rios Juruena e Guaporé até as cabeceiras dos rios Ji-Paraná e Roosevelt.
+Sobre o território tradicional dos Nambikwára, Rondon (1948) situa os “Nhambiquaras” na área entre os rios Juruena e Comemoração. Roquette-Pinto (1919) delimita o território Nambikwára ao sul pelo Rio Papagaio, ao norte, pelo rio Ji-Paraná, a leste, pelo rio Tapajós e a oeste, pelo rio Guaporé. O dado coincide com o que é encontrado em Price (1987), segundo o qual, a fronteira ao leste é cortada por uma cadeia de rios tributários do rio Juruena; a oeste, por uma série de córregos que deságuam no rio Guaporé e ao norte o planalto entre os rios Roosevelt e Ji-Paraná.
+De acordo com Lévi-Strauss (1948, p.3):
+Le territoire accupé par les Indiens Nambikwara s’étend du Rio Papagaio à l’Este jusqu’à une zone se terminant approximativement, au NordOuest. Au confluent des rios Commemoração de Floriano et Barão de Melgaço, tous deux formateurs du rio Machado ou Gi-Parana. Ce point marque, em même temps, la fin du plateau qui occupe presque toute la partie centrale et occidentalle de l’État de Mato Grosso. La limite méridionale se place sur lês cours supérieur du Rio Roosevelt (anciennement: da Duvida) est sans doute habite par dês groupes Nambikwara, mais ceux-ci ne sauraient s’étendre loin vers l’Ouest, car La région intermédiaire entre Le rio Roosevelt et le haut Gi-Parana est occupée par des tribus Le langue Tupi.
+16 A grafia do nome Nambikwára adotada por nós segue a orientação da Associação de Antropologia Brasileira, que, em 1953, estabeleceu uma padronização para nomes de grupos e línguas indígenas do Brasil, com objetivo de unificar as grafias utilizadas e, assim, facilitar o trabalho dos pesquisadores. No entanto, encontramos na literatura diferentes grafias para o nome: Nambiquara, Nambikuáras, Nhambiquaras, Xambiquaras, Nambicoaras, Mambyuaras, Mambryáras, Membyuares, etc. (Roquette-Pinto, 1912). Nas citações, mantivemos as grafias utilizadas originalmente pelos autores. Estas orientações servem também para os subgrupos lingüísticos da família Nambikwára aqui apresentados e os demais nomes de grupos indígenas que venham a aparecer ao longo do trabalho.
+
+33
+Figura 1: Área Nambikwára no início do Século XX (ROQUETTE-PINTO, 1919).
+Figura 2: Área Nambikwára no início do Século XX (PRICE, 1983).
+Atualmente, os índios Nambikwára habitam o sudoeste do Estado do Mato Grosso e a área adjacente do Estado de Rondônia. Um território cuja vegetação é de transição entre a mata fechada (floresta amazônica) e o cerrado. Segundo dados da FUNASA (2010), há cerca de dois mil índios Nambikwára17 vivendo em
+17 Site consultado: http://pib.socioambiental.org/pt/povo/nambikwara/1674. Data da consulta: 21/11/11.
+
+34 seis Terras Indígenas (TI) regularizadas pelo Governo Brasileiro e pela Fundação Nacional do Índio (FUNAI).
+Figura 3: Localização atual dos Nambikwára18
+Estima-se que no século XX existiam milhares de Nambikwára19, divididos em vários subgrupos lingüísticos distintos – pelo menos 25 aldeias – habitando uma área de aproximadamente 50.000km² (PRICE, 1978).
+Após os primeiros contatos, este número foi bruscamente reduzido, chegando a cerca de 650 no final do século XX. Destes, cerca de 50 eram crianças “who are probably more comfortable speaking Portuguese than the languages of their parents.” (PRICE, 1985, p.312). No final do século passado, o número de indígenas da família Nambikwára começou a crescer novamente, mas grande parte dos grupos já havia sido extinto ou reduzido a um número muito pequeno, como é o caso dos grupos do Norte Lakondê e Tawandê.
+18 Mapa adaptado a partir dos dados encontrados no gerador de mapas interativo do site da FUNAI. Site consultado: http://mapas2.funai.gov.br/i3geo/interface/openlayers.htm?b6cde7994db84dc047c575c9b71f5e65. Data da consulta: 04/12/11. 19 Não é possível precisar este número, ficando as estimativas entre 1.000 a 10.000. Price (1987), estima a população Nambikwára entre 5000 e 6000 no início do século XX; Roquette-Pinto (1917, p.125) afirma que “Sommam alguns milheiros. Quantos? não sabemos. Qualquer estima seria in valiosa.”, mas arrisca um total de 1200 indígenas, tendo como base o cálculo de doze aldeias conhecidas, cada qual com cerca de 100 habitantes. Lévi-Strauss (1948, 1996) estima que, no mesmo período, havia 10.000 índios Nambikwára.
+
+35
+As línguas Nambikwára podem ser divididas em dois grandes grupos lingüísticos, constituídos cada qual por um conjunto de línguas e dialetos – Nambikwára do Sul e Nambikwára do Norte – e Sabanê20. As línguas que fazem parte do mesmo grupo são inteligíveis entre si. As diferenças dialetais, embora não interfiram ao ponto de impossibilitar a comunicação entre grupos distintos, servem para fortalecer a identidade do grupo, bem como são importantes marcadores dos membros de cada grupo. Esta classificação, no entanto, não foi a única ao longo da história. Roquette-Pinto (1919) classifica os Nambikwára em quatro grupos, conforme a localização geográfica: a Sudeste, os Kokozu; a Nordeste, os Anunzé; a Sudoeste, os Uaintacu e Kabixi; a Noroeste, os Tagnani, Tauitê, Saluma, Taruté e Taschuité21.
+Lévi-Strauss (1948) classifica-os com base na proximidade lingüística. Dessa forma, o etnólogo distingue três grupos principais, dos quais dois se subdividem, constituindo um total de cinco unidades distintas formadas por vários dialetos de uma mesma língua.
+Les deux groupes que nous désignons respectivement par a et b sont étroitement apparentés du point de vue sémantique et morphologique, et ils représentent incontestablement deux modalités d'une même langue. (LÉVI-STRAUSS, 1948, p.8).
+20 A língua Sabanê, apesar de fazer parte da família Nambikwára, não é classificada dentro dos grupos do Norte ou do Sul, constituindo sozinha um subgrupo. Por essa razão, não utilizamos os estudos realizados do Sabanê para fins de comparação com o Lakondê, uma vez que não há uma estreita proximidade entre as duas línguas. 21 Sobre os nomes atribuídos aos grupos Nambikwára por Roquette-Pinto (1919), Price (1978) afirma que quando os brasileiros conheceram os Nambikwára, estes se apresentavam uns aos outros com os termos “Taganani”, “Tauitê”, “Mini” e “Tachiuvitê”, que expressam as relações de parentescos, podendo ser traduzidos como “meu irmão”, “meu filho”, “pai” e “meu neto”. Porém, os brasileiros entenderam e assumiram os termos como os nomes dos bandos. Ainda de acordo com Price (idem, p.15),
+There are several published Nambiquara vocabularies (Albuquerque 1910:145-147; Anonymous 1942; Boglár 1960:89-117; Campos 1936:55-58; Lévi-Strauss 1948a:187191; Oberg 1953:124-126; Rondon 1947:52-53; Rondon and Faria 1948:91-113; Roquette-Pinto 1913:386, 1935:344-349; Schmidt 1928:102; Souza 1920:406-410). Unfortunately, however, the majority of these vocabularies are attributed to spuriously named ‘bands’.”
+
+36
+
+Tabela 1: Classificação dos Nambikwára segundo Lévi-Strauss (1948)22
+
+Grupo a
+
+Grupo b
+
+Grupo c
+
+Subgrupo a1 Subgrupo a2 Subgrupo b1 Subgrupo b2
+
+Oaklétosu
+
+Soálesu
+
+Nikedétosu
+
+Toãnde
+
+Sabáne
+
+Halótesu
+
+Kodáteli
+
+Tarúnde
+
+Iólola
+
+Kiaáru
+
+Munúkoti
+
+Maimãnde
+
+Nasélate
+
+Kuritsu
+
+Lakõnde
+
+Sováinte
+
+Naváite
+
+Taiate
+
+O subgrupo a1 é formado, provavelmente, pelos bandos que formam o Kokozu, grupo do Sudeste, de Roquette-Pinto; o subgrupo a2, por sua vez, inclui os bandos que, provavelmente, constituem o grupo do Anunzé pela classificação de Roquette-Pinto. O subgrupo b1 compreende os grupos do Sudoeste e Noroeste da classificação de Roquette-Pinto, os Uaintaçu, Uaindzé, Kabixi, Tagnani, Tauité, Taruté e Taschuité. Lévi-Strauss (1948, p.11), porém, afirma que jamais encontrou o termo Tagnani e os termos “tauitte, tarute, tasuitte”, significam, respectivamente, “meu filho”, “meu cunhado” e “meu parente de terceiro grau”. O subgrupo a2, de acordo com o etnógrafo (p.12), “nunca havia sido relatado, salvo por um curto vocabulário publicado por Max Schmidt e atribuído a um grupo Tamaindé” (tradução nossa).
+Em 1969, Price e Cook propõem uma nova classificação lingüística da família Nambikwára23. Segundo os quais, antes de tudo, é apropriado distinguir dois grupos: Sabanê e Nambikwára, pois embora não haja dúvida quanto ao pertencimento do Sabanê à família Nambikwára, a língua é ininteligível para os falantes das outras línguas. Em seguida, os autores propõem distinguir entre as línguas Nambikwára do Sul e Nambikwára do Norte. Segundo os autores: “Initially, these are not mutually intelligible, although with a bit of practice an intelligent member of one group can begin to communicate with the other.” (PRICE & COOK, 1969, p.688). As duas línguas, por sua vez, podem ser subdividas em quatro grupos dialetais: noroeste, centro-norte, sudeste, sudoeste. A divisão tem
+
+22 Mantivemos as grafias dos nomes dos grupos conforme encontradas no texto original. 23 Price e Cook (1969) utilizam a grafia “Nambiquara”.
+
+37
+relação, além da proximidade lingüística, com a localização dos territórios habitados por cada grupo dialetal.
+Entre os índios Nambikwára do Norte e do Sul não há registros de contatos, talvez devido à distância geográfica entre os grupos, como afirma Telles (2002, p.10).
+O grupo Nambiwára do Sul pode ser dividido em três áreas conforme o território que habitam: Vale do Juruena, Vale do Guaporé e Vale do Sararé, e é composto por cerca de dez grupos dialetais, dentre os quais: Halotésu, Kithaulhu, Sawentésu, Wakalitesu, Alakatesu, Wasusu, Sararé, Alãntesu, Waikisu, Hahãitesu.
+O grupo Nambikwára do Norte é constituído por cinco línguas: Latundê, Lakondê, Tawandê, Mamaindê e Negarotê. De acordo com Telles (2002, p.27), as línguas desse grupo são mutuamente inteligíveis, mas apesar disso
+Cada grupo de fala dos cinco dialetos do Norte tem a segurança de sua independência étnica com relação aos demais e embora reconhecendo a proximidade entre seus dialetos, assevera sua diferença de fala com relação à fala dos outros.
+As línguas Nambikwára do Norte estão em vias de extinção, uma vez que o contato com a língua portuguesa dos dominantes forçou os índios a aprenderem esta e abandonarem o uso social das suas línguas. Entretanto, estudos com finalidade de registro e documentação destas línguas vêm sendo realizados por diferentes pesquisadores, com o objetivo de não deixar se perder a tradição lingüística destas comunidades.
+1.2. LAKONDÊ: HISTÓRIA E SITUAÇÃO LINGÜÍSTICA
+O grupo Lakondê faz parte do grupo Nambikwára do Norte, de acordo com a classificação de Price (1969, 1983). Dentre as línguas Nambikwára do Norte, o Lakondê é a que vive uma situação mais crítica, do ponto de vista do risco de extinção: a língua não é mais usada com fins sociais e há apenas uma falante. Além disso, os estudos realizados sobre ela são escassos, sendo o mais
+
+38
+extenso, até o momento, a Tese de Doutorado de Telles (2002), que trata da sua gramática.
+De maneira semelhante, também não encontramos na literatura muitos registros etnográficos sobre o grupo Lakondê, fato que talvez possa ser atribuído ao desmembramento prematuro da tribo. O nome Lakondê, grafado “Lacondê”, foi registrado pela primeira vez na literatura por Rondon e Faria (1948), que situam o grupo no “Alto curso do rio Roosevelt, confluente do rio Aripuanã”. Em 1948, LéviStrauss cita os “Lakōnde”, na sua proposta de classificação do grupo Nambikwára, como fazendo parte do grupo b224. Segundo ele, o grupo estava situado à margem direita do rio Roosevelt. Mais tarde, Price & Cook (1969), citam o grupo “ya la ka lo rê”, como constituinte do grupo Nambikwára do Norte, subgrupo Centro-Norte. Segundo os autores, “An uncontacted village probably belonging to the ya la ka lo rê has been contacted at NW3”25. Dessa forma, os autores situam os Lakondê no curso do rio Tenente Marques, a leste do rio Roosevelt.
+Figura 4: Localização do grupo Lakondê: adaptação do mapa encontrado em LéviStrauss (1948).
+24 Ver mais informações sobre a classificação na seção anterior, 1.1. A Família Nambikwára. 25 “NW3” é a área onde Price e Cook (1969) situam os Lakondê, chamados por eles “ya la ka lo rê”, no mapa da região, conforme pode ser visto no mapa – Figura 5 –, que apresenta a localização dos Nambikwára, retirado do trabalhado dos autores supracitados.
+
+39
+Figura 5: Localização do grupo Lakondê: adaptação do mapa encontrado em Price & Cook(1969)
+Além dos registros de nomes, não encontramos maiores informações acerca do grupo. Sobre a história do povo Lakondê, a nossa maior fonte de informação é, portanto, Tereza Lakondê, uma das últimas remanescentes do grupo e última conhecedora da língua Lakondê. De acordo com a informante, o seu povo habitava a margem inferior do rio Festa da Bandeira26.
+26 Esta informação converge com a que encontramos em Lévi-Strauss (1948) e diverge do que é encontrado em Rondon e Faria (1948). De acordo com estes, a localização apontada por Tereza era habitada pelo grupo “Tauitê”, que, segundo Lévi-Strauss (1948) e Price (1978) significa “meu filho/minha criança” e foi compreendido erroneamente pelos brasileiros como nome de um bando. Segundo Telles (2002, p.11)
+Price (1972: 99-100) considera esse termo como uma possível corruptela de dáwatté ‘minha criança’, em Alapmúnte, que, por sua vez, seria uma corruptela para o termo Lakondê. Isso quer dizer que o grupo Tauitê de Rondon e Faria (1948) corresponderia ao Alapmúnte de Price. Tereza [informante Lakondê], entretanto, afirma a existência de um grupo distinto do seu conhecido pelo nome Alápmondê. Apesar disso, como não há registros do grupo, que pode ter se extinguido prematuramente, não temos como afirmar a existência deste ou a sua relação com o Lakondê.
+
+40
+Foi através dos relatos de Tereza que obtivemos a maior parte dos dados históricos do Lakondê27. De acordo com a índia, originalmente o seu povo habitou o Leste28, mas, em razão dos constantes ataques do índios Cinta-Larga, teve que fugir, instalando-se próximo ao rio Festa da Bandeira. Neste local, o grupo passou a ser atacado pelo grupo Tawandê, também Nambikwára do Norte.
+Também neste local, foi instalada a estação de linhas telegráficas José Bonifácio. Por volta de 1950 – Tereza então com aproximadamente cinco anos – muitos índios Lakondê haviam deixado a aldeia e ido morar na estação29. Restavam na aldeia apenas nove índios. Foi quando um novo – e último – ataque dos Tawandê deixou apenas cinco sobreviventes: Tereza, dois irmãos: Nazaré e Domingos, e dois cunhados: Lourenço, casado com Nazaré, e Terezinha, casada com Domingos (TELLES, 2002, p.13). Dentre os que morreram, estava a mãe de Tereza, que morreu flechada. Tereza conta que era muito pequena e não lembra o que aconteceu, mas soube da história, quando mais velha, através da sua mãe de criação.
+A índia, que já havia perdido seu pai antes de nascer, em outro ataque dos Tawandê, fugiu junto com os sobreviventes para a Estação José Bonifácio. Dentre os índios da mesma etnia que lá viviam, havia uma tia materna, Rosa Maria, que se casou com um índio da etnia Parici, Antônio Ismael30. Foi o casal que, após a morte da mãe de Tereza, a criou, e são eles quem a índia chama em seu relato de mãe e pai.
+Na Estação de José Bonifácio, os Lakondê coabitavam com índios de outras etnias e com neo-brasileiros31. As dificuldades para a sobrevivência não eram poucas e entre os problemas que sofriam estavam as epidemias – Tereza conta que houve, logo nos seus primeiros anos na Estação, uma epidemia de sarampo que reduziu significativamente a população indígena do local – e os conflitos com tribos rivais. Agora não eram mais os Tawandê que atacavam, mas
+27 O relato de Tereza Lakondê sobre a história do seu povo está registrado em Mini Disc (MD) e faz parte do material coletado por Telles em pesquisa de campo realizada no ano de 2001, e que foi gentilmente cedido a mim para a realização deste estudo. 28 Este dado coincide com o que é encontrado em Price (1948, 1985), segundo o qual os Lakondê habitavam as margens do rio Tenente Marques. 29 Tereza não sabe precisar quantos Lakondê moravam na Estação José Bonifácio nessa época. 30 Segundo Telles (2002, p.3), foi encontrado em registros de Rondon (1969, p.364) que em 1913, Rondon deixou na Estação José Bonifácio o índio Pareci (Aruák) Antônio Ismael para que o mesmo aprendesse a tratar do gado. 31 O termo neo-brasileiro foi bastante utilizado na literatura, nos relatos de expedição, para denominar os brasileiros de descendência não-indígena e falantes do português.
+
+41 os Cinta-Larga. De acordo com Tereza32, os Cinta-Largas “vinham lá pra matar. Toda semana perseguiam nós.” (sic).
+Figura 6: Localização do grupo Nambikwára: adaptado de Price(1985)
+Quando Tereza tinha em torno de 14 anos, os Cinta-Larga fizeram um grande ataque em José Bonifácio. A índia, seus pais adotivos e dois irmãos (Joaquim e Nazaré) estavam entre os sobreviventes, que tiveram novamente que
+32 Citação literal transcrita do relato de Tereza Lakondê, registrado por Telles, em 2001. (MD 13/2001)
+
+42
+fugir, dessa vez para a Estação de Vilhena (onde atualmente é a cidade de Vilhena), ficando lá por cerca de dois anos. O padrasto de Tereza, que trabalhava nas linhas telegráficas, foi transferido de Vilhena para Porto Velho, a capital da província. Por ser menor, Tereza teve que acompanhar os pais adotivos, e a partir de então, passou a viver entre os “brancos”. Seus irmãos, que estavam com ela e os pais em Vilhena, ficaram lá.
+Já em Porto Velho, Tereza casou com um não-índio e teve dois filhos. Ao separar-se, foi morar com os filhos em Vilhena, onde passou a trabalhar. Após algum tempo, ela conheceu o índio Sabanê José Benedito, com quem vive até hoje.
+De acordo com Telles (2002, p. 14), durante algum tempo, Tereza morou em Aroeira com o seu irmão Joaquim Grandão, e entre os Nambikwára do Campo, acompanhando seu esposo, então funcionário da FUNAI, mas retornou a Vilhena após a morte do irmão, motivada pela vontade de oferecer escola e uma vida mais fácil para os filhos. Desde então, ela vive em Vilhena com o marido e os filhos e sua casa é um ponto de apoio para os índios Nambikwára, quando seus integrantes vão à cidade.
+Apesar de ter como língua materna o Lakondê, ao qual Tereza afirma só ter adquirido com total domínio por volta dos dez anos33, em seu relato, a índia afirma que ainda muito nova aprendeu o Sabanê, pois na estação José Bonifácio, onde viveu na infância, teve que coabitar com os índios desta etnia, que eram maioria e só conversavam na língua deles. O contato com a língua materna, então, veio através da sua mãe de criação, Maria Rosa, que, mesmo coabitando com os Sabanê e os ‘brancos’, sempre procurava falar com ela na sua língua. Ainda de acordo com a índia, Maria Rosa não falava bem o português, e só usava a língua dos ‘brancos’ para comunicar-se com o marido, o índio Parici, que segundo ela conta, saiu muito cedo de sua tribo e não conhecia a sua própria língua.
+De acordo com Telles (2002, p.20), atualmente há em torno de sete descendentes diretos do Lakondê, todos nascidos após o desmembramento do
+33 A língua Lakondê, assim como as demais línguas Nambikwára do Norte, possui no seu sistema fonológico segmentos e fenômenos mais marcados (menos naturais), como as vogais com o traço laringal e o contraste através do tom, cuja aquisição se dá tardiamente. Em virtude disso, os falantes afirmam que enquanto não tem domínio total destes aspectos, a criança ainda não aprendeu a língua, passando, portanto, a ser considerada como boa falante apenas após dominar totalmente todos estes fenômenos.
+
+43
+grupo – de fato, Tereza é a única sobrevivente Lakondê da sua geração. A autora explica a descendência Lakondê:
+1. Tereza casou com um homem ‘branco’, com quem teve dois filhos, Ivanilda e Roberto. Ambos são casados e moram em Vilhena. 2. Josefina e Joaquim Grandão, irmãos de Tereza, tiveram seus filhos de uniões interétnicas com membros Sabanê. Josefina, quando ainda criança, foi roubada pelo grupo Sabanê, em um dos conflitos entre Lakondê/Sabanê. Criada pelos Sabanê, Josefina casou com um de seus membros, com quem teve uma filha, Lurdes. Joaquim Grandão, que era curador (xamã) Lakondê, casou com uma índia Sabanê, após ter fugido da estação de José Bonifácio para a estação de Vilhena. Viveu na TI Aroeira, onde deixou um filho, chamado Simão. 3. Nazaré, irmã de Tereza, já era casada com um índio Lakondê, Lourenço, quando viviam em estação telegráfica de José Bonifácio. Ela teve dois filhos: Joãozinho, que ainda nasceu na estação e hoje está casado com uma índia Aikaná-Kwazá, e Mário, que vive na TI Aroeira. 4. Alaíde, filha de pai Tawandê, vive na Aroeira.
+O deslocamento forçado e a desagregação em decorrência dos conflitos com outros grupos podem ser considerados fatores determinantes para a situação crítica que vive atualmente a língua Lakondê. Aliados a isso, fatores como doenças, que exterminaram grande parte do grupo, e a própria organização sócio-política, que favorecia o desmembramento e a não-perpetuação do grupo. Em suas incursões pelos grupos Nambiwára, tanto do Sul quanto do Norte, LéviStrauss (1948, p.266) explicita que pôde perceber que estes índios não têm muitos filhos.
+As exigências da vida nômade, a pobreza do meio impõem aos indígenas uma grande prudência; quando é preciso, as mulheres não hesitam em recorrer a meios mecânicos ou plantas medicinais para provocar o aborto. (LÉVI-STRAUSS, 1948, p.266)
+Sobre a organização sócio-política dos Nambikwára, Lévi-Strauss (1948, p.290) afirma não haver estrutura social mais frágil e efêmera do que a dos Nambikwára. O chefe nos bandos Nambikwára não goza de grande autoridade, mas tem obrigação de satisfazer o grupo para que este se mantenha uno. Caso não consiga manter o grupo abastecido de alimentos o suficiente ou reivindique para si certas regalias, por exemplo, o bando pode se sentir insatisfeito e os membros começarem a migrar para outros grupos ou formar novos, ficando,
+
+44
+assim, o grupo primeiro cada vez mais reduzido e formando-se grupos também muito pequenos (LÉVI-STRAUSS, 1948, p.290-292).
+Nas TI, os Lakondê, por serem minoria, eram subjugados aos Sabanê e Tawandê, grupos majoritários. Por outro lado, mesmo esses grupos sofriam também o domínio da sociedade não-índia. Tratados como inferiores, os índios acabaram perdendo parte de sua tradição oral, tendo que usar a língua portuguesa (língua de maior prestígio social) para os fins comunicativos com a sociedade não-índia.
+A língua Lakondê, portanto, pode ser considerada hoje uma língua que agoniza: há apenas uma conhecedora efetiva da língua e poucos registros realizados. Por não ser mais usada socialmente, a língua é considerada em vias de extinção, assim como o próprio povo Lakondê.
+
+45 CAPÍTULO 2: FONOLOGIA SEGMENTAL DO LAKONDÊ
+
+2.1. FONEMAS DO LAKONDÊ
+
+Nesta seção apresentaremos os fonemas consonantais e vocálicos da língua Lakondê. Trataremos inicialmente das consoantes, e em seguida, das vogais. Em ambos os casos, iniciaremos apresentando o inventário fonético e as oposições encontradas nos dados analisados. Em seguida, procederemos à descrição dos fonemas.
+
+2.1.1. CONSOANTES
+
+2.1.1.1. INVENTÁRIO FONÉTICO DO LAKONDÊ
+
+Foram observadas na Língua Lakondê a realização de dezesseis fones consonantais, conforme o quadro apresentado na tabela 2.
+
+Oclusivas
+Oclusiva aspirada Nasais
+Nasais préoralizadas
+
+Bilabiais pb
+m bm
+
+Lábiodental
+
+Tabela 2. Sons consonantais. SONS CONSONANTAIS Alveolar Palato- Palatal
+alveolar
+
+Velar
+
+td
+
+kց
+
+th
+
+Pré-glotal
+
+Glotal Б
+
+n
+
+֊
+
+Бn
+
+dn
+
+ց֊
+
+Lateral
+
+l
+
+Flap
+
+‫ש‬
+
+Fricativa
+
+Єs
+
+ЀЋ
+
+h
+
+Africada
+
+tЀ
+
+Glides
+
+w
+
+j
+
+*Os símbolos que aparecem em pares, os da direita são consoantes sonoras.
+
+46
+Diferentemente das línguas Latundê e Mamaindê, da mesma família lingüística, não foram encontradas no Lakondê realizações implosivas das consoantes oclusivas.
+2.1.1.2. OPOSIÇÕES CONSONANTAIS
+Dos vinte e cinco fones que são realizados no Lakondê, apenas onze têm status fonológico. A descrição dos segmentos segue em 2.1.1.3. Descrição e distribuição dos segmentos consonantais. Abaixo apresentaremos as oposições consonantais34.
+/p/, /m/ [sa⎆ma⍧ցi⎅ni] ‘formiga’ [sa⎆ba⍧ցi⎅ni] ‘taioba’ [⎆pu⍧n⎅tana] ‘cidreira’ [⎆mo⍧n⎅dana] ‘é bonito’
+
+/m/, /w/ [⎆mainցi⎅ni] ‘caju’ [⎆waiki⎅ni] ‘amendoim’ [⎆mi⍧h⎅‫ש‬ana] ‘chover’ [⎆Єi⍧⎅‫ש‬anda] ‘comer’
+
+/m/, /n/ [⎆mo⍧n⎅de] [⎆no⍧n⎅de]
+
+‘pau de bom-dia’ ‘bicho’
+
+34 As oposições que apresentamos são representadas foneticamente, através dos diferentes alofones dos fonemas representados entre barras, //. Devido às dificuldades que a língua apresenta para a obtenção de pares mínimos, recorremos aos pares análogos, com ambiente e acento, senão idênticos, o mais próximo possível. Na seção seguinte, Descrição e Distribuição dos Segmentos Consonantais, os fonemas e seus alofones serão discutidos.
+
+47
+
+[⎆mi⍧ցi⎅ni] [⎆ni⍧ki⎅ni]
+
+‘batata’ ‘breu’
+
+/t/, /l/ [wo⎆‫ש‬o⍧h⎅‫ש‬e] ‘urucum’ [wo⎆lo⍧⎅‫ש‬e] ‘peixe bodó’
+
+/l/, /n/ [ta⎆la⍧⎅‫ש‬e] [⎆na⍧h⎅‫ש‬e]
+
+‘bracelete’ ‘aranha, tipo de.’
+
+/t/, /n/ [⎆du⍧n⎅de] [⎆nu⍧n⎅de]
+
+‘cotia’ ‘tatu’
+
+/t/, /l/, /n/ [⎆lo⍧h⎅de] [⎆no⍧h⎅‫ש‬e] [⎆do⍧h⎅de]
+
+‘onça’ ‘pilão’ ‘tatu-bola’
+
+/p/, /t/ [⎆ba⍧n⎅de] [i⎆ta⍧n⎅de]
+
+‘rede de carregar criança’ ‘folha’
+
+/p/, /k/ [ka⎆kai⎅‫ש‬e] [ka⎆bai⎅‫ש‬e]
+
+“ararinha” “tatu-de-quinze-quilos”
+
+48
+
+/t/, /k/
+
+[ta⍧⎆‫ש‬a⍧nda] ‘nambu’
+
+[ka⍧⎆‫ש‬a⍧nda] ‘está azedo’
+
+[⎆ja⍧⎅ցe]
+
+‘queixada’
+
+[⎆jam⎅de] ‘coró’
+
+[ki⎆‫ש‬i⍧‫ש‬e] ‘tucum’
+
+[ki⎆ցi⍧⎅‫ש‬i] ‘cigarra’
+
+/t/, /s/ [⎆toБki⎅ni] ‘abelha, tipo de.’ [⎆so⍧ցi⎅ni] ‘fruta’ [tu⎆nu⍧n⎅de] ‘posso dar?’ [su⎆no⍧n⎅de] ‘beija-flor’
+
+/k/, /h/ [⎅e⍧⎆ka⍧⎅‫ש‬e] ‘fogo/foqueira’ [⎅e⍧⎆ha⍧⎅‫ש‬e] ‘Vamos! (imperativo)’ [⎆ku⍧n⎅de] ‘jaboti’ [⎆hu⍧n⎅de] ‘peixe-juju’ [ko⎆lo⍧n⎅de] ‘grilo’ [ho⎆lo⍧n⎅de] ‘tatu-canastra’
+
+/k/, /Б/ [⎆jaik⎅na] [⎆wait⎅na]
+
+‘lagarta de coqueiro’ ‘palha de açaí’
+
+49
+
+2.1.1.3. DESCRIÇÃO E DISTRIBUIÇÃO DOS SEGMENTOS CONSONANTAIS
+
+O quadro fonológico consonantal do Lakondê é composto por onze fonemas, conforme o quadro abaixo.
+
+Tabela 3. Fonemas consonantais.
+FONEMAS CONSONANTAIS
+
+Labiais
+
+Coronais
+
+Dorsais Glotal
+
++
+
+-
+
+anterior anterior
+
+Oclusiva p
+
+t
+
+k
+
+Б
+
+Nasais
+
+m
+
+n
+
+Lateral
+
+l
+
+Fricativas
+
+s
+
+h
+
+Glide
+
+w
+
+j
+
+*Os símbolos que aparecem em pares, os da direita são consoantes sonoras.
+
+2.1.1.3.1. OCLUSIVAS
+2.1.1.3.1.1. /p/
+/p/ é uma oclusiva bilabial surda, cujos alofones, em Lakondê, são [p], oclusiva bilabial surda, e [b], oclusiva bilabial sonora. Este fonema ocorre em posição de onset silábico35 e tem baixíssima realização na língua, quando comparado às demais consoantes oclusivas36.
+35 Neste trabalho, utilizamos a concepção de sílaba apresentada por Blevins (1995), a qual considera que a sílaba, tal qual os segmentos na abordagem autossegmental, possui uma estrutura interna e hierarquizada. Trataremos da sílaba na seção 2.2. A sílaba. 36 A baixa ocorrência e a distribuição restrita do fonema oclusivo bilabial surdo, /p/, segue o que acontece nas línguas Latundê e Mamaindê, ambas Nambikwára do Norte, bem como nas línguas Nambikwára do Sul. Quanto às alofonias, dentre as línguas Nambikwára do Norte, o Lakondê apresenta uma realização mais simplificada: apenas dois alofones: [p] e [b]. No Latundê e no Mamaindê são encontrados os fones [p], oclusiva bilabial surda, [b], oculusiva bilabial sonora, e [ջ], oclusiva bilabial sonora implosiva. Comparando os ambientes e as realizações nestas línguas, verificamos que [p] ocorre variando com [b] em sílaba acentuada, nas duas línguas. Neste ambiente, em Lakondê, a realização de [b] é categórica. No Mamaindê, de acordo com Eberhard (2009, p.59), a variante implosiva [ջ] ocorre em contexto de acento, em início de palavra,
+
+50
+
+/p/ tem ocorrência restrita também quanto ao ambiente em que é realizado. O fonema ocorre em meio de palavra e início de palavra. Apesar do fone [b], oclusivo bilabial sonoro, ser mais ocorrente quando comparado a [p]37,
+oclusivo bilabial surdo, na subjacência temos o fonema /p/. A realização de [b] é previsível e condicionada pelo ambiente: seguindo coda nasal ou em ambiente intervocálico. O processo de vozeamento das consoantes oclusivas atinge também as demais consoantes oclusivas da língua38.
+Quanto à distribuição, [b] pode ser realizado diante das vogais baixas
+[a, a] e ocorre com menos freqüência diante das vogais [i, e].
+
+(001)
+
+[jube⎆li⍧‫ש‬i] ~ [jube⎆li⍧] /jupa⎆lih-⎆te/
+
+“peixe piau”
+
+precedida por uma fronteira de palavra ou uma oclusiva glotal e seguida por vogal posterior, e é empregada apenas por falantes mais velhos. No Latundê, segundo Telles (2002, p.38), a implosiva bilabial sonora, [ջ], varia com a oclusiva bilabial sonora, [b] diante da vogal baixa [a]. No
+Lakondê, nestes mesmos ambientes, ocorre preferencialmente a realização de [b]. Encontramos apenas uma exceção: [⎆pu⍧n⎅tana], ”cidreira”. Não foram encontrados dados no Lakondê que atestem a realização de consoantes implosivas. 37 Nos dados analisados, encontramos poucas palavras com a ocorrência do fonema oclusivo bilabial surdo, /p/, quase todas em meio de palavra, em ambiente sonoro, o que influencia a realização de [b], oclusiva bilabial sonora. Este fato pode explicar a baixa ocorrência do fone oclusivo bilabial surdo. Apesar disso, optamos por /p/, oclusiva bilabial surda, como consoante fonológica por entendermos que o segmento surdo é mais natural (menos marcado) do que o segmento sonoro, conforme afirma Hyman (1975, p.152) “First, unmarked consonants are noncontinuant and unvoiced. That is, /p/ is considered to be less marked than either /b/”. Além disso, nos apoiamos também na noção de classe natural, a qual, de acordo com Hyman (p.139)
+In general, we can say that two segments belong to a natural class when one or more of the following criteria are met in a number of languages: a the two segments undergo phonological rules together; b the two segments function together in the environments of phonological rules; c one segment is converted into the other segment by a phonological role; d one segment is derived in the environment oh the other segment (as in cases of assimilation)
+Tendo em vista os processos fonológicos atingirem classes de segmentos, e não segmentos isolados, entendemos que é mais pertinente assumir /p/, uma vez que os processos que a afetam são os mesmos que afetam às demais consoantes oclusivas surdas do sistema, tal como o processo de sonorização progressiva. 38 O processo de vozeamento das oclusivas é observado também nas línguas Latundê e Mamaindê e será discutido na seção 2.3.1.1. Vozeamento das oclusivas.
+
+51
+
+(002)
+
+[⎆ba⍧n⎅de]39 /⎆pan-⎆te/
+
+“Rede de carregar criança”
+
+(003)
+
+[so⎆banցi⎅ni] ~ [sa⎆banցi⎅ni] /so-⎆pan-ka⎆ni/
+
+“Taioba”
+
+(004)
+
+[⎅aiցou⎆bi⍧] /⎆ain-koun⎆piБ/
+
+“peixe-cachorro”
+
+O alofone [p] só foi observado em início de palavra, em sílaba tônica, seguida da vogal alta posterior, [u].
+
+(005)
+
+[⎆pu⍧n⎅tana] /⎆pun-⎆tan-na/
+
+“cidreira”
+
+2.1.1.3.1.2. /t/
+
+/t/ é uma consoante oclusiva alveolar surda, cuja ocorrência e distribuição em Lakondê são bastante amplas. A oclusiva alveolar tem como alofones [t], oclusiva alveolar surda, [d], oclusiva alveolar sonora, [th], oclusiva alveolar surda aspirada, e [‫]ש‬, flap alveolar sonoro. Pode ocorrer em posição de onset silábico, em início e meio de palavra. Realiza-se como [t] diante das vogais [i, e, e, a, a, a, o, u, u].
+
+(006)
+
+[⎆kaha⎅ta⍧na] /⎆kah-ha⎆tan-na/
+
+“não está azedo”
+
+39 Os diacríticos (⎆) e (⎅) indicam, respectivamente, um acento mais proeminente e um acento menos proeminente, e têm relação estreita com a percepção dos ouvintes quanto à proeminência de determinadas sílabas.
+
+52
+
+(007)
+
+[i‫ש‬i⎆ցa⍧⎅te] /ita-⎆kah-⎆te/
+
+“bracelete”
+
+(008)
+
+[tu⎆iБke⎅‫ש‬e] ~ [tu⎆iБ⎅k‫ש‬e] /⎆tuiБ-⎆kah-⎆te/
+
+(009)
+
+[tu⎆mu⎅ke] ~ [tu⎆mu⍧⎅ke] /tu⎆muh-⎆ke/
+
+(010)
+
+[ta⎆‫ש‬andѩ] /tah⎆tan-ta/
+
+(011)
+
+[⎆toБki⎅ni] ~ [⎆doБki⎅ni] /⎆toБ-ka⎆ni/
+
+”besouro tesoureiro” “jacu, tipo de rato” “nambu” “abelha preta”
+
+/t/ ocorre como oclusiva alveolar sonora, [d], na posição de onset, formando sílaba com as mesmas vogais que a sua correspondente surda.
+
+(012)
+
+[⎆nu⍧‫ש‬e⎅da⍧] ~ [⎆nu⍧he⎅da⍧] /⎆nuhte-⎆tah/
+
+“calango”
+
+(013)
+
+[⎆dehe‫ש‬i] ~ [⎆deh‫ש‬i] /⎆teh-te/
+
+“cobra”
+
+(014)
+
+[do⎆‫ש‬oБ⎅te] /toh⎆toБ-⎆te/
+
+“pau liso”
+
+(015) [⎅wa⎆du⎅no] ~ [⎅wa⎆du⎅nau]
+
+“sua perna”
+
+53
+
+/⎆wai-⎆tu-⎆nau/
+
+(016)
+
+[⎅kudi⎆hi⍧⎅‫ש‬i] ~ [⎅kudi⎆hi⍧⎅hi] “fuma! (imperativo)” /⎆kunte-⎆hih-⎆te/
+
+Em meio de palavra, pode haver a ocorrência do flap alveolar sonoro, [‫]ש‬. Esta consoante se realiza sempre na posição onset silábico, preferencialmente em sílaba tônica, em final de palavra. Pode formar sílaba com as vogais [i, e, a, a, o, u]. Em meio de palavra, o flap pode ocorrer em sílaba átona quando precedida por uma fricativa glotal fonológica, /h/.
+
+(017)
+
+[⎆hu⍧ցe⎅‫ש‬e] ~ [⎆hu⍧ցo⎅‫ש‬e] /⎆hun-⎆kah-⎆te/
+
+“arco”
+
+(018)
+
+[⎅ i⍧⎆dedni⎅‫ש‬a] /⎆i-⎆teБ-ni-⎆tan/
+
+“vou mamar”
+
+(019)
+
+[ka⎅kaБ⎆‫ש‬e⍧he⎅‫ש‬e] ~ [ka⎅kaБ⎆‫ש‬e⍧h⎅‫ש‬e] /ka⎆kaБ-⎆teh-⎆te/
+
+“capim navalha”
+
+(020)
+
+[je⎆liБցe⎅‫ש‬e] ~ [ja⎆liБ⎅ց‫ש‬e] /ja⎆liБ-⎆kah-⎆te/
+
+(021)
+
+[ki⎆‫ש‬i⍧⎅‫ש‬e] /ki⎆teh-⎆te/
+
+(022)
+
+[⎆ki⍧‫ש‬i] /⎆kih-te/
+
+“colar” "tucum" "Quati”
+
+54
+
+(023)
+
+[⎆hi⍧‫ש‬e⎅da⍧] ~ [⎆hi⍧‫ש‬a⎅da⍧] /⎆hihten-⎆tah/
+
+(024)
+
+[⎆lo⍧‫ש‬e⎅‫ש‬e] /⎆lohta-⎆te/
+
+“aroeira” “paca”
+
+(025)
+
+[do⎆‫ש‬oБ⎅te] /toh⎆toБ-⎆te/
+
+“pau liso”
+
+(026)
+
+[⎆nah⎅‫ש‬u] ~ [⎆naha⎅‫ש‬u] /⎆nah-⎆tuБ/
+
+“água de beber”
+
+Seguindo sílaba acentuada terminada por /h/ em coda silábica, pode haver o enfraquecimento de /t/ ou de /h/. No primeiro caso, o resultado é a realização de [h] em onset da sílaba não acentuada e o alongamento compensatório da vogal nuclear da sílaba anterior; no segundo caso, a fricativa glotal é apagada é a vogal nuclear também sofre alongamento compensatório.
+
+(027)
+
+[kama⎆ma⍧h⎅de] ~ [kama⎆ma⍧⎅he] “borboleta” /kama⎆mah-⎆te/
+
+(028)
+
+[ta⎆lah⎅‫ש‬e] ~ [ta⎆la⍧⎅te] ~ [ta⎆la⍧⎅he] "bracelete" /ta⎆lah-⎆te/
+
+A realização aspirada, [th], é a menos recorrente, e foi observada em apenas duas palavras, em posição de acento40.
+40 Em Mamaindê, a oclusiva alveolar surda aspirada ocorre como alofone do fonema /t/, oclusiva alveolar surda, quando em onset de sílaba átona, precedida por consoante surda em coda
+
+55
+
+(029)
+
+[to⎆thѐ⍧] /to⎆tau/
+
+“café”
+
+(030)
+
+[⎅daiau⎆tha] /⎅tai-au⎆ta/
+
+“terra dele”
+
+2.1.1.3.1.3. /k/
+
+/k/ é uma consoante oclusiva velar surda, um dos fonemas com maior ocorrência e distribuição no Lakondê. /k/ pode ocorrer em início e meio de palavra. A oclusiva velar surda, [k], e a sua correspondente sonora, [ց], são seus alofones. Este fonema realiza-se, na maior parte dos dados, na posição de onset, formando sílaba com as vogais [i, i, e, e, a, a, a, o, o, o, o, u, u].
+Em início de palavra, apenas /k/ é realizada.
+
+(031)
+
+[ka⎆ka⍧⎅hu] /ka⎆kaБ-⎆hun/
+
+“gralho”
+
+(032)
+
+[kalaui⎆li⍧‫ש‬i] /kalaui⎆lih-⎆te/
+
+(033)
+
+[ke⎆li⍧wa⎅la⍧] /ka⎆liБ-wa⎆laБ/
+
+“pecervejo” “cascavel”
+
+(034)
+
+[kei⎆a⍧⎅de] /kei⎆-an⎆-te/
+
+“jacaré”
+
+silábica. Em outros ambientes, a oclusiva alveolar surda aspirada ocorre como fonema, /th/, contrastando com a oclusiva alveolar surda, /t/.
+
+56
+
+(035)
+
+[⎆ko⍧ka⎅da] /⎆koБkan-⎆tah/
+
+(036)
+
+[⎆ku⍧n⎅de] /⎆kun-⎆te/
+
+“gavião” “jaboti”
+
+(037)
+
+[⎆ko⍧telei] /⎆koБtelei/
+
+“ontem”
+
+Em meio de palavra, /k/ realiza-se [k] em onset silábico seguindo consoante surda em coda. Quando /k/ ocorre em coda silábica, realiza-se sempre como [k].
+
+(038)
+
+[⎅e⍧⎆ka⍧⎅‫ש‬e] /⎆eБ-⎆kah-⎆te/
+
+"fogo/ fogueira"
+
+(039)
+
+[wa⎆na⍧ki⎅ni] /wa⎆naБ-ka⎆ni/
+
+"castanha da castanheira”
+
+(040)
+
+[kei⎆u⍧⎅‫ש‬e] /kei⎆uh-⎆te/
+
+“asa branca”
+
+(041)
+
+[ki⎆di⍧ki⎅ni] ~ [ki⎆‫ש‬i⍧ki⎅ni] ~ “tucum pequeno” [ki⎆‫ש‬i⍧hka⎅ni] /kih⎆tih-ka⎆ni/
+
+(042) [⎆jaik⎅na]
+
+“lagarta de coqueiro”
+
+57
+
+/⎆jaik-⎆nah/
+
+Em posição de coda silábica a realização de [k] pode ser decorrente da redução silábica.
+
+(043)
+
+[⎆waikni⎅no] ~ [⎆waikni⎅nau] “cabeça” /⎆waiБ-ka⎆ni-nau/
+
+A realização do alofone sonoro, [ց], é condicionada aos ambientes sonoros, em meio de palavra.
+
+(044)
+
+[⎆lo⍧⎅ցa⍧⎅‫ש‬e] /⎆lon-kah-⎆te/
+
+"madeira de itauba"
+
+(045)
+
+[wo⎆lo⍧ցi⎅ni] /wo⎆lon-ka⎆ni/
+
+"caramujo"
+
+(046)
+
+[⎆hi⍧ցe⎅la] /⎆hin-kah⎆laБ/
+
+"carvão"
+
+(047)
+
+[⎅hi⍧ցo⎆lo⍧] /⎆hin-ka⎆loh/
+
+“panela”
+
+Em caso de reduplicação silábica, em meio de palavra, pode haver flutuação entre a ocorrência dos alofones [k] e [ց] 41.
+
+(048) [ka⎆kai⎅‫ש‬e] ~ [ka⎆ցai⎅‫ש‬e]
+
+“ararinha, tipo de.”
+
+41 Durante a entrevista, a pesquisadora Stella Telles testa algumas palavras faladas por D. Tereza
+com a realização de [k, ց], repetindo-as substituindo a oclusiva velar surda pela sonora e viceversa. Tereza não percebe a diferença entre as duas realizações e considera ambas como aceitáveis.
+
+58
+
+/ka⎆kaih-⎆te/
+
+(049)
+
+[ki⎆ցi⍧⎅‫ש‬e] ~ [ki⎆ki⍧⎅‫ש‬e] /ki⎆kih⎆te/
+
+2.1.1.3.1.4. /Б/
+
+"cigarra"
+
+A consoante oclusiva glotal, /Б/, é pouco perceptível de oitiva. Ocorre em posição medial de palavra. Na sílaba, a posição de [Б] é sempre de coda, precedida das vogais [i, i, e, a, o, u] e nasal com ponto de articulação não especificado, /n/, neste caso, fazendo parte de coda ramificada.
+
+(050)
+
+[na⎆liБ⎅t‫ש‬a] /na⎆liБ-⎆tah-⎆tan/
+
+(051)
+
+[⎆nuБsanai⎅ցe] /⎆nuБ-sanai-⎆ke/
+
+"lembrar” “mão de pilão”
+
+(052)
+
+[⎆heinБ⎅ta⎅tan] /⎆heinБ-⎆ta-⎆tan/
+
+"não brigue"
+
+(053) [⎅hi⍧Б⎆ta]
+
+“medo de bicho/coisa”
+
+/⎆hinБ-⎆ta/
+
+/Б/ pode ser realizada como oclusiva diante de consoante oclusiva ou nasal em onset da sílaba seguinte, assimilando o ponto de articulação da consoante que a segue.
+
+(054)
+
+[⎆wait⎅na] /⎆waiБ-⎆na/
+
+“açaí”
+
+(055) [⎅dot⎆nain⎅de] ~ [dot⎆nain⎅de]
+
+“abelha mandurizinha”
+
+59 /⎆doБ-⎆nain-⎆te/
+
+2.1.1.3.2. NASAIS
+
+2.1.1.3.2.1. /m/
+
+/m/ é uma consoante oclusiva bilabial nasal sonora, que tem como alofone: [m], oclusiva bilabial nasal sonora. /m/ ocorre apenas na posição de onset silábico e não forma sílaba com as vogais médias anteriores [e, e].
+
+(056)
+
+[⎆mi⍧ցi⎅ni] /⎆min-ka⎆ni/
+
+“batata”
+
+(057)
+
+[ihi⎆mi⍧n⎅de] /ihi⎆min-⎆te/
+
+(058)
+
+[⎆mo⍧n⎅dana] /⎆mun-⎆tan-ta/
+
+“nambuzinho, tipo de pássaro”
+“bonito”
+
+(059)
+
+[u⎆maБdio⎅‫ש‬ana] /u-⎆man-tioh-⎆tan-ta/
+
+“penugem”
+
+(060)
+
+[tu⎆mu⎅ke] ~ [tu⎆mu⍧⎅ke] /tu⎆muh-⎆ke/
+
+“jacu, tipo de rato”
+
+60
+
+2.1.1.3.2.2. /n/
+
+/n/ é uma consoante alveolar nasal sonora. No Lakondê, /n/ ocorre com grande freqüência e não há restrição quanto à sua distribuição. A alveolar nasal pode formar sílaba com qualquer vogal, e apenas pode ocupar a posição onset silábico.
+A realização de /n/ é bastante simples, pois não há variação alofônica:
+realiza-se sempre como [n], alveolar nasal. Quando precedida de vogal no núcleo da sílaba anterior, pode haver o espraiamento da nasalização para a esquerda.
+
+(061)
+
+[⎆nuh⎅nau⎅‫ש‬e] /⎆nuh-⎆nau-⎆te/
+
+“nós todos”
+
+(062)
+
+[⎆waiki⎅ni] ~ [⎆waihiki⎅ni] /⎆waih-ka⎆ni/
+
+“amendoim”
+
+(063)
+
+[⎆naum⎅de] /⎆naun-⎆te/
+
+“abelha sopé”
+
+2.1.1.3.2.3. A NASAL EM CODA
+Na posição de coda silábica, ocorre com freqüência uma consoante nasal com ponto de articulação subespecificado42, a qual será representada como /n/43. Nesta posição, a nasal pode ser realizada como [m], bilabial nasal, [n],
+42 A idéia de assumir a subespeficação para consoantes em coda nas línguas Nambikwára partiu de Price (1978), que empregou uma consoante genérica /C/ para as consoantes subespecificadas nas formas reconstruídas do Proto-Nambikwára. (EBERHARD, 2009, p.66) 43 A representação da nasal com ponto de articulação /n/ segue o princípio de que, dentre os segmentos que podem ser realizados neste contexto, a alveolar nasal é o menos marcado ou mais natural, de acordo com a classificação de segmentos marcados e não marcados proposta por Chomsky e Halle (1968, p.412 apud Hyman, 1975, p.152), de acordo com a qual são atibuídos os valores marcado (“marked”) e não marcado (“unmarked”) para um dado segmentos em relação aos outros. De acordo com Hyman (1975, p.152):
+
+61
+
+alveolar nasal, [֊], velar nasal, [bm], bilabial nasal pré- oralizada, [dn], alveolar nasal pré-oralizada, [ց֊], velar nasal pré-oralizada, e [Бn], alveolar nasal préglotalizada. A variação do seu ponto de articulação é bastante previsível, sendo condicionada pelo ambiente.
+Quando precedida de vogal central ou posterior, oral ou nasal, /n/ é realizada como [n].
+
+(064)
+
+[wi⎆a⍧n⎅de] /wi⎆an-⎆te/
+
+“jatobá”
+
+(065)
+
+[ka⎆ma⍧n⎅de] ~ [kѐ⎆ma⍧n⎅de] /kau⎆man-⎆te/
+
+“lama”
+
+(066)
+
+[⎆du⍧n⎅de] /⎆tun-⎆te/
+
+“cotia”
+
+(067)
+
+[⎆ma⍧nցa⎅lo⍧] /⎆man-ka⎆loh/
+
+“roupa”
+
+By the conventions, Chomsky and Halle propose, there are five consonants which are marked for one feature only, namely /p, t, k, s, n/, about which they remark: “It is significant that these five consonants are rarely absent in the phonological system of a language”. (1968:413)
+No Mamaindê, Eberhard (2009) utiliza a vogal maiúscula, /N/, para representar o segmento subespecificado. De acordo com o autor, também a oclusiva alveolar e a fricativa alveolar são considerados por ele segmentos subespecificados em coda, sendo representados /T, S/, respectivamente. Sobre a representação da coda subespecificada por uma consoante genérica, Eberhard (2009, p.66) explica que “This analysis becomes even more appealing when we realize that the same process occurs with the other coronal codas, the /s/ and the /n/.”. Dessa forma, o autor utiliza as consoantes genéricas (maiúsculas) para representar os segmentos subespecificados em coda como forma de diferenciar as coronais em coda das coronais em onset, já que os processos que atingem as consoantes com diferentes posições na sílaba não são os mesmos. No Lakondê, também entendemos que a consoante nasal em coda tem comportamento diferente das nasais em onset. Mas, não temos as outras coronais em coda com subespecificação, o que poderia justificar a representação da nasal em coda por um /N/ genérico.
+
+62
+
+(068)
+
+[⎆hu⍧n⎅de] /⎆hun-⎆te/
+
+“peixe-juju, tipo de peixe”
+
+Quando /n/ é precedido por ditongo oral ou nasal terminado em /u/, não raro a nasal assimila o traço labial, realizando-se [m] na superfície, resultando na seqüência [aum].
+
+(069)
+
+[ka⎆kaum⎅dana] /ka⎆kaun-⎆tan-⎆ta/
+
+“fruta verde (não madura)”
+
+(070)
+
+[⎆naum⎅de] /⎆naun-⎆te/
+
+“abelha, tipo de.”
+
+(071)
+
+[⎆ja⍧m⎅de] ~ [⎆jaum⎅de] /⎆jaun-⎆te/
+
+“coró”
+
+(072)
+
+[ko⎆lo⍧um⎅de] /ko⎆loun-⎆te/
+
+“pica-pau”
+
+Precedida de vogal alta e seguida por consoante velar, a nasal é velarizada, realiza-se como [֊].
+
+(073)
+
+[⎆mai֊ցe⎅ni] ~ [⎆maiցi⎅ni] /⎆main-ka⎆ni/
+
+“caju”
+
+(074)
+
+[⎆hei֊ցe⎅ni⎅d‫ש‬a] /⎆hein-ka⎆ni-tah-⎆tan/
+
+“buriti”
+
+(075) [ju⎆lu⍧֊ցi⎅ni⍧] ~ [je⎆lu֊ցi⎅ni⍧]
+
+“caroço da gameleira”
+
+63
+
+/jelun-ka⎆ni/
+
+Em meio de palavra, quando seguida por vogal oral em sílaba acentuada e diante de consoante, a nasal em coda silábica pode ser oralizada ou pré-oralizada. O ponto de articulação da consoante oral ou da fase oral do segmento nasal pré-oralizado também é previsível e tem relação com a vogal que a antecede e, em alguns casos com a consoante que a segue.
+Seguindo as vogais frontais ou ditongo terminado em [i], e diante de
+consoante coronal ou glotal, /h/, a nasal pode ser realizada como [d] ou [dn].
+
+(076)
+
+[da⎆weid⎅nѐ⎅ta] /ta⎆wein-⎆nau-⎆tan/
+
+“é mata”
+
+(077)
+
+[⎆heidn⎅dan] /⎆hein-⎆tan/
+
+"trovão"
+
+(078)
+
+[⎆lid⎅no] ~ [⎆lid⎅nau⎅‫ש‬e] /⎆lin-⎆nauh-⎆te/
+
+"farinha"
+
+(079)
+
+[⎆lidn⎅du⍧] ~ [⎆lidn⎅du⍧⎅‫ש‬e] /⎆lin-⎆tuh/
+
+“rama de mandioca”
+
+Se a nasal /n/ é precedida por ditongo arredondado oral, [au], pode ocorrer a consoante bilabial oral, [b], ou a bilabial nasal pré-oralizada, [bm].
+
+(080)
+
+[la⎅‫ש‬au⎆amho⎅‫ש‬e] ~ [la⎅‫ש‬au⎆abho⎅‫ש‬e] /⎆lauhtau-⎆waun-hoh-⎆te/
+
+“arara vermelha”
+
+(081) [Ѐi⎆ցin⎅wam⎅tu] ~
+
+“barro vermelho”
+
+64
+
+[Ѐi⎆ցin⎅wabm⎅tu] /sin⎆kih-⎆waun-⎆tun/
+
+São raras as ocorrências do segmento de contorno [ց֊] ou da consoante velar sonora, [ց], em coda silábica. Encontramos estas formas apenas seguindo a vogal alta posterior, [u], e diante de consoante velar sonora, [ց].
+
+(082)
+
+[ju⎆luց֊ցo⎅lo⍧] ~ [je⎆luց֊ցo⎅lo⍧] /jelun-ka⎆loh/
+
+“fruto da gameleira”
+
+Em posição de acento, seguindo vogal ou ditongo oral, a nasal /n/ pode ainda ser pré-glotalizada, realizando-se [Бm], quando seguindo ditongo arredondado, e [Бn], seguindo as demais vogais.
+
+(083)
+
+[we⎆deБn⎅de] ~ [we⎆dein⎅de] “tamanduá, tipo de.” /wan⎆ten-⎆te/
+
+(084)
+
+[⎆eiБn⎅de] ~ [⎆e⍧Бn⎅de] ~ [⎆ein⎅de] /⎆en-⎆te/
+
+“lua”
+
+(085)
+
+[⎆auБm⎅da] ~ [⎆auБm⎅da⍧⎅‫ש‬e] /⎆aun-⎆tah/
+
+“papagaio grande”
+
+(086)
+
+[ka⎆kauБm⎅nanѩ] ~ [ka⎆kauБm⎅danѩ] /ka⎆kaun-⎆tan-ta/
+
+“está verde”
+
+A oralização, pré-oralização e pré-glotalização das nasais em coda quando seguindo vogais orais pode ter relação com a necessidade de fortalecer o
+
+65
+contraste entre vogais orais e nasais, a partir do distanciamento entre os dois segmentos, oral e nasal, em sílabas acentuadas. Uma vez que em sílabas átonas é comum o espraiamento da nasalidade para o segmento mais à esquerda, e os segmentos de contorno (parcialmente oralizados), pré-glotalizados ou totalmente oralizados não são realizados.
+2.1.1.3.2.3.1. EVIDÊNCIAS PARA A OCORRÊNCIA DA NASAL EM CODA
+Na posição de coda silábica, é bastante comum no Lakondê a ocorrência da consoante nasal com ponto de articulação não especificado. Para atestarmos com maior segurança a existência do segmento nasal em coda silábica, submetemos os dados ao programa de análise acústica PRAAT. Observamos que a duração do segmento nasal em coda silábica é considerável, equivalente – e em algumas palavras, até maior – à duração do mesmo segmento em posição de onset.
+
+[k] [a] [n]
+
+[ai]
+
+[n] [d] [e]
+
+Figura 7: Espectrograma - “Piolho de Algodão”.
+
+66
+
+[k] [u⍧]
+
+[n]
+
+Figura 8: Espectrograma - “Algodão”.
+
+[p] [u]
+
+[n] [t]
+
+[a] [n] [a]
+
+Figura 9: Espectrograma - “Cidreira”.
+
+[iu]
+
+[wa⍧]
+
+[n] [d] [a⍧]
+
+Figura 10: Espectrograma - “Gambá”.
+
+67
+
+[m] [ai] [n] [ց][i] [n] [i]
+Figura 11: Espectrograma - “Caju”.
+Outra evidência para a ocorrência da consoante nasal em coda silábica são os processos engatilhados por ela: o vozeamento das oclusivas em onset silábico e o alongamento vocálico. Mesmo quando não se realiza, a ocorrência de uma nasal em coda silábica diante de uma consoante oclusiva engatilha o vozeamento desta. Além disso, quando a nasal em coda não é realizada foneticamente, a vogal nuclear da sílaba em que a nasal é apagada sofre alongamento compensatório. Os exemplos abaixo ilustram a ocorrência destes processos.
+
+(087)
+
+/i⎆tan-⎆te/ [i⎆ta⍧⎅de] ~ [i⎆ta⍧⎅de]
+
+“folha”
+
+[i] [t]
+
+[a⍧]
+
+[d] [e]
+
+Figura 12: Espectrograma - “Folha”.
+
+(088)
+
+/⎆min-ka⎆ni/ [⎆mi⍧ցi⎅ni]
+
+68 “batata”
+
+[m] [i⍧]
+
+[ց] [i] [n] [i]
+
+Figura 13: Espectrograma - “Batata”.
+
+2.1.1.3.3. LATERAL 2.1.1.3.3.1. /l/
+
+/l/ é uma consoante lateral alveolar, cuja única realização em Lakondê é [l]. Esse fonema aparece sempre na posição de onset silábico e forma sílaba preferencialmente com as vogais orais [i, e, a, o], e com menor freqüência, pode realizar-se diante de [u], das vogais orais nasais [ i, a, o] e das vogais laringais [i, a, o].
+
+(089)
+
+[⎆lo⍧ho⎅‫ש‬e] /⎆loh⎆te/
+
+“urubu”
+
+(090)
+
+[jϯ⎆lauցi⎅ni] /jai⎆laun-ka⎆ni/
+
+“tucumã”
+
+69
+
+(091)
+
+[koloko⎆lo⍧n⎅dana] /koloko⎆lon-tan-ta/
+
+“pintado”
+
+(092)
+
+[⎅lid⎆na⍧n⎅de] /⎆lin-⎆nan-⎆te/
+
+“folha de mandioca braba”
+
+(093)
+
+[ju⎆lu⍧֊ցi⎅ni⍧] ~ [je⎆lu֊ցi⎅ni⍧] /je⎆lun-ka⎆ni/
+
+“caroço da gameleira”
+
+2.1.1.3.4. FRICATIVAS 2.1.1.3.4.1. /s/
+
+/s/ é uma consoante fricativa alveolar surda que forma sílaba com as vogais [i, e, a, a, o, u, u]. No Lakondê, este fonema ocorre sempre na posição de onset de sílaba, em início e meio de palavra. Seus alofones são [s], fricativa alveolar surda, [Ѐ], fricativa palatal surda, [tЀ], africada alvéolo-palatal surda.
+O alofone [s] é o mais recorrente e é realizado preferencialmente formando sílaba com as vogais [a, a, o, u, u].
+
+(094)
+
+[sa⎆ma⍧n⎅de] ~ [sa⎆ma⍧n⎅de] “carregador” /sa⎆man-⎆te/
+
+(095)
+
+[su⎆no⍧n⎅de] /su⎆nun-⎆te/
+
+“beija-flor”
+
+(096) [⎆souցi⎅ni] ~ [⎆soБցi⎅ni]
+
+“fruta”
+
+70 /⎆soun-ka⎆ni/
+
+Em início de palavra, diante de vogal coronal, [Ѐ] é categórica.
+
+(097)
+
+[⎆Ѐi⍧hi‫ש‬i] /⎆sih-te/
+
+“casa”
+
+(098)
+
+[Ѐi⎅dit⎆na⍧n⎅de] /si⎆tiБ-⎆nan-⎆te/
+
+“folha de macaxeira”
+
+(099)
+
+[⎅Ѐi⍧ka⎆nai] /⎆sihka-⎆naih/
+
+“açafrão”
+
+Em meio de palavra, há preferência pela realização da alveolar, exceto quando em ambiente intervocálico com presença de coronal. Neste caso, a realização da palatal é categórica.
+
+(100)
+
+[⎆deisa⎅lasa⎅la] ~ [⎆deiЀa⎅lasa⎅la] /⎆deiБ-sa⎆laБ-sa⎆laБ/
+
+“cobra, tipo de.”
+
+(101)
+
+[i⎅ЀidБ⎆ЀoБ⎅dan] /⎆i-⎆siБ-son-tan/
+
+(102) [nasa⎆Ѐit⎅de] /nasa⎆siБ-⎆te/
+
+“carne” “camarão”
+
+71
+
+A alvéolo-palatal, [tЀ], é um dos sons menos freqüentes da língua. Ocorre normalmente em meio de palavra, em sílaba final átona, diante da vogal [i].
+
+(103)
+
+[⎅waia⎅dam⎆dantЀi] /⎆waian-⎆taun-⎆tan-si/
+
+“você jogou fora”
+
+(104)
+
+[⎆e⍧⎅‫ש‬antЀi] /⎆eh-⎆tan-si/
+
+“já viu”
+
+2.1.1.3.4.2. /h/
+
+/h/ é uma consoante fricativa glotal surda, com ampla realização e distribuição na língua Lakondê. Esta consoante se realiza diante de todas as vogais, na posição de onset de silaba, e tem um único alofone, [h].
+
+(105)
+
+[hau⎆ѐh‫ש‬e] ~ [hau⎆ah‫ש‬e] /hau-⎆auh-⎆te/
+
+“balaio”
+
+(106)
+
+[ho⎆lo⍧] /ho⎆loБ/
+
+“campo”
+
+(107)
+
+[ka⎅nai⎆hu] ~ [ka⎅nai⎆hun⎅de] “piolho” /ka⎆nai-⎆hun/
+
+(108)
+
+[Ѐi⎆ցid⎅ha⎅tu] ~ [Ѐi⎆ցidnѐ⎆ha⎅tu] /sin⎆kin-nau-⎆haБ⎆tun/
+
+“areia branca”
+
+(109) [⎆lo⍧⎅hiБ]
+
+“urubu”
+
+72
+
+/⎆lon-⎆hiБ/
+
+/h/ é bastante freqüente também em posição de coda silábica, podendo ser precedida por qualquer vogal oral.
+
+(110)
+
+[da⎆nah⎅ցo] /ta⎆nan-⎆ko/
+
+“mãe”
+
+(111)
+
+[⎆nuhnau⎅‫ש‬e] /⎆nuh-⎆nauh-⎆te/
+
+“nós todos”
+
+(112)
+
+[⎆deh⎅nau] /⎆teh-⎆nau/
+
+“caminho”
+
+(113)
+
+[⎆mi⍧hi⎅‫ש‬an] /⎆mih-⎆tan/
+
+“chuva”
+
+Em posição de coda silábica, /h/ aparece preferencialmente em sílaba acentuada. Pode ocorrer como uma leve aspiração, quase imperceptível à audição. Em fala rápida, pode sofrer apagamento, o que resulta no alongamento compensatório da vogal nuclear.
+
+(114)
+
+[Ѐi⎆ցihmi⎅ni]~ [Ѐi⎆ցi⍧mi⎅ni] /sin⎆kih-min-ka⎆ni/
+
+“arroz”
+
+(115)
+
+[⎆keihhiցi⎅ni] ~ [⎆kei⍧hiցi⎅ni] “fruta da paxiúba” /⎆keih-ka⎆ni/
+
+73
+
+2.1.1.3.5. GLIDES 2.1.1.3.5.1. /w/
+
+/w/ é um glide labial, cujos alofones são [w], glide labial, e [Є], fricativa lábio-dental. O glide labial ocorre apenas em onset silábico44. Sua distribuição é bastante larga, não ocorrendo apenas diante de vogal alta posterior, [u], e de vogais nasais. Na palavra, pode ocorrer em posição inicial, medial ou final.
+
+(116) (117)
+
+[wai⎆‫ש‬a] /⎆waih-⎆tah/ [wo⎆lo⍧⎅‫ש‬e] /wo⎆loh-⎆te/
+
+“abelha jati” “peixe bodó”
+
+(118)
+
+[⎆weitnau⎅‫ש‬e] /⎆weiБ-⎆nauh-⎆te/
+
+“filho(a)”
+
+(119)
+
+[⎅mi⍧⎆‫ש‬edni⎅‫ש‬a] ~ [⎅wi⍧⎆‫ש‬edni⎅‫ש‬a] /⎆wih-teБ-nih-⎆tan/
+
+“já vai comer”
+
+Diante de vogal anterior, /w/, pode ser realizado como [Є], fricativa lábio-dental.
+
+(120) [deweke⎆no] ~ [deЄeke⎆no]
+
+“pouco”
+
+44 No Lakondê, os glides podem ocupar apenas a posição de onset silábico. Esta abordagem coincide com o tratamento dado por Eberhard (2009) para os glides no Mamaindê, de acordo com o qual “The glides in Mamaindê can be viewed as segments whose phonological status depends on their syllable position. In the nucleus they function as vowels, while in the onset position they behave as glides.” Dessa forma, os glides em núcleo silábico têm status fonológico de vogal, formando ditongos (os ditongos do Lakondê serão discutidos na seção 2.1.2.3.3. Ditongos). No Latundê, de maneira diferente, Telles (2002), afirma que os glides podem ocupar posição de onset ou coda silábica, uma vez que o núcleo silábico só licencia uma posição.
+
+74
+
+/dawe⎆ken-⎆nau/
+
+(121)
+
+[⎅dawi⍧⎆‫ש‬aiցo] ~ [daЄi⍧⎆‫ש‬aiցo] /⎆ta-wih-⎆tain-koh/
+
+“marido”
+
+2.1.1.3.5.2. /j/
+
+O glide palatal, /j/, é um dos fonemas de maior ocorrência na língua Lakondê. Ele realiza-se em posição inicial, medial e final de palavra, e, assim como o glide labial, ocupa apenas posição de onset silábico e pode realizar-se como [j], glide palatal, e [Ћ], fricativa palato-alveolar sonora. /j/ só não ocorre diante da vogal alta anterior, [i].
+
+(122)
+
+[ja⎆jau⎅hun⎅de] /je⎆jauБ-⎆hun-⎆te/
+
+“escorpião”
+
+(123)
+
+[jϯ⎆lauցi⎅ni]~ [ja⎆lauցi⎅ni] /jai-⎆laun-ka⎆ni/
+
+“tucumã”
+
+(124)
+
+[⎆ja⍧⎅ցe] /⎆jan-⎆keБ/
+
+“queixada”
+
+Em início de palavra, diante do ditongo /ai/, o glide palatal pode ser realizado como [Ћ]45.
+
+45 Nos dados analisados, encontramos a realização [Ћ] em apenas duas ocorrências: na palavra ‘veado’, conforme pode ser visto no exemplo, e em uma frase mais longa, que não foi traduzida pela informante na gravação.
+
+75
+
+(125)
+
+[Ћi⎆‫ש‬a⍧n⎅de] ~ [jϯ⎆‫ש‬a⍧n⎅de] /jaih⎆tan-⎆te/
+
+“veado”
+
+2.1.2. VOGAIS
+
+2.1.2.1. INVENTÁRIO FONÉTICO VOCÁLICO
+O inventário fonético das vogais do Lakondê é mais extenso que o inventário fonético consonantal. Ocorre na língua a realização de 20 fones vocálicos, que abrange vogais orais, nasais, laringais e laringais nasais, conforme apresentado na tabela que segue.
+
+Tabela 4. Sons vocálicos.
+SONS VOCÁLICOS
+VOGAIS
+
+VOGAIS LARINGAIS
+
+FRONTAIS CENTRAL POSTERIORES FRONTAIS CENTRAL POSTERIORES
+
+ALTAS
+
+i
+
+u
+
+ALTAS
+
+i
+
+u
+
+NASAIS
+
+MÉDIAS
+
+e
+
+o
+
+FECHADAS
+
+MÉDIAS
+
+o
+
+FECHADAS
+
+NASAIS
+
+MÉDIAS
+
+ϯ
+
+ѩ
+
+ѐ
+
+BAIXAS
+
+BAIXAS
+
+a
+
+i
+
+u
+
+i
+
+u
+
+e
+
+o
+
+o
+
+a
+
+BAIXAS
+
+a
+
+a
+
+NASAIS
+
+76
+
+2.1.2.2. OPOSIÇÕES VOCÁLICAS
+
+Dos vinte fones que são realizados no Lakondê, dezesseis (16) têm status fonológico. Os outros quatro são alofonias ou resultados de processos. Abaixo apresentaremos as oposições vocálicas. A descrição dos segmentos segue em 2.1.2.3. Descrição e distribuição dos segmentos vocálicos.
+
+/i/, /i/
+
+[⎆Ѐi⍧‫ש‬i]
+
+"cesto"
+
+[⎆Ѐi⍧‫ש‬i] "casa"
+
+[⎆ki⍧‫ש‬i]
+
+"quati"
+
+[⎆ki⍧⎅te]
+
+"macaco, tipo de."
+
+/ i/, /i/
+[ha⎆ni⍧⎅te] "gordo" [ka⎆ni⍧⎅de] "carrapato" [⎅hiցo⎆lo⍧] “panela” [⎅iցo⎆lo⍧] “casca” /i/, /i/ [ihi⎆mi⍧n⎅de] “pássaro nambuzinho” [u⎆mi⍧n⎅de] “couro” [⎅da⎆mi⍧n⎅ցo] “meu pai” [⎆kain⎅de] “formiga, tipo de.” [⎆hain⎅ta] “vamos fazer sexo (imper.)”
+
+/a/, /a/ [sa⎆ma⍧n⎅de] “carregador” [sa⎆ma⍧n⎅de] “ralador” [ka⎆la⍧ցi⎅ni] “peixe cascudinho” [ka⎆la⍧ցi⎅ni] “coco de buritana”
+
+/a/, /a/, /a/ [⎆na⍧h⎅‫ש‬e] [⎆na⍧h⎅‫ש‬e]
+[⎆na⍧⎅de]
+
+“aranha, tipo de.” “osso” folha de venedo
+
+/a/, /a/ [⎆waj‫ש‬i]
+
+“você”
+
+77
+
+[⎆waj⎅‫ש‬e] [kej⎆a⍧⎅de] [kej⎆a⍧⎅‫ש‬e] [⎆a⍧n⎅de] [⎆a⍧n⎅de]
+
+“açaí” “jacaré” “milho” “maribondo” “tatu, tipo de.”
+
+/a/, /o/ [ko⎆ma⍧ki⎅ni] “feijão” [sa⎆ma⍧ցi⎅ni] “formiga, tipo de.”
+
+/e/, /a/ [⎆wejki⎅ni]
+[⎆wajki⎅ni]
+
+“criança” “amendoim”
+
+/e/, /e/ [⎆dehi‫ש‬i] [⎆dehe‫ש‬i] [⎆e⍧hin⎅de] [e⎆hin⎅de]
+
+“abelha bujiú” “cobra” “jibóia” “homem”
+
+/a/, /e/ [⎆e⍧he⎅‫ש‬e] [⎆a⍧he⎅‫ש‬e]
+
+“machado” “abelha amarela”
+
+/o/, /u/, /u/ [⎆no⍧n⎅de] [⎆nu⍧n⎅de] [⎆hu⍧n⎅de]
+
+“bicho” “tatu” “peixe-juju”
+
+/o/, /o/ [⎆lo⍧‫ש‬i] [⎆lo⍧⎅‫ש‬e] [ho⎆lo⍧] [wo⎆lo⍧]
+
+“paca” “taúba” “campo” “caramujo”
+
+/u/, /u/, u/ [⎆du⍧⎅‫ש‬e] [⎆nuh⎅‫ש‬e] [⎆nuh]
+
+"posso pegar?" “calango” “nós”
+
+/u/, /u/
+
+78
+
+[⎅wai⎆ut⎅no] "pé" [⎅wai⎆u⍧⎅no] “boca”
+
+/u/, /u/ [⎅tu⎆nu⍧n⎅de] “posso dar?” [su⎆nu⍧n⎅de] “beija-flor”
+
+/u/, /u/ [⎆ku⍧n⎅de] [⎆ku⍧n⎅de]
+
+“jaboti” “macaco cuxiú”
+
+2.1.2.3. DESCRIÇÃO E DISTRIBUIÇÃO DOS SEGMENTOS VOCÁLICOS
+O sistema vocálico do Lakondê é composto por dezesseis fonemas, conforme o quadro abaixo46:
+
+Tabela 5. Fonemas vocálicos.
+
+FONEMAS VOCÁLICOS
+
+VOGAIS
+
+VOGAIS LARINGAIS47
+
+FRONTAIS CENTRAL POSTERIORES FRONTAIS CENTRAL POSTERIORES
+
+ALTAS
+
+i
+
+u
+
+i
+
+u
+
+ALTAS
+
+i
+
+u
+
+NASAIS
+
+MÉDIAS
+
+e
+
+o
+
+FECHADAS
+
+BAIXAS
+
+a
+
+i
+
+u
+
+e
+
+o
+
+a
+
+BAIXAS
+
+a
+
+a
+
+NASAIS
+
+46 O sistema vocálico do Lakondê coincide com o apresentado por Telles (2002) para o Latundê, no qual as vogais médias nasais não têm status fonológico. No Lakondê não identificamos nos dados contraste quanto à vogal média nasal, que pode ser nasalizada em ambiente nasal quando em posição átona. 47 Chamamos de vogal laringal as vogais que têm o traço laringal creaky voice.
+
+79
+2.1.2.3.1. VOGAIS ORAIS
+A língua Lakondê apresenta no seu sistema vocálico dez vogais orais, dentre as quais, cinco possuem o traço laringal. Através do contaste encontrado entre estas vogais em ambiente idêntico ou análogo, podemos afirmar o status fonológico das vogais laringais. As vogais laringais ocorrem no Lakondê com menor freqüência que as correspondentes não-laringais48. Em fala lenta, pode ocorrer variação, com a perda do traço laringal, o que pode indicar uma tendência à perda deste traço49.
+2.1.2.3.1.1. /i/ e /i/
+/i/ é uma vogal alta frontal cujo único alofone é [i], e /i/ é uma vogal alta frontal laringal, cujo único alofone é [i]. Tanto a vogal laringal quanto a nãolaringal pode ocorrer em qualquer posição da palavra. Na sílaba, /i/ e /i/ sempre ocupam posição de núcleo, sendo que a não-laringal pode ocupar a primeira ou a segunda posição, e a laringal apenas a primeira posição. Quando /i/ ocupa a primeira posição silábica, pode ser precedido por qualquer consoante exceto o glide palatal.
+48 Vogais com o traço laringal são menos comuns nas línguas do mundo do que vogais nãolaringais quanto à freqüência e à distribuição, o que pode explicar a menor ocorrência das vogais laringais no Lakondê. Este dado também coincide com o que ocorre nas línguas Latundê e Mamaindê. 49 Como este é um traço marcado, o contato/bilingüismo com o português pode resultar numa perda progressiva desse traço. No Lakondê, além disso, concorre para a perda do traço laringal, o fato de a falante não utilizar socialmente a língua há cerca de trinta anos.
+Eberhard (2009) e Telles (2002) também constataram uma grande variação entre vogais orais e laringais no Mamaindê e no Latundê, respectivamente, principalmente entre os falantes mais jovens. Os dois autores apontam para o contato com o Português como um dos principais fatores contribuintes para a variação. De acordo com Telles (2002, p.84-85) “as crianças [Latundê], as quais são expostas concomitantemente ao Latundê e ao português, desenvolvem a habilidade de fala primeiramente no português” e aprendem o Latundê tardiamente, por volta dos 10 aos 12 anos, adquirindo também tardiamente traços como a laringalização e o tom. Com relação aos falantes mais velhos, porém, o Latundê e o Mamaindê têm situações distintas: no Latundê, Telles (2002) explicita que, principalmente em fala lenta ou não espontânea, pode-se observar uma larga variação entre vogais laringais e não-laringais, ou mesmo o apagamento do traço laringal; Eberhard (2009) afirma que entre os falantes mais velhos do Mamaindê, o traço laringal é preservado e até mesmo enfatizado: “Elderly informants are quite adamant about the presence or absence of creaky voice in a given word, while the younger speakers are not nearly so concerned about this feature.” (p.98).
+
+80
+
+(126)
+
+[ki⎆ցi⍧⎅‫ש‬e] /ki⎆kih-⎆te/
+
+(127)
+
+[wi⎆a⍧n⎅de] /wi⎆an-⎆te/
+
+(128)
+
+[i⎆ta⍧n⎅de] /i⎆tan-⎆te/
+
+"cigarra” “jatobá” “folha de árvore”
+
+(129)
+
+[⎆haБki⎅ni] ~ [⎆haБki⎅ni] /⎆haБ-ka⎆ni/
+
+“cará”
+
+(130)
+
+[⎆hi⍧‫ש‬e⎅daցa⎅ni] ~ [⎆hi⍧‫ש‬e⎅daցi⎅ni] ~ [⎆hi⍧‫ש‬a⎅daցi⎅ni] /⎆hihteh-tah-ka⎆ni/
+
+“manga (fruta do branco)”
+
+(131)
+
+[wa⎆li⍧n⎅de] /wa⎆lin-⎆te/
+
+“tamanduazinho”
+
+Na segunda posição nuclear, /i/ pode ser precedido de vogal baixa, média anterior e alta posterior.
+
+(132)
+
+[tui⎆au] /tui⎆au/
+
+"jacamim"
+
+(133) [kei⎆u⍧⎅‫ש‬e]
+
+“asa branca”
+
+81
+
+/kei⎆uh-⎆te/
+
+(134)
+
+[⎆nai⎅‫ש‬e] /⎆naih-⎆te/
+
+“maribondo rajado”
+
+/i/ pode ser alongada, realizando-se [i⍧], em sílaba acentuada, seguida de coda nasal ou compensando o apagamento de coda silábica.
+
+(135)
+
+[⎆Ѐi⍧he⎅‫ש‬a] /⎆sin-heh-⎆tah/
+
+“abelha manduri”
+
+(136)
+
+[Ѐi⎆ցi⍧n⎅de] /sin⎆kin-⎆te/
+
+“capim sapé”
+
+/i/ tem maiores restrições quanto à distribuição do que a sua correspondente não-laringal: ocorre apenas seguindo as consoantes /k, m, n, h/. Diferente de /i/, a laringal não ocupa a segunda posição do núcleo silábico.
+
+(137)
+
+[je⎆liБցe⎅‫ש‬e] /ja⎆lin-kah-⎆te/
+
+"colar”
+
+(138)
+
+[⎆ki⍧te⎅‫ש‬e] /⎆kiБteh-⎆te/
+
+“macaco, tipo de.”
+
+2.1.2.3.1.2. /e/ e /e/
+
+/e/ é uma vogal média frontal e /e/ é uma vogal média frontal laringal. Os alofones são [e] e [e], respectivamente. Estas vogais ocorrem sempre na primeira posição do núcleo silábico. A vogal média frontal pode ocorrer em início,
+
+82
+
+meio e final de palavra, e não raro é seguida por /i/50. Também as consoantes /n/ e /h/ podem segui-la em coda silábica. /e/ não é precedida por consoante labial, exceto o glide.
+
+(139)
+
+[u⎆weid⎅nѐ] /u⎆wein-⎆nau/
+
+“buraco”
+
+(140)
+
+[i⍧⎆‫ש‬edni⎅‫ש‬a] /ih⎆ten-nih-⎆tan/
+
+“já vai comer”
+
+(141)
+
+[au⎆e⍧he⎅‫ש‬e] /au⎆eh-⎆te/
+
+“penugem”
+
+(142)
+
+[jube⎆li⍧⎅‫ש‬e] /junpe⎆lih-⎆te/
+
+“peixe-piau”
+
+/e/ pode ser alongada quando em posição de acento, em ambiente cuja coda silábica é apagada na superfície ou quando forma sílaba sozinha.
+
+(143)
+
+[⎆e⍧⎅‫ש‬an] /⎆eh-⎆tan/
+
+"eu vi"
+
+(144)
+
+[⎆je⍧hi] /⎆jeh-te/
+
+“está estragado”
+
+/e/ ocorre sempre em primeira posição de núcleo silábico, seguindo as consoantes /k, n, h/ e os glides /w, j/. A vogal média laringal pode ser seguida pelos mesmo segmentos que a sua correspondente não-laringal.
+50 Na segunda posição de núcleo silábico.
+
+83
+
+(145)
+
+[we⎆deБn⎅de] /wan⎆ten-⎆te/
+
+(146)
+
+[⎆e⍧he⎅‫ש‬e] /⎆eh-⎆te/
+
+“tamanduá grande” “machado”
+
+2.1.2.3.1.3. /a/ e /a/
+
+A vogal baixa central, /a/, e a vogal baixa central laringal, /a/, são bastante ocorrentes no Lakondê51 e podem aparecer em qualquer posição da palavra. Na sílaba, ocupam sempre a primeira posição do núcleo, podendo ocorrer sozinhas ou acompanhadas de [u, i]. Os alofones observados para /a/ são [a], vogal baixa central e [ѩ], vogal média baixa frontal. O único alofone de /a/ é [a]52.
+[a] e [a] são os alofones mais freqüentes, podendo ocorrer em sílaba tônica ou átona, como segmento único no núcleo silábico ou acompanhado de /u, i/. Esses alofones também são os que ocorrem quando /a/ e /a/ formam sílaba sozinhas. Em sílaba com coda, mesmo quando esta não é realizada, [a] e [a] podem sofrer alongamento.
+
+(147)
+
+[⎆au‫ש‬e⎅de] ~ [⎆au⎅‫ש‬e] ~ [⎆ѐh⎅‫ש‬e]53 /⎆auh-⎆te/
+
+“flecha”
+
+51 A vogal central baixa, /a/ é a mais freqüente na língua, já a central baixa laringal, /a/ tem a maior freqüência entre as laringais. Porém, ainda é menos freqüente que as demais vogais não-laringais. 52 Não foi observado nos dados ocorrência da vogal média central laringal, [ѩ]. A correspondente não-laringal ocorre apenas em ambiente átono, preferencialmente em final de palavra. É possível que, por isso, o traço laringal tenha sido neutralizado pela falante. Este dado coincide com o que ocorre no Latundê. De acordo com Telles (2002, p.84): “Sons menos freqüentes e mais raros nas línguas do mundo, portanto não-universais, sobretudo em situações de línguas em contato, tendem a mudar com o passar do tempo, caminhando em direção à perda dos traços menos naturais.”. 53 A fusão dos ditongos será discutida na seção 2.3.7.1. Monotongação ou coalescência vocálica.
+
+84
+
+(148)
+
+[⎆kain⎅de] /⎆kain-⎆te/
+
+(149)
+
+[ta⎆la⍧n] /ta⎆lan/
+
+(150)
+
+[iu⎆a⍧n⎅da] /iu⎆an-⎆tah/
+
+(151)
+
+[⎆na⍧ni⎅‫ש‬a] /⎆nan-nih-tan/
+
+“formiga, tipo de.” “jacá” “gambá” “amanheceu”
+
+(152)
+
+[ke⎅li⍧wa⎆la⍧] /ke⎆lih-wa⎆lah/
+
+“cobra cascavel”
+
+(153)
+
+[da⎆nah⎅de] /ta-nan-te/
+
+“mãe”
+
+O alofone [ѩ] é pouco freqüente e ocorre apenas em final de palavra, em sílaba aberta e átona e pode variar livremente com [a].
+
+(154)
+
+[⎆kaha⎅tanѩ] ~ [⎆kaha⎅tana] ~ [⎆ka⍧⎅‫ש‬a⍧nda] /⎆kah-⎆tan-ta/
+
+“está azedo”
+
+(155)
+
+[⎆pun⎅ta⍧nѩ] /⎆punБ-⎆tan-ta/
+
+"cidreira"
+
+85
+
+(156)
+
+[⎆mi⍧hi⎅‫ש‬anѩ] ~ [⎆mi⍧h⎅‫ש‬anѩ] ~ [⎆mi⍧hi⎅‫ש‬ana] /⎆mih-⎆tan-ta/
+
+“chover”
+
+2.1.2.3.1.4. /o/ e /o/
+
+/o/ é uma vogal média posterior, e /o/ é uma vogal média posterior laringal, cujos alofones são [o] e [o], respectivamente. Ambas ocorrem como único segmento do núcleo silábico ou em primeira posição seguidas por /u/. A vogal não-laringal só não se realiza após a oclusiva labial, /p/.
+
+(157)
+
+[to⎆thѐ] /toh⎆taun/
+
+“café”
+
+(158)
+
+[⎆louБ⎅iknau⎅‫ש‬e] /⎆lounБ-i-ka⎆ni-nauh-⎆te/
+
+“ratinho”
+
+(159)
+
+[wo⎆luБn⎅dan] /wo⎆lun-⎆tan/
+
+“está relampeando”
+
+/o/ realiza-se seguindo as mesmas consoantes que a correspondente não-laringal.
+
+(160)
+
+[⎆soБցi⎅ni] /⎆soun-ka⎆ni/
+
+“fruta”
+
+(161) [ko⎆lo⍧h⎅‫ש‬e]
+
+“capim d’água”
+
+86
+
+/ka⎆loh-⎆te/
+
+Em posição de acento, em sílaba fechada, /o/ e /o/ podem sofrer alongamento compensatório decorrente do apagamento da coda.
+
+(162)
+
+[⎆do⍧ha⎅no] /⎆toБ-han-⎆naun/
+
+“açúcar do branco”
+
+(163)
+
+[lo⍧⎅‫ש‬an] ~ [lo⍧han] /⎆loh-⎆tan/
+
+“vomitar”
+
+(164) (165)
+
+[ko⎆lo⍧n⎅de] /ko⎆lon-⎆te/ [⎆mo⍧na⎅‫ש‬anѩ] /⎆mon-tah-⎆tan-ta/
+
+“grilo” “é bonito”
+
+Em sílabas átonas, em ambiente nasal, não raro a vogal média posterior realiza-se nasalizada54, podendo variar livremente com a vogal oral.
+
+(166)
+
+[o⎆no⍧ko⎅‫ש‬a⎅‫ש‬ana] ~ [o⎆no⍧ko⎅‫ש‬a⎅‫ש‬ana] /o⎆noh-kah-⎆tah-⎆tan-ta/
+
+“está pendurado”
+
+(167)
+
+[⎆doho⎅nai] ~ [⎆doh⎅nai] ~ [⎆doho⎅nai] /⎆toh-⎆nain/
+
+“abelha mandurizinha”
+
+54 O espraiamento do traço nasal no Lakondê se dá apenas para a vogal mais à esquerda, quando esta está em posição átona. Vogais orais em posição tônica não são nasalizadas. Isso será retomado na seção 2.3.2.1. Nasalização.
+
+87
+
+(168)
+
+[ka⎆ka‫ש‬o⎅ni] ~ [ka⎆ka‫ש‬u⎅ni] ~ [ka⎆ka‫ש‬u⎅ni] /ka⎆kah-toh-ka⎆ni/
+
+“abacaxi”
+
+2.1.2.3.1.5. /u/ e /u/
+
+/u/ é uma vogal alta posterior e /u/ é uma vogal alta posterior laringal. Os únicos alofones observados são [u] e [u], respectivamente. As duas vogais podem aparecer em qualquer posição da palavra. Na sílaba, ambas podem ocorrer sozinhas no núcleo. A não-laringal pode ainda ocorrer formando núcleo ramificado com /i/, ou na segunda posição do núcleo ramificado, seguindo as vogais orais /i, a, a, o/ e a nasal /a/.
+
+(169)
+
+[⎆auhi⎅‫ש‬a] /⎆auh-tih-⎆tan/
+
+“trançar”
+
+(170)
+
+[ka⎆ma⍧‫ש‬u⎅daցi⎅ni] /ka⎆mah-tun-⎆tan-ka⎆ni/
+
+“fava”
+
+(171)
+
+[⎆duБn⎅tedni⎅‫ש‬a] /⎆tunБ-⎆ten-nih-⎆tan/
+
+“casar”
+
+Assim como as demais vogais, /u/ e /u/ podem ser alongadas quando em sílaba fechada acentuada, quando a coda é apagada ou quando a coda é nasal.
+
+(172)
+
+[⎆ku⍧n⎅de] /⎆kun-⎆te/
+
+“algodão”
+
+88
+
+(173)
+
+[⎆ju⍧Бn⎅da] /jun-tah/
+
+(174)
+
+[so⎆ցu⍧ցe⎅da] ~ [so⎆ցu⍧ցe] /son⎆kunken-⎆tah/
+
+(175)
+
+[naցa⎆‫ש‬uh] ~ [naցa⎆‫ש‬u⍧] ~ [na⎆ց‫ש‬u⍧h] /⎆nan-kah-⎆tuh/
+
+“piúva” “gafanhoto” “água”
+
+2.1.2.3.2. VOGAIS NASAIS
+O sistema vocálico do Lakondê conta com seis vogais nasais, dentre as quais, três têm também o traço laringal. As vogais nasais são comuns na língua, mas menos freqüentes que as vogais orais. As vogais nasais laringais, no entanto, são as menos freqüentes dentre todos os tipos de vogais. Na sílaba, as vogais nasais podem ocorrer sozinhas no núcleo ou ocupar a primeira posição do núcleo ramificado, seguidas de vogal alta na segunda posição.
+No Lakondê observamos a ocorrência de vogais nasais e vogais nasalizadas, que podem ser justificas a partir das evidências que seguem:
+(1) Vogais nasais e orais são contrastivas em sílabas tônicas, em mesmo ambiente ou em ambiente análogo. Em sílaba átona, no entanto, não há contraste.
+(2) A nasalização é apenas regressiva e atinge somente vogal em sílaba átona. Em silaba tônica as vogais orais, mesmo em ambiente nasal, não assimilam este traço e, na maior parte dos casos, são alongadas, o que contribui para a manutenção do traço oral.
+(3) Embora seja mais raro, encontramos vogais nasais em ambiente oral, sem coda silábica nasal que possa favorecer a nasalização, o que indica que
+
+89
+as vogais nasais existem per si, sem necessariamente serem resultado de processo fonológico.
+
+2.1.2.3.2.1. /i/ e /i/
+/ i/ é uma vogal alta frontal nasal e / i/ é uma vogal alta frontal nasal laringal. Os alofones são, respectivamente, [i] e [i]. A vogal alta frontal nasal ocorre em início, meio e final de palavra e pode formar sílaba sozinha55. /i/ pode seguir as consoantes /k, m, n, l, h/ e ser seguida por /u/ ou por consoante glotal ou nasal em coda56 ou qualquer consoante em onset da sílaba seguinte.
+
+(176)
+
+[ihi⎆mi⍧n⎅de] /ih⎆min-⎆te/
+
+“pássaro nambuzinho”
+
+(177)
+
+[ka⎅ka‫ש‬u⎅ni] /ka⎆kah-⎆toh-ka⎆ni/
+
+“abacaxi”
+
+(178)
+
+[⎅ida⎆‫ש‬aum] /⎅i-tah-⎆taun/
+
+“rabo (de qualquer bicho)”
+
+A ocorrência de / i/ é ainda mais restrita, além de pouquíssimo freqüente. A vogal alta frontal laringal nasal ocorre apenas seguindo as consoantes /m, n, h/ e pode ser seguida pelas mesmas consoantes que a sua correspondente não-laringal.
+
+55 Em início de palavra, temos como exemplo o morfema i-, classificador nominal semanticamente
+nulo, afixado na base lexical “quando o referente ainda não foi expresso” (TELLES, 2002. p.193) A existência desse classificador é mais uma evidência do status fonológico da vogal alta frontal nasal. 56 Neste caso, em sílaba acentuada.
+
+(179)
+
+[⎅e⍧⎆hi⍧n⎅de] /⎆e-⎆hin-⎆te/
+
+(180)
+
+[da⎅mi⎆haБ] /ta-⎆min-⎆haБ/
+
+90 “cobra jibóia” “vamos fazer sexo (imp.)”
+
+2.1.2.3.2.2. /a/ e /a/
+/a/ é uma vogal baixa central nasal e /a/ é uma vogal baixa central laringal nasal. Os alofones são, respectivamente, [a] e [a]. /a/ pode formar sílaba sozinha57. Não raro, encontramos também a vogal baixa central nasal em meio ou final de palavra, sem a presença de coda nasal na sílaba.
+
+(181)
+
+[⎅aha⎆ni⍧⎅te] /⎆a-ha⎆niБ-⎆te/
+
+“está gordo”
+
+(182)
+
+[nu⎆kada⎆‫ש‬a] /nu⎆kan-tah-⎆tan/
+
+“estou fraco”
+
+/a/ pode ocorrer em sílaba aberta formando ditongo com /u, i/. Neste caso, pode haver a fusão entre os segmentos, resultando nas realizações [o] e [e], respectivamente.
+
+(183)
+
+[wa⎆liց⎅ni⎅nau] ~ [wa⎆liց⎅ni⎅no] /⎆wai-⎆lin-ka⎆ni-⎆naun/
+
+“olho”
+
+57 Em início de palavra encontramos /a/ em raiz lexical.
+
+91
+
+(184)
+
+[⎅wek⎆wai⎅naw] ~ [⎅wek⎆wai⎅no] /⎆wek-⎆wai-⎆naun/
+
+“filha”
+
+(185)
+
+[ka⎆mauցi⎅ni] ~ [ka⎆mo⍧ցi⎅ni] /ka-⎆maun-ka⎆ni/
+
+“cupim, tipo de.”
+
+/a/ pode também ocorrer em sílaba fechada, com coda nasal. Neste caso, sempre em posição de acento.
+
+(186) [na⎆ցa⍧n⎅da]
+
+“calango grande”
+
+/nan⎆kan-⎆tah/
+
+(187) [⎆wi⍧⎅‫ש‬a⍧nda] ~ [⎆wi⍧⎅‫ש‬andѩ] ~
+
+“ele está comendo”
+
+[⎆mi⍧⎅‫ש‬anda] ~ [⎆Єi⍧⎅‫ש‬anda]
+
+/⎆wih-⎆tan-ta/
+
+/a/ ocorre nos mesmos ambientes que a sua correspondente não-
+
+laringal, exceto formando ditongos. A vogal baixa central laringal nasal é pouco freqüente, mas ainda mais freqüente que as demais vogais laringais nasais.
+
+(188)
+
+[⎆na⍧⎅de] /⎆nan-⎅te/
+
+"folha de veneno"
+
+2.1.2.3.2.3. /u/ e /u/
+
+/u/ e /u/ são, respectivamente, uma vogal alta posterior nasal e uma
+vogal alta posterior laringal nasal, cujos alofones são [u] e [u], respectivamente. Como evidência do status fonológico destas vogais, além do contraste com vogal oral em sílaba acentuada, observamos a presença da vogal nasal seguido de coda glotal, sem a presença de consoante nasal que possa propiciar a nasalização.
+
+92
+
+/u/ e /u/ ocorrem sempre sozinhos no núcleo silábico. A não laringal pode ser precedida por qualquer consoante, exceto os glides. A laringal, porém, só pode ocorre precedida por /n, h/.
+
+(189)
+
+[u⎆weid⎅no] /u-⎆wein-⎆naun/
+
+“buraco”
+
+(190)
+
+[⎆noБu⎅da] /⎆noБ-un-⎆tah/
+
+“anta”
+
+(191) (192)
+
+[⎆nuhnau⎅‫ש‬e] /⎆nuh-nauh-⎆te/ [⎆ku⍧n⎅de] ~ [⎆ku⍧n⎅de] /⎆kun-⎆de/
+
+“nós todos” "cipó-do-campo"
+
+2.1.2.3.3. DITONGOS
+Em Lakondê, observamos a ocorrência apenas de ditongos decrescentes, os quais são formados por duas vogais e ocupam sempre a posição de núcleo silábico. Consideramos como ditongos as seqüências do tipo VV que fazem parte do núcleo silábico. Em Lakondê encontramos sequencias do tipo GV (glide + vogal), mas não as consideramos como ditongos, por assumirmos o ditongo como uma sequencia do tipo VV, formado por uma única vogal “com qualidade vocálica que muda constantemente ao longo de sua duração” (CAGLIARI, 2002, p.75) – tendo, portanto, dois pontos de articulação, ou dois nós vocálicos58 – e ocupa o núcleo silábico. Do ponto de vista fonético, entretanto, não observamos diferença entre o glide e a vogal da segunda posição nuclear59.
+58 Para tanto, nos apoiamos na definição de ditongo de Ladefoged (2001) e Cagliari (2002), segundo os quais o ditongo é uma vogal que muda de qualidade, tendo o início e o final como pontos de maior proeminência auditiva. 59 A adoção de um núcleo silábico do tipo VV e não VG tem implicação teórica, e não fonética, e visa a distinção do segmento que ocupa o onset silábico do segmento que ocupa a segunda posição nuclear, tomando como base os comportamentos distintos apresentados por eles. Do ponto de vista fonético, porém, não há distinção entre os dois segmentos.
+
+93
+
+Os comportamentos do glide em onset e do segundo segmento do ditongo são diferentes, bem como os processos que cada um deles engatilha. A fusão de segmentos só ocorre entre os ditongos decrescentes, assim como o ponto de articulação da consoante nasal em coda é influenciado pela vogal que a antecede. Se admitirmos que temos uma seqüência VG, então teríamos duas classes distintas de segmentos engatilhando este processo. Por outro lado, apenas os glides em onset silábico podem ser realizados como consoantes, ocorrendo com freqüência diante de ditongos decrescentes.
+Os ditongos em Lakondê podem ter na primeira posição as vogais anteriores, /i, e/, a vogal central baixa, /a/, e vogal média posterior /o/. Na segunda
+posição do ditongo são permitidas apenas as vogais altas, /i, u/. As seqüências permitidas estão apresentadas na tabela 6.
+
+i e, e a, a, a o, o u
+
+Tabela 6. Ditongos.
+DITONGOS u iu
+au, au, au ou
+
+i
+ei, ei ai, ai, ai
+ui
+
+Os ditongos podem ocorrer em início, meio ou final de palavra. Ocorrem com maior freqüência em sílaba do tipo /CVVC/, em posição de acento. Embora menos recorrente, podem também ocorrer sem a presença de consoante em onset ou em coda silábica, ou ainda formar sílaba sozinhos.
+
+(193) /VV/
+
+/iu⎆auБ-tih-⎆tan/
+
+“assobiar”
+
+(194) /CVV/
+
+/⎆aika-⎆nauh-⎆te/ /ja⎆jau-⎆hun-⎆te/
+
+“passarinho” “escorpião”
+
+94
+
+/⎆weiБ-⎆wai-⎆naun/
+
+“filha mulher”
+
+/jai⎆lauh-⎆te/
+
+“araruta”
+
+(195) /VVC/
+
+/⎆ain/
+
+“peixe
+
+/⎆ain-⎆tan/
+
+“estou andando”
+
+(196) /CVVC/
+
+/un-⎆wein-⎆naun/
+
+“buraco”
+
+/ka⎆loun-⎆weiБ-⎆nauh-⎆te/ /⎆an-ta⎆nain-⎆ke/
+
+“barata pequena” “raiz de folha de maribondo”
+
+/⎆tuiБ-kah-⎆te/
+
+“besouro tesoureiro grande”
+
+Na superfície, alguns ditongos podem ser fusionados, sendo realizados como um único segmento60, que pode preservar ou não os traços de lagaringalidade e nasalidade presentes em um dos segmentos do ditongo.
+
+(197)
+
+au > ѐ [hau⎆ѐh⎅‫ש‬e] [⎆ѐ⍧⎅‫ש‬e] [kѐ⎆ainցo⎅lo]
+
+/hau⎆auh-⎆te/ /⎆auh-⎆te/ /kau⎆ain-ka⎆loh/
+
+"balaio" “arco” “abanador”
+
+(198)
+
+au > ѐ [⎅nѐa⎆da⍧⎅‫ש‬e]
+
+/⎅nauan-⎆tah-⎅te/
+
+“abelha, tipo de.”
+
+60 A monotongação será discutida na seção 2.3.7.1. Monotongação ou coalescência vocálica.
+
+95
+
+(199) (200)
+
+au > o [⎅waiwi⎆no] [wo⎆naki⎅ni]
+ai > ϯ [jϯ⎅la⎆tein⎅de] [jϯ⎆lauցi⎅ni]
+
+/⎆wai-wih-⎆naun/ /wau⎆nah-ka⎆ni/
+
+“dente” “castanha”
+
+/jai⎆lah-⎆ten-⎆te/ /jai⎆laun-ka⎆ni/
+
+“papo de bicho” “tucumã”
+
+96
+2.2. A SÍLABA
+Nesta seção, apresentaremos a sílaba em Lakondê. Iniciaremos mostrando os tipos silábicos que se realizam foneticamente, os quais não coincidem completamente com os tipos silábicos com status fonológico, e a estrutura da sílaba fonética. Em seguida, mostraremos a sílaba fonológica: os tipos e a estrutura. Verificamos, no Lakondê, uma quantidade equivalente de sílabas fonológicas fechadas e sílabas fonológicas abertas. Quando se trata de sílaba acentuada, a freqüência com que ocorrem as sílabas fonológicas fechadas, no entanto, é bem superior. Na superfície, porém, esse número é reduzido em decorrência de processos fonológicos.
+Sílabas com a presença de um segmento no onset, tanto na superfície quanto na subjacência, são as mais freqüentes, sendo raras as ocorrências de sílabas sem este segmento. Na superfície, em fala rápida, observamos ainda a realização de sílabas com dois segmentos no onset, também decorrentes de processo fonológico. Em fala mais lenta, porém, o grupo consonantal em onset é desfeito e ocorre ressilabificação. Quanto ao núcleo, único elemento obrigatório da sílaba, pode ser simples ou ramificado e é ocupado apenas por vogais, as quais podem ser orais, orais laringais, nasais ou nasais laringais.
+A seguir apresentaremos os tipos silábicos observados no Lakondê.
+2.2.1. A SÍLABA FONÉTICA
+A sílaba fonética do Lakondê pode apresentar uma forma divergente da sua forma fonológica. Isto ocorre porque na língua podemos evidenciar processos que resultam em formas fonéticas diferentes, como o apagamento e a redução silábica e a fusão de fonemas61. Nesta seção, apresentaremos a sílaba fonética do Lakondê, independente da sua forma fonológica, visando a apresentar o contraste existente entre as duas formas.
+61 Os processos fonológicos serão apresentados e discutidos na seção 2.3. Processos Fonológicos.
+
+97
+Na língua Lakondê, observamos os seguintes tipos silábicos: [V], [VV], [CV], [CCV], [CVV], [VC], [VVC], [CVVC], [CVC], [CVCC], [VVCC], [CVVCC]. Dentre os quais, os tipos [CCV] e [VVCC] não se confirmam fonologicamente62.
+A seguir, descreveremos cada tipo silábico fonético e o seu comportamento.
+
+2.2.1.1. SÍLABAS ABERTAS
+
+2.2.1.1.1. [V]
+A sílaba aberta composta apenas pela vogal nuclear ocorre com pouca freqüência e apenas em início ou meio de palavra. Todas as vogais, simples ou longas, podem ocupar a posição nuclear deste tipo silábico, sendo que, apenas as vogais longas podem ser acentuadas.
+
+(201) /on.⎆tuh.⎆te/
+
+[o.⎆du⍧‫ܒ‬.‫ש‬e] ~ “urucum” [o.⎆du⍧.‫ש‬e]
+
+(202) /kei.⎆an.⎆te/
+
+[kei.⎆a⍧.de]
+
+“jacaré”
+
+(203) /noБ.⎆un.⎆tah/
+
+[noБ.⎅u.⎆da]
+
+“anta”
+
+(204) /⎅eБ.⎆kah.⎆te/
+
+[⎅e⍧.⎆ka⍧.⎅‫ש‬e]
+
+“fogo/ fogueira”
+
+(205) /⎆un.kah.⎆te/
+
+[⎆u⍧.ցo.⎅‫ש‬e]
+
+“irara”
+
+(206) /a.⎆lain.⎆te/
+
+[a⎆lain⎅de]
+
+“bicho-preguiça”
+
+62 O processo que leva à formação de grupo consonantal em onset silábico, resultando na realização de sílaba do tipo [CCV], será discutido na seção 2.3.5.1. Redução e apagamento silábico.
+
+98
+
+(207) (208)
+
+/⎆oh.⎆te/ /⎆i.ka⎆loh/
+
+[⎆o⍧⎅he] [⎅iցo⎆lo]
+
+“macuco” “casca”
+
+2.2.1.1.2. [VV]
+Sílabas constituídas apenas pelo núcleo ramificado são mais freqüentes do que as sílabas do tipo [V]. Podem vir em início, meio e final de palavra, em posição de acento ou átona. Encontramos nos dados analisados sílabas [VV] formadas apenas por [au], [ai], [ei] e [ui].
+
+(209) /tui.⎆au/
+
+[tui.⎆au]
+
+"jacamim, tipo de ave"
+
+(210) /au.⎆eh.⎆te/ (211) /ei.⎆hin.⎆te/
+
+[au.⎆e⍧.he⎅‫ש‬e] ~ [au.⎆eh.⎅‫ש‬e]
+[ei.⎆hi.⎅de]
+
+“pêlo” “jibóia, tipo de cobra”
+
+(212) /⎆auh.⎆te/
+
+[⎆au.⎅‫ש‬e]
+
+“flecha”
+
+(213) /ui.⎆an.⎆te/
+
+[ui.⎆a⍧n.⎅de]
+
+“jatobá”
+
+(214) /⎆ai.ka.⎆na/
+
+[⎅ai.ka.⎆na]
+
+“ovo”
+
+(215) /⎆tai.au.⎆tan/
+
+[⎅daϯ.au.⎆ta]
+
+“minha terra”
+
+2.2.1.1.3. [CV]
+O tipo de sílaba aberta [CV], assim como ocorre na maior parte das línguas do mundo, é o tipo mais freqüente em Lakondê. Esta sílaba pode ocorrer
+
+99
+
+em início, meio ou final de palavra. Normalmente, não é sílaba acentuada, exceto quando o núcleo é formado por vogal longa ou nasal ou quando, sozinha, forma um morfema.
+
+(216) /sa.⎆pan.ka.⎆ni/
+
+[so.⎆ban.ցi.⎅ni]
+
+”taioba”
+
+(217) /na.⎆hoh.ne/
+
+[na.⎆hoh.ne]
+
+“chicha”
+
+(218) /⎆hun.kah.⎆te/ (219) /to.⎆tau/ (220) /⎆sih.te/
+
+[⎆hu⍧.ցe.⎅‫ש‬e] [to.⎆thѐ] [⎆Ѐi⍧.‫ש‬i]
+
+“arco” “café” “cesto”
+
+(221) /⎆deh.⎆te/
+
+[⎆de⍧⎅he]
+
+“cobre, tipo de.”
+
+(222) /⎆weh.tah.⎆tan/
+
+[⎆we⍧.‫ש‬e.⎅‫ש‬an]
+
+“perdeu”
+
+(223) /ka.⎆lan.ka.⎆ni/
+
+[ka⎆la⍧ցi⎅ni]
+
+“peixecascudinho”
+
+2.2.1.1.4. [CCV]
+
+Este tipo de sílaba é pouco freqüente e pode ocorrer em final de palavra, normalmente, em fala rápida63. As únicas vogais que ocupam a posição nuclear são [a] e [e]. Quando a vogal nuclear é nasal, a sílaba é acentuada. Neste tipo silábico, o onset complexo pode ser formado por consoante oclusiva alveolar ou nasal, [t, d, k, ց], seguida pelo flap, [‫]ש‬.
+
+63 Sílabas com onset complexo são decorrentes de processo fonológico e, por isso, não têm status fonológico no Lakondê. O processo de redução e apagamento silábico, o qual pode resultar na ressilabificação da palavra e formação de grupo consonantal na posição de onset silábico será discutido na seção 2.3.5.1. Redução e apagamento silábico.
+
+100
+
+(224) /ha.⎆lah.kah.⎆te/
+
+[ha.⎆la⍧.k‫ש‬e]
+
+"pente”
+
+(225) /⎆mon.⎆sei.tah.⎆tan/ [⎆mo⍧.⎅Ѐei.⎅t‫ש‬a]
+
+"falar bonito”
+
+(226) /⎆on.tah.⎆tan/
+
+[⎆odn.⎅d‫ש‬a]
+
+“preguiça”
+
+(227) /na.sa.⎆lan.kah.⎆te/ [na.sa.⎆la⍧.⎅ց‫ש‬e]
+
+“boi”
+
+2.2.1.1.5. [CVV]
+
+Este tipo silábico, apesar de freqüente na língua, tem bastantes restrições quanto aos segmentos que o compõe. Na posição de onset, apenas a oclusiva glotal não é licenciada. A primeira posição do núcleo só pode ser ocupada pelas vogais [a, a, a, e, e, e, o, o, o], e a segunda posição, somente é
+ocupada por [i, u]. Na maior parte dos casos, a sílaba deste tipo é acentuada.
+
+(228) /⎆waih.⎆te/
+
+[⎆wai.he.⎅‫ש‬e]
+
+"cerejeira"
+
+(229)
+
+/ka.⎆loh.⎆weiБ.⎆nauh.⎆te/ [ko.⎅lo⍧.⎆weit.⎅nau⎅‫ש‬e]
+
+"barata, tipo de."
+
+(230) /kon.⎆paih.⎆te/
+
+[ko⍧.⎆bai.⎅‫ש‬e]
+
+(231) /lauh.⎆tah.⎆te/
+
+[lau.⎆‫ש‬a⍧.⎅‫ש‬e]
+
+"tatu-quinzequilos"
+“arara”
+
+(232) /kei.⎆aun.kah.⎆te/ [kei.⎆au.ցe.⎅de]
+
+“homem
+
+(233) /⎆lou.ka.⎆ni.⎆nauh.⎆te/ [⎅lou.ik.⎆nau.⎅‫ש‬e]
+
+(234) /⎆jaun.nauh.⎆te/
+
+[⎆jau.nau.⎅‫ש‬e]
+
+101
+branco” “ratinho” “macaco da noite”
+
+2.2.1.2. SÍLABAS FECHADAS
+
+2.2.1.2.1. [VC]
+
+Assim como acontece com os demais tipos silábicos cuja posição de onset é ausente, esta sílaba é pouco freqüente no Lakondê. Normalmente, em posição de acento, a presença de vogal longa é bastante comum nesta sílaba, especialmente quando a vogal nuclear é oral. Qualquer vogal, no entanto, pode ocupar o núcleo silábico. A coda, porém, só pode ser ocupada por consoante oclusiva glotal, [Б], nasal, [m], [n], [dn] ou [bm], e fricativa glotal, [h].
+
+(235) /kei.⎆ih.⎆te/
+
+[kei.⎆i⍧h⎅‫ש‬e]
+
+"pachiúba, tipo de árvore"
+
+(236) /hau.⎆auh.⎆te/
+
+[hau⎆ѐh⎅‫ש‬e]
+
+“balaio”
+
+(237) /soБ.⎆an.⎆te/
+
+[so⍧⎆an.⎅de]
+
+“sol”
+
+(238) /aun.⎆taun.⎆taun/ [am.⎆dam.⎆dam] “jogar fora”
+
+(239) /⎆anБ.toh.tah.⎆tan/ [⎆a⍧Б.do⍧.‫ש‬e.⎅‫ש‬an] “febre”
+
+102
+
+2.2.1.2.2. [VVC]
+Assim como ocorre com as sílabas do tipo [VC], as sílabas [VVC] são pouco comuns, pois há, no Lakondê, uma preferência pela posição de onset ocupada. Neste tipo silábico, apenas as vogais [e, e, a, a,] podem ocupar a primeira posição do núcleo. A segunda posição nuclear é sempre ocupada por uma vogal alta, [i, u]. A coda pode ser ocupada por uma consoante nasal, [m, n], nasal pré-oralizada, [bm, dn], ou oclusiva glotal, [Б]64. A sílaba do tipo [VVC] é sempre acentuada.
+(240) /⎆aiБ.ka.⎆ni.nauh.⎆te/ [⎆aiБ.ka.naw.⎅‫ש‬e] “passarinho”
+
+(241) /kau.⎆aiБ.⎆hun/
+
+[kѐ⎆aiБ⎅hu]
+
+"abanador"
+
+(242) /tau.⎆aun.⎆paБ/ (243) /⎆ain/ (244) /⎆ain.⎆tan/ (245) /⎆en.⎆te/
+
+[tau.⎆aum.⎅ba] [⎆ain] [⎆aidn.⎅dan] [⎆ein.⎅de]
+
+“guardar dentro” “peixe” “eu estou andando” “lua”
+
+2.2.1.2.3. [VVCC]
+Este tipo silábico é, talvez, o menos freqüente da língua, primeiro pela ausência de onset, que no Lakondê é pouco comum; segundo, pela coda ramificada, que também não ocorre com grande constância. Apenas duas vogais podem ocupar a primeira posição do núcleo silábico: [a] e [e]. A segunda posição
+64 Não encontramos nos dados a realização de sílaba do tipo [VVC] com a consoante fricativa glotal, [h], na coda.
+
+103
+
+pode ser ocupada por [i] ou [u], sendo que esta última nunca segue a vogal média. A coda ramificada, assim como nos demais casos em que esta ocorre, é formada sempre por uma consoante nasal, [m] ou [n] seguida de uma oclusiva glotal, [Б].
+
+(246) /⎆aun.⎆tah/
+
+[⎆aumБ.⎅da]
+
+“papagaio grande”
+
+(247) /⎆ainБ.⎆tah.⎆te/
+
+[⎅ainБ.⎆ta⍧.⎅‫ש‬e]
+
+“cantar”
+
+(248) /kou.⎆ein.ka.⎆ni/ [kou.⎆einБ.ցi.⎅ni] “abóbora”
+
+(249) /⎆ain.koun.⎆piБ/
+
+[⎆ainБ.ցou.⎅bi⍧]
+
+“peixe-cachorro”
+
+2.2.1.2.4. [CVC]
+O tipo silábico [CVC] é bastante comum no Lakondê65 e pode vir em todas as posições da palavra. Todas as consoantes, exceto a oclusiva glotal, [Б], podem ocupar a posição de onset silábico. O núcleo pode ser ocupado por qualquer vogal, oral ou nasal, simples ou longa. Na posição de coda, apenas as consoantes nasais [n, m, Бn, dn, ց֊], as oclusivas alveolares [t, d] e as glotais [h, Б] podem aparecer. Este tipo de sílaba é sempre acentuado.
+
+(250) /⎆noБ.⎆un.⎆tah/
+
+[⎅noБ.⎅u.⎆ba]
+
+"anta"
+
+(251) /⎆nan.kah.⎆tuh/
+
+[⎅na.ha.⎆‫ש‬uh] ~ [naցa⎆‫ש‬uh]
+
+"água de beber"
+
+65 Este dado está em conformidade com o dado encontrado nas demais línguas Nambikwára do Norte, que têm um número bastante expressivo de sílabas com posição de onset e coda ocupados.
+
+104
+
+(252) /⎆lin.⎆nan.⎆te/
+
+[⎅lid⎆na⍧n⎅de]
+
+“folha de mandioca braba”
+
+(253) /ju⎆an.⎆an.⎆tan.si/ [iu.⎆a⍧.an.⎆dan.tЀi] “você mentiu”
+
+(254) /wah.⎆tan.⎆te/
+
+[wa.⎆‫ש‬a⍧Б.⎅de]
+
+“panela”
+
+(255) /nan.kan.⎆ton.tah.⎆tan/ [na.ցa.⎆do⍧Б.⎅d‫ש‬a] “estou com sede”
+
+(256) /ta.⎆lon.⎆tah/
+
+[ta.⎆lo⍧n.⎅da]
+
+“está pronto”
+
+(257) /⎆i.⎆sin.⎆soБ.tah.⎆tan/ [i.⎆ЀiБn.⎆ЀoБ.da.‫ש‬an] “carne”
+
+(258) /ju.⎆lun.⎆tan.⎆te/
+
+[ju⎆ludn⎅ta⍧n⎅de] “pau de gameleira”
+
+(259) /tai.⎆on.⎆tan.ta/
+
+[⎅dai.⎆odn.⎅da.na] “eu tenho preguiça”
+
+2.2.1.2.5. [CVVC]
+O tipo silábico [CVVC] ocorre preferencialmente em início e meio de palavra, e sempre em posição de acento. Qualquer consoante oclusiva – exceto a glotal – nasal ou fricativa pode ocupar a posição de onset. A primeira posição do núcleo é ocupada preferencialmente pela vogal baixa, [a], ou a vogal média anterior, [e]66. A segunda posição do núcleo só pode ser ocupada por vogal alta, sendo que a seqüência *[eu] nunca ocorre. A coda silábica pode ser ocupada por uma consoante oclusiva, [t, d, k, Б], ou nasal, [n, m, Бn, dn, bm, ց֊].
+
+66 Encontramos em Lakondê apenas uma exceção, em /⎆tuiБkah⎆te/, [»tuiБke»‫ש‬e], “Besourotesoureiro grande”, na qual o núcleo é a vogal alta posterior, [u].
+
+105
+
+(260) /⎆waiБ.⎆na/
+
+[⎆wait.⎅na]
+
+“palha de açaí’
+
+(261) /u⎆weiБ.⎆naun/
+
+[u⎆weid.⎅no] ~ [u⎆weid⎅nau]
+
+“buraco”
+
+(262)
+
+/wah.ta.⎆tein.⎆naun/ [wa.‫ש‬a.⎆teid.⎅no] ~ “coxa” [wa.‫ש‬a.⎆teid.⎅nau]
+
+(263) /jaik.⎆nan/ (264) /wan.⎆ten.⎆te/
+
+[jaik.⎆na]
+
+“lagarta de coqueiro”
+
+[we.⎆dein.⎅de] ~ [we.⎆deБn.⎅de]
+
+“tamanduá grande, tipo de.”
+
+(265) /⎆kaunБ/
+
+[⎆kaum]
+
+“rir”
+
+(266) /⎆wai.⎆un.⎆naun/
+
+[⎅waiБ.⎆uБ.⎅no]
+
+“pé”
+
+2.2.1.2.6. [CVCC]
+A coda ramificada é pouco freqüente no Lakondê. Este tipo silábico ocorre sempre em posição de acento. O onset silábico pode ser ocupado por uma consoante oclusiva, nasal ou um glide. Qualquer vogal pode ocupar o núcleo deste tipo silábico. Na coda, a primeira posição é licenciada apenas para uma consoante nasal, [n]67; a segunda posição pode ser ocupada por uma oclusiva glotal, [Б].
+67 Na sílaba [CVV] encontramos apenas a realização do fone alveolar nasal em coda [n].
+
+106
+
+(267) /ho.⎆lon.⎆te/
+
+[ho.⎆lo⍧nБ.⎅de]
+
+“tatu-canastra”
+
+(268) /kei.⎆an.⎆te/
+
+[kei.⎆a⍧nБ.⎅de]“jacaré grande”
+
+(269) /a.⎆nun.kah.⎆te/
+
+[a.⎆nu⍧nБ.ka⍧.⎅‫ש‬e] “braço”
+
+(270) /ju.⎆lun.⎆tan.⎆te/
+
+[ju.⎆lunБ.⎅ta⍧n.⎅de] “folha de gameleira”
+
+2.2.1.2.7. [CVVCC]
+A sílaba do tipo [CVVCC] sempre ocorre em posição de acento e nunca em final de palavra. Podem ocupar a posição de onset, as consoantes oclusivas, exceto a oclusiva glotal, as nasais, [m, n], a consoante lateral, [l], e os glides [w, j]. O núcleo silábico pode ser ocupado por uma vogal oral baixa ou média seguida de vogal alta. As sequências [eu] e [oi] não ocorrem. Na posição de coda, teremos sempre a oclusiva glotal seguida de uma consoante nasal.
+
+(271) /⎆kaunБ.tah.⎆te/
+
+[⎆kaumБ.ta⍧.⎅‫ש‬e] “rir juntos”
+
+(272) /tau.⎆ein.⎆nau/
+
+[dau.⎆einБ.⎅nau] ~ [dau.⎆eid.⎅nѐ]
+
+“mata”
+
+(273) /⎆hainБ,⎆tah/
+
+[⎆hainБ.⎅ta⍧]
+
+“vamos fazer sexo”
+
+(274) /⎆hein.⎆te/
+
+[⎆heinБ.⎅te]
+
+“rede de dormir”
+
+107
+2.2.1.3. ESTRUTURA DA SÍLABA FONÉTICA De acordo com a descrição da sílaba fonética apresentada, temos o
+seguinte modelo:
+σ
+
+(O)
+
+R
+
+(C)
+[t] [k] [Б] [b] [d] [ց]
+[m] [n] [l] [‫]ש‬
+[Є] [s] [Ѐ] [h] [tЀ]
+[w] [j]
+
+N
+
+(C)
+
+(C)
+
+V
+
+[‫]ש‬
+
+[i] [e]
+
+[i] [e]
+
+[i] [e]
+
+[i] [e]
+
+[ϯ]
+
+[a]
+
+[a]
+
+[a]
+
+[a]
+
+[ѐ]
+
+[o] [u]
+
+[o] [u]
+
+[o] [u]
+
+[u]
+
+(V)
+
+(C)
+
+[i] [u]
+
+[t] [k] [Б] [b] [d] [ց] [m] [n] [֊] [bm] [dn] [ց֊] [Бn]
+[h]
+
+Figura 14: Estrutura da sílaba fonética.
+
+(C)
+[Б]
+
+O único elemento obrigatório é a primeira posição nuclear V; as demais são opcionais. Os tipos [CCVV], [VCC], [CCVC], [CCVCC], [CCVVCC] não foram observados na língua. Todas as demais combinações são possíveis.
+
+108
+
+2.2.2. A SÍLABA FONOLÓGICA
+
+No Lakondê há dez tipos de sílaba fonológica, das quais quatro são abertas – /V/, /VV/, /CV/, /CVV/ – e seis são fechadas – /VC/, /VVC/, /CVC/, /CVVC/, /CVCC/, /CVVCC/. Traçando um paralelo com as sílabas fonéticas, observamos que os tipos silábicos formados com onset complexo e sem onset, com núcleo e coda ramificadas, [CCV] e [VVCC], respectivamente, não se confirmam fonologicamente. Abaixo, sintetizamos as ocorrências fonéticas e fonológicas, a fim de compará-las.
+
+Sílabas abertas com núcleo simples Sílabas abertas com núcleo ramificado Sílabas fechadas com núcleo simples
+Sílabas fechadas com núcleo ramificado
+
+Tabela 7. Tipos silábicos fonéticos e fonológicos.
+
+SÍLABA
+
+FONÉTICA
+
+V
+
+[V]
+
+C+V
+
+[CV]
+
+C+C+V
+
+[CCV]
+
+V+V
+
+[VV]
+
+C+V+V
+
+[CVV]
+
+C+C+V+V
+
+-
+
+V+C
+
+[VC]
+
+V+C+C
+
+-
+
+C+V+C
+
+[CVC]
+
+C+C+V+C
+
+-
+
+C+V+C+C
+
+[CVCC]
+
+C+C+V+C+C
+
+-
+
+V+V+C
+
+[VVC]
+
+V+V+C+C
+
+[VVCC]
+
+C+V+V+C
+
+[CVVC]
+
+C+V+V+C+C
+
+[CVVCC]
+
+C+C+V+V+C+C
+
+-
+
+SÍLABA FONOLÓGICA
+/V/ /CV/
+/VV/ /CVV/
+/VC/
+/CVC/
+/CVCC/
+/VVC/
+/CVVC/ /CVVCC/
+-
+
+A seguir, serão apresentados os tipos silábicos fonológicos do Lakondê: segmentos permitidos em cada posição, comportamento na palavra e exemplos.
+
+109 2.2.2.1. SÍLABAS ABERTAS
+
+2.2.2.1.1. /V/
+
+Sílabas do tipo /V/ são bastante restritas em Lakondê, ocorrendo, preferencialmente, em início de palavra. Qualquer vogal pode formar uma sílaba /V/.
+
+(275) /⎆a.ha.⎆nih.⎆te/
+
+[⎅a.ha.⎆ni⍧⎅te]
+
+“está gordo”
+
+(276) /e.⎆hin.⎆te/
+
+[e⎆hin⎅de]
+
+“homem”
+
+(277) /⎆e.ha.⎆tan/ (278) /⎆i.ka.⎆loh/ (279) /a.⎆laih.⎆te/ (280) /a.⎆nah.⎆te/
+
+[⎆e⍧ha⎅ta] [⎅i.ցo.⎆lo⍧] [a.⎆laih.⎅te] [a⎆nah⎅‫ש‬e]
+
+“não viu” “casca” “bicho-preguiça” “osso dele”
+
+(281) /u.⎆wein.⎆naun/
+
+[u.⎆weid.⎅no]
+
+(282) /o.⎆jan.⎆te/
+
+[o⎆ja⍧n⎅de]
+
+“buraco” “jatobá”
+
+2.2.2.1.2. /VV/
+A sílaba do tipo /VV/ ocorre com freqüência. Pode vir em início, meio e, com menor freqüência, em final de palavra. A sílaba deste tipo normalmente ocorre em posição átona. Apenas as vogais /i, e, a, a, o, u/ podem ocupar a
+
+110
+
+primeira posição nuclear; a segunda posição pode ser ocupada apenas por /i, u/. São proibidas as sequências */ii/, */eu/, */oi/ e */uu/
+
+(283) /au.⎆hih.⎆tan/
+
+[au.⎆hi⍧.⎅‫ש‬a]
+
+“costurar”
+
+(284) /⎆ai.ka.⎆na/
+
+[⎅ai.ka.⎆na]
+
+“ovo”
+
+(285) /ei.⎆hin.⎆te/
+
+[ei.⎆hi.⎅de]
+
+(286) /ju.⎆au.teh.⎆tan/
+
+[ju⎆aute⎅‫ש‬a]
+
+(287) /ai.⎆haБ/
+
+[ϯ.⎆ha⍧]
+
+“jibóia, tipo de cobra”
+“assobie! (imperativo)”
+“Vamos!”
+
+(288) /ui.⎆an.ka.⎆ni/
+
+[ui.⎆a⍧n.ցi.⎅ni]
+
+“bracelete”
+
+2.2.2.1.3. /CV/
+Este tipo silábico ocorre preferencialmente em posição átona68 e é um dos tipos mais recorrentes no Lakondê. Qualquer vogal ser núcleo deste tipo silábico. Qualquer consoante, exceto a oclusiva glotal, pode ocupar a posição de onset. Não há restrição quanto à vogal que ocupa a posição nuclear.
+
+(289) /⎆ban.⎆te/
+
+[⎆ba⍧n⎅de]
+
+“rede de carregar criança”
+
+68 Sílaba aberta dos tipos /CV/, /V/ ou /VV/ pode ser acentuada quando a própria sílaba corresponde a morfema acentuado fonologicamente, o que contribui para a interpretação de que o acento em Lakondê é também morfológico. O que está em conformidade com o acento das línguas Mamaindê e Latundê. Temos como exemplo o morfema referencial -te (TELLES, 2002), que ocorre sempre acentuado – com acento primário ou secundário – em final de palavra.
+
+111
+
+(290) /na.⎆haun.⎆ta/
+
+[na⎆ho⍧m⎅da]
+
+“rio”
+
+(291) /to.⎆tau/
+
+[to⎆thѐ]
+
+“café”
+
+(292) /ha.ta.⎆tan/
+
+[ha.ta.tan]
+
+“não/nada”
+
+(293) /⎆hin.ka.⎆loh/
+
+[⎅hi⍧.ցo.⎆lo⍧]
+
+"prato"
+
+(294) /ko.⎆maБ.ka.⎆ni/ [ko⎆ma⍧ki⎅ni]
+
+“feijão”
+
+(295) /ka.⎆kah.to.ka.⎆ni/ [ka.⎆ka⍧.‫ש‬u.⎆ni]
+
+“abacaxi”
+
+(296) /wo.⎆loh.⎆te/
+
+[wo⎆lo⍧⎅‫ש‬e]
+
+“peixe-bodó”
+
+(297)
+
+/ka.ma.⎆mah.⎆te/
+
+[ka.ma.⎆ma⍧.⎅he] ~ “borboleta” [ka.ma.⎆ma⍧h.⎅de]
+
+(298) /⎆jai.la.⎆ten.⎅te/
+
+[⎅jϯla⎆tei⎅de]
+
+"papo”
+
+2.2.2.1.4. /CVV/
+O tipo silábico /CVV/ tem baixa ocorrência, podendo vir em posição tônica ou átona. Não há restrição quanto à posição na palavra: início, meio ou final. Os segmentos licenciados para ocupar cada posição na sílaba, são: para a posição de onset, as consoantes /t, k, n, l, s, h/ e os glides /w, j/; no núcleo, apenas as sequências /ei/, /ai/, /au/, /ui/, /ai/ foram observadas.
+
+112
+
+(299) /⎆wai/
+
+[⎆wai] ~ [⎆waϯ]
+
+“2ª pessoa do singular”
+
+(300) /⎆jai.lauh.⎆te/ (301) /⎆hei.⎆tan/
+
+[⎆jϯlau⎅‫ש‬e] [⎅hei.⎆tan]
+
+“araruta” “brigar”
+
+(302) /kei.⎆ah.⎆te/
+
+[kei.⎆a⍧.⎅‫ש‬e]
+
+“milho”
+
+(303) /tau.⎆aun.⎆paБ/
+
+[tau.⎅aum.⎆ba]
+
+(304) /tei.⎆hin.⎆te/
+
+[dei.⎆hi.⎅de]
+
+(305) /kui.⎆au/
+
+[kui.⎆ѐ]
+
+(306) /⎆a.⎆nai/
+
+[⎅a.⎆nai]
+
+(307) /⎆koБ.te.lei/
+
+[⎆koБ.te.lei]
+
+“guardar dentro” “mulher índia” “está mole?” “raiz” “ontem”
+
+(308) /sui.⎆hin.⎆te/
+
+[sui.⎆hi⍧.⎅de]
+
+“periquito-verde”
+
+2.2.2.2. SÍLABAS FECHADAS
+2.2.2.2.1. /VC/ Este tipo silábico é um dos mais comuns no Lakondê e ocorre sempre
+em posição de acento. Qualquer vogal pode ocupar a posição nuclear deste tipo silábico. Na coda silábica, há restrições: apenas as consoantes oclusivas velar e
+
+113
+
+glotal, /k, Б/, a nasal, /n/, e a fricativa glotal, /h/ podem ocorrer. É comum em
+sílabas deste tipo haver o alongamento da vogal na superfície, que pode ser resultado da necessidade de peso para a realização do acento ou do apagamento do segmento de coda69.
+
+(309) /soБ.⎆an.⎆te/
+
+[so.⎆a⍧n.⎅de]
+
+“sol”
+
+(310) /lou.⎆ik.nauh.⎆te/ [lou.⎆ik.nau.⎅‫ש‬e]
+
+“ratinho”
+
+(311) /⎆an.⎆na/
+
+[⎆ad.⎅na]
+
+(312) /⎆an.ka.⎆ni/
+
+[⎅a.ցi.⎆ni]
+
+“folha de maribondo”
+“pequi”
+
+(313) /⎆eh.⎆tan/
+
+[⎆e⍧⎅‫ש‬an]
+
+“eu vi”
+
+(314) /⎆en.⎆te/
+
+[⎆ein.de] ~ [eБn.de]
+
+“lua”
+
+(315) /ih.ta.⎆kah.⎆te/
+
+[i.‫ש‬i.⎆ցa⍧.⎅te]
+
+“pau cru”
+
+(316) /in.⎆kin.⎆te/
+
+[i.⎆ցi⍧n.⎅de]
+
+“ferrão de arraia”
+
+(317) /on.⎆tuh.⎆te/
+
+[o.⎆du⍧h.⎅‫ש‬e]
+
+(318) /⎆oh.tah.⎆tan.ni/
+
+[⎆o⍧.‫ש‬a.⎅da.ni]
+
+“urucum” “eu mesmo furei”
+
+69 É comum o apagamento da coda silábica em fala rápida. Os segmentos mais atingidos por esse fenômeno são /k, Б, h/, conforme pode ser verificado na seção 2.3.5.2. Apagamento de coda.
+
+(319) /⎆noБ.un.⎆tah/ (320) /kei.⎆uh.⎆te/
+
+[⎅noБ.u.⎆da] [kei.⎆u⍧.⎅‫ש‬e]
+
+114 “anta” “asa branca”
+
+2.2.2.2.2. /VVC/
+
+Sílabas formadas por núcleo ramificado e uma posição de coda ocupada são menos recorrentes do que as que têm licenciada a posição de onset. Os ditongos /ei/, /ei/, /au/, /au/ podem ocupar o núcleo ramificado. A coda só pode ser ocupada por /k, Б, h/ ou pela nasal com ponto de articulação não especificado, /n/. Em sílabas fechadas com presença de ditongo, pode ocorrer o processo de monotongação, que resulta na realização da vogal alongada no núcleo, seguida pelo segmento de coda.
+
+(321) /hau.⎆auh.⎆te/
+
+[hau⎆ѐh⎅‫ש‬e]
+
+“balaio”
+
+(322) /⎆ain.⎆tan/
+
+[⎆aidn.⎅dan]
+
+“estou andando”
+
+(323) /⎆aik/
+
+[⎆aik]
+
+“devagar”
+
+(324) /⎆loh.⎆aun.hoh.⎆te/ [⎆loh.⎅aum.ho⍧.⎅‫ש‬e] “onça vermelha”
+
+(325) /⎆ein.⎆tah/
+
+[⎆ein.⎅da]
+
+“espírito brabo”
+
+2.2.2.2.3. /CVC/
+A sílba deste tipo é uma das mais recorrentes no Lakondê – juntamente com o tipo /CV/. Sílabas fechadas, como esta, ocupam preferencialmente posição acentuada na palavra. Qualquer consoante, exceto a oclusiva glotal, /Б/, pode
+
+115
+
+ocupar a posição de onset silábico. Qualquer vogal, oral ou nasal, pode ocupar o núcleo da sílaba. A coda pode ser ocupada por uma consoante velar, /k/, glotal, /Б, h/ ou nasal com ponto de articulação não especificado, /n/.
+
+(326) /koБ.⎆hin.⎆te/
+
+[koБ⎆hi⍧n⎅de]
+
+“enxada”
+
+(327) /⎆man.ta/
+
+[⎆ma⍧ndѩ] ~ [ma⍧nda]
+
+“está quente”
+
+(328) /⎆duБ/
+
+[⎆du⍧Б]
+
+“pegar”
+
+(329) /⎆nan.nih.⎆tan/
+
+[⎆na⍧.ni.⎅‫ש‬an]
+
+“amanheceu”
+
+(330) /u.⎆min.⎆te/
+
+[u.⎆mi⍧.⎅de]
+
+“couro”
+
+(331) /⎆miБ.⎆tan/
+
+[⎆mit.⎆than]
+
+“raiva”
+
+(332) /ke.⎆lih.⎆te/
+
+[ke.⎆li.hi.⎅‫ש‬e] ~ [ke.⎆lih.⎅‫ש‬e]
+
+“banana”
+
+(333) /⎆loh.⎆toh.⎆te/
+
+[⎆loh.⎅toh.⎅te]
+
+“onça preta”
+
+(334) /ta.⎆lon.⎆ta/
+
+[ta.⎆lo⍧n.⎅da]
+
+“está pronto”
+
+(335) /⎆nuh/
+
+[⎆nuh] ~ [⎆nu⍧]
+
+“nós”
+
+(336) /ka.⎆laБ.ka.⎆lah.⎆te/ [ka.⎅laБ.ka.⎆la⍧.⎅‫ש‬e] “galinha”
+
+116
+
+(337) /wan.⎆tah.⎆te/
+
+[wa.⎆dah.⎅te]
+
+“pombo”
+
+(338) /wan.⎆ten.⎆te/ (339) /⎆teh.te/
+
+[we.⎆deБn.⎅de] [⎆de⍧.he.‫ש‬i]
+
+“tamanduá, tipo de.”
+“cobra”
+
+2.2.2.2.4. /CVVC/
+
+Este tipo silábico é bastante freqüente no Lakondê. Sílabas do tipo /CVVC/ ocorrem preferencialmente em início e meio de palavra, e sempre em posição de acento. Qualquer consoante oclusiva – exceto a glotal – nasal ou fricativa pode ocupar a posição de onset. A primeira posição do núcleo pode ser ocupada por uma vogal baixa /a, a, a/ ou uma vogal média, /e, o/. A segunda posição do núcleo só pode ser ocupada por vogal alta, /i, u/. As seqüências */eu, oi/ não são permitidas. A coda silábica pode ser ocupada por uma consoante oclusiva, /k, Б/, fricativa glotal, /h/, ou nasal com ponto de articulação não especificado, /n/.
+
+(340) /⎆jaun.⎆te/
+
+[»jam.⎅de]
+
+“coró”70
+
+(341)
+
+/kau.⎆wain.ko.⎆lo/
+
+[kѐ.⎆wai.ցo.⎅lo] ~ [ka.⎆wai.ցo.⎅lo]
+
+“abanador”
+
+(342) /⎆jaik.⎆na/
+
+[⎆jaik⎅na]
+
+“lagarta de coqueiro”
+
+(343) /ko.⎆loun.⎆te/
+
+[kolo⍧nde] ~
+
+“japolão, tipo de
+
+70Quando a coda silábica é nasal, o ditongo pode ser recuperado a partir da realização do ponto de articulação da nasal na superfície.
+
+117
+
+(344) /⎆teih.⎆naun/
+
+[kolounde]
+[⎆deih.⎅no] ~ [⎆dei.hi.⎅no]
+
+pássaro” "caminho”
+
+(345) /wa.⎆nain.⎆ke/
+
+[wa⎆nai⎅ցe]
+
+“sangue”
+
+(346) /tauh.⎆taun.⎆tan/ [dau⎆‫ש‬am⎅dan]
+
+“derrubar o pau do patuá”
+
+(347)
+
+/⎆hein.ka.⎆ni.tah.⎆tan/ [⎆heiց֊.ցe.⎅ni.⎅d‫ש‬a] ~ “buriti” [⎆heiБ֊.ցi.⎅ni.da.⎅‫ש‬an]
+
+(348) /a.⎆laih.⎆te/
+
+[a.⎆lai.⎅‫ש‬e]
+
+"bicho-preguiça"
+
+(349) /⎆waiБ.⎆na/
+
+[⎆wait.⎅na]
+
+"palha de açaí"
+
+(350) /⎆weiБ.nauh.⎆te/
+
+[⎆weit.nau.⎅‫ש‬e]
+
+"filha"
+
+(351) /sa.⎆naih.⎆te/
+
+[sa.⎆nai.⎅‫ש‬e]
+
+“tatu-peba”
+
+2.2.2.2.5. /CVCC/
+A sílaba /CVCC/ ocorre apenas em início e meio de palavra, sempre em posição tônica. Qualquer consoante, exceto a oclusiva glotal, pode ocupar o onset silábico. Qualquer vogal oral pode ser licenciada a ocupar o núcleo. Na coda, apenas a seqüência formada por consoante nasal com ponto de articulação não especificado seguida por oclusiva glotal, /nБ/, é licenciada.
+
+118
+
+(352) /⎆hinБ.ta/
+
+[⎆hinБ.ta]
+
+“medo de bicho/coisa”
+
+(353) /a.⎆nunБ.⎆kah.⎆te/ [a.⎆nu⍧n.⎅ka⍧⎅‫ש‬e]
+
+“braço”
+
+(354) /sin.⎆kin.nau.⎆hanБ.⎆tu/ [Ѐi.⎆ցid.nѐ.⎅ha.⎅tu] “areia branca”
+
+(355) /⎆dunБ.ten.⎆nih.⎆tan/ [⎆du⍧nБ.⎅ted.ni.⎅‫ש‬a] “casar”
+
+2.2.2.2.6. /CVVCC/
+A sílaba do tipo /CVVCC/ é pouco recorrente – assim como todos os outros tipos silábicos com duas posições de coda ocupadas – e foi observada apenas em início e meio de palavra, sempre em posição tônica. É licenciada para a posição de onset qualquer consoante, exceto as glotais, /Б, h/. O núcleo silábico pode ser ocupado pelos ditongos /ai/ e /au/. Na posição de coda, teremos sempre a consoante nasal com ponto não especificado seguida da oclusiva glotal, /nБ/.
+
+(356) /⎆saunБ/
+
+[saumБ]
+
+“morder”
+
+(357) /sin.⎆kih.⎆waunБ.⎆tun/ [Ѐi.⎅ցiБ.⎆wam.⎅tu] “barro vermelho”
+
+(358) /ha.⎆wainБ.⎆kah.⎆te/ [ha.⎆wain.⎅ka⍧.⎅‫ש‬e] “pau reto”
+
+(359) /⎆hainБ,⎆tah/
+
+[⎆hainБ.⎅ta⍧]
+
+“vamos fazer sexo”
+
+(360) /wa.la.⎆lainБ.⎅tan.ta/ [wa.la.⎆lainБ.⎅ta.na] “roubar”
+
+(361) /⎆kaunБ.⎆tah.⎆te/
+
+[⎆kaumБ.⎅ta⍧.⎅‫ש‬e] “rir juntos”
+
+119
+2.2.2.3. ESTRUTURA DA SÍLABA FONOLÓGICA
+A sílaba fonológica do Lakondê tem como único elemento obrigatório uma posição nuclear, que pode ser ocupada por qualquer vogal, oral ou nasal. A segunda posição nuclear pode ser ocupada apenas pelas vogais altas, /i, u/. O onset silábico só licencia uma posição, que pode ser ocupada por qualquer consoante exceto a oclusiva glotal. A coda pode ser simples ou ramificada. Quando simples, podem ser realizadas as consoantes glotais, /Б, h/, a oclusiva velar, /k/, e a consoante nasal com ponto de articulação não especificado, /n/ – esta ocorre com maior freqüência. A coda ramificada, por sua vez, licencia apenas a seqüência /nБ/. Abaixo, segue o modelo da sílaba fonológica do Lakondê:
+σ
+
+(O)
+(C)
+/p/ /t/ /k/ /m/ /n/
+/l/ /s/ /h/ /w/ /j/
+
+R
+
+N
+
+(C)
+
+V
+
+(V)
+
+(C)
+
+(C)
+
+/i/ /e/
+
+/i/ /u/
+
+/k/ /Б/
+
+/Б/
+
+/i/
+
+/n/
+
+/i/ /e/
+
+/h/
+
+/i/
+
+/a/
+
+/a/
+
+/a/
+
+/a/
+
+/o/ /u/
+
+/u/
+
+/o/ /u/
+
+/u/
+
+Figura 15: Estrutura da sílaba fonológica.
+
+120
+2.3. PROCESSOS FONOLÓGICOS
+Em nível segmental, observamos no Lakondê a ocorrência de onze processos fonológicos, que podem ser classificados em: assimilação (progressiva e regressiva), fortalecimento, lenição, apagamento, inserção e coalescência, conforme pode ser visto abaixo. Os processos discutidos aqui operam no domínio da palavra ou da sílaba, e não têm relação com a morfologia.
+a) Processos de Assimilação Progressiva: - Vozeamento das oclusivas; - Ponto de articulação da nasal em coda.
+b) Processos de Assimilação Regressiva: - Nasalização; - Harmonia vocálica.
+c) Processo de Fortalecimento: - Consonantização dos glides.
+d) Processo de Lenição: - Enfraquecimento da oclusiva alveolar.
+d) Processos de Apagamento: - Redução e apagamento silábico; - Apagamento da coda.
+e) Processo de Inserção: - Ressilabificação com epêntese vocálica.
+f) Processos de coalescência: - Monotongação ou coalescência vocálica; - Coalescência consonantal.
+
+121 2.3.1. PROCESSOS DE ASSIMILAÇÃO PROGRESSIVA
+
+2.3.1.1. VOZEAMENTO DAS OCLUSIVAS
+No inventário fonológico do Lakondê há quatro consoantes oclusivas, todas surdas: /p, t, k, Б/. Na superfície, porém, há realização de sete oclusivas, três das quais, [b, d, ց], sonorizadas através da assimilação do traço [+voz] da consoante que a precede. Sempre que precedida pela consoante nasal com ponto de articulação não especificado, /n/, na coda da sílaba anterior, as consoantes oclusivas em onset são vozeadas. Este processo pode ocorrer no interior do morfema ou em fronteira de morfemas71.
+
+- Vocoide
+
+/n/
+
+- Aproximante + Soante
+
+RAIZ
+
+- Vocoide
+
+/p, t, k/
+
+- Aproximante - Soante
+
+RAIZ
+
+[nasal]
+
+Laringal
+
+Supralaringal . . .
+
+[ +voz]
+
+Laringal
+Supralaringal . . .
+
+Figura 16: Assimilação - Vozeamento das oclusivas.
+
+(362) /wah⎆tan-⎆te/
+
+[wa⎆‫ש‬a⍧n⎅de]
+
+“panela”
+
+(363) /nasa⎆lan-⎆ke/
+
+[nasa⎆la⍧⎅ցe]
+
+“boi”
+
+71O vozeamento das consoantes oclusivas é um processo comum às demais línguas Nambikwára do Norte. Assim como no Lakondê, no Latundê e no Mamaindê o processo se dará em razão da assimilação do traço [+voz] da consoante nasal em coda da sílaba anterior pela consoante oclusiva em onset. Ainda de maneira semelhante, nas duas línguas-irmãs, o processo pode ocorrer em interior de morfema ou em fronteira de morfemas.
+
+122
+
+(364) /tau⎆aun-⎆paБ/
+
+[tau⎆aum⎅ba]
+
+“guardar dentro”
+
+(365) /⎆mon-tah-⎆tan/
+
+[⎆mo⍧nda⎅‫ש‬a]
+
+“eu sou bonito(a)”
+
+(366) /woh⎆loun-ka⎆ni/ [woh⎆louցi⎅ni/
+
+“cacau”
+
+(367) /wan⎆kon-⎆te/
+
+[wo⎆ցo⍧Б⎅de]
+
+“tatu do campo”
+
+(368) /nan⎆pan-hun-⎆te/ [na⎆ba⍧⎅hu⎅de]
+
+“criança recém nascida”
+
+2.3.1.2. PONTO DE ARTICULAÇÃO DA NASAL EM CODA
+
+A consoante nasal que ocorre em coda silábica tem o seu ponto de articulação subespecificado, podendo realizar-se como labial, alveolar ou velar, ou ainda como uma consoante nasal pré-oralizada labial, alveolar ou velar. A nasal em coda silábica tende a assimilar o ponto de articulação da vogal que a precede. Quando precedida por ditongo terminado por vogal labial, a nasal assimila o ponto labial, realizando-se, [m] ou [bm]; precedida de vogal alta, a nasal pode assimilar
+a altura, sendo realizada como [֊] ou [ց֊]; seguindo vogal média ou baixa, a consoante nasal é realizada sempre [n], [dn]72. Quando a vogal precedente é oral, em sílaba tônica, a nasal pode ser realizada como um segmento de contorno73.
+
+(369) [⎆lidn⎅du] /⎆lin-⎆tuh/
+
+“rama de mandioca”
+
+72 Também quando precedida de vogal média ou baixa oral a consoante nasal em coda pode ser realizada com pré-glotalização, mas mantendo o ponto de articulação alveolar. 73 A pré-oralização e a pré-glotalização das consoantes nasais em coda pode indicar uma tendência da língua a evitar o espraiamento da nasalização em sílaba acentuada, uma vez que neste ambiente, a vogal nasal é contrastiva. Porém, este processo não é obrigatório: ocorre em determinadas palavras, mas é evitado em outras. Dessa forma, acreditamos que deve haver algo além do ambiente que motive a realização das nasais pré-oralizadas e pré-laringalizadas em algumas palavras e as evite em outras, em ambiente idêntico. Por isso, entendemos que este fenômeno ainda merece mais discussões.
+
+123
+
+(370) [⎆mai֊ցi⎅ni] /⎆main-ka⎆ni/
+(371) [ko⎆loum⎅de] /ko⎆loun-⎆te/
+(372) [⎅ida⎆‫ש‬aum] /⎆i-tah-⎆taun/
+(373) [wi⎆a⍧n⎅de] /wi⎆an-⎆te/
+(374) [ju⎆luց֊ցi⎅ni] ~ [je⎆luց֊ցi⎅ni] /je⎆lun-ka⎆ni/
+(375) [⎅niБ⎆laubmda⎅‫ש‬a] ~ [⎅niБ⎆laumda⎅‫ש‬a] /⎆nin-⎆laun-tah⎆tan/
+
+“caju” “pica-pau, tipo de Pássaro.” “rabo (de qualquer bicho)” “é mentira” “caroço de gameleira” “dor de cabeça”
+
+2.3.2. PROCESSOS DE ASSIMILAÇÃO REGRESSIVA
+
+2.3.2.1. NASALIZAÇÃO
+O processo de nasalização em Lakondê é apenas regressivo e atinge somente vogal em sílaba não acentuada – preferencialmente sílabas abertas seguidas de consoante nasal em onset da sílaba seguinte. Em sílaba acentuada,
+
+124
+
+o traço nasal é distintivo e, por isso, a sua assimilação é evitada74. As vogais /a, i, u, o/ podem sofrer nasalização. Não encontramos nos dados analisados a vogal média anterior, /e/, nasalizada. Podem engatilhar nasalização as consoantes nasais /m, n/, em onset silábico, nasalizando a vogal nuclear da sílaba anterior, e /n/, em coda de sílaba átona, nasalizando a vogal nuclear da mesma sílaba.
+
++Vocoide
+
+/i, a, o, u /
+
++Aproximante +Soante
+
+RAIZ
+
+/m, n/ RAIZ
+
+- Vocoide - Aproximante - Soante
+
+Laringal Supralaringal
+[+voz]
+
+[nasal]
+
+Supralaringal
+
+Laringal [+voz]
+
+[+contínuo]
+
+Ponto-C
+Vocálico . . .
+
+[-contínuo]
+
+Ponto-C . . .
+
+Figura 17: Assimilação - Nasalização.
+
+(376) /ka⎆nin-⎆te/
+
+[ka⎆ni⍧n⎅de]
+
+“caxinguelê”
+
+(377) /ko⎆maБ-ka⎆ni/
+
+[ko⎆ma⍧ki⎅ni]
+
+“feijão”
+
+(378) /su⎆nun-⎆te/
+
+[su⎆no⍧n⎅de] [su⎆nu⍧n⎅de]
+
+“beija-flor”
+
+74 Este dado é específico ao comportamento das vogais quanto à nasalização.
+
+125
+
+(379) /⎆wai-ka⎆main-⎆tan-ta/ [⎅waka⎆main⎆tana] “você está molhado”
+
+(380) /sin⎆kih-⎆min-ka⎆ni/ [Ѐi⎆ցihmi⎅ni]
+
+“arroz”
+
+(381) /ta-⎆nah-⎆te/
+
+[da⎆nah⎅de]
+
+“minha mãe”
+
+2.3.2.2. HARMONIA VOCÁLICA
+O processo de harmonização vocálica se dá através da elevação do grau de abertura da vogal e ocorre geralmente com vogais baixas. A harmonia vocálica, assim como a nasalização, é regressiva. A vogal nuclear da sílaba acentuada influencia a elevação da altura da vogal nuclear da sílaba não acentuada. A vogal afetada pelo processo de harmonia vocálica pode sofrer assimilação parcial (apenas a altura da vogal que a segue) ou assimilação total, tornando-se semelhante à vogal que a influencia. Na maior parte dos dados, o fenômeno ocorre no interior da raiz dissilábica ou de um mesmo morfema, também dissilábico75.
+
+(382) /wan⎆ten-⎆te/
+
+[we⎆deБn⎅de]
+
+“tamanduá, tipo de.”
+
+(383) /kon-ka⎆loh/76
+
+[⎆koБցo⎅lo]
+
+“enxada”
+
+75 Este dado coincide com o que ocorre no Latundê. De acordo com Telles (2002), a harmonia
+
+vocálica no Latundê se dá preferencialmente entre vogais que fazem parte da mesma raiz ou
+
+morfema, em estruturas dissilábicas.
+
+A harmonia pode ocorrer também entre vogais de morfemas diferentes, porém, esse caso é mais
+
+raro e ocorre apenas em raiz monossilábica acentuada, que se harmoniza com o sufixo que a
+
+segue.
+
+76 O sufixo classificatório /ka⎆loh/, “superfície plana/ unidimensional” (TELLES, 2002), é comum às
+
+línguas Lakondê e Latundê. A sua realização mais freqüente, porém, difere nas duas línguas. Em
+
+Lakondê a harmonia vocálica ocorre na maior parte dos dados analisados, resultando nas
+
+realizações [ko⎆lo⍧] e [ցo⎆lo⍧]. Em Latundê, diferentemente, as realizações mais comuns são [ka⎆lo⍧]
+
+e [ցa⎆lo⍧].
+
+Lakondê
+
+/⎆man-ka⎆loh/ [⎆manցo⎅lo⍧]
+
+“roupa”
+
+/⎆i-ka⎆loh/
+
+[⎆iցo⎅lo⍧]
+
+“casca”
+
+Latundê
+
+/⎆man-ka⎆loh/ [⎆maցa⎅loБ]
+
+“roupa”
+
+/⎆i-ka⎆loh-⎆te/ [ikalo⍧‫ש‬e] ~ [iցalo⍧‫ש‬e] “tábua”
+
+126
+
+(384) /⎆tai-hi⎆kah-tah-⎆tan/ [⎅daihi⎆ka⍧‫ש‬e⎅‫ש‬a] “eu estou cansado(a)”
+
+(385) /⎆lin-⎆nain-kah-⎆te/ [⎆lidn⎅naiցe⎅‫ש‬e]
+
+“mandioca braba”
+
+(386) /wa⎆leБ-⎆kih-⎆te/
+
+[wele⎆ki⍧⎅‫ש‬e]
+
+“abelha, tipo de.”
+
+(387) /⎆loh-tah-⎆te/
+
+[⎆lo⍧‫ש‬e⎅‫ש‬e]
+
+“paca”
+
+(388) /kau⎆ein-kani/
+
+[kou⎆eiցi⎅ni] ~ [kou⎆eiցe⎅ni]
+
+“abóbora”
+
+/⎆mun-⎆te/ → [⎆mo⍧⎅de] - “árvore de bom-dia”
+
++Vocoide +Aproximante
+/u/ +Soante
+
++Vocoide +Aproximante
+/e/ +Soante
+
++Vocoide +Aproximante
+[o] +Soante
+
+RAIZ
+
+RAIZ
+
+RAIZ
+
+Laringal
+
+[Nasal]
+
+[+voz] Supralaring
+
+Laringal
+Supralaringal [+voz]
+
+[Nasal]
+
+Laringal
+
+Supralaringal [+voz]
+
+[+contínuo] Ponto-C [+contínuo] Ponto-C
+
+Vocálico
+
+Vocálico
+
+Abertura Ponto-V
+
+Labial Dorsal [+arredondado]
+
+-2 -1
+
+Abertura Ponto-V
+
+-1 +2
+
+Coronal
+
+[+contínuo] Ponto-C
+
+Vocálico
+
+Abertur a
+
+Ponto-V
+
+Labial Dorsal -1
++2 [+arredondado]
+
+Figura 18: Harmonia vocálica - Assimilação parcial entre morfemas diferentes
+
+127
+
+/je⎆lun-ka⎆ni/ → [ju⎆lu֊ցi⎅ni] - “caroço da gameleira”
+
++Vocoide
+
+/e/
+
++Aproximante +Soante
+
++Vocoide
+
+/u/
+
++Aproximante +Soante
+
+RAIZ
+
+RAIZ
+
+Laringal Supralaringal
+[+voz]
+
+[+contínuo]
+
+Ponto-C
+
+Laringal Supralaringal
+[+voz]
+
+[+contínuo]
+
+Ponto-C
+
+Vocálico
+
+Vocálico
+
+Ponto-V
+
+Abertura
+
+Abertura
+
+Ponto-V
+
+Coronal
+
+-1 +2
+
+Dorsal
+
+Labial
+
+-1
+
+-2
+
+Figura 19: Harmonia vocálica - Assimilação total no interior do mesmo morfema.
+
+2.3.3. PROCESSO DE FORTALECIMENTO
+
+2.3.3.1. CONSONANTIZAÇÃO DOS GLIDES
+Os glides labial e palatal, /w, j/, que ocorrem sempre em onset silábico, quando em sílaba não acentuada, podem ser realizados como as consoantes [Є], fricativa lábio-dental sonora, e [Ћ], fricativa palatal sonora, respectivamente. A
+
+128
+
+realização de [Є] e [Ћ] é condicionada à presença de vogal coronal no núcleo silábico77.
+
+(389)
+
+[Ћi⎆‫ש‬a⍧n⎅de] ~ [iϯ⎆‫ש‬a⍧n⎅de] /jaih⎆tan-⎆te/
+
+“veado”
+
+(390)
+
+[deЄe⎅ke⎆no] /tawe⎆ken-⎆naun/
+
+“pequeno”
+
+(391)
+
+[⎅daЄi⎆‫ש‬ai⎅ցo] ~ [⎅dawi⎆‫ש‬ai⎅ցo] /⎆ta-wih⎆tain-koh/
+
+“marido”
+
+2.3.4. PROCESSO DE LENIÇÃO
+
+2.3.4.1. ENFRAQUECIMENTO DA OCLUSIVA ALVEOLAR
+
+A oclusiva alveolar, /t/, quando em meio de palavra, antecedida por fricativa glotal, /h/, em coda da sílaba anterior, pode sofrer lenição e ser realizada como o flap alveolar. [‫ ]ש‬ocorre sempre em posição de onset e se realiza preferencialmente em sílaba tônica.
+
+(392) /oh⎆tuh-⎆te/
+
+[u⎆‫ש‬uh⎅‫ש‬e]
+
+“urucum”
+
+(393) /wo⎆lan-kah-⎆te/ [wo⎆laցe⎅‫ש‬e]
+
+"peneira"
+
+(394) (395)
+
+/⎆nih-⎆te/
+
+[⎆ni⍧⎅‫ש‬e]
+
+/⎆i-⎆sinБ-⎆son-tah-⎆tan/ [⎅‫⎆گ‬ЀidБ⎅ЀoБda⎅‫ש‬a]
+
+“lenha” "carne de bicho"
+
+77 A fricativa lábio-dental é realizada com baixíssima freqüência pela falante. Encontramos nos dados analisados apenas duas realizações da fricativa lábio-dental.
+
+129 2.3.5. PROCESSOS DE APAGAMENTO
+
+2.3.5.1. REDUÇÃO E APAGAMENTO SILÁBICO
+Em Lakondê, sílaba pré-tônica em morfema classificatório pode sofrer redução silábica, mesmo em fala lenta. Neste caso, o núcleo da sílaba átona não é realizado e o seu onset é realizado como coda ou onset da sílaba precedente – neste caso, formando onset complexo78 – havendo, portanto, ressilabificação. Também pode ocorrer o apagamento integral da sílaba. Na maior parte dos dados analisados em que ocorre o apagamento, não há variação com a forma completa do morfema que sofre o processo. As sílabas que sofrem apagamento são sempre átonas. A redução e o apagamento silábicos atingem apenas os morfemas afixados à raiz.
+
+(396)
+
+[⎅wa⎆liց⎅ni⎅no] /⎆wa-⎆lin-ka⎆ni-⎆naun/
+
+“sua cabeça”
+
+(397)
+
+[ka⎅ka‫ש‬u⎆ni] /ka⎆kah-tun-ka⎆ni/
+
+“abacaxi”
+
+(398)
+
+[⎅da⎆min⎅d‫ש‬an] /⎆ta-⎆min-tah-⎆tan/
+
+“meu couro”
+
+(399) (400)
+
+[⎆t‫ש‬auցi⎅ni] /tah⎆taun-ka⎆ni/ [Ѐi⎆ցid⎅ha⎅tun] ~ [Ѐi⎆ցidnѐ⎅ha⎅tun] /sin⎆ցin-naun-⎆hanБ-⎆tun/
+
+“patuá” “barro branco”
+
+78 Sílabas com onset complexo não têm status fonológico em Lakondê, uma vez que são sempre decorrentes do processo de redução silábica.
+
+130
+
+/ha⎆laБ-⎆kah-⎆te/ → [ha⎆la⍧ke⎅‫ש‬e] → [ha⎆la⍧⎅k‫ש‬e] - “pente”
+
+σ
+Rima
+
+σ
+Rima
+
+σ
+Rima
+
+σ
+Rima
+
+Onset Núcleo Onset Núcleo Onset Núcleo Onset Núcleo
+
+h
+
+a
+
+l
+
+a⍧
+
+k
+
+e
+
+‫ש‬
+
+e
+
+σ
+
+σ
+
+σ
+
+Rima
+
+Rima
+
+Rima
+
+Onset Núcleo Onset Núcleo Onset Núcleo
+
+h
+
+a
+
+l
+
+a⍧
+
+k‫ש‬
+
+e
+
+Figura 20: Redução silábica e ressilabificação.
+
+2.3.5.2. APAGAMENTO DA CODA SILÁBICA
+O apagamento da coda silábica é um dos processos que ocorre com maior freqüência em Lakondê e pode atingir sílaba tônica ou átona. Em sílaba tônica, no entanto, quando o material da coda não é realizado, a vogal nuclear sofre alongamento compensatório. Em sílaba átona a vogal pode realizar-se opcionalmente alongada, mas o segmento elipsado da coda pode ser recuperado, na maior parte dos casos, através dos processos fonológicos que estas engatilham – o vozeamento das oclusivas ou a coalescência, por exemplo.
+
+131 /i⎆tan-⎆te/ [i⎆ta⍧⎅de] - “folha”
+
+σ
+Rima
+
+σ
+Rima
+
+σ
+Rima
+
+Núcleo Onset Núcleo Coda Onset Núcleo
+
+i
+
+t
+
+a
+
+n
+
+t
+
+e
+
+σ
+
+σ
+
+σ
+
+Rima
+
+Rima
+
+Rima
+
+Núcleo Onset Núcleo Onset Coda
+
+i
+
+t
+
+a⍧
+
+d
+
+e
+
+Figura 21: Apagamento da coda silábica.
+
+(401) /⎆toun-ka⎆ni/
+
+[⎆douցi⎅ni]
+
+(402) /ui⎆an-ka⎆ni/ (403) /wah⎆tan-⎆te/ (404) /toh⎆toБ-⎆te/ (405) /⎆man-ka⎆loh/
+
+[ui⎆a⍧ցi⎅ni] [wa⎆‫ש‬a⍧⎅de] [do⎆‫ש‬o⍧⎅te] [⎆ma⍧ցo⎅lo⍧]
+
+“Maria Preta, tipo de fruta” “fruta do jatobá” “panela” “pau liso” “roupa”
+
+132 2.3.6. PROCESSOS DE INSERÇÃO
+
+2.3.6.1. EPÊNTESE VOCÁLICA COM RESSILABIFICAÇÃO
+
+A epêntese vocálica é um fenômeno bastante recorrente no Lakondê. Ocorre preferencialmente em raiz monossilábica com núcleo ocupado apenas por uma vogal e terminadas em consoante fricativa glotal, /h/79. A vogal inserida é uma cópia da vogal que constitui o núcleo silábico e é realizada seguindo a fricativa glotal. A palavra, então, é ressilabificada e o segmento consonantal /h/, anteriormente em coda, passa a ser realizado como onset silábico, precedendo a vogal epentética80.
+
+(406)
+
+[⎆dehe⎅‫ש‬e] ~ [⎆deh⎅‫ש‬e] /⎆teh-⎆te/
+
+“cobra, tipo de.”
+
+(407)
+
+[⎆keih⎅‫ש‬e] ~ [⎆kei⍧hi⎅‫ש‬i] /⎆keih-⎆te/
+
+“pachiuba”
+
+(408)
+
+[⎆o⍧ho⎅‫ש‬e] /⎆oh-⎆te/
+
+“macuco”
+
+(409)
+
+[⎆e⍧he⎅‫ש‬e] /⎆eh-⎆te/
+
+“machado”
+
+(410)
+
+[wo⎆‫ש‬o⍧ho⎅‫ש‬e] ~ [wo⎆‫ש‬oh⎅‫ש‬e] /woh⎆toh-⎆te/
+
+“urucum”
+
+79Há algumas exceções em que raízes dissilábicas recebem uma vogal epentética e são ressilabificadas, conforme o exemplo (410). 80A epêntese vocálica e a ressilabificação na superfície ocorrem também em Latundê, mas diferente do Lakondê, se dão exclusivamente com raiz monossilábica.
+
+133
+
+/⎆loh-⎆te/ [⎆lo⍧⎅‫ש‬e] ~ [⎆loho⎅‫ש‬e]
+
+“itaúba”
+
+Vogal epentética
+
+σ
+
+σ
+
+Rima
+
+Rima
+
+Onset Núcleo Coda
+
+Onset Núcleo
+
+l
+
+o
+
+h
+
+t
+
+e
+
+σ
+
+σ
+
+σ
+
+Rima
+
+Rima
+
+Rima
+
+Onset Núcleo Onset Núcleo Onset Núcleo
+
+l
+
+o⍧
+
+h
+
+o
+
+‫ש‬
+
+e
+
+Figura 22: Epêntese vocálica e ressilabificação.
+
+2.3.7. PROCESSOS DE COALESCÊNCIA
+
+2.3.7.1. MONOTONGAÇÃO OU COALESCÊNCIA VOCÁLICA
+No Lakondê observamos uma tendência à monotongação através da fusão de ditongos. Este processo não ocorre com todas as seqüências VV, mas apenas com os ditongos formados pela vogal baixa central na primeira posição. O resultado da monotongação pode uma vogal média posterior nasal ou uma vogal média baixa, as quais não fazem parte do inventário fonológico da língua. A
+
+134
+
+realização monotongada pode manter o traço laringal ou nasal quando este está presente na subjacência em um dos segmentos do ditongo81.
+A monotongação ocorre preferencialmente em sílaba fechada, quando a consoante fonológica em coda não é realizada.
+O processo de monotongação segue a seguinte notação:
+/au/ → [ѐ] / __ /h/# [ѐ] / __ /h/-
+/ai/ → [ϯ] / __ /h/# [ϯ] / __ /h/-
+/au/ → [o] / __ /n/# [o] / __ /n/-
+
+(411) /⎆teih-⎆naun/
+
+[⎆deih⎅no]
+
+“caminho”
+
+(412) /tau⎆ein-⎆naun/
+
+[dѐ⎆eid⎅no]
+
+“mata”
+
+(413) /tau⎆eh-⎆te/
+
+[dѐ⎆e⍧⎅‫ש‬e]
+
+“filho”
+
+(414) /jai⎆laun-⎆kah-⎆te/ [jϯ⎆lau⎅ցa⍧⎅‫ש‬e] “pé de tucumã”
+
+(415) /⎆ta-⎆waih-⎆te/
+
+[da⎆wϯ⍧⎅he]
+
+“irmã”
+
+2.3.7.2. COALESCÊNCIA CONSONANTAL
+Em fronteira de morfema, a sequência formada por fricativa glotal, /h/, em coda de sílaba acentuada seguida de oclusiva alveolar, /t/, em onset da sílaba seguinte, pode sofrer o processo de coalescência, no qual as duas consoantes
+81Nos dados, observamos que o traço laringal nem sempre é preservado e realizado pela falante, o que pode ter relação o fato da falante ser bilíngüe e utilizar prioritariamente a língua portuguesa, na qual este traço não é distintivo (cf. nota 42).
+
+135
+
+são fusionadas resultando apagamento da consoante da coda e no alongamento compensatório da vogal nuclear desta sílaba, e na realização da fricativa glotal em onset da sílaba seguinte, substituindo a oclusiva alveolar. Este processo ocorre apenas quando as duas sílabas são tônicas e fazem parte de morfemas distintos. A coalescência não é um processo obrigatório.
+
+(416)
+
+[⎆lo⍧⎅han] ~ [⎆lo⍧⎅‫ש‬an] /⎆loh-⎆tan/
+
+“vomitar”
+
+(417)
+
+[wa⎆sa⍧⎅he] ~ [wa⎆sa⍧⎅‫ש‬e] /wa⎆sah-⎆te/
+
+“besouro, tipo de.”
+
+(418)
+
+[⎅da⎆na⍧h⎅he] ~ [⎅da⎆na⍧⎅‫ש‬e] /⎆ta-⎆nah-⎆te/
+
+“mãe”
+
+(419)
+
+[da⎆le⍧⎅he] ~ [da⎆leh⎅te] ~ [da⎆le⍧⎅‫ש‬e] /ta⎆leh-⎆te/
+
+“embira”
+
+136
+
+CONSIDERAÇÕES FINAIS
+
+O estudo das línguas indígenas tem um papel muito importante no que diz respeito à preservação da cultura e da tradição destes povos que, durante toda a história do país, sofreram um processo violento de aculturamento e de exclusão. Com esse estudo, entende-se também que haverá mais chances de se preservar essas línguas, as quais avaliamos aqui como um patrimônio inestimável quer seja para o repasse das tradições entre seus falantes, quer seja para o avanço da ciência.
+O nosso estudo tem um propósito maior do que a descrição e a análise da fonologia segmental do Lakondê, que é o de contribuir com o registro e a preservação da língua do grupo homônimo, e com isso, dar um passo a mais no trabalho de documentação das línguas indígenas brasileiras.
+A nossa proposta, no trabalho aqui apresentado, foi apresentar a fonologia segmental da língua Lakondê, que faz parte da família Nambikwára. Para tanto, pautamos nossas reflexões nos pressupostos da Fonologia Estrutural, para a identificação dos fonemas, e da Fonologia Moderna, para a análise da estrutura silábica e dos processos.
+O sistema fonológico do Lakondê é formado por onze fonemas consonantais e dezesseis fonemas vocálicos. Abaixo, apresentaremos o quadro resumitivo dos fonemas e suas realizações82.
+
+ALTAS ALTAS NASAIS MÉDIAS FECHADAS BAIXAS
+BAIXAS NASAIS
+
+Tabela 8. Quadro resumitivo dos fonemas e alofones vocálicos.
+
+FRONTAIS
+
+FONEMAS E ALOFONES VOCÁLICOS
+
+VOGAIS
+
+VOGAIS LARINGAIS
+
+CENTRAL POSTERIORES FRONTAIS CENTRAL POSTERIORES
+
+i [i, i⍧]
+
+u [u, u⍧]
+
+i [i, i, i⍧]
+
+u [u, u, u⍧]
+
+i [i, i⍧]
+
+u [u, u⍧]
+
+i [i, i⍧]
+
+u [u]
+
+e [e, e⍧]
+
+o [o, o⍧]
+
+e [e, e, e⍧]
+
+o [o, o, o⍧]
+
+a [a, a⍧, ѩ] a [a, a⍧]
+
+a [a, a⍧, a] a [a, a⍧]
+
+82 Além das realizações apresentadas na Tabela 8, podemos ainda observar a realização de
+vogais médias baixas, [ϯ] e [ѐ], as quais decorrem da fusão dos ditongos /ai/ e /au/, respectivamente.
+
+137
+
+Tabela 9. Quadro resumitivo dos fonemas e alofones consonantais.
+FONEMAS E ALOFONES CONSONANTAIS
+
+Oclusiva
+
+Labiais
+p [p, b]
+
+Coronais
+
++ anterior
+
+- anterior
+
+t
+
+[t, d, th, ‫]ש‬
+
+Dorsais
+k [k, ց]
+
+Nasais
+Lateral Fricativas
+Glide
+
+m
+
+n
+
+[m]
+
+[n, m*, ֊*, dn*,
+
+bm*, ց֊*, Бn*]
+
+l
+
+[l]
+
+s
+
+[s, Ѐ, tЀ]
+
+w
+
+j
+
+[w]
+
+[j]
+
+Glotal
+Б [Б]
+h [h]
+
+A sílaba fonológica do Lakondê pode ter até cinco segmentos, sendo o template máximo da sílaba /CVVCC/. São dez os tipos de sílaba fonológica que ocorrem na língua: /V/, /VV/, /CV/, /CVV/, /VC/, /VVC/, /CVC/, /CVVC/, /CVCC/, /CVVCC/. O onset silábico fonológico é apenas simples, podendo ser ocupado por qualquer consoante, incluindo os glides, exceto a oclusiva glotal, /Б/. O núcleo silábico, único componente obrigatório da sílaba, pode ser composto por uma (núcleo simples) ou duas vogais, que formam ditongo decrescente (núcleo ramificado). Qualquer vogal pode ocupar a primeira posição nuclear. A segunda posição só pode ser ocupada por uma vogal alta oral. A coda silábica pode ser simples, conforme ocorre na maior parte das ocorrências observadas, ou ramificada, formada apenas pela seqüência formada por consoante nasal seguida de oclusiva glotal, /nБ/.
+Observamos na língua a ocorrência de processos fonológicos de assimilação progressiva e regressiva (Vozeamento das oclusivas, Ponto de articulação da nasal em coda, Nasalização, Harmonia Vocálica), fortalecimento (Consonantização dos glides), lenição (Enfraquecimento da oclusiva alveolar), apagamento (Redução e apagamento silábico, Apagamento da coda), inserção (Ressilabificação com epêntese vocálica) e coalescência (Monotongação ou
+
+* Fones que ocorrem apenas em coda silábica.
+
+138
+coalescência vocálica, Coalescência consonantal). Os processos observados aqui são estritamente fonológicos, não tendo implicações na morfologia.
+Ao longo do nosso trabalho, procuramos sempre que necessário, traçar paralelos entre o que observamos no Lakondê e o que ocorre nas línguas mais próximas, Latundê e Mamaindê. O nosso objetivo ao comparar as línguas foi identificar semelhanças e diferenças entre elas e dar, com isso, alguma contribuição ao estudo tipológico das línguas Nambikwára. Além disso, por não ser mais utilizada com finalidade social e ter apenas uma falante, é interessante que, para o estudo do Lakondê, tenhamos em mãos os estudos das línguas mais próximas, uma vez que entendemos que há fenômenos da língua que não ocorrem nas línguas próximas – e vice-versa – que podem estar relacionados ao contato lingüístico – entre línguas de diferentes etnias e com o Português – e ao desuso da língua Lakondê com finalidade social.
+O trabalho aqui apresentado é apenas uma pequena contribuição para o registro e conhecimento mais amplo da língua Lakondê, da família lingüística Nambikwára e das línguas indígenas brasileiras. As reflexões apresentadas por nós não são conclusivas e definitivas, podendo ser revistas em trabalhos posteriores, com a ampliação do corpus e uma maior minúcia no tratamento dos dados. Entendemos que o estudo de uma língua nunca é exaustivo, uma vez que cada língua apresenta uma infinidade de particularidades as quais merecem ser problematizadas. Portanto, compreendemos a necessidade de realização de estudos mais detalhados sobre os diversos aspectos do Lakondê que ainda não foram explorados, como a fonologia prosódica, que trata do acento e do tom, e de maior aprofundamento para que consigamos desvendar questões que ainda nos parecem obscuras.
+
+139
+REFERÊNCIAS BIBLIOGRÁFICAS
+ARAÚJO, G. A. de. A Grammar of Sabanê: A Nambikwaran Language. Tese (Doutorado em Letras). Amsterdam: Vrije Universiteit Amsterdam. 2004. Disponível em: <http://www.lotpublications.nl/index3.html>. Acesso em 20 de dezembro de 2011.
+BARROS, M. C. D. M. A missão Summer Institute of Linguistics e o indigenismo latino-americano: história de uma aliança (décadas de 1930 a 1970). Revista de Antropologia, São Paulo, v.47, n.1, 2004. Disponível em: <http://www.scielo.br/scielo.php?pid=S003477012004000100002&script=sci_arttext>. Acesso em 20 de dezembro de 2011.
+BISOL, Leda (org.). Introdução a estudos de fonologia do português brasileiro. 4. ed. Porto Alegre: EDIPUCRS, 2005.
+BLEVINS, Juliette. The Syllable in Phonological Theory. In: GOLDSMITH, John A. (ed.). The Handbook of Phonological Theory. Oxford: Blackwell, 1995. p. 206-244.
+CAGLIARI, Luiz Carlos. Análise Fonológica: Introdução à teoria e à prática, com especial destaque para o modelo fonêmico. Campinas: Mercado de Letras, 2002.
+CÂMARA JR, J. M. Princípios de lingüística geral. Rio de Janeiro: Padrão Livraria Editora, 1959.
+______. Introdução as Línguas Indígenas Brasileiras. Rio de Janeiro: Livraria Acadêmica, 1965.
+______. Dicionário de Lingüística e gramática. Petrópolis: Vozes, 1986.
+CHOMSKY, Noam; HALLE, Moris. The Sound Pattern of English. New York: Harper e Row, 1968. CLEMENTS, G. N.; HUME, Elizabeth V. The Internal Organization of Speech Sounds. In: GOLDSMITH, John A. (ed.). The Handbook of Phonological Theory. Oxford: Blackwell, 1995. p. 245-306.
+COLLISCHONN, Gisela. A sílaba em português. In: BISOL, Leda (org.). Introdução a estudos de fonologia do português brasileiro. 4. ed. Porto Alegre: EDIPUCRS, 2005. p. 101-133.
+EBERHARD, David Mark. Mamainde Grammar: a Northern Nambikwara language and its cultural context. Tese (Doutorado em Letras). Amsterdam: Vrije Universiteit Amsterdam, 2009. Disponível em: <http://www.lotpublications.nl/index3.html>. Acesso em: 20 de dezembro de 2011.
+FUNDAÇÃO NACIONAL DO ÍNDIO (FUNAI). Disponível em: <http://www.funai.gov.br/>. Acesso em: 20 de dezembro 2011.
+
+140
+GOLDSMITH, John. Phonological Theory. In: GOLDSMITH, John A. (ed.). The Handbook of Phonological Theory. Oxford: Blackwell, 1995. p. 1-23.
+HAYES, Bruce. Phonemic Analysis. Introductory Phonology. 2007. p.2-27.
+______. More on Phonemes. Introductory Phonology. 2007. p.28-47.
+HERNANDORENA, C. L. M. Introdução à Teoria Fonológica. In: BISOL, L. (org.). Introdução a estudos de fonologia do português brasileiro. 3.ed. Porto Alegre: EDIPUCRS, 2001. pp. 11-79.
+INSTITUTO SOCIOAMBIENTAL. Povos Indígenas do Brasil. Disponível em: <http://pib.socioambiental.org/pt>. Acesso em: 20 de dezembro de 2011.
+KENSTOWICZ, Michael. Phonology in Generative Grammar. Oxford: Blackwell, 1994.
+LADEFOGED, Peter; MADDIESON, Ian. The Sound of the World’s Languages. Oxford: Blackwell, 1996.
+LASS, Roger. Phonology: An Introduction to basic concepts. Cambridge: Cambridge University, 1984.
+LEPSCHY, G. A lingüística estrutural. Rio de Janeiro: Perspectiva, 1975.
+LÉVI-STRAUSS, Claude. The name of the Nambiquara. American Antropologist. v.48. 1946. p.139-140.
+______. La vie familiale et sociale des indiens Nambikwara. Journal de la Société dês Américanistes. v.37. 1948. p.1-132.
+______. Tristes Trópicos. Tradução de Rosa Freire d’Aguiar. São Paulo: Cia. Das Letras, 1996.
+LOWE, Ivan. Nambiquara. In: DIXON, R. M. W.; AIKHENVALD, ALEXANDRA Y. The Amazonian languages. Cambridge: Cambridge University Press, 1999. p.269-291.
+MATZENAUER, Carmen Lúcia. Introdução à Teoria Fonológica. In: BISOL, Leda (org.). Introdução a estudos de fonologia do português brasileiro. 4. ed. Porto Alegre: EDIPUCRS, 2005. p. 11-81.
+PRICE, David. The Nambiquara Linguistic Family. Antropological Linguistics. v.20. n.1. 1978. p.14-35.
+______. Parici, Cabixi, Nambiquara: a Case Study in the Western Classification of Native Peoples. Journal de la Société des Américanistes. v. 69. 1983. p.129-148.
+______. Overtures to the Nambiquara. Natural History. v.10/84. 1984. p.30-48.
+
+141
+
+______. Nambiquara Languages: Linguistic and Geographical Distance between Speech Communities. In: KLEIN, H. E. M.; STARK, L. R. South American Indian Languages: Retrospect and Prospect. Austin: University of Texas Press, 1985. p.304-323.
+
+______. Nambiquara Geopolitical Organisation. Man (N. S.). v.22. Cornell University, 1987. p.1-24.
+
+PRICE, David; COOK, Cecil E. The Present Situation of the Nambikwara. American Anthropologist, Journal of the American Anthropological Association. v.71. 1969. p.688-693.
+
+RODRIGUES, Aryon Dall’Igna. Línguas Brasileiras: para o conhecimento das línguas indígenas. 4. ed. São Paulo: Loyola, 2002.
+
+______. Sobre as ínguas indígenas e sua pesquisa no Brasil. Ciência e Cultura. v. 57. n.02. abr/jun. São Paulo, 2005. Disponível em: <http://cienciaecultura.bvs.br/scielo.php?pid=S000967252005000200018&script=sci_arttext>. Acessado em 17 de dez. de 2011.
+
+RONDON, Cândido M. S. Publicação nº. 2 da Comissão de Linhas Telegráficas Estratégicas de Mato-Grosso ao Amazonas (“Comissão Rondon”). Anexo nº. 5. Rio de Janeiro: Imprensa Nacional, 1947. p.45-54.
+
+RONDON, Cândido M. S. e FARIA, João Barbosa de. Glossário Geral das Tribos Silvícolas de Mato-Grosso e outras da Amazônia e do Norte do Brasil. Publicação 76, Tomo I, Anexo 5. Conselho Nacional de Proteção aos Índios/Ministério da Agricultura. 1947.
+
+ROQUETE-PINTO, Edgard. Rondônia. 2.ed. Rio de Janeiro: Imprensa Nacional,
+
+1919.
+
+Disponível
+
+em:
+
+<http://www.archive.org/stream/rondonia00roqu#page/n5/mode/2up>. Acesso em:
+
+20 de dezembro de 2011.
+
+SAUSSURE, Ferdinand. Curso de Lingüística Geral. 27.ed. São Paulo: Cultrix, 2006.
+
+SEKI, Lucy. Línguas indígenas do Brasil no limiar do século XXI. Impulso, Piracicaba, v. 12, n. 27, p. 233-246, 2000. Disponível em: <http://www.unimep.br/phpg/editora/revistaspdf/imp27art11.pdf>. Acesso em 20 de dezembro de 2011.
+
+SPENCER, Andrew. Phonology. Oxford: Blackwell Publishers, 1986.
+
+TELLES, Stella. Fonologia e Gramática Latundê/Lakondê. Tese (Doutorado em Letras). Amsterdam: Vrije Universiteit Amsterdam, 2002.
+
+142
+APÊNDICE
+
+143
+
+PEQUENO VOCABULÁRIO PORTUGUÊS-LAKONDÊ
+A
+
+Abacaxi Abanador Abanar Abelha Abelha amarela Abelha bujuí Abelha jati Abelha manduguari Abelha mandurizinha Abelha que corta cabelo, tipo de. Abóbora Abraçar (um ao outro) Açafrão Açaí Acuri Açúcar do branco Água de beber Aldeia Algodão Amanheceu Amendoim Anoiteceu
+
+/ka⎆kah-⎆toh-ka⎆ni/ /kau⎆ain-ka⎆loh/ /kau⎆a-⎆len-nih-⎆tan/ /⎆toh-⎆tah-⎆te/ /⎆ah-⎆te/ /⎆deh/ /⎆waih-⎆tah/ /⎆iauh-⎆tah/ /⎆toh-⎆nain / /wa⎆leБ-⎆kih-⎆te/
+/kou.⎆ein.ka.⎆ni/ /je⎆laБ-⎆hiБ-tah-⎆tan/ /⎆sihka-⎆naih/ /⎆waiБ-ka⎆ni-⎆te/ /⎆loБhun-⎆tah-ka⎆ni/ /toБ-han-naun/ /⎆nankah-⎆tuh/ /⎆ta-ho⎆loБ-nauh-⎆te/ /⎆kun-⎆te/ /⎆nan-nih-⎆tan/ /⎆waih-ka⎆ni/ /ta⎆nah-⎆tan-na/
+
+144
+
+Anta Aranha, tipo de. Arara amarela Arara vermelha Ararinha Araruta Arco Areia branca Aroeira Arroz Arroz do mato Asa Asa branca Assobiar Azedo (“está azedo”)
+
+/⎆noБ-un-⎆tah/ /⎆nah-⎆te/ /⎆lauhtau-seh⎆teh-hoh-⎆te/ /⎆lauhtau-⎆waun-hoh-⎆te/ /ka⎆kaih-⎆te/ /jai⎆lauh-⎆te/ /⎆hun.kah.⎆te/ /sin⎆kin-⎆han-⎆tun/ /⎆hihten-⎆tah/ /sin⎆kih-min-ka⎆ni/ /sin⎆kih-dah-ka⎆ni/ /anukoБ-iБ-naun/ /kei⎆uh-⎆te/ /iu⎆auБ-tih-⎆tan/ /⎆kah-⎆tan-ta/
+
+B
+
+Bacural Balaio Banana Barata grande Barata pequena Barbatimão Barro branco Barro preto Barro vermelho
+
+/kei⎆auh-⎆te/ /hau-⎆auh-⎆te/ /ke⎆lih-⎆te/ /ka⎆loun-⎆tah-⎆te/ /ka⎆loh-⎆weiБ-⎆nauh-⎆te/ /⎆hih-teh-⎆tah/ /wo⎆lon-⎆naun/ /sin⎆kih-toh-⎆tun/ /sin⎆kih-⎆waun-⎆tun/
+
+145
+
+Batata Beija-flor Beijo Besourinho, tipo de. Besouro-tesoureiro grande. Bicho Boca Boi Bonito Borboleta Braço Braço de bicho Breu Brigar Buraco Buriti
+
+/⎆min-ka⎆ni/ /su⎆nun-⎆te/ /nan⎆tun-⎆kaБ-tah-⎆tan/ /wa⎆sah-⎆te/ /⎆tuiБ-⎆kah-⎆te/
+/⎆non-⎆te/ /⎆wai-u-⎆naun/ /nasa⎆lan-kah-⎆te/ /⎆mun-⎆tan-ta/ /kama⎆mah-⎆te/ /⎆a-⎆nun-kah-⎆naun/ /⎆a-⎆nuhka-⎆naun/ /ni-ka⎆ni/ /⎆hei-⎆tan/ /u-⎆wein-⎆naun/ /⎆hein-ka.⎆ni-tah-⎆tan/
+
+C
+
+Cabaça Cabeça Cabelo Cacau Cachorro Cachorro do mato Café
+
+/wo⎆louh-⎆te/ /⎆waiБ-ka⎆ni-naun/ /⎆wa-nan-⎆kih-⎆te/ /woh⎆loun-ka⎆ni/ /⎆wain-⎆te/ /⎆wain-⎆tah/ /to⎆tau/
+
+146
+
+Caititu Caju Camarão Caminho Campo Capim d’água Capim-navalha, tipo de capim. Capim-sapé Cará Caramujo d’água Caranguejo Carne Carvão Carrapicho Casa Casar Casca Castanha, fruto da castanheira. Castanheira Caxinguelê Cera, resina Cerejeira Chicha Chifre de bicho Chuva Cidreira
+
+/kei⎆ain-⎆te/ /⎆main-ka⎆ni/ /nasa⎆siБ-⎆te/ /teih-naun/ /ho⎆loБ/ /ka⎆loh-⎆te/ /ka⎆kaБ-⎆teh-⎆te/
+/sin⎆kin-⎆te/ /⎆haБ-ka⎆ni/ /wo⎆lon-ka⎆ni/ /⎆ain-⎆koun-ka⎆ni/ /⎆i-⎆siБ-son-tan/ /⎆hin-kah⎆laБ/ /nan⎆kan-ka⎆ni/ /⎆sih-⎆te/ /tunБ-⎆ten-nih-⎆tan/ /⎆i-ka⎆loh/ /wa⎆naБ-ka⎆ni/
+/wa⎆naБ-kan-⎆kah-⎆te/ /ka⎆nin-⎆te/ /⎆jain-⎆te/ /⎆waih.⎆te/ /na⎆hoh-⎆te/ /⎆a-nasa⎆lan-kah-⎆te/ /⎆mih-tan/ /⎆punБ-⎆tan-ta/
+
+147
+
+Cigarra Cipó-do-campo Cobra Cobra cascavel Cobra-cinta Cobra coral Cobra jibóia Cobra sucuri Coco da bacaba Cogumelo Colar Comer Congoró Cordão de algodão Coró Coró grande Coruja Cotia Couro Criança recémnascida Cupim
+
+/ki⎆kih⎆te/ /⎆kun-⎆de/ /⎆teh.te/ /ke⎆lih-wa⎆lah/ /⎆teh-sa⎆laБ-sa⎆laБ/ /sa⎆man-⎆teh/ /⎆e-⎆hin-⎆te/ /⎆teh-⎆tah/ /⎆wein-ka⎆ni-⎆te/ /⎆kaihti-⎆teh-⎆te/ /ja⎆liБ-⎆kah-⎆te/ /⎆wih-⎆tan-ta/ /wola⎆lai-hin-⎆te/ /⎆kun-kan-⎆teh/ /⎆jaun-⎆te/ /⎆jaun-⎆lon-⎆te/ /ho⎆hoБ-⎆hun/ /⎆tun-⎆te/ /u-⎆min-⎆te/ /nan⎆pan-hun-⎆te/
+/ka⎆maun-ka⎆ni/
+
+Dente
+
+D
+/⎆wai-wih-⎆naun/
+
+148
+
+Derrubar Dor de cabeça Dormir Duro (“está duro”)
+
+/tauh⎆taun-⎆tan/ /⎆nin-⎆laun-tah-⎆tan/ /⎆un-tah-⎆tan/ /⎆kan-⎆tan-na/
+
+E
+
+Embira Enxada Escorpião Espinho
+
+/ta⎆leh-⎆te/ /koБ-⎆hin-⎆te/ /je⎆jauБ-⎆hun-⎆te/ /⎆kihti-⎆kah-⎆te/
+
+F
+
+Falar bonito Farinha Fava Febre Feijão Ferrão de arraia Filha Filho Flecha Flor Flor com caroço Fogo, fogueira Folha Folha de veneno
+
+/⎆mon-⎆sei-tah-⎆tan/ /⎆lin-⎆nauh-⎆te/ /ka⎆mah-tun-⎆tan-ka⎆ni/ /⎆nan-⎆tan-ta/ /ko⎆maБ-ka⎆ni/ /in⎆kin-⎆te/ /⎆weiБ-⎆wai-⎆naun/ /⎆weiБ-⎆nauh-⎆te/ /⎆auh.⎆te/ /⎆i-⎆honБjauh-⎆tan/ /⎆i-ka⎆ni-jauh-⎆tan/ /⎆eБ-⎆kah-⎆te/ /i⎆tan-⎆te/ /⎆nan-⎅te/
+
+149
+
+Folha de mandioca Folha de mandioca braba Formiga barrigudinha Formiga cabeçuda Fraco (estou fraco) Frio Fruta Fruta verde (não madura)
+Fruto da gameleira
+
+/sin⎆tin-⎆tan-⎆te/ /lin-⎆tan-⎆te/
+/sa⎆main-ka⎆ni/
+/⎆kain-⎆te/ /nu⎆kan-tah-t⎆an/ /⎆lih-⎆tan-ta/ /⎆soun-ka⎆ni/ /ka⎆kaun-⎆tan-⎆ta/
+/jelun-ka⎆loh/
+
+Gafanhoto Galinha Gambá Garça Gavião Gavião pequeno Gavião real Gralho Grilo Gordura
+
+G
+/son⎆kun-ke-⎆tah/ /ka⎆laБ-ka⎆lah-⎆te/ /iu⎆an-⎆tah/ /wan⎆kan-⎆te/ /⎆haun-⎆te/ /⎆koБ-ka⎆ni/ /⎆koБkan-tah-⎆te/ /ka⎆kaБ-⎆hun/ /ko⎆lon-⎆te/ /⎆a-ha⎆niБ-⎆te/
+
+H
+
+150
+
+Homem branco Homem índio Homem preto
+
+/kei⎆aunkaБ-han-⎆nauh-⎆te/ /e.⎆hin.⎆te/ /kei⎆aunkaБ-⎆toh-⎆te/
+
+I
+
+Inimigo Itaúba
+
+/⎆niБ-⎆seinБ-to-⎆tan-ta/ /⎆loh-⎆te/
+
+J
+
+Jaboti Jacá Jacamim, ave Jacaré Jacu Jaó Japolão, pássaro. Jatobá
+
+/⎆kun-⎆te/ /ta⎆lan/ /tui⎆au/ /kei.⎆an.⎆te/ /tu⎆muh-⎆ke/ /tan⎆taБ-⎆hun-⎆te/ /ko.⎆loun.⎆te/ /ui.⎆an.⎆te/
+
+L
+
+Lagarta de coqueiro Lagarta pequena Lagarto, tipo de. Lagarto, tipo de. Lagarta, tipo de. Lama
+
+/⎆jaik-⎆nah/ /nan⎆kan-⎆de/ /nan⎆kan-⎆tah/ /⎆nuhte-⎆tah/ /wa⎆wain-⎆nah/ /ka⎆man-⎆te/
+
+151
+
+Lenha Língua Lombriga, minhoca Lontra Lorão, tipo de ave. Lua
+
+/⎆nih-⎆te/ /⎆wai-u⎆hein-⎆naun/ /ju⎆jun-kah-⎆te/ /na⎆hoБ-wain-⎆te/ /⎆aun-⎆tah/ /⎆en.⎆te/
+
+M
+
+Macaco cuxiú Macaco da noite Macaco do dia Macaco irara Macaco prego Machado Macuco Madeira de bacaba Madeira de tucumã Maduro (“está maduro”) Mãe Mandioca Mandioca braba Mandioca d’água Mão Mão de pilão Maribondo Maribondo rajado
+
+/⎆kun-⎆te/ /jau-⎆nauh-⎆te/ /⎆kiБteh-⎆te/ /⎆un-kah-⎆te/ /⎆hoh-⎆te/ /⎆eh-⎆te/ /⎆oh.⎆te/ /⎆wein-⎆kah-tah-⎆tan/ /jai⎆laun-⎆kah-tah-⎆tan/ /kuh-⎆tan-ta/
+/⎆ta-⎆nah-ko/ /sih⎆tin-⎆tun/ /⎆lin-⎆nain-kah-⎆te/ /⎆lin-kei⎆anБ-⎆tain/ /⎆wai-⎆hin-⎆naun/ /⎆nuБ-sanai-⎆ke/ /⎆an-⎆te/ /⎆naih-⎆te/
+
+152
+
+Maribondo, tipo de. Marido Mata Medo (de bicho/coisa) Milho Mole (“está mole”) Mulher Mutum
+
+/a⎆loБ-⎆hun/ /⎆ta-wih-⎆tain-koh/ /tau⎆ein-nauh-⎆tan/ /⎆hinБ-ta/
+/kei.⎆ah.⎆te/ /ta⎆tanБ-⎆tan-⎆ta/ /ten⎆hin⎆-te/ /⎆wih-⎆te/
+
+N
+
+Nada, ter nada Nambu Nariz Não, negativa Nascer (“está nascendo”) Nós Novo (“é novo, coisa nova”)
+
+/ha⎆taБ-⎆tan/ /⎆tah-⎆tan-ta/ /⎆wai-⎆wih-tah-⎆naun/ /ha⎆tan/ /ka⎆loh-⎆tan-ta/
+/⎆nuh/ /⎆lah-han-⎆tan-ta/
+
+O
+
+Olho Ontem Orelha Osso Ovo
+
+/⎆wa-⎆lin-ka⎆ni-naun/ /⎆koБtelei/ /⎆wai-nahse⎆lan-⎆naun/ /a-⎆nah-⎆te/ /⎆aika-⎆na/
+
+153
+
+Ovo de macuco
+
+/⎆oh-ka⎆na/
+
+P
+
+Paca
+
+/⎆loh-tah-⎆te/
+
+Pai
+
+/⎆ta-⎆min-ko/
+
+Palavra (“minha palavra”)
+
+/⎆tai-ai⎆seiБ-⎆tan/
+
+Palavra (“sua palavra”)
+
+/⎆wai-ai⎆seiБ-⎆tan/
+
+Palha do açaí
+
+/⎆waiБ.⎆na/
+
+Panela
+
+/wah⎆tan-⎆te/
+
+Paneiro
+
+/⎆sihte/
+
+Papo
+
+/jai⎆lah-⎆ten-⎆te/
+
+Passarinho
+
+/⎆aiБ-ka.⎆ni-nauh-⎆te/
+
+Pássaro nambuzinho /ih⎆min-⎆te/
+
+Pássaro tesourinha /tahi⎆hih-⎆te/
+
+Patuá
+
+/tah⎆taun-ka⎆ni/
+
+Pau cru
+
+/⎆ihta-⎆kah-⎆te/
+
+Pau de breu
+
+/ni-⎆kah-⎆te/
+
+Pau de forquilha
+
+/hih⎆tuБ- isun⎆tein-⎆kah-⎆te/
+
+Pau de gameleira
+
+/ju⎆lun-⎆tan-⎆te/
+
+Pau de itaúba
+
+/⎆loh-kah-⎆te/
+
+Pau liso
+
+/toh⎆toБ-⎆te/
+
+Pé
+
+/⎆wai-⎆un-⎆naun/
+
+Pé de mandioca
+
+/⎆lin-⎆tuh/
+
+Peito
+
+/⎆wai-⎆nunka-⎆naun/
+
+Peixe
+
+/⎆ain/
+
+154
+
+Peixe-bodó Peixe-cachorro Peixe-cará Peixe cascudinho Peixe pacu Peixe-piau Peixe poraquê (enguia) Peixe tuvira Peneira Pente de cabelo Pequeno Pequi Percevejo Perna Pescoço Pica-pau Pilão Pintar (“é/está pintado”) Piolho Plantar (“vou plantar”) Povo inimigo Prato Preguiça Pronto (“está pronto/ feito”)
+
+/wo⎆lon-⎆te/ /⎆ain-koun⎆piБ/ /⎆han-ka⎆ni/ /ka⎆lan-ka⎆ni/ /⎆nain-⎆te/ /jupa⎆lih-⎆te/ /⎆ain-⎆sihten-⎆te/
+/⎆ain-⎆tan-⎆te/ /wo⎆lan-kah-⎆te/ /ha⎆laБ-⎆kah-⎆te/ /tawe⎆ken-⎆naun/ /⎆an-ka⎆ni/ /ka⎆laБ-wi⎆lih-⎆te/ /⎆wai-tun-⎆naun/ /⎆wai-⎆lanБ-te⎆naun/ /ko⎆loun-⎆te/ /⎆noh-⎆te/ /ko⎆loБ-ko⎆lon-⎆tan-ta/
+/ka⎆nai-⎆hun/ /⎆iБ-kah-⎆ten-nih-⎆tan/
+/ni⎆seiБ-to-⎆tan-ta/ /⎆hin-ka-⎆loh/ /⎆on-tah-⎆tan/ /ta⎆lon-⎆tah/
+
+155
+
+Q
+
+Quati Queixada
+
+/⎆kih-te/ /⎆jan-⎆keБ/
+
+R
+
+Rabo de bicho Raio Ralador Rama da mandioca Rato Rato pequeno Rede de carregar criança Rede de dormir Relâmpago Rio Rir
+
+/⎅i-tah-⎆taun/ /ha⎆lain-⎆tan/ /sa⎆man-⎆te/ /⎆lin-⎆tuh/ /loh-⎆te/ /loh-i-ka⎆ni-nauh-⎆te/ /⎆ban.⎆te/
+/⎆hein.⎆te/ /wo⎆lun-⎆tan/ /na⎆hon-⎆tah/ /⎆kaunБ/
+
+S
+
+Sangue Sexo (fazer sexo) Sexo (vamos fazer sexo!) Sol Sujo (“está sujo”) Sujo (“estou sujo”)
+
+/⎆wa-⎆nain-ke/ /da⎆mi-⎆haБ/ /⎆hainБ,⎆tah/
+/soБ-⎆an-⎆te/ /⎆jein-⎆tan-ta/ /⎆jein-tah-⎆tan/
+
+156
+
+T
+
+Taioba Tamanduá, tipo de. Tatu-canastra Tatu-de-quinze-quilos Tatu do campo Tatu-peba Tatu pequeno Terra dele Tipóia, bracelete Traíra Trançar, costurar Tripa Tronco, madeira Trovão Tucum Tucum pequeno Tucumã
+
+/so-⎆pan-ka⎆ni/ /wan⎆ten-⎆te/ /ho.⎆lon.⎆te/ /kon⎆paih-⎆te/ /won⎆kon-⎆te/ /sa⎆naih-⎆te/ /⎆an-⎆te/ /⎅tai-au⎆ta/ /ta⎆lah-⎆te/ /⎆wih-te/ /au-⎆hih-⎆tan/ /wanka⎆nan-⎆te/ /⎆i-⎆kah-⎆te/ /⎆hein-⎆tan/ /ki⎆teh-⎆te/ /ki⎆teh-ka⎆ni/ /jai⎆laun-ka⎆ni/
+
+U
+
+Unha Urucum
+
+/⎆wai-hin⎆kan-⎆naun/ /on.⎆tuh.⎅te/
+
+V
+
+Veado
+
+/jaih⎆tan-⎆te/
+
+157
+
+Ver (“eu vi”)
+Vermelho (“é vermelho”) Viu muito Vomitar
+
+/⎆eh-⎆tan/ /⎆waun-⎆tan-ta/
+/⎆wain-⎆tan/ /loh-⎆tan/
+
+

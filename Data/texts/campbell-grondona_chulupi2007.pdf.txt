@@ -1,0 +1,1214 @@
+John Benjamins Publishing Company
+This is a contribution from Diachronica 24:1 © 2007. John Benjamins Publishing Company This electronic file may not be altered in any way. The author(s) of this article is/are permitted to use this PDF file to generate printed copies to be used by way of offprints, for their personal use only. Permission is granted by the publishers to post this file on a closed server which is accessible to members (students and staff) only of the author’s/s’ institute. For any other use of this material prior written permission should be obtained from the publishers or through the Copyright Clearance Center (for USA: www.copyright.com). Please contact rights@benjamins.nl or consult our website: www.benjamins.com Tables of Contents, abstracts and guidelines are available at www.benjamins.com
+
+Internal reconstruction in Chulupí (Nivaclé)
+Lyle Campbell and Verónica Grondona
+University of Utah / Eastern Michigan University
+This paper is about internal reconstruction and the history of Chulupí, a Matacoan language of Argentina and Paraguay. We apply internal reconstruction and postulate several sound changes in the history of Chulupí. We bring the results of this internal reconstruction to bear on external comparisons based on cognates in other Matacoan languages, and in this way we check the validity of the internal reconstruction and contribute to aspects of Matacoan historical linguistics. We discuss some methodological implications for internal reconstruction in general and its relationship to the comparative method.
+Keywords: internal reconstruction, Chulupí, Matacoan languages, comparative evidence
+1. Introduction
+Our goal in this paper is to contribute to the history of Chulupí and of the Matacoan family of languages, to which Chulupí belongs, and to contribute modestly to methodological considerations in the application of internal reconstruction and its relationship to the comparative method. First, we apply internal reconstruction to a range of facts in Chulupí, postulating several sound changes in the history of the language. Second, we confront the results of this internal reconstruction with external comparisons based on cognates in other Matacoan languages, both to check the validity of the internal reconstruction and to contribute further to aspects of Matacoan historical linguistics. Finally, we discuss some of the methodological implications for internal reconstruction more generally.
+2. Context
+Chulupí is a Matacoan language spoken in Argentina and Paraguay. It has several
+.  The family is also sometimes called Mataguayan and Mataco-Mataguayan.
+Diachronica 24:1 (2007), –29. issn – / e-issn – © John Benjamins Publishing Company
+
+ Lyle Campbell and Verónica Grondona
+names in the literature: Chulupí (its Spanish name); Nivaclé or Niwaklé, particularly in Paraguay (from native /niwakle/, the language’s name, also “person, man”); and Ashlushlay, from the Chorote name for the people and the language, /aRuRay/ (with variant spellings: Aschluslé, Ashlushlay, Ashulay, Athluthlay, Atluthlay, Axluxlay, Ašuslay, etc.). The Chulupí data in this paper are from our fieldwork with speakers of the up-river dialect in Argentina, as spoken in Mission La Paz, Salta Province of Argentina (in the Chaco).
+The Matacoan family (Mataco-Mataguayo in Spanish), in addition to Chulupí, includes Wichí (a.k.a. Mataco, a term now held to be pejorative, spoken in Argentina, with one group in Bolivia); Chorote (spoken in distinct varieties in Argentina and Paraguay, see Gerzenstein 1978–79, 1983), and Maká (in Paraguay, data from Gerzenstein 1999). The Chorote data in this paper are also from our fieldwork, as are the Wichí data unless another source is indicated (Braunstein 1999, Najlis 1968, 1971, Tovar 1958, 1981, Viñas Urquiza 1970, 1974). The relationship among Matacoan languages has long been recognized, though little historical work has been done on the family. There has been no systematic reconstruction, though the data are now becoming available for a more indepth comparative study, which we are currently working towards.
+.  The /kl/ is a single segment, a sound with two articulatory gestures, velar and lateral dental, released simultaneously. Chulupí also has voiceless “l” /R/, but has no plain /l/ in native words. The /"/ is a back low vowel (sometimes slightly rounded) and contrasts with /a/, a central low vowel; the glottalized [ejective] consonants are represented by C’.
+.  The language has also been called Suhín (Sujín), and sometimes Chunupí, which is an alternative name for Vilela, an unrelated language, and thus a source of confusion.
+.  There are about 8,500 speakers of several dialects in Paraguay. Work for this paper and the collection of Chulupí data were supported by the grant, “Description of Chorote, Nivaclé and Kadiwéu: Three of least known and most endangered languages of the Chaco,” from the Endangered Languages Documentation Programme (Rausing Charitable Fund), School of Oriental and African Studies, London University (co-principal investigators Verónica Grondona, Lyle Campbell, and Filomena Sandalo).
+.  For a long time, reports merely repeated Hervás y Panduro’s (1800–1805) classification. In early work, different Matacoan languages were frequently erroneously thought to belong to the Guaycuruan family. For example, Lafone Quevedo (1895) at first placed Mataco (Wichí) with the Guaycuruan languages. Grubb (1914:318) made a similar mistake, thinking “Suhin” (Chulupí) was a Guaycuruan language. Even as late as 1948 Harrington was of the opinion that Mataco was “genetically related either to the languages of the Guaykuruan linguistic stock or to those of the Guaranian linguistic stock” (Harrington 1948:25). Nevertheless, Hunt (1915), the first to relate Maká (Enimaga, Towothli) with the other Matacoan languages, correctly recognized the family, a classification which has endured. Métraux (1946:232), following Hunt, lists “The Matacoan Linguistic Family,” but calls it “Mataco-Macán” (containing the four Matacoan languages now recognized).
+© 2007. John Benjamins Publishing Company All rights reserved
+
+Internal reconstruction in Chulupí 
+Systematic comparison of Matacoan languages has not been undertaken. The only historical linguistic work on Matacoan itself is the following. Tovar briefly compared vocabulary items, mostly for lexicostatistical purposes (1958, 1964, 1981). Najlis (1984) made an impressionistic survey of sounds in Matacoan languages, which does not identify actual cognates nor systematic sound correspondences. Viegas Barros 1993 presented lexical comparisons of Matacoan forms (based on Najlis’ unsystematic phonological reconstructions, though with minor modifications [Viegas Barros 1993:194]), and Viegas Barros 2002 provided a more detailed treatment of “dorsal” sounds (velars and uvulars) in Matacoan languages.
+There was considerable earlier confusion about the relationship of Matacoan languages and possible connections with Guaycuruan languages. Our own investigation (in progress) shows very little lexical evidence upon which a hypothesis of genetic relationship could be based, though, as frequently pointed out, there are morphological similarities which need to be explained. Further work on the issue of a broader classification is required.
+.  The Guaycuruan languages are: Abipon, Mocoví, Pilagá, Toba, and Mbayá-Kadiweo. For example, D’Orbigny (1839:114) thought some Matacoan languages belonged with the Guaycuruan family, and the possibility of a Matacoan-Guaycuruan genetic relationship has been repeatedly discussed since, though the issue remains unresolved. Brinton (1898:183) rejected the possibility of a relationship between Matacoan (Matako-Mataguayo) and Guaycuruan, as did Koch-Grüneberg (1904:29). Lafone Quevedo (1915:xix) later also separated the two families, attributing similarities between them to long contact in the region (see also Lehmann-Nitsche 1936:122). Henry (1939:86), however, suspected the two families were related and was tempted to place “Ashluslay” (Chulupí) in Guaycuruan until Franz Boas convinced him to moderate his view:
+	A comparison of this grammar [Hunt’s (1915)] with that of Pilaga, a Guaycuru language, shows that although lexically Pilaga and Ashluslay are quite different the grammatical structures of the two languages are so similar that an ancient historical relationship should be postulated.
+He concluded:
+	These correspondences [between Pilagá and Chulupí] do not argue very strongly for a single origin of the two languages, particularly in view of [the] fact that on the whole the vocabularies are extremely divergent. Nevertheless, if some good phonetic transcriptions of the Chaco languages were made it might turn out that d’Orbigny’s guess [that the two families might be related] was a good one. (Henry 1939:91.)
+The Matacoan and Guaycuruan families were frequently asserted to be related in broad wholesale classifications of South American languages (see for example Mason 1950, Swadesh 1959, Greenberg 1987, Kaufman 1994; cf. also Brinton 1891, Loukotka 1968), but on the basis of little or no published evidence. Mason (1950:202) accepted Henry’s (1939) grammatical evidence of a relationship between the two families in postulating “Macro-Guaicuruan” (to which he
+© 2007. John Benjamins Publishing Company All rights reserved
+
+ Lyle Campbell and Verónica Grondona
+Later in the paper we present some preliminary comparative Matacoan considerations as they relate to the Chulupí internal reconstruction.
+thought others might also be related, for example Chiquito(an) and Lule-Vilela). Greenberg (1987:73–74) asserted that “even the most cursory examination will show that these two groups [Matacoan and Guaycuruan] are indeed closely related,” and that there are many “etymologies” involving Matacoan and Gauycuruan, though he presented only 35 lexical and 8 supposed grammatical shared similarities (Viegas Barros 1993:193). There seem to be echoes of Lafone Quevedo (1896:122–123) in this pronouncement: “from the most superficial examination the linguistic relationship that exists between this family [Matacoan] and the Guaycuruan group of languages jumps out at us, the lexical differences notwithstanding.” Nevertheless, as mentioned earlier, Lafone Quevedo (1915:xix) later rejected this view and separated the two families, attributing the similarities to contact. As Lafone Quevedo and others repeatedly pointed out, lexical similarities are few, though some structural similarities (in particular among the pronominal forms) are suggestive. As Imbelloni (1936:197) put it, “comparando el grupo Mataco-Mataguayo con el Guaicurú, se ha destacado la semejanza gramatical del sistema pronominal (Lafone) y los nombres numerales (Vischi); sin embargo, el léxico no evidencia concordancias” [“when the Mataco-Mataguayo group is compared with the Guaicuruan, the grammatical similarity of the pronominal system and the numeral names stands out; nevertheless, the lexicon does not evidence agreements”]. Initially Tovar (1951:377–378) recognized the same problem, citing Lafone Quevedo, but attributed the grammatical similarity to language contact: “Un dialecto mataco, el vejos, que tiene mecanismo pronominal casi idéntico con el del grupo Guaycurú, y sin embargo, su vocabulario está muy distante de presentar las mismas analogías” [cited from Lafone Quevedo 1896:131], es un vivo ejemplo de cómo pasan de un grupo a otro los morfemas” [“A Mataco dialect, Vejos, which “has [its] pronominal mechanism almost identical to that of the Guaycuruan group, and nevertheless, its vocabulary is very distant from presenting the same analogies, is a living example of how morphemes pass from one group to another”] (see also Tovar 1951:401). Nevertheless, later Tovar (1964) explored the possible relationship of Matacoan languages with other languages of the area; however, his treatment contains very limited data and involves no systematic historical or comparative work. Viegas Barros (1993) tentatively defends the proposed relationship between the Matacoan and Guaycuruan families. His treatment is the most sophisticated, though far from conclusive.
+© 2007. John Benjamins Publishing Company All rights reserved
+
+Internal reconstruction in Chulupí 
+
+3. Chulupí internal reconstruction
+The Chulupí roots with alternate forms to which we apply internal reconstruction are given in various tables below. Among the domains in which internal reconstruction applies, a major one is to alternating forms, and an assumption underlying internal reconstruction is that the variants (allomorphs) of a morpheme all stem from a single invariant original form and that the variants are the result of conditioned changes that the language has undergone in its past. A single original form is postulated together with the changes necessary to produce the various shapes of the morpheme seen in its alternant forms. We undertake to do this in the internal reconstructions for Chulupí that follow.
+
+3.1	 Vowel Deletion
+
+The forms in Table 1 exhibit an alternation in which a vowel that is present in the left-hand column is missing from the related forms in the right-hand column.
+
+Table 1.  Vowel-alternation examples
+
+1 axutsax 2 ϕatsux 3 snomax 4 R"sex
+
+“hawk” “centipede” “ash” “seed”
+
+axutsx-as ϕatsx-us snomx-as R"sx-ey
+
+“hawks” “centipedes” “ashes” “seeds”
+
+.  The phonemic inventory of Chulupí is (forms in brackets ([]) are phonetically present, but only as allophones of other sounds):
+p t ts č k [q] ‘ p’ t’ ts’ č’ k’ [q’] ϕ		 s š x [X] [β]		 R 		 kl m n		 ñ w			 y
+i					 u e			 o
+		 a "
+.  The affixes in these data are separated by a hyphen. There are a number of different plural morphemes, some differences depend on whether the root is masculine or feminine in gender, though we do not specify the difference in these data; some have several allomorphs (where the initial vowel of some is predictable based on phonetic properties of the preceding syllables in the root). In the interest of space, we do not attempt internal reconstruction of these various plural suffixes here.
+
+© 2007. John Benjamins Publishing Company All rights reserved
+
+ Lyle Campbell and Verónica Grondona
+
+5 kutsxanax 6 klutsex 7 xump’uwaRex 8 ‑p"set 9 nas-uk 10 ϕa‘ay-uk 11 ax"y-uk 12 t’apay-uk 13 xokitay-uk
+
+“thief ” “bow, gun” “mountain lion” “lip” “guayacán (tree)” “algarrobo (acacia tree)” “mistol (tree)” “ancoche (tree)” “lapacho (tree)”
+
+kutsxanx-as klutsx-es xump’uwaRx-es -p"st-es nas-k-uy ϕa‘ay-k-uy ax"y-k-uy t’apay-k-uy xokitay-k-uy
+
+“thieves” “bows, guns” “mountain lions” “lips” “guayacans” “algarrobos” “mistols” “ancoches” “lapachos”
+
+These forms suggest that formerly the words of the right-hand column in Set I had an additional vowel which was later lost to give the modern alternants, as in the sample reconstructions:
+
+1 *axutsax 8 *-p"set 11 *ax"y-uk
+
+“hawk” “lip” “mistol (tree)”
+
+*axutsax-as *-p"set-es *ax"y-uk-uy
+
+“hawks” “lips” “mistol trees”
+
+These forms appear to have undergone a change which deleted a vowel when a vowel-initial suffix was added, so a reconstruction is postulated in which the vowel was originally present but later deleted, representable as:
+
+		 V-deletion: V > Ø /__C+V 			1 *axutsax-as “hawks” 8 *-p"set-es “lips”	11 *ax"yuk-uy “mistols” V-deletion:	  axutsxas				  -p"stes			   ax"ykuy
+
+The change does not apply to the suffixless singular forms (of the left-hand column).
+
+3.2 Glottal stop deletion
+
+The forms in Table 2 also appear to undergo the Vowel-Deletion change, but additionally, if there is a /‘/ present, it is also lost:
+
+Table 2.  Examples of vowel-deletion with loss of /‘/
+
+14 tisu‘x 15 k’utsa‘x 16 itsu‘x 17 iy"‘x
+
+“quebracho (tree)” “old man” “man, male” “jaguar”
+
+tisx-uy k’utsx-as itsx-ay iyx-as
+
+“quebrachos” “old men” “men, males” “jaguars”
+
+We reconstruct these forms with the glottal stop originally present and postulate a later change which deleted it. We assume that glottal-stop deletion took place before vowel deletion, as in:
+
+© 2007. John Benjamins Publishing Company All rights reserved
+
+Internal reconstruction in Chulupí 
+
+Pre-Chulupí:	14	 *tisu‘x-uy “quebrachos”		17 *iy"‘x-as “jaguars” /‘/-loss:				 tisux-uy						 iy"x-as V-deletion:			 tisxuy							 iyxas
+It might be imagined that perhaps the vowel loss and loss of glottal stop occurred simultaneously, but the forms in Table 3 show loss of glottal stop without vowel deletion, in certain environments.
+Forms such as those in Table 3 show that the environment for the vowel-deletion change can be refined, since the vowel is not deleted in these forms even though a suffix of the sort that triggered vowel loss follows in Tables 1 and 2.
+
+Table 3.  Cases of loss of /‘/ without vowel deletion
+
+18 ink"‘p 19 R-u‘p 20 k’utxa‘n 21 ‑s"‘t 22 it"‘wat 23 ‑wo‘mat
+
+“year” “nest” (its nest) “small cactus thorn” “vein” “hearth” “wound”
+
+ink"p-es R-up-is k’utxan-is -s"t-ay it"wt-es -wont-es
+
+“years” “nests” “small cactus thorns” “veins” “hearths” “wounds”
+
+It appears that vowel deletion takes place only if the vowel is preceded by another vowel and only a single consonant and followed by a vowel-initial suffix in the next syllable, but not when preceded by two or more consonants (as in 18, with /nk/) or by a word-initial single consonant (as in 19). The vowel is not deleted in *ink"‘p-es “years” and *Ru‘p-is “nests”, for otherwise it would result in non-permitted consonant clusters (�/nk‘p/ in “years” and �/R‘p/ in “nests”).
+
+3.3	 Vowel deletion, adjusted
+
+The forms of Table 4 provide additional information relevant to the contexts in which vowel deletion took place.
+
+Table 4.  Cases lacking expected vowel deletion
+
+24 asakts-uk 25 yikts-uk 26 kotsxa‘t
+
+“bola verde (tree)” “yuchán (tree)” “land”
+
+asakts-uk-uy yikts-uk-uy kotsxat-es
+
+“bola verde trees” “yuchán trees” “lands”
+
+Here, 24 *$s$ktsuk-uy “bola verde trees”, does not become �$s$ktskuy, as it would if the vowel deletion change applied without regard for the possible kinds of resulting consonant clusters. The vowel deletion change, then, appears to have taken place in the following environments, with glottal stop deletion applying earlier:
+		 V > Ø /VC__C+V
+
+© 2007. John Benjamins Publishing Company All rights reserved
+
+ Lyle Campbell and Verónica Grondona
+
+Thus the change did not apply to 24 and did not produce the prohibited consonant cluster ktsk, since $s$ktsuk-uy does not fit the conditions of the change, as now stated, which permits vowel deletion only after a single consonant, preceded by a vowel (not if kts precedes the vowel, as it does in 24 — note /ts/ is a single segment, dental affricate, so that kts is a cluster of two consonants).
+
+3.4	 The kl~k alternation
+
+The forms in Table 5 illustrate a different sort of alternation: /kl/ with /k/ when in final position or before a consonant.
+
+Table 5.  Examples of kl~k alternation
+
+27 siw"klak 28 aϕte‘k 29 tsekleklek 30 xa-t-pek 31 ‑wa‘k 32 niwak-če 33 "sč’ak-če 34 yi-ϕ"k-č’e‘
+
+“spider” “orphan” “woodpecker” “I return (to here)” “intestine” “woman” “widow” “my niece”
+
+siw"klakl-is aϕtekl-es tsekleklekl-is xa-t-pekl-e‘R -wakl-ay niwakle "sč’aklax yi-ϕ"kla
+
+“spiders” “orphans” “woodpeckers” (species) “we return (to here)” “intestines” “man, person” “widower” “my nephew”
+
+We postulate the change of Delateralization to account for this alternation:
+									  #
+		 Delateralization: kl > k / __ *     4 
+									  +C
+It is illustrated in the following words, presented with the history of changes that have applied to them (PC = Pre-Chulupí; MC = Modern Chulupí; VD = voweldeletion, GD = glottal stop-deletion, DL = delateralization):
+
+PC:	27 *siw"klakl “spider” *siw"klakl-is “spiders”	32 *niwakle-če VD		 –			 –			 niwakl-če GD		 –			 –			 – DL:		 siw"klak			 –			 niwak-če MC:		 siw"klak			 siw"klaklis			 niwakče
+
+“woman”
+
+The Chulupí /kl/ is a single segment, with the velar and dental lateral phonetic gestures coarticulated and released simultaneously. Forms such as siw"kl$kl-is “spiders” might appear to be an exception to the Vowel-Deletion change, since we would expect �siw"klklis with a deleted vowel, which does not occur. In spite of appearances, this is not a problem for the analysis of /kl/ as a single segment. That is, if /kl/ were treated as a consonant cluster, the vowel would not delete, since a form
+
+© 2007. John Benjamins Publishing Company All rights reserved
+
+Internal reconstruction in Chulupí 
+
+would result in a consonant cluster of four members (klkl), which is not allowed. However, in this case it is not a matter of this sort of prohibited consonant clusters; rather, it is a matter of an additional constraint on the possible clusters which can result from vowel deletion. Namely, there are no instances in which VowelDeletion results in geminate consonants (clusters of identical consonants), no instances of: ‑nVn‑ > ‑nn‑, ‑mVm‑ > ‑mm‑, ‑RVR‑ > ‑RR‑, ‑tVt‑ > ‑tt‑, ‑tsVts‑ > ‑tsts‑, ‑kVk‑ > ‑kk‑, and so on. The absence of ‑klkl‑, thus, is not evidence that /kl/ might be treated as a cluster preventing vowel deletion. Rather, it reflects the prohibition against geminates in the consonant clusters which result from vowel deletion. The more accurate form of the Vowel-Deletion change, then, appears to be:
+		 Adjusted Vowel Deletion:V > Ø / VC1__C2+V (C1 ≠ C2)
+
+3.5	 Spirantization The forms in Table 5 reveal another alternation, /k/ with /x/.
+
+Table 6.  Examples of k~x alternation
+
+35 tow"k 36 ϕinok 37 i-tu‘k 38 tsanu‘-k 39 ma‘n-uk 40 niy"k
+
+“river” “tobacco” “my arm” “duraznillo (tree)” “Northern Chorote” “cord, rope”
+
+towx-ay ϕinx-ay i-tx-uy tsanx-uy manx-uy niyx-ay
+
+“rivers” “tobaccos” “my arms” “duraznillos” “Northern Chorotes” “cords, ropes”
+
+We postulate that after the vowel-deletion change eliminated the vowel, /k/ as the final member of the newly created consonant cluster became /x/ (perhaps by dissimilation).
+The history of changes in 35 towx$y “rivers” and 37 itxuy “my arms”, for example, under this hypothesis, is (Sp = spirantization):
+Pre-Chulupí:	35 *tow"k-ay “rivers”		37 *i-tu‘k-uy “my arms” VD:					 towk-ay					 it‘k-uy GD: 2:				 –						 itk-uy Sp: 3:					 towxay					 itxuy Modern Chulupí: /towxay/				 /itxuy/
+However, there is not just a k~x alternation, but also a č~x alternation, as seen in the forms in Table 7:
+
+© 2007. John Benjamins Publishing Company All rights reserved
+
+10 Lyle Campbell and Verónica Grondona
+
+Table 7.  Examples of č~x alternation
+
+41 namač 42 k’onač 43 ‑šateč 44 titeč 45 ‑xp"yič 46 katseč 47 t’itseč
+
+“axe” “strip of cloth” “head” “plate” “house” “wood chip” “well”
+
+namx-ay k’onx-ay -šatx-es titx-ey -xp"yx-ey katsx-es t’itsx-es
+
+“axes” “strips of cloth” “heads” “plates” “houses” “wood chips” “wells”
+
+We postulate a spirantization change of the following form to account for these alternations:
+		 Spirantization: k
+						 *    4  > x / C__+V
+						 č
+Thus, we postulate the following history of changes for the forms which illustrate the spirantization change:
+PC:	43 *-šateč-es “heads”	36 *ϕinok-ay “tobaccos”	25 *yiktsuk-uy “yuchán trees” VD		 -šatčes		 ϕinkay		 – GD		 –		 –		 – DL		 –		 –		 – Sp		 -šatxes		 ϕinxay		 – MC:		 /-šatxes/		 /ϕinxay/		 /yiktsukuy/
+PC:	20 *k’utxa‘n-is “thorns”	15 *k’utsa‘x-as “old men” 1 *axutsax-as “hawks” VD		 –		 k’uts‘x-as		 axutsx-as GD		 k’utxan-is		 k’utsx-as		 – DL		 –		 –		 – Sp		 –		 –		 – MC		 /k’utxanis/		 /k’utsxas/		 /axutsxas/
+
+4. The origins of /č/
+Spirantization, in which both /k/ and /č/ alternate with /x/, suggests room for further internal reconstruction. That is, there are plausible phonetic reasons why /k/ might become /x/. It is sometimes argued that stops as the second member of some clusters, especially after other stops, are perceptually more difficult than corresponding fricatives, and dissimilations such as that in the Spirantization Change make it easier to perceive the two consonants; such dissimilations are not
+
+© 2007. John Benjamins Publishing Company All rights reserved
+
+Internal reconstruction in Chulupí 11
+uncommon in other languages. However, an alternation of /x/ with /č/ is unusual. This prompts us to explore the possibility that both /x/ and /č/ started out as *k, where first the change to x after appropriate consonants took place, and then later remaining instances of*k (which had not changed to x) changed to č in the appropriate environments. While this is highly plausible (for example for typological reasons), the evidence preserved in Chulupí alternations is limited and may be insufficient to recover this change fully, even if it did take place.
+While internal reconstruction is often able to recover conditioned changes, it is unable to recover unconditioned changes or changes where the conditioning environment has been changed dramatically by other subsequent changes (cf. Campbell 2004:238–240). The often mentioned case of the alternating voiced fricatives in English illustrates this. English forms such as breath/breathe ([brεθ]/ [brið]), bath/bathe ([bæθ]/[beið]) exhibit an alternation between θ and ð, and because they alternate, we attempt to apply internal reconstruction. Documentary sources demonstrate that the voiced fricatives in Old English were allophones of the voiceless fricatives in intervocalic position, and residue of this is seen in forms such as mouths ([ð] / mouth ([θ]) and paths ([ð])/ path ([θ]), and so on. However, later sound changes eliminated certain vowels so that the voiced fricatives were no longer just intervocalic. Also, loanwords introduced new intervocalic voiceless fricatives (for example, compare borrowed ether with [θ] and native either [ð]), making the former fricative voicing environment even more opaque. This makes internal reconstruction in such cases very difficult, often impossible, though for typological reasons, postulating a change θ > ð /V__V would not be an unreasonable guess (though this environment is not always confirmed in the evidence available). It is possible that the /k/ and /č/ alternations with /x/ in Chulupí are of this sort, once the result of conditioned changes but no longer clearly recoverable due to subsequent changes which eroded or substantially changed the sounds which conditioned the alternations. Nevertheless, the alternation of both /k/ and /č/ with /x/ suggests that the possibility of an internal reconstruction which joins these be explored and that comparative or documentary evidence that might shed further light on this matter be sought.
+This raises a question: Is there evidence in Chulupí which points to the possibility that /č/, or at least some of the /č/’s, come from *k? There are a few forms which
+.  For example, we can compare Finnish /ks/ clusters, which alternate with /ht/, as in /kaksi/ ‘two’ (nominative singular) and /kahte-en/ ‘into two’ (illative singular); /kahteen/ is from *k$ktehen > k$hteen by dissimilation; k$ksi is from *k$kte > k$kti (e > i / __ #) > k$ksi (t > s / __ i). The change t > s /__i took place before the change of k > h / __ t. It is sometimes argued that the greater perceptual difficulty for distinguishing place of articulation in stop clusters led to dissimilation of the /k/ to /h/ before the stop /t/ in this case.
+© 2007. John Benjamins Publishing Company All rights reserved
+
+12 Lyle Campbell and Verónica Grondona
+
+are suggestive of a possible direct k/č connection in the language (also k’/č’), and some affixes have allomorphic variants with both k and č (or both (also k’ and č’). One example is the irregular verb “to go”: x-"k “I go”, R-"k “you go”, y-ič “he/she/it goes”. The third person form yič may be derived from *y-"k > yik > yič, where the č is the result of phonetic conditioning by the i. This account of yič, though plausible, is inconclusive. Nevertheless, comparative evidence does seem to confirm that Chulupí has changed from an earlier k; Wichí and Maká have yik “he/she/it goes”. (Other comparative evidence is considered below.)
+Another case that appears to reflect the k/č connection is seen in the suffix ‑č$t/-k$t “stand of trees or plants”. In broad outlines, ‑č$t seems to occur with an /i/, /y/, /e/, or /a/ preceding it in the word, as in:
+
+xokita-čat		 "txaye-čat		 saniya-čat		 afkatiniwa-čat klatsiki-čat		 fts"nxa-čat		 ax"y-čat			
+
+“stand of lapacho trees” “stand of molle trees” “watermelon patch” “stand of willow trees” “stand of willow trees” “stand of suncho trees” “stand of mistol trees”
+
+On the other hand, ‑k$t appears typically to follow /o/, /u/, and /"/, as in:
+
+iktsu-kat		 xuk"x-kat		 xo-kat			 tisxu-kat		 i‘kl"x-kat		 kixu-kat			
+
+“stand of yuchán trees” “stand of boba trees” “stand of sandalwood trees” “stand of quebracho trees” “stand of white quebracho trees” “stand of palo blanco trees”
+
+The rare doublet, $s$ktsi-č$t and $s$ktsu-k$t “bola verde stand”, seems to suggest further that the two variants of the suffix are conditioned by preceding front vowels for ‑č$t and by back vowels for ‑k$t. The situation is not that clean, however, as shown by n$su-č$t “guayacan stand”, where with u the ‑k$t variant would have been expected. (See comparative evidence below.)
+Another instance of a possible direct k/č alternation involves the reasonably common suffix ‑če “female”, which has a rarer alternative ‑ke in some examples. Examples of the ‑če suffix include: yikumx$f$-če “my (female) companion” (contrast yikumx$f$ “my (male) companion”), kuw$yt$-če “female donkey” (cf. kuw$yt$x “male donkey”), tinoy-če “Wichí woman” (cf. tinoy “Wichí”), t$yxe-če “witch (female)” (cf. t$ye‘x “male witch”), and seen above in 32 niw$k-če “woman”(cf. niw$kle “man, person”) and 33 "sč’$k-če “widow” (cf. "sč’$kl$x “widower”), among others. There are a few instances which appear with a ‑ke variant of this suffix,
+
+© 2007. John Benjamins Publishing Company All rights reserved
+
+Internal reconstruction in Chulupí 13
+
+for example: s$mto-ke “criolla, non-Indian woman” (cf. s$mto “criollo, non-Indian man”).10 These seem to match the common but not exceptionless distribution of ‑č$t after front vowels and glides, and ‑k$t after back vowels.
+Another example (with k’ and č’), involves the verbal suffix ‑č’e “inside” (Matacoan languages have a rich system of verbal directional and locative suffixes), as for example x$n-č’e “I put (it) inside”. This morpheme has a rarer variant in ‑k’e, as for example x$w-k’e “I am/live inside” (x$"k’e in another variety of the language).
+Other examples, however, suggest that more than the nature of the preceding vowel (or glide) may be involved: ux-k’e “thick” (< ux “big, fat” + ‑k’e “extensive”), but u-s-č’e “thick ones” (< ux “big, fat” + ‑s “plural” + ‑č’e “extensive”). The u in this case does not protect the suffix from being palatalized to ‑č’ in u-s-č’e, as might be expected. Seemingly, the s in some way nullifies the influence of the u, permitting ‑č’e here instead of ‑k’e.
+From alternations such as these involving /k/ and /č/ (also /k’/ and /č’/), we can speculate that these should be reconstructed with *k (and *k’), which changed to č (and č’ respectively) in the environment of preceding front vowel or glide, and remained k (and k’) in the environment of preceding back vowels (or glides). Nevertheless, there are too many exceptions which have k or k’ with front vowels and of č or č’ with back vowels to guarantee this internal reconstruction generally. As will be seen presently, there is comparative evidence seen in related languages for positing a change in Chulupí of k to č (and k’ to č’) in the environment of front vowels (and y); however, if such a change did once take place, it is no longer productive in the language and is difficult to see, since many instances of k and k’ with front vowels remain unpalatalized and numerous cases of č and č’ occur without the presence of front vowels, several examples of which were seen above. Some other examples of exceptional /k/ or /k’/ after /i, y, e, a/ where č or to č’ is predicted are:
+
+yikt’e yikt’e‘č akxi takum‘e xaykum‘e xayk’uyč’e xamkat imak
+
+“my grandmother” “my grandmother” “inside” “he grabs, lifts” “I grab, lift” “I distance myself, go farther away” “he extinguishes it” “it went out, extinguished”
+
+10.  Related to this are the alternations seen in a few kinship terms: -n"ts’$x-ke‘e “granddaughter (woman’s)” -n"‘tsič’$		 “grandson (woman’s)” -nt"kleš-če‘e “granddaughter (man’s)” -nt"kšič’$		 “grandson (man’s)”
+
+© 2007. John Benjamins Publishing Company All rights reserved
+
+14 Lyle Campbell and Verónica Grondona
+
+išt’ake yitako tik’inak
+
+“my earring” “my forehead” “small ones, little ones”
+
+5. The origins of /š/, and the š ~ x alternation
+
+Chulupí is unusual in Matacoan in that it has a phonemic /š/ not found in the other languages, and this š also alternates with x in a few affixes. This fact suggests that we should seek an internal reconstruction account for this alternation also. The fact that k alternates, at least in some instances, with č in the environment after front vowels and y suggests the possibility that perhaps š comes from x in the same environment. Examples are not as abundant as with the other alternations investigated here, but they are sufficient to suggest we propose just such a hypothesis to account for the origin of Chulupí š, as seen in the following variants of a few affixes:
+
+-xa‘ne/-ša‘ne ixo‘-xa‘ne		 xa‘aw-xa‘ne		 x-anu‘-xa‘ne x-an-ša‘ne		 t’eklit-ša‘ne		 xa‘yač’i-ša‘ne
+
+“lying down” “I am sitting (down)” [I-sit/live-down] “I crouch (down)” [I-crouch-down] “I lower it” [I-place/put-down] “he got it down” “I spit (down)”
+
+The ‑xa‘ne variant is much rarer than the ‑ša‘ne one. We reconstruct *x for the x/š alternation, and we propose a tentative internal
+reconstruction, then, which combines the changes k > č (including k’ > č’) and x > š into one change after front vowels (i, e, $) and y:
+
+Palatalization: Velar > Alveopalatal / i, e, a, y ___
+
+Still, as mentioned, though there are sufficient examples to suggest such a palatalization change following front vowels and y, there are also a sufficient number of exceptions which do not conform, so that absolute confirmation on the basis of internal evidence within Chulupí is not available.
+
+6. Matacoan comparative information
+We turn now to the comparative Matacoan evidence to see whether evidence in related languages bears on the tentative Chulupí internal reconstruction of *k for
+
+© 2007. John Benjamins Publishing Company All rights reserved
+
+Internal reconstruction in Chulupí 15
+
+both the k/x alternation and for the k/č alternation, with *k’ for the k’/č’ alternation, and *x for the x/š alternation. The cognate sets presented in Table 8 illustrate the sound correspondences bearing on k and č (also on k’ and č’, treated together with k and č) in the various languages.
+
+Table 8.  Matacoan cognates involving /k/ Set I: Sound correspondence k-k-k-k/q
+
+Chorote
+
+Chulupí
+
+48. to:kis
+
+tukus
+
+49. na:kiwo-tok snakuxa-tax
+
+50. talok
+
+taklu‘k
+
+51. tinyuk
+
+tanuk
+
+(“gato moro”)
+
+52.
+
+-k’u‘
+
+53. -katoki‘
+
+-ϕkto‘
+
+54a. ‘ye:muk
+
+-s-amuk
+
+Wichí nakuwu-tah
+-kato
+
+54b. Ramak
+
+Ram"‘k
+
+lamok
+
+55. kata:ki
+56. ihnyehkay 57. -ak
+58. -ka‘la‘ 59. -te:mak 60. (n-te) 61. 62. -koy
+63. kyus 64. -kasili 65. -akús 66. kahlek 67. wisyuk 68. taki:-na
+69. te:wak 70. niyek
+
+Raϕkatax
+
+k’atak (~q’ataq)
+
+šnakxay -"k
+
+-ak (Tovar)
+
+-k"kl"‘ -aϕk’u‘t -kt’e -akt’eč
+
+-kala temek -katela -čati -kwe-č’o kwey
+
+kus
+
+kus
+
+(-k"‘s “tail”) -kasley
+
+-akxus
+
+-k"xRak
+
+ϕts-u‘k
+
+hwits-uk
+
+tak"iš, tako
+
+tako “forehead, ravine”
+
+tow"k
+
+tewok
+
+niy"k
+
+niy"k
+
+Maká tenuk
+
+Gloss “ant” “bee” “blind” “cat”
+
+-k’u
+
+“club”
+
+“elbow”
+
+-imuk
+
+“excrement” (cf.
+
+“dust”)
+
+Rimuk
+
+“dust” (cf. “excre-
+
+“animal excre- ment”)
+
+ment”
+
+qaXtets
+
+“fly”
+
+“horse fly”
+
+xunkhay
+
+“fog”
+
+-aq
+
+“food”
+
+(-ek “to eat”)
+
+“foot”
+
+-‘aftuk
+
+“gall”
+
+ewket-i‘
+
+“grandmother”
+
+ewket
+
+“grandfather”
+
+-koy
+
+“hand”
+
+“hand, fore-
+
+arm”
+
+“heat”
+
+“intestine”
+
+-aqhuts
+
+“knee”
+
+-aqRik
+
+“liver”
+
+fits-uk
+
+“palm” (diffused?)
+
+“ravine”
+
+niyak
+
+“river” “rope, cord” (diffused)
+
+© 2007. John Benjamins Publishing Company All rights reserved
+
+16 Lyle Campbell and Verónica Grondona
+
+Chorote 71. katés 72. ki:ti
+73. ahkyúna‘ 74a.
+74b. 75. te:suk 76. -tyok
+77. silahkaí‘ 78. 79. nahkap 80. nahka:pis
+
+Chulupí kati‘s (kuta-yuk ‘squash plant’)
+ϕinok
+
+Wichí
+
+Maká
+
+kates (Braunstein) kates
+
+lekiti
+
+ahukna
+
+ϕinak
+
+ϕinxay tatsuk -txo‘k
+skl"kxay klatsikiyuk ink"‘p ink"pes
+
+ϕinhay
+
+-withuk (Braunstein) silaka
+nekča‘ nečamis
+
+-otxok
+xunkhay lattsikiyuk ininqap ininqapits
+
+Gloss “star” “squash”
+“suruví “(fish) “tobacco” (diffused?) “tobaccos” “tree trunk” “uncle”
+“wildcat” “willow” “year” “years”
+
+Set II: Sound correspondence k-č-k-k
+
+Chorote 81. -ki 82. hetek 83. tetik 84. -k’ah 85. inyeta 86.
+87.
+
+Chulupí -če / ‑ke -šateč titeč -č’akleč, nk’a ?? xunšatač -č’inxa
+-č’iniš
+
+Wichí
+
+Maká
+
+-ke /-če
+
+-ki‘
+
+-etek (Braunstein) -etek
+
+-kahRič’u
+
+natek (Devoto) xunxetek
+
+-č’ihn"
+
+-k’inXa‘
+
+-č’ihnó (Braun-
+
+stein)
+
+čina, kina (Tovar)
+
+č’inih (Braunstein) -k’inix
+
+č’inix (Tovar)
+
+-k’inx-ats ‘pl’
+
+gloss “female” (suffix) “head” “plate” “tongue” “tusca (tree)” “younger sister”
+“younger brother”
+
+Set III: Sound correspondence k(y)-k-č-k
+
+Chorote 88. k’yehe
+
+Chulupí k’"xe
+
+89. kihét-uk kxat-uk
+
+90. -k’yalo
+
+-iku‘
+
+91. kiR
+
+92. R-ek’yu‘
+
+R-šayk’u‘ “its-egg”
+
+93. -to:kyo‘ts’e‘ -tako
+
+Wchí
+
+Maká
+
+gloss
+
+-č’ahe
+
+(-akxu‘)
+
+“arrow”
+
+(qaxi‘ “unbarbed arrow”)
+
+čahat-uk
+
+khat-uk
+
+“cardón cactus”
+
+khatk-wi ‘pl’ (prickly pear)
+
+-č’alo
+
+-kuki‘
+
+-čalú (Braunstein)
+
+“cheek”
+
+čeR-tah
+
+-keR
+
+“cough”
+
+-Rič’o
+
+(Rihi‘)
+
+‑Reč’é (Braunstein)
+
+“egg”
+
+-tačo
+
+-itko-yek “forehead”
+
+© 2007. John Benjamins Publishing Company All rights reserved
+
+Internal reconstruction in Chulupí 17
+
+Chorote 94. -koy
+
+Chulupí
+
+Wchí
+-kweč’o -kwe-č’ú (Braunstein) kwey
+
+Maká -koy
+
+gloss “hand”
+
+95. -k’yu-lis
+
+-k’u‘
+
+-č’ol-eR <ču> (Tovar)
+
+(Rekets)
+
+“horn”
+
+96. kyé‘la
+
+ča‘la
+
+“lizard”
+
+“green lizard”
+
+97. takám
+
+k’unx$tenx$ tač’am
+
+ik’unhetinhe‘ “pacú (fish)”
+
+98. -kyes
+
+-k"‘s
+
+-čas
+
+(-ahatsxi‘)
+
+-čos (Braunstein)
+
+“tail”
+
+<ikyás> (Tovar)
+
+99. kiSáik
+
+i‘kl"‘x “quebracho
+
+čeRyuk
+
+keReykutek “quebracho colorado” (tree)
+
+blanco” (tree)
+
+100.
+
+k’utxa‘n
+
+č’utan
+
+“thorn”
+
+A comparison of the Chulupí forms in Sets I and II of Table 8 reveals k in Set I but č in Set II, both corresponding to k in the other three languages (sometimes to q in Maká). Moreover, the č in the Chulupí forms of Set II appears limited in its occurrence to either immediately before or after a front vowel, i, e, or $ (when not in a consonant cluster), while the Chulupí k in Set I does not occur with these vowels. We hypothesize then that these two sound correspondences represent Proto-Matacoan *k, and that the difference came about by the conditioned sound change in Chulupí:
+Chulupí Palatalization:	 *k > č / __ i, e, a
+	    	  	    	  	    	  	    	   ' i, e , a  __1
+We conclude that the comparative evidence does provide support for deriving at least some instances of Chulupí č (as well as k) from an original *k, which constitutes additional support for the probable accuracy of the internal reconstruction of *k for the sounds of the Spirantization change which relates both the k ~ x and the č ~ x alternations to *k. Moreover, the comparative evidence seems to indicate a historical complementary distribution where č occurs only in the environment of front vowels and k elsewhere. Also, there is comparative Matacoan evidence for deriving Chulupí š from Proto-Matacoan *x (as seen in the cognate sets 56, 85, 87, etc.). This means that the Palatalization change in Chulupí is confirmed by the comparative data, both k > č and x > š in the environment of front vowels and y. (Nevertheless, the comparative perspective is necessary in order to see this, since such a complementary distribution is no longer completely clear in synchronic
+
+© 2007. John Benjamins Publishing Company All rights reserved
+
+18 Lyle Campbell and Verónica Grondona
+Chulupí data. For example, there are numerous cases of /k/ in the environments before and after front vowels (yikt’e “my grandmother”, y$kiset “peccary (species)”, ixpek “my shadow”, ‑"xke “bottle”) and of /č/ in environments other than after /i/, /e/, and /a/ (n$suč$t “stand of guayacan trees”, tsučše “lance”, tisxuč$t “stand of quebracho trees”).
+In the cognates among Matacoan languages we notice also that the Chulupí k in the forms of Set III also does not occur in the immediate environment of i or e. It is only Wichí which is different in this set, with k in Set I just as in the other languages, but with č in Set III where the others (including Chulupí) have some form of k.11 (Wichí also has k in Set II where Chulupí has č in the environment of i and e.) It is not clear what the best reconstruction for Set III would be and clearly more work is needed. However, judging from the Chorote cognates, which have ky or ki, we might postulate *ky or some kind of fronted k for Proto-Matacoan, with the sound changes:
+*ky > k in Chulupí *ky > č in Wichí (Western dialects) Perhaps *ky > ki /__C or something similar in Chorote.
+The reflexes in Maká are as yet uncertain.12 We look again now at the sets of Tables 1–6, this time to examine the cog-
+nates of the alternating Chulupí forms found in other Matacoan languages. There
+11.  It should be noted that Wichí has considerable dialect differentiation, with k or ky in northern and southern dialects, but with č in western dialects (cf. Najlis 1971:128) — since the sources of data are from different dialects, the forms may vary with respect to whether they have ky or č.
+12.  An alternative possibility deserves investigation, although the data currently available do not provide sufficient support. It is possible that the sound correspondence of Set I (k-k-k-k/q) represents an original *q (uvular stop) while that of Set III (k(y)-k-č-k) and also Set II (k-č-k-k)) represents *k (velar stop). The q-k contrast is present in the neighboring Guaycuruan languages, and [q] is found phonetically in Matacoan languages at least in Chulupí, Wichí, and Maká. This [q] is only an allophone of /k/ in predictable phonetic environments in Chulupí (e.g. with backvowels and certain consonants; it is in free variation in other contexts) and it is clearly in complementary distribution with [k] in Wichí. In Maká, however, the two sounds contrast according to Gerzenstein’s (1999:48–9) analysis, though /q/ seems to appear in no predictable fashion in Set I, which perhaps should be separated into two correspondences sets, k-k-k-q for those cognates with /q/ in Maká and k-k-k-k for those with /k/ in Maká. It could be that Proto-Matacoan also originally had the contrast where the two have merged in the individual languages except Maká, though perhaps still reflected distinctly in these different sound correspondence sets. A complication for this hypothesis is the fact that the /k/-/q/ contrast in Maká is not distributed in such a way to match these distinct correspondences sets well. It could be, of course, that as yet undetected sound changes in Maká have complicated this, although such speculation at present is not warranted.
+© 2007. John Benjamins Publishing Company All rights reserved
+
+Internal reconstruction in Chulupí 19
+
+is unfortunately not a very large number of cognates in the other Matacoan languages matching the Chulupí forms which have the x/č alternation for which internal reconstruction suggested a possible original *k. Nevertheless, the cognates that are found do provide insight into the sound changes postulated in the Chulupí internal reconstruction. These cognates are given in Table 9. (The forms from the other languages which are listed with a question mark are parallel but probably not cognate).
+
+Table 9.  Matacoan cognates to alternating Chulupí forms SET I
+
+Chorote 1. hohwsa
+hohses 2. isek (?)
+isekis (?) 3.
+4. Ro‘o
+5.
+6.
+7.
+8. -pa:sat
+9.
+10. wa‘ay-uk wa‘ay-k-uy
+11. ahay-uk
+12.
+13a. kokhit-ok
+13b.
+
+Chulupí axutsax axutsx-as ϕatsux ϕatsx-us snomax snomx-as R"sex R"sx-ey kutsxanax kutsxanx-as klutsex klutsxes xump’uwaRex xump’uwaRxes -p"set -p"st-es nas-uk nas-k-uy ϕa‘ay-uk ϕa‘ay-k-uy axay-uk axay-k-uy
+t’apay-uk t’apay-k-uy xokitay-uk xokitay-k-uy kl"tsikiy-uk kl"tsikiy-k-uy
+
+Wichí
+
+Maká
+
+gloss
+
+“hawk”
+
+“hawks”
+
+“centipede”
+
+“centipedes”
+
+“ash”
+
+“ashes”
+
+Ro‘‑
+
+“seed”
+
+Roy
+
+Roy
+
+“seeds”
+
+etančáh (Braunstein) extenhetsaX?? “thief ”
+
+extenhetsis ?? “thieves”
+
+lutseh-a‘la‘
+
+“bow, gun”
+
+“bows, guns”
+
+p’uwaRáh (Braunstein)
+
+“mountain lion”
+
+“mountain lions”
+
+p"set
+
+-pas
+
+“lip”
+
+-pastey
+
+-pasits, ‑apsits “lips”
+
+“guayacán (tree)”
+
+“guayacans”
+
+hwa‘ayuk
+
+—
+
+“algarrobo (tree)”
+
+“algarrobos”
+
+ahayuk
+
+—
+
+“mistol (tree)”
+
+ahaychat
+
+“mistols”
+
+(Tovar)
+
+“ancoche (tree)”
+
+“anoches”
+
+hoktek
+
+—
+
+“lapacho (arbol)”
+
+“lapachos”
+
+lattsikiyuk “willow tree”
+
+lattsikiyuket “willow trees”
+
+© 2007. John Benjamins Publishing Company All rights reserved
+
+20 Lyle Campbell and Verónica Grondona
+
+SET II
+
+Chorote 14.
+isten-ik
+
+Chulupí tisu‘x tisx-uy
+
+15.
+
+k’utsa‘x
+
+16. 17. a‘yxe
+a‘ye-hes
+
+k’utsx-as itsu‘x itsx-ay iy"‘x
+iyx-as
+
+Wichí čeSy-uk “quebracho colorado (tree)” isten‘i
+
+Maká keReykutek “quebracho colorado” sitinuk sitinkwi
+
+č‘ut “old”
+
+k’utsaX
+
+čitax, <chut> “old”
+
+(Tovar)
+
+k’utshets
+
+Setsux ‘male’
+
+(h)a‘y"h hazy"hSs
+
+i‘iha-taX “gato onza”13
+
+gloss “quebracho (tree)” “quebrachos”
+“quebracho blanco” “quechrachos blancos” “old man”
+“old men” “man” “men” “jaguar”
+“jaguars”
+
+(The Chulupí form in 14 is not cognate, but those of the other languages are cognates with one other.)
+
+SET III
+
+Chorote 18. nahkap
+nahka:pis
+19. Sup
+Supis 20. ?itanis
+?itanis 21. -satayek
+22.
+23.
+
+Chulupí ink"‘p
+ink"p-es
+Su‘p
+Sup-is k’utxa‘n k’utxan-is -s"‘t -s"t-ay it"‘wat it"wtes -wo‘mat
+
+-wontes
+
+Wichí
+
+Maká
+
+gloss
+
+nekča‘
+
+ininqap
+
+“year”
+
+“year, summer”
+
+nečamis
+
+ininqapits “years”
+
+nekčam
+
+Sup (Viñas Urquiza) Sup -Sep (Braunstein)
+
+“nest”
+
+Supits
+
+“nests”
+
+č’utan
+
+?Si‘/ti‘-
+
+“thorn”
+
+č’utanis
+
+“thorns”
+
+‑‘asat
+
+“vein”
+
+-‘astay
+
+“veins”
+
+“hearth”
+
+“hearths”
+
+? amo “wound, sore”
+
+?-womo‘ “boil” “wound”
+
+womak’a
+
+“to harm, hurt”
+
+-womol
+
+“wounds”
+
+13.  Compare Chulupí ix"t$x ‘gato onza’; ‑t$x is a suffix meaning ‘similar to’, very productive in animal and plant names.
+© 2007. John Benjamins Publishing Company All rights reserved
+
+SET IV Chorote
+24.
+25.
+26.
+SET V Chorote
+27. te:wak
+
+Chulupí asakts-uk
+asakts-uk-uy
+yikts-uk yikts-uk-uy
+kotsxa‘t kotsxat-es
+Chulupí tow"k
+
+towx-ay
+
+28.
+
+ϕinok
+
+ϕinx-ay
+
+29.
+
+itu‘k
+
+itx-uy
+
+30.
+
+tsanu‘k
+
+31.
+32. niyek nikyey
+
+tsanx-uy ma‘nuk
+manxuy
+niy"k niyxay
+
+Internal reconstruction in Chulupí 21
+
+Wichí
+
+Maká
+?t’isaxiy t’isaxiykwi, t’isaxiyket
+
+gloss “bola verde (tree)” “bola verde trees” “yuchán tree” “yuchán trees”
+“land” “lands”
+
+Wichí
+
+Maká
+
+gloss
+
+tewok
+
+“river”
+
+tewúk (Braun-
+
+stein)
+
+“rivers”
+
+finak
+
+“tobacco”
+
+finhay
+
+“tobaccos”
+
+“my arm”
+
+“my arms”
+
+tsin-uk
+
+? tsanaqapek “duraznillo
+
+“palo mataco, (tree)”
+
+carandá”
+
+tsanaqapekiket “duraznillos”
+
+“Northern
+
+Chorote”
+
+“Northern
+
+Chorotes”
+
+niyak
+
+“cord, rope”
+
+niyhay
+
+“cords, ropes”
+
+© 2007. John Benjamins Publishing Company All rights reserved
+
+22 Lyle Campbell and Verónica Grondona
+
+SET VI Chorote
+33.
+34.
+35. hetek -eht-aí
+36. tetik tehtiy
+37a.
+37b. ihnyetak
+
+Chulupí namač namx-ay k’onač k’onxay -šateč -satx-es titeč titxey -xp"yič -xp"yxey xunšatač xunšatx-es
+
+Wichí -etek n$tek
+
+Maká xunxetek
+
+gloss “axe” “axes” “strip of cloth” “strips of cloth” “head” “heads” “plate” “plates” “house” “houses” “tusca (tree)” “tuscas”
+
+SET VII Chorote
+41. siwa:lak siwa:lakis
+42.
+43.
+
+Chulupí siw"klak siw"klakl-is aϕte‘k aϕtekl-es tsekleklek tsekleklekl-is
+
+Wichí
+
+Maká
+
+siwalaX
+
+siwalaXits
+
+wahčí ? (Braunstein) aftil
+
+aftilets
+
+44. a-pil-met xa-t-pek
+
+tapiS (Braunstein)
+
+a-pil-a-met xa-t-pekl-e‘R
+
+45.
+
+-wa‘k
+
+-wakl-ay
+
+46. —
+
+niwak-če
+
+—
+
+—
+
+niwakle
+
+—
+
+he-t-pil
+— —
+
+gloss “spider” “spiders” “orphan” “orphans” “woodpecker” “woodpeckers” (species) “I return (to here)” “we return (to here)” “intestine” “intestines” “woman” “man, person”
+
+47. sye‘ela-ki sye‘ela
+48a.
+49.
+
+"sč’ak-če "sč’aklax -ϕ"kč’e‘
+-ϕ"kla
+<siwan"k> <sivan"kis>
+
+waklani “niece” wa‘Sá‘ni (Braunstein) wakla “nephew” wa‘Sá‘ni (Braunstein)
+tsiwanaq tsinawanqits
+
+“widow” “widower” “niece”
+“nephew”
+“dorado” (fish) “dorados”
+
+© 2007. John Benjamins Publishing Company All rights reserved
+
+Internal reconstruction in Chulupí 23
+These cognates provide some relevant and revealing evidence. For the reconstruction of the Chulupí x ~ č alternation as *k, they do not afford abundant evidence, but they do provide some. For example, in the case of 35 ‑š$teč “head” / ‑š$tx-es “heads”, the cognates in the other languages show final k: Chorote hetek and Wichí ‑etek. A different cognate set (37b) with Chulupí xunš$t$č “tusca (tree)” has the Maká cognate xunxetek, Wichí n$tek, and Chorote ihnyet$k. That is, the comparative evidence appears to provide external support for the hypothesis that the Chulupí alternation of x ~ č comes from Pre-Chulupí *k, as does the x ~ k alternation, since cognates in the sister languages, though few in number, have k.
+The comparative evidence is secure that Chulupí /kl/ corresponds to /l/ of the other Matacoan languages (see cognate sets 41–48), reflecting Proto-Matacoan *l. There is little reason to doubt the reconstruction of Pre-Chulupí *kl and the postulated sound change of Delateralization for those cases in which final k alternates with non-final kl, and the external comparative evidence supports this decision, as, for example, in 41 with /l/ in both the singular and plural in Chorote, and in 42 where the Maká cognates, $ftil “orphan” ($ftilets “plural”), confirm the original *l, where the Chulupí cognates bear /kl/ ~ /k/.
+The comparative evidence also bears on the Vowel-Deletion sound change in Chulupí. We reconstructed these alternating forms as having vowels present in Pre-Chulupí which were deleted later in the history of the language in the appropriate contexts. However, many of the Maká cognates exhibit the same alternation (with vowel loss, for example in 8, 15, 21, and 28), and therefore in light of the comparative evidence it is necessary to revise this and to postulate that this change (Vowel Deletion) took place at least as early as the common Chulupí-Maká period — that is, it is not subject just to internal reconstruction in Chulupí alone, but rather reflects a shared change at an earlier time (see below).14
+6. Conclusions: Consequences for internal reconstruction
+Although internal reconstruction is a staple of historical linguistics textbooks and handbooks (see for example Anttila 1973, 1989, Hoenigswald 1944, 1960, Lass 1997:232–241, Ringe 2003, Campbell 2004, etc.), few studies have been directed significantly to internal reconstruction by itself (among the few are Chafe 1959,
+14.  While more work is required, our preliminary findings support a subgrouping of Matacoan languages in two branches, one with Wichí and Chorote, and the other with Chulupí and Maká. There are some shared sound changes (such as the vowel-deletion represented in Change 1) and much shared vocabulary which appear to group Chulupí and Maká as members of a subgroup.
+© 2007. John Benjamins Publishing Company All rights reserved
+
+24 Lyle Campbell and Verónica Grondona
+Hoenigswald 1944, 1960, Marchand 1956, Lass 1977).15 Internal reconstruction often figures in treatments of histories of specific languages, though generally without comment directed at the method itself (for South American examples, see Dixon 2001 and Gerzenstein 1987). We hope that this internal reconstruction of several changes in Chulupí offers some insight into the application of internal reconstruction and its limitations, and helps to understand the relationship of internal reconstruction and the comparative method to one another. We learn about aspects of the history of Chulupí through the application of internal reconstruction, and we verify some internal reconstruction hypotheses suggested but not confirmed by the alternations internal to Chulupí alone through the examination of the comparative evidence and the application of the comparative method. Naturally, we also come to understand aspects of the history of the other Matacoan languages through the application of the comparative method. The application of both methods, together, offers depth of understanding and allows us to confirm the changes treated in this paper and to support the reconstructions postulated. In particular, the change of *k to č after front vowels and y in Chulupí is only suggested in the evidence for internal reconstruction, but is not adequately confirmed on the basis of internal evidence alone. It is the application of the comparative method and the insights afforded from the comparative evidence in the other Matacoan languages which gives confirming support for this hypothesized reconstruction for Pre-Chulupí and for this proposed sound change. In short, the methods complement one another, each adding richness of detail; the results of both methods together provide a more complete and satisfying picture.
+There is discussion in the literature — and some confusion — about whether internal reconstruction must be applied first, before the comparative method, or vice versa. The results of this paper lend support to Anttila’s (1968) demonstration that there is no standard order for the application of these two methods. In some instances, the prior application of internal reconstruction feeds comparative reconstruction, as is the case here with the Delateralization sound change (kl > k / word-finally and before certain consonants), which has the result that no Chulupí k which alternates with kl needs to be compared directly with l in the other Matacoan languages; rather the l of these other Matacoan languages can be compared to reconstructed *kl of Pre-Chulupí if internal reconstruction is applied before the comparative method. However, in other instances, a prior application of internal reconstruction would misleadingly bleed input from the comparative method. For example, if internal reconstruction were applied first to the Vowel-Deletion alternations in
+15.  In fact, some of the works often listed in bibliographies touching on internal reconstruction actually bear very little connection with the method of internal reconstruction as recognized today (see for examples, Naert 1957, Kuryłowicz 1964, 1973).
+© 2007. John Benjamins Publishing Company All rights reserved
+
+Internal reconstruction in Chulupí 25
+Chulupí (and independently to Maká, which has similar alternations), this alternation would be factored out in Pre-Chulupí (and in Pre-Maká); if the comparative method were then applied to Pre-Chulupí and Pre-Maká (to which the vowels have been restored in internal reconstruction and the alternation is no longer visible) and the other Matacoan languages, we would not see that in fact the vowel-loss alternation is older, found also in corresponding forms in Maká, Chulupí’s closest relative. However, if the cognates with the vowel present and those lacking the vowel are both compared between Chulupí and Maká (before internal reconstruction), then via the comparative method we recover the fact that the alternation is older, that the VowelDeletion change took place at least as early as the common Chulupí-Maká period. If the comparative method is applied to Chulupí and Maká before internal reconstruction, then we reconstruct the alternations to this intermediate proto-language. If we then apply internal reconstruction to Proto-Chulupí-Maká, we discover the Vowel Deletion sound change and reconstruct it to Pre-Proto-Chulupí-Maká. The point, then, is that there is no set order in which internal reconstruction and the comparative method should be applied with respect to one another. We need to be able to test the results in both orders of application, on the one hand with internal reconstruction undertaken before the comparative method, and on the other hand with the comparative method applied before internal reconstruction, in order to make certain that we are not attributing alternations from some earlier proto-language (as in the case of the Vowel-Deletion alternation) to the history of an individual daughter language instead. As Brian Joseph has pointed out to us (personal communication), this is how it should be. What is at stake is just plain reconstruction, not the arbitrary decision to consider internal or external evidence in some particular order.
+References
+Anttila, Raimo. 1968. “The relation between internal reconstruction and the comparative method”. Ural-Altaische Jahrbücher 40.159–173.
+Anttila, Raimo. 1973. “Internal reconstruction and Finno-Ugric (Finnish)”. Current trends in linguistics, vol. 11: Diachronic, areal, and typological linguistics ed. by Thomas A. Sebeok, 317–353. The Hague: Mouton.
+Anttila, Raimo. 1989. Historical and comparative linguistics. 2nd ed. Amsterdam: Benjamins. Braunstein, José. 1999. “Matako-Dialecto bazanero”. Carta provisioria de las tribus wichí (enero
+de 1999). Hacia una nueva carta étnica del Gran Chaco. Las Lomitas, Formosa, Argentina: Centro del Hombre Antiguo Chaqueño (CHACO). Brinton, Daniel. 1891. The American Race. New York: N.D.C. Hodges. Brinton, Daniel. 1898. “The linguistic cartography of the Chaco region”. Proceedings of the American Philosophical Society 37.178–203. Campbell, Lyle. 2004. Historical linguistics: An introduction. 2nd ed. Edinburgh: Edinburgh University Press, Cambridge, MA: MIT Press.
+© 2007. John Benjamins Publishing Company All rights reserved
+
+26 Lyle Campbell and Verónica Grondona
+Chafe, Wallace L. 1959. “Internal reconstruction in Seneca”. Language 35.477–495. Dixon, R.M.W. 2001. “Internal reconstruction of tense-modal suffixes in Jarawara”. Diachronica
+18.3–30. D’Orbigny, Alcide Dessalines. 1839. L’Homme américain (de l’Amérique méridionale), consideré
+sous ses rapports physiologiques et moraux. (2 vols.) Paris: Pitois-Levrault. (In: 1839–1842. Voyages dans l’Amérique méridionale, I-II. Paris.) Gerzenstein, Ana. 1978–79. Lengua Chorote. (= Archivo de Lenguas Precolombinas, 3.) Buenos Aires: Universidad de Buenos Aires, Instituto de Lingüística, 2 vols. Gerzenstein, Ana. 1983. Lengua Chorote — variedad 2. (= Archivo de Lenguas Precolombinas, 3.) Buenos Aires: Universidad de Buenos Aires, Instituto de Lingüística. Gerzenstein, Ana. 1987. “The Chorote language: three examples of internal reconstruction”. Language Sciences 9.11–15. Gerzenstein, Ana. 1999. Diccionario etnolingüístico Maká-Español. Buenos Aires: Universidad de Buenos Aires, Facultad de Filosofía y Letras. Greenberg, Joseph. 1987. Language in the Americas. Stanford: Stanford University Press. Grubb, W. Barbrooke. 1914. An unknown people in an unknown land ed. by H. T. Morrey Jones. London: Seeley, Service & Co. Harrington, John P. 1948. “Matako of the Gran Chaco”. International Journal of American Linguistics 14.25–28. Henry, Jules. 1939. “The linguistic position of the Ashlushlay Indians”. International Journal of American Linguistics 10.86–91. Hervás y Panduro, Lorenzo. 1800–1805. Catálogo de las lenguas de las naciones conocidas y numeracion, division, y clases de estas segun la diversidad de sus idiomas y dialectos. Volumen I (1800): Lenguas y naciones Americanas. Madrid: Administracion del Real Arbitrio de Beneficencia. Hoenigswald, Henry M. 1944. “Internal reconstruction”. Studies in Linguistics 2.78–87. Hoenigswald, Henry M. 1960. Language change and linguistic reconstruction. Chicago: University of Chicago Press. Hunt, Richard J. 1915. El choroti o yófuaha, con vocabularies lengua enimaga o towothli y chunupi o suhin. Revista del Museo de La Plata, 23 (2a serie, tomo 10). Liverpool: Henry Young & Sons. Imbelloni, José. 1936. “Lenguas indígenas del territorio Argentino”. Junta de Historia y numismática, Historia de la Nación Argentina 1.177–205. Buenos Aires: Universidad de Buenos Aires. Kaufman, Terrence. 1994. “The native languages of South America”. Atlas of the world’s languages ed. by Christopher Moseley & R.E. Asher, 46–76. London: Routledge. Koch-Grünberg, Theodor von. 1904. “Die Guaikurú-Gruppe”. Mitteilungen der anthropologischen Gesellschaft in Wien 33.1–128. Kuryłowicz, Jerzy. 1964. “On the method of internal reconstruction”. Proceedings of the Ninth International Congress of Linguists ed. by Horace G. Lunt, 9–36. (= Janua Linguarum, series maior, 12.) The Hague: Mouton. Kuryłowicz, Jerzy. 1973. “Internal reconstruction”. Current trends in linguistics, Vol. 11: Diachronic, areal, and typological linguistics ed. by Thomas A. Sebeok, 63–92. The Hague: Mouton. Lafone Quevedo, Samuel A. 1895. “Lenguas argentinas: grupo mataco-mataguayo del Chaco”. Boletín del Instituto Geográfico Argentino 16.343–389.
+© 2007. John Benjamins Publishing Company All rights reserved
+
+Internal reconstruction in Chulupí 27
+Lafone Quevedo, Samuel A. 1896. “Grupo mataco-mataguayo del Chaco: dialecto Vejos”. Boletín del Instituto Geográfico Argentino 17.121–176.
+Lafone Quevedo, Samuel A. 1915. Lenguas guaicuruas y mataguayas. Boletín del Instituto Geográfico Argentino 31.11–25.
+Lass, Roger. 1977. “Internal reconstruction and generative phonology”. Transactions of the Philological Society 1975.1–26.
+Lass, Roger. 1997. Historical linguistics and language change. Cambridge: Cambridge University Press.
+Lehmann-Nitsche, Robert. 1936. “Die sprachliche Stellung der Choropí (Gran Chaco)”. Zeitschrift fur Ethnologie 68.118–124, 303–304. Berlin.
+Loukotka, Chestmír. 1968. Classification of South American Indian languages. Los Angeles: University of California, Latin American Center.
+Marchand, James W. 1956. “Internal reconstruction and phonemic split”. Language 32.245– 253.
+Mason, J. Alden. 1950. “The languages of South America”. Handbook of South American Indians ed. by Julian Steward, 6.157–317. (= Smithsonian Institution, Bureau of American Ethnology, Bulletin 143). Washington, D.C.: Government Printing Office.
+Métraux, Alfred. 1946. “Ethnography of the Chaco”. Handbook of South American Indians, Vol. 1: The marginal tribes ed. by Julian H. Steward. (= Smithsonian Institution Bureau of American Ethnology, Bulletin 143.) Washington, DC: Government Printing Office.
+Naert, Pierre. 1957. “Sur la méthode de la ‘reconstruction interne’”. Studia Linguistica 11.1–7. Najlis, Elena L. 1968. “Dialectos del mataco”. Anales de la Universidad del Salvador 4.232–241.
+(Buenos Aires.) Najlis, Elena L. 1971. “Premataco phonology”. International Journal of American Linguistics
+37.128–130. Najlis, Elena L. 1984. Fonología de la protolengua mataguaya. (= Cuadernos de Lingüística Indí-
+gena, no. 9.) Buenos Aires: Instituto de Lingüística, Universidad de Buenos Aires. Ringe, Don. 2003. “Internal reconstruction”. The handbook of historical linguistics ed. by Brian D.
+Joseph & Richard D. Janda, 244–261. Oxford: Blackwell. Seelwisch, José. 1980. Diccionario nivaclé-castellano. (= Biblioteca Paraguaya de Antropología,
+Vol. 1.) Mariscal Estigarribia, Chaco, Paraguay: Editorial El Gráfico SRL. Swadesh, Morris. 1959. Mapas de clasificación lingüística de México y las Américas. (= Instituto
+de Historia, publicación, 51.) Mexico: Universidad Nacional Autónoma de México. Tovar, Antonio. 1951. “Un capítulo de lingüística general: los prefijos posesivos en lenguas del
+Chaco, y la lucha entre préstamos morfológicos en un espacio dado”. Boletín de la Academia Argentina de Letras 20.371–403. Tovar, Antonio. 1958. “Notas de campo sobre el idioma mataco”. Revista del Instituto de Antropología 9.7–18. (San Miguel de Tucumán, Argentina.) Tovar, Antonio. 1964. “Relación entre las lenguas del grupo mataco”. Homenaje a Fernando Márquez Miranda, 370–377. Madrid. Tovar, Antonio. 1981. Relatos y dialologos de los matacos: seguidos de una gramática de su lengua. Madrid: Ediciones Cultura Hispánica del Instituto de Cooperación Iberoamericana. Viegas Barros, José Pedro. 1993. “¿Existe una relación genética entre las lenguas mataguayas y guaycurúes?” Hacia una nueva carta étnica del Gran Chaco V, ed. by José Braunstein, 193– 213. (= Informe de avance PID/CONICET no. 3408/92.) Las Lomitas, Formosa, Argentina: Centro del Hombre Antiguo Chaqueño (CHACO).
+© 2007. John Benjamins Publishing Company All rights reserved
+
+28 Lyle Campbell and Verónica Grondona
+Viegas Barros, José Pedro. 2002. “Fonología del proto-mataguayo: las fricativas dorsales.” Current studies on South American languages (= Contributions to the 50th ICA, Warsaw 2000), ed. by Mily Crevels, Hein van der Voort, Sérgio Meira, and Simon van de Kerke, 137–48. (= Indigenous Languages of Latin America Series, 3.) Leiden: Research School CNWS of Asian, African & Amerindian Studies.
+Viñas Urquiza, María Teresa. 1970. Fonología de la lengua mataca. (= Cuadernos de Lingüística Indígena, no. 7.) Buenos Aires: Instituto de Lingüística, Universidad de Buenos Aires.
+Viñas Urquiza, María Teresa. 1974. Lengua mataca. (= Archivo de Lenguas Precolombinas, 2). Buenos Aires: Centro de Estudios Lingüísticos, Universidad de Buenos Aires.
+Résumé
+Cet article traite de la reconstruction interne et de l’histoire du Chulupí, langue de la famille Matacoa parlée en Argentine et au Paraguay. Nous effectuons une reconstruction interne et postulons un certain nombre de changements phonologiques ayant eu lieu au cours de l’histoire du Chulupí. Comparant les résultats de cette reconstruction à des données extérieures provenant de langues apparentées, nous vérifions ainsi la fiabilité de notre reconstruction interne et contribuons à une meilleure connaissance de la diachronie des langues Matacoa. Enfin, nous traitons de la méthodologie de la reconstruction interne de façon plus générale et de ses rapports avec la méthode comparée.
+Zusammenfassung
+Dieser Aufsatz handelt von der internen Rekonstruktion und Geschichte von Chulupí, einer Mataco Sprache aus Argentinien und Paraguay. Wir wenden interne Rekonstruktion an und postulieren mehrere Lautwechsel in der Geschichte von Chulupí. Außerdem stellen wir die Ergebnisse von dieser internen Rekonstruktion den äußerlichen Vergleichen gegenüber, die auf verwandten Wörtern aus anderen Mataco Sprachen basieren. Auf diese Weise prüfen wir die Stichhaltigkeit der internen Rekonstruktion und tragen zu Aspekten der historischer Sprachwissenschaft der Mataco-Sprachen bei. Zum Schluss erörtern wir einige methodologischen Implikationen für die interne Rekonstrutktion im Allgemeinen und ihre Beziehung zur vergleichenden Methode.
+Authors’ addresses
+Lyle Campbell Department of Linguistics University of Utah 255 S. Central Campus Drive Salt Lake City, UT 84112–0492 U.S.A. E-mail: lyle.campbell@linguistics.utah.edu
+© 2007. John Benjamins Publishing Company All rights reserved
+
+Verónica Grondona Linguistics Program Dept of English Pray Harrold 612 Eastern Michigan University Ypsilanti, MI 48197 U.S.A.
+E-mail: grondona@linguistlist.org
+
+Internal reconstruction in Chulupí 29
+
+© 2007. John Benjamins Publishing Company All rights reserved
+
+© 2007. John Benjamins Publishing Company All rights reserved
+
+

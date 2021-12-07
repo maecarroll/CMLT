@@ -1,0 +1,2362 @@
+UNIVERSIDADE DE BRASÍLIA INSTITUTO DE LETRAS
+DEPARTAMENTO DE LINGÜÍSTICA, PORTUGUÊS E LÍNGUAS CLÁSSICAS - LIP
+COMPARAÇÃO FONOLÓGICA DO KURUÁYA COM O MUNDURUKÚ
+Djalma Gomes Mendes Junior
+Orientador: Professor Dr. Aryon Dall`Igna Rodrigues
+Brasília julho/2007
+
+2
+UNIVERSIDADE DE BRASÍLIA INSTITUTO DE LETRAS
+DEPARTAMENTO DE LINGÜÍSTICA, PORTUGUÊS E LÍNGUAS CLÁSSICAS - LIP
+COMPARAÇÃO FONOLÓGICA DO KURUÁYA COM O MUNDURUKÚ
+Djalma Gomes Mendes Junior
+Dissertação apresentada ao Departamento de Lingüística, Português e Línguas Clássicas da Universidade de Brasília como requisito parcial para a obtenção do grau de Mestre em Lingüística.
+Brasília julho/2007
+
+3
+UNIVERSIDADE DE BRASÍLIA INSTITUTO DE LETRAS
+DEPARTAMENTO DE LINGÜÍSTICA, PORTUGUÊS E LÍNGUAS CLÁSSICAS - LIP
+DISSERTAÇÃO DE MESTRADO
+COMPARAÇÃO FONOLÓGICA DO KURUÁYA COM O MUNDURUKÚ
+Djalma Gomes Mendes Junior
+Orientador: Prof. Dr.Aryon Dall`Igna Rodrigues
+Banca examinadora: Prof. Dr. Aryon Dall’Igna Rodrigues (UnB)-(presidente) Prof. Dra. Ana Suelly Arruda Câmara Cabral (UnB) Prof. Dr. Wilmar da Rocha D'Angelis (UNICAMP) Prof. Dra. Poliana Maria Alves (UnB)-(suplente)
+
+4
+Esta dissertação foi julgada adequada à obtenção do grau de Mestre em Lingüística e aprovada em sua forma final pelo curso de pós-graduação em lingüística da Universidade de Brasília.
+Brasília, 05 de julho de 2007
+_____________________________ 1º Examinador
+_____________________________ 2º Examinador
+_____________________________ 3º Examinador
+
+5 Dedico esta dissertação à minha mãe. Uma mulher incrível.
+
+6
+Eu devia estar sorrindo e orgulhoso Por ter finalmente vencido na vida Mas eu acho isso uma grande piada E um tanto quanto perigosa Eu devia estar contente Por ter conseguido tudo o que eu quis Mas confesso abestalhado Que eu estou decepcionado Porque foi tão fácil conseguir E agora eu me pergunto "e daí?" Eu tenho uma porção de coisas grandes Pra conquistar, e eu não posso ficar aí parado E você ainda acredita que é um doutor, padre ou policial Que está contribuindo com sua parte Para o nosso belo quadro social ... Eu que não me sento No trono de um apartamento Com a boca escancarada cheia de dentes Esperando a morte chegar
+(Raul Seixas)
+
+7
+AGRADECIMENTOS
+Agradeço ao meu professor e orientador Aryon Rodrigues, pela dedicação, pelos ensinamentos e pela paixão que tem pelas línguas indígenas;
+à Universidade de Brasília, que foi fundamental em minha formação; à professora Ana Suelly Cabral, pessoa maravilhosa, que foi muito importante na minha formação; aos professores do departamento de Lingüística, Português e Línguas Clássicas da Universidade de Brasília; a Eliete Solano, pesquisadora do Laboratório de Línguas Indígenas da Universidade de Brasília, por disponibilizar as gravações realizadas, no ano de 2002, na cidade de Altamira, PA; aos amigos de trajetória; superamos apenas mais uma etapa de nossas vidas; a meus pais, a meu irmão, pela compreensão, dedicação, carinho e amor com que tem me tratado durante estes longos anos; ao amigo e culpado por tudo isso, Dioney Moreira Gomes, pesquisador voraz, professor incansável; agradeço a confiança e o apoio.
+
+SUMÁRIO
+AGRADECIMENTOS SUMÁRIO RESUMO ABSTRACT ABREVIATURAS E SÍMBOLOS INTRODUÇÃO CAPÍTULO 1
+1.1 Considerações sobre os povos e as línguas 1.1.1 Kuruáya 1.1.2 Mundurukú 1.2 Objetivos e referencial metodológico da pesquisa CAPÍTULO 2 2.1 Consoantes 2.1.1 Consoantes do Mundurukú 2.1.2 Consoantes do Kuruáya 2.1.3 Correspondências fonológicas consonantais CAPÍTULO 3 3.1 Vogais 3.1.1 Vogais do Mundurukú 3.1.2 Vogais do Kuruáya 3.1.2 Correspondências fonológicas vocálicas CAPÍTULO 4 4.1 Os padrão silábicos, os acentos e os tons 4.1.1 Padrões Silábicos 4.1.2 Acento 4.1.3 Tom CONCLUSÃO REFERÊNCIAS BIBLIOGRÁFICAS ANEXOS
+
+8
+7 8 9 10 11 12 14 14 14 16 18 20 20 20 21 22 38 38 38 39 40 46 46 46 49 49 51 53 56
+
+9
+RESUMO
+No presente trabalho, seguindo o método histórico-comparativo, desenvolveu-se um estudo comparativo da fonologia das línguas Kuruáya e Mundurukú, constituintes da família lingüística Mundurukú, tronco Tupí. São apresentados dados mais sistemáticos para a consolidação da família Mundurukú, incluindo dados inéditos da língua Kuruáya. São comparados, sistematicamente, consoantes, vogais e padrões silábicos, considerando os fatores que condicionam algumas mudanças. Palavras-chave: Mundurukú – Kuruáya – Fonologia – Estudo Comparativo.
+
+10
+ABSTRACT
+In this study, using de historical-comparative method, we developed a comparative study about the phonology of Kuruaya and Munduruku languages, belong to Munduruku family, Tupí stock. We are show a lot of systematic words to consolidate the Munduruku family, including inedited words of the Kuruaya language. Consonants, vowels and syllable types are studies in this thesis. Key-words: Munduruku – Kuruaya – Phonology – Comparative Study.
+
+11
+
+ABREVIATURAS E SÍMBOLOS
+
+Mu Ku PT PTG 1 12 13 2 23 3 (incl.) (excl.) Cf. PL * = ~ : 1 2
+
+Língua Mundurukú Língua Kuruáya Proto-Tupí Proto-Tupí-Guaraní Primeira pessoa, ‘eu, me’ Primeira pessoa inclusiva, ‘nós, nos’ Primeira pessoa exclusiva, ‘nós, nos’ Segunda pessoa, ‘tu, te’ Segunda pessoa plural, ‘vós, vos’ Terceira pessoa, ‘ele, (a), eles (as)’ Inclusivo Exclusivo Conferir Plural Agramatical Corresponde a Está em variação com Está em oposição a Tom alto Tom baixo
+
+12
+INTRODUÇÃO
+Contamos no Brasil, hoje, com uma diversidade muito grande de línguas indígenas, cerca de 1801, algumas em processo de extinção, e muitas com um número inferior a 200 falantes, uma situação alarmante, considerando a importância das línguas como patrimônio imaterial do Brasil e do mundo.
+O trabalho lingüístico de documentação e análise das línguas é, portanto, de suma importância, pois, sem ele, deixaremos de contribuir para o conhecimento dos povos que as falam. Outra razão para a documentação e análise de uma língua indígena é a contribuição feita à comunidade, no intuito de ampliar o conhecimento do seu passado e trabalhar na melhoria de um futuro mais próspero em convívio com a sociedade que a cerca.
+O presente estudo tem por objetivo apresentar um estudo comparativo da fonologia das línguas Mundurukú e Kuruáya. Serão objetos deste estudo comparativo as consoantes, as vogais, os padrões silábicos, os tons e o acento. Não é objetivo do trabalho realizar novos estudos da fonologia das duas línguas, apenas efetuar, com base nas descrições e documentos existentes (Braun & Crofts 1965, Crofts 1971, 1973 e 1985 e Picanço 2005, como fontes do Mundurukú; e para o Kuruáya, Nimuendajú 1937, Costa 1998 e Picanço 2005), a comparação das mesmas, apresentando, quando necessária, uma reanálise própria para tentar explicar alguns fenômenos.
+1 Estimativa. Fonte: Rodrigues A. D. 2006. in: www.socioambiental.org/pib/portugues/linguas/index.shtm - data do acesso: 18/05/2007
+
+13
+As línguas que serão objetos deste estudo comparativo apresentam uma realidade lingüística muito distante. Enquanto a língua Mundurukú é falada por uma comunidade de cerca de 10.000 índios, da língua Kuruáya não há mais falantes, existindo apenas duas ou três pessoas idosas que lembram expressões da língua, mas não a falam (Costa 1998).
+Serão apresentados, sistematicamente, neste estudo, as correspondências fonológicas das consoantes e das vogais e um estudo acerca dos padrões silábicos, do acento e dos tons das duas línguas.
+
+14 CAPÍTULO 1
+1.1 Considerações sobre os povos e as línguas 1.1.1 Kuruáya 1.1.1.1 O povo Hoje, o povo Kuruáya é de aproximadamente 129 indivíduos2 vivendo
+na Aldeia Curuá, na terra indígena Kuruáya, localizada à margem direita do Rio Curuá, subafluente da bacia do Rio Xingu, sul do estado do Pará. Outra parcela da população Kuruáya, formada por algumas dezenas de indivíduos, está localizada nas proximidades da cidade de Altamira no Estado do Pará.
+1.1.1.2 A língua Segundo Rodrigues (1970), o Kuruáya e o Mundurukú formam a família lingüística Mundurukú. Segundo Costa (1998), o parentesco é citado pelos próprios índios Kuruáya, que afirmam terem sido eles e os Mundurukú um único povo e falado a mesma língua no passado. O parentesco entre o Kuruáya e o Mundurukú foi constatado por Nimuendajú (1963:215, apud Costa, 1998:06): “Curuaya resembles Mundurucu as
+2 FUNASA (2006)
+
+15
+closely as Yuruna does Shipaya. In some cases it preserves primitive Tupi forms better than Mundurucú”.3
+Os primeiros trabalhos publicados sobre o Kuruáya são das décadas de 1920 e 1930, especialmente as publicações de Nimuendajú realizadas após trabalho de campo nos rios Xingu, Iriri e Curuá na década de 1910. Este autor informa que os índios Kuruáya faziam parte de um grande número de índios que viviam no baixo e médio Xingu junto com outras etnias.
+Em seu trabalho de 1923/1924, Nimuendajú realizou uma análise gramatical do Xipaya e constatou uma proximidade desta língua com o Kuruáya. Em 1930, Nimuendajú publicou um estudo específico sobre a língua Kuruáya (Nimuendajú, 1930). Nesse trabalho, ele apresenta um inventário fonético e um grande número de palavras organizadas por campos semânticos, freqüentemente com exemplos contextualizados de verbos, posposições, adjetivos, advérbios e pronomes.
+Em 1937, Nimuendajú voltou a publicar outro trabalho na revista Santo Antonio da Província Franciscana do Norte do Brasil, em que apresenta um estudo sobre o parentesco entre o Mundurukú e o Tupi, ao qual ainda não podemos ter acesso.
+Destacamos, ainda, os trabalhos de Emilia Snethlage (1913 e 1921), em que apresenta listas de palavras do Xipaya e do Kuruáya e notas sobre esses povos.
+Outro trabalho sobre a língua Kuruáya foi o realizado por Costa (1998), que apresenta um estudo da fonologia do Kuruáya, realizado na Universidade
+3 Tradução: “O Curuaya lembra o Mundurucú da mesma forma em que o Yuruna lembra o Shipaya. Em alguns casos ele preserva as formas primitivas do Tupi melhor do que o Mundurucu”
+
+16
+Federal do Pará. Nesse estudo, ele apresenta uma análise das consoantes, vogais, padrões silábicos e comenta a possibilidade de o Kuruáya ser uma língua tonal, assim como o é sua irmã, o Mundurukú. No fim desse estudo, apresenta uma lista de palavras com cerca de 300 itens lexicais.
+A língua desse povo é uma das muitas que estão em processo de extinção no Brasil. Infelizmente, seu desaparecimento é inevitável, pois a população Kuruáya não faz uso da língua, estando o conhecimento desta restrito a apenas muito poucos lembradores.
+Segundo Costa (1998), “somente três remanescentes desse povo comprovadamente ainda falam a língua”. Os três falantes informados por Costa foram os informantes de sua pesquisa e também informantes dos novos dados utilizados por mim.4
+1.1.2 Mundurukú
+1.1.2.1 O povo
+Numa situação contrária à do Kuruáya, o Mundurukú conta com uma população de 10.065 indivíduos,5 todos falantes ativos da língua.
+Os Mundurukú localizam-se na região do Rio Tapajós, no Estado do Pará, na Terra Indígena Mundurukú, na região do Rio Madeira, no Estado do Amazonas, na Terra Indígena Coatá-Laranjeira, no município de Borba, AM, e na Terra Indígena Apiaká, município de Juara, MT.
+4 Infelizmente, um desses informantes, o Sr. Paulo Kuruáya, faleceu no mês de outubro de 2006 e, no mês de dezembro do mesmo ano, faleceu também a informante Sra. Maria Kuruáya. 5 (FUNASA, 2002)
+
+17
+1.1.2.2 A língua
+O Mundurukú é uma língua pertencente ao tronco Tupí e, junto com o Kuruáya, forma a família lingüística Mundurukú (Rodrigues, 1986). As primeiras publicações acerca do Mundurukú datam das décadas de 1930 e 1940, destacando-se os trabalhos de Strömer (1932) – Die Sprache der Mundurukú e de Mense (1947) – “Língua Mundurucu: vocabulários especiais”.
+Já os primeiros estudos lingüísticos acerca do Mundurukú foram realizados por Braun & Crofts, que fizeram um estudo sobre a fonologia desta língua (1965). Posteriormente, destacam-se os trabalhos de Crofts: Repeated morphs in Mundurukú (1971), Gramática Mundurukú, em que apresenta um estudo sistemático sobre a língua (1973), “Ideófonos na narração Mundurukú” (1984) e Aspectos da língua Mundurukú (1985). Em 1987, destacamos o trabalho de Gonçalves, Concordância em Mundurukú. Em 1998, temos o de Angotti, sobre a Causativização em Mundurukú: aspectos morfo-sintáticos. No ano de 2000, os trabalhos de Nunes sobre o princípio icônico presente na língua com um tratamento lexicográfico para os nomes e o de Gomes sobre os predicados verbais e modelos lexicográficos, incluindo uma descrição da flexão relacional, dos verbos intransitivos e transitivos, da incorporação dos nomes e dos classificadores.
+Mais recentemente, podemos destacar duas teses de doutorado realizadas sobre a língua Mundurukú: em 2005, Picanço concluiu na University of British Columbia um estudo sistemático sobre a fonética e a fonologia do Mundurukú, apresentando algumas inovações, inclusive uma nova interpretação sobre o sistema tonal. Em 2006, Gomes apresentou na Universidade de Brasília um estudo sistemático sobre a morfologia e a sintaxe.
+
+18
+Quanto às relações entre o Kuruáya e o Mundurukú, Rodrigues (1980) realizou um trabalho no intuito demonstrar as correspondências entre as línguas da família Mundurukú e as da família Tupí-Guaraní. Nesse trabalho, foram apresentados cerca de 140 cognatos, incluindo, sempre que possível, dados do Kuruáya, mas salientando a necessidade de uma análise fonológica para essa língua, o que veio a ser realizado por Costa em 1998.
+1.2 Objetivos e referencial metodológico da pesquisa
+O objetivo principal do presente trabalho é realizar um estudo comparativo das línguas Kuruáya e Mundurukú, ambas pertencentes à família lingüística Mundurukú, tronco Tupí, com base nos estudos já realizados, e complementando-o com novos dados da língua Kuruáya depositados no acervo do Laboratório de Línguas Indígenas da Universidade de Brasília.
+Esse estudo comparativo se justifica pela necessidade de se aprofundar o estudo do parentesco genético entre as línguas Kuruáya e Mundurukú já apontado por Nimuendajú (1930) e evidenciado por Rodrigues (1980).
+Ao longo do trabalho, realizaremos um estudo comparativo da fonologia das duas línguas, mostrando, sistematicamente, as correspondências e os fenômenos presentes nas consoantes, nas vogais e nos padrões silábicos.
+Basicamente, serão utilizados os métodos bem estabelecidos da lingüística histórico-comparativa. Além dos dados de uma ou de outra língua disponíveis nos trabalhos já referidos na seção anterior (1.1.1.2 e 1.1.2.2), serão
+
+19
+considerados novos dados transcritos a partir das gravações feitas por Eliete de Jesus Bararuá Solano (pesquisadora do Laboratório de Línguas Indígenas da Universidade de Brasília e Doutoranda em Lingüística) com os índios Paulo Kuruáya e a Maria Kuruáya, infelizmente, falecidos nos meses de outubro de dezembro de 2006. Essas gravações foram feitas no mês de novembro do ano de 2002, na cidade de Altamira, no Estado do Pará. Todos os dados serão organizados para o estudo comparativo a que se propõe esta dissertação.
+
+20 CAPÍTULO 2
+
+2.1 Consoantes
+
+2.1.1 Consoantes do Mundurukú
+
+Segundo Braun & Crofts (1965), Crofts (1973) e Picanço (2005), os fonemas consonantais da língua Mundurukú são: /p/, /b/, /t/, /d/, /k/, ///, /tß/, /dΩ/, /s/, /ß/, /h/, /m/, /n/, /˜/, /r/, /w/, /y/, classificados conforme tabela abaixo:
+
+Tabela 2.1 – Fonemas consonantais da língua Mundurukú
+
+Bilabial Alveolar Palatal Velar
+
+su
+
+p
+
+t
+
+tß
+
+k
+
+Oclusivos
+
+so
+
+b
+
+d
+
+dΩ
+
+su Fricativos
+so
+
+s
+
+ß
+
+su
+
+Nasais
+
+so
+
+m
+
+n
+
+˜
+
+su
+
+Aproximantes so
+
+w
+
+r
+
+y
+
+Glotal /
+h
+
+Em seu estudo, Braun & Crofts (1965) estabelecem um quadro sem a presença da oclusiva alveolar sonora /d/, porém mais tarde, em 1973, Crofts apresenta um novo inventário para o Mundurukú com a presença da oclusiva alveolar sonora e mais a nasal palatal /µ/.
+
+21
+O atual quadro fonológico do Mundurukú, com 17 fonemas consonantais, foi proposto por Crofts (1985) com diferenças apenas no modo de articulação do quadro utilizado hoje nos estudos do Mundurukú.
+
+2.1.2 Consoantes do Kuruáya
+Segundo Costa (1998), as consoantes da língua Kuruáya são: /p/, /b/, /t/, /d/, /k/, ///, /tß/, /dΩ/, /s/, /ß/, /h/, /m/, /n/, /˜/, /r/, /w/, /y/, /∂/, classificados conforme tabela:
+
+Tabela 2.2 – Fonemas consonantais da língua Kuruáya
+
+Bilabial Interdental Alveolar Palatal
+
+su
+
+p
+
+t
+
+Oclusivos
+
+so
+
+b
+
+d
+
+su
+
+tß
+
+Africados
+
+so
+
+dΩ
+
+su Fricativos
+so
+
+s
+
+ß
+
+∂
+
+su
+
+Nasais
+
+so m
+
+n
+
+su Aproximantes
+so w
+
+r
+
+y
+
+Velar Glotal
+
+k
+
+/
+
+h ˜
+
+Observa-se uma diferença nos sistemas fonológicos das línguas: a existência de um fonema fricativo interdental sonoro /∂/ no Kuruáya. Na descrição de Rodrigues (1980), “...as consoantes do Kuruáya são as mesmas do Mundurukú, mais /∂/, que corresponde a parte dos /r/ do Mundurukú”. Tal correspondência será
+
+22
+analisada com uma ênfase maior posteriormente. Neste momento, é importante ressaltar a semelhança dos sistemas fonológicos já observada por Rodrigues em 1980.
+Picanço (2005:170) propõe um quadro fonológico para o Kuruáya de 17 consoantes e não 18 como no quadro acima. Em um primeiro momento, considera a existência de um fonema /l/ e não o fonema /∂/, sendo que o fonema /l/ teria como alofones o fone interdental fricativo sonoro [∂] e o fone lateral alveolar [l]. Em um segundo momento, considera os fones [Î] e [dΩ] como alofones do fonema /d/, sendo o primeiro realizado em diversos ambientes e o último condicionado à vogal /i/. Entretanto verificamos a existência em nossa base de dados de cinco ocorrências do fone [dΩ] antes de outras vogais que não alta anterior: [ki"dΩap] ‘casa’ e [otßi"dΩe] ‘nós, nos (exclusivo)’ (Solano, 2002), [idΩπ"tße] ‘aqui’, [i"dΩπp] ‘este, esta’ e [oneka~"dΩo] ‘ele escutou’ (Costa, 1998). Essas ocorrências amparam a realização do fone [dΩ] como fonema do Kuruáya.
+
+2.1.3 Correspondências fonológicas consonantais
+
+analisadas:
+
+Serão apresentadas algumas correspondências fonológicas nas línguas
+
+23
+
+Tabela 2.3 – Mu /p/ = Ku /p/ 6
+
+Mundurukú p´y b´
+
+Kuruáya pπy
+
+poro da
+
+porio
+
+pi˜a
+
+pina
+
+poy
+
+poy
+
+ipara
+
+opara
+
+wap\r\m/a
+
+aporim
+
+-\kpita
+
+okpita
+
+apat
+
+apatßi
+
+opa
+
+opa
+
+ipi
+
+ipi
+
+ßidΩap
+
+kidap
+
+daßa /ip
+
+∂aßa/ip
+
+bidap
+
+bi∂ap
+
+-/ip
+
+-/ip
+
+˜´d\p
+
+ini∂πp
+
+-ap
+
+-ap
+
+akadap
+
+aka∂ap
+
+op
+
+op
+
+oktop
+
+oktop
+
+kip
+
+akip
+
+dip
+
+∂ip
+
+aßip
+
+takip
+
+Glossa ‘cobra’ ‘carrapato’ ‘anzol’ ‘jaboti’ ‘abacaxi’ ‘açaí’ ‘ânus’ ‘jacaré’ ‘rosto’ ‘solo, terra’ ‘abrigo’ ‘lenha de fogo’ ‘barba’ ‘árvore’ ‘buriti’ ‘cabelo’ ‘cacau’ ‘flecha’ ‘marido’ ‘piolho’ ‘plantação’ ‘quente’
+
+O fonema /p/ do Mundurukú corresponde regularmente ao fonema /p/do Kuruáya. Esse fonema apresenta o fone [p] realizado em início de sílaba em
+6 Rodrigues (1980) apresenta os fonemas p e b como correspondentes fonológicos da língua Tupinambá, apresentando as formas reconstruídas *p e *b para o Proto-Tupi-Guarani.
+
+24
+Mundurukú e em Kuruáya Mu ["p´y] (Picanço, 2005) e Ku ["pπy] (Costa, 1998) ‘cobra’. O fone [p}] não-explodido ocorre em final de sílaba Mu ["kip}] (Picanço, 2005) e Ku ["kip}] (Solano, 2002) ‘piolho’. Esse fenômeno é sistemático, sendo verificado em ambas as línguas analisadas.
+
+Tabela 2.4 – Mu /p__/ = Ku /b__/7
+
+Mundurukú p\y-bit
+
+Kuruáya bπy
+
+-pido-
+
+bi∂o
+
+Glossa ‘comida’ ‘respirar’
+
+Diferentemente da correspondência da tabela 2.3, encontramos em nossa base de dados duas ocorrências de uma correspondência do fonema /p/ do Mundurukú como o fonema /b/ do Kuruáya em início de palavra. Por ocorrer com apenas dois exemplos, não foi possível estabelecer um condicionamento para tal correspondência.
+
+Tabela 2.5 – Mu /b/ = Ku /b/
+
+Mundurukú bio
+
+Kuruáya bio
+
+bidap
+
+bi∂ap
+
+bi
+
+bi
+
+bekitßat
+
+bπkit
+
+Glossa ‘anta’ ‘barba’ ‘boca’ ‘criança’
+
+7 Os fonemas p e b, respectivamente, do Mundurukú e Kuruáya correspondem ao fonema p do Tupinambá. No caso de Mu: -pido- e Ku: bi∂u ‘respirar’, Rodrigues (1980) apresenta a forma reconstruída *pπtu para o ProtoTupi-Guarani.
+
+b\tet -ba kobe kabido ib´t nobano toayb\ kabi kabia o˜ebit
+
+bπtet -ba pobe kabi∂o ibπt ∂oba∂o~ taybπ kabi kabia onebit
+
+25
+‘nome’ ‘braço’ ‘canoa’ ‘vento’ ‘pegada’ ‘arma de fogo’ ‘calda’ (mamíferos) ‘céu’ ‘dia’ ‘neto’
+
+Como pode ser percebido nos exemplos acima, a correspondência fonológica do fonema /b/ do Mundurukú com o fonema /b/ do Kuruáya é sistemática, independentemente do condicionamento vocálico ou do posicionamento do mesmo. Foram encontradas várias ocorrências do fonema, entretanto não foi verificada em nossas bases de dados nenhuma ocorrência do fonema /b/ em final de palavra enquanto fonema oclusivo bilabial surdo.
+
+Outro fenômeno importante encontrado nas duas línguas analisadas foi a correspondência abaixo:
+
+Tabela 2.6 – Mu /ps V/ = Ku /bj V/
+
+Mundurukú opsa
+
+Kuruáya obia [o"bya]
+
+-opsa
+
+-obia [o"bya]
+
+ipsoy
+
+ibioy [i"byoy]
+
+Glossa ‘meu fígado’ ‘ovo’ ‘pato’
+
+26
+Dessa forma, a seqüência /ps/ do Mundurukú corresponde regularmente à seqüência /by/ do Kuruáya diante de vogal.
+
+Tabela 2.7 – Mu /t/ = Ku /t/
+
+Mundurukú tit
+
+Kuruáya tit
+
+tap
+
+tap
+
+tawe
+
+tawe
+
+wita/a
+
+wita/a
+
+wî~to~
+
+wito~
+
+-\kpita
+
+okpita
+
+koato (verão)
+
+koato
+
+oktop
+
+oktop
+
+/at
+
+at
+
+ot
+
+ot
+
+ir\t
+
+irit
+
+ßet
+
+ßet
+
+/it (filho da mulher) /it
+
+ib\t
+
+ibπt
+
+edoti
+
+o∂oti
+
+ot
+
+ot
+
+Glossa ‘flor’ ‘pena’ ‘macaco-prego’ ‘pedra’ ‘mutum’ ‘ânus’ ‘estação das chuvas’ ‘marido’ ‘cair’ ‘vir’ ‘branco’ ‘dormir’ ‘filho’ ‘pegada’ ‘roupa’ ‘vir’
+
+O fonema /t/ do Mundurukú corresponde ao fonema /t/ do Kuruáya. Assim como ocorre no fonema oclusivo bilabial surdo, o fonema oclusivo alveolar surdo /t/ apresenta o fone [t] realizado em início de sílaba e o fone [t}] não-explodido,
+
+27
+ocorrendo em final de sílaba. Essa correspondência sistemática pode ser verificada em todas as posições assumidas pelo fonema.
+
+Tabela 2.8 – Mu /d/ e /n/ = Ku /∂/
+
+Mundurukú doa
+
+Kuruáya ∂oa
+
+dadΩe
+
+∂ade
+
+dap
+
+∂ap
+
+daßa
+
+∂aßa
+
+deko
+
+∂eko
+
+dao
+
+∂ao
+
+daydo
+
+∂ay∂o
+
+˜´d\p
+
+ini∂πp
+
+akadap
+
+aka∂ap
+
+-a dao
+
+-a ∂ao
+
+edoti
+
+o∂oti
+
+odΩodi
+
+odo∂it
+
+kabido
+
+kabi∂o
+
+nobano
+
+∂oba∂o~
+
+wen´~ î~
+
+we∂a~
+
+no~˜/a
+
+∂o˜
+
+n\~y
+
+∂a~y
+
+Glossa ‘aranha’ ‘porco’ ‘cabelo’ ‘fogo’ ‘macaco coatá’ ‘perna’ ‘tatu’ ‘buriti’ ‘cacau’ ‘crânio’ ‘roupa’ ‘tio’ ‘vento’ ‘arma, rifle’ ‘castanha’ ‘pulga’ ‘dente’
+
+Embora Rodrigues (1980) tenha sugerido que o fonema /∂/ do Kuruáya corresponderia ao /r/ do Mundurukú, foi verificado que o fonema /∂/ do Kuruáya corresponde sistematicamente aos fonemas /d/ e /n/ do Mundurukú.
+
+28
+O fonema /∂/ do Kuruáya apresenta dois alofones: o fricativo interdental sonoro [∂] em sílaba tônica e a lateral alveolar sonora [l] em variação livre com [∂] em outros ambientes8 [aka"∂ap}] ‘cacau’ e [olopa"bi] ~ [o∂opa"bi] ‘meu rosto’ (Costa, 1998).
+Como [∂] e [l] são alofones do mesmo morfema, Costa optou em representar o morfema com o símbolo do fricativo interdental sonoro /∂/. Picanço, diferentemente, elegeu o alofone lateral sonoro para representar este fonema. Entretanto, tanto os dados coletados por Costa (1998), como os colhidos por Solano (2002), que os obtiveram dos mesmos informantes, mostram claramente a situação de variação parcialmente livre acima descrita. Por outro lado, o vocabulário de Nimuendajú (1930) registra unicamente a fricativa interdental. Isso pode ser visto nos exemplos a seguir: ∂aßa ‘fogo’ e pora∂a ‘remo’. Verifica-se a ocorrência do fonema interdental fricativo sonoro em Nimuendajú (1930), Costa (1998) e Solano (2002). Por este motivo, decidimos adotar o símbolo do fricativo interdental sonoro /∂/ para representar este fonema.
+
+Tabela 2.9 – Mu /k/ = Ku /k/
+
+Mundurukú k´~m
+
+Kuruáya kam
+
+kaßi
+
+kadΩi
+
+kabido
+
+kabi∂o
+
+pakp\k
+
+pakpak
+
+weßik
+
+wedΩik
+
+8 Costa (1998).
+
+Glossa ‘peito’ ‘sol’ ‘vento’ ‘vermelho’ ‘batata doce’
+
+29
+
+O fonema oclusivo velar surdo /k/ do Mundurukú tem como correspondente o fonema /k/ do Kuruáya. Esse fonema possui as mesmas características dos fonemas oclusivos surdos bilabiais e alveolares. Apresenta o fone [k] realizado em início de sílaba e o fone [k}] não-explodido em final de sílaba.
+O fonema /k/ do Mundurukú e o fonema /k/ do Kuruáya se correspondem regularmente, exceto diante de /i/, situação em que o Mundurukú tem /ß/, conforme pode ser verificado na tabela abaixo:
+
+Tabela 2.10 – Mu /ß/ = Ku /k/
+
+Mundurukú
+
+Kuruáya
+
+ßin (palavra antiga) kin
+
+ßidΩap
+
+kidap
+
+ßiri
+
+kiri
+
+aßip
+
+akip
+
+Glossa ‘beiju’ ‘abrigo’ ‘periquito’ ‘quente’
+
+Tabela 2.11 – Mu /// = Ku ///
+
+Mundurukú /´k
+
+Kuruáya /πk
+
+o/a
+
+o/a
+
+wa/e
+
+wa/e
+
+/it (filho da mulher) (o)/it
+
+tßo/a
+
+tßo/a
+
+Glossa ‘barriga’ ‘cabeça’ ‘cuia’ ‘filho’ ‘morro’
+
+30
+
+/ip
+
+/ip
+
+‘árvore, pau’
+
+Para a oclusiva glotal surda ///, verifica-se que a correspondência é sistemática em ambas as línguas. As ocorrências de oclusivas glotais surdas poderiam ser sistemáticas em Kuruáya, mas, como parte dos dados utilizados para esta pesquisa é do trabalho de Nimuendajú (1930), que não registrou esses sons, alguns vocábulos, que foram utilizados nesta pesquisa, ficaram sem a respectiva marca da oclusiva glotal. Isso foi assinalado por Rodrigues (1980): “Nimuendajú (1930) sistematicamente deixa de registrar as oclusivas glotais, que provavelmente ocorriam em Kuruáya tanto quanto em Mundurukú”.
+
+Tabela 2.12 – Mu /tß/ = Ku /tß/
+
+Mundurukú tßo/a
+
+Kuruáya tßo/a
+
+tßoko~n
+
+tßoka~n
+
+tßoko
+
+tßoko
+
+otße
+
+otße
+
+etßo~
+
+etßo~
+
+otßo~otßo~
+
+otßootßom
+
+Glossa ‘morro’ ‘tucano’ ‘urucu’ ‘nós, nos’ (excl.) ‘pilão’ ‘tossir’
+
+Verifica-se, então, que o fonema /tß/ do Mundurukú corresponde, sistematicamente, ao fonema /tß/ do Kuruáya.
+
+Tabela 2.13 – Mu /dΩ/ = Ku /dΩ/
+
+Mundurukú ßidΩap (abrigo)
+
+Kuruáya kidΩap
+
+w\ydΩ\
+
+weidΩπ
+
+eydΩ\
+
+eidΩi
+
+otßedΩ\
+
+otßidΩe
+
+31
+Glossa ‘casa’ ‘nós, nos (incl.)’ ‘vocês’ ‘nós, nos (excl.)’
+
+Tabela 2.14 – Mu /dΩ/ = Ku /d/
+
+Mundurukú dΩ\
+
+Kuruáya di
+
+dΩedΩe
+
+dede
+
+(dΩe)ak
+
+deak
+
+dΩodΩo
+
+dodo
+
+edΩ\
+
+edi
+
+dadΩe
+
+∂ade
+
+adΩok
+
+adok
+
+odΩodi
+
+odo∂it
+
+adΩore
+
+adore
+
+Glossa ‘ir’ ‘em cima’ ‘olhar’ ‘ver’ ‘com’ ‘porco’ ‘tomar banho’ ‘meu tio’ ‘velho, ancião’
+
+Analisando as duas tabelas acima, são verificadas as correspondências do fonema /dΩ/ do Mundurukú com o fonema /dΩ/ do Kuruáya e o fonema /dΩ/ do Mundurukú como o fonema /d/ do Kuruáya.
+O fonema /dΩ/ do Mundurukú corresponde, regularmente, ao fonema /d/ do Kuruáya, exceto após /i/, quando corresponde ao fonema /dΩ/ do Kuruáya.
+
+32
+
+Tabela 2.15 – Mu /s/ = Ku /s/
+
+Mundurukú m´s´k
+
+Kuruáya masπk
+
+dase˜ (p\)
+
+asi˜
+
+was´~
+
+o~sî~
+
+Glossa ‘mandioca’ ‘minhoca’ ‘pássaro’
+
+A tabela acima mostra que a consoante fricativa alveolar surda /s/ apresenta-se correspondente nas duas línguas analisadas. Em todos os exemplos, verifica-se a presença da consoante em início de sílaba, não sendo verificadas outras ocorrências.
+
+Tabela 2.16 – Mu /ß/ = Ku /ß/
+
+Mundurukú ßet
+
+Kuruáya ßet
+
+ßep
+
+ßep
+
+aßa
+
+aßa
+
+wißa
+
+wißa/
+
+Glossa ‘dormir’ ‘gordura, óleo’ ‘fogo’ ‘formiga’
+
+Os fonemas /ß/ do Mundurukú e /ß/ do Kuruáya se correspondem regularmente.
+
+Tabela 2.17 – Mu /ß/ = Ku /dΩ/
+
+Mundurukú ßi
+
+Kuruáya dΩi
+
+ißib´
+
+idΩibπ
+
+Glossa ‘mãe’ ‘cipó’
+
+weßik kaßi
+
+33
+
+wedΩik kadΩi
+
+‘batata doce’ ‘sol’
+
+O fonema /dΩ/ do Mundurukú corresponde, regularmente, ao fonema /dΩ/ do Kuruáya, exceto diante de /i/, situação em que o Mundurukú tem /ß/.
+
+Tabela 2.18 – Mu /h/ = Ku /h/
+
+Mundurukú hai
+
+Kuruáya hai
+
+ihi
+
+ihi
+
+dΩe\h\-m
+
+o-deπhπ
+
+Glossa ‘paca’ ‘macaco-da-noite’ ‘subir’
+
+Logo, em ambas as línguas, o fonema /h/ apresenta-se correspondente.
+
+Tabela 2.19 – Mu /m/ = Ku /m/
+
+Mundurukú m\ra (da)
+
+Kuruáya mara
+
+m´s´k
+
+masπk
+
+m´reo
+
+mareo
+
+iremr\m
+
+iremrem
+
+Glossa ‘milho’ ‘mandioca’ ‘morcego’ ‘azul, azulado’
+
+Sendo assim, o fonema /m/ do Mundurukú corresponde regularmente ao fonema /m/ do Kuruáya.
+
+34
+
+Tabela 2.20 – Mu /n/ = Ku /n/
+
+Mundurukú on~
+
+Kuruáya on~
+
+e~n
+
+e~n
+
+e~n
+
+e~n
+
+ßin (palavra antiga) kin
+
+Glossa ‘eu, me’ ‘tu, te’ ‘carne’ ‘beiju’
+
+O fonema /n/ do Mundurukú corresponde regularmente ao fonema /n/ do Kuruáya.
+
+Tabela 2.21 – Mu /˜/ = Ku /˜/
+
+Mundurukú di˜
+
+Kuruáya ∂i˜
+
+(d) ase˜
+
+asi˜
+
+no~˜
+
+no˜ (pulga)
+
+Glossa ‘fumaça’ ‘minhoca’ ‘bicho de pé’
+
+O fonema /˜/ do Mundurukú apresenta 3 alofones: [˜] em final de sílaba, após vogal nasal; [g˜] em final de sílaba, após vogal oral; e [µ] em início de sílaba (Picanço, 2005). Já em Kuruáya, apresenta apenas o fone [˜] (Costa, 1998).
+Em final de palavra, o fonema /˜/ do Mundurukú corresponde ao fonema /˜/ do Kuruáya. Em outros ambientes, há a correspondência do fonema /˜/ do Mundurukú com o fonema /n/ do Kuruáya, conforme pode ser visto na tabela a seguir:
+
+35
+
+Tabela 2.22 – Mu /˜/ = Ku /n/
+
+Mundurukú ˜´d\p
+
+Kuruáya ini∂πp
+
+pi˜a
+
+pina~
+
+o˜ebi
+
+one~bi/
+
+o˜ebit
+
+onebit
+
+-a˜ob´
+
+anobπ
+
+-ka˜obi
+
+-kanomi
+
+Glossa ‘buriti’ ‘anzol’ ‘axilas’ ‘neto’ ‘pescoço’ ‘tornozelo’
+
+O fonema /˜/ do Mundurukú corresponde ao fonema /n/ do Kuruáya em ambientes que não sejam de final de palavra. Essa correspondência explica a ocorrência do fonema /n/ do Kuruáya, uma vez que o fonema /n/ do Mundurukú corresponde ao fonema /∂/ do Kuruáya, como apresentado anteriormente na tabela 2.8.
+
+Tabela 2.23 – Mu /r/ = Ku /r/
+
+Mundurukú ipara
+
+Kuruáya opara
+
+i-para (a. amarela) parawa
+
+karo
+
+karo
+
+iremr\m
+
+iremrem
+
+ir\t
+
+irit
+
+m´reo
+
+mareo
+
+aro
+
+aro
+
+ßiri
+
+kiri
+
+Glossa ‘abacaxi’ ‘arara azul’ ‘arara vermelha’ ‘azul’ ‘branco’ ‘morcego’ ‘papagaio’ ‘periquito’
+
+36
+Conforme os exemplos anteriores, o fonema /r/ do Mundurukú corresponde regularmente ao fonema /r/ do Kuruáya. 9
+
+Tabela 2.24 – Mu /y/ = Ku /y/
+
+Mundurukú p´yb´
+
+Kuruáya pπy
+
+daydo
+
+∂ay∂o
+
+˝~y
+
+a~y
+
+poy
+
+poy
+
+ay
+
+ay
+
+-oy
+
+-oy
+
+Glossa ‘cobra’ ‘tatu’ ‘dente’ ‘jaboti’ ‘preguiça, bicho’ ‘sangue’
+
+Tabela 2.25 – Mu /w/ = Ku /w/
+
+Mundurukú wita/a
+
+Kuruáya wita/a
+
+weßik
+
+wedΩik
+
+warep´p´ d´p waripotpot
+
+wa/e
+
+wa/e
+
+wako~
+
+wako
+
+wî~to~
+
+wito~
+
+tawe
+
+tawe
+
+Glossa ‘pedra’ ‘batata doce’ ‘borboleta’ ‘cuia’ ‘jacu’ ‘mutum’ ‘macaco-prego’
+
+9 Rodrigues (1980) apresenta a forma reconstruída /*r / e /r/ para o Proto-Tupi-Guarani e Tupinambá, respectivamente. Para /aro/ ‘papagaio’, a correspondência em Tupinambá e a reconstrução para o Proto-Tupi-Guarani são: /ayuru/ e /*ayuru/, respectivamente.
+
+37
+Como pode ser percebido nas duas tabelas anteriores, as correspondências das aproximantes são regulares, não ocorrendo variação ou condicionamentos para sua mudança.
+
+38 CAPÍTULO 3
+
+3.1 Vogais
+3.1.1 Vogais do Mundurukú
+Braun & Crofts (1965) haviam considerado que o Mundurukú possuía um sistema fonêmico com seis vogais orais e seis vogais nasais: /a/, /a~/, /e/, /e~/, /i/, /î~/, /o/, /o~/, /\/, /\~/, /π/, /˝~/; entretanto, em estudo posterior, Crofts (1973) considera [π] e [\] como alofones de um só fonema, que passa a escrever como u em sua transcrição ortográfica, e tratamento análogo deu ao fonema nasal correspondente, escrito u~. Mais recentemente, Picanço (1997, 2005) mantém a mesma interpretação, registrando os dois fonemas em questão como /\/ e /\~/.
+
+Assim, os fonemas vocálicos foram apresentado por Crofts (1973) da seguinte forma:
+
+Tabela 3.1 – Fonemas vocálicos da língua Mundurukú (Crofts, 1973)
+
+Anteriores
+
+Centrais
+
+Posteriores
+
+Altas
+
+orais nasais orais nasais orais nasais
+
+i
+
+î~
+
+π
+
+˝~
+
+Médias
+
+e
+
+e~
+
+o
+
+o~
+
+Baixas
+
+a
+
+a~
+
+39
+
+Já os apresentados por Picanço (2005) são os seguintes:
+
+Tabela 3.2 – Fonemas vocálicos da língua Mundurukú (Picanço, 2005)
+
+Anteriores
+
+Centrais
+
+Posteriores
+
+Altas
+
+orais nasais orais nasais orais nasais
+
+i
+
+î~
+
+Médias
+
+e
+
+e~
+
+\
+
+\~
+
+o
+
+o~
+
+Baixas
+
+a
+
+a~
+
+3.1.2 Vogais do Kuruáya
+
+Segundo Costa (1998), os fonemas do Kuruáya são 9, conforme a tabela abaixo:
+
+Tabela 3.3 – Fonemas vocálicos da língua Kuruáya (Costa, 1998)
+
+Anteriores
+
+Centrais
+
+Posteriores
+
+Altas
+
+orais nasais orais nasais orais nasais
+
+i
+
+î~
+
+π
+
+Médias
+
+e
+
+e~
+
+o
+
+o~
+
+Baixas
+
+a
+
+a~
+
+Verificamos que para cada vogal oral há uma nasal correspondente. No Kuruáya, entretanto, não foi registrada por Costa nenhuma ocorrência da vogal central alta nasal /π/.
+
+40
+
+Costa (1998) apresenta os sons [o] e [ø] como alofones de um só fonema /o/, que se realizaria como [ø] somente em sílaba tônica ou em sílaba prétônica quando a vogal da tônica é [ø]. Entretanto, nos dados gravados por Solano (2002), tanto [ø] quanto [o] ocorrem nessas situações, por exemplo: [oro"ro] ‘guariba’, [a"ro] ‘papagaio’ e [piø"rø] ‘gripe’. Isso vale também para os dados transcritos pelo próprio Costa, que apresenta [oro"ro] ‘guariba’, [kø"rø] ‘coroca’, [lad´k"to] ‘porco-do-mato’ e [/ipi"to] ‘pau oco’. Picanço (2005) deve ter observado a mesma situação e, por isso, distinguiu dois fonemas vocálicos posteriores /o/ e /ø/. Assim os fonemas vocálicos do Kuruáya podem ser apresentados no seguinte quadro:
+
+Tabela 3.4 – Fonemas vocálicos da língua Kuruáya
+
+Anteriores
+
+Centrais
+
+Posteriores
+
++ Altas
+
+orais nasais orais nasais orais nasais
+
+i
+
+î~
+
+π
+
+o
+
+o~
+
+- Altas
+
+e
+
+e~
+
+a
+
+a~
+
+ø
+
+3.1.2 Correspondências fonológicas vocálicas
+
+analisadas:
+
+Apresentaremos algumas correspondências fonológicas nas línguas
+
+Tabela 3.5 – Mu /a/ = Ku /a/
+
+Mundurukú adΩore
+
+Kuruáya adore
+
+aro
+
+aro
+
+tawe
+
+tawe
+
+karo
+
+karo
+
+koato
+
+koato
+
+dao
+
+∂ao
+
+kabia
+
+kabia
+
+daßa
+
+∂aßa
+
+-ba
+
+-ba
+
+tßo/a
+
+tßo/a
+
+wita/a
+
+wita/a
+
+41
+Glossa ‘ancião’ ‘papagaio’ ‘macaco-prego’ ‘arara vermelha’ ‘verão’ ‘perna’ ‘dia’ ‘fogo’ ‘braço’ ‘morro’ (subst.) ‘pedra’
+
+Como pode ser verificado no quadro acima, o fonema /a/ do Mundurukú corresponde ao fonema /a/ do Kuruáya.
+
+Tabela 3.6 – Mu /e/ = Ku /e/
+
+Mundurukú e
+
+Kuruáya e
+
+e
+
+e
+
+edΩ\
+
+edi
+
+eit
+
+eit
+
+weßik
+
+wedΩik
+
+deko
+
+∂eko
+
+ßet
+
+ßet
+
+ßep
+
+ßep
+
+Glossa ‘caminho’ ‘fumo, tabaco’ ‘com’ ‘mel’ ‘batata doce’ ‘macaco coatá’ ‘dormir’ ‘gordura, óleo’
+
+-be tawe adΩore wa/e
+
+-be tawe adore wa/e
+
+42
+‘em’ ‘macaco-prego’ ‘ancião’ ‘cuia’
+
+O fonema /e/ do Mundurukú corresponde ao fonema /e/ do Kuruáya, que apresenta dois alofones, [e] e [´], sendo este último condicionado à presença em sílaba tônica [oki"´] ‘minha pele’ (Solano, 2002).
+
+Tabela 3.7 – Mu /i/ = Ku /i/
+
+Mundurukú ipi
+
+Kuruáya ipi
+
+ir\t
+
+irit
+
+ihi
+
+ihi
+
+tit
+
+tit
+
+-/ip
+
+-/ip
+
+bio
+
+bio
+
+di˜
+
+∂i˜
+
+pi˜a
+
+pina~
+
+ßiri
+
+kiri
+
+bi
+
+bi
+
+kabi
+
+kabi
+
+Glossa ‘terra, areia’ ‘branco’ ‘macaco-da-noite’ ‘flor’ ‘árvore, pau’ ‘anta’ ‘fumaça’ ‘anzol’ ‘periquito’ ‘boca’ ‘céu’
+
+O fonema /i/ do Mundurukú corresponde, portanto, ao fonema /i/ do Kuruáya.
+
+43
+
+Tabela 3.8 – Mu /o/ = Ku /o/
+
+Mundurukú
+
+Kuruáya
+
+oropo
+
+oropo
+
+opa
+
+opa
+
+o˜ebit
+
+onebit
+
+koato
+
+koato
+
+doa
+
+∂oa
+
+bio
+
+bio
+
+dao / tao
+
+∂ao / tao
+
+karo
+
+karo
+
+daydo
+
+∂ay∂o
+
+kabido
+
+kabi∂o
+
+Glossa ‘urubu’ ‘rosto, face’ ‘neto’ ‘verão’ ‘aranha’ ‘anta’ ‘osso’ ‘arara vermelha’ ‘tatu’ ‘vento, temporal’
+
+Com isso, vê-se que o fonema /o/ do Mundurukú corresponde ao fonema /o/ do Kuruáya.
+
+Tabela 3.9 – Mu /\/ = Ku /π/
+
+Mundurukú /´k
+
+Kuruáya /πk
+
+˜´d\p
+
+ini∂πp
+
+p´yb´
+
+pπy
+
+p\y-bit
+
+bπy
+
+m´s´k
+
+masπk
+
+b\tet
+
+bπtet
+
+b\ (dedo)
+
+bπ
+
+ißib´
+
+idΩibπ
+
+dΩ\
+
+dπ
+
+Glossa ‘barriga’ ‘buriti’ ‘cobra’ ‘comida’ ‘mandioca’ ‘nome’ ‘mão’ ‘cipó’ ‘ir’
+
+44
+
+Tabela 3.10 – Mu /\/ = Ku /i/
+
+Mundurukú ir\t
+
+Kuruáya irit
+
+wap\r\m/a
+
+aporim
+
+˜´d\p
+
+ini∂πp
+
+edΩ\
+
+edi
+
+Glossa ‘branco’ ‘açaí’ ‘buriti’ ‘com’
+
+Tabela 3.11 – Mu /\/ = Ku /a/
+
+Mundurukú m´s´k
+
+Kuruáya masπk
+
+m\ra (da)
+
+mara
+
+m´reo
+
+mareo
+
+Glossa ‘mandioca’ ‘milho’ ‘morcego’
+
+Tabela 3.12 – Mu /\/ = Ku /o/
+
+Mundurukú wap\r\m/a
+
+Kuruáya aporim
+
+-\kpita
+
+okpita
+
+warep´p´d´p
+
+waripotpot
+
+Glossa ‘açaí’ ‘ânus’ ‘borboleta’
+
+Como pode ser verificado nas tabelas 3.9 a 3.12, a vogal central média /\/ do Mundurukú pode ter como correspondentes as vogais /π/, /i/, /a/ e /o/ do Kuruáya. A correspondência Mu /\/ = Ku /π/ apresenta um número maior de ocorrências, seguida da correspondência Mu /\/ = Ku /i/.
+Para a correspondência do fonema /\/ do Mundurukú como o fonema /a/ do Kuruáya, todos os exemplos são precedidos pela consoante oclusiva bilabial nasal. Já
+
+45
+correspondência do fonema /\/ do Mundurukú com o fonema /i/ do Kuruáya ocorre sistematicamente diante de consoante alveolar.
+
+Tabela 3.13 – Mu /v~/ = Ku /v~/
+
+Mundurukú e~n
+
+Kuruáya e~n
+
+wen´~ î~
+
+we∂a~
+
+w\~y
+
+nowa~i
+
+\~y
+
+a~y
+
+ko~
+
+ko~
+
+was´~
+
+osî~
+
+tßoko~n
+
+tßoka~n
+
+ko~
+
+ko~
+
+nobano~
+
+∂oba∂o~
+
+wî~to~
+
+wito~
+
+Glossa ‘carne’ ‘castanha’
+‘atirar’ (com a flecha)
+‘dente’ ‘língua’ ‘pássaro’ ‘tucano’ ‘língua’ ‘arma de fogo’ ‘mutum’
+
+Para as vogais nasais, verifica-se que estas são correspondentes em ambas as línguas, mantendo, em muitos casos, as correspondências citadas para as orais.
+
+46 CAPÍTULO 4
+
+4.1 Os padrão silábicos, os acentos e os tons
+
+4.1.1 Padrões Silábicos
+
+4.1.1.1 Padrões Silábicos do Mundurukú
+
+Braun & Crofts (1965) apresentam os seguintes padrões silábicos para o Mundurukú:
+
+Tabela 4.1 – Padrão CV
+
+Início de palavra
+
+a
+
+da-r\~k
+
+‘arco’
+
+b
+
+bi-dap
+
+‘barba’
+
+Meio de palavra ka-bi-a
+
+Fim de palavra wi-da
+
+‘dia’ pi-ßa-˜a
+
+‘onça’ day-do
+
+‘gato’
+
+‘tatu’
+
+Tabela 4.2 – Padrão CVC
+
+Início de palavra
+
+a
+
+/ip
+
+‘árvore’
+
+b
+
+p´y-b´
+
+‘cobra’
+
+Meio de palavra ka-sop-ta
+
+Fim de palavra da-kat
+
+‘estrela’ a-˜o-kat-kat
+
+‘cortar’ op-/\k
+
+‘homem’
+
+‘lança’
+
+47
+
+Tabela 4.3 – Padrão VC
+
+Início de palavra
+
+a
+
+op-/\k
+
+‘lança’ b op
+
+‘marido’
+
+Meio de palavra po-at-po-at
+
+Fim de palavra e-it
+
+‘falcão’ i-m\-ay-pan
+
+‘mel’ wa-mo~-at
+
+‘crescer (criança)’ ‘pajé’
+
+Tabela 4.4 – Padrão V
+
+Início de palavra
+
+a
+
+a-ro
+
+‘papagaio’
+
+b
+
+i-pa-ra
+
+‘abacaxi’
+
+Meio de palavra ko-a-to
+
+Fim de palavra bi-o
+
+‘caranguejo’ i-ko-e-ro~
+
+‘anta’ ka-bi-a
+
+‘mosca’
+
+‘dia’
+
+Picanço (2005:95-96) corrobora a análise de Braun & Crofts dos padrões silábicos do Mundurukú.
+
+4.1.1.2 Padrões Silábicos do Kuruáya
+Após análise de dados coletados e transcritos, pode-se afirmar que o Kuruáya apresenta padrões silábicos idênticos aos do Mundurukú. Essa constatação já havia sido feita por Costa (1998). Seguem exemplos dos padrões silábicos do Kuruáya:
+
+48
+
+Tabela 4.5 – Padrão CV
+
+Início de palavra
+
+a
+
+ma-ro
+
+‘algodão’
+
+b
+
+pa-ra-wa
+
+‘arara azul’
+
+Meio de palavra a-ba-ra-ri
+
+Fim de palavra pa-wa~
+
+‘arraia’ ma-ra-dΩi
+
+‘banana’ po-be
+
+‘cana-de-açúcar’ ‘canoa’
+
+Tabela 4.6 – Padrão CVC Início de palavra
+a pπy
+
+‘cobra’
+
+b
+
+tay-bi
+
+‘mato (subst.)’
+
+Meio de palavra /ip
+
+Fim de palavra bπ-kit
+
+‘árvore’ we-dΩik-/a
+
+‘criança’ wa-ri-pot-pot
+
+‘batata’
+
+‘borboleta’
+
+Tabela 4.7 – Padrão VC
+
+Início de palavra
+
+a
+
+ok-pi-ta
+
+‘ânus’ b op
+
+‘flecha’
+
+Meio de palavra o-ay-tßi
+
+Fim de palavra ∂a-ik
+
+‘camaleão’
+
+‘arco’ i-bi-oy
+
+‘pato’
+
+49
+
+Tabela 4.8 – Padrão V
+
+Início de palavra
+
+a
+
+a-ro
+
+‘papagaio’
+
+b
+
+o-pa-ra
+
+‘abacaxi’
+
+Meio de palavra ko-a-ra
+
+Fim de palavra bi-o
+
+‘caranguejo’ i-ko-e~-ko
+
+‘anta’ ka-bi-a
+
+‘mosca’
+
+‘dia’
+
+4.1.2 Acento
+Outra semelhança fonológica entre o Mundurukú e o Kuruáya é a posição do acento de intensidade na palavra. Sistematicamente, o acento ocorre na última silaba. Por esse motivo, não há a necessidade de marcarmos a sílaba tônica nos exemplos utilizados.
+4.1.3 Tom
+O Mundurukú e o Kuruáya são línguas tonais. Braun & Crofts (1965) reconheceram quatro tons em Mundurukú: ‘alto’, ‘médio’, ‘baixo’ e ‘laringalização’. Entretanto, Picanço (2005:12) reconhece um sistema de apenas dois tons contrastivos:
+Mundurukú is a language that makes use of two levels of pitch, low (L) and high (H), to lexically distinguish items. On the surface we find five tonal behaviors: stable versus unstable H tones, active versus inert L tones, and tonal polarity. The account relies on lexical distinctions to explain the five behaviors. Lexical H tones are stable, lexical L tones are active, triggering dissimilation of a following L, and toneless moras surface L but this tone is inert. Unstable H and polar tones are the manifestation of a floating H tone. The analyis then proceeds to explore the tone-creaky voice interaction. Phonologically creaky vowels do not exhibit
+
+50
+
+contrasts of tones, being restricted to a L tone. Creaky voice was in the past (Braun and Crofts 1965) analyzed as a tonal feature, but Chapter 8 shows that tones are independent of phonation oppositions. The major achievement of the study is that the tonal system of the language can be reduced to two distinctive levels, rather than the four previously proposed.
+Para o Kuruáya, Costa (1998), mesmo sem apresentar um estudo mais
+detido sobre o sistema tonal do Kuruáya, verifica a existência de dois tons. Em seu
+estudo, apresenta apenas dois pares tonais contrastivos:
+
+Tabela 4.9 – Contraste Tonal
+
+a /i¹dΩi¹/
+
+‘veado’
+
+b
+
+/i¹dΩi²/
+
+‘mãe dele’
+
+a
+
+/o¹∂op¹/
+
+b
+
+/o¹∂op²/
+
+‘minha flecha’ ‘meu pai
+
+Em nossa base de dados, foram encontrados dois possíveis pares tonais contrastivos, entretanto não dispomos dos exemplos com uma análise tonal. Observe na tabela abaixo:
+
+Tabela 4.10 – Possíveis Contrastes Tonais (Solano, 2002)
+
+a /e/
+
+‘caminho’
+
+b /e/
+
+‘fumo, tabaco’
+
+a /e~n/ b /e~n/
+
+‘tu, te’ ‘carne’
+
+51
+CONCLUSÃO
+Realizamos neste trabalho um estudo que se justificou pela necessidade de se aprofundar o conhecimento do parentesco genético entre as línguas Kuruáya e Mundurukú já evidenciado por Rodrigues (1980).
+Foi realizado um estudo comparativo das duas línguas, mostrando, sistematicamente, as correspondências e os fenômenos presentes nas consoantes, nas vogais e nos padrões silábicos.
+Na análise, foram utilizados dados publicados em trabalhos diversos e novos dados da língua Kuruáya gravados no ano de 2002. Todos esses dados foram organizados com o intuito de se estabelecer as correspondências fonológicas e lexicais entre as línguas comparadas.
+Esta pesquisa possibilitou aprofundar o estudo a respeito do parentesco genético das línguas analisadas, uma vez que se verificaram semelhanças em vários aspectos fonológicos das línguas. Há uma grande sistematicidade nas correspondências analisadas, tanto nas consoantes quanto nas vogais. Os padrões silábicos se mostram idênticos, ocorrendo o mesmo com o acento de intensidade na palavra. Com relação ao tom, mesmo sem uma análise mais detida sobre o sistema tonal do Kuruáya, verificou-se a semelhança deste com o Mundurukú, ambos apresentando pares tonais contrastivos.
+
+52
+Espera-se que este estudo comparativo das línguas Mundurukú e Kuruáya venha a contribuir para o melhor conhecimento da família lingüística Mundurukú e, conseqüentemente, do tronco lingüístico Tupí.
+
+53
+REFERÊNCIAS BIBLIOGRÁFICAS
+ALMEIDA, Lucila Belmira Autran de & Laura Maria de Oliveira Silva. Os Índios Kuruáya. Trabalho de Conclusão de Curso – Centro de Letras e Artes, Universidade Federal do Pará, 1995. BRAUN, Ilse & Marjorie Crofts. “Mundurukú Phonology”. In: Anthropological linguistics 7, 7: 23-39. Anthropological Department: Indiana Univerdity, 1965. CABRAL, Ana Suelly Arruda Câmara. “Flexão relacional na família Tupí-Graraní”. In: ABRALIN: Boletim da Associação Brasileira de Lingüística. V. 1. Fortaleza: Imprensa Universitária, 2001. ______ “Deslocamentos Pré-históricos de Línguas do Tronco Tupí”. Comunicação apresentada no 54o Encontro Anual da SBPC, Goiânia, Brasil, 2002. ______ “Grammatical Changes in Tupian Languages”. Paper presented at the Annual Meeting of the Society for the Study of the Indigenous Languages of the Américas (SILLA), Atlanta, GA, 2003. CABRAL, A.S.A.C. & A. D. RODRIGUES, “Pronomes e marcas pessoais em línguas do tronco Tupí”. In: Cabral, A. S. A. C. & A. D. Rodrigues (orgs), Línguas indígenas brasileiras: fonologia, gramática e história. Belém: EDUFPA, 234-242, 2002. CAMPBELL, L.. Historical Linguistics. Edinburgh University Press, 1998. COSTA, Raimundo Nonato Vieira, Fonologia da Língua Kuruáya. Dissertação de Mestrado. Belém: UFPA, 1998.
+
+54
+CROFTS, Marjorie, “Repeated Morphs in Mundurukú” In: Estudos sobre Línguas e Culturas Indígenas. Brasília: SIL Publicações, 1971.
+______Gramática Mundurukú. Brasília: SIL Publicações, 1973.
+______ Aspectos da língua Munduruku. Brasília: SIL Publicações, 1984.
+GOMES, Dioney Moreira, Predicados verbais da língua Mundurukú e modelos lexicográficos. Dissertação de Mestrado. Brasília: Universidade de Brasília, 2000.
+_____ Estudo morfológico e sintático da língua mundurukú (Tupi). Tese de doutorado – Brasília: Universidade de Brasília, 2006.
+GONÇALVES, Cristina H. R. C. Concordância em Mundurukú. Campinas: Editora da UNICAMP, 1987.
+HOCK, H.H. Principles of historical linguistics. Berlin: Mouton de Gruyter, 1991.
+KAUFMAN, T. Language History in South of América: what we know and how to know more. In: Payne, D. L. (org.). Amazonian Lingüistics – studies in lowand South American Languages. Austin: University of Texas Press, 1990.
+MENSE, H. “Língua Mundurucu: vocabulários especiais”. In: Arquivos do Museu Paranaense. 6:107-148, 1947.
+NUNES, Patrícia Vieira. Principio icônico e tratamento lexicográfico: Aplicação aos nomes da língua mundurukú. Dissertação de Mestrado. Brasília: Universidade de Brasília, 2000.
+
+55
+NIMUENDAJÚ, Curt – “Zur Sprache der Kuruáya-Indianer”. Journal de la Société des Américanistes. 22:317-345, 1930.
+_______ “Die Verwandtschaft des Mundurukúischen mit dem Tupíischem”. Santo Antonio, Provinzzeitschrift der Franziskener in Nordbrasilien. 15: 2: 76-80, 1937.
+PICANÇO, Gessiane Lobato. Mundurukú: Phonetics, Phonology, Synchrony and Diachrony. The University of British Columbia, 2005.
+RODRIGUES, A. D. “A classificação do tronco lingüístico Tupi”. Revista de Antropologia 12: 99-104, 1964.
+______ “Língua ameríndias”. Grande Enciclopédia Delta-Larousse. pp. 4034-4036. Rio de Janeiro: Delta, 1970.
+_______ “Tupi-Guarani e Mundurukú: evidências lexicais e fonológicas de parentesco genético”. In: Estudos Lingüísticos. (Anais de Seminários do GEL) 3:194-209. Araraquara: UNESP, 1980.
+_______ Línguas Brasileiras: para o conhecimento das línguas indígenas. São Paulo: Edições Loyola, 1986.
+_______ “Tupí”. In: Dixon, R. M. W. & A. Y. Aikhenvald (orgs). The Amazonian Languages. Cambridge: CUP, 1999.
+STRÖMER, C. Die Sprache der Mundurukú. Viena, 1932.
+WETZELS, Leo. Estudos Fonológicos das Línguas Indígenas Brasileiras. Rio de Janeiro: Editora da UFRJ, 1995.
+
+56 ANEXOS
+
+Lista de cognatos da família Mundurukú.
+
+Português
+
+Mundurukú
+
+‘abacaxi’ ‘abrigo’ ‘açaí’ ‘água’ ‘algodão’ ‘ancião’ ‘anta’ ‘ânus’ ‘anzol’ ‘aqui’ ‘aranha’
+
+ipara ßidΩap wap\r\m/a -ti bo~ro~ adΩore bio -\kpita pi˜a ße (perto) doa
+
+Kuruáya
+opara kidap aporim titi maro∂a adore bio okpita pina~ idΩπtße ∂oa
+
+57
+
+‘arara azul’
+
+i-para (a. amarela)
+
+‘arara vermelha’
+
+karo
+
+‘arco’
+
+dar\~k
+
+‘arma de fogo’
+
+nobano
+
+‘árvore, pau’
+
+-/ip
+
+‘atirar’ (com a flecha) w\~y
+
+‘axilas’
+
+o˜ebi
+
+‘barba’
+
+bidap
+
+‘barriga’
+
+/´k
+
+‘batata doce’
+
+weßik
+
+‘beiju’
+
+ßin (palavra antiga)
+
+‘bigode’
+
+ibidap
+
+‘boca’
+
+bi
+
+‘borboleta’
+
+warep´p´d´p
+
+‘braço’
+
+-ba
+
+parawa karo ∂aik ∂oba∂o~ -/ip nowa~i one~bi/ bi∂ap /πk wedΩik kin bi∂ap bi waripotpot -ba
+
+58
+
+‘branco’
+
+ir\t
+
+‘buriti’
+
+˜´d\p
+
+‘cabeça’
+
+-/a
+
+‘cabelo’
+
+dap / tap
+
+‘cacau’
+
+akadap
+
+‘cair’
+
+/at
+
+‘calcanhar’
+
+ida
+
+‘caminho’
+
+e
+
+‘canoa’
+
+kobe
+
+‘cará’
+
+awayda
+
+‘caranguejo’
+
+koato
+
+‘carne’
+
+e~n
+
+‘carrapato’
+
+poroda
+
+‘castanha’
+
+wen´~î~
+
+‘cauda’ (mamíferos) toayb\
+
+irit ini∂πp -/a ∂ap aka∂ap at ia e pobe away koara e~n porio we∂a~ taybπ
+
+‘céu’ ‘cigarra’ ‘cipó’ ‘cobra’ ‘comida’ ‘crânio’ ‘criança’ ‘cuia’ ‘cuspir’ ‘dançar’ ‘dedo’ (da mão) ‘dente’ ‘dia’ ‘dormir’ ‘escorpião’
+
+kabi kororo˜ta ißib´ p´yb´ p\y-bit -a dao bekitßat wa/e dΩeßißim da/i b´ π~y kabia ßet dat
+
+59 kabi tßokororo˜ idΩibπ pπy bπy a ∂ao bπkit wa/e detßi de∂a/i bπ ∂a~y kabia ßet ∂at
+
+60
+
+‘esposa’ ‘estação de seca’ ‘fígado’ ‘filho’ ‘flecha’ ‘flor’ ‘fogo’ ‘folha’ ‘formiga’ ‘fumaça’ ‘fumo, tabaco’ ‘gordura, óleo’ ‘ir’ ‘jabuti’ ‘jacaré’
+
+tayßi
+
+taitßik
+
+koato (verão)
+
+koato
+
+opsa
+
+obia
+
+/it (filho da mulher)
+
+o/it
+
+op
+
+op
+
+tit
+
+tit
+
+daßa
+
+∂aßa
+
+d´p / t´p
+
+tip
+
+wißa
+
+wißa/
+
+di˜ - e-di˜ (de fumo) ti˜
+
+e
+
+e
+
+ßep
+
+ßep
+
+dΩ\
+
+di
+
+poy
+
+poy
+
+apat
+
+apatßi
+
+‘jacu’
+
+wako~
+
+‘lenha de fogo’
+
+daßa daypa
+
+‘língua’
+
+ko~
+
+‘linha de algodão’
+
+bo~bo~b\
+
+‘lua’
+
+kaßi
+
+‘macaco-da-noite’
+
+ihi
+
+‘macaco coatá’
+
+deko
+
+‘macado-prego’
+
+tawe
+
+‘mãe’
+
+ßi
+
+‘mandioca’
+
+m´s´k
+
+‘mandioca, plantação’ m´s´ktip
+
+‘mão’
+
+b\i
+
+‘marido’
+
+oktop
+
+‘mato (subs.)
+
+tip
+
+‘mel’
+
+eit
+
+61 wako ∂aßa ko~ marobπ wadΩi ihi ∂´ko tawe dΩi masπk masπktip bπ oktop tit eit
+
+62
+
+‘milho’
+
+m\ra (da)
+
+mara
+
+‘minhoca’
+
+dase˜p´
+
+asi˜
+
+‘morcego’
+
+m´reo
+
+mareo
+
+‘morro’ (substantivo) tßo/a
+
+tßo/a
+
+‘mosca’
+
+ikoero~
+
+ikoe~ko
+
+‘mosquito’
+
+ßik
+
+dΩik
+
+‘mutum’
+
+wî~to~
+
+wito~
+
+‘nádegas’
+
+-\kpi /a (nádega superior) ipi/a
+
+‘neto’
+
+o˜ebit
+
+onebit
+
+‘nome’
+
+b\tet
+
+bπtet
+
+‘olhar’ (para)
+
+(dΩe)ak
+
+deak
+
+‘osso’
+
+dao / tao
+
+∂ao / tao
+
+‘ovo’
+
+opsa
+
+tobia
+
+‘paca’
+
+hai
+
+hai
+
+‘pai’
+
+op (marido)
+
+o∂op
+
+‘papagaio’ ‘pássaro’ ‘pato’ ‘pau, árvore’ ‘pé’ ‘pedra’ ‘pegada’ ‘peito, seio’ ‘pele’ ‘pêlo’ ‘pena’ ‘periquito’ ‘perna’ ‘pescoço’ ‘piolho’
+
+aro was´~ ipsoy -/ip i wita/a ib\t k\~m ßee dap / tap dap / tap ßiri dao -a˜ob´ kip
+
+63 aro o~sî~ ibioy -/ip i wita/a ibπt kam kie ∂ap / tap ∂ap / tap kiri ∂ao anobπ a-kip
+
+64
+
+‘plantação’
+
+tip ~ dip
+
+‘porco’
+
+dadΩe
+
+‘porto’
+
+w\~y
+
+‘preguiça, bicho’
+
+ay
+
+‘pulga’
+
+no~˜/a
+
+‘queimar’
+
+pik
+
+‘quem’
+
+ab\
+
+‘quente’ (para objetos) aßip
+
+‘rabo’
+
+toayb\
+
+‘raiz’
+
+-ab\
+
+‘respirar’
+
+-pido-
+
+‘rio’
+
+idi
+
+‘rosto, face’
+
+opa
+
+‘roupa’
+
+edoti
+
+‘sangue’
+
+doy
+
+tip ∂ade oai ay ∂o˜ osipik abπ takip taibπ tabπ bi∂o ti opa o∂oti toy
+
+65
+
+‘sapo’
+
+korekore
+
+‘semente, caroço’
+
+da / ta
+
+‘sentar’
+
+abik
+
+‘sobre, em cima’
+
+dΩedΩe ~ tßedΩe
+
+‘sol’
+
+kaßi
+
+‘solo, terra, areia’
+
+ipi
+
+‘tatu’
+
+daydo
+
+‘tomar banho’ (banhar) adΩok
+
+‘tornozelo’
+
+-ka˜obi
+
+‘tossir’
+
+otßo~otßo~
+
+‘tucano’
+
+tßoko~n
+
+‘urubu’
+
+oropo
+
+korekore ta abik dede kadΩi ipi ∂ay∂o adok -kanomi otßootßom tßoka~n oropo
+
+‘vento, temporal’ ‘‘vvaelghinoa’ ’ ‘‘vveera’do’
+
+kabido
+
+kabi∂o
+
+atadbΩio(reentrada da semente) taadboire
+
+dißΩi odΩo
+
+didoΩdi o
+
+66
+
+‘verde, azul’ ‘vermelho’ ‘vir’
+
+remram (azulado)
+
+ramram
+
+pakpak (avermelhado) pakpak
+
+dΩot - ot
+
+ot
+
+

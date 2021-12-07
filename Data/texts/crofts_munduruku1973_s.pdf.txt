@@ -1,0 +1,5786 @@
+Gramática Munduruku
+Marjorie Crofts
+Tradução de Mary I. Daniel
+Redatora Loraine Irene Bridgeman
+PUBLICAÇÃO DA SOCIEDADE INTERNACIONAL DE LINGÜÍSTICA
+CUIABÁ, MT
+
+PREFÁCIO
+
+O presente trabalho foi uma das primeiras gramáticas a aplicar uma teoria moderna aos níveis gramaticais superiores ao da sentença. O fato de ter sido elaborada em 1966 implica em que tanto a teoria lingüística, aqui enfocada na tagmêmica, quanto os trabalhos da autora, têm se desenvolvido em larga escala. Lançada um pouco antes da teoria transformacional, a tagmêmica em nenhuma época gozou da predominância internacional desta, sendo por ela denominada de "taxonômica". Tornou-se, não obstante, muito prático iniciar um trabalho de campo dentro das linhas tagmêmicas.
+
+Três condições peculiares a pesquisas em línguas indígenas contribuíram para esta aceitação — e à subseqüente modificação constante da teoria tagmêmica entre os lingüistas de campo. 1) É precisamente a taxonomia da língua pesquisada que interessa ao cientista no início do trabalho. 2) O conceito do tagmema -- a correlação entre uma função e a classe que a manifesta -- é extremamente proveitoso na análise tanto de dados lingüísticos como culturais. 3) Os métodos analíticos associados à tagmêmica são pormenorizadamente desenvolvidos e práticos, sendo elaborados por professores do SIL internacional, todos pesquisadores ativos em línguas não indo-européias.
+
+A autora e sua colega de campo foram precursoras, mais recentemente, também de estudos do nível do discurso. A aplicação da teoria estratificacional em um estudo comparativo de textos virgens Mundurukus frente a um texto traduzido para o Munduruku salientou a necessidade de se revisar o trabalho literário já publicado*. Uma descrição mais completa de certas áreas do discurso acha-se no prelo**.
+
+Muito embora o que esteja aqui descrito para os níveis superiores tenha se tornado um mero esboço ao lado das descobertas posteriores, estas não revelaram qualquer necessidade de se alterar a análise, antes a confirmaram e a ampliaram.
+
+Parece-nos que um trabalho desta natureza não deve ficar simplesmente arquivado, mas sim, divulgado ao público interessado tanto na lingüística quanto nas línguas indígenas brasileiras.
+
+Aproveitamos, igualmente, da oportunidade para difundir, ao mesmo tempo, uma das várias listas de vocábulos arquivadas pela autora no Museu Nacional, Rio de Janeiro, e no SIL, Brasília. É o Formulário dos vocabulários padrões para estudos comparativos preliminares nas línguas indígenas brasileiras da Divisão de Antropologia -- Setor Lingüístico do Museu Nacional. Inclui uma página a mais para o registro de formas verbais e sete raízes traduzidos normalmente por "ele", informações mais completas que as apresentadas no formulário.
+
+Brasília, DF 10 de dezembro de 1973
+
+Loraine Irene Bridgeman Redatora
+
+* Sheffler, Margaret. "Results of Network Diagramming" em Notes on Translation, Nº 32, 1969.
+** Sheffler, Margaret. "Munduruku Discourse".
+Veja também: Crofts, Marjorie. "Notas sobre dois dialetos do Munduruku". Atas do Simpósio sobre a Biota Amazônica Vol. 2 (Antropologia) 85-91, 1967; "Os Proverbos e Pronomes em Munduruku", apresentado na ALFAL, Janeiro, 1969. (NR)
+
+Sumário
+
+PREFÁCIO
+
+2
+
+INTRODUÇÃO
+
+7
+
+1 UNIDADES SUPERIORES
+
+10
+
+1.1 Encontro
+
+10
+
+1.1.1 Diálogo de saudações
+
+10
+
+1.1.2 Corpo
+
+11
+
+1.1.3 Encerramento
+
+12
+
+1.1.4 Outros comentários
+
+13
+
+1.2 Discurso
+
+13
+
+1.3 Parágrafo
+
+14
+
+1.3.1 Início
+
+15
+
+1.3.1.1 Orientação temporal
+
+15
+
+1.3.1.2 Orientação direcional
+
+16
+
+1.3.2 Núcleo
+
+16
+
+1.3.3 Terminação
+
+17
+
+2 SENTENÇA
+
+19
+
+2.1 Sentença simples
+
+19
+
+2.2 Sentença expandida
+
+19
+
+2.2.1 Sentença de exclamação
+
+20
+
+2.2.2 Sentença adversativa
+
+20
+
+2.2.3 Sentença detalhada
+
+21
+
+2.2.4 Sentença interrogativa conseqüente
+
+22
+
+2.3 Sentença composta
+
+22
+
+2.3.1 Sentença contingente
+
+23
+
+2.3.2 Sentença consecutiva
+
+24
+
+2.3.3 Sentença de causa e efeito
+
+24
+
+2.3.4 Sentença propositada
+
+24
+
+2.3.5 Sentença intentiva
+
+25
+
+2.4 Sentença complexa
+
+25
+
+2.4.1 Sentença serial
+
+25
+
+2.4.2 Sentença paralela
+
+25
+
+2.5 Sentença citacional
+
+26
+
+3 ORAÇÃO
+
+28
+
+3.1 Oração verbal
+
+28
+
+3.1.1 Oração intransitiva
+
+29
+
+3.1.2 Oração transitiva
+
+29
+
+3.1.3 Oração descritiva
+
+31
+
+3.1.4 Oração pseudo-transitiva
+
+32
+
+3.1.5 Oração citadora
+
+32
+
+3.2 Tagmemas periféricos
+
+33
+
+3.2.1 Tagmemas locativos
+
+33
+
+3.2.2 Tagmemas temporais
+
+33
+
+3. 2.3 Tagmemas de tempo verbal e aspecto
+
+33
+
+3.3 Ordem preferida de tagmemas
+
+33
+
+3.4 Transformas de orações verbais
+
+34
+
+3.4.1 Oração dependente
+
+35
+
+3.4.2 Oração nominalizada
+
+35
+
+3.4.3 Oração intentiva
+
+36
+
+3.4.4 Oração interrogativa
+
+36
+
+3.4.4.1 Pergunta para obter informação
+
+37
+
+3.4.4.2 Pergunta para confirmação
+
+38
+
+3.4.4.3 Pergunta "sim-não"
+
+38
+
+3.5 Oração não-verbal
+
+38
+
+3.5.1 Oração estativa
+
+39
+
+3.5.1.1 Oração Estativa Equativa
+
+39
+
+3.5.1.2 Oração Estativa Locativa
+
+39
+
+3.5.1.3 Oração Estativa Relacionadora
+
+41
+
+3.5.2 Oração fatual
+
+41
+
+3.5.2.1 Oração fatual possessiva
+
+41
+
+3.5.2.2 Oração fatual existencial
+
+41
+
+3.6 Fragmentos oracionais
+
+42
+
+4 LOCUÇÃO
+
+43
+
+4.1 Locução nominal
+
+43
+
+4.1.1 Locução nominal básica
+
+43
+
+4.1.2 Locução pronominal
+
+44
+
+4.1.3 Locução nominal genitiva
+
+44
+
+4.1.4 Locução nominal de oração nominalizada
+
+45
+
+4.2 Locução eixo-referente
+
+46
+
+4.3 Locução verbal
+
+47
+
+4.3.1 Locução verbal básica
+
+47
+
+4.3.2 Locução verbal ideofônica
+
+49
+
+4.3.3 Locução verbal modal
+
+49
+
+4.4 Locução posicional
+
+50
+
+5 PALAVRA
+
+51
+
+5.1 Substantivo
+
+51
+
+5.1.1 Prefixo
+
+52
+
+5.1.2 Sufixo
+
+52
+
+5.1.3 Radical substantivo
+
+53
+
+5.1.3.1 Radical não-classificado
+
+53
+
+5.1.3.2 Radical classificado
+
+54
+
+5.1.3.3 Raiz classificadora
+
+54
+
+5.1.3.4 Raiz não-classificadora
+
+55
+
+5.2 Verbo
+
+55
+
+5.2.1 Estrutura de palavras verbais
+
+55
+
+5.2.1.1 Verbo intransitivo
+
+57
+
+5.2.1.2 Verbo referente a sujeito
+
+57
+
+5.2.1.3 Verbo transitivo
+
+57
+
+5. 2.1.4 Verbo descritivo
+
+59
+
+5.2.1.5 Verbo pseudo-transitivo
+
+59
+
+5.2.1.6 Ausência de marcador de sujeito
+
+60
+
+5.2.2 Verbo modal
+
+60
+
+5.2.3: Estrutura do radical verbal
+
+62
+
+5.2.3.1 Radical intransitivo
+
+62
+
+5.2.3.2 Radical referente a sujeito
+
+62
+
+5.2.3.3 Radical transitivo
+
+63
+
+5.2.3.4 Radical descritivo
+
+64
+
+5.2.3.5 Radical pseudo-transitivo
+
+64
+
+5.2.4 Classes de raiz verbal
+
+64
+
+5.2.4.1 Formas alternativas
+
+64
+
+5.2.4. 2 Sub-classes de raiz
+
+66
+
+5.3 Demonstrativo-1ocativo
+
+67
+
+5.4 Palavras que incicam tempo verbal
+
+68
+
+5.5 Nome numeral
+
+69
+
+5.6 Partícula de aspecto
+
+69
+
+APÊNDICE A: UM TEXTO MUNDURUKU
+
+72
+
+APÊNDICE B: FÓRMULAS TAGMÊMICAS
+
+85
+
+APÊNDICE C: FORMULÁRIO DOS VOCABULÁRIOS PADRÕES PARA
+
+89
+
+ESTUDOS COMPARATIVOS PRELIMINARES NAS
+
+LÍNGUAS INDÍGENAS BRASILEIRAS
+
+APÊNDICE D: SIMBOLOGIA
+
+125
+
+ÍNDICE DOS QUADROS
+
+1. Estrutura de parágrafo
+
+15
+
+2. Principais classes de sentença
+
+19
+
+3. Classes de sentenças compostas
+
+22
+
+4. Orações verbais
+
+28
+
+5. Ordem de tagmemas oracionais
+
+34
+
+6. Orações não-verbais
+
+39
+
+7. Significado de relacionadores conforme o tipo de
+
+48
+
+oração
+
+8. Classes de palavras substantivas
+
+53
+
+9. Prefixos possessivos pronominais
+
+54
+
+10. Sufixos substantivos
+
+55
+
+11. Formas alternativas de classificadores
+
+56
+
+12. Estrutura de verbos flexionados
+
+58
+
+13. Marcadores de pessoa-sujeito
+
+58
+
+14. As quatro variantes da raiz verbal
+
+66
+
+15. Estrutura de palavras demonstrativo-locativas
+
+69
+
+16. Co-ocorrência do tagmema de aspecto
+
+72
+
+Introdução
+A estrutura geral da gramática da língua Munduruku1 vem aqui descrita em termos de uma hierarquia de níveis em que se reconhecem certos tagmemas. Segue-se bastante fielmente o modelo de descrição lingüística elaborado por Kenneth Pike2. Os conceitos tagmêmicos de Pike servem de base para o presente ensaio, embora se modifiquem parcialmente sua terminologia e padrão de apresentação de dados em benefício da compreensão imediata e para evitar a redundância.
+É manifestamente fecundo o conceito pikeano do tagmema como correlação integrante, como o é também o conceito dos níveis hierárquicos em que ocorrem os tagmemas. O conceito tagmêmico salienta claramente tanto a semelhança funcional das abstrações gramaticais na medida em que constituem elementos integrantes num nível superior, quanto a diferença estrutural em termos de tagmemas constituintes no seu próprio nível. A hierarquia de níveis constitui o esqueleto da gramática completa e proporciona uma exposição clara de muitas relações entre classes e construções, sobretudo as de inclusão.
+Reconhecem-se nove níveis gramaticais na língua Munduruku: Encontro, Discurso, Parágrafo, Sentença, Oração, Locução, Palavra, Radical e Morfema. Estes níveis podem ser descritos plenamente apenas em função das suas relações uns com outros. A seguinte descrição geral visa proporcionar uma visão breve mas compreensiva desta hierarquia.
+O morfema é a menor unidade significativa da hierarquia gramatical, p. ex., -k² 'roça'. Um radical é a combinação de dois morfemas ou mais, os quais não constituem, contudo, uma forma livre, p. ex., -my²'at²'an² 'fazendo cair' (-my² 'causativo', 'at²'an² 'caindo'). Uma palavra é a menor forma livre, p. ex., o'³ya²o²ka³ 'ele-o-matou' (o'³ 'ele', -y- 'o', -a³o²ka³ 'matar'). Uma locução é uma construção que se apresenta como elemento integrante ao nível oracional e possui uma estrutura potencional de mais de uma palavra, p. ex., i³k³ be² 'na roça dele'. Uma oração é um mínimo de predicação, p. ex., i³xi² o'³j² je³k³ be² 'a-mãe-dele ela-foi sua-roça a'. Uma sentença consiste em oração mais uma outra construção ou mais, as quais constituem em conjunto uma unidade de predicação ampliada, p. ex., o³xi² a³jẽm² p³je² o²jẽm³ 'quando minha mãe chegou, eu saí'. Um parágrafo abrange várias sentenças e se caracteriza potencialmente por traços específicos no seu começo e no fim. Caracteriza-se outrossim por um padrão interno de substituição de pro-formas4 em lugar de certas classes de palavras. Um discurso consiste num grupo de parágrafos com temática semântica comum; caracteriza-se potencialmente por traços específicos no seu começo e no fim. Um encontro consiste em dois ou mais discursos, mais início e terminação facultativos. O reconhecimento do encontro facilita a descrição de certos traços do diálogo. Na seção 1.1., pressupõe-se e se exemplifica o nível de encontro em termos dos contextos da vida cotidiana, mas no restante do trabalho são tirados os exemplos de encontros inseridos no texto narrativo. Estes próprios textos são discursos encaixados nos encontros da vida cotidiana. No presente trabalho não se analiza tal contexto.
+Os dados em que se baseia a análise compreendem vários textos (literatura oral tradicional, narração de acontecimentos contemporâneos, e explicações processuais), mais um conjunto de vocabulário especificamente obtido, material paradigmático, e sentenças avulsas faladas.
+
+A apresentação segue, via de regra, a ordem hierárquica descendente. Algumas classes ou sub-classes de palavras limitadas na sua distribuição, contudo, são descritas ao nível em que ocorrem e não na seção que versa sobre palavras. Por exemplo, as partículas ligadoras de sentenças se descrevem apenas ao nível das sentenças. A introdução ao Capítulo 5 (Palavra) assinala a disposição de todas as classes de palavras descritas. Descrevem-se radicais e morfemas ao nível da palavra quando relevantes à descrição das classes da mesma.
+NOTAS
+1. O Munduruku é uma língua tupi, segundo a classificação de Norman A. McQuown, em "The Indigenous Languages of Latin America," American Anthropologist, Vol. 57, nº 3 (junho, 1955), págs. 501-70. Menciona-se a língua Munduruku na página 532. É também classificada como tupi por Aryon D. Rodrigues no artigo "Classification of Tupi-Guarani", IJAL, Vol. 24, Nº 3 (julho, 1958). Numa nota de rodapé na página 234, este autor sugere que a língua Munduruku seja "talvez mais bem uma família tangencial do tupi-guarani que não uma subfamília dentro dele". O Munduruku é falado por cerca de 1200 habitantes do Alto Tapajós e seus afluentes Das Tropas, Cabitutu, Cadiriri, Cururu e São Manoel, no Estado do Pará, Brasil. Poucos Mundurukus falam Português. Ao norte, no sítio principal da tribo moram uns 350 Munduruku no Rio Canumã (Estado do Amazonas). Os membros deste grupo falam Português em casa; apenas uns seis ou oito adultos conservam ainda sua língua indígena. Os trabalhos de pesquisa, sob auspícios do Instituto Lingüístico de Verão e de acordo com seu Convênio com o Museu Nacional do Rio de Janeiro, realizaram-se primeiramente entre fevereiro de 1961 e outubro de 1962, entre o grupo do Rio Canumã, depois no Rio Cururu em períodos breves durante os anos 1962-65, e finalmente durante três meses do ano de 1965 numa aldeia de savana perto do Rio Cadiriri. Baseia-se o presente estudo no dialeto falado na região dos Rios Cururu e Cadiriri. Desejamos externar a nossa gratidão à Missão Franciscana do Rio Cururu, cujos padres e freiras se têm mostrado altamente hospitaleiros para conosco; também à Fundação Nacional do Índio, que nos concede permissão para fixarmos residência entre os índios. Agredeço outrossim aos srs. David Bendor-Samuel, Eunice Burgess e Sarah Gudschinsky, meus colegas do Instituto Lingüístico de Verão, por sua ajuda ilimitada na análise e apresentação do presente estudo.
+2. Pike, Kenneth L, Language in Relation to a Unified Theory of the Structure of Human Behavior. Haia: Mouton e Cia., 1964.
+3. Há dezesseis fonemas consonantais na língua Munduruku: Oclusivas surdas bilabial, alveolar, alveopalatal, velar e glotal (p, t, c, k, Ž); oclusivas sonoras bilabial e alveopalatal (b,
+
+j); fricativas alveolar, alveopalatal e glotal (s, x, h); nasais bilabial, alveolar e velar (m, n, ñ); fricativa alveolar roçada (r); e semi-vogais (w, y). Os membros da série nasal ocorrem como contínuas nasais após vogais nasais e como segmentos complexos oclusivo-nasais ([bm, dn, gñ]) após vogais orais. Há cinco vogais orais (i, , o, e, a) e cinco nasais (ĩ, , õ, ẽ, ã). Ocorre cada sílaba com tom alto, médio ou baixo (indicados pelos números 1, 2, e 3 respectivamente) ou com laringalização (indicada pelo número 4). Como se percebe em certos exemplos apresentados neste estudo, alguns morfemas sofrem mudanças morfofonêmicas na sua forma. Para descrição mais detalhada da fonologia e morfofonologia do Munduruku, cf. Braun e Crofts, "Munduruku Phonology", Anthropological Linguistics, 7.7.23-39 (1965).
+4. O termo "pro-forma" foi-me proposto por Sarah Gudschinsky como boa representação das "formas completas" de substantivos por classificadores, fenômeno semelhante à relação entre os pronomes e os substantivos que representam. A diferença mais saliente é que as "pro-formas" na língua Munduruku mostram, outrossim uma semelhança fonológica com as formas completas que representam.
+
+Capítulo I
+UNIDADES SUPERIORES
+1. A identificação de níveis superiores ao da sentença é uma tentativa de aplicar a teoria de Pike referente a estes níveis. Tais níveis superiores não apresentam relações sintagmáticas comparáveis com as dos níveis inferiores. Os seus limites não se definem tão nitidamente como os dos outros níveis. (Naturalmente, estudos futuros podem revelar confins mais definitivos). A presente análise baseia-se principalmente em fatores lingüísticos, mas leva em conta também os fenômenos não-lingüísticos que são facilmente identificáveis, como por exemplo o comportamento não-verbal que acompanha as ações de saudação, reunião, e despedida.
+Mesmo reconhecendo esta relativa incerteza, porém, vale a pena identificar tais níveis porque eles suprem o esqueleto da descrição de fenômenos lingüísticos que não se descrevem de outra maneira. A teoria tagmêmica de Pike foi elaborada em parte para demonstrar a relação entre a fala e os outros aspectos do comportamento humano. O presente ensaio pretende aplicar o conceito pikeano aos níveis lingüísticos que se fundem com fatores e situações extra-lingüísticos.
+
+1.1. ENCONTRO. Eis o nível superior que se identifica na língua Munduruku. Descreve-se tal nível para se
+reconhecer formalmente que os dados lingüísticos são comumente parte de um diálogo. O encontro consiste num Início5 facultativo constituído de um diálogo de saudações, um Corpo essencial integrado por um discurso ou mais, e um Encerramento facultativo integrado por um diálogo de despedidas. Possui também certos traços não-lingüísticos, alguns dos quais são abaixo salientados (embora não focalizados aqui).
+Abre-se um encontro quando duas pessoas ou mais iniciam a comunicação verbal; encerra-se no momento em que cessar tal comunicação e vem seguido de prolongado silêncio. Segue-se um exemplo de um encontro breve:
+Início típico: A. Bom dia! B. Bom dia!
+
+Corpo típico: A. B. A. B.
+
+Como vai? Tudo bem. Pra onde vai? Pra roça.
+
+Encerramento típico: A. Vá, então.
+
+1.1.1. DIALOGO DE SAUDAÇÕES. A saudação implica obrigatoriamente em Estímulo e Resposta. Há três tipos: no primeiro,
+tanto o Estímulo quanto a Resposta são saudações; no segundo, o Estímulo é tosse e a Resposta uma ordem; no terceiro, o Estímulo é vocativo, ao passo que a Resposta é partícula obrigatória e uma pergunta ou afirmação facultativa.
+
+1) No diálogo do tipo 1, ambas as partes -- Estímulo e Resposta -- consistem em sentenças simples (2.1). Estas sentenças, por sua vez, consistem em partícula de saudação oportuna mais vocativo facultativo, p. ex. ,
+
+A. wy4kat4 t³ '²
+
+'Boa tarde, menina.'
+
+B. wy4kat4 a³wa²
+
+'Boa tarde, vovó.'
+
+Seguem-se as partículas de saudação oportuna:
+
+A. wy4ka4bi²a³
+
+'Bom dia.'
+
+B. wy4ka4xi²cñ³
+
+'Bom meio-dia.'
+
+C. wy4kat4
+
+'Boa tarde/noite. '
+
+O diálogo do tipo 1 ocorre quando se encontram as pessoas na aldeia, na picada, no grupo de trabalho ou na roça.
+2) No diálogo tipo 2, o Estímulo consiste em tosse e a Resposta em sentença simples (2.1), a qual é, em todos os casos, a ordem 'entre!', p. ex.,
+
+A. tosse (parado junto à porta da casa)
+
+B. he³õm³
+
+'Entre!'
+
+O diálogo do tipo 2 ocorre durante visitas a uma casa. O visitante tosse fora da porta e alguém responde de dentro da casa.
+3) No diálogo do tipo 3, o Estímulo é uma sentença de exclamação (2.2.1) que consiste numa partícula vocativa. A Resposta é outra exclamação ou uma pergunta de qualquer tipo oracional:
+
+(a) A. ya³ka³re² B. ah³ i³jo³ce²ma³ õn²
+
+'jacaré!' 'Sim? Aqui estou.'
+
+(b) A. t³'² B. a³jo² kay² ẽn²
+
+'Menina!' 'O que é que quer?'
+
+(c) A. t³² B. a³jo²
+
+' Menina!' 'O que?'
+
+1.1.2. CORPO.
+O Corpo consiste num número variável de discursos. Podem ser uma troca de sentenças entre os participantes de um encontro, ou podem constituir um monólogo, isto é, A pode perguntar, 'O que você tem feito?', e B responde, 'Nada', ou 'Estava trabalhando'. Ao contrário, B pode iniciar uma longa dissertação como, 'Deixe eu contar. Ontem…'
+Podem-se incluir encontros no próximo nível em ordem descendente, que é o discurso. Neste caso podem ser chamados de "rebaixados", uma vez que funcionam dentro de uma unidade de grau inferior na hierarquia gramatical. É comum um discurso prolongado incorporar a citação de diálogos diretos entre duas ou mais pessoas; tais citações de conversa se consideraram
+
+encontros rebaixados. (O texto apresentado no Apêndice A exemplifica este tipo de inclusão.) A citação de falas que não implicam em intercâmbio verbal não se considera encontro rebaixado, senão sentença citacional (2.5).
+
+1.1.3. ENCERRAMENTO.
+
+Duas seqüências Estímulo-Resposta funcionam como encerramento de encontro. Na seqüência do tipo 1 o Estímulo consiste em qualquer tipo de sentença; a Resposta consiste outrossim de uma sentença de qualquer tipo e/ou uma partícula oracional facultativa consistindo num desafio.
+
+a³s²bit³
+
+'Quer ver?'
+
+Ocorrem tais seqüências em contendas. Com freqüência o Estímulo será uma sentença negativa e a Resposta uma declaração positiva ou vice versa. Se o argumento se encerra com a partícula de desafio, termina o encontro com ação física: ou um dos falantes se esquiva ou os dois se preparam para (e às vezes iniciam) o combate. Em tais casos é impossibilitado o costumeiro encerramento verbal.
+B. o³i²wat² pa³'o²re² ma³ õn² me-deixar não-pode realmente você 'Você não me pode abandonar'.'
+
+A. i²wat² ma³ õn² deixar realmente eu 'Claro que passo abandonar você. '
+
+B. a³s²bit³
+
+'Quer ver?'
+
+O falante B se afasta e se prepara para brigar com o falante A.
+No Encerramento do tipo 2, o Estímulo consiste numa sentença simples ou composta (2. 3). A Resposta é uma sentença-partícula consistindo apenas na partícula permissiva: ha²'a³ 'Siga, então!'
+A. cm² pk³ õn² wy² be³ vou ainda eu porta a 'Eu vou ao porto. '
+
+B. ha²'a³ 'Então vá!'
+
+Um Encerramento do tipo 2 encerra obrigatoriamente os encontros formais de casa e picada, e com freqüência põe fim também a outros encontros informais; p. ex., no caso de uma visita de madrugada à casa do chefe, o homem declara o que ele pretende fazer naquele dia, e o chefe lhe responde:
+
+ha²'a³
+
+'Faça, então!'
+
+1.1.4. OUTROS COMENTÁRIOS.
+Os encontros variam muito em duração e complexidade. De um lado se vêem encontros, como os de picada, que duram apenas alguns minutos. No outro extremo, vêem-se encontros prolongados, como os de noite, na casa dos homens na aldeia, quando o mais velho deles reconta as lendas da tribo. Qualquer encontro pode ser interrompido, interceptado, ou fundido com outros encontros. P. ex., o encontro 1, integrado pelos falantes A e B, pode ser interrompido pela chegada de C, o qual inicia o encontro 2. No caso de simples encaixamento, a despedida de C iria encerrar o encontro 2, deixando que A e B completassem o encontro 1 antes interrompido. No caso de interceptação de encontro, a chegada de C iria pôr fim ao encontro 1, caso A ou B se despedisse de C. No caso de encontros fundidos, uma simples despedida pode acabar simultaneamente com ambos os encontros 1 e 2. São possíveis situações mais complexas, como no caso das visitas diárias durante a madrugada feitas por todos os homens à casa do chefe em algumas aldeias para receberem suas ordens quanto às atividades do dia. Cada homem, ao chegar, inicia um encontro com o chefe, mas chegam novos indivíduos antes da saída dos anteriores ou saem os recém-chegados antes dos primeiros, e assim por diante. A presente descrição aplica-se apenas a ocorrências simples de encontros não interrompidos, nem fundidos. Não se pretende descrever como unidades encontros diversos, senão apenas identificar suas partes componentes, isto é, Início, Corpo e Encerramento.
+
+1.2 DISCURSO.
+Consiste um discurso num Início e Conclusão facultativos e um Corpo obrigatório. Compõe-se o Corpo de um ou mais parágrafos. Apesar de serem facultativos o Início e a Conclusão, a sua presença marca um agrupamento de parágrafos. Vários de tais grupos podem ocorrer num só encontro. Por isso, trata-se o discurso como nível intermédio entre encontro e parágrafo em vez de simples camada ao nível de parágrafo.
+
+1) O Inicio do discurso consiste num fragmento oracional (3.6) ou sentença simples (2.1) que funciona à guisa de título:
+
+m³re²o²dp³
+
+'morcegos'
+
+ka³ru²sa²kay³b² wy³j²y³ o'³ñ²we²xat³ da³jem²
+
+Gente Karusakayb ele-a-tornou-porcos
+
+'Karusakayb tornou pessoas em porcos.'
+
+2) A Conclusão do discurso consiste em (a) uma partícula de conclusão ou (b) uma sentença simples precedida facultativamente de partícula de resumo.
+
+A partícula de conclusão de discursos é kĩy³ ou i³b³r² ma³. Ambas significam 'é só'.
+
+A sentença simples constitui um resumo do conteúdo do discurso.
+
+i²mẽn³ ka³ru²sa²kay³b² wy³j²y³ o'³ñ²we²xat³ da³jem²
+
+assim Karusakayb
+
+gente
+
+ele-o-tornou-em porcos
+
+'Assim Karusakayb tornou pessoas em porcos!'
+
+As partículas de resumo são:
+i²mẽn³e³j² i³mẽn³p²ye²
+'por causa disso'
+i³mẽn³pit² i³mẽn³ tak² biñ² ma³
+'apesar disso'
+Não estão ainda determinadas as diferenças exatas entre estas formas.
+i²mẽn³e³j² be²k³ boh²⎯³
+por causa disso aquele mesmo
+p³ca² py³bit²'m ² k³
+caça comida-morta gosta 'Por causa disso, aquele come comida podre.'
+A sentença que se segue a uma partícula de resumo é com freqüência mais comprida que de ordinário. Exemplifica-se isto pela Sentença CC do texto no Apêndice.
+3) O Corpo do discurso consiste em um parágrafo ou mais, que vem descritos na Seção 1.3.
+Os discursos acima referidos se apresentam como se fossem monólogos. Na realidade, muitos discursos sofrem interrupções na forma de breves comentários que indicam conformidade, correção, ou desacordo de parte de um segundo falante. Não se pretende descrever a complexidade da transição de monólogo para o diálogo e vice versa.
+1.3. PARÁGRAFO. Consiste um parágrafo num Início, um Núcleo obrigatório e uma Terminação facultativa.
+Consiste o Núcleo num número variável de sentenças, dentro das quais existe uma sistemática substituição de pro-formas por formas completas de substantivos classificados (5.1.3). A terminação é um ideofone verbal com facultativa expressão temporal. O Início e a Terminação de parágrafos consistem geralmente em sentenças simples, ao passo que o Núcleo pode abranger sentenças de todo tipo (v. capítulo 2 para a descrição de sentenças).
+Identificam-se dois tipos de parágrafo -- ação e descrição -- à base de diferenças existentes no Início e na Terminação. Subdividem-se, alias, os parágrafos de ação nos de acontecimento e processo conforme sua terminação. São mínimas as diferenças entre estes subtipos. O Quadro 1 mostra as características de cada tipo.
+
+Início
+AÇÃO
+Acontecimento + Orientaçao tempo/ direção
+
+Processo DESCRIÇÃO
+
+± Orientação tempo/direção
+#
+
+Núcleo
++ sentençan (+formas completas de substantivos classificados __________ → pro-formas
+± formas completas de verbos ______ → pro-formas)
+
+Terminação ± (+Ideofone
+±expressão temporal) ± resumo de
+acontecimentos
+± Ideofone ± resumo de processo
+#
+
+Quadro 1: ESTRUTURA DE PARÁGRAFO
+
+1.3.1. INÍCIO. É obrigatório o Início em parágrafos de ação-acontecimento, facultativo nos de ação-
+-processo, e ausente nos de descrição. O Início consiste numa orientação temporal ou direcional.
+1.3.1.1. ORIENTAÇÃO TEMPORAL. Pode funcionar como orientação temporal: uma partícula introdutória,6 um substantivo
+temporal, uma locução eixo-referente, ou uma oração dependente.
+ñe³b³je² ou i³bo³ce³wi²
+'e então' (partículas introdutórias)
+k³ya²je³
+'amanhã'
+ka³p³s²
+' ontem'
+i²xe³y² ka4bi²a³ be²
+'naquele tempo' (locução eixo-referente)
+ka²xi³ i'³pi³ tẽñ¹ pi³ma²
+'quando o sol estava pertinho da terra/na hora do sol se pôr' (oração dependente)
+Os substantivos temporais (5.1.3.) e as locuções eixo-referentes (4.2.) têm função dupla: são iniciadores de parágrafo e tagmemas de Tempo cronológico na primeira oração de um parágrafo. A partícula introdutória ñe³b³je² ocorre com o sufixo facultativo -p, que significa mudança de direção. Quando se dá este sufixo, acontece a ação da sentença em sentido contrário à ação anterior. Isto se exemplifica no texto dado no Apêndice A, parágrafo Y, sentença 1.
+As orações dependentes têm função dupla: são iniciadores de parágrafo e primeiro tagmema fundamental de uma sentença composta contingente (2.3.1.).
+
+A aparição de um tagmema de Tempo cronológico como elemento inicial de uma oração marca quase sempre um parágrafo. Dá-se como única exceção a existência dessa oração como parte de uma sentença complexa paralela (2.4.2.).
+
+1.3.1.2. ORIENTAÇÃO DIRECIONAL.
+
+Ocorre o ideofone a³ri³pit² em parágrafos que indicam movimento de um lugar para outro quando se inverte a direção do movimento do parágrafo anterior. Tal ideofone pode funcionar como sentença completa. É a orientação direcional. (Nesta descrição o termo ideofone refere-se a certas formas verbais sem flexão que podem funcionar como pro-formas verbais ou modificadores verbais; vêm descritas na seção 4.3.2.).
+
+a³ri³pit²
+
+je³pit²pin² i²o³'e²
+
+inversão direcional volta
+
+se diz
+
+1.3.2. NÚCLEO.
+O Núcleo consiste em um número variável de sentenças de qualquer tipo. Há grande variação no número de sentenças incluídas. Uma narrativa, por exemplo, pode ter uma série de parágrafos com uma só sentença, seguida de um parágrafo de vinte sentenças ou mais (v. Apêndice).
+O Núcleo de um parágrafo caracteriza-se pelo uso de pro-formas de substantivos e verbos. Sempre que se introduz pela primeira vez no discurso um substantivo classificado na função de sujeito ou objeto da sentença, ocorre em sua forma completa. A pro-forma competente de tais substantivos se incorpora em subseqüentes locuções verbais e eixo-referentes ou nomes numerais que se referem a tal substantivo (5.1.3.). Ocorre o mesmo padrão de incorporação com substantivos classificados que se reintroduzem após mudança do sujeito ou do objeto, ou em qualquer caso em que seja necessária uma plena exposição para evitar ambigüidade. Pode ocorrer mais de um substantivo classificado na pro-forma através de um parágrafo contanto que os substantivos não sejam da mesma classe. Pressupor-se-ia que se dois substantivos da mesma classe estivessem num parágrafo, ocorreriam às formas completas de princípio, a fim de evitar ambigüidade. De fato, porém, tal fenômeno nunca se observou nos textos. Não se conhece substantivo classificado como sujeito de verbo transitivo; não se sabe se tal restrição tem significação estrutural ou se é meramente uma limitação semântica.
+A primeira sentença de um Núcleo de parágrafo contem com freqüência as formas completas de substantivos classificados. Tais ocorrências são, de fato, sinal de mudança de parágrafo em muitos casos. Nos casos em que se assinala início de parágrafo mediante outro traço, como, por exemplo, orientação temporal, e em que não há mudança de sujeito nem de objeto da ação, as pro-formas podem ocorrer inclusive na posição inicial do parágrafo.
+Tem-se observado como obrigatória a incorporação das pro-formas de substantivos na maior parte dos dados estudados. Um dos ajudantes, contudo, a usa às vezes de forma facultativa, e pode ser que este uso venha a refletir uma variante dialetal ainda não estudada.
+No exemplo a seguir, as partes sublinhadas indicam a palavra 'banana' nas suas proformas. Na sentença inicial ocorre o substantivo completo a²ko³bo4 'banana'. Subseqüentemente, no parágrafo, ocorre numa das suas três pro-formas, aqui traduzidas como 'a',
+
+que se referem à classe de objetos em forma de braço. Não são, contudo, formas pronominais generalizadas, não-específicas.
+
+a²ko³ba4 a²de² o³kat³ pe² / õn² o³j³ i³ba4 bm²/
+
+banana muita minha-roça em
+
+eu fui
+
+a
+
+buscar
+
+so³at² o³ce³j² o³ce²s²ba4'o² o³kat³ pe² / a²de²
+
+todos nós
+
+a-comemos
+
+minha-roça em muita
+
+i³ba4pak²at²pa4 o³ce²s²ba4'o² xep³xep²pa4 i³ba4pak²at²pa4
+
+a-vermelha-a
+
+nós-a-comemos
+
+duas-a
+
+a-vermelha-a
+
+o³s²ba4'o² õn²/
+
+eu-a-comi
+
+eu
+
+'Tinha muita banana na minha roça. Fui buscar algumas. Nos todos comemos
+
+banana na minha roça. Comemos muitas vermelhas. Eu comi duas.'
+
+O Núcleo contem, outrossim, pro-formas de verbos (ideofones). O exemplo seguinte, tirado de um longo discurso, ilustra tais pro-formas de verbos. Traduzem-se os ideofones como 'ação de…"
+
+po³ak¹-³ /
+
+nybbõñbõñ i²o³'e² / tõh³-¹ / pi³r³xh³-¹/
+
+ação de estender a nome
+
+ele disse nada!
+
+ação de correr
+
+mão no escuro
+
+ah¹-³ / a³ñ³ o'³je²da²² ip² i²o³'e² / ph³-¹ /
+
+exclamação aspecto ele correu
+
+plural diz se
+
+ação de soprar
+
+ph³-¹ / o'³je²na²põn² cĩ¹cã¹ / põm¹-³ /
+
+tip³a²ro²ro²
+
+ação de soprar ele fugiu
+
+muito
+
+ação de pés
+
+ilha
+
+batendo no chão
+
+be³ / ih¹-³ / tk¹-³ / xik¹-³ toh¹-³ / k³rah¹-³ /
+
+na
+
+ação de cair ação de cair ação de nada!
+
+ação de buscar gente
+
+na areia
+
+sentar-se
+
+wy ³j²y³ k³rah¹-³ / ka³-m ²ñ² / tõh²⎯³ /
+
+gente
+
+ação de buscar não-existência nada!
+
+gente
+
+'"Ele estendeu a mão no escuro", Niybbõñbõñ disse. Não havia nada! Ele correu. "Ah", ele disse. Eles foram correndo, se diz. Ele estava arfando -arquejando. Fugia com toda a alma. Fugiu para uma ilha. Caiu no chão e se sentou. Não havia nada lá! Ele buscava gente, mas não havia ninguém -- nada!'
+
+1.3.3. TERMINAÇÃO.
+O parágrafo descritivo não tem terminação formal, mas reconhece-se a sua conclusão pelo início do parágrafo seguinte.
+
+Os parágrafos de ação podem terminar numa sentença exclamatória que consiste num ideofone, que é a partícula de resumo do acontecimento. Em parágrafos de acontecimento o ideofone é xet³ 'sono', que indica o decorrer do tempo, p. ex., xet xet xet (com entoação ascendente) 'passaram três dias'; ocorre o radical xet³ 'sono' por cada dia que passa. Têm ocorrido consecutivamente até sete repetições numa só sentença para indicar o passar do tempo. É normalmente a última sentença do parágrafo, mas uma expressão temporal pode segui-la.
+
+xet xet xet / i³bn²
+
+o³e²k³ i²o³'e² /
+
+passaram três dias ele demorou andando se diz
+
+Pode ser que se utilize tal expressão temporal quando o orador não quer repetir a palavra xet³ todas as vezes necessárias para indicar a passagem do tempo.
+Em parágrafos que descrevem processos, o ideofone é pe²re³ 'acabado', que indica conclusão do processo. É a partícula de resumo de processo.
+
+NOTAS
+5. As letras maiúsculas indicam que o tagmema pertence a um nível superior ao da locução. Esta convenção está sendo usada amplamente entre os tagmemicistas.
+6. As partículas usadas ao nível do parágrafo são relevantes para a mudança de objetivo num discurso. Encontra-se um depoimento mais completo a respeito destas em Sheffler, Margaret, "Results of Network Diagramming", Notes on Translation, Nº 32, 1969. Wycliffe Bible Translators, Santa Ana, CA, EUA.
+
+Capítulo 2 SENTENÇA
+
+2. Uma sentença pode ser simples, expandida, composta ou complexa. Consiste uma sentença simples num tagmema Base manifestado por qualquer oração independente ou fragmento oracional. Uma sentença expandida pode se compor de:
+1) um tagmema Base manifestado por uma partícula ou vocativo, mais um tagmema facultativo de Expansão manifestado por uma oração independente, fragmento oracional ou vocativo; ou
+2) um tagmema Base manifestado por uma oração independente e um tagmema obrigatório de Expansão manifestado por uma locução.
+Consiste uma sentença composta em dois tagmemas Base, dos quais ambos podem ser manifestados por orações independentes, ou um por oração independente e o outro por oração dependente; na maioria dos casos, possui também um tagmema de Ligação manifestado por uma partícula ligadora.
+Uma sentença complexa compõe-se de dois ou mais tagmemas Base manifestados por orações independentes com diversos padrões de entoação.
+O Quadro 2 ilustra a estrutura das principais classes de sentença:
+
+Simples Expandida: Composta: Complexa:
+
++ Base + Base + Base + Base
+
+±/+ Expansão + Base + +/- Ligação + Basen + Entoação
+
+Quadro 2: PRINCIPAIS CLASSES DE SENTENÇA
+
+2.1. SENTENÇA SIMPLES.
+
+As sentenças simples constam de apenas um tagmema obrigatório, a Base, a qual se manifesta por qualquer oração independente:
+
+je³o²ro²kat³ o'³j² a³way³dip² tañ³
+
+caçador
+
+ele foi selva
+
+a
+
+'O caçador foi à selva. '
+
+2.2. SENTENÇA EXPANDIDA.
+As sentenças expandidas abrangem quatro sub-tipos: Exclamação, Adversativa, Detalhada e Interrogativa Conseqüente.
+
+2.2.1. SENTENÇA DE EXCLAMAÇÃO. Tais sentenças apresentam uma estrutura cujo tagmema Base obrigatório se manifesta
+mediante uma partícula de exclamação, um vocativo, ou um ideofone verbal (4.3.2.), enquanto se manifesta a Expansão facultativa por meio de uma oração independente.
+ka³'m²ma³ //
+'Não!'
+ap² / o²j³ ñ² // 'Não! eu vou neg.'
+'Não! Eu não vou!'
+
+Ocorrem as seguintes partículas:
+
+j³k² hm³ hm²
+
+'Aqui está, tome.' 'Sim'
+
+ah³-² ha²'a³ ap²
+
+'Sim?' 'Siga (adiante)' 'não, não quero'
+
+tã² xi²pat³ ma³ ka³'m ²ma³
+
+'tá certo' 'bom' 'dê pra mim' 'não'
+
+Ocorrem com freqüência partículas ideofônicas, p. ex.,
+
+wih²⎯³
+
+'ação de bater'
+
+jay²⎯³
+
+'ação de chegar'
+
+Saudações e despedidas, descritas em 1.1.1, e 1.1.3, também se consideram sentenças exclamacionais.
+
+Consiste um Vocativo num substantivo de um dos seguintes tipos: nome próprio, nome de animal usado como nome próprio, ou termo de tratamento, p. ex.,
+
+ar³si²ra³ 'Arcira'. ya³ka³re² 'jacaré'
+
+t³²
+
+'menina'
+
+2.2.2. SENTENÇA ADVERSATIVA.
+As sentenças adversativas apresentam uma estrutura cujo tagmema Base obrigatório se manifesta por qualquer oração indicativa, e o tagmema de Expansão por um substantivo, verbo ou locução Eixo-Referente, inclusive o qualificador adversativo a²cã³ (4.1.1.). A Expansão contém um elemento léxico que aparece em relação antitética ao elemento léxico da Base.
+
+a³o²y³ kat² kot³kon³ ñ²/
+
+a³ño²kat²ka²y³
+
+mulheres roça limpando neg
+
+homens
+
+Base
+
+Expansão
+
+'As mulheres não limpam as roças, mas sim, os homens!'
+
+a²cã³ //
+senão
+
+o³xi²
+
+k³'a² be³ ñ²/ i³k² be³
+
+a²cã³ //
+
+minha-mãe casa
+
+em neg sua-roça em
+
+senão
+
+Base
+
+Expansão Eixo Referente
+
+'Minha mãe não está em casa, mas sim na roça dela. .'
+
+2.2.3. SENTENÇA DETALHADA.
+Tais sentenças apresentam uma estrutura cujo tagmema Base obrigatório se manifesta por qualquer oração indicativa e o tagmema de Expansão por um ou mais substantivos, verbos, ou locuções Eixo-Referentes. Utilizam-se sentenças expandidas detalhadas para expressar relações coordenativas, apositivas ou especificadoras com a oração base.
+
+Nas sentenças coordenadas detalhadas, manifesta-se o tagmema de Expansão por uma locução que se coordena semanticamente com o Sujeito ou Objeto da oração-Base anterior. Não há indicação formal sobre se é coordenada do Sujeito ou do Objeto. É mais ou menos igual à entoação das duas orações.
+
+João e³j² o'³j² ip² /
+João com ele-foi eles Base 'Eles foram com João e Maria.'
+
+Maria e³j² dak³ //
+Maria com também Expansão
+
+Em sentenças detalhadas aposicionais, manifesta-se o tagmema de Expansão por meio de uma ou mais locuções nominais colocadas em aposição semântica ao Sujeito ou Objeto da oração-Base. Cada locução nominal termina numa transição 2-1, com exceção da última, que apresenta uma transição 2-3.
+
+so³at² ip² o'³ta³i²da³ a³o²yĩ²⎯¹ / a³ño²kat²ka²yĩ²⎯³ //
+
+todos eles ele o plantou mulheres
+
+homens
+
+Base
+
+Expansão
+
+be³kit²kit²⎯³ //
+crianças 'Todos eles plantaram -- mulheres, homens e crianças. '
+
+py³bit² o'³ya²o²ka³ ip²/ bi³o²⎯¹/ dap³sem²⎯¹/ o³ro²o³ro²⎯³//
+
+caça
+
+ele a matou eles anta
+
+veado
+
+macaco
+
+Base
+
+Expansão
+
+'Eles mataram caça -- anta, veado e macaco.'
+
+Em sentenças especificadoras detalhadas, pode ocorrer um tagmema de Expansão ou mais, manifestados por substantivos, verbos ou locuções eixo-referentes, os quais se relacionam semanticamente ao Sujeito, Objeto, Locativo, Tempo cronológico, ou predicado da oração-Base. Cada locução consecutiva é mais específica que a anterior.
+
+bo²ma²k³ o³ce³j² ka³ya³we² be³ / o³wa³ño² dk³'a²
+
+lá
+
+fomos Kayawe a
+
+minha-irmã casa
+
+Base
+
+Expansão
+
+be³ / ar³si²ra³ dk³'a² be³ //
+
+a
+
+Arcira
+
+casa
+
+a
+
+'Fomos lá a Kayawe -- à casa de minha irmã, à casa de Arcira.'
+
+m³sk²ta³ o'³ta²de4 ip² / a³o²y³ //
+
+mandioca ele-a-rala elas mulheres
+
+Base
+
+Expansão
+
+'Elas ralaram mandioca -- as mulheres.'
+
+Quando aparece um verbo na Expansão, este é sempre o ideofone do verbo da oraçãoBase, e sempre se repete três vezes com tonalidade ascendente em cada ideofone sucessivo. O ideofone ilustra a ação do verbo.
+
+so³ra²ra²y³ a³ño²kat²kat² o'³tao²mn³/ mn³
+
+mn² mn ¹
+
+soldados
+
+homem
+
+ele-o-amarrou amarrou amarrou amarrou
+
+Base
+
+Expansão
+
+'Os soldados amarraram o homem -- ação de amarrar, ação de amarrar, ação de amarrar.'
+
+2.2.4. SENTENÇA INTERROGATIVA CONSEQÜENTE.
+Tais sentenças apresentam uma estrutura cujo tagmema Base se manifesta por meio de qualquer oração indicativa, e o tagmema de Expansão consiste na partícula interrogativa conseqüente pãm³ mais uma locução nominal. O substantivo ou pronome que ocorre com pãm³ termina numa transição 2-1.
+o³xi² o'³j²/ pãm³ e³xi²⎯¹ //
+minha-mãe ela-foi e? sua-mãe 'Minha mãe foi; e a sua? '
+
+O tratamento você (seu, sua, etc. ) ocorre com freqüência no tagmema de Expansão de tais sentenças.
+
+i³jop² o³ce²ka³pi²kap³/ pãm³ ey³j²⎯¹ //
+
+este nosso-trabalho
+
+e? vocês
+
+'Este é o nosso trabalho; qual é o de vocês? '
+
+2.3. SENTENÇA COMPOSTA.
+Existem cinco tipos de sentença composta, nos quais ocorrem obrigatoriamente pelo menos dois tagmemas Base; o quadro seguinte ilustra estas sentenças.
+
+Base
+
+Base
+
+1. Contingente + (+ B1: or. indep.+C1)³ + B2: or. indep.³
+
+2. Consecutiva + (+ B1: or. dep.+C2)³
+
++ B2: or. indep.³
+
+3. Causa-efeito 4. Propositada
+
++ B1: or. indep.³ + B1: or. indep.
+
++ (+ B2: or. indep.+ C3)³ + (+ B2: or. dep. + C4)5
+
+5. Intentiva
+
++ B1: or. indep.
+
++ B2: or. inten.²
+
+Quadro 3: CLASSES DE SENTENÇAS COMPOSTAS
+
+Estes sub-tipos vêm dispostos a base das diferenças existentes nos tagmemas conetivos e nos integrantes de Bases, e segundo a respectiva ordem. Nas sentenças intentivas, as duas Bases ocorrem sem Conetivo. Nas sentenças contingentes e consecutivas, ocorre o Conetivo pois da primeira Base, e nas de causa-efeito e propósito após a segunda Base. Nas sentenças
+
+contingentes e de causa-efeito, ambas as Bases se manifestam por meio de orações independentes. Nas sentenças consecutivas e propositadas, manifesta-se uma Base por uma oração independente, e a outra mediante oração dependente. Nas sentenças intentivas, uma Base se manifesta por uma oração independente e a outra por uma oração intentiva.
+
+O tagmema Conetivo se manifesta por uma dentre quatro partículas conetoras:
+
+C1 pi³ma² 'se, enquanto'; C2 p³je² 'quando';
+
+C3 p³ye² 'porque';
+
+C4 am² 'para'
+
+Ocorre C1 em sentenças contingentes, C2 em sentenças de causa-efeito, C3 em sentenças consecutivas, e C4 em sentenças propositadas.
+Os tagmemas Base podem ocorrer até o máximo do número sobrescrito no Quadro 3. Se há mais de uma occorência de um tagmema Base, repete-se outrossim o conetor.
+
+2.3.1. SENTENÇA CONTINGENTE.
+As sentenças contingents apresentam uma estrutura em que ambas as Bases são manifestadas por uma oração independente e se unem mediante o conetor 1. Qualquer das Bases pode ocorrer até um máximo de três vezes; as sentenças deste tipo, contudo, costumam ter apenas uma ocorrência de cada base.
+
+we³ny² ’m ² pi³ma² i³ko³õm² k³ka² o³'e² //
+
+nozes não se
+
+insípido seria (uma vez só)
+
+Base
+
+C1
+
+Base 2
+
+'Se não houvessem nozes, seria insípido.'
+
+Há três estados semânticos indicados por esta construção: condição geral, condição contrária à verdade, e ação simultânea. Quando ocorre o aspecto ki³ka² 'seria' na segunda oração, esta significa condição geral, como no exemplo acima referido (v. capítulo 3 sobre o tagmema de aspecto dentro de orações).
+
+Quando a segunda oração contém o tagmema de aspecto ka³jk² (em português +-ria), este significa condição contrária à verdade.
+
+m³ba³'at² ’m² pi³ma² bit³ ka³jk²
+
+chuva
+
+não se
+
+(enf.) -riam
+
+Base 1
+
+C2
+
+Base 2
+
+'Se não tivesse chovido, teriam matado a anta.'
+
+bi²o³ o'³ya²o²ka³
+anta ele-a-matou
+
+ip² //
+eles
+
+Quando a primeira oração apresenta a forma verbal que indica estado durativo (v. 5.2 sobre a descrição detalhada desta forma), esta significa ação simultânea.
+
+ta²
+
+de4dem4 pi²ma² ip² je³way²way² //
+
+mandioca ralando enquanto eles rindo
+
+Base 1
+
+C1
+
+Base 2
+
+'Enquanto estão ralando mandioca, riem.'
+
+2.3.2. SENTENÇA CONSECUTIVA.
+
+As sentenças consecutivas apresentam uma estrutura cujo tagmema Base 1 se manifesta por uma oração dependente (v. 3.4), como Conetor C2 p³je² 'quando', e o tagmema Base 2 se manifesta por uma oração independente. Qualquer das duas Bases pode ocorrer até um máximo de três vezes, mas de praxe ocorre só uma vez. A ação da segunda oração segue-se consecutivamente à da primeira.
+
+s²ĩ² de4 b²je² s²ĩ² mõñ³mõñ³ wa³'e² be³ //
+
+nozes ralam quando nozes colocando cabaça em
+
+Base 1
+
+C1
+
+Base 2
+
+'Quando as nozes estão raladas, eles as colocam numa cabaça.'
+
+2.3.3. SENTENÇA DE CAUSA E EFEITO.
+Tais sentenças apresentam uma estrutura cujas Bases 1 e 2 se manifestam em orações independentes, sendo o Conetor C3, p³ye², 'porque'. A primeira oração declara uma situação ou ação resultante da ação ou estado indicado pela segunda oração. Qualquer das Bases pode ocorrer até um máximo de três vezes, mas comumente há uma só ocorrência de cada Base.
+
+bi²o³ o'³je²pa³'m ² m³ba³'at² a²de² b³ye²
+
+anta desapareceu
+
+chuva
+
+muita porque
+
+Base 2
+
+Base 2
+
+C3
+
+'A anta desapareceu por causa da muita chuva.'
+
+2.3.4. SENTENÇA PROPOSITADA.
+
+As sentenças que indicam propósito apresentam uma estrutura cujo tagmema Base 1 se manifesta mediante qualquer oração independente e o tagmema Base 2 através de uma oração dependente seguida do conetor C4 am² 'para'. A segunda oração indica o propósito da primeira.
+
+o'³j² wã²s³ a³o²ka³ am² //
+
+ele-foi pássaros matar para
+
+Base 1 Base 2
+
+C4
+
+'Ele foi para matar pássaros.'
+
+As sentenças propositadas se empregam com grande freqüência, e numa só sentença podem ocorrer até cinco orações adicionais especificando propósito.
+
+o³ce³j² m³sk²ta³ o³ce²ta²m³a²kõm³ tõm4 k² am² wy²
+
+nós
+
+mandioca a mergulhamos
+
+polpa tirar para lavar
+
+Base 1
+
+Base 2
+
+C4 Base 2
+
+am² o³ce³we²be³ i³ m³ñe² ãm² pe³de³ mo³le²ki³ m³ñe² ãm²
+
+para para nós
+
+a fazer
+
+para bolacha de mandioca fazer para
+
+C4 Base 2
+
+C4 Base 2
+
+C4
+
+ka³pe²di³ e²j² i³'o² am² //
+
+café
+
+com comê-la para
+
+Base 2
+
+C4
+
+'Nós mergulhamos a mandioca (na água) para tirar a polpa para lavá-la, para a
+
+fazermos, para fazer bolacha de mandioca, para comê-la com café.'
+
+2.3.5. SENTENÇA INTENTIVA.
+As sentenças intentivas apresentam uma estrutura cujo tagmema Base 1 se manifesta mediante qualquer oração independente e o tagmema Base 2 por uma oração verbal de intenção contendo a forma incoativa do verbo (5.2.4.1). A segunda oração indica a intenção da primeira, e pode ocorrer até trêz vezes.
+o'³j² wã²s³ wy² /
+ele-foi pássaro vontade-flecha Base 1 Base 2 'Ele foi matar pássaros.'
+
+2.4. SENTENÇA COMPLEXA.
+Há dois tipos de sentences complexas: seriáis e paralelas. Diferenciam-se das sentenças compostas pela ausência de conetivo, e das sentenças simples ou expandidas pela sua entoação. Utilizam-se freqüentemente tais sentenças para indicar seqüência temporal.
+
+2.4.1. SENTENÇA SERIAL.
+Apresentam estas sentences uma estrutura cujas Bases se manifestam por uma série de orações independentes ligadas pela entoação ascendente no fim de cada oração não-final (até o tom 1 ou mais alto), e pela entoação descendente na oração final.
+
+bi²o³ o'³ya²o²ka³-¹/ o'³to²jot³ k³'a²
+
+anta ele-a-matou
+
+ele-a-trouxe casa
+
+Base
+
+Base
+
+be³-¹/ o'³ñm ²
+
+a
+
+ele-a-deu
+
+Base
+
+je³xi² be³-¹ / o³a²bik³ jẽñ³r³
+
+be²⎯³ //
+
+sua-mãe a
+
+ele-sentou sua-rede
+
+em
+
+Base
+
+'Ele matou a anta, trouxe para casa, deu para sua mãe, e sentou-se na rede.'
+
+2.4.2. SENTENÇA PARALELA.
+Tais sentenças apresentam uma estrutura cujas duas Bases se manifestam por meio de orações independentes, cada uma das quais consistindo em tagmemas do mesmo nível. Ocorrem tagmemas mas de Sujeito, Objeto, Locativo e Tempo cronológico em construção paralela. A entoação descendente ocorre no fim de todas as orações da série. O seguinte exemplo ilustra a diversidade de colocação das construções paralelas:
+
+bo²ma²k³ a³o²y³ ka³xik³xik³'i²⎯³/ bo³ce²k³ wa²ra²ra³'a²ca²y³
+
+lá
+
+mulheres sentadas
+
+aí
+
+outras
+
+Base
+
+Base
+
+ka³xik³xik³'i²⎯³/ jo³ce²k³ wa²ra²ra³'a²ca²y³ ka³xik³xik³'i²⎯³ /
+
+sentadas
+
+aqui
+
+outras
+
+sentadas
+
+Base
+
+wa³ẽn³ tk³'a² be³ wa²ra²ra³'a²ca²y³ ka³xik³xik³'i²⎯³ //
+
+forno casa
+
+em outras
+
+sentadas
+
+Base
+
+'Lá as mulheres estão sentadas; aí há outras; aqui há outras; na casa do forno há outras. '
+
+2.5. SENTENÇA CITACIONAL.
+
+Qualquer sentença pode se transformar em citacional, cujo tagmema Citacional obrigatório manifesta-se por uma ou mais sentenças, e o tagmema Citador facultativo por meio de oração citadora.
+
+po³ma² ẽn² cm² ya³ka³re² i²o³'e² //
+
+onde você vai jacaré
+
+ele disse
+
+Citação
+
+Citador
+
+'"Onde você vai, jacaré?" ele disse.'
+
+É esta a maneira normal de se apresentar toda citação direta, inclusive o diálogo. Pode-se citar o diálogo, contudo, sem oração citadora nos casos em que o uso de vocativos ou partículas de resposta esclarece qual dos participantes está falando. Embora existam exemplos no texto incluído no Apêndice A, estes casos não serão mais abordados na presente descrição.
+
+A oração citadora, a qual consiste sempre em alguma forma do verbo 'e²'em² 'está dizendo', pode ocorrer mais de uma vez. Segue-se normalmente às sentenças citadas.
+
+ah¹ / i³bo³ce² ma³ i²o³'e² //
+
+O que aqui
+
+(enf) ele disse
+
+Excl
+
+Citador
+
+'"O que? (Estou) aqui", ele disse.'
+
+Existem exemplos, porém, em que as sentenças citadas ocorrem antes da oração citadora e depois dela.
+
+ap¹ / i²be³ ñ² / o³my²k²
+não isso não vem Citação
+
+ma³ we³ty² ya³ka³re²
+
+(enf.) feijão
+
+jacaré
+
+i³'e²'em² / õn² ta³di²'o²at² //
+
+ele-diz
+
+eu
+
+comedor-de-sementes
+
+Citador
+
+Citação
+
+'"Não! Não é isso. O feijão vem, Jacaré", ele diz. "Eu sou comedor de sementes."'
+
+A oração citadora pode ocorrer mais de uma vez numa sentença citacional.
+
+ap¹ / i²be³ i³'e²'em²/ a³pat² 'e²'em²/
+
+não isso diz
+
+jacaré diz
+
+Citação
+
+Citador
+
+Citador
+
+'"Não! É isso", ele diz -- o jacaré diz. "É feijão. "'
+
+i²be³
+isso Citação
+
+we³ty³ //
+feijão
+
+Em lendas bem conhecidas, aquele que articula a citação permanece sem identificação por um sujeito livre em muitas ocasiões, mesmo quando o contexto imediato não esclarece quem seja.
+
+Capítulo 3 ORAÇÃO
+Dividem-se as orações em dois tipos principais: verbais e não-verbais. Manifestam tagmemas Base e tagmemas-Expansão nas sentenças em que aparecem.
+3.1. ORAÇÃO VERBAL. Existem cinco tipos básicos de orações verbais. O quadro seguinte destaca seus
+tagmemas nucleares.
+
+1. Intransitiva
+
+Predicado: Sujeito: Objeto: Relacionador:
+
+verbo loc nom/ loc nom/ loc e-r
+
+loc dem loc dem
+
++ v intr
+
+±
+
+± Acom
+
+± Dir
+
+2 Transitiva
+
++ v tr
+
+±
+
+± ± Ben
+
+± Inst
+
+± Acom
+
+± Dir
+
+3. Descritiva
+
++ v desc
+
+±
+
+± Emot
+
+4. Pseudo-transitiva + v ptr
+
+±
+
+± Inst
+
+5. Citadora
+
++ v cit
+
+±
+
+± Dir
+
+Quadro 4: ORAÇÕES VERBAIS
+Todas estas orações têm em comum a existência de um Predicado obrigatório e de tagmemas periféricos facultativos de Tempo cronológico, Aspecto, Tempo verbal e Locativo. Os tagmemas de Tempo cronológico e de localização podem ocorrer duas vezes na mesma oração, e, os de aspecto três vezes. Todos os outros ocorrem uma só vez. É facultativo o Sujeito em todo tipo oracional, exceto naquelas orações que contêm formas verbais durativas ou incoativas. Eqüivale dizer que é obrigatório um prefixo referente ao sujeito semântico da oração na maior parte das palavras verbais, enquanto que é facultativo o tagmema Sujeito.
+As orações verbais diferenciam entre si segundo a classe de locução que manifesta o tagmema Predicado, e segundo os tagmemas Relacionadores que ocorrem nos diversos tipos de oração. A transitiva difere das outras orações pela ocorrência potencial de um tagmema objetivo e/ou de um marcador objetivo no verbo. O tipo pseudo-transitivo difere dos outros pela ocorrência de um tagmema Relacionador obrigatório, o qual funciona como objeto ou objetivo dos verbos pseudo-transitivos; chama-se, contudo, instrumental-referente porque ocorre o mesmo relacionador que aparece na locução instrumental eixo-referente.
+Todos os relacionadores são formalmente locuções eixo-referentes. Aparecem, porém, como tagmemas diversos no nível da oração devido a importantes diferenças de significado de dados relacionadores conforme o tipo de oração em que ocorrem (v. o Quadro 7, Seção 4.2).
+
+Na descrição que se segue, os tagmemas vêm descritos quando aparecem pela primeira vez. Assim, o tagmema Sujeito se descreve apenas sob o rótulo de oração intransitiva, o Relacionador de Acompanhamento sob o de oração intransitiva, etc. Os tagmemas nucleares de cada tipo de oração são descritos na seção 3.1. Os tagmemas periféricos vêm descritos na seção 3.2, a ordem preferida de tagmemas na 3.3, as transformas de orações verbais na 3.4, as orações não-verbais na 3.5 e os fragmentos oracionais na 3.6.
+
+3.1.1. ORAÇÃO INTRANSITIVA.
+
+A oração intransitiva consiste num Predicado obrigatório, um Sujeito facultativo, um Relacionador de Acompanhamento facultativo e um Relacionador de Direção facultativo :
+
+o³xi²
+
+o³a²bik³ je³'it² kñ² //
+
+minha-mãe ela sentou se seu-filho com
+
+Suj
+
+Pred
+
+Acom
+
+'Minha mãe sentou-se com seu filho. '
+
+Manifesta-se o tagmema Predicado mediante uma locução verbal com o verbo intransitivo ou verbo referente a sujeito como cabeça (5.2.1).
+
+O tagmema Sujeito manifesta-se por uma locução nominal (4.1), p. ex., k³'a² 'casa'; i²bo³ 'aquela'. Quando a cabeça da locução nominal é substantivo classificado (5.1.3), incorpora-se a pro-forma competente dentro dos verbos descritivos ou intransitivos e dos nomes numerais (5.2.1 e 5.5), p. ex.,
+
+a²ko³ba4 iba4 dip²
+
+banana ela-bonita
+
+Suj
+
+Pred: v desc
+
+Continua esta incorporação, ocorra ou não o tagmema-Sujeito na oração (1.3.2).
+
+O tagmema Relacionador de Acompanhamento manifesta-se mediante uma locução eixoreferente (4.2), p. ex., je³'it² kñ² 'com o filho dela'.
+
+Manifesta-se o tagmema Relacionador de Direção por uma locução eixo-referente (4.2), p. ex., k³'a² kay³ 'casa a'. Ocorre este tagmema somente quando o verbo expressa movimento, p. ex., c²cm² 'indo', do²don² 'vindo', a³jẽm²jẽm² 'chegando', õm²õm² 'entrando', kap³kam³ 'passando', e kop³kom³ 'descendendo'.
+
+a³ño²kat²kat² o'³j² a³way³dip² kay³ //
+
+homem
+
+ele-foi selva
+
+a
+
+Suj
+
+Pred Dir
+
+'O homem foi à selva.'
+
+3.1.2. ORAÇÃO TRANSITIVA.
+Consiste a oração transitiva num Predicado obrigatório, um Sujeito facultativo, um Objeto facultativo, e Relacionadores de Benefício, Instrumento, Acompanhamento e Direção.
+
+a³ya²cat² py³bit² o'³jo²wy³ i³di³bim² //
+
+mulher comida ela-a-lavou água-com
+
+Suj
+
+Obj
+
+Pred
+
+Inst
+
+'A mulher lavou a comida com água'
+
+i²xe³ py³bit² o'³jo²da² je³'it² pe³am²
+
+ela comida ela-a-cozinhou seu-filho para
+
+Suj Obj
+
+Pred
+
+Ben
+
+'Ela cozinhou a comida para seu filho.'
+
+Manifesta-se o Predicado por uma locução verbal tendo o verbo transitivo como cabeça (5.2.1.3).
+Manifesta-se o Objeto mediante locução nominal (com exceção de locução pronominal) (4.1). O tagmema Objeto é formalmente facultativo, mas ocorre obrigatoriamente um marcador de objeto no predicado (5.2.1.3), ocorra ou não o objeto livre.
+Quando se manifesta o Objeto por um substantivo classificado (5.1.3.2), incorpora-se a pro-forma competente dentro do verbo transitivo (5.2.1.3). Continua esta incorporação, mesmo quando não ocorre o tagmema Objeto (1.3.2).
+py³bit² o'³jo²da² //
+comida ela-a-cozinhou (-jo²- é marcador de objeto não específico) 'Ela cozinhou a comida. '
+
+a²ko³ba4 o'³s²ba4'o²
+banana ela-a-comeu (-s²ba4 é pro-forma incorporada de a²ko³ba4 'banana') 'Ela comeu a banana.'
+
+Consiste o Relacionador de Benefício numa locução eixo-referente (4.2), p. ex.,
+
+je³'it²
+
+pe³am²
+
+seu filho
+
+para
+
+'em-benefíco-de / por seu filho.'
+
+O tagmema Relacionador de Instrumento consiste numa locução instrumental eixoreferente (4.2):
+
+ki³se-m²
+
+'por meio de uma faca'
+
+O marcador instrumental é o sufixo -m.7
+Ocorrem os tagmemas Direcionais e de Acompanhamento apenas quando o verbo expressa movimento (5.2.4.2) ou ação de dar.
+
+a³ño²kat²kat² dap²sem² o'³t²jo²wat³ a³way³dip² pe³wi² //
+
+homem
+
+veado
+
+ele o carregou selva
+
+de
+
+Suj
+
+Obj
+
+Pred
+
+Dir
+
+'O homem carregou o veado do mato.'
+
+a³o²y³ da³xa² o'³t²j²jẽm³
+
+je³'it² kiñ² //
+
+mulheres lenha ela-a-carregou-chegando seu-filho com
+
+Suj
+
+Obj Pred
+
+Acom
+
+'As mulheres carregaram a lenha para casa com seus filhos.'
+
+i³xi² py³bit² o'³ñm² je³'it² pe³ //
+
+mãe comida ela-a-deu seu filho a
+
+Suj Obj
+
+Pred
+
+Dir
+
+'A mãe deu a comida a seu filho.'
+
+3.1.3. ORAÇÃO DESCRITIVA.
+Consiste a oração descritiva num Predicado obrigatório, um Sujeito facultativo e um Relacionador Emotivo.
+
+o³xi² i³dip²
+
+minha-mãe ela-bonita
+
+Suj
+
+Pred
+
+'Minha mãe é bonita.'
+
+be³ki²cat² i³pa³ra³ra³ py³b²
+
+criança
+
+ela com medo cobra
+
+Suj
+
+Pred
+
+Emot
+
+'A criança tem medo da cobra.'
+
+b²xim³
+para com
+
+O tagmema Predicado manifesta-se mediante uma locução verbal com verbo descritivo na qualidade de cabeça. Ocorrem os verbos descritivos com um grupo característico de marcadores de pessoa e constituem uma classe especial de verbos (5.2.1. e 5.2.1.4).
+
+Manifesta-se o tagmema Relacionador Emotivo por uma locução eixo-referente (4.2). Ocorre somente em orações descritivas, e, mesmo assim, apenas naquelas cujo verbo é um dos seguintes: -cok²cok² 'estar contente'; -ñy³cñ ² 'estar triste'; ou -pa³ra²ra² 'estar com medo'. Estes verbos ocorrem com elementos relacionadores específicos: -cok²cok² e -ñy³cñ ² aparecem com kay³; -pa³ra²ra² se apresenta com bi²xim³ (4.2 e Quadro 7).
+
+i³cok²cok² je³'it² kay³ //
+
+ela-contente seu-filho a respeito de
+
+Pred
+
+Emot
+
+'Ela está contente a respeito do seu filho.'
+
+3.1.4. ORAÇÃO PSEUDO-TRANSITIVA.
+Consiste a oração pseudo-transitiva num predicado obrigatório, um sujeito facultativo e um relacionador de instrumento facultativo.
+
+õn we³tay³bit² i³xi-m² //
+
+eu o-conheço mãe-dele (com referência a)
+
+Suj Pred
+
+Instr
+
+'Eu conheço a mãe dele.'
+
+Manifesta-se o tagmema Predicado mediante uma locução verbal com verbo pseudo-transitivo na qualidade de cabeça (5.2.1.5).
+O tagmema Instrumental manifesta-se por uma locução eixo-referente (4.2), i³xi-m² 'sua-mãe-com-relação-a'. O marcador, formalmente o relacionador da locução eixo-referente, é o -m final.
+
+3.1.5. ORAÇÃO CITADORA.
+
+Consiste a oração citadora num Predicado obrigatório, um Sujeito facultativo, e um Relacionador de Direção facultativo.
+
+poy² o³'e² je³b³re²
+jabuti disse seu-amigo Suj Pred Dir 'O jabuti disse a seu amigo.'
+
+be³ //
+a
+
+Manifesta-se o tagmema Predicado por meio de uma locução verbal com forma específica do verbo transitivo, i³'e²'em² 'está dizendo-o', que marca a citação direta. Ocorre i²o³'e² 'ele disse', se não há tagmema Sujeito livre; se o Sujeito vem em primeiro lugar, usa-se a forma o³'e².
+
+ap² / i²o³'e² //
+não ele disse Citação Pred '"Não!" ele disse.'
+
+e³pe³sot³/ poy² o³'e² je³b³re² be³ //
+
+vocês vem jabuti disse seus-amigos a
+
+Citação
+
+Suj Pred Dir
+
+'"Vocês vêm", disse o jabuti aos seus amigos'
+
+Podem-se usar igualmente i²o³'e² para significar 'diz-se' e i²o³'e² ip² 'eles disseram' quando o narrador deseja ou renunciar à responsabilidade pela autenticidade da citação ou não especificar a fonte da mesma. Ocorre a forma verbal ou como Predicado da oração citacional ou repetição do tagmema Predicado.
+
+je³pit²pin² i²o³'e² //
+
+voltando
+
+diz se
+
+Citação
+
+Pred
+
+'Ele volta, se diz.'
+
+ya³o³ti² i³'e²'em² i²o³'e²
+
+jabuti
+
+está-dizendo diz-se
+
+Citação Pred
+
+Pred
+
+'"Jabuti!" ele disse, se diz.'
+
+A oração citadora manifesta o tagmema Citador da sentença citacional (2.5). Ocorrem muitas orações deste tipo no Apêndice A.
+
+3.2. TAGMEMAS PERIFÉRICOS.
+Tais tagmemas facultativos podem ocorrer em qualquer oração verbal, bem como em orações não-verbais (3.5). Segue-se uma lista destes tagmemas não-nucleares de nível oracional.
+
+3.2.1. TAGMEMAS LOCATIVOS Podem-se manifestar por:
+
+a) demonstrativo-locativos, descritos na seção 5.3.
+
+bo²k³ a³o²y³ m³sk²ta³ wy²wy² //
+
+lá
+
+mulheres mandioca lavando
+
+Loc Suj
+
+Obj
+
+Pred
+
+'As mulheres estão lavando mandioca lá.'
+
+b) substantivos locativos, sub-classe do grupo substantivo (5.1).
+o'³j² ti³a²kay³ /
+ele-foi rio acima Pred Loc
+
+c) uma locução eixo-referente (4.2).
+
+o'³j²
+ele-foi Pred
+
+je³dk³'a²
+sua-casa Loc
+
+be³ //
+a
+
+3.2.2. TAGMEMAS TEMPORAIS podem-se manifestar mediante:
+
+a) substantivos temporais, sub-classe de substantivos, p. ex., ña³s² 'agora/hoje'
+
+b) locuções nominais temporais, p. ex., xep³xep² ka4bi²a³ 'dois dias'; ou
+
+c) locuções eixo-referentes, p. ex., i³xi³ma² be³ 'durante a noite'
+
+o'³j²
+ele-foi Pred
+
+ña³s² //
+hoje Tempo
+
+3.2.3. TAGMEMAS DE TEMPO VERBAL E ASPECTO. Tais tagmemas vêm descritos após os verbos nas seções 5.4 e 5.6, respectivamente, pois
+se descrevem com mais facilidade com referência a estes. Ocorrem tagmemas de Tempo verbal com qualquer oração pseudo-transitiva, descritiva ou estativa quando a forma verbal é de estado durativo (5.2.4.1).
+3.3. ORDEM PREFERIDA DE TAGMEMAS. Não compensa descrever a ordem relativa de tagmemas mediante uma progressão linear
+do primeiro tagmema, antes é preferível reconhecer a ordem radial em que se distanciam do tagmema Predicado. A primeira ordem é Objeto; a segunda, Sujeito; a terceira, Aspecto; a quarta, Tempo verbal; enquanto que os tagmemas restantes (Tempo cronológico, Locativo e Relacionadores) constituem a quinta ordem. Pode-se ilustrar este esquema pelo seguinte quadro:
+
+Locativo Tempo cronológico Relacionadores
+
+Tempo verbal
+
+Aspecto
+
+Suj
+
+Obj
+
+Pred
+1
+
+Obj
+
+Suj
+
+Aspecto
+
+Tempo verbal
+
+Locativo Tempo cronológico
+Relacionadores
+
+2
+
+3
+
+4
+
+5
+
+Quadro 5: ORDEM DE TAGMEMAS ORACIONAIS
+
+Qualquer que seja o primeiro tagmema, ele é focalizado. Quando o primeiro tagmema é Tempo cronológico, assinala novo parágrafo (1.3.1), exceto em sentenças paralelas consecutivas.
+O Objeto ocorre geralmente antes do Predicado em orações transitivas.
+O Sujeito pode vir antes ou depois do Predicado. Quando precede, manifesta-se comumente através de um substantivo, quando segue por um pronome.
+Podem aparecer dois tagmemas de Aspecto numa oração. Se há dois deles, um geralmente precede o predicado enquanto que o outro o segue. Certos aspectos precedem o predicado, de preferência, outros o seguem, somente, ao passo que outros podem ocorrer em qualquer das duas posições (5.6).
+O relacionador de Instrumento em orações pseudo-transitivas é exceção à regra acima enunciada no que diz respeito a sua ordem: ocorre geralmente imediatamente após o Predicado em orações independentes, e logo antes dele em orações dependentes.
+Embora seja grande o inventário de tagmemas, ocorrendo alguns deles mais de uma vez numa única oração, o número de tagmemas que ocorre em dada oração é via de regra uma mínima proporção do inventário total. As orações citacionais costumam ter só um tagmema. As descritivas e pseudo-transitivas têm geralmente de três a quatro, e as transitivas e intransitivas de cinco a seis.
+3.4. TRANSFORMAS DE ORAÇÕES VERBAIS. Há bom número de orações de ordem diversa, mas o descrevê-las separadamente
+resultaria num número descomedido de tipos. É mais conveniente descrever tais orações mediante referência aos tipos já postulados. Podem-se chamar estas orações diversas de transformas dos tipos básicos, mas não se emprega este termo no sentido estrito usado pela escola gerativa; nem implica o seu uso em qualquer referência aos processos mentais pelos quais os que falam a língua materna chegam a produzir a forma oral da mesma.
+Toda oração independente pode-se 'transformar' em oração dependente, nominalizada, intencional ou interrogativa, com exceção das orações descritivas que não se 'transformam' em intentivas.
+
+3.4.1. ORAÇÃO DEPENDENTE. Tais orações funcionam como integrantes da primeira base de sentenças consecutivas
+(2.3.2). Possuem a mesma estrutura que as orações independentes do mesmo tipo, com as seguintes exceções:
+1) a locução verbal ocorre na forma dependente,
+2) omite-se o Sujeito, se são iguais os Sujeitos das duas bases,
+3) se há negativo, ocorre a forma dependente da partícula negativa, e
+4) não ocorre tagmema de Aspecto.
+Manifesta-se o Predicado mediante a forma de acontecimento único do verbo (5.2.4.1) mais quaisquer prefixos obrigatórios.
+
+{or. ind. or. dep.
+
+o'³ya²my²pen²
+Pred
+ya4my²pen²
+virá-lo B1
+
+p³je²
+quando C2
+
+'ele-o-virou' 'ao virá-lo...'
+
+{or. ind. com neg
+or. dep. com neg
+
+o'³ya²my²pen²
+Pred
+ya4my²pen²
+B²
+
+ñ²
+
+’m
+
+p³je²
+
+Neg dep C²
+
+'ele não o virou' Neg indep
+'ao não virá-lo'
+
+3.4.2. ORAÇÃO NOMINALIZADA. Tais orações funcionam como uma espécie de locução nominal; ocorrem como
+integrantes dos tagmemas subjetivo ou objetivo nas orações ou como eixo de locuções eixoreferentes. Tem estrutura igual à das orações independentes, com as seguintes exceções:
+1) ocorre um sufixo nominalizador no verbo,
+2) muda a ordem de tagmemas para que o predicado ocorra em posição final na oração,
+3) não ocorre Aspecto. Certos fatores semânticos indicados pelo tagmema de Aspecto nas orações independentes podem ser indicados pelo elemento nominalizador.
+
+São estes elementos:
+
+-ap² / -at² 'aquele que' -- ocorre com verbos sem marcadores de sujeito
+
+-i²ap² / -i²at² 'a coisa feita' -- ocorre com verbos com marcadores de sujeito
+
+-to³pi²bit³ / -t³ĩ²bit³ 'aquele que fazia mas não faz mais'
+
+’k²at²
+
+'aquele que costuma...'
+
+P. ex.
+
+ka³p³s² wã²s³ o'³jo²wĩy³ ip²-i²ap²
+
+ontem
+
+pássaro ele o flechou nom.-plur.
+
+'o flechar dos pássaros ontem'
+
+i³tay³bit²-at²
+ele-o-sabe nom. 'aquele que o sabe'
+
+py³b² b²xim³-at²
+cobra como nom. 'aquilo parecido com cobra'
+
+py³bit² ĩm²m²'k²-at²
+comida costumando-dar nom. 'aquele que costuma dar comida'
+
+3.4.3. ORAÇÃO INTENTIVA. Funcionam tais orações como integrantes da segunda Base de uma sentença intentiva
+(2.3.5). Diferem das orações independentes em que: 1) só pode ocorrer o verbo de estado inceptivo no Predicado (5.2.4.1), 2) omite-se o Sujeito, e 3) não ocorre Aspecto
+wã²s³ o'³ya²o²ka³ //
+pássaro ele-o-matou (oração independente)
+wã²s³ a³o²kam³ //
+pássaro a-matar (oração intentiva)
+
+3.4.4. ORAÇÃO INTERROGATIVA. Funciona uma oração interrogativa como integrante da Base de qualquer sentença. Há
+três sub-tipos: perguntas para obter informação, perguntas 'sim-não', e perguntas para confirmação. Diferem das orações independentes num dentre três pontos:
+1) manifesta-se um dos tagmemas mediante uma palavra interrogativa, mudando-se a ordem dos tagmemas,
+2) ocorre uma partícula interrogativa dentro de um tagmema sem mudança de ordem, ou
+
+3) existe entoação contrastante. Correspondem estes três contrastes a os sub-tipos de orações interrogativas (v. abaixo).
+
+3.4.4.1. PERGUNTA PARA OBTER INFORMAÇÃO.
+Uma oração independente pode-se 'transformar' em pergunta informacional mediante (a) substituição num tagmema da classe vocabular que manifesta aquele tagmema pela palavra interrogativa, e (b) colocação daquele tagmema no início da oração. Há palavras interrogativas para muitas classes vocabulares:
+
+a³pẽn²
+
+'como' (advérbios em frases verbais -- 4.3.1)
+
+a³jo²
+
+'o que' (substantivos)
+
+a³jo²pẽn²pẽn² 'fazendo o que' (verbo)
+
+a³po³ma²
+
+'aonde' (substantivos locativos)
+
+a³po³ce²
+
+'aonde' (palavras locativas)
+
+pe³bi³cat²
+
+'qual' (locativos demonstrativos)
+
+p³ñĩn²
+
+'quando' (substantivos temporais)
+
+Quando a pergunta diz respeito ao Objeto, o Predicado segue imediatamente à palavra interrogativa.
+
+orção independente
+
+a³ño²kat²kat² bi²o³ o'³ya²o²ka³ ka³p³s² //
+
+homem
+
+anta ele-a-matou ontem
+
+Suj
+
+Obj Pred
+
+Tempo
+
+'O homem matou a anta ontem.'
+
+oração interrogativa
+
+a³b² bi²o³ o'³ya²o²ka³ ka³p³s² //
+
+quem anta ele-a-matou ontem
+
+Suj Obj Pred
+
+Tempo
+
+'Quem matou a anta ontem?'
+
+p³ñn² a³ño²kat²kat² bi²o³ o'³ya²o²ka³ //
+
+quando homem
+
+anta ele-a-matou
+
+Tempo Suj
+
+Obj Pred
+
+'Quando foi que o homem matou a anta?'
+
+a³jo² o'³ya²o²ka³ a³ño²kat²kat² ka³pi³s² //
+
+o que ele o matou homem
+
+ontem
+
+Obj Pred
+
+Suj
+
+Tempo
+
+'O que foi que o homem matou ontem?'
+
+a²pẽn³ o'³j² //
+como ele-foi Pred 'Como é que ele foi? '
+
+a²jo³ pẽn²pẽn² a³ño²kat²kat² //
+
+pergunta fazendo homem
+
+Pred
+
+Suj
+
+'O que o homem está fazendo?'
+
+3.4.4.2. PERGUNTA PARA CONFIRMAÇÃO.
+Uma oração independente pode ser 'transformada' em interrogativa para se obter confirmação pelo acréscimo da partícula 1 'pergunta' a qualquer tagmema da oração. Isto não muda a ordem dos tagmemas. A entoação interrogativa ocorre no fim da oração (transição 2-1 na última sílaba).8 P. ex. ,
+
+a³ño²kat²kat² t¹ bi²o³ o'³ya²ka³ ka³p³s²⎯¹ //
+
+homem
+
+perg. anta ele-a-matou ontem
+
+Suj
+
+Obj Pred
+
+Tempo
+
+'Foi o homem quem matou a anta ontem?'
+
+a³ño²kat²kat² bi²o³ d¹ o'³ya²o²ka³ ka³p³s²⎯¹ //
+
+homem
+
+anta perg. ele-a-natou ontem
+
+Suj
+
+Obj
+
+Pred
+
+Tempo
+
+'Foi uma anta o que o homem matou ontem?'
+
+3.4.4.3. PERGUNTA 'SIM-NÃO'.
+Uma oração independente pode se 'transformar' em pergunta deste tipo mediante alteração de entoação. Ocorre uma transição ascendente na última sílaba da oração, mas parece inalterada a ordem tagmêmica.
+
+a³ño²kat²kat² b²o³ o'³ya²o²ka³ ka³p³s² //
+
+homem
+
+anta ele a matou ontem
+
+Suj
+
+Obj Pred
+
+Tempo
+
+'O homem matou a anta ontem?'
+
+São menos freqüentes perguntas deste tipo que as que pedem informação ou confirmação. Outro tipo de oração que é semanticamente uma pergunta produz-se mediante o uso de
+um demonstrativo-locativo específico (5.3).
+3.5. ORAÇÃO NÃO-VERBAL. São de dois tipos as orações não-verbais: estativas e fatuais. Funcionam como integrantes
+de toda Base de sentença. Diferenciam-se os tipos um do outro por terem os estativos dois tagmemas obrigatórios e os fatuais só um. Seguem-se os detalhes dos sub-tipos e seus tagmemas.
+
+ESTATIVA Equativa Locativa Relacionadora
+
+TÓPICO + s / pro / dem-loc + s / pro / dem-loc + s / pro / dem-loc
+
+COMENTÁRIO POSIÇÃO
+
++ s / pro / dem-loc
+
+#
+
++ loc e-r / pal loc
+
+±
+
++ loc e-r
+
+#
+
+FATUAL
+
+Possessiva
+
++ poss + loc nom red parc
+
+#
+
+#
+
+Existencial
+
++ s red
+
+#
+
+#
+
+Quadro 6 : ORAÇÕES NÃO-VERBAIS
+Como se vê pelo quadro, diferem as orações estativas das fatuais por serem obrigatórios Tópico e Comentário nas estativas enquanto que nas fatuais só ocorre Tópico. Diferem entre si a equativa, a locativa e a relacionadora no conteúdo do tagmema Comentário e na ocorrência facultativa vs. a ausência do tagmema Posicional. Difere a fatual possessiva da fatual existencial no conteúdo do tagmema Tópico. Ocorrem os mesmos tagmemas periféricos como nas orações verbais (3.2).
+
+3.5.1. ORAÇÃO ESTATIVA.
+Consistem tais orações num tagmema Tópico obrigatório, um tagmema Comentário obrigatório e um tagmema Posicional facultativo. Há três sub-tipos: equacional, locacional e relacional.
+
+3.5.1.1. ORAÇÃO ESTATIVA EQUATIVA.
+Estas orações consistem num tagmema Tópico e um tagmema Comentário, ambos obrigatórios.
+
+i²bo³ a³ya²cat² o³xi² //
+
+aquela mulher
+
+minha-mãe
+
+Tópico
+
+Comentário
+
+'Aquela mulher é minha mãe. '
+
+Ambos os tagmemas -- de Tópico e de Comentário -- são locuções nominais (4.1), p. ex., i²bo³ a³ya²cat² 'aquela mulher', ou demonstrativa-locativas (5.3), p. ex., i²xe³ 'aquele'.
+
+3.5.1.2. ORAÇÃO ESTATIVA LOCATIVA.
+
+Tais orações consistem em tagmemas obrigatórios de Tópico e Comentário, mais um tagmema de Posição facultativo.
+
+a³ya²cat² je³dk³'a² be³ o³pop² //
+
+mulher
+
+sua-casa
+
+em deitada
+
+Tópico
+
+Comentário
+
+Posição
+
+'A mulher está deitada na sua casa.'
+
+Consiste o tagmema Tópico numa locução nominal ou em demonstrativos locativos.
+
+O tagmema Comentário consiste numa locução eixo-referente, p. ex., je³dk³'a² be³ 'na casa dela', ou em palavras locativas, p. ex., i³bo³ce² 'lá'.
+
+Manifesta-se o tagmema facultativo de Posição mediante três tipos de integrantes: locuções locativas, locuções verbais de posição e partículas existenciais.
+
+1) Consistem as locuções locativas em partículas locativas mais qualificadores facultativos (4.4). Tais partículas são o³pop² 'posição inclinada (deitada)' e o³my² 'posição não-inclinada'. Podem ocorrer com a partícula negativa, ñ² 'não' para significar 'não deitado' ou 'não não-deitado'. Indicam estado (posição) transitório da pessoa ou coisa referida pelo tagmema Tópico.
+
+o³xi² o³ pop² k³'a² be³ //
+
+minha-mãe deitada casa
+
+em
+
+Tópico Posição Comentário
+
+'Minha mãe está (deitada) na casa.'
+
+o³xi²
+
+o³my² ñi² k³'a²
+
+be³ //
+
+minha-mãe não deitada não casa
+
+em
+
+Tópico Posição
+
+Comentário
+
+'Minha mãe não está (não-deitada) na casa.'
+
+2) As locuções verbais de posição consistem de um verbo posicional e de uma partícula negativa facultativa. Os verbos posicionais são uma sub-classe de radical verbal intransitivo (5.2.4.2) que ocorre somente neste tipo de oração. Indicam posição de pessoa ou coisa referida pelo tagmema Tópico com maior precisão que as locuções locativas.
+
+a³ya³cat² xik³'i² k³'a² be³ //
+
+mulher
+
+sentada casa
+
+em
+
+Tópico
+
+Posição Comentário
+
+'A mulher está sentada na casa.'
+
+3) As partículas existenciais são ka³ke² 'existe' e ka³'m²ñ² 'não existe'. Indicam existência ou não-existência da pessoa ou coisa referida pelo tagmema Tópico, comumente seu habitat natural.
+
+a³xi³ma² ka³ke² i³di³bi³ be² //
+
+peixe
+
+existe rio
+
+em
+
+Tópico Posição Comentário
+
+'Os peixes estão no rio.'
+
+Por vezes ocorre a partícula existencial como tagmema inicial da oração.
+
+ka³'ĩm³ñ² bi²o³ o³ka4
+
+be² //
+
+Não há
+
+anta meu-lugar em
+
+Posição
+
+Tópico Comentário
+
+'Não há antas na minha terra.'
+
+3.5.1.3. ORAÇÃO ESTATIVA RELACIONADORA. Consistem tais orações em Tópico e Comentário obrigatórios.
+
+i²xe³ o³xi²
+
+jo²'i³ //
+
+ela minha-mãe igual
+
+Tópico Comentário
+
+'Ela é igual a minha mãe.'
+
+Manifesta-se o tagmema Tópico mediante uma locução nominal ou demonstrativoslocativos.
+O tagmema Comentário se manifesta por uma locução eixo-referente composta de um tagmema cabeça integrado por um substantivo e um dentre quatro relacionadores estativos: jo²'i³ 'igual', b²xim³ 'como', kay³ 'querer', ou -m 'tornar-se'.
+i²xe³ a²ko³ba4 kay² //
+ela banana quer Tópico Comentário 'Ela quer uma banana / bananas.'
+
+3.5.2. ORAÇÃO FATUAL. Consistem estas cláusulas em Tópico obrigatório e outros tagmemas facultativos. Há dois
+sub-tipos: possessivos e existenciais.
+3.5.2.1. ORAÇÃO FATUAL POSSESSIVA. Estas orações têm tagmema Tópico obrigatório que consiste num substantivo com a
+estrutura seguinte: + prefixo pronominal possessivo + radical nominal com parcial reduplicação da última sílaba (as consoantes permanecem iguais, mas a vogal muda para /e/) +/- partícula negativa.
+we³be³kit²ket² //
+meu filho reduplicado Tópico 'Eu tenho um filho.' (bekit 'criança')
+Marca-se a pessoa do Tópico pela mudança do prefixo possessivo pronominal, p. ex. , e³be³ki²ket² 'você tem um filho'; ce³be³kit²ket² 'ele tem um filho'.
+3.5.2.2. ORAÇÃO FATUAL EXISTENCIAL. Tais orações apresentam tagmema Tópico obrigatório manifestado por um substantivo, a
+última sílaba do qual se reduplica para indicar existência. O sufixo negativo -m²ñi² pode ocorrer com o substantivo para indicar não-existência.
+
+be³kit²kit² //
+criança-reduplicada Tópico 'existem crianças'
+
+be³kit²kit²'ĩm²ñ²
+criança-reduplicada negativo Tópico 'não existem crianças'
+
+3.6. FRAGMENTOS ORACIONAIS.
+
+Um fragmento oracional consiste em um ou mais dos seguintes tagmemas existentes ao nível da oração: Locativo, Tempo cronológico, Sujeito, Objeto, qualquer Relacionador, Vocativo, Tópico, ou Comentário. Ocorrem estes apenas em diálogo, como resposta a perguntas ou como comentário interpolado (que não é relevante à presente descrição).
+
+Pergunta:
+
+a³po³ma² o'³j²
+
+aonde
+
+ele-foi
+
+'Aonde ele foi?'
+
+Fragmento: k³a² casa 'a casa'
+
+kay³ //
+a
+
+Embora funcionem sempre como parte do corpo ao nível do encontro, pode se descrever mais convenientemente sua estrutura em termos de tagmemas de nível oracional; é por esta razão que são reconhecíveis como fragmentos oracionais. Além disso, podem vir acompanhados de uma partícula afirmativa, constituindo assim uma sentença exclamatória.
+
+Pergunta:
+
+k³'a² kay³ d¹ e³bay³ o'³j²⎯¹ //
+
+casa
+
+a int. seu-pai ele-foi
+
+'Seu pai foi para casa ? '
+
+Fragmento: Hm hm / k³'a² kay³ //
+
+sim
+
+casa
+
+a
+
+'Sim, para casa.'
+
+Os fragmentos oracionais, contudo, nunca entram em combinação com outras sentenças em parágrafos, nem com elementos iniciais ou finais em discursos. A hierarquia descrita no presente trabalho não exclui a possibilidade de saltos de uma categoria para outra. A descrição das partículas que operam em vários níveis é mais um exemplo de tais saltos em sentido ascendente, pois estas são partículas mono-morfêmicas na maioria dos casos, mas não se considera que hajam passado por todos os níveis hierárquicos intermediários entre o do morfema e o do parágrafo ou discurso, etc. , em que funcionam.
+NOTAS
+7. Dá-se -m como forma básica do marcador instrumental. Ocorre -m em palavras com vogal final. As palavras que terminam em oclusiva final empregam em lugar da oclusiva sua
+nasal homorgânica.
+8. Quando se menciona entoação especial, sobrepõe-se esta ao tom.
+
+Capítulo 4 LOCUÇÃO
+Há quatro tipos de locução: nominal, eixo-referente, verbal e posicional. Cada tipo funciona de maneira diferente na oração e tem sua estrutura específica, abaixo descrita.
+
+4.1. LOCUÇÃO NOMINAL.
+Quatro são os tipos de locução nominal: o básico, o pronominal, o genitivo e o nominalizado. Cada um deles manifesta os tagmemas de Sujeito, Objeto, Tópico ou Comentário dentro da oração, ou o eixo de uma locução eixo-referente; a locução nominal básica pode manifestar também o Tempo cronológico na oração.
+
+4.1.1. LOCUÇÃO NOMINAL BÁSICA.
+
+Consiste tal locução de modificador facultativo, cabeça obrigatória, e qualificador facultativo. O modificador é demonstrativo-locativo (5.3) ou nome numeral (5.5); consiste a cabeça num substantivo não-possuído dos tipos possuído alienável ou não-possuído (5.1); o qualificador facultativo consiste numa partícula qualificadora.
+
+i²bo³
+
+a³ya²cat² t¹
+
+aquela
+
+mulher
+
+int.
+
+mod: dem -loc cabeça
+
+qual
+
+'aquela mulher?'
+
+so³at² ka4bi²a³
+
+cada
+
+dia
+
+mod: num cabeça
+
+'cada dia'
+
+Quando a cabeça é substantivo classificado (5.1.3), o classificador relevante ocorre também adjunto como sufixo ou modificador.
+
+xep³xep² a³k²ri³ce²
+
+dois
+
+cachorro (subst não-
+
+classificado)
+
+mod
+
+cabeça
+
+'dois cachorros'
+
+xep³xep²'a³ k³'a²
+
+classe de dois casa (subst
+
+classificado)
+
+mod
+
+cabeça
+
+'duas casas'
+
+Manifesta-se o tagmema qualificador mediante as partículas qualificadoras: t² 'pergunta', ñ² / 'm ² 'negativo' (ñ² é negativo independente, 'm ² é negativo dependente), tak² 'também', ma² 'enfático', 'bit² 'ênfase contrastiva', xe³'e² / pa²xi³ 'dubitativo' (xe³'e² ocorre com substantivos, pa²xi³ com interrogativos), ip² pluralizador', a²cã³ 'mais bem/ só' e ñ²ñn² 'mais ou menos/quase'.
+
+As partículas qualificadoras podem ocorrer em qualquer locução, seja nominal ou de outro tipo, com a seguinte exceção: ñ²ñn² ocorre apenas em locuções nominais e verbais, ao passo que tak², bit², xe³'e² / pa²xi³, ip², a²cã³ não se apresentam em locuções verbais.
+
+da³xa² xe³'e²
+lenha talvez cabeça qual 'Será lenha?'
+
+o'³j² d¹
+ele-foi int cabeça qual 'Ele foi?'
+
+a²cã³ bõm²bõm³ xi²ri²
+só peixe podre qual cabeça
+
+'só peixe podre'
+
+a²cã³ é o único qualificador que precede a cabeça nos textos, pois os qualificadores costumam seguir a este elemento.
+
+o³i²tay³bit² bit³
+
+ele-o-aprendeu ênfase contrastante
+
+cabeça
+
+qual
+
+'Ele, pelo contrário, o aprendeu. '
+
+4.1.2. LOCUÇÃO PRONOMINAL.
+Consistem tais locuções em um pronome ou demonstrativo-locativo obrigatório e um qualificador facultativo. Os pronomes livres são:
+
+1ª singular 2ª singular 1ª plural exc 1ª plural inc 2ª plural
+
+õn² ẽn² o³ce²j² wy³j² ey³j²
+
+'eu' 'você' 'nós'9 'nós' 'vocês'
+
+õn² ma³
+eu ênfase pro qual 'Eu (enfático)'
+
+Indica-se a terceira pessoa por demonstrativos-locativos (5.3).
+
+i²xe³ xe³'e²
+
+ele
+
+int
+
+dem-loc qual
+
+'seria ele?'
+
+i²bo³ ma²
+aquele realmente cabeça qual 'aquele realmente'
+
+4.1.3. LOCUÇÃO NOMINAL GENITIVA.
+Tais locuções podem ser de dois tipos. Consiste o primeiro tipo num possessor obrigatório e um substantivo possuído obrigatório (5.1).
+
+o³wa³ño² 'it³
+minha irmã filho possessor ent poss 'o filho da minha irmã'
+
+i²bo³ 'it²
+aquele filho possessor ent poss 'o filho daquele'
+
+Consiste o tipo 2 num possessor obrigatório e um substantivo possuído facultativamente (5.1) com um morfema obrigatório de ligação e-, que precede a entidade possuída.
+
+we³bay³ e³ko³be²
+meu-pai canoa dele (ko³be² 'canoa') possessor ent poss 'a canoa do meu pai'
+
+i²bo² e³ko³be²
+aquele canoa dele possessor ent poss 'a canoa daquele'
+
+Pode consistir o tagmema possessor numa locução nominal genitiva rebaixada ou numa locução nominal básica.
+
+o³xi²
+
+wa³ño² 'it²
+
+minha-mãe
+
+irmã-maior criança
+
+possessor
+
+ent poss ent poss
+
+poss: loc nom-gen
+
+'o filho da irmã maior da minha mãe'
+
+o³xi²
+
+wa³ño² e³ko³be²
+
+minha-mãe
+
+irmã-maior canoa dela
+
+possessor
+
+ent poss ent poss
+
+poss: loc nom-gen
+
+'a canoa da irmã maior da minha mãe'
+
+e³ba³pñ² ka4 e²cñ³ap²
+
+três
+
+lugar governante-nominalizador
+
+mod
+
+cabeça ent poss
+
+possessor
+
+'o governante de três países'
+
+Quando uma locução nominal genitiva ou locução nominal básica se encontra encaixada dentro de uma frase nominal genitiva, falta-lhe o tagmema qualificador.
+
+4.1.4. LOCUÇÃO NOMINAL DE ORAÇÃO NOMINALIZADA.
+
+Tal locução consiste numa oração e nominalizador, pode ser nominalizada qualquer oração independente (v. 3.4).
+
+xi²pat³m² -at²
+
+bom - neg - nominalizador
+
+or desc
+
+nom
+
+'o mal'
+
+i³by³wat³-at²
+o - ajuda - nominalizador or: tr nom 'um ajudante'
+
+k³'a² be³-at²
+
+casa
+
+em - nom
+
+fragmento or
+
+'aquele na casa'
+
+ka³p³s² o³a²jẽm³-i²-at²
+
+ontem
+
+ele-chegou-nominalizador
+
+or intr
+
+nom
+
+'aquele que chegou ontem'
+
+4. 2. LOCUÇÃO EIXO-REFERENTE.
+
+Consiste tal locução num eixo obrigatório e referente obrigatório. Manifestam-se o tagmema eixo por uma locução nominal, um demonstrativo-locativo ou pronome preso, sendo manifestado o tagmema referente por um relacionador. As locuções eixo-referentes manifestam tagmemas Relacionadores em qualquer tipo de oração.
+
+k³'a² be³
+
+casa
+
+em
+
+eixo
+
+rel
+
+'na casa'
+
+o³we² -be³ mim - para eixo - rel 'para mim'
+
+i³xi²
+
+'it³ dk³'a² kay³
+
+mãe-dela
+
+filho casa
+
+a
+
+eixo: loc nom-gen
+
+rel
+
+'à casa do filho da mãe dela'
+
+k³'a²
+
+be³at²
+
+casa
+
+em - nom.
+
+eixo: or nom (não-verbal)
+
+'àquele na casa'
+
+kay³
+a rel
+
+ña³s²
+
+o³a²jẽm³i²at² kay³
+
+hoje
+
+ele-chegou-nom a
+
+eixo: or nom (verbal)
+
+rel
+
+'àquele que chegou hoje'
+
+Reconhecem-se como diagnósticos vários tipos de locuções eixo-referentes ao nível de oração. Alguns relacionadores ocorrem com mais de um tipo de oração, mas têm significado diferente segundo o tipo. É por esta razão que são postulados como tagmemas diversos ao nível de oração. No seguinte quadro tais relacionadores apresentam-se no eixo vertical; aparecem os tipos de oração no eixo horizontal, e nas células os diversos significados.
+
+b²xim³ kay² e³j² kñ² be³wi² be² / we²be³
+be³am²
+-m jo²'i³
+
+Intr
+à com com de a/para
+
+Tr
+
+Ptr
+
+Desc
+
+quanto a
+
+quanto a
+
+a/para por/ em
+benefício de mediante a respeito de
+
+Estativo como quer
+tornar-se como
+
+Quadro 7: SIGNIFICADO DE RELACIONADORES CONFORME O TIPO DE ORAÇÃO
+
+Os relacionadores acima apresentados descrevem-se mais plenamente, acompanhados de exemplos dos mesmos, nas seções que descrevem os tipos de oração em que ocorrem (seção 3).
+
+Os relacionadores locativos ocorrem em todo tipo de oração, menos na pseudo-transitiva, mas sem importante mudança de significado. Ocorrem os seguintes relacionadores locativos: be³ 'em', je³je² 'em cima de', xe² 'perto', tẽñ¹ma² 'pertinho', bi³ñn ²pe³ 'dentro de', do³pa²be³ 'diante de', da³bi³xe² 'ao lado de', ny³a²pe³ 'dentro', di³ot²pe³ 'embaixo', ka³ki³j² 'fora de', a³bi²'a³se² 'em cima de', no³m²j³ 'atrás', pi³da³se² 'no meio de'. Com exceção dos três primeiros, todos podem ser considerados multi-morfêmicos; não se reconhece, contudo, tal divisão aqui porque é complexo relacionar o significado dos morfemas na sua função nas formas acima descritas com aquele que apresentam em construções diversas. P. ex., bi³nn²pe³ 'dentro de' pode se dividir em -bi³ 'boca', -nn ² 'bosta' e pe³ 'em'.
+
+Os relacionadores sofrem reduplicaçao parcial quando é plural o sujeito da oração. Perdese a consoante final do relacionador na primeira sílaba na forma reduplicada; cf. o relacionador kñ² no exemplo que segue.
+
+i²xe³ o³a²jẽm³ bi²o³ k²kñ²
+
+ele chegou anta com-com
+
+Suj Pred
+
+Obj: e-r
+
+'Eles chegaram com anta.'
+
+ip²
+eles Suj: pluralizador
+
+Para reduplicação semelhante de verbos, cf. verbos posicionais (5.2.4.2).
+Todo relacionador pode ocorrer com pronomes presos, os quais constituem as mesmas formas ocorridas com substantivos facultativamente possuídos. (cf. 5.1).
+o³b²xim³
+mim - como pro-rel 'como eu'
+
+4.3. LOCUÇÃO VERBAL.
+Há três tipos de locução verbal -- a básica, a ideofônica e a modal. As locuções verbais manifestam tagmemas Predicados em orações ou Expansão em sentenças detalhadas.
+
+4.3.1. LOCUÇÃO VERBAL BÁSICA.
+Consiste tal locução de um tagmema cabeça obrigatório acompanhado ou não por tagmemas facultativos de modificador e qualificador. O tagmema cabeça se manifesta mediante um verbo (5.2). Manifesta-se o tagmema modificador por 1) advérbio, 2) verbo reduplicado, ou 3) verbo descritivo. O tagmema qualificador se manifesta por uma partícula qualificadora (4.1.1).
+
+1) Os advérbios expressam maneira, tempo ou quantia.
+
+Os advérbios de maneira são:
+
+daw³ ja³ñy³pñ¹ma³
+
+'depressa' 'só'
+
+daw³ñ²
+
+'devagar'
+
+cĩ¹cã¹/jĩ¹jã¹ 'muito'
+
+o'³j²
+ele foi
+
+daw³ñ²
+devagar
+
+o'³je²ka²pik³ jĩ¹jã¹
+
+ele trabalhou
+
+muito
+
+i³pi²
+dói
+
+jĩ¹jã¹
+muito
+
+Os advérbios temporais são:
+
+wa²ram² ma²bk³ ko³ap²
+
+'novamente' 'ainda' 'primeiro'
+
+wa²ram³ o'³jo²mõñ³
+novamente ele-o-colocou
+
+ma³ñ²to³ 'novamente'
+
+ky²
+
+'já'
+
+wa²'m ³ levar muito tempo para'
+
+Os advérbios quantitativos derivam-se dos nomes numerais (5.5.) pelo acréscimo de /m/ ao radical (se termina em vogal), ou pela mudança da consoante final em nasal homorganica (se termina em consoante).
+xep³xem² o³ce²k³k³k³
+duas vezes fomos passeando (xep³xep² ' dois')
+
+a²dem²
+
+o³ce²j³
+
+muitas vezes fomos (a²de² 'muitos')
+
+Os advérbios podem preceder ou seguir ao verbo com exceção de um advérbio temporal, o qual o segue sempre.
+
+wa²'m ³
+
+'levar muito tempo para'
+
+ta³ky² wa²'m³
+
+'leva muito tempo ralar mandioca' (ralá-la leva-muito-tempo-para)
+
+Ocorre com mais freqüência o advérbio daw³ 'rapido' em forma reduplicada uma ou mais vezes, p. ex.,
+
+daw²daw²daw²
+
+'rapidamente'
+
+daw³daw³ ñ²
+
+'lentamente'
+
+Às vezes na conversa ou em algum texto o radical ocorre até quatro vezes.
+
+daw daw daw daw 'muito rapidamente'
+
+Isto costuma denotar intensidade, sendo o tom sucessivamente mais alto em cada sílaba.
+
+2) Modificadores verbais reduplicados podem ocorrer.
+
+o'³j² wa³wa³
+ele-foi chorando (wa³ ' chorar')
+
+o'³ti²m²dek³ je³ko²do²do²don²
+ele-água-atravessou nadando (-do² 'nadar')
+
+Não é comum tal construção. Os únicos exemplos observados ocorrem com verbos intransitivos.
+
+3) O modificador pode ser qualquer verbo descritivo, dos quais o mais comum é i²mẽn³ 'assim'.
+
+i²mẽn³ o'³j²
+assim ele-foi mod cabeça 'ele foi assim'
+
+o'³je²wã³wã³ ya³'õ²be²ren²
+
+ele-gritou
+
+sua-voz-alta
+
+cabeça
+
+mod: v desc
+
+'ele gritou em alta voz'
+
+4.3.2. LOCUÇÃO VERBAL IDEOFÔNICA.
+
+Consiste tal locução em tagmemas de ideofone e cabeça obrigatórios em qual um ideofone pode preceder ou seguir ao tagmema cabeça. Consiste a cabeça num verbo flexionado. Os ideofones são na maioria enfáticos e estilísticos no que diz respeito ao seu caráter. Cada ideofone se relaciona semanticamente a um verbo específico. Os ideofones são considerados, portanto, 'pro-formas' dos verbos a que se relacionam. Quando ocorre um ideofone em locução verbal acompanhado de um verbo flexionado, este pode ser unicamente a forma completa do verbo do qual é pro-forma o ideofone.
+
+wh²⎯³ /
+
+o'³ñĩ²wn³ //
+
+ação de empurrar ele-o-empurrou
+
+ideo
+
+cabeça
+
+'Empurre. Ele o empurrou.'
+
+Muitos ideofones assemelham-se fonologicamente ao radical verbal do qual são proformas, com a única exceção de que qualquer coda final é substituída por /h/; se o radical não tem coda, acrescenta-se /h/, p. ex., k³r³rh² é ideofone do radical verbal -k³r³rk² 'amarrar'.
+Em outros casos acrescenta-se uma sílaba adicional ao radical verbal, p. ex., wn ³to³reh² é ideofone do verbo -to³re² 'pendurar'. Em outros casos não há semelhança fonológica com o verbo cujas pro-formas são, p. ex. põñ³, ideofone de -'² 'morrer', e jay4 ideofone do -a³jẽm³ 'chegar'.
+Os ideofones são amplamente usados em narrativas, seções das quais podem se consistir unicamente em ideofones. Já se notou a ocorrência freqüente de ideofones específicos de significação gramatical peculiar (1.3.3).
+Quando ocorre um ideofone isolado, funciona este como sentença exclamatória. Ocorrendo com verbo e forma parte de uma locução verbal.
+
+4.3.3. LOCUÇÃO VERBAL MODAL.
+Consiste tal locução em tagmemas de cabeça e modal obrigatórios A classe verbal e o modal que lhe segue determinam a forma do verbo que ocorre no tagmema cabeça. O tagmema modal consiste em partículas modais, as quais se dividem em três classes, segundo a forma verbal com a qual se apresentam. A seguir vêem-se as partículas modais:
+
+Classe 1: Classe 2:
+Classe 3:
+
+k² pa³'o²re² pt² o³jy²
+
+'de costume' 'incapaz de'; 'capaz de' 'pretender'
+
+pin² 'querer'; e
+
+A co-ocorrência delas com diversas formas do verbo é descrita em 5.2.2.
+
+ce³bok4 pa²'o²re²
+
+3ª sg boia incapaz-de
+
+v
+
+modal
+
+'Ele é incapazde boiar.'
+
+4.4. LOCUÇÃO POSICIONAL.
+
+Consiste tal locução numa cabeça obrigatória manifestada por uma partícula posicional ou por um verbo posicional, e de um qualificador facultativo manifestado por uma partícula qualificadora (4.1.1). As partículas posicionais são o³pop² 'deitado' e o³my² 'não-deitado'.
+
+o³pop²
+
+ñ³
+
+está deitado não
+
+cabeça
+
+qual
+
+Os verbos posicionais são descritos em 5.2.4.2.
+xik²'i³ ñ³
+sentado não cabeça qual
+As frases posicionais manifestam o tagmema posicional em orações estativas (3.5.1).
+NOTAS
+9 É possível analizar os pronomes da 1ª pl e 2ª pl como complexo de dois pronomes presos com relacionador (4.2), p. ex., o³ce³j². A 1ª pl excl pode ser o³- 1ª pessoa sg objeto 'me' mais ce²- pronome possessivo da 3ª pessoa sg 'dele' mais e³j² 'com', com perda de vogal, wy³j² 1ª pl incl pode ser pron subj da 2ª sg 'você' mais e³j² 'com, com mudança de vogal. ey³j² 2ª pl pode ser e³- pron suj 2ª sg 'você' mais i- (-y) 3ª sg marcador não-específico de pessoa de verbos descritivos 'ele', mais e³ji² 'com' com perda de vogal. Para outras occorrências dos pronomes o³-, ce²-, wy³- e ey³-, c. Quadro 9, seção 5.1.1.
+
+Capítulo 5 PALAVRA
+
+Há nove classes de palavras na língua Munduruku, das quais já se descreveram os pronomes em 4.1.2, os advérbios em 4.3.1. e os relatores em 4.2. As seis restantes vêm descritas na presente seção: substantivos (5.1), verbos (5.2), demonstrativo-locativos (5.3), tempo verbal (5.4), nomes numerais (5.5) e aspecto (5.6). Outras partículas são descritas ao longo do presente ensaio no nível em que são relevantes:
+1) nível de encontro: saudação, desafio, permissão
+2) nível de discurso: resumo e conclusão
+3) nível de parágrafo: resumo de acontecimentos, resposta, iniciador de parágrafo, ideofone direcional, resumo de processo
+4) nível de sentença: interrogativo consecutivo e conetor de oração
+5) nível de oração: existencial
+6) nível de locução: qualificador, partículas posicional e modal
+5.1. SUBSTANTIVO. Dividem-se os substantivos conforme o critério de possessão: há os inalienavelmente
+possuídos, os alienavelmente possuídos e os não-possuíveis.
+
+poss inal + prefixo + radical poss-inal ± sufixo
+
+poss al
+
+± prefixo + radical poss-al
+
+± sufixo
+
+não-poss
+
++ radical não-poss
+
+± sufixo
+
+Quadro 8: CLASSES DE PALAVRAS SUBSTANTIVAS
+
+Os substantivos inalienavelmente possuídos consistem num prefixo obrigatório, um radical subtantivo de possessão inalienável, e sufixos facultativos.
+
+o³-k² 10
+minha-roça pre-r poss inal 'minha roça'
+
+o³-k²-xi²xi²
+minha-roça-grande pre-r poss inal -suf 'minha roça grande'
+
+possessivo
+
+Consistem os substantivos alienavelmente possuídos num prefixo possessivo facultativo, um radical substantivo de possessão facultativa (alienável), e sufixos facultativos.
+
+we³-ko³be²
+minha-canoa poss-r poss al 'minha canoa'
+
+we³-ke³be²-'it²it²
+minha-canoa-pequena poss-r poss al -suf 'minha canoinha'
+
+Os substantivos não-possuíveis consistem num radical substantivo não-possuível e sufixos facultativos.
+
+João r não poss
+
+João'm João-defunto r não poss -suf
+
+5.1.1. PREFIXO. O seguinte quadro mostra as formas básicas dos prefixos possessivos.
+
+1ª sg 2ª sg 3ª sg 3ª refl 1ª pl ex 1ª pl in 2ª pl
+
+inalienável
+o³e³i³je³o³ce²wy³ey³-
+
+alienável
+we³e³ce³je³o³ce²wy³e³ey³-
+
+exemplo com exemplo com -'it² 'filho' ko³be² 'canoa'
+
+o³it²
+
+we³ko³be²
+
+e³'it²
+
+e³ko³be²
+
+i³'it²
+
+ce³ko³be²
+
+je³'it²
+
+je³ko³be²
+
+o³ce²'it² o³ce²ko³be²
+
+wy³'it² wy³e³ko³be²
+
+ey³'it²
+
+ey³e³ko³be²
+
+Quadro 9: PREFIXOS POSSESSIVOS PRONOMINAIS
+
+Traduz-se o reflexivo da terceira pessoa 'seu/sua próprio/a'. Os prefixos acima descritos possuem também as seguintes formas alternativas: 1) acrescenta-se -k antes de alguns termos de parentesco, p. ex., ok³pot² 'meu filho' (-pot² 'filho'), 2) antes de radicais nasais ocorrem vogais nasalizadas, p. ex., õ³õ²hõ² 'meu xodó' (-õ²hõ² 'xodó'), 3) o³ se transforma em wantes de radical com /a/ inicial, p. ex., wak³pi²da³ 'minha nuca' (-ak³pi²da³ 'nuca'), 4) i³considerado a forma básica dos prefixos obrigatórios da terceira pessoa, 5) d é substituído por t- em radicais que apresentam d- inicial, p. ex., ta³xa² 'sua lenha' (-da³xa² 'lenha'), 6) yocorre com radicais que se iniciam com vogal media', p. ex., ya³a² 'sua cabeça' (-a³'a² 'cabeça').
+5.1.2. SUFIXO.
+Ocorrem os seguintes sufixos: -it²'it² 'diminutivo', -xi²xi² 'aumentativo', -y² 'plural', -in² 'particularizante', -m ² 'defunto', -bn³ 'inteiro'.
+
+O Quadro seguinte mostra a ocorrência de sufixos com diversos tipos de radicais substantivos e de pronomes (5.1.3).
+Classe de radical (com exemplo) -'it²'it² -xi²xi² -y² -in² -'m²
+
+1a inalienavelmente possuído: -da² ' semente'
+
+X
+
+alienavelmente possuído:
+
+2b ko³be² 'canoa'
+
+X
+
+3c não-possuível:
+
+i) fenômeno natural: ka²xi³ 'sol'
+
+X
+
+ii) seres inanimados: a³ya²cat² 'mulher'
+
+X
+
+iii) nomes próprios:
+
+João
+
+4d pronomes: i³te² 'ele'
+5e verbos nominalizados:
+je³bo²doy³doy³'³kat²
+'quem descansa'
+
+je³bo²doy³doy³ap²
+'descanso'
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+Quadro 10: SUFIXOS SUBSTANTIVOS
+
+Há certa limitação na ocorrência e co-ocorrência destes sufixos. São mutuamente exclusivos -'it²'it² e -xi²xi² p. ex., a³ya²cat²'it²'it² 'moça' (mulher-diminutivo), ko³be³xi²xi² 'canoa grande' (canoa-aumentativo). Ocorre in² só quando existe pluralizador, p. ex., pn ² ko³be²y³in² 'uma das canoas' (uma canoa-pluralizador-particularizante). 'm² 'defunto' ocorre apenas com substantivos de pessoa, palavras com o nominalizador pessoal -at² ou o nominalizador de pessoa habitual -k³at², ou substantivos que significam animal ou pássaro. É obrigatório ao se falar de pessoas defuntas. Reduplica-se quando é plural, o referente subjetivo, p. ex., i³te²'m ² 'ele, defunto' (ele-defunto), i³te²y³ 'm²m² 'eles, defuntos' (ele-plural, defunto-reduplicado). -bn³ ocorre somente com substantivos temporais, p. ex., i³xi³ma²bn³ 'a noite inteira' (i³xi³ma² 'noite').
+5.1.3. RADICAL SUBSTANTIVO. A classificação de substantivos conforme o critério de possessão, descrito em 5.1, aplica-
+se outrossim aos radicais e raízes substantivos. Secionando-se estas classes ao nível de radical, há duas classes de radical -- não-classificado e classificado; e ao nível de raiz, duas classes de raiz -- não-classificadora e classificadora.
+5.1.3.1. RADICAL NÃO-CLASSIFICADO. Consistem tais radicais num simples radical substantivo de qualquer classe, p. ex. :
+
+-'a²
+'cabeça' raiz poss inal
+
+ko³be²
+'canoa' raiz poss al
+
+ka²xi³
+'sol' raiz não poss
+
+5.1.3.2. RADICAL CLASSIFICADO.
+
+Tais radicais consistem numa raiz substantiva das classes inalienavelmente possuída e alienavelmente possuída, mais classificador. O radical resultante pertence à classe do primeiro elemento.
+
+ik³-'a²
+casa-cabeça raiz poss inal -clsdr 'casa'
+
+a²ko³-ba4
+raiz poss al -clsdr 'banana'
+
+5.1.3.3. RAIZ CLASSIFICADORA.
+São estas um grupo de umas cinqüenta raízes substantivas inalienavelmente possuídas. Podem funcionar como radical completo. Muitas delas, mas não todas, são partes do corpo, p. ex., -ba4 'braço', -diñ² 'fumaça'. Podem funcionar como radical por direito próprio, mesmo que não aconteça isto com freqüência. Sua função mais comum é de classificar objetos que possuem semelhantes características físicas. Ocorrem como pro-formas dos substantivos completos que classificam, e se incorporam em nomes numerais, demonstrativos-locativos e verbos num sistema de concordância.11
+
+Dividem-se fonologicamente os classificadores em três classes: 1) radicais que se iniciam com vogal medial, 2) radicais com d- inicial, e 3) outros. Cada classificador tem três formas, os quais são apresentados no quadro seguinte.
+
+Radical com vogal mediai inicial
+Radical com d- inicial Outros radicais
+substantivos
+
+forma 1
+ya² tp² i³ba4
+
+forma 2
+-'a² -dp² -ba4
+
+forma 3 tradução -ya²- 'cabeça' -tp² 'folha' -s³ba4 'braço'
+
+Quadro 11: FORMAS ALTERNATIVAS DE CLASSIFICADORES
+
+A forma 1 liga-se como prefixo a verbos descritivos na qualidade de pro-forma para substantivos daquela classe. A forma 2 é classificadora, usada como sufixo para nomes numerais e demonstrativos-locativos ou incorporada em verbos referentes a sujeitos. A forma 3 é classificadora incorporada em verbos não referentes a sujeitos.
+
+(forma 1): k³'a² ya³dip²
+
+(forma 2): i³bo³'a² k³'a²
+
+'casa bonita'
+ko³s²dp³ tp³tip²
+'bonita folha de palmeira'
+a²ko³ba4 i³ba4dip²
+'banana bonita'
+
+'aquela casa'
+i³bo³dp² ko³s²dp³
+'aquela folha de palmeira'
+i³bo³ba4 a²ko³ba4
+'aquela banana'
+
+(forma 3): a³ño²kat²kat² k³'a² o'³ya²jo²jo² 'o homem viu a casa'
+a³ño²kat²kat² ko³s²dp³ o'³tp²co²co²
+'o homem viu a folha de palmeira'
+a³ño²kat²kat² a²ko³ba4 o'³s²ba4co²co²
+'o homem viu a banana'
+
+5.1.3.4. RAIZ NÃO-CLASSIFICADORA.
+Tais raízes são de cinco sub-classes, determinadas por ocorrência com sufixos substantivos (quadro 10) e pelos tagmemas que manifestam: 1) nomes próprios, p. ex., 'João', 2) tratamentos sociais, p. ex., a²wa² 'avó', 3) tempo, p. ex., ka³p²s² 'ontem', 4) locação, p. ex., m² 'bem alto', 5) fenômenos naturais e outros, p. ex., ka²xi³ 'sol'. Os nomes próprios manifestam tagmemas vocativos, subjetivos ou objetivos. Os tratamentos abrangem os termos de parentesco que manifestam o tagmema Vocativo. (Quando tais termos aparecem como cabeça de locuções substantivas, são reduplicados, p. ex., bay³ 'ó pai', bay³bay³ 'pai').
+5.2. VERBO.
+Os verbos serão descritos nesta seção como se segue: Estrutura de palavras verbais (5.2.1), Verbos modais (5.2.2), Estrutura de radical verbal (5.2.3) e Classes de raízes verbais (5.2.4).
+5.2.1. ESTRUTURA DE PALAVRAS VERBAIS.
+Existem cinco classes de palavras verbais: intransitivas, referentes a sujeito, transitivas, descritivas e pseudo-transitivas. A raiz verbal das intransitivas, referentes a sujeito e transitivas pode ocorrer em uma dentre quatro formas (5.2.4.1). Quando ocorrem as formas de acontecimento único ou acontecimento repetido, o verbo tem desinência obrigatória, como se observa pelo quadro seguinte. Quando do ocorrem os estados durativo ou incoativo, tal desinência não é mais possível.12 Os verbos descritivos e pseudo-transitivos ocorrem em apenas uma forma e têm desinência obrigatória.
+
+intr + suja
+
+± clsdr
+
++ rvintr
+
+r-s + sujb + mcdr-foco ator ± (clsdr + e) + rvr-s
+
+tr + objpro / (+ sujb + clsdr/mcdr-obj/refl)
+
++ rvtr
+
+desc + sujc / clsdr
+
++ rvdesc
+
+ptr + sujd + mcdr-inst
+
++ rvptr
+
+Quadro 12: ESTRUTURA DE VERBOS FLEXIONADOS
+
+As seções seguintes descrevem estes verbos. Em primeiro lugar, são apresentados os marcadores de sujeito, e a seguir cada classe de verbo separadamente.
+Os marcadores de pessoa-sujeito são quatro grupos que ocorrem somente nas formas flexionadas do verbo, como se observa pelo quadro seguinte.
+
+Grupo a Grupo b Grupo c Grupo d
+
+1ª sg 2ª sg 3ª sg 1ª pl ex 1ª pl inc 2ª pl
+
+o³e³o'³o³ce²wy³ey³-
+
+o³e³o'³o³ce²a³e³pe³-
+
+o³e³i³o³ce²wy³ey³-
+
+we³e³i³o³ce²wy³e³ey³e³-
+
+Quadro 13: MARCADORES DE PESSOA-SUJEITO
+
+Ocorre o grupo a com verbos intransitivos, o grupo b com os transitivos e com os referentes a sujeito, o grupo c com os descritivos e o grupo d com verbos pseudo-transitivos.
+5.2.1.1. VERBO INTRANSITIVO. Estruturam-se tais verbos por um sujeito obrigatório, um classificador facultativo e um
+radical verbal intransitivo obrigatório. Diferem dos demais verbos por sua classe de radicais e afixação. Ocorrem no Predicado de orações intransitivas.
+1) Ocorrem obrigatoriamente com o grupo a dos marcadores de sujeito quando flexionados.
+o³-'at²
+mcdr-suj- rv intr 'caí'
+
+2) Ocorrem os classificadores incorporados ao verbo intransitivo quando é um substantivo classificado o sujeito da oração. Incorpora-se o classificador ao verbo após o marcador de pessoa-sujeito e antes do radical verbal.
+
+k³'a² o'³-ya²-'at³
+
+casa ela - (coisa-redonda) - caiu
+
+Suj
+
+Pred: mcdr-suj - clsdr – rv intr
+
+5.2.1.2. VERBO REFERENTE A SUJEITO.
+Estruturam-se tais verbos por sujeito e marcador de foco ator obrigatórios, um classificador mais e- facultativo, e um radical verbal referente a sujeito obrigatório. Diferenciam-se de todos os outros verbos por sua classe de radical e sua afixação. Ocorrem no predicado das orações intransitivas.
+1) Ocorrem obrigatoriamente com o grupo b de marcadores de sujeito quando flexionados.
+o³-je³-kõn³
+mcdr-suj -je- rv r-s 'comi'
+
+2) Apresenta-se o morfema -je³- em toda forma do verbo. Este morfema focaliza a atenção no ator em vez de na ação. Ocorre diretamente após o marcador de sujeito do grupo b e apresenta os seguintes alomorfes: -ce² - 1ª sg., 2ª sg., 1ª pl incl; -ye² - 2ª pl; e -je² - 3ª sg e pl e 1ª pl excl.
+o'³-je²-kõn³
+mcdr-suj -je- rv r-s
+
+3) Incorporam-se os classificadores aos verbos referentes a sujeito quando o sujeito da oração é substantivo classificado. Ocorre o classificador com a ligação obrigatória -e-, precedendo o radical verbal.
+
+k³'a² o'³-je²-a³-e²-bok4
+
+Suj
+
+Pred: mcdr-suj -je- clsdr -e- rv r-s
+
+'A casa flutuava.'
+
+5.2.1.3. VERBO TRANSITIVO. Estruturam-se tais verbos por um objeto pronominal obrigatório ou um sujeito mais
+classificador, marcador de objeto ou reflexivo obrigatório e um radical verbal transitivo.
+Diferenciam-se de todo verbo alheio por sua classe de radical e sua afixação. Ocorrem no predicado de orações transitivas.
+1) Os marcadores de objetos pronominais são: o³- 'me', e³- 'você', wy³- 'nós, inc', o³ce³- 'nós, exc', ey³- 'vocês' ;
+
+a³ño²kat²kat² o³-m³wn³
+
+homem
+
+me-empurra
+
+Suj: s
+
+Pred: obj pro -rv tr
+
+'O homem me empurrou.'
+
+É idêntica esta lista àquela dos prefixos pronominais possessivos de substantivos obrigatoriamente possuídos, com a única exceção de que não ocorre a terceira pessoa.
+
+Podem-se indicar outrossim os objetos da terceira pessoa por substantivos livres ou demonstrativos-locativos mais o marcador de objeto do verbo.
+
+a³ño²kat²kat² i²bo³
+
+o'³-y-a²o²ka³
+
+homem
+
+aquele
+
+ele-o-matou
+
+Suj: s
+
+Obj: dem-loc Pred: mcdr-suj - mcdr-obj - rv tr
+
+'O homem matou aquele.'
+
+a³ño²kat²kat² bi²o³ o'³-y-a²o²ka³
+
+homem
+
+anta ele-a-matou
+
+Suj: s
+
+Obj: s Pred: mcdr-suj - mcdr-obj - rv tr
+
+'O homem matou a anta. '
+
+Se o ator é da primeira ou segunda pessoas, deve ocorrer o tagmema Sujeito na oração a menos que já esteja bem clara a base do contexto.
+2) Os verbos transitivos ocorrem obrigatoriamente com o grupo b de marcadores de sujeito quando flexionados.
+o'³-jo²-da²
+mcdr-suj -jo- rv tv 'Ele o cozinhou.'
+
+3) Quando o substantivo classificado é objeto de verbo transitivo, ocorre o classificador depois do prefixo subjetivo b e antes do radical verbal.
+
+a³ño²kat²kat² a²ko³ba4
+
+homem
+
+banana
+
+Suj: s
+
+Obj: s
+
+'O homem comeu a banana.'
+
+o'³-s²ba4-'o²
+ele-clsdr - comeu Pred: mcdr-suj - clsdr - rv tr
+
+4) O morfema -jo²- ocorre em todas as formas de verbo transitivo flexionadas com marcadores de pessoa do grupo b; -i³- ocorre com todo radical verbal transitivo (5.2.3.3). O significado atribuído a este morfema é de marcador de objeto.
+
+i³-my³-²hm²
+ele - causa - ascende
+mcdr-obj - caus - ascender 'ele o fez ascender'
+
+o'³-jo²-'o³
+mcdr-suj - mcdr-obj - rv tr 'ele o comeu'
+
+-jo²- tem dois alomorfes. -y- ocorre com radicais verbais que se iniciam com vogal medial. Em radicais com d- inicial, o d- modifica-se em t- para marcar o objeto.
+
+o'³-y-a²o²ka³
+mcdr-suj - mcdr-obj - rv tr 'ele o matou' (-a³o²ka³ 'matar')
+
+o'³-t-a²kat4
+mcdr-suj - mcdr-obj - rv tr 'ele o cortou' (-da²kat4 'cortar')
+
+5) O marcador reflexivo é je³we³-/ce³we³-/ye³we³-. Ocorre depois de sujeito b nas formas reflexivas dos verbos. ye³we²- ocorre com a 2ª pl, ce³we³- com a 1ª sg, 2ª sg, e 1ª pl inc; je³we²- ocorre em outras circunstâncias.
+o³ce³we³wy³
+mcdr-suj - mcdr-refl - rv tr 'Eu me lavei.'
+
+5.2.1.4. VERBO DESCRITIVO. Estruturam-se tais verbos por um sujeito ou classificador e um radical verbal descritivo
+obrigatórios.
+Diferenciam-se de todo verbo alheio por sua classe de radical e sua afixação. Ocorrem no Predicado de orações descritivas.
+1) Ocorrem obrigatoriamente com o grupo c de marcadores de sujeito, tendo apenas uma forma. O tagmema de Tempo verbal ocorre em orações descritivas para indicar contexto temporal.
+i³-dip²
+mcdr-suj – rv desc 'é bonito'
+2) Quando substantivos classificados são sujeitos de verbos descritivos, o classificador substitui o marcador de sujeito c.
+k³'a² ya³dip²
+Suj: s Pred: clsdr - rv desc 'A casa é bonita.'
+
+5.2.1.5. VERBO PSEUDO-TRANSITIVO.
+Estruturam-se tais verbos por um sujeito, marcador de instrumento e radical verbal pseudo-transitivo obrigatórios. Diferenciam-se de todo verbo alheio por sua classe de radicais e sua afixação. Ocorrem no predicado de orações pseudo-transitivas. Já que estes verbos, bem
+
+como os descritivos, ocorrem apenas numa forma, o contexto temporal é indicado por tagmemas de Tempo verbal. Ocorrem obrigatoriamente com marcadores de sujeito do grupo d.
+we³-t-ay³bit²
+mcdr-suj - mcdr-inst - rv ptr 'eu o sei'
+
+O morfema -t- é o marcador instrumental (3.1).
+
+5.2.1.6. AUSÊNCIA DE MARCADOR DE SUJEITO.
+Ocorrem os radicais verbais com raízes numa dentre quatro formas (5.2.4.1). Com as variantes de acontecimento repetido e acontecimento único, o verbo é tal como acima se descreve. Com as variantes de estado durativo e estado incoativo, o verbo nunca contém marcador de sujeito, mas a fora isso é tal como descrito acima.
+
+ya³o²kam³
+rv tr (forma incoativa) 'está para matá-lo'
+
+ya³o²ka³kam³
+rv tr (estado durativo) 'está matando-o'
+
+5.2.2. VERBO MODAL.
+São de infrequente ocorrência os verbos modais. Exigem descrição à parte por terem estrutura dissimilar à dos outros verbos; além disso, sua estrutura varia segundo o modal específico com que ocorrem na locução verbal modal (4.3.3).
+
+Descreve-se mais simplesmente a estrutura dos verbos modais por uma declaração das diferenças entre estes e os verbos correspondentes enumerados em 5.2.1.1-5.
+
+1) A partícula modal 1 'habitual' ocorrendo, o marcador de sujeito não aparece no verbo; este vem na forma de acontecimento repetido (5.2.1), com exceção dos verbos posicionais (5.2.4.2).
+
+'at²'at²'k³
+rv intr modal 1 'ele costuma cair'
+
+i³ba4'at²'at²'k³
+clsdr rv intr modal 1 'A banana costuma cair.'
+
+Quando ocorre a partícula modal 1 com verbos posicionais, apresenta-se o radical posicional seguido apenas pela partícula modal.
+xik³ ’k²
+rv pos modal 1 'Alguém costuma sentar-se.'
+
+2) A partícula modal 2 'incapaz' ocorre com radicais verbais intransitivos, referentes a sujeito, posicionais e transitivos; o verbo resultante apresenta estrutura diversa em cada caso.
+Indica-se o sujeito mediante prefixo pronominal no caso de verbos não-transitivos; no caso de verbos transitivos apresenta-se também o objeto. A forma pronominal usada para indicar
+
+o sujeito é a mesma que ocorre com os substantivos inalienavelmente possuídos (5.1.1). A forma pronominal usada para indicar o objeto é a mesma que ocorre com os verbos (5.2.1.3).
+
+Com a raiz verbal intransitiva (5.2.1), ocorre a partícula modal 2 com prefixo modal obrigatório de sujeito, com ou sem classificador e a variante verbal de acontecimento único.
+
+i³-'at²
+
+pa³'o²re²
+
+mcdr-suj - pro - rv intr modal 2
+
+'Ele é incapaz de cair.'
+
+i³-ba4-'at²
+
+pa³'o²re²
+
+mcdr-sui - clsdr - rv intr modal 2
+
+'A banana é incapaz de cair.'
+
+Com raízes verbais referentes a sujeito (5.2.4), ocorre a partícula modal 2 com facultativo prefixo marcador de pessoa ou classificador e com a variante verbal de acontecimento único.
+
+we³-bok4
+
+pa²'o²re²
+
+mcdr-suj - rv rs modal 2
+
+'Sou incapaz de boiar.'
+
+Com uma raiz de verbo posicional (5.2.4.2), ocorre a partícula modal 2 com facultativo prefixo marcador de pessoa mais o radical verbal. Não se apresentam classificadores nesta construção.
+
+we³-xik³
+
+pa²'o²re²
+
+mcdr-suj rv pos modal 2
+
+'Sou incapaz de me sentar.'
+
+Com raiz de verbo transitivo (5. 2.4), ocorre a partícula modal 2 com marcador de objeto e/ou classificador; apresenta-se a variante verbal de acontecimento único.
+
+i³-kot³
+
+pa²'o²re²
+
+mcdr-obj - rv tr modal 2
+
+'Ele é incapaz de cortá-lo.'
+
+i³-ba4-kot²
+
+pa³'o²re²
+
+mcdr-obj - clsdr - rv tr modal 2
+
+'Ele é incapaz de cortar a banana.'
+
+3) Ocorre a partícula modal 3 sem marcador de sujeito e com classificador facultativo na variante de acontecimento único de raiz verbal.
+
+'at² o³jy²
+rv intr modal 3 'quer cair'
+
+je³bok4 o²jy²
+rv r-s modal 3 'quer boiar'
+
+Quando não ocorrem marcadores de pessoa nas construções modais, apresentam-se de praxe pronomes livres que servem para identificar o ator.
+A partícula modal 3 ocorre com verbos posicionais (5.2.4.2), como adiante se descreve: em posição inicial apresenta-se o radical posicional, seguido do marcador de classe posicional 3 (-'i²), seguido este da ligação -e³- seguido da partícula modal 3.
+
+xik³'i²
+
+e³o³jy²
+
+rv pos mcdr classe e - modal ³
+
+'Alguém quer sentar.'
+
+5.2.3. ESTRUTURA DO RADICAL VERBAL. São quatro as classes de radical verbal, apresentando cada uma deles sua estrutura
+característica.
+5.2.3.1. RADICAL INTRANSITIVO. Tais radicais ver- bais podem ser simples: 'at²'an² 'está caindo'
+
+A seguir são apresentados radicais intransitivos complexos:
+1) Verbo nominal ou descritivo mais verbalizador. Consiste o verbalizador no acréscimo de uma nasal a substantivos que terminam em vogal, ou na mudança de uma oclusiva na sua variante nasal homorgânica mais o potencial de reduplicação.
+
+ka³da³i²him² 'está plantando' (ka³da³i² 'a planta')
+
+op²om²
+
+'está amadurecendo'
+
+(-op² 'maduro' verbo descritivo)
+
+2) Substantivo mais raiz verbal intransitiva. no²kap³kam³ 'florescimento' (no² 'flor' -substantivo; kap³kam³ 'está passando' -- verbo intransitivo).
+3) O modificador de classe verbal i²- mais uma raiz verbal transitiva. -i²pik³ 'queimou' (-pik³ 'queimar' -- verbo transitivo).
+
+5.2.3.2. RADICAL REFERENTE A SUJEITO. Tais radicais podem ser simples, p. ex., -kõn³kõn³ 'está comendo.' Como se explica em
+5.2.1.2., ocorre obrigatoriamente o marcador -je³ - com a raiz para formar este radical.
+A seguir é apresentada a lista dos radicais complexos de verbos referentes a sujeito:
+1) Raiz nominal ou verbo locativo ou descritivo mais verbalizador.
+
+je³ka²je³pi²pim² 'está suando' (ka²je²pi³ 'calor')
+
+je³²him² 'está subindo' (m² 'em cima' -- locativo)
+
+je³ka³'²'m²
+
+'está ficando zangado'
+
+(-ka³'² 'zangado')
+
+2) -ñe³ -mais verbo transitivo.
+
+je³ñe³b²bm²
+
+'está se lembrando'
+
+(-b²bm² 'apanhando' -- verbo transitivo)
+
+5.2.3.3. RADICAL TRANSITIVO. Tais radicais verbais podem ser simples:
+
+-da²dam²
+
+'está cozinhando'
+
+A seguir enumeram-se radicais transitivos complexos:
+1) Substantivo mais raiz verbal transitiva descritiva, intransitiva ou referente a sujeito. i³bi²õñ³bk²'k²'ñ² 'fotografando o' (i³bi²õñ³bk² -- 'alma', k²'ñ² 'está apanhando' -- verbo transitivo)
+
+i³bi³sẽm²sẽm²
+
+'estalando os lábios'
+
+(i³bi³ 'a-boca-dele', -sẽm² -- 'liso' -- verbo descritivo)
+
+i³bi³do²don²
+
+'enfiando-o'
+
+(i³bi³ 'a-boca-dele', -do²don² 'vindo' -- verbo intransitivo)
+
+i³bi³way²way²
+
+'sorrindo'
+
+(i³bi³ 'a-boca-dele', -way²way² 'rindo' -- verbo referente a sujeito)
+
+2) Marcador de movimento transitivo mais raiz de verbo transitivo de movimento (5.2.4.2).
+
+-d³j³õm²õm²
+
+'carregando-entrando'
+
+(õm²õm² 'entrando' -- verbo de movimento intransitivo)
+
+3) Raiz de verbo descritivo mais raiz de verbo transitivo.
+
+i³po³xi²jo²jom²
+
+'pesando-o'
+
+(i³po³xi² 'é pesado' -- verbo descritivo; jo²jom² 'vendo' -- verbo transitivo)
+
+4) Marcador causativo -m³- mais raiz verbal transitiva, intransitiva, referente a sujeito, pseudo-transitiva ou descritiva.
+
+-m³- tem o alomorfe -my³-, o qual ocorre com raízes verbais intransitivas. O -m- se transforma em -ñ- nas formas flexionadas para indicar marcador de objeto.
+
+i³my²'at²'an²
+
+'fazendo-o cair'
+
+('at²'an² 'caindo' -- verbo intransitivo)
+
+i³my³²hm²
+
+'fazendo-o subir'
+
+(-i²hm² 'subindo' -- verbo referente a sujeito)
+
+i³m³sp²sm²
+
+'limpando-o'
+
+(-sp²sm² 'limpando' -- verbo transitivo)
+
+i³m³tay³bit³bin²
+
+'está ensinando-o'
+
+(i- marcador de objeto; -m³- partícula causativa; -d- → -t- marcador de
+
+instrumento; -day³-bit³ 'saber' -- verbo pseudo-transitivo)
+
+i³m³ok²oñ²
+
+'enegrecendo-o'
+
+(-ok² 'preto' verbo discritivo)
+
+o'³ñy²'at³
+
+'ele o fez cair'
+
+(o'³ - marcador de sujeito; -my³ partícula causativa; m → ñ marcador de objeto;
+
+'at³ 'cair' verbo intransitivo)
+
+5.2.3.4. RADICAL DESCRITIVO.
+
+Tais radicais podem ser simples, p. ex., -dip² 'bonito'. Os dados até agora colhidos apresentam apenas um tipo de radical descritivo complexo: substantivo mais radical verbal descritivo.
+
+ya4ñy4ba³'a²rẽm²
+
+'afobado'
+
+(ya4ñy4-
+
+'pensamentos dele' - substantivo;
+
+-ba³'a²rẽm² 'escondido' - verbo descritivo)
+
+5.2.3.5. RADICAL PSEUDO-TRANSITIVO. Tais radicais são simples, p. ex., -day³bit² 'saber'.
+
+5.2.4. CLASSES DE RAIZ VERBAL.
+Há cinco classes principais de raiz verbal; intransitiva, referente a sujeito, transitiva, descritiva e pseudo-transitiva. É esta última uma classe mínima integrada por dois membros. As outras são amplas e latas. Reconhecem-se tais classes como mutuamente exclusivas, coocorrendo diversos afixos com seus radicais.
+
+5.2.4.1. FORMAS ALTERNATIVAS.
+As raízes intransitivas, transitivas e referentes a sujeito possuem quatro formas alternativas. Pode-se observar a relação fonológica entre estas quatro formas através dos seguintes exemplos do verbo 'at²'an² 'caindo'.
+
+acontecimento repetido
+-'at²'at²
+
+acontecimento único
+-'at²
+
+estado durativo
+'at²'an²
+
+estado incoativo
+'an²
+
+Quadro 14: AS QUATRO VARIANTES DA RAIZ VERBAL
+
+Alguns poucos verbos consistem em duas sílabas idênticas na forma correspondente a acontecimento único; esta sílaba então se repete duas ou três vezes na forma correspondente a acontecimento repetido, p. ex. , -wã³wã³ 'gritou' (acontecimento único), -wã³wã³wã³ 'estava gritando' (acontecimento repetido). Além destes exemplos, aplicam-se a estas quatro variantes as seguintes regras fonológicas.
+
+Se a forma de acontecimento único termina en consoante, é possível predizer a forma de estado incoativo da seguinte maneira:
+
+Se a consoante final é w, y, m, n ou ñ, serão idênticas as formas de estado incoativo: se é outra consoante, é idêntica a forma de estado incoativo com exceção da mudança da consoante final em nasal com o mesmo ponto de articulação.
+
+-wy³
+acontecimento único 'lavou'
+
+wy³
+acontecimento incoativo 'lavará'
+
+-dot²
+acontecimento único 'veio'
+
+don²
+acontecimento incoativo 'virá'
+
+Se a variante de acontecimento único não termina em consoante, não se pode predizer fonologicamente a forma de estado incoativo. É de notar, porém, que as variantes de estado incoativo terminam sempre em w, y, m, n ou ñ.
+
+A variante de estado durativo é sempre combinação das formas de acontecimento único e estado incoativo, nesta ordem; a forma de acontecimento repetido é reduplicação de acontecimento único.
+
+As raízes podem ser mono ou multissilábicas, mas os princípios acima referidos aplicamse à raiz inteira.
+
+-k4r4ko²
+acontecimento único 'levou'
+
+-k4r4ko²k4r4kom²
+estado durativo 'está levando'
+
+-ce²rep²
+acontecimento único 'escorregou'
+
+-ce²rep²ce²rem²
+estado durativo 'está escorregando'
+
+Nas raízes monossilábicas, qualquer forma de acontecimento único que começa com vogal ocorre com /h/ entre os elementos de acontecimento único e estado durativo.
+
+-a²
+acontecimento único 'mordeu'
+
+-a²ha²
+acontecimento repetido 'estava mordendo'
+
+-am²
+incoativo 'vai mordê-lo'
+
+-a²ham²
+estado durativo 'está mordendo-o'
+
+Estas quatro variantes proporcionam à língua o que se chama 'tempo verbal', mas não se deve entender esta palavra como se cada forma constituísse um tempo diferente. 'Acontecimento único' refere-se a um evento simples ou no passado ou no futuro. 'Acontecimento repetido' relaciona-se a eventos repetidos no passado ou no futuro. 'Incoativo', pelo contrário, refere-se a um espaço de tempo bem curto. Usa-se quando já se iniciou a ação ou está iminente. O estado durativo assemelha-se aos verbos progressivos. Dá-se esclarecimento adicional das relações temporais pelo uso em orações de tagmemas temporais, especialmente com o estado durativo e com verbos descritivos e pseudo-transitivos, os quais não têm todas as quatro variantes. Esta classificação em quatro classes conforme o tempo verbal contrasta com a divisão em três subclasses de verbos que ocorrem com integrantes do tagmema temporal (5.4) e que diferenciam o passado, presente e futuro.
+
+5.2.4.2. SUB-CLASSES DE RAIZ.
+Podem-se reconhecer várias outras sub-classes à base de ocorrência potencial ou obrigatória em dados segmentos. As que se seguem são as mais importantes.
+
+1) Os verbos descritivos podem ser sub-classificados segundo sua reduplicação ou ausência da mesma. Nos verbos que possuem esta característica, sua reduplicação indica intensidade, p. ex., i³ka³'² 'selvagem', i³ka³'²'² 'muito selvagem'.
+
+Os verbos descritivos também se reduplicam com o significado de pluralidade quando ocorrem como advérbios em frases verbais modificadas (v. 4.3.1). Quando o sujeito é plural, a descrição se reduplica, p. ex., o³e²xe³ i³re³ 'ele chegou com fome' (ele-chegou ele-com fome), o³e²xe³xe³ ip² i³re³re³ 'eles chegaram com fome' (ele-chegou eles ele-comfome-reduplicado).
+
+2) As palavras de coloração formam uma sub-classe de verbos descritivos. O segundo elemento das suas formas reduplicadas ocorre com diversas vogais que indicam matiz de cor, como adiante se observa:
+
+i³pak³pek² i³pak³pk² i³pak³pst²
+
+'mais ou menos avermelhado' 'vermelho' 'vermelhíssimo'
+
+As raízes de cor incluem: -pak³ 'vermelho'; -pek³ 'amarelo'; -rem³ 'verde/azul'; -rt² 'branco'; -kit² 'verde' e -ok² 'escuro/preto'. Atuam estas da mesma maneira que -pak³ 'vermelho' (q. v.), p. ex., i³ok²ek² 'mais ou menos preto', i³pek³pek³ 'amarelado'.
+
+3) Os verbos de movimento transitivo formam uma sub-classe de verbos transitivos. O marcador de movimento -d³j³ ocorre imediatamente antes dos verbos de movimento intransitivo para darem o significado transitivo.
+
+-d³j³jẽm²jẽm²
+(-jẽm²jẽm² 'saindo')
+
+'carregando-saindo'
+
+4) Uma forma especial do verbo transitivo i³'e²'em² 'está dizendo-o' manifesta o tagmema Predicado em orações citacionais. Isto vem descrito em 3.1.5.
+
+5) Uma pequena sub-classe de três verbos intransitivos -- 'e²'em², ny²ny² e dop³dom³ -- funciona como tagmema de tempo verbal em orações (5.4). Todos três significam 'ficar', 'estar' ou 'morar', conforme o contexto em que se usam. Estes verbos desempenham duas funções: proporcionam tempo verbal quando ocorre um tagmema-predicado, e podem integrar o próprio predicado.
+
+ky³je²
+
+a³o²y³ kat³ kot²kon² o³so²dop³ //
+
+Há muito tempo mulheres roça limpando estavam
+
+Tempo cronológico Suj
+
+Obj Pred
+
+Tempo verbal
+
+'Em tempos passados, as mulheres limpavam as roças.'
+
+je³da²²da²m²
+correndo Pred: loc v intr
+
+o³s²ny³ //
+ele-estava 'Ele estava correndo.'
+
+6) Os verbos posicionais são uma sub-classe de verbos integrada por sete elementos; denotam posição física e ocorrem em orações estativas locativas (3.5.1.2). A forma flexionada consiste em um marcador de classe 2 facultativo seguido por radical verbal posicional e marcador de classe 3 obrigatórios. O marcador 2 é ka³- e o 3 -'i³. Se ocorre ka³-, apresentase a forma reduplicada do radical, marcando pluralidade, p. ex., xik³'i² 'está sentado', ka³xik³xik³'i², 'estão sentados'. Num dos textos dados ocorre uma segunda reduplicação do radical para produzir a idéia 'muitos', p. ex., ka³xik³xik³xik³'i² 'muitos estão sentados'.
+Os radicais posicionais são: -xik³ 'sentado', -mn² 'grudado a alguma coisa / trepado nas costas', -cñ³ 'de pé, -bẽñ³ 'fincado no chão', -to³ro³ 'pendurado', -po³ 'deitado', e -pa³rak³ 'atolado num buraco'. Até o momento não se confirma a incorporação de classificadores em verbos posicionais.
+
+5.3. DEMONSTRATIVO-LOCATIVO. Ocorrem tais palavras com a função de manifestar 1) tagmemas de Sujeito, Objeto,
+Tópico, Comentário e Locativo ao nível de oração, 2) tagmemas modificadores ou de cabeça ao nível locucional, ou 3) elementos de encerramento do discurso. O quadro seguinte descreve sua máxima expansão possível.
++ i- + raiz ± clsdr ± pl ± dfnto ± def ± dir ± mdir + -k
+
+ou Quadro 15: ESTRUTURA DE PALAVRAS DEMONSTRATIVO-LOCATIVAS
+Descrevem-se mais detalhadamente nos parágrafos 1-8 a seguir. 1) São mutuamente exclusivos i³- e -ki³. Quando ocorre i³-, a estrutura é denominada demonstrativa; ocorrendo -k³, chama-se locativa, por causa da normal referência semântica, p. ex., i²bo³ 'aquela pessoa / coisa', bo²k³ 'a pessoa / coisa lá'. Pode-se denominar o prefixo i³- de 'demonstrativizador' e o -k³ de 'locativizador'.
+
+2) As raízes demonstrativo-locativas podem ser classificadas conforme o tagmema que manifestam. Ocorrem as seguintes nos tagmemas locativos : -bo² 'distante, deitado no chão', -jo²/-jop² 'perto, deitado no chão', -j³ 'perto, pendurado ou na mão', -ño² 'distante, de pé', -ja³ 'perto, de pé', e -be² e -e², cujo significado exato é desconhecido. As que ocorrem na oração na qualidade de Sujeito, Objeto, Tópico e Comentário, ou na função de cabeça de locuções nominais, são: -te² '3ª sg a partir de quem fala' e -xe² '3ª sg a se aproximar de quem fala'. As que aparecem na qualidade de modificadoras de locuções verbais são: -bat², -bit² e -bi³at², todas três com significado de 'assim'. Ocorre uma como conclusão de discurso: i³b³rn² 'só isso'.
+3) Descrevem-se os classificadores em 5.1.3, p. ex., i³bo²'a³ 'aquela coisa redonda'.
+4) -y³ é pluralizador, p. ex., bo²y³k³ 'aqueles lá'.
+5) -'m ³ é sufixo de defuntos, p. ex., i³xe²'m ³ '3ª pessoa defunta'. Este sufixo se reduplica quando ocorre o plural, p. ex., i³xe²y³'m ²'m ² 'eles defuntos'.
+6) Os sufixos definitivos são -s² e -s²s², ambos com significado de 'mais para...'; a forma reduplicada acrescenta ênfase, p. ex., bo³s²k³ 'mais para lá'.
+7) Os sufixos direcionais são ce²- 'em direção a', -ma²- 'mais' e -di²- 'ao lado de', todos referentes a locação especial, p. ex., bo²ce²k³ 'até lá', bo²ma²k³ 'mais para lá'.
+8) O mudador de direção é -wi²-, o qual inverte a direção do sufixo direcional, p. ex., i³bo³ce³wi² 'de la'.
+Os relacionadores (4.2) podem ocorrer na função direcional, p. ex., ja³'a²je³je²k³ 'em cima daquela coisa redonda lá' (raiz-clsdr-rel-k³).
+Nem todas estas funções ocorrem ao mesmo tempo na mesma construção. Quando a raiz serve de locativo, ocorrem com maior freqüência os elementos definitivos, direcionais e modificadores de direção. Quando a raiz serve de sujeito ou objeto, ocorrem com mais freqüência os classificadores, pluralizadores e marcadores de defunto. Funcionando a raiz na qualidade de tagmema ao nível de locução ou discurso, só pode ocorrer i³- ou -k³ mais a raiz. Uma forma alternativa das palavras demonstrativo-locativas consiste no prefixo s³- seguido por uma raiz demonstrativo-locativa. A estrutura da oração e sentença é imutável com esta única exceção, mas é pergunta em termos semânticos e ocorre com um padrão de entoação próprio. Isto não justifica a designação de um outro tipo de oração, porém, já que qualquer oração pode conter uma palavra demonstrativo-locativa.
+a³pẽn² s³te²
+como s - raiz dem-loc 'Como vai ele?'
+5.4. PALAVRAS QUE INDICAM TEMPO VERBAL. Os tagmemas de Tempo verbal consiste em um dentre três verbos intransitivos (5.2.4.2).
+Podem-se considerar estes verbos uma sub-classe dos verbos intransitivos, mas aqui se reconhecem como integrantes de uma classe separada de palavras por ocorrerem na qualidade de tagmemas de Tempo verbal no contexto da oração. É este tagmema o único indício de tempo de
+
+ação em orações pseudo-transitivas, descritivas e estativas, e em orações cujo predicado consiste num verbo na variante do estado durativo; é, outrossim, indício adicional em orações intransitivas, transitivas e referentes a sujeito.
+
+Embora possuam estes verbos o potencial de ocorrerem com qualquer marcador de sujeito, as formas seguintes são as únicas observadas em textos narrativos: o³ny³ 'eu estava', o³s²ny³ e o³so²dop² 'ele/ eles estava(m)', o³ce³ 'eu estou', o³'e² 'ele está', o³ce²'e³ 'eu estarei', e je²'e³ 'ele estará'.
+
+Como se pode observar pelo seu significado, estes verbos categorizam o tempo como passado, presente ou futuro, em contraste com a categoria quadripartida indicada pela forma da raiz de verbos intransitivos, transitivos, e referentes a sujeito.
+
+o³dao³bi²re² o³ce³
+
+eu-cansado
+
+eu-estou
+
+Pred: v desc Tempo verbal
+
+k³'a² be³
+casa em Rel Loc
+
+o³so²dop³
+ele estava Tempo verbal
+
+5.5. NOME NUMERAL.
+Os nomes numerais integram a posição de modificador em locuções verbais e nominais básicas; integram, outrossim, a função de cabeça em locuções nominalizadas. Segue-se o elenco completo: pñ ² 'um', xep³xep² 'dois', e³ba²pñ³ 'três', 'e³ba²dip³dip² 'quatro', so³at² 'todos', pñ ³pñ² 'alguns', e a²de² 'muitos'.
+Os advérbios de quantidade derivam-se dos nomes numerais pelo acréscimo de /m/ ao radical numérico (se termina em vogal) ou pela mudança da consoante final em nasal homorgânica (se termina em consoante).
+Não se tem feito um possível corte morfêmico que rendesse a forma -e³ba4-, nem se reconhece reduplicação devido à dificuldade de se atribuir significado semântico constante às formas resultantes.
+
+5.6. PARTÍCULA DE ASPECTO.
+Até três partículas de aspecto podem ocorrer na mesma oração. Seu significado abrange um campo bem lato e não se identificam claramente em cada caso.
+
+São partículas de aspecto: jk² 'tempo quase presente no futuro ou passado', a³ñ² 'futuro ou passado imediato', k³ka² 'condicional', ka³jk² 'condicional incompleto', a²di² 'ao ponto', jy³ 'imperativo', bk² 'iminente', i²ãn³ 'errôneo', e ka³mo²/mo³, cit² e da²rem², cujo significado se desconhece ainda.
+
+cm² pk³
+
+õn²
+
+indo iminente eu
+
+Pred Asp
+
+Suj
+
+'Eu vou agora mesmo.'
+
+i²xe³ a²di² ce³ko³be²be²
+ele ponto canoa-ter Suj Asp Tópico 'Em certo momento ele teve uma canoa.'
+
+e³j³
+voce-vai Pred 'Va!'
+
+jy²
+imperativo Asp
+
+i²xe³ k³ka² a³di² ce³ko³be²be² o³s²ny³ //
+
+ele cond ponto sua-canoa-ter ele-estava
+
+Suj Asp
+
+Asp Tópico
+
+Tempo verbal
+
+'Ele tinha uma canoa no passado provavelmente.'
+
+Certas partículas de aspecto são obrigatórias em certos tipos de sentença (2.3).
+Ilustra-se a co-ocorrência de partículas de aspecto no Quadro 16. Pode-se delinear a ordem de ocorrência lendo-se a matriz da esquerda para direita.
+
+k³ka² da²rem² jk² a³ñ² a²di² ka³jk²
+
+a³ñ²
+X X X –
+X
+
+jk²
+X X – X X
+
+a²di²
+X X X
+–
+
+Quadro 16: CO-OCORRÊNCIA DO TAGMEMA DE ASPECTO
+
+Todo aspecto pode ocorrer com as formas verbais de estado durativo e de acontecimento único e repetido. Só a³ñ², da²rem², ck², e cy³ ocorrem com a variante incoativa.
+Há restrições em matéria de co-ocorrência de aspecto, tempo verbal, e variantes de verbos. Não ocorrem concomitantemente aspecto e tempo verbal com as formas flexionadas das palavras temporais. O tagmema de Tempo verbal costuma ocorrer depois do tagmema Predicado, ao passo que o Aspecto costuma precedê-lo; quando ocorre Tempo verbal, o Aspecto sempre o precede.
+
+NOTAS
+10 Os hífens usados nos exemplos desta seção indicam ruptura morfêmica dentro de palavras e não formas obrigatoriamente presas.
+11 Dá-se uma descrição mais completa da classificação e incorporação no artigo "Repeated Morphs in Munduruku" por Marjorie Crofts, publicado em Estudos sobre Línguas e Culturas Indígenas, edição especial, Instituto Lingüístico de Verão, Brasília, DF, Brasil, 1971.
+
+12 Os termos 'formas verbais flexionadas' e 'formas verbais não-flexionadas' são usados neste trabalho para indicar exclusivamente a presença ou ausência de prefixo pessoal de sujeito (e não outros prefixos).
+
+Apêndice A UM TEXTO MUNDURUKU
+
+Segue-se um texto tirado de uma gravação magnética. É o primeiro discurso de uma longa saga a respeito de um jabuti que encontra quatro animais diversos e lhes passa a perna a todos. Foi contado por Biboy, um senhor de uns quarenta e cinco anos, chefe de uma aldeia. A seguir se apresenta palavra por palavra e uma tradução livre.
+
+O texto é escrito sem indicação de tom, já que este não tem relevância gramatical. Divide-se o texto em parágrafos, designados A a CC. Cada sentença é enumerada consecutivamente dentro do seu parágrafo. As abreviaturas usadas correspondem àquelas empregadas no texto explicativo do presente trabalho: / indica fim de oração; // fim de sentença.
+
+Embora represente este texto uma parte da mitologia Munduruku, seu estilo é bem semelhante àquele das narrativas de acontecimentos cotidianos. Isto se aplica especialmente à narração em grupo, p. ex., na casa dos homens à noite, quando se recitam com muito detalhe as atividades do dia.
+
+A. 1. poy
+
+oajẽm yakare kay //
+
+o jabuti 13 ele-chegou jacaré 14 até
+
+2. wetyda kakam
+
+pima
+
+oajẽm
+
+poy
+
+feijão quebrando enquanto ele-chegou jabuti
+
+3. pẽnpẽn
+
+t
+
+ẽn yakare io'e
+
+o que fazendo pergunta você jacaré ele-disse
+
+4. ka'm a //
+nada
+
+5. wetyda kakam
+
+õn //
+
+feijão quebrando eu
+
+6. tah //
+'Tá bom
+
+7. ibe ñ wety yakare //
+aquilo neg. feijão jacaré
+
+8. omyk ma
+
+wety //
+
+ele-vindo mesmo feijão
+
+9. ap / ibe i'e'em apat 'e'em
+
+ibe wety //
+
+não aquilo está-dizendo jacaré está-dizendo aquilo feijão
+
+10. ap / ibe ñ / omyk ma
+
+wety yakare i'e'em
+
+não aquilo não ele-vindo mesmo feijão jacaré está-dizendo
+
+õn tadi'oat //
+eu comedor-de-semente
+
+11. ap / i'e'em apat / ibe //
+não está-dizendo jacaré aquilo
+
+12. ap / ibe m a / ibe ñ wety / omyk ma
+
+wety
+
+não aquilo não aquilo não feijão ele-vindo mesmo feijão
+
+yakare i'e'em //
+jacaré está-dizendo
+
+13. õn tadi'oat
+
+i'e'em poy //
+
+eu comedor-de-semente está dizendo jabuti
+
+14. tah //
+'Tá bom
+
+15. ya'õb''m
+
+ixe dak //
+
+palavra-apanhar-não ele também
+
+16. ibe wety i'e'em //
+aquilo feijão está-dizendo
+
+17. ap / ibe ñ wety / omyk ma /
+
+õn wetaybit / õn
+
+não aquilo não feijão ele-vindo realmente eu eu- o-sei eu
+
+tadi'oat /
+
+i'e'em / poy 'e'em //
+
+comedor-de-semente está-dizendo jabuti está-dizendo
+
+18. tah //
+'Tá bom
+
+19. ibe wety //
+aquilo feijão
+
+20. yakare ibe m a / ibe ñ wety yaoti 'e'em //
+jacaré aquilo não aquilo não feijão jabuti está-dizendo
+
+B. 1. ñebje o'ñõm
+
+i'pi be io'e //
+
+então ele-o-fez-entrar terra em diz-se 15
+
+2. i'pi ky ky be o'ñõm //
+terra buraco em ele o fez entrar
+
+3. apat poy o'ñõm //
+jacaré jabuti ele o fez entrar
+
+4. o'ñwn
+
+wh //
+
+ele-o-empurrou ação-de-empurrar
+
+5. parak'i //
+ficou-enterrado
+
+6. i'pi be o'ñõm //
+terra em ele-o-fez-entrar
+
+C. 1. ñebje wita'a o'yamy // então pedra ele-a-pôos
+2. o'tomdip bik //
+ele-o-fechou ação de fechar
+
+D. 1. ñebje yakare o'jenapõn //
+então jacaré ele-fugiu
+2. oek //
+ele-foi-andando
+3. xet xet xet xet xet xet //
+passaram seis dias
+
+E. 1. aripit / /
+muda-se direção da ação
+
+2. jay //
+ação de chegar
+
+3. yaoti / /
+jabuti
+
+4. ah /
+
+iboce ma
+
+io'e //
+
+sim, o que aqui mesmo ele-disse
+
+5. acã weredpxiri opop
+
+io'e ip yaoti /
+
+só mofo-muito está-deitado disseram eles jabuti
+
+coraywedipdipati be io'e ip //
+Coraywedipdipati em disseram eles
+
+6. a'õpirip /
+
+i'e'em
+
+poy //
+
+Vá tomar banho!16 está dizendo jabuti
+
+F. 1. aripit / /
+muda-se direção da ação
+2. jepitpin io'e //
+voltando dize-se
+3. xet xet xet xet xet //
+passaram cinco dias
+
+G. 1. aripit //
+muda-se direção da ação
+
+2. jepitpin //
+voltando
+
+3. jay //
+ação de chegar
+
+4. yaoti //
+jabuti
+
+5. ah /
+
+iboce ma
+
+io'e //
+
+sim, o que aqui mesmo ele-disse
+
+6. weredpxiri opop /
+
+io'e ip / yaoti / i'e'em
+
+io'e //
+
+mofo-muito está-deitado disseram eles jabuti está-dizendo diz-se
+
+7. ah //
+é?
+
+8. a'õpirip
+Vá tomar banho'.
+
+H. 1. aripit / /
+muda-se direção da ação
+
+2. jepitpin yakare io'e //
+voltando jacaré diz-se
+
+3. xet xet xet
+passaram três dias
+
+4. ade xet ma
+
+jekkm //
+
+muitas sonecas mesmo andando
+
+I. 1. jay //
+ação de chegar
+2. yaoti / /
+
+jabuti
+
+3. ah /
+
+iboce ma / io'e //
+
+sim, o que aqui mesmo ele-disse
+
+4. weredpxiri opop /
+
+io'e ip / yaoti / i'e'em
+
+io'e //
+
+mofo-muito está-deitado disseram eles jabuti está-dizendo diz-se
+
+5. a'õpirip / i'e'em
+
+poy //
+
+Vá tomar banho! está-dizendo jabuti
+
+J. 1. aripit //
+muda-se direção da ação
+
+2. jepitpin ixe yakare io'e //
+voltando aquele jacaré diz-se
+
+3. xet xet xet //
+passaram três dias
+
+4. ibn ma
+
+io'e //
+
+demorou mesmo diz-se
+
+K. 1. ñas bit
+
+ty
+
+be oe'
+
+iãn
+
+io'e //
+
+agora contraste seus-pensamentos em ele-morreu erradamente diz-se
+
+2. jay //
+ação de chegar
+
+3. yaoti / /
+jabuti
+
+4. ah //
+sim, o que?
+
+5. ibit ma
+
+io'e ip //
+
+assim mesmo diz-se eles
+
+6. acã weredpxiri opop / io'e //
+só mofo-muito está-deitado ele-disse
+
+7. yaoti jedpekereren weredp io'e ip //
+
+jabuti mofo estragando mofo
+
+ele disse eles
+
+8. a'õpirip / i'e'em / poy e'em //
+Vá tomar banho! está dizendo jabuti está-dizendo
+
+L. 1. aripit / /
+muda-se direção da ação
+
+2. jeopitpin io'e //
+voltando diz-se
+
+M. 1. ñebje o'xijaja io'e poy //
+então ele-cagou diz-se jabuti
+
+2. jay //
+ação de chegar
+
+3. oajẽm io'e //
+ele-chegou diz-se
+
+4. yaoti / yaoti / ka'mñ / o'jẽm io'e //
+jabuti jabuti não existe nada ela-saiu ele-disse
+
+5. bñn k o'j / io'e //
+
+lá
+
+ele-foi diz-se
+
+6. ch //
+ação de ir embora
+
+7. tah //
+pois é, senhor
+
+8. oe'
+
+ma
+
+xe'e
+
+ixe yaboti'm bitk / io'e //
+
+ele-morreu mesmo dubitativo aquele jabuti-defunto lá
+
+ele-disse
+
+9. wita'a boñ'a o'ya'k io'e tomdip'a //
+pedra grande ele-a-levou diz-se a pedra que cobria
+
+10. o'jetabrt bodisk io'e //
+ele-espiou-dentro daquele-lado diz-se
+
+11. etabrn badisk o'e io'e //
+ação de espiar para-o-interior foi diz-se
+
+12. hm hm //
+pois é senhor
+
+13. jodiwik ixe poy oajẽm //
+daquele lado aquele jabuti ele-chegou
+
+N. 1. ñebjep o'ñwn
+
+parakh
+
+i'pi be //
+
+então ele-o-empurrou ação de empurrar terra em dentro
+
+2. yakare o'jẽm iõmat pewi io'e //
+jacaré ele saiu entrada de diz se
+
+3. bik
+
+o'tomdip io'e //
+
+ação-de-fechar ele-a-fechou diz-se
+
+4. o'jenapõn poy io'e //
+ele-fugiu jabuti diz-se
+
+5. xet xet xet xet xet xet //
+passaram seis dias
+
+6. ibn ma
+
+(ixe dak) oek
+
+io'e //
+
+demora mesmo ele também ele-andou diz-se
+
+O. 1. aripit //
+muda-se direção da ação
+
+2. jay //
+ação de chegar
+
+3. yakare //
+jacaré
+
+4. ah //
+sim, o que?
+
+5. iboce ma
+
+añ
+
+õn //
+
+aqui realmente presente eu
+
+6. acã bõmbõmxiri
+
+io'e yakare //
+
+só peixe-podre-muito ele disse jacaré
+
+7. a'õpirip //
+Vá tomar banho!
+
+8. imẽn ma
+
+o'e //
+
+assim mesmo passado
+
+P. 1. aripit //
+muda-se direção da ação
+2. xet xet xet xet xet xet xet //
+passaram sete dias
+
+Q. 1. jay //
+ação de chegar
+2. yakare //
+jacaré
+
+3. ah //
+sim, o que?
+
+R. 1. ñebje bit
+
+añ
+
+io'e //
+
+então contraste presente diz-se
+
+2. bõmbõmxiri
+
+opop / io'e //
+
+peixe-podre-muito está-deitado ele-disse
+
+3. yakare jekereren
+
+bõmbõm io'e ip coraywedipdipati be //
+
+jacaré está-apodrecendo peixe-podre diz-se eles Coraywedipdipati em
+
+4. a'õpirip / i'e'em
+
+io'e //
+
+Vá tomar banho! está-dizendo diz-se
+
+S. 1. aripit //
+muda-se direção da ação
+
+2. xet xet xet xet xet xet //
+passaram seis dias
+
+3. ibn oek
+
+io'e //
+
+demora ele-andou diz-se
+
+T. 1. jay //
+ação de chegar
+
+2. yakare //
+jacaré
+
+3. ah
+
+/ ya'õñññ io'e //
+
+sim, o que sua-voz-fraca ele-disse
+
+4. bõmbõmxiri
+
+opop / io'e / jekerereh
+
+'e'em /
+
+peixe-podre-muito está-deitado ele-disse está-apodrecendo está-sendo
+
+ade jĩjã opop
+
+bõmbõm io'e ip //
+
+muitíssimo está-deitado peixe-podre diz-se eles
+
+5. a'õpirip / ya'õpĩn ma
+
+io'e //
+
+Vá tomar banho! sua-voz-curta mesmo ele disse
+
+U. 1. aripit / /
+muda-se direção da ação
+2. o'jepit io'e //
+ele-voltou diz-se
+
+3. xet xet xet xet xet //
+passaram cinco dias
+
+V. 1. aripit //
+muda-se direção da ação
+
+2. jay //
+ação de chegar
+
+3. yakare //
+jacaré
+
+4. yakare //
+jacaré
+
+5. ah /
+
+ya'õññn io'e //
+
+sim, o que sua-voz-fraca ele-disse
+
+6. bõmbõmxiri
+
+opop
+
+io'e yakare //
+
+peixe-podre-muito está-deitado ele-disse jacaré
+
+7. a'õpirip / ya'õba'arẽm io'e //
+Vá tomar banho! sua-voz-escondida ele-disse
+
+W. 1. aripit //
+muda-se direção da ação
+
+2. o'jepit io'e //
+ele voltou diz se
+
+3. oek
+
+io'e //
+
+ele-andou diz-se
+
+4. xet xet xet xet //
+passaram quatro dias
+
+X. 1. oajẽm
+
+ma'ñto io'e //
+
+ele-chegou de novo diz-se
+
+2. yakare / yakare / oe' / io'e //
+jacaré jacaré ele-morreu ele-disse
+
+Y. 1. ñebjep o'tomdip'k io'e //
+
+então ele o abriu
+
+diz se
+
+2. piñ
+
+yakare'm / io'e //
+
+ação de morrer jacaré-defunto ele-disse
+
+3. tõh //
+coitado
+
+Z. 1. ñebje o'tjjẽm
+
+batk //
+
+então ele-o-levou-saindo dali
+
+AA. 1. ñebje jewayway //
+então está-rindo
+
+2. r r r r r r //
+ação de rir
+
+3. jewayway io'e //
+está-rindo diz-se
+
+4. etabt'm
+
+yakare / io'e //
+
+você-não-acredita jacaré
+
+ele-disse
+
+BB. 1. ñebje ixe o'jo'o'o io'e //
+então ele ele-o-comeu ele-disse
+
+CC. 1. imẽnej bek boh
+
+pca pybitm
+
+por isso que ação de gostar de comida caça comida-defunta
+
+k
+
+poy jejapi //
+
+costume jabuti desde então
+
+Segue uma livre tradução do texto anterior, incorporando as letras de parágrafos.
+
+A.
+
+O jabuti chegou aonde estava o jacaré. Chegou enquanto este estava quebrando feijão.
+
+-- O que está fazendo, Jacaré? -- ele disse.
+
+-- Nada, só quebrando feijão.
+
+-- Tá certo. Mas isso não é feijão, Jacaré. O feijão está ainda por aparecer.
+
+-- Ah, não! É isto! -- disse o jacaré. -- Isto é feijão.
+
+-- Ah, não. Isso não é feijão. O verdadeiro feijão ainda está por aparecer, Jacaré -- ele disse.--
+
+Sou grande conhecedor de feijão -- ele disse.
+
+-- Ah, não! -- disse o jacaré. -- É feijão.
+
+-- Ah, não! Não é, não! Não é feijão. O feijão ainda está por chegar, Jacaré -- ele disse. -- Sou
+
+grande conhecedor de feijão! -- disse o jabuti.
+
+-- Tá certo.
+
+Não pôde ganhar a disputa.
+
+-- É feijão -- ele disse.
+
+-- Ah, não, isso não é feijão. Ainda não apareceu. Eu sei! Sou grande conhecedor de feijão! --
+
+ele disse, o jabuti disse.
+
+-- Tá certo. É feijão!
+
+-- Jacaré, não é não. Isso não é feijão -- disse o jabuti.
+
+B.
+
+Então ele o empurrou para o chão. Empurrou-o para um buraco no chão. O jacaré empurrou o
+
+jabuti para o chão. Zás! Ele o empurrou. Plaf! Empurrou-o para o chão.
+
+C.
+
+Então colocou uma pedra. Ele o fechou -- Bum!
+
+D.
+
+Então o jacaré fugiu. Foi andando. Passaram-se seis dias.
+
+E.
+
+Ele voltou. Chegou.
+
+-- Jabuti!
+
+-- O que? Estou aqui -- ele disse.
+
+-- Há muito mofo, Jabuti. Está no córrego Coraywedipdipati.
+
+-- Vá tomar banho! -- disse o jabuti.
+
+F.
+
+Voltou. Sim, ele voltou. Passaram-se cinco dias.
+
+G.
+
+Voltou. Sim, voltou.
+
+-- Jabuti! -- O que? Estou aqui -- ele disse.
+
+-- Há muito mofo, Jabuti -- ele disse.
+
+-- É? Vá tomar banho!
+
+H.
+
+Ele voltou. O jacaré voltou. Passaram-se três dias. Aliás, passaram-se muitos dias.
+
+I.
+
+Ele chegou.
+
+-- Jabuti!
+
+-- O que? Estou aqui -- disse o jabuti.
+
+-- Há muito mofo, Jabuti -- ele disse.
+
+-- Vá tomar banho! -- disse o jabuti.
+
+J.
+
+Ele voltou. Esse jacaré voltou. Passaram-se três dias. Ele demorou mesmo.
+
+K.
+
+Agora, porém, ele pensou erradamente que ele tivesse morto. Chegou.
+
+-- Jabuti!
+
+-- O que? Assim conversaram.
+
+-- Há muito mofo -- ele disse. -- Jabuti, o mofo está apodrecendo.
+
+-- Vá tomar banho! -- disse o jabuti.
+
+L.
+
+Ele voltou. Sim, voltou.
+
+M.
+
+Então defecou -- isto é o jabuti. Chegou. Chegou.
+
+-- Jabuti! Jabuti!
+
+Nada!
+
+-- Ele saiu -- ele disse.
+
+Foi para lá. (O narrador assinala um lugar com o braço enquanto fala.) Ele foi. Pois é, senhor!
+
+(Assim o narrador afirma que isso mesmo aconteceu.)
+
+-- Será que esse jabuti morreu? -- ele disse.
+
+Tirou a grande pedra --a pedra que o tapava. Espiou para o interior. Pois é, senhor!
+
+(comentário do narrador) Esse jabuti chegou daquele lado.
+
+N.
+
+-- Então ele o empurrou. Zás! No chão. O jacaré saiu da entrada. Bum! Ele a fechou. O jabuti
+
+fugiu. Passaram-se seis dias. Demorou mesmo. Foi andando.
+
+O.
+
+Voltou. Ele voltou.
+
+-- Jacaré!.
+
+-- O que? Estou aqui!
+
+-- Há muito peixe podre, Jacaré -- ele disse.
+
+-- Vá tomar banho! Assim foi.
+
+P.
+
+Ele voltou. Passaram-se sete dias.
+
+Q.
+
+Ele voltou.
+
+-- Jacaré!
+
+-- O que?
+
+R.
+
+Então ele falou:
+
+-- Há muito peixe podre, Jacaré; dizem que o peixe podre está apodrecendo no córrego
+
+Coraywedipdipati.
+
+-- Vá tomar banho! -- ele disse.
+
+S.
+
+Ele voltou. Passaram-se seis dias. Ele demorou, andando para cá e para lá.
+
+T.
+
+Ele chegou.
+
+-- Jacaré!
+
+-- O que? -- disse ele com voz fraca.
+
+-- Há muito peixe podre -- ele disse. -- Está apodrecendo horrivelmente. Tem muitíssimo
+
+peixe podre.
+
+-- Vá tomar banho! -- ele disse, muito manso.
+
+U.
+
+Ele voltou. Sim, voltou. Passaram-se cinco dias.
+
+V.
+
+Ele voltou. Chegou.
+
+-- Jacaré! Jacaré!
+
+-- O que? -- disse ele com voz fraca.
+
+-- Há muito peixe podre, Jacaré -- ele disse.
+
+-- Vá tomar banho! -- disse com voz velada.
+
+W.
+
+Ele voltou. Sim, voltou. Foi andando. Passaram-se quatro dias.
+
+X.
+
+Ele chegou de novo.
+
+-- Jacaré! Jacaré! .... Morreu -- ele disse.
+
+Y.
+
+Então (numa outra direção) ele a abriu. Morto! O jacaré (estava) morto. Coitado!
+
+Z.
+
+Então ele o carregou lá.
+
+AA.
+
+Então deu uma risada.
+
+-- Ra, ra, ra, ra, ra! -- estava rindo -- você nem acreditava, Jacaré -- ele disse.
+
+BB.
+
+Então ele o comeu.
+
+CC.
+
+É por isso que os jabutis gostam de comer caça morta -- desde então.
+
+NOTAS
+13. Traduzem-se como 'jabuti' duas palavras neste texto. Poy é vocábulo Munduruku; yaot é palavra emprestada do Português jabuti.
+14. Traduzem-se como 'jacaré' duas palavras neste texto. Apat é vocábulo Munduruku; yakare é palavra emprestada do Português jacaré.
+15. Na tradução livre não se traduz a locução i²o³e² 'diz-se'. O narrador está relacionando sua estória à vida real, e isto se considera como nível do narrador e não da narração.
+16. 'Vá tomar banho!' é a expressão idiomática mais semelhante ao idiotismo Munduruku, cujos morfemas não estão todos identificados ainda. É um verbo forte, descritivo, depreciativo, cuja tradução os indivíduos bilíngües se negam a dar.
+
+Apéndice B FÓRMULAS TAGMÊMICAS
+
+ENCONTRO .. 1.1 18
+
+± In:DS + Co:Discurson ± En:DD
+
+DIÁLOGO Despedidas
+Saudações
+
+1.1.3 20-21
+
++ Es: S Ssimples/ Scomposta
+
+1.1.1
+
+18-19
+
++ Es: saudação Ssimples tosse vocativo
+
++ R: + (± S ± desafio) part permissiva
++ R: saudação Ssimples ordem + part ± pergunta/ afirmação
+
+DISCURSO
+
+1. 2 22-23 ± In:Título +Co: Pn ± Concl:part de conclusão ± part de resumo + Ssimples
+
+PARÁGRAFO Ação acontecimento Ação processo Descrição
+
+1.3 24-29
+
+proformas s,v
+
++ In:ort/ord + N:S + Sn + Ter:xet3 proformas
+
+s,v
+
+± In:ort/ord + N : S + Sn + Ter:pe2re2 proformas
+
+s,v
+
++ N: S + Sn
+
+SENTENÇAS adversativa causa e efeito citacional consecutiva contingente detalhada exclamação intentiva interrogativa
+conseqüente paralela propositada serial simples
+
+2.2.2 2.3.3 2.5 2.3.2 2.3.1 2.2.3 2.2.1 2.3.5
+2.2.4
+2.4.2 2.3.4 2.4.1 2.1
+
+33 + B:or ind + Exp:loc/Exp:v/s/loc e-r 39 + B1 :or indep3 + (+ B2 :or indep + C3 )3 42 + Citação:Sn ± Citador:or cit 39 + (+B:or dep + C2)3 +B2 :or indep3 38 + (+ B1 :or indep + C1 )3 + B2 :or indep3 34 + B:or ind + Exp: s/v/loc e-r 32 + B:part ± Exp:loc 40 + B1 :or indep +B2 : or indep
+36 + B:or ind + Exp:loc int
+41 + B:or indep + B: or indepn + entoação 40 + B1 :or indep + (+ B2 :or dep + C4 )5 41 + B:or indep + B:or indep ± Bn:or indep + entoação 32 + B:or indep
+
+LOCUÇÕES eixo-referente nominal básica
+nominal-genitiva
+nominal de oração nominalizada
+posicional pronominal verbal básica verbal ideofônica verbal modal
+
+4.2 73 4.1.1 67
+4.1.3 70 71
+
++ eixo:loc nom/dem-loc/pro preso + ref:rel
+± mod:dem-loc + cab:s não-poss/poss al não-poss ± qual:part qual
+1) + posr: loc nom-gen + ent pos:s (poss inal)
+2) + posr:loc nom-gen/loc nom básica + ent pos:s poss al
+
+4.1.4 72
+
++ cab:or indep + nom:-at²
+
+4.4 79 4.1.2 69 4.3.1 75
+
++ cab:part pos/v pos ± qual:part qual + pro:pro livre/dem-loc ± qual:part qual + cab:v ±mod:adv/v red/v desc
+
+4.3.2 78
+
++ ideo:pro forma v + cab:v flex
+
+4.3.3 55
+
++ cab:v + m:part m
+
+ORAÇÕES citadora
+
+3.1.5 51
+
+descritiva estativa equativa
+
+3.1.3 50 3.5.1.1 61
+
+estativa locativa
+
+3.5.1.2 61
+
+estativa relacionadora 3.5.1.3 63
+
+fatual existencial
+
+3.5.2.2 64
+
+fatual possessiva
+
+3.5.2.1 64
+
++ Pred:loc v tr ± Suj:loc nom ± Dir:loc e-r (i³'e²'em²) pro-forma
++ Pred:loc v desc ± Suj:loc nom ± Emot:loc e-r + Tóp:loc nom (s/pro)/dem-loc
++ Com:loc nom (s/pro)/dem-loc + Tóp:loc nom/dem-loc +Com:loc e-r
+± Pos:loc loc/loc vpos/part ext + Tóp:loc nom/dem-loc + Com:loc e-r (s + rel est) + Tóp:s (redup parc ± neg) + Tóp:s (pre pro poss + rn redup parc ± neg)
+pro-forma
+
+intransitiva pseudo-transitiva transitiva
+
+3.1.1 3.1.4 3.1.2
+
+47 + Pred:loc v intr/loc v r-s + Suj:loc nom ± Acom:loc e-r ±Dir:loc e-r
+51 + Pred:loc vptr ± Suj:loc nom ± Inst:loc e-r -m
+pro-forma mcdr-obj
+48 + Pred:loc v tr ± Suj:loc nom ±Obj:loc nom (-loc pro)
+± Ben:loc e-r ± Inst:loc e-r -m ± Acom:loc e-r ±Dir:loc e-r
+
+PALAVRAS Demonstrativo-locativo 5.3
+
+Substantivos
+
+possessão alienável 5.1
+
+possessão inalienável 5.1
+
+não-possuível
+
+5.1
+
+105 1) + i³- + raiz ± clsdr ± pl ± dfnto ± def ± dir ± mdir + -k³ ou
+2) + s³ - + rdem-loc
+82 ± pref: poss al + r poss al ± suf 82 + pref: poss inal + r poss inal ± suf 82 + r não-poss ± suf
+
+Verbos
+descritivo intransitivo
+modal posicional
+
+5.2.1.4 93 5.2.1.1 89
+
++T
+Suj
++ (Suj: c /clsdr) + rv desc Suj: s cls
++ suj: a ± clsdr + rv intr
+
+5.2.2 95 (relativo aos verbos correspondentes) 5.2.4.2 103 ± mcdr-classe 2 + rv pos + mcdr-classe 3
+
+pseudo-transitivo referente a sujeito transitivo
+
+5.2.1.5 94 5.2.1.2 90 5.2.1.3 91
+
++T + suj: d + mcdr-inst: -t- + rv ptr
+Suj: s cls + suj:b + mcdr-foco ator: -je- ± (clsdr + e-) + rv r-s
+Obj:s cls Suj:
++ obj pro/ (+ suj: b + clsdr/mcdr-obj -jo-/ refl) + rv tr
+
+Apêndice C FORMULÁRIO DOS VOCABULÁRIOS PADRÕES
+
+LÍNGUA Munduruku FAMÍLIA Tupi DIALETO OU LOCALIZAÇÃO
+Missão Cururu. Rio Cururu. Pará
+FORMULÁRIO DOS VOCABULÁRIOS PADRÕES PARA ESTUDOS COMPARATIVOS
+PRELIMINARES NAS LÍNGUAS INDÍGENAS BRASILEIRAS
+II. Questionário
+MUSEU NACIONAL Divisão de Antropologia--Setor Lingüístico
+Segunda Edição Rio de Janeiro, 1960 (A primeira edição apareceu sob o título de "Questionário Padrão para a Pesquisa nas Línguas Indígenas Brasileiras.")
+
+É favor acompanhar com a informação seguinte cada lista vocabular preenchida, mesmo que já tenha sido dada essa informação com vocabulários da mesma língua ou dialeto obtidos de outros indivíduos. Se se registrar mais de um vocabulário individual da mesma língua ou dialeto, é favor distingui-los por letras, a saber, Kalaba A, Kalaba B, etc. Não importa que o vocabulário colhido seja pequeno: use um questionário completo por vocabulário colhido.
+
+PESQUISADOR:
+
+Nome:
+
+Marjorie Crofts
+
+Endereço: Caixa Postal 14-2221, Brasília, DF, Brazil
+
+Instituição: Summer Institute of Linguistics Data do Trabalho de campo: Fevereiro 1960 - presente, contato intermitente
+Formulário arquivado 3/10/66 LÍNGUA : Nome da língua: Munduruku Localização exata: Missão Cururu, Rio Cururu, afluente do Alto Tapajós
+no estado do Pará
+
+Áreas dialetais da língua: 1) Rio Cururu
+
+2) O campo ao norte da Missão em que há quatro malocas
+
+3) Malocas no Rio Tapajós, perto de Jacaré-acanga.
+
+4) Rio Canuman, afluente do Madeira no estado de Amazonas.
+
+Número de falantes da língua: cerca de 2000
+
+Grau de bilinguismo português: 1) 8-10 homens falam bem o português
+
+2) 2-3 homens falam um pouco só
+
+3) os homens estão aprendendo agora
+
+4) 5-10 velhos ainda falam o Munduruku, todos falam
+
+português em casa.
+
+INFORMANTE:
+
+Nome:
+
+Civério Caba
+
+Idade provável: 32
+
+Sexo e posição na comunidade: Masculino, Casado, Três filhos de 7 anos, 2 anos e 2 meses.
+
+Trabalha como motorista do motor dos padres.
+
+Lugar de nascimento: Missão Cururu. Sempre viveu lá.
+
+Atual residência: Missão Cururu.
+
+Queira indicar abaixo as consoantes, vogais e sinais diacríticos, usados no registro da lista que se segue. Se possível, devem eles ser dispostos de acordo com o ponto de articulação. É favor também indicar que alfabeto, dos três apresentados na Parte I do Formulário, foi o utilizado, explicando quaisquer símbolos adicionais que não estão incluídos no alfabeto escolhido.
+Alfabeto usado: Lista de consoantes:
+
+/p/ [p] [p٠] [ph]
+
+/t/ [t] [t٠] [th]
+
+/k/ [k] /Ž/ [Ž] [k٠] [kh]
+
+/b/ [b]
+
+/d/ [d] /r/ [ř]
+[ň] [ər]
+[ər] [l]
+
+/s/ [s]
+
+/c/ [tš] /j/ [dž] /x/ [š]
+
+/h/ [h] [h]
+
+/m/ [bm] /n/ [dn]
+
+[m]
+
+[n]
+
+/ñ/ [ñ] /ŋ/ [gŋ] [ŋ]
+
+/y/ [y] [y]
+
+/w/ [w] [w]
+
+Lista de vogais:
+/i/ [i] // [] [ι]
+
+/o/ [u] [υ] [o]
+
+/ĩ/ [ĩ] [ι]
+
+// [ə]
+
+/õ/ [ũ] [υ] [õ]
+
+[e] [ι↓] [e] [ε]
+
+/ẽ/ [ι↓] [ẽ] [ε]
+
+/a/ [a]
+
+/ã/ [ã]
+
+Explicação de sinais diacríticos: Há 4 níveis de tonalidade -- 3 de tom e 1 de laringealização, 1 sendo o mais alto, 2 sendo
+meio alto, 3 sendo meio baixo e 4 sendo laringealização. Os consoantes nasais tem "glides" que não são fonémicos. Quando se acontece uma sílaba com tom 2 seguindo uma com tom 3 e a com 2 tem um "onset" de /b/, /Ž/, /c/, /j/, /s/ ou /x/, o tom 3 muda à outra qualidade de laringealização.
+1. cabeça -a4-Ža²
+2. a cabeça é redonda y-a4-roy4-rey4
+3. cabelo -dap²
+4. o cabelo é preto t-ap²-ok²
+5. orelha -a4-ñy4-b²
+6. ele furou a orelha i²-xe³ oŽ³-y-a²-ñy4-b²-m²-tok³
+7. olho -ta³ / -e³-ta³
+8. o olho é bom i³-ta³ xi²pat³
+9. nariz -na³-b²
+10. o nariz está inchado t-a³-b²-ey²-³-h³
+
+11. boca -bi²
+12. língua -kõ³
+13. a língua está na boca i³-kõ² i³-bi² be³
+14. dente -ny²
+15. cinco dentes s²ko³ t-y²
+16. saliva -bi³-di²
+17. pescoço -a4-ño²-b³
+18. o pescoço é comprido y-a4-ño²-b³-be²ren²
+19. peito -km³-pi²
+20. costas -k-xa³-bi²
+21. mão -b³-r³-Ža² / -b²
+22. ele está apertando a mão i²-xe³ i³-b³-m²kuŋ4-³-kŋ4
+23. perna -da³o²
+24. ele está coçando a perna i²-xe³ je³-we³-da³o²-ko³-re²rem²
+25. joelho -ŋ4-Ža²
+26. o joelho está mau y-ŋ4-Ža²-kẽ²rẽ²
+27. pé -i²
+28. ele está lavando os pés i²-xe³ je³-we³-i²-wy³-wy³
+29. coração -a4-Žõ²-xa³-bi³-da²
+
+30. o coração do jacaré a³pat² a4-Žõ²-xa³-bi³-da²
+31. fígado -p-sa4 / -k-sa4
+32. o fígado do macaco (prego) ta³we²-ip4-sa4
+33. barriga -k²
+34. tripas, intestinos -nn³ -p²
+35. pele -xe³-e²
+36. ele cortou o pele i²-xe³ oŽ³-s²-xe³-e²-da²kat4
+37. osso -da³o²
+38. o osso é pesado t-a³o²-po³xi²
+39. sangue -doy³
+40. o sangue é vermelho t-oy³-pak³-pk³
+41. a. bicho t²mn³
+b. bicho de caça i³-bt²
+c. bicho doméstico wn²-ca4
+d. réptil py³-b²
+42. ele viu alguns bichos i²-xe³ t²mn³ oŽ³-jo²-jo²-jo² pŋ³-pŋ²
+43. jacaré a³pat²
+44. cachorro a4k²ri³ce² / a4ki²ri³ce²
+45. ele bate no cachorro i²-xe³ a4k²ri³ce²-m²-pã4-³-pãm4
+
+46. onça wi4da4
+47. a onça está bebendo wi4da4 t-i³-kõn²-kõn²
+48. macaco (prego) ta³we²
+49. anta bi²o³
+50. chifre -a4-ka³rã4-s²
+51. dois chifres xep³-xep² y-a4-ka4rã4-s²
+52. rabo -do4ay4-b²
+53. o menino está puxando o rabo do macaco (prego) a³-ño²-kat²-kat²-Žit²-Žit² ta³we²-do4ay4-b²-m³p²xik4-p²-xiŋ4
+54. pássaro wã²s³
+55. os pássaros estão voando wa²s³-y³ je³-p²-p²-pm²
+56. papagaio a³ro²
+57. garra, unha de bicho -b4-n³
+58. as unhas do papagaio a³ro²-b4-n³ / a³ro²i³-n²
+59. asa -e4ñe4-ba4
+60. as asas são brancas c-e4ñe4-ba4-dap²-rt³
+61. pena, pluma -dap²
+62 esta pluma é pequena i³-jop³ t-ap² t-ap³-ĩt¹ ma4
+63. ovo -dop4-sa4
+64. ele está contando os ovos i²-xe³ t-op4sa4-m²-wẽñ³-²-wẽn³
+
+65. peixe a³xi³ma²
+66. o peixe está nadando a³xi³ma² xĩŋ³-xĩŋ³
+67. cobra py³-b²
+68. ele tem medo da cobra i²-xe³ i³pa²ra²-ra² py³-b²-b²xim³
+69. piolho kip²
+70. poucos piolhos p³-pŋ² kip³
+71. verme, minhoca na³sŋ²-p³
+72. quatro vermes e³-ba²-dip³-dip²-p² na³sŋ²-p³
+73. milho m³ra²-da³
+74. o milho é amarelo m³ra²-da³ t-a³-pek³-pk²
+75. mandioca m³sk²-ta³
+76. ele pega (sustenta) a mandioca i²-xe³ m³sk²-ta³-b²-bm²
+77. fumo (tabaco) e³
+78. o fumo está aqui e³ i³-jo³-ce² (± o³-pop²)
+79. árvore -ip² / t²-mn³-Žip²-Žip² / y-op4
+80. a árvore está queimando i³-ok²-pik³-piŋ³ / y-op4-m²-pik³-piŋ³
+81. pauzinho da³xa²-day³-pa²
+82. o pau é grosso y-op³-boŋ²
+83. capim, grama ka³pĩ²-i²-dip³
+
+84. o capim é verde t-ip³-kit² / t-ip³-ki²re³
+85. flor -dit² / t²-mn³-tit²-tit²
+86. esta flor i³-jop² tit³ / i²-ja³-dit²
+87. a outra flor wa²ra³-Žat² tit² / wa²ra³-Žat²-cat² tit³
+88. fruta -a4 / t²-mn³-Ža²-Ža²
+89. a fruta é estragada y-a4-e²rep²
+90. semente -da² / t²-mn³-ta²-ta²
+91. muitas sementes a²de²-da³
+92. folha -dp² / t²-mn³-tp²-tp²
+93. a folha é fina tp²-ẽ³rn³
+94. raiz -na³-b² / ka³-na³-b²
+95. três raízes e³-ba²-pŋ² t-ã³-b² / e³-ba²-pŋ² ka³-na³-b²
+96. casca i²-be³ / y-op³-xe³e²
+97. a casca é lisa i³-xe³e²-ko²rop²
+98. céu kaŽ³-bi³
+99. sol ka²-xi³ / ka²-xi³-e²-pi²-at³
+100. o sol é redondo ka²-xi³-e²-pi²-at³ i³-wa4-ket³-kt²
+101. lua ka²-xi³-a4-Žat²
+102. a lua é grande ka²-xi³-a4-Žat² y-o³-boŋ³
+
+103. estrela ka³-sop³-ta²
+104. todas as estrelas so³at²-ta³ ka³-sop³-ta²
+105. dia ka³-bi²-a4
+106. um dia pŋ² ka³-bi²-a4
+107. noite i³-xi²-ma²
+108. a noite é curta i³-xi²-ma² y-a4-pĩn¹ ma4
+109. ano (inverno) ko³a4to²
+110. nuvem ka³-bi³-ke²re²-re²at²
+111. a nuvem está no céu ka³bi³-ke²re²-re²-at² kaŽ³-bi³ be²
+112. chuva m³-ba4-Žat²
+113. a chuva é fria m³-ba4-Žat² i³b³-ck4
+114. nevoeiro (fumaça da terra) ka³-bi³-diŋ³
+115. vento ka³-bi²-do³
+116. o vento está soprando ka³-bi²-do³ ck4-ck4
+117. neve ----
+118. gelo že²lo³-Ža²
+119. a água está gelada i³-di³-bi² t-i³-ck4
+120. rio i³-di³-bi²
+121. o rio é estreito (apertado) t-i²-cŋ³
+
+122. água i³-di³-bi²
+123. a água está correndo t-i³-ba4-ca²
+124. a folha está boiando na água je³-dp³-e²-bok4boŋ4 i³-di³-bi² daŋ³-wi²
+125. lagoa i4-o4-di²
+126. a lagoa é longe wy³ ma² (+/-o³-pop²) i4-o4-di²
+127. mar i³-di³-xi²di² / t-i³-boŋ³-at²-ti³
+128. terra iŽ³-pi³
+129. a terra é seca iŽ³-pi³-p²rk²
+130. pó, poeira ka³-diŋ³
+131. tem muita poeira ka³-diŋ³ a²de²
+132. areia ka4-Žo²-ri³-rit³
+133. o mato a³way³-dip²
+134. o outro está no mato wa²ra³-Žat²-at² a³way³-dip² taŋ³ (± o³-my²)
+135. monte, morro co³-Ža²
+136. aquele monte i³-ño²-Ža³ / ño²-Ža4-k4
+137. pedra wi³ta²-Ža³
+138. ele está jogando pedras i²-xe³ wi³ta²-Ža²-xik²-xiŋ²
+139. caminho e²
+140. ele está andando no caminho i²-xe³ xĩŋ²-xĩŋ² e² daŋ³
+
+141. o caminho é amplo (largo) i³-e²-boŋ² / i³-e²-rin³-boŋ²
+142. casa k³-Ža²
+143. a casa é nova k³-Ža² y-a4-i²-s²
+144. a casa é velha k³-Ža² y-a4-o²kok²
+145. canoa ko4be³
+146. a canoa está cheia de areia ko4be³ t-o²pa³-pn³ ka4-Ža²-ri³-ri³-m
+147. arco da²rk²
+148. ele esfregou o arco i²-xe³ da²rk² oŽ³-je²-w²-r²-riŋ²
+149. o arco é mau da²rk² xi²pat³ ñ²
+150. flecha op4
+151. a flecha é reta op4 i²-cŋ³
+152. machado o²-Ža³
+153. o machado está aí o²-Ža³ o³pop² bo²-ma²-k³
+154. a faca ki³se² / ki³sẽ²
+155. a faca está cega ki³se² t-y³-bi²-Žm²
+156. a faca está afiada ki³se² t-y³-bi²-da²-da²
+157. corda i³-xi²-b³ / bo²rõ²-b³
+158. amarrado com corda i³-mn³-mn³ bo²rõ²-b³-m
+159. panela (de barro) i³-tĩŋ²-Ža³
+
+160. banha -xep³
+161. a panela cheia de banha i³tĩŋ²-Ža³ y-a4-no²-pa³-pn³at²-Ža³ i²-xe³-m
+162. carne -ẽn³
+163. sal kaw³ta²
+164. fogo da³xa²
+165. ele está sentado perto do fogo i²-xe³ xik²-Ži³ da³xa²-day³-pi² be³
+166. ele está soprando o fogo i²-xe³ da³xa²-m³-pow²-³-pow²
+167. fumaça -diŋ³ / t²-mn³-tiŋ²-tiŋ²
+168. fumaça na casa k³-Ža² be³-at²tiŋ³
+169. cinza ka4-ba4-Žo²-rit³
+170. as cinzas são quentes ka4-ba4-Žo²-rit³ t-a³xip²
+171. pessoa, gente wy³-j²-y³
+172. homem a³-ño³-kat²-kat²
+173. mulher a³-ya²-cat²
+174. a. criança be³-ki²-cat²
+b. menino a³-ño³-kat²-kat²-Žit²Žit²
+c. menina a³-ya²-cat²-Žit²Žit²
+175. a criança está vomitando be³-ki²-cat² je³-da4-da4-dan4
+
+176. este menino está cantando i²-ja³ a³-ño³-kat²-kat²-Žit²Žit² je³-bi³-bo²-do²-don²
+177. aquele menino está ouvindo i²-bo³ a³-ño³-kat²-kat²-Žit²-Žit² je³-ky³-jo²-jom²
+178. marido -t-op² / -ktop²
+179. esposa, a sua mulher -t-ay³-xi³
+180. aquela mulher é a esposa dele ño²-k³ a³-ya²-cat² i³-t-ay³-xi³
+181. pai bay³
+182. mãe -xi²
+183. nome -b³-tet²
+184. eu õn²
+185. tu (você) ẽn²
+186. ele i²-xe³ / i³-te² / i³-bo² / i³-ja² / i³-jop² / i³-ño² (cf. p. 186)
+187. a. nós (incluindo você) wy³-j²
+b. nós (excluindo você) o³-ce³-j²
+c. vocês e eu ---
+d. eu e outro ---
+e. eu e outros ---
+188. vós (vocês) ey³-j²
+189. eles i²-xe³-y³ / i³-te²-y³ / i³-bo²-y³ / i³-ja²-y³ / i³-jop²-y³ / i³ño²-y³
+
+190. Quem está vindo? a³-b² a³-jẽm²
+191. Quem está empurrando? a³-b² i³-m³-wn²-y³-wn²
+192. Como costuram vocês? a³-pẽn² ey³-j² i³-i³nm³-nm³
+193. Como se racha pau? a³-pẽn² y-op³-m³-we²-ka²-kam²
+194. Quando você vai caçar? p³-ñn² -ẽn² je³-o²roŋ²
+195. Quando você vai ficar em pé? p³-ñn² e³-ce²-sy³ cŋ²-Ži³
+196. Onde estão brincando as crianças? po³-ce² be³-kit²-kit² kay4-pat²-pan²
+197. Onde você vai cavar? po³-ce² ẽn² iŽ³-pi³-kon²
+198. O que é que ele sabe? a³-jo²-m i³-ño² i³-t-ay³-bit²
+199. O que é que está cheirando? a³-jo² i³-Že² t-e³-Žo²
+200. ele está morrendo porque caiu (± i²-xe³) je³-Žm² oŽ³-at² p³ye²
+201. ele está molhado porque nadou t-i²rem³ oŽ³-je²-ko²ro³-rot³ p³ye²
+202. ele ouviria se cantasse je³-bi³-bo²-do²-dot² p³je² y-a4-Žĩ²-jo² k4ka² o³-Že²
+203. ele mataria (o cachorro) se o mordesse a4k²ri³ce² y-a4-a² b³je² y-a4-o²-ka³ k4ka² o³-Že²
+204. não ka³-Žm²-ma³
+205. ele não está rindo (± i²-xe³) je³-way²-way²-way² ñ²
+206. não é o pai dele ce³-bay³ ñ²
+207. outro wa³ra³-Žat² (adj) wa³ra³-Žat²-at² (s)
+
+208. a. e ---
+b. ele matou jacarés i²-xe³ a³pat²-(± y³) oŽ³-y-a²-o²-ka³
+N.B. O morfema de plural -y³ é facultativo. Usa-se, principalmente, para dar ênfase ou para esclarecimento.
+c. ele matou antas i²xe³ bi²o³-(± y²) oŽ³-y-a²-o²-ka³
+d. ele matou antas e jacarés i²-xe³ bi²o³-(± y²) oŽ³-y-a²-o²-ka³ a³-pat²-(± y³) dak²
+209. a. com kŋ² / e³-j²
+b. ele come carne i²-xe³ i³-ẽn³ o²-Žom² / i²-xe³ i³-ẽn³-Žk²
+c. ele come sal i²-xe³ kaw³ta²-Žo²-Žom² / i²-xe³ kaw³ta²-Žk³
+d. ele come carne com sal i²-xe³ i³-ẽn³-Žo²-Žom² kaw³ta² e³-j²
+210. ele anda com a mãe i²-xe³ je³-xĩŋ-xĩŋ³ je³-xi² e³-j²
+211. a. a, em kay² / be³
+b. está em casa ik³-Ža² be³ (± o³-pop² / o³-my²)
+c. vai à casa k³-Ža² kay³ cm²
+212. ele está na canoa i²-xe³ ko³be³ be² (± o³-pop² / o³-my²)
+213. um pŋ²
+214. dois xep³-xep²
+215. três e³-ba²-pŋ²
+
+216. quatro e³-ba²-dip³-dip²
+217. cinco sĩ²ku³ / pŋ² põŋ³-bi²
+218. nós contamos (enumerar) wy³-j² i³-m³-wẽñ²-³-wẽn²
+219. ele está em pé i³-ño cŋ³-Ži²
+220. ele está sentado i³-ño² xik²- Ži³
+221. ele está deitado i³-ño² po²-Ži³
+222. ele dorme i²-xe³ i³-xet² (± o³-pop²)
+223. ele deitou-se para dormir oŽ³-je²-po² je³-xet²-am²
+224. ele vê i²-xe³ i³-jo²-jom²
+225. ele ouve i²-xe³ y-a³-Žĩ²-jo²-jom²
+226. nós (eu e vocês) sopramos wy³-j² i³-m³-pow²-³-pow²
+227. ele respira i²-xe³ je³-pi²-do³-wat²-wan²
+228. ele cheira i²-xe³ i³-yõ³-yõn³ / i³-Že³ t-e³-Žo²
+229. ele come i²-xe³ je³-kõn³-kõn³
+230. ele bebe i²-xe³ t-i³-kõn²-kõn²
+231. ele chupa i²-xe³ i³-m³-ko²nõm4-ko²nõm4 / i³-m³-ti²-ti4-tin4
+232. ele está vomitando i²-xe³ je³-da4-da4-dan4
+233. ele morde i²-xe³ i³-a²-ham²
+234. ele está inchado i³-e²-²-h³ / i³-e²-³
+
+235. ele sabe i³-t-ay³-bit²
+236. ele está pensando i²-xe³ je³-wa²-ñy4-ñy4
+237. ele pensa bem i²-xe³ xi²pa³-n je³-wa²-ñy4-ñy4
+238. ele tem medo i³-pa³ra³-ra³
+239. ele está falando i²-xe³ je³-de³-dem³ / je³-ka³-wẽn³-wẽn³
+240. ele fala certo (não erradamente) xi²pa³-n je³-ka³-wẽn³-wẽn³
+241. ele diz: "não" ka³-Žm²-ma³ i²-o³-Že²
+242. ele está cantando i²-xe³ je³-bi³-bo²-do²-don²
+243. ele está rindo i²-xe³ je³-way²-way²-way²
+244. ele está esfregando i²-xe³ i³-m³-we²s4-we²sm4
+245. ele raspa, coca i4-k4-r4-s4-s4 / i³-ko³-re²-rem²
+246. ele aperta i²-xe³ i³-m³-kŋ4-³-kŋ4
+247. ele está furando i²-xe³ i³-m³-tok²-³-toŋ²
+248. ele está limpando (com pano) i²-xe³ i³-sp²-sm² pa²ñu³-m
+249. ele corta i²-xe³ t-a³-kat4-kan4
+250. ela está costurando i²-xe³ i³-i³-nm-nm³
+251. ele está amarrando i²-xe³ i³-mn³-mn³ / i³-m³-ki²rik4-ki²riŋ4
+252. ela está lavando i²-xe³ i³-wy³-wy³
+253. ele está rachando i²-xe³ i³-m³-we²-ka²-kam²
+
+254. ele está cavando aqui i²-xe³ i³-kot³-kon³ i³-jo³-ce²
+255. ele está jogando (coisas) i²-xe³ i³-xik²-xiŋ²
+256. ele está batendo (alguma coisa) i²-xe³ i³-m³-pã4-³-pãm4 / i³-m³-pã²-pã4-pãm4
+257. ele dá i²-xe³ i³-m²-m²
+258. ele está andando i²-xe³ xŋ³-xŋ³ / je³-xŋ³-xŋ³ / cŋ³-cŋ³
+259. ele está dando volta i²-xe³ xŋ³-xŋ³ je³-pin²
+260. eles estão vindo i²-xe³ do²-don²
+261. ele esta puxando i²-xe³ i³-m³-p²xik4-p²xiŋ4
+262. ele está empurrando i²-xe³ i³-m³-wn²-³-wn²
+263. ele cai i²-xe³ Žat²-Žan²
+264. ele está brigando i²-xe³ je³-w-a4-Žo²-ka²-kam²
+265. ele está brincando i²-xe³ kay4-pat²-pan²
+266. ele está caçando i²-xe³ je³-o²rok²-o²roŋ²
+267. ele mata i²-xe³ y-a4-o²-ka²-kam²
+268. ele está voando i²-xe³ je³-p²-p²-pm²
+269. o homem está nadando a³-ño²-kat²-kat² je³-ko²-do²-do²-don² / je³-doŋ²doŋ²-doŋ²
+270. ele está vivo i³-t-a³-Žit²
+271. ele está morrendo i²-xe³ je³-Ž²-Žm²
+272. bom xi²-pat³
+
+273. mau xi²pat³ ñ²
+
+274. novo -i³s²
+
+275. velho coisa homen mulher
+
+-o²kok² ay²pa³ -a³bt²
+
+276. estragada fruta carne
+
+-kẽ²rẽ²/ -o²kok²/-e²rep² -ñẽm²
+
+277. redondo como cabeça como balde como prato
+
+-doy4-dey4 -a4-r²bŋ²-bŋ² -a4-wa4-ket³-kt²
+
+278. reto -cŋ³
+
+279. frio -ck4
+
+280. quente -da³xip²
+
+281. amarelo -pek³-pk²
+
+282. verde não madura -kit³
+
+cor -rem³-rm²
+
+283. vermelho -pak³-pk²
+
+284. preto -ok²
+
+285. branco -rt³
+
+286. a. sujo -o²kok²
+b. a água está suja i³-di³-bi² t-i³-o²kok²
+c. a panela está suja i³-tĩŋ²-Ža³ y-a4-o²kok²
+
+287. molhado -di²rem³
+
+288. seco carne, etc. -p³rk³
+
+água t-i³-ap²
+
+289. liso -ko²rop² / -sẽm³
+
+290. pesado -po³xi²
+
+291. é certo (não errado) ce³-daŋ³ / -cŋ³
+
+292. todos so³at²
+
+293. muito a²de²
+
+294. poucos a²de² ñ²
+
+295. alguns -pŋ³-pŋ²
+
+296. espesso, grosso -a³-di²xiŋ²
+
+297. fino -e³-rn³
+
+298. comprido -be²ren²
+
+299. curto -a4-pĩn¹
+
+300. largo, amplo rio vestido tábua
+
+t-i³-wã³-b²-boŋ³ -o³põŋ²-boŋ³ -e³-rn³-boŋ²
+
+301. estreito, apertado rio vestido tábua
+
+t-i³-cŋ³ -kŋ4-lŋ4 -e³-rn³-ĩt¹-ma4
+
+302. grande -o³-boŋ³ / -boŋ³
+
+303. pequeno -ĩt¹-ma4 / -ist¹-ma4
+
+304. aqui i³-jo³-ce² / jo³-ce²-k³
+
+305. aí i³-bo³-ce² / bo³-ce²-k³
+306. mão direita -ba³-Žat²
+307. mão esquerda -ba³-Žĩŋ²
+308. longe wy²
+309. perto -ja³-sn² / -ja³-sn¹-ma4
+310. a. meu nariz o³-na³-b²
+b. seu nariz (de você) e³-na³-b²
+c. seu nariz (dele) t-ã³-b² / je³-na³-b²
+d. nossos narizes (de mim e você) wy³-na³-b²
+e. nossos narizes (de mim e outros) o³-ce²-na³-b²
+f. seus narizes (de vocês) ey³-na³-b²
+g. seus narizes (deles) t-a³-b²-ip² / je³-na³-b²-ip²
+311. a. meu pé w³-i²
+b. seu pé (de você) e³-i²
+c. seu pé (dele) s³-i² / je³-i²
+d. nossos pés (de mina e você) wy³-e³-i²
+e. nossos pés (de mim e outros) o³-ce²-i³
+f. seus pés (de vocês) ey³-e³-i²
+g. seus pés (deles) s³-i²-ip² / je³-i²-ip²
+
+312. a. minha boca o³-bi²
+b. sua boca (de você) e³-bi²
+c. sua boca (dele) i³-bi² / je³-bi²
+d. nossas bocas (de mim e você) wy³-bi²
+e. nossas bocas (de mim e outros) o³-ce²-bi³
+f. suas bocas (de vocês) ey³-bi²
+g. suas bocas (deles) i³-bi²-ip² / je³-bi²-ip²
+313. a. minha mãe o³-xi²
+b. sua mãe (de você) e³-xi²
+c. sua mãe (dele) i³-xi² / je³-xi²
+d. nossas mães wy³-xi² / o³-ce²-xi³
+e. sua mãe (de vocês) ey³-xi²
+f. sua mãe (deles) i³-xi²-ip² / je³-xi²-ip²
+314. a. meu pai we³-bay³
+b. seu pai (de você) e³-bay³
+c. seu pai (dele) ce³-bay³ / je³-bay³
+d. nossos pais wy³-e³-bay³ / o³-ce²-bay³
+e. seu pai (de vocês) ey³-e³-bay³
+f. seu pai (deles) ce³-bay³-ip² / je³-bay³-ip²
+
+315. a. meu peixe we³-a³xi³ma² / o³-we²-be³-ap² a³xi³ma²
+b. seu peixe (de você) e³-a³xi³ma² / e³-we²-be³-ap² a³xi³ma²
+c. seu peixe (dele) ce³-a³xi³ma² / ce³-be²-ap² a³xi³ma²
+d. nosso peixe (de mim e você) wy³-e³-a³xi³ma² / wy³-we²-be³-ap² a³xi³ma²
+e. nosso peixe (de mim e outros) o³-ce²-a³xi³ma² / o³-ce³-we²-be³-ap² a³xi³ma²
+f. seu peixe (de vocês) ey³-e³-a³xi³ma² / ey³-we²-be³-ap² a³xi³ma²
+g. seu peixe (deles) ce³-a³xi³ma²-ip² / ce³-be²-ap²-ip² a³xi³ma²
+316. a. minha casa o³-dk³-Ža²
+b. sua casa (de você) e³-dk³-Ža²
+c. sua casa (dele) t-k³-Ža² / je³-dk³-Ža²
+d. nossa casa (de mim e vocês) wy³-dk³-Ža²
+e. nossa casa (de mim e outros) o³-ce²-dk³-Ža²
+f. sua casa (de vocês) ey³-dk³-Ža²
+g. sua casa (deles) t-k³-Ža²-ip² / je³-dk³-Ža²-ip²
+317. a. minha canoa we³-ko³be²
+b. sua canoa (de você) e³-ko³be²
+c. sua canoa (dele) ce³-ko³be² / je³-ko³be²
+d. nossas canoas (de mim e você) wy³-e³-ko³be²
+e. nossas canoas (de mim e outros) o³-ce²-ko³be²
+
+f. suas canoas (de vocês) ey³-e³-ko³be²
+g. suas canoas (deles) ce³-ko³be²-ip² / je³-ko³be²-ip²
+318. a. meu arco we³-da²rk²
+b. meu arco (de você) e³-da²rk²
+c. seu arco (dele) ce³-da²rk² / je³-da²rk²
+d. nossos arcos (de mim e você) wy³-e³-da²rk²
+e. nossos arcos (de mim e outros) o³-ce²-da²rk²
+f. seus arcos (de vocês) ey³-e³-da²rk²
+g. seus arcos (deles) ce³-da²rk²-ip² / je³-da²rk²-ip²
+319. a. eu sou grande y-o³-boŋ³
+b. você é grande e³-boŋ³
+c. ele é grande y-o³-boŋ³
+d. nós (eu e você) somos grandes wy³-boŋ³
+e. nós (eu e outros) somos grandes o³-ce²-boŋ³
+f. vocês são grandes ey³-boŋ³
+g. eles são grandes y-o³-boŋ³-ip²
+320. a. eu estou sujo o³-o²kok²
+b. você está sujo e³-o²kok²
+c. ele está sujo i³-o²kok²
+
+d. nós (eu e você) estamos sujos wy³-o²kok²
+
+e. nós (eu e outros) estamos sujos o³-ce²-o²kok²
+
+f. vocês estão sujos ey³-o²kok²
+
+g. eles estão sujos i³-o²kok²-ip²
+
+321. a. eu sou bom xi²pat³ ma² Ža³-ñ² õn²
+
+b. você é bom xi²pat³ ma² Ža³-ñ² ẽn²
+
+c. ele é bom xi²pat³ ma² Ža³-ñ² i²-bo³
+
+d. nós (eu e você) somos bons xi²pat³ ma² Ža³-ñ² wy³-j²
+
+e. nós (eu e outros) somos bons xi²pat³ ma² Ža³-ñ² o³-ce³-j²
+
+f. vocês são bons xi²pat³ ma² Ža³-ñ² ey³-j²
+
+g. eles são bons xi²pat³ ma² Ža³-ñ² i²-xe³-y³
+
+homem 322. a. eu sou velho
+õn² ay²pa³
+
+mulher w-a³-bt²
+
+b. você é velho ẽn² ay²pa³
+
+a³bt²
+
+c. ele é velho i³-te² ay²pa³
+
+y-a³-bt²
+
+d. nós (eu e você) somos velhos wy³-j² ay²pa³-pa³
+
+wy³-a³-bt²
+
+e. nós (eu e outros) somos velhos o³-ce³-j² ay²pa³-pa³
+
+o³-c-a²-bt²
+
+f. vocês são velhos ey³-j² ay²pa³-pa³
+
+ey³-a³-bt²
+
+g. eles são velhos i³-te²-y³ ay²pa³-pa³
+
+y-a³bt²-ip²
+
+323. a. eu estou vermelho (com urucu) o³-pak³-pk²
+b. você está vermelho e³-pak³-pk²
+c. ele está vermelho i³-pak³-pk²
+d. nós (eu e você) estamos vermelhos wy³-pak³-pk²
+e. nós (eu e outros) estamos vermelhos o³-ce²-pak³-pk²
+f. vocês estão vermelhos ey³-pak³-pk²
+g. eles estão vermelhos i³-pak³-pk²-ip²
+324. a. eu lavo (algo) õn² i³-wy³-wy³
+b. você lava ẽn² i³-wy³-wy³
+c. ele lava i²-xe³ i³-wy³-wy³
+d. nós (eu e você) lavamos wy³-j² i³-wy³-wy³
+e. nós (eu e outros) lavamos o³-ce³-j² i³-wy³-wiy³
+f. vocês lavam ey³-j² i³-wy³-wy³
+g. eles lavam i²-xe³-y³ i³-wy³-wy³
+325. a. eu caço õn² je³-o²rok²-o²roŋ²
+b. você caça ên² je³-o²rok²-o² roŋ²
+c. ele caça i²-xe³ je³-o²rok²-o²roŋ²
+d. nós (eu e você) caçamos wy³-j² je³-o²rok²-o²roŋ²
+e. nós (eu e outros) caçamos o³-ce³-j² je³-o²rok²-o²roŋ²
+
+f. vocês caçam ey³-j² je³-o²rok²-o²roŋ²
+g. eles caçam i²-xe³-y³ je³-o²rok²-o²roŋ²
+326. a. eu caio õn² at²-Žan²
+b. você cai ẽn² at²-Žan²
+c. ele cai i²-xe³ at²-Žan²
+d. nós (eu e você) caímos wy³-j² at²-Žan²
+e. nós (eu e outros) caímos o³-ce³-j² at²-Žan²
+f. vocês caem ey³-j² at²-Žan²
+g. eles caem i²-xe³-y³ at²-Žan²
+327. a. eu tenho medo o³-pa³ra³-ra³
+b. você tem medo e³-pa³ra³-ra³
+c. ele tem medo i³-pa³ra³-ra³
+d. nós (eu e você) temos medo wy³-pa³ra³-ra³
+e. nós (eu e outros) temos medo o³-ce²-pa³ra³-ra³
+f. vocês têm medo ey³-pa³ra³-ra³
+g. eles têm medo i³-pa³ra³-ra³-ip²
+328. a. eu puxo (algo) õn² i³-m³-p²xik4-p²xiŋ4
+b. você puxa ẽn² i³-m³-p²xik4-p²xiŋ4
+c. ele puxa i²-xe³ i³-m³-p²xik4-p²xiŋ4
+
+d. nós (eu e você) puxamos wy³-j² i³-m³-p²xik4-p²xiŋ4
+e. nós (eu e outros) puxamos o³-ce³-j² i³-m³-pi²xik4-p²xiŋ4
+f. vocês puxam ey³-j² i³-m³-p²xik4-p²xiŋ4
+g. eles puxam i³-m³-p²xik4-p²xiŋ4-ip²
+329. a. eu estou em pé õn² cŋ³-Ži²
+b. você está em pé ẽn² cŋ³-Ži²
+c. ele está em pé i²-xe³ cŋ³-Ži²
+d. nós (eu e você) estamos em pé ka³-cŋ³-cŋ³-Ži² wy³-j²
+e. nós (eu e outros) estamos em pé ka³-cŋ³-cŋ²-Ži² o³-ce³j²
+f. vocês estão em pé ka³-cŋ³-cŋ²-Ži² ey³-j²
+g. eles estão em pé ka³-cŋ³-cŋ²-Ži³-ip
+330. a. eu ando õn² xĩŋ³–xĩŋ³
+b. você anda ẽn² xĩŋ³–xĩŋ³
+c. ele anda i³-te² xĩŋ³–xĩŋ³
+d. nós (eu e você) andamos wy³-j² xĩŋ³–xĩŋ³
+e. nós (eu e outros) andamos o³-ce³-j² xĩŋ³–xĩŋ³
+f. vocês andam ey³-j² xĩŋ³–xĩŋ³
+g. eles andam xĩŋ³–xĩŋ³-ip²
+331. a. o cachorro mordeu a mim a4k²ri³ce² o²-a³
+
+b. o cachorro mordeu a você a4k²ri³ce² e²-a³
+c. o cachorro mordeu a ele a4k²ri³ce² oŽ³-jo²-a²
+d. o cachorro mordeu à cobra a4k²ri³ce² py³-b² oŽ³-s²-b³-a²
+e. o cachorro mordeu a nós (eu e você) a4k²ri³ce² wy4-a²
+f. o cachorro mordeu a nós (eu e outros) a4k²ri³ce² o³-ce²-a³
+g. o cachorro mordeu a vocês a4k²ri³ce² ey4-a²
+h. o cachorro mordeu a eles a4k²ri³ce² oŽ³-jo²-a²-ip²
+332. a. ele dá flechas a mim i²-xe³ da²rk² m²-m² o³-we²-be³
+b. ele dá flechas a você i²-xe³ da²rk² m²-m² e³-we²-be³
+c. ele dá flechas ao outro i²-xe³ da²rk² m²-m² wa²ra³-at²-at²-pe³
+ele dá flechas a ele i²-xe³ da²rk² m²-m² ce³-be²
+d. ele dá flechas a nós (a mim e você) i²-xe³ da²rk² m²-m² wy4-we²-be³
+e. ele dá flechas a nós (a mim e outros) i²-xe³ da²rk² m²-m² o³-ce³-we²-be³
+f. ele dá flechas a vocês i²-xe³ da²rik² m²-im² ey4-we²-be³
+g. ele dá flechas a eles i²-xe³ da²rk² m²-m² ce³-be²-ip²
+333. a. eu queimei o pau o³-y-op4-m²-pik²
+b. você queimou o pau e³-y-op4-m²-pik²
+c. ele queimou o pau oŽ³-y-op4-m²-pik²
+
+d. nós (eu e você) queimamos o pau a³-y-op4-m²-pik²
+e. nós (eu e outros) queimamos o pau o³-ce²-y-op4-m²-pik²
+f. vocês queimaram o pau e³-pe³-y-op4-m²-pik²
+g. eles queimaram o pau oŽ³-y-op²-m³-pik²-ip²
+334. a. eu bato em você õn² e³-m³-pã4-³-pãm4
+b. eu bato nele õn² i³-m³-pã4-³-pãm4
+c. eu bato em vocês õn² ey4-m³-pã4-³-pãm4
+d. eu bato neles õn² i³-m³-pã4-³-pãm4-ip²
+e. você bate em mim ẽn² o³-m³-pã4-³-pãm4
+f. você bate nele ẽn² i³-m³-pã4-³-pãm4
+g. você bate em nós (em mim e em outros) ey³-j² o³-ce²-m³-pã4-³-pãm4
+h. você bate neles ẽn² i³-m³-pã4-³-pãm4-ip²
+i. ele bate em mim i²-xe³ o³-m³-pã4-³-pãm4
+j. ele bate em você i²-xe³ e³-m³-pã4-³-pãm4
+k. ele bate no outro i²-xe³ i³-m³-pã4-³-pãm4
+l. ele bate em nós (em mim e você) i²-xe³ wy4-m³-pã4-³-pãm4
+m. ele bate em nós (em mim e em outros) i²-xe³ o³-ce²-m³-pã4-³-pãm4
+n. ele bate em vocês i²-xe³ ey4-m³-pã4-³-pãm4
+o. ele bate nos outros i²-xe³ i³-m³-pã4-³-pãm4-ip²
+
+p. nós (eu e você) batemos nele wy³-j² i³-m³-pã4-³-pãm4
+q. nós (eu e você) batemos neles wy³-j² i³-m³-pã4-³-pãm4-ip²
+r. nós (eu e outro) batemos em você o³-ce³-j² e³-m³-pã4-³-pãm4
+s. nós (eu e outro) batemos nele o³-ce³-j² i³-m³-pã4-³-pãm4
+t. nós (eu e outro) batemos em vocês o³-ce³-j² ey4-m³-pã4-³-pãm4
+u. nós (eu e outro) batemos neles o³-ce³-j² i³-m³-pã4-³-pãm4-ip²
+v. vocês batem em mim ey³-j² o³-m³-pã4-³-pãm4
+w. vocês batem nele ey³-j² i³-m³-pã4-³-pãm4
+x. vocês batem em nós (em mim e em outros) ey³-j² o³-ce²-m³-pã4-³-pãm4
+y- vocês batem neles ey³-j² i³-m³-pã4-³-pãm4-ip²
+z. eles batem em mim i²-xe³-y³ o³-m³-pã4-³-pãm4
+aa. eles batem em você i²-xe³-y³ e³-m³-pã4-³-pãm4
+bb. eles batem no outro i²-xe³-y³ i³-m³-pã4-³-pãm4
+cc. eles batem em nós (em mim e você) i²-xe³-y³ wy4-m³-pã4-³-pãm4
+dd. eles batem em nós (em mim e em outros) i²-xe³-y³ o³-ce²-m³-pã4-³-pãm4
+ee. eles batem em vocês i²-xe³-y³ ey4-m³-pã4-³-pãm4
+ff. eles batem nos outros i²-xe³-y³ i³-m³-pã4-i³-pãm4-ip²
+335. a. eu me cortei o³-ce³-we³-da²kat4 / o³-ce³-we³-ka²
+b. você se cortou e³-ce³-we³-da²kat4 / e³-ce³-we³-ka²
+
+c. ele se cortou oŽ³-je²-we³-da²kat4 / oŽ³-je²-we³-ka²
+d. nós nos cortamos o³-ce³-je²-we³-da²kat4 / o³-ce³-je²-we³-ka²
+e. vocês se cortaram e³-pe³-ye³-we³-da²kat4 / e³-pe³-ye³-we³-ka²
+f. eles se cortaram oŽ³-je²-we³-da²kat4-ip² / oŽ³-je²-we³-ka²-ip²
+336. eles brigaram (um com outro) oŽ³-je²-w-a4-o²-ka³-ka³-ip² je³-we²-we³-j²
+337. eles brincaram (um com outro) oŽ³-je²-kay4-pat²-pan²-ip² je³-we²-we³-j²
+338. eles bateram (um com outro) oŽ³-je²-w-a4-o²-ka³-ip² / oŽ³-ñ²-pã4-³-pã4-ip²
+339 a. ele está matando o jacaré i²-xe³ a³pat²-a4-o²-ka²-kam²
+b. ele vai matar o macaco (prego) i²-xe³ ta³we²-a4-o²-kam²
+c. ele já matou a cobra i²-xe³ ky² py³-b² oŽ³-s²b³-a4-o²-ka³
+d. ele sempre mata peixe i²-xe³ so³at² em² a³xi³ma²-a4-o²-ka²-kam²
+e. ele matava peixe (quando era menino) i²-xe³ a³xi³ma²-a4-o²-ka²-ka²-Žk² o³-s²-ny³
+f. o menino vai matar jacaré (quando fôr homem) a³-ño²-kat²-kat²-Žit²Žit² a³pat² oŽ³-y-a4-o²-ka³
+g. ele não matou o passarinho i²-xe³ wã²s³ oŽ³-y-a4-o²-ka³ ñ²
+h. ele não mata gente i²-xe³ wy³-j²-y³-a4-o²-ka²-kam² ñ²
+i. mate a cobra! py³-b² e³-s³-b³-a4-o²-ka³
+j não mate, não¹. e³-y-a4-o²-ka³ ñ²
+340. a. ele está dormindo i³-xet² / i²-xe³ xe²-xen²
+
+b. ele vai dormir (agora mesmo) i²-xe³ xen² pk³
+c. ele vai dormir (amanhã) i²-xe³ xen² k³-ya²-je³ / k³ya²-je³ xen²
+d. ele dormiu (há pouco tempo) oŽ³-xet²
+e. ele dormiu (quando era menino) i²-xe³ xe²-xet²-k² o³-s²-ny³
+f. ele dorme (muito, sempre) so³at² em² i²-xe³ xe²-xen²
+g. ele não dorme nunca i²-xe³ xe²-xen² ñ²
+h. ele não dormiu hoje oŽ³-xet² ñ² ña²s²
+i. durma! e³-xet³ / e³-xet³ cy²
+j. não durma, não! e³-xet³ ñ² / e³-xet³ ñ² jy³
+341. a. ele está comendo i²-xe³ i³-Žo²-om²
+b. ele vai comer (agora mesmo) i³-Žom² pk³ i²-xe³
+c. ele vai comer (amanhã) i²-xe³ i³-Žom² k³ya²-je³
+d. ele comeu (há pouco tempo) oŽ³-jo²-Žo³
+e. ele comeu (quando era menino) i²-xe³ i³-Žo²-Žo²-Žk² o³-s²-ny³
+f. ele come (muito, sempre) so³at² em² i³-Žo²-Žom² i²-xe³
+g. ele não come nunca i²-xe³ i³-Žo²-Žom² ñ²
+h. ele não comeu hoje oŽ³-jo²-Žo³ ñ² ña²s²
+i. coma! e³-jo³-Žo² / e³-jo³-Žo² jy³
+
+j. não coma, não! e³-jo³-Žo² ñ² / e³-jo³-Žo² ñ² jiy³
+
+Tem mais umas formas dos verbos.
+
+1. Quando aconteceu no tempo passado mais do que uma só vez, i. e.
+
+ele dormiu
+oŽ³-xe²-xet²
+
+ele matava
+oŽ³-y-a4-o²-ka³-ka³
+
+ele comeu
+oŽ³-jo²-Žo²-Žo²
+
+2. Com verbos auxiliares se-usa forma a. com o auxiliar.
+
+Ele foi comendo
+i²-xe³ i³-Žo²-Žom² o³Že²
+Ele foi dormindo
+i²-xe³ xe³-xen³ o³-Že²
+Ele foi matando
+i²-xe³ y-a4-o²-ka³-kam³ o³-Že²
+
+Ele estava matando
+i²-xe³ y-a4-o²-ka³-kam³ o³-s²-ny³
+Ele estará comendo
+i²-xe³ i³-Žo²-Žom² je²Že³
+Ele estará dormindo
+i²-xe³ xe³-xen³ je²-Že³
+
+Ele estava comendo
+i²-xe³ i³-Žo²-Žom² o³-
+s²-ny³
+
+Ele estará matando
+i²-xe³ y-a4-o²-ka³-kam³ je²-Že³
+
+Ele estava dormindo
+i²-xe³ xe³-xen³ o³-s²ny³
+
+As palavras traduzidas "ele" são estas:
+
+-xe
+
+3ª pess sg afastando-se do locutor
+
+-te
+
+3ª pess sg chegando ao local do locturo
+
+-bo
+
+3ª pess sg distante do locutor, deitado no chão
+
+-jo/ -jop 3ª pess sg próximo ao locutor, deitado no chão
+
+-j -ño
+
+3ª pess sg próximo ao locutor, ou com uma coisa na sua mão ou oferecendo uma coisa na sua mão
+3ª pess sg distante do locutor, de pé
+
+-ja
+
+3ª pess sg próximo ao locutor, de pe
+
+Com o prefixo i- funcionam como pronomes. Com o sufixo -ki funcionam como locativos. -xe e -te são os mais usados como pronomes. Visto que os índios quase não usam os nomes próprios, todas as formas pronominais são muito usados.
+
+a
+acom adj b
+B ben c
+C cab caus cit clsdr Co
+Com Concl
+d
+DD def dem-loc dep desc dfnto dir DS
+emot En ent pos e-r Es ex Excl
+
+Apêndice D SIMBOLOGIA
+
+marcador de pessoa-sujeito, grupo a
+acompanhamento adjetivo marcador de pessoa-sujeito,
+grupo b
+Base benefício marcador de pessoa-sujeito,
+grupo c
+Conetivo cabeça causativo citação, citativa classificador Corpo - nível de encontro,
+discurso Comentário Conclusão
+marcador de pessoa-sujeito, grupo d
+diálogo de despedidas definitivo demonstrativo-locativo dependente descritivo defunto direcional diálogo de saudações
+emotivo Encerramento entidade possuída eixo-referente Estímulo exclusivo Exclamação
+
+Exp
+
+Expansão
+
+flex
+
+flexionado
+
+ideo in In ind indep int intr
+
+ideofone inclusivo Início indicativa independente interrogativo intransitivo
+
+loc Loc loc dem loc e-r loc loc loc nom loc nom-gen loc pro loc v loc v desc loc v intr loc v ptr loc v r-s loc v tr
+
+locução Locativo locução demonstrativa locução eixo-referente locução locativa locução nominal locução nominal-genitiva locução pronominal locução verbal locução verbal descritiva locução verbal intransitiva locução verbal pseudo-transitiva locução verbal referente a sujeito locução verbal transitiva
+
+m mcdr mcdr inst mdir mod
+
+modal marcador marcador de instrumento mudador de direção modificador
+
+N não-poss Neg dep Neg indep nom num
+
+Núcleo não-possuível Negativo dependente Negativo independente nominalizador nome numeral
+
+obj Obj Or cit ord Or dep Or desc Or ind Or intr Or nom ort Or tr
+P pal pal loc part part ext part m part qual pess Pl pos Pos poss poss al
+poss inal
+pre Pred pro pseu ptr
+
+objeto - nível de palavra Objeto - nível de oração Oração citadora orientação direcional Oração dependente Oração descritiva Oração independente Oração intransitiva Oração nominalizada orientação temporal Oração transitiva
+Parágrafo palavra palavra locativa partícula partícula de existência partícula modal partícula qualificadora pessoa-sujeito plural posicional Posição possessivo possessão alienável,
+alienavelmente possuido possessão inalienável,
+inalienavelmente possuido prefixo Predicado pronome pseudo pseudo transitivo
+
+qual
+r r dem-loc red red parc ref refl rel rel est rn r-s rv rv. intr
+s S scls sg suj Suj
+T Tóp tr
+v v desc v flex v intr v red v tr
+
+qualificador
+radical raiz demonstrativo-locativa reduplicado, reduplicação reduplicação parcial referente reflexivo relacionador relacionadora estativa radical nominal, raiz nominal referente a sujeito radical verbal, raiz verbal radical verbal intransitivo
+substantivo Sentença substantivo classificado singular sujeito - nível de palavra Sujeito - nível de oração
+Tempo verbal Tópico transitivo
+verbo verbo descritivo verbo flexionado verbo intransitivo verbo reduplicado verbo transitivo
+
+19 fev. 06
+
+127
+
+SL-2 Munduruku.DOC
+
+

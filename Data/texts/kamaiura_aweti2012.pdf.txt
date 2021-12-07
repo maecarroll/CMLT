@@ -1,0 +1,900 @@
+Universidade de Brasília Instituto de Letras
+Departamento de Linguística, Português e Línguas Clássicas Programa de Pós-Graduação em Linguística
+AWETÍ E TUPÍ-GUARANÍ, RELAÇÕES GENÉTICAS E CONTATO LINGUÍSTICO
+WARÝ KAMAIURÁ
+BRASÍLIA 2012
+
+WARÝ KAMAIURÁ
+AWETÍ E TUPÍ-GUARANÍ, RELAÇÕES GENÉTICAS E CONTATO LINGUÍSTICO
+Dissertação de mestrado apresentada ao Curso de PósGraduação em Linguística do Departamento de Linguística, Português e Línguas Clássicas da Universidade de Brasília como requisito parcial para a obtenção do título de Mestre em Linguística. Área de Concentração: Teoria e Análise Linguística de Línguas Indígenas Orientadora: Profa. Dra. Ana Suelly Arruda Câmara Cabral
+BRASÍLIA 2012
+
+WARÝ KAMAIURÁ
+AWETÍ E TUPÍ-GUARANÍ, RELAÇÕES GENÉTICAS E CONTATO LINGUÍSTICO
+Esta dissertação foi julgada adequada à obtenção do título de Mestre em Linguística e aprovada em sua forma final pelo Curso de Mestrado em Linguística da Universidade de Brasília.
+Brasília, 2 de março de 2012.
+______________________________________________________ Professora Ana Suelly Arruda Câmara Cabral, Ph. D. University of Pittsburgh (Presidente)
+Universidade de Brasília ______________________________________________________ Prof. Aryon Dall’Igna Rodrigues, Ph. D. Universidade de Hamburgo (Membro interno)
+Universidade de Brasília ______________________________________________________ Profa. Carmen Junqueira, Profa. Emérita da PUC, SP (Membro externo)
+Pontifícia Universidade Católica de São Paulo ______________________________________________________ Profa. Maria Luisa Ortiz Alvarez, Docteur, Dra. Universidade de Campinas (Suplente)
+Universidade de Brasília
+
+Aos Povos Awetí e Kamaiurá
+
+AGRADECIMENTOS
+Gostaria de agradecer a todos os que apoiaram com confiança o trabalho de pesquisa de campo que realizei dentro das aldeias no Alto Xingu, nas aldeias Awetí e nas aldeias Ypawú e Morená Kamaiurá. Agradeço principalmente às pessoas que me incentivaram para o meu estudo: meu pai Tamahet Kamaiurá, minha mãe Kumatsi Akalu Kamaiurá Awetí, meu avô Kanutari Kamaiurá e sua eposa Yawi Kamaiurá, Aisanain Páltu Kamaiurá, e à minha esposa Vilma José Sabino, que ajudou na parte de nomes dos animais, aves e pássaros e que me incentivou, iluminando o meu caminho durante os meus estudos.
+Meu agradecimento com muito carinho especial a quem me acolheu, os meus segundos pais, que são os meus orientadores, a professora Dra. Ana Suelly Arruda Câmara Cabral e o Professor Emérito Dr. Aryon Dall’Igna Rodrigues, os quais me revelaram ser capaz de, como índio, como pesquisador, ser possuidor de uma grande confiança em mim mesmo para fazer um mestrado em linguística na Universidade de Brasília, e que me ensinaram sobre os caminhos da linguística descritiva e da linguística histórica, para que eu me torne um linguista de minhas duas línguas nativas, Awetí e Kamaiurá.
+Quero manifestar meu agradecimento ao Cacique Kamaiurá pajé Takumã Kamaiurá, ao cacique Kotok Kamaiurá, às lideranças Pirakumã Kamaiurá, sua esposa Kamaú Kamaiurá, e aos demais Caciques: Awajatu Awetí, professor Waranaku Awetí, Mataukula Awetí, e lideranças Kanalawá Awetí, Yumuin Awetí, Morepá Awetí e pessoas Kamaiurá e Awetí.
+Também gostaria de agradecer aos meus grandes colegas de estudo e pesquisa no Laboratório de Línguas Indígenas da Universidade de Brasília, que me ajudaram a entender sobre linguística e colaboraram com o meu esforço no Curso de Pós-Graduação em Linguística do Instituto de Letras na Universidade de Brasília: Maxwell Gomes Miranda, Nanblá Xokléng, Chandra Wood Viegas, Ariel Pheula do Couto e Silva, Suseile Andrade Sousa, Sanderson Castro Soares de Oliveira, Jorge Domingues Lopes, Marcelo Jolkesky, Andérbio Márcio Silva Martins e todas as pessoas que me ajudaram a corrigir a versão final de minha dissertação, de acordo com as normas vigentes.
+De forma especial agradeço à professora Dra. Lucy Seki, que deu os primeiros passos para o desenvolvimento da escrita Kamaiurá, passou esse conhecimento para mim e
+
+5
+para os outros professores Kamaiurá; por ela ter-me ensinado a escrever na língua indígena e por ter mostrado a importância da língua.
+Agradeço, por último, mas de forma muito especial, à querida Profa. Carmem Junqueira, estudiosa da cultura do povo Kamaiurá, pessoa considerada como parte desse povo, po ter passado de meu exame e por ter aberto espaço para que dois dos professores desse povo publicassem em co-autoria com ela um livro sobre aspectos da cultura Kamaiurá (JUNQUEIRA; P. KAMAIURÁ; W. KAMAIURÁ, 2007).
+
+RESUMO
+Esta dissertação apresenta uma comparação lexical do Awetí com o Kamaiurá, orientada pelos princípios, critérios e passos metodológicos do Método Histórico-Comparativo. Os dados, base da comparação, foram colhidos pelo próprio autor junto a falantes das duas línguas, o Awetí e o Kamaiurá, respectivamente a sua língua materna e a sua língua paterna. O objetivo principal deste estudo é a identificação do que são correspondências de origem genética entre as duas línguas. Com essa identificação pretendemos por um lado reunir mais elementos para a hipótese de Rodrigues de que o Awetí e o Tupi-Guaraní são resultantes da diversificação de um estágio comum, o Proto-Awetí—Tupí-Guaraní, que por sua vez teria se separado do ancestral do Proto-Mawé—Awetí—Tupí-Guaraní. A dissertação considera fundamentalmente os estudos comparativos sobre o Proto-Tupí de autoria de Rodrigues (1997, 1999, 2005, 2007, 2012), de Rodrigues e Cabral (2006, 2012), de Rodrigues, Cabral e Correa da Silva (2006), e de Correa da Silva (2011), nos quais o Awetí e as línguas TupíGuaraní são considerados em uma perspectiva histórica. É aqui ressaltada a necessidade de formação linguística de professores indígenas tanto para o fortalecimento dessas línguas, quanto para o conhecimento científico sobre elas e, mais importantemente, para o processo de autodeterminação dos povos que as falam.
+Palavras-chave: Awetí e Kamaiurá; proximidade genética; herança genética; línguas em contato; empréstimos; formação de linguistas indígenas.
+
+ABSTRACT
+This thesis presents a lexical comparison between the Awetí and the Kamaiurá languages oriented by the principles, criteria and methodological steps of the Comparative Method. The data basing the comparison were gathered by the author of this thesis among the native speakers of Awetí and Kamaiurá which are respectively the maternal and the paternal language of the author of the dissertation. The main objective of this study is the identification of lexical and sound correspondences between the two languages. With this identification we intend to contribute with more elements for the hypothesis of Rodrigues, according to which Awetí and Tupí-Guaraní are the results of the diversification of a common stage, the ProtoAwetí—Tupí-Guaraní, which on its turn would have been separated from the ancestral of Proto-Mawé—Awetí—Tupí-Guaraní. This dissertation considers the comparative studies on Proto-Tupí developed by Rodrigues (1997, 1999, 2005, 2007, 2012), Rodrigues and Cabral (2006, 2012), Rodrigues, Cabral and Correa da Silva (2006), and Correa da Silva (2011), in which the Tupí-Guaraní languages are considered in a historical perspective. The thesis emphasizes the need of linguistic formation of indigenous teachers, not only on behalf of the strengthening of their native language, but also for their scientific knowledge and, more importantly, for the process of auto-determination of the peoples speaking those languages.
+Keywords: Awetí and Kamaiurá; genetic proximity; languages in contact; borrowings; genetic heritage; formation of indigenous linguists.
+
+SUMÁRIO
+
+INTRODUÇÃO
+
+10
+
+JUSTIFICATIVA
+
+10
+
+METODOLOGIA E FUNDAMENTAÇÃO TEÓRICA
+
+11
+
+ORGANIZAÇÃO DA DISSERTAÇÃO
+
+12
+
+CAPÍTULO 1 – UMA BREVE APRESENTAÇÃO DOS POVOS AWETÍ E
+
+OS KAMAIURÁ
+
+13
+
+1.1 HISTÓRIA DE MAWUTSINI CONTADA PELO POVO KAMAIURÁ
+
+13
+
+1.2 HISTÓRIA DE MAWUTSINI CONTADA PELO POVO AWETÍ
+
+16
+
+1.3 A MOTIVAÇÃO PARA OS ESTUDOS LINGUÍSTICOS
+
+17
+
+1.4 UM POUCO MAIS SOBRE A SERVENTIA DO PRESENTE ESTUDO
+
+19
+
+1.5 SOBRE AS ESCOLAS INDÍGENAS DO ALTO XINGU E
+
+AS LÍNGUAS INDÍGENAS
+
+19
+
+1.5.1 Escola Estadual Indígena Central Leonardo
+
+19
+
+1.5.2 O Professor Indígena e o seu compromisso
+
+20
+
+1.5.3 Escola Nafukwá
+
+21
+
+1.5.4 Escola Estadual Indígena Central Kamadú-Yudjá/Juruna, 11/04/2010
+
+21
+
+1.5.5 Escola Estadual Indígena Central Karib-Kuikuro
+
+22
+
+1.5.6 Escola Estadual indígena Boa Esperança
+
+23
+
+1.5.7 Escola Estadual Indígena Awetí
+
+23
+
+1.6 COMO FUNCIONAM AS ESCOLAS INDÍGENAS NAS ALDEIAS
+
+24
+
+1.7 A LITERATURA LINGUÍSTICA SOBRE AS LÍNGUAS AWETÍ E
+
+KAMAIURÁ: ALGUMAS CONSIDERAÇÕES
+
+25
+
+CAPÍTULO 2 – SOBRE A CLASSSIFICAÇÃO GENÉTICA DO AWETÍ E
+
+DO KAMAIURÁ
+
+33
+
+2.1 AS VOGAIS E AS CONSOANTES DO PROTO-TUPÍ, SEGUNDO
+
+RODRIGUES E CABRAL (2012)
+
+34
+
+9
+
+CAPÍTULO 3 – CORRESPONDÊNCIAS SONORAS ENTRE AWETÍ
+
+E KAMAIURÁ
+
+42
+
+3.1 CORRESPONDÊNCIAS SONORAS E LEXICAIS
+
+42
+
+3.2 RESULTADOS DA COMPARAÇÃO FONOLÓGICA DA LÍNGUA AWETÍ
+
+COM A LÍNGUA KAMAIURÁ
+
+55
+
+3.2.1. Correspondências fonológicas nos morfemas que o Awetí (A) tem em
+
+comum com o Kamaiurá (K)
+
+56
+
+3.2.1.1. Consoantes oclusivas orais
+
+56
+
+3.2.1.2. Consoantes contínuas e flaps
+
+57
+
+3.2.1.3. Consoantes oclusivas nasais e pré-nasalizadas
+
+57
+
+3.2.1.4. Consoantes glotais
+
+58
+
+3.2.1.5. Semiconsoantes
+
+58
+
+3.2.1.6. Vogais orais
+
+58
+
+3.2.1.7. Vogais nasais
+
+59
+
+CONSIDERAÇÕES FINAIS: O QUE AS CORRESPONDÊNCIAS
+
+FONOLÓGICAS DIZEM DA NATUREZA DA RELAÇÃO GENÉTICA
+
+DO AWETÍ COM O KAMAIURÁ E COM AS DEMAIS LÍNGUAS
+
+DA FAMÍLIA TUPÍ-GUARANÍ
+
+60
+
+REFERÊNCIAS
+
+61
+
+ANEXO A
+
+67
+
+ANEXO B — MAPA DO PARQUE INDÍGENA DO XINGU – MT
+
+71
+
+10
+INTRODUÇÃO
+Esta dissertação é um estudo sistemático de comparação lexical do Awetí com o Kamaiurá, fundamentado nos princípios, critérios e passos metodológicos do Método Histórico-Comparativo, e também o primeiro estudo do gênero a usar dados originais das duas línguas, colhidos junto a falantes dessas línguas, pelo próprio autor, o qual é falante nativo do Awetí e do Kamaiurá.
+O objetivo principal deste estudo é uma comparação do Awetí com o Kamaiurá visando ao estabelecimento de correspondências lexicais e fonológicas entre essas duas línguas, de forma a destacar os elementos que refletem relações genéticas entre elas.
+O estudo, orientado por modelos teóricos que associam o método histórico comparativo e o modelo teórico de línguas em contato de Thomason e Kaufman (1988), procura definir e identificar o que é herança genética comum às duas línguas.
+Com este estudo pretendemos contribuir para o conhecimento científico de aspectos da história linguística de duas línguas representativas de duas famílias distintas do Tronco Tupí, que têm a particularidade de seus falantes terem se encontrado e se entrelaçado por meio de alianças matrimonias e de oferecerem um quadro sociolinguístico muito interessante para os estudos histórico-comparativos e de línguas em contato. Ao isolarmos o que é herança comum, ficará mais tangível a identificação do que é comum às línguas comparadas, mas resultante do estreito contato desenvolvido entre os povos Awetí e Kamaiurá ao longo dos dois últimos séculos.
+JUSTIFICATIVA
+A escolha do tema desta dissertação foi motivada principalmente por seu autor ser um indígena bilingue em Awetí e em Kamaiurá e por ter sempre se preocupado em entender a natureza das semelhanças entre as duas línguas, das quais é professor na escola Leonardo do Posto Indígena Leonardo, Alto Xingu. Os resultados do estudo deverão servir ao ensino das duas línguas para alunos bilingues ou que vivem situações de fala em que as duas línguas coexistem.
+Há ainda que se considerar a importância de um dos indígenas linguistas xinguanos especializar-se nos estudos linguísticos descritivos e histórico-comparativos de duas das línguas dessa região.
+
+11
+O estudo que ora apresento é de suma importância para o seu autor e para seus parentes Kamaiurá e Awetí em vários aspectos. Por meio dele tem sido possível para o autor desta dissertação penetrar no conhecimento linguístico das suas duas línguas, a materna e a paterna.
+METODOLOGIA E FUNDAMENTAÇÃO TEÓRICA
+O estudo permitiu ao seu autor ver e sentir suas línguas, a materna e a paterna, de fora para dentro, iniciando uma reflexão consciente sobre a organização interna de cada uma delas e entendendo, assim, conceitos como o de gramática, expressão que tanto ouvira, mas que só agora entendeu. Foi muito importante para esse avanço o estudo de partes da obra de Tesnière (1951) e de capítulos das obras de Comrie (1987, 1986) e de Dixon (1994).
+Os dados foram coletados nas aldeias Ypawú, Morená, Saidão, Mirasol, e também em Brasília. O banco de dados é constituído de conversas naturais sobre os animais, os objetos, os sentimentos, as sensações, etc. Há também relatos e perguntas e respostas sobre conceitos. Desse material foram não só organizadas listas de palavras, mas também dados para análise sintática e morfossintática. Todos os dados foram gravados em sistema de gravação digital e alguns deles foram gravados em vídeo. Os dados integram hoje o Banco de Dados de Línguas Indígenas do Laboratório do Instituto de Letras da Universidade de Brasília, onde os pesquisadores indígenas têm amplo acesso e são eles os guardiões e principais utilizadores desses dados.
+No que diz respeito às gramáticas do Kamaiurá e do Awetí, foram fundamentais as obras de Seki (2000) e de Páltu Kamaiurá (2010), assim como as obras de Monserrat (1976, 2002, 2005). Foram também de alta relevância, os estudos sobre o Tupinambá de Rodrigues (1952, 1953, 2010), assim como os estudos de Cabral sobre a família Tupí-Guaraní (2001, 2007, 2009), os estudos de Leite (1990, 1994) sobre o Tapirapé, o estudo de Vieira (1993) sobre o Asuriní do Tocantins, o estudo de Solano (2009) sobre o Araweté e o de Silva (2011) sobre as duas línguas Tenetehára, o Tembé e o Guajajára, dentre outros.
+Parte importante do conhecimento linguístico adquirido nos últimos dois anos, base fundamental desta dissertação, foi a orientação precisa e criteriosa de um método testado e reconhecido pela sua solidez, o Método Histórico-Comparativo. Essa orientação teórica e metodológica foi fundamental para que o autor desta dissertação entendesse conceitos como o de família linguística, relações genéticas, mudanças linguísticas através da história das línguas, reconstrução interna, reconstrução de aspectos do que teriam sido proto-línguas e
+
+12
+estágios intermediários na diversificação de uma família linguística. As obras que serviram de apoio foram as de Hock (1991), Campbell (1998), Kaufman (1990), Rodrigues (1984-1985, 1986), Rodrigues e Cabral (2002), Rodrigues, Cabral e Correa da Silva (2006), Correia da Silva (2011), e Rodrigues e Cabral (2012).
+Com base nesses estudos, pudemos proceder a uma comparação de parte do léxico das duas línguas estudadas e evidenciar as correspondências sistemáticas entre elas, que refletem uma herança comum. Evidentemente, essa comparação considerou o trabalho comparativo minucioso desenvolvido por Rodrigues ao longo dos últimos 60 anos sobre o tronco linguístico Tupí, do qual resultou uma reconstrução de parte do léxico do Proto-Tupí.
+O estudo permitiu distinguir o que são mudanças linguísticas motivadas por fatores internos de mudanças linguísticas motivadas por fatores externos. Ressalto a importância das obras de Thomason e Kaufman (1988) e de Thomason (2001). Com a fundamentação teórica contida nessas obras pude formular hipóteses sobre o que é genético e o que empréstimo entre o Kamaiurá e o Awetí.
+ORGANIZAÇÃO DA DISSERTAÇÃO
+A presente dissertação é constituída por 6 partes. Uma introdução em que se apresentam o tema da dissertação, sua justificativa, metodologia e fundamentação teórica. O Capítulo 1 apresenta uma breve notícia sobre os povos Awetí e Kamaiurá e contextualiza os professores e as disciplinas ensinadas nas escolas das aldeias, com ênfase no ensino das línguas nativas. Apresenta ainda uma apreciação da literatura lingüística sobre a língua Awetí. O Capítulo 2 retoma a reconstrução das vogais e consoantes do Proto-Tupí, segundo Rodrigues e Cabral (2012); reúne as correspondências sonoras e lexicais entre o Awetí e o Kamaiurá e apresenta os resultados da comparação fonológica entre as duas línguas. O capítulo 3 apresenta algumas conclusões sobre as relações genéticas entre o Awetí e a família Tupí-Guaraní, tendo como referência desta família a língua Kamaiurá. Este capítulo é seguido pelas referências bibliográficas usadas na dissertação e, finalmente, incluímos dois anexos: o anexo A contendo fotos que apresentam os professores e colaboradores do presente trabalho, e o anexo B que é constituído de um mapa localizando as aldeias do Alto Xingu, onde vivem os Awetí e os Kamaiurá.
+
+13
+CAPÍTULO 1 – UMA BREVE APRESENTAÇÃO DOS POVOS AWETÍ E KAMAIURÁ
+Os povos Awetí e Kamaiurá representam a presença Tupí no sul do Estado do Mato Grosso, precisamente na Terra Indígena do Alto Xingu, Município Gaúcha do Norte. Os Awetí distribuem-se em duas aldeias, Saidão e Mirassol, e somam ao todo 350 indivíduos. Todos os Awetí falam a língua nativa e muitos são bilíngues em Awetí-Kamaiurá, AwetíMehináko, Awetí-Yawalapití, Awetí-Trumai, Awetí-Waurá e Awetí-Português.
+Os Kamaiurá também usam a língua materna como primeira língua e distribuemse em três aldeias, Morená, Ypawú e Base do Jacaré. Há Kamaiurá bilíngues em Kamaiurá– Awetí, Kamaiurá-Kuikúro, Kamaiurá-Matipú, Kamaiurá-Suyá, Kamaiurá-Ikpéng, KamaiuráKayabí e Kamaiurá-Jurúna. Alguns Kamaiurá e alguns Awetí são poliglotas, falando até cinco línguas, dentre elas o Português.
+1.1 HISTÓRIA DE MAWUTSINI CONTADA PELO POVO KAMAIURÁ
+Segundo nós, os Kamaiurá, Mawutsini nos fez virar gente por meio de um tronco, chamado kuaryp. Éramos, assim, tronco, e foi assim que Mawutsini nos fez surgir. Ele fez do tronco, gente ou seja, transformou tronco em gente, e é por essa razão que hoje estamos vivendo, conforme foi planejado. Éramos troncos e surgimos desses troncos. Foi Mawutsini mesmo que nos fez.
+Assim, quando Mawutsini ia tirar wiriri (fibra com a qual se faz corda de arco), deixava os pássaros comerem peixe como pagamento. Os pássaros eram pessoas (gente) e falavam como gente quando transavam.
+— Espera um pouco, Madame!. Deixa eu pagar! Diziam, assim, os pássaros. Conforme foi dito, esse alimento sempre será nossa comida, esse peixe mesmo, de acordo com o jeito que quis Mawutsini. Assim foi no nosso surgimento. Então assim fomos surgindo com todas as nossas coisas íntimas. Foi Mawutsini quem fez, por isso é que Mawutsini é considerado por nós Kamaiurá nosso avô (em certo sentido, próximo do conceito de Deus na cultura ocidental), pois foi ele que nos permitiu surgir. Então é isso que eu estou contando, como foi que nós fomos criados. Nós ficamos na aldeia conforme foi planejado e conforme ele nos fez.
+
+14
+Mas tem outra parte de nossa história, na qual também outro ser nos fez, o sol, que era o filho da onça. Esse sol, ele que nos transformou de verdade em gente, nós que éramos animais.
+Transformou a partir de animais de verdade, os animais também eram gente, por isso é que eles falavam a língua, esse sol e a lua geraram todos os seres vivos para que permanecessem como foram criados, os animais como animais, as pessoas como pessoas.
+Criaram a gente lá, no Myrená, que os não índios entenderam como a Morená. Mas foi o neto de Mawutsini quem começou a dividir o povo Kamaiurá em grupos e cada grupo seguiu em uma direção diferente. Assim, como eu relato, foi o surgimento dos seres vivos. Os pássaros decidiram que os peixes seriam o nosso alimento, por esse motivo é que nós comemos peixes como um dos nossos principais alimentos. Isso que eu estou contando é como nós Kamaiurá vemos e acreditamos ter sido o nosso surgimento. Assim, também as línguas de cada grupo humano foram se diferenciando, por isso que hoje uma língua é diferente da outra. Nossa língua é diferente, a língua do Waurá é diferente, a língua do Kuikuro é diferente, a língua do Matipú é diferente, a língua do Trumai é diferente e a língua do Awetí é diferente. Foram o Sol e a Lua que diferenciaram as línguas. Então é isso que eu estou contando, o surgimento dos seres e no caso específico dos Kamaiurá, de suas características, de sua forma de selecionar seus alimentos preferidos, seu modo de se organizar socialmente, enfim, seu modo de viver e de transformar o mundo. É assim que os nossos ancestrais conceberam o nosso início, e é por essa razão que cada aldeia tem sua língua diferente, e até mesmo o choro para lamentar os mortos se diferenciou, junto com as línguas. Por esse motivo é que nós não temos todas as línguas semelhantes. Além disso tudo, cada povo tem seu guerreiro diferente, do jeito que cada um foi criado. Cada povo mora distante do outro, e cada povo é considerado guerreiro, mas nós viemos de lá (apontando para leste). Assim nós nos juntamos aqui (Xingu, MT). Mas a maioria dos povos permaneceu por lá mesmo (Pataxó, Tupinikin, Tuxá, Kaingáng e outros)
+
+15
+Outro povo foi pelo caminho da Anta, (tapi?it), Tapi?ira rape rupi (pelo caminho da Anta). Por essa razão é que nós chamamos esse povo de Povo Tapirapé. Eles não vieram com a gente para cá, mas eles ficaram por lá, então a língua do Tapirapé é parecida com a língua do Kamaiurá, pois estes viviam com os Tapirapé. Eles se separaram por causa do ataque dos inimigos – outros índios e também brancos. Através do rio Auaiá Missú, chegaram ao rio Xingu, subindo o rio por etapas, atravessando o território Suyá e sofrendo em todo o percurso restante repetidos ataques desse povo e também dos Juruna. Também os que moravam e acampavam no Wawitsa e, de lá, continuaram subindo.
+Com o passar do tempo, os Kamaiurá passaram pelo Myrená, chegaram ao Jacaré, no baixo Kuluene, onde encontraram os Waurá, que os convidaram a se juntar a eles. Prosseguiram até a margem esquerda da Lagoa Ypawu, instalando-se juntamente com os Waurá em um lugar chamado Jamutukuri. Pouco tempo depois os Waurá entregaram a região aos Kamaiurá e se transferiram para Batovi.
+O povo Kamaiurá viveu bastante tempo no Jamutukuri. O Mawutsini que foi transformador do ser em gente, que nos criou como pessoa, ser humano, também foi o divisor do grupo com todos os costumes, culturas e línguas. Nessa época não existia fogo para a gente, nós assávamos nossa comida através da luz do sol, mas não comíamos rápido, demorava muito para uma comida ficar pronta, e, a partir daquele momento, os ancestrais começaram a procura pelo fogo. Awará (Raposa) é a dona fogo, e foi através dela que surgiu Tatá (fogo) para o povo Kamaiurá. Após o contato com o alemão Karl von den Steinen (1940), os Kamaiurá se encontraram com os Awetí e com os Mehinako, só que os dois povos não chegaram a brigar. Antes disso, os Awetí habitavam um lugar chamado Paruá, na margem de Kurisevo, denominado Awytў. Também eles viveram com os Makayryza (Bakairí), mas com o passar do tempo eles se separaram: os Bakairí foram para outro rumo, do lado sul, à procura de nova terra e os Awetí desceram para o norte. Eles chegaram ao porto chamado Tsuepelu. Atualmente Tsuepelu é o porto para pescaria e para chegada de quem vem do rio Kurisevo. Os Awetí formavam dois grupos, Enumaniá e Awetí, eles vieram de lá do rio Kuluene, mas os Enumaniá foram dizimados pelos Trumai, só alguns deles sobreviveram. A língua do Enumaniá era diferente da língua Awetí, mas ela se perdeu. Awetí era MO?AT “gente”, agora Enumaniá era WARAJU “índio bravo” (Trumai kapi?wat tentãp) povo Capivara. Os Kamaiurá chamaram os Awetí de Awyty, porque quando os Kamaiurá faziam algo como dança, música ou outro, os Awetí imitavam eles. Então eles são imitadores da
+
+16
+cultura. Por isso que chamaram os Awetí de Awytỹ (imitador). Mas atualmente eles se consideram como Awytyza Ytotó, ʹVerdadeiros Awetíʹ.
+Antigamente os Kamaiurá guerreavam com os Tonoly; os Kamaiurá chamaram de Tonory o povo Txicão/Ikpéng. Esse povo matava os Awetí e também roubava mulher, principalmente bonita. Tonory gostava de carregar a mulher de outra aldeia.
+Então a história do povo Awetí foi assim, e foi assim que eu ouvi do avô Koká Kamaiurá e da avó Tsiʹapukú Awetí.
+1.2 HISTÓRIA DE MAMUTINI CONTADA PELO POVO AWETÍ
+Mamutini é neto de Ywawyryp e Japi?yp, e é filho de Nakilukilu (Tati?awatu). Tatiʹawatu casou com as filhas deles, e surgiu Mamutini o mais sábio de todos. Ele fez mais gente com um desenho de tronco de uma arvore que chamamos Ywawyryp e, assim, criou quatro mulheres, uma delas chamada Tanumakalu. Lá tem um homem que é chamado Warakuni. Tanumakalu foi casar com homem Onça. Depois de casar passaram ambos a viver juntos, se uniram e logo eles tiveram relação sexual para ter os frutos.
+Então, Tanumakalu ficou grávida da onça, eram duas crianças gêmeas, com o passar do tempo nasceram essas duas crianças que seriam Sol e Lua, que hoje nós chamamos de Kwazá na língua Awetí. Eles são netos de Mamutini.
+Kwazá significa ambos, os dois, Sol e Lua, Kwazá é o nome conjunto. A partir do momento que nasceu Kwazá, sol e lua cresceram e começaram a criar ou inventar mais coisas, começaram a surgir os animais, aves, todo tipo de bicho, e toda espécie de peixe para viverem todos no mundo. Antigamente os bichos viviam como gente, eles falavam como gente. Mas, com o passar do tempo Sol e Lua não gostaram que os bichos e animais vivessem como gente de verdade. Sol e Lua ficaram com a idéia de que os animais permanecessem os mesmos. Por esse motivo, alguns animais e aves ficaram como nosso alimento (comida), ficaram para serem comidos por nós. Sol e Lua fizeram como uma oferenda para o nosso povo Awetí da antiguidade. Então, assim que surgiu o Mamutini para o povo Awetí, Mamutini foi o criador do mundo; foi ele que nos fez surgir e fez surgir todos os grupos Awetí, Urawara e Enumania. (Waranaku Awetí e Wary Kamaiurá, 13/02/2012)
+
+17
+1.3 A MOTIVAÇÃO PARA OS ESTUDOS LINGUÍSTICOS
+Quando eu era criança, morava na Aldeia Awetí do povo Enumaniá, junto com a minha mãe. Vivíamos com todas as famílias no mundo Awetí. A mãe de minha mãe é também Awetí, mas o meu pai é Kamaiurá.
+A primeira língua nativa que eu aprendi e que, portanto, é a minha L1, primeira língua, foi o Awetí, que aprendi com minha mãe, com quem vivi até completar 12 anos de idade. À época não entendia o idioma do meu pai, pois este morava na aldeia dele, que é a aldeia Ypawu Kamaiurá.
+Depois de completar 12 anos de idade, eu fui morar com o meu pai na aldeia dele para aprender a língua Kamaiurá. Então comecei a estudar tradicionalmente o idioma Kamaiurá com a família do meu pai, mas antes disso eu não entendia nada dessa língua. Continuei falando na língua da minha mãe, mas a família do meu pai não me entendia, por mais que eu tentasse me fazer entender por meio da minha língua materna.
+Continuei morando com o meu pai e, com o passar do tempo, fui aprendendo e me tornando fluente no idioma dele.
+A partir daí fiz amizade com os Kamaiurá, principalmente com as crianças e me considerei um Kamaiurá. Adotei o ritmo da cultura, praticando os costumes e me adaptando a uma nova forma de ver e viver no mundo.
+Na aldeia do meu pai, eu completei 13 anos de idade. Foi quando meu pai e a minha mãe voltaram a se casar, tendo sido eu a razão maior dessa união. Eles resolveram cuidar de mim juntos. Isso contribuiu para que eu permanecesse entre os Kamaiurá. Por outro lado, fiquei imerso em contexto linguístico Tupí, falando ora o Kamaiurá, ora o Awetí, o primeiro uma língua da família Tupí-Guaraní, o segundo, uma língua da família do mesmo nome, a família Awetí.
+Morei dois anos na Aldeia Ypawu, mas depois a família do meu pai se mudou para outra aldeia, que é a Aldeia Morená (Myrená), localizada no Município de Feliz Natal, MT. Nessa aldeia morei 16 anos.
+Com 15 anos de idade, eu começava a estudar na Escola Municipal indígena Morená com o professor índio Amanuá Kamaiurá. Depois de cinco meses, chegou para ensinar na mesma escola outro professor índio, o Prof. Aisanain Páltu Kamaiurá. Com este professor estudei sete meses.
+
+18
+Nessa época, não existia o ensinamento na língua materna e nem existia professor indígena que ensinasse sua própria língua nativa, de forma que a minha alfabetização foi feita tendo como referência a língua portuguesa.
+Com o passar do tempo, eu fui aprendendo alguma coisa na língua portuguesa, aprendendo a ler nomes de objetos e pequenas frases.
+Depois desse período eu fiquei cinco anos sem estudar. Em 1995 eu comecei a participar de um curso de magistério na Terra Indígena do Xingu, promovido pelo Instituto Socioambiental (ISA).
+Durante o curso, eu fui aprendendo e entendendo a língua portuguesa e li vários livros. Entre 1995 e 1999, já melhorara minha proficiência oral e minha proficiência de leitura e escrita da língua portuguesa. Concluí o Magistério. Entre os anos 2000 a 2005 eu terminei a minha graduação no Programa de Ensino Superior da UNEMAT – Barra do Bugres, MT.
+Em 2008 eu fiz um curso de pós-graduação voltado para a Educação Escolar Indígena, na UNEMAT – Barra do Bugres, MT, concluído em janeiro de 2009.
+Em 2010, entusiasmado com o progresso do meu colega Aisanain Páltu Kamaiurá na realização de seus estudos e pesquisas desenvolvidos no Laboratório de Línguas Indígenas da UnB (LALI), passei a ser pesquisador nesse Laboratório e lá fui estimulado a prestar exame para realizar o mestrado em Linguística no Programa de Pós-Graduação em Linguística da UnB, onde atuam os dois pesquisadores seniores do LALI, o Prof. Aryon D. Rodrigues e a Profa. Ana Suelly Arruda Câmara Cabral.
+
+19
+1.4 UM POUCO MAIS SOBRE A SERVENTIA DO PRESENTE ESTUDO
+Primeiramente os meus estudos servirão para a minha comunidade que, em parte é o povo Kamaiurá e, em parte, o povo Awetí. Há entre esses povos uma expectativa de que eu me torne um pesquisador da história, cultura e língua dos Awetí e dos Kamaiurá.
+Enquanto professor das línguas Kamaiurá e Awetí terei agora a possibilidade de contribuir para o desenvolvimento de metodologias de ensino das duas línguas nas escolas do Alto Xingu, onde elas são ensinadas. Poderei também contribuir na formação de professores indígenas Kamaiurá e Awetí, no nível de magistério e no nível de graduação. Contribuirei assim na produção de livros, de registros de discursos diversos, dos registros e reflexões sobre os rituais com suas danças, cantos, rezas e, também, contribuirei na defesa dos direitos dos dois povos.
+Trabalharei para combater o enfraquecimento do uso das duas línguas e para fortalecer a educação tradicional dos povos Awetí e Kamaiurá.
+Finalmente, com este estudo, darei um primeiro passo para uma contribuição de um falante nativo das duas línguas na ampliação do conhecimento linguístico dessas mesmas línguas.
+1.5 SOBRE AS ESCOLAS INDÍGENAS DO ALTO XINGU E O ENSINO DE LÍNGUAS INDÍGENAS
+1.5.1 Escola Estadual Indígena Central Leonardo
+A Escola Estadual Indígena Central Leonardo Villas Bôas foi fundada em 2000. Atende 335 alunos. Atuam nesssa escola, além de mim, os professores Maria Izabel Soares da Cruz e Maiuri Mehinaku Kamaiurá. Nessa escola, as línguas indígenas não estão sendo ensinadas pelo fato de que as turmas possuem alunos de diferentes etnias e ainda não foi possível organizar um ensino que privilegie as línguas ali faladas. Em cada sala, além de alunos de diferentes línguas, há também professores não só indígenas, como tambémnão indígenas. E também os pais dos alunos incentivam os professores a ensinar na língua portuguesa. A ideia é de ensinar os alunos para serem guias dos pais no caso de eles saírem da aldeia para fora, ou da região para outra região, ou para quando chegarem os não-indígenas na aldeia onde eles moram. Por isso é que nessa escola se valoriza mais a língua portuguesa.
+Entretanto, os alunos se comunicam em casa na língua própria dos pais.
+
+20
+Durante os anos de 1995 a 2006 eu já vinha trabalhando em sala de aula, tendo completado 11 anos na função de professor de língua indígena e de língua portuguesa. Trabalhava mais na língua indígena Kamaiurá e na arte Kamaiurá. Adorei trabalhar na sala de aula instruindo as crianças. Atualmente completei 16 anos de função na educação indígena realizada junto ao meu povo no Xingu, Alto-Xingu.
+Entre os anos de 2007 a 2011 trabalhei na direção da escola do Posto Leonardo, onde estudam alunos de várias etnias: Kamaiurá, Waurá, Awetí, Trumai e Yawalapití.
+Os alunos são atualmente os seguintes: 14 alunos de 5ª série, entre 11 a 23 anos de idade; e 18 alunos multisseriados, entre 6 e 10 anos de idade.
+Os adultos sabem ler e escrever textos em língua portuguesa, falar na língua portuguesa e falar sua língua nativa (indígena). Sabem também escrever e ler razoavelmente bem textos na língua indígena. Eles gostam de fazer leitura em voz alta, um ajudando o outro no exercício e cumprindo tudo o que professor pede. São alunos que se dedicam muito aos estudos e às atividades.
+As crianças sabem ler palavras, copiar no caderno o que lêem, sabem o significado de palavras e escrevem o nome dos objetos. Sabem falar na língua portuguesa e na sua língua nativa e muitos já escrevem sozinhos.
+Em sala de aula da escola do Posto Leonardo, cada povo se comunica somente na língua portuguesa, pois uns não entendem a língua dos outros, de forma que o Português tem função de língua franca nessa escola.
+1.5.2 O professor indígena e o seu compromisso
+É fundamental que o Professor indígena do seu próprio povo trabalhe na escola de sua comunidade, pois ele não terá dificuldades na sala de aula, pela facilidade em explicar na língua nativa as palavras da língua portuguesa, em traduzir a língua portuguesa para a língua indígena, de forma que os alunos entendam palavras e conceitos que sozinhos não conseguem entender.
+Dessa maneira, o professor índio não complica os conteúdos para seus alunos e trabalha com a sua realidade, tendo como referência a cultura tradicional, o cotidiano da comunidade, suas crenças, festas, danças, mutirão e tudo o mais.
+Também o professor indígena na aldeia tem muita felicidade de viver e conviver com os parentes dele. Assim, a cultura não se acaba, não se perde, apenas se transforma
+
+21
+mantendo o principal das origens; a língua nativa também não se perde, cada dia se valoriza pela sua função de expressar o intraduzível em outras línguas.
+Por essa razão, é fundamental a formação qualificada do professor indígena. Apresento, em seguida, algumas entrevistas realizadas por mim junto a professores de diferentes aldeias, visando identificar quais são ensinadas nas escolas.
+1.5.3 Escola Nafukwá Professor Kadio Nafukuá (09/04/2010)
+O povo Nafukuá foi um pouco contrário ao ensinamento dos conteúdos em língua nativa. Para este povo o ensino deve ser feito através da língua portuguesa, ficando a língua indígena em segundo lugar.
+Por outro lado, o povo Nafukuá é de cultura tradicional, bem preservada na comunidade, e os mais velhos não falam a língua portuguesa e não a entendem.
+Disciplinas ministradas na escola: Alfabetização Língua Portuguesa Matemática Língua Indígena
+1.5.4 Escola Estadual Indígena Central Kamadú-Yudjá/Juruna, 11/04/2010 Diretor: Karin Juruna
+A comunidade Ɨudjá valoriza muito a sua língua indígena. Lá a língua nativa vem em primeiro lugar. Essa língua não pode ser perdida. A língua nativa é ativa. Na aldeia todas as pessoas se comunicam somente em sua língua nativa. Os mais velhos não entendem a língua portuguesa, que é uma língua estrangeira para eles. Raramente eles aprendem rápido, também não entendem a língua de outra etnia porque é diferente da deles.
+Os Ɨudjá possuem uma cultura tradicional mais preservada. Os alunos escrevem na língua, inclusive cartas para se comunicarem entre si, quando estão longe.
+Disciplinas ministradas na escola: Língua Indígena
+
+22
+Língua Portuguesa Geografia Ciência: da roça, humana, remédio tradicional e outros. História Matemática Arte: Pintura, música, danças, tecelagens e outras (isto para o Ensino Fundamental de 5ª a 8ª séries).
+O povo Yudjá se preocupa realmente com a preservação de sua língua e de sua cultura e sua preciosa característica de possuir uma identidade respeitada por qualquer indivíduo.
+1.5.5 Escola Estadual Indígena Central Karib-Kuikuro Professor: Sepé Ragati Kuikuro
+Na aldeia Kuikuro e comunidade Kuikuro se dá prioridade à língua indígena. A comunidade mantém a sua língua, evitando a perda desta e, para isto, se comunica no dia a dia em seu idioma, em casa, no espaço da aldeia, nas roças e demais situações e lugares freqüentados no seu dia a dia. Também se escreve na língua perfeitamente. Preserva, assim, sua identidade tradicional e sua própria marca.
+Ensino Fundamental Disciplinas ministradas na escola: Língua Indígena Língua Portuguesa Geografia Ciência: saúde, roça, pesquisa humana e remédios História Artes: danças, música, pintura e reza
+
+23
+1.5.6 Escola Estadual indígena Boa Esperança Professor: Takap Pi-yu Trumai
+Ensino Fundamental O povo Trumai adotou o ensino da língua portuguesa em 2010. Depois ensinará a língua nativa. Os Trumai pretendem se alfabetizar na língua portuguesa, o que foi decidido pelos pais dos alunos. Quando os alunos estiverem bons na língua portuguesa, então passarão para língua indígena e falarão na sua língua.
+Aulas ministradas Língua Portuguesa (gramática: sujeito, adjetivo, pronome, objeto etc). Antes davam aula de Língua Indígena, mas agora decidiram que dariam aula de língua portuguesa, mas sem possuir fluência nessa língua.
+1.5.7 Escola Estadual Indígena Awetí Professor: Awajatu Awetí
+O povo Awetí pretende ensinar na língua indígena em primeiro lugar. Depois disso ensinarão na língua portuguesa. O professor é bilíngue e proficiente em todas as modalidades de uso das duas línguas. De vez em quando faz uso da língua portuguesa, em sua modalidade escrita, quando os alunos pedem ou têm dúvidas.
+O povo Awetí se preocupa com sua língua, não quer perdê-la. 3ª e 4ª séries Língua Indígena Língua portuguesa Matemática História (passada, povo, mito, origem). Ciências sociais (organização da comunidade, na cultura, na educação e saúde). Geografia (mapa do Xingu, mapa da própria aldeia, rio, caminho/estrada, mata, lagoa, frutas do mato e tudo que existe em volta da aldeia). Todos os conteúdos são
+
+24
+ministrados na escola dessa comunidade. O foco do estudo sempre vem da cultura de seu povo e tem tudo a ver com a realidade deles.
+1.6 COMO FUNCIONAM AS ESCOLAS INDÍGENAS NAS ALDEIAS
+Dentro da Terra Indígena do Xingu, conforme foi deliberada pelas comunidades, a escola indígena funciona diferente da escola não indígena. A escola indígena funciona de acordo com a realidade do povo, e acompanha o ritmo do seu dia a dia.
+As aulas funcionam na escola indígena dentro da comunidade e os alunos estudam na sala de aula com o professor, desde que não tenha algo importante para a comunidade acontecendo naquele período. Se tiver alguma atividade importante durante sua aula, o cacique da aldeia sempre pedirá a interrupção da aula, porque os alunos precisam participar das atividades tradicionais de forma que não esqueçam a sua cultura. Os acontencimentos e rituais são aulas tradicionais para os alunos indígenas. Assim eles não podem perder esses rituais, pois são os futuros atores que assumirão a linhagem dos seus pais e avôs para dirigir a sua comunidade dentro da aldeia.
+A escola também ensina a evitar a perda da cultura, a incentivar o estudante indígena como fortalecer sua cultura. Dentro dela os alunos aprendem músicas, danças, luta huka-huka, pinturas, rezas, pescarias, roçadas e os segredos sagrados. É uma coisa que só eles podem ficar sabendo, como passado por nossos antepassados, desde o início de história do nosso povo.
+Além do mais, se uma pessoa das famílias falecer durante e período de aula, o professor tem o direito de interromper as aulas, porque na cultura deve-se respeitar a família do falecido, ficando 20 dias sem aulas. Então, toda a comunidade pára de fazer sua atividade pessoal na aldeia, e professor e comunidade têm como justificar a interrupção das aulas.
+Então, o sentido das escolas indígenas é outro e cada povo tem seu currículo próprio para sua escola.
+Na seção seguinte, daremos início à apresentação dos resultados da presente dissertação, iniciando pelas considerações que fizemos sobre os trabalhos lingüísticos que discorreram sobre aspectos gramaticais das línguas Kamaiurá e Awetí.
+
+25
+1.7 A LITERATURA LINGUÍSTICA SOBRE AS LÍNGUAS AWETÍ E KAMAIURÁ: ALGUMAS CONSIDERAÇÕES
+As línguas Awetí e Kamaiurá vêm sendo objeto de estudos por parte de linguistas desde a década de 1960. Os estudos linguísticos sobre os Kamaiurá compreendem uma gramática (SEKI, 2000), duas dissertações de mestrado (SILVA, 1981; P. KAMAIURÁ, 2010), e vários artigos sobre aspectos da fonologia (SILVA, 1981; SAELTZER, 1976; EVERETT e SEKI, 1986), da morfologia e morfossintaxe Kamaiurá (SEKI, 1976, 1982, 1994, 1997a, 1990, 2000, 2001, 2004, 2007; P. KAMAIURÁ, 2010). Há ainda estudos sobre aspectos sociolinguísticos dessa língua e artigos antropológicos que fazem importante referência à semântica de palavras Kamaiurá (Junqueira 2009). Essa língua é uma das mais bem documentadas linguisticamente dentre as línguas indígenas brasileiras. Nesta seção, teceremos algumas considerações sobre alguns dos trabalhos linguísticos relativos à língua Awetí, por ser uma língua com documentação linguística menos intensa do que a existente sobre a língua Kamaiurá, mas também pelas fundamentais contribuições que alguns desses trabalhos representaram para inaugurar o conhecimento de uma língua indígena brasileira de que antes só se tinha conhecimento através de pequenas listas de palavras coletadas no século XIX.
+O primeiro estudo linguístico sobre o Awetí foi realizado por Charlote Emmerich e Ruth Maria Fonnini Monserrat (1972), com base em dados coletados pelas autoras em 1969. Trata-se de um importante trabalho sobre a fonologia segmental desta língua. O segundo trabalho foi uma descrição de relevantes aspectos da morfossintaxe Awetí (MONSERRAT, 1976), com base em dados coletados pela autora em campo nos anos 1971, 1972, 1973 e 1975. Esse trabalho trata dos prefixos pessoais do Awetí, mas nele Monserrat nos faz conhecer não apenas o rico sistema pessoal da língua, mas também, como dito pela própria autora, é “um estudo descritivo, em bases morfológicas, do sistema de prefixos designativos de pessoa em Awetí que é um passo preliminar para o estudo dos tipos de oração e para uma maior compreensão da sintaxe da língua.” Monserrat, com base na distribuição dos prefixos da língua identifica três classes de palavras em Awetí: verbo, estado e nome.
+Monserrat (1976, p. 4) identifica cinco paradigmas de pessoa na língua. Faz importantes observações soabre os princípios que regem a distribuição de marcas pessoais na língua, dentre os quais:
+
+26
+a) a referência pessoal e o número dos participantes do discurso: falante singular; ouvinte singular; terceiro, singular ou plural; falante(s), ouvinte(s) e opcionalmente terceiro(s); falante(s) e terceiro(s) com exclusão de ouvinte(s); ouvintes. b) a transitividade ou intransitividade da ação verbal. c) o modo do verbo, indicativo ou imperativo. d) o som inicial do tema verbal, consoante ou vogal, e) a correlação sujeito/objeto, no caso de verbos transitivos.
+Essas observações são fundamentais para o entendimento de princípios que regem a morfossintaxe e sintaxe da língua Awetí. São observações que têm sido ecoadas até o presente em estudos morfossintáticos de várias línguas Tupí, porque foram observações pertinentes, pioneiras e extensivas à maioria das línguas do tronco Tupí.
+Uma observação importante fornecida por Monserrat é a de que
+Os pronomes referentes à primeira e terceira pessoa distinguem-se segundo o sexo do falante. Assim, tanto itó quanto atít são traduzidos como ʹeuʹ, o primeiro se usa quando é uma mulher que está falando, o segundo quando é um homem. Da mesma forma, há um pronome-objeto de terceira pessoa, i se o falante for mulher, nã se for homem. Há a mesma distinção por sexo nos demonstrativos, em alguns nomes e nos prefixos nominais. (MONSERRAT, 1976, p. 15)
+Muito importante também foi a identificação de uma classe de palavras que Montserrat chama de estado. Segundo Monserrat, trata-se de uma classe de palavras “caracterizada morfologicamente pelos prefixos pessoais estativos. esses prefixos são usados com raízes nominais, que passam a funcionar na posição de predicado.” (1976, p. 10)
+Nesse trabalho, Montserrat fala com muita propriedade de processos de nominalização em Awetí e do morfema de posse alienável -e. Observa também a existência em Awetí da alternância de p inicial com m inicial em vez de p, sem prefixos relativos. Considera, seguindo Aryon D. Rodrigues, que esse m é a forma do prefixo relativo de ser humano genérico. (1976, p. 12-13)
+Observa, ainda que os nomes “podem ter ou não ter função predicativa”. No último caso, funcionam como sujeito ou complemento verbal. (1976, p.13)
+Montserrat produziu vários outros artigos sobre o Awetí, dentre os quais, um artigo sobre a negação em Awetí (1975), um artigo sobre a nasalização em Awetí (1977), um artigo sobre características lexicais e morfológicas da fala masculina e feminina na língua Awetí (2000); produziu um Vocabulário e Frases Awetí-Português (2001). Elaborou um
+
+27
+estudo sobre a fonologia da língua Awetí (2002a), outro sobre ergatividade em línguas Tupí, com ênfase no Awetí (2002b). Produziu outro Vocabulário Português-Awetí (2007a), um estudo sobre o grau de parentesco genético entre o Awetí e o Proto-Tupí-Guaraní (2007b). A contribuição de Monserrat para o conhecimento da língua Awetí é de fundamental importância e suas análises se comprovam quando são expostas a novos dados, inclusive os dados do autor deste trabalho, que tem a língua Awetí como sua língua materna.
+Há até o presente, uma única dissertação de mestrado sobre a língua Awetí, a de Borella (2000). Essa dissertação trata de aspectos morfossintáticos da língua e se apóia fortemente nos dados e análise do Awetí de autoria de Monserrat. Borella trabalhou com a língua Awetí em 2000, no Parque Indígena do Xingu, quando a população Awetí somava 100 pessoas. Hoje, a população aumentou para 350 pessoas.
+Segundo Borella, os Awetí eram na época monolíngues, talvez porque desconhecesse que os Awetí entendem a língua Kamaiurá, isto é, por causa dos casamentos exogâmicos, Awetí casa com Kamaiurá e o Kamaiurá casa com Awetí, de forma que os cônjuges e seus filhos tornam-se fluentes nas duas línguas.
+Borella trata principalmente de aspectos fonológicos e sintáticos – classes de palavras. Reiterou o que já havia dito Monserrat sobre a existência de fala masculina e feminina na língua. Borella propõe uma divisão alternativa de classes de palavras.
+Borella defende a ideia de que o Awetí não possui uma classe lexical independente de adjetivos. Considera que para a primeira pessoa do singular, a língua apresenta uma marcação de caso ativo/estativo. Para a segunda pessoa do plural e para a primeira pessoa plural inclusivo, a língua apresenta um sistema ergativo. A análise de Borella se pauta em número restrito de dados, mas é uma contribuição importante ao conhecimento linguístico da língua Awetí.
+Nos últimos 10 anos, o pesquisador alemão Sebastian Drude vem documentando a língua Awetí no âmbito do Programa Documentation of Endangered Languages (DOBES), financiado pela Volkswagen Foundation.
+Drude recebeu inicialmente dados inéditos do Awetí, fornecidos gentilmente por Ruth Maria Fonini Moinserrat, dados estes que essa linguista transcreveu foneticamente e analisou morfológicamente com rigor científico. Com o conhecimento prévio da língua proporcionado pelos dados e estudos de Monserrat, Drude coletou seus próprios dados e publicou alguns artigos, em parte dos quais reitera os achados de Monserrat e Borella sobre a língua Awetí, como em seu artigo “Fala Masculina e Feminina em Awetí” (2002). Em seus
+
+28
+artigos “On the position of the Awetí language in the Tupí family” (2006) e “Awetí in relation with Kamaiurá: The two Tupian languages of the Upper Xingu” (2011), Drude contribui para a hipótese de Rodrigues sobre o grau de relações genéticas entre as famílais Awetí e TupíGuaraní.
+Em “Awetí in relation with Kamaiurá: The two Tupian languages of the Upper Xingu” Drude, como ele próprio explicita, procura responder à pergunta ʹquão próximas são as línguas Awetí e Kamaiuráʹ em níveis sociolinguísticos. Drude faz referência ao artigo de Rodrigues (1984/85), no qual este, baseado nos resultados de seus estudos históricocomparativos das línguas do tronco Tupí, que à época já completavam 35 anos, postula que Awetí e Mawé são representantes de famílias independentes do tronco linguístico Tupí, respectivamente as famílias Awetí e Mawé.
+A hipótese de um agrupamento genético Mawé--Awetí--Tupí-Guaraní, pressupõe ter havido, em um estágio da diversificação do tronco Tupí, um Proto Mawé-Awetí--TupíGuaraní, a partir do qual teriam se desenvolvido três famílias, a Mawé, a Awetí e a TupíGuaraní.
+Drude (2011, p.158) abrevia a expressão cunhada por Rodrigues para nomear o referido agrupamento, reduzindo-a a MATG – Mawetí-Guaraní, uma expressão que gera confusão, por não existir uma família Guaraní, mas sim uma família Tupí-Guaraní. Rodrigues (comunicação pessoal) acha estranho que mudem o nome de sua hipótese, aliás, o que é constrangedor, pois uma descoberta de um cientista, como foi a de Rodrigues, fundamentada em anos de pesquisa histórico-comparativa passa a ser referida como sendo de outros.
+O trecho de Drude deixa isso muito claro:
+In short, within the Tupian languages, Kamaiurá belongs to the large TupiGuarani sub-family, to which Awetí is the closest external relative. Together with Sateré-Mawé, both TG and Awetí belong to the major group ʹMawetíGuaraniʹ, the most inclusive top-level Tupian branch so far established.
+Drude também observa que ele e o linguista Sérgio Meira têm confirmado a hipótese deste agrupamento, mas não menciona os demais trabalhos publicados que também têm contribuído para a hipótese de um agrupamento Mawé--Awetí--Tupí-Guarani, como são os trabalhos de Rodrigues e Dietrich (1977) e o de Correa da Silva (2010a e 2010b), entre outros.
+Ao abordar as origens históricas dos Kamaiurá e dos Awetí, Drude (2011) adota a expressão família para designar o agrupamento Tupí e não o termo tronco, inclusive considera
+
+29
+que stock seja uma tradução do Português tronco, quando na realidade tronco é que é uma tradução do termo stock do Inglês.
+Sobre a história do Kamaiurá, (2010, p. 159), Drude resume o que vários autores disseram anteriormente a partir da memória dos Kamaiurá. Apresenta as classificações existentes como a de Rodrigues (1984-1985), segundo a qual o Kamaiurá sozinho constitui um sub-ramo. Equivoca-se ao interpretar que a proposta de classificação de Rodrigues e Cabral (2002) identifica Kamaiurá como pertencente ao ramo VIII da família Tupí-Guaraní. Rodrigues e Cabral (2002) mantêm a proposta original de Rodrigues (1984-1985) de que o Kamaiurá pertence ao sub-ramo VII da família Tupí-Guaraní. Mas para Drude, a posição exata do Kamaiurá na família TG deve ainda ser conclusivamente colocada (2010, p. 157).
+Segundo Drude (2011, p. 165), Awetí e Kamaiurá ocupam posições diferentes na configuração política do sistema regional, sendo o Kamaiurá um dos grupos de maior prestígio e um dos mais numerosos, enquanto que os Awetí são uns dos menores grupos e que tem gozado de baixo prestígio, embora a situação comece a mudar. Drude acredita que essas diferenças entre os dois grupos tenham se refletido na atenção dada pelos pesquisadores aos dois grupos, do que discordamos veementemente.
+Para Drude (2011, p. 165), muitos mais Awetí entendem Kamaiurá do que Kamaiurá entendem Awetí e conclui que a maioria dos Awetí tem pelo menos um bom comando do Kamaiurá e alguns deles falam essa língua.
+Para Drude os Awetí:
+Occupɨing a central position in the Upper Xingu political system, the Kamaiurá have strong alliances with several other Xinguano groups, in particular with the Yawalapiti and the Wauja. The Awetí do not even feature prominently among their allies and the Kamaiurá have in fact intermarried more with other groups (Trumai, Yawalapiti, Mehinaku) than with the Awetí. Although the Kamaiurá recognize their linguistic relatedness to Awetí, few have actually learned their language, which is generally said to be difficult and unintelligible (hence their nickname ʹAlemanha,ʹ ʹGermanyʹ in Portuguese).
+Estranhamos a existência de um apelido para a língua Awetí por parte dos Kamaiurá. Certamente, a expressão Alemanha foi usada para se referir ao próprio Drude, mas não para designar a língua Awetí.
+Drude, embora anuncie em seu artigo que observará níveis sociolinguísticos, dedica parte do estudo ao que ele chama de mudanças do proto-Mawetí-Guaraní às línguas
+
+30
+atuais. Propõe para esse proto-Mawetí-Guaraní um sistema de vogais e um de consoantes, embora não demonstre essa proposta reconstrutiva.
+Drude compara as formas pronominais do Awetí e do Kamaiurá, listando as formas existentes em uma e outra língua, ressaltando o que uma tem que a outra não tem. mas não apresenta nenhuma hipótese que fundamente as correspondências entre elas, nem hipotetiza sobre a diferenciação das duas línguas nos aspectos gramaticais ressaltados.
+Quanto aos prefixos relacionais, Drude, como vários outros, embora mencione a expressão “prefixos relacionais”, usa o termo “link prefix” com referência a um desses mesmos prefixos relacionais, o que foge ao conceito de prefixos relacionais construído por Rodrigues.
+Drude (2011, p. 178) fala da existência de um prefixo em Awetí indicando posse nos casos de nomes alienáveis, prefixo este já reportado por Montserrat em seus dados, e também por Rodrigues, Cabral e Correa da Silva (2006). Para Drude, este prefix é desconhecido em Kamaiurá e não foi reconstruído para o PTG. Ressaltamos que Rodrigues, Cabral e Corrêa da Silva (2006), em seu artigo intitulado “Evidências Linguísticas para a Reconstrução de um Nominalizador de Objeto **-mi- em Proto-Tupí (Linguistic Evidences for the Reconstruction of a Proto-Tupí Object Nominalizer **-mi-) reconstroem o prefixo **e(p) para o Proto Tupí, com a função de mediador de posse para nomes absolutos, fundamentando sua reconstrução também com dados do Awetí, que contêm o prefixo eʹmediador de posseʹ. (http://repositorio.bce.unb.br/handle/10482/4828 ou http://etnolinguis tica.wdfiles.com/local--files/artigo%3Arodrigues-cabral-silva-2006/rodrigues_cabral_silva_ 2006.pdf)
+Rodrigues e Cabral (2012) apresentam dados adicionais para a reconstrução deste mesmo prefixo em PT **-e(p) **-mi, também reconstruído para o PT, com base em dados de seis das 10 famílias do tronco Tupí.
+Drude aponta traços sintáticos que o Awetí compartilha com o Kamaiurá, e salienta que, embora o Awetí tenha sido visto como fortemente influenciado pelo Kamaiurá (e.g. FABRE, 2001: 1088, s.v. ʹAwetíʹ), seu estudo não revela muitos empréstimos.
+Por outro lado faz a ressalva de que há empréstimos de outras línguas xinguanas no Awetí, mas apenas ilustra empréstimos do Kamaiurá, como morekwat ʹchief, leaderʹ (Kam. morerekwat), piraʹɨt ʹfishʹ (Kam. pirá), jawari (Kam. jawari), karaʹiwa (not only in Kam.), karãj ʹto scratchʹ (Kam. karãj).
+
+31
+Finalmente, em sua lista de formas cognatas e formas reconstruídas, Drude postula reconstruções para o que ele chama de PMATG, mas sem considerar estudos minuciosos e consistentes no âmbito da linguística histórico-comparativa como os de Rodrigues que traz número considerável de cognatos representando as dez famílias do tronco Tupí (RODRIGUES, 2005, 2010; RODRIGUES e CABRAL, 2012).
+O artigo de Drude é uma contribuição aos estudos sobre as relações lingüísticas entre o Awetí e o Kamaiurá, tanto as genéticas quanto as resultantes de contato entre os dois povos, vindo tal contribuição a somar-se às contribuições de Correa da Silva, de Rodrigues e de Rodrigues e Cabral sobre o tema.
+No âmbito dos estudos histórico-comparativos, o trabalho de Correa da Silva é um marco por utilizar com rigor métodos históricos e linguístico-histórico-comparativos, e, muito importantemente, por considerar as etimologias reunidas e analisadas por Rodrigues ao longo dos últimos sessenta anos. Desenvolve uma análise das afinidades e das relações linguísticas entre as famílias Mawé, Awetí e Tupí-Guaraní, integrantes do tronco Tupí, e como diz a autora, “na busca das correlações sócio-históricas para as ocorrências linguísticas, partindo dos dados linguísticos, porém utilizando subsidiariamente dados históricos, arqueológicos, etnográficos, etno-históricos e genéticos.
+O objetivo central desse estudo é o de avaliar as relações entre essas três famílias com o intuito de propiciar uma melhor compreensão não apenas da história dessas línguas, mas do processo histórico de diferenciação das línguas no âmbito do tronco Tupí.
+Por meio da identificação de correspondências fonológicas, lexicais, semânticas, morfológicas e morfossintáticas entre as línguas Sateré-Mawé, Awetí e Proto-Tupí-Guaraní, a pesquisa que desenvolve avalia as semelhanças e diferenças entre elas, assim como as possibilidades de empréstimos e mudança por contato.
+Correa da Silva propõe inventários hipotéticos de fonemas e morfemas reconstruíveis para dois estágios sucessivos intermediários entre o Proto-Tupí e o Proto-TupíGuaraní, a saber: Proto-Mawé-Awetí-Tupí-Guaraní e Proto-Awetí-Tupí-Guaraní.
+Correa da Silva ressalva que
+Foi somente com o incremento da pesquisa linguística das diversas línguas Tupí e, sobretudo, das línguas da família Tupí-Guaraní, durante as décadas de 1960 e 1970, que foi possível chegar à configuração atual desse tronco linguístico com dez famílias: Tupí-Guaraní, Awetí, Mawé, Mundurukú, Jurúna, Arikém, Ramaráma, Mondé, Tuparí e Puroborá (RODRIGUES, 1984/1985).
+
+32
+Correa da Silva oferece uma análise que elucida as relações linguísticas entre as três famílias – Mawé, Awetí e Tupí-Guaraní – “avaliando empiricamente, por meio do método histórico-comparativo, a hipótese de Rodrigues (1984/1985) e Rodrigues e Dietrich (1997), de maneira a lançar uma luz sobre a história dessas línguas.”
+Os resultados finais apontam para o reforço da validade da hipótese de Rodrigues de que o Awetí é mais próximo do Tupí-Guaraní do que o Mawé e de que as três famílias formam um estágio específico na diversificação interna do Proto-Tupí.
+Dados morfossintáticos do Awetí foram usados e analisados em três trabalhos de natureza histórico-comparativa: “O desenvolvimento do Gerúndio e do Subjuntivo em TupíGuaraní” de autoria de Rodrigues e Cabral (2005), em que os autores analisam dois tipos de orações dependentes em Awetí, comparando-os com línguas da família lingüística TupíGuaraní. Em seu artigo de 2006, “Investigando a origem e o desenvolvimento de orações dependentes nas famílias do tronco lingüístico Tupí”, Rodrigues e Cabral retomam exemplos de orações dependentes e nominalizações em Awetí, mostrando inclusive a proximidade entre Awetí e Tupí-Guaraní quanto a esses dois aspectos.
+Os autores retomam a hipótese apresentada por Cabral e Rodrigues (2002) de que o sufixo de gerúndio dos verbos em Awetí e em Tupí-Guaraní tenha se desenvolvido antes do desmembramento do sub-ramo Awetí–Tupí-Guaraní, nas situações em que um verbo nominalizado por meio do sufixo *-ap (nominalizador de circunstância) recebia o sufixo locativo *-o. Segundo esses autores, nomes que exprimem uma circunstância – instrumento, ocasião, lugar, etc. – são, nas línguas do tronco Tupí, obtidos por meio da nominalização de verbos intransitivos ou transitivos com reflexos do Proto-Tupi **-ap. Os autores fornecem exemplos de verbos nominalizados em línguas de diferentes famílias do tronco Tupí, como os seguintes: Mundurukú ɨa3o2ka3ka3ap2 ʹa matançaʹ (Crofts, 1985, p. 216); Tuparí eparoarap ʹmorteʹ, de eparoat- ʹmorrerʹ (CASPAR e RODRIGUES, 1957); Awetí kjtap ʹcircunstância da morteʹ de kj ʹmatarʹ (Monserrat, comunicação pessoal), Arikém ub i-kat-b-O ʹaqui é seu lugar de dormirʹ (NIMUENDAJÚ, 1932). Segundo essa hipótese, o sufixo do modo gerúndio teria se desenvolvido no Proto-Awetí–Tupí-Guaraní, quando verbos nominalizados com -áp se combinavam com o sufixo adverbial -oʹlocativo difusoʹ.
+
+33
+CAPÍTULO 2 – SOBRE A CLASSSIFICAÇÃO GENÉTICA DO AWETÍ E DO KAMAIURÁ
+Segundo Rodrigues (1984/1985) a clasificação das línguas dos povos Tupí em um
+tronco Tupí reflete um modelo genético de diversificação de uma proto-língua em famílias, cada uma das quais, teria ser originado, por sua vez de proto-línguas, como o Proto-Tupí-
+Guaraní, o Proto Tuparí, o Proto Arikém, o Proto Mondé, o Proto-Ramarama, o Proto Jurúna e o Proto-Mundurukú. Rodrigues ressalta que, além dessas famílias linguísticas, o tronco Tupí é também integrado pelas línguas Awetí, Mawé e Puroburá, as quais são membros únicos de
+três famílias adicionais, respectivamente a família Awetí, a família Mawé e a família Puruborá. Rodrigues acentua que:
+Até agora tanto o Awetí quanto o Mawé vinham sendo incluídos na família Tupi-Guarani (Rodrigues 1958a, b, 1971). O melhor conhecimento de ambos (para o Awetí v. Emmerich e Monserrat 1972, Monserrat 1976; para o Mawé vários manuscritos de A. e S. Graham, Summer Institute of Linguistics, Brasília), deixa claro, entretanto, que são tão aberrantes, cada um a sua maneira, em relação a todas as outras línguas incluídas naquela família, que sua associação com elas deve ser procurada num outro plano. Sua exclusão da família Tupi-Guarani permite ter nesta um conjunto consideravelmente homogêneo de línguas, cuja comparação em detalhe pode ser realizada mais abrangentemente em todos os aspectos da estrutura linguística, o que por sua vez permite empreender a reconstrução da respectiva proto-língua a partir de uma base mais sólida. Por outra parte, a inegável maior afinidade que o Awetí e o Mawé mostram com a família Tupi-Guarani deve levar à postulação de (pelo menos) uma proto-língua intermediária entre o ProtoTupi e o Proto-Tupi-Guarani, a menos que as características tupi-guarani de qualquer deles se revele resultante de um processo de contacto linguístico (o Mawé apresenta acentuada influência lexical da Língua Geral Amazônica, que deve ter-se desenvolvido nos séculos XVII, XVIII e XIX, mas não é seguro que suas outras características tupi-guarani sejam tão recentes; o Awetí, por sua vez, mostra influência lexical do Kamaiurá, mas ainda não é possível avaliar as relações históricas entre esses dois idiomas tupi que foram encontrar-se no Alto Xingu).
+É com o intuito de contribuir com a ampliação do conhecimento das relações históricas entre o Awetí e o Kamaiurá, focalizando os empréstimos de uma língua para a outra
+que este estudo se construiu. O nosso objetivo principal foi o de comparar parte do léxico das línguas Awetí e Kamaiurá, tendo em vista reunir indicações do que pode corresponder a
+herança comum do ancestral das duas famílias, Awetí e Tupí-Guaraní, isto é, o Proto--Awetí-Tupí-Guaraní, ou a empréstimo de uma língua para outra, ou seja, ou do Awetí para o
+Kamaiurá ou do Kamaiurá para o Awetí.
+
+34
+Convém salientar que esta comparação, embora busque, por um lado, identificar correspondências sistemáticas entre os sons e o significado de formas das duas línguas, neste caso buscando reunir cognatos, considera estudos fundamentais anteriores já realizados por Rodrigues (2007) e por Rodrigues e Cabral (2012), em que eles estabelecem reflexos tanto no Awetí, quando no proto-Tupí-Guaraní das formas reconstruídas para o Proto-Tupí. Esta ressalva é muito importante, pois a presente comparação não teria sentido históricocomparativo se esse conhecimento já produzido sobre as relações genéticas entre Awetí e Tupí-Guaraní não fosse considerado. Isso posto, faremos, a seguir, um resumo do estudo histórico-comparativo desenvolvido por Rodrigues e Cabral (2012), em que reconstroem as vogais e consoantes que teriam constituído o sistema fonológico do Proto-Tupí.
+
+2.1 AS VOGAIS E AS CONSOANTES DO PROTO-TUPÍ, SEGUNDO RODRIGUES E CABRAL (2012)
+Rodrigues e Cabral (2012), com base nas correspondências regulares entre palavras cognatas das dez famílias que constituem o tronco linguístico Tupí, reconstroem duas séries de seis vogais, uma oral e outra nasal, assim como uma série de 27 consoantes. As séries de vogais foram retomadas dos estudos de Rodrigues publicados anteriormente (RODRIGUES, 2005, p. 35-46; 2007, p. 171):
+
+**i ** **u **e **a **o
+
+** ** **ã **õ
+
+Segundo Rodrigues (2005) e Rodrigues e Cabral (2012) as seis vogais orais foram preservadas em TG, em AW, e em MA, apenas com uma cisão parcial de *e, que se arredondou e se fundiu com **o antes das consoantes labializadas **pw e**kw: **epw > PTG *-o ʹfolhaʹ, AW op, MA -op, mas TU Tu, Ak, Me -ep, MO Gv -ep, Cl -ép; **ekw ʹcasaʹ > PTG *ok ʹcasaʹ, *okw-er ʹex-casaʹ, *okw-am ʹfutura casaʹ, AW ok ʹcasaʹ, MA ok ʹninhoʹ, mas TU Tu ek ʹcasa, ninhoʹ, RA Ka ék ʹdentroʹ.
+Esta mudança é muito importante para a hipótese de um Proto-Mawé—Awetí— Tupí-Guaraní.
+Também para a reconstrução de vogais nasais as línguas Awetí, Proto-TupíGuaraní e Mawé são muito importantes. Os cognatos usados por Rodrigues são: **wae ʹpanelaʹ > TG *jae, AW tae, MA waã, JU Ju wae , MU Ku wáe ʹcabaçaʹ, TU Tu wae, RA
+
+35
+Ka mae; **tãj ʹdenteʹ > TG *tãj, AW tãj, MA jãj, JU Ju ãj-a, MU Mu nj, AR Kt õ, TU Tu jãj, MO Ar jej , RA jãj; **mtu > TG *mtu, AW mtu, MA mju, MU Mu witõ, Ku mitu, AR Kt mis, TU Mk mitõ ʹmutum, Crax sp.ʹ; **amõj ʹavôʹ > TG *-amõj, AW amuj, MA amu ʹuncleʹ, JU Xi amj, AR Kt omj, MO Pa amõ ʹavóʹ, -móɨá ʹavóʹ.
+Quanto às consoantes, o conjunto reconstruído por Rodrigues e Cabral foi o seguinte:
+**p **pw **t **tj **c č **k **kj **kw **p **pw **t **c č **k **kw ** **mp **k **m **n ** **w **w ** **j **j
+Apresentamos, em seguida, os cognates reunidos por Rodrigues e Cabral (2012) que fundamentam a sua reconstrução:
+**k:**kt ʹverde, imaturo, > TG *k; AW kt ʹverde, azulʹ, MA kt-i ʹjovem, verde, esbranguiçadoʹ, JU Ju a-kl-a ʹverdeʹ, Xi a-k-a ʹverde (milho)ʹ, MU Mu kit ʹimaturo, verdeʹ, AR Kt ket ʹazulʹ, ke-a ʹverdeʹ, TU Tu kit ʹjovemʹ, MO Gv ki-i ʹimaturo, verdeʹ, RA Ka kit ʹverde, amarelo, quase maduroʹ, ki-ik verde; **tukan ʹtucano, Rhamphastos tocoʹ > TG *tukan, AW tukan-, MA juk an, MU Ku tukan, AR Kt (eo)kon, TU Tu jõkan, MO Pa jokánab, Mo jukan, RA Ka jukan, PU jokan.
+**p foi preservado em muitas famílias, mas sofreu diferentes cisões em TG, MU, e TU. Em TG * (**ap + un + -a → auna ʹcabelo preto da cabeça, **ap-a → aa ʹcabelo da cabeçaʹ, *n i-ap-i → n iai ʹele não tem cabeloʹ), p (*i-ap → Tupinambá iap ~ ia ʹele tem cabeloʹ); Mu **p →  /_i < **, p ou b: **pe ʹcaminhoʹ > Mu, Ku e, **p ʹpéʹ > Mu, Ku i, **pck ʹpegarʹ > Mu išik, **ep ʹfazer voltarʹ > Mu ei, **pocj ʹpesadoʹ > Mu poši, **pap ʹmorrerʹ > Mu a-pap ʹmorrer muitas pessoasʹ, **wup ʹvermelhoʹ > Mu op ʹmaduroʹ. Na família Tuparí **p foi retido em todos os ambientes, exceto na língua Tuparí, na qual se tornou ts ou s intervocalicamente e s inicialmente antes de **i: **pap ʹmorrerʹ > Tu, Ak, Me pap, **pocj ʹpesadoʹ > Tu poci, Mk, Wa poti, **ape ʹcasca, peleʹ > Tu, Ma, Wa, Ak, Me, Ke ape, **ep ʹfazer voltar, rebobinarʹ > Tu epsi, **p ʹpéʹ > Ak, Me pi, Tu si-to, **ppe ʹdentroʹ > Tu sipe.
+
+36
+Para o Proto **t, segundo Rodrigues e Cabral, a única família que não sofreu mudança nenhuma foi a Awetí:
+**tãj ʹdenteʹ > TG *tãj, AW tãj; **mtu ʹmutum, Crax sp.ʹ> AW mtu, TG *mtu; **-et > AW -et, TG *-et ~ -e ʹnomeʹ, Tb sét ~ sé ʹ(he) has a nameʹ, séa ʹseu nomeʹ; **ewit ʹmelʹ > AW ekt, TG *eit ~ ei, Tb eít ~ eí ʹhá melʹ, eíee ʹmel doceʹ, eíra see ʹo mel é doceʹ. Nas famílias Mawé, Tuparí, Mondé, Ramaráma, e Puruborá **t mudou para j no início de palavra e foi preservado no final de palavra, mas tem reflexos distintos em meio de palavra em cada família: **tãj ʹdenteʹ > MA jãj, TU Ak, Ma, Tu jãj, MO Ar jej, Zr jij, RA Ka jãj; **tukan ʹtucano, Rhamphastos tocoʹ > MA jukan, TU Ma jõkan, MO Mo, Zr jukan, RA Ka jokan, PU jokan; **mtu ʹmutum, Mitu mituʹ > MA mju, TU Ma mitõ; **ewit ʹmelʹ > MA ewit, TU Tu, Ke ewit, Ak ekwit, MO Cl ivit, Gv íìt, RA Ka pewit, PU iwit. 2.2.4 A africada alveolar **c se fundiu com a oclusiva t em AW, MA, AR, MO, e RA, mas em JU, MU, e TU essa fusão foi parcial e em TG a articulação africada foi plenamente maintida: **cup ʹverʹ> TG *cu `visitar, encontrarʹ, AW tup, MU jo , AR Kt tp ʹencontarʹ, TU Tu, Ma top, Me sob-, Ak cop, RA Ka tob; **pocj ʹpesadoʹ > TG *pocj, AW potj, MA potj, JU Ju, Xi pade-, MU Mu posi, AR Kt pti, TU Tu posi, Ma, Wa poti, MO Gv patíì, Cl pattíí, Zr pati, Pa pati-ga, RA Ka piti.
+**č > **c TG h ou  como reflexos de *c e č ou s como reflexo de *č: **co ʹirʹ > TG *co > Tb so, Gɨ co, Ga ho, Mb o; **pocj ʹpesadoʹ > TG *pocj > Tb posj, Gɨ pocj, Ga pohj, Mb poj; **čuku ʹmorderʹ > TG *čuu > Tb suú, Gɨ cúu, Ga cuu, Mb čuu; **č ʹmãeʹ > TG *č > Tb s, Gɨ c, Ga c, Mb č, **ač ʹmachadoʹ > TG *ač > Tb as, Gɨ ác, Ga ac, Mb ač.
+**tj: **atja ʹfogoʹ > TG *-ata, AW -aa, MA aja, MU Mu, Ku -asa, AR Kt iso; **wetjk ʹbatata doceʹ > TG *jetk, AW tek, MU Mu wesi k, MO Gv vití-a, Zr weči-a, RA Ka petik-a, PU witik-a.
+**kj: **kat ʹcoisaʹ > TG *ka-, AW kat, MU Mu kat, TU Tu kat ʹwhatʹ and **kjap ʹgordoʹ > TG ka-, AW kap, MU Mu sep, TU Tu ap; **kt ʹimaturoʹ > TG * k-, AW kt
+
+37
+ʹverde, azulʹ, MU Mu kit ʹimaturo, verdeʹ, TU Tu kit ʹjovemʹ; **kjet ʹdormirʹ > TG *kje-, AW set, MU Mu se t, TU Tu et.
+**kw preservou-se bem em algumas familias e deslabializou-se em outras, fundindo-se com os reflexos de **k. Nas poucas reconstruções desse som em final de palavra a labialização foi perdida, menos em TG, AW, MA, JU e MU, em que o desarredondamento ocorreu depois de ter afetado a vogal e, que mudou para o, como msotrado acima.
+**pw: **epwa ʹfaceʹ > TG *-oa, AW -owa, MA -ewa, MU Mu d-opa, Ku t-upa, AR Kt s-po, TU Tu epa ʹolho, luzʹ, epa-psi ʹfaceʹ; **pw ʹa terraʹ > TG *, AW w-ete, JU Ju p, MU Mu, Ku ipi, AR Kt ej-epi; **epw ʹfolhaʹ > TG *o, AW op, MA -op, JU Ju úp-a, Xi s-up-á, MU Mu -p, AR Kt s-ap, TU Tu, Ak -ep, MO Gv s-ep, Cl s-ép, PU t-ap.
+**: ** a ʹfrutoʹ > TG *a, AW a, MA -a, JU Ju i-á, MU Mu, Ku á, AR Kt o, TU Tu, Ak a, MO Gv //aá, RA Ka a; **a `preguiça, Bradɨpus sp.ʹ> TG *a, MU Mu ai, AR Kt oi, RA Ka ai, PU ai; **pa ʹfígadoʹ > TG *pa, MA pa, JU Xi ba, MU Ku pia, Mu psa, TU Tu sia, RA Ka pia; **wae ʹpanelaʹ, MU Mu wae, Xi wáe ʹcabaçaʹ, TU Ak, Me wae, RA Ka mae- ka.
+**k: **kp ʹárvore, madeiraʹ > TG *, AW p, MA p, JU Ju ip-á, MU Mu, Ku ip, AR Kt ep, TU Ak, Ke, Ma, Me kp, Tu kp, MO Gv //iip, Pa //i:b, RA Ka ma-p, PU mamka-p ʹcastanheiraʹ; **eken ʹvomitarʹ > TG *w-een, AW -een, MA een, JU Ju, Xi en-a-en-a, TU Tu, Me ek en.
+**t: PT **tap ʹtetoʹ > TG *ta ʹaldeiasʹ; AW tap ʹcoberturaʹ; MU Mu da-at ʹabrigo temporário; AR Kt so-sp ʹaldeiaʹ; TU Tu hap ʹcobertura do teto, ha:p ʹlarʹ, hapʹconstruirʹ, Ma čap ʹaldeia, cidadeʹ; MO Gv, Zr sap, Cl sáp, Pa lab ʹcasaʹ; PT **ta(j)tu ʹtatuʹ > TG *tatu; AW tatu; MA sahu; MU Mu daidu, Ku lajlo/aju; AR Kt sos, Am tsosj; TU Ma tajto, Me tato, Ak tatu, Wa ndato; RA Ka jájo; PU jaj; PT *ti ʹfumaçaʹ > TG *ti ʹfumaça, brancaʹ; AW ti; MA hi; JU Ju si-a; MU Mu di; AR Kt i-a, Am ni-; TU Tu si, Ma, Ak, Wa ni; MO Gv dik, Pa i, Cl wa-ni.
+
+38
+PT **c: TG *c; AW t; MA h; MU j; AR t; TU . Um pouco melhor é a documentação fundamentando o PT **č,com base nas seguintes séries: TG*č; AW t; MA t/#_V, h/V_V; JU n/Vn, h, /V_V; MU č/#_, t, d/ V_V; AR s; TU ; MO j/V_V; RA š, č; PU . Exemplos das duas séries são: PT **acem ʹchegarʹ > TG *w-acem, Tb w-asem, Ga ahem; AW to-atem; MU Mu ajem ; AR Kt otãm; PT **čam ʹcordaʹ > TG *čam, Tb sam, Ga cam; AW tam; JU Ju i-nãm-a , Xi nam-a; AR Am som-bu, Kt p-som-b, corda de arcoʹ; TU Tu, Ak am, Me am.
+**m: PT **memɨt ʹfilho/filha da mulherʹ > TG *memɨt /membɨt/, Aw mẽpɨt; MA mẽpɨt; JU ju mambɨa, KU mabɨa; TU ak, MA mẽpɨt, Me mepir-, Wa mempir, Tu memsit; Zr mãpɨt, Gv mápit; PT **moj ʹcobraʹ > TG *moj /mboj/; AW mõj; MA moj; MU mu pǝj, kupɨj; TU ke boj; MO Gv, Zr baj, CL, Pa maj; RA KA maj-; PU maj-u; PT **men ʹmaridoʹ >TG *men; AW men; JU ju mén-á, XI mén-a; AR Am man, kt mãn; TU Ak, Ma, Me, Wa, men; Mo Gv met /mẽnt/, Ar men, Zr met; AR Ka mén; PU men; PT **aman, ʹchuvaʹ> TG *aman; AW aman; MA aman; JU Ju amán-á, Xi aman-á; TU ke aman ʹáguaʹ; RA kA amãn.
+**n: PT **en ʹtuʹ >TG *en-e; AW en; MA en; JU Ju, Xi en-a; MU Mu ẽn, Ku en; AR Am aán, kt ãn; TU Ak, Tu en, en-e, Ma, Ke, Wa en, me ẽn; PT **enup ʹouvirʹ > TG *enu /-endu/; AW -ẽtup; MA wan-ẽtup; JU Ju ẽdú, Xi endu; MU Mu a-iǰo.
+**ŋ: PT ** ŋaŋ ʹsecoʹ >TG *kaŋ; MA ŋaŋ; AR kt ŋõŋ-õrõŋõ; MO 2r kag-am, Gv káŋ-ã ʹter sêdeʹ; PT **ŋɨp ʹpiolhoʹ >TG *kɨ; AW ?a-kɨp ʹp.da cabeçaʹ; Ma ŋɨp; JU Ju, Xi kɨpa; MU Mu, Ku kip; AR Am ŋgeb-ↄ, kt ŋep; TU Tu, kɨɨp, Ak, Me Kɨp, Ma ŋɨp, Wa a-ŋgip; MO Mo kiw, Cl, Zr ŋit, Gv git; RA Ka nǝp; PU a-tɨp.
+Bilabial **m, alveolar **n, e velar **. Antes de vogais orais não seguidas por consoante nasal na mesma palavra, os seus reflexos em algumas famílias são sonoras prenasalizadas ou consoantes surdas prenasalizadas (mb or mp, etc., fonemicizadas em algumas línguas como uma sequência de vogal nasal e oclusiva oral): PT **memt ʹfilho/filha de mulherʹ > TG *mem /memb/, AW mept; MA mept; JU Ju mamba, Ku maba; TU Ak, Ma mepit, Me mepir-, Wa mempir, Tu memsit; MO Zr mãpit, Gv mápit /ma pit/; PT **moj ʹcobraʹ > TG *moj /mboj/; AW mõj; MA moj; MU Mu pj, Ku pj; TU Ke boj; MO Gv, Zr baj,
+
+39
+Cl, Pa maj; RA Ka maj-; PU maj-u; PT **men ʹmaridoʹ > TG *men; AW men; JU Ju mén-á, Xi mén-a; AR Am man, Kt mãn; TU Ak, Ma, Me, Wa men; MO Gv met /men t/, Ar men, Zr met; RA Ka mn; PU mn; PT **mani ʹmandiocaʹ > TG *mani, *mani-ok ʹmandioca tuberʹ; AW mani; MA mani; JU Ju mai- , maj-áká, Xi maj-aka; MU Mu mask, Ku mak (< *mani()ok); TU Tu mãj; MO Pa mõj; RA Ka mani ʹmandioca doceʹ, mani-n ʹmandioca brabaʹ; PU mj-ka; PT **aman ʹchuvaʹ > TG *aman; AW aman; MA aman; JU Ju amán-á, Xi man-á; TU Ke aman ʹwaterʹ; RA Káro amãn; PT **en ʹvocê (sg.)ʹ > TG *en-e; AW en; MA en; JU Ju, Xi en-a; MU Mu en, Ku en; AR Am aán, Kt ãn; TU Ak, Tu en, en-e, Ma, Ke, Wa en, Me en ; **enup ʹescutarʹ > TG *-enu /-endu/; AW -etup; MA wan-et up; JU Ju ed ú, Xi endu; MU Mu a-ij o; PT **a ʹsecoʹ > TG *ka; MA a; AR Kt õ-õõõ; MO Zr ka-am, Gv kág-ãã ʹto drɨʹ, Pa kág-ã ʹter sedeʹ; PT **p ʹpiolhoʹ > TG *k; AW a-kp piolho da cabeça; MA p; JU Ju, Xi kp-á; MU Mu, Ku kip; AR Am geb-, Kt ep; TU Tu kp, Ak, Me kp Ma ŋɨp, Wa a-ŋgip; MO Mo kiw, Cl, Zr ŋit, Gv git; RA Ka nǝp; PU a-tɨp.
+**w e **j, estão em distribuição complementar, uma vez que **j é reconstruível apenas para a posição final enquanto que não há fundamentos para reconstruir **w nessa posição. Os seus reflexos em línguas de diferentes famílias são fonemas distintos, masem uma delas, a Tupí-Guaraní, os reflexos de **w é *j, que se fundiu em distribuição complementar com *j reflexo de **j. A anterirização de **w ocorreu também em Awetí, but with uma obstruinte resultante t em distribuição complementar com uma obstruinte velar k Exemplos de reflexos de **w: **wak ʹchorarʹ > TG (cf. *ja-ceõ); AW tak; MA wak; JU Ju i-wák-á ʹsoarʹ; MU (cf. Mu wa ʹchorar sg.ʹ); AR Kt hok ʹtocar guitarraʹ; TU Tu, Ak wak- ʹchorar, tocar um instrumentoʹ, Ke wak- ʹchorarʹ; MO Gv vák-, Pa wag-á, Zr wag-a; RA Ka wét; **wup ʹvermelhaʹ > TG *ju ʹamareloʹ; AW tuw- ʹamarelo, laranjaʹ; MA hup; JU Xi úp-a ʹripeʹ; MU Mu op ʹmaduroʹ; TU Ma wop, Me kop, Ak kup, Wa kup; MO Gv vóóp, Cl oóp ʹredʹ, op-t ʹamareloʹ, Paitér ób ʹvermelho, maduroʹ, Mondé up, Aruá wup; RA Ka úp ʹvermelho, maduroʹ; PU wb ʹredʹ. Exemplos de **j: **uwaj ʹtailʹ > TG *uwaj; AW -uwaj; MA -uwaj-po; MU Mu oaj-b; AR (cf. Kt s-poj); TU Ma, Tu -owaj, Ak -ukwaj, Me, Wa okwaj; **moj ʹcobraʹ > TG *moj; AW mõj; MA moj; MU Mu pj, Ku pj; TU Ke boj; MO Gv, Zr baj, Cl maj, Pa maj-; RA Ka maj-; PU moj-u; **pocj ʹpesadoʹ > TG *pocj; AW potj; MA potj; JU Ju, Xi padetú, pade-tá ʹpesoʹ; MU Mu posi; AR Kt pti; TU Tu posi, Ma, Wa poti; MO Gv patíì, Cl pattíì, Zr pati, Pa pati-ga; RA Ka piti.
+
+40
+Muito importante para entender as mudanças do Awetí é o que dizem Rodrigues e
+Cabral (2012, p. 508):
+In the Tuparí family the Mequéns language has kw as the reflex of PT **w, whereas the other languages of the same family have w, the same as in all other families, with the only exception of Tupí-Guaraní, which changed **w into *j, and Awetí, which changed it into t and k, as just said above. The Mequéns reflex has induced Moore and Galúcio (1993) to posit a protophoneme *kw in their essay of reconstruction of a Proto-Tuparí, thereby seeing all the other Tuparí languages as having simplified de articulation of kw into w. The same reasoning would appear to be appropriate in the reconstruction of Proto-Tupí on the basis of the reflex kw in Mequéns and the partial reflex k in Awetí. At least at the present state of the reconstructive work towards Proto-Tupí there is, however, a strong counter-indication to this, namely the presence of kw or kw in both Tupí-Guaraní and Awetí. The comparison of TG and AW words with their most probable cognates in other families, inclusive in Tuparí, asks for the reconstruction of a **kw in ProtoTupí, which was in opposition to the Proto-Tupí **w, source of w in most languages, inclusive of the Tuparí family, and also of Mekéns kw. See, for instance, PT **kwat ʹholeʹ (> TG *kwa, AW kwat; JU kuá) as opposed to PT **wat ʹto go (pl.)ʹ (> MA wat, MU Mundurukú -wat; AR Kt hot; TU Ak, Tu wat); PT **ekwat ʹvillage centerʹ (TG oka; AR Kt akot ʹtogetherʹ, ako ʹmeeting placeʹ; TU Me ekwat ʹvillage centerʹ) as opposed to PT **awa/awai ʹyamsʹ (> MA awai-a, JU Jurúna awa-á; MU Mu awaj, Ku awai; AR Am h; TU Ke awa, Tu awa-te, Wa awa ʹsmall yamsʹ, Me akwa).
+Dois flaps alveolares, um simples ** e um palatalizado**j, como proposto para
+o Proto-Tupí, de modo a dar conta de reflexos distintos em algumas famílias de línguas,
+especialmente a fricativa retroflexa  em Awetí: PT **aat ʹararaʹ > TG *aa; AW aa-an ʹa.
+azul.ʹ; JU Xi alal-i; AR Am oo-to.a.amarela.ʹ; TU Tu aa-taa ʹa. azul.ʹ, Ma aa-ta ʹAra
+araraunaʹ; RA Ka aa-pa ʹa.vermelha.ʹ; PT **awuu/awoo ʹpapagaioʹ > TG *ajuu; MA
+ahut; MU Ku au, Mu aro; TU Tu aoo; MO Pa awára, Cl awaláp, Gv awálap, Zr awalap; RA Ka aóo, Ur aoo; PT **pejep ʹferidaʹ > TG *pee; AW peep; MU Mu eep ʹferidaʹ, ieep-at ʹpessoa podre,leprosoʹ; TU Tu poap ʹferimentoʹ, paap ʹcicatrizʹ; PT **oje/ojo ʹeu e
+vocêʹ > TG *oe, oo-; AW oo-; MA uu-; JU Ju udi, ulu-, Xi ude, udy; MU Mu oče, Ku ute; AR Kt ta; TU Tu ote, Ak ute, Ma te; MO Gv tó-, Pa tój; RA Ka té; PT **eje-/ejo- prefixo
+causativo-comitativo > TG *eo-, AW eo-; MA ee-, MU Mu j -, Ku ud-; TU Ma, Tu ete-;
+RA Ka ta (em vista destes examplos, as seguintes séries de cognatos é de certa forma problemática: PT **pwu ʹurubuʹ > TG *u (Tb uuú, Gp vu); AW wu; MA uuwu; MU Mu oopo, Ku uupu; TU Tu oopo). Um exame mais rígido desse e de outros conjuntos
+de palavras cognatas revela que a ocorrência de AW ƺ não é muito clara, uma vez que em
+algumas situações corresponde ao MU č/j e TU t, mas em outras é a contraparte de  em MU e
+
+41
+em TU. É possível que uma melhor interpretação dos fatos aparecerá quando uma documentação mais ampla do Awetí e de outras famílias for realizara e disponibilizada para trabalhos comparativos. Por agora parece ser preferível manter uma atitude mais conservadora evitando avançar quando as situações ainda não estão bem definidas.
+O trabalho de Rodrigues e Cabral sobre a reconstrução do sistema de vogais e consoantes do Proto-Tupí nos permite, como podemos confirmar, estabelecer correspondências entre o Awetí e o Kamaiurá, tendo como referência os reflexos no Awetí e do proto-Tupí-Guaraní do Proto-Tupí, assim como de identificar os problemas que o Awetí concentra e, mais importantemente, perceber que o Awetí compartilha mais mudanças com o Tupí-Guaraní do que com o Mawé.
+
+42
+
+CAPÍTULO 3 – CORRESPONDÊNCIAS SONORAS ENTRE AWETÍ E KAMAIURÁ
+Neste capítulo, apresentamos as correspondências sonoras e lexicais entre o Awetí e o Kamaiurá, seguidas da sistematização dessas correspondências e observações sobre as mesmas.
+
+3.1 CORRESPONDÊNCIAS SONORAS E LEXICAIS
+
+-ӡ-=-t-
+
+Taza /taӡa/
+
+Tatá
+
+ʹfogoʹ
+
+t-=-t taza /taӡa/ tembe /tεmbε/ tatik /tatik/ tuwyk /tuwɨk/ tetu /tεtu/ tukyt /tukɨt/ tapi?it /tapi?it/ t kãnap /t kãnap/ topetyj /tↄpεtɨj/ tutyt /tutɨt/ t pã /t pã/ tup /tup/ tyempy /tɨεmbɨ/ tung /tuŋ/ tatupep /tatupεp/ typy /tɨpɨ/ tamut /tamut/ tutyt /tutɨt/ tamajuá /tamajuá/
+
+tatá teme tajɨk tɨwɨ teju jukɨt tapi?it tukanap topeɨj tutɨt tupã tup tɨemɨ tung tatupep tɨpɨ tawet tutɨt tamanuã
+
+ʹfogoʹ ʹbeiçoʹ ‘veiaʹ ʹsangueʹ ʹcalangoʹ ʹsalʹ ʹantaʹ ʹtucanapeʹ ʹsonoʹ ʹtio: irmão da mãeʹ ʹtrovãoʹ ʹpaiʹ ʹcórregoʹ ʹbicho do péʹ ʹtatuʹ ʹfundoʹ ʹaldeiaʹ ex-aldeiaʹ ʹtio: irmão da mãeʹ ʹtamanduáʹ
+
+-t-=ttatayup /tatɨup/ -etam /εtam/ mokãjytyp /mɔkãjɨtɨp/ tatupep /tatupεp/ potyt /pɔtɨt/ kytã /kɨtã/ tutyt /tutɨt/ mỹt /mɨt / ɨ-tatapo /ɨ-tatapɔ/
+
+ratɨup etam mokajɨtɨp tatupep -potɨt itã tutɨt mɨt ɨtap
+
+t-=jotake-ju /ɔtakε-ju/ ta?wat /ta?wat/ taku?jyt /taku?jɨt/ ti?ingu /ti?iŋ-u/ i-tatik /i-tatik/ tatik /tatik/ tetu /tεtu/ ni-tat /ni-tat/ tatuk-ap /tatuk-ap/ tawozy /tawɔȝɨ/ tamoӡɨ tarapek tawoӡɨjěmɨt
+
+ojae?o jawat jakw-aem je?eng je-rajɨk tajɨk teju-parap i-jar (ijat) jauk-ap jawatsi-pɨta. tarekaja?a jawatsipɨta araire
+
+i-pite /i-pitε/ tukyt /tukɨt/ ta?e /ta?ε/ ta?ãpyti /ta?ãmbɨti/ tak ta /tak ta/ taty /tatɨ/
+
+i-pije jukɨt ja?e ja?ãpehe jakuna jaɨ
+
+43
+ʹsogroʹ ʹaldeia, tua aldeiaʹ pomar de macaúbaʹ ʹtatuʹ ʹflorʹ concha ʹtioʹ ʹmutumʹ ʹnadarʹ
+ʹchoraʹ ʹonçaʹ ʹjacuʹ ʹfalaʹ ʹveiaʹ minha veiaʹ ʹveiaʹ ʹcalangoʹ ʹdono deleʹ ʹporto para banhoʹ ʹtracajá, cágado,jabutiʹ. tracajá ʹjabutiʹ ʹcágadoʹ
+cheiro de: ʹsalʹ ʹpanelaʹ ʹtachoʹ ʹjacundáʹ ʹluaʹ
+
+tezyk /tεȝɨk/ i-tym /i-tɨm/
+-ttazazak /taȝaȝak/ tatape /tatapε/
+t=ø atepijak /atεpijak/ motang /mɔtãng/ topetyj /tɔpetɨj/ kyte /kɨtε/ tatape /tatapε/ taty /tatɨ/ tuzuwi /tuȝuwi/ awatem /awatεm/
+t-= ritatyup /itatɨup/ itãj /itãj/ itatik /itatik/ itupi?a /itupi?a/ itewozy /itεwɔȝɨ/ ityti?yt /itɨti?ɨt/ itywyt /itɨwɨt/ itopetyj /itɔpεtɨj/ itup /itup/ itowa /itɔwa/
+t=h ini tam /ini tam/ otó /ɔtɔ/
+
+jetɨk i-jɨm
+-jjararak jape
+aetsak moang topeɨj kɨe jape jaɨ uruwi awaem
+je ratɨup je rãj je rajɨk je rupi?a je repotsi je rɨke?ɨt je rɨwɨt je ropeɨj je rup je rowa
+tupa ham oho
+
+44
+ʹbatataʹ ʹlisoʹ
+ʹjararacaʹ ʹsapéʹ
+ʹvejoʹ ʹremédioʹ ʹsonoʹ ʹfacaʹ ʹsapeʹ ʹluaʹ ʹsurubimʹ ʹacheiʹ
+ʹsogroʹ; meu sogroʹ ʹmeu denteʹ ʹminha veiaʹ ʹmeus ovosʹ (testículos) ʹmeu cocôʹ irmão, o que nasceu primeiroʹ irmão, segundo. ʹestou com sonoʹ ʹmeu paiʹ ʹmeu rostoʹ
+ʹcorda de redeʹ ʹfoiʹ
+
+t=k otětap /ɔtεtap/ ãtem /ãtεm/ n-eta /n-εta/ mytatu /mɨtatu/ pejtapy /pεjtapɨ/ -tu?u /-tu?u/ itatit /itatit/ i?atyk /i?atɨk/ oykyt /ɔɨkɨt/ motãngitat /mɔtãŋitat/ tãjpe /tãjpε/ eto /εtɔ/ etãjʹyta /εtãj?ɨta/
+
+okenap aem h-ea ipɨau peapɨ -u?u jerait i?aɨk otɨkɨt /oɨkɨt/ motangajat ãjme ereo jerãj-a?ɨta
+
+-t=-t ita?yt /ita?ɨt/ tutyt /tutɨt/ ta?wat /ta?wat/ itywyt /itɨwɨt/ ikwat /ikwat/ nitat /nitat/ tukyt /tukɨt/ pit /pit/ tapi?it /tapi?it/ ajut /ajut/ mempyt /mεmbɨt/ a?at /a?at/
+
+jer-a?ɨt tutɨt jawat jerɨwɨt ikwat ijat jukɨt pit tapi?it ajot memɨt a?at
+
+t=k oteju /ɔtεju/ ityti?yt /itɨti?ɨt/
+
+oket jerɨke?ɨt
+
+45
+ʹporta de casaʹ ʹeu saiʹ ʹolho deleʹ ʹnovoʹ ʹvocês queimamʹ ʹmorderʹ ʹme arranhaʹ ʹcurtoʹ ʹpingarʹ ʹdono de remédioʹ ʹafiadoʹ ʹvocê vaiʹ ʹminha gengivaʹ
+ʹfilhoʹ meu filho ʹtio, irmão da mãeʹ ʹonçaʹ irmão, (irmão mais novo) ʹburacoʹ ʹdonoʹ ʹsalʹ ʹpeleʹ ʹantaʹ ʹvimʹ ʹfilhoʹ ʹcaíʹ
+ʹdormirʹ ʹirmão, mais velhoʹ
+
+oykyt /ɔɨkɨt/ potyt /pɔtɨt/ ywit /ɨwit/
+k-=kka?ijyt /ka?i-jɨt/ kapi?wat /kapi?wat/ i-kuupe /i-kuupε/ ku?a /ku?a/ ka?awatu /ka?a-watu/ kyte /kɨtε/ kang /kaŋ/ kap /kap/ kam /kam/ kumana /kumana/ kuzuzu /kuӡuӡu/ kyp /kɨp/ koput /kↄput/ karãj /karãj/
+-k-=-ktaku?jyt /ta?jɨt/ tatukap /tatukap/ tukyt /tukɨt/ akuzu?jyt /akuӡu?jɨt/ takup /takup/ tak ta /tak ta/ mokõj /mↄkↄj/ paku /paku/ oukaj /ↄukaj/ ěku /εŋku/ okuje /ↄkujε/
+
+otɨkɨt ipotɨt ɨwit
+ka?i kapi?ɨwat kupe-kang ku?a ka?a kɨe kang kap kam kumana kururu kɨp kohet karãj
+jaku-aem jaukap jukɨt akutsi akup jakuna mokõj paku okaj nekõ okuj
+
+46
+ʹpingarʹ ʹflorʹ ʹembiraʹ
+ʹmacacoʹ ʹcapivaraʹ ʹcostelaʹ ʹbundaʹ ʹmatoʹ ʹfacaʹ ʹossoʹ ʹmarimbondo ʹseio de mulherʹ ʹfeijão favaʹ ʹsapoʹ ʹpiolhoʹ ʹex-roça, capoeiraʹ ʹriscar, arranharʹ
+ʹjacuʹ ʹporto de banhoʹ ʹsalʹ ʹcutiaʹ ʹquenteʹ ʹjacundaʹ ʹdoisʹ ʹpacaʹ ʹqueimouʹ ʹtua línguaʹ ʹcaiuʹ
+
+akyky /akɨkɨ/ oykyt /ↄɨkɨt/ ipuku /ipuku/ -tekyj /-tεkɨj/ waraku /waraku/
+-k = -k ok /ↄk/ atepiak /atεpiak/ mani?ok /mani?ↄk/ tezyk /tεӡɨk/ i?ak /i?ak/ tazazak /taӡaӡak/ i?atyk /i?atɨk/
+-k=- ø tuwyk /tuwɨk/ kurupem /kurupεm/ kytã /kɨtã/
+-ng /ŋ/=ng /ŋ/ motang /mↄtãŋ/ tazating /taӡatiŋ/ ti?ingu /ti?iŋu/ ipilang /ipilaŋ/ ikãng /ikãŋ/ epilang /εpilaŋ/ ang /aŋ/
+-ngk=n ěku?ã /εku?ã/ ekangkang /εkaŋkaŋ/
+
+akɨkɨ otɨkɨt ihuku wekɨj waraku
+h-ok a-etsak mani?ok jetɨk i?ak jararak i?aɨk
+tɨwɨ ɨrɨpem itã
+moang tatatsing jě?eng ipirang jê kang ne pirang ang
+enu?a ne kangkang
+
+47
+ʹmacaco aranhaʹ ʹpingarʹ ʹcompridoʹ ʹpuxarʹ ʹpimenta, (malagueta)ʹ
+ʹcasaʹ ʹolharʹ ʹmandiocaʹ ʹbatataʹ ʹvenenoso, (caldo) caldo venenosoʹ ʹjararacaʹ ʹcurtoʹ
+ʹsangueʹ ʹpeneiraʹ ʹconchaʹ
+ʹremédioʹ ʹfumaçaʹ ʹfalaʹ ʹvermelhoʹ ʹmeu ossoʹ ʹvocê está vermelhoʹ ʹsombraʹ
+ʹpilãoʹ você está virando esqueleto
+
+tung /tuŋ/ ting /tiŋ/
+k-=jkywa /kɨwa/ ky /kɨ/
+-kw = -kwitakwap /itakwap/ ikwat /ikwat/ ikwat /ikwat/ akwahap /akwahap/ takwara /takwara/
+m=m mani?yp /mani?ɨp/ mўt /mɨt / e-etãm /ε-εtãm/ aman /aman/ mokõj /mↄkↄj/ muluta /muluta/ awãtem /awãtεm/ ãtem /ãtεm/ kurupem /kurupεm/ a?am /a?am/ mani?ok /mani?ↄk/ maj /maǰɲ / mempyt /mεmpɨt/ ywy?am /ɨwɨ?am/ kam /kam/ pãnem /pãnem/ amim /amim/
+
+tung tsing
+jɨwa jɨ
+jerakwarap ikwat ikwat akwahap takwara
+mani?ɨp mɨt ner-etam aman mokõj muruta awaem aem ɨrɨpem a?am mani?ok manõ memɨt ɨwɨ?am kam panem amim
+
+48
+ʹbicho do péʹ ʹbrancoʹ
+ʹbraçoʹ ʹmachadoʹ
+ʹpêlo pubianoʹ ʹúteroʹ buraco dele/dela ʹseiʹ flauta de taguaraʹ
+mandioca (rama) ʹmutumʹ ʹtua aldeiaʹ ʹchuvaʹ ʹdoisʹ ʹcascudoʹ ʹacheiʹ ʹsaíʹ ʹpeneiraʹ ʹeu estou em péʹ mandioca (raiz) ʹmorrerʹ ʹfilhoʹ ʹbarranco altoʹ ʹseioʹ ʹde má sorteʹ ʹeu escondiʹ
+
+kumana /kumana/ -tam /-tam/ itym /itɨm/ tamajua /tamajua/
+mb=m tempe /tεmbε/
+m=w muzating /muӡatiŋ/
+mp=m mempyt /mεmbɨt/ tyempy /tɨεmbɨ/ tãjpe /tãipε/ ympyzã /ɨmbɨӡã/
+n=n en /εn/ tan /tan/ ini /ini/ tukanap /tukanap/ aman /aman/ pãnem /pãnεm/ ã-kana-ka /ã-kana-ka/
+vt=vn mitã /mintã/ ytãtu /ɨtãtu/ tětypap /tεntɨpap/ těty /tεtɨ/
+
+kumana -ham ijɨm tamanuã
+teme
+wɨratsing
+memɨt tɨemɨ ajme ɨmɨrã
+ene jan ini tukanap aman panem a-mo-kana
+pina januhã janɨpap enў
+
+49
+feijão (fava) ʹcordaʹ ʹlisoʹ ʹtamanduáʹ
+ʹbeiçoʹ
+ʹgarçaʹ
+ʹfilhoʹ ʹcórregoʹ ʹafiadoʹ ʹmão de pilãoʹ
+ʹvocêʹ ʹcorrerʹ ʹredeʹ ʹtucanapeʹ ʹchuvaʹ de má sorteʹ ʹdeixei entortarʹ
+ʹanzolʹ ʹaranhaʹ ʹjenipapoʹ ʹluz (acesa)ʹ
+
+p=p py /pɨ/ pee /pεε/ pylup /pɨlup/ pytxõ /pɨtʃↄ/ pite /pitε/ pit /pit/ pak /pak/ pilang /pilaŋ/ pew /pεw/ pozy?a /pↄӡɨ?a/ pãnem /pãnεm/ pepo /pεpↄ/ pere /pεrε/ potyt /pↄtɨt/
+-p-=-ptepe?jap /tεpε?jap/ kapi?wat /kapi?wat/ itupi?a /itupi?a/ opa-me /ↄpa-mε/ topetyj /tↄpεtɨj/ tatape /tatapε/ ipilang /ipilaŋ/ tapi?it /tapi?it/ kurupem /kurupεm/ wejp /wεjp / ype /ɨpε/ tapi?it /tapi?it/ pejtapy /pεjtapɨ/ na?ypywo /na?ɨpɨwↄ/ ?ape /?apε/
+
+pɨ pe-tɨm puruʹã pɨnõ pije pit paku pirang pew potsi?a panem pepo pere potɨt
+jepe?ap kapi?ɨwat je rupi?a opap topeɨj jape ipirang tapi?it ɨrɨpem op ɨpe tapi?it peapɨ i-?ɨpɨ-p ?ape
+
+50
+ʹpéʹ ʹfumoʹ ʹumbigoʹ ʹpeidoʹ ʹcheiro de: ʹpeleʹ ʹpacaʹ ʹvermelhoʹ ʹpusʹ ʹpeitoʹ ʹazaradoʹ ʹasaʹ ʹfígadoʹ ʹflorʹ
+ʹlenhaʹ ʹcapivaraʹ ʹmeu ovoʹ (testículo) ʹacabouʹ ʹsonoʹ ʹsapé ʹvermelho, estar vermelhoʹ ʹantaʹ ʹpeneiraʹ ʹferrada (abelha) ʹlenhaʹ ʹantaʹ ʹvocês queimaramʹ ʹperto deleʹ ʹcostasʹ
+
+?ywypy /?ɨwɨpɨ/ tětypap /tεntɨpap/ itetapit /itεtapit/ tatupep /tatupεp/ typy /tɨpɨ/ pepo /pεpↄ/ ipi? /ipi? /
+-p=-p tepe?jap /tεpε?jap/ mani?yp /mani?ɨp/ ?ap /?ap/ itatyup /itatɨup/ op /ↄp/ t kanap /t kanap/ i?azy?yp /i?aӡɨ?ɨp/ i?up /i?up/ tatukap /tatukap/ takup /takup/ t pã /t pã/ itop /itↄp/ ilop /ilↄp/ amargo nap /nap/ tu /tup/ kap /kap/ kyp /kɨp/
+
+?ɨwɨpɨ janɨpap je reapit tatupep tɨpɨ pepo pi?
+jepe?ap mani?ɨp ?ap je ratɨup h-op tukanap je?atsi?ɨp i?up jaukap akup tupã irop
+hap tup kap kɨp
+
+-piv-=-tsvatepiak /atεpiak/
+
+aetsak
+
+51
+ʹcinturaʹ ʹjenipapoʹ ʹminha pálpebraʹ ʹtatuʹ ʹfundoʹ (água) ʹasaʹ ʹmosquitoʹ
+ʹlenhaʹ tronco de mandiocaʹ ʹcabeloʹ ʹsogroʹ ʹfolhaʹ ʹtucanapeʹ ʹmeu ombroʹ ʹminha coxaʹ ʹporto de banhoʹ ʹquenteʹ ʹtrovãoʹ ʹamargoʹ
+ʹpêlo deleʹ ʹpaiʹ ʹmarimbondoʹ ʹpiolhoʹ
+vejo, fixamenteʹ
+
+vp=vm jãpi /japi/ tyěpy /tɨεpɨ/ tãjpe /tãjpε/ ypyzã /ɨpɨӡã/
+p=h iʹapo?a /i?apↄ?a/
+?=? ka?i-jyt /ka?i-jɨt/ ita?yt /ita?ɨt/ ?y /?ɨ/ mani?yp /mani?ɨp/ kapi?wat /kapi?wat/ a?utej /a?utεj/ ku?a /ku?a/ -upi?a /-upi?a/ yzapi?i /ɨӡapi?i/ i?ak /i?ak/ i?atyk /i?atɨk/ i?a /i?a/ i?up /i?up/ pi?a /pi?a/ tapi?it /tapi?it/ y?a /ɨ?a/ a?am /a?am/ mani?ok /mani?ↄk/ ?ang /?aŋ/ yʹwyp /ɨ?wɨp/ ipozy?a /ipↄӡɨ?a/ iʹape /i?apε/
+
+nami tɨemɨ ãjme ɨmɨrã
+i?ahu?a
+ka?i je ra?ɨt ?ɨ mani?ɨp kapi?ɨwat a?uwej ku?a -upi?a japi?i i?ak i?aɨk i?a je?up pi?a tapi?it ɨ?a a?am mani?ok ?ang ɨ?ɨp je potsi?a je?ape
+
+52
+ʹorelhaʹ ʹcórregoʹ ʹafiadoʹ ʹmão de pilãoʹ
+ʹredondoʹ
+ʹmacacoʹ ʹmeu filhoʹ ʹáguaʹ ʹtronco de mandiocaʹ ʹcapivaraʹ ʹquero comerʹ (vontade) ʹbundaʹ ʹovo, testículoʹ ʹxexeuʹ caldo venenosoʹ ʹcuroʹ ʹfruta deleʹ ʹminha coxaʹ ʹpara chamar meninoʹ ʹantaʹ ʹcabaçaʹ ʹeu estou em péʹ raiz de mandiocaʹ ʹsombraʹ ʹflechaʹ ʹmeu peitoʹ ʹminha costasʹ
+
+iʹywypy /i?ɨwɨpɨ/ tewo?i /tεwↄ?i/ awat ng /awat ŋ/ tãjpe /tãipε/ wejtekyj /wεjtεkɨj/ akarãj /akarãj/
+j=j ajeje /ajεjε/ i-tãj /i-tãj/ ijoʹyk /ijↄ?ɨk/ oukaj /ↄukaj/ okuje /ↄkujε/ ajut /ajut/
+w=w i-towa /i-tↄwa/ t-uwyk /t-uwɨk/ i-tywyt /i-tɨwɨt/ awati /awatʃi/ tawozy /tawↄӡɨ/ /tawↄӡɨ/ ywapit /ɨwapit/ wyrype /wɨrɨpε/ kuwewi /kuwεwi/ ywyʹam /ɨwɨ?am/ pew /pεw/ itowa /itↄwa/ ywyt /ɨwɨt/ tewo?i /tεwↄ?i/
+
+je? ɨwɨpɨ ewo?i awatsing ãjme wekɨj akarãj
+jaje je r-ãj iro?ɨ-tsang okaj okuj ajot
+je rowa t-ɨwɨ je r-ɨwɨt awatsi tarekajaʹa jawatsi ɨwaka iwɨrip kuwewi ɨwɨ?am pew je rowa ɨwɨtu ewo?i
+
+53
+ʹminha cinturaʹ ʹminhocaʹ ʹcabelo brancoʹ ʹafiadoʹ ʹpuxarʹ ʹeu risqueiʹ
+ʹtitia, irmão do pai ʹmeu denteʹ ʹfrioʹ ʹqueimouʹ ʹcaíuʹ ʹeu vimʹ
+ʹmeu rostoʹ ʹsangueʹ ʹmeu irmão, mais novoʹ ʹmilhoʹ tracajá, tartarugaʹ tracajá, jabuti, cágado ʹcéuʹ ʹembaixoʹ ʹagulhoʹ ʹbarranco altoʹ ʹpusʹ ʹmeu rostoʹ ʹventoʹ ʹminhocaʹ
+
+w=p tewozy /tεwↄӡɨ/
+
+tepotsi
+
+l=r muluta /muluta/ okwaluk /ↄkwalup/
+
+muruta okuruk
+
+r=p kurupem /kurupεm/
+
+ɨrɨpem
+
+ǯ=r uzuwapiryt /uǯuwapirɨt/ tewyzõtutat /tεwɨӡↄtutat/ ympyzã /ɨmbɨӡã/ kuzuzu /kuӡuӡu/ muzating /muӡatʃiŋ/ azo /aӡↄ/ muzak /muӡak/ muza-jyt /muӡa-jɨt/
+
+ɨrɨwu tɨwɨ?ɨrõ ɨmɨrã kururu wɨratsing orowɨrapɨ wɨra-p
+
+ǯ=j yzapi?i /ɨӡapi?i/
+
+japi?i
+
+ǯ=t/ts tezyk /tεӡɨk/ tawozy /tawↄӡɨ/ tawozɨ tarapek tawozyjěmyt tuzuwi /tuӡuwi/ tewozy /tεwↄӡɨ/ taza /taǯa/
+
+jetɨk tarekaja?a jawatsi jawatsipɨta araire uruwi tepotsi tatá
+
+54
+ʹcocôʹ
+ʹcascudoʹ ʹmijarʹ
+ʹpeneiraʹ
+ʹurubuʹ ʹciúme ʹmão de pilãoʹ ʹsapoʹ ʹgarçaʹ ʹnósʹ ʹgaviãoʹ ʹpassarinhoʹ
+ʹxexeuʹ
+ʹbatataʹ ʹtracajá, tartarugaʹ tracajá ʹjabutiʹ ʹcágadoʹ ʹsurubim ʹcocôʹ ʹfogoʹ
+
+55
+3.2 RESULTADOS DA COMPARAÇÃO FONOLÓGICA DA LÍNGUA AWETÍ COM A LÍNGUA KAMAIURÁ
+No léxico do Awetí distinguem-se pelo menos dois grandes conjuntos de palavras segundo sua semelhança fonológica com as palavras e morfemas de outras línguas: (a) palavras e morfemas identificáveis com os de línguas do tronco lingüístico Tupí e (b) palavras e morfemas não identificados com os de outras línguas desse tronco. No primeiro caso distinguem-se, ainda, palavras comuns a línguas da família Tupí-Guaraní e palavras estranhas a essas, mas identificáveis com as de línguas de outras famílias do tronco Tupi (por exemplo, A top ʹverʹ = Tuparí (da família Tuparí) tup ʹverʹ, embora presente também na família Tupi-Guaraní, mas com o significado ligeiramente modificado, como no Tupinambá sub ʹvisitarʹ (ʹverʹ nesta língua é -epjak, forma que corresponde às das demais línguas de sua família, muitas das quais, entretanto, também têm uma forma cognata do Arikém top e do Tuparí tup, como o Guaraɨo da Bolívia su e o Guaraní do Paraguai -hu, ambos com o significado de ʹachar, encontrarʹ, enquanto que ʹverʹ é no primeiro -epia e no segundo -ecá ).
+Nesta dissertação organizamos sistematicamente as correspondências fonológicas entre as formas do Awetí e as do Kamaiurá. Já os elementos lexicais e gramaticais identificáveis com outras línguas da família Tupí-Guaraní e com línguas de outras famílias do tronco Tupi, assim como os não identificáveis com os do tronco Tupi, deverão ser objeto de outros estudos comparativos, que pretendemos realizar proximamente e que certamente contribuirão para um melhor conhecimento do passado do povo Awetí. Aqui observamos apenas que é considerável a quantidade de elementos lexicais não Tupí em vários setores do vocabulário Awetí, inclusive naqueles considerados “vocabulário básico”, isto é, menos sujeitos a ser emprestados de outras línguas. Num exame preliminar já foi identificada mais de uma centena de palavras estranhas às línguas do tronco Tupí, quase a metade delas constituída por nomes de animais amazônicos, mas a
+
+56
+outra metade incluindo nomes de partes do corpo humano, alguns termos de parentesco familiar, nomes de objetos culturais e nomes de vegetais, palavras qualificativas, verbos intransitivos e transitivos, partículas adverbiais e até pronomes pessoais.
+3.2.1. Correspondências fonológicas nos morfemas que o Awetí (A) tem em comum com o Kamaiurá (K)
+3.2.1.1. Consoantes oclusivas orais:
+A p = K p (em início, meio e fim de palavra): A pɨ = K pɨ ʹpéʹ, A pit = K pit ʹpeleʹ, A pew = K pew ʹpusʹ, A potɨt = K potɨt ʹflorʹ, A pozɨ?a = K potsi?a ʹpeitoʹ, A pepo = K pepo ʹasaʹ, A tapi?it = K tapi?it ʹantaʹ, A ʹape = K ?ape ʹcostasʹ, A ?ɨwɨpɨ = K ʹɨwɨpɨ ʹcinturaʹ, A ?ap = K ?ap ʹcabeloʹ, A kɨp = M kɨp ʹpiolhoʹ, A tup = M tup ʹpaiʹ, A op = M h-op ʹfolhaʹ, A maniʹɨp = M mani?ɨp çaule de mandiocaʹ.
+A p = K h: A ipuku = K ihuku ʹé compridoʹ, A iʹapu?a = K iʹahu?a ʹé redondoʹ A t = K t (em início, meio e fim de palavra): A tɨpɨ = K tɨpɨ ʹfundoʹ, tup = tup ʹpaiʹ, A tutɨt = K tutɨt ʹtio irmão da mãeʹ, A -atɨup = K -atɨup ʹsogro do homemʹ, A tapi?it = K tapi?it ʹantaʹ, A ta?wat = K jawat ʹonçaʹ, A a?at = K a?at ʹeu caíʹ. A t = K j (em início e meio de palavra): A ta?wat = K jawat ʹonçaʹ, A ti?ingu = K je?eng ʹfalaʹ, A tezɨk = K jetɨk ʹbatata doceʹ, A tukɨt = K jukɨt ʹsalʹ, A tatɨ = jaɨ ʹluaʹ, A tetu = K teju ʹlagartoʹ, A tatik = K tajɨk ʹveiaʹ, A tatape = K jape ʹsapéʹ, A tazazak = K jararak ʹjararacaʹ, A itɨm = K ijɨm ʹé lisoʹ, A tan = K jan ʹcorrerʹʹ. A t = K 0: A tu?u = K -u?u ‘morder’, A tuzuwi = K uruwi ʹsurubimʹ, A tatukap = K jaukap ʹporto para banhoʹ, A tatɨ = K jaɨ ʹluaʹ, A atepjak = K aetsak ʹeu vejoʹ, A motang = K moang ʹremédioʹ, A kɨte = K kɨe ʹfacaʹ, A neta = K hea ʹolho deleʹ, A awatem = K awaem ʹacheiʹ, A tatape = K jape ʹsapéʹ, A i?atɨk = K i?aɨk ʹé curtoʹ, A tewo?i = K ewo?i ʹminhocaʹ, A atem = K aem ʹeu saíʹ. A t = K h: A oto = K oho ʹele foiʹ, A tam = K ham ʹcordaʹ, A ini-tam: K tupa-ham ʹcorda de redeʹ. A t = K k: A ote-ju = K oket ʹele dormeʹ, A otentap = okenap ʹporta da casaʹ, A ɨti?ɨt = K -ɨke?ɨt ʹirmão mais velho do h. A t = K ts: A teʹẽ= K tse? ʹdoceʹ. A 0 = K t: A oɨkɨt = K otɨkɨt ʹele pingaʹ.
+
+57
+A tx = K n: A pɨtxõ = K pɨnõ ʹpeidoʹ. A k = K k: A kang = K kang ʹossoʹ, A ku?á = K ku?a ʹnádegasʹ, A kɨp = K kɨp ʹpiolhoʹ, A kɨte = K kɨe ʹfacaʹ, A kang = K kang ʹossoʹ, A kuzuzu = K kururu ʹsapoʹ, A tukɨt = K jukɨt ʹsalʹ, A akɨkɨ = K akɨkɨ ʹmacaco aranhaʹ, A mokõj = K mokõj ʹdoisʹ, A tatukap = K jaukap ʹporto de banhoʹ, A mani?ok = K mani?ok ʹmandiocaʹ, A tezɨk = K jetɨk ʹbatata-doceʹ, A tazazak = K jararak ʹjararacaʹ. A k = K j: A kɨ = K jɨ ʹmachadoʹ, A kɨwa = K jɨwa ʹbraçoʹ. A k = K 0: A kurupem = K ɨrɨpem ʹpeneiraʹ, A kɨtã = K itã ʹconchaʹ, A tuwɨk = K tɨwɨ ʹsangueʹ A kw = K kw: A kwat = K kwat ʹburaco, úteroʹ, A akwahap = K akwahap ʹeu seiʹ, A takwára = K takwar ʹflauta de taquaraʹ (possível empréstimo de K para A).
+3.2.1.2. Consoantes contínuas e flaps
+A z = K r: A kuzuzu = K kururu ʹsapoʹ, A muzating = K wɨratsing ʹgarçaʹ, A azo = K ore/oro-; nós excl.ʹ, A tuzuwi = K uruwi ʹsurubimʹ, A ɨmbɨzã = K ɨmɨrã ʹmão de pilãoʹ, A tewɨzõ-tutat = K tɨwɨ?ɨrõ ʹ.......ʹ
+A z = K t /t ~ ts/: A tezɨk = K jetɨk ʹbatata doceʹ, A taza = K tata ʹfogoʹ, A tewozɨ = K tepotsi ʹcocô, fezesʹ, A tawozɨ = K jawatsi (Tup. jabotí) ʹjabutiʹ
+A z = K j: A ɨzapi?i = K japi?i ʹxexéuʹ A l = K r: A pilang = K pirang ʹvermelhoʹ, A kwaluk = K kuruk ʹmijarʹ, A muluta = K muruta ʹcascudoʹ, A ilop = K irop ʹé amargoʹ
+3.2.1.3. Consoantes oclusivas nasais e pré-nasalizadas:
+A m = K m: A mɨt = K mɨt ʹmutumʹ, A mani?ýp = K mani?ýp ʹrama de mandiocaʹ, A mokõj = K mokõj ʹdoisʹ, A maj = K manõ ʹmorrer, A mempɨt - K memɨt ʹfilho (em relação à mãe)ʹ, A aman = K aman ʹchuvaʹ, A amim = K amim ʹeu escondiʹ, A tamajua = K tamanua ʹtamanduáʹ, A a?am = K a?am ʹestou em péʹ, A kam = K kam ʹseioʹ, A atem = K aem ʹeu saíʹ, A itɨm = K ijɨm ʹestá lisoʹ.
+A mb = K m: A tembe = K teme ʹlábioʹ, A membɨt = K memɨt ʹfilho em relação à mãeʹ, tɨembɨ = K tɨemɨ ʹcórregoʹ, A ɨmbɨzã = K ɨmɨrã ʹmão de pilãoʹ.
+
+58
+A n = K n: A ini = K ini ʹredeʹ, A panem = K panem ʹde má sorteʹ, A mani?ók = K mani?ok ʹmandiocaʹ, A kumana = K kumana ʹfeijão, favaʹ; A aman = K aman ʹchuvaʹ, A tan = K jan ʹcorrerʹ.
+A ng = K ng: A ?ang = K ʹang ʹsombraʹ, A motang = K moang ʹremédioʹ, A tazating = K tatatsing ʹfumaçaʹ, A ting = K tsing ʹbrancoʹ, A ti?íngu = K je?eng ʹfalaʹ, A tung = K tung ʹbicho-de-péʹ, A kang = K kang ʹossoʹ, A ipilang = K ipirang ʹé vermelhoʹ.
+3.2.1.4. Consoantes glotais
+A ? = K ?: A ?ɨ = K ?ɨ ʹáguaʹ, A tewo?i = K ewo?i ʹminhocaʹ, A ?a = K ?a ʹfrutaʹ, A ?ap = K ?ap ʹcabeloʹ, A ?ape = K ?ape ʹcostasʹ, A ku?a = K ku?a ʹnádegasʹ, A ɨ?a = K ɨ?a ʹcabaçaʹ, A ka?ijɨt = K ka?i ʹmacacoʹ, A mani?ok = K mani?ok ʹraiz de mandiocaʹ, A mani?ɨp = K mani?ɨp ʹcaule de mandiocaʹ, A tewo?i = K ewo?i ʹminhocaʹ, A ipi? = K pi? ʹmosquitoʹ, A tapi?it = K tapi?it ʹantaʹ, A a?at = K a?at ʹeu caíʹ.
+A h = K...
+3.2.1.5. Semiconsoantes
+A w = K w: A awati = K awatsi ʹmilhoʹ, A tawozɨ = K jawatsi ʹjabutiʹ, A ɨwɨ?am = K ɨwɨ?am ʹbarranco altoʹ, A ɨwɨt = K ɨwɨtu ʹventoʹ, A i towa = je rowa ʹmeu rostoʹ, A tewo?i = K ewo?i ʹminhocaʹ, A pew = K pew ʹpusʹ, A ɨwit = K ɨwit ʹembiraʹ.
+A w = K p: A tewozɨ = K tepotsi ʹcocôʹ. A j = K j: A ajut = K ajut ʹeu vimʹ. A oukaj = K okaj ʹqueimouʹ. A okuj e = K okuj ʹqueimouʹ, A i tãj = K je rãj ʹmeu denteʹ, A akarãj = K akarãj ʹeu risqueiʹ, A tãjpe = K ãjme ʹafiadoʹ. A j = K n: A tamajua = K tamanuã ʹtamanduáʹ, A maj = K manõ ʹmorrerʹ.
+3.2.1.6. Vogais orais
+a) Vogais orais anteriores
+A i = K i: A tapi?it = K tapi?it ʹantaʹ,A awati = K awatsi ʹmilhoʹ, A ɨwit = K ɨwit ʹembiraʹ.
+A i = K e: A ti?ingu = K je?eng ʹfalaʹ. A e = K e: A tembe = K teme ʹlábioʹ, A tetu = K teju ʹlagartoʹ, A topetɨj = K topeɨj ʹsonoʹ, A kɨte = K kɨe ʹfacaʹ, A pepo = K pepo ʹasaʹ, A pere = K pere ʹfígadoʹ.
+
+59
+b) Vogais orais centrais
+A ɨ = K ɨ: A ʹɨ = K ʹɨ ʹáguaʹ, A ɨ?a = K ɨ?a ʹcabaçaʹ, A tuwɨk = K tɨwɨ ʹsangueʹ, A ʹɨwɨpɨ = K ʹɨwɨpɨ ʹcinturaʹ, A topetɨj = K topeɨj ʹsonoʹ, A tutɨt = K tutɨt ʹtio irmão da mãeʹ, A tɨm = K jɨm ʹlisoʹ, A kɨte = K kɨe ʹfacaʹ, A tatɨ = K jaɨ ʹluaʹ, A ʹɨwɨpɨ = K ʹɨwɨpɨ ʹcinturaʹ, A tɨpɨ = K tɨpɨ ʹfundo (da água)ʹ, A ɨwit = K ɨwit ʹembiraʹ.
+A ɨ = K i: A kɨtã = K itã ʹconchaʹ. A a = K a: A i?a = K i?a ʹfruta deleʹ, A aʹam = K a?am ʹestou em péʹ, A taza = K tata ʹfogoʹʹ, A tatik = K tajɨk ʹveiaʹ, A tamajua = K tamanua ʹtamanduáʹ, A tatɨ = K jaɨ ʹluaʹ.
+c) Vogais orais posteriores
+A u = K u: A tup = K tup ʹpaiʹ, A tetu = K teju ʹcalangoʹ, A tutɨt = K tutɨt ʹtio irmão da mãeʹ, A tamajua = K tamanua ʹtamanduáʹ, A tuzuwi = K uruwi ʹsurubimʹ.
+A u = K ɨ: A tuwɨk = K tɨwɨ ʹsangueʹ, A kurupem = K ɨrɨpem ʹpeneiraʹ. A o = K o: A ko = K ko ʹroçaʹ, A topetɨj = K topeɨj ʹsonoʹ, A potɨt = K potɨt ʹflorʹ, A motang = K moang ʹremédioʹ, A pepo = K pepo ʹasaʹ, A ilop = K irop ʹé amargoʹ.
+3.2.1.7. Vogais nasais a) Vogais nasais anteriores
+A i = K i: A pi = K pi ʹferrar (abelha)ʹ, A e = K, e: A ta?e = K já?e ʹpanelaʹ
+b) Vogais nasais centrais
+A ɨ = K... A ã = K ã: A kɨtã = K itã, A -ãj = K -ãj ʹdenteʹ, A akarãj = K akarãj ʹeu risqueiʹ.
+c) Vogais nasais posteriores
+A u = K u: A ipi?u = K pi?u ʹmosquitoʹ, A mɨtu = K mɨtu ʹmutumʹ. A u = K õ: A maju = K manõ ʹmorrerʹ. A õ = K õ: A pɨtxõ = J pɨnõ ʹpeidoʹ, A mokõj = K mokõj ʹdoisʹ.
+
+60
+CONSIDERAÇÕES FINAIS: O QUE AS CORRESPONDÊNCIAS FONOLÓGICAS DIZEM DA NATUREZA DA RELAÇÃO GENÉTICA DO AWETÍ COM O KAMAIURÁ E COM AS DEMAIS LÍNGUAS DA FAMÍLIA TUPÍ-GUARANÍ
+As correspondências fonológicas ilustradas no capítulo anterior estão a indicar que, ainda que parte das formas do Awetí seja compatível com uma derivação a partir das formas reconstruíveis para o Proto-Tupí-Guaraní paralelamente às formas correspondentes da língua Kamaiurá, muitas outras formas do Awetí não são deriváveis da reconstrução fonológica do Proto-TupíGuaraní, mas se explicam como derivadas diretamente das formas fonológicas reconstruíveis para o anterior Proto-Tupí.
+Essa situação está a indicar que o Awetí, embora compartilhando muitas características lexicais e fonológicas com a família Tupí-Guaraní, a que pertence o Kamaɨurá, não é um membro dessa família, mas sim uma língua (hoje) avulsa, ou, em outras palavras, uma família unilíngüe, ao lado das demais famílias do tronco lingüístico Tupí. Em trabalho de Rodrigues, Cabral e Warý Kamaiurá a ser publicado proximamente serão apresentados em detalhe os dados que corroboram esta conclusão.
+Com os resultados aqui apresentados acreditamos termos avançado um importante passo no caminho que nos levará a um maior conhecimento da história da língua Awetí e, consequentemente, de aspectos da pré-história lingüística de seus falantes, esclarecendo sobre o grau de parentesco do protoAwetí com o Proto-Tupí-Guaraní.
+Por termos apresentado neste estudo gama significativa de cognatos Awetí e Tupí-Guaraní, com a língua Kamaiurá representando esta última família, e por termos demonstrado correspondências regulares através dos dados comparados, contribuímos para reforçar a hipótese de Rodrigues de que o ancestral da língua Awetí era geneticamente mais próximo do Proto-TupíGuaraní do que das demais línguas do tronco Tupí.
+
+61
+REFERÊNCIAS
+BENVENISTE, Émile. Problemas de linguística geral I. Tradução de Maria da Glória Novak e Luiza Neri; Rev. do Prof. Isaac Salum. São Paulo: Ed. Nacional, 1976.
+BORELLA, C. C. Aspectos mofossintáticos da língua Awetí (Tupí). Dissertação (Mestrado em Linguística) – Universidade Estadual de Campinas, 2000.
+CABRAL, Ana Suelly A. Câmara. Prefixos relacionais no Asuriní do Tocantins. Moara, Revista dos Cursos de Pós-Graduação em Letras, n. 8, p. 7-24, 1997. Belém, UFPA.
+______. O desenvolvimento da marca de objeto de 2a. pessoa plural em Tupí-Guaraní. In: CABRAL, Ana Suelly A. C.; RODRIGUES, Aryon D. (orgs.). Estudos sobre Línguas Indígenas I. Belém: UFPA, 2001a. p. 117-114.
+______. Prefixos relacionais na família Tupí-Guaraní. In: SOARES, Marília E. (orgs). Boletim da ABRALIN, n. 25, p. 213-262, 2001b. Fortaleza: Imprensa Universitária da UFC.
+______; RODRIGUES, Aryon DallʹIgna. O desenvolvimento do gerúndio e do subjuntivo em Tupí-Guaraní. In: Aryon DallʹIgna Rodrigues; Ana Suelly Arruda Câmara Cabral (org.). Novos estudos sobre Línguas Indígenas. Brasília: Editora da UnB, 2005. V. 1. p. 47-58.
+______. Lʹépistémique et l’aléthique dans la famille Tupí-Guaraní. In: Zlatka Guentchéva e Jon Landaburu (orgs.). Lʹénonciatio médiatisée II. Le traitement épistémologique de lʹinformation: illustration amérindiennes et caucasiennes. Louvan-Paris: Éditions Peeters, 2007. V. 2. p. 267-292.
+______; SOLANO, Eliete de Jesus B. Mais fundamentos para a hipótese de proximidade genética do Araweté com línguas do sub-ramo V da Família Tupí-Guaraní.Trabalho apresentado no XXI Encontro Nacional da ANPOLL - GT- línguas indígenas, 03-06 de julho, São Paulo, 2006.
+______; SOLANO, E. J. B. Um estudo preliminar sobre a negação em Araweté. In: Maria do Socorro Simões, (org.). Encontro IFNOPAP: Ensino, pesquisa e extensão: reflexões e práticas científico-acadêmicas. Belém: Universitária, UFPA, 2007.
+CAMPBELL, Lyle. Historical linguistics: an introduction. Edinburgh: Edinburgh University Press, 1998.
+COMRIE, B. Language universals and linguistic typology: syntax and morphology. 1981.
+______. Aspect: An Introduction to the Study of Verbal Aspect and Related Problems. Cambridge, Cambridge University Press, 1976.
+CORRÊA DA SILVA, B. C. Mais fundamentos para a hipótese de Rodrigues (1984/1985) de um Proto-Awetí-Tupí-Guaraní. In: RODRIGUES, Aryon; CABRAL, Ana Suelly (orgs.). Línguas e Culturas Tupí, 1: 219-240. Campinas: Curt Nimuendajú, 2007.
+______. Etnolinguística e etno-história Tupí: desfragmentando o olhar. Revista de Estudos da Linguagem, v. 18, n. 1, p. 61-86, 2010.
+_____. Mawé/Awetí/Tupí-Guaraní: relações lingüísticas e implicações históricas. Tese (Doutorado em Linguística), Universidade de Brasília, 2011.
+
+62
+COSERIU, Eugenio. Sobre las categorias verbales (“Partes de la oracion”). Revista de Linguística Teórica y Aplicada. vol.10, 1972.
+DIETRICH, W. Categorias lexicais nas línguas Tupí-Guaraní (visão comparativa). In: QUEIXALOS, F. (org.). Des noms et des verbes en tupi-guarani. Munique: Lincom Europa, 2001. p. 20-37.
+DIXON, R.M.W. Ergativity. Cambridge: Cambridge University Press, 1994. (Cambridge Studies in Linguistics, 69)
+DRUDE, S. Fala masculina e feminina em Awetí. In: Cabral, Ana Suelly A. C., e Aryon D. Rodrigues (eds). Línguas Indígenas Brasileiras: Fonologia, Gramática e História (Atas do I Encontro Internacional do Grupo de Trabalho sobre Línguas Indígenas da ANPOLL). Belém, Pará: EDUFPA, 1, p. 177-190, 2002.
+______. On the position of the Awetí language in the Tupí family. In: Wolf Dietrich e Haralambos Symeonidis (eds), Guaraní y ʹMawetí-Tupí-Guaraníʹ: estudios históricosy descriptivos sobre una familia linguística de América del Sur. Münster etc.: Lit Verlag, 2006. p. 11-45.
+______. Awetí in relation with Kamaiurá: the two Tupian languages of the Upper Xingu. In: Bruna Franchetto (ed.). Alto Xingu uma sociedade multilíngüe. Rio de Janeiro: Museu Nacional (UFRJ), 2011.
+EMMERICH, Charlotte; MONSERRAT, Ruth Maria F. Sobre a fonologia da língua Awetí (Tupi). Boletim do Museu Nacional, n. 25 (N.S. Antropologia), 1972.
+EVERETT, D. L.; SEKI, L. Deletion, reduplication and CV skeleta in Kamaiura. In: Notes on Linguistics, n. 33, p. 48-52, 1986.
+FOLEY, William A.; VAN VALIN Jr, Robert D. Functional syntax and universal grammar. Cambridge University Press, Cambridge, 1984.
+HARRISON, Carl H. A forma linguística de uma teoria folclórica dos Kamaiurás. Arquivos de Anat. e Antrop. n. 2, p. 83-98, 1977. Rio de Janeiro: Inst. Antrop. Prof. S. Marques.
+HOCK, Hans henrich. Principles of historical linguistics, 2.ed. Berlin/New York: Mouton de Gruyter, 1991.
+JUNQUEIRA, Carmen. Os Kamaiurá e o Parque Nacional do Xingu. 111f. Tese (Doutorado), Universidade Estadual de Campinas, 1967.
+______. Os índios de Ipavu. São Paulo: Ática, 1975.111 p.
+______. Sexo e desigualdade entre os Kamaiurá e os Cinta Larga. São Paulo: Olho d’Água; Capes, 2002.. 112 p.
+______. Disputa política na sociedade Kamaiurá. Revista Brasileira de Linguística Antropológica, v. 1, n. 2, p. 215-233, 2009.
+KAMAIURÁ, Wary; KAMAIURÁ, Aisananin Páltu. Cultura Kamaiurá. Cuiabá: EDUFMT, 2007.182 p.
+KAMAIURÁ, Kanawayuri, et al. Kamajura jemoʹetap (a palavra do Kamaiurá). São Paulo: ISA; Brasília: MEC, 1998.92 p.
+
+63
+KAMAIURÁ, Aisanain Páltu. Uma análise lingüístico-antropológica de exemplares de dois gêneros discursivos Kamaiurá. Dissertação (Mestrado em Lingüística) – Universidade de Brasília, 2010.
+LEITE, Y. F. Para uma tipologia ativa do Tapirapé: os clíticos referenciais de pessoa Cadernos de Estudos Linguísticos, v. 18, p. 37-56, 1990. Campinas, SP, UNICAMP.
+______. As construções causativas em Tapirapé. Revista Latinoamericana de Estudios Etnolinguísticos, Lima, Peru, v. 8, p. 73-86, 1994.
+MONSERRAT, Ruth Maria Fonini; Irmãzinhas de Jesus. Língua Asuriní do Xingu: Observações gramaticais. Altamira, PA: Conselho Indigenista Missionário, 2000.
+MONSERRAT, Ruth Maria Fonini. A negação em Awetí. 1975. (ms).
+______. Prefixos pessoais em Awetí. Lingüística III, Rio de Janeiro: Museu Nacional, 1976.
+______. A nasalização em Awetí. 29ª Reunião Anual da SBPC, São Paulo, 1977. (ms).
+______. Características lexicais e morfológicas da fala masculina e femina na língua Awetí. 1998 (ms)
+______. Vocabulário e frases Awetí-Português (com proposta ortográfica). In: MONSERRAT, R.; PEREIRA DA SILVA, E. (orgs.) Vocabulário e frases em JamandíPortuguês (com proposta ortográfica) e Vocabulário e frases em Awetí-Português (com proposta ortográfica), v. 1, p. 29-45, 2001. Caxias do Sul: Universidade de Caxias do Sul.
+______. Sobre a fonologia da língua Awetí (tupí). In: MONSERRAT, R. (org.). Coletânea de trabalhos sobre línguas indígenas e outras questões de política linguística e educação indígena, v. 1, Caxias do Sul: Universidade de Caxias do Sul, 2002a.
+______. Línguas Tupí e ergatividade. In: CABRAL, Ana Suelly; RODRIGUES, Aryon (orgs.), Línguas indígenas brasileiras: fonologia, gramática e história. Atas do I Encontro Internacional do Grupo de Trabalho sobre Línguas Indígenas da ANPOLL, 1, p. 191-202, Belém: Universidade Federal do Pará, 2002b.
+______. Vocabulário Português-Awetí. 2007a. (ms).
+______. Explorando o grau de parentesco genético entre o Awetí e o Proto-Tupí-Guaraní: evidências morfossintáticas. Caderno de Resumos, V Congresso Internacional da ABRALIN, Belo Horizonte, 2007b. p. 439-440.
+RODRIGUES, Aryon D. A categoria de voz em Tupi. Logos, n. 6, p.50-53, 1947.
+______. A composição em Tupi. Separata de Logos, ano VI, n. 14, 1951. Curitiba.
+______. Análise morfológica de um texto Tupí. Logos, v. VII, n. 15, p. 56-77, 1952. Curitiba.
+______. Morfologia do verbo tupi. Letras, n. 1, p. 121-152, 1953. Curitiba.
+______. Classificação do tronco linguístico tupi. Revista de Antropologia, n. 12, p. 99-104, 1964. São Paulo.
+______. Estrutura do Tupinambá. 1981. (ms).
+______. Evidencia Tupi-Guarani para *pw>kw. Estudos Linguisticos, n.7, p.1-9, 1983.
+
+64
+______. Relações internas na família linguística Tupí-Guaraní. Revista de Antropologia, n. 27/28, p. 33-53, 1985. São Paulo.
+______. Línguas brasileiras: para o conhecimento das línguas indígenas. São Paulo: Loyola, 1986.
+______. Argumento e predicado em Tupinambá. Boletim da Associação Brasileira de Linguística, n. 19, p. 6-18, 1996. Maceió.
+______. Casos de gramaticalização em línguas Tupí-Guaraní. Trabalho apresentado durante a 20a. Sessão do Seminário Permanente de Línguas Indígenas da UFPA, Laboratório da Linguagem, UFPA, 1998a.
+______. Alguns casos de regramaticalização em línguas da família Tupí-Guaraní. Comunicação feita no Seminário Permanente de Línguas Indígenas, UFPA, Belém, 1998b.
+______. Caso em Tupí-Guaraní. Trabalho apresentado no XIII Encontro Nacional da ANPOLL - GT- línguas indígenas, 10-12 de junho, Campinas, 1998c.
+______. Tupí. In DIXON, R. M. W., AIKHENVALD, Alexandra Y. (orgs.). The Amazonian Languages. Cambridge: Cambridge University Press, 1999. p. 107-124.
+______. Caso em Tupí-Guaraní, particularmente em Tupinambá. In: XIII Congresso da ANPOLL, 2000.
+______. Alguns problemas em torno da categoria gramatical verbo em Tupí-Guaraní. In CABRAL, Ana Suelly A. C.; RODRIGUES, Aryon D. (orgs.). Estudos sobre línguas indígenas I. Belém: Gráfica da UFPA. 2001b. p. 87-100.
+______. As vogais orais do Proto-Tupí. In: RODRIGUES, Aryon DallʹIgna; CABRAL, Ana Suelly Arruda Câmara. (org.). Novos estudos sobre línguas indígenas. Brasília: Editora Universidade de Brasilia, 2005. p. 35-46.
+______; CABRAL, Ana Suelly A. C. Revendo a classificação interna da família TupíGuaraní. In: Ana Suelly A. C. Cabral; Aryon D. Rodrigues (orgs.), Línguas indígenas brasileiras: fonologia, gramática, história. Belém: EDUFPA, 2002. V. 1. p. 327-337.
+______; CABRAL, Ana Suelly A. C. Investigando a origem e o desenvolvimento de orações dependentes nas famílias do tronco lingüístico Tupi. Revista da ABRALIN, v. 5, n. 1 e 2, p. 11-32, 2006.. Disponível em: <http://www.etnolinguistica.org/artigo:rodrigues-2006>.
+SÄLZER, Meinke. Formulário dos vocabulários padrões para o estudo comparativo em Línguas indígenas brasileiras”; Língua Kamaiurá. Datilografado.
+______. Fonologia provisória da língua Kamaiurá. Lingüística. 5:131-70, 1976. Brasília: SIL.
+SEKI, Lucy. Sobre as particulas da lingua Kamaiura. In: CENSABELLA, M.; BARROS, J. P. Viegas. (org.). Actas de las III Jornadas de Linguistica Aborigen, v. 1. Buenos Aires: Universidad de Buenos Aires. 1997. p. 45-72.
+______. Gramática Kamaiurá, Língua Tupí-Guaraní do Alto Xingu. Campinas: Editora da UNICAMP, 2000.
+______. Classes de palavras e categorias sintático-funcionais em Kamaiurá (Tupi-guarani). In: QUEIXALÓS, F. (org.). Des noms et des verbes en Tupi-guarani: état de la question. Munique: Lincom Europa, 2001. p. 39-66.
+
+65
+______. Causativos em Kamaiurá (Tupi-Guarani). In: FERNÁNDEZ, Zarina Estrada; GARAY, Ana V. Fernández; GONZALEZ, Alberto Álveres (orgs.). Estudios en lenguas amerindias: homenaje a Ken L. Hale. México: Editorial Unison, 2004. V. 1. p. 295-308.
+______. Réflexions sur les valeurs modales en Kamaiurá (Haut-Xingu, Brésil). In: GUENTCHÉVA, Zlatka; LANDABURU, Jon (org.). LʹÉnonciation médiatisée II: le traitement épistémologique de lʹinformation: illustrations amérindiennes et caucasiennes. Louvain, Paris: Éditions Peeters, 2007. V. I. p. 241-266.
+______. Kamaiurá (Tupi-Guarani) as active-stative language. In: Doris L. Payne. (org.). Amazonian Linguistics: Studies in Lowland South American Languages. Austin: University of Texas Press, 1990, p. 367-391.
+______. Marcadores de pessoa no verbo Kamaiurá. Cadernos de Estudos Lingüísticos v. 3, p. 22-40, 1982. Campinas, SP, UNICAMP.
+______. O Kamaiurá - língua de estrutura ativa. Língua e Literatura (USP), São Paulo, v. 5, p. 217-227, 1976.
+SILVA, Márcio F. Aspectos da fonologia e morfologia Kamaiurá. 1978. Mimeografado. (Arquivado no Museu Nacional, UFRJ).
+______. Aspectos diacrônicos do Kamaiurá e do Wayampí. (Trabalho final do curso “Tópicos em Linguística Antropológica” ministrado pelo Dr. Aryon D. Rodrigues. Dep. de Linguística, IEL, UNICAMP). 1979. (Datilografado)
+______. A fonologia segmental Kamaiurá. Dissertação (Mestrado em Linguística) – Universidade Estadual de Campinas, 1981.
+_____. Marcadores de pessoa no verbo Kamaiura. Cadernos de Estudos Linguísticos, v. 3, p. 22-40, 1982. Campinas, SP, UNICAMP.
+______. Kamaiurá (Tupi-Guarani) as an active-stative language. In: PAYNE, Doris L. (org.). Amazonian Linguistics Studies In Lowland South American Languages. Austin: University of Texas Press, 1990. p. 367-391.
+______. Gramática Kamaiurá – Língua Tupí-Guaraní do Alto Xingu. Campinas: Editora da UNICAMP, 2000.
+SILVA, Tabita Fernandes. História da língua tenetehára: contribuição aos estudos históricocomparativos sobre a diversificação da família linguística Tupí-Guaraní do tronco Tupí. Tese (Doutorado) – Universidade Federal do Pará, 2010.
+SOLANO, Eliete de J. B. A posição do Araweté na família Tupi-Guarani: contribuições linguísticas e históricas. 113 f. Dissertação (Mestrado em Linguística) – Curso de Pósgraduação em Letras, Universidade Federal do Pará, 2004.
+______. Análise comparativa de aspectos fonológicos das línguas Asuriní do Xingu, Araweté e Wayampí. In: SIMÕES, Maria do Socorro (org.). Revisitando o Marajó: um arquipélago sob a ótica da ciência, educação e biodiversidade. Belém: NUMA/UFPA/IFNOPAP, 2005. p. 11-27.
+SHOPEN, Timothy (ed.). Language typology and syntactic description – complex constructions. Cambridge University Press. Cambridge. 1985. 3 vol.
+
+66
+TESNIERE, Lucien. Éléments de syntaxe structurale. Paris. Éditions Klincksieck, 1959.
+THOMASON, S. G. Language contact; an introduction. Edinburgh: Edinburgh University Press, 2001.
+THOMASON, S.G.; KAUFMAN, T. Language contact, creolization, and genetic linguistics. Berkeley: University of California Press, 1988.
+VIEIRA, Márcia Maria Damaso. O problema da não-configuracionalidade na língua Asurini do Trocará: um fenômeno derivado da projeção dos argumentos verbais. Tese (Doutorado em Linguística) – Universidade Estadual de Campinas, 1993.
+______. A negação sentencial em línguas da família Tupi-Guarani. In: Ana Sueli Cabral; Aryon Rodrigues (orgs.). Línguas e culturas Tupí. Campinas, SP: Editora Curt Nimuendajú, v. 1, p. 1-20, 2007.
+
+67
+ANEXOS A
+Alunos Kamaiurá, Escola Leonardo Villas Bôas. Foto: Amatiwana Matipu (2010).
+Escola Leonardo Villas Bôas. Foto: Vilma José Sabino (2011).
+
+68
+Aldeia Kamaiurá (Ypawu). Foto: Wary Kamaiurá. Aldeia Awetí. Foto: Wary Kamaiurá.
+
+69
+Pirakuma Kamaiurá. Foto: Kanutari Kamaiurá (2011).
+
+70
+Kumatsi Akalu Kamaiurá Awetí. Foto: Warɨ Kamaiurá (2007). Mataukula Awetí. Foto: Wary Kamaiurá (2011).
+
+71 ANEXO B — MAPA DO PARQUE INDÍGENA DO XINGU – MT
+Fonte: Site do Instituto Socioambiental (ISA). Disponível em: http://pib.socioambiental.org/pt/povo/xingu/1539.
+
+

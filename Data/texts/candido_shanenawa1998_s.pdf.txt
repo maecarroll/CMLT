@@ -1,0 +1,4002 @@
+GLÁUCIA VIEIRA CÂNDIDO
+ASPECTOS FONOLÓGICOS DA LÍNGUA SHANENAWÁ (PANO)
+UNICAMP 1998
+
+1 GLÁUCIA VIEIRA CÂNDIDO
+ASPECTOS FONOLÓGICOS DA LÍNGUA SHANENAWÁ (PANO)
+Dissertação apresentada ao Curso de Lingüística do Instituto de Estudos da Linguagem da Universidade Estadual de Campinas como requisito parcial para obtenção do título de Mestre em Lingüística. Orientador: Prof. Dr. Angel H. Corbera Mori
+Campinas 1998
+
+2
+BANCA EXAMINADORA _____________________________________________________________________ Prof. Dr. Angel Humberto Corbera Mori - Orientador _____________________________________________________________________ Prof.a. Dra. Lucy Seki _____________________________________________________________________ Prof.a. Dra. Maria Bernadete Marques Abaurre _____________________________________________________________________ Prof.a Dra. Maria Suelí de Aguiar- Suplente
+Campinas/SP, ........ de .......................................... 1998.
+
+3 Ao povo Shanenawá.
+
+4
+AGRADECIMENTOS
+- A todo o povo Shanenawá, pela calorosa acolhida em seu meio, e em especial ao Sr. Militão e à Senhora Iraci, pela dedicação e presteza na informação dos dados.
+- Ao Prof. Dr. Angel H. Corbera Mori por ter dirigido seus conhecimentos para a orientação desta dissertação, pela paciência e, sobretudo, pela amizade dispensada durante todas as etapas de nosso trabalho.
+- Às professoras Dra. Maria Bernadete Abaurre e Dra. Lucy Seki, examinadoras participantes das bancas de qualificação e defesa, que dispensaram valiosa leitura a esta dissertação; à professora Dra. Maria Suelí de Aguiar, suplente da banca de defesa.
+- Aos professores do Instituto de Estudos da Linguagem (IEL-UNICAMP), em especial aos da área de Lingüística Antropológica e Fonologia.
+- Ao CNPq, pela bolsa de estudos (processo n.º 137750/96-0) concedida durante o curso de Mestrado; ao FAEP-UNICAMP, pelo auxílio à pesquisa (trabalho de campo) através do processo PER. /FASE 42/2, Solic. n.º 1045/96.
+- À FUNAI, por conceder a entrada na área indígena Shanenawá (autorização n.º 020/CPAP/DINE/97) para realização da coleta dos dados pertinentes a esta pesquisa.
+- Ao CIMI (Conselho Indigenista Missionário), nas pessoas de Liliane, Fátima,. e Eder que me acolheram nas cidades de Rio Branco e Feijó/AC.
+- Ao Prof. Oto Araújo Vale pelo incentivo à minha afirmação profissional na área de Lingüística.
+- À Prof.a. Dra. Maria Suelí de Aguiar, por ter estimulado em mim o amor pela causa e, principalmente, pelas línguas indígenas.
+- À Prof.a. Mônica Veloso Borges, por suas apuradas leituras críticas, bastante pertinentes, e pelo incentivo de sempre.
+- Aos amigos Cristina Borella, Cilene e Frantomé que de uma forma ou outra contribuíram para a realização desta dissertação, e em especial à Carla, Joana, e Nádima por todos os momentos.
+- À minha família, que me incentivou e compreendeu as minhas ausências, e ao Renato pela espera.
+- Finalmente, a Deus, sem o qual nada disso seria possível.
+
+5
+SUMÁRIO
+1. INTRODUÇÃO ................................................................................................ 11 2. O POVO E A LÍNGUA SHANENAWÁ ........................................................... 14 2.1. Informações etnográficas ................................................................................ 15 2.2. Classificação lingüística .................................................................................. 23 2.2.1. A família lingüística Pano ............................................................................ 23 2.2.2. A língua Shanenawá..................................................................................... 31 2.3. Metodologia de pesquisa................................................................................. 33 2.3.1. Trabalho de campo....................................................................................... 33 3. DESCRIÇÃO FONÉTICA E FONÊMICA DA LÍNGUA SHANENAWÁ ........ 35 3.1. Descrição fonética dos segmentos.................................................................... 36 3.1.1. Fones consonantais ...................................................................................... 39 3.1.1.1. Distribuição dos fones consonantais .......................................................... 39 3.1.1.2. Quadro de fones consonantais ................................................................... 51 3.1.2. Fones vocálicos ............................................................................................ 51 3.1.2.1. Distribuição dos fones vocálicos ................................................................ 51 3.1.2.2. Quadro de fones vocálicos ......................................................................... 56 3.2. Análise fonêmica ............................................................................................. 57 3.2.1. Segmentos consonantais ............................................................................... 59 3.2.1.1. Contraste ................................................................................................... 59 3.2.1.2. Distribuição complementar ......................................................................... 62 3.2.1.3. Variação livre ............................................................................................. 67 3.2.1.4. Quadro de fonemas consonantais ................................................................ 70 3.2.2. Segmentos vocálicos ..................................................................................... 70 3.2.2.1. Contraste..................................................................................................... 71 3.2.2.2. Distribuição complementar .......................................................................... 72 3.2.2.3. Variação livre .............................................................................................. 74 3.2.2.4. Quadro de fonemas vocálicos ...................................................................... 76
+
+6
+4. DESCRIÇÃO FONÉTICA E FONOLÓGICA DO SHANENAWÁ À LUZ DAS TEORIAS NÃO-LINEARES .............................................................................. 77
+4.1. Notações preliminares........................................................................................ 78 4.2. A estrutura silábica ............................................................................................ 80 4.2.1. Os tipos silábicos do Shanenawá ..................................................................... 81 4.2.1.1. A constituição interna dos tipos silábicos ..................................................... 83 4.3. Os glides labial [w] e palatal [j] ......................................................................... 84 4.3.1. As seqüências wV e jV .................................................................................. 86 4.3.2. As seqüências CwV e CjV ............................................................................ 88 4.3.3. As variações livres: [w] e [B]; e [j] e [dZ ] ..................................................... 93 4.3.4. As seqüências Vw e Vj .................................................................................. 95 4.3.5. A ressilabificação ........................................................................................... 99 4.4. O acento .......................................................................................................... 103 4.4.1. O acento em palavras simples ........................................................................ 103 4.4.2.O acento em palavras compostas .................................................................... 104 4.5. Outros processos fonológicos .......................................................................... 105 4.5.1. Assimilação de consoantes nasais................................................................... 105 4.5.2. A nasalidade das vogais ................................................................................ 106 4.5.3. As vogais nasalizadas em final de palavras .................................................... 109 4.5.4. Palatalização ................................................................................................ 112 4.5.4.1. Mudança no ponto de articulação de consoantes coronais ......................... 112 5. CONCLUSÃO ................................................................................................. 115
+APÊNDICE I: Vocabulário básico Shanenawá .......................................... 118 APÊNDICE II: Mapa de distribuição populacional ................................... 131
+Mapa de hidrografia ......................................................... 132 6. REFERÊNCIAS BIBLIOGRÁFICAS .............................................................. 134 7. BIBLIOGRAFIA CONSULTADA ................................................................... 141
+
+7
+RESUMO
+Esta dissertação apresenta uma descrição fonética e fonológica da língua Shanenawá (pertencente à família Pano), que é falada por um povo localizado às margens do rio Envira, no município de Feijó, Estado do Acre, Brasil.
+O trabalho está estruturado em três partes básicas, além de dois apêndices contendo um vocabulário básico e mapas para a localização da área Shanenawá, e da bibliografia.
+A primeira parte é dedicada a informações gerais sobre o povo e a língua Shanenawá e a uma discussão sobre a classificação das línguas da família Pano. Inclui-se ainda nesta parte, a metodologia usada no trabalho de campo para a coleta dos dados utilizados nessa dissertação.
+A segunda parte trata da descrição fonética dos sons da língua e da análise fonêmica desses sons, a qual foi feita segundo os aspectos de contraste, variação livre e distribuição complementar.
+A terceira parte segue tratando da fonologia da língua. Desta feita, as análises são feitas à luz de teorias mais atuais, ou seja, a partir das fonologias não-lineares ou autossegmentais. Esta parte aborda a estrutura silábica, o acento e os principais processos fonológicos como: a ocorrência dos glides labial [w] e palatal [j] em posições de Onset e Coda; a assimilação de consoantes nasais em posição de Coda; a nasalidade das vogais e a palatalização de consoantes coronais em ambientes de vogais anteriores e do glide palatal [j].
+Palavras-chave: Línguas Indígenas, Fonologia, Língua Shanenawá.
+
+8
+ABREVIAÇÕES, SIGLAS E SÍMBOLOS UTILIZADOS
+# : fronteira de palavra ( ): opcionalidade : : acento primário « : acento secundário σ: estrutura silábica * : estrutura silábica não aceitável . : fronteira silábica / / : representação fonológica [ ] : representação fonética < > : representação gráfica
+: sinal de dissociação ∅ : zero (nulo) ~ : alternância fonética ou fonológica ‘ ’ : tradução livre + : juntura de morfema => : passa a ... 1pp : 1ª pessoa plural 1ps : 1ª pessoa singular 2pp : 2ª pessoa plural 2ps : 2ª pessoa singular C: consoante CAA: Contraste em Ambientes Análogos CAI: Contraste em Ambientes Idênticos Co: Coda CO: Cavidade Oral Cont.: contínuo Cor: coronal
+
+9
+fut.: futuro interr : interrogação mod. : modo N: Núcleo nas: nasal neg. : negação O: Onset OCP: Princípio do Contorno Obrigatório PC: Ponto de Consoante PV: Ponto de Vogal pass. : passado poss.: possessivo pres. : presente pro: pronome quantif. : quantificador r : raiz (“root”) R: Rima V: vogal X: unidade de tempo
+
+10
+1. INTRODUÇÃO
+Após o contato com outros povos (colonizadores ou não), várias nações indígenas da América, especialmente do Brasil, sofreram consideráveis perdas em seus aspectos culturais, sobretudo, no que diz respeito às suas línguas.
+O fato é que desde a colonização sempre houve nas relações entre indígenas e nãoindígenas uma certa dominância dos últimos sobre os primeiros. Com isso, o uso da língua dos povos “dominantes” que poderia ser esporádico ou facultativo, acaba por se impor dentro das culturas indígenas. Contudo, a despeito desse contexto histórico, é indiscutível o direito dos povos indígenas à comunicação (seja oral ou escrita) em suas línguas maternas.
+No âmbito dessas preocupações, urge o estudo das línguas indígenas ainda não extintas, visto que em virtude dessa relação assimétrica entre as sociedades indígenas e a ocidental, as línguas indígenas tendem a desaparecer.1
+O Shanenawá (Pano), língua falada por um grupo localizado no Estado do Acre, de acordo com a terminologia de Krauss (1992), está prestes a se tornar uma “endangered language”. Em levantamento feito em 1987, Aguiar (1994a) apresenta-nos um índice preocupante de apenas 5% de falantes monolíngües em Shanenawá contra 20% de monolíngües em Português, e 75% de bilíngües dentre o povo Shanenawá. Atualmente, a situação parece mais assustadora, pois o número de monolíngües em Shanenawá diminuiu consideravelmente com a morte dos anciãos. De igual modo o bilinguismo (ShanenawáPortuguês) vem cedendo lugar ao monolingüismo em Português.
+
+11
+No intuito de contribuir com o processo de preservação da língua Shanenawá, bem como com o resgate do prestígio da mesma junto aos seus falantes, apresentamos essa dissertação, cujo objetivo é, ainda que de modo preliminar, descrever aspectos fonéticos e fonológicos dessa língua.
+O trabalho constitui-se de três partes básicas, dois apêndices e a bibliografia. A primeira parte subdivide-se em outras três nas quais apresentamos, respectivamente, um histórico do povo Shanenawá, com a localização geográfica e alguns aspectos concernentes à cultura desse povo; uma discussão sobre a classificação da família lingüística Pano, objetivando determinar a localização do Shanenawá dentro dessa família; e, por fim, a metodologia usada no trabalho de campo para a coleta do material lingüístico utilizado nesse estudo.
+A segunda parte, por sua vez, também se subdivide em duas outras partes. Na primeira apresentamos a descrição fonética dos sons da língua Shanenawá, enquanto na segunda, a análise fonêmica desses sons. Em ambas as etapas baseamo-nos em autores como Pike (1947) e Kindell (1981).
+Na terceira parte seguimos tratando de alguns processos fonológicos, contudo, nesta seção optamos por fazer as análises à luz das teorias mais atuais. Assim, o modelo teórico aplicado é o da Fonologia Autossegmental ou Não-Linear, considerando-se, principalmente, os trabalhos de Clements e Hume (1995), Goldsmith (1990), Kenstowicsz (1994), Clements e Keyser (1984), Itô (1986), dentre outros.
+1
+Em palavras de Krauss (1992): “ (...) for scientific purposes, it is most urgent to document languages before they disappear. The urgency increases with the proximity to extinction”.
+
+12
+Concluímos a dissertação apresentando dois apêndices. O Apêndice I traz um vocabulário básico da língua Shanenawá, constituído por 200 itens lexicais. Já o Apêndice II traz a ilustração de dois mapas do Estado do Acre, um de distribuição populacional e o outro de hidrografia, visando a localização da área Shanenawá.
+
+13 2.O POVO E A LÍNGUA SHANENAWÁ
+
+14
+2.1. INFORMAÇÕES ETNOGRÁFICAS
+O nome Shanenawá, etimologicamente, é composto pelo termo shane ‘espécie exótica de pássaro, de cor azul cintilante com aproximadamente 30 cm de altura’ e pelo sufixo nawá ‘povo’2. Sendo assim, os Shanenawá seriam denominados “povo pássaro”.
+Juntamente com os Kampa, Kulina e Kaxinawá, os Shanenawá constituem a população indígena que habita a região do rio Envira, que corta o Estado do Acre, no município de Feijó, localizado a mais ou menos 700 km ao Norte da capital Rio Branco. O povo Shanenawá subdivide-se em três comunidades: Aldeia Morada Nova, a mais ou menos 2 km ao norte da cidade de Feijó; Cardoso, localizada junto ao Igarapé de mesmo nome, a 20 km ao norte de Feijó; e Nova Vida, que se localiza a uns 10 km ao sul da referida cidade3.
+Sobre sua origem os Shanenawá dizem ser descendentes de um povo que no início do século habitava a região do Rio Gregório e que a literatura antropológica reconhece como Katukina. Aliás, isto tem suscitado amplas discussões por parte de etnólogos e lingüistas, haja vista que o termo “Katukina” foi usado de forma generalizada e incerta para
+2 Para se fazer referência a vários grupos que tradicionalmente viviam na zona do Alto Juruá e Alto Purús são usados substantivos ou adjetivos acrescidos dos sufixos -nawá (ou -nawa) ou -bo. Segundo trabalhos etnográficos realizados nessas zonas, tais sufixos são empregados em geral pelos próprios Pano e podem aludir tanto a uma pessoa como a um grupo de pessoas que compartilham uma característica comum (TOWNSLEY, 1994: 247-248). Por exemplo: Sharanáwa ‘povo bom’; Kashinawá ‘povo morcego’; Mastanáwa ‘povo escada’; Tashináwa ‘povo amarelo’; Shipibo ‘povo pichico - espécie de mico’; Cashibo ‘povo morcego’ (outro grupo diferente do Kashinawá). 3 Há ainda uma terceira comunidade denominada Paredão que não é considerada um subgrupo Shanenawá, por ser também constituída por índios Kashinawá.
+
+15
+referir-se a vários grupos Pano na região do Alto Juruá, mais precisamente nos rios Gregório e Tarauacá e no seringal Liberdade (Lima, 1994).
+Tastevin (1924:79 e 1925:417) apresenta duas alternativas para explicar a confusão em torno da denominação Katukina entre os Pano: a) os não-indígenas equivocadamente teriam atribuído-lhes essa denominação, confundindo-os com os Katukina, propriamente ditos; b) a adoção do referido nome teria partido dos próprios indígenas, a fim de evitar a contínua perseguição de que eram vítimas os denominados nawa. Essa perseguição é conseqüência do fato de que enquanto os chamados Katukina tinham relações amistosas com os não-indígenas eram tidos como ferozes e cruéis.
+Segundo comunicações pessoais dos Shanenawá, sua situação enquadra-se na primeira alternativa proposta por Tastevin (1925), tendo em vista que a área que ocupam no momento é oficialmente identificada como pertencente aos Katukina (Aguiar, 1993).4
+A mudança do nome Shanenawá para Katukina teria tido origem no período das “Correrias”, iniciado em 1912 e que se caracterizou pela falta de um lugar que lhes garantisse segurança em seu habitat tradicional. Assim, nos seus primeiros contatos com os “brancos”, as populações índias eram obrigadas a trabalhar como empregadas na coleta de borracha. Porém, ao término dos serviços, eram expulsas da área que habitavam, por isso, muitas vezes passavam fome, ficavam doentes e, como conseqüência, grande parte morria.
+4 Outros autores apresentam teses semelhantes. Segundo Ribeiro (1982), a zona do Alto Juruá e Alto Purus foi uma das áreas de maior população indígena que, à medida em que nasciam os núcleos civilizados, despovoaram-se em poucos anos. A “superficialidade” dos contatos entre não-índios e índios também contribuiu para o alastramento da confusão de nomes, pois os seringueiros, por não estarem interessados em distinções etnológicas ou lingüísticas, atribuíam um mesmo nome a várias tribos diferentes.
+
+16
+Por não terem espaço garantido para sua sobrevivência, os povos índios passaram a reivindicar junto às autoridades locais e federais um território que pudessem assumir como deles. Esse espaço foi “concedido” aos Shanenawá por volta de 1926, através da “doação” feita por um seringueiro da região. Na época dessa doação, as autoridades afixaram uma placa com o nome do grupo que ocuparia a área, mas, por engano, escreveram nela o nome Katukina, pertencente a outra etnia. Apesar de estarem conscientes do equívoco, os Shanenawá não puderam protestar e, por isso, até recentemente foram chamados Katukina do Envira (Aguiar, 1993).
+O primeiro Shanenawá a chegar ao novo habitat foi o Sr. Inácio Brandão, conforme relatam componentes do grupo. Segundo estimativa dos próprios indígenas, atualmente o núcleo familiar Brandão é constituído por mais ou menos 310 pessoas entre adultos e crianças, espalhadas de modo heterogêneo pelas três comunidades citadas anteriormente.
+As habitações dos Shanenawá são semelhantes às da maioria das outras etnias da região: as casas são do tipo palafitas, feitas de paxiúba e cobertas com folhas de coqueiro (jacir). O espaço divide-se em aposentos abertos que funcionam como sala de visitas e cozinha; e outros fechados, reservados aos dormitórios. Com a realização de casamentos interétnicos, a arquitetura dos “brancos” começa a surgir nas comunidades. Atualmente verificam-se, por exemplo, casas no estilo tribal, porém, cobertas por folhas de alumínio e até algumas construídas com alvenaria.
+Figura I: Habitação Shanenawá
+
+17
+A mobília, geralmente, é mínima: apenas um fogão a lenha, utensílios de cozinha (colheres, facas, panelas), além de bancos para sentar, que são fixos nas bases laterais da casa. Tradicionalmente os Shanenawá costumavam dormir em redes, mas atualmente a maioria prefere o tipo de cama usado pelos regionais não-índios.
+A organização política do povo Shanenawá considera o cacique5 a autoridade máxima, cabendo a ele resolver problemas internos e servir como representante do grupo junto à sociedade nacional como, por exemplo, em reuniões da OPIRE (Organização dos Povos Indígenas do Rio Envira), em que se discutem problemas referentes à saúde, educação e comercialização de seus produtos.
+A economia desse povo é de subsistência6, centrando-se em coleta, pesca e caça. A primeira se restringe a materiais essenciais, como a paxiúba e a palha, usadas nas construções das casas. Os Shanenawá igualmente coletam envira e tabocas para a confecção de cestos e artesanatos, tais como arcos e flechas, que eventualmente comercializam. A caça, por sua vez, está praticamente em extinção. Já a pesca com redes, tarrafas, anzóis e tinguis, embora escassa, é praticada no rio Envira e nos igarapés Diabinho e Cardoso, que desembocam próximos às comunidades.
+Figura II: Atividade de pesca em período de Piracema, no Rio Envira.
+5 Em nossa primeira viagem à área, o cacique era Militão Brandão, um dos filhos do Sr. Inácio, que habitava em Morada Nova e era auxiliado por seu cunhado Antônio Lúcio e seu sobrinho Manoel, que o representavam nas comunidades de Nova Vida e Cardoso, respectivamente. 6 Alguns Shanenawá têm outras fontes de renda: dentre os mais velhos alguns recebem aposentadoria por tempo de serviço realizado nos seringais; e dentre os mais jovens existem professores da rede pública e agentes de saúde.
+
+18
+Além dessas atividades, há também a criação de uns poucos animais para abate, como gado (doado pela FUNAI), galinhas e patos, e o cultivo de alguns alimentos (mandioca, milho, banana, arroz etc.), para autoconsumo ou comercialização visando à obtenção de outros produtos.
+No que diz respeito à religião, não parece haver atualmente um líder espiritual ou pajé entre os Shanenawá. Ao que parece, num passado recente os indígenas preocupavamse em se mostrar católicos como a maioria dos regionais. Nos últimos anos, porém, as religiões evangélicas têm ganhado a simpatia de muitas pessoas das comunidades.
+Dentre as manifestações folclóricas típicas, destaca-se o Mariri, evento que envolve dança, música, competição e cortejo entre homens e mulheres. Os participantes do Mariri se pintam com jenipapo e urucum; as mulheres preparam as comidas e bebidas típicas (mandioca, “kaisuma”, mingau de banana madura, açaí, entre outras); e os homens trabalham na construção de objetos usados nas competições, bem como na limpeza dos locais onde serão realizadas as danças e as brincadeiras.
+Atualmente é possível observar claras mudanças no aspecto cultural desse povo. Os hábitos não-indígenas têm tomado o lugar daqueles tradicionais, principalmente no que diz respeito ao uso de roupas de origem ocidental e ao apego às lutas de origem oriental (karatê, judô, kung-fung). Há, além disso, um grande interesse pela migração para grandes centros urbanos, tais como São Paulo, Brasília e Rio de Janeiro.
+
+19
+Figura III: Mulher Shanenawá em trajes da cultura ocidental
+No que diz respeito à língua Shanenawá, verificamos que a preocupação em preservá-la é quase exclusiva dos mais idosos, que afirmam com pesar não saberem o porquê dos mais jovens sentirem vergonha de falar na “gíria”7.
+7 O termo gíria entre os indígenas tem a conotação de língua enquanto meio de comunicação usado por uma determinada sociedade.
+
+20
+Uma possível causa do desinteresse dos jovens shanenawá por sua língua materna, bem como por outros aspectos culturais, diz respeito ao fato desses jovens estarem se deslocando para os centros urbanos mais próximos (Feijó, Tarauacá e Rio Branco), a fim de dar continuidade aos estudos ou para trabalhar. O contato permanente com a sociedade não índia tem afetado a manutenção da cultura do povo, pois este muitas vezes sente-se influenciado pela cultura alheia, ao mesmo tempo em que se sente discriminado em relação à sua.
+Felizmente, em meio a essa crescente aculturação, é possível notar que alguns dos índios mais jovens reconhecem suas origens e se sentem orgulhosos delas e têm buscado na cultura externa formas de preservá-las. Por isso, reivindicam a obrigatoriedade do ensino da língua materna nas escolas das comunidades paralelamente ao Português e apoiam a documentação e descrição de sua língua.
+Após termos feito um breve histórico do povo Shanenawá, discutiremos a seguir a família Pano, à qual se filia a língua Shanenawá, e, ainda, a metodologia empregada neste estudo.
+
+21
+2.2. CLASSIFICAÇÃO LINGÜÍSTICA 2.2.1. A FAMÍLIA LINGÜÍSTICA PANO
+Uma das características marcantes da família Pano é a homogeneidade tanto étnica quanto geográfica, que se deriva da ocupação, por parte de um bloco estimado entre 30 e 35 mil índios, de um território praticamente contínuo que abrange o Peru (região Sul-Este Departamentos do Ucayali e Madre de Dios), a Bolívia (região Oriental) e o Brasil. Segundo Rodrigues (1986:77) a localização principal das línguas Pano no Brasil:
+“ ...coincide com o sul e o oeste do Estado do Acre, de onde se
+estende para leste até a parte ocidental de Rondônia e, por outro lado, penetra para o norte no Estado do Amazonas, entre os rios Juruá e Javari”.
+Desde o final do século XIX, quando o francês Raoul de la Grasserie (1890), pela primeira vez considerou a família Pano como um grupo autônomo, muitas classificações foram propostas para as línguas que a compõem. Dentre as principais está a de Rivet (1924), que dividiu a família Pano geograficamente em três grupos: o maior deles composto por cerca de 29 línguas faladas ao longo dos rios Amazonas e Ucayali; o segundo por quatro línguas da região do rio Inambari; e o último por seis línguas e dialetos falados nas zonas dos rios Mamoré e Beni, afluentes do Rio Madeira (Shell, 1985).
+Rivet (op. cit.) também observou que a família Tacana, que ele acreditava ser um grupo Arawak, apresentava consideráveis semelhanças gramaticais com a família Pano. Mason (1950) menciona que as línguas Pano e Arawak mostram semelhanças genéticas e
+
+22
+de resultados de empréstimo com as línguas da família Tacana da Bolívia. Morfologicamente a semelhança é muito maior entre as línguas Pano e Tacana. McQuown (1955) separa oficialmente o Arawak do Tacana, estabelecendo que esta última seja uma das 38 famílias menores. Posteriormente, Greenberg (1956) afirma que os grupos Tacana e Pano fundem-se em um tronco denominado Macro-Pano (cf. também Greenberg, 1987), e nisso é seguido por Swadesh (1959). Key (1968), ao tratar da fonologia comparada do Tacana, mostra o caráter da relação genética que existe entre as línguas Tacana e as suas vizinhas Pano a leste e oeste.
+Sobre o parentesco entre os grupos Tacana e Pano, d’Ans (1970) afirma faltar muito para, enfim, poder se estabelecer com precisão a natureza e o grau desse parentesco, especialmente no domínio da gramática em que Rivet & Loukotka (1952) afirmaram perceber “grandes analogias”.
+A classificação feita por Schmidt (1926) reuniu as línguas Pano, dividindo-as em três grupos menores - Norte, Sul (Sub-grupos Ocidental e Oriental) e Central, sendo os dois primeiros correspondentes ao maior grupo de Rivet (1924), porém com um número menor de línguas. Loukotka (1944) adota a mesma distribuição geográfica estabelecida por Rivet (op. cit.), apenas com alguns acréscimos e supressões de línguas (Shell, 1985).
+Mason (1950) propõe uma classificação para as línguas Pano mais sistemática, agrupando-as em Pano Central, Sul-Ocidental e Sul-Oriental, conforme podemos ver abaixo:
+
+23
+I. CENTRAL
+A . Chama (Ucayali) 1. Conibo
+a . Conibo b. Shipibo
+a . Caliseca, Sinabo (?) b. Manamabobo, Manava
+c. Setebo
+a . Sensi: Casca, Runubu, Ynubu, Barbudo, Tenti, Mananawa (?) b. Panobo: Pano, Pelado, Manoa , Cashiboyano.
+2. Cashibo (Comabo)
+a . Cacataibo b. Cashino) c. Runo) d. Buninawa e. Carapacho (?) f. Puchanawa
+g. Shirinó
+B. Curina (Kulino) 8
+C. Capanawa 1. Capanawa
+a . Buskipani
+2. Remo
+a . Sacuya
+3. Maspo
+a . Epetineri (Impenitari) 9
+4. Nucuini
+a . Cuyanawa
+5. Niarawa 6. Puyananawa (?)
+D. Amawaca (amenguaca ?) 1. Amawa a .Cashinawa
+b . Sheminawa c . Inuvakeu
+8 Em nota de rodapé Mason menciona que o Curina distingue-se dos vizinhos Arawak: Culino ou Culina. 9 Em outra nota Mason refere-se aos autores Steward e Métraux (cf. Handbook, vol. 3, p. 565), que listam o Ipitinere como sinônimo de Amahuaca. Porém, os mesmos autores consideram o Epetineri como possível grupo Arawakan (cf. Handbook, vol. 3, p. 54l).
+
+24
+d . Viwivakeu
+2. Pichobo a . Pichobo (Pisobo) b. Soboibo
+a . Ruanawa
+c. Machobo
+a . Comobo
+E. Catukina10 1. Arara a . Shawanawa 2. Ararapina 3. Ararawa 4. Saninawa a . Saninawacana
+F. Juruá-Purús 1. Poyanawa 2. Shipinawa 3. Ararawa 4. Yauavo 5. Yaminawa 6. Runinawa 7. Contanawa 8. Yawanawa 9. Pacanawa 10. Yumbanawa 11. Yura 12. Tushinawa 13. Marinawa 14. Espinó 15. Manawa 16. Canamari11
+II - SUL-OCIDENTAL
+A .Arasaire B. Aisawaca
+1. Aisawaca 2. Yamiaca
+10 Em nota de rodapé Mason diferencia a língua Catukina (Pano) de outras denominações Catukina: a) Catukina (Arawak) e b) Catukina (Catukina). 11 Mason também distingue o Canamari (Pano) do Canamari (Arawak) e do Canamari (Catukina).
+
+25
+C. Arauá (?)
+III - SUL-ORIENTAL A . Pacawará
+1. Chacobo 2. Caripuná (Jau-navo)
+a . Jacariá b. Pamá (Pamaná)
+3. Capuibo 4. Sinabo
+B. Zurina (?)
+McQuown (1955), ao tratar da classificação das línguas Indoamericanas, não apresenta modificações no agrupamento das línguas da família Pano em relação àquele feito por Mason (1950). Entretanto, McQuown (op. cit.) distribui as línguas Pano, assim como as línguas pertencentes a outras famílias, em ordem alfabética e as localiza geograficamente em relação aos paralelos e meridianos.
+Greenberg (1956), ao contrário do que havia sido feito anteriormente, apresentou uma classificação sintética das línguas da América do Sul. O propósito disso era reunir em uma unidade última todas as línguas ameríndias, exceto as dos grupos Na-dene e Eskimo. Assim, propôs oito agrupamentos lingüísticos para a América Latina, sendo três deles somente para a América do Sul, são eles: 1.Macro-Chibchan, 2. Andino-Ecuatorial, 3. GePano-Caribe. Esse último seria composto pelos blocos Macro-Jê, Macro-Pano, Nambikuara, Huarpe, Macro-Karib e Taruma (d’Ans, 1970). Em sua classificação
+
+26
+Greenberg (1987) mantém a hipótese da existência de um tronco Macro-Pano, que seria constituído do seguinte modo:
+MACRO-PANO 1. Chama 2. Lengua 3. Lule Vilela 4. Mataco-Guaicuru a. Guaicuru b. Mataco 5. Moseten 6. Pano-Tacana
+a . Pano b. Tacana
+Impulsionados por Greenberg (1956) sobre a hipótese de uma unidade da origem de todas as línguas ameríndias, outros autores tentaram reconstruir uma língua Pano primitiva, um “Pano Reconstruído”. Loos (1973), por exemplo, apresentou reconstruções de vários aspectos da gramática do Proto-Pano.
+Em d’Ans (1973b) encontra-se uma tentativa de reclassificação das línguas Pano, com base na aplicação do método glotocronológico. Tradicionalmente a família Pano era considerada com três subdivisões: Pano Central, Pano Sul-Ocidental e Pano Sul-Oriental. O trabalho de d’Ans acima referido e um outro coletivo (cf. d’Ans et alii, 1973) demonstram que os denominados Pano Sul-Ocidentais nunca existiram, mas foram postulados a partir de interpretações errôneas das fontes antigas que tratavam do assunto. As outras subdivisões, Central e Oriental, são classificações puramente geográficas. A proposta de d’Ans é a seguinte:
+
+27
+I. PANO UCAYALINO
+Ucayalino A:
+Shipibo Conibo Capanahua
+Ucayalino B:
+Panavarro 12 Shetebo ? Wariapano
+II. PANO PRÉ-ANDINO
+Cashibo Cacataibo?
+III. PANO DAS CABECEIRAS
+Isconahua Amahuaca Cashinahua Pano-Purus:
+Yaminahua Sharanahua Marinahua? Chaninahua? Mastanahua? Yahuanahua?
+IV. PANO BENIANO
+Chácobo Pacaguara?
+V. PANO DO NORTE?
+Mayoruna??13
+12 d’Ans emprega o termo Panavarro para designar a língua Pano, diferente da família Pano, em homenagem ao padre Manuel Panavarro, autor de uma gramática e um dicionário da língua Pano. 13 As classificações lingüísticas propostas por Mason (1950), Greenberg (1956, 1987) e d’Ans (1973) são instrumentos básicos para todos aqueles que se interessam pelas línguas indo-americanas, sobretudo, aquelas pertencentes à família Pano. Afinal, além de fornecerem informações sobre localizações específicas das línguas, ainda constituem um valioso material para os comparativistas. Infelizmente, nem sempre esses materiais estão acessíveis nas bibliotecas. Diante disso, achamos pertinente reproduzi-las neste trabalho, visando a facilitar o trabalho dos pesquisadores em línguas indígenas.
+
+28
+Essa proposta de classificação do autor até agora não foi colocada em discussão. Por outro lado, na época em que d’Ans e seus alunos da Universidade San Marcos (Lima, Peru) fizeram suas pesquisas sobre essas línguas Pano, praticamente nada se sabia sobre as línguas dessa família que eram faladas no Brasil.
+Procurando evidências de relações interlingüísticas das línguas Pano com línguas de outras famílias, autores como Suarez (1969, 1973) sugerem uma possível relação entre Moseten-Pano-Tacana e um Macro-Pano-Tacana. Nesse caminho vão as pesquisas de Loos (1973), autor que vê uma estreita relação entre as famílias Pano e Tacana e também com o Moseten (língua tratada como pertencente a um tronco independente ou de possível filiação Arawák). Nos trabalhos sobre a Gramática do Proto-Pano, Loos tem sugerido igualmente uma relação, embora bastante distante, entre as línguas da família Pano com o Mapuche e também com o Quechua.
+Shell (1985) fez a primeira comparação sistemática de dados lingüísticos demonstrando a regularidade de correspondências fonológicas em sete idiomas Pano.
+Mais recentemente, Rodrigues (1986), ao classificar as línguas indígenas do Brasil, aponta a família Pano como isolada, por não estar classificada em tronco. Segundo esse autor as línguas da família são: Amawáka (AM), Karipuna (RO), Katukina (AC), Kaxarari (RO), Kaxinawá (AC, AM), Marubo (AM), Matis (AM), Mayá (AM), Mayorúna (AM), Nakuini (AM), Poyanáwa (AC), Yamináwa (AC) e Yawanáwa (AC).14
+14 Ressaltamos que esse estudo engloba apenas as línguas Pano do Brasil, deixando de mencionar aquelas faladas na Bolívia e no Peru.
+
+29
+2.2. A LÍNGUA SHANENAWÁ
+Lingüisticamente o Shanenawá é classificado pelo ISA (Instituto Socioambiental) como pertencente à família Pano (Ricardo, 1996). Entretanto, tendo em vista apontamentos constantes da literatura lingüístico-antropológica, o Shanenawá não seria considerado uma língua, mas um possível dialeto da língua Katukina, pertencente à família Pano, que é falada por três grupos distribuídos em localizações geográficas diversas do Estado do Acre, respectivamente, nas aldeias de Olinda, no Município de Cruzeiro do Sul; Sete Estrelas, no Município de Tarauacá; e Morada Nova, no Município de Feijó (Conselho Indigenista Missionário, 1985).
+Como já o dissemos em (1.1.), “Katukina” foi considerado um termo genérico que chegou a ser atribuído a cinco grupos lingüisticamente distintos e geograficamente próximos (Rivet, 1920) - o que deu margem a alguns mal-entendidos. Atualmente esses grupos foram reduzidos a apenas duas famílias lingüísticas: os Katukina da família Pano, e os da família Katukina (Rodrigues, 1986).
+Aguiar (1993: l43) assume que o grupo de Feijó, assim como sua língua, não seriam Katukina, mas sim Shanenawá, e que a referida língua seria classificada como pertencente à família Pano. Barros (1987) menciona que os índios Katukina de Sete Estrelas e Olinda afirmam não entenderem a língua falada pelo grupo de Feijó. De igual modo, ao questionarmos os membros desse último grupo se entendiam a língua falada pelos dois outros, recebemos resposta idêntica. Por esses motivos, assumimos neste trabalho a
+
+30
+referência “Shanenawá” para a língua a ser analisada, bem como para o povo cuja área está localizada às margens do rio Envira, em Feijó.
+Os trabalhos lingüísticos de Barros (1987) e Aguiar (1988, 1994) referem-se às variantes da língua Katukina faladas nas aldeias de Olinda e Sete Estrelas e não àquela falada pelo subgrupo Katukina “Shanenawá” da aldeia Morada Nova. O trabalho de Barros (op. cit.) trata da fonêmica da língua, e os trabalhos de Aguiar (op. cit.) tratam de aspectos históricos, fonológicos e sintáticos dessa língua.
+
+31
+2.3.METODOLOGIA DE PESQUISA 2.3.1. TRABALHO DE CAMPO
+Nosso primeiro contato com dados da língua Shanenawá deu-se no final do ano de 1994, através de participação (estágio) no projeto Organização de Arquivo Pano, de autoria da pesquisadora Maria Suelí de Aguiar, no âmbito do Museu Antropológico da Universidade Federal de Goiás. Na oportunidade tivemos acesso a informações gerais sobre o grupo e a língua, bem como a um limitado material lingüístico (duas fitas cassetes gravadas em 1987, contendo listas lexicais e algumas sentenças). A análise desse material resultou em uma monografia de final de curso de Bacharelado em Lingüística (Cândido, 1995).
+Somente após dois anos, pudemos finalmente conhecer as aldeias, onde consolidamos de modo satisfatório nossas bases de pesquisa. Segundo as lideranças do grupo, não havia ainda um interesse concreto de pesquisadores pela língua da comunidade e, por isso, se demonstraram receptivos, solícitos e empenhados em ajudar no que fosse possível.
+Nossos informantes foram o Sr. Militão Brandão, 46 anos; a Sra. Maria Iraci Brandão, 63 anos; Raimundo Nonato Brandão, 17 anos; e Kennedy Roneike Brandão, 8 anos. Estes últimos, como os demais jovens do grupo, falam muito pouco a língua e apenas para efeito de averiguação fonética gravamos algumas poucas palavras com eles.
+Em nosso trabalho de campo gravamos oito fitas cassetes, com dados que registram principalmente o léxico e aspectos da morfologia que nos permitem identificar os processos
+
+32
+morfofonêmicos da língua, textos com conversas espontâneas e músicas folclóricas. A coleta do material lingüístico foi feita a partir de elicitação junto ao informante, a qual foi transcrita foneticamente, usando os símbolos do IPA - Alfabeto Fonético Internacional.
+Na coleta dos dados utilizamos o questionário lexical, contendo 232 itens de Rowe Standard Comparative Vocabulary; os 140 itens do léxico de Swadesh (1959); o questionário do SIL e Museu Nacional, e um questionário elaborado por nós mesmos a partir de outros questionários e listas de vocábulos de outras línguas e que segue um critério semântico. Visando ainda a um estudo comparativo, utilizamos uma lista lexical que foi gravada por Aguiar (1987).
+Não há em Morada Nova um lugar ideal para a realização das gravações e, por isso, nossas fitas apresentam uma série de imperfeições causadas por ruídos externos (vozes de crianças, animais, barcos, vento etc.), que dificultam, algumas vezes, a audição e identificação de segmentos fonéticos da língua Shanenawá. Nossa falta de experiência somada a um certo desconforto de nosso informante também contribuíram para a imperfeição de nossas primeiras gravações. Exemplo disso está no fato de que, ainda que lhe fosse solicitado que repetisse cada dado elicitado, o mesmo não o fazia e acabamos decidindo aceitar seu comportamento.
+Tendo apresentado informações sobre a origem e alguns aspectos culturais do povo Shanenawá, um histórico sobre a família lingüística Pano e a classificação da língua Shanenawá dentro dessa família, e, finalmente, a metodologia de pesquisa utilizada em nosso trabalho de campo, passaremos ao próximo capítulo, no qual trataremos da descrição, propriamente dita, da língua Shanenawá em seus aspectos fonético e fonêmico.
+
+33 3. DESCRIÇÃO FONÉTICA E FONÊMICA DA LÍNGUA SHANENAWÁ
+
+34
+3.1. DESCRIÇÃO FONÉTICA DOS SEGMENTOS
+Os sons da fala originam-se e são modulados em função da presença de ar no aparelho fonador, ou seja, no conjunto de órgãos do corpo humano envolvidos na produção da fala. O aparelho fonador subdivide-se em três partes: a respiratória, a fonatória e a articulatória, conforme suas funções na produção da fala (Cagliari, 1981).
+A parte respiratória constitui-se pelos pulmões, brônquios, pela traquéia e pelas estruturas envolvidas no processo da respiração e que formam as cavidades infra-glotais. É na parte respiratória que se inicia a produção da fala. A maioria dos sons são produzidos com uma corrente de ar pulmonar egressiva, isto é, durante a fase expiratória da respiração. Assim, o ar acumulado nos pulmões durante a inspiração é expulso em direção à laringe. Essa etapa implica o processo aerodinâmico da produção da fala (Ladefoged, 1971, 1975).
+A laringe constitui a parte fonatória da aparelho fonador, pois nela ocorre o processo fonatório da produção da fala. Na glote, um pequeno orifício que liga a traquéia à laringe, encontram-se as cordas vocais, que ao se juntarem completamente, representam um obstáculo para a passagem do ar que procede dos pulmões. Entretanto, o acúmulo de ar acaba forçando as cordas vocais a se separarem, permitindo que o ar escape pela laringe e passe a ter características acústicas, ou seja, que se realize como um som da língua.
+O som pode ser classificado como surdo ou sonoro. Se na passagem do ar pela glote as cordas vocais estiverem separadas o bastante de modo que não vibrem, o som será surdo; por outro lado, se houver vibração das cordas vocais quando estas forem forçadas a se separarem para dar passagem ao ar, o som será sonoro.
+
+35
+A parte articulatória do aparelho fonador constitui-se pelas cavidades supra-glotais. Essa parte subdivide-se em três regiões, segundo a configuração de quatro cavidades que a compõem: a faríngea, a oral ou bucal, a labial e a nasal. Na parte articulatória executam-se os processos oro-nasal e articulatório da produção da fala.
+O processo oro-nasal inicia-se quando o ar atinge o trato vocal, que se subdivide em oral e nasal. Se o ar passa pela faringe e pela boca, ou seja, pelo trato oral, o som produzido é oral; se passa pelas fossas nasais, isto é, pelo trato nasal, tem-se um som inerentemente nasal. Uma terceira possibilidade é a de que o ar passe tanto pelo trato oral como pelo nasal, do que se resultaria um som nasalizado. O que faz com que o ar siga pelo trato nasal ao invés do oral é a ação do palato mole (ou véu palatino), órgão móvel localizado na parte posterior da boca, cuja função é a de abrir e fechar a entrada das fossas nasais.
+No trato vocal encontram-se os articuladores, isto é, os órgãos usados das mais diversas formas para modular o timbre dos sons pelas diferentes configurações das cavidades supra-glotais. Os articuladores classificam-se em dois tipos: os inferiores, isto é, os lábios inferiores e a língua; e os superiores, que são os lábios superiores, os dentes, os alvéolos, o palato duro, o palato mole, a úvula e a faringe. No trato nasal estão as fossas nasais, articuladores cujas formas e volumes são fixos e, por isso, o seu efeito ressoador é sempre o mesmo (Malmberg, 1954).
+Os articuladores, cujas funções na produção da fala constituem o processo articulatório, exercem importante função na produção da fala, pois são eles que estabelecem distinções entre os sons como, por exemplo, aquela entre consoantes e vogais.
+
+36
+Na produção das consoantes a corrente de ar tem sua passagem obstruída de modo completo ou não pelos articuladores, o que não ocorre na produção das vogais, uma vez que a corrente de ar passa livremente pelo trato vocal. Essa é, então, uma distinção estabelecida pelo modo de articulação.
+Um outro parâmetro de classificação fonética dos sons da fala, no que diz respeito ao processo articulatório, é o ponto de articulação. Os sons consonantais, por exemplo, distinguem-se entre si pelo ponto de contato dos articuladores inferiores com os superiores, como na produção de [t], em que há o contato entre a lâmina da língua e o alvéolo, por isso, esse som é denominado alveolar. No caso das vogais a distinção por ponto de articulação é mais ampla, pois elas distinguem-se pela altura da língua no momento da passagem do ar (alta, média e baixa); pelas regiões articulatórias (anterior, central e posterior); pela tensão (tensa e distensa); pela abertura e fechamento do véu palatino (oral e nasal); e, ainda, pela postura dos lábios (arredondado e não-arredondado).
+A partir dessas considerações, apresentaremos a seguir a descrição fonética dos sons da fala shanenawá. Para a referida descrição utilizaremos os símbolos do International Phonetic Alphabet (Wells & House, 1996).
+
+37
+3.1.1. FONES CONSONANTAIS
+A língua Shanenawá é constituída por 25 fones consonantais, sendo que dentre esses, apenas dois são glotais: o oclusivo [/] e o fricativo [h], enquanto os demais são supra-glotais. A seguir apresentaremos a distribuição dos contóides 15 dessa língua.
+
+3.1.1.1. DISTRIBUIÇÃO DOS FONES CONSONANTAIS
+
+1. [p] oclusivo, bilabial, surdo; ocorre em posição inicial e medial de palavra, antecedendo vocóides16 e o glide [j]:
+
+(1) (a) [pˆw » tSi/] (b) [pos » to/] (c) [ma » pu/] (d) [ˆ » pa/] (e) [pja kŒ)na » te/]
+
+‘costas’ ‘ventre’ ‘cabeça’ ‘pai’ ‘arco’
+
+15 De acordo com os estudos fonéticos clássicos, empregaremos na parte fonética os termos contóide e vocóide para as realizações fonéticas sem referência à sua função na língua (Weiss, 1980). Já na parte fonêmica utilizaremos os termos consoante e vogal para os sons cuja estrutura e função no sistema lingüístico Shanenawá já tenham sido classificadas e definidas, respectivamente. 16 Idem nota anterior.
+
+38
+
+2. [t] oclusivo, alveolar, surdo; ocorre em posição inicial e medial de palavra, antecedendo vocóides, e em posição inicial de palavras, antecedendo o glide [w]:
+
+(2) (a) [ta » ka/] (b) [taka » Ra/] (c) [tos » to/] (d) [ßˆw » ta/] (e) [twa » te/] (f) [tˆw » ti/]
+
+‘fígado’ ‘galinha’ ‘papo’ ‘dente’ ‘cana’ ‘colar’
+
+3. [d] oclusivo, alveolar, sonoro; ocorre em posição inicial de palavra, antecedendo vocóides17:
+
+(3) (a) [dˆw » ci]) (b) [du » sa/] (c) [dˆ » wˆ/] (d) [du » no/] (e) [dˆ » wˆ/]
+
+‘nariz’ ‘sal’ ‘machado’ ‘cobra’ ‘juriti’
+
+4. [c] oclusivo, palatal, surdo; ocorre em posição inicial e não inicial de palavra, antecedendo os vocóides altos, anteriores, não-arredondados [i] e [i]) :
+17 Não foi possível encontrar, em nossos dados, exemplos em que [d] ocorresse antes da vogal [a].
+
+39
+
+(4) (a) [ci » Si /] (b) [Baci » Si/] (c) [miSci » te/] (d) [aja » ci)] (e) [saBu » ci)] (f) [Ru » ci)]
+
+‘coxa’ ‘noite’ ‘pedra’ ‘beber’ ‘vestimenta’ ‘vento’
+
+5. [k] oclusivo, velar, surdo; ocorre em posição inicial e medial de palavra, antecedendo os vocóides centrais [ˆ], [Œ)] e [a]:
+
+(5) (a) [kŒ) » na/] (b) [kˆta » wˆ/] (c) [ta » ka/] (d) [fakˆ » hu/] (e) [ma » kˆ/] (f) [pjakŒ) # na » te/]
+
+‘relâmpago’ ‘asa’ ‘fígado’ ‘criança’ ‘piranha’ ‘arco’
+
+6. [q] oclusivo, uvular, surdo; ocorre em posição inicial e medial de palavra, antecedendo os vocóides, posteriores arredondados [u], [u)] e [o]:
+
+40
+
+(6) (a) [qus » qo/] (b) [qu) » ma/] (c) [iStˆw » qo/] (d) [pu » qu/] (e) [ßaqu » hi/]
+
+‘urubu’ ‘nambu galinha’ ‘macaco’ ‘tripa’ ‘cobra cega’
+
+7. [/]: oclusivo, glotal, surdo; ocorre somente em final absoluto de palavra, precedido apenas por vocóides ou por glides:
+
+(7) (a) [pi » Si/] (b) [ßˆw » kˆ/] (c) [ : fu/] (d) [amŒ)n » te/] (e) [a » Ba/] (f) [i » so/] (g) [ » tSQj/] (h) [ » ßˆw/]
+
+‘costela’ ‘calango’ ‘cabelo’ ‘marimbondo’ ‘anta’ ‘macaco preto’ ‘primo’ ‘verde’
+
+8. [m] nasal, bilabial, sonoro; ocorre em posição inicial e medial de palavra, antecedendo vocóides:
+
+41
+
+(8) (a) [» ma/] (b) [» mŒ]) (c) [mˆ » tu/] (d) [fi » mi/] (e) [pumŒ) » na/]
+
+‘partícula de negação’ ‘partícula interrogativa’ ‘seco’ ‘fruta’ ‘cará’
+
+9. [n] nasal, alveolar, sonoro; ocorre em posição inicial e não inicial de palavras, antecedendo vocóides ou outros contóides alveolares:
+
+(9) (a) [na»i/] (b) [nˆw » i) ] (c) [ˆ » nˆ/] (d) [pˆw » no/] (e) [twŒ)n » ti/]
+
+‘céu’ ‘minhoca’ ‘rio’ ‘veia’ ‘remo’
+
+10. [¯] nasal, palatal, sonoro; ocorre em posição medial de palavra, precedido dos vocóides altos [i], [u] e antecedendo os palatais [c] e [j]:
+
+(10) (a) [pu¯) : jŒ)] (b) [fußpi)¯» jŒ)] (c) [au)¯ci » na/]
+
+‘braço’ ‘sobrancelha’ ‘nome’
+
+42
+
+(d) [pahi¯) » ci/] (e) [i)¯ » jŒ]) (f) [tSa/ i¯) » ci)]
+
+‘orelha’ ‘lagoa’ ‘falar’
+
+11. [N] nasal, velar, sonoro; ocorre em posição medial de palavra e em final de palavra, antecedendo o fone velar [k]:
+
+(11) (a) [miN) » kaj/]
+
+(b) [pˆw » ßŒ)N # kˆRi » kaj/]
+
+pˆw ßŒ)N -
+
+kˆRi - kaj
+
+casa
+
+ir fut.
+
+(c) [RutuN) » kˆ) ]
+
+‘preposição “em”’ ‘vou para casa’
+‘morder’
+
+12. [N] nasal, uvular, sonoro; ocorre em posição medial de palavra, antecedendo o fone oclusivo uvular surdo [q]:
+
+(12) (a) [RatuN) » qo/] (b) [mitˆN) » qu # RŒ)ni » hi)] 18
+
+‘joelho’ ‘voltar’
+
+13. [R] tepe, alveolar, sonoro; ocorre em posição inicial e medial de palavra, antecedendo vocóides:
+
+(13) (a) [Rˆ » ci])
+
+‘nariz’
+
+43
+
+(b) [Rˆ » wˆ/] (c) [ta » Ri/] (d) [fu » Ro/] (e) [Sa » Ru/] (f) [ßa » Ra/]
+
+‘machado’ ‘roupa’ ‘olho’ ‘arder’ ‘abelha’
+
+14. [B] fricativo, bilabial sonoro; ocorre em posição inicial e medial de palavra, antecedendo o vocóide [a]:
+
+(14) (a) [Ba » mu/] (b) [ßa » Ba/] (c) [aBa » mŒ]) (d) [Ba » si/]
+
+‘porco’ ‘dia’ ‘quem?’ ‘capim’
+
+15. [f] fricativo, lábio-dental, surdo; ocorre em posição inicial e não inicial de palavras, antecedendo vocóides:
+
+(15) (a) [fi » tSi/] (b) [fa » fa/] (c) [fˆ » nˆ/]
+
+‘pele’ ‘papagaio’ ‘macho’
+
+18 Por enquanto, só encontramos esses dois exemplos de ocorrência desse som na língua.
+
+44
+
+(d) [fus » ta/] (e) [na » fu/] (f) [fa » Ri/]
+
+‘nuvem’ ‘fumo’ ‘sol’
+
+16. [v] fricativo, lábio-dental, sonoro; ocorre em posição inicial e medial de palavra, antecedendo vocóides:
+
+(16) (a) [va » mu/] (b) [Ra » vu/] (c) [na » vu/] (d) [i » vi/] (e) [va » va/] (f) [vi » nu/]
+
+‘porco’ ‘dois’ ‘fumo’ ‘pau’ ‘papagaio’ ‘buriti’
+
+17. [s] fricativo, alveolar, surdo; ocorre em posição inicial e medial de palavra, antecedendo vocóides e os fones [q] e [t]:
+
+(17) (a) [si » qo/] (b) [sa » a/ # pa »e/]19 (c) [wa » si/]
+
+‘estreito’ ‘sapinho’ ‘capim’
+
+45
+
+(d) [fu » su/] (e) [qus » qu/] (f) [pˆs » to/]
+
+‘face’ ‘urubu’ ‘mutuca’
+
+18. [S] fricativo, álveo-palatal, surdo; ocorre em posição inicial e medial de palavra, contíguo aos vocóides [ i ] e [ i) ]:
+
+(18) (a) [S i) » na/] (b) [Si » ju/] (c) [Sa » Ru/] (d) [ju » Si/] (e) [iStˆw » qo/] (f) [ta » Ri / # ciS » to/]
+roupa # coxa
+
+‘aranha’ ‘pium’ ‘arder’ ‘bicho’ ‘macaco’ ‘calção’
+
+19. [ß] fricativo, retroflexo, surdo; ocorre em posição inicial e medial de palavra, antecedendo contóides não palatais e vocóides, exceto [i]:
+
+(19) (a) [ßa » Ba/] (b) [ßu » ma/] (c) [tSa » ßo/]
+
+‘dia’ ‘teta’ ‘veado’
+
+19 A ocorrência da oclusiva glotal surda [/] em posição não final absoluto de palavra dá-se exclusivamente os casos de compostos.
+
+46
+
+(d) [ˆ » ßˆ/] (e) [quß » qo/] (f) [huß » pi/]
+
+‘semente’ ‘sapo’ ‘sobrancelhas’
+
+20. [h] fricativo, glotal, surdo; ocorre em posição inicial e medial de palavra, antecedendo vocóides:
+
+(20) (a) [» hŒ]) (b) [huß » pi/] (c) [ani » hu?] (d) [mˆ » hi/] (e) [fakˆ » hu/] (f) [pahi)¯ » ci/]
+
+‘sim’ ‘sobrancelhas’ ‘velho’ ‘mão’ ‘criança’ ‘orelha’
+
+21. [ts] africado, alveolar, surdo; ocorre em posição inicial e medial de palavra, antecedendo vocóides:
+
+(21) (a) [tsawˆ » ti/] (b) [a » tsa/] (c) [tsaw » mˆ/] (d) [ma » tsi/] (e) [matsi » jŒ) ]
+
+‘banco’ ‘mandioca’ ‘abaixo’ ‘gelo’ ‘frio’
+
+47
+
+(f) [ˆw » tsi/] (g) [pi » tsu/]
+
+‘unha do pé’ ‘periquito’
+
+22. [tS] africado, álveo-palatal, surdo; ocorre em posição inicial e medial de palavra, antecedendo vocóides:
+
+(22) (a) [ » tSQj/] (b) [pˆw » tSi/] (c) [pitSŒ¯) » jŒ) ] (d) [tSa : ßo/] (e) [tSu » ma/]
+
+‘primo’ ‘costas’ ‘cozinha’ ‘veado’ ‘cabaça’
+
+23. [dZ] africado, álveo-palatal, sonoro; ocorre em posição inicial de palavras antecedendo vocóides altos:
+
+(23) (a) [dZiwi » wˆ/] (b) [dZui » na/]
+
+‘dizer’ ‘pássaro’
+
+24. [w] glide, lábio-velar, sonoro; ocorre em posição inicial e medial de palavra, contíguo a vocóides, exceto [ u ]:
+
+(24) (a) [niwsi » Ri/] (b) [ » paw/]
+
+‘corda’ ‘brinco’
+
+48
+
+(c) [ni » wa/] (d) [iStˆw » qu/] (e) [waßa » ti/] (f) [nika » wˆ/]
+
+‘banha (gordura animal)’ ‘macaco’ ‘faca’ ‘ouvir’
+
+25. [j] glide, palatal, sonoro; ocorre em posição inicial e não inicial de palavra (abrindo ou fechando sílaba, exceto em final absoluto de palavra), contíguo a vocóides, exceto [ i ]:
+
+(25) (a) [ju : maj/] (b) [ja » pa/] (c) [aja » wˆ/] (d) [su » ja/] (e) [pi » ja/] (f) [pu)¯ » jŒ)] (g) [maj # ci » ti/]
+terra # panela
+
+‘gato’ ‘piaba’ ‘beber’ ‘rato’ ‘flecha’ ‘braço’ ‘panela de barro’
+
+3.1.1.2. QUADRO DE FONES CONSONANTAIS
+
+bilabial lábiodental alveolar
+
+álveopalatal
+
+lábioretroflexo palatal velar uvular glotal velar
+
+49
+
+p OCLUSIVA
+
+td
+
+NASAL TEPE FRICATIVA AFRICADA
+
+m
+
+n
+
+R
+
+Bfv s
+
+S
+
+ts tS
+
+GLIDE
+
+ß dZ
+
+c kq
+
+/
+
+¯ N≤
+
+h
+
+j
+
+w
+
+3.1.2. FONES VOCÁLICOS
+O sistema vocálico do Shanenawá é constituído por 7 fones orais e 4 nasais, cuja distribuição apresentaremos a seguir.
+
+3.1.2.1. DISTRIBUIÇÃO DOS FONES VOCÁLICOS
+
+26. [i] vocóide anterior, alto, oral, fechado, não-arredondado; ocorre em posição inicial e não inicial de palavras:
+
+(26) (a) [iS » ci)] (b) [ˆ » mi/] (c) [mˆ » hi/]
+
+‘peixe’ ‘sangue’ ‘mão’
+
+50
+
+(d) [jui » na/]
+
+‘pássaro’
+
+27. [i]‚ vocóide anterior, alto, nasal, fechado, não-arredondado; ocorre em posição inicial e não inicial de palavras, seguido ou não de contóides nasais:
+
+(27) (a) [i¯) » jŒ]) (b) [iS » ci]) (c) [a » si]) (d) [dˆw » ci)]
+
+‘lago’ ‘peixe’ ‘mutum’ ‘nariz’
+
+28. [ˆ] vocóide central, alto, oral, fechado, não-arredondado; ocorre em posição inicial e não inicial de palavras:
+
+(28) (a) [ˆ » pa/] (b) [ßˆ » ni/] (c) [taw » ßˆ/] (d) [ˆ » nˆ/]
+
+‘pai’ ‘sol’ ‘pescoço’ ‘água’
+
+29. [ˆ]‚ vocóide central, alto, nasal, fechado, não-arredondado; ocorre em posição inicial e não inicial de palavras, seguida ou não de contóides nasais:
+
+(29) (a) [nˆ) : na/]
+
+‘pupunha’
+
+51
+
+(b) [» ˆ]) (c) [Rutu¯) » kˆ) ] (d) [as » ka/ # nu) » wˆ])
+
+‘1a pessoa singular’ ‘morder’
+‘sim’
+
+30. [u] vocóide posterior, alto, oral, fechado, arredondado; ocorre em posição inicial e não inicial de palavras:
+
+(30) (a) [ßu » tSi/] (b) [u » Si/ # ni » pa/] (c) [kˆhu » ni/] (d) [ami » hu/]
+
+‘peito’ ‘vermelho’ ‘barba’ ‘mulher’
+
+31. [u]‚ vocóide posterior, alto, nasal, fechado, arredondado; ocorre em sílaba inicial e não inicial de palavras, seguida ou não de contóides nasais:
+
+(31) (a) [pu¯) » jŒ])
+(b) [qu) » wˆ/]
+(c) [Ba » Ri # u‚na : te/]
+sol # contar
+(d) [ma » ßu])
+(e) [tSu)mu » ja/]
+
+‘braço’ ‘fumaça’ ‘relógio’
+‘chifre’ ‘curandeiro’
+
+52
+
+32. [e] vocóide anterior, médio, oral, fechado não-arredondado; ocorre em sílaba inicial e não inicial de palavras:
+
+(32) (a) [ne » vu/] (b) [twŒn) » te/] (c) [pi » e/] (d) [amŒn) »te/]
+
+‘vento’ ‘remo’ ‘folha’ ‘marimbondo’
+
+33. [o] vocóide posterior, médio, oral, fechado, arredondado; ocorre em sílaba inicial e não inicial de palavras:
+
+(33) (a) [pos »tu/]
+(b) [fo » Ru/]
+(c) [ˆ » ßo/]
+(d) [ta » Ri/ # pus » to/]
+roupa # peito
+
+‘ventre’ ‘olho’ ‘lua’ ‘camiseta’
+
+34. [Œ)] vocóide central, médio, nasal, aberto, não-arredondado; ocorre em sílaba inicial e não inicial de palavras, seguido ou não de contóides nasais:
+
+(34) (a) [ka » mŒ)] (b) [twŒn) » te/] (c) [pu¯) » jŒ) ]
+
+‘cachorro’ ‘remo’
+‘braço’
+
+53
+
+(d) [fu » tSa/ # ni » jŒ) ]
+
+‘outro’
+
+35. [Q] vocóide anterior, médio, oral, aberto, não-arredondado; ocorre em sílaba inicial de palavras, após [tS] e seguido do glide [j]:
+
+(35) (a) [ » tSQj/] (b) [ » tSQj/ # mas » ta/]
+
+‘primo’ ‘perto’
+
+36. [a] vocóide central, baixo, oral, aberto, não-arredondado; ocorre em sílaba inicial e não inicial de palavras:
+
+(36) (a) [a » swa/] (b) [kŒ) » na/] (c) [maj » na/] (d) [a » na/]
+
+‘boca’ ‘relâmpago’ ‘magro’ ‘língua’
+
+3.1.2.2. QUADRO DE FONES VOCÁLICOS
+
+ANTERIOR
+
+CENTRAL
+
+NÃO-ARREDONDADO
+
+ORAL NASAL ORAL NASAL
+
+POSTERIOR ARREDONDADO ORAL NASAL
+
+54
+
+ALTO-FECHADO
+
+i
+
+ì‚
+
+ˆ
+
+ˆ‚
+
+u
+
+u)‚
+
+MÉDIO-FECHADO20
+
+e
+
+MÉDIO-ABERTO
+
+Q
+
+o Œ)
+
+BAIXO
+
+a
+
+20 Em uma transcrição fonética mais detalhada, esses sons devem ser marcados por diacríticos que indiquem a sua condição de alçamento. Em nosso trabalho, entretanto, não vamos especificar esses detalhes.
+
+55
+3.2. ANÁLISE FONÊMICA
+Para a análise fonêmica dos segmentos consonantais e vocálicos da língua Shanenawá, utilizamos os critérios de contraste, distribuição complementar e variação livre, baseando-nos em Pike (1947) e Kindell (1981).
+O critério de contraste estabelece que se dois segmentos ocorrerem em ambientes idênticos ou análogos em um processo de substituição mútua e, em decorrência disso, houver mudança de significado, esses fones serão considerados fonemas distintos entre si.
+O critério de variação livre, por outro lado, determina que se dois fones puderem ser substituídos um pelo outro num mesmo ambiente sem que haja alteração de significado, eles serão atribuídos a um mesmo fonema, sendo considerados, portanto, variantes livres desse fonema.
+Já o critério de distribuição complementar estabelece que a ocorrência de um fone é condicionada pelo ambiente em que o mesmo se realiza. Assim, se um fone qualquer puder ocorrer apenas numa determinada posição (inicial ou final, por exemplo) ou se suas características articulatórias ou acústicas restringirem sua ocorrência a um ambiente específico, provavelmente haverá um outro ou mais fones que ocorrerão nos demais ambientes em que aquele não puder ocorrer.
+Ainda com relação ao critério de distribuição complementar, é importante ressaltarmos que, pelos princípios fonêmicos, para que dois segmentos sejam considerados variantes de um mesmo fonema não é suficiente que ocorram em distribuição complementar. Isto é, são alofones de um mesmo fonema os segmentos foneticamente
+
+56
+semelhantes, ou seja, aqueles que diferir minimamente entre si em ponto e/ou modo de articulação. 21
+A seguir apresentaremos a análise fonêmica dos segmentos consonantais e vocálicos do Shanenawá, feita com base nos critérios acima descritos.
+21 Esse fato pode ser ilustrado através de dois casos de distribuição complementar que ocorrem no Inglês: 1) A vogal [Q] anterior média-aberta, não-arredondada ocorre antes de consoantes surdas, enquanto [Q:] anterior média-aberta, não-arredondada longa ocorre antes de sonoras (Exemplos: [» hQt] <hat> ‘chapéu’ e [»hQ:d] <had> ‘pretérito do verbo to have’); 2) A consoante [h] fricativa glotal, surda ocorre em início de palavras, enquanto a [N] oclusiva nasal velar sonora ocorre somente em final de palavras (Exemplo: [» hQtS] <hatch> ‘portinha’; [»rQ:N] <rang> ‘pretérito do verbo to ring’). Como se pode notar, no primeiro caso os segmentos são foneticamente semelhantes e, por isso, são alofones de um mesmo fonema. Já no segundo caso, nota-se que os segmentos não compartilham semelhanças fonéticas e, portanto, não podem ser variantes de um mesmo fonema (Davis, 1973: 132).
+
+57
+
+3.2.1. SEGMENTOS CONSONANTAIS 3.2.1.1. CONTRASTE
+
+Abaixo relacionamos os pares de segmentos que ocorrem em contraste em ambientes idênticos (CAI) ou em ambientes análogos (CAA), causando distinção de significado:
+
+1. /p/ e /m/ são fonemas, pois ocorrem em CAI:
+
+(37) (a) /ßi mi/ 22 (b) /ßi pi/ (c) /mus tu/ (d) /pus tu/
+
+[Si : mi/] [Si : pi/] [mus » to/] [pus » to/]
+
+‘marajá’ ‘banana’ ‘reto’ ‘barriga’
+
+2. /n/ e /m/ são fonemas, pois ocorrem em CAI:
+
+(38) (a) /na i/ (b) /ma i/ (c) /tSu ma/ (d) /tSu na/
+
+[na : i/] [ma : i/] [tSu » ma/] [tSu » na/]
+
+‘céu’ ‘terra’ ‘cabaça’ ‘um tipo de macaco’
+
+58
+
+3. /t/ e /n/ são fonemas, pois ocorrem em CAA:
+
+(39) (a) /ta ˆ/ (b) /na i/ (c) /ßˆ ta/ (d) / ˆ na/
+
+[ta » ˆ/] [na » i/] [ßˆ » ta/] [ ˆ » na/]
+
+‘pé’ ‘céu’ ‘dente’ ‘órgão sexual masculino’
+
+Os fonemas /t/ e /n/ ocorrem em início de sílaba inicial antes de [a], como vemos em (a, b); e entre [ˆ] e [a] em sílaba final, conforme (c, d).
+
+4. /s/ e /ß/ são fonemas, pois ocorrem em CAA:
+
+(40) (a) /saw/ (b) /ßˆw/ (c) /pu san/23 (d) /Ru ßan/
+
+[:saw/] [:ßˆw/] [pu»sŒ]) [Ru»ßŒ)]
+
+‘osso’ ‘verde’ ‘bicho preguiça’ ‘sal’
+
+Os fonemas /s/ e /ß/ ocorrem em início de sílaba inicial antes de vogal central (a, b); e entre as vogais [u] e [a] em sílaba final (c, d).
+
+5. /ts/ e /tS/ são fonemas, pois ocorrem em CAI e CAA:
+
+22 Não representaremos o acento em Shanenawá em nível fonêmico, em virtude do mesmo ser previsível, e,
+portanto, não distintivo (cf. p. 103) 23 Ver discussão sobre a nasalidade no Capítulo 4, p. 105 e ss.
+
+59
+
+(41) (a) /ma tSi/ (b) /ma tsi/ (c) /ßˆw tSi/ (d) /ˆw tsi/
+
+[ma » tSi/] [ma » tsi/] [ßˆw » tSi/] [ˆw » tsi/]
+
+‘morro’ ‘gelo’ ‘peito’ ‘unha do pé’
+
+Em ambientes análogos os fonemas /ts/ e /tS/ ocorrem entre vogais ou o glide [w] e a vogal [i] em sílaba final.
+
+6. [h] e [s] 24 são fonemas, pois ocorrem em CAA:
+
+(42) (a) /han/ (b) /isan/ (c) /askahin/ (d) /isin/
+
+[ » hŒ)] [i » sŒ)] [aska » hi)] [i » si) ]
+
+‘sim’ ‘patoá’ ‘já’ ‘doença’
+
+Os fonemas /h/ e /s/ ocorrem antes das vogais [a], [Œ)] como vemos em (a, b); e antes da vogal [i] em sílaba final. 3.2.1.2. DISTRIBUIÇÃO COMPLEMENTAR
+
+24 Considerando que em algumas línguas existe uma relação entre as fricativas [s] alveolar e [h] glotal, em final de sílaba, ou seja, é comum ocorrer o processo de mudança de [s] para [h] e seu posterior apagamento (s => h => Ø), decidimos contrastar esses dois fones em Shanenawá. A relação entre esses dois segmentos pode ser vista em alguns dialetos do Português do Brasil e em vários dialetos do Espanhol, por exemplo, no do Chile, em palavras como mas e menos, por exemplo: [mas] => [ mah] ‘mas’ e [menos] => [menoh] ‘menos’.
+
+60
+
+Abaixo relacionamos os casos de distribuição complementar que ocorrem na língua Shanenawá:
+
+1. [c], [k] e [q] são foneticamente semelhantes e ocorrem em distribuição complementar nos seguintes ambientes:
+
+[c] ocorre antes de vogais altas, anteriores não-arredondadas.
+
+(43) (a) /pahinki/ (b) /ißkin/ (c) /pikiwˆ/ (d) /Rˆwkin/
+
+[pahi¯) » ci/] [iS » ci]) [pici » wˆ/] [Rˆw » ci)]
+
+‘orelha’ ‘peixe’ ‘nadar’ ‘nariz’
+
+[q] ocorre antes de vogais posteriores arredondadas.
+
+(44) (a) /kuwin/ (b) /Rakuti/ (c) /kusku/ (d) /kußa/
+
+[qu»wi]) [Raqu»te/] [qus»qo/] [qo»ßa/]
+
+‘fumaça’ ‘coberta’ ‘urubu’ ‘cedro’
+
+[k] ocorre nos demais ambientes.
+
+61
+
+(45) (a) /kˆtSa/ (b) /ßˆwika/ (c) /kakan/ (d) /fakˆhu/
+
+[kˆ » tSa/] [»ßˆw/ # i » ka/] [ka » kŒ)] [fakˆ » hu/]
+
+‘prato’ ‘enxada’ ‘abacaxi’ ‘menino’
+
+Logo, [c], [k] e [q] são variantes de um mesmo fonema, sendo, portanto, alofones do fonema /k/.
+
+2. [¯], [N], [N] e [n] são foneticamente semelhantes e ocorrem em distribuição complementar nos seguintes ambientes:
+[¯] ocorre antes da consoante palatal [c] e da aproximante palatal [j].
+
+(46) (a) /punjan/ (b) /aun # kina/ (c) /tSaj # inki/ (d) /injan/
+
+[pu)¯ » jŒ)]
+
+‘braço’
+
+[au¯) # ci » na/]‘nome’
+
+[tSaj/ i¯ » ci/]
+
+‘falar’
+
+[i)¯ » jŒ)]
+
+‘lagoa’
+
+[N] ocorre antes da consoante velar [k].
+
+(47) (a) /mankˆwa # ifi/
+
+[mŒN) kˆ » wa/ i » fi/] ‘eles queimaram o pau’
+
+man- # kˆ -wa # ivi
+
+interr queimar pass. pau
+
+(b) /ˆnˆ # fußo # inkˆ/ [ˆ » nˆ/ fu » ßo/ i)N » kˆ/]
+ˆnˆ # fußo # inkˆ
+
+‘cascata’
+
+62
+
+água cair derramar
+(c) /ma # ußin # kˆwˆa/ [»ma/ ußi)N » kˆ # wˆ»a/] vermelhos’
+ma # ußin # kˆ wˆ - a 2 ps. vermelho mod. - pres.
+
+‘vocês
+
+estão
+
+[N] ocorre antes de consoantes uvulares.
+
+(48) (a) /Ratunku/ (b) /mitˆnku # Ranihin/ 25
+
+[RatuN) » qo/] [mitˆN) » qu # RŒ)ni » hi])
+
+‘joelho’ ‘voltar’
+
+[n] ocorre nos demais ambientes.
+
+(49) (a) /ˆin ti/ (b) /pa ni/ (c) /twan ti/ (d) /na mi/
+
+[ˆi)n » ti/] [pŒ ») ni/] [twŒ)n » te/] [na » mi/]
+
+‘coração’ ‘rede de dormir’ ‘remo’ ‘carne’
+
+Portanto, [¯], [N], [N] e [n] são variantes de um mesmo fonema, sendo, então, alofones do fonema /n/.
+3. [ß]e [S] são foneticamente semelhantes e ocorrem em distribuição complementar nos seguintes ambientes:
+[S] ocorre contíguo a vogais altas anteriores.
+
+25 Não encontramos outras ocorrências desse segmento na língua.
+
+63
+
+(50) (a) /fakißi/ (b) /ißin/ (c) /mißkiti/ (d) /ißkin/
+
+[faci » Si/] [i » Si]) [miSci » ti/] [iS » ci])
+
+‘noite’ ‘esteira’ ‘pedra’ ‘peixe’
+
+[ß] ocorre nos demais ambientes.
+
+(51) (a) /tawßˆ/ (b) /pußtu/ (c) /ßˆw/ (d) /ˆju # nißa/
+
+[taw » ßˆ/] [puß » to/] [ » ßˆw/] [ˆ » ju/ ni » ßa/]
+
+‘pescoço’ ‘barriga’ ‘verde’ ‘gaivota’
+
+Assim, [ß]e [S] são variantes de um mesmo fonema, sendo, portanto, alofones do fonema /ß/.26
+
+26 A decisão de que nesse caso de distribuição complementar a retroflexa [ß] é o fonema, enquanto a palatal [S] é um alofone desse fonema, baseia-se no critério de maior ocorrência desse segmento em relação à palatal [S]. Além disso, dados de outras línguas da família Pano, como do Arara (Cunha, 1993) e Katukina (Barros, 1987; Aguiar, 1994) também apontam [ß] como fonema.
+
+64
+
+No que diz respeito à oclusiva glotal [/], poderíamos dizer que a mesma seria alofone de vários (senão de todos) fonemas da língua Shanenawá, pois pode estar em distribuição complementar com qualquer um desses outros segmentos. Entretanto, levandose em consideração o critério da semelhança fonética, digamos que isso se dê com a fricativa, também glotal, [h], uma vez que [/] ocorre apenas em final de palavras precedida de vogais orais e glides, enquanto [h] ocorre nos demais ambientes, conforme observamos em (52: a-b):
+
+(52) (a) /fakˆhu/
+
+[fakˆ » hu/]
+
+‘menino’
+
+/nai/
+
+[na » i/]
+
+‘céu’
+
+(b) /huni/
+
+[hu » ni/]
+
+‘homem’
+
+/fu/
+
+[ » vu/]
+
+‘cabelo’
+
+Conforme demonstram os dados acima, se considerássemos [/] um alofone de /h/, isso implicaria que a fricativa glotal (ou outro fonema qualquer) deveria, em nível fonêmico, ser representada nos ambientes em que ocorreria a oclusiva glotal no nível fonético. Assim, os exemplos em (53: a-d) deveriam ter as seguintes representações fonológicas:
+
+(53) (a) /fakˆhuh/ (b) /naih/
+
+[fakˆ » hu/] [na » i/]
+
+‘menino’ ‘céu’
+
+65
+
+(c) /hunih/ (d) /fuh/
+
+[hu » nˆ/ ] [ » vu/]
+
+‘sim’ ‘cabelo’
+
+Entretanto, a ocorrência da oclusiva glotal [/] parece ser apenas uma implementação fonética e não tem relevância fonológica, pois observando os dados notamos que se manifesta sempre em posição final de sílaba e de palavra. A ocorrência de [/] fechando a sílaba de uma palavra ocorre inclusive em juntura de palavra como em compostos (ver p. 104). Assim, concluímos que a realização da oclusiva glotal [/] é previsível, não fazendo parte, portanto, do inventário fonêmico da língua.
+
+3.2.1.3. VARIAÇÃO LIVRE
+
+Abaixo relacionamos os pares de segmentos consonantais que ocorrem em variação livre em ambientes idênticos na língua Shanenawá, não causando alteração de significado.
+1. [R]e [d] ocorrem em variação livre em início de palavras. 27
+
+(54) (a) /Ru nu/ (b) /Rˆwˆ/
+
+[Ru » no/] ~ [Rˆ » wˆ/] ~
+
+[du » no/] [dˆ » wˆ/]
+
+‘cobra’ ‘machado’
+
+66
+
+(c) /Rˆwkin/ [Rˆw » ci]) ~
+
+[dˆw » ci)] ‘nariz’
+
+Logo, [R] e [d] são variantes de um mesmo fonema, sendo, portanto, alofones do fonema /R/.
+
+2. [f] e [v] ocorrem em variação livre em todas posições.28
+
+(55) (a) /fuRu/
+
+[fu » Ru/]
+
+~
+
+(b) /fa mu/ [fa » mu/] ~
+
+(c) /fa tSi/ [fa » tSi/]
+
+~
+
+(d) / fu/
+
+[ » fu/]
+
+~
+
+[vu » Ru/] [va » mu/] [va » tSi/] [ » vu/]
+
+‘olho’ ‘tatu queixada’ ‘ovo’ ‘cabelo’
+
+Desse modo, [f] e [v] são variantes de um mesmo fonema, sendo, portanto, alofones do fonema /f/.
+
+3. [w] e [B] ocorrem em variação livre antecedendo vogais centrais. 29
+
+(56) (a) /waßati/ [waßa » ti/] ~
+
+(b) /wasi/ [wa » si/] ~
+
+(c) /-wˆ/
+
+[-wˆ]
+
+~
+
+[Baßa » ti/] ‘faca’
+
+[Ba » si/]
+
+‘capim’
+
+[-Bˆ]
+
+‘marca de infinitivo’
+
+27 Observamos que a variante alofônica [d] tende a ser produzida pelos falantes mais jovens do que pelos
+mais idosos. Esse fato parece indicar que a língua está em processo de mudança fonológica. 28 Seguindo um critério de simetria na postulação de fonemas da língua selecionamos a fricativa lábio-dental
+surda [f] como fonema, visto que não existem fonemas sonoros na língua.
+
+67
+
+(d) /ˆwa/
+
+[ˆ » wa/]
+
+~
+
+[ˆ » Ba/]
+
+‘mãe’
+
+Dessa maneira, [w] e [B] são variantes de um mesmo fonema, sendo, portanto, alofones do fonema /w/.
+
+4. [j] e [dZ] ocorrem em variação livre em início de palavras. Observamos que a ocorrência da africada se limita aos dois exemplos abaixo. 30
+
+(57) (a) /juina/ [dZui) » na/] ~ (b) /juwiwˆ/ [dZuwi » wˆ/] ~
+
+[jui ») na/] ‘pássaro’ [juwi » wˆ/] ‘dizer’
+
+Dessa forma, [j] e [dZ] são variantes de um mesmo fonema, sendo, portanto, alofones do fonema /j/.31
+
+29 Cf. nota 27. 30 Cf. nota 27. 31 Em concordância com os princípios da análise fonêmica, estamos considerando os segmentos [w] e [j],
+conhecidos tradicionalmente como glides, como consoantes, podendo, por conseguinte, ocupar as posições
+de Onset e Coda da sílaba. Essa interpretação é dada a partir dos tipos silábicos evidenciados no Shanenawá.
+Contudo, as teorias fonológicas não-lineares assumem que essas aproximantes estão especificadas para os
+mesmos traços que as vogais altas /i/ e /u/ e a diferença entres eles estabelece-se segundo a função que
+ocupam na sílaba. Ver discussão sobre esse assunto no próximo capítulo (p. 84 e ss.).
+
+68
+
+3.2.1.4. QUADRO DE FONEMAS CONSONANTAIS
+
+OCLUSIVA NASAL TEPE
+FRICATIVA AFRICADA
+
+bilabial
+p
+
+lábiodental alveolar
+t
+
+álveopalatal retroflexo velar
+k
+
+m
+
+n
+
+R
+
+fs
+
+ß
+
+ts tS
+
+GLIDE
+
+palatal
+j
+
+glotal
+
+lábiovelar
+
+h w
+
+3.2.2. SEGMENTOS VOCÁLICOS
+A língua Shanenawá apresenta 4 fonemas vocálicos orais, conforme é evidenciado através da análise fonêmica feita obedecendo aos critérios descritos no início dessa seção.
+
+69
+
+3.2.2.1. CONTRASTE
+
+Abaixo relacionamos os pares de segmentos vocálicos que ocorrem em contraste em ambientes idênticos (CAI) ou em ambientes análogos (CAA), causando distinção de significado.
+
+1. /i/ e /ˆ/ são fonemas, pois ocorrem em CAA:
+
+(58) (a) /ßipi/ (b) /ßˆki/ (c) /ˆmi/ (d) /ˆnˆ/
+
+[Si » pi/] [ßˆ » ci/] [ˆ » mi/] [ˆ » nˆ/]
+
+‘banana’ ‘milho’ ‘sangue’ ‘água’
+
+Os fonemas /i/ e /ˆ/ ocorrem em sílaba inicial seguindo a fricativa retroflexa [ß], como vemos em (a, b); e em final de palavras seguindo consoantes nasais, conforme (c, d).
+
+2. /ˆ/ e /u/ são fonemas, pois ocorrem em CAA:
+
+(59) (a) /pˆstu/ (b) /pustu/ (c) /ßˆna/ (d) /tSuma/
+
+[pˆs » to/] [pus » tu/] [ßˆ » na/] [tSu » ma/]
+
+‘mutuca’ ‘barriga’ ‘ingá’ ‘cabaça’
+
+70
+
+Os fonemas /ˆ/ e /u/ ocorrem entre as consoantes [p] e [s] em sílaba inicial, como vemos em (a, b); e em sílaba inicial antes de consoantes nasais (c, d).
+
+3. /ˆ/ e /a/ são fonemas, pois ocorrem em CAI:
+
+(60) (a) /ˆnˆ/ (b) /ˆna/ (c) /afa/ (d) /ˆwa/
+
+[ˆ » nˆ/] [ˆ » na/] [a » fa/] [ˆ » Ba/]
+
+‘água’ ‘gaivota’ ‘anta’ ‘mãe’
+
+Os fonemas /ˆ/ e /a/ ocorrem em final de palavra após a consoante [n], como vemos em (a, b); e em início de palavra antes da consoante [v], conforme (c, d).
+
+3.2.2.2. DISTRIBUIÇÃO COMPLEMENTAR
+Os segmentos vocálicos nasalizados [i]) , [ˆ]) , [u]) e [Œ)] encontram-se em distribuição complementar com suas semelhantes orais, visto que [i)], [ˆ]) , [u]) e [Œ)] ocorrem antes de consoantes nasais, enquanto [i], [ˆ], [u] e [a] ocorrem nos demais ambientes, conforme indicam os dados ilustrados em (61) para as orais e (62) para as nasais, abaixo:
+
+71
+
+(61) (a) /fatSi/ (b) /tˆwßˆ/ (c) /kuku/ (d) /taRi/
+
+[fa » tSi/] [tˆw » ßˆ/] [qu » qu/] [ta » Ri/]
+
+‘ovo’ ‘pescoço’ ‘vaga-lume’ ‘roupa’
+
+(62) (a) /pahinki/ (b) /ˆna/ (c) /atuna/ (d) /fumana/
+
+[pahi¯) » ci/] [ˆ )» na/] [atu ») na/] [fumŒ) » na/]
+
+‘orelha’ ‘genitália masculina’ ‘canoas deles’ ‘testa’
+
+Logo, os pares de fones [i] e [i)], [ˆ] e [ˆ]) , [u] e [u)], [a] e [Œ)] são variantes, isto é, alofones dos fonemas /i/, /ˆ/, /u/ e /a/, respectivamente.
+
+Contudo, em nossas análises dos segmentos vocálicos do Shanenawá observamos, no nível fonético, a ocorrência de fones cuja nasalização não resulta do contato com consoantes nasais, como em (63):
+
+(63) (a) [dˆw » ci)] (b) [» ˆ]) (c) [ma » ßu])
+
+‘nariz’ ‘1ª pessoa singular’ ‘chifre’
+
+72
+
+(d) [» hŒ])
+
+‘sim’
+
+A interpretação desses dados e de outros será dada no próximo capítulo, na seção dedicada à nasalidade (cf. p. 109). Para o momento, assumimos que nessa língua as vogais são nasalizadas pelo contato com uma consoante nasal.
+
+3.2.2.3. VARIAÇÃO LIVRE
+
+1. [i] e [e] ocorrem em variação livre em sílaba final.
+
+(64) (a) /wati/ (b) /fusi/ (c) /saa # pai/ (d) /twati/
+
+[wa » ti/]
+
+~ [wa » te/]
+
+[fu » si/]
+
+~ [fu » se/]
+
+[sa»a/ # pa » i/] ~ [as » a/ pa » e/]
+
+[twa » ti/]
+
+~ [twa » te/]
+
+‘copo’ ‘lontra’ ‘sapinho’ ‘cana’
+
+Por conseguinte, [i] e [e] são variantes de um mesmo fonema, sendo, portanto, alofones do fonema /i/.
+2. [u] e [o] ocorrem em variação livre em posição inicial e não-inicial de palavras.
+
+73
+
+(65) (a) /jutSi/ [ju : tSi/]
+
+~
+
+(b) /pˆwnu/ [pˆw » nu/] ~
+
+(c) /kußuhi/ [qußu » hi/] ~
+
+(d) /pitSu/ [pi » tSu/]
+
+~
+
+[jo : tSi/] ‘pimenta’ [pˆw » no/] ‘veia’ [qußo » hi/] ‘tipo de marimbondo’ [pi » tSo/] ‘periquito’
+
+Assim, [u] e [ o] são variantes de um mesmo fonema, sendo, portanto, alofones do fonema /u/.
+
+3. [a] e [Q] ocorrem em variação livre fechando sílaba em final de palavra.
+
+(66) (a) /jumaj/
+
+[ju : maj/]
+
+~
+
+[ju £: mQj/]
+
+(b) /tSaj/
+
+[ » tSaj/]
+
+~
+
+[ » tSQ£j/]
+
+(c) /tSaj masta/ [ » tSa£j/ # mas » ta/] ~ [»tSQ£j/ # mas » ta/]
+
+‘onça’ ‘longe’ ‘perto’
+
+Portanto, [a] e [Q] são variantes de um mesmo fonema, sendo, então, alofones do fonema /a/.
+
+74
+
+3.2.2.4. QUADRO DE FONEMAS VOCÁLICOS
+
+ALTA-FECHADA BAIXA
+
+ANTERIOR
+
+CENTRAL
+
+NÃO-ARREDONDADA
+
+i
+
+ˆ
+
+a
+
+POSTERIOR ARREDONDADA
+u
+
+Tendo concluído a descrição fonética e fonêmica do sistema de sons do Shanenawá, passaremos a seguir a outras descrições. Estas, porém, serão dadas a partir das teorias fonológicas mais atuais, a saber, as fonologias não-lineares ou autossegmentais.
+
+75
+4. DESCRIÇÃO FONÉTICA E FONOLÓGICA DO SHANENAWÁ À LUZ DAS TEORIAS NÃO-LINEARES
+
+76
+4.1. NOTAÇÕES PRELIMINARES
+A partir de meados deste século surgiram várias teorias fonológicas com o objetivo de tentar explicitar a relação entre as realizações fonéticas e o nível abstrato da fonologia, bem como as relações entre esta e os demais componentes gramaticais.
+Segundo essas teorias, as unidades básicas da representação fonológica não são os fonemas, mas os traços que os caracterizam e os distinguem entre si. Assim, desde The Sound Pattern of English (Chomsky & Halle, 1968), trabalho considerado o paradigma da Fonologia Gerativa32, os segmentos são descritos e analisados enquanto combinações lineares ou conjuntos de traços distintivos em forma de matrizes, isto é, conjuntos ou feixes organizados desses traços.
+Posteriormente, Goldsmith (1976) observou que alguns traços têm, individualmente, seu próprio nível ou camada de “segmentalização”; que o número de autossegmentos pode não corresponder ao de fonemas presentes em determinada seqüência; e, ainda, que os autossegmentos estão ligados às suas unidades segmentais por meio de linhas de associação que devem obedecer à condição mínima de boa formação, isto é, o não cruzamento dessas linhas (Abaurre & Wetzels, 1992).
+Assim, a partir da observação de Goldsmith (op. cit.) surgiram, em oposição à Fonologia Gerativa Padrão, “sub-teorias” - dentre as quais citamos a Fonologia Métrica (Liberman & Prince, 1977; Hayes, 1983, 1995; Halle & Vergnaud, 1987), a Fonologia Prosódica (Selkirk, 1980; Nespor & Voegel, 1986) e a Fonologia Lexical (Mohanan, 1986;
+
+77
+Pulleyblank, 1986) - que buscaram oferecer um formalismo suficiente para a representação da sílaba, para a manipulação de fenômenos prosódicos como altura (pitch), duração e acento; e, ainda, que permitiram observar a interação entre morfologia e fonologia. Essas sub-teorias são consideradas, dentro de um quadro formal, uma teoria integrada denominada Fonologia Não-Linear ou Autossegmental.
+Visando à formalização do fato de que as unidades funcionais, ou seja, os grupos de traços geometricamente expressos como nós de classe ("class nodes") exibem um comportamento fonológico análogo aos dos traços, Clements (1985) e Clements & Hume (1995) desenvolveram uma representação arbórea dos segmentos denominada Geometria de Traços ("Feature-Geometry").
+O interessante nos modelos não-lineares é que a fonologia de uma língua aparece como uma organização em que os traços característicos dos fonemas estão dispostos hierarquicamente em diferentes níveis ou fileiras de camadas, podendo estender-se aquém ou além de um segmento, ou ligar-se a mais de uma unidade, bem como funcionar isoladamente ou em conjuntos isolados.
+Considerando, portanto, o menor nível de abstração das representações e a organização hierárquica dos segmentos, presentes na Fonologia Autossegmental ou NãoLinear, julgamos interessante tratarmos, nas seções subseqüentes, da estrutura silábica do Shanenawá, bem como de alguns processos fonológicos a partir de uma abordagem baseada nos aportes dessa teoria.
+32 Outros autores como Jakobson, Fant & Halle (1965); Jakobson & Halle (1965) também já haviam postulado que os segmentos seriam constituídos por traços.
+
+78
+
+4.2. A ESTRUTURA SILÁBICA
+
+Segundo estudos fonológicos não-lineares, a sílaba é uma estrutura constituída
+
+hierarquicamente por um elemento opcional, denominado Onset, e por outro obrigatório,
+
+denominado Rima. Este último se subdivide em um Núcleo, que também é obrigatório, e uma Coda que, por sua vez, é opcional 33. Também estabelece que os constituintes da sílaba
+
+não estão diretamente ligados à melodia segmental, ou seja, há entre eles uma camada
+
+denominada esqueleto, constituída por posições X’s (ou unidades de tempo). E, finalmente,
+
+os segmentos ligados às posições X’s são estruturados, em termos de traços, de acordo com
+
+o estabelecido por Clements & Hume (1995). Assim, uma palavra monossilábica do
+
+Português como “paz”, por exemplo, pode ser representada, conforme o esquema abaixo:
+
+(1)
+
+σ
+
+/\
+
+OR
+
+/\
+
+N Co
+
+||
+
+xxx
+
+|||
+
+rrr
+
+/p/ /a/ /s/
+
+< paz > 34
+
+33 A definição de sílaba como uma estrutura constituída por um onset, um peak (ou núcleo) e uma coda já havia sido considerada anteriormente pela Fonêmica (Pike, 1967). A Fonologia Não-Linear veio, portanto, apenas sistematizar de uma forma mais clara essa definição, em termos de hierarquia dos elementos que a constituem, já que a definição fonêmica não reconhece o núcleo e a coda como elementos subordinados à rima, conforme o exemplo da palavra monossilábica “mês” do Português, na figura abaixo:
+
+onset peak coda
+
+_____
+
+____/
+
+\____
+
+/m/ /e/ /s/ <mês>
+
+34 Por questões práticas, não representaremos, nesse esquema, a geometria dos traços dos segmentos, mas apenas os fonemas.
+
+79
+
+4.2.1. OS TIPOS SILÁBICOS DO SHANENAWÁ
+No nível fonológico da língua Shanenawá encontramos 4 tipos silábicos: V, VC, CV e CVC, os quais podem ser resumidos na fórmula básica (C) V (C). Abaixo seguem exemplos para cada um desses tipos silábicos:
+
+-V(2) (a) /i.u.a .pa/
+(b) /na.i/ (c) /ˆ.u. ˆ/ (d) /ˆ.pa/ (e) /ta.u.ßˆ/ (f) /u.kun/ (g) /a.na/ (h) /a.ßu.a/
+
+‘grande’ ‘céu’ ‘chuva’ ‘pai’ ‘ombro’ ‘embaúba’ ‘língua’ ‘boca’
+
+V. V. V. CV CV . V V. V . V V . CV CV .V. CV V . CVC V . CV V . CV . V
+
+- VC (3) (a) /tu.an.ti/
+(b) /tˆ. us.tu/ (c) /tˆ. us.pi/
+
+‘remo’ ‘papo’ ‘verruga’
+
+CV. VC . CV CV. VC . CV CV. VC . CV
+
+- CV -
+
+80
+
+(4) (a) /pus.tu/ (b) /ma.ka/ (c) /ni.fu/ (d) /nˆ.mˆ/ (e) /Rˆ.nu/ (f) /si.ku/ (g) /ßa.fa/ (h) /hu.ni/ (i) /ma.tsi/ (j) /ma.tSi/
+- CVC (5) (a) /Rˆ.kin/
+(b) /Ra.tun.ku/
+(c) /pus.tu/
+(d) /mis.ti/ (e) /huß.pi/ (f) /muß.ki.ti/
+
+‘barriga’ ‘rato’ ‘vento’ ‘saliva’ ‘cobra’ ‘estreito’ ‘dia’ ‘homem’ ‘gelo’ ‘morro’
+
+CVC . CV CV . CV CV . CV
+CV . CV CV . CV CV . CV CV . CV CV . CV CV . CV CV . CV
+
+‘nariz’ ‘joelho’ ‘barriga’ ‘lenha’ ‘sobrancelhas’ ‘anzol’
+
+CV. CVC CV . CVC . CV CVC . CV CVC . CV CVC . CV CVC . CV . CV
+
+Assim, podemos dizer que na língua Shanenawá há sílabas compostas por Núcleo apenas (V), por Núcleo e Coda (VC), por Onset e Núcleo (VC) e, ainda, por Onset, Núcleo e Coda (CVC).
+4.2.1.1. A CONSTITUIÇÃO INTERNA DOS TIPOS SILÁBICOS
+
+81
+
+No que diz respeito à constituição interna dos tipos silábicos, qualquer um dos fonemas vocálicos da língua pode ocupar a posição de Núcleo, como em (6) abaixo:
+
+(6)
+
+σ
+
+O
+
+R
+
+/\
+
+N Co
+
+||
+
+x xx
+
+/i/ /ˆ/
+
+/u/
+
+/a/
+
+Quanto à posição Onset, todos os fonemas consonantais da língua, exceto os glides35, podem ocupá-la. Já a ocupação da Coda se restringe às fricativas alveolar [s] e retroflexa [ß] em posição não final de palavras, e à oclusiva nasal [n]
+em posição final e interna de palavras. Em (7) e (8: a, b) ilustramos a ocupação do Onset e da Coda, respectivamente:
+
+(7)
+
+σ
+
+O
+
+R
+
+/\
+
+N Co
+
+||
+
+x xx
+
+/p/
+
+/t/
+
+/k/
+
+/m/
+
+/n/ /R/
+
+/f/
+
+/s/ /ß/
+
+/h/
+
+/ts/ /tS/
+
+35 Foneticamente, na posição Onset podem ocorrer os glides [w] e [j], porém assumimos que eles são manifestações superficiais das vogais altas /u/ e/i/ respectivamente (cf. p. 86)
+
+82
+
+(8) (a)
+
+σ
+
+O
+
+R
+
+/\
+
+N Co
+
+||
+
+xx
+
+||
+
+rr
+
+/n/
+
+/s/ /ß/
+
+CODA INTERNA
+
+(b)
+
+σ
+
+O
+
+R
+
+/\
+
+N Co
+
+||
+
+xx
+
+||
+
+rr
+
+/n/
+
+CODA FINAL
+
+4.3. OS GLIDES LABIAL [W] E PALATAL [J]
+
+Na análise fonêmica do Shanenawá reconhecemos os segmentos labial [w] e palatal [j] como fonemas (cf. p. 68-69). Entretanto, seguindo orientações das teorias fonológicas mais atuais, questionamos se de fato [w] e [j] figuram na estrutura de base da língua como fonemas consonantais ou se apenas aparecem na estrutura superficial como realizações fonéticas de suas correspondentes vogais altas posterior /u/ e anterior /i/.
+Uma forma de resolver essa questão é tratarmos desses segmentos enquanto constituintes da sílaba, visto que, segundo as teorias não-lineares, a diferença entre os segmentos [-cons] (glides e vogais) é estabelecida estritamente em função da estrutura da sílaba de cada língua. Assim, se o segmento ocupar a posição de Núcleo, será interpretado como vogal; mas, se ocupar as posições marginais de Onset ou Coda, será interpretado como glide (Kaye & Lowenstamm, 1981; Selkirk, 1982).
+
+83
+
+A teoria não-linear da estrutura silábica estabelece, ainda, que segmentos [-cons] podem ser combinados tanto numa seqüência de Onset-Núcleo (9a) quanto numa seqüência de Núcleo-Coda (9b):
+
+(9) (a) σ
+
+O
+
+R
+
+N Co | xx || [-cons] [-cons]
+
+COMBINAÇÃO: GLIDE-VOGAL
+
+(b)
+
+σ
+
+O
+
+R
+
+N Co
+
+|
+
+|
+
+xx
+
+|
+
+|
+
+[-cons] [-cons]
+
+COMBINAÇÃO: VOGAL-GLIDE
+
+É possível também que seqüências desse tipo ocupem uma mesma posição nuclear. Nesse caso, tais segmentos podem ocupar duas unidades de tempo, como em (10a), ou apenas uma unidade temporal, como em (10b)36:
+
+(10)
+
+(a) R
+
+|
+
+N
+
+x
+
+x
+
+|
+
+|
+
+[-cons] [-cons]
+
+(b)
+
+R
+
+|
+
+N
+
+|
+
+x
+
+[-cons] [-cons]
+
+Assim, tomando como base esses princípios teóricos, passaremos a seguir às análises das seqüências de segmentos [-cons] que ocorrem na língua Shanenawá.
+36 Essas duas posições estão relacionadas a ditongos e ocorrem em muitas línguas. Em (10a) tem-se um ditongo pesado, cuja posição mais à esquerda é ocupada por segmento com menos sonoridade. Em (10b) tem-
+
+84
+
+4.3.1. AS SEQÜÊNCIAS
+
+w
+V
+j
+
+Um fenômeno comum em várias línguas do mundo é o fato de as vogais altas /i/ e /u/, quando antecedendo outro segmento vocálico, terem sua duração e intensidade reduzidas na fala coloquial, sendo, geralmente, percebidas como constituintes da mesma sílaba da vogal que antecedem (Mateus & Andrade, 1998). Nesse caso, encontros vocálicos como ui, uˆ, ua e iu, iˆ, ia ocupam uma mesma Rima, formando Núcleos complexos e são interpretados, portanto, como ditongos.
+Contudo, esse mesmo fenômeno, em consonância com a pressão estrutural do tipo silábico da língua, pode fazer com que /u/ e /i/ se convertam em glides e que ocorram na posição de Onset na fonética. Isso é o que parece dar-se na língua Shanenawá, conforme ilustram os exemplos em (11) abaixo:
+
+(11) (a) [wa. » si/]
+
+‘capim’
+
+(b) [a. ja. » wˆ/]
+
+‘beber’
+
+(c) [su. » ja/]
+
+‘rato’
+
+(d) [ju. a » pa/]‘grande’
+
+[CV . CVC] [V. CV. CVC] [CV.CVC] [CV . V .CVC]
+
+se um ditongo leve em que, de modo contrário, o segmento com menos sonoridade ocupa a posição mais à direita.
+
+85
+
+Em (11) observamos a presença de w e j nas posições não nucleares da sílaba. Esses segmentos seriam, na realidade, manifestações fonéticas dos fonemas vocálicos /u/ e /i/, respectivamente. Dessa forma, essas vogais altas, originalmente ligadas a um só tempo X, precisam ser licenciadas foneticamente. Daí se ligam à posição de Onset da sílaba seguinte que se encontra vazia e, para se manifestarem como Onset dessa sílaba, sofrem um processo de consoantização passando a se realizarem como glides. Então, de acordo com essa interpretação, palavras como as exemplificadas em (11a) e (11c) acima, teriam as seguintes derivações:
+
+(12) (a)
+
+σσ
+
+σ
+
+σ
+
+/\ /\
+
+/\
+
+/\
+
+OR OR
+
+O R OR
+
+|
+
+|
+
+|
+
+|
+
+N
+
+N
+
+=>
+
+N
+
+N
+
+=>
+
+|
+
+|
+
+|
+
+|
+
+x
+
+x xx
+
+x
+
+x xx
+
+|
+
+| ||
+
+|
+
+| ||
+
+u
+
+asi
+
+REPRESENTAÇÃO FONOLÓGICA
+
+u a si
+ASSOCIAÇÃO AO ONSET DA SÍLABA SEGUINTE
+
+σ /\ OR
+|
+
+σ /\ OR
+|
+
+N
+
+N
+
+||
+
+xx x x
+
+|| | |
+
+wa s i
+
+CONSOANTIZAÇÃO
+
+=>
+|
+INSERÇÃO DE [/]
+
+σ /\ OR
+|
+
+σ /\ OR /\
+
+N
+xx ||
+wa
+
+N Co
+|| xx x |||
+si /
+
+REPRESENTAÇÃO FONÉTICA
+
+[wa » si/] ‘capim’
+
+86
+
+(12) (b) σ
+
+σ
+
+σ
+
+σ
+
+/\
+
+/\
+
+/\
+
+/\
+
+OR
+
+OR
+
+OR
+
+OR
+
+|
+
+|
+
+|
+
+|
+
+N
+
+N
+
+=>
+
+N
+
+N
+
+|
+
+|
+
+|
+
+|
+
+xxx
+
+x
+
+xx x
+
+x
+
+|| |
+
+|
+
+|| |
+
+|
+
+su i
+
+a
+
+su i
+
+a
+
+REPRESENTAÇÃO FONOLÓGICA
+
+ASSOCIAÇÃO AO ONSET DA SÍLABA SEGUINTE
+
+σ /\ OR
+|
+N | xx ||
+su
+
+σ /\ OR
+|
+N | xx ||
+ja
+
+CONSOANTIZAÇÃO
+
+=>
+INSERÇÃO DE [/]
+
+σ /\ OR
+|
+
+σ /\ OR /\
+
+N | xx ||
+su
+
+N Co
+|| xx x |||
+ja/
+
+REPRESENTAÇÃO FONÉTICA
+
+[su » ja/] ‘rato’
+
+w
+
+4.3.2. AS SEQÜÊNCIAS C
+
+V
+
+j
+
+Um outro caso que encontramos nos dados do Shanenawá é a co-ocorrência de seqüências cujo primeiro segmento é uma obstruinte e o segundo, um glide, ou seja, seqüências do tipo [...CwV...] ou [...CjV...], como nos exemplos em (13):
+
+(13) (a) [a.» ßwa/] (b) [twŒ)n.» ti/] (c) [tjus.» tu/]
+
+‘boca’ ‘remo’ ‘papo’
+
+[V . CwVC] [CwVC . CVC] [CjVC . CVC]
+
+87
+
+(d) [pja.kŒ).na.» ti/] ‘arco’
+
+[CjV . CV . CV . CVC]
+
+Considerando os dados em (13), levantamos duas possíveis hipóteses para explicar o comportamento de [w] e [j] nesses tipos silábicos: 1) tais segmentos exercem de fato a função de consoantes na representação fonológica, ou seja, são fonemas; 2) w e j são manifestações fonéticas, isto é, alofones das vogais altas posterior /u/ e anterior /i/, respectivamente, tal como assumimos na seção anterior (cf. 12: a, b).
+Se aceitássemos a primeira hipótese deveríamos assumir, então, que existem grupos consonânticos na posição de Onset nessa língua. Assim, palavras como [a»ßwa/] ‘boca’ e [pja»ka/] ‘flecha’ deveriam ser representadas, na estrutura profunda, conforme (14: a, b), abaixo:
+
+(14) (a) (b)
+
+σ
+
+σ
+
+|
+
+R
+
+OR
+
+|
+
+|
+
+N
+
+N
+
+|
+
+|
+
+x
+
+x xx
+
+|
+
+| ||
+
+a
+
+ß wa
+
+σ
+OR | N |
+xx x | ||
+p ja
+
+σ
+
+OR
+
+|
+
+N
+
+|
+
+x
+
+x
+
+|
+
+|
+
+ka
+
+/a.ßwa/ ‘boca’ /pja.ka/ ‘flecha’
+
+A segunda hipótese levar-nos-ia a reconhecer estruturas fonológicas como em (15a) e (15 b) para as palavras [a»ßwa/] e [pja»ka/]:
+
+88
+
+(15) (a) σ
+| R | N | x |
+a
+
+σ
+
+σ
+
+|
+
+OR R
+
+|
+
+|
+
+NN
+
+|
+
+|
+
+xxx
+
+|
+
+|
+
+|
+
+ßua
+
+(b)
+
+σ
+
+σ
+
+|
+
+OR
+
+R
+
+|
+
+|
+
+N
+
+N
+
+|
+
+|
+
+xx
+
+x
+
+|
+
+|
+
+|
+
+pi
+
+a
+
+σ
+
+OR
+
+|
+
+N
+
+|
+
+xx
+
+|
+
+|
+
+ka
+
+/a .ßu.a/ /pi.a .ka/
+
+Dessa forma, as palavras acima são formadas por três núcleos na estrutura
+
+fonológica, porém, foneticamente realizam-se apenas com duas Rimas. O que ocorre é que
+
+na fala casual as vogais altas /i/ e /u/, quando se encontram em posição C__V, em que V é
+
+diferente de /u/ e /i/, desligam-se de sua posição de Núcleo para associar-se à consoante
+
+precedente. Desse modo, sofrem um processo de consoantização e disso resulta a formação
+
+de um tipo de “clusters” (Cw ou Cj) em posição de Onset. Uma conseqüência disso é que a
+
+vogal seguinte desliga-se de sua posição nuclear original para ir ocupar a Rima da sílaba
+
+precedente, que após o referido processo, ficou vaga. Ter-se-ia, então, para (15a) a seguinte
+
+derivação em (16):
+
+(16) (a) σ σ σ
+
+| /\ |
+
+R OR R
+
+|
+
+||
+
+N
+
+NN
+
+(b) σ
+
+σσ
+
+| /\ |
+
+R O RR
+
+|
+
+||
+
+=> N
+
+NN
+
+(c) σ σ σ
+
+| /\ |
+
+RORR
+
+|
+
+||
+
+=> N
+
+NN
+
+89
+
+|
+
+||
+
+xxxx
+
+||| |
+aßua
+
+REPRESENTAÇÃO FONOLÓGICA
+
+|
+
+||
+
+xxx x
+
+||||
+aßua
+
+DESLIGAMENTO DE /u/
+
+|
+
+|
+
+xx xx
+
+| | ||
+a ßua
+
+ASSOCIAÇÃO AO ONSET PRECEDENTE
+
+(d) σ σ σ | /\ |
+
+RO R R
+
+|
+
+||
+
+=> N N N
+
+|
+
+|
+
+xx x
+
+x
+
+|| |
+
+|
+
+aß w a
+
+CONSOANTIZAÇÃO DE /u/
+
+(e) σ σ
+
+σ
+
+| /\
+
+|
+
+RO R R
+
+|
+
+||
+
+=> N
+
+NN
+
+|
+
+|
+
+xx x
+
+x
+
+|| |
+
+|
+
+aßw a
+
+DESLIGAMENTO DE /a/
+
+(f) σ σ
+
+σ
+
+| /\
+
+|
+
+R OR R
+
+|
+
+||
+
+=> N
+
+NN
+
+|
+
+|
+
+x xx
+
+x
+
+| ||
+
+|
+
+a ßw
+
+a
+
+ASSOCIAÇÃO AO NÚCLEO PRECEDENTE
+
+(g) σ
+
+σ
+
+|
+
+/\
+
+R OR
+
+|
+
+|
+
+=>
+
+N
+
+N
+
+|
+
+|
+
+x xx x
+
+||||
+a ßw a
+
+INSERÇÃO DE [ /]
+
+(h) σ σ
+
+| /\
+
+RO R
+
+|
+
+/\
+
+=>
+
+N
+
+NC
+
+|
+
+||
+
+x x xx x
+
+| | || |
+a ß wa /
+
+DERIVAÇÃO FONÉTICA
+
+Os dados de que dispomos revelam-nos que não há Onsets ramificados, ou seja,
+
+Onsets compostos por duas consoantes, nessa língua, o que pode ser evidenciado pelas
+
+seqüências que não causam ambigüidade em sua interpretação, isto é, aquelas do tipo
+
+CV(C), tais como as que ilustramos em (17):
+
+(17) (a) /Rˆ.nu/
+
+‘cobra’
+
+CV . CV
+
+(b) /ßa.fa/
+
+‘dia’
+
+CV . CV
+
+(c) /Ra.tun.ku/
+
+‘joelho’
+
+CV . CVC . CV
+
+90
+
+(d) /pus.tu/
+
+‘barriga’
+
+CVC . CV
+
+Além disso, observamos que os falantes nativos da língua, ao produzirem pausadamente palavras como as que aparecem em (13), percebem (interpretam) as aproximantes [w] e [j] como Núcleos silábicos. Aliás, esse seria outro argumento contra uma interpretação de que os segmentos [w] e [j], nas seqüências CwV e CjV, formariam Onsets ramificados.
+Em suma, no nível fonético, as vogais altas /i/ e /u/ atualizam-se como “glides consonantais” quando as mesmas ocorrem antes de outras vogais. Em vista desse fato, esses segmentos ocupam a posição de Onset em co-ocorrência com uma obstruinte, criando Onsets ramificados na emissão fonética. Assim, na estrutura de base as ocorrências exemplificadas em (13: a-d) serão silabificadas como:
+
+NÍVEL FONOLÓGICO
+(18) (a) /tu.an.ti/
+CV.VC.CV
+(b) /a.ßu.a/
+V.CV.V
+(c) /ti.us.tu/
+CV.VC.CV
+(d) /pi.a.ka.na.ti/
+CV.V.CV.CV.CV
+
+NÍVEL FONÉTICO
+[twŒ)n.» ti/]
+CCVC.CVC
+
+‘remo’
+
+[a.» ßwa/]
+V.CCVC
+
+‘boca’
+
+[tjus.» tu/]
+CCVC.CVC
+
+‘papo’
+
+[pja.ka.na.» ti/] ‘arco’
+CCV.CV.CV.CVC
+
+91
+Por outro lado, poder-se-ia assumir que as seqüências CwV e CjV formam unidades monofonemáticas do tipo /tW/, /tJ/, /ßW/, /pJ/, ou seja, fonemas com articulação secundária. Contudo, não há evidências no sistema da língua Shanenawá para essa interpretação, pelo contrário, o fato de que os falantes produzem (pausadamente) dois núcleos distintos em seqüências desse tipo, como dissemos anteriormente, é uma evidência contra essa interpretação.
+4.3.3. AS VARIAÇÕES LIVRES: [w] e [B]; [j] e [dZ]
+No capítulo anterior (cf. p. 68-69), ao fazermos a análise dos fones da língua Shanenawá, segundo os moldes da fonêmica clássica, descrevemos as variações livres entre os pares de segmentos: [w] e [B], [j] e [dZ], como exemplificado em (56: a-d) e (57: a-b), respectivamente.
+Naquela descrição, [w] e [B] aparecem como alofones de /w/; e [j] e [dZ], como alofones de /j/, ou seja, no nível fonêmico, [w] e [j] são fonemas consonantais. Contudo, neste capítulo, assumimos que os referidos segmentos são apenas realizações fonéticas das correspondentes vogais altas /u/ e /i/. Isso implica considerar, então, que as referidas variações livres devem ser o resultado de detalhes fonéticos bem superficiais. Isto é, em princípio, na base, estariam as vogais altas /u/ e /i/, num segundo momento, isto é, após o processo de silabificação essas vogais ocorreriam como aproximantes ocupando as posições de Onset e Coda no nível fonético; e num terceiro momento, operaria um processo
+
+92
+
+de reforço dos glides, as quais passariam a ocorrer como verdadeiras consoantes, resultando, então, nas variações livres entre [w] e [B] e entre [j] e [dZ]. Em (19) e (20) ilustramos as derivações que ocorrem com seqüências do tipo [wa] e [ju], respectivamente:
+
+(19) (a) σ
+/\ OR
+|
+
+N
+
+|
+
+x
+
+x
+
+|
+
+|
+
+u /a/
+
+σ
+
+/\ OR
+|
+
+=>
+
+N
+
+|
+
+x
+
+x
+
+|
+
+|
+
+/u/
+
+/a/
+
+CONSOANTIZAÇÃO
+
+REPRESENTAÇÃO FONOLÓGICA
+
+σ
+
+σ
+
+/\
+
+/\
+
+OR
+
+OR
+
+|
+
+|
+
+=>
+
+N
+
+=>
+
+N
+
+|
+
+|
+
+xx
+
+xx
+
+||
+[w] [a]
+
+||
+[B] [a]
+
+FRICATIVIZAÇÃO DE [W]
+
+REPRESENTAÇÃO FONÉTICA (i)
+
+REPRESENTAÇÃO FONÉTICA (ii)
+
+(19) (b) σ
+/\ OR
+|
+
+N
+
+|
+
+x
+
+x
+
+|
+
+|
+
+i /u/
+
+=>
+x |
+/i/
+
+REPRESENTAÇÃO FONOLÓGICA
+
+σ /\ OR
+|
+N =>
+| x |
+/u/
+
+σ /\ OR
+|
+N | xx ||
+[j] [u]
+
+σ
+
+/\
+
+OR
+
+|
+
+=>
+
+N
+
+|
+
+xx
+
+||
+[dZ] [u]
+
+CONSOANTIZAÇÃO
+
+AFRICATIVIZAÇÃO DE [j]
+
+REPRESENTAÇÃO FONÉTICA (i)
+
+REPRESENTAÇÃO FONÉTICA (ii)
+
+Com isso, concluímos as seções elaboradas com o objetivo de tratar das seqüências wV e jV. A seção seguinte tratará das versões inversas dessas seqüências.
+w
+4.3.4. SEQÜÊNCIAS V
+
+93
+
+j
+Semelhante ao que ocorre com os segmentos [-cons] associados à posição de Onset, poderíamos assumir que as vogais altas /u/ e /i/ precedidas por outras vogais também se convertem em glides consonantais em posição de Coda, conforme é exemplificado em (20):
+
+(20) (a) [taw » ßˆ/] (b) [maj » ti/] (c) [pˆw » tSi/] (d) [nˆj » Bu/]
+
+‘ombro’ ‘chapéu’ ‘costas’ ‘vento’
+
+[CVC . CVC] [CVC. CVC] [CVC . CVC] [CVC. CVC]
+
+Assim, palavras como (20a) e (20b), acima, terão derivações como em (21a) e (21b), respectivamente:
+
+(21)
+
+(a) σ
+/\ OR
+|
+
+σ /\ OR
+|
+
+N
+
+N
+
+|
+
+|
+
+x x xx x
+
+|| || |
+t a uß ˆ
+
+REPRESENTAÇÃO FONOLÓGICA
+
+σ
+
+σ
+
+/\
+
+/\
+
+OR
+
+OR
+
+/
+
+|
+
+=>
+
+N
+
+N
+
+=>
+
+|
+
+|
+
+xx x x x
+
+|| | ||
+ta u ßˆ
+
+ASSOCIAÇÃO À RIMA PRECEDENTE
+
+σ
+
+σ
+
+σ
+
+σ
+
+/\
+
+/\
+
+/\
+
+/\
+
+O R OR
+
+O R OR
+
+/\
+
+|
+
+/\
+
+|
+
+N Co N =>
+
+N Co
+
+N
+
+||
+
+|
+
+||
+
+|
+
+x xxx x
+
+xx x x x
+
+| || | |
+t au ß ˆ
+
+|| | | |
+ta w ß ˆ
+
+CONSOANTIZAÇÃO
+
+σ
+
+/\ /
+
+OR
+
+/\
+
+=>
+
+N Co
+
+||
+
+xx x
+
+|||
+
+taw
+
+INSERÇÃO DE [/]
+
+σ \
+OR /\
+N Co || xx x || |
+ßˆ /
+
+94
+
+REPRESENTAÇÃO FONÉTICA
+[taw » ßˆ/] ‘ombro’
+
+(21)
+
+(b) σ
+/\ OR
+|
+
+σ /\ OR
+|
+
+N
+
+N
+
+|
+
+|
+
+x x xx x
+
+|| || |
+
+ma i t i
+
+REPRESENTAÇÃO FONOLÓGICA
+
+σ
+
+σ
+
+/\
+
+/\
+
+OR
+
+OR
+
+/
+
+|
+
+=>
+
+N
+
+N
+
+=>
+
+|
+
+|
+
+xx x x x
+
+|| | ||
+
+ma i t i
+ASSOCIAÇÃO À RIMA PRECEDENTE
+
+σ
+
+σ
+
+σ
+
+σ
+
+/\
+
+/\
+
+/\
+
+/\
+
+O R OR
+
+O R OR
+
+/\
+
+|
+
+/\
+
+|
+
+N Co N =>
+
+N Co
+
+N
+
+||
+
+|
+
+||
+
+|
+
+x xxx x
+
+xx x x x
+
+| || | |
+
+|| | | |
+
+m ai t i
+
+ma j t i
+
+CONSOANTIZAÇÃO
+
+σ
+
+σ
+
+/\ /\
+
+OR
+
+OR
+
+/\
+
+/\
+
+=>
+
+N Co
+
+N Co
+
+||
+
+||
+
+xx x
+
+xx x
+
+|||
+maj
+
+|| |
+ti /
+
+INSERÇÃO DE [/]
+
+REPRESENTAÇÃO FONÉTICA
+[maj » ti/] ‘chapéu’
+
+É preciso, entretanto, averiguarmos alguns casos como os exemplificados em (22):
+
+(22) (a) [» paw/]
+
+‘brinco’
+
+(b) [» saw/]
+
+‘osso’
+
+(c) [» tSQj/]
+
+‘primo’
+
+(d) [watu # na » kaj/] ‘aqueles’
+
+[CVCC] [CVCC] [CVCC] [CV.CV.CV.CVCC]
+
+Nesses exemplos observamos a co-ocorrência de [...w/] e [...j/], o que poderia ser
+
+interpretado como Coda complexa, ou seja, uma estrutura tal como:
+
+σ
+
+95
+
+OR
+N Co | xxx ||
+w
+/
+j
+Dessa forma, palavras como [ » paw/] e [ » tSQj/] seriam representadas como em
+(23a) e (23 b):
+
+(23) (a) σ
+
+σ
+
+/\
+
+/\
+
+OR
+
+OR
+
+|
+
+|
+
+N
+
+=>
+
+N =>
+
+| xx x || |
+
+| xx x || |
+
+pa u
+
+pa u
+
+ASSOCIAÇÃO À RIMA PRECEDENTE REPRESENTAÇÃO FONOLÓGICA FONÉTICA
+
+σ /\
+OR /\
+N Co =>
+|| xx x |||
+paw
+CONSOANTIZAÇÃO
+
+σ /\
+OR /\
+N Co
+| /\ xx x x || | |
+pa w/
+INSERÇÃO DE [/] REPRESENTAÇÃO
+
+(23) (b) σ
+/\ OR
+|
+N | x xx /\ | |
+
+σ
+
+/\
+
+OR
+
+|
+
+=>
+
+N =>
+
+|
+
+xx x
+
+/\ | |
+
+σ /\
+OR /\
+N Co =>
+|| xx x /\ | |
+
+σ /\
+OR /\
+N Co | /\
+xx xx /\ | | |
+
+96
+
+tS a i 37
+
+tS a j
+
+ASSOCIAÇÃO À RIMA PRECEDENTE REPRESENTAÇÃO FONOLÓGICA
+
+tS Q j
+CONSOANTIZAÇÃO
+
+tS Q j /
+INSERÇÃO DE [/]
+REPRESENTAÇÃO FONÉTICA
+
+Contudo, como já explicitamos no capítulo anterior (cf. p. 65-67), o estatuto da glotal [/] é estritamente fonético, visto que sua ocorrência é predizível, isto é, manifesta-se sempre em final de palavra e apenas após vogal. Somando a este último fato a constatação de que no Shanenawá não há Coda complexa, podemos concluir que os segmentos w e j, que na estrutura fonética ocupam a posição de Coda, seriam vogais na estrutura fonológica e estariam ligadas ao constituinte Núcleo da sílaba, formando, assim, uma espécie de ditongo pesado. Por outro lado, se de fato w e j fossem consoantes verdadeiras, não seria permitida a inserção da glotal [/] em posição de Coda, já que isso violaria o padrão silábico da língua. Desse modo, uma emissão fonética como [»paw/] terá a seguinte derivação:
+
+37 Clements e Hume (1995) propõem, diferentemente do modelo SPE, um sistema de traços distintivos no
+qual um segmento africado é considerado complexo, uma vez que possui duas raízes, ou seja, é caracterizado
+por dois traços articuladores distintos, tratando-se, portanto de um segmento com constrições simultâneas e de contorno. Daí essa representação para a africada /tS/.
+
+97
+
+(24) σ
+
+σ
+
+/\
+
+/\
+
+/\
+
+OR
+
+OR
+
+|
+
+|
+
+N
+
+=>
+
+N
+
+=>
+
+| xx x || |
+
+|
+
+xx x
+
+||
+
+|
+
+pa u
+
+pa u
+
+REPRESENTAÇÃO FONOLÓGICA
+
+ASSOCIAÇÃO AO NÚCLEO PRECEDENTE (DITONGAÇÃO)
+
+σ
+OR |
+N /\ xx x || |
+pa u
+
+σ
+/\ OR
+
+=>
+| ||
+
+N Co
+/\ | x xx x
+|
+p aw /
+
+INSERÇÃO DE [/] REPRESENTAÇÃO FONÉTICA
+
+4.3.5. A RESSILABIFICAÇÃO
+
+Em Shanenawá ocorrem ressilabificações em fronteira de palavras e desses processos resultam os fenômenos de elisão e de ditongação. A elisão afeta um dos segmentos de uma seqüência de vogais idênticas que se ligam para compor palavras como:
+
+(25) (a) iuRá # amihú
+
+=>
+
+V.V.CV # V.CV.CV
+
+=>
+
+índio
+
+mulher
+
+(b) ifí # itSapá
+
+=>
+
+V.CV # V.CV.CV
+
+=>
+
+pau
+
+muito
+
+(c) ifí # iuapa # mastá =>
+V.CV # V.V.V.CV.CVC.CV =>
+pau diminutivo
+
+(d) mí # iuRá
+
+=>
+
+CV # V.V.CV
+
+=>
+
+poss. 2ps. gente
+
+[juRami » hu/]
+[CV.CV.CV.CVC]
+
+‘índia’
+
+[ifitSa » pa/] [V.CV.CV.CVC]
+
+‘tábua’
+
+[ifiwa » pa # mas » ta/] ‘pauzinho’
+[V.CVC.V.CV.CVC.CVC]
+
+[miw » Ra/]
+[CVC.CVC]
+
+‘parente’
+
+98
+
+Como mostram os dados em (25), o encontro de duas vogais em fronteira de palavra ocasiona o apagamento daquela que se encontra à direita na seqüência. Esse fato deve ser interpretado como uma estratégia que a língua Shanenawá emprega para não violar o Princípio do Contorno Obrigatório (PCO), segundo o qual elementos adjacentes idênticos são proibidos (McCarthy, 1986).
+Em (26), abaixo, apresentamos exemplos mostrando que o encontro de dois núcleos produz a ditongação:
+
+(26) (a) muRú # itSapá
+CV.CV # V.CV.CV farinha muito
+
+=> [muRujtSa » pa/] => [CV.CVj.CV.CVC]
+
+‘beju’
+
+(b) faRí # unatí
+
+CV.CV # V.CV.CV
+
+sol
+
+marcador
+
+=> [faRiwna » ti/]
+
+‘relógio’
+
+=> [CV.CVw.CV.CVC]
+
+(c) Raiusí # amihú => [Rajusjami » hu/] ‘sogra’
+
+CV.V.V.CV # V.CV.CV => [CV.CV.CjV.CV.CVC]
+
+sogro
+
+mulher
+
+(d) famú # amí
+CV.CV # V.CV porco feminino
+
+=> [famwa » mi/] => [CV.CwV.CVC]
+
+‘porca’
+
+Como podemos observar, nos dois primeiros exemplos (26: a, b) tem-se o encontro de duas vogais altas. Em (26: c, d) o encontro dá-se entre altas e baixas. Em todos os casos trata-se do encontro de vogais em fronteira de palavras, ou seja, em estruturas de composição. Observa-se, igualmente, que os elementos situados à esquerda da composição terminam em vogais tônicas e aqueles à direita começam por vogais que foneticamente são átonas. Pelo Princípio do Contorno Obrigatório, uma das vogais desse encontro modifica-
+
+99
+
+se. Assim, a vogal inicial do segundo elemento, que é átona, consoantiza-se, ocorrendo como um glide na seqüência (26: a, b). Já em (26:c, d) a relação ocorre entre segmentos altos e baixos. Em concordância com a escala de sonoridade de vogais, observa-se que aquelas de menos sonoridade, ou seja, as altas, consoantizam-se, permanecendo, assim, a vogal baixa como núcleo silábico.
+Em (25: c, d) observa-se ainda que o processo de ressilabificação ocasiona a elisão da vogal alta /i/ inicial da segunda palavra, conforme ilustrado em (27 a) abaixo:
+
+(27) (a) σ
+
+σσ σ
+
+/\
+
+| | /\
+
+OR R R O R
+
+|
+
+||
+
+| =>
+
+N NN
+
+N
+
+|
+
+||
+
+|
+
+xx x x x x
+
+||
+
+| || |
+
+mi # i u R a
+
+REPRESENTAÇÃO FONOLÓGICA
+
+σ /\ OR
+
+σσ || RR
+
+σ /\ OR
+
+|
+
+||
+
+|
+
+N
+
+NN
+
+N
+
+|
+
+||
+
+|
+
+xx
+
+x x xx
+
+||
+
+|
+
+mi# i
+
+| ||
+u Ra
+
+∅
+ELISÃO DE /i/ (OCP)
+
+Em derivações como em (27) pode-se assumir duas interpretações para as realizações fonéticas para o composto: em uma, ter-se-ia a consoantização de /i/ e /u/ que, ao se desligarem de sua posição original, unem-se à Rima da sílaba precedente para ocuparem a posição de Coda; na outra, os referidos segmentos, após desligar-se de sua posição original, iriam juntar-se ao Núcleo da sílaba precedente. Em (27b) demonstramos o primeiro caso, e em (27c) o segundo:
+
+(27) (b) σ
+/\
+
+σ
+
+σ
+
+|
+
+/\
+
+σ
+
+σ
+
+/\
+
+100
+
+OR
+| N | xx |
+mi #
+
+R OR
+
+|
+
+/ \ =>
+
+N
+
+NC
+
+|
+
+||
+
+x xxx
+
+| |||
+u R a/
+
+DESLIGAMENTO DO NÚCLEO E ASSOCIAÇÃO À RIMA (CODA) PRECEDENTE, CONSOANTIZAÇÃO DE /U/ E INSERÇÃO DE [/]
+
+O
+
+R OR
+
+N | xx ||
+mi
+
+/\
+
+Co N C
+
+|
+
+||
+
+xxxx
+
+||||
+w R a / [miw » Ra/]
+
+REPRESENTAÇÃO FONÉTICA ( I)
+
+(27) (c) σ
+/\ OR
+| N | xx |
+mi #
+
+σ
+
+σ
+
+|
+
+/\
+
+R OR
+
+|
+
+/ \ =>
+
+N
+
+NC
+
+|
+
+||
+
+x xxx
+
+| |||
+u R a/
+
+DESLIGAMENTO DO NÚCLEO E ASSOCIAÇÃO AO NÚCLEO PRECEDENTE, DITONGAÇÃO E INSERÇÃO DE [/]
+
+σ /\ OR
+| N /\ xxx | ||
+miu
+
+σ /\ OR
+/\ N Co
+|| x xx |||
+R a / [miw » Ra/]
+
+REPRESENTAÇÃO FONÉTICA ( II)
+
+Tanto em (27b) como em (27c) o efeito fonético seria o mesmo. Contudo, carecemos de evidências empíricas para decidir por uma ou outra representação. A diferença relaciona-se com a interpretação, pois enquanto em (27b) o segmento [w] fica na Coda implicando uma estrutura CVC, em (27c) esse mesmo segmento está no Núcleo da sílaba formando uma espécie de ditongo pesado, isto é: CVV.
+
+101
+
+4.4. O ACENTO38 4.4.1. O ACENTO EM PALAVRAS SIMPLES
+
+Na língua Shanenawá as palavras simples podem ser constituídas por uma ou mais sílabas, como é ilustrado em (28), abaixo:
+
+(28) (a) [ » tSi/]
+
+‘fogo’
+
+(b) [ » fu/]
+
+‘cabelo’
+
+(c) [ˆ » pa/]
+
+‘pai’
+
+(d) [ma » kˆ/]
+
+‘piranha’
+
+(e) [quRu » pa/]‘azul’
+
+(f) [jußa » ti/]
+
+‘faca’
+
+[CVC]
+[CVC] [V.CVC] [CV.CVC] [CV.CV.CVC]
+[CV.CV.CVC]
+
+Os dados em (28) evidenciam que nessa língua, à exceção dos monossilábicos, o acento recai sempre sobre a última sílaba das palavras simples. Trata-se, então, de uma manifestação predizível e que, portanto, não possui função distintiva, ou seja, não é fonêmica. Diante disso, o acento não precisa ser representado no nível fonológico.
+
+38 No modelo gerativo de Chomsky & Halle (1968) o acento foi tratado como um traço segmental associado às vogais e em muitos casos como traço multi-valorado. Atualmente, os estudos fonológicos não-lineares, como a Fonologia Métrica, consideram o acento como uma propriedade associada à sílaba, principalmente à rima. Trata-se, assim, de uma proeminência originada na relação hierárquica dos elementos prosódicos: sílaba, pé e palavra fonológica. Segundo esse modelo, então, o algoritmo acentual de uma língua é obtido a partir da organização das sílabas em pés métricos e da posição do elemento dominante, ou seja, da sílaba forte (Hernandorena, 1997). Embora conscientes de que seria
+
+102
+
+4.4.2. O ACENTO EM PALAVRAS COMPOSTAS
+
+Em Shanenawá há algumas palavras polissilábicas resultantes do processo de composição, ou seja, pela junção de duas palavras simples para formar outra, como em (29):
+
+(29) (a) [i » fi/] # [pa » ni/]
+
+=>
+
+v.cv # cv.cv
+madeira rede
+
+(b) [na » wa/] # [pi » ja/] =>
+
+cv.Cv # cv.cv
+
+não-índio
+
+flecha
+
+(c) [ta » Ri/] # [ßˆ » tSi/] =>
+
+CV.CV # CV.CV
+
+capa
+
+peito
+
+(d) [ßa » Ba/] # [mas » ta/] =>
+
+CV.CV
+
+# CVC.CV
+
+dia
+
+quantif.
+
+[i « vi/ pa » ni/]
+
+‘cama’
+
+[na « wa/ pi » ja/] ‘espingarda’
+
+[ta « Ri/ ßˆ »tSi/]‘blusa’ [ßa « Ba/ mas » ta /] ‘manhã’
+
+Observamos em (29), acima, que o acento permanece fixo na última sílaba de cada palavra simples que constitui o composto. Contudo, há uma diferença na emissão fonética no grau de intensidade do acento da primeira palavra em relação ao da segunda, pois o da primeira é mais fraco do que o da última. Estamos interpretando que na estrutura morfológica cada uma das palavras simples entraria com o seu próprio acento. Porém, ao entrarem no processo de composição, o acento da primeira palavra tem sua proeminência
+
+interessante uma análise do acento em Shanenawá a partir desses modelos mais atuais, decidimos limitar nosso estudo aos moldes descritivos, tendo em vista a exigüidade dos nossos dados.
+
+103
+
+reduzida na representação fonológica. Sendo assim, o elemento mais à direita leva o acento principal. O primeiro interpretamos como acento secundário, por ser menos proeminente. 4.5. OUTROS PROCESSOS FONOLÓGICOS
+
+4.5.1. ASSIMILAÇÃO DE CONSOANTES NASAIS
+
+Em Shanenawá a soante nasal em posição de Coda não final de palavra forma grupos consonânticos homorgânicos com as obstruintes [-nas] que ocorrem como Onsets da sílaba seguinte:
+
+30 (30) (a) /pitSanti/
+
+=> [pitSŒn) » te/]£
+
+‘fogão’
+
+13 (b) /nˆkˆn#piaka#hustˆ/ => [nˆkˆ) m#pja»ka/#hus » tˆ/] ‘nossos arcos’
+
+(b) /siRuncin/
+
+=> [siRu)¯ » ci)]
+
+‘lamber’
+
+(c) /mitiun # kavu/ => [mitiuN) # ka » Bu/]
+
+‘caminhar’
+
+(d) /mitˆnku # Ranihi/
+
+=> [mitˆN) » qu # Rani » hi)]
+
+‘voltar’
+
+Notamos, desse modo, que a consoante nasal alveolar /n/ realiza-se foneticamente como alveolar [n], bilabial [m], palatal [¯], velar [N] e uvular [N] antes de consoantes alveolares, bilabiais, palatais, velares e uvulares, respectivamente.
+A representação arbórea em (31), abaixo, ilustra esse processo na Geometria dos Traços:
+
+104
+
+(31) σ
+/\ OR
+| Co | x
+| R
+
++ soante - aproximante
+- vocóide
+
+[laríngeo] CO
+
+[+nas]
+
+[-cont]
+
+PC
+
+σ /\ OR
+
+x
+
+|
+
+- soante
+
+R - aproximante
+
+- vocóide
+
+[laríngeo] [-nas]
+CO
+
+[-cont] PC
+
+Como observamos, a consoante nasal não especificada para ponto de articulação em posição de Coda, assimila o ponto da obstruinte homorgânica seguinte, ou seja, o traço de ponto não especificado da consoante nasal PC (ponto de consoante) associa-se ao PC da obstruinte. Daí a [+nasal] ocorre como [n], [¯], [N] e [N] na estrutura de superfície.
+
+4.5.2. A NASALIDADE DAS VOGAIS
+Em termos de nasalidade, as vogais têm sido classificadas em nasais e nasalizadas. No primeiro caso, a manifestação da nasalidade é considerada autêntica (pura), ou seja, fonêmica, uma vez que pode estabelecer oposições como a que ocorre em francês entre /bo)/
+
+105
+
+<bon> “masculino” e /bon/ <bonne> “feminino” (Câmara Jr, 1970). Já no segundo caso, trata-se apenas de uma variação alofônica com a vogal oral, pois é resultante do contato com uma consoante nasal adjacente.
+Ao fazermos a análise, ainda preliminar, dos segmentos vocálicos do Shanenawá, verificamos que apenas o segundo tipo de nasalidade manifesta-se nessa língua. Também observamos que as vogais são nasalizadas tanto em posição tautossilábica (cf. 32: a-d) quanto em posição heterossilábica (cf. 32: g-h):
+
+(32) (a) [Ra.tuN) ». qu/] (b) [twŒ)n. » ti/] (c) [ ˆn) . » te/] (d) [pa.hi)¯ » ci/] (e) [Ba.Rju).na. : ti/] (f) [pja.kŒ).na. » te/] (g) [aw.nŒ.) ni)n. » ti/] (h) [Œ). » nu/]
+
+‘joelho’
+
+CV. Cvc) ). CVC
+
+‘remo’
+
+CCvc) ) .CVC
+
+‘coração’ v)c).CVC
+
+‘orelha’
+
+CV.Cvc) ).CVC
+
+‘relógio’
+
+CV.CCv).c)V.CVC
+
+‘arco’
+
+CCV.Cv.) c)V.CVC
+
+‘pilão’
+
+VC.Cv).c)Vc).CVC
+
+‘paca’
+
+v).cV) C
+
+Como podemos notar em (32: a-d) a nasalidade é transmitida à vogal pela consoante nasal que está na posição de Coda na mesma sílaba. Já em (32: e-h), ela provém da nasal
+
+106
+
+que ocupa a posição Onset da sílaba seguinte. Abaixo, ilustramos esses processos através da representação arbórea em (33):
+
+(33)
+
+σ
+
+/\
+
+OR
+
+|
+
+N
+
+|
+
+x
+
+|
+
+R
+
+[laríngeo]
+
++ soante + aproximante39
++ vocóide
+
+CO
+
+PC |
+Vocálico |
+PV
+
+σ /\ OR
+
+x | R
+[laríngeo] [+nas]
+PC |
+
++ soante - aproximante
+- vocóide
+CO [-cont]
+
+Como se vê na representação em (33), o traço [+nas] da consoante seguinte espraiase para a vogal [-nas], que pode estar tanto em posição tautossilábica como heterossilábica. Isto é, o traço [+nas] da consoante espraia-se regressivamente para a vogal.
+Em (34), abaixo, tem-se os dados em que as consoantes nasais ocorrem em posição de Onsets:
+
+(34) (a) [mis.ci. » te/]
+
+‘pedra’
+
+cV) C.CV.CVC
+
+39 Em Clements & Hume (1995:296), os vocóides são considerados como aproximantes.
+
+107
+
+(b) [ma. » pu/] (c) [pŒ.) » ma/] (d) [na. » i/]
+
+‘cabeça’ ‘pama’ ‘céu’
+
+cV) .CVC Cv.) c) VC cV) .VC
+
+Como se pode ver, embora as vogais ocorram adjacentes a uma consoante nasal, não se nasalizam, visto que esta encontra-se à esquerda da vogal. Em suma, a nasalização das vogais em Shanenawá opera do modo seguinte:
+Domínio: sílaba (tautossilábica e heterossilábica) Direcionalidade: direita para a esquerda.
+
+4.5.3. AS VOGAIS NASALIZADAS EM FINAL DE PALAVRAS
+
+Além dos dados citados em (32), há outros em que se nota que a nasalização das vogais ocorre tautossilabicamente, contudo, em final de palavras como em (35):
+
+(35) (a) [iS » ci])
+
+‘peixe’
+
+VC. CV
+
+(b) [Ru » sŒ)]
+
+‘sal’
+
+CV .CV
+
+(c) [Ru.tuN » kˆ]) ‘morder’
+
+CV.VC.CV
+
+(d) [ju » kŒ]) (e) [naRŒ)na » hi]) (f) [ma » ßu])
+
+‘goiaba’ ‘todos’ ‘chifre’
+
+CV.CV CV.CV.CV.CV
+CV.CV
+
+108
+
+Em (35) as vogais nasalizadas localizam-se em final absoluto de palavra. Não há oposição entre as vogais orais e as nasais nessa posição ou em qualquer outra. Sendo assim, consideramos que as vogais nasalizadas em final de palavra resultam da queda de uma consoante nasal não especificada, que deixa como testemunho (vestígio) uma vogal nasalizada. Nesse sentido, os itens de (35) serão representados na fonologia como:
+
+(35) (a) /ißkin/ (b) /Rusan/ (c) /Rutunkˆn/ (d) /iukan/ (e) /naRanahin/ (f) /maßun/
+
+[iS » ci]) [Ru » sŒ)] [RutuN » kˆ]) [ju » kŒ]) [naRŒ)na » hi)] [ma » ßu)]
+
+‘peixe’ ‘sal’ ‘moder’ ‘goiaba’ ‘todos’ ‘chifre’
+
+Um fato relevante do qual devemos lembrar é que em todas as palavras que terminam em sílaba aberta, insere-se a plosiva glotal surda [/] em posição final. Contudo, quando a vogal é nasalizada, a inserção da glotal não se produz, ou seja, não se tem seqüências do tipo #...Cv/) #*. Isso pode ser considerado um dado adicional para assumirmos que realmente há uma consoante nasal na posição de Coda final. Diante disso, concluímos que as vogais nasalizadas em final de palavras são o resultado da “evaporação”
+
+109
+
+de uma consoante nasal na forma fonética. Em (33) ilustramos esse processo na derivação da palavra [Rˆ»ci]) ‘nariz’:
+
+(33) (a) [-N] [+N]
+xxx xx ||| | | R ˆ k i [n]
+FORMA FONOLÓGICA
+
+FLUTUANTE
+
+(b) [-N] +N
+
+(c) [-N] [+N]
+
+=>
+
+=>
+
+xx x x x
+
+|| | | | R ˆ k i [n]
+
+DESLIGAMENTO DE [N]
+
+xxx x x | || | | Rˆki
+ASSOCIAÇÃO DE [N] À
+VOGAL PRECEDENTE
+
+[Rˆ»ci)] ‘nariz’
+FORMA FONÉTICA
+
+Como vemos em (33a), isto é, na estrutura de base, haveria na Coda uma consoante nasal não especificada para ponto. Como ela não é licenciada foneticamente desliga-se de sua posição original, porém, o traço nasal fica flutuante (33b). Esse traço deve manifestarse na superfície, de modo que ele associa-se a uma unidade passível de ser nasalizada, ou seja, um núcleo silábico (33c). Esse processo está relacionado com o Parâmetro da Projeção, que diz que “a floating autosegment links to the rightmost/leftmost available position” (Piggott, 1988: 147).
+
+110
+4.5.4. PALATALIZAÇÃO
+Os processos de palatalização mais recorrentes nas línguas naturais podem ser resumidos em três: a) anteriorização de consoantes velares quando estas seguem vogais anteriores ou o glide palatal [j]; b) mudança no ponto de articulação de consoantes coronais, ou seja, consoantes alveolares e dentais tornam-se palato-alveolares ou prepalatais também em ambientes de vogais anteriores ou de [j]; c) adição de articulação palatal secundária a algumas consoantes, resultante do espraiamento do traço [+alto], quando a forma fonética contém um glide palatal não marcado (Lahiri & Evers, 1991).
+Na língua Shanenawá verificamos apenas a ocorrência do segundo tipo de processo, do qual trataremos nesta seção.
+
+4.5.4.1. MUDANÇA NO PONTO DE ARTICULAÇÃO DE CONSOANTES CORONAIS
+
+Na língua Shanenawá a consoante fricativa alveolar [s] em posição de Coda, após a vogal alta [i] torna-se alveo-palatal, conforme exemplos que se seguem:
+
+(34) (a) [piS » tu/] (b) [piS » mi/] (c) [iStˆw » qu/] (d) [iS » ci) ]
+
+‘barriga’ ‘tingui’ ‘macaco’ ‘peixe’
+
+111
+
+Esse processo é dado na representação arbórea em (35), abaixo:
+
+(35) X | R
+
++ soante - aproximante
++ vocóide
+
+CO
+
+PC | Vocálico
+
+Abertura [-abert] n
+
+PV \ [cor] |
+[-ant]
+
+X
+
+|
+
+- soante
+
+R - aproximante
+
+- vocóide
+
+CO
+[+ cont] PC
+[cor] |
+[+ ant]
+
+Como vemos, acima, esse é um processo de palatalização do tipo assimilação progressiva. O traço [coronal] da vogal /i/ espraia-se sobre o “PC” (ponto de consoante) do segmento /s/ que, como foi dito, se encontra em posição de Coda. Contudo, esse espraiamento é feito de modo redundante, pois, /s/ também é [coronal]. Assim, o espraiamento aplica-se no vazio; porém, nesse processo o traço [coronal] leva consigo o traço [-anterior] que caracteriza inerentemente a vogal /i/, do que resulta a mudança de /s/ para /S/.40 Dessa forma, os dados apresentados em (34) seriam representados fonologicamente, conforme (36), abaixo:
+
+112
+
+(36) (a) /pistu/ => (b) /pismi/ => (c) /ißtˆuku/ => (d) /ißkin/ =>
+
+[piS » tu/] [piS » mi/] [iStˆw » qu/] [iS » ci) ]
+
+‘barriga’ ‘tingui’ ‘macaco’ ‘peixe’
+
+40 Para maiores detalhes sobre esse tipo de processo ver Clements & Hume (1995).
+
+113
+5. CONCLUSÃO
+Diante da complexidade de uma língua, toda análise a ela inerente, ainda que feita de modo aprofundado, deixará questões a serem resolvidas. Não foi diferente com este trabalho sobre a língua Shanenawá (Pano), que é falada por um povo localizado às margens do Rio Envira, no município de Feijó, Estado do Acre, Brasil; e cujo objetivo foi apresentar, de forma preliminar, uma análise fonética e fonológica da língua em questão.
+Baseando-nos em um corpus lingüístico obtido em trabalho de campo (elicitação de dados com informantes), realizado em 1997, fizemos o inventário fonético do Shanenawá. Este é constituído de 25 contóides e 7 vocóides. Utilizando-nos dos critérios de contraste, distribuição complementar e variação livre (Pike, 1947; Kindell, 1981), fizemos a análise fonêmica desses sons. Obtivemos como resultado dessa análise 14 fonemas consonantais e 4 fonemas vocálicos.
+Visando a descrever de forma mais clara alguns processos fonológicos que ocorrem na língua, buscamos apoio teórico em teorias fonológicas mais atuais, a saber, as teorias autossegmentais ou não-lineares. Dessa forma, analisamos a sílaba, ou seja, os tipos silábicos e suas constituições internas.
+Considerando a estrutura da sílaba, discutimos a ocorrência dos glides labial [w] e palatal [j] e concluímos que esses segmentos, quando ocorrem em seqüências do tipo (C)glideV(C) ou (C)Vglide(C), são apenas manifestações fonéticas das vogais altas [u] e [i], respectivamente.
+
+114
+Quanto ao acento, observamos que nessa língua sua ocorrência é predizível, pois manifesta-se sempre na última sílaba da palavra. Dessa forma, não tem status fonológico.
+Outros processos fonológicos que analisamos nessa língua, dizem respeito à nasalidade. Observamos a assimilação das consoantes nasais, em posição de Coda, ao ponto de articulação das obstruintes homorgânicas que a seguem; e a nasalidade das vogais. Nesta última análise concluímos que não há segmentos vocálicos nasais no nível fonológico, mas que os segmentos que figuram como nasais no no nível fonético seriam, na verdade, nasalizados em decorrência do contato com consoantes nasais.
+Finalizando a etapa de análise dos processos fonológicos, descrevemos o processo de palatalização, que em Shanenawá se restringe à consoante coronal [+anterior] /s/ quando a mesma vem posposta aos segmentos coronais [i] e [j].
+
+115 APÊNDICE I
+
+116
+1. VOCABULÁRIO BÁSICO SHANENAWÁ
+1. 1. NOTAS EXPLICATIVAS
+Visando a contribuir com os estudos comparativos lexicais das línguas indígenas, especialmente daquelas da família Pano, apresentamos nesse apêndice uma lista de itens do Shanenawá.
+Essa lista, ressaltamos, é bastante preliminar e reduzida, contendo apenas 200 itens os quais foram baseados no léxico de Swadesh e em outros formulários como o do Museu Nacional. Este vocabulário apresenta-se em forma de entradas bilíngües ShanenawáPortuguês e Português-Shanenawá. Cada entrada organiza-se em ordem alfabética (latina) e contém uma transcrição fonológica, além de sua respectiva tradução.
+
+1.1.2. SHANENAWÁ - PORTUGUÊS
+FONOLÓGICO
+a ahu aiauˆ aman aminhu ana anihu anu anuian asin atsa
+
+TRADUÇÃO
+ele/ela eles/elas beber capivara mulher língua velho paca aí (adv. lugar) mutun mandioca
+
+aua
+aui
+aua aßua faRi fakˆ anihu fakˆhu fakˆhu nˆkufunˆ fakißi
+fapa fatSi
+fafa
+fimi fitSi fˆnˆ fˆstihu
+fu
+fui fuißta
+funa fuRu
+fusna
+fustisi
+futuspa fußpia
+han
+ia iafißi
+imi inauˆ itSapa itSapa masta
+iuapa
+iuapa masta
+iuina
+iuiukui
+iumai iuRa
+iutapa iußati iußi
+
+117
+anta esposa mãe boca sol menina criança menino noite/escuro coruja ovo papagaio
+fruta pele marido alguns cabelo sujo nuvem novo olho fino um curto cheio sim piolho tatu sangue dar muito pouco grande pequeno pássaro estragada onça
+gente pesado faca bicho
+
+ifi
+ifi pani ißkin ißtˆuku ißtin ˆ ˆinti ˆnˆ ˆnˆ ˆnˆ iuapa ˆna ˆnai mauˆ ˆpa ˆtsahu ˆuˆ ˆui ˆßˆ ˆßˆpa ˆßu
+kaman kamußi
+kana kapˆ kauˆ kaßi
+kui kuRan
+kustu tapa
+kuta kußku
+ma
+ma
+mai mai ˆkˆti
+maiti
+maiun
+mapu
+matsi
+matsi matSi
+
+118
+pau cama peixe macaco estrela eu coração água rio igarapé formiga viver pai outro ver chuva semente branco lua cachorro cobra cascavel relâmpago jacaré andar morcego fumaça borracha grosso coco sapo partícula negativa vocês terra panela (de barro) cocar liso cabeça frio gelo morro
+
+maßu
+min mˆhi
+miskiti
+misti mˆtSa mˆtSisi mˆtu nˆiauˆ nˆinu nˆifu nˆku hunˆ nˆmˆ nˆui nˆukˆ nˆßu
+nai naiuˆ nakauˆ
+nami
+napu naRa nahi nauˆ nafˆ
+ni nikauˆ
+niia
+niua
+pahinki pakˆuˆ
+panan
+pani paßa pai paßi nipa paßuti pˆku
+pia
+pia kanati
+pina
+pitsu
+
+119
+chifre tu/você mão pedra lenha molhado unha seco voar aqui vento homem saliva verme nós tartaruga céu morrer morder carne mosca todos morrer fumo mato caçar árvore flor orelha cair açaí rede de dormir mau amarelo lança tripa flecha arco rabo periquito
+
+piuˆ pˆstu pˆtSi pˆui pˆßˆ
+pua
+puanti
+puian puRu kupa
+pusan Ranauˆ Ratunku Rau Rafu Rafu niRafu Rafu fustisi Rˆtˆuˆ Rˆika Rˆkin Rˆui Rˆunfiti Rˆusui Runu Rusan RutSuan ßaka ßama inhu ßana ßapu ßaRa ßaRa ßatˆuˆ ßau ßaua mati ßauan ßafa ßaßu ßinaiuˆ
+
+120
+comer barriga costas folha casa inhame remo braço redondo bicho preguiça lutar joelho veneno dois quatro três matar estreito nariz machado cinco corda cobra sal pimenta casca cacique quente algodão bom abelha cortar osso anzol arara dia canoa pensar
+
+ßipi ßˆna ßˆtˆuˆ ßˆta ßˆtSi ßˆuiu ßuki ßuna nipa ßußuˆ
+taka takaRa tapiuˆ
+tapu taRi tauˆ tauˆ tˆ tˆpi tˆßu
+tsauinti tSai tSaima tSapu tSaßu tSi tSimuia tSiußinpa tSuma uami niuˆ
+uasi uˆßauˆ
+uta kupa ußi nipa
+
+121
+banana aranha cheirar dente peito cipó milho verde brincar fígado galinha saber raiz roupa perna pé pena (de pássaro) zarabatana pescoço banco (de sentar) longe perto podre veado fogo pajé preto cabaça cantar
+capim dormir largo vermelho
+
+122
+
+1.1.3. PORTUGUÊS-SHANENAWÁ
+TRADUÇÃO
+abelha açaí água aí (adv. Lugar) algodão alguns amarelo andar anta anzol aqui aranha arara arco árvore banana banco (de sentar) barriga beber bicho bicho preguiça boca bom borracha braço branco brincar cabaça cabeça cabelo cacique caçar cachorro cair
+
+FONOLÓGICO
+ßaRa
+panan ˆnˆ
+anuian ßapu fˆstihu paßi nipa kauˆ
+aua ßua mati nˆinu ßˆna ßauan
+pia kanati
+niia ßipi
+tsauinti pˆstu aiauˆ iußi
+pusan aßua ßaRa kuRan
+puian ˆßˆpa ßußuˆ tSuma
+mapu
+fu ßama inhu nikauˆ
+kaman pakˆuˆ
+
+cama canoa cantar capim capivara carne casa casca céu cheio cheirar chifre chuva cinco cipó cobra cobra cascavel cocar coco comer coração corda cortar coruja costas criança curto dar dente dia dois dormir ele/ela eles/elas esposa estragada estreito estrela eu
+
+123
+ifi pani ßaßu uami niuˆ
+uasi
+aman
+nami pˆßˆ ßaka
+nai fußpia ßˆtˆuˆ maßu ˆui Rˆunfiti ßˆuiu Runu kamußi
+maiti
+kuta piuˆ ˆinti Rˆusui ßatˆuˆ
+fapa pˆtSi fakˆhu
+futuspa inauˆ ßˆta ßafa Rafu uˆßauˆ
+a
+ahu
+aui
+iuiukui Rˆika ißtin ˆ
+
+faca fígado fino flecha flor fogo folha formiga frio fruta fumaça fumo galinha gelo gente grande grosso homem igarapé inhame jacaré joelho lagarta lança largo lenha língua liso longe lua lutar macaco machado mãe mandioca mão marido matar mato mau
+
+124
+iußati taka
+fusna pia niua tSi pˆui ˆna matsi fimi kui nafˆ takaRa matsi iuRa iuapa kustu tapa nˆku hunˆ ˆnˆ iuapa pua kapˆ Ratunku ßˆna paßuti uta kupa misti ana maiun tSai ˆßu Ranauˆ ißtˆuku Rˆui afa atsa mˆhi fˆnˆ Rˆtˆuˆ ni paßa pai
+
+menina menino milho molhado morcego morder morrer morro mosca muito mulher mutun não (partícula negativa) nariz noite/escuro nós novo nuvem olho onça orelha osso outro ovo paca pai pajé panela (de barro) papagaio pássaro pau pé pedra peito peixe pele pena (de pássaro) pensar pequeno periquito
+
+125
+fakˆ anihu fakˆhu nˆkufunˆ ßuki mˆtSa kaßi nakauˆ naiuˆ matSi
+napu itSapa
+aminhu
+asin
+ma Rˆkin fakißi nˆukˆ
+funa fuißta fuRu
+iumai
+pahinki ßau ˆtsahu fatSi
+anu ˆpa tSimuia mai ˆkˆti
+fafa
+iuina
+ifi tauˆ
+miskiti ßˆtSi ißkin fitSi tˆ ßinaiuˆ
+iuapa masta
+pitsu
+
+perna perto pesado pescoço pimenta piolho podre pouco preto quatro quente rabo raiz rede de dormir redondo relâmpago remo rio roupa saber sal saliva sangue sapo seco semente sim sol sujo tartaruga tatu terra todos três tripa tu/você um unha veado velho
+
+126
+tauˆ tSaima
+iutapa tˆßu RutSuan
+ia tSapu itSapa masta tSiußinpa Rafu niRafu ßana
+pina
+tapu
+pani puRu kupa
+kana
+puanti ˆnˆ taRi tapiuˆ Rusan nˆmˆ
+imi kußku mˆtu ˆßˆ
+han faRi
+fui nˆßu iafißi
+mai naRanahi Rafu fustisi pˆku
+min
+fustisi mˆtSisi tSaßu
+anihu
+
+veneno vento ver verde verme vermelho viver voar vocês zarabatana
+
+127
+Rau nˆifu ˆuˆ ßuna nipa nˆui ußi nipa ˆna imauˆ nˆiauˆ ma tˆpi
+
+128 APÊNDICE II
+
+129
+MAPA DE DISTRIBUIÇÃO DA POPULAÇÃO ÁREA INDÍGENA SHANENAWÁ
+
+130
+MAPA DE HIDROGRAFIA ÁREA INDÍGENA SHANENAWÁ
+
+131 SUMMARY
+
+132
+6. REFERÊNCIAS BIBLIOGRÁFICAS
+ABAURRE, Maria Bernadete M. & WETZELS, Leo - “Sobre a Estrutura da Gramática Fonológica”. Cadernos de Estudos Lingüísticos. Campinas: UNICAMP, n. 23, p. 5-18, 1992.
+ABREU, João Capistrano de - Rã-txa hu-ni-ku-i.‚ A língua dos Caxinauás do Rio Ibuacú Afluente do Murú, Prefeitura de Tarauacá, 2ª ed. Rio de Janeiro: Sociedade Capistrano de Abreu, 1941.
+AGUIAR, Maria Suelí - Elementos de Descrição Sintática para uma Gramática do Katukina. Dissertação de Mestrado em Lingüística. Campinas: UNICAMP, 1988.
+_____. - “Los Grupos Nativos Katukina” Amazônia Peruana. Lima: CAAAP, p. 141-152, 1993.
+_____. - Fontes de Pesquisa e Estudos da Família Pano. Campinas: UNICAMP, 1994a.
+_____. - Análise Descritiva e Teórica do Katukina Pano. Tese de Doutorado. Campinas: UNICAMP, 1994b.
+BARROS, Luizete - A Nasalização Vocálica e Fonologia Introdutória à Língua Katukina (Pano). Dissertação de Mestrado. Campinas: UNICAMP, 1987.
+BISOL, Leda - “O Ditongo na Perspectiva da Fonologia Atual”. D.E.L.T.A., v. 5, n. 2, p. 185-224, 1989.
+_____. - “O Sândi e a Ressilabação”. Letras de Hoje. Porto Alegre: PUCRS, n. 104, p. 159-68, 1996.
+BURQUEST, Donald. A. & PAYNE, David - Phonological Analysis. EUA: Summer Institute of Linguistics, 1993.
+CAGLIARI, Luís C. - Elementos de Fonética do Português Brasileiro. Tese de Livre Docência. Campinas/SP: UNICAMP, 1981.
+CÂMARA JR., Joaquim Mattoso - Introdução às Línguas Indígenas Brasileiras. Rio de Janeiro: Ao Livro Técnico, 1977.
+_____. - A Estrutura da Língua Portuguesa. Petrópolis: Vozes, 1970.
+
+133
+CÂNDIDO, Gláucia V. - Análise Preliminar da Língua Shanenawá (Pano). Monografia de final de curso de Bacharelado em Língua Portuguesa e Lingüística. Goiânia: UFG, 1995.
+CHOMSKY, Noam & HALLE, Morris - The Sound Pattern of English. New York: Harper e How, 1968.
+CLEMENTS, George - “The Geometry of Phonological Features”. Phonology Yearbook 2, p. 225-252, 1985.
+CLEMENTS, George & KEYSER, S. - CV Phonology. A Generative Theory of the Syllable. Cambridge, MA: MIT Press, 1983.
+CLEMENTS George & HUME, E. V. - “The Internal Organization of Speech Sounds”. GOLDSMITH, J. (ed.). The Handbook of Phonological Theory. London: Basil Blackwell, 1995.
+CONSELHO INDIGENISTA MISSIONÁRIO - Povos Indígenas no Brasil e Presença Missionária. Brasília: CIMI, 1985.
+CORBERA MORI, Angel H.- “Estudios sobre Lenguas Indígenas Amazónicas en el Peru.” Amazônia Peruana, n. 23, p. 37-74, 1993.
+CRYSTAL, David - Dicionário de Lingüística e Fonética. Rio de Janeiro: Jorge Zahar Editor, 1985.
+CUNHA, Carla M. - A Morfossintaxe da Língua Arara (Pano) do Acre. Dissertação de Mestrado. Recife: UFPE, 1993.
+DAVIS, Philip W. - Modern Theories of Language. New Jersey: Prentice-Hall, 1973.
+d’ANS, André-Marcel - Materiales para el Estudio del Grupo Lingüístico Pano. Lima: UNMSM. 1970.
+_____. - Estudio Glotocronológico sobre Nueve Hablas Pano. Lima: CILA-UNMSM, 1973a.
+_____. - “Reclasificación de las Lenguas Pano y Datos Glotocronológicos para la Etnohistoria de la Amazonía Peruana”. Revista del Museo Nacional, Tomo 39, p. 349-369, 1973b.
+d’ANS, André-Marcel et alii. - Problemas de Clasificaciones de Lenguas No-andinos en el Sul-este Peruano. Lima: CILA-UNMSM, 1973.
+
+134
+GOLDSMITH, John - Autosegmental Phonology. Bloomington: IULC, 1976.
+_____. - Autosegmental and Metrical Phonology. London: Basil Blackwell, 1990.
+GRASSERIE, Raoul de la - “De la Famille Linguistique Pano”. Actas del VII Congreso Internacional de Americanistas (Berlín), p. 438-450. 1890.
+GREENBERG, Joseph - “The General Classification of Central and South American Languages”. Men and Cultures: Selected Papers of the 5th International Congress of Anthropologial and Ethnological Sciences. Philadelphia, 1956.
+_____. - Language in the Americas. Stanford: Stanford University Press, 1987.
+HALLE, Morris & VERGNAUD, J. An Essay on Stress. Cambridge: MIT Press, 1987.
+HAYES, Bruce - “Inalterability in CV Phonology”. Language, n. 62, p. 321-352, 1983.
+_____.- Metrical Stress Theory (Principles and Case Studies). Chicago: The University Chicago Press. 1995.
+HERNANDORENA, Carmem L. M. - “Introdução à Teoria Fonológica”. BISOL, Leda (org). Introdução a Estudos de Fonologia do Português Brasileiro. Porto Alegre: EDIPUCRS, p. 09-86, 1997.
+HOGG, Richard & McCULLY, C. B. - Metrical Phonology: A Coursebook. Cambridge: University Press, 1987.
+JAKOBSON, Roman; FANT, Gunnar & HALLE, Morris - Preliminares to Speech Analysis. Cambridge: MIT Press, 1965.
+JAKOBSON, Roman & HALLE, Morris - Fundamentals of Language. Mouton: The Hague, 1965.
+JOURNAL OF THE INTERNATIONAL PHONETIC ASSOCIATION - International Phonetic Alphabet. Vol. 25, n. 1, June, 1996.
+KAYE, & LOWENSTAMM, . Syllable Structure and Markedness Theory. (Linguistic Inquiry). BELLETTI, A.; BRANDI, L.; RIZZI, G. L. (eds) - Theory of markedness in Generative Grammar. Pisa: Sanola Normale Supesiore, p. 287316, 1981.
+KENSTOWICZ, Michael - Phonology in Generative Grammar. London: Basil Blackwell, 1994.
+
+135
+KEY, Mary R. - Comparative Tacanan Phonology: with Carivena) Phonology anda Notes on Pano-tacana Relationship. Mouton, The Hargue. Janua Linguarum, Séries Prática, n. 50, 1968.
+KINDELL, Gloria E. - Guia de Análise Fonológica. Brasília: Summer Institute of Linguistics, 1981.
+KRAUSS, Michael - “The World’s Language in Crisis’. Language 68 (1), p. 4-10, 1992.
+LADEFOGED, Peter - Preliminaries to Linguistic Phonetics. EUA: University of Chicago, 1971.
+_____. A Course in Phonetics - EUA: Harcourt Brace Jovanavich, inc., 1975.
+LAHIRI, A & EVERS, V. - Palatalization and Coronality. PRADIS, Carole & PRUNET, Jean-François - Phonetics and Phonology. San Diego, California: Academic Press. Vol. 2, 1991.
+LIBERMAN, Mark & PRINCE, “Alan. On Stress and Linguistic Rhythm”. Linguistic Inquiry, n. 8 p.249-336, 1977.
+LIMA, Edilene C. - Katukina: história e organização social de um grupo Pano do Alto Juruá. Dissertação de Mestrado. São Paulo: USP, 1994.
+LOOS, Eugene E. - The Phonology of Capanahua and its Grammatical Basis. Tesis para optar el grado de Ph. D. Especialidad en Lingüística, University of Texas at Austin, 1967.
+_____. - “La Sen)al de Transitividad del Sustantivo en los Idiomas Panos”. Estudios Panos I. Instituto Lingüístico de Verano, Série Lingüística Peruana, n. 10. Yarinacocha, Peru, p. 133-184, 1973.
+_____. - “Rasgos Sintáctico-fonémicos en la Historia Lingüística de los Idiomas de la Família Pano”. Lingüística e Indigenismo Moderno de América, p. 181-184, 1975.
+LÓPEZ MORALES, H. - Métodos de Investigación Lingüística. Salamanca: Adiciones Colegio de Espan‚a, 1994.
+LOUKOTKA, Cestmir. - “Sobre la Classificación de las Lenguas Indígenas de la América del Sul. Congresso Internacional de Americanistas, n. 26, Madrid, p. 411-415. 1944.
+
+136
+McCARTHY, John - “OCP Effects: Gemination and Antigemination”. Linguistic Inquire 17, p. 207-63, 1986.
+MALMBERG, Bertil - La Phonétique. França: Universitaires de France, 1954.
+MASON, John Alden. - “The languages of South American Indians” Handbook of South American Indians. Bureau of American Ethnology, Buelletin 143, v. 6, p. 501-570, 1950.
+MATEUS, Maria Helena & D’ANDRADE, Ernesto. - “The syllable Structure in European Portuguese - A estrutura da Sílaba e Português Europeu”. D. E. L. T. A . v. 14, n. 1, p. 13-32, 1998.
+McQUOWN, Norman A. - “Indigenous languages of Latin America”. American Anthropologist, v. 57, p. 501-570, 1955.
+MOHANAN, K. P. - The Theory of Lexical Phonology. Dordrecht: Reidel, 1986.
+MUSEU NACIONAL. - O Setor Lingüístico do Museu Nacional (Organização e Objetivos). Publicações Avulsas. Rio de Janeiro, 1965.
+NESPOR, Marina & VOEGEL, Irene - Prosodic Phonology. Dordrecht-Holland: Foris Publications, 1986.
+PIGGOTT, G. L. - The Parameters of Nasalization. McGill Working Papers in Linguistics 5(2): 128-177. 1988.
+PIKE, Kenneth L. - Phonetics. Michigan: University of Michigan, 1943.
+_____. - Phonemics: a Technique for Reducing Languages to writing. The University of Michigan Press, Ann Arbor, 1947.
+_____. - Language in relation to a unified theory of the structure of human behavior. The Hague: Mouton, 1967.
+_____. - “Immediate Constituents of Mazateco Syllables”, IJAL 13, p. 78-91, 1947.
+PULLEYBLANK, Douglas. Tone in Lexical Phonology. Dordrecht: Reidel, 1986.
+RIBEIRO, Darci - Os Índios e a Civilização. Rio de Janeiro: Vozes, 1982.
+RIBEIRO, Darci & WISE, Mary Ruth - Los Grupos Étnicos de la Amazonía Peruana. Comunidades y Culturas Peruanas, n. 13. Lima: ILV, 1978.
+
+137
+RICARDO, Carlos Alberto (org.) - Povos Indígenas no Brasil 1991/1995. São Paulo: Instituto Socioambiental. Seção: Acre, p. 513-538, 1996.
+RIVET, Paul - “Les Katukina - étude linguistique”. Journal de la Societé des Americanistes de Paris. Nouv. Série, Tomo XII, p. 83-89. 1920.
+_____. - “Langues Américaines” MEILLET-COHEN, Les Langues du Monde. Paris: CNRS, 1924.
+RIVET, Paul & LOUKOTKA, Cestmir. - “Langues de l’Amérique du Sud et des Antilles”. Les Langues du Monde, Nouvelle édition (Paris, Champion), p. 1099-1160. 1952.
+ROCA, Iggy - Generative Phonology. London: Routledge, 1994.
+RODRIGUES, Aryon D. - Línguas Brasileiras: para um Conhecimento das Línguas Indígenas. São Paulo: Loyola, 1986.
+_____. - “Línguas Indígenas: 500 anos de Descoberta e Perdas” D.E.L.T.A. 9 (1), p. 83103, 1993.
+SCHMIDT, P. W. - Die Sprachfamilien und Sprachenkreise der Erde. Heidelberg: Calr Winters’s Universitäts-buchhandlung, 1926.
+SELKIRK, Elizabeth - On Prosodic Structure and its Relation to Syntactic Structure. Bloomington: IULC. 1980.
+_____. - “The Syllable”. HULST, Harry van der & SMITH, Norval. (1982). The structure of Phonological Representations. Dordrecht: Foris, v. 2, p. 337-383, 1982.
+SHELL, Olive A. - Estudios Panos III: Las Lenguas Pano y su Reconstrucción. Lima: ILV SLP, 2ª ed., n. 12, 1985.
+SHELL, Olive A. - & WISE, Mary Ruth. Grupos Idiomáticos del Peru. Lima: SIL, 1971.
+SUÁREZ, Jorge A. - Estudios sobre Lenguas Indígenas Sudamericanas. Bahía BlancaArgentina: Universidad Nacional del Sur, 1988.
+_____. - Moseten and Pano-Tacananao. Anthropological Linguistics. 11(9), p. 255-266, 1969.
+_____. - “Macro-Pano-Tanacan”. IJAL, n. 39, p. 137-54, 1973.
+SWADESH, Mauricio - Towards greter alcuracy in lexicostatistic dating. IJAL. N. 21, p. 121-37, 1955.
+
+138
+_____. - Mapas de clasificaciones de México y las Américas. México: UNAM, 1959. TASTEVIN, R. P. - “Quelques considerátions sur les indiens du Juruá”. Bulletin de la
+Société d’Anthropoligie de Paris, série 6-10, p. 144 - 154, 1919. _____. - “Chez les indiens du Haut - Jurua (Rio Gregório)”. Missions Catoliques, LVI: p
+65-67, p. 78-80; p. 90-93; p. 101-104, 1924. _____. - “Le fleuve Maru”. La Géographie. T. XLIII e XLPIV: 403-422 e 14-35, 1925. _____. - “Le Riozinho da Liberdade”. La Géographie, XLIX, p. 205-2l5, 1928. TOVAR, Antônio e TOVAR, Consuelo L. - Catálogos de las Lenguas de América del
+Sur. Madrid: Editorial Gredos. Nueva edición refundida, 1984. TOWNSLEY, Graham. - “Los Yaminahua”. SANTOS, F. & BARCLAY, F. (eds.) Guía
+Etnográfico de la Alta Amazonía. Vol. II. Equador: FLACSO-IFEA, p. 239-358. 1994. WEISS, Helga E. - Fonética Articulatória. Guia e Exercícios. Brasília: Summer Institute of Linguistics, 1988. WELLS, John & HOUSE, Jill - The Sounds of International Phonetic Alphabet. London: UCL, 1995. WETZELS, Leo (org) - Estudos Fonológicos das Línguas Indígenas Brasileiras. Rio de Janeiro: UFRJ, 1995.
+
+139
+7. BIBLIOGRAFIA COMENTADA
+BOOIJ, Geert - “On the Representation of Diphthongs in Frisian”. Journal of Linguistics, 25. Great Britain, 1989.
+CAMARGO, Eliane - Phonologie, Morphologie et Syntaxe: Étude Descriptive de le Langue Caxinawa (Pano). Tese de Doutorado. Paris: Universidade Paris IV, 1991.
+COLLISCHONN, Gisela - “A Sílaba em Português”. BISOL, Leda (org) Introdução a Estudos de Fonologia do Português Brasileiro. Porto Alegre: EDIPUCRS, 1996.
+CORBERA MORI, Angel H. - “Preservação de Estrutura e Extraprosodicidade na Estrutura Silábica do Aguaruna (Jívaro)”. Letras de Hoje. Porto Alegre: PUCRS, n. 104, p. 139-148, 1996.
+FUNDAÇÃO NACIONAL DO ÍNDIO (Brasil) - Informações sobre Áreas Indígenas. Brasília. 27 pp, 1989.
+GUERSSEL, Mohamed - “Glides in Berber and Syllabicit.” Linguistic Inquiry, v. 17, n. 1. Winter, p. 1-12, 1986.
+ITÔ, I. - Syllable Theory in Prosodic Phonology. Tese de Doutorado. University of Masschusetts, 1986.
+MARTÍN, Eusebia H. - Qué es la Investigación Lingüística. Columba. Coleción Esquemas, n.º 115. Buenos Aires: Editorial, 1972.
+MARTINET, Andre. - Elements of General Linguistics. Chicago: Universidade de Chicago, 1966.
+SEKI, Lucy (org.) - Lingüística Indígena e Educação na América Latina. Campinas: Editora da UNICAMP, 1993.
+WETZELS, Leo - The Lexical Representation of Nasality in Brazilian Portuguese. Probus 9, Walter de Gruyter, p. 203-232, 1997.
+
+

@@ -1,0 +1,2157 @@
+UNIVERSIDADE DE BRASÍLIA INSTITUTO DE LETRAS
+DEPARTAMENTO DE LINGUÍSTICA, PORTUGUÊS E LÍNGUAS CLÁSSICAS PROGRAMA DE PÓS-GRADUAÇÃO EM LINGUÍSTICA
+Relações gramaticais, aspecto, modo e modalidade em Boróro
+Lidiane Szerwinsk Camargos
+Brasília Fevereiro de 2010
+
+UNIVERSIDADE DE BRASÍLIA (UnB) INSTITUTO DE LETRAS (IL)
+DEPARTAMENTO DE LINGUÍSTICA, PORTUGUÊS E LÍNGUAS CLÁSSICAS (LIP) PROGRAMA DE PÓS-GRADUAÇÃO EM LINGUÍSTICA (PPGL)
+Relações gramaticais, aspecto, modo e modalidade em Boróro
+Lidiane Szerwinsk Camargos
+Dissertação submetida ao Departamento de Linguística, Português e Línguas Clássicas da Universidade de Brasília, como parte dos requisitos para obtenção do grau de Mestre em Linguística.
+Orientador: Prof. Dr Aryon Dall’Igna Rodrigues
+Brasília Fevereiro de 2010
+
+UNIVERSIDADE DE BRASÍLIA (UnB) INSTITUTO DE LETRAS (IL)
+DEPARTAMENTO DE LINGUÍSTICA, PORTUGUÊS E LÍNGUAS CLÁSSICAS (LIP) PROGRAMA DE PÓS-GRADUAÇÃO EM LINGUÍSTICA (PPGL)
+Dissertação de Mestrado
+Relações gramaticais, aspecto, modo e modalidade em Boróro
+Lidiane Szerwinsk Camargos
+Banca examinadora: Prof. Dr. Aryon Dall‟Igna Rodrigues - UnB (orientador) Profa. Dra. Tânia Conceição Clemente de Souza – UFRJ (membro externo) Profa. Dra. Ana Suelly Arruda Câmara Cabral - UnB (membro interno) Profa. Maria Risolêta Silva Julião – UFPA (suplente)
+Brasília Fevereiro de 2010
+
+A Claude Lévi-Strauss, in memoriam, por sua contribuição ao estudo da cultura Boróro.
+i
+
+Agradecimentos
+Ao grande mestre professor Aryon D. Rodrigues pelos ensinamentos e discussões que dia-a-dia me instigavam mais para a pesquisa linguística. Agradeço-lhe também, pela honra de ter sido sua orientanda e pelas lições não apenas de linguística, mas também de ética e moralidade na minha formação como pesquisadora de línguas indígenas brasileiras.
+À professora Ana Suelly Arruda Câmara Cabral por ter-me apresentado ao mundo das línguas indígenas brasileiras e pelo constante estímulo à pesquisa. Agradeço-lhe ainda, pelas sábias discussões que me fizeram (e me fazem) refletir e amadurecer. Por fim, por me ensinar que pesquisar uma lìngua indìgena é muito mais que fazer uma „simples‟ descrição linguística.
+Aos índios Boróro das aldeias de Merúri e Nabure iau, em especial aos caciques e pais de coração, Seu Frederico e Dona Santa, que me receberam na aldeia de braços abertos e com os quais pude aprender um pouco mais da língua e da cultura desse povo.
+À professora Tânia Clemente pelas valiosas contribuições durante a defesa do mestrado.
+À FUNAI, nas pessoas de Cláudio Homero e Robson Batista, pela confiança e pelo apoio à pesquisa junto aos índios Boróro.
+Ao CNPq pela bolsa de estudos de mestrado e pelo apoio financeiro dado à pesquisa e aos trabalhos de campo, por meio de projetos nº 401579/2008-5 e 484727/2006-0.
+Aos amigos do LALI e do Programa de Pós-graduação com os quais pude compartilhar trocas de experiências e discussões gerais sobre as línguas indígenas brasileiras.
+À Layane Lima pela eterna amizade e por estar comigo em todos os momentos importantes desta trajetória em Linguística
+ii
+
+Agradeço à Maxwell Miranda, por ser muito mais que um companheiro de mestrado, mas um amigo sempre disposto a dividir comigo minhas dúvidas, descobertas, questionamentos e inquietações. Em especial, à minha família, pelo apoio incomensurável. Sobretudo, ao meu pai, José Maria Camargos, à minha mãe, Sônia Maria Szerwinsk Camargos, ao meu irmão Rafael Camargos e à minha tia, Nélia Paiva, por acreditarem em meu potencial e pelo estímulo constante aos meus estudos. Ao Guilherme Paranhos pelo apoio constante, carinho e compreensão durante a finalização deste trabalho. Por fim, a todos que contribuíram com o desenvolvimento deste trabalho.
+iii
+
+Os Bororo são os maiores e os mais belos indígenas do Brasil. Sua cabeça redonda, sua face alongada, com traços regulares e vigorosos, seus ombros de atleta, evocam certos tipos patagões aos quais talvez se liguem, do ponto de vista racial.
+Claude Lévi-Strauss 1957:227
+iv
+
+Resumo
+No presente estudo fizemos (i) um levantamento das publicações linguísticas sobre a língua Boróro, (ii) uma revisão dos estudos sobre as relações gramaticais e o padrão de alinhamento nessa língua, assim como apresentamos uma nova proposta de análise com base em novos dados, mostrando que o Boróro apresenta um padrão de alinhamento ergativo-absolutivo e (iii) uma discussão sobre como são expressas as categorias de modo, de modalidade e de aspecto em Boróro em contraste com as análises precedentes de Crowell (1977), Viana (2003, 2004) e Nonato (2008). Palavras-chaves: Boróro; Sintaxe; Alinhamento; Modo; Modalidade; Aspecto.
+v
+
+Abstract
+In this thesis a three-fold objective was attained: (i) the presentation of a survey of the linguistic publications on the Boróro language, (ii) a review of the literature on the coding of grammatical relations in this language as well as the presentation of a new hypothesis, based on original data, showing that the Boróro language has an ErgativeAbsolutive pattern of alignment, and (iii) a discussion concerning the expression of the categories of Aspect, Mood and Modality in Boróro, as contrasted to the analyses presented in Crowell (1977), Viana (2003, 2004) and Nonato (2008). Keywords: Boróro; Syntax; Alignment; Mood; Modality; Aspect
+vi
+
+Lista de abreviaturas
+
+1sg 2 sg 3 sg 1pl 2pl 3pl 1±3
+2± 3
+A ASP ABL ABS AG ATU CONT DAT DUR ERG EXC FUT HAB IMP
+
+Primeira pessoa singular Segunda pessoa singular Terceira pessoa singular Primeira pessoa plural Segunda pessoa plural terceira pessoa plural Primeira pessoa ± terceira pessoa Segunda pessoa ± terceira pessoa Agente Aspecto Ablativo Absolutivo Agente Atual Continuativo Dativo Durativo Ergativo Exclusivo Futuro Habitual Imperativo
+
+INC
+
+Inclusivo
+
+IND
+
+Indicativo
+
+NEG
+
+Negação
+
+NLZ
+
+Nominalizador
+
+NLZ CIRC Nominalizador de circunstância
+
+NOM
+
+Nominativo
+
+O
+
+Objeto
+
+PROJ
+
+Projetivo
+
+P R REC REFL REL REP S TER TNM V VINAC VINERG VTRANS
+
+Padrão Relacional Recíproco Reflexivo Relativo Reportativo Sujeito de transitiva Terminativo-recente Tempo, negação e modo Verbo Verbo inacusativo Verbo inergativo Verbo transitivo
+
+vii
+
+Lista de quadros e imagens
+Quadro 1: Marcadores pessoais do Mebengokré descritos por Rodrigues, Cabral e Costa, 2004............................................................................................................ 26 Quadro 2: Marcadores de pessoa, segundo Rodrigues 1993................................. 31 Quadro 3: Jespersen sobre modalidades (1924:320)............................................. 54 Quadro 4: Esquema modal e aspectual do Boróro (Viana 2004).......................... 64 Quadro 5 : Comparação das análises de Crowell (1977), Viana (2004), Nonato (2008) e Camargos (2010)....................................................................................... 83
+Imagem 1: Território ocupado antigamente pelos Bororos e reservas atuais (Colbacchini e Albisetti, 1945)................................................................................ 7 Imagem 2: Planta Esquemática Simplificada da aldeia Bororo (Colbacchini e Albisetti, 1945)...................................................................................................... 8
+viii
+
+Índice
+Dedicatória.......................................................................................................................... i Agradecimentos.................................................................................................................. ii Epígrafe............................................................................................................................... iv Resumo................................................................................................................................ v Abstract............................................................................................................................... vi Lista de abreviaturas e símbolos....................................................................................... vii Lista de quadros e figuras................................................................................................. viii
+0. Introdução....................................................................................................................... 1 0.1 Objetivos ....................................................................................................................... 1 0.2 Quadro teórico e metodologia........................................................................................ 3 0.3 Trabalho de campo......................................................................................................... 3 0.4 Organização dos capítulos.............................................................................................. 4
+Capítulo I - Informações gerais........................................................................................ 5 1.1 Introdução...................................................................................................................... 5 1.2 Sobre o povo.................................................................................................................. 5 1.3 Informações etnográficas............................................................................................... 8 1.4 Sobre a língua ................................................................................................................ 9 1.5 Considerações finais....................................................................................................... 13
+Capítulo II - Revisão bibliográfica crítica....................................................................... 14 2.1 Introdução...................................................................................................................... 14 2.2 Trabalhos linguísticos salesianos................................................................................... 14 2.3 Demais trabalhos etnográficos....................................................................................... 18 2.4 Considerações finais....................................................................................................... 23
+Capítulo III - Relações gramaticais na língua Boróro.................................................... 24 3.1 Introdução...................................................................................................................... 24 3.2. Ergatividade no tronco Macro-Jê: Karirí, Mebengokré, Panará e Maxakalí................ 24
+ix
+
+3.3 Língua Boróro............................................................................................................... 29 3.3.1 Marcas pessoais.................................................................................................... 30 3.3.2 Tipos predicados.................................................................................................. 34
+3.4 Padrão de alinhamento ergativo-absolutivo em orações independentes........................ 44 3.5 Considerações finais....................................................................................................... 47 Capítulo IV - As categorias de aspecto, modo e modalidade......................................... 49 4.1 Introdução...................................................................................................................... 49 4.2 Algumas visões sobre as categorias de tempo aspecto, modo e modalidade através das línguas........... 50 4.3 Análises precedentes de expressões de tempo, modo e aspecto em Boróro.................. 54 4.4 Nossa análise.................................................................................................................. 68 4.5 Considerações finais....................................................................................................... 81 Conclusões........................................................................................................................... 85 Referências Bibliográficas................................................................................................. 87
+x
+
+INTRODUÇÃO
+Segundo o último recenseamento realizado pela Fundação Nacional de Saúde (FUNASA), em 2006, a etnia Boróro contava com aproximadamente 1.400 índios1, distribuídos em seis terras indígenas, a saber: Merúri, Jarudóri, Tadarimana, Tereza Cristina, Sangradouro/Volta Redonda e Perigara. Essas terras indígenas estão localizadas no estado do Mato Grosso, em um território que se estende de leste a oeste entre as fronteiras com o estado de Goiás e com a Bolívia.
+A língua Boróro pertence à família Boróro do tronco linguístico Macro-Jê (Rodrigues 1986, 1999). Dessa família fazem parte também as línguas Umutína e Otúke, hoje extintas. O Otúke era falado no início do século XX na região de fronteira entre Brasil e Bolívia, enquanto que o Umutína era falado na região de fronteira entre o Mato Grosso e Mato Grosso do Sul.
+A língua Boróro encontra-se seriamente ameaçada de extinção, uma vez que a maioria da população não mais a utiliza, mas servem-se somente da língua portuguesa. Sendo falada no estado do Mato Grosso encontra-se geograficamente próxima a outras línguas do tronco Macro-Jê – Guató (família Guató), Xavánte (Jê Central), Karajá (família Karajá), Rikbaktsá (família Rikbaktsá), mas também a outras línguas de outros agrupamentos genéticos, como o Kadiwéu (família Guaikurú), o Teréna (família Aruak) e o Chiquitano (família Chiquitano).
+Das três línguas da família Boróro, é sobre a Boróro que possuímos o maior número de estudos, como veremos adiante. Sobre o Otúke há apenas dois trabalhos comparativos (RIVET e CRÉQUI-MONTFORT, 1912 e 1913). Sobre o Umutína há um extenso vocabulário organizado por Max Schmidt (1928), outro menor colhido por Harald Schultz (1962), dois estudos comparativos com o Boróro (Rodrigues 1952 e 2007) e uma dissertação de mestrado, com base em dados coletados junto ao seu último falante (Lima, 1995).
+A língua Boróro foi objeto de pesquisas científicas que resultaram em vários trabalhos, sendo que destes os principais são: a Enciclopédia Bororo (3 volumes) de Albisetti
+1 Cf. site do Instituto Socioambiental <www.isa.org.br>.
+1
+
+e Venturelli, a tese de doutorado “A grammar of Boróro” (Crowell 1979), um “Pequeno dicionário Boróro-Português - a serviço da escola bororo” (Ochoa 2001), o trabalho de qualificação de doutorado intitulado “Morfossintaxe da lìngua Boróro” (Viana 2003), dois artigos, “Tempo, aspecto e modo em Boróro” (Viana 2004) e “Dissimulação de sonoridade em Boróro: uma abordagem com base no princìpio do contorno obrigatório” (Viana 2007) e a dissertação de mestrado “Ainore Boe: um estudo descritivo da lìngua bororo e consequências para a teoria de caso e concordância” (Nonato 2008). Há ainda vocabulários, como o “Vocabulário da Lìngua dos Borôros” (Basìlio Magalhães 1919).
+0.1 Objetivos
+O objetivo geral deste trabalho é analisar as relações gramaticais e as categorias de modo, modalidade e aspecto na língua Boróro.
+Os objetivos específicos são:  Investigar de que modo a língua Boróro alinha seus argumentos;  Investigar as relações sintáticas que se estabelecem no interior da oração;  Analisar os tipos de predicados existentes na língua e a maneira como os constituintes se organizam em cada um deles;  Analisar a função da posposição –di em predicados transitivos e intransitivos;  Fornecer uma análise detalhada das relações gramaticais na língua, investigando como se dão essas relações no interior das orações e os fatores que as condicionam, tais como aspecto, modo e modalidade de ação;  Entender como na língua Boróro são interpretados os acontecimentos ocorridos na linha do tempo e como são expressas as atitudes dos falantes com respeito ao status destes fenômenos, especificando como as categorias de aspecto, modo e modalidade são codificadas na língua.
+2
+
+0.2 Quadro teórico e metodologia
+Este trabalho fundamenta-se em uma abordagem de natureza funcionalista, que visa descrever as estruturas linguísticas e analisá-las de acordo com suas formas e suas funções. Para as discussões sobre as relações gramaticais, sobretudo o padrão de alinhamento, nos embasamos em Comrie (1976), Li e Thompson (1981) e Dixon (1994). Para as discussões sobre aspecto e aktionsart nos embasamos em Vendler (1967), Comrie (1976), Chung e Timberlake (1985) e Desclés e Guentchéva (1997), sobre modo e modalidade em Jespersen (1924), Chung e Timberlake (1985) e Palmer (1986) e sobre tempo em Comrie (1976) e Chung e Timberlake (1985).
+Para a análise utilizaremos dados provindos de Crowell (1977), Colbacchini e Albisetti (1942), Albisetti e Venturelli (1969), Viana (2003, 2004) e notas de campo de Viana, e dados coletados por Camargos em duas viagens de campo, em 2006 e 2007, à aldeia Nabure-iau, terra indígena Merúri, bem como dados coletados por Camargos, Rodrigues e Cabral no Laboratório de Línguas Indígenas da UnB (LALI), quando da vinda de Valdir Ecera Eceba, no primeiro semestre de 2009, e de Dona Santa Okugo e Seu Frederico Barreto, em dezembro do mesmo ano. Os dados coletados por Camargos, individualmente ou em parceria com Rodrigues e Cabral, constituem acervo linguístico do Banco de Dados da Língua Boróro do LALI.
+Os dados coletados foram gravados em sistemas digitais (Sony IC Recorder ICDMX20) e em fitas cassete (Sony Cassette-Corder TCM-200 DV e Sony TCM-5000). As gravações somam um total aproximado de 25 horas, incluindo palavras, frases, cantos, mitos e histórias.
+0.3 Trabalho de campo
+Durante o período da graduação, realizei duas sessões de trabalho de campo, em 2006 e 2007, nos meses de julho e agosto, na aldeia Nabure-iau, na terra indígena de Merúri. Em cada viagem fiquei aproximadamente 20 dias.
+Na primeira viagem de campo coletei palavras isoladas: nomes de parentesco, partes do corpo humano, nomes de plantas, elementos da natureza e nomes de animais e
+3
+
+também registrei os cantos do ritual de batismo do clã Ecerae, subclã Paiwo. Na segunda viagem de campo, coletei dados de orações dependentes e independentes e algumas histórias contadas pelos velhos durante uma festa.
+No primeiro semestre de 2009, Valdir Ecerae Eceba, um índio Boróro, passou no vestibular da UnB para o curso de agronomia, através do convênio UnB/FUNAI. Valdir procurou o LALI com interesse em aprender a gramática da sua língua materna. Dessa forma, pudemos trabalhar em equipe e de forma sistemática no estudo mais aprofundado da gramática da língua Boróro. Infelizmente os estudos com Valdir foram logo interrompidos por causa de um acidente de carro que matou nove índios de sua aldeia, o que o levou a suspender os estudos.
+Em dezembro do mesmo ano pude contar com a preciosa ajuda de dois velhos caciques da aldeia Nabure-iau, Dona Santa e Seu Frederico. Durante os 15 dias em que estiveram em Brasília, tivemos a oportunidade de coletar e analisar com a ajuda deles os novos dados.
+0.4 Organização dos capítulos
+Esta dissertação estrutura-se da seguinte maneira: no capítulo I será apresentada uma breve explanação sobre o povo e a língua Boróro. No capítulo II, faremos uma revisão crítica das publicações sobre a língua. No capítulo III, discutimos as relações gramaticais e o tipo de alinhamento da mesma. No capítulo IV, apresentamos as análises precedentes dos morfemas de modo, de modalidade e de aspecto e trazemos uma nova interpretação para esses morfemas. E, por fim, no capítulo V, mostramos as conclusões alcançadas com esta pesquisa. Em seguida, apresentamos as referências bibliográficas.
+4
+
+CAPÍTULO I
+1. O povo e a língua
+1.1 Introdução
+Neste capítulo apresentaremos informações sobre o povo Boróro – um breve panorama da história do contato, localização geográfica, informações etnográficas e situação atual – e sobre a classificação da língua Boróro.
+1.2 Sobre o povo
+Os Boróro se autodenominam boe „gente‟. O nome boróro, que na língua significa „pátio da aldeia‟ foi dado pelos não indígenas que estabeleceram contato com eles.
+Segundo Bordignon Enawuréu (2001:31), os Boróro
+ocupavam um vasto território de mais de 400.000 km², que podemos delimitar aproximadamente: ao Norte, de Nova Xavantina; Ao norte nas cabeceiras do rios Paraguai e Cuiabá e acompanhando o rio das Mortes até a cidade atual de Nova Xavantina; Ao leste, pelo rio Araguaia, dos dois lados, desde as cabeceiras até as proximidades de Aruanã, onde começava o território Karajá; ao Sul nas cabeceiras dos rios Taquari, Coxim, Miranda e Aquidauana; Oeste da barra do rio Cuiabá, com o Paraguai, subindo a esquerda, entrando na Bolívia até as cabeceiras dos rios São Matias, Jauru e Cabaçal.
+Bordignon Enawuréu (2001:32) divide a história do contato em três fases distintas:
+(a) A busca do ouro – Teve início no século XVII, quando os espanhóis e os jesuítas entraram em contato com os Boróro da região do rio Paraguai. Após o contato, os bandeirantes paulistas começaram a capturar os Boróro para usá-los como escravos ou guias ou para vendê-los aos exploradores de ouro. 5
+
+(b) A pacificação dos Boróro do rio São Lourenço – Os Boróro do rio São Lourenço eram chamados de Coroados. Após confrontos violentos com os mineradores de ouro, os Coroados se afastaram para lugares menos acessíveis. Contudo, a caçada aos índios não diminuía. As perdas eram de ambos os lados, tanto dos mineradores, quanto dos índios. Sem possibilidades de pacificação, o governador de Mato Grosso resolveu convencer algumas mulheres Boróro, escravas em Cuiabá , a cooperarem com o governo. Lideradas por Rosa Bororo, o grupo de mulheres – que tiveram seus filhos mantidos como reféns em Cuiabá – conseguiu convencer os Boróro a entregarem as armas em 16 de junho de 1886, após alguns dias de festa. Um ano depois, outro grupo Boróro resolveu também entregar as armas. Em 1895, os missionários salesianos se juntaram aos militares, por três anos, na catequese dos índios. Nesse período foram criadas duas colônias militares indígenas no rio São Lourenço, Tereza Cristina e Princesa Isabel, contudo, somente a primeira funcionou bem. O uso de aguardente e o abuso contra as mulheres Boróro fizeram com que muitos índios abandonassem as colônias. Nesse período quatro grandes áreas foram demarcadas: São João do Jarudóri, Tadarimana, Tereza Cristina e Perigara. Nas décadas de 1950 e 1960, a falta de assistência do governo federal, os surtos de epidemias, o alcoolismo, a baixa taxa de natalidade e as invasões dos não-índios nas reservas indígenas deixou o povo Boróro à beira da extinção.
+(c) A “pacificação” dos Boróro dos rios Garças e Araguaia pelos missionários salesianos – contrariamente aos Boróro do rio São Lourenço, os Boróro dos rios das Garças, das Mortes e Alto São Lourenço não se renderam facilmente aos militares e fazendeiros e continuavam em conflitos sangrentos, que acabavam em mortes.
+De acordo com informações constantes no site do Instituto Socioambiental2 (ISA), no final do século XIX, os Boróro somavam cerca de 10.000 indivíduos e ocupavam um território 300 vezes maior que o atual. Essa área, segundo Bordignon Enawuréu (1986), confirmando o que já havia sido informado por Colbacchini e Albisetti (1942), estendia-se, a oeste, para um pouco além da fronteira com a Bolívia e, a leste, para além do rio Araguaia, ao sul de Goiás, alcançando a região do Triângulo Mineiro, conforme pode ser observado no mapa 1, reproduzido de Bordignon Enawuréu, 1986:25.
+2 Cf. Enciclopédia dos povos indígenas, disponível em www.isa.org.com.
+6
+
+Imagem1: Território ocupado antigamente pelos Bororo e reservas atuais (reproduzido de Colbacchini e Albisetti, 1945)
+Sobre a atuação dos missionários salesianos junto aos Boróro, o antropólogo LéviStrauss, na década de 30, ao visitar a hoje extinta aldeia de Kejara, observou que essa aldeia ainda era juntamente com as outras duas da área do rio Vermelho – Pobori e Jarudori –, umas das últimas onde a ação dos salesianos não fora decisiva. Lévi-Strauss ainda declarou que
+“Pois esses missionários que, com o Serviço de Proteção, conseguiram acabar com os conflitos entre os índios e colonos, fizeram simultaneamente excelente pesquisas etnográficas (nossas melhoras fontes sobre os Boróro, depois dos estudos mais antigos de Karl von den Steinen) e empreenderam o extermínio metódico da cultura indìgena” (cf. Lévi-Strauss, 1955:203).
+A presença dos salesianos ainda é uma realidade na maioria das aldeias Boróro. Atualmente, talvez como forma de reparar o extermínio cultural de outrora, eles organizam, em Merúri, um Centro Cultural que desenvolve ações como: (i) organização de uma biblioteca com todo o acervo publicado sobre a língua Boróro; (ii) re-aprendizagem da confecção de artefatos antigos; (iii) organização de uma sala de exposição permanente desses artefatos; (iv) confecção de material didático monolíngue e bilíngue.
+7
+
+1.3 Informações etnográficas De acordo com Lévi-Strauss (1936), a aldeia Boróro era dividida em duas
+metades exogâmicas denominadas, respectivamente, de Tugarege e Ecerae e cada uma dividida em quatro clãs principais.
+As aldeias são, originalmente, circulares e as casas são distribuídas ao redor do grande círculo (cf. imagem 2, retirada de Albisetti e Ventureli 1969). No centro da aldeia há a casa dos homens, denominada de baito ou bai manna gejew e, ao lado oeste da casa dos homens, há a casa cerimonial, denominada Boróro, local em que se realizam as cerimônias mais importantes.
+Imagem 2: Planta Esquemática Simplificada da aldeia Bororo (Colbachinni e Albisetti, 1945)
+8
+
+1.4 Sobre a língua
+1.4.1 Classificação linguística
+A língua Boróro é classificada como pertencente à família Boróro, que inclui também as línguas Otúke e Umutína, ambas já mortas. Essa família integra o tronco linguístico Macro-Jê (cf. hipoéteses de Guérios, 1939, e Rodrigues3, 1986, 1999 Greenberg 1987).
+As primeiras evidências para classificar a língua Boróro como relacionada com a família linguística Jê devem-se a Rosário Farani Mansur Guérios, em um trabalho comparativo intitulado O nexo linguístico Boróro – Merrime-Caiapó (1939).
+Utilizamos a hipótese Macro-Jê de Rodrigues que contempla 12 famílias linguísticas, a saber:
+I Família Jê a) Jê nordeste 1. Jaikó (sudeste do Piauí) b) Jê norte
+3O tronco Macro-Jê proposto por Rodrigues é ainda uma hipótese em andamento. A complexidade no desenvolvimento da hipótese Macro-Jê deve-se, primordialmente, à precariedade e à insuficiência de dados para os avanços da pesquisa. Segundo Rodrigues (1986),
+[...] A constituição do tronco Macro-Jê é altamente hipotético ainda. Alguns dos seus membros são representados por línguas que ainda se falam, como o Maxakalí, o Boróro, o Karajá, o Guató, o Ofayé as quais têm sido estudadas modernamente e cujo conhecimento pode ser aprofundado. Outras, porém já deixarem de ser faladas e delas só temos conhecimento através de documentos do passado, em geral muito precários. Esse é o caso da família kamakã (kamakã, Mongoyó, Kotoxó e Menien), as quais se falavam até a primeira metade deste século no sul da Bahia e no norte do Espírito Santo; e de todas as línguas da família Purí (Coroado, Purí e Koropó), faladas pelo menos até o fim do século passado no leste de Minas Gerais e no oeste do Espírito Santo e do Rio de Janeiro. Desapareceram também todas as línguas da família karirí, mas de duas delas temos boa documentação do fim do século XVII e do início do século XVIII; trata-se do Kipeá (ou Kirirí) e do Dzubukuá, aquele do nordeste da Bahia e Sergipe, este das grandes ilhas do rio São Francisco, entre a Bahia e o Pernambuco, próximo a Cabrobó. Da família botocudo tenta-se hoje, com grande dificuldade, obter algum conhecimento da língua dos poucos sobreviventes que restam de dois grupos de seus subgrupos, os Krenak e os Nakrehé [...]” (p. 49).
+9
+
+1. Timbíra (incluindo Canela Ramkokamekrã, Canela Apanyekrã, Gavião Piokobjé, Gavião Parakatejé, Krinkatí, krahô, krenjé; Maranhão, Pará, Tocantins; 2,800)
+2. Apinajé (norte de Tocantins: 720) 3. Kayapó (incluindo A‟ukré, Gorotìre, kararaô, kikretum, kokraimôro,
+Kubenkrakén, Menkrangnotí, Mentuktíre, Xikrin; Mato Grosso Oriental e sudeste do Pará: 5,000). 4. Panará (Kren-akarôre (Área Indígena Panará, norte do Mato Grosso e sudeste do Pará: 160). 5. Suyá (incluindo Tapayuna; Parque Indígena do Xingú no Mato Grosso; 213 S. , 58 T.).
+c) Jê Central 1. Xavante (Sudeste de Mato Grosso, formalmente no norte e no oeste de Mato Grosso; 9,000). 2. Xerente (Tocantins; 1550) 3. Xabriabá (Minas Gerais; 5,700 etnias, provavelmente não falantes). 4. Akroá (Goiás oriental; sul do Maranhão)
+d) Jê Sul 1. Kaingáng (incluindo K. de São Paulo, K. do Para: ná, K. central, k. do sudoeste. K. do sudeste: São Paulo, Paraná, Santa Catarina, Rio Grande do Sul: 2,000) 2. Xokléng (Santa Catarina: 1,650) 3. Ingaín (nordeste da Argentina, sudeste do Paraguai).
+II Família Kamakã 1. Kamakã (sudeste da Bahia, nordeste do Espírito Santo) 2. Mongoyó (sudeste da Bahia) 3. Menién (sudeste da Bahia) 4. Kotoxó (sudeste da Bahia) 5. Masakará (nordeste da Bahia)
+III Família Maxakalí 1. Maxakalí (nordeste de Minas Gerais, norte do Espírito Santo: 854)
+10
+
+2. Kapoxó (incluindo Kumanaxó e Panháme; Nordeste de Minas Gerais e sudeste da Bahia)
+3. Monoxó (nordeste de Minas Gerais e sudeste da Bahia) 4. Makoní (nordeste de Minas Gerais) 5. Malilí (nordeste de Minas Gerais) 6. Pataxó (incluindo Hãhãhãe; sudeste da Bahia: 4,600 etnias)
+IV Família Krenák 1. Krenák (formalmente chamados de Botocudos, incluindo Nakrehé, Nakpié, Naknyanúk, Nyepnyep, Etwet, Minyãyirún, Yiporók, Pojitxá, Potén, Krekmún, Bakuén, Aranã; nordeste de Minas Gerais e norte e centro do Espírito Santo, formalmente também no sudeste da Bahia; algumas família agora também no centro de São Paulo; 100 etnias; cerca de 10 falantes) 2. Guerén (sudeste da Bahia)
+V Família Purí 1. Purí (Espírito Santo, Rio de Janeiro, nordeste de São Paulo, sudeste de Minas Gerais) 2. Koropó (Espírito Santo) 3. Coroado (Espírito Santo)
+VI Família Karirí 1. Kipeá (também conhecido como Kirirí; nordeste da Bahia e Sergipe; 1830 etnias) 2. Dzubukuá (sobre uma ilha no rio São Francisco, no norte da Bahia) 3. Sabuyá ou Sapoyá (centro da Bahia) 4. Kamurú ou Pedra Branca (leste da Bahia)
+VII Família Yaté 1. Yaté (as pessoas são chamadas fulniô, formalmente conhecidos como Carnijó; Pernambuco; 3,000)
+VIII Família Karajá
+11
+
+1. Karajá (incluindo K. do sul, K. do norte, Javaé e Xambiwá; leste Mato Grosso e oeste de Tocantins; 2,900)
+IX Família Ofayé 1. Ofayé (incluindo Ivinheima O. e Vacaria O.; também conhecido como Opayé e OfayéXavante; leste de Mato Grosso do Sul; 87 etnias, cerca de 25 falantes)
+X Família Boróro 1. Boróro oriental (sul de Mato Grosso; 1,072 etnias, algumas das quais não falam Boróro) 2. Boróro ocidental (oeste de Mato Grosso) 3. Umutína (oeste de Mato Grosso; 100 etnias; 1 falante4) 4. Otúke (incluindo Kovare(ka) e Kurumina(ka); leste da Bolívia)
+XI Guató 1. Guató (sudoeste de Mato Grosso; 380 etnias, somente cerca de 5 falantes)
+XII Família Rikbaktsá 1. Rikbaktsá (norte de Mato Grosso, 990 falantes)
+Em trabalho publicado recentemente, Sândalo e Nonato (2007) consideram possíveis relações do Boróro com as famílias Guaikurú e Mataco, e levantam a possibilidade de que as semelhanças que eles observaram entre essas famílias sejam oriundas de difusão areal. Observam, entretanto, que
+a presença do relacional na família Guaikurú, em conjunção com as evidências que viemos apresentar, de que o relacional em Bororo e nas línguas da família Guaikurú pode ter uma origem comum, aponta a necessidade de mais estudos areais e histórico-comparativos na região do Chaco. (Sândalo e Nonato, 2007:105)
+4 O último falante da língua Umutína faleceu em 2003.
+12
+
+1.5 Considerações finais Neste capítulo fizemos um breve relato da história de contato do povo Boróro
+com os colonizadores e com a missão católica salesiana. Apresentamos ainda algumas informações etnográficas sobre os mesmos. Por fim, apresentamos a classificação linguística do Boróro, como constituinte do tronco Macro-Jê conforme apresentado por Rodrigues (1986, 1999).
+13
+
+CAPÍTULO II
+2. Revisão crítica das publicações sobre a língua Boróro
+2.1 Introdução
+Neste capítulo faremos um levantamento das principais publicações sobre a língua Boróro.
+Como já explicitado anteriormente, os Boróro têm uma longa história de contato iniciada ainda no século XVIII. Durante cerca de três séculos de contato, muitas pesquisas, tanto linguísticas quanto etnográficas, foram desenvolvidas. Estima-se que mais de 50 pesquisadores, entre missionários, linguistas, antropólogos e arqueólogos já trabalharam junto ao povo Boróro.
+Destacamos aqui os trabalhos de documentação linguística realizados pelos missionários salesianos. Essas publicações constituem um importante acervo sobre a língua e a cultura do povo Boróro e constituem a mais importante contribuição documental sobre a língua Boróro. O acervo inclui informações etnográficas, registros dos principais mitos e histórias, esboços gramaticais e vocabulários e um dicionário enciclopédico.
+2.2 Trabalhos linguísticos salesianos
+Uma grande vantagem das publicações salesianas é o fato de apresentarem textos bilíngues, Boróro/Português e, em grande maioria, tradução interlinear. Entretanto, as transcrições e interpretações fonéticas ou fonológicas não são tão rigorosas. Os missionários, por exemplo, não identificam a vogal central alta ( e a transcrevem ora como i, ora como u.
+A seguir, apresentamos os principais trabalhos dos salesianos.
+14
+
+ Missão Salesiana
+Elementos de grammatica e diccionario da língua dos Boróros-Coroados de Matto-Grosso, Cuiabá, 1908. Brochura com um esboço de gramática, em apresentação tradicional (págs. 1-47) e um vocabulário Boróro-Português (págs. 51-65). As primeiras três páginas da gramática apresentam sumariamente o alfabeto utilizado, os sons e os acentos.
+Noções de catecismo em língua Boróro, Cuiabá, 1919, 135 p. É um livro bilíngue Boróro-Português, que ensina noções e práticas do catolicismo. Ao final do livro, há uma advertência sobre a pronúncia correta da língua Boróro.
+ Antonio Colbacchini
+I Boróros Orientali "Orarimugudoge" del Matto Grosso, Brasile. Turim, (1924), XII+463 211 p. É uma obra ricamente ilustrada com fotografias, mapas e imagens. Constitui-se em cinco partes: (i) notas etnográficas, incluindo um recenseamento da população; (ii) mito dos “orarimugudoge”, (iii) a gramática dos “orarimugudoge”, de acordo com o autor “uma breve exposição das principais regras da lìngua”, que inclui dados sobre a fonética e a morfologia e algumas observações sobre a sintaxe; (iv) texto com tradução interlinear e, por fim, a parte (v) com cantos religiosos.
+Há outra publicação de Colbacchini somente sobre a gramática da língua, à qual não tivemos acesso: Grammatica dei Bororos-Orarimugudoge del Matto Grosso.
+ Ricardo Tonelli
+“Alcune osservazioni sulla sintassi della lingua degl'indi Bororo-Orari del Matto Grosso (Brasile)”, em Atti del XXII Congresso Internazionale degli Americanisti, II, Roma, 1928, p. 569-585, vertido para o Português em Colbacchini e Albisetti 1942, p. 308-321.
+15
+
+“Il nome dei vivi e dei defunti (aroe) presso gl‟Indi Orari (Bororo orientali) del Matto Grosso”, em Festschrift P. W. Schmidt, Viena, 1928 p. 734-739. Infelizmente ainda não tivemos acesso a esse trabalho.
+ Ricardo Tonelli & Alfredo Trombetti
+O trabalho “La lingua dei Bororo-Orarimugudoge secondo i materiali pubblicati dalle missioni salesiane. Studio comparativo. Contributi scientifici delle missioni salesiane del venerabile Don Bosco” (1925) foi feito em parceria com o linguìsta Trombetti. Infelizmente ainda não tivemos acesso a esse material.
+ Antonio Colbacchini & Cesar Albisetti
+Os Boróros orientais orarimogodógue do Planalto Oriental de Mato Grosso: contribuição científica da missão salesiana de Mato Grosso aos estudos de etnografia e etnologia brasileira. São Paulo: Companhia Editora Nacional, 1942, 454 p. Esta obra é uma versão mais atualizada e em português da obra de Colbacchini (1924). É dividida em seis partes: (i) notícias etnográficas; (ii) Lendas dos orarimogodogue em português; (iii) Gramática da língua dos orarimogodogue – fonética, morfologia e observações sintáticas pelo Pe. Tonelli; (iv) Lendas em língua orari com a tradução interlinear para o português; (v) Cantos – religiosos, para caça e para pesca, para os funerais; (vi) vocabulário da língua Bororo.
+16
+
+ Cesar Albisetti
+“Estudos e notas complementares sôbre os Bororo Orientais. Contribuições Missionárias.”, em: Publicações da Sociedade Brasileira de Antropologia e Etnologia, n. 2, Rio de Janeiro, 1948, p. 3-24.
+“Nótulas morfemo-etimológicas de lìngua “Bororo”, em: Anais do XXXI Congresso Internacional de Americanistas, vol. II, 1955, p. 1074-1082. Infelizmente ainda não tivemos acesso a esses trabalhos.
+ Cesar Albisetti & Ângelo Jayme Venturelli
+Enciclopédia Boróro, vol. I: vocabulários e etnografia. Campo Grande: Museu Regional Dom Bosco, 1962, 1047 p.; vol. II, lendas e antropônimos. Campo Grande: Museu Regional Dom Bosco, 1209 p.; vol. III, cantos de caça e de pesca. Campo Grande: Museu Regional Dom Bosco, 277 p.
+Esta é a publicação etnográfica mais importante da missão salesiana sobre os Boróro e sua língua. Os textos são bilíngues e apresentam três versões: (i) em Boróro com tradução interlinear; (ii) tradução literal e (iii) versão em português. Embora a transcrição fonética não seja muito rigorosa, os textos contidos nos três volumes são excelentes fontes de informações para os próprios Boróro e para os pesquisadores da língua e da cultura desse povo.
+ Gonçalo Ochoa
+Pequeno dicionário Boróro-Português – a serviço da escola. Campo Grande: UCDB, 2005, 314 p. Esse dicionário, segundo o autor, tem a
+“intenção de colocar ao alcance dos professores e alunos das escolas Boróro, em primeiro lugar, os valiosos dados linguísticos da Enciclopédia Bororo, adaptando a
+17
+
+ortografia à maneira como hoje é escrita esta língua, tendo em conta sua documentação em computadores, nos quais não é possível trancrevê-la com o sistema ortográfico usado na Enciclopédia” (Ochoa 2005:7).
+Ochoa não informa a quantidade de itens lexicais registrados no dicionário, apenas informa que o vocabulário da linguagem ritual não será contemplado dada a sua complexidade. O dicionário Boróro-Português tem 314 páginas, incluindo o apêndice de antropônimos, uma lista dos principais prefixos e sufixos da língua, uma lista de abreviaturas e notas sobre o alfabeto Boróro. Nos verbetes, cada entrada lexical apresenta (i) as formas variantes da palavra, quando há; (ii) a categoria gramatical; (iii) o significado da palavra; (iv) exemplos de uso (não são todos os verbetes que são exemplificados).
+2.3 Demais trabalhos linguísticos
+2.3.1 Basílio de Magalhães
+“Vocabulário da lìngua dos Borôros-Coroados do Estado de Mato-Grosso”, em: Revista do Instituto Histórico e Geographico Brasileiro, vol. 83, 1919, p. 5-67. (1918), foi elaborado com base em dados coletados junto a três Boróro-Coroado, da aldeia de Tadarimanaparo, em um período de doze meses, em que Magalhães os abrigou em sua casa em Campinas. Segundo o próprio autor,
+Dos trabalhos análogos, creio ser o meu o mais completo [...] Tenho a grande satisfação em confessar que o coronel Rondon, benemerito apostolo dos sertões e, dentre os brasileiros vivos, o que melhor conhece a língua borôro, leu e benevolamente apreciou o presente estudo (pág. 9/10). [[sic]]
+A contribuição de Magalhães é valiosa, pois o registro, ainda que não muito grande, é bastante detalhado e cobre variados campos semânticos.
+18
+
+2.3.2 Candido Mariano da Silva Rondon e João Barbosa de Faria
+Esbôço gramatical e vocabulário da língua dos índios Borôro – algumas lendas e notas etnográficas da mesma tribo. Rio de Janeiro: Conselho Nacional de Proteção aos Índios, 1948, 209 p. Trabalho desenvolvido pelo General Rondon com a colaboração de João Barbosa de Faria. Esta obra inclui informações etnográficas, notas gramaticais sobre a sintaxe e um pequeno vocabulário. No que tange às informações gramaticais, a obra trata de uma maneira geral das classes de palavras, com especial ênfase na classe dos verbos e das categorias de sujeito e predicado. Há uma classificação dos tempos verbais em “tempo geral ou absoluto”, “presente-gerúndio”, “pretérito-supino”, “futuro-presente” e “futuro indeterminado”.
+2.3.3 Carlos Drumond
+A contribuição do Bororo à toponímia brasílica. São Paulo: Instituto de Estudos Brasileiros, Universidade de São Paulo, 1965, 134 p. É uma obra que trouxe, além das informações linguísticas sobre os topônimos, também informações mais precisas sobre a área de deslocamento do povo Boróro. De acordo com Drumond (1965:117-118), com este estudo pôde-se
+ delimitar de forma precisa o antigo território ocupado pelo povo Boróro – enquadrado dentro dos paralelos 15º à 18º de latitude sul e 52º à 57º de longitude oeste aproximadamente;
+ obter informações quantitativas sobre os empréstimos do Boróro para o português “... a condição de grupos de caçadores por excelência está refletida ao nosso ver, na toponímia bororo, pois dos 55 nomes dados aos morros, mais de 50% (29) referem-se a animais, distanciando-se de modo bastante acentuado dos demais (9: vegetais; 10: aspectos diversos da cultura; 7: fontes diversas). O mesmo é válido, em linhas gerais, para os nomes dos rios, tendo em vista que dos 168 hidrônimos arrolados 78 fazem alusão a animais numa
+19
+
+proporção de pouco menos de 50% (32: vegetais; 13: aspectos diversos da cultura; 45: fontes diversas)” ;
+ Por fim, “embora não tivesse sido escopo principal do nosso trabalho tratar do nexo linguístico bororo-umutina, os poucos elementos aqui apresentados nos permitem reafirmar o parentesco entre os dois grupos, num grau de conexão mais estreito do que até agora tem sido apontado”.
+2.3.4 Thekla Hartmann
+A nomenclatura botânica dos Borôro – materiais para um ensaio etno-botânico, São Paulo: Instituto de Estudos Brasileiros, Universidade de São Paulo, 1967, 81 p. Constituise de um glossário dos termos botânicos, segundo a cultura Boróro. Todos os verbetes apresentam explicação/descrição e nome científico da planta. A autora utiliza também as informações e explicações ofertadas por Colbacchini e Albisetti na “Enciclopédia Bororo”. O glossário é organizado por grupos temáticos, como, por exemplo: palavras e radicais empregados para plantas em geral; palavras e radicais empregados exclusivamente para palmeiras; nomes relacionados com filhotes de animais, etc.
+2.3.5 Aryon D. Rodrigues
+Os estudos publicados por Rodrigues são: Línguas indígenas brasileiras –para o conhecimento das línguas indígenas (1986), “Uma hipótese sobre flexão de pessoa em Boróro” (1993), “Flexão relacional no tronco linguístico Macro-Jê” (1999), “O parentesco genético das línguas Umutìna e Boróro” (2007).
+O trabalho de 1965 é um estudo comparativo do léxico das línguas Umutína e Boróro, realizado por Rodrigues motivado por Harald Schultz. O estudo foi publicado como parte da monografia etnográfica deste último. Em 2007, Rodrigues publicou uma versão revista deste mesmo trabalho. Esses estudos forneceram maiores evidências do grau de parentesco genético entre aquelas duas línguas da família Boróro.
+20
+
+O trabalho de 1986 é um livro de referência para o conhecimento das línguas indígenas brasileiras. Segundo palavras do próprio autor a “intenção deste livro é divulgar, de forma mais sistemática, conhecimentos sobre a existência de línguas indígenas no Brasil e sobre as relações que se vão descobrindo entre elas”.
+No trabalho de 1993, Rodrigues propos uma hipótese sobre a flexão de pessoa em Boróro. O autor levanta evidências de antigos prefixos relacionais na língua e compara-os com dados da língua Timbíra (Família Jê, tronco Macro-Jê).
+O trabalho de Rodrigues (1999) consiste em um amplo estudo históricocomparativo das línguas do tronco Macro-Jê. O autor reuniu informações sobre a fonologia, morfologia e sintaxe de algumas línguas do tronco Macro-Jê, relacionando-as em uma perspectiva histórico-comparativa.
+2.3.6 Thomas Crowell e Janet Crowell
+Os trabalhos de Crowell são: “Cohesion in Bororo discourse” (1973), "The phonology of Boróro verb, postposition, and noun paradigms” (1977) e “A grammar of Bororo” (1977).
+“A grammar of Bororo”, tese de doutorado do autor, é a descrição linguística mais completa da língua Boróro, até o presente. Compreende descrição da fonética, da morfologia e da sintaxe da língua. As transcrições fonético/fonológicas são bem acuradas e detalhadas e as análises descritivas seguem orientação de base funcionalista.
+Embora Crowell tente dar conta de toda a gramática da língua, algumas questões analisadas por ele, como as categorias de tempo, modo e aspecto, ainda necessitam de estudo mais aprofundado, pois ainda há pontos conflitantes, como os de que trataremos nos capítulos III e IV desta dissertação.
+Há também uma Gramática pedagógica da língua Bororo (1983), elaborada por Janet Crowell, esposa de Thomas Crowell. De acordo com a autora
+esta gramática destina-se principalmente às pessoas interessadas em realmente aprender a falar a língua borôro, em oposição àquelas cujo objetivo é apenas estudar sobre esta língua (Janet Crowell 1983:2)
+21
+
+A gramática é essencialmente de base estruturalista e voltada a um público externo, isto é, às pessoas que não falam a língua Bororo e desejam aprendê-la.
+2.3.7 Adriana Viana
+Os trabalhos produzidos por Viana são: “Morfossintaxe da lìngua Boróro” (exame de qualificação 2003), “Tempo, aspecto e modo em Boróro” (2004) e “Dissimilação de sonoridade em Boróro: uma abordagem com base no princìpio do contorno obrigatório” (2007).
+Adriana Viana era aluna de doutorado do Programa de Pós-graduação em Linguística da UnB, sob orientação do professor Aryon D. Rodrigues e trabalhava com a morfossintaxe da língua Boróro. Infelizmente, veio a falecer na metade do curso, pouco antes de qualificar-se.
+O trabalho de qualificação (2003) contém dois capítulos, um sobre o povo e a língua e o outro sobre a fonologia. Este último é uma revisão crítica da análise proposta por Crowell e uma reanálise à luz da teoria gerativa. O trabalho de 2004 é uma reinterpretação da análise de Crowell dos morfemas de modo e aspecto. É um trabalho de qualidade, porém Viana não acrescenta novos dados, tendo trabalhado somente com os dados de Crowell. No trabalho de 2007, ela discute o processo de dissimilação de sonoridade em Boróro com base em uma perspectiva da fonologia autossegmental.
+2.3. 8 Rafael Nonato e Rafael Nonato & Filomena Sândalo
+O trabalho de Nonato é uma dissertação de mestrado intitulada “Ainore Boe egore: um estudo descritivo da língua bororo e consequências para a teoria de caso e concordância”, defendida em 2008, na UNICAMP. É um trabalho que procura desenvolver, na primeira parte, uma descrição da língua com base no modelo funcionalista e, na segunda, propõe uma análise baseada na teoria gerativa, sendo que, segundo o autor, “a simbologia da
+22
+
+gramática de linha gerativa foi usada somente em alguns pontos que ela permitia apresentar de forma mais elegante e precisa” (2008:4).
+Há outro estudo feito por Rafael Nonato em parceria com Filomena Sândalo, intitulado “Uma comparação gramatical, fonológica e lexical entre as famìlias Guaikurú, Mataco e Bororo: um caso de difusão areal?” (2008). Neste estudo, os autores examinam possíveis relações entre a família Boróro e as famílias Guaikurú e Mataco, concluindo que as semelhanças identificadas por eles são mais provavelmente oriundas de difusão areal.
+2.4 Considerações finais
+Neste capítulo apresentamos os principais trabalhos linguísticos publicados sobre o povo Boróro. Desses trabalhos, destacamos as publicações dos missionários salesianos, que foram os maiores responsáveis pela documentação da língua e da cultura desse povo em uma época em que ambas estavam plenamente em uso.
+Embora a língua Boróro tenha sido descrita e analisada por inúmeros pesquisadores, há ainda lacunas em sua gramática que precisam ser revistas e esclarecidas. Com este trabalho pretendemos trazer um novo olhar para alguns fenômenos morfossintáticos da língua, tais como as relações gramaticais e as categorias de tempo, modo, modalidade e aspecto.
+23
+
+CAPÍTULO III
+3. Relações gramaticais em Boróro
+3.1 Introdução
+Uma investigação dos dados disponíveis sobre o Boróro mostra que, nessa língua, nomes e verbos têm estrutura interna pouco complexa, tendendo a língua para o tipo isolante. Há pouquíssimos morfemas derivacionais e não muitos flexionais.
+Os linguistas que escreveram sobre aspectos gramaticais da língua Boróro – Crowell (1977), Rodrigues (1993), Viana (2003, 2004) – observaram que essa língua possui um único paradigma de pessoa que codificam o determinante de um nome, o sujeito e o objeto direto dos verbos e o complemento das posposições.
+Neste capítulo apresentamos fortes indicações de que a língua Boróro, embora com um único conjunto de marcas pessoais, faz uso de estratégias morfossintáticas bem definidas para distinguir o agente de um verbo transitivo dos demais argumentos verbais. O presente estudo se pauta no tratamento do fenômeno da ergatividade desenvolvido por Comrie (1973) e por Dixon (1994) e considera as manifestações desse fenômeno descritas por Rodrigues (1999) com respeito ao Maxakalí, por Dourado (2001) com respeito ao Panará, por Reis (2003) com respeito ao Mebengokré, por Rodrigues (2003) com respeito ao Karirí, e por Rodrigues, Cabral e Costa com respeito ao Mebengokré (2004).
+3.2. Ergatividade no tronco Macro-Jê: Karirí, Mebengokré, Panará e Maxakalí.
+Dixon (1994:1) contribuiu com a ideia de que a ergatividade configura-se por meio de um padrão gramatical em que o sujeito de uma oração intransitiva (S) é tratado da mesma forma que o objeto de oração transitiva (O) e diferentemente do sujeito de oração transitiva (A). Para Dixon (1994:70), em algumas línguas há uma pressão para identificar S
+24
+
+com A (como em uma língua acusativa) ou S com O (como em uma língua ergativa). As línguas que manifestam um padrão dessa natureza são, segundo o mesmo autor, línguas de sistema cindido.
+Segundo Comrie (1978:329) o termo ergatividade é usado na descrição tradicional da linguística tipológica para referir-se ao sistema de marcação de casos nominais em que o sujeito de verbo intransitivo tem a mesma marca morfológica do objeto direto e uma marca morfológica diferente para o sujeito de um verbo transitivo. A definição de Comrie é representada no esquema abaixo, em que A representa o agente, S o sujeito de intransitivas e P o paciente.
+
+S
+
+V
+
+A
+
+P
+
+V
+
+Ergatividade entendidAa nesse sentido, como manifestação de relações gramaticais entre núcleos de predicados e os argumentos destes, foi identificada em algumas línguas do tronco Macro-Jê, como Karirí, Panará, Mebengokré e Maxakalí.
+Rodrigues (2003:75) identificou em Karirí morfologia e sintaxe ergativas. Como mostrou Rodrigues, nas orações com núcleo verbal transitivo, a preposição no (e seus alomorfes presos -na ~ -ña em conjunto com marcas de pessoa) expressa caso ergativo, enquanto que o sintagma nominal correspondente ao objeto desse verbo, assim como o sintagma nominal que codifica o sujeito de predicados com núcleo intransitivo são não marcados, são absolutivos. Ainda segundo Rodrigues (ibidem), os verbos são flexionados somente para a pessoa absolutiva (experimentador) e a concordância se faz exclusivamente com ela. Alguns exemplos extraídos de Rodrigues que ilustram manifestações de ergatividade em Karirí são os seguintes:
+
+(1) hi te-kri
+
+bo hi-era
+
+1sg vir-perf abl 1-casa
+
+„ eu vim de minha casa‟ (Rodrigues, 2003, p. 73)
+
+25
+
+(2) sõ
+
+hietsã no wo
+
+morder me erg cobra
+
+„uma cobra me mordeu (Rodrigues, 2003, p. 73)
+
+(3) more si-pa
+
+kradzo hi-ña di
+
+logo 3-ser morto vaca 1-erg fut
+
+„logo eu matarei a vaca‟ (Rodrigues, 2003, p. 73)
+
+(4) pa-itu
+
+kradzo no karai
+
+ser morto -DUR vaca erg homem.branco
+
+„l‟homme blanc est en train de tuer la vache‟ (Rodrigues, 2003, p. 73)
+
+Rodrigues argumentou também que a relativização em Karirí distingue absolutivo e ergativo, o que é uma clara evidência de sintaxe ergativa nessa língua:
+
+(5) udzai
+
+[dii-di-ri
+
+no ware]
+
+facai
+
+[3refli-dar-nom
+
+erg padre]
+
+„a faca que o padre deu‟ (Rodrigues, 2003, p. 75)
+
+(6) warei [di-u-di-ri
+
+udza]
+
+padrei [3refli-ag-dar-nom
+
+faca]
+
+„o padre que deu a faca‟ (Rodrigues, 2003, p. 75)
+
+Rodrigues, Cabral e Costa (2004), Silva (2003), e Costa (2003) identificaram manifestações de ergatividade cindida em Mebengokré. Os marcadores pessoais do Mebengokré (Xikrín do Cateté) descritos por Rodrigues, Cabral e Costa (2004) são apresentados no quadro seguinte:
+
+„Glossa‟ 1±3
+1+2
+2±3
+
+Série A ba
+ga
+ga
+
+Série B i
+guba
+a
+
+Quadro 1 dos marcadores pessoais do Mebengokré descritos por Rodrigues, Cabral e Costa, 2004.
+26
+
+Alguns dos exemplos fornecidos por esses autores que ilustram manifestações de ergatividade em Mebengokré são os seguintes:
+
+(7) i -j
+
+-mpr
+
+ket
+
+1 R1-erg R2-pendurar neg
+
+„eu não a pendurei‟ (Rodrigues, Cabral e Costa, 2004, p. 26)
+
+(8) gá
+
+a
+
+-j
+
+i
+
+j-ók
+
+ket
+
+2± 3 2±3 R2-erg 1±3 R1-pintar neg
+
+„você não me pintou‟ (Rodrigues, Cabral e Costa, 2004, p.27)
+
+(9) i
+
+-j
+
+mebegokr -kaben mári rír
+
+1sg R2-erg Xikrín
+
+R2-falar saber pouco
+
+„eu sei falar um pouquinho de Xikrìn‟ (Rodrigues, Cabral e Costa, 2004, p. 27)
+
+Costa (2003:69) mostra que em Mebengokré as orações que têm status gramatical de nome têm predicados nominais e manifestam um padrão ergativo-asbsolutivo e que as demais orações, com predicados verbais, manifestam um padrão nominativo-absolutivo. Nos exemplos 10 e 11 tem-se a partícula ket modificando os predicados transitivos e acionando um padrão ergativo-absolutivo.
+
+(10) a -j menir 2±3 R1-por mulher
+
+-kurua-j
+
+ket
+
+R1-bater-nom neg
+
+„vocês não bateram nas mulheres‟ (Costa, 2003, p. 65)
+
+(11) i -j -mpr-
+
+ket
+
+1±3 R1-por R2-pendurar-nom neg
+
+„eu não a pendurei‟ (Costa, 2003, p. 66)
+
+No Panará, segundo Dourado (2001:29), para organizar as relações argumento/verbo emprega-se no modo realis o sistema ergativo/absolutivo e no modo irrealis o sistema nominativo/acusativo. Dourado ilustra essa distribuição com os seguintes exemplos:
+27
+
+(12) kamrã  =kari =kyẽ =sõ-ri kan
+
+ĩkyẽ mã
+
+2pl erg real.tr =2pl.erg = 1 dat =dar-perf cesta.abs 1sg abs
+
+„vocês me deram uma cesta‟ (Dourado, 2001, p. 28)
+
+(13) prẽ
+
+hẽ pi 
+
+=ti
+
+=
+
+=wayã-ni pri
+
+alguém erg Neg real.tr =3sg.erg =3sg.abs =fazer-perf canoa.abs
+
+„ninguém fez a canoa‟ (Dourado, 2001, p. 50)
+
+(14) ka =ti
+
+=
+
+=wayã
+
+irr =2sg.nom =3sg.abs =fazer.imp.
+
+„você vai trabalhar ou vai fazer comida‟ (Dourado, 2001, p. 125)
+
+(15) piã
+
+tpi ka =ti
+
+=
+
+=sa =popo
+
+que peixe.abs irr =3sg.nom =3sg.abs =furar =flechar
+
+„que peixe ele vai pescar?‟ (Dourado, 2001, p. 130)
+
+Quanto ao Maxakalí, Rodrigues (1999, p. 194) observou que em algumas sentenças dessa língua o sujeito é marcado por uma posposição te, analisada por este autor como uma marca ergativa, como mostram os seguintes exemplos:
+
+(16) tik
+
+te kpk
+
+tt
+
+homem Erg machado afiar „o homem afiou o machado‟ (Rodrigues, 1999, p. 194)
+
+(17) kpk te mĩm kaok | mep machado Erg madeira dura | cortar „o machado cortou madeira dura‟ (Rodrigues, 1999, p. 194)
+
+28
+
+3.3 Língua Boróro
+
+Os estudos linguísticos sobre a língua Boróro não aprofundam reflexões sobre a existência de algum tipo de alinhamento nessa língua. Crowell (1979:21) afirma que todas as orações em Boróro, exceto as transitivas agentivas, têm a ordem dos elementos NP + (verbo) + Aspecto. As orações copulativas, nas quais inclui equativas, existenciais e identificacionais, não contêm verbos. O sintagma nominal que ocorre precedendo o verbo previsto nessa posição é o sujeito em todas as orações com esta estrutura, exceto nas equativas, nas quais o NP precedendo o aspecto é o sujeito. As orações nas quais o sintagma nominal é pré-verbal inclui as orações existenciais, identificacionais, intransitivas e orações transitivas nãoagentivas.
+Viana (2004), em um trabalho sobre “Tempo, aspecto e modo em Boróro”, propõe uma ordenação dos morfemas modo-aspectuais em Boróro.
+
+(18) (Modo) ((Aspecto 1)
+
+(Aspecto 2))
+
+Em orações transitivas agentivas a ordem é S(=Modo)=Asp O V e nos outros contextos a ordem é S O V(=Modo)=Asp.
+Segundo Nonato (2008:108) a ordem da oração em Boróro é fixa. Nonato (idem) apresenta uma ordem canônica válida para as orações de verbo transitivo, inergativo e inacusativo.
+
+(suj) (agrS).TNM (obj) agrO.VTRANS (adjuntos) (suj) (agrS).VINAC.TNM (adjuntos) (suj) (agrS).TNM agrS.VINERG (adjuntos)
+
+Nonato (2008:108) considera ainda que, opcionalmente, os adjuntos podem ocupar outras posições, mas nunca entre um argumento não-topicalizado e o núcleo que o introduz. Ainda segundo Nonato, adjuntos numa posição mais inicial adquirem um significado mais pressuposicional.
+
+29
+
+(adj) (suj) agrS.VINAC.TNM (adj) (adj) (suj) (agrS).TNM (adj) (obj) agrO.VTRANS (adj) (adj) (suj) (agrS).TNM (adj) agrS.VINERG (adj)
+Num outro olhar sobre os dados do Boróro, identificamos um padrão de alinhamento que distingue agentes de não-agentes, ou seja, sujeito de oração transitiva (A) de sujeito de oração intransitiva (S) e de objeto de transitiva (O).
+3.3.1 Marcas pessoais
+O Boróro possui dois conjuntos de marcas pessoais (cf. quadro nº. 2), uma série de pronomes pessoais independentes (cf. ex. 19 e 20), com função mais enfática, e uma série de pronomes pessoais dependentes que, como observou Rodrigues (1993), codificam o determinante de um nome, o sujeito e o objeto direto dos verbos e o complemento das posposições (cf. ex. 21 a 43). 5
+
+5 Crowell (1977) classifica esses pronomes como pronomes livres e pronomes presos. Tanto os pronomes livres quanto os pronomes presos podem funcionar como marcas de tópicos, sujeitos de orações identificacionais e sujeitos e complementos de equativas. Os pronomes presos ocorrem como objeto direto, sujeitos de alguns tipos de oração, exceto identificacionais e equativas, objeto de posposição, prefixos possessivos e prefixo de nomes possuídos inalienavelmente. De acordo com a análise proposta por Nonato (2008), a língua Boróro apresenta um paradigma de pronomes pessoais que “tem um efeito de ênfase ou foco contrastivo” (p. 65). A série analisada por nós como pronomes pessoais dependentes é considerada por Nonato como marcadores de concordância.
+
+[imi i re]
+
+adugo
+
+
+
+bito
+
+[„eu‟ 1s assertivo]
+
+'onca'
+
+3s
+
+'matar'
+
+[D Agr M]
+
+N
+
+Agr V
+
+EU matei uma onça (e não VOCÊ ou outra pessoa)‟ Nonato, p. 65
+
+30
+
+Marcas pessoais
+
+„glossa‟
+eu você ele/ela nós (incl.) nós (excl.) vocês eles/elas co-referencial – 3p recíproco – 3p
+
+Pronomes Pessoais dependentes i a u ou  pa xe ta e t-
+
+Pronomes pessoais independentes
+imi aki ema pagi tegi tagi emage pudumi
+
+pu-
+
+pugi ou pu
+
+Quadro 2 dos marcadores de pessoa, segundo Rodrigues (1993) com modificações.
+
+ Pronomes pessoais independentes
+
+(19) emage
+
+e vu ka re
+
+3pl independente 3pl cair NEG IND „eles não caìram‟
+
+(20) imi
+
+i rugodu mode
+
+-di
+
+1sg independente 1sg bater PROJ + IND 3sg-REL
+
+„eu vou bater nela‟
+
+31
+
+ Pronomes pessoais dependentes na função de determinante de um nome
+
+(21) i (22) a (23) u (24) pa (25) ce (26) ta (27) e
+
+n6-o karo „peixe de mim‟ k-o karo „peixe de você‟  -o karo „peixe dele‟ g-o karo „peixe de mim e de você‟ n-o karo „peixe de mim e dele(s)‟ g-o karo „peixe de vocês‟ n-o karo „peixe deles‟
+
+(28) i- t- aw „cabelo de mim‟
+
+(29) a(30) 
+
+k- aw „cabelo de você‟  aw „cabelo dele‟
+
+(31) pa- g- aw „cabelo de mim e de você‟
+
+(32) xe- d- aw „cabelo de mim e dele(s)‟
+
+(33) ta- g- aw „cabelo deles‟
+
+(34) e- t- aw „cabelo de vocês‟
+
+(35) i
+
+ mana „meu irmão mais velho‟
+
+6 Rodrigues (1993) propõe uma hipótese sobre a flexão de pessoa em Boróro. De acordo com Rodrigues, os marcadores de pessoas são prefixados diretamente a todos os temas iniciados por consoante e a parte dos temas começados por vogal.
+Outros temas iniciados por vogal possuem uma consoante intercalada entre o prefixo e o tema, exceto para 3sg. Essa consoante poderá ser:
+ k – (i) diante de temas iniciados por vogal anterior; (ii) diante de temas iniciados por vogal posterior, a consoante é k só quando o marcador de pessoa terminar com vogal posterior.
+ t- quando a vogal do marcador é anterior.  k e t – dão lugar as sonoras g e d quando o marcador de pessoa começa por consoante  Há um subconjunto de temas começados por vogal posterior que em vez de t/d recebem n após
+marcador com vogal anterior. O Boróro apresenta dois temas começados com o. O tema o „dente‟, intercala a consoante t, assim, i-t-o, „meu dente‟ e o tema o „posse alienável‟ intercala a consoante n. A hipótese de Rodrigues é reforçada pela comparação com a língua Timbíra (Jê). Segundo o autor, o „posse alienável, em Boróro‟ é cognato de õ do Timbìra (ex. Boróro i-n-o; Timbíra i y-õ [iñõ]). “Entre as mudanças fonológicas que deram ao B. sua feição atual, terão ocorrido as seguintes: (a) y evoluiu para k (provavelmente através de w e kw ) diante de vogal anterior e também diante de vogal posterior; (b) y evoluiu para t ou n entre vogal anterior e vogal posterior, segundo fosse a segunda vogal originalmente oral ou nasal; (c) todas as vogais nasais se desnasalizaram” .
+32
+
+(36) a (37) u (38) pa(39 xe (40) ta (41) e
+
+ mana „seu irmão mais velho‟  mana „irmão mais velho dele‟  mana „irmão mais velho de mim e de você‟  mana „irmão mais velho de mim e dele(s)  mana „irmão mais velho de vocês‟  mana „irmão mais velho deles‟
+
+ Pronomes pessoais dependentes como sujeitos de predicados nominais
+
+(42) i kuri re 1sg grande IND „eu sou grande‟
+
+(43) a
+
+pagodu re
+
+2sg medo IND
+
+„você é medroso‟
+
+ Pronomes pessoais dependentes como objeto de posposição
+
+(44) a to 2sg para „para você‟
+(45) i rekodadi 1sg depois „depois de mim‟
+
+33
+
+3.3.2 Predicados
+A língua Boróro possui dois tipos de predicados, a série transitiva e a série intransitiva. Incluem-se na classe dos predicados intransitivos os predicados com núcleos nominais (processuais, essivos, identificacionais), predicados com verbos psicológicos e posicionais.
+
+3.3.2.1 Predicados transitivos
+
+Os predicados transitivos se dividem em duas subclasses, 1a e 1b. A classe 1a é formada por predicados que possuem apenas dois complementos obrigatórios, ao passo que a classe 1b é formada por predicados que possuem três complementos obrigatórios, sendo um deles marcado pela posposição di ~ i „relativo‟. Denominamos os predicados da classe 1b de transitivos estendidos, conforme classificação proposta por Dixon (1994:122): “for the extended transitives the third role will be marked in some other way, e.g, by dative case”.
+
+ Predicados transitivos da Classe 1a
+
+(46) te
+
+re okwara kodu ko
+
+1pl (incl.) IND tatu carne comer
+
+„nós comemos o tatu‟
+
+(47) u re karo bowije 3sg IND peixe cortar „ele cortou o peixe‟
+
+(48) ta re
+
+e wido
+
+2pl IND 3pl matar
+
+„vocês os mataram‟
+
+34
+
+(49) u re bola marigo 3sg IND bola jogar „ele jogou a bola‟
+
+(50) i re a 1sg IND 2sg „eu avisei você‟
+
+wije avisar
+
+(51) ta re pobo mugudo arigaw kede 2pl IND água colocar cachorro para „vocês colocaram água para o cachorro‟
+
+ Predicados transitivos da Classe 1b7
+
+(52) i -re
+
+i- kdaw tg i- i
+
+i re
+
+i kdaw tg i i
+
+1sg neutro 1sg- roupa vestir 1sg- referente „eu visto minhas roupas‟ (Crowell, 1977, p. 184)
+
+(53) pa mode
+
+pa morido
+
+1pl incl PROJ + IND 1pl incl vingar „nós nos vingamos da mulher‟
+
+ared di mulher REL
+
+7 As tabelas de dados com quatro linhas são dados oriundos de Crowell (1977) e reinterpretados por nós (2ª linha). O clítico re, Crowell, define como „neutro‟ e o mode ~ mëdë com „hipotético + neutro.
+35
+
+(54) u re  tiginegi  di 3 sg IND 3 sg beliscar 3 sg REL „ele o beliscou‟
+
+(55) kowaru u-re kowaru u re
+
+t-wre-to t wre to
+
+imed-di imed di
+
+cavalo
+
+3sg-neutro correferencial-pé-bater homem-referente
+
+„o cavalo deu um coice no homem‟ (Crowell, 1977, p. 187)
+
+3.3.2.2 Predicados intransitivos
+Os predicados intransitivos, como já dito anteriormente, têm não só núcleos verbais, mas também núcleos nominais (processuais, essivos, identificacionais), e incluem também verbos psicológicos e posicionais.
+Os intransitivos se dividem em duas subclasses, 1a e 1b. A subclasse 1a compreende os predicados com um único argumento obrigatório, ao passo que a subclasse 1b compreende os predicados com dois argumentos obrigatórios, um dos quais marcado pela posposição di ~ i. A subclasse 1b é denominada de intransitivos estendidos, analogamente ao que se dá com os predicados transitivos.
+
+Predicados intransitivos da subclasse 1a
+
+(56) I
+
+n-ogwage re marigudo
+
+1sg R-almoçar IND „faz tempo‟
+
+„eu já almocei faz um tempo‟
+
+36
+
+(57) te
+
+reru
+
+re
+
+1pl (excl) dançar IND
+
+„nós (excl.) dançamos‟
+
+(58) pa
+
+nodu re
+
+1pl (incl) dormir IND
+
+„nós dormimos‟
+
+(59) imed maragod re homem trabalhar IND „o homem trabalhou‟
+
+(60) imed-rogu
+
+nodu re
+
+homem-pequeno dormir IND „o menino dormiu?‟
+
+(61) pa
+
+rogo re
+
+1pl incl. arrotar IND
+
+„nós arrotamos‟
+
+ Predicados intransitivos com verbos psicológicos
+(62) i ordiwa ka re 1sg saber NEG IND „eu não sei‟.
+
+37
+
+(62) e- mago- ru-
+
+mëde
+
+e mago- ru
+
+mëde
+
+3pl falar incerteza hipotético+ neutro
+
+„eles falarão provavelmente‟ (Crowell, 1977, p. 99)
+
+ Predicados intransitivos com núcleos não-verbais
+(63) i ke boj ka re 1sg comida fome NEG IND „ eu não estou com fome‟.
+(64) i kuri mode 1sg grande PROJ + IND „eu vou ser grande‟
+(65) i raga re 1sg forte IND „eu sou forte
+(66) i morora kori re 1sg peito dor IND „meu peito está doendo‟
+(67) kowaru kuri re cavalo grande IND „o cavalo é grande‟
+
+38
+
+(68) imed pega-re imed pega re homem mau-neutro „o homem é mau‟ (Crowell, 1977, p. 98)
+
+(69) karo- mëde
+
+barogoato
+
+karo mëde
+
+barogoato
+
+peixe- hipotético+ neutro amanhã
+
+„haverá peixe amanhã‟ (Crowell, 1977, p. 37)
+
+ Predicados com verbos posicionais
+
+(70) i
+
+padu
+
+ka re
+
+1sg estar deitada NEG IND
+
+„eu não estou deitada‟
+
+(71) i
+
+megi
+
+re
+
+1sg estar torto IND
+
+„eu estou de lado‟
+
+(72) i ragoje
+
+re
+
+1sg estar de pé IND
+
+„eu estou de pé‟
+
+39
+
+ Predicados essivos
+
+(73) imed -re imi imed re imi homem neutro 1sg=livre=pronome „eu sou homem‟ (Crowell, 1977, p. 38)
+
+(74) areme nre
+
+ema
+
+-ge
+
+areme nre
+
+ema-
+
+ge
+
+mulheres estativo 3ssg=livre=pronome- plural „elas são mulheres‟ (Crowell, 1977, p.38)
+
+(75) boe-re
+
+ema
+
+boe re
+
+ema
+
+bororo-neutro 3sg=livre=pronome
+
+„ele é bororo‟ (Crowell, 1977, p. 50)
+
+(76) kadagare onareged-re Creusa rema kadagare onaregedre Creusa rema kadagare filha-neutro Creusa equativa „Creusa is filha de Kadagare (Crowell, 1977, p. 82)
+(77) Jose aku kowaru rekodu-re Jose aku kowaru rekodu re Jose 3sg cavalo correr-neutro „o cavalo de José correu‟ (Crowell, 1977, p. 82)
+40
+
+ Predicados com verbos intransitivos da classe 2b
+
+(78) te
+
+doki re
+
+1pl (excl.) brigar IND
+
+„nós (excl.) brigamos‟
+
+po i REC REL
+
+(79) okoage= re
+
+karo- di
+
+ comer re
+
+karo di
+
+3sg=comer neutro peixe referente
+
+„ele come peixe‟ (Crowell, p. 30)
+
+(80) e rugod- re pa -j 3pl bater IND 1pl REL „ eles bateram em nós‟
+
+(81) i erdu mode
+
+nowa nigedo rogo
+
+di
+
+1sg ver PROJ + IND „esse‟ menino pequeno REL
+
+„eu vou achar esse menino‟ (no sentido de procurar)
+
+(82) i
+
+kuru god
+
+mode
+
+pobo di
+
+1sg nadar ATUAL PROJ + IND água REL „eu vou nadar no rio‟
+
+ Predicados intransitivos com verbos psicológicos
+(83) i t-aiwo re a-j 1sg R-olhar IND 2sg-REL „eu vejo você‟ 41
+
+(84) te
+
+daju
+
+re
+
+areme
+
+i
+
+1pl (excl.) espiar IND mulheres REL
+
+„nós espiamos as mulheres‟
+
+(85) I
+
+t-ajdu
+
+re pobo torew di
+
+1sg R-gostar IND água preta REL
+
+„eu gosto de café‟
+
+(86) io rdwa- re João - di
+
+io rdwa
+
+re
+
+João di
+
+1sg- conhecer- neutro João- referente „eu conheço João‟ (Crowel, 1977, p. 31)
+
+(87) imed imed
+
+jor - re jor re
+
+karo- di karo di
+
+homem ver- neutro peixe- referente „o homem viu o peixe‟ (Crowell, 1977, p. 33)
+
+(88) Bia paga -re Teodoro bataru -di Bia paga re Teodoro batari di Bia escutar neutro Teodoro palavras referente „ele escutou as palavras de Teodoro (Crowell, 1977, p. 187)
+
+42
+
+ Predicados intransitivos com núcleos não-verbais
+
+(89) aroia kuri- re i
+
+-i
+
+aroia kuri re i
+
+i
+
+roupas grande neutro 1sg
+
+referente
+
+„as roupas são bastante grandes para mim‟ (Crowell, 1977, p. 183)
+
+(90) jorubo- re
+
+i- i
+
+jorubo re
+
+ii
+
+doença neutro 1sg referente
+
+„eu tenho frio‟(literalmente„existe doença com respeito a mim) (Crowell, 1977, p. 184)
+
+(91) i ogugudu re di 1sg medo IND REL „eu tenho medo dele‟
+
+(92) i-
+
+mëde
+
+rádio
+
+mak ak
+
+-ai kowaru -di
+
+I
+
+mëde
+
+rádio
+
+mak ak
+
+ai kowaru di
+
+1sg- hipotético rádio
+
+dar 2sg -to cavalo referente
+
+„Eu vou dar o radio para você em troca do cavalo‟ (Crowell, 1977, p. 103)
+
+Note-se que verbos intransitivos que pedem um complemento com posposição seguem o mesmo padrão dos verbos transitivos que requerem um objeto direto obrigatório.
+
+(93) te
+
+doki re
+
+1pl (excl) brigar IND
+
+„nós (excl.) brigamos‟
+
+po- i rec. REL
+
+43
+
+(94) kowaru u-re
+
+t-wre-to
+
+imed-di
+
+kowaru u re
+
+t wre to
+
+imed di
+
+cavalo
+
+3sg-neutro correferencial-pé-bater homem-referente
+
+„o cavalo deu um coice no homem‟ (Crowell, 1977, p. 187)
+
+3.4 Padrão de alinhamento Ergativo-Absolutivo em orações independentes
+
+O estudo aqui realizado sobre o alinhamento na língua Boróro contempla somente as orações independentes. As orações dependentes apresentam um sistema de alinhamento diferenciado, que será tratado com maior profundidade em estudos posteriores.
+Sobre a ordem em Boróro, observa-se que em orações transitivas o sujeito e o objeto ocupam a posição pré-verbal (__V). Há evidências de que S e O formam com o verbo um constituinte sintático. As evidências são antigos reflexos de prefixos relacionais, que ainda hoje mostram seus vestígios como nos exemplos seguintes:
+
+(95) i n-okwage re
+
+karo -di
+
+1sg R-comer
+
+IND peixe REL
+
+„eu comi o peixe‟
+
+(96) i re a k-ajmo 1sg IND 2sg R-banhar „eu banhei você‟
+
+Em orações intransitivas, o sujeito ocupa a posição pré-verbal (__V) e o complemento obrigatório ocupa a posição pós-verbal (V__).
+Embora a língua Boróro não apresente qualquer alinhamento por meio de marcas pessoais que distingam os sujeitos de verbos transitivos dos sujeitos de verbos intransitivos, nem estes dos objetos de predicados transitivos, há na língua um padrão sintático em que o sujeito de verbo transitivo difere do sujeito de verbo intransitivo.
+44
+
+Verifica-se que tanto os sujeitos de predicados intransitivos quanto os objetos de predicados transitivos antecedem imediatamente os temas verbais, enquanto que em predicados transitivos os sujeitos são seguidos pelo clítico re. Essa distribuição de argumentos evidencia, por um lado, o padrão de alinhamento ergativo-absolutivo em construções transitivas, mas, além disso, a própria distribuição do clítico re distingue predicados transitivos de predicados intransitivos.
+Dessa forma, embora o Boróro não apresente uma marca morfológica específica para o caso ergativo-absolutivo, nem tampouco marcas pronominais associadas a caso, evidencia-se na língua um padrão claramente ergativo-absolutivo. Quando os sujeitos de predicados intransitivos e os objetos de predicados transitivos ocupam a posição pré-verbal, tem-se um padrão absolutivo. Quando os sujeitos de predicados transitivos vêm seguidos do clítico re, tem-se um padrão ergativo.
+
+ Predicados ergativos
+
+(97) [e
+
+re] P. ERG a
+
+[3pl IND] 2sg
+
+„eles banharam você‟
+
+k-aimo R-banhar
+
+(98) [i
+
+re] P. ERG
+
+[1sg IND]
+
+„eu me arrastei‟
+
+i kirudo 1sg arrastar
+
+(99) [i
+
+re] P. ERG
+
+bajtore korido
+
+[1sg IND]
+
+crianças machucar
+
+„eu machuquei as crianças‟
+
+45
+
+(100)
+
+[u
+
+mode] P. ERG
+
+[3sg PROJ + IND]
+
+„ele vai comer peixe
+
+karo peixe
+
+ko comer
+
+(101)
+
+[a
+
+mode] P. ERG
+
+karo
+
+[2sg PROJ + IND] peixe
+
+„você vai cortar o peixe‟
+
+bowje cortar
+
+ Predicados absolutivos
+
+(102) [i rakitaru] P. ABS re
+
+[1sg emagrecer]
+
+IND
+
+„eu emagreci‟
+
+(103) [
+
+peagod] P. ABS re
+
+[3sg
+
+peidar]
+
+IND
+
+„ele peidou‟
+
+(104) [pa
+
+kodari] P. ABS re
+
+[1pl (incl) tossir]
+
+IND
+
+„nós tossimos‟
+
+(105) [a
+
+kwage] P. ABS
+
+[2sg
+
+comer]
+
+„você vai comer‟
+
+mode PROJ + IND
+
+46
+
+(106) [a
+
+vud] P. ABS
+
+[2sg cair]
+
+„você vai cair‟
+
+mode PROJ + IND
+
+ Objeto de transitiva
+
+(107) i
+
+mod ka re [i magu] P. ABS
+
+1sg PROJ NEG IND [1sg entregar]
+
+„eu não vou me entregar‟
+
+(108) u
+
+re
+
+[i togorido] P. ABS
+
+3sg IND [1sg ferir]
+
+„ele me feriu‟
+
+(109) i
+
+re
+
+[i
+
+pujodu] P. ABS
+
+1sg IND [1sg ajoelhar]
+
+„eu me ajoelhei‟
+
+3.5 Considerações finais
+
+A língua Boróro possui duas classes de predicados, transitivos e intransitivos. Os predicados transitivos, por sua vez, possuem duas subclasses, a dos transitivos simples, com dois argumentos, e a dos transitivos estendidos, com três argumentos. Os predicados intransitivos também compreendem duas subclasses, uma com um só argumento e a outra, a dos intransitivos estendidos, com dois argumentos. Ambos os predicados estendidos, transitivos e intransitivos, tem um dos seus argumentos marcado pela posposição di ~ i.
+Da apresentação acima feita sobre o alinhamento, depreende-se que a língua Boróro apresenta um padrão de alinhamento raro entre as línguas indígenas brasileiras já descritas. Em predicados transitivos o sujeito é seguido imediatamente pelo clítico re, ao qual
+47
+
+se seguem o objeto e o verbo. Já em predicados intransitivos o sujeito é seguido imediatamente pelo verbo e este é que precede o clítico re. Assim, enquanto que o sujeito de transitivo, que é o agente de um processo, é marcado pelo clítico re, o sujeito de intransitivo tanto quanto o objeto de transitivo não são marcados pelo clítico re. Tem-se, portanto, uma distinção entre A, por um lado, e S e O, por outro lado, o que corresponde a um padrão ergativo-absolutivo.
+A distribuição do clítico re, marcando os agentes de orações transitivas e os núcleos de predicados em orações intransitivas, mostra que, além de diferenciar sujeitos agentes de não-agentes, o clítico re diferencia também tipos de predicados, isto é, transitivos de intransitivos.
+Nonato (2008) também trata do fenômeno da ergatividade em Boróro, contudo em outra perspectiva teórica.
+48
+
+CAPÍTULO V
+4. As categorias de tempo, aspecto, modo e modalidade
+4.1. Introdução
+Neste capítulo apresentamos uma análise alternativa às propostas de Crowell (1977), Viana (2004) e Nonato (2008) sobre as categorias de tempo, modo, modalidade e aspecto. A análise se baseia principalmente nos trabalhos Comrie (1976) e Chung e Timberlake (1985) sobre tempo, nos trabalhos de Vendler (1957), Comrie (1976), Chung e Timberlake (1985) e Desclès e Guentchéva (1997) sobre aspecto e aktionsart, nos trabalhos de Jespersen (1924), de Chung e Timberlake (1985), e de Palmer (1986) sobre modo e modalidade.
+Mostraremos que as diferentes análises dos morfemas re e mod do Boróro, como a de Crowell (1976), que analisa o primeiro como expressão de aspecto e o segundo como expressão de tempo, de Viana (2004), que trata o primeiro como aspecto e o segundo como modo, e a de Nonato (2008) que trata o primeiro como modo e o segundo como tempo, se deve à dificuldade de encontrar em outras línguas correlatos com as funções que esses morfemas exercem na gramática Boróro. Algumas das perguntas que podem ser feitas a respeito do morfema re são: “Por que razão uma dada língua marcaria todas as suas construções em que se indaga sobre um fato ou em que se declara algo?” “Por que essa marca ora se combina com predicados, ora com o agente sintático?” “re e mod são expressões de uma mesma categoria gramatical ou não?” “Se não, como fundamentar uma hipótese contrária?”
+Procuramos responder a essas perguntas com base nos dados de Colbacchini e Albisetti (1942), Crowell (1976), Viana (2004) e Camargos (2006, 2007, 2009, notas de campo). Argumentaremos que re e mod são expressões de categorias distintas, fundamentados no simples fato de que o segundo só ocorre em estruturas marcadas pelo primeiro, mas o primeiro ocorre independentemente. Finalmente mostraremos que a análise aqui apresentada desafia as análises precedentes com contra-exemplos.
+49
+
+4.2 Algumas visões sobre as categorias de tempo, aspecto, modo e modalidade
+4.2.1 Tempo
+É fato bem conhecido que a categoria “tempo” não é expressa por meio de flexão em todas as línguas. Tradicionalmente essa categoria tem sido referida como aquela que localiza os eventos de fala na linha temporal. Comrie (1976:4) 8 define tempo linguístico como algo que “... relaciona o tempo da situação referida a algum outro tempo, normalmente o momento da fala”. Para Chung e Timberlake (1985:203) tempo linguìstico “... situa o evento no tempo, comparando a posição das bordas em relação ao tempo locus.” As definições da categoria tempo linguístico naturalmente concebem uma linha temporal e dois tempos, um tempo locus e um tempo relativo. O tempo locus varia de acordo com a experiência que cada cultura desenvolve na sua realidade, da mesma forma que variam os tempos relativos. Para algumas culturas a distinção é binária, mas há culturas que dividem a linha temporal em vários tempos em que ocorrem os eventos e os processos.
+4.2.2 Aspecto e Aktionsart (modalidade de ação)
+Tanto aspecto como tempo têm sido associados ao verbo, de forma que é comum falar-se de tempo e de aspecto verbal. Por outro lado, há autores que estendem a noção de aspecto também a predicados mais nominais. Aspecto relaciona-se com a estrutura interna dos eventos e processos, mas também pode relacionar-se a um estado ou a uma situação estática. Há línguas em que nomes predicam, como as línguas Tupí-Guaraní (cf. Rodrigues 1996). Em línguas como essas, pode-se dizer „comecei a (ficar) branca‟, em que o tema para branco pode combinar-se com o sufixo inceptivo p.
+Considerando a existência de línguas em que as noções passaram historicamente a ter uma relação íntima com os temas verbais núcleos de predicados, situações em que passaram a ser obrigatórios, vários linguistas propuseram a distinção entre aspecto e
+8 Minha tradução.
+50
+
+aktionsart (ou modalidade de ação). Aspecto então fica restrito a algo mais verbal, enquanto que aktionsart ou modo de ação corresponde à expressão aspectual mais leve, ainda percebida pelos falantes de uma língua como algo mais lexical.
+A noção de aspecto é vista, geralmente, segundo duas tradições distintas, a eslava e a ocidental. Para a tradição eslava, o aspecto relaciona-se à oposição entre perfectivo e imperfectivo, bem arraigada nas línguas eslavas. Já para a tradição ocidental, essa noção relaciona-se às categorias que marcam as diferenças entre os eventos verbais.
+Vendler (1967:143) propôs um esquema de classificação verbal em quatro classes, defendendo que distinções verbais tais como processos, estados, disposições, ocorrências, tarefas, achievements, entre outras, não podem ser feitas somente em termos de tempo, embora o tempo seja uma categoria crucial. Outros fatores, segundo o autor, devem ser considerados, como a presença ou ausência de um objeto, condições, estado da arte das coisas.
+Em sua classificação, Vendler (1967:149) distingue estado, atividade, accomplishments e achievements.
+(...) the concept of activities calls for periods of time that are not unique or definite. Accomplishements, on the other hand, imply the notion of unique and definite time periods. In an analogous way, while achievements involve unique and definite time instants, states involve time instants in an indefinite and nonunique sense.
+Segundo Chung e Timberlake (1985:213) “... aspecto caracteriza a relação de um predicado com o intervalo de tempo dentro do qual ocorre.” De acordo com os autores essa definição destina-se a incluir dois tipos de relação:
+ Primeiramente, mudança. Predicados descrevem estados, situações, propriedades, entre outros, que podem permanecer ou não ser constantes, ao longo do tempo. A noção de mudança é central ao aspecto.
+ Segundo, um evento é composto de um predicado e de algum intervalo de tempo selecionado por falantes, que qualifica as bordas do evento.
+Comrie (1976:9) considera o aspecto como uma categoria gramatical que pode ser expressa por meio da morfologia flexional ou por meio de perífrases. Contudo, em uma nota de rodapé, esse autor estabelece duas distinções para as noções de Aktionsart (modalidade de ação) e de aspecto, segundo os autores que as utilizam como categorias distintas.
+51
+
+Distinction between aspect and aktionsart is drawn in at least the following two quite different ways. The first distinction is between aspect as grammaticalisation of the relevant semantic distinctions, while aktionsart represents lexicalisation of the distinctions, irrespective of how these distinctions are lexicalized; this use of aktionsart is similar to the notion of inherent meaning (…). The second distinction, which is that used by most Slavists, and often by scholars in Slavonic countries writing on other languages, is between aspect as grammaticalisation of the semantic distinction, and aktionsart as lexicalization of the distinction provided that the lexicalization is by means of derivational morphology.
+Na concepção de Desclés e Guentchéva (1997 :146) o aspecto é “...une verbalisation de la perception interne de la situation temporalisée”. De acordo com esses autores, as categorizações que esta percepção implica são mais primitivas e mais frequentemente gramaticalizadas que as modalidades de ação. Considerando as relações entre as formas e os significados dessas formas, percebe-se que as formas gramaticalizadas são geralmente menos transparentes que as formas lexicais. Assim, Desclés e Guentchéva se baseiam em dois critérios: (i) a gramaticalização mais ou menos forte; (ii) a maior ou menor transparência do significado codificado pelas unidades linguísticas (ou seja, as formas).
+Sintetizando, o aspecto aparece fortemente gramaticalizado e as formas que o exprimem são em geral relativamente pouco transparentes, enquanto que as modalidades de ação são mais fracamente gramaticalizadas; com grande frequência elas são somente lexicalizadas e os significados que elas exprimem são em geral mais transparentes.
+4.2.3 Modo e Modalidade
+O modo é visto de uma maneira geral como uma categoria que expressa distinções sintáticas e semânticas associadas aos paradigmas verbais, enquanto as modalidades são consideradas como de caráter mais subjetivo e com a função de indicar contrastes em verbos e categorias associadas a eles (Crystal 1988:174).
+Veremos agora algumas definições propostas para essas categorias. Chung e Timberlake (1985:241) definem modo como caracterizador da atualidade (isto é, da realidade).
+(…) Mood characterizes the actuality of an event by comparing the event world(s) to a reference world, termed the actual world. An event can simply be actual (more
+52
+
+precisely, the event world is identical to the actual world); an event can be hypothetically possible (the event world may be imposed by the speaker on the addressee; and so on). Whereas there is basically one way for an event to be actual, there are numerous ways that an event can be less than completely actual.
+Para Palmer (1986:21) a diferença entre modo e modalidade está relacionada à morfologia verbal:
+First, the term „mood‟ is traditionally restricted to a category expressed in verbal morphology. It is formally a morphosyntactic category of the verb like tense and aspect, even though its semantic function relates to the contents of the whole sentence. […] Modality is not expressed in all languages within the verbal morphology. It may be expressed by modal verbs (which are at least still within the verbal element of the sentence) or by particles which may well be quite separate from the verb.
+Palmer (1986) definiu a modalidade como a gramaticalização das atitudes e opiniões (subjetivas) do falante. O autor distinguiu modalidade epistêmica de modalidade deôntica e suas subcategorias. A modalidade epistêmica relaciona-se com as noções de possibilidade e necessidade e envolve também o grau de compromisso do falante com o que ele diz, incluindo, dessa forma, os juízos próprios e o tipo de garantia que ele tem para o que ele diz (Palmer 1986:51). A modalidade deôntica relaciona-se às modalidades como contendo um elemento de vontade (Palmer 1986:96)
+Jespersen (1924:313) tratou distintamente as categorias de modo e de modalidade. Modo, segundo este autor, é uma categoria sintática, enquanto modalidade é uma categoria nocional. Este mesmo autor (p. 320) apresentou uma lista de categorias de modalidade que expressam ideias puramente nocionais e observou que as categorias frequentemente se sobrepõem e que alguns termos que ele mesmo incluiu nas listas são questionáveis. A lista tem duas subdivisões, a que contém elementos de vontade (1) e a que não inclui esse elemento (2).
+53
+
+1. Contendo um elemento de vontade: Jussive : go (command) Compulsive: he has to go Obligative: he out to go/ we should go Advisory: you should go Precative: go Hortative: let us go Permissive: You may go if you like Promissive: I will go / it shall be done Optative (realizable): may he be still alive! Desiderative (unrealizable): would he were still alive Intentional: in order that he may go
+2. Não contendo um elemento vontade: Apodictive: twice two must be (is necessarily) four. Necessitative: he must be rich (or he could not spend so much). Presumptive: he is probably rich; he would will know. Dubitative: he may be (is perhaps) rich). Conditional: if he is rich Hypothetical: if he were rich Potential: he can speak Concessional : though he is rich
+Quadro 3: Jespersen (1924:320)
+4.3. Análises precedentes de expressões de tempo, modo e aspecto em Boróro
+4.3.1 A análise de Crowell
+Segundo Crowell (1977, p. 86), a língua Boróro exprime tempo, modo e aspecto. Essas noções, porém, não são bem claras para Crowell, de modo que ele preferiu referir-se a
+54
+
+todas elas sob o nome aspecto: “This does not mean that tense and mode are any less involved than
+aspect, but just that I am using aspect to cover all three.” Para esse autor (ibidem) as noções aspectuais são realizadas por meio de sufixos,
+todos os quais ocorrem seguindo o sujeito agentivo em orações que têm agentes e seguindo o verbo em orações sem agentes. A língua Boróro apresentaria, assim, os seguintes aspectos nas orações independentes: recentee, incerto, neutro, hipotético, estativo e iterativo.
+
+ Recente
+
+O aspecto recente aponta, segundo Crowell (1977:87), para uma ação ou estado do verbo no tempo presente ou no passado recente, mas sem realização morfológica. A não escolha do aspecto recente não indica, contudo, que a ação ou o estado não aconteceram no presente ou no passado recente, mas, pelo contrário, indica que nada pode ser afirmado na oração sobre se essa ação ou esse estado são recentes ou não.
+
+(1) karo kade-d
+
+
+
+peixe cortar-nominal recente „o peixe estava sendo cortado (ou foi cortado recentemente)‟ (Crowell, 1977, p. 87)
+
+(2) imed meru
+
+
+
+man caçar
+
+recente
+
+„o homem está cansando (ou caçou recentemente)‟ (Crowell, 1977, p. 87)
+
+ Incerto
+
+O aspecto incerto é realizado pelo sufixo -rau quando precede imediatamente o neutro -re e pelo sufixo -ru nos outros contextos (Crowell 1997:87).
+55
+
+(3) e-mago- ru-
+
+nre
+
+3pl-falar- incerteza estativo „eles provavelmente estão falando‟ (Crowell, 1977, p. 88)
+
+(4) kare e-kade-d-ru-nre
+
+aino
+
+peixes 3pl-cortar-nominal-incerteza-estativo agora „os peixes podem estar sendo cortados agora‟ (Crowell, 1977, p. 88)
+
+(5) e-mago-rau-re 3pl-falar-incerteza-neutro „eles podem ter falado‟ (Crowell, 1977, p. 88)
+
+ Neutro
+O aspecto neutro é marcado pelo morfema -re .Quando nem imperativo, nem recente é selecionado, deve haver uma escolha entre neutro e estativo (Crowell 1977:88).
+( (6) imed maragod- re homem trabalhar neutro „o homem está trabalhando (ou trabalhou)‟ (Crowell, 1977, p. 88)
+(7) kawaru kuri-re cavalo grande-neutro „o cavalo é (ou foi) grande‟ (Crowell, 1977, p. 88)
+Toda vez que neutro é escolhido, hipotético também poderá sê-lo. Se neutro é escolhido, mas não hipotético, a sentença fica no presente ou no passado, e a distinção é feita pelo contexto ou por sintagmas temporais. Ainda, para o autor, “como o próprio nome
+56
+
+implica, este aspecto traz poucas informações em si, exceto em contraste com outros aspectos” (Crowell 1977:89).
+
+ Hipotético
+
+O aspecto hipotético é realizado por mod, que precede o neutro. Se nada ocorrer entre o hipotético mod e o neutro -re, resulta a forma -mëde. Crowell observa que o hipotético não é mutuamente exclusivo com outros aspectos, mas que o neutro -re pode coocorrer com eles (Crowell 1977:90).
+
+(8) u-tu-mëde 3sg-ir-hipotético+neutro „ele foi provavelmente (Crowell, 1977, p. 90)
+Se, contudo, a sua realização se dá por meio ou de ambos ou de dois traços que podem intervir entre o hipotético e o neutro a forma permanece -mede –re, ou –ie , se infinitivo é selecionado. As características que podem ocorrer entre hipotético e neutro são indireto e negativo (Crowell 1977:90).
+
+(9) u-tu-mëd-ka-re u-tu-ka-re.
+(11) u-tu-mëd-ka- ie u-tu-ka-ie
+
+„ele provavelmente não foi‟. „ele não foi‟.
+„(alguém relatou isso) ele provavelmente não foi‟ „(alguém relatou isso) ele não foi‟.
+
+(10) u-tu-mëd-ie u-tu-ie
+
+„(alguém relatou isso) ele provavelmente foi‟. „(alguém relatou isso) ele foi‟
+
+57
+
+Como função, o hipotético indica a falta de efetividade ou de realidade. É usado em expressões do tempo futuro, declarações de possibilidade ou de falta de certeza e em advertências.
+(12) imed maragod- mëde homem trabalhar- hipotético+ neutro „o homem vai trabalhar (Crowell, 1977, p. 92)
+
+(13) e-mëde
+
+kuiada kadë
+
+3pl- hipotético+ neutro milho cortar
+
+„eles vão cortar o milho (Crowell, 1977, p. 92)
+
+O autor considera ainda a possibilidade de o hipotético ser parte de um sistema que contém o neutro e o estativo, uma vez que em ocorrências não-negativas e em discurso não-direto ele aparece e ocupa o mesmo lugar de outros aspectos sendo mutuamente exclusivo com estes. Note-se que Crowell usa indiscriminadamente aspecto e modo no decorrer de sua análise.
+
+ Estativo
+Se o neutro não for escolhido, o estativo -nre poderá sê-lo. As declarações com o aspecto estativo vão além de uma declaração evidente da existência de uma ação ou estado para descrever ou uma situação geral na qual uma única ação representa ou uma parte, ou a qualidade essencial de alguma coisa. Com verbos contendo uma qualidade durativa inerente, tal como „pescar‟ e „chover‟, o estativo denota um estado contemporâneo, enquanto o neutro denota o evento apenas como evento, sem qualidades de estado (Crowell 1977:95).
+
+58
+
+(14) bbt-re chuva-neutro „está chovendo (ou choveu)‟ (Crowell, 1977, p.95).
+
+Com o estativo -nre, a oração descreve um estado geral envolvido; isto é, diz que está ou esteve chuvoso. O estativo pressupõe um eventual fim para a ação, enquanto o neutro não (Crowell, 1977:96).
+
+(15) bbt-nre
+
+aino, mare barogoato pa-meru-mëde
+
+chuva-estativo agora mas amanhã
+
+1pl=inclusivo- caçar-hipotético
+
+„está chovendo agora, mas amanhã nós vamos caçar. (Crowell, 1977, p. 96)
+
+(16) bbt-re
+
+wëe meri jamed-di
+
+chover-neutro aqui dia todo- referente „chove aqui todo dia (Crowell, 1977, p. 97)
+
+Com verbos “pontuais”, como „ir‟ e „atirar‟, o estativo pode demonstrar um estado contemporâneo (cf. ex.17) ou um estado resultante (cf. ex .18).
+
+(17) imed u-tu-re
+
+Cuiabá-te
+
+homem 3sg-ir-neutro Cuiabá-to „o homem foi para Cuiabá‟(Crowell, 1977, p. 98)
+
+(18) imed u-tu-nre
+
+Cuiabá-te
+
+homem 3sg-ir-estativo Cuiabá-para „o homem mudou-se para Cuiabá‟ (Crowell, 1977, p. 98)
+
+A mesma sentença pode ser interpretada como “O homem está (ou estava) indo para Cuiabá”. O estativo tem o sentido de estado contemporâneo.
+59
+
+ Sobre o aspecto iterativo
+
+O aspecto iterativo difere dos outros aspectos pelo fato de poder ser selecionado tanto em orações imperativas, quanto nas não-imperativas. Pode também ser selecionado em orações transitivas ou intransitivas. É realizado pela duplicação da raiz verbal e do pronome ligado a ela (Crowell 1977:102).
+
+(19) a-re
+
+bola dege e-warigu e-warigu
+
+2sg-neutro bola plural 3pl-jogar 3pl-jogar
+
+„você repetidamente jogou as bolas‟ (Crowell, 1977, p. 102)
+
+Modo segundo Crowell
+Crowell argumenta que não fará a distinção das categorias de tempo, modo e aspecto, contudo, ele faz a distinção entre modo nas orações independentes e dependentes, uma vez que aqui se trata realmente de modos imperativo e hortatório, como veremos adiante.
+Modo nas orações independentes
+A seleção de dependente conduz a um sistema contendo imperativo, hortatório e nulo (Crowell 1977:63).
+ Imperativo
+O modo imperativo é realizado, em orações transitivas, por uma entonação imperativa, marcado pelo aspecto imperativo –ba, e pela especificação que as características
+60
+
+transitivo, agentivo e segunda pessoa devem ser selecionados da rede de transitividade. Nas orações imperativas a característica + agentivo a segunda pessoa e também o imperativo são realizados somente quando o negativo também é selecionado (Crowell 1977:64).
+
+(20) a-ka-re
+
+karo bowje
+
+2sg-negativo-neutro peixe cortar „você não cortou o peixe‟ (Crowell, 1977, p. 64)
+
+(21) a-ka-ba
+
+karo bowje
+
+2sg-negativo-neutro peixe cortar
+
+„não corte o peixe‟ (Crowell, 1977, p. 64)
+
+Em orações intransitivas, o imperativo é possível somente quando as características negativo, intransitivo e segunda pessoa são selecionadas.
+
+(22) a-pega-ka-ba! 2sg-mau-negativo-imperativo „não seja mau‟ (Crowell, 1977, p. 72)
+
+ Hortatório
+Se o imperativo não for escolhido, hortatório poderá sê-lo. A característica hortatório é realizada pela seleção do aspecto de propósito realizado por –wë. Outra maneira de realização é a restrição do sujeito tanto da 1pl quanto da 1sg. Sujeitos plurais são frequentemente precedidos por marigu „breve, agora‟ (Crowell 1977:74).
+
+61
+
+(22) marigu pa-du-wë agora 1pl=incl.-ir-propósito „vamos agora‟ (Crowell, 1977, p. 74)
+ Declarativo
+Se nem imperativo nem hortatório é selecionado ou se dependente é selecionado tanto declarativa quanto interrogativa devem sê-lo. A oração declarativa é realizada por entonação declarativa (Crowell 1977:74).
+ Interrogativa
+A maior parte da realização de perguntas é a entonação. As perguntas do tipo sim/não podem ter explícito, realizado como na, colocado imediatamente ao elemento questionado. Explicito é sempre escolhido quando perguntas sim/não são compostas de uma única palavra ou frase (Crowell 1977:74).
+(23) a-tu-re-na? 2sg-ir-neutro-explícito „Você foi? (Crowel, 1977, p. 75 )
+Aspecto nas orações dependentes
+Em orações dependentes são selecionadas as noções aspectuais de propósito, de não-finito e de finito. Se o aspecto finito é selecionado, este conduz para o mesmo sistema de aspecto que seleciona declarativas independentes e orações interrogativas.
+62
+
+ Propósito O aspecto de propósito é marcado por meio da posposição bogai.
+
+(24) maragod-re
+
+dinheiro bogai
+
+trabalhar-neutro dinheiro propósito „ele trabalhou por dinheiro‟ (Crowell, 1977, p. 107)
+
+ Não-finito
+
+A seleção de não-finito é independente de quais verbos sejam selecionados na oração. É realizado por –i em posição ocupada por marcas de aspecto (Crowell 1977:106).
+
+(25) e-rdwa-re
+
+u-i ipo kadë-d-di
+
+3pl-saber-neutro
+
+3sg-não-finito-pau-cortar- nominal-referente
+
+„eles sabem que ele está cortando o pau‟ (Crowell, 1977, p. 106)
+
+ Finito
+
+As orações finitas são identificadas como orações nominalizadas por -d „nominal‟, que é o elemento final da oração dependente (Crowell 1977:105).
+
+(26) e-rdwa-re
+
+u-nre ipo kadë-d-ji
+
+3pl-saber-neutro
+
+3sg-estativo-pau-cortar- nominal-referente
+
+„eles sabem que ele estava cortando o pau‟ (Crowell, 1977, p. 105)
+
+63
+
+4.3.2 Análise proposta por Viana
+
+Viana (2004) considera que a língua Boróro apresenta as expressões de modo – imperativo, exortativo, interrogativo, declarativo – e as expressões de aspecto – (1) crença do falante (hipotético mod e não-hipotético ); (2) telicidade (télico neutro re, atélico estativo nre). Com base nessa distribuição, Viana (2004) propôs o seguinte quadro:
+
+Modo  Imperativo =ba  Exortativo = wëë  Interrogativo =ba  Declarativo
+ Realis   Irrealis/Incerteza =ru
+
+Aspecto
+
+(1) crença do falante
+
+(2) telicidade
+
+ Hipotético =medi
+
+ Télico =re
+
+ Não hipotético 
+
+(neutro)  Atélico =nre
+
+(estativo
+
+Quadro 4: esquema modal e aspectual do Boróro (Viana 2004)
+4.3.3 A análise proposta por Nonato
+
+Segundo Nonato (2008:112), a língua Boróro apresenta os morfemas de tempo,
+
+negação e modo “aglutinados em núcleo funcional na ordem fixa que é mostrada
+
+no esquema”. Nonato salienta que “é gramatical a combinação entre os morfemas
+
+passíveis de aparecer em cada uma das três posições, o que gera 16 possibilidades (2 x 2 x
+
+4)”. re „assertivo‟
+
+modu „futuro‟  „não-futuro‟
+
+ka „negativo‟  „positivo
+
+je „reportativo‟ wo „desiderativo‟
+
+ie „infinitivo‟
+
+64
+
+ Tempo
+
+Segundo Nonato (2008:110), Boróro marca morfologicamente apenas a distinção entre tempo futuro (mod) e tempo não-futuro () (cf. exemplos 27 e 28).
+
+(27) e wog 
+
+re
+
+jice
+
+3p pescar não-futuro assertivo lá
+
+“eles pescaram lá/eles pescam lá‟ (Nonato, 2008, p. 111)
+
+(28) e wog mod re
+
+jice
+
+3p pescar futuro assertivo lá
+
+„eles vão pescar lá‟ (Nonato, 2008, p. 111)
+
+Modo  Modo assertivo
+
+O modo assertivo é marcado pelo morfema –re e, de acordo com Nonato, “é o modo mais comum nas orações livres (cf. 215), mas também pode ser empregado em orações subordinadas (cf. 216). Indica uma asserção simples”. Conferir exemplos reproduzidos com a mesma numeração do autor.
+
+(215) boe
+
+e wog re
+
+bororos 3p pescar assertivo „os bororo pescaram‟ (Nonato, 2008, p.112)
+
+(216) a-rd-re
+
+[boe e wog re] dji
+
+2s.ver.asser [bororo 3p pescar asser.] „que‟.tema „você viu que os bororo pescaram?‟ (Nonato, 2008, p. 112)
+
+65
+
+ Modo reportativo
+O modo reportativo é marcado pelo morfema ie, segundo Nonato
+...é empregado sobretudo em orações subordinadas com verbos quotativos (cf. 217), mesmo quando se trata se uma afirmação do próprio falante (cf. 218) mas também pode ser empregado numa oração livre, ficando subentendido que trata-se de uma asserção de alguma pessoa (cf. 219).” (Nonato, p. 113).
+
+(217)  mearudae re
+
+[tu motu
+
+ie]
+
+3s „pensar‟ assert. 3ª „ser bonito‟ reportativo „ele(a) pensa que é bonito(a)‟ (Nonato, 2008, p. 113)
+
+(218) i ako
+
+re
+
+[i meru ie]
+
+1s „dizer‟ assert. 1s „caçar‟ reportativo „eu disse que cacei‟ (Nonato, 2008, p. 113)
+
+(219) i ie
+
+arigao  bito
+
+1s report. „cachorro‟ 3s „matar‟ „(eles pensam que) eu matei o cachorro‟ (Nonato, 2008, p. 113)
+
+ Modo desiderativo
+É empregado em orações subordinadas ou principais que expressam desejo ou propósito, como complemento adverbial de propósito ou como exortativo (Nonato 1008:112). É marcado pelo morfema wo.
+66
+
+(29) (i aidu re)
+
+i kigurudu wo
+
+(1s „querer‟ assert.) 1s „urinar‟ desiderativo „eu quero urinar‟ (Nonato,2008, p. 112)
+
+(30) pa tu wo
+
+pa bai kae
+
+1pi „ir‟ desid. 1pi „casa‟ „para „andemos para nossa casa‟ (Nonato, 2008, p.112)
+
+ Modo infinitivo
+
+É o modo “usado apenas em orações subordinadas, dando a oração um sentido de processo geral visto como um todo” (Nonato 2008:113). De acordo com Nonato (idem), o modo infinitivo só é compatível com a negação. É marcado com o morfema –i.
+
+(31) ta.jorudu.re
+
+[i wogu i pobu .bagai du].ji
+
+2p.‟ver‟.assert.
+
+1s „pescar‟ inf. „pacu‟ 3s. „por‟ „que‟].tema
+
+„você me viu pescar‟ (Nonato, 2008, p. 113)
+
+ Aspecto
+Nonato (2008) reconhece quatro marcas aspectuais na língua Boróro: (i) aspecto progressivo –nu (cf. exemplo 32 ); (ii) aspecto habitual kigodu (cf. exemplo 33); (iii) aspecto incoativo gödu (cf. exemplo 34) e (iv) aspecto iterativo tratado mais especificamente abaixo.
+
+67
+
+(32) i tu ka du nu re 1s „ir‟ „não‟ „que‟ progressivo assertivo „eu não vou mais‟ (Nonato, 2008, p. 122)
+(33) i ka du kigodu ka re karo  ko 1s „não‟ „que‟ „sempre‟ „não‟ assert. „peixe‟ 3s „comer‟ „eu nem sempre como peixe‟ (Nonato, 2008, p. 124)
+(34) meri  rekodu gödu re sol 3s „ir‟ incoativo assertivo „o sol está começando a ir‟ (Nonato, 2008, p. 69)
+Nonato (2008:132) identifica a reduplicação verbal como atribuindo aspecto iterativo a ação expressa na sentença. Nonato apresenta apenas um exemplo reproduzido abaixo.
+(35) boe re boe  tugu woe „bororos‟ assert. „coisas‟ 3s „as pessoas plantam aqui‟ (Nonato, 2008, p. 132)
+(36) boe re boe  tugu tugu woe „bororos‟ assert. „coisas‟ 3s „as pessoas sempre plantam aqui‟ (Nonato, 2008, p. 132)
+4.4 A nossa proposta
+As análises sobre as categorias de modo, modalidade e aspecto na língua Boróro, como visto na seção anterior, são muito distintas. Não há entre os linguistas que pesquisaram
+68
+
+a língua consenso na interpretação dos morfemas que carregam essas noções aspectuais e modais. Nessa seção, pretendemos apresentar uma nova interpretação para esses morfemas com base em dados coletados em Crowell (1977) e por Camargos e Rodrigues em trabalhos de campo.
+4.4.1 Tempo
+A língua Boróro, assim como a maioria das línguas do tronco Macro-Jê, não apresenta a categoria de tempo marcada morfologicamente. Uma sentença como i tu re pode ser interpretada tanto como „eu fui‟ quanto „eu vou‟. Nesse caso, a distinção entre passado e presente é identificada pelo contexto pragmático.
+Comrie (1976:9) ressalta que muitas línguas não possuem uma categoria temporal gramaticalizada, mas, provavelmente, todas elas possuem uma referência temporal lexicalizada, isto é, adjuntos adverbiais que localizam a situação no tempo. Este é o caso da língua Boróro.
+(37) baragwato i n-ogwage pemega mode amanhã 1sg R-comer bem IND.PROJ. „amanhã eu vou almoçar bem‟
+(38) daude i n-ogwage pemega re ontem 1sg R-comer bem IND „ontem eu comi bem‟
+(39) marigdu i n-ogwage pemega re antigamente 1sg R-comer bem IND „ antigamente eu comia bem‟
+69
+
+(40) aino
+
+i n-ogwage pemega re
+
+agora 1sg R-comer bem IND
+
+„ agora eu estou como bem‟
+
+4.4.2 Modo
+A análise que propomos para o Boróro identifica dois modos (i) o indicativo e (ii) o imperativo. O modo indicativo é marcado pelo morfema re. Este morfema apresenta distribuição bastante ampla na língua, ocorrendo em predicados transitivos, intransitivos e interrogativos, tanto na afirmação quanto na negação. Os exemplos abaixo apresentam dados em orações afirmativas e em orações negativas.
+ Com predicados transitivos:
+
+(41) i re ta wiado 1sg IND 2pl esconder „eu me escondi de você‟
+
+(42) i ka re
+
+ta wiado
+
+1sg NEG IND 2pl esconder
+
+„eu não me escondi de você‟
+
+ Com predicados intransitivos:
+(43) i kuru god re pobo di 1sg nadar ATUAL IND água REL “eu nadei no rio”.
+70
+
+(44) i kuru god ka re pobo di 1sg nadar ATUAL NEG IND água REL “eu nadei no rio”.
+ Com interrogativas:
+
+(45) kaiba but re onde cair IND „onde o menino caiu?‟
+
+(46) a ka re awagu bi
+
+to
+
+2sg NEG IND cobra morrer CAUS
+
+„Você não matou a cobra
+
+O morfema re pode aparecer também combinado com o morfema mod, caso em que se fundem na forma mode.
+
+(47)  kodari mode 3sg tossir PROJ + IND „ele vai tossir‟
+Segundo Crowell (1977:90) a língua Boróro apresenta um sufixo mëd (aspecto hipotético) que, em combinação com o sufixo re (aspecto neutro), resulta na forma –mëde.
+Compartilhamos com Crowell a ideia de que o morfema mëde, escrito por nós como mode, é resultado da fusão de mod + re, em enunciados afirmativos. Nas contrapartes negativas, entretanto, mod nunca se combina com re, uma vez que este morfema deve obrigatoriamente seguir a partícula de negação ka. A negação, como veremos adiante, revela com clareza que a análise de mode como amálgama mod + re é bem fundamentada. A nossa hipótese encontra ainda reforço no padrão acentual da língua, o qual exclui a sequência fortefraco-fraco em uma mesma palavra fonológica.
+
+71
+
+O Boróro possui um padrão acentual em que o acento primário recai sempre na penúltima sílaba da palavra. Viana (2003) ressalta que o acento recai não somente na penúltima sílaba da palavra, mas categoricamente na penúltima sílaba da palavra fonológica: “(...) o acento é culminante, ou seja, cada palavra ou sintagma tem uma única sìlaba comportando o acento principal e que o acento é ritmicamente distribuído, ocorrendo em intervalos regulares (de duas em duas sílabas a partir da penúltima)” (Viana 2003:131). Dessa forma, verifica-se que o padrão formado pelos dois morfemas mod e re ocasionaria um padrão acentual não permitido na lìngua [„modre]. Vale ressaltar que o morfema re comporta-se como clítico, ou seja, desprovido de acento próprio. Como estratégia para manter o padrão da língua, tem–se um processo fonológico em que a vogal central  e a consonante r, que compartilha o traço de + soante com as vogais, sofrem um processo de queda. Assim, o resultado dessa fusão é a forma mode.
+Como adiantamos anteriormente, a forma mod é encontrada apenas na negação, uma vez que o morfema re fica separado de mod pelo morfema ka (negação). Note-se que, em posição final, o morfema re tende a cair na fala de algumas pessoas.
+
+(48) i n-okwage mod ka re karo -di 1sg R-comer PROJ NEG IND peixe REL „eu não vou comer o peixe‟
+
+(49) nigedo rogo
+
+but mod ka(re)
+
+menino pequeno cair PROJ NEG (IND) „o menininho não vai cair‟
+
+Segundo Palmer (1986:26) muitas línguas, se não todas, têm uma maneira clara de indicar que o falante está marcando uma afirmação que ele acredita ser verdadeira. É o sistema que Palmer chama de declarativo.
+Dentro desse sistema declarativo é possível distinguir sistemas modais, tais como indicativo, subjuntivo e imperativo. Esses modos são, ainda segundo o autor, marcados por uma morfologia verbal.
+
+72
+
+O modo indicativo indica tipicamente uma declarativa. Há uma tendência na linguística e na filosofia de tratar as declarativas como gramaticalmente ou logicamente simples, enquanto todas as outras são vistas como mais complexas e derivadas dela. (Palmer 1986:27)
+Em nossa análise sobre a língua Boróro, utilizamos o conceito de modo indicativo como um modo que indica uma declaração que não necessariamente tem ligação com os valores de verdade, daí porque excluímos a possibilidade de chamá-lo de assertivo, termo fortemente marcado por valor de verdade. A noção de declaração relaciona-se simplesmente ao “ato ou efeito de declarar”. Dessa forma, sentenças como 50, 51 e 52 são classificadas como declarações.
+
+(50) i mearda re aru pemega re 1sg pensar IND dançar bem IND „eu acho que está dançando bem‟
+
+(51 ) i meartoru ka re reru re dudi 1sg acreditar NEG IND dançar IND „que‟ „eu não acredito que ele está dançando‟
+
+(52)  reru
+
+n
+
+re ergad
+
+3sg dançar PROG IND Mesmo „ele está dançado mesmo?‟
+
+Um dos fatos que contam positivamente para a nossa análise é a de que o modo Indicativo é marcado sempre nas orações principais, enquanto as construções equivalentes a orações subordinadas não se verifica a presença dessa marca modal, já que são meras nominalizações, como mostram os exemplos abaixo.
+
+73
+
+(53) i
+
+tu mode
+
+[i n-ogwage wo]
+
+1sg ir PROJ + IND 1sg R-comer NLZ
+
+„eu vou almoçar‟ [eu vou para comer]
+
+(54) i
+
+t-ajdu
+
+re
+
+[i nodu wo]
+
+1sg R-querer IND 1sg domir NLZ
+
+„eu quero dormir‟ [eu quero a sua dormida]
+
+(55)  maragod re [i tu wo Cuiabá To d
+
+bogai]
+
+3sg trabalhar IND 1sg ir NLZ Cuiabá para NLZ CIRC para ele „ele trabalhou para que eu pudesse ir a Cuiabá‟ [Lit. ele trabalhou para minha ida a Cuibá]
+
+O outro modo encontrado na língua Boróro é o modo Imperativo. Este contrapõese ao modo Indicativo pela ausência de re. Trata-se do modo que marca os comandos. Diferentemente do modo Indicativo em que as declarações não pressupõem mudanças ou interferências na conduta do receptor, no modo Imperativo os enunciados tem como intenção promover alteração e/o reação no comportamento do receptor, o que não significa que o comando dado será necessariamente executado.
+Construções no modo Imperativo podem receber partículas modalizadoras de comando, como a partícula do. Até o presente não foi possível identificar qual o real significado dessa partícula modalizadora, o que pretendemos esclarecer futuramente.
+(56) a reru do 2sg dançar IMP „dança!‟
+(57) a mago pod do 2ss falar baixo IMP „fala baixo!‟ 74
+
+(58) a meru do 2sg andar IMP „anda!‟
+
+(59) a kudu  2sg beber IMP „beba!‟
+
+(60) a rago  2sg cantar IMP „canta!‟
+
+(61) a ru kuride  2sg subir rápido IMP „suba logo‟
+
+(62) a k-ajmo  2sg R-banhar IMP „você pode banhar‟
+
+(63) a erodo  2sg esperto IMP „você tem que ficar mais esperto!‟
+
+(64 ) a mago
+
+rakado 
+
+2sg falar
+
+alto IMP
+
+„você tem que falar alto‟
+
+Diferentemente do modo Indicativo, em que a negação é marcada pelo morfema ka, no Imperativo a marca é kaba, provavelmente resultante da combinação de um antigo
+
+75
+
+morfema ba com ka. De acordo com o “Dicionário Boróro-Português” (Ochoa 2005) kaba é uma variação da forma negativa ka e é usada para formar o imperativo negativo dos verbos. (65) a kwage kaba
+2sg comer NEG „não coma!‟
+(66) a rud kaba 2sg subir NEG „não suba‟
+(67) a reru kaba 2sg dançar NEG „não dance!‟
+(68) a mago kuri kaba 2sg falar alto NEG „não fale alto!‟
+4.4.3 Modalidade
+O termo modalidade é considerado aqui como uma categoria que expressa ideias nocionais cuja aplicação depende da escolha própria do falante.
+ Modalidade projetiva
+76
+
+Em Boróro toda ideia e/ou pensamento que se projeta para o momento posterior ao ato de fala, seja em oração afirmativa seja em oração negativa, é marcado pelo morfema mod. Como já falamos anteriormente, a forma mode é resultado da combinação de mod e re.
+(69) ema aregod mode 3sg chegar PROJ + IND „ela vai chegar‟
+
+(70) i mear barogwato  aregod Mode 1sg acreditar amanhã 3sg chegar PROJ + IND „amanhã eu tenho certeza que ele vai chegar tarde‟
+
+meri kod tabo sol partido com
+
+(71) i mode
+
+imidia arego okwage wo
+
+1sg PROJ + IND colega levar comer NLZ
+
+„eu vou levar o Guajajara para almoçar‟
+
+ Modalidade reportativa
+
+A modalidade reportativa é marcada pelo morfema ie. Esse morfema corresponde ao “disque” do português, ao “hear say” do inglês.
+
+(72) Meriri kurirew ako re  mug ie Meriri kurirew dizer IND 3sg morar REP „Falaram que Meriri kurirew mora em Merúri‟
+
+Merúri par kede Merúri rumo em
+
+(73) ared ako re reru kuritigo ie mulher dizer IND dançar muito REP „a mulher disse que ele dançava muito‟
+77
+
+(74) i tu mod ie 1sg ir PROJ REP „falaram que eu ia embora‟
+
+4.4.4 Aspecto ou aktionsart (modalidade de ação)
+
+Em Boróro não há diferença entre aspecto e aktionsart como as encontradas, por exemplo, em línguas europeias, em que essa diferença relaciona-se ao critério de mais ou menos gramaticalizado, ou como colocado por Desclés e Guentchéva (1997), mais ou menos transparentes.
+O termo aspecto será aqui utilizado para designar tanto categorias aspectuais quanto aktionsart. Neste trabalho, compartilhamos da idéia proposta por Comrie (1976:9) em que aspecto é considerado como uma categoria gramatical que pode ser expressa por meio de flexão ou por meio de perífrases.
+Em Boróro, a distinção aspectual é feita por meio de morfemas.
+
+ Morfema n ‘progressivo’
+
+(75) i
+
+vud n
+
+re
+
+1sg cair PROG IND
+
+„eu estou caindo‟
+
+(76) ipare e regod n
+
+re
+
+rapazes 3pl correr PROG IND
+
+„os rapazes estão correndo‟
+
+78
+
+(77)  meartoru reru n
+
+re
+
+3sg acreditar dançar PROG IND „ele acredito que ele está dançando‟
+
+(78) e vi
+
+god n
+
+re
+
+3pl morrer CONT PROG IND ‘eles estão morrendo‟
+
+(79) a nud maj
+
+n
+
+re
+
+2sg dormir recentemente PROG IND
+
+„você só fica dormindo‟
+
+(80) i
+
+t-aregod n
+
+re
+
+1sg R-chegar PROG IND
+
+„eu estou chegando‟
+
+ Morfema god ‘atual’
+
+(81) adgo bi
+
+god
+
+n
+
+re
+
+onça morrer ATUAL PROG IND
+
+„a onça está morrendo‟
+
+(82) i oga aregod god n
+
+re
+
+1sg pai chegar ATUAL PROG IND „meu pai está chegando‟
+
+79
+
+(83)  rakitaru god
+
+re
+
+3sg emagrecer ATUAL IND „ele está emagrecendo‟
+
+ Morfema kigod ‘habitual’
+
+(84)  reru
+
+kigod
+
+re
+
+3sg dançar HAB
+
+IND
+
+„ele sempre dança‟
+
+(85)  reru
+
+kigod
+
+3sg dançar HAB
+
+„ele nunca dança‟
+
+ka NEG
+
+(86) u tu kigod baaku ki
+
+moto
+
+3sg ir HAB aldeia „no rumo de‟ chão „ele sempre vai embora cedo‟
+
+(87) e toki kigod 3pl brigar HAB „eles sempre brigam‟
+
+80
+
+ Morfema maj god „terminativo-recente
+
+(88) adgo bi
+
+re maj god
+
+onça morrer IND TER „essa onça morreu agora mesmo‟
+
+(89) i
+
+re adgo bi
+
+to
+
+maj god
+
+1sg IND onça morrer CAUS TER „eu acabei de matar essa onça‟
+
+(90) e nud re maj god 3pl dormir IND TER „eles acabaram de dormir‟
+
+(91) maj god i t-aregod re i waj kae
+
+TER
+
+1sh R-chegar IND 1sg casa em
+
+„eu acabei de chegar em casa‟
+
+4.5 Considerações finais
+Para Crowell e Viana o morfema mod, marca o aspecto hipotético, enquanto que Nonato o interpreta como um marcador temporal de futuro (em oposição a  „não-futuro‟). Crowell, como vimos, não faz distinção entre tempo, modo e aspecto, enquanto que Viana faz distinção entre modo e aspecto e, neste último caso, distingue entre crença do falante e telicidade, incluindo no primeiro caso o hipotético mod (em oposição a  „não hipotético‟).
+81
+
+Com respeito ao morfema re, Crowell o vê como uma marca aspectual, que ele rotula de “neutro” (em oposição a „recentee‟, „incerteza‟, „hipotético‟ e „estativo‟). Viana, por sua vez, além de tratá-lo também como marca aspectual e denominá-lo de „neutro‟, considerao télico (em oposição a nre „estativo‟ e „atélico‟). Já Nonato, diferentemente dos demais, considera re um marcador de modo „assertivo‟ (em oposição ao „reportativo‟, „desiderativo‟ e „infinitivo‟).
+Note-se que o morfema ie, que Nonato interpreta como marcador de modo „reportativo‟, é identificado por Crowell como a contraparte de re em construções de discurso indireto, conforme exemplos abaixo.
+
+(92) u tu ka
+
+re
+
+3 sg ir neg neutro „ele não foi‟ (Crowell, p. 90-91)
+
+(93) u tu ka ie 3 sg Ir neg Indireto („dizem que‟) „ele não foi‟ (Crowell, p. 90-91)
+
+As demais diferenças podem ser comparadas no quadro abaixo.
+
+82
+
+CROWELL
+
+ASPECTO Recentee  Incerto –ru Neutro -re, Hipotético mod Estativo nre Iterativo duplicação da raiz verbal e do pronome ligado a ela.
+
+MODO Oração dependentes
+Imperativo -ba, Hortatório –wëe, Declarativo com entonoação Interrogativo na
+Orações independentes
+
+MODALIDADE
+
+VIANA NONATO CAMARGOS
+
+Hipotético =medi Não hipotético  Télico =re (neutro) Atélico =nre (estativo) Progressivo nu, Habitual kigodu, Incoativo gödu, Iterativo com reduplicação da raiz. Progressivo n
+
+Atual god
+
+Propósito bogai Não-finito –i Finitas -d. Imperativo =ba Exortativo = wëë Declarativo realis  e irrealis/incerteza ru
+Infinitivo i Reportativo ie Assertivo re Desiderativo wëë
+
+Indicativo re
+
+Deôntica: Projetiva mod
+
+Habitual kigod
+
+Imperativo  ou do
+
+Epistêmica: Reportativa ie
+
+Terminativo-recente maj god
+Quadro 5: comparação das análises de Crowell (1977), Viana (2003), Nonato (2008) e Camargos (2010) sobre as categorias de modo, modalidade e aspecto
+
+83
+
+Algumas Conclusões
+A análise que aqui apresentamos sobre as manifestações de aspecto e modalidade em Boróro, embora necessite de aprofundamento futuro, se fundamenta em critérios distribucionais e no conhecimento que se tem das implicações de escolhas na identificação das reais funções de morfemas funcionais nas línguas estudadas. No caso do Boróro, a análise de que mode contem re acende uma luz para a interpretação do morfema re como sendo realmente um morfema modal, portanto de categoria distinta do morfema mod, uma vez que co-ocorre com este último. Evidência para isto é a negação, em que os dois morfemas ocorrem claramente independentes. Quanto à semântica de re, atribuir-lhe um significado de modo declarativo é coerente com a ocorrência do morfema re com palavras que expressam dúvida ou que qualificam o grau de certeza do que é dito, inclusive com o reportativo ie. Ora, considerar re e ie como expressões de modo seria admitir que dois modos podem associar-se a um mesmo predicado, o que é impossível, já que diferentes modos são diferentes mundos, que nunca se misturam.
+Considerar re uma marca de aspecto seria admitir que re seria onipresente em qualquer outra realização aspectual. A análise de mod como modalidade, não impede que coocorra com expressões de aspecto, de modo e com expressões de outras modalidades. Por todo o exposto, consideramos que a nossa análise de re como marca do modo indicativo e mod como marca de modalidade projetiva é plenamente sustentada pelos fatos da língua.
+84
+
+Capítulo V - Conclusões
+Neste trabalho apresentamos uma proposta de alinhamento da língua Boróro e uma reinterpretação das expressões de modo, modalidade e aspecto na mesma, tendo como base os trabalhos de Crowell (1977), Viana (2003, 2004) e Nonato (2008).
+Sobre o alinhamento em Boróro, mostramos que a língua, embora não apresente marcas aspectuais específicas para o caso ou mesmo morfologia flexional, faz uso de estratégias sintáticas para distinguir o sujeito agentivo de sujeito não-agentivo. Mostramos que os sujeitos de predicados intransitivos e os objetos de predicados transitivos seguem imediatamente o tema verbal, enquanto que sujeitos de predicados transitivos seguem imediatamente o clítico re. Essa combinação das marcas de pessoa e a distribuição do clítico re codificam um padrão de alinhamento ergativo-absolutivo.
+A distribuição do clítico re também nos permitiu diferenciar predicados transitivos de predicados intransitivos. Em predicados transitivos temos um padrão S + re + O + V, com o clítico seguindo o sujeito, e em predicados intransitivos S + V + re, com o clítico seguindo o tema verbal.
+Sobre as expressões de modo, de modalidade e de aspecto mostramos que: (i) contrariamente à análise de Nonato (2008), a língua Boróro não apresenta a categoria de tempo marcada gramaticalmente, mas faz uso de adjuntos circunstanciais de tempo; (ii) o morfema re ocorre com predicados transitivos, intransitivos, interrogativos e negativos, só não ocorrendo em oração no imperativo. Essa ampla distribuição deste morfema nos levou a classificá-lo como modo indicativo, em um sentido mais abrangente que o proposto em Palmer (1986); (iii) o morfema re pode co-ocorrer com o morfema mod „modalidade projetiva‟, logo esses morfemas não podem obviamente pertencer a uma mesma categoria modal; (iv) quanto às categorias aspectuais, reinterpretamos as análises precedentes e trouxemos uma nova visão das mesmas (verificar o quadro comparativo na seção 4.5). Foram identificados outros morfemas aspectuais em Boróro, mas estes ainda necessitam de uma análise mais aprofundada e da coleta de novos dados, principalmente os registrados em
+85
+
+contexto real de fala, visto que com dados elicitados, geralmente, não conseguimos identificar as nuanças de significados.
+Há ainda muitas lacunas no estudo dessas categorias modais e aspectuais em Boróro. Para uma análise mais aprofundada das mesmas faz-se necessária a coleta e a interpretação de novos dados.
+Por fim, com este estudo pudemos trazer uma nova interpretação, fudamentada em fatos da língua, tanto para o alinhamento em Boróro, quanto para o entendimento das expressões de modo, modalidade e aspecto na mesma.
+Questionamentos para estudos posteriores:
+Há ainda muitas dúvidas e hipóteses que ficarão para estudos futuros tais como, “Por que no modo imperativo uma classe de verbos recebe marca de modo e a outra classe não a recebe?” Será que o Boróro teria dois morfemas re e sincronicamente identificados somente um? Como explicar a distribuição desse mesmo morfema, ora com sujeitos agentivos, ora com núcleos de predicados?
+Também sobre o alinhamento, ainda há muitos questionamentos para respondermos, como: “Há um padrão de alinhamento nas orações dependentes?”, “Quais as estratégias da lìngua Boróro para diferenciar S, A e O?”.
+86
+
+Referências Bibliográficas
+ALBISETTI, César 1948. Estudos e notas complementares sôbre os Boróros Orientais. Contribuições Missionárias, Publicações da Sociedade Brasileira de Antropologia e Etnologia, nos. 2-3, p. 3-24. Rio de Janeiro. ____. 1958. Nótulas morfemo-etimológicas da língua Bororo. Actas del 31o CIA, vol. 2: 1073-1082.São Paulo. ALBISETTI, Cesar; VENTURELLI, Ângelo Jayme. 1962. Enciclopédia Bororo I. Vocabulário e etnografia. Campo Grande: Museu Regional Dom Bosco. ____. 1969. Enciclopédia Bororo II. Lendas e antropônimos. Campo Grande: Museu Regional Dom Bosco. ____. 1976. Enciclopédia Bororo III. Textos dos cantos de caça e pesca. Campo Grande: Museu Regional Dom Bosco. BORDIGNON, Mário.1987. Os bororos na história do centro-oeste brasileiro: bó e-ró marigudúwo. Campo Grande/ Cuiabá: Missão Salesiana de Mato Grosso/ CIMI-MT. CABRAL, Ana Suelly Arruda Câmara et al. Notas sobre ergatividade em Xikrín. Liames. 4: pp. 21-28. Campinas: Unicamp, Instituto de Estudos da Linguagem. COLBACCHINI, Antonio. 1924. I Boróros Orientali "Orarimugudoge" del Mato Grosso, Brasile. Contributi Scientifici delle Missioni Salesiane del Venerabile Don Bosco. Torino. ____. 1926. Grammatica dei Bororos-Orarimugudoge del Matto Grosso. Torino.
+87
+
+____ e César Albisetti 1942. Os Bororós orientais orarimogodogue do planalto oriental de Mato Grosso: contribuição científica da missão salesiana de Mato Grosso aos estudos de etnografía e etnología brasileira. São Paulo: Companhia Editora Nacional.
+COMRIE, Bernard. 1976. Aspect: an introduction to the study of verbal aspect and related problems. Tokyo: Mugishobo.
+___. 1978. Ergativity. In: Syntactic typology, ed. by Winfred P. Lehmann. Austin: University of Texas Press.
+CRYSTAL, David. 1988. Dicionário de linguística e fonética. Trad. de Maria Carmelita Pádua Dias. Rio de Janeiro: Jorge Zahar Editor Ltda.
+CHUNG, Sandra & Alan TIMBERLAKE. 1992. Tense, aspect, and mood. In: Language typology and syntactic description, ed. By Timothy SHOPEN. Cambridge: Cambridge Univ Press.
+DOURADO, Luciana. Aspectos morfossintáticos da língua Panará. Tese de Doutorado. Universidade Estadual de Campinas: Campinas, 2001.
+DESCLÉS, Jean-Pierre, e Zlatka GUENTCHÉVA. 1997. "Aspects et modalités d'action (représentations topologiques dans une perspective cognitive)", Etudes cognitives, 2, Académie des sciences de Pologne, Varsovie, 145-175.
+DIXON, Robert M W. 1994. Ergativity. Cambridge: Cambridge Univ Press.
+DRUMOND, Carlos. 1965. Contribuição do Bororo à toponímia brasílica. São Paulo: IEB.
+GUÈRIOS, R. F. M. (1939) „O nexo linguìstico Boróro – Merime-Caiapó‟: Revista do Círculo de Estudos “Bandeirantes”, tomo 2, n. 1, p. 61-74. Curitiba.
+HARTMANN, Thekla 1966. A nomenclatura botânica dos Bororos. Dissertação de mestrado. São Paulo: USP.
+88
+
+____. 1967. A nomenclatura botânica dos Bororos: materiais para um ensaio etno-botânico. São Paulo: Instituto de Estudos Brasileiros, USP.
+JESPERSEN, Otto. 1924. The philosophy of grammar. London: G Allen & Unwin.
+LEVI-STRAUSS, Claude 1936a. Contribution à l'étude de l'organisation sociale des Indiens Bororo. In Journal de la Societé des Américanistes, nouvelle série, tome XXVIII, p. 269-304. Paris.
+____. 1957. Tristes trópicos. São Paulo: Anhembi.
+LIMA, S. T. P. 1995. “A língua umutína, um sopro de vida”. Dissertação de mestrado, Universidade Federal de Pernambuco.
+MAGALHÃES, Basílio. 1919. Vocabulário dos índios Borôro. In: Revista do Instituto Histórico e Geographico Brasileiro, tomo 83, p. 5-67. Rio de Janeiro, Imprensa Nacional.
+MISSÃO SALESIANA. 1908. Elementos de grammatica e diccionario da língua dos Boróros-Coroados de Matto-Grosso. Cuiabá: Escolas Profissionaes Salesianas.
+NONATO, Rafael Bezerra e Filomena SANDALO. 2008. Uma comparação gramatical, fonológica e lexical entre as famílias Guaikurú, Mataco e Bororo: um caso de difusão areal? Boletim do Museu Paranaense Emílio Goeldi: Ciências Humanas 2:91-107. Belém.
+NONATO, Rafael Bezerra. Ainore Boe egore: um estudo descritivo da língua bororo e consequências para a teoria de caso e concordância. Dissertação de mestrado, 2008, Universidade Estadual de Campinas.
+OCHOA, Gonçalo C. 2002. Merúri na visão de um ancião Boróro. Memórias de Frederico Coqueiro. Campo Grande: UCDB.
+89
+
+____. 2001. Pequeno Dicionário Boróro-Português – a serviço da escola Boróro. Campo Grande, UCDB.
+PALMER, F. R. 1986. Mood and modality. Cambridge: Cambridge University Press.
+RIVET, Paul e CRÉQUI-MONTFORT, G. de. 1912. Linguistique bolivienne. Le groupe Otukè. Journal de la Société des Américanistes, volume 9, numéro 2, p. 317– 337.
+_____1913. Linguistique bolivienne. Les affinités des dialectes Otukè. Journal de la Société des Américanistes, volume 10, numéro 2, p. 369-377.
+RODRIGUES, Aryon Dall‟Igna. 1962. Comparação das línguas Umutína e Boróro, In: Harald Schultz, Informações etnográficas sobre os Umutína, Revista do Museu Paulista, n.s., 13:100105
+____. 1986. Línguas brasileiras: para o conhecimento das línguas indígenas. São Paulo, Loyola.
+____. 1993. Uma hipótese sobre flexão de pessoa em Boróro. Anais da 45a. Reunião Anual da Sociedade Brasileira para o Progresso da Ciência, vol. 2. Recife: Sociedade Brasileira para o Progresso da Ciência.
+____. 1999. Macro-Jê. R. M. W. Dixon and Alexandra Y. Aikhenvald, orgs., The Amazonian Languages, pp. 164-206. Cambridge: Cambridge University Press.
+____.2003. Ergativité dans le nord-rdt brésilien: la famille Karirí. Faits des langues- revue de linguistique. Nº 21. Volume 2. Paris: Ophrys.
+RONDON, Cândido Mariano da Silva, e João Barbosa de FARIA. 1948. Esboço gramatical e vocabulário da língua dos índios bororo: algumas lendas e notas etnográficas da mesma tribo. Rio de Janeiro: Imprensa Nacional.
+90
+
+SCHULTZ, Harald. 1952. Vocabulário dos índios Umutina. Journal de la Société des Américanistes, volume 41, numéro 1, p. 81-137. TONELLI, Antonio. 1928. Alcune osservazioni sulla sintassi della lingua degl'indi BororoOrari del Matto Grosso (Brasile). Atti del XXII CIA, Roma 1926, vol. 2: 569-585. Roma. ____ e Alfredo TROMBETTI. 1925. La lingua dei Bororo-Orarimugudoge secondo i materiali pubblicati dalle missioni salesiane. Studio comparative. Contributi scientifici delle missioni salesiane del venerabile Don Bosco. Torino: Società Editrice Internazionale. VIANA, Adriana. 2003. Morfossintaxe da língua Boróro. Exame de qualificação. Brasília: UnB (ms.) ____. 2004. Tempo, aspecto e modo em Boróro. Liames. 4: pp 171-182. Campinas: Unicamp, Instituto de Estudos da Linguagem. ___. 2007. Dissimilação de sonoridade em Boróro: uma abordagem com base no principio do contorno obrigatório. In: Línguas e culturas Macro-Jê. Aryon Dall‟Igna Rodrigues e Ana Suelly Arruda Câmara Cabral (orgs). Brasília: Editora Universidade de Brasília/Finatec.
+91
+
+

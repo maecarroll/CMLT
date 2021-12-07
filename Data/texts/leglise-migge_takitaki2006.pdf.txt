@@ -1,0 +1,886 @@
+Author manuscript, published in "Language in Society 3, 35 (2006) 313-339"
+
+Towards a comprehensive description of language varieties: A consideration of naming practices, ideologies and linguistic practices Isabelle Léglise, CNRS, UMR 8133 CELIA
+Bettina Migge, University College Dublin & UMR 8133 CELIA
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+Isabelle Léglise Centre National de la Recherche Scientifique, Unité Mixte de Recherche 8133 CELIA (Centre d Etude des Langues Indigènes d Amérique) BP8 - 7 rue Guy Moquet 94801 Villejuif France
+
+Bettina Migge University College Dublin, Dublin School of Irish, Celtic Studies, Irish Folklore & Linguistics, Artsblock, Belfield Campus, Dublin 4 Ireland
+
+fax: +33-1-49583827 Phone: +33-1-49583808 Email: leglise@vjf.cnrs.fr
+
+fax: +353-1-716-1117 Phone: +353-1-716 8477 Email: bettinamigge@ucd.ie
+
+2
+Abstract : Although it is well accepted that linguistic naming conventions provide valuable insights into the social and linguistic perceptions of people, this aspect has not received much attention in (socio)linguistics. Studies focus on the etymology of names, details about the social and historical circumstances of their emergence, their users, and sometimes make recommendations about the appropriateness of terms. This paper departs from this tradition. Focusing on the term Takitaki in French Guiana, it shows that an analysis of the discursive uses of language names as used by all local actors provides significant insights into the social and linguistic makeup of a complex sociolinguistic situation. Descriptions of languages in such settings should be based on the varieties identified by such an analysis and on practices in a range of naturalistic interactions. Based on these analytical steps, we propose a multi-perspective approach to language documentation. Keywords: naming conventions, language ideology, linguistic description, linguistic practices, discourse analysis, contact linguistics, linguistic anthropology, the Creoles of Suriname, French Guiana
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+Towards a comprehensive description of language varieties: A consideration of naming practices, ideologies and linguistic practices*
+Isabelle Léglise CNRS, UMR 8133 CELIA
+Bettina Migge University College Dublin & UMR 8133 CELIA 1. Introduction While it is well accepted that names for languages (or people) are never neutral but always exist[] in a dialectical relationship with social cognition and social behavior (Smitherman 1991: 117), their potential for shedding light on the social and linguistic reality of a particular linguistic situation has not yet been fully explored. Naming conventions are rarely investigated in much detail. They are generally only briefly discussed in the introductory sections of studies dealing with specific (socio)linguistic topics about that language (but see Smitherman 1991, Baugh 1991, Tabouret-Keller 1997). Most of the research on naming conventions for language varieties deals with situations in which several different names are employed to designate what appears to be, from a linguists perspective, a single language. Based on an analysis focusing on the etymology of the terms in question and details about the social, political and/or historical circumstances of their emergence and their users, several different kinds of patterns have been identified. The different terms may either correspond to different varieties of what a linguist would call the same language (cf. Goodman s (1971) discussion on Ma a / Mbugu as two stylistics variants of the same language, or Mous (2003) on Ma a / Mbugu as the making of a mixed language), or they may reflect a conflict between native and non native naming practices as in the case of the terms Eskimo/Inuit, for example. There are, however, also situations in which some of the co-existing names refer to different (social) varieties of the same language while others are
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+2
+self-designations and yet others are official or colonial designations (cf. Mufwene 1997 for Kikongo/Kituba). For example, Pierre Alexandre (1971: 655) raises some of these traditional questions for Africa when he asks:
+Are Akuapen Twi and Asante Twi two dialects of the same language or two different languages? Are Laadi, Sundi, Mbembe, etc. dialects of a single kiKongo language, and, if not, is there such a thing as kiKongo? The Native speakers opinion on such points can differ markedly from that of the linguists. My own tendency is to give more weight to the former, that is to use an anthropological rather than a purely linguistic approach. The rule one language name = one language is generally useful, although far from absolute.
+Another well-documented case is that of Serbo-Croatian . Depending on political and identity-related issues it is either said to consist of one, two, three or four different languages (namely Serbian, Croatian, Bosniac, Montenegrin) (see Thomas 1994 & 2004, Calvet 1999, Bugarski 2004).
+In the case of languages with a written tradition, the so-called non-standard varieties are traditionally held in low esteem by social actors and public institutions, at least overtly, and are carefully distinguished from the so-called standard variety. In Francophone countries, for instance, non-standard varieties including French-lexified creoles are viewed as collateral languages , that is varieties that are related to standard French but that are not considered to be part of it. Both native speakers and outsiders refer to them using terms such as patois or bad French, which have overtly negative connotations. Researchers generally take this to mean that the native speakers have to a certain degree internalized negative attitudes about their native language (cf. Eloy 2004, for French nonstandard varieties, or Bavoux 2002 for French creoles). However, language attitude studies in anglophone Caribbean creole
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+3
+communities call into question such an interpretation. They show that even though people tend to use such terms to designate their language, they usually still attach a positive covert value to them, especially in in-group settings (cf. Mühleisen 2001 for Trinidad). Sidnell s (1998: 94) discussion of language terms used in an Indo-Guyanese village (e.g. broken down language, mix-up talk, brawlin talk, patwa etc.) suggests not only that these allegedly derogatory terms do not carry negative connotations for its users but also do not refer to the same object, the creole. They designate different locally recognized social, ethnic, functional and stylistic varieties (of the creole). This is partially so because native speakers, unlike linguists, are not committed to a structural analysis and are free to name varieties on the basis of genre associations and (social, identity, communicative etc.) functions.1
+While these investigations provide valuable information about the sociohistorical development of the community, their insights into the linguistic and social realities of an area, are relatively limited. There seem to be two main reasons for this. First, scholars do not (fully) explore the socially constitutive nature of naming conventions. Second, researchers tend to rely on a limited range of perspectives, namely their own and that of other linguists and possibly that of the native speaker. They generally do not consider in detail how these names are employed in discourse by the various local social actors in the local linguistic market (Bourdieu 1982). The native speaker s approach which determines linguistic status on the basis of political, social, historical and other reasons is in most cases of little relevance for the pure linguist (Pierre Alexandre 1971: 655) whose decisions are based on structural (e.g. phonology, morphology, lexicon) resemblances or differences.
+A few studies also deal with situations in which a single term is used to refer to more than one language or variety. In these cases, researchers generally focus on showing the term's ambiguity and sometimes argue in favor of abandoning it or propose the creation of new terms. Consider, for instance, the case of Arabic. Researchers generally highlight its
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+4
+ambiguity and propose strategies to adapt it to the sociolinguistic reality of the linguistic practices in Arabic and the norms that govern them. For instance, Ferguson (1959) describes the reality of Arabic practices as a koiné and proposes the term Arabic koiné. Kaye (1994) proposes the term Arabic multiglossia while Calvet (1999) prefers Arabic schizoglossia. More recently, Caubet (2001) proposes using modifiers, e.g. Maghrebine vs. dialectal Arabic to distinguish the different varieties.
+In French Guiana (Guyane), the term Takitaki has in recent years come to be widely used as a cover term to designate the languages associated with the populations of Africandescent who originate from Suriname. The term derives from the Creoles of Suriname (Sranan, Aluku, Ndyuka, Pamaka) where it is generally used to mean to chatter (Shanks 2000: 189).2 There seems to be a tradition among linguists and anthropologists to argue in favor of abandoning the term Takitaki because it is felt to have pejorative connotations and to be linguistically inadequate. Any careful observer of the local context will, however, quickly notice that the term conveys quite different things to different sections of the Guyanese society. And while some groups of people such as linguists are fiercely opposed to this term because of its allegedly negative connotations other sections of the society, consider it to be a socially neutral term.
+The aim of this paper is twofold. First, we investigate the sociolinguistic complex commonly referred to as the creoles of Suriname in Guyane. Second, we propose a multiperspective approach to the description of languages. We explore the conflicting uses of the term Takitaki in order to determine, by means of a discourse analytic method, what they suggest about the local social and linguistic makeup of the setting. In particular, we investigate the following issues:
+1) What does the local linguistic terminology and the term Takitaki in particular suggest about how the different social actors conceptualize the social and linguistic reality?
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+5
+2) What is the sociolinguistic status of Takitaki, i.e.: from a sociolinguistic point of view, what is referred to by the term? How is the term evaluated and valued and by whom?
+3) What is the linguistic status of productions referred to by the name Takitaki, i.e.: from a linguistic point of view, is it a language or a social, stylistic etc. variety of a language?
+The study considers the points of view of three kinds of social actors: a) the native perspective, i.e. generally the perspective of the Eastern Maroon (EM) population who are speakers of the Creoles Aluku, Ndyuka, Pamaka (but see below), b) the perspective(s) of linguists working in the region, and c) the non-native, non-linguists perspective(s), i.e. the point of view of the other ethnic groups, e.g. Amerindian and metropolitan French populations and the creole populations of French Guiana (Guyane) and Suriname etc. The investigation shows that the different local social actors do not only project different
+social evaluations onto the linguistic productions referred to as Takitaki but they also have different views about the internal structure of the populations who use it. Moreover, they also assign them different linguistic structures and conceptualize in very different ways the relations between the different varieties covered by the same term. Overall, the name Takitaki appears to cover a range of linguistic practices. They resemble each other in that they predominantly involve linguistic material from the creoles of Suriname but their actual linguistic makeup and sociolinguistic status differ quite significantly. This investigation suggests that only an analytical framework that equally takes account of the social and linguistic perceptions, attitudes and ideologies of all social actors and also investigates the linguistic makeup of actual linguistic practices is able to provide a comprehensive insight into the (socio)linguistic makeup of such a multilingual area.
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+6
+The paper is structured as follows. Part Two briefly presents the social context of the French overseas department Guyane. Part Three discusses the terminology used to refer to the English-lexified Creoles of Suriname to provide a first insight into this complex linguistic situation and the different perspectives that exist on it. Part Four investigates what we called above the sociolinguistic status of the term Takitaki based on an analysis of its uses in different kinds of discourses and the results of a survey that aimed to elicit attitudes towards Takitaki and other local languages. Part Five provides a brief linguistic description of the linguistic practices in two types of interactions in which speakers say they used Takitaki. Part Six summarizes the findings and discusses their implications.
+2. The social context of Guyane The French overseas department of Guyane in general and the coastal region in the west in particular are highly multiethnic and multilingual. Apart from the Amerindian population, of which six ethnic groups are still present, various other ethnic groups have come to reside in Guyane due to various socio-political events such as the slave trade, colonialism, departmentalization (1946) and recent migratory movements (since 1960s). They include the population of metropolitan French origin, which is constantly being renewed and makes up roughly 10% of the entire population, persons of French Antillian origin, the Guyanese Creole population, which until recently were the largest ethnic group, and four Surinamese maroon communities. Recent migratory movements have also led to the establishment of a small Hmong community and groups whose members originate from Suriname, Brazil and Haiti.
+Neither of these communities is monolingual or is only associated with one language. The linguistic repertoires of the members of one and the same community may be quite different from each other, depending on various social factors such as education, occupation, residence etc. At this point it is very difficult to determine the linguistic background of the members of
+
+7
+each of these communities because the French census does not record people s ethnic and linguistic background.
+Table 1 gives a rough idea of the macrolinguistic situation in Guyane. It presents a breakdown of Guyane's languages and language varieties, along with some data on the number of speakers. The latter should be considered an approximation only as the figures represent an attempt to combine different estimates (Queixalós 2000, Price 2002, Collectif 2003) with the results from a sociolinguistic survey conducted in Guyane over the past five years (Léglise 2004, 2005, in press).
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+Table 1: Overview of the main languages spoken in Guyane
+
+Types of
+
+Language
+
+Characteristics
+
+languages
+
+Amerindian Languages
+
+Arawak or Lokono The Amerindian languages belong to three language
+
+families (Carib, Tupi-Guarani and Arawak). Some of Emerillon or Teko
+
+these (Emerillon, Arawak) may be considered
+
+Kali na
+
+endangered languages.
+
+Palikur
+
+Population : 5%
+
+Wayana
+
+Wayampi
+
+Guyanese Creole It is the mother tongue of part of the population of Guyane and functions as a lingua franca in some
+
+French-lexified
+
+Creoles
+
+Haitian Creole
+
+regions. Language spoken by part of the people of Haitian origin. Population : 10-20%
+
+8
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+Creole of Martinique, Creole of Guadeloupe
+
+Language spoken by French persons coming from the French Antilles. Population : 5%
+
+Creole of St Lucia Its speakers migrated to Guyane in previous centuries. Population : less than 1%
+
+Aluku Ndyuka
+
+Varieties of the Eastern Maroon Creole spoken by the maroons who fled the Surinamese plantations in the 18th century. They are the first languages of the
+
+Pamaka
+
+maroons who have either resided in Guyane for more than two centuries or are recent migrants from the
+
+interior of Suriname.
+
+English-lexified
+
+Creoles
+
+Sranan Tongo
+
+Population : 20% Mother tongue of the descendants of the slaves who did not flee the plantations of Suriname. It has very
+
+few native speakers in Guyane but functions as
+
+a lingua franca in some regions.
+
+Sa(r)amaka
+
+Language spoken by the Maroons from Suriname by the same name. A significant group of people have
+
+been in Guyane for over a century. It is not entirely
+
+mutually intelligible with the other Surinamese creoles
+
+because a significant portion of its vocabulary comes
+
+from Portuguese.
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+9
+
+Varieties of European Languages
+Asian Languages
+
+French
+
+Official language, language of education and the first language of a small section of the Guyanese society mainly those who originate from metropolitan France. It is also partially used as a lingua franca.
+
+Brazilian Portuguese
+
+Language spoken by Brazilian immigrants. Population : 5-10%
+
+English of Guyana Varieties spoken by immigrants from Guyana. Population : 2%
+
+(Surinamese) Dutch
+
+Language spoken by some of the immigrants from Suriname, where it is the official language and the language of education. Population : less than 1%
+
+Spanish
+
+Language spoken by a small number of immigrants from St Domingo and Latin American countries.
+
+Population : less than 1 %
+
+Hmong
+
+Language spoken by the population originating from Laos who arrived in Guyane in the 1970s.
+
+Population : 1%
+
+Chinese (Hakka, Cantonese)
+
+Varieties spoken by the Chinese immigrants from the beginning of the 20th century and by migrants from Suriname who are of Chinese origin.
+
+About the maroons of Suriname : While the Aluku community has been established in the interior of Guyane since 1860, the traditional villages of the other maroon communities remain in Suriname. However, Saamaka but also Ndyuka and Pamaka men have been coming to Guyane roughly since the 1860 for shorter or longer periods, in search of cash labor
+
+10
+opportunities (Price & Price 2003). The presence of these three maroon groups has, however, greatly increased since the civil war in Suriname in the late 1980s. The maroons have since become a permanent part of the Guyanese society.
+
+3. Overview of the different naming conventions for the creoles of Suriname There are a number of different terms currently used to refer to the linguistic complex generally referred to as the creoles of Suriname . The various terms are hardly synonymous. They either refer to distinct sociolinguistic entities or to different social conceptualizations and evaluations of the same linguistic space. Table 2 gives an overview of the most common terms and matches them to the groups of people who typically employ them.
+
+halshs-00221530, version 1 - 28 Jan 2008 LANGUAGE A
+
+Table 2. Naming the creoles of Suriname spoken in Guyane
+
+Terms used by: Eastern
+
+Non-
+
+Non-
+
+Linguists
+
+Maroons
+
+natives in natives in
+
+(EM)
+
+Guyane Suriname
+
+Referring to Nenge(e)
+
+Takitaki Bosneger- Ndyuka
+
+Language A in Ndyuka
+
+engels
+
+Eastern Maroon
+
+general
+
+Businenge
+
+Dyuka
+
+Creole(s)
+
+tongo
+
+Varieties of
+
+Nenge(e)
+
+English-based
+
+Creoles from/of
+
+Suriname
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+11
+
+LANG. B
+
+Names for ethnic a) Aluku
+
+Generally: Dyuka
+
+a) Aluku
+
+varieties considered b) Ndyuka, Takitaki
+
+b) Ndyuka, Okanisi
+
+to be part of Okanisi tongo
+
+Tongo, Aukans
+
+Language A c) Pamaka
+
+a) Boni
+
+c) Pa(r)amaka
+
+d) Kotika
+
+b) Bosh
+
+e) Saakiiki
+
+Terms for varieties Basaa nenge Takitaki
+
+spoken by non-EMs impure
+
+language
+
+Referring to Saamaka
+
+Saramaka, Saamaka Sa(r)amaka
+
+Language B or the
+
+Takitaki Dyuka
+
+ethnic variety
+
+Referring to Doisi tongo Takitaki Nengre
+
+Sranan (Tongo)
+
+Language C Fotonenge
+
+Sranan
+
+Bakaa nenge
+
+(Tongo)
+
+Nengre
+
+Negerengels
+
+Names for social Wakaman taki Takitaki Nengre
+
+Wakaman Tongo
+
+varieties of
+
+Yunkuman taki
+
+Wakaman
+
+Languages A and C
+
+taki
+
+Mixed urban speech
+
+associated with
+
+young men
+
+LANGUAGE C
+
+Table 2 reveals quite strikingly that the three broad groups of social actors identified above do not only use partially different terms to refer to the forms of speech that belong to this linguistic complex but they also conceptualize it in quite different ways.
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+12
+The most striking difference exists between the EM perspective and that of nonnatives in Guyane . EMs draw a distinction between three different languages (which for the purposes of this paper we call Language A, B and C), five distinct native ethnic varieties for Language A and at least one social varieties for Language A and one for Language C. Moreover, they also recognize the existence of non-native varieties of their native language.
+In stark contrast to the EM perspective, non-EMs in Guyane essentially do not make or perceive any of these distinctions. The fact that they employ the same term to refer to all the speech forms distinguished by EMs suggests that they consider them to be one and the same thing - Takitaki. The perspective of non-natives in Suriname also differs from that of EMs and non-natives in Guyane . The Surinamese perspective recognizes the existence of two to three different languages, Languages A, C and possibly also Language B but it does not acknowledge the existence of social and ethnic varieties of Language A.
+Outside linguists working in the region, like EMs, recognize the existence of several (e.g. three) different languages and the fact that Language A also has several ethnic varieties. In fact, they generally work more or less exclusively on one or the other ethnic variety. However, most of them are very little concerned with the existence of social varieties and particularly with non-native varieties.
+4. The social meanings and evaluation of Takitaki This section investigates the social meanings that are locally associated with the term Takitaki by investigating the use of the term in different discourses. It focuses both on the social meanings and linguistic nature that members of the local communities assign to the linguistic productions they refer to by the name of Takitaki and on their implicit and explicit social evaluations of these linguistic entities. The investigation is based on three kinds of data. First, an analysis of individual interviews with adults living in Guyane who come from different
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+13
+ethnic backgrounds and from a wide range of professional backgrounds (e.g. people working in the building industry or in agriculture, post office employees, teachers, nurses, doctors, see also Léglise 2005, in press). They were asked to discuss their own linguistic background and the linguistic situation in Guyane. Second, the results from a school survey that elicited school children s perceptions of the local linguistic situation and their attitudes towards the different linguistic varieties (Léglise 2004). 60% of the Guyanese population being under 20 years (and going to school), it was important to have quantitative and qualitative data concerning this section of the population, which seems to also be mainly implicated in the naming practices discussed here. Third, an analysis of selected writings on the linguistic situation of Guyane by linguists working in the region. These three kinds of data were analyzed employing a French critical discourse analytical framework (Foucault 1972, Maingueneau 1995). The interpretation of the maroon discourses is also based on consultations with local informants and about ten years of participation and observation in the community employing a linguistic anthropological approach.
+4.1. Takitaki and non-natives The analysis of uses of Takitaki by non-natives (in Guyane) , notably persons with a Metropolitan French background or a local (Guyanese) Creole background, in interviews dealing with their language attitudes and patterns of language use carried out in French shows quite clearly that the term carries negative connotations for them. It is not considered to be a local language but the language of recent immigrants (1).
+(1) c est pas une langue de Guyane c est la langue des immigrés [ ] j aime pas les gens qui parlent ça ils viennent pas d ici. (child born and going to school in Guyane, about 10 years old)
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+14
+It isn t a language of Guyane but the language of immigrants [ ] I don t like these people who speak this [language], they are not from here. It is generally assumed to consist of only one variety that is practiced in the same way by all Maroons (2). It is not considered to have language status but is felt to be a derivative of something more concrete and prestigious. (2) c est qu un dialecte, tout ça c est pareil. (metropolitan French man, about 40 years old, employee in the local administration) It s only a dialect, all of that is the same thing. This variety is also considered to be quite simple. Non-native speakers of Takitaki varieties generally maintain that it is easily learned and constitutes an easy and natural way of communicating with people who do not speak European languages (3 & 4). This is a common stereotype about creoles in general. (3) moi je parle taki pour communiquer avec eux ça s apprend vite. (a metropolitan French man currently living in West Guyane, 50 years old, director of a small masonry company) Me, I speak taki to communicate with them. It can be quickly learned.
+(4) moi je me dis si un jour je vais au Surinam pour du tourisme et qu il m arrive quelque chose là-bas je serai isolé, je pourrai rien faire avec le français je serai frustré je pourrai pas parler [...] ça on le voit tous les jours ils préfèrent parler à ceux qui font l effort de leur parler en taki c est normal / nous on ferait pareil si on était dans la situation (a Guyanese Creole man from Western Guyane, 45, male nurse) I think that if one day I go to Suriname for tourism and something happens to me over there, I d be totally isolated. I would not be able to do anything with French. I d be frustrated that I could not speak. [...] we see that every day, they prefer to speak to
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+15
+those who make an effort to speak in Taki to them, that s normal / we d be doing the same thing if we were in their shoes. It is viewed as a lingua franca that however carries a strong ethnic association (5) and appears to be the only viable means of communication in certain locations in Guyane (6). (5) quand je vais aux urgences et qu on commence à me parler en taki-taki ben c est pas parce que je suis black qu il faut qu on me parle ça il y a des différences quand même / [...] me parler taki-taki juste à la couleur de peau ben c est un délit de sale gueule (male nurse, 40 years old, Guyanese Creole man from Cayenne, talking about the current situation in St Laurent) When I go to the emergency room and they start talking to me in Takitaki, well it s not because I am black that they have to speak to me in that way, after all there are also differences / [...] to address me in Takitaki just because my skin is black, that s offensive.
+(6) quand les copains de Cayenne ont appris que j allais à St Laurent ils ont dit "c est bien tu vas apprendre le taki-taki" (50 year old employee of Guyanese Creole origin who was born in Cayenne and was just returning to Guyane after 15 years in Paris) When my friends from Cayenne heard that I would be going to St. Laurent, they said great, you ll learn Takitaki
+In terms of its linguistic status, linguistic productions called Takitaki are typically categorized as a kind of bad English (7 & 8).
+(7) pour moi, [ ] tout ce qui est du mauvais anglais c est du taki-taki [ ] mais à partir du moment où on se comprend ça me suffit, je leur parle anglais et là leur langue, c est comme de l anglais (a European man living in West Guyane, 35 years old and co-director of a small company)
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+16
+For me [...] Takitaki is essentially bad English [...] but if we are able to understand each other, that s enough for me. I speak to them in English and their language is like English.
+(8) le surinamais par exemple [ ] euh je sais pas comment c est cette langue exactement, elle ressemble beaucoup au hollandais et un petit peu à l anglais [ ] je n ai pas la possibilité de l apprendre puisque comme je parle anglais les gens parlent directement anglais avec moi, leur langue elle est tellement proche qu ils y arrivent (a Metropolitan French person, living in Western Guyane, head of a post office) The Surinamese (language), for example, [...] I don t know what kind of language this is exactly. It resembles Dutch a lot and English a little bit. [...] I haven t the opportunity to learn it because, as I speak English, the people directly talk to me in English. Their language is really so similar to English that they manage to do it.
+Moreover, it is generally assumed to be a simple speech form that, compared with French, is easy to learn (9) because it does not have abstract categories or a grammar (9 & 10) and lacks beauty (11).
+(9) leur langue c est pas bien compliqué hein, il suffit qu on s y mette pour la parler en un mois alors c est sûr qu après leurs enfants comme ils n ont pas de catégories abstraites dans leur dialecte ben ils ont du mal à apprendre notre langue (a metropolitan French woman, living in West Guyane, 30 years old, working as a school teacher) Their language, it s not complicated, you know. It s enough if you study speaking it for one month. It s clear that later, their children, since they don t have abstract categories in their dialect, well they find it difficult to learn our language [French].
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+17
+(10) c est une langue qui a pas de grammaire tu mets juste des mots en anglais les uns à côté des autres / du vocabulaire quoi / et ça marche / futu c est foot / yu futu c est your foot, ton pied c est facile (nurse, 35 years, hospital) It s a language that does not have a grammar. You just use English words, one next to the other, vocabulary, you know, and it works. Futu means foot , yu futu means your foot , your foot, it s easy.
+(11) j aime pas cette langue, c est pas beau. (10 year old child of Amerindian origin who goes to school in Western Guyane) I don t like this language, it s not nice.
+4. 2. Takitaki and young EMs The analysis of the uses of Takitaki by young EMs living in Guyane and attending primary or secondary school there suggests that it is mainly employed in interactions carried out in French with non-EMs, e.g. metropolitan French or Creole teachers, classmates from other ethnic groups or European researchers (12). However, it was occasionally also employed by them during conversations with one of the authors in one of the Eastern Maroon Creole (EMC) varieties (13) when they did not know the researcher. In relation to outsiders, the term has several distinct uses. It may be used to refer to the variety spoken by outsiders or nonEMs such as people of European, metropolitan French, Haitian or Guyanese Creole ethnic origin (12 & 13). In this context, the term appears to designate a variety that is not considered to be real Nenge but a kind of learner s or L2 variety what is traditionally covered by the term Basaa Nenge.
+(12) hey madame lui il parle taki-taki on lui a appris / c est un Hmong qui parle taki-taki. (12 years child, L1-speaker of Ndyuka, going to the collège secondary school in
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+18
+St Laurent,) Hi madam, he speaks Takitaki, we taught him / he s a Hmong who speaks Takitaki.
+(13) [European researcher, speaking (L2) Pamaka to adult Pamaka in the French village of Apatou. A schoolgirl of Pamaka background comes up to researcher and says:] Girl: I e taki takitaki? You are speaking Takitaki? Res.: Eee! A nenge mi e taki! No, it s Nenge that I speak! Girl : [confusion] Pe i leli taki takitaki? Where did you learn to speak Takitaki?
+Takitaki can also be employed as an out-group designation of the mother tongue. When used in this sense, the assumption is that the interlocutor (e.g. a metropolitan French person) does not understand the local social and linguistic diversity such as the fact that there are different maroon groups who speak different linguistic varieties. The name of their ethnic group and/or that of their ethnic variety of the EMC is only supplied if the interlocutor indicates that they have some understanding of the linguistic structure of the community, e.g., upon further or repeated questioning (14 or 15).
+(14) [Common interaction during the interview:] Res. : Quelle langue tu parlais avant d aller à l école ? Which language did you speak before going to school? Child : Taki-taki Res. : Lequel? Which one? Child : Aluku. Aluku.
+(15) [This exchange took place in one of the classes at a secondary school in St Laurent. The researcher had handed out a questionnaire asking about the languages spoken by
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+19
+the children and is now discussing the answers of one child with her (Child 1). Later in the interaction, one of her friends, who is of Hmong origin (Child 2), intervenes:] Res. : Tu m as écrit que tu parles le Pamaka mais ta mère est Aluku ?
+You wrote down that you speak Pamaka but your mother is Aluku. Child 1 : Je suis Aluku mais j ai appris le Pamaka avec les voisins j étais toujours
+chez eux à Village Chinois. I am Aluku but I learned Pamaka from my neighbors. I was always at their house at Village Chinois. Res. : Ah d accord, et alors tu parles plutôt pamaka. Okay, so you rather speak Pamaka. Child 1 : Voilà exactly Child 2 : Ah bon, mais tu parles pas takitaki ? Oh, but you don t speak Takitaki then? Child 1 : Ben non on dit takitaki comme ça dans la cour quand on parle avec vous mais il y a plusieurs langues, aluku tongo, pamaka pas vrai madame ? Well, no. We say Takitaki like that in the recreation area when we speak with you [i.e. non-EMs] but there are several languages, Aluku, Pamaka, right madam ? In addition to being used as an out-group designation for one s mother tongue, Takitaki is also used by young EMs to refer to the language common to all EMs, the EMC. It makes it possible to convey to the outsider that all EMs constitute a common social or ethnic group that speaks one common language. In this sense, Takitaki is similar to the natively used term Nenge (16). Currently, Takitaki used in this sense competes with the term Businenge (Tongo) the language of the people of the interior . The terms seem to be used interchangeably but Businenge tongo, which was introduced some years ago by a group of young Alukus at the
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+20
+Regional Council (Conseil régional) of Guyane (Price & Price 2003), is now also frequently used by official bodies. As illustrated in the exchange in (16), Businenge is usually only used if the person being addressed appears to have some understanding of the local situation, e.g. after rejecting the term Takitaki or demanding further explanation.
+(16) [At the beginning of the interview:] Res. : Quelle langue tu parlais avant d aller à l école ? Which language did you speak before starting school ? Child : Taki-taki Res. : Lequel ? Which one ? Child : Businenge Res. : Oui mais lequel ? Yes, but which one? Child : Ben businenge, taki-taki c est pareil. Well, Businenge, Takitaki, it s the same.
+There are several different reasons that may explain this last use of Takitaki. Some of the children employ this term to refer to their mother tongue because they claim not to know the actual name of their ethnic group/L1, as appears to be the case in (16), for example. Such children are generally not in close contact with the members of a particular maroon community. They may, for instance, come from a mixed marriage where the family associates more closely with the family of the non-EM parent and/or they may have grown up in a setting where members of different maroon groups live side-by-side, e.g., the urban centers, as in (15). However, this does not appear to be very common because a very small number of children claimed to be ignorant about their linguistic background.
+There are also other reasons why EMs choose to use the term Takitaki instead of the name of an ethnic variety. In a number of cases, by using this term, the respondents were signaling their lack of inclination to reveal their ethnic background. The most common reason for this
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+21
+seems to be that the youngsters want to assert, in front of outsiders, the existence of a great number of similarities between all EMs that essentially make them part of a common social entity. This usage is particularly prominent among members of the smaller maroon groups (Aluku, Pamaka) who, rather than being counted as Ndyuka, prefer to highlight the similarities between all three EM groups.
+Despite close cultural similarities between the different EM groups, relations between them have not always been amicable. The Ndyuka, who are by far the largest EM group and who were formally recognized by the Dutch colonizers in 1760, strategically used their relatively exceptional status to dominate the Aluku and the Pamaka and functioned as intermediaries between these groups and the colonizers (Hoogbergen 1990). To this date most Aluku and to a lesser extent Pamaka therefore do not generally appreciate being referred to as Ndyuka. Moreover, in the context of large-scale migration the differences between the maroon groups are increasingly being leveled. In the new context they largely face the same issues, e.g. finding jobs, housing.3 Increasingly, women and men from different maroon groups join forces to meet these challenges, thereby creating networks that are not primarily based on ethnic group, clan and family affiliation as is the case in the traditional villages. Children growing up in the urban context therefore tend to be acculturated to a different social reality and consequently develop a relatively different sense of ethnic belonging. They identify with all those whose background is very similar, i.e. other maroons. Evidence in favor of the emergence of a pan-maroon identity among school age children can also be seen in the fact that a relatively great number of youngsters in St. Laurent responded with Businenge Tongo, a term that clearly recalls a pan-maroon reality, on further questioning and only provided the name of an ethnic variety/group upon repeated questioning.4
+Another related reason for avoiding reference to one s ethnic background seems to be to highlight intergenerational or ideological differences in the community (cf. Vernon 1985).
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+22
+By using the latter terms, the youngsters essentially want to highlight the fact that they identify with an urban European life-style and world view and want to distance themselves from the traditional and rural context. As shown in example (17), the rural (and traditional) tends to be attributed to previous generations.
+(17) [During the interview] Res. : Quelle langue parlait ta mère quand elle était petite ? Which language did your mother speak when she was a child? Child : Elle parlait la langue du village mais moi je la connais pas She spoke the language of the village but I don t know it. Res. : Ah bon et qu est-ce-que tu parles ? Oh and what language do you speak? Child : Takitaki Res. : Et tu parles pas sa langue ? And you don t speak her language? Child : Non c est pas pour parler ici comme langue No it is not a suitable language for here.
+Finally, in some cases we can hypothesize that young maroons employ the term Takitaki to hide their ethnic background because it is more difficult for them to assume a specific ethnic identity. For instance, several authors (Jolivet 1990, Price and Price 2003, Léglise 2004) have remarked on the fact that in the urban context, a Saamaka ethnic identity carries strongly negative connotations. It is associated with notions of backwardness and is widely used as an insult. For young Saamaka, using the term Takitaki is a convenient way to disguise the fact that they are Saamaka (18). It allows them to assert their maroon origin without having to specify their ( shameful ) origin. In their view, it does not really make a difference because most Metropolitan French people and French Creoles will not be able to tell the difference between Eastern Maroons and Saamaka anyways.
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+23
+(18) [During the interview :] Res. : Quelle langue tu parles à la maison ? Which language do you speak at home? Child : Taki-taki Res. : Oui mais lequel ? Yes, but which one? Child : Taki-taki Res. : Mais quel taki ? aluku, ndyuka, pamaka, saamaka ? But which kind of taki ? Aluku, Pamaka, Saamaka? Child : Taki-taki Res. : Bon et ta mère elle parlait quelle langue quand elle était petite ? Okay, and your mother, which language did she speak when she was a child? Child : Saamaka Res. : Et ton père ? And your father? Child : Saamaka Res. : Et toi tu parles saamaka quand tu parles avec eux ? And you, do you speak Saamaka when you talk to them? Child : Oui Res. : Et quand tu parles à tes frères et à tes s urs ? And when you talk to your brothers and sisters? Child : Je parle en saamaka. I talk to them in Saamaka. Res.: D accord Okay
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+24
+4. 3. Takitaki and local Amerindians The interviews with school children of Amerindian origin revealed that there are actually at least two groups of people that could be called native speakers of Takitaki. Besides people of EM descent, there are also a great number of young people of Amerindian origin who claim it as (one of) their mother tongues. Arawak school children from villages near St. Laurent distinguish between two types of Takitaki, the Takitaki of the Amerindians (19), which they claim to speak themselves, and the Takitaki of the Blacks , the variety(s) spoken mainly by persons of Afro-Surinamese origin. Asked about it, its speakers insist that they are distinct.
+(19) [At the beginning of the interview :] Res. : Quelle langue tu parlais avant d aller à l école ? Which language did you speak before going to school ? Child : Taki-taki Res. : Lequel ? Which one ? Child : Arawak Res. : (researcher looks at the child in surprise) Child : Celui des Amérindiens. The one of the Amerindians. Res. : Tu parles arawak ? Do you speak Arawak ? Child : Oui taki-taki Yes Takitaki
+(20) [discussing the nature of language varieties the child mentioned :] Res. : C est comment le taki-taki des Amérindiens ? C est différent de comment parlent les Businenge ? What is this Takitaki of the Amerindians like ? Is it different from how the Maroons speak it ? Child : C est pas pareil nous on parle taki-taki des Amérindiens eux ils parlent
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+25
+takitaki des Noirs. It s not the same, as for us, we speak the Takitaki of the Amerindians and they, they speak the Takitaki of the Blacks .
+4. 4. Takitaki and linguists In the published literature, there are at least five different uses of Takitaki. Robert Hall (1948, 1966), for instance, appears to employ Takitaki to refer to Sranan Tongo (21) but it is entirely possible that he uses it as a cover term for both Sranan Tongo and the EMC varieties the latter used to be viewed as rural varieties of the former.5
+(21) Taki-Taki is the language of Paramaribo and other parts of Dutch Guiana, called by its own speakers tàkitáki or nèngeretóngo Negro language, in Dutch NegerEngelsch, and in German Neger-Englisch. It and the closely related language of the Saramacca Bush-Negroes1 are creolized languages2 developed out of the jargonized English used by the slaves of English and Portuguese landholders who settled Dutch Guiana in the middle of the seventeenth century.3 Taki-Taki is spoken in several dialects, of which the chief is the Town-Negro speech of Paramaribo. (Hall 1948: 92)
+Currently, in some contexts, it is carefully used to refer to non-native designations of the three ethnic varieties of the EMC (Ndyuka, Pamaka, Aluku) and to Saamaka (22) while in others it is used to refer to these three or four varieties and Sranan Tongo and/or an interdialectal koïné or a variety of foreigner talk spoken in St. Laurent (23 & 24).
+(22) [Aluku, Ndyuka, Paramaka, Saramaka, ] Sur le Maroni est très présent le sranan tongo, créole général du Surinam, de base anglaise et en cours de relexification néerlandaise, servant de langue véhiculaire sur cette frontière, de plus en plus sous une forme appelée wakaman tongo. L ensemble des créoles à base anglaise mentionnés (note : qu en Guyane française on nomme génériquement taki taki, terme
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+26
+dans lequel le mépris côtoie l ignorance) est assez homogène linguistiquement, la seule déviance notable résidant dans le lexique saramaka. (Queixalós 2000) [Aluku, Ndyuka, Paramaka, Saramaka, ...] On the Maroni river, Sranan Tongo, the main creole of Suriname which is an English-lexified creole that is in the process of being relexified with Dutch, serves on this border as lingua franca in the form of a variety increasingly referred to by the name of wakaman tongo. All the Englishlexified creoles mentioned (footnote: that in French Guiana are collectively referred to by the name Takitaki, a term which combines contempt and ignorance) are linguistically sufficiently homogeneous. The only divergence is found in the lexicon of Saramaka.
+(23) Le terme taki-taki, très couramment utilisé, est pourtant à éviter pour deux raisons : a) il est dépréciatif et surtout b) il est ambigu, puisqu il peut désigner alternativement n importe lequel des parlers businenge, mais aussi le sranan tongo, ou une variante de "sranan tongo étrangère" qui se développe à St Laurent chez les populations non businenge. (Collectif 2003: 293) The term Takitaki, widely used in Guyane, should be avoided for two reasons : a) it has negative connotations and in addition b) it is ambiguous because it may designate alternatively any of the languages of the maroons but also the Sranan Tongo or a variety of foreigner talk of Sranan Tongo that is emerging in St. Laurent among the non-maroon populations.
+(24) ...il est ambigu, puisqu il peut désigner alternativement n importe lequel des parlers businenge, mais aussi le sranan tongo, ou une sorte de koïnê interdialectale (dite aussi langue du fleuve en constitution sur le Maroni et à St Laurent). (Collectif
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+27
+2000) It is ambiguous because it may designate alternatively any of the languages of the maroons but also Sranan Tongo or a kind of interdialectal koïnê (also called the language of the river that is emerging on the Marowijne river and in St Laurent). For other linguists and anthropologists, Takitaki refers to an emerging language that is spoken on the Maroni River. It is assumed to be different from Sranan Tongo and from Nenge, and is called Takitaki only by persons of European background and French Creoles. (25) Accompagnant l émergence d une conscience de groupe, se forge sur le Maroni une langue du fleuve que Blancs et Créoles confondent, sous l appellation taki-taki, soit avec le sranan tongo, créole du Surinam, soit avec l une des langues des Noirs Marrons qu ils ne distinguent pas. (Grenand 2004). Accompanied by the emergence of a group identity, a separate language of the river is emerging on the Marowijne river. Under the name of Takitaki, it is confused by Europeans and French Creoles either with Sranan Tongo, the creole of Suriname, or with one of the languages of the maroons which they are not able to distinguish from each other.
+4. 5. Comparison of the different uses of Takitaki and consequences for the linguistic situation The analysis of the uses of the term Takitaki by linguists and the different social actors in Guyane showed quite clearly that the term is used to refer to a number of different linguistic entities. These linguistic entities range from several kinds of first language varieties associated with specific local ethnic groups, e.g. Amerindians and Maroons, to a newly emerging koiné and from a simplified code to a second language or learner s variety. It may also be used to designate either one specific variety of the EMC or all maroon varieties, including or excluding Saamaka. The discussion also made it very clear that the different
+
+28
+social actors neither seem to agree on the number of varieties covered by the term Takitaki nor on their sociolinguistic and linguistic status. Table 3 summarizes the findings from the above discussion.
+
+Table 3: Comparison of uses of Takitaki in discourse
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+Non-natives
+
+Natives
+
+Linguists
+
+(Metropolitan,
+
+Takitaki
+
+Creoles ) Young
+
+Young Ndyuka, Young
+
+Amerindians Aluku, Pamaka Saamaka to
+
+(Arawak) to outsiders
+
+outsiders
+
+How many 1
+
+2
+
+4
+
+5
+
+4 to 7
+
+varieties ?
+
+Socio-
+
+Not a
+
+Specific L1 Generic L1 & Generic L1 & Unclear
+
+linguistic language, a (one of their learner s variety their own L1
+
+status
+
+simple speech L1s or EMs)
+
+form
+
+Linguistic A kind of (bad) A variety of L1 variety of L1 varieties of Refers to
+
+status
+
+English = a Language C Language A & Language A or language
+
+variety of
+
+(or different L2 varieties of B
+
+A, B, C &
+
+English
+
+from A/B) Language A
+
+mixture of
+
+them
+
+A: Eastern Maroon Creole, B: Saamaka, C: Sranan Tongo.
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+29
+Some of the varieties mentioned by the local actors are relatively well described, such as the L1 varieties of the three EM groups (cf. Huttar & Huttar 1994, Goury & Migge 2003). However, a number of the other varieties, e.g. the L1 varieties spoken by Amerindian groups and the learner s variety, lingua franca and social varieties, have so far not received much attention from linguists. Overall, the analysis of the usage of the term Takitaki suggests that the local linguistic situation also involves the following kinds of varieties: 1. Several L1 varieties of Sranan Tongo such as the language that Amerindian children call
+Takitaki of the Amerindians . 2. Several L2 varieties of Sranan Tongo that are practiced by the members of the different
+non-maroon ethnic groups of Suriname and Guyane. 3. Maybe mixed and structurally simplified varieties practiced by non-natives and natives
+who approximate L1 and L2 varieties of Sranan Tongo when conversing with speakers of these varieties to facilitate comprehension (i.e. a foreigner talk), and 4. Bi- or multilingual varieties (cf. EMC combined with elements from Dutch, French, Sranan Tongo) spoken mostly by young maroons such as wakaman tongo travellers language or yunkuman fasi young man s speech or mixed urban speeches.
+5. A brief linguistic description of two varieties of Takitaki This section provides a brief description and comparison of two of the varieties that are called Takitaki by the people practicing it. The data are drawn from a corpus of recordings realized in a range of settings, e.g. institutional contexts, public areas and private homes. The recordings were carried out either by the researchers and/or local field assistants. In this section we discuss the characteristics of varieties of Takitaki as used by non-EMs who do not claim it as their first language (Guyanese Creoles and Europeans) and by non-EMs (Arawak Amerindians) who claim it as their first language. The analysis of their salient properties
+
+30
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+reveals that the former Takitaki practices do not closely conform to native EM speech but
+
+resemble what can be called a learner s variety. In contrast to that, the practices of Arawaks
+
+are highly similar to native EM practices.
+
+Examples (26-29) were utterances made by different Guyanese Creole and
+
+metropolitan French women in their 30s who work as nurses at the hospital of St. Laurent.
+
+They were taken from interactions between the medical team (nurses and doctors) and several
+
+EM patients and some of their family members. These utterances differ in several ways from
+
+native EM productions. Most importantly in this respect is the fact that the constructions are
+
+structurally quite reduced. They only contain content words that are semantically and
+
+morphologically salient and transparent such as verbs, nouns etc. Relatively non-salient
+
+elements such as the imperfective marker e and the future marker o are not preserved
+
+probably because the meanings they convey may be deduced from the content morphemes
+
+and the context in which the construction occurred.
+
+(26) Sa yu
+
+suku ? (non-native)
+
+sa i
+
+e suku (EMC)
+
+what you IMPF search
+
+What are you looking for ?
+
+More complex constructions such as the conditional construction in (27) are realized as
+
+reduced paratactic constructions in which the main function morphemes (efu, o, i) are omitted.
+
+It resembles pidgin English : not know, no tablets .
+
+(27)
+
+no sabi
+
+no
+
+dresi (non-native)
+
+efu i án sabi, i ná o feni deesi. (EMC)
+
+if you NEG know you NEG FUT find tablets
+
+If you don t know, you won t get the tablets.
+
+31
+
+Another strategy involves the regularization of variation. From among the natively used
+
+variants, speakers of this L2 variety pick out the most salient variant and use it as the only
+
+form in all contexts. Such an element is either morphologically particularly robust or
+
+resembles a similar form in their native language or another language that they know well.
+
+For instance, in the EMC (and Sranan Tongo) there is variation in the expression of the
+
+second person singular pronoun between i (non-emphatic, occurs before consonants), y (non-
+
+emphatic, before vowel) and yu (emphatic). However, in the L2 varieties only yu is
+
+consistently used. Yu is probably the most salient form for non-native speakers because it
+
+resembles the English second person pronoun.
+
+A fourth strategy involves the use of French elements in place of EM elements that were
+
+most likely not acquired. In (28), the EM conditional marker (efu) is replaced by its French
+
+counterpart (si). And in (29) the EM focus marker (na) is replaced but French c est in an
+
+example that could be an instance of code-switching.
+
+(28) Si
+
+no
+
+teki
+
+dresi, yu
+
+dede mama. (non-native)
+
+efu i ná e teki/diingi den deesi, i sa/o dede mama. (EMC)
+
+if you NEG IMP take/drink DET tablets you FUT die elder (female)
+
+Grandma, if you don t take your medicine, you may die
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+(29) c est la sisa ? (non-native) na a sisa (EMC) PRE DET sister It s the sister ?
+Finally, L2 speakers tend to select Sranan Tongo lexical items rather than EM ones in those cases in which the two differ. The examples in (30) illustrate.
+
+32
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+(30) EMC SR
+
+betee betre good/well
+
+deesi dresi tablets
+
+ná, á(n) no no/not
+
+wooko wroko work
+
+tan
+
+libi stay
+
+osu
+
+oso house
+
+It is thus possible to conclude that public exchanges that are not carried out in French by
+
+hospital personnel and are often referred to by its practitioners by the name of Takitaki
+
+involve a speech form that is lexically based on Sranan Tongo rather than on the EMC and
+
+structurally quite reduced. Moreover, it involves interference features from the different
+
+languages the practitioners know. The fact that this variety is lexically largely based on
+
+Sranan Tongo rather than on the EMC is most likely due to the fact that EMs tend to shift to
+
+Sranan Tongo in public out-group contexts (Migge forthcoming).
+
+In contrast to the learner s variety discussed above, the linguistic practices of Arawak
+
+Amerindians resemble much more closely native EM practices. Consider the short exchange
+
+in (31) drawn from a recording realized in the home of an Arawak family living in the village of Ballaté.6
+
+(31) 1A. man: De e taki wan her tra fasi tok. Lek fa w e taki,
+
+they IMP talk one whole other manner TAG like how we IMP talk
+
+2
+
+a no so de e taki, w e taki sranan.
+
+PRE NEG so they IMP talk we IMP talk Sranan
+
+They [people of St. Laurent] are speaking in a totally different manner, right.
+
+The way we [Arawak] talk, it s not like that they speak, we speak Sranan.
+
+3 Res.: Da i seefi e taki sranan tongo?
+
+33
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+then you self IMP talk Sranan Tongo
+
+So do you speak Sranan Tongo?
+
+4 A. man: Ya tok, na a tongo dat mi leli ma a abi nederlans
+
+Yes TAG PRE DET language that I learn but it have Dutch
+
+5
+
+anga sranan tongo lek fa a frans de a keol.
+
+with Sranan Tongo like how DET French COP LOC Creole
+
+Yes, of course, it s the language that I learned but there is Dutch and
+
+Sranan Tongo like there is French with French Guyanese Creole.
+
+6 Res.: Ma i seefi e taki arawak tu?
+
+but you self IMP talk Arawak too
+
+But you also speak Arawak?
+
+7 A. man: Mi na arawak ma mi no sabi a taal. Mi sabi
+
+I COP Arawak but I NEG know DET language I know
+
+8
+
+wantu nomo wantu.
+
+one-two only one-two
+
+I am Arawak but I don t know the language. I know only some words.
+
+[...]
+
+9 A.man: Den yongu wan, i na
+
+fu go den nei
+
+taki. U nei
+
+DET young one you NEG-have for go they NEG-IMP speak we N-I
+
+10
+
+taki u taal. A muilig yere ma kande den bigi wan srefi
+
+speak our language. PRE difficult, listen but maybe DET big one self
+
+11
+
+no be e taki en anga unu.
+
+NEG PAST IMP speak it with us
+
+The youngsters, you don t have to try, they don t speak it. We don t speak our
+
+language. It is difficult, listen, but maybe the elders also did not speak it to us.
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+34
+The constructions employed by Arawak Amerindians are clearly not structurally reduced compared with the native EM model. They employ the function morphemes typical of the Creoles of Suriname in the same way as the Afro-Surinamese population. For instance, Arawaks regularly employ the imperfective marker e to indicate that an event takes place habitually (lines 1-2) and the relative past marker be(n) to convey that an event has occurred prior to the point of speaking (11). Moreover, they use the demonstrative modifiers in postnominal position (4), the copula na in equative contexts (7) and the copula de in locational contexts (5). Focus and presentative constructions regularly involve the particle (n)a (2, 4,) and nominal constituents are connected using the preposition anga with (line 5). The pronominal forms also undergo phonological change when they are followed by a vowel as in the EMC, e.g. u we (9) changes to w (1-2) or den they (9) changes to de (1). The same is also true of the negation marker, e.g. no changes to nei when followed by the imperfective marker and to na when followed by the verb a(bi) to have (9). The main difference between the native EM practices and those by Arawaks seems to reside in the fact that the latter overwhelmingly select Sranan Tongo-based lexical items rather than EMC-based ones in those cases where they differ, see the examples in (30).
+The brief comparison of two varieties of what is referred to by its practitioners as Takitaki strongly suggests that this term covers a range of practices that are structurally quite distinct. However, they clearly resemble each other in that they predominantly involve vocabulary from Sranan Tongo.
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+35
+6. Conclusion Our investigation strongly supports Irvine and Gal s (2000) tenet that there is no view from nowhere in representing linguistic differences and that acts of speaking and acts of describing depend on and contribute to representations . Our analysis further suggests that this is also true of naming practices: acts of naming linguistic varieties are never neutral but are always dependent on and contribute to their representations and to the representation of the speakers involved. With this paper, we hope to have shown that in order to properly understand the local social and particularly the linguistic situation of a multi-ethnic contact area, it is vital to assume an emic point of view. However, we propose to that it is vital to broaden the current linguistic anthropological notion of emic (Pike 1964, Mondada 2002) to include both the native perspective and the perspectives of the different social actors involved in the area/situation. Linguistic descriptions should thus not just rely on linguists or native s perspectives but need to also consider the various other perspectives on the local linguistic market.
+With this paper we devised a new methodology for the documentation of languages with specific reference to multilingual areas. We proposed a three-step procedure that we applied to Takitaki. First, analysis of naming conventions. Second, analysis of language attitudes using a discursive method. Third, a linguistic analysis of language varieties. In relation to step one, our analysis departs from previous discussions of naming conventions in that we were not concerned with the sociohistorical aspects of naming conventions and their political and linguistic appropriateness. Instead, we gave equal attention to each perspective, focusing on the insights that each view provides into the current makeup of the linguistic space and the possible directions of its development. The investigation of the naming conventions employed for the creoles of Suriname strikingly showed that the different social actors EMs, Amerindians, members of other local ethnic groups and linguists have quite different
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+36
+perspectives on the makeup of the sociolinguistic space involving the creoles of Suriname in Guyane. They have different views on its sociolinguistic structure such as the number of varieties that are involved, their relationships to each other and the population groups associated with each of them.
+With respect to the second step, we decided to take a closer look at the term Takitaki because it seemed to be problematic. Applying a discourse analysis approach, we showed that, contrary to linguists view of this term, it is invested with various positive and negative social meanings by various groups of social actors. It is also used to refer to a variety of speech forms that are currently not just practiced by maroons who are traditionally held to be the native speakers. Moreover, it turned out that young urban maroons also strategically employ it in interactions with non-EMs to portray or assert newly emerging social realities (e.g. pan-maroon identities) to them.
+In relation to step three, we provided a preliminary description of two different practices commonly referred to as Takitaki by its practitioners. One of them significantly differs from native EM practices and appears to be a type of learner s variety that is surprisingly based on Sranan Tongo rather than the EMC. The second variety appears to be also a variety of Sranan Tongo that is spoken natively by young Amerindians; it shows no reduction when compared with other L1 varieties. Other practices covered by the term Takitaki are currently being described in order to realize a systematic linguistic analysis of the different locally identified speech forms or varieties. Based on such an investigation, we hope to gain a comprehensive insight into this dynamic linguistic space and to avoid the current practice of linguistic documentation that focuses largely on mono-stylistic productions (cf. Foley 2005).
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+37
+Notes *We would like to thank two anonymous reviewers and the editor of this journal for valuable comments and criticisms on an earlier version of this paper. All remaining errors are, of course, our own responsibility.
+1 This was pointed out by an anonymous reviewer.
+2 Takitaki is the reduplicated form of the verb taki to speak, to say . In the creoles of Suriname reduplication expresses a range of functions among them intensification of an activity (cf. Huttar & Huttar 1994). Similar terms were also used to designate other Creoles. Talkee-Talkee, for example, is an obsolete term for Jamaican and for Krio. (p.c. October 2005, Norval Smith).
+3 Price & Price (2003: 93ff) argue that the Aluku are currently not subject to the same conditions in coastal Guyane as the other maroons since they are French nationals by birth.
+4 See also Price & Price (2003: 93ff) who argue that a pan-maroon identity is in the process of emerging (among urban maroon adults) but is partially being undermined by current French naturalization politics.
+5 The linguistic description of Takitaki in Hall (1948), which is based on Herskovits & Herskovits (1936), resembles modern Sranan Tongo. Later linguistic and anthropological publications about Sranan Tongo employed Negro-English (Rens 1953) or the Dutch equivalent Neger-Engels/Negerengels (Voorhoeve 1953). Starting from the late 1950s, the term Sranan seems to gain prominence in the linguistic literature (Voorhoeve
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+38
+1962). Current linguistic publications on Guyane (e.g. Launey 1999, Collectif 2003, Goury & Migge 2003) and Suriname (Carlin & Arends 2002) generally avoid the term Takitaki.
+6 The participants included one of the researchers, an EM male friend, an Arawak couple and their two young children. The adults were all in their thirties. The two men knew each other reasonably well from a work-training program. It was a relaxed interaction.
+References Alexandre, Pierre (1971). Multilingualism. In Thomas Seboek (ed.), Linguistics in SubSaharan Africa, 654-663. The Hague: Mouton.
+Baugh, John (1991). The Politicization of changing among American slave descendants. American Speech 66:133-146.
+Bavoux, Claudine (2002). Représentations et attitudes dans les aires créolophones. In Claudine Bavoux & Didier de Robillard (eds.), Univers Créoles 2, 57-76. St Denis de la Réunion: Anthropos.
+Bourdieu, Pierre (1982). Ce que parler veut dire. Paris: Fayard.
+Bugarski, Ranko (2004). What s in a name: the case of serbo-croatian. Revue des Etudes Slaves (Centre d études slaves), Vol. LXXV, facs 1: 11-20.
+Calvet, Louis-Jean (1999). Pour une écologie des langues du monde. Paris: Plon.
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+39
+Carlin, Eithne B. & Jacques Arends (eds.) (2002). Atlas of the languages of Suriname. Leiden: KITLV Press.
+Caubet, Dominique (2001). Maghrebine Arabic in France. In G. Extra & D. Gorter (eds.), The other languages of Europe, 261-277. Clevedon: Multilingual Matters.
+Collectif (2000). Les langues de Guyane. Document de travail. Cayenne : IRD CayenneCNRS-CELIA.
+Collectif (2003). Les langues de Guyane. In Cerquiglini Bernard (ed.), Les langues de France, 269-303. Paris: Presses Universitaires de France.
+Eloy, Jean-Michel (ed.) (2004). Des langues collatérales. Paris: L Harmattan.
+Ferguson, Charles (1959). The Arabic Koiné. Language 35.
+Foley, William (2005). Personhood and linguistic identity, purism and variation. Presented at SOAS, London.
+Foucault, Michel (1972). The Archeology of Knowledge. London: Tavistock Publication.
+Goodman, Morris (1971). The strange case of Mbugu. In Hymes, Dell (ed.), Pidginization and creolization of languages, 243-254 Cambridge: Cambridge University Press.
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+40
+Goury, Laurence & Bettina Migge (2003). Grammaire du nengee : Introduction aux langues aluku, ndyuka et pamaka. Paris: Editions IRD.
+Grenand Françoise (2004). La Guyane: une situation linguistique complexe. Langues et cité 4:2-3.
+Hall, Robert A. (1948). The linguistic structure of Taki-Taki. Language 24: 92-166.
+Hall, Robert A. (1966). Pidgin and Creole languages. Cornell University Press: London.
+Herskovits, Melville J. & Frances S. Herskovits (1936). Suriname Folk-lore. Columbia University Publications in Anthropology 27. New York: Columbia University Press.
+Hoogbergen, Wim (1990). The Boni Maroon wars in Suriname. Leiden: Brill.
+Huttar, George L. & Mary L. Huttar (1994). Ndyuka. London: Routledge
+Ivrine, Judith & Susan Gal (2001). Language Ideology and linguistic differentiation. In Paul Kroskrity (ed.), Regimes of language: Ideology, politics, and identities, 35-83. Santa Fe, USA: School of American Research Press.
+Jolivet, Marie-José (1990). Entre autochtone et immigrants : diversité et logique des positions créoles guyanaises. Etudes Créoles 13:11-32.
+Kaye, Alan (1994). Formal vs. Informal in Arabic : Diglossia, Triglossia, Tetraglossia, etc. Polyglossia-Multiglossia Viewes as a Continuum. Zeitschrift für arabische Linguistik 27.
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+41
+Launey, Michel (1999). Les langues de Guyane : des langues régionales pas comme les autres? In Clairis Christos, Denis Costaouec & Jean-Baptiste Coyos (eds.), Langues et cultures régionales de France, 141-159. Paris: L Harmattan.
+Léglise, Isabelle (2004). Langues frontalières et langues d immigration en Guyane Française. Glottopol 4:108-124.
+Léglise, Isabelle (2005). Contacts de créoles à Mana (Guyane Française): répertoires, pratiques, attitudes et gestion du plurilinguisme. Etudes Créoles 27, 2 :23-57.
+Léglise, Isabelle (in press). Environnement graphique, pratiques et attitudes linguistiques à l hôpital (St Laurent du Maroni). In Isabelle Léglise & Bettina Migge (eds.), Pratiques et attitudes linguistiques en Guyane. Paris: Presses Universitaires de France.
+Maingueneau, Dominique (ed.) (1995). Les analyses de discours en France. (Langages 117), Paris: Larousse.
+Migge, Bettina (2002). Code-Mixing, gender and social identities among Eastern Maroons. Presented at the Society for Caribbean Linguistics, 14th Biennial Conference, The University of the West Indies, St. Augustine, Trinidad & Tobago.
+Migge, Bettina. (forthcoming). Language alternation in creole communities: The case of the Eastern Maroon Community of Suriname and French Guiana. ms.
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+42
+Mondada, Lorenza (2002). Pour une approche interactionnelle de la catégorisation des ressources linguistiques par les locuteurs. In Véronique Castellotti & Didier de Robillard (eds.) France, pays de contacts de langues, 23-35. Louvain-la-neuve : Cahiers de l institut linguistique de Louvain.
+Mous, Maarten (2003). The making of a Mixed Language. The case of Ma a/Mbugu. Amsterdam: John Benjamins.
+Mufwene, Salikoko (1997). Kituba. In Sarah Thomason (ed.), Contact languages : A wider perspective, 173-208. Amsterdam: John Benjamins.
+Mühleisen, Susanne (2001). Is bad English dying out? A diachronic comparative study of attitudes towards Creole versus Standard English in Trinidad. Philologie im Netz 15: 43-78. (www.phin.de)
+Pike, Kenneth L. (1964). Towards a Theory of the Structure of Human Behavior. In Dell Hymes (ed.), Language in Culture and Society, 54-62. New York: Harper and Row.
+Price, Richard (2002). Maroons in Suriname and Guyane: How many and where? New West Indian Guide 76: 81-88.
+Price, Richard & Sally Price (2003). Les Marrons. Châteauneuf-le-Rouge. Vents d ailleurs.
+Queixalós, Francisco (2000). Les langues de Guyane. In Francisco Queixalós & Odile Renault-Lescure (eds.), As linguas amazonicas hoje, 299-306. Sao Paulo: IRD-ISA-MPEG.
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+43
+Rens, L. (1953). The historical and social background of Surinam s Negro English. Amsterdam: North-Holland.
+Shanks, Louis (2000). A Buku fu Okanisi anga Ingiisi Wowtu. Aukan-English Dictionary and English-Aukan Index. Paramaribo, Suriname: SIL.
+Sidnell, Jack (1998). Gender, space and linguistic practice in an Indo-Guyanese Village. Unpublished Dissertation, University of Toronto.
+Smitherman, Geneva (1991). What is Africa to me? Language, ideology, and African American. American Speech 66: 115-132.
+Tabouret-Keller, Andrée (1997). Le Nom des langues. Louvain-la-neuve, Peeters.
+Thomas, Paul-Louis (1994). Serbo-croate, serbe, croate , bosniaque, monténégrin : une, deux , trois, quatre langues ? Revue des Etudes Slaves (Centre d études slaves), Tome LXX, fac 1.
+Thomas, Paul-Louis (2004) ed. Points de vue croisés sur le serbo-croate (bosniaque, croate, monténégrin, serbe). Revue des Etudes Slaves (Centre d études slaves), Tome LXXV, fac 1.
+Vernon, Diane (1985). Money Magic in a Modernizing Maroon Society. Tokyo: AA-Ken Caribbean Study Series, ILCAA
+
+44
+Voorhoeve, Jan (1953). Voorstudies tot een beschrijving van het Sranan Tongo (Negerengels van Suriname). Doctoral dissertation University of Amsterdam.
+Voorhoeve Jan (1962). Sranan syntax. Amsterdam.
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+halshs-00221530, version 1 - 28 Jan 2008
+
+This document was created with Win2PDF available at http://www.win2pdf.com. The unregistered version of Win2PDF is for evaluation or non-commercial use only.
+
+

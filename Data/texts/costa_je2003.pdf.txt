@@ -1,0 +1,2188 @@
+UNIVERSIDADE FEDERAL DO PARÁ LUCIVALDO SILVA DA COSTA
+FLEXÃO RELACIONAL, MARCAS PESSOAIS E TIPOS DE PREDICADOS EM XIKRÍN: CONTRIBUIÇÃO PARA OS ESTUDOS SOBRE ERGATIVIDADE EM
+LÍNGUAS JÊ Dissertação de Mestrado
+Orientadora: PROFESSORA DRA. ANA SUELLY ARRUDA CÂMARA CABRAL
+Belém maio/2003
+
+LUCIVALDO SILVA DA COSTA
+FLEXÃO RELACIONAL, MARCAS PESSOAIS E TIPOS DE PREDICADOS EM XIKRÍN: CONTRIBUIÇÃO PARA OS ESTUDOS SOBRE ERGATIVIDADE EM
+LÍNGUAS JÊ
+Dissertação submetida ao Curso de Mestrado em Letras, do Centro de Letras e Artes da Universidade Federal do Pará, como parte dos requisitos para a obtenção do Grau de Mestre em Letras – Lingüística. Banca examinadora: Professora Dra. Ana Suelly Arruda Câmara Cabral (orientadora da dissertação e presidente da banca) (2º Membro da Banca) (3º Membro da Banca)
+(Membro suplente da Banca)
+Belém maio/2003
+
+1° Examinador ____________________ 2° Examinador ____________________ 3º Examinador ____________________
+
+AGRADECIMENTOS
+Aos Xikrín do Cateté, que contribuíram com esta dissertação, especialmente, a Bep Ngrire, Ikro, Kango, Kopire, Notire, Pokré, Pi’ydjo, Tamakwaré, Tuté, Angroté, Vaqueirinho e Utore, por terem, tão pacientemente, compartilhado comigo de seu maior patrimônio cultural, sua língua.
+A minha professora e orientadora Dra. Ana Suelly Arruda Câmara Cabral, pelo saber compartilhado, pela paciência na elaboração desta dissertação e pelo carinho de mãe na dedicação a ensinar-me, assim como à sua família que ao longo desses anos passei a amar como minha família.
+Ao professor Dr. Aryon Dall’Igna Rodrigues pelos inestimáveis e esclarecedores ensinamentos sobre as línguas Jê e sobre as línguas indígenas brasileiras em geral, assim como pela oportunidade que me proporcionou de realizar um estágio no Laboratório de Línguas Indígenas da Universidade de Brasília.
+À CAPES, pelo financiamento de meus estudos de pós-graduação e de parte da minha pesquisa de campo entre os Xikrín.
+À Fundação Nacional do Índio (FUNAI), pela permissão para entrar na Área Indígena Xikrín do Cateté.
+Aos funcionários da Administração Regional da FUNAI em Marabá, particularmente ao Sr. Eimar Araújo, pelo importante apoio durante minha estada na área indígena.
+Ao Sr. José Josino de Almeida Neto (supervisor do Programa Xikrín, convênio 453 entre FUNAI e Companhia Vale do Rio Doce), pela cordialidade, receptividade e apoio acolhedores em todas as viagens que fiz à Serra dos Carajás e por ter intermediado meu primeiro contato com os Xikrín e apoiado minha ida à área indígena Xikrín do Cateté.
+Aos amigos que fiz na área indígena Xikrín do Cateté: Alberto Lima da Costa, Cláudia Regina Rio Branco, Ivonete da Silva Marinalva Ramos e Raimundo Ferreira e Raimundo Oliveira (Ivan), pela boa recepção e atenção com que me receberam na aldeia.
+Às professoras Célia Macedo e Leopoldina Araújo pelas valiosas críticas e sugestões dadas a este trabalho.
+
+A meus pais, a meus irmãos e a Fernanda pelo amor, carinho, incentivo e paciência inestimáveis e acolhedores. Agradeço também a minha tia Socorro e a seu esposo Francisco pela hospitalidade e apoio que sempre encontrei em seu lar na Serra dos Carajás.
+Aos amigos de todos os momentos Clodoaldo Nazaré e Cristiana Lima e, particularmente, aos queridos colegas de curso e de pesquisas lingüísticas, Cristina Caldas, Gene Carreira, Eliete Solano, Ivanete Félix, Jefferson Barbosa, Glaucy Ramos, Jessiléia Eiró, Márcia Carvalho e Tabita Silva.
+
+SUMÁRIO
+
+AGRADECIMENTOS SUMÁRIO RESUMO ABSTRACT ABREVIATURAS
+
+CAPÍTULO I
+
+11
+
+1. Considerações iniciais
+
+12
+
+1.1 Algumas observações sobre o povo Xikrín
+
+10
+
+1.2 A língua Xikrín
+
+14
+
+1.3 Estudos lingüísticos precedentes sobre a língua Kayapó
+
+14
+
+1.4 Sobre a organização dos capítulos
+
+16
+
+CAPÍTULO II
+
+17
+
+2. Classes de palavras e tipos de predicados em Xikrín
+
+17
+
+2.1 Flexão relacional
+
+17
+
+2.2 Discussão
+
+29
+
+2.3 Nomes e predicados nominais
+
+32
+
+2.3.1 Nomes referenciais
+
+32
+
+2.3.2 Pronomes pessoais
+
+37
+
+2.3.3 Demonstrativos
+
+44
+
+2.3.4 Nomes de qualidades
+
+45
+
+2.3.5 Nomes de sensações
+
+46
+
+2.4 Verbos
+
+48
+
+2.4.1 Verbos transitivos bivalentes
+
+48
+
+2.4.2 Verbos transitivos trivalentes
+
+49
+
+2.4.3 Verbos intransitivos monovalentes
+
+50
+
+2.4.4 Verbos intransitivos bivalentes
+
+51
+
+2.4.5 Nominalizações
+
+53
+
+2.5 Posposições
+
+57
+
+2.6 Partículas
+
+59
+
+CAPÍTULO III
+
+63
+
+3. Observações sobre o sistema de alinhamento em Xikrín
+
+63
+
+3.1 Padrões básicos de alinhamento em Xikrín
+
+63
+
+3.2 O padrão de alinhamento nominativo-absolutivo
+
+63
+
+3.3 O padrão absolutivo
+
+65
+
+3.4 O condicionamento do alinhamento do Xikrín
+
+69
+
+CAPÍTULO IV
+
+72
+
+4. Conclusão
+
+72
+
+REFERÊNCIAS BIBLIOGRÁFICAS
+
+74
+
+RESUMO
+Esta dissertação trata das classes de palavras e dos tipos de predicados na língua Xikrín, uma variedade da língua Kayapó da família Jê, do tronco Macro-Jê (RODRIGUES 1986, 1992, 2000, entre outros), tendo em vista a ampliação da discussão iniciada em CABRAL, RODRIGUES e COSTA (2002) sobre os condicionamentos da cisão de alinhamento observada nessa língua. Será mostrado que nas orações independentes do Xikrín o agente de verbos transitivos e o argumento interno de verbos intransitivos são marcados pelas mesmas formas pessoais, enquanto o argumento interno de verbos transitivos é marcado por uma série pronominal distinta, a mesma que codifica o possuidor e o complemento de posposição. Por outro lado, quando um predicado é modificado por uma expressão adverbial, ou quando é núcleo de orações completivas ou de orações relativas, há uma cisão no alinhamento. O ponto central deste estudo é mostrar que esta cisão está relacionada à natureza nominal ou verbal dos núcleos dos predicados. Serão contrastados os tipos de construções que correspondem aos dois sistemas de alinhamento e descritas as situações em que ambos os sistemas se manifestam. Para tanto, serão abordados os tipos de predicados existentes na língua e os usos de cada uma das duas séries pronominais do Xikrín. O presente estudo, embora considerando algumas das propostas metodológicas e abordagens teóricas encontradas na literatura sobre alinhamento, como as presentes nos trabalhos de COMRIE (1978, 1989), SILVERSTEIN (1976) e DIXON (1979, 1994), fundamentou-se principalmente no que pode ser depreendido dos dados do Xikrín. Nesta dissertação nos limitamos a apresentar uma análise alternativa dos dados do Xikrín com o objetivo de contribuir para a discussão sobre os padrões de alinhamento descritos anteriormente para essa língua (cf. THOMSON & STOUT 1974; REIS SILVA & SALANOVA, 2000; SALANOVA, 2001; e REIS SILVA, 2001), assim como sobre os fatores que os condicionam.
+
+ABSTRACT
+This dissertation presents an analysis of the word classes and the types of predicates in Xikrín, which is a variety of the Kayapó language of the Jê family, a member of the Macro-Jê stock (RODRIGUES 1986, 1992, 2000, among others) seeks to contribute to the discussion on the conditioning of the alignment splits observed in this language (CABRAL, RODRIGUES & COSTA 2002). It will be shown that in Xikrín independent clauses the agent of transitive verbs is marked in the same way as the internal argument of intransitive verbs, and that the internal argument of transitive verbs is marked by means of a different personal marker, the same one that codifies the possessor and the complement of a postposition. On the other hand, when the predicate is modified by an adverbial expression, or when it is the core of a relative or a completive clause, there is an alignment split. The central point of this study is to show that this split is related to the nominal nature of the heads of such predicates. The types of construction which correspond to the two alignment systems will be described as well the situations in which both systems are manifested, the types of predicates found in Xikrín, and the use of its two pronominal series. The present study, although considering some of the methodological guide lines and theoretical approaches found in the literature on alignment, as those found in COMRIE (1978, 1989), SILVERSTEIN (1976) and DIXON (1979, 1994), has been founded mainly on the Xikrín data. Here we have limited ourselves to present an alternative analysis of these data seeking to contribute to the discussion on the alignment patterns previously described for the language (cf. THOMSON & STOUT 1974; REIS SILVA & SALANOVA, 2000; SALANOVA, 2001; & REIS SILVA, 2001), as well as its conditioning factors.
+
+ABREVIATURAS
+
+Afirm Aum Caus Dat Dim Enf Erg Fut Imin Int Neg Nfut Nom Pauc Pl Progr R1 R2 R3 1+2 1±3 2±3
+
+afirmação aumentativo causativo dativo diminutivo enfático ergativo futuro iminente interrogativo negação não-futuro nominalizador paucal plural progressivo prefixo relacional de contigüidade prefixo relacional de não-contigüidade prefixo relacional genérico e humano primeira pessoa dual inclusiva primeira pessoa do singular/primeira pessoa dual exclusiva segunda pessoa do singular/segunda pessoa dual exclusiva
+
+CAPÍTULO I
+1. Considerações iniciais
+Esta dissetação trata das classes de palavras e dos tipos de predicados na língua Xikrín, variedade da língua Kayapó da família Jê, do tronco Macro-Jê, tendo em vista contribuir com evidências adicionais para fundamentar a hipótese aventada por CABRAL, RODRIGUES e COSTA (2002) de que os condicionamentos da cisão de alinhamento observada em Xikrín1 relacionam-se ao fato de um predicado ser ou não modificado por uma expressão adverbial. A análise aqui apresentada seguiu uma interpretação dos dados do Xikrín que difere em vários aspectos das encontradas em outras análises precedentes (THOMSON & STOUT 1974; REIS SILVA e SALANOVA 2000; SALANOVA 2001; e REIS SILVA 2001), como discutido na seção 2.2 do capítulo II e no capítulo IV deste estudo, e com ela pretendemos contribuir para uma discussão que ampliará o conhecimento da natureza das cisões de alinhamento em Xikrín, os quais são também característicos de outras línguas da família Jê.
+O presente estudo resultou de um trabalho de pesquisa da língua Xikrín realizado entre 2000 e 2001, através do qual foram coletados dados lingüísticos lexicais e sintáticos, os quais serviram de base para o estudo das classes de palavras, dos tipos de sintagmas e dos tipos de orações dessa língua. A partir da análise contrastiva adotada foram identificados os tipos de construções que correspondem à cisão no alinhamento do Xikrín, bem como as motivações dos diferentes tipos de padrões de alinhamento encontrados nessa língua.
+Foram consideradas algumas das propostas metodológicas e abordagens teóricas sobre ergatividade e cisões de alinhamento encontradas em DIXON (1979, 1994), embora tenhamos nos fundamentado principalmente no que pode ser depreendido dos dados do Xikrín. Nesse sentido, consideramos, por exemplo, que “...a ergatividade está em distribuição complementar com o padrão gramatical familiar de acusatividade, no qual um caso (nominativo) marca o sujeito de sentenças intransitivas e transitivas, e outro caso (acusativo) é empregado para marcar objeto de sentenças transitivas.” (DIXON 1994, p 1).
+1 Os dados que fundamentaram o presente estudo foram coletados durante seis idas a campo, realizadas durante o período de 10 de fevereiro de 2001 a 30 de julho de 2002.
+
+Por outro lado, não adotamos os primitivos semântico-sintáticos propostos pelo mesmo autor para as línguas em geral (cf. DIXON 1994):
+S – sujeito de intransitiva A – sujeito de transitiva
+O – objeto de transitiva (S, A e O).
+Os dados do Xikrín mostraram que as expressões argumento interno e argumento externo de predicados usados nos últimos anos por autores de trabalhos de orientações teóricas distintas são mais adequadas para a descrição dos padrões de alinhamento dessa língua.
+Quanto aos condicionamentos de cisões observadas nas línguas do mundo, consideramos como referência básica, embora não única, os propostos por DIXON (1994): tempo, aspecto, modo, tipos de orações – principais e subordinadas – e orações relativas/hierarquia nominal.
+1.1 Algumas observações sobre o povo Xikrín Os Xikrín, como todos os povos Kayapó setentrionais, se autodenominam
+Meb) êngôkre (me) ‘R3’ + -be ‘ser’ + -ngo ‘água’ + -kre ‘buraco’) ‘gente do buraco d’água’ (cf. VIDAL 1977, p. 14). Costumavam também se autodenominar Put Karot, tendo o nome Xikrín sido atribuído a eles pelos Irã-ã-mray-re, os quais se referiam a um grupo localizado a nordeste de suas aldeias. Só mais tarde os não-índios passaram a nomear o grupo Put Karot como Xikrín (cf. VIDAL 1977, p. 14). Atualmente, eles se autodenominam ora como Meb) êngôkre, ora como Xikrín. Vivem no Estado do Pará em duas áreas distintas: uma localizada no município de Parauapebas e a outra no município de Senador José Porfírio.
+Até os anos 30 do século XX, os Xikrín formavam um único grupo, que habitava a região do Cateté. Neste período, foram obrigados a abandonar essa região devido a uma expedição de represália realizada pelos cristãos (nome dado aos não-índios), cujo resultado foi a morte de 180 índios. Segundo FRIKEL (1968, p. 8), em razão desse trágico acontecimento os Xikrín ficaram abalados e sem chefia definida para tomar decisões em benefício do grupo, tendo esses fatos provocado desentendimentos entre eles, os quais
+
+culminaram com uma cisão em dois grupos. Um grupo estabeleceu-se às margens do rio Bacajá, enquanto o outro foi em direção sul-sudeste, tendo realizado sucessivas migrações até chegar ao Posto de atração Las Casas do SPI, no rio Pau-d´arco, de onde paulatinamente voltou à região do Cateté, onde vive atualmente.
+A área indígena dos Xikrín do Bacajá tem 192.126 hectares (cf. RICARDO, 2000) e está situada às margens do rio Bacajá, afluente do rio Xingu, no município de Senador José Porfírio, dentro da Terra Indígena Trincheira Bacajá onde vivem aproximadamente 360 indivíduos (cf.: www.altamiranet.com.br/funai/index.htm).
+A área indígena Xikrín do Cateté tem uma extensão de 439.151 hectares e está localizada às margens do rio Cateté, afluente do Itacaiunas, no município de Parauapebas, sudeste do Estado do Pará. Somam aproximadamente 750 pessoas divididas em duas aldeias, a saber: a aldeia Cateté, mais antiga e maior, com aproximadamente 500 pessoas e a aldeia Djudjêkô, que tem cerca de 250 pessoas2.
+A atividade agrícola de subsistência é bastante desenvolvida entre os Xikrín. Nas roças cultivam algodão, abóbora, banana, batata-doce, inhame, macaxeira, mamão, mandioca, milho, etc. A preparação da roça ocorre em etapas sucessivas. Primeiro ocorre a broca e a derrubada das árvores3 e depois a queima e plantio (cf. VIDAL 1977, p.77). A caça e a pesca são atividades muito valorizadas entre os Xikrín. Sobre a primeira, observa GIANNINI (2001, p. 12), que os Xikrín “definem-se como essencialmente caçadores...”. No entanto, deve-se notar que a alimentação desse povo depende em grande parte de produtos agrícolas e, em menor escala, de produtos oriundos da cidade. Essas atividades podem ser feitas individual ou coletivamente, podendo durar um ou vários dias. Em parceria com o Instituto Socioambiental (ISA), os Xikrín desenvolveram um plano de manejo florestal objetivando conciliar atividades tradicionais, como a coleta de produtos da floresta para usufruto da própria comunidade, com atividades comerciais, tais como a venda de castanha e a extração de madeiras de lei. Como resultado dessa parceria, pode-se apontar uma significativa diminuição das invasões da área indígena por castanheiros, fazendeiros, madeireiros, garimpeiros, etc. (GIANNINI, 2001, pp. 13-14).
+2 As informações sobre a demografia dos Xikrín foram obtidas junto à associação Bep Noi por Ivonete, enfermeira na aldeia Djudjêkô. 3 Recentemente, os Xikrín têm contratado os chamados “motoqueiros” para executar a derrubada das árvores com moto-serras.
+
+1.2 A língua Xikrín A língua Xikrín é uma das variedades da língua Kayapó, membro da família Jê,
+tronco Macro-Jê (RODRIGUES, 1986). A língua materna é falada por todos os Xikrín como primeira língua, e mesmo
+quando estão na cidade falam o Xikrín entre si. Um dos fatores para a conservação e manutenção de sua língua parece ser a proibição do aprendizado do Português imposto pelos homens às mulheres, com as quais as crianças têm maior contato, o que lhes possibilita a aquisição desde a infância de sua língua materna, a única língua falada por suas mães4.
+Homens e jovens que saem com bastante freqüência para a cidade, além de idosos que tiveram maior relacionamento com a sociedade envolvente durante a história do contato, entendem e falam a língua Portuguesa, ainda que haja graus diferenciados de proficiência entre eles. Adicionalmente, crianças e jovens estão tendo maior oportunidade de aprender a língua Portuguesa na escola das aldeias (1a à 4a série), além de outras disciplinas como matemática, história, geografia e ciências. Ultimamente, está sendo discutida a continuidade do ensino fundamental de modo a oferecer aos alunos as séries subseqüentes (5a à 8a série). Esta iniciativa, que partiu da própria comunidade Xikrín, tem duplo objetivo: assegurar que os jovens valorizem as práticas tradicionais de seu grupo e impedir que adquiram vícios da sociedade circundante. Sobre esse último objetivo diz Karangré Xikrín, que é o cacique da aldeia Djudjêkô, “é melhor os jovens estudarem na aldeia para não perderem a cultura nem aprenderem coisas ruins lá fora com os kube,) como beber cachaça, pegar doenças ...”5
+1.3 Estudos lingüísticos precedentes sobre a língua Kayapó Já desde o século XIX foram produzidos documentos lingüísticos sobre o Kayapó.
+Uma das primeiras contribuições para o conhecimento dessa língua para os não-índios foi a de Paul Ehrenreich, que publicou em 1894, na Zeitschrift für Ethnologie (Berlim), o
+4 Há uma mulher Xikrín, conhecida por Maria, que fala fluentemente português. Quando jovem foi levada por missionários para morar na cidade. Trata-se, portanto, de um caso isolado. 5 Este depoimento foi colhido pelo autor em junho de 2002, quando esteve na aldeia Djudjêkô realizando trabalho de campo.
+
+trabalho intitulado “Die Sprache der Cayapo (Goyaz)”. Essa publicação contém material lingüístico de dois dialetos do Kayapó, o dialeto ‘Cradaho’ e o dialeto ‘Uchikring’. Não menos importante é a contribuição de Antonio Maria SALA (1920), na Revista do Museu Paulista, intitulada “Ensaio de grammatica Kaiapó”. Nesse trabalho o autor apresenta um vocabulário em Português-Francês-Kayapó (pp. 405-429). Nimuendajú (1932) coletou uma lista de palavras do Kayapó do médio Xingu e a comparou com dados de Socrates, Ehrenreich, Coudreau, Krause e Sala. Em 1934, Hugo Mense publicou na revista Santo Antonio, Provinzzeitschrift der Franziskaner in Nordbrasilien um pequeno vocabulário Kayapó. Schmidt reuniu, em “Los Kayapó de Matto-Grosso”, os poucos dados existentes até então sobre os Kayapó localizados entre o Paranatinga e a parte superior da Bacia do Xingu (1947). Em 1974, THOMSON & STOUT apresentaram três artigos sobre a língua Kayapó. No primeiro, “Elementos proposicionais em Kayapó”, tratam da estrutura da oração baseadas na teoria semântica gerativa. Definem quatro tipos de predicados de acordo com seus papéis semânticos. No segundo, “Modalidades em Kayapó”, discutem a categoria gramatical modalidade, tendo apresentado três tipos de modalidade: orientação, conexão e conceito. No último, “Fonêmica Txukuhame)i”, descrevem o sistema fonológico do “Txukuhame)i” (Txukahamãe), a variedade da língua Kayapó falada no alto Xingu. JEFFERSON (1980) publicou uma “Gramática pedagógica Kayapó”, destinada ao aprendizado dessa língua por falantes de Português, com várias observações culturais sobre os Kayapó. Mais recentemente, TREVISAN & PEZZOTTI (1991) contribuíram com um “Dicionário Kayapó-Português – Português-Kayapó”, em que apresentaram também um quadro dos fonemas da língua Kayapó, além de algumas explicações sobre a pronúncia dos vocábulos. Borges escreveu uma dissertação de mestrado sobre “Aspectos da morfossintaxe do sintagma nominal na língua Kayapó” (UnB, 1995), em que tratou dos nomes em relações genitivas, mostrando evidências para a existência de prefixos relacionais em Kayapó, e publicou no ano seguinte um artigo sobre o mesmo assunto (BORGES 1996). REIS SILVA e SALANOVA (2000) discutem a codificação de argumentos em Me)bêngôkre e consideram que a mesma está condicionada à finitude ou à não-finitude do núcleo do predicado verbal. SALANOVA (2001), em sua dissertação de mestrado, intitulada “A nasalidade em Mebengokre e Apinayé: o limite do vozeamento soante”, discute aspectos dos sistemas fonológicos dessas línguas. Mais recentemente, Reis Silva, em sua dissertação
+
+de mestrado “Pronomes, ordem e ergatividade em Mebengokre (Kayapó)” (UNICAMP 2001), apresenta o fenômeno da ergatividade nessa língua como estando condicionado à forma não-finita do verbo. Há ainda três artigos que tratam de aspectos morfossintáticos do dialeto Xikrín do Cateté. “Prefixos relacionais no Xikrín” (COSTA 2002), mostra os prefixos que flexionam temas nominais para indicar suas relações de dependência e de contigüidade sintática com seus determinantes. Em “Notas sobre ergatividade em Xikrín”, CABRAL, RODRIGUES e COSTA (2002) discutem as motivações para a cisão no sistema de alinhamento dos marcadores pessoais do Xikrín em sentenças transitivas e intransitivas e mostram que a cisão observada nessa língua está relacionada ao fato de o predicado ser modificado por um advérbio ou outra expressão adverbial. Finalmente, em “Xikrín e línguas Tupí-Guaraní: marcas relacionais”, CABRAL & COSTA (2002) ampliam a análise dos prefixos relacionais do Xikrín e discutem alguns paralelismos entre Xikrín e línguas da família Tupí-Guaraní.
+1.4 Sobre a organização dos capítulos No capítulo I, além de uma breve introdução ao assunto tratado nesta dissertação, são apresentadas algumas observações sobre o povo Xikrín e sua língua, assim como algumas informações sobre os trabalhos existentes acerca da língua Kayapó. O capítulo II trata das classes de palavras e dos tipos de predicados existentes na língua Xikrín e mostra que nomes possuíveis, verbos e posposições são flexionados por prefixos relacionais, os quais indicam relações de dependência e de contigüidade sintática entre esses temas e seus determinantes. Finalmente, o capítulo III discute os dois únicos padrões de alinhamento existentes em Xikrín e mostra que a cisão no alinhamento dessa língua está relacionada ao status gramatical das orações. No capítulo IV apresentamos os resultados do presente estudo.
+
+CAPÍTULO II
+2. Classes de palavras e tipos de predicados em Xikrín Há em Xikrín quatro classes de palavras que se distinguem por meio de critérios
+morfológicos, sintáticos e semânticos: nomes, verbos, posposições e partículas. Verbos, posposições e nomes possuíveis são os elementos do Xikrín que recebem morfologia relacional, a única categoria gramatical que, segundo a nossa análise, se manifesta nessa língua por meio de flexão. Por se tratar de morfologia comum às três classes de palavras e por ter importante função na estrutrura morfossintática dos sintagmas nominais, verbais e posposicionais, trataremos dela em seguida, antes de descrevermos com mais detalhes cada classe de palavra e os predicados de que são núcleos.
+2.1 Flexão relacional A categoria gramatical relacional é definida por RODRIGUES (1952, 1953, 1981,
+1994, entre outros) como aquela cuja função é estabelecer relações de dependência e de contigüidade sintática entre elementos relativos e seus respectivos determinantes (ou, em outras palavras, entre núcleos e seus dependentes). Há três prefixos relacionais em Xikrín (CABRAL e COSTA 2002, CABRAL, RODRIGUES e COSTA 2002), aqui referidos como R1, R2 e R3. R1 sinaliza no tema flexionado que este e o seu determinante, o qual se encontra adjacente à esquerda, formam uma unidade sintática. Os alomorfes desse prefixo estão assim distribuídos: j- ocorre diante de temas iniciados por vogais orais, ≠- diante de temas iniciados por vogais nasais, n- diante de alguns temas iniciados por /i/, dZ- diante de temas iniciados por /w/ e de /ø/ e º- diante de temas iniciados por consoantes. O prefixo R26 sinaliza que determinado e determinante não formam uma unidade sintática. Os seus alomorfes são ku- (/ a-) ∞ º-. Há flutuação entre ku- e a- quando esse prefixo flexiona verbos transitivos cujo agente é de segunda pessoa, como será ilustrado mais adiante. Finalmente, o prefixo R3 me-) sinaliza que o determinante é genérico e humano. A distribuição dos alomorfes do prefixo R1 com os temas flexionáveis possibilita a divisão
+6 BORGES (1995), com base no trabalho de RODRIGUES (1992), mostra a distribuição dos alomorfes dos prefixos relacionais em nomes de outra variante da língua Meb) êngôkre, o Kayapó falado no sul do Pará, assim como a divisão de duas classes de nomes de acordo com a sua ocorrência com um dos dois alomorfes do relacional de contigüidade.
+
+desses em duas classes distintas: os que ocorrem com os alomorfes j-, ≠-, n- e dZpertencem à classe I e os que ocorrem com o alomorfe º- pertencem à classe II.
+Uma ilustração da ocorrência de temas flexionáveis com os prefixos relacionais é dada a seguir.
+Os exemplos abaixo ilustram os prefixos relacionais nos nomes da classe I:
+
+CLASSE I
+
+Nomes
+
+Ia-R1
+
+1)
+
+i
+
+1±3
+
+j-ama R1-queixo ‘meu queixo
+
+2) Ikro Ikro
+
+j-ama R1-queixo
+
+‘queixo de Ikro’
+
+Nos exemplos em 1) o nome queixo é marcado pelo relacional R1, pois o determinante forma com o nome uma unidade sintática, no exemplo em 3) pelo R2 , pois o determinante não forma com o nome uma unidade sintática, mas no exemplo em 4), o nome recebe o relacional R3 , pois o seu determinante é genérico e humano.
+
+Ia-R2 3)
+
+º-ama R2-queixo
+‘queixo dele’
+
+Ia-R3 4)
+
+me-) ama R3-queixo
+‘queixo humano’
+
+Os exemplos de 5) a 16) exemplificam a ocorrência desses prefixos com nomes das outras subclasses (b, c, d) da classe I.
+
+Ib-R1 5)
+
+a
+
+≠-õtO
+
+2±3 R1-língua
+
+‘língua de você’
+
+6) Irekri) ≠-õtO Irekri) R1-língua ‘língua de Irekri!’)
+
+Ib-R2 7)
+
+º-õtO R2-língua
+‘língua dele’
+
+Ib-R3 8)
+
+me)-õtO R3-língua
+‘língua humana’
+
+Ic-R1 9)
+
+i
+
+n-ikra
+
+1±3 R1-mão
+
+‘minha mão’
+
+10) kuben) irE
+
+n-ikra
+
+mulher branca R1-mão
+
+‘mão de mulher branca’
+
+Ic-R2 11)
+
+º-ikra R2-mão
+‘mão dele’
+
+Ic-R3 12)
+
+me)-ikra R3-mão
+‘mão humana’
+
+Id-R1 13)
+
+i
+
+dZ-wa
+
+1±3 R1-dente
+
+‘meu dente’
+
+14) Ikro dZ-wa Ikro R1-dente ‘dente de Ikro’
+
+Id-R2 15)
+
+º-wa R2-dente
+‘dente dele’
+
+Ic-R3 16)
+
+me-) wa R3-dente ‘dente humano’
+
+Verbos transitivos No exemplo 17) o verbo transitivo e o seu argumento interno formam uma unidade
+sintática e o verbo é marcado pelo prefixo R1. No exemplo 18) o argumento interno do verbo transitivo não forma com este uma unidade sintática, razão pela qual o verbo é marcado pelo prefixo R2, mas no exemplo 19) o determinante do verbo é genérico e humano, razão pela qual o verbo recebe o prefixo R3.
+
+Ia-R1 17)
+
+ba
+
+ne) ba bø º-køm men) irE j-abje
+
+1±3 Enf Nfut 1±3 mato R1-em mulher R1-procurar
+
+‘eu procurei a mulher no mato’
+
+Ia-R2 18)
+
+ba
+
+ne) ba bø º-køm º-abje
+
+1±3 Enf Nfut 1±3 mato R1-em R2-procurar
+
+‘eu a procurei no mato’
+
+Ia-R3 19)
+
+ba
+
+ne) ba bø º-køm me)-abje
+
+1±3 Enf Nfut 1±3 mato R1-em R3-procurar
+
+‘eu procurei gente no mato’
+
+Os próximos exemplos de 20) a 28) contêm verbos transitivos de outras subclasses da classe I flexionados por prefixos relacionais.
+
+Ib-R1 20) pi/ok j-are)j-dZw´j ne) i
+
+pi/ok ≠-õrõ ket
+
+papel R1-dizer-Nom Nfut 1±3 R1-para papel R1-dar Neg
+
+‘a professora não me deu papel’
+
+Ib-R2 21)
+
+kati pi/ok ne) pi/ok j-are)j-dZw´j i º-mø) º-õrõ ket Neg papel Nfut papel R1-dizer-Nom 1±3 R1-para R2-dar Neg
+‘não foi papel que a professora me deu’
+
+Ib-R3 22) ga
+
+me)-in) i)
+
+2±3 R3-raspar
+
+‘você raspa gente’
+
+Ic-R1 23)
+
+ga 2±3 Enf
+
+ne) ga pi)
+
+n-ikota
+
+Nfut 2±3 árvore R1-derrubar
+
+‘você derrubou a árvore’
+
+Ic-R2 24)
+
+pi)
+
+ne)
+
+árvore Nfut
+
+ga º-ikota 2±3 R2-fazer
+
+‘a árvore, você a derrubou’
+
+Ic-R3 25)
+
+ga
+
+ne) ga me-) ikota
+
+2±3 Enf Nfut 2±3 R3-derrubar
+
+‘você derrubou gente’
+
+Id-R1 26)
+
+ba
+
+Irekri) dZ-un
+
+1±3 Irekri) R1-xingar
+
+‘eu xinguei Irekri’)
+
+Id-R2 27)
+
+ba
+
+ne) ba
+
+1±3 Enf Nfut 1±3
+
+‘eu a xinguei’
+
+º-un R2-xingar
+
+Id-R3 28)
+
+ba
+
+ne) ba me-) un
+
+1±3 Enf Nfut 1±3 R3-xingar
+
+‘eu xinguei gente’
+
+Verbos intransitivos Assim como os nomes e os verbos transitivos, os verbos intransitivos também
+recebem prefixos relacionais que marcam as relações de dependência entre eles e seus determinantes. No exemplo 29) o argumento interno do verbo ser branco é marcado pelo prefixo relacional R1 porque o seu determinante forma com ele uma unidade sintática. Em 30) o determinante desse verbo não forma com ele uma unidade sintática, por isso recebe o prefixo relacional R2.
+
+Ia-R1 29)
+
+ara j-aka asa R1-branco
+‘a asa é branca’
+
+Ia-R2 30)
+
+º-aka R2-branco ‘é branca/branco’
+
+Os exemplos de 31) a 36) mostram temas intransitivos de outras subclasses marcados por prefixos relacionais.
+
+Ib-R1 31)
+
+ba
+
+ne) ba i ≠-õt
+
+kumEj
+
+1±3 Enf Nfut 1±3 1±3 R1-dormir muito
+
+‘eu dormi muito’
+
+Ib-R2 32)
+
+wajaNa ne) º-õt
+
+kumEj
+
+pajé
+
+Nfut R2-dormir muito
+
+‘o pajé dormiu muito’
+
+Ic-R1 33)
+
+kikrE n-ipok aldeia R1-redondo ‘a aldeia é redonda’
+
+Ic-R2 34)
+
+º-ipok R2-redondo ‘ela é redonda’
+
+Id-R1 35)
+
+ba
+
+ne) ba i dZ-økoro
+
+1±3 Enf Nfut 1±3 1±3 R1-respirar
+
+‘eu respiro’
+
+Id-R2 36)
+
+º-økoro R2-respirar
+
+‘ele respira’
+
+Posposições
+
+Até o presente identificamos apenas uma posposição da classe I, a posposição -ibÈ, que pertence a subclasse Ic por se combinar com o alomorfe n- do prefixo R1. Não
+
+identificamos ainda exemplos que ilustrem a ocorrência dessa posposição com o prefixo
+
+relacional R3.
+
+Ic-R1 37) pi)pO n-ibÈ
+
+ne) kruwa nõ
+
+mesa R1-sobre Nfut flecha deitado
+
+‘a flecha está sobre a mesa’
+
+Ic-R2 38)
+
+kaprøn p´dZi jabuti um
+
+ne) º-ibÈ Nfut R2-sobre
+
+nõ deitado
+
+‘há um jabuti sobre ela (pedra)’
+
+CLASSE II Os exemplos abaixo ilustram temas da classe II – nomes, verbos e posposições –
+flexionados pelos prefixos relacionais. Como exposto anteriormente, os temas da classe II recebem o alomorfe º- do relacional R1 e os alomorfes º- ou o alomorfe –ku do relacional R2, embora o alomorfe –ku só se combine com verbos transitivos e com posposições.
+
+Nomes
+
+IIa-R1 39) i
+
+º-kamÈ
+
+1±3 R1-irmão
+
+‘meu irmão’
+
+40) a º-kamÈ 2±3 R1-irmão ‘teu irmão’
+
+41) Ikro º-kamÈ Ikro R1-irmão ‘irmão de Ikro’
+
+IIa-R2 42)
+
+º-kamÈ R2-irmão
+‘irmão dele’
+
+Verbos transitivos
+
+IIa-R1 43) ba
+
+ne) ba rOpkrOri º-mu)
+
+1±3 Enf Nfut 1±3 onça R1-ver
+
+‘eu vi a onça’
+
+IIa-R2 44)
+
+rOpkrOri ne) ba
+
+onça
+
+Nfut 1±3
+
+‘a onça, eu a vi’
+
+º-mu) R2-ver
+
+IIa-R3 45)
+
+ba
+
+ne)
+
+1±3 Enf Nfut
+
+ba me-) mu) 1±3 R3-ver
+
+‘eu vi gente’
+
+Verbos intransitivos IIa-R1 46) ba i º-tÈm
+1±3 1±3 R1-cair
+‘eu caí’
+
+IIa-R2 47)
+
+º-tÈm R2-cair
+‘caiu’
+
+Posposições
+
+IIa-R1 48) ba
+1±3
+
+i ≠-õ
+
+kikrE
+
+1±3 R1-pertence casa
+
+‘eu moro em Belém’
+
+berej) Belém
+
+º-køm R1-em
+
+IIa-R2 49)
+
+TamakwarE Tamakwaré
+
+ne) arÈp º-køm boj Nfut já R2-em chegar
+
+‘Tamakwaré já chegou nela (canoa)’
+
+Verbos transitivos
+
+IIb-R1 50) ga kaprøn
+2±3 jabuti
+
+º-bi) R1-matar
+
+‘você mata jabuti’
+
+IIb-R2 51) kaprøn
+jabuti
+
+ne) Ikro ku-bi) Nfut Ikro R2-matar
+
+‘o jabuti, Ikro o matou’
+
+52) ga ku-bi) 2±3 R2-matar ‘você o mata’
+
+53) ga a-bi) 2±3 R2-matar ‘você o mata’
+
+IIb-R3 54)
+
+ga
+
+ne) ga
+
+2±3 Enf Nfut 2±3
+
+‘você come gente’
+
+me)-kre) R3-comer
+
+Posposições
+
+IIb-R1 55)
+
+gu ba º-be
+
+brazirejro
+
+1+2 R1-essivo brasileiro
+
+‘nós somos brasileiros’
+
+IIb-R2 56) me)nirE
+mulher
+
+ku-be me)-kane-dZw´j R2-essivo R3-tratar.doença-Nom
+
+‘a mulher, ela é doutora’
+
+2.2 Discussão A existência de alomorfes º- tanto do R1 quanto do R2 é fundamentada pelo fato de
+que estão em distribuição complementar com os alomorfes com forma fonológica expressa, como pode ser ilustrado pelo contraste dos exemplos 57 e 59, 58 e 60, 61 e 62, 63 e 64:
+
+57) i
+
+dZ-wa
+
+1±3 R1-dente
+
+‘meu dente’
+
+58) Ikro dZ-wa Ikro R1-dente ‘dente de Ikro’
+
+59) i
+
+º-kamÈ
+
+1±3 R1-irmão
+
+‘meu irmão’
+
+60) Ikro º-kamÈ Ikro R1-irmão ‘irmão de Ikro’
+
+61) men) irE ne) [º-are] mulher Nfut [R2-coar] ‘a mulher a coou’
+
+62) aNrorE ne) ba [ku-bi]) caititu Nfut 1±3 [R2-matar] ‘o caititu, eu o matei’
+
+63) tø)mja ne) ni)
+
+[kikrE º-kurum] te)
+
+esse Nfut longe [casa R1-de] ir/vir
+
+‘esses vieram de casa’
+
+64) [pi)pO n-ibÈ]
+
+ne) kruwa nõ
+
+[mesa R1-sobre] Nfut flecha deitado
+
+‘a flecha está sobre a mesa’
+
+Os elementos que aqui chamamos de prefixos relacionais são interpretados por REIS SILVA e SALANOVA (2000) e SALANOVA (2001) como partes das formas básicas, as quais seriam, segundo esses autores, as formas não-finitas. Nessa análise, a forma básica para a palavra ‘dente’ seria dZwa. Contudo, se consideramos contrastes como os oferecidos pelos exemplos acima, fica bastante claro que os alomorfes dos relacionais com forma expressa contrastam com alomorfes com forma zero.
+
+Há ainda fortes indicações de que os alomorfes º- dos morfemas relacionais do Xikrín resultaram de mudanças fonológicas ocorridas durante a história dessa língua. DAVIS (1966) em seu estudo comparativo da fonologia Jê mostra a correspondência sonora entre Canela h, Sujá s, Xavante h e Kaingang f. A esses sons corresponde º- em Xikrín . O quadro abaixo reúne alguns dos dados utilizados por DAVIS (1966) para ilustrar essas correspondências. Nesse quadro foram adicionados aos dados apresentados em Davis, dados do Xikrín e dados do Parkatêjê (ARAÚJO 1995-1996):
+
+Canela H ku/hon
+hakkha Haaraa Hyy Hi
+
+Parkatêjê Sujá
+
+h
+
+s
+
+kohõ
+
+haka
+
+saaky
+
+hara
+
+saara
+
+h¨
+
+_
+
+-hi
+
+si
+
+Xavante nj , tS, h /uptSõ, //uptSõj -njEErE nj´ hi
+
+Kaingang f --
+
+Xikrín º ku/õ/ kupõ
+
+‘lavar’
+
+_
+
+aká
+
+fe)re)
+
+ará
+
+fÈ
+
+È
+
+_
+
+i
+
+‘branco’ ‘asa’ ‘semente’ ‘osso’
+
+Se comparamos agora o sistema de relacionais ora proposto para o Xikrín com os dados usados por RODRIGUES (2000) para demonstrar a existência de prefixos relacionais em línguas do tronco Macro-Jê, fica ainda mais claro que o alomorfe º- do prefixo relacional R2- do Xikrín resultou de uma mudança fonológica ocorrida durante a história dessa língua. No quadro abaixo, adaptado de RODRIGUES (2000:221), é apresentada uma comparação entre o conjunto de relacionais do Xikrín com os de outras duas línguas Jê, o Panará e o Timbira, de forma a mostrar as correspondências relativas às formas fonológicas dos prefixos relacionais R1 e R2 nas três línguas. Note-se que às classes I e II do Xikrín correspondem respectivamente às classes II e I das outras línguas:
+
+1.Contigüidade 2.Nãocontigüidade
+
+Panará
+
+Timbíra
+
+Classe Classe Classe I Classe
+
+I
+
+II
+
+II
+
+Temas Temas Temas em Temas
+
+em em V
+
+C
+
+em
+
+C
+
+V
+
+º-
+
+j-
+
+º-
+
+j- - ts
+
+i- ~ º- s- i- ~ ku- ~ hº-
+
+Xikrín
+
+Classe II
+
+Classe I
+
+Temas em C
+
+Temas em V
+
+º-
+
+j- ~ ≠- ~ n- ~
+
+dZ-
+
+ku- (~a-) ∞
+
+º-
+
+º-
+
+Prefixos relacionais foram também descritos para outras línguas da família Jê (cf. SANTOS 1997, FERREIRA 2001, DOURADO 2001) assim como para línguas de outras famílias do Tronco Macro-Jê (Rodrigues 2001).
+
+2.3 Nomes e predicados nominais Distinguimos cinco subclasses de nomes em Xikrín: nomes referenciais, pronomes
+pessoais, pronomes demonstrativos, nomes de qualidades e nomes de sensações.
+2.3.1 Nomes referenciais Os nomes referenciais têm a propriedade de funcionar como argumento e também
+de predicar. Os predicados dos quais são núcleo são ou de natureza possessiva ou de natureza existencial. Há duas subclasses de nomes referenciais, a subclasse A e a subclasse B. Os nomes da subclasse A referem elementos de uma classe ou categoria social e os nomes da subclasse B referem entidades independentes.
+
+Classe A
+Exemplos com nomes referenciais da subclasse A em função argumental:
+65) mEOprøna ne) me)-mu) guerreiro Nfut R3-ver ‘o guerreiro viu gente’
+
+66) ba
+
+ne) ba benjadZw´r´ º-ma
+
+1±3 Enf Nfut 1±3 chefe
+
+R1-ouvir
+
+‘eu ouvi o chefe’
+
+67) ba
+
+ne) ba wajøNa º-mu)
+
+1±3 Enf Nfut 1±3 pajé R1-ver
+
+‘eu vi o pajé ’
+
+Os nomes referenciais da subclasse A, quando funcionam como núcleo de predicados, têm o seu determinante marcado pela posposição –be que manifesta o caso ‘essivo’:
+
+68) tø)wa º-be
+
+wajøNa
+
+aquele R1-essivo pajé
+
+‘aquele é pajé’
+
+69) ame) gu ba º-be
+
+benjadZw´r´
+
+dois 1+2 R1-essivo chefe
+
+‘nós dois somos chefes’
+
+Os nomes referenciais da subclasse B que são possuíveis recebem prefixos relacionais; os não-possuíveis não recebem esses prefixos. Exemplos de nomes referenciais da subclasse B possuíveis em função argumental são:
+70) ba i dZ-umrE ne) arÈp katO 1±3 1±3 R1-sogro Nfut já sair ‘meu sogro já saiu’
+
+71)
+
+i ≠-õbikwa ne) º-iNet ket
+
+1±3 R1-amigo Nfut R2-tio Neg
+
+‘meu amigo não tem tio’
+
+72)
+
+i º-kaNrO arÈp ket
+
+1±3 R1-ter calor já Neg
+
+‘meu calor já acabou’
+
+Exemplos de nomes referenciais da subclasse B possuíveis na função de núcleo de predicado são:
+
+73) i
+
+≠-õbikwa
+
+1±3 R1-amigo
+
+‘eu tenho amigo’
+
+74) ba
+
+ne) ba i n-iNet
+
+1±3 Enf Nfut 1±3 1±3 R1-tio
+
+‘eu tenho tio’
+
+75) ba i dZ-umrE 1±3 1±3 R1-sogro ‘eu tenho sogro
+
+76) me) a º-kaNrO Pl 2±3 R1-calor
+‘vocês têm calor/o calor de vocês’
+
+As funções de argumento e de predicado dos nomes referenciais da subclasse B são distinguidas apenas contextualmente, visto que em ambas as funções esses nomes apresentam a mesma estrutura. Exemplos de nomes não-possuíveis da subclasse B em função argumental são:
+
+77) ga
+
+ne) ga kø º-bÈ
+
+2±3 Enf Nfut 2±3 canoa R1-comprar
+
+‘você comprou canoa’
+
+78) tø)wa dZa te)
+
+køpOrE
+
+aquele Fut ir/vir remo
+
+º-bÈ R1-pegar
+
+‘aquele pegará o remo’
+
+79) gu ba ≠-õ
+
+ko
+
+ne) º-uti)
+
+1+2 R1-pertence borduna Nfut R2-pesado
+
+‘nossos pertences bordunas são pesados’
+
+80) gwaj ba
+
+ne) gwaj aNro-rE
+
+º-bi)
+
+1+2 Pauc Enf Nfut 1+2 porco-Dim R1-matar
+
+‘nós matamos filhote de porco (caititu)’
+
+Os nomes não-possuíveis da subclasse B não funcionam como núcleo de predicado, mas como especificadores do núcleo genérico –õ ‘pertence’, como nos exemplos abaixo:
+
+81) i
+
+≠-õ
+
+kø
+
+1±3 R1-pertence canoa
+
+‘meu pertence canoa’
+
+82) kube) ≠-õ
+
+pjokapri)
+
+branco R1-pertence dinheiro
+
+‘o pertence do branco dinheiro’
+
+83) gu ba ≠-õ 1+2 R1-pertence
+
+ko borduna
+
+‘nossos pertences as bordunas’
+
+Os nomes referenciais da subclasse B se combinam com os morfemas derivacionais -ti ‘aumentativo’ e -rE ‘diminutivo’:
+84) aNro-ti porco-Aum ‘porcão’
+85) aNro-rE porco-Dim ‘filhote de porco (caititu)’
+86) kukoj-ti macaco-Aum ‘macacão’
+87) kukoj kra-rE macaco filho-Dim ‘filhote de macaco’
+88) møt-ti arara-Aum ‘arara grande’
+
+89) møt kra-rE arara filho-Dim ‘filhote de arara’
+
+2.3.2 Pronomes pessoais Os pronomes pessoais dividem-se em duas séries que aqui serão referidas como
+séries A e B.
+
+Série A
+
+Série B
+
+1±3
+
+ba
+
+i
+
+1+2
+
+gu
+
+guba
+
+2±3
+
+ga
+
+a
+
+As marcas da série B correspondem a referentes singulares ou duais quando não se combinam com elementos adicionais como as partículas que indicam plural me) e paucal ari (CABRAL, RODRIGUES e COSTA, 2002):
+
+90) ba
+
+ne) ba a º-mu)
+
+1±3 Enf Nfut 1±3 2±3 R1-ver
+
+‘eu vi você’
+
+91) guba º-be
+
+Sikri)
+
+1+2
+
+R1-essivo Xikrín
+
+‘nós somos Xikrín’
+
+Precedidos da partícula paucal ari indicam três ou poucos referentes:
+
+92) i º-jE ari a
+
+dZ-un-º
+
+ket
+
+1±3 R1-por Pauc 2±3 R1-xingar-Nom Neg
+
+‘eu não xinguei vocês’
+
+93) ari i
+
+º-be
+
+tEp j-a≠i-) dZw´j
+
+Pauc 1±3 R1-essivo peixe R1-pegar-Nom
+
+‘nós somos pescadores’
+
+Precedidos da partícula plural me) indicam muitos referentes:
+
+94) me) a dZ-w´-r´
+
+ket
+
+Pl 2±3 R1-tomar banho-Nom Neg
+
+‘vocês não tomam banho’
+
+95) me) i º-te)m ket Pl 1±3 R1-ir/vir Neg ‘nós não fomos’
+Essas formas ocorrem como possuidor, objeto de posposição, objeto direto, sujeito de descritivo, e também como sujeito de verbos intransitivos de orações modificadas por uma expressão adverbial:
+
+Possuidor
+96) a º-kra ne) katO 2±3 R1-filho Nfut sair ‘teu filho nasceu’
+97) gu ba j-ama 1+2 R1-queixo ‘nosso queixo’
+
+98) gu ba º-kuka 1+2 R1-testa ‘nossa testa’
+
+Objeto de posposição
+
+99) ba
+
+ne) ba a º-mø) pidZo O boj
+
+1±3 Enf Nfut 1±3 2±3 R1-para fruta Caus chegar
+
+‘eu trouxe fruta para você’
+
+100) tøw) a me) i º-mø) kaprøn j-anO esse Pl 1±3 R1-para jabuti R1-mandar ‘esse mandou jabuti para nós’
+
+Objeto direto
+
+101) ba
+
+ne) ba a º-kurua
+
+1±3 Enf Nfut 1±3 2±3 R1-bater
+
+‘eu bati em você’
+
+102) men) irE i º-kurua mulher 1±3 R1-bater ‘a mulher me bateu’
+Sujeito de descritivos
+103) gu ba º-mej kumre)j 1+2 R1-bem de fato ‘nós estamos bem de fato’
+
+104) ari a º-kane Pauc 2±3 R1-doença ‘vocês estão doentes’
+
+Sujeito de intransitivos de orações modificadas
+
+105 a dZ-w´-r´
+
+ket
+
+2±3 R1-tomar banho-Nom Neg
+
+‘você não tomou banho’
+
+106) arÈp ba bø º-køm i
+
+º-te-) m
+
+kadZ´
+
+já 1±3 mato R1-em 1±3 R1-ir/vir-Nom para
+
+‘eu já fui para caçar’
+
+107) a ≠-õt
+
+ket rø)/ø)
+
+2±3 R1-dormir Neg ainda
+
+‘você ainda não dormiu’
+
+108) ga a º-tO-rO
+
+ket
+
+2±3 2±3 R1- dançar-Nom Neg
+
+‘você não dançou’
+
+109) ba i º-NrE-rE
+
+kumEj
+
+1±3 1±3 R1-cantar-Nom muito
+
+‘eu canto muito’
+
+Os marcadores da série A ocorrem como sujeitos de verbos transitivos e intransitivos. Podem também ocorrer como pronomes enfáticos, em co-ocorrência com eles mesmos ou com os da série B. As partículas ari ‘paucal’ e me) ‘plural’ são pospostas aos marcadores dessa série para indicar poucos ou muitos elementos, respectivamente.
+
+Marcadores da série A ocorrendo como sujeito de verbos transitivos são:
+
+110) ga
+
+ne) ga kaNø) º-bi)
+
+2±3 Enf Nfut 2±3 cobra R1-matar
+
+‘vocês mataram cobra’
+
+111) ba
+
+ne) ba tEp º-kre)
+
+1±3 Enf Nfut 1±3 peixe R1-comer
+
+‘eu comi peixe’
+
+Marcadores da série A ocorrendo como sujeito de verbos intransitivos são:
+
+112) ba
+
+ne) ba mua
+
+1±3 Enf Nfut 1±3 chorar
+
+‘eu chorei’
+
+113) ga
+
+ne) ga boj
+
+2±3 Enf Nfut 2±3 chegar
+
+‘vocês chegaram’
+
+Usados como ênfase, os pronomes da série A são precedidos pelas partículas ari e me) quando os seus referentes são respectivamente poucos e muitos:
+
+114) ari ga
+
+ne) ga ari kubek) ø º-põ-j
+
+O
+
+dZa
+
+Pauc 2±3 Enf Nfut 2±3 Pauc roupa R1-lavar-Nom Progr em pé
+
+‘vocês estão lavando roupa’
+
+115) ari ba
+
+dZa ba ari bø º-køm ku-bi)
+
+Pauc 1±3 Enf Fut 1±3 Pauc mato R1-no R2-matar
+
+‘nós vamos matá-lo no mato’
+
+116) me) ga
+
+ne) ga me) pi) º-kOkje
+
+Pl 2±3 Enf Nfut 2±3 Pl pau R1-rachar
+
+‘vocês racharam pau’
+
+117) me) ba ne) ba me) bø º-køm mõ Pl 1±3 Nfut 1±3 Pl mato R1-no ir/vir.Pl ‘nós fomos caçar
+
+2.3.3 Demonstrativos O Xikrín possui os pronomes demonstrativos jø) ‘este/esta/isto’, tø)wø ~ tø)mja ~
+wø),‘esse/essa/isso’, ta ‘aquele/aquela/aquilo’, e me)kuni ‘esses todos’. Alguns exemplos contendo demonstrativos são:
+
+118) mep) rirE jø) ne) me) ku-tE tEp j-a≠i) criança esta Nfut Pl R2-por peixe R1-pegar ‘estas são as crianças que pegaram peixe
+119) kikrE jø) ne) ba i º-mø) º-ki) aldeia esta Nfut 1±3 1±3 R1-para R2-gostar ‘esta é a aldeia de que eu gostei’
+
+120) amre)bej
+
+ne) puru jø) º-køm kw´r´ kumEj
+
+antigamente Nfut roça esta R1-no mandioca muito
+
+‘antigamente havia muita mandioca nesta roça’
+
+121) tø)wa ne) bø º-køm te) esse Nfut mato R1-no ir/vir ‘esse foi no mato’
+
+122) ari wø) ne) ari bø º-køm Pauc esses Nfut Pauc mato R1-no ‘esses poucos foram no mato
+
+mõ ir/vir
+
+123) tø)mja ne) ni) kikrE º-kurum te) esses Nfut longe casa R1-de ir/vir ‘esses vieram de casa’
+
+2.3.4 Nomes de qualidades Nomes de qualidades designam atributos como ruim, vermelho, bom/bonito.
+Combinam-se com prefixos relacionais, qualificam outros nomes e podem ser núcleos de predicados possessivos:
+
+124) i º-jE tEp-kamrek
+
+j-anO-rO
+
+ket
+
+1±3 R1-por peixe-vermelho R1-mandar-Nom Neg
+
+‘eu não mandei peixe vermelho’ (Jefferson, 1980, p56)
+
+125) a º-jE
+
+i
+
+º-mø) pi/ok ≠-õ-ro)
+
+2±3 R1-por 1±3 R1-para livro R1-dar-Nom
+
+jø) ne) º-mEj este Nfut R2-bonito
+
+kumrej) de fato
+
+‘o livro que você me deu é de fato bonito’
+
+126) pi)dZorø) j-abat´j
+
+flor
+
+R1-grande
+
+‘a flor é grande’
+
+127) ba i º-NO 1±3 1±3 R1-molhado ‘eu estou molhado’
+
+128) ba
+
+ne) ba i
+
+º-NrÈk
+
+1±3 Enf Nfut 1±3 1±3 R1-zangado
+
+‘eu estou zangado’
+
+129) ga
+
+ne) ga a º-kamrek
+
+2±3 Enf Nfut 2±3 2±3 R1-vermelho
+
+‘você está vermelho’
+
+2.3.5 Nomes de sensações Os nomes de sensações não se combinam com prefixos relacionais e os predicados
+dos quais são núcleos têm um único argumento marcado pela posposição -mø) ‘dativo’.
+130) ba i º-mø) krÈ 1±3 1±3 R1para frio ‘há/existe frio para mim’, ‘tenho frio’
+
+131) ga a º-mø) krÈ 2±3 2±3 R1para frio ‘há/existe frio para você’, ‘você tem frio’
+
+132) ba i º-mø) koro 1±3 1±3 R1-para sede ‘existe sede para mim’, ‘estou com sede’
+
+133) i º-mø) prøm arÈp ket 1±3 R1-para fome já Neg ‘já não existe fome para mim’,‘minha fome já acabou’
+134) ku-mø) prøm arÈp ket R2-para fome já Neg ‘já não existe fome para ele’
+
+2.4 Verbos Os verbos podem ser divididos em duas classes, de acordo com critérios sintáticos.
+Os que possuem um argumento interno objeto e um argumento externo agente são da classe dos verbos transitivos e os que possuem um argumento interno sujeito petencem à classe dos intransitivos. Ambas as classes de verbos se subdividem em duas subclasses. A classe dos transitivos se subdivide na subclasse dos bivalentes e na subclasse dos trivalentes, já a classe dos intransitivos é dividida na subclasse dos monovalentes e na subclasse dos bivalentes. Os transitivos bivalentes têm apenas o argumento interno objeto e o argumento externo agente. Esses são verbos como matar e pegar.
+
+2.4.1 Verbos transitivos bivalentes:
+
+135) me)mÈ rOpkrOri º-bi)
+
+1±3
+
+onça
+
+R1-matar
+
+‘o homem mata onça’
+
+136) PÈkadZwa køj º-bÈ PÈkadZwa facão R1-pegar ‘PÈkadZwa pegou o facão’
+
+137) ba
+
+dZa ba a º-kurua
+
+1±3 Enf Fut 1±3 2±3 R1-bater
+
+‘eu vou bater em você’
+
+138) men) irE ne) pi/È
+
+j-abje
+
+mulher Nfut castanha R1-procurar
+
+‘a mulher procurou castanha’
+
+2.4.2 Verbos transitivos trivalentes Os transitivos trivalentes têm, além do agente e do objeto, um terceiro argumento
+obrigatório, que se manifesta como recipiente, beneficiário, maleficiário ou doador. Exemplos dessa subclasse são verbos como dar, receber e mandar.
+
+139) ba
+
+ne) ba a º-kra º-mø) tEp º-Nø)
+
+1±3 Enf Nfut 1± 3 2±3 R1-filho R1-para peixe R1-dar
+
+‘eu dei um peixe para o teu filho’
+
+140) ba
+
+ne) ba ku-mø) kaprøn j-anO
+
+1±3 Enf Nfut 1±3 R2-para jabuti R1-mandar
+
+‘eu mandei jabuti para ele’
+
+141) Õkraj ne) i
+
+º-mø)
+
+Ko
+
+º-Nø)
+
+Õkraj Nfut 1±3 R1-para borduna R1-dar
+
+‘Õkraj me deu uma borduna’
+
+2.4.3 Verbos intransitivos monovalentes Os intransitivos monovalentes têm apenas o argumento sujeito, como cair, morrer,
+ir, cantar:
+142) gu ba ne) gu NrE 1+2 Enf Nfut 1+2 cantar ‘nós cantamos’
+
+143) gu ba º-NrE-rE
+
+ket
+
+1+2 R1-cantar-Nom Neg
+
+‘nós não cantamos’
+
+144) arÈp ba kikrE º-mø) te) já 1±3 casa R1-para ir/vir ‘eu já vou para casa’
+
+145) men) irE º-kørø mulher R1-assobiar ‘a mulher assobia’
+
+146) ga
+
+ne) ga tO
+
+2±3 Enf Nfut 2±3 dançar
+
+‘você dançou’
+
+147) men) irE ne) Nõrõ mulher Nfut dormir ‘a mulher dormiu’
+
+148) ba
+
+dZa ba mua
+
+1±3 Enf Fut 1±3 chorar
+
+‘eu vou chorar’
+
+2.4.4 Verbos intransitivos bivalentes Os intransitivos bivalentes, como gostar, têm, além desse, um argumento externo
+obrigatório recipiente.
+149) ba i º-mø) me) a º-ki) 1±3 1±3 R1-para Pl 2±3 R1-gostar ‘eu gosto de vocês’
+
+150) ba i º-mø) men) irE º-ki) 1±3 1±3 R1-para mulher R1-gostar ‘eu gosto da mulher’
+
+151) i
+
+º-mø) a
+
+j-abe
+
+1±3 R1-para 1±3 R1-carinhoso
+
+‘você é carinhoso para mim’
+
+152) me)nirE ne) ba i
+
+º-mø) º-abe
+
+mulher Nfut 1±3 1±3 R1-para R2-carinhoso
+
+‘a mulher é carinhosa para mim’
+
+153) ba ne) ba i º-mø) rOp dZ-uma 1±3 Nfut 1±3 1±3 R1-para onça R1-amedrontar ‘a onça me amedronta’
+
+2.4.5 Nominalizações Há três processos morfológicos em Xikrín que derivam nomes a partir de verbos.
+Por meio do nominalizador -m ~ -n ~ -j ~ -rV ~ -º são derivados nomes de ação. A vogal do alomorfe -rV é sempre a cópia da última vogal da raiz e a distribuição dos alomorfes pelos temas verbais é idiossincrática.
+
+m ~ -n ~ -j ~ -rV ~ -º ‘nome de ação’
+
+FORMA VERBAL BÁSICA
+
+FORMA NOMINALIZADA
+
+te)
+
+te)-m
+
+kre)
+
+kre)-n
+
+bi)
+
+bi-) n
+
+kurua
+
+kurua-j
+
+nire
+
+nire-j
+
+mu)
+
+mu)-j
+
+mrø)
+
+mrø)-j
+
+nipo
+
+nipo-j
+
+ku/õ
+
+ku/õ-j
+
+põ
+
+põ-j
+
+anO
+
+anO-rO
+
+Nø)
+
+≠ø)-rø)/≠õ-rõ
+
+nõ
+
+nõ-rõ
+
+katO
+
+katO-rO
+
+bÈ
+
+bÈ-rÈ
+
+≠È)
+
+≠È)-rÈ)
+
+TO
+
+tO-rO
+
+NrE
+
+NrE-rE
+
+re
+
+re-re
+
+ako
+
+ako-ro
+
+≠a
+
+≠a-ra
+
+kaki
+
+kaki-º
+
+boj
+
+boj-º
+
+‘ir/vir’ ‘comer’ ‘matar’ ‘bater’ ‘cortar’ ‘ver’ ‘caminhar’ ‘serrar’ ‘lavar’ ‘lavar’ ‘mandar’ ‘dar’ ‘deitar’ ‘sair’ ‘pegar’ ‘sentar’ ‘dançar’ ‘cantar’ ‘nadar’ ‘soprar’ ‘morder’ ‘provar’ ‘chegar’
+
+øpej
+
+øpej-º
+
+‘trabalhar’
+
+ipej
+
+ipej-º
+
+‘fazer’
+
+Nem todos os nomes de ação são formados a partir da combinação de um tema verbal com esse sufixo. Um exemplo desses verbos é Nõrõ ‘dormir’, cujo nome de ação correspondente é -õt:
+
+154) ba
+
+Nõrõ
+
+1±3 dormir
+
+‘eu durmo’
+
+155)
+
+i ≠-õt
+
+kumEj
+
+1±3 R1-dormir muito
+
+‘eu durmo muito’
+
+Os nomes de ação são a base para a derivação de nomes de circunstância e de nomes de agente. Por meio do sufixo -dZø ‘nominalizador de circunstância’ são formados nomes de lugar e de instrumento.
+
+-dZø ‘nome de circunstância’
+
+me-) ikw´r´-dZø me)-kanE-dZø me)-NrErE-dZø me-) kaben-mari-dZø me-) No-Nrø-dZø me-) akørø-dZø
+
+R3-defecar-Nom R3-tratar.doença-Nom R3-cantar-Nom R3-falar.ourvir-Nom R3-água.secar-Nom R3-cortar em pedaços-Nom
+
+‘privada’ ‘hopital’ ‘igreja’ ‘rádio’ ‘toalha’ ‘tesoura’
+
+Por meio do morfema -dZw´j são formados nomes de agente:
+
+-dZw´j ‘nominalizador de agente’ ipej-dwZ´j kukwørø-dZw´j me-) kanE-dZw´j mrøj) -dZw´j pari-dZw´j pidZ´ ≠-õrõ-dZw´j pi/ok j-arej) -dZw´j abc j-arej) -dZw´j tEp j-a≠i-) dZw´j
+
+fazer-Nom cortar-Nom R3-tratar.doença-Nom caminhar-Nom matar-Nom remédio R1-dar-Nom papel R1-dizer-Nom abc R1-dizer-Nom peixe R1-pegar-Nom
+
+‘feitor’ ‘cortador’ ‘médico’ ‘andarilho’ ‘matador’ ‘enfermeira’ ‘professor(a)’ ‘professor(a)’ ‘pescador’
+
+Alguns exemplos contextualizados de nomes de agente são:
+
+156) ba i º-be
+
+pi/È
+
+º-kukwørø-dZw´j
+
+1±3 1±3 R1-essivo castanha R1-cortar-Nom
+
+‘eu sou cortador de castanha’
+
+157) ga a º-be
+
+abcjare)j-dZw´j
+
+2±3 2±3 R1-essivo professora-Nom
+
+‘você é professora’
+
+158) gwaj ba º-be
+
+tEp
+
+1+2 Pauc R1-essivo peixe
+
+j-a≠i)-dZw´j R1-pegar-Nom
+
+‘nós somos pescadores’
+
+159) ≠´m ne) ku-be
+
+pidZ´ ≠õrõ-dZw´j
+
+quem Nfut R1-essivo remédio R1-dar-Nom
+
+‘quem é o enfermeiro?’
+
+160) ba i º-be
+
+i dZ-øpej-dZw´j
+
+1±3 1±3 R1-essivo 1±3 R1-trabalhar-Nom
+
+‘eu sou trabalhador’
+
+161) ga a º-be
+
+bø º-køm a º-mrø)j-dZw´j
+
+2±3 2±3 R1-essivo mato R1-em 2±3 R1-caminhar-Nom
+
+‘você é caçador’
+
+2.5 Posposições
+As posposições, que constituem uma classe fechada, combinam-se com os prefixos relacionais e exercem a função de núcleo dos sintagmas posposicionais. Algumas posposições do Xikrín são as seguintes:
+
+-mø) -kurum -køm -kot -O -ibÈ
+
+‘para’ ‘de (lugar)’ ‘em’ ‘com’ ‘com’ ‘sobre’
+
+162) ba
+
+dZa ba No º-mø) te)
+
+1±3 Enf Fut 1±3 rio R1-para ir/vir
+
+‘eu irei para o rio’
+
+163) ba
+
+ne) ba ku-mø) Omrõ º-Nø)
+
+1±3 Enf Nfut 1±3 R2-para comida R1-dar
+
+‘eu dei comida para ela’
+
+164) me)nirE ne) ni) kikrE º-kurum te) mulher Nfut longe casa R1-de ir/vir ‘a mulher veio de casa, longe’
+
+165) amre)bej
+
+ne) puru º-køm b´È kumEj
+
+antigamente Nfut roça R1-em milho muito
+
+‘antigamente havia muito millho na roça’
+
+166) amre)bej
+
+ne) bø jø) º-køm møt kumEj
+
+antigamente Nfut mato este R1-em arara muito
+
+‘antigamente havia muita arara neste mato’
+
+167) ga ne) ga i
+
+º-bøm º-kot bø
+
+º-køm te)
+
+2±3 Nfut 2±3 1±3 R1-pai R1-com mato R1-no ir/vir
+
+‘você foi para caçar com meu pai’
+
+168) tø)wa ne) º-bøm º-kot bø º-køm te) esse Nfut R2-pai R1-com mato R1-no ir/vir ‘esse foi caçar com o pai’
+
+169) kukoj dZa ba katoN
+
+º-O
+
+ku-bi)
+
+macaco Fut 1±3 espingarda R1-com R2-matar
+
+‘o macaco, eu o matarei com a espingarda’
+
+170) kaprøn p´dZi ne) ken n-ibÈ
+
+nõ
+
+jabuti um Nfut pedra R1-sobre deitado
+
+‘há um jabuti sobre a pedra’
+
+2.6 Partículas As partículas do Xikrín podem ser distribuídas em subclasses, de acordo com a categoria gramatical que expressam. Há partículas temporais, aspectuais e adverbiais. No quadro abaixo apresentamos algumas partículas distribuídas segundo essas categorias:
+
+TEMPORAIS ASPECTUAIS
+ADVERBIAIS
+
+dZa
+
+‘futuro’
+
+ne)
+
+‘não-futuro’
+
+rø/) ø)
+
+‘ainda’
+
+/´r´
+
+‘iminente’
+
+arÈp
+
+‘já’
+
+ni) ajbiri kunikot ket kati bit
+n´ ajtE
+
+‘longe’ ‘agora’ ‘sempre’ ‘negação’ ‘negação’ ‘só’
+‘sim’ ‘de novo’
+
+171) ba
+
+dZa ba No º-mø)
+
+te)
+
+1±3 Enf Fut 1±3 rio R1-para ir/vir
+
+‘eu irei para o rio’
+
+172) ga
+
+ne) ga kri) º-kurum boj
+
+2±3 Enf Nfut 2±3 serra R1-de chegar
+
+‘você chegou da Serra dos Carajás’
+
+173) i º-jE køpO º-bÈ-rÈ
+
+ket rø/) ø)
+
+1±3 R1-por remo R1-pegar-Nom Neg ainda
+
+‘eu ainda não peguei o remo’
+
+174) ba
+
+dZa ba /´r´ te)
+
+køpO º-bÈ
+
+1±3 Enf fut 1±3 Imin ir/vir remo R1-pegar
+
+‘eu estou para pegar o remo’
+
+175) ga
+
+ne) ga arÈp a-bÈ
+
+2±3 Enf Nfut 2±3 já R2-pegar
+
+‘você já o pegou’
+
+176) men) irE ne) ni)
+
+te)
+
+mulher Nfut longe ir/vir
+
+‘a mulher foi para longe’
+
+177) ba
+
+ne) ba køj º-bÈ
+
+ni)
+
+ku-me)
+
+1±3 Enf Nfut 1±3 facão R1-pegar longe R2-jogar
+
+‘eu peguei o facão e o joguei longe’
+
+178) ajbiri ne) ba Nore) agora Nfut 1±3 remar ‘agora, eu estou remando’
+179) kunikot ne) ba me-) kø≠e sempre Nfut 1±3 R3-beliscar ‘eu belisco gente sempre’
+
+180) ari ba
+
+ne) ba ari kunikot me-) kø≠e
+
+Pauc 1±3 Enf Nfut 1±3 Pauc sempre R3-beliscar
+
+‘nós sempre beliscamos gente’
+
+181) kube)
+
+ku-tE me)-ok
+
+º-ma-ri
+
+ket
+
+branco R2-por R3-pintar R1-saber-Nom Neg
+
+‘o branco não sabe pintar gente’
+
+182) kati pi/ok ne) pi/ok j-are)j-dZw´j i º-mã º-õrõ ket Neg papel Nfut papel R1-dizer-Nom 1±3 R1-para R2-dar Neg ‘não foi papel que a professora deu para mim’
+
+183) - dZøm a º-mø) i º-ki) Int 2±3 R1-para 1±3 R1-gostar
+- n´ i º-mø) a º-ki) Afirm 1±3 R1-para 2±3 R1-gostar
+‘você gosta de mim? Sim eu gosto de você”
+
+184) arÈp ne) ga ajtE º-bøm kikrE º-mø) te) já Nfut 2±3 de novo R2-pai casa R1-para ir/vir ‘você foi para casa do pai de novo’
+
+185) akati jø) º-køm bit dZa ga kube)kø º-põ
+
+dia este R1-em só Fut 2±3 roupa
+
+R1-lavar
+
+‘hoje você só lavará roupa’
+
+CAPÍTULO III
+3. Observações sobre o sistema de alinhamento em Xikrín
+3.1 Padrões básicos de alinhamento em Xikrin O Xikrín possui dois padrões básicos de alinhamento, um nominativo/absolutivo e
+outro com características de (ergativo)/absolutivo. A ordem básica dos complementos em relação aos verbos de orações dependentes e independentes é A/S(O)V e, nas orações com complemento circunstancial, é A/S CC (O) V.
+O argumento interno de um verbo transitivo, seu paciente, é sempre expresso da mesma forma, por meio de um sintagma nominal ou por meio de pronomes da série B. O argumento externo – agente – dos verbos transitivos é expresso da mesma forma que o argumento interno de verbos intransitivos, por meio de um sintagma nominal ou por meio de pronomes da série A. Mas esse padrão só ocorre se o predicado for de natureza verbal. Nos casos em que o predicado é de natureza nominal, tenha este como núcleo um nome ou um verbo nominalizado, o argumento externo dos núcleos derivados de verbos transitivos é codificado por meio da série B, em combinação com a posposição -jE ~ tE ‘por’, e o argumento interno de núcleos derivados de verbos intransitivos é marcado por formas pronominais da série B, sem marca de caso.
+Neste capítulo, mostraremos que a cisão no alinhamento do Xikrín está relacionada ao status gramatical das orações. As orações que têm status gramatical de nome têm predicados nominais e manifestam um padrão ergativo-asbsolutivo; as demais orações, cujos predicados são verbais, manifestam um padrão nominativo-absolutivo. Neste capítulo também descreveremos os contextos em que a língua manifesta os dois tipos de alinhamento e as situações em que cada um dos dois padrões é acionado.
+3.2 O padrão de alinhamento nominativo-absolutivo Nas orações independentes, sem modificadores adverbiais – advérbio, palavra ou
+oração com função adverbial –, o argumento externo dos verbos transitivos, assim como o argumento interno dos verbos intransitivos são codificados por meio da série pronominal A.
+
+Predicados que têm por núcleo um verbo transitivo
+
+186) ga
+
+dZa ga men) irE º-kurua
+
+2±3 Enf fut 2±3 mulher R1-bater
+
+‘vocês bateram nas mulheres’
+
+187) ari ga ne)
+
+ga ari pid) Zo º-kabi
+
+Pauc 2±3 Nfut 2±3 Pauc fruta R1-escolher
+
+‘vocês escolheram as frutas’
+
+188) me) ba
+
+ne) ba me) Nra º-bi)
+
+Pl 1±3 Enf Nfut 1±3 Pl paca R1-matar
+
+‘nós matamos paca’
+
+Predicados que têm por núcleo um verbo intransitivo
+
+189) ba
+
+ne) ba boj
+
+1±3 Enf Nfut 1±3 chegar
+
+‘eu cheguei’
+
+190) ari ga
+
+ne) ga ari kikrE º-mø) te)
+
+Pauc 2±3 Enf Nfut 2±3 Pauc casa R1-para ir/vir
+
+‘vocês foram para a aldeia’
+
+191) me) ba
+
+ne) ba me) Nõrõ
+
+Pl 1±2 Enf Nfut 1±3 Pl dormir
+
+‘nós dormimos’
+
+3.3 O padrão absolutivo Uma mudança no padrão de alinhamento descrito na seção precedente ocorre (a)
+quando o predicado de uma oração independente é modificado por uma expressão modificadora – advérbio, palavra ou outra expressão adverbial; (b) quando se trata de uma oração objetiva direta; ou (c) quando se trata de uma oração relativa.
+
+Orações com predicados modificados por uma expressão modificadora Nos exemplos de 192) a 195) os predicados transitivos são modificados pela
+partícula ket o que aciona o padrão ergativo-absolutivo.
+
+192) a º-jE men) irE º-kurua-j
+
+ket
+
+2±3 R1-por mulher R1-bater-Nom Neg
+
+‘vocês não bateram nas mulheres’
+
+193) i 1±3
+
+º-jE º-ømprE-º
+
+ket
+
+R1-por R2-pendurar-Nom Neg
+
+‘eu não a pendurei’
+
+194) a º-jE
+
+i
+
+º-kakje-re
+
+ket
+
+2±3 R1-por 1±3 R1-beliscar-Nom Neg
+
+‘você não me beliscou’
+
+195) ba
+
+ne) ba i
+
+º-te-) m
+
+ket
+
+1±3 Enf Nfut 1±3 1±3 R1-ir/vir-Nom Neg
+
+‘eu não fui’
+
+Os exemplos 196) e 197) contêm predicados intransitivos também modificados por expressões adverbiais, o que resulta em um padrão de alinhamento absolutivo.
+
+196) me) i ≠-õt
+
+kumEj
+
+Pl 1±3 R1-dormir muito
+
+‘nós dormimos muito’
+
+197) i º-tO-rO
+
+mEj
+
+1±3 R1-dançar-Nom bem
+
+‘eu dancei bem’
+
+Orações objetivas diretas Os exemplos de 198) a 200) ilustram casos de orações objetivas diretas que
+mostram um padrão absolutivo. Note-se que nesses exmplos a oração que funciona como objeto tem um padrão absolutivo.
+
+198) ba
+
+ne) ba i
+
+º-mø)
+
+[a ≠-õt]
+
+prøm
+
+1±3 Enf Nfut 1±3 1±3 R1-para [2±3 R1-dormir] querer
+
+‘eu quero que você durma’
+
+199) i º-bøm ne) ku-tE [i º-jE tEp º-kre-) n]
+
+prøm
+
+1±3 R1-pai Nfut R2-por [1±3 R1-por peixe R1-comer-Nom] querer
+
+‘meu pai quer que eu coma peixe’
+
+200) me)nirE º-kra ne) [ku-tE mE/õ º-kurua-j]
+
+prøm
+
+mulher R1-filho Nfut [R2-por outro R1-bater-Nom] querer
+
+‘o filho da mulher quer bater no outro’
+
+Orações relativas As orações relativas também manifestam um padrão absolutivo como em
+201), 202) e 203):
+
+201) me)bêngôkre jø) ne) [ku-tE i
+
+º-mu-) j]
+
+tEp j-a≠i)
+
+Xikrín
+
+este Nfut [R2-por 1±3 R1-ver-Nom] peixe R1-pegar
+
+‘este Xikrín que me viu pesca’
+
+202) me)bêngôkre jø) ne) [ku-tE i
+
+º-mø)
+
+Xikrín
+
+este Nfut [R2-por 1±3 R1-para
+
+tEp ≠-ø)-rø)]
+
+ne) arÈp boj
+
+peixe R1-dar-Nom] Nfut já chegar
+
+‘este Xikrín que me deu peixe já chegou’
+
+203) ba i º-kamÈ 1±3 1±3 R1-irmão
+
+kruwa º-O flecha R1-com
+
+boj chegar
+
+wø) ne) ga [a
+
+º-jE º-bÈrÈ-º
+
+mø)]
+
+esse Nfut 2±3 [2±3 R1-por R2-comprar-Nom modif]
+
+‘meu irmão trouxe o arco que você quer comprar’
+
+Em todos esses casos, os verbos estão na sua forma nominalizada de ‘nome de ação’ (ver seção 2.4.5 acima) e os seus determinantes são codificados por meio das formas pronominais da série B. No caso dos predicados que têm como núcleo um verbo transitivo nominalizado, o argumento externo destes é marcado por meio da combinação de pronomes da série B com a posposição -jE ~ -tE ‘por’. Note-se que é esta mesma série pronominal que se combina com as demais posposições e também a que marca o possuidor.
+
+3.4 O condicionamento do alinhamento do Xikrín A análise dos dados realizada até o presente mostra o seguinte:
+1) todos os predicados modificados possuem núcleos nominais – nomes ou verbos nominalizados; 2) as orações completivas e relativas têm como núcleo de seus predicados nomes ou verbos nominalizados; 3) as orações com predicados nominais têm status gramatical de nomes.
+Como mostrado na seção 2.4.5, há três morfemas que derivam nomes a partir de verbos em Xikrín. As formas nominais dos verbos obtidas por meio do nominalizador ‘nome de ação’ é a mesma forma que ocorre em predicados modificados e em orações com status gramatical de nomes. Comparem-se os exemplos abaixo:
+
+204) ba
+
+ne) ba katO
+
+1±3 Enf Nfut 1±3 sair
+
+‘eu saí’
+
+205) ba i º-katO-rO
+
+ket
+
+1±3 1±3 R1-saída-Nom Neg
+
+‘eu não saí’
+
+206) ba i
+
+º-katO-rO
+
+1±3 1±3 R1-saída-Nom
+
+‘minha saída’
+
+207) ga
+
+ne) ga tO
+
+2±3 Enf Nfut 2±3 Dançar
+
+‘você dançou’
+
+208) me)nirE jø) ne) ba º-O
+
+tO
+
+mulher esta Nfut 1±3 R2-com dançar
+
+‘eu dancei com esta menina’
+
+209) i
+
+º-tO-rO
+
+1±3 R1-dançar-Nom
+
+‘minha dança’
+
+210) Kopire Kopire
+
+ne) ku-tE Nfut R2-por
+
+[i º-jE køj [1±3 R1-por facão
+
+dZ-wøNrøj] R1-amolar]
+
+‘Kopire quer que eu amole o facão’
+
+prøm querer
+
+Considerando o exposto até o presente, podemos concluir que a cisão observada em Xikrín está relacionada ao status gramatical das orações. Em orações com status de nome, o argumento interno do núcleo de seus predicados, sejam estes últimos transitivos ou intransitivos, é codificado por meio da série pronominal B, e o argumento externo dos predicados transitivos é marcado por meio da combinação de pronomes dessa série com a posposição –jE.~ tE- Por outro lado, nas demais orações, ou seja, as que possuem predicados verbais, tanto o argumento interno dos intransitivos, quanto o argumento externo dos transitivos, são expressos por meio da série A, e o argumento interno dos transitivos pela série B. O fato de que o argumento interno dos verbos transitivos é marcado da mesma forma que o argumento interno de verbos intransitivos nominalizados permite a interpretação de que se trata de um alinhamento absolutivo. Por outro lado, o fato de que o argumento externo de verbos transitivos é marcado da mesma forma que o argumento interno de verbos intransitivos nas orações com predicados verbais constitui indicações de que, nesse caso, trata-se de um alinhamento nominativo. Considerando o exposto acima e
+
+também o fato de que tanto em predicados de natureza verbal, cujo núcleo possui valência 2 ou 3, o argumento interno destes é marcado pela série B, conclui-se que, nesses casos o alinhamento é ergativo-absolutivo. Esse mesmo alinhamento é observado em predicados que têm por núcleo um verbo transitivo nominalizado.
+
+CAPÍTULO IV 4. Conclusão
+Nesta dissertação procuramos descrever as classes de palavras e os tipos de predicados existentes no Xikrín, tendo em vista a identificação dos condicionamentos da cisão observada no alinhamento dessa língua. O nosso estudo mostrou que a cisão observada em Xikrín está relacionada ao status gramatical das orações. Orações com status de nome manifestam um alinhamento ergativo-absolutivo e as demais orações, um alinhamento nominativo-absolutivo. REIS SILVA e SALANOVA (2000:227) sugerem que o Me)bêngôkre possui “um sistema cindido de marcas de caso que envolve tanto flexão verbal quanto pronomes livres e que depende da finitude ou não-finitude da forma verbal que encabeça o predicado.” Embora a presente análise tenha pontos em comum com a análise desses autores, os fatos são interpretados de maneira diferente. Segundo REIS SILVA e SALANOVA (p.238), a estrutura da oração em Mebengokre “...é basicamente nominativa”, sendo “... a finitude do núcleo (e só de maneira secundária a transitividade do predicado) o que determina a aparição de estruturas ergativas.” O que Reis Silva e Salanova consideram como forma não-finita são as que nesta dissertação são consideradas formas verbais nominalizadas. Entretanto, aqueles autores consideram estas formas como insegmentadas, enquanto que na nossa interpretação elas são formas polimorfêmicas, derivadas das formas básicas, que correspondem às formas finitas de Reis Silva e Salanova. Uma forma como janOrO ‘mandar’ seria, de acordo com Reis Silva e Salanova, uma forma não-finita e não segmentável, enquanto na análise aqui apresentada essa forma é uma nominalização segmentável em j-anO-rO, em que -anO é uma raíz, -rO um dos alomorfes do nominalizador de ‘nome de ação’ e j- um dos alomorfes do prefixo relacional de contigüidade.
+SALANOVA (2001:51) interpreta as formas finitas como derivadas das formas nãofinitas, de modo que um exemplo como kaNø seria formado a partir de kaNørø ‘arder’. Esta derivação ocorreria por meio de apócope da consoante final da forma não finita.7 Na nossa análise kaNørø seria derivada de kaNø (forma básica) +rø ‘nominalizador de nome de ação’. Na interpretação de REIS SILVA e SALANOVA (2000: 227) e de REIS SILVA
+7 Esse mesmo autor (p.54) propõe a substituição de seqüências de segmentos iniciais de alguns verbos na passagem da forma não-finita à forma finita, como por exemplo a substituição da seqüência bi de bika≠ere por aj em sua contra-parte finita: ajka≠e ‘rasgar-se’. Seqüências como essas são chamadas de “prefixos temáticos”.
+
+(2001:51 ) os pronomes que aqui chamamos de pronomes dependentes da série B são analisados como prefixos pessoais. SALANOVA (2001:60) considera que “a flexão de pessoa em Meb) êngôkre está em distribuição complementar com nomes abertos”. Isto é, no entanto, uma das indicações que temos de que essas marcas não são manifestações de flexão de pessoa.
+Para REIS SILVA e SALANOVA (2000:232) o que aqui interpretamos como prefixos relacionais de contigüidade é considerado parte dos temas e a sua queda, quando o argumento interno de um verbo é de terceira pessoa seria o meio de marcá-lo. Um dos argumentos usados por REIS SILVA e SALANOVA (2000:232) para justificar a sua análise é o da economia, pois sua análise não requer a divisão de temas em classes. No entanto, memorizar os verbos que perdem segmentos iniciais parece tão ou mais custoso do que memorizar um pequeno inventário de alomorfes de um prefixo. Além disso, a afirmação de que se dá a queda daqueles elementos iniciais dos verbos quando o argumento interno destes é de terceira pessoa não corresponde à realidade, pois em orações como Ikro dZ-øpej ket ‘Ikro não trabalha’, o segmento dZ está presente mesmo sendo de terceira pessoa o argumento do verbo.
+A distinção que aqui fizemos entre orações com predicados propriamente verbais e orações com predicados nominais ou nominalizados permite distinguir claramente as duas vertentes da cisão de alinhamento dos argumentos nesta língua. Diferentemente das orações com predicados propriamente verbais, cujo alinhamento é nominativo-absolutivo, as orações com predicados nominais ou nominalizados têm um alinhamento ergativoabsolutivo. Isso responde, certamente a uma das indagações de REIS SILVA (2001:71) na conclusão de seu estudo: “... nos perguntamos se toda subordinação em Meb) êngôkre requer de fato uma nominalização”.
+A análise aqui apresentada deixa algumas questões em aberto, entre elas: (a) quais as implicações do tratamento dado à posposição -jE ~ -tE, (b) seria essa marca realmente uma marca ergativa?, (c) quais os problemas, se algum, da análise que trata essa posposição como uma marca ergativa se os predicados dos quais é argumento é de natureza nominal? Essas e outras questões devem ser discutidas em trabalhos futuros.
+
+Com esse estudo esperamos contribuir para a discussão sobre a cisão verificada no alinhamento do Me)bêngôkre, especificamente na variante dessa língua falada pelos Xikrín do Cateté, no Estado do Pará.
+
+Referências bibliográficas
+ARAÚJO, Leopoldina. Retenções lexicais no dialeto Parkatêjê. In: Moara, Rev. dos Cursos de Pós-Graduação em Letras, no 4:151-190. Belém, Universidade Federal do Pará, 1996.
+BORGES, Marília. Aspectos da morfossintaxe do sintagma nominal na língua Kayapó. Dissertação de mestrado, Universidade de Brasília. Brasília, 1995.
+BORGES, Marília. Aspectos morfossintáticos das relações genitivas na língua Kayapó. In: Moara, Rev. dos Cursos de Pós-Graduação em Letras, no 4:77-82. Belém, Universidade Federal do Pará, 1996.
+CABRAL, A. S. A. C. Prefixos Relacionais na família Tupí-Guaraní. In: M.E. (org). Boletim da ABRALIN. Fortaleza: Imprensa Universitária/UFC, 2001, no 25, pp. 213-226.
+CABRAL, A. S. A. C., A. D. Rodrigues & L. S. Costa. Notas sobre ergatividade em Xikrín, comunicação apresentada durante o II Encontro Macro-Jê, Campinas, 2002.
+CABRAL, A. S. A. C., A. D. Rodrigues & L. S. Costa. Xikrin e línguas Tupí-Guaraní: Marcas Relacionais. comunicação apresentada durante o II Encontro Macro-Jê, Campinas, 2002.
+COSTA, L. S. Prefixos relacionais no Xikrín. In: A. S. A. C. Cabral & A. D. Rodrigues (orgs.), Línguas indígenas brasileiras: fonologia, gramática e história, Atas do I Encontro Internacional do Grupo de Trabalho sobre Línguas Indígenas da ANPOLL, t. I, pp. 81-85. Belém: EDUFPA, 2002.
+COMRIE, B. Ergativity. In: W. P. Lehman (org), Syntactic typology: studies in the phenomenology of language, pp. 329-394. Austin: University of Texas Press, 1978.
+
+DAVIS, I. Comparative Jê phonology. In: Estudos Lingüísticos, Revista Brasileira de Lingüística Teórica e Aplicada, vol. 1, no 2, pp. 10-24. São Paulo: Centro de Lingüística Aplicada, 1966.
+DIXON, R. M. S. Ergativity. Language. 1(55), 59-138, 1979.
+DIXON, R. M. S. Ergativity. Cambridge: Cambridge University Press, 1994.
+DOURADO, L. G. Aspectos morfossintáticos da língua Panará (Jê). Tese de doutorado, Universidade Estadual de Campinas, 2001.
+DOURADO, L. G. A expressão de posse em Panará. In: A. S. A. C. Cabral & A. D. Rodrigues (orgs.), Línguas indígenas brasileiras: fonologia, gramática e história: Atas do I Encontro Internacional do Grupo de Trabalho sobre Línguas Indígenas da ANPOLL, t. I, pp. 98-103. Belém: EDUFPA, 2002.
+EHRENREICH, Paul. Die Spache der Cayapó (Goyaz), Zeitschrift für Ethnologie XXVI, pp. 115-137. Berlim, 1894.
+GIANNINI, Isabelle. Xikrín. In: www.socioambiental.org/website/epi/xikrin/xikrin.htm, pp. 1-18, 2001.
+JEFFERSON, Kathleen. Gramática Pedagógica Kayapó (3 Vols.). Brasília, Summer Institute of Linguistics, 1980.
+KEENAN, Edward L. Relative clauses. In: T. Shopen (org.), Language typology and syntactic description, vol. 2, pp. 141-170.
+MENSE, Hugo. Kajapoisch. Lose Blätter vom Cururú. In: Santo Antonio, Provinzzeitschrift der Franziskaner in Nordbrasilien. 12. Jahrgang, no 2, pp. 97-99. Bahia, 1934.
+
+NIMUENDAJÚ, Curt. Idiomas indígenas del Brasil. Die Kayapó des mittleren Xingú. In: Revista del Instituto de Etnología tomo II, pp. 552-567. Universidad Nacional de Tucumán, 1932.
+POPJES, Jack. & Jo Popjes. Canela-Krahô. In: Derbyshire, D. & G. Pullum (orgs.). Handbook of Amazonian Languages, vol. 1, pp. 129-199. Berlim: Mouton de Gruyter, 1986.
+REIS SILVA, Maria Amélia. Pronomes, Ordem e Ergatividade em Mebengokre (Kayapó). Dissertação de Mestrado UNICAMP, 2001.
+REIS SILVA, M. A. & A. P. Salanova. Verbo y ergatividad escindida en Meb) êngôkre. In: H. van der Voort & S. van der Kerke (orgs.), Indigenous languages of lowland South America, p. 225-242. Leiden, 2000.
+RICARDO, Carlos Alberto (org.). Povos Indígenas no Brasil, 1996-2000. São Paulo: Instituto Socioambiental, 2000.
+RODRIGUES, A. D. Análise morfológica de um texto Tupí. Logos, ano VII, no 15, pp. 5677, Curitiba, 1952.
+RODRIGUES, A. D. Morfologia do verbo tupí. Letras, no 1, pp. 121-152. Curitiba, 1953.
+RODRIGUES, A. D. Estrutura do Tupinambá, 1981, ms.
+RODRIGUES, A. D. Evidence for Tupí-Karíb Relationships. In: Klein, H. E. M. & L. R. Stark (orgs.), South American Indian languages: retrospect and prospect, pp. 371-404. Austin: University of Texas Press, 1985.
+RODRIGUES, A. D. Línguas brasileiras: para o conhecimento das línguas indígenas. São Paulo: Loyola, 1986.
+
+RODRIGUES, A. D. Grammatical affinities among Tupí, Karíb, and Macro-Jê, 1992, ms.
+RODRIGUES, A. D. Macro-Jê. In: Dixon, R. M. W., e Aikhenvald, A. Y. (orgs), The Amazonian languages, p. 162-206. Cambridge: Cambridge University Press, 1999.
+RODRIGUES, A. D. Flexão relacional no tronco lingüístico Macro-Jê, In: Boletim da ABRALIN, nº 25, pp. 219-231, Fortaleza : Imprensa Universitária, 2001.
+SALA, Antônio Maria. Ensaio de Grammatica Kaiapó, In: Revista do Museu Paulista XII, primeira parte, pp. 393-429. São Paulo, 1920.
+SALANOVA, Andrés Pablo. A nasalidade em Mebengokre e Apinayé: o limite do vozeamento soante. Dissertação de mestrado, Universidade Estadual de Campinas, 2001.
+SANTOS, L. C. Descrição de aspectos morfossintáticos da língua Suyá (Kis) êdjê), família Jê. Tese de doutorado, Universidade Federal de Santa Catarina, 1997.
+STOUT, Mickey & Ruth Thomson. Modalidade em Kayapó. In: Série Lingüística, no 3, pp. 69-98. Brasília, Summer Institute of Linguistics, 1974.
+STOUT, Mickey & Ruth Thomson. Fonêmica Txukuhame)i (Kayapó). In: Série Lingüística, no 3, pp. 153-176. Brasília, Summer Institute of Linguistics, 1974.
+THOMSON, Ruth & Mickey Stout. Elementos proposicionais em orações Kayapó. In: Série Lingüística, no 3, pp. 35-68. Brasília, Summer Institute of Linguistics, 1974.
+VIDAL, Lux Boelitz. Morte e vida de uma sociedade indígena brasileira: os KayapóXikrín do rio Cateté. São Paulo, HUCITEC, Ed. da Universidade de São Paulo, 1977.
+
+

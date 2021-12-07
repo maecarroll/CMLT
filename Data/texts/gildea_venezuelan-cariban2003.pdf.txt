@@ -1,0 +1,968 @@
+AMERINDIA  n°28,  2003  
+Proposing  a  New  Branch  for  the  Cariban  Language  Family  
+Spike  GILDEA  
+University  of  Oregon  
+Introduction*   This  paper  looks  at  some  outstanding  problems  in  the  classification  
+of   the   Cariban   language   family   and   proposes   a   new   hypothesis   for   grouping  a  number  of  the  languages  of  eastern  Venezuela  and  the  Western   Guiana   Plateau.   The   Cariban   languages   of   Venezuela   and   Guyana,   in   SDUWLFXODU3DQDUHDQG7DPDQDNXKDYHEHHQWUHDWHGTXLWHGLIIHUHQWO\LQWKH three   most   recent   classifications,   Girard   (1971),   Durbin   (1977),   and   Kaufman   (1994).   The   lack   of   agreement   amongst   Girard,   Durbin   and   Kaufman   is   not   surprising,   given   the   lack   of   reliable   lexical   and   phonological   data   for   many   of   the   languages   in   question.   Recent   work   by   Mattei-­Muller   (1990,   1994)   has   cast   new   light   on   both   Panare   and   7DPDQDNXZLWKDQHPSKDVLVRQOH[LFRQEXWDOVRZLWKLQVLJKWIXODQDO\VHV RI SKRQRORJ\ 2QJRLQJ ZRUN E\ 0HLUD DQG *LOGHD RQ 7DPDQDNX grammar  and  by  Fox  and  Gildea  on  Akawaio  phonology  and  grammar  has   revealed   parallels   among   these   languages   that   were   not   visible   before.  
+                                                                              
+*  I   would   like   to   acknowledge   the   support   of   the   National   Science   Foundation,   grants   DBS -­9210130   and   BCS-­0117619.   For   furnishing   unpublished   data   from   his   research   on   Pemón,   I   thank   José   Álvarez.   For   useful   comments   on   prior   versions   of   this   work,   thank   you   to   Sérgio   Meira,   Marie-­ Claude  Mattéi-­Muller  and  Desrey  Caesar.  All  mistakes  and  misinterpretations  of  other  people's  data   and  comments  are  my  fault,  not  their.    
+
+2  
+
+AMERINDIA  n°28,  2003  
+
+Against   the   backdrop   of   my   (Gildea   1998)   reconstruction   of   Proto-­Carib   inflectional   and   derivational   morphology,   plus   some   syntactic   patterns,   many  of  the  grammatical  parallels  can  be  seen  to  be  innovations.  
+These   innovative   parallels   have   given   rise   to   two   hypotheses:   a   FORVHU FRQQHFWLRQ EHWZHHQ 7DPDQDNX 3DQDUH DQG WKH 3HPyQJ *URXS (Pemóng,   Kapóng   and   Makushi)   and   a   weaker   connection   between   this   FRUH JURXS DQG 0DSR\R <DEDUDQD &KD\PD &XPDQDJRWR,   and   'H¶NZDQD 7KH HYLGHQFH IRUWKHODUJHU JURXSLVWHQWDWLYHFRQVLVWLQJRI D single   unconditioned   phonological   split   and   a   single   morphological   innovation.   Evidence   for   the   core   group   is   much   stronger,   with   7DPDQDNX3DQDUHDQGWKH3HPyQJ*URXSVKDULQJ  one  lexical  innovation   and   four   grammatical   innovations,   and   Panare   and   the   Pemóng   Group   additionally  sharing  two  phonological  innovations,  one  lexical  innovation,   and  three  grammatical  innovations.  
+It  is  important  to  state  clearly  that  these  are  only  hypotheses;;  much   hard   work   remains   ahead,   collecting   sufficient   (and   sufficiently   high   quality)   lexical   data   to   enable   the   use   of   the   more   reliable   traditional   comparative   method   to   test   these   hypotheses.   In   particular,   this   proposal   does   not   come   even   close   WR WKH VWDQGDUG HVWDEOLVKHG LQ 0HLUD¶V  classification   and   reconstruction   of   the   Taranoan   Group   of   the   Cariban   family.   Nonetheless,   I   put   these   hypotheses   forward   because   they   arise   from  interesting  new  data,  which  need  to  be  in  the  public  domain  so   that   future  classifications  will  also  be  required  to  account  for  them.  
+The   paper   proceeds   as   follows:   Section   1   reviews   the   lack   of   agreement   between   the   existing   classifications   of   the   Cariban   family,   HVSHFLDOO\ ZLWK UHJDUGV WR WKH SODFH RI 3DQDUH 7DPDQaku   and   the   languages  of  the  Pemóng  Group.  The  next  three  sections  consider  the  data   for   each   hypothesis   mentioned   above,   beginning   with   the   widest   (and   weakest)   grouping   (section   2),   continuing   to   the   more   solid   grouping   of   3DQDUH 7DPDQDNX DQG WKH 3HPyQg   Group   (Section   3),   then   narrowing   down   to   the   grouping   of   Panare   with   the   Pemóng   Group   (Section   4).   The   brief  conclusion  (section  5)  suggests  in  a  bit  more  detail  the  next  steps  that   are  required  to  test  these  comparative  hypotheses.    
+1.  Previous  classifications  of  the  Cariban  family  
+Early   classifications   of   the   Cariban   family   were   made   on   the   basis   of  very  little  data,  and  often  included  language  names  for  which  there  were   no   data   at   all   (cf.   Girard   1971   for   a   scathing   review   of   every   previous  
+
+GILDEA  Sp.:  Proposing  a  New  Branch  for  the  Cariban  Language  Family  
+
+3  
+
+classification  except  for  de  Goeje  1906/1946,  which  he  merely  rakes  over   the   coals).   Even   the   best   of   the   later   classifications   have   faced   insurmountable  problems  with  the  quality  of  the  data  available  for  most  of   the  languages.  There  is  consensus  among  modern  Cariban  scholars  that  the   FXUUHQWFODVVLILFDWLRQVDUH³DOOIODZHGWRDJUHDWHURUOHVVHUGHJUHHE\ODFN RI DGHTXDWH GDWD´ 'HUE\VKLUH   25).   Girard   (1971)   remains   the   only   modern   family-­wide   comparative   work   with   published   data   to   support   reconstructions   and   classification.   The   same   weakness   that   plagued   his   ZRUN UHPDLQV D SUREOHP ³$OO WKH HDUO\ &DULE PDWHULDO UHJDUGOHVV RI WKH native   language   of   the   researcher,   is   deficient   in   approximately   the   same   SKRQHWLF DUHDV´ *LUDUG   45),   specifically:   (i)   aQ ³LQDELOLW\´ WR distinguish  the  central  vowels  [Ø]  and  [],  usually  indicating  them  as  e,  ue,   i,  and  u;;  (ii)  failing  to  transcribe  the  glottal  stop  and  aspiration  in  clusters;;   and   (iii)   failing   to   distinguish   amongst   various   fricatives   and   affricates,   partially  exacerbated  by  the  fact  that  the  European  orthographies  relied  on   by   the   early   works   differ   so   widely   in   the   spelling   conventions   for   particular   sounds,   particularly   [Ø]   and   [6].   I   add   (Gildea   1998a:  10)   that   most  sources  have  been  unable  to  reliably  indicate  stress.  All  of  these  flaws   are  found  in  most  wordlists  for  most  Cariban  languages,  although  one  can   never   be   sure   until   a   phonetically   reliable   source   is   identified   to   compare   with  other  materials  on  the  same  language.      
+The   languages   in   focus   here   provide   examples   of   confusion   IROORZLQJIURPSRRUGDWDLQSDUWLFXODU$NDZDLR7DPDQDNXDQG3DQDUH  
+*LUDUGWHQWDWLYHO\SODFHVµ$NRZR\R¶ZLWKWKHJHRJUDSKLFDOO\ QHDUE\&DULE*URXS.DUL¶QD&DULESURSHU*DOLELKHSODFHV7DPDQDNX into   his   Cumaná   group,   with   geographically   nearby   extinct   languages   &KD\PD DQG &XPDQDJRWR KH SODFHV 3DQDUH LQWR DQ XQFODVVLILDEOH residue  in  his  Group  15,  questioning  whether  it  should  even  be  considered   Cariban.  Girard  is  unwilling  to  seriously  consider  relationships  among  his   groups,   and   as   such   he   does   not   form   additional   branches   between   his   Groups  and  Proto-­Carib  (cf.  Figure  1).    
+)LJXUH*LUDUG¶V&ODVVLILFDWLRQRIWKH&DULEDQ)DPLO\  
+1.  Cumaná:   &KD\PD &XPDQiJRWR 3DOHQTXH 3tULWX $YDULFRWR 7DPanaco?,   Mapoyo?  
+2.  Makiritare:   0DLRQJJDQJ<HNZDQD'HNZDQD0DNLULWDUH:D\XPXUi7DPDQDFR"   3.  Pemon:   Arekuná,  Ingarikó,  Kamarakoto,  Taulipang,  Makuchi,  Mapoyo?   4.  Wayana:   Wayana,  Upurui,  Arakwayú,  Tiverikoto,  Yao   5.  Wayway:   Wayway,  Hishkaryana,  Kachuyana,  Parukoto   6.  Carib:   Carib,  Galibi,  Kaliña,  Akawoyo?  
+
+4  
+
+AMERINDIA  n°28,  2003  
+
+7.  Tiriyó:   Tiriyó,   Kumayena,   Pauxi,   Pianakoto,   Saluma,   Tiriometesem,   Urukuena,  Wama,  Carijona,  Guake,  Hianákoto-­Umawa  
+8.  Yawarana:   Yawarana,  Mapoyo   9.  Aparai:   Aparai   10.  Paushiana:  Paushiana,  Paravilhana,  Sapará   11.  Bonari:   Bonari,  Crishaná,  Ipurukoto,  Porokoto,  Purukoto,  Yawaperi   12.  Arara:   Apiaká,  Arara,  Parirí,  Yarumá   13.  Bakairí:   Bakairí,  Kwikurú,  Nahukwa,  Yamarikuma   14.  Motilon:   Motilon,  Yukpa,  Japreria,  etc.  
+15.  Miscellaneous:  Opon-­&DUDUH3DQDUH3DOPHOOD3LPHQWHLUD  
+
+Durbin  (1977)  places  all  three  in  different  branches  of  his  Northern-­ Carib.  Akawaio  is  placed  into  a  tentative  subgroup  (with  Makushi,  Pemón   and   Purucotó)   within   his   giant   (and   relatively   unsubdivided)   East-­West-­ *XLDQD&DULEEUDQFKTamanaku  into  the  Venezuela  Group  of  the  Coastal   Branch,   and   Panare   with   with   Mapoyo   and   Yabarana   in   his   Western   Guiana  branch  (cf.  Figure  2).    
+
+)LJXUH'XUELQ¶V&ODVVLILFDWLRQRIWKH&DULEDQ)DPLO\  
+
+Northern  Cariban  
+
+   Coastal         Venezuelan:   7DPDQDFR&KD\PD&XPDQDJRWR<DR         Perijá:     <XNSD-DSUHUtD<XNR         2SRQH-­Carare  
+
+   Western  Guiana         0DSR\R<DEDUDQD3DQDUH4XDFD3DUHFD  
+
+   Galibi         Carib,  Cariña  
+
+   East-­West  Guiana  
+
+      Wayana-­$SDUDL5RXFRX\HQH$UDFDMX7ULR-­Rangu  
+
+      Wama  (Akurio),  Urukuyana,  Trimetesem,  Kumayena  
+
+      3LDQDNRWR6DOXPD3DX[L&DFKXHQD&KLNHQD:DLZDL  
+
+  
+
+3DUDYLOKDQD :DEXL 6DSDUD <DXDSHU\ :DLPLUL &ULFKDQD 3DX[LDQD
+
+%RQDUL  
+
+      Makusi,   Purucoto,   Pemong   (Taulipang),   Patamona,   Akawaio,  
+
+$ULQDJRWR  
+
+   Northern  Brazilian         3DOPHOOD3LPHQWHLUD"         <DUXPD7[LFmR         3DULUL$SLDND$UDUD<XPD  
+
+GILDEA  Sp.:  Proposing  a  New  Branch  for  the  Cariban  Language  Family  
+
+5  
+
+Southern  Cariban  
+   Southeastern  Colombian         +LDQDFRWR-­Umawa         *XDNH         Carijona  
+   Xingu  Basin         Bakairi         1DKXNZD  
+   Southern  Guiana         <H¶NZDQD:D\XPDUD-­Azumara,  Parukoto,  Hixkaryana,  Warikyana  
+
+On  the  micro-­OHYHO0LJOLD]]DFROODSVHVVRPH³ODQJXDJH´ names  in  the  literature  into  three  languages:  Pemón  (with  dialects  Arekuna,   Kamarakoto  and  Taurepang),  Kapón  (with  dialects  Akawaio,  Ingarikó,  and   Patamona   ±  known   in   Guyana   as   Patamuna)   and   Makushi.   Kaufman   EXLOGVPDLQO\RQ0LJOLD]]D¶VDQG*LUDUG¶VFRQFOXVLRQVFRPELQLQJ Kapóng,   Pemóng   and   Makushi   into   the   Pemóng   Proper   Subgroup   of   his   Pemóng  Group,  which  he  tentatively  links  to  the  Jawapery  and  Paravilhana   Groups   in   his   North   $PD]RQLDQ %UDQFK +H SODFHV 7DPDQDNX LQWR WKH Mapoyo-­Yabarana  Group,  and,  influenced  by  Girard,  he  places  Panare  into   a  group  of  one,  isolated  at  the  periphery  of  the  family  (cf.  Figure  3).  
+
+Figure  3.    Classification  of  the  Kariban  Family  (Kaufman  1989)  
+
+      A.  Opon         %<XNSD*URXS<XNSD-DSUHULD.R\DPD         C.  Karib  
+
+   Guiana  Branch  (D-­E-­F)  
+
+      D.  Tiriyo  Group  
+
+     
+
+D1.  Tiriyo  Subgroup:   Akuriyo,  Tiriyo  
+
+     
+
+D2.  Karihona  Subgroup:   Hianakoto,  Karihona  
+
+  
+
+D3.  Saluma  
+
+      E.  Kashuyana  Group:     Kashuyana,  Warikyana,  Shikuyana  
+
+      F.  Waiwai  Group:     Waiwai,  Hixkaryana  
+
+   North  Amazonian  Branch  (G-­H-­I)  
+
+      *-DZDSHUL*URXS%RQDUL-DZDSHUL  
+
+      H.  Paravilyana  Group  
+
+  
+
+H1.  Sapara  
+
+  
+
+H2.  Paravilyana  Subgroup:  Pawishiana,  Paravilyana  
+
+6  
+
+AMERINDIA  n°28,  2003  
+
+      I.  Pemóng  Group  
+
+I1.   Pemóng   Proper   Subgroup:   Makushi,   Pemóng   (Taurepang,  
+
+Kamarakóto,   (J)arekuna),   Kapóng   (Akawayo,   Patamona,  
+
+Ingarikó).  
+
+  
+
+I2.  Purukotó  
+
+   Central  Branch  (J-­K-­L-­M-­N-­O)         -.XPDQi         .<DR*URXS7LYHULNRWR<DR         /:D\DQD*URXS:D\DQD$UDNXDM~         M.  Apalaí         10DSR\R*URXS0DSR\R7DPDQDNX<Dvarana         O.  Makiritare  
+
+   Southern  Branch  (P-­Q)         P.  Bakarí  Group:  Bakairí,  Amonap,  Matipú  (Kuikúro,  Kalapalo)         Q.  Arara  Group:  Arara-­3LULUt$SLDNi-­$SLQJL-XPD<DUXPi&KLNmR         53DOPHOOD         63LPHQWHLUD         T.  Panare  
+
+If  the  linguistic  relationships  proposed  in  the  following  sections  are   eventually   sustained,   one   would   like   to   explain   why   previous   classifiers   did  not  see  them.  Were  the  three  to  show  some  modicum  of  agreement  on   an   alternative   proposal,   my   task   would   be   more   difficult,   but   since   their   results   are   so   different   already,   any   new   proposal   would   perforce   differ   with  at  least  two  of  them.  The  two  answers  I  offer  at  this  point  are  (i)  poor   phonological   and   lexical   data,   and   (ii)   the   absence   of   comparative   grammatical   data.   I   have   discussed   elsewhere   (Gildea   1998a.:  8-­10)   the   HUURQHRXV GDWD WKDW OHG WR *LUDUG¶V DQG .DXIPDQ¶V PLVWDNHQ LVRODWLRQ RI Panare   from   the   mainstream   of   Cariban.      Suffice   it   to   say   here   that   the   wealth   of   new   Panare   data   ±  phonological,   lexical,   and   grammatical  ±   made  available  in  the  1980s  and  1990s  force  us  to  consider  Panare  a  more   typical   member   of   the   family,   and   to   thus   seek   out   the   closer   affinities   it   PLJKWSUHVHQWZLWKRWKHUODQJXDJHV:RUNRQ7DPDQDNXE\0DWWpL-­Muller   and   Henley   (1990)   and   by   Meira   and   Gildea   (in   progress)   has   allowed   more   extensive   consideration   of   Tamanaku   phonology   and   grammar   in   comparison   to   the   rest   of   the   family.   As   for   Akawaio,   in   recent   intensive   collaborative   work   with   native   speaker   linguist   Desrey   Fox,   I   have   encountered   new   and   reliable   phonological,   lexical   and   grammatical   information   that   was   simply   not   available   to   even   the   most   recent   FODVVLILHUV)R[¶VDQGP\ZRUNLQSURJUHVVFRQILUPV0LJOLD]]D¶V'XUELQ¶V DQG .DXIPDQ¶V GHFLVLRQ WR SXW $NDZDLR .DSyQJ LQWR D JURXS ZLWK
+
+GILDEA  Sp.:  Proposing  a  New  Branch  for  the  Cariban  Language  Family  
+
+7  
+
+Pemóng  and   Makushi,   and  provides  much  of  the  impetus  to  seek  out  the   forms  compared  in  the  sections  below.      
+2.  The  Venezuelan  Branch  
+The  Venezuelan  Branch  is  composed  of  the  core  group,  containing   7DPDQDNX 3DQDUH DQG WKH 3HPyQJ *URXS SOXV D QXPEHU RI RXWOLHUV DH¶NZDQD0DSR\R<DEDUDQD&KD\PDDQG&XPDQDJRWD$WWKLVWLPH , VHH QR EDVLV IRU PDNLQJ IXUWKHU VXEJURXSLQJV DPRQJ WKHVH µRXWOLHUV¶ although   given   relevant   data,   we   might   find   that   some   of   these   languages   VKDUHDOVRLQVRPHRIWKH³FRUHJURXS´LQQRYDtions  described  in  sections  3   and   4.1   Membership   in   the   Venezuelan   Branch   is   based   on   two   shared   innovations,  one  in  phonology  and  the  other  in  inflectional  morphology.  
+2.1  Unconditioned  split:  *o  >  o,    
+$FFHSWLQJ*LUDUG¶VDUJXPHQWVWKDW3URWR-­Carib  had  no  ,   every   modern   Cariban   language   that   presents   one   potentially   shared   in   a   single  innovation,  *o  >  .  Across  the  Cariban  family,  the  list  of  languages   that   share      in   the   vowel   inventory   is   relatively   limited:   Panare,   the   3HPyQJ*URXS'H¶NZDQD  Mapoyo,  Yabarana,  Taranoan  and  Wayana  are   FOHDU FDVHV ,Q WKH FDVHV RI 7DPDQDNX &KD\PD DQG &XPDQDJRWR correspondences  of  *o  ~  e,  ue,  a,  etc.  probably  represent  cases  of  *o  >  ,  in   which   the      was   simply   mistranscribed   as   a   front   vowel,   a   low   central   vowel  or  a  diphthong.    Finally,  correspondences  of  *o  ~  Øin  Makushi  and   Kapón   represent   an   additional   innovation   (apparently   complete   in   Makushi,  just  underway  in  Akawaio)  in  which  the  *o  >    >  Ø.    
+This   innovation   is   not   uncontroversial   in   that   it   hypothesizes   an   unconditioned  split  within  the  vowel  *o.  A  counter-­hypothesis  would  be  to   reconstruct   *   to   Proto-­Carib   and   then   allow   *   to   fall   in   with   *o   in   an   unconditioned   merger.   This   counter-­hypothesis   would   link   the   rest   of   the   Cariban   family   together   ±  rather   than   the   group   above  ±   in   a   different   shared   innovation.   Once   we   have   enough   reliable   lexical   information,   I   expect   we   will  discover   enough  variation   in  the   lexical  distribution  of      to   discredit   this   alternative   hypothesis.   That   is,   I   expect   to   see   that   different   lexical   items   hosted   the   shift   from   *o   >         in   different   branches   of   the  
+                                                                              
+1   In   particular,   Mattéi-­Muller   (1999,   2000)   argues   from   lexical   data   that   Mapoyo,   Yawarana   and   newly   discovered   Pémono   are   so   closely   related   as   to   be   essentially   variants   of   a   single   language,   ZKLFKVKHVXJJHVWVEHORQJVLQDVXEJURXSZLWK7DPDQDNX7KLVVXJJHVWVWKDWIurther  research  is  in   order   on   the   Mapoyo/Yawarana/Pémono   language,   specifically   searching   for   each   of   the   comparative  features  discussed  in  the  subsequent  sections  in  order  to  test  the  various  hypotheses.  
+
+8  
+
+AMERINDIA  n°28,  2003  
+
+family,   thereby   effectively   discrediting   the   counter-­hypothesis.   In   particular,  I  expect  closer  analysis  of  the  shift  from  *o  >    to  reveal  that  the   Taranoan   Group   and   Wayana   do   not   share   a   closer   affinity   with   the   Venezuelan   Branch,   but   participated   in   a   separate   innovation   (or   two).   I   expect   to   see   evidence   of   independent   phonological   innovation   in   part   because,   as   described   in   the   next   section,   Taranoan   and   Wayana   do   not   participate  in  the  second  innovation  that  defines  the  Venezuelan  Branch.  
+
+2.2.  Third  person  possessive  forms,  vowel-­initial  nouns  
+
+Across   the   family,   the   most   common   pattern   for   marking   third   person  nominal  possession  is  to  mark  the  possessed  noun  with  a  prefix,   i-­   for   consonant-­initial   nouns,   Ø-­   for   vowel-­initial   nouns.   I   have   proposed   (Gildea   1998:   114-­16)   the   somewhat   controversial   Proto-­Carib  
+
+reconstruction   of   *y-­   for   both   forms.   However,   a   subset   of   Cariban   languages  shows   an  unexpected   allomorph  of   the   third   person  possessive  
+
+prefix  on  vowel-­initial  nouns,  a  range  of  forms  which  readily  reconstructs  
+
+to  *it-­  (cf.  table  1).  Minus  the  Taranoan  Group  and  Wayana,  the  group  of   languages  identified  in  the  preceding  section  is  exactly  the  group  identified  
+
+here.  
+                                                           
+
+Makushi   it-­  
+
+Pemóng   it  
+
+7DPDQDNX   it-­  
+
+Kapóng  
+
+it-­/dj-­/dÜ                                                    
+
+Panare  
+
+t(y)-­  
+
+Mapoyo   t-­  
+
+Yawarana   t-­  
+
+Chayma   t6   Cumanagoto   t6  
+
+'H¶NZDQD   d-­                                                      
+
+   Table  1.    Unusual  allomorphs  for  third  person  possessive,  vowel-­initial  nouns  
+
+The   first   innovation   would   be   Proto-­Carib   *y-­   >   Proto-­Venezuelan   *it-­.   The   conservative   form   is   retained   in   Makushi,   Pemóng   and   7DPDQDNX DQG DV RQH RI WKH YDULDQWV LQ .DSyQJ 7KH UHPDLQLQJ IRUPV represent  palatalization  and/or  voicing  of  *t,  and/or  loss  of  *i.  This  is  best   illustrated  in  synchronic  variation  in  Kapóng,  where  intervocalic  voicing  is   general,   leading  to   *it-­   >  id-­,   and   palatalization   is  ubiquitous,  generating   variant  idj-­.  Loss  of  initial  i  then  leaves  only  dj-­,  which  is  often  pronounced   dß-­.  In  previous  work,  I  mistakenly  attributed  the  Panare  variant,  t(y)-­,  to  a   collapse   with   the   third   person   reflexive   prefix   *t-­,   which   has   not   been   attested   in   any   dialect   of   modern   Panare.   The   mysterious   (although  
+
+GILDEA  Sp.:  Proposing  a  New  Branch  for  the  Cariban  Language  Family  
+
+9  
+
+inconsistent)   palatalization   of   this   form   would   be   expected   given   the   source  proposed  here.  It  is  not  surprising  that  these  five  languages  present   the   clearest   case   for   *it-­,   as   they   are   linked   by   several   other   innovations   (cf.  section  3).  
+The   remaining   cases   require   further   research   to   solidify,   but   at   the   least,   certain   previously   mysterious   allomorphs   of   the   third   person   possessive  prefix  make  sense  given  a  proto-­form  *it-­'H¶NZDQDd-­  would   be   an   expected  outcome  of  intervocalic  voicing   followed   by  loss  of   *i   and   &KD\PDDQG&XPDQDJRWRt6  are  readily  derived  from  palatalization  of  *t   and  loss  of  *i.  Further  research  is  also  indicated  for  Mapoyo  and  Yabarana,   as   their   inclusion   in   this   table   is   by   inference   from   certain   examples   in   Mattéi-­Muller   (1999),   and   not   from   any   demonstration   of  phonologically   conditioned  allomorphy.  
+7KH7DPDQDNX-­Panare-­Pemóng  (TPP)  Macro-­Group    
+Five  innovations   link  these   five  languages,  one   a   case  of  irregular   lexical   suppletion,   four   cases   of   unique   grammatical   patterns.      Each   innovation   is   potentially   not   limited   to   these   five   languages,   and   given   additional   descriptive   work   in   the   other   proposed   members   of   the   Venezuelan   Branch,   I   would   not   be   surprised   to   find   other   languages   participating  in  these  innovations  as  well.  As  an  additional  caveat,  I  should   also   add   that   each   of   the   shared   grammatical   patterns   could   conceivably   represent   conservative   patterns   that   happen   to   be   conserved   in   only   these   languages.   I   will   argue   against   this   interpretation   in   each   individual   case,   but  even  if  the  reader  is  not  convinced  in  one  or  two  cases,  I  count  on  the   weight  of  numbers  (especially  in  combination  with  the  cases  from  section   4)   to   make   the   cumulative   impression   that   something   here   requires   explanation.  
+I  begin  with  the  case  of  lexical  suppletion  (section  3.1)  and  then  the   cases  of  grammatical  innovation  (sections  3.2-­3.5).  
+3.1.  Suppletion  in  the  paradigm  of  the  verb  of  speech  
+While  suppletion  is  common  cross-­linguistically  in  verbs  of  speech,   and   some   Cariban   languages   present   a   partial   merger   in   the   paradigms   of   the  verb  of  speech  and  the  copula,  the  suppletion  described  here  is  unique   in  form,  and  so  far  is  well-­attested  only  in  the  TPP  Macro-­Group.      
+The  Proto-­Carib  verb  of  speech  is  *kaci  µVD\PDNHQRLVHRI¶ZLWKWKH final  syllable  inferred  from  allomorphy  in  the  imperative  across  the  family.  This  
+
+10  
+
+AMERINDIA  n°28,  2003  
+
+form   descends   to   Proto-­Venezuelan   as   *ka/kaC.   Preceding   the   verb   is   the   quoted   speech,   or   a   word   representing   the   sound   produced,   however   the   quote/sound  appears  not  to  be  an  argument  of  the  verb;;  the  root  is  syntactically  
+
+intransitive,   with   its   sole   argument   (the   subject)   being   the   speaker.   In   TPP,   a   reflex  of  *ka/KaC  is  the  root  for  most  Set  I  inflections,  for  all  imperatives  and   negative   imperatives,   and   it   also   appears   in   some   other   conjugations   in   individual   languages.   The   examples   for   Panare   come   from   Mattéi-­Muller   (1994:   WR DSSHDU IRU 7DPDQDNX IURP *LOLM  ,,,  265-­273);;   for  
+
+Pemóng   from   Armellada   and   Olza   (1994:  221-­225);;   for   Kapóng   from   Fox   (personal  communication);;  and  for  Makushi  from  Williams  (1932:  90,  265)  and   Abbott   (1991:  29).   Table   2   presents   a   selection   of   the   data   illustrating   modern  
+
+reflexes  of  *ka/kaC:2  
+
+  
+
+Set  I  
+
+Imperative  
+
+Others  
+
+Panare     
+
+kah-­k  µVD\LW¶  
+
+ka-­'ka  µGRQ¶WVD\LW¶  
+
+  
+
+  
+
+  
+
+ka-­ñe  µVD\HU¶  
+
+7DPDQDNX   kwa-­cha  µ,VD\¶  
+
+kai'-­ke  µVD\LW¶     
+
+  
+
+kwa-­i  µ,VDLG¶  
+
+ka-­te-­ke  µ\RXSOVD\LW¶     
+
+  
+
+m-­ga-­i  µ\RXVDLG¶  
+
+  
+
+m-­ka-­tomne  µ\RXSOVDLG¶  
+
+  
+
+ka-­rimya'ne  µKHVDLG¶  
+
+  
+
+m-­ka-­chi  µ\RXZLOOVD\¶  
+
+  
+
+ka-­chi  µKHZLOOVD\¶  
+
+Pemóng   kua-­i  /  u-­ka-­i  µ,VD\VDLG¶  ka-­ke  µVD\LW¶  
+
+ane-­ka  pai  µZDQWWRVD\LW¶  
+
+  
+
+mue-­ka-­dan?  µKDYH\RXVDLG"¶  
+
+  
+
+tu-­ka-­i  µVD\LQJ¶  
+
+mue-­ka-­te-­i  µVD\LW3O¶
+
+   Makushi        
+
+ne-­ka-­tai  µ,VDLG¶   ma-­ka-­i  µVD\LW¶        
+
+ke-­ka-­i  µGRQ¶WVD\LW¶  
+
+ka-­k  µVD\LW¶  
+
+ka-­i  µLQRUGHUWRVD\¶  
+
+  
+
+tØ-­ka-­i  pra  µQRWVD\LQJ¶  
+
+  
+
+an-­ka-­pai  µZDQWWRVD\¶  
+
+   Kapóng           
+
+  
+
+  
+
+u-­ga-­i  /  gwa-­i  µ,VDLG¶   ka'-­k  µVD\LW¶  
+
+nØ-­ga-­'ang  µKHVD\V¶  
+
+gwa-­aik  µ,VD\¶  
+
+mØ-­ga-­'ang  µDUH\RXVD\LQJWKDW"¶  
+
+ka-­L¶PD  µVD\LQJ¶   ²²²  
+
+Table  2:  TPP  Reflexes  of  *ka/kaC  µVD\¶  
+The   shared   TPP   innovation   is   the   introduction   of   the   root   *taro   into  
+
+YDULRXVSRUWLRQVRIWKHSDUDGLJPIRUµVD\¶EHJLQQLQJZLWKDQGVWLOOFRQFHntrated  
+
+                                                                              
+2  Note  that  the  apparent  first  person  infix  -­w-­  in  Tamanaku,  Pemóng,  and  Kapóng  probably  represents   labialization   of   the   initial   velar   followed   by   loss   of   the   Proto-­Carib   prefix   *w-­   µ6D¶ *LOGHD 1998:  90).  
+
+GILDEA  Sp.:  Proposing  a  New  Branch  for  the  Cariban  Language  Family  
+
+11  
+
+on)  nonfinite   inflections.      This   root  is   syntactically   transitive,   with  the  speaker  
+
+taking  the  role  of  subject  or  agent  phrase,  depending  on  conjugation.  The  direct  
+
+object  of  *taro    is  usually  the  utterance  itself,  although  some  examples  are  attested  
+
+where   the   interlocutor   is   the   object   rather   than   occurring   in   a   postpositional  
+
+phrase.  The  final  syllable  of  *taro  is  unstable,  leading  to  a  frequent  allomorph  ta  
+
+(considered   by   some   analysts,   e.g.   Armellada   and   Olza   1994,   to   be   the   basic  
+
+form).   The   examples   for   Panare   come   from   Mattéi-­Muller   (1994:  102);;   for  
+
+7DPDQDNX IURP *LOLM  ,,,:  265-­273);;   for   Pemóng   from   Armellada   and  
+
+Olza  (1994:  221-­225);;  for  Kapóng  from  Fox  (personal  communication);;  and  for  
+
+Makushi   from   Williams   (1932:  90,   265)   and   Abbott   (1991:  29,   82).   Table   3  
+
+presents  a  selection  of  the  data  illustrating  modern  reflexes  of  *taro.  
+
+  
+
+Set  I  
+
+Others  
+
+Panare  
+
+ta-­e  kn  µKHVDLG¶  
+
+7DPDQDNX   ta-­i  µKHVDLG¶  
+
+taro  µWRVD\¶  
+
+  
+
+ta-­tewe  µWKH\VDLG¶  
+
+taro  pa'  µVD\LQJ¶  
+
+  
+
+channe  µKHVDLG¶  
+
+taro  uya  µ,VD\¶  
+
+  
+
+ta-­ine  µKHVDLG¶  
+
+taro-­che  µLQRUGHUWRVD\¶  
+
+  
+
+ta-­tomne  µKHSOVDLG¶   taro-­chetpe  µLQRUGHUWRVD\¶  
+
+  
+
+  
+
+taro-­tepo  µWRVD\¶  
+
+  
+
+  
+
+taro-­nei  µVD\HU¶  
+
+  
+
+  
+
+taro-­tpe  µWKDWZKLFKZDVVDLG¶  
+
+Pemóng     
+
+taure-­da  µ,VD\¶  
+
+  
+
+  
+
+ta-­ya  (taure-­ya)  µKHVD\V¶  
+
+  
+
+  
+
+taure-­pue-­ya  µKHVDLG¶  
+
+  
+
+  
+
+e  ta-­u-­ya?  µZKDWGR\RXVD\"¶  
+
+Makushi     
+
+  
+
+  
+
+  
+
+  
+
+ta-­µSØ-­i-­ya  µKHVDLG¶   taa-­sa-­L¶-­ya  µKHVDLG¶   ta-­nisµVD\HU¶  
+
+  
+
+  
+
+  
+
+  
+
+amula  ta-­e  pu  µ\RXVD\¶     ta-­sa  nai  µZKDWGLGKHVD\"¶  
+
+  
+
+  
+
+ta-­u-­ya  µ,VD\¶  
+
+  
+
+  
+
+taa  tanne  µZKLOHVD\LQJ¶  
+
+  
+
+  
+
+  
+
+  
+
+Kapóng     
+
+  
+
+  
+
+taa-­won  µZKDWLVVDLG¶   taa  pØ¶  µVD\LQJ¶   ta-­'pØ  iya  µKHVDLG¶   ta-­dok  µVRPHWKLQJWRVD\¶  
+
+  
+
+  
+
+se  da-­bai  µZDQWWRVD\WKLV¶  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+  
+
+ta  do'-­ya  µWKH\VD\¶   da  bk  mang  µKHLVVD\LQJLW¶   'r  da-­'pØ  awya  µZKDWGLG\RXVD\"¶  
+
+Table  3:  TPP  Reflexes  of  *taro  µVD\¶  
+
+As   expected,   Pemóng,   Kapóng   and   Makushi   pattern   virtually   identically,   with   *taro   occurring   only   in   etymologically   nonfinite  
+
+12  
+
+AMERINDIA  n°28,  2003  
+
+inflections.   Surprisingly,   *taro   appears   to   have   advanced   farther   in   7DPDQDNX DSSHDULQJ LQ VHYHUDO ILQLWH LQIOHFWLRQV IRU WKLUG SHUVRQ subjects.  Panare  also  shows  a  reflex  of  *taro  in  a  finite  inflection,  but  in  all   the   nonfinite   forms   where   we   would   expect   a   reflex   of   *taro,   a   third   suppletive   root,   D¶NDPD   is   found   instead   (Mattéi-­Muller   1994:  102,   to   appear).    This  innovation  is  unique  to  Panare,  but  the  occurrence  of  a  reflex   of*taro   in   the   one   inflection   is   enough   to   allow   speculation   that   Panare   perhaps  went  through  the  same  change  before  D¶NDPD  moved  in.  
+This  hypothesis  can  be  tested  by  collecting  full  paradigms  for  verbs   of  speech  in  all  the  surviving  Cariban  languages.  This  would  allow  us  to  be   much  more  specific  about  the  precise  conjugations  where  we  expect  to  see   suppletion   ±  if   the   innovation   is   shared,   then   the   overlap   should   be   significant,   and   the   nonshared   suppletion   should   arguably   be   considered   due   to   subsequent   independent   innovation.   On   the   other   hand,   if   this   particular  suppletion  turns  out  to  be  widespread  in  the  family,  then  it  would   QR ORQJHU DUJXH IRU FORVHU UHODWLRQVKLS EHWZHHQ 7DPDQDNX 3DQDUH DQG the   Pemóng   Group.   In   this   latter   vein,   it   is   interesting   to   note   that   the   comparative   wordlist   in   Mattéi-­Muller   &   Henley   (1990:  132)   lists   the   forms  tu  for  Mapoyo  and  yata  for  Yabarana,  both  possible  modern  reflexes   of   *taro,   and   Meira   (pc)   reports   that   he   has   encountered   suppletive   forms   tawro   µVD\LQJ¶ DQG ta-­toko   µZKHQZKLOH VD\LQJ¶ LQ WKH SDULGLJP IRU WKH Hixkaryana  verb  of  speech.  
+3.2.  The  innovative  progressive  system  
+As  described  and  argued  in  some  detail  in  Gildea  (1998,  Ch.  12),  an   innovative  progressive  inflection/construction  has  arisen  in  several  Cariban   languages.   The   source   for   the   progressive   morphology   is   distinct   for   transitive   and   intransitive   verbs,   giving   rise   to   a   suppletive   progressive   marker:   *-­rØ-­poko   µ$FWLRQ1RPLQDOL]HU-­RQ¶ IRU WUDQVLWLYH YHUEV DQG *-­no-­ poko  µ,QILQLWLYH-­RQ¶IRULQWUDQVLWLYH  verbs.  While  both  the  infinitive  and  the   nominalizer   derive   a   nominal   from   a   verb   stem,   they   differ   in   that   the   infinitival   verb   cannot   be   possessed,   whereas   the   action   nominalization   is   obligatorily   possessed   by   the   notional   absolutive   argument   (in   this   construction,   only   the   transitive   O,   the   accusative).   These   two   different   derived   nouns   are   then   made   objects   of   the   locative   postposition   *poko   µRQ¶ZKLFKLVLWVHOIPDGHWKHFRPSOHPHQWRIDFRSXODUFODXVH7KHHQWLUH source  construction  is  thus  parallel  WR(QJOLVKVHQWHQFHVOLNH³+HLVRQWKH
+
+GILDEA  Sp.:  Proposing  a  New  Branch  for  the  Cariban  Language  Family  
+
+13  
+
+KXQWLQJ RI GHHU´ DQG ³+H LV RQ VLQJLQJ´3   After   reanalysis,   the   nominalizer/infinitive   suffix   combines   with   the   postposition   to   create   the   new  progressive  inflection;;  the  possessor  of  the  transitive  nominalized  verb   becomes   the   accusative   object;;   the   subject   of   the   copula   in   both   cases   becomes  the  subject  of  the  new  progressive  clause.  
+
+  
+
+Proto-­Carib   *-­no  poko  
+
+*-­rØ  poko  
+
+  
+
+7DPDQDNX   -­ne  pake  /  -­SD¶   -­ri  pake  /  -­SD¶  
+
+  
+
+Panare  
+
+-­np  
+
+-­1p  / -­mp'     
+
+  
+
+Pemóng  
+
+-­np'  /  -­1p'   -­p'  
+
+  
+
+Kapóng  
+
+-­nbk  /  -­1bk   -­pk  /  -­bk  
+
+  
+
+Makushi  
+
+-­nØpØ'  /  -­1pØ'   -­pØ'  
+
+Table  4.    The  Progressive  in  the  TPP  Macro-­Group  
+
+Phonologically,   the   progressive   suffixes   have   evolved   in   each   ODQJXDJH DV IROORZV LQ 7DPDQDNX WKH WUDQVFULSWLRQ XQGRXEWDEO\ LV flawed,  and  we  are  safe  in  assuming  that  the  progressive  forms  are  simply   the   Proto-­Carib   forms   with   *o   >   ,   and   with   the   frequent   loss   of   the   final   vowel   of   the   erstwhile   postposition,   especially   when   followed   by   the   first   person   pronoun.      In   Panare   and   the   Pemóng   Group,   the   nominalizer   *-­rØ   disappears   (as   do   other   word-­final   and   root-­final   rØ   syllables,   cf.   section   4.4).      In   the   Pemóng   Group,   the   disappearing   *-­rØ   protected   the   final   syllable   of   the   verb   stem   from   reduction   (cf.   Gildea   1995,   1992,   ch.   9),   leaving  behind  a  -­Ø  nominalization;;  thus,  the  only  marker  of  the  transitive   progressive   verb   is   the   modern   reflex   of   *poko   (>   Kap/Pem   -­pk/-­p'      >   Mak  -­pØ').  In  all  Cariban  languages,  *-­rØ  is  the  most  frequent  of  some  four   or  five  suffixes  that  mark  possessed  nouns,  the  second  most  common  overt   marker  being  *-­nØ.    In  Panare,  *-­nØ    >  -­1  and  expanded  from  its  previously   limited   distribution   to   mark   most   possessed   nouns   and   the   action   nominalization  (cf.  Wayana  for  a  parallel  extension  of  *-­nØ(>  -­n)  to  mark   most  possessed  nouns  following  loss  of   *-­rØ).    The  combination  of  -­1+   *poko   (>p')   gives   the   transitive   progressive   suffix   -­1p'   >   -­mp'.   For   intransitive   verbs,   the   infinitive   *-­no   >   -­n>   -­1,with   Panare   showing   only   -­n,   Kapóng/Pemóng   showing   -­n   /   C+___   and   -­1   /   V+___,   and   Makushi  showing  -­nØ  /  C+___  and  -­1  /  V+___.  These  allomorphs  combine   with   the   modern   reflex   of   *poko   in   a   straightforward   way   to   produce   the   various  allomorphs  of  the  intransitive  progressive  suffix.  
+
+                                                                              
+3  This  is  the  actual  source  construction  for  the  modern  English  progressive,  cf.  Visser  1968,  Nagucka   1984).  
+
+14  
+
+AMERINDIA  n°28,  2003  
+
+While  there  have  been  disagreements  about  the  synchronic  status  of   the  syntactic  reanalysis  in  both  Panare  and  the  Pemóng  Group  (cf.  Álvarez   1999a[1996]   and  the   response  in   Gildea  1998:153-­60,  208-­9,  plus   Gildea   2000),   there  is   no  question  that  the  primary  function  of   the   construction   in   each   of   these   is   to   indicate   the   progressive.   Further,   it   is   clear   that   the   etymological  distributions  of  the  nominalizer  and  infinitive  have  changed,   being   restricted   to   transitive   and   intransitive   verbs,   respectively,   in   the   progressive  construction.  In  other  Cariban  languages  (and  as  reconstructed   to   Proto-­Carib   in   Gildea   1998,   ch.   7-­8),   both   the   nominalizer   and   the   infinitive   occur   freely   on   either   transitive   or   intransitive   verbs,   and   both   occur   freely   preceding   the   locative   postposition   *poko   µRQ¶ Synchronically,  in  the  Pemóng  Group  the  nominalized  intransitive  verb  can   no  longer  occur  at  all  as  the  object  of  the  postposition  *poko;;  in  Panare,  the   intransitive  nominalization  can  be  an  object  of  *poko,  but  this  PP  cannot  be   a   complement  of   the   copula   (i.e.   can   no   longer   occur   in   the   construction   that  was  the  source  for  the  progressive).    Similarly,  in  Panare  the  transitive   infinitive   inflection   is   no   longer   attested   as   the   complement   of   *poko;;   and   LQ7DPDQDNXDQGWKH3HPyQJ*URXSWKHLnfinitive  no  longer  occurs  with   any  transitive  verbs.      
+This   combination   of   restrictions   is   unusual,   and   noteworthy   precisely   because   the   lost   forms/distributions   are   complementary   to   the   forms  that  have  become  the  progressive  inflection.    If  one  accepts  that  the   transitive   nominalization   and   the   intransitive   infinitive,   when   found   together  with  *poko  in  the  source  construction,  have  been  reanalyzed  into   a   single   suppletive   progressive   inflection,   then   the   source   construction   is   left  with  only  intransitive  nominalizations  and  transitive  infinitives,  an  odd   combination.   The   loss   of   these   forms   from   the   source   construction   then   eliminates   that   odd   combination,   and   in   the   process   eliminates   the   source   construction   altogether   from   the   synchronic   grammar.   Absent   the   PRWLYDWLRQRIDUHDQDO\]HGSURJUHVVLYHWKHORVVRIWKH³UHVW´RIWKHVRXUFH construction  is  inexplicable  and  mysterious.  
+Amongst   the   five   languages   in   question,   Kapóng   and   Panare   show   clear   evidence   for   syntactic   reanalysis;;   Pemóng   and   Makushi   show   clear   VHPDQWLF HYLGHQFH IRU UHDQDO\VLV WKH 7DPDQDNX GDWD DUH LQVXIILFLHQW WR argue  convincingly   either   for   either   a  conservative  or  innovative  analysis   of   the   progressive   (Gildea   2000   for   Akawaio,   Gildea   1998,   ch.   12   for   the   RWKHUV &KD\PD DQG &XPDQDJRWo  present   possible   cases   of   reanalysis,   but   detailed   investigation   of   the   historical   materials   will   be   necessary   to   posit   a   firm   analysis.   Parallel   innovations   are   attested   in   Apalaí   and  
+
+GILDEA  Sp.:  Proposing  a  New  Branch  for  the  Cariban  Language  Family  
+
+15  
+
+Kaxuyana,   but   each   is   substantially   different   in   other   details   and   they   are   thus  clearly  independent  innovations.  
+One   problem   arises   with   the   claim   that   the   various   progressive   constructions   represent   a   shared   innovation:   I   have   claimed   that   the   nominalizer/infinitive   and   the   postposition   fuse   into   a   single   suppletive   progressive   inflection   in   the   modern   languages,   yet   the   nominalizer   component  of   the   source   continued   to   evolve  identically  both   within   and   LQGHSHQGHQWO\ RI WKH SURJUHVVLYH 2QO\ 7DPDQDNX UHWDLQHG WKH RULJLQDO morphological   forms,   with   the   Pemóng   Group   losing   the   action   nominalizer   in   all   contexts   (including   the   innovative   progressive   construction)   and   Panare   first   losing   *-­rØ   and   then   extending   -­1   into   all   contexts   where   *-­rØ   once   occurred   (including   the   innovative   progressive   construction).   The   fact   that   these   later   changes   affected   all   contexts   in   which   *-­rØ   once   appeared   provides   convincing   evidence   that   the   nominalization/infinitive   plus   postposition   had   not,   at   the   time   of   Proto-­ TPP,   fused   into   a   single   morpheme.   As   shown   by   Heine   (1992,   1993),   phonological   fusion   is   not   a   necessary   concommitant   of   syntactic   reanalysis,  but  merely  a  common  later  effect.  Thus,  although  the  presence   of  phonological   fusion   would   have   offered  reinforcement,  the   absence  of   such   fusion   does   not   detract   from   the   argument   for   morphosyntactic   reanalysis.  
+3.3.  Finite  Relative  Clauses  
+In   most   of   the   Cariban   family,   subordinate   clauses   are   all   nominalizations;;   in   particular,   the   functional   load   of   relative   clauses   is   carried   by   agent   and   patient   nominalizations.   Thus,   any   form   of   subordination   that   utilizes   finite   inflectional   morphology   is   arguably   innovative.  In  particular,  relative  clauses  based  on  finite  inflected  verbs  are   unattested   in   any   Cariban   language   outside   the   TPP   Macro-­Group,   so   the   occurrence   of   finite   relative   clauses   across   the   group   should   be   evidence   for  shared  innovation.    Unfortunately,  the  morphology  and  syntax  of  these   relative   clauses   are   very   poorly   understood   to   date,   leaving   substantial   room  for  a  hypothesis  of  parallel  innovation.      
+They   are   attested   only   in   pDVVLQJ IRU 7DPDQDNX *LOLM  III:  148,   156)   and   Kapóng   (Fox,   pc).   Makushi   apparently   has   lost   finite   relative  clauses  along  with  the  rest  of  the  etymological  finite  verbal  system   (cf.   Gildea   1998:  76-­78).   Finite   relative   clauses   in   Pemóng   are   mentioned   in  passing  in  the  first  dialect  of  Pemóng  (Pemón1),  descibed  in  Armellada   (1943a),   Armellada   and   Olza   (1994).   For   a   second   dialect   of   Pemóng  
+
+16  
+
+AMERINDIA  n°28,  2003  
+
+(Pemón2),  Álvarez  (1999a,  and  especially  1999b)  offers  substantially  more   data,   and   hence   a   clearer   picture.   Only   relative   clauses   in   Panare   have   received   any   kind   of   detailed   syntactic   treatment,   and   this   only   in   an   unpublished  Master's  thesis  (Gildea  1989).      
+
+In   all   four   languages,   the   relativizing   morphology   comes   immediately   after   the   inflected   verb,   written   as   postverbal   particles   in   7DPDQDNX DQG DV VXIIL[HV LQ WKH RWKHUV 7KH UHODWLYL]HUV YDU\ paradigmatically  for  semantic  features  of  the  head  noun  (NPREL),  in  Panare   for   animacy,   in   Kapóng   for   number,   and   in   Pemóng   for   both   animacy   (Pemón2)   and   number   (both   PemyQ DQG 3HPyQ  ,Q 7DPDQDNX *LOLM does  not  discuss  what  conditions  the  alternation  between  the  two  forms.  
+
+Sg.Anim   Pl.Anim   Inan  (Sg/Pl)  
+
+Kapón:   -­nek      nek-­nan   nek  
+
+Pemón1:   -­nek      -­nan     
+
+      Pemón2:   -­nØ¶     
+
+-­nan     
+
+-­yi     
+
+Panare:   -­(m)nh     
+
+  
+
+-­(m)1  
+
+        
+
+  
+
+  
+
+  
+
+  
+
+  
+
+-­sØn  
+
+   (Semantic  distinction  unknown  for  Tamanaku)  
+
+7DPDQDNX   (ma)nechi         (mai)ri  
+
+Table  5.  Innovative  Relativizers  in  the  TPP  Macro-­Group  
+
+The   form   of   the   Singular   Animate   relativizers   are   readily   relatable   DVVXPLQJ RQ SKRQRORJLFDO JURXQGV RQO\ WKDW 7DPDQDNX (ma)nechi   belongs   with   this   group):   *(ma)nechi   >   (ma)nek   >   (m)n¶   >   nØ¶.   The   plural  form  -­nan  is  added  to  the  relativizer  in  Kapóng,  and  stands  alone  as   the  relativizer  in  the  two  dialects  of  Pemóng  (specified  as  plural  animate  in   Pemón2,   as   merely   plural   in   Pemón1),   and   one   wonders   whether   it   might   not  turn  up  in  further  research  in  Panare.  Suggestive  parallels  are  also  seen   in  the  unstable  syllable  -­(ma/m),  attested  in  two  forms  each  in  Panare  and   7DPDQDNX $Q DGGLWLRQDO FRQQHFWLRQPLJKW H[LVWEHWZHHQ 7DP -­ri   and   Pan   -­1,   both   identical   (except   for   the   unstable   syllable   mai/m),   to their   respective   action   nominalizers   (as   discussed   in   section   3.2).   Future   descriptions  of  relative  clauses  in  Pemóng  and  Kapóng  can  be  expected  to   offer   reliable   phonological   forms   and   more   complete   descriptions   of   the   syntactic   patterns   of   relativization;;   further   research   in   Panare   might   uncover  a  cognate  plural  form,  as  well.  If  such  forms  do  turn  up,  it  may  be   possible  to  reconstruct  a  single  shared  innovation,  with  later  diversification   into  semantically  more  restricted  forms.  
+
+GILDEA  Sp.:  Proposing  a  New  Branch  for  the  Cariban  Language  Family  
+
+17  
+
+3.4.    Sole  reflexes  of  *-­cetØ  µ1RPLQDOL]HU¶  
+
+Modern   reflexes   of   *-­cetØ   are   attested   in   only   Panare,   Tamanaku   and  Kapóng.    The  form  is  not  likely  of  extremely  recent  origin,  as  it  is  old   enough   to   be   a  part   of   innovative   inflectional   morphology   in   Panare   and   Kapón.      The   only   attestations   of   a   modern   reflex   of   *-­cetØ   as   a   separate   morpheme   are   found   in   paradigms   in   Tamanaku.      The   various   reflexes   attested  so  far  are  listed  in  Table  6.    
+
+   7DPDQDNX-­cheti   µ)UHTXHQWDWLYH1]U¶  
+
+     
+
+<  *-­cetØ  
+
+     
+
+-­cheti-­pe   µ3XUSRVLYH¶  
+
+     
+
+<  *-­cetØ  pe  
+
+     
+
+-­ceti-­pa-­no  µ3XUSRVLYH-­1RPLQDOL]HG¶       
+
+<  *cetØ  pe-­no  
+
+  
+
+   Panare:   -­sehpe   µ3XUSRVLYHVDPHVXEMHFW¶        
+
+<  *-­cetØpe  
+
+     
+
+-­sehpa   µ)XWXUH¶     
+
+     
+
+<  *cetØ  pe-­no  
+
+  
+
+     
+
+-­se'ñape   µ3XUSRVLYHGLIIHUHQWVXEMHFW¶    
+
+<  *cetØ-­na  pe  
+
+  
+
+   Kapón:   -­se'ñape   µ3XUSRVHRIPRWLRQVDPHVXEMHFW¶   <  *cetØ-­na  pe  
+
+Table  6.  Reflexes  of  *-­cetØ  in  the  TPP  Macro-­Group  
+
+The   nominal   status   of   the   verb   plus   *-­cetØ   (at   least   etymologically)   is   clear   in   that   it   is   followed   by   the   attributivizing   postposition   pe   in   all   three   languages.   An   additional   form   is   created   by   nominalizing   the   postposition   with   the   suffix   -­no,   which   has   the   effect   (family-­wide)   of   changing   a   preceding   e   to   a.   This   vowel   ablaut   is   the   only   remaining   evidence   of   the   nominalization   in   Panare,   captured   in   the   modern   alternation  between  -­sehpe  and  -­sehpa  (cf.  Mattéi-­Muller  to  appear  for  this   and  several  other  examples  in  Panare).  The  source  of  the  ña  syllable  in  the   two  purposive  suffixes  remains  mysterious.  
+
+Various   different   nominalizations   have   evolved   into   inflected   main   clause   verb   forms   in   both   Panare   and   Kapóng;;   the   other   nominalizations   cum  main  clause  inflections  all  reconstruct  to  Proto-­Carib  as  nominalizers   (cf.   Gildea   1998,   ch.   7).   By   analogy,   one   might   expect   a   comparable   antiquity   for   *-­cetØ.   However,   I   am   aware   of   no   firm   cognates   (or   even   likely   candidates)   in   any   other   branch   of   the   family,   a   finding   which   suggests   a   more   recent   origin.   If   it   is   attested   in   other   branches   of   the   family,   then   the   hypothesis   of   shared   innovation   will   fall   and   this   will   no   longer   be   a   criterion   that   argues   for   closer   relationship   between   7DPDQDNX3DQDUHDQGWKH3HPyQJ*URXS  
+
+  
+
+18  
+
+AMERINDIA  n°28,  2003  
+
+3.5.  The  innovation  of  a-­  as  an  impersonal  prefix  and  an-­  DVµ21HJDWLYH¶  
+
+The  final  innovation  to  be  considered  in  this  section  is  quite  poorly   documented;;   I   include   it   here   mostly   in   the   hopes   of   stimulating   further   descriptive   work   on   this   affix,   in   the   hopes   of   identifying   its   source   and   evolution.   Across   the   family,  the   third  person  object   prefix  of   a  negative   verb   contains   the   expected   i-­   µ¶ SOXV DQ DOYHRODU QDVDO in-­   µ21HJ¶ Uniquely   in   this   proposed   branch,   the   form   is   an-­.   Additionally,   in   a   number   of   non-­agreeing   verb   forms   (i.e.   forms   that   usually   take   either   no   personal   prefix   or   an   invariant   form   i-­   or   Ø-),   these   languages   take   a   surprising  invariant  prefix  a-­.    
+
+        
+
+Vintr  
+
+  
+
+  
+
+Vtrans  
+
+        
+
+Imperative   negative   desiderative   negative   imperative  
+
+      Panare   a-­  
+
+a-­  
+
+     
+
+an-­  
+
+      Kapóng     
+
+  
+
+a-­  
+
+  
+
+an-­  
+
+      Tamanaku     
+
+  
+
+     
+
+  
+
+an-­  
+
+Table  7.  The  Surprising  a-­  element  in  prefixes  in  the  TPP  Macro-­Group  
+
+This   series   of   personal   prefixes   with   an   a-­   element   may      be   unrelated  (most  appear  in  different  columns  on  the  chart!),  but  as  they  are   found   in   no   other   languages   in   the   family,   their   origin   might   be   found   at   the   level   of   Proto-­TPP.   Certainly   I   will   examine   future   grammatical   descriptions   for   further   evidence   of   an   a-­   creeping   into   the   domain   previously  occupied  by  i-­/Ø-­.  
+
+This   concludes   the   presentation   of   innovations   that   link   7DPDQDNX3DQDUHDQGWKH3HPyQJ*URXS,QWKHQH[WVHFWLRQ,OLVWWKRse   WKDW H[FOXGH 7DPDQDNX LQGLFDWLQJ D PRUH UHFHQW FRQQHFWLRQ EHWZHHQ Panare  and  the  Pemóng  Group.    
+
+4.  The  Panare-­Pemóng  Macro-­Group  
+
+The   five   additional   properties   that   connect   Panare   and   the   Pemóng   Group   include   two   phonological   (section   4.1)   and   three   grammatical   innovations  (sections  4.2-­4.4).  
+
+4.1.  Phonological  Innovations:  Syllable  Reduction.  
+
+Across  the  Cariban  family,  the  final  syllable  of  verb  stems  reduces   when   followed   by   a   suffix   that   begins   with   a   simple   CV   (Gildea   1995).   The  innovation  in  Panare  and  the  Pemóng  Group  is  to  extend  that  syllable   reduction   to   the   final   syllable   of   unpossessed   nouns   and   possessed   nouns  
+
+GILDEA  Sp.:  Proposing  a  New  Branch  for  the  Cariban  Language  Family  
+
+19  
+
+WKDW KDYH QR H[SOLFLW VXIIL[ LQGLFDWLQJ WKHLU V\QWDFWLF VWDWXV LQ 0HLUD¶V  WHUPV µ]HUR-­JUDGH¶ SRVVHVVHG QRXQV DQG DW OHDVW RQH postposition.   The   shared   syllable   reduction   involves   two   distinct   phonological   innovations,  loss  of  a  word-­final  high  vowel  (with  a  couple  of  exceptional   mid   vowels   lost)   and   then   subsequent   debuccalization   of   the   now   word-­ final   consonant.   Obstruents   drop   back   in  the  oral  tract,   first   to  the  velum   and   then   to   the   glottis;;   all   become   stops   as   well,   although   at   the   glottal   point  of  articulation,  a  fricative  allophone  has  also  been  observed  in  at  least   Panare  and  Makushi.  Nasals  drop  back  to  the  velar  point  of  articulation.  
+
+gloss   µRQ¶   µKDLU¶   µKRXVH¶ µ  \DP¶   µQDPH¶  µPRXQWDLQ¶µIHFHV¶   µORXVH¶   µIOHVK¶   µEORRG¶   P-­C   *poko  *cipotØ  *ewotØ *  ²²   *ecetØ  *wØpØ   *wetØ   *yamØ   *punu*munu  
+
+Tam   Pem   Kap   Mak   Pan  
+
+pake   cipoti   yeutit   icaku   eceti   tipue  
+pk   cipok   ²²   cak   esek   wØk   p)k   cipok   ewØk   sak   ezek   wØk   pØ¶   FLER¶   yewØ¶   ²²   HVH¶   wØ¶   p)¶   LSR¶   yiwØ¶   FR¶   \LFH¶   L¶  
+
+weti   ²²   wek   ZH¶   ZH¶  
+
+cike   punu   micuku  
+aya1   pu1   mØ1   aya1   bu1   mØ1   aza1   pu1   mØ1   sØhp1   pu1   PHFKX¶  
+
+Table  8.  Cognate  Sets  Illustrating  Syllable  Reduction  in  the  Panare-­Pemóng  Macro-­Group  
+
+As   can   be   seen,   Tamanaku   does   not   share   in   either   of   the   phonological  innovations.  Panare  and  the  Pemóng  Group  share  in  the  loss   of  the  final  vowel  in  all  these  examples.  If  we  consider  debuccalization  to   be   a   progressive   process,   then   it   would   be   *C   >   k   >   '.   In   this   case,   we   could   reconstruct   both   loss   of   the   final   vowel   and   the   first   stage   of   debuccalization,   *C   >   *k,   to   the   PP   macro-­Group.   Then   the   subsequent   change   from   *k   >   '   would   be   independently   observed   in   Makushi   and   Panare,   with   allophony   already   seen  in   Kapóng   and   Pemóng   as   well.      In   Kapóng,  allophony  has  extended  all  the  way  to  gemination  of  a  following   word-­initial  obstruent,  or  even  deletion  (leaving  the  obstruent  voiceless  in   intervocalic  position,  where  voicing  would  otherwise  be  expected).  For  all   four  languages,  a  word-­final  nasal  (*m  /  *n)  >  s.  
+
+It   is   worth   observing   at   this   point   that   parallel   loss   of   a   word   final   vowel   has   been   observed   in   other   Cariban   languages,   although   not   so   widespread   nor   so   specifically   targeting   the   category   of   nouns.   In   SDUWLFXODUIXUWKHUH[DPLQDWLRQRIWKHKLVWRULFDOPDWHULDOVRQ&KD\PDDQG &XPDQDJRWRPD\UHYHDODSDWWHUQLQILQDOYRZHOORVVWKHUHDVZHOO$OVR as   noted   by   Meira   (2000)   for   the   Taranoan   Group,   syllable   reduction   appears  to  be  diffusing  through  the  lexicon  in  waves,  leading  to  numerous   cognates  in  which  some  members  of  the  group  show  reduction  and  others   do   not,   preventing   reduction   from   being   reconstructed   to   Proto-­Taranoan   for  those  roots.    When  you  add  in  the  possible  confounding  variable  of   the  
+
+20  
+
+AMERINDIA  n°28,  2003  
+
+extensive   contact   enjoyed   by   the   Cariban   languages   of   Venezuela   and   the   Guiana  Plateau,  more  data  will  certainly  lead  to  a  more  complicated  picture   for  this  particular  innovation.  
+
+4.2.  Loss  of  1+2  prefix,  gain  of  1+2  suffix  (source  unknown)  
+
+In  Proto-­Carib,  four  persons  were  morphologically  distinguished  in   personal  prefixes:  first,  second,  third,  and  first  person  dual  inclusive  (1+2).   The  Proto-­Carib  1+2  verbal  prefixes,  *-­kØc-­  µ$¶DQG*k(Ø)-­  µ2¶DQG the  possessive/object  of  postposition  prefix  *k(Ø)-­  µ¶DUHORVWLQ3DQDUH and   the   Pemóng   Group.   An   innovative   suffix   *-­n   (Mak.   -­nØ µ6¶ occurs   between   the   derivational   suffixes   and   the   inflectional   suffixes   in   Panare   and   two   of   the   three   Pemóng   Group   languages,   Makushi   and   Kapóng.    In  Kapón,  tKHVDPHVXIIL[FDQRFFXUDVµ2¶DQGLWFDQRFFXU in  a  wider  range  of  verbal  systems.      
+
+(1)   Panare  
+
+   a.   w-­    t    -­n      -­sa'  
+
+b.  w-­    t    -­n        -­sehpa     
+
+SA-­go-­1+2-­PERFECT  
+
+   SA-­go-­1+2-­FUTURE  
+
+µZH,QFOKDYHJRQHRXU,QFOKDYLQJJRQH¶  µZH,QFOZLOOJR¶  
+
+   c.   w-­      t    -­n        -­hp  
+
+d.  w-­    t    -­n          -­htépe     
+
+      SA-­go-­1+2-­PERFECT.INFERENTIAL  
+
+   SA-­go-­1+2-­DESIDERATIVE  
+
+µZH,QFOKDYHJRQHRXU,QFOKDYLQJJRQH¶  µZH,QFOZDQWWRJR¶  
+
+(2)  
+
+Kapóng  
+
+   a.   (u-­)go'man  -­n      -­tai     
+
+b.   Ø-­embaga-­nn-­tai  
+
+      (1-­)  remain-­1+2-­PAST2     
+
+   3A1O-­awaken-­1+2O-­PAST2  
+
+      µZH,QFOOLYHGUHPDLQHG¶  
+
+   µ+HZRNHXV,QFOXS¶  
+
+   c.   (u-­)go'man-­n-'aik     
+
+d.   kØr   ya    Ø-­w-­n-­sa  kong  mang  
+
+(1-­)  remain-­1+2-­IMPERFECTIVE.CERTAIN      3Sg  ERG  1O-­hit-­1+2O-­PERF  COLL  3.COP  
+
+      µZH,QFOOLYHUHPDLQDUHOLYLQJUHPDLQLQJ¶ µ  +HKDVKLWXV¶  
+
+(4)  Makushi  (Abbott  1991.50,  103)  
+
+   a.   es-­erinka-­n  sØrØrØ       DETR-­sing-­1:INCL  Speaker.Involvement  
+      µ:HDOOZLOOVLQJ¶  
+
+   c.   entamo'ka-­n  
+
+      eat-­1:INCL  
+
+     
+
+      µZHHDW¶  
+
+     
+
+b.   erepan-­nØ      eat.1:INCL     
+   µZHDUULYH¶     
+d.   epØrema-­n-­pai-­µQØkon         pray-­1:INCL-­HORT-­COLL  
+      µ/HWV¶DOOSUD\¶     
+
+Given   that   two   of   three   Pemóng   Group   languages   share   the   same   innovation   as   Panare,   it   is   safe   to   reconstruct   the   innovative   1+2   suffix   to   Proto-­Panare-­Pemóng   and   assume   that      Pemóng   has   subsequently   lost   it.  
+
+GILDEA  Sp.:  Proposing  a  New  Branch  for  the  Cariban  Language  Family  
+
+21  
+
+Perhaps  in  future  research,  some  dialects  of  Pemóng  will  be  found  that  still   utilize  -­n  µ¶  
+
+4.3  The  use  of  *-­sapo  µ$EV1]U¶ZLWKSHUVRQDOSUHIL[HVDQGLQPDLQFODXVHV    
+
+Clear  reflexes  of  this  Proto-­Carib  nominalizing  suffix  are  relatively   rare.   On   the   one   KDQG WKH\ DUH IRXQG LQ &KD\PD .DSyQ 0DNXVKL Pemón   and   Panare;;   on   the   other,   in   the   somewhat   distant   Parukotoan   Group,   in   languages   Hixkaryana   and   Waiwai.4   In   the   Parukotoan   languages,   a   verb   bearing   *-­sapo   cannot   be   possessed,   nor   can   it   bear   personal   prefixes.   Also,   the   form   is   rarely   used.   In   the   PP   Macro-­Group   languages,  the  verb  bearing  *sapo  is  obligatorily  possessed  by  its  notional   absolutive  (either  a  free  noun  or  prefix);;  further,  this  suffix  is  now  used  as   a   perfect/passive   inflection   in   all   four   languages,   suggesting   that   the   reanalysis  might  have  been  a  shared  innovation  inherited  by  all  four.  
+
+(5)  Panare      a.   wØtVD¶         Ø-­wØ-­t-­VD¶  
+
+b.   SpW\XPDVD¶      Ø-­pétyuma-­VD¶  
+
+      1S-­Sa-­go-­PERF  
+
+   1O-­beat-­PERF/PASS  
+
+µ,KDYHJRQH¶  
+
+   µ,KDYHEHHQEHDWHQ¶RUµVKHLWKDVEHDWHQPH¶  
+
+   c.   y-­ØkØtØ-­sa'      mn         manko    Toman      uya  
+
+      3-­cut-­PERF    is.INAN    mango  Thomas    AGT  
+
+      µ7KHPDQJRKDVEHHQFXWE\7KRPDV7KRPDVKDVFXWWKHPDQJR¶  
+
+(6)  Pemóng  
+a. SHPRQ\H¶VD¶PDQ   pemon  yepØ-­VD¶PDQ   person  arrive-­PERF  3.be   µ7KHPDQDUULYHG¶  
+
+b.   SHPRQHQQD¶SRVD¶      SHPRQHQQD¶So-­VD¶      person  return-­PERF      µWKHSHUVRQUHWXUQHG¶  
+
+(7)  Kapóng  
+a. Karoik  ya  tØiwØNDJX¶Q]DND¶NUDLPXGXQJEH      Karoik  ya  tØ-­iwØNDJX¶Q-­VDND¶NUD\PXGXQJEH   Karoik  ERG  3REFL-­house  paint-­PERF  green  ATTR  
+µ.DURLNSDLQWHGKLVKRXVHJUHHQ¶  
+b. ¶U   JDQJD\H¶VDN?   ¶U   gang  a-­yepØ-­sak?     what  for  2-­come-­PERF  
+
+                                                                              
+4  Derbyshire  (1999)  asserts  that  Carib  -­xpo  is  also  a  reflex  of  *-­sapo  rather  than  *-­tØpu,  as  I  propose  in   Gildea   1992/1998.   Until   now,   I   have   seen   no   compelling   evidence   to   favor   one  position   over   the   other,   but   if   it   is   really   a   reflex   of   *-­sapo   then   my   claim   about   the   unique   innovation   of   person-­ marking  on  the  *-­sapo  verb  in  the  PP  Macro-­Group  will  fall,  as  the  -­xpo  verb  in  Carib  takes  person-­ marking.    
+
+22  
+
+AMERINDIA  n°28,  2003  
+
+µ:KDWKDYH\RXFRPHIRU"¶  
+c. NLQJ\D\HQQR¶VDNPDQJ   king  ya  y-­ennogØ-­sak  mang   king  ERG  1-­send-­PERF  3.COP   µ7KH.LQJKDVVHQWPH¶  
+(8)  Makushi  (Abbott  1991.115,  118)   a.   a-­ko'man-­pØ'-­sa'      3-­remain-­ITERATIVE-­COMPLETIVE      µ+HKDVUHPDLQHGUHSHDWHGO\¶  
+
+b.   i-­nØmØ-­sa-­i'-­ya  wanØ-­pØ'      3-­leave-­COMPLETIVE-­3-­ERG  be-­PAST  
+   µ+HKDGOHIWLW¶  
+
+4.4.  Loss  of  the  Proto-­Carib  possession  /  Action  Nominalization  suffix  *-­rØ  
+
+This  innovation  has  been  discussed  already  in  section  3.2,  so  I  will   simply   summarize   here:   Proto-­Carib   *-­rØ   ! 7DPDQDNX -­ri   (probably   [-­rØ]   >   Panare,   Pemón,   Kapón,   Makushi   -­Ø;;   in   a   separate   development,   possessed  nominal  suffix  Proto-­Carib  *nØ  >  Panare  -­1  and  extends  to  most   possessed  nouns,  then  to  replace  *-­rØ  as  the  action  nominalizer.  
+Parallel   loss   of   *-­rØ   is   seen   in   other   Cariban   languages,   including   Wayana   and   Tiriyó,   and   what   looks   like   an   intermediary   stage   of   loss   is   seen   in   the   frequent   elision   of   the   vowel   (*-­rØ   >   -­r)   in   the   Parukotoan   Group   (Hixkaryana,   Waiwai,   Kaxuyana),   Chayma   and   Cumanagota.   The   Tiriyó   loss   is   certainly   a   separate   innovation,   as   Meira   (2000.69-­70)   reconstructs   *-­rØ   to   Proto-­Taranoan,   with   the   loss   in   Tiriyó   being   very   recent  (actually  within  the  last  century).  
+
+Conclusion  
+
+This  paper  has  pointed  out  a  number  of  possible  shared  innovations   that   link   a   number   of   geographically   contiguous   Cariban   languages   into   a   branch,   which   I   propose   to   call   the   Venezuelan   Branch.   Most   of   these   proposed  innovations  are  in  the   area  of   morphosyntax,   and   nearly  all   are   somewhat  tentative  due  to  the  absence  of  rich  grammatical  descriptions  for   most   of   the   languages   in   question.   Further   questions   might   arise   about   whether   these   innovations   are   in   fact   limited   to   the   proposed   groupings.   For   instance,   some   of   the   innovations   proposed   for   the   restricted   Macro-­ Groups  (both  TPP  and  PP)  might  in  fact  be  found  in  other  languages  in  the   Venezuelan   Branch;;   others   might   be   found   in   languages   that   I   do   not   propose   to   belong   in   the   Venezuelan   Branch   (for   instance,   the   names   :D\DQDDQG7LUL\yFRPHXSVHYHUDOWLPHVDV³SDUDOOHOLQQRYDWRUV´(YHQ the   proposed   shared   innovations   in   phonology   come   primarily   from   phonological  analyses  of  the  individual  languages,  and  not  from  extensive  
+
+GILDEA  Sp.:  Proposing  a  New  Branch  for  the  Cariban  Language  Family  
+
+23  
+
+cognate   sets.   And   finally,   I   cannot   ignore   the   possibility   that   the   TPP   Macro-­Group   looks   more   similar   to   me   than   it   might   to   other   researchers   simply   because   I   have   the   personal   experience   of   working   closely   with   3DQDUH $NDZDLR DQG 7DPDQDNX ZKLOH , KDYH QR VXFK personal   experience  with  the  other  languages  in  the  putative  Venezuelan  Branch.5  
+Ultimately,   a   reliable   classification   of   the   entire   family   will   only   come  into  being  as  a  result  of  solid  descriptive  work  coupled  with  careful   comparison   and   reconstruction   at   the   group-­level.   In   the   Cariban   family,   WKHRQO\ H[DPSOHRIVXFK ZRUN WRGDWH LV 0HLUD¶V UHFRQVWUXFWLRQRI Proto-­Taranoan,   which   reconstructs   phonology,   lexicon,   and   both   inflectional   and   derivational   morphology.   Particularly   noteworthy   is   how   Meira  collected  extensive  personal  field  notes  on  two  of  the  three  Taranoan   languages,   and   how   he   compiled   and   evaluated   all   previous   sources   of   information   on   all   three   of   the   individual   languages   in   the   group.   Future   comparative  work  in  the  Cariban  family  can  now  take  the  Taranoan  Group,   and  its  reconstructed   forms,   as  the   comparator,   and   thus   arrive   at   a  more   accurate   overall   picture.   This   is   the   model   I   hope   to   work   towards,   one   group   at   a   time,   until   the   comparative   picture   of   the   overall   family   becomes  clearer.  
+But   despite   the   preliminary   and   tentative   nature   of   the   conclusions   that   can   be   drawn   from   the   data   presented   here,   it   is   necessary   to   move   forward   with   new   classificatory   hypotheses   to   test.   We   cannot   continue   indefinitely   to   cite   and   recite   classifications   that   we   know   are   deeply   flawed,  simply  because  we  cannot  yet  do  the  job  the  way  it  ultimately  must   be   done.      Perhaps   in   the   long   term,   we   will   disconfirm   all   of   the   classificatory   hypotheses   that   arise   from   the   facts   as   they   appear   at   this   point  in  time.  Even  in  that  case,  I  would  hope  that  this  paper  is  still  seen  as   making   a   contribution   by   presenting   a   series   of   facts   that   require   further   investigation,   and   by   encouraging   and   providing   direction   to   additional   descriptive  work  so  that  in  the  future,  better  facts  can  eventually  point  to  a   better  conclusion.  
+                                                                              
+5  Of  course,  I  do  have  personal  experience  with  a  reasonable  number  of  Cariban  languages  in  Brazil,   Surinam   and   French   Guiana,   including   Akuriyó,   Apalaí,   Carib,   Hixkaryana,   Ikpéng,   Kaxuyana,   Tiriyó,   Waiwai   and   Wayana.      I   have   not   been   biased   by   that   experience   to   propose   any   of   these   languages   for   membership   in   the   Venezuelan   Branch,   nor   would   I   propose   a   special   branch   to   encompass   all   of   them.   My   caveat   is   more   intended   as   an   acknowledgement   that   additional   NQRZOHGJH RI 3DQDUH $NDZDLR DQG 7DPDQDNX KDV JLYHQ PH WKH RSSRUWXQLW\ WR REVHUYH SDUDOOHOV more   readily,   an   opportunity   that   will   not   be   forthcoming   for   other   languages   of   the   proposed   Venezuelan   Branch   until   clear,   reliable   descriptive   work   is   done   for  those   languages   that   are   still   VSRNHQ DQG VROLG DUFKLYDO ZRUN RQ WKH H[WHQVLYH WK FHQWXU\ PDWHULDOV IRU &KD\PD DQG &XPDQDJRWD  
+
+24  
+
+AMERINDIA  n°28,  2003  
+
+References  
+ABBOTT,  Miriam     1991  Macushi.   Handbook   of   Amazonian   Languages,   vol.   3,   ed   by   Desmond   C.   Derbyshire   and   Geoffrey   K.   Pullum,   23-­160.     Berlin:  Mouton  de  Gruyter.  
+ÁLVAREZ,  José   1998  Split   ergativity   and   complementary   distribution   of   NPs   and   pronominal   affixes   in   Pemón   (Cariban).   Opción   25.69-­94.   Maracaibo,  Venezuela:  Universidad  de  Zúlia.   1999a.   Construcciones  progresivas  en  pemón  e  otras  lenguas  caribes.   30  pp.  ms.  Revised  version  of  1996  presentation:  Construcciones   progresivas   en   pemón   e   panare:   ¿Nominalización   o   reanalisis?   Presented   at   IX   Jornadas   de   Lingüística   ALFAL-­AsoVAC,   Barquisimetro,  November  17-­23.     1999b.  Estrategias  de  relativización  en  pemón  (Caribe).  21  pp.  ms.  
+ARMELLADA,  Cesário  de     1943a.   Grammatica   de   la   Lengua   Pemón,   vol.   I.   Caracas:   Artes   Gráficas.      
+ARMELLADA,  Cesário  de  and  Jesús  OLZA     1994   Gramática   de   la   Lengua      Pemón   (Morfosintaxis).   San   Cristóbal,   Venezuela:  Universidad  Católica  del  Táchira.  
+DERBYSHIRE,  Desmond  C.     1999  Carib.   The   Amazonian   Languages.      Ed.   by   R.M.W.   Dixon   and   Alexandra   Y.   Aikhenvald,   23-­64.      Cambridge:   Cambridge   University  Press.  
+DURBIN,  Marshall     1977   A   survey   of   the   Carib   language   family.   Carib   Speaking   Indians,   Culture,   and   Society,   ed   by   Ellen   Basso,   23-­38.   Tucson:   University  of  Arizona  Press.        
+FOX,  Desrey     2000   Grammatical   and   lexical   variation   within   the   Akawaio   (Cariban)   language   in  the   village   of   Waramadong.   Workshop   in   American   Indian  Languages,  U.C.  Santa  Barbara.  
+
+GILDEA  Sp.:  Proposing  a  New  Branch  for  the  Cariban  Language  Family  
+
+25  
+
+GILDEA,  Spike     1989   Simple  and  Relative  Clauses  in  Panare.  M.A.  Thesis,  Department   of  Linguistics,  University  of  Oregon.   1995  A   comparative   description   of   syllable   reduction   in   the   Cariban   language   family.   International   Journal   of   American   Linguistics   61.62-­102.   1998   On  Reconstructing  Grammar:  Comparative  Cariban  Morphosyntax.   Oxford:  Oxford  University  Press.   2000   The   Innovative   Progressive  in   Akawaio   (Cariban).      Workshop  on   Amerindian  Languages,  University  of  California,  Santa  Barbara.  
+GILIJ,  Filippo  Salvatore     1780-­1784  Saggio  di  Storia  Americana.  Vol.  1-­3.  Rome.   1965  (1780-­84)   Ensayo   de   Historia   Americana   (Translation   of   Gilij   1780-­1784,  by  Antonio  Tovar),  Vol.  1-­3.  Caracas:  Italgráfica.  
+GIRARD,  Victor     1971   Proto  Carib  Phonology.  University  of  California,  Berkeley,  Ph.D.   dissertation.      
+GOEJE,  Claudius  H.  de     1909   Etudes  Linguistiques  Caraïbes.    Amsterdam:  Verhandelingen  van   de   Koninklijke   Akademie   van   Wetenschappen,   afdeeling   letterkunde,  n.r.  10  (3)             1946   Etudes  Linguistiques  Caraïbes.    Amsterdam:  Verhandelingen  van   de   Koninklijke   Akademie   van   Wetenschappen,   afdeeling   letterkunde,  n.r.  49  (2)      
+HEINE,  Bernd     1993  Auxiliaries:   Cognitive   Forces   and   Grammaticalization.   New   York:  Oxford  University  Press.   1994  Grammaticalization   as   an   explanatory   parameter.   Perspectives   on   Grammaticalization,   ed   by   William   Pagliuca,   255-­287.   Amsterdam:  John  Benjamins.  
+KAUFMAN,  Terrence  K.       1994  The   native   languages   of   South   America.   $WODV RI WKH :RUOG¶V Languages.   Ed.  by   Christopher  Mosely   and   R.   E.   Asher,   46-­76.     New  York:  Routledge.  
+
+26  
+
+AMERINDIA  n°28,  2003  
+
+MATTEI-­MULLER,  Marie-­Claude     1994  Diccionario   Ilustrado   Panare-­Español,   indice   Español-­Panare.   Caracas:  Comisión  Quinto-­Centenário.   1999  Mapoyo,   Yawarana,   two   variants   of   a   same   Carib   language:   New   outlook  on  ergativity  and  classification  of  Carib  Languages.  21pp.  ms.   2000   Pémono:   lost   link   between   the   Mapoyo   and   the   Yawarana,   ergative   languages  of  the  northwest  Guyana  of  Venezuela.  19  pp.  ms.   to  appear.  Voir  et  Savoir  en  Panaré.  L'énonciation  médiatisée  II,  Zlatka   Guentcheva   &   Jon   Landaburu   (eds.),   Bibliothèque   de   l'Information  Grammaticale,  Louvain-­Paris:  Peeters.    
+MATTEI-­MULLER,  Marie-­Claude  and  Paul  HENLEY     1990  Los   Tamanaku:   su   lengua,   su   vida.   San   Cristobal:   Universidad   Católica  del  Táchira.          
+MEIRA,  Sérgio     1999   A  Grammar  of  Tiriyó.  Ph.D.  Dissertation,  Rice  University.   2000  A   Reconstruction  of  Proto-­Taranoan:   Phonology  and   Morphology.   Lincom  Studies  in  Native  American  Linguistics  30.  Munich:  Lincom   Europa.  
+MIGLIAZZA,  Ernest  C.       1985   Languages   of   the   Orinoco-­Amazon   Region:   current   status.   South   American   Indian   Languages:   Retrospect   and   Prospect,   ed   by   Harriet   E.   Manelis   Klein   and   Louisa   R.   Stark,   286-­303.   Austin:   University  of  Texas  Press.          
+WILLIAMS,  James     1932   Grammar   notes   and   vocabulary   of   the   language   of   the   Makuchi   Indians   of   Guiana.   St.   Gabriel-­Mëdling   near   Vienna,   Austria:   Verlag  der  Internationalen  Zeitschrift  Anthropos.      
+  
+
+

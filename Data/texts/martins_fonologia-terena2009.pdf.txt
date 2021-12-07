@@ -1,0 +1,1903 @@
+UNIVERSIDADE DE SÃO PAULO FACULDADE DE FILOSOFIA, LETRAS E CIÊNCIAS HUMANAS DEPARTAMENTO DE LÍNGUAS CLÁSSICAS E VERNÁCULAS PROGRAMA DE PÓS-GRADUAÇÃO EM FILOLOGIA E LÍNGUA
+PORTUGUESA
+FONOLOGIA DA LÍNGUA TERENA
+Cosme Romero Martins
+Dissertação apresentada ao Programa de PósGraduação em Filologia e Língua Portuguesa, do Departamento de línguas Clássicas e Vernáculas da Faculdade de Filosofia, Letras e Ciências Humanas da Universidade de São Paulo, para a obtenção do Título de Mestre em Letras.
+Orientador Prof. Dr.Waldemar Ferreira Netto
+São Paulo 2009
+1
+
+na tv evaham jatu nasam / na tvam neme janadhipah na caiva na bhavisyamah / sarve vayam atah param
+Bhagavad-Gita 2:12
+Nunca houve um tempo em que eu não existi, nem você, nem todos estes reis, nem no futuro nem um de nós deixará de existir.
+Em memória à minha querida mãe.
+2
+
+AGRADECIMENTOS
+Ao povo Terena da aldeia de Cachoeirinha/MS pela acolhida hospitalidade e colaboração com essa pesquisa. Ao índio Terena Prof. Márcio Pedro (estudante de Educação Indígena/USP). Ao Prof. Dr. Waldemar Ferreira Netto pelo apoio e orientação deste trabalho. À Profa Dra. Rosane de Sá Amádo, ao Prof. Dr. Mário E. Viaro, ao Prof. Dr. Waldemar Ferreira Netto, à Prof.a Dra Luciana R. Storto, ao Prof. Dr. Didier Demolin, Prof. Dr. W. Leo Wetzels, à Profa. Raquel S. Santos, à Profa Dra Filomena Spatti Sândalo pelos conhecimentos transmitidos, durante minha jornada acadêmica pela USP e UNICAMP.
+Ao Departamento de Letras Clássicas e Vernáculas (DLCV/USP). A toda a minha família, ao meu pai Isaias Martins Rosa, às minhas irmãs Clélia e Cleide e aos meus irmãos Gilson, Clever e Damião.
+3
+
+SUMÁRIO
+RESUMO ABSTRACT ABREVIAÇÕES CAPÍTULO 1 A LÍNGUA TERENA E A FAMÍLIA ARUÁK 1.1 Classificação das Línguas Aruák no Brasil................................................................. 9 1.2 Análise comparativa de palavras................................................................................. 10 CAPÍTULO 2. O SISTEMA FONOLÓGICO SEGEMENTAL DA LÍNGUA TERENA 2. INVENTÁRIO FONÉTICO.......................................................................................... 13 2.1 Inventário dos fones consonantais............................................................................. 14 2.2. Inventário dos fones vocálicos................................................................................... 20 2.3 INTERPRETAÇÃO FONOLÓGICA........................................................................ 27 2.3.1 SEGMENTOS CONSONANTAIS.......................................................................... 27 2.3.1.1 Contraste em ambiente idêntico e análogo............................................................ 27 2.3.1.2 Distribuição complementar................................................................................... 30 2.3.1.3 Variação livre ....................................................................................................... 32 2.3.1.3.1 O vozeamento pós-nasal ................................................................................... 34 2.3.1.3.2 Contornos nasais ............................................................................................... 34 2.3.1.4 Quadro dos fonemas consonantais........................................................................ 36 2.3.2 SEGMENTOS VOCÁLICOS.................................................................................. 36 2.3.2.1 Contraste em ambiente idêntico e análogo............................................................ 36 2.3.2.2 Distribuição complementar.................................................................................... 38 2.3.2.3 Variação livre........................................................................................................ 39
+4
+
+2.3.2.4 A vogal central [ö]................................................................................................ 40 2.3.2.5 Alongamento vocálico.......................................................................................... 41 2.3.2.6 Plot dos fonemas vocálicos................................................................................... 41 CAPÍTULO 3. A SÍLABA EM TERENA 3.1 Padrões silábicos........................................................................................................ 44 3.2 A oclusiva glotal [?] em final de palavra................................................................... 49 3.3 Ressilabificação.......................................................................................................... 50 3.3.1 Ditongação............................................................................................................... 50 3.3.2 Degeminação............................................................................................................ 51 CAPÍTULO 4. O ACENTO EM TERENA 4.1 Uma teoria métrica paramétrica................................................................................. 52 4.2 O acento em Terena.................................................................................................. 53 4.3 O acento nos substantivos......................................................................................... 54 4.3.1 Classe de substantivos possuídos inalienavelmente.............................................. 55 4.3.2 Classe de substantivos possuídos alienavelmente................................................. 57 4.3.2.1 Formação das formas regulares.......................................................................... 57 4.3.2.2 Formação das formas irregulares........................................................................ 57 4.4 Classe de substantivos não-possuídos....................................................................... 58 4.5 Língua tonal ou entoacional?.................................................................................... 58 4.5.1 Correlatos acústicos do acento.............................................................................. 60 4.6 O acento nos verbos.................................................................................................. 62 4.6.1 Verbos da classe [-So]............................................................................................. 62 4.6.2 Verbos da classe [-a]............................................................................................... 62
+5
+
+4.6.2.1 Formação do Negativo dos verbos da classe [-a]............................................... 62 4.6.3 Usos do acento da 1a e 2a posição para os verbos das classes [-So] e [-a]............. 63 4.6.4 Padrões acentuais para os verbos da classe [-So]................................................... 63 4.6.5 Regra de construção da grade métrica do acento primário (substantivos e verbos).............................................................................................................................. 64 4.6.6 O acento em final de palavra.................................................................................. 66 4.6.6.1 Substantivos......................................................................................................... 66 4.6.6.2 Verbos.................................................................................................................. 66 4.6.7 Elisão acentual no nível frasal................................................................................ 68 5. CONSIDERAÇÕES FINAIS...................................................................................... 72 ANEXO I Palavras de Empréstimo do Português em Terena........................................ 73 6 REFERÊNCIAS BIBLIOGRÁFICAS......................................................................... 77
+6
+
+RESUMO
+O presente estudo tem como objeto de análise uma descrição preliminar do sistema fonológico da língua Terena, língua indígena falada na aldeia de Cachoeirinha na região do Mato Grosso do Sul, pertencente à família Aruák.
+Nosso objetivo foi o de analisar e descrever as unidades distintivas, a estrutura silábica e o padrão acentual que ocorrem nesta língua.
+No nível segmental foi estabelecido um quadro fonético-articulatório do qual se pôde determinar as unidades distintivas da língua.
+No nível silábico foram identificados os padrões silábicos – (C) V (V). Em relação ao nível acentual, a língua apresenta um sistema de pés binários com cabeça à esquerda e insensível ao peso silábico (troqueu silábico). Para a análise dos dados foi utilizado o modelo fonêmico estruturalista proposto por Pike (1947) bem como dos modelos fonológicos não-lineares – autossegmental, prosódico e métrico. O trabalho é composto de quatro partes. No capítulo 1 é apresentada uma classificação das línguas da família Aruák no Brasil. No capítulo 2 a parte segmental (unidades distintivas e alofones). No capítulo 3 a estrutura silábica e no capítulo 4 o padrão acentual. Por fim, apresentamos um estudo (Anexo I) sobre palavras de empréstimo do português em Terena.
+Palavras-chave Línguas indígenas – Família Aruák – Língua Terena – Fonologia
+7
+
+ABSTRACT
+The objective of this study is to present a preliminary analysis of Terena’s phonological system. An indigenous language spoken in Brazil at the village of Cachoeirinha in the southwestern of Mato Grosso do Sul and classified as belonging to the Arawakan linguistic stock.
+Our goal is to analyse and describe the phonemic inventory, the syllabic structure and the stress pattern of this language.
+Linguistic phonological models such as the structuralist phonemic model proposed by Pike (1947) as well as non-linear phonological ones (autossegmental, prosodic and metrical) will be used to analyse the data.
+This study is composed of four parts. Chapter one presents a classification of Arawakan languages in Brazil. Chapter two describes its segmental level (distinctive features and allophones). Chapter three the syllabic structure and chapter four its stress pattern. Finally, we present a study about words borrowed from Portuguese in Terena (Appendix I).
+Keywords Indigenous languages – Arawakan family – Terena language - Phonology
+8
+
+LISTA DE ABREVIATURAS E SÍMBOLOS
+FONOLOGIA H* - Tom Alto com Acento Nuclear H% - Tom de Fronteira H* + L - Tom Complexo ou Contorno Entoacional L - Tom Baixo w - Palavra fonológica
+φ - Frase fonológica
+MORFOLOGIA (1a p.sing). primeira pessoa do singular (Obj3ªp.s). terceira pessoa do singular (objeto) R - raiz CT - consoante temática SV - sufixo verbal N - nominalizador PNE - possuído não-especificamente PE - possuído especificamente RE - reflexivo DE - demonstrativo Asp.Pr. - aspecto progressivo
+9
+
+LISTA DE QUADROS E FIGURAS CAPÍTULO 1 QUADRO 1 Análise comparativa de palavras das línguas da família Aruák no Brasil........... 11 CAPÍTULO 2 QUADRO 1 Tabela dos fones consonantais ............................................................................ 14 QUADRO 2 Tabela dos fones vocálicos.................................................................................. 21 FIGURA (1) Forma de onda e espectrograma da palavra [più^ h•]........................................... 35 FIGURA (2) Forma de onda e espectrograma da palavra [Ébi^ù h•].......................................... 35 QUADRO 3 Tabela dos fonemas consonantais....................................................................... 36 FIGURA (3) Plot dos sons vocálicos juntamente com a vogal central [ö] ............................. 41 FIGURA (4) Plot dos fonemas vocálicos................................................................................. 42 QUADRO 4 Ponto de articulação e grau de abertura vocálica................................................ 43 CAPÍTULO 3 QUADRO 1 Tabela de padrões silábicos............................................................................... 46 FIGURA (1) Forma de onda e espectrograma da palavra [ka.li.v•.n•@?]............................... 50 CAPÍTULO 4 QUADRO 1 O acento nos substantivos................................................................................... 54 FIGURA (1) Forma de onda, espectrograma e F0 da palavra [í.tùi]........................................ 59 FIGURA (2) Forma de onda, espectrograma e F0 da palavra [iù^ ti] ....................................... 60 FIGURA (3) Forma de onda, espectrograma e F0 das palavras [siù^m•] - [si.@mù•] - [sim•ù^] ................................................................................................................................................. 67 FIGURA (4) Forma de onda, espectrograma e F0 da frase [ni.k•^ù ti] .................................... 68
+10
+
+FIGURA (5) Forma de onda, espectrograma e F0 da frase [ni.k•.ti la.pa^ù pE] .................................................................................................................................................. 69 FIGURA (6) Forma de onda, espectrograma e F0 da frase [tu^ù ti] .......................................... 70 FIGURA (7) Forma de onda, espectrograma e F0 da frase [tu ti ma^ù Ri.a] ............................. 71
+11
+
+1. JUSTIFICATIVA O Brasil conta com 180 línguas indígenas ainda faladas; entretanto a maioria destas línguas
+estão apenas iniciando suas descrições lingüísticas, como é o caso da língua Terena. Esta pesquisa busca oferecer contribuições relevantes para as teorias lingüísticas bem como
+de tentar resgatar a cultura Terena: rica de uma linguagem e de uma tradição cultural única. Embora já contássemos com alguns trabalhos realizados com essa língua por alguns
+pesquisadores do SIL (Summer Institute of Linguistics) tais como Bendor-Samuel (1960, 1961 e 1962) e Ekdahl & Butler (1979), no entanto, esta é a primeira tentativa em formalizar seu sistema fonológico a partir de modelos fonológicos não-lineares (autossegmental, prosódico e métrico).
+12
+
+1.2 OBJETIVOS Nosso objetivo é o de apresentar uma análise preliminar do sistema fonológico da língua
+Terena buscando descrever os seguintes tópicos: a) elaborar um inventário do sistema fonético-articulatório da língua Terena. b) analisar os fonemas e alofones da língua. c) descrever e analisar a estrutura silábica. d) analisar preliminarmente o padrão acentual.
+13
+
+1.3 METODOLOGIA Os dados estudados foram coletados em pesquisa de campo. A coleta deste material foi
+realizada utilizando-se de um gravador portátil digital da marca Sony, modelo US-395. Em seguida, as gravações foram transferidas para um computador e analisadas no software – PRAAT versão 4.6.01 (Boersma & Weenink 2007). As palavras e frases foram então transcritas foneticamente, utilizando a tabela do Alfabeto Fonético Internacional (IPA).
+Grande parte da população das comunidades Terena localizadas no estado do Mato Grosso do Sul não mantém o uso da língua tradicional, senão em algumas áreas específicas, como no caso da Aldeia Indígena Cachoeirinha no município de Miranda, com uma população de aproximadamente 19.000 índios. Perfil dos informantes: a maioria deles, professores indígenas Escolaridade: graduação em Educação Idade média: 28 anos
+14
+
+CAPÍTULO 1 A LÍNGUA TERENA E A FAMÍLIA ARUÁK
+1.1 Classificação das Línguas da Família Aruák no Brasil Do ponto de vista da classificação genética, a língua Terena é considerada como
+pertencente à família Aruák ou Arawák (Rodrigues, 1986:68). De acordo com Aikhenvald (2001), Aruák é a família lingüística que tem maior número
+de línguas na América do Sul. As línguas da família Aruák no Brasil se acham concentradas no oeste de Mato Grosso,
+Brasil Central (Alto Xingu) e nas regiões do Amazonas. Segundo Rodrigues (1986) as línguas faladas no noroeste do Brasil incluem o Banawá
+do Içana, o Warekéna, o Tariana e o Baré. Essas línguas se distribuem ao longo de todo o curso dos rios Içana e Xié, afluentes do rio Negro, no extremo norte do Estado do Amazonas.
+No rio Branco, ao norte de Boa Vista, em Roraima, habitam os Wapixána enquanto os Palikúr vivem na bacia do rio Oiapoque, no Amapá.
+Ao sul do rio Amazonas há quatro áreas de línguas da família Aruák. Uma está no sudoeste do Estado do Acre, e compreende as línguas Apurinã (ou Ipurinã), ao longo do rio Purus; Piro, falada pelos Manitenéri e pelos Maxinéri, no rio Iaco, afluente do alto Purus; e Kámpa, no alto rio Juruá.
+Outra área ao sul do Amazonas fica no oeste do Estado de Mato Grosso, na região dos formadores do rio Juruena (afluente do Tapajós), onde se falam as línguas Paresí (ou
+15
+
+Halití) e Salumã. A terceira área é o alto Xingu, onde ainda são faladas três línguas da família Aruák: o Mehináku, o Waurá e o Yawalapiti.
+A última área é a da língua mais meridional da família Aruák, o Terena (Tereno), que é falado na região dos rios Aquidauana e Miranda, afluentes do rio Paraguai, no Estado de Mato Grosso do Sul.
+
+FAMÍLIA (ARAWÁK, MAIPURE)
+
+LÍNGUAS
+Apurinaâ (Ipurinaâ) Banawa do Içana Baré Kampa (Axininka) Mandawáka Palikúr Paresí (Arití, Halití) Piro
+Salumaâ (Enawene-Nawe) Tariana Terena (tereno) Wapixana Warekena Waurá Yawalapití
+
+DIALETOS
+Manitenéri Maxinéri Yurupari Tapúya (lyemi)
+
+1.2 Análise comparativa de palavras Demonstramos a seguir uma análise comparativa de palavras das línguas da família
+Aruák no Brasil (Rodrigues, 1986).
+
+16
+
+Línguas da Família Aruák
+
+palavras Karútana Warekéna Terena Baré
+
+Palikúr Wapixana
+
+língua
+
+inene
+
+enene
+
+nene
+
+nene
+
+nene
+
+nenuba
+
+água
+
+uni
+
+uni
+
+une
+
+uni
+
+une
+
+wene
+
+sol
+
+kamui
+
+kamoi
+
+kaSe
+
+kamuhu kamoi
+
+kamoo
+
+mão
+
+kapi
+
+kapi
+
+vo?u
+
+kabi
+
+iwakti
+
+kae
+
+pedra
+
+hipa
+
+ipa
+
+------
+
+tiba
+
+tipa
+
+keba
+
+anta
+
+hema
+
+ema
+
+Quadro (1)
+
+kamo
+
+tema
+
+aludpikli kudoi
+
+A pequena amostra de palavras da família Aruák acima ilustra a regularidade dominante
+
+na derivação das línguas de uma família a partir de uma língua pré-histórica ou proto-
+
+língua, neste caso o Proto-Aruák.
+
+17
+
+CAPÍTULO 2 O SISTEMA FONOLÓGICO SEGEMENTAL DA LÍNGUA TERENA
+Para uma análise fonêmica da língua Terena adotaremos o modelo proposto por Pike (1947). Um dos objetivos dessa análise é definir quais são os sons de uma língua que têm valor distintivo, ou seja, servem para distinguir palavras. Sons que estejam em oposição – por exemplo [p] e [m] – [po^ùhö] “pato” [mo^ùhö] “brinquedo” - são caracterizados como unidades fonêmicas distintas e são denominados fonemas.
+O procedimento habitual de identificação de fonemas é buscar duas palavras com significados diferentes cuja cadeia sonora seja idêntica. As duas palavras constituem um par mínimo. Dizemos que o par mínimo [po^ùhö] – [mo^ùhö] caracteriza os fonemas /p,m/ por contraste em ambiente idêntico, ou seja, quando há diferença apenas em um segmento em cada palavra do par mínimo.
+Quando pares mínimos não são encontrados podemos caracterizar os dois segmentos em questão como fonemas distintos pelo contraste em ambiente análogo, ou seja, quando há diferença em relação a mais de um segmento. Po exemplo, no par de palavras “p•.kE@.?ùE/ m•@.kùE.RE” além da diferença segmental de [p] e [m] temos a diferença entre [?] e [R].
+Se não conseguirmos caracterizar dois segmentos como fonemas distintos devemos buscar evidência para caracterizá-los como alofones de um mesmo fonema.
+Alofones são variações de um mesmo fonema sem que haja mudança de significado. Por exemplo, em português, as consoantes /t/ e /d/ têm pronúncias alternativas como [t] ou [tS] e
+18
+
+[d] ou [dZ] respectivamente, quando seguidas da vogal /i/. Ex: tia [ÈtSia] ou [Ètia], dia [ÈdZia]
+
+ou [Èdia].
+
+/ t /--- /fonema/
+
+[Ètia] [ÈtSia]---[alofones]
+
+Como podemos observar acima, há dois níveis de representação dos sons – o nível fonológico (mental/abstrato) – em que o fonema é representado entre barras / / e o nível fonético (articulatório/físico) em que o alofone é representado entre colchetes [ ].
+Quando diferentes sons são realizações de um único fonema, a relação entre essas variantes pode ser de mais de dois tipos diferentes.
+No primeiro tipo os alofones ou variantes de um fonema são identificados por meio do método de distribuição complementar. Quando dois segmentos estão em distribuição complementar eles ocorrem em ambientes exclusivos. Em outras palavras, onde uma das variantes ocorre, a outra variante não ocorrerá. Por exemplo, no português brasileiro, o fonema /l/, em posição pré-vocálica (CV), realiza-se como dental ou alveolar [l]. Exemplos: lado, sala. Em posição pós-vocálica (VC), realiza-se como vocalizado [w]. Exemplos: alto, mel.
+No segundo tipo os alofones não dependem do contexto e são chamados de variantes livres. Dois segmentos em variação livre ocorrem no mesmo ambiente sem prejuízo de
+
+significado. Por exemplo, em Terena os sons consonantais [S] e [tS] são variantes livres do
+
+fonema /S/ = [ËZE.?é.SùA] - [ËZe.?é.tSùA] “meu filho”.
+
+2.INVENTÁRIO FONÉTICO
+
+19
+
+Para entendermos o funcionamento do sistema fonológico de uma língua, precisamos fazer um levantamento dos fones que nela ocorrem e depois passar a examiná-los para verificar quais são distintivos ou não nessa língua.
+
+2.1 Inventário dos fones consonantais Foram encontrados vinte e quatro sons consonantais conforme descrito abaixo.
+
+Oclusiva Fricativa
+
+Bilabial Labio- Alveolar Palatal
+
+dental
+
+[p]
+
+[t]
+
+[v]
+
+[s]
+
+[S]
+
+Velar [k]
+
+Glotal [?]
+[h] [ú]
+
+Africada
+
+Nasal
+
+[m]
+
+Pré-nasalizada [Éb]
+
+[tS]
+
+[n]
+
+[ø ]
+
+[<d] [<z] [ødZ] [ËZ] [Ôg]
+
+Lateral Tepe Aproximante [w]
+
+[l]
+
+[lJ]
+
+[R]
+
+[j]
+
+Quadro (1). Tabela dos fones consonantais.
+
+O acento circunflexo nas palavras abaixo denota alongamento vocálico e tom descendente e o acento agudo ao alongamento da consoante seguinte e tom nivelado.
+
+[p] Segmento oclusivo bilabial desvozeado [più^ h•] ele foi [i.@pù•.v•] roupa dele
+20
+
+[paù^ h•] boca dele
+[t] Segmento oclusivo alveolar desvozeado [tu^ù ti] cabeça dele [tu^ù Ru] touro [i.tú.kù•] fazer
+[k] Segmento oclusivo velar desvozeado [•@.vù•.ku] casa dele [Si. ki^ù Si] óleo [ki^ù lu] quilo
+[?] Segmento oclusivo glotal desvozeado [la.ká.?ùi.ti] molhado [ka.?a.ri.@nùE.ti] ele está doente [ta. pi^ù ?i] galinha
+[v] Segmento fricativo labiodental vozeado [va^ù ne] objetos (para vender) [i.vá.tùa.k•] ele senta
+21
+
+[úE.vE^ù ti] pé
+[s] Segmento fricativo alveolar desvozeado [si^ù m•] ele veio [i.su.k•.aù^ ti] ele está batendo nele [si^ù na] cunhado
+[S] Segmento fricativo alveopalatal desvozeado [Su^ù na] ele ficou forte [Se.?é.Sùa ] filho dele [•.mí.Sù•.nE] coração dele
+[h] Segmento fricativo glotal desvozeado [pí.hù•] quando ele foi [t•@.hùE] sino [jE@.hùa.pu] pode ir
+[ú] Segmento fricativo glotal vozeado [úi.Ôâ ga] Vamos/ Até logo. [úE^ù vE] o pé dele
+22
+
+[i.úa^ù Ro.ti] até amanhã
+[tS] Segmento africado alveopalatal desvozeado [a.úö a.úö Ôgí.tSù•.a] continuei esfregando-o [ËZE.?E@.tSùA] meu filho [é.tSùo.a] ele sabe
+[m] Segmento nasal bilabial vozeado [ma^ù k•] corda [E@.nùo.mE.a] cunhado dele [pi.h•.tí.mù•] ele irá
+[n] Segmento nasal alveolar vozeado [S•@J.nùa.e] ano [n•^ù nE.ti] face [i.s•@.nùEW] o pensamento dele
+[ø] Segmento nasal palatal vozeado [øo.né.tùi] planta [Ébú.øùE.ka] boneca
+23
+
+[øo^ùøo] crista
+[Éb] Segmento pré-nasalizado bilabial vozeado [Ébiù^ h•] eu fui [Éba^ù h•] minha boca [Ébi.úa@.pùa.v•] estou voltando para casa
+[<d] Segmento pré-nasalizado alveolar vozeado [<du^ù ti] minha cabeça [<daù^ ki] meu braço [ú.nùa.â <di] eu estou bem
+[<z] Segmento pré-nasalizado alveolar vozeado [<ziù^ m•] eu vim [<zá.?ùa] meu pai [ iâ.<z•@.nùEW] meu pensamento
+[ËdZ] Segmento pré-nasalizado alveopalatal sonoro [ËdZe.?e.@tSùA] meu filho [e.@ËdZùo.a] eu o conheço
+24
+
+[ËdZu.i] juiz
+[ËZ] Segmento pré-nasalizado palatal vozeado [ËZe.?é.Sùa] meu filho [aâ.ËZá.?ùa.S•] eu gosto [oâ.mí.ËZù•.nE] meu coração
+[Ôg] Segmento pré-nasalizado velar vozeado [•@.vùoâ.Ôgu] minha casa [noâ.Ôgù•.nE] eu preciso [Ôga^ù kE] meu brinco
+[l] Segmento lateral alveolar vozeado [l•^ù pE] esquerda [a.@lùu.no.e] filha [la. paù^ pE] biju (bolo de tapioca)
+[lJ] Segmento lateral alveopalatal vozeado [lJ•^ù pE] esquerda [lJa. pa^ù pE] beiju
+25
+
+[pu. lJu. lJú. ?ùi. ti] poeira
+[R] Segmento tepe alveolar vozeado [ku^ù RE] porco [í.kù•.R•.k•.v•] ele caiu [aù^ Ru.no.e] moça
+[w] Segmento aproximante bilabial vozeado [oâ.wõ.Ôgu] minha casa [ i.âwaâ.<dùa.k•] eu sento [áJ.nù•.w•] todos
+[j] Segmento aproximante palatal vozeado [je^ù n•] esposa [na kE@.jùE.jE] como vai? [ju^ù Ru.ka.pu] entre!
+2.2. Inventário dos fones vocálicos Foram encontrados vinte e cinco sons vocálicos conforme descrito abaixo.
+26
+
+Anterior
+
+Central
+
+Posterior
+
+não-arredondado
+
+não-arredondado
+
+arredondado
+
+oral
+
+nasal
+
+oral
+
+nasal
+
+oral
+
+nasal
+
+breve longa breve longa breve longa breve longa breve longa breve longa
+
+Alto
+
+[i] [ iù^] [i ]â -- -- -- -- -- [u] [u^ù] [uâ] [uâù]
+
+Médio
+
+[e] [eù^ ] [eâ] [eùâ ] [ö] [öù^ ] -- -- [o] [o^ù] [oâ] [õù]
+
+Médio-baixo [E] [Eù^ ] -- -- -- -- -- -- [•] [•^ù] -- --
+
+Baixo
+
+-- -- -- -- [a] [aù^ ] [ã] [aâù]
+
+Quadro (2) Tabela dos fones vocálicos
+
+Obs: As vogais nasais longas denotam tom descendente, porém, devido às limitações tipográficas não podemos incluir juntamente com estes segmentos o acento circunflexo ortográfico.
+
+[i] Segmento vocálico anterior, alto, oral, não-arredondado. [í.pù•.v•] roupa dele [o.mí.Sù•.nE] coração dele [ko.E.kú.tùi] coisa
+
+[ i ^ù] Segmento vocálico anterior, alto, oral, não-arredondado, longo. [iù^ ti] você [ta.più^ ?i] galinha [úiù^ p•] unha
+
+27
+
+[i ]â Segmento vocálico anterior, alto, nasalizado, não-arredondado. [ iâ.<z•@.nùEW] meu pensamento [ i.âÉbù•.v•] minha roupa [oâ.mi.â<Zù•.nE] meu coração
+[e] Segmento vocálico anterior, médio, oral, não-arredondado. [e.m•@.?ùu] palavra dele [Se.?é.Sùa] filho [té.jùa] telha
+[eù^] Segmento vocálico anterior, médio, oral, não-arredondado, longo. [meW.ke^ù ke] fora de [peù^ no] casa, construção [se^ù no] mulher
+[ eâ ] Segmento vocálico anterior, médio, nasalizado, não-arredondado. [eâ.m•â.?uâ] minha palavra [a^ù Ruâ.no.eâ.<Za] minha moça [a.k• aâ.riâ.ne]â eu não tenho doença
+28
+
+[eùâ ] Segmento vocálico anterior, médio, nasalizado, não-arredondado, longo [eâù] sim [a.n eùâ <g•] eu estive lá [eùâ no]â minha mãe
+[E] Segmento vocálico anterior, médio baixo, oral, não-arredondado. [na kE@.jùE.jE] como vai? [eâ.<zE.hE@.pùi.S•.ti] estou raspando [E.@nù•.m•.nE] exatamente
+[E^ù] Segmento vocálico anterior, médio baixo, oral, não-arredondado, longo. [ko.E^ù ku.ti] qualquer [pEù^ n•] casa, construção [sEù^ n•] mulher
+[ö] Segmento vocálico central, médio, oral, não-arredondado. [ö@.hùö.ka.S•.v•] ele estudou [ö@.hùö.ka.So.vo.ku] escola dele [a.úö a.úö. <gi.@tSù•.a] continuei esfregando-o
+29
+
+[öù^ ] Segmento vocálico central, médio, oral, não-arredondado, longo. [pöù^ hE] vá! [úöù^ SE] teu vestido
+[a] Segmento vocálico central, baixo, oral, não-arredondado. [á.nùu] pescoço [Sú.nùa.ti] ele está forte [a.Su^ù na] quando ele ficar forte
+[a^ù] Segmento vocálico central, baixo, oral, não-arredondado, longo. [ta^ù ki] o braço dele [i.úaù^ Ro.ti] bom dia [a^ù ti] irmão mais novo
+[aâ ] Segmento vocálico central, baixo, nasalizado, não-arredondado. [iâ.waâ.<dùa.k•] eu sento [paâ.Ôgu] banco [ aâ.ËZá.?ùa.S•] eu gosto
+[aùâ ] Segmento vocálico central, baixo, nasalizado, não-arredondado, longo
+30
+
+[aùâ joâ] meu cunhado [aùâ <di] meu irmão mais jovem
+[u] Segmento vocálico posterior, alto, oral, arredondado. [u.@nùa.ti] tudo bem [ko.E^ù ku.ti] qualquer [ö@.hùö.ka.So.vo.ku] escola dele
+[u^ù] Segmento vocálico posterior, alto, oral, arredondado, longo. [tu^ù ti] cabeça [hi.tuù^ Ri] grama [kuù^ RE] porco
+[ uâ ] Segmento vocálico posterior, alto, nasalizado, arredondado. [ã.nu]â minha garganta [aù^ Ruâ.noâ.eâ.ËZa] minha moça [eâ.m•â.?ùuâ] minha palavra
+[ uâù] Segmento vocálico posterior, alto, nasalizado, arredondado, longo. [uùâ <di] eu – me
+31
+
+[o] Segmento vocálico posterior, médio, oral, arredondado. [o.jE@.?ùe.ko] cozinhar [ö.hö@.kùa.So.vo.ku.ti] escola de alguém [aJ.na.po.já.kù•.E] obrigado/a
+[o^ù] Segmento vocálico posterior, médio, oral, arredondado, longo. [pi.hoù^ ti] ele vai [lo^ù pe] esquerda [ho^ù ?o] mel
+[oâ] Segmento vocálico posterior, médio, nasalizado, arredondado. [oâ.mí.ËZù•.nE] meu coração [oâ.wùoâ.<gu] minha casa [aâù jo]â meu cunhado
+[oâù] Segmento vocálico posterior, médio, nasalizado, arredondado, longo. [oâù eâ] meu dentes [oâù Ôg•] minha tia [oâù ËZu] meu avo^
+32
+
+[•] Segmento vocálico posterior, médio baixo, oral, arredondado. [•@.vù•.ku] casa dele [•.mi.S•@.nùE.ti] coração de alguém [ní.kù•] quando ele come
+[•^ù] Segmento vocálico posterior, médio baixo, oral, arredondado, longo. [•ù^ pE] osso [si.m•^ù] foi ele que veio [pi.h•^ù ti] ele vai
+2.3 INTERPRETAÇAO FONOLÓGICA A partir da descrição fonética, apresentamos uma análise fonológica de cunho
+estruturalista (Pike, 1947) com o objetivo de determinar os sons distintivos da língua, tais como a identificação de pares mínimos bem como a observação de variação livre e de distribuição complementar. 2.3.1 Segmentos consonantais 2.3.1.1 Contraste em ambiente idêntico e análogo. 1. [p] e [m] (a) [po^ù hö] pato
+[mo^ù hö] brinquedo
+33
+
+(b) [p•.kE@.?ùE] terra [m•@.kùE.RE] bobo
+2. [t] e [R] a) [ta.@?ùa] pássaro
+[Ra.â?a] este b) [Ra.ma.@?ùu] abrigo
+[ta.mu.@kùu] cachorro
+3. [t] e [n] a) [t•^ù nE] estação de trem de Taunay/MS
+[n•ù^ nE] face b) [tiù^ jE] enguia
+[niù^ jE] um tipo de semente para tingir o corpo
+4. [k] e [?] (a) [haù^ ka] dente do siso
+[ha.@?ùa] pai dele (b) [h•^ù k•] seguir
+[h•^ù ?•] mel
+34
+
+5. [?] e [h] a) [p•^ù ?i] outro
+[p•^ù hi] pato b) [kE^ù ?i] pernilongo
+[ka^ù hi] macaco
+6. [s] e [S] a) [sa^ù ?e] orquídea
+[Sa^ù ?a] peito b) [sEù^ nE] urina
+[SE^ù nE] caminho
+7. [n] e [R] a) [E.nE] este
+[E^ù RE] cinzas b) [n•.@ kù•.E] desprovido
+[R•@.kùE] bicho de pé
+8. [l] e [R]
+35
+
+a) [l•^ù pE] esquerda [R•@.kùE] bicho de pé
+(b) [a.@lùu.no.e] filha [a.@Rùu.no.e] garota
+9. [m] e [n] (a) [mu^ù j•] pessoas
+[nuù^ v•] mastigar (b) [ma^ù k•] corda
+[na^ù ku] onde
+10. [n] e [ø] a) [n•.nE^ù ti] fotografia
+[ø•.nE@.tùi] planta b) [a.na] raiz
+[a.øa] piolho Por ser o fonema nasal palatal [ø] pouco freqüente na língua e com forte tendência à assimilação ao fonema nasal alveolar [n] não o incluiremos em nosso quadro fonêmico.
+2.3.1.2 Distribuição complementar
+36
+
+Em Terena os segmentos prenasalizados são alofones das obstruintes desvozeadas. A
+
+primeira pessoa do singular é marcada por prenasalização e vozeamento da primeira
+
+obstruinte; acompanhado de nasalização de todos os segmentos que precedem a pré-nasal,
+
+isto é, vogais e consoantes soantes.
+
+Oclusivas 3a p.sg.
+/p/ >
+[più^ h•]
+
+1a.p.sg. [Éb] [Ébiù^ h•] eu fui
+
+/t/
+
+> [<d]
+
+[tu^ù ti]
+
+[<du^ù ti] minha cabeça
+
+/k/
+
+> [Ôg]
+
+[•@.vù•.ku] [õ.vùõ.Ôgu] minha casa
+
+Fricativas
+
+/s/
+
+> [nz]
+
+[sí.mù•.a] [<zí.mù•.a] eu vim
+
+/h/ > [<z]
+
+[há.?ùa]
+
+[<zá.?ùa] meu pai
+
+/S/
+
+>
+
+[Se.?é.SùA]
+
+[ËZ] [ËZE.?é.SùA] meu filho
+
+/h/ > [ËZ] [ahí.kù•.v•.ti] [aâ.ËZí.kù•.v•.ti] eu estou tomando banho
+
+37
+
+[ j ] e [ jâ ] estão em distribuição complementar.
+
+3a p.sg.
+
+1a.p.sg.
+
+/j/
+
+> [ jâ ]
+
+[aù^ j•]
+
+[ãù jâoâ] meu cunhado
+
+[ j ] e [ jâ ] são alofones do fonema aproximante / j /
+
+2.3.1.3 Variação livre
+
+Em nosso trabalho de campo encontramos alguns sons consonantais ocorrendo como
+
+variantes livres.
+
+1.
+
+[øZ] - [ndZ]
+
+(a) [ËZE.?é.SùA] - [ËdZe.?é.SùA] meu filho
+
+[ËZ] e [ËdZ] são variantes livres do fonema [S] (3a p.sing).
+
+2.
+
+[S] - [tS]
+
+(a) [ËZE.?é.SùA] - [ËZe.?é.tSùA] meu filho
+
+(b) [a.hö a.hö Ôgi.@Sù•.a] - [a.hö a.hö Ôgi.@tSù•.a] continuei esfregando-o
+
+[S] e [tS] são variantes livres do fonema /S/
+
+3.
+
+[ú] - [h]
+
+a) [pi.ú•^ù ti] - [pi.h•^ù ti] ele vai
+
+38
+
+Por ser o segmento fricativo glotal desvozeado [h] de uso mais freqüente este será elegido como fonema. [ú] e [h] são variantes livres do fonema /h/.
+4. [l] - [lJ] Falantes Terena da aldeia de Cachoeirinha/MS tendem a pronunciar a lateral com um som
+palatalizado [lJ] em todos os ambientes. a) /l•.pE/ - [lJ•^ù pE] esquerda. b) /la.pa.pE/ - [lJa.pa^ù pE] biju [l] e [lJ] são variantes livres do fonema /l/.
+5. [v] - [w] A fricativa labiodental [v] está em variação livre com a aproximante labial [w] quando seguida das vogais posteriores [o], [u] e da vogal central [a]. a) [•@.vùoâ.Ôgu] - [•@.wùoâ.Ôgu] minha casa b) [i.va.<â dùa.k•] - [i.waâ.<dùa.k•] eu sento [v] e [w] são variantes livres do fonema /v/.
+Porém quando seguida das vogais anteriores [i], [e] ocorre somente a fricativa labiodental [v]. [i.tu.k•@.?ù•.vi.ti] Deus
+39
+
+[•.m•@.?ù•.vi] ele nos carregou [úE.vE^ù ti] pé
+2.3.1.3.1 O vozeamento pós-nasal. Myers (2002), em seu estudo sobre a tipologia fatorial do vozeamento em grupos
+consonantais, argumenta que em várias línguas do mundo uma obstruinte desvozeada não pode ocorrer depois de um segmento nasal (*NC¥).
+Segundo Pater (1999) a maioria das línguas evitam tal restrição através da assimilação de vozeamento da obstruinte pela nasal anterior. Ex: língua Terena 1a.p.sg. /N - piho/ > [Ébiù^ h•] eu fui
+Porém em outras línguas pode ocorrer a elisão da nasal ou da obstruinte, ou ainda, uma mudança do segmento nasal em uma oclusiva oral.
+2.3.1.3.2 Contornos nasais Em Terena o morfema de primeira pessoa do singular é um traço “flutuante” (Zoll, 1998), ou
+seja, uma consoante nasal porém não especificada de traço de lugar. A nasal combinada com uma obstruinte resulta em segmentos de contorno, isto é, uma unidade temporal ligada a dois nós de raiz.
+Exemplo: (a) segmento simples (uma unidade de tempo ligada a um nó de raiz) e (b) segmentos de contorno (uma unidade de tempo ligada a dois nós de raiz).
+40
+
+(a) x
+r [p] iù^ h • (ele foi)
+
+p
+figura (1)
+
+i
+
+h•
+
+(b) x
+rr [É b] iù^ h • (eu fui)
+
+figura (2)
+
+mb
+
+i
+
+h
+
+•
+
+Com a pré-nasalizacão a nasal adquire o traço de lugar de uma obstruinte com a qual ela combina. Ex: /N - piho/ > [Épiù^ ho]
+Em troca a consoante nasal provê o contexto de vozeamento da obstruinte que lhe segue. Ex: /N-piho/ > [Ébiù^ ho]
+
+41
+
+Desse modo há uma relação de simbiose para o contorno nasal em Terena. Segundo Wetzels (comunicação pessoal) a presença de contornos nasais representa a situação não-marcada. Uma vez que esses segmentos são alofones das obstruintes desvozeadas subjacentes, a seqüência de fases nasal e oral desses segmentos é previsível.
+
+2.3..1.4 Quadro dos fonemas consonantais
+
+A partir da análise fonológica acima fica estabelecido 13 fonemas consonantais na língua
+
+Terena.
+
+Modos de Articulação Oclusiva
+
+Bilabial Labiodental
+/p/
+
+Fonemas consonantais Alveolar Palatal Velar
+
+/t/
+
+/k/
+
+Fricativa
+
+/v/
+
+/s/
+
+/S/
+
+Nasal
+
+/m/
+
+/n/
+
+Glotal /?/ /h/
+
+Lateral
+
+/l/
+
+Tepe Aproximante
+
+/R/ /j/
+
+Quadro 3. Tabela dos fonemas consonantais.
+
+2.3.2 Segmentos vocálicos 2.3.2.1 Contraste em ambiente idêntico e análogo. 1. [i] e [e] (a) [liù^ li] uma espécie de peixe
+[le^ù le] irmão/primo mais velho
+
+42
+
+(b) [u^ù ti] nós [u^ù te] irmã mais velha
+2. [e] e [a] (a) [ta^ù ?e] pássaro
+[ta@.?ùa] papa-sebo (pássaro) (b) [o^ù pe] osso
+[o@.pùa] permanecer
+3. [a] e [o] (a) [té.jùa] telha
+[te^ù jo] respeitar (b) [i.na^ù] neste momento
+[E^ù no] muito
+4. [o] e [u] (a) [ho^ù ?o] mel
+[ho^ù ?u] muito (b) [é.Sùo] saber
+[iù^ Su] larva
+43
+
+2.3.2.2 Distribuição complementar
+
+Como mencionado anteriormente, a concordância de primeira pessoa do singular se faz
+
+através de nasalização. As vogais nasais são alofones das vogais orais.
+
+Quando não há obstruintes na raiz, a afixação resulta em espalhamento do traço nasal por
+
+todos os segmentos na primeira pessoa do singular.
+
+3a p.sg.
+
+1a p.sg
+
+/ i / > [ i â]
+
+[í.mùo]
+
+[ i.âmùõ] eu coloquei
+
+/ u / > [ uâ ]
+
+[á.nùu]
+
+[ã.nùuâ] minha garganta
+
+/ e / > [ eâ ]
+
+[e^ù no]
+
+[ eâù noâ ] minha mãe
+
+/o/ [o^ù e]
+
+> [õ] [oâù eâ] meu dentes
+
+/a/ > [ã]
+
+[a^ù j•]
+
+[ãù joâ] meu cunhado
+
+Há porém algumas poucas palavras em Terena (Butler & Ekdahl, 1979; Bendor, 1961) bem como em Kinikinau (Souza, 2008) que apresentam nasalização que não tem nenhuma relação com a concordância de primeira pessoa do singular.
+Nasaliza-se a última vogal, geralmente /u/, antecedida de consoante nasal de alguns substantivos quando não seguidos de sufixo. [me^ù uâ] campo
+44
+
+[na^ù uâ] carne. Porém quando o sufixo está presente desaparece a nasalização. [meW.kEù^ kE] no campo [náW.kùE] na carne.
+Segundo Bendor (1961:74) a nasalização neste caso sinaliza finalização de palavra, ou seja, exerce uma função demarcativa supra-segmental em fronteiras de constituintes prosódicos.
+2.3.2.3 Variação livre 1. [e] está em variação livre com [E] em todos os ambientes, com uma notável preferência dos falantes pela vogal aberta [E]
+[e] - [E] (a) [meW.ke^ù ke] - [mEW.kE^ù kE] fora (b) [ke.n•@.kùu.ke] - [kE.n•@.kùu.kE] na orelha dela/e [e] e [E] são variantes livres do fonema /e/.
+2. [o] e [•] estão em variação livre em todos os ambientes, com uma notável preferência dos falantes pela vogal aberta [•]
+[o] - [•] (a) [pi.úo.tí.mùo] - [pi.ú•.tí.mù•] ele irá b) [ke.nó.kùu.ke] - [ke.n•.@ kùu.kE] na orelha dela/e
+45
+
+[o] e [•] são variantes livres do fonema /o/.
+2.3.2.4 A vogal central [ö] Em Terena há uma vogal central [ö] de uso pouco freqüente na língua. Aparece sempre
+contíguo à fricativa glotal [h]. Ex. [ö@.hùö.ka.S•.v•.ku] escola dele
+Em kinikinau (Souza, 2008) a vogal [i] está em distribuição complementar com [ö]. A vogal central [ö] ocorre contíguo à fricativa glotal [h] e a vogal [i] nos demais ambientes.
+Porém este não parece ser o caso em Terena, pois tanto [i] quanto [ö] aparecem contíguo à fricativa glotal [h]. a) [hi.âÔga]@ Vamos! b) [pi.h@ ù•] quando ele foi c) [ö@.hùö.ka.S•.v•] ele estudou
+Essa vogal parece representar um resquício histórico do Proto-Aruak em Terena e merece um estudo a parte. Por ser pouco freqüente na língua não a incluiremos em nosso quadro fonêmico.
+Plot das vogais em Terena (F1/F2 – quatro tokens para cada vogal) juntamente com a vogal central [ö]. Obs. Os dados são de um único informante do sexo masculino.
+46
+
+F2 200
+
+400
+
+iii i e ee
+
+ö öö ö
+
+u uu u
+
+e
+
+o ooo
+
+600
+
+a
+
+aa
+
+800
+
+a
+
+1000 3000 2500 2000 1500 1000 500
+Figura (3)
+2.3.2.5 Alongamento vocálico A língua Terena não apresenta vogais longas no nível subjacente. O alongamento vocálico
+aparece no nível de superfície como um dos correlatos acústicos do acento. Esse tema será tratado quando referirmos sobre a acentuação em Terena (Capítulo 4).
+2.3.2.6 Plot dos fonemas vocálicos A partir da análise fonológica acima fica estabelecido 5 fonemas vocálicos na língua Terena.
+47
+
+O plot abaixo demonstra os valores da freqüência média (F1/F2) para cada vogal a partir da figura (3).
+
+F2 200
+i
+
+u
+
+400
+
+e
+
+o
+
+600
+
+a 800
+
+1000 3000 2500 2000 1500 1000 500
+figura (4)
+No modelo de Geometria de Traços (Clementes & Hume, 1995) as vogais são especificadas quanto ao ponto de articulação e grau de abertura.
+1. Ponto de articulação As vogais são distinguidas pela oposição entre os seguintes traços de articuladores: a) [labial]: protrusão dos lábios (vogais arredondadas ou labializadas); b) [coronal]: levantamento da ponta ou lâmina da língua (vogais frontais);
+48
+
+c) [dorsal]: levantamento do corpo da língua (vogais posteriores)
+
+2. Grau de abertura As distinções de altura vocálica são representadas através de traços de abertura. A língua Terena exibe um sistema de três alturas vocálicas representado por apenas dois traços de abertura – [aberto 1] e [aberto 2].
+
+Representação das vogais em Terena quanto ao ponto de articulação e grau de abertura.
+
+Vogais
+
+/i/
+
+/u/
+
+/e/
+
+/o/
+
+/a/
+
+labial
+
+--
+
++
+
+--
+
++
+
+--
+
+coronal
+
++
+
+--
+
++
+
+--
+
++
+
+dorsal
+
+--
+
++
+
+--
+
++
+
+_
+
+[aberto 1]
+
+--
+
+--
+
+--
+
+--
+
++
+
+[aberto 2]
+
+--
+
+--
+
++
+
++
+
++
+
+Quadro (4) ponto de articulação e grau de abertura vocálica
+
+49
+
+CAPÍTULO 3
+
+A SÍLABA EM TERENA
+
+Para formar os itens lexicais de uma língua, os fonemas organizam-se em seqüências que formam sílabas. Vários autores, tais como Itô (1986) e Kenstowicz (1994), consideram a sílaba como um constituinte que tem estrutura interna e uma hierarquia, constituída por um elemento opcional, o ataque (A), e por outro obrigatório, a rima (R) que, por sua vez, se subdivide em um núcleo (Nu), também obrigatório, e uma coda (Co), opcional.
+
+σ
+
+A
+
+R
+
+Nu
+
+Co
+
+A representação de uma estrutura interna silábica vem se mostrando relevante na representação de diferentes processos fonológicos, tais como ressilabificação e atribuição acentual.
+
+3.1 Padrões silábicos O padrão silábico da língua Terena é (C) V (V). Exemplo de cada um dos tipos silábicos.
+Padrão V. Neste padrão silábico todas as vogais ocorrem em início de palavra tanto em posição
+tônica como pretônica. Em outras posições (meio e final de palavra) este padrão não é tão produtivo.
+50
+
+Vogal
+
+Início de palavra
+
+Tônica
+
+Pretônica
+
+/i/
+
+[i.@pù•.v•]
+
+roupa dele
+
+[i.p•.v•@.tùi] roupa de alguém
+
+/u/
+
+[u.@nùE]
+
+mel
+
+[u.Ra.@pùu.?i] nu
+
+/e/
+
+[E@.nùo.mE.a] [E.no.@mùE.a]
+
+cunhado/a dele talvez
+
+/o/ [•@.vù•.ku] casa dele
+
+[•.v•.ku.@tùi] casa de alguém
+
+/a/
+
+[a.@nùu]
+
+garganta
+
+[a.Su^ù na] quando ele ficar forte
+
+Padrão VV. Uma vez que a aproximante labial [w] não faz parte do inventário fonológico
+consonantal em Terena, propomos que a posição ocupada pelos glides [j] e [w], no nível subjacente, é de natureza vocálica /i/ e /u/ respectivamente e ocupa com a vogal silábica o núcleo da sílaba (VV sílaba aberta) e não na coda silábica (VC sílaba fechada).
+Mesmo na língua Kinikinau (Souza, 2008), com a qual a língua Terena tem muita semelhança, o padrão silábico VC é raro.
+A língua Terena apresenta portanto um núcleo silábico ramificado VV, ou seja, um ditongo. Ex. /ai/ - [a@J.nùa.p•] “obrigado”.
+
+σ
+
+σ
+
+σ
+
+R A RA R
+
+Nu
+
+Nu
+
+Nu
+
+ai n a p o
+
+51
+
+Tipos de ditongos encontrados. Todos os ditongos encontrados são decrescentes e ocorrem tanto em sílabas átonas quanto em sílabas tônicas. /iu/ [tíW.?ùi] firme /ei/ [héJ.nùe.no.ne] sorrir /eu/ [kú.vùeW] dentro /oi/ [S•@J.nùa.e] ano /ou/ [póW.kùe] assento /ai/ [há.nùaJ.ti] grande /au/ [a@W.kùo.vo] retornar
+
+Padrões CV e CVV. Todas as consoantes, exceto a oclusiva glotal [?] que aparece somente em meio de
+
+palavra, ocorrem na posição de ataque em início e meio de palavra.
+
+Consoante
+/p/ /t/ /k/ /?/ /v/ /s/
+
+Início de palavra
+
+CV
+
+CVV
+
+[po^ù hö]
+
+[póW.kùe]
+
+[ta.mu.@kùu]
+
+[tíW.?ùi]
+
+[ka^ù ?i]
+
+[kóW.?ùi..ko]
+
+------
+
+-------
+
+[va^ù ne] [sE^ù nE]
+
+[váW.kù•] [sáJ.kùe.So]
+
+Meio de palavra
+
+CV
+
+CVV
+
+[í.pù•.v•]
+
+[Si.Rí.pù•J]
+
+[tu^ù ti]
+
+[pi.Rí.tùaW]
+
+[ti.kó.tùi]
+
+[hó.kùeW]
+
+[h•^ù ?•]
+
+[í.tùa.?iW]
+
+[hE.vE^ù ti]
+
+[kú.vùeW]
+
+[i.su.k•.a^ù ti]
+
+-------
+
+52
+
+/S/
+
+[SE^ù nE]
+
+[S•@J.nùa.e]
+
+/h/
+
+[há.?ùa]
+
+[háJ.nùa.Ra]
+
+/m/
+
+[mo^ù hö]
+
+[mEW.kE^ù kE]
+
+/n/
+
+[n•.nE^ù ti]
+
+[n•@J.Sù•]
+
+/l/
+
+[l•^ù pE]
+
+[léJ.tùe]
+
+/R/
+
+[Ra.ma.@?ùu]
+
+[ReJ]
+
+/j/
+
+[je^ù n•]
+
+[jáJ.kù•]
+
+Quadro (1). Tabela de padrões silábicos
+
+[n•@J.Sù•] [p•^ù hö] [siù^ m•] [n•.nE^ù ti] [ki^ù lu] [i.ha^ù Ro.ti] [na kE@.jùE.jE]
+
+[SáW.SùaW] ------------[i.s•@.nùEW] ------[p•@.RùeW] [hí.jùeW]
+
+Lista de palavras e seus significados referente ao quadro (1) acima. [po^ù hö] pato [po@W.kùE] assento [í.pù•.v•] roupa dele [Si.ri.@pùoJ] massa de mandioca (para secar) [ta.mu.@kùu] cachorro [tíW.?ùi] duro [tu^ù ti] cabeça dele [pi.Rí.tùaW] um tipo de peixe [ka^ù ?i] macaco [ko@W.?ùi.k•] cru [ti.k•@.tùi] árvore
+
+53
+
+[h•@.kùEW] feitiço [h•^ù ?•] mel [í.tùa.?iW] convidado [va^ù nE] objetos (para vender) [vaW.k•] gritar [úE.vEù^ ti] pé [kú.vùeW] quarto [sEù^ nE] urina [sáJ.kùe.So] apimentar [i.su.k•.aù^ ti] ele bateu nele [SEù^ nE] caminho [S•J@ .nùa.e] ano [n•@J.Sù•] ver [SáW.SùaW] pássaro (de cor preto e amarelo) [ha.?a] pai dele [háJ.nùa.Ra] tudo bem! [mo^ù hö] brinquedo [mEW.kE^ù kE] fora de [siù^ m•] ele veio
+54
+
+[n•.nE^ù ti] fotografia [n•@J.Sù•] predizer [i.s•@.nùEW] pensamento [l•^ù pE] esquerda [léJ.tùe] leite [kiù^ lu] quilo [Ra.ma.@?ùu] abrigo [ReJ] rei [i.úa^ù Ro.ti] até amanhã [p•@.RùeW] doação [je^ù n•] esposa [jáJ.kù•] gritar [na kE@.jùE.jE] Como vai? [hi.@jùeW] cordão
+3.2 A oclusiva glotal [?] em final de palavra Existem algumas poucas palavras em Terena em que a oclusiva glotal [?] aparece em final de palavra quando em sílaba oxítona.
+55
+
+Vocativos: [ka.li.v•.n•@?] criança!
+
+ka li
+
+v•
+
+Figura (1)
+
+n•
+
+?
+
+A produção da oclusiva glotal [?] é descrita por um fechamento da glote, sem, contudo, haver oclusão na cavidade oral (Ladefoged & Maddieson, 1996).
+Devido a esta sua propriedade, a glotal pode se comportar em algumas línguas como um fonema regular da série das oclusivas além de, como na palavra acima, exercer uma função demarcativa supra-segmental em fronteiras de frases ou de palavras. (Martins, 2004).
+
+3.3 Ressilabificação A língua Terena apresenta alguns processos de ressilabificação vocálica que ocorre na
+fronteira entre palavras, tais como ditongação e degeminação.
+
+3.3.1 Ditongação
+
+56
+
+A formação de ditongos ocorre com a vogal final de um vocábulo e a inicial de outro. A segunda vogal da seqüência apresenta-se sempre como vogal baixa central /a/ (restrição segmental) e o domínio para esta regra é a frase fonológica. a) [a.k•@]w não [a.@Sùu.na]w está forte > [a.ko@a.Su.na]φ ele não está forte b) [a.@kùo.ti]w que não [a.ka.?a.@rùi.nE]w estava doente > [a.@kù•.tia.ka.?a.@Rùi.nE]φ que não estava doente 3.3.2 Degeminação
+A degeminação ocorre quando as duas vogais que se encontram são semelhantes (restrição segmental) e a segunda vogal aparece em sílaba átona (restrição rítmica). O domínio para esta regra é a frase fonológica a) [a.k•@]w não [•.S•@.?ù•.pE]w visitou > [a.k•.S•@.?ù•.pE]φ ele não visitou b) [va.ne.S@ ùo]w comprou [o.v•.ku@.tùi]w casa > [va.ne.So.v•.ku.@ tùi]φ ele comprou uma casa.
+57
+
+CAPÍTULO 4 O ACENTO EM TERENA
+A análise do acento em Terena será feita com base no modelo não-linear da fonologia métrica de Hayes (1995).
+4.1 Uma teoria métrica paramétrica Em uma teoria paramétrica, um sistema de regras é visto como um conjunto de escolhas
+(parâmetros) dentre uma lista finita de opções (princípios). As diferentes escolhas efetuadas por cada língua em particular irão refletir aos diferentes padrões acentuais existentes.
+Hayes (1995) propõe um modelo de grade parentetizada. Essas grades têm o poder de segmentar a cadeia sonora em sílabas, em que cada “estrela” ou “cabeça” ( * . ) representa a sílaba proeminente enquanto o “ponto” representa a sílaba não proeminente. O acento é visto portanto como o resultado de um jogo de proeminência entre os constituintes métricos: sílabas, pés, etc.
+Segundo Hayes (1995), três tipos de pés, todos contendo duas sílabas, subjazem aos tipos de sistemas de acento das línguas do mundo. a) troqueu silábico ( * . ) – pé dominante à esquerda e insensível ao peso silábico. b) troqueu mórico ( * . ) ou ( * ) – pé dominante à esquerda e sensível ao peso silábico (moras). c) iambo mórico ( . * ) ou ( * ) – pé dominante à direita e sensível ao peso silábico (moras).
+A construção dos pés pode dar-se da direita para a esquerda ou da esquerda para a direita. Um outro parâmetro para as línguas diz respeito aos pés que podem ser construídos
+58
+
+iterativamente, até que toda a palavra seja segmentada (parsed) em pés, ou não-iterativamente, até que um pé canônico (básico) tenha sido construído.
+A proeminência relativa entre os pés que formam uma palavra é atribuída através da Regra Final, que cria um novo constituinte no topo da grade, atribuindo acento ao cabeça de pé mais à esquerda ou mais à direita na palavra.
+Um outro parâmetro métrico diz respeito à noção da extrametricidade (< >) em que um elemento (segmento, sílaba, etc.) torna-se invisível para a regra do acento. Um recurso utilizado pela teoria para explicar por que em determinadas línguas o acento não cai na última sílaba.
+Por fim a noção do pé degenerado é utilizado pela teoria. Quando uma seqüência de sílabas é segmentada em pés, algumas podem ficar sobrando. Isso acontece quando a seqüência contém um número ímpar de sílabas. Caso a língua opte por construir pés sobre as sílabas que sobraram, tais pés recebem o nome de degenerados. Porém em outras línguas este tipo de pé é absolutamente proibido.
+4.2 O Acento em Terena Segundo Bendor-Samuel (1962) de todos os sistemas acentuais das línguas indígenas da
+América do Sul poucas superam a língua Terena pela sua complexidade. O acento em Terena pode manifestar-se em uma das três primeiras sílabas. Limitação
+essa, denominada de “Restrição da Janela de Três Sílabas”, segundo a qual, o acento alcança maximamente a terceira sílaba a contar da borda esquerda da palavra (Kager, 1993). Uma restrição rara para a tipologia acentual das línguas do mundo (Hernandéz, 2001)
+59
+
+Apresentamos a seguir uma análise para os padrões acentuais dos substantivos e verbos em Terena.
+
+4.3 O Acento nos substantivos
+
+Classe de Substantivos Possuídos
+
+POSSUÍDOS
+
+Inalienável (partes dos corpo, Alienável (plantas,animais, o
+
+termos de parentesco,
+
+universo, palavras
+
+substantivos derivados)
+
+emprestadas)
+
+Especifica Não-especifica Especificamente Não-especi
+
+Posição de
+
+mente 1a
+
+mente 2a
+
+ficamente
+
+1a
+
+2a
+
+acento
+
+Sílaba
+
+1a ou 2a
+
+2a ou 3a
+
+1a ou 2a
+
+3a
+
+acentuada Afixos
+
+forma da 3a regular irregular forma da 3a
+
+possessivos
+
+p.s. + -ti
+
+-na (ver -
+
+p.s. + -ti
+
+4.3.2.2)
+
+Quadro (1) O acento nos substantivos
+
+NÃO POSSUÍDOS
+1a, 2a, 3a
+
+Como mostra o quadro acima as classes de substantivos possuídos podem ser divididas em duas grandes categorias, os possuídos e os não-possuídos. Os possuídos estão subdivididos em inalienáveis (específica e não-especificamante) e alienáveis (específica e não-especificamene) (Butler & Ekdahl, 1979; Bendor, 1961)
+Além do mais todos os substantivos possuídos têm duas posições onde o acento pode cair. Essas duas posições de acento tem funções gramaticais, pois, relacionam-se com possessão. O que se chama de primeira posição é o lugar onde cai o acento nas formas com possuidor definido (possuídos especificamente), enquanto a segunda posição é o lugar onde
+
+60
+
+cai o acento nas formas com o sufixo –ti, que marca possessão indefinida (possuídos nãoespecificamente).
+
+4.3.1 Classe de substantivos possuídos inalienavelmente (especifica e não-
+
+especificamente)
+
+Há três padrões de acentuação para essa classe de substantivos.
+
+a) Padrão 2 – 3 (mais freqüente) leva o acento na segunda sílaba (primeira posição) e
+
+terceira sílaba (segunda posição)
+
+(*
+
+)
+
+(* . )< >
+
+i sú kù• pE
+
+instrumento com que ele bate
+
+(
+
+*
+
+)
+
+(* . ) ( * . )< >
+
+i su. k•@ pùE ti
+
+instrumento com que alguém bate
+
+[isu- -k -• -pE] R CT SV N
+
+[isu -k -• -pE -ti] R CT SV N PNE
+
+b) Padrão 1 – 3 (freqüente) leva o acento na primeira sílaba (primeira posição) e terceira
+
+sílaba (segunda posição).
+
+(*
+
+)
+
+( * . )< >
+
+•@.vù• ku
+
+casa dele
+
+(
+
+*)
+
+(* . ) ( * . )
+
+•.v• kú.tùi
+
+casa de alguém
+
+[•v -• -ku] R SV N
+
+[•v -• -ku -ti] R SV N PNE
+
+c) Padrão 1 – 2 (menos freqüente) leva o acento na primeira sílaba (primeira posição) e segunda sílaba (segunda posição)
+
+61
+
+(*
+
+)
+
+(* . ) ( * . ) ( * . )
+
+ö@.hùö. ka.So. vo.ku
+
+escola dele
+
+[öhöka- -S -o. -vo -ku] R CT SV RE N
+
+(*
+
+)
+
+( * . ) ( * . ) (* . )
+
+ö.hö@.kùa. So.vo. ku.ti
+
+escola de alguém
+
+[öhöka-. -S -o -vo -ku -ti] R CT SV RE N PNE
+
+Os dados dos padrões acentuais acima nos informa que o acento da língua é não previsível. Hipotetizamos que o acento da língua é livre, ou seja, já previamente definido no léxico.
+Por outro lado, o sistema acentual da língua sinaliza estar também governado por fatores morfológicos. Por exemplo, os diferentes padrões acentuais (2/3 – 1/3 – 1/2) parecem interagir com as diferentes classes de raízes (verbal ou nominal). Além do mais o acento demonstra ser cíclico. Ele se manifesta na raiz (1a posição) e depois se desloca em direção à borda direita da palavra (2a posição) quando são acrescidos sufixos tais como –ti e –na.
+Um estudo mais aprofundado utilizando-se de modelos fonológicos de interação entre fonologia/morfologia tal como a Fonologia Lexical poderia mostrar-se mais profícuo nesta área.
+Podemos classificar a língua Terena como uma língua que constrói pés binários de cabeça à esquerda e insensível ao peso silábico (troqueu silábico).
+Como a língua não apresenta palavras lexicais monossilábicas pés degenerados são proibidos. Os pés não degenerados ocorrem na borda esquerda da palavra em posição pretônica.
+Elementos extramétricos ocorrem em sílaba final de palavras (princípio da perifericidade).
+
+62
+
+4.3.2 Classe de substantivos possuídos alienavelmente (especifica e nãoespecificamente)
+4.3.2.1 Formação das formas regulares (especificamente) A maior parte dessa classe de substantivos recebem o sufixo –na. Ex. [ka.Se@.nùa] o dia dele – [ka.Se.na@.tùi] o dia de alguém.
+
+4.3.2.2 Formação das formas irregulares (especificamente) Segundo Ekdahl & Butler (1979:72) há uns 50 substantivos dessa classe. Alguns fogem
+às regras de possessão e precisam ser decorados. Apresentamos a seguir apenas duas das formas mais comuns. a) Todas as vogais posteriores médias [o] da forma não-possuída são substituídas pela vogal [a] na forma possuída (harmonia vocálica) - [so.po^ù Ro] milho > [sá.pùa.Ra] milho dele. b) Adição do sufixo possessivo [Sa] da forma não-possuída – [p•.kE@.?ùE] terra > [p•.kE@.?ùe.Sa] terra dele.
+
+Há dois padrões de acentuação para essa classe de substantivos.
+
+a) Padrão 2 – 3 (mais freqüente) leva o acento na segunda sílaba (primeira posição) e
+
+terceira sílaba (segunda posição).
+
+(*) (* .)
+ka Se@ nùa o dia dele
+
+(
+
+*)
+
+(* .)(* .)
+
+ka Se na@ tùi
+
+o dia de alguém
+
+63
+
+[kaSe- -na ] R PE
+
+[kaSe- -na -ti] R PE PNE
+
+b) Padrão 1 – 3 (freqüente) leva o acento na primeira sílaba (primeira posição) e terceira sílaba (segunda posição).
+
+(*
+
+)
+
+( * . )< >
+
+sá pùa Ra
+
+o milho dele
+
+[sapaRa] R
+
+(
+
+*)
+
+( * . )( * . )
+
+sa pa Ra@ tùi
+
+milho de alguém
+
+[sapaRa- -ti] R PNE
+
+4.4 Classe de substantivos não-possuídos
+
+Essa classe de substantivos apresenta apenas uma única posição acentual mas que pode
+
+variar entre a primeira, segunda ou terceira sílaba.
+
+(* ) (* .)
+ka@ SùE dia
+
+(* ) (* .)
+p• kE @?ùE terra
+
+(
+
+*)
+
+(* .)(* .)
+
+so po Ro @jùa
+
+milho lá
+
+[kaSe] R
+
+[p•kE?E] R
+
+[sopoRo- ja] R DE
+
+4.5 Língua tonal ou entoacional? Embora Aikhenvald (2001) bem como outros estudiosos tenham levantado a hipótese de
+que a língua Terena possa ser uma língua tonal isso não nos parece ser o caso. A língua Terena apresenta alguns pares de palavras, na maior parte substantivos, com
+uma mesma seqüência de fonemas mas que diferem entre si apenas pelo tipo de acento I ou II (agudo ou circunflexo)
+
+64
+
+[ i.@tùi] sangue
+
+[ iù^ ti] você
+
+[hi.@pù•] cigarro [hiù^ p•] a unha dele
+
+[t•@.hùE] sino
+
+[t•^ù hE] nambu (ave)
+
+[n•.nE@.tùi] planta [n•.nE^ù ti] rosto
+
+Apresentamos a seguir uma representação fonológica e análise acústica para os pares [ i.@tùi]
+
+“sangue” – [iù^ ti] “você”.
+
+Acento I (agudo) W
+
+palavra prosódica
+
+Σ
+
+pé
+
+σ
+
+σ sílaba
+
+i@
+
+tùi camada segmental
+
+H* H% camada entoacional
+
+H*
+
+H%
+
+í
+
+t
+
+i
+
+126
+
+376 ms
+
+134
+
+Figura (1) Forma de onda, espectrograma e F0
+
+65
+
+Acento I I (circunflexo)
+
+W
+
+palavra prosódica
+
+Σ
+
+pé
+
+σ
+
+σ sílaba
+
+iù^
+
+ti camada segmental
+
+H*+L H% camada entoacional
+
+H*
+
+L
+
+i
+
+373 ms
+
+H%
+
+t
+
+i
+
+185 89
+
+Figura (2) Forma de onda, espectrograma e F0
+
+4.5.1 Correlatos acústicos do acento O acento I (agudo) na palavra [í.tùi] acima é caracterizado por tons simples e nivelados
+(H* - H% ). A duração para a vogal tônica é normal (126 ms) e a consoante seguinte, em sílaba átona, apresenta uma duração extremamente longa (376 ms).
+O acento II (circunflexo) na palavra [iù^ti] apresenta um contorno entoacional descendente (H*+L) na sílaba tônica com um tom de fronteira alto (H% ). A duração para a vogal tônica é extremamente longa (373 ms).
+66
+
+A língua Terena não apresenta segmentos longos no nível subjacente. As variações de duração segmental, que de certa forma aparecem simétricas entre os pares de palavras acima, manifestam-se no nível de superfície como um dos correlatos acústicos dos dois tipos de acento que a língua dispõe.
+A partir das análises acústicas acima fica estabelecido que os principais correlatos acústicos do acento em Terena são a duração e a altura.
+A elevação da freqüência fundamental (F0) ou pico entoacional é devido a uma maior pressão subglotal e tensão nas cordas vocais (Pickett, 1999).
+Como argumentam Ekdahl & Butler (1979:61) em certos casos há possibilidades de deslocamento acentual em substantivos de duas ou três sílabas: a) [E^ù n• i.@tùi.ja] tem muito sangue lá? > [ i.@tùi] sangue b) [Eù^ n• i.ti.@jùa] tinha muito de vocês lá? > [ iù^ ti] você
+Uma vez que não ocorre o acento na última vogal de substantivos, quando o sufixo -ja não está presente, o acento se desloca para a primeira sílaba em (b). O deslocamento acentual em substantivos é sinalizado, na maioria das vezes, pelo o uso do acento II (circunflexo).
+Portanto, quando comparamos os pares [ i.@tùi] e [ iù^ ti] inseridos nas frases acima, estas palavras apresentam um único tipo de acento ( acento I – agudo) em sua forma base. Demonstrando não ser uma língua tonal e sim um processo fonológico de deslocamento acentual, em que a ambigüidade entre estes pares de palavras é desfeita pelos dois tipos de acento que a língua dispõe.
+67
+
+4.6 O Acento nos verbos Os verbos em Terena podem ser subdivididos em duas classes: verbos da classe [-So] e
+verbos da classe [-a].
+
+4.6.1 Verbos da classe [-So]
+
+São caracterizados pela presença das consoantes temáticas [-k], [-S] e sufixo zero
+
+seguidos pelo sufixo verbal [– o].
+
+Estas consoantes temáticas (CT) servem para classificar as raízes verbais dessa classe.
+
+a) [issú - k - o - a] ele bateu nele R CT SV Obj3ªp.s.
+
+b) [ jut•@ -S - • - a]
+
+ele o escreveu
+
+R CT SV Obj.3ª p.s.
+
+c) sem consoante temática [píh -•] ele foi R SV
+
+4.6.2 Verbos da classe [-a] Essa classe não apresenta consoantes temáticas e subdivide-se em modo efetivo
+(positivo) e modo potencial (negativo).
+
+4.6.2.1 Formação do Negativo dos verbos da classe [-a] A partir da forma básica (modo efetivo, 3a p.s. + sufixo –ti) o verbo é precedido pelo
+negativo auxiliar [a.k•] “não” – e sofre as seguintes alterações: a) cai o sufixo –ti e o acento vai para a primeira posição
+68
+
+b) acrescenta um prefixo. Se a primeira vogal é [o], o verbo vem prefixado de o- no negativo [k•.ju@.hù•.ti] “ele
+está falando” – [a.k• •.k•@.jùu.h•] “ele não está falando”. Se a primeira vogal no verbo não é [o], o verbo leva o prefixo a- no negativo [Su.@nùa.ti]
+“ele está forte” – [a.k• a.@Sùu.na] “ele não está forte”. Assim como os substantivos, todos os verbos apresentam duas posições de acento, e
+estas posições relacionam-se com funções gramaticais
+4.6.3 Usos do acento da 1a e 2a posição para os verbos das classes [-So] e [-a]. Segundo Ekdahl & Butler (1979:78) estas posições acentuais relacionam-se com funções
+gramaticais. Apresentamos a seguir somente um exemplo para cada posição: a) A primeira posição é usada para enfatizar o elemento objetivo [ku.ti •.jE@.?ùE.k•] O que ele está cozinhando? b) A segunda posição é usada para enfatizar o elemento subjetivo [ku.ti •.jE.?E@.kù•.a] Quem cozinhou?
+Uma vez que os padrões acentuais possíveis são os mesmos para ambas as classes verbais, apresentamos a seguir somente exemplos para os verbos da classe [-So].
+4.6.4 Padrões acentuais para os verbos da classe [-So].
+69
+
+a) Padrão 2 – 3 (mais freqüente) leva o acento na segunda sílaba (primeira posição) e
+
+terceira sílaba (segunda posição)
+
+(*
+
+)
+
+(* .)(* .)
+
+• jE@ ?ùE k• a
+
+ela o cozinhou
+
+[•jE?E- -k -• -a ] R CT SV Obj 3a p.s.
+
+(
+
+*
+
+)
+
+(* . ) ( * . ) (* . )
+
+• jE ?E@ kù• a ti
+
+ele estava cozinhando-o
+
+[•jE?E- -k -• -a -ti]
+
+R CT SV Obj3ªp.s Asp. Pr.
+
+b) Padrão 1 – 3 (freqüente) leva o acento na primeira sílaba (primeira posição) e terceira
+
+sílaba (segunda posição).
+
+(*
+
+)
+
+(* . ) ( * . )< >
+
+í kù• R• k• v•
+
+ele caiu
+
+(
+
+*
+
+)
+
+(* . ) ( * . ) ( * . )
+
+i k• R•@ kù• v• ti
+
+ele estava caindo
+
+[ik•R•- -k -• -v•] R CT SV RE
+
+[ik•R•- -k -• -v• -ti] R CT SV RE Asp Pr.
+
+b) Padrão 1 – 2 (menos freqüente) leva o acento na primeira sílaba (primeira posição) e
+
+segunda sílaba (segunda posição)
+
+(*
+
+)
+
+(* . ) ( * . )< >
+
+ö@ hùö ka So vo
+
+ele estudou
+
+[öhöka- -S -o. -vo]
+
+R CT SV RE
+
+(*
+
+)
+
+( * . ) (* . )< >
+
+ö hö@ kùa Sovo ti
+
+ele estava estudando
+
+[öhöka-. -S -o -vo -ti]
+
+R CT SV RE Asp. Pr
+
+4.6.5 Regra de construção da grade métrica do acento primário (substantivos e verbos).
+Partindo da hipótese de que o acento em Terena é livre, ou seja, a posição do acento primário já vem marcada na forma subjacente, podemos construir a grade métrica da
+70
+
+palavra de cima para baixo (topdown). A partir do acento primário, inserem-se os pés,
+
+completando a grade.
+
+Domínio – a palavra
+
+1) A partir do acento primário (Regra Final – RF) crie logo abaixo deste um novo
+
+constituinte binário com cabeça à esquerda (* .) (regra da Formação de Constituintes
+
+Prosódicos – FCP). Exemplos:
+
+a) verbo (1/3 – 2a posição)
+
+/ik•R•@k•+v•+ti/ - léxico = (radical + sufixos)
+
+i.k•. R•@.k•. v•.ti - silabificação
+
+(
+
+*
+
+) - RF
+
+(* . )
+
+- FCP
+
+b) substantivo inalienável (2/3 -1a posição)
+
+/isúk•+pE/ - léxico = (radical + sufixo)
+
+i. sú.k•. pE - silabificação
+
+(*
+
+) - RF
+
+(* . ) - FCP
+
+Para dar conta de silabas não segmentadas à esquerda ou à direita do constituinte binário em (a) e (b) acima, propomos que a direção de segmentação seja bidirecional.
+
+2) Direção de Segmentação – bidirecional A partir do constituinte criado pela regra de FCP forme outro(s) constituinte(s) binário(s)
+( * . ) em direção à borda esquerda ou direita da palavra.. Caso contrário considere a sílaba à esquerda como um pé não degenerado (pés degenerados são proibidos) e à direita como extramétrica.
+
+71
+
+a) verbo (1/3 – 2a posição)
+
+/ik•R•@k•+v•+ti/ - léxico = (radical + sufixos)
+
+i.k•. R•@.k•. v•.ti - silabificação
+
+(
+
+*
+
+) - RF
+
+( * . ) ( * . ) (* . ) - FCP
+
+[i.k•.R•.@ k•. v•.ti] - saída
+
+b) substantivo inalienável (2/3 - 1a posição)
+
+/isúk•+pE/ - léxico = (radical + sufixo)
+
+i. sú.k•. pE - silabificação
+
+(*
+
+) - RF
+
+(* . )<> - FCP
+
+[i. sú.k•. pE] - saída
+
+4.6.6 O acento em final de palavra Existem algumas poucas palavras em Terena (substantivos e verbos) em que o acento se
+manifesta na borda direita da palavra.
+
+4.6.6.1 Substantivos
+
+Como exemplificado em (3.2) essas palavras são sempre acompanhadas pela oclusiva
+
+glotal. Uma vez que a língua Terena exibe somente sílabas abertas a oclusiva glotal neste
+
+caso é um elemento supra-segmental exercendo uma função demarcativa em fronteiras de
+
+palavras, o que parece atrair a acentuação para esta posição. A acentuação final nos
+
+substantivos é sempre sinalizada pelo acento I (agudo).
+
+(
+
+*)
+
+(. *)(. * )
+
+ka li v• n•@? - criança!
+
+4.6.6.2 Verbos
+
+72
+
+Alguns verbos (dissílabos ou trissílabos) também apresentam acentuação na borda direita da palavra. A acentuação neste caso tem função gramatical e serve como o único elemento diferenciador entre duas ou três formas verbais. A acentuação final nos verbos é sempre sinalizada pelo acento I I (circunflexo)
+
+Figura (3)
+
+H* L H%
+sim•
+
+H* H% H H* L%
+
+sím•
+
+sim•
+
+(* ) (* .)
+siù^ m• ele veio
+
+(* ) ( * .)
+si @mù• quando ele veio
+
+( *) ( . *)
+si m•^ù foi ele que veio
+
+73
+
+4.6.7 Elisão acentual no nível frasal
+
+Figura (4)
+
+H
+
+H*
+
+L
+
+ni
+
+k•
+
+(*) ( * .)
+ni k•^ù ti ele está comendo
+
+H% ti
+
+Podemos observar na representação acima que o verbo [ni.k•^ùti] quando não acompanhado de objeto recebe o acento II (circunflexo) na segunda sílaba.
+
+74
+
+Figura (5)
+
+H H HH
+ni k• ti la
+
+H* L pa
+
+(
+
+*)
+
+( * )( * )
+
+(* .) (* .)
+
+ni k• ti la paù^ pE
+
+ele está comendo biju
+
+H%
+pE
+
+Porém, quando há formação de dois constituintes prosódicos, ou seja, quando o verbo vem seguido pelo seu objeto [la.pa^ù pE], ocorre então a elisão acentual II (circunflexo) no verbo.
+
+75
+
+Este mesmo tipo de processo fonológico pode também ser observado na forma possuída de um substantivo.
+
+Figura (6)
+
+H*
+
+L
+
+tu
+
+H% ti
+
+(* ) (* .)
+tu^ù ti cabeça dele
+
+Como podemos observar na análise acima quando o substantivo possuído não vem seguido pelo seu possuidor, nível da palavra fonológica, leva o acento II (circunflexo) na primeira sílaba
+
+76
+
+Figura (7)
+
+H* H H* L
+
+L
+
+H%
+
+tu ti
+
+ma
+
+Ri
+
+a
+
+(
+
+*
+
+)
+
+(* )(*
+
+)
+
+( * . ) ( * . )< >
+
+tu ti ma^ù Ri a
+
+cabeça de Maria
+
+Porém, quando este substantivo vem seguido pelo seu possuidor [ma^ù Ri.a], nível da frase fonológica, ocorre então a elisão acentual II (circunflexo) do substantivo possuído.
+Este tipo de processo fonológico parece indicar que a língua comporta somente um tipo de acento II (circunflexo) tanto a nível da palavra fonológica como da frase fonológica elidindo portanto o acento da borda esquerda do constituinte prosódico.
+
+77
+
+5. CONSIDERAÇÕES FINAIS
+Este trabalho teve como objetivo uma descrição preliminar do sistema fonológico da língua Terena a partir de três níveis da hierarquia prosódica: segmental, silábico e acentual.
+No nível segmental foi estabelecido um quadro fonético-articulatório – vinte e quatro sons consonantais e vinte e cinco vocálicos – do qual se pôde determinar as unidades distintivas da língua – treze consoantes e cinco vogais orais.
+No nível silábico foram identificados os padrões silábicos – (C) V (V). Em relação ao nível acentual, a língua apresenta um sistema de pés binários com cabeça à esquerda e insensível ao peso silábico (troqueu silábico). Os resultados de análise apresentados aqui estão sujeitos a uma revisão em etapas posteriores de pesquisa. Esperamos que outros trabalhos futuros possam a vir contribuir para uma melhor compreensão da fonologia da língua Terena, tais como um estudo mais aprofundado sobre o acento e suas interações com a morfologia e a sintaxe, processos fonológicos (a harmonia nasal, a harmonia vocálica, a reduplicação) bem como a entonação.
+78
+
+ANEXO I
+1. PALAVRAS DE EMPRÉSTIMO DO PORTUGUÊS EM TERENA No Brasil os Terena habitam a região sudoeste do Estado do Mato Grosso do Sul. Uma
+vez que o povo Terena tem vivido em proximidade com a cultura brasileira por várias gerações, não é surpreendente que várias palavras do português têm sido assimiladas em Terena.
+Segundo Ilari (2002) nenhuma língua escapa de sofrer influências externas. A tendência das palavras recebidas de outras línguas é serem reconhecidas, num primeiro momento, como palavras estrangeiras, porque soam diferentes e se escrevem segundo a grafia da língua de origem. Aos poucos, acontece uma “adaptação” tanto da pronúncia como da grafia; com isso, as palavras “importadas” acabam por confundir-se com as palavras mais antigas da língua.
+2. ANÁLISE DOS DADOS O presente estudo tem como objeto de análise algumas palavras de empréstimo do
+português na língua Terena. As modificações ou ajustes que se deram de uma língua para outra foram analisados a partir de três níveis da hierarquia prosódica: segmental, silábico e acentual.
+3. NÍVEL SEGMENTAL Palavras do português em que uma nasal em final de sílaba é seguida de uma oclusiva
+desvozeada na sílaba seguinte tornam-se segmentos pré-nasalizados em Terena:
+79
+
+Ex: gram.po > [ká.rùa.Ébu] - jan.ta > [ËZã.<da] - tan.que > [tã.Ôgi] - ban.co > [pã.Ôgu] Palavras do português que apresentam uma oclusiva vozeada não inicial têm sua
+correspondente em uma oclusiva desvozeada em Terena. Ex: pre.go > [pE@.rùE.ku] - tri.go > [tí.Rùi.ku]
+A lateral palatal do português é substituída pela aproximante palatal /j/ em Terena. Ex: va.si.lha > [Ébá.sùi.ja]
+A fricativa alveolar desvozeada /s/ é substituída pela fricativa glotal /h/ em Terena (influências do espanhol) ou pela fricativa palatal desvozeada [S]. Ex: sa.pa.to > [ha.pâ: tu] - a.çu.car > [á.Sùu.ka]
+A fricativa alveolar vozeada [z] do português em posição intervocálica torna-se uma fricativa alveolar desvozeada [s] em Terena. Ex: me.sa [me.za] > [mêùsa], va.si.lha > [Ébá.sùi.ja]
+Em sílabas átonas finais que apresentam a vogal /e/ neutralizadas em [i] no português pode apresentar-se em Terena como [i]. Ex: bu.le > [Ébú.lùi] - bal.de > [Ébá.Rùi.ti] ou às vezes [E] (influências do espanhol). Ex: ma.te > [má.tùE] lei.te > [léJ.tùE] to.ma.te > [tó.mùa.tE]
+Palavras do português iniciadas em oclusivas vozeadas são substituídas por segmentos pré-nasalisados em Terena. Ex: bo.la > [Ébôù la] - dou.tor > [<dú.tùu]. Porém, pode às vezes ocorrer uma oclusiva desvozeada. Ex: ban.co > [pã.Ôgu] - ba.na.na > [pá.nùa.na] bu.tão > [pú.tùaW]
+80
+
+4. NÍVEL SILÁBICO Redução de ataques complexos pela inserção de uma vogal epentética da mesma
+qualidade que a vogal seguinte. Ex: tri.go > [ti.@rùi.ku] - me.tro > [mE@.tùu.ru] - pre.go > [pE@.rùE.ku]
+Palavras do português em que o ditongo [ow] torna-se uma única vogal [u] em Terena. Ex: dou.tor > [<dú.tùu] - tou.ro > [tú.Rùu]
+Palavras do português em que o padrão silábico CVC torna-se CV em Terena. Ex: tam.bor > [tá.Ébùu] - lá.pis > [lá.pùi] - a.çu.car > [á.Sùu.ka]
+Palavras em português em que uma coda medial /l/ torna-se um ataque /R/ na sílaba seguinte em Terena. Há também nesta operação a inserção de uma vogal epentética, o que resulta em uma redução de encontro consonantal e formação de sílaba adicional. Ex: bal.de > [Ébá.Rùi.ti]
+5. NÍVEL ACENTUAL Enquanto o acento em português pode cair sobre uma das três últimas sílabas; em Terena
+ele pode manifestar-se em uma das três primeiras sílabas. Podemos observar que todas as palavras de empréstimo do português em Terena,
+descritas em (3 e 4) acima, são substantivos e podem ser agrupadas segundo o número de sílabas (duas ou três sílabas) e o tipo de acento (agudo ou circunflexo).
+Palavras oxítonas de duas sílabas em português manifestam-se em Terena como paroxítonas; pelo fato de haver poucas palavras oxítonas nesta língua. Ex: doutor > [<dú.tùu] - tambor > [tá.Ébùu] - caju > [kâù Su] - fubá > [fûù ba] - feijão > [pêù SãW]
+81
+
+Palavras paroxítonas de duas ou três sílabas em português manifestam-se em Terena como proparoxítonas e todas com três sílabas, resultantes de redução de ataques complexos. Ex: trigo > [ti.@rùi.ku] - prego > [pE@.rùE.ku] - banana > [pá.nùa.na] - açúcar > [á.Sùu.ka] arame > [âù ra.mE] - martelo > [ma.@tùE.lu] 6. CONCLUSÃO
+De um modo geral houve uma sistematização para as “regras de ajustes” das palavras de empréstimo do português na língua Terena tanto a nível segmental, silábico e acentual, refletindo desse modo seu sistema fonêmico particular.
+82
+
+6. REFERÊNCIAS BIBLIOGRÁFICAS
+AIKHENVALD, Alexandra Y. (2001). The Arawak language family. In: BLAKE, B. J. & BURRIDGE, K.(eds) Historical Linguistics 2001. Amsterdam/Philadelphia: John Benjamins Publishing Company 65 - 106 BENDOR-SAMUEL, J. T. (1960) Some problems in segmentation in the phonological analysis of Terena. Word 16, No.3, 348 – 55. ___________ (1961) An outline of the grammatical and phonological structure of Terena: Part 1 and Part 2 Grammar. ms. __________ (1962) Stress in Terena. Transactions of the Philological Society. BOERSMA, P. & WEENINK, D (2007) Praat: doing phonetics by computer (Version 4. 6. 01) [Computer program]. CLEMENTES, G. N. & HUME, E. U. (1995) The internal structure of speech sounds. In GOLDSMITH, J.A. (org.) The handbook of phonological theory. Cambridge: Blackwell, 245 – 306. EKDAHL, E. M. & N. BUTLER (1979) Aprenda Terena. vol. 1 e vol. 2 (SIL). HAYES, B. (1995) Metrical Stress Theory – Principles and Case Studies. University of Chicago Press. HERNÁNDEZ, G.C. (2001) The Stress System of Central Raramuri: root privilege, prosodic faithfulness and markdness reversals. Doctoral dissertation, University of California, Berkeley. ILARI, R. (2002) Introdução ao estudo do léxico – brincando com as palavras. São Paulo: Contexto.
+83
+
+ITÔ, Junko. (1986) Syllable Theory in Prosodic Phonology. Tese (Doutorado, PhD) – University of Massachussetts. KAGER, R. (1993) Stress in Windows. Unpublished manuscript KENSTOWICZ, M. (1994) Phonology in Generative Grammar. London: Basil Blackwell. LADEFOGED, P. & I. MADDIESON, (1996) The Sounds of the World’s Languages. Cambridge: Blackwell. MARTINS, S. A. (2004) Fonologia e Gramática Dâw. Utrecht: LOT. Tese de Doutorado, Vrije Universiteit Amsterdam. MYERS, S. (2002) Gaps in factorial typology: The case of voicing in consonant clusters University of Texas at Austin. PATER, J. (1999). Austronesian nasal substitution and other NC effects. In R. Kager, H. van der Hulst, and W. Zonneveld (eds.) The prosody morphology interface. Cambridge: Cambridge University Press. 310-343. PICKETT, J.M. (1999) The acoustics of speech communication. Boston:Allyn and Bacon. PIKE, K. (1947) Phonemics: a Technique for Reducing Languages to Writing. Ann Arbor: University of Michigan Press. RODRIGUES, Aryon D. (1986) Línguas Brasileiras: Para o conhecimento das Línguas Indígenas. São Paulo: Loyola. SOUZA, Ilda de (2008) Koenukunoe emo’u - a língua dos índios Kinikinau. Tese de Doutorado, IEL/UNICAMP. Campinas. WETZELS, W. Leo [comunicaçao pessoal]. Orientaçao fornecida durante meu exame de qualificaçao em 17 de novembro 2008.
+ZOLL, Cheryl (1998) Parsing below the segment in a constraint-based framework. CSLI Publications. Center for the Study of Language and information. Standford, California
+84
+
+85
+
+

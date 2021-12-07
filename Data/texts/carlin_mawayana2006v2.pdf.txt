@@ -1,0 +1,597 @@
+Aikhenvald and Dixon / Grammars in Contact 13-Aikhenvald-chap13 Page Proof page 313 19.7.2006 4:00pm
+13
+Feeling the Need
+The Borrowing of Cariban Functional Categories into Mawayana (Arawak)1
+EITHNE B. CARLIN
+1 Introduction This chapter deals with a situation of language contact over a period of some 150 years in the southern Guianas that has resulted inter alia in the borrowing, across language families, of a pronoun to express Wrst person plural exclusive, and some functional categories pertaining to nominal past tense marking, aVective and frustrative marking, and the marking of a noun to express change of state. All of these borrowed categories into Mawayana are obligatory in the Cariban languages. Lexical borrowing in either direction between Mawayana and the Cariban languages is minimal.
+§2 gives an overview of what we know about the Mawayana people and their history of contact up to the present. §3 gives a typological linguistic proWle of Mawayana based on data collected in Suriname. §4 shows the instances of contact-induced change in Mawayana, looking at the borrowing of a pronominal form amna to express Wrst person plural exclusive (§4.1); nominal past marking (§4.2); the aVective marker _kwe (§4.3); the use of the frustrative marker _muku (§4.4), and the borrowing of the similative, a category that is essential in the Cariban languages (§4.5).2 Conclusions are given in §5.
+1 I would like to thank Maarten Mous and the editors of the volume for their invaluable suggestions and comments on this chapter. All remaining errors are my own.
+2 In this chapter, enclitics are indicated by a preceding underscore.
+
+Aikhenvald and Dixon / Grammars in Contact 13-Aikhenvald-chap13 Page Proof page 314 19.7.2006 4:00pm
+314 Eithne B. Carlin
+2 The Mawayana, past and present
+The Mawayana (literally: ‘Frog People’) are a small Arawak group who live in the southern Guianas, in the frontier corner of Brazil, Guyana, and Suriname, and whose language is closely related to Wapishana. Since the Mawayana are generally subsumed under the term Waiwai it is not known how many ethnic Mawayana there are, except for the community in Suriname where almost 100 people claim Mawayana ethnicity. We know very little of the early history of the Mawayana, their Wrst possible mentioning as Mapoyena being from Fray Francisco de San Marcos in 1725 (see Rivie`re 1963: 153). Since the Wrst deWnite reference to the Mawayana in the literature in 1841, however, the history of the Mawayana has been intertwined with and has run parallel to that of consecutively the Taruma group on the one hand, and, on the other hand, the Waiwai groups within which Mawayana is now included. It was the naturalist Robert Schomburgk who reported Mawayana presence in the area to the east of the Parukoto (Cariban) people and not far from the Taruma people (Schomburgk 1841:170). When Schomburgk actually met some Mawayana in 1843, he gave their number as about thirty-nine individuals in one settlement living close to and in constant contact with a group of Taruma who, as requested by the Mawayana, had moved in order to be close to them (Schomburgk 1845: 55). Since the Taruma chief was also acting as chief over the Mawayana we can conclude that relations were indeed friendly and close. Population numbers of most Amerindian groups in the area were declining drastically at Schomburgk’s time, mainly due to outbreaks of smallpox and other illnesses, and intermarriage between the smallest groups was prevalent. Thiry years later, in the 1870s, the explorer Barrington Brown mentions meeting up with a group of Mawayana and Taruma together and established that they maintained trading relations with the Wapishana and the Waiwai (Brown 1876: 247–51). Indeed throughout the nineteenth century, the southern Guyana region was a hub of trading activity that spanned most of the Amerindian groups as well as the Maroons on the Surinamese side of the Corentyne River, with the Taruma a major link in all trade relations.3 At that time, and indeed since the migration of the Taruma from the Rio Negro some time after 1732 until the end of the nineteenth century, we Wnd
+3 The term Maroons refers to runaway slaves from plantations during the early colonial period in Suriname, who now form distinct ethnic groups in the interior of Suriname, namely the Ndyuka, Saramaccans, Paramaccans, Kwinti, and Matawai. It was predominantly with the Ndyuka that trade relations were upheld with the Amerindian populations.
+
+Aikhenvald and Dixon / Grammars in Contact 13-Aikhenvald-chap13 Page Proof page 315 19.7.2006 4:00pm
+
+13. Borrowing of Cariban Functional Categories 315
+
+several references to the trading acumen of the Taruma who had become quite an inXuential group before, presumably, disease reduced their numbers dramatically. This inXuence is also corroborated by the many place names of Taruma origin found in the south of Guyana. From the mid-nineteenth century onwards, the Taruma are hardly mentioned without reference to the Mawayana with whom they had intermarried in spite of a reported aversion to marrying outside their own group (see Schomburgk 1845). In the early twentieth century the numbers of Mawayana had surpassed those of the Taruma: Farabee (1918:172) estimated the number of Mawayana as around 100, and the Taruma as about 50. In the early 1920s, the anthropologist/archaeologist Walter Roth claimed that the Taruma had all but become extinct as a separate group, which is corroborated by the missionary Father Cary-Elwes’s statements that in mid-1922 he had advised the Taruma to intermarry with the Waiwai: ‘Last time I was here [1919, EBC], I told the Tarumas that they were a sickly lot and clearly dying out, due probably to their in-marriage, and their only chance of survival was for them to take unto themselves Waiwai wives’ (Butt, Colson and Morton 1982: 240; see also Rivie`re 1963: 164). In spite of their incessant precarious situation over the last two centuries, there are still three Taruma speakers in Guyana, living among the Wapishana. The Mawayana in the meantime are mentioned sporadically in the literature, in the Mapuera region which is still the home of a large Waiwai-speaking group today, and by the late 1950s they were already being absorbed by the Waiwai.
+In view of the complex history of shuZing and reshuZing identities and ethnicities which was characteristic of the southern Guianas regions, the ethnic term Waiwai is now used to refer to a conglomeration of ethnic groups, namely the Parukoto, Shereo, Tunayana, Katuena, Karafawyana, Mawayana,
+Table 1. The Waiwai groups
+
+Group
+
+Linguistic aYliation
+
+Parukoto Shereo Tunayana Katuena Karafawyana Mawayana Taruma
+
+Cariban Cariban Cariban Cariban Cariban Arawak UnclassiWed
+
+Aikhenvald and Dixon / Grammars in Contact 13-Aikhenvald-chap13 Page Proof page 316 19.7.2006 4:00pm
+316 Eithne B. Carlin
+and Taruma.4 As shown in Table 1, all of these groups are of the Cariban linguistic stock, speciWcally the Guyana branch of the family, with the exception of the latter two. Mawayana belongs to the Arawak language family and Taruma is an as yet unclassiWed language. What is known as the Waiwai language is actually a lingua franca which has at least two main dialects, Tunayana, and Karafawyana, the latter of which, according to the Tunayana and Katuena speakers in Suriname, is the ‘nicer’ and more elaborated dialect. The original language before amalgamation of the groups was apparently Parukoto, also the name of the group who had most input into the formation of the lingua franca. At some time in the early twentieth century the Parukoto ceased calling themselves by that name and were subsumed under the name Waiwai. Thus the remaining language Waiwai is itself a hybrid based on several Cariban dialects that were closely related to Parukoto (see also Hawkins 1998). The input of Mawayana and Taruma to the Waiwai language seems to have been minimal if present at all; rather there are clear indications that the Waiwai lingua franca, and later Trio, likewise a Cariban language, have had quite some impact on the structure of Mawayana.
+2.1 The Mawayana speech community, language attitudes, and patterns of language use From the 1950s onwards it looked as though the Mawayana would remain for outsiders an inconspicuous group absorbed by the Waiwai, which is already the case in Brazil and Guyana, where only a few old people still remember some of their former language. However, a strange turn of fate saw the preservation of the language in a Mawayana group in diaspora in the south of Suriname. In the early 1960s, an American missionary who had been active among the Waiwai in Guyana and Brazil set oV on an evangelizing mission to the Trio (Cariban), in Suriname, taking with him some ‘Waiwai’, who were actually ethnic Mawayana, Tunayana, and Katuena. At present these groups reside in the predominantly Trio village Kwamalasamutu, in the Sipaliwini Basin. The originally Waiwai-speaking groups in this village in Suriname together number some 200–300 people who are increasingly becoming monolingual Trio speakers. The ethnic Mawayana community in Kwamalasamutu numbers some 100–50 people, but the number of speakers of Mawayana has
+4 Both Hawkins (1998) and Howard (2001) who carried out research among the Waiwai in Guyana and Brazil include Sik¨ıiyana (Chikyana) among the Waiwai groups: in general, although the Sik¨ıiyana do speak Waiwai, they are not perceived, either linguistically, or socially, as constituting part of the present-day Waiwai groups. For this reason I have excluded the Sik¨ıiyana here. However, given that they reside in the Surinamese village Kwamalasamutu, where the remaining Mawayana speakers live, they are mentioned below in the description of the social structure of that village.
+
+Aikhenvald and Dixon / Grammars in Contact 13-Aikhenvald-chap13 Page Proof page 317 19.7.2006 4:00pm
+
+13. Borrowing of Cariban Functional Categories 317
+declined to the last three of the oldest generation, that is, those Wrst native missionaries. These are the community leader and his wife, and his wife’s halfsister. The Kwamalasamutu Mawayana are thus the only Mawayana-speaking community of importance left. The linguistic competences of the ethnic Mawayana in Suriname vary considerably according to generations. In Table 2 I give an overview of the language use patterns that are found among the ethnic Mawayana in Suriname.
+As can be seen in Table 2, the older generations of Mawayana are trilingual, younger generations are bilingual, and the youngest generation is monolingual in Trio which is the dominant language of the village. In contrast to the Waiwai groups, the Trio are highly monolingual although some few may have a passive knowledge of Waiwai. As shown above, even the oldest generation of Mawayana speak Trio, and the ethnic Mawayana in Kwamalasamutu now all speak Trio as their only or primary language respectively; however, this is not to say that the older generations who learned Trio as their third or even second language ever learned to master Trio fully or with the competence of a native originally Trio speaker. In fact, many of the more complex grammatical
+
+Table 2. Speech patterns of the ethnic Mawayana in Suriname
+
+Generation of ethnic Mawayana
+
+Languages spoken with whom
+
+oldest (+/À 75 years)
+second generation (+/À60 years)
+third generation (+/À40 years fourth generation (+/À22 years) Wfth generation (<20 years)
+
+Mawayana among each other (3 people); Waiwai with their own children and with other Waiwai groups; Trio with their grandchildren, greatgrandchildren, and all other villagers
+Waiwai with their parents and their own children, and with other Waiwai groups; Waiwai and increasingly Trio with their grandchildren;
+Trio with all other villagers Waiwai with Waiwai speakers of older and peer groups; decreasingly Waiwai and increasingly Trio with their own children; Trio with all other villagers
+Trio with everyone although they may have a passive knowledge of Waiwai
+Trio only
+
+Aikhenvald and Dixon / Grammars in Contact 13-Aikhenvald-chap13 Page Proof page 318 19.7.2006 4:00pm
+318 Eithne B. Carlin
+aspects of Trio were never fully mastered by the non-Trio groups. Indeed, the fact that the non-Trio groups were numerically so large in the village of Kwamalasamutu rapidly led to some changes in Trio, namely simpliWcation and sometimes reanalysis (see Carlin 2004: 9–11). The ethnic Mawayana belong to the village elite, and hold high positions in the Western-style polyclinic. Of the other Waiwai-speaking groups, the Tunayana are well represented and dominant in the church elders’ council and the Sik¨ıiyana, who are considered to be experts in medicinal plants, run the traditional polyclinic. Thus in all, the Waiwai-speaking group in Kwamalasamutu, taken as a whole, is politically and socially quite dominant. Normally, however, this dominance does not immediately translate into a linguistic dominance: Trio remains the dominant language of the village. There is, however, a good deal of linguistic chauvinism as evidenced by the prevailing language attitude in the village in as far as Waiwai is regarded as being more or less on a par with Trio, but Mawayana, and also Sik¨ıiyana, are regarded as lesser languages, just the old people’s jokes. At least that was the general feeling before language documentation of Mawayana started, after which Mawayana became a very real language in the eyes of all the villagers, and in the eyes of the speakers themselves it has become an important and valuable language, one which oVers an excuse for their not being able to speak perfect Trio.
+There has been no borrowing whatsoever from Mawayana into Trio, either grammatically or lexically. Given the sociolinguistic situation sketched above and the negative language attitude towards the minority obsolescent languages, and taking into account the fact that all the groups involved are relatively homogeneous culturally so that the borrowing of new words along with new concepts was not neccssary, this is hardly surprising. The question remains, however, as to whether or not Mawayana has had any inXuence on Waiwai. It would seem not, although more in-depth research on Waiwai may in the future require this statement to be revised somewhat. There has been a negligible number of lexical borrowings, the most notable one being kamu ‘sun’ in Waiwai, which is a loan from an Arawak language, possibly Mawayana. In addition, other lexical cognates in Waiwai, Wapishana, Trio, Mawayana, and Taruma are found in the speciWc semantic domains of Xora and fauna where we Wnd lexical items that are common to the entire larger Guyana area but it is not possible to determine the direction of borrowing.
+What is evident, however, is that certain functional and pragmatic panCariban features have been borrowed into Mawayana, presumably from Waiwai, which were then reinforced under inXuence from Trio. The features of contact-induced change in Mawayana are dealt with below in §4 after a short linguistic proWle of the language.
+
+Aikhenvald and Dixon / Grammars in Contact 13-Aikhenvald-chap13 Page Proof page 319 19.7.2006 4:00pm
+
+13. Borrowing of Cariban Functional Categories 319
+
+3 Linguistic proWle of Mawayana
+
+At the current stage of research, it would appear that the closest genetic relative of Mawayana is Wapishana. The two languages share a large portion of the basic vocabulary. Both exhibit grammatical patterns that are common to many Arawak languages, for example, the pronominal system, the reXexes of the attributive preWx ka-, the negation marker ma-, and the like. Mawayana exhibits many Arawak features, that is, it is polysynthetic, has head marking, it is mainly suYxal but also has preWxes for the person markers on the main word classes noun (1), verb, and postposition (2). Mawayana has an attributive (3) and a privative preWx (4). The suYxes are mostly derivational; gender is also marked by means of suYxes but is not productive.
+
+(1) n-k¨ın¨ı
+
+‘my spirit song’
+
+(2) n-siima
+
+‘with me’
+
+¨ı-buuka
+
+‘towards you’
+
+(3) k-etinu-re-s¨ı
+
+jimaaº a
+
+attrib-kin-poss-3 jaguar
+
+Jaguar had family (i.e. he wasn’t alone)
+
+(4) m¨ı-u˜su˜
+
+‘without a wife’
+
+Transitive verbs take preWxes to mark the A argument and suYxes to mark the O (5). Intransitive verbs generally, but not always, mark the S by means of a suYx (6). In addition, the S/O markers are cliticized to the verbal negation and conditional markers ma- and a- respectively (7) and (8).
+
+(5) (a) r¨ı-kataba-na 3A-catch.past-1o He grabbed me
+
+(b) n-kataba-s¨ı 1A-catch.past-3o I grabbed him
+
+(6) (b) to˜wa˜-na˜_kwe
+
+(b)
+
+sleep.past-1s_aff
+
+Unfortunately
+
+I fell asleep
+
+to˜wa˜-s¨ı sleep.past-3s He fell asleep.
+
+(7) na kaa-t¨ına ma-s¨ı to˜we˜_kwe
+
+disc inter-who neg-3s sleep.pres_aff
+
+Well, who doesn’t sleep then?
+
+(8) nnu a-na mauºa chika-dza
+
+Mawayana
+
+1pn when-1s die
+
+neg.part-compl Mawayana
+
+When I die there will be no Mawayana left at all
+
+Aikhenvald and Dixon / Grammars in Contact 13-Aikhenvald-chap13 Page Proof page 320 19.7.2006 4:00pm
+320 Eithne B. Carlin
+Phonologically Mawayana has a four-way vowel system, as does Wapishana, namely a high front unrounded vowel realized as i/e; a high back rounded vowel realized as o/u; low (back) a; and a high central ¨ı. The Cariban languages, on the other hand, have six or seven vowels, the vowels of Waiwai being i, e, ¨ı, u, o, a. Both Waiwai and Mawayana are lacking the mid-central vowel e¨ that Trio has. In addition, Waiwai, Mawayana, Taruma, and Wapishana have nasal vowels and unlike Trio they all have two implosive consonants, d’ and ‚. Mawayana and Wapishana have a retroXex fricativized rhotic rˇz in common that none of the other languages has, which may be indicative of a shared innovation.
+4 Contact-induced change in Mawayana
+The instances of contact-induced change to the structure of Mawayana that are dealt with in the following sections are: the borrowing of a pronominal form to express person 1+3 ‘we (exc)’; and the borrowing of functional categories of nominal tense marking, marking of aVective, on nouns or verbs, to express the speaker’s attitude of ‘pity’ or ‘recognition of unfortunate circumstance’; marking a similative ‘as if ’ on nominals; and the marking of frustrative on verbs. All of these features, with the exception of aVective marking, are obligatory in the Cariban languages.
+4.1 The borrowing of a pronominal form Originally Mawayana had three exponents of the category of person, 1, 2, and 3. The relevant Cariban languages, Waiwai and Trio, have four exponents of the category of person, that is, 1, 2, 1+2, and 3, with an additional semantic 1+3 person, which is morphologically a combination of Wrst and third person, Wrst for evidential value (on verbs) and third for person agreement (all relevant word classes). In their daily speech, when speaking Waiwai and Trio, the Mawayana are required to use the distinction between Wrst person plural inclusive and exclusive. When speaking Mawayana, a language only spoken in the home, the speakers apparently felt there to be a gap in their pronominal system left by having only one marker (wa-) in their own language for the Wrst person plural without an inclusive/exclusive distinction. The Mawayana Wlled this gap by borrowing the Waiwai pronoun amna to express the concept of Wrst person plural exclusive. The Trio counterpart of amna, namely ainja, exhibits diVerent surface morphosyntactic behaviour from amna and although Mawayana uses the pronoun from Waiwai, it oscillates between the behavioural pattern of the Trio and the Waiwai Wrst person exclusive. In both Cariban languages the pronoun is obligatory and as such acts like an
+
+Aikhenvald and Dixon / Grammars in Contact 13-Aikhenvald-chap13 Page Proof page 321 19.7.2006 4:00pm
+
+13. Borrowing of Cariban Functional Categories 321
+
+independent noun. In Trio the pronoun is used in combination with the third person preWx i- (Ø before vowels) on a noun in possessive constructions, as shown in (9a), and as an argument on a postposition (9b). In Waiwai, the possessed noun preceded by amna has a zero third person preWx before a consonant-initial element and a preWx y- before a vowel-initial element as exempliWed by the possessed noun in (9c) and by the inXected postposition in (9d). As these examples show, the Waiwai construction is identical to the Trio but the surface allomorphy is reversed, that is, y- before vowel-initial nouns or postpositions, and zero before consonant-initial elements5.
+
+(9) (a) ainja i-pakoro ‘our (exc) house’ (Trio) (b) ainja Ø-ake¨re¨ ‘with us (exc)’ (Trio) (c) amna krapa-n6 ‘our (exc) bow’ (Waiwai) (d) amna y-akro ‘with us (exc)’ (Waiwai)
+
+In Mawayana, when nominal possessive constructions are formed with amna, the third person preWx is never used, rather the noun is left unmarked as shown in (10a). The original Mawayana equivalent is given in (10b). As these examples show, Mawayana now distinguishes between a Wrst person plural inclusive and exclusive by using the original Wrst person plural possessive preWx wa- to express inclusivity and the borrowed pronoun amna and the possessive construction from Waiwai, which is identical to the Trio construction, to express exclusivity. Mawayana simpliWes the form of the possessed noun, leaving it zero marked, which is an option in both Trio (with vowelinitial elements) and Waiwai (with consonant-intial elements), reconciling thus partly with both languages by choosing the simplest form.
+
+(10) (a) amna saruuka
+
+(b) wa-saruuka
+
+1+3pn Wshtrap
+
+1pl.poss-Wshtrap
+
+Our (exc) Wshtrap.
+
+Our (inc) Wshtrap.
+
+With verbs in both Waiwai and Trio, person 1+3 is expressed by means of the pronoun (amna and ainja) in combination with the preWx of the third person marked on the verb: the form of the preWx is n- in both languages. In Trio the third person preWx on the verb is always marked but in Waiwai some highfrequency verbs, such as ‘say’, ‘come’, and ‘go’, drop the third person preWx.7
+
+5 This is actually a simpliWed version of reality: in Trio a reXex of the relational preWx which is encoded in the glide in Waiwai is found in vowel-initial elements (see Carlin 2004: 74 V.). However, this does not aVect the argumentation presented here.
+6 The Wnal -n in this example is a possessive suYx. 7 In Trio the third person personal preWx is only dropped whenever the verb is immediately preceded by an overt lexical object. This is not the case in Waiwai.
+
+Aikhenvald and Dixon / Grammars in Contact 13-Aikhenvald-chap13 Page Proof page 322 19.7.2006 4:00pm
+
+322 Eithne B. Carlin
+
+Mawayana, on the other hand, when using the pronoun amna with the highfrequency verb me ‘say’ consistently marks the verb with the third person preWx r¨ı- thus following the Trio but not the Waiwai pattern, as shown in (11a). Example (11b) shows the original Mawayana Wrst person plural preWx wa- in use.
+
+(11) (a) amna
+
+r¨ı-me
+
+ALSO: r¨ı-me amna
+
+1+3pn
+
+3a-say.pres
+
+We (exc) say
+
+(b) wa-me 1pl-say.pres We (inc) say
+
+As in Waiwai and Trio, when amna is the subject it can occur either before or after the verb in Mawayana; see (11a). However, in most of the occurrences of amna as the subject of a verb, with the exception of the verb ‘say’ as stated above, Mawayana does not mark the verb with the third person preWx, leaving the verb unmarked: examples are given in (12a–b).
+
+(12) (a) amna
+
+chake
+
+1+3pn
+
+go.pres
+
+We’re going back
+
+(b) at¨ımara
+
+amna
+
+karara-º e
+
+Wsh sp.
+
+1+3pn
+
+catch.with.rod-it.pres
+
+We’re going to catch anjumara (Hoplias Aimara) with a rod
+
+Thus Mawayana has in common with Waiwai that it treats a high-frequency verb diVerently but while Waiwai uses no marking for these verbs, Mawayana does use a third person preWx r¨ı- for the verb ‘say’ as both Waiwai and Trio do for other verbs for which Mawayana uses no third person marking.
+To sum up, Mawayana has introduced the grammatical marking of a Wrst person exclusive by the obligatory use of a pronoun borrowed from Waiwai, and also by copying the Waiwai pattern of usage. Mawayana also copies the Waiwai pattern in that the high-frequency verb me ‘say’ is treated diVerently from other verbs; namely for this verb it copies the Trio practice of using a preWx, rather than no marker at all. The marker itself, namely r¨ı-, is the regular third person of Mawayana, and thus not a plural marker, and in this respect Mawayana follows the pattern of both Waiwai and Trio.
+
+4.2 Nominal past
+Nominal past marking is widespread and obligatory in the Cariban languages and is used to express former possession, a deceased possessor, a dead entity, or a referent that is useless or no longer usable. There is no doubt that
+
+Aikhenvald and Dixon / Grammars in Contact 13-Aikhenvald-chap13 Page Proof page 323 19.7.2006 4:00pm
+
+13. Borrowing of Cariban Functional Categories 323
+
+nominal past as a category in Mawayana has emerged due to contact with the Cariban languages, in particular Waiwai. Mawayana’s closest relative Wapishana does not have nominal past marking. The form of the nominal past marker in Mawayana is -ba which is suYxed to a nominal element; when the nominal ends in a vowel, that vowel changes to e before past marking. The forms and meanings expressed by the nominal past in Waiwai are given in Table 3. Apart from the two nominal past tense markers -tho/-th¨ır¨ı and nh¨ır¨ı/-nho, Waiwai has what Hawkins (1998: 129) calls a modifying particle pen that is used to express that the referent which precedes it is ‘dead’ or ‘gone’ or in some way deserving of ‘pity’. This function of marking a referent as ‘past’, ‘dead’, or ‘gone’ is collapsed in other Cariban languages (e.g. Trio and Wayana) and is expressed by the suYxal past tense markers. In Mawayana, the functions are also collapsed and marked by the marker -ba, but exclude the expression of ‘pity’, which is present in the semantics of Waiwai pen, rather expressing this meaning by means of an aVective marker _kwe which is dealt with in §4.3 below.
+The meanings expressed by the nominal past -ba in Mawayana are the following, exempliWed in (13a–e):
+
+. former: . past possession: . dead: . gone:
+
+possessed (13a) and non-possessed (13b) nouns; possessed nouns and nominals (13d–e); nouns (13b); nouns (13c).
+
+These examples show nominal past marking exactly where it would be required in the Cariban languages, with the exception of ‘dead’ in (13b) which is not found in Trio. Similar equivalents exist in Trio for all of these examples in (13). In (14a–b) I give only the Trio equivalents of the nominalized forms in (13d–e) respectively; as can be seen, the forms are structurally identical (notwithstanding some verbal marking required in Trio to mark verb types).
+
+Table 3. Forms and meanings expressed by nominal past in Waiwai
+
+Form
+
+Meaning (marked on)
+
+-tho/-th¨ır¨ı former; past possession (possessed nouns)
+
+-nh¨ır¨ı/-nho former; past possession (nominalized verbs; non-possessed nouns)
+
+pen
+
+dead, gone, pity
+
+Aikhenvald and Dixon / Grammars in Contact 13-Aikhenvald-chap13 Page Proof page 324 19.7.2006 4:00pm
+
+324 Eithne B. Carlin
+
+(13) (a) r-u˜su˜re-ba_koso
+
+chacha
+
+3poss-wife-past_rep cry.past
+
+His wife cried
+
+(b) ºu
+
+to˜
+
+mauºa_koso jimaaºe-b a_kwe
+
+ideo.hit. ground ideo.die die.past_rep jaguar-past_aff
+
+Poor jaguar fell down and died
+
+(c) adze
+
+n-m˜ı˜ıse-ba
+
+r¨ı-ma_ku-s¨ı
+
+where.past 1poss-husband-past 3a-say.past_persist-3o
+
+‘Where has my husband got to?’ she kept saying
+
+(d) a’u-riki
+
+¨ı-chaka
+
+n-ch˜ı˜ıya˜-se-ba-riki
+
+dem.dist-dir 2-go
+
+1poss-be-nomz-past-dir
+
+Go over there to where I was! (to my former place of being)
+
+(e) njee
+
+katabi-ke-ba
+
+jimaaº a
+
+human.being catch-ag.nomz-past jaguar
+
+Jaguar used to catch people (jaguar was a catcher of people)
+
+(14) (a) ire¨-pona
+
+te¨-ke¨ ji-w-eh-topo-npe¨-pona
+
+dem.inan.ana-dir go-imp.sg 1poss-1tr-be-tmp.nomz-past-dir
+
+Go over there to where I was!
+
+(b) w¨ıtoto
+
+ape¨i-ne-npe¨
+
+teese kaikui
+
+human.being catch-ag.nomz-past he.was jaguar
+
+Jaguar used to catch people
+
+The Waiwai element -pen diVers slightly in meaning from the suYxal past markers since besides the function of marking a human referent as ‘past’, that is, ‘dead’, it can also express the notion of ‘gone’ and ‘deserving of pity’, as shown in (15a–b) from Hawkins (1998: 129).
+
+(15) (a) [ahtao na] n-Ø-a-y
+
+Raatu pen
+
+wherever 3s-be-sf-unp Rod gone
+
+Who knows where Rod (a friend) is?
+
+(b) tuuna Æ-ekama
+
+oy-akno
+
+pen
+
+rain 3s-receive.s/thing.undesirable+TP 1poss-brother pity
+
+My poor brother caught a lot of rain
+
+Thus the scheme for Mawayana relative to Waiwai and Trio as regards nominal past marking with the suYxes and the so-called particle pen is given in Table 4.
+Thus Mawayana has introduced the category of ‘former’ marking on nominals which is an obligatorily marked category in Waiwai and Trio. The marker itself, -ba, is diVerent from the markers in Waiwai and Trio and its
+
+Aikhenvald and Dixon / Grammars in Contact 13-Aikhenvald-chap13 Page Proof page 325 19.7.2006 4:00pm
+
+13. Borrowing of Cariban Functional Categories 325
+
+Table 4. Nominal past marking
+
+Meaning
+
+Mawayana
+
+former, past possession
+dead
+gone
+
+-ba
+-ba (-ba) or _kwe (aVective enclitic)
+
+Waiwai -tho/-th¨ır¨ı; -nh¨ır¨ı/-nho
+pen pen
+
+Trio -npe¨, -hpe¨
+-npe¨, -hpe¨ —
+
+origin is as yet unknown. The semantic range of the Mawayana past marker shows the Waiwai pattern in that the marker is also used for the meaning ‘dead’. At the same time it also shows Trio inXuence in that one form is used for all meanings where Waiwai uses two diVerent markers. It also shows Trio inXuence in its exclusion of the semantic aspect of ‘pity’ for this ‘former’ marker. This latter aspect is expressed in Mawayana by a diVerent marker, namely, by the aVective enclitic _kwe which is dealt with in the following section.
+4.3 The aVective marker _kwe
+AVectivity, that is, the notion that someone is deserving of pity, or is (has been or will be) adversely aVected by an action or state, can be expressed by means of an interjection in Mawayana, Waiwai, Wapishana; the forms, which are clearly related, are as follows:
+AVective interjections Mawayana: okwe Wapishana: kowas Waiwai: okwe
+Trio only knows one interjection, p¨e, to express the general notion of ‘oh dear!’ or ‘how terrible!’ and thus is not further included here. Besides having the interjection okwe at its disposal, which is used to modify the entire clause, Mawayana has developed the enclitic _kwe to mark the aVectedness of the constituents. As such, this clitic’s meaning and the translation of the sentence depend on the constituent to which it is cliticized. The meanings expressed by the aVective enclitic in Mawayana include the notions ‘gone’, ‘pity’, ‘embarrassment’, ‘pain’, ‘dismay’, and ‘suspicion’: some examples in Mawayana are given in (16a–c), where the translations are highly context dependent.
+
+Aikhenvald and Dixon / Grammars in Contact 13-Aikhenvald-chap13 Page Proof page 326 19.7.2006 4:00pm
+
+326 Eithne B. Carlin
+
+(16) (a) to˜wa˜-s¨ı
+
+koº o1koº or¨ı_kwe
+
+sleep.past-3s frog.sp_aff
+
+Poor frog couldn’t help it, he fell asleep
+
+(b) nko-s¨ı
+
+to˜wa˜-na˜_kwe
+
+r¨ı-ma_koso
+
+koº okoº or¨ı
+
+3pn-3
+
+sleep.past-1s_aff 3a-say.past_rep frog
+
+‘That’s it, I fell asleep’, frog said, embarrassed
+
+(c) r-aucha-na_kwe 3a-bite.past1o_aff Ouch, he bit me!
+
+While the aVective interjection okwe in Waiwai seems to occur either sentence initially or sentence Wnally, its equivalent in Wapishana, kowas, can occur following a particular constituent as shown in examples (17a–c) below. The meaning of kowas is given as ‘too bad, poor thing, life’s like that’ (WWA 2000: 53) and as such both in meaning and in position in the clause is more similar to the clitic in Mawayana.
+
+(17) (a) Taraiporo zuna tuma kowas maonapatan kootaro ati prop.name woman comit aff approach.past Kutari dir Taraiporo with the lady came closer to the Kutaro creek (where something terrible was about to happen to them)
+(b) u-nawuzu dobata naa kowas pa-ba1orantin. 3poss-brother pass asp aff 3s-be.alone Unfortunately his brother passed alone in front
+(c) u-ikodan barara na’akan kibaro, kowas 3a-Wnd.past crab carry frog aff He (the man) found a crab carrying a frog, poor thing. (Wapishana Primer n.d.: 29)
+
+Given that the aVective-marking elements are similar in form and meaning in all three languages, we can assume that they are related, and considering that the usage of the interjection in Wapishana is more closely aligned with the enclitic in Mawayana than with the more restricted pattern in Waiwai, we may conclude that Waiwai probably borrowed the aVective interjection from Mawayana rather than the other way around.
+All the meanings expressed by the Mawayana enclitic _kwe are expressed in Waiwai by the particle pen as shown above, and it is only with the meaning ‘dead’ that there is some discrepancy since it can only be expressed by the
+
+Aikhenvald and Dixon / Grammars in Contact 13-Aikhenvald-chap13 Page Proof page 327 19.7.2006 4:00pm
+
+13. Borrowing of Cariban Functional Categories 327
+nominal past marker -ba in Mawayana and not by the aVective enclitic. Mawayana may have been inXuenced by Waiwai in that it has developed a clitic in addition to the interjection for the same functions as the Waiwai particle pen.
+
+4.4 The Mawayana frustrative _muku
+Frustrative marking is an obligatory feature of Cariban languages, the form of which is the clitic _re(pe) in both Waiwai and Trio, as well as in many other Cariban languages. The form of the frustrative enclitic in Mawayana is _muku. This enclitic has, for the most part, exactly the same morphosyntactic properties as the Cariban frustrative, that is, it can be marked on the major word classes, and it carries the same meaning. When marked on nouns it implies that at least one semantic feature of that noun is not fulWlled, see (18a), which is followed by the equivalent in Trio in (18b); on verbs it has the meaning ‘to carry out an action in vain’, that is, the action was unsuccessful, incomplete, or it did not have the required eVect, as in (19). On postpositions it has the meaning ‘almost’, as in (19b), cf. also the Trio equivalent in (19c). Identical examples are found in Waiwai.
+
+(18) (a) k¨ıw¨ı-ºi_koso_muku
+
+ku-re
+
+(Mawayana)
+
+head-cover_rep_frust like-nomz
+
+It was something like a sort of hat (but not quite)
+
+(b) k¨ır¨ıwenpe¨-re
+
+apo-n
+
+(Trio)
+
+hat-frust
+
+like-nomz
+
+It was something like a sort of hat (but not quite)
+
+(19) (a) ¨ı-cha_ku-s¨ı?
+
+a1u1a n-cha_muku_ku-s¨ı (Mawayana)
+
+2a-do.past_persist-3o yes 1a-do.past_frust_persist-3o
+
+Did you Wx it? yes I Wxed it (in vain)
+
+(b) k¨ıw¨ı-ºi-kura_koso_muku (Mawayana) head-cover-like_rep_frust It was almost like a hat (but it wasn’t really one)
+
+(c) k¨ır¨ıwenpe¨
+
+apo-repe (Trio)
+
+hat
+
+like-frust
+
+It was almost like a hat (but it wasn’t really one)
+
+A few structural instances have been found where the Mawayana usage of the frustrative diVers slightly from that in the Cariban languages in that the frustrative is marked on the Wrst element in the clause, see example (20a),
+
+Aikhenvald and Dixon / Grammars in Contact 13-Aikhenvald-chap13 Page Proof page 328 19.7.2006 4:00pm
+
+328 Eithne B. Carlin
+
+rather than on the verb as it would be in the Cariban languages, see the Trio equivalent in (20b).
+
+(20) (a) kusara_muku naaka-na r¨ı¨ıch¨ıka ma-¨ı yaaºa (Mawayana) deer_frust take.past-1o fast neg-2s come.past The deer took me (would have taken me) if you hadn’t come soon
+
+(20) (b) j-ape¨i-re
+
+w¨ıkapau te¨e-se-wa-nke¨re
+
+e¨me¨
+
+1o-take.past-frust deer come-nfin-neg_persist 2pn
+
+ahtao
+
+(Trio)
+
+when
+
+The deer took me (would have taken me) if you hadn’t come soon
+
+Synchronically Wapishana does not seem to have a frustrative marker, nor is it known whether the language ever had a frustrative marker. The etymology of the form of the Mawayana frustrative _muku is unknown, since similar forms do not occur in any of the relevant languages; whether or not the source could be Taruma cannot be answered until more data on Taruma are forthcoming. However, we can see from the comparison of structures given above that Mawayana in general follows the Cariban pattern of marking frustrative either on the verb to refer to the action, or on the relevant constituent.
+
+4.5 The Mawayana similative-ni
+A further obligatory category in the Cariban languages is the similative which expresses the notion of ‘being for all intents and purposes X but not in essence so’ which has the form -me (or -pe) in all the Cariban languages. For example, the Trio w¨ıtoto ‘human being’, when marked with the similative -me, w¨ıtotome ‘a human being’ has the meaning ‘manifestly but not inherently a human being’, as for example when a spirit manifests itself as a human being. In earlier work I have referred to this marker by the gloss facsimile (facs) to indicate that its basic meaning is ‘manifestly but not inherently X’, see Carlin (2002, 2004). In the Cariban languages the similative -me can be analysed structurally as an adverbial or a depictive, and a marker of secondary predication, and it also has a grammaticalized aspectual meaning. The functional category similative that has been transferred into Mawayana is found in its basic meaning (21a–b) and as a marker of secondary predication (21c–d), and with grammaticalized aspectual meaning as in (21e). In the Wrst instance, the Mawayana similative -ni, as illustrated by the examples (21a–b), is found mostly, but not only, in the context of physical or spiritual transformations from one state to another which is typically where it is also found in Trio and Waiwai. For purposes of structural comparison, some Trio examples are given in (22a–c), and a Waiwai example in (23).
+
+Aikhenvald and Dixon / Grammars in Contact 13-Aikhenvald-chap13 Page Proof page 329 19.7.2006 4:00pm
+
+13. Borrowing of Cariban Functional Categories 329
+
+(21) (a) waata-ni
+
+r-aya˜º˜ıya˜
+
+(Mawayana)
+
+oppossum-simil 3s-transform.past
+
+He changed into an oppossum
+
+(b) na r¨ı-kura n-aya˜º˜ıya˜
+
+r¨ınaru-ni
+
+kuira (Mawayana)
+
+disc 3pn-like 3pl.s-transform.past woman-simil interj
+
+So like that they transformed into women
+
+(c) ukuºa-s¨ı wa-w¨ın¨ı-ni
+
+(Mawayana)
+
+shoot-3o 1pl.poss-meat-simil
+
+Shoot it as our meat!
+
+(d) uwiya_koso k¨ım¨ın¨ıka r¨ınaru kataba a-¨ızˇa-ni (Mawayana) anaconda_rep long.ago woman catch.pst 3coref-pet-simil A woman caught an aconda as her pet long ago
+
+(e) wiyo˜ka˜r¨ı-ni_koso
+
+xahn˜e8
+
+young.man-simil_rep he.was (Waiwai)
+
+he was a young man
+
+(Mawayana)
+
+(22) (a) kaikui-me te¨metae
+
+(Trio)
+
+jaguar-simil he.transformed
+
+he transformed into a jaguar
+
+(b) k-oot¨ı-me
+
+t¨ıwe¨-ke¨!
+
+(Trio)
+
+1+2poss-meat-simil shoot-imp.sg
+
+shoot it as our meat!
+
+(c) k¨ır¨ımuku-me
+
+teese (Trio)
+
+young.man-simil he.was
+
+he was a young man
+
+Waiwai: -me
+
+(23) noro Æi-ir-a-tkeÆe kayaritomo me
+
+3pn 3a-make-sf-up chief
+
+advzr they made him to be the chief
+
+(Hawkins 1998:128)
+
+The source of the similative -ni in Mawayana is unknown but it could be related to a morpheme nii in Wapishana which is described in the WWA (2000: 172) as expressing a non-current event, as shown in example (24a).9
+
+8 The verb form xahn˜e ‘he was’ is an interference from Waiwai. In Mawayana there would not have been a verb form ‘to be’ here.
+9 WWA stands for Wapichan Wadauniinao Ati’o ‘Wapishana for our Descendants’, which is the name of a language project initiated by the Wapishana community in Maroronao in Guyana.
+
+Aikhenvald and Dixon / Grammars in Contact 13-Aikhenvald-chap13 Page Proof page 330 19.7.2006 4:00pm
+330 Eithne B. Carlin
+However, there are occurrences of nii as a marker of secondary predication in Wapishana as shown in (24b). Wapishana: -ni
+(24) (a) n-ikiyan ni p¨ıgar ‚a¨ırºukur kiyan (non-current event) 1a-eat ni 2pn jaguar say I’m going to eat you, the tiger said
+(b) u-’aipiyan pa-zˇamatan pa-wany¨ık¨ın¨ı-ni (similative function?) 3a-want 3a-grab 3coref.poss-food-ni He wanted to grab him as his meat
+These examples show that it is quite possible that secondary predications were marked as such by the morpheme nii in Wapishana and thus that this category is native also to Mawayana but that its functions were expanded under inXuence from Waiwai and Trio where it was used to mark those instances where transformations took place between the spirit world and the human world. Synchronically in Wapishana such transformations are formed by means of a noun plus a verbalizer.
+5 Conclusions
+It has been shown in this chapter that Mawayana has undergone grammatical expansion in that it has borrowed those categories that are obligatory in the Cariban languages. Some agreement categories that do not exist in the Cariban languages, such as gender marking, or a classiWer system which possibly existed in Mawayana, became irrelevant and were lost, in contrast to Wapishana which retained gender. Some, if not all, obligatory categories in the Cariban languages, which do not express agreement but which nevertheless are obligatorily expressed, were transferred Wrst and foremost from Waiwai and were then reinforced and modiWed by subsequent Trio inXuence.
+Mawayana shows clear resistance to the transfer of actual morphological forms but not to the transfer of structural categories, that is, the actual grammatical material used for these structural innovations is not taken over with the category marker with the exception of the free-standing forms. In the lexicon there is only a negligible number of borrowings. In fact, as shown here there are only two markers that in form Mawayana has in common with its closest relative Wapishana, namely -ni with a diVerent meaning synchronically, and _kwe which is clearly related in form to the Wapishana kowas and
+
+Aikhenvald and Dixon / Grammars in Contact 13-Aikhenvald-chap13 Page Proof page 331 19.7.2006 4:00pm
+13. Borrowing of Cariban Functional Categories 331
+Waiwai okwe.10 The actual direction of transfer of the latter category cannot be determined. However, while kowas in Wapishana and okwe in Waiwai are free forms, Mawayana has developed it into a grammatical form, namely the enclitic _kwe. Thus, once transferred, these markers are restructured according to Cariban patterns, whereby the aVective enclitic _kwe clearly patterns along with the Waiwai particle pen.
+The sources of the other new categories that have been introduced, namely the nominal past -ba and the frustrative _muku, cannot be traced, leading us to the conclusion that language-internal sources were pressed into service for the purposes required by the Cariban categories. Alternatively, given the history of the Mawayana and their intermingling with the Taruma, the Taruma language may ultimately be shown to be this unknown source. It is clear, however, that Mawayana has fully incorporated the past marking as shown also with the -ba on the nominalized forms which are identical to the Cariban structures; the examples given above look like calqued forms. Thus, in this situation of language shift that is leading to language death, the structural properties of obligatory inherent inXection are taken over from the dominant second language Waiwai and are transferred into the maintained Wrst language Mawayana.
+In spite of the fact that Mawayana is a moribund language, and has been for the better part of 150 years, the language did not lose any major categories; on the contrary, it has actually gained from the contact situation: the features given above are additions or at least expansions on functions that were already present. Thus there has been no grammatical breakdown of Mawayana as one might expect in such a language death situation. The fact that the southern Guianas can be seen as a cultural area only worked in favour of this acceptance of the new or exapanded forms and functions. I think it has been the case that Mawayana chose to overlay the functions on its existing resources. In fact, this expansion by means of new functions is quite spectacular in a situation of language shift followed by language death, where the usual pattern of inXuence of language A (original language) on language B (target language being shifted to) is reversed. We can deduce from the resultant structural changes in Mawayana that although the Mawayana speakers were not originally bilinguals, their dominant language had become Waiwai and that it was for
+10 We cannot of course rule out the possibility that Wapishana did have a marker -ni with similative meaning comparable to the Cariban -me. The Wapishana were Christianized much earlier than the Mawayana and Waiwai and it is quite possible that if this marker belonged to the realm of the spirit world and transformations, it may have been thrown out with the spirits required for its use. If this is
+
+Aikhenvald and Dixon / Grammars in Contact 13-Aikhenvald-chap13 Page Proof page 332 19.7.2006 4:00pm
+332 Eithne B. Carlin
+reasons of ‘feeling the need’ to express the same obligatory categories that they transferred these into their original language.
+References
+Brown, C. B. 1876. Canoe and camp life in British Guiana. London: Edward Stanford. Butt-Colson, A. and Morton, J. 1982. ‘Early missionary work among the Taruma and
+Waiwai of Southern Guiana: the visits of Fr. Cuthbert Cary-Elwes, S.J. in 1919, 1922, and 1923’, Folk 24: 203–61. Carlin, E.B. 2002. ‘Patterns of language, patterns of thought: the Cariban languages’, pp. 47–81 of Carlin and Arends 2002. —— 2004. A grammar of Trio, a Cariban language of Suriname. Duisburger Arbeiten zur Sprach- und Kulturwissenschaften 55. Frankfurt: Peter Lang. —— and Arends, J. (eds.), 2002. Atlas of the languages of Suriname. Leiden: KITLV Press. Derbyshire, D. C. and Pullum, G. K. (eds.). 1998. Handbook of Amazonian languages, Vol. 4. Berlin: Mouton de Gruyter. Farabee, W. C. 1918. The central Arawaks. Philadelphia: University of Pennsylvania Press. Hawkins, R. E. 1998. ‘Wai Wai’, pp. 25–224 of Derbyshire and Pullum 1998. Howard, C. V. 2001. Wrought identities: the Waiwai expeditions in search of ‘unseen tribes’ of Northern Amazonia. Ph.D. thesis, University of Chicago. Rivie`re, P. G. 1963. An ethnographic survey of the Indians on the divide of the Guianese and Amazonian river systems. B.Litt. thesis, Oxford University. Schomburgk, R. H. 1841. ‘Report of the third expedition into the interior of Guayana, comprising the journey to the sources of the Essequibo, to the Caruma´ Mountains, and to Fort San Joaquim, on the Rio Branco, in 1837–8’, Journal of the Royal Geographical Society 10: 159–90. —— 1845. ‘Journal of an expedition from Pirara to the Upper Corentyne, and from thence to Demerara’, Journal of the Royal Geographical Society 15: 1–104. WWA. 2000. Scholar’s dictionary and grammar of the Wapishana language. Lethem: Wapishana Language Project.
+
+

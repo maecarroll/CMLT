@@ -1,0 +1,1036 @@
+Apontamentos Preliminares sobre Ñandéva Guaraní Contemporâneo
+Robert A. Dooley
+Versão Preliminar
+2008* Associação Internacional de Lingüística - SIL Brasil
+Cuiabá - MT
+*Esta é uma reprodução fiel da edição original de 1991 (Arquivo Lingüístico, Summer Institute of Linguistics: Brasília, DF), exceto
+pela paginação, que não segue a original porque o tamanho das páginas foi mudado; e pela correção de alguns erros de grafia.
+
+0 Introdução
+Segundo Schaden, "os Guaraní do Brasil Meridional podem ser divididos em três grandes grupos: os Ñandéva ..., os Mbüá e os Kayová" (1974:2).1 Se, porém, contássemos, não apenas grupos indígenas, mas dialetos da língua Guaraní falados no Brasil, teríamos que acrescentar mais um, o Avañeém (Guaraní Paraguaio), que é falado em regiões vizinhas àquele país. A distinção entre estes dialetos apresenta importante problema prático, tanto para o leigo como para o lingüista: nem todos poderão usar o mesmo material escrito, e a compreensão entre certos destes dialetos é difícil. Uma das razões da dificuldade em distinguir estes dialetos é uma lacuna no conhecimento atualizado do Ñandéva, dialeto que, de uma forma ou outra, é intimamente ligado com cada um dos outros três.
+Ao começarmos este assunto, temos que arcar com o problema de nomenclatura. Convém distinguir entre nomes científicos, nomes populares e autodenominações. Os nomes em uso científico, no Brasil, são: Ñandéva, Mbyá, Kaiwá e Avañeém. Cada um destes nomes tem várias maneiras de se soletrar, mesmo em trabalhos científicos: por exemplo, Ñandéva ~ Nhandéva; Mbyá ~ Mbiá ~ Mbüá; Kaiwá ~ Kayová ~ Kayoá ~ Cayuá; Avañeém ~ Avañe'ẽ. No Paraguai, Kaiwá é associado com o nome de Paĩ-Tavyterã ou Caaguá ~ Ka'aguá, e Ñandéva com Chiripá.
+No nível mais popular, Ñandéva, Mbyá e Avañeém são conhecidos por Guaraní. É mais neste nível que Ñandéva tem o nome de Chiripá (ou Txiripá), tanto no Brasil como no Paraguai; segundo Schaden (1974:2, 16), alguns Mbyá acrescentam o morfema diminutivo e os chamam de Txiripá'i 'Chiripazinhos'. No Paraguai, Mbyá é às vezes conhecido como Ka'yguã ~ Kainguá, Apyteré ~ Apüteré, ou Baticola (p. 3). No litoral Paulista, Schaden (pp. 3, 16) registra que os Ñandéva chamavam os Mbyá de Ñaneirũ [ãnẽi'ũ] 'nossos companheiros' ou Txeinũ [tẽi'ũ] 'meus companheiros', nome atestado por Nimuendajú (p. 15) referente a um grupo que parece ter sido Mbyá.2 Avañeém é conhecido não somente como Guaraní Paraguaio, mas também como Guaraní Moderno. Pelos próprios falantes, é chamado de Jopara [dopa'a] 'mistura'. Entre os Mbyá, é referido como [paɾagai a'ßu] 'fala paraguaia', e entre os Kaiwá como [paɾagai'], com o mesmo significado.
+Quanto à autodenominação, todos os três grupos indígenas se chamam de [a'ndßa] ou [a'ⁿdßa] (Ñandéva) 'nossa gente'. Além disso, os Kaiwá usam o mesmo nome de Kaiwá mas também de Te'ýi [t'i] 'povo'. Os Mbyá e Ñandéva se chamam de Guaraní; alguns dos Mbyá se chamam de Mbyá, e Ñandéva se chamam, como os Kaiwá, de [t'i]. Cadogan (1959:66)
+1 Com esta divisão, Aryon Rodrigues (1986:39) concorda. No Paraguai oriental, a divisão é a mesma: "ya a fines del siglo XVIII se tienen informaciones suficientes que muestran que están constituidos diferenciadamente las tres parcialidades guarani actuales del Paraguay oriental: los Mbyá, los Chiripá y los Paĩ" (Meliá, Grünberg e Grünberg, 169). Veja também Cadogan 1959:65.
+2 O uso do termo tei'rũ talvez seja relacionado com o freqüente cruzamento marital entre Chiripá (Ñandéva) e Mbyá registrado por Cadogan (1959:68). Mencionamos duas observações que talvez sejam ligadas a isso. Primeiro, conforme me contou um Ñandéva que tornou a viver entre os Mbyá, este termo é um tipo de gíria que significa 'o primeiro marido da minha mulher'. Segundo, Cadogan (loc. cit.) menciona que, talvez devido à rouba de mulheres Mbyá pelos Ñandéva, estes às vezes chamam aqueles de ñande rovajá 'nossos cunhados'. Seja como for, estes nomes são indicadores de um intercâmbio social entre os dois grupos.
+2
+
+registra o termo Avá Guaraní 'homem Guaraní' como autodenominação dos Chiripá (Ñandéva) paraguaios cuja linguagem é, em boa parte, "paraguaizada". Já que o termo [a'ⁿdßa] serve de autodenominação de cada um dos três grupos, existe uma potencial confusão em saber qual dialeto uma determinada pessoa ou comunidade fala, simplesmente perguntando aos falantes. Este estudo sumário tem como um dos seus propósitos o de fornecer meios lingüísticos pelos quais se poderá identificar o dialeto falado por determinado falante da língua Guaraní no Brasil.
+Outro propósito seria suprir alguns dados lingüísticos sobre os Ñandéva, já que mais de 75 anos tem passado desde o estudo monumental de Nimuendajú (Nimuendajú 1987, originalmente publicado em alemão em 1914), e neste longo intervalo as notícias sobre o dialeto Ñandéva têm sido muito raras. Não se pretende aqui elaborar uma análise devidamente ampla das mudanças sofridas pelo dialeto neste intervalo, nem uma descrição geral do Ñandéva contemporâneo, mas uma simples comparação dos traços mais salientes, apontando tanto correspondências como diferenças, entre o Ñandéva contemporâneo e o registrado por Nimuendajú.
+Um terceiro propósito seria indicar onde, e até que ponto, o Ñandéva é ainda falado. E, tendo em vista vários grupos originalmente da fala Ñandéva que hoje estão querendo recuperar o uso do seu idioma, um quarto propósito seria fornecer uma base lingüística comparativa, mesmo rudimentar, visando a possível adaptação de material didático para Ñandéva.
+Na sua maior parte, os dados neste estudo, especialmente após seção 3.4 (Quadros de fonemas), apresentam-se numa transcrição fonológica, sendo esta a forma mais simples e conveniente para a comparação entre dialetos. Dados em transcrição fonológica se exibem em tipo negrito: omomo 'jogou'. Dados em transcrição fonética, em negrito e entre colchetes, seguem o sistema da Associação Fonética Internacional (Ladefoged 1990): [õmõ'ᵐbo]. (O apóstrofe, indicador de acento, nem sempre é escrito.) Dados que seguem uma transcrição diferente, conforme a fonte de onde são citados, são em tipo itálico: omombo.
+1 Demografia
+O objetivo nesta seção é o de identificar grupos de Ñandéva, e especialmente os que ainda conservam este dialeto na sua vida cotidiana.
+• Os Ñandéva de Mato Grosso do Sul tendem a falar uma mistura de Kaiwá, Avañeém e seu próprio dialeto. Já Nimuendajú menciona essa tendência: "Os bandos do sul de Mato Grosso, por sua vez, incorporam elementos estranhos à sua língua através do paraguaio" (pp. 24s). Não se sabe, porém, até que ponto se trata de mudança de língua, e até que ponto se trata de bilingüismo. Quanto a população, CIMI (1979) menciona 600 Ñandéva no PIN Dourados, uns poucos no PIN Caarapó, a maioria entre 550 indígenas no PIN Piraju'y, a minoria entre 600 no PIN Ramada e a maioria entre 600 no PIN Jacare'y (outras fontes colocam o número de Guaraní em Piraju'y em 1.600 ou mais). Moram ainda, em fazendas e outras terras particulares em Mato Grosso do Sul, mais umas centenas.
+• No PIN Nimuendajú (o antigo Araribá) (ADR Bauru/SP), segundo informações colhidas em 1989 pela 1a SUER da FUNAI em Curitiba, vive uma comunidade com 118 indígenas do grupo Ñandéva, mas que não fala este dialeto como comunidade (a mestiçagem parece ser um fator responsável por isso). As crianças geralmente não estão aprendendo a falar Guaraní, e alguns adultos, mesmo entendendo o dialeto, não costumam falá-lo entre si. Somente os mais velhos do grupo costumam falar o dialeto. Contudo, há notícias de um interesse forte, por
+3
+
+parte de alguns, em recuperar seu uso. CIMI (1979) menciona apenas 20 Ñandéva; Fóz (1984) menciona 40. • No PIN Kopenoti (ADR Bauru/SP), entre 263 indígenas, em sua maioria Terena, vivem 4 Guaraní. Não se sabe sobre seu dialeto. • No PIN Icatu (ADR Bauru/SP), entre 86 indígenas, em sua maioria Kaingang, vivem uns Guaraní. Não se sabe sobre seu número exato ou dialeto. • No Prumirim, ("área próxima à praia de Prumirim, à esquerda de quem se dirige a Parai, pela Rio-Santos, 15 km. depois de Ubatuba"), Fóz dá notícia de 10 Ñandéva. Não se sabe sobre a linguagem usada ali. • No PIN Rio Silveira (mun. São Sebastião, SP), os falantes de Ñandéva compõem uma minoria. São chamados de Chiripá pelos Mbyá de lá, e alguns se têm casado com estes. Os dois dialetos continuam em uso. Conforme Barbosa e Barbosa (p. xiii), a população total em 1985 era 67; em 1979, CIMI contou 17 ("grupo que esteve em Peruíbe e na Serra dos Itatins, mas mudou por questões internas"). • No PIN Peruíbe (mun. Peruíbe, SP), onde outrora se falava Ñandéva, sofreu-se forte influência da população não-indígena em redor, inclusive a mestiçagem. Portanto, a comunidade já se reduziu em número e no uso do dialeto; seus falantes atuais são poucos. Em 1979, CIMI deu o número em 100, com o seguinte comentário: "tem problemas de mestiçagem e questões internas de liderança. Dificuldade para conservação da tradição. Das aldeias do litoral paulista parece ser a que está em piores condições". Em 1984, Fóz deu o seu número em 133. • No PIN Bananal (mun. Peruíbe, SP) ainda vivem falantes de Ñandéva, mas existe também mestiçagem, ao ponto de a maioria da comunidade falar o português. • No PIN de Itariri (Serra dos Itatins, mun. de Itariri), a maioria agora parece ser falantes de Mbyá, e há casamentos entre estes e os Ñandéva. Barbosa e Barbosa (p. xiii) dá o número de 32 como população total; CIMI (1979) menciona 15 Chiripá (Ñandéva), "liderados pelo capitão Antonio Branco, filho do antigo capitão Joaquim Branco, que veio com o grupo do Mato Grosso do Sul". • No PIN Laranjinha (ADR Londrina, mun. de Sta. Amélia, PR), vivem aproximadamente 185 pessoas, a maior parte sendo de descendência Ñandéva, em terra demarcada de 100 alqueires. A comunidade por si fala o português. Apenas 5 ou 6 indivíduos falam bem o Ñandéva, cada um com 55 anos ou mais de idade e com procedência de Araribá, SP. Existe um forte interesse, por parte da liderança e da professora Laura Augusta de Moraes, em resgatar o uso da língua indígena. Na escola, o ensino é em português; as crianças aprendem palavras, frases e canções, mas brincam apenas em português, e em casa não dão sinal de entender quando os avôs falam com eles em Ñhandéva. A ênfase escolar no Ñandéva parece estar levando as crianças, e talvez a comunidade toda, a um maior nivel de valorização da língua indígena. Até o presente, porém, não tem produzido novos falantes. Fiz uma visita a esta aldeia em março de 1990. • No PIN Pinhalzinho (ADR Londrina, mun. Guapirama), umas 75 a 90 pessoas vivem numa área de 277 alqueires recentemente demarcada. A situação lingüística é semelhante à de Laranjinha, mas na escola não há quem ensine a língua indígena. O cacique expressa um forte desejo de conseguir professor ou professora que a possa ensinar. Visitei ali em março de 1990. • No PIN São Jerônimo da Serra (ADR Londrina, mun. São Jerônimo da Serra, PR) moram 1520 famílias pertencentes ao grupo Ñandéva ou mestiçadas com ele, e no vizinho PIN Barão de
+4
+
+Antonina mais 4 ou 5 famílias deste tipo. Os dois lugares têm escola em português. Contudo, os falantes do dialeto são bem raros, e as comunidades falam português. • No PIN Ocoí (mun. São Miguel do Iguaçu, PR), ajuntaram-se em anos recentes um grupo de chamados "Ñandéva", do oeste do estado e até do Paraguai, enquanto um grupo menor de "Ava Guaraní", que antes era na maioria, tem saído e perambulado até o litoral paulista, e que agora está no PIN Rio das Cobras, PR. Não tenho notícias sobre até que ponto a língua guaraní é falada, mas grupos na zona fronteira com Paraguai, geralmente sofrem forte influência de Avañeém. • No Paraguai, o relatório do CIMI (1979) dá um total de 5.500 Ñandéva localizados no "Rio Jejui (Paranhos), ao Sul até o Rio Akaray (cai no Paraná a 10 km de Foz do Iguaçu); a Leste do Paraná e a Oeste do Rio Corriente, que está a 170 km de Guaíra". No Chaco vivem uns chamados "Ñandéva", mas são Tapiete, que falam uma forma de Chiriguano, outro dialeto guaraní (Dietrich, 31). Cadogan (1959:66) dá notícia de 279 famílias e 50 homens solteiros dos Chiripá de Itakyry, "diseminados em pequnõs grupos através de la zona comprendida entre Hernandarias - Yerbal - Santa Teresa - Ygatimí - Curuguaty - Santaní (San Estanislao) Yhũ". Cadogan acrescenta que, entre os grupos Guaraní do Paraguay Oriental, os Chiripá (Ñandéva) "son considerados como los más aculturados"; "las uniones maritales de paraguayos con mujeres chiripá son frecuentes" (pp. 66s). Quanto à sua língua, ele diz que "todos los Chiripá con quines he conversado hablan a la perfección el guaraní híbrido paraguayo, sin tener la menor dificultad em pronuciar las letras d, f, l, ll, r, rr, s como ocurre con los Mbyá", e que devido a "esta ignorancia", ele só achou possível "reconstruir el guaraní puro hablado originariamente por los Chiripá" através do seu conhecimento de Mbyá e da ajuda de uns rezadores (p. 72).3
+Os dados que até agora chegaram ao conhecimento deste pesquisador, apontam um total de 2300 a 3300 indígenas do grupo Ñandéva que moram no Brasil. Entre estes, talvez 85% a 90%, compondo a maior parte dos "Guaraní" de Mato Grosso do Sul, costumam falar a mistura que inclui Avañeém e Kaiwá; não se sabe o seu grau de bilingüismo em português ou Ñandéva "puro". Talvez 8% a 13% costumam falar português, incluindo um número bem menor de pessoas que são bilingües em Ñandéva. Os que comumente falam o próprio Ñandéva talvez não passem de 1% a 3% da população do grupo étnico.
+Além disso, estamos colocados perante a possibilidade assustadora de que poderia não existir comunidade alguma, no Brasil, cuja língua costumeira seja um Ñandéva relativamente "puro", mesmo atualizado desde o tempo de Nimuendajú. É possível que ainda exista tais comunidades no Paraguai, mas as notícias de Cadogan (1959) não oferecem muita esperança quanto a isso. As comunidades de Laranjinha e Pinhalzinho (PR) e PIN Nimuendajú (SP) evidenciam o desejo de recuperar o uso da sua língua, empreendimento muito difícil face às pressões envolventes.
+3 Cadogan avalia sua reconstrução de Chiripá (Ñandéva) original como sendo "mucho más afín al clásico de Montoya [isto é, ao Guaraní Antigo das reduções jesuíticas, RAD] que el mbyá" (p. 72). A. Rodrigues também afirma: "Fora o Guaraní Paraguaio ... o candidato mais provável a descendente do Guaraní Antigo parece ser o Ñandéva (Txiripá, Apapokúva)" (1984/85:42).
+5
+
+2 Fatores que complicam uma comparação lingüística
+Nas partes deste estudo que seguem, o atual dialeto Ñandéva é comparado, de um lado, com os dados registrados por Nimuendajú, e do outro, com os outros dialetos da língua Guaraní falados no Brasil, ou seja, com Mbyá, Kaiwá e Avañeém. Esta comparação se complica por causa de três fatores: diversificação lingüística entre o dialeto Ñandéva, mescla entre Ñandéva e outros dialetos guaranís, e diferenças regionais que cruzam divisões dialetais.
+
+2.1 Subdialetos entre o Ñandéva
+Como era também o caso com Kaiwá (Meliá, Grünberg e Grünberg, 172) e Mbyá, Ñandéva era originalmente um termo que abrangia vários grupos distintos, cada um falando um dialeto (ou subdialeto) um tanto diferente dos outros. Nimuendajú menciona vários destes grupos. Em primeiro lugar fala sobre os Apapocúva, com os quais ele se integrou, com uma população de 650; "deste total, duzentos estão no Iguatemi em Mato Grosso; outros tantos, ao lado dos Oguauíva e de alguns Kayguá, na reserva do Araribá em São Paulo; cerca de cem no rio das Cinzas, no Paraná; uns setenta no Potrero Guaçu em Mato Grosso e uns quarenta na foz do Ivahy no Paraná. Outras hordas Guaraní são: os ... Tañguá (nove cabeças no Itariry); os Oguauíva (cem cabeças no Araribá e quarenta no litoral); os Cheiru ... perto da foz do Iguatemi, aos quais pertencem também os Guaraní que moram ao lado dos Kaingýgn no Ligeiro, no Rio Grande do Sul; os Avahuguái no Dourados, os Paiguaçú no Curupaynã, ambos no Mato Grosso; os Yvytyiguá em frente à serra do Diabo, no estado do Paraná; os Avachiripá, na margem esquerda do Paraná, e ainda diversos outros bandos como os de Catanduva, do Jatahy etc. no mesmo estado" (p. 15). Nimuendajú acrescenta: "Os Apapocúva, Tañyguá, Oguauíva e provavelmente ainda os Cheiru são considerados os verdadeiros Guaraní em oposição aos Avahuguái, Paiguaçu, Yvytyigua, Catanduva, etc., reunidos sob o nome de Caiuá (Kayguá)" (pp. 15s). Dentro dos quatro grupos de "verdadeiros Guaraní", podemos identificar os Cheiru como sendo Mbyá, já que Nimuendajú diz que eram do mesmo grupo como os Guaraní de Ligeiro no Rio Grande do Sul, e Schaden menciona que Txeirũ 'meu amigo' e Ñaneirũ 'nossos amigos' são nomes dados aos Mbyá pelos Ñandéva (1974:16). Os Ñandéva propriamente ditos, portanto, compunham os Apapocúva, os Tañyguá e os Oguauíva, no tempo de Nimuendajú. Segundo ele, "os Tañyguá e Oguauíva falam exatamente o mesmo dialeto que os Apapocúva. A única diferença, quase imperceptível, entre os dialetos destas três hordas está na cadência" (p. 25) Os dados que ele fornece para ilustrar esta diferença indicam que (1) em Oguauíva, a sílaba tônica, no caso mais comum, é a penúltima na palavra (unidade lexical) e não a última como em Apapocúva e Tañyguá; e (2) em Tañyguá a tonicidade se realiza apenas uma vez em cada grupo de pausa, enquanto em Apapocúva e Oguauíva se realiza em cada palavra. Vejamos os dados de Nimuendajú (G.X):
+
+Apapocúva: Itajý ... perú, canoá ajapóta, aguejý ãguá
+
+Tañyguá:
+
+Itajy perú, canoa ajapóta, aguejy aguã
+
+Oguauíva: Itájy péru, canóa ajápota, aguéjy ãgua
+
+'Tragam-me um machado de pedra, quero fazer uma canoa, na qual embarcarei!'
+
+Nimuendajú indica ainda outras diferenças entre estes três dialetos. "Os Oguauíva talvez
+articulem o ç e ch de modo levemente mais duro que os Apapocúva" (p. 25). Isso pode-se referir
+a um elevado grau de aspiração com estes sons em Oguauíva, já que no próprio Apapocúva estes sons soam muito "duros" (p. 18), mas talvez se refira à diferença entre o [ts] de Apapocúva e o
+
+6
+
+[t] de Oguauíva. Aliás, esta diferença é mencionada entre o Apapocúva e o Cheiru (Mbyá): "Os Cheiru, vizinhos dos Apapocúva, substituem no seu dialeto o ç pelo ch: Apapocúva -guaçú, Cheiru -guachú = veado" (p. 18). (Nimuendajú escreve ç para [ts] e ch para [t].) Outra diferença tem a ver com vogais: Enquanto em Apapocúva o prefixo causativo soa como mu- em vez de
+mo- como no Guaraní Antigo, "o dialeto dos Oguauíva tem a particularidade de apresentar a alternância entre o e u" também em outros casos:
+
+Guaraní Antigo cobae mamô pânga
+
+Apapocúva cóvae mamõ pã
+
+Oguauíva cúvae mámũ pã
+
+'este' 'onde?' (pp. 21, 138, 153)
+
+Até que ponto estas diferenças (e possivelmente outras) entre os dialetos Ñandéva aparecem hoje em dia? Segundo Nimuendajú, "Estas diferenças, em si já insignificantes, são atualmente, devido à completa mescla das diversas hordas, muito raramente perceptíveis; terão desaparecido dentro de uma geração até o último vestígio" (p. 25). Dado a predominação numérica dos Apapocúva sobre os outros grupos Ñandéva, junto com sua maior dispersão geográfica, a previsão de Nimuendajú implica uma maior probabilidade que os outros grupos assimilariam o dialeto Apapocúva, do que o contrário. Isto se traduz na hipótese de que, à medida em que o atual Ñandéva seja dialeto único, ele seja o descendente mais ou menos direto de Apapocúva. E é justamente isso que mostram os dados a seguir.
+Contudo, não podemos descartar completamente a possibilidade de ainda existirem vestígios lingüísticos dos outros dialetos Ñandéva. Por exemplo, ocorrem, em listas de palavras em Ñandéva, as seguintes variantes: ['koßa] ~ [ko'ßa] 'isto', [pa'koßa] ~ [pako'ßa] 'banana', [ka't uɾu] ~ [kat u'ɾu] 'cachorro'. Tais dados mostram uma variação (livre ou não) quanto à tonicidade, que possivelmente seja um reflexo da diferença entre Oguauíva e os outros dialetos Ñandéva. Outro
+reflexo de Oguauíva possivelmente seria a variação ko ~ ku já mencionada com referência a palavra 'este'; veja seção 4.1.
+
+2.2 Mescla entre Ñandéva e outros grupos dos guaraní
+Dentro do Brasil, membros de mais de um grupo dialetal comumente vivem juntos dentro da mesma reserva ou aldeiamento. Esta mescla demográfica efetua uma mescla lingüística, que complica a identificação de grupos dialetais.
+Por exemplo, no PIN Rio Silveira, no litoral Paulista, vivem Mbyá e Ñandéva (chamados "Chiripá" por aqueles), com casamentos entre os dois grupos. Um dos Mbyá de lá, fornecendo expressões dos dois grupos, indicou que os Ñandéva usam a palavra Mbyá ['k] 'piolho' em vez de ['kß] que consta em listas de palavras colhidas entre outros grupos dos Ñandéva. Ele mesmo usa a palavra Ñandéva [ᵐboɾ'vi] 'anta' em lugar de [tapi'i] ou [ᵐbo'ɾ], que os Mbyá costumam usar. Em Mato Grosso do Sul, a mescla lingüística já alcançou proporções muito maiores, envolvendo milhares de falantes e três dialetos: Kaiwá, Ñandéva, e Avañeém. Diz Schaden: "Em alguns núcleos, o convívio de famílias Ñandéva, Mbüá e Kayová levou a tão intenso processo de homogeneização (como, por exemplo, na aldeia do Araribá) que nesses grupos hoje se tornou impossível distinguir com o necessário rigor as linhas divisórias entre uma subcultura e outra" (1974:14). Em outro trabalho, escrito posteriormente, acrescenta: "este processo, aliás, não deixou de surtir efeitos bem patentes também no setor da língua, de modo que já não parece fácil
+
+7
+
+hoje em dia nem sequer o levantamento completo dos respectivos dialetos em sua forma primitiva" (Schaden 1963:84). A influência do guaraní paraguaio (Avañeém) sobre Ñandéva no sul de Mato Grosso foi notada por Nimuendajú (pp. 24s, citado na seção 1).
+
+2.3 Diferenças regionais
+Uma terceira complicação é que existem diferenças regionais, que às vezes cruzam divisões dialetais. Uma expressão comum para 'mar' entre os grupos do litoral Paulista é [ ɾã'mõi] (lit., avô das águas), tanto entre os Mbyá do PIN Rio Silveira como entre os Ñandéva do PIN Bananal. Contudo, os Mbyá do PIN Rio das Cobras, PR, desconhecem a expressão, usando em vez dela [ '] 'água salgada'. Outros termos para 'mar' são [ ga'tsu] 'água grande' e [paɾa gʷa'su] 'mar grande', o último usado em Avañeém (Guaraní Paraguaio). Trata-se principalmente de diferenças regionais, que têm mais a ver com a geografia do que com o dialeto; isto é, elas não podem ser tidas como verdadeiras diferenças dialetais.
+3 Fonologia
+Quanto à fonologia, notamos diferenças dialetais nas seguintes áreas: o papel da consoante h, a ocorrência de m em lugar de ß ~ v de um lado e gʷ ~ ŋʷ do outro, a variação entre sibilantes e africados, a tonicidade, traços de consoantes finais, a geminação de vogais e a supressão de segmentos.
+
+3.1 A consoante h
+A ausência do fonema h no dialeto Ñandéva parece ser a característica fonológica que mais facilmente o distingue dos outros dialetos guaraní. Vejamos os seguintes dados (em transcrição fonética modificada):
+
+Avañeém Kaiwá
+
+1.
+
+oŋa'h
+
+oga'h
+
+2. o'ho
+
+3.
+
+da'ha
+
+4. ha's
+
+5. h'p
+
+o'ho da'ha ha's h'p
+
+6. ha'ku 7. ho'a 8. ha'
+
+ha'ku ho'a ha'
+
+Mbyá
+oßa'
+o'o da'a ha't h'p
+ha'ku ho'a ha'
+
+Ñandéva
+oma'
+o'o da'a a't  'p
+a'ku o'a ~ ho'a a' ~ ha'
+
+'chegou' 'foi' 'fomos' 'doi' 'é caro' 'está quente' 'caiu' 'ele, ela'
+
+Desconsiderando por enquanto outras diferenças, notamos que, conforme os dados nas
+linhas 1 a 3, enquanto Avañeém e Kaiwá têm h na posição medial na palavra, Mbyá e Ñandéva
+não o têm. E nas linhas 4 a 8, vemos que apenas Ñandéva não tem [h] regularmente em posição inicial; "falta em nosso dialeto" (Apapocúva), diz Nimuendajú (p. 19), mas ocorre, às vezes, nos dados disponíveis em posição inicial quando seguido por vogal e oclusão glotal: [hV...] ~ [V...], um tipo de ocorrência que não seja suficiente para estabelecer o h como fonema (veja
+
+8
+
+Guedes, pp. 35-38). A presença de [h] inicial em certas palavras de Ñandéva paraguaio registradas por Cadogan (1959), segundo ele, pode ser considerada resultado de contato com ou Mbyá ou Avañeém.4
+O seguinte quadro, portanto, indica que, quanto ao fonema h, o Mbyá fica entre os extremos representados, num lado, por Avañeém e Kaiwá, e no outro, por Ñandéva.
+
+A distribuição do fonema h MEDIAL E INICIAL Avañeém Kaiwá
+
+INICIAL Mbyá
+
+NÃO OCORRE Ñandéva
+
+3.2 O m substituinte
+Em certos ambientes de nasalização, Ñandéva usa m onde outros dialetos de Guaraní usam ß ~ v ou gʷ ~ ŋʷ. Isto também foi notado por Nimuendajú: "Num grande número de casos os Apapocúva transformam o b [o fonema ß, RAD] do Guaraní Antigo em m:5
+
+Guaraní Antigo hobaitỹ aypytybô
+
+Apapocúva omaitĩ aipypymõ
+
+'encontrar' 'ajudar-lhe' (p. 20s)
+
+O verbo 'ajudar-lhe' com m, citado acima, ocorre quatro vezes em texto G.VIII.6 O
+mesmo fenômeno ocorre com o item 1 'chegou', citado na seção 3.1 acima, onde o ŋʷ de
+Avañeém, o gʷ de Kaiwá e o ß de Mbyá correspondem ao m do Ñandéva. A forma -maẽ ocorre 13 vezes no texto C, 41 vezes em D, 22 em I e 3 em G. Outro caso é a forma pronominal oblíqua pemỹ [p'm] 'a vocês', que ocorre no I.XVII. Em Mbyá, a forma correspondente é [p'ß].
+Finalmente, em I.XLIII ocorre a forma icõtemé (-ikotemẽ), sem tradução, que corresponde
+ao -ikoteßẽ 'precisar de' em Mbyá. Já que todos estes casos de m em Ñandéva ocorrem em ambiente de nasalização, poderíamos supor que neste dialeto exista uma regra fonológia que mude o fonema ß ou g ~ ŋ em m em ambiente de nasalização. Contudo, existem dados contrários, palavras como [tpßĩ'ŋga] 'meu nariz', [mã'ßã] 'quem?', [ttpu'ßẽ] 'eu respiro' e
+
+4 Os dados de Cadogan (1959:73, 90s) sobre os Chiripá paraguaios não apresentam h medial, mas são equívocos quanto ao h inicial. De um lado, ele cita formas como ei 'disse', emiu 'comida dele' e asẽ 'gritou' que em Mbyá levam o h inicial, mas por outro lado fornece formas como ha'i 'minha mãe' e hu' 'flecha', que são iguais às em Mbyá. Inclui uma expressão negativa nda hesái 'não tem olhos' (p. 84), na qual nem em Mbyá aparece o h. Ele atribui outras "mutaciones" fonológicas a contatos com os Mbyá (p. 73).
+5 Nimuendajú falou do Ñandéva como descendente do Guaraní Antigo, hipótese ainda não confirmada; veja A. Rodrigues 1984/85:42.
+6 Os dois textos de Nimuendajú são aqui referidos, como no original (Nimuendajú 1987), como I e G, as primeiras letras dos seus títulos em guaraní; os números romanos assinalam seções. Os cinco textos de Ñandéva contemporâneo colhidos pelo autor e Nelson Florentino e por este transcritos, fornecidos em apêndice B da presente obra, são referidos como A, B, C, D e E; números arábicos referem a linhas.
+9
+
+[aßẽ'ti] 'encontrar' na lista colhida por Meader (1959) na aldeia de Bananal. Existem também palavras como [pã'ß] 'todos' e [ã'ŋgã] 'propósito' nas listas colhidas por este pesquisador. Existem ainda outras palavras deste tipo nos textos anexos, como o demonstrativo [ĩ'ßĩ] (A.023) ~ [ĩ'ŋĩ] (textos B, C, D; eg. C.090) e [gmbiɾ'ko] 'esposa dele próprio' (C.028). Cadogan (p. 88) registra a forma ovae ([õßã']?) 'chegou' (mas veja nota 5). Portanto, parece que a mudança, em Ñandéva, de ß ou g ~ ŋ em m seja processo fonológico ou lexical em determinadas palavras, em vez de ser regra fonológica geral. Aliás, existem palavras em todos estes dialetos que mostram pelo menos uma variação entre fonemas m ~ ß ou m ~ g, em ambiente de nasalização: pa'ßẽ ~ pa'mẽ 'todos' em Mbyá, ŋai'ŋĩ ~ ŋai'mĩ ~ ŋai'vĩ 'mulher velha' em Avañeém, e pe'em 'a vocês' em Kaiwá (compare com 'neß 'a você'). Mbyá tem a forma meramĩ
+'parece-me', correspondente ao veramĩ em Kaiwá (Meliá, Grünberg e Grünberg, p. 295) e Guaraní Antigo (Restivo 1893:417).7 E todos os quatro dialetos comparados neste estudo têm um radical verbal -imẽ 'estar ainda (em certo lugar)', que se deriva de -ĩ 'estar (em certo lugar)' + -ß
+'mais'; para este radical em Ñandéva, veja I.XXVIII. Portanto, o m substituinte parece ser
+fenômeno mais geral do que um simples indicador de dialeto. Talvez o mais que se pode dizer, é
+que Ñandéva é o dialeto que mais evidencia esta tendência. No texto I de Nimuendajú, encontrase a ocasional perda de ß no verbo 'voltar', escrito -jevý em XXXIV (correspondendo a -e'ß em
+Mbyá), mas -jiý em XXI e XXIII. Nos textos de Ñandéva contemporâneo anexos, o verbo ocorre
+sem esta perda de ß.
+
+3.3 Sibilantes e africados
+Ñandéva tende a usar [ts] em certos ambientes onde Mybá usa [t] e Avaneém e Kaiwá usam [s] ou []. Nimuendajú menciona que Cheiru (Mbyá) usa [t] em lugar do [ts] de Apapocúva em palavras como [ga'tsu] ~ [ga't u] 'veado' (ele escreve o [ts] como ç e o [t] como ch). "Enquanto este som no paraguaio, assim como nos dialetos dos Kayguá, soa relativamente brando, um pouco semelhante ao the do inglês, no Apapocúva ele tem um som ainda mais duro que o tz do alemão" (p. 18). Este som se ouve nos textos anexos, por exemplo, na palavra ga'ts u em C.320. Conforme esta análise, pois, seguiria um quadro como o seguinte:
+
+Avañeém
+ŋa'su
+
+Kaiwá
+ga'su
+
+Ñandéva
+ga'ts u
+
+Mbyá
+ga't u
+
+'veado'
+
+Contudo, a situação não é tão simples. Entre os quatro dialetos sob consideração,
+Avañeém e Kaiwá têm dois fonemas sibilantes (fricativos côncavos), que podemos representar como s e ; Mbyá e Ñandéva têm um só fonema deste tipo. Aliás, o fonema do Mbyá e Ñandéva é africado, com a variação [ts] ~ [t]. Assim, em Mbyá ouvimos [ts'] ~ [t'] 'eu', e raramente [']. Os dados de Ñandéva do presente pesquisador mostram a mesma variação [ts'] ~ [t'].
+Cadogan (1959:73) registra uma tendência, entre os Chiripá (Ñandéva), de mudar o s em ch
+
+7 Talvez esta mudança em m, que ocorre apenas em Mbyá, seja devida ao fato de, em Kaiwá, a primeira sílaba não ser nasalizada, conforme Bridgeman (comunicação pessoal).
+
+10
+
+([t]), este som sendo, conforme ele, característico de Mbyá. O mais que se pode dizer, nesta
+altura, é que em Ñandéva a tendência para [ts] é mais forte do que em Mbyá, pelo menos antes das vogais o, u, . Assim, costumamos ouvir:
+
+Ñandéva
+[odo'ts o] [ga'ts u] [tstsu'u] [a'ts ] [i'ts] [tapi'ts i
+
+Mbyá
+[odo't] [ga't u] [tstu'u] [ha't ] [i't] [tapi't i]
+
+'socou' 'veado' 'mordeu-me' 'dor' 'mãe dele(a)' 'lebre'
+
+Em Mbyá, o [ts] predomina antes das vogais a e e: ['ts ap'o] 'chapéu', [tsɾ'ß] 'meu irmão'; antes de i, porém, ouve-se os dois africados: [ti'ßi] 'onça', [tsĩ'mbo] 'cipó venenoso'. Em certas palavras, parece que Ñandéva tende a usar [t] em sílabas tônicas: [ka't uɾu] 'cachorro', ['t a] ~ ['tsa] 'veja'. Apesar dessas complexidades, parece que em certos ambientes, Ñandéva tende para o [ts] enquanto Mbyá tende para o [t]. Em Avañeém e Kaiwá, as duas consoantes s e  tiveram suas respectivas origens no Proto-Tupí-Guaraní consoante *t e seqüência consonantal
+*pj (A. Rodrigues 1984/85:37).
+
+P-T-G
+*ja't  *ep'jak
+
+Avañeém
+da's e'sa
+
+Kaiwá
+da's e'a
+
+Mbyá
+da't  e'ts a
+
+Ñandéva
+
+da'ts
+
+'lua'
+
+e'ts a ~ e'ta 'ver'
+
+Desta forma, a consoante ts ou t em Mbyá e Ñandéva representa uma neutralização de fonemas distintos do Proto-Tupí-Guaraní, que ainda são distintos em Avañeém e Kaiwá. Vemos isto através do seguinte quadro:
+
+Dois sibilantes versus um africado
+
+s mais 
+
+ts ou t
+
+Avañeém
+
+Mbyá
+
+Kaiwá
+
+Ñandéva
+
+3.4 Quadros de fonemas
+Aqui apresentamos quadros de fonemas para os quatro dialetos que vimos estudando. Para tornar mais fácil a comparação, tomamos a liberdade de representar, por símbolo único, fonemas que correspondem funcionalmente nos diversos dialetos e apresentam mais ou menos as mesmas características fonéticas; isto é o caso, por exemplo, com os fonemas escritos como  e
+h. Em outros casos, ficamos com símbolos diferentes (i.e., v e ß, ŋ e g). Em todos os quatro dialetos, há consoantes sonoras que ocorrem em formas variadas conforme a nasalidade ou oralidade do ambiente; as mais conspícuas são: [] ~ [d] ~ [d ], [m] ~ [mb], [n] ~ [nd], [ɾ]̃ ~ [ɾ].
+
+11
+
+Nestes casos, o fonema é geralmente simbolizado com o som que ocorre em ambiente nasal ou nasalizado. Para facilitar a transcrição, ɾ é representado por r, e  por e, em todos os dialetos. Nos quatro dialetos, a nasalização é regressiva, isto é, a sílaba anterior à silaba nasalizada é comumente nasalizada também, dentro da mesma palavra. Semivogais, presentes em todos estes dialetos, não são apresentadas aqui.
+3.4.1 Os fonemas de Avañeém (veja Gregores & Suarez 1967:80ss)
+
+p
+
+t
+
+m
+
+n
+
+k k  
+ŋ ŋ
+
+l
+
+r
+
+s
+
+h
+
+v
+
+ 
+
+i
+
+
+
+u
+
+e
+
+a
+
+o
+
+Os fonemas t, n, l, s são dentais, pronunciados com a ponta da língua encostada nos dentes. Em pronunciar , a língua é avançada perto da posição alveolar. Uma variante do h é a
+fricativa velar [x].
+
+3.4.2
+
+Os fonemas de Kaiwá (veja Bridgeman 1961, Harrison & Taylor 1971):
+
+p
+
+t
+
+k k   g g
+
+i
+
+
+
+u
+
+m
+
+n
+
+e
+
+a
+
+o
+
+r
+
+s
+
+h
+
+ß
+
+3.4.3
+
+Os fonemas de Mybá (veja Guedes 1983:23ss):
+
+p
+
+t
+
+k g k 
+
+m
+
+n
+
+ ŋ ŋ
+
+r
+
+ß
+
+t
+
+h
+
+Variantes do t são [ts] e [].
+
+i
+
+
+
+u
+
+e
+
+a
+
+o
+
+12
+
+3.4.4 Os fonemas de Ñandéva (veja Nimuendajú 1987:17ss):
+
+p
+
+t
+
+k k 
+
+i
+
+
+
+u
+
+m
+
+n
+
+ ŋ ŋ
+
+e
+
+a
+
+o
+
+r
+
+ß
+
+ts
+
+Uma variante do ts é [t].
+
+3.5 A tonicidade
+
+Entre os dialetos que estão sendo estudados, existem diferenças na tonicidade de certas palavras. Observamos:
+
+Avañeém Kaiwá
+
+Ñandéva Mbyá
+
+np'ã
+
+np'ã
+
+n'pã
+
+nap'ã
+
+'joelho'
+
+'ape
+
+'ap
+
+'ap
+
+a'p
+
+'aqui'
+
+'moi
+
+'moi
+
+'moi
+
+mo'i
+
+'cobra'
+
+'eve
+
+'eß
+
+'t eß
+
+ts e'ß
+
+'a mim'
+
+'neve
+
+'neß
+
+'neß
+
+ne'ß
+
+'a você', etc.
+
+Este quadro sugere que, entre estes dialetos, Mbyá tem a tendência mais forte para a tonicidade ocorrer na última sílaba (dentro de uma locução que desempenharia o papel de constituinte da oração). Aliás, essa tendência constitui a regra geral em todos os quatro dialetos, mas ela atua de uma forma mais extrema em Mbyá.
+
+3.6 Traços de consoantes finais
+Em Ñandéva, a vogal final - ocorre como traço das consoantes finais, velares *-k e *-ŋ do Proto-Tupí-Guaraní. Aqui examinamos umas palavras que apresentam, num dialeto ou outro, traços destas consoantes (os dados do Ñandéva são de Nimuendajú, p. 22):
+
+P-T-G
+*'ok *'ßak *a'jãŋ *'ãŋ
+
+Avañeém
+'oa 'vaa a'ã (ko)'ãŋa ~ ko'ãga
+
+Kaiwá
+'oga ~ 'o 'ßa a'ã ko'ã
+
+Ñandéva
+'o 'ßa a'ã ko'ã
+
+Mbyá
+o'o 'ßa a'ã a'~
+
+'casa' 'céu' 'demônio' 'agora'
+
+Como explica A. Rodrigues, "o fonema gutural surdo, final, -k, do proto-tupi-guarani,
+assim se conservou no proto-tupi e dialeto antigos, tendo-se sonorizado [isto é, tornou-se [g], RAD] no proto-guarani e seus dialetos antigos; nos modernos dialetos guaranis (avanheém), elidiu-se tal fonema", com a exceção de poucas palavras como 'casa' e 'céu', onde se conservou
+
+13
+
+"como medial, dada a fixação do sufixo -a" (1945:344). Em Ñandéva, porém, nestas duas palavras, a vogal - aparece como traço desta consoante final (Cadogan, p. 73), como também
+acontece em Kaiwá. A respeito das palavras 'demônio' e 'agora', as quais no P-T-G têm *-ŋ no final (segundo Jensen), podemos dizer que, nos quatro dialetos que estão sendo estudados, o - parece ser o único traço na palavra 'demônio'; em 'agora', tanto -ŋa ~ -ga como - aparecem como
+traços de *-ŋ. Usando estes esparsos dados como base, registramos as seguintes observações:
+• em Avañeém, o traço de *-k é -a, e o de *-ŋ é -ŋa; • em Kaiwá e Ñandéva, o traço tanto de *-k como de *-ŋ é - (segundo John Taylor, a palavra
+ko'ãga 'agora' em Kaiwá não é do dialeto "puro"; talvez o mesmo é o caso com as duas
+palavras para 'casa'); • em Mbyá, não há traço, salvo na palavra 'agora', onde ocorre a única instância de - tônico
+nestes exemplos (existe em Mbyá uma forte tendência de evitar palavras monossilábicas, e já
+notamos, na seção 3.5, sua tendência de ter a tonicidade na sílaba final). • Quanto a Ñandéva, parece ser o dialeto onde a mudança de *-k e *-ŋ em - é mais regular.
+Podemos apresentar isto através do seguinte quadro:
+
+Traços das consoantes finais velares do Proto-Tupí-Guaraní
+
+-ŋa, -a, -ga
+
+
+
+Avañeém
+
+Kaiwá Ñandéva
+
+Ø
+Mbyá
+
+Outra consoante final, no Proto-Tupí-Guaraní, que mostra traços nas línguas sob estudo, é o *-ß. Note o seguinte quadro:
+
+P-T-G
+*kß *aß
+*tuß
+
+Avañeém
+'k -'ava
+'tuva
+
+Kaiwá
+'kß -'aß 'tuß
+
+Ñandéva
+'kß -'aß 'tuß
+
+Mbyá
+'k -'a
+tu'u
+
+'piolho' 'cabelo' 'pai dele'
+
+No quadro acima, com a exeção da forma 'k 'piolho' em Avañeém, vimos um padrão semelhante ao que vimos com respeito às consoantes velares do Proto-Tupí-Guaraní, ou seja, em Proto-Tupí-Guaraní *-ß final aparece como -va em Avañeém e como -ß em Kaiwá e Ñhandéva,
+mas desaparece sem traço algum em Mbyá (a geminação das vogais na palavra tu'u 'pai dele' em Mbyá se explica na seção 3.7). Isto é, temos o seguinte quadro:
+
+Traços da consoante final *-ß do Proto-Tupí-Guaraní
+
+-va
+
+ß
+
+Avañeém
+
+Kaiwá Ñandéva
+
+Ø
+Mbyá
+
+Finalmente, consideramos a consoante final *-r do Proto-Tupí-Guaraní. Os traços desta consoante apresentam um quadro mais complexo. Note as seguintes palavras representativas:
+
+14
+
+P-T-G
+*por *-per *ar *-ker
+
+Avañeém
+'pora -ke 'ara -ke
+
+Kaiwá
+'pora -ke 'ar -ke
+
+Ñandéva
+'por -ke 'ar
+-ke
+
+Mbyá
+po ~ 'por -ke 'ara -ke
+
+'habitante' 'pretérito' 'dia' 'dormir'
+
+Quanto a este quadro é difícil tirar conclusões firmes, mas pelo menos ele não contradiria
+a seguinte afirmação: Nas palavras onde a proto-consoante é retida em pelo menos um dos
+quatro dialetos, Avañeém tende a retê-la acresentando a, Kaiwá tende a retê-la acresentando ou a ou , Ñandéva tende a retê-la acresentando , e Mbyá apresenta a mais fraca tendência a retê-la. Aliás, este comentário poderia servir como resumo da presente discussão sobre traços de protoconsoantes finais em geral, ressaltando que Ñandéva não acrescenta o  às proto-consoantes *-k e *-ŋ, mas as substitui com .8 Geminação de vogais em Mbyá e Ñandéva atual, observamos uma tendência para a geminação (repetição) de vogais em palavras tônicas que, sem este processo,
+seriam monossilábicas. Veja os seguintes dados:
+
+8 Nestas línguas, existem ainda outro tipo de traço dos proto-consoantes, que só aparece quando a palavra é seguido por outro elemento. Os seguintes exemplos são de Mbyá (apenas o proto-consoante aparece em negrito):
+aneruße'te 'nosso pai verdadeiro' de *-uß 'pai' + *ete 'verdadeiro'; agare'te 'onça verdadeira' de *yawar + *ete 'verdadeiro'; arurru'ka 'mandei trazê-lo' de *-ur 'vir' + *ukar (?) 'causativo de verbos com agente (sujeito) e
+paciente (geralmente objeto)'; takarutsu 'taquaruçu' de *takwar 'taquara' + *uçu 'grande'; eẽŋutsu 'adolescente masc. (lit., voz grande)' de *eeŋ 'fala' + *uçu 'grande' Além disso, a atual posposição r em Mbyá é composta daquilo que era a consoante final *-r da palavra anterior, mais a posposição i ou : 'ßr 'ao lado'; 'gr 'em baixo'; 'ker 'em sono'. Contudo, o r epentêtico em Mbyá não se restringe a casos nos quais o elemento anterior tinha *-r final na protolíngua. Observam-se exemplos como os seguintes: iakã ratã 'tem cabeça dura (no sentido de cruel)' de * akaŋ 'cabeça' + atã 'duro'; oeẽ renu 'obedece (lit., ouve sua voz)' de *eeŋ 'fala' + *enuß 'ouvir'; oop reta 'pegou muitos' de *pck 'pegar' + eta 'muito(s)' Talvez este r é fenômeno que se generalizou à base de casos onde elementos realmente seguiam a protoconsoante final *-r.
+15
+
+Avañeém
+'e
+'ne 'ũ '
+
+Kaiwá
+'e
+'ne 'ũ '
+
+Ñandéva atual
+t e ~ t e'e
+ne'e u'ũ ' ~ '
+
+Mbyá
+ts e'e
+ne'e u'ũ '
+
+'eu' 'você' 'grama' 'água'
+
+Este processo só opera em vocábulos que podem ocorrer como grupos de pausa; não
+opera, por exemplo, na raiz pu 'estalo', que dificilmente ocorre como grupo de pausa, devido à
+prefixação de um "possuidor" (e.g., maraka pu 'som de violão'). Nos dados de Nimuendajú, esta geminação não consta; achamos formas como che (t e) 'eu' (G.IV) e y () 'água' (p. 98). A geminação, porém, é nítida na gravação dos textos anexos, especialmente em elementos cuja duração, medida através do programa CECIL, é mais de 0.2 segundos. Portanto, é possível que, depois do tempo de Nimuendajú, o Ñandéva tenha assimilado a geminação da parte do Mbyá, especialmente nos lugares onde há forte influência deste. Esta é a posição tomada de Cadogan (p. 73), face a dados em Chiripá como yy guasú 'a água grande'. Esta explicação parece requer que, tanto o Ñandéva do Paraguai, estudado por Cadogan, como o do norte do Paraná e do litoral, tenham sofrido influências paralelas de grupos Mbyá, com o mesmo resultado. Nem Avañeém, nem Kaiwá evidencia este processo. Podemos, portanto, registrar o resultado no seguinte quadro:
+
+Geminação de vogal em palavras antes monossilábicas INEXISTENTE Avañeém Kaiwá
+
+EXISTENTE Mbyá
+Ñandéva atual
+
+3.7 A supressão de segmentos
+Nimuendajú, falando sobre o Ñandéva, menciona "a tendência muito acentuada deste dialeto a desgastar e reduzir posposições, sufixos e sílabas finais átonas. ... Apapocúva é o dialeto da língua geral que mais avançou nesta direção" (pp. 21s). Examinamos os dados quanto à asserveração de Nimuendajú.
+3.7.1 Sílabas que começam com r
+Nimuendajú menciona a perda da sílaba re do prefixo nominalizador remĩ- (p. 22).9 Assim, para a palavra 'minha esposa', Nimuendajú registra chimbirecó (tsimire'ko) em Ñandéva (I.XXXVIII duas vezes). (As formas correspondentes são t eremire'ko em Mbyá e eremire'ko em Avañeém.) Semelhantemente, encontra-se anemire'ko 'nossas esposas' em I.XXXIX, em vez de
+
+9 Talvez essa sílaba se perdia apenas em posição medial na palavra, pois nos textos de Nimuendajú ocorrem expressões como Ñanderuvuçú rembirecó 'a esposa de Nhanderuvuxu' (I.IV duas vezes, I.IX) e Guyraypotý rembirecó 'a esposa de Guyraypoty' (G.XI), onde a sílaba é preservada quando inicial na palavra, embora medial na locução.
+16
+
+aneremire'ko. Notamos, porém, que a perda desta sílaba não é restrita a Ñandéva: o Mbyá tem too mi't  em vez de too remi't , e Avañeém e Kaiwá tem soo mi'; tanto o Kaiwá como o Mbyá tem mi'mõi 'cozido' em vez do mais regular remi'mõi, mas Kaiwá usa re com posse pronominal: e remi'mõi. Por isso, a perda do re no prefixo nominalizador não é restrita a Ñandéva, mas talvez seja mais comum neste dialeto.10
+Outra observação é que, nos textos anexos do Ñandéva contemporâneo, a única ocorrência de 'minha esposa' é a forma não-reduzida ts eremire'ko (C.146), exatamente como em Mbyá. Existem, porém, três ocorrências da forma reduzida ts emi'u 'minha comida' (C.006, 011, 022), que se deriva de tseremi'u através da perda da sílaba em questão.
+Há outros casos ainda, em Ñandéva contemporâneo, da perda de sílabas começando com r. Ouvimos tsip'ru 'meu sapato' em vez de tip r'ru (literalmente, 'receptáculo para meu pé'), como em C.087 encontramos ip'ru 'seu sapato' em vez de ip r'ru. Ouve-se também urupi'a 'ovo de galinha' em vez de uru rupi'a. Portanto, ainda existe, em outros dialetos mas talvez mais fortemente em Ñandéva, uma tendência para a perda de sílabas começando com r.
+3.7.2 A conjunção subordinativa ramõ
+Nimuendajú menciona também a redução da "partícula do subjuntivo" [i.e., conjunção subordinativa que indica mudança de sujeito, RAD] ramõ em nõ: "caarúno 'de noitinha', coéno 'de manhã'", etc. (p. 22). Nos textos anexos, é bastante comum o uso da conjunção rõ. Segundo Bridgeman, os Ñandéva de Dourados também usam rõ: ko'ẽ rõ 'de manhã', a'ha rõ 'quando eu for', etc. Cadogan (1959:73) escreve ro: oguapy ro ma ndogueraai 'por [sua filha] estar sentada, ele não a levou'. Parece provável que a redução de ramõ, nos dialetos de Avañeém (Gregores e Suarez, p. 106), Kaiwá e Ñandéva, tenha rõ como sua forma básica, que então também se manifeste em variantes [ɾo] e [nõ] (veja seção 5.2). Em Mbyá, a mesma conjunção se reduz em rã: kaa'ru rã 'à tarde', ko'ẽ rã 'ao amanhecer', etc.
+3.7.3 O relativizador ou nominalizador ßae
+Em todos os dados do Ñandéva, o relativizador ou nominalizador ßae 'o que é' é sujeito à redução na forma ßa. Os nomes Ñandéva e Apapocúva terminam com esse elemento; seus significados são, respectivamente, 'o que é nosso' e 'o que tem arco (apa) comprido (puku)'. Nas listas de palavras e nos textos anexos, achamos 'koßa (C.040) ~ 'koßae 'este (o que está aqui)', a'neßa (D.176) ~ a'neßae 'nossa gente (o que é nosso)', 'peßa ~ 'peßae (D.077) 'aquele (o que está ali)', etc. Cadogan cita as formas do futuro e do passado reduzidas (varã, como se acha também nos textos anexos, e.g., C.084, e vakué) (p. 73). Ele cita ainda oporaíva 'aquele que canta' (p. 67), mas também dá a forma não reduzida (héva'é 'animal comestível (o que é gostoso)', p. 90). Nos dois textos de Nimuendajú, a forma não reduzida ocorre 57 vezes enquanto a reduzida ocorre nove vezes; nos textos anexos, a não reduzida ocorre 74 vezes enquanto a reduzida ocorre 78 vezes. A variação entre as duas formas não é arbitrária: como se espera, a
+10 Cadogan 1959 não apresenta dados nos quais poderíamos constatar a perda ou não de re.
+17
+
+reduçao tende a ocorrer em expressões mais comuns e frequentes. Nos textos de Nimuendajú, por exemplo, em todas as nove ocorrências da forma reduzida, a expressão sendo nominalizada consiste de uma só palavra, geralmente palavra gramatical, de classe fechada: por exemplo, maeßa 'o que?'. Mesmo nos textos anexos, onde o índice de redução é muito mais elevado do que nos textos de Nimuendajú (51% em comparação a 14%), a tendência é a mesma: em apenas 17 das 78 casos da forma reduzida, a expressão sendo nominalizado tinha duas palavras, e nenhuma tinha mais que isso. Entre os casos da forma não-reduzida, porém, encontram-se expressões nominalizadas de quatro ou mais palavras: aga aga rii ein ßae '[vestidos] bem
+curtinhos' (D.068). É possível achar a forma reduzida com um sufixo do tempo futuro (ßa'rã 'futuro (o que será)'), mas isso é mais raro. Nos textos anexos, apenas 19% (5 em 27) das ocorrências são com a forma reduzida, e nos textos de Nimuendajá a forma reduzida não ocorre (entre 12 ocorrências). A forma reduzida com sufixo do tempo passado (ßa'ke 'passado (o que era)') não consta em nenhum dos textos, entre 47 ocorrências. Em Kaiwá, a forma reduzida de ßae ocorre oito vezes nos quatro textos de Taylor 1974, enquanto a forma não reduzida ocorre 38 vezes; isso dá um índice de 17%. Em Avañeém, a forma reduzida é a única que ocorre, a não ser com sufixo de tempo: vae'rã 'futuro', vae'ke 'passado'; nos quatro textos em Gregores e Suarez, va ocorre cinco vezes e vae nenhuma vez. Em Mbyá, o relativizador não tem forma reduzida. Temos, portanto, o quadro seguinte:
+
+Redução do relativizador/nominalizador ßae
+
+REDUÇÃO
+
+REDUÇÃO
+
+TOTAL Avañeém
+
+Ñandéva atual
+
+Kaiwá
+
+INEXISTENTE Mbyá
+
+O Ñandéva de Nimuendajú, se fosse inserido no quadro acima, iria caber em aproximadamente a mesma posição como o Kaiwá.
+3.7.4 Outros exemplos de supressão
+Examinamos aqui mais alguns casos de supressão de segmentos em Ñandéva.
+Assim como o relativizador ou nominalizador ßae é reduzido pela supressão da sílaba e, existem pelo menos dois outros casos da perda desta sílaba. Um tem a ver com a palavra mari'i ~ mari'ri (A.001; D.013, 027, 233) 'um pouco', que se deriva de maeri'i (I.XIX, XXVII, XXVIII). Neste caso, a redução consta apenas nos textos atuais. O outro caso é do radical verbal -manu'a 'lembrar-se' (C.004, 033; D.026ss; E.002ss), que provém de -maenu'a. Desta palavra, que é usada em Mbyá, não há exemplos no material Ñandéva disponível, mas em A.034 encontra-se ama'ẽ com o significado de 'lembro-me'. O advérbio eß 'de novo, outra vez' sofre redução, especialmente nos textos mais recentes. Nos textos de Nimuendajú, encontram-se 53 ocorrências da forma não-reduzida e apenas uma (I.XLVI) da forma reduzida u, que também ocorre em Mbyá. Nos textos anexos, porém, a forma não-reduzida ocorre 60 vezes e a reduzida 41 vezes. Isto é, o índice de redução passa de 2% para 40%. Aliás, nos textos anexos constam duas formas reduzidas: u (23 vezes) e  (18 vezes); esta não se encontra em Mbyá.
+O último caso de redução tem a ver com a posposição ramĩ. Esta ocorre em forma nãoreduzida em vários dos textos (12 vezes em I, 1 em G, 2 em A, 2 em C e 8 em D). Em Ñandéva,
+
+18
+
+mas não em Mbyá, existem duas formas reduzidas: raĩ e rĩ. A primeira ocorre 78 vezes e a segunda 38 nos textos anexos; acrescentamos nove ocorrências de raĩ ou naĩ, escrito naĩ, nos textos de Nimuendajú. Assim, nos textos atuais o índice de redução é 91% (116 das 128 ocorrências), enquanto nos textos de Nimuendajú é de 41% (9 das 22). Entre os casos de supressão de segmentos que acabamos de examinar, existem vários em que o índice de redução é mais elevado nos textos recentes do que nos de Nimuendajú; em nenhum caso o índice diminuiu. Isto sugere três possibilidades: (i) os dados de Nimuendajú, sendo ditados em vez de gravados, manifestam menos supressão de segmentos do que se manifestariam em contextos mais naturais, daquela época; (ii) os dados, quando falados a Nimuendajú, refletiam o uso natural da linguagem de então, mas ele os "regularizou" na transcrição, conformando-as às formas básicas, que seguramente ele conhecia; (iii) ou a supressão de segmentos era menos comum do que se acha atualmente. Não se apresentam meios óbvios para escolher definitivamente entre estas possibilidades, mas o fato de que algumas formas reduzidas foram escritas por Nimuendajú, milita contra hipótese (ii).
+3.7.5 A nasalização de certos morfemas
+Os dados mostram que certos morfemas que em Mbyá não são nasalizadas, em Ñandéva manifestam uma variante nasalizada.
+Um destes morfemas é a partícula de interrogação, que em Mbyá é uniformemente pa. Nos textos de Nimuendajú, esta partícula é quase sempre nasalizada (pã, 31 vezes); a forma nãonasalizada ocorre uma só vez (I.XXIV). Nos textos recentes, anexos, porém, é quase sempre não nasalizada (41 vezes); as únicas duas exceções são em D.172, 267. Esses dados apontam uma aparente desnasalização desta partícula em Ñandéva, com o resultado que ela fique igual ao elemento correspondente em Mbyá. Outro morfema que em Ñandéva manifesta uma variante oral e outra nasalizada é o elemento a ~ ã que, em dois dos textos anexos, encontra-se na posição inicial na frase. Isso acontece oito vezes em C e sete em D, com mais sete vezes em D medial na frase. Sete das ocorrências são nasalizadas, todas em C. Isto é, a nasalização se evidencia nos dados de um só falante, Bertolino Rodrigues. Mas visto que ele sempre morou entre a comunidade em Laranjinha (é cacique e filho do antigo cacique), não há o que indique que esses dados não sejam do Ñandéva genuino. A partícula ou sufixo ri, a ser examinado na seção 5.2, ocorre 16 vezes nos textos anexos, entre as quais se encontra a forma nasalizada rĩ cinco vezes. Nos textos de Nimuendajú, ri ocorre oito vezes e a variante ni uma vez; esta corresponde com rĩ nos textos anexos. Ainda outras variantes deste elemento são discutidas na seção 5.2, junto com seu significado.
+Finalmente, nota-se que o modificador verbal oa 'juntamente' (C.069, 088, 114) ocorre uma vez em forma nasalizada ou oã [do'ã] 'vieram juntos' (E.049), com uma oclusão glotal na sílaba tônica. Neste caso, é possível que tanto a nasalização como a inserção da glotal comuniquem ênfase, pois o modificador não segue sílaba nasal.
+3.7.6 Resumo da evidência fonológica
+Comparando os quadros elaborados até agora, podemos concluir que, quanto à fonologia, os quatro dialetos sob estudo compõem dois grupamentos, de grosso modo, com os dialetos de cada agrupamento mais pertos entre si do que com os do outro grupo. Os dois agrupamentos são: Ñandéva e Mbyá de um lado, e Avañeém e Kaiwá do outro. Veja a evidência cumulativa,
+19
+
+especialmente sobre o fonema h (3.1), sibilantes e africados (3.3), a tonicidade (3.5), traços de consoantes finais (3.6) e a geminação de vogais (3.7).
+Isto concorda com os resultados de Dietrich (p. 57), cujo estudo era elaborado independentemente do presente. Usando 17 critérios fonológicos, ele traça relações não apenas entre dialetos guaranis, mas entre línguas tupi-guaranis em geral. Dentro do seu resumo sobre a fonologia, ele diz o seguinte: "Tupinambá, Kaiwá e Avañeém são linguisticamente muito pertos entre si, evidenciando o máximo de estabilidade fonológica, enquanto Mbyá e Apapocúva são pertos com um alto, mas não extremo índice de igualdade, que é ainda superior do seu índice para com Tupinambá, Kaiwá e Avañeém" (tradução de RAD).
+4 Morfologia
+Mencionamos aqui três áreas na morfologia, nas quais existem diferenças entre Ñandéva e um ou mais dos outros dialetos: a mudança de vogal em certos prefixos, o prefixo reciprocativo, e indicadores do plural.
+
+4.1 Mudança de vogal em certos prefixos
+Examinamos duas classes de mudança: de e em i e de o em u.
+4.1.1 De e em i
+
+Em alguns prefixos em Ñandéva, a vogal e muda para i. "O e do prefixo pronominal che e dos prefixos relativos [i.e. reflexivos, RAD] ñe e ye do Guaraní antigo transforma-se em i:
+
+Guaraní Antigo cheroga ñemboyere yequaa
+
+Apapocúva chiróy nimbojeré jicuaá
+
+'minha casa' 'circundar' 'descobrir-se' (Nimuendajú, p. 20)11
+
+Nos dados Ñandéva colhidos mais recentemente, achamos o mesmo fenômeno: tsip'ru 'meu sapato', aima'ŋa 'brincamos', tsimaraŋa'i 'minha afilhada', tsire'na 'minha casa' (lit. 'meu lugar'). Contudo, achamos também exemplos nos quais a vogal e ocorre nos mesmos prefixos: tsets u'u ta mã 'vai me morder', tsekutu'pe 'minhas costas', tsea'ß 'meu cabelo', tsea'ßu 'falo', tseretsa'rai 'esqueci', tseme'm 'minha filha', tse'ts  'minha mãe', oemo't 'está fechado', tseo'a 'minha panela', tseretarã 'ker 'meus parentes', oeu'kai 'machucou-se' (lit., 'matou-se'), tser'ß 'meu irmão'. Na lista colhida por Meader na Aldeia de Bananal, o prefixo pronominal da primeira pessoa é tse-, mas o prefixo reflexivo é i-. Cadogan (p. 73) apresenta um padrão de ocorrência diferente, ou seja, o prefixo reflexivo tem i em ambientes orais (jiguaká, jiguarú) "cuando emplean su lengua propia", mas ocorre com e em ambientes nasalizados (ñemoendá 'colocar-se', ñevangá 'jogar ou divertir-se'). No Ñandéva atual, portanto, esta mudança apresenta um quadro bastante misto. Ela não é completamente desconhecida em outros dialetos. Em Kaiwá, por exemplo, existe um vocábulo, (r)'ß 'irmão', com o qual as duas formas do pronome da primeira
+
+11 A mudança de e em i nos textos de Nimuendajú não se limita absolutamente a prefixos. Ocorre a raiz verbal jiý [i'] 'voltar' (I.XXI, I.XXIII), que se deriva de -e'ß, que ocorre em I.XXXIV.
+
+20
+
+pessoa do singular ocorrem, com sentidos um pouco diferentes: e r'ß 'meu irmão' e i r'ß 'meu irmão mais novo'. Tudo isto sugere que, se a mudança de e em i servir como traço diagnóstico de Ñandéva, teria que ser num sentido probabilístico em vez de absoluto.
+4.1.2 De o em u
+Existe outra mudança vocálica em Ñandéva mencionada por Nimuendajú, que é a mudança de o em u no sufixo verbal causativo mo- ([mõ] ~ [mbo]), quando este ocorre antes de vogal:
+
+Guaraní Antigo mohend
+
+Apapocúva muendý
+
+'atiçar (fogo)' (p. 21)
+
+É o que observamos no próprio nome Nimuendajú, que seria: i-mu-ena-u (REFLEXIVO-CAUSATIVO-lugar-amarelo) 'quem estabeleceu lugar (moradia) para si' (em nosso meio) (veja Nimuendajú, p. 32); compare com a expressão usada atualmente no PIN Laranjinha para 'minha casa': ts ere'na. Além de mue'n 'atiçar' e o nome de Nimuendajú, dados que confirmariam este mudança vocálica são esparsos. Nos textos de Nimuendajú, constam 22 ocorrências do prefixo causativo antes de vogal, mas em nenhuma registra-se o u; talvez reflitam uma transcrição regularizada.12 Os dados de Cadogan, como vemos, mostram emoena 'colocarse' em vez de imuena (p. 73), e ainda omoĩ 'colocou' (p. 73), omomeu 'contou' (p. 76) e poromoã 'perseguidor' (p. 77); em nenhum lugar atestam a mudança de o em u. Na lista que Meader
+colheu na aldeia de Bananal, consta a forma amuirũ [amũi' ũ] para 'contar' (talvez signifique
+'ajunto', de mo ~ mu 'causativo" + i'rũ 'companheiro'). Mas nesta lista constam também duas formas com mo: moatã [moa'tã] 'puxar' e amoaã [amoã'ã] 'empurro'. Nos textos anexos, a
+mudança do prefixo causativo de mo- em mu- absolutamente não consta. Portanto, em Ñandéva atual, essa mudança parece ser ou rara ou inexistente. Ela não ocorre nos outros dialetos. Nimuendajú nota que "o dialeto dos Oguauíva tem a particularidade de apresentar a alternância entre o o e u também em outros casos", entre os quais ele compara covae [koßa] 'este' do Guaraní antigo com cúvae do Oguauíva (p. 21), já citado na seção 2.1. Trata-se da mudança do
+determinante (especificador, veja seção 5.1) ko para ku. Em dois dos textos anexos encontra-se esta mudança:
+
+ku ka'i ku ßra po't ku ß'ra
+ku
+
+'o/éste macaco' (A.010) 'a/ésta flor de árvore' (D.066) 'a/ésta árvore' (D.265) 'este' (D.062, 234, 348)
+
+12 Ocorre, nos textos de Nimuendajú, uma instância da mudança de o em u neste prefixo, mas nem antes de vogal, nem em ambiente de nasalização. Trate-se de mbujapé 'pão' em I.XLVI, que teria se derivado de mo'causativo' + a 'ligar-se, grudar' + pe 'achatado', ou seja, massa achatada, com referência ao pão tradicional tipo beiju.
+21
+
+No texto A encontram-se mais 8 ocorrências de ko, e em D mais 36; portanto, ku constitui uma variante relativamente rara, mesmo nos textos onde consta. Nos outros textos anexos, não se acha. A falante no texto A, Delina da Silva, 80 anos, nasceu em Araribá e veio para PIN Pinhalzinho, PR, com quatro anos de idade; morou em Pinhalzinho e também no PIN vizinho de Laranjinha, PR. A falante no texto D, Maria Delfina (Lica), 85 anos, veio de Araribá quando já era casada. Conforme as idades fornecidas, as duas autoras eram meninas em Araribá durante a estadia ali de Nimuendajú (1905-1913). É possível que a linguagem delas preserve certos traços de Oguauíva, do qual haviam falantes em Araribá naquela época. Nenhum outro, entre os autores dos textos anexos, morou em Araribá naquela época.
+
+4.2 O prefixo reciprocativo
+Mbyá difere dos outros dialetos, inclusive o Ñandéva, por não permitir a flexão verbal de sujeito da terceira pessoa antes do prefixo reciprocativo o- ([õ] ~ [d o]). Isto é, temos:
+
+Avañeém: Kaiwá: Ñandéva: Mbyá:
+
+ooo'p ooha'hu ooŋero'a oo'p oa'ßu oŋero'a
+
+'pegam-se uns aos outros' 'amam-se uns aos outros' 'lutam entre si' (Nimuendajú, I.I) 'pegam-se uns aos outros' 'amam-se uns aos outros' 'lutam entre si'
+
+Um fenômeno paralelo ocorre quando o mesmo prefixo o- ocorre em conjunto com pronomes livres oblíquos. Achamos os seguintes dados:
+
+Avañeém: Kaiwá: Ñandéva: Mbyá
+
+oou'pe oohe'gi oo'e ou'pe oe'gi o'e
+
+'uns aos outros' 'uns dos outros' 'uns nos outros' (Cadogan, p. 73) 'uns aos outros' 'uns dos outros' 'uns nos outros'
+
+Aqui também, vimos que, antes do prefixo reciprocativo em Mbyá, não ocorre o o.13 Estes dois fenômenos são certamente relacionados, mas a explicação não é clara. Entretanto, a perda de o antes do prefixo reciprocativo em Mbyá constitui um traço diagnóstico deste dialeto, e portanto, uma diferença nítida entre Mbyá e Ñandéva.
+
+13 Existe outro prefixo verbal em Mbyá, homófono, que faz com que o radical seja transitivo. Como este, ocorre o prefixo de sujeito da terceira pessoa o-: oo'ka 'amarrou-o' (D.186).
+22
+
+4.3 Indicadores do plural
+Em todos os quatro dialetos, menos Ñandéva, existe um morfema que ocorre após substantivos e indica pluralidade ou coletividade: 'kera (em Avañeém) ou 'ker (em Kaiwá e Mbyá). Em Avañeém, este morfema é bem comum, designando o plural de entidades tanto inanimadas com animadas: eremiapo 'kera 'minhas tarefas diárias' (Gregores e Suarez 1967:195), erma 'kera 'meus animais domésticos' (p. 210). Em Mbyá e em Kaiwá ocorre menos, apenas para indicar a coletividade de entidades animadas: tserma 'ker 'meus animais domésticos' (Mbyá), emem 'ker 'meus filhos' (Taylor 1976:8).14 Os dados disponíveis do Ñandéva não incluem este morfema, até com entidades animadas.15 A situação pode ser indicada pelo seguinte quadro:
+
+Ocorrência de 'ker ~ 'kera 'plural, coletivo'
+
+Com entidades animadas ou inanimadas
+
+Com entidades animadas
+
+Avañeém
+
+Kaiwá
+
+Mbyá
+
+Com nenhum tipo de entidade
+Ñandéva
+
+Não é que o conceito da pluralidade ou coletividade seja desconhecido em Ñandéva. Muitas vezes a pluralidade fica subentendida, não assinalada lingüisticamente, como acontece em todas as línguas da família: chiquyvý (I.XXXVII), por exemplo, é traduzido 'meus irmãos'. Porém, há outros meios lingüísticos para indicar a pluralidade. Existem certos radicais verbais que, além dos seus outros significados, indicam pluralidade, como -e'oi ~ -i'oi 'ir' e -kai 'ser' (este com uma forma "gerúndio" -kap). Empregam-se também modificadores dentro da locução
+verbal (veja Dooley, 1990, Introdução) que dão a idéia de pluralidade, como -pa ~ -ma 'todos' e oa 'todos juntos'. Assim, encontram-se expressões como omaẽ'ma a'ga 'todos os jaguares chegaram (D.106) e oepopete o'a 'bateram palmas todos juntos' (C.114). Números certamente indicam pluralidade: mokoĩi ßaeke 'os gêmeos' (lit., 'os que são dois) (I.XXXVI), mokoĩ ra'r 'duas filhas' (I.XXXIV). E a reduplicação bissilábica pode dar o sentido de pluralidade, através do seu significado mais abrangente de indicar instâncias repetidas de algo: gra porã ete e'te 'pássaros verdadeiramente bonitos' (D.191). Existem, em Ñandéva, dois morfemas que, mesmo
+
+14 A noção de coletividade pode ser ilustrada pelo seguinte exemplo de Mbyá: it 'ker quer dizer, não 'suas mães', mas 'a sua mãe e outra(s) pessoa(s) com ela associada(s)', como o marido dela, a mãe dela, etc. Tanto esta expressão quanto tuu 'ker 'o seu pai e outra(s) pessoa(s) com ele associada(s)' é comumente usada para designar os pais de alguém.
+15 Um falante do Mbyá forneceu este morfema entre outros de Ñandéva que ele conhecia, mas que não consta nos dados de falantes nativos do Ñandéva. Nimuendajú, citando anguéry 'o que era alma(s)', chama o sufixo guéry ou cuéry "a forma não-reduzida do pretérito" (p. 41). Não é claro que ele pretendeu que a forma cuéry fosse tida como sufixo da língua Apapocúva, já que "os Apapocúva atuais, afora este caso [o de anguéry, RAD], não usam a forma não-reduzida do pretérito".
+23
+
+tendo outros usos, servem também como indicadores de pluralidade. O primeiro é re'ta, literalmente, 'muitos'. Encontram-se expressões como as seguintes:
+
+ta re'ta gra re'ta -memb re'ta
+
+'seus filhos' 'pássaros' 'filhos, filhotes'
+
+(D.210, I.XLIV e 13 vezes no texto G) (G.XI) (I.VIII duas vezes, IX)
+
+Este morfema, que parece ser restrito a entes animados como 'ker em Kaiwá e Mbyá, não é obrigatório nos casos em que a pluralidade é fato semântico. É usado menos nos textos recentes do que nos colhidos por Nimuendajú.
+Outro morfema que indica a pluralidade ou coletividade é o sufixo -ke ~ -ge. Nimuendajú nota um dos seus significados, o de "pretérito" (p. 29, 41): ooke 'carne' (de animal já carneado) (E.015). Mas este morfema também pode ser usado no sentido de pluralidade ou coletividade (o que acontece em todos os dialetos sob estudo):
+
+amoaeke kuãge kuataĩge kunumĩge krĩge
+
+'os outros' 'as mulheres' 'as moças' 'os rapazes' 'as crianças'
+
+(E.075) (I.XVI, D.392) (D.367, 373, 387, 399, 413) (C.088, D.367, 391) (A.029)
+
+Parece que este sufixo ocorra apenas com radicais adjetivais (i) que fornecem uma
+descrição física (e.g., sexo, idade, tamanho), e (ii) que podem ocorrer em função de substantivo: 'mulher', 'moça'. 'rapaz', 'criança', etc.16 Em contraste, substantivos como ta 'filho', que efetuam denotação através de uma relação, e como gʷra 'pássaro', que são simplesmente nomes nãodescritivos, não fazem parte desta classe, nem aceitam -ke. Observa-se que, ao contrário de reta, o morfema -ke ~ -ge é mais comum nos textos recentes do que nos de Nimuendajú. Isto é, no Ñandéva do tempo de Nimuendajú a falta de ker era parcialmente suprida pelo uso de reta como indicador de pluralidade, mas este está caíndo em desuso, enquanto -ke ~ -ge está sendo usado mais. Isto não quer dizer, porém, que substantivos que antes formavam o plural acrescentando reta agora o fazem através do -ke ~ -ge, pois este sufixo se limita a uma classe de radicais adjetivais que aparentemente não coincide, nem em parte, com a classe de radicais
+que aceitam, ou aceitavam, reta. Mais uma consideração é importante para o plural. Em todos os quatro dialetos, o pronome (anafórico) da terceira pessoa é hae ~ ae. Com este pronome não se distingue o gênero, e em si nunca se refere no plural. Para formar o pronome plural em Avañeém, Kaiwá e Mbyá, acrescenta-se o morfema do plural: hae 'ker ~ hae 'kera 'eles, elas'.
+
+16 Estes radicais comumente levam o nominalizador ou relativazador em efetuarem uma referência: kuã ßae 'a mulher' (D.117), kuataĩ ßae 'a moça' (D.351).
+24
+
+Em Ñandéva, porém, que não tem este morfema, não há expressão pronominal específica para o plural da terceira pessoa.
+Existem, porém, expressões pronominais em Ñandéva que, conforme o contexto, podem ser interpretadas como designando mais de uma pessoa ou objeto. Tal interpretação não é efetuada através de um significado do plural ligado à expressão, mas sim, através da sua referência vaga ou difusa que, no contexto específico, é aplicada a(s) entidade(s) mais indicada(s), seja(m) ela(s) de natureza singular ou plural.
+Assim, expressões como ae ramĩga (~ raĩga ~ rĩga) 'o que é assim' e ae nuŋa 'o que é deste tipo' se referem principalmente a objetos, enquanto ei'gĩ (~ e'gĩ ~ e'ĩ ~ 'ĩ) ßae 'o não especificado' refere tanto a objetos como a entes animados, inclusive pessoas. Assim, ae
+ramĩgʷa é usado para referir a várias coisas, inclusive aos pais da falante, relembradas em A.028, ae nuŋa refere a várias coisas plantadas em D.039, e enguívae (e'gĩ ßae) refere a frutas em I.XXIV e gêmeos em I.XXXIII. Sendo que o significado destas expressões é indeterminado quanto a número, a própria indeterminação possibilita, e em certos contextos sugere, a interpretação do plural, pois o singular tem seu pronome próprio hae.
+
+5 Sintaxe
+Examinamos aqui três tópicos na sintaxe de Ñandéva que apresentam diferenças para com um ou outro dos outros três dialetos. Estes tópicos são: especificadores, a partícula ri e a falta de conjuncão entre locuções. Entre outros aspectos da sintaxe de Ñandéva que merecem mais estudo, mas que não são abordados aqui, são os seguintes: conjunções enclíticas ß e ramõ ~ rõ ~ nõ que mostram igualdade ou diferença de sujeito, o "gerúndio", a ordem relativa dos constituintes da frase e o posicionamento de partículas enclíticas dentro da frase.
+
+5.1 Especificadores
+Em Mbyá, ko é um adjetivo demonstrativo: ko ß re 'nesta terra' (I.XXX, XLII). Seu significado de 'este, esta' é no sentido de algo perto de, ou, num sentido mais geral, associado com o falante, ou com o falante junto com seus ouvintes. Assim, ele é um tipo de determinante, termo que na gramática gerativa abrange demonstrativos, artigos e quantificadores, itens de classe fechada que fazem parte da locução nominal e que são sintaticamente distintos de outros tipos de modificadores. Determinantes, por sua vez, são um tipo de especificador, elemento estrutural que desempenha, em qualquer tipo de locução, o papel que o determinante desempenha na locução nominal.
+Em Mbyá, ko não é especificador senão na locução nominal; ele não ocorre, por exemplo, como especificador na locução adverbial. Nos outros três dialetos, porém, ko desempenha o papel de especificador tanto na locução adverbial como na locução nominal.
+
+Avañeém
+
+Kaiwá
+
+Ñandéva
+
+Mbyá
+
+ko'ãŋa
+
+ko'ã ~ ko'?ãga
+
+ko'a
+
+a'
+
+'agora'
+
+ko'ape
+
+ko'?ap ~ 'ap
+
+ko'ap
+
+a'p
+
+'aqui'
+
+Nos textos em Ñandéva, ko'ã 'agora' ocorre oito vezes em I, três em G, três em A, cinco em C, onze em D e dois em E. (Também ocorre 'a ~ a' sozinho: três vezes em I, duas em B,
+
+25
+
+duas em C e uma em D.) ko'ap 'aqui' ocorre duas vezes em I, duas em A, cinco em C, cinco em D e uma em E. Ocorrem pelo menos mais duas expressões adverbiais nas quais ko funciona como especificador: koaraĩ 'assim' (28 vezes em E) e ko'agi 'daqui' (D.334, E.021, 029).
+Em Mbyá, existem outros demonstrativos além de ko, incluindo pe 'aquele' (um pouco afastado do lugar do falante e ouvinte, mas na vista deles) e ki 'aquele' (longe do lugar do falante e ouvinte, fora da sua vista). Tais elementos, além de ser adjetivos, podem ocorrer como advérbios demonstrativos (ko mã roge'ru 'aqui, trouxemos [o anel]' (C.230).17 Elementos correspondentes se encontram nos outros dialetos sob estudo, mas a evidência disponível não é suficiente para indicar se pe e ki funcionam como especificadores em expressões adverbiais, como o faz ko. Ouvem-se expressões como pe kara' p 'ali no sol' (D.143), mas geralmente elas têm dois focos de entonação: um no pe e o outro no que segue. Isto indica aposição, ou seja, duas expressões adverbiais paralelas, em vez de uma só. Em todos os dialetos, estes elementos ocorrem na posição inicial da locução (para Avañeém, veja Gregores e Suarez, seção 15.123).
+5.2 A partícula ri
+Ñandéva é um dos dialetos que às vezes acrescenta ao sufixo negativo (semivogal) -i, mais um morfema, átono. Nimuendajú o descreve como sendo o sufixo -ri ~ -ni, este último ocorrendo em ambiente de nasalização: naponãini 'não é bom' (p. 23). Nos dois textos transcritos por Nimuendajú, o sufixo negativo -i ocorre 19 vezes, com as quais -ri ~ -ni ocorre apenas duas vezes: ndajajoúiri 'não achamos' (I.XXVI) e ndajaúiri 'não comemos/bebemos' (I.XLV). Nos dados de Cadogan, em três ocorrências do sufixo negativo, este morfema não ocorre. Nas listas de palavras de Ñandéva, ele é transcrito [ɾ]: [ⁿdo'keiɾ] 'não dorme', [ⁿdokaɾu'veiɾ] 'não come mais'. Nos textos anexos também, a forma deste morfema após o sufixo negativo é r; ele ocorre 36 das 67 vezes em que ocorre o sufixo negativo -i. À base desta evidência, podemos tomar ri como a forma básica deste morfema em Ñandéva, com nĩ e r como variantes: a primeira em ambientes de nasalização nos textos colhidos de Nimuendajú, e a segunda em todos os ambientes, nos textos mais recentes.
+Paramos aqui para considerar certos casos do n nas transcrições de Nimuendajú, ou seja, casos em que a forma básica tem r. Há duas possibilidades quanto o n, e de ambas o próprio Nimuendajú era consciente. Primeiro, o n poderia representar o r nasalizado, isto é, ele pode representar uma variante [~ɾ] do fonema r. Esta possibilidade é sugerida pelo comentário de Nimuendajú, de que o som do r "é muito brando e freqüentemente não distinguível do n" (p. 19). A segunda possibilidade seria uma mudança do fonema r no fonema n. Parece ser isto que Nimuendajú tinha em mente quando disse que "o r do Guaraní antigo passa, principalmente diante de nasais, para n" (p. 23). Para ilustrar esta possibilidade, ele citou as palavras vaéna (ßaerã) 'futuro', aénami (ae ramĩ) 'como aquilo' e ponã (porã) 'bom'. Contudo, nos seus textos achamos sempre as transcrições rami 'como' (13 vezes) e porã 'bom' (cinco vezes). Também
+17 Tanto em Ñandéva quanto em Mbyá, ko tem ainda outro significado como advérbio: 'na opinião do falante'. é este o que vimos na frase, Anýine, cávy co [ko] orejopi 'Não, foram vespas, que nos picaram' (I.XVII).
+26
+
+achamos naĩ (nove vezes) para a forma reduzida de ramĩ. Achamos vaéna (12 vezes), mas vaerangue (ßaerãge) 'o que teria sido' (cinco vezes). Outro exemplo é a forma reduzida da conjunção ramõ, que Nimuendajú geralmente escreve no (26 vezes nos seus textos), mas que às vezes escreve ro (G.XI), rô (I.XLII) ou rõ (I.XLV). Assim, em seus dados, não é claro qual das duas possibilidades para n obtém. Em todos estes casos nos textos anexos, ouve-se o r nasalizado, por exemplo, na forma reduzida rõ [~ɾõ] em vez de [nõ] (forma reduzida da conjunção ramõ, veja seção 3.8.2), e semelhantemente raĩ [~ɾãĩ] em vez de [naĩ] (seção 3.8.4). Por isso, parece provável que em alguns casos o n nos dados de Nimuendajú deva ser considerado uma variante nasalizada do fonema r; isso, é claro, não excluiria absolutamente a possibilidade de ele manifestar o próprio fonema n em outros casos.
+Voltando para ri e suas variantes, notamos que a partícula (ou sufixo) nẽ não ocorre nos textos anexos; mas um sufixo ne ocorre nos textos de Nimuendajú em lugares onde se encontra r nos textos anexos. Por exemplo, encontra-se a resposta a'ni r 'não' três vezes nos textos anexos (C.125 e duas vezes em D.195), enquanto anýine ocorre oito vezes nos textos de Nimuendajú (I.XVII, XXIII, XXX, XXXI, XXXIV, XXXVII e G.II, VIII). Nem ri, nem ni ocorre após anýi nos textos de Nimuendajú. Já que trata-se de um ambiente de nasalização, sugere-se que o sufixo ne, nos textos de Nimuendajú, seja outro variante de ri em ambientes de nasalização, como também o é o sufixo ni.18
+O morfema ri ocorre nos outros três dialetos também.19 Em Mbyá, ri ocorre tanto com verbos negativos como em outros ambientes. Trata-se de partícula enclítica, que indica que uma personagem (o falante ou a pessoa tipo tôpico) reconhece ou alude a algum conceito que se deve a outra fonte (e.g., um interlocutor). Por exemplo, em resposta à pergunta, 'Você foi?', ouve-se na'ai ri 'não fui'. Esta partícula em Mbyá, pois, é um marcador de interação interpessoal, uma indicação explícita de que o ponto de partida da presente frase é outra conceito que acabou de ser colocado.20 Quanto à sintaxe de ri em Mbyá, analisa-se como partícula em vez de sufixo, por não ser restrita a ocorrer em uma só posição. Por exemplo, ela comumente ocorre após o sujeito: outra resposta à pergunta citada acima seria tse'e ri na'ai 'eu não fui'.
+Neste estudo, ri (~ nĩ ~ r ~ nẽ) em Ñandéva é identificado com a partícula ri em Mbyá quanto o signficado e a sintaxe (com um ressalvo, a ser abordado em breve). Este elemento ocorre em vários ambientes em Ñandéva, não apenas após o sufixo negativo verbal. Nos textos de Nimuendajú, notamos: ni, na sua única ocorrência, após a expressão coeno (ko'ẽ rõ) 'amanhã'
+18 Segundo Nimuendajú, o ne que segue anýi é sufixo do futuro (p. 18). Avañeém e Kaiwá têm este morfema do futuro, que se deriva da proto-língua (Deitrich, p. 74). Contudo, o futuro não cabe semanticamente em alguns casos onde esta forma ocorre nos textos de Nimuendajú (I.X duas vezes, XVII, XXIII, XXVIII, etc.). Se nẽ 'futuro' existe em Ñandéva, portanto, poderia tratar-se de morfemas nẽ homófonos: o indicador do futuro, e a variante de ri. E ainda, certas ocorrências de nẽ nos textos de Nimuendajú talvez sejam o mesmo morfema como no, isto é, redução da conjunção ramõ (e.g., I.XLV, G.VII).
+19 Em Kaiwá, nos primeiros dois textos em Taylor 1974, entre 30 ocorrências de -i, ri ocorre 12 vezes; nos textos de Meliá, Grünberg e Grünberg, este elemento não ocorre. Segundo Bridgeman, ele parece ser até obrigatório em posição final na frase. Nos quatro textos de Avañeém em Gregores e Suarez, -i ocorre 14 vezes mas ri nenhuma vez.
+20 Em Kaiwá, o sentido negativo, após o sufixo negativo -i, é descrito como sendo "mais intensivo" quando se acrescentar um dos sufixos -ri, -r ou -'enẽ (Taylor e Taylor, 32).
+27
+
+(I.XXIV); ri após verbos no positivo (I.IX, XVIII; G.VIII), após uma locução posposicional (I.XI), após uma locução nominal (I.XIV) e após uma oração subordinada (I.VII); teíne sempre após verbos no imperativo (I.XII duas vezes, XVII, XXV duas vezes, XXXIV, XLVI; G.IX duas vezes, XI); ne em outros ambientes (I.II, X duas vezes, XV, XXVIII duas vezes; G.VIII). Nos textos anexos, achamos ri (r) nos seguintes ambientes: após o negativo do imperativo emẽ (C.150, 151, 175; D.225); após o elemento imperativo toße (D.025); após verbos no positivo (B.004; D.213, 313, 389); após locuções posposicionais (C.075) e locuções nominais (D.353; C.084), inclusive pronomes (D.273); na expressão ri e'pe 'nem que seja' (A.011, 015). Em todos estes lugares, percebe-se um forte sentido de intercâmbio entre pessoas, que é o sentido deste elemento.21
+Já notamos que nos textos anexos, é muito comum a ocorrência de r após verbos com o sufixo negativo; isso ocorre com um índice de 54%. Embora não seja possível afirmar que haja verbos cuja negação leve este elemento obrigatoriamente, parece que em Ñandéva, e talvez em Kaiwá e Avañeém, a configuração -i ri ou -i r nem sempre ocorra por razões puramente semânticas, mas também, às vezes, por convenção, pelo menos com certos verbos e certos falantes.22 Por exemplo, com o verbo no negativo narei 'não demorou' em Ñandéva, o falante do texto D usou r sete das oito vezes, enquanto o do texto E não usou r em três vezes, o que aponta a certa variação individual. Visto que a ocorrência da partícula após a negação verbal é facultativa em Ñandéva, qualquer processo de gramaticização que possa estar fixando-a nesta posição é ainda parcial e incipiente. Em Mbyá, ele nem começou.
+5.3 Conjunções entre locuções
+Segundo Nimuendajú, "o dialeto Apapocúva desconhece, tanto quanto o Guaraní antigo, uma conjunção 'e' para ligar conceitos da mesma ordem: Apc.: mosquitos e bariguis -- ñatiũ, mbari'gui avé (I.XXXIX.4) significa literalmente: 'mosquitos, bariguis também'" (p. 23). E de fato, não consta conjunção que ligue locuções (e.g., locuções nominais, adjetivas, adverbiais) nos textos de Nimuendajú, nem nos mais recentes. O que achamos em certos lugares é uma partícula de hesitação (mã) entre esses itens: urukurea, mã katsũ, mã akaẽ 'corujas, rabos-de-palha, gralhas' (D.190). Ocorre também o advérbio aße'i ~ a'ße 'também': aßa'ti, e't aße'i, me'u 'milho, batatas também, beijus' (G.V). Em pelo menos dois dos outros dialetos, emprega-se uma conjunção nestas posições: Avañeém hae ~ ha e Mbyá hae: aßa'ti hae e't 'milho e batatas'.23
+5.4 Resumo da evidência morfossintática
+Já que a morfo-sintaxe comparativa de línguas guaranís, em geral, é menos conhecida do que a fonologia, e o conhecimento do presente autor quanto à morfo-sintaxe de Avañeém e Kaiwá é rudimentar, não se tenta aqui traçar generalizações dogmáticas. Nota-se, porém, a conclusão de Deitrich: todos os quatro dialetos do presente estudo são altamente semelhantes um
+21 Nimuendajú sublinha que a expressão anýine "é utilizado nas respostas" (p. 24), ou seja, na interação conversacional.
+22 Em Kaiwá, o verbo no negativo naipori 'não há' leva ri regularmente, e outros verbos cujos radicais terminam com -i comumente levam r: nokai r 'não queimou', nopoi r 'não desistiu' (John Taylor, comunicação pessoal).
+23 Em Kaiwá, hae ~ ha é usado como conjunção, mas talvez apenas para ligar frases inteiras, não locuções.
+28
+
+ao outro na sua morfo-sintaxe, e a mais estreita semelhança fica entre Avañeém e Kaiwá (pp. 85, 86, 95). Voltamos a este ponto na conclusão (seção 7).
+6 Léxico
+Schaden (1974:77) cita Müller sobre um "infalível critério", no nível do léxico, que distingue entre Mbyá, Ñandéva e Kaiwá, que é o nome para 'cesta': aa'ka em Mbyá, a'o em Ñandéva, e pna'kũ ~ mna'kũ em Kaiwá. Contudo, aa'ka consta nos três dialetos; em Ñandéva, é o que achamos no primeiro texto de Nimuendajú (I.XXXII), na lista colhida por Meader na aldeia de Bananal, e nos dados deste pesquisador. Em Kaiwá, aa'ka e mna'kũ designam cestas de tipos diferentes. Além disso, aa'ka é palavra comum em Avañeém. Isto não quer dizer que a distinção que utiliza os três vocábulos seja sem fundo, mas mostra que testes lexicais são notoriamente difíceis de aplicar, e sugere uma cautela quanto ao uso de dados como os apresentados neste trabalho.
+Tratamos diferenças lexicais sob três subdivisões: dados lexicais gerais, empréstimos, e três classes fechadas (posposições, conjunções e pronomes).
+
+6.1 Dados lexicais gerais
+O seguinte quadro apresenta algumas correspondências lexicais entre os quatro dialetos, diferenças que vão além das puramente fonológicas já abordadas:
+
+Avañeém
+-eẽ
+moro'tĩ -emosa'rai
+atuku'pe -enp'ã
+(n)a'hãniri agapa'ra o'a
+mamõ
+neĩ -huaĩ -emo'a mo'ã ~ ra'i
+
+Kaiwá
+-e'ẽ
+moro'tĩ -emosa'rai
+apota'ha -etp'ã na'hanĩ ~ a'ni r agare'te o'a kip ~ ma'mõ
+neĩ -gaẽ -emo'a
+haimẽ(te) ~ ra'i
+
+Ñandéva
+-a'ßu
+moro'tĩ -ima'ŋa
+tuku'pe takã, -enp'ã a'ni nẽ aga(re'te) o'a
+ki ~ ma'mõ
+eneĩ ~ neĩ -aẽ -a'ro mo'ã ~ ra'i
+
+Mbyá
+-a'ßu t i'ĩ -emoa'rai
+ku'pe -enap'ã a'n t i'ßi oa'ßi
+ma'mõ
+neĩ
+--emo'a
+ra'i
+
+'falar' 'branco' 'brincar' 'costas' 'joelho' 'não' 'onça' 'juntamente' 'onde' 'pois sim' 'vir (no pl.) 'aproximar-se' 'quase'
+
+A falta de uma palavra num determinado lugar no quadro acima não implica que ela não exista naquele dialeto. Por exemplo, quanto à linha de radicais com o significado 'trabalhar', existe também em Ñandéva o radical -maea'po, mas com o significado mais específico de 'fazer roça' (Nimuendajú, I.IV e G.IV).
+
+29
+
+Por outro lado, a ocorrência de uma determinada palavra no quadro não implica que ela sempre seja usada com o significado fornecido. Por exemplo, a radical -emosa'rai em Kaiwá não é mais usada para dizer 'brincar' simplesmente, pois já adquiriu uma conotação sexual.
+O radical verbal -aẽ 'vir (no plural)' (I.XXV duas vezes, traduzido 'voltar', XXXVII; D.252; E.035) não existe em Mbyá. Num dos textos mais recentes, várias vezes ele parece estar funcionando como gerúndio, mas sem sufixo, após o verbo principal -maẽ 'chegar' (D.019, 106, 107, 201, 367).24
+O radical verbal -aro 'aproximar-se' (I.173, 276, 315, 366, 436) neste quadro, mesmo não constando nos outros três dialetos sob estudo, não se encontra em Ñandéva apenas; aparece no vocabulário do Guaraní antigo por Restivo, com o significado 'estar cerca de llegar'. Talvez um item lexical só de Ñandéva seja a palavra parentética 'nai [ⁿdai] dos textos recentes (C.045, 083, 099; D.395; E.036), cujo significado é semelhante ao da expressão portuguesa sei lá, mas cuja sintaxe é mais como a de partícula.
+A palavra ki tem o significado 'onde' apenas nos textos de Nimuendajú (I.VII, VIII, XXVII), enquanto nos textos mais recentes, seu significado é 'ali' (D.080, 115).
+A palavra que quer dizer 'onde' nos textos mais recentes é ma'mõ (17 vezes), que existe com este significado também nos de Nimuendajú (I.XXIV; G.IV, V).25
+6.2 Empréstimos
+Segundo Nimuendajú, "a língua dos Apapocúva cada vez mais se mescla com empréstimos. Não só denominam objetos de origem européia com nomes portugueses, como vai se impondo o vício de conjugar verbos portugueses com partículas Guaraní e coisas semelhantes especialmente entre os Guaraní da reserva Araribá e do litoral paulista" (pp. 24s).
+Os dois textos transcritos por Nimuendajú, porém, não apresentam empréstimos, mesmo para conceitos que, nos textos mais recentes anexos, os empregam. Assim, no texto I 'cruz' é ßra oa'ts a 'madeira cruzada' (I.V), enquanto no mesmo lugar na versão recente se encontra o empréstimo kuru'tsu (D.050, 052). Talvez, no tempo de Nimuendajú e nas condições culturais então vigentes entre os Ñandéva onde ele morou, conservava-se mais rigorosamente a tendência que ainda hoje se evidencia entre os Guaraní, de se evitar empréstimos, o quanto possível, na linguagem tradicional, "religiosa". Nos textos anexos achamos empréstimos como cama (C.137, 140), 'ts ako 'saco' (C.103) e canto (D.104).
+A seguinte área semântica é muito interessante quanto aos empréstimos. A introdução de cachorros pelos europeus gerou as seguintes mudanças lexicais nos dialetos sob estudo, como nas línguas Tupi-Guaraní em geral:
+24 Em Kaiwá, este radical ocorre nesta função como se fosse de gerúndio (John Taylor, comunicação pessoal). 25 Em Kaiwá, kip tem o sentido 'qual lugar', enquanto ma'mõ tem o sentido mais geral de 'onde' (John Taylor, comunicação pessoal).
+30
+
+Avañeém
+aŋʷare'te a'ŋʷa maraka'a
+
+Kaiwá
+aŋʷare'te a'gʷa maraka'a
+
+Ñandéva
+a'ŋʷa ka'ts uru
+mi'ãu
+
+Mbyá
+t i'ßi a'ŋʷa ~ ß'ß t ißi'i
+
+'onça' 'cachorro' 'gato'
+
+Em Avañeém, Kaiwá e Mbyá, quando a palavra a'gʷa 'onça' começou a ser utilizada para 'cachorro', outro termo veio a ser usado para 'onça': ou a'ŋʷare'te 'onça verdadeira', ou ti'ßi, palavra de história desconhecida. Apenas o Ñandéva não empregou a palavra a'ŋʷa para 'cachorro', emprestando do portugês o termo ka'tsuru. Para 'gato doméstico', as soluções foram diversas: maraka'a 'dono do chocalho' deve ter referência ao seu ronrom (compare imara'ka ßae 'cobra cascavel', lit., 'aquele que tem chocalho' em Mbyá); o termo i'vi ~ t i'ßi reaparece também, em Mbyá com o sufixo diminutivo -i; mas o Ñandéva, mais uma vez, empresta uma palavra do
+português: mi'ãu. Isto sugere a hipótese de que Ñandéva, entre os dialetos sob estudo, manifeste a tendência mais marcante para emprestar palavras não-guaranis. Mas outros dados nem sempre
+apoiam essa hipótese. Veja o seguinte quadro:
+
+Avañeém
+kati'a tu'pa sapa'tu 'sai hovetã
+
+Kaiwá
+kati'a
+tu'pa pr'ru
+'saia okẽ'ĩ
+
+Ñandéva
+papel 'kamã p'ru 'ts aia janela
+
+Mbyá
+katsi'a ~ pa'pe
+tu'pa ts apa'tu ~ pr'ru tup'a okẽ'ĩ
+
+'papel' 'cama' 'sapato' 'vestido, saia' 'janela'
+
+Nas palavras para 'papel' e 'cama', de fato, notamos o mesmo padrão de empréstimos que já notamos, com apenas Ñandéva utilizando palavras emprestadas. Nos outros três itens, Avañeém tem três empréstimos (hovetã deriva-se do castelhano ventana), Ñandéva dois, Kaiwá e Mbyá um.
+A base de dados é pequena para se formar opinião, mas parece possível que Avañeém empregue empréstimos tão livremente como Ñandéva, e que Kaiwá e Mbyá sejam mais conservadores neste respeito.
+Até agora examinamos apenas nomes de "objetos de origem européia" (Nimuendajú, p. 24), que fornecem a mais abundante fonte de empréstimos nos dados disponíveis. Quanto ao "vício de conjugar verbos portugueses com partículas Guaraní e coisas semelhantes" (loc. cit.), os dados são bem esparsos.
+Achamos o verbo acontece (pronunciado como oxítono) em C.033 (em revisão posterior, ele foi substituido por oi'ko) e, mais como Nimuendajú descreveu, o verbo opatsa'pa 'todos passaram' em C.088 (o verbo em Guaraní seria oats a'pa). Existe também, como em Mbyá, o costume de usar já, mesmo em frases como já opa mã 'já terminou' (C.182), onde também ocorre
+
+31
+
+mã 'já'.26 Mesmo assim, o número de empréstimos no corpo não parece ser assustador; apenas por eles, os textos não perdem seu caráter indígena, pois um índio não pára de ser índio só por usar certos artigos dos brancos. Não é deste "vício" que o Ñandéva está correndo perigo mortal.
+
+6.3 Posposições, conjunções e pronomes
+Certas posposições e conjunções apresentam formas diferentes nestes quatro dialetos. O seguinte quadro mostra três delas:
+
+Avañeém
+pe pe 'ari
+
+Kaiwá
+pe p ari
+
+Ñandéva
+upe ~ pe p 'arõ ~ 'arĩ
+
+Mbyá
+pe p 'ar
+
+'a, para' 'em' 'em cima de'
+
+O quadro acima registra as posposições como ocorrem com subtantivos; em todos os dialetos, usa-se a forma -upe após pronomes (e.g., Mbyá itupe 'a ele(a)'). Esta posposição é uniformemente upe nos textos de Nimuendajú (39 vezes), mas nos textos mais recentes encontram-se 19 ocorrências de pe, todos com substantivos, além de 14 de upe.27
+Quanto a diferenças entre conjunções nestes dialetos, examinamos apenas duas conjunções, que indicam se o sujeito da oração onde eles ocorrem é igual ou diferente do da oração a qual esta é subordinada (veja seção 3.8.2). Note o quadro abaixo:
+
+Avañeém
+vo ramõ ~ rõ
+
+Kaiwá
+ß ramõ ~ rõ
+
+Ñandéva
+ß ramõ ~ rõ
+
+Mbyá
+ß ramõ ~ rã
+
+'sujeito igual' 'sujeito diferente'
+
+Os seguintes exemplos dos textos de Nimuendajú devem esclarecer a função dessas conjunções: omaé vy y ojaparó 'veio a água e se precipitou' (G.IX); y oú ramo manãe pã ereicó 'como você fica quando a água vier?' (G.VIII); omaé no ndoicovei ma Ñanderuvuçu 'quando [ela] olhou, não estava ali Ñanderuvuçu' (I.VI). (A forma reduzida da conjunção neste último exemplo, aqui escrita no, deve ter rõ por sua forma básica, conforme a discussão de n na seção 5.2.)
+Dos pronomes, examinamos um só. Existe, nos quatro dialetos, o pronome demonstrativo upe, homófono com a posposição referida acima. Um significado é 'o que está aí, perto de ou
+
+26 O uso de empréstimos do português, até na mesma frase com a palavra indígena com significado igual, não é raro em Mbyá. Por exemplo, tereo até tape ap peve 'vai até o final do caminho', onde ocorre tanto a preposição portuguesa até como a posposição guaraní peve 'até'. (Compare os pronomes portugueses conosco, contigo, etc., que apresentam traços tanto da posposição latina como da preposição inovadora portuguêsa.) Outro exemplo é a expressão nem açukr epe 'nem açucar' (A.015), na qual se encontra tanto nem como epe 'nem que seja'. Nestes casos, como na frase com já citada do texto, o elemento do português ocorre no começo da expressão e o elemento correspondente em Guaraní no fim. Deste modo, o empréstimo fornece um sinal, no início da construção, da sua função gramatical.
+27 Duas das posposições neste quadro têm variantes que ocorrem após sílabas nasais: mẽ 'a' em Avañeém e m 'em' em Kaiwá e Mbyá.
+
+32
+
+associado com o ouvinte'. Assim, achamos peó teíne peecha upépy 'vão e olhem aí' (I.XXXIV) e eguejy upe gui 'desce daí' (E.055). Mas, além deste significado cuja referência é exofórica (fora do discurso), na situação da fala, existe outro sentido, de referência endofórica (dentro do discurso), exatamente como, no português, daí funciona num discurso no sentido de 'então'. Os seguintes exemplos mostram o sentido endofórico: upégui jaá Ñandecý róypy 'de lá (ou seja, do último lugar referido no discurso) vamos à casa de Ñandecý' (I.XLVI), Upévaegui ogueraá y 'Em seguida ele trouxe a água' (I.I).
+O sentido exofórico existe em todos os quatro dialetos, mas o endofórico apenas em Avañeém, Kaiwá e Ñandéva. Aliás, em Ñandéva o sentido endofórico consta apenas nos textos colhidos por Nimuendajú (13 vezes, além de uma vez com o sentido exofórico já citado). Nos textos mais recentes, acha-se apenas o sentido exofórico, que ocorre no exemplo já citado e mais uma vez: pejavyky mbeguei porã katu upe py 'tenham cuidado em mexerem aí' (D.349).
+Abordando o mesmo fenômeno a partir da semântica, notamos que existem duas expressões nos textos que significam 'o que acabou de referir-se': ae ßae (~ ae ßa) e upe ßae. Com este sentido endofórico, nos textos de Nimuendajú ae ßae ocorre três vezes e upe ßae nove (veja o exemplo acima, de I.I); nos textos recentes ocorre apenas ae ßae, 13 vezes.
+Isso aponta a uma alteração semântica no Ñandéva, pelo menos na fala daqueles que contribuíram para o corpo de dados: perdeu-se o sentido endofórico de upe.
+6.4 Diferenças de frequência
+Certas palavras e construções, mesmo constando em dois ou mais dialetos, podem manifestar importantes diferenças quanto à frequência com que ocorrem. Isto é apenas ilustrado aqui, em dois casos.
+Em Mbyá, a palavra gʷa'ts u, além de ter o significado de 'veado', é usado como modificador nominal com o significado 'grande, muito'. Ocorrem estes dois usos em Ñandéva também, tanto nos textos de Nimuendajú como nos mais recentes. Além disso, em Mbyá, existe um só radical verbal, -karu 'comer' com o qual gʷa'ts u ocorre como modificador verbal: akaru gʷatsu 'comi muito'. Nos textos mais recentes em Ñandéva, ele ocorre com vários radicais verbais com este sentido: -noõ 'ajuntar-se' (C.057, 059, 067, 220), -nhuvã 'embrulhar' (C.143), atap 'fazer fogo' (C.238, 242; D.129), -moĩ 'colocar' (C.241), -poraka 'agradar(?)' (D.167, 182), moere 'virar' (D.187), -apo 'fazer' (D.320). Nos textos de Nimuendajú, gʷa'ts u não ocorre como modificador verbal. Portanto, seu uso como modificador verbal em Mbyá é bem raro, enquanto em Ñandéva contemporâneo é comum.
+Na seção 4.3 foi notado que a expressão pronominal ei'gʷĩ ßae 'o não especificado' com suas variantes, pode ajudar de suprir a falta, em Ñandéva, de um pronome da terceira pessoa no plural ('eles, elas'). Talvez isso contribua para o fato de que expressões contendo ei'gʷĩ ou uma das suas variantes são muito comuns neste dialeto, ocorrendo 53 vezes nos textos disponíveis, tanto nos anexos como nos de Nimuendajú. Seguem alguns exemplos: oeoii okʷap rkae eigʷĩ 'foram embora a alguma parte' (D.272), eĩ ßa mã ts erke mã omomo ts ekʷã rega  p p 'aquele, meu irmão mais velho jogou meu anel no fundo do mar' (C.222), mae ßa p pã eigĩ raĩ peereko, t ikß 'com o que vocês estão fazendo assim consigo, meus irmãos?' (I.XXXVII), egʷĩ ramĩgʷa ßai ko oa e ßae 'uma coisa assim malfeita -- na minha opinião, nada cai [nela]'
+33
+
+(I.XXI), eĩ mamõ rã neß, eĩ maemõ ßai neß rã t ere nemanua 'quando você for por algum lugar, quando lhe acontecer qualquer coisa má, lembra-se de mim' (C.052). Tais expressões são bem raras em Mbyá, talvez sendo limitadas à expressão adverbial única e'gʷĩ: aa egʷĩ 'vamos a alguma parte'.
+Os dados lexicais não dão nítida indicação de possíveis agrupamentos dialetais, correspondentes aos sugeridos por observações fonológicas e morfo-sintáticas.
+7 Conclusão O dialeto da língua Guaraní falado no norte do Paraná, nos PIN Laranjinha e Pinhalzinho,
+pode ser identificado com o sub-dialeto Apapocúva do dialeto Ñandéva, com certos possíveis traços do sub-dialeto Oguauíva. Assim, os dados colhidos nestes PIN em março de 1990 concordam, nos pontos essenciais, com os publicados por Nimuendajú em 1914. As observações lingüísticas feitas por ele, com poucos ressalvos, continuem sendo relevantes e perspicazes com referência ao dialeto contemporâneo.
+Isto não quer dizer que, neste intervalo de 75 anos, o dialeto Ñandéva ficou estático, isento de alterações. De outra maneira, não seria língua humana, viva.
+Entre as inovações que ocorreram, constam as seguintes: a geminação de vogais em certos contextos (seção 3.7); um índice mais elevado de supressão de segmentos em vários casos (3.8); menos mudança de e em i nos prefixos da primeira pessoa singular e do reflexivo (4.1.1); menos mudança de o em u no prefixo causativo mo (4.1.2); menos uso de re'ta e, mais de -kʷe ~ gʷe, como indicadores do plural (4.3); a mudança na forma da partícula ri, de ri ~ rĩ ~ rẽ em r, e a mais frequente ocorrência dela após o sufixo negativo verbal (5.2); o desuso de ki com o significado 'onde', passando-se esta função para mamõ (6.1); o uso de -a'ẽ 'vir (no plural) (6.1); a admissão da variante pe da posposição upe 'a, para' (6.3); a perda do sentido endofórico (dentro do discurso) do pronome demonstrativo upe (6.3); e o uso de gʷats u como modificador verbal (6.4).
+Destas doze inovações, nove têm o efeito de colocar Ñandéva mais perto do dialeto Mbyá, algumas, sem dúvida, tendo surgido sob a influência deste. E entre estas nove, seis são na morfo-sintaxe. Este fato, junto com a observação feita por Deitrich, de que Avañeém e Kaiwá já são bem pertos entre si em morfo-sintaxe (veja seção 5.4), aponta à mesma conclusão já indicada pela evidência fonológica, resumida na seção 3.10, a saber: dos quatro dialetos da língua Guaraní atualmente falados no Brasil, Ñandéva e Mbyá constituem um agrupamento, e Avañeém e Kaiwá outro. (A evidência lexical parece ser menos decisiva.)
+Quanto à possibilidade de falantes de Ñandéva usarem material elaborado originalmente em Mbyá, o presente estudo indica que, se for uma questão puramente lingüística, não teriam problemas insuperáveis. Encaramos, porém, duas indagações de natureza socio-lingüística: Estariam os falantes de Ñandéva dispostos a aceitar material elaborado em outro dialeto? E existe ainda, entre os falantes de Ñandéva, a possibilidade de conservar um senso de comunidade lingüística? São estas, agora, as questões cruciais, não apenas quanto ao uso de material escrito, mas quanto a própria conservação de Ñandéva como língua viva.
+34
+
+Referências:
+Barbosa, Carla Gonçalves Antunha e Marco Antonio Barbosa. 1987. Uma parte da história desta publicação, em Nimuendajú 1987, ix-xv.
+Bridgeman, Loraine I. 1961. Kaiwá (Guaraní) phonology. International Journal of American Linguistics 29:4:329-34.
+Cadogan, Leon. 1959. Como interpretan los Chiripá (Avá Guaraní) la danza ritual. Revista de Antropologia 7.65-99.
+Conselho Indigenista Missionário (CIMI). 1979. Relatório sobre grupos guarani no Brasil e América do Sul, elaborado no curso de Indigenismo realizado em Dourados, MS, em janeiro de 1979.
+Dietrich, Wolf. 1990. More evidence for an internal classification of Tupí-Guaraní languages. Berlin: Gebr. Mann Verlag.
+Dooley, Robert A. 1990. Vocabulário básico do Guaraní contemporâneo, dialeto Mbyá, edição revisada. Brasília: Summer Institute of Linguistics. (disponível em fotocópia)
+Fóz, Joviro. 1984. Apontamentos sobre o artesanato dos índios guarani paulistas. ms. Gregores, Emma e Jorge A. Suárez. 1967. A description of Colloquial Guaraní. A Haia: Mouton. Guasch, Antonio. 1981. Diccionario Castellano-Guaraní y Guaraní-Castellano, quinta edicion.
+Asuncion: Ediciones Loyola. Guedes, Marymarcia. 1983. Subsídios para uma análise fonológica do Mbá. Dissertação de
+mestrado. UNICAMP. Harrison, Carl H. e John M. Taylor. 1971. Nasalization in Kaiwá. Tupi Studies I, David Bendor-
+Samuel, red. Norman, Oklahoma: Summer Institute of Linguistics. Jensen, Cheryl Joyce S. 1989. O desenvolvimento histórico da língua Wayampi. Campinas, SP:
+Editora da UNICAMP. Ladefoged, Peter. 1990. The revised International Phonetic Alphabet. Language 66.550-52. Meader, Robert. 1959. Lista de palavras colhida na Aldeia de Bananal, Posto Anchieta,
+Itanhaem, SP. Informante: Bento, homem de 40 anos. Meliá, Bartomeu, Georg Grünberg e Friedl Grünberg. 1976. Los Paĩ-Tavyterã: Ethnografía
+guaraní del Paraguay contemporáneo, Suplemento Antropológico, 11.149-295. Asunción: Centro de Estudos Antropológicos de la Universidad Católica "Nuestra Señora de la Asunción". Nimuendajú (Unkel), Curt. 1987. As lendas da criação e destruição do mundo como fundamentos da religião dos Apapocúva-Guaraní. Trad. de Charlotte Emmerich e Eduardo B. Viveiros de Castro. São Paulo: Editora Hucitec e Editora da Universidade de São Paulo. Restivo, Paulo. 1893. Lexicon Hispano-Guaranicum "Vocabulario de la Lengua Guaraní" Inscriptum ... redimpressum necnon praefatione notisque instructa opera et studiis Christiani Frederici Seybold. Stuttgart: Kolhammer. Rodrigues, Aryon Dall'Igna. 1945. Diferenças fonéticas entre o Tupí e o Guaraní. Arquivos do Museu Paranaense 4.333-54.
+35
+
+Rodrigues, Aryon Dall'Igna. 1984/85. Relações internas entre as línguas Tupí-Guaraní. Revista de Antropologia 27/28:33-53.
+Rodrigues, Aryon Dall'Igna. 1986. Línguas brasileiras. São Paulo: Edições Loyola. Rodrigues, Daniele Marcelle Grannier. 1974. Fonologia do Guaraní Antigo. Dissertação de
+mestrado. UNICAMP. Schaden, Egon. 1963. Caracteres específicos da cultura Mbüá-Guaraní. Revista de Antropologia
+11.83-94. Schaden, Egon. 1974. Aspectos fundamentais da cultura guaraní. 3a edição. São Paulo: editora
+Pedagógica e Universitária Ltda. e Editora da Universidade de São Paulo. Taylor, John. 1976. Four Kaiwá texts. Arquivo Lingüístico No 047. Brasília: Summer Institute of
+Linguistics. Taylor, John e Audrey Taylor. 1966. Statement of Kaiwá grammar -- from clause to morpheme
+level. Arquivo Lingüístico No 044. Brasília: Summer Institute of Linguistics.
+36
+
+

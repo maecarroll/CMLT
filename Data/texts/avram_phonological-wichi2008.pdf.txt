@@ -1,0 +1,3494 @@
+Eastern Michigan University
+Digital Commons @ EMU
+Masters Theses and Doctoral Dissertations
+
+Theses and Dissertations
+
+2008
+A phonological description of WichiÌ : the dialect of MisioÌn La Paz, Salta, Argentina
+Megan Leigh Zdrojkowski Avram
+
+Recommended Citation
+Avram, Megan Leigh Zdrojkowski, "A phonological description of WichiÌ : the dialect of MisioÌn La Paz, Salta, Argentina" (2008). Masters Theses and Doctoral Dissertations. Paper 152. http://commons.emich.edu/theses/152
+This Open Access Thesis is brought to you for free and open access by the Theses and Dissertations at Digital Commons @ EMU. It has been accepted for inclusion in Masters Theses and Doctoral Dissertations by an authorized administrator of Digital Commons @ EMU. For more information, please contact rcheng@emich.edu.
+
+A Phonological Description of Wichí: The Dialect of Misión La Paz, Salta, Argentina
+by Megan Leigh Zdrojkowski Avram
+Thesis
+Submitted to the Department of English Language and Literature Eastern Michigan University
+in partial fulfillment of the requirements for the degree of
+MASTER OF ARTS in
+English with a concentration in Linguistics
+Thesis Committee: Verónica Grondona, PhD, Chair
+Lyle Campbell, PhD
+November 17, 2008 Ypsilanti, Michigan
+
+DEDICATION I would like to dedicate this thesis to the memory of my grandfather, Charles H. Thompson. His love of learning and knowledge inspired me to complete this study.
+ii
+
+ACKNOWLEDGEMENTS I would like to thank my consultants for their invaluable contributions to this thesis: Eliseo Alejo, Franco Bravo, Amancio Martínez, Laureano Segovia, and Valeriana Yaque. I would also like to thank the following people, without whom this work would not have been possible: Anthony Aristar, Helen Aristar-Dry, Peter Avram, Lyle Campbell, Marisa Ferrara, Verónica Grondona, Mary Zdrojkowski, and Wayne Zdrojkowski. Thanks are also due to all the community members of Misión La Paz for welcoming The Chaco Project into their lives and sharing their languages, stories, and history with us. Additionally, financial assistance was provided by Eastern Michigan University’s Graduate Student Research Support Fund and The LINGUIST List. Additional funding was provided by grants from the Hans Rausing Endangered Languages Documentation Programme (HRELDP) from the University of London’s School of Oriental and African Studies (SOAS) and the National Endowment for the Humanities.
+iii
+
+ABSTRACT The Wichí language, a member of the Matacoan language family, is spoken in parts of South America’s Chaco region. Specifically, Wichí is found in the Salta, Chaco, and Formosa provinces of Argentina, as well as in southeastern Bolivia. Wichí is an endangered language, with speakers numbering c. 25,000 (although estimates vary greatly). This study aims to contribute to the documentation of Wichí and to our understanding of human language in general by providing insight into the phonetics and phonology of the dialect of Wichí spoken in the remote village of Misión La Paz, Salta, Argentina. The data for this study were collected in Misión La Paz during two 4-week periods in the summers of 2005 and 2006.
+iv
+
+TABLE OF CONTENTS Dedication .............................................................................................................................. ii Acknowledgements............................................................................................................... iii Abstract ................................................................................................................................. iv List of Tables ...................................................................................................................... viii List of Abbreviations ............................................................................................................ ix Chapter 1. Introduction.......................................................................................................... 1
+1.1 Language Information............................................................................................. 3 1.2 Speaker Information ............................................................................................... 6 1.3 Organization of Thesis.......................................................................................... 11 Chapter 2. Review of Literature.......................................................................................... 12 2.1 Hunt (1940)........................................................................................................... 12 2.2 Viñas Urquiza (1970) ........................................................................................... 15 2.3 Viñas Urquiza (1974) ........................................................................................... 17 2.4 Tovar (1981) ......................................................................................................... 18 2.5 Claesson (1994) .................................................................................................... 19 2.6 Buliubasich, Drayson, and Molina de Bertea (2004) ........................................... 20 2.7 Segovia (2005) ...................................................................................................... 22
+v
+
+2.8 Conclusion ............................................................................................................ 23 Chapter 3. Methodology...................................................................................................... 24
+3.1 Area and Language ............................................................................................... 24 3.2 Consultants............................................................................................................ 26 3.3 Methods and Materials ......................................................................................... 28 3.4 Conclusion ............................................................................................................ 29 Chapter 4. Discussion of Results: Phonetics and Phonology ............................................. 31 4.1 Consonants ............................................................................................................ 31 4.2 Vowels .................................................................................................................. 60 4.3 Syllable Structure.................................................................................................. 72 4.4 Phonotactics .......................................................................................................... 76 4.5 Stress ..................................................................................................................... 78 4.6 Loan Phonology and Phonetics ............................................................................ 80 4.7 Major Phonological Processes.............................................................................. 82 4.8 Orthography ........................................................................................................ 100 4.9 Conclusion .......................................................................................................... 104 Chapter 5. Conclusions...................................................................................................... 106 References.......................................................................................................................... 109
+vi
+
+Appendices......................................................................................................................... 113 Appendix A. Map of Research Area ................................................................................. 114 Appendix B. Human Subjects Institutional Review Board (IRB) Approval Letter ......... 115
+vii
+
+LIST OF TABLES Table 1. Viñas Urquiza’s Phoneme Inventory of Consonants............................................ 33 Table 2. Tovar’s Phoneme Inventory of Consonants ......................................................... 35 Table 3. Claesson’s Phoneme Inventory of Consonants..................................................... 37 Table 4. Misión La Paz Wichí Phoneme Inventory of Consonants ................................... 40 Table 5. Misión La Paz Wichí Phonetic Inventory of Consonants .................................... 59 Table 6. Viñas Urquiza’s Phoneme Inventory of Vowels .................................................. 61 Table 7. Tovar’s Phoneme Inventory of Vowels ................................................................ 61 Table 8. Claesson’s Phoneme Inventory of Vowels ........................................................... 62 Table 9. Misión La Paz Wichí Phoneme Inventory of Vowels.......................................... 63 Table 10. Misión La Paz Wichí Phonetic Inventory of Vowels......................................... 72 Table 11. Comparison of Syllable Inventories by Viñas Urquiza, Tovar, and Claesson .. 73 Table 12. Misión La Paz Wichí Syllable Inventory ........................................................... 75 Table 13. Buliubasich et al.’s Comparison of Wichí Orthographies................................ 101
+viii
+
+1: first person 2: second person 3: third person pl: plural poss: possessive sg: singular
+
+LIST OF ABBREVIATIONS
+
+ix
+
+CHAPTER 1. INTRODUCTION There are approximately 7,000 languages being spoken today; of these, 96% are spoken by only 4% of the world’s population (Crystal, 2000, as cited in EMELD, 2008). As more economically, politically, or socio-culturally dominant languages--such as English, Chinese, and Spanish--expand their reach, speakers of minority languages often cease speaking their native tongues. These speakers may also cease speaking their languages to their children, and, also, their children may stop using the language despite their parents speaking it to them. Consequently, an astounding number of languages alive today face extinction in the near future, as older speakers die without a younger generation of speakers to replace them. In fact, some linguists estimate that as many as 90% of the world's languages may disappear within the next one hundred years (Kraus, 1992, p. 7). Some of the causes of language attrition include population movement away from language communities to cities; the pervasive influence of mass media such as television and radio, which are transmitted in dominant languages; educational opportunities only being available in dominant languages; and other economic reasons, such as needing to speak a dominant language to find work or to communicate with government officials.
+1
+
+With so many languages at risk, it is essential that we document as many endangered languages as possible while they are still being spoken. There are many reasons, both scientific and cultural, why such documentation is important. From a scientific perspective, documentation of endangered languages will add to our knowledge of how languages work in the human mind. Endangered languages often have sounds, features, and structures that are rare and are not found in more widely spoken languages. Studying such phenomena enriches our understanding of the full breadth of possibilities for the language faculty of humans.
+Additionally, from a cultural perspective, there are whole practices and histories encoded within endangered languages. As the website for the Living Tongues Institute for Endangered Languages says, when a language dies, humanity loses “a vast repository of human knowledge about the natural world, plants, animals, ecosystems, and cultural traditions. Every language contains the collective history of an entire people” (Anderson et al., 2008).
+This study aims to contribute to the documentation of one of the world’s many endangered languages: Wichí, a language spoken in the Chaco region of South America. Wichí is one of the 11 remaining indigenous languages of Argentina, and all of these languages are endangered. The other native Argentinean languages include Chiriguano,
+2
+
+Chorote, Chulupí (a.k.a. Nivaclé, Ashlushlay), Guaraní, Mapuche, Mocoví, Pilagá, Tapiete, Toba, and Vilela, which is effectively extinct with just two semi-speakers.
+The dialect of Wichí discussed in this study is spoken in the vicinity of Misión La Paz, a small, remote village located in the Salta province of Argentina. The data for this study were gathered as part of a larger study of the languages of the Chaco region of Argentina. This project, The Chaco Project, is funded by grants from the Hans Rausing Endangered Languages Documentation Programme (HRELDP) from the University of London’s School of Oriental and African Studies (SOAS) and from the National Endowment for the Humanities. The PIs for these grants are Dr. Verónica Grondona, from Eastern Michigan University, and Dr. Lyle Campbell, from the University of Utah.
+In the remaining sections of this introductory chapter, I provide an overview of the Wichí language (Section 1.1) and its speakers (Section 1.2). Section 1.3 describes the structure of this thesis. 1.1. Language Information
+This section provides general background information on the Wichí language, including its language family (Section 1.1.1), ethnonym and alternative names (Section
+3
+
+1.1.2), and population figures (Section 1.1.3). This section also discusses the geographical location of the remaining speakers of Wichí (Section 1.1.4). 1.1.1. Language Family
+Wichí is a member of the Matacoan language family, other members of which are Chorote, Chulupí (a.k.a. Nivaclé, Ashlushlay), and Maká. Some researchers have speculated that the Matacoan language family is closely related to the Guaicuruan language family, which includes Abipón, Kadiwéu, Mocoví, Pilagá, and Toba. However, this relationship has not been proven or established. Refer to Figure 1 below for a visual representation of the Matacoan language family. Figure 1. The Matacoan Language Family Proto-Mataco
+
+Chorote
+
+Wichí
+
+Nivaclé (Chulupí)
+
+Maká
+
+Note. From Internal Reconstruction in Chulupí (Nivaclé), by L. Campbell and V. Grondona, 2007. Diachronica 24.1-29
+
+4
+
+1.1.2. Ethnonym and Alternative Language Names Many people refer to native speakers of the Wichí language as Matacos, a term
+of indeterminate origin now considered to be pejorative. Recently, there has been a move toward using the more politically correct ethnonym Wichí, a native word that means “people” also used by the speakers to refer to themselves.
+Alternative language names for Wichí include Mataco (a.k.a. Matako), as well as Güisnay (a.k.a. Güisnai), Nocten (a.k.a. Noctenes), and Vejoz (a.k.a. Vejos). The latter three names refer more correctly to dialect names but are considered by some sources, such as Ethnologue (2008), to be names of distinct languages: Wichí Lhamtés Güisnay, Wichí Lhamtés Nocten, and Wichí Lhamtés Vejoz. However, these three “languages” are mutually intelligible, which is the defining characteristic of a dialect and not of distinct languages. Rather than being three separate languages, Güisnay, Nocten, and Vejoz should all be characterized as dialects of the same language, Wichí. 1.1.3. Population Figures
+The reported number of native speakers of Wichí varies widely, so it is difficult to provide exact population figures. Some of the lowest estimates are in the range of 7,000-8,000 speakers (Tovar, 1981, p. 35). On the high end, it is estimated that there are
+5
+
+as many as 35,000-60,000 speakers (Censabella, 1999, p. 79). However, c. 25,000 speakers is a more likely estimate of the remaining speakers of Wichí. 1.1.4. Geographical Location
+Wichí is spoken in the Chaco region of South America. The Chaco (a.k.a. Gran Chaco) is an extensive dry lowland plain of central South America, stretching some 647,500 square kilometers across northern Argentina, Paraguay, southeastern Bolivia, and southern Brazil. It is bordered on the west by the foothills of the Andes, on the east by the Paraná and Paraguay rivers, on the north by the Mato Grosso plateau, and in the south by the Río Salado (Braunstein, 1996, p. 19; Braunstein & Miller, 1999, p. 1; Métraux, 1946, p.197). Wichí speakers reside mainly between and alongside the Bermejo and Pilcomayo rivers. According to most sources, there are currently speakers in the Salta, Chaco, and Formosa provinces of Argentina. There are also some speakers in southeastern Bolivia. 1.2. Speaker Information
+This section provides an overview of the history of European contact with the Wichí people (Section 1.2.1). Section 1.2.2 discusses the Wichí’s current sociolinguistic situation.
+6
+
+1.2.1. Brief History of Early European Contact The first Jesuit and Franciscan missionaries came to parts of the Chaco region in
+the early seventeenth century (Shapiro, 1960). At this time, the Wichí were still living their traditional lifestyle of hunting, fishing, and collecting carob pods, cactus figs, wild squash, and hearts of palm. In the ensuing centuries, missionaries continued to penetrate deeper into the Chaco, eventually making contact with the Wichí in the late nineteenth century. Over the years, the missionaries persuaded the Wichí to transition from their nomadic lifestyle and settle on a more permanent basis in missions, such as the one formerly found in Misión La Paz, one of the villages where the Wichí dialect discussed in this study is spoken.
+During the eighteenth and nineteenth centuries, the land in the Chaco was not considered valuable, so with the exception of the missionaries, the Wichí were left alone by people of European descent while most of the native population was exterminated in the rest of Argentina (Shapiro, 1960). However, once discovering that the area along the Bermejo River is arable when irrigated, a young lawyer and politician named Robustiano Patrón Costas decided to construct a sugar mill in the Chaco.
+By 1914, Patrón Costas had accumulated almost 100,000 acres, from which he produced his first harvest in 1920. Patrón Costas hired Toba, Chiriguano, Coya (a.k.a
+7
+
+Colla, Kolla), Chorote, and Chulupí workers for his first harvest. A few years later, he brought in the Wichí, who soon became one of the most important sources of farm labor in the region, despite being viewed as working “too slowly and ineffectually” to be trusted with high pressure jobs like cutting, peeling, and loading cane (Shapiro, 1960). 1.2.2. Current Sociolinguistic Situation
+It has been almost 100 years since the construction of Patrón Costas’ sugar mill, but on the surface, not a lot has changed for the Wichí people. The legacy of the missionaries is still visible in the villages of the region, which bear names like Misión Anglicana, Misión Chaqueña, and, of course, Misión La Paz. The Wichí are still a major source of farm labor for the region, and there is still prejudice against the Wichí and other native peoples.
+One thing that has changed, however, is that the Wichí are now fighting for the legal rights to their ancestral lands, which continue to be overtaken by criollos (people of European descent), who raise cattle and log the area for profit. The most visible of the Wichí’s modern-day struggles concerns two parcels of land known as Lote 55 and Lote 14, which comprise about 138,000 and 186,000 acres, respectively (Abya Yala News, 1996). With the help of members of Survival International, an NGO based in London, the Wichí submitted a land claim to the governor of Salta in 1991
+8
+
+demonstrating that at least 162,000 acres spread over Lote 55 and Lote 14 traditionally belonged to them.
+These plots of land were recognized as belonging to the Wichí in 1991 by a decree (No. 2609/91) signed by the governor of Salta (Abya Yala News, 1996). However, the rights of the Wichí to their ancestral lands have seldom been recognized, and the ranchers and other criollos continue to ignore the Wichí and use their land, oftentimes with permission from the local Salta authorities (Survival International, 2008).
+As mentioned above, the Chaco has a very dry, harsh climate. When the land is deforested and grazed by cattle, the quality of the soil rapidly degrades, and the once fertile land turns to sandy desert (Chacolinks, 2008; Survival International, 2008). Because of deforestation, ranching, and the subsequent desertification of their ancestral lands, the Wichí’s traditional lifestyle of hunting and gathering is now compromised. Many of the game species and important food plants that the Wichí have traditionally relied upon are now scarce in the area. To further complicate the situation, there is little work in the Wichí’s homeland outside of farm labor, and many Wichí are now dependent on subsidies from the Argentinean government.
+9
+
+In order to collect these subsidies and interact in any other way with the Argentinean government, all Wichí must possess at least some degree of fluency in Spanish. Additionally, most Wichí children attend school, as required by law, and the language of the Argentinean school system is Spanish. Although there are some indigenous language school aides, their main function is to help students learn Spanish, not educate them in their native languages. Being required to speak Spanish in school contributes to many Wichí children speaking Spanish among themselves, rather than Wichí.
+The remoteness and vast stretches of forested land that once separated the Wichí from criollos no longer protect the Wichí language and culture as they once did. In the 1990s, the Argentinean government began a regional development plan to link Paraguay with northwestern Argentina, and part of this plan was building a bridge over the Pilcomayo river connecting the two countries. The Misión La Paz-Pozo Hondo international bridge and a related military post were built beside the village of Misión La Paz without any consultation of the indigenous residents (Abya Yala News, 1996). In addition, the government wants to build a trunk road connecting the bridge into Paraguay to the state highway system (Survival International, 2008). The proposed road
+10
+
+would cut directly through Wichí territory and would open up the area to further commercialization. 1.3. Organization of Thesis
+The discussion will be organized as follows. Chapter 2 will focus on a review of the linguistic literature that is currently available on the Wichí language. Chapter 3 will describe the methodology employed to collect the data and present them in this study. Chapter 4 will consist of a discussion of the results of this study; it will describe the phonetics of Wichí and outline some phonological processes. Finally, Chapter 5 will provide a conclusion to this study.
+11
+
+CHAPTER 2. REVIEW OF LITERATURE Although the literature on Wichí is rather scarce and is predominantly of an ethnographic nature, there exist several descriptions of the language itself. Some of these works have been written by missionaries and others by professionally trained linguists. Most of the works are written in Spanish, but several of them are in English. The following sections provide an overview of a selection of phonologically relevant studies of Wichí. The works below are ordered chronologically, beginning with the oldest works and concluding with the most recent. Refer to Chapter 4 for more in-depth discussions of some phonologically relevant parts of these studies. 2.1 Hunt (1940) There are some descriptions of aspects of Wichí that predate Hunt’s Mataco Grammar (1940), such as Lafone Quevedo (1896), Remedo (1896), and Pelleschi (1897; as cited in Viñas Urquiza, 1970, pp. 7-9). However, most of these works are prescientific, written by people whose main focus was not language or linguistics. Therefore, the authors’ phonological observations are inadequate, often influenced by their native languages, such as English, German, or Spanish. Mataco Grammar (Hunt, 1940) is the first major, in-depth investigation of the Wichí language. Hunt, a missionary, lived among the Chaco Indians for approximately
+12
+
+35 years. He left the Chaco in 1929 for England, where he lived until his death in 1938. Mataco Grammar is Hunt’s last book, and he worked on it for over 10 years. As was commonplace with books published during this time, Hunt did not mention or credit specific Wichí collaborators who assisted him the preparation of his grammar. He also did not include where he resided while collecting the data used in his grammar, so we cannot ascertain which dialect(s) of Wichí Hunt (1940) addresses.
+Tompkins (1940) noted in the prologue to Hunt that the main goal of Hunt’s study was to help other missionaries learn the language, so that they could better teach the Wichí people in religious matters (p. 7). However, although Hunt was a missionary and not a linguist by training, he seemed to have a special ability to learn and analyze native languages. Tompkins (1940) wrote, “Muy pronto, en los comienzos de su carrera, se pudo apreciar su habilidad en aprender las lenguas aborígenes y reducirlas a la letra” [Very soon, at the beginning of his career, it was possible to appreciate his ability to learn aboriginal languages and reduce them to writing] (p. 7).
+During his time in South America, Hunt learned several native languages of the Chaco, including Mascoy, Chorote, Chulupí, and, of course, Wichí. In addition to Mataco Grammar (1940), Hunt published earlier works on various dialects of Wichí (Hunt, 1913, and Hunt, 1936, cited in Tovar, 1981, p. 28). However, Mataco Grammar
+13
+
+is by far his most extensive study of Wichí. Although the majority of the book is devoted to vocabulary, parts of speech, and exercises intended to allow the reader to quickly learn to communicate in Wichí, Hunt recognized the importance of mastering the sounds of the language, as well. He wrote in his introduction that the reader should “practise the exercises provided till their rhythm and sound pervade the mind like the lilt of a popular melody” (p. 9).
+Unfortunately for the present study, Hunt devoted just one small section of his grammar to what linguists would consider the phonetics and phonology of Wichí. In “The Alphabet,” (pp. 13-14), Hunt compared the pronunciation of Wichí sounds to English and Spanish sounds, and he assigned letters of the alphabet to Wichí sounds. He found that there are 5 vowels, 3 diphthongs, and 18 consonants (which are discussed in more depth in Chapter 4). However, Hunt struggled with describing sounds that are not part of the English or Spanish alphabet, such as the glottal stop and glottalized consonants. He wrote, “The letters k, p, t, in some words which can be indicated by italics k, p, t, are said with a jerk or click heard in kefwi, soft, pohi, shut, tuye, care for, the letter is as it were half-pronounced” (p. 13). Although Hunt did not have the linguistic vocabulary to properly identify these sounds, he is referring to the glottalized stops /k’/, /p’/, and /t’/.
+14
+
+He also described the glottal stop as follows, “Before the letter n in some words there is a break in the voice as in ho’nat, earth, and atsi’na, woman, the effect is like a strong aspirate or a doubling of the letter thus hohnat or honnat, earth” (Hunt, 1940, p. 13). Hunt realized that his description of these unusual (to a speaker of English or Spanish) sounds was not fully adequate. He continued, “These and other peculiarities of pronunciation must be heard in order to imitate them” (p. 13).
+By linguistic standards, Hunt’s description of the sounds of Wichí is fairly rudimentary. However, for an amateur linguist, this grammar is very well written and useful, especially for Hunt’s intended audience, missionaries trying to learn the language as quickly and completely as possible. 2.2 Viñas Urquiza (1970)
+Whereas Hunt was a missionary by training, Viñas Urquiza (1970) is a professionally trained linguist, and her detailed work reflects this. In fact, she wrote in her prologue that the reason she prepared her work is that there was an absence of a grammatical description of the Wichí language based on linguistic knowledge. The original Spanish quotation is, “…la ausencia de una gramática descriptiva de dicha lengua basada en conocimientos lingüisticos, es decir, cientificos, hizo necesaria la preparación de este trabajo” […the absence of a descriptive grammar of said language
+15
+
+[Wichí] based in linguistic knowledge, that is to say, scientific knowledge, made the preparation of this work necessary] (p. 7).
+Unlike Hunt (1940), Viñas Urquiza provided the location of her fieldwork and pertinent personal information on her consultant. Her work is based on her 1967-1968 fieldwork. She had one male consultant in his mid-40s from the village of Misión Chaqueña (“El Algarrobal”), which is about 45 kilometers from Embarcación, Salta (1970, p. 13). Viñas Urquiza acknowledged that her work is more of a description of the idiolect of her informant, Guilfredo Ibarra, than it is a description of a Wichí dialect (p. 13).
+Viñas Urquiza’s work (1970) is in large part a collection of examples and data. There is very little actual prose, but the data are well-organized and coherent. Prior to beginning her phonetic and phonological analysis, Viñas Urquiza provided on overview of some of the existing linguistic work on Wichí (pp. 7-12). She went on to list and describe the phones of Wichí (pp. 15-19), as well as their distribution (pp. 19-29). She then listed and provided examples of allophones (pp. 30-34) and phonemes (pp. 34-36). She proceeded to describe each phoneme by its distinctive features (pp. 35-36) before going on to provide minimal pairs (pp. 37-39) and examples of the distributions of
+16
+
+phonemes (pp. 39-80). Her work ends with some information on consonant and vowel clusters (pp. 80-81) and a brief look at the syllable (pp. 81-82).
+Viñas Urquiza’s Fonología de la Lengua Mataca (1970) covers a different area than the present work, and, therefore, there are likely dialect differences. However, her work is a very useful starting point for analyzing the dialect spoken in the vicinity of Misión La Paz. 2.3 Viñas Urquiza (1974)
+Viñas Urquiza’s Lengua Mataca (1974) is an expansion of Viñas Urquiza’s Fonología de la Lengua Mataca (1970) and has two volumes. In addition to phonetics and phonology, the first volume tackles morphology and syntax. The second volume has 10 texts, some of which have morpheme-by-morpheme translations, and others of which have only free translations into Spanish. This volume also contains Wichí-Spanish and Spanish-Wichí glossaries, notes on dialect differences, an overview of Spanish loan words, and information on the 35 different Wichí tribes described by one of her informants.
+The data for Viñas Urquiza’s work (1974) came from the two different dialects spoken by her 2 main consultants: (1) Guilfredo Ibarra, from Misión Chaqueña (“El Algarrobal”) and (2) Salomón Martinez, from Misión Santa María (pp. 14-15). As with
+17
+
+Viñas Urquiza’s earlier work (1970), some of the data for her latter work (1974) came from fieldwork done in 1968-1969 with Guilfredo Ibarra, and additional data were gathered in 1969 in Buenos Aires and in 1971 in Tartagal (p. 14).
+In contrast to her earlier (1970) discussion of phonetics and phonology, which consisted predominantly of examples with very few rules, Viñas Urquiza’s Lengua Mataca (1974) examines the phonology of Wichí in greater depth. Subsequently, there are many more phonological rules with more explanations of the processes. There is also a discussion of stress and tone (pp. 32-35).
+Overall, Viñas Urquiza’s Lengua Mataca (1974) is an excellent analysis of Wichí. However, as mentioned above, it examined a different dialect than the current thesis. It was also written more than 30 years ago, so it will be interesting to see how the language has changed since then. 2.4 Tovar (1981)
+Although Tovar’s work (1981) was published almost a decade after Viñas Urquiza’s Lengua Mataca (1974), it was based on fieldwork done much earlier than Viñas Urquiza’s, in 1958-60 and 1970. Tovar had 3 consultants, with whom he met in the city of Tartagal. Like Viñas Urquiza, Tovar was a professionally trained linguist, and his extensive grammar covers morphology and syntax in addition to phonetics and
+18
+
+phonology. It also contains more than 130 pages of texts and a Wichí-Spanish vocabulary list/dictionary for words found in these texts, as well as some additional entries of ethnographic interest.
+Tovar also discussed Wichí dialects and concluded that there are really just two dialects, rather than the three or more proposed by other authors. Tovar proposed that the two dialects are Guisnay (northeastern) and Vejoz (northwestern; 1981, p. 29). He wrote that if we leave aside the more remote dialects, about which we do not have documentation, the differences between the dialects are small and do not impede mutual comprehension (Tovar, 1981, p. 29). The original Spanish quote says, “Pero si dejamos fuera dialectos más alejados, sobre los que no tenemos documentación, las diferencias entre los dos dialectos son pequeñas, y no impiden en absoluto la mutua comprensión” (p. 29).
+Like Viñas Urquiza (1974), Tovar’s work (1981) is a very complete examination of a particular dialect of Wichí and adds a great deal to the scant documentation of this endangered language. 2.5 Claesson (1994)
+Claesson, like Hunt, was a missionary, and Claesson’s A Phonological Outline of Mataco Noctenes (1994) was based on his work as a Bible translator for the Swedish
+19
+
+Free Mission’s project for the Mataco-Noctenes group. He gathered data in southern Bolivia from 1981-87. He described the Wichí dialect he studies as Noctenes, and he said that it differs from Argentinean varieties in several regards, such as “syllable structure, stress placement, vowel length, velar and uvular sounds, distribution of the glottal stop, character of the glottalized sounds, and the influence exerted by /h/ over the voiced consonants and semivowels” (Claesson, 1994, p.1).
+Claesson covered a lot of linguistic ground in his relatively short paper and discussed the phonemes of Wichí (pp. 2-3), as well as syllable structure (pp. 3-6), stress (p. 6), vowel length (pp. 7-11), and vowel nasalization (p. 12). However, Claesson’s main focus in this paper appears to be complex consonants/consonant clusters. One of Claesson’s major claims is that the glottalized and aspirated consonants should be considered clusters of two phonemes, in which one is always a laryngeal (p. 2). This means that Claesson argued against glottalized consonants as phonemes in their own right. This claim, which contradicts Viñas Urquiza (1974) and Tovar (1981), is further addressed in Chapter 4 of the present thesis. 2.6 Buliubasich, Drayson, and Molina de Bertea (2004)
+Buliubasich, Drayson, and Molina de Bertea’s Las Palabras de la Gente (2004) is a collective work done by representatives from many Wichí communities along with
+20
+
+missionaries and professionals from several disciplines, such as anthropology, linguistics, philosophy, and pedagogy. The Wichí communities involved in the creation and publication of this orthography came from the Salta, Chaco, and Formosa provinces of Argentina as well as a neighboring part of Bolivia. Buliubasich et al.’s work (2004) is the 2nd edition of this community-approved orthography and incorporates small corrections from the 1st edition. The original work was done as part of the Cuarta Reunión (Fourth Meeting) of Wichí communities, which occurred in November 1999.
+In addition to making available the standardized Wichí orthography, Buliubasich et al. (2004) traced the creation and evolution of the orthography and discussed its importance to the Wichí people in a number of realms, including political and educational. As is mentioned on p. 12 of Buliubasich et al.’s work (2004), the Wichí believe that the standardization of a written form of a language offers numerous advantages, such as allowing community members to write to each other and to produce and circulate educational materials. One of the most important advantages of having a unified orthography is in the reaffirmation and valorization of Wichí as a language.
+Buliubasich et al.’s work (2004) contains 8 regional variants of Wichí sounds in addition to a standard orthography of 34 graphemes, which is now in use by all Wichí
+21
+
+communities. This work is discussed in more depth in the section on orthography, Section 4.10. 2.7 Segovia (2005)
+In recent years, some native Wichí speakers have begun recording and publishing in Wichí. Segovia’s Memorias del Pilcomayo (2005) is the first text published in the province of Salta that was written in Wichí by a native speaker of Wichí (p. 11). This book is a bilingual collection of 30 oral narratives of Wichí history. The original Wichí narrative is transcribed on the left-hand page, and a Spanish free translation done by Segovia is on the facing page. The stories were collected by Segovia from various Wichí speakers from different native communities in Argentina and tell of everything from customs from long ago to more recent history like the building of the bridge over the Pilcomayo river and the construction of the military post near Misión La Paz.
+Because the translation is loose and is not interlinear glossed text, and the original Wichí is not written in the International Phonetic Alphabet, close phonological analysis cannot be done on Segovia’s work. However, it is nonetheless valuable for documenting the language. Additionally, although the inclusion of glottal stops and
+22
+
+glottalized consonants is not always consistent, Segovia’s work (2005) is also an example of the common Wichí orthography in use and is worth being discussed here. 2.8 Conclusion
+This above literature review is not exhaustive, but it is representative. This chapter provides some insights into the types of literature available on the language. Some of the above documents were written by missionaries without formal linguistic training but with an intense interest in language; other works were written by professionally trained linguists.
+With the exception of the community-produced orthography and narratives, the most recent of these works is almost 15 years old. To the knowledge of the author, no studies have been done of the variety of Wichí spoken in Misión La Paz, Salta, Argentina, commonly characterized as Central Pilcomayo Wichí. This thesis will contribute to the documentation of this dialect.
+23
+
+CHAPTER 3. METHODOLOGY This chapter describes the basic methodology used to collect the data for this study. Presented below is information on the area in which the research was conducted (Section 3.1), the backgrounds of the speaker-consultants (Section 3.2), and the methods and materials used (Section 3.3). 3.1. Area and Language This section includes geographic information about Misión La Paz, Salta, Argentina, the village in which the data were gathered. It also provides details about the number of Wichí speakers in the area and discusses the unique language situation found in the village. 3.1.1. Geographic Location of Misión La Paz Misión La Paz is a small village of about 650 people located along the Pilcomayo river, which forms the border between Argentina and Paraguay. The village is located in the Rivadavia Department of Salta province. Because of its very small size, Misión La Paz is not included on many maps outside of those produced in Argentina. However, due to the recent construction of the Misión La Paz-Pozo Hondo international bridge between Argentina and Paraguay, it is now far easier to obtain the geographic coordinates of the village. According to one website, the latitude of the bridge is 22° 24’
+24
+
+43” South, and the longitude is 62° 32’ 00” West (“Paso Internacional,” 2008). The village of Misión La Paz is located about 200 meters southeast of the bridge, on the Argentinean side. Pozo Hondo, the nearest Paraguayan village, is approximately 7km north of the bridge. For a map of the research area, please refer to Appendix A. 3.1.2. Number of Wichí Speakers in Misión La Paz
+As mentioned earlier in Section 1.1.3, there are roughly 25,000 speakers of Wichí in several provinces of northern Argentina and one small area of Bolivia. We estimate that approximately 40% of the residents of Misión La Paz, or around 260 people, speak Wichí. However, this number is very fluid as people move in and out of the community. 3.1.3. Unique Language Situation
+Three indigenous languages (Chorote, Chulupí, and Wichí) are spoken in this small community, and the language situation in Misión La Paz is very interesting. Intermarriage between speakers of the different languages is quite common, so at least two languages are oftentimes spoken in a single household (with grandparents sometimes contributing a third language and Spanish intruding as a fourth language). What is especially intriguing about this situation is that frequently, a couple will speak different languages to each other, with one spouse speaking one language and the other
+25
+
+responding in a different language. One of my consultants, for example, speaks Wichí to her husband, who answers her in Spanish or Chorote. Their children will grow up understanding both languages but at some point will choose which language they will speak. Sometimes, siblings will choose to identify with different languages.
+Despite being able to fully understand (and oftentimes speak) all three languages in the community, many villagers insist that they do not speak (but understand) the two languages that are not their chosen tongue. Contrary to appearances, the three languages are not simply dialects of one language; they are not mutually intelligible. They are related languages, members of the Matacoan family, but not closely related, divergent from one another on the order of Germanic languages. 3.2. Consultants
+This section provides information on the 3 main consultants for this study. One additional consultant, Amancio Martínez, provided some additional data on the low back unrounded vowel [ɑ]. 3.2.1. Eliseo Alejo
+Mr. Alejo was born in 1980 in Misión La Paz to a Chulupí mother and a Wichí father. His mother, who was born in Paraguay, speaks to him only in Chulupí. His
+26
+
+father (now deceased), who was born in Las Vertientes, an all Wichí village approximately 20 kilometers from Misión La Paz, spoke to him only in Wichí.
+During the time the data were collected, Mr. Eliseo was in his mid-20s. He is married with several children. In addition to Wichí, Mr. Alejo speaks Spanish and can understand Chorote and Chulupí. With his Chorote-speaking cousins, Mr. Elejo speaks Wichí, and they answer in Chorote. With his mother, he speaks Wichí and she answers in Chulupí. 3.2.2. Laureano Segovia
+Mr. Segovia was born in Formosa province in 1948 and moved to Misión La Paz in his teens. He has lived in Misión La Paz for approximately 40 years. He is well respected in the community as a local language activist, radio host, and a former vicechief of the community. He has ridden his motorcycle throughout the neighboring Wichí communities to record traditional stories and has published several collections of stories in Wichí, with accompanying Spanish translations (discussed in Chapter 2).
+During the time the data were collected, Mr. Segovia was in his late 50s. In addition to Wichí, Mr. Segovia speaks Spanish and can understand Chorote (his wife’s language) very well. He can also understand some Chulupí, though not as well. Mr.
+27
+
+Segovia did not participate in elicitation sessions but did assist in the transcription and translation of texts he had previously collected. 3.2.3. Valeriana Yaque
+Ms. Yaque was born in 1979 in Las Vertientes to Wichí speaking parents. She moved from Las Vertientes to the neighboring village of Misión La Paz when she married Franco Bravo, a Chorote man who is also a consultant for the Chorote component of The Chaco Project.
+Ms. Yaque was in her mid-20s during the data collection period. She speaks to her husband mostly in Wichí with occasional Spanish. Mr. Bravo speaks to his wife in Spanish and some Chorote. Ms. Yaque speaks to their daughter in Wichí. In addition to Wichí, Ms. Yaque speaks Spanish and since moving to Misión La Paz, she now understands Chorote and Chulupí. 3.3. Methods and Materials
+The three consultants were interviewed over two separate four-week periods in the summers of 2005 and 2006 in Misión La Paz. Mr. Alejo was the main consultant during the summer of 2005, with Ms. Yaque providing some data. During the summer of 2006, Ms. Yaque was the main consultant. Mr. Segovia participated in the Chaco Project during both summers, but his focus was on narratives.
+28
+
+The data collection for this study consisted of recorded elicitation sessions; dialogue and narratives were also recorded but are outside the scope of the present study. Sections of several different linguistic questionnaires were used during the elicitation sessions, including a Spanish-language version of the Swadesh list, Terrence Kaufman’s questionnaire from the South American Indian Languages Documentation Project, and a questionnaire developed for the Chaco Project by Dr. Grondona.
+Each elicitation session lasted approximately two to four hours. Each interview was recorded with the oral consent of the consultant. In the summer of 2005, I used a Marantz analog recorder with 90-minute tapes. The following summer, I used a smaller, more unobtrusive M-Audio 24/96 compact flash digital recorder. All recordings from 2006 meet current archival audio standards and were recorded as uncompressed .WAV files. Field notes were transcribed into an Excel database, and the data were manipulated using Excel. 3.4 Conclusion
+The methodology described here resulted in more than 3,000 entries in an Excel database, which was then analyzed in order to determine the phones, phonemes, and phonological processes of the variety of Wichí spoken in the vicinity of Misión La Paz.
+29
+
+Chapter 4 discusses the results of this analysis and includes a representative sample of the database entries, which are too numerous to include in the present thesis.
+The recordings from this project will be archived at the Hans Rausing Endangered Languages Documentation Program (HRELDP)'s Endangered Languages Archive (ELAR) at the University of London’s School of Oriental and African Studies (SOAS).
+30
+
+CHAPTER 4. DISCUSSION OF RESULTS: PHONETICS AND PHONOLOGY This chapter discusses the results of the phonological analysis. In order to
+determine the phoneme inventory of the variety of Wichí spoken in Misión La Paz, I will examine the inventories proposed by different authors and compare them with my own data. In the sections below, I discuss consonants (Section 4.1) and vowels (Section 4.2). In Section 4.3, I discuss syllable structure, and in Section 4.4, I examine some restrictions on sounds. I then discuss stress (Section 4.5) and loan phonology (Section 4.6.). Section 4.7 outlines some major phonological processes of Wichí, and Section 4.8 provides an overview of Wichí orthographies, concentrating on Buliubasich et al. (2004). Finally, Section 4.9 concludes this chapter. 4.1. Consonants
+This section focuses on the consonants found in the Misión La Paz dialect of Wichí. Section 4.1.1 discusses the phoneme inventories proposed by the Wichí scholars whose works were reviewed in Chapter 2. Section 4.1.2 examines the consonant inventory of Misión La Paz Wichí. Section 4.1.3 provides minimal pairs for Wichí consonant phonemes, and Section 4.1.4 goes over allophonic variation of the consonant phonemes.
+31
+
+4.1.1. Other Proposed Phoneme Inventories of Wichí Consonants There is disagreement among the various authors discussed above in Chapter 2
+as to which and how many phonemes compose the Wichí consonant inventory. Hunt (1940), for example, writes that there are 18 consonants and 5 vowels; he says that the following consonants “are required: ch, fw, h, j, jw, k, kw, kh, l, m, n, p, s, t, ts, th1, w, y” (p. 12). He goes on to characterize certain sounds as “masculine” and others as “feminine” and says that the “lighter or feminine sounds ts, fw, th, correspond to the masculine sounds ch, jw, l, and are accordingly interchangeable as in tsona or chona, deer; ifwala or ijwala, sun; hinoth or hinol, men” (pp. 13-14). One can interpret this as Hunt saying that ch/ts, fw/hw, and th/l are allophonic pairs, which would reduce his phoneme inventory to 15 consonants, from the original 18. He does not describe the sounds very precisely; rather, he provides examples for just a few of the sounds.
+In contrast, Viñas Urquiza (1974) finds that there are 27 phonemes: 21 consonants and 6 vowels, and she describes each phoneme by distinctive features (p. 26). Table 1 below shows Viñas Urquiza’s phoneme inventory of Wichí consonants. To avoid confusion, International Phonetic Alphabet (IPA) characters are included in brackets to the right of any non-standard characters used in the original chart.
+1 Hunt’s ‘th’ represents a voiceless lateral approximant [ɫ].
+32
+
+Table 1. Viñas Urquiza’s Phoneme Inventory of Consonantsa
+
+Bilab.
+
+Dentalv.
+
+Palat. Velar Larin.
+
+[Bilabials] [Dentoalveolars] [Palatals] [Velars] [Glottals]
+
+ex|afb
+
+Oclusivas
+
+p
+
+t | c [ts]
+
+č [tʃ]
+
+k
+
+Ɂ
+
+[Stops]
+
+glotal.
+
+pʔ [p’]
+
+tʔ [t’] | cʔ [ts’] čʔ [tʃ’] kʔ [k’]
+
+[glottalized]
+
+labial.
+
+kw
+
+[labialized]
+
+Nasales
+
+m
+
+n
+
+[Nasals]
+
+Fricativas
+
+s
+
+h
+
+[Fricatives]
+
+labvel.
+
+hw
+
+[labiovelars]
+
+Lateral
+
+l
+
+[Laterals]
+
+sorda fri.
+
+ɫ
+
+[voiceless
+
+fricatives]
+
+Semiconson
+
+j
+
+w
+
+[semi-vowels]
+
+Note: From Viñas Urquiza, M.T. (1974, p. 27). Lengua Mataca, Buenos Aires,
+
+Argentina: Universidad de Buenos Aires, Facultad de Filosofía y Letras, Centro de
+
+Estudios Lingüísticos.
+
+aThe order of the rows has been modified for easy comparison between the phoneme
+
+inventories of the different authors.
+
+33
+
+bexplosiva [plosive/stop] | africada [affricate] Tovar’s (1981) phoneme inventory of 30 phonemes differs from that of Viñas
+Urquiza (1974) and includes 22 consonants, 2 semivowels, and 6 vowels (p. 165). Table 2 below shows Tovar’s phoneme inventory of Wichí consonants. For clarification, IPA characters are found in brackets to the right of any non-standard characters used in the original chart.
+34
+
+Table 2. Tovar’s Phoneme Inventory of Consonantsa
+
+labiales dentales palatales velares glotales
+
+[labials] [dentals] [palatals] [velars] [glotals]
+
+Oclusivas
+
+Ɂ
+
+[Stops]
+
+sordas
+
+p
+
+t
+
+q
+
+[voiceless]
+
+glotalizadas pɁ [p’] tɁ [t’]
+
+qɁ [q’]
+
+[glottalized]
+
+labializadas
+
+qw
+
+[labialized]
+
+Nasales
+
+[Nasals]
+
+sonoras
+
+m
+
+n
+
+ñ
+
+[voiced]
+
+sordas
+
+Ɂm [m̥ ] Ɂn [n̥] Ɂñ [n̥y]
+
+[voiceless]
+
+Continuas
+
+[Continuants]
+
+sordas
+
+s
+
+j [x]
+
+[voiceless]
+
+labializadas fw
+
+jw[xw]
+
+[labialized]
+
+Africadas
+
+[Affricates]
+
+sordas
+
+ts
+
+ch [tʃ]
+
+[voiceless]
+
+Laterales
+
+[Laterals]
+
+sonoras
+
+l
+
+[voiced]
+
+sordas
+
+l̥
+
+[voiceless]
+
+35
+
+Semivocalesb y [j] w
+Note: From Tovar, A. (1981, p. 165). Relatos y diálogos de los matacos seguidos de una gramática de su lengua. Madrid: Ediciones Cultura Hispánica. Instituto de Cooperación Iberoamericana. aThe order of the rows has been modified for easy comparison between the phoneme inventories of the different authors. bTovar does not give descriptors of the place of articulation for the semivowels.
+Claesson (1994) has the smallest number of phonemes in his inventory. He writes, “On the basis of their contrastive function, six syllabic sounds (vowels) and sixteen nonsyllabic sounds (consonants and semivowels) may be classified as phonemes” (p. 2). Refer to Table 3 for Claesson’s phoneme inventory of Wichí consonants.
+36
+
+Table 3. Claesson’s Phoneme Inventory of Consonantsa
+
+Labial Dental Palatal Velar Uvular Glottal
+
+Stops
+
+p
+
+t
+
+kw, ky q
+
+ʔ
+
+Nasals
+
+m
+
+n
+
+Fricatives
+
+s
+
+x, xw
+
+h
+
+Affricates
+
+ts
+
+Laterals
+
+l
+
+Semivowels w
+
+y
+
+Note: From Claesson, K. (1994, p. 3). A phonological outline of mataco noctenes.
+
+International Journal of American Linguistics 60. 1-38.
+
+aThe order of the rows has been modified for easy comparison between the phoneme
+
+inventories of the different authors.
+
+When we compare the phoneme inventories of Viñas Urquiza (1974), Tovar
+
+(1981), and Claesson (1994), there are several obvious differences. (Because Hunt
+
+[1940] does not use standardized symbols, a further analysis of his phoneme inventory
+
+is difficult.) Claesson (1994) differs the most from the other authors regarding Wichí
+
+stops. He has no glottalized consonants in his inventory and argues instead that what
+
+other authors call glottalized consonants are actually consonant clusters of a stop
+
+37
+
+followed by a glottal stop. Also, although Claesson has /kw/ and /ky/ as velar stop phonemes, his inventory includes /q/, rather than the /k/ that would be expected. Tovar (1981) has /q/, /qɁ/, and /qw/, whereas Viñas Urquiza (1974) has /k/, /k’/, and /kw/.
+There is also disagreement among the authors regarding the phoneme /ky/. This appears to be a dialect difference. Viñas Urquiza (1974) and Tovar (1981) find that the phoneme is an affricate (/č/ [/tʃ/] in Viñas Urquiza and /ch/ [/tʃ/] in Tovar). Claesson (1994), finds that this phoneme is a palatalized stop (/ky/).
+Tovar’s (1981) nasal phoneme inventory differs from both Viñas Urquiza (1974) and Claesson (1994); he includes voiceless nasals (/Ɂm/, /Ɂn/, and /Ɂñ/) as phonemes, as well as a palatal nasal (/ñ/). The other authors only have /m/ and /n/ in their phoneme inventory.
+There is also disparity with the fricative inventory. All authors agree that /s/ is a phoneme, but Viñas Urquiza (1974) has /h/ and /hw/, whereas Tovar has /j/ [/x/], /jw/ [/xw/], and /fw/, and Claesson has /x/, /xw/, and, interestingly, also /h/.
+Additionally, the affricates vary slightly between the three authors. All three agree that /ts/ is a phoneme, but Viñas Urquiza (1974) is the only one who includes a glottalized dental affricate /ts’/. As expected, Claesson (1994) does not include /ts’/, since he has no other glottalized consonants in his inventory; however, it is interesting
+38
+
+that Tovar also does not include /ts’/, since other consonants in his inventory have glottalized counterparts.
+Finally, there is also a difference between the three authors regarding lateral approximants. Claesson (1994) does not have a voiceless lateral (/l/̥ ), but Viñas Urquiza (1974) and Tovar (1981) both do. 4.1.2. Consonant Inventory
+As we saw in the section above, there is considerable variation in the phoneme inventories proposed by other Wichí scholars. In the variety of Wichí spoken in Misión La Paz, my data show that there are 21 consonants in 5 places of articulation (bilabial, dental, palatal, velar, and glottal) and 5 manners of articulation (stops, nasals, fricatives, affricates, and glides). There are no new phonemes that have not been discussed by previous authors, but the phoneme inventory does differ slightly from the above inventories. It most closely resembles that of Viñas Urquiza (1974) but differs in regard to the palatalized velar stop (/ky/), which is a palatal affricate (/č/ [/tʃ/]) in Viñas Urquiza. As with all the authors above, there is no voicing distinction in Wichí consonants, and aspiration is not contrastive. Table 4 shows the 21 consonant phonemes present in the data.
+39
+
+Table 4. Misión La Paz Wichí Phoneme Inventory of Consonants
+
+Bilabial Dental Palatal Velar Glottal
+
+Stops
+
+p
+
+t
+
+k
+
+Ɂ
+
+palatalized
+
+ky
+
+labialized
+
+kw
+
+glottalized
+
+p’
+
+t’
+
+k’ ky’
+
+Nasals
+
+m
+
+n
+
+Fricatives
+
+s
+
+h
+
+labialized
+
+hw
+
+Affricates
+
+ts
+
+glottalized
+
+ts’
+
+Approximants
+
+w
+
+y [j]a
+
+Lateral Approximants
+
+l
+
+voiceless
+
+l̥
+
+Note: aAs in the Americanist tradition, I use [y] to represent the palatal approximant,
+
+rather than the [j] used in the International Phonetic Alphabet.
+
+40
+
+4.1.2.1. Stops
+
+This section discusses the 10 phonemic stops in the Misión La Paz dialect of
+
+Wichí. Aspiration is not contrastive in Wichí, but according to much of the literature,
+
+the phonemes /p/, /t/, and /k/ all have aspirated allophones. However, the only aspirated
+
+consonant that occurs in my data is [ph]. The phonemes /k/ and /kw/ also have
+
+allophones: [q] and [qw], respectively.
+
+The voiceless bilabial stop /p/ is found word initially, medially, and finally, as
+
+seen in (1) to (3).
+
+(1)2 pelah
+
+‘white (blanco)’
+
+(2) ohwapoɁ
+
+‘my shoulder (mi hombro)’
+
+o-hwapoɁ
+
+1sg.poss-shoulder
+
+(3) oli̥ p
+
+‘my piece (mi pedazo)’
+
+o-li̥ p
+
+1sg.poss-piece
+
+The phoneme /p/ also has an aspirated allophone, as seen in example (4).
+
+2 All examples are in the following format: [Wichí word] ‘[English translation] ([Spanish translation]).’ Unless otherwise noted, all are phonetic representations, not phonemic. When possible, all morphologically complex forms are broken down by morphemes.
+41
+
+(4) po:ph
+
+‘bird (pájaro)’
+
+The glottalized voiceless bilabial stop phoneme /p’/ is found word initially and
+
+medially, but a word final example was unattested in the data. Examples (5) and (6)
+
+show Wichí words with the phoneme /p’/.
+
+(5) p’iyaɁ
+
+‘I do not know (no sé)’
+
+(6) lap’i
+
+‘weasel (comedreja)’
+
+The voiceless dental stop /t/ is found in all positions of the word, as can be seen
+
+in (7) to (9). There were no aspirated allophones found in the data, although other
+
+sources have examples.
+
+(7) tahwokyeɁ ‘open (abierto)’
+
+(8) tunte
+
+‘rock (piedra)’
+
+(9) kyohõt
+
+‘spider (araña)’
+
+The glottalized voiceless dental stop phoneme /t’/ is found word initially and
+
+medially, but like /p’/, there are no examples of it word finally. Examples (10) and (11)
+
+show Wichí words containing this phoneme. There are also no examples of an aspirated
+
+/th/ in my data.
+
+(10) t’un
+
+‘hard; stubborn; stupid (duro)’
+
+(11) hɑt̃ ’es
+
+‘alcohol (alcohol)’
+
+42
+
+As discussed above, the voiceless velar stop /k/, is debated by other authors. My
+
+data show that [k] and [q] are allophones of one phoneme, /k/. The voiceless velar stop
+
+allophone [k] is found in all places in the word, as examples (12) to (14) demonstrate.
+
+(12) katetsek
+
+‘star (estrella)’
+
+(13) owukeɁ
+
+‘my house (mi casa)’
+
+o-wukeɁ
+
+1sg.poss-house
+
+(14) ole̥ ytek
+
+‘my head (mi cabeza)’
+
+o-le̥ ytek
+
+1sg.poss-head
+
+The voiceless uvular stop [q] is also found word initially, medially, and finally,
+
+as seen in (15) to (17).
+
+(15) qɑlq̥ ɑlt̥ ɑx
+
+‘turkey (pavo)’
+
+(16) hãpqit’a
+
+‘it is not (no es)’
+
+(17) ts’ilɑq
+
+‘only (solo)’
+
+There are no minimal pairs to justify the existence of both /k/ and /q/ as
+
+phonemes. It is difficult to determine the exact environment for the allophones, so it
+
+appears they occur in free variation.
+
+43
+
+My data contain no examples of the glottalized voiceless velar stop /k’/ because
+
+the glottalization means that the underlying /k/ is pulled back, showing phonetically as
+
+the glottalized voiceless uvular stop allophone [q’], seen in (18) and (19).
+
+(18) q’ɑxtax
+
+‘person with a big mouth (bocón)’
+
+(19) ihwaq’ɑn
+
+‘blue (azul)’
+
+The labialized voiceless velar stop /kw/ has the labialized voiceless uvular stop
+
+[qw] as its allophone. There are no minimal pairs to justify analyzing them as distinct
+
+phonemes, and [kw] is found only word medially, while [qw] is found only word finally.
+
+Neither of them is found word initially. Example (20) shows a Wichí word with /kw/
+
+word medially. Example (21) shows a Wichí word where the allophone [qw] is found.
+
+(20) okwey
+
+‘my arm (mi brazo)’
+
+o-kwey
+
+1sg.poss-arm
+
+(21) hwitsuqw
+
+‘palm tree (palmera)’
+
+The palatalized voiceless velar stop /ky/ is found both word initially and word
+
+medially, as seen in (22) and (23). It is unattested in my data for the word final position.
+
+(22) kyayohĩ
+
+‘something hot (algo caliente)’
+
+44
+
+(23) otkyumɫi
+
+‘I work (yo trabajo)’
+
+ot-kyumɫi
+
+1sg-to.work
+
+The glottalized palatalized voiceless velar stop /ky’/ is also found both word
+
+initially and word medially, but it is not found word finally. Examples (24) and (25)
+
+show which positions /ky’/ is found.
+
+(24) ky’eky’e
+
+‘type of native bird (catita; cotorra)’
+
+(25.) neky’é
+
+‘new (nuevo)’
+
+The voiceless glottal stop /Ɂ/ is found in all positions in Wichí words, as seen in
+
+(26) to (28).
+
+(26) Ɂnɑtses
+
+‘boys (chicos)’
+
+Ɂnɑtse-s
+
+boy-pl
+
+(27) hãɁlaɁ
+
+‘branch; stick (palo)’
+
+(28) alu̥ Ɂ
+
+‘iguana (iguana)’
+
+45
+
+4.1.2.2. Nasals
+
+There are two nasal phonemes in Wichí: /m/ and /n/. Each of these has a
+
+voiceless allophone, and /n/ has a voiceless palatal allophone, [n̥y] (sometimes written as
+
+[ñ]̥ ).
+
+The voiced bilabial nasal /m/ is found word initially, medially, and finally, as
+
+seen in (29) to (31).
+
+(29) matkye
+
+‘it is the truth (es la verdad)’
+
+(30) a:maɁ
+
+‘mouse (ratón)’
+
+(31) okyim
+
+‘I am thirsty (yo tengo sed)’
+
+o-kyim
+
+1sg-to.be.thirsty
+
+The voiceless allophone, [m̥ ], is found only word medially. Underlyingly, there
+
+is likely an /h/, since the following vowel is nasalized (and /h/ causes following vowels
+
+to be nasalized, as discussed below in Section 4.7). Example (32) shows a Wichí word
+
+with the voiceless bilabial nasal allophone.
+
+(32) lawom̥ ãy
+
+‘gorges (cañadas)’
+
+/lawohma-y/
+
+gorge-pl
+
+46
+
+The voiced dental nasal /n/ is found in all positions in Wichí words, as seen in
+
+(33) to (35).
+
+(33) nahãyox
+
+‘heat (calor)’
+
+(34) pinu
+
+‘sugarcane (caña dulce)’
+
+(35) oten
+
+‘I copy (yo copio)’
+
+o-ten
+
+1sg-to.copy
+
+Like the voiceless bilabial nasal, the voiceless dental nasal [n̥] is an allophone of
+
+the voiced dental nasal /n/ and is only found word medially, as seen in (36).
+
+(36) pãnḁ n
+
+‘red pepper (ají)’
+
+/pahnan/
+
+There are very few examples of the voiceless palatalized dental nasal allophone
+
+[ny̥ ], which is the result of a consonant cluster of an /n/ and an /h/ in the context of an
+
+/i/. This allophone is only found word medially and can be seen in (37).
+
+(37) hwiny̥ ol
+
+‘charcoal (carbón)’
+
+/hwihnol/
+
+47
+
+4.1.2.3. Fricatives
+
+There are three fricative phonemes in the variety of Wichí spoken in Misión La
+
+Paz: /s/, /h/, and /hw/.
+
+There are no allophones of the voiceless dental fricative /s/, which is found in all
+
+positions in Wichí words, as seen in (38) to (40).
+
+(38) siky’us
+
+‘type of native fish (sábalo)’
+
+(39) hõsanɁ
+
+‘axe (hacha)’
+
+(40) wokis
+
+‘type of native fish (chustaza)’
+
+As discussed above, there is considerable disagreement among Wichí scholars as
+
+to whether the phoneme is the voiceless glottal fricative /h/ or the voiceless velar
+
+fricative /x/ underlyingly. My data point to it being /h/, since it is more frequent. It is
+
+found both word initially and word medially, as seen in (41) and (42).
+
+(41) hõsanɁ
+
+‘axe (hacha)’
+
+(42) ahãt
+
+‘devil (el diablo)’
+
+Examples (43) and (44) show that the allophone [x] is found word medially and
+
+finally, but not word initially. It is infrequently found word medially, and (43) is one of
+
+the few examples in the data.
+
+(43) isaxiye
+
+‘handsome (bonito)’
+
+48
+
+(44) owex
+
+‘my buttocks (mis nalgas)’
+
+o-wex
+
+1sg.poss-buttocks
+
+The voiceless labialized glottal fricative /hw/ is found in all positions of Wichí
+
+words, as seen in (45) to (47). There are no examples of [xw] as an allophone in my
+
+data. Other dialects have [fw] as an allophone, but this is also not present in my data.
+
+(45) hwitsuqw
+
+‘palm tree (palmera)’
+
+(46) otkyuhwiɁ
+
+‘I am dizzy (estoy mareado)’
+
+o-tkyuhwiɁ
+
+1sg-to.be.dizzy
+
+(47) kyuhw
+
+‘sweat (sudor)’
+
+4.1.2.4. Affricates
+
+Wichí has two affricates: /ts/ and /ts’/. The voiceless dental affricate /ts/ is found
+
+word initially and word medially, as seen in (48) and (49). As Section 4.7.16 explains,
+
+/ts/ is realized word finally as [s], so logically, there are no examples of [ts] word
+
+finally.
+
+(48) tsutex
+
+‘lame person; cripple (rengo)’
+
+(49) hwitsɑx
+
+‘angry (enojado)’
+
+49
+
+The glottalized voiceless dental affricate /ts’/ is also found in the initial and
+
+medial positions but is unattested in the final position. Examples (50) and (51) show
+
+some Wichí words that contain this phoneme.
+
+(50) ts’ílɑq
+
+‘only (solo)’
+
+(51) Ɂnots’uhũi
+
+‘somebody’s candy (caramelo de alguien)’
+
+Ɂno-ts’uhũi
+
+unspecified.poss-candy
+
+4.1.2.5. Approximants and Lateral Approximants
+
+Wichí has two approximants--/w/ and /y/ (/j/)--and two lateral approximants: /l/
+
+and /l/̥ . It is important to note that /l/̥ is not the same sound as /ɬ/; the former is a
+
+voiceless dental lateral approximant, and the latter is a voiceless lateral fricative.
+
+The voiced labiovelar approximant /w/ is found in all positions except word
+
+finally, as seen in (52) and (53).
+
+(52) wesatɑh
+
+‘cotton (algodón)’
+
+(53) asowɑx
+
+‘Chulupí person (Chulupí)’
+
+The palatal approximant /y/ (/j/) is found in all positions, as seen in examples
+
+(54) to (56).
+
+(54) yaqɑɁtuɁ
+
+‘yellow (amarillo)’
+
+50
+
+(55) hãɁyɑx
+
+‘tiger (tigre)’
+
+(56) lo̥ y
+
+‘seeds (semillas)’
+
+lo̥ -y
+
+seed-pl
+
+The voiced dental lateral approximant /l/ is also found in all positions and can be
+
+seen in (57) to (59).
+
+(57) lanix
+
+‘smell (olor)
+
+(58) tsiliklik
+
+‘type of eagle [lit. “crown.eagle”] (águila.coronada)’
+
+(59) inatkyal
+
+‘raincoats (capas de lluvia)’
+
+inatkya-l
+
+raincoat-pl
+
+Likewise, the voiceless dental lateral approximant /l/̥ is found word initially,
+
+medially, and finally, as seen in (60) to (62).
+
+(60) lu̥ p
+
+‘nest (nido)’
+
+(61) qɑlq̥ ɑlt̥ ɑx
+
+‘turkey (pavo)’
+
+(62) onipil ̥
+
+‘my stomach (mi estómago)’
+
+o-nipil ̥
+
+1sg.poss-stomach
+
+51
+
+4.1.3. Minimal Pairs
+
+Although there were not minimal pairs for all consonants in Wichí in the data, a
+
+number of them are present in the data and can be seen in the examples below. Each set
+
+of examples contains a minimal or near-minimal pair of Wichí consonants.
+
+Examples (63) and (64) show a minimal pair for the phonemes /t/ and /ky/.
+
+(63) tohwãy
+
+‘pots (ollas)’
+
+tohw-ãy
+
+pot-pl
+
+(64) kyohwãy
+
+‘holes (huecos)’
+
+kyohw-ãy
+
+hole-pl
+
+A minimal pair for the phonemes /t/ and /y/ can be seen in (65) and (66).
+
+(65) niyɑqw
+
+‘string (piola)’
+
+(66) nitɑqw
+
+‘a lot (mucho)’
+
+Examples (67) and (68) show a minimal pair for the phonemes /t/ and /l/.
+
+(67) ʔnoɫamel
+
+‘us/we [exclusive] (nosotros [exclusivo])’
+
+52
+
+(68) ʔnoɫamet
+
+‘someone’s language/word (idioma/palabra de alguien)’
+
+ʔno-ɫamet
+
+unspecified.poss.-language/word
+
+Examples (69) and (70) show a minimal pair for the phonemes /ky/ and /ky’/.
+
+(69) otkyoili̥
+
+‘I sing (yo canto)’
+
+o-tkyoili̥
+
+1sg-to.sing
+
+(70) otky’oili̥
+
+‘I am dirty (yo estoy sucia)’
+
+o-tky’oili̥
+
+1sg-to.be.dirty
+
+Examples (71) and (72) also show a minimal pair for the phonemes /ky/ and
+
+/ky’/.
+
+(71) atekyol ̥
+
+‘your eyebrow (tu ceja)’
+
+a-tekyol ̥
+
+2sg.poss-eyebrow
+
+(72) ateky’ol ̥
+
+‘inside of your eyebrows (adentro de tus cejas)’
+
+a-teky’ol ̥
+
+2sg.poss-inside.of.eyebrow
+
+53
+
+A minimal pair for the phonemes /k/ and /k’/ can be found in examples (73) and
+
+(74). Note that these are phonetically realized as [q] and [q’], respectively.
+
+(73) laqɑs
+
+‘horsefly (tábano)’
+
+/lakas/
+
+(74) laq’ɑs
+
+‘their mouths (bocas de ellos)’
+
+/lak’as/
+
+l-aq’a-s
+
+3pl.poss-mouth-pl
+
+Examples (75) and (76) show a minimal pair for the phonemes /k/ and /h/. Note
+
+that /k/ is phonetically realized as [q], and /h/ is realized as [x].
+
+(75) tsoʔnatɑq
+
+‘deer [sg] (ciervo)’
+
+/tsoʔnatɑk/
+
+(76) tsoʔnatɑx
+
+‘sheep [sg] (oveja)’
+
+/tsoʔnatɑh/
+
+Examples (77) and (78) contain a minimal pair for the phonemes /Ɂ/ and /y/.
+
+(77) lo̥ Ɂ
+
+‘seed (semilla)’
+
+54
+
+(78) lo̥ y
+
+‘seeds (semillas)’
+
+lo̥ -y
+
+seed-pl
+
+A minimal pair for the phonemes /Ɂ/ and /l/ can be seen in examples (79) and
+
+(80).
+
+(79) lo̥ Ɂ
+
+‘seed (semilla)’
+
+(80) lo̥ l
+
+‘anthill (hormiguero)’
+
+Examples (81) and (82) show a minimal pair for the phonemes /Ɂ/ and /h/.
+
+(81) taʔnĩ
+
+‘monkey (mono)’
+
+(82) tañĩ̥
+
+‘the bush; forest (monte)’
+
+/tahni/
+
+Examples (83) and (84) show a minimal pair for the phonemes /ts/ and /h/.
+
+(83) tson̥at
+
+‘knife (cuchillo)’
+
+(84) hoñ ̥at
+
+‘earth (tierra)’
+
+Examples (85) and (86) contain a minimal pair for the phonemes /ts/ and /s/.
+
+(85) notsek
+
+‘to sew (coser)’
+
+(86) nosek
+
+‘to sweep (barrer)’
+
+55
+
+Examples (87) and (88) show a minimal pair for the phonemes /h/ and /s/. Note
+
+that /h/ is realized as [x] in example (87).
+
+(87) seltɑx
+
+‘type of native woodpecker [sg] [lit. “cactus carpenter”]
+
+(carpintero de los cardones)’
+
+(88) seltas
+
+‘type of native woodpecker (pl) [lit. “cactus carpenters”]
+
+(carpinteros de los cardones)’
+
+selta-s
+
+type.of.native.woodpecker-pl
+
+Examples (89) and (90) show a minimal pair for the phonemes /h/ and /hw/.
+
+(89) ohũt
+
+‘I push (yo empujo)’
+
+o-hũt
+
+1sg-to.push
+
+(90) ohwut
+
+‘I sharpen (yo afilo)’
+
+o-hwut
+
+1sg-to.sharpen
+
+Examples (91) and (92) show a near minimal pair for the phonemes /h/ and /l/.
+
+Note that /h/ is phonetically realized as [x] in example (91).
+
+56
+
+(91) hõnɑx
+
+‘late (tarde)’
+
+/honah/
+
+(92) hõʔnal
+
+‘the bush; forest (monte)’
+
+A minimal pair for the phonemes /l/ and /y/ is seen in (93) and (94).
+
+(93) lo̥ l
+
+‘anthill (hormiguero)’
+
+(94) lo̥ y
+
+‘seeds (semillas)’
+
+lo̥ -y
+
+seed-pl
+
+Examples (95) and (96) show a minimal pair for the phonemes /l/ and /l/̥ .
+
+(95) ʔnot’alɑx
+
+‘pillow (almohada)’
+
+(96) ʔnot’alɑ̥ ʔ
+
+‘someone’s body fat (grasa de alguien)’
+
+ʔno-t’alɑ̥ ʔ
+
+unspecified.poss-body.fat
+
+4.1.4. Allophonic Variation
+
+The allophones of each individual phoneme have been discussed above. This
+
+section provides the phonetic inventory of consonants for the variety of Wichí spoken in
+
+the vicinity of Misión La Paz. Table 5 contains the aspirated stop allophones ([ph], [th],
+
+[kh]), as well as the voiceless nasal allophones ([m̥ ], [n]̥ , [ñ̥]), and the uvular allophones
+
+57
+
+([q], [qɁ], [X]). Because the allophones [tʃ] and [fw] are not part of the Misión La Paz dialect, they are not included here.
+58
+
+Table 5. Misión La Paz Wichí Phonetic Inventory of Consonants
+
+Bilabial Dental Palatal Velar Uvular Glottal
+
+Stops
+
+p
+
+t
+
+k
+
+q
+
+Ɂ
+
+palatalized
+
+ky
+
+labialized
+
+kw
+
+glottalized
+
+p’
+
+t’
+
+k’ ky’ q’
+
+aspirated
+
+ph
+
+th
+
+kh
+
+Nasals
+
+m
+
+n
+
+palatalized
+
+ny̥
+
+voiceless
+
+m̥
+
+n̥
+
+Fricatives
+
+s
+
+x
+
+X
+
+h
+
+labialized
+
+hw
+
+Affricates
+
+ts
+
+glottalized
+
+ts’
+
+Approximants
+
+w
+
+y
+
+Lateral Approximants
+
+l
+
+voiceless
+
+l̥
+
+59
+
+4.2. Vowels This section focuses on the five vowels found in the Misión La Paz dialect of
+Wichí. Section 4.2.1 discusses phoneme inventories proposed by other authors. Section 4.2.2 examines the vowel inventory of Misión La Paz Wichí. Section 4.2.3 provides minimal pairs for Wichí vowel phonemes, and Section 4.2.4 goes over allophonic variation of the vowels. 4.2.1. Other Proposed Phoneme Inventories of Wichí Vowels
+With the exception of Hunt (1940), the authors discussed above in Chapter 2 agree that Wichí has six phonemic vowels. Hunt (1940) writes, “The vowels required are: --a, e, i, o, u; and the diphthongs:--ai, oi, au. These are pronounced as in Spanish” (p. 12). Hunt does not provide a more precise description of the vowels, but one can assume that the “a” he discusses corresponds to the low central unrounded vowel /a/ of the IPA and not to a low back unrounded vowel /ɑ/.
+Viñas Urquiza (1974) is more precise with her description of the six vowels she finds to be phonemes. Table 6 shows her phoneme inventory of Wichí vowels. One thing to note is that the /a/ she describes as “anterior” likely corresponds to the central /a/ of the IPA and not the front [æ].
+60
+
+Table 6. Viñas Urquiza’s Phoneme Inventory of Vowels
+
+Vocales [Vowels] Anteriores [Anterior] Posteriores [Posterior]
+
+Altas [High]
+
+i
+
+u
+
+Medias [Mid]
+
+e
+
+o
+
+Bajas [Low]
+
+a
+
+ä [ɑ]
+
+Note: From Viñas Urquiza, M.T. (1974, p. 27). Lengua Mataca, Buenos Aires, Argentina: Universidad de Buenos Aires, Facultad de Filosofía y Letras, Centro de Estudios Lingüísticos.
+Tovar (1981) unfortunately does not describe his vowels as clearly as Viñas Urquiza (1974), but we can assume from the position of the vowels on his chart (seen in Table 7) that he is following the standard IPA vowel chart, which is similar to Viñas Urquiza’s above. Table 7. Tovar’s Phoneme Inventory of Vowels a
+u eo a å [ɑ]
+
+61
+
+Note: From Tovar, A. (1981, p. 165). Relatos y diálogos de los matacos seguidos de una
+
+gramática de su lengua. Madrid: Ediciones Cultura Hispánica. Instituto de Cooperación
+
+Iberoamericana.
+
+aTovar did not give place of articulation for the vowels or any other specific
+
+information.
+
+Claesson (1994) was as detailed as Viñas Urquiza (1974) when describing the
+
+six phonemic vowels in his inventory, shown in Table 8. Like with Viñas Urquiza
+
+(1974), Claesson’s “front” /a/ is better described as central. He somewhat indicates this
+
+in his paper by indenting the /a/ a few spaces closer to “back.”
+
+Table 8. Claesson’s Phoneme Inventory of Vowels
+
+Front Back
+
+Closed i
+
+u
+
+Half-open e
+
+o
+
+Open
+
+aɑ
+
+Note: From Claesson, K. (1994, p. 3). A phonological outline of mataco noctenes.
+
+International Journal of American Linguistics 60. 1-38.
+
+62
+
+4.2.2. Vowel Inventory
+
+In contrast to the authors above, the data from this study show that there are
+
+only five vowels in the Misión La Paz variety of Wichí, which is described in Table 9.
+
+The low back unrounded vowel [ɑ] is not phonemic but is, rather, an allophone of the
+
+central back unrounded phoneme /a/. This may prove to be a difference in dialect, and
+
+the Buliubasich et al. (2004) orthography supports this interpretation; it says that [ɑ]
+
+(there written as ä ) is a regional variant (p. 8).
+
+Table 9. Misión La Paz Wichí Phoneme Inventory of Vowels
+
+Front Central Back
+
+High i
+
+u
+
+Mid e
+
+o
+
+Low
+
+a
+
+There is no phonemic distinction between rounded and unrounded vowels at the same place of articulation (though non-low back vowels are rounded and non-low front vowels are unrounded) or between tense and lax vowels. There is some slight vowel lengthening in certain environments, but at this time, these environments are not clear.
+
+63
+
+What is clear is that vowel length is noncontrastive, as is the nasalization that is also
+
+fairly common. These allophones are discussed in more detail in Section 4.2.4.
+
+The high front unrounded vowel /i/ is found word initially, medially, and finally,
+
+as seen in (97) to (99).
+
+(97) iniky’u
+
+‘chuña [type of native bird] (chuña)’
+
+(98) li̥ p
+
+‘piece (pedazo)’
+
+(99) sɑq’i
+
+‘leech (lampalagua)’
+
+The high back rounded vowel /u/ is also found in all positions, as evidenced by
+
+(100) to (102).
+
+(100) us
+
+‘lagoon plants (plantas encima de laguna)’
+
+(101) tusus
+
+‘type of bird (tipo de pájaro)’
+
+(102) iniky’u
+
+‘chuña [type of native bird] (chuña)’
+
+The mid front unrounded vowel /e/ is also found word initially, medially, and
+
+finally, as seen in (103) to (105).
+
+(103) etansɑx
+
+‘thief (ladrón)’
+
+(104) tewoqw
+
+‘river (río)’
+
+(105) p’ante
+
+‘before (antes)’
+
+64
+
+As with the previous vowel phonemes, the mid back rounded vowel /o/ is found
+
+in all positions, as can be seen in (106) to (108).
+
+(106) onɑ̥ q
+
+‘sachasandia fruits (las frutas sachasandia)’
+
+(107) tsopo
+
+‘dog without a tail (perro que no tiene cola)’
+
+(108) woq’o
+
+‘owl (lechuza)’
+
+The last vowel phoneme, the low central unrounded vowel /a/ is found in all
+
+positions, as seen in (109) to (111).
+
+(109) atsinaɁ
+
+‘woman (mujer)’
+
+(110) tsawotas t’ahẽs
+
+‘honeycomb (panal de miel)’
+
+tsawotas t’ahẽs
+
+honey comb
+
+(111) isit’a
+
+‘it is not good (no es bueno)’
+
+4.2.3. Minimal Pairs
+
+Although the data for this study did not have minimal pairs for all possible
+
+combinations of vowel phonemes, there were several minimal pairs, which can be seen
+
+in the examples below. Note the absence of minimal pairs for /a/ and /ɑ/, which is
+
+further evidence that /ɑ/ is an allophone of /a/, not a separate phoneme.
+
+65
+
+Examples (112) and (113) show a minimal pair for the vowel phonemes /i/ and
+
+/u/.
+
+(112) is
+
+‘good (bueno)’
+
+(113) us
+
+‘lagoon plants (plantas encima de laguna)’
+
+Examples (114) and (115) show another minimal pair for the vowel phonemes /i/
+
+and /u/.
+
+(114) li̥ p
+
+‘piece (pedazo)’
+
+(115) lu̥ p
+
+‘nest (nido)’
+
+A minimal pair for the vowel phonemes /i/ and /a/ can been seen in examples
+
+(116) and (117).
+
+(116) is
+
+‘good (bueno)’
+
+(117) as
+
+‘your son (tu hijo)’
+
+a-s
+
+2sg.poss-son
+
+Examples (118) and (119) contain a minimal pair for the vowel phonemes /i/ and
+
+/e/.
+
+66
+
+(118) Ɂnoky’ahĩɁ
+
+‘to obstruct (atorar)’
+
+Ɂno-ky’ahĩɁ
+
+unspecified.person-to.obstruct
+
+(119) Ɂnoky’ahẽɁ
+
+‘someone’s arrow (flecha de alguien)’
+
+Ɂno-ky’ahẽɁ
+
+unspecified.poss-arrow
+
+Examples (120) and (121) also show a minimal pair for the vowel phonemes /i/
+
+and /e/.
+
+(120) kyinɑx
+
+‘iron (fierro)’
+
+(121) kyenɑx
+
+‘mountain (montaña)’
+
+Examples (122) and (123) demonstrate a minimal pair for the vowel phonemes
+
+/u/ and /o/.
+
+(122) ɁnoɁwuyis
+
+‘someone’s blankets (frasadas de alguien)’
+
+Ɂno-wuyis
+
+unspecified.poss-blanket-pl
+
+(123) ɁnoɁwoyis
+
+‘someone’s blood (sangre de alguien)’
+
+Ɂno-woyis
+
+unspecified.poss-blood
+
+67
+
+Examples (124) and (125) also show a minimal pair for the vowel phonemes /u/
+
+and /o/.
+
+(124) otkyuiɫi
+
+‘I vomit (yo vomito)’
+
+ot-kyuiɫi
+
+1sg-to.vomit
+
+(125) otkyoiɫi
+
+‘I sing (yo canto)’
+
+ot-kyoiɫi
+
+1sg-to.sing
+
+Examples (126) and (127) have a minimal pair for the vowel phonemes /u/ and
+
+/a/.
+
+(126) us
+
+‘lagoon plants (plantas encima de laguna)’
+
+(127) ɑs
+
+‘your son (tu hijo)’
+
+a-s
+
+2sg.poss-son
+
+Examples (128) and (129) also show a minimal pair for the vowel phonemes /u/
+
+and /a/. Note that /a/ is phonetically realized as [ɑ].
+
+(128) sulux
+
+‘white woman (criolla)’
+
+68
+
+(129) sulɑx
+
+‘anteater (oso hormiguero)’
+
+/sulax/
+
+Examples (130) and (131) contain a minimal pair for the vowel phonemes /e/
+
+and /a/.
+
+(130) nekkyeʔ
+
+‘he comes with him (viene con él)’
+
+(131) nekkyaʔ
+
+‘year (año)’
+
+Examples (132) and (133) show a minimal pair for the vowel phonemes /o/ and
+
+/a/.
+
+(132) ɫoy
+
+‘seeds (semillas)’
+
+ɫo-y
+
+seed-pl
+
+(133) ɫay
+
+‘fruits (frutas)’
+
+ɫa-y
+
+fruit-pl
+
+4.2.4. Allophonic variation
+
+Each vowel phoneme discussed above has a nasalized allophone. When a vowel
+
+precedes or follows the glottal fricative /h/, it is nasalized, as seen in examples (134) -
+
+(138). Example (134) shows the nasalized high front unrounded vowel allophone [ĩ].
+
+69
+
+(134) oyahĩnɁ
+
+‘I watch (yo miro)’
+
+/oyahinɁ/
+
+/o-yahinɁ/
+
+1sg-to.watch
+
+Example (135) shows the nasalized high back rounded vowel allophone [ũ].
+
+(135) Ɂnõhũmin
+
+‘lover (amante)’
+
+/Ɂnohumin/
+
+/Ɂno-humin/
+
+unspecified.poss-lover
+
+Example (136) shows the nasalized mid front unrounded vowel allophone [ẽ].
+
+(136) Ɂnoky’ahẽɁ
+
+‘arrow (flecha)’
+
+/Ɂnoky’aheɁ/
+
+/Ɂno-ky’aheɁ/
+
+unspecified.poss-arrow
+
+Example (137) shows the nasalized mid back rounded vowel allophone [õ].
+
+(137) hõloɁ
+
+‘dust (polvo)’
+
+/holoɁ/
+
+70
+
+Example (138) contains the nasalized low central unrounded vowel allophone
+
+[ã].
+
+(138) ɁwãhãtwoɁ
+
+‘fisherman (pescador)’
+
+/ɁwahatwoɁ/
+
+/Ɂwahat-woɁ/
+
+fish-agent
+
+As discussed above, the back low unrounded vowel [ɑ] is not a phoneme in this
+
+dialect of Wichí. This determination has been made for several reasons, such as the
+
+absence of minimal pairs. The consultants also inconsistently produced and identified
+
+the back low unrounded vowel [ɑ]. Examples (139) and (140) show that [ɑ] is present in
+
+the initial and medial position of Wichí words. There are no examples of it word finally.
+
+It is difficult to provide an exact phonetic environment for the occurrence of [ɑ], but the
+
+majority of instances of [ɑ] occur before the following phonemes: /s/, /x/, /Ɂ/, /q/, and
+
+/hw/. It also occurs after /q/ and /h/. This is an area for future research.
+
+(139) ɑs
+
+‘your son (tu hijo)’
+
+a-s
+
+2sg.poss-son
+
+71
+
+(140) inɑt
+
+‘water (agua)’
+
+/inat/
+
+Table 10 shows the phonetic inventory of vowels for the dialect of Wichí spoken
+
+in the vicinity of Misión La Paz.
+
+Table 10. Misión La Paz Wichí Phonetic Inventory of Vowels
+
+Front Central Back
+
+High /i/ ĩ
+
+/u/ ũ
+
+Mid /e/ ẽ
+
+/o/ õ
+
+Low
+
+/a/ ã ɑ
+
+4.3. Syllable Structure As with the phoneme inventory, there is disagreement amongst Wichí scholars
+as to the syllable inventory of the language. Table 11 below shows a side-by-side comparison of the syllable inventories of Viñas Urquiza (1974), Tovar (1981), and Claesson (1994).
+
+72
+
+Table 11. Comparison of Syllable Inventories by Viñas Urquiza, Tovar, and Claesson
+
+Viñas Urquiza a Tovar b Claesson c
+
+V
+
+V
+
+CCV
+
+VC
+
+VV CCVC
+
+CV
+
+VC CVCC
+
+CVC
+
+CV CCVCC
+
+CC’Vd
+
+CVV
+
+CVC’’Ce
+
+CVC
+
+CVVC
+
+Note: a From Viñas Urquiza, M.T. (1974, p. 31). Lengua Mataca, Buenos Aires,
+
+Argentina: Universidad de Buenos Aires, Facultad de Filosofía y Letras, Centro de
+
+Estudios Lingüísticos. b From Tovar, A. (1981, p. 171). Relatos y diálogos de los
+
+matacos seguidos de una gramática de su lengua. Madrid: Ediciones Cultura Hispánica.
+
+Instituto de Cooperación Iberoamericana. c From Claesson, K. (1994, p. 3). A
+
+phonological outline of mataco noctenes. International Journal of American Linguistics
+
+60. 1-38. d Viñas Urquiza’s original note: “La posición C’ la ocupa /n/, sólo cuando
+
+constituye con /h/ un grupo consonántico inicial” [/n/ occupies position C’, only when
+
+73
+
+it constitutes with /h/ an initial consonant group] (p.31). e Viñas Urquiza’s original note: “La posición C’’ la ocupa /j/” [/j/ (my /y/) occupies position C’’] (p.31).
+It is important to note several things about the inventories above. Viñas Urquiza’s (1974) inventory has no vowel clusters because she argues that when two vowels are found together, one belongs to one syllable and the other belongs to the following syllable (p. 30). It is also important to note that Claesson (1994) analyzes complex and voiceless consonants as being sequences of phonemes, rather than single phonemes of glottalized or aspirated stops and affricates or glottalized or voiceless lateral and nasals (p. 3). This is why his inventory has so many consonant clusters. He also argues that vowels cannot initiate a syllable, which is disproved by the data found in Table 12. This table contains the syllable inventory for the variety of Wichí spoken in the vicinity of Misión La Paz.
+74
+
+Table 12. Misión La Paz Wichí Syllable Inventory
+
+Example Phoneme Wichí English
+
+(141) V
+
+a.mi.o.tɑx squash
+
+(142) VC
+
+is
+
+good
+
+(143) CV
+
+wi.kyi
+
+people
+
+(144) CVC
+
+o.tsɁuq my añapa (drink made of
+
+carob beans)
+
+(145) CCV
+
+ta.hni̥
+
+the.bush;forest
+
+(146) CCVC kyu.hm̥ as workers
+
+Spanish anco bueno gente mi añapa
+monte trabajadores
+
+The three Wichí scholars discussed above are more or less in agreement about the most common syllable types. Viñas Urquiza (1974) finds that the most common syllable types are CV and CVC (p. 31). Tovar (1981) says that the syllable is generally of the CVC type (p. 173). Claesson (1994) says that the dominant syllable structure is CV (but in one syllable words, must be CVC; p. 3). The most common types of syllables found in my data are also CV and CVC. No vowel clusters (VV) were present.
+
+75
+
+4.4. Phonotactics/restrictions on sounds This section discusses some phonotactics of Wichí. Section 4.4.1 examines
+restrictions on vowels, and Section 4.4.2 looks at restrictions on the co-occurrence of consonants. Section 4.4.3 discusses restrictions on consonants. 4.4.1. Restrictions on Vowels
+Contrary to Claesson’s (1994) claim that vowels “cannot initiate a syllable,” vowels can appear in any position of the word in Wichí (p. 3). However, they are less frequent at the end of words, and they are usually followed by an optional [Ɂ]. Although Tovar (1981) discusses diphthongs and includes vowel clusters in his syllable inventory and Hunt (1940) also discusses diphthongs, my data contain no vowel clusters or diphthongs (Tovar (1981), p. 167; Hunt (1940), p. 13). 4.4.2. Restrictions on Co-Occurrence of Consonants
+Wichí predominantly has a CV or CVC syllable structure, and there are very few consonant clusters. As discussed in Table 12, Viñas Urquiza (1974) finds very strict conditions for consonant clusters: in a syllable of the type Viñas Urquiza calls CC’V3, the second consonant (C’) must be the phoneme /n/, and the initial consonant must be
+3 Note that Viñas Urquiza’s C’ does not refer to a glottalized consonant but is instead used to denote a restriction on this particular consonant, as seen in Table 11.
+76
+
+the phoneme /h/. In a syllable of the type CVC”C, the phoneme /j/ (my /y/) must occupy the second consonant position (C”; p. 31). My data support the former rule, as voiceless nasals (underlyingly, /h/ + /nasal/) are one of the few consonant clusters allowable in Wichí. My data show that the latter rule must be modified to also allow for the phoneme /w/, as seen in Table 12. Additionally, there are no geminates and only rare instances of doubling of consonants (Tovar, 1981, p. 174). 4.4.3. Restrictions on Consonants
+According to the data for this project, /kw/ is the only phoneme not found word initially. The following phonemes are not found word finally: /p’/, /t’/, /k’/, /ky/, /ky’/, /ts/, /tsɁ/, and /w/. These restrictions are somewhat similar to the word final restrictions found by Tovar (1981); he found that the following phonemes could not appear word finally: /ch/ (/tʃ/, equivalent to my /ky/), /ts/, /ñ/ (/ny/), /Ɂñ/ (/n̥y/), and /w/ (unless in labialized qw and fw/jw; p. 174). He also had a number of phonemes that could not be found word initially: /j/ (/x/), /ñ/ (/ny/), /Ɂm/ (/m̥ /), /Ɂn/ (/n̥/), and /Ɂñ/ (/ny̥ /) (p. 174). However, with the exception of the /x/ phoneme (which is equivalent to my /h/ phoneme), none of these are phonemes in the variety of Wichí spoken in the vicinity of Misión La Paz.
+77
+
+4.5. Stress Hunt (1940), Viñas Urquiza (1974), Tovar (1981), and Claesson (1994) all have
+slightly differing opinions on stress in Wichí, but they all seem to agree that it can vary. Hunt (1940) writes, “The cadence of the sentence is quite as important as the accent of a particular word, and in fact the word may modify its accent in the sentence” (p. 9). Later, he continues, “Emphasis is the great determining factor in the allocation of words in a sentence. The first word is the stressed word of a sentence, and according to the sense required to be conveyed so are the words placed” (p. 9).
+Viñas Urquiza (1974) has a more precise analysis of stress in Wichí and says that there are two types of phonologically and morphophonologically conditioned stress: primary and secondary (p. 32). For primary stress, she writes, “El acento primario marca generalmente el morfema radical cuando la base no tiene sufijos” [The primary stress generally falls on the root morpheme when the base does not have suffixes] (p. 32). For secondary stress, she writes, “El acento secundario ocupa la posición primitiva del acento primario, antes de su desplazamiento” [The secondary stress occupies the original position of the primary stress, before its displacement] (p. 32). However, she also allows for a little wiggle room when she later writes, “El acento puede variar por razones de ritmo” [The stress can vary for reasons of rhythm] (p. 48).
+78
+
+Tovar (1981) believes that the “rhythm” of a phrase determines where the stress will be placed. He writes, “El acento mataco, que consiste en una mayor fuerza o intensidad de la vocal, es suprasegmental, pues no es de palabra, sino de frase, y es el ritmo de ésta lo que determina su posición” [The Wichí stress, which consists of more force or intensity of the vowel, is suprasegmental; it is not of the word but of the phrase, and it is its rhythm that determines its position] (p. 172). He later clarifies his argument and says, “La misma palabra se ve que puede recibir el acento en distintas sílabas” [It can be seen that the same word can be stressed in different syllables] (p. 172).
+Claesson (1994) has a short section on stress and says, “Noctenes [the dialect of Wichí he studied] appears to have free, phonemic stress” (p. 6)
+The data for the present study do not include a great number of sentences but rather consist mainly of single words and short phrases, so at this point, it is difficult to verify that stress is, in fact, free and varies according to the “rhythm” of a sentence. However, it is possible to discuss stress in single words.
+In these data, there is ultimate stress, as seen in the following examples. Example (147) shows a two-syllable word that is stressed on the final syllable. Example (148) shows a three-syllable word (the plural of the preceding example) that is stressed
+79
+
+on the final syllable. Example (149) shows a four-syllable word that is stressed on the
+
+final syllable.
+
+(147) sipɑĺ
+
+‘soldier (soldado)’
+
+(148) sipɑlís
+
+‘soldiers (soldados)’
+
+sipɑl-ís
+
+soldier-pl
+
+(149) Ɂnoqɑyehwɑś
+
+‘someone’s female friends (amigas)’
+
+Ɂno-qɑyehwɑ-́ s
+
+unspecified.poss-female.friend-pl
+
+4.6. Loan Phonology and Phonetics
+
+The data from the current study have very few instances of loan words from
+
+Spanish, English, or other indigenous languages of the area (such as Chorote or
+
+Chulupí). However, it is still important to note that one of the few Spanish loan words,
+
+seen in (150), contains a phoneme not found in Wichí. The phoneme /r/ is borrowed
+
+fully intact.
+
+(150) tractorwoɁ
+
+‘tractor driver (conductor de tractor)’
+
+tractor-woɁ
+
+tractor-agent
+
+80
+
+The Wichí morpheme –wo, which means, more or less, “a person who uses X
+
+[the preceding noun] in his/her profession,”4 is added to a noun to make a new noun.
+
+For example, in Wichí, Ɂwãhãt means “fish.” When the morpheme –wo is added to
+
+Ɂwãhãt, as in (151), the resulting form means “fish shipper.”
+
+(151) ɁwãhãtwoɁ
+
+‘fisherman (pescador)’
+
+Ɂwãhãt-woɁ
+
+fish-agent
+
+Examples (152) and (153) show two other cases of a Spanish word being
+
+borrowed into Wichí and then having a native morpheme attached to it. In example
+
+(152), the suffix -woɁ (“agent”) is added to the Spanish word papel (“paper”), and the
+
+resulting form means “teacher” or “someone who uses paper in his/her profession.”
+
+Example (153) undergoes the same process with the Spanish word camión (“truck”).
+
+(152) papelwoɁ
+
+‘teacher (maestro)’ [from the Spanish papel, ‘paper’]
+
+papel-woɁ
+
+paper-agent
+
+4 For brevity’s sake, in glossed examples, “agent” will be used in place of “a person who uses X [the preceding noun] in his/her profession.”
+81
+
+(153) kamionwoɁ
+
+‘chauffeur (chofer)’ [from the Spanish camión, ‘truck’]
+
+kamion-woɁ
+
+truck-agent
+
+One other instance of a Spanish loan word (machete, which means the same in
+
+English) can be seen in (154). The plural form can be seen in (155). It is interesting to
+
+note that the Spanish phone [tʃ] was borrowed into Wichí as the phoneme /ts/, instead of
+
+/ky/. It is also pluralized following Wichí rules. Since it seems more integrated into the
+
+language, it could be an older loan.
+
+(154) matsetɑx
+
+‘machete (machete)’
+
+(155) matsetas
+
+‘machetes (machetes)’
+
+matseta-s
+
+machete-pl
+
+The main focus of this thesis was more on native phonology than on eliciting
+
+and analyzing loan phonology and phonetics. However, this may be an interesting area
+
+for future study.
+
+4.7. Major Phonological Processes
+
+This section discusses some of the major phonological processes at work in
+
+Wichí. For each section, the first example in the section is completely analyzed. The
+
+82
+
+rest of the examples in the section follow the same pattern. Note that some phonemes,
+
+such as /k/, /h/, and /a/, are phonetically realized as [q], [x], and [ɑ] in some of the
+
+following examples.
+
+4.7.1. Nasalization of Vowels Preceding and/or Following /h/
+
+Vowels are nasalized before and/or after the voiceless glottal fricative /h/, as can
+
+be seen in examples (156) to (160). This rule can be formalized as Phonological Process
+
+1.
+
+Phonological
+
+Process
+
+1.
+
+V
+
+→
+
+[+nasal]
+
+⎧__ h⎫
+
+/⎩⎨h
+
+__
+
+⎬ ⎭
+
+(156) oyahĩnɁ
+
+‘I watch (yo miro)
+
+/o-yahinɁ/
+
+[o-yahĩnɁ]
+
+(Nasalization of /i/ via Phonological Process 1)
+
+1sg-to.watch
+
+(157) Ɂnõhũmin
+
+‘somebody’s lover (amante)’
+
+/Ɂno-humin/
+
+[Ɂnõ-hũmin]
+
+(Nasalization of /o/ and /u/ via Phonological Process 1)
+
+unspecified.poss-lover
+
+83
+
+(158) Ɂnoky’ahẽɁ
+
+‘arrow (flecha)’
+
+/Ɂno-ky’aheɁ/
+
+[Ɂno-ky’ahẽɁ]
+
+(Nasalization of /e/ via Phonological Process 1)
+
+unspecified.poss-arrow
+
+(159) hõloɁ
+
+‘dust (polvo)’
+
+/holoɁ/
+
+[hõloɁ]
+
+(Nasalization of /o/ via Phonological Process 1)
+
+(160) ɁwãhãtwoɁ
+
+‘fisherman (pescador)’
+
+/Ɂwahat-woɁ/
+
+[Ɂwãhãt-woɁ]
+
+(Nasalization of /a/s via Phonological Process 1)
+
+fish-agent
+
+4.7.2. Deletion of {/k/, /Ɂ/, /h/} With Addition of Plural Suffix {/-y/, /-s/, /-l/}
+
+When the plural suffixes {/-y/, /-s/, /-l/} are added to a stem ending in {/k/, /Ɂ/,
+
+/h/}, the {/k/, /Ɂ/, /h/} is deleted. This rule is formulated as Phonological Process 2. Phonological Process 2. _{/k/, /Ɂ/, /h/}#Æ∅/_{/-y/, /-s/, /-l/} #
+
+Examples (161) to (166) show Phonological Process 2 in action for stems ending
+
+in /h/.
+
+84
+
+(161) awutsɑx
+
+‘peccary species [sg] (maján)’
+
+/awutsah/
+
+[awutsɑx]
+
+(Allophones [ɑ] and [x] present in surface form)
+
+(162) awutsɑs
+
+‘peccary species [pl] (majanes)’
+
+/awutsah-s/
+
+[awutsɑ-s]
+
+(Deletion of /h/ via Phonological Process 2, allophone [ɑ])
+
+peccary.species-pl
+
+(163) tsawotɑx
+
+‘honey (miel)’
+
+/tsawotah/
+
+[tsawotɑx]
+
+(Allophones [ɑ] and [x] present in surface form)
+
+(164) tsawotɑs
+
+‘honeys (mieles)’
+
+[tsawotɑ-s]
+
+(Deletion of /h/ via Phonological Process 2, allophone [ɑ])
+
+honey-pl
+
+(165) hãɁyɑx
+
+‘tiger (tigre)’
+
+/haɁyah/
+
+85
+
+(166) hãɁya-s
+
+‘tigers (tigres)’
+
+/haɁyah-s/
+
+[hãɁya-s]
+
+(Deletion of /h/ via Phonological Process 2, Nasalization
+
+of /a/ via Phonological Process 1)
+
+tiger-pl
+
+Examples (167) to (174) show Phonological Process 2 in action for stems ending
+
+in /Ɂ/.
+
+(167) ɁowoleɁ
+
+‘my hair (mi pelo)’
+
+/Ɂo-woleɁ/
+
+1sg.poss-hair
+
+(168) Ɂowoley
+
+‘my hairs (mis pelos)’
+
+[Ɂo-wole-y]
+
+(Deletion of /Ɂ/ via Phonological Process 2)
+
+1sg.poss-hair-pl
+
+(169) ɁmɑqwoɁ
+
+‘bee (abeja)’
+
+/ɁmakwoɁ/
+
+[ɁmɑqwoɁ]
+
+(Allophones [ɑ] and [qw] present in surface form)
+
+86
+
+(170) Ɂmɑqwos
+
+‘bees (abejas)’
+
+[Ɂmɑqwo-s]
+
+(Deletion of /Ɂ/ via Phonological Process 2, allophones [ɑ]
+
+and [qw])
+
+bee-pl
+
+(171) latselɑ̥ Ɂ
+
+‘curve (curva)’
+
+/latselḁ Ɂ/
+
+(172) latselɑ̥ l
+
+‘curves (curvas)’
+
+[latselɑ̥ -l]
+
+(Deletion of /Ɂ/ via Phonological Process 2, allophone [ɑ])
+
+curve-pl
+
+(173) ky’utanɁ
+
+‘spine (espina)’
+
+(174) ky’utanis
+
+‘spines (espinas)’
+
+[ky’utan-is]
+
+(Deletion of /Ɂ/ via Phonological Process 2)
+
+spine-pl
+
+Examples (175) to (178) show Phonological Process 2 in action for stems ending
+
+in /k/.
+
+(175) hwele̥ k
+
+‘mortar (mortero)’
+
+/hwele̥ k/
+
+87
+
+(176) hwele̥ y
+
+‘mortars (morteros)’
+
+[hwele̥ -y]
+
+(Deletion of /k/ via Phonological Process 2)
+
+mortar-pl
+
+(177) nowale̥ k
+
+‘wasp (lachiwana)’
+
+/nowale̥ k/
+
+(178) nowale̥ y
+
+‘wasps (lachiwanas)’
+
+[nowale̥ -y]
+
+(Deletion of /k/ via Phonological Process 2)
+
+wasp-pl
+
+4.7.3. Deletion of Stem Final Vowel With Addition of Plural Suffix -VC
+
+When a plural suffix of the form -VC is added to a noun, the stem final vowel is
+
+deleted, as seen in the examples (179) to (186) below. This is formulated as
+
+Phonological Process 3. Phonological Process 3. VÆ ∅/VC_+VC
+
+(179) lḁ met
+
+‘word (palabra)’
+
+(180) lḁ mtes
+
+‘words (palabras)’
+
+/lḁ met-es/
+
+[lḁ mt-es]
+
+(Deletion of /e/ via Phonological Process 3)
+
+word-pl
+
+88
+
+(181) opaset
+
+‘my lip (mi labio)’
+
+(182) opastey
+
+‘my lips (mis labios)’
+
+/o-paset-ey/
+
+[o-past-ey]
+
+(Deletion of /e/ via Phonological Process 3)
+
+1sg.poss-lip-pl
+
+(183) Ɂnoteneq
+
+‘somebody’s song (canción de alguien)’
+
+/Ɂno-tenek/
+
+unspecified.poss-song
+
+(184) Ɂnotenqay
+
+‘somebody’s songs (canciones de alguien)’
+
+/Ɂno-tenek-ay/
+
+[Ɂnotenqay]
+
+(Deletion of /e/ via Phonological Process 3, allophone [q])
+
+unspecified.poss-song-pl
+
+(185) hõsanɁ
+
+‘axe (hacha)’
+
+/hosanɁ/
+
+89
+
+(186) hõsnis
+
+‘axes (hachas)’
+
+/hosanɁ-is/
+
+hõsanɁ-is
+
+(Nasalization of /o/ via Phonological Process 1)
+
+hõsan-is
+
+(Deletion of /Ɂ/ via Phonological Process 2)
+
+[hõsnis]
+
+(Deletion of /a/ via Phonological Process 3)
+
+axe-pl
+
+4.7.4. Deletion of /h/ After /ts/
+
+The voiceless glottal fricative /h/ is deleted after the dental affricate /ts/. This can
+
+be formalized as Phonological Process 4. Phonological Process 4. h Æ ∅/ts_
+
+Example (188) shows how [ahũtses] is created via several phonological
+
+processes. Example (190) undergoes the same changes.
+
+(187) ahũtsah
+
+‘hawk (carancho)’
+
+/ahutsah/
+
+90
+
+(188) ahũtses
+
+‘hawks (caranchos)’
+
+/ahutsah-es/
+
+ahũtsah-es
+
+(Nasalization of /u/ via Phonological Process 1)
+
+ahutsh-es
+
+(Deletion of /a/ via Phonological Process 3)
+
+ahuts-es
+
+(Deletion of /h/ via Phonological Process 4)
+
+[ahutses]
+
+hawk-pl
+
+(189) tutsɑx
+
+‘smoke (humo)’
+
+/tutsah/
+
+(190) tutses
+
+‘smokes (humos)’
+
+/tutsah-es/
+
+[tutses]
+
+(Deletion of /a/ via Phonological Process 3, Deletion of /h/
+
+via Phonological Process 4)
+
+smoke-pl
+
+4.7.5.
+
+Metathesis of /C[+sonorant]h/ to /hC[+sonorant]/
+
+The consonant cluster of /C[+sonorant]h/ undergoes metathesis when, as the
+
+result of vowel deletion (Phonological Process 3), /C[+sonorant]/and /h/ become
+
+adjacent to one another. This is formalized as Phonological Process 5.
+
+91
+
+Phonological Process 5. C[+sonorant]h Æ hC[+sonorant].
+
+Example (192) shows which phonological processes resulted in [kyohwãy].
+
+Examples (194) and (196) undergo the same processes in the same order for the
+
+consonant cluster of /hw/.
+
+(191) kyowex
+
+‘hole (hueco)’
+
+/kyoweh/
+
+(192) kyohwãy
+
+‘holes (huecos)’
+
+/kyoweh-ay/
+
+kyoweh-ãy
+
+(Nasalization of /a/ via Phonological Process 1)
+
+kyowh-ãy
+
+(Deletion of /e/ via Phonological Process 2)
+
+[kyohw-ãy]
+
+(Metathesis of /wh/ via Phonological Process 5)
+
+hole-pl
+
+(193) latowex
+
+‘hole (agujero)’
+
+/latoweh/
+
+92
+
+(194) latohwãy
+
+‘holes (agujeros)’
+
+/latoweh-ay/
+
+latoweh-ãy
+
+(Nasalization of /a/ via Phonological Process 1)
+
+latowh-ãy
+
+(Deletion of /e/ via Phonological Process 2)
+
+[latohw-ãy]
+
+(Metathesis of /wh/ via Phonological Process 5)
+
+hole-pl
+
+(195) suwanḁ swex
+
+‘anthill (agujero de hormiga)’
+
+/suwahnasweh/
+
+(196) suwanḁ shwãy
+
+‘anthills (agujeros de hormiga)’
+
+[suwanḁ shw-ãy]
+
+anthill-pl
+
+Example (198) shows that Phonological Process 5 also holds true for consonant
+
+clusters of /nh/. Example (198) also shows the phonological processes that result in
+
+[hwitsanḁ s]. Examples (200) and (202) undergo the same processes in the same order.
+
+(197) hwitsanax
+
+‘type of tree [lit. “jacket tree”] (árbol de suncho)’
+
+/hwitsanah/
+
+93
+
+(198) hwitsanḁ s /hwitsanah-as/ hwitsanh-as hwitsahn-as [hwitsan-̥ as]
+type.of.tree-pl (199) tatnax
+/tatnah/ (200) tatnḁ s
+/tatnah-as/ toad-pl (201) asinax /asinah/ (202) asinḁ s /asinah-as/ dog-pl
+
+‘type of tree [pl] [lit. “jacket trees”] (árboles de suncho)’ (Deletion of /a/ via Phonological Process 2) (Metathesis via Phonological Process 5) (Voiceless Nasal via Phonological Process 7, discussed in Section 4.7.7) ‘toad (sapo)’ ‘toads (sapos)’
+‘dog (perro)’ ‘dogs (perros)’
+
+94
+
+4.7.6. Word Final Realization of /ts/ as [s]
+
+When /ts/ is word final, it is realized as [s], as can be seen in examples (203)
+
+through (208). This is formalized as Phonological Process 6. Phonological Process 6. /ts/ Æ [s] /__#
+
+(203) qɑtes
+
+‘star (estrella)’
+
+/katets/
+
+[qɑtes]
+
+(Deletion of /t/ via Phonological Process 6, allophones [q]
+
+and [ɑ])
+
+(204) qɑtetsel
+
+‘stars (estrellas)’
+
+/katets-el/
+
+star-pl
+
+(205) lates
+
+‘root (raíz)’
+
+/latets/
+
+[lates]
+
+(Deletion of /t/ via Phonological Process 6)
+
+(206) latetsel
+
+‘roots (raíces)’
+
+/latets-el/
+
+root-pl
+
+95
+
+(207) hãɁlates
+
+‘tree trunk (tronco de árbol)’
+
+/haɁla-latets/
+
+/hãɁla-tets/
+
+(Nasalization via Phonological Process 1, reduction of
+
+duplicate syllable5)
+
+[hãɁla-tes]
+
+(Deletion of /t/ via Phonological Process 6)
+
+branch-root
+
+(208) hãɁlatetsel
+
+‘tree trunks (troncos de arboles)’
+
+/haɁla-latets-el/
+
+[hãɁla-tets-el]
+
+branch-root-pl
+
+4.7.7. Realization of /hn/ as Voiceless Nasal or Deletion of /h/
+
+When a nasal is preceded by the glottal fricative /h/, the /hNasal/ consonant
+
+cluster may be realized as either a voiceless nasal or as a simple nasal. This is
+
+formalized as Phonological Process 7.
+
+Phonological
+
+Process
+
+7.
+
+/ hNasal /
+
+→
+
+⎧Nasal[−voice]⎫
+
+⎨⎩Nasal
+
+⎬ ⎭
+
+5 Because (206) and (207) are the only examples of this phenomenon in my data, no rule for this syllable reduction has been formulated. Further data collection is necessary.
+96
+
+Examples (209) to (216) show the /hn/ cluster being realized as a voiceless
+
+nasal. Examples (217) to (220) show that the /hn/ cluster is realized as either a voiceless
+
+nasal or as a simple nasal. Viñas Urquiza (1974) has a similar process to this, where she says that hn Æ (optionally) {n, h̃}. However, it is not clear if she intends [h]̃ to be a
+
+voiceless nasal (p. 37).
+
+4.7.7.1. Voiceless Nasals
+
+(209) hoñ ḁ t
+
+‘earth (tierra)’
+
+/hohnat/
+
+(210) kyum̥ as
+
+‘workers (trabajadores)’
+
+/kyuhma-s/
+
+[kyum̥ a-s]
+
+(Voiceless nasal via Phonological Process 7)
+
+worker-pl
+
+(211) atsinḁ Ɂ
+
+‘woman (mujer)’
+
+/atsihnaɁ/
+
+(212) tañi̥ Ɂ
+
+‘forest; the bush (monte)’
+
+/tahni/
+
+(213) iñ̥axqotɑx
+
+‘eagle (águila)’
+
+/ihnahqotah/
+
+97
+
+(214) in̥iyaɁ̃
+
+‘eel (anguila)’
+
+/ihniyaɁ/
+
+(215) suwanḁ s
+
+‘ant (hormiga)’
+
+/suwahnas/
+
+(216) anḁ lɑɁ
+
+‘large nocturnal rodent [Lagostomus maximus] (vizcacha)’
+
+/ahnalaɁ/
+
+4.7.7.2. Simple Nasals Alternating With Voiceless Nasals
+
+(217) hõnḁ t ~ hõnat
+
+‘earth (tierra)’
+
+/hohnat/
+
+(218) atsinḁ Ɂ ~ atsinaɁ ‘woman (mujer)’
+
+/atsihnaɁ/
+
+(219) tañi̥ Ɂ ~ taniɁ
+
+‘forest; the bush (monte)’
+
+/tahni/
+
+(220) suwanḁ s ~suwanas ‘ant (hormiga)’
+
+/suwahnas/
+
+98
+
+4.7.8. De-labialization of /kw/ When Plural Suffix -at Added
+
+When the plural suffix -at is added to a root ending in /kw/, the labialized velar
+
+stop /kw/ becomes delabialized and is realized as the velar stop [q]. This is formalized as
+
+Phonological Process 8. Phonological Process 8. /kw/Æ/k/ /_[-at]
+
+This process can be seen in examples (221) to (224).
+
+(221) hwitsuqw
+
+‘palm tree (palmera)’
+
+/hwitsukw/
+
+(222) hwitsuqat
+
+‘palm trees (palmeras)’
+
+/hwitsukw-at/
+
+[hwitsuq-at]
+
+(De-labialization of /kw/ via Phonological Process 8
+
+allophone [q])
+
+palm.tree-pl
+
+(223) atsuqw
+
+‘type of tree [lit. “green stick”] (palo verde)’
+
+/atsukw/
+
+99
+
+(224) atsuqat
+
+‘type of tree [pl] [lit. “green sticks”] (palos verdes)’
+
+/atsukw-at/
+
+[atsuq-at]
+
+(De-labialization of /kw/ via Phonological Process 8,
+
+allophone [q])
+
+type.of.tree-pl
+
+4.8. Orthography
+
+Wichí has a well-developed orthographic system, which has been briefly
+
+overviewed above in Section 2.6. The following sections discuss the history of the
+
+Wichí orthography (Section 4.8.1), provide some comments on the orthography (Section
+
+4.8.2), and examine deviations from phonemic spellings (Section 4.8.3).
+
+4.8.7. Brief History of Orthographic System
+
+The first orthographic systems for Wichí were developed by missionaries and
+
+were based on the writing system of the language of the missionaries. For example,
+
+Hunt’s (1940) writing system was based on English and Spanish. Recently, the Wichí
+
+have decided to create their own writing system free of Spanish influence. The
+
+reasoning is illustrated by the following quote from Buliubasich et al. (2004), which
+
+discusses some of the language workshops held by the Wichí: “Se rechazaban
+
+enérgicamente las sugerencias de que las ortografías actuales representan una
+
+100
+
+interpretación “inglesa”, y se afirmaba el derecho de los wichi a tener su propia ortografía diferente del castellano, ya que es otro idioma” [The suggestions were energetically rejected that the current orthographies actually represented an “English” interpretation, and the right of the Wichí to have their own orthography different from Spanish, since it is another language, was affirmed] (p. 22).
+This same book has en excellent chart that compares nine different orthographies; this chart is replicated in Table 13. Note that in this table, /a/, /e/, /i/, /o/, and /u/ are consistent across all authors. An additional thing to note is that there is no grapheme to represent the low back unrounded vowel /ɑ/, which may be an accidental omission on the part of the authors. It is also possible that /ə/ corresponds to /ɑ/. Unfortunately, it is not clear.
+101
+
+Table 13. Buliubasich et al.’s Comparison of Wichí Orthographies
+
+Phoneme A1a A2 a S a
+
+/a/
+
+aa a
+
+/e/
+
+ee e
+
+/i/
+
+ii i
+
+/o/
+
+oo o
+
+/u/
+
+uu u
+
+/x/
+
+jj j
+
+/l/
+
+ll l
+
+/m/
+
+mm m
+
+/n/
+
+nn n
+
+/p/
+
+pp p
+
+/s/
+
+ss s
+
+/t/
+
+tt t
+
+/k/
+
+kk k
+
+/w/
+
+ww w
+
+/y/
+
+yy y
+
+/V̥ /
+
+hh h
+
+/ts/
+
+ts ts ts
+
+/č/
+
+ch ch ch
+
+/xw/
+
+fw fw fw
+
+/kw/
+
+kw kw kw
+
+/y/̥̃
+
+ñ yh ñh
+
+/Ɂ/
+
+’’ ’
+
+/ɫ/
+
+th lh lh
+
+/ə/
+
+öä
+
+/õ/
+
+õõ
+
+/pɁ/
+
+p’ p’
+
+/ph/
+
+ph ph
+
+/tɁ/
+
+t’ t’
+
+/th/
+
+th th
+
+/kɁ/
+
+k’ k’
+
+/kh/
+
+kh kh
+
+Ga
+
+Ba
+
+Pa La Ma Ca
+
+a
+
+a
+
+aa a
+
+a
+
+e
+
+e
+
+ee e
+
+e
+
+i
+
+i
+
+ii i
+
+i
+
+o
+
+o
+
+oo o
+
+o
+
+u
+
+u
+
+uu u
+
+u
+
+j
+
+j
+
+jj j
+
+j
+
+l
+
+l
+
+ll l
+
+l
+
+mm
+
+mm m m
+
+n
+
+n
+
+nn n
+
+n
+
+p
+
+p
+
+pp p
+
+p
+
+s
+
+s
+
+ss s
+
+s
+
+t
+
+t
+
+tt t
+
+t
+
+k
+
+k(q) k k c/qu c
+
+ww
+
+w w/u u
+
+w
+
+y
+
+y
+
+y i/y i
+
+y
+
+h/h’ h
+
+hh j
+
+h
+
+ts ts
+
+ts ts ch ts
+
+ch ky
+
+ch
+
+qui č
+
+fu/uf jw
+
+fw ju ju
+
+ku/uk kw
+
+kw ku cu/qu
+
+ñh yh
+
+ñh ñ ñ
+
+ñ
+
+’
+
+’
+
+’,
+
+,
+
+lh lh
+
+th tl zl £
+
+a
+
+õ
+
+p’ p’
+
+p’
+
+ph ph
+
+t’
+
+t’
+
+t’
+
+th th
+
+t’h
+
+k’ k’ (q’)
+
+kh kh (qh)
+
+102
+
+/čɁ/
+
+ch’ ch’ ch’ ky’
+
+/čh/
+
+chh chh chh kyh
+
+/tsɁ/
+
+ts’ ts’ ts’ ts’
+
+/tsh/
+
+tsh tsh tsh tsh
+
+/m̥ /
+
+mh mh mh mh
+
+/n̥/
+
+nh nh nh nh
+
+/w̥ /
+
+wh wh wh wh
+
+/ɁC/
+
+‘C C’ C’ ‘C/C’
+
+/š/
+
+sh
+
+Note: From Buliubasich, C., Drayson, N., & Molina de Bertea, S. (2004). Las palabras de la
+
+gente (2nd ed.). Salta, Salta, Argentina: Centro Promocional de Investigaciones en Historia y
+
+Antropología (CEPIHA), Instituto de Investigación de la Facultad de Humanidades,
+
+Universidad Nacional de Salta.
+
+aNote from Buliubasich et al. (2004): A1=Anglicanos 1961; A2 Anglicanos 1992;
+
+S=Sauzalito; G=Gustavo Salvatierra; B=Bolivia; P=Potrillo; L=Laguna Yema;
+
+M=Mosconi; C=Consejo de Educación (Salta)
+
+After comparing the above orthographies and consulting with linguists, the
+
+Wichí community settled on the following vowels for their orthography: a, e, o, i, u
+
+(Buliubasich et al., 2004, p. 9). The consonants they selected are ch, ch’, ch”, fw, h, j, k,
+
+k’, k”, kw, l, m, mh, n, nh, p, p’, ph, s, t, t’, th, ts, ts’, tsh, w, wh, y, yh. There are also
+
+eight regional variants: ä, ë, ky, ky’, kyh, ñh, õ, and sh (p. 8). Unfortunately, the authors
+
+103
+
+do not clearly define which Wichí communities use these regional variants, nor do they include examples. 4.8.8. Comments on Orthographic System
+The Buliubasich et al. (2004) orthography was written and approved by representatives from many different Wichí communities with the help of linguists. It is currently being taught and used in schools by bilingual aides. 4.8.9. Deviations From Phonemic Spelling
+Overall, the unified alphabet found in Buliubasich et al. (2004, pp. 8-9) hardly deviates from the phonemic spellings of Wichí words. One of the main differences is that the orthography notes aspiration by using an h following the aspirated consonant. This is an important difference because aspiration is not phonemic in Wichí (see Section 4.1.2.1 above). Another difference is the use of an apostrophe (’) to signify a glottal stop. This is done for convenience, since the symbol for the glottal stop (Ɂ) is not found on keyboards. 4.9. Conclusion
+As we have seen in this chapter, the variety of Wichí spoken in the vicinity of Misión La Paz differs from the varieties analyzed by authors such as Hunt (1940), Viñas Urquiza (1970 and 1974), Tovar (1981), and Claesson (1994). Some of these
+104
+
+differences may be due to actual differences between dialects of Wichí, and others may be due to different analyses of the data. Further research is required to determine this.
+Regardless of any confusion, what is clear is that Wichí phonology exhibits some unusual traits, such as spontaneous nasalization of vowels in the environment of /h/, which is not unknown in the world’s languages but is quite rare. The formation of voiceless nasals from the underlying existence of /h/ plus a nasal is also not entirely unusual, but voiceless nasals are not at all common in the world’s languages. Additionally, the fact that the voiceless uvular stop [q] allophone of the voiceless velar stop /k/ can occur before the high front vowel /i/, as well as finally and with the low back unrounded vowel [ɑ], is unexpected and unusual. I hope that data such as these will contribute to a broader understanding of what is and is not possible in the sound systems of the world’s languages.
+105
+
+Chapter 5. CONCLUSIONS This study offers some insights into the phonetics and phonology of the Misión
+La Paz dialect of Wichí. It provides an overview of the literature available on Wichí phonology, and it discusses the phones and phonemes found in the variety of Wichí spoken in the vicinity of Misión La Paz, Salta, Argentina. This study also highlights some interesting phonetic and phonological traits that are uncommon in the world’s languages. However, in order to get a clearer understanding of this and other dialects of Wichí, additional research must be done.
+This thesis was, by necessity, limited in scope; it examined just one dialect of Wichí, and there were mainly two principal consultants, one male and one female, who were fairly close in age. The next step is to expand this research to include more consultants from several Wichí communities throughout Argentina and Bolivia, in order to determine better where the dialect boundaries lie and what their differences may be. Hopefully, future studies will be larger in scope and will be able to employ consultants of a variety of ages and, like the present study, of both genders.
+Using a more diverse pool of consultants would allow researchers to determine if there are differences in the speech of elders versus the younger generations, who have been more fully immersed in Spanish in schools. For example, my data show that [ɑ] is
+106
+
+not a phoneme of this dialect of Wichí and is, instead, an allophone of /a/. Consulting with more elders from Misión La Paz would enable us to see if this is truly a dialect difference, or if younger speakers simply do not have the distinction between /ɑ/ and /a/, possibly due to the intrusion of Spanish, which only has /a/, or possibly as a result of natural language change within Wichí. We can note that older speakers of Chulupí contrast /a/ and /ɑ/, but the two vowels are merged in the speech of most younger persons, who have lost the contrast (L. Campbell, personal communication). It is possible that the local dialect of Wichí has undergone a similar development.
+Additionally, this thesis focused only on the phonetics and phonology of Wichí. Additional research needs to be done on other aspects of the language, such as morphology and syntax, in order to see what Wichí can teach us about the human language faculty. It is important that Wichí and other endangered languages be documented as soon as possible because the world’s languages are disappearing at an alarming rate.
+Thankfully, there are other researchers currently working on Wichí, so we will be able to learn more about this fascinating language. Also, as evidenced by works such as Buliubasich et al. (2004) and Segovia (2005), the Wichí community is embracing its language. Their language preservation efforts are starting to pay off, and, hopefully,
+107
+
+Wichí can be a success story of what can happen when a community embraces its language and fights for its survival.
+108
+
+REFERENCES Abya Yala News. (2006). Wichí: fighting for survival in Argentina. Abya Yala News.
+Confronting cultural extinction. 10 (2), Summer 1996. Retrieved October 24, 2008, from http://saiic.nativeweb.org/ayn/wichi.html Braunstein, J. A. (1996). Clasificación de las lenguas y pueblos del Gran Chaco. Lenguas indígenas de Argentina 1492-1992, ed. by Eusebia H. Martín and Andrés Pérez Diez, 19-32. (Instituto de Investigaciones Lingüísticas y Filológicas “Manuel Alvar”.) San Juan: Editorial Fundación Universidad Nacional de San Juan. Braunstein, J.A. & Miller, E.S. (1999). Ethnohistorical introduction. In E.S. Miller (Ed.), Peoples of the Gran Chaco (pp.1–22). Westport, CT: Bergin and Garvey. Buliubasich, C., Drayson, N., & Molina de Bertea, S. (2004). Las palabras de la gente (2nd ed.). Salta, Salta, Argentina: Centro Promocional de Investigaciones en Historia y Antropología (CEPIHA), Instituto de Investigación de la Facultad de Humanidades, Universidad Nacional de Salta. Campbell, L., & Grondona, V. (2007). Internal reconstruction in Chulupí (Nivaclé). Diachronica 24.1-29.
+109
+
+Chacolinks. (2008). The Wichí of northern Argentina. Retrieved October 24, 2008, from http://www.chacolinks.org.uk/newsletter2.asp?News_ID=35&page=newsletter
+Claesson, K. (1994). A phonological outline of mataco noctenes. International Journal of American Linguistics 60. 1-38.
+EMELD School of Best Practices. (2008). Endangered languages / Endangered documentation. Retrieved October 12, 2008, from http://emeld.org/school/ index.html
+Ethnologue. (2008). Mataco-Guaicuru, Mataco. Retrieved July 6, 2008, from http://www.ethnologue.com/show_family.asp?subid=90671
+Hunt, R.J. (1940). Mataco Grammar. Tucumán: Universidad Nacional de Tucumán. Krauss, M. (1992). The world's languages in crisis. Language 68 (1), 4-10. Living Tongues Institute for Endangered Languages. (2007). Endangered languages
+history. Retrieved October 12, 2008, from http://www.livingtongues.org/ background.html El Paso Internacional Misión La Paz - Pozo Hondo - Salta. (2006). Retrieved September 13, 2008, from http://www.todoturismo.com.ar/el-paso-internacional-mision-lapaz-pozo-hondo-salta/
+110
+
+Metraux A. (1946). Ethnography of the Gran Chaco. In: J Steward (Ed.). Handbook of South American Indians. Volume 1, part 2, Indians of the Gran Chaco. Bureau of American Ethnology Bull. 143. Washington, DC: Smithsonian Institution. pp. 197–370.
+Segovia, L. (2005). Otichunaj lhayis tha oihi tewok: Memorias del Pilcomayo. Salta, Salta, Argentina: Secretaría de Cultura de la Provincia de Salta.
+Shapiro, S. (1960). The Mataco of Northern Argentina. Journal of Inter-American Studies 2 (4). 442-448.
+Survival International. (2008). Wichí. Retrieved online October 24, 2008, from http://www.survival-international.org/tribes/wichi
+Tompkins, B.A. (1940). Prologue. In Hunt, R.J. Mataco Grammar. Tucumán: Universidad Nacional de Tucumán.
+Tovar, A. (1981). Relatos y diálogos de los matacos seguidos de una gramática de su lengua. Madrid: Ediciones Cultura Hispánica. Instituto de Cooperación Iberoamericana.
+Viñas Urquiza, M.T. (1970). Fonología de la Lengua Mataca. Cuadernos de Lingüística Indígena 7. Buenos Aires: Universidad de Buenos Aires.
+111
+
+Viñas Urquiza, M.T. (1974). Lengua Mataca, Buenos Aires, Argentina: Universidad de Buenos Aires, Facultad de Filosofía y Letras, Centro de Estudios Lingüísticos.
+112
+
+APPENDICES 113
+
+APPENDIX A. Map of Research Area 114
+
+APPENDIX B. Human Subjects Institutional Review Board (IRB) Approval Letter 115
+
+

@@ -1,0 +1,2203 @@
+unesp
+
+UNIVERSIDADE ESTADUAL PAULISTA
+“JÚLIO DE MESQUITA FILHO”
+Faculdade de Ciências e Letras Campus de Araraquara - SP
+
+MATEUS CRUZ MACIEL DE CARVALHO
+
+ANÁLISE FONOLÓGICA DA LÍNGUA DENI (ARAWÁ)
+
+Arquivo disponível para download em http://www.etnolinguistica.org/tese:carvalho_2013
+
+ARARAQUARA – S.P.
+2013
+
+MATEUS CRUZ MACIEL DE CARVALHO
+ANÁLISE FONOLÓGICA DA LÍNGUA DENI (ARAWÁ)
+Dissertação de Mestrado apresentada ao Programa de Pós-Graduação em Linguística e Língua Portuguesa da Faculdade de Ciências e Letras – Unesp/Araraquara, como requisito para obtenção do título de Mestre em Linguística e Língua Portuguesa. Linha de pesquisa: Análise fonológica, morfossintática, semântica e pragmática. Orientador: Cristina Martins Fargetti Bolsa: Fundação de Amparo à Pesquisa do Estado de São Paulo
+ARARAQUARA – S.P. 2013
+
+Carvalho, Mateus Cruz Maciel de Análise fonológica da língua Deni (Arawá) / Mateus Cruz
+Maciel de Carvalho. – 2013 108 f. ; 30 cm
+Dissertação (Mestrado em Linguística e Língua
+Portuguesa) – Universidade Estadual Paulista, Faculdade de
+Ciências e Letras, Campus de Araraquara
+Orientador: Cristina Martins Fargetti
+l. Linguística. 2. Língua indígena. 3. Índios – Línguas – Fonologia. I. Título.
+
+MATEUS CRUZ MACIEL DE CARVALHO
+ANÁLISE FONOLÓGICA DA LÍNGUA DENI (ARAWÁ)
+Dissertação de Mestrado apresentada Programa de Pós-Graduação em Linguística e Língua Portuguesa da Faculdade de Ciências e Letras – UNESP/Araraquara, como requisito para obtenção do título Mestre em Linguística e Língua Portuguesa.
+Linha de pesquisa: Análise fonológica, morfossintática, semântica e pragmática. Orientador: Cristina Martins Fargetti Bolsa: Fundação de Amparo à Pesquisa do Estado de São Paulo
+Data da defesa: 28/02/2013
+MEMBROS COMPONENTES DA BANCA EXAMINADORA:
+
+Presidente e Orientador: Cristina Martins Fargetti, Doutora Universidade Estadual Paulista “Júlio de Mesquita Filho”.
+
+Membro Titular:
+
+Gladis Massini-Cagliari, Doutora Universidade Estadual Paulista “Júlio de Mesquita Filho”.
+
+Membro Titular:
+
+Angel Humberto Corbera Mori, Doutor Universidade Estadual de Campinas.
+
+Local: Universidade Estadual Paulista Faculdade de Ciências e Letras UNESP – Campus de Araraquara
+
+Aos meus pais Jair Maciel de Carvalho (in memorian) e Rosa Saraiva Cruz de Carvalho.
+
+AGRADECIMENTOS
+À Fundação de Amparo à Pesquisa do Estado de São Paulo – FAPESP (processo 2011/033447), pelo apoio financeiro. Esse apoio foi importante para a realização da pesquisa e dos trabalhos de campo.
+À Fundação Nacional do Índio – FUNAI, por ter permitido o ingresso à Terra Indígena Deni para a realização desta pesquisa. Em especial, à Coordenação Regional do Purus, por terem me recebido com carinho e me auxiliado.
+Aos funcionários da Biblioteca e do Programa de Pós-Graduação em Linguística e Língua Portuguesa da Faculdade de Ciências e Letras de Araraquara, da Universidade Estadual Paulista “Júlio de Mesquita Filho”, pela atenção e eficiente atendimento.
+Ao povo Deni pelo acolhimento, carinho e confiança. Agradeço, de forma especial, aos Deni da aldeia Cidadezinha, onde fiquei durante o trabalho de campo. Sou muito grato pela disponibilidade e dedicação que tiveram comigo; isso foi fundamental para o desenvolvimento do trabalho.
+À professora Cristina Martins Fargetti (orientadora) pela dedicação e paciência durante a realização desta pesquisa. Suas riquíssimas contribuições e sugestões tiveram grande importância para o desenvolvimento da pesquisa.
+Aos professores Angel Humberto Corbera Mori e Gladis Massini-Cagliari por terem aceito participar da defesa. Agradeço imensamente pelos conhecimentos transmitidos e pela riquíssima contribuição que trouxeram a esta dissertação.
+Às professoras Mônica Veloso Borges e Rosane de Andrade Berlinck por terem participado, enquanto suplentes, da banca de defesa da dissertação.
+Aos professores do Programa de Pós-Graduação em Linguística e Língua Portuguesa da UNESP – FCLAr, que contribuíram tanto a para esta pesquisa quanto para minha formação acadêmica.
+Aos queridos professores e amigos Wagner Corsino, Vânia Maria Lescano Guerra e Marlene Durigan por todo o apoio e incentivo durante a graduação.
+Aos colegas Marcelo Pedro Florido, Flávia de Freitas Berto, Adriana Viana Postigo e Juliana Mondini, pela valiosa ajuda e apoio durante a realização deste trabalho.
+À Ana Carla Lelis, por todo o incentivo e apoio antes ainda da pesquisa começar.
+À amiga Pricila Balan Picinato, por todos os momentos de alegrias que me proporcionou com seu convívio.
+Aos tios, tias, primos, primas, avós, enfim, a toda a minha família que entendeu minha ausência e contribuiu, cada um à sua maneira, para a pesquisa.
+
+Aos meus irmãos Marcelo Cruz Maciel de Carvalho e Marcella Cruz Maciel de Carvalho e ao sobrinho Vitor Hugo de Carvalho Maia, pelo esforço, carinho, companheirismo, enfim, pelo amor dedicado a mim desde sempre.
+Ao meu pai Jair Maciel de Carvalho, que, mesmo não estando materialmente perto, espiritualmente tem me protegido e tem feito minha caminhada mais serena.
+Por fim, mas não em ínfimo lugar, agradeço à minha amada mãe Rosa Saraiva Cruz de Carvalho, quem certamente merece minha eterna gratidão e meu eterno amor.
+
+“A linguagem está em toda a parte. Impregna nossos pensamentos, é intermediária em nossas relações com os outros, e se insinua até em nossos sonhos.”
+Ronald Wayne Langacker (1972, p.11)
+
+RESUMO
+Este trabalho apresenta um estudo sobre o inventário fonológico da língua indígena Deni, pertencente à família Arawá, falada no estado Amazonas. A língua Deni conta com aproximadamente 1200 falantes distribuídos em nove aldeias, sendo seis no rio Cuniuá e três no rio Xeruã. A metodologia usada aqui segue os passos tradicionais de pesquisa de campo com falantes nativos. O presente trabalho contém, além de um texto introdutório e uma conclusão, seis seções que apresentam: 1 os aspectos teórico-metodológicos que embasaram a pesquisa; 2 a organização genética das línguas Arawá, além da localização da Terra Indígena Deni e distribuição das aldeias; 3 a análise dos fonemas feita seguindo as técnicas de identificação de fonemas propostas por Pike (1971 [1947]); 4 o estudo da estrutura silábica feito de acordo com a fonologia não-linear, como Goldsmith (1990) e Kenstowicz (1995), que possibilitou identificar que a língua Deni apresenta os padrões silábicos V e CV; 5 classificação tipológica do acento, de acordo com a proposta de Hayes (1995), tendo-o como fixo, caindo sobre a última sílaba à direita; 6 uma análise dos processos morfofonológicos encontrados na língua Deni, da perspectiva da geometria de traços de Clements e Hume (1995).
+Palavras-chave: Língua Deni. Família Arawá. Fonologia.
+
+ABSTRACT
+This work presents a study about the phonological inventory of the Deni indigenous language, belonging to the Arawá family, spoken in Amazonas state. The Deni language has approximately 1200 speakers in nine villages, six on the Cuniuá river and three on the Xeruã river. The methodology used here follows the traditional steps of fieldwork with native speakers. This work contains, besides introductory text and a conclusion, six sections which present: 1 the theoretical and methodological aspects that support the research; 2 the genetic organization of Arawá languages and the location of Deni Indigenous Land and distribution of villages; 3 phoneme analysis done using the standard techniques to identify phonemes proposed by Pike (1971 [1947]); 4 study of syllabic structure made according to the nonlinear phonology, like Goldsmith (1990) and Kenstowicz (1995), wich identified that the Deni language has the syllabic patterrns V and CV; 5 typological classification of stress, according to Hayes‟ (1995) proposal, taking it as fixed, falling on the last syllable to the right; 6 an analysis of morphophonological processes found in Deni language, following the perspective of feature geometry phonology proposed by Clements e Hume (1995).
+Keywords: Deni language. Arawá family. Phonology.
+
+Mapa 1 Mapa 2
+
+LISTA DE MAPAS
+
+Mapa dos povos e línguas faladas na região Juruá-Purus extraído de 29
+
+Melatti (2012).
+
+Localização da Terra Indígena Deni. Extraído de Pezzuti e Chavez
+
+31
+
+(2009).
+
+LISTA DE FIGURAS
+
+Figura 1 Relações genéticas da família linguística Arawá segundo Dienst
+
+27
+
+(2008, p. 16).
+
+Figura 2 Relações genéticas da família lingüística Arawá segundo Everett
+
+28
+
+(1995, p. 298).
+
+LISTA DE QUADROS
+
+Quadro 1 Fones consonantais.
+
+42
+
+Quadro 2 Fonemas consonantais.
+
+56
+
+Quadro 3 Fones vocálicos.
+
+57
+
+Quadro 4 Fonemas vocálicos.
+
+61
+
+LISTA DE TABELAS
+
+Tabela 1 População Deni em 2010, de acordo com a FUNASA
+
+32
+
+LISTA DE ABREVIATURAS E SIGLAS
+
+ C V R Co N O   ~ .   || ‘’ CAI S W SIL IBGE AM FUNASA . x ProPal ProComp * UNICAMP UnB USP
+
+Sílaba Consoante Vogal Rima silábica Coda silábica Núcleo silábica Onset Acento primário
+Acento secundário
+Varia com Fronteira silábica Representação fonética
+Representação fonológica Representação mórfica Tradução livre Contraste em Ambiente Idêntico Forte Fraco Summer Institute of Linguistics Instituto Brasileiro de Geografia e Estatística Amazonas Fundação Nacional da Saúde Sílaba átona Sílaba proeminente Proeminência na palavra Proeminência no composto Agramatical Universidade Estadual de Campinas Universidade de Brasília Universidade de São Paulo
+
+UNESP UFG UFAM
+
+Universidade Estadual Paulista “Júlio de Mesquita Filho” Universidade Federal de Goiás Universidade Federal do Amazonas
+
+SUMÁRIO
+
+INTRODUÇÃO
+
+19
+
+1 ASPECTOS TEÓRICO-METODOLÓGICOS
+
+23
+
+1.1 Materiais e métodos
+
+23
+
+1.2 Sobre o aporte teórico
+
+24
+
+2 A FAMÍLIA LINGUÍSTICA ARAWÁ E O POVO DENI
+
+26
+
+2.1 A família linguística Arawá
+
+26
+
+2.2 O povo Deni e sua localização
+
+30
+
+2.3 Estudos linguísticos anteriores
+
+33
+
+3 FONÊMICA SEGMENTAL
+
+39
+
+3.1 Os sons da linguagem: fonética e fonologia
+
+39
+
+3.2 Análise fonológica: técnicas de identificação de fonemas
+
+40
+
+3.2.1 Fones consonantais
+
+42
+
+3.2.1.1 Sons consonantais foneticamente semelhantes
+
+50
+
+3.2.1.2 Contraste e variação entre os sons consonantais
+
+51
+
+3.2.2 Fones vocálicos
+
+56
+
+3.2.2.1 Sons vocálicos foneticamente semelhantes
+
+59
+
+3.2.2.2 Contraste e variação entre os sons vocálicos
+
+59
+
+3.3 Resultados alcançados nesta seção
+
+61
+
+4 A SÍLABA
+
+62
+
+4.1 O que é sílaba?
+
+62
+
+4.2 A sílaba como unidade fonológica
+
+63
+
+4.3 A sílaba na língua Deni
+
+64
+
+4.4 Restrição fonotática
+
+72
+
+4.4.1 Restrição do /v/ antes do /u/
+
+72
+
+4.5 Resultados alcançados nesta seção
+
+73
+
+5 O ACENTO
+
+74
+
+5.1 Considerações sobre o acento na teoria métrica
+
+74
+
+5.1.1 Propriedades tipológicas do acento
+
+75
+
+5.2 O acento na língua Deni
+
+76
+
+5.2.1 O acento em palavras simples
+
+77
+
+5.2.2 O acento em palavras compostas
+
+80
+
+5.3 Resultados alcançados nesta seção
+
+82
+
+6 PROCESSOS MORFOFONOLÓGICOS
+
+83
+
+6.1 O que são processos morfofonológicos?
+
+83
+
+6.2 Geometria de traços: considerações teóricas
+
+83
+
+6.3 Processos morfofonológicos: a análise de Moran e Moran (1977)
+
+85
+
+6.4 Assimilação
+
+88
+
+6.5 Epêntese
+
+94
+
+6.6 Haplologia
+
+98
+
+6.7 Resultados alcançados nesta seção
+
+102
+
+CONSIDERAÇÕES FINAIS
+
+103
+
+REFERÊNCIAS
+
+105
+
+19
+INTRODUÇÃO
+É canônica a história de que o Brasil começa com o “descobrimento” feito pelos portugueses em 1500. Logo depois do desembarque, os portugueses puderam ver que a terra recém-“descoberta” era habitada por índios e, portanto, eles não eram os primeiros muito menos os únicos a pisarem naquela terra. Ainda no primeiro século do período colonial veio a exploração do interior do país; atrelada a ela veio o conhecimento de que ali havia muitos povos de diferentes línguas, e não apenas aqueles que viviam na região costeira com quem tinham sido feitos os primeiros contatos.
+Cardin (1978 [1584] apud RODRIGUES, 2005) fez uma relação antes de se completar um ano da chegada dos portugueses às terras hoje brasileiras: 76 povos indígenas, falando 65 línguas distintas, que se encontravam numa estreita faixa paralela à costa leste, desde o rio São Francisco, ao Norte, até o Rio de Janeiro, ao Sul. Essa relação de Cardin serviu como ponto de partida para a estimativa de Rodrigues (2005) de que eram faladas, à época do “descobrimento”, 1.200 línguas no território brasileiro.
+O quadro retratado por Cardin (1584, p. 101-3 apud ROSA, 2003, p. 136) mostra a dificuldade em mencionar o número de línguas faladas no Brasil no momento da chegada dos portugueses:
+Em toda esta provincia ha muitas e varias nações de diferentes linguas, porém uma é a principal que comprehende algumas dez nações de Indios; estes vivem na costa do mar, e em uma corda do sertão, porém são todas estes de uma só lingua ainda que em algumas palavras discrepão e esta é a que entendem os Portuguezes.
+Todas estas nações acima ditas, ainda que diferentes, e muitas dellas contrarias umas das outras, têm a mesma língua, e nestes se faz a conversão. (Itálico da autora. Negrito meu.)
+A relação e o quadro retratado por Cardin (1584) são argumentos consistentes para se afirmar que muitas línguas eram faladas no Brasil em 1500. Para Altman (2003, p. 57), “dependendo do critério utilizado para se distinguir „língua‟ de „variedade de língua‟, o número pode variar na literatura sobre as línguas sul-americanas, mas nunca será de baixas proporções”.
+Atualmente, Rodrigues (2002) considera que são faladas no Brasil cerca de 181 línguas indígenas. Moore et al (2008, p. 1) dizem que, “embora 180 venha sendo repetido com freqüência como o total de línguas de línguas indígenas brasileiras, pelo critério de
+
+inteligibilidade mútua, a soma dificilmente ultrapassa 150”. Os resultados do último censo divulgado pelo Instituto Brasileiro de Geografia e Estatística – IBGE mostram que há 896,9 mil índios de 305 etnias falando 274 línguas. A inexatidão quanto ao número de línguas indígenas faladas no Brasil se deve à relatividade dos conceitos de “língua” e “dialeto”, visto que, muitas vezes, a distinção entre “língua” e “dialeto‟ é mais política que propriamente linguística.
+Os estudos referentes às línguas indígenas tiveram grande contribuição para o desenvolvimento da Teoria Linguística Geral. Os pioneiros nos estudos sobre tais línguas foram Franz Boas e Edward Sapir; eles tiveram grande importância para o desenvolvimento da Linguística enquanto ciência. No Brasil, a pesquisa em linguística indígena ainda é recente. O fato de que em 1595 José de Anchieta publicou uma gramática do Tupi pode nos conduzir ao equívoco de imaginar que as línguas indígenas brasileiras vêm sendo estudadas há muito tempo. Nos primeiros quatro séculos, foi feito pouquíssimo sobre essas línguas. Geralmente eram feitos vocabulários bilíngues que tinham por objetivo ajudar na comunicação.
+Foi a partir de 1958, com a chegada do Summer Institute of Linguistics – SIL –, que as línguas indígenas brasileiras começaram a ser estudadas sistematicamente. Entretanto, foi só a partir da década de 1980 que a linguística indígena passou a experimentar um grande desenvolvimento no Brasil (SEKI, 2000). O estudo científico das línguas indígenas brasileiras, portanto, é recente e o número de pesquisadores dedicados a ele ainda é pequeno.
+A partir da década de 1980, como salientou Seki (2000), é notável o crescimento de estudiosos dedicados à pesquisa com as línguas indígenas brasileiras. Além do interesse dos pesquisadores brasileiros que trabalham em Universidades públicas (UNICAMP, UnB, USP, UNESP, UFG, UFAM, entre outras), as línguas indígenas brasileiras têm sido alvo de pesquisadores estrangeiros, como Alexandra Aikhenvald, Robert Dixon, Spike Gildea, Denny Moore, Daniel Everett.
+Sendo assim, este trabalho busca contribuir com os estudos referentes às línguas indígenas brasileiras, tendo em vista que a língua aqui estudada, o Deni, possui apenas estudos preliminares, sendo a maioria manuscritos feitos por missionários do SIL. O SIL publicou alguns desses manuscritos em versão on-line: “Dicionário Deni-Português” (KOOP, G; KOOP, L, 2008); “Deni verb endings” (KOOP, G., 1980); “Os afixos pessoais em Deni” (KOOP, 2011a); “Process and roles in Deni clause structure” (KOOP, 2011b); “Notas sobre morfologia verbal Deni” (MORAN, P.; MORAN, D.,
+
+21
+1977). Tais estudos realizados pelos missionários do SIL não contemplam um estudo fonológico básico sobre a língua Deni, tal como este.
+Para este trabalho, foram realizadas duas pesquisas de campo junto a falantes nativos da língua Deni. O primeiro trabalho de campo foi realizado na última semana do mês de julho e na primeira semana do mês de agosto de 2011, na cidade de Lábrea – AM, quando alguns Deni lá estavam para fazer documentos que permitem a eles receber auxílios financeiros do governo. O segundo trabalho de campo foi realizado de 15 de novembro de 2011 a 5 de janeiro de 2012 na cidade de Lábrea – AM e na aldeia Cidadezinha, primeira aldeia Deni no rio Cuniuá.
+A metodologia usada no trabalho de campo seguiu os passos tradicionais da coleta de dados lingüísticos junto a falantes nativos. Os dados foram gravados em gravador digital para que pudessem ser armazenados e, dessa forma, possíveis dúvidas durante a análise pudessem ser sanadas com a consulta a esses dados. Os dados foram transcritos foneticamente no momento da coleta; usei também a técnica de repetir as palavras durante a coleta buscando maior exatidão na transcrição, tal como foi proposto por Massini-Cagliari e Cagliari (2001).
+O presente trabalho está organizado, além desse texto introdutório e de uma conclusão ao final, em seis seções: 1 Aspectos teórico-metodológicos; 2 A família linguística Arawá e o povo Deni; 3 Fonêmica segmental; 4 A sílaba em Deni; 5 O acento; 6 Processos morfofonológicos.
+Na seção 1 Aspectos teórico-metodológicos, são apresentados os procedimentos metodológicos utilizados no desenvolvimento da pesquisa, além das correntes teóricas que embasaram as análises de cada aspecto da fonologia da língua Deni.
+Na seção 2 A família linguística Arawá e o povo Deni, apresento as propostas de organização genética das línguas Arawá das perspectivas de Dixon (1999), Deinst (2008) e Everett (1995), bem como a localização da Terra Indígena Deni (PEZZUTI; CHAVEZ, 2009) e a distribuição das aldeias. Nessa seção são apresentadas também algumas informações sobre o processo de demarcação da Terra e o número de índios Deni, tal como disponibilizado pela Fundação Nacional de Saúde – FUNASA para o ano de 2010 e o censo do Instituto Brasileiro de Geografia e Estatística – IBGE para o ano de 2012.
+Na seção 3 Fonêmica segmental, apresento os fones consonantais e vocálicos encontrados na língua Deni, assim como a aplicação das técnicas de identificação de
+
+fonemas propostas por Pike (1947 [1971]), o que levou aos fonemas de tal língua. As tabelas dos fones e fonemas vocálicos e consonantais também estão presentes.
+Na seção 4 A sílaba em Deni, apresento os padrões silábicos da língua Deni seguindo a teoria não-linear de Kenstowicz (1994) e Goldsmith (1990). Além de trazer exemplos de divisão silábica, essa seção apresenta a aplicação da planilha silábica da teoria não-linear em palavras da língua Deni.
+A seção 5 O acento apresenta uma classificação tipológica do acento na língua Deni seguindo a perspectiva da teoria métrica do acento de Hayes (1995). Além disso, há a aplicação da grade métrica proposta por Hayes (1995) para a análise do acento em palavras simples e compostas na língua Deni.
+Na seção 6 Processos morfofonológicos, há uma hipótese a respeito do processo de harmonia vocálica que ocorre com alguns substantivos possuídos1 na língua Deni. Devido às limitações deste trabalho, apresento apenas uma hipótese para explicação desse processo. Há, ainda, uma discussão sobre os processos de Epêntese e Síncope.
+Este trabalho apresenta, portanto, uma análise do inventário fonológico da língua Deni que contribui para as pesquisas sobre as línguas indígenas brasileiras assim como para o conhecimento científico das línguas da família Arawá. Além de servir de subsídio para pesquisas posteriores na língua Deni e para estudos comparativos sobre a família linguística Arawá, este trabalho pode servir de base para a elaboração de materiais didáticos na língua Deni e, dessa forma, contribuir para a educação escolar bilíngue nas aldeias de tal etnia.
+1 Os substantivos possuídos são substantivos que devem, obrigatoriamente, aparecer com um morfema indicador de posse.
+
+23
+1 ASPECTOS TEÓRICO-METODOLÓGICOS
+Esta seção apresenta os materiais e métodos utilizados no desenvolvimento da pesquisa. Além disso, são apresentadas aqui as teorias utilizadas para a análise de cada aspecto da fonologia da língua Deni.
+1.1 Materiais e métodos
+A pesquisa aqui apresentada envolveu dois momentos fundamentais: o primeiro deles foi a coleta e transcrição dos dados e o segundo foi a análise de tais dados. Para a coleta dos dados, foram realizados dois trabalhos de campo. O primeiro, que foi também o primeiro contato pessoal com os Deni, durou 15 dias e foi realizado na cidade de Lábrea-AM, quando alguns Deni lá estavam para fazer documentos que permitem receber auxílios do governo. O segundo trabalho de campo foi de 15 de novembro de 2011 a 5 de janeiro de 2012, tanto em Lábrea-AM quanto na aldeia Cidadezinha, primeira aldeia Deni no rio Cuniuá.
+Os dados coletados no primeiro trabalho de campo possibilitaram, além da familiarização com o sistema sonoro da língua, o levantamento das primeiras questões e hipóteses. Isso foi importante para que o segundo trabalho de campo fosse bastante produtivo, pois, com os primeiros dados em mãos e o período de três meses entre o primeiro trabalho de campo e o segundo, pude elaborar uma proposta de trabalho mais específica e buscar solucionar as primeiras questões e comprovar as primeiras hipóteses sobre o sistema sonoro da língua.
+Os dados coletados foram, em sua totalidade, expressões orais, tal como histórias, músicas, diálogos e, principalmente, itens lexicais isolados e sentenças. Os itens lexicais e as sentenças foram coletados por meio dos questionários do SIL – Museu Nacional e o do Henri Ramirez (s/d); além desses questionários, foram utilizados, para a coleta de dados, os guias de Cavalcante (2010) e Oliveira e Cassaro (1999). Os objetos e coisas do mundo empírico (armas de caça, pesca, artesanatos, aves, animais...) também serviram de apoio para coletar dados. Os dados foram gravados e armazenados em meio digital para que pudessem ser consultados posteriormente. Vale dizer que os dados foram transcritos no momento da coleta seguindo os símbolos do IPA – International Phonetics Association.
+
+A escolha dos informantes seguiu os critérios de entendimento do português, disponibilidade de tempo e paciência para as sessões de elicitação de dados. Assim, os principais informantes da pesquisa foram Mavahari Upanava Deni e Diivi Varatsa Deni, da aldeia Cidadezinha, e Ahie Varatsa Deni, da aldeia Samaúma. Quando foi necessário, outras pessoas contribuíram para a coleta de dados.
+Ao tratar da fonêmica segmental, este trabalho ancorou-se na metodologia tradicional de identificação de fonemas que foi proposta pelo modelo estruturalista norteamericano. Para analisar aspectos mais específicos da língua, como a sílaba, o acento e os processos morfofonológicos, foram utilizados modelos não-lineares.
+1.2 Sobre o aporte teórico
+Como já dito, cada aspecto da fonologia da língua Deni foi analisado à luz de um modelo de análise fonológica2. Isso porque os modelos de análise fonológica “iluminam certos aspectos, mas escondem outros” (CAGLIARI, 1997, p. 7). O objetivo de se usar diferentes modelos de análise fonológica foi de explicar melhor cada aspecto da fonologia da língua Deni, explorando, assim, as potencialidades de cada modelo.
+Para a identificação dos fonemas, foram utilizadas as técnicas propostas por Pike (1971 [1947]). Com o uso dessas técnicas, busca-se a segmentação da cadeia da fala em unidades mínimas; tais unidades são colocadas em pares foneticamente semelhantes e analisadas com base da relação de oposição ou alternância. Caso a relação entre dois sons seja de oposição (distingue signos linguísticos), essas unidades representam dois fonemas distintos; caso a relação seja de variação (não distingue signos linguísticos), as unidades representam um único fonema.
+Na análise da sílaba, foram seguidos os pressupostos das teorias não-lineares presentes em Goldsmith (1990), Kenstowicz (1994), Blevins (1995), entre outros. A visão que perpassa esta seção é a de que a sílaba é uma unidade fonológica que possui constituintes internos que se organizam hierarquicamente. Além disso, a sílaba é vista como um domínio que organiza segmentos em grupos, permitindo e restringindo a ocorrência desses segmentos em determinadas posições: onset, coda, núcleo.
+O acento foi analisado seguindo as orientações da abordagem de teoria métrica de Hayes (1995). Na teoria métrica, o acento é uma propriedade da sílaba, diferentemente do
+2 Cada seção (Fonêmica Segmental, A sílaba em Deni, O acento e Processos morfonológicos) traz considerações sobre o modelo teórico utilizado para a análise.
+
+25
+modelo gerativo, em que o acento era uma propriedade da vogal. A teoria métrica lida com níveis acima da palavra e, por isso, prega que uma árvore métrica seja construída; essa árvore é o reflexo da estrutura sintática.
+A análise dos processos morfofonológicos da língua Deni se deu à luz da teoria da fonologia Geometria de Traços. A fonologia de Geometria de Traços, diferentemente da Fonologia Gerativa – que colocou os traços numa matriz única –, organiza os traços que compõem os fonemas em fileiras ou níveis (tiers), nas quais tudo que é redundante é suprimido, permanecendo, portanto, só o que é distintivo.
+Por considerar o modelo estruturalista norte-americano de identificação de fonemas como uma metodologia (e não como teoria), afirma-se que o presente trabalho é embasado teoricamente na fonologia não-linear.
+
+2 A FAMÍLIA LINGUÍSTICA ARAWÁ E O POVO DENI
+Esta seção apresenta a organização genética interna das línguas que compõem a família linguística Arawá e a área etnográfica em que essas línguas são faladas. Constam também aqui informações sobre a população, a distribuição das aldeias e a localização da Terra Indígena Deni.
+2.1 A família linguística Arawá
+A família linguística Arawá é composta, atualmente, por cinco línguas faladas por povos que estão localizados entre os rios Juruá e Purus, no sul do estado do Amazonas, exceto a língua Kulina, que se estende ao estado do Acre e ao Peru. Para Dixon (1999), a família Arawá já foi composta por seis línguas, denominadas: Paumarí; Madi; Sorowahá; Dení; Kulina; Arawá. Para o autor, a língua Madi é falada por três povos, cada um com seu próprio dialeto: Jarawara; Jamamadi; Banawá. O autor afirma ainda que a língua Arawá está extinta desde 1880. Isso pode ser visto na lista abaixo, extraída de Dixon (1999, p. 294):
+1 Paumarí (c. 600, only c. 200 speak the language) 2 Madi, spoken by three tribes, each with its own dialect:
+Jarawara (c. 150) Jamamadi (c. 190) Banawá (c. 80) 3 Sorowahá (c. 100) Dení-Kulina subgroup 4 Dení (c. 1,000) 5 Kulina (or Madiha or Madija) (c. 2,500) 6 Arawá (extinct since about 1880)
+Dixon (1999) considera as línguas Deni e Kulina como pertencentes a um subgrupo que ele denomina “Dení-Kulina”; entretanto, o autor diz que “há diferenças gramaticais suficientes para estabelecê-las como línguas distintas, mas elas claramente constituem um subgrupo”3 (DIXON, 1999, p. 294).
+3 Original: “There are enough grammatical differences between Dení and Kulina to establish them as distinct languages, but they plainly constitute one subgroup” (DIXON, 1999, p. 294).
+
+27
+Dienst (2008, p. 66) apresenta uma classificação interessante sobre a família linguística Arawá, na qual o autor diz haver dois dialetos Jamamadi: um pertencente ao subgrupo Madihá (que ele denomina “Western Jamamadi”, Jamamadi Ocidental) e um outro que ele denomina “Eastern Jamamadi”, Jamamadi Oriental. Para Dienst (2008), os Jamamadi que pertencem ao grupo Madihá (“Western Jamamadi”) vivem perto das cidades de Boca do Acre e Pauini; já os Jamamadi que pertencem ao grupo Madi (“Eastern Jamamadi”) vivem perto da cidade de Lábrea. Segue a figura proposta por Dienst (2008, p. 66) que representa as relações genéticas internas à família linguística Arawá:
+Arawan
+
+MadiMadihá
+
+Sorowahá
+
+Paumari
+
+†Arawá
+
+Madihá
+
+Madi
+
+Kulina
+
+Western
+
+Deni
+
+Jamamadi
+
+Eastern jamamadi
+
+Banawá
+
+Jarawara
+
+Figura 1: Relações genéticas da família linguística Arawá segundo Dienst (2008, p. 66).
+
+Em Everett (1995, p. 298) a família linguística Arawá também é representada em termos de relações genéticas entre seus membros. Tal representação é feita por meio de uma árvore, em que as línguas estão representadas em negrito, as proto-línguas estão em itálico e os dialetos em letras normais, como pode ser visto a seguir:
+
+proto-Arawá
+
+Rimarimá
+
+Suruwahá
+
+Paumari Madijá
+
+Madi
+
+Deni
+
+Kulina
+
+Banawá
+
+Yarawara
+
+Yamamadi
+
+Figura 2: Relações genéticas da família linguística Arawá segundo Everett (1995, p.
+
+298).
+
+As línguas Arawá são faladas por povos que se concentram em aproximadamente 20 Terras Indígenas na área etnográfica que compreende os rios Juruá e Purus, no sul do estado do Amazonas, com exceção da língua Kulina, que é falada no Acre e no Peru. Melatti (2012, p.2) apresenta um mapa dos povos (e línguas) faladas na região JuruáPurus:
+
+29
+Mapa 1: Mapa dos povos e línguas faladas na região Juruá-Purus extraído de Melatti (2012).
+Como já foi dito, o estudo científico das línguas indígenas brasileiras ainda é recente, visto que apenas na década de 1980 passou a experimentar um grande desenvolvimento. O reflexo disso é uma literatura muito limitada sobre tais línguas. Em se tratando das línguas Arawá, Dixon (1999, p. 293-4) apresenta um apanhado sobre os estudos já realizados:
+Os materiais disponíveis são de qualidade desigual. Dixon e Vogel têm uma extensa gramática do Jarawara em estágio avançado de preparação4. Equipes do SIL têm feito alguns trabalhos linguísticos sobre os dialetos Jamamadi e Banawá da língua Madi, sobre o Deni e Kulina (do lado do Peru), têm produzido manuscritos sobre a gramática e rascunhos de dicionário para todas as quatro variedades. Para o Paumari há um longo esboço gramatical, de boa qualidade, de Chapman e Derbyshire (1991); [...] Missionários do Jovens Com Uma Missão (JOCUM) têm feito um trabalho linguístico preliminar do Sorowahá. [...] Monserrat e Silva (1986) e Silva e Monserrat (1984) publicaram uma gramática e um dicionário pequenos de um dialeto Kulina falado no Acre.5
+4 Essa obra já foi publicada (cf. DIXON, 2004). 5 Original: “Materials available are of uneven quality. Dixon and Vogel have an extensive grammar of Jarawara in an advanced stage of preparation. SIL teams have done some linguistic work on the
+
+2.2 O povo Deni e sua localização O povo Deni vive no estado do Amazonas em uma região entre os rios Juruá e
+Purus, região essa que compreende os municípios de Itamarati, Lábrea e Tapauá. Desde a década de 1930 há intervenções do Estado buscando a demarcação da Terra Indígena Deni. Os Deni trabalharam ativamente no processo de demarcação de sua terra no ano de 2001; essa demarcação proporcionou aos Deni 1.530.000 de hectares. Entretanto, a homologação feita pelo Presidente da República veio somente em 2004 (PEZZUTI; CHAVEZ, 2009).
+Veja, a seguir, o mapa extraído de Pezzuti e Chavez (2009) que mostra a localização da Terra Indígena Deni:
+Jamamadi and Banawá dialects of Madi, on Dení and Kulina (from the Peru side), producing manuscript sketch grammars for Dení and Kulina and draft dictionaries for all four varieties. For Poumarí there is a lengthy grammatical sketch, of good quality, by Chapman and Desbyshire (1991); […] missionaries from Jovems (sic.) Com Uma Missão (JOCUM) have done some preliminary linguistic work on Sorowahá. […] Monserrat and Silva (1986) and Silva and Monserrat (1984) have published a short grammar and dictionary of a dialect of Kulina spoken in Acre.” (DIXON, 1999, p. 293-4)
+
+31
+Mapa 2: Localização da Terra Indígena Deni. Extraído de Pezzuti e Chavez (2009). Os trabalhos de campo que resultaram no texto de Pezzuti e Chavez (2009) foram
+realizados no fim do ano de 1998 e início de 1999. Nesse texto – por questões metodológicas –, os autores dividiram a Terra Indígena Deni em duas porções: uma
+
+porção ocidental e uma oriental, contendo quatro aldeias em cada uma delas; à época havia, portanto, oito aldeias Deni.
+Na porção ocidental existem quatro aldeias, situadas no rio Xeruã (bacia do Juruá) e alguns de seus afluentes. São elas: Rezemâ, Morada Nova, Boiador e Itaúba. Na porção oriental existem mais quatro aldeias, todas situadas à margem do rio Cuniuá, afluente do rio Purus: Cidadezinha, Marrecão, Visagem e Samaúma. (PEZZUTI; CHAVEZ, 2009, p. 123)
+Pezzuti e Chavez (2009) mostraram ainda que, à época do trabalho de campo, constataram que havia 666 índios que habitavam a terra indígena e que, em 2002, as ONGs Greenpeace, CIMI e OPAN indicaram um crescimento populacional dos índios Deni para 736.
+Atualmente, a situação é diferente. Os Deni contam com seis aldeias ao longo do rio Cuniuá (Cidadezinha, Marrecão, Viagem, Sikurihá, Volta Grande e Samaúma) e mais três aldeias no rio Xeruã (Morada Nova, Boiador e Itaúba). Portanto, são nove aldeias espalhadas pela Terra Indígena Deni. A população também cresceu. O censo da FUNASA divulgado em 2010 mostra que um julho daquele ano os Deni contavam com uma população de 1254 índios, tal como pode ser visto na planilha abaixo, extraída do site da FUNASA:
+
+Quantitativo de Pessoas UF: AM DSEI: TODOS MUNICÍPIO: TODOS POLO BASE: TODOS ALDEIA: TODAS ETNIA: DENI PERÍODO: (Dados referentes a 1º de julho de 2010)
+
+PERÍODO
+
+ETNIA
+
+Quantidade de Pessoas
+
+2010 DENI
+
+Fonte: SIASI - FUNASA/MS, 28/09/2011
+
+Tabela 1: População Deni em 2010, de acordo com a FUNASA.
+
+1254
+
+33
+2.3 Estudos linguísticos anteriores
+Há poucos estudos realizados sobre a língua Deni. Com exceção de Everett (1995), todos os trabalhos realizados sobre a língua Deni são manuscritos elaborados por missionários do Summer Institute of Linguistics – SIL nas décadas de 1970 e 1980 que tiveram versão on line recentemente, o que possibilitou acessá-los. É importante mencionar que o objetivo dos missionários era converter os índios ao cristianismo. A tradução da bíblia era um passo necessário para o cumprimento desse objetivo. Estudar a língua, portanto, não era o objetivo central, mas sim um dos passos para se cumprir o objetivo principal que era a tradução da bíblia e a conversão dos índios ao cristianismo. Foi isso o que aconteceu com os Deni e com grande parte dos povos indígenas brasileiros.
+Os manuscritos elaborados pelos missionários que estão disponíveis no site do SIL são os seguintes: “Notas sobre morfologia verbal Dení” (1977) de Paul Moran e Dorothy Moran; “Processes and roles in Dení clause structure” (1977) de Gordon Koop; “Dení verb endings” (1980) de Gordon Koop; “Dicionário Dení-Português” (1985) de Gordon e Lois Koop; e “Os afixos pessoais em Deni” (1976) de Gordon Koop.
+Moran e Moran (1977, p. 1) apresentam uma “análise preliminar da morfologia verbal da língua Dení” em que a estrutura verbal é descrita em termos de quatro camadas: radical, base, tema e palavra. Os autores apresentam duas figuras: uma para representar os verbos em que o marcador de pessoa vem depois da raiz verbal; e outra para representar os verbos em que o marcador de pessoa vem antes da raiz verbal. Essas figuras apresentam os elementos obrigatórios da palavra verbal, que são: marcador de pessoa; radical verbal; e aspecto/tempo/modo.
+Moran e Moran (1977) apresentam uma análise sobre alguns processos morfofonológicos na língua Deni. Os autores apontam quatro regras morfofonológicas: elisão; inserção; redução; e perturbação. Na elisão, “se um morfema termina na vogal -a, iniciando-se o morfema seguinte com vogal idêntica, uma delas se suprime6”; na inserção, “se a raiz verbal começa com vogal, insere-se consoante -v- antes da raiz7”; na redução, “a seqüência, marcador da 2ª pessoa -ti seguido de marcador de classe -na,
+6 Na literatura específica, tem-se chamado esse processo de crase. 7 Na literatura específica, tem-se chamado esse processo de epêntese.
+
+reduz-se à sílaba simples -ta8”; na perturbação, alguns sufixos “produzem alteração da vogal -a do sufixo anterior em -i, mas sem aparente regra fonológica” (MORAN; MORAN, 1977, p. 29-30). No último item desta dissertação há uma reanálise dos processos morfofonológicos na língua Deni.
+Em se tratando de fonologia, Moran e Moran (1977, p. 33) apresentam uma lista composta por vogais e consoantes. Na lista, o que está entre barras são os fonemas descritos pelos autores; a representação ortográfica de cada fonema aparece como as letras do alfabeto:
+Vogais. a /a/, e /e/, i /i/, u /u/
+Consoantes. p /p/, pp /ph/, b //, t /t/, tt /th/, d //, k /k/ /kw/, kk /kh/ /khw/, „ /?/, s /ts/, ss /tsh/, z /dz/.
+v //, m /m/, n /n/, r /rl/, h /h/
+Uma reanálise da lista leva a uma interpretação de que /khw/ e /kw/, apesar de aparecerem entre barras, devem ser considerados como alofones, e não fonemas. Um indício disso é o fato de todos os manuscritos que fazem referência aos fonemas da língua Deni citam apenas dezessete fonemas consonantais, ou seja, não contam /khw/ e /kw/ como fonemas.
+Ao tratar dos afixos pessoais na língua Deni, Koop (1976) os apresenta em dois grupos: regular e direcionado. A maior parte do trabalho é dedicada ao estudo dos afixos regulares e às propriedades comuns a ambos os grupos. Em Deni há radicais verbais que recebem prefixo ou sufixo pessoal; Koop (1976, p. 2) afirma que tais radicais “não constituem conjuntos semântica ou gramaticalmente definidos”. O autor apresenta também processos morfofonológicos envolvendo os prefixos pessoais em alguns verbos cuja marcação de pessoa se dá por meio de prefixo. Quando o radical desses verbos inicia-se por vogal, há o processo de epêntese da consoante . Entretanto, isso não é o que ocorre com o verbo  “comer”, visto que a primeira vogal é suprimida nas formas de 1ª e 2ª Pessoa do Singular, aparecendo apenas na forma de 3ª Pessoa que é marcada pelo |Ø-|. Koop (1976, p. 3) apresenta a conjugação de tal verbo:
+8 Na literatura específica, tem-se chamado esse processo de haplologia.
+
+35
+'u-hébu-aru (eu-comer-não=futuro) 'eu comi'; 'i-hébu-aru (nós-comer-não=futuro) 'nós comemos'; ti-hébu-aru (você-comer-não=futuro) 'você comeu'; ti-heúbu-aru (você-comer+V2pl-não=futuro) 'vocês comeram'; #-'ehébu-aru (3ªpessoa-comer-não=futuro) 'ele, ela, eles ou elas comeram'.
+Koop (1977) discute três tipos de processos expressos pelos verbos em Deni, bem como seus papéis correspondentes. O autor apresenta algumas especificações dentro de cada processo. No processo de ação ele trata do “non-motion” (sem movimento), do “motion” (movimento) e do “peripheral roles for action processes” (papéis periféricos para processos de ação); no processo mental ele trata do “locutionary process” (processo locutório), do “perception process” (processo de percepção) e do “desiderative process” (processo desiderativo); por fim, o processo relacional é divido pelo autor em “attributive” (atributivo), “identification” (identificação), “ambient” (ambiente), “possession” (posse) e “presentation” (apresentação).
+Koop (1980) traz explicações sobre o valor de algumas terminações verbais na língua Deni. O próprio autor afirma que seu texto não é uma descrição exaustiva, e que há mais terminações ou combinações de terminações verbais em Deni que ele não mencionou. Koop (1980) apresenta em seu texto as seguintes terminações: “aspectual endings” (terminações aspectuais); “derivational endings” (terminações derivacionais); “verb endings in the interrogative mood” (terminações verbais no modo interrogativo); “verb endings in the imperative mood” (terminações verbais no modo imperativo); “verb endings of the performative, inferential, experience vs. non-experience types” (terminações verbais dos tipos performativo, inferencial, experiência vs. nãoexperiência).
+Sobre a fonologia da língua, Koop (1976; 1977; 1980) cita dezessete fonemas consonantais e quatro vocálicos. Koop (1970) fala ainda sobre a dificuldade em se fazer afirmações sobre as regularidades do acento na língua Deni devido à complexidade de sua natureza.
+O “Dicionário Deni-Português” de Koop e Koop (1985) apresenta três seções: 1) considerações gramaticais sobre a língua Deni; 2) O os verbetes (a macroestrutura) em ordem alfabética na língua Deni; 3) um vocabulário em português com a tradução correspondente na língua Deni. Na parte que trata da gramática, os autores afirmam que a
+
+língua Deni possui sete classes de palavras (verbo, advérbio, substantivo, pronome, adjetivo, numeral e conjunção) e tecem explicações sobre cada uma delas. Os verbetes em tal obra trazem uma definição gramatical e o correspondente em português. A última seção faz o contrário: apresenta a palavra em português e seu correspondente em Deni. Não há, no Dicionário, nenhuma menção direta à fonologia da língua Deni; porém, podemos associar aos fonemas os grafemas utilizados na escrita da língua. Os autores também apresentam dezessete símbolos consonantais e quatro vocálicos.
+Everett (1995) apresenta os sistemas prosódicos das cinco línguas vivas que compõem a família linguística Arawá. Ao tratar dos fonemas, o linguista apresenta o quadro proposto por Moran e Moran (1977). As conclusões sobre a sílaba e o acento na língua Deni apresentadas nesta dissertação diferem das que foram apresentadas por Everett (1995).
+Para Everett (1995), a língua Deni apresenta o padrão silábico CV, ou seja, toda sílaba possui obrigatoriamente uma consoante na posição de onset e uma vogal na posição de núcleo. Embora este seja um padrão simples, Everett (1995, p. 307) afirma que “a manutenção deste padrão em face de mudanças morfofonológicas é interessante por ilustrar um tipo de repair strategy (Paradis 1988) ou a interação de restrições hierárquicas (Prince e Smolensky (1993)” (grifo do autor). Para o linguista, sequências CVV aparecem apenas em processos morfofonológicos decorrentes da sufixação e da infixação.
+Na análise de Everett (1995), há obrigatoriamente, na sufixação, uma haplologia vocálica, pois ocorre a redução de duas vogais idênticas a uma única vogal. Segue o exemplo do autor:
+(1) hapinaru (cf. *hapiinaru) hapi-i na-aru banhar:se 1PL AUX-DEC.F9
+Para solucionar o problema das sequências vocálicas (sílabas CVV), além da haplologia, Everett (1995), afirma que há o processo de ditongação. Segue o exemplo proposto pelo linguista:
+9 A numeração original do exemplo do autor é (26).
+
+37
+
+(2) tihamaͥ ru (cf. tihamiaru) ti-hami-aru 2-zangar:se-DEC.F „Você zangou-se‟10
+A infixação, por sua vez, ocorre com a 2ª Pessoa do Plural devido ao processo
+reduplicativo (EVERETT, 1995), tal como pode ser visto no exemplo a seguir:
+
+(3) a. ti-kha-thim-aru 2-MOV-rio:acima-DEC.F „Você sobe o rio‟
+b. ti-kha-thim-a-aru 2-MOV-rio:acima-PL-DEC.F „Vocês sobem o rio‟11
+Ao tratar do acento na língua Deni, Everett (1995, p. 312) afirma que o padrão “é
+trocaico, isto é, a língua constrói pés com núcleo à esquerda. Tais pés são construídos da
+esquerda para a direita”. Seguem exemplos do autor:
+
+(4) abariza „urubu‟
+
+’aba’’riza12 oo
+
+o
+(5) vahara „carapaná‟ ’vaha’’ra13 oo o
+
+10 A numeração original do exemplo do autor é (28). 11 A numeração original do exemplo do autor é (30). 12 A numeração original do exemplo do autor é (39). 13 A numeração original do exemplo do autor é (43).
+
+A análise apresentada nesta dissertação traz resultados diferentes dos que foram propostos por Everett (1995), tanto ao que se refere à sílaba, quanto ao que se refere ao acento na língua Deni.
+
+39
+3 FONÊMICA SEGMENTAL
+Nesta seção, apresenta-se uma descrição dos fones consonantais e vocálicos da língua Deni, bem como uma análise fonêmica desses dados. A análise fonêmica dos dados foi feita ancorada nas técnicas de identificação de fonemas propostas por Pike (1971 [1947]) e possibilitou identificar os sons que constam apenas do inventário fonético e quais constam também do inventário fonológico. Seguem, agora, os fones consonantais encontrados nos dados:
+3.1 Os sons da linguagem: fonética e fonologia
+A fala humana é caracterizada pela produção de sons por meio dos quais os falantes veiculam significados e interagem socialmente. Para Spencer (1996, p. 1), “o estudo dos sons da fala é dividido entre duas disciplinas distintas, mas relacionadas, fonética e fonologia”14 (grifo do autor). Embora sejam reconhecidamente disciplinas diferentes – visto que apresentam diferentes formas de tratar o mesmo objeto (o som) –, é difícil delimitar as fronteiras existentes entre elas, principalmente pelo fato de que a análise fonológica é fundamentada nos fatos fonéticos, e a pesquisa fonética tem que ser orientada para as capacidades do trato vocal humano, as quais são úteis especificamente para a linguagem (SPENCER, 1996).
+Os sons da linguagem humana podem ser analisados de várias perspectivas. Uma perspectiva é analisar seu caráter anatômico e fisiológico: como os órgãos funcionam durante a fala. Outra perspectiva é analisar as propriedades dos sons que são produzidos pelo aparelho fonador; tais sons são transmitidos e se propagam por meio de ondas sonoras. Outra perspectiva ainda é estudar a forma como os sons são percebidos pelo ouvinte (CLARK; YALLOP, 1995). Essas perspectivas de estudo sobre os sons da fala pertencem à ciência fonética, a qual se subdivide em campos: a fonética articulatória, que se preocupa com a forma com que os sons são produzidos pelo aparelho fonador; a fonética acústica, que se dedica ao estudo da forma como os sons se propagam no ar por meio de ondas sonoras; e a fonética auditiva, que se atém ao modo como as pessoas recebem/percebem os sons.
+14 Original: “The study of speech sounds is partitioned between two distinct but related disciplines, phonetics and phonology” (SPENCER, 1996, p. 1).
+
+Clark e Yallop (1995, p. 2) dizem que “a fala é uma atividade humana intencional: não é somente movimento ou energia ou ruído, mas uma atividade organizada sistematicamente, intencionada – sob circunstâncias normais – a transmitir significado”15. A fonologia dedica-se, então, à forma sistemática como cada língua organiza seu sistema sonoro. Embora haja alto índice de variabilidade fonética na produção das palavras (devido a variações no tamanho e forma dos articuladores e trato vocal), os falantes de uma mesma língua se comunicam; isso porque, na mente humana, a fonologia funciona como um filtro no qual todos os resíduos (variabilidade na produção dos sons) são filtrados e, assim, são passíveis de identificação. A fonologia possui um caráter psicológico – abstrato, portanto.
+Referindo-se às duas ciências que lidam com os sons da linguagem humana, Hernandorena (1999, p. 12) aponta para o fato de que
+a fonética se dedica ao estudo de todo o som produzido pelo aparelho fonador e utilizado na fala; a fonologia, diferentemente, detém-se nos sons capazes de distinguir significados – tradicionalmente designados de fonemas – e na forma como se organizam e se combinam para formar unidades lingüísticas maiores, bem como nas variações que esses fonemas apresentar.
+Feitas essas breves considerações sobre as duas disciplinas que tratam dos sons da fala humana, cabe, agora, apresentar as técnicas que tradicionalmente são usadas para a identificação de fonemas nas línguas naturais.
+3.2 Análise fonológica: técnicas de identificação de fonemas
+As técnicas clássicas de identificação de fonemas foram propostas por Pike (1971 [1947]) e são tradicionais nos trabalhos com línguas que não tiveram seus inventários fonológicos descritos. Tratando das técnicas propostas por Pike (1971 [1947]), Cagliari (2002, p. 55-59) apresenta os passos que devem ser dados e a ordem que tais passos devem seguir em uma análise fonológica: o corpus; a tabela fonética; os pares suspeitos; os pares mínimos; os ambientes análogos; a distribuição complementar; os outros tipos de
+15 Original: “speech is a purposeful human activity: it is not just a movement or energy or noise but a systematically organized activity, intended – under normal circumstances – to convey meaning” (CLARK; YALLOP, 1995, p 2).
+
+41
+variação; os sons restantes; o inventário de fonemas; os processos fonológicos (ou regras fonológicas); a transcrição fonológica.
+Os passos da análise fonológica apresentados por Cagliari (2002) podem ser divididos em dois grupos: um que se refere à transcrição fonética (o corpus, a tabela fonética e os pares suspeitos) e o outro que se refere à interpretação fonológica (começa com os pares mínimos e vai até os processos fonológicos).
+O primeiro passo da análise é coletar os dados por meio de transcrição fonética minuciosa, isso porque a análise fonológica é baseada nos dados fonéticos. Obtido o corpus, elabora-se a tabela fonética com todos os sons presentes no corpus. De posse da tabela fonética, então, são marcados os pares de sons foneticamente semelhantes. Para cada par suspeito, buscam-se, no corpus, pares mínimos, pois eles estabelecem que dois sons são fonemas distintos. Na análise de línguas pouco conhecidas, é comum não encontrar pares mínimos para todos os pares suspeitos. Quando isso ocorre, recorre-se ao contraste em ambiente análogo para verificar se são ou não fonemas distintos.
+Um passo importante para a análise fonológica é verificar se, para alguns pares de sons foneticamente semelhantes, ocorre a distribuição complementar, que consiste na ocorrência de alofones de um único fonema em contextos particulares. Há ainda outros tipos possíveis de variação: overlapping, variação livre, neutralizações, etc.. Feita a análise de todos os pares listados na tabela fonética, o próximo passo é verificar o status dos sons isolados na tabela fonética. Depois disso, o último passo é colocar os fonemas na tabela fonológica. Tem-se, assim, o inventário fonológico da língua.
+Na análise fonológica apresentada aqui foram dados os seguintes passos na seguinte ordem: primeiro foi elaborado o corpus por meio de transcrição fonética; todos os sons (consonantais e vocálicos) presentes no corpus foram colocados em tabelas fonéticas (consonantal e vocálica); foram listados, então, os sons (consonantais e vocálicos) foneticamente semelhantes; depois foram identificados os pares mínimos para cada par de sons foneticamente semelhantes; por fim, a identificação de sons que apresentam variação livre. A análise se baseia, portanto, nos conceitos de “similaridade fonética”, “contraste em ambiente idêntico” (doravante CAI) e “variação livre”.
+
+3.2.1 Fones consonantais
+
+Foram identificados, na língua Deni, 19 fones consonantais, os quais podem ser vistos na tabela a seguir:
+
+Quadro 1: Fones consonantais
+
+Bilabial Lábio-
+
+dental
+
+Oclusivas
+
+
+
+
+
+Aspiradas
+
+
+
+Alveolar Velar
+
+
+
+
+
+
+
+
+
+
+
+Glotal 
+
+Nasais
+
+
+
+
+
+Laterais 
+
+Tepe 
+
+Fricativas
+
+
+
+
+
+
+
+
+
+Africadas
+
+
+
+
+
+Apresentada a tabela com os fones da língua Deni, cabe mostrar exemplos de ocorrências desses fones em palavras da língua:
+(6) Consoante oclusiva bilabial surda []  „Água‟
+ „Eu estou com fome‟
+
+43
+ „Grande‟  „Gato‟  „Morto‟  „Goiaba‟  „Rato‟
+(7) Consoante oclusiva bilabial surda aspirada [] [] „Beija-flor‟ [] „Inverno‟ [] „Pato‟  „Cerveja‟
+(8) Consoante oclusiva bilabial sonora []  „Bonita‟  „Bravo‟  „Café‟  „Ata‟ (fruta)
+
+ „Quente‟  „A língua dela‟  „A orelha dele‟
+(9) Consoante oclusiva alveolar surda []  „A cabeça dele‟  „Roupa‟  „Caju‟  „Mulher‟ (jovem) [] „Banana São Tomé‟ (10) Consoante oclusiva alveolar surda aspirada [] [] „Ele está com medo‟ [] „Ontem‟ [] „Pescoço‟ [] „Hoje‟ [] „Sentado‟
+
+45
+(11) Consoante oclusiva alveolar sonora [] [] „Jacu‟ [] „Barata‟ [] „Tipo de tamanduá‟ [] „Buraco‟ [] „Veado‟ [] „Maduro‟ [ ] „Arco‟
+(12) Consoante oclusiva velar surda [] [ „Doente‟ [] „Dor‟ [] „Preto‟ [] „Pica-pau‟ [] „Capivara‟ [] „Açaí‟
+
+[] „Bravo‟
+(13) Consoante oclusiva velar surda aspirada [] [] „Olho dele‟ [] „Aquele‟ [] „Homem‟ [] „Joelho dele‟
+(14) Consoante oclusiva glotal surda   „Buraco‟  „Barranco‟  „Preguiça‟  „Peixe‟  „Mandioca‟
+(15) Consoante africada alveolar surda   „Sabão‟  „Água‟
+
+47  „Tatu‟  „Goiaba‟  „A perna dele‟
+(16) Consoante africada alveolar sonora   „Onça‟  „Mamão‟  „Cachorro‟  „Tucano‟
+(17) Consoante fricativa lábio-dental sonora [] [ ] „Nadadeira do peixe‟ [] „Grilo‟ [] „Carapanã‟ [] „Cará‟ [] „Criança‟ [] „Mamão‟
+
+(18) Consoante fricativa alveolar surda [] [] „Rapé‟ [] „Água‟ [] „Camarão‟
+(19) Consoante fricativa alveolar sonora [] [] „Ânus‟ [] „Tipo de tatu‟ [] „Queixada‟ [] „Sal‟
+(20) Consoante nasal bilabial sonora [] [] „Frio‟ [] „Sol‟ [] „Cachorro‟ [] „Macaco da noite‟ [] „Céu‟
+
+49 [] „Onça‟ [] „Quati‟ [] „Matrinxã‟
+(21) Consoante nasal alveolar sonora [] [] „Barro‟ [] „Céu‟ [] „Sobrancelha‟ [] „Vamos!‟ [] „Caititu‟ [] „O osso dele‟ [] „O cabelo dela‟
+(22) Consoante tepe alveolar sonora []  “Tipo de cipó”  “A maior estrela” [] „Pequeno‟
+
+[] „Grande‟
+[] „Joelho‟
+[n] „Velha‟
+(23) Consoante lateral alveolar sonora [] [] „Espuma‟
+[] „Meu peito‟
+(24) Consoante fricativa glotal surda   „Sol‟
+ „Capivara‟
+ „Ele é grande‟
+ „Abelha‟ 3.2.1.1 Sons consonantais foneticamente semelhantes
+De acordo com Cagliari (2002), sons com maior semelhança fonética têm maior chance de serem variantes de um único fonema dentro do inventário fonológico de uma língua. Devido a esse princípio, são listados aqui os sons consonantais foneticamente semelhantes encontrados em Deni com intuito de identificar fonemas distintos ou fones que são variantes de um mesmo fonema. Vale ressaltar que são indicados, aqui, somente os pares com maior probabilidade de serem fonemas distintos.
+
+51 (25) [] e [] (26) [] e [] (27) [] e [] (28) [] e [] (29) [] e [] (30) [] e [] (31) [] e [] (32) [] e [] (33) [] e [] (34) [] e [] (35) [] e [] (36) [] e [] (37) [] e [] 3.2.1.2 Contraste e variação entre os sons consonantais
+Na análise fonológica, o procedimento clássico adotado pelos linguistas para a identificação de fonemas é colocar os sons foneticamente semelhantes em Contraste em
+
+Ambiente Idêntico. Assim, se os sons distinguirem palavras, são fonemas distintos e temse, portanto, dois fonemas; se não distinguirem, podem ser variantes (alofones) e tem-se um único fonema. Seguem, agora, exemplos de sons que, por estarem em contraste, distinguem palavras e sons que variam sem distinguir palavras:
+(38) // e // são fonemas distintos, pois estão em CAI: [] „Tipo de formiga‟ [] „Cobra Jararacuçu‟
+[] „Picada de mosquito‟ [] „Pedra‟
+(39)  e  são fonemas distintos, pois estão em CAI: [] „Pai‟ [] „Anta‟
+(40) // e // são fonemas distintos, pois estão em CAI: [] „Tronco‟ [] „3ª Pes. Pl. Masc. Fem.‟
+(41) // e // são fonemas distintos, pois estão em CAI: [] „Preguiça‟ [] „Filho‟
+(42) // e // são fonemas distintos, pois estão em CAI: [] „Taboca‟ [] „Verme‟
+
+53
+(43) // e // são fonemas distintos, pois estão em CAI: [] „Minha sogra‟ [] „Minha filha‟
+(44)  e  são fonemas distintos, pois estão em CAI:  „Taioba‟  „O pescoço dele‟
+(45)  e  são fonemas distintos, pois estão em CAI:  „Tipo de planta‟  „Urina‟
+ e  são fonemas distintos. Embora não tenha sido encontrado, nos dados, o CAI para esses dois segmentos, pode-se postular que são fonemas distintos, pois na tentativa de encontrar pares mínimos envolvendo esses segmentos, obtive os seguintes dados:
+(46)  „Jacu‟ * Dado hipotético. O informante não o aceitou como palavra da
+língua.
+(47)  „Ferida‟ * Dado hipotético. O informante não o aceitou como palavra da
+língua.
+(48)  „Tamanduá‟ * Dado hipotético. O informante não o aceitou como palavra da
+língua.
+
+A competência dos falantes faz reconhecerem que as palavras acima pronunciadas com aspiração não existem, fato que prova que  é fonema. Outro argumento para considerar  como fonema é a pressão exercida pelo sistema da língua, que tem todas as outras oclusivas surdas aspiradas como fonemas.
+[] e [] representam um único fonema, pois estão em variação. Optei por  como representação do fonema pelo fato de que, além de ter maior ocorrência, é também o som adquirido pelas crianças no processo de aquisição. (49) [] ~ [] „Espuma‟
+[] ~ [] „Meu peito‟
+[] e [] representam um único fonema, pois estão em variação. Optei por  como representação do fonema pelo fato de que além de ter maior ocorrência, é também o som adquirido pelas crianças no processo de aquisição.
+(50) [] ~ [] „Rapé‟ [] ~ [] „Água‟
+[] e [] também representam um único fonema, pois estão em variação. Optei por  como representação do fonema pelo fato de que, além de ter maior ocorrência, é também o som adquirido pelas crianças no processo de aquisição.
+(51) [] ~ [] „Tipo de tatu‟ [] ~ [] „Queixada‟ [] ~ [] „Sal‟
+ aparece no nível fonético em posição de coda silábica quando o onset da sílaba seguinte é uma oclusiva sonora, ou então em posição de onset em meio de palavra
+
+55
+seguida por uma vogal. O segmento  aparece apenas no nível fonético, não no nível fonológico, visto que sua ocorrência varia com sua ausência sem mudar o signo linguístico. Em situação de elicitação de dados (fala pausada, ritmo mais lento) esse som tem mais presença; em situação de fala normal, é mais difícil a percepção desse som.
+(52)  ~  „Peixe‟  ~  „Pato‟  ~ „Preguiça‟  ~ „Barranco‟
+Quando para separar duas vogais idênticas, como é o caso de  „Tatu‟ e  „Mandioca‟, a oclusiva glotal sempre ocorre.
+Apesar dos segmentos [] e [] serem foneticamente semelhantes e o primeiro ser fonema e o segundo fone, não são variantes. Como já foi dito, o segmento [] varia com sua ausência e está presente apenas no nível fonético. Nos dados, não foram encontrados pares mínimos entre [] e sua ausência. Dessa forma, o som [] deve ser analisado sozinho.
+Cagliari (2002, p. 33) afirma que “os sons foneticamente muito diferentes têm alta probabilidade de ocorrerem como fonemas e, portanto, a não ser que haja forte suspeita de que possam ser variantes, eles são considerados fonemas, em princípio” (grifo do autor). Pelo corpus, não há nenhuma suspeita de que [] seja variante de um fonema; sendo assim, ele é um fonema na língua Deni. Segue o quadro com os fonemas da língua Deni:
+
+Quadro 2: Fonemas consonantais
+
+Bilabial Lábio-
+
+dental
+
+Oclusivas
+
+
+
+
+
+Aspiradas
+
+
+
+Alveolar Velar
+
+
+
+
+
+
+
+
+
+
+
+Glotal
+
+Fricativas
+
+
+
+
+
+Nasais
+
+
+
+
+
+Tepe 
+
+Africadas
+
+
+
+
+
+3.2.2 Fones vocálicos
+Em se tratando dos sons vocálicos, foram identificados no corpus 6 fones vocálicos, tal como consta na tabela a seguir. Exemplos da ocorrência dos fones vocálicos são dados após a tabela.
+
+57
+
+Quadro 3: Fones vocálicos Anterior
+
+Alta
+
+
+
+Média-alta
+
+
+
+Média-baixa
+
+
+
+Baixa
+
+
+
+Central 
+
+Posterior 
+
+São apresentado, a seguir, exemplos de ocorrências dos fones vocálicos em palavras na língua Deni: (53) Vogal anterior alta não arredondada [i] [] „Nosso osso‟
+[] „Sol‟
+[] „Pequeno‟
+[] „Abelha‟
+
+(54) Vogal anterior médio-alta não-arredondada [] [] „Caititu‟
+[] „Sangue (dele)‟
+
+(55) Vogal anterior médio-baixa não-arredondada [] [] „Criança‟ [] „Seco‟ [] „Mentiroso‟ [] „Mulher‟
+(56) Vogal anterior baixa não-arredondada [] [] „Galinha‟ [] „Urubu‟ [] „Borboleta‟ [] „Arraia‟
+(57) Vogal central baixa não-arredondada []  „Tatu Canastra‟  „Rapé‟  „Vara‟
+
+59
+(58) Vogal posterior alta arredondada [] [] „Espécie de macaco‟ [] „Mulher jovem‟ [] „Salgado‟ [] „Água‟
+3.2.2.1 Sons vocálicos foneticamente semelhantes São listados, a seguir, os sons vocálicos foneticamente semelhantes com objetivo
+de identificar os sons que são fonemas e devem aparecer no inventário fonológico e quais são variantes e, portanto, aparecem apenas no nível fonético. (59) [] e [] (60) [] e [] (61) [] e [] (62) [] e []
+3.2.2.2 Contraste e variação entre os sons vocálicos Da mesma forma que foi feito para os sons consonantais, os sons vocálicos foram
+colocados em Contraste em Ambiente Idêntico, buscando identificar os sons vocálicos que distinguem palavras e, por isso, são fonemas e quais não distinguem e, portanto, são variantes (alofones) de um único fonema.
+
+(63) // e // são fonemas distintos, pois contrastam em ambiente idêntico: [] „Conversa‟ [] „Pó‟
+[] e [] são variantes do fonema //. O fone [] ocorreu raras vezes; suas ocorrências foram em sílaba átona, nunca em sílaba tônica. (64) [] ~ [] „Caititu‟
+[] ~ [] „Sangue (dele)‟
+[] e [] são variantes do fonema //. O fone [] ocorreu tanto em posição tônica quanto átona; esse som sempre ocorreu precedido de uma nasal na mesma sílaba ou então seguido de uma consoante nasal na posição de onset da sílaba seguinte. Os sons [] e [] não estão em distribuição complementar pelo fato de que muitas vezes o [] aparece precedido de uma consoante nasal na mesma sílaba ou então seguido por uma consoante nasal que ocupa a posição de onset na sílaba seguinte, ou seja, no mesmo ambiente em que  ocorre, também pode ocorrer o [].
+(65)  ~ [] „Tatu canastra‟  ~ [] „Queixo‟  ~ [] „Vara‟
+Pelas análises mostradas acima, a língua Deni tem, no nível subjacente, quatro segmentos vocálicos, tal como pode ser visto no quadro a seguir:
+
+61
+
+Quadro 4: Fonemas vocálicos
+
+VOGAIS
+
+ANTERIORES
+
+POSTERIORES
+
+ALTAS
+
+
+
+
+
+BAIXAS
+
+
+
+
+
+3.3 Resultados alcançados nesta seção
+Esta seção apresentou análise fonêmica da língua Deni baseada nas técnicas de identificação de fonemas propostas por Pike (1971 [1947]). A aplicação dessas técnicas sobre os dados coletados permite afirmar que a língua Deni possui 15 fonemas consonantais e 4 vocálicos. São eles: , , , , , , , , , , , , , , , , , , .
+
+4 A SÍLABA
+Esta seção apresenta uma análise da sílaba na língua Deni seguindo os pressupostos das teorias não-lineares que pregam que a sílaba possui constituintes que se organizam hierarquicamente. A análise apresentada nesta seção mostra os padrões silábicos da língua Deni e a posição que os segmentos podem ocupar na estrutura interna da sílaba.
+4.1 O que é sílaba?
+Apesar de não ser nova nos estudos sobre fonologia, a noção de sílaba somente foi incorporada à fonologia gerativa recentemente (COLLISCHONN, 1999). Para a linguista, foi só a partir da década de 1970, com os trabalhos de Hooper (1976) e Kahn (1976), que a sílaba passou a ser aceita, ainda gradativamente, como unidade fonológica.
+O percurso histórico das teorias fonológicas nos mostra que cada corrente teórica tratou de forma particular a sílaba. No gerativismo padrão, por exemplo, a sílaba não recebeu muita atenção. Em tal corrente teórica, apesar de haver referência à sílaba, não há um estudo aprofundado, visto que se restringe ao traço [+ silábico]. Foi só com o surgimento das teorias não-lineares que a sílaba recebeu mais atenção e pode ser estudada de forma mais sistemática, sendo criada a planilha silábica. A partir de então, a sílaba passou a ser vista como um elemento da fonologia, visto que ela está envolvida em algumas regras fonológicas.
+A sílaba é “uma unidade abstrata da organização prosódica por meio da qual uma língua expressa muito da sua fonologia”16 (KENSTOXICZ, 1994, p. 250). Para este autor, há três justificativas para considerar a sílaba como unidade fonológica:
+Primeiro, a sílaba é um domínio natural para a restrição de muitas restrições fonotáticas. Em segundo lugar, regras fonológicas são muitas vezes mais simples e perspicazes se referem-se à sílaba. Finalmente, vários processos fonológicos são melhor interpretados como métodos para garantir que a sequência de segmentos seja analisável dentro das sílabas.17
+16 Original: “an abstract unit of prosodic organization through which a language expresses much of its phonology”. (KENSTOWICZ, 1994, p. 250) 17 Original: “First, the syllable is a natural domain for the statement of many phonotactic constraints. Second, phonological rules are often more simply and insightfully expressed if they explicity refer to the syllable. Finally, several phonological process are best interpreted as methods to ensure that the string of phonological segments is parsable into syllables.” (KENSTOWICZ, 1994, p. 250)
+
+63
+Blevins (1995, p. 207) considera as sílabas como “unidades estruturais que fornecem a organização melódica”18. Isso porque, nas palavras, os segmentos se organizam em sequências e cada pico de sonoridade (vogal nuclear) define uma sílaba. Assim sendo, Blevins (1995, p. 207) define a sílaba como uma “unidade fonológica que organiza melodias segmentais em termos de sonoridade; segmentos silábicos são equivalentes a picos de sonoridade com essas unidades organizacionais”19.
+4.2 A sílaba como unidade fonológica
+Com o surgimento das teorias não-lineares, a sílaba passou a ser estudada sistematicamente, o que possibilitou reconhecê-la como uma unidade fonológica. São frequentes, nas línguas ao redor do mundo, os processos que ocorrem no domínio da sílaba; esses processos são explicados quando se analisa a sílaba enquanto um domínio.
+Blevins (1995) apresenta quatro argumentos para mostrar a importância da sílaba na análise fonológica. O primeiro argumento mostra a sílaba como domínio (“syllable as domain”), visto que há processos e/ou restrições que se aplicam no domínio da sílaba. O segundo refere-se à fronteira da sílaba como um lócus (“syllable edge as lócus”), pois há regras fonológicas que se aplicam na fronteira silábica. O terceiro mostra as sílabas como uma estrutura alvo (“syllables as target structures”), já que a sílaba pode funcionar como alvo de jogos de linguagem. Por fim, o quarto argumento diz respeito às intuições nativas (“native intuitions”) que os falantes têm com respeito ao número de sílabas presentes nas palavras.
+Dada a importância do estudo da sílaba para a descrição fonológica, vale dizer que a sílaba, nas teorias não-lineares, é estruturada hierarquicamente. Seus constituintes internos são: onset (O), rima (R), núcleo (N) e coda (Co) (GOLDSMITH, 1990). Segue um esquema que representa a estruturação interna da sílaba na fonologia não-linear.
+18 Original: “structural units providing melodic organization” (BLEVINS, 1995, p. 207). 19 Original: “phonological unit which organizes segmental melodies in terms of sonority; syllabic segments are equivalent to sonority peaks within these organizational units”. (BLEVINS, 1995, p. 207)
+
+(66) Sílaba
+
+Onset
+
+Rima
+
+Núcleo
+
+Coda
+
+Os estudos das línguas do mundo têm nos mostrado que as línguas possuem formas diferentes de organizar os segmentos dentro das sílabas. Zec (2007, p. 162) diz que “a sílaba é um princípio de organização para agrupar segmentos dentro de sequências”20. A distribuição dos segmentos dentro das sílabas é condicionada pelas regras fonotáticas de cada língua que permitem/restringem a ocorrência de segmentos em determinada posição na sílaba; isso quer dizer que, em uma língua dada, um segmento pode ser apto a ocupar a posição de onset silábico e inapto a ocupar a posição de coda. Cada língua, portanto, tem sua forma particular de organizar grupos de segmentos que são unidades maiores que os fonemas e menores que as palavras.
+
+4.3 A sílaba na língua Deni
+
+Everett (1995, p. 308) afirma que as “palavras em Deni nunca começam com uma vogal”. Isso porque o linguista considera a oclusiva glotal como fonema. Dessa forma, uma palavra como // “morto” teria como onset da primeira sílaba a oclusiva glotal, e seria, portanto, //. Para Everett (1995), toda sílaba na língua Deni é obrigatoriamente composta por uma consoante na posição de onset e uma vogal na posição de núcleo.
+Diferentemente de Everett (1995), considero que o padrão silábico da língua Deni é (C)V. A posição da consoante pode ser vazia ou ocupada por qualquer um dos 15 fonemas consonantais, ao passo que a posição da vogal deve, obrigatoriamente, ser ocupada por um dos 4 fonemas vocálicos. Em uma sílaba da língua Deni, portanto, é
+
+20 Original: “the syllable is an organizing principle for grouping segments into sequences” (ZEC, 2007, p. 162).
+
+65
+obrigatória apenas a presença de uma vogal no núcleo, sendo o onset uma posição opcional. Esse tipo de padrão silábico não permite consoante na posição de coda. Dixon (1999, p. 295) afirma que, na família Arawá, “há um simples padrão silábico (C)V em todas as línguas”21.
+Seguem duas representações possíveis de sílaba em Deni feitas na planilha silábica proposta pela teoria não-linear:
+(67) Sílaba CV 
+
+O
+
+R
+
+N
+
+X
+
+X
+
+(68) Sílaba V 
+
+R
+
+N X
+21 Original: “There is a straightfoward (C)V syllable pattern in all languages” (DIXON, 1999, p. 295).
+
+Os fonemas africados  e e os aspirados ,  e  presentes na língua Deni ocupam, cada um, uma única posição na sílaba. Os fonemas africados, embora possuam características fonéticas de dois elementos (um oclusivo seguido de um fricativo), correspondem a uma única unidade abstrata. Em outras palavras: mesmo que os fonemas africados tenham características de dois elementos no nível superficial, no nível profundo representam apenas uma unidade. Tais fonemas são, portanto, consoantes simples, o que faz interpretar sílabas iniciadas por eles como onsets simples, e não onsets complexos.
+Veja, a seguir, alguns exemplos de divisão silábica na língua Deni:
+
+(C)V (69) 
+
+„Anta‟
+
+V.CV
+
+(70) 
+
+„Jacumim‟
+
+CV.CV.CV
+
+(71)  „Meu sangue‟
+
+V.CV.CV.CV
+
+(72) 
+
+„Amigo‟
+
+V.CV.CV
+
+(73) 
+
+„Pimenta‟
+
+CV.CV.V
+
+(74) 
+
+„Mandioca‟
+
+CV.V
+
+(75) 
+
+„Banana‟
+
+CV.CV.CV
+
+(76) 
+
+„Criança‟
+
+V.CV.CV
+
+(77)  (78) 
+
+„Besouro‟ „Caranguejo‟
+
+CV.CV.CV V.CV
+
+67
+
+A seguir, são apresentados alguns exemplos de silabificação de palavras na língua Deni, seguindo a planilha silábica proposta pela fonologia não-linear:
+
+(79)  „Galinha‟
+
+
+
+
+
+
+
+
+
+O
+
+RO
+
+RO
+
+RR
+
+N
+
+N
+
+NN
+
+X
+
+XX
+
+XX
+
+XX
+
+
+
+
+
+
+
+(80)  „Banana‟
+
+
+
+
+
+O
+
+R
+
+O
+
+R
+
+N
+
+N
+
+
+
+
+
+O
+
+R
+
+N
+
+X
+
+X
+
+X
+
+X
+
+X
+
+X
+
+
+
+
+
+
+
+
+
+
+
+
+
+(81)  „Pato‟
+
+
+
+
+
+
+
+R
+
+O
+
+R
+
+R
+
+N
+
+N
+
+N
+
+X
+
+X
+
+
+
+
+
+X
+
+X
+
+
+
+
+
+(82)  „Pimenta‟
+
+
+
+
+
+
+
+O
+
+RO
+
+RR
+
+N
+
+NN
+
+X
+
+XX
+
+XX
+
+
+
+ 
+
+
+
+
+
+69
+As palavras tomadas de empréstimo do português são adaptadas à fonologia da língua e também seguem as regras de estruturação silábica. Dessa forma, as palavras que possuem coda e onset complexo são adaptadas ao padrão (C)V, tal como pode ser visto nos exemplos que seguem:
+
+(83)  „Prato‟
+
+
+
+
+
+
+
+O
+
+RO
+
+RO
+
+R
+
+N
+
+N
+
+N
+
+X
+
+XX
+
+XX
+
+X
+
+
+
+
+
+
+
+
+
+(84)  „Motor‟
+
+
+
+
+
+O
+
+RO
+
+R
+
+N
+
+N
+
+X
+
+XX
+
+X
+
+
+
+
+
+
+
+A língua Deni permite a ocorrência de sílabas CV e de sílabas V. Quando uma sílaba CV é seguida por uma sílaba V, tem-se a impressão de haver uma única sílaba no nível fonético (CVV); entretanto, o que ocorre são duas sílabas no nível fonológico (CV+V). Tal interpretação permite manter o padrão silábico (C)V. Seguem exemplos da silabificação de palavras que possuem uma sílaba CV seguida por uma sílaba V na língua Deni:
+
+(85) ....ˈ „Eu tomei banho‟
+
+
+
+
+
+
+
+
+
+
+
+O
+
+RO
+
+R RO
+
+RO
+
+R
+
+N
+
+NN
+
+N
+
+N
+
+X
+
+XX
+
+X XX
+
+XX
+
+X
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+71
+
+(86) ....ˈ „Eu estou com fome‟
+
+
+
+
+
+
+
+
+
+
+
+RO
+
+RO
+
+RRO
+
+R
+
+N
+
+N
+
+NN
+
+N
+
+XX
+
+XX
+
+XXX
+
+X
+
+
+
+
+
+
+
+
+
+(87) ..ˈ „Para você‟
+
+
+
+
+
+
+
+O
+
+R RO
+
+R
+
+NN
+
+N
+
+X
+
+X XX
+
+X
+
+
+
+  
+
+
+
+4.4 Restrição fonotática
+
+Cada língua possui um sistema fonotático que possibilita/restringe a ocorrência dos segmentos nas posições silábicas. O português brasileiro, por exemplo, permite onsets complexos (formado por duas consoantes) e codas complexas (formada por duas consoantes). Sendo assim, a estrutura máxima de uma sílaba em português é CCVCC, em que o único elemento obrigatório é a vogal (V), visto que as consoantes (C) são elementos opcionais (COLLISCHON, 1999).
+O molde silábico CCVCC prevê a existência de onsets complexos e também de codas complexas. Tal molde silábico prevê a existência de sílabas como slavt, tpirt ou nkupt que não fazem parte do sistema fonotático do português. É necessário, portanto, que a língua crie restrições que possibilitam gerar somente sílabas existentes na língua (COLLISCHON, 1999). Silva (2001, p. 157) apresenta as restrições referentes às sílabas formadas por duas consoantes pré-vocálicas no português:
+
+a. Quando C1 e C2 ocorrem, a primeira consoante é uma obstruinte (categoria que inclui oclusivas e fricativas pré-alveolares) e a segunda consoante é um líquida (categoria que inclui /l,/).
+b. /l/ não ocorre e /l/ ocorre apenas em um grupo restrito de nomes próprios que são empréstimos (ex: Wladmir, Wlamir, etc.).
+c. // e /l/ não ocorrem em início de palavra e apresentam distribuição restrita, ou seja, com poucos exemplos.
+4.4.1 Restrição do [] antes do [].
+
+A língua Deni não permite a ocorrência de uma sílaba CV em que a posição C seja ocupada pela consoante [] e a posição V seja ocupada pela vogal []. Sendo assim, a sílaba  nunca ocorre na língua Deni. O esquema a seguir representa essa regra de restrição fonotática:
+
+(88) a) b)
+
+CV /.V./ ou
+CV /.C./
+
+V≠ C≠
+
+73
+Lê-se a regra (88a) da seguinte maneira: em uma sílaba CV, quando a posição C é ocupada pelo segmento , a posição V será ocupada por uma vogal diferente de ; da mesma forma, a regra (88b) deve ser lida assim: em uma sílaba CV, quando a posição V é ocupada por , a posição C será ocupada por uma consoante diferente de .
+Essa restrição fonotática também é atestada por Tiss (2004) e Dienst (2007) para a língua Kulina, língua essa que forma um subgrupo na família Arawá juntamente com a língua Deni. Os autores representam esse fonema como . Tiss (2004), citando Marlett e Adams Liclan (1990), apresenta uma análise interessante sobre a restrição fonotática de uma sílaba  na língua Kulina. Para os autores, o  seria o resultado de uma mudança histórica da realização do 22 em onset. É por isso que a língua Kulina não permite uma sílaba . É provável que o mesmo tenha acontecido com a língua Deni, visto que pertencem ao mesmo subgrupo.
+4.5 Resultados alcançados nesta seção Esta seção apresentou uma análise da sílaba seguindo a teoria não-linear, o que
+permite afirmar que a língua Deni possui um padrão silábico (C)V, isto é, uma sílaba pode ser formada por uma consoante (opcional) na posição de onset e uma vogal (obrigatória) na posição de núcleo. Qualquer consoante pode ocupar a posição de onset assim como qualquer vogal pode ocupar a posição de núcleo. A única restrição fonotática refere-se à sílaba ; tal sílaba não é permitida na língua Deni.
+22 O fonema que Tiss (2004) e Dienst (2007) representam por , eu represento por .
+
+5 O ACENTO
+Esta seção classifica tipologicamente a língua Deni quanto ao acento, sob a perspectiva da teoria métrica proposta por Hayes (1995). As considerações apresentadas aqui são ainda superficiais e restringem-se às palavras simples e compostas. Pesquisas futuras poderão trazer análises mais exaustivas sobre o acento e a prosódia na língua Deni.
+5.1 Considerações sobre o acento na teoria métrica
+Hayes (1995, p. 8) afirma que “o argumento central da teoria métrica do acento (...) é que o acento é a manifestação linguística da estrutura rítmica”23. Dessa perspectiva, o acento é capaz de marcar a proeminência no nível da palavra fonológica e, consequentemente, a proeminência das palavras dentro da sentença.
+Na fonologia métrica – diferentemente do modelo gerativo de Chomsky e Halle (1968), em que o acento era uma propriedade da vogal –, o acento é visto como uma propriedade da sílaba, visto que “não é mais um traço, mas uma proeminência que nasce da relação entre os elementos prosódicos” (HERNANDORENA, 1999, p. 76).
+Massini-Cagliari (1992, p. 81), referindo-se à teoria métrica, afirma que
+o acento, como as demais manifestações supra-segmentais, localiza-se em um nível superior ao dos segmentos. Sendo assim, o acento não pode ser localizado apenas no núcleo ou na rima (os estruturalistas e gerativistas localizavam-no só na vogal), tendo que ser atribuído, no nível da palavra, na sílaba.
+Hogg e McCully (1987) consideram o acento como um fenômeno suprassegmental, ou seja, o acento está em um nível acima dos segmentos. Dessa forma, a cadeia sonora se estrutura da uma forma que admite uma hierarquia dos constituintes. Os segmentos, portanto, “são subordinados a um constituinte maior – a sílaba – que, por sua vez, também está subordinado a outros constituintes, de ordem rítmica” (MASSINICAGLIARI, 1992, p. 80).
+Tendo em vista que o princípio central da teoria métrica prega que o padrão acentual reflete as relações de proeminência entre os constituintes, Liberman e Prince
+23 Original: “The central argument of stress theory (…) is that the stress is a linguistic manifestation of rhithmic structure” (HAYES, 1995, p. 8).
+
+75
+(1977) sugerem que árvores métricas sejam construídas. Em tais árvores, “s” marca a sílaba mais forte (stronger) e “w” marca a sílaba mais fraca (weaker). O fato de que, nas árvores métricas, os constituintes expressam somente relações de “mais forte que” e “mais fraco que” mostra que as árvores devem ter sempre ramificações binárias. Para Hogg e McCully (1987), os nós devem representar apenas a relação [w s] ou [s w], nunca [s s] ou [w w], visto que estas não seriam significativas. Seguem os exemplos de formação dos nós binários para a representação das árvores métricas:
+(89)
+
+w
+
+s
+
+s
+
+w
+
+5.1.1 Propriedades tipológicas do acento
+Ao tratar das propriedades tipológicas do acento, Hayes (1995) apresenta as seguintes: a) culminância; b) distribuição rítmica, c) hierarquia do acento; d) falta de assimilação24. Tais propriedades nos mostram que: há uma sílaba com maior grau de proeminência na palavra; que o acento tende a ter uma distribuição rítmica que mantém uma regularidade; que o acento é hierárquico, pois há línguas que possuem vários graus de acento (primário, secundário, terciário...); o acento não se assimila.
+Hayes (1995, p. 31-33) apresenta as seguintes tipologias de regras do acento: a) “acento livre versus fixo”25, em que a localização do acento fixo é previsível e deve se dar por uma regra, ao passo que o acento livre não é previsível e deve ser listado lexicalmente; b) “acento rítmico versus morfológico”26, em que em um sistema rítmico de acento, o acento é baseado unicamente em fatores fonológicos, ao passo que em um sistema morfológico o acento serve para elucidar a estrutura de uma palavra; c) “acento limitado e ilimitado”27, em que um sistema limitado ocorre em uma distância de outro
+24 Original: a) “culminativity”; b) “rhythmic distribuition”, c) “stress hierarchies”; d) “lack of assimilation”, respectivamente (HAYES, 1995). 25 Original: “Free versus fixe stress”. 26 Original: “Rhythmic versus morphological stress”.
+
+acento, ao passo que em um sistema ilimitado o acento pode ocorrer sem limite de distância de outro acento.
+Além do modelo de árvores, a fonologia métrica propõe também um sistema de grade que possibilita segmentar as sílabas e representar com um (x) as sílabas proeminentes e um (.) as sílabas que não são proeminentes. Neste modelo, os elementos são colocados em pares dentro de parênteses e “cada constituinte tem um cabeça obrigatório, representado por um elemento da grade no nível acima, mais um não-cabeça opcional, que não tem uma marca correspondente no nível acima”28 (KAGER, 2007, p. 200).
+Por lidar com níveis acima da palavra, a teoria métrica prega que uma árvore métrica seja construída, visto que tal árvore é o reflexo da estrutura sintática. O estudo do acento dentro da estrutura sintática se faz importante para o entendimento de alguns processos; porém, devido às limitações deste trabalho, a atenção aqui recai sobre o acento em palavras simples e em palavras compostas na língua Deni. Estudos posteriores poderão tratar do acento dentro da estrutura sintática29.
+5.2 O acento na língua Deni
+Na língua Deni, a localização do acento é previsível. Ele cai sempre sobre a última sílaba da palavra, ou seja, a sílaba mais à direita. Sendo assim, padrão acentual é iâmbico nãoiterativo: iâmbico pelo fato da cabeça vir à direita (o que já mostra não se tratar de troqueu), e não-iterativo porque cada palavra forma um único pé, ou seja. Isso significa que, nos limites da palavra, não ocorre padrão alternante.
+27 Original: “Bounded versus unbounded stress”. 28 Original: “Each constituent has an obligatory head, represented by a grid element at the next-higher level, plus an optional non-head, which has no corresponding mark at the next-higher level” (KAGER, 2007, p. 200). 29 O corpus coletado para a realização desta pesquisa, em sua maioria, é composto por itens lexicais isolados; entretanto, não exclusivamente. Foram coletadas também várias sentenças. As interrogativas chamaram a atenção quanto ao acento; nelas parece que o acento cai sobre a penúltima sílaba da última palavra da sentença interrogativa. Por exemplo  “Você ouviu?”. Estudos posteriores poderão tratar do acento na sentença.
+
+77
+5.2.1 O acento em palavras simples Seguindo a tipologia de regras do acento proposta por Hayes (1995), pode-se dizer
+que o acento em Deni é previsível, visto que sua localização é fixa. Em palavras simples, forma-se um pé ilimitado com proeminência final. Seguem alguns exemplos:
+(90)  „Boto‟
+(91)  „Barata‟
+(92)  „Casa‟
+(93)  „Mulher‟
+(94)  „Mamão‟
+(95)  „Capivara‟
+(96)  „Caranguejo‟
+Há alguns substantivos possuídos em Deni que marcam a forma de posse de terceira pessoa do feminino com o sufixo |-| e a forma de posse de terceira pessoa do masculino com o morfema |-|. Nesses substantivos, ao se acrescentar uma sílaba, o acento mantém a regra e passa para a última sílaba à direita, tal como pode ser visto a seguir:
+(97)  „A cabeça dele‟  „A cabeça dela‟
+(98)  „O fígado dele‟
+
+ „O fígado dela‟
+(99)  „O joelho dele‟  „O joelho dela‟
+(100)  „O pé dele‟  „O pé dela‟
+(101)  „O olho dele‟  „O olho dela‟
+(102)  „A perna dele‟  „A perna dela‟
+As palavras tomadas de empréstimo do português são adaptadas à fonologia da língua Deni. O acento, portanto, também é adaptado ao padrão da língua Deni e cai sobre a última sílaba à direita: (103)  „Prato‟
+(104)  „Panela‟
+(105)  „Sacola‟
+(106)  „Pente‟
+(107)  „Lamparina‟
+(108)  „Vassoura‟
+
+79
+(109)  „Carro‟
+A seguir, são apresentados alguns exemplos da aplicação da grade parentetizada adotada por Hayes (1995) para ilustrar o padrão acentual iâmbico não-iterativo na língua Deni. Para cada palavra é formado um único pé com a cabeça à direita:
+
+(107) Nível de ProPal Nível do pé Nível da sílaba
+
+(
+
+x)
+
+(. x)
+
+  
+
+... „Capivara‟
+
+(108) Nível de ProPal Nível do pé Nível da sílaba
+
+(
+
+x)
+
+(. x)
+
+ 
+
+.. „O olho dela‟
+
+(109) Nível de ProPal Nível do pé Nível da sílaba
+
+(
+
+x)
+
+(. x)
+
+   
+
+.... „Eu tomarei banho‟
+
+(110) Nível de ProPal Nível do pé Nível da sílaba
+
+( x) (. x)   „Céu‟
+
+(111) Nível de ProPal Nível do pé Nível da sílaba
+
+(
+
+x)
+
+(. x)
+
+
+
+.. „Cará‟
+
+5.2.2 O acento em palavras compostas
+Uma palavra composta resulta da junção de duas palavras simples que formam uma única unidade significativa. Nas palavras compostas, o acento primário cai sobre a última sílaba à direita da segunda palavra, ao passo que o acento secundário cai sobre a última sílaba à direita da primeira palavra. Há uma diferença no grau de intensidade do acento da primeira palavra, visto que, em relação ao acento da segunda palavra, sua proeminência é reduzida:
+
+(112)  #     „Preservativo masc.‟
+
+ O pênis dele
+
+ A casca dele
+
+(113)  #     „Guarda-chuva‟
+
+ Morcego
+
+ A asa dele
+
+(114)  #     „Porta‟
+
+ O olho dele
+
+ O braço dele
+
+81
+
+(115)  #     „Homem homossexual‟
+
+ O ânus dele
+
+ Faminto
+
+Como já foi dito, as palavras compostas em Deni são o resultado da junção de duas palavras simples formando uma única unidade significativa. Nos compostos, cada palavra forma seu pé ilimitado com proeminência final, sendo que o segundo, no domínio da palavra, será mais proeminente. Seguem alguns exemplos da aplicação da grade em palavras compostas:
+
+(116) Nível de ProComp Nível de ProPal Nível do pé Nível da sílaba
+
+(
+
+(
+
+x)
+
+(. x)
+
+ 
+
+..
+
+x)
+
+(
+
+x)
+
+(. x)
+
+
+
+.. „Preservativo masculino‟
+
+(117) Nível de ProComp Nível de ProPal Nível do pé Nível da sílaba
+
+(
+
+x)
+
+( x) ( x)
+
+(. x) (. x)
+
+ 
+
+. . „Guarda-chuva‟
+
+(118) Nível de ProComp Nível de ProPal Nível do pé Nível da sílaba
+
+( ( x) (. x)  .
+
+x) ( x) (. x)  . „Porta‟
+
+(119) Nível de ProComp Nível de ProPal Nível do pé Nível da sílaba
+
+( ( x) (. x)  .
+
+x)
+
+(
+
+x)
+
+(. x)
+
+
+
+.. „Homem homossexual‟
+
+5.3 Resultados alcançados nesta seção
+Esta seção apresentou uma análise do acento em palavras simples e compostas na língua Deni seguindo a proposta de Hayes (1995). As palavras simples possuem um pé iâmbico não-iterativo; as palavras compostas são formadas pela junção de duas palavras simples, sendo o acento da segunda palavra – o acento mais à direita – o acento principal. Portanto, a língua Deni é classificada, quanto ao padrão acentual, como uma língua com acento fixo, pois o acento principal cai sempre na última sílaba à direita.
+
+83
+6 PROCESSOS MORFOFONOLÓGICOS
+Esta seção apresenta uma discussão sobre três processos morfofonológicos encontrados na língua Deni, a saber: assimilação, epêntese e síncope. Devido à limitação do conhecimento da morfologia da língua Deni, as considerações apresentadas aqui são ainda superficiais. Trabalhos posteriores poderão explorar mais a interface fonologiamorfologia dessa língua.
+6.1 O que são processos morfofonológicos?
+Payne (2006, p. 63) considera que um processo morfofonológico ocorre “quando um morfema muda sua forma em resposta aos sons que o rodeiam em um contexto particular30”. Nas línguas do mundo, é freqüente que os morfemas apresentem formas fonológicas diferentes, dependendo do ambiente em que ocorrem (HASPELMATH, 2002; ARONOFF; FUDEMAN, 2005; PAYNE, 2006; HAYES, 2009). As diferentes formas fonológicas de um morfema existem graças às regras de alternâncias de sons.
+Diz Haspelmath (2002, p. 181) que as alternâncias de sons são de dois tipos: “alternâncias automáticas” e “alternâncias morfofonológicas”31. Para o linguista, as alternâncias automáticas pertencem somente à fonologia, ao passo que as alternâncias morfofonológicas têm propriedades tanto fonológicas quanto morfológicas.
+6.2 Geometria de traços: considerações teóricas
+Os processos morfofonológicos da língua Deni são analisados à luz da Fonologia de Geometria de Traços, uma teoria fonológica não-linear. A Fonologia de Geometria de Traços, assim como as fonologias não-lineares, apresenta “uma ligação muito forte entre a visão fonológica e a fonética diante da fala, a ponto de se ter dúvidas se a distinção entre fonética e fonologia persiste nessa nova situação” (CAGLIARI, 1997, p. 13). Com respeito à forte ligação existente entre fonética e fonologia na Geometria de Traços, Clements e Hume (1995, p. 245) apontam para o fato de que
+30 Original: “When a morpheme changes its shape in response to the sounds that surround it in a particular context…” (PAYNE, 2006, p. 63). 31 Original: “automatic alternations”; “morphophonological alternations”.
+
+Enquanto os traços são normalmente interpretados como entidades psicológicas, eles são definidos em termos de padrões específicos da realização acústica e articulatória a qual fornece ligação crucial entre a representação cognitiva da fala e sua manifestação física32.
+Os modelos anteriores à Fonologia de Geometria de Traços representavam o fonema como uma coluna de traços. A Geometria de traços hierarquiza os traços e, assim, “cada fonema fica auto-segmentado, colocando suas propriedades distintivas em fileiras de acordo com a necessidade de aplicação de processos fonológicos independentes para cada fileira” (CAGLIARI, 1997, p. 17).
+Apresenta-se, a seguir, o modelo de geometria totalmente especificado com objetivo de ilustrar a organização dos traços dos segmentos consonantais e vocálicos (CLEMENTS; HUME, 1995):
+(120) Segmento consonantal:
+±sonorant root ±approximant
+-vocoid laryngeal
+[nasal] [spread]
+[constricted] oral cavity
+[voice] [continuant]
+C-place
+[labial] [coronal] [dorsal]
+[anterior] [distributed]
+32 Original: “While features are normally construed as psychological entities, they are defined in terms of specific patterns of acoustic and articulatory realization which provide the crucial link between the cognitive representation of speech and its physical manifestation” (CLEMENTS & HUME, 1995, p. 245).
+
+85
+(121) Segmento vocálico
++sonorant Root +approximant
++vocoid laryngeal
+[nasal] [spread]
+[constricted] oral cavity
+[voice] [continuant]
+C-place
+vocalic
+aperture V-place
+[open]
+[labial] [coronal] [dorsal]
+[-anterior] [distributed]
+Feitas essas considerações teóricas sobre a Fonologia de Geometria de Traços, cabe, agora, apresentar a análise dos processos morfofnológicos da língua Deni realizadas por Moran e Moran (1977).
+6.3 Processos morfofonológicos: a análise de Moran e Moran (1977)
+Os missionários Paul Moran e Dorothy Moran (1977) identificaram quatro processos morfofonológicos, os quais chamaram de “regras morfofonêmicas”: “Elisão”; “Inserção”; “Redução”; e “Perturbação”. Desses quatro processos, minhas análises levaram a apenas dois: “Inserção”, que chamo aqui de epêntese; e “Redução”, que chamo de síncope. Além dos processos morfofonológicos de epêntese e síncope, os dados permitem identificar também o processo de assimilação, somando, portanto, três processos morfofonológicos.
+
+Moran e Moran (1977, p. 29) dizem que na regra de elisão, “se um morfema termina na vogal -a, iniciando-se o morfema seguinte com uma vogal idêntica, uma delas se suprime”. Os autores apresentam os seguintes dados para comprovarem tal análise:
+
+(122) §-vada-ari ele dormir ppi (vadari) „Ele está dormindo.‟33
+(123) u-puva-ade eu beber pr (upuvade) „Já bebi.‟34
+(124) huppa-tu-na-aru correr ela mc ppi (huppatunaru) „Ela sai correndo.‟35
+
+A análise adotada aqui considera tais radicais como {vad-} “dormir” e {puv-} “beber”, visto que são encontradas formas como  “eu dormirei”,  “ela está dormindo”,  “eu beberei” e  “ele está bebendo”, que, dessa perspectiva, são divididas morfologicamente da seguinte maneira:
+
+(125)
+
+u - vad -
+
+{1ª Pes. Sing - Dormir -
+
+ituvi Tempo/Modo}
+
+
+
+“Eu dormirei”
+
+(126) vad -
+
+aru
+
+{Dormir - Passado/Presente + 3ª Pes. Sing. Fem.}
+
+
+
+“Ela está dormindo”
+
+33 A numeração original do exemplo do autor é (174). 34 A numeração original do exemplo do autor é (175). 35 A numeração original do exemplo do autor é (176).
+
+87
+
+(127) u
+
+-
+
+puv -
+
+ituvi
+
+{1ª Pes. Sing. - Beber - Tempo/Modo}
+
+
+
+“Eu beberei”
+
+(128) puv -
+
+aru
+
+{Beber - Passado/Presente + 3ª Pes. Sing. Fem.}
+
+
+
+“Ela está bebendo”
+
+Dessa perspectiva, não há processo morfofonológico de “elisão”, visto que o radical não apresenta a vogal .
+Em se tratando do processo de perturbação, Moran e Moran (1977, p. 30) dizem que alguns sufixos “produzem alteração da vogal –a do sufixo anterior em –i–, mas sem aparente regra fonológica. Antes parece haver sufixos „perturbadores‟ e „nãoperturbadres‟”. Seguem alguns exemplos extraídos de Moran e Moran (1977):
+(129) u-puva-tuvi eu beber fut (upuvituvi) „Beberei.‟36
+(130) ti-vada-ra-ba você dormir neg imp (tivadiraba) „Não durma!‟37
+Como pode ser visto, a análise do processo de perturbação segue a mesma interpretação dos radicais que a adotada no processo de elisão. Portanto, as análises
+36 A numeração original do exemplo do autor é (181). 37 A numeração original do exemplo do autor é (186).
+
+apresentadas aqui não apontam para a existência dos processos morfofonológicos de elisão e perturbação tal como a análise de Moran e Moran (1977).
+6.4 Assimilação
+Na língua Deni, há substantivos possuídos e não-possuídos (livres). Os substantivos possuídos são aqueles que obrigatoriamente apresentam um morfema preso à raiz indicando que tal substantivo é possuído por alguém; os substantivos não-possuídos (ou livres) não apresentam afixos presos à raiz.
+Nos substantivos possuídos, a posse é marcada pelos prefixos |-| para a 1ª Pessoa do Singular, |-| para a 2ª Pessoa do Singular e |-| 3ª Pessoa do Singular Masculino e Feminino.
+Dixon (1999) afirma que o proto-Arawá marcava o gênero nos substantivos possuídos com os sufixos |-| para masculino e |-| para feminino. As línguas Arawá mantiveram o morfema |-| e têm perdido o morfema |-|. Nas línguas Deni, Kulina e Madi, segundo Dixon (1999), o morfema |-| provoca uma assimilação das vogais  presentes no radical dos substantivos possuídos.
+Na língua Deni, |-| marca o gênero feminino; já |-| aparece, excepcionalmente, na palavra [] “o sangue dele” para marcar o gênero masculino. Seguem os substantivos possuídos nas formas de terceira pessoa do singular feminino e masculino que sofreram o processo de assimilação:
+(131) [] „A mão dela‟ [] „A mão dele‟
+(132) [] „A testa dela‟ [] „A testa dele‟
+(133) [] „A barriga dela‟ [] „A barriga dele‟
+
+89
+(134) [] „A pena dela‟ [] „A pena dele‟
+Há uma aparente irregularidade no nível superficial de tais substantivos possuídos quando comparados os gêneros masculino e feminino, visto que apresentam vogais diferentes no radical. Essa aparente irregularidade na forma superficial reflete uma regularidade em um nível mais profundo. É essa regularidade em um nível mais profundo que se pretende mostrar aqui .
+A explicação para esse processo baseia-se na hipótese de que tais substantivos passaram por algumas mudanças ao longo do tempo. É provável que a língua Deni tenha marcado o gênero masculino com |-|38. Seguindo essa linha, em um dado momento a língua Deni marcou o gênero masculino nos substantivos possuídos com |-| e o gênero feminino com |-|. Nesse momento a distinção deve ter sido feita da seguinte maneira:
+(135) [] „A mão dela‟ [] „A mão dele‟
+(136) [] „A testa dela‟ [] „A testa dele‟
+(137) [] „A barriga dela‟ [] „A barriga dele‟
+(138) [] „A pena dela‟ [] „A pena dele‟
+38 Essa hipótese ganha força com a forma excepcional [] “o sangue dele”, que, de acordo com tal perspectiva, foi a única forma encontrada no corpus que manteve |-|.
+
+Dixon (1999) afirma que a vogal  está sendo perdida nas línguas Paumari e Sorowahá; em seu lugar está sendo colocada a vogal  na terceira sílaba de uma raiz e a vogal  nos demais ambientes. Porém, para Dixon (1999, p. 296), “nas três línguas em que o e é mantido, ele desempenha um papel abrangente na assimilação de um a precedente, por exemplo ama-ne „sangue-MASC‟ tem se tornado eme-ne em Dení, Kulina e Madi”39.
+Sendo assim, levanto a hipótese de que as formas subjacentes dos substantivos em questão são [], [], [] e []. Aplica-se, então, a regra da assimilação das vogais  presentes em radicais de substantivos possuídos que precedem a vogal  presente no |-| e tem-se, respectivamente, as formas [], [], [] e []. Note que essas representações subjacentes ainda são diferentes das representações superficiais. Segue um esquema que ilustra tal processo:
+
+(139)
+
+[
+
+  
+
+]
+
+[      ]
+
+(140)
+
+[ 
+
+
+
+
+
+ ]
+
+[       ]
+
+39 Original: “In the three languages in which e is retained, it plays pervasive role in engendering assimilation of preceding a, e.g. ama-ne „blood-MASC‟ has become eme-ne in Dení, Kulina and Madi” (DIXON, 1999, p. 296). [] “o sangue dele” não é um bom exemplo, pois, como foi dito na nota anterior, é uma forma excepcional, já que é a única que apresenta a forma não possuída  “sangue”.
+
+91
+
+(141)
+
+[   
+
+
+
+ ]
+
+[       ]
+
+(142)
+
+[
+
+ 
+
+ ]
+
+[     ]
+
+Seguindo a proposta de Clementes e Hume (1995) para a representação dos segmentos pela Geometria de Traços, é representado, a seguir, o processo de assimilação dos traços [coronal], [-ab1] e [+ab2] sofrido pelas vogais que precedem a vogal  em alguns substantivos possuídos na língua Deni:
+
+(143) 
+
+
+
+x
+
+x
+
+r
+
+r
+
+Cavidade Oral [+contínuo]
+
+Cavidade Oral [+contínuo]
+
+Ponto de C
+
+Ponto de C
+
+Vocálico
+
+Vocálico
+
+Ponto de V
+
+Ponto de V
+
+[coronal]
+
+Abertura
+
+[dorsal]
+
+Abertura
+
+[-ab1] [+ab2]
+
+[+ab1] [+ab2]
+
+Desse processo de assimilação do  sobre as vogais  resultaram as seguintes formas: [], [], [] e [].
+Nas línguas Arawá, alguns substantivos possuídos, mas não todos, têm perdido o morfe marcador de gênero masculino |-| nos substantivos possuídos (DIXON, 1999).
+
+(144) []  
+
+(145) []  []
+
+(146) []  []
+
+(147) []  []
+
+93
+Nessas palavras, assim como em todos os demais substantivos possuídos, o morfe indicador de gênero masculino é |-|; já o morfe |-| aparece em todos os substantivos possuídos femininos. Seguem alguns exemplos disso:
+(148)  “O pé dele”  “O pé dela”
+(149)  “O fígado dele”  “O fígado dela”
+(150)  “A orelha dele”  “A orelha dela”
+(151)  “A perna dele”  “A perna dela”
+(152)  “A língua dele”  “A língua dela”
+A hipótese aqui levantada para a explicação do processo morfofonológico de assimilação leva em consideração três momentos que envolvem mudanças na língua: 1) a língua Deni marcou, nos substantivos possuídos, o gênero masculino com |-| e o gênero feminino com |-|; 2) a vogal  do |-| desempenhou o papel de assimilação das vogais  presentes nos radicais dos substantivos possuídos; e 3) a perda do |-| que fez com que tal morfema fosse representado pelo |-|.
+O processo de assimilação apenas ocorreu em radicais constituídos por sílabas com a vogal ; para as demais vogais, o processo foi bloqueado. Mesmo assim, o morfe marcador gênero masculino caiu em todos os casos, salvo a única exceção já referida.
+
+6.5 Epêntese
+Em Deni, os substantivos possuídos marcam a posse pelos prefixos |-| para a 1ª Pessoa do Singular, |-| para a 2ª Pessoa do Singular e |-| 3ª Pessoa do Singular Masculino e Feminino. O processo morfofonológico de epêntese em Deni consiste na inserção da consoante // entre um prefixo que marca posse e um substantivo possuído iniciado por vogal. Além de ocorrer com substantivos possuídos nas formas de primeira e segunda pessoa, a epêntese também ocorre com verbos começados por vogal e que recebem a marcação de pessoa antes do radical40. Seguem alguns exemplos que ilustram o processo de epêntese em Deni:
+
+(153) U
+
+–
+
+INU
+
+(1ª Pes. Sing. Posse)
+
+(dente)
+
+
+
+„Meu dente‟
+
+(154)
+
+TI
+
+–
+
+(2ª Pes. Sing. Posse)
+
+INU (dente)
+
+
+
+„Teu dente‟
+
+(155)
+
+U
+
+– AHARI
+
+(1ª Pes. Sing. Posse)
+
+(boca)
+
+
+
+„Minha boca‟
+
+40 Em Deni, a marcação de pessoa nos verbos pode ser de duas formas: ou a marcação vem antes do radical, como em u-vad-ituvi “Eu dormirei”(1ª Pes. Sing. – Radical – Tempo/Modo), ou depois do radical, como em hapi-u-tuvi “Eu tomarei banho”(Radical – 1ª Pes. Sing. – Tempo/Modo).
+
+95
+
+(156)
+
+TI
+
+–
+
+AHARI
+
+(2ª Pes. Sing. Posse)
+
+(boca)
+
+
+
+„Tua boca‟
+
+O processo de epêntese da consoante  em substantivos possuídos pode ser explicado para a forma de 1ª Pessoa do Singular Possessivo, visto que tal morfema é representado por |-| e, portanto, ambos os segmentos possuem o traço labial. Dessa forma seria possível dizer que a epêntese é o traço labial. Segue a representação desses segmentos na Geometria de Traços:
+
+(157)
+
+
+
+x
+
+r
+
+Cavidade Oral
+
+[+contínuo] Ponto de C
+
+Vocálico
+
+Ponto de V Abertura
+
+[labial] [dorsal] [-ab1] [-ab2]
+
+ x
+r
+[+larígeo] [-nasal] Cavidade Oral [+sonoro]
+[+contínuo] Ponto de C
+labial
+
+A forma de 2ª Pessoa do Singular Possessivo nos faz refutar a hipótese de que a epêntese seja o traço labial, pois tal morfema é representado por |-|, e o fonema  não apresenta o traço labial, tal como pode ser visto na representação dos segmentos  e  apresentada a seguir:
+
+(158)
+
+
+
+x
+
+r
+
+Cavidade Oral
+
+[+contínuo] Ponto de C
+
+Vocálico
+
+Ponto de V Abertura
+
+[coronal] [-ab1] [-ab2]
+
+ x
+r
+[+larígeo] [-nasal] Cavidade Oral [+sonoro]
+[+contínuo] Ponto de C
+labial
+
+A consoante epentética  provavelmente apareceu primeiro para a 1ª Pessoa do Singular Possessivo por assimilação do traço labial e acabou sendo incorporada também para a 2ª Pessoa do Singular Possessivo. A regra para a ocorrência da consoante epentética na língua Deni é formulada a seguir:
+
+97
+
+(159) -
+
+[epêntese]
+
++
+
+[]
+
++
+
+[u]
+
+Pron. Pos. de 1ª e 2ª Pes. do
+Singular
+
+[epêntese] Consoante + fricativa
+alveolar sonora
+
+Substantivo + possuído
+iniciado por vogal
+
+A epêntese da consoante , como já foi dito, ocorre também com verbos cujo radical se inicia com vogal e a pessoa é marcada por prefixo. O único exemplo de ocorrência da epêntese com verbo encontrado nos dados até o momento foi atikaru “ela quer”. Segue tal exemplo:
+
+(160)
+
+U – ATIK – ARU
+
+(1ª Pes. Sing) (querer) (presente/passado)
+
+
+
+„Eu quero‟
+
+(161) TI – ATIK – ARU (2ª Pes. Sing) (querer) (presente/passado)  „Você quer‟
+
+6.6 Haplologia
+Em Deni, a haplologia envolve o morfema marcador de 2ª Pessoa do Singular |-| e o morfema marcador de classe |--|41. Neste processo ocorre a supressão de uma sílaba. O que na forma de base são duas sílabas |-- + --|, no nível superficial é apenas uma |--|. Veja os exemplos a seguir:
+
+(162) HAPI - TI -
+
+NA
+
+-
+
+RU
+
+{banhar - 2ª Pes. Sing - marcador de classe - presente /passado}
+
+
+
+„Você está tomando banho‟
+
+(163) KIDZA - TI
+
+-
+
+NA
+
+-
+
+RU
+
+{adoentar-se - 2ª Pes. Sing. - marcador de classe - presente/passado}
+
+
+
+„Você está doente‟
+
+(164) HUPA {correr
+
+- TI
+
+-
+
+NA
+
+-
+
+RU
+
+- 2ª Pes. Sing. - marcador de classe - presente/passado}
+
+ˈ
+
+„Você corre‟
+
+41 Por ter um conhecimento ainda bastante superficial da morfologia da língua Deni, chamo, assim como Moran e Moran (1977) , o morfema |--| de marcador de classe, no sentido de que marca os verbos em que a marcação de pessoa vem depois da raiz.
+
+99
+Na língua Deni, os verbos carregam, obrigatoriamente, a marcação de pessoa. Os verbos em Deni podem ser divididos em duas classes: os que apresentam marcação de pessoa antes da raiz e os que apresentam marcação de pessoa depois da raiz42. Os verbos em que a marcação de pessoa vem antes do radical não apresentam o marcador de classe |--|, tal como pode ser visto nos exemplos a seguir:
+
+(165) U - PUV {1ª Pes. Sing. - beber ˈ
+
+ARU presente/passado}
+
+„Eu bebi‟
+
+(166) TI
+
+- VAD - ARU
+
+{2ª Pes. Sing. - dormir - presente/passado}
+
+ˈ
+
+„Você dormi‟
+
+(167)
+
+ - KADAPI
+
+{3ª Pes. - comer
+
+-
+
+ARI
+
+- presente/passado/masculino}
+
+ˈ
+
+„Ele comeu‟
+
+42 Não observamos uma sistematização dos verbos em que a marcação de pessoa vem antes da raiz e dos que a marcação de pessoa vem depois da raiz.
+
+Os verbos que apresentam marcação de pessoa depois do radical possuem, obrigatoriamente, o marcador de classe |--|. Seguem alguns exemplos:
+
+(168) IMA {Falar
+
+-
+
+I
+
+-
+
+NA
+
+- RU
+
+- 1ª Pes. Pl. - marc. de classe - presente/passado}
+
+ˈ
+
+„Nós falamos‟
+
+(169) DZEDI -
+
+
+
+- NA
+
+-
+
+RI
+
+{Caçar - 3ª Pes. - marc. de classe - presente/passado/ masculino}
+
+ˈ
+
+„Ele caçou‟
+
+(170) HUPA - U
+
+-
+
+NA
+
+-
+
+RU
+
+{Correr - 1ª Pes. Sing. - marc. de Classe - presente/passado}
+
+ˈ
+
+„Eu corri‟
+
+A haplologia ocorre somente em verbos cuja marcação de pessoa vem depois da raiz e exclusivamente depois do morfema de 2ª Pes. Sing. |--|. Nesse contexto, onde teríamos duas sílabas iniciadas pelas consoantes coronais  e  (|-- + --|) temse uma única sílaba |--|, que representa tanto a 2ª Pes. Sing., quanto o marcador de classe. A motivação para a haplologia, na língua Deni, é o traço [coronal] no onset. Segue a representação de tal processo:
+
+101
+
+(171)
+
+/t/
+
+x
+
+r
+
+[laríngeo] [nasal] Cavidade Oral [-sonoro]
+[-contínuo] Ponto de C
+
+[coronal]
+
+[+anterior]
+
+// x r [laríngeo] [+nasal] Cavidade Oral [-contínuo]
+Ponto de C [coronal] [+anterior]
+
+A regra de ocorrência do processo morfofonológico de haplologia pode ser vista em (172).
+
+(172) | -- + -- | {2ª Pes. Sing. + Marcador de Classe}
+
+|--|
+
+A regra apresentada em (172) lê-se: nos verbos em que a marcação de pessoa vem depois da raiz e, portanto, apresentam obrigatoriamente o marcador de classe |--|, ocorre o processo de haplologia com a 2ª Pes. Sing. |--|. Dessa forma, o que na forma de base é um |-- + --|, no nível superficial é |--|.
+
+6.7 Resultados alcançados nesta seção
+Esta seção apresentou uma análise dos processos morfofonológicos de assimilação, epêntese e haplologia da língua Deni. A assimilação ocorreu com alguns substantivos possuídos que tinham em seus radicais apenas vogais  que sofreram processo de assimilação da vogal  do morfema marcador de gênero masculino |-|; tal processo foi explicado por meio da diacronia.
+
+103
+CONSIDERAÇÕES FINAIS
+Esta dissertação é o resultado de uma pesquisa que teve por objetivo fazer uma análise fonológica da língua Deni, pertencente à família linguística Arawá. Embora tenham ficado algumas questões a serem resolvidas, dada a complexidade da fonologia das línguas naturais, este trabalho apresenta algumas conclusões relevantes.
+Na seção 1 apresentou-se a metodologia utilizada para o desenvolvimento da pesquisa. Tal seção apresentou também os modelos de análise fonológica utilizados para a análise de cada aspecto da fonologia da língua Deni.
+A seção 2 forneceu ao leitor informações sobre a família linguística Arawá e os subgrupos propostos por alguns autores. Além disso, em tal seção consta um mapa com a localização da Terra Indígena Deni, quantidade da população Deni, distribuição das aldeias e os estudos linguísticos já realizados sobre a língua.
+A seção 3 dedicou-se à análise fonêmica dos segmentos consonantais e vocálicos ancorada nas técnicas de identificação de fonemas propostas por Pike (1947). A aplicação de tais técnicas possibilitou identificar os fonemas que constituem a língua Deni: , , , , , , , , , , , , , , , , , , .
+Depois de identificados os fonemas da língua Deni, a seção 4 apresentou uma análise da sílaba na língua seguindo os princípios da teoria não-linear encontrados em Goldsmith (1990), Blevis (1995) e Kenstowicz (1994). Dessa forma se pode mostrar que os padrões silábicos da língua são CV e V, e que todas as consoantes podem ocupar a posição de onset e todas as vogais podem ocupar a posição de núcleo.
+Ao tratar do acento, a seção 5 apresentou algumas considerações sobre o acento na teoria métrica. Seguindo a proposta das propriedades tipológicas do acento feita por Hayes (1995), foi possível mostrar que a língua Deni possui o acento fixo, ou seja, o acento é previsível e cai sempre sobre a última sílaba à direita da palavra simples. Já em palavras compostas (uma unidade semântica formada por duas palavras), o acento secundário cai sobre a última sílaba à direita da primeira palavra e o acento principal cai sobre a última sílaba à direita da segunda palavra.
+Os processos morfofonológicos identificados são a assimilação, a epêntese e a haplologia. O processo morfofonológico de assimilação leva em consideração três momentos que envolvem mudanças na língua: 1) a língua Deni marcou a posse de terceira pessoa do singular com |-| para masculino e |-| para o feminino; 2) a vogal
+
+104
+ do |-| desempenhou o papel de assimilação das vogais  presentes nos radicais dos substantivos possuídos; e 3) a perda do |-| fez com que tal morfema fosse representado pelo |-|. O processo morfofonológico de epêntese consiste na inserção de um / v /, seja entre o prefixo que marca a posse de primeira ou segunda pessoa e um substantivo iniciado por vogal, seja entre o prefixo que marca primeira ou segunda pessoa e um verbo iniciado por vogal. A síncope, por fim, consiste na redução do fonema  do morfe marcador de 2ª Pessoa do Singular |--| e do fonema  do morfema marcador de classe |--|. O que na forma de base é |-- + --| ocorre no nível superficial como |--|.
+Diante de tudo que foi exposto, espera-se que este estudo, além de contribuir para o conhecimento da língua Deni e para o conhecimento da família linguística Arawá, possa trazer contribuições para a educação escolar nas aldeias Deni, iniciando um diálogo para uma ortografia.
+
+105
+REFERÊNCIAS
+ALTMAN, Cristina. As línguas gerais sul-americanas e a empresa missionária: linguagem e representação nos séculos XVI e XVII. In: FREIRE, J. R. B.; ROSA, M. C. (orgs.). Línguas gerais: política linguística e catequese na América do Sul no período colonial. Rio de Janeiro: EdUERJ, 2003. P 57-84.
+ARONOFF, M.; FUDEMAN, K. What is morphology? Malden: Blackwell, 2005.
+BLEVINS, J. The syllable in phonological theory. In: GOLDSMITH, J. (org.) The handbook of phonological theory. Oxford: Blackwell, 1995. p. 207-243.
+CAGLIARI, L. C. Análise fonológica – Introdução à teoria e à prática com especial destaque para o modelo fonêmico. Campinas: Mercado de Letras, 2002.
+______. Fonologia da português – Análise pela Geometria de Traços. Campinas: edição do autor, 1997. (Distribuição: Ed. Pontes).
+CAVALCANTE, P. B. Frutas comestíveis da Amazônia. 7ª ed. Belém: Museu Paraense Emílio Goeldi, 2010.
+CHOMSKY, N. HALLE, M. The sound pattern of english. New York: Rarper and Row, 1968.
+CLAK, J.; YALLOP, C. An introduction to phonetics and phonology. 2ª ed. Oxford: Blackwell, 1995.
+CLEMENTS, G. N.; HUME, E. V. The internal organization of speech sounds. In: GOLDSMITH, J. A. (org.) The handbook of phonological theory. Oxford: Blackwell, 1995, p. 245-301.
+COLLISCHONN, G. A sílaba em português. In: BISOL, L. (org.) Introdução a estudos de fonologia do português brasileiro. 2 ed. Porto Alegre: EDIPUCRS, 1999, p. 91-124.
+DIENST, S. A reference grammar of Kulina. 2007. 371f. Tese (Doutorado em Linguística) – Research Centre for Linguistic Typology, La Trobe University, Bundoora, 2007.
+DIENST, S. The internal classification of the Arawan language. Liames. Campinas. v. 8. p. 61-67. 2008.
+DIXON, R. M. W. Arawá. In: DIXON, R. M. W.; AIKHENVALD, A. (eds.). The Amazonian Languages. New York: Cambridge University Press. pp. 294 – 306, 1999.
+______. The Jarawara language of southern Amazonia. Oxford and New York: Oxford University Press, 2004.
+
+106
+EVERETT, D. Sistemas prosódicos da família Arawá. In: WETZELS, L. Estudos fonológicos das línguas indígenas brasileiras. Rio de Janeiro: Editora da UFRJ, 1995. p. 297-340.
+GOLDSMITH, J. Autosegmental and metrical phonology. Oxford: Basil & Blackwell. 1990.
+HAYES, B. Metrical stress theory: principles an case studies. Chicago and London: The University of Chicago Press, 1995.
+______. Introductory phonology. Malden: Wiley-Blackwell, 2009.
+HASPELMATH, M. Understanding morphology. London: Arnold, 2002.
+HERNANDORENA, C. L. M. Introdução à teoria fonológica. In: BISOL, L. (org.) Introdução aos estudos de fonologia do português brasileiro. 2 ed. Porto Alegre: EDIPUCRS, 1999, p. 11-90.
+HOGG, R. M.; MCCULLY, C. B. Metrical phonology: a coursebook. Cambridge: Cambridge University Press, 1987.
+HOOPER, J. An introduction to natural generative phonology. New York: Academic Press, 1976.
+KAGER, R. Feet and metrical stress. In: DE LACY, P. (org.) The Cambridge handbook of phonology. Cambridge: Cambridge University Press, 2007. p. 195-227.
+KAHN, D. Syllable – based generalization in English Phonology. Tese de PhD. Cambridge, Massachussetts: MIT, 1976.
+KENSTOWICZ, M. Phonology in generative grammar. Cambridge/MA: Blackwell, 1994.
+KOOP, G.; KOOP, L. Dicionário Deni-Português. 1985. Disponível em: <http://www.sil.org/americas/brasil/publcns/dictgram/DNDict.pdf>. Acesso em: 29 abr. 2011.
+KOOP, G. Dení verb endings. 1980. Disponível em: <http://www.sil.org/americas/brasil/publcns/ling/DNVrbEnd.pdf>. Acesso em: 29 abr. 2011.
+______. Os afixos pessoais em Deni. 1976. Acesso em: http://www.sil.org/americas/brasil/publcns/ling/DNAfix.pdf>. Acesso em: 29 abr. 2011.
+______. Process and roles in Deni clause structure. 1977. Disponível em: <http://www.sil.org/americas/brasil/publcns/ling/DNClause.pdf>. Acesso em: 29 abr. 2011.
+LANGACKER, R. W. A linguagem e sua estrutura: alguns conceitos linguísticos fundamentais. Tradução de Gilda Maria Corrêa de Azevedo. Petrópolis: Vozes, 1972.
+
+107
+
+LIBERMAN, M.; PRINCE, A. On stress and linguistic rhythm. Linguistic Inquiry 8. Cambridge, Massachussetts, MIT Press, p. 249-336. 1977.
+
+MASSINI-CAGLIARI, G.; CAGLIARI, L. C. Fonética. In: MUSSALIN, F.; BENTES, A. C. (orgs.) Introdução à linguística: domínios e fronteiras. São Paulo: Cortez, 2001. vol. 1, pp. 105-146.
+
+MASSINI-CAGLIARI, G. Acento e ritmo. São Paulo: Contexto, 1992. – (Coleção Repensando a língua portuguesa)
+
+MELATTI,
+
+J.
+
+C.
+
+Juruá-Purus.
+
+Disponível
+
+em:
+
+<http://www.juliomelatti.pro.br/areas/18jurpur.pdf>. Acesso em: 29 ago. 2012.
+
+MOORE, D.; GALUCIO, A. V.; GABAS JR, N. O Desafio de Documentar e Preservar as Línguas Amazônicas. Museu Goeldi-MCT, 2008.
+
+MORAN, Paul; MORAN, Dorothy. Notas sobre morfologia verbal Dení. 1977. Disponível em: <http://www.sil.org/americas/brasil/publcns/ling/dnmorfvb.pdf>. Acesso em: 29 abr. 2011.
+
+OLIVEIRA, T. G. & CASSARO, K. Guia de identificação dos felinos brasileiros. 2ª ed. São Paulo: Sociedade dos Zoológicos do Brasil, 1999.
+
+PAYNE, T. E. Exploring language structure: a student‟s guide. Cambridge: Cambridge University Press, 2006.
+
+PEZZUTI, J.; CHAVEZ, R. P. Etnografia e manejo de recursos naturais pelos índios Dení, Amazonas, Brasil. Acta Amazônica, Manaus, v.39, n.1, p.121-138, mar. 2009. Disponível em: <http://www.scielo.br/scielo.php?script=sci_arttext&pid=S004459672009000100013>. Acesso em: 29 abr. 2011.
+
+PIKE, K. L. Phonemics: a technique for reducing languages to writing. Ann Arbor: The University of Michigan Press, 1971 (1ª ed. 1947).
+
+RAMIREZ, H. Questionários. s/d.
+
+RODRIGUES, A. D. Línguas brasileiras: para o conhecimento das línguas indígenas. 4 ed. Campinas: Loyola, 2002.
+
+______. Sobre as línguas indígenas e sua pesquisa no Brasil. Ciência e Cultura (SBPC). São Paulo. v. 57. n. 2. pp. 35-38. 2005.
+
+ROSA, M. C. A língua mais geral do Brasil nos séculos XVI e XVII. In: FREIRE, J. R. B.; ROSA, M. C. (orgs.). Línguas gerais: política lingüística e catequese na América do Sul no período colonial. Rio de Janeiro: EdUERJ, 2003.
+
+SEKI, L. Línguas indígenas do Brasil no limiar do século XXI. Impulso. Piracicaba. v. 12, n. 27. pp. 157-170. 2000.
+
+108
+SILVA, T. C. Fonética e fonologia do português: roteiro de estudos e guia de exercícios. 4ª ed. São Paulo: Contexto, 2001. SPENCER, A. Phonology: theory and description. Oxford: Blackwell, 1996. TISS, F. Gramática da língua Madiha (Kulina). São Leopoldo: Oikos, 2004. ZEC, Draga. The syllable. In: DE LACY, P. (org.) The Cambridge handbook of phonology. Cambridge: Cambridge University Press, 2007. p. 161-194.
+
+

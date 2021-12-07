@@ -1,0 +1,2176 @@
+r
+
+K
+
+Consuelo de Paiva Godinho Costa
+
+DissertaÃ§Ã apresentada ao Departamento de LinguÃ-stic do Instituto de Estudos da Linguagem da Universidade Estadual de Campinas, como requisito parcial para a titula@io de Mestre em LinguÃ-stica
+Orientador: Wilmar da Rocha D'Angelis
+UNICAMP INSTITUTO DE FSTUDOS DA LINGUAGEM
+2003
+
+IEL - UNICAMP
+
+i
+
+Costa, Consuelo de Paiva Godinho
+
+Nhandewa Avwu. 1 Consuelo de Paiva Godinho Costa. - -
+
+Campinas, SP: [s.n.], 2003.
+
+Orientador: Wilmar da Rocha D'Angelis DissertaÃ§Ã(mestrado) - Universidade Estadual de Campinas; Instituto de Estudos da Linguagem.
+1. LÃ-ngu indÃ-gen - Fonologia. 2. LÃ-ngu Guarani. 3. Ã•ndio
+Guarani. 4. Lingu'stica. 5. Nasalidade. I. D'Angelis, Wiimar da Rocha. 11. Universidade Estadual de Campinas. Instituto de Estudos de Linguagem. 11..TÃ-tulo
+
+e anrovada pela ComissÃ£Julgadora em
+Banca Examinadora
+Prof. DF. Maria Bernadete Marques Abaurre ProP. Dra.Daniele Marcelle Grannier Prof. Dr. Wiirnar da R^+ DfAngelis
+
+Resumo:
+Nhandewa aywu Ã um estudo sobre a Fonologia da lÃ-ngu NhandewaGuarani, falada por comunidades indÃ-genado estado de SÃ£Paulo e norte do ParanÃ¡O texto compÃµe-sde duas partes: A Etnia Nhandewa-Guarani e A lÃ-ngudos Nhandewa-Guarani. Na primeira parte, trato o nome, a histÃ³ri e as caracter'sticas dialetais dessa etnia, alÃ©das migraÃ§Ãµreligiosas e do percurso atÃa fixaÃ§Ãnas Ã¡reaatuais. A segunda parte, linguÃ-sticaÃcomposta por trÃªcapÃ-tuloso primeiro apresenta o inventÃ¡ri fonÃ©tice propÃµuma interpretaÃ§Ãpara a fonologia; o segundo Ã uma discussÃ£ sobre a interpretaÃ§Ãproposta e as oposiÃ§Ãµ fundamentais da lÃ-nguao terceiro destaca dois processos relevantes na fonologia do Nhandewa-Guarani: a harmonia nasal e o desaparecimento da fricativa glotal /h/. ApÃ³estes capÃ-tulosalgumas consideraÃ§Ãfµinais.
+
+Abstract:
+Nhandewa aywu is a phonological study about the Nhandewa-Guarani language, spoken by indigenous communites in SÃ£Paulo and northem ParanÃ states. This text has two sections: Tke Ethnic Group Nh'ndezoa-Guarani and the Nhandewa-Guarani Language. In the first one, I discuss on Nhandewa name, history and dialectal features, furthermore to consider the religious nomadism and the route as far as the actual territorial fixation. The second is a linguistic one and has three chapters: the first presents the phonetic inventory and proposes a phonological interpretation; the second deals with a discussion about the interpretation proposed some lives above and the fundamental oppositions of the language; the third analyses two phonological relevant process in the language: the nasal harmony and the glottal fricative /h/ elirnination. Then, some close considerations.
+vii
+
+Dirijo meus agradecimentos:
+AS comunidades Nhandewa Guarani, dos Postos IndÃ-gena Nimuendaju, PiaÃ§agueraItariri, Laranjinha e Pinhalzinho.
+A Wilmar R. D'Angelis, pela orientaÃ§Ã£ A FAPESP, pelo fomento a pesquisa. A minha famÃ-liaCÃ¡ssiominha mÃ£Judith, meu pai Antonio Vitor, meus irmÃ£oEstevÃ£e Carola, meus sobrinhos Juninho e Vinicius.
+
+ApresentaÃ§Ã.......................................................................................................................... 3 IntroduÃ§Ã............................................................................................................................... 7
+
+Parte I:
+
+A ETNIA NHANDEWA-GUARANI .................................................................................. 11
+
+Os Nhandewa-Guarani de SÃ£Paulo e norte do Parana: nome. histÃ³ri e dialeto ............. 13
+
+. 1-
+2-
+
+O A
+
+nhoismtoen..a......................................................................................................................................................................................................................................................
+
+14 17
+
+2.1. Ywy mara.e3-ywa : A Terra sem Males ...................................................................... 20
+
+2.2. A formaÃ§Ãdas seis aldeias atuais ............................................................................ 23
+
+3- Nhandewa aywu : O dialeto ............................................................................................. 27
+
+Parte H:
+
+A LÃ•NGUDOS NHANDEWA-GUARA...N...I............................................................................ 43
+
+. . 1- 11In..21v..eFQnotnuÃeas¡drrivofooFcnoaÃnli.©oclotoiscge.i...qc..ou..a.d.d.a.r.s.o..v.f.oo..g.n..ao..il.s.Ã.....³..g.....i...c.............................................................................................................................................................................................................................
+
+45 45 45
+
+. 1.3.
+1.4. 1.5.
+
+FQSoiusnateedmsrocaotf.ionznsaooÃn.lo§agandi.tcaaoifsod..n.a..so..lc.o.o..g.n.i.sa..o....a....n.....t..e....s...................................................................................................................................................................................................................................
+
+46 46 47
+
+2- 2D.1i.scOuspsoÃsi.£Ãd.a§aiOntrearlpxreNtaaÃsa§lÃ..o.£.p...o..s..i.Ã...§..Ã....µf.u...n..d..a..m....e..n..t.a..i.s...d..a...l..Ã...-..n..g..u........................................................................
+
+55 55
+
+2.2. OposiÃ§ÃSoante x Obstruinte................................................................................... 56
+
+2.2.a. 1"hipÃ³tes de classificaÃ§Ãquanto a soanticidade................................................. 57
+
+2.2.b. 2ahipÃ³tes de classificaÃ§Ãquanto a soanticidade................................................. 58
+
+2.2.c- Nossa proposta de interpretaÃ§Ãpara o sistema fonolÃ³gic consonantal.............. 59
+
+- 2.3. As Consoantes........................................................................................................... 60
+2.3.a. Obstruintes.............................................................................................................. 60
+2.3.a.I. Os segmentos afiicados /ts/ e /t\/.................................................................... 60
+
+2.3.a.11 .A neutralizaÃ§Ãentre /t>/ e /t\/...................................................................... 63
+
+2.3.a.111 - A 2.3.a.W- A
+
+lvaabni.a.alÃi.z*§aadeanh tre [/.s..]..e....[.t.s..]..................................................................................................................................................................
+
+64 66
+
+2.3.b. Soantes ...................................................................................................................
+
+67
+
+2.3.b.I - A variaÃ§Ãentre [v], [w] e [u] ........................................................................... 68
+
+2.3.b. Ii.O tap /r/............................................................................................................ 69
+
+2.4. As vogais ...................................................................................................................
+
+71
+
+3 -3.F1a-toNs masaailsi.zraeÃle.§vaaonotefastdoacfrouncioallo..g..i.a...d..o...N....h..a..n..d..e..w....a..-.G...u...a..r.a..n..i...................................................................................
+
+75 75
+
+3.l.a. As oclusivas prÃ©-nasalizada.................................................................................. 75
+
+3.1.a.I- Os segmentos nasais e sua relaÃ§Ãcom os prÃ©-nasalizad.o............................... 76
+
+3.1.a.II. Os prÃ©-nasalizado/ib/e /;d e a alternÃ¢ncicom os nasais plenos ................77
+
+3.1.a.III.Os prÃ©-nasalizadvoelares ...............................................................................8. 0 3.l.b. Harmonia Nasal ...................................................................................................... 82
+
+3.1.b.I. Fonte, alvo. transparÃªnciaopacidade. direÃ§Ãe domÃ-n.i.................................. 83
+
+3.1.b.II- A Harmonia nasal em Guarani numa abordagem da Fonologia Lexical............ 87
+3.1.b.111- Uma abordagem Autossegmental: "padrÃµesde Harmonia Nasal.................... 89
+3.1.b.IV - A abordagem MorfÃªmic de Long Peng .......................................................... 93
+3.1.b.V- Nossa proposta de anÃ¡lisda harmonia nasal do Nhandewa-Guarani ............... 95 3.1.b.V. 1-A associaÃ§Ãentre nasalidade e acento......................................................... 103
+
+3.2. A fricativa glotal /h/o:fato novo........................................................................... 109
+
+3.2.1.Tabela 1................................................................................................................ 115
+
+3.2.2. Tabela 2 ................................................................................................................ 116
+
+BCio.bnlci.olugsrÃafµiae...................................................................................................................................................................................................................................................
+
+119 121
+
+Desde as missÃµejesuÃ-tica dos sÃ©culoXVI e XVII - que nos deixaram importantes e Ãºtei trabalhos sobre as lÃ-Ã-gunativas da AmÃ©ricdo Sul, com
+apontamentos histÃ³rico e linguÃ-stica pertinentes - atÃ as atuais pesquisas
+inspiradas pelos modelos lingiiÃ-sticodo sÃ©cuXl X, o estudo das lÃ-nguaindÃ-gena tem contribuÃ-d deveras para a discussÃ£ linguÃ-stic de maneira geral, seja confirmando, seja questionando as antigas teorias ou ainda oferecendo dados para a elaboracÃ£de teorias novas.
+Na maioria das vezes, porÃ©msomente a academia beneficia-se do estudo das lÃ-nguaindÃ-genase essa Ã uma situaÃ§Ãhistoricamente marcada, como se sabe. Os povos indÃ-genasmuitas vezes, sÃ£excluÃ-dodo processo, contribuindo apenas como 'informantes'.
+As comunidades indÃ-genasdesde que por vontade prÃ³pri e devidamente informadas de causas e consequÃªncias1 podem, se quiserem e acharem de utilidade, beneficiar-se com as pesquisas sobre suas lÃ-nguasE justo que o trabalho com a lÃ-nguindÃ-genseja feito principalmente para os Ã-ndioe, onde possÃ-vel pelos prÃ³prio Ã-ndiosE Ã justo que a universidade faÃ§isso ser cada vez mais possÃ-vel
+O estudo da lÃ-ngu indÃ-gen pode, por exemplo, viabilizar uma revalorizacÃ£do idioma, desejada por vÃ¡riaetnias que habitam as regiÃµede mais antiga colonizaÃ§Ã£como o nordeste e o sudeste. No estado de SÃ£Paulo, por exemplo, as lÃ-nguanativas dos Ã-ndiotÃª sido sufocadas pelo portuguÃª e pela
+1 Na formulaÃ§Ãde D'Angelis, de forma 'esclarecida e livre' (comunicaÃ§Ãpessoal).
+
+escola do "branco", que sÃensina em portuguÃªsA comunidade pode utilizar os estudos das lÃ-nguaindÃ-genapara transformar essa mesma escola num lugar no qual se fortaleÃ§aou mesmo, se aprenda tambÃ©a lÃ-nguindÃ-genauma escola bilÃ-ngÃ¼Outra aplicaÃ§Ãpode ser a produÃ§Ãde material didÃ¡tic como forma real e efetiva de se reafirmar a identidade cultural indÃ-genfrente a outros grupos indÃ-gena ou frente ao homem branco e tambÃ© como forma de garantir o bilingÃ¼isma que deveriam ter direito.
+Hoje, parece ser irreversÃ-veo processo que transformou muitos povos indÃ-genaem falantes nativos de portuguÃªsA escola bilÃ-ngÃn¼esses casos, deve ensinar a lÃ-ngu indÃ-gen como segunda lÃ-ngu e, sendo essa a situaÃ§Ã£a investigaÃ§Ãlingu'stica do idioma pode contribuir para a viabilizaÃ§Ãdo ensino da lÃ-ngu indÃ-genapor professores Ã-ndiosnas escolas das Ã•reas E com tal compreensÃ£da responsabilidade social da universidade que este trabalho estÃ comprometido.
+Esta pesquisa teve inÃ-cicom o pedido, feito pela comunidade NhandewaGuarani do Posto IndÃ-genNimuendajuz, de que se fizesse u m registro e estudo da lÃ-nguque era, ainda, falada pelos idosos da aldeia, a fim de ensinÃ¡-las crianÃ§a na escola da Ã•rea Estive pela primeira vez no Posto IndÃ-genNimuendaju em junho de 1998, acompanhando o professor Wilmar D'Angelis e mais um colega linguista. O objetivo da visita era atender ao pedido da comunidade, intermediado pelo entÃ£cacique Claudemir Marcolino. ComeÃ§avali um longo trabalho, o qual nÃ£tenho a pretensÃ£de esgotar aqui.
+Concomitante a isso, os prÃ³prioprofessores Ã-ndiosnessa e em outras Ã¡rea Nhandewa aparentada+, deram inÃ-ciao ensino do Nhandewa na escola, a noite,
+MunicÃ-pide AvaÃS- Ã£Paulo. 3 As ireas indÃ-gena Nhandewa que fazem parte desse projeto s'o cinco: Posto IndÃ-gen Nimuendaju, municÃ-pi de AvaÃ-Posto IndÃ-gen Itariri, municÃ-pi de Itariri; Posto IndÃ-gen PiaÃ§agueramunicÃ-pi de ItanhaÃ©mno estado de S'o Paulo e Posto IndÃ-gen Pinhalzinho,
+
+ao que compareciam muitas pessoas, adultos e crianÃ§ase muito interessados em
+aprender. Cada professor acabou convencionando um alfabeto prÃ³prio que
+posteriormente viriam a ser unificados no que chamamos de "ConvenÃ§Ãµ
+LinguÃ-sticaNhandewa-Guarani", nas quais prestamos consultoria linguÃ-sticaos
+professores Ã-ndioe lideranÃ§adas aldeias4.
+Foram feitas vÃ¡riaoutras viagens ao Posto IndÃ-genNirnuendaju, ao PIN
+Pinhalzinho, ao PIN Laranjinha e tambÃ©a ItanhaÃ©- coletando um razoÃ¡ve corpo de dados da lÃ-ngu- e algumas reuniÃµecom os professores indÃ-genadas
+cinco aldeias principais. Atualmente concretizou-se, ainda que parcialmente, o
+nosso compromisso com a comunidade Nhandewa-Guarani paulista-paranaense,
+atravÃ©de uma primeira tiragem de parte do material didÃ¡tic produzido pelos
+professores Ã-ndiosnaquelas reuniÃµessE claro que sempre estivemos cientes, nÃ³e
+os Ã-ndiosdas reais possibilidades de 'resgate' ou de 'revitalizaÃ§Ãd£o Nhandewa,
+porÃ©mo gesto polÃ-ticdessa etnia de valorizar a lÃ-nguindÃ-gencomo marca de
+identidade cultural Nhandewa, desejar se identificar como Nhandewa atravÃ©da
+lÃ-ngue agir nesse sentido, por si sÃ³Ãuma atitude decisiva. O objetivo principal do trabalho com as lÃ-nguaindÃ-genadeve ser, em
+primeiro lugar, beneficiar a prÃ³pri comunidade indÃ-gena atendendo aos
+interesses dela. A discussÃ£ linguÃ-stic de maneira geral, com certeza serÃ
+estimulada e surgirÃ£ questÃµe linguÃ-stica produtivas, nesse caminho. Esse
+municÃ-pi de Tomazina; Posto IndÃ-genLaranjinha, municÃ-pide Santa AmÃ©liano estado do ParanÃ¡
+* Cada professor indÃ-gen havia convencionado uma grafia prÃ³pri para ensinar o dialeto As
+- crianÃ§aso que resultava em diferentes convenÃ§ÃµortogrÃ¡ficaem cada aldeia no caso do PIN
+Nimuendaju, onde trÃªmembros da comunidade atuavam como professores de Guarani, a situaÃ§Ã era mais discrepante. As intensas mudanÃ§atemporÃ¡ria entre os membros da cinco Ã¡rea dificultava o aprendizado da lÃ-ngupela crianÃ§que encontrava em cada professor uma grafia diferente para o mesmo dialeto. EntÃ£o decidiu-se convencionar uma Ãºnic grafia para o Nhandewa-Guarani, que seria usado por todos os professores dessas aldeias. 5 Foi publicado pelo MEC, no final de 2002, somente um dos trÃª livros que compÃµe o material didÃ¡ticouma ediÃ§ÃbilÃ-ngÃdo livro de textos. Os outros dois sÃ£oum livro de alfabetizaÃ§Ã(que introduz ao aluno, alfabetizado em portuguÃªsos sons e letras do Nhandewa que no' ocorrem no portuguÃªse um livro de textos em Nhandewa (versÃ£monolÃ-ngÃdo livro que foi publicado).
+
+trabalho Ã©entÃ£ouma breve discussÃ£das questÃµelinguisticas mais pertinentes que surgiram ao se registrar e analisar o Nhandewa-Guarani contemporikeo da regiÃ£mencionada. Algumas delas tocam pontos "clÃ¡ssicos no estudo das lÃ-ngua Tupi, assim como de outras variedades Guarani, como Ã o caso da harmonia nasal (uma questÃ£ para a qual a fonologia ainda nÃ£ tem uma interpretaÃ§Ã estabelecida) e dos processos fonolÃ³gico diacrÃ´nico na sÃ©rdi as fricativas, em lÃ-nguaTupi.
+A pesquisa do Nhandewa levantou aspectos linguisticos pertinentes, colocando questÃµerelevantes, principalmente, para a FonÃ©tice Fonologia, alÃ©m Ã claro, de tocar em questÃµe'clÃ¡ssicas da etnolingÃ¼Ã-stcicomo a classificaÃ§Ã interna das lÃ-nguado Tronco Tupi. Ã um trabalho de orientaÃ§Ãpragueana que utiliza tambÃ©modelos fonolÃ³gicoatuais (nÃ£o-lineares)
+Essas observaÃ§ÃcµompÃµementÃ£oesta dissertaÃ§Ã£ O texto Ã dividido em duas partes principais: 'HistÃ³rica e 'Linguistica'. Na parte I, 'A Etnia Nhandewa-Guarani', tratarei a histÃ³ri dessa etnia, como se formaram as aldeias consideradas como "parentes", a lÃ-ngue posiÃ§Ãdela no Tronco LingtiÃ-sticTupi, suas diferenÃ§ae semelhanÃ§aem relaÃ§Ãa outras lÃ-ngua Tupi, a outros dialetos Guarani e a outros subdialetosNhandewa. A parte 11, 'A LÃ-ngudos Nhandewa-Guarani', Ã composta por um capÃ-tul de apresentaÃ§Ã do sistema fonolÃ³gico outro de discussÃ£ dos quadros fonolÃ³gico e um terceiro tratando duas questÃµe que merecem destaque na Fonologia da lÃ-nguaa harmonia nasal e a nÃ£ocorrÃªncida fricativa glotal /h/. As consideraÃ§Ãµfinais sÃ£um breve apanhado das principais conclusÃµe do trabalho6.
+Agradqo as criticas e sugest'es da ProjP. DF. Ester M. Scarpa e do Prof. Dr. Angel C. Mori, que compuseram a banca de qualificaÃ§tloda ProjP. Dr". Maria Bernadete M. Abaurre e da ProjP. DF. Daniele M. Grannier, que compuseram a banca de defesa.
+
+O Guarani Ã©possivelmente, uma das lÃ-nguaindÃ-genasul-americanas que coleciona o maior nÃºmer de estudos a seu respeito. PorÃ©matÃ aqui se tem privilegiado alguns dialetos (o Guarani paraguaio7, o MbyÃe o KaiowÃ¡)deixando de lado o Nhandewa-Guarani. Este estudo, que poderia ser apenas mais uma monografia entre as tantas jÃexistentes sobre o Guarani, trata uma variedade dessa lÃ-ngu que, apesar de ter sido deixada de lado pelos pesquisadores, pode enriquecer sobremaneiraa discussÃ£linguÃ-stica
+LÃ-ngudo tronco Tupi e da famÃ-liTupi-Guarani, o Guarani Ã falado, no Brasil, em trÃªvariedades principais: o MbyÃ¡o KaiowÃe o Nhandewa8, isso se nÃ£
+contarmos o Guarani paraguaio (AvanheÃ©m- tambÃ©falado no Brasil nas regiÃµe
+de fronteiracom aquele paÃ--,outros subdialetos naqueles trÃªgrupos e, ainda, as misturas entre esses subdialetos9.Ao grupo Nhandewa (tambÃ©chamado de AvÃ¡ ~attÃ--Ã‰ptÃer©tencem os Nhandewa-Guarani de SÃ£Paulo e norte do ParanÃ¡ grupo que se considera uma unidade Ã©tnice dialetal. Distinguem-se, linguÃ-stice culturalmente, dos grupos falantes dos dialetos 'principais' do Guarani no Brasil (MbyÃ¡ KaiowÃ e AvanheÃ©m)sÃ£ igualmente distintos de outros grupos Nhandewa de outras regiÃµedo Brasil, como os que habitam a regiÃ£do rio OcoÃe do Rio das Cobras (PR) e rio Iguatemi (MS), de onde partiram, hÃ quase dois sÃ©culooss grupos que viriam a formar as aldeias aqui consideradas. Pelas mesmas
+7 O Guarani falado pela populaÃ§ÃnÃ£o-indÃ-geno Paraguai tambÃ© Ã conhecido como AvanheÃ©mUsarei um ou outro para me referir ao mesmo dialeto.
+8 Segundo classificaqÃ£de Egon Schaden (1954:lZ).
+9 No Mato Grosso do Sul a convivÃ©ncpi rolongada de grupos Nhandewa e grupos KaiowÃtem levado pesquisadores a referirem-se a um dialeto "Guarani-KaiowÃ¡" como me lembrou D'Angelis, em comunicaÃ§Ãpessoal. 10 De acordo com a denominaÃ§Ãreferida por Bartomeu MeliÃ(1992: 245), estudioso paraguaio do Guarani, os AvÃ¡-Katu-Et sÃ£os mesmos chamados por Egon Schaden de Nhandewa.
+
+razÃµehistÃ³ricasseu dialeto e cultura distanciam-se do dialeto Nhandewa de
+aldeias do Paraguai
+Assim, os grupos Nhandewa-Guarani paulista-paranaenses podem ser
+considerados um subgrupo Ã©tnicdos Guarani chamados de Nhandewa. Muitas
+vezes usam a autodenominaqÃ£ "Tupi-GuaraniYt1Js,Ã£ aproximadamente 570
+pessoas, habitando seis aldeias?
+Posto IndÃ-genNimuendaju (antigo AraribÃ¡)no municÃ-pide AvaÃ-prÃ³xim
+a cidade de Duartina, no estado de SÃ£Paulo, as margens do rio AraribÃ¡Ali
+vivem cerca de 35 famÃ-liaNhandewa (aproximadamente160 pessoas), numa Ã¡re
+de 2225 hectares que hoje estÃdividida com outra etnia, os Terena, ficando a Ã¡re
+Nhandewa com pouco mais de 1000ha. Posto IndÃ-genPeruÃ-b(ou Bananal13), no municÃ-pide PeruÃ-belitoral sul de
+SÃ£Paulo, onde vivem aproximadamente 6 famÃ-iia(cerca de 30 pessoas).
+Posto IndÃ-genPiaÃ§aguerano municÃ-pide ItanhaÃ©mlitoral centro-sul de
+SÃ£Paulo, na orla. LÃvivem 22 famÃ-lia(cerca de 89 pessoas). Posto IndÃ-genIfariri,no municÃ-pide mesmo nome, prÃ³xim a BR 101, no
+rio do Azeite. A aldeia tem 1200 hectares e lÃ vivem 4 famÃ-liaNhandewa (20
+l1A Nhandewa Catarina, que mora na aldeia PiaÃ§aguer(municÃ-pide ItanhaÃ©mn)os relatou que seu povo usa esse nome por que sÃ£o resultado da uniÃ£entre os Guarani (que vieram do Mato Grosso do Sul) e um povo Tupi (?) que morava jÃ no litoral quando eles lÃ chegaram. Talvez pudessem ser os TaÃ-iyguÃoutros Nhandewa que tambÃ©haviam partido, anteriormente, do sul de MS, porÃ©mnÃ£ fica claro o motivo por que os TaÃ-iyguseriam denominados pelos outros Nhandewa de 'Tupi'. Ou talvez fossem mesmo os remanescentes dos que Anchieta referiu como os "Tupi de SÃ£Vicente". Esse grupo, inclusive, possuÃ-aem sua l'ngua, processos fonolÃ³gico semelhantes a alguns que ocorrem no Nhandewa, como, por exemplo, a queda da Ãºltim sÃ-Ã-a
+Ã¡tonde palavras paroxÃ-tona(p.ex.,jaguara -+mgua). [Anchieta (1595: lv)].
+12 As informaÃ§Ãµque se seguem foram dadas pelos prÃ³prio Ã-ndioNhandewa-Guarani, nas viagens & aldeias. "A Ã•re IndÃ-gende PiaÃ§agueroriginou-se, recentemente, de um desmembramento da aldeia do Bananal, estando PiaÃ§aguerno municÃ-pide ItanhaÃ©mBananal, que tambÃ©Ã "parente" das demais Ã¡reasnÃ£Ã considerada nessa pesquisa pois a dissidÃªnci que originou PiaÃ§aguerapor
+motivos religiosos e polÃ-ticosnos impossibilitou de, por enquanto, reunir as duas partes, que est'o
+ainda com os Ã¢nimoexaltados devido a recente separaÃ§Ã£
+
+pessoas aproximadamente). Nessa Ã¡re foi abrigado, hÃ cerca de dez anos, um grupo MbyÃ¡
+Posto IndÃ-genLaranjinha, no municÃ-pide Santa AmÃ©liparÃ³xim ao rio Laranjinha, junto ao RibeirÃ£Grande, no norte do estado do ParanÃ¡Nessa Ã¡re moram 50 famÃ-lia(cerca de 200 pessoas), num terreno de 100 hectares, havendo disputa judicial pela retomada das terras do antigo posto Krenau, que se estendia atÃo rio Laranjinha e possuÃ-dez vezes o tamanho atual14.
+Posto IndÃ-genPinhalzinho, no municÃ-pide Tomazina, prÃ³xim a cidade de Guapirama e do rio das Cinzas, tambÃ©no norte do ParanÃ¡nessa Ã¡reaque tem
+726 hectares - dos quais 242 estÃ£tomados por posseiros, havendo aÃ§Ãjudicial a esse respeito - moram entre 24 e 28 famÃ-lia(80 pessoas aproximadamente).
+Os falantes que participaram dessa pesquisa lingÃ¼Ã-sstÃi £de dois tipos: (i) um grupo de falantes idosos, que adquiriram o Nhandewa como lÃ-ngumaterna ou ainda na infÃ¢nciacujos filhos, no geral, sÃ£bilÃ-ngÃ¼e cujos netos aprenderam somente o portuguÃª como lÃ-ngumaterna, havendo poucas exceÃ§Ãµe(ii) um grupo de professores indÃ-genabilÃ-ngÃ¼Ceom o primeiro grupo fizemos coleta de dados com transcriÃ§ÃsimultÃ¢nee gravaÃ§Ãem fitas cassete; jÃ o grupo dos professores nos forneceu textos escritos na lÃ-nguaalÃ©da discussÃ£'didÃ¡tica'por assim dizer, sobre a lÃ-ngue seu ensino, durante as ConvenÃ§ÃLµinguÃ-sticas
+Fazem parte do primeiro grupo :Adelaide Rocha KunhÃNimbo'awydju, 59 anos; Francisco Marcolino Awa Popygua, 89 anos (jÃ falecido); Francisco Sandju Silva, 69 anos; LeocÃ¡di Marcolino HonÃ³ri Awa Pyrydju, 70 anos; Juventina Ribeiro Alves KunhÃNharyatsadju, 70 anos; MagnÃ³li Marcolino Nimuenda, 60 anos; Juraci de Lima Marcolino KunhÃNhÃ£ku'i59 anos; Ronaldo Awa Ropodju,
+48 anos; Bertolino Rodrigues Djidjogua, 65 anos; Juvelina Pedro de Lima KunhÃ Nerupoteadju, 70 anos; Jovina Camargo Nimoapendju, 64 anos; Maria de Lourdes
+14 O nome Krenau nÃ£Ã de origem Guarani. Essa Ã¡reapossivelmente, Ã a que fora reservada para 'atra@or'dos "Kaingangarredios", na dÃ©cadde 1920, pelo extinto SPI.
+
+Rerukaidju, 68 anos; CecÃ-liDeominda Otida KunhÃNhymbyryadju, 90 anos. A senhora Juraci e o senhor Bertolino atuam como professores em suas aldeias (ele, como professor bilÃ-ngÃcontratado;ela como professora voluntÃ¡ride Guarani).
+Ao segundo grupo, alÃ© dos dois mencionados acima, pertencem: Atilio Ribeiro Alves, 67 anos; Claudemir Marcolino HonÃ³ri Awa Rokwawydju; Catarina Delfina dos Santos KunhÃNimbopyruÃ¡Ezequiel da Silva Awa'i; Pedro Francisco Evaristo Awa Nimboete; Elizeu Francisco Evaristo Awa Rutsu; Tranquilino KaraÃ Martinez; Silvaria M i b i VerÃ-ssimoDuestina Evaristo Nhandju; Natanael Evaristo Awa TukumbÃ³
+O PIN Nirnuendaju foi escolhido como principal representante, entre as seis aldeias da etnia, por dois motivos principais: o primeiro Ã o fato de o pedido de 'estudo da lÃ-nguater partido dessa comunidade, tendo sido fornecido por falantes dessa Ã¡re o corpus bÃ¡sic de dados da lÃ-nguaO trabalho iniciou-se no Posto Nimuendaju e por iniciativa do prÃ³pri Claudemir e de outros professores, decidiu-se convidar as Ã¡rea aparentadas, a fim de que todos os parentes pudessem utilizar o material didÃ¡ticna lÃ-ngua
+O segundo Ã o fato de ter sido essa a comunidade que abrigou e batizou, com o nome de Nimuendaju, o etnÃ³log alemÃ£Curt Unckel, no inÃ-cido sÃ©cul passado. Existem dois importantes trabalhos desse autor sobre esses Ã-ndiosum relatÃ³ri de 1908, publicado em 1954,Apontamentos sobre os Guarani15 e um trabalho
+- etnogrÃ¡fic publicado primeiramente em alemÃ£oem 1914 Die Sagen von der
+Erschaffung und Vernicktung der Welt ais Grundlagen der Religion der ApapodvaGuarani -, traduzido para o espanhol, em 1978, como Los mitos de creacim y destrucciÃ³ de1 mundo comofundamentos de Ia religiÃ³ de 10s Apapokuva-Guarani, e para o portuguÃª somente em 1987, como As Lendas de CriaÃ§Ãe DestruiÃ§Ã do Mundo como Fundamentos da ReligiÃ£dos Apapodva-Guarani.
+15 Revista do Museu Paulista, Vin;9-57.
+
+PARTEI: A ETNIA NHANDEWA-GUARANI
+
+OS NHANDEWA-GUARDAE NSÃIƒ PAULOENORTE DO PARANN.~OME, HISTÃ“RI E
+DIALETO
+A problemÃ¡tic classificaÃ§ÃÃ©tnice linguÃ-sticdas muitas variedades do Guarani (como das lÃ-nguaindÃ-genaamericanas, em geral), certamente, nÃ£ Ã matÃ©riapropriada para esse pequeno capÃ-tulomuito menos as complexas formaÃ§Ãµde sub-variedades ou a relaÃ§Ãde parentesco entre as sub-variedades desse povo, que assumiu, atÃquando foi possÃ-veul m certo nomadismo de cunho religioso, caminhando em direÃ§Ãao mar, a procura da Terra sem Males. Assim, a discussÃ£se deterÃsomente em consideraqÃµepontuais a esse respeito, tratando brevemente alguns tÃ³pico mais relevantes como o nome, a histÃ³ri e a lÃ-ngu dessa etnia.
+Egon Schaden, em seu clÃ¡ssic trabalho sobre a cultura Guaranil6, comenta as dificuldades de tentar-se estabelecer uma genealogia dessa naÃ§Ã£
+'(...) Quanto 2s designaÃ§Ãµcorrentes para as inÃºmera kordas encontradas na bibliografia, a confusÃ£ Ã tal que toda tentativa de estabelecer ordem Ã condenada, desde logo, a resultados insatisfatÃ³rios.
+
+AlÃ©disso, podem ser usados nomes de diferentes procedÃªnciapara um mesmo povo ou uma mesma lÃ-nguaas autodenominaÃ§Ãµeas denominaÃ§Ãµ acadÃªmicasos nomes populares e apelidos dados por outras etnias, no Brasil e no Paraguai, o que vem colaborar para a confusÃ£classificatÃ³riaUm exemplo: a etnia que chamo de Nhandewa-Guarani de SÃ¼Paulo e norte do ParanÃ¡ popularmente Ã referida, entre os nÃ£o-Ã-ndiocomo Guarani. Os prÃ³prio Ã-ndiose chamam, atualmente, de Tupi-Guarani ou Nhandewa, simplesmente. E curioso destacar aqui que, estando entre eles, quando dizem "os Guarani" estÃ£referindo-se aos MbyÃ¡ Outros Ã-ndioGuarani lhes dÃ£ outros nomes: os MbyÃ os chamam de txiripa, txiripazinho. No Paraguai, sÃ£ chamados de AvÃ¡-katu-etÃ O termo Apapodva "homens dos arcos grandes" parece se tratar de um apelido, portanto, com um certo tom depreciativo, geralmente dado por outras etnias. Esses Nhandewa dizem nÃ£ ter conhecimento de 'Apapocuva', o nome pelo qual Nimuendaju refere-se a eles.
+"Apapodva (homens dos arcos compridos) tambÃ©Ã uma alcunha de horda, neste sentido. N'o Ãconhecida nem por brasileiros nem por paraguaios. Como eu, porÃ©mnÃ¼sei de outro nome que distinga entre todos os Guarani a horda de que pretendo tratar especificamente, seja-me permitido usar doravante este nome."20
+Aqui, tratando-se de um estudo acadÃªmico optamos por chamÃ¡-lo de Nhandewa-Guarani de SÃ¼ Paulo e norte do ParanÃ¡ ou simplesmente, NhandewaGuarani e, ainda, Nhandewa. PorÃ©mhÃque se lembrar sempre que o grupo Ã uma subdivisÃ£da etnia Nhandewa considerada por Schaden (1954), evitando que se tome a parte pelo todo.
+A Ã¡rvor genealÃ³gic a seguir representa a classificaÃ§Ãdas lÃ-nguado Tronco Tupi de maneira simplificada e pode ajudar a compreender, ainda que superficialmente, a genealogia desse povo:
+20 Nimuendaju (1987: 8).
+
+Tronco Tupi
+I
+outras fairalias
+
+I
+famÃ-liTupi-Guarani
+I
+
+I
+outras
+l'nguas
+
+Ramo Tupi l
+TupinambÃ
+
+Ramo Guarani
+
+I
+Tupiniquim
+
+i Guarani
+Antigo
+
+v
+
+Guarani
+
+Guarayo Chirigt'ano
+
+I
+
+[dialetos]
+
+l
+
+l
+
+I
+
+I
+aldeias do
+
+KaiowÃ
+
+INhandewa
+
+MbyÃ
+
+I
+I
+
+~ c o Ã - ( P N~HANDEWA-GUARANI Rio das
+
+aldeias
+
+Paraguai
+
+DESPE NORTE DO PR Cobras@R) de MS
+
+"Lu 'naciÃ³nguarani es e1 resultado de esas olas migratorias, aunque no existe acuerdo hasta hoy en determinar su lugar de origen ni Ias rutas de su migraciÃ³nasÃcomo tampoco Ias Ã©pocaen que dichas migracionessucedieron."21
+Os Ã-ndio Nhandewa-Guarani paulista-paranaenses, como jÃ foi dito, habitam, atualmente, quatro Ã¡reano estado de SÃ£Paulo (AraribÃ¡22PiaÃ§aguera Bananal e Itariri) e duas Ã¡reano norte do ParanÃ(Laranjinha e Pinhalzinho). As comunidades que, nesse trabalho, chamo de Nhandewa-Guarani, resultaram de um desmembramento e migraÃ§Ãµentre a primeira metade do sÃ©culXIX e a primeira dÃ©caddo sÃ©cuXl X, de parte da comunidade Nhandewa - que residia originalmente na regiÃ£que vai do baixo rio Iguatemi atÃa fronteira do Mato
+Grosso do Sul com o Paraguai - impulsionados por um mito religioso, buscando a
+Terra sem Males, como Ã sabido. Fatores como as migraÃ§Ãµreligiosas, a miscigenaÃ§Ãe o constante trÃ¢nsit
+entre as vÃ¡riaaldeias (caracterÃ-sticdessa etnia, lugar comum na antropologia), muitas mortes por doenÃ§aou fome, tomam difÃ-ciuma determinaÃ§Ãexata de quem sÃ£esses Ã-ndiohoje. Com certeza nÃ£sÃ£os mesmos que hospedaram por
+21 MeliÃ(1992:16). 2 O atual nome Ã Posto IndÃ-genNimuenakju. Aranha era o antigo nome. Hoje, 6 o nome da Ã¡re (espaÃ§f'sico) e compreende o PIN Nimuendaju e o PIN Kopenoti (Ã¡re Terena).O antigo AraribÃ foi divididoentre as duas etnias.Usarei uma e outra denominaÃ§Ãreferindo-me ~3mesma k e a .
+
+muitos anos e batizaram23Curt Nimuendaju, no in'cio do sÃ©cuplassado, nem sÃ£ os mesmos que deixaram o baixo Iguatemi, hÃ quase dois sÃ©culoSs Ã£ seus descendentes. SÃ£ogrosso modo, descendentes da miscigenaÃ§Ãentre os TafiyguÃ¡ OguauÃ-ve ApapocÃºv (anfitriÃµede Nimuendaju), entre outros Ã-ndioMbyÃ¡ Terena24 e brancos. Praticam religiÃ£ cristÃ (na sua maioria) e trabalham em lavouras vizinhas a Ã¡reaquando a situaÃ§ÃnÃ£os obriga a arrendar suas terras e trabalhar, nelas, para o arrendador.
+Nimuendaju relata a saga desses Nhandewa em seu livro As Lendas de CriaÃ§Ãe DestruiÃ§Ãdo Mundo como Fundamentos da ReligiÃ¼do ApapocÃºva-Guarani narrando a saÃ-darumo a Terra sem Males, de parte dos trÃª grupos Nhandewa (TafiyguÃ¡OguauÃ-vaApapocÃºva que habitavam a margem direita do baixo Iguatemi, no sul de Mato Grosso do Sul, passando por toda a trajet6ria de separaÃ§Ãnµos grupos, a fome, epidemias, escravidÃ£oas vÃ¡riaidas e voltas, sem que encontrassem a Terra sem Males. O que Nimuendaju chamou de ApapocÃºva Guarani foram esses grupos quase arrasados, dissidentes25 daqueles trÃªprimeiros, que foramreunidos no AraribÃ¡26
+A observaÃ§Ãde Bartomeu MeliÃ¡que se refere aos Guarani das reduÃ§Ãµde GuairÃ¡Ãtambkm um relato bastante ajustado da histÃ³ri desses Nhandewa:
+23 O batizado Guarani consiste na adoÃ§Ãdo estrangeiro por uma famÃ-iie na atribuiÃ§Ãde um nome Guarani a ele, nome esse que, seguindo a tradiÃ§ÃÃ£ sabido atravÃ©do sonho, trazido pelos ancestrais. Ap6s o batismo, a pessoa batizada passa a fazer parte da comunidade. 24 Ainda nÃ£ÃpossÃ-vedeterminar se hÃalguma influÃ©ncdi a lÃ-nguTerena no Nhandewa, jÃque o convÃ-vicom aquela etnia Ãrecente. Â¥Parecser frequente na bibliografia a respeito que sempre que havia uma divergÃªnciapoiÃ-ticou religiosa, os grupos se separavam e em cada um surgiam guias que amavam como pajÃ©Cs om os seguidores que conseguisse reunir, tomava diferente rumo para buscar a Terra sem Males, no leste ou no centro da Terra, como nos relata a hist6ria. 76 Na verdade, os ApapocÃºva eram numericamente dominantes e o seu nome foi estendido a todos.
+
+"Guerras, maios tratos, epidemias y cautiveiros fueron 10s cueiro jinetes de aquel apocalipsis colonial."27
+Comecemos, entÃ£por entender o que foi a marcha religiosa Guarani rumo ao mar: a busca da Terra sem Males.
+27 Melia (1988:89)apud MeiiÃ(199221).
+
+2.1- Ywy marÃ£e1j%v:A Terra sem Males
+"PajÃ©isnspirados por visÃµee sonhos, constituÃ-ram-sem profetas dofim iminente
+do mundo; juntaram 2 sua volta adeptos em maior ou menor nÃºmeroe partiram em meio a
+danÃ§arituais e cantos mÃºgicosem busca da "Terra sem Malfr(...)"28
+O mito de Gwyraypoty (da destruiÃ§Ãdo mundo), que Ã o relato de uma dessas migraÃ§Ãµfeoi registrado por Curt Nimuendaju na ocasiÃ£de sua residÃªnci entre os Nhandewa-Guarani do AraribÃ¡no inÃ-cido sÃ©cuXl X. Esse mito conta a histÃ³ri do grande pajÃGuarani (Gwyraypoty)que conduziu seu povo na marcha em direÃ§Ãao sol nascente, no mar (nhandÃrmÃº "nossa frente, nosso rostof')29 por ocasiÃ£da destruiÃ§Ãdo mundo, em busca da Terra sem Males. A caminhada rumo a nkandÃrmÃº Ã uma constante religiosa e mÃ-ticdos Guarani nÃ£se sabe hÃ quantos sÃ©culos
+Alguns autores defendem que as migraÃ§Ãµforam anteriores a conquista europÃ©ei que se originou em movimentos separatistas, por assim dizer, interiores
+a vida social da tribo; outros acreditam que a marcha profÃ©ticfoi motivada pela
+conquista, portanto, por um fator externo a sociedade indÃ-genaNÃ£ hÃ na antropologia, no entanto, um consenso nesse sentido
+Para nhana2 rovÃº seguiram e seguem os Guarani, em busca da Terra sem Males, que fica depois do mar, porÃ©mnesse mundo e nessa vida. Y7uy mar5 e'Ã-ja
+28 Nimuendaju (1987:S). a Nimuendaju (1987: 100) escreveu: flandÃ©rovÃq¡ue sign'fica literalmente "em (i) nosso (fiande)rosto (tovÃ¡)"A nossafrente.
+
+Terra sem Males, Ã uma terra na qual nÃ£Ã preciso trabalhar, pois o alimento brota espontaneamente e o solo Ã altamente produtivo. Nessa terra nÃ£se morre e nÃ£ existem laÃ§ode parentesco. Para chegar a esse lugar os Guarani vÃª caminhando rumo a costa do sol nascente jÃ hÃ muito tempo30. A motivaÃ§Ãprincipal do nomadismo parece ser mesmo o mito religioso, porÃ©mÃ possÃ-veque, em algum momento histÃ³ricoa migraÃ§Ãtenha tido origem tambÃ©em outros fatores, como qualidade de vida, busca por alimentos e terras mais fÃ©rteeism certos casos.
+VÃ¡rio autores propuseram rotas para essa migraÃ§Ã£entre eles Nimuendaju31, Brochado (1984)32 e MÃ©trau(1927)33. Essas rotas migratÃ³rias embora diferentes nos detalhes, mostram, como ponto comum, a saÃ-dde Guaranis de regiÃµerelativamente prÃ³xima ao rio Iguatemi (sul de MS), em direÃ§Ãao litoral central paulista.
+O cacique da aldeia de PiaÃ§agueraque encontrei recentemente, me lembrou
+que o Ãºnic que - dizem - conseguiu encontrar a Terra sem Males, com seus
+seguidores, foi o pajÃGwyraypoty. Diz o mito registrado por Nimuendaju que o grande xamÃGwyraypoty, ao
+ficar sabendo, atravÃ©de NhanderuvusÃ (nosso pai grande), da iminÃªnci da destruiÃ§Ãdo mundo, conduziu seu povo rumo ao leste, terminando por subir a
+Serra do Mar - CÃ³va yvyty ParÃ¡ jocoÃ¡ "essa serra que segura (retÃ©mo mar" -
+para salvarem-se assim da inundaÃ§Ãuniversal, antecedida pelo desmoronamento da terra e pelo fogo. A Serra do Mar seria a Ãºnic terra que restaria. Dali, no entanto, partiram diretamente ao cÃ©upor forÃ§ do canto do NheengaraP executado por Gwyraypoty.
+9 Ver, por exemplo, HÃ©lenClastres (1978). 31 Nimuendaju (1987:5). O mapa com a rota migrat6ria proposta por Nimuendaju estÃem anexo, no final do texto. 32 Cunha (1992:384) 3 Idem. 34 O NheengaraÃÃ o canto de pajelanÃ§atravÃ©do qual o pajÃconduz a "alma recÃ©m-partidpara o alÃ©m"como nos relata Nimuendaju (1987:36).
+
+A busca dessa terra sem males mitolÃ³gic parece ter gerado as migraÃ§Ãµ dos Nhandewa-Guarani que, entre idas e vindas, jÃ separados em vÃ¡rio grupos menores pelas dissidÃªnciasse fixaram em diferentes locais, originando o complexo das seis atuais comunidades Nhandewa-Guarani, em SP e norte do ParanÃ Nimuendaju, Bananal, PiaÃ§agueraItariri, Laranjinha e Pinhalzinho35.
+Nimuendaju, entÃ£funcionÃ¡rido SPI36, na intenÃ§Ãde evitar o extermÃ-ni completo desse povo, tentou reunir no AraribÃtodos os grupos que estavam em migraÃ§ÃA£ operaÃ§ÃnÃ£teve total sucesso, jÃque alguns grupos nem chegaram a se mudar para lÃe outros, tendo se mudado, voltaram a sua residÃªnci anterior, tempos depois, o que acabou resultando na formaÃ§Ãdas seis aldeias.
+35 Havia mais uma aldeia, Itaporanga, situada no territ6rio entre o rio Verde e o rio ItararÃ©hoje, proximidades da divisa entre SP e PR. Essas terras foram tomadas dos Guarani na segunda dÃ©cad do sÃ©cuXi X.
+36 O antigo ServiÃ§de ProtqÃ£aos Ã-ndioshoje, FUNAI.
+
+2.2- A formasÃ£das seis aldeias atuais
+O povo Guarani, antes da conquista europÃ©ihaabitava uma extensa Ã¡re que abrangia, em territÃ³ri brasileiro, amplas extensÃµedo que hoje sÃ£os estados da regiÃ£Sul do pais (Rio Grande do Sul, Santa Catarina e ParanÃ¡)alÃ©do sul de SÃ£Paulo e Mato Grosso do Sul, estendendo-se ainda por grandes Ã¡reanos paÃ-se vizinhos: Paraguai, Argentina e BolÃ-via
+A mais antiga noticia que temos desses Nhandewa, como jÃ se sabe, Ã que habitavam o sul de Mato Grosso do Sul, na parte baixa do rio Iguatemi. [O mapa elaborado por Nimuendaju (1987:5), que mostra as rotas migratÃ³ria desses grupos, estÃem anexo, no final do texto].
+O primeiro grupo Nhandewa que deixou o baixo Iguatemi, no inÃ-cido sÃ©cuXl IX, foram os TaÃ-Ã-ygCu omo nos relata Nimuendaju, subiram o ParanÃ pela sua margem direita, passando pelos Apapocuva primeiro e, depois, pelos OguauÃ-vaque estavam ambos ao norte de onde haviam saÃ-dos Ta15yguÃ¡Nos OguauÃ-vficaram por algum tempo, devido ii morte de seu guia e, nessa estadia, dizem os TaÃ•Ã-ygterem ensinado a eles as danqas sagradas. Como nos lembra Nimuendaju, talvez isso queira dizer que transmitiram aos OguauÃ-va3as crenÃ§a na migraÃ§Ãe na Terra sem Mal.
+Os TaÃ-Ã-ygseguiram pela margem esquerda do IvaÃ-tendo cruzado, portanto, o rio ParanÃ pouco abaixo da foz daquele rio. Seguiram rumo leste e passaram pelos rios Tibagy, das Cinzas e ItararÃ©jÃno norte do que Ã hoje o estado do ParanÃ¡chegando na regiÃ£ de Itapetininga (SP), onde foram escravizados. Fugidos, alocaram-se na serra dos Itatins, no Itariri (onde, mais tarde, receberiam
+37 Nimuendaju tambÃ©nos lembra que o prÃ³pri nome OguauÃ-vvem da 'GuaÃº' que sÃ£danÃ§a em cÃ-rculoprofanas, como tudo indica.
+
+migraÃ§Ãµde grupos dissidentes de outros Nhandewa). Sua aceitaÃ§Ãpela populaÃ§Ãda regiÃ£nÃ£foi muito fÃ¡ciltendo sido aceita, pelo governo, a posse TafiyguÃdo territÃ³riosomente depois de um confronto brilhantemente vencido pelos Ã-ndioscomo conta Nimuendaju38.
+Tendo sido os OguauÃ-v"introduzidos" na marcha religiosa pelos TafÃ-yguÃ resolveram segui-10s. Saindo do baixo rio Iguatemi, fixaram-se em terras doadas pelo BarÃ£ de Antonina, na Ã¡re entre os rios ItararÃ e Verde, na regiÃ£ de Itaporanga, prÃ³xim a divisa de SÃ£Paulo com o ParanÃ¡A progressiva invasÃ£ das terras e o desaparecimento dos documentos, como conta Nimuendaju39, fizeram com que esses OguauÃ-vperdessem suas terras.
+Em 1912, os OguauÃ-vasem terras, arrebatados pela fome e por doenÃ§as perderam muitos indivÃ-duoe foram obrigados a aceitar a sua transferÃªnci (intermediada por Nimuendaju) para o AraribÃ¡ onde ajudariam a compor a populaÃ§ÃindÃ-gendaquela Ã•rea
+No entanto, uma parte desses OguauÃ-vde Itaporanga conseguiu chegar ao mar, fixando-se depois no Bananal e na cabeceira do Rio Preto, perto de ItanhaÃ©m outros foram viver com os TafÃ-yguÃno Itariri, como relata Nimuendaju. Esse autor cita, ainda, alguns TaiÃ-yguÃque viveriam, por volta de 1913, nas mediaÃ§Ãµda nova ferrovia de MongaguÃ¡porÃ©mnÃ£se tem noticias posteriores deles.
+Por volta de 1870, a busca da Terra sem Males eclodiu tambÃ© entre os Apapocuva que haviam ficado no Iguatemi. Guiados pelos pajÃ©GuyracambÃe Nimbiaraponhg,seguiram pelo rio JataÃ(ondeparte do grupo se separou e foi para o rio Verde), dali para o rio das Cinzas. Os Apapocuva que foram para o Rio Verde (Itaporanga), foram expulsos de lÃpelos OguauÃ-ve dali foram para o 'sertÃ£de Bauru'. Nimuendaju conta detalhadamente as vÃ¡riaandanÃ§anas proximidades
+3 Niuendaju (19879-10). 39 Nimuendaju (1987:U).
+
+de Bauru. HÃa possibilidade de terem ido para o AraribÃ¡jÃque estavam tÃ£perto de lÃ¡porÃ©mNimuendaju nÃ£esclarece esse ponto.
+O capuchinho italiano, Frei Sabino, tenta formar uma colÃ´ni com esses grupos dissidentes, onde o rio Dourados junta-se ao TietÃª porÃ©mo empreendimentonÃ£deu certo por motivos polÃ-ticosdiz Nimuendaju.
+' N a sua retirada pelo TietÃe Batalha acima sofreram pesadas perdas com a febre palustre; o bando de YvyraÃvoltou para o rio Verde, onde sucumbiu de varÃ-olatÃo Å“ltim homem em 1900.
+AraguyraÃ permaneceu durante certo tempo com seu bando - ainda contando com cerca de cem cabeÃ§a- nasfazendas da regiÃ£do Batalha, fixando-se, por fim, em 1896, no ribeirÃ£ da Lontra, afluente da margem direita do rio Feio, entÃ£ ainda completamente inexplorado."40
+VÃ¡rio grupos dissidentes, tanto de Apapocuva quanto de OguauÃ-v e TaiÃ-yguÃforam dizimados pela fome, por doenÃ§acomo varÃ-ole sarampo, e pelo descaso do Estado, o que nÃ£ nos Ã nenhuma novidade. Os que sobreviveram foram reunidos na reserva do AraribÃ¡
+"(...) o AraribÃfoi convertido em asilo para os numerosos remanescentes dispersos da tribo Guarani,formando hoje seu ~ n t r porincipal. A maioria dos Ã-ndiodessa tribo que habitava em SÃ£ Paulo, bem como um grande nÃºmer deles do Mato Grosso (do Sul) e ParanÃ¡ aceitaram minhas propostas de mudanÃ§ para esta reserva nos anos de 1912 e 1913."41
+Nimuendaju (1987:13). 43 Nimuendaju (1987:13-14).
+
+Hoje, habitam as seis aldeias mencionadas e mantÃª um trÃ¢nsitintenso entre elas, com viagens para visitar parentes, casamentos e mudanÃ§atemporÃ¡rias criando o que podemos chamar de um complexo de aldeias aparentadas e interdependentes: os Nhandewa-Guarani de SÃ£Paulo e norte do ParanÃ¡Esses grupos, por outro lado, nÃ£mantÃª relaÃ§Ãµcom os outros grupos Nhandewa, seja com os que ficaram em MS, seja com os outros do ParanÃ (OcoÃe Rio das Cobras).
+JÃ na dÃ©cad de 50 o antropÃ³log Egon Schaden mencionou a homogeneiza~Ãd£e etnias que, entÃ£ojÃestava em curso.
+"Tanto as reduÃ§'e jesuÃ-ticas disseminadas por toda a bacia do Prata, como os efeitos da colonizaÃ§ÃibÃ©ricem geral, desintegraram as primitiva formaÃ§ÃµcomunitÃ¡rias levando a re-agrupamentos diferentes, que nÃ£podiam deixar de conduzir a elevado grau de nivelamento e homogeneizaÃ§'cultural."42
+Assim, parece que vemos passar diante dos nossos olhos a triste saga dessas trÃª parcialidades Nhandewa-Guarani (ApapocÃºvaTafÃ-ygue OguauÃ-vaque, depois de divididas e quase destruÃ-dapela imposiÃ§Ãdo "modo de ser" do conquistador, foram juntadas, aos farrapos, tendo se tomado, hoje, uma Ãºnic sociedade. E uma perda irreparÃ¡veo fato de as circunstÃ¢nciahistÃ³rica terem unificado o que eram, antes, parcialidades distintas, com suas peculiaridades. O mais grave Ã saber que o massacre cultural e lingiiÃ-sticnÃ£Ã passado para os povos indÃ-genado Brasil.
+a Schaden (1954:11),
+
+3- NHANDEWAAYWU :0DIALETO
+"Lu autenticidad y singularidad de 10s avÃ katÅ
+se manifesta sobre todo en Ia kngua y en Ia religiÃ³no mÃ¡ bien, en Ia lengua religiosa, donde se han conservado mejor tos recursos linguÃ-stica
+un tanto arcaicos que permiten identificar este dialecto con e1 que servia de base a tos trabajos
+lingiiÃ-sticode Montoya."*3
+Os Nhandewa-Guarani paulista-paranaenses chamam seu dialeto de Nhandeaywu "nossa fala". PorÃ©mo termo aywu, em AvanheÃ© e no dialeto KaiowÃ¡ significa "ruÃ-do barulho". Esses, chamam sua prÃ³pri fala de Nh'ndenhÃ©mdo mesmo modo "nossa fala"44. JÃpara os Nhandewa (e tambÃ©em MbyÃ¡o termo nk'? Ã usado para designar sons de animais. EntÃ£oem Nhandewa
+fala-se, por exemplo, katxoro n E "latido do cachorro" ou "o cachorro late", com a
+ressalva de que nunca se usa essa palavra para designar fala humana. Retomando a citaÃ§Ãde Bartomeu MeliÃ¡ tenciona-se verificar o quÃ£
+pr6ximo Ã o dialeto Nhandewa-Guarani contemporÃ¢ne do Apapocuva -
+- registrado por Nimuendaju no AraribÃ¡no inÃ-cido sÃ©cuXl X e do chamado
+Guarani Antigo - a lÃ-nguregistrada por Montoya no sÃ©cuXl VII. Para esta anÃ¡iis
+comparativa, sÃ£de muita utilidade as observaÃ§Ãµdo prÃ³pri Nimuendaju. No estudo desse autor sobre o dialeto Apapocuva encontram-se, alÃ©de distinÃ§Ãµ bÃ¡sicaentre os antigos dialetos Nhandewa que o compuseram, comparaÃ§Ãeµntre o Apapocuva e o Guarani Antigo, alÃ©de considerar tambÃ©as diferenÃ§aem
+* MeliÃ(1992:246).
+44 O termo AvanheÃ©mentÃ£oÃtraduzido por "fala de homens", "fala de gente".
+
+relaÃ§Ãa outras variedades do Guarani, como o MbyÃe o AvanheÃ©mIsso nos dÃ uma idÃ©bi astante precisa do quanto, realmente, o Apapocuva divergia daqueles e destes.
+Com isso, teremos ferramentas para avaliar o Nhandewa contemporÃ¢ne como resultado da aglutinaÃ§Ãe£m maior ou menor medida, de cada um desses elementos, podendo apontar o que o dialeto preserva de cada uma das variedades que, historicamente, o constituÃ-ra e o que tem de peculiar. O objetivo desse t6pico Ã©entÃ£ouma breve anÃ¡liscomparativa do Nhandewa contemporÃ¢nede SÃ£Paulo e norte do ParanÃ em relaÃ§Ãa outros dialetos Guarani.
+Curt Nimuendaju (1987), no capÃ-tulque chama de 'Dialefo' afirma que os OguauÃ-vaos TaÃ-Ã-yge os Apapocuva falam o mesmo dialeto, havendo pequenas diferenÃ§ana "cadÃªncia"45Por uma questÃ£de mÃ©todeontÃ£oprimeiro exporei as divergÃªncia existentes entre esses trÃª e o Guarani Antigo, sendo que para os primeiros usarei o nome de Apapocuva6. Depois dessa diferenciaÃ§Ãdialetal prÃ©vpi assarei a diferenciaÃ§Ãentre o Apapocuva, o OguauÃ-ve o TaiiyguÃ¡o que tomarÃpossÃ-veverificar em quais circunstÃ¢nciasobressai um ou outro.
+SÃ£as seguintes as diferenÃ§aque Nimuendaju47 aponta entre o Apapocuva (Apc.) e o Guarani Antigo (G.a.):
+45 Nimuendaju (198725). 46 Como faz o pr6prio Nimuendaju, o que nos permite seguir mais facilmente os exemplos que o autor apresenta. Q Daqui em diante, transcreverei os exemplos dados por Nimuendaju usando a pr6pria grafia do autor. PorÃ©malgumas advertÃªncia precisam ser feitas: na coluna G.a. Nimuendaju transcreve exemplos de Montoya e usa a grafia desse autor. Por conta disso, na coluna G.a., o grafema "y" tem o valor fonÃ©iicda consoante [c&] e tambÃ© da vogal ;I'[ o acento circunflexo (") representa nasalizacÃ£oportanto, tem o valor de (-); o grafema "c" tem o valor de [k]; "?i" corresponde consoante b]; e "ng" equivale ao fonÃ©tic[qg]. Na coluna Apc. encontram-se os dados anotados
+pelo pr6prio Nimuendaju. Nessa coluna o grafema "y" representa a vogal [i]; o grafema '7"
+representa a consoante [&I e os grafemas "c", "n" e "ng" mantÃª o valor fonetico usado por
+Montoya
+
+1- MudanÃ§ da vogal /e/ para /i/,no pronome possessivo de primeira pessoa 'che' e tambÃ©nos prefixos relativos 'fie' e 'ye'. Como nos exemplos a s e g ~ i r 4 ~
+
+G.a.: cheroga
+' : fiemboyere ', : yequaa
+
+minha casa circundar descobrir-se
+
+Apc.: chirÃ³ ' : nimbojerÃ ' : jicuaÃ
+
+Na fala atual dos Nhandewa-Guarani, descendentes dos Apapocuva de Nimuendaju, isso ainda se observa, porÃ©ma realizaÃ§Ãda vogal alta [i] no prefixo
+de Ia pessoa nÃ£ se manifesta em todos os casos: fala-se [ tSiÃ' kÃ£"minha
+cabeÃ§a"porÃ©musa-se [t e ' Ã¬aw] "meu cabelo". Uma observaÃ§Ãinteressante
+nesse sentido Ã que os professores Ã-ndionÃ£aceitaram como boa a forma escrita *TxiakÃ£ mas escreveram Txeak', embora a pronÃºnci fosse, em consenso,
+[tS i Ã' kÃ£]Aqui talvez opere o hÃ¡bit de alfabetizados em portuguÃªsonde o [i]
+Ã¡ton (prÃ e pÃ³s-tÃ´nic Ã© com frequÃªncia grafado como "e", ou um real reconhecimento do falante de um fonema /e/ que contextualmente muda para [i], em virtude da posiÃ§Ãem relaÃ§Ãao acento.
+
+2- MudanÃ§ de/h/em /m/,na maioria dos casos, como nos exemplos49:
+
+G.a.: hobaity
+
+encontrar
+
+Apc.: omaifi
+
+G.a.: aypifibÃ
+
+ajudar-lhe
+
+Apc.: aipytymÃ
+
+No Nhandewa-Guarani registrarnos somente o prÃ©-nasalizad/mb/. Esse, em ambiente nasal, sofre espalhamento de nasalidade e se realiza como [m], o que
+Ã tratado mais minuciosamente no tÃ³pic 3.1, referente a nasalidade. Como o " b
+4s Exemplos de Nimuendaju (1987:20). 49 Exemplos de Nimuendaju (1987:21).
+
+de Montoya Ã um grafema e nÃ£um fonema, hÃpossibilidade dessa "mudanÃ§a corresponder ao espalhamento nasal.
+
+3- MudanÃ§das posposiÃ§Ãµ (pe,be, bo) para (py, wy, wy). Exemplos50:
+
+G.a.: tatÃ¡p
+
+ao fogo
+
+Apc.: tatÃ¡p
+
+' :chebe
+
+me, para mim
+
+' : chÃ©w
+
+' : ohubo
+
+vindo, para vir
+
+' : oÃºw
+
+Atualmente, podemos dizer que essa tendÃªnci se mantÃ©mcom uma pequena diferenÃ§de sÃ-labtÃ´nic no termo 'chÃ©wyq' ue Ã pronunciado 'txewy'51. Montoya, no capÃ-tulque trata da 'DeclinaÃ§Ãdos pronomes', escreve o termo como 'chebe'52. Realmente parece ter havido uma mudanÃ§no acento desse item.
+
+4- Fechamento da vogal do causativo 'mÃµ'que se realiza como 'mÃ¼q' uando o
+
+verbo comeÃ§por vogal. Veja-se o exemplo53: G.a.: mohendy (tatÃ¡ atiÃ§a(ofogo)
+
+Apc.: muendy (tatÃ¡
+
+Este Ã©provavelmente, o caso da sÃ-lab'mu' do nome de Nimuendaju: Ni +
+mu + enda + ju (demonstrativo+causativo+casa+amarela)"aquele que faz sua morada
+dourada", ou algo prÃ³xim disso%.
+Idem. 51 Na grafia atual da l'ngua nÃ£se usa o acento agudo em 'txewy', jÃ que a grande maioria das palavras da l'ngua Ã oxÃ-tonanÃ£havendo necessidade de marcar a regra, marcam-se as exce~Ãµes Nesse caso o acento Ã indicativo da tonicidade de palavra. 52 Montoya (1640:4) grafa 'ChÃªbena ediÃ§Ãfac-similar, porÃ© na transcriÃ§Ãatualizada ([I6401 1993:181)encontramos 'chÃ©ve' 53 Exemplo de Nimuendaju (1987:21).
+Essa etimologia foi dada pelo Sr. Francisco Awa Popygwa, em entrevista dada a nÃ³ no PIN Nimuendaju, em junho de 1998. Outras etirnologias para o nome de Nimuendaju podem ser
+encontradas no prÃ³pri texto d'As lendas de criacÃ£... (p. 32): "NimuendajÅ“muendÃ -fazer (mo),
+moradia (endÃ¡)"Ao que acrescenta Viveiros de Castro, na introducÃ£$As lendas (p. xvii): "Ni-, acrescento, Ãum pronome reflexivo, e o sufixo -ju (-dju),que talvez tenha o sign1'ficadom'ginal de 'amarelo'
+
+No dialeto falado pelos descendentes dos Apapocuva, essa tendÃªnci se mantÃ©mO morfema cansativo se realiza como mÃ¼Muendy tata "atiÃ§ao fogo",
+realizando-se tambÃ©como mo: omÃµpdjupepo "quebrou (fez quebrar) a panela". Essa variaÃ§Ãpode ser condicionada por uma harmonizaÃ§ÃvocÃ¡iiccom a flexÃ¢ verbal de terceira pessoa {o-}:o +mÃ+ pG = Ã•mopG Em caso de verbos com raiz oral, realiza-se como 'mbu': mbumm "fazer ferver, cozinhar".
+Essa mudanÃ§ de /o/ em /u/ nos remete, como lembra o prÃ³pri Nimuendaju, a uma diferenÃ§que o subdialeto OguauÃ-vtinha em relaÃ§Ãao Apapocuva e TaÃ•Ã-ygquue serÃtratada adiante.
+
+5-MudanÃ§de/r/em/n/, em ambiente nasal, como nos exemplos%:
+
+G.a.: baerÃ " :ae rami ' :porÃ
+
+'futuro do particÃ-pio assim, desta forma bom, bonito
+
+Apc.: vaÃ©n " :aÃ©nam ' : ponÃ
+
+Nesse ponto a minha interpretaÃ§Ã distancia-se um pouco da de
+Nimuendaju ao mostrar que o som que o autor considera /n/ Ã©de fato, o tap / r /
+nasalizado, [F], o que nos dÃ¡eventualmente, a "impressÃ£fonÃ©ticade [n]. Na
+ocasiÃ£que um falante me viu escrevendo 'ponÃ¼mf e corrigiu pronunciando o tap
+bastante enfÃ¡tic 'pora'.
+ou 'brilhante', Ã usado na linguagem religiosa para indicar que o conceito ao qual Ã posposto remete ao domÃ-n do sagrado, celeste ou transcendental; ele Ã comum nos nomes pessoais e nos termos para os equivalentes divino-celestes dos seres terrenos."
+Outra etimologia, ainda, 6 dada por Egon Schaden [(1967-68:78,88) Apud Viveiros de Castro, na mesma introdu~Ã£o"]NM Ãmuito f Ã - dizer o que significa a palma Nimuendaju. 'Nimuendc?
+quer dizer 'arranjar para si u m lugar'. Ofinal y'ou 'dju' Ãum verbo defitivo que indica o ser".
+Viveiros de Castro remete ainda a J.F.RecaIde, que fornece a etimologia: "aquele que soube abrir o seu prÃ³pi caminho no mundo e conquistou seu lugar". 55 Exemplos de Nimuendaju (1987:21).
+
+6- MudanÃ§ da Ãºltim sz'iaba Ã¡tona Uma das diferenÃ§aentre as lÃ-nguado ramo Tupi e as do ramo Guarani Ã a ausÃªncianas Ãºltimasde sÃ-labafinais Ã¡tona presentes nas lÃ-nguaTupi, como jÃ apontou Aryon Rodriguesj6, em casos como
+porang(a) -+ porÃ£ Assim, no ramo Guarani as palavras sÃ£ acentuadas,
+geralmente, na Ãºltim sÃ-laba Ã bem verdade que existem as posposiÃ§Ãµe sufixos Ã¡tonosEsses, quando
+combinados com as palavras oxÃ-tonasresultam palavras fonolÃ³gicaparoxÃ-tonas como em:
+porÃ "bonito" + nda-iry (negaÃ§Ã=£na+po'rÃ£+iryS"nÃ£bonito, feio". teta "cidade" + gwi (posposiÃ§Ãde origem "de") = tertÃ£+gw"da cidade" AlÃ© disso, existe na lÃ-ngu um grupo de palavras que podem ser confundidas com paroxÃ-tonasnessas, ao invÃ©do apagamento da Ãºltim sÃ-lab Ã¡tonao que se nota Ãuma mudanÃ§na sÃ-labacomo nos exemplosj8:
+
+G.a.: oga ,, : coga '8 :anang
+' :coang
+
+casa roÃ§ "diabo" agora
+
+Apc.: Ã³ 1, : cÃ³ 8, :ailÃ£ ,r : coÃ£
+
+Essas palavras foram registradas por mim na mesma forma em que foram
+registradas por Nimuendaju, com poucas diferenÃ§as[ ' om], [ ' kom], [ Ã'na]...
+Discuto mais detalhadamente esses exemplos dados por Nimuendaju no capÃ-tulque trata a sistematizaÃ§Ãda fonologia (1.5), onde hÃuma interpretaÃ§Ã
+
+Rodrigues (1945). s7 Coto acento na sÃ-labque se segue ao sinal (') 58 Nimuendaju (1987:22).
+
+para as formas do Tupi e uma interpretaÃ§Ãpara a "mudanÃ§a registrada no Nhandewa.
+
+7- Desaparecimento de morfemas Ã¡tono finais e intra-morfemas. Vejam-se os exemplos59:
+
+G.a.: mocafiyhara ' : mocafiyharera ' : eyma, yma ' : cherembireco " :cheremymba ' :fianderequ"
+
+aquele que mata aquele que matava negaÃ§Ã£sem minha mulher meu animal domÃ©stic nosso irmÃ£maior
+
+Apc.: mocafiyÃ ' : mocaÃ•i$?at ' : ey ' : chirnbirecÃ ' :chirnmbÃ ' : fianderyquey
+
+O Nhandewa atual diverge um pouco do Apapocuva de Nimuendaju em alguns casos. Por exemplo, a partÃ-cul'ma' de 'e@zaaf parece atualmente na forma
+'wa', dando 'e'Ã-jwa'60 No dialeto registrado por Nimuendaju essa palavra tem a
+forma 'eÃ-j'Esse termo nÃ£6 o Ãºnic em que aparece essa mudanÃ§aUm falante me
+disse certa vez que 'wa', que muitas vezes aparece substituindo 'ma', referia-se a plural ou a generalizaÃ§Ãµceomo no caso de 'idju' e 'idjuwa', ambos significando "amarelo", o primeiro se refere a algo que seja amarelo, o Ãºltim a cor amarela.
+Em outros exemplos apontados por Nimuendaju, como 'cherernbireco', que no Apapocuva perde o morfema relacional -re--, segundo registra o autor61, no Nhandewa contemporÃ¢neregistrei tanto uma forma quanto outra, mais de uma
+59 la'em.
+"Foneticamente [ E ' i Z q Ã £c]omo discuto em 2.3.b.I. O morfema relaciona1Ã {-r-}somente, o que pode ser notado na etimologia:chi + embireko Ã‘ chi +
+imbireko Ã‘X-himbireko
+
+vez. Essas variaÃ§Ãµse devem, possivelmente, a mescla do dialeto de Nimuendaju com outros dialetos Nhandewa e tambÃ©com outros dialetos Guarani (MbyÃ¡por exemplo), como foi colocado anteriormente.
+8- CondensaÃ§Ãde 'ramo' em 'no', "ramÃµgeralmente tem sido traduzido para o portuguÃªcomo "quando" (nÃ£interrogativo)ou como gerÃºndio
+Apc.: yvy ytÃ¡n como escora da Terra Apc.: caarÃºn de noitinha., anoitecendo Apc.: coÃ©n de manha, amanhecendo Apc.: oaÃjevyno quando eles voltaram, voltando (eles)62
+No Nhandewa registrei para o gerÃºndi apenas a forma nÃ£sintÃ©tic'ramÃµ' como em: oporaÃ-m ramÃ"comeÃ§anda cantar", "no que ele comeÃ§oa cantar". A contraÃ§Ãde 'ramo' em 'no' nÃ£ foi registrada em nosso corpus, talvez, pela entrevista linguÃ-sticconstituir uma situaÃ§Ãrelativamente "formal", as formas mais coloquiais e contratas nÃ£sejam privilegiadas nessas ocasiÃµesEntretanto, fica-nos a dÃºvid de que a contraÃ§Ãde ramo resultaria em 'rÃµe nÃ£em 'nÃµ'fi3 Recordemos tambÃ©que Nimuendaju nÃ£ distinguia [n] de [r], anotou "ponÃ£ para /porÃ£/no tÃ³pic (5)acima.
+Montoya, no capÃ-tulDe1 subjuntivo da Arte, registra a condensaÃ§Ãde ramÃ em 'amo', porÃ©nÃ£faz menÃ§Ãa condensaÃ§Ãem 'nÃµ'fi4
+62Nimuendaju (1987:22).Para os itens 8 e 9 o autor nÃ£apresenta exemplos do Guarani Antigo. 63 Wilrnar D'Angelis, em comunicaq?io pessoal, observou que jÃ teria ouvido a partÃ-cul'r'", com esse uso, em Guarani paraguaio e que Cadogan registra em seu "DicionÃ¡ri MbyÃ¡-Guaran CasteIIano" que a forma "-rÃ£nno MbyÃ Ã "posiblemente apÃ³cop de ramo; equivalente de1 -ro apapokÃºv y de1 guarani paraguayo" (Cadogan: 1992:150) 64 Montoya ([lÃ¡40 1993:206).
+
+9- UsofrecfÅ¸ent do supino 'y'para os verbos 'o' "ir" e 'u' "vir", o que o autor
+
+traduziu por "quando" e "enquanto", introduzindo oraÃ§Ãµsubordinadas.
+
+ExemplosG:
+
+Apc.: OjapÃma oÃ³v enquantoele ia e afazia
+
+Apc.: opÃyv<? Ã¡noÃºv enquanto ela vinha pulando para a terra
+
+Apc.: oaÃ§oÃ³v
+
+quando ela atravessou
+
+Apc.: oguejy oÃºv
+
+quando ele vinha descendo
+
+10- Usofrequente da partÃ-cul afirmativa 'ma' e sua contraparte interrogativa 'pa'. Esse Ã um aspecto que Nimuendaju considera peculiar ao Apapocuva e que se mantÃ©matÃhoje, no Nhandewa. Essa partÃ-cul'ma' Ã usada em todas as sentenÃ§a afirmativas (e, frequentemente, mais de uma vez). O autor lembra que a contraparte interrogativa 'pa' vem do Tupi Antigo 'panga' e, muitas vezes, aparece na forma nasalizada 'pÃ£'Ãou 'pÃ£'
+
+11- Uso da partÃ-cul superlativa 'eÃ¡' que se verifica atÃhoje no Nhandewa. Nimuendaju traÃ§uma etimologia que derivaria do verbo dizer 'e'. Distanciandose dessa etimologia, uma professora Ã-ndinos disse tratar-se de contraÃ§Ãdo quantificador 'retÃº' interpretaÃ§Ãessa que nÃ£Ã de todo invÃ¡lid e merece ser pesquisada mais minuciosamente. O prÃ³pri Pe. Ruiz de Montoya interpreta heta como "muchos", ao passo que, adicionada do diminutivo keta'i Ã interpretada
+como "medianamente muchos". A descriÃ§Ãde Montoya aproxima-se mais da sugestÃ£do falante do que da interpretaÃ§Ãde Nimuendaju.
+O exemplo que o autor dÃpara esse uso Ã©ndijaracuaaponÃ£eÃ¡va "os que sÃ£ extremamente bravos".
+
+6 Nimuendaju (1987:23).fi importante ressaltar que essas sentencas sÃ£de um texto escrito por
+Nimuendaju, narrado pelos Ã-ndiosTalvez o '7'seja sÃgenÃ-ndio
+
+12- NegaÃ§Ã£ Enquanto no Guarani Antigo a negaÃ§ÃÃ feita com o prefixo 'nd-' e o sufixo '-if, no Apapocuva e tambÃ© no Nhandewa contemporÃ¢neoo sufixo Ã '-iy'. Podemos usar como exemplo, novamente:
+porÃ "bonito" + nda-iy (negaÃ§Ã£= nÃ£porÃ£"nÃ£ bonito, feio". Em Guarani Antigo teria a forma: ndaporÃ¢'66
+oky "chuva" + nda-iy (negaÃ§Ã=£ndaokyzy "sem chuva".
+13- Conectivos 'aÃ©pey 'aÃ©gwiN' os textos e narrativas, tanto em Apapocuva quanto no Nhandewa atual, usa-se frequentemente '+y' e 'aÃ©gwi' que Nimuendaju interpreta como "entÃ£o" "em seguida" e traduz como "e", uma partÃ-culaditiva.
+1 4 Respostas a perguntas polares. Como registra Nimuendaju, se a resposta for negativa, usa-se 'anyine' "nÃ£o"PorÃ©mse a resposta for afirmativa, nesse dialeto, nÃ£ se usa a contraparte de anyine, que Ã© 'enei' "sim", mas troca-se a partÃ-cul interrogativa da pergunta 'pa' pela partÃ-culafirmativa 'ma'. ' E n d Ã usado somente como um exortativo, como coloca Nimuendaju.
+15- PartÃ-culde Ãªnjzs 'catu'. Nimuendaju registra o uso dessa partÃ-culcomo peculiaridade do dialeto Apapocuva e dÃexemplos como:
+fiamenda cata, o que traduz por "casemos, entÃ£of'67 Realmente nota-se o uso dessa partÃ-culpelos Nhandewa de SP e norte do PR ainda hoje, tendo o mesmo sentido de ÃªnfaseporÃ©mnÃ£me parece que o seu uso seja tÃ£ frequente, ainda hoje. Por exemplo, na irninÃªnci de uma grande
+fi Idem. 67 Certamente "entÃ¼o"na traduÃ§Ãde Nimuendaju, nÃ£6 conclusivo, Ã um intensificador. NÃ£ podemos esquecer que Nimuendaju escreveu em alemÃ£a traduÃ§Ãde um termo Nhandewa que foi depois traduzido para o portuguÃªs
+
+chuva, a Ã-ndiLaÃ-ridisse-me: -Gzuata katu. "Andemos depressa.", e essa foi uma
+das poucas situacÃµeem que ouvi a construÃ§Ãcom 'katu' enfÃ¡tico
+
+16- Afncadas e m lugar de sibilantes. Os fonemas sibilantes tradicionais de
+
+outros dialetos Guarani e lÃ-nguado Tronco Tupi, o /s/ e o / S / sÃ£realizados no
+
+/a/, Nhandewa-Guarani, como as africadas /t>/ e
+
+respectivamente. Esse fato,
+
+Nimuendaju aponta como caracterÃ-sticdo Apapocuva:
+
+"Este som destaca-se de modo desagradavelmente estn'dente na fala dos ApapocÃºva ident'ficando-os tÃ£ logo abrem a boca. "68
+
+O OguauÃ-vasegundo Nimuendaju, possui as africadas [t>] e [t}]
+pronunciadas de forma mais "dura" que nos demais dialetos Nhandewa, caracterÃ-sticessa que pode ter permanecido no Nhandewa contemporÃ¢neojÃque a estridÃªncinesses sons Ãmarca dialetal atual nesse grupo.
+
+HÃ¡alÃ©desses 16 pontos mencionados por Nimuendaju, algumas outras marcas peculiares do dialeto Nhandewa contemporheo, que nÃ£sÃ£registradas por esse autor no Apapocuva, mas que me chamaram a atenÃ§ÃR£elaciono-as a seguir:
+
+1- ReduplicaÃ§Ãda vogal nos pronomes pessoais. Os pronomes pessoais como os
+do Guarani Antigo ' c k "eu" e 'nÃºe "ta", tÃª como correspondentes no
+Nhandewa-Guarani atual as formas fonÃ©tica [ t}e ' e ] e [;de ' e 1,
+
+68 Nimuendaju (1987:18).PorÃ©messe fato mencionado na ocasiÃ£ da apresentacÃ£do alfabeto usado por esse autor, nÃ£Ã retomado na parte que ele destina &s marcas dialetais. Fica aqui, pois, registrado.
+
+respectivamente. NÃ£Ã possÃ-vedeterminar se, jÃ na Ã©pocde Nimuendaju, essa abertura ocorria, jÃ que ele nada anotou nesse sentido. AlÃ©da troca da sibilante pela africada no primeiro item, jÃ mencionada no tÃ³pic anterior, notamos uma abertura e reduplicaqÃ£da vogal que os compÃµeou ainda mais, notamos uma ressilabificaÃ§Ã£sendo que o termo monossÃ-labpassa a dissÃ-laboEsses termos, quando analisados em espectrograma, chegam a apresentar a vogal muitÃ-ssim
+[a alongada, algo prÃ³xim de e ' ee...I.
+2- A nÃ¼ocorrÃªnci do fonema /h/. Fonema de comum ocorrÃªnci nas lÃ-ngua
+do ramo Guarani, a fricativa glotal nÃ£aparece no Nhandewa, sendo essa uma peculiaridade do dialeto. Esse fato serÃtratado detalhadamente no tÃ³pic 3.2.
+3- Abertura de vogais em posiÃ§Ã tÃ´nic efechamento em posiÃ§ÃÃ¡tonaAs vogais
+registradas no Guarani Antigo por Montoya - "e" e "o" -,descritas como /e/ e
+/o/@, sÃ£realizadas, no Nhandewa contemporÃ¢neocom maior abertura:[&]e [o], em posiÃ§ÃtÃ´nicaprincipalmente.
+JÃem posiÃ§ÃÃ¡tonao dialeto tem a caracterÃ-sticde fechar a vogal /o/, realizando-a como [u]; tambÃ©o /e/ se realiza como [i], em certas ocasiÃµesComo tratado no tÃ³pic referente As vogais (2.4), o fechamento nÃ£ ocorre em sÃ-laba vizinhas ao acento.
+Note-se a flexÃ£verbal de terceira pessoa singular {o-}, anteposta A raiz, como em:
+odga ' p-] "ele faz", que alterna com [u&a ' p3] em um mesmo falante. O
+mesmo nÃ£ ocorre com a vogal final (que Ã tÃ´nica) nÃ£ sendo boa a forma
+69 Por Daniele Grannier Rodrigues (1990:29),por exemplo,
+
+*[u&a ' po]. Aparentemente, esse fato nÃ£se confirma em palavras emprestadas
+de outras lÃ-nguacsomo:
+- [ka ' a u r u ] [ka' q o r u ] "cachorro"
+A variaÃ§Ãentre /e/ e /i/ - jÃ mencionada por Nimuendaju - em casos como Guarani Antigo: 'cheakÃ£' Nhandewa: [ q i Ã' k Ã £ "minha cabeÃ§a - jÃ
+tratado anteriormente, parece ser o mesmo caso. Essa observaÃ§ÃÃ uma ponte para tratar as diferenÃ§ae semelhanÃ§aentre
+os extintos dialetos Nhandewa: OguauÃ-vaTaiiyguÃ e Apapocuva, que foram sintetizados no Nhandewa contemporÃ¢neoNimuendaju nos aponta as seguintes diferenÃ§aentre esses trÃªdialetos Nhandewa:
+2- OguauÃ-vaafncadas/ts/e/tJ/. Tratado anteriormente (tÃ³pic16).
+
+2- OguauÃ-vaalternÃ¢nci entre /o/ e /u/. Dooley (1991) nos aponta essa diferenÃ§a70Essa peculiaridade do OguauÃ-v Ã mantida no Nhandewa
+contempor2neocomo um vestÃ-gidaquele dialeto que parece ter desaparecido. SÃ£
+exemplos as alternÃ¢nciaregistradas entre os falantes (jÃmencionados):
+- u J 3 a ' p3] [oJ3apo] "ele faz"
+- [ k a ' q u r u ] [ k a ' q o r o ] "cachorro"
+
+Nimuendaju dÃos seguintes exemplos71:
+
+Guarani Antigo cobae mamo panga
+
+Apapocuva cÃ³va mama pÃ
+
+OguauÃ-v cuvae mamÃpÃ
+
+"este" "onde?"
+
+-
+70 NÃ£nos Ã possÃ-vesaber qual a fonte dessa informaÃ§Ãde Dooley, mas, pelo que tudo indica, parece ter sido informada pelos falantes de sua pesquisa lingu'stica, feita nas aldeias de Laranjinha e Pinhaizinho, na dÃ©cadde 70.
+Nimuendaju (1987:21).
+
+3- ProsÃ³dia Nimuendaju mencionou diferenÃ§aprosodicas nos subdialetos, que se concentravam, sobretudo, na "cadÃªnci da fala".
+Vejamos alguns exemplos apresentados por esse autor (grifei as sÃ-laba tÃ´nicapara destacÃ¡-las)
+ApapocÃºva Ita& p e a canoa ajapog ague&Ã£gu& TafÃ-ygua Itajy p e a canoa ajapotÃ¡ aguejy agu3. OguauÃ-va Igjy g r u , canna ajÃ¡potaapÃ©&j a. Tragam-me u m machado de pedra, querofazer uma canoa para navegar.
+Sobre essa questÃ£escreve Dooley:
+'(...) (1) e m OguauÃ-vaa sÃ-iab fÃ´nica no caso mais comum, Ã a penÃºltim da palavra (unidade lexical) e nÃ£ a Ãºltim como em ApapoaÃ-v e TariyguÃ¡e (2) e m TariyguÃ a fonicidade se realiza apenas uma vez em cada grupo de pausa, enquanto e m ApapocÃºv e OguauÃ-vse realiza e m cada palavra."72
+PorÃ©mpode ser apressada qualquer afirmaÃ§Ãsobre as diferenÃ§ade tonicidade nos trÃª dialetos envolvidos, jÃ que numa situaÃ§Ãpouco 'natural e esponthea' como a entrevista linguÃ-stica fenÃ´meno como entonaÃ§Ã e segrnentaÃ§Ãdos grupos tonais costumam tambÃ© sofrer artificializaÃ§Ãe distanciar-se da fala corrente. Seja como for, o trecho de Dooley Ã uma interpretaÃ§Ãtextual das marcas grÃ¡ficasfeitas por Nirnuendaju, no trecho citado.
+Em resumo, as diferenÃ§adialetais que identificam os Nhandewa-Guarani de SÃ£Paulo e norte do ParanÃ se devem, principalmente, a dois fatores: as
+migraÃ§Ãµ- que resultaram em um "isolamento" em relaÃ§Ãaos outros povos
+"Dooley (1991:6).
+
+Nhandewa, o que, certamente, acarreta mudanÃ§adialetais - e a miscigenaÃ§Ãcom
+outros Nhandewa (OguauÃ-vaTs afiyguÃ¡s)outras etnias indÃ-genae tambÃ©com os nÃ£o-Ã-nd(iywypÃ³y)No capitulo sobre a histÃ³ri desse grupo essa questÃ£Ã tratada mais minuciosamente.
+A lÃ-ngufalada por esses grupos, pela distÃ¢ncitemporal e espacial dos seus ascendentes Nhandewa e tambÃ©pelas migraÃ§Ãµde outras etnias indÃ-genapara o local73, sofreu modificaÃ§Ãµque resultaram na variedade linguÃ-sticchamada aqui de Nhandewa-Guarani de SP e norte do PR. TrÃª dialetos Nhandewa foram agregados em um Ãºnicoo que, muito mais que para a LinguÃ-sticapara os povos indÃ-genasÃuma perda irreparÃ¡vel
+73 Registra Curt Nimuendaju que para o AraribÃmudaram-se Ã-ndioOguauÃ-ve KaiowÃ¡sendo que a Ã¡re tinha anteriormenteApapocuvas. Nimuendaju (1987:15).
+
+1-INVENTARFIOON~XICOE QUADRO FONOL~GICO
+
+Nesse capitulo, alÃ© da apresentaÃ§Ãdos fones e dos segmentos fonologicamente relevantes da lÃ-ngu (possÃ-vei interpretaÃ§Ãµ para o funcionamento do sistema fonolÃ³gico)faÃ§uma breve descriÃ§Ãde cada segmento e seu ambiente de ocorrÃªncia Os fatos da fonologia que merecem especial destaque (como a nasalizaÃ§Ãe a fricativa glotal /h/) serÃ£tratados de maneira
+especÃ-ficno capÃ-tul3 - Fatos mais relevantes da fonologia do Nh'ndezua - embora
+esses, por diversas vezes, sejam mencionados durante a apresentaÃ§Ãdo sistema fonolÃ³gico sendo isso inevitÃ¡vel devido a prÃ³pri relevÃ¢nci na fonologia da lÃ-ngua
+1.1-Fones vocÃ¡lico
+
+Orais
+
+Nasais
+
+1.2- Quadro FonolÃ³gic das vogais
+
+Orais
+
+ii
+
+u
+
+ea
+
+o
+
+Nasais
+
+iZ
+
+Ã
+
+eÃ5
+
+1.3- Fones consonantais
+Plosiva sonora
+
+Fricativa surda
+AÃ¼icad
+Labializada sonora
+
+1
+
+,
+
+v
+
+s
+
+I
+ts
+
+1.4- Quadro fonolÃ³gic das consoantes
+
+Obstruinte p
+
+t
+
+ts
+
+1 t~
+
+k
+
+1 kw
+
+2
+
+Soante mb
+
+nd
+
+r
+
+1j
+
+Â¡
+
+w
+
+74 O segmento [o] sÃaparece antes de oclusivas velares, quando essas sÃ£antecedidas por vogais
+nasais.
+
+1.5- Sistematiza$Ã£da fonologia
+
+Dentre os tratamentos que tÃ©sido dados a fonologia de dialetos Guarani, muitos sÃ£ relativamente falhos, principalmente, por dois motivos: os quadros fonolÃ³gico sÃ£"inchados" por material fonÃ©tice apresentam lacunas quanto a elementos fonolÃ³gico relevantes, tratados como fonÃ©ticosO resultado dessas interpretaÃ§ÃsµÃ£quadros fonolÃ³giconos quais existem fones e faltam fonemas. A nossa interpretaÃ§ÃÃ uma tentativa de, por um lado, eliminar os excessos fonÃ©ticoe, por outro, preencher as lacunas do quadro fonolÃ³gicoPassamos por vÃ¡ria tentativas de sistematizaÃ§Ãpara a fonologia do Nhandewa-Guarani, atÃ chegarmos a uma que fosse suficiente, embora nÃ£ completamente satisfatÃ³ria Dessas tentativas, uma primeira anÃ¡lis agrupou os sons consonantais como no quadro abaixo:
+
+1 Obstruintes p t
+
+Soantes
+
+ts tl
+d3 mb nd
+r
+
+k kw ? 3 gw
+03 JIIW
+
+Essa anÃ¡lisnÃ£se mostrou produtiva, pois divide as obstruintes em quatro n'veis diferentes (oclusivas surdas e sonoras; africadas surdas e sonora) sem, no entanto, acarretar uma divisÃ£efetiva entre classes de sons que operem juntas em processos fonolÃ³gicospor exemplo. AlÃ©disso, essa divisÃ£gera um nÃ-veque
+possui somente um elemento - /d3/ - o que, numa sistematizaÃ§Ã£nÃ£ Ã
+completamente impossÃ-veml as pouco esperado, se levarmos em conta princÃ-pio
+como a simetria. Adiante veremos que o segmento [ & I Ã analisado como
+
+realizaÃ§Ãda aproximante /j/, selecionada para onset silÃ¡biccujo nÃºcle Ã vogal oral. Outra realizaÃ§Ãde /j/, para onset cuja sÃ-labpossui nÃºcle nasal, Ã [p].
+TambÃ©reavaliamos a presenÃ§do segmento [g] no quadro fonolÃ³gic e decidimos por sua retirada com base na rela~Ã£fonÃ©ticcom os fonemas /k/ e /q/. Verificamos que a realizaÃ§Ãa£notada por nÃ³ como [g]intervocÃ¡licode fato correspondia a uma realizaÃ§Ãvariante do fonema aproximante /q/. Essa varia~Ã£ fica explÃ-cit quando o segmento ocorre entre duas vogais baixas, como em [a$3a'qa] "eu corto". Nesses casos, a aproximante tem realizaÃ§Ãclara, inclusive, atestada em anÃ¡lis espectrogrÃ¡fic (ver anexo). Outro indÃ-cipara a relaÃ§Ãentre /q/ e [g] sÃ£ os exemplos usados por Nimuendaju para uma "mudanÃ§aobservada no Apapocuva em relaÃ§Ãao /g/ de lÃ-nguaTupi, como o TupinambÃ¡Transcrevo parcialmente abaixo o tÃ³pic 6 (cap. 3- parte I), para comodidade. Nele, apresentei e comentei os exemplos de Nimuendaju para a mudanÃ§fonolÃ³gic que ocorreu no Apapocuva.
+6- MudanÃ§ da Ãºltim s'laba Ã¡tona Uma das diferenÃ§aentre as lÃ-nguado ramo Tupi e do ramo Guarani Ãa ausÃªncianas Å“ltimasde szlabas finais Ã¡tona presentes nas lÃ-ngua Tupi, como jÃ apontou A y o n
+Rodrigues75, em casos como porang(a) -+ porÃ¼Assim, no ramo Guarani as
+palavras sÃ¼acentuadas, geralmente, na Ãºltim s'laba. AlÃ© disso, existe na lÃ-ngu um ywpo de palavras que podem ser
+confundidas com paroxÃ-tonassÃ¼aquelas em que, ao invÃ©do apagamento da Å“ltim szlaba Ã¡tona o que se nota Ã uma mudanÃ§ nessa s'laba, como nos exemplos:
+Rodrigues (1945)
+
+G.a.: oga " : coga ' :dang ' : coang
+
+roÃ§ "diabo " agora
+
+Apc. : Ã³ ' :cÃ³
+"
+' :: c~oÃÃ£76 £
+
+Ao usar a representaÃ§Ã"y" no lugar em que no Guarani Antigo (e tambÃ©
+no Tupi) encontramos um "g", Nimuendaju confirma nossa sugestÃ£de que "g" fosse, de fato, realizaÃ§Ãvariante da aproximante /q/. Essa interpretaÃ§Ãnos
+chama a atenÃ§Ãpara uma questÃ£opor que todas as codas consonantaispresentes no Tupi desapareceram nas palavras correspondentes em (Nhandewa) Guarani, exceto as codas que continham o segmento /g/, que sofreram uma mudanÃ§aao invÃ©de desaparecer completamente?
+O fato da coda silÃ¡bicjÃser formada, entÃ£opor um segmento aproximante poderia ser a explicaÃ§Ãpara a sua permanÃªnciajÃque as codas "oclusivas" Ã que caÃ-ramenquanto as aproximantes permaneceram.
+Existe pois, a possibilidade de que, jÃno Tupi e Guarani Antigo, o som fosse uma aproximante, como me sugeriu D'angelis (comunicaÃ§Ãpessoal). Veja o que escreve Edelweiss sobre o tema:
+
+' O g neste caso nÃ¼apenas existiu, mas ainda existe entre os guaranis de hoje, como tivemos ocasiÃ¼ de verificar. Apenas Ã muito suave, quase que sÃ expresso por um movimento do queixo." (1969:81).
+
+Nas entrevistas com os falantes, os termos correspondentes aos exemplos dados por Nimuendaju foram registrados por mim como apresentados na terceira coluna da tabela seguinte:
+
+76 Exemplos de Nimuendaju (198722).
+
+Guarani Antigo Apapocuva"
+
+G.a.: oga
+- " :cosa
+
+Ap.: Ã³ " : cov
+
+' : aÃ-ian
+
+' : aÃ-iÃ
+
+' : coang
+
+' :CO~Y
+
+Nhandewa
+['oml-['owm]
+f'kom-l--f'kowml
+[Ã£'pÃ [k5'Ã£6]-[k0'Ã£r
+
+PortuguÃª casa roca "diabo" agora
+
+Essas evidÃªncia nos sugerem interpretar a sÃ©ridas aproximantes do Nhandewa-Guarani (j, w, o[) como contrapartes nÃ£o-silÃ¡bicdas vogais (i, u, i),
+respecti~arnente~N~os. exemplos apresentados por Nimuendaju, grafa-se com y,
+que Ã o graferna usado para representar a sexta vogal do Guarani, a central alta /S/, do que podemos concluir que Nimuendaju, provavelmente, nÃ£ouvia urna
+coda consonantal nesse lugar, mas sim uma aproximante correspondente dela. Com essa interpretaÃ§Ãp£ercebemos que nÃ£devemos tratar palavras como
+"Ã³y e "kÃ³y como dissilÃ¡bicaparoxÃ-tonasmas como monossilÃ¡bicaoxÃ-tonas com sÃ-labtravada por aproximante. Isso tem conseqÃ¼Ãªncpiara a interpretaÃ§Ã do padrÃ£siliibico (que admitiria tambÃ©o padrÃ£CVG), mas toma o padrÃ£ acentual mais coerente e homogÃªneo
+A divisÃ£das soantes tambÃ©nÃ£se mostrou completamente produtiva, nessa primeira anÃ¡liseElas sÃ£ divididas em dois grupos, um formado pelas oclusivas prÃ©-nasalizadae outro que reÃºn as aproximantes e o tap num Ãºnic nÃ-velQuanto a classe das prÃ©-nasalizadansina anÃ¡lis mais acurada dos dados
+mostrou que [IJ~]sÃocorre na juntara de vogal nasal com consoante dorsal - /k/ ou /Ptw/ - o que sugere seu carÃ¡tefonÃ©tice implica sua retirada do quadro
+
+"Exemplos de Nimuendaju (1987:22).
+78 Registre-se que a vogal alta nÃ£o-arredondad/i/ possui,em Guarani, tambÃ©uma realizaÃ§Ã
+posterior [ia].
+
+fonolÃ³gico Em outras palavras, [gg] nunca ocorre, por exemplo, em inÃ-ci de palavra, onde [mb]e [nd] sÃ£possÃ-veis
+Uma segunda anÃ¡liseentÃ£ofoi elaborada a partir da tentativa de resoluÃ§Ã dos problemas da primeira, deixando fora tanto "g" como "IJ~":
+
+Obstruinte surda p
+
+t
+
+ts
+
+t1 k
+
+sonora
+
+d3
+
+Soante
+
+mb
+
+nd
+
+r
+
+j
+
+W
+
+kw
+
+2'
+
+gw
+w
+
+Essa interpretaÃ§Ãpossui a vantagem de separar os fonemas consonantais em dois grupos bastante simÃ©tricoosbstruintes e soantes. PorÃ©muma sÃ©ride apenas duas obstruintes sonoras continua assimÃ©trinco sistema.
+Nova anÃ¡lis dos dados revelou uma distribuiÃ§Ãcompletar de [dg] e [j]: [dg] sÃocorre em onset e [j] somente em coda na sÃ-laba79Para o Tupi, Anchieta80 escreve, por exemplo lucÃ¢AjucÃ¢etc, para "matar", termos que em Nhandewa sÃ£
+realizados [Zgu ' ka], [a&u ' ka] . Considerando-se tambÃ© a relaÃ§Ãde /j/ com [p], nossa decisÃ£foi por
+considerar /j/ como um fonema que possui trÃªdiferentes realizaÃ§Ãµ[ej] em coda silÃ¡bica[dg], quando ocorre em onset silÃ¡bic seguido de vogal oral e [p] em onset silÃ¡bic seguido de vogal nasal81. No tÃ³pic 3.l.a.11, adiante, encontram-se exemplos da relaÃ§Ãdesses com o fone nasal [p].
+
+'A abordagem fonol6gica desse trabalho nÃ£ Ã a da FonÃªmicaPor comodidade, no entanto,
+empregamos vez ou outra, a s expressÃµe"alofone", "alofonia",e "distribuiÃ§Ãcomplementar". 80 Anchieta (1595:17v-1%).
+ReforÃ§a essa hip6tese dados correspondentes em outros diaietos como, por exemplo, em Guarani paraguaio, iiohj, "plantar"e a correspondente em Nhandewa-Guarani, djaty.
+
+Com relaÃ§Ãao /p/,percebemos que, por vÃ¡ria vezes, palavras
+correspondentes as que no Nhandewa tÃ-nhamoanotado com o som [gw]- como
+gzuawira [gwawi ' r a ] "gabiroba"; pÃ£pur ["Ã£p ' FÃ¼ "jabuticaba"; Ã£gzu
+[ Ã "FJÃ£ que Ã uma marca de futuro82; etc. - eram grafadas por outros autores com
+w, as vezes com v e ainda com u ,ou Ãµcomo Ã o caso de Anchieta .
+Por exemplo, Nimuendaju (1987153) escreve 'vapurii' para "jabuticaba" ['FJÃ£p ' FÃ¼e]m Nhandewa - e grafa como uembÃ o termo para ['ws ' mbs] que Ã
+um tipo de cipÃ(1987: 31). Os professores Ã-ndiosem nossos encontros, escreveram
+primeiramente 'Ã¼wÃ, para marcar futuro. Pe. Anchieta escreve essa mesma
+partÃ-culcomo aÃµÃ¡mJÃGregores e SuÃ¡re (1967143, 177) grafam essa partÃ-cul como kagwÃ¡
+AlÃ©disso, a dificuldade de audi~Ãd£essa diferenÃ§nos fez, por diversas vezes, ao transcrever os dados nas entrevistas com os falantes, anotarmos essas palavras (e outras) ora com 8w ora com w: [wÃ£pÃ¼'rÃ['wawi'ra]; [05were'ko]- [ o w e r e ' k o ] "ele tem",
+Todas essas evidÃªnciaapontam para a possibilidade de considerar-se o som [gw] como uma variante do fonema aproximante /w/. Essa interpretaÃ§Ãnos permite sistematizar os fonemas consonantais do Nhandewa-Guarani num quadro fonolÃ³gic de consoantes bastante simÃ©tricoDessa forma, chegamos a uma interpretaÃ§Ãfuncional inovadora da fonologia do Guarani e desafiadora para as anÃ¡lisedos outros dialetos dessa lÃ-ngue de muitas outras lÃ-nguaTupi-Guarani:
+Anchieta (159.539) descreve Ã £ pcomo infinitivo futuro: "injnitiuofuturo. ImÃ aÃµama" Montoya
+(1640: 15) tambÃ©descreve como infinitivo futuro "haver de ..." e grafa hQzZiizÃ¢Gregores e SuÃ¡re
+o traduzem como "in arder thaf" (1967:143).
+
+Obstruinte p
+
+t
+
+ts
+
+t1
+
+k
+
+Soante
+
+mb
+
+nd
+
+r
+
+j
+
+BI
+
+kw
+
+?
+
+w
+
+Podemos considerar, com alguma certeza, que a lacuna no sistema que se observa acima poderia ser preenchida com certa eficiÃªnci pelo fonema /h/, que desapareceu quando a lÃ-ngueliminou a sÃ©rfiricativa (ver 3.2). O /h/ ficou sem lugar no sistema fonolÃ³gic do Nhandewa, uma vez que nÃ£Ã soante, embora ele fosse a contraparte da oclusiva glotal. Na reacomodaÃ§Ãda fonologia, /h/ foi eliminado, o que resultou em assimetria no sistema. Por isso mesmo, pode ou poderia vir a ser motivo de novas acomodaÃ§ÃeµmudanÃ§as
+
+Discutiremos inicialmente as possÃ-vei interpretaÃ§Ãµpara a oposiÃ§Ã fundamental entre consoantes. Entre vogais, obviamente, nÃ£se coloca a discussÃ£ de soantes x obstruintes e adiante trataremos a nasalidade fonolÃ³gic no sistema vocÃ¡licda lÃ-ngua
+2.1-OposiÃ§ÃOral x Nasal
+Quando direcionamos nossa atenÃ§Ãaos fenÃ´meno de nasalidade do Nhandewa paulista-paranaense, constatamos que todos os segmentos sonoros (vozeados)sÃ£passÃ-veide nasalizaÃ§Ã£o.
+Mais que isso, tambÃ© oclusivas surdas podem ser (prÃ©n- asalizadas e vozeadas. Por exemplo:
+[ku ' pÃ£"mulher" + [ ' kwe] "coletivo" = [kupÃ' ggwe ] "mulherada";
+Distingue-se, no entanto, uma nasalidade que Ã fonÃ©tice uma nasalidade que Ã fonolÃ³gicaA nasalidade presente nas vogais tÃ´nicae nas consoantes prÃ©
+- nasalizadas /mb, nd/ Ã fonolÃ³gica E fonÃ©tica nasalidade presente nas
+realizaÃ§Ãnµasais [m,n,p,g], nas realizaÃ§ÃpµrÃ©-nasalizada[n33, gg, ggw], no tap [r], nas aproximantes e em vogais Atonas. Remeto ao tÃ³pic 3.1 onde, ao tratar a harmonizaÃ§Ãnasal, apresentam-se interpretaÃ§Ãpµara a eleiÃ§Ãdesses elementos como nasalizados foneticamente, isto Ã©como resultado do espalhamentonasal. As consoantes plenamente nasais [m,n] sÃ£realizaÃ§Ãsµuperficiaisdas prÃ©-nasalizada
+-
+$3 De fato, todos os segmentos soantes, o que nos remete diretarnente a tradicional associaÃ§Ãentre
+o traÃ§nasalidadee o traÃ§soanticidade, que jÃestava presente em SPE como regra de redundÃ¢nci
+e continuou a ser assim considerada pela Fonologia Autossegmental, ao subordina-10s ao mesmo nÃ³Ver Chomsky e Halle (1968),D'Angelis (1998,2001), Piggott (1992).
+
+/mb/ e /nd/. A nasal palatal [p]ÃrealizaÃ§Ãsuperficial de /j/ com contexto nasal a direita84 e a prÃ©-nasalizadvelar [gg] Ã realizaÃ§Ãsuperficial de /k/ ou /q/ com
+contexto nasal A esquerdaas. TambÃ©Ã fonÃ©tica nasalizaÃ§Ãnas consoantes prÃ© nasalizadas [ni3, rjjw186, assim como a nasalizaÃ§Ãdo tapS7, das aproximantes e
+das vogais nÃ£acentuadas. Por ora, podemos considerar que, nessa lÃ-nguaa oposiÃ§Ãnasal x oral nÃ£
+parece ser produtiva entre as consoantes, como o Ã entre as vogais. Descartamos essa oposiÃ§Ãnas consoantes, pois, grande parte dos segmentos consonantais possuem realizaÃ§Ãoµrais e nasais, de acordo com o ambiente.
+Isso nos deixa a hipÃ³tes de que a oposiÃ§Ãsoante x obstruinte pode ser a oposiÃ§Ãfundamental entre as consoantes nessa lÃ-ngua
+2.2- OposiÃ§ÃSoante x Obstruinte
+A definiÃ§Ãde soante em SPE Ãa seguinte:
+"Sonorants are sounds produced with a vocal tract cavity conjiguration in which spontaneous voicing is possible; obstruents are produced with a cavity conjiguration that rnakes spontaneous voicing impossible."88
+84 Vejam-se os exemplos:
+/ja+wa ' ta/ = [&agwa ' t a ] "nÃ³(todos) andamos"; /ja+tsE/ = [pÃ' & E ] "nÃ³(todos) saÃ-mos 85/p3 ' rÃ+ k a ' t u / = [ p 5 f Ã £ ~' tgu] "realmentebelo" 86 Casos como a realizaÃ§Ãde psty "fumo"+ kwa "buraco"como [p't T ' Dgwa] "cachimbo",
+"Tor ex. [pci' rÃ£]
+88 Chomsky and Halle ([1968]1995:302).
+
+NÃ£ temos nenhum problema em classificar as oclusivas, africadas e
+q, labializada surda (p, t, k, !, &, kw) como elementos obstruintes. Entretanto, a
+classificaÃ§Ãdas consoantes prÃ©-nasalizada/mb/ e /nd/, como soantes ou obstruintes, nos coloca o problema da presenÃ§de um contorno nasal (soante) no segmento oclusivo (obstruinte).
+A ocorrÃªnci de duas "fases" nos segmentos prÃ©-nasalizadonos deixa trÃª possibilidades de interpretaÃ§Ã£ou sÃ£obstruintes (pois hÃ obstruqÃ£no trato oral), ou sÃ£simultaneamente obstruintes soantes (jÃ que possuem as duas fases) ou, ainda, sÃ£soantes (jÃ que hÃpassagem livre do ar no trato nasal, permitindo vozeamento espontÃ¢neoV) erifiquemos, entÃ£oas possibilidades de interpretaÃ§Ã£
+
+2.2.a- IahipÃ³tes de classificaÃ§Ãquanto a soanticidade
+
+Obstruintes
+
+surdas sonoras89
+
+P, t , k , ?,t<,t\,kw
+mb, Cd,
+
+Se a qualidade de soanticidade Ã atribuÃ-d ao elemento que n'o possui nenhuma obstruÃ§Ãno trato oral, podemos deduzir que nÃ£existem semi-soantes: ou temos um elemento que possui obstruÃ§Ãou um elemento que nÃ£ possui nenhuma obstruÃ§ÃA£ ssim, se um elemento Ã semi-soante e semi-obstruinte, logo, ele Ã obstruinte. Qualquer grau de obstruÃ§ÃjÃ contraria a definiÃ§Ãde soanticidade por carÃ¡tearticulat6rio:nÃ£possuir obstruÃ§Ã£
+Considerando que nÃ£existe semi-soanticidade, as prÃ©-nasalizadaseriam interpretadas como obstruintes.
+-
+89 As ausÃªnciasnesse e nos demais quadros, das consoantes nasais e das prÃ©-nasaiizada[nÃ-3
+051, assim como da velar [g],se explicam por seu carÃ¡tefonÃ©ticaopresentado na seÃ§Ã1.5.
+
+Esse procedimento nos deixa com um sistema fonolÃ³gic no qual as soantes sÃ£somente o tap, as aproxirnantes e as vogais. Isso Ã um problema para a anÃ¡lis fonolÃ³gic do Guarani? Parece-me que sim. O comportamento de /mb/ e /nd/, como alvos de nasalizaÃ§Ã£os coloca numa classe natural com / r / e com as aproxirnantes.
+Temos que considerar ainda a regra de irnplernentaÃ§Ãfonitica de Piggott (1992).Essa regra possibilita que se realize como soante um elemento que tambÃ© possui oclusÃ£oral completa. A fase nasal Ã a forma de "garantir' a soanticidade, uma implementaÃ§ÃfonÃ©ticaque resulta em um segmento complexo prÃ© nasalizado, uma obstruinte que soa.
+Seguindo Piggott, nossa opÃ§Ã£nesse caso, Ã por considerar o traÃ§ soanticidade como fonolÃ³gico sujeito a regras e princÃ-pio de implementaÃ§Ã fonÃ©ticvaia gestos articulatÃ³rios
+2.2.b- 2" hipÃ³tes de classificaÃ§Ãquanto a soanticidade
+
+Obstruintes-soantes Soantes
+
+mi),
+r. j, q, w
+
+Essa interpretaÃ§Ãseria "aceitÃ¡vel se seguÃ-ssemoa concepÃ§Ãde Piggott que considera a existÃªncide obstruintes que soam. No entanto, esse parece ser um recurso classificatÃ³ri daquele autor, que inutiliza o emprego de uma oposiÃ§Ã distintiva bem estabelecida e de uso quase universal. Ademais, nÃ£ permite agrupar as prÃ©-nasalizadaem uma classe natural com outros fonemas que sÃ£ alvos de espalhamento nasal.
+
+Nenhuma das hipÃ³tese Ã completamente satisfat-ria para a interpretaÃ§Ã do funcionamento do sistema fonolÃ³gico Entretanto, a jÃ citada regra de ImplementaÃ§ÃFonÃ©ticparece apontar um caminho viÃ¡vel de todas, a interpretaÃ§Ãque nos traz menor quantidade de problemas Ã considerar as prÃ© nasalizadas como soantes, que se opÃµe a obstruintes. Ou melhor, sÃ£elementos que sÃ£prÃ©-nasalizadojsustamente, para se oporem a elementos obstruintes, o que gera a oposiÃ§Ãsoanticidade x obstmÃ§'o O critÃ©rida classificaÃ§ÃserÃ¡ digamos, mais acÃºstic que articulatÃ³rioEntÃ£ofiquemos com ela, por enquanto.
+2.2.c- Nossa proposta de interpretaÃ§Ãpara o sistema fonolÃ³gic consonantal
+
+Obstruintes p, t, k, ?, t\,kw
+
+Soantes
+
+r&, &?d,r, j, q, w
+
+Nossa proposta de interpretaÃ§Ãpara o sistema fonolÃ³gic consiste, entÃ£o na oposiÃ§Ã soante/obstminfe entre as consoantes. Seguindo a regra de implementaÃ§ÃfonÃ©ticaconsideramos as consoantes prÃ©-nasalizadacomo elementos que possuem uma fase nasal para garantir vozeamento espontÃ¢neoo que faz com que elas se oponham a elementos obstruintes no sistema.
+Entre as vogais, a oposiÃ§Ãprincipal Ã oral/nasal, como argumentaremosem 3.1.b.V.
+
+2.3- As Consoantes
+2.3.a- Obstruintes
+As obstruintes do Nhandewa-Guarani sÃ£oa bilabial surda /p/, a dental surda /t/, a velar surda /k/, a glotal /?/, a labializada surda /kw/ e as africadas surdas /ts/ e /t.Y/.
+As obstruintes oclusivas /p/, /t/, /k/, /kw/, e /?/ nÃ£ apresentaram nenhuma restriÃ§Ãde ocorrÃªncicom vogais, tanto orais quanto nasais.
+A oclusÃ£ glotal ocorre com todas as vogais, nasais e orais. E reconhecidamenteum fonema presente nas lÃ-nguado Tronco Tupi.
+2.3.a.I- Os segmentos africados /ts/ e/t^/
+A separaÃ§ÃhistÃ³ricadentro do tronco Tupi, entre dois ramos lingiiÃ-sticoa partir de um Proto-Guarani e um Proto-Tupi (com ancestral comum, o Proto TupiGuarani) Ã evidenciada por correspondÃªncia entre fonemas resultantes de mudanÃ§afonolÃ³gica que ocorreram em algum momento da histÃ³ri dessas lÃ-nguasTalvez um dos melhores exemplos de mudanÃ§afonolÃ³gica como essas seja a ocorrÃªnciana grande maioria das lÃ-nguado ramo Guarani, do fonema /h/, onde no ramo Tupi encontra-se /s/.
+AvanÃ§andum pouco mais na linha histÃ³ric dessas lÃ-nguasobservamos que o dialeto Nhandewa em estudo eliminou o fonema /h/ completamente e as ocorrÃªnciade /s/ que haviam ficado em algumas formas cristalizadas do ramo
+
+Tupi, sÃ£realizadas como africada, o fonema /ts/,no Nhandewa. Esse assunto Ã
+desenvolvido no tÃ³pic 3.2, adiante. Sobre esses fonemas escreve Curt Nimuendaju:
+(...) " La c tiene sonido sibilante delante de Ia e, i, y. La c cedilla (Ã§ tambiÃ©es sibilante delante de Ia a, o, u. Esta sibilante, tanto en paraguayo como en 10s dialectos KaypÃ suena suave como Ia t h inglesa; en 10s Apapokuva suena Ã¡spera como Ia tz alemana (isso Ã© como /ts/). Aparece desagradablemente Ã¡sper en Ia conversaciÃ³ y denuncia a1 Apapokuva apenas abra Ia boca para hablar. Lo mismo sucede con Ia ch, que debe pronunciarse mucho mÃ¡fuerte que Ia correspondiente sibilante paraguaya, en forma semejante a una tsch alemana. (issoÃ©como/tJ/)"90
+
+As observaqÃµe de Nimuendaju confirmam as colocaÃ§6e feitas
+
+anteriormente sobre o segmento africado /t>/ e tambÃ©nos sugere usar a mesma
+
+/a/: interpretaÃ§Ãpara o segmento
+
+o fonema que, nos antigos dialetos do
+
+Guarani, realizava-se como /S/, fricativa pÃ³s-alveolasurda, no Apapokuva (e no
+
+Nhandewa-Guarani de SP e norte do PR) realiza-se como o segmento africado /t2/,fato esse que pode ser notado nos exemplos:
+
+Guarani Antigo (Montoya)n
+che tubichÃ chÃªb
+
+Nhandewa-Guarani de SP e norte do PR
+[~~Z'EI
+[tuwi ' tTa]
+[t?&'ml
+
+PortuguÃª
+"eu" "grande" para mim"
+
+90 Nimuendaju (1978:41).As observaÃ§Ãeµntre parÃªntesee os negritos sÃ£meus. fl Montoya ([1640:4 e 1011993: 72 e 78).
+
+A mudanÃ§Ã verificada tambÃ©em casos de emprÃ©stimlexical, como nos
+[q termos emprestados do portuguÃª ikÃ£m' t-s~] "minha camisa" e
+[t? i r â ,gbaka ' f l u r u ] "minha criaÃ§Ãm£ eu cachorro".
+O que o Nhandewa-Guarani paulista-paranaense fez foi eliminar completamente uma sÃ©roibstminte [+ contÃ-nua]ou seja, a sÃ©rfiricativa. Como o
+s/ fez? Eliminando o fonema /h/ e "assimilando" as restantes fricativas /s/ e / ao
+conjunto das obstruintes [- continuas] (ainda que foneticamente [ts] e [tl] tenham
+um contorno [+ - continuo], fonologicamente sÃ£descontÃ-nuasuma vez que, em
+algum momento de sua realizaÃ§Ãa£ obstruÃ§Ãda passagem do ar Ã total) e /v/ao conjunto das aproximantes, passando a /w/.
+A baixa ocorrÃªnci das fricativas jÃ havia sido notada pelos jesuÃ-tana lÃ-ngugeral de base Tupi, que era falada na costa do Brasil, nos primeiros sÃ©culo de colonizaqÃ£o
+"Nesta lingoa do Brasil nÃ£ ha f.1. S. z. rr. dobrado nem muta com lÃ-quidav t cru,
+pra & c. Em lugar de do S. in principio, ou mÃ©didictionis serue, Ã§Com zeura, v t AÃ§o Ã§af"ÃAnchieta (1595:1)92
+Chegou-se, na Ã©poca conclusÃ£otÃ£ "oportuna" naquele momento de
+colonizaÃ§Ãd£e que esses povos nÃ£teriam 'nem fi, nem lei, nem rei', o que seria
+ocasionado pela falta das "letras" "f"," 1 " e "rforte" na lÃ-ngufalada por ele@.
+92 Anchieta nÃ£faz a distinÃ§' entre som e letra. Quando Anchieta diz que nÃ£tem "s" ele estÃse
+referindo ao som [I] que era o valor fonÃ©ticda letra "s"no portuguÃªde seu tempo.
+93 A afirmaÃ§Ãencontra-se em mais de um autor quinhentista. Por exemplo, veja-se Gabriel Soares de Sousa ([I5871 1987:302).
+
+2.3.a.11- A neutralizaÃ§Ãentre/tns/ e/t2/
+
+Observando o quadro comparativo (acima) das ocorrÃªncia dos segmentos
+
+/a/, /t>/ e
+
+tanto a ausÃªnci do segmento /ts/ com a vogal alta /i/ e tamb6m
+
+/a/ com sua correspondente nasal /i/,quanto a numerosa ocorrÃªnci de
+
+com
+
+/a/ essa vogal (207 vezes) e a simÃ©tricausÃªnci de
+
+com / i/ e /i/, apontam
+
+para um processo de neutralizaÃ§Ã£
+
+/ c ~ / O segmento
+
+ao formar sÃ-lab com /i/ sofre palataliza~Ã£opor
+
+influÃªnci da vogal anterior alta, e resulta numa neutralizaÃ§Ãi£sto Ã©tanto /&/
+
+/a/, quanto
+
+diante de /i/, se realizam como [ a i ] . No caso de sÃ-labaformadas
+
+com a vogal central /i/ a lÃ-nguelege [&I.
+
+Os pares a seguir apontam para uma confirmaÃ§Ãde que esses dois segmentos africados sÃ£fonemas da lÃ-ngua
+
+[tsi ] "mÃ£e [ 5 ' ] "saiu"
+[ Q E ' E ] "eu"
+t2 [ i ' t s i ] " minha mÃ£e
+[ava,tipi' t^e]
+"milho assado na brasa"
+
+[ t i]"plantaÃ§Ãde" [ 5 ' pE ] "quebrou" [kwe ' E ] "ontem" [ t ' Ã ¬ i t i '"tmi eutio" [ava,tipi're] "palha de milho"
+
+/a/ AlÃ©de segmentos fonologicamente relevantes, os africados /i%/ e
+sÃ£marcas dialetais dos Nhandewa, "(...)y denuncia a1 Apapokuva apenas abra Ia boca
+para hablar".94
+2.3.a.111- A variaÃ§Ãentre [s] e [ts]
+Aryon Rodrigues, tratando as diferenqas fonÃ©ticaentre o Tupi e o Guaranig5,destaca uma mudanÃ§fonolÃ³gic no que se convencionou chamar de Proto-Tupi-Guarani, quando essa lÃ-ngu se ramificou em Proto-Tupi e ProtoGuarani: quase todas as ocorrÃªnciado fonema /s/ (que se mantiveram e ainda se mantÃª no Tupi Moderno) foram substituÃ-dasno ramo Guarani, pelo fonema /h/. Especificamente no Nhandewa paulista-paranaense o fonema /h/ desapareceu.
+/s/ (Tupi)---+ /h/ (Guarani) ---+ 0 (Nhandewa-Guarani).
+De fato, o segmento /s/, reconhecidamente um fonema no Tupi e no TupinambÃ¡Ã pouco registrado no Guarani Antigo e nos dialetos Guarani da atualidade. Apesar disso, algumas realizaÃ§Ãµde /s/ permaneceram nas lÃ-ngua Guarani e essas, em Nhandewa, passando pelo processo fonolÃ³gic que eliminou a sÃ©rdi as fricativas, foram convertidas em /ts/, como Ã o caso de /si/ "mÃ£e"no
+AvanheÃ©mrealizada em Nhandewa como [t%%].
+No dialeto Nhandewa-Guarani falado nas comunidades de SP e norte do PR nÃ£se registra o fonema /h/. Todas as ocorrÃªncia de /h/ correspondentes em
+outros dialetos Guarani, no Nhandewa sÃ£0 (como em [ h o ' ?a],[o ' ? a ] "cair";
+H Nimuendaju (1978:40). 95 Rodrigues (1945:341-343).
+
+[kwe ' he 1, [kwe ' e ] "ontem"). AlÃ© disso, quase todas as ocorrÃªncia de /s/
+encontradas em outros dialetos Guarani, sÃ£realizadas no Nhandewa como [ts]. Esse assunto Ã tratado com mais detalhes no tÃ³pic 3.2, adiante.
+O quadro a seguir relaciona exemplos dessa mudanÃ§fonolÃ³gica
+
+Tupi(nambÃ¡
+
+Guarani ("geral") Nhandewa-Guarani96
+
+kwarasy asab
+ambyasy kwese
+
+kwarahy aha
+amb~ah~ kwehe
+
+kwaray aa
+ambyay kweÃ
+
+PortuguÃª
+sol eu vou f ome ontem
+
+O Nhandewa-Guarani conserva realizaÃ§Ãµde /s/ em dois itens lexicais
+somente: [t agwa tosapu ' kaj ] 'gaviÃ£sapucai'97 e [ s Ã' &u] que Ã um nome
+prÃ³prio98 Isso se nÃ£ considerarmos os emprÃ©stimoe outras possibilidades descartadas abaixo. A contagem das ocorrÃªncia dos fones apontou seis ocorrÃªncia de itens lexicais com [s], das quais somente as duas mencionadas acima podem ser consideradas"autÃªnticas"jÃque:
+
+Uma ocorrÃªnci com a vogal /i/: [ka's i k i ] , 'cacique', Ã notadamente um
+
+%Emparte, essa tamgm Ãa situaÃ§Ãdo MbyA. 97 O termo sapukai, que 6 tamMm o verbo "gritar", quando registrado na forma verbal, 6 realizado
+[ tsapu ' k a j 1, o que tamMm aponta para o fato de [s] ser unia variante de /te/. Outra ocorrÃªnci
+do termo 'sapukai', por outro falante, testada no LAFAPE (Laborat6rio de Fon&ica e Psicolin"e'ustica) mostrou que, tamMm nesse caso, a fricativa alveolar surda se realiza como o segmento africado [ts], como pÃ´d ser verificado em espectrograma, no qual percebe-se a pausa,
+caracterÃ-sticda produÃ§Ãdas plosivas, e logo depois a marca do ruÃ-doprÃ³pri da produÃ§Ãde fricativas.
+* Que, coincidentemente, Ã o nome do falante entrevistado nessa ocasi'o, que residiu em Barragem,
+aldeia onde se fala Mbyh, majoritariamente.
+
+Uma ocorrÃªncicom /Ã£/ [sÃ¡nd' a ] 'melancia', emprÃ©stimdo espanhol.
+Uma ocorrÃªnci duvidosa com a vogal /o/: [ f l i s o ' ? ~ ]'me mordeu', quando na mesma entrevista o falante pronunciou esse mesmo item na forma [ aj cso ' ?o ] 'eu mordi'99. Uma ocorrÃªncicom a vogal /S/: [mÃ ' si41 'soltar', item para o qual se repetem as colocaÃ§Ãfµeitas acerca da ocorrÃªncicom /o/: esse item foi encontrado, na mesma entrevista, pronunciado pelo mesmo falante como [Ãµm ' c s ~ ] "ele solta". Parece-me ser razoÃ¡veconcluir, entÃ£oque o fone [s] Ã©contemporaneamente, uma variante de /ts/, talvez por influÃªnci do portuguÃªna pronÃºnci de alguns falantes.
+Em lÃ-nguaTupi-Guarani, a plosiva velar /k/ possui uma forma simples e um segmento complexo labializado correspondente /kw/100. Esse fenÃ´men foi descrito por vÃ¡rio(se nÃ£todos) os autores que se dedicaram as lÃ-nguaindÃ-gena dessa famÃ-liaAs grafias mudam de um autor para outro, variando entre "coa" "cua", recorrente entre os padres, ou a grafia usada por Guedes e Minatel (1996) "kwa", "kwe".
+99 Esse dado se toma ainda menos seguro quando constata-se que o falante, nascido no Posto IndÃ-genNimuendajÃºmorou longos anos de sua vida na Aldeia Barragem, onde Ãfalado MbyÃ¡O uso da vogal /o/ fechada, ao invÃ©de /o/, mais aberta, aponta para uma influencia do MbyÃ¡jÃ
+que a maior abertura nessa vogal - e tambÃ©no /e/, realizado como / c / - Ãuma marca dialetal do
+Nhandewa contemporÃ¢neo
+i* No caso de outras l'nguas, que possuem a velar /e/, tambÃ©Ã registrada a labializada /p/.
+No' Ã o caso do Nhandewa, que apresenta a aproximante velar /q/onde em outras lÃ-nguaTupi encontra-se "g". Nesse caso, como argumentamos em 1.5, a correspondente labializada Ã a aproximante /w/, que tem a variante [sw].
+
+VÃ¡rio sÃ£ os pares mÃ-nimoe anÃ¡logo que permitem evidenciar tais segmentos complexos como fonologicamente relevantes na lÃ-ngua
+
+1.[kwe] "coletivo", 3.[kwa ' a ] "saber",
+
+[ke] "dormir" [ka' ?a] "mato"
+
+Os segmentos labializados possuem uma articulaÃ§ÃprimÃ¡ri (dorsal) e uma articulaÃ§ÃsecundÃ¡ri(labial).Na interpretaÃ§Ãde Clements e Hume (1995), essa articulaÃ§ÃsecundÃ¡ri estÃ subordinada, na representaÃ§ÃhierÃ¡rquic dos traÃ§odistintivos, ao nÃPonto de V (V-PIace)101.
+
+2.3.b- Soantes
+
+Para evitar repetiÃ§Ãµreemeto aos tÃ³pico correspondentes: os segmentos soantes/mb/ e /nd/ sÃ£tratados em 3.1 (tÃ³picsobre nasalizaÃ§Ã£aoaproxirnante /j/ foi tratada na sua relaÃ§Ãcom [ds] e [p], em 1.5 e a aproximante /q/ Ã tratada em sua relaÃ§Ãcom [g], no mesmo tÃ³pico
+
+101 Que, por sua vez, estÃsubordinado ao nÃPonto de C. Esse, Ã dependente do n6 CavidadeOral e C 0 Ãligado a Raiz.
+67
+
+- 2.3.b.I A variaÃ§Ãentre [v], [w] e [u]
+Observamos uma variaÃ§Ãentre os sons [u], [v] e [w]. Optou-se por eleger /w/ como fonema e os demais como suas variantes, uma vez que [w] Ã o Ãºnic que ocorre tanto com vogais orais quanto com nasais, realizando-se como [E] - ou [sj] - no segundo caso.
+A variaÃ§Ãocorre entre falantes, nÃ£ se descartando a possibilidade da influÃªnci de outros dialetos Guarani ou mesmo do PortuguÃªsComo exemplo, a palavra /we 'we/ "voar", por um falante Ã pronunciada [ u e ' u e ] , por outro,
+Essas variaÃ§Ãpµarecem ser, atÃcerto ponto, de livre ocorrÃªnciaou melhor, possivelmente sÃ£ variaÃ§Ãµde ordem sociolingÃ¼Ã-stimcotivadas talvez pela idade do falante, contato dialetal e bilingiiismo.
+Outros exemplos dessa variaÃ§Ãseriam:
+[ko ' wa] e [ko ' ua] "isso, coisa"
+[ v a ' k a ] , [wa'ka] e [ u a ' k a ] "vaca" NÃ£descarto a possibilidade de ter registrado um fone por outro, jÃque a aproximante [u] apresenta uma articulaÃ§ÃintermediÃ¡riaqueles dois outros sons registrados, [v] e [w].
+Em ambiente nasal, observam-se dois tipos de ocorrÃªncidiferentes: (1)uma
+aproximante [w] - que varia, em alguns casos com a nasal liÃ-bio-denta[q]- ou (2)
+realiza-se como [%I. No primeiro caso, por vÃ¡riavezes anotamos "m" ou "w" ,
+
+porÃ©mnÃ£ poderia ser [m] sendo tambÃ© arredondado. SÃ£exemplos dessa relaÃ§Ãentre os dois sons:
+1) TxeÃ"eu" + wy "para" = txezuy [ t S e ' wi ] "para mim"; peZ "vocÃªs + Z L I ~
+=pemy [pE ' m i l "para vocÃªs"
+2) O termo Nhandewa para "canjica", registrado ora como [kamindsu] ora como [ka%in&u].
+A variacÃ£oem ambiente nasal, entre [w]e [Â¡*I Ã evidenciada pelo par
+- mavira "gabiroba" e WiÃ£pÃ %pÃ¼r "jab~ticaba"~0~.
+O segmento / r / faz parte da fonologia do Nhandewa-Guarani. Ele aparece,
+na sÃ-labasempre em posiÃ§Ãde onset, em in'cio e meio de palavra, como em:
+r e y [r? ri] "nome" r m a i [ r o ' waj ] "o outro lado, alÃ©m awati pororo [aua , t i p o r o ' r o l "milho de pipoca" piri [ p i ' r i ] "tabÃ´ajunco" yvyra [m' r a ] "Ã¡rvore
+102 Uma interpretaÃ§Ãalternativa, neste caso, seria considerar /w/ e /u/ como dois fonemas. Se
+- considerada esta possibilidade, o fonema /u/ - que alternaria com [v] em ambiente oral
+corresponderia, em ambiente nasal, a [Q](que nÃ£seria arredondado, mas lÃ¡bio-dentaljÃque seria
+uma realizaÃ§Ãde /u/ e nÃ£ de /w/) e o fonema /w/, velar, - que alternaria com [gw]em
+- ambiente oral se realizaria como [R] ou [ogR] em contexto nasal. Esta alternativa, no entanto,
+estÃinterditada por nossa interpretaÃ§Ãdo sistema fonolÃ³gic do Nhandewa, apresentada acima.
+
+l'fl foi tambÃ© registrado na forma / F/nasalizada (foneticamente), em
+casos de palavras nasais. Ex: pÃµr [p5 ' ?e] "belo", nÃ£porairj[nFip5 ' FBj F i ] "feio",
+ipÃ£'Zr [uÃ£? ' ?i%] "futuro". Em contexto de fala rÃ¡pid ele Ã facilmente confundido com a consoante
+nasal /n/. O prÃ³pri Nimuendaju registrou n em vÃ¡ria realizaÃ§Ãµde / r / nasalizado. Lembremos do tÃ³pic que ele dedica 21 "mudanÃ§a de r em n, no capÃ-tul'Dialeto' do seu livro "As lendas de criaÃ§Ãe destruiÃ§Ãdo mundo..."I03 :
+103 Nimuendaju (1987:21).Para a interpretaÃ§Ãe os exemplos listados por Nimuendaju, ver t6pico 5, no capitulo 3 da primeira parte.
+
+2.4- As vogais
+
+Seguindo o modelo proposto por Clements e Hume (1995) para as alturas vocÃ¡licas podemos agrupar, foneticamente, os sons vocÃ¡lico do NhandewaGuarani em estudo em quatro conjuntos segundo a altura vocÃ¡Ã-icomo abaixo:
+
+Aberto 1
+
+Aberto 2
+
+-
+
+Aberto 3
+
+-
+
+-
+
++
+
++
+
++
+
++
+
+.
+
++
+
++
+
+Fonologicamente, estamos considerando um sistema de duas alturas vocÃ¡lica (alta e baixa) que combinam com trÃª diferentes pontos de articulaÃ§Ã (anterior, central e posterior). O sistema fonolÃ³gic vocÃ¡lic do NhandewaGuarani (Cf. quadro 1.2) Ã composto por: alta anterior, /i/;alta central, /i/;alta
+posterior, /u/; baixa anterior, /s/; baixa central, /a/; baixa posterior, /s/. Optou-
+se por eleger como fonemas as mÃ©dias-baixa/ e/e / o / , no lugar das mÃ©di/ae/
+e /o/ por dois motivos: (1) sÃ£as vogais que aparecem em sÃ-iabaacentuadas, tanto orais quanto nasais e (2) o uso dessas vogais mais abertas Ã identificado pelos falantes como diferenÃ§relevantes entre a sua lÃ-ngue outros dialetos Guarani.
+Ocorre um processo de neutralizaÃ§Ãentre as alturas vocÃ¡licanas sÃ-laba prÃ©-tÃ´nicAa neutralizaÃ§Ãentre / e / e /i/ costuma ocorrer nas sÃ-labaÃ¡tona
+
+mais afastadas da sÃ-labacentuada, nunca nas que sÃ£imediatamente vizinhas do acento:
+[t\ i& gbi]"meu filho" versus [t\ e ' 2awk ] "meu cabelo".
+Os professores Ã-ndios na ocasiÃ£ das convenÃ§ÃµlinguÃ-stica que fizemos104, nÃ£aceitaram como boas na lÃ-nguas formas escritas com i, para pares como esse. A grafia "txi memby" foi rejeitada pelos professores. Nesses casos, a grafia escolhida foi "txe memby".
+Uma variaÃ§ÃfonÃ©ticde altura vocÃ¡lic ocorre entre os pares [ e ] e [e] ,
+[ o ] e [o]. Em posiÃ§ÃtÃ´nicaa vogal Ã sempre a mais aberta, [ e/ Ã ] ou [o/ 51. Nas
+sÃ-labaÃ¡tonas10 a ocorrÃªnci pode ser tanto da variante mais fechada quanto da mais aberta. Nesse sentido, foram registrados dados que possuÃ-a variaÃ§Ãde altura das vogais nessas posiÃ§Ãµe
+
+- fl - [fl [flim' ' &%I [ im+ '&i]
+
+imc? '&i ] "meu filho" (ditopor mulher);
+
+[poro1ro]-[pqro'roIw[poro'ro] "milhodepipoca"(awatipororo).
+
+Registramos outra variaÃ§ÃvocÃ¡licacondicionada pelo ponto de articulaÃ§Ã da consoante em sÃ-labCV, formada com a vogal central alta /i/:as consoantes velares ocorrem com a variante [m] e as demais consoantes ocorrem com [%IJ. Ãa velar surda apresentou ainda restriÃ§Ãde ocorrÃªnci com a vogal nasal alta /i/. Levando-se em conta que a ocorrÃªnci com as correspondentes orais dessas duas vogais tambÃ©Ã pequena, nÃ£fica completamente descartada a possibilidade de uma restriÃ§Ãn£o nÃ-vearticulatÃ³rioter sido selecionada pela lÃ-ngua
+
+1M Cf. 'ApresentacÃ£o 105 Tanto as prÃ©-tÃ´nicquanto as poucas pÃ³s-tÃ´nic encontradas na lÃ-nguaque privilegia as oxÃ-tonas
+
+A oposiÃ§Ãnasal versus oral Ã considerada subjacente e fundamental entre as vogais nessa lÃ-nguaPor esse motivo, a questÃ£da nasalidade nas vogais tem um tÃ³pic especÃ-fice serÃtratada minuciosamente em 3.1.0.
+
+-3 FATOSMAIS RELEVANTESDA FONOLOGIA DO NHANDEWA-GUARANI
+- 3.1 NasalizaÃ§Ão£ fato crucial
+
+3.1.a- As oclusivas prÃ©-nasalizada
+
+As lÃ-ngua do Tronco Tupi geralmente apresentam, em seu sistema
+
+fonolÃ³gicouma sÃ©ride segmentos de contorno (foneticamente, oclusivas com
+
+/a/, contorno nasal): /mb/,
+
+/gg/ e /Q%/. As prÃ©-nasalizada/&/ e /Q%/,
+
+presentes em outras lÃ-nguaTupi, no dialeto Nhandewa-Guarani sÃ£realizaÃ§Ãµ
+fonÃ©ticdaa velar surda /k/ e da labiovelar /kw/, respectivamente, com ambiente
+nasal a sua esquerda. Os segmentos daquela sÃ©risÃ£ tratados, na literatura, em geral, como
+oclusivas prÃ©-nasalizadasAlgumas abordagens as consideram como pÃ³s oralizadas (que assimilam a oralidade da vogal a sua direita), outras como realizaÃ§ÃµfonÃ©ticade /b/, /d/, /g/. O que temos observado Ã que o "papel" dessa sÃ©ride consoantes prÃ©-nasalizadanos processos fonolÃ³gico de iÃ-ngua como o Nhandewa-Guarani Ãmais relevante do que se pensava.
+Esses segmentos nÃ£ permitem um tratamento simplificado na fonologia, pois possuem valores opostos de um mesmo traÃ§ocomo nasal e oral, soante e obsiruinte.
+Autores como G.L. Piggott, nos moldes da Fonologia Autossegmental, interpretam os segmentos prÃ©-nasalizadocomo 'oclusivas soantes', atravÃ©das geometrias de segmentos "complexos", com duas bordas polares em uma sÃraiz: [+ nasal] e [-nasal].
+
+JÃoutros autores, como Kiparsky, preferem considerÃ¡-lo consoantes pÃ³s oralizadas, que sÃ£consoantes nasais subjacentes que recebem espalhamento da oralidade vocÃ¡lica sua direita.
+A interpretacÃ£aqui assumida Ã que a fase nasal nesses segmentos Ã o resultado de uma regra de implementaÃ§' jÃºnÃ©tic aplicada para garantir a soanticidade a um elemento que possui oclusÃ£no trato oral. Esses segmentos prÃ© nasalizados /m%/ e /;d/ precisam garantir a soanticidade, justamente, para contrastar com segmentos completamente oclusivos /p/e /t/ constituindo, assim, a oposiÃ§Ãfundamental das consoantes em Nhandewa-Guarani. Remeto aos t6picos 1.5e 2.2, onde apresento a sistematizaÃ§Ãda fonologia e discuto a oposiÃ§Ã soante/obstruinte para os segmentos prÃ©-nasalizadoAs diante, em 3.1.b.V, trato da oposiÃ§Ãmais produtiva entre as vogais: oral x nasal.
+3.1.a.I- Os segmentos nasais e sua relaÃ§Ãcom os prÃ©-nasalizado
+Desde os primeiros estudos sobre as prÃ©-nasalizadano Tupi Antigo, percebeu-se que essa sÃ©rdi e segmentos se dividia em dois grupos distintos: /mb, nd/ de um lado e /r)g, r)gw /de outro. Lemos Barbosa, no seu Curso de Tupi Antigo, de 1956, aponta uma diferenÃ§entre eles: o grupo /mb/, /nd/ sÃocorre em inicio de sÃ-lab"Mb e nd podem ser iniciais ou mediais de palavras; nuncafinais." ao
+passo que / gg/, / ~ j g w / sÃocorrem em coda de sÃ-lab"Ng pode ser media1 e final,
+nunca inicial (...)". No caso do Guarani, tanto do antigo quanto do contemporÃ¢neo as consoantes nasais em coda na sÃ-labdesapareceramlw. Remeto a apresentaÃ§Ã
+106 De fato, o "ramo" Guarani suprimiu todas as codas em s'labas CVC presentes no Tupi. Assim, a forma Tupi 'tub' "pai" em Guarani tem o correspondente 'tu'; 'jaguar' "cachorro", em Guarani
+
+da nossa proposta de interpretaÃ§Ãpara a harmonia nasal do Nhandewa-Guarani seu fundamento estÃ no desaparecimento das codas nasais que originaram as atuais vogais nasais no Nhandewa e, imagino, tambÃ© em outros dialetos Guarani.
+Tratemos, entÃ£ocada um desses dois grupos:
+3.1.a.11- Os prÃ©-nasalizados6b e / d / e a alternÃ¢ncicom os nasais plenos
+
+HÃ um conhecido processo fonolÃ³gic nas lÃ-ngua Tupi em que os elementos da sÃ©rdi e oclusivas prÃ©-nasalizadaltemam-se com os elementos da sÃ©ridas consoantes plenamente nasais. Essa altemÃ¢nciÃ condicionada pelo "ambiente" nasal ou oral. Se a vogal 21 direita for nasal, o fonema realiza-se como [m] (ou [n]) e se a vogal for oral o fonema vai se realizar como [gb] (ou [nd]).
+Observamos a existÃªnci de pares de termos que evidenciam a relaÃ§Ãdos segmentos condicionados pela nasalidade do ambiente. A separaÃ§Ãdos morfemas estÃrepresentada por (-):
+
+[Cba' ?E] "o que, coisa"
+
+[mÃ' ?E ] "olhar"
+
+[m5- '&o] "jogar"
+
+[mÃ' m5 ] "onde?"
+
+[naa-o ' km-jr i ] "sem chuva"
+
+[nÃ£-p' r*-jfZ] "nÃ£bom, ruim, feio"
+
+[<de-&u ' ru ] "sua boca"
+
+[ng-pE ' t i ] "seu fumo"
+
+[pÃ,nae-tuwi ' tJa] "nosso chefe" [pÃ£nE-rÃ£'mj ] "nosso avÃ´
+
+Observe-se particularmente a alternÃ¢ncide [&i] - [ n ] nos trÃª Ãºltimo
+- - exemplos, tanto no prefixo de negaÃ§Ã- [lida] [na] como no pronome de 2a
+'jagua'. Esse assunto Ã tratado em Rodrigues (1945). Havia tambÃ© um dialeto observado por Anchieta que fazia o mesmo: o Tupi de S'o Vicente.
+
+- pessoa do singular [nde] [n'] e de Iapessoa do plural inclusiva - [pÃ '<de] -
+Por vezes, pode-se usar uma variante por outra, o que notamos em diÃ¡logo com os professores bilÃ-ngÃ¼Nhandewa: mboapy ou moapy "trÃªs" MbatitirÃ ou matitirÃ "roupa". A substituiÃ§Ãparece ser livre quando nÃ£ se trata de uma distinÃ§Ãde significado (ou seja, quando nÃ£existem formas altemantes, oral x nasal, com significados distintos). Essa substituiÃ§Ãnunca ocorreria em casos como mba'e "coisa" e mÃ£l "olhar".
+A minha interpretaÃ§Ãconsidera que, em Nhandewa-Guarani, os fonemas sÃ£/mb/ e /nd/. Eles se realizam como [mb] (ou [nd]) diante das vogais orais e como [m] (ou [n]) diante das vogais nasais. Assim, as formas [m] e [n] sÃ£ realizaÃ§Ãµdos fonemas /mb/ e /nd/ em ambiente nasal.
+A eleiÃ§Ãde /mb/ e /nd/ - e nÃ£de [m] e [n] - como fonemas Ã mais
+produtiva para nossa anÃ¡lisepor derivar realizaÃ§Ãµ[m] e [n] de /mb/ e /nd/, por espalhamento nasal. Temos mais argumentos em favor de que se derive as nasais plenas das prÃ©-nasalizaddao que em favor de derivar-se realizaÃ§Ãµ[mb] e [nd] de /m/ e /n/. A escolha contrÃ¡riacorrente na literatura, talvez se deva "a
+um certo 'preconceito' - pelas dificuldades dos modelos em lidar com segmentos
+de contorno - de tomar as mais 'simples' como fonemas. TambÃ©um preconceito de quem vÃ as lÃ-nguaa partir da sua prÃ³pria" nas palavras de D'Angelis (comunicaÃ§Ãpessoal). SÃ£pertinentes, nesse sentido, algumas consideraÃ§Ã£doe Trubetzkoy no seu texto A Fonologia A t ~ a P 0 ~ .
+NÃ£ Ã inovaÃ§Ãnossa a proposiÃ§Ãde que as prÃ©-nasalizadasejam os fonemas (e as nasais plenas suas derivadas); veja-se a interpretaÃ§Ãde Mattoso CÃ¢marJr. (1959) para o Proto-JÃª
+*vTrubetzkoy (1981:21-22).
+
+A favor da anÃ¡lis de [m] e [n] como derivados de /mb/ e /nd/ temos pontos como a questionÃ¡vepÃ³s-oralizaÃ§Ãpara considerarmos [mb] e [nd] como resultado de alteraÃ§Ãnas nasais plenas /m/ e /n/pela vogal oral, terÃ-amoque considerar um controverso traÃ§[-nasal] ativo. AlÃ©disso, no caso do Guarani nÃ£se sustenta uma proposta como a de D'Angelis (1998)para o Kaingang, jÃque, diferentemente dessa lÃ-nguao Guarani tem o fenÃ´men da harmonia nasal, sendo as obstruintes transparentes a esse processo, o que impede que se postule um carÃ¡te ativo do nÃ SP (Soft Palate) as vogais para, com isso, fazÃª-la oralizar parcialmente a consoante nasal precedente.
+O espalhamentode nasalidade Ã uma boa interpretaÃ§Ãpara que realizaÃ§Ãµ [m] e [n] sejam derivadas de /mb/ e /nd/. Trabalhos como os de Piggott e Rice, alÃ©de D'Angelis (1998), mostraram a relaÃ§Ãentre soanticidade e nasalidade, o que nos permitiu interpretar as prÃ©-nasalizadcaomo soantes, em 2.2.
+Ainda Ã importante destacar a alternÃ¢nciobservada entre a nasal palatal [p] e o segmento africado palatal [&I (que tÃª uma clara relaÃ§Ãpelo ponto de
+articulaÃ§Ã£Oobserva-se a'o mesmo padrÃ£ode modo que a nasal [p] ocorre com
+vogais nasais e a africada [&I ocorre com vogais orais. Isto Ã verificado, por exemplo, na pronÃºnci de verbos do tipo areales (verbos transitivos diretos, que
+seguem o paradigrna de flexÃ£em {a-}, {ere-},etc, como Ã o caso de [Ã' <SE] "eu
+saio")108. Para esses verbos, o marcador de primeira pessoa do plural inclusivo se
+- realiza como {Z3a-} dja - em contexto oral, como Ã o caso de djagwafa
+[d3agwa ' t a ] "nÃ³ andamos", enquanto em contexto nasal, como no caso do
+verbo [Ã£pimÃ¼?nÃµ 'reunir-se', a primeira pessoa do plural inclusiva (nÃ³s
+incluindo o interlocutor), terÃo marcador de pessoa {&a-} realizado como [pÃ£-1
+A terminologia "areales", "aireales" e "xendales" para classificaÃ§Zdos verbos Ã de uso no
+ensino gramaticalno Paraguai. (Wihnar D'Angelis - comunicaÃ§Ãpessoal).
+
+Isso pode ser verificado em [ & a , a # pÃ£pimÃ¼' ?o#mÃ£'nÃ³ vamos nos reunir'
+
+cuja forma fonolÃ³gicÃ / j a ,a # j a + j imbundo?o # mba/. Para Ã£ts "eu saio", a
+
+forma correspondente A primeira pessoa do plural inclusiva Ã [pÃ£FsE] "nÃ³
+
+saÃ-mos"TambÃ©para o verbo endu "escutar" temos a conjugaÃ§Ãpara a primeira
+
+pessoa do plural inclusiva: [pÃ, nE#nE ' Gdu]
+
+escutamos", que pode ser
+
+segmentada como {pÃ' ;de} "nÃ³s + {&a-} 'flexÃ£verbal de pessoa' + {-E ' l'du}
+
+r, escutar".
+
+3.1.a.111- Os prÃ©-nasalizadvoelares
+Encontramos, com frequÃªnciadois segmentos complexos prÃ©-nasalizado
+com articulac$%voelar em Nhandewa-Guarani, [ G ] e [gGq]u,e sÃ£formados por
+um processo morfofonolÃ³gic de vozeamento das oclusivas surdas /k/ e /kw/. Este processo, que resulta na criaÃ§Ãde um segmento prÃ©-nasalizad
+atravÃ©do vozeamento na consoante velar seguinte, jA existia no Tupi, como foi
+apontado por JosÃde Anchieta, em 1595:
+"C. sem zeura, ou, que qui, que ek o mesmo, comummente se muda em, ng. Precedendo, m.n. ou til, como nesta composiÃ§Ãdos verbos neutros cÃµmovt aicÃ´AmoingÃ³ aquÃªrAmonguÃªrquiÃ¢aimonguiÃ¢
+Item noutras diÃ§Ãµ compostas, vt A?n, catu, composto, aingatÃº airumÃ´ airumÃ³ngatÃº amanÃ´amanÃ³ngatÅainupÃ£ainupÃ¼ngateÃt~.''~O~
+
+109 Anchieta (1595: 4). Uma "versÃ£opara o uso corrente: "/k/ comumente se muda em [ng]
+quando Ãprecedido por /m/, /n/ ou vogal nasal, como nesta composiÃ§Ãdos verbos (...) Idem em outras locu@es, como Ayn + tatu = ayngatu."
+
+Em Nhandewa-Guarani existem dados que apontam para o mesmo tipo de
+interpretaÃ§Ãc£omo, por exemplo, [pÃµrÃ£g' t u ] = [pÃ' r Ã £+ [ka ' t u ] "muito
+bom". AlÃ© desse, outros dados do Nhandewa-Guarani sugerem que se dÃ a
+mesma interpretaÃ§ÃtambÃ©para o segmento [ g j ] . Em contexto oral tem-se: [ i w i ' kwa] "sepultura" de ' i w i ' "terra" + ' kwa' "buraco" JÃem contexto nasal encontra-se:
+[pGtZ ' Qgwa]"cachimbo" de 'pE ' t â€"fumo" + ' kwaf "buraco"
+Registramos, ainda, a palavra [ f^ apâ ' ggwa ] "meu nariz", cuja relaÃ§Ã
+com os termos acima Ã notada :/apip/ "ponta do nariz110" + /kwa/ "buraco". Essa prÃ©-nasalizaÃs§eria produzida pelo vestÃ-gide uma consoante nasal
+que, historicamente, esteve presa a raiz da palavra, heranÃ§ das lÃ-ngua
+ascendentes do Tronco Tupi, em casos como: [po ' rÃ£gg-a no Tupi, que em Guarani Moderno se tornou /po ' raN/ segundo a proposigÃ£acima, ou por uma
+vogal nasal que, em Guarani, terÃrestado como reflexo da anterior estrutura W11. Sendo assim, pode-se sugerir que os segmentos prÃ©-nasalizadoformados
+com a plosiva velar [g] - vozeamento de /k/ - sÃ£diferentes dos segmentos
+fonolÃ³gico prÃ©-nasalizado/r&/ e /;d/. Os velares nÃ£ sÃ£prÃ©-nasalizada subjacentes no sistema fonolÃ³gic da lÃ-nguamas resultado de um processo morfofonolÃ³gico
+110 Aqui baseio-me na forma escrita dada por Silveira Bueno (1982:50)de quem tomo a etimologia "Apynha:n ponta do nariz". 111 Ver tbpico a seguir (3.1.b)'Harmonia Nasal'.
+
+3.1.b- Harmonia Nasal
+A discussÃ£sobre a harmonia nasal do Guarani jÃrendeu muitas pÃ¡ginae, apesar disso, o tema ainda estÃ longe de ser esgotado. Numerosos estudos abrangem variedades dessa lÃ-ngu como o AvanheÃ© (Guarani Paraguaio), o MbyÃ e o KaiowÃ¡tendo ficado o Nhandewa-Guarani relativamente esquecido pelos linguistas. Essa variedade do Guarani, no entanto, possui sutilezas no processo de harrnonizaÃ§Ãnasal que podem contribuir deveras para a discussÃ£o
+Tem-se conhecimentode um rol de interpretaÃ§ÃtµeÃ³ricapara a nasalidade no Guarani, com as mais diversas abordagens. O estudo de Alberto Rivas de 1974; a anÃ¡lis Estruturalista de Gregores e SuÃ¡re de 1967; o trabalho de Dooley de 1976112; a Fonologia Lexical de Kiparsky de 1985; o tratamento autossegmental de Piggott (1992) e o de D'Angelis (1998)' que sugere reparos ao de Piggott, alÃ©de interpretaÃ§Ãµque fundem linhas teÃ³rica diferentes, buscando abordagens alternativas, como a de Hulst e Smith (1982) que combina a Fonologia MÃ©trica Autossegmental. Certamente, o fato de nenhuma delas ser completamente suficiente ou ausente de lacunas deve-se a efetiva dificuldade do tema tratado. Assim, o estudo que se faz nesse capÃ-tultem o carÃ¡tede adicionar mais uma interpretaÃ§Ãa essas, engrossando o caldo da discussÃ£sobre a harmonia nasal do Guarani e nada pretende alÃ©disso.
+Analisando a harmonizaÃ§Ãnasal, no corpo de dados que possuÃ-modo Nhandewa paulista-paranaense, tenho como objetivo verificar em que medida sÃ£ aplicÃ¡veistambÃ©a essa variedade Guarani, algumas das sugestÃµede autores supracitados, observando se elas se mostram suficientes tambÃ© para a
+112 Sobre o Nhandewa-Guaranifalado nos Postos IndÃ-genaLaranjinha e Pinhalzinho, no norte do ParanÃ¡duas comunidade tamMm envolvidas nessa pesquisa.
+
+interpretaÃ§Ãdos fatos encontrados no Nhandewa. o objetivo desse capÃ-tulo entÃ£overificar se Ã plausÃ-veassumir as propostas desses autores - que se aplicam a outros dialetos Guarani, cujos fenÃ´meno da nasalidade podem ser,
+eventualmente, diferentes dos que ocorrem no dialeto Nhandewa-Guarani - e,
+sendo plausÃ-vevl erificar quais as conseqÃ¼Ãªnciasto Ã©quais ganhos pode trazer a interpretaÃ§Ãdos fatos de harmonia nasal do Nhandewa e quais (outros) problemas surgem quando resolvemos adotar essas propostas.
+3.1.b.I- Fonte, alvo, transparÃªnciaopacidade, direÃ§Ãe domÃ-nio
+Quando pensamos em 'espalhamento' de nasalidade, seis pontos precisam ser definidos: as "fontes" de nasalidade, o(s) alvo(s) do espalhamento nasal,
+segmentos transparentes e segmentos opacos a harmonia nasal, a(s) direÃ§Ã£o(6ee
+o domÃ-nido espalhamento. Diferentes lÃ-nguatÃª diferentes comportamentos na distribuiÃ§Ãdos "papÃ©is"11de cada um desses elementos na harmonia nasal.
+Fontes de nasalidade. Vogais nasais e segmentos prÃ©-nasalizados No Nhandewa, assim como nos outros dialetos Guarani, os centros dispersores de nasalidade sÃ£de dois tipos: ou s'o consoantes prÃ©-nasalizada /mb, nd/ ou sÃ£ vogais tÃ´nica subjacentemente nasais (como procurarei
+demonstrar adiante) /i2, , Ã£ Z, 5, ii/. A nasalidade dos fones consonantais plenamente nasais [m, n, JI,yl parece ser transmitida somente para as vogais imediatamente vizinhas a elas, tanto a direita quanto A esquerda, o que configura um gesto fonÃ©ticde ajuste de trato vocal amplamente observado em lÃ-nguado
+mundo. Assim, temos uma interpretaÃ§Ãque considera dois tipos de espalhamento
+113 Sobre essa questÃ£ ver o t6pico (3.1.b.m adiante, nesse mesmo capitulo, 'Os "padr'es" de hmmoniu nasal'.
+
+nasal na lÃ-nguaum que parte de segmentos prÃ©-nasalizadoe outro que parte de vogais nasais.
+Alvo de espalhamento. Na bibliografia, parece haver consenso sobre o fato de que as soantes sÃ£os alvos do espalharnento nasal. Gregores e SuÃ¡rezem seu estudo sobre o Guarani Coloquial (do Paraguai) de 1967, observam: "A11 the sonorants are v e y strongly nasalized (...)"114. Poser (1982)115tambÃ©concorda que o autossegmento nasal que parte, como ele sugere, de vogais nasais acentuadas e oclusivas vozeadas (nasais, Ã claro) espalha-se, desses segmentos, para vogais nÃ£ acentuadas e outras soantes.
+Segmentos transparentes. Oclusivas surdas, o que Ã de aceitaÃ§Ãgeral entre os autores.
+Segmentos opacos. Na literatura sobre o tema parece ser unanimidade que nÃ£existem segmentos opacos em Guarani a harrnonizaÃ§Ãnasal, alÃ©Ã claro, das prÃ³pria fontes que, como tais, sÃ£opacas ao espalhamento proveniente de outra fonte.
+DireÃ§Ã de espalhamento: Piggott assume espalhamento para a esquerda. JÃ outros autores, como Poser, Kiparsky, Dooley e Gregores & SuÃ¡rezo consideram bidirecional (esquerda e direita). Para o Nhandewa, assumo que a nasalidade proveniente das consoantes (prÃ©-nasalizadase espalha para a esquerda e a nasalidade proveniente das vogais (nasais)se espalha nas duas direÃ§oes
+Rivas (1974) aponta para o fato de existirem diferentes 'status' de nasalizaÃ§Ã£a nasaliza~Ã£fonÃ©ticÃ gradiente e a fonolÃ³gic Ã categÃ³ricaEssa
+114 Gregores e SuÃ¡re(1967:67). 115 Apud Kiparsky (1985).
+
+observaÃ§ÃÃ feita tambÃ©por Kiparsky (1985),retomando as colocaÃ§Ãdµaquele. Assim, sÃ£ produzidas frases fonolÃ³gica que, se possuem um centro de nasalidade, tÃ©um espalhamento que diminui de intensidade de nasalizaÃ§Ãao se afastar desse centro, atÃo limite do domÃ-nioE fonolÃ³gic somente a nasalidade presente no centro nasal (consoantes prÃ©-nasalizadae vogais nasais): essa Ã categÃ³ricaou seja, tem valor distintivoselecionado pela l'ngua116.
+Gregores e SuÃ¡re observam tambÃ© a nasalizaÃ§Ã que decresce gradualmente ao se afastar do centro nasal: "% nasalization of the particular phonemes is more or less strong according to their positions in the nasal span (...)"117.
+DomÃ-ni do espalhamento. As discussÃµesobre o domÃ-nido espalhamento da nasalidade em Guarani jÃ produziram muita bibliografia na Ã¡reaLong Peng propÃµque haveria duas regras de harmonia nasal, com domÃ-niodiferentes. A primeira regra espalha nasalidade no interior do morfema, para a direita, e se aplica em estrutura profunda; a segunda espalha superficialmente,tambÃ©para a direita, e seu dom'nio Ã Raiz + Sufixo. Para Poser (1982), o espalhamento ocorre, (bidirecionalmente), atravÃ©das obstruintes surdas e se espalha atÃencontrar um segmento opaco (outra fonte), nÃ£havendo limitaÃ§Ãde domÃ-nioEsse ponto da anÃ¡iisdo autor Ã contestado na literatura, jÃ que parece haver certo consenso de que o domÃ-nido espalhamento nasal em Guarani Ão grupo de acento.
+O que os autores chamam de 'grupo de acento' Ã um conceito tomado de Gregores e ~ u Ã ¡ r e zV" ~an der Hulst e Smith (1982)interpretam o 'grupo de acento'
+116 Outra distinÃ§Ãque Kiparsky faz em relaÃ§Ãa esse fato Ã que a nasalizaÃ§ÃcategÃ³ric
+(fonolÃ³gicasÃocorre no interior de palavras - intrapalavra - e a nasalizaÃ§ÃfonÃ©tic(gradual)
+acontece tambÃ©interpalavras, o que exigira, como veremos na interpretaÃ§Ãkiparskyana, duas regras de nasalizaÃ§Ãem n'veis lexicais diferentes. 117 Gregores e SuÃ¡re(196766).
+118 (196765): "...each stressed syllable in a macrossegment belongs in the some constituent with ali the
+immediately preceding unsiressed syllables, and - if it is the last siressed syllable ia the macrossegmmt -
+with the@llowing one (or more, up to three) sylubles. A stressed syllabkfianked by other stressed sylkzbles stand.5, of course, alone. We may cal1 each of the structural units a stress group; in it, the stressed syllabie
+
+de Gregores e SuÃ¡re como a raiz da palavra mais seus afixos Ã¡tonosAqueles autores aproximam o conceito de grupo de acento a uma unidade de segmentaÃ§Ã entonacional prÃ³xim ao pÃmÃ©tricfonÃ©ticoA aproximaÃ§Ãparece ser boa, se considerarmos uma definiÃ§ÃfonÃ©ticde pÃ como a de ~assini-cagliari119: "unidade de duraÃ§Ãcompreendida entre duas tÃ´nica (incluindoa primeira e excluindo a segunda)", que remete a definiÃ§Ãµcomo a de Abercombrie (1967). PorÃ©mse compararmos o conceito de 'grupo de acento' aos padrÃµede segmentaÃ§Ãde nÃ-veiprosÃ³dico propostos pela Fonologia ProsÃ³dicaele parece ser uma unidade entre o pÃ (S) e o polÃªmic grupo clÃ-ticoporÃ©mmais prÃ³xim deste do que daquele.
+Por ora, acataremos o uso corrente de grupo de acento para o domÃ-nido espalhamento nasal em Guarani, entendendo que ele coincide muitas vezes com a raiz mais seus afixos Ã¡tonosEntretanto, a questÃ£do domÃ-nido espalhamento nasal em Guarani Ã um ponto que continua, por enquanto, pendente e terÃ continuidade nas pesquisas.
+O estudo, daqui em diante, possivelmente seguirÃuma sugestÃ£de Scarpa, de que temos razÃµepara suspeitar que, na hierarquia prosÃ³dicao domÃ-nipossa ser afrasefonolÃ³gic ("I$"), jÃque Ã uma outra unidade de segmentaÃ§Ãentonacional possÃ-velenquanto o chamado grupo clÃ-tic tem um estatuto teÃ³ric bastante polÃªmiconÃ£sendo considerados por muitos outros autores, alÃ©de Nespor e Vogel.120
+E critÃ©rdi e Gregores e SuÃ¡re(1967) a distinÃ§Ãentre grupo de acento oral e grupo de acento nasal. Se um grupo de acento tem a vogal tÃ´nic principal marcada para nasalidade, entÃ£ esse grupo de acento Ã considerado nasal. Ao contrÃ¡riose um grupo de acento, apesar de possuir fonemas nasalizados, tem
+must be interpreted as the nucleous, and the unstressed syllables, in coordinate construction w'th each other, as the satellite." *191992,pÃ¡gin 68, nota 1.Citado em Massini-Cagliari (1999:118). 120 A sugestÃ£da professo Ester Scarpa foi feita durante a arguiÃ§Ãpara qualificaÃ§Ãdesse texto.
+
+como vogal principal tÃ´nic uma vogal oral, esse serÃum grupo de acento oral (e nÃ£nasal)121, o que concorda com a nossa ideia de que, em Guarani, a nasalidade Ã distintiva nessas vogais com funÃ§Ã"mÃ©tricap"or assim dizer (ver 3.1.b.V).
+3.1.b.11- A Harmonia nasal em Guarani numa abordagem da Fonologia Lexical
+Paul Kiparsky em seu artigo Some consequences of Lexical Phonology, de 1985, dÃuma interpretaÃ§Ãn£os moldes da Fonologia Lexical, para a nasalizaÃ§Ãdo Guarani (paraguaio)e de outras lÃ-nguasO autor considera um inventÃ¡rifÃ´nico12 no qual existem elementos soantes opondo-se a obstruintes. Desses, os primeiros sÃ£ constituÃ-do de pares com uma parte oral e uma contraparte nasal, determinadas pelo ambiente (as oclusivas prÃ©-nasalizadaque se alternam com consoantes nasais plenas). JÃ as obstruintes sÃ£ elementos orais, porÃ©m transparentes ao espalhamentoda nasalidade123.
+Para Kiparsky, os segmentos prÃ©-nasalizadosÃ£subjacentemente nasais que recebem oralidade da vogal a sua direita e espalham nasalidade para a sua esquerda. Ele nos remete a Poser (1982) que trata as prÃ©-nasalizadacomo resultado de uma regra de pÃ³s-oralizaÃ§Ãem Guarani, todo segmento seria potencialmente nasal com excqÃ¡ das obstruintes surdas. Para Poser as oclusivas prÃ©-nasalizadsaÃ£derivadas da regra de p6s-oralizaÃ§Ã£que liga uma consoante [+nasal] ao autossegmento [+oral] a sua direita. Kiparsky interpreta as oclusivas
+121 Os dois exemplos usados por Gregores e SuÃ¡resÃ£o grupo de acento oral: [fiÃ£sÃ£i"d'luz da lua'; grupo de acento nasal: [mÃªna'marido'. I* Baseado em Rivas (1974). 1 3 Esse ponto nos remete ao tÃ³pic 2.2, onde discutimos o inventÃ¡ri fÃ´nic e as principais oposi$es da lÃ-nguaLÃ¡aproximando-nos da interpretaÃ§Ãde Kiparsky, admitimos ser soantes x obstruintes uma oposiÃ§Ãmuito produtiva no Nhandewa, porÃ©mafastando-nos dele em outro ponto, consideramos os segmentos prÃ©-nasalizadocomo elementos subjacentese a sua contraparte nasal como realizaÃ§Ãsuperficial.
+
+prÃ©-nasalizadacomo segmentos subjacentemente nasais. Elas espalham nasal somente para a esquerda.
+Kiparsky chama atenÃ§ÃtambÃ© para o fato de que a nasalidade Ã distintiva entre vogais acentuadas, remetendo a pares como [tu'pa] "cama" e [tÃ¼'pÃ"trovÃ£o"ou [mbar?e] "coisa, o que" e [mÃ£'?G"olhar". Essa nasalidade
+espalha-se em ambas as direÃ§ÃµNe esse ponto, nossa anÃ¡lis se aproxima da kiparskyana.
+Poser (1982)12*,tratando do mesmo tema, propÃµ que o autossegmento [+nasal] Ã lexicalmente associado a vogais acentuadas e que as oclusivas [+ voz] sÃ£inerentemente [+ nasal].
+Kiparsky discute ainda outro modelo de interpretaÃ§ÃlinguÃ-sticpara a harmonia nasal do Guarani, o de Rvas (1974). Rivas propÃµ que existam no Guarani dois espalhamentos diferentes: profundo e superficial. Primeiramente, aplicaria-se a regra do espalhamento profundo, que espalha nasalidade para a esquerda, dentro da fronteira da palavra, para oclusivas vozeadas. Em seguida, aplica-se uma segunda regra de espalhamento superficial que assinala graus de nasalizaÃ§Ãpara soantes, em ambas as direÃ§ÃµAe ssim, quanto mais longe das subjacentemente nasais (oclusivas prÃ©-nasalizadae vogais acentuadas), mais diminui o grau de nasalidade. Em outras palavras, a proposta de Rivas contempla dois estÃ¡gio de nasalizaÃ§Ã£um primeiro categÃ³ric e um outro gradiente, decrescendo com o distanciamento do 'centro nasal' para o qual a nasalidade Ã lexicalmente relevante.
+Segundo Rivas125, haveria dois bons motivos para a adoÃ§Ãdo mecanismo de dois estÃ¡gioda nasalizaÃ§Ãs£e houvesse um Ãºnic estÃ¡gi de espalhamento, nÃ£ seria possÃ-veser categÃ³ric em alguns casos e gradiente em outros; o espalhamento profundo sÃ ocorre intrapalavra, enquanto o espalhamento
+124 Citado em Kiparsky (1985). '7.5 Apud Kiparsky (1985).
+
+superficial ocorre interpalavras. Ã o que Rivas chama de "Escapamento da nasalizaÃ§Ã£Oo que separa o primeiro do segundo estÃ¡gi Ã a aplicaÃ§Ãde uma regra de apagamentode acento secundÃ¡ri(rearranjode acento).
+Kiparsky coloca, entÃ£ouma questÃ£para a proposta de Rivas: Por que a lÃ-ngu realizaria dois processos de nasalizaÃ§Ãdiferentes? Essa pergunta Ã o gancho para o autor apresentar a sua proposta, embasada na Fonologia Lexical: haveria uma Ãºnic regra, porÃ©messa se aplicaria em dois momentos: um lexical e o outro p6s-lexical. Assim, esses processos ocorreriam em diferentes componentes. Oclusivas (vozeadas) e vogais acentuadas sÃ£associadas a um autossegmento [a nasal], no lÃ©xicoAlÃ© disso, haveria o espalhamento fonÃ©tic(superficial) de nasalidade.
+Finalmente, o autor considera que as oclusivas nasais sÃ£ associadas a [+nasal] e [+voz]. Outras obstruintes a [-voz] somente. Assim, legitima-se a premissa de que segmentos [-voz] nÃ£podem ser associados a [+ nasal]. Kiparsky apresenta a regra: espalhe [a nasal]. Essa regra nÃ£afeta os segmentos que nÃ£sÃ£ lexicalmente associados a [a nasal], ou seja, obstruintes [-voz] e vogais [- acento].
+3.1.b.111- Uma abordagem Autossegmental: "padrÃµesde Harmonia Nasal
+Na incansÃ¡vebusca pelos universais das lÃ-nguado mundo, alguns autores tentam classificar lÃ-nguasegundo certos padrÃµede harmonizaÃ§Ãnasal, como G.L. Piggott, em seu artigo de 1992, intitulado Variabitify in Feature Dependency: the Case of Nasality. Esses diferentes padrÃµeseriam os responsÃ¡veipor gerar lÃ-ngua com dois comportamentos divergentes: algumas nas quais as obstruintes surdas
+bloqueiam o espalhamento do traÃ§nasal e outras nas quais esses segmentos &
+
+transparentes ?t passagem da nasalidade. As soantes sÃ£ sempre alvo do espalhamento nasal.
+Piggott baseia sua exposiÃ§Ãem dados de lÃ-nguaindÃ-genasul-americanas: para o primeiro padrÃ£oo Warao e o Capanahua, e para o segundo padrÃ£o
+lÃ-nguadas famÃ-liaTucano e Tupi-Guarani - no caso, o Guarani.
+Segundo o autor, essa diferenÃ§de comportamento deve-se ao fato do traÃ§ nasal ser, nos dois tipos de harmonia considerados, subordinado a diferentes nÃ³s dentro da hierarquia dos traÃ§odistintivos, dando-lhe a possibilidade (no caso, o dever) de participar de processos fonolÃ³gico diferentes. HÃ¡entÃ£ouma variaÃ§Ã na dependÃ©ncdio traÃ§nasal: no primeiro padrÃ£o traÃ§nasal Ã subordinadoao nÃSP (Soft Palate) e no segundo padrÃ£ao nÃSV (SpontaneousVoicing).
+
+(Nasal) (Nasal) Piggott (1992:49)
+
+The Variable Dependency of Nasality X Skeleton Tonal Node Root Node Soft Palate Node
+h & o n t a n e o u s Voicing Node
+
+Nas lÃ-nguaque possuem o primeiro tipo de harmonia, o traÃ§nasal estaria subordinado ao nÃdenominado Soft Palate126 (palato mole). Esse nÃSP, sendo um nÃarticulador, possui traÃ§omonovalentes, ou seja, ou o fonema Ã especificado para SP contendo o traÃ§nasal, ou Ã especificado para SP nÃ£contendo o traÃ§
+nasal. O espalhamento da nasalidade daria-se pelo espalhamento de todo o nÃSP e
+nÃ£do traÃ§nasal somente, jÃ que SP Ã articulador (para Piggott, isso constituiria
+126 ComojÃhavia sido sugerido por Sagey em 1986 (cf. WAngelis 1998)
+
+um princÃ-pi geral do modelo). Por esse motivo, as obstruintes descontinuas (especificadaspara o nÃSP sem o trago nasal) bloqueariam aquele espalhamento.
+Assim sendo, a harmonia nasal nesse tipo de lÃ-nguÃ desencadeada pelo espalhamento do nÃ SP, de uma consoante nasal, para todas as vogais e aproximantes, atÃque seja bloqueado, ou por uma obstruinte descontinua, que jÃ possui o nÃSP inespeciftcado para nasalidade, ou por uma consoante nasal, que possui SP especificado para nasal, portanto, jÃ "ocupado". Uma outra colocacÃ£ que pode ser feita com base nos apontamentos de Piggott Ã que, se a lÃ-ngu seleciona SP como nÃarticulador, entÃ£essa lÃ-nguapresentarÃo contraste entre consoantes nasais e consoantes orais.
+Em lÃ-ngua como o Guarani (e o Nhandewa-Guarani), porÃ©mo espalhamento da nasalidade ocorre de uma maneira alternativa ao que seria um espalhamento de nÃ SP, pois nelas, as obstruintes sÃ£ transparentes ao espalhamento da nasalidade. Para Piggott o nÃ SP Ã um atributo exclusivo das obstruintes. Isso requeria um outro nÃque tambÃ©pudesse subordinar o traÃ§de nasalidade e que fosse exclusivo de soantes. Piggott propÃµ que seja um nÃ SV (SpontaneousVoicing)127. Essa parcela da proposta de Piggott nos serÃÃºtipara a constituiÃ§Ãde nossa interpretagÃ£para o Nhandewa-Guarani.
+A soluÃ§Ãde Piggott tem pontos coincidentes com a sugestÃ£de D'Angelis (1992)12*,de se constituir um nÃde tracos de modo, combinando os tracos [soante], [vozeado] e [nasal]. Nas palavras do autor:
+' ( ...) os fatos apresentados constituÃ-a evidÃªncia para o estabelecimento de um nÃ de classe reunindo alguns traÃ§ode modo: 'se a exigÃªnci mÃ-nim para a postulaÃ§Ãde um nÃÃa existÃªnci de processos fonolÃ³gico em que mais de um traÃ§parecem atuar ao mesmo
+1z7 De fato, esse jÃhavia sido o nome alternativosugerido por Chomsky e Halle em SPE para o traÃ§ soante,como lembra Piggott. 128 Apud D'Angelis (1998:177).
+
+tempo, sem que, no entanto, seja possÃ-vecaracterizÃ¡-l como um processo de assimilaÃ§Ã total ,parece que no Kaingang temos um exemplo de processo que exige um nÃ que nÃ¼ consta nas geometrias propostas (...). Esse nÃ (...) deve envolver os traÃ§o [soante], [vozeado] e [nasal], e relacionar-se com os traÃ§o [consonantal] e [continuo] de maneira bem prÃ³xima.'
+Do espalhamento da nasalidade ligada ao nÃ SV, segundo a proposta de implementaÃ§'fonÃ©ticde Piggott (1992), resultam segmentos que apresentam duas "fases", uma nasal e outra oral: as oclusivas prÃ©-nasalizadas
+Outra sugestÃ£de Piggott para o tratamento das oclusivas prÃ©-nasalizadÃa considerÃ¡-lasegmentos nasais que sofreram um contorno oral por influÃªnci da vogal oral com que formam sÃ-labaSobre o assunto D'Angelis (1998:190-1) apresenta a proposta de soluÃ§Ãde Piggott:
+"Outra diferenÃ§ em relaÃ§Ã ao Barasano Ã que o Guarani possui consoantes subjacentemente nasais. No caso do Guarani, Piggott explica as prÃ©-nasalizada(bastante comuns) como um processo de assimilaÃ§Ãdas propriedades orais da vogal seguinte. Essa assimilaÃ§Ã¼para ele, se a% atravÃ©de uma operaÃ§Ãautossegmental chamada 'fusÃ¼o.'.()"
+A proposta de Piggott para a nasaliza~Ãe£m Guarani leva em consideraÃ§Ã dois tipos de nasalidade: uma primeira proveniente de uma consoante nasal
+[a presente segmentalmente na palavra - como i n i '~n3bi]129 - e um segundo tipo
+de nasalidade, presente em palavras que nÃ£possuem uma consoante nasal - como [p5 ' ?'I130 - que seria causada por um "morferna nasal flutuante", que se ancora
+no nÃSV da vogal acentuada posicionada mais a direita na raiz da palavra e, de lÃ¡ espalha-se para a esquerda.
+129 "Meu filho", dito por mulher. "Bonito, bom".
+
+Piggott, porÃ©mnÃ£ consegue explicar convincentemente por que o morfema nasal flutuante nÃ£ se aloca na vogal da sÃ-lab acentuada em [nÃµFÃµhGndui]1c3omo ocorre em [nÃµFÃ•inpÃ£i1132
+Apesar de adotar a interpretaÃ§Ãdos "padrÃµes (que opÃµe lÃ-nguaque possuem contraste oral/nasal em consoantes a lÃ-nguaque nÃ£ possuem esse contraste) Piggott acaba concluindo que, nos casos de espalhamento como em pÃµr a harmonizaÃ§Ãnasal deve-se a alocaÃ§Ãde um morfema nasal flutuante.
+O deslocamento do contraste nasal/oral para o n'vel morfÃªmic Ã o fundamento da interpretaÃ§Ãde Long Peng (2000) para a nasalizaÃ§Ãem Guarani, que resenho na sequÃªncia
+- 3.1.b.IV A abordagem MorfÃªmicde Long Peng
+Os padrÃµede harmonia nasal de Piggott sÃ£contestados por Long Peng, num artigo de 2000, chamado Nasal Harmony in Three South Arnerican Languages. AlÃ©do Guarani, ele analisa os processos de harmonia nasal no Warao, Barasano do Sul e Tucano, lÃ-nguaindÃ-genafaladas na Venezuela e ColÃ´mbiaas duas primeiras tambÃ© analisadas por Piggott. A harmonia nasal do Tucano Ã apresentada por Long Peng como contra-exemplo 21 afirmaÃ§Ãdaquele autor, pois seria uma lÃ-nguque romperia os padrÃµede harmonia nasal, uma vez que nela os segmentossurdos teriam dois comportamentos:bloqueariam o espalhamentonasal (intermorfemas)e seriam transparentes a ele (intramorfema).
+131 [nd (negaÃ§Ã£ooro (marca de transitividade)+ hendu (ouvir)+ i131(negaÃ§Ã=£"onSo ouÃ§vocÃª"
+132 [nd+oro+inupÃ+ i] = "nÃ£bato em vocÃª"
+
+A interpretaÃ§Ãde Long Peng Ã de uma harmonia nasal que funciona como uma restriÃ§Ãde estrutura morfÃªmicaisso Ã©existem morfemas nasais e morfemas orais. O morfema nasal espalha seu autossegmento nasal, diminuindo a nasalizaÃ§Ãa medida em que se afasta do centro de nasalidade. Essa bipolaridade nasal dos morfemas Ã considerada nessa anÃ¡lis um processo morfofonolÃ³gic relevante na lÃ-nguaLong Peng propÃµ que haveria, entÃ£oduas regras de harmonia nasal, com domÃ-niodiferentes. A primeira regra espalha nasalidade no interior do morfema, para a direita, e aplica-se em estrutura profunda; a segunda espalha superficialmente, tambÃ©para a direita, e seu domÃ-niÃ Raiz + Sufixo. Ambas as regras teriam a condiÃ§Ã'Se [-voz], entÃ£ [-nasal]' e a segunda teria tambÃ©a condiÃ§Ãde adjacÃªncide raiz, o que explicaria seu domÃ-niampliado.
+A aplicaÃ§Ãda proposta de Long Peng para o dialeto Nhandewa-Guarani nÃ£Ã muito produtiva. No Nhandewa o contraste nasal/oral nÃ£sÃestÃpresente subjacentemente na Fonologia (das vogais), como Ã um de seus processos mais relevantes (Ver tÃ³pic 3.1.b.V.l). AlÃ© disso, a harmonizaÃ§Ãnasal parece estar mais intimamente relacionada com processos prosÃ³dicodo que morfolÃ³gicoem si.
+Finalmente, o uso de "condiÃ§Ãµecomo 'Se [-voz], entÃ£ [-nasal]' sugerem a volta das regras de redundÃ¢ncide SPE, que sÃ£a forma mais arbitrÃ¡ride definir os transparentes e os alvos.
+
+3.l.b.V- Nossa proposta de anÃ¡lisda harmonia nasal do Nhandewa-Guarani
+
+A seguir estÃ£listados, dispostos em dois grupos diferentes, alguns termos do Nhandewa-Guarani que apresentamharmonizaÃ§Ãnasal. As palavras do grupo 1 possuem uma consoante nasal (ou prÃ©-nasalizadapresente segrnentalmente, mas a vogal tÃ´nic Ã oral. Nas palavras do grupo 2 o processo de harmonizaÃ§Ã nasal 6 iniciado por vogais nasais.
+
+Grupo 1:
+
+[kÅ¸m ' naa] "feijÃ£o [t? i&a ' !e luminhascoisas" [ mÃ£na' ?i] "amendoim"
+[ i n e ' <bu] "nhambu"
+
+[t\ i m E ' gbi] "meu filho"
+[ p i ' ;do ] "palmeira" [&ida ' i ] "abÃ³bora [ r-E ' n Ã - a"casa, toca"
+
+[ Ã ' t2E ] ',saio,,
+
+Tupi
+,,smrT,
+
+[pE ' t i ] "fumo" / p E ' t Z d
+
+[Ã' kÃ£"cabeÃ§a / Ã'kÃ£n
+
+[tÃ' kÃ] "tucano" / tÃ'kÃ£
+
+[apZ ' rjgwa] "nariz" l a r v i n /
+
+[mi ' t a ] "crianca" /mi'tan/
+
+Grupo 21%
+[pii ' r Ã £"bom, bonito"
+
+Tupi
+
+[pâ ' tÃ £"vermelho"
+
+/pZ 'tÃ£
+
+[Ã' Ã¼"azule preto" [tÃ' pÃ£"trovÃ£o
+
+~!.&d /t uVu&n/
+
+[ ' me] "marido"
+
+[Ã' pÃ£"espÃ-ritque vaga" /a 'nagf
+
+133 Compare-se, no grupo (Z), a s formas correspondentes no Tupi (sublinhadas), retiradas de Anchieta (1595), Edelweiss (1969), Navarro (1999)e Silveira Bueno (1982).
+
+Fato aceito pela maioria dos autores que tratam do tema, o espalhamento nasal em dialetos Guarani pode ser de dois tipos diferentes. Para as palavras que apresentam o primeiro tipo de espalhamento, assumimos a seguinte interpreta~Ã£o~~~
+Grupo 1: /kumbarnda/
+
+olÃ o
+
+o
+
+A A - - AÃ
+
+[k
+
+u
+
+8
+m and a ]
+
+O que se observa em (1)Ã o espalhamento da nasalidade aqui chamada de "consonantal" partindo de consoantes prÃ©-nasalizadapara sua esquerda (somente). Em palavras como [kuniÃ' ;da] "feijÃ£o" o autossegmento nasal
+espalha-se a partir do segmento prÃ©-nasalizad[nd] para a vogal a sua esquerda. A
+fusÃ£ da camadas de SVs faz com que um elemento subjacentemente /mb/
+1% Constam na representaÃ§' arb-rea somente os traÃ§oe nÃ³envolvidos no processo em questÃ£o segundo o modelo de Clemente e Hume (1995). 1-35 Represento de maneira simplificada o acento, ligado a sÃ-iabapois a prioridade aqui 6 representar o espalhamentonasal.
+
+realize-se como [m]136.Nossa proposta de interpretaÃ§Ãconsidera fonÃ©tic o espalhamento nasal do tipo (1),encontrado em palavras como kumanda, jÃ que Ã uma antecipaÃ§Ãde gesto articulatÃ³rimuito observado nas lÃ-nguas
+Com relaÃ§Ãa representaÃ§ÃarbÃ³re desse primeiro tipo de espalhamento nasal poderiam surgir algumas questÃµes
+- Por que nÃ£haveria fusÃ£dos nÃ³ SV na sÃ-labacentuada /.nda/, o que
+resultaria na partilha de SV da oclusiva prÃ©-nasalizad(e, conseqÃ¼entemente nasal), com a vogal /a/?
+Porque um nÃSV com o traÃ§nasal Ã diferente de um nÃSV "vazio", sem o traÃ§nasal. Esse Ã o motivo pelo qual Ã impossÃ-veque haja fusÃ£entre nÃSV com nasal e nÃSV sem nasal.
+- Por que espalharia nasal para SVs heterossilÃ¡bicoe nÃ£na prÃ³pri sÃ-laba
+Porque a vogal da sÃ-lab/.nda/ Ã uma vogal oral e, alÃ©disso Ã sobre ela que recai o acento principal do grupo de acento. Por isso ela Ã opaca ao espalhamento nasal, jÃque existe um licenciamento para oralidade.
+- Como Ã possÃ-veo segmento prÃ©-nasalizadsoubjacente, que possui um nÃ
+SV com nasal, receber espalhamento de nasalidade e realizar-se como [m]?Isto Ã©Ã possÃ-veque esse espalhamentoancore em outro ponto?
+Em Nhandewa-Guarani existem dois tipos de vogal: uma que possui em sua representaÃ§Ão nÃ SV subordinando o traÃ§nasal (vogais nasais subjacentes) e outra que possui o nÃSV sem o traÃ§nasal. Na posiÃ§Ãde acento principal (do grupo de acento) as vogais orais sÃ£opacas ao espalhamento nasal e as nasais sÃ£ gatilhos do espalhamento; fora dessa posiÃ§Ãocorre a harmonizaÃ§Ã nasal. Em Nhandewa, a sÃ-labtÃ´nic Ã sempre a ÃºltimaA distinÃ§Ãentre vogal oral e vogal nasal sÃaparece na posiÃ§ÃtÃ´nicanas demais posiÃ§ÃµaeoposiÃ§ÃÃ neutralizada: em outras palavras, apenas na posiÃ§Ãde acento Ã licenciada a oposiÃ§Ãnasal x
+136 A fusÃ£de SVs idÃªntico(no caso, SV com traÃ§nasal subordinado) Ã uma exigÃªnci de OCP,o
+PrincÃ-pide Contorno Obrigat6rio.
+97
+
+oral. Esse Ã um processo semelhante ao que ocorre, por exemplo, no portuguÃªsem que hÃ quatro alturas vocÃ¡licasomente na posiÃ§ÃtÃ´nicaEm posiÃ§ÃµÃ¡tona nÃ£o-finaiaparecem trÃªalturas e em posiÃ§ÃÃ¡tonfinal, somente duas.
+A associaÃ§Ãentre nasalidade e acento serÃ tratada com mais detalhes adiante no tÃ³pic 3.1.b.V.l.
+Grupo 2:
+Com relaÃ§Ãas palavras do grupo 2, distancio-me um pouco, nesse ponto,
+das propostas semelhantes a de Piggott, que consideram o morfema nasal
+flutuante. Uma anÃ¡lis diacrÃ´nic da lÃ-nguaponta palavras que, supostamente, teriam sido "contaminadas" pelo 'morfema nasal flutuante'. Esse tipo de espalhamento Ã encontrado em palavras que nÃ£ possuem (atualmente) uma consoante nasal que desencadeie o processo.
+Minha proposta Ãbaseada na anÃ¡lisda etimologia das palavras do grupo 2. Sabemos que, no Tupi a palavra [p''?Ã£] por exemplo, se realizava como [p5' rÃ£ngafonologicamente, /po' rar)+a/, o mesmo acontecendo com [ Ã £ ' k Ãq£ue possuÃ-a forma [Ã£'k'gga ou /akag+a/.
+/porar)+a/+/porar)/ +/para N/+ [p5' Ã¡
+O que me parece Ã que uma consoante nasal, presente historicamente em posiÃ§Ãde coda na sÃ-labaestÃ gerando a nasalidade. Esse espalhamento Ã resultado de um autossegmento nasal proveniente de uma consoante nasal arcaica, em coda na sÃ-labaque se espalha para as outras soantes do grupo de acento. Esse autossegmento nasal permanece mesmo depois da eliminaÃ§Ãdo segmento
+
+consonantal ali existente, resultado de uma modificaÃ§Ãpela qual a lÃ-ngu passou'37.Ou seja, uma posiÃ§Ã"x" na camada do esqueleto foi suprimida.
+Em um primeiro momento histÃ³ricopodemos representar a hierarquia dos traÃ§ode /porag/ da seguinte maneira%
+I\
+nasal PC
+Em um segundo momento histÃ³ricoo segmento perde o nÃCavidade Oral e mantÃ©o nÃRaiz, contendo o nÃSV (Sponfaneous Vmcing)com o traÃ§nasal. A nasalidade se espalha para o nÃSV da vogal a sua esquerda.
+137 A histÃ³ric queda das codas consonantais que supÃµe-sque ocorreu com a separaÃ§Ãentre o Proto-Tupi e o Proto-Guarani, como j&mencionou-se anteriormente. 138 EstÃ£representados de maneira simplificada, somente os traÃ§oe nÃ³ envolvidos no processo fonolÃ³gic em questÃ£oseguindo o modelo de Clemente e Hume (1995).
+
+xxx x x
+111 1 1
+RRRR R
+
+C 0 sy sv
+
+nasal
+
+PC
+
+Em um terceiro momento, o traco nasal associa-se, por espalhamento, ao nÃ
+
+SV da vogal precedente. Na sequÃªnciapor razÃµemais gerais da lÃ-nguque, em processo de mudanÃ§ainterdita todas as codas [-continuo], desassocia-se a raiz e seu nÃSV, levando, por fim, ao apagamento da posiÃ§Ãtemporal " X que ficou vazia.
+
+3) p o r a N
+
+xxx x x
+
+I
+
+I=+=
+
+RRRR R
+
+A\
+
+I C 0 sy sv '.
+
+-J
+
+nasal
+
+Esse processo fonolÃ³gic diacrÃ´nic nos permite concluir quatro pontos:
+rn rn primeiro, a nasalidade Ã um morfema; segundo, Ã flutuante, jÃ que estÃ
+presa a vogal tÃ´nicaterceiro,&p existe SV com [ - nasal]; e quarto, [mb] e [nd]
+- nÃ£se devem a espalhamento de "oralidade".
+
+Se, por outro lado, formos considerar a forma negativa dessas palavras,
+
+como [nÃ£.p~'?*j.?i]"'feio, ruim', notaremos que, no Nhandewa-Guarani, esse
+
+autossegmento nÃ£se espalha somente para a esquerda, como ocorre no dialeto
+
+analisado por Piggott, jÃque todo o sufixo de negaÃ§Ãi£nclusive a parte que forma
+
+outra sÃ-labaÃnasalizada. Logo, o domÃ-niÃ©nesse caso, a raiz mais seus afixos.
+
+Em resumo, nossa proposta de interpretaÃ§Ãpara a harmonia nasal no
+
+Nhandewa Ã©(1)a nasalidade da consoante140espalha-se somente para a esquerda;
+
+(2) a nasalidade da vogal, que se origina de uma consoante apagada em posiÃ§Ãde
+
+coda, nÃ£possui restriÃ§Ãde direÃ§Ãde espalhamento, podendo espalhar-se para a
+
+esquerda e para a direita (atÃo limite do domÃ-nio)
+
+Portanto, a nasalidade que Piggott e vÃ¡rio outros autores chamaram de
+
+flutuante Ã©como apontei, vestÃ-gide uma consoante nasal presente em termos
+
+correspondentes no Tupi Antigo. Assim, defendo que no Nhandewa as vogais,
+
+nÃºcleo das sÃ-labaque perderam a coda nasal, tomaram-se nasais subjacentes,
+
+havendo, atualmente, a importante oposiÃ§ÃfonolÃ³gicentre vogal oral e nasall4l.
+
++=-. 11 i) TupinambÃ/ estÃ¡giintermedi&io/
+
+pÃµrÃ£
+
+pÃµrÃ£
+
+XXXXX
+Illl
+RRRRR
+
+sy sv sv sv
+
+sv sv sv
+
+Nhandewa-Guarani
+p ÃrÃ
+XXXX
+111
+RRRR
+s v S? sv
+
+^J
+nasal
+
+nasal
+
+139 No Nhandewa-Guarani a negaÃ§ÃÃ feita de maneira semelhante aos outros dialetos: prefixo {nda-}+raiz+sufixo{-i},com a diferenÃ§que em Nhandewa-Guaranio sufixo Ã{-ir*}.
+Nasalidade proveniente de consoante nasal em onset siiabico. 141 Essa seria uma explicaÃ§ÃplausÃ-vepara o fato de 'nÃœroXndui'o exemplo apresentado por
+Piggott, nÃ£sofrer nasalizaÃ§Ãna sÃ-iabfinal /-ndui/.
+
+A representaÃ§Ãem (i) refere-se ao processo diacrÃ´nic no qual se nota a correspondÃªnci entre o TupinambÃe o Guarani, no caso, o Nhandewa. PorÃ©m note-se que o Guarani nÃ£Ã uma lÃ-ngucom origem no TupinambÃ¡como se pode observar no organograma, no capÃ-tul1 da primeira parte. O que se tem Ã a correspondÃªnci entre o TupinambÃ e o Guarani Antigo, que pertencem a dois ramos diferentes (Tupi e Guarani) e que se separaram em algum momento na histÃ³riaO Nhandewa-Guarani Ã descendente direto do Guarani Antigo, portanto. A queda das codas consonantais Ã uma das diferenÃ§aentre os ramos Tupi e Guarani, e jÃhavia ocorrido no Guarani Antigol*.
+O termo TupinambÃfpÃ'?ai]]corresponde em Nhandewa-Guarani atual ao termo [pÃ 'rÃ£]No TupinambÃ¡nota-se que a consoante nasal em coda possui uma posiÃ§Ãtemporal X. Na forma intermediÃ¡riaa antiga consoante final nÃ£Ã mais parte do sistema fonolÃ³gicoela nÃ£tem mais uma posiÃ§Ãtemporal segmental, restando um autossegmento nasal na fonologia da lÃ-nguaNo Nhandewa-Guarani sugiro que seja interpretada como uma vogal nasal subjacente, gerando a oposiÃ§Ã fonolÃ³gicfundamental entre as vogais: nasal e oral, em posiÃ§ÃtÃ´nica
+Em (ii) observa-se a representaÃ§Ã arbÃ³re da harrnonizaÃ§Ãnasal interrnorfÃªmicaa negaÃ§Ãde [p5rÃ£"bonito", [nda+p5rÃ£+iriq]ue Ã realizado [nÃ£p''f@jfi"feio". A nasalidade proveniente da vogal nasal tÃ´nic espalha-se para a esquerda atÃnasalizar o prefixo {nda-}e para a direita, nasalizando o sufixo
+i* Cf. Rodrigues, A. (1945:338-341).
+
+(ii) na'pÃ•t Ã j F
+
+3.1.b.V.l- A associaÃ§Ãentre nasalidade e acento.
+
+Os exemplos a seguir sÃ£pares de dados que tÃª um representante de
+
+grupo de acento oral e um nasal.
+
+1. nde
+
++ "2 awy = [<de ' 2awiI
+
+pron. Za p. sg.
+
+2. nde
+
++
+
+cabelo
+
+'seu cabelo'
+
+pety = [nGpE 'ti]
+
+pron. 2ap. sg.
+
+fumo 'seu fumo'
+
+3. nd(a)- + o k y + -iry = [cdao'kijri]
+
+pref'x. negaÃ§Ã chuva sufix. negaÃ§Ã 'sem chuva'
+4. nd(a)- + por2 + -iry = [nÃ£pÃµ'FfijF
+
+prefix. negaÃ§Ã bonito, bom sufix. neg. 'feio, ruim'
+5. nhande + djaryi = [ p Ã £ ~ d e ~r3iaj]
+
+nossa (inclus.) + avÃ = nossa avÃ
+6. nhande + (t)arnÃµ = [pa-n-e-r-a1m5j]
+
+nosso (inclus.) + velho = nosso avÃ´ nosso velho
+
+Os dados que seguem mostram como as vogais que aqui chamo de centros
+orais - vogais nÃ£o-nasaiacentuadas - nÃ£sÃ£"contaminadas" pela nasalidade do
+ambiente, mesmo estando cercadas por nasalidade, tanto pela direita quanto pela
+esquerda: no exemplo (7) a vogal central alta / %d/ e memby 'filho' e no exemplo
+(8), alÃ©dessa, a vogal baixa /a/, de pefynyva 'cachimbo'.
+
+7. nde
+
++ mernby + nd(a)- + por5 + -iry
+
+pron. 1"p. sg. filho143 prefix. neg. bom sufix. neg. =
+nEmE ' $b% nÃ£p' f ej r i ] 'seu filho Ãfeio'
+
+e nÃ£* [nEmE ,minÃ£p' FÃ©jrZ
+
+8. txe + memby + txe + petyngwa + o + mÃ + p6 pron. 1 a p. sg.+ filho + pron. 1 a p. sg.+ cachimbo+flex. verbal 3a p. sg.+ causativ. +
+quebrar-
+[qimÃ ' gb% t 1i p Ã ©% ' q j w a Ãµm' pE ] 'Meu filho quebrou o meu
+cachimbo.'
+As frases (7) e (8) acima nos dÃ£indÃ-ciode oposiÃ§ÃfµonolÃ³gicarelevantes
+no Nhandewa. [pÃ©i ,ngwaÃµm' pE] pode ser segmentada como [p't Z , r ) Ã • "cachimbo" + Ãµm' pE "fez quebrar"] ou ainda pode ser segmentada como [pEtZ+kwa + o + mo + p6]. O espalharnento nasal chega a vozear o [kwa], que se
+realiza como [r)gwa], o que nos remete a associaÃ§ÃfonolÃ³gic entre nasalidade e vozeamento, mas o /a/ oral acentuado nÃ£ sofre nasalizaÃ§Ãmesmo estando
+
+143 dito por mulher.
+
+"cercado" pela nasalidade. O motivo da "resistÃ©nciaA nasalidade Ão fato de que a vogal, em posiÃ§Ãde acento, estÃlicenciada para 0~~1144.
+Observe-se a descriÃ§ÃgrÃ¡ficda harmonizaÃ§Ãnasal comparada ao ritmo nas sentenÃ§asOs graus de nasalidade vÃ£de N para zero e o limite do grupo de acento estÃrepresentado por #.
+[#nepS ' t Z#] "seu fumo"
+As sentenÃ§aacima mostram que o acÃºmul das funÃ§Ãµnasalidade e acento Ãa chave da prosÃ³di dessa iÃ-nguaA distinÃ§ÃfonolÃ³gicentre oral e nasal mostra-se relevante nas vogais tÃ´nicassendo neutralizada em outras posiÃ§ÃµOe espalhamentodÃ¡-satÃencontrar os limites do grupo de acento146; se um grupo de
+acento converte-se em outro maior (no caso de foE ' t i ] "fumo" e [pe; t i ' ngwa]
+"cachimbo"), os limites de espalhamento do acento secundÃ¡ri nÃ£se ampliam,
+141 Cheryl Jensen (1989), tratando do Wayampi, adota a oposiÃ§Ãacento oral x acento nasal. NÃ£ seguimos essa interpretaÃ§Ãpois optamos pelo traÃ§nasalprivativo. 145 "Meu filho quebrou o meu cachimbo", dito por mulher.
+146 Por exemplo, na sentenÃ§"Seu fumo estÃ seco", [n'pe ' tZ 11 piru'kws],o grupo de acento nasalestÃ separado com 11 do grupo de acento oral. Nota-se que nÃ£hÃespalhamentointer-grupos
+de acento.
+
+mas tambÃ©nÃ£se reduzem, sÃ£respeitados. A presenÃ§de uma posiÃ§ÃtÃ´nica mesmo que seja um acento secundÃ¡riocomo na sÃ-lab 'ti' [peyti'ggwa], explica a permanÃªnci da nasalidade e seu espalhamento (para esquerda e direita). Se houver licenciamento para oralidade nesse grupo de acento, a nasalidade pÃ¡ra
+[llt}im6'gbi 1 tsip6t5'rjywa 11 Ã•rnÃµ' 111.
+A seguir temos alguns pares mÃ-nimo e anÃ¡logo orais x nasais em Nhandewa-Guarani.
+
+Orais pyta "ficar" tupa "cama" kwa "buraco" puru'a "gravidez" mba'e "coisa, o que" oke "ele dorme" tape "caminho" kutxa "colher" kutxa "colher" (r)eta "coletivo nÃ£o-pessoa txira'y "meu filho" dito por homem
+~ Y W Y"irmÃ£o pota "querer, gostar" atxa "machado"
+
+Nasais pytÃ "vermelho"147 tÅ¸p "trovÃ£oclima" kwÃ "dedo" pÃ¼rii' "umbigo" mÃ£6 "olhar" 6kS "porta" tape "tipo de pÃ¡ssaro kutxÃ£t "garfo" kunhÃ "mulher" tetÃ "cidade" txiriYyi "meu dente" ky'yi "pimenta" pÃµr "bonito, bom" Ã£t"duro"
+
+E sabido que o espectro das cores Ã dividido diferentemente em cada cultura. O termo m/tÃ engloba as cores que, em portuguÃªsdenominamos de vermelho, rosa, vinho, alÃ©de alguns tons de roxo. Outros tons de roxo sÃ£classificados como 00,termo que tamb4m engloba azul e preto.
+
+Na tentativa de verificar se, no Nhandewa-Guarani, ainda hoje, os termos correspondentes aqueles do Tupi Antigo (palavras do grupo 2) possuÃ-a uma consoante nasal em coda, foram realizados testes com os falantes construindo-se sintagmas nominais do tipo nome + adjetivo, com o objetivo de evidenciar a presenÃ§ da coda nasal no nome, se ela existisse, ao ressilabificar com a vogal inicial do adjetivo (a luz do Tupi. Como em: tukai) + usu = tukÃ£ggusu)Como pode-se notar, o resultado foi negativo.
+Tucano amarelo: tÅ¸kÃ¼(+i idju =[ t Ã,k Ã £' &u] * [ta,k Ã £'&~I, forma rejeitada pelo falante.
+Tucano preto: tÃœkÃ¼+( Ã¼Ãœ=( [ t Ã, kÃ' Ãœ
+* [tÃ, ka ' r)Ã¼nf]orma rejeitada pelo falante.
+CabeÃ§amarela: aka(i}) + idju = [ Ã,k Ã £' &u] "' [ Ã ¡kÃ£g'T3u],forma rejeitada pelo falante.
+CabeÃ§da crianÃ§a%-(i}) + mitÃ£(g= [mi , t Ã £' kÃ£ * [ m i ,t aGS ' kao], forma rejeitada pelo falante.
+Finalmente, a eleiÃ§Ãda interpretaÃ§Ãda oposiÃ§Ãnasal/oral subjacente nas vogais parece ser razoÃ¡ve para o Nhandewa-Guarani. A anÃ¡lis etimolÃ³gic proposta mostra-se um bom caminho para chegar As vogais nasais/orais subjacentes, atravÃ©da constataÃ§Ãda queda das codas nasais supostamente presentes no Proto-Tupi-Guarani e conservadasno Tupi Antigo.
+Essa interpretaÃ§Ãa£pesar de sua simplicidade, apresenta duas vantagens
+em relaÃ§Ãao tratamento dado a questÃ£por outros autores: Primeiro, o fato de trazer a tona o percurso histÃ³ric das lÃ-nguado Tronco Tupi, cujas anÃ¡iise
+etimolÃ³gicaforam decisivas na constituiÃ§Ãda interpretaÃ§ÃlinguÃ-sticaSegundo,
+
+traz alguma inovaÃ§Ãao tratamento da harmonizaÃ§Ãnasal em dialetos Guarani, ao apontar a associaÃ§Ãentre nasalidade e prosodia.
+O tema, porÃ©mnÃ£ se esgota aqui. Existem outras possibilidades de tratamento da nasalidade em Guarani: talvez a harmonia nasal nÃ£seja descrita em termos de segmentos, mas sim de sÃ-labacomo sugeriu Corbera Mori (comunicaÃ§Ãpessoal).Essa Ãuma possÃ-vecontinuidade para a pesquisa.
+
+3.2- A fricativa glotal /h/: o fato novo
+Os estudos sobre as lÃ-nguado tronco lingÃ¼Ã-sTtiupi nos permitem supor com bastante convicÃ§Ãque, em algum ponto do passado, existiu uma protolÃ-nguque foi a origem comum ascendente das lÃ-nguada famÃ-liTupi-Guarani: o Proto-Tupi-Guarani. Acredita-se tambÃ©que, em algum momento da histÃ³ri prÃ© colombiana, ocorreu uma separaÃ§Ãnessa proto-lÃ-nguque originou duas outras proto-lÃ-nguaque resultaram em dois grandes ramos lingÃ¼Ã-stiocoProto-Tupi e o Proto-Guarani.
+Nossa questÃ£inicia-se justamente nesse momento do desdobramento do Roto-Tupi-Guarani nos ancestrais dos ramos lingÃ¼Ã-stiTcupi e Guarani. Na literatura a respeito148, as diferenÃ§amais frequentemente apontadas entre as lÃ-nguado ramo Tupi e do ramo Guarani sÃ£ duas: a mudanÃ§das palavras paroxÃ-tonanas lÃ-nguaTupi, em palavras oxÃ-tonanas lÃ-nguaGuarani (atravÃ© da queda da sÃ-labAtona final das primeiras) e a correspondÃªncientre o fonema /s/ do ramo Tupi e o fonema /h/ do ramo Guarani.
+Este capÃ-tulprocura tratar o segundo ponto, fazendo um estudo diacrÃ´nic sobre o processo fonolÃ³gic que possibilitou gerar, atualrnente, lÃ-nguaTupi que possuem o fonema /s/ e lÃ-nguaGuarani que possuem, alÃ©do /h/ esperado, tamÃºÃ /s/ "congelado" em certos termos.
+A questÃ£oentÃ£oÃ relacionar o(s) suposto(s) proto-fonemas(s) com os desdobramentos encontrados no Tupi e Gurarani Antigo, por um lado e, por outro, no Nhandewa-Guarani paulista-paranaense atual. Existe a possibilidade de, na proto-lÃ-ngua terem havido duas fricativas que efetivaram-se, como traÃ§o 'dialetais', na histÃ³ric separaÃ§Ãentre os ramos ou, ao contrÃ¡riopoderÃ-amoter
+I* Ver, por exemplo, Rodrigues (1945) e Edelweiss (1947).
+
+uma proto-lÃ-ngucom um fonema que se desdobrou em dois na "separaÃ§Ã£entre os dois ramos lingiiÃ-sticos
+NÃ£seria um posicionamento indefensÃ¡veexplicar-se o surgimento de dois fonemas a partir de dois segmentos ancestrais, semelhantes, porÃ©mdiferentes. Essa seria uma grande economia para interpretar o desdobramento do fonema /s/ presente no ramo Tupi tanto em /h/ quanto em /s/ remanescente, no ramo Guarani. Apesar de facilitar o tratamento da questÃ£da "resistÃªncia"em certos casos, a mudanÃ§de /s/ para /h/, esse tratamento nÃ£Ã de todo viÃ¡vese nos questionamos sobre quais fricativas poderiam gerar tanto /s/ quanto /h/. A
+resposta, talvez, fique restrita aos mesmos /s/ e /h/, alÃ©do improvÃ¡ve/ S / , do
+inexistente /f/ e de /p/. Na bibliografia, essa divergÃªncideu origem a discursos
+defensores do "proto-s" e defensores do "proto-h. Autores como Frederico Edelweiss argumentam que seja /h/o fonema arcaico do Proto-Tupi-Guarani:
+,r Quanto aofonema h, aceita-se em geral que Ãmais primitivo, comparado com o s de outros dialetos tupi-guaranÃ-s. (1947:97).
+JÃautores como Aryon Rodrigues (1945) e CherylJensen (1989) argumentam a favor do arcaÃ-smdo fonema /s/:
+'(...) o fonema primitivo, o fonema proto-tupi-guarani, Ã s, fncativa dental surda, enquanto que h nÃ£ foi conhecido no proto-tupi-guarani, tendo surgido nos dialetos do proto-guarani (ou no prÃ³pri proto-guarani, provavelmente)."149
+Se, por outro lado, pensamos na relaÃ§Ãentre os dois fonemas, /s/ e /h/,
+fica-nos relativamente claro que, o primeiro, ao perder seus traÃ§ode Cavidade
+149 Rodrigues (1945:342).
+
+Oral, realiza-se como o segundo. Isso nÃ£esgota a questÃ£ojÃque ambos poderiam gerar tanto um quanto outro fonema, porÃ©mparece-me mais viÃ¡vea perda de um nÃCavidade Oral do que o surgimento de um, a nÃ£ser que fosse motivado por um contexto "muito favorÃ¡vel para essa aquisiÃ§Ãe£m termos autossegrnentais. Portanto, Ã mais simples e plausÃ-veque o fonema /s/ perca seus traÃ§oda cavidade oral e se torne /h/, do que o contrÃ¡rio
+Em (1)estÃrepresentada a geometria hierÃ¡rquicdos traÃ§odistintivos do fonema /s/:
+(1)
+
+de C
+I
+I
+coronal
+
+Â¥
+contÃ-nu
+
+Em lÃ-nguacomo o Guarani Antigo, o AvanheÃ©mo MbyÃe outros150 houve
+- um desligamento do nÃSupralarÃ-nge(se o admitimos) ou do nÃCavidade Oral
+C 0 - se adotamos Clements & Hurne (1995). Em (2) estÃrepresentado o processo
+diacrÃ´nicde desligamento do nÃCO, o que transforma /s/ em /h/:
+
+1% Edelweiss (1947: 101-4) destaca que fazem parte dos "diaietos de S", alÃ© do prÃ³pri Tupi
+Antigo, o Guarayo, o Omagua e o Cocama.
+111
+
+/S/ ->W
+
+NÃLarÃ-nge
+Cavidade
+
+constr. glotal
+
+cordas tensas
+
+de C
+I
+corIonal
+
+continuo
+
+Nota-se ainda em (2) que, no processo de conversÃ£da fricativa alveolar surda em fricativa glotal, para essa Ãºltima o traÃ§ [+continuo] deverÃser "religadof' diretamente ao nÃ Raiz, o que estÃrepresentado pela linha pontilhada. Como a fricativa glotal nÃ£apresenta nenhuma obstrucÃ£na Cavidade Oral, ela nÃ£possuirÃem sua representaÃ§Ão nÃ Cavidade Oral. Esse nÃ³no modelo de
+Clements e Hume (1995), subordina o traÃ§[+ - continuo]. De fato, a adoÃ§Ãfeita
+aqui, do traÃ§[continuo] ligado diretamente ao nÃ Raiz, possibilita uma melhor interpretacÃ£da conversÃ£do fonema /s/ no fonema /h/131.
+No Nhandeva-Guarani, no nÃ-veautossegmental, o que ocorreu para o apagamento da fricativa glotal foi a perda do nÃ Raiz do fonema, como Ã representadopela regra de apagamento em (3):
+
+1 3 Eventualmente pode-se considerar que [+contÃ-nuoseja a realizaÃ§Ã"default" da constriÃ§Ã glotal.
+
+4T~g;e~
+
+NÃ Lar'ngeo
+A
+consti. cordas glotal tensas
+
+continuo
+
+A fricativa glotal desaparece completamente e as duas vogais adjacentes
+permanecem lado a lado, porÃ©mem sÃ-labadiferentes, como pode ser observado
+em termos como /kwara ' %/I52 e /kwe ' &/I53 e nos demais exemplos da tabela 2,
+adiante. Sendo esse o processo, a posiÃ§ÃX (temporal) permanece, e Ã usada para
+alongamento da vogal remanescente.
+Deixando as proto-lÃ-ngua um pouco para trÃ¡s Ã mais prudente tratar
+lÃ-nguadas quais temos registros e, se assim for, a situaÃ§Ãinicial Ã a seguinte: no
+Tupi Antigo encontramosapenas o fonema /s/, grafado por Anchieta como 'c' 1%;
+no Guarani Antigo, Montoya nos aponta os dois fonernascoexistentes /s/ e /h/155.
+Isso Ã©grande parte das realizaÃ§Ãµdo fonema /s/ do Tupi correspondiam (e
+152Correspondentea /kwara'si/-+/kwara' h&/. 153Correspondente a /kwc'se/~/kws'he/.
+1% JÃque, no portuguÃªantigo o grafema 's' tinha o valor da fricativa palatal [ ] do portuguÃªde Portugal, como nos lembra Edelweiss. 155 Rodrigues (1945341-2)apresenta as observaÃ§'ede Montoya sobre a correspondÃªncientre os
+dois fonemas: "La H. y ta C (ante E) se s u e h usar u m por outra";no correr do texto, apresentam-se vÃ¡riovocÃ¡buloem que foi indicaria a duplicidadefonÃ©tic"aHe(n),Salida, l.Ce(n). Ahe(n), yo salgo, aunque m se usa m muchas partes, sino ace(n)." Montoya, in: Tesoro de Ia lengua Guarani,p. 146v,
+apud Rodrigues (1945).
+
+correspondem atÃhoje) em Guarani a realizaÃ§Ãµdo fonema /h/. Todavia, numa quantidade nÃ£desprezÃ-vede termos, o que se verifica Ã a conservaÃ§Ãdo fonema /s/ Tupi, tanto no Guarani de Montoya, quanto no Guarani paraguaio contemporÃ¢neoou no MbyÃ¡por exemplo.
+No Nhandewa-Guarani paulista-paranaense atual observa-se uma situaÃ§Ã diferente: os termos que, nos outros dialetos Guarani, mantiveram o /s/ correspondente ao Tupi, no Nhandewa sÃ£ realizados como o fonema africado
+[ & I ,como jÃ foi colocado no tÃ³pic (2.3.a.), isso 6, o fonema /s/ adquiriu um
+contorno [- continuo]; jÃ nos termos em que, nas lÃ-nguaGuarani, o fonema /h/corresponde ao fonema /s/ encontrado nas lÃ-nguaTupi, no Nhandewa eliminou-se completamente o fonema /h/, sem substitui-lo por qualquer outro. Esse Ãum fato novo na fonologia das lÃ-nguaGuarani.
+Um estudo de Guedes e Minatel, de 1996, traÃ§ uma comparaÃ§Ãdas ocorrÃªncia do fonema /s/ no TupinambÃe sua relaÃ§Ãcom as ocorrÃªncia de /h/no Guarani Antigo, no AvanheÃ©mno KaiwÃ¡no MbyÃ e em dois dialetos Nhandewa, um do rio OcoÃ(PR) e outro descrito por Dooley (tambÃ©dialeto do norte do PR). Esse estudo mostra que, nos dialetos Nhandewa, principalmente, e no MbyÃ¡com uma frequÃªncimenor, o fonema /h/ alterna com 0.
+Isso nos permite dizer que o Nhandewa-Guarani de SP e norte do PR Ã a Ãºnic variedade Guarani que apagou o fonema /h/ completamente da sua fonologia.
+A seguir encontram-se duas listas de palavras que ilustram as situaÃ§Ãµ encontradas:
+
+3.2.1- Tabela 1
+
+/s/ Tupi :/s/ Guarani :/ts/ Nhandewa.
+
+Tupi156
+
+1 1 G u a r a ~ l ~1 Nhandewa-Guaranils
+
+PortuguÃª
+
+/ja3si/
+/sÃ£
+I
+/-a's&/
+I
+/-e' sa/
+I
+1 /gwa ' su/
+I
+/sem/
+I
+/ki 'se/
+I
+/su ' ?u/
+
+/ja'si/
+/sÃ£
+/a's*/
+I
+/e's'/
+I
+1 /gwa ' SU/
+I
+/sei
+I
+/ki 'se/
+I
+/su'?u/
+
+/ja'tsi/
+
+/tsÃ£
+
+,
+
+/a ' tsi/
+
+i
+/&'tsa/
+
+l
+/'wa ' tsu/
+l
+
+/tsE/
+
+I
+/ki'ts&/
+
+I
+/tsu ' ?u/
+
+lua corda doenÃ§ olho grande sair faca morder
+
+I
+
+l
+
+/sem/ /se/ ou /h'/
+
+/tse/
+
+1
+sair
+
+O Ãºltim item da tabela parece ser um "dado de transiÃ§Ã£ojÃ que a mudanÃ§Ã flutuante em Guarani e no Nhandewa ela recua. O dado do Guarani, especificamente, Ã fornecido por Edelweiss (1947:98) e mostra /s/ alternando com
+
+1% Estas formas sÃ£ retiradas da bibliografia (Anchieta, Figuiera, Aryon Rodrigues, Edelweiss, Lemos Barbosa etc.) cuja grafia diverge em vÃ¡riopontos. Por isso e para facilitar a comparaÃ§Ã£ uso a transcriÃ§ÃfonolÃ³gic como forma de "homogeneizar" as formas, o que nÃ£traz nenhuma perda para a interpretaÃ§Ã£ 1j7 Trato aqui de maneira generalizada as l'nguas Guarani que mantÃª o /s/ correspondente ao Tupi, por praticidade na comparaÃ§'o jÃ que essa correspondÃªnciÃ observada em lÃ-nguacomo o AvanheÃ©(no Paraguai), o MbyÃ¡o KaiowÃe outros diaietos Nhandewa (no Brasil). As formas dessa coluna, tambÃ© baseadas na literatura (Montoya, Aryon Rodrigues, Edelweiss, Gregores e SuÃ¡rezGuedes e Minatel etc.) tambÃ©estÃ£grafadas de forma a auxiliar o efeito comparativo. 1 s Dados recolhidos por mim com falantes nas aldeias de SÃ£Paulo e ParanÃ¡
+
+/h/. O dado do Nhandewa, registrado por mim,surpreende por apresentar a realizaÃ§Ã [tsi?],e nÃ£ * [i?] c o m o seria esperado.
+
+3.2.2- Tabela 2
+
+/s/ Tupi :/h/ Guarani :/0/Nhandewa.
+
+1 Tupi
+
+1 Guarani
+
+1 1 Nhandewa PortuguÃª
+
+/kwara'si/ /kwe 'se/ /sabtÃ£ /a's'/ /mbosa'pit/ /so4?o/
+
+/kwara'hi/
+/kwe ' he/
+/ha'tÃ£
+I
+/a'ha/
+/mboha'pi/
+/ho ' ?o/
+
+/kwara'i/
+/kwe ' e/
+/a'tÃ£
+I
+/asa/
+6
+/mboa'pi/
+/o'?o/
+
+sol
+ontem
+duro
+I
+EU vou
+trÃª
+carne
+
+/sa'ku/ /mo ' s a w / /sapu'kaja/ /sa'PO/
+
+/ha ' ku/ /mo'hang/ /sapu ' kaj/ /ha ' PO/
+
+eu vou
+
+/a'ku/
+
+quente
+
+/mo ' Ã£
+
+remÃ©di
+
+/tsapu'kaj/ gritar
+
+/a'PO/
+
+raiz (dele)
+
+No momento da apresentaÃ§Ãe discussÃ£ de sistema fonolÃ³gic do
+Nhandewa (capÃ-tulo1 e 2, dessa segunda parte), chamamos a atenÃ§Ãpara uma
+certa tendÃªnci nessa lÃ-ngude eliminaÃ§Ãda sÃ©rdi as fricativas, se comparada com outras variedades Guarani, como o MbyÃ e o AvanheÃ©ma labiodental /v/ encontra-se mudada na aproximante /w/; a alveolar /s/, na africada /ts/; a
+s/; palatal / S / na africada / t e a fricativa glotal /h/ desapareceu completamente.
+Todas essas mudanÃ§afonolÃ³gicasÃ£marcas dialetais do Nhandewa em estudo, lÃ-nguque nÃ£privilegia a oposiÃ§Ãcontinuox descontinuo.
+Como o Nhandewa parece ser o Ãºnic dialeto Guarani que excluiu completamente o fonema /h/ de sua fonologia, tudo indica que fosse justamente esse fonema que ocupava a lacuna que existe no quadro fonolÃ³gicoda pÃ¡gin46. E interessante observar, pois, que apesar de abrir uma lacuna e criar assimetria no quadro fonolÃ³gicoa mudanÃ§processou-se em razÃ£de um imperativo maior: no caso, a eliminaÃ§Ãdas obstruintescontinuas.
+TambÃ©parece correto concluir, com base nos dados, que, na proto-lÃ-ngu comum haveria somente uma fricativa, /s/- a qual deu origem a duas: /s/ e /h/e nÃ£ duas, podendo ficar descartada a possibilidade de se interpretar as realizaÃ§Ãµde /s/ remanescentes nas lÃ-nguaGuarani como descendentes de uma outra fricativa, que nÃ£fosse o mesmo /s/. Isso Ãconfirmado por alguns exemplos da literatura: o termo Tupi / s a l si/ "doenÃ§a" em Guarani possui a forma
+/ha ' si/ e em Nhandewa, o esperado, / a ' t s i / . PorÃ©mdados do Guajajara, TembÃe Parintintin159, mostram as formas: hahÃ-no Guajajara e no TembÃ©e hahy,
+no Parintintin. A mesma interpretaÃ§Ãpode ser dada ao termo Tupi sesÃ"olho dele", que em Guarani Ã hesÃ e no Guajajara e TembÃ©heha. Uma palavra que possui o fonema /s/ duas vezes, nos permite mostrar que em algumas lÃ-nguaa
+159 Dados do Guajajara de Robert e Symes, do TembÃde Rice e do Parintintin de Nimuendaju, citados em Edelweiss (194798).
+117
+
+mudanÃ§ fonolÃ³gic ocorreu somente no primeiro e, em outras, as duas ocorrÃªncia foram mudadas. Se isso Ã possÃ-velÃ muito provÃ¡veque o fonema arcaico que originou os atuais /s/ e /h/ fosse um ÃºniconÃ£dois.
+Encontramos ainda outros termos nos quais a mudanÃ§ Ã flutuante, ou melhor, ocorreu de maneira diferente em cada lÃ-nguaOs termos registrados no Tupi como sy "mÃ£ee usÃ "grande", mantÃª o /s/ em Guarani. No Nhandewa ocorre a esperada mudanÃ§para /ts/, entretanto, no Guajajara e TembÃ©temos a forma ki (ou ky, no Parintintin) e ukÃº
+Como Ã prÃ³pri dos assuntos difÃ-ceie sobre os quais muito se fala, algumas questÃµesempre permanecem. Ficam-nos perguntas, atÃcerto ponto, iniciais: por que, apesar da conversÃ£do fonema /s/ do proto-Tupi em /h/no proto-Guarani, algumas realizaÃ§Ãµde /s/permanecem atÃhoje em l'nguas Guarani?Por que uma mudanÃ§fonolÃ³gicatÃ£marcante na separaÃ§Ãentre Tupi e Guarani, nÃ£ocorreu completamente? Ou ainda: qual o motivo de as palavras Tupi que possuÃ-a o fonema /s/ duas vezes, como / s a l si/ e /se's'/, terem convertido ora uma, ora outra, ora ambas as realizaÃ§Ãdµe /s/ em /h/?
+Esse tema, certamente, nÃ£fica esgotado e merece ser tratado em futuras pesquisas.
+
+Para estudar-se a fonologia da lÃ-nguNhandewa-Guarani falada em SÃ£ Paulo e norte do ParanA, foi de grande relevÃ¢ncium estudo introdut6ri0, com informaÃ§Ãµetnol6gicas e etno-linguÃ-stica indipensÃ¡veis na tentativa de determinar quem sÃ£esses Ã-ndioGuarani que habitam essa regiÃ£hoje, de onde e como eles vieram e de que etnias sÃ£parentes. Sem o quÃÃ dif'cil interpretar em que medida os processos fonol6gicos diacrÃ´nico e sincrÃ´nico ocorreram e ocorrem nessa variedade linguÃ-stica
+No estudo fonol6gico propriamente dito, com a apresentaÃ§Ãdos fones e a discussÃ£do funcionamento do sistema, tomou-se possÃ-veapresentar um quadro fonol6gico composto por 13 segmentos consonantais, sete obstmintes que se opÃµe a seis soantes e uma lacuna. ConcluÃ-moque essa posiÃ§Ãvazia foi deixada, possivelmente, pela eliminaÃ§Ãdo fonerna /h/ do sistema. AlÃ© disso, apresentamos um quadro fonol6gico vocÃ¡lic que em muito se aproxima do tradicionalmente visto na bibliografia, de seis vogais, embora tenhamos assumido apenas duas alturas onde, frequentemente,propÃµe-strÃªs
+A discussÃ£fonol6gica abriu duas questÃµecruciais na fonologia da lÃ-ngua que foram tratadas em capÃ-tulespecÃ-ficoa nasalizaÃ§Ãe o desaparecimento da fricativa glotal /h/. Nos dois casos concluÃ-moque uma interpretaÃ§Ãcom enfoque diacrÃ´nico-comparativ Ã um tratamento que mostra-se bastante produtivo.
+No que se refere a nasalizaÃ§Ã£procuramos tratar um grupo de palavras
+que, nÃ£ possuindo uma consoante nasal, mostrava um espalhamento de nasalidade partindo de uma vogal nasal tÃ´nicaNa literatura a respeito, esse ponto nÃ£ encontra um tratamento satisfat-rio, jÃ que interpretaÃ§Ãµcomo a do
+
+'morfema nasal flutuante", de Piggott, nÃ£sÃ£consistentes. A anÃ¡lis diacrÃ´nic em relaÃ§Ãao Tupi Antigo, ao TupinambÃe ao Guarani Antigo mostrou que uma coda consonantal nasal, presente historicamente na sÃ-labahavia espalhado o seu autossegmento nasal a vogal contÃ-guaantes que um processo de queda das codas silÃ¡bica consonantais, que ocorreu no ramo Guarani, eliminasse sua posiÃ§Ã segrnental.
+Com relaÃ§Ãa eliminaÃ§Ãdo fonema /h/, o caminho foi pensar sobre a origem e destino dessas fricativas, isto Ã© qual, ou quais, fonemas poderiam ter originado tanto /s/ quanto /h/ e qual o motivo de, em alguns casos, o processo nÃ£ocorrer igualmente nas diferentes lÃ-nguaTupi e Guarani apontadas. O estudo diacrÃ´nic nos permitiu, nesse caso, concluir dois fatos: 1) os fonemas /s/ e /h/, encontrados hoje nas lÃ-nguaGuarani, parecem possuir uma origem Ãºnic e comum, o proto-fonema /s/; 2) o desaparecimento da fricativa glotal /h/ Ã parte de um processo fonolÃ³gic caracter'stico do Nhandewa-Guarani paulistaparanaense que eliminou toda a sÃ©rdi as fricativas, preferindo eleger a oposiÃ§Ã soante x obstruinfe.
+Finalmente, alÃ© das questÃµesobre a fonologia do Nhandewa-Guarani, levantaram-se questÃµesobre a prÃ³pri fonologia do Tupi. Certamente ÃnecessÃ¡ri a continuidade do estudo, sendo possÃ-vefazer o caminho inverso e usar a prÃ³pri anÃ¡lisdiacrÃ´nicpara reinterpretar o Tupi.
+
+BIBLIOGRAFIA
+ABAURRE, Maria Bemadete M. & WETZELS, Leo (1992). Sobre a estrutura da GramÃ¡tic FonolÃ³gicaCadernos de Estudos Ling"Ã-stico no 23 (5-17). Campinas: IEL-UNICAMP.
+ABERCROMBIE, David (1965). Studies in Phonetics & Linguistics. London: Oxford University Press.
+ABERCROMBIE, David (1967). Elements of General Phonetics. Edinburgh: Edinburgh University Press.
+ALLAN, Keith (1977). Classsifiers. Language 53: 285-311 ANCHIETA, JosÃde, Pe. (1990) Arte de GramÃ¡tic da lingoa mais usada na costa do Brasil. Ed. Fac-similar a de 1595.SÃ£Paulo: Loyola. BARBOSA, A.L. (1956). Curso de Tupi Antigo. Rio de Janeiro :SÃ£JosÃ© BASB0LL, H. (1988). Phonological Theory. In F.J. Newmeyer (ed). Linguistics: The Cambridge Suruey. Vol. I. Linguistic Theory: Foundations. Cambridge/UK: Cambridge University Press, pp. 192-215. BISOL, Leda (org.) (1975). IntroduÃ§Ã aos estudos de Fonologia do PortuguÃªBrasileiro. Porto Alegre: PUCRS. CABRAL, Ana Suelly Arruda CÃ¢mar (1998). A propÃ³sit das oclusivas sonoras do Jo'Ã©Moara. BelÃ©mUFPA ,n09:53-71. CADOGAN, Leon (1992). Diccionario Mbya-Guarani - Castelhano. AsunciÃ³n Fundaci6n 'Leon Cadogan', Centro de Estudos AntropolÃ³gicosCentro de Estudos Paraguayos 'Antonio Guasch' (CEPAG). CADOGAN, Leon (1992).Ayvu Rapyta. Textos mÃ-ticode tos MbyÃ¡-Guarandei GuairÃ¡AsunciÃ³nFundaciÃ³ 'Leon Cadogan', Centro de Estudos AntropolÃ³gicos CEPAG.
+
+CAGLIARI, Luiz Carlos (1983). Guia de TranscriÃ§ÃFonÃ©tice Outros Textos. Campinas, InÃ©ditIoEL. Vol. I.
+CAGLIARI, Luiz Carlos (1997). Estudos FonolÃ³gicos Campinas: EdiÃ§Ãdo autor.
+CALLOU, Dinah & LEITE, Yonne (1993). IniciaÃ§Ã2 FonÃ©tice 2 Fonologia. (Z Ed. Revisada). Rio de Janeiro: J. Zahar.
+CÃ‚MAR JR., Joaquim M. (1959). Alguns Radicais JÃªRio de Janeiro: Museu Nacional.
+C.D. ande Reko Arandu (MemÃ³ri Viva Guarani) (s/ data). Projeto
+MemÃ³ri Viva Guarani: Aldeia JaexÃPorÃ£Ubatuba, SP. CHOMSKY, Noam & HALLE, Morris (1968). The sound pattern of English.
+New York: Harper & Row. CLASTKES, H e l h e (1978). Terra sem Mal: o profetismo Tupi-Guarani. SÃ£
+Paulo: Editora Brasiliense. CLEMENTS, G.N. & HUME, Elisabeth V. (1995). The internai organization
+of speech sounds. In J. Goldsmith (org.). 7'he Handbook of Phonolopcal Theoy. Cambridge/MA: Blackwell, (p. 245-306).
+COHN, Abigail C (1990). Phonetic and phonological rules of nasalization.
+UCLA Working Papers in Phonetics, 76. Los Angeles: University of Caiifornia -
+Departrnent of Linguistics. COSTA, Consuelo de Paiva Godinho (1999a). Estudo da Fonologia do
+Guarani do AraribÃ¡(Resumo de artigo). XLVII seminÃ¡ri do GEL. Bauru: USC. COSTA, C. P. G. (1999b). Estudo da Fonologia d o Guarani do AraribÃ¡
+(Resumo de artigo). Caderno de resumos do Grupo de Estudos LingÃ¼Ã-sticdo Nordeste.
+Fortaleza: UFCE.
+COSTA, C. P. G. (1999~)E. studo da Fonologia do Guarani d o AraribÃ¡-(Mun
+AvaÃ - S.P.)(Resumo de artigo). VI1 Congresso Interno de IniciaÃ§Ã Cientijca.
+Campinas: Unicamp, (em cd).
+
+COSTA, C.P.G (2002). NasalizaÃ§Ãem Nhandewa-Guarani. Ates do I Encontro Internacional do Grupo de Trabalho sobre LÃ-ngua IndÃ-gena da ANPOLL. BelÃ©mEditora UniversitÃ¡riUFPA.
+CUNHA, Manuela Carneiro da (ore.) (1992). HistÃ³ri dos Ã-ndiono Brasil. Cia. Das Letras/FAPESP/SMC: SÃ£Paulo.
+D'ANGELIS, Wilmar da Rocha (1992).O Kaingang e as relaÃ§Ãµentre traÃ§o
+de modo: contribuiÃ§Ãde uma lÃ-nguindÃ-genbrasileira a discussÃ£da geometria
+de traÃ§osCampinas: IEL - Unicamp. Ensaio a seleÃ§Ãpara o Doutorado em LinguÃ-stica
+D'ANGELIS, Wilmar d a Rocha (1998). TraÃ§o de modo e modos de traÃ§a
+- geometrias: LÃ-ngua Macro-JÃ & Teoria fonol-gica. Campinas, SP: IEL UNICAMP.
+Tese de Doutorado. D'ANGELIS, W.R. (1999). PapÃ©inimaginados da escrita. Leitura: Teoria &
+PrÃ¡tic - Campinas: AssociaÃ§Ãde Leitura do Brasil, no33: 35-43.
+D'ANGELIS, Wilmar da Rocha (2000). AquisiÃ§Ãdo sistema fonolÃ³gic do PortuguÃªs correlaÃ§Ãµopositivas, traÃ§oe hierarquizaÃ§Ã£Cadernos de Estudos LinguÃ-sticosno3923-40.
+DE LEMOS, ClÃ¡udi T.G. Native speaker's intuitions and metalinguistic abilities: what do they have in cominon from the point of view of language acquisition? Cadernos de Estudos Lingu'sticos. Campinas: IEL-UNICAMP, n.33:5-14.
+DIETRICH, Woif. (1990 a) Ckiriguano and Guarayo word formation. Amazonian Linuistics: Studies in Lowland South American Languages, pp.293320. Payne, D. (ed.). Austixx University of Texas Press.
+DIETRICH, Wolf. (1990 b) More evidences for an interna1 classification of TupÃ--Guaranlanguages. Berlin: Mann. (sup. 12).
+DOBSON, Rose M. (1988). Aspectos da L'ngua KayabÃ-SÃ©riLinpiÃ-stica Bras'lia: Sununer Institute os Linguistics, n.12:
+
+DOOLEY, Robert (1976). Nasalization in Guarani. BrasÃ-lia(DF)Summer
+Institute of Linguistics, Acervo do CEDAE, IEL - UNICAMP.
+DOOLEY, Robert (1988). Textos Guarani (Dialeto MbyÃ¡) BrasÃ-lia(DF)
+Summer Institute of Linguistics, Acervo do CEDAE, IEL - UNICAMP.
+DOOLEY, Robert (1991). Apontamentos Preliminares sobre ~ a n & v a - ~ u a r a n i ContemporÃ¢neoBrasÃ-li(DF): Summer Institute of Linguistics. Arquivo LingiiÃ-stic
+no. 197, Acervo do CEDAE, IEL - UNICAMP.
+DUARTE, FÃ¡bi B. (1998). Ordem dos constituintes na lÃ-ngu Temb6. Universo. BrasÃ-liavol. 6, n. 1:71-80.
+DURAND, Jacques (1990). Generative and Non-linear Phonology. New York: Longman.
+DURAND, Jacques & KATAMBA, F. (eds.) (1995). Frontiers of Phonology. Atoms, structures, derivations. London/New York: Longman Linguistics Library.
+EDELWEISS, Frederico G. (1947). Tupis e GuaranÃ-- Estudos e EtnonÃ-mi e
+LinguÃ-sticaSalvador: PublicaÃ§Ãdµo Museu da Bahia. EDELWEISS, Frederico G. (1958). O CarÃ¡te da Segunda ConjugaÃ§ÃTupi e o
+Desenvolvimento HistÃ³ric do Predicado Nominal nos Dialetos Tupi-Guaranis. Salvador: Universidade da Bahia.
+EDELWEISS, Frederico G. (1969). Estudos Tupis e Tupi-Guaranis. Rio de Janeiro: Livraria Brasiliana Editora.
+ENTENMAN,George (1977). The development of nasais vowels. Austin, Texas: Department of Linguistics/ The University of Texas at Austin (Texas Linguistics Forum 7).
+EWEN, Colin J. (1982). The internal structure of complex segments. In
+H.v.d. Hulst & N. Smith (eds.). 7'he structure of phonological representations - (Part 11).
+Dordrecht/Holl.: Foris Publications, pp.27-67. FEINSTEIN, M.H. (1979). Prenasalizations and siÃ-lablstmcture. Linguistic
+Inquiy, 10:245-78.
+
+FERGUSON, Charles A. (1966). Assumptions about nasais: a sample study in phonological universais. In Joseph H. Greenberg (ed.). Universais of Language. (2aed.). Cambridgel MA: MIT Press, p. 53-60.
+FERGUSON, Charles A,; HYMAN, Larry M. & OHALA, John J. (eds.) (1975). NasÃ¡lfesfpapers from a symposium on nasal and nasalization. Stanford/ CA: Stanford University.
+FRANCHETTO, Bruna (1995). Processos FonolÃ³gico em KuikÃºro Uma visÃ£Auto-segmental. In: Wetzels (org.). Estudos FonolÃ³gico das LÃ-ngua IndÃ-gena Brasileiras. Editora da UFRJ: Rio de Janeiro.
+GLEASON, Hemy Allan Jr. (1985) [1917] InfroduÃ§i 2 LinguÃ-stic Descritiva. TraduÃ§Ãde JoÃ£Pinguelo. Lisboa: FundaÃ§ÃGulbenkian.
+GOLDSMITH, John (1990). Aufossegmental ?r Metrical Phonology. Cambridge Basil Oxford, Blackwell.
+GOLDSMITH, John A. (org.) (1995). The Handbook of Phonological Theory.
+CambridgeIMA: Blackwell Publishers. GREGORES, E. & J. SUÃ•RE (1967). A description of colloquial GuaranÃ-The
+Hague: Mouton. GUASCH, P. Antonio, S.I. (1981) Diccionario Casfellano-GuaranÃy GuaranÃ-
+Casfellano.5" ediÃ§ÃA£ssunci6n: Loyola. GUEDES, Marymarcia (1991). SubsÃ-diopara uma AnÃ¡lis FonolÃ³gic do Mbya.
+Carnpina(SP):Editora da UNICAMP. GUEDES, Marymarcia & MINATEL, Maria InÃª (1996). NhandÃ©vaBreves
+ComparaÃ§Ãµde Aspectos FonolÃ³gicosXXV Anais de SeminÃ¡rio do GEL. TaubatÃ©,
+(pÃ¡gs.558-562) HALLE, Morris & MOHANAN, K. Segrnentai Phonology of Modem
+English. Linguistic Inquiry 16 (57-116).
+
+HERNANDORENA, Carmen LÃºci Matzenauer (1975). IntroduÃ§Ãa teoria fonolÃ³gica In Leda Biso1 (org.). IntroduÃ§Ã a estudos de fonologia do PortuguÃª Brasileiro. Porto Alegre: EDIPUCRS, p. 9-94.
+HERNANDORENA, C.L.M. (1992). O estabelecimento de padrÃµe de substituiÃ§Ãconsonantal atravÃ©de traÃ§odistintivos. In: Anais do I1 Encontro Nacional sobre AquisiÃ§Ãda Linguagem. Porto Alegre: Edipucrs, 151-163.
+HERNANDORENA, C.L.M. (1995). Sobre a descriÃ§Ãde desvios fonolÃ³gico e de fenÃ´menoda aquisiÃ§Ãda fonologia. Letras de Hoje. Porto Alegre, vol. 30, n. 4: 91-110.
+IPA (1995). The Internacional Phonetic Alphabet (revised to 1993, corrected 1996). Journal of the Intemational Phonetic Association. 1995, vol. 25. (1): pÃ¡gina centrais, nÃ£numeradas.
+JENSEN, Cheryl Joyce S. (1989) O desenvolvimento HistÃ³ric da lÃ-ngu Wayampi. Campinas: Editora da Unicamp.
+KENSTOWICZ, Michael (1994). Phonology in Generative Grammar. Cambridge/MA: Blackwell.
+KiNDELL, GlÃ³ri Elaine (1981). Guia de AnÃ¡lis FonolÃ³gica BrasÃ-liaSurnmer Institute of Linguistics.
+KIPARSKY, P. (1985). Some consequences of Lexical Phonology. Phonology Yearbook 2: 85-138.
+LADEFOGED, Peter (1971). Preliminaries to Linguistic Phonetics. Chicago: l h e University of Chicago Press.
+LADEFOGED, Peter (1975). A course in Phonetics. New York: Harcourt Brace Jovanovich.
+LAMPRECHT, Regina Ritter. (1992). InfluÃªnci de fatores fonÃ©ticoe fonolÃ³gico na aquisiÃ§Ãdas obstruintes sonoras do PortuguÃªs In: Anais do I1 Encontro Nacional sobre AquisiÃ§Ãda Linguagem. Porto Alegre: Edipucrs, 165-183.
+
+LAMPRECHT, Regina Ritter. (1996) A aquisiÃ§ÃfonolÃ³gic normal e com desvios fonolÃ³gicoevolutivos: aspectos quanto a natureza da diferenÃ§aIn: Atas do
+I Congresso Internacional da ABRALJN. Salvador, ABRALIN - FINEP - UFBA, 253-
+258. LAMPRECHT, Regina Ritter. (1997) TraÃ§o distintivos alterados nos desvios
+fonolÃ³gico evolutivos. Trabalho apresentado no I1 Encontro do CELSUL.
+LAMPRECHT, Regina Ritter. (1999) AquisiÃ§ÃfonolÃ³gic - normal e com desvios - do portuguÃª brasileiro: conhecimento atual e implicaÃ§ÃµGe artner,
+E/Hundt, C/Schonberger, A (eds.). Estudos de gramÃ¡tic portuguesa (11), Frankfurt am Main TFM.
+LEITE, Yonne (1995). Estrutura silÃ¡bic e articulaÃ§ÃsecundÃ¡ri em TapirapÃ©In L. Wetzels (org.) Estudos FonolÃ³gico das LÃ-nguaIndÃ-gena Brasileiras. Rio de Janeiro: UFRJ,: 151-194.
+LÃ‰RYJean de (1926). HistÃ³ri de uma Viagem 2 Terra do Brasil. Trad.
+Monteiro Lobato ,Rio - S. Paulo. Cap. XXII - Colloquio da chegada a terra do
+Brasil, entre um TupinarnbÃe um francez. LICHTENBERK, Frantisek. (1983)Relational Classifiers. Lingua 60: 147-176. LONG PENG (2000). Nasal harmony in three south American languages.
+l]AL, vol. 66, no. 1(pp. 76-97). LOPES, Edward (1989). Fundamentos da LinguÃ-stic ContemporÃ¢nea(6' Ed.).
+SÃ£Paulo: Cultrix. MEADER, Bob (1976). Textos em Guarani (Aldeia Laranjinha). BrasÃ-lia(DF)
+Summer Institute of Linguistics. Microficha CEDAE/IEL - U N I C M .
+MELIA, Bartomeu (1992). La Lengua Guarani de1 Paraguay. Historia, Sociedad
+y Literatura. Madrid: Editorial Mapfre.
+MELIA, Bartomeu (1995). Elogio de Ia Lengua Guarani. AsunciÃ³nCEPAG.
+
+MELIA, Bartomeu & NAGEL, Liane Maria (1995). GuaranÃ-ey jesuitas en tienzpo de Ias Missiones: una bibliograf'a didbctica. Santo Ã‚ngelo AsunciÃ³n URI, Centro de Cultura Missioneira, CEPAG.
+MITHUN, Marianne. (1984) The evolution of noun incorporation. Language 60: 847-894.
+MONTOYA, Antonio Ruiz de (1985). Conquista Espiritual feita pelos religiosos da Companhia de Jesus nas ProvÃ-ncia do Paraguai, ParanÃ¡ Uruguai e Tape. Trad. Arnaldo Bruxel. Porto Alegre: Martins Livreiro.
+MONTOYA, Antonio Ruiz de (1993). Arte de Ia Lengua Guarani (1640). IntroduÃ§Ãe notas: Bartomeu MeliÃ¡TranscricÃ£ abalizada: Antonio Caballos. AsunciÃ³nCEPAG.
+MORI, Angel Corbera (2001). Fonologia. In: Mussalim e Bentes (ores.) IntroduÃ§Zb LingÃ¼Ã-stidcomÃ-nioefronteiras 1.SÃ£Paulo: Cortez Editora.
+MOTA, Helena Bolli. (1996) AquisiÃ§Ãsegmentai do portuguÃªsum modelo implicacional de complexidade de traÃ§osTese de Doutorado, Porto Alegre: PUCRS.
+MOTA, Helena Bolli. (1997) AquisiÃ§Ãsegmenta1do portuguÃªsum modelo implicacional de complexidade de traÃ§osLetras de Hoje, Porto Alegre, vol. 32, n. 4: 23-47.
+NIMUENDAJU, Curt (1978). Los mitos de creaciÃ³ y destrucci-n dei mundo como fundamentos de Ia religiÃ³ de 10s Apapokuva-Guarani. Trad. J. Barnadas. Lima(Peru):Centro ~XXI~ZÃ“NCde Antropologia y AplicaciÃ³ Practica.
+NIMUENDAJU, Curt (1987). As lendas de criaÃ§Ãe destruiÃ§Ãdo mundo como fundamentos da religiÃ£dos ApapocÃºva-GuaraniTrad. Charlotte Emmerich & Eduardo B. Viveiros de Castro. Editora Hucitec/USP: SÃ£Paulo.
+OHALA, J.J. e JAEGER, J.J. (eds.) (1986) Experimental Phonology. Orlando: Academic Press.
+
+PIGGOTT, G.L. (1992) Variability in feature dependency: the case of nasality. Natural Language and Linguistic Theoiy, 10:33-77.
+PIGGOTT, G.L. (1996) Implications of consonant nasalization for a Theory of Hannony. Canadian Joumal of Linguistics - CfL/RCL, ,41, (2): 141-74.
+PIVA, Roberto (1997).Ciclones.Editora Nanquim: SÃ£Paulo. RANGEL, G.A. (1998) Os diferentes caminhos percorridos na aquisiÃ§Ãda fonologia d o portuguÃªsLetras de Hoje. Porto Alegre: vol. 33, n. 2: 133-140. RICE, Keren D. (1993) A reexamination of the feature [sonorant]: the status os 'sonorants obstruents'. Language, ,vol. 69, (2):308-344. RIVAS, Alberto (1974a). ApiipareheguÃ Avafie'em: nasalizafion in GuaranÃMs, MIT.
+RIVAS, Alberto. (1974b). Nasalization inGuarani. NELS 5.134-143.
+RODRIGUES, Aryon DalTigna (1945). FonÃ©ticHistÃ³ric Tupi-Guarani: DiferenÃ§afonÃ©ticaentre o Tupi e o Guarani. Arquivos do Museu Paranaense, Curitiba, IV.
+RODRIGUES, Aryon Dali'igna (1986). LÃ-ngua brasileiras. Para o conhecimento das lÃ-nguaindÃ-genasSÃ£Paulo: Loyola,.
+RODRIGUES, Daniele M. Grannier (1990). Fonologza do Guarani Antigo. Campinas: Editora da UNICAMP.
+SAUSSURE, Ferdinand de (1949). Cours de Linguistique GÃ©nÃ©rOalrg. por Charles Bally e Albert Sechehaye. Paris: Payot, (Iaed. 1916).
+SCARPA, E.M. (1988) Desenvolvimento da intonaÃ§Ãe a organizaÃ§Ãda fala inicial. Cadernos de Estudos LinguÃ-sticasn. 14.Carnpinas:UNICAMP.
+SCARPA, E.M. (1990). Intonation and dialogue processes in early speech. In: Conti-Ramsden & C. Snow (orgs.), Children's Langiiage, col. 7, Hillsdale, N.J., Lawrence Erlbaum.
+SCHADEN, Egon (1967-68). Notas sobre a vida e a obra de Curt NimuendajÃºRevista de Antropologia, vols. 15e 16: 77-89.
+
+SCHADEN, Egon (1974). Aspectos fundamentais da cultura Guarani. (3' EdiÃ§Ã£ SÃ£Paulo: Ed. PedagÃ³gic UniversitÃ¡riaUDUSP.
+SCHADEN, Egon (1989).A Mitologza HerÃ³ic de Tribos IndÃ-genado Brasil. SÃ£ Paulo: Edusp.
+SEKI, Lucy (1987). Para uma caracterizaÃ§ÃTipolÃ³gic do KamaiurÃ¡
+- Cadernos de Estudos LingÃ¼Ã-sticNo 12 - Instituto de Estudos da Linguagem
+UNICAMP, 15-24. SEKI, Lucy (1990). KamauirÃ(TupÃ--GuaranÃas an Active-Stative Language.
+In: D. Payne (ed.) Amazonian Linguistics. University of Texas Press, (367-391). SEKI, Lucy (2000). GramÃ¡tic KamayurÃ¡Campinas: Ed. da Unicamp. SOUSA, Gabriel Soares de (1987). Tratado Descritivo do Brasil em 1587. (5aed.)
+S. Paulo/BrasÃ-liaCia Editora Nacional/ INL. TAYLOR, John (1984a). MarcaÃ§Ã temporal na lÃ-ngu KaiwÃ¡ SÃ©ri
+LingiiÃ-stica BrasÃ-liaSummer Institute of Liguistics, n. 11:37-121.
+TAYLOR, John (1984b). A interrogaÃ§ilna lÃ-nguKaiwÃ¡SÃ©riLingÃ¼Ã-stic BrasÃ-liaSummer Institute os Linguistics, n. 11:123-156.
+TEIXEIRA, Raquel & DAHLSTROM, Amy (1987). Uma comparaÃ§Ãentre os sistemas de marcaÃ§Ãde caso do TupinambÃ e do Guarani Paraguaio. SignÃ³tica GoiÃ¢nia,UFGano 1:181-201.
+TROUBETZKOY, N.S. [1939]. Principies of Phonology. CapÃ-tulotraduzidos
+por Wimar da Rocha LY Angelis. Campinas: IEL - UNICAMP, 1996.
+TROUBETZKOY, N.S. (1981). A Fonologia Atual. In: Dascal, M (org.). Fundamentos MetodolÃ³gico da LingiiÃ-sticaVol. 2 (15-35). Campinas: EdiÃ§Ãdo autor.
+UNCKEL, Curt (1954). Sobre a HistÃ³ri dos Guarani. Revista do Museu Paulista, N.S. vol. VIII: 13-31.
+VIEIRA, Mareia D. & LEITE, Yonne (1998). ObservaÃ§Ãµpreliminares sobre a lÃ-nguArawetÃ©Moam. BelÃ©mUFPA, no97-31,
+
+WEISS, Helga E (1980). FonÃ©ticArticulafÃ³ria Guia e ExercÃ-cios(X EdiÃ§Ã£o
+BrasÃ-liaSummer Institute of Linguistics. WETZELS, Leo (1985). 7'he kisforical pkonology of intrusive sfops. A nonlinear
+description. CJL/RCL, 30, (3): 285-333. WETZELS, Leo (1995). A Teoria FonolÃ³gic e as LÃ-ngua IndÃ-gena
+Brasileiras. In: Leo Wetzels (org.). Estudos FonolÃ³gico das LÃ-ngua IndÃ-gena Brasileiras. Editora da UFRJ.
+
+- Guarani diaieto do Arariba (Posto Nimuendajh, SP)
+
+1.619
+
+Tine <se=â
+Juventina Alves, 1'11 111998
+
+2.120
+
+BIBLIOTECA CENTRAL SECÃƒ CIRCULANTE
+
+

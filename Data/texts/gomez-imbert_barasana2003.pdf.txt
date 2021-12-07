@@ -1,0 +1,1036 @@
+Une langue du Nord-ouest amazonien : le barasana
+Elsa Gomez-Imbert*
+Plusieurs caractéristiques font du barasana une langue singulière. En voici des exemples. La nasalité n’y est pas un trait phonémique mais morphémique, propriété relevée à ce jour dans peu de langues en dehors de l’aire amazonienne1. Les tons forment un système interprétable, soit comme des mélodies tonales, soit comme de l’accent tonal (ce qui rappelle certaines langues bantoues ainsi que le japonais), dont une des complexités majeures est l’existence de préfixes tonals sans support segmental. Du côté segmental, la dynamique des processus saillants — épenthèse et gémination vocaliques, fusion consonantique — trouve sa cohérence dans une analyse de la structure prosodique où les unités de base sont des mores. Notez que ces propriétés phonologiques résistent aux approches structurales classiques. Il y a deux classes de mots : nom et verbe. Le verbe a un système élaboré de marqueurs de modalité cognitive, qui offre au locuteur le choix d’exprimer : une connaissance directe, constat plein (visuel) ou restreint (non visuel, auditif de préférence) ; ou bien une connaissance indirecte, événement inféré (traces visuelles) ou rapporté (traces auditives). Les mots nominaux sont marqués par un paradigme important de morphèmes, appelés traditionnellement classificateurs, que la phonologie partage en fait entre des racines et des suffixes d’après leur structure en mores. L’ordre de base des constituants de la phrase est OVS, ordre typologiquement rare. Enfin, le rôle de langue identitaire que le barasana partage avec une quinzaine d’autres langues apparentées, dans un système d’exogamie linguistique où la filiation patrilinéaire est marquée par l’usage de la langue paternelle, est exceptionnel. On se limite dans cette présentation sommaire à une ébauche de quatre points : 1) l’exogamie linguistique, 2) la nasalité, 3) les préfixes tonals qui marquent la personne grammaticale, 4) l’ordre des constituants de la phrase2.
+1. EXOGAMIE LINGUISTIQUE
+Les groupes de la branche orientale de la famille linguistique tukano sont connus dans la littérature ethnographique par leur exogamie linguistique et le
+* ERSS, UMR 5610, CNRS et Université Toulouse-Le Mirail. 1 En gokana (Hyman 1982) et dans d’autres langues d’Afrique de l’ouest (Clements & Osu, à paraître). 2 Pour un traitement des caractéristiques énumérées voir Gomez-Imbert (1997a) ; pour la structure prosodique voir aussi Gomez-Imbert (1997b).
+
+2
+
+Laurent Danon-Boileau
+
+multilinguisme généralisé qui en est le corollaire3. Les Barasana, qui habitent dans le bassin de la rivière Piraparaná en Colombie (affluent de l’Apaporis), sont
+un de ces groupes exogames. Leur vrai nom est ~hadérá, ou encore jebá-~baca ‘gens de Jebá’, d’après le nom de leur ancêtre mythique, le jaguar Jebá4. Les Barasana sont estimés à cinq cents sujets, mais le nombre de locuteurs potentiels
+de leur langue se situe au delà de ce chiffre, car les sujets de langue maternelle
+barasana ne sont pas comptés comme des Barasana. Observez la figure (1) qui schématise la filiation paternelle et les alliances entre trois groupes linguistiques
+partenaires dans l’exogamie : les Barasana (dessin sur fond clair), les Tatuyo
+(dessin sur fond foncé) et les Bara (noir). Suivez d’abord dans le schéma la ligne de filiation ascendante des deux familles nucléaires barasana de la plus jeune
+génération, celle de la couche du bas : leurs pères et leurs grand-pères paternels
+sont Barasana, leurs mères sont Tatuyo. Suivez ensuite la ligne de filiation des familles tatuyo et bara de la couche suivante ; en remontant à la génération de
+leurs parents, vous constatez que les mariages se font entre partenaires de lignage
+paternel différent : si l’homme est Bara la femme est Tatuyo ; si l’homme est Tatuyo la femme est Bara ou Barasana.
+Que la filiation soit patrilinéaire est un fait banal ; ce qui l’est moins est la
+fonction dont sont investies les langues comme repère de cette filiation. La langue est conçue par ces groupes comme l’expression de l’essence d’un
+individu, c’est-à-dire de l’identité héritée par lignage paternel : la langue
+paternelle est promue alors au rôle de langue identitaire que l’on exhibe comme un document attestant l’origine. Voici comment l’enfant arrive à abandonner sa
+langue maternelle pour parler exclusivement sa langue paternelle. Comme dans
+la plupart de sociétés, l’enfant grandit auprès de sa mère et apprend d’abord sa langue maternelle. L’unité résidentielle où il vit, village ou maison commune, est
+patrilocale et linguistiquement hétérogène, puisque les épouses viennent d’autres
+groupes linguistiques et parlent chacune sa langue paternelle, langue qui peut être commune à plusieurs d’entre elles. Les conditions d’acquisition ainsi créées
+sont particulières : l’enfant est exposé à la langue maternelle et à la langue
+paternelle durant ses premières années, mais de façon inégale car il vit davantage dans l’intimité du monde féminin de la mère et des autres femmes du groupe
+local. Vers l’âge de cinq ans l’enfant est conduit à n’utiliser que sa langue
+paternelle, par des arguments du genre : “ Puisque tu es Barasana tu dois parler
+
+3 Leur territoire traditionnel est localisé dans le Nord-ouest amazonien en Colombie (le Vaupés) et au Brésil (le Uaupés). Les noms qui identifient couramment ces groupes sont : bara, barasana, desano, edúuria (ou taiwano), karapana, kubeo, makuna, piratapuyo, pisamira, siriano, tanimuka, retuama, tatuyo, tukano, tuyuka, wanano, yuruti. La famille tukano est divisée en deux branches, occidentale et orientale, qui n’ont pas de contact actuellement. La branche occidentale est localisée dans le Sud-ouest colombien, l’Equateur et le Pérou. Le nom donné à la famille est celui d’une langue de la branche orientale. 4 Leur langue est appelée ~hadérá oká ‘langue des ~hadérá’. Le tilde préposé à un morphème indique que ce morphème est nasal. Tous les segments du nom ~hadérá se prononcent nasals [hèaèn :e@è\èa@è] ; la nasalité est souscrite de façon à permettre une notation aisée du ton.
+
+Une langue du Nord-ouest amazonien : le barasana
+
+3
+
+la langue des Barasana ”. La langue paternelle devient ainsi celle que tout homme ou femme doit utiliser car elle marque son identité sociale : relations familiales, alliances et échanges de toute sorte. Ce modèle d’exogamie linguistique est explicitement considéré comme la norme à suivre dans les mariages : épouser quelqu’un de même langue paternelle relève d’une relation incestueuse.
+(1)
+
+Ce contexte d’acquisition — ainsi que les voyages, que ces groupes affectionnent — produisent une société polyglotte, où les langues sont employées néanmoins de façon spécifique : celle du père de façon active, les autres — y compris celle de la mère — de façon passive5. On passe à une langue autre que celle du père
+5 La différence de statut de la langue paternelle et des autres langues est marquée par l’emploi de deux verbes différents : un individu ne peut ‘parler’ ~jagó-re que sa langue paternelle ; quant aux autres langues, y compris la langue maternelle, il ne peut que les ‘imiter’ kecóó-ré. Pour des détails sur l’exogamie voir Sorensen (1967), Jackson (1983), Gomez-Imbert (1991, 1996). Il y a deux ouvrages ethnographiques sur les Barasana : C. Hugh-Jones (1979) et S. Hugh-Jones (1979).
+
+4
+
+Laurent Danon-Boileau
+
+lorsque celle-ci n’est pas comprise par l’interlocuteur, en cherchant un terrain d’entente. En dehors du Piraparaná, et en particulier côté brésilien, la langue
+tukano est devenue langue générale, en grande partie grâce aux missionnaires et
+à l’école. Si jamais il y avait une langue générale dans le Piraparaná, ce serait sans doute le barasana. L’inventaire des langues connues par une personne
+(surtout âgée aujourd’hui de plus de quarante ans) se situe autour de la dizaine.
+La conséquence de ce contact étroit entre langues est que certaines — en général celles parlées par des groupes qui entretiennent des relations d’exogamie
+préférentielles — se différencient minimalement. Un cas extrême est celui du
+parler des Barasana et des Edúuria, qui se distingue essentiellement par les tons (Gomez-Imbert 1999).
+Bien que des ethnologues et des linguistes se soient intéressés de près à
+l’exogamie, on est encore loin d’une réelle compréhension de certains aspects, en particulier du processus d’acquisition des langues. Des psycholinguistes y
+trouveraient d’ailleurs un terrain unique pour tester des hypothèses sur
+l’acquisition par l’étude des réactions aux langues des bébés élevés en milieu bilingue, voir multilingue) comme celles décrites dans Mehler (1998). Ils nous
+aideraient à mieux comprendre la relation entre ces langues. On aimerait savoir
+l’âge où un bébé est capable de distinguer le barasana du tatuyo, le barasana du bara. Savoir si un nouveau-né est sensible à la différence entre la langue des
+Edúuria et la langue des Barasana, c’est-à-dire aux tons, puisque les bébés
+auraient tendance à se concentrer sur la mélodie des langues. Enfin, avoir la confirmation que la langue maternelle est bien la langue dominante et la langue
+paternelle, celle qui sera utilisée quotidiennement par l’adulte, la deuxième
+langue.
+
+2. NASALITE
+
+Il y a en barasana des sons orals et des sons nasals comme en français : b, a, m, ã. Mais, à la différence du français, les combinaisons bã ou ma n’y sont pas attestées ; seules ba et mã sont possibles. La nasalité, phonétiquement omniprésente, imprègne des suites de segments, deux au minimum, qui sont soit des mots entiers soit des morphèmes, lexèmes ou suffixes. On arrive en fin de compte à réduire le système à six voyelles et onze consonnes orales (2)6. La nasalité phonétique résulte de la diffusion d’un trait autosegmental propre au morphème (suprasegment ou prosodie en termes plus traditionnels). (C)V(V) est la syllabe canonique.
+
+(2) Segments
+
+a. voyelles
+
+i
+
+i
+
+u
+
+e
+
+a
+
+o
+
+[haut]
+[arrière] [arrondi]
+
++
+
++
+
++
+
+-
+
+-
+
+-
+
++
+
++
+
+-
+
++
+
++
+
+-
+
+-
+
++
+
+-
+
+-
+
++
+
+6 La voyelle i étirée, haute et d’arrière est semblable à celle du japonais.
+
+Une langue du Nord-ouest amazonien : le barasana
+
+5
+
+b. consonnes
+[-résonant][-voisé] [-continu] [+continu][glotte ouverte] [-résonant][+voisé] [-continu] [+résonant][+continu]
+
+labial p7
+b w
+
+coronal [+ant] t
+d r
+
+coronal [-ant]
+c
+
+dorsal k
+
+j
+
+g
+
+laryngal h
+
+On ne trouve dans le lexique que des oppositions entre racines orales [-N] et racines nasales [+N], comme celles présentées en (3). Certains suffixes sont variables, tantôt orals et tantôt nasals, suivant la propriété du constituant qui se trouve en amont dans le mot : c’est le cas de -re et -ce en (3)8. La nasalité propre aux racines de la colonne (3b), indiquée dans la transcription phonologique par un tilde préposé, nasalise tous les segments de ces racines et du suffixe, hormis les segments sourds [-voisé] : les voyelles a → [ã] etc. ; les consonnes plosives voisées /b/ → [m] /d/ → [n] /j/ → [ñ] /g/ → [η], les résonantes /w/ → [w], /r/ → [r ] et l’aspiré laryngale [h ]9.
+
+(3) a. Racine orale [-N]
+
+/
+
+b. Racine nasale [+N]
+
+/b/ báá-ré [baá-ré] ‘nager’
+
+~báá-ré [mããre´] ‘saisir par poignées’
+
+bíbí-ré [
+
+] ‘ciller’
+
+~bibí-ré [
+
+] ‘sucer’
+
+/d/ widí-ce [wid:íce] ‘broussailleux’ ~widí-cé [
+
+] ‘senteur’
+
+tudí-ré [
+
+] ‘retourner’
+
+~túdí-ré [
+
+] ‘pondre (poissons)’
+
+/j/ júu-re [
+
+] ‘avaler’
+
+~júu-re [
+
+] ‘viser’
+
+jaá-ré [
+
+] ‘bâiller’
+
+~jaá-cé [
+
+] ‘maladie’
+
+/g/ cígé-ré [
+
+] ‘pincer’
+
+~cígé-ré [
+
+] ‘frotter’
+
+gidá-ré [
+
+] ‘excrément-O’ ~gidá-ré [
+
+] ‘déféquer’
+
+/w/ waá-ré [
+
+] ‘fendre (objet rond)’ ~waá-ré [
+
+] ‘saigner’
+
+weá-ré [
+
+] ‘déboucher’
+
+~weá-ré [
+
+] ‘suspendre (hamac)
+
+/r/ wáré-ré [
+
+] ‘frôler, caresser’ ~wáre-re [
+
+]‘veiller, être éveillé’
+
+ruú-ré [
+
+] ‘noyer’
+
+~ruú-ré [
+
+] ‘égréner’
+
+/t/ tiá-ré [
+
+] ‘coudre’
+
+~tíá-ré [
+
+] ‘nourrir le feu’
+
+/c/ ciá-ré [
+
+] ‘nouer, attacher’ ~cíá-ré [
+
+] ‘tuer’
+
+/k/ boká-re [
+
+] ‘rencontrer’
+
+~boká-re [
+
+] ‘s’envoler’
+
+/h/ hahá-ré [
+
+] ‘se redresser’ ~hahá-ré [ ] ‘entrer (dans affluent)’
+
+cahá-cé [
+
+] ‘consommable’ ~cahá-ré [
+
+] ‘entrer’
+
+Les suffixes variables, non spécifiés [øN], apparaissent en fin de mot jusqu’à
+
+trois successifs (4a,b). La diffusion de la nasalité se fait progressivement dans le
+
+7 /p/ n’apparaît en surface que dans des idéophones et des emprunts ; /p/ intervient aussi dans un processus de fusion consonantique qui aboutit à /h/ en surface. 8 Les racines verbales sont présentées à l’infinitif, forme de citation. –re crée des infinitifs des verbes d’action, à référent concret ; -ce des infinitifs de verbes qualitatifs et à référent abstrait. Un suffixe nominal homophone –re marqueur de cas, partage ces propriétés. 9 Par ailleurs, les plosives ont une réalisation géminée en position interne de morphème, toujours intervocalique, qu’elles soient orales ou nasales : [b:], [m:], [d:], [n:] [j:], [ñ:], [g:], [η:], [p:], [t:], [c:], [k:].
+
+6
+
+Laurent Danon-Boileau
+
+mot : dans (4b) la racine nasalise les trois suffixes variables. Les suffixes finals peuvent aussi être nasals (4c,d). On trouve dans un mot des suites où alternent
+des morphèmes orals et nasals dans les deux ordres (4c,d). Dans l’ordre nasal-
+oral il y a blocage de la diffusion à la borne morphémique (notée =), et d’autres allophones y apparaissent lorsque le morphème oral commence par une plosive voisée (4d) : les prénasales [mb ], [nd ], [ñj], [ηg ] 10.
+
+(4)
+
+a. [-N] [øN] [øN] [øN]
+
+báa -ju
+
+-ha
+
+-ri
+
+-PERS nage IND
+
+INTER
+
+[
+
+]
+
+‘a-t-il nagé, apparemment ?’
+
+b. [+N] [øN] [øN] [øN]
+
+~báa -ju
+
+-ha
+
+-ri
+
+-PERS saisit IND
+
+INTER
+
+[
+
+]
+
+‘a-t-il saisi, apparemment ?’
+
+c. [-N] [+N] [-N] [+N]
+
+báa -rugú =koá -~bó
+
+nage CONT RES
+
+ACC-F
+
+[
+
+]
+
+‘elle a déjà nagé comme d’habitude’
+
+d. [+N] ~kedóo fabrique [
+
+[-N] =beti
+NEG
+]
+
+[+N] -~bací
+PREC
+
+[-N] [+N]
+
+=koá -~bí
+
+RES
+
+ACC-M
+
+‘il a déjà fabriqué précédemment’
+
+Ce type d’harmonie nasale, peu documenté, pose un certain nombre de
+problèmes aux théories phonologiques, que l’on ne fera qu’évoquer faute d’espace11. Les questions posées vont de la représentation d’éléments flottants
+comme la nasalité morphémique, au mode de diffusion de segment à segment,
+qui doit se faire en évitant les consonnes non-voisées mais en respectant une condition dite d’adjacence stricte qui vise à contraindre ce genre d’opération. La
+meilleure solution semble être une mise à contribution de la structure
+prosodique, dans un modèle non linéaire, de façon à faire passer la nasalité de syllabe à syllabe, tel qu’il est montré en (5).
+
+10 Les abréviations utilisées dans les gloses des suffixes sont : ACCompli, ANimé, BENEFactif, CONTinuatif, DEVerbal, Féminin, INACcompli, INClusif, INDirecte (modalité cognitive), INTERrogatif, LOCatif, Masculin, NEGatif, Objet, PERSonne, PLuriel, PRECédent, RAPporté (modalité cognitive), RESultatif, STABilisé. 11 Des données barasana de piètre qualité sont utilisées dans des travaux théoriques récents traitant d’harmonie nasale (Piggott 1992, Piggott et Hulst 1997, Walker 1998, Peng 2000).
+
+Une langue du Nord-ouest amazonien : le barasana
+
+7
+
+(5) a. parle
+~j a g ó [+N] →
+↓↓ σσ
+µµ
+
+NEG
+-b e t i [-N] ↓ σσ
+µµ
+
+STAB
+-k a [-N]
+σ
+
+ACC-F -~b o [+N]
+↓ σ
+
+µ
+
+µ
+
+[ ñ ã η: õ
+
+mb e t: i
+
+ka mõ ]
+
+[+nasal]
+
+[-nasal]
+
+[+nasal]
+
+‘elle n’a pas parlé, c’est un fait établi’
+
+b.
+
+cherche NEG
+
+STAB
+
+ACC-F
+
+~b a k á
+
+-b e t i -k a -~b o
+
+[+N] →
+
+[-N]
+
+[-N]
+
+[+N]
+
+↓↓
+
+↓
+
+σσ
+
+σσ σ
+
+σ
+
+µµ
+
+µµ µ
+
+µ
+
+[ m ã k: ã [-v]
+
+mb e t: i k a m õ ]
+
+[+nasal]
+
+[-nasal]
+
+[+nasal]
+
+‘elle n’a pas cherché, c’est un fait établi’
+
+Le trait autosegmental [+N] s’étend aux deux syllabes des racines et à celle du
+suffixe final en (5), extension signalée par des flèches. Il atteint le niveau des
+mores et nasalise aussi bien la voyelle que la consonne en attaque, sauf si celleci est non-voisée [-V]12. La prénasalisation de la plosive voisée [mb] ne peut cependant pas être obtenue par la voie syllabique. Mais étant donné qu’il s’agit
+d’un processus tardif (il a lieu aussi entre des mots), elle peut se faire par une extension de segment à segment de la nasalité phonétique (trait hachuré).
+
+3. LES PREFIXES TONALS
+La morphologie barasana est polysynthétique et agglutinante, à flexion segmentale suffixale, mais avec des préfixes tonals. Dans la glose des mots verbaux interrogatifs (4a,b) est indiqué un premier constituant non-personne (-
+12 La gémination des plosives internes de morphème est obtenue par une association ambisyllabique, en attaque puis en coda de la syllabe qui précède ; ces codas étiques sont les seules existantes en barasana.
+
+8
+
+Laurent Danon-Boileau
+
+PERS) sans correspondance segmentale : il s’agit d’un préfixe tonal qui marque le sujet grammatical ‘il/elle/ils/cela’. Dans les mots assertifs (4b,d) le sujet est
+exprimé segmentalement dans la voyelle o /i du suffixe final d’accompli –~bo
+/~bi. Ces exemples introduisent la stratégie de marquage de la personne sujet dans le mot verbal, qui peut être formulée ainsi : lorsque le suffixe final
+n’indique pas le sujet, marquez-le par un préfixe tonal. Cette stratégie obéit à
+deux facteurs : a) que le mot soit assertif ou interrogatif ; b) que le sujet relève de la personne ou de la non-personne grammaticale13.
+Afin de comprendre le jeu entre les préfixes tonals et les tons des racines,
+commençons par ces dernières. Les racines nominales et verbales présentent quatre schèmes tonals, représentés dans les noms et les verbes des phrases en (6)
+: H (a), BH (c), HB (b) et BHB (d). Si on fait abstraction du ton initial des racines
+(c,d) on a en fait deux schèmes : H et HB.
+
+(6)
+
+a. H
+
+hóá-ré cúá-~bí
+
+O
+
+V
+
+‘il a coupé les cheveux’
+
+c. BH
+
+kahí-ré baá-~bí
+
+O
+
+V
+
+‘il a mangé la coca’
+
+b. HB
+
+báa-~bo ~róbio
+
+V
+
+S
+
+‘la femme a nagé’
+
+d. BHB
+
+wihíbo-re cuá-~bi
+
+O
+
+S
+
+‘il a tressé le plateau’
+
+Différents processus, comme l’association des préfixes, indiquent que le ton B initial des racines (c,d) n’est pas un ton lexical mais un ton inséré tardivement, car il est phonologiquement inerte. Le ton H des racines ignore la more initiale et va se fixer sur la deuxième14. On se trouve donc face à une opposition /H/ versus /HB/ tout à fait étonnante, car les langues à deux niveaux opposent en général H à B (ou, exprimé en traits, [+H] à [-H]), solution non viable en barasana. On est alors tentés par les dispositifs de la phonologie non linéaire pour réduire ces schèmes à une opposition binaire. En opposant, par exemple, deux tons H d’après leur propriété de diffusion : un ton H non-borné qui s’étend vers les mores en aval dans le mot (6a,c), à un ton haut H) borné qui ne s’étend pas en aval (6b,d). Ou encore, en considérant que les
+
+13 Au sens de Benveniste (1966) : {+PERS} est la personne déictique, première ou deuxième ; {-PERS} est la non-personne déictique, la troisième. 14 Dans de nombreuses langues, les opérations phonologiques ignorent l’élément initial ou final d’une séquence comme s’il était invisible quand ces opérations ont lieu. Cette invisibilité, qui est une propriété des entrées lexicales au même titre que les tons, peut être interprétée comme de l’“ extramétricité ” (Halle et Vergnaud 1987), ou encore comme un diacritique propre à la deuxième more, qui attirerait le premier ton (Larry Hyman c. p.). L’élément invisible est inséré entre des parenthèses angulaires <>. Les deux tons lexicaux et l’extramétricité ou diacritique rendent compte du profil tonal des mots : il y a au moins un ton H par mot (a-d) ; il y a des mots à tons H uniquement (a) ; un mot ne commence jamais par une suite de tons B, si le premier ton est B le deuxième est nécessairement H (c,d) ; il n’y a donc pas de mots qui ne comportent que des tons B.
+
+Une langue du Nord-ouest amazonien : le barasana
+
+9
+
+morphèmes à ton H, sans contraste tonal, sont inaccentués [-A], tandis que ceux à tons HB sont accentués [+A]15. Cependant, des processus comme celui représenté en (7) suggèrent que le ton B final est un ton phonologique, car il est actif. On observe dans les noms bimores à tons BHB (7) un allongement facultatif de la voyelle finale (certains Barasana le font, d’autres non), que l’on ne peut expliquer que par la présence d’un ton B qui flotte (a) et déclenche l’allongement de la voyelle et l’insertion d’une more supplémentaire qui devient son unité porteuse (b)16. L’association de deux tons à une même more est interdite en barasana ; autrement dit, il n’y a pas de tons mélodiques. L’opposition sousjacente est bien entre /H/ et /HB/ (Gomez-Imbert 2001).
+
+(7) a.
+
+HB
+
+b.
+
+H B Allongement facultatif
+
+<µ> µ
+
+→
+
+<µ> µ µ
+
+cohe
+
+c o h e cohé / cohée‘porte’
+
+Revenons aux préfixes. Le tableau (8) présente la dérivation des mots assertifs à
+sujet non-personne, qui marquent le sujet par le suffixe final : ~bi AN M,~bo AN F,~ba AN PL. Le schème H y est obtenu par diffusion progressive du ton de la
+racine (a) : suivant les conventions de la phonologie autosegmentale la ligne
+d’association pleine indique l’association première d’un ton, flottant dans la représentation lexicale ; les lignes hachurées marquent les associations
+ultérieures. Notez que la more est le pivot auquel s’associent les différents
+éléments d’une représentation non linéaire : segments, nasalité, tons.
+
+(8) sujet {-PERS}
+ASSERTIF POSITIF
+a. ‘il a coupé’ b. ‘elle a nagé’
+ASSERTIF NEGATIF
+a. ‘ils n’ont pas coupé’ b. ‘elle n’a pas nagé’
+
+a. H ‘couper’ cú á -~b í
+µµ µ
+H
+cú á -bé -~b á µµµ µ
+H
+
+b. HB‘nager’ bá a -~bo µµ µ
+HB
+bá a -be -~bo µµ µ µ
+HB
+
+Dans les mots interrogatifs en (9), correspondant aux formes assertives en (8), le suffixe final interrogatif -ri est insensible à la personne17 ; le sujet de nonpersonne est alors exprimé par un préfixe tonal HB qui produit la disparition du
+
+15 L’idée d’opposer les tons par leur propriété diffusante ou non diffusante m’a été suggérée par Morris Halle et par Patrick Sauzet. Pour l’interprétation comme un accent tonal voir Gomez-Imbert et Kenstowicz (2000). 16 La voyelle longue est obtenue en associant une mélodie vocalique à deux mores. 17 Après le négatif, dont la forme de base est bet avec une consonne latente, l’interrogatif ri devient ti par une opération de fusion des deux consonnes adjacentes.
+
+10
+
+Laurent Danon-Boileau
+
+ton de la racine. Il s’agit d’un processus régulier : après un ton HB, aucun autre ton ne survit dans un domaine tonal.
+
+(9) sujet {-PERS}
+INTERROGATIF
+a. ‘a-t-il coupé ?’ b. ‘a-t-elle nagé ?’
+INTERRO-NEGATIF a. ‘n’ont-ils pas coupé ?’ b. ‘n’a-t-elle pas nagé ?’
+
+a. H ‘couper’
+c ú a -r i µµ µ
+
+→ ø H B-PERS
+
+HRAC
+
+cú a -b e -t i
+
+µµ µ µ
+
+→ ø H B-PERS
+
+HRAC
+
+b. HB‘nager’ bá a -r i µµ µ
+→ ø H B-PERS HBRAC bá a -be -t i µµ µ µ
+→ ø H B-PERS HBRAC
+
+Comparez les mots interrogatifs en (9) à ceux en (10) : les tons y indiquent une
+différence de sujet. Le sujet {+PERS} est marqué en (10) par un ton H cette fois-
+ci. Le ton HB de la racine en (b) est décalé par le préfixe vers le deuxième constituant du mot.
+
+(10) sujet {+PERS}
+INTERROGATIF
+a. ‘as-tu coupé ?’ b. ‘as-tu nagé ?’
+INTERRO-NEGATIF a. ‘n’as-tu pas coupé ?’ b. ‘n’as-tu pas nagé ?’
+
+a. H ‘couper’ cú á -r í µµ µ
+H+PERS HRAC
+cú á -b é -t í µµ µ µ
+H+PERS HRAC
+
+b. HB‘nager’
+bá á -r í µµ µ
+
+H+PERS H BRAC
+bá á -bé -t i µµ µ µ
+
+H +PERS H
+
+BRAC
+
+Le sujet {+PERS} des formes assertives est marqué aussi préfixalement (11). Le suffixe final -bi (hi après le négatif) marque l’aspect accompli seulement. Les racines en (11) ont un ton B initial en surface. Le préfixe H ignore la more initiale et s’associe à la deuxième more : voilà pourquoi ce ton ne peut être sous-jacent.
+
+(11) sujet {+PERS}
+ASSERTIF POSITIF
+c. ‘tu (je/nous/vous) as mangé’
+d. ‘tu as tressé’
+ASSERTIF NEGATIF
+c. tu n’as pas mangé’ d. tu n’as pas tressé’
+
+c. <B>H ‘manger’ b a á -b í <µ> µ µ
+H+PERSHRAC
+b a á -bé -h í <µ> µ µ µ
+H+PERSHRAC
+
+d. <B>HB ‘tresser’ cu á -bí <µ> µ µ
+H+PERS H BRAC
+bá a -be - h i <µ> µ µ µ
+H+PERSH BRAC
+
+Une langue du Nord-ouest amazonien : le barasana 11
+En relation à ces deux préfixes, il faut souligner que les pronoms de nonpersonne sont à ton HB, alors que les pronoms de personne sont à ton H. La difficulté à saisir cette stratégie réside d’abord dans le fait que les préfixes tonals se réalisent sur le premier constituant segmental du mot, la racine, dont le ton est déplacé vers le constituant suivant ou effacé, si la séquence de tons est viable ou non. Enfin, le suffixe des formes de personne -bi est homophone du suffixe qui marque un sujet non-personne inanimé. La différence y est encore marquée tonalement. On a par exemple kedí-bi tíi ‘cela est tombé’ face à kedí-bí jií ‘je suis tombé’ avec une racine de classe (d) (Gomez-Imbert 2000).
+
+4. L’ORDRE DES CONSTITUANTS DE LA PHRASE
+
+Il existe deux classes lexicales en barasana : nom et verbe. Les notions adjectivales sont exprimées par des racines verbales — ~jíí-cé ‘être noir’, ~ídí-cé
+‘être puant’, ací-cé ‘être chaud’, ejá-cé ‘être large’, ~rikí-ce ‘être lourd’ — ou
+par des racines nominales, bikí- ‘mûr, âgé’, ~bábá- ‘neuf, jeune’. Les adverbes sont une sous-classe de noms ; il y a une seule forme exclusivement adverbiale,
+bitó ‘beaucoup’, puis des nominalisations : jóa-ro ‘longuement’, gúa-ro ‘vite’,
+jajío-ro ‘en cachette’. Des notions comme ‘assez’ ou ‘trop’ sont exprimées par des suffixes dans le verbe. Il y a aussi des particules : mots exclamatifs, mots-
+phrases tels que hái ‘d’accord’, báa ‘qui sait’.
+La phrase se construit autour d’un verbe conjugué : le verbe et ses arguments, sujet et objets, en sont le noyau ; les compléments — locatif, temporel, adverbe
+— se placent autour de ce noyau (12d, 13a,c,d). Un ordre différent est un ordre
+marqué, ou alors déterminé par l’enchaînement textuel. La place canonique du sujet d’une phrase intransitive (12a) ou transitive (b,c) est après le verbe.
+
+(12)
+
+a.
+
+V
+
+S
+
+~jagó -~bí
+
+racé
+
+parle ACC-M
+
+toucan
+
+Le toucan a parlé.
+
+b.
+
+O
+
+V
+
+S
+
+~juká
+
+-ré
+
+hío
+
+-~bo
+
+jií ~bákó
+
+jus de manioc O
+
+verse ACC-F
+
+moi fille
+
+Ma fille a préparé le jus de manioc.
+
+c.
+
+O
+
+V
+
+S
+
+~bií ~bákó -ré
+
+~iá -bí
+
+jiá
+
+toi fille O +PERS -voit ACC
+
+nous INC
+
+Nous avons vu ta fille.
+
+d.
+
+LOC
+
+O
+
+V
+
+wecé -hi -re, ~baká=róká-hi-re, ~có -re waá -rótí -be -cú -hu
+
+abattis LOC O forêt
+
+LOC O elle O va ordonne NEG IND RAP
+
+Son père ne lui permet d’aller ni à l’abattis ni à la forêt, dit-on.
+
+S
+~cóo hakí elle père
+
+12
+
+Laurent Danon-Boileau
+
+Le sujet peut également apparaître avant le verbe, ordre qui indique une thématisation ; dans ces cas, une pause sépare généralement le sujet du reste de
+la phrase. Le nominal peut alors être accompagné de spécificateurs tels que ~ridé
+‘seul’ (13b), ~kéde ‘aussi’ (13c). Le sujet est exprimé sous forme nominale (12ab,13ab) ou pronominale (12c,13c). Dans une même phrase, il peut apparaître
+à la fois sous forme de nom et de pronom, avant et après le verbe respectivement
+(13d) : le nom précède le verbe, le pronom le suit. Le nom est le thème ; la présence du pronom après le verbe obéit à l’ordre canonique de la phrase. Cet
+ordre n’est pas immuable (15).
+
+(13)
+
+a. S
+
+O
+
+V
+
+ADV
+
+~cigó-ó,
+
+~cóo ~bakó-re bahé –ju -hu
+
+bitó
+
+un F
+
+elle fille O
+
+bat IND RAP
+
+beaucoup
+
+Une femme, elle bat beaucoup sa fille, dit-on.
+
+b.
+
+S
+
+O
+
+V
+
+~cóo ~bakó ~ridé,
+
+~kíi
+
+óe-go jí -ju -hu
+
+elle fille seul
+
+manioc râpe F fait IND RAP
+
+Seule sa fille est en train de râper du manioc, dit-on.
+
+c.
+
+SO
+
+V
+
+LOC
+
+~í-~kede, ~wábí baá -~já -gí jí -ju -hu, ~wábí búhí-hi
+
+lui aussi umari mange existe M fait IND RAP umari champ LOC
+
+Lui aussi est occupé à manger de l’umari, au champ d’umari dit-on.
+
+d.
+
+S Nom
+
+V
+
+S Pronom
+
+LOC
+
+~háá -~rá gokóa -~ra rihá -~ba ~ída,
+
+hi -re
+
+beaucoup PL poissons sp. PL meurt ACC-PL ils lac
+
+LOC-O
+
+Beaucoup de poissons sont morts au lac.
+
+itábíkírá -
+
+Dans une phrase transitive, la place canonique de l’objet est devant le verbe : O V S (12b,c, 13a-c), ordre le plus souvent attesté dans la conversation et dans les textes. L’objet est marqué par le suffixe re. Lorsque la phrase est bitransitive, à deux objets, celui qui est le destinataire de l’événement, dit objet indirect, est le plus proche du verbe et reçoit toujours le suffixe re : OD OI V S (14b,c). Le patient, ou objet direct, peut recevoir ou non le suffixe re ; sans suffixe il est à interpréter comme indéfini (13b) ; le suffixe indique qu’il est défini (12b). L’objet indirect est l’objet prééminent (voir Queixalós, ce volume).
+
+(14)
+
+a.
+
+O
+
+V
+
+S
+
+koá
+
+-~ba -re
+
+oté -bí
+
+~bádí
+
+calebasse filiforme O +PERS-plante ACC
+
+nous-INCL
+
+Nous avons planté la liane de calebassier.
+
+b. OD
+
+OI
+
+V
+
+S
+
+~hído=bi
+
+ji -ré
+
+cuá -~íci -be -á -ha ~bií
+
+pressoir18
+
+moi O +PERS -tresse donne NEG INAC EVID toi
+
+Tu ne veux pas tresser et me donner un pressoir à manioc.
+
+18 Littéralement : anaconda-tubulaire.
+
+Une langue du Nord-ouest amazonien : le barasana 13
+
+c. OD
+
+OI
+
+cejó -ri -~wabe ~í -re
+
+drôle DEV entité
+
+lui O
+
+Elle lui dit une blague, dit-on.
+
+V
+jí -ju -hu dit IND RAP
+
+S
+~cóo elle
+
+Dans une phrase interrogative à mot interrogatif, celui-ci est en position initiale,
+que ce soit le sujet (15a), l’objet (b) ou un complément (c). On peut interpréter
+cet ordre comme une thématisation de l’argument ou du complément sur lequel porte l’interrogation.
+
+(15)
+
+a. S
+
+OD
+
+OI
+
+V
+
+~jib -í
+
+waí -ré
+
+ji -ré huá -heo -bocá -jú -ha-ri
+
+qui M
+
+poisson O
+
+moi O extrait pose BENEF IND INTER
+
+Qui peut bien laisser ce poisson à ma portée ?
+
+b. OD
+
+OI
+
+V
+
+~jeé -ré
+
+~bádí -ré eká-~rugú –jú -ha-ri
+
+quoi O
+
+nous-INC O nourrit CONT IND INTER
+
+De quoi peut-elle bien nous nourrir notre mère ?
+
+S
+~bádí hákó nous-INC mère
+
+c. LOC V
+
+S Pronom S Nom
+
+~doó-hí
+
+waá -cú- ha-ri
+
+~cóo, jií hákó
+
+où LOC va IND INTER
+
+elle
+
+moi mère
+
+Où a-t-elle bien pu partir, ma mère ?
+
+Le verbe de la phrase principale est toujours conjugué. Cependant, un verbe peut apparaître tronqué de la suffixation finale, procédé caractéristique du style
+narratif. Ce sont des cas d'anadiplose de liaison et de parataxe. Par anadiplose on
+reprend en guise de liaison, au début d'une phrase, le thème du mot verbal de la phrase précédente : dans les deux phrases ci-dessous, le thème du verbe de la
+phrase (16a) juhí 'se réveiller' est repris au début de la phrase (b). Par parataxe on
+énumère une séquence d'événements, chronologiquement ordonnée, telle que 'manger… boire… s'en aller' dans (b). Ce procédé est différent de la sérialisation
+verbale, fréquente, que l’on voit dans le verbe des phrases (12d, 13c, 14b, 15a).
+
+(16)
+
+a.
+
+TEMP
+
+V
+
+S
+
+~jábí=káá
+
+bucú -ri -hai -re
+
+juhí
+
+-~báci -bi
+
+jiá.
+
+nuit rangée:hier fait jour DEV lieu O +PERS-se réveille PREC ACC
+
+nous-EXCL
+
+Hier nous nous sommes réveillés à l'aube.
+
+b. ANAD PARAT
+
+PARAT O
+
+V
+
+S
+
+juhí… baá-juhí…
+
+idí… wecé waá -koá -hí jiá.
+
+se réveille mange-se réveille boit abattis +PERS-va RES ACC nous-EXCL
+
+Réveillés… pris le petit-déjeuner… bu… nous sommes allés à l’abattis.
+
+14
+
+Laurent Danon-Boileau
+
+REFERENCES Benveniste E., 1966, Structure des relations de personne dans le verbe, in
+Problèmes de linguistique générale, Gallimard, Paris, p. 225-236. Clements G. N. & Osu S., à paraître, Patterns of nasality and obstruence in
+Ikwere, an African language with nasal harmony, in A. S. Cabral, Rodrigues A. D. (eds), Línguas Indígenas Brasileiras: Fonologia, gramática e história. (Actas do Primeiro Encontro Internacional do GTLI da ANPOL), Belém: Gráfica Universitária/UFPA, 2 vols., 2002. Hyman L. M., 1982, The representation of nasality in Gokana, in H. van der Hulst, N. Smith (eds), The structure of phonological representations I, Foris, Dordrecht, p. 111-130. Gomez-Imbert E., 1991, Force des langues vernaculaires en situation d’exogamie linguistique : le cas du Vaupés colombien (Nord-ouest amazonien), Cahiers des Sciences Humaines 27:3-4, ORSTOM, Paris, p. 535-59. Gomez-Imbert E., 1996, When animals become “ rounded ” and “ feminine ”: conceptual categories and linguistic classification in a multilingual setting, in J. J. Gumperz, S. C. Levinson S.C. (eds), Rethinking linguistic relativity, Cambridge University Press, Cambridge, p. 438-469. Gomez-Imbert E., 1997a, Morphologie et phonologie barasana : approche nonlinéaire, Doctorat d’Etat, Université Paris 8, Saint-Denis. Gomez-Imbert E., 1997b, Structure prosodique et processus segmentaux en barasana (langue tukano orientale d’Amazonie colombienne, Cahiers de grammaire 22, p. 97-125. Gomez-Imbert E., 1999, Variations tonales sur fond d’exogamie linguistique, Cahiers de Grammaire 24,, p. 67-93. Gomez-Imbert E., 2000, Como si tú y el agua fuesen una misma persona gramatical , in H. van der Voort, S. van de Kerke (eds), Essays in the indigenous languages of lowland South America. Contributions to the 49th International Congress of Americanists in Quito 1997. CNWS, Universiteit Leiden, The Netherlands, pp. 129-48. Gomez-Imbert E., 2001, More on the tone versus pitch accent typology: evidence from Barasana and other Eastern Tukanoan languages, in S. Kaji (ed), Proceedings of the Symposium Cross-Linguistic Studies of Tonal phenomena. Tonogenesis, Japanese. Accentology and other Topics. Institute for the study of Languages and Cultures of Asia and Africa (ILCAA), Tokyo University of Foreign Studies, Tokyo, p. 369-412. Gomez-Imbert E. & Kenstowicz M., 2000, Barasana tone and accent , International Journal of American Linguistics 66.4, p.419-63. Halle M. & Vergnaud J. R., 1987, An essay on stress, MIT Press, Cambridge. Hugh-Jones C., 1979, From the Milk river. Spatial and temporal processes in Northwest Amazonia, Cambridge University Press, Cambridge. Hugh-Jones S., 1979, The palm and the Pleiades. Initiation and cosmology in Northwest Amazonia, Cambridge University Press, Cambridge. Jackson J., 1983, The Fish people: linguistic exogamy and Tukanoan identity in Northwest Amazonia, Cambridge University Press, Cambridge. Mehler J., 1998, L’inné, une notion mal acquise, Le monde de l’éducation 255, p. 40-41. Peng L., 2000, Nasal harmony in three South American languages, International Journal of American Linguistics 66.1:76-97.
+
+Une langue du Nord-ouest amazonien : le barasana 15
+Piggott G. L., 1992, Variability in feature dependency: the case of nasality, Natural Language and Linguistics Theory 10.1: 33-77.
+Piggott G. L., Hulst H. van der, 1997, Locality and the nature of nasal harmony, Lingua 103 :85-112.
+Queixalós F., ce volume, Relations grammaticales et hiérarchie des objets en sikuani.
+Sorensen A. P., 1967, Multilingualism in the Northwest Amazon, American Anthropologist 69.6, p. 670-682.
+Walker R., 1998, Nasalization, neutral segments and opacity effects, SLUG Pubs, U. of California, Santa Cruz.
+
+
