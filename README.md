@@ -18,7 +18,7 @@ This is a course divided into three modules as Jupyter Notebooks:
 | grammars | sample of both pdf and extracted text for data unit |  
 | Images | images for slides |
 
-## Addition files
+## Additional files
 
 - markdown-cheat-sheet.md : Save this for help with markdown text
 - forms.csv : Example data from https://sacha.beniamine.net/dataset/beniamine-maiden-round-2019/
