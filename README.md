@@ -10,12 +10,16 @@ This is a course divided into three modules as Jupyter Notebooks:
 - Data: CMLT_Data.ipynb
 - Modelling: CMLT_Modelling.ipynb
 
+## Videos
+
+Videos of the classes can be found on youtube: https://www.youtube.com/playlist?list=PLQKN8nN3qXVvX1dVs8ubPgP7_BgfFvPhz
+
 ## Folder structure
 
 | <!-- -->    | <!-- -->    |
 |-------------|-------------|
 | data  | sample dataset for modelling unit |
-| grammars | sample of both pdf and extracted text for data unit |  
+| grammars | sample of both pdf and extracted text for data unit (removed)|  
 | Images | images for slides |
 
 ## Additional files
